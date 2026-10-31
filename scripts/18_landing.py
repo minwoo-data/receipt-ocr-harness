@@ -70,7 +70,7 @@ steps_html = "".join(f'<li><span class="sn{" b" if n == "B" else ""}">{e(n)}</sp
 
 CSS = f"""
 :root {{ --bg:#ffffff; --fg:{PAL.INK}; --fg2:{PAL.INK2}; --rule:{PAL.GRID}; --accent:{PAL.ACCENT}; --t1:{T['T1']}; --t2:{T['T2']}; --t3:{T['T3']}; --t4:{T['T4']}; --rev:{T['review']};
-  --zone-local:#f5f7fa; --zone-cloud:#fbf5f6; --zone-fb:#f6f6f7; --card:#ffffff; --good:{PAL.GOOD}; }}
+  --zone-local:#f5f7fa; --zone-cloud:#fdf4ee; --zone-fb:#f6f6f7; --card:#ffffff; --good:{PAL.GOOD}; }}
 @media (prefers-color-scheme: dark) {{ :root {{ --bg:#111418; --fg:#e8eaee; --fg2:#a2abb6; --rule:#2c3138; --accent:#9db7dc; --t1:#9db7dc; --zone-local:#161c24; --zone-cloud:#1f1719; --zone-fb:#18191b; --card:#1a1e24; --good:#8cc79a; color-scheme:dark; }} }}
 * {{ box-sizing:border-box; }}
 body {{ margin:0; background:var(--bg); color:var(--fg); font-family:Arial, Helvetica, sans-serif; font-size:16px; line-height:1.5; }}
@@ -97,8 +97,8 @@ p {{ margin:0 0 10px; max-width:68ch; }}
 .zone.cloud {{ background:var(--zone-cloud); border-color:var(--t3); border-style:dashed; }}
 .zone.fb {{ background:var(--zone-fb); border-style:dashed; margin-top:4px; }}
 .zl {{ font-size:12.5px; font-weight:bold; letter-spacing:0.04em; text-transform:uppercase; }}
-.leave {{ font-size:14px; font-weight:bold; color:var(--t3); margin:0; }}
-@media (prefers-color-scheme: dark) {{ .leave {{ color:#e3a5ab; }} }}
+.leave {{ font-size:14px; font-weight:bold; color:{PAL.CLOUD_TEXT}; margin:0; }}
+@media (prefers-color-scheme: dark) {{ .leave {{ color:#f5ad83; }} }}
 .node {{ position:relative; background:var(--card); border:1px solid var(--rule); border-top:5px solid var(--fg2); padding:8px 10px 8px 40px; display:grid; gap:1px; font-size:14px; }}
 .node b {{ font-size:15.5px; }}
 .node span {{ color:var(--fg2); }}
