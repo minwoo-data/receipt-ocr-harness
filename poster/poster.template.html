@@ -30,7 +30,7 @@
   .terms { background:var(--band); border-radius:4pt; padding:6pt 8pt; font-size:8.8pt; }
   .terms b { color:var(--ink); }
   .fig { display:block; max-width:100%; height:auto; margin:0 auto; }
-  .figA { max-height:1.75in; } .figB { max-height:3.05in; }
+  .figMain { max-height:3.05in; } .figSide { max-height:1.75in; }
   .cap { font-size:8pt; color:var(--ink2); margin-top:2pt; }
   .ladder { display:grid; grid-template-columns:repeat(4,1fr); gap:5pt; margin:4pt 0 6pt 0; }
   .rung { border:1.5px solid var(--grid); border-top:5px solid; border-radius:4pt; padding:4pt 6pt; font-size:8.3pt; }
@@ -115,8 +115,8 @@
         </div>
       </section>
       <section>
-        <img class="fig figB" src="../results/figures/fig_sweep.png" alt="Escalation curve">
-        <div class="cap"><b>Fig A.</b> Receipts sent to the cloud (x) vs accepted precision (y) as the local confidence threshold sweeps. The star is the oracle; the gap between it and the curves is what better escalation signals could still buy.</div>
+        <img class="fig figMain" src="../results/figures/fig_outcomes.png" alt="Outcomes by policy">
+        <div class="cap"><b>Fig A.</b> Where 300 scanned receipts end up under each policy, the share of accepted answers that are right, and API cost per 1,000.</div>
       </section>
       
       <section>
@@ -133,8 +133,8 @@
 
     <div class="col">
       <section>
-        <img class="fig figA" src="../results/figures/fig_outcomes.png" alt="Outcomes by policy">
-        <div class="cap"><b>Fig B.</b> Where 300 scanned receipts end up under each policy, the share of accepted answers that are right, and API cost per 1,000.</div>
+        <img class="fig figSide" src="../results/figures/fig_sweep.png" alt="Escalation curve">
+        <div class="cap"><b>Fig B.</b> Receipts sent to the cloud vs accepted precision as the local threshold sweeps. Star = oracle; the gap is what a better escalation signal could still buy.</div>
       </section>
       
       <section>
