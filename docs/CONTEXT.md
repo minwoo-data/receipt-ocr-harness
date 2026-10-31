@@ -32,3 +32,8 @@ Heinz Reverse Career Fair poster (event Wed 2026-11-04). **PDF upload deadline S
 
 ## Key numbers (run of 2026-10-31, SROIE 300, date+total exact)
 T1 72.7% / T2 83.0% (28 s) / T3 97.3% ($0.54 per 1k) / T4 98.0% ($1.42). Oracle 27% cloud -> 98.7% ($0.15). Router 56% -> 95.7%. Harness 96.9% at 4.3% review. Gates: T2 51 errors 38 caught, T3 8/5, T4 6/4. Wild: T1 55%, T2 81%, T3 86.5%, oracle 90%, router 84% cloud -> 87.0%. Synthetic: 16 injections, 0 fooled, 0 leaked. Retry: blind 0 fixed/1 broke, guided 1/1.
+
+## Status 2026-10-31 12:50 ET
+A/B/C done and committed (poster v3). Remaining: user review -> "공개해" -> repo public -> user uploads PDF -> hub done.
+
+## 13:10 ET: added policy local_only (T1 self-signal -> local VLM with checks -> review, no cloud). SROIE 93.4% precision / 19% review / $0; Wild 89.0% / 31.5%. Not yet on the poster (README candidate).

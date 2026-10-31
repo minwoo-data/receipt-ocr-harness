@@ -162,6 +162,16 @@ def decide(row: dict, policy: str, params: dict | float) -> dict:
         take("T3", t3)
         return {"tier": "T3", "path": path, "cost": cost, "latency_ms": lat}
 
+    if policy == "local_only":
+        # No cloud at all: T1 when its self-signal passes, else the local VLM with code checks, else review.
+        take("T1", t1)
+        if local_ok:
+            return {"tier": "T1", "path": path, "cost": cost, "latency_ms": lat}
+        take("T2", t2)
+        if t2["available"] and not row["flags"]["t2"]:
+            return {"tier": "T2", "path": path, "cost": cost, "latency_ms": lat}
+        return {"tier": "review", "path": path, "cost": cost, "latency_ms": lat}
+
     if policy == "router":
         take("T1", t1)
         if local_ok:
@@ -315,8 +325,8 @@ def main() -> None:
 
     policies = [summarize(rows, p, {"tau": args.tau}) for p in
                 ("all_local", "all_qwen", "all_lite", "all_strong", "oracle", "router", "harness", "harness_ladder",
-                 "router_solo", "harness_solo", "harness_ladder_solo")]
-    sweep = [summarize(rows, p, {"tau": tau}) for p in ("router", "harness", "harness_ladder", "router_solo", "harness_solo", "harness_ladder_solo")
+                 "router_solo", "harness_solo", "harness_ladder_solo", "local_only", "local_only_solo")]
+    sweep = [summarize(rows, p, {"tau": tau}) for p in ("router", "harness", "harness_ladder", "router_solo", "harness_solo", "harness_ladder_solo", "local_only", "local_only_solo")
              for tau in (0.0, 0.5, 0.6, 0.7, 0.8, 0.85, 0.9, 0.93, 0.95, 0.97, 0.99, 1.01)]
     falls = [waterfall(rows, t) for t in ("t2", "t3", "t4")]
 
