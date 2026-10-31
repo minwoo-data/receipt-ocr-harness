@@ -87,8 +87,14 @@ def fig_sweep(sweep: list[dict], policies: list[dict]) -> None:
                       if s["policy"] == pol and s["accepted_money_precision"] is not None})
         ax.plot([p[0] for p in pts], [p[1] for p in pts], color=color, linewidth=2, marker="o", markersize=4, label=name)
         if pts:
-            for x, yv, tau in (pts[0], pts[-1]):
-                ax.annotate(f"τ={tau:g}", (x, yv), textcoords="offset points", xytext=(4, -9 if pol.startswith("router") else 5),
+            for i, (x, yv, tau) in enumerate((pts[0], pts[-1])):
+                if pol.startswith("router"):
+                    off, ha = (4, -9), "left"
+                elif i == 0:                                   # harness start: up-left, clear of the rising line
+                    off, ha = (-4, 4), "right"
+                else:
+                    off, ha = (4, 5), "left"
+                ax.annotate(f"τ={tau:g}", (x, yv), textcoords="offset points", xytext=off, ha=ha,
                             fontsize=6.5, color=C["ink2"])
     lr = H / ".." / "learned_router" / "curve.json"
     if lr.exists():

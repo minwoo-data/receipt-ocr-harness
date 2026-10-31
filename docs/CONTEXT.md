@@ -39,3 +39,6 @@ A/B/C done and committed (poster v3). Remaining: user review -> "공개해" -> r
 ## 13:10 ET: added policy local_only (T1 self-signal -> local VLM with checks -> review, no cloud). SROIE 93.4% precision / 19% review / $0; Wild 89.0% / 31.5%. Not yet on the poster (README candidate).
 
 ## 13:50 ET: poster v4 (simplified: terms box with oracle/AUC, routing summary table incl. local-only; retry table and Fig C dropped). docs/OVERVIEW.ko.md = Korean narrative + mermaid flow + data-residency checklist.
+
+## 13:40 ET (session cc-3bdbaffc): preview fixes + workflow redesign
+Fig A tau=0 label moved off the harness line; companion panel 2 is an HTML ladder (no cut-off; tap a panel title for full screen); workflow_en/kr rebuilt as architecture diagram (local / Gemini / Anthropic boundaries, numbered steps) + compact decision flow + muted details, all numbers read from results JSON. Poster columns 790/790/790. Open question for the user: `cloud_share` in policies/tau_sweep is the share *accepted* at a cloud tier (harness 52%), not the share *sent* (56.3%); poster Fig A x-axis says "sent". Not changed yet.
