@@ -99,11 +99,40 @@ def vlm_flags(rec: dict | None, ocr_lines: list[str] | None) -> list[str]:
 # ---------------------------------------------------------------------------
 # Policies
 # ---------------------------------------------------------------------------
-def decide(row: dict, policy: str, tau: float) -> dict:
-    """Return {'tier': accepted tier or 'review', 'path': [...tiers consulted], 'cost': float, 'latency_ms': int}."""
+INF = float("inf")
+
+
+def decide(row: dict, policy: str, params: dict | float) -> dict:
+    """Return {'tier': accepted tier or 'review', 'path': [...tiers consulted], 'cost': float, 'latency_ms': int}.
+    params: {'tau': float} for the rule policies, {'D': seconds, 'scale': float} for 'hedge'."""
+    if not isinstance(params, dict):
+        params = {"tau": float(params)}
+    tau = float(params.get("tau", 0.9))
     t1, t2, t3, t4 = row["t1"], row["t2"], row["t3"], row["t4"]
     sig = row["signal"]
     path, cost, lat = [], 0.0, 0
+
+    if policy == "hedge":
+        # Plan §B: start T2 at t=0; if its (scaled) arrival is later than D, fire T3 at t=D.
+        # First arrival with an empty flag list wins; all flagged -> review. T4 never called.
+        D = float(params.get("D", 5.0))
+        scale = float(params.get("scale", 1.0))
+        t2_arr = ((t2["latency_ms"] or 0) / 1000.0) * scale if t2["available"] else INF
+        fired = [("T2", t2_arr, t2, row["flags"]["t2"])]
+        cloud_fired = t2_arr > D
+        if cloud_fired:
+            t3_arr = (D if D != INF else 0.0) + ((t3["latency_ms"] or 0) / 1000.0) if t3["available"] else INF
+            fired.append(("T3", t3_arr, t3, row["flags"]["t3"]))
+        fired.sort(key=lambda x: x[1])
+        cost = sum((ev["cost"] or 0.0) for _, _, ev, _ in fired if ev["available"])
+        path = [n for n, _, _, _ in fired]
+        for name, arr, ev, flags in fired:
+            if ev["available"] and not flags:
+                return {"tier": name, "path": path, "cost": cost, "latency_ms": int(arr * 1000) if arr != INF else 0,
+                        "latency_kind": "wall", "cloud_fired": cloud_fired}
+        arrivals = [a for _, a, ev, _ in fired if ev["available"] and a != INF]
+        return {"tier": "review", "path": path, "cost": cost, "latency_ms": int(max(arrivals) * 1000) if arrivals else 0,
+                "latency_kind": "wall", "cloud_fired": cloud_fired}
 
     def take(tier_name, ev):
         nonlocal cost, lat
@@ -158,19 +187,24 @@ def decide(row: dict, policy: str, tau: float) -> dict:
     raise ValueError(policy)
 
 
-def summarize(rows: list[dict], policy: str, tau: float) -> dict:
+def summarize(rows: list[dict], policy: str, params: dict | float) -> dict:
+    if not isinstance(params, dict):
+        params = {"tau": float(params)}
+    tau = params.get("tau")
     n = len(rows)
     accepted = 0
     acc_money_ok = 0
     acc_all_ok = 0
     leaked = 0
     review = 0
+    cloud_fired = 0
     tiers = {"T1": 0, "T2": 0, "T3": 0, "T4": 0}
     cost = 0.0
     costed = 0            # receipts whose whole decision path had results (cost is averaged over these only)
     lats = []
     for row in rows:
-        d = decide(row, policy, tau)
+        d = decide(row, policy, params)
+        cloud_fired += 1 if d.get("cloud_fired") else 0
         if all(row[t.lower()]["available"] for t in d["path"]):
             cost += d["cost"]
             costed += 1
@@ -188,7 +222,9 @@ def summarize(rows: list[dict], policy: str, tau: float) -> dict:
         if ev["all_ok"]:
             acc_all_ok += 1
     return {
-        "policy": policy, "tau": tau, "n": n,
+        "policy": policy, "tau": tau, "params": params, "n": n,
+        "cloud_fired_share": round(cloud_fired / n, 4) if policy == "hedge" else None,
+        "latency_kind": "wall" if policy == "hedge" else "sequential_sum",
         "auto_accept_share": round(accepted / n, 4),
         "review_share": round(review / n, 4),
         "tier_share": {k: round(v / n, 4) for k, v in tiers.items()},
@@ -277,18 +313,37 @@ def main() -> None:
         for r in rows:
             fh.write(json.dumps(r, ensure_ascii=False) + "\n")
 
-    policies = [summarize(rows, p, args.tau) for p in
+    policies = [summarize(rows, p, {"tau": args.tau}) for p in
                 ("all_local", "all_qwen", "all_lite", "all_strong", "oracle", "router", "harness", "harness_ladder",
                  "router_solo", "harness_solo", "harness_ladder_solo")]
-    sweep = [summarize(rows, p, tau) for p in ("router", "harness", "harness_ladder", "router_solo", "harness_solo", "harness_ladder_solo")
+    sweep = [summarize(rows, p, {"tau": tau}) for p in ("router", "harness", "harness_ladder", "router_solo", "harness_solo", "harness_ladder_solo")
              for tau in (0.0, 0.5, 0.6, 0.7, 0.8, 0.85, 0.9, 0.93, 0.95, 0.97, 0.99, 1.01)]
     falls = [waterfall(rows, t) for t in ("t2", "t3", "t4")]
 
     (out / "policies.json").write_text(json.dumps(policies, indent=1), encoding="utf-8")
     (out / "tau_sweep.json").write_text(json.dumps(sweep, indent=1), encoding="utf-8")
     (out / "waterfall.json").write_text(json.dumps(falls, indent=1), encoding="utf-8")
+    pct = lambda v: "n/a" if v is None else f"{v*100:.1f}%"   # noqa: E731
+    (out / "per_receipt.schema.json").write_text(json.dumps({
+        "schema_version": 1,
+        "required_row_keys": ["key", "t1", "t1b", "t2", "t3", "t4", "signal", "flags"],
+        "tier_keys": ["pred", "correct", "money_ok", "all_ok", "cost", "latency_ms", "available"],
+        "signal_keys": ["agree", "conf", "complete"],
+    }, indent=1), encoding="utf-8")
 
-    pct = lambda v: "n/a" if v is None else f"{v*100:.1f}%"
+    # Plan §B: latency-aware hedging, D seconds x local latency scale.
+    hedge_out = out.parent / "hedge"
+    hedge_out.mkdir(parents=True, exist_ok=True)
+    hedge = [dict(summarize(rows, "hedge", {"D": D, "scale": sc}), D=D, scale=sc)
+             for sc in (1.0, 0.25) for D in (0.0, 2.0, 5.0, 10.0, 20.0, 30.0, 60.0, INF)]
+    (hedge_out / "curve.json").write_text(json.dumps(hedge, indent=1, default=str), encoding="utf-8")
+    hl = ["# Hedge policy: start local VLM, fire Flash-Lite at D seconds if the local answer is not in", "",
+          "| scale | D (s) | cloud fired | accepted precision | review | leak | USD / 1k | wait p50 (ms) |", "|---|---|---|---|---|---|---|---|"]
+    for h in hedge:
+        hl.append(f"| {h['scale']} | {'inf' if h['D'] == INF else int(h['D'])} | {pct(h['cloud_fired_share'])} | {pct(h['accepted_money_precision'])} | "
+                  f"{pct(h['review_share'])} | {pct(h['leak_share'])} | {h['cost_usd_per_1k']} | {h['latency_ms_median']} |")
+    (hedge_out / "summary.md").write_text("\n".join(hl) + "\n", encoding="utf-8")
+
     lines = [f"# Routing policies (tau = {args.tau}; date+total exact match)", "",
              "| policy | auto-accept | review | T1 | T2 | T3 | T4 | accepted precision (date+total) | leak | USD / 1k | latency med (ms) |",
              "|---|---|---|---|---|---|---|---|---|---|---|"]

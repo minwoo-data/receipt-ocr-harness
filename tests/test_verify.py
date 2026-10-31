@@ -21,7 +21,7 @@ def names(flags):
 def test_clean_record_has_no_flags():
     data = {"vendor": "PASIR EMAS HARDWARE SDN BHD", "date": "2018-06-23", "subtotal": 36.0,
             "tax": 0.0, "tip": None, "discount": None, "total": 36.0, "confidence": 0.1}
-    assert verify.verify(rec(data), OCR, today=TODAY) == []     # low self-confidence is irrelevant
+    assert verify.verify(rec(data), OCR, today=TODAY, min_year=2015) == []     # low self-confidence is irrelevant
 
 
 def test_arithmetic_mismatch_flagged_and_absent_is_not_zero():
@@ -37,9 +37,9 @@ def test_arithmetic_mismatch_flagged_and_absent_is_not_zero():
 
 def test_date_gate():
     assert names(verify.check_date({"date": "2027-03-05"}, today=TODAY)) == ["G_DATE"]
-    assert names(verify.check_date({"date": "1998-01-01"}, today=TODAY)) == ["G_DATE"]
+    assert names(verify.check_date({"date": "1998-01-01"}, today=TODAY, min_year=2015)) == ["G_DATE"]
     assert names(verify.check_date({"date": "not a date"}, today=TODAY)) == ["G_DATE"]
-    assert verify.check_date({"date": "23/06/18"}, today=TODAY) == []
+    assert verify.check_date({"date": "23/06/18"}, today=TODAY, min_year=2015) == []
 
 
 def test_two_reader_agreement():

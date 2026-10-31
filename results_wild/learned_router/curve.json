@@ -1,0 +1,1022 @@
+{
+ "headline": {
+  "router_cloud_share": 0.84,
+  "router_precision": 0.87,
+  "precision_at_router_share": 0.875,
+  "cloud_share_at_router_precision": 0.8,
+  "win_precision": true,
+  "win_share": true,
+  "oracle_cloud_share": 0.45,
+  "oracle_precision": 0.9,
+  "auc": 0.866060606060606,
+  "n": 200,
+  "mode": "fit on results, scored on results_wild"
+ },
+ "points": [
+  {
+   "threshold": 0.005162914392664686,
+   "cloud_share": 1.0,
+   "accepted_precision": 0.865
+  },
+  {
+   "threshold": 0.008664799323756791,
+   "cloud_share": 0.995,
+   "accepted_precision": 0.865
+  },
+  {
+   "threshold": 0.011052271523810445,
+   "cloud_share": 0.99,
+   "accepted_precision": 0.865
+  },
+  {
+   "threshold": 0.01274376313592184,
+   "cloud_share": 0.985,
+   "accepted_precision": 0.865
+  },
+  {
+   "threshold": 0.014261699132126375,
+   "cloud_share": 0.98,
+   "accepted_precision": 0.865
+  },
+  {
+   "threshold": 0.01432877123173285,
+   "cloud_share": 0.975,
+   "accepted_precision": 0.87
+  },
+  {
+   "threshold": 0.015183465459249089,
+   "cloud_share": 0.97,
+   "accepted_precision": 0.87
+  },
+  {
+   "threshold": 0.015615241428064084,
+   "cloud_share": 0.965,
+   "accepted_precision": 0.87
+  },
+  {
+   "threshold": 0.016474796875063355,
+   "cloud_share": 0.96,
+   "accepted_precision": 0.865
+  },
+  {
+   "threshold": 0.016685149678354716,
+   "cloud_share": 0.955,
+   "accepted_precision": 0.865
+  },
+  {
+   "threshold": 0.016736902585512078,
+   "cloud_share": 0.95,
+   "accepted_precision": 0.865
+  },
+  {
+   "threshold": 0.017141091352255264,
+   "cloud_share": 0.945,
+   "accepted_precision": 0.865
+  },
+  {
+   "threshold": 0.01749103801588071,
+   "cloud_share": 0.94,
+   "accepted_precision": 0.865
+  },
+  {
+   "threshold": 0.01802395477160524,
+   "cloud_share": 0.935,
+   "accepted_precision": 0.865
+  },
+  {
+   "threshold": 0.018248931488446377,
+   "cloud_share": 0.93,
+   "accepted_precision": 0.865
+  },
+  {
+   "threshold": 0.018958471161611208,
+   "cloud_share": 0.925,
+   "accepted_precision": 0.865
+  },
+  {
+   "threshold": 0.020310097293820554,
+   "cloud_share": 0.92,
+   "accepted_precision": 0.865
+  },
+  {
+   "threshold": 0.022248981964006324,
+   "cloud_share": 0.915,
+   "accepted_precision": 0.865
+  },
+  {
+   "threshold": 0.022767399190973838,
+   "cloud_share": 0.91,
+   "accepted_precision": 0.865
+  },
+  {
+   "threshold": 0.02345602220684514,
+   "cloud_share": 0.905,
+   "accepted_precision": 0.865
+  },
+  {
+   "threshold": 0.024086229875086334,
+   "cloud_share": 0.9,
+   "accepted_precision": 0.865
+  },
+  {
+   "threshold": 0.024492008354714795,
+   "cloud_share": 0.895,
+   "accepted_precision": 0.865
+  },
+  {
+   "threshold": 0.024980268479073836,
+   "cloud_share": 0.89,
+   "accepted_precision": 0.865
+  },
+  {
+   "threshold": 0.025854530355431792,
+   "cloud_share": 0.885,
+   "accepted_precision": 0.865
+  },
+  {
+   "threshold": 0.027059495121358707,
+   "cloud_share": 0.88,
+   "accepted_precision": 0.865
+  },
+  {
+   "threshold": 0.02722586153802269,
+   "cloud_share": 0.875,
+   "accepted_precision": 0.865
+  },
+  {
+   "threshold": 0.02743743182064068,
+   "cloud_share": 0.87,
+   "accepted_precision": 0.865
+  },
+  {
+   "threshold": 0.02759964736282627,
+   "cloud_share": 0.865,
+   "accepted_precision": 0.865
+  },
+  {
+   "threshold": 0.028038053075282256,
+   "cloud_share": 0.86,
+   "accepted_precision": 0.865
+  },
+  {
+   "threshold": 0.029504164544923026,
+   "cloud_share": 0.855,
+   "accepted_precision": 0.87
+  },
+  {
+   "threshold": 0.03035155878553146,
+   "cloud_share": 0.85,
+   "accepted_precision": 0.865
+  },
+  {
+   "threshold": 0.03157589972311749,
+   "cloud_share": 0.845,
+   "accepted_precision": 0.87
+  },
+  {
+   "threshold": 0.031697213549958025,
+   "cloud_share": 0.84,
+   "accepted_precision": 0.875
+  },
+  {
+   "threshold": 0.033089593400911325,
+   "cloud_share": 0.835,
+   "accepted_precision": 0.875
+  },
+  {
+   "threshold": 0.03457341856131227,
+   "cloud_share": 0.83,
+   "accepted_precision": 0.875
+  },
+  {
+   "threshold": 0.03657905870326543,
+   "cloud_share": 0.825,
+   "accepted_precision": 0.875
+  },
+  {
+   "threshold": 0.03694899003798677,
+   "cloud_share": 0.82,
+   "accepted_precision": 0.875
+  },
+  {
+   "threshold": 0.038356280266891814,
+   "cloud_share": 0.815,
+   "accepted_precision": 0.875
+  },
+  {
+   "threshold": 0.04019876269132953,
+   "cloud_share": 0.81,
+   "accepted_precision": 0.87
+  },
+  {
+   "threshold": 0.040565905744913915,
+   "cloud_share": 0.805,
+   "accepted_precision": 0.87
+  },
+  {
+   "threshold": 0.043686827784609465,
+   "cloud_share": 0.8,
+   "accepted_precision": 0.87
+  },
+  {
+   "threshold": 0.044020686321582854,
+   "cloud_share": 0.795,
+   "accepted_precision": 0.865
+  },
+  {
+   "threshold": 0.04544003552354848,
+   "cloud_share": 0.79,
+   "accepted_precision": 0.865
+  },
+  {
+   "threshold": 0.0462048264058906,
+   "cloud_share": 0.785,
+   "accepted_precision": 0.865
+  },
+  {
+   "threshold": 0.04629985507252316,
+   "cloud_share": 0.78,
+   "accepted_precision": 0.865
+  },
+  {
+   "threshold": 0.048467815333355146,
+   "cloud_share": 0.775,
+   "accepted_precision": 0.865
+  },
+  {
+   "threshold": 0.04861119769620497,
+   "cloud_share": 0.77,
+   "accepted_precision": 0.865
+  },
+  {
+   "threshold": 0.04921893842166074,
+   "cloud_share": 0.765,
+   "accepted_precision": 0.865
+  },
+  {
+   "threshold": 0.04925505340750641,
+   "cloud_share": 0.76,
+   "accepted_precision": 0.86
+  },
+  {
+   "threshold": 0.05004110828602288,
+   "cloud_share": 0.755,
+   "accepted_precision": 0.86
+  },
+  {
+   "threshold": 0.05133145477229591,
+   "cloud_share": 0.75,
+   "accepted_precision": 0.86
+  },
+  {
+   "threshold": 0.052536797808505044,
+   "cloud_share": 0.745,
+   "accepted_precision": 0.86
+  },
+  {
+   "threshold": 0.05812549144406058,
+   "cloud_share": 0.74,
+   "accepted_precision": 0.86
+  },
+  {
+   "threshold": 0.058240588143944574,
+   "cloud_share": 0.735,
+   "accepted_precision": 0.86
+  },
+  {
+   "threshold": 0.05988565997416697,
+   "cloud_share": 0.73,
+   "accepted_precision": 0.855
+  },
+  {
+   "threshold": 0.0643710437878027,
+   "cloud_share": 0.725,
+   "accepted_precision": 0.855
+  },
+  {
+   "threshold": 0.06443697602734548,
+   "cloud_share": 0.72,
+   "accepted_precision": 0.855
+  },
+  {
+   "threshold": 0.06517063639626174,
+   "cloud_share": 0.715,
+   "accepted_precision": 0.855
+  },
+  {
+   "threshold": 0.06689287084727505,
+   "cloud_share": 0.71,
+   "accepted_precision": 0.855
+  },
+  {
+   "threshold": 0.07033627151687356,
+   "cloud_share": 0.705,
+   "accepted_precision": 0.855
+  },
+  {
+   "threshold": 0.07109641694112065,
+   "cloud_share": 0.7,
+   "accepted_precision": 0.855
+  },
+  {
+   "threshold": 0.07472814892599043,
+   "cloud_share": 0.695,
+   "accepted_precision": 0.86
+  },
+  {
+   "threshold": 0.07878967478509817,
+   "cloud_share": 0.69,
+   "accepted_precision": 0.86
+  },
+  {
+   "threshold": 0.07927654121418205,
+   "cloud_share": 0.685,
+   "accepted_precision": 0.86
+  },
+  {
+   "threshold": 0.0797679836661801,
+   "cloud_share": 0.68,
+   "accepted_precision": 0.86
+  },
+  {
+   "threshold": 0.08226039830921726,
+   "cloud_share": 0.675,
+   "accepted_precision": 0.86
+  },
+  {
+   "threshold": 0.08739283296006213,
+   "cloud_share": 0.67,
+   "accepted_precision": 0.86
+  },
+  {
+   "threshold": 0.08745035394075144,
+   "cloud_share": 0.665,
+   "accepted_precision": 0.86
+  },
+  {
+   "threshold": 0.12107980549107443,
+   "cloud_share": 0.66,
+   "accepted_precision": 0.86
+  },
+  {
+   "threshold": 0.12150711156978082,
+   "cloud_share": 0.655,
+   "accepted_precision": 0.86
+  },
+  {
+   "threshold": 0.12848789110554637,
+   "cloud_share": 0.65,
+   "accepted_precision": 0.86
+  },
+  {
+   "threshold": 0.1391819145117358,
+   "cloud_share": 0.645,
+   "accepted_precision": 0.86
+  },
+  {
+   "threshold": 0.14695283460149913,
+   "cloud_share": 0.64,
+   "accepted_precision": 0.86
+  },
+  {
+   "threshold": 0.15374979551315726,
+   "cloud_share": 0.635,
+   "accepted_precision": 0.86
+  },
+  {
+   "threshold": 0.15428614900231152,
+   "cloud_share": 0.63,
+   "accepted_precision": 0.86
+  },
+  {
+   "threshold": 0.15806252219009495,
+   "cloud_share": 0.625,
+   "accepted_precision": 0.86
+  },
+  {
+   "threshold": 0.16146362939769443,
+   "cloud_share": 0.62,
+   "accepted_precision": 0.86
+  },
+  {
+   "threshold": 0.16302843174658904,
+   "cloud_share": 0.615,
+   "accepted_precision": 0.855
+  },
+  {
+   "threshold": 0.1668415514468469,
+   "cloud_share": 0.61,
+   "accepted_precision": 0.855
+  },
+  {
+   "threshold": 0.18591885532501598,
+   "cloud_share": 0.605,
+   "accepted_precision": 0.855
+  },
+  {
+   "threshold": 0.19030750414894104,
+   "cloud_share": 0.6,
+   "accepted_precision": 0.855
+  },
+  {
+   "threshold": 0.19613963504991364,
+   "cloud_share": 0.595,
+   "accepted_precision": 0.855
+  },
+  {
+   "threshold": 0.19962802773711347,
+   "cloud_share": 0.59,
+   "accepted_precision": 0.855
+  },
+  {
+   "threshold": 0.20091549857406113,
+   "cloud_share": 0.585,
+   "accepted_precision": 0.855
+  },
+  {
+   "threshold": 0.20429683715944186,
+   "cloud_share": 0.58,
+   "accepted_precision": 0.855
+  },
+  {
+   "threshold": 0.20907662232247268,
+   "cloud_share": 0.575,
+   "accepted_precision": 0.855
+  },
+  {
+   "threshold": 0.21131435212529637,
+   "cloud_share": 0.57,
+   "accepted_precision": 0.85
+  },
+  {
+   "threshold": 0.2137675636851044,
+   "cloud_share": 0.565,
+   "accepted_precision": 0.85
+  },
+  {
+   "threshold": 0.21454838658229036,
+   "cloud_share": 0.56,
+   "accepted_precision": 0.845
+  },
+  {
+   "threshold": 0.21847449601236624,
+   "cloud_share": 0.555,
+   "accepted_precision": 0.845
+  },
+  {
+   "threshold": 0.22269422915600864,
+   "cloud_share": 0.55,
+   "accepted_precision": 0.84
+  },
+  {
+   "threshold": 0.22900085731422293,
+   "cloud_share": 0.545,
+   "accepted_precision": 0.835
+  },
+  {
+   "threshold": 0.23010387003220495,
+   "cloud_share": 0.54,
+   "accepted_precision": 0.835
+  },
+  {
+   "threshold": 0.23924872503157157,
+   "cloud_share": 0.535,
+   "accepted_precision": 0.84
+  },
+  {
+   "threshold": 0.24416134201520767,
+   "cloud_share": 0.53,
+   "accepted_precision": 0.835
+  },
+  {
+   "threshold": 0.25100271876039626,
+   "cloud_share": 0.525,
+   "accepted_precision": 0.83
+  },
+  {
+   "threshold": 0.25774205918697407,
+   "cloud_share": 0.52,
+   "accepted_precision": 0.83
+  },
+  {
+   "threshold": 0.2613140233020557,
+   "cloud_share": 0.515,
+   "accepted_precision": 0.83
+  },
+  {
+   "threshold": 0.2809563469283413,
+   "cloud_share": 0.51,
+   "accepted_precision": 0.825
+  },
+  {
+   "threshold": 0.30213121219484534,
+   "cloud_share": 0.505,
+   "accepted_precision": 0.82
+  },
+  {
+   "threshold": 0.3069510214081654,
+   "cloud_share": 0.5,
+   "accepted_precision": 0.82
+  },
+  {
+   "threshold": 0.31220133980090853,
+   "cloud_share": 0.495,
+   "accepted_precision": 0.82
+  },
+  {
+   "threshold": 0.3290450420876486,
+   "cloud_share": 0.49,
+   "accepted_precision": 0.82
+  },
+  {
+   "threshold": 0.33171883081884046,
+   "cloud_share": 0.485,
+   "accepted_precision": 0.82
+  },
+  {
+   "threshold": 0.3550120261734744,
+   "cloud_share": 0.48,
+   "accepted_precision": 0.815
+  },
+  {
+   "threshold": 0.37915550779552243,
+   "cloud_share": 0.475,
+   "accepted_precision": 0.815
+  },
+  {
+   "threshold": 0.384558486336161,
+   "cloud_share": 0.47,
+   "accepted_precision": 0.815
+  },
+  {
+   "threshold": 0.41158626854771296,
+   "cloud_share": 0.465,
+   "accepted_precision": 0.81
+  },
+  {
+   "threshold": 0.42285488351338224,
+   "cloud_share": 0.46,
+   "accepted_precision": 0.81
+  },
+  {
+   "threshold": 0.4338865252055782,
+   "cloud_share": 0.455,
+   "accepted_precision": 0.81
+  },
+  {
+   "threshold": 0.4402313054649743,
+   "cloud_share": 0.45,
+   "accepted_precision": 0.81
+  },
+  {
+   "threshold": 0.44561139666304983,
+   "cloud_share": 0.445,
+   "accepted_precision": 0.81
+  },
+  {
+   "threshold": 0.4636181607625254,
+   "cloud_share": 0.44,
+   "accepted_precision": 0.81
+  },
+  {
+   "threshold": 0.46672778690573696,
+   "cloud_share": 0.435,
+   "accepted_precision": 0.81
+  },
+  {
+   "threshold": 0.4768717135211378,
+   "cloud_share": 0.43,
+   "accepted_precision": 0.81
+  },
+  {
+   "threshold": 0.5032319115162801,
+   "cloud_share": 0.425,
+   "accepted_precision": 0.81
+  },
+  {
+   "threshold": 0.5602920765187489,
+   "cloud_share": 0.42,
+   "accepted_precision": 0.805
+  },
+  {
+   "threshold": 0.5880824735230563,
+   "cloud_share": 0.415,
+   "accepted_precision": 0.805
+  },
+  {
+   "threshold": 0.6078072988653963,
+   "cloud_share": 0.41,
+   "accepted_precision": 0.805
+  },
+  {
+   "threshold": 0.6431367620107655,
+   "cloud_share": 0.405,
+   "accepted_precision": 0.8
+  },
+  {
+   "threshold": 0.6514220874632274,
+   "cloud_share": 0.4,
+   "accepted_precision": 0.8
+  },
+  {
+   "threshold": 0.6551617320597707,
+   "cloud_share": 0.395,
+   "accepted_precision": 0.8
+  },
+  {
+   "threshold": 0.6783132943654674,
+   "cloud_share": 0.39,
+   "accepted_precision": 0.795
+  },
+  {
+   "threshold": 0.681287640574679,
+   "cloud_share": 0.385,
+   "accepted_precision": 0.795
+  },
+  {
+   "threshold": 0.8109783325077539,
+   "cloud_share": 0.38,
+   "accepted_precision": 0.795
+  },
+  {
+   "threshold": 0.8253434041265415,
+   "cloud_share": 0.375,
+   "accepted_precision": 0.795
+  },
+  {
+   "threshold": 0.8378235300770027,
+   "cloud_share": 0.37,
+   "accepted_precision": 0.795
+  },
+  {
+   "threshold": 0.8609415263357796,
+   "cloud_share": 0.365,
+   "accepted_precision": 0.795
+  },
+  {
+   "threshold": 0.8816127524195911,
+   "cloud_share": 0.36,
+   "accepted_precision": 0.795
+  },
+  {
+   "threshold": 0.8853254667877635,
+   "cloud_share": 0.355,
+   "accepted_precision": 0.795
+  },
+  {
+   "threshold": 0.8940087267929078,
+   "cloud_share": 0.35,
+   "accepted_precision": 0.795
+  },
+  {
+   "threshold": 0.8988637088570606,
+   "cloud_share": 0.345,
+   "accepted_precision": 0.795
+  },
+  {
+   "threshold": 0.9084556341956299,
+   "cloud_share": 0.34,
+   "accepted_precision": 0.795
+  },
+  {
+   "threshold": 0.9142609832140624,
+   "cloud_share": 0.335,
+   "accepted_precision": 0.795
+  },
+  {
+   "threshold": 0.9182043946082917,
+   "cloud_share": 0.33,
+   "accepted_precision": 0.79
+  },
+  {
+   "threshold": 0.9268433646922629,
+   "cloud_share": 0.325,
+   "accepted_precision": 0.795
+  },
+  {
+   "threshold": 0.9280719002696682,
+   "cloud_share": 0.32,
+   "accepted_precision": 0.795
+  },
+  {
+   "threshold": 0.9303266802948028,
+   "cloud_share": 0.315,
+   "accepted_precision": 0.79
+  },
+  {
+   "threshold": 0.9321490586954458,
+   "cloud_share": 0.31,
+   "accepted_precision": 0.79
+  },
+  {
+   "threshold": 0.935600451034299,
+   "cloud_share": 0.305,
+   "accepted_precision": 0.79
+  },
+  {
+   "threshold": 0.9383845556945438,
+   "cloud_share": 0.3,
+   "accepted_precision": 0.785
+  },
+  {
+   "threshold": 0.9395773154953372,
+   "cloud_share": 0.295,
+   "accepted_precision": 0.785
+  },
+  {
+   "threshold": 0.9509157600367865,
+   "cloud_share": 0.29,
+   "accepted_precision": 0.78
+  },
+  {
+   "threshold": 0.955146980273988,
+   "cloud_share": 0.285,
+   "accepted_precision": 0.775
+  },
+  {
+   "threshold": 0.9552202336269974,
+   "cloud_share": 0.28,
+   "accepted_precision": 0.775
+  },
+  {
+   "threshold": 0.9557943430577381,
+   "cloud_share": 0.275,
+   "accepted_precision": 0.77
+  },
+  {
+   "threshold": 0.9594596760656146,
+   "cloud_share": 0.27,
+   "accepted_precision": 0.765
+  },
+  {
+   "threshold": 0.9634784060324441,
+   "cloud_share": 0.265,
+   "accepted_precision": 0.765
+  },
+  {
+   "threshold": 0.9651503640183852,
+   "cloud_share": 0.26,
+   "accepted_precision": 0.76
+  },
+  {
+   "threshold": 0.9679276352619621,
+   "cloud_share": 0.255,
+   "accepted_precision": 0.76
+  },
+  {
+   "threshold": 0.9685293028575729,
+   "cloud_share": 0.25,
+   "accepted_precision": 0.755
+  },
+  {
+   "threshold": 0.9705930974552482,
+   "cloud_share": 0.245,
+   "accepted_precision": 0.75
+  },
+  {
+   "threshold": 0.9747447200011882,
+   "cloud_share": 0.24,
+   "accepted_precision": 0.745
+  },
+  {
+   "threshold": 0.9756015660907865,
+   "cloud_share": 0.235,
+   "accepted_precision": 0.74
+  },
+  {
+   "threshold": 0.9758763992410556,
+   "cloud_share": 0.23,
+   "accepted_precision": 0.735
+  },
+  {
+   "threshold": 0.9777056685750011,
+   "cloud_share": 0.225,
+   "accepted_precision": 0.73
+  },
+  {
+   "threshold": 0.979103294927712,
+   "cloud_share": 0.22,
+   "accepted_precision": 0.725
+  },
+  {
+   "threshold": 0.9798455819987457,
+   "cloud_share": 0.215,
+   "accepted_precision": 0.725
+  },
+  {
+   "threshold": 0.9801714400513302,
+   "cloud_share": 0.21,
+   "accepted_precision": 0.725
+  },
+  {
+   "threshold": 0.9827853657344561,
+   "cloud_share": 0.205,
+   "accepted_precision": 0.72
+  },
+  {
+   "threshold": 0.9828549078556547,
+   "cloud_share": 0.2,
+   "accepted_precision": 0.715
+  },
+  {
+   "threshold": 0.9845512081339683,
+   "cloud_share": 0.195,
+   "accepted_precision": 0.715
+  },
+  {
+   "threshold": 0.9846801295953933,
+   "cloud_share": 0.19,
+   "accepted_precision": 0.71
+  },
+  {
+   "threshold": 0.9853077992095068,
+   "cloud_share": 0.185,
+   "accepted_precision": 0.705
+  },
+  {
+   "threshold": 0.9853893556673885,
+   "cloud_share": 0.18,
+   "accepted_precision": 0.7
+  },
+  {
+   "threshold": 0.9858491602659767,
+   "cloud_share": 0.175,
+   "accepted_precision": 0.695
+  },
+  {
+   "threshold": 0.9860563875595496,
+   "cloud_share": 0.17,
+   "accepted_precision": 0.69
+  },
+  {
+   "threshold": 0.98671505546117,
+   "cloud_share": 0.165,
+   "accepted_precision": 0.685
+  },
+  {
+   "threshold": 0.9876916131399406,
+   "cloud_share": 0.16,
+   "accepted_precision": 0.68
+  },
+  {
+   "threshold": 0.9879495213709589,
+   "cloud_share": 0.155,
+   "accepted_precision": 0.675
+  },
+  {
+   "threshold": 0.9881698384785959,
+   "cloud_share": 0.15,
+   "accepted_precision": 0.67
+  },
+  {
+   "threshold": 0.9885035247499498,
+   "cloud_share": 0.145,
+   "accepted_precision": 0.67
+  },
+  {
+   "threshold": 0.9887017542448031,
+   "cloud_share": 0.14,
+   "accepted_precision": 0.665
+  },
+  {
+   "threshold": 0.9898002439798333,
+   "cloud_share": 0.135,
+   "accepted_precision": 0.665
+  },
+  {
+   "threshold": 0.9901037410793411,
+   "cloud_share": 0.13,
+   "accepted_precision": 0.66
+  },
+  {
+   "threshold": 0.9912719738565092,
+   "cloud_share": 0.125,
+   "accepted_precision": 0.655
+  },
+  {
+   "threshold": 0.9913615125373844,
+   "cloud_share": 0.12,
+   "accepted_precision": 0.655
+  },
+  {
+   "threshold": 0.9914686131174452,
+   "cloud_share": 0.115,
+   "accepted_precision": 0.65
+  },
+  {
+   "threshold": 0.9917439784973676,
+   "cloud_share": 0.11,
+   "accepted_precision": 0.645
+  },
+  {
+   "threshold": 0.9920233901566562,
+   "cloud_share": 0.105,
+   "accepted_precision": 0.64
+  },
+  {
+   "threshold": 0.9933936271442686,
+   "cloud_share": 0.1,
+   "accepted_precision": 0.635
+  },
+  {
+   "threshold": 0.9943441817839673,
+   "cloud_share": 0.095,
+   "accepted_precision": 0.635
+  },
+  {
+   "threshold": 0.9951087727596204,
+   "cloud_share": 0.09,
+   "accepted_precision": 0.63
+  },
+  {
+   "threshold": 0.9952219443512327,
+   "cloud_share": 0.085,
+   "accepted_precision": 0.625
+  },
+  {
+   "threshold": 0.9959369861872293,
+   "cloud_share": 0.08,
+   "accepted_precision": 0.62
+  },
+  {
+   "threshold": 0.9959894173651084,
+   "cloud_share": 0.075,
+   "accepted_precision": 0.615
+  },
+  {
+   "threshold": 0.9964910547745898,
+   "cloud_share": 0.07,
+   "accepted_precision": 0.61
+  },
+  {
+   "threshold": 0.9975708312020043,
+   "cloud_share": 0.065,
+   "accepted_precision": 0.605
+  },
+  {
+   "threshold": 0.9980282779106336,
+   "cloud_share": 0.06,
+   "accepted_precision": 0.605
+  },
+  {
+   "threshold": 0.9983660717422793,
+   "cloud_share": 0.055,
+   "accepted_precision": 0.6
+  },
+  {
+   "threshold": 0.9989841293221589,
+   "cloud_share": 0.05,
+   "accepted_precision": 0.595
+  },
+  {
+   "threshold": 0.9992086162670353,
+   "cloud_share": 0.045,
+   "accepted_precision": 0.59
+  },
+  {
+   "threshold": 0.9994819178830998,
+   "cloud_share": 0.04,
+   "accepted_precision": 0.585
+  },
+  {
+   "threshold": 0.9995470341068002,
+   "cloud_share": 0.035,
+   "accepted_precision": 0.58
+  },
+  {
+   "threshold": 0.9997064446136069,
+   "cloud_share": 0.03,
+   "accepted_precision": 0.575
+  },
+  {
+   "threshold": 0.9997565110351794,
+   "cloud_share": 0.025,
+   "accepted_precision": 0.575
+  },
+  {
+   "threshold": 0.9998535992038386,
+   "cloud_share": 0.02,
+   "accepted_precision": 0.57
+  },
+  {
+   "threshold": 0.9999349545914636,
+   "cloud_share": 0.015,
+   "accepted_precision": 0.565
+  },
+  {
+   "threshold": 0.9999399065245164,
+   "cloud_share": 0.01,
+   "accepted_precision": 0.56
+  },
+  {
+   "threshold": 0.9999797551227715,
+   "cloud_share": 0.005,
+   "accepted_precision": 0.555
+  },
+  {
+   "threshold": null,
+   "cloud_share": 0.0,
+   "accepted_precision": 0.55
+  }
+ ]
+}

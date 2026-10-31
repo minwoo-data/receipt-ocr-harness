@@ -77,6 +77,28 @@ Printed values and truth are stored separately in `data/synthetic/specs.json`.
 | Blind re-read (no previous values) | 0 | 1 | 15 / 20 |
 | Guided re-read (previous values shown, no target) | 1 | 1 | 16 / 20 |
 
+## Three follow-up analyses (plan: `docs/plan-abc.md`, triad-reviewed)
+
+**A. Learned escalation signal** (`scripts/14_learned_router.py`, `src/harness/features.py`). Logistic regression on 13 tier-1 signals (OCR confidence, rule reasons, two-reader agreement, line counts), 5-fold out of fold on SROIE, then fit on SROIE and scored on Wild.
+
+| set | AUC | rule router | learned at the router's cloud share | cloud share for the router's precision | verdict |
+|---|---|---|---|---|---|
+| SROIE 300 (out of fold) | 0.885 | 56% cloud, 95.7% | 95.7% | 61% | no gain |
+| Wild 200 (transfer) | 0.866 | 84% cloud, 87.0% | 87.5% | 80% | small win |
+
+The oracle gap (27% vs 56% cloud on SROIE) is not closed by these features; richer signals are needed.
+
+**B. Latency-aware hedging** (`hedge` policy in `04_harness.py`, `results/hedge/summary.md`). Start the local VLM; if it has not answered by D seconds, call Flash-Lite too; first answer that passes the checks wins; both flagged goes to review.
+
+| local speed | D | cloud fired | accepted precision | review | USD / 1k | wait p50 |
+|---|---|---|---|---|---|---|
+| as measured (28 s) | 30 s | 43% | 96.3% | 19% | 0.23 | 28 s |
+| as measured | 10 s | 100% | 98.6% | 5% | 0.54 | 12 s |
+| 4x faster (assumed) | 10 s | 19% | 94.4% | 23% | 0.10 | 7 s |
+| 4x faster | 5 s | 94% | 97.1% | 7% | 0.50 | 6.6 s |
+
+**C. Leak taxonomy** (`scripts/12_leaks.py`, `results*/leaks/leaks.md`). Of 18 SROIE answers that were wrong yet passed every check, 16 were a different printed amount (cash tendered, subtotal, a line item), 1 a day/month swap, 1 both fields. On Wild (45 leaks) dates dominate: 22 date errors, 18 other printed amounts.
+
 ## Reproduce
 
 ```

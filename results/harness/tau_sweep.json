@@ -2,7 +2,12 @@
  {
   "policy": "router",
   "tau": 0.0,
+  "params": {
+   "tau": 0.0
+  },
   "n": 300,
+  "cloud_fired_share": null,
+  "latency_kind": "sequential_sum",
   "auto_accept_share": 1.0,
   "review_share": 0.0,
   "tier_share": {
@@ -22,7 +27,12 @@
  {
   "policy": "router",
   "tau": 0.5,
+  "params": {
+   "tau": 0.5
+  },
   "n": 300,
+  "cloud_fired_share": null,
+  "latency_kind": "sequential_sum",
   "auto_accept_share": 1.0,
   "review_share": 0.0,
   "tier_share": {
@@ -42,7 +52,12 @@
  {
   "policy": "router",
   "tau": 0.6,
+  "params": {
+   "tau": 0.6
+  },
   "n": 300,
+  "cloud_fired_share": null,
+  "latency_kind": "sequential_sum",
   "auto_accept_share": 1.0,
   "review_share": 0.0,
   "tier_share": {
@@ -62,7 +77,12 @@
  {
   "policy": "router",
   "tau": 0.7,
+  "params": {
+   "tau": 0.7
+  },
   "n": 300,
+  "cloud_fired_share": null,
+  "latency_kind": "sequential_sum",
   "auto_accept_share": 1.0,
   "review_share": 0.0,
   "tier_share": {
@@ -82,7 +102,12 @@
  {
   "policy": "router",
   "tau": 0.8,
+  "params": {
+   "tau": 0.8
+  },
   "n": 300,
+  "cloud_fired_share": null,
+  "latency_kind": "sequential_sum",
   "auto_accept_share": 1.0,
   "review_share": 0.0,
   "tier_share": {
@@ -102,7 +127,12 @@
  {
   "policy": "router",
   "tau": 0.85,
+  "params": {
+   "tau": 0.85
+  },
   "n": 300,
+  "cloud_fired_share": null,
+  "latency_kind": "sequential_sum",
   "auto_accept_share": 1.0,
   "review_share": 0.0,
   "tier_share": {
@@ -122,7 +152,12 @@
  {
   "policy": "router",
   "tau": 0.9,
+  "params": {
+   "tau": 0.9
+  },
   "n": 300,
+  "cloud_fired_share": null,
+  "latency_kind": "sequential_sum",
   "auto_accept_share": 1.0,
   "review_share": 0.0,
   "tier_share": {
@@ -142,7 +177,12 @@
  {
   "policy": "router",
   "tau": 0.93,
+  "params": {
+   "tau": 0.93
+  },
   "n": 300,
+  "cloud_fired_share": null,
+  "latency_kind": "sequential_sum",
   "auto_accept_share": 1.0,
   "review_share": 0.0,
   "tier_share": {
@@ -162,7 +202,12 @@
  {
   "policy": "router",
   "tau": 0.95,
+  "params": {
+   "tau": 0.95
+  },
   "n": 300,
+  "cloud_fired_share": null,
+  "latency_kind": "sequential_sum",
   "auto_accept_share": 1.0,
   "review_share": 0.0,
   "tier_share": {
@@ -182,7 +227,12 @@
  {
   "policy": "router",
   "tau": 0.97,
+  "params": {
+   "tau": 0.97
+  },
   "n": 300,
+  "cloud_fired_share": null,
+  "latency_kind": "sequential_sum",
   "auto_accept_share": 1.0,
   "review_share": 0.0,
   "tier_share": {
@@ -202,7 +252,12 @@
  {
   "policy": "router",
   "tau": 0.99,
+  "params": {
+   "tau": 0.99
+  },
   "n": 300,
+  "cloud_fired_share": null,
+  "latency_kind": "sequential_sum",
   "auto_accept_share": 1.0,
   "review_share": 0.0,
   "tier_share": {
@@ -222,7 +277,12 @@
  {
   "policy": "router",
   "tau": 1.01,
+  "params": {
+   "tau": 1.01
+  },
   "n": 300,
+  "cloud_fired_share": null,
+  "latency_kind": "sequential_sum",
   "auto_accept_share": 1.0,
   "review_share": 0.0,
   "tier_share": {
@@ -242,7 +302,12 @@
  {
   "policy": "harness",
   "tau": 0.0,
+  "params": {
+   "tau": 0.0
+  },
   "n": 300,
+  "cloud_fired_share": null,
+  "latency_kind": "sequential_sum",
   "auto_accept_share": 0.9567,
   "review_share": 0.0433,
   "tier_share": {
@@ -262,7 +327,12 @@
  {
   "policy": "harness",
   "tau": 0.5,
+  "params": {
+   "tau": 0.5
+  },
   "n": 300,
+  "cloud_fired_share": null,
+  "latency_kind": "sequential_sum",
   "auto_accept_share": 0.9567,
   "review_share": 0.0433,
   "tier_share": {
@@ -282,7 +352,12 @@
  {
   "policy": "harness",
   "tau": 0.6,
+  "params": {
+   "tau": 0.6
+  },
   "n": 300,
+  "cloud_fired_share": null,
+  "latency_kind": "sequential_sum",
   "auto_accept_share": 0.9567,
   "review_share": 0.0433,
   "tier_share": {
@@ -302,7 +377,12 @@
  {
   "policy": "harness",
   "tau": 0.7,
+  "params": {
+   "tau": 0.7
+  },
   "n": 300,
+  "cloud_fired_share": null,
+  "latency_kind": "sequential_sum",
   "auto_accept_share": 0.9567,
   "review_share": 0.0433,
   "tier_share": {
@@ -322,7 +402,12 @@
  {
   "policy": "harness",
   "tau": 0.8,
+  "params": {
+   "tau": 0.8
+  },
   "n": 300,
+  "cloud_fired_share": null,
+  "latency_kind": "sequential_sum",
   "auto_accept_share": 0.9567,
   "review_share": 0.0433,
   "tier_share": {
@@ -342,7 +427,12 @@
  {
   "policy": "harness",
   "tau": 0.85,
+  "params": {
+   "tau": 0.85
+  },
   "n": 300,
+  "cloud_fired_share": null,
+  "latency_kind": "sequential_sum",
   "auto_accept_share": 0.9567,
   "review_share": 0.0433,
   "tier_share": {
@@ -362,7 +452,12 @@
  {
   "policy": "harness",
   "tau": 0.9,
+  "params": {
+   "tau": 0.9
+  },
   "n": 300,
+  "cloud_fired_share": null,
+  "latency_kind": "sequential_sum",
   "auto_accept_share": 0.9567,
   "review_share": 0.0433,
   "tier_share": {
@@ -382,7 +477,12 @@
  {
   "policy": "harness",
   "tau": 0.93,
+  "params": {
+   "tau": 0.93
+  },
   "n": 300,
+  "cloud_fired_share": null,
+  "latency_kind": "sequential_sum",
   "auto_accept_share": 0.9567,
   "review_share": 0.0433,
   "tier_share": {
@@ -402,7 +502,12 @@
  {
   "policy": "harness",
   "tau": 0.95,
+  "params": {
+   "tau": 0.95
+  },
   "n": 300,
+  "cloud_fired_share": null,
+  "latency_kind": "sequential_sum",
   "auto_accept_share": 0.95,
   "review_share": 0.05,
   "tier_share": {
@@ -422,7 +527,12 @@
  {
   "policy": "harness",
   "tau": 0.97,
+  "params": {
+   "tau": 0.97
+  },
   "n": 300,
+  "cloud_fired_share": null,
+  "latency_kind": "sequential_sum",
   "auto_accept_share": 0.94,
   "review_share": 0.06,
   "tier_share": {
@@ -442,7 +552,12 @@
  {
   "policy": "harness",
   "tau": 0.99,
+  "params": {
+   "tau": 0.99
+  },
   "n": 300,
+  "cloud_fired_share": null,
+  "latency_kind": "sequential_sum",
   "auto_accept_share": 0.9367,
   "review_share": 0.0633,
   "tier_share": {
@@ -462,7 +577,12 @@
  {
   "policy": "harness",
   "tau": 1.01,
+  "params": {
+   "tau": 1.01
+  },
   "n": 300,
+  "cloud_fired_share": null,
+  "latency_kind": "sequential_sum",
   "auto_accept_share": 0.9367,
   "review_share": 0.0633,
   "tier_share": {
@@ -482,7 +602,12 @@
  {
   "policy": "harness_ladder",
   "tau": 0.0,
+  "params": {
+   "tau": 0.0
+  },
   "n": 300,
+  "cloud_fired_share": null,
+  "latency_kind": "sequential_sum",
   "auto_accept_share": 0.9633,
   "review_share": 0.0367,
   "tier_share": {
@@ -502,7 +627,12 @@
  {
   "policy": "harness_ladder",
   "tau": 0.5,
+  "params": {
+   "tau": 0.5
+  },
   "n": 300,
+  "cloud_fired_share": null,
+  "latency_kind": "sequential_sum",
   "auto_accept_share": 0.9633,
   "review_share": 0.0367,
   "tier_share": {
@@ -522,7 +652,12 @@
  {
   "policy": "harness_ladder",
   "tau": 0.6,
+  "params": {
+   "tau": 0.6
+  },
   "n": 300,
+  "cloud_fired_share": null,
+  "latency_kind": "sequential_sum",
   "auto_accept_share": 0.9633,
   "review_share": 0.0367,
   "tier_share": {
@@ -542,7 +677,12 @@
  {
   "policy": "harness_ladder",
   "tau": 0.7,
+  "params": {
+   "tau": 0.7
+  },
   "n": 300,
+  "cloud_fired_share": null,
+  "latency_kind": "sequential_sum",
   "auto_accept_share": 0.9633,
   "review_share": 0.0367,
   "tier_share": {
@@ -562,7 +702,12 @@
  {
   "policy": "harness_ladder",
   "tau": 0.8,
+  "params": {
+   "tau": 0.8
+  },
   "n": 300,
+  "cloud_fired_share": null,
+  "latency_kind": "sequential_sum",
   "auto_accept_share": 0.9633,
   "review_share": 0.0367,
   "tier_share": {
@@ -582,7 +727,12 @@
  {
   "policy": "harness_ladder",
   "tau": 0.85,
+  "params": {
+   "tau": 0.85
+  },
   "n": 300,
+  "cloud_fired_share": null,
+  "latency_kind": "sequential_sum",
   "auto_accept_share": 0.9633,
   "review_share": 0.0367,
   "tier_share": {
@@ -602,7 +752,12 @@
  {
   "policy": "harness_ladder",
   "tau": 0.9,
+  "params": {
+   "tau": 0.9
+  },
   "n": 300,
+  "cloud_fired_share": null,
+  "latency_kind": "sequential_sum",
   "auto_accept_share": 0.9633,
   "review_share": 0.0367,
   "tier_share": {
@@ -622,7 +777,12 @@
  {
   "policy": "harness_ladder",
   "tau": 0.93,
+  "params": {
+   "tau": 0.93
+  },
   "n": 300,
+  "cloud_fired_share": null,
+  "latency_kind": "sequential_sum",
   "auto_accept_share": 0.9633,
   "review_share": 0.0367,
   "tier_share": {
@@ -642,7 +802,12 @@
  {
   "policy": "harness_ladder",
   "tau": 0.95,
+  "params": {
+   "tau": 0.95
+  },
   "n": 300,
+  "cloud_fired_share": null,
+  "latency_kind": "sequential_sum",
   "auto_accept_share": 0.9567,
   "review_share": 0.0433,
   "tier_share": {
@@ -662,7 +827,12 @@
  {
   "policy": "harness_ladder",
   "tau": 0.97,
+  "params": {
+   "tau": 0.97
+  },
   "n": 300,
+  "cloud_fired_share": null,
+  "latency_kind": "sequential_sum",
   "auto_accept_share": 0.95,
   "review_share": 0.05,
   "tier_share": {
@@ -682,7 +852,12 @@
  {
   "policy": "harness_ladder",
   "tau": 0.99,
+  "params": {
+   "tau": 0.99
+  },
   "n": 300,
+  "cloud_fired_share": null,
+  "latency_kind": "sequential_sum",
   "auto_accept_share": 0.9467,
   "review_share": 0.0533,
   "tier_share": {
@@ -702,7 +877,12 @@
  {
   "policy": "harness_ladder",
   "tau": 1.01,
+  "params": {
+   "tau": 1.01
+  },
   "n": 300,
+  "cloud_fired_share": null,
+  "latency_kind": "sequential_sum",
   "auto_accept_share": 0.9467,
   "review_share": 0.0533,
   "tier_share": {
@@ -722,7 +902,12 @@
  {
   "policy": "router_solo",
   "tau": 0.0,
+  "params": {
+   "tau": 0.0
+  },
   "n": 300,
+  "cloud_fired_share": null,
+  "latency_kind": "sequential_sum",
   "auto_accept_share": 1.0,
   "review_share": 0.0,
   "tier_share": {
@@ -742,7 +927,12 @@
  {
   "policy": "router_solo",
   "tau": 0.5,
+  "params": {
+   "tau": 0.5
+  },
   "n": 300,
+  "cloud_fired_share": null,
+  "latency_kind": "sequential_sum",
   "auto_accept_share": 1.0,
   "review_share": 0.0,
   "tier_share": {
@@ -762,7 +952,12 @@
  {
   "policy": "router_solo",
   "tau": 0.6,
+  "params": {
+   "tau": 0.6
+  },
   "n": 300,
+  "cloud_fired_share": null,
+  "latency_kind": "sequential_sum",
   "auto_accept_share": 1.0,
   "review_share": 0.0,
   "tier_share": {
@@ -782,7 +977,12 @@
  {
   "policy": "router_solo",
   "tau": 0.7,
+  "params": {
+   "tau": 0.7
+  },
   "n": 300,
+  "cloud_fired_share": null,
+  "latency_kind": "sequential_sum",
   "auto_accept_share": 1.0,
   "review_share": 0.0,
   "tier_share": {
@@ -802,7 +1002,12 @@
  {
   "policy": "router_solo",
   "tau": 0.8,
+  "params": {
+   "tau": 0.8
+  },
   "n": 300,
+  "cloud_fired_share": null,
+  "latency_kind": "sequential_sum",
   "auto_accept_share": 1.0,
   "review_share": 0.0,
   "tier_share": {
@@ -822,7 +1027,12 @@
  {
   "policy": "router_solo",
   "tau": 0.85,
+  "params": {
+   "tau": 0.85
+  },
   "n": 300,
+  "cloud_fired_share": null,
+  "latency_kind": "sequential_sum",
   "auto_accept_share": 1.0,
   "review_share": 0.0,
   "tier_share": {
@@ -842,7 +1052,12 @@
  {
   "policy": "router_solo",
   "tau": 0.9,
+  "params": {
+   "tau": 0.9
+  },
   "n": 300,
+  "cloud_fired_share": null,
+  "latency_kind": "sequential_sum",
   "auto_accept_share": 1.0,
   "review_share": 0.0,
   "tier_share": {
@@ -862,7 +1077,12 @@
  {
   "policy": "router_solo",
   "tau": 0.93,
+  "params": {
+   "tau": 0.93
+  },
   "n": 300,
+  "cloud_fired_share": null,
+  "latency_kind": "sequential_sum",
   "auto_accept_share": 1.0,
   "review_share": 0.0,
   "tier_share": {
@@ -882,7 +1102,12 @@
  {
   "policy": "router_solo",
   "tau": 0.95,
+  "params": {
+   "tau": 0.95
+  },
   "n": 300,
+  "cloud_fired_share": null,
+  "latency_kind": "sequential_sum",
   "auto_accept_share": 1.0,
   "review_share": 0.0,
   "tier_share": {
@@ -902,7 +1127,12 @@
  {
   "policy": "router_solo",
   "tau": 0.97,
+  "params": {
+   "tau": 0.97
+  },
   "n": 300,
+  "cloud_fired_share": null,
+  "latency_kind": "sequential_sum",
   "auto_accept_share": 1.0,
   "review_share": 0.0,
   "tier_share": {
@@ -922,7 +1152,12 @@
  {
   "policy": "router_solo",
   "tau": 0.99,
+  "params": {
+   "tau": 0.99
+  },
   "n": 300,
+  "cloud_fired_share": null,
+  "latency_kind": "sequential_sum",
   "auto_accept_share": 1.0,
   "review_share": 0.0,
   "tier_share": {
@@ -942,7 +1177,12 @@
  {
   "policy": "router_solo",
   "tau": 1.01,
+  "params": {
+   "tau": 1.01
+  },
   "n": 300,
+  "cloud_fired_share": null,
+  "latency_kind": "sequential_sum",
   "auto_accept_share": 1.0,
   "review_share": 0.0,
   "tier_share": {
@@ -962,7 +1202,12 @@
  {
   "policy": "harness_solo",
   "tau": 0.0,
+  "params": {
+   "tau": 0.0
+  },
   "n": 300,
+  "cloud_fired_share": null,
+  "latency_kind": "sequential_sum",
   "auto_accept_share": 0.97,
   "review_share": 0.03,
   "tier_share": {
@@ -982,7 +1227,12 @@
  {
   "policy": "harness_solo",
   "tau": 0.5,
+  "params": {
+   "tau": 0.5
+  },
   "n": 300,
+  "cloud_fired_share": null,
+  "latency_kind": "sequential_sum",
   "auto_accept_share": 0.97,
   "review_share": 0.03,
   "tier_share": {
@@ -1002,7 +1252,12 @@
  {
   "policy": "harness_solo",
   "tau": 0.6,
+  "params": {
+   "tau": 0.6
+  },
   "n": 300,
+  "cloud_fired_share": null,
+  "latency_kind": "sequential_sum",
   "auto_accept_share": 0.97,
   "review_share": 0.03,
   "tier_share": {
@@ -1022,7 +1277,12 @@
  {
   "policy": "harness_solo",
   "tau": 0.7,
+  "params": {
+   "tau": 0.7
+  },
   "n": 300,
+  "cloud_fired_share": null,
+  "latency_kind": "sequential_sum",
   "auto_accept_share": 0.97,
   "review_share": 0.03,
   "tier_share": {
@@ -1042,7 +1302,12 @@
  {
   "policy": "harness_solo",
   "tau": 0.8,
+  "params": {
+   "tau": 0.8
+  },
   "n": 300,
+  "cloud_fired_share": null,
+  "latency_kind": "sequential_sum",
   "auto_accept_share": 0.97,
   "review_share": 0.03,
   "tier_share": {
@@ -1062,7 +1327,12 @@
  {
   "policy": "harness_solo",
   "tau": 0.85,
+  "params": {
+   "tau": 0.85
+  },
   "n": 300,
+  "cloud_fired_share": null,
+  "latency_kind": "sequential_sum",
   "auto_accept_share": 0.97,
   "review_share": 0.03,
   "tier_share": {
@@ -1082,7 +1352,12 @@
  {
   "policy": "harness_solo",
   "tau": 0.9,
+  "params": {
+   "tau": 0.9
+  },
   "n": 300,
+  "cloud_fired_share": null,
+  "latency_kind": "sequential_sum",
   "auto_accept_share": 0.9633,
   "review_share": 0.0367,
   "tier_share": {
@@ -1102,7 +1377,12 @@
  {
   "policy": "harness_solo",
   "tau": 0.93,
+  "params": {
+   "tau": 0.93
+  },
   "n": 300,
+  "cloud_fired_share": null,
+  "latency_kind": "sequential_sum",
   "auto_accept_share": 0.9633,
   "review_share": 0.0367,
   "tier_share": {
@@ -1122,7 +1402,12 @@
  {
   "policy": "harness_solo",
   "tau": 0.95,
+  "params": {
+   "tau": 0.95
+  },
   "n": 300,
+  "cloud_fired_share": null,
+  "latency_kind": "sequential_sum",
   "auto_accept_share": 0.9533,
   "review_share": 0.0467,
   "tier_share": {
@@ -1142,7 +1427,12 @@
  {
   "policy": "harness_solo",
   "tau": 0.97,
+  "params": {
+   "tau": 0.97
+  },
   "n": 300,
+  "cloud_fired_share": null,
+  "latency_kind": "sequential_sum",
   "auto_accept_share": 0.94,
   "review_share": 0.06,
   "tier_share": {
@@ -1162,7 +1452,12 @@
  {
   "policy": "harness_solo",
   "tau": 0.99,
+  "params": {
+   "tau": 0.99
+  },
   "n": 300,
+  "cloud_fired_share": null,
+  "latency_kind": "sequential_sum",
   "auto_accept_share": 0.9367,
   "review_share": 0.0633,
   "tier_share": {
@@ -1182,7 +1477,12 @@
  {
   "policy": "harness_solo",
   "tau": 1.01,
+  "params": {
+   "tau": 1.01
+  },
   "n": 300,
+  "cloud_fired_share": null,
+  "latency_kind": "sequential_sum",
   "auto_accept_share": 0.9367,
   "review_share": 0.0633,
   "tier_share": {
@@ -1202,7 +1502,12 @@
  {
   "policy": "harness_ladder_solo",
   "tau": 0.0,
+  "params": {
+   "tau": 0.0
+  },
   "n": 300,
+  "cloud_fired_share": null,
+  "latency_kind": "sequential_sum",
   "auto_accept_share": 0.9767,
   "review_share": 0.0233,
   "tier_share": {
@@ -1222,7 +1527,12 @@
  {
   "policy": "harness_ladder_solo",
   "tau": 0.5,
+  "params": {
+   "tau": 0.5
+  },
   "n": 300,
+  "cloud_fired_share": null,
+  "latency_kind": "sequential_sum",
   "auto_accept_share": 0.9767,
   "review_share": 0.0233,
   "tier_share": {
@@ -1242,7 +1552,12 @@
  {
   "policy": "harness_ladder_solo",
   "tau": 0.6,
+  "params": {
+   "tau": 0.6
+  },
   "n": 300,
+  "cloud_fired_share": null,
+  "latency_kind": "sequential_sum",
   "auto_accept_share": 0.9767,
   "review_share": 0.0233,
   "tier_share": {
@@ -1262,7 +1577,12 @@
  {
   "policy": "harness_ladder_solo",
   "tau": 0.7,
+  "params": {
+   "tau": 0.7
+  },
   "n": 300,
+  "cloud_fired_share": null,
+  "latency_kind": "sequential_sum",
   "auto_accept_share": 0.9767,
   "review_share": 0.0233,
   "tier_share": {
@@ -1282,7 +1602,12 @@
  {
   "policy": "harness_ladder_solo",
   "tau": 0.8,
+  "params": {
+   "tau": 0.8
+  },
   "n": 300,
+  "cloud_fired_share": null,
+  "latency_kind": "sequential_sum",
   "auto_accept_share": 0.9767,
   "review_share": 0.0233,
   "tier_share": {
@@ -1302,7 +1627,12 @@
  {
   "policy": "harness_ladder_solo",
   "tau": 0.85,
+  "params": {
+   "tau": 0.85
+  },
   "n": 300,
+  "cloud_fired_share": null,
+  "latency_kind": "sequential_sum",
   "auto_accept_share": 0.9767,
   "review_share": 0.0233,
   "tier_share": {
@@ -1322,7 +1652,12 @@
  {
   "policy": "harness_ladder_solo",
   "tau": 0.9,
+  "params": {
+   "tau": 0.9
+  },
   "n": 300,
+  "cloud_fired_share": null,
+  "latency_kind": "sequential_sum",
   "auto_accept_share": 0.97,
   "review_share": 0.03,
   "tier_share": {
@@ -1342,7 +1677,12 @@
  {
   "policy": "harness_ladder_solo",
   "tau": 0.93,
+  "params": {
+   "tau": 0.93
+  },
   "n": 300,
+  "cloud_fired_share": null,
+  "latency_kind": "sequential_sum",
   "auto_accept_share": 0.97,
   "review_share": 0.03,
   "tier_share": {
@@ -1362,7 +1702,12 @@
  {
   "policy": "harness_ladder_solo",
   "tau": 0.95,
+  "params": {
+   "tau": 0.95
+  },
   "n": 300,
+  "cloud_fired_share": null,
+  "latency_kind": "sequential_sum",
   "auto_accept_share": 0.96,
   "review_share": 0.04,
   "tier_share": {
@@ -1382,7 +1727,12 @@
  {
   "policy": "harness_ladder_solo",
   "tau": 0.97,
+  "params": {
+   "tau": 0.97
+  },
   "n": 300,
+  "cloud_fired_share": null,
+  "latency_kind": "sequential_sum",
   "auto_accept_share": 0.95,
   "review_share": 0.05,
   "tier_share": {
@@ -1402,7 +1752,12 @@
  {
   "policy": "harness_ladder_solo",
   "tau": 0.99,
+  "params": {
+   "tau": 0.99
+  },
   "n": 300,
+  "cloud_fired_share": null,
+  "latency_kind": "sequential_sum",
   "auto_accept_share": 0.9467,
   "review_share": 0.0533,
   "tier_share": {
@@ -1422,7 +1777,12 @@
  {
   "policy": "harness_ladder_solo",
   "tau": 1.01,
+  "params": {
+   "tau": 1.01
+  },
   "n": 300,
+  "cloud_fired_share": null,
+  "latency_kind": "sequential_sum",
   "auto_accept_share": 0.9467,
   "review_share": 0.0533,
   "tier_share": {

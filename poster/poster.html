@@ -42,7 +42,7 @@
   .lead { font-size: 10.4pt; }
   .kicker { font-size: 9pt; color: var(--ink2); }
   .fig { display: block; max-width: 100%; height: auto; margin: 0 auto; }
-  .figA { max-height: 2.35in; } .figB { max-height: 1.8in; } .figC { max-height: 1.45in; }
+  .figA { max-height: 2.35in; } .figB { max-height: 1.5in; } .figC { max-height: 1.45in; }
   .cap { font-size: 7.8pt; color: var(--ink2); margin-top: 2pt; }
 
   /* diagram */
@@ -59,7 +59,7 @@
   .route .acc { color: var(--good); font-weight: bold; } .route .rev { color: var(--critical); font-weight: bold; }
 
   /* tables */
-  table { border-collapse: collapse; width: 100%; font-size: 7.8pt; }
+  table { border-collapse: collapse; width: 100%; font-size: 7.4pt; }
   th, td { text-align: left; padding: 1.2pt 3pt; border-bottom: 1px solid var(--grid); vertical-align: top; }
   th { color: var(--ink2); font-weight: normal; font-size: 7.4pt; text-transform: uppercase; letter-spacing: 0.3pt; }
   td.num, th.num { text-align: right; font-variant-numeric: tabular-nums; }
@@ -67,7 +67,7 @@
 
   /* findings */
   .find { border-left: 4px solid var(--t1); padding-left: 8pt; }
-  .find li { margin-bottom: 2pt; font-size: 8.3pt; line-height: 1.24; }
+  .find li { margin-bottom: 2pt; font-size: 7.9pt; line-height: 1.2; }
   .big { font-size: 20pt; font-weight: bold; color: var(--ink); line-height: 1; }
 
   /* footer */
@@ -190,12 +190,12 @@
         <h2><span class="n">6</span>Findings</h2>
         <ul>
           <li><b>Cheap readers get far, not far enough.</b> On 300 scans, local OCR + rules reads date and total right 73% of the time at $0, a local 3B vision model 83% (28 s on a 4 GB laptop GPU), Flash-Lite 97% at $0.54 per 1,000, 3.6 Flash 98% at $1.42. On 200 phone photos: local OCR 55%, local VLM 81%, cloud 87%.</li>
-          <li><b>Routing is cheap; the escalation signal is the bottleneck.</b> An oracle sends 27% of receipts to the cloud for 98.7% at $0.15 per 1,000. The real router (two readers agree, confidence &ge; 0.9) sends 56% for 95.7%; adding the code checks lifts accepted answers to 96.9% at a 4% review load. The strong cloud tier adds 0.7 points for 2.6x the price: escalate to people, not to a bigger model.</li>
-          <li><b>Code catches what the model cannot see about itself.</b> With no answer key, the checks caught 5 of Flash-Lite's 8 wrong answers and 38 of the local model's 51. On 43 adversarial receipts all three models ignored all 16 injections, every date and arithmetic trap tripped a gate, and nothing leaked. One targeted re-read fixed 0 to 1 of 20 flagged receipts and broke 1: retries do not replace review.</li>
+          <li><b>Routing is cheap; the escalation signal is the bottleneck.</b> An oracle sends 27% of receipts to the cloud for 98.7% at $0.15 per 1,000. The rule router (two readers agree, confidence &ge; 0.9) sends 56% for 95.7%; code checks lift accepted answers to 96.9% at a 4% review load. A logistic model on 13 tier-1 signals (AUC 0.89, out of fold) did not beat the rule on scans and gained 0.5 points on photos: the gap needs richer signals, not a bigger model.</li>
+          <li><b>Code catches what the model cannot see about itself.</b> With no answer key, the checks caught 38 of the local model's 51 wrong answers and 5 of Flash-Lite's 8. Of the 18 that slipped through on scans, 16 were a different printed amount (cash tendered, a subtotal), not a misread. On 43 adversarial receipts all three models ignored all 16 injections, every date and arithmetic trap tripped a gate, nothing leaked.</li>
         </ul>
       </section>
 
-      <p class="kicker" style="margin-top:0"><b>Next.</b> 10k receipts across SROIE, CORD and WildReceipt; a learned escalation signal to close the oracle gap; per-currency tolerances; drift monitoring tied to a spend cap.</p>
+      <p class="kicker" style="margin-top:0"><b>Time budget.</b> Start local, call the cloud at D s: a 30 s budget on this laptop sends 43% to the cloud for 96.3% at $0.23 per 1,000; a 4x faster GPU with a 10 s budget sends 19% for 94.4%. <b>Next.</b> 10k receipts across SROIE, CORD and WildReceipt; richer escalation signals (layout, a cheap local VLM pass); per-currency tolerances; drift monitoring under a spend cap.</p>
     </div>
   </div>
 

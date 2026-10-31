@@ -90,6 +90,12 @@ def fig_sweep(sweep: list[dict], policies: list[dict]) -> None:
             for x, yv, tau in (pts[0], pts[-1]):
                 ax.annotate(f"τ={tau:g}", (x, yv), textcoords="offset points", xytext=(4, -9 if pol.startswith("router") else 5),
                             fontsize=6.5, color=C["ink2"])
+    lr = H / ".." / "learned_router" / "curve.json"
+    if lr.exists():
+        pts = sorted({(round(q["cloud_share"] * 100, 2), round(q["accepted_precision"] * 100, 2))
+                      for q in json.loads(lr.read_text(encoding="utf-8"))["points"]})
+        ax.plot([q[0] for q in pts], [q[1] for q in pts], color=C["T2"], linewidth=1.6, linestyle="--",
+                label="Learned signal (logistic, out of fold)")
     by = {p["policy"]: p for p in policies}
     for key, marker, name in (("oracle", "*", "Oracle router"), ("all_lite", "s", "All cloud (cheap)"), ("all_local", "D", "All local")):
         p = by.get(key)
@@ -132,6 +138,30 @@ def fig_waterfall(falls: list[dict]) -> None:
     plt.close(fig)
 
 
+def fig_hedge(root: Path, name: str) -> None:
+    f = root / "hedge" / "curve.json"
+    if not f.exists():
+        return
+    rows = json.loads(f.read_text(encoding="utf-8"))
+    fig, ax = plt.subplots(figsize=(4.0, 2.6), dpi=300)
+    for sc, color, label in ((1.0, C["T2"], "local VLM as measured (28 s median)"), (0.25, C["T1"], "local VLM 4x faster (assumed GPU)")):
+        pts = [(r["D"], r["cloud_fired_share"] * 100, r["accepted_money_precision"] * 100) for r in rows if r["scale"] == sc and r["D"] != "inf" and float(r["D"]) != float("inf")]
+        pts.sort()
+        ax.plot([q[0] for q in pts], [q[1] for q in pts], color=color, linewidth=2, marker="o", markersize=3.5, label=label)
+        for d, cs, pr in pts:
+            if d in (5.0, 30.0):
+                ax.annotate(f"{pr:.1f}% correct", (d, cs), textcoords="offset points", xytext=(4, 4), fontsize=6.5, color=C["ink2"])
+    ax.set_xlabel("time budget D before the cloud is also called (s)")
+    ax.set_ylabel("receipts that reached the cloud (%)")
+    ax.yaxis.grid(True, color=C["grid"], linewidth=0.6)
+    ax.set_axisbelow(True)
+    ax.legend(frameon=False, fontsize=6.5)
+    ax.set_title("Hedging: how a time budget moves receipts to the cloud", loc="left", fontsize=9.5, color=C["ink"], pad=8)
+    fig.tight_layout()
+    fig.savefig(FIG / f"fig_hedge_{name}.png", bbox_inches="tight")
+    plt.close(fig)
+
+
 def main() -> None:
     FIG.mkdir(parents=True, exist_ok=True)
     policies = _load("policies.json")
@@ -140,6 +170,8 @@ def main() -> None:
     fig_outcomes(policies)
     fig_sweep(sweep, policies)
     fig_waterfall(falls)
+    fig_hedge(ROOT / "results", "results")
+    fig_hedge(ROOT / "results_wild", "results_wild")
     print("figures written to", FIG)
 
 

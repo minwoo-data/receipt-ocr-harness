@@ -1,0 +1,450 @@
+[
+ {
+  "policy": "hedge",
+  "tau": null,
+  "params": {
+   "D": 0.0,
+   "scale": 1.0
+  },
+  "n": 200,
+  "cloud_fired_share": 1.0,
+  "latency_kind": "wall",
+  "auto_accept_share": 0.775,
+  "review_share": 0.225,
+  "tier_share": {
+   "T1": 0.0,
+   "T2": 0.06,
+   "T3": 0.715,
+   "T4": 0.0
+  },
+  "cloud_share": 0.715,
+  "accepted_money_precision": 0.8839,
+  "accepted_all3_precision": 0.5677,
+  "leak_share": 0.09,
+  "cost_usd_per_1k": 0.528,
+  "costed_receipts": 200,
+  "latency_ms_median": 1753,
+  "D": 0.0,
+  "scale": 1.0
+ },
+ {
+  "policy": "hedge",
+  "tau": null,
+  "params": {
+   "D": 2.0,
+   "scale": 1.0
+  },
+  "n": 200,
+  "cloud_fired_share": 1.0,
+  "latency_kind": "wall",
+  "auto_accept_share": 0.775,
+  "review_share": 0.225,
+  "tier_share": {
+   "T1": 0.0,
+   "T2": 0.06,
+   "T3": 0.715,
+   "T4": 0.0
+  },
+  "cloud_share": 0.715,
+  "accepted_money_precision": 0.8839,
+  "accepted_all3_precision": 0.5677,
+  "leak_share": 0.09,
+  "cost_usd_per_1k": 0.528,
+  "costed_receipts": 200,
+  "latency_ms_median": 3753,
+  "D": 2.0,
+  "scale": 1.0
+ },
+ {
+  "policy": "hedge",
+  "tau": null,
+  "params": {
+   "D": 5.0,
+   "scale": 1.0
+  },
+  "n": 200,
+  "cloud_fired_share": 1.0,
+  "latency_kind": "wall",
+  "auto_accept_share": 0.775,
+  "review_share": 0.225,
+  "tier_share": {
+   "T1": 0.0,
+   "T2": 0.06,
+   "T3": 0.715,
+   "T4": 0.0
+  },
+  "cloud_share": 0.715,
+  "accepted_money_precision": 0.8839,
+  "accepted_all3_precision": 0.5677,
+  "leak_share": 0.09,
+  "cost_usd_per_1k": 0.528,
+  "costed_receipts": 200,
+  "latency_ms_median": 6753,
+  "D": 5.0,
+  "scale": 1.0
+ },
+ {
+  "policy": "hedge",
+  "tau": null,
+  "params": {
+   "D": 10.0,
+   "scale": 1.0
+  },
+  "n": 200,
+  "cloud_fired_share": 0.995,
+  "latency_kind": "wall",
+  "auto_accept_share": 0.775,
+  "review_share": 0.225,
+  "tier_share": {
+   "T1": 0.0,
+   "T2": 0.065,
+   "T3": 0.71,
+   "T4": 0.0
+  },
+  "cloud_share": 0.71,
+  "accepted_money_precision": 0.8839,
+  "accepted_all3_precision": 0.5677,
+  "leak_share": 0.09,
+  "cost_usd_per_1k": 0.526,
+  "costed_receipts": 200,
+  "latency_ms_median": 11753,
+  "D": 10.0,
+  "scale": 1.0
+ },
+ {
+  "policy": "hedge",
+  "tau": null,
+  "params": {
+   "D": 20.0,
+   "scale": 1.0
+  },
+  "n": 200,
+  "cloud_fired_share": 0.98,
+  "latency_kind": "wall",
+  "auto_accept_share": 0.775,
+  "review_share": 0.225,
+  "tier_share": {
+   "T1": 0.0,
+   "T2": 0.1,
+   "T3": 0.675,
+   "T4": 0.0
+  },
+  "cloud_share": 0.675,
+  "accepted_money_precision": 0.8839,
+  "accepted_all3_precision": 0.5742,
+  "leak_share": 0.09,
+  "cost_usd_per_1k": 0.518,
+  "costed_receipts": 200,
+  "latency_ms_median": 21676,
+  "D": 20.0,
+  "scale": 1.0
+ },
+ {
+  "policy": "hedge",
+  "tau": null,
+  "params": {
+   "D": 30.0,
+   "scale": 1.0
+  },
+  "n": 200,
+  "cloud_fired_share": 0.265,
+  "latency_kind": "wall",
+  "auto_accept_share": 0.69,
+  "review_share": 0.31,
+  "tier_share": {
+   "T1": 0.0,
+   "T2": 0.54,
+   "T3": 0.15,
+   "T4": 0.0
+  },
+  "cloud_share": 0.15,
+  "accepted_money_precision": 0.8986,
+  "accepted_all3_precision": 0.5942,
+  "leak_share": 0.07,
+  "cost_usd_per_1k": 0.141,
+  "costed_receipts": 200,
+  "latency_ms_median": 26197,
+  "D": 30.0,
+  "scale": 1.0
+ },
+ {
+  "policy": "hedge",
+  "tau": null,
+  "params": {
+   "D": 60.0,
+   "scale": 1.0
+  },
+  "n": 200,
+  "cloud_fired_share": 0.0,
+  "latency_kind": "wall",
+  "auto_accept_share": 0.65,
+  "review_share": 0.35,
+  "tier_share": {
+   "T1": 0.0,
+   "T2": 0.65,
+   "T3": 0.0,
+   "T4": 0.0
+  },
+  "cloud_share": 0.0,
+  "accepted_money_precision": 0.9077,
+  "accepted_all3_precision": 0.6,
+  "leak_share": 0.06,
+  "cost_usd_per_1k": 0.0,
+  "costed_receipts": 200,
+  "latency_ms_median": 26197,
+  "D": 60.0,
+  "scale": 1.0
+ },
+ {
+  "policy": "hedge",
+  "tau": null,
+  "params": {
+   "D": Infinity,
+   "scale": 1.0
+  },
+  "n": 200,
+  "cloud_fired_share": 0.0,
+  "latency_kind": "wall",
+  "auto_accept_share": 0.65,
+  "review_share": 0.35,
+  "tier_share": {
+   "T1": 0.0,
+   "T2": 0.65,
+   "T3": 0.0,
+   "T4": 0.0
+  },
+  "cloud_share": 0.0,
+  "accepted_money_precision": 0.9077,
+  "accepted_all3_precision": 0.6,
+  "leak_share": 0.06,
+  "cost_usd_per_1k": 0.0,
+  "costed_receipts": 200,
+  "latency_ms_median": 26197,
+  "D": Infinity,
+  "scale": 1.0
+ },
+ {
+  "policy": "hedge",
+  "tau": null,
+  "params": {
+   "D": 0.0,
+   "scale": 0.25
+  },
+  "n": 200,
+  "cloud_fired_share": 1.0,
+  "latency_kind": "wall",
+  "auto_accept_share": 0.775,
+  "review_share": 0.225,
+  "tier_share": {
+   "T1": 0.0,
+   "T2": 0.07,
+   "T3": 0.705,
+   "T4": 0.0
+  },
+  "cloud_share": 0.705,
+  "accepted_money_precision": 0.8839,
+  "accepted_all3_precision": 0.5677,
+  "leak_share": 0.09,
+  "cost_usd_per_1k": 0.528,
+  "costed_receipts": 200,
+  "latency_ms_median": 1753,
+  "D": 0.0,
+  "scale": 0.25
+ },
+ {
+  "policy": "hedge",
+  "tau": null,
+  "params": {
+   "D": 2.0,
+   "scale": 0.25
+  },
+  "n": 200,
+  "cloud_fired_share": 1.0,
+  "latency_kind": "wall",
+  "auto_accept_share": 0.775,
+  "review_share": 0.225,
+  "tier_share": {
+   "T1": 0.0,
+   "T2": 0.075,
+   "T3": 0.7,
+   "T4": 0.0
+  },
+  "cloud_share": 0.7,
+  "accepted_money_precision": 0.8839,
+  "accepted_all3_precision": 0.5677,
+  "leak_share": 0.09,
+  "cost_usd_per_1k": 0.528,
+  "costed_receipts": 200,
+  "latency_ms_median": 3753,
+  "D": 2.0,
+  "scale": 0.25
+ },
+ {
+  "policy": "hedge",
+  "tau": null,
+  "params": {
+   "D": 5.0,
+   "scale": 0.25
+  },
+  "n": 200,
+  "cloud_fired_share": 0.98,
+  "latency_kind": "wall",
+  "auto_accept_share": 0.775,
+  "review_share": 0.225,
+  "tier_share": {
+   "T1": 0.0,
+   "T2": 0.375,
+   "T3": 0.4,
+   "T4": 0.0
+  },
+  "cloud_share": 0.4,
+  "accepted_money_precision": 0.8839,
+  "accepted_all3_precision": 0.5742,
+  "leak_share": 0.09,
+  "cost_usd_per_1k": 0.518,
+  "costed_receipts": 200,
+  "latency_ms_median": 6540,
+  "D": 5.0,
+  "scale": 0.25
+ },
+ {
+  "policy": "hedge",
+  "tau": null,
+  "params": {
+   "D": 10.0,
+   "scale": 0.25
+  },
+  "n": 200,
+  "cloud_fired_share": 0.03,
+  "latency_kind": "wall",
+  "auto_accept_share": 0.66,
+  "review_share": 0.34,
+  "tier_share": {
+   "T1": 0.0,
+   "T2": 0.65,
+   "T3": 0.01,
+   "T4": 0.0
+  },
+  "cloud_share": 0.01,
+  "accepted_money_precision": 0.9091,
+  "accepted_all3_precision": 0.5985,
+  "leak_share": 0.06,
+  "cost_usd_per_1k": 0.016,
+  "costed_receipts": 200,
+  "latency_ms_median": 6549,
+  "D": 10.0,
+  "scale": 0.25
+ },
+ {
+  "policy": "hedge",
+  "tau": null,
+  "params": {
+   "D": 20.0,
+   "scale": 0.25
+  },
+  "n": 200,
+  "cloud_fired_share": 0.0,
+  "latency_kind": "wall",
+  "auto_accept_share": 0.65,
+  "review_share": 0.35,
+  "tier_share": {
+   "T1": 0.0,
+   "T2": 0.65,
+   "T3": 0.0,
+   "T4": 0.0
+  },
+  "cloud_share": 0.0,
+  "accepted_money_precision": 0.9077,
+  "accepted_all3_precision": 0.6,
+  "leak_share": 0.06,
+  "cost_usd_per_1k": 0.0,
+  "costed_receipts": 200,
+  "latency_ms_median": 6549,
+  "D": 20.0,
+  "scale": 0.25
+ },
+ {
+  "policy": "hedge",
+  "tau": null,
+  "params": {
+   "D": 30.0,
+   "scale": 0.25
+  },
+  "n": 200,
+  "cloud_fired_share": 0.0,
+  "latency_kind": "wall",
+  "auto_accept_share": 0.65,
+  "review_share": 0.35,
+  "tier_share": {
+   "T1": 0.0,
+   "T2": 0.65,
+   "T3": 0.0,
+   "T4": 0.0
+  },
+  "cloud_share": 0.0,
+  "accepted_money_precision": 0.9077,
+  "accepted_all3_precision": 0.6,
+  "leak_share": 0.06,
+  "cost_usd_per_1k": 0.0,
+  "costed_receipts": 200,
+  "latency_ms_median": 6549,
+  "D": 30.0,
+  "scale": 0.25
+ },
+ {
+  "policy": "hedge",
+  "tau": null,
+  "params": {
+   "D": 60.0,
+   "scale": 0.25
+  },
+  "n": 200,
+  "cloud_fired_share": 0.0,
+  "latency_kind": "wall",
+  "auto_accept_share": 0.65,
+  "review_share": 0.35,
+  "tier_share": {
+   "T1": 0.0,
+   "T2": 0.65,
+   "T3": 0.0,
+   "T4": 0.0
+  },
+  "cloud_share": 0.0,
+  "accepted_money_precision": 0.9077,
+  "accepted_all3_precision": 0.6,
+  "leak_share": 0.06,
+  "cost_usd_per_1k": 0.0,
+  "costed_receipts": 200,
+  "latency_ms_median": 6549,
+  "D": 60.0,
+  "scale": 0.25
+ },
+ {
+  "policy": "hedge",
+  "tau": null,
+  "params": {
+   "D": Infinity,
+   "scale": 0.25
+  },
+  "n": 200,
+  "cloud_fired_share": 0.0,
+  "latency_kind": "wall",
+  "auto_accept_share": 0.65,
+  "review_share": 0.35,
+  "tier_share": {
+   "T1": 0.0,
+   "T2": 0.65,
+   "T3": 0.0,
+   "T4": 0.0
+  },
+  "cloud_share": 0.0,
+  "accepted_money_precision": 0.9077,
+  "accepted_all3_precision": 0.6,
+  "leak_share": 0.06,
+  "cost_usd_per_1k": 0.0,
+  "costed_receipts": 200,
+  "latency_ms_median": 6549,
+  "D": Infinity,
+  "scale": 0.25
+ }
+]
