@@ -91,7 +91,7 @@ def fig_outcomes(policies: list[dict]) -> None:
 
 
 def fig_sweep(sweep: list[dict], policies: list[dict]) -> None:
-    fig, ax = plt.subplots(figsize=(5.0, 2.2), dpi=300)                 # wide and short: fits a poster side column
+    fig, ax = plt.subplots(figsize=(5.0, 2.65), dpi=300)                 # wide and short: fits a poster side column
     import os
     variant = os.environ.get("SWEEP_VARIANT", "")          # "" (agree) or "_solo"
     for pol, color, name in ((f"router{variant}", C["muted"], "Router, no checks"), (f"harness{variant}", C["T1"], "Harness, code checks")):

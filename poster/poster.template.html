@@ -59,10 +59,10 @@
   th { color:var(--ink2); font-weight:normal; font-size:9pt; }
   td.num, th.num { text-align:right; font-variant-numeric:tabular-nums; } th.num { white-space:nowrap; }
   .sw { display:inline-block; width:8pt; height:8pt; margin-right:4pt; vertical-align:-0.5pt; }
-  table.q3 th, table.q3 td { padding:4pt 5pt; } table.q3 td { font-size:11.5pt; } table.q3 td b { font-size:13pt; }
+  table.q3 th, table.q3 td { padding:2.5pt 5pt; } table.q3 td b { font-size:11.5pt; }
 
   .fig { display:block; max-width:100%; height:auto; margin:0 auto; }
-  .figA { max-height:3.6in; } .figB { max-height:2.1in; }
+  .figA { max-height:3.6in; } .figB { max-height:2.75in; }
 
   .cmp { display:grid; grid-template-columns:auto 1fr 1fr; gap:2pt 8pt; align-items:baseline; }
   .cmp .h { font-size:9pt; color:var(--ink2); border-bottom:1pt solid var(--grid); }
@@ -177,9 +177,11 @@
         <tr><td>Photos: correct</td><td class="num"><b>{{wA}}</b></td><td class="num"><b>{{wB}}</b></td></tr>
         <tr><td>Photos: to people</td><td class="num">{{wArev}}</td><td class="num">{{wBrev}}</td></tr>
       </table>
-      <p>Photos: same accuracy, more review. Scans: local only gives up {{scan_gap}} points. <b>Keeping data in costs mostly people's time.</b> In cloud mode the image leaves the machine at one step only; every check and routing decision runs locally.</p>
-      <p>Check rules are domain assets: a rule built from scan errors caught {{d_caught}} of {{leak_other}} there with no false alarms, but {{d_wild_caught_rcpt}} receipt on held-out photos, with {{d_wild_false_rcpt}} false alarm.</p>
-      <p><b>Next:</b> 10k receipts; invoices and statements; layout features for the hand-off decision; a weekly drift metric.</p>
+      <section class="blk" style="gap:7pt">
+        <p>Photos: same accuracy, more review; scans: {{scan_gap}} points lower. <b>Keeping data in costs mostly people's time.</b> In cloud mode only step 4 sends the image out; checks and routing stay local.</p>
+        <p>Check rules are domain assets: one built from scan errors caught {{d_caught}} of {{leak_other}} there, but {{d_wild_caught_rcpt}} receipt on held-out photos, with {{d_wild_false_rcpt}} false alarm.</p>
+        <p><b>Next:</b> 10k receipts; invoices and statements; layout features for the hand-off decision; a weekly drift metric.</p>
+      </section>
     </div>
   </div>
 
