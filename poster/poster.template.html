@@ -30,7 +30,7 @@
   .terms { background:var(--band); border-radius:4pt; padding:6pt 8pt; font-size:8.8pt; }
   .terms b { color:var(--ink); }
   .fig { display:block; max-width:100%; height:auto; margin:0 auto; }
-  .figA { max-height:2.7in; } .figB { max-height:2.0in; }
+  .figA { max-height:1.75in; } .figB { max-height:3.05in; }
   .cap { font-size:8pt; color:var(--ink2); margin-top:2pt; }
   .ladder { display:grid; grid-template-columns:repeat(4,1fr); gap:5pt; margin:4pt 0 6pt 0; }
   .rung { border:1.5px solid var(--grid); border-top:5px solid; border-radius:4pt; padding:4pt 6pt; font-size:8.3pt; }
@@ -114,9 +114,10 @@
         </div>
       </section>
       <section>
-        <img class="fig figA" src="../results/figures/fig_outcomes.png" alt="Outcomes by policy">
-        <div class="cap"><b>Fig A.</b> Where 300 scanned receipts end up under each policy, the share of accepted answers that are right, and API cost per 1,000.</div>
+        <img class="fig figB" src="../results/figures/fig_sweep.png" alt="Escalation curve">
+        <div class="cap"><b>Fig A.</b> Receipts sent to the cloud (x) vs accepted precision (y) as the local confidence threshold sweeps. The star is the oracle; the gap between it and the curves is what better escalation signals could still buy.</div>
       </section>
+      
       <section>
         <table>
           <tr><th>Routing policy (300 scans)</th><th class="num">cloud</th><th class="num">review</th><th class="num">accepted right</th><th class="num">USD / 1k</th></tr>
@@ -131,9 +132,10 @@
 
     <div class="col">
       <section>
-        <img class="fig figB" src="../results/figures/fig_sweep.png" alt="Escalation curve">
-        <div class="cap"><b>Fig B.</b> Receipts sent to the cloud (x) vs accepted precision (y) as the local confidence threshold sweeps. The star is the oracle; the gap between it and the curves is what better escalation signals could still buy.</div>
+        <img class="fig figA" src="../results/figures/fig_outcomes.png" alt="Outcomes by policy">
+        <div class="cap"><b>Fig B.</b> Where 300 scanned receipts end up under each policy, the share of accepted answers that are right, and API cost per 1,000.</div>
       </section>
+      
       <section>
         <h2><span class="n">5</span>Results</h2>
         <table>

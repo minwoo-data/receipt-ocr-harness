@@ -28,8 +28,15 @@ def main() -> None:
         page.goto(HTML.resolve().as_uri())
         page.wait_for_load_state("networkidle")
         page.emulate_media(media="print")
-        page.pdf(path=str(PDF), width="17in", height="11in", print_background=True, prefer_css_page_size=True,
-                 scale=scale, margin={"top": "0", "right": "0", "bottom": "0", "left": "0"})
+        target = PDF
+        try:
+            page.pdf(path=str(target), width="17in", height="11in", print_background=True, prefer_css_page_size=True,
+                     scale=scale, margin={"top": "0", "right": "0", "bottom": "0", "left": "0"})
+        except PermissionError:
+            target = PDF.with_name(PDF.stem + "_new.pdf")      # the PDF is open in a viewer; write beside it
+            page.pdf(path=str(target), width="17in", height="11in", print_background=True, prefer_css_page_size=True,
+                     scale=scale, margin={"top": "0", "right": "0", "bottom": "0", "left": "0"})
+            print("NOTE: original PDF was locked by another program; wrote", target.name)
         page.emulate_media(media="screen")
         page.screenshot(path=str(PNG), full_page=False)
         # Overflow check: anything taller than the page is a layout bug.
