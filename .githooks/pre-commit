@@ -1,0 +1,31 @@
+#!/usr/bin/env bash
+# pre-commit: block commits that contain API-key-looking strings or key files.
+# Enable once per clone:  git config core.hooksPath .githooks
+set -u
+
+blocked=0
+
+# 1. Files that must never be committed, whatever they contain.
+while IFS= read -r f; do
+  case "$f" in
+    config.json|.env|*.key|*/config.json|*/.env)
+      echo "[pre-commit] refusing to commit secret-bearing file: $f" >&2
+      blocked=1 ;;
+  esac
+done < <(git diff --cached --name-only --diff-filter=ACM)
+
+# 2. Key-shaped strings inside staged content (added lines only).
+#    Gemini keys start with AIza + 35 chars; Anthropic keys start with sk-ant-.
+#    OpenAI keys start with sk- followed by 20+ chars.
+pattern='AIza[0-9A-Za-z_-]{35}|sk-ant-[0-9A-Za-z_-]{20,}|sk-[0-9A-Za-z]{20,}|ghp_[0-9A-Za-z]{30,}'
+if git diff --cached -U0 | grep -E '^\+' | grep -Ev '^\+\+\+' | grep -Eq "$pattern"; then
+  echo "[pre-commit] refusing to commit: staged content contains a key-shaped string" >&2
+  echo "[pre-commit] (pattern: Gemini AIza..., Anthropic sk-ant-..., OpenAI sk-..., GitHub ghp_...)" >&2
+  blocked=1
+fi
+
+if [ "$blocked" -ne 0 ]; then
+  echo "[pre-commit] commit blocked. Remove the secret, then commit again." >&2
+  exit 1
+fi
+exit 0

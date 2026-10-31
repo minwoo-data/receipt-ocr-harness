@@ -1,0 +1,43 @@
+{
+ "engine": "gemini-3.1-flash-lite",
+ "provider": "gemini",
+ "raw_text": "{\n  \"vendor\": \"PASIR EMAS HARDWARE SDN BHD\",\n  \"date\": \"2018-06-23\",\n  \"subtotal\": 36.00,\n  \"tax\": 0.00,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 36.00,\n  \"currency\": \"MYR\",\n  \"confidence\": 0.98,\n  \"notes\": null\n}",
+ "data": {
+  "vendor": "PASIR EMAS HARDWARE SDN BHD",
+  "date": "2018-06-23",
+  "subtotal": 36.0,
+  "tax": 0.0,
+  "tip": null,
+  "total": 36.0,
+  "confidence": 0.98,
+  "notes": null
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": [
+   "Removed unexpected field 'discount'",
+   "Removed unexpected field 'currency'"
+  ]
+ },
+ "usage": {
+  "input_tokens": 1461,
+  "output_tokens": 112,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.000533,
+ "latency_ms": 6928,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.1-flash-lite",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.1-flash-lite"
+ ],
+ "key": "X51007846451"
+}

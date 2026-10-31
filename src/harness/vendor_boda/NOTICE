@@ -1,0 +1,5 @@
+These three modules (processor.py, providers.py, sanitizer.py) are adapted from
+minwoo-data/boda (https://github.com/minwoo-data/boda), the author's own
+open-source vision OCR pipeline. They are vendored here so the experiment is
+pinned to one version. Changes made for this project are marked with
+"# harness:" comments.
