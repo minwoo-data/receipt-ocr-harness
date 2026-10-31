@@ -1,0 +1,66 @@
+<!doctype html>
+<html lang="ko"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Receipt OCR harness: two workflows</title>
+<style>
+ :root{--ink:#0b0b0b;--ink2:#52514e;--grid:#e1e0d9;--t1:#2a78d6;--t2:#eb6834;--t3:#1baf7a;--t4:#eda100;--good:#0ca30c;--bad:#d03b3b;--band:#f3f2ee}
+ body{margin:0;background:#fff;color:var(--ink);font-family:Arial,"Malgun Gothic",sans-serif;line-height:1.35}
+ .wrap{max-width:1680px;margin:0 auto;padding:18px 22px}
+ h1{font-size:26px;margin:0 0 4px 0} .sub{color:var(--ink2);font-size:15px;margin-bottom:14px}
+ .lane{border:1.5px solid var(--grid);border-radius:12px;padding:12px 14px;margin-bottom:14px}
+ .lane h2{margin:0 0 8px 0;font-size:18px} .lane h2 small{font-weight:normal;color:var(--ink2);font-size:13px;margin-left:8px}
+ .flow{display:flex;align-items:stretch;gap:0}
+ .node{flex:1;border:1.5px solid var(--grid);border-top:6px solid var(--ink);border-radius:8px;padding:8px 10px;font-size:13px;min-width:0;background:#fff}
+ .node b{display:block;font-size:14px;margin-bottom:3px} .node .k{color:var(--ink2);font-size:12px}
+ .node .m{margin-top:6px;font-size:12.5px;background:var(--band);border-radius:6px;padding:4px 6px}
+ .arrow{flex:0 0 46px;display:flex;flex-direction:column;align-items:center;justify-content:center;font-size:11px;color:var(--ink2);text-align:center}
+ .arrow span{font-size:24px;line-height:1;color:var(--ink)}
+ .t1{border-top-color:var(--t1)} .t2{border-top-color:var(--t2)} .t3{border-top-color:var(--t3)} .t4{border-top-color:var(--t4)} .acc{border-top-color:var(--good)} .rev{border-top-color:var(--bad)}
+ .gate{display:inline-block;border:1px solid var(--grid);border-radius:4px;padding:1px 5px;margin:2px 2px 0 0;font-size:11.5px;background:#fff}
+ .legend{display:grid;grid-template-columns:repeat(4,1fr);gap:10px;margin-top:6px}
+ .legend div{border:1px solid var(--grid);border-radius:8px;padding:8px 10px;font-size:13px}
+ .legend b{display:block;font-size:13.5px}
+ .foot{color:var(--ink2);font-size:12px;margin-top:10px}
+ .ok{color:var(--good);font-weight:bold} .no{color:var(--bad);font-weight:bold}
+</style></head>
+<body><div class="wrap">
+<h1>영수증 한 장이 들어오면: 두 가지 워크플로</h1>
+<div class="sub">위 = 클라우드를 쓸 수 있을 때, 아래 = 데이터 반출이 안 되어 로컬만 쓸 때. 숫자는 SROIE 스캔 300장(날짜+총액 exact match, 2026-10-31 실행). 모델의 self-reported confidence 는 어디서도 판정에 쓰지 않습니다.</div>
+
+<section class="lane">
+ <h2>A. 클라우드 가능 <small>자동승인 정확도 96.9% · 사람 검토 4.3% · 클라우드 호출 52% · $0.37 / 1k · 중앙 6초</small></h2>
+ <div class="flow">
+  <div class="node"><b>Intake</b><span class="k">영수증 이미지 1장</span><div class="m">파일 검증 → 1,600px 로 축소</div></div>
+  <div class="arrow"><span>→</span></div>
+  <div class="node t1"><b>T1 · Local OCR + rules</b><span class="k">RapidOCR 텍스트 + Tesseract 증인, 규칙으로 vendor/date/total</span><div class="m">혼자 맞출 확률 72.7% · 4.7초 · $0<br>자기 신호: 두 OCR 의 날짜·총액 일치 AND confidence ≥ 0.9</div></div>
+  <div class="arrow">신호 통과 44%<span>→</span>미통과 56%</div>
+  <div class="node t3"><b>T3 · Cloud, cheap</b><span class="k">Gemini 3.1 Flash-Lite, JSON schema</span><div class="m">혼자 맞출 확률 97.3% · 1.8초 · $0.54 / 1k</div><div><span class="gate">sanitizer</span><span class="gate">arithmetic</span><span class="gate">date</span><span class="gate">two-reader</span></div></div>
+  <div class="arrow">플래그 7%<span>→</span></div>
+  <div class="node t4"><b>T4 · Cloud, strong</b><span class="k">Gemini 3.6 Flash, thinking off (Claude 로 vendor failover)</span><div class="m">혼자 맞출 확률 98.0% · 1.9초 · $1.42 / 1k</div><div><span class="gate">같은 4개 게이트</span></div></div>
+  <div class="arrow">여전히 플래그<span>→</span></div>
+  <div class="node rev"><b>Human review</b><span class="k">4.3%</span><div class="m">사람이 보는 건 전체의 1/23</div></div>
+ </div>
+ <div class="foot">게이트 0개 → <span class="ok">auto-accept</span> (T1 44% + T3 51.7% + T4 0.3%). 플래그가 있으면 한 단 위로 승격, 끝까지 플래그면 검토. 코드 검증이 정답 없이 Flash-Lite 오류 8건 중 5건을 잡았고, 새어 나간 3건은 "다른 인쇄 금액(현금 수령액·소계)"이었습니다.</div>
+</section>
+
+<section class="lane">
+ <h2>B. 로컬만 (데이터 반출 불가) <small>자동승인 정확도 93.4% · 사람 검토 19% · 클라우드 0 · $0 · 중앙 27초</small></h2>
+ <div class="flow">
+  <div class="node"><b>Intake</b><span class="k">영수증 이미지 1장</span><div class="m">파일 검증 → 1,024px 로 축소 (로컬 VLM 용)</div></div>
+  <div class="arrow"><span>→</span></div>
+  <div class="node t1"><b>T1 · Local OCR + rules</b><span class="k">같은 리더, 같은 자기 신호</span><div class="m">72.7% · 4.7초 · $0</div></div>
+  <div class="arrow">신호 통과 44%<span>→</span>미통과 56%</div>
+  <div class="node t2"><b>T2 · Local VLM</b><span class="k">Qwen2.5-VL 3B on Ollama, 클라우드와 같은 prompt + schema</span><div class="m">혼자 맞출 확률 83.0% · 28초(RTX 2050 Vulkan; CUDA급 GPU 면 약 7초 추정) · $0</div><div><span class="gate">sanitizer</span><span class="gate">arithmetic</span><span class="gate">date</span><span class="gate">two-reader</span></div></div>
+  <div class="arrow">플래그 19%<span>→</span></div>
+  <div class="node rev"><b>Human review</b><span class="k">19%</span><div class="m">클라우드 대신 사람이 흡수하는 몫. T1 임계값을 0.97 로 올리면 정확도 91.8%↔검토 23% 로 다이얼 조정</div></div>
+ </div>
+ <div class="foot">같은 게이트가 로컬 VLM 오류 51건 중 38건을 잡았습니다. 사진(WildReceipt 200장)에서는 로컬 전용 89.0%·검토 31.5%, 클라우드 워크플로 88.5%·검토 21.5% 로 정확도는 같고 검토 부담만 다릅니다.</div>
+</section>
+
+<div class="legend">
+ <div><b>검증 게이트 4개 (전부 코드)</b>sanitizer: NFKC 정규화 후 EN/KO/JA/ZH injection 패턴, 필드 화이트리스트, 타입·범위 · arithmetic: subtotal + tax + tip + discount = total (±0.05, 결측 ≠ 0) · date: 파싱 가능, 미래·과거 아님 · two-reader: 모델의 총액·날짜가 독립 OCR 텍스트에 있는가</div>
+ <div><b>왜 confidence 를 안 쓰나</b>프로덕션에서 모델 자기보고 confidence 로 자동승인하다 롤백한 경험. 이번 실험에서도 confidence 0.95 를 낸 오답이 다수. 판정은 정답을 보지 않는 코드가, 측정은 정답을 아는 코드가 합니다.</div>
+ <div><b>오라클 격차</b>정답을 아는 라우터는 27%만 클라우드로 보내고 98.7%. 실제 신호는 56%를 보내고 95.7%. 13개 신호의 logistic regression(AUC 0.89)도 못 좁힘 → 다음 신호는 레이아웃.</div>
+ <div><b>적대 세트 43장</b>injection 16건에 세 모델 모두 안 속음, 미래·과거 날짜 10건과 산술 함정 11건은 전부 게이트에 걸림, 누출 0. 메뉴판 대조군에서 지어낸 총액 2건도 게이트가 잡음.</div>
+</div>
+<div class="foot">Sources: ICDAR 2019 SROIE (CC-BY-4.0), WildReceipt (Sun et al. 2021), Tesseract 5.4, RapidOCR, Qwen2.5-VL via Ollama, Google Gemini API pricing 2026-10-31. Code and all results: github.com/minwoo-data/receipt-ocr-harness</div>
+</div></body></html>
