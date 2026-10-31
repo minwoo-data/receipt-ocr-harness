@@ -1,0 +1,64 @@
+[
+ {
+  "tier": "t2",
+  "n": 200,
+  "model_errors": 38,
+  "flagged": 72,
+  "errors_caught": 27,
+  "errors_leaked": 11,
+  "false_flags": 45,
+  "verifier_recall": 0.7105,
+  "verifier_precision": 0.375,
+  "flag_counts": {
+   "G_ARITH": 37,
+   "G_AGREE_DATE": 28,
+   "G_AGREE_TOTAL": 13,
+   "G_RANGE": 3,
+   "G_TOTAL_ROUNDED": 2,
+   "G_TOTAL_TENDER": 2,
+   "G_DATE": 1
+  }
+ },
+ {
+  "tier": "t3",
+  "n": 200,
+  "model_errors": 27,
+  "flagged": 59,
+  "errors_caught": 11,
+  "errors_leaked": 16,
+  "false_flags": 48,
+  "verifier_recall": 0.4074,
+  "verifier_precision": 0.1864,
+  "flag_counts": {
+   "G_ARITH": 24,
+   "G_AGREE_DATE": 21,
+   "G_AGREE_TOTAL": 12,
+   "G_RANGE": 6,
+   "G_MISSING": 3,
+   "G_TOTAL_TENDER": 2,
+   "G_DATE": 1,
+   "G_TOTAL_ROUNDED": 1
+  }
+ },
+ {
+  "tier": "t4",
+  "n": 200,
+  "model_errors": 27,
+  "flagged": 55,
+  "errors_caught": 11,
+  "errors_leaked": 16,
+  "false_flags": 44,
+  "verifier_recall": 0.4074,
+  "verifier_precision": 0.2,
+  "flag_counts": {
+   "G_AGREE_DATE": 21,
+   "G_ARITH": 18,
+   "G_AGREE_TOTAL": 13,
+   "G_RANGE": 6,
+   "G_MISSING": 3,
+   "G_DATE": 1,
+   "G_TOTAL_TENDER": 1,
+   "G_TOTAL_ROUNDED": 1
+  }
+ }
+]

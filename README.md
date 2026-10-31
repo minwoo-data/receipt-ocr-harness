@@ -80,7 +80,7 @@ Printed values and truth are stored separately in `data/synthetic/specs.json`.
 | Blind re-read (no previous values) | 0 | 1 | 15 / 20 |
 | Guided re-read (previous values shown, no target) | 1 | 1 | 16 / 20 |
 
-## Three follow-up analyses (plan: `docs/plan-abc.md`, triad-reviewed)
+## Follow-up analyses (A-C plan: `docs/plan-abc.md`, triad-reviewed; D pre-registered by commit)
 
 **A. Learned escalation signal** (`scripts/14_learned_router.py`, `src/harness/features.py`). Logistic regression on 13 tier-1 signals (OCR confidence, rule reasons, two-reader agreement, line counts), 5-fold out of fold on SROIE, then fit on SROIE and scored on Wild.
 
@@ -101,6 +101,15 @@ The oracle gap (27% vs 56% cloud on SROIE) is not closed by these features; rich
 | 4x faster | 5 s | 94% | 97.1% | 7% | 0.50 | 6.6 s |
 
 **C. Leak taxonomy** (`scripts/12_leaks.py`, `results*/leaks/leaks.md`). Of 18 SROIE answers that were wrong yet passed every check, 16 were a different printed amount (cash tendered, subtotal, a line item), 1 a day/month swap, 1 both fields. On Wild (45 leaks) dates dominate: 22 date errors, 18 other printed amounts.
+
+**D. A gate built from the leaks, tested on a held-out set** (`verify.check_total_label`, `scripts/17_gate_experiment.py`, `results*/gate_total_label/comparison.md`). Two code checks written from the SROIE leaks only: `G_TOTAL_TENDER` (the model's total is printed only on payment lines: cash, change, accepted, card) and `G_TOTAL_ROUNDED` (the total is not a multiple of 0.05 while a total line prints the rounded amount within 2 cents). The gate was frozen at commit `07a5a7a` (verify.py sha256 `7b929ffe2419…`) before WildReceipt was run with it; both comparison files record that hash. Opt-in (`04_harness.py --gates total_label`); the headline numbers above use the base gates.
+
+| set | leaks caught, verdicts (receipts) | new false flags, verdicts (receipts) | harness: accepted correct | harness: review | local only: accepted correct | local only: review |
+|---|---|---|---|---|---|---|
+| SROIE 300 (dev, gate designed here) | 10 (9) | 0 (0) | 96.9% -> 97.2% | 4.3% -> 4.7% | 93.4% -> 95.4% | 19.0% -> 20.7% |
+| Wild 200 (held-out) | 2 (1) | 3 (1) | 88.5% -> 89.0% | 21.5% -> 22.5% | 89.0% -> 89.6% | 31.5% -> 32.5% |
+
+Reading: a gate written from one dataset's failures transfers only partly. The SROIE leaks are Malaysian 0.05 rounding and cash tendered; the Wild leaks are mostly dates, and the one false flag is a Tesseract artifact (`TOTAL: 65.398` read as 65.40). Ignoring three-decimal tokens is the obvious v2, but it was found on the held-out set, so it would need a fresh held-out set to be scored fairly. Leak analysis has to be redone per domain.
 
 ## Reproduce
 

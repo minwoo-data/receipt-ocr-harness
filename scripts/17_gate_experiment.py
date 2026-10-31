@@ -79,7 +79,7 @@ def main() -> None:
     md += ["", "| key | tier | new flag | answer was |", "|---|---|---|---|"]
     md += [f"| {c['key']} | {c['tier']} | {', '.join(c['flags'])} | {'right (false flag)' if c['answer_right'] else 'wrong (leak caught)'} |" for c in cases]
     (out / "comparison.md").write_text("\n".join(md) + "\n", encoding="utf-8")
-    print("\n".join(md))
+    print("\n".join(md).encode("ascii", "replace").decode())     # Windows console is cp1252
 
 
 if __name__ == "__main__":
