@@ -55,7 +55,7 @@ def fig_outcomes(policies: list[dict]) -> None:
     order = ["all_local", "local_only", "all_lite", "all_strong", "router", "harness", "harness_ladder"]
     rows = [p for o in order for p in policies if p["policy"] == o]
     short = {"T1": "Local OCR + rules", "T2": "Local VLM", "T3": "Cloud, cheap", "T4": "Cloud, strong", "review": "Human review"}
-    fig, ax = plt.subplots(figsize=(6.6, 3.5), dpi=300)
+    fig, ax = plt.subplots(figsize=(6.6, 3.9), dpi=300)
     y = list(range(len(rows)))[::-1]
     left = [0.0] * len(rows)
     for tier in ("T1", "T2", "T3", "T4"):

@@ -28,6 +28,8 @@
   .cols { display:grid; grid-template-columns:1fr 1.5fr 1.15fr; column-gap:0.3in; min-height:0; }
   .col { display:flex; flex-direction:column; justify-content:space-between; min-height:0; }
   .blk { display:flex; flex-direction:column; gap:5pt; }
+  .col > .blk:not(:first-child) > h2 { margin-top:7pt; }      /* a little air above a heading that starts mid-column */
+  .col.c2 { justify-content:flex-start; gap:10pt; }          /* fixed gaps; the bar chart takes the height */
   h2 { font-size:16pt; line-height:1.15; margin:0; padding-bottom:3pt; border-bottom:1.5pt solid var(--ink); }
   h2 .n { color:var(--accent); margin-right:5pt; }
   .ans { font-size:12.5pt; font-weight:bold; color:var(--accent-t); margin:0; }
@@ -62,7 +64,7 @@
   table.q3 th, table.q3 td { padding:2.5pt 5pt; } table.q3 td b { font-size:11.5pt; }
 
   .fig { display:block; max-width:100%; height:auto; margin:0 auto; }
-  .figA { max-height:3.6in; } .figB { max-height:2.75in; }
+  .figA { max-height:4.0in; } .figB { max-height:2.75in; }
 
   .cmp { display:grid; grid-template-columns:auto 1fr 1fr; gap:2pt 8pt; align-items:baseline; }
   .cmp .h { font-size:9pt; color:var(--ink2); border-bottom:1pt solid var(--grid); }
@@ -131,7 +133,7 @@
       </table>
     </div>
 
-    <div class="col">
+    <div class="col c2">
       <section class="blk">
         <h2><span class="n">2</span>When should it call the cloud?</h2>
         <p class="ans">Local first, cloud when the checks fail, people last.</p>
@@ -142,7 +144,7 @@
           <div class="rung t1"><b>T1 &middot; OCR + rules</b><span>RapidOCR + Tesseract &middot; CPU &middot; $0</span></div>
           <div class="rung t2"><b>T2 &middot; local VLM</b><span>Qwen2.5-VL 3B &middot; 4 GB GPU &middot; $0</span></div>
           <div class="rung t3"><b>T3 &middot; cloud, cheap</b><span>Gemini 3.1 Flash-Lite &middot; $0.54 per 1k</span></div>
-          <div class="rung t4"><b>T4 &middot; cloud, strong</b><span>Gemini 3.6 Flash &middot; $1.42 per 1k &middot; Claude failover</span></div>
+          <div class="rung t4"><b>T4 &middot; cloud, strong</b><span>Gemini 3.6 Flash &middot; $1.42 per 1k</span><span>Claude failover</span></div>
         </div>
       </section>
       <table>
