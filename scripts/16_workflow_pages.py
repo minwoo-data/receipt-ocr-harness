@@ -35,29 +35,29 @@ T = {
 def mermaid(t, lane):
     if lane == "A":
         return f"""flowchart LR
-  IN([{t['intake']}]) --> T1[{t['t1']}]
-  T1 --> SIG{{{t['sig']}}}
-  SIG -- {t['yes']} 43.7% --> ACC1([{t['accept']}])
-  SIG -- {t['no']} 56.3% --> T3[{t['t3']}]
-  T3 -. 429 / 503 .-> FB[{t['fb']}]
+  IN(["{t['intake']}"]) --> T1["{t['t1']}"]
+  T1 --> SIG{{"{t['sig']}"}}
+  SIG -- {t['yes']} 43.7% --> ACC1(["{t['accept']}"])
+  SIG -- {t['no']} 56.3% --> T3["{t['t3']}"]
+  T3 -. 429 / 503 .-> FB["{t['fb']}"]
   FB -.-> G3
-  T3 --> G3{{{t['gates']}}}
-  G3 -- {t['zero']} 51.7% --> ACC2([{t['accept']}])
-  G3 -- {t['flagged']} 4.6% --> T4[{t['t4']}]
-  T4 --> G4{{{t['gates']}}}
-  G4 -- {t['zero']} 0.3% --> ACC3([{t['accept']}])
-  G4 -- {t['flagged']} 4.3% --> REV([{t['review']}])
+  T3 --> G3{{"{t['gates']}"}}
+  G3 -- {t['zero']} 51.7% --> ACC2(["{t['accept']}"])
+  G3 -- {t['flagged']} 4.6% --> T4["{t['t4']}"]
+  T4 --> G4{{"{t['gates']}"}}
+  G4 -- {t['zero']} 0.3% --> ACC3(["{t['accept']}"])
+  G4 -- {t['flagged']} 4.3% --> REV(["{t['review']}"])
   classDef t1 fill:#dce9fa,stroke:#2a78d6; classDef t3 fill:#d9f3e9,stroke:#1baf7a; classDef t4 fill:#fbefcf,stroke:#eda100;
   classDef acc fill:#e3f6e3,stroke:#0ca30c; classDef rev fill:#fae0e0,stroke:#d03b3b; classDef fb fill:#f3f2ee,stroke:#898781;
   class T1 t1; class T3 t3; class T4 t4; class ACC1,ACC2,ACC3 acc; class REV rev; class FB fb;"""
     return f"""flowchart LR
-  IN([{t['intake']}]) --> T1[{t['t1']}]
-  T1 --> SIG{{{t['sig']}}}
-  SIG -- {t['yes']} 43.7% --> ACC1([{t['accept']}])
-  SIG -- {t['no']} 56.3% --> T2[{t['t2']}]
-  T2 --> G2{{{t['gates']}}}
-  G2 -- {t['zero']} 37.3% --> ACC2([{t['accept']}])
-  G2 -- {t['flagged']} 19.0% --> REV([{t['review']}])
+  IN(["{t['intake']}"]) --> T1["{t['t1']}"]
+  T1 --> SIG{{"{t['sig']}"}}
+  SIG -- {t['yes']} 43.7% --> ACC1(["{t['accept']}"])
+  SIG -- {t['no']} 56.3% --> T2["{t['t2']}"]
+  T2 --> G2{{"{t['gates']}"}}
+  G2 -- {t['zero']} 37.3% --> ACC2(["{t['accept']}"])
+  G2 -- {t['flagged']} 19.0% --> REV(["{t['review']}"])
   classDef t1 fill:#dce9fa,stroke:#2a78d6; classDef t2 fill:#fde3d6,stroke:#eb6834;
   classDef acc fill:#e3f6e3,stroke:#0ca30c; classDef rev fill:#fae0e0,stroke:#d03b3b;
   class T1 t1; class T2 t2; class ACC1,ACC2 acc; class REV rev;"""
