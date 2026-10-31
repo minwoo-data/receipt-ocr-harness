@@ -13,6 +13,16 @@ truth. They are what production code can run on every receipt:
   G_AGREE_TOTAL the model's total does not appear in the independent OCR text
   G_AGREE_DATE  no token of the model's date appears in the independent OCR text
 
+Optional gate (verify(..., gates=("total_label",)); designed on SROIE 300 only,
+frozen before WildReceipt was scored):
+
+  G_TOTAL_TENDER  the model's total appears in the OCR text only on payment
+                  lines (cash, change, accepted, tendered, paid, card): the
+                  amount handed over, not the amount owed
+  G_TOTAL_ROUNDED the model's total is not a multiple of 0.05 and a total /
+                  payable line prints an amount within 2 cents that is: the
+                  pre-rounding figure instead of the rounded payable
+
 Each check returns a Flag(name, detail). An empty flag list is the only state
 in which auto-accept is allowed. Model confidence is carried through for
 logging but never consulted here.
@@ -171,10 +181,59 @@ def ocr_date_candidates(ocr_lines: list[str]) -> set[str]:
     return found
 
 
+_TENDER_WORDS = ("cash", "change", "tender", "accepted", "paid", "received", "refund", "visa", "master", "amex", "debit", "card")
+_FINAL_WORDS = ("total", "totai", "payable", "amountdue", "amtdue", "balancedue", "grand", "nett", "rounded", "afteradj")
+_NOT_FINAL_WORDS = ("subtotal", "subtot", "excl", "exclud", "before")
+
+
+def _label(line: str) -> str:
+    s = re.sub(r"[^a-z]", "", line.lower())
+    return s.replace("cashier", "")             # "Cashier: 01" is a person, not a payment
+
+
+def _is_tender(line: str) -> bool:
+    s = _label(line)
+    return any(w in s for w in _TENDER_WORDS)
+
+
+def _is_final(line: str) -> bool:
+    s = _label(line)
+    return any(w in s for w in _FINAL_WORDS) and not any(w in s for w in _NOT_FINAL_WORDS) and not _is_tender(line)
+
+
+def _cents(line: str) -> set[int]:
+    out = set()
+    for tok in _NUM_TOKEN.findall(line):
+        try:
+            out.add(round(float(tok.replace(",", "")) * 100))
+        except ValueError:
+            continue
+    return out
+
+
+def check_total_label(data: dict, ocr_lines: list[str] | None) -> list[Flag]:
+    """Which printed amount did the model pick? Uses only the OCR text and the
+    line labels, never the answer key. Abstains without OCR text or a total."""
+    total = _num(data.get("total"))
+    if not ocr_lines or total is None or total <= 0:
+        return []
+    t = round(total * 100)
+    flags = []
+    carrying = [l for l in ocr_lines if t in _cents(l)]
+    if carrying and all(_is_tender(l) for l in carrying) and any(_cents(l) - {t} for l in ocr_lines if not _is_tender(l)):
+        flags.append(Flag("G_TOTAL_TENDER", f"{total:.2f} printed only on payment lines"))
+    if t % 5 != 0:
+        near = sorted({c for l in ocr_lines if _is_final(l) for c in _cents(l) if c != t and c % 5 == 0 and abs(c - t) <= 2})
+        if near:
+            flags.append(Flag("G_TOTAL_ROUNDED", f"{total:.2f} vs rounded {near[0] / 100:.2f} on a total line"))
+    return flags
+
+
 def verify(record: dict, ocr_lines: list[str] | None = None, today: date | None = None,
-           min_year: int | None = None) -> list[Flag]:
+           min_year: int | None = None, gates: tuple[str, ...] = ()) -> list[Flag]:
     """All checks on one VLM record (as written by engines.vlm). Returns the
-    flags; empty means every code check passed."""
+    flags; empty means every code check passed. `gates` switches on optional
+    checks by name ("total_label")."""
     data = record.get("data")
     if not isinstance(data, dict):
         return [Flag("G_MISSING", "no_parseable_json")]
@@ -185,6 +244,8 @@ def verify(record: dict, ocr_lines: list[str] | None = None, today: date | None 
     flags += check_date(data, today=today, min_year=min_year)
     flags += check_range(data)
     flags += check_agreement(data, ocr_lines)
+    if "total_label" in gates:
+        flags += check_total_label(data, ocr_lines)
     return flags
 
 

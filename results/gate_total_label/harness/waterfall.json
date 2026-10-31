@@ -1,0 +1,60 @@
+[
+ {
+  "tier": "t2",
+  "n": 300,
+  "model_errors": 51,
+  "flagged": 95,
+  "errors_caught": 46,
+  "errors_leaked": 5,
+  "false_flags": 49,
+  "verifier_recall": 0.902,
+  "verifier_precision": 0.4842,
+  "flag_counts": {
+   "G_ARITH": 57,
+   "G_AGREE_TOTAL": 24,
+   "G_AGREE_DATE": 12,
+   "G_TOTAL_ROUNDED": 7,
+   "G_DATE": 4,
+   "G_TOTAL_TENDER": 2,
+   "G_RANGE": 1,
+   "G_MISSING": 1
+  }
+ },
+ {
+  "tier": "t3",
+  "n": 300,
+  "model_errors": 8,
+  "flagged": 21,
+  "errors_caught": 6,
+  "errors_leaked": 2,
+  "false_flags": 15,
+  "verifier_recall": 0.75,
+  "verifier_precision": 0.2857,
+  "flag_counts": {
+   "G_ARITH": 9,
+   "G_AGREE_DATE": 6,
+   "G_AGREE_TOTAL": 3,
+   "G_TOTAL_TENDER": 1,
+   "G_DATE": 1,
+   "G_RANGE": 1
+  }
+ },
+ {
+  "tier": "t4",
+  "n": 300,
+  "model_errors": 6,
+  "flagged": 23,
+  "errors_caught": 5,
+  "errors_leaked": 1,
+  "false_flags": 18,
+  "verifier_recall": 0.8333,
+  "verifier_precision": 0.2174,
+  "flag_counts": {
+   "G_ARITH": 12,
+   "G_AGREE_DATE": 7,
+   "G_AGREE_TOTAL": 3,
+   "G_RANGE": 2,
+   "G_TOTAL_TENDER": 1
+  }
+ }
+]

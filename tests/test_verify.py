@@ -64,3 +64,41 @@ def test_suspect_field_priority():
     assert verify.suspect_field(flags) == "total"
     assert verify.suspect_field([verify.Flag("G_AGREE_DATE", "x")]) == "date"
     assert verify.suspect_field([]) is None
+
+
+# --- optional gate: which printed amount did the model pick (designed on SROIE) ---
+from harness.verify import check_total_label  # noqa: E402
+
+
+def _names(flags):
+    return {f.name for f in flags}
+
+
+def test_total_label_flags_cash_tendered():
+    lines = ["SR 1X 26.90 26.90", "Discount0.00%:26.90", "Cash 27.00", "Change 0.10"]
+    assert _names(check_total_label({"total": 27.0}, lines)) == {"G_TOTAL_TENDER"}
+
+
+def test_total_label_passes_total_also_on_cash_line():
+    lines = ["TOTAL RM7.40", "CASH RM7.40", "CHANGE RM0.00"]
+    assert check_total_label({"total": 7.4}, lines) == []
+
+
+def test_total_label_flags_pre_rounding_total():
+    lines = ["Total(Inclusive of GST): 65.72", "Rounding Adj -0.02", "TOTAL: 65.70", "CASH: 65.70"]
+    assert _names(check_total_label({"total": 65.72}, lines)) == {"G_TOTAL_ROUNDED"}
+
+
+def test_total_label_rounded_total_is_fine():
+    lines = ["Total(Inclusive of GST): 65.72", "TOTAL: 65.70", "CASH: 70.00", "CHANGE: 4.30"]
+    assert check_total_label({"total": 65.70}, lines) == []
+
+
+def test_total_label_ignores_subtotal_and_cashier_lines():
+    lines = ["Cashier: 12 3.45", "Sub-total 8.95", "TOTAL 8.96"]
+    assert check_total_label({"total": 8.96}, lines) == []
+
+
+def test_total_label_abstains_without_ocr_or_total():
+    assert check_total_label({"total": 5.0}, None) == []
+    assert check_total_label({"total": None}, ["CASH 5.00"]) == []

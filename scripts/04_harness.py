@@ -88,12 +88,13 @@ def local_signal(rapid: dict | None, tess: dict | None, day_first: bool = True) 
 
 
 ERA = {"today": TODAY, "min_year": None}     # set from the manifest's ground-truth years in main()
+GATES: tuple[str, ...] = ()                  # optional verify gates, from --gates
 
 
 def vlm_flags(rec: dict | None, ocr_lines: list[str] | None) -> list[str]:
     if rec is None:
         return ["UNAVAILABLE"]
-    return [f.name for f in verify.verify(rec, ocr_lines, today=ERA["today"], min_year=ERA["min_year"])]
+    return [f.name for f in verify.verify(rec, ocr_lines, today=ERA["today"], min_year=ERA["min_year"], gates=GATES)]
 
 
 # ---------------------------------------------------------------------------
@@ -286,7 +287,10 @@ def main() -> None:
     ap.add_argument("--tau", type=float, default=0.9)
     ap.add_argument("--results", default="results", help="results root (e.g. results_wild for the WildReceipt run)")
     ap.add_argument("--out", default=None, help="output folder; default <results>/harness")
+    ap.add_argument("--gates", default="", help="optional verify gates, comma separated (e.g. total_label)")
     args = ap.parse_args()
+    global GATES
+    GATES = tuple(g for g in args.gates.split(",") if g)
 
     manifest = load_manifest(ROOT / args.manifest)
     global ROOT_RESULTS
