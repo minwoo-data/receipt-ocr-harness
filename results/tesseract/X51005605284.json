@@ -1,0 +1,518 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "ADVANCO COMPANY",
+  "Company Reg. No. : 725186-V",
+  "NO 1&3, Jalan Wangsa Delima 12,",
+  "Wangsa Link, Wangsa Maju,",
+  "53300 Kuala Lumpur",
+  "03-41318972",
+  "GST Reg : 001658445824",
+  "TAX INVOICE",
+  "CB#: 398313 23/03/2018 3:13:19",
+  "M#: M2-0",
+  "Cashier: c2000-",
+  "Qty Description Price Total",
+  "FUJI XEROX EVERYDAY A4 70GSM £ SR",
+  "5 27499 11.00 55.00",
+  "Item Discount $0.20 -1.00",
+  "CANON PG-47BK E400 BLACK FINE SR",
+  "1 27736 29.00 29.00",
+  "“6 Type. 2 Total 8400.",
+  "Disc $.20 X5 100",
+  "Rounding Adj 0.00 _",
+  "\"Total Inclusive GST: 83.00",
+  "CASH 85.00",
+  "Change 2.00",
+  "GST Summary",
+  "Code % NetAmt GST Total",
+  "SR 6% 78.30 4.70 83.00",
+  "Total 7830 470 8300",
+  "Thank you & Please come again.",
+  "Goods sold are not returnable for refund or",
+  "exchange !!"
+ ],
+ "tokens": [
+  {
+   "text": "ADVANCO",
+   "conf": 0.91
+  },
+  {
+   "text": "COMPANY",
+   "conf": 0.95
+  },
+  {
+   "text": "Company",
+   "conf": 0.96
+  },
+  {
+   "text": "Reg.",
+   "conf": 0.94
+  },
+  {
+   "text": "No.",
+   "conf": 0.93
+  },
+  {
+   "text": ":",
+   "conf": 0.91
+  },
+  {
+   "text": "725186-V",
+   "conf": 0.91
+  },
+  {
+   "text": "NO",
+   "conf": 0.95
+  },
+  {
+   "text": "1&3,",
+   "conf": 0.91
+  },
+  {
+   "text": "Jalan",
+   "conf": 0.93
+  },
+  {
+   "text": "Wangsa",
+   "conf": 0.92
+  },
+  {
+   "text": "Delima",
+   "conf": 0.92
+  },
+  {
+   "text": "12,",
+   "conf": 0.96
+  },
+  {
+   "text": "Wangsa",
+   "conf": 0.91
+  },
+  {
+   "text": "Link,",
+   "conf": 0.93
+  },
+  {
+   "text": "Wangsa",
+   "conf": 0.93
+  },
+  {
+   "text": "Maju,",
+   "conf": 0.96
+  },
+  {
+   "text": "53300",
+   "conf": 0.96
+  },
+  {
+   "text": "Kuala",
+   "conf": 0.95
+  },
+  {
+   "text": "Lumpur",
+   "conf": 0.96
+  },
+  {
+   "text": "03-41318972",
+   "conf": 0.92
+  },
+  {
+   "text": "GST",
+   "conf": 0.96
+  },
+  {
+   "text": "Reg",
+   "conf": 0.9
+  },
+  {
+   "text": ":",
+   "conf": 0.9
+  },
+  {
+   "text": "001658445824",
+   "conf": 0.88
+  },
+  {
+   "text": "TAX",
+   "conf": 0.93
+  },
+  {
+   "text": "INVOICE",
+   "conf": 0.96
+  },
+  {
+   "text": "CB#:",
+   "conf": 0.78
+  },
+  {
+   "text": "398313",
+   "conf": 0.95
+  },
+  {
+   "text": "23/03/2018",
+   "conf": 0.95
+  },
+  {
+   "text": "3:13:19",
+   "conf": 0.96
+  },
+  {
+   "text": "M#:",
+   "conf": 0.89
+  },
+  {
+   "text": "M2-0",
+   "conf": 0.9
+  },
+  {
+   "text": "Cashier:",
+   "conf": 0.85
+  },
+  {
+   "text": "c2000-",
+   "conf": 0.79
+  },
+  {
+   "text": "Qty",
+   "conf": 0.92
+  },
+  {
+   "text": "Description",
+   "conf": 0.92
+  },
+  {
+   "text": "Price",
+   "conf": 0.96
+  },
+  {
+   "text": "Total",
+   "conf": 0.96
+  },
+  {
+   "text": "FUJI",
+   "conf": 0.95
+  },
+  {
+   "text": "XEROX",
+   "conf": 0.96
+  },
+  {
+   "text": "EVERYDAY",
+   "conf": 0.93
+  },
+  {
+   "text": "A4",
+   "conf": 0.86
+  },
+  {
+   "text": "70GSM",
+   "conf": 0.69
+  },
+  {
+   "text": "£",
+   "conf": 0.69
+  },
+  {
+   "text": "SR",
+   "conf": 0.96
+  },
+  {
+   "text": "5",
+   "conf": 0.94
+  },
+  {
+   "text": "27499",
+   "conf": 0.96
+  },
+  {
+   "text": "11.00",
+   "conf": 0.95
+  },
+  {
+   "text": "55.00",
+   "conf": 0.95
+  },
+  {
+   "text": "Item",
+   "conf": 0.92
+  },
+  {
+   "text": "Discount",
+   "conf": 0.96
+  },
+  {
+   "text": "$0.20",
+   "conf": 0.96
+  },
+  {
+   "text": "-1.00",
+   "conf": 0.9
+  },
+  {
+   "text": "CANON",
+   "conf": 0.93
+  },
+  {
+   "text": "PG-47BK",
+   "conf": 0.9
+  },
+  {
+   "text": "E400",
+   "conf": 0.96
+  },
+  {
+   "text": "BLACK",
+   "conf": 0.95
+  },
+  {
+   "text": "FINE",
+   "conf": 0.51
+  },
+  {
+   "text": "SR",
+   "conf": 0.95
+  },
+  {
+   "text": "1",
+   "conf": 0.87
+  },
+  {
+   "text": "27736",
+   "conf": 0.87
+  },
+  {
+   "text": "29.00",
+   "conf": 0.94
+  },
+  {
+   "text": "29.00",
+   "conf": 0.94
+  },
+  {
+   "text": "“6",
+   "conf": 0.57
+  },
+  {
+   "text": "Type.",
+   "conf": 0.48
+  },
+  {
+   "text": "2",
+   "conf": 0.78
+  },
+  {
+   "text": "Total",
+   "conf": 0.72
+  },
+  {
+   "text": "8400.",
+   "conf": 0.52
+  },
+  {
+   "text": "Disc",
+   "conf": 0.46
+  },
+  {
+   "text": "$.20",
+   "conf": 0.46
+  },
+  {
+   "text": "X5",
+   "conf": 0.44
+  },
+  {
+   "text": "100",
+   "conf": 0.56
+  },
+  {
+   "text": "Rounding",
+   "conf": 0.96
+  },
+  {
+   "text": "Adj",
+   "conf": 0.89
+  },
+  {
+   "text": "0.00",
+   "conf": 0.68
+  },
+  {
+   "text": "_",
+   "conf": 0.68
+  },
+  {
+   "text": "\"Total",
+   "conf": 0.34
+  },
+  {
+   "text": "Inclusive",
+   "conf": 0.94
+  },
+  {
+   "text": "GST:",
+   "conf": 0.95
+  },
+  {
+   "text": "83.00",
+   "conf": 0.94
+  },
+  {
+   "text": "CASH",
+   "conf": 0.96
+  },
+  {
+   "text": "85.00",
+   "conf": 0.96
+  },
+  {
+   "text": "Change",
+   "conf": 0.96
+  },
+  {
+   "text": "2.00",
+   "conf": 0.96
+  },
+  {
+   "text": "GST",
+   "conf": 0.93
+  },
+  {
+   "text": "Summary",
+   "conf": 0.93
+  },
+  {
+   "text": "Code",
+   "conf": 0.57
+  },
+  {
+   "text": "%",
+   "conf": 0.57
+  },
+  {
+   "text": "NetAmt",
+   "conf": 0.54
+  },
+  {
+   "text": "GST",
+   "conf": 0.45
+  },
+  {
+   "text": "Total",
+   "conf": 0.05
+  },
+  {
+   "text": "SR",
+   "conf": 0.95
+  },
+  {
+   "text": "6%",
+   "conf": 0.95
+  },
+  {
+   "text": "78.30",
+   "conf": 0.77
+  },
+  {
+   "text": "4.70",
+   "conf": 0.96
+  },
+  {
+   "text": "83.00",
+   "conf": 0.96
+  },
+  {
+   "text": "Total",
+   "conf": 0.96
+  },
+  {
+   "text": "7830",
+   "conf": 0.72
+  },
+  {
+   "text": "470",
+   "conf": 0.81
+  },
+  {
+   "text": "8300",
+   "conf": 0.65
+  },
+  {
+   "text": "Thank",
+   "conf": 0.96
+  },
+  {
+   "text": "you",
+   "conf": 0.93
+  },
+  {
+   "text": "&",
+   "conf": 0.93
+  },
+  {
+   "text": "Please",
+   "conf": 0.96
+  },
+  {
+   "text": "come",
+   "conf": 0.96
+  },
+  {
+   "text": "again.",
+   "conf": 0.96
+  },
+  {
+   "text": "Goods",
+   "conf": 0.96
+  },
+  {
+   "text": "sold",
+   "conf": 0.96
+  },
+  {
+   "text": "are",
+   "conf": 0.96
+  },
+  {
+   "text": "not",
+   "conf": 0.96
+  },
+  {
+   "text": "returnable",
+   "conf": 0.96
+  },
+  {
+   "text": "for",
+   "conf": 0.95
+  },
+  {
+   "text": "refund",
+   "conf": 0.95
+  },
+  {
+   "text": "or",
+   "conf": 0.96
+  },
+  {
+   "text": "exchange",
+   "conf": 0.92
+  },
+  {
+   "text": "!!",
+   "conf": 0.55
+  }
+ ],
+ "mean_conf": 0.8563,
+ "low_conf_share": 0.0598,
+ "latency_ms": 1346,
+ "fields": {
+  "company": "ADVANCO COMPANY",
+  "date": "2018-03-23",
+  "total": 83.0
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  83.0
+ ],
+ "key": "X51005605284"
+}

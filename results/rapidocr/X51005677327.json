@@ -1,0 +1,285 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "31802016",
+  "SYARIKAT PERNIAGAAN GIN KEE",
+  "(81109-A)",
+  "NO290,JALANAIRPANAS",
+  "SETAPAK,",
+  "53200,KUALALUMPUR",
+  "TEL:03-40210276",
+  "GST1D:000750673920",
+  "SIMPLIFIED TAXINVOICE",
+  "CASH",
+  "DocNo CS00013076 Date:01/02/2018",
+  "Cashier :USER Time:09:38:00",
+  "Salesperson Ref.:",
+  "Item Qty S/Price Amount Tax",
+  "2430 2 18.02 36.04 SR",
+  "CEMENT(50KG)",
+  "Total Qty: 2 36.04",
+  "Total Sales(Excluding GST): 34.00",
+  "Discount: 0.00",
+  "Total GST : 2.04",
+  "Rounding: 0.00",
+  "Total Sales (Inclusive of GsT) 36.04",
+  "CASH : 36.04",
+  "Change : 0.00",
+  "GSTSUMMARY",
+  "Tax Code % Amt (RM) Tax(RM)",
+  "SR 6 34.00 2.04",
+  "Total : 34.00 2.04",
+  "GOODSSOLDARENOTRETURNABLE,THANKYOU."
+ ],
+ "tokens": [
+  {
+   "text": "31802016",
+   "conf": 0.9765246659517288
+  },
+  {
+   "text": "SYARIKAT PERNIAGAAN GIN KEE",
+   "conf": 0.9465011645246435
+  },
+  {
+   "text": "(81109-A)",
+   "conf": 0.9802894923422072
+  },
+  {
+   "text": "NO290,JALANAIRPANAS",
+   "conf": 0.9440468094850841
+  },
+  {
+   "text": "SETAPAK,",
+   "conf": 0.9618899971246719
+  },
+  {
+   "text": "53200,KUALALUMPUR",
+   "conf": 0.9577756173470441
+  },
+  {
+   "text": "TEL:03-40210276",
+   "conf": 0.9859180927276612
+  },
+  {
+   "text": "GST1D:000750673920",
+   "conf": 0.9730145037174225
+  },
+  {
+   "text": "SIMPLIFIED TAXINVOICE",
+   "conf": 0.9668971669106257
+  },
+  {
+   "text": "CASH",
+   "conf": 0.9924840927124023
+  },
+  {
+   "text": "DocNo",
+   "conf": 0.9890833258628845
+  },
+  {
+   "text": "CS00013076",
+   "conf": 0.9965509414672852
+  },
+  {
+   "text": "Date:01/02/2018",
+   "conf": 0.9945720473925272
+  },
+  {
+   "text": "Cashier",
+   "conf": 0.993650129863194
+  },
+  {
+   "text": ":USER",
+   "conf": 0.9491012215614318
+  },
+  {
+   "text": "Time:09:38:00",
+   "conf": 0.9638448357582092
+  },
+  {
+   "text": "Salesperson",
+   "conf": 0.9968704960562966
+  },
+  {
+   "text": "Ref.:",
+   "conf": 0.9760321974754333
+  },
+  {
+   "text": "Item",
+   "conf": 0.8765374273061752
+  },
+  {
+   "text": "Qty",
+   "conf": 0.9949471751848856
+  },
+  {
+   "text": "S/Price",
+   "conf": 0.9827289410999843
+  },
+  {
+   "text": "Amount",
+   "conf": 0.9957928458849589
+  },
+  {
+   "text": "Tax",
+   "conf": 0.9911429087320963
+  },
+  {
+   "text": "2430",
+   "conf": 0.999033972620964
+  },
+  {
+   "text": "2",
+   "conf": 0.9997259974479675
+  },
+  {
+   "text": "18.02",
+   "conf": 0.9984907150268555
+  },
+  {
+   "text": "36.04",
+   "conf": 0.9981139302253723
+  },
+  {
+   "text": "SR",
+   "conf": 0.9935796558856964
+  },
+  {
+   "text": "CEMENT(50KG)",
+   "conf": 0.960682878891627
+  },
+  {
+   "text": "Total Qty:",
+   "conf": 0.963647049665451
+  },
+  {
+   "text": "2",
+   "conf": 0.9987896084785461
+  },
+  {
+   "text": "36.04",
+   "conf": 0.9988906264305115
+  },
+  {
+   "text": "Total Sales(Excluding GST):",
+   "conf": 0.9350110248283103
+  },
+  {
+   "text": "34.00",
+   "conf": 0.999053168296814
+  },
+  {
+   "text": "Discount:",
+   "conf": 0.981740329000685
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9993065893650055
+  },
+  {
+   "text": "Total GST :",
+   "conf": 0.9388729333877563
+  },
+  {
+   "text": "2.04",
+   "conf": 0.9996742457151413
+  },
+  {
+   "text": "Rounding:",
+   "conf": 0.9883803327878317
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9989013671875
+  },
+  {
+   "text": "Total Sales (Inclusive of GsT)",
+   "conf": 0.9156312723954518
+  },
+  {
+   "text": "36.04",
+   "conf": 0.9992987275123596
+  },
+  {
+   "text": "CASH :",
+   "conf": 0.9396879772345225
+  },
+  {
+   "text": "36.04",
+   "conf": 0.9991221904754639
+  },
+  {
+   "text": "Change :",
+   "conf": 0.9873143434524536
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9988889992237091
+  },
+  {
+   "text": "GSTSUMMARY",
+   "conf": 0.9812678873538971
+  },
+  {
+   "text": "Tax Code",
+   "conf": 0.9521133303642273
+  },
+  {
+   "text": "%",
+   "conf": 0.9458598494529724
+  },
+  {
+   "text": "Amt (RM)",
+   "conf": 0.9529136121273041
+  },
+  {
+   "text": "Tax(RM)",
+   "conf": 0.9582307679312569
+  },
+  {
+   "text": "SR",
+   "conf": 0.9946874678134918
+  },
+  {
+   "text": "6",
+   "conf": 0.9770533442497253
+  },
+  {
+   "text": "34.00",
+   "conf": 0.9991656184196472
+  },
+  {
+   "text": "2.04",
+   "conf": 0.9992841482162476
+  },
+  {
+   "text": "Total :",
+   "conf": 0.9797915646008083
+  },
+  {
+   "text": "34.00",
+   "conf": 0.9995571970939636
+  },
+  {
+   "text": "2.04",
+   "conf": 0.9991763085126877
+  },
+  {
+   "text": "GOODSSOLDARENOTRETURNABLE,THANKYOU.",
+   "conf": 0.9651732538427625
+  }
+ ],
+ "mean_conf": 0.9777,
+ "low_conf_share": 0.0,
+ "latency_ms": 4586,
+ "fields": {
+  "company": "SYARIKAT PERNIAGAAN GIN KEE",
+  "date": "2018-02-01",
+  "total": 36.04
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  36.04
+ ],
+ "key": "X51005677327"
+}

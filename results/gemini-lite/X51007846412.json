@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.1-flash-lite",
+ "provider": "gemini",
+ "raw_text": "{\n  \"vendor\": \"LAVENDER CONFECTIONERY & BAKERY S/B\",\n  \"date\": \"2018-06-17\",\n  \"subtotal\": 26.50,\n  \"tax\": 0.00,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 26.50,\n  \"currency\": \"MYR\",\n  \"confidence\": 0.98,\n  \"notes\": null\n}",
+ "data": {
+  "vendor": "LAVENDER CONFECTIONERY & BAKERY S/B",
+  "date": "2018-06-17",
+  "subtotal": 26.5,
+  "tax": 0.0,
+  "tip": null,
+  "discount": null,
+  "total": 26.5,
+  "currency": "MYR",
+  "confidence": 0.98,
+  "notes": null
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1461,
+  "output_tokens": 116,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.000539,
+ "latency_ms": 8870,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.1-flash-lite",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.1-flash-lite"
+ ],
+ "key": "X51007846412"
+}

@@ -1,0 +1,308 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "ONE ONE THREE SEAFOOD RESTAURANT SDN BHD",
+  "(1120908-M)",
+  "NO.I,TAMAN SRI DENGKIL,JALAN AIR HITAM",
+  "43800 DENGKIL,SELANGOR.",
+  "(GST Reg.No:000670224384)",
+  "Tax Invoice",
+  "Tab1e03",
+  "B111#:V001-539233 Order#:139336",
+  "Date ：28-05-201823:28:57",
+  "Cashier:113 CASHIER Pax(s): 0",
+  "Qty Descrint n Total TAX",
+  "1 D 70.00 SR",
+  "Grouper",
+  "1 D 15.00SR",
+  "Vege item",
+  "1 D 8.00SR",
+  "Omellete Item",
+  "1 D 8.00SR",
+  "White Rice",
+  "1 D 5.00SR",
+  "Beverage",
+  "Total (Excluding GST): 106.00",
+  "GST-Payable: 6.36",
+  "Total （Inclusive of GST): 112.36",
+  "Rounding Adj: -0.01",
+  "TOTAL: 112.35",
+  "Closed:1 28-05-2018 23:50:00",
+  "Server:113 CASHIER",
+  "CASH: 112.35",
+  "GST Sumnary Amount(RM) Tax(RM)",
+  "SR （@6%） 106.00 6.36",
+  "****ThankYou ****",
+  "Please Cpme Again"
+ ],
+ "tokens": [
+  {
+   "text": "ONE ONE THREE SEAFOOD RESTAURANT SDN BHD",
+   "conf": 0.9446204721927642
+  },
+  {
+   "text": "(1120908-M)",
+   "conf": 0.959429529580203
+  },
+  {
+   "text": "NO.I,TAMAN SRI DENGKIL,JALAN AIR HITAM",
+   "conf": 0.9226141752381074
+  },
+  {
+   "text": "43800 DENGKIL,SELANGOR.",
+   "conf": 0.9668912265611731
+  },
+  {
+   "text": "(GST Reg.No:000670224384)",
+   "conf": 0.9500480580329895
+  },
+  {
+   "text": "Tax Invoice",
+   "conf": 0.957549355246804
+  },
+  {
+   "text": "Tab1e03",
+   "conf": 0.9463424001421247
+  },
+  {
+   "text": "B111#:V001-539233",
+   "conf": 0.9439991116523743
+  },
+  {
+   "text": "Order#:139336",
+   "conf": 0.9559174867776724
+  },
+  {
+   "text": "Date",
+   "conf": 0.9955498278141022
+  },
+  {
+   "text": "：28-05-201823:28:57",
+   "conf": 0.9615491597275985
+  },
+  {
+   "text": "Cashier:113 CASHIER",
+   "conf": 0.9587429228581881
+  },
+  {
+   "text": "Pax(s):",
+   "conf": 0.9158742427825928
+  },
+  {
+   "text": "0",
+   "conf": 0.9325518608093262
+  },
+  {
+   "text": "Qty",
+   "conf": 0.992954432964325
+  },
+  {
+   "text": "Descrint",
+   "conf": 0.9820457473397255
+  },
+  {
+   "text": "n",
+   "conf": 0.9804850816726685
+  },
+  {
+   "text": "Total TAX",
+   "conf": 0.9065781368149651
+  },
+  {
+   "text": "1",
+   "conf": 0.9951670169830322
+  },
+  {
+   "text": "D",
+   "conf": 0.7857103943824768
+  },
+  {
+   "text": "70.00 SR",
+   "conf": 0.9856879338622093
+  },
+  {
+   "text": "Grouper",
+   "conf": 0.9833346605300903
+  },
+  {
+   "text": "1",
+   "conf": 0.9481162428855896
+  },
+  {
+   "text": "D",
+   "conf": 0.9951404333114624
+  },
+  {
+   "text": "15.00SR",
+   "conf": 0.9949945296560015
+  },
+  {
+   "text": "Vege item",
+   "conf": 0.9563349154260423
+  },
+  {
+   "text": "1",
+   "conf": 0.9925731420516968
+  },
+  {
+   "text": "D",
+   "conf": 0.9844833016395569
+  },
+  {
+   "text": "8.00SR",
+   "conf": 0.992429385582606
+  },
+  {
+   "text": "Omellete Item",
+   "conf": 0.9340627468549288
+  },
+  {
+   "text": "1",
+   "conf": 0.9791154861450195
+  },
+  {
+   "text": "D",
+   "conf": 0.9889788031578064
+  },
+  {
+   "text": "8.00SR",
+   "conf": 0.9871497948964437
+  },
+  {
+   "text": "White Rice",
+   "conf": 0.9672069668769836
+  },
+  {
+   "text": "1",
+   "conf": 0.9664688110351562
+  },
+  {
+   "text": "D",
+   "conf": 0.9963656663894653
+  },
+  {
+   "text": "5.00SR",
+   "conf": 0.9972003400325775
+  },
+  {
+   "text": "Beverage",
+   "conf": 0.9833825677633286
+  },
+  {
+   "text": "Total (Excluding GST):",
+   "conf": 0.936931618235328
+  },
+  {
+   "text": "106.00",
+   "conf": 0.9981482525666555
+  },
+  {
+   "text": "GST-Payable:",
+   "conf": 0.9490249554316202
+  },
+  {
+   "text": "6.36",
+   "conf": 0.9983507692813873
+  },
+  {
+   "text": "Total （Inclusive of GST):",
+   "conf": 0.9271091389656066
+  },
+  {
+   "text": "112.36",
+   "conf": 0.9976219534873962
+  },
+  {
+   "text": "Rounding Adj:",
+   "conf": 0.9552368154892554
+  },
+  {
+   "text": "-0.01",
+   "conf": 0.9917848944664002
+  },
+  {
+   "text": "TOTAL:",
+   "conf": 0.9842665493488312
+  },
+  {
+   "text": "112.35",
+   "conf": 0.9995683828989664
+  },
+  {
+   "text": "Closed:1",
+   "conf": 0.9762419983744621
+  },
+  {
+   "text": "28-05-2018",
+   "conf": 0.9983557343482972
+  },
+  {
+   "text": "23:50:00",
+   "conf": 0.9711896851658821
+  },
+  {
+   "text": "Server:113 CASHIER",
+   "conf": 0.9743243356545767
+  },
+  {
+   "text": "CASH:",
+   "conf": 0.9667970418930054
+  },
+  {
+   "text": "112.35",
+   "conf": 0.996881514787674
+  },
+  {
+   "text": "GST Sumnary",
+   "conf": 0.9753219810399142
+  },
+  {
+   "text": "Amount(RM)",
+   "conf": 0.9661304354667664
+  },
+  {
+   "text": "Tax(RM)",
+   "conf": 0.9548556889806475
+  },
+  {
+   "text": "SR",
+   "conf": 0.9943894445896149
+  },
+  {
+   "text": "（@6%）",
+   "conf": 0.793379008769989
+  },
+  {
+   "text": "106.00",
+   "conf": 0.9986710349718729
+  },
+  {
+   "text": "6.36",
+   "conf": 0.997308537364006
+  },
+  {
+   "text": "****ThankYou ****",
+   "conf": 0.9792468337451711
+  },
+  {
+   "text": "Please Cpme Again",
+   "conf": 0.9588223029585445
+  }
+ ],
+ "mean_conf": 0.9655,
+ "low_conf_share": 0.0,
+ "latency_ms": 4169,
+ "fields": {
+  "company": "ONE ONE THREE SEAFOOD RESTAURANT SDN BHD",
+  "date": "2018-05-28",
+  "total": 112.35
+ },
+ "rule_reasons": [
+  "total_multiple_keyword_amounts"
+ ],
+ "total_candidates": [
+  112.36,
+  112.35
+ ],
+ "key": "X51008142032"
+}

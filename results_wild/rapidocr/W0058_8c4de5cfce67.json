@@ -1,0 +1,197 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "FACTURE",
+  "78000 VERSAILLES",
+  "Tel:01.39.02.36.03",
+  "TVA INTRA FR11420466708",
+  "Caissier #166",
+  "Restaurant 188",
+  "#CDE152-CSE04-27/04/2015 13:22:14",
+  "QTEPRODUIT UNIT TOTAL",
+  "1 The Glace BestOf 0.00 0.00",
+  "1BO Big Mac 6.80 6.80",
+  "1Filet 4.00 4.00",
+  "1Chicken 20 Nugge 9.20 9.20",
+  "1Frite Best Of 0.00 0.00",
+  "Total Sur Place （TVA INCL) 20.00",
+  "50.00",
+  "Rendu 30.00",
+  "02 20.00 TVA A 10.00%INCL.=1.82",
+  "Merci de votre visite",
+  "A bientot",
+  "Biere soumise a TVA de 20.00%",
+  "Code Porte Toilettes:",
+  "For the washing room:",
+  "A7836B"
+ ],
+ "tokens": [
+  {
+   "text": "FACTURE",
+   "conf": 0.9884073223386493
+  },
+  {
+   "text": "78000 VERSAILLES",
+   "conf": 0.9585145637392998
+  },
+  {
+   "text": "Tel:01.39.02.36.03",
+   "conf": 0.9760878152317471
+  },
+  {
+   "text": "TVA INTRA FR11420466708",
+   "conf": 0.9829606647076814
+  },
+  {
+   "text": "Caissier #166",
+   "conf": 0.9861030165965741
+  },
+  {
+   "text": "Restaurant 188",
+   "conf": 0.9843539553029197
+  },
+  {
+   "text": "#CDE152-CSE04-27/04/2015 13:22:14",
+   "conf": 0.9710863774473016
+  },
+  {
+   "text": "QTEPRODUIT",
+   "conf": 0.9929504811763763
+  },
+  {
+   "text": "UNIT",
+   "conf": 0.9948009699583054
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.99072105884552
+  },
+  {
+   "text": "1 The Glace BestOf",
+   "conf": 0.9354735182391273
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9985849410295486
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9988510459661484
+  },
+  {
+   "text": "1BO Big Mac",
+   "conf": 0.9108428900892084
+  },
+  {
+   "text": "6.80",
+   "conf": 0.9984142333269119
+  },
+  {
+   "text": "6.80",
+   "conf": 0.9985067993402481
+  },
+  {
+   "text": "1Filet",
+   "conf": 0.9907493690649668
+  },
+  {
+   "text": "4.00",
+   "conf": 0.9974000602960587
+  },
+  {
+   "text": "4.00",
+   "conf": 0.9978920817375183
+  },
+  {
+   "text": "1Chicken 20 Nugge",
+   "conf": 0.9772041720502517
+  },
+  {
+   "text": "9.20",
+   "conf": 0.99798683822155
+  },
+  {
+   "text": "9.20",
+   "conf": 0.9978718906641006
+  },
+  {
+   "text": "1Frite Best Of",
+   "conf": 0.9521680729729789
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9988187104463577
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9986050873994827
+  },
+  {
+   "text": "Total Sur Place （TVA INCL)",
+   "conf": 0.915190903040079
+  },
+  {
+   "text": "20.00",
+   "conf": 0.9984251141548157
+  },
+  {
+   "text": "50.00",
+   "conf": 0.9981322169303894
+  },
+  {
+   "text": "Rendu",
+   "conf": 0.9949567317962646
+  },
+  {
+   "text": "30.00",
+   "conf": 0.998270857334137
+  },
+  {
+   "text": "02",
+   "conf": 0.9963429868221283
+  },
+  {
+   "text": "20.00 TVA A 10.00%INCL.=1.82",
+   "conf": 0.9552690088748932
+  },
+  {
+   "text": "Merci de votre visite",
+   "conf": 0.9825621020226252
+  },
+  {
+   "text": "A bientot",
+   "conf": 0.9482109281751845
+  },
+  {
+   "text": "Biere soumise a TVA de 20.00%",
+   "conf": 0.9519364751618484
+  },
+  {
+   "text": "Code Porte Toilettes:",
+   "conf": 0.9746446070216951
+  },
+  {
+   "text": "For the washing room:",
+   "conf": 0.9720435596647716
+  },
+  {
+   "text": "A7836B",
+   "conf": 0.9977129697799683
+  }
+ ],
+ "mean_conf": 0.9805,
+ "low_conf_share": 0.0,
+ "latency_ms": 3298,
+ "fields": {
+  "company": "CAISSIER 166 RESTAURANT 188",
+  "date": null,
+  "total": 20.0
+ },
+ "rule_reasons": [
+  "date_not_found"
+ ],
+ "total_candidates": [
+  20.0
+ ],
+ "key": "W0058_8c4de5cfce67"
+}

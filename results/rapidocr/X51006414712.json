@@ -1,0 +1,391 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "TAX INVOICE",
+  "DOMINO'S PIZZA",
+  "GST REF NO :001694261248",
+  "30, Jln Kebudayaan 7, Tmn Universiti",
+  "81300 Skudai,Johor",
+  "CARRY OUT NOW Pay By: CASH",
+  "Ordler ：8557 BY :5586",
+  "Order Time:13:19:29 Date :28/04/18",
+  "Name: MS NIWA",
+  "pickup Time: 13:34:29",
+  "Qty Menu Desc Coupon Disc Price",
+  "1 PLSB-R 0.20",
+  "1 RCD AOA4-ADI 14.50",
+  "1 PEP (CAN) LVDR-RG 3.50",
+  "PEP (CAN) LVDR-RG- 3.50",
+  "1 T/B LVDR-RG- 7.50",
+  "1 9\"HT (AC) LVDR~RG- 27.80",
+  "17.40 57.00",
+  "Total Items",
+  "Sub-Total 57.00",
+  "Coupon Discount 17.40",
+  "Grand Total 39.60",
+  "Payment 40.00",
+  "Change Due 00.40",
+  "*6 GST Included 2.24",
+  "SUPPORT OUR SMILE CAMPAIGN",
+  "Did we smile at you?",
+  "Let us know at",
+  "www.dominos.com.my/smile and",
+  "receive a 30% off side item e-coupon",
+  "upon survey submission",
+  "Survey Code:CBD280740855719",
+  "Thank you for visiting Domino's.",
+  "Please Come Again!",
+  "1-300-888-333",
+  "www.dominos.com.ny",
+  "We are compliant to the PDPA 2010.",
+  "Visit www.dominos.com.my/terms",
+  "to view our Personal Data",
+  "Protection Polfcy,",
+  "Owned by",
+  "Domnal Food Services 5dn Bhd",
+  "Co.No.41906A"
+ ],
+ "tokens": [
+  {
+   "text": "TAX INVOICE",
+   "conf": 0.9821267453106967
+  },
+  {
+   "text": "DOMINO'S PIZZA",
+   "conf": 0.9621919095516205
+  },
+  {
+   "text": "GST REF NO :001694261248",
+   "conf": 0.9468128035465876
+  },
+  {
+   "text": "30, Jln Kebudayaan 7, Tmn Universiti",
+   "conf": 0.9653641051716275
+  },
+  {
+   "text": "81300 Skudai,Johor",
+   "conf": 0.951076477766037
+  },
+  {
+   "text": "CARRY OUT NOW",
+   "conf": 0.9711617873265193
+  },
+  {
+   "text": "Pay By: CASH",
+   "conf": 0.9679275155067444
+  },
+  {
+   "text": "Ordler",
+   "conf": 0.8942837218443552
+  },
+  {
+   "text": "：8557",
+   "conf": 0.9051116824150085
+  },
+  {
+   "text": "BY",
+   "conf": 0.8968780338764191
+  },
+  {
+   "text": ":5586",
+   "conf": 0.908543610572815
+  },
+  {
+   "text": "Order Time:13:19:29",
+   "conf": 0.9301541541752062
+  },
+  {
+   "text": "Date",
+   "conf": 0.9520806670188904
+  },
+  {
+   "text": ":28/04/18",
+   "conf": 0.9552191098531088
+  },
+  {
+   "text": "Name: MS NIWA",
+   "conf": 0.9542541595605704
+  },
+  {
+   "text": "pickup",
+   "conf": 0.9284860591093699
+  },
+  {
+   "text": "Time:",
+   "conf": 0.977237594127655
+  },
+  {
+   "text": "13:34:29",
+   "conf": 0.9695925787091255
+  },
+  {
+   "text": "Desc",
+   "conf": 0.886368453502655
+  },
+  {
+   "text": "Coupon",
+   "conf": 0.9744091828664144
+  },
+  {
+   "text": "Disc",
+   "conf": 0.88186015188694
+  },
+  {
+   "text": "Price",
+   "conf": 0.9969158053398133
+  },
+  {
+   "text": "Qty",
+   "conf": 0.9170724550882975
+  },
+  {
+   "text": "Menu",
+   "conf": 0.996657058596611
+  },
+  {
+   "text": "PLSB-R",
+   "conf": 0.9908766945203146
+  },
+  {
+   "text": "0.20",
+   "conf": 0.9948445707559586
+  },
+  {
+   "text": "1",
+   "conf": 0.9889180064201355
+  },
+  {
+   "text": "AOA4-ADI",
+   "conf": 0.919407069683075
+  },
+  {
+   "text": "14.50",
+   "conf": 0.9999014973640442
+  },
+  {
+   "text": "1",
+   "conf": 0.9984520673751831
+  },
+  {
+   "text": "RCD",
+   "conf": 0.9936833580334982
+  },
+  {
+   "text": "(CAN)",
+   "conf": 0.9741479277610778
+  },
+  {
+   "text": "LVDR-RG",
+   "conf": 0.9909927419253758
+  },
+  {
+   "text": "3.50",
+   "conf": 0.9997496008872986
+  },
+  {
+   "text": "1",
+   "conf": 0.9909937977790833
+  },
+  {
+   "text": "PEP",
+   "conf": 0.992536187171936
+  },
+  {
+   "text": "PEP",
+   "conf": 0.9862253864606222
+  },
+  {
+   "text": "(CAN)",
+   "conf": 0.971366822719574
+  },
+  {
+   "text": "LVDR-RG-",
+   "conf": 0.9658662676811218
+  },
+  {
+   "text": "3.50",
+   "conf": 0.9989088028669357
+  },
+  {
+   "text": "T/B",
+   "conf": 0.9875635703404745
+  },
+  {
+   "text": "LVDR-RG-",
+   "conf": 0.9758851155638695
+  },
+  {
+   "text": "7.50",
+   "conf": 0.9986459761857986
+  },
+  {
+   "text": "1",
+   "conf": 0.9882531762123108
+  },
+  {
+   "text": "9\"HT",
+   "conf": 0.9552160203456879
+  },
+  {
+   "text": "(AC)",
+   "conf": 0.9640493988990784
+  },
+  {
+   "text": "LVDR~RG-",
+   "conf": 0.8969454765319824
+  },
+  {
+   "text": "27.80",
+   "conf": 0.999061119556427
+  },
+  {
+   "text": "1",
+   "conf": 0.9983280301094055
+  },
+  {
+   "text": "17.40",
+   "conf": 0.9992983222007752
+  },
+  {
+   "text": "57.00",
+   "conf": 0.9992270112037659
+  },
+  {
+   "text": "Total Items",
+   "conf": 0.9861408580433239
+  },
+  {
+   "text": "Sub-Total",
+   "conf": 0.9867695901128981
+  },
+  {
+   "text": "57.00",
+   "conf": 0.967866861820221
+  },
+  {
+   "text": "Coupon Discount",
+   "conf": 0.9817878723144531
+  },
+  {
+   "text": "17.40",
+   "conf": 0.9983261466026306
+  },
+  {
+   "text": "Grand Total",
+   "conf": 0.9694152853705666
+  },
+  {
+   "text": "39.60",
+   "conf": 0.9978899955749512
+  },
+  {
+   "text": "Payment",
+   "conf": 0.99067451272692
+  },
+  {
+   "text": "40.00",
+   "conf": 0.9992783069610596
+  },
+  {
+   "text": "Change Due",
+   "conf": 0.9952947556972503
+  },
+  {
+   "text": "00.40",
+   "conf": 0.9987108111381531
+  },
+  {
+   "text": "*6 GST Included",
+   "conf": 0.924370272954305
+  },
+  {
+   "text": "2.24",
+   "conf": 0.9960204213857651
+  },
+  {
+   "text": "SUPPORT OUR SMILE CAMPAIGN",
+   "conf": 0.9707049246017749
+  },
+  {
+   "text": "Did we smile at you?",
+   "conf": 0.9551665335893631
+  },
+  {
+   "text": "Let us know at",
+   "conf": 0.9698689877986908
+  },
+  {
+   "text": "www.dominos.com.my/smile and",
+   "conf": 0.994690056358065
+  },
+  {
+   "text": "receive a 30% off side item e-coupon",
+   "conf": 0.9461633016665777
+  },
+  {
+   "text": "upon survey submission",
+   "conf": 0.9766233780167319
+  },
+  {
+   "text": "Survey Code:CBD280740855719",
+   "conf": 0.9673438204659356
+  },
+  {
+   "text": "Thank you for visiting Domino's.",
+   "conf": 0.990933246910572
+  },
+  {
+   "text": "Please Come Again!",
+   "conf": 0.9961372713247935
+  },
+  {
+   "text": "1-300-888-333",
+   "conf": 0.9941442425434406
+  },
+  {
+   "text": "www.dominos.com.ny",
+   "conf": 0.943228565984302
+  },
+  {
+   "text": "We are compliant to the PDPA 2010.",
+   "conf": 0.9711671804680544
+  },
+  {
+   "text": "Visit www.dominos.com.my/terms",
+   "conf": 0.9849944790204366
+  },
+  {
+   "text": "to view our Personal Data",
+   "conf": 0.9500323128700257
+  },
+  {
+   "text": "Protection Polfcy,",
+   "conf": 0.9371663398212857
+  },
+  {
+   "text": "Owned by",
+   "conf": 0.88588996976614
+  },
+  {
+   "text": "Domnal Food Services 5dn Bhd",
+   "conf": 0.9475365451404026
+  },
+  {
+   "text": "Co.No.41906A",
+   "conf": 0.9934370865424474
+  }
+ ],
+ "mean_conf": 0.9678,
+ "low_conf_share": 0.0,
+ "latency_ms": 4948,
+ "fields": {
+  "company": "DOMINO S PIZZA",
+  "date": "2018-04-28",
+  "total": 39.6
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  39.6
+ ],
+ "key": "X51006414712"
+}

@@ -1,0 +1,550 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "3 §",
+  "> Cy att",
+  ". UAN HING STATIONERY SDN BHD",
+  "(162761-M)",
+  "NO. 32 & 33, JALAN SR 19. SEKSYEN 9,",
+  "TAMAN SERDANG RAYA,",
+  "43300 SERI KEMBANGAN, SELANGOR",
+  "DARUL EHSAN",
+  "GST ID : 002139201536",
+  "Tax Invoice",
+  "wo BOOI2018 Ne CS-20922",
+  "Qty Tax RM",
+  "Durafite 1399 (110 x 95mm) 200 SR_ 116.60 /",
+  "Name Badge (H) @ 0.5500",
+  "809 Metal Name Badge Clip 2 SR 4240 ra",
+  "100's @ 20 0000",
+  "‘Total Amt incl. GST @ 6% : 189.00",
+  "Rounding Adjustment",
+  "Total Amt Payable - 159.00 we",
+  "Paid Amount: 200.00",
+  "Change : 41.00",
+  "Total Qty Tender : 202",
+  "{GST Summary Amount Tax |",
+  "i ccsengeeersnarersnneregl tt aeceseureel id",
+  "A ASRL@A Le 190.000 8.001,",
+  "! Total 150 00 9.00:",
+  "THANK YOU",
+  "Far any enauiry olaase contact us"
+ ],
+ "tokens": [
+  {
+   "text": "3",
+   "conf": 0.83
+  },
+  {
+   "text": "§",
+   "conf": 0.59
+  },
+  {
+   "text": ">",
+   "conf": 0.7
+  },
+  {
+   "text": "Cy",
+   "conf": 0.16
+  },
+  {
+   "text": "att",
+   "conf": 0.6
+  },
+  {
+   "text": ".",
+   "conf": 0.19
+  },
+  {
+   "text": "UAN",
+   "conf": 0.9
+  },
+  {
+   "text": "HING",
+   "conf": 0.9
+  },
+  {
+   "text": "STATIONERY",
+   "conf": 0.96
+  },
+  {
+   "text": "SDN",
+   "conf": 0.96
+  },
+  {
+   "text": "BHD",
+   "conf": 0.96
+  },
+  {
+   "text": "(162761-M)",
+   "conf": 0.83
+  },
+  {
+   "text": "NO.",
+   "conf": 0.38
+  },
+  {
+   "text": "32",
+   "conf": 0.38
+  },
+  {
+   "text": "&",
+   "conf": 0.92
+  },
+  {
+   "text": "33,",
+   "conf": 0.95
+  },
+  {
+   "text": "JALAN",
+   "conf": 0.95
+  },
+  {
+   "text": "SR",
+   "conf": 0.93
+  },
+  {
+   "text": "19.",
+   "conf": 0.47
+  },
+  {
+   "text": "SEKSYEN",
+   "conf": 0.63
+  },
+  {
+   "text": "9,",
+   "conf": 0.96
+  },
+  {
+   "text": "TAMAN",
+   "conf": 0.85
+  },
+  {
+   "text": "SERDANG",
+   "conf": 0.92
+  },
+  {
+   "text": "RAYA,",
+   "conf": 0.87
+  },
+  {
+   "text": "43300",
+   "conf": 0.93
+  },
+  {
+   "text": "SERI",
+   "conf": 0.88
+  },
+  {
+   "text": "KEMBANGAN,",
+   "conf": 0.9
+  },
+  {
+   "text": "SELANGOR",
+   "conf": 0.96
+  },
+  {
+   "text": "DARUL",
+   "conf": 0.92
+  },
+  {
+   "text": "EHSAN",
+   "conf": 0.96
+  },
+  {
+   "text": "GST",
+   "conf": 0.26
+  },
+  {
+   "text": "ID",
+   "conf": 0.26
+  },
+  {
+   "text": ":",
+   "conf": 0.79
+  },
+  {
+   "text": "002139201536",
+   "conf": 0.96
+  },
+  {
+   "text": "Tax",
+   "conf": 0.94
+  },
+  {
+   "text": "Invoice",
+   "conf": 0.86
+  },
+  {
+   "text": "wo",
+   "conf": 0.3
+  },
+  {
+   "text": "BOOI2018",
+   "conf": 0.0
+  },
+  {
+   "text": "Ne",
+   "conf": 0.16
+  },
+  {
+   "text": "CS-20922",
+   "conf": 0.0
+  },
+  {
+   "text": "Qty",
+   "conf": 0.92
+  },
+  {
+   "text": "Tax",
+   "conf": 0.95
+  },
+  {
+   "text": "RM",
+   "conf": 0.96
+  },
+  {
+   "text": "Durafite",
+   "conf": 0.73
+  },
+  {
+   "text": "1399",
+   "conf": 0.21
+  },
+  {
+   "text": "(110",
+   "conf": 0.21
+  },
+  {
+   "text": "x",
+   "conf": 0.89
+  },
+  {
+   "text": "95mm)",
+   "conf": 0.72
+  },
+  {
+   "text": "200",
+   "conf": 0.51
+  },
+  {
+   "text": "SR_",
+   "conf": 0.48
+  },
+  {
+   "text": "116.60",
+   "conf": 0.0
+  },
+  {
+   "text": "/",
+   "conf": 0.0
+  },
+  {
+   "text": "Name",
+   "conf": 0.95
+  },
+  {
+   "text": "Badge",
+   "conf": 0.93
+  },
+  {
+   "text": "(H)",
+   "conf": 0.92
+  },
+  {
+   "text": "@",
+   "conf": 0.92
+  },
+  {
+   "text": "0.5500",
+   "conf": 0.96
+  },
+  {
+   "text": "809",
+   "conf": 0.95
+  },
+  {
+   "text": "Metal",
+   "conf": 0.81
+  },
+  {
+   "text": "Name",
+   "conf": 0.81
+  },
+  {
+   "text": "Badge",
+   "conf": 0.94
+  },
+  {
+   "text": "Clip",
+   "conf": 0.76
+  },
+  {
+   "text": "2",
+   "conf": 0.76
+  },
+  {
+   "text": "SR",
+   "conf": 0.89
+  },
+  {
+   "text": "4240",
+   "conf": 0.89
+  },
+  {
+   "text": "ra",
+   "conf": 0.7
+  },
+  {
+   "text": "100's",
+   "conf": 0.92
+  },
+  {
+   "text": "@",
+   "conf": 0.93
+  },
+  {
+   "text": "20",
+   "conf": 0.95
+  },
+  {
+   "text": "0000",
+   "conf": 0.95
+  },
+  {
+   "text": "‘Total",
+   "conf": 0.65
+  },
+  {
+   "text": "Amt",
+   "conf": 0.94
+  },
+  {
+   "text": "incl.",
+   "conf": 0.81
+  },
+  {
+   "text": "GST",
+   "conf": 0.9
+  },
+  {
+   "text": "@",
+   "conf": 0.9
+  },
+  {
+   "text": "6%",
+   "conf": 0.93
+  },
+  {
+   "text": ":",
+   "conf": 0.63
+  },
+  {
+   "text": "189.00",
+   "conf": 0.67
+  },
+  {
+   "text": "Rounding",
+   "conf": 0.96
+  },
+  {
+   "text": "Adjustment",
+   "conf": 0.96
+  },
+  {
+   "text": "Total",
+   "conf": 0.96
+  },
+  {
+   "text": "Amt",
+   "conf": 0.96
+  },
+  {
+   "text": "Payable",
+   "conf": 0.93
+  },
+  {
+   "text": "-",
+   "conf": 0.68
+  },
+  {
+   "text": "159.00",
+   "conf": 0.96
+  },
+  {
+   "text": "we",
+   "conf": 0.32
+  },
+  {
+   "text": "Paid",
+   "conf": 0.96
+  },
+  {
+   "text": "Amount:",
+   "conf": 0.66
+  },
+  {
+   "text": "200.00",
+   "conf": 0.95
+  },
+  {
+   "text": "Change",
+   "conf": 0.89
+  },
+  {
+   "text": ":",
+   "conf": 0.89
+  },
+  {
+   "text": "41.00",
+   "conf": 0.96
+  },
+  {
+   "text": "Total",
+   "conf": 0.96
+  },
+  {
+   "text": "Qty",
+   "conf": 0.96
+  },
+  {
+   "text": "Tender",
+   "conf": 0.85
+  },
+  {
+   "text": ":",
+   "conf": 0.53
+  },
+  {
+   "text": "202",
+   "conf": 0.94
+  },
+  {
+   "text": "{GST",
+   "conf": 0.12
+  },
+  {
+   "text": "Summary",
+   "conf": 0.12
+  },
+  {
+   "text": "Amount",
+   "conf": 0.62
+  },
+  {
+   "text": "Tax",
+   "conf": 0.5
+  },
+  {
+   "text": "|",
+   "conf": 0.58
+  },
+  {
+   "text": "i",
+   "conf": 0.26
+  },
+  {
+   "text": "ccsengeeersnarersnneregl",
+   "conf": 0.0
+  },
+  {
+   "text": "tt",
+   "conf": 0.35
+  },
+  {
+   "text": "aeceseureel",
+   "conf": 0.0
+  },
+  {
+   "text": "id",
+   "conf": 0.2
+  },
+  {
+   "text": "A",
+   "conf": 0.25
+  },
+  {
+   "text": "ASRL@A",
+   "conf": 0.0
+  },
+  {
+   "text": "Le",
+   "conf": 0.16
+  },
+  {
+   "text": "190.000",
+   "conf": 0.35
+  },
+  {
+   "text": "8.001,",
+   "conf": 0.0
+  },
+  {
+   "text": "!",
+   "conf": 0.0
+  },
+  {
+   "text": "Total",
+   "conf": 0.95
+  },
+  {
+   "text": "150",
+   "conf": 0.57
+  },
+  {
+   "text": "00",
+   "conf": 0.57
+  },
+  {
+   "text": "9.00:",
+   "conf": 0.89
+  },
+  {
+   "text": "THANK",
+   "conf": 0.95
+  },
+  {
+   "text": "YOU",
+   "conf": 0.95
+  },
+  {
+   "text": "Far",
+   "conf": 0.88
+  },
+  {
+   "text": "any",
+   "conf": 0.77
+  },
+  {
+   "text": "enauiry",
+   "conf": 0.78
+  },
+  {
+   "text": "olaase",
+   "conf": 0.89
+  },
+  {
+   "text": "contact",
+   "conf": 0.96
+  },
+  {
+   "text": "us",
+   "conf": 0.88
+  }
+ ],
+ "mean_conf": 0.6932,
+ "low_conf_share": 0.24,
+ "latency_ms": 1944,
+ "fields": {
+  "company": "UAN HING STATIONERY SDN BHD",
+  "date": null,
+  "total": 159.0
+ },
+ "rule_reasons": [
+  "date_not_found"
+ ],
+ "total_candidates": [
+  159.0
+ ],
+ "key": "X51005453802"
+}

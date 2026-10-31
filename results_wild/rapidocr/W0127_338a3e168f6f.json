@@ -1,0 +1,172 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "Shangri-La's",
+  "Fax:2477 6677",
+  "Samba",
+  "<<Guest Receipt>>",
+  "Table:51 Check:041078",
+  "Date :22 0ct,09 Time:20:33",
+  "Cashier: Nabeel Cover:2",
+  "Tanuf 1500 ml 1.600",
+  "Dinner Buffet Adul 27.000",
+  "Sub.Total 28.600",
+  "Srv Charge 2.290",
+  "M.Tax 1.430",
+  "T.Levy 1.140",
+  "Total 33.460",
+  "[PAYMENT] :Cash",
+  "Amount: 33.460",
+  "Total: 33.460",
+  "Change 16.540",
+  "hank You"
+ ],
+ "tokens": [
+  {
+   "text": "Shangri-La's",
+   "conf": 0.9546152154604594
+  },
+  {
+   "text": "Fax:2477 6677",
+   "conf": 0.9587809305924636
+  },
+  {
+   "text": "Samba",
+   "conf": 0.9480383396148682
+  },
+  {
+   "text": "<<Guest Receipt>>",
+   "conf": 0.9561487471356112
+  },
+  {
+   "text": "Table:51",
+   "conf": 0.9726774543523788
+  },
+  {
+   "text": "Check:041078",
+   "conf": 0.9893555293480555
+  },
+  {
+   "text": "Date",
+   "conf": 0.9926429390907288
+  },
+  {
+   "text": ":22 0ct,09 Time:20:33",
+   "conf": 0.844939580985478
+  },
+  {
+   "text": "Cashier: Nabeel",
+   "conf": 0.9725708643595378
+  },
+  {
+   "text": "Cover:2",
+   "conf": 0.9592961668968201
+  },
+  {
+   "text": "Tanuf 1500 ml",
+   "conf": 0.9443535529650174
+  },
+  {
+   "text": "1.600",
+   "conf": 0.9806418061256409
+  },
+  {
+   "text": "Dinner Buffet Adul",
+   "conf": 0.9725254873434702
+  },
+  {
+   "text": "27.000",
+   "conf": 0.9904440740744272
+  },
+  {
+   "text": "Sub.Total",
+   "conf": 0.9874694546063741
+  },
+  {
+   "text": "28.600",
+   "conf": 0.9962200025717417
+  },
+  {
+   "text": "Srv Charge",
+   "conf": 0.9201870679855346
+  },
+  {
+   "text": "2.290",
+   "conf": 0.9935205698013305
+  },
+  {
+   "text": "M.Tax",
+   "conf": 0.9775380492210388
+  },
+  {
+   "text": "1.430",
+   "conf": 0.9908579587936401
+  },
+  {
+   "text": "T.Levy",
+   "conf": 0.9279453456401825
+  },
+  {
+   "text": "1.140",
+   "conf": 0.9935470223426819
+  },
+  {
+   "text": "Total",
+   "conf": 0.988641333580017
+  },
+  {
+   "text": "33.460",
+   "conf": 0.995253175497055
+  },
+  {
+   "text": "[PAYMENT] :Cash",
+   "conf": 0.9180944879849752
+  },
+  {
+   "text": "Amount:",
+   "conf": 0.9817275660378593
+  },
+  {
+   "text": "33.460",
+   "conf": 0.9865417877833048
+  },
+  {
+   "text": "Total:",
+   "conf": 0.9911085565884908
+  },
+  {
+   "text": "33.460",
+   "conf": 0.9919524689515432
+  },
+  {
+   "text": "Change",
+   "conf": 0.9932000438372294
+  },
+  {
+   "text": "16.540",
+   "conf": 0.9768167436122894
+  },
+  {
+   "text": "hank",
+   "conf": 0.9861714988946915
+  },
+  {
+   "text": "You",
+   "conf": 0.9045676787694296
+  }
+ ],
+ "mean_conf": 0.9678,
+ "low_conf_share": 0.0,
+ "latency_ms": 3504,
+ "fields": {
+  "company": "SHANGRI LA S",
+  "date": null,
+  "total": null
+ },
+ "rule_reasons": [
+  "date_not_found",
+  "total_not_found"
+ ],
+ "total_candidates": [],
+ "key": "W0127_338a3e168f6f"
+}

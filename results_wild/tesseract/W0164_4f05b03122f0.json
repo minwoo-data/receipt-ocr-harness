@@ -1,0 +1,852 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "oo Fami rinde lw gg :",
+  "ow mi 14 ald :",
+  "cee ce R e R. Mi ae",
+  "pee ' as : ech. N . Mille '",
+  "ee pee bee Nr. 457 fe a",
+  "ee Bar eC",
+  "oe 3 aS",
+  "ie ee atte M is ' Be",
+  "ey a 1xG chi { Pee tea",
+  "pee), 1 a ee",
+  "bags one Behe.",
+  "poae es | weinschni a5 CHF See Py",
+  "e 8 Ke Aad Beerg 7) 2 ee ae -",
+  "Ceo a a xCha : nitze . 00 9.0 Toe a",
+  "wee be assp j a CHF . SEs",
+  "Ee EAR Se F oa teh",
+  "cee oe ays — ae",
+  "ae oho el. — Pec :",
+  "ay oh, , 1 oe Bd ae",
+  "ease Se 54.5 : ek: ee",
+  "ea bedien ura Bars",
+  "ae < a ee t S 36 3 Be ve",
+  "ek oie cae 3 EUR a a",
+  "a » UP a",
+  "as ee: Sik jee AT a ES oe",
+  "oe T Nr. : 4 pes",
+  "a el.: : 430 234 ae",
+  "ae Ema Fax.: 0: pK | a",
+  "Ps De mail: ar 3060 @ 6 i",
+  "og . egg@b lue De",
+  "gar eae hee - poner ore a"
+ ],
+ "tokens": [
+  {
+   "text": "oo",
+   "conf": 0.01
+  },
+  {
+   "text": "Fami",
+   "conf": 0.67
+  },
+  {
+   "text": "rinde",
+   "conf": 0.86
+  },
+  {
+   "text": "lw",
+   "conf": 0.85
+  },
+  {
+   "text": "gg",
+   "conf": 0.91
+  },
+  {
+   "text": ":",
+   "conf": 0.0
+  },
+  {
+   "text": "ow",
+   "conf": 0.0
+  },
+  {
+   "text": "mi",
+   "conf": 0.71
+  },
+  {
+   "text": "14",
+   "conf": 0.69
+  },
+  {
+   "text": "ald",
+   "conf": 0.96
+  },
+  {
+   "text": ":",
+   "conf": 0.2
+  },
+  {
+   "text": "cee",
+   "conf": 0.13
+  },
+  {
+   "text": "ce",
+   "conf": 0.39
+  },
+  {
+   "text": "R",
+   "conf": 0.92
+  },
+  {
+   "text": "e",
+   "conf": 0.87
+  },
+  {
+   "text": "R.",
+   "conf": 0.41
+  },
+  {
+   "text": "Mi",
+   "conf": 0.52
+  },
+  {
+   "text": "ae",
+   "conf": 0.32
+  },
+  {
+   "text": "pee",
+   "conf": 0.19
+  },
+  {
+   "text": "'",
+   "conf": 0.0
+  },
+  {
+   "text": "as",
+   "conf": 0.32
+  },
+  {
+   "text": ":",
+   "conf": 0.49
+  },
+  {
+   "text": "ech.",
+   "conf": 0.89
+  },
+  {
+   "text": "N",
+   "conf": 0.89
+  },
+  {
+   "text": ".",
+   "conf": 0.0
+  },
+  {
+   "text": "Mille",
+   "conf": 0.0
+  },
+  {
+   "text": "'",
+   "conf": 0.21
+  },
+  {
+   "text": "ee",
+   "conf": 0.11
+  },
+  {
+   "text": "pee",
+   "conf": 0.53
+  },
+  {
+   "text": "bee",
+   "conf": 0.15
+  },
+  {
+   "text": "Nr.",
+   "conf": 0.4
+  },
+  {
+   "text": "457",
+   "conf": 0.77
+  },
+  {
+   "text": "fe",
+   "conf": 0.31
+  },
+  {
+   "text": "a",
+   "conf": 0.42
+  },
+  {
+   "text": "ee",
+   "conf": 0.4
+  },
+  {
+   "text": "Bar",
+   "conf": 0.96
+  },
+  {
+   "text": "eC",
+   "conf": 0.57
+  },
+  {
+   "text": "oe",
+   "conf": 0.06
+  },
+  {
+   "text": "3",
+   "conf": 0.86
+  },
+  {
+   "text": "aS",
+   "conf": 0.41
+  },
+  {
+   "text": "ie",
+   "conf": 0.09
+  },
+  {
+   "text": "ee",
+   "conf": 0.24
+  },
+  {
+   "text": "atte",
+   "conf": 0.93
+  },
+  {
+   "text": "M",
+   "conf": 0.88
+  },
+  {
+   "text": "is",
+   "conf": 0.94
+  },
+  {
+   "text": "'",
+   "conf": 0.17
+  },
+  {
+   "text": "Be",
+   "conf": 0.17
+  },
+  {
+   "text": "ey",
+   "conf": 0.13
+  },
+  {
+   "text": "a",
+   "conf": 0.15
+  },
+  {
+   "text": "1xG",
+   "conf": 0.87
+  },
+  {
+   "text": "chi",
+   "conf": 0.95
+  },
+  {
+   "text": "{",
+   "conf": 0.8
+  },
+  {
+   "text": "Pee",
+   "conf": 0.28
+  },
+  {
+   "text": "tea",
+   "conf": 0.0
+  },
+  {
+   "text": "pee),",
+   "conf": 0.26
+  },
+  {
+   "text": "1",
+   "conf": 0.68
+  },
+  {
+   "text": "a",
+   "conf": 0.94
+  },
+  {
+   "text": "ee",
+   "conf": 0.0
+  },
+  {
+   "text": "bags",
+   "conf": 0.4
+  },
+  {
+   "text": "one",
+   "conf": 0.02
+  },
+  {
+   "text": "Behe.",
+   "conf": 0.08
+  },
+  {
+   "text": "poae",
+   "conf": 0.0
+  },
+  {
+   "text": "es",
+   "conf": 0.16
+  },
+  {
+   "text": "|",
+   "conf": 0.76
+  },
+  {
+   "text": "weinschni",
+   "conf": 0.85
+  },
+  {
+   "text": "a5",
+   "conf": 0.57
+  },
+  {
+   "text": "CHF",
+   "conf": 0.95
+  },
+  {
+   "text": "See",
+   "conf": 0.38
+  },
+  {
+   "text": "Py",
+   "conf": 0.0
+  },
+  {
+   "text": "e",
+   "conf": 0.0
+  },
+  {
+   "text": "8",
+   "conf": 0.57
+  },
+  {
+   "text": "Ke",
+   "conf": 0.3
+  },
+  {
+   "text": "Aad",
+   "conf": 0.22
+  },
+  {
+   "text": "Beerg",
+   "conf": 0.0
+  },
+  {
+   "text": "7)",
+   "conf": 0.04
+  },
+  {
+   "text": "2",
+   "conf": 0.43
+  },
+  {
+   "text": "ee",
+   "conf": 0.25
+  },
+  {
+   "text": "ae",
+   "conf": 0.32
+  },
+  {
+   "text": "-",
+   "conf": 0.0
+  },
+  {
+   "text": "Ceo",
+   "conf": 0.18
+  },
+  {
+   "text": "a",
+   "conf": 0.25
+  },
+  {
+   "text": "a",
+   "conf": 0.29
+  },
+  {
+   "text": "xCha",
+   "conf": 0.92
+  },
+  {
+   "text": ":",
+   "conf": 0.06
+  },
+  {
+   "text": "nitze",
+   "conf": 0.91
+  },
+  {
+   "text": ".",
+   "conf": 0.11
+  },
+  {
+   "text": "00",
+   "conf": 0.93
+  },
+  {
+   "text": "9.0",
+   "conf": 0.87
+  },
+  {
+   "text": "Toe",
+   "conf": 0.35
+  },
+  {
+   "text": "a",
+   "conf": 0.03
+  },
+  {
+   "text": "wee",
+   "conf": 0.29
+  },
+  {
+   "text": "be",
+   "conf": 0.0
+  },
+  {
+   "text": "assp",
+   "conf": 0.64
+  },
+  {
+   "text": "j",
+   "conf": 0.51
+  },
+  {
+   "text": "a",
+   "conf": 0.93
+  },
+  {
+   "text": "CHF",
+   "conf": 0.96
+  },
+  {
+   "text": ".",
+   "conf": 0.04
+  },
+  {
+   "text": "SEs",
+   "conf": 0.0
+  },
+  {
+   "text": "Ee",
+   "conf": 0.0
+  },
+  {
+   "text": "EAR",
+   "conf": 0.35
+  },
+  {
+   "text": "Se",
+   "conf": 0.09
+  },
+  {
+   "text": "F",
+   "conf": 0.88
+  },
+  {
+   "text": "oa",
+   "conf": 0.16
+  },
+  {
+   "text": "teh",
+   "conf": 0.32
+  },
+  {
+   "text": "cee",
+   "conf": 0.12
+  },
+  {
+   "text": "oe",
+   "conf": 0.15
+  },
+  {
+   "text": "ays",
+   "conf": 0.13
+  },
+  {
+   "text": "—",
+   "conf": 0.02
+  },
+  {
+   "text": "ae",
+   "conf": 0.4
+  },
+  {
+   "text": "ae",
+   "conf": 0.2
+  },
+  {
+   "text": "oho",
+   "conf": 0.0
+  },
+  {
+   "text": "el.",
+   "conf": 0.31
+  },
+  {
+   "text": "—",
+   "conf": 0.19
+  },
+  {
+   "text": "Pec",
+   "conf": 0.19
+  },
+  {
+   "text": ":",
+   "conf": 0.48
+  },
+  {
+   "text": "ay",
+   "conf": 0.19
+  },
+  {
+   "text": "oh,",
+   "conf": 0.0
+  },
+  {
+   "text": ",",
+   "conf": 0.19
+  },
+  {
+   "text": "1",
+   "conf": 0.48
+  },
+  {
+   "text": "oe",
+   "conf": 0.0
+  },
+  {
+   "text": "Bd",
+   "conf": 0.54
+  },
+  {
+   "text": "ae",
+   "conf": 0.41
+  },
+  {
+   "text": "ease",
+   "conf": 0.09
+  },
+  {
+   "text": "Se",
+   "conf": 0.06
+  },
+  {
+   "text": "54.5",
+   "conf": 0.83
+  },
+  {
+   "text": ":",
+   "conf": 0.49
+  },
+  {
+   "text": "ek:",
+   "conf": 0.5
+  },
+  {
+   "text": "ee",
+   "conf": 0.29
+  },
+  {
+   "text": "ea",
+   "conf": 0.06
+  },
+  {
+   "text": "bedien",
+   "conf": 0.92
+  },
+  {
+   "text": "ura",
+   "conf": 0.32
+  },
+  {
+   "text": "Bars",
+   "conf": 0.26
+  },
+  {
+   "text": "ae",
+   "conf": 0.44
+  },
+  {
+   "text": "<",
+   "conf": 0.0
+  },
+  {
+   "text": "a",
+   "conf": 0.27
+  },
+  {
+   "text": "ee",
+   "conf": 0.4
+  },
+  {
+   "text": "t",
+   "conf": 0.89
+  },
+  {
+   "text": "S",
+   "conf": 0.51
+  },
+  {
+   "text": "36",
+   "conf": 0.96
+  },
+  {
+   "text": "3",
+   "conf": 0.9
+  },
+  {
+   "text": "Be",
+   "conf": 0.05
+  },
+  {
+   "text": "ve",
+   "conf": 0.29
+  },
+  {
+   "text": "ek",
+   "conf": 0.28
+  },
+  {
+   "text": "oie",
+   "conf": 0.13
+  },
+  {
+   "text": "cae",
+   "conf": 0.38
+  },
+  {
+   "text": "3",
+   "conf": 0.56
+  },
+  {
+   "text": "EUR",
+   "conf": 0.87
+  },
+  {
+   "text": "a",
+   "conf": 0.52
+  },
+  {
+   "text": "a",
+   "conf": 0.29
+  },
+  {
+   "text": "a",
+   "conf": 0.08
+  },
+  {
+   "text": "»",
+   "conf": 0.01
+  },
+  {
+   "text": "UP",
+   "conf": 0.89
+  },
+  {
+   "text": "a",
+   "conf": 0.2
+  },
+  {
+   "text": "as",
+   "conf": 0.3
+  },
+  {
+   "text": "ee:",
+   "conf": 0.26
+  },
+  {
+   "text": "Sik",
+   "conf": 0.25
+  },
+  {
+   "text": "jee",
+   "conf": 0.23
+  },
+  {
+   "text": "AT",
+   "conf": 0.22
+  },
+  {
+   "text": "a",
+   "conf": 0.09
+  },
+  {
+   "text": "ES",
+   "conf": 0.19
+  },
+  {
+   "text": "oe",
+   "conf": 0.33
+  },
+  {
+   "text": "oe",
+   "conf": 0.16
+  },
+  {
+   "text": "T",
+   "conf": 0.9
+  },
+  {
+   "text": "Nr.",
+   "conf": 0.0
+  },
+  {
+   "text": ":",
+   "conf": 0.0
+  },
+  {
+   "text": "4",
+   "conf": 0.96
+  },
+  {
+   "text": "pes",
+   "conf": 0.22
+  },
+  {
+   "text": "a",
+   "conf": 0.07
+  },
+  {
+   "text": "el.:",
+   "conf": 0.5
+  },
+  {
+   "text": ":",
+   "conf": 0.28
+  },
+  {
+   "text": "430",
+   "conf": 0.93
+  },
+  {
+   "text": "234",
+   "conf": 0.95
+  },
+  {
+   "text": "ae",
+   "conf": 0.11
+  },
+  {
+   "text": "ae",
+   "conf": 0.3
+  },
+  {
+   "text": "Ema",
+   "conf": 0.0
+  },
+  {
+   "text": "Fax.:",
+   "conf": 0.86
+  },
+  {
+   "text": "0:",
+   "conf": 0.82
+  },
+  {
+   "text": "pK",
+   "conf": 0.21
+  },
+  {
+   "text": "|",
+   "conf": 0.58
+  },
+  {
+   "text": "a",
+   "conf": 0.24
+  },
+  {
+   "text": "Ps",
+   "conf": 0.38
+  },
+  {
+   "text": "De",
+   "conf": 0.17
+  },
+  {
+   "text": "mail:",
+   "conf": 0.94
+  },
+  {
+   "text": "ar",
+   "conf": 0.82
+  },
+  {
+   "text": "3060",
+   "conf": 0.13
+  },
+  {
+   "text": "@",
+   "conf": 0.0
+  },
+  {
+   "text": "6",
+   "conf": 0.75
+  },
+  {
+   "text": "i",
+   "conf": 0.24
+  },
+  {
+   "text": "og",
+   "conf": 0.21
+  },
+  {
+   "text": ".",
+   "conf": 0.39
+  },
+  {
+   "text": "egg@b",
+   "conf": 0.45
+  },
+  {
+   "text": "lue",
+   "conf": 0.83
+  },
+  {
+   "text": "De",
+   "conf": 0.24
+  },
+  {
+   "text": "gar",
+   "conf": 0.0
+  },
+  {
+   "text": "eae",
+   "conf": 0.32
+  },
+  {
+   "text": "hee",
+   "conf": 0.17
+  },
+  {
+   "text": "-",
+   "conf": 0.42
+  },
+  {
+   "text": "poner",
+   "conf": 0.1
+  },
+  {
+   "text": "ore",
+   "conf": 0.29
+  },
+  {
+   "text": "a",
+   "conf": 0.08
+  }
+ ],
+ "mean_conf": 0.3842,
+ "low_conf_share": 0.685,
+ "latency_ms": 4111,
+ "fields": {
+  "company": "OO FAMI RINDE LW GG",
+  "date": null,
+  "total": null
+ },
+ "rule_reasons": [
+  "date_not_found",
+  "total_not_found"
+ ],
+ "total_candidates": [],
+ "key": "W0164_4f05b03122f0"
+}

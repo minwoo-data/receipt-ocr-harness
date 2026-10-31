@@ -1,0 +1,236 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "Applebee's",
+  "APPLEBEE'S",
+  "NEIGHBORHOOD GRILL&BAR",
+  "195 Soscol Ave.",
+  "Napa,CA94559",
+  "707-224-0502",
+  "TB#66",
+  "DATE:01-30-16TIME:04:42PMGUESTS:2",
+  "Check #:9724-508874",
+  "1 PERF MARG 9.00",
+  "-1 DBLWHSKY STK -14.99",
+  "DBLWHSKY STK -14.99",
+  "1 TRKY STACKER 10.99",
+  "1 PERF MARG 9.00",
+  "1 CHURRO SMORE 4.50",
+  "1 *05**01* 0.00",
+  "NA STRW SHAKE -3.99",
+  "-1 NON ALCOHOLIC 0.00",
+  "Check TOTAL: 33.49",
+  "TAX: 2.68",
+  "Total Due: 36.17",
+  "Gratuity Examples",
+  "15%Tip=$5.02",
+  "18%Tip=$6.03",
+  "20%Tip=$6.70",
+  "****************************************",
+  "Short on time?",
+  "Order Online!order.applebees.com"
+ ],
+ "tokens": [
+  {
+   "text": "Applebee's",
+   "conf": 0.94213707447052
+  },
+  {
+   "text": "APPLEBEE'S",
+   "conf": 0.9655673742294312
+  },
+  {
+   "text": "NEIGHBORHOOD GRILL&BAR",
+   "conf": 0.9664856195449829
+  },
+  {
+   "text": "195 Soscol Ave.",
+   "conf": 0.9421932657559713
+  },
+  {
+   "text": "Napa,CA94559",
+   "conf": 0.9657061000665029
+  },
+  {
+   "text": "707-224-0502",
+   "conf": 0.9978693674008051
+  },
+  {
+   "text": "TB#66",
+   "conf": 0.9948921918869018
+  },
+  {
+   "text": "DATE:01-30-16TIME:04:42PMGUESTS:2",
+   "conf": 0.9663995531472293
+  },
+  {
+   "text": "Check #:9724-508874",
+   "conf": 0.9818148267896551
+  },
+  {
+   "text": "1",
+   "conf": 0.981357991695404
+  },
+  {
+   "text": "PERF MARG",
+   "conf": 0.9565422137578329
+  },
+  {
+   "text": "9.00",
+   "conf": 0.9981426447629929
+  },
+  {
+   "text": "-1",
+   "conf": 0.9344265460968018
+  },
+  {
+   "text": "DBLWHSKY STK",
+   "conf": 0.9577074398597082
+  },
+  {
+   "text": "-14.99",
+   "conf": 0.9963277081648508
+  },
+  {
+   "text": "DBLWHSKY STK",
+   "conf": 0.9607278009255728
+  },
+  {
+   "text": "-14.99",
+   "conf": 0.9946294824282328
+  },
+  {
+   "text": "1",
+   "conf": 0.9808796048164368
+  },
+  {
+   "text": "TRKY STACKER",
+   "conf": 0.9763753910859426
+  },
+  {
+   "text": "10.99",
+   "conf": 0.9980996251106262
+  },
+  {
+   "text": "1",
+   "conf": 0.5725924968719482
+  },
+  {
+   "text": "PERF MARG",
+   "conf": 0.9657385283046298
+  },
+  {
+   "text": "9.00",
+   "conf": 0.9983161240816116
+  },
+  {
+   "text": "1",
+   "conf": 0.9902571439743042
+  },
+  {
+   "text": "CHURRO SMORE",
+   "conf": 0.9578201770782471
+  },
+  {
+   "text": "4.50",
+   "conf": 0.9977443367242813
+  },
+  {
+   "text": "1",
+   "conf": 0.9931771755218506
+  },
+  {
+   "text": "*05**01*",
+   "conf": 0.9317952319979668
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9986487030982971
+  },
+  {
+   "text": "NA STRW SHAKE",
+   "conf": 0.9588133004995493
+  },
+  {
+   "text": "-3.99",
+   "conf": 0.9952277541160583
+  },
+  {
+   "text": "NON ALCOHOLIC",
+   "conf": 0.9689516287583572
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9987857341766357
+  },
+  {
+   "text": "-1",
+   "conf": 0.6406467258930206
+  },
+  {
+   "text": "Check TOTAL:",
+   "conf": 0.9655585090319315
+  },
+  {
+   "text": "33.49",
+   "conf": 0.9954794526100159
+  },
+  {
+   "text": "TAX:",
+   "conf": 0.9717233628034592
+  },
+  {
+   "text": "2.68",
+   "conf": 0.9977528303861618
+  },
+  {
+   "text": "Total Due:",
+   "conf": 0.9250118494033813
+  },
+  {
+   "text": "36.17",
+   "conf": 0.9986494302749633
+  },
+  {
+   "text": "Gratuity Examples",
+   "conf": 0.9810110821443445
+  },
+  {
+   "text": "15%Tip=$5.02",
+   "conf": 0.9873807281255722
+  },
+  {
+   "text": "18%Tip=$6.03",
+   "conf": 0.989709715048472
+  },
+  {
+   "text": "20%Tip=$6.70",
+   "conf": 0.9908689558506012
+  },
+  {
+   "text": "****************************************",
+   "conf": 0.9513327836990356
+  },
+  {
+   "text": "Short on time?",
+   "conf": 0.9506368168762752
+  },
+  {
+   "text": "Order Online!order.applebees.com",
+   "conf": 0.9583799671381712
+  }
+ ],
+ "mean_conf": 0.9594,
+ "low_conf_share": 0.0,
+ "latency_ms": 3079,
+ "fields": {
+  "company": "APPLEBEE S",
+  "date": "2016-01-30",
+  "total": 36.17
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  36.17
+ ],
+ "key": "W0196_e134cb824a29"
+}

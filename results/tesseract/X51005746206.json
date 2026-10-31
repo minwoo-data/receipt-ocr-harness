@@ -1,0 +1,496 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "EE EEE Oo eEooO",
+  "PANA JAYA ENTERPAISE",
+  "NO, 10-G, GROUND FLOOR. JALAN DINAR D.",
+  "U3/D.TAMAN SUBANG PERDANA.",
+  "SEK U3. 4O1S50 SHAH ALAM, SELANGOR.",
+  "TEL: 03-7847 2376 FAX:03-7847 2378",
+  "(GST Reg. No : OO2069438464)",
+  "Tax Invoice",
+  "INV No.: 539405 Qty(s): 2",
+  "Date 21-03-2018 10:37:49",
+  "Cashie:: CASHIER2",
+  "Description Qty U price Total TAX",
+  "9928 28 IN BASIN",
+  "lx 35.00 35.00 SR",
+  "TG WFD32 PP BOWL CIN",
+  "1x 70.00 70.00 SR",
+  "Total (Excluding GST): 99.06",
+  "GST payable (64%): 5.94",
+  "Total (Inclusive of GST): 105.00",
+  "CASH : 105.00",
+  "BST Summary Amount(AM) = Tax( AM) v,",
+  "SR (@ 6%) 99.06 5.94",
+  "os",
+  "eee Thank You ****",
+  "Please Come Again",
+  "; Goods Sold Are .",
+  "Not Refundable",
+  "Be"
+ ],
+ "tokens": [
+  {
+   "text": "EE",
+   "conf": 0.38
+  },
+  {
+   "text": "EEE",
+   "conf": 0.28
+  },
+  {
+   "text": "Oo",
+   "conf": 0.0
+  },
+  {
+   "text": "eEooO",
+   "conf": 0.0
+  },
+  {
+   "text": "PANA",
+   "conf": 0.91
+  },
+  {
+   "text": "JAYA",
+   "conf": 0.91
+  },
+  {
+   "text": "ENTERPAISE",
+   "conf": 0.85
+  },
+  {
+   "text": "NO,",
+   "conf": 0.56
+  },
+  {
+   "text": "10-G,",
+   "conf": 0.56
+  },
+  {
+   "text": "GROUND",
+   "conf": 0.96
+  },
+  {
+   "text": "FLOOR.",
+   "conf": 0.85
+  },
+  {
+   "text": "JALAN",
+   "conf": 0.93
+  },
+  {
+   "text": "DINAR",
+   "conf": 0.92
+  },
+  {
+   "text": "D.",
+   "conf": 0.76
+  },
+  {
+   "text": "U3/D.TAMAN",
+   "conf": 0.68
+  },
+  {
+   "text": "SUBANG",
+   "conf": 0.87
+  },
+  {
+   "text": "PERDANA.",
+   "conf": 0.59
+  },
+  {
+   "text": "SEK",
+   "conf": 0.96
+  },
+  {
+   "text": "U3.",
+   "conf": 0.92
+  },
+  {
+   "text": "4O1S50",
+   "conf": 0.62
+  },
+  {
+   "text": "SHAH",
+   "conf": 0.96
+  },
+  {
+   "text": "ALAM,",
+   "conf": 0.8
+  },
+  {
+   "text": "SELANGOR.",
+   "conf": 0.9
+  },
+  {
+   "text": "TEL:",
+   "conf": 0.31
+  },
+  {
+   "text": "03-7847",
+   "conf": 0.31
+  },
+  {
+   "text": "2376",
+   "conf": 0.95
+  },
+  {
+   "text": "FAX:03-7847",
+   "conf": 0.8
+  },
+  {
+   "text": "2378",
+   "conf": 0.95
+  },
+  {
+   "text": "(GST",
+   "conf": 0.96
+  },
+  {
+   "text": "Reg.",
+   "conf": 0.94
+  },
+  {
+   "text": "No",
+   "conf": 0.91
+  },
+  {
+   "text": ":",
+   "conf": 0.59
+  },
+  {
+   "text": "OO2069438464)",
+   "conf": 0.36
+  },
+  {
+   "text": "Tax",
+   "conf": 0.91
+  },
+  {
+   "text": "Invoice",
+   "conf": 0.8
+  },
+  {
+   "text": "INV",
+   "conf": 0.73
+  },
+  {
+   "text": "No.:",
+   "conf": 0.73
+  },
+  {
+   "text": "539405",
+   "conf": 0.87
+  },
+  {
+   "text": "Qty(s):",
+   "conf": 0.87
+  },
+  {
+   "text": "2",
+   "conf": 0.85
+  },
+  {
+   "text": "Date",
+   "conf": 0.96
+  },
+  {
+   "text": "21-03-2018",
+   "conf": 0.31
+  },
+  {
+   "text": "10:37:49",
+   "conf": 0.82
+  },
+  {
+   "text": "Cashie::",
+   "conf": 0.66
+  },
+  {
+   "text": "CASHIER2",
+   "conf": 0.65
+  },
+  {
+   "text": "Description",
+   "conf": 0.96
+  },
+  {
+   "text": "Qty",
+   "conf": 0.96
+  },
+  {
+   "text": "U",
+   "conf": 0.93
+  },
+  {
+   "text": "price",
+   "conf": 0.95
+  },
+  {
+   "text": "Total",
+   "conf": 0.96
+  },
+  {
+   "text": "TAX",
+   "conf": 0.96
+  },
+  {
+   "text": "9928",
+   "conf": 0.94
+  },
+  {
+   "text": "28",
+   "conf": 0.92
+  },
+  {
+   "text": "IN",
+   "conf": 0.94
+  },
+  {
+   "text": "BASIN",
+   "conf": 0.96
+  },
+  {
+   "text": "lx",
+   "conf": 0.74
+  },
+  {
+   "text": "35.00",
+   "conf": 0.95
+  },
+  {
+   "text": "35.00",
+   "conf": 0.85
+  },
+  {
+   "text": "SR",
+   "conf": 0.85
+  },
+  {
+   "text": "TG",
+   "conf": 0.92
+  },
+  {
+   "text": "WFD32",
+   "conf": 0.74
+  },
+  {
+   "text": "PP",
+   "conf": 0.96
+  },
+  {
+   "text": "BOWL",
+   "conf": 0.94
+  },
+  {
+   "text": "CIN",
+   "conf": 0.88
+  },
+  {
+   "text": "1x",
+   "conf": 0.34
+  },
+  {
+   "text": "70.00",
+   "conf": 0.9
+  },
+  {
+   "text": "70.00",
+   "conf": 0.79
+  },
+  {
+   "text": "SR",
+   "conf": 0.63
+  },
+  {
+   "text": "Total",
+   "conf": 0.96
+  },
+  {
+   "text": "(Excluding",
+   "conf": 0.79
+  },
+  {
+   "text": "GST):",
+   "conf": 0.94
+  },
+  {
+   "text": "99.06",
+   "conf": 0.88
+  },
+  {
+   "text": "GST",
+   "conf": 0.96
+  },
+  {
+   "text": "payable",
+   "conf": 0.96
+  },
+  {
+   "text": "(64%):",
+   "conf": 0.75
+  },
+  {
+   "text": "5.94",
+   "conf": 0.92
+  },
+  {
+   "text": "Total",
+   "conf": 0.94
+  },
+  {
+   "text": "(Inclusive",
+   "conf": 0.72
+  },
+  {
+   "text": "of",
+   "conf": 0.96
+  },
+  {
+   "text": "GST):",
+   "conf": 0.95
+  },
+  {
+   "text": "105.00",
+   "conf": 0.91
+  },
+  {
+   "text": "CASH",
+   "conf": 0.9
+  },
+  {
+   "text": ":",
+   "conf": 0.88
+  },
+  {
+   "text": "105.00",
+   "conf": 0.95
+  },
+  {
+   "text": "BST",
+   "conf": 0.77
+  },
+  {
+   "text": "Summary",
+   "conf": 0.96
+  },
+  {
+   "text": "Amount(AM)",
+   "conf": 0.62
+  },
+  {
+   "text": "=",
+   "conf": 0.47
+  },
+  {
+   "text": "Tax(",
+   "conf": 0.05
+  },
+  {
+   "text": "AM)",
+   "conf": 0.05
+  },
+  {
+   "text": "v,",
+   "conf": 0.0
+  },
+  {
+   "text": "SR",
+   "conf": 0.95
+  },
+  {
+   "text": "(@",
+   "conf": 0.92
+  },
+  {
+   "text": "6%)",
+   "conf": 0.89
+  },
+  {
+   "text": "99.06",
+   "conf": 0.85
+  },
+  {
+   "text": "5.94",
+   "conf": 0.82
+  },
+  {
+   "text": "os",
+   "conf": 0.08
+  },
+  {
+   "text": "eee",
+   "conf": 0.61
+  },
+  {
+   "text": "Thank",
+   "conf": 0.96
+  },
+  {
+   "text": "You",
+   "conf": 0.92
+  },
+  {
+   "text": "****",
+   "conf": 0.64
+  },
+  {
+   "text": "Please",
+   "conf": 0.95
+  },
+  {
+   "text": "Come",
+   "conf": 0.95
+  },
+  {
+   "text": "Again",
+   "conf": 0.96
+  },
+  {
+   "text": ";",
+   "conf": 0.04
+  },
+  {
+   "text": "Goods",
+   "conf": 0.95
+  },
+  {
+   "text": "Sold",
+   "conf": 0.96
+  },
+  {
+   "text": "Are",
+   "conf": 0.9
+  },
+  {
+   "text": ".",
+   "conf": 0.0
+  },
+  {
+   "text": "Not",
+   "conf": 0.95
+  },
+  {
+   "text": "Refundable",
+   "conf": 0.5
+  },
+  {
+   "text": "Be",
+   "conf": 0.3
+  }
+ ],
+ "mean_conf": 0.7569,
+ "low_conf_share": 0.1518,
+ "latency_ms": 2138,
+ "fields": {
+  "company": "EE EEE OO EEOOO",
+  "date": "2018-03-21",
+  "total": 105.0
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  105.0
+ ],
+ "key": "X51005746206"
+}

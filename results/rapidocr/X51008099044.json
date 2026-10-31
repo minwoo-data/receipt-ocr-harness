@@ -1,0 +1,230 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "RESTORAN WAN SHENG",
+  "002043319-W",
+  "No.2,Jalan Temenggung 19/9,",
+  "Seksyen 9,Bandar Mahkota Cheras,",
+  "43200 Cheras,Selangor",
+  "GST REG N0:001335787520",
+  "Tax Invoice",
+  "INV No.: 1199976 Cashier:Nicole",
+  "Date ：18-06-2018 16:15:47",
+  "Description Qty U.price Total TAX",
+  "Teh (B)",
+  "1x 2.10 2.10ZRL",
+  "Cham (B)",
+  "1x 2.10 2.10ZRL",
+  "Soya Bean",
+  "1x 1.70 1.70ZRL",
+  "Take Away",
+  "3x 0.20 0.60 ZRL",
+  "Tota1 QTY:6",
+  "Total （Excluding GST): 6.50",
+  "Total （Inclusive of GST): 6.50",
+  "TOTAL: 6.50",
+  "CASH: 6.50",
+  "GST Sunmary Amount(RM) Tax(RM)",
+  "ZRL. （@0%） 6.50 0.00"
+ ],
+ "tokens": [
+  {
+   "text": "RESTORAN WAN SHENG",
+   "conf": 0.9668553239769406
+  },
+  {
+   "text": "002043319-W",
+   "conf": 0.9959696151993491
+  },
+  {
+   "text": "No.2,Jalan Temenggung 19/9,",
+   "conf": 0.9492149728315847
+  },
+  {
+   "text": "Seksyen 9,Bandar Mahkota Cheras,",
+   "conf": 0.9517972934991121
+  },
+  {
+   "text": "43200 Cheras,Selangor",
+   "conf": 0.9730820542290097
+  },
+  {
+   "text": "GST REG N0:001335787520",
+   "conf": 0.9545984112698099
+  },
+  {
+   "text": "Tax Invoice",
+   "conf": 0.9451496980407021
+  },
+  {
+   "text": "INV No.: 1199976 Cashier:Nicole",
+   "conf": 0.9631092029233133
+  },
+  {
+   "text": "Date",
+   "conf": 0.995021864771843
+  },
+  {
+   "text": "：18-06-2018 16:15:47",
+   "conf": 0.9427007347345352
+  },
+  {
+   "text": "Description",
+   "conf": 0.9951842427253723
+  },
+  {
+   "text": "Qty",
+   "conf": 0.9767160614331564
+  },
+  {
+   "text": "U.price",
+   "conf": 0.9863305773053851
+  },
+  {
+   "text": "Total TAX",
+   "conf": 0.9451212618086073
+  },
+  {
+   "text": "Teh (B)",
+   "conf": 0.8891562053135463
+  },
+  {
+   "text": "1x",
+   "conf": 0.7263413816690445
+  },
+  {
+   "text": "2.10",
+   "conf": 0.9982663840055466
+  },
+  {
+   "text": "2.10ZRL",
+   "conf": 0.9954461199896676
+  },
+  {
+   "text": "Cham (B)",
+   "conf": 0.9555385336279869
+  },
+  {
+   "text": "1x",
+   "conf": 0.7639065682888031
+  },
+  {
+   "text": "2.10",
+   "conf": 0.9984039217233658
+  },
+  {
+   "text": "2.10ZRL",
+   "conf": 0.9918066774095807
+  },
+  {
+   "text": "Soya Bean",
+   "conf": 0.9743398096826341
+  },
+  {
+   "text": "1x",
+   "conf": 0.7193298935890198
+  },
+  {
+   "text": "1.70",
+   "conf": 0.9970380067825317
+  },
+  {
+   "text": "1.70ZRL",
+   "conf": 0.9873039126396179
+  },
+  {
+   "text": "Take Away",
+   "conf": 0.96112679110633
+  },
+  {
+   "text": "3x",
+   "conf": 0.824761837720871
+  },
+  {
+   "text": "0.20",
+   "conf": 0.9971214979887009
+  },
+  {
+   "text": "0.60 ZRL",
+   "conf": 0.939067579805851
+  },
+  {
+   "text": "Tota1 QTY:6",
+   "conf": 0.8808847178112377
+  },
+  {
+   "text": "Total （Excluding GST):",
+   "conf": 0.9243822612545707
+  },
+  {
+   "text": "6.50",
+   "conf": 0.9991301447153091
+  },
+  {
+   "text": "Total （Inclusive of GST):",
+   "conf": 0.8952841687202454
+  },
+  {
+   "text": "6.50",
+   "conf": 0.9980231672525406
+  },
+  {
+   "text": "TOTAL:",
+   "conf": 0.9772478342056274
+  },
+  {
+   "text": "6.50",
+   "conf": 0.9986660480499268
+  },
+  {
+   "text": "CASH:",
+   "conf": 0.9590643405914306
+  },
+  {
+   "text": "6.50",
+   "conf": 0.9986228942871094
+  },
+  {
+   "text": "GST Sunmary",
+   "conf": 0.9639918262308295
+  },
+  {
+   "text": "Amount(RM)",
+   "conf": 0.9558223068714142
+  },
+  {
+   "text": "Tax(RM)",
+   "conf": 0.9584832787513733
+  },
+  {
+   "text": "ZRL.",
+   "conf": 0.8655113130807877
+  },
+  {
+   "text": "（@0%）",
+   "conf": 0.7946092009544372
+  },
+  {
+   "text": "6.50",
+   "conf": 0.9975004196166992
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9991931170225143
+  }
+ ],
+ "mean_conf": 0.944,
+ "low_conf_share": 0.0,
+ "latency_ms": 4763,
+ "fields": {
+  "company": "RESTORAN WAN SHENG",
+  "date": "2018-06-18",
+  "total": 6.5
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  6.5,
+  6.5
+ ],
+ "key": "X51008099044"
+}

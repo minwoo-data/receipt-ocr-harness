@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.1-flash-lite",
+ "provider": "gemini",
+ "raw_text": "{\n  \"vendor\": \"Atmosphere 360\",\n  \"date\": \"2015-11-23\",\n  \"subtotal\": 57.45,\n  \"tax\": 3.45,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 60.90,\n  \"currency\": \"MYR\",\n  \"confidence\": 0.98,\n  \"notes\": null\n}",
+ "data": {
+  "vendor": "Atmosphere 360",
+  "date": "2015-11-23",
+  "subtotal": 57.45,
+  "tax": 3.45,
+  "tip": null,
+  "discount": null,
+  "total": 60.9,
+  "currency": "MYR",
+  "confidence": 0.98,
+  "notes": null
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1471,
+  "output_tokens": 109,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.000531,
+ "latency_ms": 2208,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.1-flash-lite",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.1-flash-lite"
+ ],
+ "key": "W0177_e9f9a46e62a7"
+}

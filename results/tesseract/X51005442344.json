@@ -1,0 +1,560 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "YONG TAT HARDWARE TRADING",
+  "(uM0292487-D)",
+  "NO 4,JALAN PERJIRANAN 10,",
+  "TAMAN AIR BIRU",
+  "81700 PASIR GUDANG,",
+  "JOHOR:",
+  "TEL: 07-2614733 FAX: 07-2614738",
+  "YONGTATSO@YAHOO.COM.MY",
+  "GST : 001570349055",
+  "gpa TAX INVOIGE",
+  "Doe No 800035663 Date: 13/03/2018",
+  "Cashier USER Time: 12-49-00",
+  "Salesperson Ref:",
+  "(GsT) (@8T)",
+  "‘tem Oy. Siriee | Sires __ Ame. tae",
+  "2687 1.00 PCS — 46.00 50.88 $0.88 SR",
+  "10° WING COMPASS SVB j8%)",
+  "br36 4.00 SET 47.17 50.00 50.00 SR",
+  "1/83/48\" 12PCS HOLLOW PUNCH SET &e, Boj",
+  "—haay 2S 100.88",
+  "Total Sales (Excluding GST) 95.17",
+  "Discount 0.60",
+  "Total GST 571",
+  "Rounding 0.02",
+  "Total Sales (Inclusive of G8T} : 100.80",
+  "CASH ; 101.00",
+  "Change : ate",
+  "esr sui ————* °",
+  "Tax Code “ Amt(RM) ‘Tax (RM)",
+  "sR 6 96.17 874",
+  "ES aN cn",
+  "GOODS SOL ARE NOT RETURNABLE, THANK YOU"
+ ],
+ "tokens": [
+  {
+   "text": "YONG",
+   "conf": 0.96
+  },
+  {
+   "text": "TAT",
+   "conf": 0.96
+  },
+  {
+   "text": "HARDWARE",
+   "conf": 0.96
+  },
+  {
+   "text": "TRADING",
+   "conf": 0.96
+  },
+  {
+   "text": "(uM0292487-D)",
+   "conf": 0.39
+  },
+  {
+   "text": "NO",
+   "conf": 0.62
+  },
+  {
+   "text": "4,JALAN",
+   "conf": 0.62
+  },
+  {
+   "text": "PERJIRANAN",
+   "conf": 0.66
+  },
+  {
+   "text": "10,",
+   "conf": 0.94
+  },
+  {
+   "text": "TAMAN",
+   "conf": 0.92
+  },
+  {
+   "text": "AIR",
+   "conf": 0.92
+  },
+  {
+   "text": "BIRU",
+   "conf": 0.92
+  },
+  {
+   "text": "81700",
+   "conf": 0.83
+  },
+  {
+   "text": "PASIR",
+   "conf": 0.92
+  },
+  {
+   "text": "GUDANG,",
+   "conf": 0.2
+  },
+  {
+   "text": "JOHOR:",
+   "conf": 0.81
+  },
+  {
+   "text": "TEL:",
+   "conf": 0.16
+  },
+  {
+   "text": "07-2614733",
+   "conf": 0.16
+  },
+  {
+   "text": "FAX:",
+   "conf": 0.57
+  },
+  {
+   "text": "07-2614738",
+   "conf": 0.29
+  },
+  {
+   "text": "YONGTATSO@YAHOO.COM.MY",
+   "conf": 0.41
+  },
+  {
+   "text": "GST",
+   "conf": 0.49
+  },
+  {
+   "text": ":",
+   "conf": 0.58
+  },
+  {
+   "text": "001570349055",
+   "conf": 0.64
+  },
+  {
+   "text": "gpa",
+   "conf": 0.31
+  },
+  {
+   "text": "TAX",
+   "conf": 0.0
+  },
+  {
+   "text": "INVOIGE",
+   "conf": 0.0
+  },
+  {
+   "text": "Doe",
+   "conf": 0.27
+  },
+  {
+   "text": "No",
+   "conf": 0.81
+  },
+  {
+   "text": "800035663",
+   "conf": 0.56
+  },
+  {
+   "text": "Date:",
+   "conf": 0.76
+  },
+  {
+   "text": "13/03/2018",
+   "conf": 0.75
+  },
+  {
+   "text": "Cashier",
+   "conf": 0.93
+  },
+  {
+   "text": "USER",
+   "conf": 0.96
+  },
+  {
+   "text": "Time:",
+   "conf": 0.71
+  },
+  {
+   "text": "12-49-00",
+   "conf": 0.16
+  },
+  {
+   "text": "Salesperson",
+   "conf": 0.95
+  },
+  {
+   "text": "Ref:",
+   "conf": 0.75
+  },
+  {
+   "text": "(GsT)",
+   "conf": 0.2
+  },
+  {
+   "text": "(@8T)",
+   "conf": 0.36
+  },
+  {
+   "text": "‘tem",
+   "conf": 0.68
+  },
+  {
+   "text": "Oy.",
+   "conf": 0.0
+  },
+  {
+   "text": "Siriee",
+   "conf": 0.16
+  },
+  {
+   "text": "|",
+   "conf": 0.18
+  },
+  {
+   "text": "Sires",
+   "conf": 0.15
+  },
+  {
+   "text": "__",
+   "conf": 0.28
+  },
+  {
+   "text": "Ame.",
+   "conf": 0.0
+  },
+  {
+   "text": "tae",
+   "conf": 0.3
+  },
+  {
+   "text": "2687",
+   "conf": 0.68
+  },
+  {
+   "text": "1.00",
+   "conf": 0.39
+  },
+  {
+   "text": "PCS",
+   "conf": 0.39
+  },
+  {
+   "text": "—",
+   "conf": 0.67
+  },
+  {
+   "text": "46.00",
+   "conf": 0.72
+  },
+  {
+   "text": "50.88",
+   "conf": 0.69
+  },
+  {
+   "text": "$0.88",
+   "conf": 0.18
+  },
+  {
+   "text": "SR",
+   "conf": 0.57
+  },
+  {
+   "text": "10°",
+   "conf": 0.73
+  },
+  {
+   "text": "WING",
+   "conf": 0.73
+  },
+  {
+   "text": "COMPASS",
+   "conf": 0.6
+  },
+  {
+   "text": "SVB",
+   "conf": 0.02
+  },
+  {
+   "text": "j8%)",
+   "conf": 0.0
+  },
+  {
+   "text": "br36",
+   "conf": 0.0
+  },
+  {
+   "text": "4.00",
+   "conf": 0.77
+  },
+  {
+   "text": "SET",
+   "conf": 0.85
+  },
+  {
+   "text": "47.17",
+   "conf": 0.25
+  },
+  {
+   "text": "50.00",
+   "conf": 0.73
+  },
+  {
+   "text": "50.00",
+   "conf": 0.71
+  },
+  {
+   "text": "SR",
+   "conf": 0.71
+  },
+  {
+   "text": "1/83/48\"",
+   "conf": 0.0
+  },
+  {
+   "text": "12PCS",
+   "conf": 0.67
+  },
+  {
+   "text": "HOLLOW",
+   "conf": 0.76
+  },
+  {
+   "text": "PUNCH",
+   "conf": 0.8
+  },
+  {
+   "text": "SET",
+   "conf": 0.93
+  },
+  {
+   "text": "&e,",
+   "conf": 0.38
+  },
+  {
+   "text": "Boj",
+   "conf": 0.72
+  },
+  {
+   "text": "—haay",
+   "conf": 0.0
+  },
+  {
+   "text": "2S",
+   "conf": 0.39
+  },
+  {
+   "text": "100.88",
+   "conf": 0.4
+  },
+  {
+   "text": "Total",
+   "conf": 0.73
+  },
+  {
+   "text": "Sales",
+   "conf": 0.96
+  },
+  {
+   "text": "(Excluding",
+   "conf": 0.76
+  },
+  {
+   "text": "GST)",
+   "conf": 0.69
+  },
+  {
+   "text": "95.17",
+   "conf": 0.63
+  },
+  {
+   "text": "Discount",
+   "conf": 0.96
+  },
+  {
+   "text": "0.60",
+   "conf": 0.83
+  },
+  {
+   "text": "Total",
+   "conf": 0.92
+  },
+  {
+   "text": "GST",
+   "conf": 0.92
+  },
+  {
+   "text": "571",
+   "conf": 0.81
+  },
+  {
+   "text": "Rounding",
+   "conf": 0.93
+  },
+  {
+   "text": "0.02",
+   "conf": 0.87
+  },
+  {
+   "text": "Total",
+   "conf": 0.65
+  },
+  {
+   "text": "Sales",
+   "conf": 0.69
+  },
+  {
+   "text": "(Inclusive",
+   "conf": 0.86
+  },
+  {
+   "text": "of",
+   "conf": 0.87
+  },
+  {
+   "text": "G8T}",
+   "conf": 0.0
+  },
+  {
+   "text": ":",
+   "conf": 0.79
+  },
+  {
+   "text": "100.80",
+   "conf": 0.43
+  },
+  {
+   "text": "CASH",
+   "conf": 0.9
+  },
+  {
+   "text": ";",
+   "conf": 0.75
+  },
+  {
+   "text": "101.00",
+   "conf": 0.49
+  },
+  {
+   "text": "Change",
+   "conf": 0.86
+  },
+  {
+   "text": ":",
+   "conf": 0.58
+  },
+  {
+   "text": "ate",
+   "conf": 0.69
+  },
+  {
+   "text": "esr",
+   "conf": 0.34
+  },
+  {
+   "text": "sui",
+   "conf": 0.34
+  },
+  {
+   "text": "————*",
+   "conf": 0.21
+  },
+  {
+   "text": "°",
+   "conf": 0.53
+  },
+  {
+   "text": "Tax",
+   "conf": 0.26
+  },
+  {
+   "text": "Code",
+   "conf": 0.26
+  },
+  {
+   "text": "“",
+   "conf": 0.0
+  },
+  {
+   "text": "Amt(RM)",
+   "conf": 0.55
+  },
+  {
+   "text": "‘Tax",
+   "conf": 0.0
+  },
+  {
+   "text": "(RM)",
+   "conf": 0.0
+  },
+  {
+   "text": "sR",
+   "conf": 0.4
+  },
+  {
+   "text": "6",
+   "conf": 0.63
+  },
+  {
+   "text": "96.17",
+   "conf": 0.68
+  },
+  {
+   "text": "874",
+   "conf": 0.45
+  },
+  {
+   "text": "ES",
+   "conf": 0.17
+  },
+  {
+   "text": "aN",
+   "conf": 0.28
+  },
+  {
+   "text": "cn",
+   "conf": 0.41
+  },
+  {
+   "text": "GOODS",
+   "conf": 0.92
+  },
+  {
+   "text": "SOL",
+   "conf": 0.0
+  },
+  {
+   "text": "ARE",
+   "conf": 0.89
+  },
+  {
+   "text": "NOT",
+   "conf": 0.89
+  },
+  {
+   "text": "RETURNABLE,",
+   "conf": 0.89
+  },
+  {
+   "text": "THANK",
+   "conf": 0.87
+  },
+  {
+   "text": "YOU",
+   "conf": 0.87
+  }
+ ],
+ "mean_conf": 0.5588,
+ "low_conf_share": 0.3937,
+ "latency_ms": 901,
+ "fields": {
+  "company": "YONG TAT HARDWARE TRADING",
+  "date": "2018-03-13",
+  "total": 100.8
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  100.8
+ ],
+ "key": "X51005442344"
+}

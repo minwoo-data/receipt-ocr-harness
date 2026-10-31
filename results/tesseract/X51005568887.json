@@ -1,0 +1,442 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "‘HON HWA HARDWARE TRADING |",
+  "Company Reg, No, : 601055194 x",
+  "NO 37, JALAN MANIS 7, TAMAN SEGAR,",
+  "§6100 CHERAS, KUALA LUMPUR.",
+  "+603-9130 2672",
+  "GST Reg : 001125220352",
+  "TAX INVOICE",
+  "CB#: 75588 26/04/2017 170796 AM",
+  "M# : C2-0",
+  "Cashier cash -",
+  "Oty Description Price Tota(RM",
+  "1.2 3/4\" ALUMINIUM ROD ~~ «6.00 7.20 Sk",
+  "| 1.2 Type: 1 Total 7.20",
+  "| Discount: 0.00",
+  "RoundingAdj 9.60",
+  "Total inclusive GST: 7.20",
+  "CASH 7.20",
+  "GST Summary.",
+  "Code % NefAm{ GST TotaldM)",
+  "Total FY G44 £20",
+  "Thank you ! & Please came again !! |",
+  "Soods sold are not returnable for refund of exchange tl"
+ ],
+ "tokens": [
+  {
+   "text": "‘HON",
+   "conf": 0.6
+  },
+  {
+   "text": "HWA",
+   "conf": 0.96
+  },
+  {
+   "text": "HARDWARE",
+   "conf": 0.94
+  },
+  {
+   "text": "TRADING",
+   "conf": 0.95
+  },
+  {
+   "text": "|",
+   "conf": 0.7
+  },
+  {
+   "text": "Company",
+   "conf": 0.95
+  },
+  {
+   "text": "Reg,",
+   "conf": 0.73
+  },
+  {
+   "text": "No,",
+   "conf": 0.82
+  },
+  {
+   "text": ":",
+   "conf": 0.64
+  },
+  {
+   "text": "601055194",
+   "conf": 0.07
+  },
+  {
+   "text": "x",
+   "conf": 0.25
+  },
+  {
+   "text": "NO",
+   "conf": 0.94
+  },
+  {
+   "text": "37,",
+   "conf": 0.94
+  },
+  {
+   "text": "JALAN",
+   "conf": 0.92
+  },
+  {
+   "text": "MANIS",
+   "conf": 0.91
+  },
+  {
+   "text": "7,",
+   "conf": 0.93
+  },
+  {
+   "text": "TAMAN",
+   "conf": 0.91
+  },
+  {
+   "text": "SEGAR,",
+   "conf": 0.89
+  },
+  {
+   "text": "§6100",
+   "conf": 0.83
+  },
+  {
+   "text": "CHERAS,",
+   "conf": 0.92
+  },
+  {
+   "text": "KUALA",
+   "conf": 0.95
+  },
+  {
+   "text": "LUMPUR.",
+   "conf": 0.9
+  },
+  {
+   "text": "+603-9130",
+   "conf": 0.78
+  },
+  {
+   "text": "2672",
+   "conf": 0.96
+  },
+  {
+   "text": "GST",
+   "conf": 0.93
+  },
+  {
+   "text": "Reg",
+   "conf": 0.92
+  },
+  {
+   "text": ":",
+   "conf": 0.27
+  },
+  {
+   "text": "001125220352",
+   "conf": 0.79
+  },
+  {
+   "text": "TAX",
+   "conf": 0.29
+  },
+  {
+   "text": "INVOICE",
+   "conf": 0.29
+  },
+  {
+   "text": "CB#:",
+   "conf": 0.26
+  },
+  {
+   "text": "75588",
+   "conf": 0.64
+  },
+  {
+   "text": "26/04/2017",
+   "conf": 0.8
+  },
+  {
+   "text": "170796",
+   "conf": 0.56
+  },
+  {
+   "text": "AM",
+   "conf": 0.94
+  },
+  {
+   "text": "M#",
+   "conf": 0.83
+  },
+  {
+   "text": ":",
+   "conf": 0.41
+  },
+  {
+   "text": "C2-0",
+   "conf": 0.82
+  },
+  {
+   "text": "Cashier",
+   "conf": 0.28
+  },
+  {
+   "text": "cash",
+   "conf": 0.27
+  },
+  {
+   "text": "-",
+   "conf": 0.9
+  },
+  {
+   "text": "Oty",
+   "conf": 0.92
+  },
+  {
+   "text": "Description",
+   "conf": 0.94
+  },
+  {
+   "text": "Price",
+   "conf": 0.56
+  },
+  {
+   "text": "Tota(RM",
+   "conf": 0.0
+  },
+  {
+   "text": "1.2",
+   "conf": 0.51
+  },
+  {
+   "text": "3/4\"",
+   "conf": 0.09
+  },
+  {
+   "text": "ALUMINIUM",
+   "conf": 0.02
+  },
+  {
+   "text": "ROD",
+   "conf": 0.02
+  },
+  {
+   "text": "~~",
+   "conf": 0.09
+  },
+  {
+   "text": "«6.00",
+   "conf": 0.23
+  },
+  {
+   "text": "7.20",
+   "conf": 0.47
+  },
+  {
+   "text": "Sk",
+   "conf": 0.74
+  },
+  {
+   "text": "|",
+   "conf": 0.82
+  },
+  {
+   "text": "1.2",
+   "conf": 0.85
+  },
+  {
+   "text": "Type:",
+   "conf": 0.95
+  },
+  {
+   "text": "1",
+   "conf": 0.86
+  },
+  {
+   "text": "Total",
+   "conf": 0.95
+  },
+  {
+   "text": "7.20",
+   "conf": 0.93
+  },
+  {
+   "text": "|",
+   "conf": 0.73
+  },
+  {
+   "text": "Discount:",
+   "conf": 0.63
+  },
+  {
+   "text": "0.00",
+   "conf": 0.68
+  },
+  {
+   "text": "RoundingAdj",
+   "conf": 0.67
+  },
+  {
+   "text": "9.60",
+   "conf": 0.19
+  },
+  {
+   "text": "Total",
+   "conf": 0.96
+  },
+  {
+   "text": "inclusive",
+   "conf": 0.92
+  },
+  {
+   "text": "GST:",
+   "conf": 0.56
+  },
+  {
+   "text": "7.20",
+   "conf": 0.92
+  },
+  {
+   "text": "CASH",
+   "conf": 0.96
+  },
+  {
+   "text": "7.20",
+   "conf": 0.9
+  },
+  {
+   "text": "GST",
+   "conf": 0.94
+  },
+  {
+   "text": "Summary.",
+   "conf": 0.65
+  },
+  {
+   "text": "Code",
+   "conf": 0.7
+  },
+  {
+   "text": "%",
+   "conf": 0.35
+  },
+  {
+   "text": "NefAm{",
+   "conf": 0.18
+  },
+  {
+   "text": "GST",
+   "conf": 0.27
+  },
+  {
+   "text": "TotaldM)",
+   "conf": 0.0
+  },
+  {
+   "text": "Total",
+   "conf": 0.96
+  },
+  {
+   "text": "FY",
+   "conf": 0.03
+  },
+  {
+   "text": "G44",
+   "conf": 0.61
+  },
+  {
+   "text": "£20",
+   "conf": 0.36
+  },
+  {
+   "text": "Thank",
+   "conf": 0.95
+  },
+  {
+   "text": "you",
+   "conf": 0.87
+  },
+  {
+   "text": "!",
+   "conf": 0.8
+  },
+  {
+   "text": "&",
+   "conf": 0.8
+  },
+  {
+   "text": "Please",
+   "conf": 0.96
+  },
+  {
+   "text": "came",
+   "conf": 0.93
+  },
+  {
+   "text": "again",
+   "conf": 0.93
+  },
+  {
+   "text": "!!",
+   "conf": 0.89
+  },
+  {
+   "text": "|",
+   "conf": 0.89
+  },
+  {
+   "text": "Soods",
+   "conf": 0.87
+  },
+  {
+   "text": "sold",
+   "conf": 0.91
+  },
+  {
+   "text": "are",
+   "conf": 0.95
+  },
+  {
+   "text": "not",
+   "conf": 0.64
+  },
+  {
+   "text": "returnable",
+   "conf": 0.63
+  },
+  {
+   "text": "for",
+   "conf": 0.92
+  },
+  {
+   "text": "refund",
+   "conf": 0.53
+  },
+  {
+   "text": "of",
+   "conf": 0.7
+  },
+  {
+   "text": "exchange",
+   "conf": 0.59
+  },
+  {
+   "text": "tl",
+   "conf": 0.6
+  }
+ ],
+ "mean_conf": 0.6807,
+ "low_conf_share": 0.23,
+ "latency_ms": 2232,
+ "fields": {
+  "company": "HON HWA HARDWARE TRADING",
+  "date": "2017-04-26",
+  "total": 7.2
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  7.2
+ ],
+ "key": "X51005568887"
+}

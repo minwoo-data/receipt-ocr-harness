@@ -1,0 +1,400 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "191 TkANO Pte Ltd (993619-K)",
+  "ate, 10/12/10 18:21 Slip: O2203eH08\"",
+  "seq Slaff: asthe Trans; 122331119 ¢",
+  "i Description te Amount 4¢",
+  "0171631 BIBBI $ GC/2P15 59.90 M",
+  "7o17 1681 Bree Seed 48.00",
+  "90134019 GNARP KITCHEN UT $5",
+  "2pc @ 11,90 23.80 i",
+  "60179615 RAJTAN SPICEJAR 7.50",
+  "10134004 BEVARA SEAL CLI 9.90 H",
+  "a) 19176975 JAMKA JAR W LID 12.90 4",
+  "F 50196702 PYSSLIG. SCRAPBO 19.90",
+  "t 17940001 (L) PLASTIC BAG 0,20 4",
+  "Total RM 179.10",
+  "Rounding Adj. 0.00",
+  "Total Rounded 179.10",
+  "Cash -200.10",
+  "Change 1.00",
+  "No. of Items aia ."
+ ],
+ "tokens": [
+  {
+   "text": "191",
+   "conf": 0.37
+  },
+  {
+   "text": "TkANO",
+   "conf": 0.51
+  },
+  {
+   "text": "Pte",
+   "conf": 0.93
+  },
+  {
+   "text": "Ltd",
+   "conf": 0.85
+  },
+  {
+   "text": "(993619-K)",
+   "conf": 0.57
+  },
+  {
+   "text": "ate,",
+   "conf": 0.31
+  },
+  {
+   "text": "10/12/10",
+   "conf": 0.65
+  },
+  {
+   "text": "18:21",
+   "conf": 0.74
+  },
+  {
+   "text": "Slip:",
+   "conf": 0.59
+  },
+  {
+   "text": "O2203eH08\"",
+   "conf": 0.0
+  },
+  {
+   "text": "seq",
+   "conf": 0.66
+  },
+  {
+   "text": "Slaff:",
+   "conf": 0.61
+  },
+  {
+   "text": "asthe",
+   "conf": 0.43
+  },
+  {
+   "text": "Trans;",
+   "conf": 0.54
+  },
+  {
+   "text": "122331119",
+   "conf": 0.54
+  },
+  {
+   "text": "¢",
+   "conf": 0.03
+  },
+  {
+   "text": "i",
+   "conf": 0.24
+  },
+  {
+   "text": "Description",
+   "conf": 0.94
+  },
+  {
+   "text": "te",
+   "conf": 0.47
+  },
+  {
+   "text": "Amount",
+   "conf": 0.57
+  },
+  {
+   "text": "4¢",
+   "conf": 0.04
+  },
+  {
+   "text": "0171631",
+   "conf": 0.69
+  },
+  {
+   "text": "BIBBI",
+   "conf": 0.47
+  },
+  {
+   "text": "$",
+   "conf": 0.47
+  },
+  {
+   "text": "GC/2P15",
+   "conf": 0.78
+  },
+  {
+   "text": "59.90",
+   "conf": 0.88
+  },
+  {
+   "text": "M",
+   "conf": 0.85
+  },
+  {
+   "text": "7o17",
+   "conf": 0.0
+  },
+  {
+   "text": "1681",
+   "conf": 0.56
+  },
+  {
+   "text": "Bree",
+   "conf": 0.22
+  },
+  {
+   "text": "Seed",
+   "conf": 0.13
+  },
+  {
+   "text": "48.00",
+   "conf": 0.0
+  },
+  {
+   "text": "90134019",
+   "conf": 0.8
+  },
+  {
+   "text": "GNARP",
+   "conf": 0.9
+  },
+  {
+   "text": "KITCHEN",
+   "conf": 0.94
+  },
+  {
+   "text": "UT",
+   "conf": 0.85
+  },
+  {
+   "text": "$5",
+   "conf": 0.53
+  },
+  {
+   "text": "2pc",
+   "conf": 0.0
+  },
+  {
+   "text": "@",
+   "conf": 0.78
+  },
+  {
+   "text": "11,90",
+   "conf": 0.95
+  },
+  {
+   "text": "23.80",
+   "conf": 0.75
+  },
+  {
+   "text": "i",
+   "conf": 0.36
+  },
+  {
+   "text": "60179615",
+   "conf": 0.84
+  },
+  {
+   "text": "RAJTAN",
+   "conf": 0.85
+  },
+  {
+   "text": "SPICEJAR",
+   "conf": 0.78
+  },
+  {
+   "text": "7.50",
+   "conf": 0.0
+  },
+  {
+   "text": "10134004",
+   "conf": 0.76
+  },
+  {
+   "text": "BEVARA",
+   "conf": 0.68
+  },
+  {
+   "text": "SEAL",
+   "conf": 0.96
+  },
+  {
+   "text": "CLI",
+   "conf": 0.81
+  },
+  {
+   "text": "9.90",
+   "conf": 0.72
+  },
+  {
+   "text": "H",
+   "conf": 0.65
+  },
+  {
+   "text": "a)",
+   "conf": 0.28
+  },
+  {
+   "text": "19176975",
+   "conf": 0.87
+  },
+  {
+   "text": "JAMKA",
+   "conf": 0.32
+  },
+  {
+   "text": "JAR",
+   "conf": 0.9
+  },
+  {
+   "text": "W",
+   "conf": 0.67
+  },
+  {
+   "text": "LID",
+   "conf": 0.88
+  },
+  {
+   "text": "12.90",
+   "conf": 0.79
+  },
+  {
+   "text": "4",
+   "conf": 0.11
+  },
+  {
+   "text": "F",
+   "conf": 0.02
+  },
+  {
+   "text": "50196702",
+   "conf": 0.86
+  },
+  {
+   "text": "PYSSLIG.",
+   "conf": 0.52
+  },
+  {
+   "text": "SCRAPBO",
+   "conf": 0.89
+  },
+  {
+   "text": "19.90",
+   "conf": 0.62
+  },
+  {
+   "text": "t",
+   "conf": 0.0
+  },
+  {
+   "text": "17940001",
+   "conf": 0.57
+  },
+  {
+   "text": "(L)",
+   "conf": 0.91
+  },
+  {
+   "text": "PLASTIC",
+   "conf": 0.96
+  },
+  {
+   "text": "BAG",
+   "conf": 0.96
+  },
+  {
+   "text": "0,20",
+   "conf": 0.82
+  },
+  {
+   "text": "4",
+   "conf": 0.43
+  },
+  {
+   "text": "Total",
+   "conf": 0.95
+  },
+  {
+   "text": "RM",
+   "conf": 0.9
+  },
+  {
+   "text": "179.10",
+   "conf": 0.81
+  },
+  {
+   "text": "Rounding",
+   "conf": 0.91
+  },
+  {
+   "text": "Adj.",
+   "conf": 0.79
+  },
+  {
+   "text": "0.00",
+   "conf": 0.8
+  },
+  {
+   "text": "Total",
+   "conf": 0.94
+  },
+  {
+   "text": "Rounded",
+   "conf": 0.96
+  },
+  {
+   "text": "179.10",
+   "conf": 0.94
+  },
+  {
+   "text": "Cash",
+   "conf": 0.68
+  },
+  {
+   "text": "-200.10",
+   "conf": 0.57
+  },
+  {
+   "text": "Change",
+   "conf": 0.96
+  },
+  {
+   "text": "1.00",
+   "conf": 0.73
+  },
+  {
+   "text": "No.",
+   "conf": 0.44
+  },
+  {
+   "text": "of",
+   "conf": 0.96
+  },
+  {
+   "text": "Items",
+   "conf": 0.9
+  },
+  {
+   "text": "aia",
+   "conf": 0.0
+  },
+  {
+   "text": ".",
+   "conf": 0.4
+  }
+ ],
+ "mean_conf": 0.6174,
+ "low_conf_share": 0.2889,
+ "latency_ms": 419,
+ "fields": {
+  "company": "SEQ SLAFF ASTHE TRANS",
+  "date": "2010-10-12",
+  "total": 179.1
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  179.1,
+  179.1
+ ],
+ "key": "W0116_550"
+}

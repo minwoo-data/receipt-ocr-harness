@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.6-flash",
+ "provider": "gemini",
+ "raw_text": "{\"vendor\": \"ZANOTTO'S MARKET\", \"date\": \"2010-07-18\", \"subtotal\": 0.96, \"tax\": null, \"tip\": null, \"discount\": -2.0, \"total\": 0.96, \"currency\": \"USD\", \"confidence\": 0.98, \"notes\": null}",
+ "data": {
+  "vendor": "ZANOTTO'S MARKET",
+  "date": "2010-07-18",
+  "subtotal": 0.96,
+  "tax": null,
+  "tip": null,
+  "discount": -2.0,
+  "total": 0.96,
+  "currency": "USD",
+  "confidence": 0.98,
+  "notes": null
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1454,
+  "output_tokens": 84,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.001406,
+ "latency_ms": 1626,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.6-flash",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.6-flash"
+ ],
+ "key": "W0134_3471e1aa1abf"
+}

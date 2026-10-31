@@ -1,0 +1,702 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "Neen eee EE eal",
+  "WELCOME TO BEST BUY #478",
+  "50-01 NORTHERN BOULEVARD",
+  "LONG ISLAND CITY, NY 11101",
+  "(718 626-7585",
+  "New York City",
+  "Dept. of Consumer Affairs",
+  "License Numbers: 1061558, 1059186",
+  "Val #: 0427-4304-5273-0799",
+  "0478 002 3900 03/21/03 15:49 0234541",
+  "4274779 25301475 16.99",
+  "50PK 16 CDR SPINDLE",
+  "4766809 7981A004 9.99",
+  "CANON PHOTO MATTE PAPER 8,5%1",
+  "SUBTOTAL 26.98",
+  "SALES TAX 8.25 % 2.23 ;",
+  "forAL. 29.21",
+  "AXOMHXNAKAKK DEBIT 29.21",
+  "MARK THOMAS",
+  "EXP 08/09 APPROVAL",
+  "REFERENCE NUMBER: 047800209715",
+  "T HAVE READ AND AGREED TO ALL RETURN AND",
+  "REFUND POLICIES PRINTED ON THE BACK OF THIS",
+  "RECEIPT AND POSTEN IN THE STORE. 1 HAVE",
+  "RECEIVED GOODS AND/UR SERVICES IN THE",
+  "AMOUNT SHOWN ABOVE,",
+  "ALL RETURNS, EXCHANGES,",
+  "AND PRICE MATCHES MUST BE DONE IN THE",
+  "COUNTRY OF ORIGINAL PURCHASE",
+  "BESTBUY.COM RETURN AND EXCHANGE",
+  "INFORMATION AND PRICE MATCH POLICY y",
+  "MAY VARY SLIGHTLY FROM (N-STORE POLICY,",
+  "PLEASE LUG ONTO WwW. BESTBUY. COM",
+  "FOR COMPLETE DETAILS",
+  "oe",
+  "CALL. 1-888-BESTBUY FOR ALL",
+  "IN-HOME WARRANTY REPATRS!",
+  "KKK CUSTOMER COPY >>>>>"
+ ],
+ "tokens": [
+  {
+   "text": "Neen",
+   "conf": 0.0
+  },
+  {
+   "text": "eee",
+   "conf": 0.1
+  },
+  {
+   "text": "EE",
+   "conf": 0.0
+  },
+  {
+   "text": "eal",
+   "conf": 0.0
+  },
+  {
+   "text": "WELCOME",
+   "conf": 0.95
+  },
+  {
+   "text": "TO",
+   "conf": 0.93
+  },
+  {
+   "text": "BEST",
+   "conf": 0.95
+  },
+  {
+   "text": "BUY",
+   "conf": 0.96
+  },
+  {
+   "text": "#478",
+   "conf": 0.67
+  },
+  {
+   "text": "50-01",
+   "conf": 0.9
+  },
+  {
+   "text": "NORTHERN",
+   "conf": 0.95
+  },
+  {
+   "text": "BOULEVARD",
+   "conf": 0.95
+  },
+  {
+   "text": "LONG",
+   "conf": 0.95
+  },
+  {
+   "text": "ISLAND",
+   "conf": 0.94
+  },
+  {
+   "text": "CITY,",
+   "conf": 0.94
+  },
+  {
+   "text": "NY",
+   "conf": 0.89
+  },
+  {
+   "text": "11101",
+   "conf": 0.89
+  },
+  {
+   "text": "(718",
+   "conf": 0.71
+  },
+  {
+   "text": "626-7585",
+   "conf": 0.66
+  },
+  {
+   "text": "New",
+   "conf": 0.96
+  },
+  {
+   "text": "York",
+   "conf": 0.95
+  },
+  {
+   "text": "City",
+   "conf": 0.89
+  },
+  {
+   "text": "Dept.",
+   "conf": 0.86
+  },
+  {
+   "text": "of",
+   "conf": 0.92
+  },
+  {
+   "text": "Consumer",
+   "conf": 0.92
+  },
+  {
+   "text": "Affairs",
+   "conf": 0.94
+  },
+  {
+   "text": "License",
+   "conf": 0.92
+  },
+  {
+   "text": "Numbers:",
+   "conf": 0.94
+  },
+  {
+   "text": "1061558,",
+   "conf": 0.71
+  },
+  {
+   "text": "1059186",
+   "conf": 0.95
+  },
+  {
+   "text": "Val",
+   "conf": 0.88
+  },
+  {
+   "text": "#:",
+   "conf": 0.79
+  },
+  {
+   "text": "0427-4304-5273-0799",
+   "conf": 0.79
+  },
+  {
+   "text": "0478",
+   "conf": 0.91
+  },
+  {
+   "text": "002",
+   "conf": 0.91
+  },
+  {
+   "text": "3900",
+   "conf": 0.92
+  },
+  {
+   "text": "03/21/03",
+   "conf": 0.68
+  },
+  {
+   "text": "15:49",
+   "conf": 0.65
+  },
+  {
+   "text": "0234541",
+   "conf": 0.86
+  },
+  {
+   "text": "4274779",
+   "conf": 0.51
+  },
+  {
+   "text": "25301475",
+   "conf": 0.51
+  },
+  {
+   "text": "16.99",
+   "conf": 0.89
+  },
+  {
+   "text": "50PK",
+   "conf": 0.58
+  },
+  {
+   "text": "16",
+   "conf": 0.29
+  },
+  {
+   "text": "CDR",
+   "conf": 0.79
+  },
+  {
+   "text": "SPINDLE",
+   "conf": 0.87
+  },
+  {
+   "text": "4766809",
+   "conf": 0.0
+  },
+  {
+   "text": "7981A004",
+   "conf": 0.52
+  },
+  {
+   "text": "9.99",
+   "conf": 0.9
+  },
+  {
+   "text": "CANON",
+   "conf": 0.92
+  },
+  {
+   "text": "PHOTO",
+   "conf": 0.95
+  },
+  {
+   "text": "MATTE",
+   "conf": 0.96
+  },
+  {
+   "text": "PAPER",
+   "conf": 0.93
+  },
+  {
+   "text": "8,5%1",
+   "conf": 0.27
+  },
+  {
+   "text": "SUBTOTAL",
+   "conf": 0.89
+  },
+  {
+   "text": "26.98",
+   "conf": 0.27
+  },
+  {
+   "text": "SALES",
+   "conf": 0.96
+  },
+  {
+   "text": "TAX",
+   "conf": 0.87
+  },
+  {
+   "text": "8.25",
+   "conf": 0.9
+  },
+  {
+   "text": "%",
+   "conf": 0.7
+  },
+  {
+   "text": "2.23",
+   "conf": 0.83
+  },
+  {
+   "text": ";",
+   "conf": 0.4
+  },
+  {
+   "text": "forAL.",
+   "conf": 0.0
+  },
+  {
+   "text": "29.21",
+   "conf": 0.41
+  },
+  {
+   "text": "AXOMHXNAKAKK",
+   "conf": 0.0
+  },
+  {
+   "text": "DEBIT",
+   "conf": 0.64
+  },
+  {
+   "text": "29.21",
+   "conf": 0.19
+  },
+  {
+   "text": "MARK",
+   "conf": 0.51
+  },
+  {
+   "text": "THOMAS",
+   "conf": 0.93
+  },
+  {
+   "text": "EXP",
+   "conf": 0.95
+  },
+  {
+   "text": "08/09",
+   "conf": 0.95
+  },
+  {
+   "text": "APPROVAL",
+   "conf": 0.93
+  },
+  {
+   "text": "REFERENCE",
+   "conf": 0.96
+  },
+  {
+   "text": "NUMBER:",
+   "conf": 0.96
+  },
+  {
+   "text": "047800209715",
+   "conf": 0.94
+  },
+  {
+   "text": "T",
+   "conf": 0.7
+  },
+  {
+   "text": "HAVE",
+   "conf": 0.95
+  },
+  {
+   "text": "READ",
+   "conf": 0.95
+  },
+  {
+   "text": "AND",
+   "conf": 0.95
+  },
+  {
+   "text": "AGREED",
+   "conf": 0.96
+  },
+  {
+   "text": "TO",
+   "conf": 0.93
+  },
+  {
+   "text": "ALL",
+   "conf": 0.93
+  },
+  {
+   "text": "RETURN",
+   "conf": 0.94
+  },
+  {
+   "text": "AND",
+   "conf": 0.94
+  },
+  {
+   "text": "REFUND",
+   "conf": 0.96
+  },
+  {
+   "text": "POLICIES",
+   "conf": 0.95
+  },
+  {
+   "text": "PRINTED",
+   "conf": 0.95
+  },
+  {
+   "text": "ON",
+   "conf": 0.95
+  },
+  {
+   "text": "THE",
+   "conf": 0.96
+  },
+  {
+   "text": "BACK",
+   "conf": 0.96
+  },
+  {
+   "text": "OF",
+   "conf": 0.96
+  },
+  {
+   "text": "THIS",
+   "conf": 0.96
+  },
+  {
+   "text": "RECEIPT",
+   "conf": 0.71
+  },
+  {
+   "text": "AND",
+   "conf": 0.89
+  },
+  {
+   "text": "POSTEN",
+   "conf": 0.89
+  },
+  {
+   "text": "IN",
+   "conf": 0.96
+  },
+  {
+   "text": "THE",
+   "conf": 0.96
+  },
+  {
+   "text": "STORE.",
+   "conf": 0.92
+  },
+  {
+   "text": "1",
+   "conf": 0.78
+  },
+  {
+   "text": "HAVE",
+   "conf": 0.96
+  },
+  {
+   "text": "RECEIVED",
+   "conf": 0.91
+  },
+  {
+   "text": "GOODS",
+   "conf": 0.93
+  },
+  {
+   "text": "AND/UR",
+   "conf": 0.7
+  },
+  {
+   "text": "SERVICES",
+   "conf": 0.96
+  },
+  {
+   "text": "IN",
+   "conf": 0.89
+  },
+  {
+   "text": "THE",
+   "conf": 0.91
+  },
+  {
+   "text": "AMOUNT",
+   "conf": 0.89
+  },
+  {
+   "text": "SHOWN",
+   "conf": 0.96
+  },
+  {
+   "text": "ABOVE,",
+   "conf": 0.8
+  },
+  {
+   "text": "ALL",
+   "conf": 0.83
+  },
+  {
+   "text": "RETURNS,",
+   "conf": 0.92
+  },
+  {
+   "text": "EXCHANGES,",
+   "conf": 0.96
+  },
+  {
+   "text": "AND",
+   "conf": 0.93
+  },
+  {
+   "text": "PRICE",
+   "conf": 0.93
+  },
+  {
+   "text": "MATCHES",
+   "conf": 0.93
+  },
+  {
+   "text": "MUST",
+   "conf": 0.95
+  },
+  {
+   "text": "BE",
+   "conf": 0.95
+  },
+  {
+   "text": "DONE",
+   "conf": 0.95
+  },
+  {
+   "text": "IN",
+   "conf": 0.88
+  },
+  {
+   "text": "THE",
+   "conf": 0.88
+  },
+  {
+   "text": "COUNTRY",
+   "conf": 0.94
+  },
+  {
+   "text": "OF",
+   "conf": 0.92
+  },
+  {
+   "text": "ORIGINAL",
+   "conf": 0.93
+  },
+  {
+   "text": "PURCHASE",
+   "conf": 0.93
+  },
+  {
+   "text": "BESTBUY.COM",
+   "conf": 0.81
+  },
+  {
+   "text": "RETURN",
+   "conf": 0.92
+  },
+  {
+   "text": "AND",
+   "conf": 0.86
+  },
+  {
+   "text": "EXCHANGE",
+   "conf": 0.86
+  },
+  {
+   "text": "INFORMATION",
+   "conf": 0.95
+  },
+  {
+   "text": "AND",
+   "conf": 0.96
+  },
+  {
+   "text": "PRICE",
+   "conf": 0.96
+  },
+  {
+   "text": "MATCH",
+   "conf": 0.88
+  },
+  {
+   "text": "POLICY",
+   "conf": 0.94
+  },
+  {
+   "text": "y",
+   "conf": 0.55
+  },
+  {
+   "text": "MAY",
+   "conf": 0.81
+  },
+  {
+   "text": "VARY",
+   "conf": 0.94
+  },
+  {
+   "text": "SLIGHTLY",
+   "conf": 0.95
+  },
+  {
+   "text": "FROM",
+   "conf": 0.86
+  },
+  {
+   "text": "(N-STORE",
+   "conf": 0.34
+  },
+  {
+   "text": "POLICY,",
+   "conf": 0.09
+  },
+  {
+   "text": "PLEASE",
+   "conf": 0.96
+  },
+  {
+   "text": "LUG",
+   "conf": 0.87
+  },
+  {
+   "text": "ONTO",
+   "conf": 0.94
+  },
+  {
+   "text": "WwW.",
+   "conf": 0.0
+  },
+  {
+   "text": "BESTBUY.",
+   "conf": 0.67
+  },
+  {
+   "text": "COM",
+   "conf": 0.82
+  },
+  {
+   "text": "FOR",
+   "conf": 0.96
+  },
+  {
+   "text": "COMPLETE",
+   "conf": 0.96
+  },
+  {
+   "text": "DETAILS",
+   "conf": 0.94
+  },
+  {
+   "text": "oe",
+   "conf": 0.0
+  },
+  {
+   "text": "CALL.",
+   "conf": 0.7
+  },
+  {
+   "text": "1-888-BESTBUY",
+   "conf": 0.81
+  },
+  {
+   "text": "FOR",
+   "conf": 0.96
+  },
+  {
+   "text": "ALL",
+   "conf": 0.1
+  },
+  {
+   "text": "IN-HOME",
+   "conf": 0.96
+  },
+  {
+   "text": "WARRANTY",
+   "conf": 0.93
+  },
+  {
+   "text": "REPATRS!",
+   "conf": 0.7
+  },
+  {
+   "text": "KKK",
+   "conf": 0.05
+  },
+  {
+   "text": "CUSTOMER",
+   "conf": 0.79
+  },
+  {
+   "text": "COPY",
+   "conf": 0.88
+  },
+  {
+   "text": ">>>>>",
+   "conf": 0.83
+  }
+ ],
+ "mean_conf": 0.789,
+ "low_conf_share": 0.118,
+ "latency_ms": 2007,
+ "fields": {
+  "company": "NEEN EEE EE EAL",
+  "date": "2003-03-21",
+  "total": null
+ },
+ "rule_reasons": [
+  "total_not_found"
+ ],
+ "total_candidates": [],
+ "key": "W0043_2286"
+}

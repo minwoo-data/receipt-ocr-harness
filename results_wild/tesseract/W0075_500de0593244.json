@@ -1,0 +1,360 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "ARTIE\"S DELICATESSEN",
+  "2290 BROADWAY",
+  "New York, NY 10024",
+  "(212) 879-959",
+  "Server: Giovanna Station: 4",
+  "Order #: 68771 ===S*«éS TNE IN",
+  "Table: 41 Guests: 2",
+  "1 Supreme Burger 16.95",
+  "Medium",
+  "1 Pastrami Burger 15,25",
+  "3 Medium",
+  "1 fountain soda 2.25",
+  "Club soda",
+  "4 2 Coffee SMALL 4.50",
+  "4 1 SAMADAMS 5.50",
+  "‘SUB TOTAL: 44.45",
+  "; SALES TAX (8.875%): 3.95",
+  "H xo)",
+  "idet #: 9 « eS",
+  "3/15/2017 7:43:29 PM uf I",
+  "THANK YOU! 5 ‘",
+  "ape | (ae 4"
+ ],
+ "tokens": [
+  {
+   "text": "ARTIE\"S",
+   "conf": 0.21
+  },
+  {
+   "text": "DELICATESSEN",
+   "conf": 0.93
+  },
+  {
+   "text": "2290",
+   "conf": 0.62
+  },
+  {
+   "text": "BROADWAY",
+   "conf": 0.62
+  },
+  {
+   "text": "New",
+   "conf": 0.92
+  },
+  {
+   "text": "York,",
+   "conf": 0.96
+  },
+  {
+   "text": "NY",
+   "conf": 0.9
+  },
+  {
+   "text": "10024",
+   "conf": 0.9
+  },
+  {
+   "text": "(212)",
+   "conf": 0.93
+  },
+  {
+   "text": "879-959",
+   "conf": 0.38
+  },
+  {
+   "text": "Server:",
+   "conf": 0.96
+  },
+  {
+   "text": "Giovanna",
+   "conf": 0.96
+  },
+  {
+   "text": "Station:",
+   "conf": 0.92
+  },
+  {
+   "text": "4",
+   "conf": 0.96
+  },
+  {
+   "text": "Order",
+   "conf": 0.92
+  },
+  {
+   "text": "#:",
+   "conf": 0.9
+  },
+  {
+   "text": "68771",
+   "conf": 0.25
+  },
+  {
+   "text": "===S*«éS",
+   "conf": 0.0
+  },
+  {
+   "text": "TNE",
+   "conf": 0.29
+  },
+  {
+   "text": "IN",
+   "conf": 0.56
+  },
+  {
+   "text": "Table:",
+   "conf": 0.96
+  },
+  {
+   "text": "41",
+   "conf": 0.95
+  },
+  {
+   "text": "Guests:",
+   "conf": 0.95
+  },
+  {
+   "text": "2",
+   "conf": 0.95
+  },
+  {
+   "text": "1",
+   "conf": 0.93
+  },
+  {
+   "text": "Supreme",
+   "conf": 0.93
+  },
+  {
+   "text": "Burger",
+   "conf": 0.96
+  },
+  {
+   "text": "16.95",
+   "conf": 0.88
+  },
+  {
+   "text": "Medium",
+   "conf": 0.77
+  },
+  {
+   "text": "1",
+   "conf": 0.93
+  },
+  {
+   "text": "Pastrami",
+   "conf": 0.93
+  },
+  {
+   "text": "Burger",
+   "conf": 0.96
+  },
+  {
+   "text": "15,25",
+   "conf": 0.89
+  },
+  {
+   "text": "3",
+   "conf": 0.57
+  },
+  {
+   "text": "Medium",
+   "conf": 0.77
+  },
+  {
+   "text": "1",
+   "conf": 0.94
+  },
+  {
+   "text": "fountain",
+   "conf": 0.93
+  },
+  {
+   "text": "soda",
+   "conf": 0.93
+  },
+  {
+   "text": "2.25",
+   "conf": 0.64
+  },
+  {
+   "text": "Club",
+   "conf": 0.95
+  },
+  {
+   "text": "soda",
+   "conf": 0.95
+  },
+  {
+   "text": "4",
+   "conf": 0.68
+  },
+  {
+   "text": "2",
+   "conf": 0.96
+  },
+  {
+   "text": "Coffee",
+   "conf": 0.92
+  },
+  {
+   "text": "SMALL",
+   "conf": 0.95
+  },
+  {
+   "text": "4.50",
+   "conf": 0.92
+  },
+  {
+   "text": "4",
+   "conf": 0.56
+  },
+  {
+   "text": "1",
+   "conf": 0.82
+  },
+  {
+   "text": "SAMADAMS",
+   "conf": 0.33
+  },
+  {
+   "text": "5.50",
+   "conf": 0.91
+  },
+  {
+   "text": "‘SUB",
+   "conf": 0.24
+  },
+  {
+   "text": "TOTAL:",
+   "conf": 0.24
+  },
+  {
+   "text": "44.45",
+   "conf": 0.8
+  },
+  {
+   "text": ";",
+   "conf": 0.28
+  },
+  {
+   "text": "SALES",
+   "conf": 0.96
+  },
+  {
+   "text": "TAX",
+   "conf": 0.96
+  },
+  {
+   "text": "(8.875%):",
+   "conf": 0.92
+  },
+  {
+   "text": "3.95",
+   "conf": 0.88
+  },
+  {
+   "text": "H",
+   "conf": 0.17
+  },
+  {
+   "text": "xo)",
+   "conf": 0.47
+  },
+  {
+   "text": "idet",
+   "conf": 0.41
+  },
+  {
+   "text": "#:",
+   "conf": 0.72
+  },
+  {
+   "text": "9",
+   "conf": 0.21
+  },
+  {
+   "text": "«",
+   "conf": 0.82
+  },
+  {
+   "text": "eS",
+   "conf": 0.0
+  },
+  {
+   "text": "3/15/2017",
+   "conf": 0.89
+  },
+  {
+   "text": "7:43:29",
+   "conf": 0.88
+  },
+  {
+   "text": "PM",
+   "conf": 0.94
+  },
+  {
+   "text": "uf",
+   "conf": 0.56
+  },
+  {
+   "text": "I",
+   "conf": 0.38
+  },
+  {
+   "text": "THANK",
+   "conf": 0.83
+  },
+  {
+   "text": "YOU!",
+   "conf": 0.83
+  },
+  {
+   "text": "5",
+   "conf": 0.91
+  },
+  {
+   "text": "‘",
+   "conf": 0.58
+  },
+  {
+   "text": "ape",
+   "conf": 0.61
+  },
+  {
+   "text": "|",
+   "conf": 0.72
+  },
+  {
+   "text": "(ae",
+   "conf": 0.64
+  },
+  {
+   "text": "4",
+   "conf": 0.56
+  }
+ ],
+ "mean_conf": 0.7336,
+ "low_conf_share": 0.1923,
+ "latency_ms": 883,
+ "fields": {
+  "company": "ARTIE S DELICATESSEN",
+  "date": "2017-03-15",
+  "total": 44.45
+ },
+ "rule_reasons": [
+  "total_no_keyword_fallback_max"
+ ],
+ "total_candidates": [
+  2.25,
+  4.5,
+  5.5,
+  44.45,
+  3.95
+ ],
+ "key": "W0075_500de0593244"
+}

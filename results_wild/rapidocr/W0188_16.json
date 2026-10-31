@@ -1,0 +1,318 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "Win 1of5 prizes of200",
+  "in Morrisons vouchers!",
+  "Visitwwwmorrisonsislistening.co.uk",
+  "andtell ushowwedid today.",
+  "Ybu will need thisreceipt to erter.",
+  "Morrisons",
+  "Horrisons Supernarkets plc BD3 7DL",
+  "Hadleigh-01473827021",
+  "Nanager :David Weynan",
+  "UAT No.343475355",
+  "QTY DESCRIPTION PRICE AMOUNT",
+  "1NWHOLEMEAL LOAF 0.50 0.50F",
+  "1HDOUBLE CREAM 0.84 F0.84D",
+  "1CARROTS 1KG 0.47 0.47F",
+  "1NBROCCOLI 0.38 0.38F",
+  "BALANCE DUE 2.19",
+  "Card 2.19",
+  "PAYNENT",
+  "ATD ：A00000031010",
+  "ation Nane:Visa Credit",
+  "nber ：************0043",
+  "Jate ：0116",
+  "Issue Nunber ：02",
+  "Data Source :ICC",
+  "Herchant Nunber ：8763567",
+  "Terninal ID ：27868524",
+  "Transaction ID ：309873",
+  "Authorisation ：11-085257",
+  "Exp.Date ：0119",
+  "Verified by PIN",
+  "CHANGE 0.00",
+  "Number of itens: 4",
+  "*********",
+  "Today you could have earned 10 points",
+  "Our Match & Hore Terns and Conditions have changed",
+  "For more details visit uuu.norrisons.con",
+  "Your Survey Entry No:62004710170071",
+  "13/02/201611:16:170047101700710041",
+  "THANK YOU FOR SHOPPING",
+  "AT MORRISONS"
+ ],
+ "tokens": [
+  {
+   "text": "Win 1of5 prizes of200",
+   "conf": 0.9404208943957374
+  },
+  {
+   "text": "in Morrisons vouchers!",
+   "conf": 0.9545093856074593
+  },
+  {
+   "text": "Visitwwwmorrisonsislistening.co.uk",
+   "conf": 0.9646952152252197
+  },
+  {
+   "text": "andtell ushowwedid today.",
+   "conf": 0.950041229724884
+  },
+  {
+   "text": "Ybu will need thisreceipt to erter.",
+   "conf": 0.9054890087672642
+  },
+  {
+   "text": "Morrisons",
+   "conf": 0.9894207053714328
+  },
+  {
+   "text": "Horrisons Supernarkets plc BD3 7DL",
+   "conf": 0.943745378185721
+  },
+  {
+   "text": "Hadleigh-01473827021",
+   "conf": 0.9775479763746262
+  },
+  {
+   "text": "Nanager :David Weynan",
+   "conf": 0.9156714876492819
+  },
+  {
+   "text": "UAT No.343475355",
+   "conf": 0.9759833365678787
+  },
+  {
+   "text": "QTY DESCRIPTION",
+   "conf": 0.97127898534139
+  },
+  {
+   "text": "PRICE",
+   "conf": 0.9952147364616394
+  },
+  {
+   "text": "AMOUNT",
+   "conf": 0.9501335322856903
+  },
+  {
+   "text": "1NWHOLEMEAL LOAF",
+   "conf": 0.9213579632341862
+  },
+  {
+   "text": "0.50",
+   "conf": 0.9832250773906708
+  },
+  {
+   "text": "0.50F",
+   "conf": 0.9536742210388184
+  },
+  {
+   "text": "1HDOUBLE CREAM",
+   "conf": 0.9348345462765012
+  },
+  {
+   "text": "0.84",
+   "conf": 0.9819660186767578
+  },
+  {
+   "text": "F0.84D",
+   "conf": 0.8748952398697535
+  },
+  {
+   "text": "1CARROTS 1KG",
+   "conf": 0.9587063392003378
+  },
+  {
+   "text": "0.47",
+   "conf": 0.9845975935459137
+  },
+  {
+   "text": "0.47F",
+   "conf": 0.9693236470222473
+  },
+  {
+   "text": "1NBROCCOLI",
+   "conf": 0.979556679725647
+  },
+  {
+   "text": "0.38",
+   "conf": 0.9897070229053497
+  },
+  {
+   "text": "0.38F",
+   "conf": 0.9850205779075623
+  },
+  {
+   "text": "BALANCE DUE",
+   "conf": 0.9622229554436423
+  },
+  {
+   "text": "2.19",
+   "conf": 0.9949084669351578
+  },
+  {
+   "text": "Card",
+   "conf": 0.9604422599077225
+  },
+  {
+   "text": "2.19",
+   "conf": 0.997065857052803
+  },
+  {
+   "text": "PAYNENT",
+   "conf": 0.9208181159836906
+  },
+  {
+   "text": "ATD",
+   "conf": 0.7479350566864014
+  },
+  {
+   "text": "：A00000031010",
+   "conf": 0.8826225079022921
+  },
+  {
+   "text": "ation Nane:Visa Credit",
+   "conf": 0.9528402008793571
+  },
+  {
+   "text": "nber",
+   "conf": 0.9650659114122391
+  },
+  {
+   "text": "：************0043",
+   "conf": 0.9310524288345786
+  },
+  {
+   "text": "Jate",
+   "conf": 0.8340231031179428
+  },
+  {
+   "text": "：0116",
+   "conf": 0.8980853199958801
+  },
+  {
+   "text": "Issue Nunber",
+   "conf": 0.9581373979647955
+  },
+  {
+   "text": "：02",
+   "conf": 0.7912622392177582
+  },
+  {
+   "text": "Data Source",
+   "conf": 0.9692486362023787
+  },
+  {
+   "text": ":ICC",
+   "conf": 0.8581896126270294
+  },
+  {
+   "text": "Herchant Nunber",
+   "conf": 0.9568994601567586
+  },
+  {
+   "text": "：8763567",
+   "conf": 0.9557460397481918
+  },
+  {
+   "text": "Terninal ID",
+   "conf": 0.9074336778033864
+  },
+  {
+   "text": "：27868524",
+   "conf": 0.9685395359992981
+  },
+  {
+   "text": "Transaction ID",
+   "conf": 0.9573143422603607
+  },
+  {
+   "text": "：309873",
+   "conf": 0.9371986729758126
+  },
+  {
+   "text": "Authorisation",
+   "conf": 0.9788932800292969
+  },
+  {
+   "text": "：11-085257",
+   "conf": 0.9577119529247284
+  },
+  {
+   "text": "Exp.Date",
+   "conf": 0.9146366864442825
+  },
+  {
+   "text": "：0119",
+   "conf": 0.901064109802246
+  },
+  {
+   "text": "Verified by PIN",
+   "conf": 0.9704185605049134
+  },
+  {
+   "text": "CHANGE",
+   "conf": 0.9904559751351675
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9433883428573608
+  },
+  {
+   "text": "Number of itens:",
+   "conf": 0.9419837407767773
+  },
+  {
+   "text": "4",
+   "conf": 0.9982941746711731
+  },
+  {
+   "text": "*********",
+   "conf": 0.7941637436548868
+  },
+  {
+   "text": "Today you could have earned 10 points",
+   "conf": 0.9413156106665328
+  },
+  {
+   "text": "Our Match & Hore Terns and Conditions have changed",
+   "conf": 0.9445772325992584
+  },
+  {
+   "text": "For more details visit uuu.norrisons.con",
+   "conf": 0.9555673196911811
+  },
+  {
+   "text": "Your Survey Entry No:62004710170071",
+   "conf": 0.9851005962916783
+  },
+  {
+   "text": "13/02/201611:16:170047101700710041",
+   "conf": 0.99114049708142
+  },
+  {
+   "text": "THANK YOU FOR SHOPPING",
+   "conf": 0.9578502963889729
+  },
+  {
+   "text": "AT MORRISONS",
+   "conf": 0.9703467190265656
+  }
+ ],
+ "mean_conf": 0.9437,
+ "low_conf_share": 0.0,
+ "latency_ms": 4757,
+ "fields": {
+  "company": "IN MORRISONS VOUCHERS VISITWWWMORRISONSISLISTENING CO UK",
+  "date": "2016-02-13",
+  "total": 0.0
+ },
+ "rule_reasons": [
+  "total_no_keyword_fallback_max"
+ ],
+ "total_candidates": [
+  0.0
+ ],
+ "key": "W0188_16"
+}

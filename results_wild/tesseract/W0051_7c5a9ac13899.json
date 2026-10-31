@@ -1,0 +1,334 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "fe Sete aS hog 2",
+  "tee Ae hy ge ee",
+  "RRR aos fale be",
+  "he a",
+  "2, rae",
+  "* PINNACLES. * ae",
+  "; ag RESTAURANT & Xe",
+  "al? y ‘SEAHDUSES €",
+  "wa eu 01685 720708 ‘",
+  "iy OATE 14/03/2015 on b=",
+  "a co0/nwoo cHIPS $8.95",
+  "Les. COD/HADD CHIPS £6.95 *",
+  "iad TOTAL £13.90",
+  "Bh, CASH £20.00",
+  "Pas CHANGE £6.10 ‘",
+  "Bi ay ¥0.000041 REG 01 1 EAPLOVEE TIME 17:00",
+  "a",
+  "i PLEASE CALL AGAIN"
+ ],
+ "tokens": [
+  {
+   "text": "fe",
+   "conf": 0.56
+  },
+  {
+   "text": "Sete",
+   "conf": 0.47
+  },
+  {
+   "text": "aS",
+   "conf": 0.37
+  },
+  {
+   "text": "hog",
+   "conf": 0.2
+  },
+  {
+   "text": "2",
+   "conf": 0.48
+  },
+  {
+   "text": "tee",
+   "conf": 0.12
+  },
+  {
+   "text": "Ae",
+   "conf": 0.03
+  },
+  {
+   "text": "hy",
+   "conf": 0.23
+  },
+  {
+   "text": "ge",
+   "conf": 0.24
+  },
+  {
+   "text": "ee",
+   "conf": 0.26
+  },
+  {
+   "text": "RRR",
+   "conf": 0.17
+  },
+  {
+   "text": "aos",
+   "conf": 0.2
+  },
+  {
+   "text": "fale",
+   "conf": 0.18
+  },
+  {
+   "text": "be",
+   "conf": 0.2
+  },
+  {
+   "text": "he",
+   "conf": 0.27
+  },
+  {
+   "text": "a",
+   "conf": 0.4
+  },
+  {
+   "text": "2,",
+   "conf": 0.3
+  },
+  {
+   "text": "rae",
+   "conf": 0.1
+  },
+  {
+   "text": "*",
+   "conf": 0.33
+  },
+  {
+   "text": "PINNACLES.",
+   "conf": 0.66
+  },
+  {
+   "text": "*",
+   "conf": 0.0
+  },
+  {
+   "text": "ae",
+   "conf": 0.1
+  },
+  {
+   "text": ";",
+   "conf": 0.24
+  },
+  {
+   "text": "ag",
+   "conf": 0.36
+  },
+  {
+   "text": "RESTAURANT",
+   "conf": 0.96
+  },
+  {
+   "text": "&",
+   "conf": 0.28
+  },
+  {
+   "text": "Xe",
+   "conf": 0.15
+  },
+  {
+   "text": "al?",
+   "conf": 0.21
+  },
+  {
+   "text": "y",
+   "conf": 0.21
+  },
+  {
+   "text": "‘SEAHDUSES",
+   "conf": 0.44
+  },
+  {
+   "text": "€",
+   "conf": 0.28
+  },
+  {
+   "text": "wa",
+   "conf": 0.08
+  },
+  {
+   "text": "eu",
+   "conf": 0.48
+  },
+  {
+   "text": "01685",
+   "conf": 0.85
+  },
+  {
+   "text": "720708",
+   "conf": 0.9
+  },
+  {
+   "text": "‘",
+   "conf": 0.0
+  },
+  {
+   "text": "iy",
+   "conf": 0.28
+  },
+  {
+   "text": "OATE",
+   "conf": 0.75
+  },
+  {
+   "text": "14/03/2015",
+   "conf": 0.81
+  },
+  {
+   "text": "on",
+   "conf": 0.38
+  },
+  {
+   "text": "b=",
+   "conf": 0.06
+  },
+  {
+   "text": "a",
+   "conf": 0.33
+  },
+  {
+   "text": "co0/nwoo",
+   "conf": 0.0
+  },
+  {
+   "text": "cHIPS",
+   "conf": 0.84
+  },
+  {
+   "text": "$8.95",
+   "conf": 0.47
+  },
+  {
+   "text": "Les.",
+   "conf": 0.26
+  },
+  {
+   "text": "COD/HADD",
+   "conf": 0.14
+  },
+  {
+   "text": "CHIPS",
+   "conf": 0.9
+  },
+  {
+   "text": "£6.95",
+   "conf": 0.64
+  },
+  {
+   "text": "*",
+   "conf": 0.1
+  },
+  {
+   "text": "iad",
+   "conf": 0.48
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.95
+  },
+  {
+   "text": "£13.90",
+   "conf": 0.95
+  },
+  {
+   "text": "Bh,",
+   "conf": 0.07
+  },
+  {
+   "text": "CASH",
+   "conf": 0.94
+  },
+  {
+   "text": "£20.00",
+   "conf": 0.94
+  },
+  {
+   "text": "Pas",
+   "conf": 0.52
+  },
+  {
+   "text": "CHANGE",
+   "conf": 0.96
+  },
+  {
+   "text": "£6.10",
+   "conf": 0.95
+  },
+  {
+   "text": "‘",
+   "conf": 0.61
+  },
+  {
+   "text": "Bi",
+   "conf": 0.24
+  },
+  {
+   "text": "ay",
+   "conf": 0.2
+  },
+  {
+   "text": "¥0.000041",
+   "conf": 0.48
+  },
+  {
+   "text": "REG",
+   "conf": 0.85
+  },
+  {
+   "text": "01",
+   "conf": 0.48
+  },
+  {
+   "text": "1",
+   "conf": 0.9
+  },
+  {
+   "text": "EAPLOVEE",
+   "conf": 0.0
+  },
+  {
+   "text": "TIME",
+   "conf": 0.72
+  },
+  {
+   "text": "17:00",
+   "conf": 0.94
+  },
+  {
+   "text": "a",
+   "conf": 0.0
+  },
+  {
+   "text": "i",
+   "conf": 0.33
+  },
+  {
+   "text": "PLEASE",
+   "conf": 0.95
+  },
+  {
+   "text": "CALL",
+   "conf": 0.96
+  },
+  {
+   "text": "AGAIN",
+   "conf": 0.96
+  }
+ ],
+ "mean_conf": 0.4412,
+ "low_conf_share": 0.6622,
+ "latency_ms": 979,
+ "fields": {
+  "company": "AG RESTAURANT XE",
+  "date": "2015-03-14",
+  "total": 13.9
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  13.9
+ ],
+ "key": "W0051_7c5a9ac13899"
+}

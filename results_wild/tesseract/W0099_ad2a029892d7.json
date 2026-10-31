@@ -1,0 +1,217 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "a Ber ghotel ‘",
+  "| Grosse Scheidegg i",
+  "oe Familie R. Muller ho",
+  "a oe",
+  "| 2xLatte Macchiato a 4.50 CHF 9,00 oo",
+  "otal : 5 a",
+  ". Entspricht in Euro 36.33 EUR a",
+  "\"| Es bediente Sie: Ursula a",
+  "| E-mail: grossescheidegg@b luewin. ch i"
+ ],
+ "tokens": [
+  {
+   "text": "a",
+   "conf": 0.13
+  },
+  {
+   "text": "Ber",
+   "conf": 0.59
+  },
+  {
+   "text": "ghotel",
+   "conf": 0.16
+  },
+  {
+   "text": "‘",
+   "conf": 0.24
+  },
+  {
+   "text": "|",
+   "conf": 0.4
+  },
+  {
+   "text": "Grosse",
+   "conf": 0.93
+  },
+  {
+   "text": "Scheidegg",
+   "conf": 0.91
+  },
+  {
+   "text": "i",
+   "conf": 0.15
+  },
+  {
+   "text": "oe",
+   "conf": 0.23
+  },
+  {
+   "text": "Familie",
+   "conf": 0.93
+  },
+  {
+   "text": "R.",
+   "conf": 0.85
+  },
+  {
+   "text": "Muller",
+   "conf": 0.78
+  },
+  {
+   "text": "ho",
+   "conf": 0.31
+  },
+  {
+   "text": "a",
+   "conf": 0.0
+  },
+  {
+   "text": "oe",
+   "conf": 0.32
+  },
+  {
+   "text": "|",
+   "conf": 0.33
+  },
+  {
+   "text": "2xLatte",
+   "conf": 0.6
+  },
+  {
+   "text": "Macchiato",
+   "conf": 0.91
+  },
+  {
+   "text": "a",
+   "conf": 0.8
+  },
+  {
+   "text": "4.50",
+   "conf": 0.88
+  },
+  {
+   "text": "CHF",
+   "conf": 0.83
+  },
+  {
+   "text": "9,00",
+   "conf": 0.76
+  },
+  {
+   "text": "oo",
+   "conf": 0.01
+  },
+  {
+   "text": "otal",
+   "conf": 0.89
+  },
+  {
+   "text": ":",
+   "conf": 0.47
+  },
+  {
+   "text": "5",
+   "conf": 0.28
+  },
+  {
+   "text": "a",
+   "conf": 0.21
+  },
+  {
+   "text": ".",
+   "conf": 0.0
+  },
+  {
+   "text": "Entspricht",
+   "conf": 0.9
+  },
+  {
+   "text": "in",
+   "conf": 0.96
+  },
+  {
+   "text": "Euro",
+   "conf": 0.83
+  },
+  {
+   "text": "36.33",
+   "conf": 0.71
+  },
+  {
+   "text": "EUR",
+   "conf": 0.93
+  },
+  {
+   "text": "a",
+   "conf": 0.11
+  },
+  {
+   "text": "\"|",
+   "conf": 0.32
+  },
+  {
+   "text": "Es",
+   "conf": 0.9
+  },
+  {
+   "text": "bediente",
+   "conf": 0.9
+  },
+  {
+   "text": "Sie:",
+   "conf": 0.96
+  },
+  {
+   "text": "Ursula",
+   "conf": 0.96
+  },
+  {
+   "text": "a",
+   "conf": 0.29
+  },
+  {
+   "text": "|",
+   "conf": 0.35
+  },
+  {
+   "text": "E-mail:",
+   "conf": 0.92
+  },
+  {
+   "text": "grossescheidegg@b",
+   "conf": 0.64
+  },
+  {
+   "text": "luewin.",
+   "conf": 0.79
+  },
+  {
+   "text": "ch",
+   "conf": 0.96
+  },
+  {
+   "text": "i",
+   "conf": 0.32
+  }
+ ],
+ "mean_conf": 0.5793,
+ "low_conf_share": 0.4348,
+ "latency_ms": 1415,
+ "fields": {
+  "company": "A BER GHOTEL",
+  "date": null,
+  "total": 36.33
+ },
+ "rule_reasons": [
+  "date_not_found",
+  "total_no_keyword_fallback_max"
+ ],
+ "total_candidates": [
+  4.5,
+  36.33
+ ],
+ "key": "W0099_ad2a029892d7"
+}

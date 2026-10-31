@@ -1,0 +1,360 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "if TRADER JOE'S",
+  "269 Prospect",
+  "San Jose CA 95129",
+  "Store #062 - (408) 448-5085",
+  "‘OPEN 8:00AM TO 9:00PH DATLY",
+  "NUT WALNUT PIECES POINDEXTER 6.99",
+  "OLIVES PITTED KAL IN XvOO 2.99",
+  "A-APPLE EACH PINK LADY. 4.83",
+  "TEA _@ 0,69/EA",
+  "‘SUBTOTAL $14.81",
+  "TOTAL $14.81",
+  "A al",
+  "11/14/2015 203030",
+  "MID: “BS4062",
+  "TID: 01",
+  "i 078483",
+  "PURCHASE",
+  "AMERICAN EXPRESS",
+  "CARD #: XXXKAXXKK 1007",
+  "Chip Read",
+  "Total: USD$ 14.81",
+  "APPROVED BY ISSUER",
+  "ode: Issuer",
+  "AID: A000000025010801",
+  "TVR: 000008000",
+  "TAD: 06720103602002",
+  "| TSI: F800"
+ ],
+ "tokens": [
+  {
+   "text": "if",
+   "conf": 0.41
+  },
+  {
+   "text": "TRADER",
+   "conf": 0.28
+  },
+  {
+   "text": "JOE'S",
+   "conf": 0.19
+  },
+  {
+   "text": "269",
+   "conf": 0.72
+  },
+  {
+   "text": "Prospect",
+   "conf": 0.93
+  },
+  {
+   "text": "San",
+   "conf": 0.84
+  },
+  {
+   "text": "Jose",
+   "conf": 0.84
+  },
+  {
+   "text": "CA",
+   "conf": 0.87
+  },
+  {
+   "text": "95129",
+   "conf": 0.87
+  },
+  {
+   "text": "Store",
+   "conf": 0.91
+  },
+  {
+   "text": "#062",
+   "conf": 0.85
+  },
+  {
+   "text": "-",
+   "conf": 0.89
+  },
+  {
+   "text": "(408)",
+   "conf": 0.96
+  },
+  {
+   "text": "448-5085",
+   "conf": 0.78
+  },
+  {
+   "text": "‘OPEN",
+   "conf": 0.81
+  },
+  {
+   "text": "8:00AM",
+   "conf": 0.85
+  },
+  {
+   "text": "TO",
+   "conf": 0.79
+  },
+  {
+   "text": "9:00PH",
+   "conf": 0.79
+  },
+  {
+   "text": "DATLY",
+   "conf": 0.86
+  },
+  {
+   "text": "NUT",
+   "conf": 0.91
+  },
+  {
+   "text": "WALNUT",
+   "conf": 0.91
+  },
+  {
+   "text": "PIECES",
+   "conf": 0.88
+  },
+  {
+   "text": "POINDEXTER",
+   "conf": 0.94
+  },
+  {
+   "text": "6.99",
+   "conf": 0.72
+  },
+  {
+   "text": "OLIVES",
+   "conf": 0.96
+  },
+  {
+   "text": "PITTED",
+   "conf": 0.91
+  },
+  {
+   "text": "KAL",
+   "conf": 0.81
+  },
+  {
+   "text": "IN",
+   "conf": 0.86
+  },
+  {
+   "text": "XvOO",
+   "conf": 0.41
+  },
+  {
+   "text": "2.99",
+   "conf": 0.88
+  },
+  {
+   "text": "A-APPLE",
+   "conf": 0.9
+  },
+  {
+   "text": "EACH",
+   "conf": 0.96
+  },
+  {
+   "text": "PINK",
+   "conf": 0.93
+  },
+  {
+   "text": "LADY.",
+   "conf": 0.94
+  },
+  {
+   "text": "4.83",
+   "conf": 0.86
+  },
+  {
+   "text": "TEA",
+   "conf": 0.43
+  },
+  {
+   "text": "_@",
+   "conf": 0.43
+  },
+  {
+   "text": "0,69/EA",
+   "conf": 0.73
+  },
+  {
+   "text": "‘SUBTOTAL",
+   "conf": 0.87
+  },
+  {
+   "text": "$14.81",
+   "conf": 0.9
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.96
+  },
+  {
+   "text": "$14.81",
+   "conf": 0.8
+  },
+  {
+   "text": "A",
+   "conf": 0.17
+  },
+  {
+   "text": "al",
+   "conf": 0.33
+  },
+  {
+   "text": "11/14/2015",
+   "conf": 0.5
+  },
+  {
+   "text": "203030",
+   "conf": 0.0
+  },
+  {
+   "text": "MID:",
+   "conf": 0.87
+  },
+  {
+   "text": "“BS4062",
+   "conf": 0.0
+  },
+  {
+   "text": "TID:",
+   "conf": 0.94
+  },
+  {
+   "text": "01",
+   "conf": 0.38
+  },
+  {
+   "text": "i",
+   "conf": 0.18
+  },
+  {
+   "text": "078483",
+   "conf": 0.73
+  },
+  {
+   "text": "PURCHASE",
+   "conf": 0.93
+  },
+  {
+   "text": "AMERICAN",
+   "conf": 0.93
+  },
+  {
+   "text": "EXPRESS",
+   "conf": 0.94
+  },
+  {
+   "text": "CARD",
+   "conf": 0.92
+  },
+  {
+   "text": "#:",
+   "conf": 0.78
+  },
+  {
+   "text": "XXXKAXXKK",
+   "conf": 0.0
+  },
+  {
+   "text": "1007",
+   "conf": 0.43
+  },
+  {
+   "text": "Chip",
+   "conf": 0.93
+  },
+  {
+   "text": "Read",
+   "conf": 0.93
+  },
+  {
+   "text": "Total:",
+   "conf": 0.94
+  },
+  {
+   "text": "USD$",
+   "conf": 0.67
+  },
+  {
+   "text": "14.81",
+   "conf": 0.85
+  },
+  {
+   "text": "APPROVED",
+   "conf": 0.93
+  },
+  {
+   "text": "BY",
+   "conf": 0.69
+  },
+  {
+   "text": "ISSUER",
+   "conf": 0.69
+  },
+  {
+   "text": "ode:",
+   "conf": 0.39
+  },
+  {
+   "text": "Issuer",
+   "conf": 0.78
+  },
+  {
+   "text": "AID:",
+   "conf": 0.89
+  },
+  {
+   "text": "A000000025010801",
+   "conf": 0.2
+  },
+  {
+   "text": "TVR:",
+   "conf": 0.9
+  },
+  {
+   "text": "000008000",
+   "conf": 0.74
+  },
+  {
+   "text": "TAD:",
+   "conf": 0.91
+  },
+  {
+   "text": "06720103602002",
+   "conf": 0.77
+  },
+  {
+   "text": "|",
+   "conf": 0.33
+  },
+  {
+   "text": "TSI:",
+   "conf": 0.88
+  },
+  {
+   "text": "F800",
+   "conf": 0.5
+  }
+ ],
+ "mean_conf": 0.7217,
+ "low_conf_share": 0.2179,
+ "latency_ms": 438,
+ "fields": {
+  "company": "STORE 062 448 5085",
+  "date": "2015-11-14",
+  "total": 14.81
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  14.81,
+  14.81
+ ],
+ "key": "W0007_8478b4dc8864"
+}

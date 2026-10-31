@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.6-flash",
+ "provider": "gemini",
+ "raw_text": "{\"vendor\": \"Nando's Chickenland Malaysia Sdn. Bhd.\", \"date\": \"2015-05-17\", \"subtotal\": 55.0, \"tax\": 9.13, \"tip\": null, \"discount\": null, \"total\": 64.15, \"currency\": \"MYR\", \"confidence\": 0.95, \"notes\": \"Tax includes Serv Chrg 10% (5.50) and GST 6% (3.63); total includes 0.02 rounding adjustment.\"}",
+ "data": {
+  "vendor": "Nando's Chickenland Malaysia Sdn. Bhd.",
+  "date": "2015-05-17",
+  "subtotal": 55.0,
+  "tax": 9.13,
+  "tip": null,
+  "discount": null,
+  "total": 64.15,
+  "currency": "MYR",
+  "confidence": 0.95,
+  "notes": "Tax includes Serv Chrg 10% (5.50) and GST 6% (3.63); total includes 0.02 rounding adjustment."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1469,
+  "output_tokens": 126,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.001574,
+ "latency_ms": 13432,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.6-flash",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.6-flash"
+ ],
+ "key": "W0003_a43852905f43"
+}

@@ -1,0 +1,269 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "hai village.",
+  "ANS Lets hve Sante E",
+  "Tusa, oc 47",
+  "2017 Teen",
+  "Checks 6st reste: 1",
+  "06/17/2018 062094",
+  "1 FR thet Special a",
+  "1 AS Satay 6",
+  "1 FRR Row Pad apron 9.08 :",
+  "1M Pat Tat ae",
+  "1 Teed Tea 20",
+  "Subtotal BH",
+  "Tax 3.32",
+  "Total $42.28",
+  "TP AMCUNT =",
+  "“foun Satisfaction is Thai Village",
+  "Rint ©"
+ ],
+ "tokens": [
+  {
+   "text": "hai",
+   "conf": 0.56
+  },
+  {
+   "text": "village.",
+   "conf": 0.47
+  },
+  {
+   "text": "ANS",
+   "conf": 0.15
+  },
+  {
+   "text": "Lets",
+   "conf": 0.36
+  },
+  {
+   "text": "hve",
+   "conf": 0.5
+  },
+  {
+   "text": "Sante",
+   "conf": 0.37
+  },
+  {
+   "text": "E",
+   "conf": 0.76
+  },
+  {
+   "text": "Tusa,",
+   "conf": 0.18
+  },
+  {
+   "text": "oc",
+   "conf": 0.75
+  },
+  {
+   "text": "47",
+   "conf": 0.26
+  },
+  {
+   "text": "2017",
+   "conf": 0.73
+  },
+  {
+   "text": "Teen",
+   "conf": 0.52
+  },
+  {
+   "text": "Checks",
+   "conf": 0.57
+  },
+  {
+   "text": "6st",
+   "conf": 0.0
+  },
+  {
+   "text": "reste:",
+   "conf": 0.39
+  },
+  {
+   "text": "1",
+   "conf": 0.8
+  },
+  {
+   "text": "06/17/2018",
+   "conf": 0.66
+  },
+  {
+   "text": "062094",
+   "conf": 0.47
+  },
+  {
+   "text": "1",
+   "conf": 0.51
+  },
+  {
+   "text": "FR",
+   "conf": 0.0
+  },
+  {
+   "text": "thet",
+   "conf": 0.61
+  },
+  {
+   "text": "Special",
+   "conf": 0.71
+  },
+  {
+   "text": "a",
+   "conf": 0.32
+  },
+  {
+   "text": "1",
+   "conf": 0.59
+  },
+  {
+   "text": "AS",
+   "conf": 0.3
+  },
+  {
+   "text": "Satay",
+   "conf": 0.76
+  },
+  {
+   "text": "6",
+   "conf": 0.31
+  },
+  {
+   "text": "1",
+   "conf": 0.45
+  },
+  {
+   "text": "FRR",
+   "conf": 0.5
+  },
+  {
+   "text": "Row",
+   "conf": 0.5
+  },
+  {
+   "text": "Pad",
+   "conf": 0.76
+  },
+  {
+   "text": "apron",
+   "conf": 0.37
+  },
+  {
+   "text": "9.08",
+   "conf": 0.37
+  },
+  {
+   "text": ":",
+   "conf": 0.0
+  },
+  {
+   "text": "1M",
+   "conf": 0.18
+  },
+  {
+   "text": "Pat",
+   "conf": 0.18
+  },
+  {
+   "text": "Tat",
+   "conf": 0.53
+  },
+  {
+   "text": "ae",
+   "conf": 0.28
+  },
+  {
+   "text": "1",
+   "conf": 0.54
+  },
+  {
+   "text": "Teed",
+   "conf": 0.55
+  },
+  {
+   "text": "Tea",
+   "conf": 0.89
+  },
+  {
+   "text": "20",
+   "conf": 0.78
+  },
+  {
+   "text": "Subtotal",
+   "conf": 0.74
+  },
+  {
+   "text": "BH",
+   "conf": 0.51
+  },
+  {
+   "text": "Tax",
+   "conf": 0.79
+  },
+  {
+   "text": "3.32",
+   "conf": 0.56
+  },
+  {
+   "text": "Total",
+   "conf": 0.96
+  },
+  {
+   "text": "$42.28",
+   "conf": 0.81
+  },
+  {
+   "text": "TP",
+   "conf": 0.51
+  },
+  {
+   "text": "AMCUNT",
+   "conf": 0.38
+  },
+  {
+   "text": "=",
+   "conf": 0.74
+  },
+  {
+   "text": "“foun",
+   "conf": 0.49
+  },
+  {
+   "text": "Satisfaction",
+   "conf": 0.12
+  },
+  {
+   "text": "is",
+   "conf": 0.93
+  },
+  {
+   "text": "Thai",
+   "conf": 0.94
+  },
+  {
+   "text": "Village",
+   "conf": 0.0
+  },
+  {
+   "text": "Rint",
+   "conf": 0.14
+  },
+  {
+   "text": "©",
+   "conf": 0.25
+  }
+ ],
+ "mean_conf": 0.489,
+ "low_conf_share": 0.4483,
+ "latency_ms": 413,
+ "fields": {
+  "company": "HAI VILLAGE",
+  "date": "2018-06-17",
+  "total": 42.28
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  42.28
+ ],
+ "key": "W0060_1f0bb6cc516b"
+}

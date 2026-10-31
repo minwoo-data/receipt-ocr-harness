@@ -1,0 +1,702 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "HON HWA HARDWARE TRADING",
+  "Campany Reg. Na, : 001056194X",
+  "NO 37, JALAN MANIS 7, TAMAN SEGAR,",
+  "56100 CHERAS, KUALA LUMPUR,",
+  "+603-91 30 2672",
+  "GST Reg : 001125220352",
+  "TAX INVOICE",
+  "CB#: 69158 08/02/2017 3:43:01 PM",
+  "M# : C1-0",
+  "Cashier : cash3 -",
+  "Oly Description Price Tofal(RM,",
+  "2 ¥ TOWEL ROD 6.00 12.00 SR",
+  "BRACKET(END)",
+  "2 3/4\" TOWEL ROD 400 98.00SR",
+  "BRACKET",
+  "5 3/4’TOWEL ROD 4.00 20.00SR",
+  "BRACKET(END)",
+  "4 3/4\"TOWEL ROD §50 2200SR _",
+  "BRACKET(ROUND) ,",
+  "1 26MMX1IOWALLPLUG 3.40 3.50SR",
+  "1 SANDFLEX SAW 450 4.50SR",
+  "BLADE 18T",
+  "1 SCREW 7.00 7.00SR",
+  "5 3/4\" V BRACKET 150 7.50SR",
+  "6 1\" SSTEEL ROD 15.80 94.80SR",
+  "tem Discount 0.00",
+  "17 3/4\" ALUMINIUM ROD §.80 98.60SR",
+  "44 Type: 10 Total 277.90",
+  "discount: 0.90",
+  "Rounding Ag) 800",
+  "Total Inclusive GST: 277.00",
+  "CASH 277.00",
+  "GST Summary",
+  "— Code % Net Amt GST Total(RM)",
+  "SR SR 261.32 16.68 277.00",
+  "Total 261.32 15.68 277.00",
+  "Thank you ! & Please come again!!!",
+  "Goods sold are not returnable for refund or exchange |"
+ ],
+ "tokens": [
+  {
+   "text": "HON",
+   "conf": 0.96
+  },
+  {
+   "text": "HWA",
+   "conf": 0.96
+  },
+  {
+   "text": "HARDWARE",
+   "conf": 0.96
+  },
+  {
+   "text": "TRADING",
+   "conf": 0.95
+  },
+  {
+   "text": "Campany",
+   "conf": 0.85
+  },
+  {
+   "text": "Reg.",
+   "conf": 0.86
+  },
+  {
+   "text": "Na,",
+   "conf": 0.82
+  },
+  {
+   "text": ":",
+   "conf": 0.27
+  },
+  {
+   "text": "001056194X",
+   "conf": 0.53
+  },
+  {
+   "text": "NO",
+   "conf": 0.96
+  },
+  {
+   "text": "37,",
+   "conf": 0.95
+  },
+  {
+   "text": "JALAN",
+   "conf": 0.93
+  },
+  {
+   "text": "MANIS",
+   "conf": 0.93
+  },
+  {
+   "text": "7,",
+   "conf": 0.9
+  },
+  {
+   "text": "TAMAN",
+   "conf": 0.9
+  },
+  {
+   "text": "SEGAR,",
+   "conf": 0.92
+  },
+  {
+   "text": "56100",
+   "conf": 0.79
+  },
+  {
+   "text": "CHERAS,",
+   "conf": 0.9
+  },
+  {
+   "text": "KUALA",
+   "conf": 0.96
+  },
+  {
+   "text": "LUMPUR,",
+   "conf": 0.82
+  },
+  {
+   "text": "+603-91",
+   "conf": 0.69
+  },
+  {
+   "text": "30",
+   "conf": 0.96
+  },
+  {
+   "text": "2672",
+   "conf": 0.96
+  },
+  {
+   "text": "GST",
+   "conf": 0.96
+  },
+  {
+   "text": "Reg",
+   "conf": 0.93
+  },
+  {
+   "text": ":",
+   "conf": 0.92
+  },
+  {
+   "text": "001125220352",
+   "conf": 0.96
+  },
+  {
+   "text": "TAX",
+   "conf": 0.93
+  },
+  {
+   "text": "INVOICE",
+   "conf": 0.93
+  },
+  {
+   "text": "CB#:",
+   "conf": 0.9
+  },
+  {
+   "text": "69158",
+   "conf": 0.85
+  },
+  {
+   "text": "08/02/2017",
+   "conf": 0.96
+  },
+  {
+   "text": "3:43:01",
+   "conf": 0.96
+  },
+  {
+   "text": "PM",
+   "conf": 0.96
+  },
+  {
+   "text": "M#",
+   "conf": 0.86
+  },
+  {
+   "text": ":",
+   "conf": 0.75
+  },
+  {
+   "text": "C1-0",
+   "conf": 0.75
+  },
+  {
+   "text": "Cashier",
+   "conf": 0.9
+  },
+  {
+   "text": ":",
+   "conf": 0.87
+  },
+  {
+   "text": "cash3",
+   "conf": 0.78
+  },
+  {
+   "text": "-",
+   "conf": 0.89
+  },
+  {
+   "text": "Oly",
+   "conf": 0.91
+  },
+  {
+   "text": "Description",
+   "conf": 0.75
+  },
+  {
+   "text": "Price",
+   "conf": 0.55
+  },
+  {
+   "text": "Tofal(RM,",
+   "conf": 0.29
+  },
+  {
+   "text": "2",
+   "conf": 0.73
+  },
+  {
+   "text": "¥",
+   "conf": 0.63
+  },
+  {
+   "text": "TOWEL",
+   "conf": 0.94
+  },
+  {
+   "text": "ROD",
+   "conf": 0.94
+  },
+  {
+   "text": "6.00",
+   "conf": 0.93
+  },
+  {
+   "text": "12.00",
+   "conf": 0.76
+  },
+  {
+   "text": "SR",
+   "conf": 0.76
+  },
+  {
+   "text": "BRACKET(END)",
+   "conf": 0.9
+  },
+  {
+   "text": "2",
+   "conf": 0.96
+  },
+  {
+   "text": "3/4\"",
+   "conf": 0.94
+  },
+  {
+   "text": "TOWEL",
+   "conf": 0.95
+  },
+  {
+   "text": "ROD",
+   "conf": 0.95
+  },
+  {
+   "text": "400",
+   "conf": 0.91
+  },
+  {
+   "text": "98.00SR",
+   "conf": 0.16
+  },
+  {
+   "text": "BRACKET",
+   "conf": 0.96
+  },
+  {
+   "text": "5",
+   "conf": 0.91
+  },
+  {
+   "text": "3/4’TOWEL",
+   "conf": 0.15
+  },
+  {
+   "text": "ROD",
+   "conf": 0.96
+  },
+  {
+   "text": "4.00",
+   "conf": 0.89
+  },
+  {
+   "text": "20.00SR",
+   "conf": 0.89
+  },
+  {
+   "text": "BRACKET(END)",
+   "conf": 0.91
+  },
+  {
+   "text": "4",
+   "conf": 0.9
+  },
+  {
+   "text": "3/4\"TOWEL",
+   "conf": 0.8
+  },
+  {
+   "text": "ROD",
+   "conf": 0.95
+  },
+  {
+   "text": "§50",
+   "conf": 0.8
+  },
+  {
+   "text": "2200SR",
+   "conf": 0.7
+  },
+  {
+   "text": "_",
+   "conf": 0.02
+  },
+  {
+   "text": "BRACKET(ROUND)",
+   "conf": 0.89
+  },
+  {
+   "text": ",",
+   "conf": 0.0
+  },
+  {
+   "text": "1",
+   "conf": 0.86
+  },
+  {
+   "text": "26MMX1IOWALLPLUG",
+   "conf": 0.1
+  },
+  {
+   "text": "3.40",
+   "conf": 0.89
+  },
+  {
+   "text": "3.50SR",
+   "conf": 0.85
+  },
+  {
+   "text": "1",
+   "conf": 0.93
+  },
+  {
+   "text": "SANDFLEX",
+   "conf": 0.92
+  },
+  {
+   "text": "SAW",
+   "conf": 0.95
+  },
+  {
+   "text": "450",
+   "conf": 0.86
+  },
+  {
+   "text": "4.50SR",
+   "conf": 0.82
+  },
+  {
+   "text": "BLADE",
+   "conf": 0.93
+  },
+  {
+   "text": "18T",
+   "conf": 0.91
+  },
+  {
+   "text": "1",
+   "conf": 0.95
+  },
+  {
+   "text": "SCREW",
+   "conf": 0.95
+  },
+  {
+   "text": "7.00",
+   "conf": 0.71
+  },
+  {
+   "text": "7.00SR",
+   "conf": 0.71
+  },
+  {
+   "text": "5",
+   "conf": 0.63
+  },
+  {
+   "text": "3/4\"",
+   "conf": 0.77
+  },
+  {
+   "text": "V",
+   "conf": 0.78
+  },
+  {
+   "text": "BRACKET",
+   "conf": 0.96
+  },
+  {
+   "text": "150",
+   "conf": 0.9
+  },
+  {
+   "text": "7.50SR",
+   "conf": 0.74
+  },
+  {
+   "text": "6",
+   "conf": 0.94
+  },
+  {
+   "text": "1\"",
+   "conf": 0.53
+  },
+  {
+   "text": "SSTEEL",
+   "conf": 0.89
+  },
+  {
+   "text": "ROD",
+   "conf": 0.96
+  },
+  {
+   "text": "15.80",
+   "conf": 0.85
+  },
+  {
+   "text": "94.80SR",
+   "conf": 0.6
+  },
+  {
+   "text": "tem",
+   "conf": 0.54
+  },
+  {
+   "text": "Discount",
+   "conf": 0.92
+  },
+  {
+   "text": "0.00",
+   "conf": 0.94
+  },
+  {
+   "text": "17",
+   "conf": 0.93
+  },
+  {
+   "text": "3/4\"",
+   "conf": 0.93
+  },
+  {
+   "text": "ALUMINIUM",
+   "conf": 0.95
+  },
+  {
+   "text": "ROD",
+   "conf": 0.95
+  },
+  {
+   "text": "§.80",
+   "conf": 0.84
+  },
+  {
+   "text": "98.60SR",
+   "conf": 0.78
+  },
+  {
+   "text": "44",
+   "conf": 0.96
+  },
+  {
+   "text": "Type:",
+   "conf": 0.95
+  },
+  {
+   "text": "10",
+   "conf": 0.53
+  },
+  {
+   "text": "Total",
+   "conf": 0.91
+  },
+  {
+   "text": "277.90",
+   "conf": 0.96
+  },
+  {
+   "text": "discount:",
+   "conf": 0.67
+  },
+  {
+   "text": "0.90",
+   "conf": 0.95
+  },
+  {
+   "text": "Rounding",
+   "conf": 0.0
+  },
+  {
+   "text": "Ag)",
+   "conf": 0.0
+  },
+  {
+   "text": "800",
+   "conf": 0.51
+  },
+  {
+   "text": "Total",
+   "conf": 0.93
+  },
+  {
+   "text": "Inclusive",
+   "conf": 0.93
+  },
+  {
+   "text": "GST:",
+   "conf": 0.96
+  },
+  {
+   "text": "277.00",
+   "conf": 0.58
+  },
+  {
+   "text": "CASH",
+   "conf": 0.96
+  },
+  {
+   "text": "277.00",
+   "conf": 0.87
+  },
+  {
+   "text": "GST",
+   "conf": 0.96
+  },
+  {
+   "text": "Summary",
+   "conf": 0.96
+  },
+  {
+   "text": "—",
+   "conf": 0.0
+  },
+  {
+   "text": "Code",
+   "conf": 0.89
+  },
+  {
+   "text": "%",
+   "conf": 0.89
+  },
+  {
+   "text": "Net",
+   "conf": 0.8
+  },
+  {
+   "text": "Amt",
+   "conf": 0.96
+  },
+  {
+   "text": "GST",
+   "conf": 0.0
+  },
+  {
+   "text": "Total(RM)",
+   "conf": 0.49
+  },
+  {
+   "text": "SR",
+   "conf": 0.82
+  },
+  {
+   "text": "SR",
+   "conf": 0.82
+  },
+  {
+   "text": "261.32",
+   "conf": 0.95
+  },
+  {
+   "text": "16.68",
+   "conf": 0.85
+  },
+  {
+   "text": "277.00",
+   "conf": 0.96
+  },
+  {
+   "text": "Total",
+   "conf": 0.78
+  },
+  {
+   "text": "261.32",
+   "conf": 0.96
+  },
+  {
+   "text": "15.68",
+   "conf": 0.87
+  },
+  {
+   "text": "277.00",
+   "conf": 0.96
+  },
+  {
+   "text": "Thank",
+   "conf": 0.96
+  },
+  {
+   "text": "you",
+   "conf": 0.86
+  },
+  {
+   "text": "!",
+   "conf": 0.64
+  },
+  {
+   "text": "&",
+   "conf": 0.64
+  },
+  {
+   "text": "Please",
+   "conf": 0.96
+  },
+  {
+   "text": "come",
+   "conf": 0.94
+  },
+  {
+   "text": "again!!!",
+   "conf": 0.41
+  },
+  {
+   "text": "Goods",
+   "conf": 0.96
+  },
+  {
+   "text": "sold",
+   "conf": 0.95
+  },
+  {
+   "text": "are",
+   "conf": 0.96
+  },
+  {
+   "text": "not",
+   "conf": 0.96
+  },
+  {
+   "text": "returnable",
+   "conf": 0.9
+  },
+  {
+   "text": "for",
+   "conf": 0.9
+  },
+  {
+   "text": "refund",
+   "conf": 0.79
+  },
+  {
+   "text": "or",
+   "conf": 0.96
+  },
+  {
+   "text": "exchange",
+   "conf": 0.94
+  },
+  {
+   "text": "|",
+   "conf": 0.18
+  }
+ ],
+ "mean_conf": 0.8053,
+ "low_conf_share": 0.087,
+ "latency_ms": 3144,
+ "fields": {
+  "company": "HON HWA HARDWARE TRADING",
+  "date": "2017-02-08",
+  "total": 277.0
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  277.0
+ ],
+ "key": "X51005568891"
+}

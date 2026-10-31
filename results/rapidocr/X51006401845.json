@@ -1,0 +1,196 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "Bay SelT Trade Sdn.Bhd.",
+  "604412-X",
+  "Tax Invoice",
+  "G5T 1D:001869250560",
+  "2& 2A,Jalan Kasuarina 1/Ks 7,",
+  "Bandar Botanik,",
+  "41200 Klang,SELANGOR",
+  "CS N0.:0007/011242304/02/201707:14PM",
+  "HSVD:OLP1o5",
+  "Descriptton Amount(RM)",
+  "TNL149/V070F/C00KINGP0T",
+  "SR 1X 26.90 26.90",
+  "Discount0.00%:26.90",
+  "Tota! Qty:1",
+  "Total Sales Tnclusive Gsr",
+  "Cash 27.00",
+  "Voucher 0.00",
+  "Cheque 0.00",
+  "Change 0.10",
+  "GST Summary Amount(RM) Tax(RM)",
+  "SR @6.00% 25.38 1.52",
+  "Cashter:435007",
+  "ThankYou."
+ ],
+ "tokens": [
+  {
+   "text": "Bay SelT Trade Sdn.Bhd.",
+   "conf": 0.8492683483206708
+  },
+  {
+   "text": "604412-X",
+   "conf": 0.9899612665176392
+  },
+  {
+   "text": "Tax Invoice",
+   "conf": 0.932528322393244
+  },
+  {
+   "text": "G5T 1D:001869250560",
+   "conf": 0.8744115986322102
+  },
+  {
+   "text": "2& 2A,Jalan Kasuarina 1/Ks 7,",
+   "conf": 0.851474806152541
+  },
+  {
+   "text": "Bandar Botanik,",
+   "conf": 0.9547264695167541
+  },
+  {
+   "text": "41200 Klang,SELANGOR",
+   "conf": 0.8911794021725654
+  },
+  {
+   "text": "CS N0.:0007/011242304/02/201707:14PM",
+   "conf": 0.9694814400540458
+  },
+  {
+   "text": "HSVD:OLP1o5",
+   "conf": 0.5928440988063812
+  },
+  {
+   "text": "Descriptton",
+   "conf": 0.9744905125011097
+  },
+  {
+   "text": "Amount(RM)",
+   "conf": 0.772705665230751
+  },
+  {
+   "text": "TNL149/V070F/C00KINGP0T",
+   "conf": 0.8676138053769651
+  },
+  {
+   "text": "SR",
+   "conf": 0.9585885107517242
+  },
+  {
+   "text": "1X",
+   "conf": 0.7083213627338409
+  },
+  {
+   "text": "26.90",
+   "conf": 0.9856345653533936
+  },
+  {
+   "text": "26.90",
+   "conf": 0.9954763174057006
+  },
+  {
+   "text": "Discount0.00%:26.90",
+   "conf": 0.8715354329661319
+  },
+  {
+   "text": "Tota! Qty:1",
+   "conf": 0.8645061633803628
+  },
+  {
+   "text": "Total Sales Tnclusive Gsr",
+   "conf": 0.8790673160552979
+  },
+  {
+   "text": "Cash",
+   "conf": 0.9595934152603149
+  },
+  {
+   "text": "27.00",
+   "conf": 0.9940128087997436
+  },
+  {
+   "text": "Voucher",
+   "conf": 0.9512960314750671
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9951917082071304
+  },
+  {
+   "text": "Cheque",
+   "conf": 0.9625660181045532
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9983798265457153
+  },
+  {
+   "text": "Change",
+   "conf": 0.8633470435937246
+  },
+  {
+   "text": "0.10",
+   "conf": 0.9943837076425552
+  },
+  {
+   "text": "GST Summary",
+   "conf": 0.9112400060350244
+  },
+  {
+   "text": "Amount(RM)",
+   "conf": 0.9293870091438293
+  },
+  {
+   "text": "Tax(RM)",
+   "conf": 0.8968831726482936
+  },
+  {
+   "text": "SR @6.00%",
+   "conf": 0.9011740022235446
+  },
+  {
+   "text": "25.38",
+   "conf": 0.9418411374092102
+  },
+  {
+   "text": "1.52",
+   "conf": 0.9895092695951462
+  },
+  {
+   "text": "Cashter:435007",
+   "conf": 0.9359203619616372
+  },
+  {
+   "text": "ThankYou.",
+   "conf": 0.9838301406966315
+  }
+ ],
+ "mean_conf": 0.9141,
+ "low_conf_share": 0.0,
+ "latency_ms": 4386,
+ "fields": {
+  "company": "BAY SELT TRADE SDN BHD",
+  "date": null,
+  "total": 27.0
+ },
+ "rule_reasons": [
+  "date_not_found",
+  "total_no_keyword_fallback_max"
+ ],
+ "total_candidates": [
+  26.9,
+  26.9,
+  0.0,
+  26.9,
+  27.0,
+  0.0,
+  0.0,
+  0.1,
+  6.0,
+  25.38,
+  1.52
+ ],
+ "key": "X51006401845"
+}

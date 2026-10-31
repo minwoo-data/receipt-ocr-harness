@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.6-flash",
+ "provider": "gemini",
+ "raw_text": "{\"vendor\": \"El Borracho\", \"date\": \"2018-03-02\", \"subtotal\": 151.95, \"tax\": 22.82, \"tip\": null, \"discount\": -15.0, \"total\": 136.95, \"currency\": \"GBP\", \"confidence\": 0.98, \"notes\": null}",
+ "data": {
+  "vendor": "El Borracho",
+  "date": "2018-03-02",
+  "subtotal": 151.95,
+  "tax": 22.82,
+  "tip": null,
+  "discount": -15.0,
+  "total": 136.95,
+  "currency": "GBP",
+  "confidence": 0.98,
+  "notes": null
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1469,
+  "output_tokens": 91,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.001443,
+ "latency_ms": 1860,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.6-flash",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.6-flash"
+ ],
+ "key": "W0016_15c0d4ff7889"
+}

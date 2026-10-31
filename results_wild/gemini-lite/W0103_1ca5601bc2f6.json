@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.1-flash-lite",
+ "provider": "gemini",
+ "raw_text": "{\n  \"vendor\": \"Sanaa Restaurant\",\n  \"date\": \"2016-07-14\",\n  \"subtotal\": 30.0,\n  \"tax\": null,\n  \"tip\": null,\n  \"discount\": 0.0,\n  \"total\": 30.0,\n  \"currency\": null,\n  \"confidence\": 0.98,\n  \"notes\": null\n}",
+ "data": {
+  "vendor": "Sanaa Restaurant",
+  "date": "2016-07-14",
+  "subtotal": 30.0,
+  "tax": null,
+  "tip": null,
+  "discount": 0.0,
+  "total": 30.0,
+  "currency": null,
+  "confidence": 0.98,
+  "notes": null
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1471,
+  "output_tokens": 102,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.000521,
+ "latency_ms": 1523,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.1-flash-lite",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.1-flash-lite"
+ ],
+ "key": "W0103_1ca5601bc2f6"
+}

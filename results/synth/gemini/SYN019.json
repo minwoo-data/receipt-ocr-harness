@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.6-flash",
+ "provider": "gemini",
+ "raw_text": "{\"vendor\": \"NORTHSTAR HARDWARE ENTERPRISE\", \"date\": \"2026-03-20\", \"subtotal\": 161.7, \"tax\": 9.7, \"tip\": null, \"discount\": -48.51, \"total\": 171.4, \"currency\": null, \"confidence\": 0.95, \"notes\": null}",
+ "data": {
+  "vendor": "NORTHSTAR HARDWARE ENTERPRISE",
+  "date": "2026-03-20",
+  "subtotal": 161.7,
+  "tax": 9.7,
+  "tip": null,
+  "discount": -48.51,
+  "total": 171.4,
+  "currency": null,
+  "confidence": 0.95,
+  "notes": null
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1457,
+  "output_tokens": 90,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.00143,
+ "latency_ms": 2034,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.6-flash",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.6-flash"
+ ],
+ "key": "SYN019"
+}

@@ -1,0 +1,336 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "| BIENVENUE A DISNEYLAND PARIS",
+  "Vendeur: 47492.Y0R",
+  "S catssier: —47492.¥H0A",
+  "Ticket No: 25085779",
+  "Location: 40141 Indiana Jones",
+  "Date: 25/10/2017 14:29",
+  "Infos : ae",
+  "‘2 CAFE GRAIN 20CZ 5.58 F",
+  "e278",
+  "roraL: 5.58",
+  "Dont TVA : 0.30",
+  "Especes 5.70",
+  "elo 0.12",
+  "_\\.__Dateyheure: 25/10/2017 14:29",
+  "-) “Faro oxsvey assocres sca - BP 100",
+  "T77TT Harne Ta Vallee Cedex 4",
+  "SIREN 397 471 822 ~ RCS MEAIK",
+  "http ://wm.disneylandparis.com =",
+  "Conditions dechange et de remboursement :"
+ ],
+ "tokens": [
+  {
+   "text": "|",
+   "conf": 0.77
+  },
+  {
+   "text": "BIENVENUE",
+   "conf": 0.74
+  },
+  {
+   "text": "A",
+   "conf": 0.95
+  },
+  {
+   "text": "DISNEYLAND",
+   "conf": 0.81
+  },
+  {
+   "text": "PARIS",
+   "conf": 0.81
+  },
+  {
+   "text": "Vendeur:",
+   "conf": 0.0
+  },
+  {
+   "text": "47492.Y0R",
+   "conf": 0.0
+  },
+  {
+   "text": "S",
+   "conf": 0.0
+  },
+  {
+   "text": "catssier:",
+   "conf": 0.29
+  },
+  {
+   "text": "—47492.¥H0A",
+   "conf": 0.0
+  },
+  {
+   "text": "Ticket",
+   "conf": 0.93
+  },
+  {
+   "text": "No:",
+   "conf": 0.84
+  },
+  {
+   "text": "25085779",
+   "conf": 0.64
+  },
+  {
+   "text": "Location:",
+   "conf": 0.58
+  },
+  {
+   "text": "40141",
+   "conf": 0.58
+  },
+  {
+   "text": "Indiana",
+   "conf": 0.86
+  },
+  {
+   "text": "Jones",
+   "conf": 0.88
+  },
+  {
+   "text": "Date:",
+   "conf": 0.48
+  },
+  {
+   "text": "25/10/2017",
+   "conf": 0.44
+  },
+  {
+   "text": "14:29",
+   "conf": 0.94
+  },
+  {
+   "text": "Infos",
+   "conf": 0.84
+  },
+  {
+   "text": ":",
+   "conf": 0.87
+  },
+  {
+   "text": "ae",
+   "conf": 0.04
+  },
+  {
+   "text": "‘2",
+   "conf": 0.54
+  },
+  {
+   "text": "CAFE",
+   "conf": 0.84
+  },
+  {
+   "text": "GRAIN",
+   "conf": 0.92
+  },
+  {
+   "text": "20CZ",
+   "conf": 0.8
+  },
+  {
+   "text": "5.58",
+   "conf": 0.9
+  },
+  {
+   "text": "F",
+   "conf": 0.0
+  },
+  {
+   "text": "e278",
+   "conf": 0.55
+  },
+  {
+   "text": "roraL:",
+   "conf": 0.0
+  },
+  {
+   "text": "5.58",
+   "conf": 0.92
+  },
+  {
+   "text": "Dont",
+   "conf": 0.9
+  },
+  {
+   "text": "TVA",
+   "conf": 0.86
+  },
+  {
+   "text": ":",
+   "conf": 0.61
+  },
+  {
+   "text": "0.30",
+   "conf": 0.76
+  },
+  {
+   "text": "Especes",
+   "conf": 0.5
+  },
+  {
+   "text": "5.70",
+   "conf": 0.95
+  },
+  {
+   "text": "elo",
+   "conf": 0.0
+  },
+  {
+   "text": "0.12",
+   "conf": 0.8
+  },
+  {
+   "text": "_\\.__Dateyheure:",
+   "conf": 0.0
+  },
+  {
+   "text": "25/10/2017",
+   "conf": 0.88
+  },
+  {
+   "text": "14:29",
+   "conf": 0.74
+  },
+  {
+   "text": "-)",
+   "conf": 0.0
+  },
+  {
+   "text": "“Faro",
+   "conf": 0.5
+  },
+  {
+   "text": "oxsvey",
+   "conf": 0.2
+  },
+  {
+   "text": "assocres",
+   "conf": 0.08
+  },
+  {
+   "text": "sca",
+   "conf": 0.73
+  },
+  {
+   "text": "-",
+   "conf": 0.49
+  },
+  {
+   "text": "BP",
+   "conf": 0.57
+  },
+  {
+   "text": "100",
+   "conf": 0.96
+  },
+  {
+   "text": "T77TT",
+   "conf": 0.34
+  },
+  {
+   "text": "Harne",
+   "conf": 0.78
+  },
+  {
+   "text": "Ta",
+   "conf": 0.63
+  },
+  {
+   "text": "Vallee",
+   "conf": 0.89
+  },
+  {
+   "text": "Cedex",
+   "conf": 0.85
+  },
+  {
+   "text": "4",
+   "conf": 0.95
+  },
+  {
+   "text": "SIREN",
+   "conf": 0.94
+  },
+  {
+   "text": "397",
+   "conf": 0.93
+  },
+  {
+   "text": "471",
+   "conf": 0.93
+  },
+  {
+   "text": "822",
+   "conf": 0.87
+  },
+  {
+   "text": "~",
+   "conf": 0.71
+  },
+  {
+   "text": "RCS",
+   "conf": 0.89
+  },
+  {
+   "text": "MEAIK",
+   "conf": 0.32
+  },
+  {
+   "text": "http",
+   "conf": 0.3
+  },
+  {
+   "text": "://wm.disneylandparis.com",
+   "conf": 0.44
+  },
+  {
+   "text": "=",
+   "conf": 0.18
+  },
+  {
+   "text": "Conditions",
+   "conf": 0.32
+  },
+  {
+   "text": "dechange",
+   "conf": 0.0
+  },
+  {
+   "text": "et",
+   "conf": 0.96
+  },
+  {
+   "text": "de",
+   "conf": 0.91
+  },
+  {
+   "text": "remboursement",
+   "conf": 0.85
+  },
+  {
+   "text": ":",
+   "conf": 0.52
+  }
+ ],
+ "mean_conf": 0.6,
+ "low_conf_share": 0.3151,
+ "latency_ms": 926,
+ "fields": {
+  "company": "2 CAFE GRAIN 20CZ 5 58 F",
+  "date": "2017-10-25",
+  "total": 5.7
+ },
+ "rule_reasons": [
+  "total_no_keyword_fallback_max"
+ ],
+ "total_candidates": [
+  5.58,
+  0.3,
+  5.7,
+  0.12
+ ],
+ "key": "W0049_7621d9ab7c95"
+}

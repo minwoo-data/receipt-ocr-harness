@@ -1,0 +1,472 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "BEMED (SP) SDN. BHD. 4 J",
+  "No.49, Jalan Dinar G U3/3,",
+  "Subang Perdana,",
+  "40150 Shah Alam, Selangor D.E.",
+  "03-7845 8155",
+  "GST Reg : 001734164480",
+  "CB#: 59681331715 14/May/2017 02:56:39",
+  "Cashler : mimle Q",
+  "My Cade&Desc Price Tatal",
+  "PIL CHI-KIT TECK AUN (12'S) 5",
+  "1 160160 -4.58 15.80 14.22",
+  "PANADOL ACTIFAST 20'S ZR",
+  "1 458140 12.00 12.00",
+  "ALPHA LIPID LIFE LINE SR",
+  "1 184810 165.00 165.00",
+  "3 Type: 3",
+  "SubTatat: 191.22",
+  "Rounding Adj : ~0.02",
+  "Total Inclusive GST: 191.20",
+  "VISA 191.20",
+  "GST Summary: — Amaunt “Tax",
+  "(MYR) (MYR) rs",
+  "{Sk 169.08 10.14 |",
+  "jz 12.0",
+  "ONG GUAT CHYE",
+  "Paints : 1,305 \\ a\\->o",
+  "Thank you.",
+  "Please come again."
+ ],
+ "tokens": [
+  {
+   "text": "BEMED",
+   "conf": 0.91
+  },
+  {
+   "text": "(SP)",
+   "conf": 0.96
+  },
+  {
+   "text": "SDN.",
+   "conf": 0.96
+  },
+  {
+   "text": "BHD.",
+   "conf": 0.96
+  },
+  {
+   "text": "4",
+   "conf": 0.38
+  },
+  {
+   "text": "J",
+   "conf": 0.63
+  },
+  {
+   "text": "No.49,",
+   "conf": 0.86
+  },
+  {
+   "text": "Jalan",
+   "conf": 0.41
+  },
+  {
+   "text": "Dinar",
+   "conf": 0.92
+  },
+  {
+   "text": "G",
+   "conf": 0.92
+  },
+  {
+   "text": "U3/3,",
+   "conf": 0.01
+  },
+  {
+   "text": "Subang",
+   "conf": 0.96
+  },
+  {
+   "text": "Perdana,",
+   "conf": 0.96
+  },
+  {
+   "text": "40150",
+   "conf": 0.96
+  },
+  {
+   "text": "Shah",
+   "conf": 0.96
+  },
+  {
+   "text": "Alam,",
+   "conf": 0.96
+  },
+  {
+   "text": "Selangor",
+   "conf": 0.93
+  },
+  {
+   "text": "D.E.",
+   "conf": 0.92
+  },
+  {
+   "text": "03-7845",
+   "conf": 0.94
+  },
+  {
+   "text": "8155",
+   "conf": 0.88
+  },
+  {
+   "text": "GST",
+   "conf": 0.96
+  },
+  {
+   "text": "Reg",
+   "conf": 0.93
+  },
+  {
+   "text": ":",
+   "conf": 0.87
+  },
+  {
+   "text": "001734164480",
+   "conf": 0.88
+  },
+  {
+   "text": "CB#:",
+   "conf": 0.81
+  },
+  {
+   "text": "59681331715",
+   "conf": 0.7
+  },
+  {
+   "text": "14/May/2017",
+   "conf": 0.0
+  },
+  {
+   "text": "02:56:39",
+   "conf": 0.85
+  },
+  {
+   "text": "Cashler",
+   "conf": 0.7
+  },
+  {
+   "text": ":",
+   "conf": 0.7
+  },
+  {
+   "text": "mimle",
+   "conf": 0.52
+  },
+  {
+   "text": "Q",
+   "conf": 0.41
+  },
+  {
+   "text": "My",
+   "conf": 0.34
+  },
+  {
+   "text": "Cade&Desc",
+   "conf": 0.44
+  },
+  {
+   "text": "Price",
+   "conf": 0.66
+  },
+  {
+   "text": "Tatal",
+   "conf": 0.61
+  },
+  {
+   "text": "PIL",
+   "conf": 0.85
+  },
+  {
+   "text": "CHI-KIT",
+   "conf": 0.91
+  },
+  {
+   "text": "TECK",
+   "conf": 0.96
+  },
+  {
+   "text": "AUN",
+   "conf": 0.95
+  },
+  {
+   "text": "(12'S)",
+   "conf": 0.81
+  },
+  {
+   "text": "5",
+   "conf": 0.0
+  },
+  {
+   "text": "1",
+   "conf": 0.78
+  },
+  {
+   "text": "160160",
+   "conf": 0.87
+  },
+  {
+   "text": "-4.58",
+   "conf": 0.22
+  },
+  {
+   "text": "15.80",
+   "conf": 0.88
+  },
+  {
+   "text": "14.22",
+   "conf": 0.9
+  },
+  {
+   "text": "PANADOL",
+   "conf": 0.93
+  },
+  {
+   "text": "ACTIFAST",
+   "conf": 0.91
+  },
+  {
+   "text": "20'S",
+   "conf": 0.96
+  },
+  {
+   "text": "ZR",
+   "conf": 0.54
+  },
+  {
+   "text": "1",
+   "conf": 0.88
+  },
+  {
+   "text": "458140",
+   "conf": 0.72
+  },
+  {
+   "text": "12.00",
+   "conf": 0.84
+  },
+  {
+   "text": "12.00",
+   "conf": 0.84
+  },
+  {
+   "text": "ALPHA",
+   "conf": 0.92
+  },
+  {
+   "text": "LIPID",
+   "conf": 0.94
+  },
+  {
+   "text": "LIFE",
+   "conf": 0.95
+  },
+  {
+   "text": "LINE",
+   "conf": 0.96
+  },
+  {
+   "text": "SR",
+   "conf": 0.79
+  },
+  {
+   "text": "1",
+   "conf": 0.86
+  },
+  {
+   "text": "184810",
+   "conf": 0.93
+  },
+  {
+   "text": "165.00",
+   "conf": 0.95
+  },
+  {
+   "text": "165.00",
+   "conf": 0.96
+  },
+  {
+   "text": "3",
+   "conf": 0.91
+  },
+  {
+   "text": "Type:",
+   "conf": 0.91
+  },
+  {
+   "text": "3",
+   "conf": 0.95
+  },
+  {
+   "text": "SubTatat:",
+   "conf": 0.75
+  },
+  {
+   "text": "191.22",
+   "conf": 0.86
+  },
+  {
+   "text": "Rounding",
+   "conf": 0.94
+  },
+  {
+   "text": "Adj",
+   "conf": 0.9
+  },
+  {
+   "text": ":",
+   "conf": 0.92
+  },
+  {
+   "text": "~0.02",
+   "conf": 0.82
+  },
+  {
+   "text": "Total",
+   "conf": 0.96
+  },
+  {
+   "text": "Inclusive",
+   "conf": 0.95
+  },
+  {
+   "text": "GST:",
+   "conf": 0.78
+  },
+  {
+   "text": "191.20",
+   "conf": 0.78
+  },
+  {
+   "text": "VISA",
+   "conf": 0.95
+  },
+  {
+   "text": "191.20",
+   "conf": 0.82
+  },
+  {
+   "text": "GST",
+   "conf": 0.94
+  },
+  {
+   "text": "Summary:",
+   "conf": 0.8
+  },
+  {
+   "text": "—",
+   "conf": 0.0
+  },
+  {
+   "text": "Amaunt",
+   "conf": 0.71
+  },
+  {
+   "text": "“Tax",
+   "conf": 0.71
+  },
+  {
+   "text": "(MYR)",
+   "conf": 0.0
+  },
+  {
+   "text": "(MYR)",
+   "conf": 0.96
+  },
+  {
+   "text": "rs",
+   "conf": 0.14
+  },
+  {
+   "text": "{Sk",
+   "conf": 0.29
+  },
+  {
+   "text": "169.08",
+   "conf": 0.93
+  },
+  {
+   "text": "10.14",
+   "conf": 0.94
+  },
+  {
+   "text": "|",
+   "conf": 0.95
+  },
+  {
+   "text": "jz",
+   "conf": 0.0
+  },
+  {
+   "text": "12.0",
+   "conf": 0.21
+  },
+  {
+   "text": "ONG",
+   "conf": 0.96
+  },
+  {
+   "text": "GUAT",
+   "conf": 0.92
+  },
+  {
+   "text": "CHYE",
+   "conf": 0.9
+  },
+  {
+   "text": "Paints",
+   "conf": 0.28
+  },
+  {
+   "text": ":",
+   "conf": 0.56
+  },
+  {
+   "text": "1,305",
+   "conf": 0.96
+  },
+  {
+   "text": "\\",
+   "conf": 0.89
+  },
+  {
+   "text": "a\\->o",
+   "conf": 0.0
+  },
+  {
+   "text": "Thank",
+   "conf": 0.96
+  },
+  {
+   "text": "you.",
+   "conf": 0.95
+  },
+  {
+   "text": "Please",
+   "conf": 0.95
+  },
+  {
+   "text": "come",
+   "conf": 0.96
+  },
+  {
+   "text": "again.",
+   "conf": 0.96
+  }
+ ],
+ "mean_conf": 0.7624,
+ "low_conf_share": 0.1604,
+ "latency_ms": 1270,
+ "fields": {
+  "company": "BEMED SDN BHD 4 J",
+  "date": "2017-05-14",
+  "total": 191.2
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  191.2
+ ],
+ "key": "X51006388064"
+}

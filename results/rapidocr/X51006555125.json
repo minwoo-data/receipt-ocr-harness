@@ -1,0 +1,147 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "TAXINVOICE",
+  "KHIAM AIK CHAN SDN BHD (88842-H)",
+  "No.76,JelsnS515/4B,",
+  "47500 Subang Jaga,5elengor D.E.",
+  "G5T Reg.:000555819008",
+  "Cah Sales Na.: C5-19204",
+  "Date: 25/09/201701:48:57PM",
+  "1.Max 10-1M steples",
+  "2X14.20 28.40",
+  "TetalSalesInclucive GST@6% 28.40",
+  "CASH 50.0C",
+  "CHANGE 21.60",
+  "GST Summery Bmount(RM) Tar(RM)",
+  "SR@6% 26.79 1.61",
+  "Goads sald are nct reiumable",
+  "Thank_yau!Flease some egain!"
+ ],
+ "tokens": [
+  {
+   "text": "TAXINVOICE",
+   "conf": 0.9963819921016693
+  },
+  {
+   "text": "KHIAM AIK CHAN SDN BHD (88842-H)",
+   "conf": 0.9012377336621284
+  },
+  {
+   "text": "No.76,JelsnS515/4B,",
+   "conf": 0.9085649361735896
+  },
+  {
+   "text": "47500 Subang Jaga,5elengor D.E.",
+   "conf": 0.8755751915516392
+  },
+  {
+   "text": "G5T Reg.:000555819008",
+   "conf": 0.9403673410415649
+  },
+  {
+   "text": "Cah Sales Na.:",
+   "conf": 0.8192175371306283
+  },
+  {
+   "text": "C5-19204",
+   "conf": 0.9690882712602615
+  },
+  {
+   "text": "Date:",
+   "conf": 0.8795538783073426
+  },
+  {
+   "text": "25/09/201701:48:57PM",
+   "conf": 0.9838505953550338
+  },
+  {
+   "text": "1.Max 10-1M steples",
+   "conf": 0.8281217468412299
+  },
+  {
+   "text": "2X14.20",
+   "conf": 0.9733384421893528
+  },
+  {
+   "text": "28.40",
+   "conf": 0.9954546093940735
+  },
+  {
+   "text": "TetalSalesInclucive GST@6%",
+   "conf": 0.8707127158458416
+  },
+  {
+   "text": "28.40",
+   "conf": 0.991225516796112
+  },
+  {
+   "text": "CASH",
+   "conf": 0.9697179943323135
+  },
+  {
+   "text": "50.0C",
+   "conf": 0.8964282631874084
+  },
+  {
+   "text": "CHANGE",
+   "conf": 0.9927845199902853
+  },
+  {
+   "text": "21.60",
+   "conf": 0.9373198032379151
+  },
+  {
+   "text": "GST Summery",
+   "conf": 0.8383102877573534
+  },
+  {
+   "text": "Bmount(RM)",
+   "conf": 0.8324862420558929
+  },
+  {
+   "text": "Tar(RM)",
+   "conf": 0.8848478708948407
+  },
+  {
+   "text": "SR@6%",
+   "conf": 0.8895812153816223
+  },
+  {
+   "text": "26.79",
+   "conf": 0.9983991622924805
+  },
+  {
+   "text": "1.61",
+   "conf": 0.9972005188465118
+  },
+  {
+   "text": "Goads sald are nct reiumable",
+   "conf": 0.8332560136914253
+  },
+  {
+   "text": "Thank_yau!Flease some egain!",
+   "conf": 0.7477972401039941
+  }
+ ],
+ "mean_conf": 0.9135,
+ "low_conf_share": 0.0,
+ "latency_ms": 2934,
+ "fields": {
+  "company": "KHIAM AIK CHAN SDN BHD",
+  "date": "2017-09-25",
+  "total": 28.4
+ },
+ "rule_reasons": [
+  "total_no_keyword_fallback_max"
+ ],
+ "total_candidates": [
+  14.2,
+  28.4,
+  28.4,
+  21.6,
+  26.79,
+  1.61
+ ],
+ "key": "X51006555125"
+}

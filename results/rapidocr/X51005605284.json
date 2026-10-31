@@ -1,0 +1,286 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "ADVANCOCOMPANY",
+  "Company Reg. No. : 725186-V",
+  "NO 1&3,JalanWangsaDelima 12",
+  "Wangsa Link, Wangsa Maju,",
+  "53300KualaLumpur",
+  "03-41318972",
+  "GST Reg: 001658445824",
+  "TAX INVOICE",
+  "CB#:398313 23/03/20183:13:19",
+  "M#:M2-0",
+  "Cashier: c2000-",
+  "Qty   Description Price Total",
+  "FUJIXEROXEVERYDAYA470GSMSR",
+  "527499 11.00 55.00",
+  "Item Discount $0.20 -1.00",
+  "CANONPG-47BKE400BLACKFINE( SR",
+  "127736 29.00 29.00",
+  "6Type: 2 Total 84.00",
+  "Disc $.20 X5 -1.00",
+  "Rounding Adj 0.00",
+  "Total Inclusive GsT: 83.00",
+  "CASH 85.00",
+  "Change 2.00",
+  "GST Summary",
+  "Code % NetAmt GST Total",
+  "SR 6% 78.30 4.70 83.00",
+  "Total 78.30 4.70 83.00",
+  "Thank you & Please come again.",
+  "Goods sold are not returnable for refund or",
+  "exchange !!"
+ ],
+ "tokens": [
+  {
+   "text": "ADVANCOCOMPANY",
+   "conf": 0.9837864850248609
+  },
+  {
+   "text": "Company Reg. No. : 725186-V",
+   "conf": 0.993755371482284
+  },
+  {
+   "text": "NO 1&3,JalanWangsaDelima 12",
+   "conf": 0.9708814333986353
+  },
+  {
+   "text": "Wangsa Link, Wangsa Maju,",
+   "conf": 0.9929439520835877
+  },
+  {
+   "text": "53300KualaLumpur",
+   "conf": 0.9896822981536388
+  },
+  {
+   "text": "03-41318972",
+   "conf": 0.9988629438660361
+  },
+  {
+   "text": "GST Reg: 001658445824",
+   "conf": 0.9813991785049438
+  },
+  {
+   "text": "TAX INVOICE",
+   "conf": 0.9480292905460704
+  },
+  {
+   "text": "CB#:398313",
+   "conf": 0.9765979886054993
+  },
+  {
+   "text": "23/03/20183:13:19",
+   "conf": 0.9822491933317745
+  },
+  {
+   "text": "M#:M2-0",
+   "conf": 0.9583308100700378
+  },
+  {
+   "text": "Cashier: c2000-",
+   "conf": 0.9767734169960022
+  },
+  {
+   "text": "Qty   Description",
+   "conf": 0.8908817066865808
+  },
+  {
+   "text": "Price",
+   "conf": 0.9809927701950073
+  },
+  {
+   "text": "Total",
+   "conf": 0.9995674610137939
+  },
+  {
+   "text": "FUJIXEROXEVERYDAYA470GSMSR",
+   "conf": 0.9834911800347842
+  },
+  {
+   "text": "527499",
+   "conf": 0.9991106390953064
+  },
+  {
+   "text": "11.00",
+   "conf": 0.9997453451156616
+  },
+  {
+   "text": "55.00",
+   "conf": 0.9996570706367492
+  },
+  {
+   "text": "Item Discount",
+   "conf": 0.9668645491966834
+  },
+  {
+   "text": "$0.20",
+   "conf": 0.9959428787231446
+  },
+  {
+   "text": "-1.00",
+   "conf": 0.9990227699279786
+  },
+  {
+   "text": "CANONPG-47BKE400BLACKFINE( SR",
+   "conf": 0.9681153174104362
+  },
+  {
+   "text": "127736",
+   "conf": 0.9997775653998057
+  },
+  {
+   "text": "29.00",
+   "conf": 0.9998589396476746
+  },
+  {
+   "text": "29.00",
+   "conf": 0.9998377680778503
+  },
+  {
+   "text": "6Type:",
+   "conf": 0.9806971251964569
+  },
+  {
+   "text": "2",
+   "conf": 0.9993324875831604
+  },
+  {
+   "text": "Total",
+   "conf": 0.9970038533210754
+  },
+  {
+   "text": "84.00",
+   "conf": 0.9996209502220154
+  },
+  {
+   "text": "Disc $.20",
+   "conf": 0.9972019857830472
+  },
+  {
+   "text": "X5",
+   "conf": 0.9147554636001587
+  },
+  {
+   "text": "-1.00",
+   "conf": 0.9992875218391418
+  },
+  {
+   "text": "Rounding Adj",
+   "conf": 0.9921222925186157
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9988160580396652
+  },
+  {
+   "text": "Total Inclusive GsT:",
+   "conf": 0.9310354262590408
+  },
+  {
+   "text": "83.00",
+   "conf": 0.999698030948639
+  },
+  {
+   "text": "CASH",
+   "conf": 0.9899777472019196
+  },
+  {
+   "text": "85.00",
+   "conf": 0.9997747540473938
+  },
+  {
+   "text": "Change",
+   "conf": 0.996787557999293
+  },
+  {
+   "text": "2.00",
+   "conf": 0.9994346350431442
+  },
+  {
+   "text": "GST Summary",
+   "conf": 0.983384067362005
+  },
+  {
+   "text": "Code",
+   "conf": 0.9969666302204132
+  },
+  {
+   "text": "%",
+   "conf": 0.9972484707832336
+  },
+  {
+   "text": "NetAmt",
+   "conf": 0.994073361158371
+  },
+  {
+   "text": "GST",
+   "conf": 0.9976392984390259
+  },
+  {
+   "text": "Total",
+   "conf": 0.9964121103286743
+  },
+  {
+   "text": "SR",
+   "conf": 0.9971892237663269
+  },
+  {
+   "text": "6%",
+   "conf": 0.9098988175392151
+  },
+  {
+   "text": "78.30",
+   "conf": 0.9997505426406861
+  },
+  {
+   "text": "4.70",
+   "conf": 0.9996749758720398
+  },
+  {
+   "text": "83.00",
+   "conf": 0.9996746301651
+  },
+  {
+   "text": "Total",
+   "conf": 0.9986835718154907
+  },
+  {
+   "text": "78.30",
+   "conf": 0.9991518139839173
+  },
+  {
+   "text": "4.70",
+   "conf": 0.9994829148054123
+  },
+  {
+   "text": "83.00",
+   "conf": 0.9991649389266968
+  },
+  {
+   "text": "Thank you & Please come again.",
+   "conf": 0.9909468154112498
+  },
+  {
+   "text": "Goods sold are not returnable for refund or",
+   "conf": 0.9451387732527977
+  },
+  {
+   "text": "exchange !!",
+   "conf": 0.9944516745480624
+  }
+ ],
+ "mean_conf": 0.9853,
+ "low_conf_share": 0.0,
+ "latency_ms": 4467,
+ "fields": {
+  "company": "ADVANCOCOMPANY",
+  "date": "2018-03-23",
+  "total": 83.0
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  83.0
+ ],
+ "key": "X51005605284"
+}

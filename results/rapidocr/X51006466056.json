@@ -1,0 +1,294 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "3180404 defpref",
+  "BERRY'S CARE HOUSE",
+  "(Co No.315481-T)GST No.001287233536",
+  "No.1,",
+  "Jln Puteri 1/6,",
+  "Bandar Puteri,",
+  "47100 Puchong,",
+  "Selangor",
+  "Dutlet:03-80626265 Careline:03-56381988",
+  "18/04/20185:18:08p Session:11444",
+  "User:l. TAX Invoice No:14551 P0S:2",
+  "Desc& Code Price Amount",
+  "00014960 RAISIN ALM0ND BREAD",
+  "1.00 4.55 4.55",
+  "00002493CHEESE R0LL(4)",
+  "1.00 3.90 3.90",
+  "00002479 BUTTER R0LL（4)",
+  "1.00 2.80 2.80",
+  "Total Inclusive of Tax 11.25",
+  "Rounding Adjustment 0.00",
+  "SubTotal 11.25",
+  "RINGGIT M'SIA 20.00",
+  "luewned -20.00",
+  "Change 8.75",
+  "Item Count",
+  "Item Total 3",
+  "GST Summary Amount GST",
+  "GST0% 0.00 0.00",
+  "GST67. 10.61 0.64",
+  "Receipt/Trx No 14551/1582555",
+  "All Berry's products are available",
+  "at Berry's Outlet Only",
+  "customerserviceeberrys.com.my",
+  "www.berrys.com.my"
+ ],
+ "tokens": [
+  {
+   "text": "3180404",
+   "conf": 0.9996312516076225
+  },
+  {
+   "text": "defpref",
+   "conf": 0.7137841241700309
+  },
+  {
+   "text": "BERRY'S CARE HOUSE",
+   "conf": 0.9587184952365028
+  },
+  {
+   "text": "(Co No.315481-T)GST No.001287233536",
+   "conf": 0.9599472386496407
+  },
+  {
+   "text": "No.1,",
+   "conf": 0.894381296634674
+  },
+  {
+   "text": "Jln Puteri 1/6,",
+   "conf": 0.9322928547859192
+  },
+  {
+   "text": "Bandar Puteri,",
+   "conf": 0.9715169072151184
+  },
+  {
+   "text": "47100 Puchong,",
+   "conf": 0.9671325555869511
+  },
+  {
+   "text": "Selangor",
+   "conf": 0.9900179207324982
+  },
+  {
+   "text": "Dutlet:03-80626265 Careline:03-56381988",
+   "conf": 0.969855838861221
+  },
+  {
+   "text": "18/04/20185:18:08p",
+   "conf": 0.9878745343950059
+  },
+  {
+   "text": "Session:11444",
+   "conf": 0.9853019897754376
+  },
+  {
+   "text": "User:l.",
+   "conf": 0.8321808959756579
+  },
+  {
+   "text": "TAX Invoice No:14551",
+   "conf": 0.9538185715675354
+  },
+  {
+   "text": "P0S:2",
+   "conf": 0.8356413006782532
+  },
+  {
+   "text": "Desc& Code",
+   "conf": 0.9400210112333298
+  },
+  {
+   "text": "Price",
+   "conf": 0.9945026636123657
+  },
+  {
+   "text": "Amount",
+   "conf": 0.9831628104050955
+  },
+  {
+   "text": "00014960 RAISIN ALM0ND BREAD",
+   "conf": 0.9355515986680984
+  },
+  {
+   "text": "1.00",
+   "conf": 0.9650170058012009
+  },
+  {
+   "text": "4.55",
+   "conf": 0.9935374110937119
+  },
+  {
+   "text": "4.55",
+   "conf": 0.996116429567337
+  },
+  {
+   "text": "00002493CHEESE R0LL(4)",
+   "conf": 0.9230081547390331
+  },
+  {
+   "text": "1.00",
+   "conf": 0.9919745177030563
+  },
+  {
+   "text": "3.90",
+   "conf": 0.9980902224779129
+  },
+  {
+   "text": "3.90",
+   "conf": 0.9896510988473892
+  },
+  {
+   "text": "00002479 BUTTER R0LL（4)",
+   "conf": 0.9091123575749605
+  },
+  {
+   "text": "1.00",
+   "conf": 0.9959380179643631
+  },
+  {
+   "text": "2.80",
+   "conf": 0.9910124838352203
+  },
+  {
+   "text": "2.80",
+   "conf": 0.9964321255683899
+  },
+  {
+   "text": "Total Inclusive of Tax",
+   "conf": 0.9373364475640383
+  },
+  {
+   "text": "11.25",
+   "conf": 0.9939071774482727
+  },
+  {
+   "text": "Rounding Adjustment",
+   "conf": 0.9733945413639671
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9916070103645325
+  },
+  {
+   "text": "SubTotal",
+   "conf": 0.9872006177902222
+  },
+  {
+   "text": "11.25",
+   "conf": 0.9951775312423706
+  },
+  {
+   "text": "RINGGIT M'SIA",
+   "conf": 0.9540930527907151
+  },
+  {
+   "text": "20.00",
+   "conf": 0.9897557735443115
+  },
+  {
+   "text": "luewned",
+   "conf": 0.5910237261227199
+  },
+  {
+   "text": "-20.00",
+   "conf": 0.9805714984734853
+  },
+  {
+   "text": "Change",
+   "conf": 0.9943955540657043
+  },
+  {
+   "text": "8.75",
+   "conf": 0.995271161198616
+  },
+  {
+   "text": "Item Count",
+   "conf": 0.9679676949977875
+  },
+  {
+   "text": "Item Total",
+   "conf": 0.9678244531154633
+  },
+  {
+   "text": "3",
+   "conf": 0.989799976348877
+  },
+  {
+   "text": "GST Summary",
+   "conf": 0.9642880775711753
+  },
+  {
+   "text": "Amount",
+   "conf": 0.9483926196893057
+  },
+  {
+   "text": "GST",
+   "conf": 0.9805972774823507
+  },
+  {
+   "text": "GST0%",
+   "conf": 0.8078461229801178
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9889160692691803
+  },
+  {
+   "text": "0.00",
+   "conf": 0.982296347618103
+  },
+  {
+   "text": "GST67.",
+   "conf": 0.8385371764500936
+  },
+  {
+   "text": "10.61",
+   "conf": 0.9916193008422851
+  },
+  {
+   "text": "0.64",
+   "conf": 0.9931570291519165
+  },
+  {
+   "text": "Receipt/Trx No",
+   "conf": 0.9854777412755149
+  },
+  {
+   "text": "14551/1582555",
+   "conf": 0.9978229861993057
+  },
+  {
+   "text": "All Berry's products are available",
+   "conf": 0.9439725858323714
+  },
+  {
+   "text": "at Berry's Outlet Only",
+   "conf": 0.9020646918903698
+  },
+  {
+   "text": "customerserviceeberrys.com.my",
+   "conf": 0.9663294450990085
+  },
+  {
+   "text": "www.berrys.com.my",
+   "conf": 0.983811665983761
+  }
+ ],
+ "mean_conf": 0.9523,
+ "low_conf_share": 0.0,
+ "latency_ms": 5049,
+ "fields": {
+  "company": "BERRY S CARE HOUSE GST NO",
+  "date": "2018-04-18",
+  "total": 11.25
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  11.25
+ ],
+ "key": "X51006466056"
+}

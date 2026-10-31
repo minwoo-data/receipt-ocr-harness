@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.1-flash-lite",
+ "provider": "gemini",
+ "raw_text": "{\n  \"vendor\": \"BHPetrol Permas Jaya 2\",\n  \"date\": \"2018-04-03\",\n  \"subtotal\": 50.0,\n  \"tax\": null,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 50.0,\n  \"currency\": \"MYR\",\n  \"confidence\": 0.98,\n  \"notes\": \"This is a prepay chit, not a final tax invoice.\"\n}",
+ "data": {
+  "vendor": "BHPetrol Permas Jaya 2",
+  "date": "2018-04-03",
+  "subtotal": 50.0,
+  "tax": null,
+  "tip": null,
+  "discount": null,
+  "total": 50.0,
+  "currency": "MYR",
+  "confidence": 0.98,
+  "notes": "This is a prepay chit, not a final tax invoice."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1461,
+  "output_tokens": 117,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.000541,
+ "latency_ms": 3823,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.1-flash-lite",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.1-flash-lite"
+ ],
+ "key": "X51006414512"
+}

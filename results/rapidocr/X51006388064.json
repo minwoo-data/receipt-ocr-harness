@@ -1,0 +1,267 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "BEMED (SP) SDN. BHD.",
+  "No.49, Jalan Dinar G U3/G,",
+  "Subang Pardana,",
+  "40150 Shah Alam, Selangor D.E.",
+  "03-78458155",
+  "GST Reg:001734164480",
+  "CASHRECEIPT",
+  "CB#:59581331715 14AMay/201702:56:39",
+  "Cashler : mimle 0",
+  "Qty Cade&Desc Prlce Total",
+  "PIL CHI-KITTECKAUN(12'S) SR",
+  "1160160 -1.5815.80 14.22",
+  "PANADOLACTIFAST2O'S ZRL",
+  "1458140 12.00 12.00",
+  "ALPHA LIPID LIFE LINE SR",
+  "1184810 165.00 165.00",
+  "3 Type: 3",
+  "SubTotal: 191.22",
+  "Rounding Adj: -0.02",
+  "Total Inclusive GST: 191.20",
+  "VISA 191.20",
+  "GST Summary: Amaunt Tax",
+  "(MYR) (MYR)",
+  "SR 169.08 10.14",
+  "ZRL 12.00 0.00",
+  "ONG GUAT CHYE",
+  "Palnts:1,305",
+  "Thank you.",
+  "Please come again."
+ ],
+ "tokens": [
+  {
+   "text": "BEMED (SP) SDN. BHD.",
+   "conf": 0.9561022251844407
+  },
+  {
+   "text": "No.49, Jalan Dinar G U3/G,",
+   "conf": 0.9478647834979571
+  },
+  {
+   "text": "Subang Pardana,",
+   "conf": 0.929133677482605
+  },
+  {
+   "text": "40150 Shah Alam, Selangor D.E.",
+   "conf": 0.9814520001411438
+  },
+  {
+   "text": "03-78458155",
+   "conf": 0.9954629269513217
+  },
+  {
+   "text": "GST Reg:001734164480",
+   "conf": 0.9697492986917495
+  },
+  {
+   "text": "CASHRECEIPT",
+   "conf": 0.9809966466643594
+  },
+  {
+   "text": "CB#:59581331715",
+   "conf": 0.9853637178738912
+  },
+  {
+   "text": "14AMay/201702:56:39",
+   "conf": 0.9434732433996702
+  },
+  {
+   "text": "Cashler : mimle 0",
+   "conf": 0.9532747619292316
+  },
+  {
+   "text": "Qty",
+   "conf": 0.9445617397626241
+  },
+  {
+   "text": "Cade&Desc",
+   "conf": 0.9352220892906189
+  },
+  {
+   "text": "Prlce",
+   "conf": 0.9200062394142151
+  },
+  {
+   "text": "Total",
+   "conf": 0.9230850219726563
+  },
+  {
+   "text": "PIL CHI-KITTECKAUN(12'S)",
+   "conf": 0.9305903340379397
+  },
+  {
+   "text": "SR",
+   "conf": 0.9826183915138245
+  },
+  {
+   "text": "1160160",
+   "conf": 0.9948645234107971
+  },
+  {
+   "text": "-1.5815.80",
+   "conf": 0.9957838535308838
+  },
+  {
+   "text": "14.22",
+   "conf": 0.9955360054969787
+  },
+  {
+   "text": "PANADOLACTIFAST2O'S",
+   "conf": 0.9616844528599789
+  },
+  {
+   "text": "ZRL",
+   "conf": 0.9836580157279968
+  },
+  {
+   "text": "1458140",
+   "conf": 0.9975095731871468
+  },
+  {
+   "text": "12.00",
+   "conf": 0.9988142609596252
+  },
+  {
+   "text": "12.00",
+   "conf": 0.9984910249710083
+  },
+  {
+   "text": "ALPHA LIPID LIFE LINE",
+   "conf": 0.9456848871140253
+  },
+  {
+   "text": "SR",
+   "conf": 0.9856994450092316
+  },
+  {
+   "text": "1184810",
+   "conf": 0.9965843558311462
+  },
+  {
+   "text": "165.00",
+   "conf": 0.999047040939331
+  },
+  {
+   "text": "165.00",
+   "conf": 0.998062531153361
+  },
+  {
+   "text": "3",
+   "conf": 0.9909200668334961
+  },
+  {
+   "text": "Type:",
+   "conf": 0.9796484351158142
+  },
+  {
+   "text": "3",
+   "conf": 0.9933369159698486
+  },
+  {
+   "text": "SubTotal:",
+   "conf": 0.9395237565040588
+  },
+  {
+   "text": "191.22",
+   "conf": 0.9987637599309286
+  },
+  {
+   "text": "Rounding Adj:",
+   "conf": 0.8751566662238195
+  },
+  {
+   "text": "-0.02",
+   "conf": 0.9875096082687378
+  },
+  {
+   "text": "Total Inclusive GST: 191.20",
+   "conf": 0.9639432032903036
+  },
+  {
+   "text": "VISA",
+   "conf": 0.9833881705999374
+  },
+  {
+   "text": "191.20",
+   "conf": 0.9977397720019022
+  },
+  {
+   "text": "GST Summary:",
+   "conf": 0.9680857161680857
+  },
+  {
+   "text": "Amaunt",
+   "conf": 0.9365325073401133
+  },
+  {
+   "text": "Tax",
+   "conf": 0.9858338634173075
+  },
+  {
+   "text": "(MYR)",
+   "conf": 0.9877860188484192
+  },
+  {
+   "text": "(MYR)",
+   "conf": 0.9942798972129822
+  },
+  {
+   "text": "SR",
+   "conf": 0.9849168956279755
+  },
+  {
+   "text": "169.08",
+   "conf": 0.9948251247406006
+  },
+  {
+   "text": "10.14",
+   "conf": 0.9985056161880493
+  },
+  {
+   "text": "ZRL",
+   "conf": 0.9832624793052673
+  },
+  {
+   "text": "12.00",
+   "conf": 0.9975199699401855
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9463354498147964
+  },
+  {
+   "text": "ONG GUAT CHYE",
+   "conf": 0.9377371577116159
+  },
+  {
+   "text": "Palnts:1,305",
+   "conf": 0.9228358914454778
+  },
+  {
+   "text": "Thank you.",
+   "conf": 0.9590027391910553
+  },
+  {
+   "text": "Please come again.",
+   "conf": 0.977238290839725
+  }
+ ],
+ "mean_conf": 0.9706,
+ "low_conf_share": 0.0,
+ "latency_ms": 3570,
+ "fields": {
+  "company": "BEMED SDN BHD",
+  "date": null,
+  "total": 191.2
+ },
+ "rule_reasons": [
+  "date_not_found"
+ ],
+ "total_candidates": [
+  191.2
+ ],
+ "key": "X51006388064"
+}

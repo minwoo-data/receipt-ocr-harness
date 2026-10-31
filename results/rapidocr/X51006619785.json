@@ -1,0 +1,376 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "eC08Way.c0m SDNBHD(509213A)",
+  "2nd Floor,lsmaCoaway,Jalan Raja Chulan",
+  "50200kualaLumpur,Malayala.",
+  "Tel:603-20301000",
+  "Fax:603-21425587",
+  "Emall:lnfo@coaway.com.my",
+  "GSTREGISTRATIONNO:000212623360",
+  "TAXINVOICE(eCOSWWAY)",
+  "CENTER:G091 UGERID:G091",
+  "ID:VPM185710(LEEMEIYEIN)",
+  "INV NO/DATE:15403-119386(29/07/2016)",
+  "MTDRCATG091:230.60",
+  "MTDeVATG091:2.10",
+  "FRCOLCT QTYIOU eV LIFRICE TOTAL",
+  "(RM) (F:M)",
+  "886808 0.7026.70 26.70ER",
+  "(B3F1)PM BATHROOM",
+  "888008",
+  "PMBATHROOM CLEANER",
+  "8741688 1.4025.80 51.608R",
+  "(A2F1)BGMASK",
+  "8074147 0.00 0.00 0.0OER",
+  "EGHYDRATING SPA MASK",
+  "8074169 3 0.00 0.00 0.00ER",
+  "BGVISIBLYSOFTMILK",
+  "AMTPAILInCI.GST:RM76.30",
+  "AmtPaldexcl.GSTRM 73.87",
+  "GSTAMT:RM4.43",
+  "PAIDBY:CC7186:RM76.30",
+  "TOTALQTY:10 RCEARNED:2",
+  "RPUSED:0 RCUGED:0",
+  "TotaleV:2.10 0:1",
+  "BjF from Inv No:",
+  "0.00",
+  "QBalante:0/00",
+  "uembeBigneture",
+  "V2.6029/07/201612:13:52",
+  "GST Gummary AMT(FM) TAX(FRM)",
+  "(excI GST)",
+  "SR(6%) 73.87 4.43",
+  "ZR(0%) 0.00 0.00",
+  "EX/OS(0%) 0.00 0.00",
+  "TOTAL 73.87 4.43",
+  "SeopuroeocnbeExounoeocrrenrheorne",
+  "ceme stcre witin fcurteen(i） deys frcm the purchaced",
+  "atesubect toCompany'sepprcvel.Ioulteme must be",
+  "edeemed witinTnree（3）mcnthe from thecetecf",
+  "Invcice.（Term&Ccndlticns epplleo）"
+ ],
+ "tokens": [
+  {
+   "text": "eC08Way.c0m SDNBHD(509213A)",
+   "conf": 0.8494973337208783
+  },
+  {
+   "text": "2nd Floor,lsmaCoaway,Jalan Raja Chulan",
+   "conf": 0.8629022930797777
+  },
+  {
+   "text": "50200kualaLumpur,Malayala.",
+   "conf": 0.8699180346268874
+  },
+  {
+   "text": "Tel:603-20301000",
+   "conf": 0.9767495431005955
+  },
+  {
+   "text": "Fax:603-21425587",
+   "conf": 0.9406217988580465
+  },
+  {
+   "text": "Emall:lnfo@coaway.com.my",
+   "conf": 0.9228458156188329
+  },
+  {
+   "text": "GSTREGISTRATIONNO:000212623360",
+   "conf": 0.9322748412688573
+  },
+  {
+   "text": "TAXINVOICE(eCOSWWAY)",
+   "conf": 0.8850999772548676
+  },
+  {
+   "text": "CENTER:G091",
+   "conf": 0.9871083714745261
+  },
+  {
+   "text": "UGERID:G091",
+   "conf": 0.921495957808061
+  },
+  {
+   "text": "ID:VPM185710(LEEMEIYEIN)",
+   "conf": 0.897129292289416
+  },
+  {
+   "text": "INV NO/DATE:15403-119386(29/07/2016)",
+   "conf": 0.9411029948128594
+  },
+  {
+   "text": "MTDRCATG091:230.60",
+   "conf": 0.9723793731795417
+  },
+  {
+   "text": "MTDeVATG091:2.10",
+   "conf": 0.9727455228567123
+  },
+  {
+   "text": "FRCOLCT",
+   "conf": 0.8259328518595014
+  },
+  {
+   "text": "QTYIOU",
+   "conf": 0.8836175501346588
+  },
+  {
+   "text": "eV LIFRICE",
+   "conf": 0.771388053894043
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.980014705657959
+  },
+  {
+   "text": "(RM)",
+   "conf": 0.7997498512268066
+  },
+  {
+   "text": "(F:M)",
+   "conf": 0.7761822402477264
+  },
+  {
+   "text": "886808",
+   "conf": 0.8827185332775116
+  },
+  {
+   "text": "0.7026.70",
+   "conf": 0.994260721736484
+  },
+  {
+   "text": "26.70ER",
+   "conf": 0.9078742563724518
+  },
+  {
+   "text": "(B3F1)PM BATHROOM",
+   "conf": 0.8942744381287518
+  },
+  {
+   "text": "888008",
+   "conf": 0.8513906300067902
+  },
+  {
+   "text": "PMBATHROOM CLEANER",
+   "conf": 0.9192899266878763
+  },
+  {
+   "text": "8741688",
+   "conf": 0.9176570219652993
+  },
+  {
+   "text": "1.4025.80",
+   "conf": 0.9687229726049635
+  },
+  {
+   "text": "51.608R",
+   "conf": 0.9102839699813298
+  },
+  {
+   "text": "(A2F1)BGMASK",
+   "conf": 0.937806025147438
+  },
+  {
+   "text": "8074147",
+   "conf": 0.9737445541790554
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9933038949966431
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9974960386753082
+  },
+  {
+   "text": "0.0OER",
+   "conf": 0.8806490302085876
+  },
+  {
+   "text": "EGHYDRATING SPA MASK",
+   "conf": 0.927433243393898
+  },
+  {
+   "text": "8074169",
+   "conf": 0.917203460420881
+  },
+  {
+   "text": "3",
+   "conf": 0.9760527014732361
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9961817264556885
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9970034658908844
+  },
+  {
+   "text": "0.00ER",
+   "conf": 0.9144222239653269
+  },
+  {
+   "text": "BGVISIBLYSOFTMILK",
+   "conf": 0.9763733218697941
+  },
+  {
+   "text": "AMTPAILInCI.GST:RM76.30",
+   "conf": 0.8965336848860201
+  },
+  {
+   "text": "AmtPaldexcl.GSTRM 73.87",
+   "conf": 0.8794020245904508
+  },
+  {
+   "text": "GSTAMT:RM4.43",
+   "conf": 0.9268389344215393
+  },
+  {
+   "text": "PAIDBY:CC7186:RM76.30",
+   "conf": 0.9342398189363026
+  },
+  {
+   "text": "TOTALQTY:10",
+   "conf": 0.9692578695037148
+  },
+  {
+   "text": "RCEARNED:2",
+   "conf": 0.9264651238918304
+  },
+  {
+   "text": "RPUSED:0",
+   "conf": 0.8966441750526428
+  },
+  {
+   "text": "RCUGED:0",
+   "conf": 0.8410378284752369
+  },
+  {
+   "text": "TotaleV:2.10",
+   "conf": 0.9505328039328257
+  },
+  {
+   "text": "0:1",
+   "conf": 0.5449157059192657
+  },
+  {
+   "text": "BjF from Inv No:",
+   "conf": 0.7463487628847361
+  },
+  {
+   "text": "0.00",
+   "conf": 0.8787285685539246
+  },
+  {
+   "text": "QBalante:0/00",
+   "conf": 0.7866437962422004
+  },
+  {
+   "text": "uembeBigneture",
+   "conf": 0.700662470289639
+  },
+  {
+   "text": "V2.6029/07/201612:13:52",
+   "conf": 0.9797265270481939
+  },
+  {
+   "text": "GST Gummary",
+   "conf": 0.8722548322244124
+  },
+  {
+   "text": "AMT(FM)",
+   "conf": 0.9223708850996835
+  },
+  {
+   "text": "TAX(FRM)",
+   "conf": 0.8173063471913338
+  },
+  {
+   "text": "(excI GST)",
+   "conf": 0.8484993517398834
+  },
+  {
+   "text": "SR(6%)",
+   "conf": 0.9075379272301992
+  },
+  {
+   "text": "73.87",
+   "conf": 0.9947589278221131
+  },
+  {
+   "text": "4.43",
+   "conf": 0.76548932492733
+  },
+  {
+   "text": "ZR(0%)",
+   "conf": 0.8712950845559438
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9968355298042297
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9442898482084274
+  },
+  {
+   "text": "EX/OS(0%)",
+   "conf": 0.7466398278872172
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9985372424125671
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9978835731744766
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.9021961927413941
+  },
+  {
+   "text": "73.87",
+   "conf": 0.9923875808715821
+  },
+  {
+   "text": "4.43",
+   "conf": 0.9263383150100708
+  },
+  {
+   "text": "SeopuroeocnbeExounoeocrrenrheorne",
+   "conf": 0.6050699113896398
+  },
+  {
+   "text": "ceme stcre witin fcurteen(i） deys frcm the purchaced",
+   "conf": 0.7618022979452059
+  },
+  {
+   "text": "atesubect toCompany'sepprcvel.Ioulteme must be",
+   "conf": 0.757260659466619
+  },
+  {
+   "text": "edeemed witinTnree（3）mcnthe from thecetecf",
+   "conf": 0.7513304054737091
+  },
+  {
+   "text": "Invcice.（Term&Ccndlticns epplleo）",
+   "conf": 0.7482724984486898
+  }
+ ],
+ "mean_conf": 0.8921,
+ "low_conf_share": 0.0,
+ "latency_ms": 8042,
+ "fields": {
+  "company": "EC08WAY C0M SDNBHD",
+  "date": "2016-07-29",
+  "total": 4.43
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  4.43
+ ],
+ "key": "X51006619785"
+}

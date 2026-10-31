@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.1-flash-lite",
+ "provider": "gemini",
+ "raw_text": "{\n  \"vendor\": \"SANTA FE MEXICAN\",\n  \"date\": \"2016-07-24\",\n  \"subtotal\": 93.5,\n  \"tax\": 6.33,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 99.83,\n  \"currency\": \"USD\",\n  \"confidence\": 0.98,\n  \"notes\": null\n}",
+ "data": {
+  "vendor": "SANTA FE MEXICAN",
+  "date": "2016-07-24",
+  "subtotal": 93.5,
+  "tax": 6.33,
+  "tip": null,
+  "discount": null,
+  "total": 99.83,
+  "currency": "USD",
+  "confidence": 0.98,
+  "notes": null
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1458,
+  "output_tokens": 106,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.000523,
+ "latency_ms": 1511,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.1-flash-lite",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.1-flash-lite"
+ ],
+ "key": "W0010_4904bfb4212c"
+}

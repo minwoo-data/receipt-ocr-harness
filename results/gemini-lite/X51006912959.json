@@ -1,0 +1,58 @@
+{
+ "engine": "gemini-3.1-flash-lite",
+ "provider": "gemini",
+ "raw_text": "{\n  \"vendor\": \"Royaltea\",\n  \"date\": \"2018-05-09\",\n  \"subtotal\": 10.90,\n  \"tax\": 0.62,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 10.90,\n  \"currency\": \"MYR\",\n  \"confidence\": 0.98,\n  \"notes\": null\n}",
+ "data": {
+  "vendor": "Royaltea",
+  "date": "2018-05-09",
+  "subtotal": 10.9,
+  "tax": 0.62,
+  "tip": null,
+  "discount": null,
+  "total": 10.9,
+  "currency": "MYR",
+  "confidence": 0.98,
+  "notes": null
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1461,
+  "output_tokens": 106,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.000524,
+ "latency_ms": 16735,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.1-flash-lite",
+   "ok": false,
+   "error": "429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
+   "attempt": 1,
+   "config": 0
+  },
+  {
+   "provider": "gemini",
+   "model": "gemini-3.1-flash-lite",
+   "ok": false,
+   "error": "429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
+   "attempt": 2,
+   "config": 0
+  },
+  {
+   "provider": "gemini",
+   "model": "gemini-3.1-flash-lite",
+   "ok": true,
+   "error": null,
+   "attempt": 3,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.1-flash-lite"
+ ],
+ "key": "X51006912959"
+}

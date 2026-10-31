@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.1-flash-lite",
+ "provider": "gemini",
+ "raw_text": "{\n  \"vendor\": \"Fuji\",\n  \"date\": \"2018-03-31\",\n  \"subtotal\": 1090.0,\n  \"tax\": 78.44,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 1199.0,\n  \"currency\": \"THB\",\n  \"confidence\": 1.0,\n  \"notes\": \"Service charge of 109.00 is included in the total.\"\n}",
+ "data": {
+  "vendor": "Fuji",
+  "date": "2018-03-31",
+  "subtotal": 1090.0,
+  "tax": 78.44,
+  "tip": null,
+  "discount": null,
+  "total": 1199.0,
+  "currency": "THB",
+  "confidence": 1.0,
+  "notes": "Service charge of 109.00 is included in the total."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1458,
+  "output_tokens": 123,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.000549,
+ "latency_ms": 1553,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.1-flash-lite",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.1-flash-lite"
+ ],
+ "key": "W0027_952eb692fc85"
+}

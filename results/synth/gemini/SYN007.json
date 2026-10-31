@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.6-flash",
+ "provider": "gemini",
+ "raw_text": "{\"vendor\": \"MAPLE & OAK BOOKSTORE\", \"date\": \"2028-09-09\", \"subtotal\": 252.6, \"tax\": 15.16, \"tip\": null, \"discount\": null, \"total\": 267.76, \"currency\": \"MYR\", \"confidence\": 0.95, \"notes\": null}",
+ "data": {
+  "vendor": "MAPLE & OAK BOOKSTORE",
+  "date": "2028-09-09",
+  "subtotal": 252.6,
+  "tax": 15.16,
+  "tip": null,
+  "discount": null,
+  "total": 267.76,
+  "currency": "MYR",
+  "confidence": 0.95,
+  "notes": null
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1457,
+  "output_tokens": 90,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.00143,
+ "latency_ms": 2062,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.6-flash",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.6-flash"
+ ],
+ "key": "SYN007"
+}

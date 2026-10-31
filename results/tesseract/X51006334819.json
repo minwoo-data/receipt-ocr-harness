@@ -1,0 +1,473 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "| BEMED {SP} SDM. BHD.",
+  "| ° M0.49, Jalan OinarS Use,",
+  "| Subang Perdana,",
+  "40150 Shah Alam, Selangor DE.",
+  "| 03-7845 S155",
+  "GST Reg : 001734154490",
+  "@ __ CASH RECEIET te",
+  "Gare: 70274707814 9 20/Jan/e0t7 03:06:50",
+  "Cashier: be (}",
+  "Gy Cede&Dasc Prics Tatal",
+  "ALPHA LIPID LIFE LINE 450MG 4506",
+  "1 184910 195.90 {05 3k",
+  "DOR FIT VEGE HIGH FIBER 16'SKi2G",
+  "| 1 282930 33.00 3g 8k",
+  "z Type: z —",
+  "SubTotal: 203.08",
+  "Rounding Adj : 0.00",
+  "Total inclusive GST:",
+  "MASTER 203.06",
+  "| GST Summary: Areunt Tax",
+  "(MYR) = (MYR)",
+  "OTT a a /",
+  "@. GUAT CHYE",
+  "Paints :",
+  "3.243",
+  "i. Thani you.",
+  "Please come again."
+ ],
+ "tokens": [
+  {
+   "text": "|",
+   "conf": 0.94
+  },
+  {
+   "text": "BEMED",
+   "conf": 0.66
+  },
+  {
+   "text": "{SP}",
+   "conf": 0.48
+  },
+  {
+   "text": "SDM.",
+   "conf": 0.87
+  },
+  {
+   "text": "BHD.",
+   "conf": 0.86
+  },
+  {
+   "text": "|",
+   "conf": 0.86
+  },
+  {
+   "text": "°",
+   "conf": 0.41
+  },
+  {
+   "text": "M0.49,",
+   "conf": 0.26
+  },
+  {
+   "text": "Jalan",
+   "conf": 0.61
+  },
+  {
+   "text": "OinarS",
+   "conf": 0.46
+  },
+  {
+   "text": "Use,",
+   "conf": 0.56
+  },
+  {
+   "text": "|",
+   "conf": 0.52
+  },
+  {
+   "text": "Subang",
+   "conf": 0.72
+  },
+  {
+   "text": "Perdana,",
+   "conf": 0.95
+  },
+  {
+   "text": "40150",
+   "conf": 0.95
+  },
+  {
+   "text": "Shah",
+   "conf": 0.76
+  },
+  {
+   "text": "Alam,",
+   "conf": 0.9
+  },
+  {
+   "text": "Selangor",
+   "conf": 0.48
+  },
+  {
+   "text": "DE.",
+   "conf": 0.24
+  },
+  {
+   "text": "|",
+   "conf": 0.95
+  },
+  {
+   "text": "03-7845",
+   "conf": 0.82
+  },
+  {
+   "text": "S155",
+   "conf": 0.53
+  },
+  {
+   "text": "GST",
+   "conf": 0.95
+  },
+  {
+   "text": "Reg",
+   "conf": 0.84
+  },
+  {
+   "text": ":",
+   "conf": 0.53
+  },
+  {
+   "text": "001734154490",
+   "conf": 0.63
+  },
+  {
+   "text": "@",
+   "conf": 0.85
+  },
+  {
+   "text": "__",
+   "conf": 0.48
+  },
+  {
+   "text": "CASH",
+   "conf": 0.18
+  },
+  {
+   "text": "RECEIET",
+   "conf": 0.09
+  },
+  {
+   "text": "te",
+   "conf": 0.31
+  },
+  {
+   "text": "Gare:",
+   "conf": 0.34
+  },
+  {
+   "text": "70274707814",
+   "conf": 0.77
+  },
+  {
+   "text": "9",
+   "conf": 0.0
+  },
+  {
+   "text": "20/Jan/e0t7",
+   "conf": 0.54
+  },
+  {
+   "text": "03:06:50",
+   "conf": 0.7
+  },
+  {
+   "text": "Cashier:",
+   "conf": 0.14
+  },
+  {
+   "text": "be",
+   "conf": 0.87
+  },
+  {
+   "text": "(}",
+   "conf": 0.82
+  },
+  {
+   "text": "Gy",
+   "conf": 0.56
+  },
+  {
+   "text": "Cede&Dasc",
+   "conf": 0.42
+  },
+  {
+   "text": "Prics",
+   "conf": 0.26
+  },
+  {
+   "text": "Tatal",
+   "conf": 0.4
+  },
+  {
+   "text": "ALPHA",
+   "conf": 0.93
+  },
+  {
+   "text": "LIPID",
+   "conf": 0.51
+  },
+  {
+   "text": "LIFE",
+   "conf": 0.95
+  },
+  {
+   "text": "LINE",
+   "conf": 0.93
+  },
+  {
+   "text": "450MG",
+   "conf": 0.6
+  },
+  {
+   "text": "4506",
+   "conf": 0.03
+  },
+  {
+   "text": "1",
+   "conf": 0.83
+  },
+  {
+   "text": "184910",
+   "conf": 0.79
+  },
+  {
+   "text": "195.90",
+   "conf": 0.74
+  },
+  {
+   "text": "{05",
+   "conf": 0.6
+  },
+  {
+   "text": "3k",
+   "conf": 0.58
+  },
+  {
+   "text": "DOR",
+   "conf": 0.85
+  },
+  {
+   "text": "FIT",
+   "conf": 0.91
+  },
+  {
+   "text": "VEGE",
+   "conf": 0.91
+  },
+  {
+   "text": "HIGH",
+   "conf": 0.96
+  },
+  {
+   "text": "FIBER",
+   "conf": 0.92
+  },
+  {
+   "text": "16'SKi2G",
+   "conf": 0.22
+  },
+  {
+   "text": "|",
+   "conf": 0.73
+  },
+  {
+   "text": "1",
+   "conf": 0.69
+  },
+  {
+   "text": "282930",
+   "conf": 0.86
+  },
+  {
+   "text": "33.00",
+   "conf": 0.9
+  },
+  {
+   "text": "3g",
+   "conf": 0.64
+  },
+  {
+   "text": "8k",
+   "conf": 0.54
+  },
+  {
+   "text": "z",
+   "conf": 0.52
+  },
+  {
+   "text": "Type:",
+   "conf": 0.89
+  },
+  {
+   "text": "z",
+   "conf": 0.25
+  },
+  {
+   "text": "—",
+   "conf": 0.0
+  },
+  {
+   "text": "SubTotal:",
+   "conf": 0.39
+  },
+  {
+   "text": "203.08",
+   "conf": 0.67
+  },
+  {
+   "text": "Rounding",
+   "conf": 0.85
+  },
+  {
+   "text": "Adj",
+   "conf": 0.88
+  },
+  {
+   "text": ":",
+   "conf": 0.88
+  },
+  {
+   "text": "0.00",
+   "conf": 0.41
+  },
+  {
+   "text": "Total",
+   "conf": 0.96
+  },
+  {
+   "text": "inclusive",
+   "conf": 0.96
+  },
+  {
+   "text": "GST:",
+   "conf": 0.86
+  },
+  {
+   "text": "MASTER",
+   "conf": 0.95
+  },
+  {
+   "text": "203.06",
+   "conf": 0.7
+  },
+  {
+   "text": "|",
+   "conf": 0.68
+  },
+  {
+   "text": "GST",
+   "conf": 0.68
+  },
+  {
+   "text": "Summary:",
+   "conf": 0.96
+  },
+  {
+   "text": "Areunt",
+   "conf": 0.03
+  },
+  {
+   "text": "Tax",
+   "conf": 0.93
+  },
+  {
+   "text": "(MYR)",
+   "conf": 0.33
+  },
+  {
+   "text": "=",
+   "conf": 0.35
+  },
+  {
+   "text": "(MYR)",
+   "conf": 0.47
+  },
+  {
+   "text": "OTT",
+   "conf": 0.27
+  },
+  {
+   "text": "a",
+   "conf": 0.46
+  },
+  {
+   "text": "a",
+   "conf": 0.11
+  },
+  {
+   "text": "/",
+   "conf": 0.23
+  },
+  {
+   "text": "@.",
+   "conf": 0.06
+  },
+  {
+   "text": "GUAT",
+   "conf": 0.91
+  },
+  {
+   "text": "CHYE",
+   "conf": 0.61
+  },
+  {
+   "text": "Paints",
+   "conf": 0.9
+  },
+  {
+   "text": ":",
+   "conf": 0.82
+  },
+  {
+   "text": "3.243",
+   "conf": 0.7
+  },
+  {
+   "text": "i.",
+   "conf": 0.08
+  },
+  {
+   "text": "Thani",
+   "conf": 0.47
+  },
+  {
+   "text": "you.",
+   "conf": 0.83
+  },
+  {
+   "text": "Please",
+   "conf": 0.96
+  },
+  {
+   "text": "come",
+   "conf": 0.95
+  },
+  {
+   "text": "again.",
+   "conf": 0.8
+  }
+ ],
+ "mean_conf": 0.6271,
+ "low_conf_share": 0.3143,
+ "latency_ms": 1633,
+ "fields": {
+  "company": "BEMED SP SDM BHD",
+  "date": null,
+  "total": 203.08
+ },
+ "rule_reasons": [
+  "date_not_found",
+  "total_no_keyword_fallback_max"
+ ],
+ "total_candidates": [
+  33.0,
+  203.08,
+  0.0,
+  203.06
+ ],
+ "key": "X51006334819"
+}

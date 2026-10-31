@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.1-flash-lite",
+ "provider": "gemini",
+ "raw_text": "{\n  \"vendor\": \"Hog Island Oyster Co.\",\n  \"date\": \"2015-01-24\",\n  \"subtotal\": 117.00,\n  \"tax\": 10.55,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 131.08,\n  \"currency\": \"USD\",\n  \"confidence\": 0.98,\n  \"notes\": \"SF Mandates of 3.53 is included in the total but not categorized as tax.\"\n}",
+ "data": {
+  "vendor": "Hog Island Oyster Co.",
+  "date": "2015-01-24",
+  "subtotal": 117.0,
+  "tax": 10.55,
+  "tip": null,
+  "discount": null,
+  "total": 131.08,
+  "currency": "USD",
+  "confidence": 0.98,
+  "notes": "SF Mandates of 3.53 is included in the total but not categorized as tax."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1471,
+  "output_tokens": 130,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.000563,
+ "latency_ms": 1649,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.1-flash-lite",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.1-flash-lite"
+ ],
+ "key": "W0159_af3eb5099f48"
+}

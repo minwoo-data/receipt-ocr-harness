@@ -1,0 +1,141 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "CREDIT CARD",
+  "ORDER",
+  "8076",
+  "Domino'sP1zza",
+  "(254)228-5584",
+  "7/31/2014 6:00PM",
+  "Order21263 Server 1037",
+  "Carry-Dut",
+  "(254)366-6062",
+  "Mastercard",
+  "CREDIT CARD",
+  "REFERENCE",
+  "APPROVAL CODE 097475",
+  "Amount $15.28",
+  "Tip",
+  "Total",
+  "DaD",
+  "SIGNATURE",
+  "IAREE TO PAY THE ABOVE TOTAL",
+  "KTACDOROING TO CARD ISSUER",
+  "ACREEMENT"
+ ],
+ "tokens": [
+  {
+   "text": "CREDIT CARD",
+   "conf": 0.952905611558394
+  },
+  {
+   "text": "ORDER",
+   "conf": 0.9791466593742371
+  },
+  {
+   "text": "8076",
+   "conf": 0.9938718974590302
+  },
+  {
+   "text": "Domino'sP1zza",
+   "conf": 0.8611836112462558
+  },
+  {
+   "text": "(254)228-5584",
+   "conf": 0.9382410783034104
+  },
+  {
+   "text": "7/31/2014",
+   "conf": 0.9897249870830112
+  },
+  {
+   "text": "6:00PM",
+   "conf": 0.96554962793986
+  },
+  {
+   "text": "Order21263",
+   "conf": 0.9453137695789338
+  },
+  {
+   "text": "Server 1037",
+   "conf": 0.9580262086608193
+  },
+  {
+   "text": "Carry-Dut",
+   "conf": 0.9357748561435275
+  },
+  {
+   "text": "(254)366-6062",
+   "conf": 0.9358111482400161
+  },
+  {
+   "text": "Mastercard",
+   "conf": 0.981395012140274
+  },
+  {
+   "text": "CREDIT CARD",
+   "conf": 0.9239376566626809
+  },
+  {
+   "text": "REFERENCE",
+   "conf": 0.9918226136101617
+  },
+  {
+   "text": "APPROVAL CODE",
+   "conf": 0.936056503882775
+  },
+  {
+   "text": "097475",
+   "conf": 0.9962889850139618
+  },
+  {
+   "text": "Amount",
+   "conf": 0.9092200994491577
+  },
+  {
+   "text": "$15.28",
+   "conf": 0.9580730497837067
+  },
+  {
+   "text": "Tip",
+   "conf": 0.8527772625287374
+  },
+  {
+   "text": "Total",
+   "conf": 0.9052937388420105
+  },
+  {
+   "text": "DaD",
+   "conf": 0.7640472451845804
+  },
+  {
+   "text": "SIGNATURE",
+   "conf": 0.9425197243690491
+  },
+  {
+   "text": "IAREE TO PAY THE ABOVE TOTAL",
+   "conf": 0.8502245140927178
+  },
+  {
+   "text": "KTACDOROING TO CARD ISSUER",
+   "conf": 0.8231747517218957
+  },
+  {
+   "text": "ACREEMENT",
+   "conf": 0.8443131711747911
+  }
+ ],
+ "mean_conf": 0.9254,
+ "low_conf_share": 0.0,
+ "latency_ms": 2763,
+ "fields": {
+  "company": "CREDIT CARD",
+  "date": "2014-07-31",
+  "total": 15.28
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  15.28
+ ],
+ "key": "W0192_4314"
+}

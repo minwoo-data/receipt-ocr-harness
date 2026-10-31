@@ -1,0 +1,251 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "ORAL BEACH HTL 8 RESORTS",
+  "POOL BAR",
+  "Ss",
+  "[rer PSS enn Tae",
+  "‘Seat:1 Covers:1. Polcy:ALL INCLUSIVE",
+  "otei7/047201 Tne 627 Ver NICOL",
+  "ovsetien Aout",
+  "FRESHLY ORMIGEDUICE TOSS «3.5",
+  "SubTotal 38",
+  "Discount 60.00% 27",
+  "TOTAL EUR ise",
+  "GRAND TOTAL EUR 1.58",
+  "ae et SE ate",
+  "300 18 018",
+  "cer lS NiGRY",
+  "Signature :",
+  "YOU IEE"
+ ],
+ "tokens": [
+  {
+   "text": "ORAL",
+   "conf": 0.68
+  },
+  {
+   "text": "BEACH",
+   "conf": 0.67
+  },
+  {
+   "text": "HTL",
+   "conf": 0.79
+  },
+  {
+   "text": "8",
+   "conf": 0.48
+  },
+  {
+   "text": "RESORTS",
+   "conf": 0.82
+  },
+  {
+   "text": "POOL",
+   "conf": 0.49
+  },
+  {
+   "text": "BAR",
+   "conf": 0.8
+  },
+  {
+   "text": "Ss",
+   "conf": 0.44
+  },
+  {
+   "text": "[rer",
+   "conf": 0.2
+  },
+  {
+   "text": "PSS",
+   "conf": 0.67
+  },
+  {
+   "text": "enn",
+   "conf": 0.35
+  },
+  {
+   "text": "Tae",
+   "conf": 0.12
+  },
+  {
+   "text": "‘Seat:1",
+   "conf": 0.22
+  },
+  {
+   "text": "Covers:1.",
+   "conf": 0.28
+  },
+  {
+   "text": "Polcy:ALL",
+   "conf": 0.5
+  },
+  {
+   "text": "INCLUSIVE",
+   "conf": 0.93
+  },
+  {
+   "text": "otei7/047201",
+   "conf": 0.0
+  },
+  {
+   "text": "Tne",
+   "conf": 0.16
+  },
+  {
+   "text": "627",
+   "conf": 0.15
+  },
+  {
+   "text": "Ver",
+   "conf": 0.58
+  },
+  {
+   "text": "NICOL",
+   "conf": 0.66
+  },
+  {
+   "text": "ovsetien",
+   "conf": 0.0
+  },
+  {
+   "text": "Aout",
+   "conf": 0.16
+  },
+  {
+   "text": "FRESHLY",
+   "conf": 0.72
+  },
+  {
+   "text": "ORMIGEDUICE",
+   "conf": 0.29
+  },
+  {
+   "text": "TOSS",
+   "conf": 0.28
+  },
+  {
+   "text": "«3.5",
+   "conf": 0.3
+  },
+  {
+   "text": "SubTotal",
+   "conf": 0.45
+  },
+  {
+   "text": "38",
+   "conf": 0.45
+  },
+  {
+   "text": "Discount",
+   "conf": 0.49
+  },
+  {
+   "text": "60.00%",
+   "conf": 0.49
+  },
+  {
+   "text": "27",
+   "conf": 0.65
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.69
+  },
+  {
+   "text": "EUR",
+   "conf": 0.69
+  },
+  {
+   "text": "ise",
+   "conf": 0.53
+  },
+  {
+   "text": "GRAND",
+   "conf": 0.92
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.95
+  },
+  {
+   "text": "EUR",
+   "conf": 0.95
+  },
+  {
+   "text": "1.58",
+   "conf": 0.88
+  },
+  {
+   "text": "ae",
+   "conf": 0.32
+  },
+  {
+   "text": "et",
+   "conf": 0.26
+  },
+  {
+   "text": "SE",
+   "conf": 0.17
+  },
+  {
+   "text": "ate",
+   "conf": 0.28
+  },
+  {
+   "text": "300",
+   "conf": 0.72
+  },
+  {
+   "text": "18",
+   "conf": 0.49
+  },
+  {
+   "text": "018",
+   "conf": 0.41
+  },
+  {
+   "text": "cer",
+   "conf": 0.55
+  },
+  {
+   "text": "lS",
+   "conf": 0.0
+  },
+  {
+   "text": "NiGRY",
+   "conf": 0.0
+  },
+  {
+   "text": "Signature",
+   "conf": 0.9
+  },
+  {
+   "text": ":",
+   "conf": 0.86
+  },
+  {
+   "text": "YOU",
+   "conf": 0.82
+  },
+  {
+   "text": "IEE",
+   "conf": 0.26
+  }
+ ],
+ "mean_conf": 0.4891,
+ "low_conf_share": 0.5472,
+ "latency_ms": 345,
+ "fields": {
+  "company": "ORAL BEACH HTL 8 RESORTS",
+  "date": null,
+  "total": 1.58
+ },
+ "rule_reasons": [
+  "date_not_found"
+ ],
+ "total_candidates": [
+  1.58
+ ],
+ "key": "W0026_11a34f262852"
+}

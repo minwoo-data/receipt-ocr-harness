@@ -1,0 +1,267 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "ENWHardware Centre(M)Sdn.Bhd.",
+  "Co.Reg No.:795225-A",
+  "GSTReg.1o.:000155453440",
+  "No:G3,BIkG,JInPJU1A3",
+  "AraDamansara,47301",
+  "PetalingJaya,SelangorDarulEhsan",
+  "TEL03-78326929012-6599829",
+  "09/04/2018 TaxInvoice",
+  "No.CS00232967",
+  "CashSale(Ara D'sara)",
+  "Tel:03-78326929",
+  "H/P:012-6599829",
+  "Item Oty U.Price",
+  "001781 100 16.00 16.00SR",
+  "Big CottonMop500g",
+  "002115 1.00 1.00 1.00SR",
+  "Cement.",
+  "WS150 1.00 25.00 25.00SR",
+  "320ml.WoodSheer'Mahagany-150",
+  "102193 1.00 9.00 9.00SR",
+  "Broom-908",
+  "TotalAmt Incl.GST@6%: 51.00",
+  "RoundingAdjusment 0.00",
+  "TotalAmtPayable: 51.00",
+  "TotalQtyTender 4",
+  "GSTSummary Amount(Ri) GST(RM)",
+  "SR=6% 48.10 2.90",
+  "POINT:000",
+  "*Goodssoldarenotieturnable",
+  "Thankyouforshoppingat",
+  "ENWHardwareCentre(M)Sdn.Bhd"
+ ],
+ "tokens": [
+  {
+   "text": "ENWHardware Centre(M)Sdn.Bhd.",
+   "conf": 0.934028197979105
+  },
+  {
+   "text": "Co.Reg No.:795225-A",
+   "conf": 0.9472483427901017
+  },
+  {
+   "text": "GSTReg.1o.:000155453440",
+   "conf": 0.9573091760925625
+  },
+  {
+   "text": "No:G3,BIkG,JInPJU1A3",
+   "conf": 0.9029333665966988
+  },
+  {
+   "text": "AraDamansara,47301",
+   "conf": 0.9613307764132818
+  },
+  {
+   "text": "PetalingJaya,SelangorDarulEhsan",
+   "conf": 0.9590821900675374
+  },
+  {
+   "text": "TEL03-78326929012-6599829",
+   "conf": 0.9970730090141297
+  },
+  {
+   "text": "09/04/2018",
+   "conf": 0.9923145651817322
+  },
+  {
+   "text": "TaxInvoice",
+   "conf": 0.9732062935829162
+  },
+  {
+   "text": "No.CS00232967",
+   "conf": 0.9730594020623428
+  },
+  {
+   "text": "CashSale(Ara D'sara)",
+   "conf": 0.9432157844305038
+  },
+  {
+   "text": "Tel:03-78326929",
+   "conf": 0.9884958942731221
+  },
+  {
+   "text": "H/P:012-6599829",
+   "conf": 0.9900541027386983
+  },
+  {
+   "text": "Item",
+   "conf": 0.9722655713558197
+  },
+  {
+   "text": "Oty",
+   "conf": 0.8502903381983439
+  },
+  {
+   "text": "U.Price",
+   "conf": 0.9277062926973615
+  },
+  {
+   "text": "001781",
+   "conf": 0.9991340935230255
+  },
+  {
+   "text": "100",
+   "conf": 0.8766591548919678
+  },
+  {
+   "text": "16.00",
+   "conf": 0.9982280135154724
+  },
+  {
+   "text": "16.00SR",
+   "conf": 0.9912638749395098
+  },
+  {
+   "text": "Big CottonMop500g",
+   "conf": 0.973485553965849
+  },
+  {
+   "text": "002115",
+   "conf": 0.9985612531503042
+  },
+  {
+   "text": "1.00",
+   "conf": 0.9966765344142914
+  },
+  {
+   "text": "1.00",
+   "conf": 0.9978864938020706
+  },
+  {
+   "text": "1.00SR",
+   "conf": 0.9898750086625417
+  },
+  {
+   "text": "Cement.",
+   "conf": 0.9925542729241508
+  },
+  {
+   "text": "WS150",
+   "conf": 0.996420431137085
+  },
+  {
+   "text": "1.00",
+   "conf": 0.9957416355609894
+  },
+  {
+   "text": "25.00",
+   "conf": 0.9988158464431762
+  },
+  {
+   "text": "25.00SR",
+   "conf": 0.9943183745656695
+  },
+  {
+   "text": "320ml.WoodSheer'Mahagany-150",
+   "conf": 0.9578061210257667
+  },
+  {
+   "text": "102193",
+   "conf": 0.9989074965318044
+  },
+  {
+   "text": "1.00",
+   "conf": 0.9960280656814575
+  },
+  {
+   "text": "9.00",
+   "conf": 0.9987024068832397
+  },
+  {
+   "text": "9.00SR",
+   "conf": 0.9930029312769572
+  },
+  {
+   "text": "Broom-908",
+   "conf": 0.9862107435862223
+  },
+  {
+   "text": "TotalAmt Incl.GST@6%:",
+   "conf": 0.9128868409565517
+  },
+  {
+   "text": "51.00",
+   "conf": 0.9976502895355225
+  },
+  {
+   "text": "RoundingAdjusment",
+   "conf": 0.9910011291503906
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9979673773050308
+  },
+  {
+   "text": "TotalAmtPayable:",
+   "conf": 0.9704120345413685
+  },
+  {
+   "text": "51.00",
+   "conf": 0.9990779161453247
+  },
+  {
+   "text": "TotalQtyTender",
+   "conf": 0.9918635530131203
+  },
+  {
+   "text": "4",
+   "conf": 0.9987103939056396
+  },
+  {
+   "text": "GSTSummary",
+   "conf": 0.987676078081131
+  },
+  {
+   "text": "Amount(Ri)",
+   "conf": 0.9491613566875458
+  },
+  {
+   "text": "GST(RM)",
+   "conf": 0.9326276353427342
+  },
+  {
+   "text": "SR=6%",
+   "conf": 0.9935603976249695
+  },
+  {
+   "text": "48.10",
+   "conf": 0.9910557866096497
+  },
+  {
+   "text": "2.90",
+   "conf": 0.9982283860445023
+  },
+  {
+   "text": "POINT:000",
+   "conf": 0.9675129453341166
+  },
+  {
+   "text": "*Goodssoldarenotieturnable",
+   "conf": 0.9506224726255124
+  },
+  {
+   "text": "Thankyouforshoppingat",
+   "conf": 0.9958638861065819
+  },
+  {
+   "text": "ENWHardwareCentre(M)Sdn.Bhd",
+   "conf": 0.9807997897819236
+  }
+ ],
+ "mean_conf": 0.9742,
+ "low_conf_share": 0.0,
+ "latency_ms": 13717,
+ "fields": {
+  "company": "ENWHARDWARE CENTRE SDN BHD",
+  "date": "2018-04-09",
+  "total": 51.0
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  51.0
+ ],
+ "key": "X51007225417"
+}

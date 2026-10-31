@@ -1,0 +1,286 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "Pizza Hut Restaurant Sdn. Bhd",
+  "(113925-U)",
+  "Lvl 7 Tower 1,VSquare@PJ City Centre",
+  "JIn Utara,46200 P.Jaya,Selangor",
+  "PIZZA HUT",
+  "PIZZA HUT CITY PARK SEREMBAN",
+  "Store I0:3010260",
+  "GST 10:001750278144 53 Waiter3",
+  "1PIZZAHUT1",
+  "Docket:282755 Cust. TBL2/1 Count:1",
+  "05Apr1713:31:11",
+  "LUNCHXPRESS 1BE 8.90S",
+  "MD BF ARRAB SPGE",
+  "MD SOUPE",
+  "MD ISOYA BEAN E",
+  "38154 GES REDEEM EE 0.007 0.00S S",
+  "NEW GES GB+SOUP E",
+  "MD SOUPE MDGBE 10.00",
+  "CASH 8.90",
+  "Sub Total: 0.89",
+  "Service Charge: 9.79",
+  "Total: 0.01",
+  "Rnd Adj 9.80",
+  "Ttl Aft Rnd 10.00",
+  "Payment: 0.20",
+  "Change Due: 0.55",
+  "6%GST 1CL0SED 05Apr17 14:05:32-",
+  "Visit www.pizzahutsurvey.com.my,share",
+  "your experience within 5 Days and get",
+  "Free 1 Garlic Bread &I Mushroom Soup",
+  "Survey Code :",
+  "*Dine In/Take Away: With any pizza or",
+  "pasta purchase on your next visit.",
+  "*Delivery: With Min. purchase of RM20.",
+  "*Valid 30 Days from receipt date",
+  "lalid with Original Receipt oniy. tion per visit"
+ ],
+ "tokens": [
+  {
+   "text": "Pizza Hut Restaurant Sdn. Bhd",
+   "conf": 0.9641684972006699
+  },
+  {
+   "text": "(113925-U)",
+   "conf": 0.932885879278183
+  },
+  {
+   "text": "Lvl 7 Tower 1,VSquare@PJ City Centre",
+   "conf": 0.9219421380096011
+  },
+  {
+   "text": "JIn Utara,46200 P.Jaya,Selangor",
+   "conf": 0.929595535801303
+  },
+  {
+   "text": "PIZZA HUT",
+   "conf": 0.963876359992557
+  },
+  {
+   "text": "PIZZA HUT CITY PARK SEREMBAN",
+   "conf": 0.9568118644612176
+  },
+  {
+   "text": "Store I0:3010260",
+   "conf": 0.9511532634496689
+  },
+  {
+   "text": "GST 10:001750278144",
+   "conf": 0.9730586629164847
+  },
+  {
+   "text": "53 Waiter3",
+   "conf": 0.968951678276062
+  },
+  {
+   "text": "1PIZZAHUT1",
+   "conf": 0.9514073371887207
+  },
+  {
+   "text": "Cust.",
+   "conf": 0.9523564100265502
+  },
+  {
+   "text": "Count:1",
+   "conf": 0.9621646574565342
+  },
+  {
+   "text": "Docket:282755",
+   "conf": 0.9861878615159255
+  },
+  {
+   "text": "TBL2/1",
+   "conf": 0.9375207324822744
+  },
+  {
+   "text": "05Apr1713:31:11",
+   "conf": 0.941776176293691
+  },
+  {
+   "text": "8.90S",
+   "conf": 0.9606683731079102
+  },
+  {
+   "text": "LUNCHXPRESS 1BE",
+   "conf": 0.9377872963746389
+  },
+  {
+   "text": "MD BF ARRAB SPGE",
+   "conf": 0.9548494331538677
+  },
+  {
+   "text": "MD SOUPE",
+   "conf": 0.9303782433271408
+  },
+  {
+   "text": "MD ISOYA BEAN E",
+   "conf": 0.8953498641649882
+  },
+  {
+   "text": "38154",
+   "conf": 0.9982028365135193
+  },
+  {
+   "text": "0.007",
+   "conf": 0.8441347479820251
+  },
+  {
+   "text": "GES REDEEM EE",
+   "conf": 0.9541825606272771
+  },
+  {
+   "text": "0.00S",
+   "conf": 0.9551821351051331
+  },
+  {
+   "text": "S",
+   "conf": 0.8655492067337036
+  },
+  {
+   "text": "NEW GES GB+SOUP E",
+   "conf": 0.9597005528562209
+  },
+  {
+   "text": "MDGBE",
+   "conf": 0.9838769197463989
+  },
+  {
+   "text": "10.00",
+   "conf": 0.9975838780403137
+  },
+  {
+   "text": "MD SOUPE",
+   "conf": 0.9324024021625519
+  },
+  {
+   "text": "CASH",
+   "conf": 0.9932373017072678
+  },
+  {
+   "text": "8.90",
+   "conf": 0.9983495026826859
+  },
+  {
+   "text": "0.89",
+   "conf": 0.9976186603307724
+  },
+  {
+   "text": "Sub Total:",
+   "conf": 0.9691501259803772
+  },
+  {
+   "text": "9.79",
+   "conf": 0.9968821704387665
+  },
+  {
+   "text": "Service Charge:",
+   "conf": 0.972315768400828
+  },
+  {
+   "text": "0.01",
+   "conf": 0.9977409690618515
+  },
+  {
+   "text": "Total:",
+   "conf": 0.9116886059443156
+  },
+  {
+   "text": "9.80",
+   "conf": 0.9964936971664429
+  },
+  {
+   "text": "Rnd Adj",
+   "conf": 0.9356924039976937
+  },
+  {
+   "text": "10.00",
+   "conf": 0.9978259325027465
+  },
+  {
+   "text": "Ttl Aft Rnd",
+   "conf": 0.9196890375830911
+  },
+  {
+   "text": "0.20",
+   "conf": 0.9981045573949814
+  },
+  {
+   "text": "Payment:",
+   "conf": 0.9899585917592049
+  },
+  {
+   "text": "0.55",
+   "conf": 0.9979423880577087
+  },
+  {
+   "text": "Change Due:",
+   "conf": 0.9678073958917097
+  },
+  {
+   "text": "6%GST",
+   "conf": 0.9978799104690552
+  },
+  {
+   "text": "1CL0SED 05Apr17 14:05:32-",
+   "conf": 0.9462264966964722
+  },
+  {
+   "text": "Visit www.pizzahutsurvey.com.my,share",
+   "conf": 0.9809611069189536
+  },
+  {
+   "text": "your experience within 5 Days and get",
+   "conf": 0.9589564929137359
+  },
+  {
+   "text": "Free 1 Garlic Bread &I Mushroom Soup",
+   "conf": 0.9166541116105186
+  },
+  {
+   "text": "Survey Code :",
+   "conf": 0.9208813172120315
+  },
+  {
+   "text": "*Dine In/Take Away: With any pizza or",
+   "conf": 0.9598448647035135
+  },
+  {
+   "text": "pasta purchase on your next visit.",
+   "conf": 0.9511950953918344
+  },
+  {
+   "text": "*Delivery: With Min. purchase of RM20.",
+   "conf": 0.9650534140436273
+  },
+  {
+   "text": "*Valid 30 Days from receipt date",
+   "conf": 0.9519556444138288
+  },
+  {
+   "text": "lalid with Original Receipt oniy.",
+   "conf": 0.9455542437957994
+  },
+  {
+   "text": "tion per visit",
+   "conf": 0.9790244655949729
+  }
+ ],
+ "mean_conf": 0.9575,
+ "low_conf_share": 0.0,
+ "latency_ms": 4517,
+ "fields": {
+  "company": "PIZZA HUT RESTAURANT SDN BHD",
+  "date": null,
+  "total": 0.01
+ },
+ "rule_reasons": [
+  "date_not_found"
+ ],
+ "total_candidates": [
+  0.01
+ ],
+ "key": "W0126_8267df0e11d1"
+}

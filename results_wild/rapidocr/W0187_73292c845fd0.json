@@ -1,0 +1,128 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "VELCOME",
+  "Shell.Canada",
+  "8522200Sireet",
+  "VIW3A6",
+  "La88）513-9420 BC",
+  "8ro0ze",
+  "UMP.NO.",
+  "TOTALFUEL",
+  "S300151133 GST",
+  "NO. 1974003237",
+  "RAN:",
+  "2016/05/6416:26:26",
+  "YOUR OPINIONCOUNTS",
+  "Tellus aboutyour",
+  "recentvisitat",
+  "wwk.sheTl.ca/oplnlon",
+  "nd.you couldwlna",
+  "s500Shell GiftCard",
+  "*Receipt Required"
+ ],
+ "tokens": [
+  {
+   "text": "VELCOME",
+   "conf": 0.8789235098021371
+  },
+  {
+   "text": "8522200Sireet",
+   "conf": 0.8226931759944329
+  },
+  {
+   "text": "Shell.Canada",
+   "conf": 0.9134823530912399
+  },
+  {
+   "text": "La88）513-9420",
+   "conf": 0.8041073244351608
+  },
+  {
+   "text": "VIW3A6",
+   "conf": 0.7583709408839544
+  },
+  {
+   "text": "BC",
+   "conf": 0.9456818699836731
+  },
+  {
+   "text": "8ro0ze",
+   "conf": 0.5843006918827692
+  },
+  {
+   "text": "UMP.NO.",
+   "conf": 0.565650360924857
+  },
+  {
+   "text": "TOTALFUEL",
+   "conf": 0.9137368135982089
+  },
+  {
+   "text": "S300151133",
+   "conf": 0.6547443479299545
+  },
+  {
+   "text": "NO.",
+   "conf": 0.7534892459710439
+  },
+  {
+   "text": "GST",
+   "conf": 0.7845951914787292
+  },
+  {
+   "text": "1974003237",
+   "conf": 0.73581513017416
+  },
+  {
+   "text": "2016/05/6416:26:26",
+   "conf": 0.9327971438566843
+  },
+  {
+   "text": "RAN:",
+   "conf": 0.910511925816536
+  },
+  {
+   "text": "YOUR OPINIONCOUNTS",
+   "conf": 0.9483831822872162
+  },
+  {
+   "text": "Tellus aboutyour",
+   "conf": 0.9285043254494667
+  },
+  {
+   "text": "wwk.sheTl.ca/oplnlon",
+   "conf": 0.7854222074151039
+  },
+  {
+   "text": "recentvisitat",
+   "conf": 0.9047416998789861
+  },
+  {
+   "text": "s500Shell GiftCard",
+   "conf": 0.8443128499719832
+  },
+  {
+   "text": "nd.you couldwlna",
+   "conf": 0.80105409771204
+  },
+  {
+   "text": "*Receipt Required",
+   "conf": 0.8702434126068564
+  }
+ ],
+ "mean_conf": 0.8201,
+ "low_conf_share": 0.0,
+ "latency_ms": 2506,
+ "fields": {
+  "company": "VELCOME",
+  "date": null,
+  "total": null
+ },
+ "rule_reasons": [
+  "date_not_found",
+  "total_not_found"
+ ],
+ "total_candidates": [],
+ "key": "W0187_73292c845fd0"
+}

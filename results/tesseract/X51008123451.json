@@ -1,0 +1,443 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "(481500-M)",
+  "CW KHOO HARDWARE SDN BHD",
+  "NO.56 , JALAN PBS 14/11,",
+  "KAWASAN PERINDUSTRIAN BUKIT SERDANG,",
+  "Tel : 03-89410243 Fax : 03-89410243",
+  "GST Reg No. : 000549584896",
+  "Tax Invoice",
+  "Invoice No. —: CR 1806/0729",
+  "Date : 11/06/2018 3:38:36 PM",
+  "Cashier No. : tee",
+  "Counter No. 1 c2",
+  "Printed Date : 11/06/2018 3:36:21 PM",
+  "Ttem Name Qty Unit Price Amount",
+  "100# X 4L COMPRESSOR OIL @ TIN",
+  "1 48.00 48.00 sR",
+  "d Item(s) Net Total(MYR: 48.00",
+  "Rounding Adj. : 0.00",
+  "Net Total Rounded (MYR): 48.00\"",
+  "Cash : 48.00",
+  "Change t 0.00",
+  "SR @O% 1 48.00 0.00",
+  "Thank You. Please Come Again !"
+ ],
+ "tokens": [
+  {
+   "text": "(481500-M)",
+   "conf": 0.88
+  },
+  {
+   "text": "CW",
+   "conf": 0.36
+  },
+  {
+   "text": "KHOO",
+   "conf": 0.87
+  },
+  {
+   "text": "HARDWARE",
+   "conf": 0.96
+  },
+  {
+   "text": "SDN",
+   "conf": 0.96
+  },
+  {
+   "text": "BHD",
+   "conf": 0.96
+  },
+  {
+   "text": "NO.56",
+   "conf": 0.23
+  },
+  {
+   "text": ",",
+   "conf": 0.83
+  },
+  {
+   "text": "JALAN",
+   "conf": 0.95
+  },
+  {
+   "text": "PBS",
+   "conf": 0.95
+  },
+  {
+   "text": "14/11,",
+   "conf": 0.87
+  },
+  {
+   "text": "KAWASAN",
+   "conf": 0.92
+  },
+  {
+   "text": "PERINDUSTRIAN",
+   "conf": 0.91
+  },
+  {
+   "text": "BUKIT",
+   "conf": 0.92
+  },
+  {
+   "text": "SERDANG,",
+   "conf": 0.91
+  },
+  {
+   "text": "Tel",
+   "conf": 0.85
+  },
+  {
+   "text": ":",
+   "conf": 0.76
+  },
+  {
+   "text": "03-89410243",
+   "conf": 0.83
+  },
+  {
+   "text": "Fax",
+   "conf": 0.93
+  },
+  {
+   "text": ":",
+   "conf": 0.91
+  },
+  {
+   "text": "03-89410243",
+   "conf": 0.92
+  },
+  {
+   "text": "GST",
+   "conf": 0.96
+  },
+  {
+   "text": "Reg",
+   "conf": 0.96
+  },
+  {
+   "text": "No.",
+   "conf": 0.93
+  },
+  {
+   "text": ":",
+   "conf": 0.92
+  },
+  {
+   "text": "000549584896",
+   "conf": 0.95
+  },
+  {
+   "text": "Tax",
+   "conf": 0.96
+  },
+  {
+   "text": "Invoice",
+   "conf": 0.95
+  },
+  {
+   "text": "Invoice",
+   "conf": 0.95
+  },
+  {
+   "text": "No.",
+   "conf": 0.69
+  },
+  {
+   "text": "—:",
+   "conf": 0.26
+  },
+  {
+   "text": "CR",
+   "conf": 0.96
+  },
+  {
+   "text": "1806/0729",
+   "conf": 0.96
+  },
+  {
+   "text": "Date",
+   "conf": 0.96
+  },
+  {
+   "text": ":",
+   "conf": 0.57
+  },
+  {
+   "text": "11/06/2018",
+   "conf": 0.96
+  },
+  {
+   "text": "3:38:36",
+   "conf": 0.95
+  },
+  {
+   "text": "PM",
+   "conf": 0.96
+  },
+  {
+   "text": "Cashier",
+   "conf": 0.8
+  },
+  {
+   "text": "No.",
+   "conf": 0.61
+  },
+  {
+   "text": ":",
+   "conf": 0.51
+  },
+  {
+   "text": "tee",
+   "conf": 0.96
+  },
+  {
+   "text": "Counter",
+   "conf": 0.78
+  },
+  {
+   "text": "No.",
+   "conf": 0.76
+  },
+  {
+   "text": "1",
+   "conf": 0.0
+  },
+  {
+   "text": "c2",
+   "conf": 0.22
+  },
+  {
+   "text": "Printed",
+   "conf": 0.96
+  },
+  {
+   "text": "Date",
+   "conf": 0.79
+  },
+  {
+   "text": ":",
+   "conf": 0.79
+  },
+  {
+   "text": "11/06/2018",
+   "conf": 0.95
+  },
+  {
+   "text": "3:36:21",
+   "conf": 0.95
+  },
+  {
+   "text": "PM",
+   "conf": 0.96
+  },
+  {
+   "text": "Ttem",
+   "conf": 0.86
+  },
+  {
+   "text": "Name",
+   "conf": 0.44
+  },
+  {
+   "text": "Qty",
+   "conf": 0.56
+  },
+  {
+   "text": "Unit",
+   "conf": 0.46
+  },
+  {
+   "text": "Price",
+   "conf": 0.49
+  },
+  {
+   "text": "Amount",
+   "conf": 0.53
+  },
+  {
+   "text": "100#",
+   "conf": 0.88
+  },
+  {
+   "text": "X",
+   "conf": 0.88
+  },
+  {
+   "text": "4L",
+   "conf": 0.9
+  },
+  {
+   "text": "COMPRESSOR",
+   "conf": 0.96
+  },
+  {
+   "text": "OIL",
+   "conf": 0.92
+  },
+  {
+   "text": "@",
+   "conf": 0.92
+  },
+  {
+   "text": "TIN",
+   "conf": 0.96
+  },
+  {
+   "text": "1",
+   "conf": 0.94
+  },
+  {
+   "text": "48.00",
+   "conf": 0.96
+  },
+  {
+   "text": "48.00",
+   "conf": 0.95
+  },
+  {
+   "text": "sR",
+   "conf": 0.82
+  },
+  {
+   "text": "d",
+   "conf": 0.0
+  },
+  {
+   "text": "Item(s)",
+   "conf": 0.49
+  },
+  {
+   "text": "Net",
+   "conf": 0.49
+  },
+  {
+   "text": "Total(MYR:",
+   "conf": 0.63
+  },
+  {
+   "text": "48.00",
+   "conf": 0.4
+  },
+  {
+   "text": "Rounding",
+   "conf": 0.96
+  },
+  {
+   "text": "Adj.",
+   "conf": 0.85
+  },
+  {
+   "text": ":",
+   "conf": 0.85
+  },
+  {
+   "text": "0.00",
+   "conf": 0.93
+  },
+  {
+   "text": "Net",
+   "conf": 0.96
+  },
+  {
+   "text": "Total",
+   "conf": 0.96
+  },
+  {
+   "text": "Rounded",
+   "conf": 0.93
+  },
+  {
+   "text": "(MYR):",
+   "conf": 0.5
+  },
+  {
+   "text": "48.00\"",
+   "conf": 0.37
+  },
+  {
+   "text": "Cash",
+   "conf": 0.96
+  },
+  {
+   "text": ":",
+   "conf": 0.54
+  },
+  {
+   "text": "48.00",
+   "conf": 0.89
+  },
+  {
+   "text": "Change",
+   "conf": 0.96
+  },
+  {
+   "text": "t",
+   "conf": 0.0
+  },
+  {
+   "text": "0.00",
+   "conf": 0.94
+  },
+  {
+   "text": "SR",
+   "conf": 0.76
+  },
+  {
+   "text": "@O%",
+   "conf": 0.72
+  },
+  {
+   "text": "1",
+   "conf": 0.93
+  },
+  {
+   "text": "48.00",
+   "conf": 0.95
+  },
+  {
+   "text": "0.00",
+   "conf": 0.87
+  },
+  {
+   "text": "Thank",
+   "conf": 0.95
+  },
+  {
+   "text": "You.",
+   "conf": 0.96
+  },
+  {
+   "text": "Please",
+   "conf": 0.96
+  },
+  {
+   "text": "Come",
+   "conf": 0.96
+  },
+  {
+   "text": "Again",
+   "conf": 0.93
+  },
+  {
+   "text": "!",
+   "conf": 0.9
+  }
+ ],
+ "mean_conf": 0.795,
+ "low_conf_share": 0.14,
+ "latency_ms": 2793,
+ "fields": {
+  "company": "CW KHOO HARDWARE SDN BHD",
+  "date": "2018-06-11",
+  "total": 48.0
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  48.0,
+  48.0
+ ],
+ "key": "X51008123451"
+}

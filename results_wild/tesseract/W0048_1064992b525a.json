@@ -1,0 +1,253 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "SPEEDWAY 0606661",
+  "La Porte IN 46356",
+  "TRANH: 2387827",
+  "5/19/2017 6:29 PH",
+  "Pump 62",
+  "#2 Diesel",
+  "16.875 @ $2.399/GAL",
+  "GAS TOTAL $26.69",
+  "TAX $6.68",
+  "TOTAL $26.99",
+  "Speedway Hc",
+  "Card Num :",
+  "NENNAXXNXNNNATS7",
+  "TERM: 688956006661601",
+  "TRANS TYPE: CAPTURE",
+  "APPRH: 308868",
+  "ENTRY METHOD: ICR",
+  "Speedy Rewards",
+  "Poi a",
+  "New Betangne: 819",
+  "] S837",
+  "W-SPEEDUAY con"
+ ],
+ "tokens": [
+  {
+   "text": "SPEEDWAY",
+   "conf": 0.87
+  },
+  {
+   "text": "0606661",
+   "conf": 0.69
+  },
+  {
+   "text": "La",
+   "conf": 0.96
+  },
+  {
+   "text": "Porte",
+   "conf": 0.92
+  },
+  {
+   "text": "IN",
+   "conf": 0.91
+  },
+  {
+   "text": "46356",
+   "conf": 0.74
+  },
+  {
+   "text": "TRANH:",
+   "conf": 0.88
+  },
+  {
+   "text": "2387827",
+   "conf": 0.96
+  },
+  {
+   "text": "5/19/2017",
+   "conf": 0.87
+  },
+  {
+   "text": "6:29",
+   "conf": 0.87
+  },
+  {
+   "text": "PH",
+   "conf": 0.95
+  },
+  {
+   "text": "Pump",
+   "conf": 0.89
+  },
+  {
+   "text": "62",
+   "conf": 0.89
+  },
+  {
+   "text": "#2",
+   "conf": 0.96
+  },
+  {
+   "text": "Diesel",
+   "conf": 0.95
+  },
+  {
+   "text": "16.875",
+   "conf": 0.93
+  },
+  {
+   "text": "@",
+   "conf": 0.88
+  },
+  {
+   "text": "$2.399/GAL",
+   "conf": 0.88
+  },
+  {
+   "text": "GAS",
+   "conf": 0.94
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.94
+  },
+  {
+   "text": "$26.69",
+   "conf": 0.85
+  },
+  {
+   "text": "TAX",
+   "conf": 0.91
+  },
+  {
+   "text": "$6.68",
+   "conf": 0.61
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.95
+  },
+  {
+   "text": "$26.99",
+   "conf": 0.84
+  },
+  {
+   "text": "Speedway",
+   "conf": 0.95
+  },
+  {
+   "text": "Hc",
+   "conf": 0.72
+  },
+  {
+   "text": "Card",
+   "conf": 0.96
+  },
+  {
+   "text": "Num",
+   "conf": 0.92
+  },
+  {
+   "text": ":",
+   "conf": 0.78
+  },
+  {
+   "text": "NENNAXXNXNNNATS7",
+   "conf": 0.0
+  },
+  {
+   "text": "TERM:",
+   "conf": 0.87
+  },
+  {
+   "text": "688956006661601",
+   "conf": 0.05
+  },
+  {
+   "text": "TRANS",
+   "conf": 0.96
+  },
+  {
+   "text": "TYPE:",
+   "conf": 0.89
+  },
+  {
+   "text": "CAPTURE",
+   "conf": 0.89
+  },
+  {
+   "text": "APPRH:",
+   "conf": 0.91
+  },
+  {
+   "text": "308868",
+   "conf": 0.32
+  },
+  {
+   "text": "ENTRY",
+   "conf": 0.96
+  },
+  {
+   "text": "METHOD:",
+   "conf": 0.96
+  },
+  {
+   "text": "ICR",
+   "conf": 0.84
+  },
+  {
+   "text": "Speedy",
+   "conf": 0.95
+  },
+  {
+   "text": "Rewards",
+   "conf": 0.13
+  },
+  {
+   "text": "Poi",
+   "conf": 0.94
+  },
+  {
+   "text": "a",
+   "conf": 0.19
+  },
+  {
+   "text": "New",
+   "conf": 0.68
+  },
+  {
+   "text": "Betangne:",
+   "conf": 0.0
+  },
+  {
+   "text": "819",
+   "conf": 0.3
+  },
+  {
+   "text": "]",
+   "conf": 0.0
+  },
+  {
+   "text": "S837",
+   "conf": 0.89
+  },
+  {
+   "text": "W-SPEEDUAY",
+   "conf": 0.02
+  },
+  {
+   "text": "con",
+   "conf": 0.76
+  }
+ ],
+ "mean_conf": 0.7477,
+ "low_conf_share": 0.1731,
+ "latency_ms": 1356,
+ "fields": {
+  "company": "LA PORTE IN",
+  "date": "2017-05-19",
+  "total": 26.99
+ },
+ "rule_reasons": [
+  "total_multiple_keyword_amounts"
+ ],
+ "total_candidates": [
+  26.69,
+  26.99
+ ],
+ "key": "W0048_1064992b525a"
+}

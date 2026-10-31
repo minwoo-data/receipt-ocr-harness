@@ -1,0 +1,84 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "es",
+  "Total 40.84",
+  "RECEIPT 1",
+  "THANK YOU FOR CALLING",
+  "VAT NO: 830 7700 46"
+ ],
+ "tokens": [
+  {
+   "text": "es",
+   "conf": 0.33
+  },
+  {
+   "text": "Total",
+   "conf": 0.96
+  },
+  {
+   "text": "40.84",
+   "conf": 0.76
+  },
+  {
+   "text": "RECEIPT",
+   "conf": 0.65
+  },
+  {
+   "text": "1",
+   "conf": 0.73
+  },
+  {
+   "text": "THANK",
+   "conf": 0.96
+  },
+  {
+   "text": "YOU",
+   "conf": 0.93
+  },
+  {
+   "text": "FOR",
+   "conf": 0.92
+  },
+  {
+   "text": "CALLING",
+   "conf": 0.93
+  },
+  {
+   "text": "VAT",
+   "conf": 0.96
+  },
+  {
+   "text": "NO:",
+   "conf": 0.75
+  },
+  {
+   "text": "830",
+   "conf": 0.92
+  },
+  {
+   "text": "7700",
+   "conf": 0.92
+  },
+  {
+   "text": "46",
+   "conf": 0.93
+  }
+ ],
+ "mean_conf": 0.8321,
+ "low_conf_share": 0.0714,
+ "latency_ms": 566,
+ "fields": {
+  "company": null,
+  "date": null,
+  "total": 40.84
+ },
+ "rule_reasons": [
+  "company_not_found",
+  "date_not_found"
+ ],
+ "total_candidates": [
+  40.84
+ ],
+ "key": "W0054_f97d2916ab52"
+}

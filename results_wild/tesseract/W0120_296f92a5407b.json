@@ -1,0 +1,278 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "LAX - Termina] 2",
+  "nos angeles “ot,",
+  "(310) \"301-8079 ©",
+  "eeeeren P",
+  "__RON aE",
+  "ae 07:26am ae!",
+  "ac \"",
+  "1 Add Sausage °° 100",
+  "1 Shoestring 1,00",
+  "1 Coffee vn",
+  "Cash 40.00",
+  "Subtotal] 28.65",
+  "Tax 258",
+  "Payment 31.23",
+  "Change Due Galli",
+  "pe o------ 1003 Check Closed------------",
+  "~~-----------JU128'15 07:35AM------------",
+  "Thank You!!!",
+  "Like us on Yelp",
+  "Crews 1972.com",
+  "WeCarelax@crews1972.com",
+  "Eee."
+ ],
+ "tokens": [
+  {
+   "text": "LAX",
+   "conf": 0.78
+  },
+  {
+   "text": "-",
+   "conf": 0.78
+  },
+  {
+   "text": "Termina]",
+   "conf": 0.76
+  },
+  {
+   "text": "2",
+   "conf": 0.96
+  },
+  {
+   "text": "nos",
+   "conf": 0.31
+  },
+  {
+   "text": "angeles",
+   "conf": 0.53
+  },
+  {
+   "text": "“ot,",
+   "conf": 0.24
+  },
+  {
+   "text": "(310)",
+   "conf": 0.84
+  },
+  {
+   "text": "\"301-8079",
+   "conf": 0.55
+  },
+  {
+   "text": "©",
+   "conf": 0.7
+  },
+  {
+   "text": "eeeeren",
+   "conf": 0.0
+  },
+  {
+   "text": "P",
+   "conf": 0.76
+  },
+  {
+   "text": "__RON",
+   "conf": 0.21
+  },
+  {
+   "text": "aE",
+   "conf": 0.53
+  },
+  {
+   "text": "ae",
+   "conf": 0.26
+  },
+  {
+   "text": "07:26am",
+   "conf": 0.0
+  },
+  {
+   "text": "ae!",
+   "conf": 0.36
+  },
+  {
+   "text": "ac",
+   "conf": 0.81
+  },
+  {
+   "text": "\"",
+   "conf": 0.0
+  },
+  {
+   "text": "1",
+   "conf": 0.84
+  },
+  {
+   "text": "Add",
+   "conf": 0.76
+  },
+  {
+   "text": "Sausage",
+   "conf": 0.47
+  },
+  {
+   "text": "°°",
+   "conf": 0.1
+  },
+  {
+   "text": "100",
+   "conf": 0.73
+  },
+  {
+   "text": "1",
+   "conf": 0.81
+  },
+  {
+   "text": "Shoestring",
+   "conf": 0.95
+  },
+  {
+   "text": "1,00",
+   "conf": 0.86
+  },
+  {
+   "text": "1",
+   "conf": 0.9
+  },
+  {
+   "text": "Coffee",
+   "conf": 0.96
+  },
+  {
+   "text": "vn",
+   "conf": 0.13
+  },
+  {
+   "text": "Cash",
+   "conf": 0.97
+  },
+  {
+   "text": "40.00",
+   "conf": 0.51
+  },
+  {
+   "text": "Subtotal]",
+   "conf": 0.7
+  },
+  {
+   "text": "28.65",
+   "conf": 0.63
+  },
+  {
+   "text": "Tax",
+   "conf": 0.94
+  },
+  {
+   "text": "258",
+   "conf": 0.62
+  },
+  {
+   "text": "Payment",
+   "conf": 0.96
+  },
+  {
+   "text": "31.23",
+   "conf": 0.9
+  },
+  {
+   "text": "Change",
+   "conf": 0.96
+  },
+  {
+   "text": "Due",
+   "conf": 0.96
+  },
+  {
+   "text": "Galli",
+   "conf": 0.18
+  },
+  {
+   "text": "pe",
+   "conf": 0.1
+  },
+  {
+   "text": "o------",
+   "conf": 0.0
+  },
+  {
+   "text": "1003",
+   "conf": 0.61
+  },
+  {
+   "text": "Check",
+   "conf": 0.93
+  },
+  {
+   "text": "Closed------------",
+   "conf": 0.85
+  },
+  {
+   "text": "~~-----------JU128'15",
+   "conf": 0.32
+  },
+  {
+   "text": "07:35AM------------",
+   "conf": 0.81
+  },
+  {
+   "text": "Thank",
+   "conf": 0.94
+  },
+  {
+   "text": "You!!!",
+   "conf": 0.95
+  },
+  {
+   "text": "Like",
+   "conf": 0.96
+  },
+  {
+   "text": "us",
+   "conf": 0.74
+  },
+  {
+   "text": "on",
+   "conf": 0.74
+  },
+  {
+   "text": "Yelp",
+   "conf": 0.96
+  },
+  {
+   "text": "Crews",
+   "conf": 0.15
+  },
+  {
+   "text": "1972.com",
+   "conf": 0.15
+  },
+  {
+   "text": "WeCarelax@crews1972.com",
+   "conf": 0.77
+  },
+  {
+   "text": "Eee.",
+   "conf": 0.55
+  }
+ ],
+ "mean_conf": 0.6164,
+ "low_conf_share": 0.2931,
+ "latency_ms": 1520,
+ "fields": {
+  "company": "LAX TERMINA 2",
+  "date": null,
+  "total": 31.23
+ },
+ "rule_reasons": [
+  "date_not_found",
+  "total_no_keyword_fallback_max"
+ ],
+ "total_candidates": [
+  28.65,
+  31.23
+ ],
+ "key": "W0120_296f92a5407b"
+}

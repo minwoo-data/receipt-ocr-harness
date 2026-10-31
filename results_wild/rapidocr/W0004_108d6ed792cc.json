@@ -1,0 +1,136 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "Retail) Ltd",
+  ",Harrogate,HG1 1BJ",
+  "：01423507100",
+  "cu:www.weetons.com",
+  "VAT No:851 0068 55",
+  "***",
+  "Date:27 Mar 2017Time:08:11:48",
+  "Operator:Sara",
+  "Terminal:Cafe Till",
+  "***",
+  "Sold Items",
+  "BUTCHERS ROSTI 7.95",
+  "OMELETTE",
+  "small egg & tom omlette for weird",
+  "freak\\11 2.50",
+  "5.50-55% Discount.Saving 3.00",
+  "FRESH ORANGE JUICE 2.95",
+  "***",
+  "Sold Items Total 13.40",
+  "***"
+ ],
+ "tokens": [
+  {
+   "text": "Retail) Ltd",
+   "conf": 0.9232911738482389
+  },
+  {
+   "text": ",Harrogate,HG1 1BJ",
+   "conf": 0.9342940482828352
+  },
+  {
+   "text": "：01423507100",
+   "conf": 0.9626330534617106
+  },
+  {
+   "text": "cu:www.weetons.com",
+   "conf": 0.8935140669345856
+  },
+  {
+   "text": "VAT No:851 0068 55",
+   "conf": 0.9383620884683397
+  },
+  {
+   "text": "***",
+   "conf": 0.9579753875732422
+  },
+  {
+   "text": "Date:27 Mar 2017Time:08:11:48",
+   "conf": 0.9443173449614952
+  },
+  {
+   "text": "Operator:Sara",
+   "conf": 0.9831083050140967
+  },
+  {
+   "text": "Terminal:Cafe Till",
+   "conf": 0.948804905017217
+  },
+  {
+   "text": "***",
+   "conf": 0.8668942054112753
+  },
+  {
+   "text": "Sold Items",
+   "conf": 0.9664645612239837
+  },
+  {
+   "text": "BUTCHERS ROSTI",
+   "conf": 0.9847206686224256
+  },
+  {
+   "text": "7.95",
+   "conf": 0.9979869425296783
+  },
+  {
+   "text": "OMELETTE",
+   "conf": 0.9927749484777451
+  },
+  {
+   "text": "small egg & tom omlette for weird",
+   "conf": 0.9287781607020985
+  },
+  {
+   "text": "freak\\11",
+   "conf": 0.9647902324795723
+  },
+  {
+   "text": "2.50",
+   "conf": 0.9975279718637466
+  },
+  {
+   "text": "5.50-55% Discount.Saving 3.00",
+   "conf": 0.9729635016671543
+  },
+  {
+   "text": "FRESH ORANGE JUICE",
+   "conf": 0.9517285658253564
+  },
+  {
+   "text": "2.95",
+   "conf": 0.9978107511997223
+  },
+  {
+   "text": "***",
+   "conf": 0.9779131809870402
+  },
+  {
+   "text": "Sold Items Total",
+   "conf": 0.9693548083305359
+  },
+  {
+   "text": "13.40",
+   "conf": 0.9970839619636536
+  },
+  {
+   "text": "***",
+   "conf": 0.8723798394203186
+  }
+ ],
+ "mean_conf": 0.9552,
+ "low_conf_share": 0.0,
+ "latency_ms": 3551,
+ "fields": {
+  "company": "RETAIL LTD",
+  "date": "2017-03-27",
+  "total": 13.4
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  13.4
+ ],
+ "key": "W0004_108d6ed792cc"
+}

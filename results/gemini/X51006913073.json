@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.6-flash",
+ "provider": "gemini",
+ "raw_text": "{\"vendor\": \"UNIHAKKA INTERNATIONAL SDN BHD\", \"date\": \"2018-05-27\", \"subtotal\": 10.09, \"tax\": 0.61, \"tip\": null, \"discount\": null, \"total\": 10.70, \"currency\": \"USD\", \"confidence\": 0.95, \"notes\": \"Amounts use the $ symbol on receipt despite Malaysia address context.\"}",
+ "data": {
+  "vendor": "UNIHAKKA INTERNATIONAL SDN BHD",
+  "date": "2018-05-27",
+  "subtotal": 10.09,
+  "tax": 0.61,
+  "tip": null,
+  "discount": null,
+  "total": 10.7,
+  "currency": "USD",
+  "confidence": 0.95,
+  "notes": "Amounts use the $ symbol on receipt despite Malaysia address context."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1461,
+  "output_tokens": 100,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.001471,
+ "latency_ms": 2232,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.6-flash",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.6-flash"
+ ],
+ "key": "X51006913073"
+}

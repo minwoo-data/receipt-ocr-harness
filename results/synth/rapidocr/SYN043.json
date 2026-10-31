@@ -1,0 +1,114 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "GREENLEAFGROCERSDNBHD",
+  "12JALANTUN RAZAK,50400 KUALALUMPUR",
+  "MENU",
+  "2x USBCABLE1M 19.90",
+  "1 X BALLP0INTPEN3PK 5.90",
+  "1 X BALLPOINT PEN 3PK 5.90",
+  "2 X PANAD0L10S 6.80",
+  "XENGINE OIL4L 89.00"
+ ],
+ "tokens": [
+  {
+   "text": "GREENLEAFGROCERSDNBHD",
+   "conf": 0.9950774964832124
+  },
+  {
+   "text": "12JALANTUN RAZAK,50400 KUALALUMPUR",
+   "conf": 0.9124385609346277
+  },
+  {
+   "text": "MENU",
+   "conf": 0.9902653098106384
+  },
+  {
+   "text": "19.90",
+   "conf": 0.9983018398284912
+  },
+  {
+   "text": "2x",
+   "conf": 0.7393499165773392
+  },
+  {
+   "text": "USBCABLE1M",
+   "conf": 0.9950810849666596
+  },
+  {
+   "text": "5.90",
+   "conf": 0.9986636936664581
+  },
+  {
+   "text": "1",
+   "conf": 0.9954183101654053
+  },
+  {
+   "text": "X",
+   "conf": 0.770285964012146
+  },
+  {
+   "text": "BALLP0INTPEN3PK",
+   "conf": 0.9616308331489563
+  },
+  {
+   "text": "5.90",
+   "conf": 0.9979357272386551
+  },
+  {
+   "text": "1",
+   "conf": 0.9670159220695496
+  },
+  {
+   "text": "X",
+   "conf": 0.8143848776817322
+  },
+  {
+   "text": "BALLPOINT PEN 3PK",
+   "conf": 0.9409920818665448
+  },
+  {
+   "text": "6.80",
+   "conf": 0.9985282123088837
+  },
+  {
+   "text": "2",
+   "conf": 0.9982397556304932
+  },
+  {
+   "text": "X",
+   "conf": 0.8396482467651367
+  },
+  {
+   "text": "PANAD0L10S",
+   "conf": 0.9693319797515869
+  },
+  {
+   "text": "89.00",
+   "conf": 0.9992050409317017
+  },
+  {
+   "text": "XENGINE OIL4L",
+   "conf": 0.9505838797642634
+  }
+ ],
+ "mean_conf": 0.9416,
+ "low_conf_share": 0.0,
+ "latency_ms": 20227,
+ "fields": {
+  "company": "GREENLEAFGROCERSDNBHD",
+  "date": null,
+  "total": 89.0
+ },
+ "rule_reasons": [
+  "date_not_found",
+  "total_no_keyword_fallback_max"
+ ],
+ "total_candidates": [
+  5.9,
+  5.9,
+  6.8,
+  89.0
+ ],
+ "key": "SYN043"
+}

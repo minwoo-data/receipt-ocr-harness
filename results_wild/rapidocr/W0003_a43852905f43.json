@@ -1,0 +1,217 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "Poi-ferflam-jidoidko",
+  "Nando's Chickenland Malayela wwwTJos.scmw",
+  "Sdn.Bhd.（451584-W)",
+  "Nando'e IOI City Mall",
+  "LG-538LG-55",
+  "LG Floor,IOI City Mall",
+  "I0I Resort City,B2502 Sepang Utara",
+  "Tel:03-83280789 Fax:03-383280790",
+  "GST 1D:000097492992",
+  "3NANDOS2 205 SHAQIR",
+  "Chk 5591 Guest5",
+  "17May1515:17:28 TBL20/1",
+  "Full Platter-E 55.00S",
+  "FulIPlatter(R)Side",
+  "1/2-LH",
+  "1/2-LH",
+  "Coleslaw(R)-EC",
+  "Corn(R)KV-EC",
+  "Corn(R)KV-EC",
+  "Med Rice(R)-EC",
+  "ALL INIU",
+  "INSTRUCTION",
+  "CIBAI CUSTOMER",
+  "INSTRUCTION",
+  "55.00",
+  "Serv Chrg @10% 5.50",
+  "GST@6% 3.63",
+  "Total: 64.13",
+  "Rounding Adj 0.02",
+  "Amt Due 64.15",
+  "For Take Away and Delivery"
+ ],
+ "tokens": [
+  {
+   "text": "Poi-ferflam-jidoidko",
+   "conf": 0.5682102590799332
+  },
+  {
+   "text": "wwwTJos.scmw",
+   "conf": 0.6943738386034966
+  },
+  {
+   "text": "Nando's Chickenland Malayela",
+   "conf": 0.919587180018425
+  },
+  {
+   "text": "Sdn.Bhd.（451584-W)",
+   "conf": 0.9278969599141015
+  },
+  {
+   "text": "Nando'e IOI City Mall",
+   "conf": 0.9160390184039161
+  },
+  {
+   "text": "LG-538LG-55",
+   "conf": 0.9444009824232622
+  },
+  {
+   "text": "LG Floor,IOI City Mall",
+   "conf": 0.9114073704589497
+  },
+  {
+   "text": "I0I Resort City,B2502 Sepang Utara",
+   "conf": 0.8914798165068907
+  },
+  {
+   "text": "Tel:03-83280789 Fax:03-383280790",
+   "conf": 0.9674059972167015
+  },
+  {
+   "text": "GST 1D:000097492992",
+   "conf": 0.9487506998212714
+  },
+  {
+   "text": "3NANDOS2",
+   "conf": 0.956219457089901
+  },
+  {
+   "text": "205 SHAQIR",
+   "conf": 0.9527700901031494
+  },
+  {
+   "text": "Chk 5591",
+   "conf": 0.9507808312773705
+  },
+  {
+   "text": "Guest5",
+   "conf": 0.8968103428681692
+  },
+  {
+   "text": "17May1515:17:28",
+   "conf": 0.9815620501836141
+  },
+  {
+   "text": "TBL20/1",
+   "conf": 0.9723023091043744
+  },
+  {
+   "text": "Full Platter-E",
+   "conf": 0.9640142747334072
+  },
+  {
+   "text": "55.00S",
+   "conf": 0.9587017595767975
+  },
+  {
+   "text": "FulIPlatter(R)Side",
+   "conf": 0.9356594383716583
+  },
+  {
+   "text": "1/2-LH",
+   "conf": 0.9893228312333425
+  },
+  {
+   "text": "1/2-LH",
+   "conf": 0.9893413484096527
+  },
+  {
+   "text": "Coleslaw(R)-EC",
+   "conf": 0.9174170068332127
+  },
+  {
+   "text": "Corn(R)KV-EC",
+   "conf": 0.9461730370918909
+  },
+  {
+   "text": "Corn(R)KV-EC",
+   "conf": 0.9593088378508886
+  },
+  {
+   "text": "Med Rice(R)-EC",
+   "conf": 0.9528843590191433
+  },
+  {
+   "text": "ALL INIU",
+   "conf": 0.6897518448531628
+  },
+  {
+   "text": "INSTRUCTION",
+   "conf": 0.991055195981806
+  },
+  {
+   "text": "CIBAI CUSTOMER",
+   "conf": 0.9588674392019
+  },
+  {
+   "text": "INSTRUCTION",
+   "conf": 0.991591518575495
+  },
+  {
+   "text": "55.00",
+   "conf": 0.9981321930885315
+  },
+  {
+   "text": "Serv Chrg @10%",
+   "conf": 0.9112525028841836
+  },
+  {
+   "text": "5.50",
+   "conf": 0.9977195560932159
+  },
+  {
+   "text": "GST@6%",
+   "conf": 0.9348118404547373
+  },
+  {
+   "text": "3.63",
+   "conf": 0.9853849709033966
+  },
+  {
+   "text": "Total:",
+   "conf": 0.9862043857574463
+  },
+  {
+   "text": "64.13",
+   "conf": 0.9930915236473083
+  },
+  {
+   "text": "Rounding Adj",
+   "conf": 0.9793529262145361
+  },
+  {
+   "text": "0.02",
+   "conf": 0.9967275410890579
+  },
+  {
+   "text": "Amt Due",
+   "conf": 0.9819140774863107
+  },
+  {
+   "text": "64.15",
+   "conf": 0.9943724036216736
+  },
+  {
+   "text": "For Take Away and Delivery",
+   "conf": 0.9352659606016599
+  }
+ ],
+ "mean_conf": 0.9351,
+ "low_conf_share": 0.0,
+ "latency_ms": 4574,
+ "fields": {
+  "company": "NANDO S CHICKENLAND MALAYELA WWWTJOS SCMW SDN BHD",
+  "date": null,
+  "total": 64.13
+ },
+ "rule_reasons": [
+  "date_not_found"
+ ],
+ "total_candidates": [
+  64.13
+ ],
+ "key": "W0003_a43852905f43"
+}

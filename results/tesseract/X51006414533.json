@@ -1,0 +1,363 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "BHPetrol Permas Jaya 2 :",
+  ". LOT PTD 101051 .",
+  "Jalan Permas 10/10",
+  "81750 Masai, Johor ,",
+  "PREPAY CHIT NUMBER",
+  "F 5/7361",
+  "- THIS (S NOT A RECEIPT",
+  "A Tax Invoice will be issued upon the",
+  "completion of the sale transaction ;",
+  "10-04-2018 08:11:53 Cashier: 465",
+  "Transaction No: 1-494268 | :",
+  "Item U\\Price Qnty Amount : } , )",
+  "PPF P7 1.000 50 50.00",
+  "TOTAL AMOUNT |",
+  "CASH RM 50,00",
+  "Thank You For Shopping At BHRetromart .",
+  "Customer Service 1-300-22-2878 a"
+ ],
+ "tokens": [
+  {
+   "text": "BHPetrol",
+   "conf": 0.53
+  },
+  {
+   "text": "Permas",
+   "conf": 0.92
+  },
+  {
+   "text": "Jaya",
+   "conf": 0.96
+  },
+  {
+   "text": "2",
+   "conf": 0.96
+  },
+  {
+   "text": ":",
+   "conf": 0.14
+  },
+  {
+   "text": ".",
+   "conf": 0.14
+  },
+  {
+   "text": "LOT",
+   "conf": 0.95
+  },
+  {
+   "text": "PTD",
+   "conf": 0.95
+  },
+  {
+   "text": "101051",
+   "conf": 0.71
+  },
+  {
+   "text": ".",
+   "conf": 0.18
+  },
+  {
+   "text": "Jalan",
+   "conf": 0.88
+  },
+  {
+   "text": "Permas",
+   "conf": 0.88
+  },
+  {
+   "text": "10/10",
+   "conf": 0.96
+  },
+  {
+   "text": "81750",
+   "conf": 0.93
+  },
+  {
+   "text": "Masai,",
+   "conf": 0.93
+  },
+  {
+   "text": "Johor",
+   "conf": 0.96
+  },
+  {
+   "text": ",",
+   "conf": 0.36
+  },
+  {
+   "text": "PREPAY",
+   "conf": 0.95
+  },
+  {
+   "text": "CHIT",
+   "conf": 0.96
+  },
+  {
+   "text": "NUMBER",
+   "conf": 0.96
+  },
+  {
+   "text": "F",
+   "conf": 0.07
+  },
+  {
+   "text": "5/7361",
+   "conf": 0.46
+  },
+  {
+   "text": "-",
+   "conf": 0.0
+  },
+  {
+   "text": "THIS",
+   "conf": 0.85
+  },
+  {
+   "text": "(S",
+   "conf": 0.19
+  },
+  {
+   "text": "NOT",
+   "conf": 0.7
+  },
+  {
+   "text": "A",
+   "conf": 0.95
+  },
+  {
+   "text": "RECEIPT",
+   "conf": 0.95
+  },
+  {
+   "text": "A",
+   "conf": 0.59
+  },
+  {
+   "text": "Tax",
+   "conf": 0.94
+  },
+  {
+   "text": "Invoice",
+   "conf": 0.95
+  },
+  {
+   "text": "will",
+   "conf": 0.95
+  },
+  {
+   "text": "be",
+   "conf": 0.95
+  },
+  {
+   "text": "issued",
+   "conf": 0.95
+  },
+  {
+   "text": "upon",
+   "conf": 0.96
+  },
+  {
+   "text": "the",
+   "conf": 0.96
+  },
+  {
+   "text": "completion",
+   "conf": 0.95
+  },
+  {
+   "text": "of",
+   "conf": 0.96
+  },
+  {
+   "text": "the",
+   "conf": 0.96
+  },
+  {
+   "text": "sale",
+   "conf": 0.94
+  },
+  {
+   "text": "transaction",
+   "conf": 0.96
+  },
+  {
+   "text": ";",
+   "conf": 0.33
+  },
+  {
+   "text": "10-04-2018",
+   "conf": 0.96
+  },
+  {
+   "text": "08:11:53",
+   "conf": 0.95
+  },
+  {
+   "text": "Cashier:",
+   "conf": 0.95
+  },
+  {
+   "text": "465",
+   "conf": 0.96
+  },
+  {
+   "text": "Transaction",
+   "conf": 0.95
+  },
+  {
+   "text": "No:",
+   "conf": 0.92
+  },
+  {
+   "text": "1-494268",
+   "conf": 0.67
+  },
+  {
+   "text": "|",
+   "conf": 0.37
+  },
+  {
+   "text": ":",
+   "conf": 0.05
+  },
+  {
+   "text": "Item",
+   "conf": 0.96
+  },
+  {
+   "text": "U\\Price",
+   "conf": 0.86
+  },
+  {
+   "text": "Qnty",
+   "conf": 0.7
+  },
+  {
+   "text": "Amount",
+   "conf": 0.96
+  },
+  {
+   "text": ":",
+   "conf": 0.39
+  },
+  {
+   "text": "}",
+   "conf": 0.0
+  },
+  {
+   "text": ",",
+   "conf": 0.0
+  },
+  {
+   "text": ")",
+   "conf": 0.02
+  },
+  {
+   "text": "PPF",
+   "conf": 0.89
+  },
+  {
+   "text": "P7",
+   "conf": 0.77
+  },
+  {
+   "text": "1.000",
+   "conf": 0.9
+  },
+  {
+   "text": "50",
+   "conf": 0.93
+  },
+  {
+   "text": "50.00",
+   "conf": 0.71
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.92
+  },
+  {
+   "text": "AMOUNT",
+   "conf": 0.94
+  },
+  {
+   "text": "|",
+   "conf": 0.23
+  },
+  {
+   "text": "CASH",
+   "conf": 0.96
+  },
+  {
+   "text": "RM",
+   "conf": 0.76
+  },
+  {
+   "text": "50,00",
+   "conf": 0.71
+  },
+  {
+   "text": "Thank",
+   "conf": 0.96
+  },
+  {
+   "text": "You",
+   "conf": 0.95
+  },
+  {
+   "text": "For",
+   "conf": 0.95
+  },
+  {
+   "text": "Shopping",
+   "conf": 0.37
+  },
+  {
+   "text": "At",
+   "conf": 0.9
+  },
+  {
+   "text": "BHRetromart",
+   "conf": 0.89
+  },
+  {
+   "text": ".",
+   "conf": 0.16
+  },
+  {
+   "text": "Customer",
+   "conf": 0.96
+  },
+  {
+   "text": "Service",
+   "conf": 0.92
+  },
+  {
+   "text": "1-300-22-2878",
+   "conf": 0.31
+  },
+  {
+   "text": "a",
+   "conf": 0.43
+  }
+ ],
+ "mean_conf": 0.7274,
+ "low_conf_share": 0.2469,
+ "latency_ms": 2112,
+ "fields": {
+  "company": "BHPETROL PERMAS JAYA 2",
+  "date": "2018-04-10",
+  "total": 50.0
+ },
+ "rule_reasons": [
+  "total_no_keyword_fallback_max"
+ ],
+ "total_candidates": [
+  50.0
+ ],
+ "key": "X51006414533"
+}

@@ -1,0 +1,254 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "RESTORAN WAN SHENG",
+  "002043319-W",
+  "No.2,JalanTemeniggung 19/9",
+  "Seksyen 9,Bandar Mahkota Cheras,",
+  "43200 Cheras,Selangor",
+  "GSTREGN0:001335787520",
+  "Tax Invoice",
+  "INV No.:1076565 Cashier:Thandar",
+  "Date04-04-201814:26:20",
+  "Description Qty U.price Total TAX",
+  "Teh(B) 1",
+  "1X 2.20 2.20 SR",
+  "Cham (B)",
+  "1X 2.20 2.20 SR",
+  "Milo(B)",
+  "1X 2.80 2.80 SR",
+  "TakeAway",
+  "3x 0.20 0.60 SR",
+  "Total QTY:6",
+  "Total (Excluding GST): 7.37",
+  "GST payable（6%): 0.43",
+  "Total (Inclusive of GSI）: 7.80",
+  "TOTAL: 7.80",
+  "CASH 7.80",
+  "GST Summary Amount(RM) Tax(RM)",
+  "SR （@6%） 7.37 0.43"
+ ],
+ "tokens": [
+  {
+   "text": "RESTORAN WAN SHENG",
+   "conf": 0.9582452277342478
+  },
+  {
+   "text": "002043319-W",
+   "conf": 0.9883964874527671
+  },
+  {
+   "text": "No.2,JalanTemeniggung 19/9",
+   "conf": 0.8890350231757531
+  },
+  {
+   "text": "Seksyen 9,Bandar Mahkota Cheras,",
+   "conf": 0.9344198750331998
+  },
+  {
+   "text": "43200 Cheras,Selangor",
+   "conf": 0.9722701878774733
+  },
+  {
+   "text": "GSTREGN0:001335787520",
+   "conf": 0.9917541373343695
+  },
+  {
+   "text": "Tax Invoice",
+   "conf": 0.9482666254043579
+  },
+  {
+   "text": "INV No.:1076565 Cashier:Thandar",
+   "conf": 0.9664063242173964
+  },
+  {
+   "text": "Date04-04-201814:26:20",
+   "conf": 0.9721487056125294
+  },
+  {
+   "text": "Description",
+   "conf": 0.9929239478978243
+  },
+  {
+   "text": "Qty",
+   "conf": 0.9191097815831503
+  },
+  {
+   "text": "U.price",
+   "conf": 0.9614690457071576
+  },
+  {
+   "text": "Total TAX",
+   "conf": 0.9336388309796652
+  },
+  {
+   "text": "Teh(B)",
+   "conf": 0.941692034403483
+  },
+  {
+   "text": "1",
+   "conf": 0.950366199016571
+  },
+  {
+   "text": "1X",
+   "conf": 0.6967140138149261
+  },
+  {
+   "text": "2.20",
+   "conf": 0.9983193129301071
+  },
+  {
+   "text": "2.20",
+   "conf": 0.9975752085447311
+  },
+  {
+   "text": "SR",
+   "conf": 0.9879434406757355
+  },
+  {
+   "text": "Cham (B)",
+   "conf": 0.8626437485218048
+  },
+  {
+   "text": "1X",
+   "conf": 0.7690978050231934
+  },
+  {
+   "text": "2.20",
+   "conf": 0.9853421747684479
+  },
+  {
+   "text": "2.20",
+   "conf": 0.9818060249090195
+  },
+  {
+   "text": "SR",
+   "conf": 0.9963688552379608
+  },
+  {
+   "text": "Milo(B)",
+   "conf": 0.8886211344173977
+  },
+  {
+   "text": "1X",
+   "conf": 0.7349888831377029
+  },
+  {
+   "text": "2.80",
+   "conf": 0.9991885274648666
+  },
+  {
+   "text": "2.80",
+   "conf": 0.9987261444330215
+  },
+  {
+   "text": "SR",
+   "conf": 0.9974004328250885
+  },
+  {
+   "text": "TakeAway",
+   "conf": 0.9885310083627701
+  },
+  {
+   "text": "3x",
+   "conf": 0.7684769034385681
+  },
+  {
+   "text": "0.20",
+   "conf": 0.9969559758901596
+  },
+  {
+   "text": "0.60",
+   "conf": 0.9981518238782883
+  },
+  {
+   "text": "SR",
+   "conf": 0.9938251674175262
+  },
+  {
+   "text": "Total QTY:6",
+   "conf": 0.9148453582416881
+  },
+  {
+   "text": "Total (Excluding GST):",
+   "conf": 0.9035510691729459
+  },
+  {
+   "text": "7.37",
+   "conf": 0.9917444586753845
+  },
+  {
+   "text": "GST payable（6%):",
+   "conf": 0.8834356516599655
+  },
+  {
+   "text": "0.43",
+   "conf": 0.9975508600473404
+  },
+  {
+   "text": "Total (Inclusive of GSI）:",
+   "conf": 0.8751525747776031
+  },
+  {
+   "text": "7.80",
+   "conf": 0.9968521147966385
+  },
+  {
+   "text": "TOTAL:",
+   "conf": 0.972763846317927
+  },
+  {
+   "text": "7.80",
+   "conf": 0.9972473680973053
+  },
+  {
+   "text": "CASH",
+   "conf": 0.9907481372356415
+  },
+  {
+   "text": "7.80",
+   "conf": 0.9979930520057678
+  },
+  {
+   "text": "GST Summary",
+   "conf": 0.9784703904932196
+  },
+  {
+   "text": "Amount(RM)",
+   "conf": 0.9292202711105346
+  },
+  {
+   "text": "Tax(RM)",
+   "conf": 0.9231064575059074
+  },
+  {
+   "text": "SR",
+   "conf": 0.986986517906189
+  },
+  {
+   "text": "（@6%）",
+   "conf": 0.8485742330551147
+  },
+  {
+   "text": "7.37",
+   "conf": 0.989924430847168
+  },
+  {
+   "text": "0.43",
+   "conf": 0.9793279767036438
+  }
+ ],
+ "mean_conf": 0.9446,
+ "low_conf_share": 0.0,
+ "latency_ms": 3653,
+ "fields": {
+  "company": "RESTORAN WAN SHENG",
+  "date": "2018-04-04",
+  "total": 7.8
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  7.8
+ ],
+ "key": "X51008030565"
+}

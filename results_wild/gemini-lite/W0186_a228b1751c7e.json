@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.1-flash-lite",
+ "provider": "gemini",
+ "raw_text": "{\n  \"vendor\": \"ANJAPPAR\",\n  \"date\": \"2013-05-23\",\n  \"subtotal\": 48.3,\n  \"tax\": 3.72,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 56.85,\n  \"currency\": \"SGD\",\n  \"confidence\": 0.98,\n  \"notes\": \"The 10% service charge is listed separately from the 7% GST.\"\n}",
+ "data": {
+  "vendor": "ANJAPPAR",
+  "date": "2013-05-23",
+  "subtotal": 48.3,
+  "tax": 3.72,
+  "tip": null,
+  "discount": null,
+  "total": 56.85,
+  "currency": "SGD",
+  "confidence": 0.98,
+  "notes": "The 10% service charge is listed separately from the 7% GST."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1461,
+  "output_tokens": 122,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.000548,
+ "latency_ms": 1872,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.1-flash-lite",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.1-flash-lite"
+ ],
+ "key": "W0186_a228b1751c7e"
+}

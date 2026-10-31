@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.6-flash",
+ "provider": "gemini",
+ "raw_text": "{\"vendor\": \"LEE WAH FLORIST SDN BHD\", \"date\": \"2018-02-02\", \"subtotal\": 353.0, \"tax\": 21.18, \"tip\": null, \"discount\": 0.0, \"total\": 374.2, \"currency\": \"MYR\", \"confidence\": 0.95, \"notes\": null}",
+ "data": {
+  "vendor": "LEE WAH FLORIST SDN BHD",
+  "date": "2018-02-02",
+  "subtotal": 353.0,
+  "tax": 21.18,
+  "tip": null,
+  "discount": 0.0,
+  "total": 374.2,
+  "currency": "MYR",
+  "confidence": 0.95,
+  "notes": null
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1429,
+  "output_tokens": 93,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.001421,
+ "latency_ms": 1869,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.6-flash",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.6-flash"
+ ],
+ "key": "X51005806679"
+}

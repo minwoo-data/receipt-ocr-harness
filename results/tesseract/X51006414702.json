@@ -1,0 +1,517 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "Triple Six Point Enterprise 666 |",
+  "- No 14&16 Jalan Permas 4/3 Bandar Baru Permas Jay",
+  "Tel : 016-7574666",
+  "Receipt no: REC-0016614 ,",
+  "Date: 23-04-2018 06:29:01 PM",
+  "Payment Type: Cash ‘,",
+  "Receipt :",
+  "(Receipt No.: REC-0016614)",
+  "QTY ITEM PRICE TOTAL ;",
+  "24 Hey Song 430 96.00 ,",
+  "x Japan green",
+  ": Tea 580ml",
+  ". (Disc: 7.2000)",
+  "4x Hwa Tai Luxury 3.90 3.90",
+  "coklat cream",
+  "1x Hwa Taj Luxury 3.90 3.90 :",
+  "peanuts",
+  "cracker |",
+  "2x Hwa Tai Luxury 3.90 7.80 |",
+  "lemon cream",
+  "| 1x Bento Sweet 12.90 12.90",
+  "Spicy",
+  "1x Tango Almonds 30.90 30.90",
+  "20Bars )",
+  "1x Yeos Soya 1L 2.50 2.50 .",
+  "SaaS a 7 . .",
+  "Total Amount 157.90",
+  "Tendered 160.00",
+  "Change 210 3"
+ ],
+ "tokens": [
+  {
+   "text": "Triple",
+   "conf": 0.95
+  },
+  {
+   "text": "Six",
+   "conf": 0.96
+  },
+  {
+   "text": "Point",
+   "conf": 0.96
+  },
+  {
+   "text": "Enterprise",
+   "conf": 0.96
+  },
+  {
+   "text": "666",
+   "conf": 0.96
+  },
+  {
+   "text": "|",
+   "conf": 0.34
+  },
+  {
+   "text": "-",
+   "conf": 0.42
+  },
+  {
+   "text": "No",
+   "conf": 0.93
+  },
+  {
+   "text": "14&16",
+   "conf": 0.9
+  },
+  {
+   "text": "Jalan",
+   "conf": 0.93
+  },
+  {
+   "text": "Permas",
+   "conf": 0.91
+  },
+  {
+   "text": "4/3",
+   "conf": 0.95
+  },
+  {
+   "text": "Bandar",
+   "conf": 0.96
+  },
+  {
+   "text": "Baru",
+   "conf": 0.93
+  },
+  {
+   "text": "Permas",
+   "conf": 0.92
+  },
+  {
+   "text": "Jay",
+   "conf": 0.96
+  },
+  {
+   "text": "Tel",
+   "conf": 0.91
+  },
+  {
+   "text": ":",
+   "conf": 0.67
+  },
+  {
+   "text": "016-7574666",
+   "conf": 0.71
+  },
+  {
+   "text": "Receipt",
+   "conf": 0.96
+  },
+  {
+   "text": "no:",
+   "conf": 0.93
+  },
+  {
+   "text": "REC-0016614",
+   "conf": 0.91
+  },
+  {
+   "text": ",",
+   "conf": 0.0
+  },
+  {
+   "text": "Date:",
+   "conf": 0.92
+  },
+  {
+   "text": "23-04-2018",
+   "conf": 0.95
+  },
+  {
+   "text": "06:29:01",
+   "conf": 0.95
+  },
+  {
+   "text": "PM",
+   "conf": 0.96
+  },
+  {
+   "text": "Payment",
+   "conf": 0.96
+  },
+  {
+   "text": "Type:",
+   "conf": 0.95
+  },
+  {
+   "text": "Cash",
+   "conf": 0.96
+  },
+  {
+   "text": "‘,",
+   "conf": 0.36
+  },
+  {
+   "text": "Receipt",
+   "conf": 0.96
+  },
+  {
+   "text": ":",
+   "conf": 0.1
+  },
+  {
+   "text": "(Receipt",
+   "conf": 0.93
+  },
+  {
+   "text": "No.:",
+   "conf": 0.69
+  },
+  {
+   "text": "REC-0016614)",
+   "conf": 0.91
+  },
+  {
+   "text": "QTY",
+   "conf": 0.96
+  },
+  {
+   "text": "ITEM",
+   "conf": 0.96
+  },
+  {
+   "text": "PRICE",
+   "conf": 0.93
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.84
+  },
+  {
+   "text": ";",
+   "conf": 0.0
+  },
+  {
+   "text": "24",
+   "conf": 0.96
+  },
+  {
+   "text": "Hey",
+   "conf": 0.96
+  },
+  {
+   "text": "Song",
+   "conf": 0.95
+  },
+  {
+   "text": "430",
+   "conf": 0.94
+  },
+  {
+   "text": "96.00",
+   "conf": 0.96
+  },
+  {
+   "text": ",",
+   "conf": 0.0
+  },
+  {
+   "text": "x",
+   "conf": 0.91
+  },
+  {
+   "text": "Japan",
+   "conf": 0.88
+  },
+  {
+   "text": "green",
+   "conf": 0.96
+  },
+  {
+   "text": ":",
+   "conf": 0.78
+  },
+  {
+   "text": "Tea",
+   "conf": 0.95
+  },
+  {
+   "text": "580ml",
+   "conf": 0.95
+  },
+  {
+   "text": ".",
+   "conf": 0.0
+  },
+  {
+   "text": "(Disc:",
+   "conf": 0.9
+  },
+  {
+   "text": "7.2000)",
+   "conf": 0.96
+  },
+  {
+   "text": "4x",
+   "conf": 0.67
+  },
+  {
+   "text": "Hwa",
+   "conf": 0.93
+  },
+  {
+   "text": "Tai",
+   "conf": 0.94
+  },
+  {
+   "text": "Luxury",
+   "conf": 0.96
+  },
+  {
+   "text": "3.90",
+   "conf": 0.92
+  },
+  {
+   "text": "3.90",
+   "conf": 0.92
+  },
+  {
+   "text": "coklat",
+   "conf": 0.91
+  },
+  {
+   "text": "cream",
+   "conf": 0.95
+  },
+  {
+   "text": "1x",
+   "conf": 0.87
+  },
+  {
+   "text": "Hwa",
+   "conf": 0.92
+  },
+  {
+   "text": "Taj",
+   "conf": 0.6
+  },
+  {
+   "text": "Luxury",
+   "conf": 0.96
+  },
+  {
+   "text": "3.90",
+   "conf": 0.89
+  },
+  {
+   "text": "3.90",
+   "conf": 0.89
+  },
+  {
+   "text": ":",
+   "conf": 0.0
+  },
+  {
+   "text": "peanuts",
+   "conf": 0.96
+  },
+  {
+   "text": "cracker",
+   "conf": 0.95
+  },
+  {
+   "text": "|",
+   "conf": 0.71
+  },
+  {
+   "text": "2x",
+   "conf": 0.86
+  },
+  {
+   "text": "Hwa",
+   "conf": 0.86
+  },
+  {
+   "text": "Tai",
+   "conf": 0.96
+  },
+  {
+   "text": "Luxury",
+   "conf": 0.96
+  },
+  {
+   "text": "3.90",
+   "conf": 0.88
+  },
+  {
+   "text": "7.80",
+   "conf": 0.88
+  },
+  {
+   "text": "|",
+   "conf": 0.23
+  },
+  {
+   "text": "lemon",
+   "conf": 0.95
+  },
+  {
+   "text": "cream",
+   "conf": 0.95
+  },
+  {
+   "text": "|",
+   "conf": 0.46
+  },
+  {
+   "text": "1x",
+   "conf": 0.62
+  },
+  {
+   "text": "Bento",
+   "conf": 0.95
+  },
+  {
+   "text": "Sweet",
+   "conf": 0.96
+  },
+  {
+   "text": "12.90",
+   "conf": 0.52
+  },
+  {
+   "text": "12.90",
+   "conf": 0.96
+  },
+  {
+   "text": "Spicy",
+   "conf": 0.96
+  },
+  {
+   "text": "1x",
+   "conf": 0.73
+  },
+  {
+   "text": "Tango",
+   "conf": 0.94
+  },
+  {
+   "text": "Almonds",
+   "conf": 0.95
+  },
+  {
+   "text": "30.90",
+   "conf": 0.93
+  },
+  {
+   "text": "30.90",
+   "conf": 0.93
+  },
+  {
+   "text": "20Bars",
+   "conf": 0.91
+  },
+  {
+   "text": ")",
+   "conf": 0.01
+  },
+  {
+   "text": "1x",
+   "conf": 0.87
+  },
+  {
+   "text": "Yeos",
+   "conf": 0.88
+  },
+  {
+   "text": "Soya",
+   "conf": 0.92
+  },
+  {
+   "text": "1L",
+   "conf": 0.87
+  },
+  {
+   "text": "2.50",
+   "conf": 0.93
+  },
+  {
+   "text": "2.50",
+   "conf": 0.93
+  },
+  {
+   "text": ".",
+   "conf": 0.0
+  },
+  {
+   "text": "SaaS",
+   "conf": 0.02
+  },
+  {
+   "text": "a",
+   "conf": 0.16
+  },
+  {
+   "text": "7",
+   "conf": 0.24
+  },
+  {
+   "text": ".",
+   "conf": 0.07
+  },
+  {
+   "text": ".",
+   "conf": 0.06
+  },
+  {
+   "text": "Total",
+   "conf": 0.96
+  },
+  {
+   "text": "Amount",
+   "conf": 0.95
+  },
+  {
+   "text": "157.90",
+   "conf": 0.95
+  },
+  {
+   "text": "Tendered",
+   "conf": 0.9
+  },
+  {
+   "text": "160.00",
+   "conf": 0.89
+  },
+  {
+   "text": "Change",
+   "conf": 0.96
+  },
+  {
+   "text": "210",
+   "conf": 0.87
+  },
+  {
+   "text": "3",
+   "conf": 0.14
+  }
+ ],
+ "mean_conf": 0.78,
+ "low_conf_share": 0.1624,
+ "latency_ms": 7114,
+ "fields": {
+  "company": "TRIPLE SIX POINT ENTERPRISE 666",
+  "date": "2018-04-23",
+  "total": 157.9
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  157.9
+ ],
+ "key": "X51006414702"
+}

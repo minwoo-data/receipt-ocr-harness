@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.6-flash",
+ "provider": "gemini",
+ "raw_text": "{\"vendor\":\"HAPPY LIQUOR\",\"date\":\"2016-12-30\",\"subtotal\":16.84,\"tax\":0.57,\"tip\":null,\"discount\":null,\"total\":17.41,\"currency\":\"USD\",\"confidence\":0.98,\"notes\":null}",
+ "data": {
+  "vendor": "HAPPY LIQUOR",
+  "date": "2016-12-30",
+  "subtotal": 16.84,
+  "tax": 0.57,
+  "tip": null,
+  "discount": null,
+  "total": 17.41,
+  "currency": "USD",
+  "confidence": 0.98,
+  "notes": null
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1458,
+  "output_tokens": 68,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.001349,
+ "latency_ms": 1283,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.6-flash",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.6-flash"
+ ],
+ "key": "W0171_507bf49f3c20"
+}

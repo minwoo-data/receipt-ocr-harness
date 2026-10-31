@@ -1,0 +1,150 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "BOYSS-20 LNG BT . 9.20%)",
+  "26-2010\" 2077875 6.401)",
+  "38-20\"T0P : 6401",
+  "TOT, «$49.70",
+  "PAYMENT FROM PRIMARY ACCOUNT",
+  "APPROVED 000000",
+  "TOTAL SAVE: — $192.08 ))",
+  "THANK YOU FOR SHOPPING AT KOHL'S"
+ ],
+ "tokens": [
+  {
+   "text": "BOYSS-20",
+   "conf": 0.0
+  },
+  {
+   "text": "LNG",
+   "conf": 0.92
+  },
+  {
+   "text": "BT",
+   "conf": 0.92
+  },
+  {
+   "text": ".",
+   "conf": 0.0
+  },
+  {
+   "text": "9.20%)",
+   "conf": 0.49
+  },
+  {
+   "text": "26-2010\"",
+   "conf": 0.0
+  },
+  {
+   "text": "2077875",
+   "conf": 0.53
+  },
+  {
+   "text": "6.401)",
+   "conf": 0.59
+  },
+  {
+   "text": "38-20\"T0P",
+   "conf": 0.0
+  },
+  {
+   "text": ":",
+   "conf": 0.2
+  },
+  {
+   "text": "6401",
+   "conf": 0.04
+  },
+  {
+   "text": "TOT,",
+   "conf": 0.53
+  },
+  {
+   "text": "«$49.70",
+   "conf": 0.38
+  },
+  {
+   "text": "PAYMENT",
+   "conf": 0.5
+  },
+  {
+   "text": "FROM",
+   "conf": 0.5
+  },
+  {
+   "text": "PRIMARY",
+   "conf": 0.63
+  },
+  {
+   "text": "ACCOUNT",
+   "conf": 0.63
+  },
+  {
+   "text": "APPROVED",
+   "conf": 0.88
+  },
+  {
+   "text": "000000",
+   "conf": 0.95
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.88
+  },
+  {
+   "text": "SAVE:",
+   "conf": 0.66
+  },
+  {
+   "text": "—",
+   "conf": 0.54
+  },
+  {
+   "text": "$192.08",
+   "conf": 0.19
+  },
+  {
+   "text": "))",
+   "conf": 0.0
+  },
+  {
+   "text": "THANK",
+   "conf": 0.96
+  },
+  {
+   "text": "YOU",
+   "conf": 0.96
+  },
+  {
+   "text": "FOR",
+   "conf": 0.96
+  },
+  {
+   "text": "SHOPPING",
+   "conf": 0.96
+  },
+  {
+   "text": "AT",
+   "conf": 0.92
+  },
+  {
+   "text": "KOHL'S",
+   "conf": 0.78
+  }
+ ],
+ "mean_conf": 0.55,
+ "low_conf_share": 0.3333,
+ "latency_ms": 343,
+ "fields": {
+  "company": "PAYMENT FROM PRIMARY ACCOUNT",
+  "date": null,
+  "total": 192.08
+ },
+ "rule_reasons": [
+  "date_not_found"
+ ],
+ "total_candidates": [
+  192.08
+ ],
+ "key": "W0046_da701a794164"
+}

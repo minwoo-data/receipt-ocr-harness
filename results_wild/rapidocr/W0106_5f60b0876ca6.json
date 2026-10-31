@@ -1,0 +1,200 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "DBLUEN RESTAURANTS LTD",
+  "P.0.Bo50203.3602 L50",
+  "EpsiTon",
+  "LlnessoTMarine",
+  "TEL.25-737499",
+  "Server:Kirinis 27/12/2015",
+  "Cashler:Tonta",
+  "Table204/1 3:51PH",
+  ":sisang 10322",
+  "Big Bt1 Minera] 1L（2 03.90） 7.80",
+  "11.50",
+  "PrawnsE 14.90",
+  "La Baume Chardonnay 21.00",
+  "Cyprus Coffee 1.90",
+  "Espresso（22.9） 5.80",
+  "Mfllefeuflle 5.50",
+  "Tuna Lofn Salad（2 @13.50） 27.00",
+  "Half Chicken 16.90",
+  "Subtotal 103.03",
+  "VAT 9.27",
+  "Total 112.30",
+  "Balance Du C112.30",
+  "VAT Detail:",
+  ".00%:103.03:9.27"
+ ],
+ "tokens": [
+  {
+   "text": "DBLUEN RESTAURANTS LTD",
+   "conf": 0.8629478825764223
+  },
+  {
+   "text": "P.0.Bo50203.3602 L50",
+   "conf": 0.851646888256073
+  },
+  {
+   "text": "EpsiTon",
+   "conf": 0.7812204233237675
+  },
+  {
+   "text": "LlnessoTMarine",
+   "conf": 0.805997690984181
+  },
+  {
+   "text": "TEL.25-737499",
+   "conf": 0.9450127757512606
+  },
+  {
+   "text": "Server:Kirinis",
+   "conf": 0.9535286980015891
+  },
+  {
+   "text": "27/12/2015",
+   "conf": 0.9948821663856506
+  },
+  {
+   "text": "Cashler:Tonta",
+   "conf": 0.905493275477336
+  },
+  {
+   "text": "Table204/1",
+   "conf": 0.9751875102519989
+  },
+  {
+   "text": "3:51PH",
+   "conf": 0.8664518793423971
+  },
+  {
+   "text": ":sisang",
+   "conf": 0.5833613872528076
+  },
+  {
+   "text": "10322",
+   "conf": 0.9220869779586792
+  },
+  {
+   "text": "Big Bt1 Minera] 1L（2 03.90）",
+   "conf": 0.830107323549412
+  },
+  {
+   "text": "7.80",
+   "conf": 0.8912075757980347
+  },
+  {
+   "text": "11.50",
+   "conf": 0.9900447249412536
+  },
+  {
+   "text": "PrawnsE",
+   "conf": 0.8582106190068381
+  },
+  {
+   "text": "14.90",
+   "conf": 0.9815367102622986
+  },
+  {
+   "text": "La Baume Chardonnay",
+   "conf": 0.959025430051904
+  },
+  {
+   "text": "21.00",
+   "conf": 0.9746529817581177
+  },
+  {
+   "text": "Cyprus Coffee",
+   "conf": 0.9086861839661231
+  },
+  {
+   "text": "1.90",
+   "conf": 0.9807712584733963
+  },
+  {
+   "text": "Espresso（22.9）",
+   "conf": 0.891594294990812
+  },
+  {
+   "text": "5.80",
+   "conf": 0.9883657544851303
+  },
+  {
+   "text": "Mfllefeuflle",
+   "conf": 0.9269335716962814
+  },
+  {
+   "text": "5.50",
+   "conf": 0.9933069497346878
+  },
+  {
+   "text": "Tuna Lofn Salad（2 @13.50）",
+   "conf": 0.8445737099647522
+  },
+  {
+   "text": "27.00",
+   "conf": 0.9897994756698608
+  },
+  {
+   "text": "Half Chicken",
+   "conf": 0.8929021457831064
+  },
+  {
+   "text": "16.90",
+   "conf": 0.9823781967163085
+  },
+  {
+   "text": "Subtotal",
+   "conf": 0.9824044108390808
+  },
+  {
+   "text": "103.03",
+   "conf": 0.9924173653125763
+  },
+  {
+   "text": "VAT",
+   "conf": 0.9928630987803141
+  },
+  {
+   "text": "9.27",
+   "conf": 0.9886337220668793
+  },
+  {
+   "text": "Total",
+   "conf": 0.9611979484558105
+  },
+  {
+   "text": "112.30",
+   "conf": 0.9378551344076792
+  },
+  {
+   "text": "Balance Du",
+   "conf": 0.9465877950191498
+  },
+  {
+   "text": "C112.30",
+   "conf": 0.9572462524686541
+  },
+  {
+   "text": "VAT Detail:",
+   "conf": 0.9001694159074263
+  },
+  {
+   "text": ".00%:103.03:9.27",
+   "conf": 0.9393515139818192
+  }
+ ],
+ "mean_conf": 0.9213,
+ "low_conf_share": 0.0,
+ "latency_ms": 4385,
+ "fields": {
+  "company": "DBLUEN RESTAURANTS LTD",
+  "date": "2015-12-27",
+  "total": 112.3
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  112.3
+ ],
+ "key": "W0106_5f60b0876ca6"
+}

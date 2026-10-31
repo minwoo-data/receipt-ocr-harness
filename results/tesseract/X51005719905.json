@@ -1,0 +1,545 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "SAINT HEART PASTRY",
+  "(001980264-H)",
+  "29,JLN SJ 17,",
+  "TMN SELAYANG JAYA,",
+  "68100 BATU CAVES,",
+  "SELANGOR",
+  "TEL : 03-61372830",
+  "GST ID : 001661329408",
+  "SIMPLIFIED TAX INVOICE",
+  "CASH",
+  "Receipt#: ©S00254837 Table: 46",
+  "Staff: AISHAH Date: 26/03/2018",
+  "Cashier: AISHAH Time: 10:56:00",
+  "as |.) es \\ |",
+  "Description Qty (RM) (RM) Tax",
+  "JUMBO SAUSAGE CHEESE 1 3.10 3.10 SR",
+  "| JUMBO SAUSAGE CHEESE 1 3.10 3.10 SR",
+  "| GARLIC CHEESE 1 2.00 2.00 SR",
+  "Total: 3 8.20",
+  "Total Sales (Excluding GST) : 7.74",
+  "! Discount : 0.00",
+  "Service Charge : 0.00",
+  "TotalGST : 0.46",
+  "Rounding : 0.00",
+  "Total Sales (Inclusive of GST) 8.20",
+  "CASH 8.20",
+  "CHANGE 0.00",
+  "GST SUMMARY",
+  "TaxCode % Amt(RM) Tax(RM)",
+  "SR 6 7.74 0.46",
+  "Total: 7.74 0.46",
+  "GOODS SOLD ARE NOT RETURNABLE, THANK YOU.",
+  "RE-PRINT"
+ ],
+ "tokens": [
+  {
+   "text": "SAINT",
+   "conf": 0.96
+  },
+  {
+   "text": "HEART",
+   "conf": 0.95
+  },
+  {
+   "text": "PASTRY",
+   "conf": 0.96
+  },
+  {
+   "text": "(001980264-H)",
+   "conf": 0.92
+  },
+  {
+   "text": "29,JLN",
+   "conf": 0.84
+  },
+  {
+   "text": "SJ",
+   "conf": 0.89
+  },
+  {
+   "text": "17,",
+   "conf": 0.95
+  },
+  {
+   "text": "TMN",
+   "conf": 0.91
+  },
+  {
+   "text": "SELAYANG",
+   "conf": 0.89
+  },
+  {
+   "text": "JAYA,",
+   "conf": 0.89
+  },
+  {
+   "text": "68100",
+   "conf": 0.96
+  },
+  {
+   "text": "BATU",
+   "conf": 0.95
+  },
+  {
+   "text": "CAVES,",
+   "conf": 0.95
+  },
+  {
+   "text": "SELANGOR",
+   "conf": 0.95
+  },
+  {
+   "text": "TEL",
+   "conf": 0.93
+  },
+  {
+   "text": ":",
+   "conf": 0.91
+  },
+  {
+   "text": "03-61372830",
+   "conf": 0.92
+  },
+  {
+   "text": "GST",
+   "conf": 0.96
+  },
+  {
+   "text": "ID",
+   "conf": 0.92
+  },
+  {
+   "text": ":",
+   "conf": 0.91
+  },
+  {
+   "text": "001661329408",
+   "conf": 0.96
+  },
+  {
+   "text": "SIMPLIFIED",
+   "conf": 0.96
+  },
+  {
+   "text": "TAX",
+   "conf": 0.95
+  },
+  {
+   "text": "INVOICE",
+   "conf": 0.95
+  },
+  {
+   "text": "CASH",
+   "conf": 0.95
+  },
+  {
+   "text": "Receipt#:",
+   "conf": 0.71
+  },
+  {
+   "text": "©S00254837",
+   "conf": 0.84
+  },
+  {
+   "text": "Table:",
+   "conf": 0.81
+  },
+  {
+   "text": "46",
+   "conf": 0.81
+  },
+  {
+   "text": "Staff:",
+   "conf": 0.95
+  },
+  {
+   "text": "AISHAH",
+   "conf": 0.92
+  },
+  {
+   "text": "Date:",
+   "conf": 0.83
+  },
+  {
+   "text": "26/03/2018",
+   "conf": 0.7
+  },
+  {
+   "text": "Cashier:",
+   "conf": 0.96
+  },
+  {
+   "text": "AISHAH",
+   "conf": 0.9
+  },
+  {
+   "text": "Time:",
+   "conf": 0.96
+  },
+  {
+   "text": "10:56:00",
+   "conf": 0.95
+  },
+  {
+   "text": "as",
+   "conf": 0.22
+  },
+  {
+   "text": "|.)",
+   "conf": 0.16
+  },
+  {
+   "text": "es",
+   "conf": 0.1
+  },
+  {
+   "text": "\\",
+   "conf": 0.69
+  },
+  {
+   "text": "|",
+   "conf": 0.1
+  },
+  {
+   "text": "Description",
+   "conf": 0.96
+  },
+  {
+   "text": "Qty",
+   "conf": 0.96
+  },
+  {
+   "text": "(RM)",
+   "conf": 0.93
+  },
+  {
+   "text": "(RM)",
+   "conf": 0.92
+  },
+  {
+   "text": "Tax",
+   "conf": 0.96
+  },
+  {
+   "text": "JUMBO",
+   "conf": 0.96
+  },
+  {
+   "text": "SAUSAGE",
+   "conf": 0.96
+  },
+  {
+   "text": "CHEESE",
+   "conf": 0.96
+  },
+  {
+   "text": "1",
+   "conf": 0.96
+  },
+  {
+   "text": "3.10",
+   "conf": 0.94
+  },
+  {
+   "text": "3.10",
+   "conf": 0.91
+  },
+  {
+   "text": "SR",
+   "conf": 0.91
+  },
+  {
+   "text": "|",
+   "conf": 0.64
+  },
+  {
+   "text": "JUMBO",
+   "conf": 0.96
+  },
+  {
+   "text": "SAUSAGE",
+   "conf": 0.96
+  },
+  {
+   "text": "CHEESE",
+   "conf": 0.96
+  },
+  {
+   "text": "1",
+   "conf": 0.69
+  },
+  {
+   "text": "3.10",
+   "conf": 0.91
+  },
+  {
+   "text": "3.10",
+   "conf": 0.88
+  },
+  {
+   "text": "SR",
+   "conf": 0.88
+  },
+  {
+   "text": "|",
+   "conf": 0.55
+  },
+  {
+   "text": "GARLIC",
+   "conf": 0.96
+  },
+  {
+   "text": "CHEESE",
+   "conf": 0.96
+  },
+  {
+   "text": "1",
+   "conf": 0.93
+  },
+  {
+   "text": "2.00",
+   "conf": 0.96
+  },
+  {
+   "text": "2.00",
+   "conf": 0.93
+  },
+  {
+   "text": "SR",
+   "conf": 0.93
+  },
+  {
+   "text": "Total:",
+   "conf": 0.95
+  },
+  {
+   "text": "3",
+   "conf": 0.96
+  },
+  {
+   "text": "8.20",
+   "conf": 0.9
+  },
+  {
+   "text": "Total",
+   "conf": 0.96
+  },
+  {
+   "text": "Sales",
+   "conf": 0.96
+  },
+  {
+   "text": "(Excluding",
+   "conf": 0.96
+  },
+  {
+   "text": "GST)",
+   "conf": 0.91
+  },
+  {
+   "text": ":",
+   "conf": 0.68
+  },
+  {
+   "text": "7.74",
+   "conf": 0.93
+  },
+  {
+   "text": "!",
+   "conf": 0.0
+  },
+  {
+   "text": "Discount",
+   "conf": 0.89
+  },
+  {
+   "text": ":",
+   "conf": 0.89
+  },
+  {
+   "text": "0.00",
+   "conf": 0.67
+  },
+  {
+   "text": "Service",
+   "conf": 0.96
+  },
+  {
+   "text": "Charge",
+   "conf": 0.85
+  },
+  {
+   "text": ":",
+   "conf": 0.41
+  },
+  {
+   "text": "0.00",
+   "conf": 0.96
+  },
+  {
+   "text": "TotalGST",
+   "conf": 0.9
+  },
+  {
+   "text": ":",
+   "conf": 0.9
+  },
+  {
+   "text": "0.46",
+   "conf": 0.94
+  },
+  {
+   "text": "Rounding",
+   "conf": 0.89
+  },
+  {
+   "text": ":",
+   "conf": 0.89
+  },
+  {
+   "text": "0.00",
+   "conf": 0.95
+  },
+  {
+   "text": "Total",
+   "conf": 0.96
+  },
+  {
+   "text": "Sales",
+   "conf": 0.96
+  },
+  {
+   "text": "(Inclusive",
+   "conf": 0.95
+  },
+  {
+   "text": "of",
+   "conf": 0.96
+  },
+  {
+   "text": "GST)",
+   "conf": 0.8
+  },
+  {
+   "text": "8.20",
+   "conf": 0.95
+  },
+  {
+   "text": "CASH",
+   "conf": 0.96
+  },
+  {
+   "text": "8.20",
+   "conf": 0.96
+  },
+  {
+   "text": "CHANGE",
+   "conf": 0.96
+  },
+  {
+   "text": "0.00",
+   "conf": 0.96
+  },
+  {
+   "text": "GST",
+   "conf": 0.96
+  },
+  {
+   "text": "SUMMARY",
+   "conf": 0.96
+  },
+  {
+   "text": "TaxCode",
+   "conf": 0.89
+  },
+  {
+   "text": "%",
+   "conf": 0.89
+  },
+  {
+   "text": "Amt(RM)",
+   "conf": 0.9
+  },
+  {
+   "text": "Tax(RM)",
+   "conf": 0.83
+  },
+  {
+   "text": "SR",
+   "conf": 0.96
+  },
+  {
+   "text": "6",
+   "conf": 0.96
+  },
+  {
+   "text": "7.74",
+   "conf": 0.93
+  },
+  {
+   "text": "0.46",
+   "conf": 0.96
+  },
+  {
+   "text": "Total:",
+   "conf": 0.89
+  },
+  {
+   "text": "7.74",
+   "conf": 0.91
+  },
+  {
+   "text": "0.46",
+   "conf": 0.96
+  },
+  {
+   "text": "GOODS",
+   "conf": 0.96
+  },
+  {
+   "text": "SOLD",
+   "conf": 0.96
+  },
+  {
+   "text": "ARE",
+   "conf": 0.96
+  },
+  {
+   "text": "NOT",
+   "conf": 0.95
+  },
+  {
+   "text": "RETURNABLE,",
+   "conf": 0.95
+  },
+  {
+   "text": "THANK",
+   "conf": 0.96
+  },
+  {
+   "text": "YOU.",
+   "conf": 0.94
+  },
+  {
+   "text": "RE-PRINT",
+   "conf": 0.91
+  }
+ ],
+ "mean_conf": 0.8752,
+ "low_conf_share": 0.0488,
+ "latency_ms": 1732,
+ "fields": {
+  "company": "SAINT HEART PASTRY",
+  "date": "2018-03-26",
+  "total": 8.2
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  8.2
+ ],
+ "key": "X51005719905"
+}

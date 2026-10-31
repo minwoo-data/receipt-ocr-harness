@@ -1,0 +1,211 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "Smal+1iC.",
+  "IKANO HANDELSDN BHD",
+  "(1074617K)",
+  "IKEACheras",
+  "No 2A JalanCochrane",
+  "Taman Maluri",
+  "55100 KUALALUMPUR",
+  "GST No.:000115154944",
+  "TAX INVOICE",
+  "Slip:0000000109000712950",
+  "Date:25/04/18",
+  "Time:11:06",
+  "Trans:409712949 Staff: 95897",
+  "Description Amount TX",
+  "5983360016_Chicken Curry Puff",
+  "4bag@5.50 22.00SR",
+  "Total RMIncluding GST 6% 22.00",
+  "Rounding Adj. 0.00",
+  "Total Rounded 22.00",
+  "Cash -22.00",
+  "GSTSR 6% 22.00 1.25",
+  "Amt.Excl.GST 20.75",
+  "No.of Items 4",
+  "Thank you.Please come again.",
+  "APPROVED Lan",
+  "BY DATE"
+ ],
+ "tokens": [
+  {
+   "text": "Smal+1iC.",
+   "conf": 0.6345762974686093
+  },
+  {
+   "text": "IKANO HANDELSDN BHD",
+   "conf": 0.9594793602039939
+  },
+  {
+   "text": "(1074617K)",
+   "conf": 0.9554462492465973
+  },
+  {
+   "text": "IKEACheras",
+   "conf": 0.9663888216018677
+  },
+  {
+   "text": "No 2A JalanCochrane",
+   "conf": 0.9455762066339192
+  },
+  {
+   "text": "Taman Maluri",
+   "conf": 0.9781889865795771
+  },
+  {
+   "text": "55100 KUALALUMPUR",
+   "conf": 0.9686132388956407
+  },
+  {
+   "text": "GST No.:000115154944",
+   "conf": 0.9760705232620239
+  },
+  {
+   "text": "TAX INVOICE",
+   "conf": 0.9169154112989252
+  },
+  {
+   "text": "Slip:0000000109000712950",
+   "conf": 0.9874618723988533
+  },
+  {
+   "text": "Date:25/04/18",
+   "conf": 0.9935365227552561
+  },
+  {
+   "text": "Time:11:06",
+   "conf": 0.9865751206874848
+  },
+  {
+   "text": "Trans:409712949",
+   "conf": 0.992328679561615
+  },
+  {
+   "text": "Staff:",
+   "conf": 0.9522204697132111
+  },
+  {
+   "text": "95897",
+   "conf": 0.9992837190628052
+  },
+  {
+   "text": "Description",
+   "conf": 0.996564735065807
+  },
+  {
+   "text": "Amount TX",
+   "conf": 0.9384655555089315
+  },
+  {
+   "text": "5983360016_Chicken Curry Puff",
+   "conf": 0.953971920342281
+  },
+  {
+   "text": "4bag@5.50",
+   "conf": 0.9912336336241828
+  },
+  {
+   "text": "22.00SR",
+   "conf": 0.9957901835441589
+  },
+  {
+   "text": "Total RMIncluding GST 6%",
+   "conf": 0.9378117695450783
+  },
+  {
+   "text": "22.00",
+   "conf": 0.9988559484481812
+  },
+  {
+   "text": "Rounding Adj.",
+   "conf": 0.9466565159650949
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9879249185323715
+  },
+  {
+   "text": "Total Rounded",
+   "conf": 0.9591981631058913
+  },
+  {
+   "text": "22.00",
+   "conf": 0.9990893840789795
+  },
+  {
+   "text": "Cash",
+   "conf": 0.9980176091194153
+  },
+  {
+   "text": "-22.00",
+   "conf": 0.9939943253993988
+  },
+  {
+   "text": "GSTSR",
+   "conf": 0.9980609536170959
+  },
+  {
+   "text": "6%",
+   "conf": 0.9981027841567993
+  },
+  {
+   "text": "22.00",
+   "conf": 0.9987071633338929
+  },
+  {
+   "text": "1.25",
+   "conf": 0.996922954916954
+  },
+  {
+   "text": "Amt.Excl.GST",
+   "conf": 0.9283850938081741
+  },
+  {
+   "text": "20.75",
+   "conf": 0.99883052110672
+  },
+  {
+   "text": "No.of Items",
+   "conf": 0.9688484072685242
+  },
+  {
+   "text": "4",
+   "conf": 0.9994350075721741
+  },
+  {
+   "text": "Thank you.Please come again.",
+   "conf": 0.9587341398000717
+  },
+  {
+   "text": "APPROVED",
+   "conf": 0.9900815710425377
+  },
+  {
+   "text": "Lan",
+   "conf": 0.7969960570335388
+  },
+  {
+   "text": "DATE",
+   "conf": 0.9928486347198486
+  },
+  {
+   "text": "BY",
+   "conf": 0.9964719414710999
+  }
+ ],
+ "mean_conf": 0.9642,
+ "low_conf_share": 0.0,
+ "latency_ms": 11618,
+ "fields": {
+  "company": "SMAL 1IC IKANO HANDELSDN BHD",
+  "date": "2018-04-25",
+  "total": 22.0
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  22.0,
+  22.0
+ ],
+ "key": "X51005889296"
+}

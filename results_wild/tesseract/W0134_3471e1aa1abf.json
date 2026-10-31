@@ -1,0 +1,286 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "ZANOTTO'S MARKET",
+  "1421 FOXWORTHY AVE",
+  "408-264-0103",
+  "LISA",
+  "0003 02 02014878 07/18/10 9:58am 201",
+  "1 @ 2/$4.00",
+  "$ STRAWBERRIES $2.00 F",
+  "COUPON «(STRAWBERRY $2.00-SC F",
+  "1.21 lb @ $0.79/lb",
+  "$ YELLOW ONIONS $0.96 F",
+  "ITEM SUBTOTAL $2.96",
+  "STORE COUPON TOTAL $2.00-S",
+  "SUBTOTAL $0.96",
+  "TOTAL $0.96",
+  "CASH $1.00",
+  "CHANGE $0.04",
+  "# OF ITEMS: 2",
+  "THANK YOU FOR SHOPPING",
+  "ZANOTTO'S MARKET ! ! !"
+ ],
+ "tokens": [
+  {
+   "text": "ZANOTTO'S",
+   "conf": 0.89
+  },
+  {
+   "text": "MARKET",
+   "conf": 0.96
+  },
+  {
+   "text": "1421",
+   "conf": 0.92
+  },
+  {
+   "text": "FOXWORTHY",
+   "conf": 0.91
+  },
+  {
+   "text": "AVE",
+   "conf": 0.96
+  },
+  {
+   "text": "408-264-0103",
+   "conf": 0.96
+  },
+  {
+   "text": "LISA",
+   "conf": 0.96
+  },
+  {
+   "text": "0003",
+   "conf": 0.92
+  },
+  {
+   "text": "02",
+   "conf": 0.95
+  },
+  {
+   "text": "02014878",
+   "conf": 0.96
+  },
+  {
+   "text": "07/18/10",
+   "conf": 0.96
+  },
+  {
+   "text": "9:58am",
+   "conf": 0.96
+  },
+  {
+   "text": "201",
+   "conf": 0.96
+  },
+  {
+   "text": "1",
+   "conf": 0.82
+  },
+  {
+   "text": "@",
+   "conf": 0.82
+  },
+  {
+   "text": "2/$4.00",
+   "conf": 0.88
+  },
+  {
+   "text": "$",
+   "conf": 0.92
+  },
+  {
+   "text": "STRAWBERRIES",
+   "conf": 0.91
+  },
+  {
+   "text": "$2.00",
+   "conf": 0.9
+  },
+  {
+   "text": "F",
+   "conf": 0.92
+  },
+  {
+   "text": "COUPON",
+   "conf": 0.88
+  },
+  {
+   "text": "«(STRAWBERRY",
+   "conf": 0.67
+  },
+  {
+   "text": "$2.00-SC",
+   "conf": 0.88
+  },
+  {
+   "text": "F",
+   "conf": 0.9
+  },
+  {
+   "text": "1.21",
+   "conf": 0.92
+  },
+  {
+   "text": "lb",
+   "conf": 0.73
+  },
+  {
+   "text": "@",
+   "conf": 0.66
+  },
+  {
+   "text": "$0.79/lb",
+   "conf": 0.65
+  },
+  {
+   "text": "$",
+   "conf": 0.89
+  },
+  {
+   "text": "YELLOW",
+   "conf": 0.95
+  },
+  {
+   "text": "ONIONS",
+   "conf": 0.9
+  },
+  {
+   "text": "$0.96",
+   "conf": 0.72
+  },
+  {
+   "text": "F",
+   "conf": 0.72
+  },
+  {
+   "text": "ITEM",
+   "conf": 0.96
+  },
+  {
+   "text": "SUBTOTAL",
+   "conf": 0.95
+  },
+  {
+   "text": "$2.96",
+   "conf": 0.88
+  },
+  {
+   "text": "STORE",
+   "conf": 0.95
+  },
+  {
+   "text": "COUPON",
+   "conf": 0.95
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.96
+  },
+  {
+   "text": "$2.00-S",
+   "conf": 0.87
+  },
+  {
+   "text": "SUBTOTAL",
+   "conf": 0.96
+  },
+  {
+   "text": "$0.96",
+   "conf": 0.67
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.96
+  },
+  {
+   "text": "$0.96",
+   "conf": 0.78
+  },
+  {
+   "text": "CASH",
+   "conf": 0.96
+  },
+  {
+   "text": "$1.00",
+   "conf": 0.95
+  },
+  {
+   "text": "CHANGE",
+   "conf": 0.96
+  },
+  {
+   "text": "$0.04",
+   "conf": 0.91
+  },
+  {
+   "text": "#",
+   "conf": 0.93
+  },
+  {
+   "text": "OF",
+   "conf": 0.96
+  },
+  {
+   "text": "ITEMS:",
+   "conf": 0.96
+  },
+  {
+   "text": "2",
+   "conf": 0.96
+  },
+  {
+   "text": "THANK",
+   "conf": 0.96
+  },
+  {
+   "text": "YOU",
+   "conf": 0.95
+  },
+  {
+   "text": "FOR",
+   "conf": 0.96
+  },
+  {
+   "text": "SHOPPING",
+   "conf": 0.96
+  },
+  {
+   "text": "ZANOTTO'S",
+   "conf": 0.89
+  },
+  {
+   "text": "MARKET",
+   "conf": 0.88
+  },
+  {
+   "text": "!",
+   "conf": 0.75
+  },
+  {
+   "text": "!",
+   "conf": 0.83
+  },
+  {
+   "text": "!",
+   "conf": 0.83
+  }
+ ],
+ "mean_conf": 0.8918,
+ "low_conf_share": 0.0,
+ "latency_ms": 1264,
+ "fields": {
+  "company": "ZANOTTO S MARKET",
+  "date": "2010-07-18",
+  "total": 0.96
+ },
+ "rule_reasons": [
+  "total_multiple_keyword_amounts"
+ ],
+ "total_candidates": [
+  2.0,
+  0.96
+ ],
+ "key": "W0134_3471e1aa1abf"
+}

@@ -1,0 +1,42 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "CRED 7 Oo Le eee"
+ ],
+ "tokens": [
+  {
+   "text": "CRED",
+   "conf": 0.14
+  },
+  {
+   "text": "7",
+   "conf": 0.41
+  },
+  {
+   "text": "Oo",
+   "conf": 0.18
+  },
+  {
+   "text": "Le",
+   "conf": 0.38
+  },
+  {
+   "text": "eee",
+   "conf": 0.29
+  }
+ ],
+ "mean_conf": 0.28,
+ "low_conf_share": 1.0,
+ "latency_ms": 190,
+ "fields": {
+  "company": "CRED 7 OO LE EEE",
+  "date": null,
+  "total": null
+ },
+ "rule_reasons": [
+  "date_not_found",
+  "total_not_found"
+ ],
+ "total_candidates": [],
+ "key": "W0031_0cb17ebabf8d"
+}

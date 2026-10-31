@@ -1,0 +1,124 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "ROUND",
+  "TOWER",
+  "KELLS CO. MEATH",
+  "TELEPH0NE0469240144",
+  "**COPYRECEIPT*****",
+  "CLERK",
+  "2 MAIN COURSE 20.00",
+  "2 TEA 3.00",
+  "2 BALLYGOWAN 5.00",
+  "6 Total 28.00",
+  "CASH 28.00",
+  "TuesDay 5-4-201114:19:48",
+  "#087558 L0001",
+  "**COPYRECEIPT *****",
+  "THANK YOU",
+  "FOR YOUR VISII"
+ ],
+ "tokens": [
+  {
+   "text": "ROUND",
+   "conf": 0.9881376266479492
+  },
+  {
+   "text": "TOWER",
+   "conf": 0.9882884383201599
+  },
+  {
+   "text": "KELLS CO. MEATH",
+   "conf": 0.9786042451858521
+  },
+  {
+   "text": "TELEPH0NE0469240144",
+   "conf": 0.9948987584365042
+  },
+  {
+   "text": "**COPYRECEIPT*****",
+   "conf": 0.9321933885415395
+  },
+  {
+   "text": "CLERK",
+   "conf": 0.9980451345443726
+  },
+  {
+   "text": "2 MAIN COURSE",
+   "conf": 0.9627717962631812
+  },
+  {
+   "text": "20.00",
+   "conf": 0.9998943328857421
+  },
+  {
+   "text": "2 TEA",
+   "conf": 0.9053539395332336
+  },
+  {
+   "text": "3.00",
+   "conf": 0.999689906835556
+  },
+  {
+   "text": "2 BALLYGOWAN",
+   "conf": 0.9736710985501608
+  },
+  {
+   "text": "5.00",
+   "conf": 0.9998227953910828
+  },
+  {
+   "text": "6 Total",
+   "conf": 0.9805968829563686
+  },
+  {
+   "text": "28.00",
+   "conf": 0.9460778951644897
+  },
+  {
+   "text": "CASH",
+   "conf": 0.9973959028720856
+  },
+  {
+   "text": "28.00",
+   "conf": 0.9999086380004882
+  },
+  {
+   "text": "TuesDay",
+   "conf": 0.9974152956690107
+  },
+  {
+   "text": "5-4-201114:19:48",
+   "conf": 0.9937296360731125
+  },
+  {
+   "text": "#087558 L0001",
+   "conf": 0.9812176961165208
+  },
+  {
+   "text": "**COPYRECEIPT *****",
+   "conf": 0.9499210809406481
+  },
+  {
+   "text": "THANK YOU",
+   "conf": 0.9602020117971632
+  },
+  {
+   "text": "FOR YOUR VISII",
+   "conf": 0.9512309006282261
+  }
+ ],
+ "mean_conf": 0.9763,
+ "low_conf_share": 0.0,
+ "latency_ms": 2779,
+ "fields": {
+  "company": "TOWER KELLS CO MEATH",
+  "date": "2011-05-04",
+  "total": 28.0
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  28.0
+ ],
+ "key": "W0139_4281"
+}

@@ -1,0 +1,187 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "TQFORSHOPPINGWITHmyNEWS.cOm",
+  "PAGOHRESTAND SERVICEAREA",
+  "LOTR1,KWSREHAT&RAWATPAGOHARAHUTARA,",
+  "SIMPANGAMPATPAGOH,LEBUHRAYAUTARASELATAN,",
+  "84600,PAGOH,JOHOR",
+  "myNEWScarelne:1800881231",
+  "myNEWScareline@mynews.com.my",
+  "MYNEWSRETAIL SB{306295-X)FKABISONSTORESSB",
+  "TAXREGIDCBP000709361664",
+  "QTY PRICE DISC AMT",
+  "JALANJALAN (Majaiah)",
+  "02 10.00 0.00 10.00 ZRL",
+  "SUB TOTAL 10.00",
+  "GRANDTOTAL 1000",
+  "CASH20.00MYR 20.00",
+  "CHANGEDUE 10.00",
+  "TOTAL QTY",
+  "ZRL:0%G0ODS:10.00 TAX:0.00",
+  "23/03/20189:34:40AM",
+  "BILL18550-389-4768-2303180113",
+  "PRICE IS GSTINCLUSIVE"
+ ],
+ "tokens": [
+  {
+   "text": "TQFORSHOPPINGWITHmyNEWS.cOm",
+   "conf": 0.9541380361274436
+  },
+  {
+   "text": "PAGOHRESTAND SERVICEAREA",
+   "conf": 0.9734208807349205
+  },
+  {
+   "text": "LOTR1,KWSREHAT&RAWATPAGOHARAHUTARA,",
+   "conf": 0.9484730533191136
+  },
+  {
+   "text": "SIMPANGAMPATPAGOH,LEBUHRAYAUTARASELATAN,",
+   "conf": 0.9530190758407115
+  },
+  {
+   "text": "84600,PAGOH,JOHOR",
+   "conf": 0.882575115736793
+  },
+  {
+   "text": "myNEWScarelne:1800881231",
+   "conf": 0.96811776359876
+  },
+  {
+   "text": "myNEWScareline@mynews.com.my",
+   "conf": 0.9714079286370959
+  },
+  {
+   "text": "MYNEWSRETAIL SB{306295-X)FKABISONSTORESSB",
+   "conf": 0.9101957344427342
+  },
+  {
+   "text": "TAXREGIDCBP000709361664",
+   "conf": 0.9899159281150155
+  },
+  {
+   "text": "QTY",
+   "conf": 0.9883914391199747
+  },
+  {
+   "text": "PRICE",
+   "conf": 0.9623649001121521
+  },
+  {
+   "text": "DISC",
+   "conf": 0.946528747677803
+  },
+  {
+   "text": "AMT",
+   "conf": 0.9873136679331461
+  },
+  {
+   "text": "JALANJALAN",
+   "conf": 0.9904178321361542
+  },
+  {
+   "text": "(Majaiah)",
+   "conf": 0.876386907365587
+  },
+  {
+   "text": "02",
+   "conf": 0.9673035144805908
+  },
+  {
+   "text": "10.00",
+   "conf": 0.9987788319587707
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9977093935012817
+  },
+  {
+   "text": "10.00",
+   "conf": 0.998039960861206
+  },
+  {
+   "text": "ZRL",
+   "conf": 0.9684321284294128
+  },
+  {
+   "text": "SUB TOTAL",
+   "conf": 0.9108028809229533
+  },
+  {
+   "text": "10.00",
+   "conf": 0.9976037621498108
+  },
+  {
+   "text": "GRANDTOTAL",
+   "conf": 0.9928539633750916
+  },
+  {
+   "text": "1000",
+   "conf": 0.9954863637685776
+  },
+  {
+   "text": "CASH20.00MYR",
+   "conf": 0.8798636471231779
+  },
+  {
+   "text": "20.00",
+   "conf": 0.9975679516792297
+  },
+  {
+   "text": "CHANGEDUE",
+   "conf": 0.9953329099549187
+  },
+  {
+   "text": "10.00",
+   "conf": 0.9967898368835449
+  },
+  {
+   "text": "TOTAL QTY",
+   "conf": 0.9447984960344102
+  },
+  {
+   "text": "ZRL:0%G0ODS:10.00",
+   "conf": 0.9264298291767344
+  },
+  {
+   "text": "TAX:0.00",
+   "conf": 0.9738191142678261
+  },
+  {
+   "text": "23/03/20189:34:40AM",
+   "conf": 0.9796064809749001
+  },
+  {
+   "text": "BILL18550-389-4768-2303180113",
+   "conf": 0.9883237419457271
+  },
+  {
+   "text": "PRICE IS GSTINCLUSIVE",
+   "conf": 0.9685671017283485
+  }
+ ],
+ "mean_conf": 0.9641,
+ "low_conf_share": 0.0,
+ "latency_ms": 4122,
+ "fields": {
+  "company": "TQFORSHOPPINGWITHMYNEWS COM",
+  "date": "2018-03-23",
+  "total": 20.0
+ },
+ "rule_reasons": [
+  "total_no_keyword_fallback_max"
+ ],
+ "total_candidates": [
+  10.0,
+  0.0,
+  10.0,
+  10.0,
+  20.0,
+  20.0,
+  10.0,
+  10.0,
+  0.0
+ ],
+ "key": "X51005442378"
+}

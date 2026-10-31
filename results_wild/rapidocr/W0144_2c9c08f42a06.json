@@ -1,0 +1,208 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "CUPLICATE",
+  "BADEMIYA",
+  "Restaurant",
+  "19-A,Ram Manson",
+  "Navroj1 F.Road",
+  "CoTaba.Mumba1 400001",
+  "TAX INVOICE",
+  "Date:27/01/17 B117No",
+  "T.No.:5 .NO.2",
+  "Particulars QtyRate Anount",
+  "MINERAL HATER MTN SEEKH KABAB MURG MUSALLAM RUMALIROTI 630 1 1 260 230 30 260 180 230 30",
+  "SHAHI TUKDA 1 110 110",
+  "Sub Total: 810.00",
+  "VATG日% 64.80",
+  "5/10/2 Grand Total 875",
+  "vat no:27960020760 Thank You VisitAgaln",
+  "E.80.E."
+ ],
+ "tokens": [
+  {
+   "text": "CUPLICATE",
+   "conf": 0.9463604754871793
+  },
+  {
+   "text": "BADEMIYA",
+   "conf": 0.9934249520301819
+  },
+  {
+   "text": "Restaurant",
+   "conf": 0.9665983200073243
+  },
+  {
+   "text": "19-A,Ram Manson",
+   "conf": 0.8823803842067719
+  },
+  {
+   "text": "Navroj1 F.Road",
+   "conf": 0.8056719516004834
+  },
+  {
+   "text": "CoTaba.Mumba1 400001",
+   "conf": 0.8566258043050766
+  },
+  {
+   "text": "TAX INVOICE",
+   "conf": 0.9090609929778359
+  },
+  {
+   "text": "Date:27/01/17",
+   "conf": 0.9723483965947077
+  },
+  {
+   "text": "B117No",
+   "conf": 0.710914800564448
+  },
+  {
+   "text": "T.No.:5",
+   "conf": 0.8774882469858442
+  },
+  {
+   "text": ".NO.2",
+   "conf": 0.8401561498641967
+  },
+  {
+   "text": "Particulars",
+   "conf": 0.9646147597919811
+  },
+  {
+   "text": "QtyRate Anount",
+   "conf": 0.8738086649349758
+  },
+  {
+   "text": "MINERAL HATER",
+   "conf": 0.9267512468191293
+  },
+  {
+   "text": "30",
+   "conf": 0.9876313507556915
+  },
+  {
+   "text": "30",
+   "conf": 0.9737750291824341
+  },
+  {
+   "text": "MTN SEEKH KABAB",
+   "conf": 0.9518053531646729
+  },
+  {
+   "text": "1",
+   "conf": 0.5628562569618225
+  },
+  {
+   "text": "230",
+   "conf": 0.9861401716868082
+  },
+  {
+   "text": "230",
+   "conf": 0.9003682931264242
+  },
+  {
+   "text": "MURG MUSALLAM",
+   "conf": 0.9400598269242507
+  },
+  {
+   "text": "1",
+   "conf": 0.9405147433280945
+  },
+  {
+   "text": "260",
+   "conf": 0.9613640109697977
+  },
+  {
+   "text": "260",
+   "conf": 0.8390758633613586
+  },
+  {
+   "text": "RUMALIROTI",
+   "conf": 0.9745728135108948
+  },
+  {
+   "text": "630",
+   "conf": 0.9391578435897827
+  },
+  {
+   "text": "180",
+   "conf": 0.936786949634552
+  },
+  {
+   "text": "SHAHI TUKDA",
+   "conf": 0.9358323785391721
+  },
+  {
+   "text": "1",
+   "conf": 0.6529725193977356
+  },
+  {
+   "text": "110",
+   "conf": 0.9713390668233236
+  },
+  {
+   "text": "110",
+   "conf": 0.9399337371190389
+  },
+  {
+   "text": "Sub Total:",
+   "conf": 0.811302375793457
+  },
+  {
+   "text": "810.00",
+   "conf": 0.9575716356436411
+  },
+  {
+   "text": "VATG日%",
+   "conf": 0.7678371568520864
+  },
+  {
+   "text": "64.80",
+   "conf": 0.8835806846618652
+  },
+  {
+   "text": "Grand Total",
+   "conf": 0.9348019036379728
+  },
+  {
+   "text": "875",
+   "conf": 0.9976658622423807
+  },
+  {
+   "text": "5/10/2",
+   "conf": 0.9932459394137064
+  },
+  {
+   "text": "vat no:27960020760",
+   "conf": 0.9577054480711619
+  },
+  {
+   "text": "Thank You",
+   "conf": 0.9521124362945557
+  },
+  {
+   "text": "VisitAgaln",
+   "conf": 0.8539119750261307
+  },
+  {
+   "text": "E.80.E.",
+   "conf": 0.8702516981533596
+  }
+ ],
+ "mean_conf": 0.9024,
+ "low_conf_share": 0.0,
+ "latency_ms": 2390,
+ "fields": {
+  "company": "BADEMIYA RESTAURANT",
+  "date": "2017-01-27",
+  "total": 810.0
+ },
+ "rule_reasons": [
+  "total_no_keyword_fallback_max"
+ ],
+ "total_candidates": [
+  810.0,
+  64.8
+ ],
+ "key": "W0144_2c9c08f42a06"
+}

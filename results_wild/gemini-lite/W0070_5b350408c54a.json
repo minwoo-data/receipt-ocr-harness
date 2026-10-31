@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.1-flash-lite",
+ "provider": "gemini",
+ "raw_text": "{\n  \"vendor\": \"Ramen Keisuke Tori King\",\n  \"date\": \"2013-05-21\",\n  \"subtotal\": 42.69,\n  \"tax\": 3.29,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 50.25,\n  \"currency\": \"SGD\",\n  \"confidence\": 0.98,\n  \"notes\": \"SC (Service Charge) of 4.27 is included in the total calculation.\"\n}",
+ "data": {
+  "vendor": "Ramen Keisuke Tori King",
+  "date": "2013-05-21",
+  "subtotal": 42.69,
+  "tax": 3.29,
+  "tip": null,
+  "discount": null,
+  "total": 50.25,
+  "currency": "SGD",
+  "confidence": 0.98,
+  "notes": "SC (Service Charge) of 4.27 is included in the total calculation."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1461,
+  "output_tokens": 127,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.000556,
+ "latency_ms": 1572,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.1-flash-lite",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.1-flash-lite"
+ ],
+ "key": "W0070_5b350408c54a"
+}

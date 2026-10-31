@@ -1,0 +1,369 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "RESTORAN WAN SHENG",
+  "002043319-W",
+  ". No.2, Jalan Temenggung 19/9,",
+  "Seksyen 9, Bandar Mahkota Cheras,",
+  "43200 Cheras Selangor",
+  "~ GST REG NO; = 335787520",
+  "Tax Invoice",
+  "TNY No.: 1128507 Cashier: Thandar",
+  "Date + 06-05-2018 12:43:19",
+  "flescription Qty U.price Tota) TAX",
+  "Kopi (B)",
+  "1x 2.20 2.20 SR",
+  "lake Away",
+  "1% 0.20 0.20 SR",
+  "Total QTY: 2",
+  "Total (Excluding GST): 2.27",
+  "GST payable (6%): 0.13",
+  "Total (Trelusive of C%\\,; 2.40",
+  "pae 2.40",
+  "2.40",
+  "G8) Sumuary Amount(RM) Tax(RM)",
+  "OR (@ 6%) oat 0.13",
+  "|",
+  "ee!"
+ ],
+ "tokens": [
+  {
+   "text": "RESTORAN",
+   "conf": 0.95
+  },
+  {
+   "text": "WAN",
+   "conf": 0.96
+  },
+  {
+   "text": "SHENG",
+   "conf": 0.96
+  },
+  {
+   "text": "002043319-W",
+   "conf": 0.52
+  },
+  {
+   "text": ".",
+   "conf": 0.27
+  },
+  {
+   "text": "No.2,",
+   "conf": 0.96
+  },
+  {
+   "text": "Jalan",
+   "conf": 0.93
+  },
+  {
+   "text": "Temenggung",
+   "conf": 0.82
+  },
+  {
+   "text": "19/9,",
+   "conf": 0.96
+  },
+  {
+   "text": "Seksyen",
+   "conf": 0.93
+  },
+  {
+   "text": "9,",
+   "conf": 0.95
+  },
+  {
+   "text": "Bandar",
+   "conf": 0.92
+  },
+  {
+   "text": "Mahkota",
+   "conf": 0.91
+  },
+  {
+   "text": "Cheras,",
+   "conf": 0.9
+  },
+  {
+   "text": "43200",
+   "conf": 0.93
+  },
+  {
+   "text": "Cheras",
+   "conf": 0.92
+  },
+  {
+   "text": "Selangor",
+   "conf": 0.95
+  },
+  {
+   "text": "~",
+   "conf": 0.67
+  },
+  {
+   "text": "GST",
+   "conf": 0.89
+  },
+  {
+   "text": "REG",
+   "conf": 0.87
+  },
+  {
+   "text": "NO;",
+   "conf": 0.85
+  },
+  {
+   "text": "=",
+   "conf": 0.16
+  },
+  {
+   "text": "335787520",
+   "conf": 0.49
+  },
+  {
+   "text": "Tax",
+   "conf": 0.96
+  },
+  {
+   "text": "Invoice",
+   "conf": 0.95
+  },
+  {
+   "text": "TNY",
+   "conf": 0.82
+  },
+  {
+   "text": "No.:",
+   "conf": 0.82
+  },
+  {
+   "text": "1128507",
+   "conf": 0.86
+  },
+  {
+   "text": "Cashier:",
+   "conf": 0.86
+  },
+  {
+   "text": "Thandar",
+   "conf": 0.93
+  },
+  {
+   "text": "Date",
+   "conf": 0.83
+  },
+  {
+   "text": "+",
+   "conf": 0.11
+  },
+  {
+   "text": "06-05-2018",
+   "conf": 0.53
+  },
+  {
+   "text": "12:43:19",
+   "conf": 0.94
+  },
+  {
+   "text": "flescription",
+   "conf": 0.7
+  },
+  {
+   "text": "Qty",
+   "conf": 0.47
+  },
+  {
+   "text": "U.price",
+   "conf": 0.47
+  },
+  {
+   "text": "Tota)",
+   "conf": 0.63
+  },
+  {
+   "text": "TAX",
+   "conf": 0.95
+  },
+  {
+   "text": "Kopi",
+   "conf": 0.9
+  },
+  {
+   "text": "(B)",
+   "conf": 0.9
+  },
+  {
+   "text": "1x",
+   "conf": 0.84
+  },
+  {
+   "text": "2.20",
+   "conf": 0.79
+  },
+  {
+   "text": "2.20",
+   "conf": 0.85
+  },
+  {
+   "text": "SR",
+   "conf": 0.85
+  },
+  {
+   "text": "lake",
+   "conf": 0.71
+  },
+  {
+   "text": "Away",
+   "conf": 0.96
+  },
+  {
+   "text": "1%",
+   "conf": 0.88
+  },
+  {
+   "text": "0.20",
+   "conf": 0.94
+  },
+  {
+   "text": "0.20",
+   "conf": 0.8
+  },
+  {
+   "text": "SR",
+   "conf": 0.8
+  },
+  {
+   "text": "Total",
+   "conf": 0.92
+  },
+  {
+   "text": "QTY:",
+   "conf": 0.51
+  },
+  {
+   "text": "2",
+   "conf": 0.96
+  },
+  {
+   "text": "Total",
+   "conf": 0.91
+  },
+  {
+   "text": "(Excluding",
+   "conf": 0.96
+  },
+  {
+   "text": "GST):",
+   "conf": 0.96
+  },
+  {
+   "text": "2.27",
+   "conf": 0.95
+  },
+  {
+   "text": "GST",
+   "conf": 0.94
+  },
+  {
+   "text": "payable",
+   "conf": 0.94
+  },
+  {
+   "text": "(6%):",
+   "conf": 0.95
+  },
+  {
+   "text": "0.13",
+   "conf": 0.95
+  },
+  {
+   "text": "Total",
+   "conf": 0.9
+  },
+  {
+   "text": "(Trelusive",
+   "conf": 0.61
+  },
+  {
+   "text": "of",
+   "conf": 0.92
+  },
+  {
+   "text": "C%\\,;",
+   "conf": 0.0
+  },
+  {
+   "text": "2.40",
+   "conf": 0.96
+  },
+  {
+   "text": "pae",
+   "conf": 0.0
+  },
+  {
+   "text": "2.40",
+   "conf": 0.95
+  },
+  {
+   "text": "2.40",
+   "conf": 0.9
+  },
+  {
+   "text": "G8)",
+   "conf": 0.33
+  },
+  {
+   "text": "Sumuary",
+   "conf": 0.02
+  },
+  {
+   "text": "Amount(RM)",
+   "conf": 0.56
+  },
+  {
+   "text": "Tax(RM)",
+   "conf": 0.45
+  },
+  {
+   "text": "OR",
+   "conf": 0.14
+  },
+  {
+   "text": "(@",
+   "conf": 0.91
+  },
+  {
+   "text": "6%)",
+   "conf": 0.96
+  },
+  {
+   "text": "oat",
+   "conf": 0.12
+  },
+  {
+   "text": "0.13",
+   "conf": 0.95
+  },
+  {
+   "text": "|",
+   "conf": 0.45
+  },
+  {
+   "text": "ee!",
+   "conf": 0.27
+  }
+ ],
+ "mean_conf": 0.754,
+ "low_conf_share": 0.1852,
+ "latency_ms": 786,
+ "fields": {
+  "company": "RESTORAN WAN SHENG",
+  "date": "2018-05-06",
+  "total": 2.4
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  2.4,
+  2.4
+ ],
+ "key": "X51008042791"
+}

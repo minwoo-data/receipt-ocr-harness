@@ -1,0 +1,229 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "| |",
+  "DATKo",
+  "203-392-",
+  "400 DERBY AVE WEST AAI.",
+  "04/15/17 19:98 -NIC-1 No 42",
+  "TABLE: At 4 yy",
+  "Edamame 4.00",
+  "Wasabi Shumai 5.00",
+  "Sp TunatAvo S3lad 9.50",
+  "Fresh settiowe ec 1.80",
+  "R Double Daiker 14.95",
+  "R Spider 14.50",
+  "SubTOTAL; 55.43",
+  "Tax: 3.52",
+  "B 58.95",
+  "U",
+  "N!"
+ ],
+ "tokens": [
+  {
+   "text": "|",
+   "conf": 0.38
+  },
+  {
+   "text": "|",
+   "conf": 0.65
+  },
+  {
+   "text": "DATKo",
+   "conf": 0.29
+  },
+  {
+   "text": "203-392-",
+   "conf": 0.24
+  },
+  {
+   "text": "400",
+   "conf": 0.92
+  },
+  {
+   "text": "DERBY",
+   "conf": 0.86
+  },
+  {
+   "text": "AVE",
+   "conf": 0.9
+  },
+  {
+   "text": "WEST",
+   "conf": 0.34
+  },
+  {
+   "text": "AAI.",
+   "conf": 0.0
+  },
+  {
+   "text": "04/15/17",
+   "conf": 0.81
+  },
+  {
+   "text": "19:98",
+   "conf": 0.73
+  },
+  {
+   "text": "-NIC-1",
+   "conf": 0.0
+  },
+  {
+   "text": "No",
+   "conf": 0.81
+  },
+  {
+   "text": "42",
+   "conf": 0.88
+  },
+  {
+   "text": "TABLE:",
+   "conf": 0.96
+  },
+  {
+   "text": "At",
+   "conf": 0.18
+  },
+  {
+   "text": "4",
+   "conf": 0.65
+  },
+  {
+   "text": "yy",
+   "conf": 0.41
+  },
+  {
+   "text": "Edamame",
+   "conf": 0.9
+  },
+  {
+   "text": "4.00",
+   "conf": 0.79
+  },
+  {
+   "text": "Wasabi",
+   "conf": 0.87
+  },
+  {
+   "text": "Shumai",
+   "conf": 0.57
+  },
+  {
+   "text": "5.00",
+   "conf": 0.84
+  },
+  {
+   "text": "Sp",
+   "conf": 0.87
+  },
+  {
+   "text": "TunatAvo",
+   "conf": 0.69
+  },
+  {
+   "text": "S3lad",
+   "conf": 0.82
+  },
+  {
+   "text": "9.50",
+   "conf": 0.93
+  },
+  {
+   "text": "Fresh",
+   "conf": 0.48
+  },
+  {
+   "text": "settiowe",
+   "conf": 0.0
+  },
+  {
+   "text": "ec",
+   "conf": 0.2
+  },
+  {
+   "text": "1.80",
+   "conf": 0.0
+  },
+  {
+   "text": "R",
+   "conf": 0.84
+  },
+  {
+   "text": "Double",
+   "conf": 0.93
+  },
+  {
+   "text": "Daiker",
+   "conf": 0.93
+  },
+  {
+   "text": "14.95",
+   "conf": 0.89
+  },
+  {
+   "text": "R",
+   "conf": 0.92
+  },
+  {
+   "text": "Spider",
+   "conf": 0.96
+  },
+  {
+   "text": "14.50",
+   "conf": 0.89
+  },
+  {
+   "text": "SubTOTAL;",
+   "conf": 0.5
+  },
+  {
+   "text": "55.43",
+   "conf": 0.73
+  },
+  {
+   "text": "Tax:",
+   "conf": 0.8
+  },
+  {
+   "text": "3.52",
+   "conf": 0.32
+  },
+  {
+   "text": "B",
+   "conf": 0.0
+  },
+  {
+   "text": "58.95",
+   "conf": 0.26
+  },
+  {
+   "text": "U",
+   "conf": 0.19
+  },
+  {
+   "text": "N!",
+   "conf": 0.91
+  }
+ ],
+ "mean_conf": 0.6096,
+ "low_conf_share": 0.3478,
+ "latency_ms": 1171,
+ "fields": {
+  "company": "DATKO",
+  "date": "2017-04-15",
+  "total": 58.95
+ },
+ "rule_reasons": [
+  "total_no_keyword_fallback_max"
+ ],
+ "total_candidates": [
+  9.5,
+  1.8,
+  14.95,
+  14.5,
+  55.43,
+  3.52,
+  58.95
+ ],
+ "key": "W0109_296f42bfafc1"
+}

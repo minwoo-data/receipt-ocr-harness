@@ -1,0 +1,114 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "Centurs 21 Car wes,",
+  "Description Qty Prjce Arount",
+  "PLATINUM 1 17.00",
+  "KAVA WRK 1 $99,",
+  "Cosh( sos) 40.00",
+  "Chanse * 8.02"
+ ],
+ "tokens": [
+  {
+   "text": "Centurs",
+   "conf": 0.87
+  },
+  {
+   "text": "21",
+   "conf": 0.95
+  },
+  {
+   "text": "Car",
+   "conf": 0.89
+  },
+  {
+   "text": "wes,",
+   "conf": 0.2
+  },
+  {
+   "text": "Description",
+   "conf": 0.88
+  },
+  {
+   "text": "Qty",
+   "conf": 0.46
+  },
+  {
+   "text": "Prjce",
+   "conf": 0.43
+  },
+  {
+   "text": "Arount",
+   "conf": 0.33
+  },
+  {
+   "text": "PLATINUM",
+   "conf": 0.95
+  },
+  {
+   "text": "1",
+   "conf": 0.92
+  },
+  {
+   "text": "17.00",
+   "conf": 0.79
+  },
+  {
+   "text": "KAVA",
+   "conf": 0.37
+  },
+  {
+   "text": "WRK",
+   "conf": 0.44
+  },
+  {
+   "text": "1",
+   "conf": 0.94
+  },
+  {
+   "text": "$99,",
+   "conf": 0.13
+  },
+  {
+   "text": "Cosh(",
+   "conf": 0.14
+  },
+  {
+   "text": "sos)",
+   "conf": 0.42
+  },
+  {
+   "text": "40.00",
+   "conf": 0.87
+  },
+  {
+   "text": "Chanse",
+   "conf": 0.84
+  },
+  {
+   "text": "*",
+   "conf": 0.56
+  },
+  {
+   "text": "8.02",
+   "conf": 0.72
+  }
+ ],
+ "mean_conf": 0.6238,
+ "low_conf_share": 0.4286,
+ "latency_ms": 604,
+ "fields": {
+  "company": "CENTURS 21 CAR WES",
+  "date": null,
+  "total": 40.0
+ },
+ "rule_reasons": [
+  "date_not_found",
+  "total_no_keyword_fallback_max"
+ ],
+ "total_candidates": [
+  40.0,
+  8.02
+ ],
+ "key": "W0053_0216b564023b"
+}

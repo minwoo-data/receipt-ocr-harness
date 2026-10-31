@@ -1,0 +1,370 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "E The Fifty Six Bap g Lounge ib",
+  "The Loft Restaurant i:",
+  "56 Wain Street",
+  "Ark low",
+  "0402 41449",
+  "Date: Nov 11, 2014 23:00:64",
+  "TableTransId: 5029996",
+  "TransId: 5029998 |",
+  "Table: Bar-5029996",
+  "Server: Lisa Warie",
+  "Current Term: touchd \\\\",
+  "6.50 \\}",
+  "1 Crostini 7,50 |",
+  "1 Tiger Prawn 42.96",
+  "1 Corn Fed Chicken 43,96 \\",
+  "{1 Undyed Smoked Haddock 8,40",
+  "2 Pint Lager a0",
+  "1 Split 15,99 \\",
+  "1 Cono Sur Sav Blanc",
+  "66.49",
+  "Subtotal 66.49",
+  "Total -66,49",
+  "Cash 0.00",
+  "Balance"
+ ],
+ "tokens": [
+  {
+   "text": "E",
+   "conf": 0.0
+  },
+  {
+   "text": "The",
+   "conf": 0.96
+  },
+  {
+   "text": "Fifty",
+   "conf": 0.95
+  },
+  {
+   "text": "Six",
+   "conf": 0.96
+  },
+  {
+   "text": "Bap",
+   "conf": 0.9
+  },
+  {
+   "text": "g",
+   "conf": 0.34
+  },
+  {
+   "text": "Lounge",
+   "conf": 0.63
+  },
+  {
+   "text": "ib",
+   "conf": 0.3
+  },
+  {
+   "text": "The",
+   "conf": 0.96
+  },
+  {
+   "text": "Loft",
+   "conf": 0.96
+  },
+  {
+   "text": "Restaurant",
+   "conf": 0.96
+  },
+  {
+   "text": "i:",
+   "conf": 0.22
+  },
+  {
+   "text": "56",
+   "conf": 0.94
+  },
+  {
+   "text": "Wain",
+   "conf": 0.77
+  },
+  {
+   "text": "Street",
+   "conf": 0.73
+  },
+  {
+   "text": "Ark",
+   "conf": 0.05
+  },
+  {
+   "text": "low",
+   "conf": 0.05
+  },
+  {
+   "text": "0402",
+   "conf": 0.87
+  },
+  {
+   "text": "41449",
+   "conf": 0.61
+  },
+  {
+   "text": "Date:",
+   "conf": 0.91
+  },
+  {
+   "text": "Nov",
+   "conf": 0.82
+  },
+  {
+   "text": "11,",
+   "conf": 0.9
+  },
+  {
+   "text": "2014",
+   "conf": 0.78
+  },
+  {
+   "text": "23:00:64",
+   "conf": 0.87
+  },
+  {
+   "text": "TableTransId:",
+   "conf": 0.33
+  },
+  {
+   "text": "5029996",
+   "conf": 0.94
+  },
+  {
+   "text": "TransId:",
+   "conf": 0.74
+  },
+  {
+   "text": "5029998",
+   "conf": 0.64
+  },
+  {
+   "text": "|",
+   "conf": 0.7
+  },
+  {
+   "text": "Table:",
+   "conf": 0.8
+  },
+  {
+   "text": "Bar-5029996",
+   "conf": 0.74
+  },
+  {
+   "text": "Server:",
+   "conf": 0.93
+  },
+  {
+   "text": "Lisa",
+   "conf": 0.93
+  },
+  {
+   "text": "Warie",
+   "conf": 0.82
+  },
+  {
+   "text": "Current",
+   "conf": 0.96
+  },
+  {
+   "text": "Term:",
+   "conf": 0.85
+  },
+  {
+   "text": "touchd",
+   "conf": 0.21
+  },
+  {
+   "text": "\\\\",
+   "conf": 0.47
+  },
+  {
+   "text": "6.50",
+   "conf": 0.57
+  },
+  {
+   "text": "\\}",
+   "conf": 0.46
+  },
+  {
+   "text": "1",
+   "conf": 0.93
+  },
+  {
+   "text": "Crostini",
+   "conf": 0.93
+  },
+  {
+   "text": "7,50",
+   "conf": 0.9
+  },
+  {
+   "text": "|",
+   "conf": 0.75
+  },
+  {
+   "text": "1",
+   "conf": 0.83
+  },
+  {
+   "text": "Tiger",
+   "conf": 0.83
+  },
+  {
+   "text": "Prawn",
+   "conf": 0.96
+  },
+  {
+   "text": "42.96",
+   "conf": 0.61
+  },
+  {
+   "text": "1",
+   "conf": 0.76
+  },
+  {
+   "text": "Corn",
+   "conf": 0.8
+  },
+  {
+   "text": "Fed",
+   "conf": 0.96
+  },
+  {
+   "text": "Chicken",
+   "conf": 0.96
+  },
+  {
+   "text": "43,96",
+   "conf": 0.52
+  },
+  {
+   "text": "\\",
+   "conf": 0.81
+  },
+  {
+   "text": "{1",
+   "conf": 0.61
+  },
+  {
+   "text": "Undyed",
+   "conf": 0.81
+  },
+  {
+   "text": "Smoked",
+   "conf": 0.94
+  },
+  {
+   "text": "Haddock",
+   "conf": 0.95
+  },
+  {
+   "text": "8,40",
+   "conf": 0.85
+  },
+  {
+   "text": "2",
+   "conf": 0.94
+  },
+  {
+   "text": "Pint",
+   "conf": 0.94
+  },
+  {
+   "text": "Lager",
+   "conf": 0.96
+  },
+  {
+   "text": "a0",
+   "conf": 0.22
+  },
+  {
+   "text": "1",
+   "conf": 0.25
+  },
+  {
+   "text": "Split",
+   "conf": 0.87
+  },
+  {
+   "text": "15,99",
+   "conf": 0.85
+  },
+  {
+   "text": "\\",
+   "conf": 0.34
+  },
+  {
+   "text": "1",
+   "conf": 0.81
+  },
+  {
+   "text": "Cono",
+   "conf": 0.86
+  },
+  {
+   "text": "Sur",
+   "conf": 0.96
+  },
+  {
+   "text": "Sav",
+   "conf": 0.93
+  },
+  {
+   "text": "Blanc",
+   "conf": 0.94
+  },
+  {
+   "text": "66.49",
+   "conf": 0.8
+  },
+  {
+   "text": "Subtotal",
+   "conf": 0.96
+  },
+  {
+   "text": "66.49",
+   "conf": 0.37
+  },
+  {
+   "text": "Total",
+   "conf": 0.96
+  },
+  {
+   "text": "-66,49",
+   "conf": 0.49
+  },
+  {
+   "text": "Cash",
+   "conf": 0.96
+  },
+  {
+   "text": "0.00",
+   "conf": 0.82
+  },
+  {
+   "text": "Balance",
+   "conf": 0.96
+  }
+ ],
+ "mean_conf": 0.7429,
+ "low_conf_share": 0.1875,
+ "latency_ms": 460,
+ "fields": {
+  "company": "THE LOFT RESTAURANT I",
+  "date": null,
+  "total": 66.49
+ },
+ "rule_reasons": [
+  "date_not_found",
+  "total_no_keyword_fallback_max"
+ ],
+ "total_candidates": [
+  42.96,
+  66.49,
+  66.49,
+  0.0
+ ],
+ "key": "W0142_756d2b05655f"
+}

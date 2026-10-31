@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.1-flash-lite",
+ "provider": "gemini",
+ "raw_text": "{\n  \"vendor\": \"Thai Village\",\n  \"date\": \"2016-08-17\",\n  \"subtotal\": 38.96,\n  \"tax\": 3.32,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 42.28,\n  \"currency\": \"USD\",\n  \"confidence\": 1.0,\n  \"notes\": null\n}",
+ "data": {
+  "vendor": "Thai Village",
+  "date": "2016-08-17",
+  "subtotal": 38.96,
+  "tax": 3.32,
+  "tip": null,
+  "discount": null,
+  "total": 42.28,
+  "currency": "USD",
+  "confidence": 1.0,
+  "notes": null
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1458,
+  "output_tokens": 103,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.000519,
+ "latency_ms": 1621,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.1-flash-lite",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.1-flash-lite"
+ ],
+ "key": "W0060_1f0bb6cc516b"
+}

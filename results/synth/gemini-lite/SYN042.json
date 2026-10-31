@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.1-flash-lite",
+ "provider": "gemini",
+ "raw_text": "{\n  \"vendor\": \"BLUE HARBOUR CAFE\",\n  \"date\": null,\n  \"subtotal\": null,\n  \"tax\": null,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": null,\n  \"currency\": null,\n  \"confidence\": 0.85,\n  \"notes\": \"The receipt is incomplete as it lacks a date, subtotal, and total amount.\"\n}",
+ "data": {
+  "vendor": "BLUE HARBOUR CAFE",
+  "date": null,
+  "subtotal": null,
+  "tax": null,
+  "tip": null,
+  "discount": null,
+  "total": null,
+  "currency": null,
+  "confidence": 0.85,
+  "notes": "The receipt is incomplete as it lacks a date, subtotal, and total amount."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1444,
+  "output_tokens": 99,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.000509,
+ "latency_ms": 1666,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.1-flash-lite",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.1-flash-lite"
+ ],
+ "key": "SYN042"
+}

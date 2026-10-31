@@ -1,0 +1,231 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "3180303",
+  "LANHINGSTATIONERYSDNBHD",
+  "(162761-M)",
+  "NO.32&33.JALANSR1/9.SEKSYEN9",
+  "TAMANSERDANGRAYA",
+  "43300SERIKEMBANGAN.SELANGOR",
+  "DARULEHSAN",
+  "GST1D:002139201536",
+  "TaxInvoice",
+  "27/03/2018 No.:CS-20242",
+  "QtyTax RM",
+  "DursfileH399(110×95mm） 100SR 58.30",
+  "Name Badge (H)@o0.5500",
+  "809Metal NameBadge Clip 1 SR 21.20",
+  "-100s@20.0000",
+  "TotalAmtIncl.GST@6%: 79.50",
+  "RoundingAdjustment:",
+  "TotalAmtPayabie: 79.50",
+  "PaidAmount 100.00",
+  "Change: 20.50",
+  "Total QtyTender: 101",
+  "GSTSummary Amount Tax",
+  "(RM) (RM)",
+  "SR(@A 75.00 4.50",
+  "Total 75.00 4.50",
+  "THANKYOU",
+  "Faranvenauirv nleaserantactus"
+ ],
+ "tokens": [
+  {
+   "text": "3180303",
+   "conf": 0.9989221692085266
+  },
+  {
+   "text": "LANHINGSTATIONERYSDNBHD",
+   "conf": 0.9860448344894077
+  },
+  {
+   "text": "(162761-M)",
+   "conf": 0.9491594433784485
+  },
+  {
+   "text": "NO.32&33.JALANSR1/9.SEKSYEN9",
+   "conf": 0.9564457493168967
+  },
+  {
+   "text": "TAMANSERDANGRAYA",
+   "conf": 0.9881411455571651
+  },
+  {
+   "text": "43300SERIKEMBANGAN.SELANGOR",
+   "conf": 0.9819262756241692
+  },
+  {
+   "text": "DARULEHSAN",
+   "conf": 0.9914263963699341
+  },
+  {
+   "text": "GST1D:002139201536",
+   "conf": 0.9539502759774526
+  },
+  {
+   "text": "TaxInvoice",
+   "conf": 0.9627888023853302
+  },
+  {
+   "text": "27/03/2018",
+   "conf": 0.9502894699573516
+  },
+  {
+   "text": "No.:CS-20242",
+   "conf": 0.9218682696421941
+  },
+  {
+   "text": "QtyTax",
+   "conf": 0.8536149164040884
+  },
+  {
+   "text": "RM",
+   "conf": 0.9939664304256439
+  },
+  {
+   "text": "DursfileH399(110×95mm）",
+   "conf": 0.9313601363788951
+  },
+  {
+   "text": "100SR",
+   "conf": 0.9975373029708863
+  },
+  {
+   "text": "58.30",
+   "conf": 0.9828651666641235
+  },
+  {
+   "text": "Name Badge (H)@o0.5500",
+   "conf": 0.893828965046189
+  },
+  {
+   "text": "809Metal NameBadge Clip",
+   "conf": 0.9363691729048024
+  },
+  {
+   "text": "1",
+   "conf": 0.9992870688438416
+  },
+  {
+   "text": "SR",
+   "conf": 0.9948505163192749
+  },
+  {
+   "text": "21.20",
+   "conf": 0.9837496280670166
+  },
+  {
+   "text": "-100s@20.0000",
+   "conf": 0.9792624528591449
+  },
+  {
+   "text": "TotalAmtIncl.GST@6%:",
+   "conf": 0.9503322750329971
+  },
+  {
+   "text": "79.50",
+   "conf": 0.9967164635658264
+  },
+  {
+   "text": "RoundingAdjustment:",
+   "conf": 0.9573724175754347
+  },
+  {
+   "text": "TotalAmtPayabie:",
+   "conf": 0.9238828271627426
+  },
+  {
+   "text": "79.50",
+   "conf": 0.99780832529068
+  },
+  {
+   "text": "PaidAmount",
+   "conf": 0.9929294943809509
+  },
+  {
+   "text": "100.00",
+   "conf": 0.9985885918140411
+  },
+  {
+   "text": "Change:",
+   "conf": 0.9856099656649998
+  },
+  {
+   "text": "20.50",
+   "conf": 0.9980719804763794
+  },
+  {
+   "text": "Total QtyTender:",
+   "conf": 0.8759806975722313
+  },
+  {
+   "text": "101",
+   "conf": 0.9977653622627258
+  },
+  {
+   "text": "GSTSummary",
+   "conf": 0.9934029996395111
+  },
+  {
+   "text": "Amount",
+   "conf": 0.9820748964945475
+  },
+  {
+   "text": "Tax",
+   "conf": 0.9815076390902201
+  },
+  {
+   "text": "(RM)",
+   "conf": 0.9280757457017899
+  },
+  {
+   "text": "(RM)",
+   "conf": 0.8941019475460052
+  },
+  {
+   "text": "SR(@A",
+   "conf": 0.8780739068984985
+  },
+  {
+   "text": "75.00",
+   "conf": 0.9682841897010803
+  },
+  {
+   "text": "4.50",
+   "conf": 0.9861285835504532
+  },
+  {
+   "text": "Total",
+   "conf": 0.987572455406189
+  },
+  {
+   "text": "75.00",
+   "conf": 0.9989457249641418
+  },
+  {
+   "text": "4.50",
+   "conf": 0.9946772009134293
+  },
+  {
+   "text": "THANKYOU",
+   "conf": 0.9942580088973045
+  },
+  {
+   "text": "Faranvenauirv nleaserantactus",
+   "conf": 0.8975723611897436
+  }
+ ],
+ "mean_conf": 0.9641,
+ "low_conf_share": 0.0,
+ "latency_ms": 4203,
+ "fields": {
+  "company": "LANHINGSTATIONERYSDNBHD",
+  "date": "2018-03-27",
+  "total": 4.5
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  4.5
+ ],
+ "key": "X51009453729"
+}

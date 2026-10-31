@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.6-flash",
+ "provider": "gemini",
+ "raw_text": "{\"vendor\": \"RELAIS TOTAL OULMES\", \"date\": \"2018-03-30\", \"subtotal\": 56.0, \"tax\": null, \"tip\": null, \"discount\": null, \"total\": 56.0, \"currency\": \"MAD\", \"confidence\": 0.95, \"notes\": null}",
+ "data": {
+  "vendor": "RELAIS TOTAL OULMES",
+  "date": "2018-03-30",
+  "subtotal": 56.0,
+  "tax": null,
+  "tip": null,
+  "discount": null,
+  "total": 56.0,
+  "currency": "MAD",
+  "confidence": 0.95,
+  "notes": null
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1425,
+  "output_tokens": 81,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.001373,
+ "latency_ms": 1996,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.6-flash",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.6-flash"
+ ],
+ "key": "X51006008197"
+}

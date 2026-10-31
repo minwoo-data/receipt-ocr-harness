@@ -1,0 +1,118 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "Trendz Restaurant and Wine Bar",
+  "Best Western Dartmouth",
+  "15SpectacleLake",
+  "Server:Vanessa 09/27/2014",
+  "Table 3/2 10:38PM",
+  "Guests:0 20038",
+  "gozChardonnay 13.00",
+  "Subtotal 13.00",
+  "HST Tax 1.95",
+  "Total 14.95",
+  "Balance Due",
+  "Room#:",
+  "Gratuity",
+  "TOTAL"
+ ],
+ "tokens": [
+  {
+   "text": "Trendz Restaurant and Wine Bar",
+   "conf": 0.9286440074443817
+  },
+  {
+   "text": "Best Western Dartmouth",
+   "conf": 0.954768262126229
+  },
+  {
+   "text": "15SpectacleLake",
+   "conf": 0.9704097986221314
+  },
+  {
+   "text": "Server:Vanessa",
+   "conf": 0.980107022183282
+  },
+  {
+   "text": "09/27/2014",
+   "conf": 0.9862876057624816
+  },
+  {
+   "text": "Table 3/2",
+   "conf": 0.927362064520518
+  },
+  {
+   "text": "10:38PM",
+   "conf": 0.9759530510221209
+  },
+  {
+   "text": "Guests:0",
+   "conf": 0.9362318813800812
+  },
+  {
+   "text": "20038",
+   "conf": 0.9945441126823426
+  },
+  {
+   "text": "gozChardonnay",
+   "conf": 0.9241182070512038
+  },
+  {
+   "text": "13.00",
+   "conf": 0.9808112621307373
+  },
+  {
+   "text": "Subtotal",
+   "conf": 0.987525187432766
+  },
+  {
+   "text": "13.00",
+   "conf": 0.9084938049316407
+  },
+  {
+   "text": "HST Tax",
+   "conf": 0.9090643525123596
+  },
+  {
+   "text": "1.95",
+   "conf": 0.9427473545074463
+  },
+  {
+   "text": "Total",
+   "conf": 0.9896759986877441
+  },
+  {
+   "text": "14.95",
+   "conf": 0.9634439706802368
+  },
+  {
+   "text": "Balance Due",
+   "conf": 0.9615261446345936
+  },
+  {
+   "text": "Room#:",
+   "conf": 0.861041933298111
+  },
+  {
+   "text": "Gratuity",
+   "conf": 0.9833090007305145
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.9953080415725708
+  }
+ ],
+ "mean_conf": 0.9553,
+ "low_conf_share": 0.0,
+ "latency_ms": 3112,
+ "fields": {
+  "company": "TRENDZ RESTAURANT AND WINE BAR",
+  "date": "2014-09-27",
+  "total": 14.95
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  14.95
+ ],
+ "key": "W0094_3d2ab4b7af20"
+}

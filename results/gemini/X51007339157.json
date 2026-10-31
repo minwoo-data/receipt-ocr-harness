@@ -1,0 +1,58 @@
+{
+ "engine": "gemini-3.6-flash",
+ "provider": "gemini",
+ "raw_text": "{\"vendor\":\"SANYU STATIONERY SHOP\",\"date\":\"2017-07-19\",\"subtotal\":4.72,\"tax\":0.28,\"tip\":null,\"discount\":null,\"total\":5.00,\"currency\":\"MYR\",\"confidence\":0.95,\"notes\":null}",
+ "data": {
+  "vendor": "SANYU STATIONERY SHOP",
+  "date": "2017-07-19",
+  "subtotal": 4.72,
+  "tax": 0.28,
+  "tip": null,
+  "discount": null,
+  "total": 5.0,
+  "currency": "MYR",
+  "confidence": 0.95,
+  "notes": null
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1440,
+  "output_tokens": 69,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.001339,
+ "latency_ms": 15255,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.6-flash",
+   "ok": false,
+   "error": "429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
+   "attempt": 1,
+   "config": 0
+  },
+  {
+   "provider": "gemini",
+   "model": "gemini-3.6-flash",
+   "ok": false,
+   "error": "429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
+   "attempt": 2,
+   "config": 0
+  },
+  {
+   "provider": "gemini",
+   "model": "gemini-3.6-flash",
+   "ok": true,
+   "error": null,
+   "attempt": 3,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.6-flash"
+ ],
+ "key": "X51007339157"
+}

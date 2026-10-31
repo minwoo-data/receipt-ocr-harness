@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.6-flash",
+ "provider": "gemini",
+ "raw_text": "{\"vendor\": \"Jollibee\", \"date\": \"2014-02-18\", \"subtotal\": 3.7, \"tax\": null, \"tip\": null, \"discount\": null, \"total\": 3.7, \"currency\": \"BND\", \"confidence\": 0.95, \"notes\": \"Currency inferred as BND based on vendor address in Brunei (Entrek (B) Sdn. Bhd.).\"}",
+ "data": {
+  "vendor": "Jollibee",
+  "date": "2014-02-18",
+  "subtotal": 3.7,
+  "tax": null,
+  "tip": null,
+  "discount": null,
+  "total": 3.7,
+  "currency": "BND",
+  "confidence": 0.95,
+  "notes": "Currency inferred as BND based on vendor address in Brunei (Entrek (B) Sdn. Bhd.)."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1471,
+  "output_tokens": 98,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.001471,
+ "latency_ms": 2610,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.6-flash",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.6-flash"
+ ],
+ "key": "W0154_6cdc7ec61f74"
+}

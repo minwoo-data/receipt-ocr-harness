@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.6-flash",
+ "provider": "gemini",
+ "raw_text": "{\"vendor\": \"TOKYO KITCHEN SDN BHD\", \"date\": \"2017-04-23\", \"subtotal\": 97.6, \"tax\": 6.44, \"tip\": null, \"discount\": null, \"total\": 113.8, \"currency\": \"MYR\", \"confidence\": 0.95, \"notes\": \"Tax includes 6% GST payable; Service Charge 10% (9.76) is included in total calculation.\"}",
+ "data": {
+  "vendor": "TOKYO KITCHEN SDN BHD",
+  "date": "2017-04-23",
+  "subtotal": 97.6,
+  "tax": 6.44,
+  "tip": null,
+  "discount": null,
+  "total": 113.8,
+  "currency": "MYR",
+  "confidence": 0.95,
+  "notes": "Tax includes 6% GST payable; Service Charge 10% (9.76) is included in total calculation."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1467,
+  "output_tokens": 114,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.001528,
+ "latency_ms": 2267,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.6-flash",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.6-flash"
+ ],
+ "key": "X51006387813"
+}

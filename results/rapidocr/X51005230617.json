@@ -1,0 +1,228 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "1950",
+  "GerbangAlafRestaurantsSdnBhd",
+  "(65351-M)",
+  "formerly known as",
+  "Golden Arches Restaurants SdnBhd",
+  "Licensee of McDonald's",
+  "Leve1 6,Bangunan TH,Damansara Uptown3",
+  "No.3,Jalan SS21/39,47400 Peta1ingJaya",
+  "Selangor",
+  "（GSTIDNo:000504664064)",
+  "McDonald'sBHP Taman Melawati（#328）",
+  "Tel No.03-4162-2318",
+  "TAX INVOICE",
+  "MFY Side1",
+  "INV#003281900229170",
+  "ORD#50-REG#19-18/01/2018 10:27:03",
+  "QTYITEM TOTAL",
+  "2ChicMcMuffin 11.00",
+  "1MPorridge 5.60",
+  "1BM2HotCakes 10.00",
+  "1LCoke",
+  "TakeOut Total （incl GST) 26.60",
+  "TotalRounded 26.60",
+  "Cash Tendered 00.00",
+  "Change 73.40",
+  "TOTALINCLUDES 6% GST 1.51",
+  "We'dlovetohearyourfeedbacl",
+  "sitwww.mcdfeedback.com.my",
+  "OR",
+  "DownloadMyMcDFeedbackfrom",
+  "GooglePlay/AppStore",
+  "toshare yourexperience",
+  "ThankYou andPlease ComeAgain.",
+  "Customer Service Hot1ine :03-2726-5600"
+ ],
+ "tokens": [
+  {
+   "text": "1950",
+   "conf": 0.9996472299098969
+  },
+  {
+   "text": "GerbangAlafRestaurantsSdnBhd",
+   "conf": 0.9932387173175812
+  },
+  {
+   "text": "(65351-M)",
+   "conf": 0.9467519521713257
+  },
+  {
+   "text": "formerly known as",
+   "conf": 0.9739020677173839
+  },
+  {
+   "text": "Golden Arches Restaurants SdnBhd",
+   "conf": 0.9384365379810333
+  },
+  {
+   "text": "Licensee of McDonald's",
+   "conf": 0.9273924692110582
+  },
+  {
+   "text": "Leve1 6,Bangunan TH,Damansara Uptown3",
+   "conf": 0.9468476917292621
+  },
+  {
+   "text": "No.3,Jalan SS21/39,47400 Peta1ingJaya",
+   "conf": 0.9345923452763945
+  },
+  {
+   "text": "Selangor",
+   "conf": 0.9924668595194817
+  },
+  {
+   "text": "（GSTIDNo:000504664064)",
+   "conf": 0.9338585206053474
+  },
+  {
+   "text": "McDonald'sBHP Taman Melawati（#328）",
+   "conf": 0.9123107703293071
+  },
+  {
+   "text": "Tel No.03-4162-2318",
+   "conf": 0.9392822886768141
+  },
+  {
+   "text": "TAX INVOICE",
+   "conf": 0.9674014503305609
+  },
+  {
+   "text": "MFY Side1",
+   "conf": 0.9461789462301466
+  },
+  {
+   "text": "INV#003281900229170",
+   "conf": 0.9882873453591999
+  },
+  {
+   "text": "ORD#50-REG#19-18/01/2018 10:27:03",
+   "conf": 0.972866359985236
+  },
+  {
+   "text": "QTYITEM",
+   "conf": 0.9920378412519183
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.9946975588798523
+  },
+  {
+   "text": "2ChicMcMuffin",
+   "conf": 0.9923617014518151
+  },
+  {
+   "text": "11.00",
+   "conf": 0.998712420463562
+  },
+  {
+   "text": "1MPorridge",
+   "conf": 0.9915939152240754
+  },
+  {
+   "text": "5.60",
+   "conf": 0.9945845752954483
+  },
+  {
+   "text": "1BM2HotCakes",
+   "conf": 0.9870039522647858
+  },
+  {
+   "text": "10.00",
+   "conf": 0.9967092633247375
+  },
+  {
+   "text": "1LCoke",
+   "conf": 0.9782199263572693
+  },
+  {
+   "text": "TakeOut Total （incl GST)",
+   "conf": 0.9020329266786575
+  },
+  {
+   "text": "26.60",
+   "conf": 0.9987942457199097
+  },
+  {
+   "text": "TotalRounded",
+   "conf": 0.9876709381739298
+  },
+  {
+   "text": "26.60",
+   "conf": 0.9990376234054565
+  },
+  {
+   "text": "Cash Tendered",
+   "conf": 0.9809981997196491
+  },
+  {
+   "text": "00.00",
+   "conf": 0.9983874082565307
+  },
+  {
+   "text": "Change",
+   "conf": 0.9965721070766449
+  },
+  {
+   "text": "73.40",
+   "conf": 0.9950310945510864
+  },
+  {
+   "text": "TOTALINCLUDES 6% GST",
+   "conf": 0.9516941219568252
+  },
+  {
+   "text": "1.51",
+   "conf": 0.9985261410474777
+  },
+  {
+   "text": "We'dlovetohearyourfeedbacl",
+   "conf": 0.9460124809008378
+  },
+  {
+   "text": "sitwww.mcdfeedback.com.my",
+   "conf": 0.9562455320358276
+  },
+  {
+   "text": "OR",
+   "conf": 0.9937782287597656
+  },
+  {
+   "text": "DownloadMyMcDFeedbackfrom",
+   "conf": 0.9909576416015625
+  },
+  {
+   "text": "GooglePlay/AppStore",
+   "conf": 0.988401965091103
+  },
+  {
+   "text": "toshare yourexperience",
+   "conf": 0.9712600924751975
+  },
+  {
+   "text": "ThankYou andPlease ComeAgain.",
+   "conf": 0.9655884915384753
+  },
+  {
+   "text": "Customer Service Hot1ine :03-2726-5600",
+   "conf": 0.9504977103910948
+  }
+ ],
+ "mean_conf": 0.9723,
+ "low_conf_share": 0.0,
+ "latency_ms": 4723,
+ "fields": {
+  "company": "GOLDEN ARCHES RESTAURANTS SDNBHD",
+  "date": null,
+  "total": 1.51
+ },
+ "rule_reasons": [
+  "date_not_found"
+ ],
+ "total_candidates": [
+  1.51
+ ],
+ "key": "X51005230617"
+}

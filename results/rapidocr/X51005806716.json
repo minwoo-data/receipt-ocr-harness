@@ -1,0 +1,260 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "ADVANCO COMPANY",
+  "Company Reg. No. : 725186-V",
+  "NO 1&3, Jalan Wangsa Delima 12",
+  "Wangsa Link, Wangsa Maju,",
+  "53300KualaLumpur",
+  "03-41318972",
+  "GST Reg:001658445824",
+  "TAX INVOICE",
+  "CB#:389720 17/01/201842153",
+  "M# M2-0",
+  "Cashier: c2000-",
+  "Qty Descripton Fice Totai",
+  "UNICORN-2OCMHALFWHITERULEF SR",
+  "1A15961 080 0.80",
+  "CBE-S217 CBE 7\" SCISSORS(2.0MM SR",
+  "1 A27269 20 6.20",
+  "2 Type. 2 Total 7.00",
+  "Rounding Adj 0.00",
+  "Total inclusive GST: 7.00",
+  "CASH 50.00",
+  "Change 43.00",
+  "GST Summary",
+  "Code % NetAmt GST Totai",
+  "SR 6% 6.60 6.40 7.00",
+  "Total 6.60 7.00",
+  "Thank you & Please come again.",
+  "Goods sold are not returmable for refund or",
+  "exchange!!"
+ ],
+ "tokens": [
+  {
+   "text": "ADVANCO COMPANY",
+   "conf": 0.9691637595494588
+  },
+  {
+   "text": "Company Reg. No. : 725186-V",
+   "conf": 0.9898563292291429
+  },
+  {
+   "text": "NO 1&3, Jalan Wangsa Delima 12",
+   "conf": 0.9800088246663411
+  },
+  {
+   "text": "Wangsa Link, Wangsa Maju,",
+   "conf": 0.9924822282791138
+  },
+  {
+   "text": "53300KualaLumpur",
+   "conf": 0.9903309792280197
+  },
+  {
+   "text": "03-41318972",
+   "conf": 0.9989433451132341
+  },
+  {
+   "text": "GST Reg:001658445824",
+   "conf": 0.9728641510009766
+  },
+  {
+   "text": "TAX INVOICE",
+   "conf": 0.9781090671365912
+  },
+  {
+   "text": "CB#:389720",
+   "conf": 0.970811265707016
+  },
+  {
+   "text": "17/01/201842153",
+   "conf": 0.9703764716784159
+  },
+  {
+   "text": "M#",
+   "conf": 0.9149383306503296
+  },
+  {
+   "text": "M2-0",
+   "conf": 0.9592069685459137
+  },
+  {
+   "text": "Cashier: c2000-",
+   "conf": 0.9547277212142944
+  },
+  {
+   "text": "Qty Descripton",
+   "conf": 0.972012323992593
+  },
+  {
+   "text": "Fice",
+   "conf": 0.9453529715538025
+  },
+  {
+   "text": "Totai",
+   "conf": 0.9713369488716126
+  },
+  {
+   "text": "UNICORN-2OCMHALFWHITERULEF SR",
+   "conf": 0.9139240384101868
+  },
+  {
+   "text": "1A15961",
+   "conf": 0.9972749267305646
+  },
+  {
+   "text": "080",
+   "conf": 0.9926684498786926
+  },
+  {
+   "text": "0.80",
+   "conf": 0.9660202860832214
+  },
+  {
+   "text": "CBE-S217 CBE 7\" SCISSORS(2.0MM SR",
+   "conf": 0.9386833797801625
+  },
+  {
+   "text": "1 A27269",
+   "conf": 0.975530207157135
+  },
+  {
+   "text": "20",
+   "conf": 0.9930095076560974
+  },
+  {
+   "text": "6.20",
+   "conf": 0.9980333000421524
+  },
+  {
+   "text": "2 Type.",
+   "conf": 0.8901470133236477
+  },
+  {
+   "text": "2",
+   "conf": 0.9987866282463074
+  },
+  {
+   "text": "Total",
+   "conf": 0.991358482837677
+  },
+  {
+   "text": "7.00",
+   "conf": 0.9984802305698395
+  },
+  {
+   "text": "Rounding Adj",
+   "conf": 0.9566627740859985
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9971593916416168
+  },
+  {
+   "text": "Total inclusive GST:",
+   "conf": 0.9443711012601852
+  },
+  {
+   "text": "7.00",
+   "conf": 0.999654546380043
+  },
+  {
+   "text": "CASH",
+   "conf": 0.9880954772233963
+  },
+  {
+   "text": "50.00",
+   "conf": 0.9986405849456788
+  },
+  {
+   "text": "Change",
+   "conf": 0.996964693069458
+  },
+  {
+   "text": "43.00",
+   "conf": 0.9991939544677735
+  },
+  {
+   "text": "GST Summary",
+   "conf": 0.9592052535577253
+  },
+  {
+   "text": "Code",
+   "conf": 0.9929023385047913
+  },
+  {
+   "text": "%",
+   "conf": 0.9902021884918213
+  },
+  {
+   "text": "NetAmt",
+   "conf": 0.9842062095801035
+  },
+  {
+   "text": "GST",
+   "conf": 0.8000014623006185
+  },
+  {
+   "text": "Totai",
+   "conf": 0.9264950156211853
+  },
+  {
+   "text": "SR",
+   "conf": 0.986179530620575
+  },
+  {
+   "text": "6%",
+   "conf": 0.9921926259994507
+  },
+  {
+   "text": "6.60",
+   "conf": 0.9980089217424393
+  },
+  {
+   "text": "6.40",
+   "conf": 0.9233919233083725
+  },
+  {
+   "text": "7.00",
+   "conf": 0.998088464140892
+  },
+  {
+   "text": "Total",
+   "conf": 0.9951919436454773
+  },
+  {
+   "text": "6.60",
+   "conf": 0.9988599121570587
+  },
+  {
+   "text": "7.00",
+   "conf": 0.9980540722608566
+  },
+  {
+   "text": "Thank you & Please come again.",
+   "conf": 0.987534350156784
+  },
+  {
+   "text": "Goods sold are not returmable for refund or",
+   "conf": 0.9503308215806651
+  },
+  {
+   "text": "exchange!!",
+   "conf": 0.9179844498634339
+  }
+ ],
+ "mean_conf": 0.971,
+ "low_conf_share": 0.0,
+ "latency_ms": 9732,
+ "fields": {
+  "company": "ADVANCO COMPANY",
+  "date": "2018-01-17",
+  "total": 7.0
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  7.0
+ ],
+ "key": "X51005806716"
+}

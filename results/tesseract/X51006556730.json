@@ -1,0 +1,377 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  ". t",
+  "MAKASSAR FRESH MARKET S/B.",
+  "{CO.NO. 1208604-T)",
+  "GROUND FLOOR, NO.4 «¢ 6,",
+  "JALAN SS15/4B,",
+  "47500 SUBANG JAYA, SELANGOR.",
+  "TEL: 03-56131328",
+  "Outlet : PLU",
+  "Receipt NO : 16741",
+  "[TERMINAL :002] (CASHIER :sv2]",
+  "05-Aug-2017 02:11:23 PM",
+  "FRUITS @24.00",
+  "40158 *1 24.00",
+  "FRUITS 16.00",
+  "40158 *1 16.90",
+  "VOLUME : 2 Items",
+  "Sub Total RM40.00",
+  "Rounding Adj. RMO.00",
+  "Total RM40.00",
+  "Payment Type CASH",
+  "Received Cash RM50.00",
+  "Change RM10.00",
+  "Thank You ! Pls Come Again",
+  "Goods Sold Are Not Returnabie !",
+  "pLS VERIFY YOUR LL,BEFORE LEAVING THE"
+ ],
+ "tokens": [
+  {
+   "text": ".",
+   "conf": 0.0
+  },
+  {
+   "text": "t",
+   "conf": 0.7
+  },
+  {
+   "text": "MAKASSAR",
+   "conf": 0.91
+  },
+  {
+   "text": "FRESH",
+   "conf": 0.96
+  },
+  {
+   "text": "MARKET",
+   "conf": 0.96
+  },
+  {
+   "text": "S/B.",
+   "conf": 0.89
+  },
+  {
+   "text": "{CO.NO.",
+   "conf": 0.71
+  },
+  {
+   "text": "1208604-T)",
+   "conf": 0.89
+  },
+  {
+   "text": "GROUND",
+   "conf": 0.96
+  },
+  {
+   "text": "FLOOR,",
+   "conf": 0.92
+  },
+  {
+   "text": "NO.4",
+   "conf": 0.85
+  },
+  {
+   "text": "«¢",
+   "conf": 0.4
+  },
+  {
+   "text": "6,",
+   "conf": 0.96
+  },
+  {
+   "text": "JALAN",
+   "conf": 0.95
+  },
+  {
+   "text": "SS15/4B,",
+   "conf": 0.13
+  },
+  {
+   "text": "47500",
+   "conf": 0.92
+  },
+  {
+   "text": "SUBANG",
+   "conf": 0.92
+  },
+  {
+   "text": "JAYA,",
+   "conf": 0.9
+  },
+  {
+   "text": "SELANGOR.",
+   "conf": 0.91
+  },
+  {
+   "text": "TEL:",
+   "conf": 0.89
+  },
+  {
+   "text": "03-56131328",
+   "conf": 0.89
+  },
+  {
+   "text": "Outlet",
+   "conf": 0.93
+  },
+  {
+   "text": ":",
+   "conf": 0.83
+  },
+  {
+   "text": "PLU",
+   "conf": 0.95
+  },
+  {
+   "text": "Receipt",
+   "conf": 0.96
+  },
+  {
+   "text": "NO",
+   "conf": 0.8
+  },
+  {
+   "text": ":",
+   "conf": 0.8
+  },
+  {
+   "text": "16741",
+   "conf": 0.96
+  },
+  {
+   "text": "[TERMINAL",
+   "conf": 0.76
+  },
+  {
+   "text": ":002]",
+   "conf": 0.86
+  },
+  {
+   "text": "(CASHIER",
+   "conf": 0.92
+  },
+  {
+   "text": ":sv2]",
+   "conf": 0.53
+  },
+  {
+   "text": "05-Aug-2017",
+   "conf": 0.93
+  },
+  {
+   "text": "02:11:23",
+   "conf": 0.96
+  },
+  {
+   "text": "PM",
+   "conf": 0.88
+  },
+  {
+   "text": "FRUITS",
+   "conf": 0.88
+  },
+  {
+   "text": "@24.00",
+   "conf": 0.88
+  },
+  {
+   "text": "40158",
+   "conf": 0.95
+  },
+  {
+   "text": "*1",
+   "conf": 0.84
+  },
+  {
+   "text": "24.00",
+   "conf": 0.95
+  },
+  {
+   "text": "FRUITS",
+   "conf": 0.95
+  },
+  {
+   "text": "16.00",
+   "conf": 0.0
+  },
+  {
+   "text": "40158",
+   "conf": 0.96
+  },
+  {
+   "text": "*1",
+   "conf": 0.76
+  },
+  {
+   "text": "16.90",
+   "conf": 0.93
+  },
+  {
+   "text": "VOLUME",
+   "conf": 0.93
+  },
+  {
+   "text": ":",
+   "conf": 0.92
+  },
+  {
+   "text": "2",
+   "conf": 0.96
+  },
+  {
+   "text": "Items",
+   "conf": 0.96
+  },
+  {
+   "text": "Sub",
+   "conf": 0.95
+  },
+  {
+   "text": "Total",
+   "conf": 0.95
+  },
+  {
+   "text": "RM40.00",
+   "conf": 0.85
+  },
+  {
+   "text": "Rounding",
+   "conf": 0.96
+  },
+  {
+   "text": "Adj.",
+   "conf": 0.39
+  },
+  {
+   "text": "RMO.00",
+   "conf": 0.82
+  },
+  {
+   "text": "Total",
+   "conf": 0.1
+  },
+  {
+   "text": "RM40.00",
+   "conf": 0.54
+  },
+  {
+   "text": "Payment",
+   "conf": 0.96
+  },
+  {
+   "text": "Type",
+   "conf": 0.96
+  },
+  {
+   "text": "CASH",
+   "conf": 0.95
+  },
+  {
+   "text": "Received",
+   "conf": 0.95
+  },
+  {
+   "text": "Cash",
+   "conf": 0.96
+  },
+  {
+   "text": "RM50.00",
+   "conf": 0.76
+  },
+  {
+   "text": "Change",
+   "conf": 0.96
+  },
+  {
+   "text": "RM10.00",
+   "conf": 0.9
+  },
+  {
+   "text": "Thank",
+   "conf": 0.95
+  },
+  {
+   "text": "You",
+   "conf": 0.92
+  },
+  {
+   "text": "!",
+   "conf": 0.92
+  },
+  {
+   "text": "Pls",
+   "conf": 0.96
+  },
+  {
+   "text": "Come",
+   "conf": 0.96
+  },
+  {
+   "text": "Again",
+   "conf": 0.95
+  },
+  {
+   "text": "Goods",
+   "conf": 0.96
+  },
+  {
+   "text": "Sold",
+   "conf": 0.95
+  },
+  {
+   "text": "Are",
+   "conf": 0.95
+  },
+  {
+   "text": "Not",
+   "conf": 0.95
+  },
+  {
+   "text": "Returnabie",
+   "conf": 0.29
+  },
+  {
+   "text": "!",
+   "conf": 0.91
+  },
+  {
+   "text": "pLS",
+   "conf": 0.0
+  },
+  {
+   "text": "VERIFY",
+   "conf": 0.92
+  },
+  {
+   "text": "YOUR",
+   "conf": 0.96
+  },
+  {
+   "text": "LL,BEFORE",
+   "conf": 0.61
+  },
+  {
+   "text": "LEAVING",
+   "conf": 0.96
+  },
+  {
+   "text": "THE",
+   "conf": 0.96
+  }
+ ],
+ "mean_conf": 0.8265,
+ "low_conf_share": 0.0964,
+ "latency_ms": 1464,
+ "fields": {
+  "company": "MAKASSAR FRESH MARKET S B",
+  "date": "2017-08-05",
+  "total": 40.0
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  40.0
+ ],
+ "key": "X51006556730"
+}

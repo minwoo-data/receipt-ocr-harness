@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.6-flash",
+ "provider": "gemini",
+ "raw_text": "{\"vendor\":\"Segi Cash & Carry Sdn.Bhd\",\"date\":\"2017-01-05\",\"subtotal\":12.61,\"tax\":0.71,\"tip\":null,\"discount\":-0.01,\"total\":12.60,\"currency\":\"MYR\",\"confidence\":0.98,\"notes\":null}",
+ "data": {
+  "vendor": "Segi Cash & Carry Sdn.Bhd",
+  "date": "2017-01-05",
+  "subtotal": 12.61,
+  "tax": 0.71,
+  "tip": null,
+  "discount": -0.01,
+  "total": 12.6,
+  "currency": "MYR",
+  "confidence": 0.98,
+  "notes": null
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1431,
+  "output_tokens": 78,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.001366,
+ "latency_ms": 1311,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.6-flash",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.6-flash"
+ ],
+ "key": "X51006334699"
+}

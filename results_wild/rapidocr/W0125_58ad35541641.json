@@ -1,0 +1,167 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "27",
+  "业",
+  "Jndia Palace",
+  "INDIAPALACE",
+  "Cafe Court Lower Ground-Dubai Mall",
+  "Dubai,U.A.E",
+  "Tel043399325Fax04-3398326",
+  "DINEIN",
+  "BllNo Date&Time User",
+  "41627 26/03/20169:58PM Risalen",
+  "Qty Item Name Amount",
+  "1CHOLEBHATURE 28.00",
+  "COCACOLA 500",
+  "TOTAL 33.00",
+  "Settled By CASH",
+  "CashAmount 33.00",
+  "Cash Paid 35.00",
+  "Balance Paid 2.00",
+  "ThankYou"
+ ],
+ "tokens": [
+  {
+   "text": "27",
+   "conf": 0.9991464614868164
+  },
+  {
+   "text": "业",
+   "conf": 0.5747637152671814
+  },
+  {
+   "text": "Jndia Palace",
+   "conf": 0.8594593753417333
+  },
+  {
+   "text": "INDIAPALACE",
+   "conf": 0.9927474639632485
+  },
+  {
+   "text": "Cafe Court Lower Ground-Dubai Mall",
+   "conf": 0.9457682108177858
+  },
+  {
+   "text": "Dubai,U.A.E",
+   "conf": 0.8734945519403978
+  },
+  {
+   "text": "Tel043399325Fax04-3398326",
+   "conf": 0.91096315741539
+  },
+  {
+   "text": "DINEIN",
+   "conf": 0.9926759898662567
+  },
+  {
+   "text": "BllNo",
+   "conf": 0.7445216417312622
+  },
+  {
+   "text": "Date&Time",
+   "conf": 0.9715250200695462
+  },
+  {
+   "text": "User",
+   "conf": 0.9852146804332733
+  },
+  {
+   "text": "41627",
+   "conf": 0.9254899382591247
+  },
+  {
+   "text": "26/03/20169:58PM",
+   "conf": 0.9182428475469351
+  },
+  {
+   "text": "Risalen",
+   "conf": 0.9727760808808463
+  },
+  {
+   "text": "Qty",
+   "conf": 0.9148818453152975
+  },
+  {
+   "text": "Item Name",
+   "conf": 0.8843697011470795
+  },
+  {
+   "text": "Amount",
+   "conf": 0.9899764358997345
+  },
+  {
+   "text": "1CHOLEBHATURE",
+   "conf": 0.9737471754734333
+  },
+  {
+   "text": "28.00",
+   "conf": 0.9291045188903808
+  },
+  {
+   "text": "COCACOLA",
+   "conf": 0.972082182765007
+  },
+  {
+   "text": "500",
+   "conf": 0.9975690841674805
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.992777681350708
+  },
+  {
+   "text": "33.00",
+   "conf": 0.9896289706230164
+  },
+  {
+   "text": "Settled By",
+   "conf": 0.9054865777492523
+  },
+  {
+   "text": "CASH",
+   "conf": 0.9919435083866119
+  },
+  {
+   "text": "CashAmount",
+   "conf": 0.9796532809734344
+  },
+  {
+   "text": "33.00",
+   "conf": 0.9950876474380493
+  },
+  {
+   "text": "Cash Paid",
+   "conf": 0.9305472705099318
+  },
+  {
+   "text": "35.00",
+   "conf": 0.9912558436393738
+  },
+  {
+   "text": "Balance Paid",
+   "conf": 0.9463265836238861
+  },
+  {
+   "text": "2.00",
+   "conf": 0.9939990788698196
+  },
+  {
+   "text": "ThankYou",
+   "conf": 0.9784887060523033
+  }
+ ],
+ "mean_conf": 0.9382,
+ "low_conf_share": 0.0,
+ "latency_ms": 3334,
+ "fields": {
+  "company": "CAFE COURT LOWER GROUND DUBAI MALL",
+  "date": "2016-03-26",
+  "total": 33.0
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  33.0
+ ],
+ "key": "W0125_58ad35541641"
+}

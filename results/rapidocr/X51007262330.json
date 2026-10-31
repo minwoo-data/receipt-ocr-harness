@@ -1,0 +1,230 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "SWC ENTERPRISE SDN BHD",
+  "(1125830-U)",
+  "5-7,JALAN MAHAGONI 7/1",
+  "SEKSYEN4,BANDAR UTAMA,44300",
+  "BATANG KALI,SELANGOR",
+  "03-60571377",
+  "GSTID:002017808384",
+  "Tax Inv0ice No:0051808219001118",
+  "005001(BATANGKALI-1) 118",
+  "001 23/03/201819:08:32",
+  "OPEN CODE-SR ITEN",
+  "0025679U 2x11.80 23.60S",
+  "0025679U 2x8.80 17.60S",
+  "Item2 SubTotal Incl GST 41.20",
+  "Qty4 Spec.Disc 0.00",
+  "Saving 0.00 Rounding 0.00",
+  "Total 41.20",
+  "Cash 512.00",
+  "Change 470.80",
+  "GST Summary Amount(RH) Tax(RM)",
+  "S(6%) 38.86 2.34",
+  "23/03/201819:08:32",
+  "OODS SOLD ONLY EXCHANGEABLE WIIHIN3 DAYS",
+  "GOODS SOLD ARE NOT REFUNDABLE",
+  "THANK YOU FOR YOUR KIND SUPPORT",
+  "PLEASE COME AGAIN"
+ ],
+ "tokens": [
+  {
+   "text": "SWC ENTERPRISE",
+   "conf": 0.9790411463805607
+  },
+  {
+   "text": "SDN BHD",
+   "conf": 0.9689548356192452
+  },
+  {
+   "text": "(1125830-U)",
+   "conf": 0.9435656341639432
+  },
+  {
+   "text": "5-7,JALAN MAHAGONI 7/1",
+   "conf": 0.957121653990312
+  },
+  {
+   "text": "SEKSYEN4,BANDAR UTAMA,44300",
+   "conf": 0.947114246862906
+  },
+  {
+   "text": "BATANG KALI,SELANGOR",
+   "conf": 0.9790144026279449
+  },
+  {
+   "text": "03-60571377",
+   "conf": 0.9986270395192233
+  },
+  {
+   "text": "GSTID:002017808384",
+   "conf": 0.9782847927676307
+  },
+  {
+   "text": "Tax Inv0ice No:0051808219001118",
+   "conf": 0.9644938784260904
+  },
+  {
+   "text": "005001(BATANGKALI-1)",
+   "conf": 0.9670672178268432
+  },
+  {
+   "text": "118",
+   "conf": 0.9972005486488342
+  },
+  {
+   "text": "001",
+   "conf": 0.9982023239135742
+  },
+  {
+   "text": "23/03/201819:08:32",
+   "conf": 0.9859786331653595
+  },
+  {
+   "text": "OPEN CODE-SR ITEN",
+   "conf": 0.9374798325931325
+  },
+  {
+   "text": "0025679U",
+   "conf": 0.9915856048464775
+  },
+  {
+   "text": "2x11.80",
+   "conf": 0.9530336260795593
+  },
+  {
+   "text": "23.60S",
+   "conf": 0.9889543851216634
+  },
+  {
+   "text": "0025679U",
+   "conf": 0.9879879951477051
+  },
+  {
+   "text": "2x8.80",
+   "conf": 0.9501056869824728
+  },
+  {
+   "text": "17.60S",
+   "conf": 0.987968901793162
+  },
+  {
+   "text": "Item2",
+   "conf": 0.9870751619338989
+  },
+  {
+   "text": "SubTotal Incl GST",
+   "conf": 0.9572533789803
+  },
+  {
+   "text": "41.20",
+   "conf": 0.9975391983985901
+  },
+  {
+   "text": "Qty4",
+   "conf": 0.9943085461854935
+  },
+  {
+   "text": "Spec.Disc",
+   "conf": 0.9736958609686958
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9983644783496857
+  },
+  {
+   "text": "Saving 0.00",
+   "conf": 0.9292306683280251
+  },
+  {
+   "text": "Rounding",
+   "conf": 0.99509596824646
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9981014430522919
+  },
+  {
+   "text": "Total",
+   "conf": 0.9879099011421204
+  },
+  {
+   "text": "41.20",
+   "conf": 0.9984958052635193
+  },
+  {
+   "text": "Cash",
+   "conf": 0.9946242719888687
+  },
+  {
+   "text": "512.00",
+   "conf": 0.9982529481252035
+  },
+  {
+   "text": "Change",
+   "conf": 0.9943287471930186
+  },
+  {
+   "text": "470.80",
+   "conf": 0.9948776066303253
+  },
+  {
+   "text": "GST Summary",
+   "conf": 0.9475360458547418
+  },
+  {
+   "text": "Amount(RH)",
+   "conf": 0.8805400788784027
+  },
+  {
+   "text": "Tax(RM)",
+   "conf": 0.9274230854851859
+  },
+  {
+   "text": "S(6%)",
+   "conf": 0.9178448796272278
+  },
+  {
+   "text": "38.86",
+   "conf": 0.9961080908775329
+  },
+  {
+   "text": "2.34",
+   "conf": 0.9529449790716171
+  },
+  {
+   "text": "23/03/201819:08:32",
+   "conf": 0.9833096696270837
+  },
+  {
+   "text": "OODS SOLD ONLY EXCHANGEABLE WIIHIN3 DAYS",
+   "conf": 0.9202932581305504
+  },
+  {
+   "text": "GOODS SOLD ARE NOT REFUNDABLE",
+   "conf": 0.9605191904923012
+  },
+  {
+   "text": "THANK YOU FOR YOUR KIND SUPPORT",
+   "conf": 0.9514188997207149
+  },
+  {
+   "text": "PLEASE COME AGAIN",
+   "conf": 0.974281535429113
+  }
+ ],
+ "mean_conf": 0.9712,
+ "low_conf_share": 0.0,
+ "latency_ms": 4096,
+ "fields": {
+  "company": "SWC ENTERPRISE SDN BHD",
+  "date": "2018-03-23",
+  "total": 41.2
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  41.2
+ ],
+ "key": "X51007262330"
+}

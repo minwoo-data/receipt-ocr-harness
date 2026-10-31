@@ -1,0 +1,110 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "a ate itetcemecccmmcmernnen",
+  "i rt Co. Lta",
+  "Time:2014. 10.16 1345771 i",
+  "Type: Adult",
+  "Driver ‘Navin Lal",
+  "Please produce on demand Raver"
+ ],
+ "tokens": [
+  {
+   "text": "a",
+   "conf": 0.29
+  },
+  {
+   "text": "ate",
+   "conf": 0.12
+  },
+  {
+   "text": "itetcemecccmmcmernnen",
+   "conf": 0.0
+  },
+  {
+   "text": "i",
+   "conf": 0.44
+  },
+  {
+   "text": "rt",
+   "conf": 0.64
+  },
+  {
+   "text": "Co.",
+   "conf": 0.28
+  },
+  {
+   "text": "Lta",
+   "conf": 0.17
+  },
+  {
+   "text": "Time:2014.",
+   "conf": 0.23
+  },
+  {
+   "text": "10.16",
+   "conf": 0.23
+  },
+  {
+   "text": "1345771",
+   "conf": 0.31
+  },
+  {
+   "text": "i",
+   "conf": 0.22
+  },
+  {
+   "text": "Type:",
+   "conf": 0.5
+  },
+  {
+   "text": "Adult",
+   "conf": 0.5
+  },
+  {
+   "text": "Driver",
+   "conf": 0.14
+  },
+  {
+   "text": "‘Navin",
+   "conf": 0.14
+  },
+  {
+   "text": "Lal",
+   "conf": 0.93
+  },
+  {
+   "text": "Please",
+   "conf": 0.96
+  },
+  {
+   "text": "produce",
+   "conf": 0.95
+  },
+  {
+   "text": "on",
+   "conf": 0.94
+  },
+  {
+   "text": "demand",
+   "conf": 0.37
+  },
+  {
+   "text": "Raver",
+   "conf": 0.33
+  }
+ ],
+ "mean_conf": 0.4138,
+ "low_conf_share": 0.6667,
+ "latency_ms": 327,
+ "fields": {
+  "company": "I RT CO LTA",
+  "date": "2014-10-16",
+  "total": null
+ },
+ "rule_reasons": [
+  "total_not_found"
+ ],
+ "total_candidates": [],
+ "key": "W0059_a30390748717"
+}

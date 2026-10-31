@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.6-flash",
+ "provider": "gemini",
+ "raw_text": "{\"vendor\":\"THE HOME DEPOT\",\"date\":\"2013-08-14\",\"subtotal\":36.49,\"tax\":2.19,\"tip\":null,\"discount\":null,\"total\":38.68,\"currency\":\"USD\",\"confidence\":0.98,\"notes\":null}",
+ "data": {
+  "vendor": "THE HOME DEPOT",
+  "date": "2013-08-14",
+  "subtotal": 36.49,
+  "tax": 2.19,
+  "tip": null,
+  "discount": null,
+  "total": 38.68,
+  "currency": "USD",
+  "confidence": 0.98,
+  "notes": null
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1440,
+  "output_tokens": 68,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.001335,
+ "latency_ms": 1284,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.6-flash",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.6-flash"
+ ],
+ "key": "W0200_2a92c61dd5c0"
+}

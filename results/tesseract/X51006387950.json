@@ -1,0 +1,345 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "a a i",
+  "AMANO MALAYSIA SDN BHD (682288-V )",
+  "12 UALAN PENGACARA U1/48",
+  "TEMASYA INDUSTRIAL PARK",
+  "40150 SHAH ALAM SEl ANGOR",
+  "TEL: 03-56695002/5003",
+  "ee 10: 001137704980)",
+  "TAX INVOTCE",
+  "P/S #02 A INV-No. 00023004 17000134",
+  "T/O #11 Ticket No. 020622",
+  "Entry Time 30/04/2017 (Sun) 21:45",
+  "Paid Time 30/04/2017 (Sun) 22:49",
+  "Parking Time 1:04",
+  "Type Rate A RM1.00",
+  "Parking Fee RMD. 94",
+  "GST(CIncluded) 6.00 % alone 4",
+  "Total M1.00",
+  "Paid RM1.00",
+  "Change RM0.00",
+  "Thank You",
+  "Inclusive 6% GST"
+ ],
+ "tokens": [
+  {
+   "text": "a",
+   "conf": 0.29
+  },
+  {
+   "text": "a",
+   "conf": 0.21
+  },
+  {
+   "text": "i",
+   "conf": 0.01
+  },
+  {
+   "text": "AMANO",
+   "conf": 0.96
+  },
+  {
+   "text": "MALAYSIA",
+   "conf": 0.95
+  },
+  {
+   "text": "SDN",
+   "conf": 0.74
+  },
+  {
+   "text": "BHD",
+   "conf": 0.92
+  },
+  {
+   "text": "(682288-V",
+   "conf": 0.76
+  },
+  {
+   "text": ")",
+   "conf": 0.76
+  },
+  {
+   "text": "12",
+   "conf": 0.84
+  },
+  {
+   "text": "UALAN",
+   "conf": 0.84
+  },
+  {
+   "text": "PENGACARA",
+   "conf": 0.9
+  },
+  {
+   "text": "U1/48",
+   "conf": 0.91
+  },
+  {
+   "text": "TEMASYA",
+   "conf": 0.93
+  },
+  {
+   "text": "INDUSTRIAL",
+   "conf": 0.91
+  },
+  {
+   "text": "PARK",
+   "conf": 0.91
+  },
+  {
+   "text": "40150",
+   "conf": 0.94
+  },
+  {
+   "text": "SHAH",
+   "conf": 0.95
+  },
+  {
+   "text": "ALAM",
+   "conf": 0.93
+  },
+  {
+   "text": "SEl",
+   "conf": 0.29
+  },
+  {
+   "text": "ANGOR",
+   "conf": 0.76
+  },
+  {
+   "text": "TEL:",
+   "conf": 0.93
+  },
+  {
+   "text": "03-56695002/5003",
+   "conf": 0.42
+  },
+  {
+   "text": "ee",
+   "conf": 0.0
+  },
+  {
+   "text": "10:",
+   "conf": 0.87
+  },
+  {
+   "text": "001137704980)",
+   "conf": 0.66
+  },
+  {
+   "text": "TAX",
+   "conf": 0.92
+  },
+  {
+   "text": "INVOTCE",
+   "conf": 0.9
+  },
+  {
+   "text": "P/S",
+   "conf": 0.93
+  },
+  {
+   "text": "#02",
+   "conf": 0.64
+  },
+  {
+   "text": "A",
+   "conf": 0.53
+  },
+  {
+   "text": "INV-No.",
+   "conf": 0.73
+  },
+  {
+   "text": "00023004",
+   "conf": 0.0
+  },
+  {
+   "text": "17000134",
+   "conf": 0.0
+  },
+  {
+   "text": "T/O",
+   "conf": 0.45
+  },
+  {
+   "text": "#11",
+   "conf": 0.81
+  },
+  {
+   "text": "Ticket",
+   "conf": 0.83
+  },
+  {
+   "text": "No.",
+   "conf": 0.92
+  },
+  {
+   "text": "020622",
+   "conf": 0.61
+  },
+  {
+   "text": "Entry",
+   "conf": 0.8
+  },
+  {
+   "text": "Time",
+   "conf": 0.85
+  },
+  {
+   "text": "30/04/2017",
+   "conf": 0.85
+  },
+  {
+   "text": "(Sun)",
+   "conf": 0.91
+  },
+  {
+   "text": "21:45",
+   "conf": 0.92
+  },
+  {
+   "text": "Paid",
+   "conf": 0.96
+  },
+  {
+   "text": "Time",
+   "conf": 0.82
+  },
+  {
+   "text": "30/04/2017",
+   "conf": 0.53
+  },
+  {
+   "text": "(Sun)",
+   "conf": 0.88
+  },
+  {
+   "text": "22:49",
+   "conf": 0.9
+  },
+  {
+   "text": "Parking",
+   "conf": 0.93
+  },
+  {
+   "text": "Time",
+   "conf": 0.92
+  },
+  {
+   "text": "1:04",
+   "conf": 0.96
+  },
+  {
+   "text": "Type",
+   "conf": 0.96
+  },
+  {
+   "text": "Rate",
+   "conf": 0.95
+  },
+  {
+   "text": "A",
+   "conf": 0.96
+  },
+  {
+   "text": "RM1.00",
+   "conf": 0.83
+  },
+  {
+   "text": "Parking",
+   "conf": 0.87
+  },
+  {
+   "text": "Fee",
+   "conf": 0.96
+  },
+  {
+   "text": "RMD.",
+   "conf": 0.26
+  },
+  {
+   "text": "94",
+   "conf": 0.92
+  },
+  {
+   "text": "GST(CIncluded)",
+   "conf": 0.42
+  },
+  {
+   "text": "6.00",
+   "conf": 0.56
+  },
+  {
+   "text": "%",
+   "conf": 0.85
+  },
+  {
+   "text": "alone",
+   "conf": 0.34
+  },
+  {
+   "text": "4",
+   "conf": 0.24
+  },
+  {
+   "text": "Total",
+   "conf": 0.83
+  },
+  {
+   "text": "M1.00",
+   "conf": 0.24
+  },
+  {
+   "text": "Paid",
+   "conf": 0.96
+  },
+  {
+   "text": "RM1.00",
+   "conf": 0.52
+  },
+  {
+   "text": "Change",
+   "conf": 0.66
+  },
+  {
+   "text": "RM0.00",
+   "conf": 0.0
+  },
+  {
+   "text": "Thank",
+   "conf": 0.93
+  },
+  {
+   "text": "You",
+   "conf": 0.96
+  },
+  {
+   "text": "Inclusive",
+   "conf": 0.95
+  },
+  {
+   "text": "6%",
+   "conf": 0.95
+  },
+  {
+   "text": "GST",
+   "conf": 0.96
+  }
+ ],
+ "mean_conf": 0.7259,
+ "low_conf_share": 0.1974,
+ "latency_ms": 844,
+ "fields": {
+  "company": "AMANO MALAYSIA SDN BHD",
+  "date": "2017-04-30",
+  "total": 1.0
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  1.0
+ ],
+ "key": "X51006387950"
+}

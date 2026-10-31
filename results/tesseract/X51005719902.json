@@ -1,0 +1,625 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "KING’S CONFECTIONERY $/B 273500-U (KSB)",
+  "NO.41, JALAN SERIT BINTANG 2",
+  "TAMAN SRI BINTANG,",
+  "S2i00 KUALA LUMPUR.",
+  "TEL NO:- O12 - 402 8832",
+  "(GST ID s 800294040032)",
+  "Tax Inmvoice ‘",
+  "Inv No sKSBB0051978 Dater11/03/18 21:30",
+  "Cashier :F T8303 Ctr 302",
+  "Code llesc Aty RM DA Amt",
+  "201019 KAYA PUFF 4 1.40 0 4.405 |",
+  "231027 Slice Cak 1 8.70 0 8.70S$ —",
+  "WO1110 Cheese Le 1 3.50 30 2.45 6",
+  "251030 Cheese Ta 1 3.40 0 3.408",
+  "171153 D/R BUTTE 1 4.20 0 4.208",
+  "Qty g 25.15",
+  "Rounding Adj ~ 0,00",
+  ") “os nw i on ww oh a sa",
+  "| fue Zoako",
+  "Pay Zue0lo",
+  "Change 0.08",
+  "SAILS L ISS SoS VSS K MS J",
+  "(Total Included GST @ 4% : 1.42)",
+  "BOOS SOLD NOT RETURNABLE/EXCHANGEABLE! |",
+  "THANK YOU PLEASE COME AGAIN!!",
+  "TASTY BAKING HEALTHY NATION! !",
+  "=“Visit us online at sew. kings. com. y="
+ ],
+ "tokens": [
+  {
+   "text": "KING’S",
+   "conf": 0.83
+  },
+  {
+   "text": "CONFECTIONERY",
+   "conf": 0.93
+  },
+  {
+   "text": "$/B",
+   "conf": 0.12
+  },
+  {
+   "text": "273500-U",
+   "conf": 0.12
+  },
+  {
+   "text": "(KSB)",
+   "conf": 0.95
+  },
+  {
+   "text": "NO.41,",
+   "conf": 0.68
+  },
+  {
+   "text": "JALAN",
+   "conf": 0.93
+  },
+  {
+   "text": "SERIT",
+   "conf": 0.3
+  },
+  {
+   "text": "BINTANG",
+   "conf": 0.91
+  },
+  {
+   "text": "2",
+   "conf": 0.96
+  },
+  {
+   "text": "TAMAN",
+   "conf": 0.92
+  },
+  {
+   "text": "SRI",
+   "conf": 0.83
+  },
+  {
+   "text": "BINTANG,",
+   "conf": 0.83
+  },
+  {
+   "text": "S2i00",
+   "conf": 0.64
+  },
+  {
+   "text": "KUALA",
+   "conf": 0.94
+  },
+  {
+   "text": "LUMPUR.",
+   "conf": 0.76
+  },
+  {
+   "text": "TEL",
+   "conf": 0.92
+  },
+  {
+   "text": "NO:-",
+   "conf": 0.24
+  },
+  {
+   "text": "O12",
+   "conf": 0.92
+  },
+  {
+   "text": "-",
+   "conf": 0.9
+  },
+  {
+   "text": "402",
+   "conf": 0.64
+  },
+  {
+   "text": "8832",
+   "conf": 0.77
+  },
+  {
+   "text": "(GST",
+   "conf": 0.95
+  },
+  {
+   "text": "ID",
+   "conf": 0.59
+  },
+  {
+   "text": "s",
+   "conf": 0.13
+  },
+  {
+   "text": "800294040032)",
+   "conf": 0.34
+  },
+  {
+   "text": "Tax",
+   "conf": 0.71
+  },
+  {
+   "text": "Inmvoice",
+   "conf": 0.0
+  },
+  {
+   "text": "‘",
+   "conf": 0.85
+  },
+  {
+   "text": "Inv",
+   "conf": 0.95
+  },
+  {
+   "text": "No",
+   "conf": 0.92
+  },
+  {
+   "text": "sKSBB0051978",
+   "conf": 0.04
+  },
+  {
+   "text": "Dater11/03/18",
+   "conf": 0.18
+  },
+  {
+   "text": "21:30",
+   "conf": 0.75
+  },
+  {
+   "text": "Cashier",
+   "conf": 0.37
+  },
+  {
+   "text": ":F",
+   "conf": 0.07
+  },
+  {
+   "text": "T8303",
+   "conf": 0.07
+  },
+  {
+   "text": "Ctr",
+   "conf": 0.95
+  },
+  {
+   "text": "302",
+   "conf": 0.21
+  },
+  {
+   "text": "Code",
+   "conf": 0.95
+  },
+  {
+   "text": "llesc",
+   "conf": 0.0
+  },
+  {
+   "text": "Aty",
+   "conf": 0.21
+  },
+  {
+   "text": "RM",
+   "conf": 0.84
+  },
+  {
+   "text": "DA",
+   "conf": 0.58
+  },
+  {
+   "text": "Amt",
+   "conf": 0.58
+  },
+  {
+   "text": "201019",
+   "conf": 0.94
+  },
+  {
+   "text": "KAYA",
+   "conf": 0.95
+  },
+  {
+   "text": "PUFF",
+   "conf": 0.94
+  },
+  {
+   "text": "4",
+   "conf": 0.92
+  },
+  {
+   "text": "1.40",
+   "conf": 0.88
+  },
+  {
+   "text": "0",
+   "conf": 0.9
+  },
+  {
+   "text": "4.405",
+   "conf": 0.76
+  },
+  {
+   "text": "|",
+   "conf": 0.76
+  },
+  {
+   "text": "231027",
+   "conf": 0.95
+  },
+  {
+   "text": "Slice",
+   "conf": 0.91
+  },
+  {
+   "text": "Cak",
+   "conf": 0.81
+  },
+  {
+   "text": "1",
+   "conf": 0.67
+  },
+  {
+   "text": "8.70",
+   "conf": 0.66
+  },
+  {
+   "text": "0",
+   "conf": 0.88
+  },
+  {
+   "text": "8.70S$",
+   "conf": 0.28
+  },
+  {
+   "text": "—",
+   "conf": 0.3
+  },
+  {
+   "text": "WO1110",
+   "conf": 0.0
+  },
+  {
+   "text": "Cheese",
+   "conf": 0.96
+  },
+  {
+   "text": "Le",
+   "conf": 0.93
+  },
+  {
+   "text": "1",
+   "conf": 0.71
+  },
+  {
+   "text": "3.50",
+   "conf": 0.71
+  },
+  {
+   "text": "30",
+   "conf": 0.72
+  },
+  {
+   "text": "2.45",
+   "conf": 0.7
+  },
+  {
+   "text": "6",
+   "conf": 0.62
+  },
+  {
+   "text": "251030",
+   "conf": 0.94
+  },
+  {
+   "text": "Cheese",
+   "conf": 0.83
+  },
+  {
+   "text": "Ta",
+   "conf": 0.95
+  },
+  {
+   "text": "1",
+   "conf": 0.8
+  },
+  {
+   "text": "3.40",
+   "conf": 0.8
+  },
+  {
+   "text": "0",
+   "conf": 0.46
+  },
+  {
+   "text": "3.408",
+   "conf": 0.75
+  },
+  {
+   "text": "171153",
+   "conf": 0.83
+  },
+  {
+   "text": "D/R",
+   "conf": 0.81
+  },
+  {
+   "text": "BUTTE",
+   "conf": 0.92
+  },
+  {
+   "text": "1",
+   "conf": 0.82
+  },
+  {
+   "text": "4.20",
+   "conf": 0.86
+  },
+  {
+   "text": "0",
+   "conf": 0.93
+  },
+  {
+   "text": "4.208",
+   "conf": 0.9
+  },
+  {
+   "text": "Qty",
+   "conf": 0.4
+  },
+  {
+   "text": "g",
+   "conf": 0.38
+  },
+  {
+   "text": "25.15",
+   "conf": 0.82
+  },
+  {
+   "text": "Rounding",
+   "conf": 0.95
+  },
+  {
+   "text": "Adj",
+   "conf": 0.91
+  },
+  {
+   "text": "~",
+   "conf": 0.35
+  },
+  {
+   "text": "0,00",
+   "conf": 0.84
+  },
+  {
+   "text": ")",
+   "conf": 0.0
+  },
+  {
+   "text": "“os",
+   "conf": 0.34
+  },
+  {
+   "text": "nw",
+   "conf": 0.36
+  },
+  {
+   "text": "i",
+   "conf": 0.39
+  },
+  {
+   "text": "on",
+   "conf": 0.46
+  },
+  {
+   "text": "ww",
+   "conf": 0.36
+  },
+  {
+   "text": "oh",
+   "conf": 0.43
+  },
+  {
+   "text": "a",
+   "conf": 0.32
+  },
+  {
+   "text": "sa",
+   "conf": 0.42
+  },
+  {
+   "text": "|",
+   "conf": 0.66
+  },
+  {
+   "text": "fue",
+   "conf": 0.39
+  },
+  {
+   "text": "Zoako",
+   "conf": 0.0
+  },
+  {
+   "text": "Pay",
+   "conf": 0.91
+  },
+  {
+   "text": "Zue0lo",
+   "conf": 0.0
+  },
+  {
+   "text": "Change",
+   "conf": 0.95
+  },
+  {
+   "text": "0.08",
+   "conf": 0.9
+  },
+  {
+   "text": "SAILS",
+   "conf": 0.0
+  },
+  {
+   "text": "L",
+   "conf": 0.0
+  },
+  {
+   "text": "ISS",
+   "conf": 0.0
+  },
+  {
+   "text": "SoS",
+   "conf": 0.0
+  },
+  {
+   "text": "VSS",
+   "conf": 0.0
+  },
+  {
+   "text": "K",
+   "conf": 0.0
+  },
+  {
+   "text": "MS",
+   "conf": 0.0
+  },
+  {
+   "text": "J",
+   "conf": 0.49
+  },
+  {
+   "text": "(Total",
+   "conf": 0.95
+  },
+  {
+   "text": "Included",
+   "conf": 0.95
+  },
+  {
+   "text": "GST",
+   "conf": 0.9
+  },
+  {
+   "text": "@",
+   "conf": 0.9
+  },
+  {
+   "text": "4%",
+   "conf": 0.86
+  },
+  {
+   "text": ":",
+   "conf": 0.8
+  },
+  {
+   "text": "1.42)",
+   "conf": 0.74
+  },
+  {
+   "text": "BOOS",
+   "conf": 0.26
+  },
+  {
+   "text": "SOLD",
+   "conf": 0.32
+  },
+  {
+   "text": "NOT",
+   "conf": 0.91
+  },
+  {
+   "text": "RETURNABLE/EXCHANGEABLE!",
+   "conf": 0.82
+  },
+  {
+   "text": "|",
+   "conf": 0.92
+  },
+  {
+   "text": "THANK",
+   "conf": 0.96
+  },
+  {
+   "text": "YOU",
+   "conf": 0.95
+  },
+  {
+   "text": "PLEASE",
+   "conf": 0.95
+  },
+  {
+   "text": "COME",
+   "conf": 0.92
+  },
+  {
+   "text": "AGAIN!!",
+   "conf": 0.83
+  },
+  {
+   "text": "TASTY",
+   "conf": 0.95
+  },
+  {
+   "text": "BAKING",
+   "conf": 0.96
+  },
+  {
+   "text": "HEALTHY",
+   "conf": 0.96
+  },
+  {
+   "text": "NATION!",
+   "conf": 0.03
+  },
+  {
+   "text": "!",
+   "conf": 0.03
+  },
+  {
+   "text": "=“Visit",
+   "conf": 0.0
+  },
+  {
+   "text": "us",
+   "conf": 0.96
+  },
+  {
+   "text": "online",
+   "conf": 0.84
+  },
+  {
+   "text": "at",
+   "conf": 0.96
+  },
+  {
+   "text": "sew.",
+   "conf": 0.24
+  },
+  {
+   "text": "kings.",
+   "conf": 0.24
+  },
+  {
+   "text": "com.",
+   "conf": 0.0
+  },
+  {
+   "text": "y=",
+   "conf": 0.0
+  }
+ ],
+ "mean_conf": 0.6172,
+ "low_conf_share": 0.3542,
+ "latency_ms": 1532,
+ "fields": {
+  "company": "KING S CONFECTIONERY B",
+  "date": null,
+  "total": 1.42
+ },
+ "rule_reasons": [
+  "date_not_found"
+ ],
+ "total_candidates": [
+  1.42
+ ],
+ "key": "X51005719902"
+}

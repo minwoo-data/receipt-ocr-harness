@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.6-flash",
+ "provider": "gemini",
+ "raw_text": "{\"vendor\": \"DAIKO\", \"date\": \"2017-04-15\", \"subtotal\": 55.43, \"tax\": 3.52, \"tip\": null, \"discount\": null, \"total\": 58.95, \"currency\": \"USD\", \"confidence\": 0.98, \"notes\": null}",
+ "data": {
+  "vendor": "DAIKO",
+  "date": "2017-04-15",
+  "subtotal": 55.43,
+  "tax": 3.52,
+  "tip": null,
+  "discount": null,
+  "total": 58.95,
+  "currency": "USD",
+  "confidence": 0.98,
+  "notes": null
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1461,
+  "output_tokens": 82,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.001403,
+ "latency_ms": 1666,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.6-flash",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.6-flash"
+ ],
+ "key": "W0109_296f42bfafc1"
+}

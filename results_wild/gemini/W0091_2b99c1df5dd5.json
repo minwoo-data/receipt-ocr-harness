@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.6-flash",
+ "provider": "gemini",
+ "raw_text": "{\"vendor\":\"MARINA SHELL\",\"date\":null,\"subtotal\":9.0,\"tax\":0.0,\"tip\":null,\"discount\":null,\"total\":9.0,\"currency\":\"USD\",\"confidence\":0.85,\"notes\":\"No transaction date printed on the receipt, only an expiration date for the car wash code.\"}",
+ "data": {
+  "vendor": "MARINA SHELL",
+  "date": null,
+  "subtotal": 9.0,
+  "tax": 0.0,
+  "tip": null,
+  "discount": null,
+  "total": 9.0,
+  "currency": "USD",
+  "confidence": 0.85,
+  "notes": "No transaction date printed on the receipt, only an expiration date for the car wash code."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1458,
+  "output_tokens": 71,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.00136,
+ "latency_ms": 1839,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.6-flash",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.6-flash"
+ ],
+ "key": "W0091_2b99c1df5dd5"
+}

@@ -1,0 +1,194 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "Berqhotel",
+  "Grosse Scheidegg",
+  "3818Grindelwald",
+  "Familie R.Muller",
+  "Rech.Nr.4572 30.07.2007/13:29:17",
+  "Bar Tisch7/01",
+  "2xlatte Macchiato 4.50 CHF 00'6",
+  "1xGloki a 5.00 CHF 5.00",
+  "1xSchweinschnitzel 22.00 CHF 22.00",
+  "1xChasspatzli a 18.50 CHF 18.50",
+  "Total: CHF 54.50",
+  "Incl.7.6%MwSt 54.50CHF: 3.85",
+  "Entsprichtin Euro 36.33EUR",
+  "Esbediente Sie:Ursula",
+  "MwSt Nr.:430234",
+  "Tel.:0338536716",
+  "Fax.:0338536719",
+  "E-mail:grossescheidegg@bluewin.ch"
+ ],
+ "tokens": [
+  {
+   "text": "Berqhotel",
+   "conf": 0.9476210408740573
+  },
+  {
+   "text": "Grosse Scheidegg",
+   "conf": 0.9935881681740284
+  },
+  {
+   "text": "3818Grindelwald",
+   "conf": 0.9838786125183105
+  },
+  {
+   "text": "Familie R.Muller",
+   "conf": 0.9395249150693417
+  },
+  {
+   "text": "Rech.Nr.4572",
+   "conf": 0.9907147039969763
+  },
+  {
+   "text": "30.07.2007/13:29:17",
+   "conf": 0.9847593872170699
+  },
+  {
+   "text": "Bar",
+   "conf": 0.9913507501284281
+  },
+  {
+   "text": "Tisch7/01",
+   "conf": 0.9808660017119514
+  },
+  {
+   "text": "2xlatte Macchiato",
+   "conf": 0.9612561394186581
+  },
+  {
+   "text": "4.50",
+   "conf": 0.9958943128585815
+  },
+  {
+   "text": "CHF",
+   "conf": 0.9811681509017944
+  },
+  {
+   "text": "00'6",
+   "conf": 0.8645538836717606
+  },
+  {
+   "text": "1xGloki",
+   "conf": 0.9609783462115696
+  },
+  {
+   "text": "a",
+   "conf": 0.5370892286300659
+  },
+  {
+   "text": "5.00",
+   "conf": 0.99737149477005
+  },
+  {
+   "text": "CHF",
+   "conf": 0.9876344799995422
+  },
+  {
+   "text": "5.00",
+   "conf": 0.9959658533334732
+  },
+  {
+   "text": "1xSchweinschnitzel",
+   "conf": 0.9818911188178592
+  },
+  {
+   "text": "22.00",
+   "conf": 0.9967139482498169
+  },
+  {
+   "text": "CHF",
+   "conf": 0.9906384547551473
+  },
+  {
+   "text": "22.00",
+   "conf": 0.9981348514556885
+  },
+  {
+   "text": "1xChasspatzli",
+   "conf": 0.9581267329362723
+  },
+  {
+   "text": "a",
+   "conf": 0.6382958889007568
+  },
+  {
+   "text": "18.50",
+   "conf": 0.9936884760856628
+  },
+  {
+   "text": "CHF",
+   "conf": 0.980137050151825
+  },
+  {
+   "text": "18.50",
+   "conf": 0.9956954836845398
+  },
+  {
+   "text": "Total:",
+   "conf": 0.9827500979105631
+  },
+  {
+   "text": "CHF",
+   "conf": 0.9873277942339579
+  },
+  {
+   "text": "54.50",
+   "conf": 0.9935177683830261
+  },
+  {
+   "text": "Incl.7.6%MwSt",
+   "conf": 0.9641830233427194
+  },
+  {
+   "text": "54.50CHF:",
+   "conf": 0.9770260784361098
+  },
+  {
+   "text": "3.85",
+   "conf": 0.9949235916137695
+  },
+  {
+   "text": "Entsprichtin Euro",
+   "conf": 0.9724599964478436
+  },
+  {
+   "text": "36.33EUR",
+   "conf": 0.9952993467450142
+  },
+  {
+   "text": "Esbediente Sie:Ursula",
+   "conf": 0.975229127066476
+  },
+  {
+   "text": "MwSt Nr.:430234",
+   "conf": 0.9294054726759593
+  },
+  {
+   "text": "Tel.:0338536716",
+   "conf": 0.9801495313644409
+  },
+  {
+   "text": "Fax.:0338536719",
+   "conf": 0.9827741662661235
+  },
+  {
+   "text": "E-mail:grossescheidegg@bluewin.ch",
+   "conf": 0.9617169598738352
+  }
+ ],
+ "mean_conf": 0.957,
+ "low_conf_share": 0.0,
+ "latency_ms": 3257,
+ "fields": {
+  "company": "BERQHOTEL",
+  "date": "2007-07-30",
+  "total": 54.5
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  54.5
+ ],
+ "key": "W0107_9cefa0ee49cc"
+}

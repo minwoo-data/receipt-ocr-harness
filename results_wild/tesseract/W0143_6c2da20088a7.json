@@ -1,0 +1,221 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "& Tuna CEVICHE 16.00",
+  "B= i Sree 46.00",
+  "} Ghurrasco 20",
+  "ri 8.00",
+  "1 POLENTA 8? 14.00",
+  "1 Crese Brulee 800",
+  "1 Sorbets 00",
+  "Teed Tea 8.00",
+  "aratoga Flat 6.00",
+  "2 0AB SAW 24.00",
+  "# Overy Gaucho 24°00",
+  "Taxable: 250.00",
+  "Sib-total: 250.00",
+  "Taxi = 20.94",
+  "0.94"
+ ],
+ "tokens": [
+  {
+   "text": "&",
+   "conf": 0.0
+  },
+  {
+   "text": "Tuna",
+   "conf": 0.29
+  },
+  {
+   "text": "CEVICHE",
+   "conf": 0.87
+  },
+  {
+   "text": "16.00",
+   "conf": 0.73
+  },
+  {
+   "text": "B=",
+   "conf": 0.34
+  },
+  {
+   "text": "i",
+   "conf": 0.48
+  },
+  {
+   "text": "Sree",
+   "conf": 0.06
+  },
+  {
+   "text": "46.00",
+   "conf": 0.39
+  },
+  {
+   "text": "}",
+   "conf": 0.09
+  },
+  {
+   "text": "Ghurrasco",
+   "conf": 0.39
+  },
+  {
+   "text": "20",
+   "conf": 0.8
+  },
+  {
+   "text": "ri",
+   "conf": 0.38
+  },
+  {
+   "text": "8.00",
+   "conf": 0.36
+  },
+  {
+   "text": "1",
+   "conf": 0.85
+  },
+  {
+   "text": "POLENTA",
+   "conf": 0.85
+  },
+  {
+   "text": "8?",
+   "conf": 0.3
+  },
+  {
+   "text": "14.00",
+   "conf": 0.58
+  },
+  {
+   "text": "1",
+   "conf": 0.74
+  },
+  {
+   "text": "Crese",
+   "conf": 0.5
+  },
+  {
+   "text": "Brulee",
+   "conf": 0.78
+  },
+  {
+   "text": "800",
+   "conf": 0.48
+  },
+  {
+   "text": "1",
+   "conf": 0.87
+  },
+  {
+   "text": "Sorbets",
+   "conf": 0.93
+  },
+  {
+   "text": "00",
+   "conf": 0.52
+  },
+  {
+   "text": "Teed",
+   "conf": 0.87
+  },
+  {
+   "text": "Tea",
+   "conf": 0.75
+  },
+  {
+   "text": "8.00",
+   "conf": 0.76
+  },
+  {
+   "text": "aratoga",
+   "conf": 0.34
+  },
+  {
+   "text": "Flat",
+   "conf": 0.93
+  },
+  {
+   "text": "6.00",
+   "conf": 0.89
+  },
+  {
+   "text": "2",
+   "conf": 0.91
+  },
+  {
+   "text": "0AB",
+   "conf": 0.05
+  },
+  {
+   "text": "SAW",
+   "conf": 0.71
+  },
+  {
+   "text": "24.00",
+   "conf": 0.84
+  },
+  {
+   "text": "#",
+   "conf": 0.0
+  },
+  {
+   "text": "Overy",
+   "conf": 0.35
+  },
+  {
+   "text": "Gaucho",
+   "conf": 0.76
+  },
+  {
+   "text": "24°00",
+   "conf": 0.6
+  },
+  {
+   "text": "Taxable:",
+   "conf": 0.57
+  },
+  {
+   "text": "250.00",
+   "conf": 0.6
+  },
+  {
+   "text": "Sib-total:",
+   "conf": 0.29
+  },
+  {
+   "text": "250.00",
+   "conf": 0.66
+  },
+  {
+   "text": "Taxi",
+   "conf": 0.32
+  },
+  {
+   "text": "=",
+   "conf": 0.42
+  },
+  {
+   "text": "20.94",
+   "conf": 0.87
+  },
+  {
+   "text": "0.94",
+   "conf": 0.73
+  }
+ ],
+ "mean_conf": 0.5609,
+ "low_conf_share": 0.413,
+ "latency_ms": 228,
+ "fields": {
+  "company": "TUNA CEVICHE 16 00",
+  "date": null,
+  "total": 250.0
+ },
+ "rule_reasons": [
+  "date_not_found"
+ ],
+ "total_candidates": [
+  250.0
+ ],
+ "key": "W0143_6c2da20088a7"
+}

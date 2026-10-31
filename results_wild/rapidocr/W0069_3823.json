@@ -1,0 +1,172 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "GASTROBAR EL",
+  "GALLO",
+  "AZUL",
+  "C/LARGA2",
+  "JEREZ DE LA FRONTERA",
+  "CIF:B11908225",
+  "Albaran:14625",
+  "Fecha:14-11-2013 15:20",
+  "Mesa:Mesa2",
+  "Atendido por: GABRIEL",
+  "BEBIDAS 2 COPA RIOJA 4,00",
+  "2 CAFES CON LECHE 2,40",
+  "ENTRANTES",
+  "1TAPA MOJAMA DE BARBATE 2,50",
+  "1TAPA BEREJENAS CON SALM 3,00",
+  "1TAPAPATATAS ALIOLI 2,00",
+  "1PAN Y PICOSX PERSONA 0,50",
+  "1TAPA CARRILLERA IBERICA 2.50",
+  "1SALMOREJO 4,00",
+  "20.90",
+  "GRACIAS POR SU VISITA"
+ ],
+ "tokens": [
+  {
+   "text": "GASTROBAR",
+   "conf": 0.9853082696596781
+  },
+  {
+   "text": "EL",
+   "conf": 0.9958363175392151
+  },
+  {
+   "text": "GALLO",
+   "conf": 0.9908777356147767
+  },
+  {
+   "text": "AZUL",
+   "conf": 0.9902696311473846
+  },
+  {
+   "text": "C/LARGA2",
+   "conf": 0.9923249036073685
+  },
+  {
+   "text": "JEREZ DE LA FRONTERA",
+   "conf": 0.950717768073082
+  },
+  {
+   "text": "CIF:B11908225",
+   "conf": 0.9632768218333905
+  },
+  {
+   "text": "Albaran:14625",
+   "conf": 0.9783779061757601
+  },
+  {
+   "text": "Fecha:14-11-2013",
+   "conf": 0.9906180240213871
+  },
+  {
+   "text": "15:20",
+   "conf": 0.97841557264328
+  },
+  {
+   "text": "Mesa:Mesa2",
+   "conf": 0.9865559756755828
+  },
+  {
+   "text": "Atendido por: GABRIEL",
+   "conf": 0.950526563894181
+  },
+  {
+   "text": "BEBIDAS",
+   "conf": 0.9926983203206744
+  },
+  {
+   "text": "2 COPA RIOJA",
+   "conf": 0.9028238678971926
+  },
+  {
+   "text": "4,00",
+   "conf": 0.9746674597263336
+  },
+  {
+   "text": "2 CAFES CON LECHE",
+   "conf": 0.9613277736832114
+  },
+  {
+   "text": "2,40",
+   "conf": 0.881352037191391
+  },
+  {
+   "text": "ENTRANTES",
+   "conf": 0.9944956501324972
+  },
+  {
+   "text": "1TAPA MOJAMA DE BARBATE",
+   "conf": 0.9781645925148673
+  },
+  {
+   "text": "2,50",
+   "conf": 0.9292795658111572
+  },
+  {
+   "text": "1TAPA BEREJENAS CON SALM",
+   "conf": 0.9803090617060661
+  },
+  {
+   "text": "3,00",
+   "conf": 0.9204999357461929
+  },
+  {
+   "text": "1TAPAPATATAS ALIOLI",
+   "conf": 0.9706371301098874
+  },
+  {
+   "text": "2,00",
+   "conf": 0.9687342196702957
+  },
+  {
+   "text": "1PAN Y PICOSX PERSONA",
+   "conf": 0.9343134022894359
+  },
+  {
+   "text": "0,50",
+   "conf": 0.9247677028179169
+  },
+  {
+   "text": "1TAPA CARRILLERA IBERICA",
+   "conf": 0.9802518958846728
+  },
+  {
+   "text": "2.50",
+   "conf": 0.8848187029361725
+  },
+  {
+   "text": "1SALMOREJO",
+   "conf": 0.9837715685367584
+  },
+  {
+   "text": "4,00",
+   "conf": 0.9696126729249954
+  },
+  {
+   "text": "20.90",
+   "conf": 0.9870253205299377
+  },
+  {
+   "text": "GRACIAS POR SU VISITA",
+   "conf": 0.9519679489589873
+  }
+ ],
+ "mean_conf": 0.9633,
+ "low_conf_share": 0.0,
+ "latency_ms": 3010,
+ "fields": {
+  "company": "GASTROBAR EL",
+  "date": "2013-11-14",
+  "total": 20.9
+ },
+ "rule_reasons": [
+  "total_no_keyword_fallback_max"
+ ],
+ "total_candidates": [
+  2.5,
+  20.9
+ ],
+ "key": "W0069_3823"
+}

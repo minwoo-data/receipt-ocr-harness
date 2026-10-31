@@ -1,0 +1,549 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "Re",
+  "a TQ FOR SHOPPING WITH myNEWS.com",
+  "Bee PAGOH REST AND SERVICE AREA",
+  "ge. LOT RL, KWS REHAT & RAWAT PAGOH ARAN UTARA,",
+  "eae ' SIMPANG AMPAT PAGOH, LEBLHRAYA UTARA SELATAN,",
+  "ee 84600,PAGOK,JOHOR",
+  "eet | myNeWScareline : 1800 28 1231",
+  "Bee myNEWScareline@mynews.com.mny",
+  "hee MYNEW!S RETAIL SB(305295-X) FKA BISON STORES 88",
+  "eee ‘TAY REG ID CBP 000709361664",
+  "pease QIy, PRICE DISC | AMT",
+  "Eee JALAN ALAN &PIgja fay)",
+  "ae 02 a 10.00 0.00 10.90 ZRL",
+  "oo . SUB TOTAL 10.00",
+  "i ae GRAND TOTAL 10.00",
+  "1S eae CASH 20,00 MYR 20.60",
+  "aie ene CHANGE DUE 40.00",
+  "ie TOTAL QTY 2",
+  "Chee eee",
+  "Beg ZRL:0% GOODS: 10.00 TAX: 0.00",
+  "as 23/03/2018 9:34:40 4M",
+  "ee : BILL 48550-389 - 4768- 2203180213",
+  "fe PRICE IS GST INCLUSIVE",
+  "prmeere 60",
+  "2"
+ ],
+ "tokens": [
+  {
+   "text": "Re",
+   "conf": 0.45
+  },
+  {
+   "text": "a",
+   "conf": 0.16
+  },
+  {
+   "text": "TQ",
+   "conf": 0.0
+  },
+  {
+   "text": "FOR",
+   "conf": 0.0
+  },
+  {
+   "text": "SHOPPING",
+   "conf": 0.93
+  },
+  {
+   "text": "WITH",
+   "conf": 0.93
+  },
+  {
+   "text": "myNEWS.com",
+   "conf": 0.9
+  },
+  {
+   "text": "Bee",
+   "conf": 0.26
+  },
+  {
+   "text": "PAGOH",
+   "conf": 0.84
+  },
+  {
+   "text": "REST",
+   "conf": 0.72
+  },
+  {
+   "text": "AND",
+   "conf": 0.72
+  },
+  {
+   "text": "SERVICE",
+   "conf": 0.96
+  },
+  {
+   "text": "AREA",
+   "conf": 0.94
+  },
+  {
+   "text": "ge.",
+   "conf": 0.29
+  },
+  {
+   "text": "LOT",
+   "conf": 0.95
+  },
+  {
+   "text": "RL,",
+   "conf": 0.66
+  },
+  {
+   "text": "KWS",
+   "conf": 0.86
+  },
+  {
+   "text": "REHAT",
+   "conf": 0.84
+  },
+  {
+   "text": "&",
+   "conf": 0.92
+  },
+  {
+   "text": "RAWAT",
+   "conf": 0.9
+  },
+  {
+   "text": "PAGOH",
+   "conf": 0.92
+  },
+  {
+   "text": "ARAN",
+   "conf": 0.0
+  },
+  {
+   "text": "UTARA,",
+   "conf": 0.91
+  },
+  {
+   "text": "eae",
+   "conf": 0.29
+  },
+  {
+   "text": "'",
+   "conf": 0.0
+  },
+  {
+   "text": "SIMPANG",
+   "conf": 0.92
+  },
+  {
+   "text": "AMPAT",
+   "conf": 0.92
+  },
+  {
+   "text": "PAGOH,",
+   "conf": 0.65
+  },
+  {
+   "text": "LEBLHRAYA",
+   "conf": 0.67
+  },
+  {
+   "text": "UTARA",
+   "conf": 0.91
+  },
+  {
+   "text": "SELATAN,",
+   "conf": 0.0
+  },
+  {
+   "text": "ee",
+   "conf": 0.23
+  },
+  {
+   "text": "84600,PAGOK,JOHOR",
+   "conf": 0.31
+  },
+  {
+   "text": "eet",
+   "conf": 0.0
+  },
+  {
+   "text": "|",
+   "conf": 0.23
+  },
+  {
+   "text": "myNeWScareline",
+   "conf": 0.35
+  },
+  {
+   "text": ":",
+   "conf": 0.74
+  },
+  {
+   "text": "1800",
+   "conf": 0.91
+  },
+  {
+   "text": "28",
+   "conf": 0.74
+  },
+  {
+   "text": "1231",
+   "conf": 0.85
+  },
+  {
+   "text": "Bee",
+   "conf": 0.3
+  },
+  {
+   "text": "myNEWScareline@mynews.com.mny",
+   "conf": 0.0
+  },
+  {
+   "text": "hee",
+   "conf": 0.31
+  },
+  {
+   "text": "MYNEW!S",
+   "conf": 0.17
+  },
+  {
+   "text": "RETAIL",
+   "conf": 0.93
+  },
+  {
+   "text": "SB(305295-X)",
+   "conf": 0.13
+  },
+  {
+   "text": "FKA",
+   "conf": 0.9
+  },
+  {
+   "text": "BISON",
+   "conf": 0.93
+  },
+  {
+   "text": "STORES",
+   "conf": 0.96
+  },
+  {
+   "text": "88",
+   "conf": 0.49
+  },
+  {
+   "text": "eee",
+   "conf": 0.32
+  },
+  {
+   "text": "‘TAY",
+   "conf": 0.73
+  },
+  {
+   "text": "REG",
+   "conf": 0.88
+  },
+  {
+   "text": "ID",
+   "conf": 0.76
+  },
+  {
+   "text": "CBP",
+   "conf": 0.76
+  },
+  {
+   "text": "000709361664",
+   "conf": 0.73
+  },
+  {
+   "text": "pease",
+   "conf": 0.2
+  },
+  {
+   "text": "QIy,",
+   "conf": 0.0
+  },
+  {
+   "text": "PRICE",
+   "conf": 0.61
+  },
+  {
+   "text": "DISC",
+   "conf": 0.39
+  },
+  {
+   "text": "|",
+   "conf": 0.33
+  },
+  {
+   "text": "AMT",
+   "conf": 0.62
+  },
+  {
+   "text": "Eee",
+   "conf": 0.25
+  },
+  {
+   "text": "JALAN",
+   "conf": 0.6
+  },
+  {
+   "text": "ALAN",
+   "conf": 0.6
+  },
+  {
+   "text": "&PIgja",
+   "conf": 0.0
+  },
+  {
+   "text": "fay)",
+   "conf": 0.09
+  },
+  {
+   "text": "ae",
+   "conf": 0.35
+  },
+  {
+   "text": "02",
+   "conf": 0.83
+  },
+  {
+   "text": "a",
+   "conf": 0.81
+  },
+  {
+   "text": "10.00",
+   "conf": 0.6
+  },
+  {
+   "text": "0.00",
+   "conf": 0.61
+  },
+  {
+   "text": "10.90",
+   "conf": 0.35
+  },
+  {
+   "text": "ZRL",
+   "conf": 0.69
+  },
+  {
+   "text": "oo",
+   "conf": 0.24
+  },
+  {
+   "text": ".",
+   "conf": 0.24
+  },
+  {
+   "text": "SUB",
+   "conf": 0.73
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.73
+  },
+  {
+   "text": "10.00",
+   "conf": 0.82
+  },
+  {
+   "text": "i",
+   "conf": 0.12
+  },
+  {
+   "text": "ae",
+   "conf": 0.1
+  },
+  {
+   "text": "GRAND",
+   "conf": 0.92
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.96
+  },
+  {
+   "text": "10.00",
+   "conf": 0.69
+  },
+  {
+   "text": "1S",
+   "conf": 0.21
+  },
+  {
+   "text": "eae",
+   "conf": 0.17
+  },
+  {
+   "text": "CASH",
+   "conf": 0.87
+  },
+  {
+   "text": "20,00",
+   "conf": 0.96
+  },
+  {
+   "text": "MYR",
+   "conf": 0.93
+  },
+  {
+   "text": "20.60",
+   "conf": 0.9
+  },
+  {
+   "text": "aie",
+   "conf": 0.0
+  },
+  {
+   "text": "ene",
+   "conf": 0.03
+  },
+  {
+   "text": "CHANGE",
+   "conf": 0.94
+  },
+  {
+   "text": "DUE",
+   "conf": 0.81
+  },
+  {
+   "text": "40.00",
+   "conf": 0.76
+  },
+  {
+   "text": "ie",
+   "conf": 0.1
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.95
+  },
+  {
+   "text": "QTY",
+   "conf": 0.81
+  },
+  {
+   "text": "2",
+   "conf": 0.53
+  },
+  {
+   "text": "Chee",
+   "conf": 0.31
+  },
+  {
+   "text": "eee",
+   "conf": 0.19
+  },
+  {
+   "text": "Beg",
+   "conf": 0.16
+  },
+  {
+   "text": "ZRL:0%",
+   "conf": 0.63
+  },
+  {
+   "text": "GOODS:",
+   "conf": 0.08
+  },
+  {
+   "text": "10.00",
+   "conf": 0.08
+  },
+  {
+   "text": "TAX:",
+   "conf": 0.6
+  },
+  {
+   "text": "0.00",
+   "conf": 0.78
+  },
+  {
+   "text": "as",
+   "conf": 0.19
+  },
+  {
+   "text": "23/03/2018",
+   "conf": 0.92
+  },
+  {
+   "text": "9:34:40",
+   "conf": 0.0
+  },
+  {
+   "text": "4M",
+   "conf": 0.51
+  },
+  {
+   "text": "ee",
+   "conf": 0.46
+  },
+  {
+   "text": ":",
+   "conf": 0.17
+  },
+  {
+   "text": "BILL",
+   "conf": 0.8
+  },
+  {
+   "text": "48550-389",
+   "conf": 0.16
+  },
+  {
+   "text": "-",
+   "conf": 0.39
+  },
+  {
+   "text": "4768-",
+   "conf": 0.41
+  },
+  {
+   "text": "2203180213",
+   "conf": 0.45
+  },
+  {
+   "text": "fe",
+   "conf": 0.34
+  },
+  {
+   "text": "PRICE",
+   "conf": 0.56
+  },
+  {
+   "text": "IS",
+   "conf": 0.56
+  },
+  {
+   "text": "GST",
+   "conf": 0.93
+  },
+  {
+   "text": "INCLUSIVE",
+   "conf": 0.92
+  },
+  {
+   "text": "prmeere",
+   "conf": 0.0
+  },
+  {
+   "text": "60",
+   "conf": 0.0
+  },
+  {
+   "text": "2",
+   "conf": 0.11
+  }
+ ],
+ "mean_conf": 0.5257,
+ "low_conf_share": 0.4524,
+ "latency_ms": 2251,
+ "fields": {
+  "company": "A TQ FOR SHOPPING WITH MYNEWS COM",
+  "date": "2018-03-23",
+  "total": 10.0
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  10.0
+ ],
+ "key": "X51005442378"
+}

@@ -1,0 +1,393 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "EVERGREEN LIGHT SDN BHD",
+  "(E7ESS-Li}",
+  "M3.7-1, JALAN PUTER} 7/14,",
+  "BANDAR PUTER,",
+  "47700 PUCHONG, GELANGOR",
+  "TEUFAX: 03-80609719",
+  "(NOD GET: 000389363472 }",
+  ": Hi: 142507",
+  "EDDIE #01-04 VEIS2017 (7:21",
+  "&COnE TY PRE aT",
+  "ViS9é FG 12.26 24.575",
+  "PROEHE (OW LED ETICK",
+  "SUB-TOTAL 24,52",
+  "Tote! GETIE} 1.47",
+  "SUG8-NSTAL 25,93",
+  "ROUNDING ADILIET 7.04",
+  "TOTAL ITEM(E? 1",
+  "TOTAL QUANTITY ; 2",
+  "RM",
+  "Total Incl GST 26.00",
+  "‘il h",
+  "Pay Cash 26.00",
+  "Change 0.00",
+  "GET Texsble Ant GET Amt",
+  "S-SRiE)- 6% 24.52 i147",
+  "THAN YCLI",
+  "GOODE GOLD ARE NOT REFUNDABLE FOR CAEH."
+ ],
+ "tokens": [
+  {
+   "text": "EVERGREEN",
+   "conf": 0.95
+  },
+  {
+   "text": "LIGHT",
+   "conf": 0.95
+  },
+  {
+   "text": "SDN",
+   "conf": 0.95
+  },
+  {
+   "text": "BHD",
+   "conf": 0.95
+  },
+  {
+   "text": "(E7ESS-Li}",
+   "conf": 0.0
+  },
+  {
+   "text": "M3.7-1,",
+   "conf": 0.0
+  },
+  {
+   "text": "JALAN",
+   "conf": 0.95
+  },
+  {
+   "text": "PUTER}",
+   "conf": 0.48
+  },
+  {
+   "text": "7/14,",
+   "conf": 0.76
+  },
+  {
+   "text": "BANDAR",
+   "conf": 0.86
+  },
+  {
+   "text": "PUTER,",
+   "conf": 0.0
+  },
+  {
+   "text": "47700",
+   "conf": 0.86
+  },
+  {
+   "text": "PUCHONG,",
+   "conf": 0.84
+  },
+  {
+   "text": "GELANGOR",
+   "conf": 0.51
+  },
+  {
+   "text": "TEUFAX:",
+   "conf": 0.44
+  },
+  {
+   "text": "03-80609719",
+   "conf": 0.0
+  },
+  {
+   "text": "(NOD",
+   "conf": 0.02
+  },
+  {
+   "text": "GET:",
+   "conf": 0.83
+  },
+  {
+   "text": "000389363472",
+   "conf": 0.58
+  },
+  {
+   "text": "}",
+   "conf": 0.88
+  },
+  {
+   "text": ":",
+   "conf": 0.37
+  },
+  {
+   "text": "Hi:",
+   "conf": 0.26
+  },
+  {
+   "text": "142507",
+   "conf": 0.82
+  },
+  {
+   "text": "EDDIE",
+   "conf": 0.78
+  },
+  {
+   "text": "#01-04",
+   "conf": 0.3
+  },
+  {
+   "text": "VEIS2017",
+   "conf": 0.0
+  },
+  {
+   "text": "(7:21",
+   "conf": 0.32
+  },
+  {
+   "text": "&COnE",
+   "conf": 0.0
+  },
+  {
+   "text": "TY",
+   "conf": 0.25
+  },
+  {
+   "text": "PRE",
+   "conf": 0.44
+  },
+  {
+   "text": "aT",
+   "conf": 0.6
+  },
+  {
+   "text": "ViS9é",
+   "conf": 0.0
+  },
+  {
+   "text": "FG",
+   "conf": 0.1
+  },
+  {
+   "text": "12.26",
+   "conf": 0.91
+  },
+  {
+   "text": "24.575",
+   "conf": 0.72
+  },
+  {
+   "text": "PROEHE",
+   "conf": 0.44
+  },
+  {
+   "text": "(OW",
+   "conf": 0.48
+  },
+  {
+   "text": "LED",
+   "conf": 0.77
+  },
+  {
+   "text": "ETICK",
+   "conf": 0.27
+  },
+  {
+   "text": "SUB-TOTAL",
+   "conf": 0.6
+  },
+  {
+   "text": "24,52",
+   "conf": 0.7
+  },
+  {
+   "text": "Tote!",
+   "conf": 0.77
+  },
+  {
+   "text": "GETIE}",
+   "conf": 0.67
+  },
+  {
+   "text": "1.47",
+   "conf": 0.66
+  },
+  {
+   "text": "SUG8-NSTAL",
+   "conf": 0.31
+  },
+  {
+   "text": "25,93",
+   "conf": 0.63
+  },
+  {
+   "text": "ROUNDING",
+   "conf": 0.93
+  },
+  {
+   "text": "ADILIET",
+   "conf": 0.29
+  },
+  {
+   "text": "7.04",
+   "conf": 0.42
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.18
+  },
+  {
+   "text": "ITEM(E?",
+   "conf": 0.0
+  },
+  {
+   "text": "1",
+   "conf": 0.8
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.95
+  },
+  {
+   "text": "QUANTITY",
+   "conf": 0.12
+  },
+  {
+   "text": ";",
+   "conf": 0.5
+  },
+  {
+   "text": "2",
+   "conf": 0.81
+  },
+  {
+   "text": "RM",
+   "conf": 0.92
+  },
+  {
+   "text": "Total",
+   "conf": 0.94
+  },
+  {
+   "text": "Incl",
+   "conf": 0.62
+  },
+  {
+   "text": "GST",
+   "conf": 0.94
+  },
+  {
+   "text": "26.00",
+   "conf": 0.95
+  },
+  {
+   "text": "‘il",
+   "conf": 0.15
+  },
+  {
+   "text": "h",
+   "conf": 0.0
+  },
+  {
+   "text": "Pay",
+   "conf": 0.94
+  },
+  {
+   "text": "Cash",
+   "conf": 0.94
+  },
+  {
+   "text": "26.00",
+   "conf": 0.96
+  },
+  {
+   "text": "Change",
+   "conf": 0.57
+  },
+  {
+   "text": "0.00",
+   "conf": 0.96
+  },
+  {
+   "text": "GET",
+   "conf": 0.95
+  },
+  {
+   "text": "Texsble",
+   "conf": 0.55
+  },
+  {
+   "text": "Ant",
+   "conf": 0.39
+  },
+  {
+   "text": "GET",
+   "conf": 0.79
+  },
+  {
+   "text": "Amt",
+   "conf": 0.79
+  },
+  {
+   "text": "S-SRiE)-",
+   "conf": 0.46
+  },
+  {
+   "text": "6%",
+   "conf": 0.76
+  },
+  {
+   "text": "24.52",
+   "conf": 0.56
+  },
+  {
+   "text": "i147",
+   "conf": 0.07
+  },
+  {
+   "text": "THAN",
+   "conf": 0.52
+  },
+  {
+   "text": "YCLI",
+   "conf": 0.24
+  },
+  {
+   "text": "GOODE",
+   "conf": 0.75
+  },
+  {
+   "text": "GOLD",
+   "conf": 0.68
+  },
+  {
+   "text": "ARE",
+   "conf": 0.9
+  },
+  {
+   "text": "NOT",
+   "conf": 0.89
+  },
+  {
+   "text": "REFUNDABLE",
+   "conf": 0.91
+  },
+  {
+   "text": "FOR",
+   "conf": 0.81
+  },
+  {
+   "text": "CAEH.",
+   "conf": 0.32
+  }
+ ],
+ "mean_conf": 0.5722,
+ "low_conf_share": 0.3837,
+ "latency_ms": 1856,
+ "fields": {
+  "company": "EVERGREEN LIGHT SDN BHD",
+  "date": null,
+  "total": 26.0
+ },
+ "rule_reasons": [
+  "date_not_found"
+ ],
+ "total_candidates": [
+  26.0
+ ],
+ "key": "X51005568892"
+}

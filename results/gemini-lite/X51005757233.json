@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.1-flash-lite",
+ "provider": "gemini",
+ "raw_text": "{\n  \"vendor\": \"Guardian Health And Beauty Sdn Bhd\",\n  \"date\": \"2018-03-09\",\n  \"subtotal\": 9.39,\n  \"tax\": 0.56,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 9.95,\n  \"currency\": \"MYR\",\n  \"confidence\": 0.98,\n  \"notes\": null\n}",
+ "data": {
+  "vendor": "Guardian Health And Beauty Sdn Bhd",
+  "date": "2018-03-09",
+  "subtotal": 9.39,
+  "tax": 0.56,
+  "tip": null,
+  "discount": null,
+  "total": 9.95,
+  "currency": "MYR",
+  "confidence": 0.98,
+  "notes": null
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1461,
+  "output_tokens": 107,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.000526,
+ "latency_ms": 1626,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.1-flash-lite",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.1-flash-lite"
+ ],
+ "key": "X51005757233"
+}

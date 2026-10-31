@@ -1,0 +1,221 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "EVERGREENLIGHTSDNBHD",
+  "(827859-0)",
+  "NO.7-1,JALANPUTER711.",
+  "BANDARFUTERI,",
+  "47100PUCHONG,EELANGOR",
+  "TELFAX:03-80609719",
+  "(NO.1D GET:000389353472)",
+  "TAXINVOICE",
+  "NO.:142507",
+  "EDDIE #01-01 18/092017 17:21",
+  "B.CODE OTY UVPRICE AMT",
+  "11598 17.26",
+  "PRCEMKIOWLED ETICK",
+  "SUB-TDTAL 24.52",
+  "1.47",
+  "BUB-TOTAL 6552",
+  "ROUNDINGADLILIET 0.01",
+  "TOTALITEM(E1",
+  "Z:ALLNVNOVIOL",
+  "RM",
+  "TotalIncl GST 26.00",
+  "Pay Cash 26.00",
+  "Change 0.00",
+  "180 TBxBbk AnGETAmt",
+  "5-8R（E)-6% 24.52 147",
+  "OAXNVHL",
+  "COODEBOLDAREHCT REFUINDABLEFCRCAEH"
+ ],
+ "tokens": [
+  {
+   "text": "EVERGREENLIGHTSDNBHD",
+   "conf": 0.9644164919853211
+  },
+  {
+   "text": "(827859-0)",
+   "conf": 0.920923912525177
+  },
+  {
+   "text": "NO.7-1,JALANPUTER711.",
+   "conf": 0.8589936948957897
+  },
+  {
+   "text": "BANDARFUTERI,",
+   "conf": 0.9436872005462646
+  },
+  {
+   "text": "47100PUCHONG,EELANGOR",
+   "conf": 0.8540027822766986
+  },
+  {
+   "text": "TELFAX:03-80609719",
+   "conf": 0.9902016288704343
+  },
+  {
+   "text": "(NO.1D GET:000389353472)",
+   "conf": 0.8486696208516756
+  },
+  {
+   "text": "TAXINVOICE",
+   "conf": 0.9873098850250244
+  },
+  {
+   "text": "NO.:142507",
+   "conf": 0.9557677090168
+  },
+  {
+   "text": "EDDIE",
+   "conf": 0.9830828666687011
+  },
+  {
+   "text": "#01-01",
+   "conf": 0.8961361745993296
+  },
+  {
+   "text": "18/092017",
+   "conf": 0.9578317337565951
+  },
+  {
+   "text": "17:21",
+   "conf": 0.9702037811279297
+  },
+  {
+   "text": "B.CODE",
+   "conf": 0.9843878845373789
+  },
+  {
+   "text": "OTY",
+   "conf": 0.6975248654683431
+  },
+  {
+   "text": "UVPRICE",
+   "conf": 0.9695065362112862
+  },
+  {
+   "text": "AMT",
+   "conf": 0.9835931261380514
+  },
+  {
+   "text": "11598",
+   "conf": 0.9962893962860108
+  },
+  {
+   "text": "17.26",
+   "conf": 0.983023488521576
+  },
+  {
+   "text": "PRCEMKIOWLED ETICK",
+   "conf": 0.8815182679229312
+  },
+  {
+   "text": "SUB-TDTAL",
+   "conf": 0.8966422180334727
+  },
+  {
+   "text": "24.52",
+   "conf": 0.9796152830123901
+  },
+  {
+   "text": "1.47",
+   "conf": 0.9886879026889801
+  },
+  {
+   "text": "BUB-TOTAL",
+   "conf": 0.8413203855355581
+  },
+  {
+   "text": "6552",
+   "conf": 0.5003580749034882
+  },
+  {
+   "text": "ROUNDINGADLILIET",
+   "conf": 0.9017966091632843
+  },
+  {
+   "text": "0.01",
+   "conf": 0.9965957850217819
+  },
+  {
+   "text": "TOTALITEM(E1",
+   "conf": 0.8780093366901079
+  },
+  {
+   "text": "Z:ALLNVNOVIOL",
+   "conf": 0.5969162652125726
+  },
+  {
+   "text": "RM",
+   "conf": 0.9335913956165314
+  },
+  {
+   "text": "TotalIncl GST",
+   "conf": 0.8866677284240723
+  },
+  {
+   "text": "26.00",
+   "conf": 0.9993757247924805
+  },
+  {
+   "text": "Pay Cash",
+   "conf": 0.9522005319595337
+  },
+  {
+   "text": "26.00",
+   "conf": 0.9993535161018372
+  },
+  {
+   "text": "Change",
+   "conf": 0.9881183703740438
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9988535493612289
+  },
+  {
+   "text": "180",
+   "conf": 0.6672559479872385
+  },
+  {
+   "text": "TBxBbk AnGETAmt",
+   "conf": 0.7995023190975189
+  },
+  {
+   "text": "5-8R（E)-6%",
+   "conf": 0.738547283411026
+  },
+  {
+   "text": "24.52",
+   "conf": 0.9944531917572021
+  },
+  {
+   "text": "147",
+   "conf": 0.8775926232337952
+  },
+  {
+   "text": "OAXNVHL",
+   "conf": 0.6497038986001696
+  },
+  {
+   "text": "COODEBOLDAREHCT REFUINDABLEFCRCAEH",
+   "conf": 0.8609064948909423
+  }
+ ],
+ "mean_conf": 0.8966,
+ "low_conf_share": 0.0,
+ "latency_ms": 5246,
+ "fields": {
+  "company": "EVERGREENLIGHTSDNBHD",
+  "date": null,
+  "total": 26.0
+ },
+ "rule_reasons": [
+  "date_not_found"
+ ],
+ "total_candidates": [
+  26.0
+ ],
+ "key": "X51005568892"
+}

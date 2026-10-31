@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.6-flash",
+ "provider": "gemini",
+ "raw_text": "{\"vendor\": \"APPLEBEE'S NEIGHBORHOOD GRILL & BAR\", \"date\": \"2016-01-30\", \"subtotal\": 33.49, \"tax\": 2.68, \"tip\": null, \"discount\": null, \"total\": 36.17, \"currency\": \"USD\", \"confidence\": 0.95, \"notes\": null}",
+ "data": {
+  "vendor": "APPLEBEE'S NEIGHBORHOOD GRILL & BAR",
+  "date": "2016-01-30",
+  "subtotal": 33.49,
+  "tax": 2.68,
+  "tip": null,
+  "discount": null,
+  "total": 36.17,
+  "currency": "USD",
+  "confidence": 0.95,
+  "notes": null
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1469,
+  "output_tokens": 94,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.001454,
+ "latency_ms": 1329,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.6-flash",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.6-flash"
+ ],
+ "key": "W0196_e134cb824a29"
+}

@@ -1,0 +1,187 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "DQ",
+  "DAIRY QUEEN",
+  "1641SPRING ROAD SE",
+  "SHYRNA,GA 30080",
+  "(770)432-3809",
+  "DATE 04/27/2017 THU",
+  "CHECK# 127",
+  "HD COOKIE BLZ $3.99",
+  "OREO 0.00",
+  "XTRA COOKIE $0.79",
+  "DATE:THU04/27/2017 TIME13:15",
+  "***DRIVETHRU***",
+  "SUBTOTAL $5.07",
+  "TAXABLE1 $4.78",
+  "TAX1AMT $0.29",
+  "TOTAL $5.07",
+  "CHARGE $5.07",
+  "*0RDER#0173*",
+  "NO.000075 REG01 DRIVE THRU TIME13:17",
+  "THANK YOU FOR",
+  "YOUR PATRONAGE",
+  "PLEASE COME AGAIN!",
+  "WWW.DAIRYQUEEN.COM"
+ ],
+ "tokens": [
+  {
+   "text": "DQ",
+   "conf": 0.9916951656341553
+  },
+  {
+   "text": "DAIRY QUEEN",
+   "conf": 0.959876374764876
+  },
+  {
+   "text": "1641SPRING ROAD SE",
+   "conf": 0.9359109434816573
+  },
+  {
+   "text": "SHYRNA,GA 30080",
+   "conf": 0.9152178247769673
+  },
+  {
+   "text": "(770)432-3809",
+   "conf": 0.9507017502417932
+  },
+  {
+   "text": "DATE",
+   "conf": 0.9939218759536743
+  },
+  {
+   "text": "04/27/2017",
+   "conf": 0.996627402305603
+  },
+  {
+   "text": "THU",
+   "conf": 0.9870075186093649
+  },
+  {
+   "text": "CHECK#",
+   "conf": 0.9720011154810587
+  },
+  {
+   "text": "127",
+   "conf": 0.9988398949305216
+  },
+  {
+   "text": "HD COOKIE BLZ",
+   "conf": 0.9014610418906579
+  },
+  {
+   "text": "$3.99",
+   "conf": 0.9933963775634765
+  },
+  {
+   "text": "OREO",
+   "conf": 0.9868266731500626
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9954223781824112
+  },
+  {
+   "text": "XTRA COOKIE",
+   "conf": 0.970034734769301
+  },
+  {
+   "text": "$0.79",
+   "conf": 0.9950103640556336
+  },
+  {
+   "text": "DATE:THU04/27/2017",
+   "conf": 0.9889965024259355
+  },
+  {
+   "text": "TIME13:15",
+   "conf": 0.980829570028517
+  },
+  {
+   "text": "***DRIVETHRU***",
+   "conf": 0.9932096799214681
+  },
+  {
+   "text": "SUBTOTAL",
+   "conf": 0.9939967542886734
+  },
+  {
+   "text": "$5.07",
+   "conf": 0.9946699142456055
+  },
+  {
+   "text": "TAXABLE1",
+   "conf": 0.9855027049779892
+  },
+  {
+   "text": "$4.78",
+   "conf": 0.993112313747406
+  },
+  {
+   "text": "TAX1AMT",
+   "conf": 0.9683312433106559
+  },
+  {
+   "text": "$0.29",
+   "conf": 0.9896167159080506
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.9940053582191467
+  },
+  {
+   "text": "$5.07",
+   "conf": 0.9975986123085022
+  },
+  {
+   "text": "CHARGE",
+   "conf": 0.9957604308923086
+  },
+  {
+   "text": "$5.07",
+   "conf": 0.9970744729042054
+  },
+  {
+   "text": "*0RDER#0173*",
+   "conf": 0.9369790405035019
+  },
+  {
+   "text": "NO.000075 REG01 DRIVE THRU",
+   "conf": 0.9567766648072463
+  },
+  {
+   "text": "TIME13:17",
+   "conf": 0.9803891513082716
+  },
+  {
+   "text": "THANK YOU FOR",
+   "conf": 0.9361602618144109
+  },
+  {
+   "text": "YOUR PATRONAGE",
+   "conf": 0.9750831127166748
+  },
+  {
+   "text": "PLEASE COME AGAIN!",
+   "conf": 0.9258078204260932
+  },
+  {
+   "text": "WWW.DAIRYQUEEN.COM",
+   "conf": 0.987458285358217
+  }
+ ],
+ "mean_conf": 0.9754,
+ "low_conf_share": 0.0,
+ "latency_ms": 3242,
+ "fields": {
+  "company": "DAIRY QUEEN",
+  "date": "2017-04-27",
+  "total": 5.07
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  5.07
+ ],
+ "key": "W0190_6d1f665628c9"
+}

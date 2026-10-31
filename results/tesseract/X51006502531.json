@@ -1,0 +1,455 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "Welcome to the Family G",
+  "2",
+  "FamilyMart",
+  "Maxincome Resources Sdn Bhd (383322-2}",
+  "No 16A, Jalan Ascaka U8/83, Bukit Jelutong.",
+  "40150 Shah Alam, Selangor, DE.",
+  "GST ID : 00048594688",
+  "#0023 KLIA2 ARRIVAL",
+  "Tel No: -",
+  "TAX INVOICE",
+  "16/04/2018 16:28 #0023.48863",
+  "POS: 04 CSH: 00023122",
+  "Staff: REKHA",
+  "Desc Amt (RM)",
+  "Mar lboroMegaIceBlstBox 17. 00SR",
+  "Alladdin Silk Logo 2.58 1.80SR",
+  "SUB TOTAL (Inc GST) 18.8%:",
+  "TOTAL le0l",
+  "CASH 50.00",
+  "CHANGE 31.20",
+  "# ITEMS SOLD 2",
+  "T« Code Amt(RM) = Tax(RM)",
+  "6%) 17.74 1.06",
+  "MK YOU & PLEASE COME AGAIN",
+  "eK",
+  "‘ PART OF OUR FAMILY TODAY!",
+  "> CEBOOK : FamilyMarthy",
+  "ww. familymart .com.my"
+ ],
+ "tokens": [
+  {
+   "text": "Welcome",
+   "conf": 0.95
+  },
+  {
+   "text": "to",
+   "conf": 0.94
+  },
+  {
+   "text": "the",
+   "conf": 0.94
+  },
+  {
+   "text": "Family",
+   "conf": 0.96
+  },
+  {
+   "text": "G",
+   "conf": 0.32
+  },
+  {
+   "text": "2",
+   "conf": 0.48
+  },
+  {
+   "text": "FamilyMart",
+   "conf": 0.9
+  },
+  {
+   "text": "Maxincome",
+   "conf": 0.91
+  },
+  {
+   "text": "Resources",
+   "conf": 0.94
+  },
+  {
+   "text": "Sdn",
+   "conf": 0.64
+  },
+  {
+   "text": "Bhd",
+   "conf": 0.93
+  },
+  {
+   "text": "(383322-2}",
+   "conf": 0.07
+  },
+  {
+   "text": "No",
+   "conf": 0.93
+  },
+  {
+   "text": "16A,",
+   "conf": 0.83
+  },
+  {
+   "text": "Jalan",
+   "conf": 0.92
+  },
+  {
+   "text": "Ascaka",
+   "conf": 0.38
+  },
+  {
+   "text": "U8/83,",
+   "conf": 0.9
+  },
+  {
+   "text": "Bukit",
+   "conf": 0.93
+  },
+  {
+   "text": "Jelutong.",
+   "conf": 0.28
+  },
+  {
+   "text": "40150",
+   "conf": 0.86
+  },
+  {
+   "text": "Shah",
+   "conf": 0.96
+  },
+  {
+   "text": "Alam,",
+   "conf": 0.95
+  },
+  {
+   "text": "Selangor,",
+   "conf": 0.93
+  },
+  {
+   "text": "DE.",
+   "conf": 0.93
+  },
+  {
+   "text": "GST",
+   "conf": 0.85
+  },
+  {
+   "text": "ID",
+   "conf": 0.85
+  },
+  {
+   "text": ":",
+   "conf": 0.28
+  },
+  {
+   "text": "00048594688",
+   "conf": 0.11
+  },
+  {
+   "text": "#0023",
+   "conf": 0.91
+  },
+  {
+   "text": "KLIA2",
+   "conf": 0.79
+  },
+  {
+   "text": "ARRIVAL",
+   "conf": 0.96
+  },
+  {
+   "text": "Tel",
+   "conf": 0.94
+  },
+  {
+   "text": "No:",
+   "conf": 0.92
+  },
+  {
+   "text": "-",
+   "conf": 0.92
+  },
+  {
+   "text": "TAX",
+   "conf": 0.96
+  },
+  {
+   "text": "INVOICE",
+   "conf": 0.96
+  },
+  {
+   "text": "16/04/2018",
+   "conf": 0.96
+  },
+  {
+   "text": "16:28",
+   "conf": 0.96
+  },
+  {
+   "text": "#0023.48863",
+   "conf": 0.31
+  },
+  {
+   "text": "POS:",
+   "conf": 0.96
+  },
+  {
+   "text": "04",
+   "conf": 0.92
+  },
+  {
+   "text": "CSH:",
+   "conf": 0.91
+  },
+  {
+   "text": "00023122",
+   "conf": 0.96
+  },
+  {
+   "text": "Staff:",
+   "conf": 0.89
+  },
+  {
+   "text": "REKHA",
+   "conf": 0.91
+  },
+  {
+   "text": "Desc",
+   "conf": 0.96
+  },
+  {
+   "text": "Amt",
+   "conf": 0.92
+  },
+  {
+   "text": "(RM)",
+   "conf": 0.92
+  },
+  {
+   "text": "Mar",
+   "conf": 0.46
+  },
+  {
+   "text": "lboroMegaIceBlstBox",
+   "conf": 0.46
+  },
+  {
+   "text": "17.",
+   "conf": 0.0
+  },
+  {
+   "text": "00SR",
+   "conf": 0.0
+  },
+  {
+   "text": "Alladdin",
+   "conf": 0.92
+  },
+  {
+   "text": "Silk",
+   "conf": 0.96
+  },
+  {
+   "text": "Logo",
+   "conf": 0.95
+  },
+  {
+   "text": "2.58",
+   "conf": 0.9
+  },
+  {
+   "text": "1.80SR",
+   "conf": 0.57
+  },
+  {
+   "text": "SUB",
+   "conf": 0.96
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.96
+  },
+  {
+   "text": "(Inc",
+   "conf": 0.95
+  },
+  {
+   "text": "GST)",
+   "conf": 0.94
+  },
+  {
+   "text": "18.8%:",
+   "conf": 0.0
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.79
+  },
+  {
+   "text": "le0l",
+   "conf": 0.0
+  },
+  {
+   "text": "CASH",
+   "conf": 0.96
+  },
+  {
+   "text": "50.00",
+   "conf": 0.85
+  },
+  {
+   "text": "CHANGE",
+   "conf": 0.96
+  },
+  {
+   "text": "31.20",
+   "conf": 0.95
+  },
+  {
+   "text": "#",
+   "conf": 0.92
+  },
+  {
+   "text": "ITEMS",
+   "conf": 0.96
+  },
+  {
+   "text": "SOLD",
+   "conf": 0.82
+  },
+  {
+   "text": "2",
+   "conf": 0.92
+  },
+  {
+   "text": "T«",
+   "conf": 0.55
+  },
+  {
+   "text": "Code",
+   "conf": 0.95
+  },
+  {
+   "text": "Amt(RM)",
+   "conf": 0.74
+  },
+  {
+   "text": "=",
+   "conf": 0.34
+  },
+  {
+   "text": "Tax(RM)",
+   "conf": 0.56
+  },
+  {
+   "text": "6%)",
+   "conf": 0.95
+  },
+  {
+   "text": "17.74",
+   "conf": 0.77
+  },
+  {
+   "text": "1.06",
+   "conf": 0.88
+  },
+  {
+   "text": "MK",
+   "conf": 0.32
+  },
+  {
+   "text": "YOU",
+   "conf": 0.9
+  },
+  {
+   "text": "&",
+   "conf": 0.9
+  },
+  {
+   "text": "PLEASE",
+   "conf": 0.96
+  },
+  {
+   "text": "COME",
+   "conf": 0.96
+  },
+  {
+   "text": "AGAIN",
+   "conf": 0.96
+  },
+  {
+   "text": "eK",
+   "conf": 0.01
+  },
+  {
+   "text": "‘",
+   "conf": 0.53
+  },
+  {
+   "text": "PART",
+   "conf": 0.96
+  },
+  {
+   "text": "OF",
+   "conf": 0.96
+  },
+  {
+   "text": "OUR",
+   "conf": 0.96
+  },
+  {
+   "text": "FAMILY",
+   "conf": 0.96
+  },
+  {
+   "text": "TODAY!",
+   "conf": 0.96
+  },
+  {
+   "text": ">",
+   "conf": 0.41
+  },
+  {
+   "text": "CEBOOK",
+   "conf": 0.0
+  },
+  {
+   "text": ":",
+   "conf": 0.35
+  },
+  {
+   "text": "FamilyMarthy",
+   "conf": 0.18
+  },
+  {
+   "text": "ww.",
+   "conf": 0.35
+  },
+  {
+   "text": "familymart",
+   "conf": 0.35
+  },
+  {
+   "text": ".com.my",
+   "conf": 0.6
+  }
+ ],
+ "mean_conf": 0.7429,
+ "low_conf_share": 0.23,
+ "latency_ms": 1171,
+ "fields": {
+  "company": "MAXINCOME RESOURCES SDN BHD 2",
+  "date": "2018-04-16",
+  "total": 50.0
+ },
+ "rule_reasons": [
+  "total_no_keyword_fallback_max"
+ ],
+ "total_candidates": [
+  2.58,
+  1.8,
+  50.0,
+  31.2,
+  17.74,
+  1.06
+ ],
+ "key": "X51006502531"
+}

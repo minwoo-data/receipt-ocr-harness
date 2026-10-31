@@ -1,0 +1,170 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "CLOCKED!",
+  "259W.Washington St",
+  "Athens,GA30601",
+  "706-548-9175",
+  "www.clockeddiner.com",
+  "28267",
+  "Debrah Table:01",
+  "04/29/2013 Gst2",
+  "07:14PM",
+  "? Yawk Tofu Pint Two Hearts 5.00 5.00",
+  "Pint Pale 4.75",
+  "010 SLAW BLACK BEAN 1.75 6.00",
+  "SMSPF 2.75",
+  "SubTotal: 25.25",
+  "Sales: 1.77",
+  "Total: 27.02",
+  "Stay Positive!",
+  "Have a Beautiful Day!"
+ ],
+ "tokens": [
+  {
+   "text": "CLOCKED!",
+   "conf": 0.9892942234873772
+  },
+  {
+   "text": "259W.Washington St",
+   "conf": 0.9783758388625251
+  },
+  {
+   "text": "Athens,GA30601",
+   "conf": 0.96552260858672
+  },
+  {
+   "text": "706-548-9175",
+   "conf": 0.9963658253351847
+  },
+  {
+   "text": "www.clockeddiner.com",
+   "conf": 0.9876142233610153
+  },
+  {
+   "text": "28267",
+   "conf": 0.9984961748123169
+  },
+  {
+   "text": "Debrah",
+   "conf": 0.978522260983785
+  },
+  {
+   "text": "Table:01",
+   "conf": 0.9580750986933708
+  },
+  {
+   "text": "04/29/2013",
+   "conf": 0.9922344803810119
+  },
+  {
+   "text": "Gst2",
+   "conf": 0.9899048656225204
+  },
+  {
+   "text": "07:14PM",
+   "conf": 0.9792786070278713
+  },
+  {
+   "text": "Yawk Tofu",
+   "conf": 0.9652462402979533
+  },
+  {
+   "text": "5.00",
+   "conf": 0.9977720826864243
+  },
+  {
+   "text": "?",
+   "conf": 0.5401678681373596
+  },
+  {
+   "text": "Pint Two Hearts",
+   "conf": 0.9623086412747701
+  },
+  {
+   "text": "5.00",
+   "conf": 0.9984941184520721
+  },
+  {
+   "text": "Pint Pale",
+   "conf": 0.9594010048442416
+  },
+  {
+   "text": "4.75",
+   "conf": 0.9951014667749405
+  },
+  {
+   "text": "BLACK BEAN",
+   "conf": 0.977181327342987
+  },
+  {
+   "text": "6.00",
+   "conf": 0.9969512522220612
+  },
+  {
+   "text": "010",
+   "conf": 0.5515346527099609
+  },
+  {
+   "text": "SLAW",
+   "conf": 0.990198016166687
+  },
+  {
+   "text": "1.75",
+   "conf": 0.9931174069643021
+  },
+  {
+   "text": "SMSPF",
+   "conf": 0.9850437641143799
+  },
+  {
+   "text": "2.75",
+   "conf": 0.988517552614212
+  },
+  {
+   "text": "SubTotal:",
+   "conf": 0.9855105479558309
+  },
+  {
+   "text": "25.25",
+   "conf": 0.9967764258384705
+  },
+  {
+   "text": "Sales:",
+   "conf": 0.9832004805405935
+  },
+  {
+   "text": "1.77",
+   "conf": 0.9964821040630341
+  },
+  {
+   "text": "Total:",
+   "conf": 0.9894872307777405
+  },
+  {
+   "text": "27.02",
+   "conf": 0.9976809024810791
+  },
+  {
+   "text": "Stay Positive!",
+   "conf": 0.9639277671064649
+  },
+  {
+   "text": "Have a Beautiful Day!",
+   "conf": 0.9387434479736146
+  }
+ ],
+ "mean_conf": 0.9566,
+ "low_conf_share": 0.0,
+ "latency_ms": 3004,
+ "fields": {
+  "company": "CLOCKED",
+  "date": "2013-04-29",
+  "total": 27.02
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  27.02
+ ],
+ "key": "W0050_d224ea986b4f"
+}

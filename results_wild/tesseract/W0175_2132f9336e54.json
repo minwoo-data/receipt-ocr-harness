@@ -1,0 +1,319 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "Cornerstone cafe",
+  "17 Avenue B",
+  "New York, NY 10009.",
+  "212.228.1260",
+  "Check #: 6178 oye",
+  "Server; Rubi coach",
+  "TO GO: Ching Chong ae",
+  "Customer Name: Ching Chong",
+  "=== 2nd Course ===",
+  "| Steak & Eggs 16.00",
+  "Sub-total 16.00",
+  "Sales Tax 1,42",
+  "TOTA 17,42",
+  "PAYMENTS",
+  "Cash Payment 20,00",
+  "CHANGE 2.58",
+  "TOTAL PAYMENTS 17.42",
+  "TOTAL TIPS 0.00",
+  "Balance, Due 0.00",
+  "Suggested Tips:",
+  "18% = 2,88",
+  "20% = 3.20",
+  "20% = 3.52"
+ ],
+ "tokens": [
+  {
+   "text": "Cornerstone",
+   "conf": 0.72
+  },
+  {
+   "text": "cafe",
+   "conf": 0.92
+  },
+  {
+   "text": "17",
+   "conf": 0.57
+  },
+  {
+   "text": "Avenue",
+   "conf": 0.9
+  },
+  {
+   "text": "B",
+   "conf": 0.83
+  },
+  {
+   "text": "New",
+   "conf": 0.94
+  },
+  {
+   "text": "York,",
+   "conf": 0.94
+  },
+  {
+   "text": "NY",
+   "conf": 0.94
+  },
+  {
+   "text": "10009.",
+   "conf": 0.66
+  },
+  {
+   "text": "212.228.1260",
+   "conf": 0.87
+  },
+  {
+   "text": "Check",
+   "conf": 0.96
+  },
+  {
+   "text": "#:",
+   "conf": 0.64
+  },
+  {
+   "text": "6178",
+   "conf": 0.92
+  },
+  {
+   "text": "oye",
+   "conf": 0.01
+  },
+  {
+   "text": "Server;",
+   "conf": 0.88
+  },
+  {
+   "text": "Rubi",
+   "conf": 0.94
+  },
+  {
+   "text": "coach",
+   "conf": 0.0
+  },
+  {
+   "text": "TO",
+   "conf": 0.8
+  },
+  {
+   "text": "GO:",
+   "conf": 0.87
+  },
+  {
+   "text": "Ching",
+   "conf": 0.96
+  },
+  {
+   "text": "Chong",
+   "conf": 0.96
+  },
+  {
+   "text": "ae",
+   "conf": 0.21
+  },
+  {
+   "text": "Customer",
+   "conf": 0.93
+  },
+  {
+   "text": "Name:",
+   "conf": 0.94
+  },
+  {
+   "text": "Ching",
+   "conf": 0.91
+  },
+  {
+   "text": "Chong",
+   "conf": 0.91
+  },
+  {
+   "text": "===",
+   "conf": 0.94
+  },
+  {
+   "text": "2nd",
+   "conf": 0.95
+  },
+  {
+   "text": "Course",
+   "conf": 0.95
+  },
+  {
+   "text": "===",
+   "conf": 0.86
+  },
+  {
+   "text": "|",
+   "conf": 0.84
+  },
+  {
+   "text": "Steak",
+   "conf": 0.92
+  },
+  {
+   "text": "&",
+   "conf": 0.92
+  },
+  {
+   "text": "Eggs",
+   "conf": 0.61
+  },
+  {
+   "text": "16.00",
+   "conf": 0.95
+  },
+  {
+   "text": "Sub-total",
+   "conf": 0.92
+  },
+  {
+   "text": "16.00",
+   "conf": 0.8
+  },
+  {
+   "text": "Sales",
+   "conf": 0.92
+  },
+  {
+   "text": "Tax",
+   "conf": 0.92
+  },
+  {
+   "text": "1,42",
+   "conf": 0.79
+  },
+  {
+   "text": "TOTA",
+   "conf": 0.92
+  },
+  {
+   "text": "17,42",
+   "conf": 0.78
+  },
+  {
+   "text": "PAYMENTS",
+   "conf": 0.86
+  },
+  {
+   "text": "Cash",
+   "conf": 0.96
+  },
+  {
+   "text": "Payment",
+   "conf": 0.96
+  },
+  {
+   "text": "20,00",
+   "conf": 0.68
+  },
+  {
+   "text": "CHANGE",
+   "conf": 0.95
+  },
+  {
+   "text": "2.58",
+   "conf": 0.79
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.96
+  },
+  {
+   "text": "PAYMENTS",
+   "conf": 0.93
+  },
+  {
+   "text": "17.42",
+   "conf": 0.64
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.96
+  },
+  {
+   "text": "TIPS",
+   "conf": 0.96
+  },
+  {
+   "text": "0.00",
+   "conf": 0.87
+  },
+  {
+   "text": "Balance,",
+   "conf": 0.67
+  },
+  {
+   "text": "Due",
+   "conf": 0.82
+  },
+  {
+   "text": "0.00",
+   "conf": 0.81
+  },
+  {
+   "text": "Suggested",
+   "conf": 0.87
+  },
+  {
+   "text": "Tips:",
+   "conf": 0.96
+  },
+  {
+   "text": "18%",
+   "conf": 0.7
+  },
+  {
+   "text": "=",
+   "conf": 0.96
+  },
+  {
+   "text": "2,88",
+   "conf": 0.73
+  },
+  {
+   "text": "20%",
+   "conf": 0.9
+  },
+  {
+   "text": "=",
+   "conf": 0.9
+  },
+  {
+   "text": "3.20",
+   "conf": 0.92
+  },
+  {
+   "text": "20%",
+   "conf": 0.48
+  },
+  {
+   "text": "=",
+   "conf": 0.81
+  },
+  {
+   "text": "3.52",
+   "conf": 0.78
+  }
+ ],
+ "mean_conf": 0.8228,
+ "low_conf_share": 0.0588,
+ "latency_ms": 351,
+ "fields": {
+  "company": "CORNERSTONE CAFE",
+  "date": null,
+  "total": 0.0
+ },
+ "rule_reasons": [
+  "date_not_found",
+  "total_multiple_keyword_amounts"
+ ],
+ "total_candidates": [
+  17.42,
+  0.0
+ ],
+ "key": "W0175_2132f9336e54"
+}

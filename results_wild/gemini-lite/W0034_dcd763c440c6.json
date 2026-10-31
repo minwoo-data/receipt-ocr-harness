@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.1-flash-lite",
+ "provider": "gemini",
+ "raw_text": "{\n  \"vendor\": \"Sushi Garden Restaurant\",\n  \"date\": \"2015-08-06\",\n  \"subtotal\": 26.00,\n  \"tax\": 1.30,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 27.30,\n  \"currency\": \"CAD\",\n  \"confidence\": 0.98,\n  \"notes\": null\n}",
+ "data": {
+  "vendor": "Sushi Garden Restaurant",
+  "date": "2015-08-06",
+  "subtotal": 26.0,
+  "tax": 1.3,
+  "tip": null,
+  "discount": null,
+  "total": 27.3,
+  "currency": "CAD",
+  "confidence": 0.98,
+  "notes": null
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1458,
+  "output_tokens": 106,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.000523,
+ "latency_ms": 1511,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.1-flash-lite",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.1-flash-lite"
+ ],
+ "key": "W0034_dcd763c440c6"
+}

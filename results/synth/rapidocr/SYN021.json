@@ -1,0 +1,167 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "GREENLEAFGROCERSDNBHD",
+  "12JALAN TUN RAZAK，50400 KUALA LUMPUR",
+  "TAX INVOICE",
+  "Date:22/03/2025 Time:13:42",
+  "2XSTEAMED FISH 96.00",
+  "2 X USB CABLE 1M 39.80",
+  "X STEAMEDFISH 48.00",
+  "2 X FRESH MILK 1L 15.80",
+  "1X RETURN -DAMAGED ITEM -15.80",
+  "SUBTOTAL 183.80",
+  "9159 11.03",
+  "TOTAL 194.83",
+  "CASH 199.83",
+  "CHANGE 5.00",
+  "THANK YOU,PLEASECOME AGAIN"
+ ],
+ "tokens": [
+  {
+   "text": "GREENLEAFGROCERSDNBHD",
+   "conf": 0.9957467062132699
+  },
+  {
+   "text": "12JALAN TUN RAZAK，50400 KUALA LUMPUR",
+   "conf": 0.9225228528181711
+  },
+  {
+   "text": "TAX INVOICE",
+   "conf": 0.9642553221095692
+  },
+  {
+   "text": "Date:22/03/2025",
+   "conf": 0.9896666049957276
+  },
+  {
+   "text": "Time:13:42",
+   "conf": 0.9736491560935974
+  },
+  {
+   "text": "FISH",
+   "conf": 0.9949512034654617
+  },
+  {
+   "text": "96.00",
+   "conf": 0.9994414687156677
+  },
+  {
+   "text": "2XSTEAMED",
+   "conf": 0.964322202735477
+  },
+  {
+   "text": "39.80",
+   "conf": 0.9994330406188965
+  },
+  {
+   "text": "X",
+   "conf": 0.5447675585746765
+  },
+  {
+   "text": "USB CABLE 1M",
+   "conf": 0.9267869144678116
+  },
+  {
+   "text": "2",
+   "conf": 0.609470784664154
+  },
+  {
+   "text": "48.00",
+   "conf": 0.9995673060417175
+  },
+  {
+   "text": "X",
+   "conf": 0.5678582191467285
+  },
+  {
+   "text": "STEAMEDFISH",
+   "conf": 0.9928477243943648
+  },
+  {
+   "text": "15.80",
+   "conf": 0.9995840311050415
+  },
+  {
+   "text": "2",
+   "conf": 0.9995742440223694
+  },
+  {
+   "text": "X",
+   "conf": 0.5177532434463501
+  },
+  {
+   "text": "FRESH MILK 1L",
+   "conf": 0.9427589728282049
+  },
+  {
+   "text": "-15.80",
+   "conf": 0.9946612616380056
+  },
+  {
+   "text": "1X",
+   "conf": 0.7720701098442078
+  },
+  {
+   "text": "RETURN -DAMAGED ITEM",
+   "conf": 0.9525821268558502
+  },
+  {
+   "text": "SUBTOTAL",
+   "conf": 0.9927791506052017
+  },
+  {
+   "text": "183.80",
+   "conf": 0.9982989231745402
+  },
+  {
+   "text": "11.03",
+   "conf": 0.9978693127632141
+  },
+  {
+   "text": "9159",
+   "conf": 0.8379782140254974
+  },
+  {
+   "text": "194.83",
+   "conf": 0.999541570742925
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.9953006625175476
+  },
+  {
+   "text": "199.83",
+   "conf": 0.9992044667402903
+  },
+  {
+   "text": "CASH",
+   "conf": 0.9964385032653809
+  },
+  {
+   "text": "5.00",
+   "conf": 0.9996060878038406
+  },
+  {
+   "text": "CHANGE",
+   "conf": 0.996688703695933
+  },
+  {
+   "text": "THANK YOU,PLEASECOME AGAIN",
+   "conf": 0.9485206214281229
+  }
+ ],
+ "mean_conf": 0.9208,
+ "low_conf_share": 0.0,
+ "latency_ms": 17364,
+ "fields": {
+  "company": "GREENLEAFGROCERSDNBHD",
+  "date": "2025-03-22",
+  "total": 194.83
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  194.83
+ ],
+ "key": "SYN021"
+}

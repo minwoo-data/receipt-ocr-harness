@@ -1,0 +1,143 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "0",
+  "27",
+  "KEBAB HOUSE",
+  "Shop D-EHo1lywood Rd",
+  "Central",
+  "T1:27952727",
+  "150",
+  "Please Wait For Your Order",
+  "Slip No. :1130321-0250",
+  "Date Cashier :shibani :21/03/201323:39:54",
+  "1 Chicken Doner Rol1 50.0",
+  "1 Spicy",
+  "50.0",
+  "SUBTOTAL",
+  "50.0",
+  "TOTAL",
+  "50.0",
+  "Cash",
+  "Thank You"
+ ],
+ "tokens": [
+  {
+   "text": "0",
+   "conf": 0.711315393447876
+  },
+  {
+   "text": "27",
+   "conf": 0.9985531866550446
+  },
+  {
+   "text": "KEBAB HOUSE",
+   "conf": 0.9572995521805503
+  },
+  {
+   "text": "Shop D-EHo1lywood Rd",
+   "conf": 0.921225768327713
+  },
+  {
+   "text": "Central",
+   "conf": 0.9779631836073739
+  },
+  {
+   "text": "T1:27952727",
+   "conf": 0.9711259549314325
+  },
+  {
+   "text": "150",
+   "conf": 0.9991753300031027
+  },
+  {
+   "text": "Please Wait For Your Order",
+   "conf": 0.9435279300579658
+  },
+  {
+   "text": "Slip No.",
+   "conf": 0.8308090642094612
+  },
+  {
+   "text": ":1130321-0250",
+   "conf": 0.9563727745643029
+  },
+  {
+   "text": "Cashier",
+   "conf": 0.9291379111153739
+  },
+  {
+   "text": ":shibani",
+   "conf": 0.9221405610442162
+  },
+  {
+   "text": "Date",
+   "conf": 0.9940155446529388
+  },
+  {
+   "text": ":21/03/201323:39:54",
+   "conf": 0.9702483729312295
+  },
+  {
+   "text": "50.0",
+   "conf": 0.9977775067090988
+  },
+  {
+   "text": "1",
+   "conf": 0.9676917195320129
+  },
+  {
+   "text": "Chicken Doner Rol1",
+   "conf": 0.9541745185852051
+  },
+  {
+   "text": "1",
+   "conf": 0.9140996932983398
+  },
+  {
+   "text": "Spicy",
+   "conf": 0.9700958847999572
+  },
+  {
+   "text": "50.0",
+   "conf": 0.9968973249197006
+  },
+  {
+   "text": "SUBTOTAL",
+   "conf": 0.993299774825573
+  },
+  {
+   "text": "50.0",
+   "conf": 0.9958440959453583
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.994118082523346
+  },
+  {
+   "text": "50.0",
+   "conf": 0.9976253658533096
+  },
+  {
+   "text": "Cash",
+   "conf": 0.9910415261983871
+  },
+  {
+   "text": "Thank You",
+   "conf": 0.9524038500256009
+  }
+ ],
+ "mean_conf": 0.9542,
+ "low_conf_share": 0.0,
+ "latency_ms": 3360,
+ "fields": {
+  "company": "KEBAB HOUSE",
+  "date": "2013-03-21",
+  "total": null
+ },
+ "rule_reasons": [
+  "total_not_found"
+ ],
+ "total_candidates": [],
+ "key": "W0084_4172"
+}

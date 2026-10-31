@@ -1,0 +1,255 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "The",
+  "heesecakeFactory",
+  "0331a Philadelphia",
+  "ASHLEYS SvrCk:619:2508/24/16",
+  "Heineken Bottle 6.50",
+  "Pineapple Juice 2.95",
+  "Bar Ginger Ale 3.00",
+  "Asian Lettuce Wrap Tacos 7.50",
+  "Skinny Hamburger 11.95",
+  "BasilTomato Flatbread 6.95",
+  "Greek Salad.x add salmon 11.95",
+  "Heineken Bottle 6.50",
+  "Lemoncello Cream Torte 7.95",
+  "Comp Food/Drink -7.95",
+  "Bar Ginger Ale 3.00",
+  "Sub Total: 60.30",
+  "Tax: 5.09",
+  "Sub Total: 65.39",
+  "08/2420:19TOTAL: 65.39",
+  "Gratuity Not Included",
+  "Suggested Gratuity:",
+  "22% 14.39",
+  "20% 13.08",
+  "18% 11.77",
+  "15% 9.81",
+  "Get out the door quicker",
+  "with cur new CakePay app. Download today!"
+ ],
+ "tokens": [
+  {
+   "text": "The",
+   "conf": 0.9796821077664694
+  },
+  {
+   "text": "heesecakeFactory",
+   "conf": 0.9362467229366302
+  },
+  {
+   "text": "0331a",
+   "conf": 0.9932907223701477
+  },
+  {
+   "text": "Philadelphia",
+   "conf": 0.9490792751312256
+  },
+  {
+   "text": "ASHLEYS",
+   "conf": 0.9901190229824611
+  },
+  {
+   "text": "SvrCk:619:2508/24/16",
+   "conf": 0.9666865855455399
+  },
+  {
+   "text": "Heineken Bottle",
+   "conf": 0.9795924107233683
+  },
+  {
+   "text": "Pineapple Juice",
+   "conf": 0.9475937724113465
+  },
+  {
+   "text": "6.50",
+   "conf": 0.99697545170784
+  },
+  {
+   "text": "Bar Ginger Ale",
+   "conf": 0.9351351346288409
+  },
+  {
+   "text": "2.95",
+   "conf": 0.9969338625669479
+  },
+  {
+   "text": "Asian Lettuce Wrap Tacos",
+   "conf": 0.9337018380562464
+  },
+  {
+   "text": "3.00",
+   "conf": 0.9954617321491241
+  },
+  {
+   "text": "Skinny Hamburger",
+   "conf": 0.9521748349070549
+  },
+  {
+   "text": "7.50",
+   "conf": 0.9950299263000488
+  },
+  {
+   "text": "BasilTomato Flatbread",
+   "conf": 0.9713144870031447
+  },
+  {
+   "text": "11.95",
+   "conf": 0.9943999767303466
+  },
+  {
+   "text": "Greek Salad.x add salmon",
+   "conf": 0.8946491355697314
+  },
+  {
+   "text": "6.95",
+   "conf": 0.9918560981750488
+  },
+  {
+   "text": "Heineken Bottle",
+   "conf": 0.9859948714574178
+  },
+  {
+   "text": "11.95",
+   "conf": 0.9957206010818481
+  },
+  {
+   "text": "Lemoncello Cream Torte",
+   "conf": 0.9734669300642881
+  },
+  {
+   "text": "6.50",
+   "conf": 0.9918422549962997
+  },
+  {
+   "text": "7.95",
+   "conf": 0.9902893602848053
+  },
+  {
+   "text": "Comp Food/Drink",
+   "conf": 0.9672979752222697
+  },
+  {
+   "text": "-7.95",
+   "conf": 0.9876079440116883
+  },
+  {
+   "text": "Bar Ginger Ale",
+   "conf": 0.9546645155974797
+  },
+  {
+   "text": "3.00",
+   "conf": 0.9967909157276154
+  },
+  {
+   "text": "Sub Total:",
+   "conf": 0.9694165229797364
+  },
+  {
+   "text": "60.30",
+   "conf": 0.9950882792472839
+  },
+  {
+   "text": "Tax:",
+   "conf": 0.9769462794065475
+  },
+  {
+   "text": "Sub Total:",
+   "conf": 0.9491741061210632
+  },
+  {
+   "text": "5.09",
+   "conf": 0.992895245552063
+  },
+  {
+   "text": "08/2420:19TOTAL:",
+   "conf": 0.9329240433871746
+  },
+  {
+   "text": "65.39",
+   "conf": 0.9946948647499084
+  },
+  {
+   "text": "65.39",
+   "conf": 0.9549426198005676
+  },
+  {
+   "text": "Gratuity Not Included",
+   "conf": 0.9463276863098145
+  },
+  {
+   "text": "Suggested Gratuity:",
+   "conf": 0.9790131230103342
+  },
+  {
+   "text": "22%",
+   "conf": 0.849575400352478
+  },
+  {
+   "text": "20%",
+   "conf": 0.9306050340334574
+  },
+  {
+   "text": "14.39",
+   "conf": 0.9961053967475891
+  },
+  {
+   "text": "13.08",
+   "conf": 0.9919794917106628
+  },
+  {
+   "text": "18%",
+   "conf": 0.9809571703275045
+  },
+  {
+   "text": "15%",
+   "conf": 0.9590520262718201
+  },
+  {
+   "text": "11.77",
+   "conf": 0.9938821792602539
+  },
+  {
+   "text": "9.81",
+   "conf": 0.9924383014440536
+  },
+  {
+   "text": "with cur new CakePay app.",
+   "conf": 0.923408420085907
+  },
+  {
+   "text": "Get out the door quicker",
+   "conf": 0.9248041311899821
+  },
+  {
+   "text": "Download today!",
+   "conf": 0.9084257205327352
+  }
+ ],
+ "mean_conf": 0.9671,
+ "low_conf_share": 0.0,
+ "latency_ms": 2736,
+ "fields": {
+  "company": "THE",
+  "date": null,
+  "total": 65.39
+ },
+ "rule_reasons": [
+  "date_not_found",
+  "total_no_keyword_fallback_max"
+ ],
+ "total_candidates": [
+  -7.95,
+  3.0,
+  60.3,
+  5.09,
+  65.39,
+  65.39,
+  14.39,
+  13.08,
+  11.77,
+  9.81
+ ],
+ "key": "W0170_e5114eee5454"
+}

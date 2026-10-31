@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.6-flash",
+ "provider": "gemini",
+ "raw_text": "{\"vendor\":\"CROSS CHANNEL NETWORK SDN. BHD.\",\"date\":\"2018-01-29\",\"subtotal\":6.00,\"tax\":0.36,\"tip\":null,\"discount\":-0.01,\"total\":6.35,\"currency\":\"MYR\",\"confidence\":0.95,\"notes\":null}",
+ "data": {
+  "vendor": "CROSS CHANNEL NETWORK SDN. BHD.",
+  "date": "2018-01-29",
+  "subtotal": 6.0,
+  "tax": 0.36,
+  "tip": null,
+  "discount": -0.01,
+  "total": 6.35,
+  "currency": "MYR",
+  "confidence": 0.95,
+  "notes": null
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1461,
+  "output_tokens": 75,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.001377,
+ "latency_ms": 1723,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.6-flash",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.6-flash"
+ ],
+ "key": "X51005230648"
+}

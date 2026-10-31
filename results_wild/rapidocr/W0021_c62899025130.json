@@ -1,0 +1,145 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "Sainsbury's",
+  "Clive wele for less",
+  "YORK BOOTHAM LOCAL",
+  "Sainsbury'sSupermarketsLtd",
+  "33HolbornLondonEC1N 2HT",
+  "www.sainsburys.co.uk",
+  "VatNumber:660454836",
+  "BANANA SINGLE 0.20",
+  "1BALANCEDUE 0.20",
+  "CASH 0.20",
+  "CHANGE 0.00",
+  "C9062 #0272 22:42:33 16AUG2015",
+  "S04930 R062",
+  "Based on price perception data,you can",
+  "livewellforlessthanyou thoughtat",
+  "Sainsbury's.Formoreinformation go to",
+  "sainsburys.co.uk/livewellforless",
+  "Thank you for shoppingat Sainsbury's"
+ ],
+ "tokens": [
+  {
+   "text": "Sainsbury's",
+   "conf": 0.9718798669901761
+  },
+  {
+   "text": "Clive wele for less",
+   "conf": 0.8722956431539435
+  },
+  {
+   "text": "YORK BOOTHAM LOCAL",
+   "conf": 0.9489065938525729
+  },
+  {
+   "text": "Sainsbury'sSupermarketsLtd",
+   "conf": 0.9837037668778346
+  },
+  {
+   "text": "33HolbornLondonEC1N 2HT",
+   "conf": 0.9442318496496781
+  },
+  {
+   "text": "www.sainsburys.co.uk",
+   "conf": 0.9901410937309265
+  },
+  {
+   "text": "VatNumber:660454836",
+   "conf": 0.9787717838036386
+  },
+  {
+   "text": "BANANA SINGLE",
+   "conf": 0.9719916169460003
+  },
+  {
+   "text": "0.20",
+   "conf": 0.9365899562835693
+  },
+  {
+   "text": "1BALANCEDUE",
+   "conf": 0.993267146023837
+  },
+  {
+   "text": "0.20",
+   "conf": 0.9668566882610321
+  },
+  {
+   "text": "CASH",
+   "conf": 0.9933887422084808
+  },
+  {
+   "text": "0.20",
+   "conf": 0.9632047116756439
+  },
+  {
+   "text": "CHANGE",
+   "conf": 0.9928155938784281
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9710031449794769
+  },
+  {
+   "text": "C9062",
+   "conf": 0.9827359199523926
+  },
+  {
+   "text": "#0272",
+   "conf": 0.9925939917564393
+  },
+  {
+   "text": "22:42:33",
+   "conf": 0.9782256931066513
+  },
+  {
+   "text": "16AUG2015",
+   "conf": 0.9971209698253207
+  },
+  {
+   "text": "S04930",
+   "conf": 0.9852372507254282
+  },
+  {
+   "text": "R062",
+   "conf": 0.9928269684314728
+  },
+  {
+   "text": "Based on price perception data,you can",
+   "conf": 0.9488065430992528
+  },
+  {
+   "text": "livewellforlessthanyou thoughtat",
+   "conf": 0.9644959457218647
+  },
+  {
+   "text": "Sainsbury's.Formoreinformation go to",
+   "conf": 0.9652290046215057
+  },
+  {
+   "text": "sainsburys.co.uk/livewellforless",
+   "conf": 0.9781306684017181
+  },
+  {
+   "text": "Thank you for shoppingat Sainsbury's",
+   "conf": 0.9027203362849023
+  }
+ ],
+ "mean_conf": 0.968,
+ "low_conf_share": 0.0,
+ "latency_ms": 4029,
+ "fields": {
+  "company": "SAINSBURY S",
+  "date": "2015-08-16",
+  "total": 0.2
+ },
+ "rule_reasons": [
+  "total_no_keyword_fallback_max"
+ ],
+ "total_candidates": [
+  0.2,
+  0.0
+ ],
+ "key": "W0021_c62899025130"
+}

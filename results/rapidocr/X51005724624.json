@@ -1,0 +1,356 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "R",
+  "KEDAIPAPANYEWCHUAN",
+  "(0005583085-K)",
+  "LOT276JALANBANTING",
+  "43800DENGKIL,SELANGOR",
+  "TEL:03-87686092 FAX:03-87686092",
+  "GSTID:000781500416",
+  "TAXINVOICE",
+  "Bill To.",
+  "SUCIALAMJAYATRANSPORT",
+  "NO1JALANAMAN2",
+  "TAMANDESA43800",
+  "DENGKILSELANGOR",
+  "017-6057770",
+  "DocNo ：CS00010855 Date:16/03/2018",
+  "Cashier :USER Time:08:45:00",
+  "Salesperson: Ref.:",
+  "(GST) (GST)",
+  "Item Qty S/Price S/Price Amount Tax",
+  "100140 4 24.00 25.44 101.76 SR",
+  "BESIY12(CQ)",
+  "100135 4 8.00 8.48 33.92 SR",
+  "BESIR5.5(CQ)",
+  "TotalQty: 8 135.68",
+  "Total Sales(Excluding GST): 128.00",
+  "Discount: 0.00",
+  "Total GST: 7.68",
+  "Rounding : 0.00",
+  "Total Sales(Inclusive of GsT): 135.68",
+  "CASH : 150.00",
+  "Change : 14.32",
+  "GSTSUMMARY",
+  "Tax Code % Amt(RM) Tax(RM)",
+  "SR 6 128.00 7.68",
+  "Total: 128.00 7.68",
+  "GOODSSOLDARENOTRETURNABLE,THANKYOU."
+ ],
+ "tokens": [
+  {
+   "text": "R",
+   "conf": 0.9988901019096375
+  },
+  {
+   "text": "KEDAIPAPANYEWCHUAN",
+   "conf": 0.9884571068816714
+  },
+  {
+   "text": "(0005583085-K)",
+   "conf": 0.9684322689260755
+  },
+  {
+   "text": "LOT276JALANBANTING",
+   "conf": 0.9922650191518996
+  },
+  {
+   "text": "43800DENGKIL,SELANGOR",
+   "conf": 0.9703520990553356
+  },
+  {
+   "text": "TEL:03-87686092",
+   "conf": 0.9903728246688843
+  },
+  {
+   "text": "FAX:03-87686092",
+   "conf": 0.9898788094520569
+  },
+  {
+   "text": "GSTID:000781500416",
+   "conf": 0.990290128522449
+  },
+  {
+   "text": "TAXINVOICE",
+   "conf": 0.9920359015464782
+  },
+  {
+   "text": "Bill To.",
+   "conf": 0.9704286158084869
+  },
+  {
+   "text": "SUCIALAMJAYATRANSPORT",
+   "conf": 0.9854832916032701
+  },
+  {
+   "text": "NO1JALANAMAN2",
+   "conf": 0.9908213523718027
+  },
+  {
+   "text": "TAMANDESA43800",
+   "conf": 0.994394336427961
+  },
+  {
+   "text": "DENGKILSELANGOR",
+   "conf": 0.9934986750284831
+  },
+  {
+   "text": "017-6057770",
+   "conf": 0.9980004050514915
+  },
+  {
+   "text": "DocNo",
+   "conf": 0.9884952187538147
+  },
+  {
+   "text": "：CS00010855",
+   "conf": 0.9618647748773749
+  },
+  {
+   "text": "Date:16/03/2018",
+   "conf": 0.9888461271921793
+  },
+  {
+   "text": "Cashier",
+   "conf": 0.9896000879151481
+  },
+  {
+   "text": ":USER",
+   "conf": 0.913576066493988
+  },
+  {
+   "text": "Time:08:45:00",
+   "conf": 0.9569863493625934
+  },
+  {
+   "text": "Salesperson:",
+   "conf": 0.9878594229618708
+  },
+  {
+   "text": "Ref.:",
+   "conf": 0.9376198887825012
+  },
+  {
+   "text": "(GST)",
+   "conf": 0.9816449403762817
+  },
+  {
+   "text": "(GST)",
+   "conf": 0.9760548949241639
+  },
+  {
+   "text": "Item",
+   "conf": 0.9561635106801987
+  },
+  {
+   "text": "Qty",
+   "conf": 0.8862706820170084
+  },
+  {
+   "text": "S/Price",
+   "conf": 0.9296825868742806
+  },
+  {
+   "text": "S/Price",
+   "conf": 0.9631884949547904
+  },
+  {
+   "text": "Amount",
+   "conf": 0.9896431068579356
+  },
+  {
+   "text": "Tax",
+   "conf": 0.9880820910135905
+  },
+  {
+   "text": "100140",
+   "conf": 0.9987923800945282
+  },
+  {
+   "text": "4",
+   "conf": 0.8652695417404175
+  },
+  {
+   "text": "24.00",
+   "conf": 0.9989286541938782
+  },
+  {
+   "text": "25.44",
+   "conf": 0.9979768395423889
+  },
+  {
+   "text": "101.76",
+   "conf": 0.9977491100629171
+  },
+  {
+   "text": "SR",
+   "conf": 0.9933556616306305
+  },
+  {
+   "text": "BESIY12(CQ)",
+   "conf": 0.898635826327584
+  },
+  {
+   "text": "100135",
+   "conf": 0.9985581040382385
+  },
+  {
+   "text": "4",
+   "conf": 0.9981884360313416
+  },
+  {
+   "text": "8.00",
+   "conf": 0.9985973089933395
+  },
+  {
+   "text": "8.48",
+   "conf": 0.9981528669595718
+  },
+  {
+   "text": "33.92",
+   "conf": 0.9969282269477844
+  },
+  {
+   "text": "SR",
+   "conf": 0.9910714328289032
+  },
+  {
+   "text": "BESIR5.5(CQ)",
+   "conf": 0.9189489930868149
+  },
+  {
+   "text": "TotalQty:",
+   "conf": 0.9535535309049818
+  },
+  {
+   "text": "8",
+   "conf": 0.9992144107818604
+  },
+  {
+   "text": "135.68",
+   "conf": 0.9976488848527273
+  },
+  {
+   "text": "Total Sales(Excluding GST):",
+   "conf": 0.9646521078215705
+  },
+  {
+   "text": "128.00",
+   "conf": 0.9983964065710703
+  },
+  {
+   "text": "Discount:",
+   "conf": 0.9803918202718099
+  },
+  {
+   "text": "0.00",
+   "conf": 0.997789055109024
+  },
+  {
+   "text": "Total GST:",
+   "conf": 0.9257830321788788
+  },
+  {
+   "text": "7.68",
+   "conf": 0.9989136755466461
+  },
+  {
+   "text": "Rounding :",
+   "conf": 0.9519033968448639
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9979218095541
+  },
+  {
+   "text": "Total Sales(Inclusive of GsT):",
+   "conf": 0.9092815101146698
+  },
+  {
+   "text": "135.68",
+   "conf": 0.9977322220802307
+  },
+  {
+   "text": "CASH :",
+   "conf": 0.908750464518865
+  },
+  {
+   "text": "150.00",
+   "conf": 0.9985315402348837
+  },
+  {
+   "text": "Change :",
+   "conf": 0.9683113545179367
+  },
+  {
+   "text": "14.32",
+   "conf": 0.9983087182044983
+  },
+  {
+   "text": "GSTSUMMARY",
+   "conf": 0.9905311644077301
+  },
+  {
+   "text": "Tax Code",
+   "conf": 0.9370213896036148
+  },
+  {
+   "text": "%",
+   "conf": 0.9648789167404175
+  },
+  {
+   "text": "Amt(RM)",
+   "conf": 0.9812573194503784
+  },
+  {
+   "text": "Tax(RM)",
+   "conf": 0.9441326175417218
+  },
+  {
+   "text": "SR",
+   "conf": 0.9898524284362793
+  },
+  {
+   "text": "6",
+   "conf": 0.986362099647522
+  },
+  {
+   "text": "128.00",
+   "conf": 0.9988435407479604
+  },
+  {
+   "text": "7.68",
+   "conf": 0.9974631667137146
+  },
+  {
+   "text": "Total:",
+   "conf": 0.9916981558005015
+  },
+  {
+   "text": "128.00",
+   "conf": 0.9986792802810669
+  },
+  {
+   "text": "7.68",
+   "conf": 0.9977828860282898
+  },
+  {
+   "text": "GOODSSOLDARENOTRETURNABLE,THANKYOU.",
+   "conf": 0.9558668085506984
+  }
+ ],
+ "mean_conf": 0.9752,
+ "low_conf_share": 0.0,
+ "latency_ms": 4699,
+ "fields": {
+  "company": "KEDAIPAPANYEWCHUAN",
+  "date": "2018-03-16",
+  "total": 135.68
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  135.68
+ ],
+ "key": "X51005724624"
+}

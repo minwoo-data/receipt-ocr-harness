@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.6-flash",
+ "provider": "gemini",
+ "raw_text": "{\"vendor\":\"FACE TO FACE NOODLE HOUSE\",\"date\":\"2018-05-21\",\"subtotal\":31.6,\"tax\":1.79,\"tip\":null,\"discount\":0.0,\"total\":31.6,\"currency\":\"MYR\",\"confidence\":0.98,\"notes\":null}",
+ "data": {
+  "vendor": "FACE TO FACE NOODLE HOUSE",
+  "date": "2018-05-21",
+  "subtotal": 31.6,
+  "tax": 1.79,
+  "tip": null,
+  "discount": 0.0,
+  "total": 31.6,
+  "currency": "MYR",
+  "confidence": 0.98,
+  "notes": null
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1429,
+  "output_tokens": 72,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.001342,
+ "latency_ms": 1837,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.6-flash",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.6-flash"
+ ],
+ "key": "X51006679216"
+}

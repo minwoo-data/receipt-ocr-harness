@@ -1,0 +1,390 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "Ce ae",
+  "YONG CEN ENTERPRISE",
+  "9, JALAN SUBANG JASA 3,",
+  "40150 SHAH ALAM, SELANGOR.",
+  "TEL: 012-9719498",
+  "GST NO: 001147981824",
+  "CASH",
+  "RECEIPT #: CS00677115 DATE: 02/03/2018",
+  "SALESPERSON: TIME: 09:43:00",
+  "COUNTER :",
+  "ITEM QTY U/P AMOUNT",
+  "9555223500307 24 2.33 55.99",
+  "SR:FEI YAN BRAND YOUNG CORN 425G (2.333X",
+  "9557166110018 2 2.00 4.00",
+  "ZRL:ASAM BOI 65G",
+  "TOTAL QUANTITY 26",
+  "SUB-TOTAL 59.99",
+  "DISC 0.00",
+  "GST 3.36 /",
+  "TAX 0.00” (2 4 f",
+  "- ROUNDING 0.00 5°?»",
+  "\\ TOTAL 63.35%",
+  "CASH 63.35",
+  "CHANGE 0,00 -",
+  "GOODS SOLD ARE NOT RETURNABLE,",
+  "THANK YOU."
+ ],
+ "tokens": [
+  {
+   "text": "Ce",
+   "conf": 0.3
+  },
+  {
+   "text": "ae",
+   "conf": 0.26
+  },
+  {
+   "text": "YONG",
+   "conf": 0.96
+  },
+  {
+   "text": "CEN",
+   "conf": 0.96
+  },
+  {
+   "text": "ENTERPRISE",
+   "conf": 0.96
+  },
+  {
+   "text": "9,",
+   "conf": 0.96
+  },
+  {
+   "text": "JALAN",
+   "conf": 0.93
+  },
+  {
+   "text": "SUBANG",
+   "conf": 0.93
+  },
+  {
+   "text": "JASA",
+   "conf": 0.93
+  },
+  {
+   "text": "3,",
+   "conf": 0.96
+  },
+  {
+   "text": "40150",
+   "conf": 0.96
+  },
+  {
+   "text": "SHAH",
+   "conf": 0.96
+  },
+  {
+   "text": "ALAM,",
+   "conf": 0.96
+  },
+  {
+   "text": "SELANGOR.",
+   "conf": 0.93
+  },
+  {
+   "text": "TEL:",
+   "conf": 0.91
+  },
+  {
+   "text": "012-9719498",
+   "conf": 0.92
+  },
+  {
+   "text": "GST",
+   "conf": 0.94
+  },
+  {
+   "text": "NO:",
+   "conf": 0.92
+  },
+  {
+   "text": "001147981824",
+   "conf": 0.96
+  },
+  {
+   "text": "CASH",
+   "conf": 0.96
+  },
+  {
+   "text": "RECEIPT",
+   "conf": 0.93
+  },
+  {
+   "text": "#:",
+   "conf": 0.9
+  },
+  {
+   "text": "CS00677115",
+   "conf": 0.82
+  },
+  {
+   "text": "DATE:",
+   "conf": 0.96
+  },
+  {
+   "text": "02/03/2018",
+   "conf": 0.96
+  },
+  {
+   "text": "SALESPERSON:",
+   "conf": 0.0
+  },
+  {
+   "text": "TIME:",
+   "conf": 0.46
+  },
+  {
+   "text": "09:43:00",
+   "conf": 0.95
+  },
+  {
+   "text": "COUNTER",
+   "conf": 0.92
+  },
+  {
+   "text": ":",
+   "conf": 0.92
+  },
+  {
+   "text": "ITEM",
+   "conf": 0.94
+  },
+  {
+   "text": "QTY",
+   "conf": 0.74
+  },
+  {
+   "text": "U/P",
+   "conf": 0.74
+  },
+  {
+   "text": "AMOUNT",
+   "conf": 0.95
+  },
+  {
+   "text": "9555223500307",
+   "conf": 0.7
+  },
+  {
+   "text": "24",
+   "conf": 0.77
+  },
+  {
+   "text": "2.33",
+   "conf": 0.89
+  },
+  {
+   "text": "55.99",
+   "conf": 0.95
+  },
+  {
+   "text": "SR:FEI",
+   "conf": 0.88
+  },
+  {
+   "text": "YAN",
+   "conf": 0.96
+  },
+  {
+   "text": "BRAND",
+   "conf": 0.96
+  },
+  {
+   "text": "YOUNG",
+   "conf": 0.96
+  },
+  {
+   "text": "CORN",
+   "conf": 0.93
+  },
+  {
+   "text": "425G",
+   "conf": 0.87
+  },
+  {
+   "text": "(2.333X",
+   "conf": 0.81
+  },
+  {
+   "text": "9557166110018",
+   "conf": 0.85
+  },
+  {
+   "text": "2",
+   "conf": 0.86
+  },
+  {
+   "text": "2.00",
+   "conf": 0.93
+  },
+  {
+   "text": "4.00",
+   "conf": 0.93
+  },
+  {
+   "text": "ZRL:ASAM",
+   "conf": 0.91
+  },
+  {
+   "text": "BOI",
+   "conf": 0.76
+  },
+  {
+   "text": "65G",
+   "conf": 0.91
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.95
+  },
+  {
+   "text": "QUANTITY",
+   "conf": 0.96
+  },
+  {
+   "text": "26",
+   "conf": 0.96
+  },
+  {
+   "text": "SUB-TOTAL",
+   "conf": 0.94
+  },
+  {
+   "text": "59.99",
+   "conf": 0.85
+  },
+  {
+   "text": "DISC",
+   "conf": 0.69
+  },
+  {
+   "text": "0.00",
+   "conf": 0.95
+  },
+  {
+   "text": "GST",
+   "conf": 0.96
+  },
+  {
+   "text": "3.36",
+   "conf": 0.87
+  },
+  {
+   "text": "/",
+   "conf": 0.77
+  },
+  {
+   "text": "TAX",
+   "conf": 0.96
+  },
+  {
+   "text": "0.00”",
+   "conf": 0.33
+  },
+  {
+   "text": "(2",
+   "conf": 0.9
+  },
+  {
+   "text": "4",
+   "conf": 0.46
+  },
+  {
+   "text": "f",
+   "conf": 0.74
+  },
+  {
+   "text": "-",
+   "conf": 0.0
+  },
+  {
+   "text": "ROUNDING",
+   "conf": 0.96
+  },
+  {
+   "text": "0.00",
+   "conf": 0.54
+  },
+  {
+   "text": "5°?»",
+   "conf": 0.46
+  },
+  {
+   "text": "\\",
+   "conf": 0.86
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.84
+  },
+  {
+   "text": "63.35%",
+   "conf": 0.52
+  },
+  {
+   "text": "CASH",
+   "conf": 0.96
+  },
+  {
+   "text": "63.35",
+   "conf": 0.93
+  },
+  {
+   "text": "CHANGE",
+   "conf": 0.73
+  },
+  {
+   "text": "0,00",
+   "conf": 0.57
+  },
+  {
+   "text": "-",
+   "conf": 0.0
+  },
+  {
+   "text": "GOODS",
+   "conf": 0.96
+  },
+  {
+   "text": "SOLD",
+   "conf": 0.96
+  },
+  {
+   "text": "ARE",
+   "conf": 0.95
+  },
+  {
+   "text": "NOT",
+   "conf": 0.95
+  },
+  {
+   "text": "RETURNABLE,",
+   "conf": 0.95
+  },
+  {
+   "text": "THANK",
+   "conf": 0.9
+  },
+  {
+   "text": "YOU.",
+   "conf": 0.9
+  }
+ ],
+ "mean_conf": 0.8235,
+ "low_conf_share": 0.1047,
+ "latency_ms": 2088,
+ "fields": {
+  "company": "CE AE YONG CEN ENTERPRISE",
+  "date": "2018-03-02",
+  "total": 63.35
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  63.35
+ ],
+ "key": "X51005746140"
+}

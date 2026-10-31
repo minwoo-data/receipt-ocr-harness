@@ -1,0 +1,229 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "CASH BILL",
+  "ANNAM VEG RESTAURANT",
+  "NO.114-A, BURMA COLONY",
+  "PERUNGUDI,OMR",
+  "CHENNAI-600 096",
+  "TIN:33550964357",
+  "Billno :R033263 Bi11dt:23.05.2017",
+  "Tab No ：14 Time :10:02 PM",
+  "SaleSman :JAYAPRAKASH Session: DINNER",
+  "PAX :2",
+  "kot No .01",
+  "Name Qty Rate Amount",
+  "MASALA CHEESE T 1 100.00 100.00",
+  "DAHI PAPADI 85.00 85.00",
+  "TANDDOORI PANEE 1 180.00 180.00",
+  "#3 3 Total 365.00",
+  "Ser.Tax 5.6x 20.44",
+  "VAT(2%) 7.30",
+  "Round off 0.26",
+  "Net Amount 393.00",
+  "THANK YOU, COME AGAIN",
+  "M/s"
+ ],
+ "tokens": [
+  {
+   "text": "CASH BILL",
+   "conf": 0.986304435465071
+  },
+  {
+   "text": "ANNAM VEG RESTAURANT",
+   "conf": 0.9494230836629868
+  },
+  {
+   "text": "NO.114-A, BURMA COLONY",
+   "conf": 0.9414740909229625
+  },
+  {
+   "text": "PERUNGUDI,OMR",
+   "conf": 0.9729134027774518
+  },
+  {
+   "text": "CHENNAI-600 096",
+   "conf": 0.9504212896029155
+  },
+  {
+   "text": "TIN:33550964357",
+   "conf": 0.9947398543357849
+  },
+  {
+   "text": "Billno",
+   "conf": 0.9267868995666504
+  },
+  {
+   "text": ":R033263",
+   "conf": 0.9675206914544106
+  },
+  {
+   "text": "Bi11dt:23.05.2017",
+   "conf": 0.9869569995824028
+  },
+  {
+   "text": "Tab No",
+   "conf": 0.9353086451689402
+  },
+  {
+   "text": "：14",
+   "conf": 0.8557799458503723
+  },
+  {
+   "text": "Time :10:02 PM",
+   "conf": 0.9600951969623566
+  },
+  {
+   "text": "SaleSman :JAYAPRAKASH",
+   "conf": 0.9172596307027907
+  },
+  {
+   "text": "Session: DINNER",
+   "conf": 0.9841064890225728
+  },
+  {
+   "text": "PAX",
+   "conf": 0.9905053774515787
+  },
+  {
+   "text": ":2",
+   "conf": 0.8146175444126129
+  },
+  {
+   "text": "kot No",
+   "conf": 0.8817572096983591
+  },
+  {
+   "text": ".01",
+   "conf": 0.966145912806193
+  },
+  {
+   "text": "Name",
+   "conf": 0.9916771501302719
+  },
+  {
+   "text": "Qty",
+   "conf": 0.9973627726236979
+  },
+  {
+   "text": "Rate",
+   "conf": 0.9945962727069855
+  },
+  {
+   "text": "Amount",
+   "conf": 0.9954110483328501
+  },
+  {
+   "text": "MASALA CHEESE T",
+   "conf": 0.9691938281059265
+  },
+  {
+   "text": "1",
+   "conf": 0.9958183169364929
+  },
+  {
+   "text": "100.00",
+   "conf": 0.9990854263305664
+  },
+  {
+   "text": "100.00",
+   "conf": 0.9995027581850687
+  },
+  {
+   "text": "DAHI PAPADI",
+   "conf": 0.9676321148872375
+  },
+  {
+   "text": "85.00",
+   "conf": 0.9998597025871276
+  },
+  {
+   "text": "85.00",
+   "conf": 0.9998283505439758
+  },
+  {
+   "text": "TANDDOORI PANEE",
+   "conf": 0.971648903687795
+  },
+  {
+   "text": "180.00",
+   "conf": 0.999599685271581
+  },
+  {
+   "text": "180.00",
+   "conf": 0.9990579883257548
+  },
+  {
+   "text": "1",
+   "conf": 0.8969401121139526
+  },
+  {
+   "text": "#3",
+   "conf": 0.9924080669879913
+  },
+  {
+   "text": "3 Total",
+   "conf": 0.9416486280305045
+  },
+  {
+   "text": "365.00",
+   "conf": 0.9995447794596354
+  },
+  {
+   "text": "Ser.Tax 5.6x",
+   "conf": 0.9050842076539993
+  },
+  {
+   "text": "20.44",
+   "conf": 0.9991522789001465
+  },
+  {
+   "text": "VAT(2%)",
+   "conf": 0.992326727935246
+  },
+  {
+   "text": "7.30",
+   "conf": 0.9991190731525421
+  },
+  {
+   "text": "Round off",
+   "conf": 0.9282995329962836
+  },
+  {
+   "text": "0.26",
+   "conf": 0.9997275620698929
+  },
+  {
+   "text": "393.00",
+   "conf": 0.999714732170105
+  },
+  {
+   "text": "Net Amount",
+   "conf": 0.9476938843727112
+  },
+  {
+   "text": "THANK YOU, COME AGAIN",
+   "conf": 0.9483194705985841
+  },
+  {
+   "text": "M/s",
+   "conf": 0.8249006867408752
+  }
+ ],
+ "mean_conf": 0.9617,
+ "low_conf_share": 0.0,
+ "latency_ms": 4074,
+ "fields": {
+  "company": "ANNAM VEG RESTAURANT",
+  "date": "2017-05-23",
+  "total": 393.0
+ },
+ "rule_reasons": [
+  "total_multiple_keyword_amounts"
+ ],
+ "total_candidates": [
+  365.0,
+  393.0
+ ],
+ "key": "W0198_60cdf6017800"
+}

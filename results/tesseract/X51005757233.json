@@ -1,0 +1,478 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "4(80Z0/6",
+  "Guardian Health And Beauty Sd fed",
+  "TT Mall",
+  "G31 & G25 bral f its Uh Mall",
+  "fandar Puchona Java",
+  "Tel:05- 5062 9000",
+  "Company Keg 81101085-T",
+  "GST Rea HO0ORSSU74HTE",
+  "VALDES 7S GON UR ELS 100420 9.98",
+  "SUBTOTAL 9.55",
+  "TOTAL (GST ENGL) 9,95",
+  "CAGH 10.00",
+  "CHANGE DUE 0.05",
+  "tS - Rate ---—-GS} Exel —- 651 Ast",
+  "§ &% 9.59 0.56",
+  "Thank You For Shorping",
+  "fit Guardian",
+  "All Amounts Are in fH",
+  "buods sold are non-refundable.",
+  "Dispensed medicines sold are",
+  "not returnable.",
+  "ALL exchanges and returns including",
+  "buardian brand products must be made",
+  "within ?days with original receipts and",
+  "woduct in original condition.",
+  "St8046 Ghr2 1024986 Taxinv:68089",
+  "W317? =—09/03/18"
+ ],
+ "tokens": [
+  {
+   "text": "4(80Z0/6",
+   "conf": 0.24
+  },
+  {
+   "text": "Guardian",
+   "conf": 0.41
+  },
+  {
+   "text": "Health",
+   "conf": 0.7
+  },
+  {
+   "text": "And",
+   "conf": 0.8
+  },
+  {
+   "text": "Beauty",
+   "conf": 0.88
+  },
+  {
+   "text": "Sd",
+   "conf": 0.0
+  },
+  {
+   "text": "fed",
+   "conf": 0.79
+  },
+  {
+   "text": "TT",
+   "conf": 0.28
+  },
+  {
+   "text": "Mall",
+   "conf": 0.75
+  },
+  {
+   "text": "G31",
+   "conf": 0.39
+  },
+  {
+   "text": "&",
+   "conf": 0.78
+  },
+  {
+   "text": "G25",
+   "conf": 0.29
+  },
+  {
+   "text": "bral",
+   "conf": 0.59
+  },
+  {
+   "text": "f",
+   "conf": 0.56
+  },
+  {
+   "text": "its",
+   "conf": 0.49
+  },
+  {
+   "text": "Uh",
+   "conf": 0.34
+  },
+  {
+   "text": "Mall",
+   "conf": 0.33
+  },
+  {
+   "text": "fandar",
+   "conf": 0.08
+  },
+  {
+   "text": "Puchona",
+   "conf": 0.28
+  },
+  {
+   "text": "Java",
+   "conf": 0.71
+  },
+  {
+   "text": "Tel:05-",
+   "conf": 0.19
+  },
+  {
+   "text": "5062",
+   "conf": 0.45
+  },
+  {
+   "text": "9000",
+   "conf": 0.79
+  },
+  {
+   "text": "Company",
+   "conf": 0.81
+  },
+  {
+   "text": "Keg",
+   "conf": 0.82
+  },
+  {
+   "text": "81101085-T",
+   "conf": 0.0
+  },
+  {
+   "text": "GST",
+   "conf": 0.73
+  },
+  {
+   "text": "Rea",
+   "conf": 0.71
+  },
+  {
+   "text": "HO0ORSSU74HTE",
+   "conf": 0.0
+  },
+  {
+   "text": "VALDES",
+   "conf": 0.0
+  },
+  {
+   "text": "7S",
+   "conf": 0.0
+  },
+  {
+   "text": "GON",
+   "conf": 0.67
+  },
+  {
+   "text": "UR",
+   "conf": 0.72
+  },
+  {
+   "text": "ELS",
+   "conf": 0.31
+  },
+  {
+   "text": "100420",
+   "conf": 0.74
+  },
+  {
+   "text": "9.98",
+   "conf": 0.47
+  },
+  {
+   "text": "SUBTOTAL",
+   "conf": 0.46
+  },
+  {
+   "text": "9.55",
+   "conf": 0.55
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.64
+  },
+  {
+   "text": "(GST",
+   "conf": 0.46
+  },
+  {
+   "text": "ENGL)",
+   "conf": 0.45
+  },
+  {
+   "text": "9,95",
+   "conf": 0.69
+  },
+  {
+   "text": "CAGH",
+   "conf": 0.84
+  },
+  {
+   "text": "10.00",
+   "conf": 0.94
+  },
+  {
+   "text": "CHANGE",
+   "conf": 0.95
+  },
+  {
+   "text": "DUE",
+   "conf": 0.65
+  },
+  {
+   "text": "0.05",
+   "conf": 0.83
+  },
+  {
+   "text": "tS",
+   "conf": 0.2
+  },
+  {
+   "text": "-",
+   "conf": 0.9
+  },
+  {
+   "text": "Rate",
+   "conf": 0.92
+  },
+  {
+   "text": "---—-GS}",
+   "conf": 0.0
+  },
+  {
+   "text": "Exel",
+   "conf": 0.9
+  },
+  {
+   "text": "—-",
+   "conf": 0.61
+  },
+  {
+   "text": "651",
+   "conf": 0.62
+  },
+  {
+   "text": "Ast",
+   "conf": 0.4
+  },
+  {
+   "text": "§",
+   "conf": 0.89
+  },
+  {
+   "text": "&%",
+   "conf": 0.05
+  },
+  {
+   "text": "9.59",
+   "conf": 0.7
+  },
+  {
+   "text": "0.56",
+   "conf": 0.63
+  },
+  {
+   "text": "Thank",
+   "conf": 0.88
+  },
+  {
+   "text": "You",
+   "conf": 0.95
+  },
+  {
+   "text": "For",
+   "conf": 0.93
+  },
+  {
+   "text": "Shorping",
+   "conf": 0.46
+  },
+  {
+   "text": "fit",
+   "conf": 0.8
+  },
+  {
+   "text": "Guardian",
+   "conf": 0.92
+  },
+  {
+   "text": "All",
+   "conf": 0.91
+  },
+  {
+   "text": "Amounts",
+   "conf": 0.83
+  },
+  {
+   "text": "Are",
+   "conf": 0.94
+  },
+  {
+   "text": "in",
+   "conf": 0.93
+  },
+  {
+   "text": "fH",
+   "conf": 0.07
+  },
+  {
+   "text": "buods",
+   "conf": 0.41
+  },
+  {
+   "text": "sold",
+   "conf": 0.78
+  },
+  {
+   "text": "are",
+   "conf": 0.95
+  },
+  {
+   "text": "non-refundable.",
+   "conf": 0.61
+  },
+  {
+   "text": "Dispensed",
+   "conf": 0.21
+  },
+  {
+   "text": "medicines",
+   "conf": 0.94
+  },
+  {
+   "text": "sold",
+   "conf": 0.86
+  },
+  {
+   "text": "are",
+   "conf": 0.96
+  },
+  {
+   "text": "not",
+   "conf": 0.87
+  },
+  {
+   "text": "returnable.",
+   "conf": 0.84
+  },
+  {
+   "text": "ALL",
+   "conf": 0.87
+  },
+  {
+   "text": "exchanges",
+   "conf": 0.95
+  },
+  {
+   "text": "and",
+   "conf": 0.95
+  },
+  {
+   "text": "returns",
+   "conf": 0.92
+  },
+  {
+   "text": "including",
+   "conf": 0.92
+  },
+  {
+   "text": "buardian",
+   "conf": 0.42
+  },
+  {
+   "text": "brand",
+   "conf": 0.93
+  },
+  {
+   "text": "products",
+   "conf": 0.92
+  },
+  {
+   "text": "must",
+   "conf": 0.94
+  },
+  {
+   "text": "be",
+   "conf": 0.81
+  },
+  {
+   "text": "made",
+   "conf": 0.93
+  },
+  {
+   "text": "within",
+   "conf": 0.93
+  },
+  {
+   "text": "?days",
+   "conf": 0.69
+  },
+  {
+   "text": "with",
+   "conf": 0.95
+  },
+  {
+   "text": "original",
+   "conf": 0.95
+  },
+  {
+   "text": "receipts",
+   "conf": 0.71
+  },
+  {
+   "text": "and",
+   "conf": 0.95
+  },
+  {
+   "text": "woduct",
+   "conf": 0.46
+  },
+  {
+   "text": "in",
+   "conf": 0.95
+  },
+  {
+   "text": "original",
+   "conf": 0.83
+  },
+  {
+   "text": "condition.",
+   "conf": 0.89
+  },
+  {
+   "text": "St8046",
+   "conf": 0.15
+  },
+  {
+   "text": "Ghr2",
+   "conf": 0.0
+  },
+  {
+   "text": "1024986",
+   "conf": 0.61
+  },
+  {
+   "text": "Taxinv:68089",
+   "conf": 0.24
+  },
+  {
+   "text": "W317?",
+   "conf": 0.26
+  },
+  {
+   "text": "=—09/03/18",
+   "conf": 0.0
+  }
+ ],
+ "mean_conf": 0.6221,
+ "low_conf_share": 0.3458,
+ "latency_ms": 726,
+ "fields": {
+  "company": "GUARDIAN HEALTH AND BEAUTY SD FED",
+  "date": "2018-03-09",
+  "total": 9.59
+ },
+ "rule_reasons": [
+  "total_no_keyword_fallback_max"
+ ],
+ "total_candidates": [
+  9.59,
+  0.56
+ ],
+ "key": "X51005757233"
+}

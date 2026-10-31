@@ -1,0 +1,547 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "Try. a?",
+  "7 (007481 NERY 8 i",
+  ": NO. 53; JALAN BESAR; 45600 BATANG in)",
+  "/ SELANGOREBARUL EHSAN og !",
+  "i TEL : 03-3271 9872 RR N3-3271 9481",
+  "GST No, :0006899 13886",
+  "SIMPLIFIED TAX INVOICE =",
+  "CASH ;",
+  "- Reesipt No.’ CS1803/28617 Date: 15/03/2018",
+  "SRE. apy ppp pene. AMOUNT",
+  "EN err uP pisces “ag",
+  "4974052801334. 48 = «2.70 7.41 120.00 »",
+  "= ARTLINE 70",
+  "Total Qty. : 48 120.00",
+  "SUB-TOTAL (BX) : 420.00",
+  "TOTAL TAX q 7.20",
+  "ROUNDING : 0.00",
+  "TOTAL : 127.20",
+  "CASH : 127.20",
+  "CHANGE : 0.00",
+  "i GST SUMMARY |",
+  "sR 6.00 420.00 7.29",
+  "Tomer\" “4a000 F390",
+  "/ Nofe: (*) Indicated The Item. Sold Has Been Related:",
+  "_ To GST (Goods & Services Tax).",
+  "7 GOODS SOLD ARE NOT RETURNABLE,",
+  "THANK YOU."
+ ],
+ "tokens": [
+  {
+   "text": "Try.",
+   "conf": 0.3
+  },
+  {
+   "text": "a?",
+   "conf": 0.44
+  },
+  {
+   "text": "7",
+   "conf": 0.35
+  },
+  {
+   "text": "(007481",
+   "conf": 0.77
+  },
+  {
+   "text": "NERY",
+   "conf": 0.0
+  },
+  {
+   "text": "8",
+   "conf": 0.08
+  },
+  {
+   "text": "i",
+   "conf": 0.19
+  },
+  {
+   "text": ":",
+   "conf": 0.16
+  },
+  {
+   "text": "NO.",
+   "conf": 0.92
+  },
+  {
+   "text": "53;",
+   "conf": 0.7
+  },
+  {
+   "text": "JALAN",
+   "conf": 0.01
+  },
+  {
+   "text": "BESAR;",
+   "conf": 0.01
+  },
+  {
+   "text": "45600",
+   "conf": 0.92
+  },
+  {
+   "text": "BATANG",
+   "conf": 0.92
+  },
+  {
+   "text": "in)",
+   "conf": 0.06
+  },
+  {
+   "text": "/",
+   "conf": 0.0
+  },
+  {
+   "text": "SELANGOREBARUL",
+   "conf": 0.0
+  },
+  {
+   "text": "EHSAN",
+   "conf": 0.83
+  },
+  {
+   "text": "og",
+   "conf": 0.37
+  },
+  {
+   "text": "!",
+   "conf": 0.52
+  },
+  {
+   "text": "i",
+   "conf": 0.79
+  },
+  {
+   "text": "TEL",
+   "conf": 0.91
+  },
+  {
+   "text": ":",
+   "conf": 0.58
+  },
+  {
+   "text": "03-3271",
+   "conf": 0.63
+  },
+  {
+   "text": "9872",
+   "conf": 0.94
+  },
+  {
+   "text": "RR",
+   "conf": 0.41
+  },
+  {
+   "text": "N3-3271",
+   "conf": 0.44
+  },
+  {
+   "text": "9481",
+   "conf": 0.66
+  },
+  {
+   "text": "GST",
+   "conf": 0.85
+  },
+  {
+   "text": "No,",
+   "conf": 0.78
+  },
+  {
+   "text": ":0006899",
+   "conf": 0.75
+  },
+  {
+   "text": "13886",
+   "conf": 0.19
+  },
+  {
+   "text": "SIMPLIFIED",
+   "conf": 0.51
+  },
+  {
+   "text": "TAX",
+   "conf": 0.92
+  },
+  {
+   "text": "INVOICE",
+   "conf": 0.63
+  },
+  {
+   "text": "=",
+   "conf": 0.45
+  },
+  {
+   "text": "CASH",
+   "conf": 0.35
+  },
+  {
+   "text": ";",
+   "conf": 0.14
+  },
+  {
+   "text": "-",
+   "conf": 0.0
+  },
+  {
+   "text": "Reesipt",
+   "conf": 0.26
+  },
+  {
+   "text": "No.’",
+   "conf": 0.48
+  },
+  {
+   "text": "CS1803/28617",
+   "conf": 0.66
+  },
+  {
+   "text": "Date:",
+   "conf": 0.63
+  },
+  {
+   "text": "15/03/2018",
+   "conf": 0.75
+  },
+  {
+   "text": "SRE.",
+   "conf": 0.19
+  },
+  {
+   "text": "apy",
+   "conf": 0.55
+  },
+  {
+   "text": "ppp",
+   "conf": 0.58
+  },
+  {
+   "text": "pene.",
+   "conf": 0.01
+  },
+  {
+   "text": "AMOUNT",
+   "conf": 0.56
+  },
+  {
+   "text": "EN",
+   "conf": 0.23
+  },
+  {
+   "text": "err",
+   "conf": 0.59
+  },
+  {
+   "text": "uP",
+   "conf": 0.42
+  },
+  {
+   "text": "pisces",
+   "conf": 0.3
+  },
+  {
+   "text": "“ag",
+   "conf": 0.32
+  },
+  {
+   "text": "4974052801334.",
+   "conf": 0.55
+  },
+  {
+   "text": "48",
+   "conf": 0.61
+  },
+  {
+   "text": "=",
+   "conf": 0.31
+  },
+  {
+   "text": "«2.70",
+   "conf": 0.25
+  },
+  {
+   "text": "7.41",
+   "conf": 0.25
+  },
+  {
+   "text": "120.00",
+   "conf": 0.92
+  },
+  {
+   "text": "»",
+   "conf": 0.37
+  },
+  {
+   "text": "=",
+   "conf": 0.4
+  },
+  {
+   "text": "ARTLINE",
+   "conf": 0.4
+  },
+  {
+   "text": "70",
+   "conf": 0.96
+  },
+  {
+   "text": "Total",
+   "conf": 0.96
+  },
+  {
+   "text": "Qty.",
+   "conf": 0.93
+  },
+  {
+   "text": ":",
+   "conf": 0.73
+  },
+  {
+   "text": "48",
+   "conf": 0.96
+  },
+  {
+   "text": "120.00",
+   "conf": 0.96
+  },
+  {
+   "text": "SUB-TOTAL",
+   "conf": 0.77
+  },
+  {
+   "text": "(BX)",
+   "conf": 0.87
+  },
+  {
+   "text": ":",
+   "conf": 0.55
+  },
+  {
+   "text": "420.00",
+   "conf": 0.95
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.94
+  },
+  {
+   "text": "TAX",
+   "conf": 0.94
+  },
+  {
+   "text": "q",
+   "conf": 0.02
+  },
+  {
+   "text": "7.20",
+   "conf": 0.96
+  },
+  {
+   "text": "ROUNDING",
+   "conf": 0.95
+  },
+  {
+   "text": ":",
+   "conf": 0.78
+  },
+  {
+   "text": "0.00",
+   "conf": 0.95
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.96
+  },
+  {
+   "text": ":",
+   "conf": 0.5
+  },
+  {
+   "text": "127.20",
+   "conf": 0.96
+  },
+  {
+   "text": "CASH",
+   "conf": 0.96
+  },
+  {
+   "text": ":",
+   "conf": 0.63
+  },
+  {
+   "text": "127.20",
+   "conf": 0.96
+  },
+  {
+   "text": "CHANGE",
+   "conf": 0.95
+  },
+  {
+   "text": ":",
+   "conf": 0.78
+  },
+  {
+   "text": "0.00",
+   "conf": 0.95
+  },
+  {
+   "text": "i",
+   "conf": 0.0
+  },
+  {
+   "text": "GST",
+   "conf": 0.94
+  },
+  {
+   "text": "SUMMARY",
+   "conf": 0.93
+  },
+  {
+   "text": "|",
+   "conf": 0.93
+  },
+  {
+   "text": "sR",
+   "conf": 0.0
+  },
+  {
+   "text": "6.00",
+   "conf": 0.85
+  },
+  {
+   "text": "420.00",
+   "conf": 0.8
+  },
+  {
+   "text": "7.29",
+   "conf": 0.73
+  },
+  {
+   "text": "Tomer\"",
+   "conf": 0.0
+  },
+  {
+   "text": "“4a000",
+   "conf": 0.0
+  },
+  {
+   "text": "F390",
+   "conf": 0.0
+  },
+  {
+   "text": "/",
+   "conf": 0.01
+  },
+  {
+   "text": "Nofe:",
+   "conf": 0.73
+  },
+  {
+   "text": "(*)",
+   "conf": 0.55
+  },
+  {
+   "text": "Indicated",
+   "conf": 0.95
+  },
+  {
+   "text": "The",
+   "conf": 0.96
+  },
+  {
+   "text": "Item.",
+   "conf": 0.68
+  },
+  {
+   "text": "Sold",
+   "conf": 0.03
+  },
+  {
+   "text": "Has",
+   "conf": 0.89
+  },
+  {
+   "text": "Been",
+   "conf": 0.74
+  },
+  {
+   "text": "Related:",
+   "conf": 0.44
+  },
+  {
+   "text": "_",
+   "conf": 0.9
+  },
+  {
+   "text": "To",
+   "conf": 0.6
+  },
+  {
+   "text": "GST",
+   "conf": 0.6
+  },
+  {
+   "text": "(Goods",
+   "conf": 0.91
+  },
+  {
+   "text": "&",
+   "conf": 0.91
+  },
+  {
+   "text": "Services",
+   "conf": 0.96
+  },
+  {
+   "text": "Tax).",
+   "conf": 0.8
+  },
+  {
+   "text": "7",
+   "conf": 0.63
+  },
+  {
+   "text": "GOODS",
+   "conf": 0.86
+  },
+  {
+   "text": "SOLD",
+   "conf": 0.95
+  },
+  {
+   "text": "ARE",
+   "conf": 0.95
+  },
+  {
+   "text": "NOT",
+   "conf": 0.96
+  },
+  {
+   "text": "RETURNABLE,",
+   "conf": 0.88
+  },
+  {
+   "text": "THANK",
+   "conf": 0.96
+  },
+  {
+   "text": "YOU.",
+   "conf": 0.94
+  }
+ ],
+ "mean_conf": 0.599,
+ "low_conf_share": 0.344,
+ "latency_ms": 1232,
+ "fields": {
+  "company": "TRY A",
+  "date": "2018-03-15",
+  "total": 127.2
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  127.2
+ ],
+ "key": "X51005361908"
+}

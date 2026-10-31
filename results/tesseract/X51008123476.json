@@ -1,0 +1,405 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "Dion Realties Sdi Bhd (Co. No:20154-T)",
+  "(GST Registration No : 000650247680)",
+  "Henara Dian #02-03, Level 2,",
+  "27, Jalan Suitan Ismail,",
+  "50250 Kuala Lumpur.",
+  "Tel : +6 03 2026 6366",
+  "Fax ; +6 03 2026 6387",
+  ">>aTAX INVOICE<<<",
+  "Tax Invoice na. 4953/0602/00602",
+  "25/06/18 11:18",
+  "010100 Pay parking ticket 5.00 RH",
+  "25/06/18 11:03 - 25/06/18 11:18",
+  "Length of stay: 0 Dy. O Hr. 15 Hin.",
+  "0299288700201 10181763979007?",
+  "Anount Incl. GST 5.00. RH",
+  "Accepted total 10.00 Rif",
+  "Change 5.00 RH",
+  "G.S.T, 0.00 0.00 Ri",
+  "FRO Oona III IK",
+  "x Thank you bd",
+  "JERE ERE"
+ ],
+ "tokens": [
+  {
+   "text": "Dion",
+   "conf": 0.88
+  },
+  {
+   "text": "Realties",
+   "conf": 0.89
+  },
+  {
+   "text": "Sdi",
+   "conf": 0.54
+  },
+  {
+   "text": "Bhd",
+   "conf": 0.96
+  },
+  {
+   "text": "(Co.",
+   "conf": 0.89
+  },
+  {
+   "text": "No:20154-T)",
+   "conf": 0.85
+  },
+  {
+   "text": "(GST",
+   "conf": 0.94
+  },
+  {
+   "text": "Registration",
+   "conf": 0.96
+  },
+  {
+   "text": "No",
+   "conf": 0.89
+  },
+  {
+   "text": ":",
+   "conf": 0.8
+  },
+  {
+   "text": "000650247680)",
+   "conf": 0.77
+  },
+  {
+   "text": "Henara",
+   "conf": 0.87
+  },
+  {
+   "text": "Dian",
+   "conf": 0.93
+  },
+  {
+   "text": "#02-03,",
+   "conf": 0.92
+  },
+  {
+   "text": "Level",
+   "conf": 0.96
+  },
+  {
+   "text": "2,",
+   "conf": 0.92
+  },
+  {
+   "text": "27,",
+   "conf": 0.96
+  },
+  {
+   "text": "Jalan",
+   "conf": 0.93
+  },
+  {
+   "text": "Suitan",
+   "conf": 0.89
+  },
+  {
+   "text": "Ismail,",
+   "conf": 0.74
+  },
+  {
+   "text": "50250",
+   "conf": 0.95
+  },
+  {
+   "text": "Kuala",
+   "conf": 0.95
+  },
+  {
+   "text": "Lumpur.",
+   "conf": 0.93
+  },
+  {
+   "text": "Tel",
+   "conf": 0.7
+  },
+  {
+   "text": ":",
+   "conf": 0.51
+  },
+  {
+   "text": "+6",
+   "conf": 0.9
+  },
+  {
+   "text": "03",
+   "conf": 0.9
+  },
+  {
+   "text": "2026",
+   "conf": 0.96
+  },
+  {
+   "text": "6366",
+   "conf": 0.87
+  },
+  {
+   "text": "Fax",
+   "conf": 0.88
+  },
+  {
+   "text": ";",
+   "conf": 0.62
+  },
+  {
+   "text": "+6",
+   "conf": 0.93
+  },
+  {
+   "text": "03",
+   "conf": 0.94
+  },
+  {
+   "text": "2026",
+   "conf": 0.96
+  },
+  {
+   "text": "6387",
+   "conf": 0.92
+  },
+  {
+   "text": ">>aTAX",
+   "conf": 0.0
+  },
+  {
+   "text": "INVOICE<<<",
+   "conf": 0.47
+  },
+  {
+   "text": "Tax",
+   "conf": 0.96
+  },
+  {
+   "text": "Invoice",
+   "conf": 0.96
+  },
+  {
+   "text": "na.",
+   "conf": 0.91
+  },
+  {
+   "text": "4953/0602/00602",
+   "conf": 0.89
+  },
+  {
+   "text": "25/06/18",
+   "conf": 0.94
+  },
+  {
+   "text": "11:18",
+   "conf": 0.94
+  },
+  {
+   "text": "010100",
+   "conf": 0.84
+  },
+  {
+   "text": "Pay",
+   "conf": 0.96
+  },
+  {
+   "text": "parking",
+   "conf": 0.96
+  },
+  {
+   "text": "ticket",
+   "conf": 0.81
+  },
+  {
+   "text": "5.00",
+   "conf": 0.75
+  },
+  {
+   "text": "RH",
+   "conf": 0.91
+  },
+  {
+   "text": "25/06/18",
+   "conf": 0.93
+  },
+  {
+   "text": "11:03",
+   "conf": 0.92
+  },
+  {
+   "text": "-",
+   "conf": 0.86
+  },
+  {
+   "text": "25/06/18",
+   "conf": 0.95
+  },
+  {
+   "text": "11:18",
+   "conf": 0.93
+  },
+  {
+   "text": "Length",
+   "conf": 0.95
+  },
+  {
+   "text": "of",
+   "conf": 0.91
+  },
+  {
+   "text": "stay:",
+   "conf": 0.93
+  },
+  {
+   "text": "0",
+   "conf": 0.93
+  },
+  {
+   "text": "Dy.",
+   "conf": 0.88
+  },
+  {
+   "text": "O",
+   "conf": 0.8
+  },
+  {
+   "text": "Hr.",
+   "conf": 0.74
+  },
+  {
+   "text": "15",
+   "conf": 0.95
+  },
+  {
+   "text": "Hin.",
+   "conf": 0.78
+  },
+  {
+   "text": "0299288700201",
+   "conf": 0.55
+  },
+  {
+   "text": "10181763979007?",
+   "conf": 0.18
+  },
+  {
+   "text": "Anount",
+   "conf": 0.0
+  },
+  {
+   "text": "Incl.",
+   "conf": 0.6
+  },
+  {
+   "text": "GST",
+   "conf": 0.94
+  },
+  {
+   "text": "5.00.",
+   "conf": 0.78
+  },
+  {
+   "text": "RH",
+   "conf": 0.78
+  },
+  {
+   "text": "Accepted",
+   "conf": 0.96
+  },
+  {
+   "text": "total",
+   "conf": 0.35
+  },
+  {
+   "text": "10.00",
+   "conf": 0.91
+  },
+  {
+   "text": "Rif",
+   "conf": 0.72
+  },
+  {
+   "text": "Change",
+   "conf": 0.96
+  },
+  {
+   "text": "5.00",
+   "conf": 0.91
+  },
+  {
+   "text": "RH",
+   "conf": 0.79
+  },
+  {
+   "text": "G.S.T,",
+   "conf": 0.58
+  },
+  {
+   "text": "0.00",
+   "conf": 0.81
+  },
+  {
+   "text": "0.00",
+   "conf": 0.92
+  },
+  {
+   "text": "Ri",
+   "conf": 0.84
+  },
+  {
+   "text": "FRO",
+   "conf": 0.0
+  },
+  {
+   "text": "Oona",
+   "conf": 0.12
+  },
+  {
+   "text": "III",
+   "conf": 0.17
+  },
+  {
+   "text": "IK",
+   "conf": 0.29
+  },
+  {
+   "text": "x",
+   "conf": 0.79
+  },
+  {
+   "text": "Thank",
+   "conf": 0.96
+  },
+  {
+   "text": "you",
+   "conf": 0.95
+  },
+  {
+   "text": "bd",
+   "conf": 0.46
+  },
+  {
+   "text": "JERE",
+   "conf": 0.0
+  },
+  {
+   "text": "ERE",
+   "conf": 0.29
+  }
+ ],
+ "mean_conf": 0.7778,
+ "low_conf_share": 0.1319,
+ "latency_ms": 1221,
+ "fields": {
+  "company": "DION REALTIES SDI BHD",
+  "date": "2018-06-25",
+  "total": 10.0
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  10.0
+ ],
+ "key": "X51008123476"
+}

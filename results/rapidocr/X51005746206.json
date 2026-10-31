@@ -1,0 +1,242 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "PANA JAYA ENTERPAISE",
+  "NO,1O-G. GROUND FLOOR.JALAN DINAR D.",
+  "U3/D.TAMAN SUBANG PEADANA.",
+  "SEK U3. 4015O SHAH ALAM.SELANGOR.",
+  "TEL:03-7847 2376 FAX:03-7847 2378",
+  "(GST Reg. No : 002069438464)",
+  "Tax lnvoice",
+  "INV No.:539405 Qty(s): 2",
+  "Date 21-03-2018 10:37:49",
+  "Cashiel: CASHlER2",
+  "Description Qty U.price Total TAX",
+  "9928 28 IN BASIN",
+  "1x 35.00 35.00 SR",
+  "TG WFD32 PP BOWL CTN",
+  "1x 70.00 70.00 SR",
+  "Total (Exciuding GST): 99.06",
+  "GST payable (6%): 5.94",
+  "Total (lnclusive of GST): 105.00",
+  "TOTAL : 105.00r",
+  "CASH : 105.00",
+  "GST Summary Amount(AM) Tax(AM)",
+  "SR (@ 6%) 99.06 5.94",
+  "*Thank You **",
+  "Please Come Again",
+  "Goods Sold Are",
+  "Not Refundable"
+ ],
+ "tokens": [
+  {
+   "text": "PANA JAYA ENTERPAISE",
+   "conf": 0.9123693600296974
+  },
+  {
+   "text": "NO,1O-G. GROUND FLOOR.JALAN DINAR D.",
+   "conf": 0.9233752621544732
+  },
+  {
+   "text": "U3/D.TAMAN SUBANG PEADANA.",
+   "conf": 0.9177268216243157
+  },
+  {
+   "text": "SEK U3. 4015O SHAH ALAM.SELANGOR.",
+   "conf": 0.9208176136016846
+  },
+  {
+   "text": "TEL:03-7847 2376",
+   "conf": 0.9859465584158897
+  },
+  {
+   "text": "FAX:03-7847 2378",
+   "conf": 0.9857665225863457
+  },
+  {
+   "text": "(GST Reg. No : 002069438464)",
+   "conf": 0.9535092775310788
+  },
+  {
+   "text": "Tax lnvoice",
+   "conf": 0.9428297172893177
+  },
+  {
+   "text": "INV No.:539405",
+   "conf": 0.9608768991061619
+  },
+  {
+   "text": "Qty(s): 2",
+   "conf": 0.9743111530939738
+  },
+  {
+   "text": "Date",
+   "conf": 0.9949386715888977
+  },
+  {
+   "text": "21-03-2018 10:37:49",
+   "conf": 0.9736523032188416
+  },
+  {
+   "text": "Cashiel: CASHlER2",
+   "conf": 0.8960545764249914
+  },
+  {
+   "text": "Description",
+   "conf": 0.9959000457416881
+  },
+  {
+   "text": "Qty",
+   "conf": 0.9916252096494039
+  },
+  {
+   "text": "U.price",
+   "conf": 0.8984403695378985
+  },
+  {
+   "text": "Total TAX",
+   "conf": 0.9595245586501228
+  },
+  {
+   "text": "9928 28 IN BASIN",
+   "conf": 0.9234932232648134
+  },
+  {
+   "text": "1x",
+   "conf": 0.7767451107501984
+  },
+  {
+   "text": "35.00",
+   "conf": 0.9993404626846314
+  },
+  {
+   "text": "35.00",
+   "conf": 0.9994652152061463
+  },
+  {
+   "text": "SR",
+   "conf": 0.9984514117240906
+  },
+  {
+   "text": "TG WFD32 PP BOWL CTN",
+   "conf": 0.9240548104047775
+  },
+  {
+   "text": "1x",
+   "conf": 0.7474885284900665
+  },
+  {
+   "text": "70.00",
+   "conf": 0.9998265504837036
+  },
+  {
+   "text": "70.00",
+   "conf": 0.9998028755187989
+  },
+  {
+   "text": "SR",
+   "conf": 0.9026953279972076
+  },
+  {
+   "text": "Total (Exciuding GST):",
+   "conf": 0.937638215043328
+  },
+  {
+   "text": "99.06",
+   "conf": 0.9998247146606445
+  },
+  {
+   "text": "GST payable (6%):",
+   "conf": 0.9734104205580318
+  },
+  {
+   "text": "5.94",
+   "conf": 0.9997593909502029
+  },
+  {
+   "text": "Total (lnclusive of GST):",
+   "conf": 0.9373834204673767
+  },
+  {
+   "text": "105.00",
+   "conf": 0.9993403057257334
+  },
+  {
+   "text": "TOTAL :",
+   "conf": 0.9431040627615792
+  },
+  {
+   "text": "105.00r",
+   "conf": 0.8903232919318336
+  },
+  {
+   "text": "CASH :",
+   "conf": 0.8799296418825785
+  },
+  {
+   "text": "105.00",
+   "conf": 0.9996379713217417
+  },
+  {
+   "text": "GST Summary",
+   "conf": 0.9949862902814691
+  },
+  {
+   "text": "Amount(AM)",
+   "conf": 0.9894023299217224
+  },
+  {
+   "text": "Tax(AM)",
+   "conf": 0.9611866389002118
+  },
+  {
+   "text": "SR",
+   "conf": 0.9808431267738342
+  },
+  {
+   "text": "(@ 6%)",
+   "conf": 0.9365156988302866
+  },
+  {
+   "text": "99.06",
+   "conf": 0.9998673796653748
+  },
+  {
+   "text": "5.94",
+   "conf": 0.999563068151474
+  },
+  {
+   "text": "*Thank You **",
+   "conf": 0.8243067837678469
+  },
+  {
+   "text": "Please Come Again",
+   "conf": 0.9575678986661574
+  },
+  {
+   "text": "Goods Sold Are",
+   "conf": 0.9327377059629985
+  },
+  {
+   "text": "Not Refundable",
+   "conf": 0.9648011709962573
+  }
+ ],
+ "mean_conf": 0.9492,
+ "low_conf_share": 0.0,
+ "latency_ms": 5301,
+ "fields": {
+  "company": "PANA JAYA ENTERPAISE",
+  "date": "2018-03-21",
+  "total": 105.0
+ },
+ "rule_reasons": [
+  "total_multiple_keyword_amounts"
+ ],
+ "total_candidates": [
+  99.06,
+  105.0,
+  105.0
+ ],
+ "key": "X51005746206"
+}

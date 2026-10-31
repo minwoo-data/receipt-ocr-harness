@@ -1,0 +1,671 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "Thank You, Flease cose again.",
+  ". Goods S014 Are Note Returnatde.",
+  "For feedback or cogplaint, please call:",
+  "“(44-3194 6284",
+  "HREDEEH VOUCHER BEFORE POINTS EXPIRY! *",
+  "ee ea ee",
+  "Segi Cash & Carry Sdn. Ehd",
+  "(317041-W)",
+  "PTA7920, SEKSYEN UP,",
+  "40150 SHAH ALAM,",
+  "SELANGGR DARUL EHSAN.",
+  "GST Reg. No. + QOIFE14695694",
+  "Invoice No oy Sn6?$",
+  "flate : GS Jan 2017 12:41pm",
+  "Counter 2 O7",
+  "RUNGET TOILET ROLL 20°S",
+  "i» t2.at 12.61 §",
+  "No of items: {",
+  "Sutrtotal Incl. GST:RH 12,41",
+  "Rounding: KM -@.01",
+  "Total Incl. GST:RH 12.60",
+  "Cash hi 40.00",
+  ". Change:RH 37,48",
+  "Missed Point Today: t1",
+  "Served by WINTIA FRISKANA HAYEST",
+  "SEGRE GST Summary OGOCO EK",
+  "GST Code Amount {RA} Tax( RM)",
+  "§ @4.0% 11.90 Ww",
+  "CREME L ERR ER ARERR RR",
+  "HK QBSBOTIS2E4O4S691 ae",
+  "Thank You. Please come again.",
+  "Goods Seld Are Not Keturnable,",
+  "For feedtack or complaint, please call:",
+  "; QU1-3194 @2e4",
+  "SREDEEN VOUCHER BEFORE POINTS EXPIRY!",
+  "lanes aan eenniaaeeteesieinerienieteterietetenteeteced",
+  "a a"
+ ],
+ "tokens": [
+  {
+   "text": "Thank",
+   "conf": 0.96
+  },
+  {
+   "text": "You,",
+   "conf": 0.93
+  },
+  {
+   "text": "Flease",
+   "conf": 0.9
+  },
+  {
+   "text": "cose",
+   "conf": 0.85
+  },
+  {
+   "text": "again.",
+   "conf": 0.91
+  },
+  {
+   "text": ".",
+   "conf": 0.53
+  },
+  {
+   "text": "Goods",
+   "conf": 0.95
+  },
+  {
+   "text": "S014",
+   "conf": 0.02
+  },
+  {
+   "text": "Are",
+   "conf": 0.95
+  },
+  {
+   "text": "Note",
+   "conf": 0.75
+  },
+  {
+   "text": "Returnatde.",
+   "conf": 0.72
+  },
+  {
+   "text": "For",
+   "conf": 0.96
+  },
+  {
+   "text": "feedback",
+   "conf": 0.96
+  },
+  {
+   "text": "or",
+   "conf": 0.93
+  },
+  {
+   "text": "cogplaint,",
+   "conf": 0.23
+  },
+  {
+   "text": "please",
+   "conf": 0.93
+  },
+  {
+   "text": "call:",
+   "conf": 0.95
+  },
+  {
+   "text": "“(44-3194",
+   "conf": 0.0
+  },
+  {
+   "text": "6284",
+   "conf": 0.75
+  },
+  {
+   "text": "HREDEEH",
+   "conf": 0.16
+  },
+  {
+   "text": "VOUCHER",
+   "conf": 0.95
+  },
+  {
+   "text": "BEFORE",
+   "conf": 0.39
+  },
+  {
+   "text": "POINTS",
+   "conf": 0.46
+  },
+  {
+   "text": "EXPIRY!",
+   "conf": 0.03
+  },
+  {
+   "text": "*",
+   "conf": 0.03
+  },
+  {
+   "text": "ee",
+   "conf": 0.2
+  },
+  {
+   "text": "ea",
+   "conf": 0.05
+  },
+  {
+   "text": "ee",
+   "conf": 0.22
+  },
+  {
+   "text": "Segi",
+   "conf": 0.78
+  },
+  {
+   "text": "Cash",
+   "conf": 0.93
+  },
+  {
+   "text": "&",
+   "conf": 0.92
+  },
+  {
+   "text": "Carry",
+   "conf": 0.96
+  },
+  {
+   "text": "Sdn.",
+   "conf": 0.0
+  },
+  {
+   "text": "Ehd",
+   "conf": 0.0
+  },
+  {
+   "text": "(317041-W)",
+   "conf": 0.66
+  },
+  {
+   "text": "PTA7920,",
+   "conf": 0.35
+  },
+  {
+   "text": "SEKSYEN",
+   "conf": 0.56
+  },
+  {
+   "text": "UP,",
+   "conf": 0.64
+  },
+  {
+   "text": "40150",
+   "conf": 0.56
+  },
+  {
+   "text": "SHAH",
+   "conf": 0.95
+  },
+  {
+   "text": "ALAM,",
+   "conf": 0.91
+  },
+  {
+   "text": "SELANGGR",
+   "conf": 0.89
+  },
+  {
+   "text": "DARUL",
+   "conf": 0.0
+  },
+  {
+   "text": "EHSAN.",
+   "conf": 0.74
+  },
+  {
+   "text": "GST",
+   "conf": 0.94
+  },
+  {
+   "text": "Reg.",
+   "conf": 0.9
+  },
+  {
+   "text": "No.",
+   "conf": 0.92
+  },
+  {
+   "text": "+",
+   "conf": 0.45
+  },
+  {
+   "text": "QOIFE14695694",
+   "conf": 0.0
+  },
+  {
+   "text": "Invoice",
+   "conf": 0.68
+  },
+  {
+   "text": "No",
+   "conf": 0.6
+  },
+  {
+   "text": "oy",
+   "conf": 0.52
+  },
+  {
+   "text": "Sn6?$",
+   "conf": 0.0
+  },
+  {
+   "text": "flate",
+   "conf": 0.82
+  },
+  {
+   "text": ":",
+   "conf": 0.65
+  },
+  {
+   "text": "GS",
+   "conf": 0.69
+  },
+  {
+   "text": "Jan",
+   "conf": 0.92
+  },
+  {
+   "text": "2017",
+   "conf": 0.77
+  },
+  {
+   "text": "12:41pm",
+   "conf": 0.33
+  },
+  {
+   "text": "Counter",
+   "conf": 0.79
+  },
+  {
+   "text": "2",
+   "conf": 0.36
+  },
+  {
+   "text": "O7",
+   "conf": 0.72
+  },
+  {
+   "text": "RUNGET",
+   "conf": 0.4
+  },
+  {
+   "text": "TOILET",
+   "conf": 0.96
+  },
+  {
+   "text": "ROLL",
+   "conf": 0.85
+  },
+  {
+   "text": "20°S",
+   "conf": 0.69
+  },
+  {
+   "text": "i»",
+   "conf": 0.62
+  },
+  {
+   "text": "t2.at",
+   "conf": 0.38
+  },
+  {
+   "text": "12.61",
+   "conf": 0.86
+  },
+  {
+   "text": "§",
+   "conf": 0.71
+  },
+  {
+   "text": "No",
+   "conf": 0.95
+  },
+  {
+   "text": "of",
+   "conf": 0.95
+  },
+  {
+   "text": "items:",
+   "conf": 0.93
+  },
+  {
+   "text": "{",
+   "conf": 0.63
+  },
+  {
+   "text": "Sutrtotal",
+   "conf": 0.66
+  },
+  {
+   "text": "Incl.",
+   "conf": 0.92
+  },
+  {
+   "text": "GST:RH",
+   "conf": 0.83
+  },
+  {
+   "text": "12,41",
+   "conf": 0.89
+  },
+  {
+   "text": "Rounding:",
+   "conf": 0.57
+  },
+  {
+   "text": "KM",
+   "conf": 0.57
+  },
+  {
+   "text": "-@.01",
+   "conf": 0.14
+  },
+  {
+   "text": "Total",
+   "conf": 0.85
+  },
+  {
+   "text": "Incl.",
+   "conf": 0.87
+  },
+  {
+   "text": "GST:RH",
+   "conf": 0.12
+  },
+  {
+   "text": "12.60",
+   "conf": 0.93
+  },
+  {
+   "text": "Cash",
+   "conf": 0.13
+  },
+  {
+   "text": "hi",
+   "conf": 0.13
+  },
+  {
+   "text": "40.00",
+   "conf": 0.69
+  },
+  {
+   "text": ".",
+   "conf": 0.66
+  },
+  {
+   "text": "Change:RH",
+   "conf": 0.5
+  },
+  {
+   "text": "37,48",
+   "conf": 0.83
+  },
+  {
+   "text": "Missed",
+   "conf": 0.3
+  },
+  {
+   "text": "Point",
+   "conf": 0.95
+  },
+  {
+   "text": "Today:",
+   "conf": 0.89
+  },
+  {
+   "text": "t1",
+   "conf": 0.26
+  },
+  {
+   "text": "Served",
+   "conf": 0.96
+  },
+  {
+   "text": "by",
+   "conf": 0.93
+  },
+  {
+   "text": "WINTIA",
+   "conf": 0.48
+  },
+  {
+   "text": "FRISKANA",
+   "conf": 0.89
+  },
+  {
+   "text": "HAYEST",
+   "conf": 0.89
+  },
+  {
+   "text": "SEGRE",
+   "conf": 0.3
+  },
+  {
+   "text": "GST",
+   "conf": 0.74
+  },
+  {
+   "text": "Summary",
+   "conf": 0.84
+  },
+  {
+   "text": "OGOCO",
+   "conf": 0.0
+  },
+  {
+   "text": "EK",
+   "conf": 0.55
+  },
+  {
+   "text": "GST",
+   "conf": 0.93
+  },
+  {
+   "text": "Code",
+   "conf": 0.95
+  },
+  {
+   "text": "Amount",
+   "conf": 0.0
+  },
+  {
+   "text": "{RA}",
+   "conf": 0.0
+  },
+  {
+   "text": "Tax(",
+   "conf": 0.0
+  },
+  {
+   "text": "RM)",
+   "conf": 0.76
+  },
+  {
+   "text": "§",
+   "conf": 0.68
+  },
+  {
+   "text": "@4.0%",
+   "conf": 0.76
+  },
+  {
+   "text": "11.90",
+   "conf": 0.65
+  },
+  {
+   "text": "Ww",
+   "conf": 0.23
+  },
+  {
+   "text": "CREME",
+   "conf": 0.0
+  },
+  {
+   "text": "L",
+   "conf": 0.0
+  },
+  {
+   "text": "ERR",
+   "conf": 0.05
+  },
+  {
+   "text": "ER",
+   "conf": 0.0
+  },
+  {
+   "text": "ARERR",
+   "conf": 0.22
+  },
+  {
+   "text": "RR",
+   "conf": 0.03
+  },
+  {
+   "text": "HK",
+   "conf": 0.55
+  },
+  {
+   "text": "QBSBOTIS2E4O4S691",
+   "conf": 0.19
+  },
+  {
+   "text": "ae",
+   "conf": 0.2
+  },
+  {
+   "text": "Thank",
+   "conf": 0.94
+  },
+  {
+   "text": "You.",
+   "conf": 0.78
+  },
+  {
+   "text": "Please",
+   "conf": 0.96
+  },
+  {
+   "text": "come",
+   "conf": 0.95
+  },
+  {
+   "text": "again.",
+   "conf": 0.76
+  },
+  {
+   "text": "Goods",
+   "conf": 0.8
+  },
+  {
+   "text": "Seld",
+   "conf": 0.3
+  },
+  {
+   "text": "Are",
+   "conf": 0.95
+  },
+  {
+   "text": "Not",
+   "conf": 0.89
+  },
+  {
+   "text": "Keturnable,",
+   "conf": 0.02
+  },
+  {
+   "text": "For",
+   "conf": 0.92
+  },
+  {
+   "text": "feedtack",
+   "conf": 0.88
+  },
+  {
+   "text": "or",
+   "conf": 0.93
+  },
+  {
+   "text": "complaint,",
+   "conf": 0.95
+  },
+  {
+   "text": "please",
+   "conf": 0.95
+  },
+  {
+   "text": "call:",
+   "conf": 0.82
+  },
+  {
+   "text": ";",
+   "conf": 0.04
+  },
+  {
+   "text": "QU1-3194",
+   "conf": 0.0
+  },
+  {
+   "text": "@2e4",
+   "conf": 0.0
+  },
+  {
+   "text": "SREDEEN",
+   "conf": 0.0
+  },
+  {
+   "text": "VOUCHER",
+   "conf": 0.92
+  },
+  {
+   "text": "BEFORE",
+   "conf": 0.9
+  },
+  {
+   "text": "POINTS",
+   "conf": 0.87
+  },
+  {
+   "text": "EXPIRY!",
+   "conf": 0.0
+  },
+  {
+   "text": "lanes",
+   "conf": 0.0
+  },
+  {
+   "text": "aan",
+   "conf": 0.11
+  },
+  {
+   "text": "eenniaaeeteesieinerienieteterietetenteeteced",
+   "conf": 0.0
+  },
+  {
+   "text": "a",
+   "conf": 0.27
+  },
+  {
+   "text": "a",
+   "conf": 0.15
+  }
+ ],
+ "mean_conf": 0.5754,
+ "low_conf_share": 0.3595,
+ "latency_ms": 1181,
+ "fields": {
+  "company": "GOODS S014 ARE NOTE RETURNATDE",
+  "date": null,
+  "total": 12.6
+ },
+ "rule_reasons": [
+  "date_not_found"
+ ],
+ "total_candidates": [
+  12.6
+ ],
+ "key": "X51006334699"
+}

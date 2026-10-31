@@ -1,0 +1,249 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "POPULAR BOOK",
+  "CO. (M) SDN BHD",
+  "（Co.No.113825-W)",
+  "(GST Reg No. 001492992000)",
+  "No 8, Jalan 7/1l8B, Desa Tun Razak",
+  "56000 Kuala Lunpur,Malaysia",
+  "AEON SHAH ALAM",
+  "Tel:03-55235214",
+  "24/01/1816:14 Slip No.: 8020178503",
+  "Tasha Trans:192915",
+  "Description Amcunt",
+  "PB SHT/P 11H A4 50'S 16.90T",
+  "No Plastic Bag Campai 0.20T",
+  "Issue Spring Ingot RM",
+  "PB 2DR/F1LE A440MM",
+  "2pc 0 7.99 15.98T",
+  "Stat-Buy 2oRM 13 -2.98",
+  "Total RM Incl. of GST 30.10",
+  "Cash -40.10",
+  "CHANGE 10.00",
+  "Item Count 5",
+  "GST Summary Amount (Ri) Tax (RM)",
+  "T @ 6% 28.39 1.71",
+  "Z. @ 0% 0.00 0.00",
+  "Total Savings -2.98",
+  "BE A POPULAR CARID MEMBER",
+  "AND ENJOY SPECIAL DISCOUNT'S",
+  "THANK YOU.PLEASE COME AGAIN.",
+  "www.popular.com.my",
+  "Buy Chinese books online",
+  "www.popularonline.com.my"
+ ],
+ "tokens": [
+  {
+   "text": "POPULAR BOOK",
+   "conf": 0.9774202654759089
+  },
+  {
+   "text": "CO. (M) SDN BHD",
+   "conf": 0.9747584422429403
+  },
+  {
+   "text": "（Co.No.113825-W)",
+   "conf": 0.9501986689865589
+  },
+  {
+   "text": "(GST Reg No. 001492992000)",
+   "conf": 0.9391449598165659
+  },
+  {
+   "text": "No 8, Jalan 7/1l8B, Desa Tun Razak",
+   "conf": 0.9359441031427944
+  },
+  {
+   "text": "56000 Kuala Lunpur,Malaysia",
+   "conf": 0.9589862823486328
+  },
+  {
+   "text": "AEON SHAH ALAM",
+   "conf": 0.9624888641493661
+  },
+  {
+   "text": "Tel:03-55235214",
+   "conf": 0.9767752329508463
+  },
+  {
+   "text": "24/01/1816:14",
+   "conf": 0.99766861475431
+  },
+  {
+   "text": "Slip No.: 8020178503",
+   "conf": 0.9400241792201995
+  },
+  {
+   "text": "Tasha",
+   "conf": 0.994635534286499
+  },
+  {
+   "text": "Trans:192915",
+   "conf": 0.9730582485596339
+  },
+  {
+   "text": "Description",
+   "conf": 0.9953373887322166
+  },
+  {
+   "text": "Amcunt",
+   "conf": 0.9692258636156718
+  },
+  {
+   "text": "PB SHT/P 11H A4 50'S",
+   "conf": 0.8954003840684891
+  },
+  {
+   "text": "16.90T",
+   "conf": 0.9926054775714874
+  },
+  {
+   "text": "No Plastic Bag Campai",
+   "conf": 0.9836092676435199
+  },
+  {
+   "text": "0.20T",
+   "conf": 0.9959365844726562
+  },
+  {
+   "text": "Issue Spring Ingot RM",
+   "conf": 0.9292534575575874
+  },
+  {
+   "text": "PB 2DR/F1LE A440MM",
+   "conf": 0.8855878098143471
+  },
+  {
+   "text": "2pc 0 7.99",
+   "conf": 0.9101120352745056
+  },
+  {
+   "text": "15.98T",
+   "conf": 0.9841702977816263
+  },
+  {
+   "text": "Stat-Buy 2oRM 13",
+   "conf": 0.9441049359738827
+  },
+  {
+   "text": "-2.98",
+   "conf": 0.9850951671600342
+  },
+  {
+   "text": "Total RM Incl. of GST",
+   "conf": 0.9785847805795216
+  },
+  {
+   "text": "30.10",
+   "conf": 0.9988087296485901
+  },
+  {
+   "text": "Cash",
+   "conf": 0.9964218288660049
+  },
+  {
+   "text": "-40.10",
+   "conf": 0.9987508952617645
+  },
+  {
+   "text": "CHANGE",
+   "conf": 0.9873011708259583
+  },
+  {
+   "text": "10.00",
+   "conf": 0.9988460779190064
+  },
+  {
+   "text": "Item Count",
+   "conf": 0.9575582861900329
+  },
+  {
+   "text": "5",
+   "conf": 0.9969009160995483
+  },
+  {
+   "text": "GST Summary",
+   "conf": 0.9764685034751892
+  },
+  {
+   "text": "Amount (Ri)",
+   "conf": 0.8479018915783275
+  },
+  {
+   "text": "Tax (RM)",
+   "conf": 0.8763668537139893
+  },
+  {
+   "text": "T @ 6%",
+   "conf": 0.9509969154993693
+  },
+  {
+   "text": "28.39",
+   "conf": 0.9983289003372192
+  },
+  {
+   "text": "1.71",
+   "conf": 0.9986721873283386
+  },
+  {
+   "text": "Z. @ 0%",
+   "conf": 0.976482766015189
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9982069432735443
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9987619817256927
+  },
+  {
+   "text": "Total Savings",
+   "conf": 0.9670787132703341
+  },
+  {
+   "text": "-2.98",
+   "conf": 0.9019247531890869
+  },
+  {
+   "text": "BE A POPULAR CARID MEMBER",
+   "conf": 0.9704519057273865
+  },
+  {
+   "text": "AND ENJOY SPECIAL DISCOUNT'S",
+   "conf": 0.9631764537521771
+  },
+  {
+   "text": "THANK YOU.PLEASE COME AGAIN.",
+   "conf": 0.9518853894301823
+  },
+  {
+   "text": "www.popular.com.my",
+   "conf": 0.9910841683546702
+  },
+  {
+   "text": "Buy Chinese books online",
+   "conf": 0.9628076901038488
+  },
+  {
+   "text": "www.popularonline.com.my",
+   "conf": 0.9544765253861746
+  }
+ ],
+ "mean_conf": 0.9643,
+ "low_conf_share": 0.0,
+ "latency_ms": 6797,
+ "fields": {
+  "company": "CO SDN BHD",
+  "date": null,
+  "total": 30.1
+ },
+ "rule_reasons": [
+  "date_not_found"
+ ],
+ "total_candidates": [
+  30.1
+ ],
+ "key": "X51006008086"
+}

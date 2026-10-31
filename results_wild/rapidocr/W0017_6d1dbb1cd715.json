@@ -1,0 +1,193 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "LiDL",
+  "Reso art.entro 30 o con scontrino",
+  "LIDL ITALIA SRL RON<RM>",
+  "VioDelle Rustica.133 00155",
+  "PI02275030233 RAEEIT08020000001777",
+  "LU-SA8:30-21",
+  "EURO",
+  "GRANA PADAND GRATT",
+  "RANA CAPPELLETTE PRO",
+  "Cad2.75Pz.2",
+  "PRNC.CUE.DOLCE/REF 1,89",
+  "CREMA CON OCCEOLE 1.49",
+  "PANNA OA CUCINA 2.69",
+  "SRLE.FINO 0.17",
+  "UOUR ALL.TERRR 1.25",
+  "0.99",
+  "CASERECCTO AFFEITATO 0.99",
+  "TOTALE EURO 17,36",
+  "PAGAMENTO CONTANTE 17.50",
+  "RESTO 0.14",
+  "PR19 6536/02 2111131228",
+  "21/11/1312-28 SC.N.38",
+  "FET52011103"
+ ],
+ "tokens": [
+  {
+   "text": "LiDL",
+   "conf": 0.8991826474666595
+  },
+  {
+   "text": "Reso art.entro 30 o con scontrino",
+   "conf": 0.8293153634577086
+  },
+  {
+   "text": "LIDL ITALIA SRL RON<RM>",
+   "conf": 0.8452756340089052
+  },
+  {
+   "text": "VioDelle Rustica.133 00155",
+   "conf": 0.8807346408183758
+  },
+  {
+   "text": "PI02275030233 RAEEIT08020000001777",
+   "conf": 0.9785045788568609
+  },
+  {
+   "text": "LU-SA8:30-21",
+   "conf": 0.9294772495826086
+  },
+  {
+   "text": "EURO",
+   "conf": 0.9717241674661636
+  },
+  {
+   "text": "GRANA PADAND GRATT",
+   "conf": 0.909661720196406
+  },
+  {
+   "text": "RANA CAPPELLETTE PRO",
+   "conf": 0.8579903289675712
+  },
+  {
+   "text": "Cad2.75Pz.2",
+   "conf": 0.7860868356444619
+  },
+  {
+   "text": "PRNC.CUE.DOLCE/REF",
+   "conf": 0.8741135232978396
+  },
+  {
+   "text": "1,89",
+   "conf": 0.9323718994855881
+  },
+  {
+   "text": "CREMA CON OCCEOLE",
+   "conf": 0.8350075886530035
+  },
+  {
+   "text": "1.49",
+   "conf": 0.9178412407636642
+  },
+  {
+   "text": "PANNA OA CUCINA",
+   "conf": 0.8917285323143005
+  },
+  {
+   "text": "2.69",
+   "conf": 0.949718177318573
+  },
+  {
+   "text": "SRLE.FINO",
+   "conf": 0.8460118340121375
+  },
+  {
+   "text": "0.17",
+   "conf": 0.9418830871582031
+  },
+  {
+   "text": "UOUR ALL.TERRR",
+   "conf": 0.8824771174362728
+  },
+  {
+   "text": "1.25",
+   "conf": 0.8675929754972458
+  },
+  {
+   "text": "0.99",
+   "conf": 0.9863147586584091
+  },
+  {
+   "text": "CASERECCTO AFFEITATO",
+   "conf": 0.9122714102268219
+  },
+  {
+   "text": "0.99",
+   "conf": 0.9838651120662689
+  },
+  {
+   "text": "TOTALE EURO",
+   "conf": 0.9523487849669023
+  },
+  {
+   "text": "17,36",
+   "conf": 0.9363057851791382
+  },
+  {
+   "text": "PAGAMENTO CONTANTE",
+   "conf": 0.9490975770685408
+  },
+  {
+   "text": "17.50",
+   "conf": 0.9836280465126037
+  },
+  {
+   "text": "RESTO",
+   "conf": 0.9700520515441895
+  },
+  {
+   "text": "0.14",
+   "conf": 0.9605245143175125
+  },
+  {
+   "text": "PR19",
+   "conf": 0.7825767770409584
+  },
+  {
+   "text": "6536/02",
+   "conf": 0.9574921642030988
+  },
+  {
+   "text": "2111131228",
+   "conf": 0.9957316637039184
+  },
+  {
+   "text": "21/11/1312-28",
+   "conf": 0.9937870869269738
+  },
+  {
+   "text": "SC.N.38",
+   "conf": 0.9121465342385429
+  },
+  {
+   "text": "FET52011103",
+   "conf": 0.9337788440964438
+  }
+ ],
+ "mean_conf": 0.9153,
+ "low_conf_share": 0.0,
+ "latency_ms": 3237,
+ "fields": {
+  "company": "LIDL",
+  "date": null,
+  "total": 17.5
+ },
+ "rule_reasons": [
+  "date_not_found",
+  "total_no_keyword_fallback_max"
+ ],
+ "total_candidates": [
+  1.49,
+  2.69,
+  0.17,
+  1.25,
+  0.99,
+  0.99,
+  17.5,
+  0.14
+ ],
+ "key": "W0017_6d1dbb1cd715"
+}

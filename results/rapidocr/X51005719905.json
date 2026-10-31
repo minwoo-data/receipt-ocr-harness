@@ -1,0 +1,357 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "SAINTHEARTPASTRY",
+  "(001980264-H)",
+  "29,JLN SJ 17,",
+  "TMNSELAYANGJAYA,",
+  "68100BATUCAVES,",
+  "SELANGOR",
+  "TEL:03-61372830",
+  "GSTID:001661329408",
+  "SIMPLIFIEDTAXINVOICE",
+  "CASH",
+  "Receipt #: CS00254837 Table: 45",
+  "Staff: AISHAH Date: 25/03/2018",
+  "Cashier: AISHAH Time: 10:56:00",
+  "Prlco Amt",
+  "Description Qty (RM) (RM) Tax",
+  "JUMBO SAUSAGECHEESE 1 3.10 3.10 SR",
+  "JUMBO SAUSAGE CHEESE 1 3.10 3.10 SR",
+  "GARLIC CHEESE 1 2.00 2.00 SR",
+  "Total: 3 8.20",
+  "Total Sales(Excluding GST): 7.74",
+  "Discount: 0.00",
+  "Service Charge 0.00",
+  "Total GST 0.46",
+  "Rounding: 0.00",
+  "Total Sales(Inclusive of GsT) 8.20",
+  "CASH 8.20",
+  "CHANGE 0.00",
+  "GST SUMMARY",
+  "Tax Code % Amt(RM) Iax(RM)",
+  "SR 6 7.74 0.46",
+  "Total: 7.74 0.46",
+  "GOODSSOLD ARE NOT RETURNABLE,THANKYOU.",
+  "RE-PRINT"
+ ],
+ "tokens": [
+  {
+   "text": "SAINTHEARTPASTRY",
+   "conf": 0.9818275570869446
+  },
+  {
+   "text": "(001980264-H)",
+   "conf": 0.9875735273728004
+  },
+  {
+   "text": "29,JLN SJ 17,",
+   "conf": 0.995447731935061
+  },
+  {
+   "text": "TMNSELAYANGJAYA,",
+   "conf": 0.9652889370918274
+  },
+  {
+   "text": "68100BATUCAVES,",
+   "conf": 0.9559606870015462
+  },
+  {
+   "text": "SELANGOR",
+   "conf": 0.990740567445755
+  },
+  {
+   "text": "TEL:03-61372830",
+   "conf": 0.9863355954488119
+  },
+  {
+   "text": "GSTID:001661329408",
+   "conf": 0.9884418282243941
+  },
+  {
+   "text": "SIMPLIFIEDTAXINVOICE",
+   "conf": 0.9913798660039902
+  },
+  {
+   "text": "CASH",
+   "conf": 0.9919765442609787
+  },
+  {
+   "text": "Receipt #:",
+   "conf": 0.9469882369041442
+  },
+  {
+   "text": "CS00254837",
+   "conf": 0.9946643531322479
+  },
+  {
+   "text": "Table:",
+   "conf": 0.9875120520591736
+  },
+  {
+   "text": "45",
+   "conf": 0.9985049962997437
+  },
+  {
+   "text": "Staff:",
+   "conf": 0.9670930107434591
+  },
+  {
+   "text": "AISHAH",
+   "conf": 0.9854256212711334
+  },
+  {
+   "text": "Date:",
+   "conf": 0.9882494211196899
+  },
+  {
+   "text": "25/03/2018",
+   "conf": 0.9962001323699952
+  },
+  {
+   "text": "Cashier:",
+   "conf": 0.9921018183231354
+  },
+  {
+   "text": "AISHAH",
+   "conf": 0.987925132115682
+  },
+  {
+   "text": "Time:",
+   "conf": 0.9820275425910949
+  },
+  {
+   "text": "10:56:00",
+   "conf": 0.9835390746593475
+  },
+  {
+   "text": "Prlco",
+   "conf": 0.8727800607681274
+  },
+  {
+   "text": "Amt",
+   "conf": 0.9887147943178812
+  },
+  {
+   "text": "Description",
+   "conf": 0.9909255775538358
+  },
+  {
+   "text": "Qty",
+   "conf": 0.9956313570340475
+  },
+  {
+   "text": "(RM)",
+   "conf": 0.9494093209505081
+  },
+  {
+   "text": "(RM)",
+   "conf": 0.9468384087085724
+  },
+  {
+   "text": "Tax",
+   "conf": 0.9856329560279846
+  },
+  {
+   "text": "JUMBO SAUSAGECHEESE",
+   "conf": 0.9706678045423407
+  },
+  {
+   "text": "1",
+   "conf": 0.9899995923042297
+  },
+  {
+   "text": "3.10",
+   "conf": 0.9984707981348038
+  },
+  {
+   "text": "3.10",
+   "conf": 0.9982370436191559
+  },
+  {
+   "text": "SR",
+   "conf": 0.9929628372192383
+  },
+  {
+   "text": "JUMBO SAUSAGE CHEESE",
+   "conf": 0.9506360352039337
+  },
+  {
+   "text": "1",
+   "conf": 0.9955138564109802
+  },
+  {
+   "text": "3.10",
+   "conf": 0.9960105717182159
+  },
+  {
+   "text": "3.10",
+   "conf": 0.9982621073722839
+  },
+  {
+   "text": "SR",
+   "conf": 0.9924725890159607
+  },
+  {
+   "text": "GARLIC CHEESE",
+   "conf": 0.9706928454912626
+  },
+  {
+   "text": "1",
+   "conf": 0.9939566850662231
+  },
+  {
+   "text": "2.00",
+   "conf": 0.9987083971500397
+  },
+  {
+   "text": "2.00",
+   "conf": 0.9781292676925659
+  },
+  {
+   "text": "SR",
+   "conf": 0.9928795099258423
+  },
+  {
+   "text": "Total:",
+   "conf": 0.9906859298547109
+  },
+  {
+   "text": "3",
+   "conf": 0.9957093000411987
+  },
+  {
+   "text": "8.20",
+   "conf": 0.998255267739296
+  },
+  {
+   "text": "Total Sales(Excluding GST):",
+   "conf": 0.9531755050023397
+  },
+  {
+   "text": "7.74",
+   "conf": 0.9979063123464584
+  },
+  {
+   "text": "Discount:",
+   "conf": 0.989696290757921
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9983231276273727
+  },
+  {
+   "text": "Service Charge",
+   "conf": 0.987179343189512
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9966269731521606
+  },
+  {
+   "text": "Total GST",
+   "conf": 0.9638380739423964
+  },
+  {
+   "text": "0.46",
+   "conf": 0.9988085329532623
+  },
+  {
+   "text": "Rounding:",
+   "conf": 0.9700997670491537
+  },
+  {
+   "text": "0.00",
+   "conf": 0.996998593211174
+  },
+  {
+   "text": "Total Sales(Inclusive of GsT)",
+   "conf": 0.9359404937974338
+  },
+  {
+   "text": "8.20",
+   "conf": 0.9990069419145584
+  },
+  {
+   "text": "CASH",
+   "conf": 0.9855423122644424
+  },
+  {
+   "text": "8.20",
+   "conf": 0.9990056604146957
+  },
+  {
+   "text": "CHANGE",
+   "conf": 0.987052838007609
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9985693395137787
+  },
+  {
+   "text": "GST SUMMARY",
+   "conf": 0.9377408244393088
+  },
+  {
+   "text": "Tax Code",
+   "conf": 0.9613111317157745
+  },
+  {
+   "text": "%",
+   "conf": 0.9953592419624329
+  },
+  {
+   "text": "Amt(RM) Iax(RM)",
+   "conf": 0.8880670150121053
+  },
+  {
+   "text": "SR",
+   "conf": 0.9913728535175323
+  },
+  {
+   "text": "6",
+   "conf": 0.7055354118347168
+  },
+  {
+   "text": "7.74",
+   "conf": 0.9989639222621918
+  },
+  {
+   "text": "0.46",
+   "conf": 0.9969812333583832
+  },
+  {
+   "text": "Total:",
+   "conf": 0.9956488807996114
+  },
+  {
+   "text": "7.74",
+   "conf": 0.9986992031335831
+  },
+  {
+   "text": "0.46",
+   "conf": 0.999054491519928
+  },
+  {
+   "text": "GOODSSOLD ARE NOT RETURNABLE,THANKYOU.",
+   "conf": 0.9436888773190347
+  },
+  {
+   "text": "RE-PRINT",
+   "conf": 0.98801039904356
+  }
+ ],
+ "mean_conf": 0.9781,
+ "low_conf_share": 0.0,
+ "latency_ms": 4998,
+ "fields": {
+  "company": "SAINTHEARTPASTRY",
+  "date": "2018-03-25",
+  "total": 8.2
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  8.2
+ ],
+ "key": "X51005719905"
+}

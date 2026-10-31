@@ -1,0 +1,189 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "HOMES HARMONY  I UTAMA SHOPPING CENTRE",
+  "MONSIEUR（M）SDN.BHD.（121889-W）",
+  "GSTREGN0.000992739328）",
+  "Lot S319A,2nd Flo0r,",
+  "1Utama Shopping Centre - Phase 2",
+  "Persiaran Bandar Utama,",
+  "47800 Petaling Jaya.Malaysia",
+  "Tel03-77299662FaX.03-77268124",
+  "*********米 TAX INVOICE **米*******",
+  "12/06/2016-13:30:10-28-N0RBAIZURA BT-101",
+  "-002",
+  "Receipt No.:138352",
+  "1)400001-HH-ST0RG-BLUE-STD<ADMIN>",
+  "HHMILTON NYLON BASKET-HMT143188",
+  "1X 29.00-(20%= 5.80)= 23.20",
+  "0.00 23.20",
+  "Rounding Adj 0.00",
+  "Total 23.20",
+  "GST 6% INCLUDED 1.31",
+  "CASH 50.20",
+  "CHANGE 27.00",
+  "MEMBER PURCHASE:",
+  "N15046033-LEE MEI YEIN",
+  "THANK YOU",
+  "GOODS SOLD ARE NOT REFUNDABLE"
+ ],
+ "tokens": [
+  {
+   "text": "HOMES HARMONY  I UTAMA SHOPPING CENTRE",
+   "conf": 0.9199269617858686
+  },
+  {
+   "text": "MONSIEUR（M）SDN.BHD.（121889-W）",
+   "conf": 0.8852704855902441
+  },
+  {
+   "text": "GSTREGN0.000992739328）",
+   "conf": 0.9329146241599863
+  },
+  {
+   "text": "Lot S319A,2nd Flo0r,",
+   "conf": 0.866019320487976
+  },
+  {
+   "text": "1Utama Shopping Centre - Phase 2",
+   "conf": 0.9217846244573593
+  },
+  {
+   "text": "Persiaran Bandar Utama,",
+   "conf": 0.9442689030066781
+  },
+  {
+   "text": "47800 Petaling Jaya.Malaysia",
+   "conf": 0.9748075136116573
+  },
+  {
+   "text": "Tel03-77299662FaX.03-77268124",
+   "conf": 0.9589371126273583
+  },
+  {
+   "text": "*********米",
+   "conf": 0.7852823734283447
+  },
+  {
+   "text": "TAX INVOICE",
+   "conf": 0.9810240268707275
+  },
+  {
+   "text": "**米*******",
+   "conf": 0.5954250514507293
+  },
+  {
+   "text": "12/06/2016-13:30:10-28-N0RBAIZURA BT-101",
+   "conf": 0.9876045197248459
+  },
+  {
+   "text": "-002",
+   "conf": 0.9069012701511383
+  },
+  {
+   "text": "Receipt No.:138352",
+   "conf": 0.9410750203662448
+  },
+  {
+   "text": "1)400001-HH-ST0RG-BLUE-STD<ADMIN>",
+   "conf": 0.9150268327106129
+  },
+  {
+   "text": "HHMILTON NYLON BASKET-HMT143188",
+   "conf": 0.9654692949787262
+  },
+  {
+   "text": "1X",
+   "conf": 0.7834154069423676
+  },
+  {
+   "text": "29.00-(20%=",
+   "conf": 0.9245841719887473
+  },
+  {
+   "text": "5.80)=",
+   "conf": 0.9411995311578115
+  },
+  {
+   "text": "23.20",
+   "conf": 0.9763849377632141
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9845706820487976
+  },
+  {
+   "text": "23.20",
+   "conf": 0.993381118774414
+  },
+  {
+   "text": "Rounding Adj",
+   "conf": 0.9850160529216131
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9849263280630112
+  },
+  {
+   "text": "Total",
+   "conf": 0.9694388031959533
+  },
+  {
+   "text": "23.20",
+   "conf": 0.9953016757965087
+  },
+  {
+   "text": "GST 6% INCLUDED",
+   "conf": 0.9513884067535401
+  },
+  {
+   "text": "1.31",
+   "conf": 0.9930777102708817
+  },
+  {
+   "text": "CASH",
+   "conf": 0.9941473007202148
+  },
+  {
+   "text": "50.20",
+   "conf": 0.9861313462257385
+  },
+  {
+   "text": "CHANGE",
+   "conf": 0.9920216500759125
+  },
+  {
+   "text": "27.00",
+   "conf": 0.9879825949668884
+  },
+  {
+   "text": "MEMBER PURCHASE:",
+   "conf": 0.9510099478065968
+  },
+  {
+   "text": "N15046033-LEE MEI YEIN",
+   "conf": 0.9413128630681471
+  },
+  {
+   "text": "THANK YOU",
+   "conf": 0.9653668337398105
+  },
+  {
+   "text": "GOODS SOLD ARE NOT REFUNDABLE",
+   "conf": 0.9743429730678427
+  }
+ ],
+ "mean_conf": 0.9377,
+ "low_conf_share": 0.0,
+ "latency_ms": 5337,
+ "fields": {
+  "company": "HOMES HARMONY I UTAMA SHOPPING CENTRE MONSIEUR SDN BHD",
+  "date": "2016-06-12",
+  "total": 23.2
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  23.2
+ ],
+ "key": "X51006619869"
+}

@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.1-flash-lite",
+ "provider": "gemini",
+ "raw_text": "{\n  \"vendor\": \"YONG TAT HARDWARE TRADING\",\n  \"date\": \"2018-03-13\",\n  \"subtotal\": 95.17,\n  \"tax\": 5.71,\n  \"tip\": null,\n  \"discount\": 0.0,\n  \"total\": 100.90,\n  \"currency\": \"MYR\",\n  \"confidence\": 0.98,\n  \"notes\": null\n}",
+ "data": {
+  "vendor": "YONG TAT HARDWARE TRADING",
+  "date": "2018-03-13",
+  "subtotal": 95.17,
+  "tax": 5.71,
+  "tip": null,
+  "discount": 0.0,
+  "total": 100.9,
+  "currency": "MYR",
+  "confidence": 0.98,
+  "notes": null
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1461,
+  "output_tokens": 114,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.000536,
+ "latency_ms": 1489,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.1-flash-lite",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.1-flash-lite"
+ ],
+ "key": "X51005442344"
+}

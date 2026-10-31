@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.6-flash",
+ "provider": "gemini",
+ "raw_text": "{\"vendor\": \"Piola - Brickell\", \"date\": \"2013-12-28\", \"subtotal\": 46.0, \"tax\": 3.68, \"tip\": null, \"discount\": null, \"total\": 49.68, \"currency\": \"USD\", \"confidence\": 0.95, \"notes\": null}",
+ "data": {
+  "vendor": "Piola - Brickell",
+  "date": "2013-12-28",
+  "subtotal": 46.0,
+  "tax": 3.68,
+  "tip": null,
+  "discount": null,
+  "total": 49.68,
+  "currency": "USD",
+  "confidence": 0.95,
+  "notes": null
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1473,
+  "output_tokens": 84,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.00142,
+ "latency_ms": 2159,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.6-flash",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.6-flash"
+ ],
+ "key": "W0093_eaf0e46187b4"
+}

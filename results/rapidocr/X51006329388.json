@@ -1,0 +1,207 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "BEMEO (SP) SDN. BHD.",
+  "No.49,JalanOlnarGU3/G,",
+  "Subang Perdana,",
+  "40tsoShahAlam,SelangorD.E",
+  "03-78456155",
+  "GST Reg:001734164480",
+  "CASH RECEIPT",
+  "C8#：58273599475 02/Ja0/201710:49:25",
+  "Cashier:be()",
+  "QtyCode&Desc Price Total",
+  "ALPHALIPID LIFELINE450MG450G",
+  "184810 165.00 1053R",
+  "1 1",
+  "SubTotal: 105.00",
+  "Rounding Adj: 0.00",
+  "Total Inclusive GST: 165.00",
+  "MASTER 105.00",
+  "GST Summary: Armount",
+  "(MYR) (MYR)",
+  "SR 155.00 8.34",
+  "ONG GUAT CHYE",
+  "Paints:",
+  "3,052",
+  "Thankyou.",
+  "Please come again. /6S.60"
+ ],
+ "tokens": [
+  {
+   "text": "BEMEO (SP) SDN. BHD.",
+   "conf": 0.947215786576271
+  },
+  {
+   "text": "No.49,JalanOlnarGU3/G,",
+   "conf": 0.821177826686339
+  },
+  {
+   "text": "Subang Perdana,",
+   "conf": 0.9521290421485901
+  },
+  {
+   "text": "40tsoShahAlam,SelangorD.E",
+   "conf": 0.8959975743293762
+  },
+  {
+   "text": "03-78456155",
+   "conf": 0.9529398083686829
+  },
+  {
+   "text": "GST Reg:001734164480",
+   "conf": 0.9811012595891953
+  },
+  {
+   "text": "CASH RECEIPT",
+   "conf": 0.9504576126734415
+  },
+  {
+   "text": "C8#：58273599475",
+   "conf": 0.9357067902882894
+  },
+  {
+   "text": "02/Ja0/201710:49:25",
+   "conf": 0.9193707265351948
+  },
+  {
+   "text": "Cashier:be()",
+   "conf": 0.9765611539284388
+  },
+  {
+   "text": "QtyCode&Desc",
+   "conf": 0.9036196519931158
+  },
+  {
+   "text": "Price",
+   "conf": 0.997739028930664
+  },
+  {
+   "text": "Total",
+   "conf": 0.9733959436416626
+  },
+  {
+   "text": "ALPHALIPID LIFELINE450MG450G",
+   "conf": 0.9442541939871651
+  },
+  {
+   "text": "184810",
+   "conf": 0.99625892440478
+  },
+  {
+   "text": "165.00",
+   "conf": 0.9569045702616373
+  },
+  {
+   "text": "1053R",
+   "conf": 0.8769886195659637
+  },
+  {
+   "text": "1",
+   "conf": 0.9962743520736694
+  },
+  {
+   "text": "1",
+   "conf": 0.952036440372467
+  },
+  {
+   "text": "SubTotal:",
+   "conf": 0.9289181364907159
+  },
+  {
+   "text": "105.00",
+   "conf": 0.9916500747203827
+  },
+  {
+   "text": "Rounding Adj:",
+   "conf": 0.9153507902072027
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9988313466310501
+  },
+  {
+   "text": "Total Inclusive GST:",
+   "conf": 0.9334240078926086
+  },
+  {
+   "text": "165.00",
+   "conf": 0.9996549785137177
+  },
+  {
+   "text": "MASTER",
+   "conf": 0.9975377718607584
+  },
+  {
+   "text": "105.00",
+   "conf": 0.9928247034549713
+  },
+  {
+   "text": "GST Summary:",
+   "conf": 0.9899031122525533
+  },
+  {
+   "text": "Armount",
+   "conf": 0.9065231084823608
+  },
+  {
+   "text": "(MYR)",
+   "conf": 0.9878168106079102
+  },
+  {
+   "text": "(MYR)",
+   "conf": 0.9625564813613892
+  },
+  {
+   "text": "SR",
+   "conf": 0.9819256663322449
+  },
+  {
+   "text": "155.00",
+   "conf": 0.97957976659139
+  },
+  {
+   "text": "8.34",
+   "conf": 0.9528660476207733
+  },
+  {
+   "text": "ONG GUAT CHYE",
+   "conf": 0.9365393152603736
+  },
+  {
+   "text": "Paints:",
+   "conf": 0.9229186432702201
+  },
+  {
+   "text": "3,052",
+   "conf": 0.9451057195663453
+  },
+  {
+   "text": "Thankyou.",
+   "conf": 0.982658671008216
+  },
+  {
+   "text": "Please come again.",
+   "conf": 0.9970803393257989
+  },
+  {
+   "text": "/6S.60",
+   "conf": 0.8517004350821177
+  }
+ ],
+ "mean_conf": 0.9521,
+ "low_conf_share": 0.0,
+ "latency_ms": 4680,
+ "fields": {
+  "company": "BEMEO SDN BHD",
+  "date": null,
+  "total": 165.0
+ },
+ "rule_reasons": [
+  "date_not_found"
+ ],
+ "total_candidates": [
+  165.0
+ ],
+ "key": "X51006329388"
+}

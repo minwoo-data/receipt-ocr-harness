@@ -1,0 +1,855 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "| |",
+  "| GREEN LANE PHARMACY SIN BHD",
+  "33 JLN RANGAU 1, KEPONG BARU,",
+  "— $2100 KEPONG. RL \\",
+  "| TEL ¢ 62760693 = FAX = A274069S",
+  "| BRN = 631002-1)",
+  "GST No : O01888R09249",
+  "| ES 2 Saale",
+  "| TAX INVOICE 4",
+  "| Inv No ¢ 18-001641",
+  "| PATE «= 1/8/2018 9:42:41 AM ‘|",
+  "T)UAMDOSK ANOXICAP SOONG CAFU",
+  "1.00 X 6.90 6.00 z",
+  "2)0984K NOFLUX TAR SONG 10 ;",
+  "2,00 X 4.34 9,01 x",
+  "| 3)7557892102639 IBUPROFEN 400K6 10 |",
+  "3.00 X 3.00 9.00 z",
+  "| AY9S56492002837K FERRICOL -RX 10",
+  "fi 4.00 X 2.70 10.80 z |",
+  "Rounding : -0.01",
+  "TOTAL =o: 34.80",
+  "{GST +: 0.51 }",
+  "HRLERE AKER RRR REAR AERA RRR RRE RE PL > ane",
+  "| PAYMENT : ,",
+  "TOTAL PAYMENT = 34.20",
+  "| CHANGE A 0.09 |",
+  "| ® MASTER 34.80",
+  "PRARRRERRARAR RARE RRA RRA RRR RE REE RRR",
+  "| Rate Z TOTAL G57",
+  "Ri Oh 8.50 O.ci",
+  "2:0 25.80 0.00 |",
+  "SSS Se SSS Nea i",
+  "LEE MEI YEIN |",
+  "| Prev Balance : 1455",
+  "Points Earn : 34 (Complete)",
+  "FARMAST ALPHA. COM",
+  "«GOONS SOLE ARE NOT RETURNABLE",
+  "WHATSAFF NOs O1D374E122",
+  "F % Total Sales Inclusive GST @ 6% &",
+  "( |"
+ ],
+ "tokens": [
+  {
+   "text": "|",
+   "conf": 0.56
+  },
+  {
+   "text": "|",
+   "conf": 0.29
+  },
+  {
+   "text": "|",
+   "conf": 0.67
+  },
+  {
+   "text": "GREEN",
+   "conf": 0.67
+  },
+  {
+   "text": "LANE",
+   "conf": 0.96
+  },
+  {
+   "text": "PHARMACY",
+   "conf": 0.93
+  },
+  {
+   "text": "SIN",
+   "conf": 0.8
+  },
+  {
+   "text": "BHD",
+   "conf": 0.62
+  },
+  {
+   "text": "33",
+   "conf": 0.58
+  },
+  {
+   "text": "JLN",
+   "conf": 0.58
+  },
+  {
+   "text": "RANGAU",
+   "conf": 0.6
+  },
+  {
+   "text": "1,",
+   "conf": 0.0
+  },
+  {
+   "text": "KEPONG",
+   "conf": 0.0
+  },
+  {
+   "text": "BARU,",
+   "conf": 0.58
+  },
+  {
+   "text": "—",
+   "conf": 0.0
+  },
+  {
+   "text": "$2100",
+   "conf": 0.31
+  },
+  {
+   "text": "KEPONG.",
+   "conf": 0.29
+  },
+  {
+   "text": "RL",
+   "conf": 0.35
+  },
+  {
+   "text": "\\",
+   "conf": 0.05
+  },
+  {
+   "text": "|",
+   "conf": 0.67
+  },
+  {
+   "text": "TEL",
+   "conf": 0.67
+  },
+  {
+   "text": "¢",
+   "conf": 0.11
+  },
+  {
+   "text": "62760693",
+   "conf": 0.68
+  },
+  {
+   "text": "=",
+   "conf": 0.35
+  },
+  {
+   "text": "FAX",
+   "conf": 0.74
+  },
+  {
+   "text": "=",
+   "conf": 0.7
+  },
+  {
+   "text": "A274069S",
+   "conf": 0.0
+  },
+  {
+   "text": "|",
+   "conf": 0.82
+  },
+  {
+   "text": "BRN",
+   "conf": 0.73
+  },
+  {
+   "text": "=",
+   "conf": 0.16
+  },
+  {
+   "text": "631002-1)",
+   "conf": 0.4
+  },
+  {
+   "text": "GST",
+   "conf": 0.85
+  },
+  {
+   "text": "No",
+   "conf": 0.81
+  },
+  {
+   "text": ":",
+   "conf": 0.77
+  },
+  {
+   "text": "O01888R09249",
+   "conf": 0.0
+  },
+  {
+   "text": "|",
+   "conf": 0.08
+  },
+  {
+   "text": "ES",
+   "conf": 0.19
+  },
+  {
+   "text": "2",
+   "conf": 0.21
+  },
+  {
+   "text": "Saale",
+   "conf": 0.03
+  },
+  {
+   "text": "|",
+   "conf": 0.81
+  },
+  {
+   "text": "TAX",
+   "conf": 0.87
+  },
+  {
+   "text": "INVOICE",
+   "conf": 0.88
+  },
+  {
+   "text": "4",
+   "conf": 0.8
+  },
+  {
+   "text": "|",
+   "conf": 0.73
+  },
+  {
+   "text": "Inv",
+   "conf": 0.73
+  },
+  {
+   "text": "No",
+   "conf": 0.85
+  },
+  {
+   "text": "¢",
+   "conf": 0.37
+  },
+  {
+   "text": "18-001641",
+   "conf": 0.28
+  },
+  {
+   "text": "|",
+   "conf": 0.85
+  },
+  {
+   "text": "PATE",
+   "conf": 0.61
+  },
+  {
+   "text": "«=",
+   "conf": 0.0
+  },
+  {
+   "text": "1/8/2018",
+   "conf": 0.85
+  },
+  {
+   "text": "9:42:41",
+   "conf": 0.84
+  },
+  {
+   "text": "AM",
+   "conf": 0.78
+  },
+  {
+   "text": "‘|",
+   "conf": 0.8
+  },
+  {
+   "text": "T)UAMDOSK",
+   "conf": 0.3
+  },
+  {
+   "text": "ANOXICAP",
+   "conf": 0.44
+  },
+  {
+   "text": "SOONG",
+   "conf": 0.8
+  },
+  {
+   "text": "CAFU",
+   "conf": 0.3
+  },
+  {
+   "text": "1.00",
+   "conf": 0.8
+  },
+  {
+   "text": "X",
+   "conf": 0.89
+  },
+  {
+   "text": "6.90",
+   "conf": 0.82
+  },
+  {
+   "text": "6.00",
+   "conf": 0.9
+  },
+  {
+   "text": "z",
+   "conf": 0.86
+  },
+  {
+   "text": "2)0984K",
+   "conf": 0.45
+  },
+  {
+   "text": "NOFLUX",
+   "conf": 0.8
+  },
+  {
+   "text": "TAR",
+   "conf": 0.76
+  },
+  {
+   "text": "SONG",
+   "conf": 0.01
+  },
+  {
+   "text": "10",
+   "conf": 0.77
+  },
+  {
+   "text": ";",
+   "conf": 0.21
+  },
+  {
+   "text": "2,00",
+   "conf": 0.82
+  },
+  {
+   "text": "X",
+   "conf": 0.74
+  },
+  {
+   "text": "4.34",
+   "conf": 0.71
+  },
+  {
+   "text": "9,01",
+   "conf": 0.29
+  },
+  {
+   "text": "x",
+   "conf": 0.43
+  },
+  {
+   "text": "|",
+   "conf": 0.6
+  },
+  {
+   "text": "3)7557892102639",
+   "conf": 0.0
+  },
+  {
+   "text": "IBUPROFEN",
+   "conf": 0.92
+  },
+  {
+   "text": "400K6",
+   "conf": 0.39
+  },
+  {
+   "text": "10",
+   "conf": 0.91
+  },
+  {
+   "text": "|",
+   "conf": 0.22
+  },
+  {
+   "text": "3.00",
+   "conf": 0.72
+  },
+  {
+   "text": "X",
+   "conf": 0.88
+  },
+  {
+   "text": "3.00",
+   "conf": 0.77
+  },
+  {
+   "text": "9.00",
+   "conf": 0.77
+  },
+  {
+   "text": "z",
+   "conf": 0.85
+  },
+  {
+   "text": "|",
+   "conf": 0.58
+  },
+  {
+   "text": "AY9S56492002837K",
+   "conf": 0.0
+  },
+  {
+   "text": "FERRICOL",
+   "conf": 0.55
+  },
+  {
+   "text": "-RX",
+   "conf": 0.8
+  },
+  {
+   "text": "10",
+   "conf": 0.95
+  },
+  {
+   "text": "fi",
+   "conf": 0.36
+  },
+  {
+   "text": "4.00",
+   "conf": 0.72
+  },
+  {
+   "text": "X",
+   "conf": 0.85
+  },
+  {
+   "text": "2.70",
+   "conf": 0.92
+  },
+  {
+   "text": "10.80",
+   "conf": 0.78
+  },
+  {
+   "text": "z",
+   "conf": 0.84
+  },
+  {
+   "text": "|",
+   "conf": 0.38
+  },
+  {
+   "text": "Rounding",
+   "conf": 0.91
+  },
+  {
+   "text": ":",
+   "conf": 0.65
+  },
+  {
+   "text": "-0.01",
+   "conf": 0.5
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.79
+  },
+  {
+   "text": "=o:",
+   "conf": 0.39
+  },
+  {
+   "text": "34.80",
+   "conf": 0.64
+  },
+  {
+   "text": "{GST",
+   "conf": 0.87
+  },
+  {
+   "text": "+:",
+   "conf": 0.69
+  },
+  {
+   "text": "0.51",
+   "conf": 0.6
+  },
+  {
+   "text": "}",
+   "conf": 0.73
+  },
+  {
+   "text": "HRLERE",
+   "conf": 0.0
+  },
+  {
+   "text": "AKER",
+   "conf": 0.0
+  },
+  {
+   "text": "RRR",
+   "conf": 0.0
+  },
+  {
+   "text": "REAR",
+   "conf": 0.15
+  },
+  {
+   "text": "AERA",
+   "conf": 0.04
+  },
+  {
+   "text": "RRR",
+   "conf": 0.04
+  },
+  {
+   "text": "RRE",
+   "conf": 0.0
+  },
+  {
+   "text": "RE",
+   "conf": 0.16
+  },
+  {
+   "text": "PL",
+   "conf": 0.3
+  },
+  {
+   "text": ">",
+   "conf": 0.33
+  },
+  {
+   "text": "ane",
+   "conf": 0.43
+  },
+  {
+   "text": "|",
+   "conf": 0.47
+  },
+  {
+   "text": "PAYMENT",
+   "conf": 0.86
+  },
+  {
+   "text": ":",
+   "conf": 0.7
+  },
+  {
+   "text": ",",
+   "conf": 0.0
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.95
+  },
+  {
+   "text": "PAYMENT",
+   "conf": 0.7
+  },
+  {
+   "text": "=",
+   "conf": 0.62
+  },
+  {
+   "text": "34.20",
+   "conf": 0.66
+  },
+  {
+   "text": "|",
+   "conf": 0.53
+  },
+  {
+   "text": "CHANGE",
+   "conf": 0.96
+  },
+  {
+   "text": "A",
+   "conf": 0.5
+  },
+  {
+   "text": "0.09",
+   "conf": 0.62
+  },
+  {
+   "text": "|",
+   "conf": 0.62
+  },
+  {
+   "text": "|",
+   "conf": 0.37
+  },
+  {
+   "text": "®",
+   "conf": 0.53
+  },
+  {
+   "text": "MASTER",
+   "conf": 0.83
+  },
+  {
+   "text": "34.80",
+   "conf": 0.61
+  },
+  {
+   "text": "PRARRRERRARAR",
+   "conf": 0.0
+  },
+  {
+   "text": "RARE",
+   "conf": 0.0
+  },
+  {
+   "text": "RRA",
+   "conf": 0.04
+  },
+  {
+   "text": "RRA",
+   "conf": 0.08
+  },
+  {
+   "text": "RRR",
+   "conf": 0.07
+  },
+  {
+   "text": "RE",
+   "conf": 0.02
+  },
+  {
+   "text": "REE",
+   "conf": 0.02
+  },
+  {
+   "text": "RRR",
+   "conf": 0.0
+  },
+  {
+   "text": "|",
+   "conf": 0.57
+  },
+  {
+   "text": "Rate",
+   "conf": 0.85
+  },
+  {
+   "text": "Z",
+   "conf": 0.13
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.95
+  },
+  {
+   "text": "G57",
+   "conf": 0.24
+  },
+  {
+   "text": "Ri",
+   "conf": 0.31
+  },
+  {
+   "text": "Oh",
+   "conf": 0.33
+  },
+  {
+   "text": "8.50",
+   "conf": 0.74
+  },
+  {
+   "text": "O.ci",
+   "conf": 0.0
+  },
+  {
+   "text": "2:0",
+   "conf": 0.18
+  },
+  {
+   "text": "25.80",
+   "conf": 0.54
+  },
+  {
+   "text": "0.00",
+   "conf": 0.87
+  },
+  {
+   "text": "|",
+   "conf": 0.94
+  },
+  {
+   "text": "SSS",
+   "conf": 0.02
+  },
+  {
+   "text": "Se",
+   "conf": 0.02
+  },
+  {
+   "text": "SSS",
+   "conf": 0.0
+  },
+  {
+   "text": "Nea",
+   "conf": 0.26
+  },
+  {
+   "text": "i",
+   "conf": 0.56
+  },
+  {
+   "text": "LEE",
+   "conf": 0.93
+  },
+  {
+   "text": "MEI",
+   "conf": 0.92
+  },
+  {
+   "text": "YEIN",
+   "conf": 0.92
+  },
+  {
+   "text": "|",
+   "conf": 0.32
+  },
+  {
+   "text": "|",
+   "conf": 0.64
+  },
+  {
+   "text": "Prev",
+   "conf": 0.92
+  },
+  {
+   "text": "Balance",
+   "conf": 0.75
+  },
+  {
+   "text": ":",
+   "conf": 0.65
+  },
+  {
+   "text": "1455",
+   "conf": 0.93
+  },
+  {
+   "text": "Points",
+   "conf": 0.91
+  },
+  {
+   "text": "Earn",
+   "conf": 0.7
+  },
+  {
+   "text": ":",
+   "conf": 0.7
+  },
+  {
+   "text": "34",
+   "conf": 0.79
+  },
+  {
+   "text": "(Complete)",
+   "conf": 0.94
+  },
+  {
+   "text": "FARMAST",
+   "conf": 0.0
+  },
+  {
+   "text": "ALPHA.",
+   "conf": 0.0
+  },
+  {
+   "text": "COM",
+   "conf": 0.0
+  },
+  {
+   "text": "«GOONS",
+   "conf": 0.39
+  },
+  {
+   "text": "SOLE",
+   "conf": 0.46
+  },
+  {
+   "text": "ARE",
+   "conf": 0.91
+  },
+  {
+   "text": "NOT",
+   "conf": 0.92
+  },
+  {
+   "text": "RETURNABLE",
+   "conf": 0.96
+  },
+  {
+   "text": "WHATSAFF",
+   "conf": 0.86
+  },
+  {
+   "text": "NOs",
+   "conf": 0.68
+  },
+  {
+   "text": "O1D374E122",
+   "conf": 0.07
+  },
+  {
+   "text": "F",
+   "conf": 0.69
+  },
+  {
+   "text": "%",
+   "conf": 0.52
+  },
+  {
+   "text": "Total",
+   "conf": 0.96
+  },
+  {
+   "text": "Sales",
+   "conf": 0.96
+  },
+  {
+   "text": "Inclusive",
+   "conf": 0.96
+  },
+  {
+   "text": "GST",
+   "conf": 0.86
+  },
+  {
+   "text": "@",
+   "conf": 0.91
+  },
+  {
+   "text": "6%",
+   "conf": 0.74
+  },
+  {
+   "text": "&",
+   "conf": 0.63
+  },
+  {
+   "text": "(",
+   "conf": 0.12
+  },
+  {
+   "text": "|",
+   "conf": 0.86
+  }
+ ],
+ "mean_conf": 0.5388,
+ "low_conf_share": 0.3838,
+ "latency_ms": 2404,
+ "fields": {
+  "company": "GREEN LANE PHARMACY SIN BHD",
+  "date": "2018-08-01",
+  "total": 34.2
+ },
+ "rule_reasons": [
+  "total_multiple_keyword_amounts"
+ ],
+ "total_candidates": [
+  34.8,
+  34.2
+ ],
+ "key": "X51005719895"
+}

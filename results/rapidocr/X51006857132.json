@@ -1,0 +1,215 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "AEON C0.(M)BHD （126926-H)",
+  "3RD FLR,AEON TAMAN MALURT SC",
+  "JiN JEJAKA,TAMAN MALURI",
+  "CHERAS.55100 KUALA LUMPUR",
+  "GST ID:002017394688",
+  "SHOPPING HOURS",
+  "SUN-IHU:10G0HRS-2200 HRS",
+  "FRI-SAI:1000 HRS-2300 HRS",
+  "4x000006225926 23.60SR",
+  "COLD WAIER B0IT @5.90",
+  "1x 000001888854 0.20SR",
+  "FLASTICS BAG",
+  "Sub-total 23.80",
+  "Total Sales Incl GST 23.80",
+  "lotal After Adj Incl GST 23.80",
+  "CASH 50.80",
+  "Item Count 5 Change Amt 27.00",
+  "Invo1ce No: 2017070951370013311",
+  "GST Summary Amount Tax",
+  "SR 0 6% 22.47 1.33",
+  "Total 22.47 1.33",
+  "09/07/201717:01 5137 0010013311",
+  "0296232 JULIANA BINII SAAD",
+  "DAISO STARLING MALL",
+  "TFL1-300-80-AE0N（2366)",
+  "THANK YOU FOR YOUR PAIRONAGE",
+  "PLEASE COME AGAIN"
+ ],
+ "tokens": [
+  {
+   "text": "AEON C0.(M)BHD （126926-H)",
+   "conf": 0.8781873190402985
+  },
+  {
+   "text": "3RD FLR,AEON TAMAN MALURT SC",
+   "conf": 0.950517258473805
+  },
+  {
+   "text": "JiN JEJAKA,TAMAN MALURI",
+   "conf": 0.9120744751847308
+  },
+  {
+   "text": "CHERAS.55100 KUALA LUMPUR",
+   "conf": 0.9594270014762878
+  },
+  {
+   "text": "GST ID:002017394688",
+   "conf": 0.9645178568990607
+  },
+  {
+   "text": "SHOPPING HOURS",
+   "conf": 0.9912503744874682
+  },
+  {
+   "text": "SUN-IHU:10G0HRS-2200 HRS",
+   "conf": 0.9517039780815443
+  },
+  {
+   "text": "FRI-SAI:1000 HRS-2300 HRS",
+   "conf": 0.9453985619544983
+  },
+  {
+   "text": "4x000006225926",
+   "conf": 0.986902117729187
+  },
+  {
+   "text": "23.60SR",
+   "conf": 0.9868521860667637
+  },
+  {
+   "text": "COLD WAIER B0IT @5.90",
+   "conf": 0.8614852357478369
+  },
+  {
+   "text": "1x 000001888854",
+   "conf": 0.9502443671226501
+  },
+  {
+   "text": "0.20SR",
+   "conf": 0.9886506299177805
+  },
+  {
+   "text": "FLASTICS BAG",
+   "conf": 0.9632678677638372
+  },
+  {
+   "text": "Sub-total",
+   "conf": 0.9919229944547018
+  },
+  {
+   "text": "23.80",
+   "conf": 0.9994603633880615
+  },
+  {
+   "text": "Total Sales Incl GST",
+   "conf": 0.9229276269674301
+  },
+  {
+   "text": "23.80",
+   "conf": 0.9982210755348205
+  },
+  {
+   "text": "lotal After Adj Incl GST",
+   "conf": 0.8721482008695602
+  },
+  {
+   "text": "23.80",
+   "conf": 0.9988020777702331
+  },
+  {
+   "text": "CASH",
+   "conf": 0.969365268945694
+  },
+  {
+   "text": "50.80",
+   "conf": 0.9994124412536621
+  },
+  {
+   "text": "Item Count 5",
+   "conf": 0.9414927860101064
+  },
+  {
+   "text": "Change Amt",
+   "conf": 0.9861347019672394
+  },
+  {
+   "text": "27.00",
+   "conf": 0.9986326098442078
+  },
+  {
+   "text": "Invo1ce No: 2017070951370013311",
+   "conf": 0.9678112999085458
+  },
+  {
+   "text": "GST Summary",
+   "conf": 0.9776661775328896
+  },
+  {
+   "text": "Amount",
+   "conf": 0.9778190751870474
+  },
+  {
+   "text": "Tax",
+   "conf": 0.8919824163118998
+  },
+  {
+   "text": "SR 0 6%",
+   "conf": 0.7921381848199027
+  },
+  {
+   "text": "22.47",
+   "conf": 0.9994413614273071
+  },
+  {
+   "text": "1.33",
+   "conf": 0.9972314834594727
+  },
+  {
+   "text": "Total",
+   "conf": 0.9090254426002502
+  },
+  {
+   "text": "22.47",
+   "conf": 0.9989084601402283
+  },
+  {
+   "text": "1.33",
+   "conf": 0.998032808303833
+  },
+  {
+   "text": "09/07/201717:01",
+   "conf": 0.9711010773976644
+  },
+  {
+   "text": "5137 0010013311",
+   "conf": 0.9611734290917714
+  },
+  {
+   "text": "0296232 JULIANA BINII SAAD",
+   "conf": 0.9359562144829676
+  },
+  {
+   "text": "DAISO STARLING MALL",
+   "conf": 0.9429196150679338
+  },
+  {
+   "text": "TFL1-300-80-AE0N（2366)",
+   "conf": 0.9246719642118975
+  },
+  {
+   "text": "THANK YOU FOR YOUR PAIRONAGE",
+   "conf": 0.9304777639252799
+  },
+  {
+   "text": "PLEASE COME AGAIN",
+   "conf": 0.954487169490141
+  }
+ ],
+ "mean_conf": 0.9548,
+ "low_conf_share": 0.0,
+ "latency_ms": 5119,
+ "fields": {
+  "company": "AEON C0 BHD",
+  "date": "2017-07-09",
+  "total": 23.8
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  23.8
+ ],
+ "key": "X51006857132"
+}

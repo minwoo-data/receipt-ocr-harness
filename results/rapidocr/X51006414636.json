@@ -1,0 +1,201 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "A04664",
+  "SELASIH EKSLU5IF SDN BHD (524101-D)",
+  "Duty Free Zone (JB)",
+  "88 Jalan Ibrahin 5ultan",
+  "5t0lang Laut",
+  "80300 Johor Bahro",
+  "Tel: 07-2212888Fax: 07-2216888",
+  "GST 10: 000752517120",
+  "TAX INVOICE",
+  "Inve: J100086182-0000000J10000087385",
+  "Staff: 5J10263 89282",
+  "18180 6/4/2018 19:34",
+  "Deseription Anount",
+  "107 022100000X",
+  "GNOO& NOISNIR",
+  "3 s10 0 90.00 270.00 5R",
+  "Total RM 270.00",
+  "Cash -300.00",
+  "Change in RH 30.00",
+  "No.ofatys 3",
+  "7159 Net.Ant 150 Amount",
+  "5R 254.72 15.28 270.00",
+  "Eligible PWP 8nount is : 270",
+  "GOODS SOLD ARE NOT REFUNDABLE",
+  "THANK YOU"
+ ],
+ "tokens": [
+  {
+   "text": "A04664",
+   "conf": 0.8990438481171926
+  },
+  {
+   "text": "SELASIH EKSLU5IF SDN BHD (524101-D)",
+   "conf": 0.9325526901653834
+  },
+  {
+   "text": "Duty Free Zone (JB)",
+   "conf": 0.9951415501142803
+  },
+  {
+   "text": "88 Jalan Ibrahin 5ultan",
+   "conf": 0.9489474477975265
+  },
+  {
+   "text": "5t0lang Laut",
+   "conf": 0.8913942401607832
+  },
+  {
+   "text": "80300 Johor Bahro",
+   "conf": 0.928790081949795
+  },
+  {
+   "text": "Tel: 07-2212888Fax: 07-2216888",
+   "conf": 0.944570529460907
+  },
+  {
+   "text": "GST 10: 000752517120",
+   "conf": 0.9528974533081055
+  },
+  {
+   "text": "TAX INVOICE",
+   "conf": 0.9680158821019259
+  },
+  {
+   "text": "Inve: J100086182-0000000J10000087385",
+   "conf": 0.9736354798078537
+  },
+  {
+   "text": "Staff: 5J10263",
+   "conf": 0.9526394392762866
+  },
+  {
+   "text": "89282",
+   "conf": 0.9996140122413635
+  },
+  {
+   "text": "18180",
+   "conf": 0.71161390542984
+  },
+  {
+   "text": "6/4/2018 19:34",
+   "conf": 0.9812227870736804
+  },
+  {
+   "text": "Deseription",
+   "conf": 0.9591633894226768
+  },
+  {
+   "text": "Anount",
+   "conf": 0.9408707916736603
+  },
+  {
+   "text": "107 022100000X",
+   "conf": 0.7823173595326287
+  },
+  {
+   "text": "GNOO& NOISNIR",
+   "conf": 0.780242417867367
+  },
+  {
+   "text": "3 s10 0 90.00",
+   "conf": 0.8395266120250409
+  },
+  {
+   "text": "270.00 5R",
+   "conf": 0.9708195924758911
+  },
+  {
+   "text": "Total RM",
+   "conf": 0.9330519586801529
+  },
+  {
+   "text": "270.00",
+   "conf": 0.9997623463471731
+  },
+  {
+   "text": "Cash",
+   "conf": 0.9900795817375183
+  },
+  {
+   "text": "-300.00",
+   "conf": 0.9892789976937431
+  },
+  {
+   "text": "Change in RH",
+   "conf": 0.9828768720229467
+  },
+  {
+   "text": "30.00",
+   "conf": 0.9996750354766846
+  },
+  {
+   "text": "No.ofatys",
+   "conf": 0.759626567363739
+  },
+  {
+   "text": "3",
+   "conf": 0.9437815546989441
+  },
+  {
+   "text": "7159",
+   "conf": 0.9949693083763123
+  },
+  {
+   "text": "Net.Ant",
+   "conf": 0.8168257006577083
+  },
+  {
+   "text": "150",
+   "conf": 0.9218535423278809
+  },
+  {
+   "text": "Amount",
+   "conf": 0.8757142275571823
+  },
+  {
+   "text": "5R",
+   "conf": 0.6707959473133087
+  },
+  {
+   "text": "254.72",
+   "conf": 0.9993186394373575
+  },
+  {
+   "text": "15.28",
+   "conf": 0.9996153116226196
+  },
+  {
+   "text": "270.00",
+   "conf": 0.9997738103071848
+  },
+  {
+   "text": "Eligible PWP 8nount is : 270",
+   "conf": 0.9224417113832065
+  },
+  {
+   "text": "GOODS SOLD ARE NOT REFUNDABLE",
+   "conf": 0.9395576736022686
+  },
+  {
+   "text": "THANK YOU",
+   "conf": 0.9805916547775269
+  }
+ ],
+ "mean_conf": 0.9249,
+ "low_conf_share": 0.0,
+ "latency_ms": 3136,
+ "fields": {
+  "company": "SELASIH EKSLU5IF SDN BHD",
+  "date": "2018-04-06",
+  "total": 270.0
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  270.0
+ ],
+ "key": "X51006414636"
+}

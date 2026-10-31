@@ -1,0 +1,342 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "By St.Gooroe Apartaanhae Kft.",
+  "oe Keknadar kavehtz ~ etteren",
+  "(eal W014 Budapest, Fortina u, 4",
+  "e' ‘dbszan: 12464340-2-41 bs",
+  ".—Ca nie",
+  "ae | Fouyasatast dsszesita oe iit",
+  "Szs2_ Weanevezés fa a",
+  "ee ee bout",
+  "eae 0 te",
+  "ce 3 450 o",
+  "BS -0.11 auiy.csirke, son a",
+  "2321 1 4000 3500",
+  "B Foovasctas: 38480",
+  "Bf 55.20.1 TIP (forint (s) x",
+  "2 ES 400",
+  "Pénetéros: Siri Péter é,",
+  "i felt: 2017.01.17 aid",
+  "sss wet noua BONA ee)"
+ ],
+ "tokens": [
+  {
+   "text": "By",
+   "conf": 0.03
+  },
+  {
+   "text": "St.Gooroe",
+   "conf": 0.54
+  },
+  {
+   "text": "Apartaanhae",
+   "conf": 0.15
+  },
+  {
+   "text": "Kft.",
+   "conf": 0.68
+  },
+  {
+   "text": "oe",
+   "conf": 0.29
+  },
+  {
+   "text": "Keknadar",
+   "conf": 0.36
+  },
+  {
+   "text": "kavehtz",
+   "conf": 0.44
+  },
+  {
+   "text": "~",
+   "conf": 0.86
+  },
+  {
+   "text": "etteren",
+   "conf": 0.72
+  },
+  {
+   "text": "(eal",
+   "conf": 0.4
+  },
+  {
+   "text": "W014",
+   "conf": 0.36
+  },
+  {
+   "text": "Budapest,",
+   "conf": 0.6
+  },
+  {
+   "text": "Fortina",
+   "conf": 0.35
+  },
+  {
+   "text": "u,",
+   "conf": 0.57
+  },
+  {
+   "text": "4",
+   "conf": 0.71
+  },
+  {
+   "text": "e'",
+   "conf": 0.0
+  },
+  {
+   "text": "‘dbszan:",
+   "conf": 0.0
+  },
+  {
+   "text": "12464340-2-41",
+   "conf": 0.43
+  },
+  {
+   "text": "bs",
+   "conf": 0.32
+  },
+  {
+   "text": ".—Ca",
+   "conf": 0.0
+  },
+  {
+   "text": "nie",
+   "conf": 0.19
+  },
+  {
+   "text": "ae",
+   "conf": 0.35
+  },
+  {
+   "text": "|",
+   "conf": 0.33
+  },
+  {
+   "text": "Fouyasatast",
+   "conf": 0.1
+  },
+  {
+   "text": "dsszesita",
+   "conf": 0.23
+  },
+  {
+   "text": "oe",
+   "conf": 0.03
+  },
+  {
+   "text": "iit",
+   "conf": 0.28
+  },
+  {
+   "text": "Szs2_",
+   "conf": 0.0
+  },
+  {
+   "text": "Weanevezés",
+   "conf": 0.2
+  },
+  {
+   "text": "fa",
+   "conf": 0.25
+  },
+  {
+   "text": "a",
+   "conf": 0.27
+  },
+  {
+   "text": "ee",
+   "conf": 0.33
+  },
+  {
+   "text": "ee",
+   "conf": 0.35
+  },
+  {
+   "text": "bout",
+   "conf": 0.18
+  },
+  {
+   "text": "eae",
+   "conf": 0.3
+  },
+  {
+   "text": "0",
+   "conf": 0.56
+  },
+  {
+   "text": "te",
+   "conf": 0.34
+  },
+  {
+   "text": "ce",
+   "conf": 0.14
+  },
+  {
+   "text": "3",
+   "conf": 0.25
+  },
+  {
+   "text": "450",
+   "conf": 0.88
+  },
+  {
+   "text": "o",
+   "conf": 0.32
+  },
+  {
+   "text": "BS",
+   "conf": 0.08
+  },
+  {
+   "text": "-0.11",
+   "conf": 0.06
+  },
+  {
+   "text": "auiy.csirke,",
+   "conf": 0.0
+  },
+  {
+   "text": "son",
+   "conf": 0.81
+  },
+  {
+   "text": "a",
+   "conf": 0.15
+  },
+  {
+   "text": "2321",
+   "conf": 0.16
+  },
+  {
+   "text": "1",
+   "conf": 0.77
+  },
+  {
+   "text": "4000",
+   "conf": 0.72
+  },
+  {
+   "text": "3500",
+   "conf": 0.46
+  },
+  {
+   "text": "B",
+   "conf": 0.06
+  },
+  {
+   "text": "Foovasctas:",
+   "conf": 0.29
+  },
+  {
+   "text": "38480",
+   "conf": 0.56
+  },
+  {
+   "text": "Bf",
+   "conf": 0.0
+  },
+  {
+   "text": "55.20.1",
+   "conf": 0.77
+  },
+  {
+   "text": "TIP",
+   "conf": 0.14
+  },
+  {
+   "text": "(forint",
+   "conf": 0.16
+  },
+  {
+   "text": "(s)",
+   "conf": 0.16
+  },
+  {
+   "text": "x",
+   "conf": 0.77
+  },
+  {
+   "text": "2",
+   "conf": 0.66
+  },
+  {
+   "text": "ES",
+   "conf": 0.23
+  },
+  {
+   "text": "400",
+   "conf": 0.65
+  },
+  {
+   "text": "Pénetéros:",
+   "conf": 0.0
+  },
+  {
+   "text": "Siri",
+   "conf": 0.45
+  },
+  {
+   "text": "Péter",
+   "conf": 0.87
+  },
+  {
+   "text": "é,",
+   "conf": 0.0
+  },
+  {
+   "text": "i",
+   "conf": 0.25
+  },
+  {
+   "text": "felt:",
+   "conf": 0.32
+  },
+  {
+   "text": "2017.01.17",
+   "conf": 0.7
+  },
+  {
+   "text": "aid",
+   "conf": 0.0
+  },
+  {
+   "text": "sss",
+   "conf": 0.43
+  },
+  {
+   "text": "wet",
+   "conf": 0.38
+  },
+  {
+   "text": "noua",
+   "conf": 0.0
+  },
+  {
+   "text": "BONA",
+   "conf": 0.0
+  },
+  {
+   "text": "ee)",
+   "conf": 0.12
+  }
+ ],
+ "mean_conf": 0.3316,
+ "low_conf_share": 0.7467,
+ "latency_ms": 662,
+ "fields": {
+  "company": "BY ST GOOROE APARTAANHAE KFT",
+  "date": "2017-01-17",
+  "total": 201.0
+ },
+ "rule_reasons": [
+  "total_no_keyword_fallback_max"
+ ],
+ "total_candidates": [
+  -0.11,
+  55.2,
+  201.0
+ ],
+ "key": "W0040_6ca1076f448a"
+}

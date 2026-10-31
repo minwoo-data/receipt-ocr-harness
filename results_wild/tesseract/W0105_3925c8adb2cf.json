@@ -1,0 +1,114 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "BALENCIAGA 7",
+  "St Honoré ‘A",
+  "807631504 i 495,00 495,00",
+  "nam son",
+  "Sh ell",
+  "wy",
+  "rg tt ag rt",
+  "ares",
+  "wie et"
+ ],
+ "tokens": [
+  {
+   "text": "BALENCIAGA",
+   "conf": 0.96
+  },
+  {
+   "text": "7",
+   "conf": 0.62
+  },
+  {
+   "text": "St",
+   "conf": 0.83
+  },
+  {
+   "text": "Honoré",
+   "conf": 0.63
+  },
+  {
+   "text": "‘A",
+   "conf": 0.44
+  },
+  {
+   "text": "807631504",
+   "conf": 0.28
+  },
+  {
+   "text": "i",
+   "conf": 0.28
+  },
+  {
+   "text": "495,00",
+   "conf": 0.51
+  },
+  {
+   "text": "495,00",
+   "conf": 0.55
+  },
+  {
+   "text": "nam",
+   "conf": 0.3
+  },
+  {
+   "text": "son",
+   "conf": 0.15
+  },
+  {
+   "text": "Sh",
+   "conf": 0.45
+  },
+  {
+   "text": "ell",
+   "conf": 0.36
+  },
+  {
+   "text": "wy",
+   "conf": 0.21
+  },
+  {
+   "text": "rg",
+   "conf": 0.3
+  },
+  {
+   "text": "tt",
+   "conf": 0.27
+  },
+  {
+   "text": "ag",
+   "conf": 0.35
+  },
+  {
+   "text": "rt",
+   "conf": 0.46
+  },
+  {
+   "text": "ares",
+   "conf": 0.1
+  },
+  {
+   "text": "wie",
+   "conf": 0.14
+  },
+  {
+   "text": "et",
+   "conf": 0.59
+  }
+ ],
+ "mean_conf": 0.4181,
+ "low_conf_share": 0.6667,
+ "latency_ms": 1252,
+ "fields": {
+  "company": "BALENCIAGA 7",
+  "date": null,
+  "total": null
+ },
+ "rule_reasons": [
+  "date_not_found",
+  "total_not_found"
+ ],
+ "total_candidates": [],
+ "key": "W0105_3925c8adb2cf"
+}

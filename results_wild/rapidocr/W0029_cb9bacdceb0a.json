@@ -1,0 +1,267 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "THE SIMI STORE",
+  "SMSOUTHMALL BLDG REALSTALMANZAUND MANILASOUTHERNASSOCIATB INC",
+  "LAS PINASCIIY1760",
+  "MACHINE SERIAL NUMBER:41DH354",
+  "PHP",
+  "2060388767283 9,950.00 Vn",
+  "LACOSTE STAINLESS 107-900",
+  "10% CLASS DISCOUNT 995.00-VA",
+  "TOTAL 8,955.00",
+  "CASH 9,000.00",
+  "CHANGE 45.00",
+  "Grp Net VAT Gross",
+  "VATABLE 7,995.54 959.46 8,955.00",
+  "VATEXEMPT 0.00 0.00 0.00",
+  "ZERO RATED 0.00 a.00 0.00",
+  "LOYALTY CARD 8880877085458595",
+  "CUSTOMER NAME SMACEXPRES7085458595",
+  "CASHIER:CSJ8421 CHFCKER:ERM2697",
+  "ITEMCS) PURCHASED: VRN0.:000115801",
+  "TID:55 STOREN0.:0940073",
+  "17:14December 18,2013 Tuesday",
+  "SALES INVCICE NUMBER:000090511",
+  "THIS SERVES AS YOUR SALES INVOICE",
+  "EXCHANGE OFTTEM TOANOTHER TYPE,COLOR OR",
+  "SIZEISALLOWED SUBJECTTO STANDARD",
+  "PROVISIONS ON CONSUMER PROTECTION AND PRODUCTWARRANTY",
+  "PLEASEPRESENTYOUR RECEIPT"
+ ],
+ "tokens": [
+  {
+   "text": "THE",
+   "conf": 0.9925968647003174
+  },
+  {
+   "text": "SIMI",
+   "conf": 0.7591269761323929
+  },
+  {
+   "text": "STORE",
+   "conf": 0.9831388711929321
+  },
+  {
+   "text": "MANILASOUTHERNASSOCIATB INC",
+   "conf": 0.836904318244369
+  },
+  {
+   "text": "SMSOUTHMALL BLDG REALSTALMANZAUND",
+   "conf": 0.8709941659912919
+  },
+  {
+   "text": "LAS PINASCIIY1760",
+   "conf": 0.861115013851839
+  },
+  {
+   "text": "MACHINE SERIAL NUMBER:41DH354",
+   "conf": 0.9359128536849186
+  },
+  {
+   "text": "PHP",
+   "conf": 0.9833902716636658
+  },
+  {
+   "text": "2060388767283",
+   "conf": 0.9975291673953717
+  },
+  {
+   "text": "9,950.00",
+   "conf": 0.953306533396244
+  },
+  {
+   "text": "Vn",
+   "conf": 0.7349410057067871
+  },
+  {
+   "text": "LACOSTE STAINLESS",
+   "conf": 0.9720626824042377
+  },
+  {
+   "text": "107-900",
+   "conf": 0.7964969319956643
+  },
+  {
+   "text": "10% CLASS DISCOUNT",
+   "conf": 0.9714992410606809
+  },
+  {
+   "text": "995.00-VA",
+   "conf": 0.9334722359975179
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.9779691100120544
+  },
+  {
+   "text": "8,955.00",
+   "conf": 0.9524287506937981
+  },
+  {
+   "text": "CASH",
+   "conf": 0.9880687296390533
+  },
+  {
+   "text": "9,000.00",
+   "conf": 0.9620639905333519
+  },
+  {
+   "text": "CHANGE",
+   "conf": 0.9722108046213785
+  },
+  {
+   "text": "45.00",
+   "conf": 0.9670858263969422
+  },
+  {
+   "text": "Grp",
+   "conf": 0.8681469360987345
+  },
+  {
+   "text": "Net",
+   "conf": 0.9876237710316976
+  },
+  {
+   "text": "VAT",
+   "conf": 0.9872458974520365
+  },
+  {
+   "text": "Gross",
+   "conf": 0.990413761138916
+  },
+  {
+   "text": "VATABLE",
+   "conf": 0.9790218642779759
+  },
+  {
+   "text": "7,995.54",
+   "conf": 0.9863566309213638
+  },
+  {
+   "text": "959.46",
+   "conf": 0.9872220357259115
+  },
+  {
+   "text": "8,955.00",
+   "conf": 0.9854276850819588
+  },
+  {
+   "text": "VATEXEMPT",
+   "conf": 0.9876401358180575
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9938663840293884
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9848633408546448
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9914618283510208
+  },
+  {
+   "text": "ZERO RATED",
+   "conf": 0.9866570174694062
+  },
+  {
+   "text": "0.00",
+   "conf": 0.8604204803705215
+  },
+  {
+   "text": "a.00",
+   "conf": 0.8914522677659988
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9883487522602081
+  },
+  {
+   "text": "LOYALTY CARD",
+   "conf": 0.9599826832612356
+  },
+  {
+   "text": "8880877085458595",
+   "conf": 0.9975012801587582
+  },
+  {
+   "text": "CUSTOMER NAME",
+   "conf": 0.9666999486776499
+  },
+  {
+   "text": "SMACEXPRES7085458595",
+   "conf": 0.97685906291008
+  },
+  {
+   "text": "CASHIER:CSJ8421",
+   "conf": 0.9525601029396057
+  },
+  {
+   "text": "CHFCKER:ERM2697",
+   "conf": 0.9543192505836486
+  },
+  {
+   "text": "ITEMCS) PURCHASED:",
+   "conf": 0.9243362777762942
+  },
+  {
+   "text": "VRN0.:000115801",
+   "conf": 0.8824862410624822
+  },
+  {
+   "text": "TID:55",
+   "conf": 0.9569103817145029
+  },
+  {
+   "text": "STOREN0.:0940073",
+   "conf": 0.9550363719463348
+  },
+  {
+   "text": "17:14December 18,2013 Tuesday",
+   "conf": 0.911043046877302
+  },
+  {
+   "text": "SALES INVCICE NUMBER:000090511",
+   "conf": 0.9604173461596172
+  },
+  {
+   "text": "THIS SERVES AS YOUR SALES INVOICE",
+   "conf": 0.9130953785144922
+  },
+  {
+   "text": "EXCHANGE OFTTEM TOANOTHER TYPE,COLOR OR",
+   "conf": 0.9075028583025321
+  },
+  {
+   "text": "SIZEISALLOWED SUBJECTTO STANDARD",
+   "conf": 0.9357143901288509
+  },
+  {
+   "text": "PROVISIONS ON CONSUMER PROTECTION",
+   "conf": 0.945760170618693
+  },
+  {
+   "text": "AND PRODUCTWARRANTY",
+   "conf": 0.9748674191926655
+  },
+  {
+   "text": "PLEASEPRESENTYOUR RECEIPT",
+   "conf": 0.9545776891708374
+  }
+ ],
+ "mean_conf": 0.9434,
+ "low_conf_share": 0.0,
+ "latency_ms": 6290,
+ "fields": {
+  "company": "THE SIMI STORE",
+  "date": "2018-12-14",
+  "total": 8955.0
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  8955.0
+ ],
+ "key": "W0029_cb9bacdceb0a"
+}

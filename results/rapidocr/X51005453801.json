@@ -1,0 +1,222 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "3180303",
+  "GLHANDICRAFT&TALORING",
+  "19,JALANKANCIL,",
+  "OFF JALANPUDU,",
+  "5510OKUALALUMPUR",
+  "MALAYSIA",
+  "Company Reg No.:75495-W",
+  "GST Reg No.:001948632736",
+  "TAXINVOICE",
+  "Involce No.: C910012",
+  "Dale: 20/03/2018 13:01",
+  "caohler芬： 01",
+  "RM Code",
+  "SAFETYPINSBUTTERFLY-S",
+  "6.00日0XS 17.00 102.00 SR",
+  "Subtotal: 102.00",
+  "Total Excl.of GST 96.23",
+  "Total Incl.of GGT 102.00",
+  "TotalAmtRounded 102.00",
+  "Payment: 102.00",
+  "Change Due : 0.00",
+  "Total tem(a):6",
+  "GST Summary Armount(FM) TEX(RM)",
+  "GR @6% 96.23 5.77",
+  "THANKYOU",
+  "PLEASECOMEAGAIN"
+ ],
+ "tokens": [
+  {
+   "text": "3180303",
+   "conf": 0.9988013505935669
+  },
+  {
+   "text": "GLHANDICRAFT&TALORING",
+   "conf": 0.967602394876026
+  },
+  {
+   "text": "19,JALANKANCIL,",
+   "conf": 0.9141985734303792
+  },
+  {
+   "text": "OFF JALANPUDU,",
+   "conf": 0.8897360478128705
+  },
+  {
+   "text": "5510OKUALALUMPUR",
+   "conf": 0.8685571923851967
+  },
+  {
+   "text": "MALAYSIA",
+   "conf": 0.9873646721243858
+  },
+  {
+   "text": "Company Reg No.:75495-W",
+   "conf": 0.9320717091145723
+  },
+  {
+   "text": "GST Reg No.:001948632736",
+   "conf": 0.9252741610010465
+  },
+  {
+   "text": "TAXINVOICE",
+   "conf": 0.919622153043747
+  },
+  {
+   "text": "Involce No.:",
+   "conf": 0.9109727193911871
+  },
+  {
+   "text": "C910012",
+   "conf": 0.8480051670755658
+  },
+  {
+   "text": "Dale:",
+   "conf": 0.852582985162735
+  },
+  {
+   "text": "20/03/2018 13:01",
+   "conf": 0.9607006125152111
+  },
+  {
+   "text": "caohler芬：",
+   "conf": 0.7452736116117902
+  },
+  {
+   "text": "01",
+   "conf": 0.9259082674980164
+  },
+  {
+   "text": "RM",
+   "conf": 0.9506098926067352
+  },
+  {
+   "text": "Code",
+   "conf": 0.9814603626728058
+  },
+  {
+   "text": "SAFETYPINSBUTTERFLY-S",
+   "conf": 0.9855930322692508
+  },
+  {
+   "text": "6.00日0XS",
+   "conf": 0.9081905484199524
+  },
+  {
+   "text": "17.00",
+   "conf": 0.9979160189628601
+  },
+  {
+   "text": "102.00",
+   "conf": 0.9973699847857157
+  },
+  {
+   "text": "SR",
+   "conf": 0.9193099141120911
+  },
+  {
+   "text": "Subtotal:",
+   "conf": 0.9486361874474419
+  },
+  {
+   "text": "102.00",
+   "conf": 0.9958880941073099
+  },
+  {
+   "text": "Total Excl.of GST",
+   "conf": 0.8724302439128652
+  },
+  {
+   "text": "96.23",
+   "conf": 0.9983277320861816
+  },
+  {
+   "text": "Total Incl.of GGT",
+   "conf": 0.8855352086179397
+  },
+  {
+   "text": "102.00",
+   "conf": 0.9983508189519247
+  },
+  {
+   "text": "TotalAmtRounded",
+   "conf": 0.9404444416364034
+  },
+  {
+   "text": "102.00",
+   "conf": 0.9938649932543436
+  },
+  {
+   "text": "Payment:",
+   "conf": 0.9565223231911659
+  },
+  {
+   "text": "102.00",
+   "conf": 0.9942093094189962
+  },
+  {
+   "text": "Change Due :",
+   "conf": 0.9278194904327393
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9983044117689133
+  },
+  {
+   "text": "Total tem(a):6",
+   "conf": 0.8020572343042919
+  },
+  {
+   "text": "GST Summary",
+   "conf": 0.8402995358813893
+  },
+  {
+   "text": "Armount(FM)",
+   "conf": 0.8973910320888866
+  },
+  {
+   "text": "TEX(RM)",
+   "conf": 0.7941453201430184
+  },
+  {
+   "text": "GR",
+   "conf": 0.8203907012939453
+  },
+  {
+   "text": "@6%",
+   "conf": 0.9860138297080994
+  },
+  {
+   "text": "96.23",
+   "conf": 0.9967961788177491
+  },
+  {
+   "text": "5.77",
+   "conf": 0.997345820069313
+  },
+  {
+   "text": "THANKYOU",
+   "conf": 0.9708275198936462
+  },
+  {
+   "text": "PLEASECOMEAGAIN",
+   "conf": 0.9897551536560059
+  }
+ ],
+ "mean_conf": 0.9316,
+ "low_conf_share": 0.0,
+ "latency_ms": 3823,
+ "fields": {
+  "company": "GLHANDICRAFT TALORING",
+  "date": "2018-03-20",
+  "total": 102.0
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  102.0
+ ],
+ "key": "X51005453801"
+}

@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.1-flash-lite",
+ "provider": "gemini",
+ "raw_text": "{\n  \"vendor\": \"Bachmann Japanese Restaurant\",\n  \"date\": \"2011-09-26\",\n  \"subtotal\": 36.5,\n  \"tax\": 2.81,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 42.95,\n  \"currency\": \"SGD\",\n  \"confidence\": 0.98,\n  \"notes\": \"The currency is inferred as SGD based on the location ION Orchard.\"\n}",
+ "data": {
+  "vendor": "Bachmann Japanese Restaurant",
+  "date": "2011-09-26",
+  "subtotal": 36.5,
+  "tax": 2.81,
+  "tip": null,
+  "discount": null,
+  "total": 42.95,
+  "currency": "SGD",
+  "confidence": 0.98,
+  "notes": "The currency is inferred as SGD based on the location ION Orchard."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1433,
+  "output_tokens": 118,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.000535,
+ "latency_ms": 1865,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.1-flash-lite",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.1-flash-lite"
+ ],
+ "key": "W0197_e25a6d8b772f"
+}

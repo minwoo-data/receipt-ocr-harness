@@ -1,0 +1,954 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "| i Li} :",
+  ") YHH Aeon Tebrau City )",
+  "S117, Second Floor,",
+  "Aeon Tebrau City, . —",
+  "1, Jalan Desa Tebrau,",
+  "Taman Desa Teprau,",
+  "Oe | 81100 Johor Bahru, Johor. | } |",
+  "me oo, 0021058277328 . |",
+  "* TAX INVOICE *",
+  "Order No. 1000070 17/04/2018 07:13 PM |",
+  "Receipt No. :003-1227834 Pax: 1",
+  "Cashier ‘Cashier",
+  "Eat In -",
+  "Item Qty U.Price Amount Tax |",
+  "| FG-ag0019. «= 2~Ss«*d2«SSO.Ss«S,OD SR :",
+  "Green Tea",
+  "FG-H00027 1 3.80 3.80 SR",
+  "; Chikuwa Tempura",
+  "| FG-HO0030 1 3,80 3.80 SR",
+  "- Karaage )",
+  "FG-Y00133 1 16.80 16.80 SR",
+  "Otm Spicy Yakiniku Bowl R",
+  "FG-¥00226 1 16.80 16.80 SR",
+  "Otm Spicy Teri Chicken Bowl R :",
+  "FG-Y00229 1 18.80 18.80 SR",
+  "Otm Tori Katsu Set",
+  "FG~Y00268 1 0.00 0.00 SR |",
+  "Katsu Sauce . | ,",
+  "Fa-Y00264 ~—s | 0.00 0.00 SR",
+  "Miso Soup",
+  "FG-¥00229 ] 18.80 18.80 SR",
+  "Otm Tori Katsu Set",
+  "FG-Y00767 1 0.00 0.00 SR",
+  "Taru Taru Sauce |",
+  "FG-Y00265 1 0.00 0.00 SR ;",
+  "Wakame Soup |",
+  "SubTotal . 81.80 , °",
+  "Total 81.80",
+  "TOTAL:MYR =—s«81.80",
+  "| Total Excluded Tax 77.18",
+  ". a ; 4,62 .",
+  ": ; Payment Details",
+  "Cash 85.00 . :",
+  "Cash Change 3.20",
+  "Tax Summary",
+  "Tax Code % Amount(MYR) Tax(HYR) ) )",
+  "SR 6 77.18 4,62 ;",
+  "*kEK Thank You **** : ]",
+  "Please Come Again."
+ ],
+ "tokens": [
+  {
+   "text": "|",
+   "conf": 0.52
+  },
+  {
+   "text": "i",
+   "conf": 0.51
+  },
+  {
+   "text": "Li}",
+   "conf": 0.02
+  },
+  {
+   "text": ":",
+   "conf": 0.27
+  },
+  {
+   "text": ")",
+   "conf": 0.03
+  },
+  {
+   "text": "YHH",
+   "conf": 0.62
+  },
+  {
+   "text": "Aeon",
+   "conf": 0.93
+  },
+  {
+   "text": "Tebrau",
+   "conf": 0.91
+  },
+  {
+   "text": "City",
+   "conf": 0.96
+  },
+  {
+   "text": ")",
+   "conf": 0.0
+  },
+  {
+   "text": "S117,",
+   "conf": 0.95
+  },
+  {
+   "text": "Second",
+   "conf": 0.96
+  },
+  {
+   "text": "Floor,",
+   "conf": 0.96
+  },
+  {
+   "text": "Aeon",
+   "conf": 0.89
+  },
+  {
+   "text": "Tebrau",
+   "conf": 0.92
+  },
+  {
+   "text": "City,",
+   "conf": 0.96
+  },
+  {
+   "text": ".",
+   "conf": 0.28
+  },
+  {
+   "text": "—",
+   "conf": 0.0
+  },
+  {
+   "text": "1,",
+   "conf": 0.96
+  },
+  {
+   "text": "Jalan",
+   "conf": 0.81
+  },
+  {
+   "text": "Desa",
+   "conf": 0.93
+  },
+  {
+   "text": "Tebrau,",
+   "conf": 0.91
+  },
+  {
+   "text": "Taman",
+   "conf": 0.96
+  },
+  {
+   "text": "Desa",
+   "conf": 0.93
+  },
+  {
+   "text": "Teprau,",
+   "conf": 0.86
+  },
+  {
+   "text": "Oe",
+   "conf": 0.0
+  },
+  {
+   "text": "|",
+   "conf": 0.2
+  },
+  {
+   "text": "81100",
+   "conf": 0.96
+  },
+  {
+   "text": "Johor",
+   "conf": 0.96
+  },
+  {
+   "text": "Bahru,",
+   "conf": 0.96
+  },
+  {
+   "text": "Johor.",
+   "conf": 0.95
+  },
+  {
+   "text": "|",
+   "conf": 0.56
+  },
+  {
+   "text": "}",
+   "conf": 0.0
+  },
+  {
+   "text": "|",
+   "conf": 0.68
+  },
+  {
+   "text": "me",
+   "conf": 0.2
+  },
+  {
+   "text": "oo,",
+   "conf": 0.0
+  },
+  {
+   "text": "0021058277328",
+   "conf": 0.76
+  },
+  {
+   "text": ".",
+   "conf": 0.38
+  },
+  {
+   "text": "|",
+   "conf": 0.67
+  },
+  {
+   "text": "*",
+   "conf": 0.92
+  },
+  {
+   "text": "TAX",
+   "conf": 0.95
+  },
+  {
+   "text": "INVOICE",
+   "conf": 0.93
+  },
+  {
+   "text": "*",
+   "conf": 0.91
+  },
+  {
+   "text": "Order",
+   "conf": 0.95
+  },
+  {
+   "text": "No.",
+   "conf": 0.94
+  },
+  {
+   "text": "1000070",
+   "conf": 0.8
+  },
+  {
+   "text": "17/04/2018",
+   "conf": 0.96
+  },
+  {
+   "text": "07:13",
+   "conf": 0.96
+  },
+  {
+   "text": "PM",
+   "conf": 0.95
+  },
+  {
+   "text": "|",
+   "conf": 0.43
+  },
+  {
+   "text": "Receipt",
+   "conf": 0.96
+  },
+  {
+   "text": "No.",
+   "conf": 0.77
+  },
+  {
+   "text": ":003-1227834",
+   "conf": 0.77
+  },
+  {
+   "text": "Pax:",
+   "conf": 0.96
+  },
+  {
+   "text": "1",
+   "conf": 0.85
+  },
+  {
+   "text": "Cashier",
+   "conf": 0.96
+  },
+  {
+   "text": "‘Cashier",
+   "conf": 0.88
+  },
+  {
+   "text": "Eat",
+   "conf": 0.93
+  },
+  {
+   "text": "In",
+   "conf": 0.96
+  },
+  {
+   "text": "-",
+   "conf": 0.15
+  },
+  {
+   "text": "Item",
+   "conf": 0.35
+  },
+  {
+   "text": "Qty",
+   "conf": 0.63
+  },
+  {
+   "text": "U.Price",
+   "conf": 0.85
+  },
+  {
+   "text": "Amount",
+   "conf": 0.95
+  },
+  {
+   "text": "Tax",
+   "conf": 0.96
+  },
+  {
+   "text": "|",
+   "conf": 0.47
+  },
+  {
+   "text": "|",
+   "conf": 0.81
+  },
+  {
+   "text": "FG-ag0019.",
+   "conf": 0.0
+  },
+  {
+   "text": "«=",
+   "conf": 0.38
+  },
+  {
+   "text": "2~Ss«*d2«SSO.Ss«S,OD",
+   "conf": 0.0
+  },
+  {
+   "text": "SR",
+   "conf": 0.37
+  },
+  {
+   "text": ":",
+   "conf": 0.14
+  },
+  {
+   "text": "Green",
+   "conf": 0.95
+  },
+  {
+   "text": "Tea",
+   "conf": 0.93
+  },
+  {
+   "text": "FG-H00027",
+   "conf": 0.3
+  },
+  {
+   "text": "1",
+   "conf": 0.9
+  },
+  {
+   "text": "3.80",
+   "conf": 0.72
+  },
+  {
+   "text": "3.80",
+   "conf": 0.93
+  },
+  {
+   "text": "SR",
+   "conf": 0.93
+  },
+  {
+   "text": ";",
+   "conf": 0.51
+  },
+  {
+   "text": "Chikuwa",
+   "conf": 0.92
+  },
+  {
+   "text": "Tempura",
+   "conf": 0.96
+  },
+  {
+   "text": "|",
+   "conf": 0.48
+  },
+  {
+   "text": "FG-HO0030",
+   "conf": 0.58
+  },
+  {
+   "text": "1",
+   "conf": 0.81
+  },
+  {
+   "text": "3,80",
+   "conf": 0.74
+  },
+  {
+   "text": "3.80",
+   "conf": 0.82
+  },
+  {
+   "text": "SR",
+   "conf": 0.92
+  },
+  {
+   "text": "-",
+   "conf": 0.0
+  },
+  {
+   "text": "Karaage",
+   "conf": 0.9
+  },
+  {
+   "text": ")",
+   "conf": 0.0
+  },
+  {
+   "text": "FG-Y00133",
+   "conf": 0.68
+  },
+  {
+   "text": "1",
+   "conf": 0.86
+  },
+  {
+   "text": "16.80",
+   "conf": 0.93
+  },
+  {
+   "text": "16.80",
+   "conf": 0.94
+  },
+  {
+   "text": "SR",
+   "conf": 0.94
+  },
+  {
+   "text": "Otm",
+   "conf": 0.91
+  },
+  {
+   "text": "Spicy",
+   "conf": 0.93
+  },
+  {
+   "text": "Yakiniku",
+   "conf": 0.91
+  },
+  {
+   "text": "Bowl",
+   "conf": 0.92
+  },
+  {
+   "text": "R",
+   "conf": 0.92
+  },
+  {
+   "text": "FG-¥00226",
+   "conf": 0.43
+  },
+  {
+   "text": "1",
+   "conf": 0.62
+  },
+  {
+   "text": "16.80",
+   "conf": 0.88
+  },
+  {
+   "text": "16.80",
+   "conf": 0.94
+  },
+  {
+   "text": "SR",
+   "conf": 0.94
+  },
+  {
+   "text": "Otm",
+   "conf": 0.86
+  },
+  {
+   "text": "Spicy",
+   "conf": 0.95
+  },
+  {
+   "text": "Teri",
+   "conf": 0.95
+  },
+  {
+   "text": "Chicken",
+   "conf": 0.95
+  },
+  {
+   "text": "Bowl",
+   "conf": 0.83
+  },
+  {
+   "text": "R",
+   "conf": 0.88
+  },
+  {
+   "text": ":",
+   "conf": 0.0
+  },
+  {
+   "text": "FG-Y00229",
+   "conf": 0.24
+  },
+  {
+   "text": "1",
+   "conf": 0.83
+  },
+  {
+   "text": "18.80",
+   "conf": 0.96
+  },
+  {
+   "text": "18.80",
+   "conf": 0.94
+  },
+  {
+   "text": "SR",
+   "conf": 0.94
+  },
+  {
+   "text": "Otm",
+   "conf": 0.92
+  },
+  {
+   "text": "Tori",
+   "conf": 0.96
+  },
+  {
+   "text": "Katsu",
+   "conf": 0.95
+  },
+  {
+   "text": "Set",
+   "conf": 0.96
+  },
+  {
+   "text": "FG~Y00268",
+   "conf": 0.21
+  },
+  {
+   "text": "1",
+   "conf": 0.9
+  },
+  {
+   "text": "0.00",
+   "conf": 0.86
+  },
+  {
+   "text": "0.00",
+   "conf": 0.8
+  },
+  {
+   "text": "SR",
+   "conf": 0.96
+  },
+  {
+   "text": "|",
+   "conf": 0.34
+  },
+  {
+   "text": "Katsu",
+   "conf": 0.94
+  },
+  {
+   "text": "Sauce",
+   "conf": 0.96
+  },
+  {
+   "text": ".",
+   "conf": 0.02
+  },
+  {
+   "text": "|",
+   "conf": 0.63
+  },
+  {
+   "text": ",",
+   "conf": 0.0
+  },
+  {
+   "text": "Fa-Y00264",
+   "conf": 0.54
+  },
+  {
+   "text": "~—s",
+   "conf": 0.31
+  },
+  {
+   "text": "|",
+   "conf": 0.83
+  },
+  {
+   "text": "0.00",
+   "conf": 0.68
+  },
+  {
+   "text": "0.00",
+   "conf": 0.94
+  },
+  {
+   "text": "SR",
+   "conf": 0.95
+  },
+  {
+   "text": "Miso",
+   "conf": 0.96
+  },
+  {
+   "text": "Soup",
+   "conf": 0.96
+  },
+  {
+   "text": "FG-¥00229",
+   "conf": 0.58
+  },
+  {
+   "text": "]",
+   "conf": 0.8
+  },
+  {
+   "text": "18.80",
+   "conf": 0.91
+  },
+  {
+   "text": "18.80",
+   "conf": 0.92
+  },
+  {
+   "text": "SR",
+   "conf": 0.92
+  },
+  {
+   "text": "Otm",
+   "conf": 0.93
+  },
+  {
+   "text": "Tori",
+   "conf": 0.96
+  },
+  {
+   "text": "Katsu",
+   "conf": 0.96
+  },
+  {
+   "text": "Set",
+   "conf": 0.96
+  },
+  {
+   "text": "FG-Y00767",
+   "conf": 0.68
+  },
+  {
+   "text": "1",
+   "conf": 0.82
+  },
+  {
+   "text": "0.00",
+   "conf": 0.86
+  },
+  {
+   "text": "0.00",
+   "conf": 0.94
+  },
+  {
+   "text": "SR",
+   "conf": 0.95
+  },
+  {
+   "text": "Taru",
+   "conf": 0.89
+  },
+  {
+   "text": "Taru",
+   "conf": 0.89
+  },
+  {
+   "text": "Sauce",
+   "conf": 0.9
+  },
+  {
+   "text": "|",
+   "conf": 0.35
+  },
+  {
+   "text": "FG-Y00265",
+   "conf": 0.84
+  },
+  {
+   "text": "1",
+   "conf": 0.9
+  },
+  {
+   "text": "0.00",
+   "conf": 0.86
+  },
+  {
+   "text": "0.00",
+   "conf": 0.92
+  },
+  {
+   "text": "SR",
+   "conf": 0.84
+  },
+  {
+   "text": ";",
+   "conf": 0.0
+  },
+  {
+   "text": "Wakame",
+   "conf": 0.9
+  },
+  {
+   "text": "Soup",
+   "conf": 0.96
+  },
+  {
+   "text": "|",
+   "conf": 0.18
+  },
+  {
+   "text": "SubTotal",
+   "conf": 0.89
+  },
+  {
+   "text": ".",
+   "conf": 0.53
+  },
+  {
+   "text": "81.80",
+   "conf": 0.68
+  },
+  {
+   "text": ",",
+   "conf": 0.0
+  },
+  {
+   "text": "°",
+   "conf": 0.0
+  },
+  {
+   "text": "Total",
+   "conf": 0.94
+  },
+  {
+   "text": "81.80",
+   "conf": 0.9
+  },
+  {
+   "text": "TOTAL:MYR",
+   "conf": 0.44
+  },
+  {
+   "text": "=—s«81.80",
+   "conf": 0.06
+  },
+  {
+   "text": "|",
+   "conf": 0.56
+  },
+  {
+   "text": "Total",
+   "conf": 0.96
+  },
+  {
+   "text": "Excluded",
+   "conf": 0.96
+  },
+  {
+   "text": "Tax",
+   "conf": 0.93
+  },
+  {
+   "text": "77.18",
+   "conf": 0.76
+  },
+  {
+   "text": ".",
+   "conf": 0.26
+  },
+  {
+   "text": "a",
+   "conf": 0.21
+  },
+  {
+   "text": ";",
+   "conf": 0.22
+  },
+  {
+   "text": "4,62",
+   "conf": 0.79
+  },
+  {
+   "text": ".",
+   "conf": 0.31
+  },
+  {
+   "text": ":",
+   "conf": 0.05
+  },
+  {
+   "text": ";",
+   "conf": 0.0
+  },
+  {
+   "text": "Payment",
+   "conf": 0.96
+  },
+  {
+   "text": "Details",
+   "conf": 0.96
+  },
+  {
+   "text": "Cash",
+   "conf": 0.96
+  },
+  {
+   "text": "85.00",
+   "conf": 0.83
+  },
+  {
+   "text": ".",
+   "conf": 0.41
+  },
+  {
+   "text": ":",
+   "conf": 0.24
+  },
+  {
+   "text": "Cash",
+   "conf": 0.96
+  },
+  {
+   "text": "Change",
+   "conf": 0.95
+  },
+  {
+   "text": "3.20",
+   "conf": 0.93
+  },
+  {
+   "text": "Tax",
+   "conf": 0.96
+  },
+  {
+   "text": "Summary",
+   "conf": 0.88
+  },
+  {
+   "text": "Tax",
+   "conf": 0.96
+  },
+  {
+   "text": "Code",
+   "conf": 0.88
+  },
+  {
+   "text": "%",
+   "conf": 0.0
+  },
+  {
+   "text": "Amount(MYR)",
+   "conf": 0.0
+  },
+  {
+   "text": "Tax(HYR)",
+   "conf": 0.63
+  },
+  {
+   "text": ")",
+   "conf": 0.31
+  },
+  {
+   "text": ")",
+   "conf": 0.01
+  },
+  {
+   "text": "SR",
+   "conf": 0.96
+  },
+  {
+   "text": "6",
+   "conf": 0.93
+  },
+  {
+   "text": "77.18",
+   "conf": 0.9
+  },
+  {
+   "text": "4,62",
+   "conf": 0.95
+  },
+  {
+   "text": ";",
+   "conf": 0.14
+  },
+  {
+   "text": "*kEK",
+   "conf": 0.33
+  },
+  {
+   "text": "Thank",
+   "conf": 0.95
+  },
+  {
+   "text": "You",
+   "conf": 0.9
+  },
+  {
+   "text": "****",
+   "conf": 0.26
+  },
+  {
+   "text": ":",
+   "conf": 0.34
+  },
+  {
+   "text": "]",
+   "conf": 0.0
+  },
+  {
+   "text": "Please",
+   "conf": 0.95
+  },
+  {
+   "text": "Come",
+   "conf": 0.96
+  },
+  {
+   "text": "Again.",
+   "conf": 0.93
+  }
+ ],
+ "mean_conf": 0.6945,
+ "low_conf_share": 0.2579,
+ "latency_ms": 7522,
+ "fields": {
+  "company": "YHH AEON TEBRAU CITY",
+  "date": "2018-04-17",
+  "total": 81.8
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  81.8,
+  81.8
+ ],
+ "key": "X51006414713"
+}

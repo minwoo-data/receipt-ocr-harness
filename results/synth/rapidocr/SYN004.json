@@ -1,0 +1,158 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "GREENLEAF GROCERSDNBHD",
+  "12 JALAN TUN RAZAK，50400 KUALA LUMPUR",
+  "TAXINVOICE",
+  "Date:16/03/2009 Time:13:42",
+  "1XBALLP0INTPEN3PK 5.90",
+  "3 X USBCABLE1M 59.70",
+  "2 X DISH S0AP 900ML 14.80",
+  "1x ICED LATTE 9.50",
+  "SUBTOTAL 89.90",
+  "%9159 5.39",
+  "TOTAL 95.29",
+  "CASH 100.29",
+  "CHANGE 5.00",
+  "THANK YOU,PLEASE COME AGAIN"
+ ],
+ "tokens": [
+  {
+   "text": "GREENLEAF GROCERSDNBHD",
+   "conf": 0.9748605191707611
+  },
+  {
+   "text": "12 JALAN TUN RAZAK，50400 KUALA LUMPUR",
+   "conf": 0.92270755445635
+  },
+  {
+   "text": "TAXINVOICE",
+   "conf": 0.9952999591827393
+  },
+  {
+   "text": "Date:16/03/2009",
+   "conf": 0.9878973325093587
+  },
+  {
+   "text": "Time:13:42",
+   "conf": 0.9714591145515442
+  },
+  {
+   "text": "1XBALLP0INTPEN3PK",
+   "conf": 0.9590770882718703
+  },
+  {
+   "text": "5.90",
+   "conf": 0.9995301216840744
+  },
+  {
+   "text": "3",
+   "conf": 0.9995136260986328
+  },
+  {
+   "text": "X",
+   "conf": 0.7524635195732117
+  },
+  {
+   "text": "USBCABLE1M",
+   "conf": 0.9899603247642517
+  },
+  {
+   "text": "59.70",
+   "conf": 0.9995412230491638
+  },
+  {
+   "text": "2",
+   "conf": 0.9989822506904602
+  },
+  {
+   "text": "X",
+   "conf": 0.8353442549705505
+  },
+  {
+   "text": "DISH",
+   "conf": 0.9921059012413025
+  },
+  {
+   "text": "S0AP 900ML",
+   "conf": 0.897002100944519
+  },
+  {
+   "text": "14.80",
+   "conf": 0.9989250540733338
+  },
+  {
+   "text": "1x",
+   "conf": 0.7649545073509216
+  },
+  {
+   "text": "ICED",
+   "conf": 0.9939316958189011
+  },
+  {
+   "text": "LATTE",
+   "conf": 0.9944560527801514
+  },
+  {
+   "text": "9.50",
+   "conf": 0.999139130115509
+  },
+  {
+   "text": "SUBTOTAL",
+   "conf": 0.9950999468564987
+  },
+  {
+   "text": "89.90",
+   "conf": 0.9997295498847961
+  },
+  {
+   "text": "%9159",
+   "conf": 0.7595870852470398
+  },
+  {
+   "text": "5.39",
+   "conf": 0.9997696280479431
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.9948169112205505
+  },
+  {
+   "text": "95.29",
+   "conf": 0.9995459318161011
+  },
+  {
+   "text": "CASH",
+   "conf": 0.9986643642187119
+  },
+  {
+   "text": "100.29",
+   "conf": 0.997675746679306
+  },
+  {
+   "text": "CHANGE",
+   "conf": 0.9965772728125254
+  },
+  {
+   "text": "5.00",
+   "conf": 0.9996155053377151
+  },
+  {
+   "text": "THANK YOU,PLEASE COME AGAIN",
+   "conf": 0.9386054961769669
+  }
+ ],
+ "mean_conf": 0.9583,
+ "low_conf_share": 0.0,
+ "latency_ms": 14215,
+ "fields": {
+  "company": "GREENLEAF GROCERSDNBHD",
+  "date": "2009-03-16",
+  "total": 95.29
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  95.29
+ ],
+ "key": "SYN004"
+}

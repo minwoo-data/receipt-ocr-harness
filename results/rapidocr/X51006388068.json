@@ -1,0 +1,266 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "Seoi Cash & Carry Sdn.Bhd.",
+  "Pti7920 Sek U9,Shah Alam",
+  "GST Reg No:001951645696",
+  "05/sd400827/36805 11/05/1710:132m",
+  "SALAD BULAT",
+  "0.38 x6.00 POSTED",
+  "SALAD BULAT",
+  "0.385X 6.00",
+  "SIEW PAK CHOY-PKT",
+  "1x2.00",
+  "NESTUM ALL FAMILY CEREAL ORI S/P-2506",
+  "1x4.19 4195",
+  "DAUN BAWANG",
+  "0.11 X10.91",
+  "DAUN KETUMBAR THAI",
+  "0.115X18.96",
+  "ALISHAN FRUIT COCKTAIL B36G",
+  "2x5.95 UO",
+  "MIGHTY MARK BLEACH 1DL",
+  "3x11.50 4",
+  "HIGHTY HARK DISHWASH 11L",
+  "2x11.50 23.006",
+  "No of items: 13",
+  "Subtotal Incl. GST:RH 83.56",
+  "RoundingiRH -0.01",
+  "Total Incl.GST:RM 83.55",
+  "Master xxxxxxxxxxxx9113: 83.55",
+  "Change:RM 0.00",
+  "nissed Point Today: 79",
+  "SerVed by ROHANA BINTI MD DALI",
+  "**************GSTSuDary*************",
+  "GST Code Amount(R) Tax/RM)",
+  "780.0% 9.97 0.00",
+  "S06.0% 69.42",
+  "efN0100600696340036805",
+  "Not Returnahle"
+ ],
+ "tokens": [
+  {
+   "text": "Seoi Cash & Carry Sdn.Bhd.",
+   "conf": 0.909753204538272
+  },
+  {
+   "text": "Pti7920 Sek U9,Shah Alam",
+   "conf": 0.8883592002093792
+  },
+  {
+   "text": "GST Reg No:001951645696",
+   "conf": 0.9220569185588671
+  },
+  {
+   "text": "05/sd400827/36805",
+   "conf": 0.971614774535684
+  },
+  {
+   "text": "11/05/1710:132m",
+   "conf": 0.9518376429875691
+  },
+  {
+   "text": "SALAD BULAT",
+   "conf": 0.9476990103721619
+  },
+  {
+   "text": "0.38 x6.00",
+   "conf": 0.9133342742919922
+  },
+  {
+   "text": "POSTED",
+   "conf": 0.9978351791699728
+  },
+  {
+   "text": "SALAD BULAT",
+   "conf": 0.9808818643743341
+  },
+  {
+   "text": "0.385X 6.00",
+   "conf": 0.9053680734200911
+  },
+  {
+   "text": "SIEW PAK CHOY-PKT",
+   "conf": 0.9285466600866878
+  },
+  {
+   "text": "1x2.00",
+   "conf": 0.9169731239477793
+  },
+  {
+   "text": "NESTUM ALL FAMILY CEREAL ORI S/P-2506",
+   "conf": 0.920196915800507
+  },
+  {
+   "text": "1x4.19",
+   "conf": 0.9175226986408234
+  },
+  {
+   "text": "4195",
+   "conf": 0.938069298863411
+  },
+  {
+   "text": "DAUN BAWANG",
+   "conf": 0.9182273095304315
+  },
+  {
+   "text": "0.11 X10.91",
+   "conf": 0.8997195037928495
+  },
+  {
+   "text": "DAUN KETUMBAR THAI",
+   "conf": 0.9409420324696435
+  },
+  {
+   "text": "0.115X18.96",
+   "conf": 0.9659211093729193
+  },
+  {
+   "text": "ALISHAN FRUIT COCKTAIL B36G",
+   "conf": 0.9619669053289626
+  },
+  {
+   "text": "2x5.95",
+   "conf": 0.929410437742869
+  },
+  {
+   "text": "UO",
+   "conf": 0.7159851491451263
+  },
+  {
+   "text": "MIGHTY MARK BLEACH 1DL",
+   "conf": 0.92459490488876
+  },
+  {
+   "text": "3x11.50",
+   "conf": 0.9265486257416862
+  },
+  {
+   "text": "4",
+   "conf": 0.8020185828208923
+  },
+  {
+   "text": "HIGHTY HARK DISHWASH 11L",
+   "conf": 0.9128279276192188
+  },
+  {
+   "text": "2x11.50",
+   "conf": 0.9382956027984619
+  },
+  {
+   "text": "23.006",
+   "conf": 0.9059727986653646
+  },
+  {
+   "text": "No of items: 13",
+   "conf": 0.8883391141891479
+  },
+  {
+   "text": "Subtotal Incl. GST:RH",
+   "conf": 0.8404558563516253
+  },
+  {
+   "text": "83.56",
+   "conf": 0.990299129486084
+  },
+  {
+   "text": "RoundingiRH",
+   "conf": 0.8767500519752502
+  },
+  {
+   "text": "-0.01",
+   "conf": 0.9846376895904541
+  },
+  {
+   "text": "Total Incl.GST:RM",
+   "conf": 0.900607564870049
+  },
+  {
+   "text": "83.55",
+   "conf": 0.9930790662765503
+  },
+  {
+   "text": "Master xxxxxxxxxxxx9113:",
+   "conf": 0.7963850771387418
+  },
+  {
+   "text": "83.55",
+   "conf": 0.9541174650192261
+  },
+  {
+   "text": "Change:RM",
+   "conf": 0.9341295427746243
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9757083803415298
+  },
+  {
+   "text": "nissed Point Today: 79",
+   "conf": 0.9032213362780485
+  },
+  {
+   "text": "SerVed by ROHANA BINTI MD DALI",
+   "conf": 0.8739559183518092
+  },
+  {
+   "text": "**************GSTSuDary*************",
+   "conf": 0.7609300460252497
+  },
+  {
+   "text": "GST Code",
+   "conf": 0.8946830034255981
+  },
+  {
+   "text": "Amount(R)",
+   "conf": 0.8814925418959724
+  },
+  {
+   "text": "Tax/RM)",
+   "conf": 0.5266762886728559
+  },
+  {
+   "text": "780.0%",
+   "conf": 0.8367699384689331
+  },
+  {
+   "text": "9.97",
+   "conf": 0.8617685884237289
+  },
+  {
+   "text": "0.00",
+   "conf": 0.904280811548233
+  },
+  {
+   "text": "S06.0%",
+   "conf": 0.8140246967474619
+  },
+  {
+   "text": "69.42",
+   "conf": 0.9756402254104615
+  },
+  {
+   "text": "efN0100600696340036805",
+   "conf": 0.8928508352149617
+  },
+  {
+   "text": "Not Returnahle",
+   "conf": 0.9227037600108555
+  }
+ ],
+ "mean_conf": 0.9026,
+ "low_conf_share": 0.0,
+ "latency_ms": 3608,
+ "fields": {
+  "company": "SEOI CASH CARRY SDN BHD",
+  "date": null,
+  "total": 83.55
+ },
+ "rule_reasons": [
+  "date_not_found"
+ ],
+ "total_candidates": [
+  83.55
+ ],
+ "key": "X51006388068"
+}

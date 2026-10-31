@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.6-flash",
+ "provider": "gemini",
+ "raw_text": "{\"vendor\": \"HON HWA HARDWARE TRADING\", \"date\": \"2017-02-08\", \"subtotal\": 277.9, \"tax\": 15.68, \"tip\": null, \"discount\": -0.9, \"total\": 277.0, \"currency\": \"MYR\", \"confidence\": 0.95, \"notes\": null}",
+ "data": {
+  "vendor": "HON HWA HARDWARE TRADING",
+  "date": "2017-02-08",
+  "subtotal": 277.9,
+  "tax": 15.68,
+  "tip": null,
+  "discount": -0.9,
+  "total": 277.0,
+  "currency": "MYR",
+  "confidence": 0.95,
+  "notes": null
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1429,
+  "output_tokens": 92,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.001417,
+ "latency_ms": 1889,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.6-flash",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.6-flash"
+ ],
+ "key": "X51005568891"
+}

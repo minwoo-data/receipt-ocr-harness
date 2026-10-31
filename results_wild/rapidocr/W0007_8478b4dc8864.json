@@ -1,0 +1,238 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "TRADER JOE'S",
+  "5269 Prospect",
+  "San Jose CA 95129",
+  "Store #062-（408)446-5055",
+  "OPEN8:00AMT09:00PMDAILY",
+  "NUT WALNUT PIECES POINDEXTER 66:9",
+  "OLIVES PITTEDKAL INXVOO 2.99",
+  "A-APPLEEACH PINK LADY. 4.83",
+  "7EA 0.69/EA",
+  "SUBTOTAL $14.81",
+  "TOTAL $14.81",
+  "AMEX $14.81",
+  "11/14/2015 20:30:08",
+  "694062",
+  "TID: 001",
+  "RRN: 078483",
+  "PURCHASE",
+  "AMERICAN EXPRESS",
+  "CARD#: XXXXXXXXXXX1007",
+  "Chip Read",
+  "Total: USD$14.81",
+  "APPROVED BY ISSUER",
+  "Mode: Issuer",
+  "AID: A000000025010801",
+  "TVR: 0000008000",
+  "IAD: 06720103602002",
+  "TSI: F800",
+  "ARC: 00",
+  "CUSTOMER COPY"
+ ],
+ "tokens": [
+  {
+   "text": "TRADER JOE'S",
+   "conf": 0.9481466213862101
+  },
+  {
+   "text": "5269 Prospect",
+   "conf": 0.9760554341169504
+  },
+  {
+   "text": "San Jose CA 95129",
+   "conf": 0.9419302204075981
+  },
+  {
+   "text": "Store #062-（408)446-5055",
+   "conf": 0.9425981640815735
+  },
+  {
+   "text": "OPEN8:00AMT09:00PMDAILY",
+   "conf": 0.9478062909582387
+  },
+  {
+   "text": "NUT WALNUT PIECES POINDEXTER",
+   "conf": 0.9613689737660545
+  },
+  {
+   "text": "66:9",
+   "conf": 0.7665467858314514
+  },
+  {
+   "text": "OLIVES PITTEDKAL INXVOO",
+   "conf": 0.9576718159343885
+  },
+  {
+   "text": "2.99",
+   "conf": 0.9972830265760422
+  },
+  {
+   "text": "A-APPLEEACH PINK LADY.",
+   "conf": 0.9442693455652758
+  },
+  {
+   "text": "4.83",
+   "conf": 0.989094614982605
+  },
+  {
+   "text": "7EA",
+   "conf": 0.9837028781572977
+  },
+  {
+   "text": "0.69/EA",
+   "conf": 0.9865569302013942
+  },
+  {
+   "text": "SUBTOTAL",
+   "conf": 0.9945507943630219
+  },
+  {
+   "text": "$14.81",
+   "conf": 0.9883821209271749
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.9948011875152588
+  },
+  {
+   "text": "$14.81",
+   "conf": 0.9963648617267609
+  },
+  {
+   "text": "AMEX",
+   "conf": 0.9858831912279129
+  },
+  {
+   "text": "$14.81",
+   "conf": 0.9948935906092325
+  },
+  {
+   "text": "11/14/2015",
+   "conf": 0.9970548927783967
+  },
+  {
+   "text": "20:30:08",
+   "conf": 0.9759847074747086
+  },
+  {
+   "text": "694062",
+   "conf": 0.9961032470067342
+  },
+  {
+   "text": "TID:",
+   "conf": 0.9865213185548782
+  },
+  {
+   "text": "001",
+   "conf": 0.9982914129892985
+  },
+  {
+   "text": "RRN:",
+   "conf": 0.9506456553936005
+  },
+  {
+   "text": "078483",
+   "conf": 0.9847908218701681
+  },
+  {
+   "text": "PURCHASE",
+   "conf": 0.9908247664570808
+  },
+  {
+   "text": "AMERICAN EXPRESS",
+   "conf": 0.9763077571988106
+  },
+  {
+   "text": "CARD#:",
+   "conf": 0.9211488763491312
+  },
+  {
+   "text": "XXXXXXXXXXX1007",
+   "conf": 0.8659253040949504
+  },
+  {
+   "text": "Chip Read",
+   "conf": 0.9617759850290086
+  },
+  {
+   "text": "Total:",
+   "conf": 0.9904070893923441
+  },
+  {
+   "text": "USD$14.81",
+   "conf": 0.9710508386294047
+  },
+  {
+   "text": "APPROVED BY ISSUER",
+   "conf": 0.9703142510520087
+  },
+  {
+   "text": "Mode:",
+   "conf": 0.9912303924560547
+  },
+  {
+   "text": "Issuer",
+   "conf": 0.9914173086484274
+  },
+  {
+   "text": "AID:",
+   "conf": 0.9778016805648804
+  },
+  {
+   "text": "A000000025010801",
+   "conf": 0.9976117797195911
+  },
+  {
+   "text": "TVR:",
+   "conf": 0.9790162593126297
+  },
+  {
+   "text": "0000008000",
+   "conf": 0.9952418088912964
+  },
+  {
+   "text": "IAD:",
+   "conf": 0.9662326574325562
+  },
+  {
+   "text": "06720103602002",
+   "conf": 0.9974512074674878
+  },
+  {
+   "text": "TSI:",
+   "conf": 0.9772207587957382
+  },
+  {
+   "text": "F800",
+   "conf": 0.7678633779287338
+  },
+  {
+   "text": "ARC:",
+   "conf": 0.942338615655899
+  },
+  {
+   "text": "00",
+   "conf": 0.9976048171520233
+  },
+  {
+   "text": "CUSTOMER COPY",
+   "conf": 0.9873536504231967
+  }
+ ],
+ "mean_conf": 0.966,
+ "low_conf_share": 0.0,
+ "latency_ms": 3893,
+ "fields": {
+  "company": "STORE 062 408 446 5055",
+  "date": "2015-11-14",
+  "total": 14.81
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  14.81,
+  14.81
+ ],
+ "key": "W0007_8478b4dc8864"
+}

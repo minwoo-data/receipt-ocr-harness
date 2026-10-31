@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.6-flash",
+ "provider": "gemini",
+ "raw_text": "{\"vendor\": \"Drips Bakery Cafe\", \"date\": \"2012-08-20\", \"subtotal\": 39.9, \"tax\": null, \"tip\": null, \"discount\": null, \"total\": 39.9, \"currency\": \"SGD\", \"confidence\": 0.95, \"notes\": null}",
+ "data": {
+  "vendor": "Drips Bakery Cafe",
+  "date": "2012-08-20",
+  "subtotal": 39.9,
+  "tax": null,
+  "tip": null,
+  "discount": null,
+  "total": 39.9,
+  "currency": "SGD",
+  "confidence": 0.95,
+  "notes": null
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1433,
+  "output_tokens": 78,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.001367,
+ "latency_ms": 1384,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.6-flash",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.6-flash"
+ ],
+ "key": "W0030_d3759910dd53"
+}

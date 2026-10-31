@@ -1,0 +1,136 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "Store #0208",
+  "Panda Express",
+  "(617)267-7977 Boston,MA",
+  "10/28/2014 Order:299087 Server:Xiaoyu C 3:21:56PM 8.68",
+  "13-ENTREEPLATE",
+  "CHOW MEIN-1/2",
+  "CHOW MEIN-1/2",
+  "KUNG PAO CKN",
+  "CHEESE RANGOONS",
+  "ORANGE CKN",
+  "SubTotal 8.68 0.61",
+  "TAX 9.29",
+  "Total",
+  "10.00",
+  "Cash 0.71",
+  "Change"
+ ],
+ "tokens": [
+  {
+   "text": "Store #0208",
+   "conf": 0.9464597160165961
+  },
+  {
+   "text": "Panda Express",
+   "conf": 0.9655604500036973
+  },
+  {
+   "text": "Boston,MA",
+   "conf": 0.8672629694143931
+  },
+  {
+   "text": "(617)267-7977",
+   "conf": 0.9688836152736957
+  },
+  {
+   "text": "3:21:56PM",
+   "conf": 0.9636749360296462
+  },
+  {
+   "text": "10/28/2014",
+   "conf": 0.9981688320636749
+  },
+  {
+   "text": "Server:Xiaoyu C",
+   "conf": 0.8823256055514018
+  },
+  {
+   "text": "Order:299087",
+   "conf": 0.9585013538599014
+  },
+  {
+   "text": "13-ENTREEPLATE",
+   "conf": 0.9883375210421426
+  },
+  {
+   "text": "8.68",
+   "conf": 0.9831095486879349
+  },
+  {
+   "text": "CHOW MEIN-1/2",
+   "conf": 0.9545382352975699
+  },
+  {
+   "text": "CHOW MEIN-1/2",
+   "conf": 0.9716152548789978
+  },
+  {
+   "text": "KUNG PAO CKN",
+   "conf": 0.9695335974295934
+  },
+  {
+   "text": "CHEESE RANGOONS",
+   "conf": 0.9708382487297058
+  },
+  {
+   "text": "ORANGE CKN",
+   "conf": 0.9639877676963806
+  },
+  {
+   "text": "8.68",
+   "conf": 0.9898766875267029
+  },
+  {
+   "text": "SubTotal",
+   "conf": 0.9867226555943489
+  },
+  {
+   "text": "0.61",
+   "conf": 0.9967816472053528
+  },
+  {
+   "text": "TAX",
+   "conf": 0.9661390980084738
+  },
+  {
+   "text": "9.29",
+   "conf": 0.9951549917459488
+  },
+  {
+   "text": "Total",
+   "conf": 0.9956088423728943
+  },
+  {
+   "text": "10.00",
+   "conf": 0.8962098956108093
+  },
+  {
+   "text": "Cash",
+   "conf": 0.9970643222332001
+  },
+  {
+   "text": "0.71",
+   "conf": 0.9950490444898605
+  },
+  {
+   "text": "Change",
+   "conf": 0.9900985856850942
+  }
+ ],
+ "mean_conf": 0.9665,
+ "low_conf_share": 0.0,
+ "latency_ms": 2286,
+ "fields": {
+  "company": "STORE 0208",
+  "date": "2014-10-28",
+  "total": 10.0
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  10.0
+ ],
+ "key": "W0023_567f2ef637c3"
+}

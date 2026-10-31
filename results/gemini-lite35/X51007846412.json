@@ -1,0 +1,50 @@
+{
+ "engine": "gemini-3.5-flash-lite",
+ "provider": "gemini",
+ "raw_text": "{\"vendor\": \"LAVENDER CONFECTIONERY & BAKERY S/B\", \"date\": \"2018-06-17\", \"subtotal\": 26.5, \"tax\": 0.0, \"tip\": null, \"discount\": null, \"total\": 26.5, \"currency\": \"MYR\", \"confidence\": 0.95, \"notes\": null}",
+ "data": {
+  "vendor": "LAVENDER CONFECTIONERY & BAKERY S/B",
+  "date": "2018-06-17",
+  "subtotal": 26.5,
+  "tax": 0.0,
+  "tip": null,
+  "discount": null,
+  "total": 26.5,
+  "currency": "MYR",
+  "confidence": 0.95,
+  "notes": null
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1461,
+  "output_tokens": 91,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.000666,
+ "latency_ms": 7508,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.5-flash-lite",
+   "ok": false,
+   "error": "400 INVALID_ARGUMENT. {'error': {'code': 400, 'message': 'Request contains an invalid argument.', 'status': 'INVALID_ARGUMENT'}}",
+   "attempt": 1,
+   "config": 0
+  },
+  {
+   "provider": "gemini",
+   "model": "gemini-3.5-flash-lite",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 1
+  }
+ ],
+ "chain": [
+  "gemini-3.5-flash-lite"
+ ],
+ "key": "X51007846412"
+}

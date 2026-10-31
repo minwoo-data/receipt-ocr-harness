@@ -1,0 +1,164 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "Souk Waqit Te1:44312682",
+  "Invoice",
+  "Table No.:9 Ouests:1",
+  "Time:18:37:11 CHK No Date:14/Ju1/16 :89945",
+  "oty Item Price Amount",
+  "1 SL 2.00 2.00",
+  "1 3.00 3.00",
+  "1 25.00 25.00",
+  "FE 30.00",
+  "Discount 0.00",
+  "Service Charge 0.00",
+  "Total Invoice 30.00",
+  "ocessed by :motea alhamedi",
+  "ank You for your visit"
+ ],
+ "tokens": [
+  {
+   "text": "Souk Waqit",
+   "conf": 0.8428783059120178
+  },
+  {
+   "text": "Te1:44312682",
+   "conf": 0.9201390544573466
+  },
+  {
+   "text": "Invoice",
+   "conf": 0.935208261013031
+  },
+  {
+   "text": "Table No.:9",
+   "conf": 0.8816082748499784
+  },
+  {
+   "text": "Date:14/Ju1/16",
+   "conf": 0.9362094359738486
+  },
+  {
+   "text": "Ouests:1",
+   "conf": 0.8389771357178688
+  },
+  {
+   "text": "Time:18:37:11 CHK No",
+   "conf": 0.8732540041208268
+  },
+  {
+   "text": ":89945",
+   "conf": 0.9572041134039561
+  },
+  {
+   "text": "oty",
+   "conf": 0.7694370051225027
+  },
+  {
+   "text": "Item",
+   "conf": 0.9119298011064529
+  },
+  {
+   "text": "Price",
+   "conf": 0.9390487670898438
+  },
+  {
+   "text": "Amount",
+   "conf": 0.985001931587855
+  },
+  {
+   "text": "1",
+   "conf": 0.8752994537353516
+  },
+  {
+   "text": "SL",
+   "conf": 0.5880061686038971
+  },
+  {
+   "text": "2.00",
+   "conf": 0.9948692470788956
+  },
+  {
+   "text": "2.00",
+   "conf": 0.9932631403207779
+  },
+  {
+   "text": "1",
+   "conf": 0.8975332975387573
+  },
+  {
+   "text": "3.00",
+   "conf": 0.9961684793233871
+  },
+  {
+   "text": "3.00",
+   "conf": 0.9958066344261169
+  },
+  {
+   "text": "1",
+   "conf": 0.5562882423400879
+  },
+  {
+   "text": "25.00",
+   "conf": 0.9953235030174256
+  },
+  {
+   "text": "25.00",
+   "conf": 0.9959660053253174
+  },
+  {
+   "text": "FE",
+   "conf": 0.523627296090126
+  },
+  {
+   "text": "30.00",
+   "conf": 0.9939168214797973
+  },
+  {
+   "text": "Discount",
+   "conf": 0.9838764742016792
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9932924509048462
+  },
+  {
+   "text": "Service Charge",
+   "conf": 0.9339088371821812
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9857508391141891
+  },
+  {
+   "text": "Total Invoice",
+   "conf": 0.968057027229896
+  },
+  {
+   "text": "30.00",
+   "conf": 0.9936895370483398
+  },
+  {
+   "text": "ocessed by :motea alhamedi",
+   "conf": 0.944828097636883
+  },
+  {
+   "text": "ank You for your visit",
+   "conf": 0.9403020143508911
+  }
+ ],
+ "mean_conf": 0.9044,
+ "low_conf_share": 0.0,
+ "latency_ms": 2954,
+ "fields": {
+  "company": "TABLE NO 9 OUESTS 1",
+  "date": null,
+  "total": 30.0
+ },
+ "rule_reasons": [
+  "date_not_found"
+ ],
+ "total_candidates": [
+  30.0
+ ],
+ "key": "W0103_1ca5601bc2f6"
+}

@@ -1,0 +1,158 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "SPEEDWAY 0006661",
+  "La Porte IN 46350",
+  "TRAN#:2387827",
+  "5/19/2017 6:29PM",
+  "Pump02",
+  "#2Diesel",
+  "10.875 @S2.399/GAL",
+  "GAS TOTAL $26.09",
+  "TAX $0.00",
+  "TOTAL $26.09",
+  "Speedvay MC",
+  "Card Num :",
+  "Z8ZAXXXXXXXXXXXX",
+  "TERM:0050006661001",
+  "TRANS TYPE: CAPTURE",
+  "APPR#:30886B",
+  "ENTRY METHOD: ICR",
+  "Speedy Rewards",
+  "Points Earned: 1413",
+  "Nev Ba1ance: 135837",
+  "WWW.SPEEDWAY.COM"
+ ],
+ "tokens": [
+  {
+   "text": "SPEEDWAY",
+   "conf": 0.9782799854874611
+  },
+  {
+   "text": "0006661",
+   "conf": 0.9934607148170471
+  },
+  {
+   "text": "La Porte",
+   "conf": 0.9750920832157135
+  },
+  {
+   "text": "IN",
+   "conf": 0.8683130443096161
+  },
+  {
+   "text": "46350",
+   "conf": 0.9977482080459594
+  },
+  {
+   "text": "TRAN#:2387827",
+   "conf": 0.9714034474813021
+  },
+  {
+   "text": "5/19/2017",
+   "conf": 0.996628377172682
+  },
+  {
+   "text": "6:29PM",
+   "conf": 0.9709668358167013
+  },
+  {
+   "text": "Pump02",
+   "conf": 0.9649220605691274
+  },
+  {
+   "text": "#2Diesel",
+   "conf": 0.9909289330244064
+  },
+  {
+   "text": "10.875 @S2.399/GAL",
+   "conf": 0.9404116736518012
+  },
+  {
+   "text": "GAS TOTAL",
+   "conf": 0.9811571704016792
+  },
+  {
+   "text": "$26.09",
+   "conf": 0.9950003921985626
+  },
+  {
+   "text": "TAX",
+   "conf": 0.9886642098426819
+  },
+  {
+   "text": "$0.00",
+   "conf": 0.9800821423530579
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.9900177001953125
+  },
+  {
+   "text": "$26.09",
+   "conf": 0.9929344852765402
+  },
+  {
+   "text": "Speedvay MC",
+   "conf": 0.937580715526234
+  },
+  {
+   "text": "Card Num :",
+   "conf": 0.8922275841236115
+  },
+  {
+   "text": "Z8ZAXXXXXXXXXXXX",
+   "conf": 0.7264956412836909
+  },
+  {
+   "text": "TERM:0050006661001",
+   "conf": 0.9267594383822547
+  },
+  {
+   "text": "TRANS TYPE:",
+   "conf": 0.957921873439442
+  },
+  {
+   "text": "CAPTURE",
+   "conf": 0.9931087153298515
+  },
+  {
+   "text": "APPR#:30886B",
+   "conf": 0.9750560869773229
+  },
+  {
+   "text": "ENTRY METHOD: ICR",
+   "conf": 0.9499052833108341
+  },
+  {
+   "text": "Speedy Rewards",
+   "conf": 0.9727453972612109
+  },
+  {
+   "text": "Points Earned: 1413",
+   "conf": 0.9485506540850589
+  },
+  {
+   "text": "Nev Ba1ance: 135837",
+   "conf": 0.9011437830172087
+  },
+  {
+   "text": "WWW.SPEEDWAY.COM",
+   "conf": 0.9714765325188637
+  }
+ ],
+ "mean_conf": 0.9562,
+ "low_conf_share": 0.0,
+ "latency_ms": 2950,
+ "fields": {
+  "company": "LA PORTE IN",
+  "date": "2017-05-19",
+  "total": 26.09
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  26.09,
+  26.09
+ ],
+ "key": "W0048_1064992b525a"
+}

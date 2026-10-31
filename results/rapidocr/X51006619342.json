@@ -1,0 +1,142 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "MR.D.I.Y.(KUCHAI) SDN BHD",
+  "LOT1851-A&1851-B,JALANKPB 6",
+  "KAWASAN PERINDUSTRIAN BALAKONG,",
+  "43300 SERI KEMBANGAN,SELANGOR",
+  "（GST ID No:000473792512)",
+  "(SG WANG)",
+  "SPONGE DISHES 6103# S米",
+  "UH14-21-32-12/120",
+  "9068739 1X3.30 3.30",
+  "Item（s）=1 Qty（s）:1",
+  "TotalIncl.GST@6% RM3.30",
+  "CASH RM3.30",
+  "GST @6% included in total RM0.19",
+  "17-04-16 14:02SH01B019 T3 R000034325",
+  "OPERATOR CHC-JIVAN",
+  "EXCHANGE ARE ALLOWED WITHIN",
+  "3 DAY WITH RECEIPT.",
+  "STRICTLY NO CASH REFUND"
+ ],
+ "tokens": [
+  {
+   "text": "MR.D.I.Y.(KUCHAI) SDN BHD",
+   "conf": 0.8950144052505493
+  },
+  {
+   "text": "LOT1851-A&1851-B,JALANKPB 6",
+   "conf": 0.9433833647657324
+  },
+  {
+   "text": "KAWASAN PERINDUSTRIAN BALAKONG,",
+   "conf": 0.9528464963359218
+  },
+  {
+   "text": "43300 SERI KEMBANGAN,SELANGOR",
+   "conf": 0.9371916199552601
+  },
+  {
+   "text": "（GST ID No:000473792512)",
+   "conf": 0.8945005113879839
+  },
+  {
+   "text": "(SG WANG)",
+   "conf": 0.9196608000331454
+  },
+  {
+   "text": "SPONGE DISHES 6103#",
+   "conf": 0.9373444977559542
+  },
+  {
+   "text": "S米",
+   "conf": 0.6576245874166489
+  },
+  {
+   "text": "UH14-21-32-12/120",
+   "conf": 0.9907913032700034
+  },
+  {
+   "text": "9068739",
+   "conf": 0.9977455820356097
+  },
+  {
+   "text": "1X3.30",
+   "conf": 0.9453580578168234
+  },
+  {
+   "text": "3.30",
+   "conf": 0.9827204346656799
+  },
+  {
+   "text": "Item（s）=1",
+   "conf": 0.7892109089427524
+  },
+  {
+   "text": "Qty（s）:1",
+   "conf": 0.7600482776761055
+  },
+  {
+   "text": "TotalIncl.GST@6%",
+   "conf": 0.94637655839324
+  },
+  {
+   "text": "RM3.30",
+   "conf": 0.9908225834369659
+  },
+  {
+   "text": "CASH",
+   "conf": 0.9917123764753342
+  },
+  {
+   "text": "RM3.30",
+   "conf": 0.9878616730372111
+  },
+  {
+   "text": "GST @6% included in total",
+   "conf": 0.9127973532676696
+  },
+  {
+   "text": "RM0.19",
+   "conf": 0.978178987900416
+  },
+  {
+   "text": "17-04-16 14:02SH01B019",
+   "conf": 0.9719915958968076
+  },
+  {
+   "text": "T3 R000034325",
+   "conf": 0.9708624207056485
+  },
+  {
+   "text": "OPERATOR CHC-JIVAN",
+   "conf": 0.9728865590360429
+  },
+  {
+   "text": "EXCHANGE ARE ALLOWED WITHIN",
+   "conf": 0.969218929608663
+  },
+  {
+   "text": "3 DAY WITH RECEIPT.",
+   "conf": 0.9086294236936068
+  },
+  {
+   "text": "STRICTLY NO CASH REFUND",
+   "conf": 0.9677509069442749
+  }
+ ],
+ "mean_conf": 0.9297,
+ "low_conf_share": 0.0,
+ "latency_ms": 4570,
+ "fields": {
+  "company": "MR D I Y SDN BHD",
+  "date": "2016-04-17",
+  "total": 3.3
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  3.3
+ ],
+ "key": "X51006619342"
+}

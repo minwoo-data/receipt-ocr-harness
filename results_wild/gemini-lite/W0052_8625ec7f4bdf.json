@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.1-flash-lite",
+ "provider": "gemini",
+ "raw_text": "{\n  \"vendor\": \"Sunshine POS\",\n  \"date\": \"2001-08-07\",\n  \"subtotal\": 66.40,\n  \"tax\": 0.00,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 66.40,\n  \"currency\": \"USD\",\n  \"confidence\": 0.98,\n  \"notes\": null\n}",
+ "data": {
+  "vendor": "Sunshine POS",
+  "date": "2001-08-07",
+  "subtotal": 66.4,
+  "tax": 0.0,
+  "tip": null,
+  "discount": null,
+  "total": 66.4,
+  "currency": "USD",
+  "confidence": 0.98,
+  "notes": null
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1447,
+  "output_tokens": 104,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.000518,
+ "latency_ms": 1319,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.1-flash-lite",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.1-flash-lite"
+ ],
+ "key": "W0052_8625ec7f4bdf"
+}

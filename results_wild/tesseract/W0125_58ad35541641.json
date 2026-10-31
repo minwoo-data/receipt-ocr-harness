@@ -1,0 +1,91 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "ce Si",
+  "mins TOTAL ’ 33.00",
+  "| Settea By ‘CASH",
+  "Se ‘Cash Amount 33.00",
+  "—_— —_"
+ ],
+ "tokens": [
+  {
+   "text": "ce",
+   "conf": 0.34
+  },
+  {
+   "text": "Si",
+   "conf": 0.16
+  },
+  {
+   "text": "mins",
+   "conf": 0.29
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.77
+  },
+  {
+   "text": "’",
+   "conf": 0.0
+  },
+  {
+   "text": "33.00",
+   "conf": 0.75
+  },
+  {
+   "text": "|",
+   "conf": 0.6
+  },
+  {
+   "text": "Settea",
+   "conf": 0.48
+  },
+  {
+   "text": "By",
+   "conf": 0.44
+  },
+  {
+   "text": "‘CASH",
+   "conf": 0.45
+  },
+  {
+   "text": "Se",
+   "conf": 0.04
+  },
+  {
+   "text": "‘Cash",
+   "conf": 0.74
+  },
+  {
+   "text": "Amount",
+   "conf": 0.94
+  },
+  {
+   "text": "33.00",
+   "conf": 0.59
+  },
+  {
+   "text": "—_—",
+   "conf": 0.14
+  },
+  {
+   "text": "—_",
+   "conf": 0.07
+  }
+ ],
+ "mean_conf": 0.425,
+ "low_conf_share": 0.625,
+ "latency_ms": 808,
+ "fields": {
+  "company": "CE SI",
+  "date": null,
+  "total": 33.0
+ },
+ "rule_reasons": [
+  "date_not_found"
+ ],
+ "total_candidates": [
+  33.0
+ ],
+ "key": "W0125_58ad35541641"
+}

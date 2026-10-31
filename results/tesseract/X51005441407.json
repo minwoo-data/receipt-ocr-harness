@@ -1,0 +1,555 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "Geoventure",
+  "Taste Of The World Sdn Bhd",
+  "965857-A",
+  "Lot 38. 39 101 Boulevard.",
+  "Jalan Kenari 5, Bandar Puchong Jaya,",
+  "47170 Puchong, Selangor",
+  "TEL: 03 - 8079 0255",
+  "GST REG NO: 000136577024",
+  "RESERVATION NO: 010 - 7745055",
+  "SIMPLIFIED TAX INVOICE",
+  "Invoice ~ 681355 Cashier NINI",
+  "POS No 1 Pax 0",
+  "Date 63/2018 22°52: 33",
+  "Table No : C38",
+  "(TEM QTY UP CRMI DISC (0) Amt+GST (RMD",
+  "S Tiger Bucket",
+  "GTGO2 1 55. 00 0+0 68 30",
+  "S Service Ghre(inel GST 6%) RM 5. 83",
+  "Total Sales(Inel GST 6%) RM 64 13",
+  "Rounding Adjustment RM O 62",
+  "CASH RM 100. 00",
+  "Main Item Count 1",
+  "Tota! Discount RM 0 00",
+  "GST Summa: y Amount (RM) Tax (RM)",
+  "S 6% 60. 50 3. 63",
+  "Z Ov 0 60 0. 00"
+ ],
+ "tokens": [
+  {
+   "text": "Geoventure",
+   "conf": 0.91
+  },
+  {
+   "text": "Taste",
+   "conf": 0.93
+  },
+  {
+   "text": "Of",
+   "conf": 0.92
+  },
+  {
+   "text": "The",
+   "conf": 0.96
+  },
+  {
+   "text": "World",
+   "conf": 0.96
+  },
+  {
+   "text": "Sdn",
+   "conf": 0.95
+  },
+  {
+   "text": "Bhd",
+   "conf": 0.96
+  },
+  {
+   "text": "965857-A",
+   "conf": 0.6
+  },
+  {
+   "text": "Lot",
+   "conf": 0.96
+  },
+  {
+   "text": "38.",
+   "conf": 0.87
+  },
+  {
+   "text": "39",
+   "conf": 0.95
+  },
+  {
+   "text": "101",
+   "conf": 0.84
+  },
+  {
+   "text": "Boulevard.",
+   "conf": 0.66
+  },
+  {
+   "text": "Jalan",
+   "conf": 0.9
+  },
+  {
+   "text": "Kenari",
+   "conf": 0.9
+  },
+  {
+   "text": "5,",
+   "conf": 0.85
+  },
+  {
+   "text": "Bandar",
+   "conf": 0.96
+  },
+  {
+   "text": "Puchong",
+   "conf": 0.96
+  },
+  {
+   "text": "Jaya,",
+   "conf": 0.95
+  },
+  {
+   "text": "47170",
+   "conf": 0.9
+  },
+  {
+   "text": "Puchong,",
+   "conf": 0.79
+  },
+  {
+   "text": "Selangor",
+   "conf": 0.59
+  },
+  {
+   "text": "TEL:",
+   "conf": 0.93
+  },
+  {
+   "text": "03",
+   "conf": 0.86
+  },
+  {
+   "text": "-",
+   "conf": 0.65
+  },
+  {
+   "text": "8079",
+   "conf": 0.96
+  },
+  {
+   "text": "0255",
+   "conf": 0.96
+  },
+  {
+   "text": "GST",
+   "conf": 0.9
+  },
+  {
+   "text": "REG",
+   "conf": 0.9
+  },
+  {
+   "text": "NO:",
+   "conf": 0.93
+  },
+  {
+   "text": "000136577024",
+   "conf": 0.96
+  },
+  {
+   "text": "RESERVATION",
+   "conf": 0.95
+  },
+  {
+   "text": "NO:",
+   "conf": 0.93
+  },
+  {
+   "text": "010",
+   "conf": 0.88
+  },
+  {
+   "text": "-",
+   "conf": 0.41
+  },
+  {
+   "text": "7745055",
+   "conf": 0.76
+  },
+  {
+   "text": "SIMPLIFIED",
+   "conf": 0.93
+  },
+  {
+   "text": "TAX",
+   "conf": 0.93
+  },
+  {
+   "text": "INVOICE",
+   "conf": 0.93
+  },
+  {
+   "text": "Invoice",
+   "conf": 0.92
+  },
+  {
+   "text": "~",
+   "conf": 0.32
+  },
+  {
+   "text": "681355",
+   "conf": 0.9
+  },
+  {
+   "text": "Cashier",
+   "conf": 0.92
+  },
+  {
+   "text": "NINI",
+   "conf": 0.9
+  },
+  {
+   "text": "POS",
+   "conf": 0.96
+  },
+  {
+   "text": "No",
+   "conf": 0.0
+  },
+  {
+   "text": "1",
+   "conf": 0.0
+  },
+  {
+   "text": "Pax",
+   "conf": 0.96
+  },
+  {
+   "text": "0",
+   "conf": 0.87
+  },
+  {
+   "text": "Date",
+   "conf": 0.96
+  },
+  {
+   "text": "63/2018",
+   "conf": 0.39
+  },
+  {
+   "text": "22°52:",
+   "conf": 0.27
+  },
+  {
+   "text": "33",
+   "conf": 0.27
+  },
+  {
+   "text": "Table",
+   "conf": 0.95
+  },
+  {
+   "text": "No",
+   "conf": 0.9
+  },
+  {
+   "text": ":",
+   "conf": 0.85
+  },
+  {
+   "text": "C38",
+   "conf": 0.39
+  },
+  {
+   "text": "(TEM",
+   "conf": 0.54
+  },
+  {
+   "text": "QTY",
+   "conf": 0.82
+  },
+  {
+   "text": "UP",
+   "conf": 0.0
+  },
+  {
+   "text": "CRMI",
+   "conf": 0.0
+  },
+  {
+   "text": "DISC",
+   "conf": 0.79
+  },
+  {
+   "text": "(0)",
+   "conf": 0.0
+  },
+  {
+   "text": "Amt+GST",
+   "conf": 0.69
+  },
+  {
+   "text": "(RMD",
+   "conf": 0.81
+  },
+  {
+   "text": "S",
+   "conf": 0.84
+  },
+  {
+   "text": "Tiger",
+   "conf": 0.95
+  },
+  {
+   "text": "Bucket",
+   "conf": 0.96
+  },
+  {
+   "text": "GTGO2",
+   "conf": 0.37
+  },
+  {
+   "text": "1",
+   "conf": 0.62
+  },
+  {
+   "text": "55.",
+   "conf": 0.94
+  },
+  {
+   "text": "00",
+   "conf": 0.96
+  },
+  {
+   "text": "0+0",
+   "conf": 0.87
+  },
+  {
+   "text": "68",
+   "conf": 0.79
+  },
+  {
+   "text": "30",
+   "conf": 0.85
+  },
+  {
+   "text": "S",
+   "conf": 0.9
+  },
+  {
+   "text": "Service",
+   "conf": 0.54
+  },
+  {
+   "text": "Ghre(inel",
+   "conf": 0.19
+  },
+  {
+   "text": "GST",
+   "conf": 0.91
+  },
+  {
+   "text": "6%)",
+   "conf": 0.9
+  },
+  {
+   "text": "RM",
+   "conf": 0.91
+  },
+  {
+   "text": "5.",
+   "conf": 0.64
+  },
+  {
+   "text": "83",
+   "conf": 0.88
+  },
+  {
+   "text": "Total",
+   "conf": 0.92
+  },
+  {
+   "text": "Sales(Inel",
+   "conf": 0.74
+  },
+  {
+   "text": "GST",
+   "conf": 0.68
+  },
+  {
+   "text": "6%)",
+   "conf": 0.87
+  },
+  {
+   "text": "RM",
+   "conf": 0.92
+  },
+  {
+   "text": "64",
+   "conf": 0.91
+  },
+  {
+   "text": "13",
+   "conf": 0.91
+  },
+  {
+   "text": "Rounding",
+   "conf": 0.95
+  },
+  {
+   "text": "Adjustment",
+   "conf": 0.9
+  },
+  {
+   "text": "RM",
+   "conf": 0.89
+  },
+  {
+   "text": "O",
+   "conf": 0.63
+  },
+  {
+   "text": "62",
+   "conf": 0.62
+  },
+  {
+   "text": "CASH",
+   "conf": 0.96
+  },
+  {
+   "text": "RM",
+   "conf": 0.96
+  },
+  {
+   "text": "100.",
+   "conf": 0.96
+  },
+  {
+   "text": "00",
+   "conf": 0.95
+  },
+  {
+   "text": "Main",
+   "conf": 0.93
+  },
+  {
+   "text": "Item",
+   "conf": 0.33
+  },
+  {
+   "text": "Count",
+   "conf": 0.73
+  },
+  {
+   "text": "1",
+   "conf": 0.96
+  },
+  {
+   "text": "Tota!",
+   "conf": 0.88
+  },
+  {
+   "text": "Discount",
+   "conf": 0.95
+  },
+  {
+   "text": "RM",
+   "conf": 0.88
+  },
+  {
+   "text": "0",
+   "conf": 0.57
+  },
+  {
+   "text": "00",
+   "conf": 0.94
+  },
+  {
+   "text": "GST",
+   "conf": 0.92
+  },
+  {
+   "text": "Summa:",
+   "conf": 0.0
+  },
+  {
+   "text": "y",
+   "conf": 0.9
+  },
+  {
+   "text": "Amount",
+   "conf": 0.95
+  },
+  {
+   "text": "(RM)",
+   "conf": 0.96
+  },
+  {
+   "text": "Tax",
+   "conf": 0.96
+  },
+  {
+   "text": "(RM)",
+   "conf": 0.96
+  },
+  {
+   "text": "S",
+   "conf": 0.44
+  },
+  {
+   "text": "6%",
+   "conf": 0.82
+  },
+  {
+   "text": "60.",
+   "conf": 0.83
+  },
+  {
+   "text": "50",
+   "conf": 0.83
+  },
+  {
+   "text": "3.",
+   "conf": 0.78
+  },
+  {
+   "text": "63",
+   "conf": 0.78
+  },
+  {
+   "text": "Z",
+   "conf": 0.79
+  },
+  {
+   "text": "Ov",
+   "conf": 0.27
+  },
+  {
+   "text": "0",
+   "conf": 0.79
+  },
+  {
+   "text": "60",
+   "conf": 0.62
+  },
+  {
+   "text": "0.",
+   "conf": 0.58
+  },
+  {
+   "text": "00",
+   "conf": 0.88
+  }
+ ],
+ "mean_conf": 0.7751,
+ "low_conf_share": 0.1339,
+ "latency_ms": 1190,
+ "fields": {
+  "company": "TASTE OF THE WORLD SDN BHD",
+  "date": null,
+  "total": null
+ },
+ "rule_reasons": [
+  "date_not_found",
+  "total_not_found"
+ ],
+ "total_candidates": [],
+ "key": "X51005441407"
+}

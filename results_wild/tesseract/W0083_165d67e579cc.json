@@ -1,0 +1,1163 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "a pes Oe Aa en",
+  "Bas ae ty P TARGET ? “i ve oe ee PS oo :",
+  "Ca yee :",
+  "06/17/2010 02:37 PM EXPIRES 09/15/10",
+  "nn",
+  "CLOTHING",
+  "314041168 MB SKIRT 1 $14.99 .-$",
+  "Saved $5.00 off $19.99",
+  "314151638 ME BERMUDA Tt $17.99",
+  "316055897 MB TANK T $7.00 J",
+  "eee Saved $2.9) off £9.00",
+  "316055903 Mb | ANK [ $7.00 o",
+  "Saved $2.00 off $9.00",
+  "016055909 MB TANK T $7.00 J",
+  "Saved $2.00 off $9.00",
+  "022080749 ASSETS VTANK T- $24.00",
+  "032004542 CR SCOOTER ij 4.99",
+  "032005390 CR ROMPER 9.99",
+  "032005413 CR 2FER TANK T 4.38",
+  "032051865 XH LEGGING [ $1.98",
+  "032053518 XH TOP T $12.99",
+  "032053528 XH TOP E> $42.99",
+  "032057527 XH SHORT | $6 .99",
+  "032057531 XH SHORT T $6.99",
+  "032057562 XH TANK T $6.99",
+  "032080797 SS GRPHC TEE ] $7.99",
+  "032105965 MS DRESS T $14.99",
+  "042150134 ME SHORT L.. $15:06:.4",
+  "Saved $1.99 off $16.99",
+  "043050448 05:45 TEE qT $6 . 48",
+  "043050522 OS HENLEY Eo $1499",
+  "043098493 SCREEN TEE T $12.99",
+  "093096631 C9 HERMINA T $21.99",
+  "0$3096638 C9 HERMINA E-oS2t 99",
+  "096062007 MSC WINDA T° 3$14.99",
+  "098081435 C9 RILLA T $27.99",
+  "205061930 MS SKIRT Tt $12.99",
+  "278050405 MEC SKIRT |. $24.99",
+  "STATIONERY -OFFICE",
+  "53142601 FATHERS DAY T $3.99",
+  "0523142739 FATHERS DAY T $4.99",
+  "053142760 FATHERS DAY T $4.99",
+  "053272213 FATHERS DAY T $2.59",
+  "053272247 FATHERS DAY T $2.99",
+  "053272261 FATHERS DAY [ $2.99",
+  "MISC",
+  "V79N1N226 C9 GIRL TEE T $7.99",
+  "SUBTOTAL $374 be",
+  "FLPC3 1% ON $266.29 $2.66",
+  "MEE TRANSACTION FER",
+  "T = Fi TAK 6.0000% on $377.34 “69",
+  "TOT $399 .99",
+  "GP VISA CHANGE §=$399.99-",
+  "4 INDICATES SAVINGS",
+  "Target Pharmacy We're here to help!"
+ ],
+ "tokens": [
+  {
+   "text": "a",
+   "conf": 0.44
+  },
+  {
+   "text": "pes",
+   "conf": 0.26
+  },
+  {
+   "text": "Oe",
+   "conf": 0.12
+  },
+  {
+   "text": "Aa",
+   "conf": 0.2
+  },
+  {
+   "text": "en",
+   "conf": 0.13
+  },
+  {
+   "text": "Bas",
+   "conf": 0.19
+  },
+  {
+   "text": "ae",
+   "conf": 0.35
+  },
+  {
+   "text": "ty",
+   "conf": 0.38
+  },
+  {
+   "text": "P",
+   "conf": 0.15
+  },
+  {
+   "text": "TARGET",
+   "conf": 0.95
+  },
+  {
+   "text": "?",
+   "conf": 0.08
+  },
+  {
+   "text": "“i",
+   "conf": 0.17
+  },
+  {
+   "text": "ve",
+   "conf": 0.13
+  },
+  {
+   "text": "oe",
+   "conf": 0.39
+  },
+  {
+   "text": "ee",
+   "conf": 0.0
+  },
+  {
+   "text": "PS",
+   "conf": 0.05
+  },
+  {
+   "text": "oo",
+   "conf": 0.07
+  },
+  {
+   "text": ":",
+   "conf": 0.52
+  },
+  {
+   "text": "Ca",
+   "conf": 0.35
+  },
+  {
+   "text": "yee",
+   "conf": 0.28
+  },
+  {
+   "text": ":",
+   "conf": 0.04
+  },
+  {
+   "text": "06/17/2010",
+   "conf": 0.96
+  },
+  {
+   "text": "02:37",
+   "conf": 0.96
+  },
+  {
+   "text": "PM",
+   "conf": 0.93
+  },
+  {
+   "text": "EXPIRES",
+   "conf": 0.94
+  },
+  {
+   "text": "09/15/10",
+   "conf": 0.95
+  },
+  {
+   "text": "nn",
+   "conf": 0.26
+  },
+  {
+   "text": "CLOTHING",
+   "conf": 0.95
+  },
+  {
+   "text": "314041168",
+   "conf": 0.9
+  },
+  {
+   "text": "MB",
+   "conf": 0.92
+  },
+  {
+   "text": "SKIRT",
+   "conf": 0.92
+  },
+  {
+   "text": "1",
+   "conf": 0.4
+  },
+  {
+   "text": "$14.99",
+   "conf": 0.31
+  },
+  {
+   "text": ".-$",
+   "conf": 0.09
+  },
+  {
+   "text": "Saved",
+   "conf": 0.95
+  },
+  {
+   "text": "$5.00",
+   "conf": 0.96
+  },
+  {
+   "text": "off",
+   "conf": 0.94
+  },
+  {
+   "text": "$19.99",
+   "conf": 0.95
+  },
+  {
+   "text": "314151638",
+   "conf": 0.92
+  },
+  {
+   "text": "ME",
+   "conf": 0.95
+  },
+  {
+   "text": "BERMUDA",
+   "conf": 0.95
+  },
+  {
+   "text": "Tt",
+   "conf": 0.3
+  },
+  {
+   "text": "$17.99",
+   "conf": 0.91
+  },
+  {
+   "text": "316055897",
+   "conf": 0.84
+  },
+  {
+   "text": "MB",
+   "conf": 0.93
+  },
+  {
+   "text": "TANK",
+   "conf": 0.73
+  },
+  {
+   "text": "T",
+   "conf": 0.84
+  },
+  {
+   "text": "$7.00",
+   "conf": 0.95
+  },
+  {
+   "text": "J",
+   "conf": 0.46
+  },
+  {
+   "text": "eee",
+   "conf": 0.26
+  },
+  {
+   "text": "Saved",
+   "conf": 0.96
+  },
+  {
+   "text": "$2.9)",
+   "conf": 0.86
+  },
+  {
+   "text": "off",
+   "conf": 0.96
+  },
+  {
+   "text": "£9.00",
+   "conf": 0.7
+  },
+  {
+   "text": "316055903",
+   "conf": 0.54
+  },
+  {
+   "text": "Mb",
+   "conf": 0.61
+  },
+  {
+   "text": "|",
+   "conf": 0.52
+  },
+  {
+   "text": "ANK",
+   "conf": 0.82
+  },
+  {
+   "text": "[",
+   "conf": 0.34
+  },
+  {
+   "text": "$7.00",
+   "conf": 0.42
+  },
+  {
+   "text": "o",
+   "conf": 0.0
+  },
+  {
+   "text": "Saved",
+   "conf": 0.96
+  },
+  {
+   "text": "$2.00",
+   "conf": 0.96
+  },
+  {
+   "text": "off",
+   "conf": 0.85
+  },
+  {
+   "text": "$9.00",
+   "conf": 0.94
+  },
+  {
+   "text": "016055909",
+   "conf": 0.96
+  },
+  {
+   "text": "MB",
+   "conf": 0.92
+  },
+  {
+   "text": "TANK",
+   "conf": 0.94
+  },
+  {
+   "text": "T",
+   "conf": 0.53
+  },
+  {
+   "text": "$7.00",
+   "conf": 0.95
+  },
+  {
+   "text": "J",
+   "conf": 0.0
+  },
+  {
+   "text": "Saved",
+   "conf": 0.96
+  },
+  {
+   "text": "$2.00",
+   "conf": 0.95
+  },
+  {
+   "text": "off",
+   "conf": 0.96
+  },
+  {
+   "text": "$9.00",
+   "conf": 0.96
+  },
+  {
+   "text": "022080749",
+   "conf": 0.95
+  },
+  {
+   "text": "ASSETS",
+   "conf": 0.91
+  },
+  {
+   "text": "VTANK",
+   "conf": 0.61
+  },
+  {
+   "text": "T-",
+   "conf": 0.01
+  },
+  {
+   "text": "$24.00",
+   "conf": 0.47
+  },
+  {
+   "text": "032004542",
+   "conf": 0.96
+  },
+  {
+   "text": "CR",
+   "conf": 0.96
+  },
+  {
+   "text": "SCOOTER",
+   "conf": 0.96
+  },
+  {
+   "text": "ij",
+   "conf": 0.72
+  },
+  {
+   "text": "4.99",
+   "conf": 0.94
+  },
+  {
+   "text": "032005390",
+   "conf": 0.96
+  },
+  {
+   "text": "CR",
+   "conf": 0.92
+  },
+  {
+   "text": "ROMPER",
+   "conf": 0.89
+  },
+  {
+   "text": "9.99",
+   "conf": 0.95
+  },
+  {
+   "text": "032005413",
+   "conf": 0.96
+  },
+  {
+   "text": "CR",
+   "conf": 0.9
+  },
+  {
+   "text": "2FER",
+   "conf": 0.9
+  },
+  {
+   "text": "TANK",
+   "conf": 0.96
+  },
+  {
+   "text": "T",
+   "conf": 0.64
+  },
+  {
+   "text": "4.38",
+   "conf": 0.91
+  },
+  {
+   "text": "032051865",
+   "conf": 0.96
+  },
+  {
+   "text": "XH",
+   "conf": 0.95
+  },
+  {
+   "text": "LEGGING",
+   "conf": 0.96
+  },
+  {
+   "text": "[",
+   "conf": 0.58
+  },
+  {
+   "text": "$1.98",
+   "conf": 0.91
+  },
+  {
+   "text": "032053518",
+   "conf": 0.96
+  },
+  {
+   "text": "XH",
+   "conf": 0.95
+  },
+  {
+   "text": "TOP",
+   "conf": 0.95
+  },
+  {
+   "text": "T",
+   "conf": 0.92
+  },
+  {
+   "text": "$12.99",
+   "conf": 0.96
+  },
+  {
+   "text": "032053528",
+   "conf": 0.94
+  },
+  {
+   "text": "XH",
+   "conf": 0.95
+  },
+  {
+   "text": "TOP",
+   "conf": 0.95
+  },
+  {
+   "text": "E>",
+   "conf": 0.36
+  },
+  {
+   "text": "$42.99",
+   "conf": 0.67
+  },
+  {
+   "text": "032057527",
+   "conf": 0.96
+  },
+  {
+   "text": "XH",
+   "conf": 0.94
+  },
+  {
+   "text": "SHORT",
+   "conf": 0.96
+  },
+  {
+   "text": "|",
+   "conf": 0.67
+  },
+  {
+   "text": "$6",
+   "conf": 0.78
+  },
+  {
+   "text": ".99",
+   "conf": 0.78
+  },
+  {
+   "text": "032057531",
+   "conf": 0.96
+  },
+  {
+   "text": "XH",
+   "conf": 0.94
+  },
+  {
+   "text": "SHORT",
+   "conf": 0.94
+  },
+  {
+   "text": "T",
+   "conf": 0.67
+  },
+  {
+   "text": "$6.99",
+   "conf": 0.59
+  },
+  {
+   "text": "032057562",
+   "conf": 0.96
+  },
+  {
+   "text": "XH",
+   "conf": 0.92
+  },
+  {
+   "text": "TANK",
+   "conf": 0.92
+  },
+  {
+   "text": "T",
+   "conf": 0.78
+  },
+  {
+   "text": "$6.99",
+   "conf": 0.66
+  },
+  {
+   "text": "032080797",
+   "conf": 0.96
+  },
+  {
+   "text": "SS",
+   "conf": 0.92
+  },
+  {
+   "text": "GRPHC",
+   "conf": 0.91
+  },
+  {
+   "text": "TEE",
+   "conf": 0.96
+  },
+  {
+   "text": "]",
+   "conf": 0.62
+  },
+  {
+   "text": "$7.99",
+   "conf": 0.72
+  },
+  {
+   "text": "032105965",
+   "conf": 0.96
+  },
+  {
+   "text": "MS",
+   "conf": 0.96
+  },
+  {
+   "text": "DRESS",
+   "conf": 0.96
+  },
+  {
+   "text": "T",
+   "conf": 0.68
+  },
+  {
+   "text": "$14.99",
+   "conf": 0.95
+  },
+  {
+   "text": "042150134",
+   "conf": 0.96
+  },
+  {
+   "text": "ME",
+   "conf": 0.96
+  },
+  {
+   "text": "SHORT",
+   "conf": 0.96
+  },
+  {
+   "text": "L..",
+   "conf": 0.06
+  },
+  {
+   "text": "$15:06:.4",
+   "conf": 0.0
+  },
+  {
+   "text": "Saved",
+   "conf": 0.96
+  },
+  {
+   "text": "$1.99",
+   "conf": 0.96
+  },
+  {
+   "text": "off",
+   "conf": 0.86
+  },
+  {
+   "text": "$16.99",
+   "conf": 0.95
+  },
+  {
+   "text": "043050448",
+   "conf": 0.94
+  },
+  {
+   "text": "05:45",
+   "conf": 0.34
+  },
+  {
+   "text": "TEE",
+   "conf": 0.6
+  },
+  {
+   "text": "qT",
+   "conf": 0.4
+  },
+  {
+   "text": "$6",
+   "conf": 0.86
+  },
+  {
+   "text": ".",
+   "conf": 0.54
+  },
+  {
+   "text": "48",
+   "conf": 0.54
+  },
+  {
+   "text": "043050522",
+   "conf": 0.96
+  },
+  {
+   "text": "OS",
+   "conf": 0.88
+  },
+  {
+   "text": "HENLEY",
+   "conf": 0.85
+  },
+  {
+   "text": "Eo",
+   "conf": 0.17
+  },
+  {
+   "text": "$1499",
+   "conf": 0.12
+  },
+  {
+   "text": "043098493",
+   "conf": 0.96
+  },
+  {
+   "text": "SCREEN",
+   "conf": 0.96
+  },
+  {
+   "text": "TEE",
+   "conf": 0.96
+  },
+  {
+   "text": "T",
+   "conf": 0.92
+  },
+  {
+   "text": "$12.99",
+   "conf": 0.95
+  },
+  {
+   "text": "093096631",
+   "conf": 0.96
+  },
+  {
+   "text": "C9",
+   "conf": 0.78
+  },
+  {
+   "text": "HERMINA",
+   "conf": 0.78
+  },
+  {
+   "text": "T",
+   "conf": 0.92
+  },
+  {
+   "text": "$21.99",
+   "conf": 0.96
+  },
+  {
+   "text": "0$3096638",
+   "conf": 0.86
+  },
+  {
+   "text": "C9",
+   "conf": 0.86
+  },
+  {
+   "text": "HERMINA",
+   "conf": 0.86
+  },
+  {
+   "text": "E-oS2t",
+   "conf": 0.0
+  },
+  {
+   "text": "99",
+   "conf": 0.84
+  },
+  {
+   "text": "096062007",
+   "conf": 0.96
+  },
+  {
+   "text": "MSC",
+   "conf": 0.88
+  },
+  {
+   "text": "WINDA",
+   "conf": 0.88
+  },
+  {
+   "text": "T°",
+   "conf": 0.16
+  },
+  {
+   "text": "3$14.99",
+   "conf": 0.18
+  },
+  {
+   "text": "098081435",
+   "conf": 0.96
+  },
+  {
+   "text": "C9",
+   "conf": 0.92
+  },
+  {
+   "text": "RILLA",
+   "conf": 0.9
+  },
+  {
+   "text": "T",
+   "conf": 0.92
+  },
+  {
+   "text": "$27.99",
+   "conf": 0.96
+  },
+  {
+   "text": "205061930",
+   "conf": 0.96
+  },
+  {
+   "text": "MS",
+   "conf": 0.95
+  },
+  {
+   "text": "SKIRT",
+   "conf": 0.96
+  },
+  {
+   "text": "Tt",
+   "conf": 0.27
+  },
+  {
+   "text": "$12.99",
+   "conf": 0.38
+  },
+  {
+   "text": "278050405",
+   "conf": 0.96
+  },
+  {
+   "text": "MEC",
+   "conf": 0.91
+  },
+  {
+   "text": "SKIRT",
+   "conf": 0.96
+  },
+  {
+   "text": "|.",
+   "conf": 0.37
+  },
+  {
+   "text": "$24.99",
+   "conf": 0.84
+  },
+  {
+   "text": "STATIONERY",
+   "conf": 0.88
+  },
+  {
+   "text": "-OFFICE",
+   "conf": 0.83
+  },
+  {
+   "text": "53142601",
+   "conf": 0.7
+  },
+  {
+   "text": "FATHERS",
+   "conf": 0.94
+  },
+  {
+   "text": "DAY",
+   "conf": 0.94
+  },
+  {
+   "text": "T",
+   "conf": 0.9
+  },
+  {
+   "text": "$3.99",
+   "conf": 0.82
+  },
+  {
+   "text": "0523142739",
+   "conf": 0.8
+  },
+  {
+   "text": "FATHERS",
+   "conf": 0.96
+  },
+  {
+   "text": "DAY",
+   "conf": 0.96
+  },
+  {
+   "text": "T",
+   "conf": 0.87
+  },
+  {
+   "text": "$4.99",
+   "conf": 0.72
+  },
+  {
+   "text": "053142760",
+   "conf": 0.96
+  },
+  {
+   "text": "FATHERS",
+   "conf": 0.96
+  },
+  {
+   "text": "DAY",
+   "conf": 0.96
+  },
+  {
+   "text": "T",
+   "conf": 0.78
+  },
+  {
+   "text": "$4.99",
+   "conf": 0.59
+  },
+  {
+   "text": "053272213",
+   "conf": 0.96
+  },
+  {
+   "text": "FATHERS",
+   "conf": 0.96
+  },
+  {
+   "text": "DAY",
+   "conf": 0.96
+  },
+  {
+   "text": "T",
+   "conf": 0.73
+  },
+  {
+   "text": "$2.59",
+   "conf": 0.59
+  },
+  {
+   "text": "053272247",
+   "conf": 0.85
+  },
+  {
+   "text": "FATHERS",
+   "conf": 0.95
+  },
+  {
+   "text": "DAY",
+   "conf": 0.95
+  },
+  {
+   "text": "T",
+   "conf": 0.65
+  },
+  {
+   "text": "$2.99",
+   "conf": 0.66
+  },
+  {
+   "text": "053272261",
+   "conf": 0.96
+  },
+  {
+   "text": "FATHERS",
+   "conf": 0.96
+  },
+  {
+   "text": "DAY",
+   "conf": 0.96
+  },
+  {
+   "text": "[",
+   "conf": 0.03
+  },
+  {
+   "text": "$2.99",
+   "conf": 0.92
+  },
+  {
+   "text": "MISC",
+   "conf": 0.96
+  },
+  {
+   "text": "V79N1N226",
+   "conf": 0.0
+  },
+  {
+   "text": "C9",
+   "conf": 0.95
+  },
+  {
+   "text": "GIRL",
+   "conf": 0.95
+  },
+  {
+   "text": "TEE",
+   "conf": 0.96
+  },
+  {
+   "text": "T",
+   "conf": 0.71
+  },
+  {
+   "text": "$7.99",
+   "conf": 0.92
+  },
+  {
+   "text": "SUBTOTAL",
+   "conf": 0.56
+  },
+  {
+   "text": "$374",
+   "conf": 0.59
+  },
+  {
+   "text": "be",
+   "conf": 0.59
+  },
+  {
+   "text": "FLPC3",
+   "conf": 0.89
+  },
+  {
+   "text": "1%",
+   "conf": 0.95
+  },
+  {
+   "text": "ON",
+   "conf": 0.94
+  },
+  {
+   "text": "$266.29",
+   "conf": 0.86
+  },
+  {
+   "text": "$2.66",
+   "conf": 0.77
+  },
+  {
+   "text": "MEE",
+   "conf": 0.37
+  },
+  {
+   "text": "TRANSACTION",
+   "conf": 0.33
+  },
+  {
+   "text": "FER",
+   "conf": 0.35
+  },
+  {
+   "text": "T",
+   "conf": 0.87
+  },
+  {
+   "text": "=",
+   "conf": 0.96
+  },
+  {
+   "text": "Fi",
+   "conf": 0.88
+  },
+  {
+   "text": "TAK",
+   "conf": 0.9
+  },
+  {
+   "text": "6.0000%",
+   "conf": 0.9
+  },
+  {
+   "text": "on",
+   "conf": 0.96
+  },
+  {
+   "text": "$377.34",
+   "conf": 0.95
+  },
+  {
+   "text": "“69",
+   "conf": 0.49
+  },
+  {
+   "text": "TOT",
+   "conf": 0.88
+  },
+  {
+   "text": "$399",
+   "conf": 0.89
+  },
+  {
+   "text": ".99",
+   "conf": 0.81
+  },
+  {
+   "text": "GP",
+   "conf": 0.53
+  },
+  {
+   "text": "VISA",
+   "conf": 0.85
+  },
+  {
+   "text": "CHANGE",
+   "conf": 0.79
+  },
+  {
+   "text": "§=$399.99-",
+   "conf": 0.01
+  },
+  {
+   "text": "4",
+   "conf": 0.66
+  },
+  {
+   "text": "INDICATES",
+   "conf": 0.95
+  },
+  {
+   "text": "SAVINGS",
+   "conf": 0.96
+  },
+  {
+   "text": "Target",
+   "conf": 0.85
+  },
+  {
+   "text": "Pharmacy",
+   "conf": 0.95
+  },
+  {
+   "text": "We're",
+   "conf": 0.82
+  },
+  {
+   "text": "here",
+   "conf": 0.89
+  },
+  {
+   "text": "to",
+   "conf": 0.96
+  },
+  {
+   "text": "help!",
+   "conf": 0.95
+  }
+ ],
+ "mean_conf": 0.7465,
+ "low_conf_share": 0.1948,
+ "latency_ms": 9754,
+ "fields": {
+  "company": "A PES OE AA EN",
+  "date": "2010-06-17",
+  "total": 399.99
+ },
+ "rule_reasons": [
+  "total_no_keyword_fallback_max"
+ ],
+ "total_candidates": [
+  1.99,
+  16.99,
+  12.99,
+  21.99,
+  14.99,
+  27.99,
+  12.99,
+  24.99,
+  3.99,
+  4.99,
+  4.99,
+  2.59,
+  2.99,
+  2.99,
+  7.99,
+  266.29,
+  2.66,
+  377.34,
+  399.99
+ ],
+ "key": "W0083_165d67e579cc"
+}

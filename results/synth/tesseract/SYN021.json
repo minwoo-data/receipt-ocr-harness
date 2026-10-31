@@ -1,0 +1,283 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "GREENLEAF GROCER SDN BHD",
+  "12 JALAN TUN RAZAK, 50400 KUALA LUMPUR",
+  "TAX INVOICE",
+  "Date: 22/03/2025 Time: 13:42",
+  "2 x STEAMED FISH 96.00",
+  "2 x USB CABLE 1M 39.80",
+  "1 x STEAMED FISH 48.00",
+  "2 x FRESH MILK 1L 15.80",
+  "1 x RETURN - DAMAGED ITEM -15.80",
+  "SUBTOTAL 183.80",
+  "GST 6% 11.03",
+  "TOTAL 194.83",
+  "CASH 199.83",
+  "CHANGE 5.00",
+  "THANK YOU, PLEASE COME AGAIN"
+ ],
+ "tokens": [
+  {
+   "text": "GREENLEAF",
+   "conf": 0.91
+  },
+  {
+   "text": "GROCER",
+   "conf": 0.96
+  },
+  {
+   "text": "SDN",
+   "conf": 0.95
+  },
+  {
+   "text": "BHD",
+   "conf": 0.95
+  },
+  {
+   "text": "12",
+   "conf": 0.95
+  },
+  {
+   "text": "JALAN",
+   "conf": 0.96
+  },
+  {
+   "text": "TUN",
+   "conf": 0.93
+  },
+  {
+   "text": "RAZAK,",
+   "conf": 0.91
+  },
+  {
+   "text": "50400",
+   "conf": 0.96
+  },
+  {
+   "text": "KUALA",
+   "conf": 0.96
+  },
+  {
+   "text": "LUMPUR",
+   "conf": 0.96
+  },
+  {
+   "text": "TAX",
+   "conf": 0.94
+  },
+  {
+   "text": "INVOICE",
+   "conf": 0.94
+  },
+  {
+   "text": "Date:",
+   "conf": 0.96
+  },
+  {
+   "text": "22/03/2025",
+   "conf": 0.96
+  },
+  {
+   "text": "Time:",
+   "conf": 0.96
+  },
+  {
+   "text": "13:42",
+   "conf": 0.96
+  },
+  {
+   "text": "2",
+   "conf": 0.92
+  },
+  {
+   "text": "x",
+   "conf": 0.92
+  },
+  {
+   "text": "STEAMED",
+   "conf": 0.96
+  },
+  {
+   "text": "FISH",
+   "conf": 0.96
+  },
+  {
+   "text": "96.00",
+   "conf": 0.94
+  },
+  {
+   "text": "2",
+   "conf": 0.92
+  },
+  {
+   "text": "x",
+   "conf": 0.92
+  },
+  {
+   "text": "USB",
+   "conf": 0.96
+  },
+  {
+   "text": "CABLE",
+   "conf": 0.96
+  },
+  {
+   "text": "1M",
+   "conf": 0.96
+  },
+  {
+   "text": "39.80",
+   "conf": 0.96
+  },
+  {
+   "text": "1",
+   "conf": 0.83
+  },
+  {
+   "text": "x",
+   "conf": 0.83
+  },
+  {
+   "text": "STEAMED",
+   "conf": 0.96
+  },
+  {
+   "text": "FISH",
+   "conf": 0.96
+  },
+  {
+   "text": "48.00",
+   "conf": 0.95
+  },
+  {
+   "text": "2",
+   "conf": 0.92
+  },
+  {
+   "text": "x",
+   "conf": 0.92
+  },
+  {
+   "text": "FRESH",
+   "conf": 0.96
+  },
+  {
+   "text": "MILK",
+   "conf": 0.93
+  },
+  {
+   "text": "1L",
+   "conf": 0.91
+  },
+  {
+   "text": "15.80",
+   "conf": 0.95
+  },
+  {
+   "text": "1",
+   "conf": 0.64
+  },
+  {
+   "text": "x",
+   "conf": 0.64
+  },
+  {
+   "text": "RETURN",
+   "conf": 0.93
+  },
+  {
+   "text": "-",
+   "conf": 0.93
+  },
+  {
+   "text": "DAMAGED",
+   "conf": 0.95
+  },
+  {
+   "text": "ITEM",
+   "conf": 0.95
+  },
+  {
+   "text": "-15.80",
+   "conf": 0.91
+  },
+  {
+   "text": "SUBTOTAL",
+   "conf": 0.96
+  },
+  {
+   "text": "183.80",
+   "conf": 0.96
+  },
+  {
+   "text": "GST",
+   "conf": 0.94
+  },
+  {
+   "text": "6%",
+   "conf": 0.94
+  },
+  {
+   "text": "11.03",
+   "conf": 0.92
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.96
+  },
+  {
+   "text": "194.83",
+   "conf": 0.95
+  },
+  {
+   "text": "CASH",
+   "conf": 0.96
+  },
+  {
+   "text": "199.83",
+   "conf": 0.85
+  },
+  {
+   "text": "CHANGE",
+   "conf": 0.96
+  },
+  {
+   "text": "5.00",
+   "conf": 0.95
+  },
+  {
+   "text": "THANK",
+   "conf": 0.96
+  },
+  {
+   "text": "YOU,",
+   "conf": 0.96
+  },
+  {
+   "text": "PLEASE",
+   "conf": 0.96
+  },
+  {
+   "text": "COME",
+   "conf": 0.96
+  },
+  {
+   "text": "AGAIN",
+   "conf": 0.96
+  }
+ ],
+ "mean_conf": 0.931,
+ "low_conf_share": 0.0,
+ "latency_ms": 1829,
+ "fields": {
+  "company": "GREENLEAF GROCER SDN BHD",
+  "date": "2025-03-22",
+  "total": 194.83
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  194.83
+ ],
+ "key": "SYN021"
+}

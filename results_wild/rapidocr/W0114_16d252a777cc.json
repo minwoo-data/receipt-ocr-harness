@@ -1,0 +1,195 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "Super",
+  "Grocery",
+  "AlFor You",
+  "720WatsonDr",
+  "MIAMI,FL31211",
+  "800-676-9843",
+  "1DOZFREERNG $3.33",
+  "HORIZON2%ORG $3.89",
+  "SUBTOTAL: $11.11",
+  "TOTAL $11.11",
+  "Amex $11.11",
+  "PURCHASE $11.11",
+  "Amex 4444",
+  "Auth #194069 ExpDate****",
+  "Lane #19 Cashier1940",
+  "2017-07-1609:53:33 Ref/Seq#194069",
+  "MRCH306770 Term=001IC=CC",
+  "EPSSEquence 123938",
+  "ITEM2 H,ALISON",
+  "2017-07-16 09:53:33 1087171583158",
+  "BesuretocheckouttheFree",
+  "FeatureNewsletter.Available",
+  "online orbymail."
+ ],
+ "tokens": [
+  {
+   "text": "Super",
+   "conf": 0.9417724013328552
+  },
+  {
+   "text": "Grocery",
+   "conf": 0.9808465497834342
+  },
+  {
+   "text": "AlFor You",
+   "conf": 0.8690887557135688
+  },
+  {
+   "text": "720WatsonDr",
+   "conf": 0.9831213517622515
+  },
+  {
+   "text": "MIAMI,FL31211",
+   "conf": 0.9330186477074256
+  },
+  {
+   "text": "800-676-9843",
+   "conf": 0.9981625080108643
+  },
+  {
+   "text": "1DOZFREERNG",
+   "conf": 0.9754865169525146
+  },
+  {
+   "text": "$3.33",
+   "conf": 0.9892912983894349
+  },
+  {
+   "text": "HORIZON2%ORG",
+   "conf": 0.985163668791453
+  },
+  {
+   "text": "$3.89",
+   "conf": 0.9854814410209656
+  },
+  {
+   "text": "SUBTOTAL:",
+   "conf": 0.9840823478168912
+  },
+  {
+   "text": "$11.11",
+   "conf": 0.9612219432989756
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.9975192070007324
+  },
+  {
+   "text": "$11.11",
+   "conf": 0.9597626527150472
+  },
+  {
+   "text": "Amex",
+   "conf": 0.9890209585428238
+  },
+  {
+   "text": "$11.11",
+   "conf": 0.965594619512558
+  },
+  {
+   "text": "PURCHASE",
+   "conf": 0.9959282130002975
+  },
+  {
+   "text": "$11.11",
+   "conf": 0.9658342997233073
+  },
+  {
+   "text": "Amex",
+   "conf": 0.9862896502017975
+  },
+  {
+   "text": "4444",
+   "conf": 0.9983020126819611
+  },
+  {
+   "text": "Auth #194069",
+   "conf": 0.9542478919029236
+  },
+  {
+   "text": "ExpDate****",
+   "conf": 0.974284367127852
+  },
+  {
+   "text": "Lane #19",
+   "conf": 0.931544229388237
+  },
+  {
+   "text": "Cashier1940",
+   "conf": 0.9658531925894998
+  },
+  {
+   "text": "2017-07-1609:53:33",
+   "conf": 0.9902758366531796
+  },
+  {
+   "text": "Ref/Seq#194069",
+   "conf": 0.9583101698330471
+  },
+  {
+   "text": "MRCH306770",
+   "conf": 0.9963331520557404
+  },
+  {
+   "text": "Term=001IC=CC",
+   "conf": 0.9321727706835821
+  },
+  {
+   "text": "EPSSEquence",
+   "conf": 0.988217749378898
+  },
+  {
+   "text": "123938",
+   "conf": 0.998847246170044
+  },
+  {
+   "text": "ITEM2",
+   "conf": 0.9727084755897522
+  },
+  {
+   "text": "H,ALISON",
+   "conf": 0.9490969851613045
+  },
+  {
+   "text": "2017-07-16",
+   "conf": 0.9971644937992096
+  },
+  {
+   "text": "09:53:33",
+   "conf": 0.9704148322343826
+  },
+  {
+   "text": "1087171583158",
+   "conf": 0.9984776790325458
+  },
+  {
+   "text": "BesuretocheckouttheFree",
+   "conf": 0.9924662968386775
+  },
+  {
+   "text": "FeatureNewsletter.Available",
+   "conf": 0.9905953628045542
+  },
+  {
+   "text": "online orbymail.",
+   "conf": 0.9546834416687489
+  }
+ ],
+ "mean_conf": 0.9726,
+ "low_conf_share": 0.0,
+ "latency_ms": 4701,
+ "fields": {
+  "company": "SUPER",
+  "date": "2017-07-16",
+  "total": 11.11
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  11.11
+ ],
+ "key": "W0114_16d252a777cc"
+}

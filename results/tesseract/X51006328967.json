@@ -1,0 +1,509 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  ". € g",
+  "TANJONGHAS BOOKCENTRE (PJ) SDN BHD",
+  "CO. NO. 373645-A",
+  "LOT F15, GIANT BANDAR PUTERI",
+  "JALAN PUTERI 1/1, BDR PUTERI",
+  "47188 PUCHONG, SELANGOR",
+  "83-8868 4233",
+  "( NO. ID GST: 082147833888 )",
+  "TAX INVOICE",
+  "BILL: 28544",
+  "CASHI 410-82 17/03/2017 21:35",
+  "B.CODE & DESC. QTY U/PRICE ANT",
+  "4971850134824 1 53.08 53.08s |",
+  "CALCULATOR SCIENTIFIC",
+  "27932 1 5.48 5.485 |",
+  "H&G R3 GEL PEN @.5HM 3°S",
+  "9555684639363 1 3.68 3.685",
+  "FABER CASTEL SUPER TRUE",
+  "SUB-TOTAL 62.80",
+  "Total GST(I) 3.51%",
+  "TOTAL ITEM(S): 3",
+  "TOTAL QUANTITY(S): 3",
+  "TOTAL INCL GST RK 62.00",
+  "CARD TYPE : VISA 62.88",
+  "CARD NOs",
+  "THANK YOU. PLEASE COME AGAIN.",
+  "GOODS SOLD ARE NOT RETURNABLE.",
+  "6ST Taxable Ait GST Aut",
+  "s-SR(I) - 6% 58.49 3.51"
+ ],
+ "tokens": [
+  {
+   "text": ".",
+   "conf": 0.59
+  },
+  {
+   "text": "€",
+   "conf": 0.32
+  },
+  {
+   "text": "g",
+   "conf": 0.41
+  },
+  {
+   "text": "TANJONGHAS",
+   "conf": 0.83
+  },
+  {
+   "text": "BOOKCENTRE",
+   "conf": 0.8
+  },
+  {
+   "text": "(PJ)",
+   "conf": 0.49
+  },
+  {
+   "text": "SDN",
+   "conf": 0.96
+  },
+  {
+   "text": "BHD",
+   "conf": 0.96
+  },
+  {
+   "text": "CO.",
+   "conf": 0.93
+  },
+  {
+   "text": "NO.",
+   "conf": 0.92
+  },
+  {
+   "text": "373645-A",
+   "conf": 0.64
+  },
+  {
+   "text": "LOT",
+   "conf": 0.92
+  },
+  {
+   "text": "F15,",
+   "conf": 0.92
+  },
+  {
+   "text": "GIANT",
+   "conf": 0.93
+  },
+  {
+   "text": "BANDAR",
+   "conf": 0.92
+  },
+  {
+   "text": "PUTERI",
+   "conf": 0.86
+  },
+  {
+   "text": "JALAN",
+   "conf": 0.92
+  },
+  {
+   "text": "PUTERI",
+   "conf": 0.51
+  },
+  {
+   "text": "1/1,",
+   "conf": 0.93
+  },
+  {
+   "text": "BDR",
+   "conf": 0.89
+  },
+  {
+   "text": "PUTERI",
+   "conf": 0.54
+  },
+  {
+   "text": "47188",
+   "conf": 0.75
+  },
+  {
+   "text": "PUCHONG,",
+   "conf": 0.92
+  },
+  {
+   "text": "SELANGOR",
+   "conf": 0.96
+  },
+  {
+   "text": "83-8868",
+   "conf": 0.7
+  },
+  {
+   "text": "4233",
+   "conf": 0.87
+  },
+  {
+   "text": "(",
+   "conf": 0.9
+  },
+  {
+   "text": "NO.",
+   "conf": 0.91
+  },
+  {
+   "text": "ID",
+   "conf": 0.92
+  },
+  {
+   "text": "GST:",
+   "conf": 0.92
+  },
+  {
+   "text": "082147833888",
+   "conf": 0.6
+  },
+  {
+   "text": ")",
+   "conf": 0.91
+  },
+  {
+   "text": "TAX",
+   "conf": 0.96
+  },
+  {
+   "text": "INVOICE",
+   "conf": 0.95
+  },
+  {
+   "text": "BILL:",
+   "conf": 0.96
+  },
+  {
+   "text": "28544",
+   "conf": 0.95
+  },
+  {
+   "text": "CASHI",
+   "conf": 0.68
+  },
+  {
+   "text": "410-82",
+   "conf": 0.25
+  },
+  {
+   "text": "17/03/2017",
+   "conf": 0.81
+  },
+  {
+   "text": "21:35",
+   "conf": 0.87
+  },
+  {
+   "text": "B.CODE",
+   "conf": 0.89
+  },
+  {
+   "text": "&",
+   "conf": 0.91
+  },
+  {
+   "text": "DESC.",
+   "conf": 0.95
+  },
+  {
+   "text": "QTY",
+   "conf": 0.92
+  },
+  {
+   "text": "U/PRICE",
+   "conf": 0.91
+  },
+  {
+   "text": "ANT",
+   "conf": 0.47
+  },
+  {
+   "text": "4971850134824",
+   "conf": 0.8
+  },
+  {
+   "text": "1",
+   "conf": 0.86
+  },
+  {
+   "text": "53.08",
+   "conf": 0.33
+  },
+  {
+   "text": "53.08s",
+   "conf": 0.46
+  },
+  {
+   "text": "|",
+   "conf": 0.58
+  },
+  {
+   "text": "CALCULATOR",
+   "conf": 0.96
+  },
+  {
+   "text": "SCIENTIFIC",
+   "conf": 0.87
+  },
+  {
+   "text": "27932",
+   "conf": 0.9
+  },
+  {
+   "text": "1",
+   "conf": 0.82
+  },
+  {
+   "text": "5.48",
+   "conf": 0.72
+  },
+  {
+   "text": "5.485",
+   "conf": 0.55
+  },
+  {
+   "text": "|",
+   "conf": 0.62
+  },
+  {
+   "text": "H&G",
+   "conf": 0.78
+  },
+  {
+   "text": "R3",
+   "conf": 0.78
+  },
+  {
+   "text": "GEL",
+   "conf": 0.94
+  },
+  {
+   "text": "PEN",
+   "conf": 0.92
+  },
+  {
+   "text": "@.5HM",
+   "conf": 0.3
+  },
+  {
+   "text": "3°S",
+   "conf": 0.74
+  },
+  {
+   "text": "9555684639363",
+   "conf": 0.93
+  },
+  {
+   "text": "1",
+   "conf": 0.71
+  },
+  {
+   "text": "3.68",
+   "conf": 0.75
+  },
+  {
+   "text": "3.685",
+   "conf": 0.6
+  },
+  {
+   "text": "FABER",
+   "conf": 0.92
+  },
+  {
+   "text": "CASTEL",
+   "conf": 0.9
+  },
+  {
+   "text": "SUPER",
+   "conf": 0.96
+  },
+  {
+   "text": "TRUE",
+   "conf": 0.96
+  },
+  {
+   "text": "SUB-TOTAL",
+   "conf": 0.88
+  },
+  {
+   "text": "62.80",
+   "conf": 0.85
+  },
+  {
+   "text": "Total",
+   "conf": 0.92
+  },
+  {
+   "text": "GST(I)",
+   "conf": 0.51
+  },
+  {
+   "text": "3.51%",
+   "conf": 0.1
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.96
+  },
+  {
+   "text": "ITEM(S):",
+   "conf": 0.91
+  },
+  {
+   "text": "3",
+   "conf": 0.94
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.93
+  },
+  {
+   "text": "QUANTITY(S):",
+   "conf": 0.87
+  },
+  {
+   "text": "3",
+   "conf": 0.96
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.96
+  },
+  {
+   "text": "INCL",
+   "conf": 0.96
+  },
+  {
+   "text": "GST",
+   "conf": 0.8
+  },
+  {
+   "text": "RK",
+   "conf": 0.8
+  },
+  {
+   "text": "62.00",
+   "conf": 0.53
+  },
+  {
+   "text": "CARD",
+   "conf": 0.94
+  },
+  {
+   "text": "TYPE",
+   "conf": 0.73
+  },
+  {
+   "text": ":",
+   "conf": 0.73
+  },
+  {
+   "text": "VISA",
+   "conf": 0.96
+  },
+  {
+   "text": "62.88",
+   "conf": 0.73
+  },
+  {
+   "text": "CARD",
+   "conf": 0.9
+  },
+  {
+   "text": "NOs",
+   "conf": 0.57
+  },
+  {
+   "text": "THANK",
+   "conf": 0.93
+  },
+  {
+   "text": "YOU.",
+   "conf": 0.91
+  },
+  {
+   "text": "PLEASE",
+   "conf": 0.96
+  },
+  {
+   "text": "COME",
+   "conf": 0.94
+  },
+  {
+   "text": "AGAIN.",
+   "conf": 0.91
+  },
+  {
+   "text": "GOODS",
+   "conf": 0.91
+  },
+  {
+   "text": "SOLD",
+   "conf": 0.96
+  },
+  {
+   "text": "ARE",
+   "conf": 0.96
+  },
+  {
+   "text": "NOT",
+   "conf": 0.96
+  },
+  {
+   "text": "RETURNABLE.",
+   "conf": 0.8
+  },
+  {
+   "text": "6ST",
+   "conf": 0.72
+  },
+  {
+   "text": "Taxable",
+   "conf": 0.96
+  },
+  {
+   "text": "Ait",
+   "conf": 0.42
+  },
+  {
+   "text": "GST",
+   "conf": 0.82
+  },
+  {
+   "text": "Aut",
+   "conf": 0.82
+  },
+  {
+   "text": "s-SR(I)",
+   "conf": 0.3
+  },
+  {
+   "text": "-",
+   "conf": 0.91
+  },
+  {
+   "text": "6%",
+   "conf": 0.93
+  },
+  {
+   "text": "58.49",
+   "conf": 0.76
+  },
+  {
+   "text": "3.51",
+   "conf": 0.7
+  }
+ ],
+ "mean_conf": 0.7975,
+ "low_conf_share": 0.0957,
+ "latency_ms": 2022,
+ "fields": {
+  "company": "TANJONGHAS BOOKCENTRE SDN BHD",
+  "date": "2017-03-17",
+  "total": 62.0
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  62.0
+ ],
+ "key": "X51006328967"
+}

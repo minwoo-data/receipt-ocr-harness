@@ -1,0 +1,560 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "TEO HENG STATIONERY & BOOKS",
+  "(001451637-M)",
+  "NO. 53, JALAN BESAR, 45600 BATANG BERJUNTAI",
+  "SELANGOR DARUL EHSAN",
+  "TEL: 03-3271 9872 FAX:03-3271 9481",
+  "GST No, : 0006899138546",
+  "SIMPLIFIED TAX INVOICE",
+  "CASH",
+  "Receipt No.: ©81801/26821 Date: 17/01/2018",
+  "eet ee . AMOUNT",
+  "_ Eee | OTY Rise DISC% (RM)",
+  "9555017370017 7 28.00 7.14 26.00 »",
+  "~ LION FILE 220*307 LAMINATING FILM",
+  "Total Qty. : 1 26.00",
+  "SUB-TOTAL (EX) : 26,00",
+  "TOTAL TAX : 1.56",
+  "ROUNDING ; -0.01",
+  "TOTAL A ye 7.55",
+  "CHANGE r arc",
+  "BANG 1 17 (yan 2018 ee",
+  "GST SUMMARY",
+  "gee ie AMOUNT TAX",
+  "TAX CODE % (RM) (RM)",
+  "SR 6.00 26.00 1.56",
+  "TOTAL : \"26.00 1.56",
+  "Note: (*) Indicated The Item Soid Has Been Related",
+  "To GST (Goods & Services Tax).",
+  "GOODS SOLD ARE NOT RETURNABLE,",
+  "THANK YOU."
+ ],
+ "tokens": [
+  {
+   "text": "TEO",
+   "conf": 0.23
+  },
+  {
+   "text": "HENG",
+   "conf": 0.88
+  },
+  {
+   "text": "STATIONERY",
+   "conf": 0.93
+  },
+  {
+   "text": "&",
+   "conf": 0.93
+  },
+  {
+   "text": "BOOKS",
+   "conf": 0.93
+  },
+  {
+   "text": "(001451637-M)",
+   "conf": 0.88
+  },
+  {
+   "text": "NO.",
+   "conf": 0.94
+  },
+  {
+   "text": "53,",
+   "conf": 0.96
+  },
+  {
+   "text": "JALAN",
+   "conf": 0.93
+  },
+  {
+   "text": "BESAR,",
+   "conf": 0.91
+  },
+  {
+   "text": "45600",
+   "conf": 0.93
+  },
+  {
+   "text": "BATANG",
+   "conf": 0.92
+  },
+  {
+   "text": "BERJUNTAI",
+   "conf": 0.89
+  },
+  {
+   "text": "SELANGOR",
+   "conf": 0.93
+  },
+  {
+   "text": "DARUL",
+   "conf": 0.93
+  },
+  {
+   "text": "EHSAN",
+   "conf": 0.95
+  },
+  {
+   "text": "TEL:",
+   "conf": 0.48
+  },
+  {
+   "text": "03-3271",
+   "conf": 0.48
+  },
+  {
+   "text": "9872",
+   "conf": 0.75
+  },
+  {
+   "text": "FAX:03-3271",
+   "conf": 0.75
+  },
+  {
+   "text": "9481",
+   "conf": 0.9
+  },
+  {
+   "text": "GST",
+   "conf": 0.96
+  },
+  {
+   "text": "No,",
+   "conf": 0.77
+  },
+  {
+   "text": ":",
+   "conf": 0.03
+  },
+  {
+   "text": "0006899138546",
+   "conf": 0.03
+  },
+  {
+   "text": "SIMPLIFIED",
+   "conf": 0.92
+  },
+  {
+   "text": "TAX",
+   "conf": 0.86
+  },
+  {
+   "text": "INVOICE",
+   "conf": 0.47
+  },
+  {
+   "text": "CASH",
+   "conf": 0.96
+  },
+  {
+   "text": "Receipt",
+   "conf": 0.93
+  },
+  {
+   "text": "No.:",
+   "conf": 0.46
+  },
+  {
+   "text": "©81801/26821",
+   "conf": 0.28
+  },
+  {
+   "text": "Date:",
+   "conf": 0.88
+  },
+  {
+   "text": "17/01/2018",
+   "conf": 0.93
+  },
+  {
+   "text": "eet",
+   "conf": 0.01
+  },
+  {
+   "text": "ee",
+   "conf": 0.13
+  },
+  {
+   "text": ".",
+   "conf": 0.16
+  },
+  {
+   "text": "AMOUNT",
+   "conf": 0.96
+  },
+  {
+   "text": "_",
+   "conf": 0.57
+  },
+  {
+   "text": "Eee",
+   "conf": 0.12
+  },
+  {
+   "text": "|",
+   "conf": 0.64
+  },
+  {
+   "text": "OTY",
+   "conf": 0.32
+  },
+  {
+   "text": "Rise",
+   "conf": 0.02
+  },
+  {
+   "text": "DISC%",
+   "conf": 0.91
+  },
+  {
+   "text": "(RM)",
+   "conf": 0.95
+  },
+  {
+   "text": "9555017370017",
+   "conf": 0.91
+  },
+  {
+   "text": "7",
+   "conf": 0.53
+  },
+  {
+   "text": "28.00",
+   "conf": 0.86
+  },
+  {
+   "text": "7.14",
+   "conf": 0.78
+  },
+  {
+   "text": "26.00",
+   "conf": 0.93
+  },
+  {
+   "text": "»",
+   "conf": 0.44
+  },
+  {
+   "text": "~",
+   "conf": 0.91
+  },
+  {
+   "text": "LION",
+   "conf": 0.96
+  },
+  {
+   "text": "FILE",
+   "conf": 0.92
+  },
+  {
+   "text": "220*307",
+   "conf": 0.61
+  },
+  {
+   "text": "LAMINATING",
+   "conf": 0.95
+  },
+  {
+   "text": "FILM",
+   "conf": 0.96
+  },
+  {
+   "text": "Total",
+   "conf": 0.96
+  },
+  {
+   "text": "Qty.",
+   "conf": 0.91
+  },
+  {
+   "text": ":",
+   "conf": 0.81
+  },
+  {
+   "text": "1",
+   "conf": 0.62
+  },
+  {
+   "text": "26.00",
+   "conf": 0.96
+  },
+  {
+   "text": "SUB-TOTAL",
+   "conf": 0.96
+  },
+  {
+   "text": "(EX)",
+   "conf": 0.95
+  },
+  {
+   "text": ":",
+   "conf": 0.43
+  },
+  {
+   "text": "26,00",
+   "conf": 0.94
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.95
+  },
+  {
+   "text": "TAX",
+   "conf": 0.95
+  },
+  {
+   "text": ":",
+   "conf": 0.59
+  },
+  {
+   "text": "1.56",
+   "conf": 0.86
+  },
+  {
+   "text": "ROUNDING",
+   "conf": 0.95
+  },
+  {
+   "text": ";",
+   "conf": 0.29
+  },
+  {
+   "text": "-0.01",
+   "conf": 0.46
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.96
+  },
+  {
+   "text": "A",
+   "conf": 0.9
+  },
+  {
+   "text": "ye",
+   "conf": 0.74
+  },
+  {
+   "text": "7.55",
+   "conf": 0.93
+  },
+  {
+   "text": "CHANGE",
+   "conf": 0.96
+  },
+  {
+   "text": "r",
+   "conf": 0.0
+  },
+  {
+   "text": "arc",
+   "conf": 0.19
+  },
+  {
+   "text": "BANG",
+   "conf": 0.0
+  },
+  {
+   "text": "1",
+   "conf": 0.36
+  },
+  {
+   "text": "17",
+   "conf": 0.75
+  },
+  {
+   "text": "(yan",
+   "conf": 0.34
+  },
+  {
+   "text": "2018",
+   "conf": 0.9
+  },
+  {
+   "text": "ee",
+   "conf": 0.15
+  },
+  {
+   "text": "GST",
+   "conf": 0.94
+  },
+  {
+   "text": "SUMMARY",
+   "conf": 0.96
+  },
+  {
+   "text": "gee",
+   "conf": 0.0
+  },
+  {
+   "text": "ie",
+   "conf": 0.35
+  },
+  {
+   "text": "AMOUNT",
+   "conf": 0.96
+  },
+  {
+   "text": "TAX",
+   "conf": 0.96
+  },
+  {
+   "text": "TAX",
+   "conf": 0.94
+  },
+  {
+   "text": "CODE",
+   "conf": 0.95
+  },
+  {
+   "text": "%",
+   "conf": 0.9
+  },
+  {
+   "text": "(RM)",
+   "conf": 0.94
+  },
+  {
+   "text": "(RM)",
+   "conf": 0.96
+  },
+  {
+   "text": "SR",
+   "conf": 0.96
+  },
+  {
+   "text": "6.00",
+   "conf": 0.96
+  },
+  {
+   "text": "26.00",
+   "conf": 0.96
+  },
+  {
+   "text": "1.56",
+   "conf": 0.95
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.83
+  },
+  {
+   "text": ":",
+   "conf": 0.83
+  },
+  {
+   "text": "\"26.00",
+   "conf": 0.21
+  },
+  {
+   "text": "1.56",
+   "conf": 0.94
+  },
+  {
+   "text": "Note:",
+   "conf": 0.93
+  },
+  {
+   "text": "(*)",
+   "conf": 0.92
+  },
+  {
+   "text": "Indicated",
+   "conf": 0.96
+  },
+  {
+   "text": "The",
+   "conf": 0.95
+  },
+  {
+   "text": "Item",
+   "conf": 0.43
+  },
+  {
+   "text": "Soid",
+   "conf": 0.87
+  },
+  {
+   "text": "Has",
+   "conf": 0.95
+  },
+  {
+   "text": "Been",
+   "conf": 0.96
+  },
+  {
+   "text": "Related",
+   "conf": 0.96
+  },
+  {
+   "text": "To",
+   "conf": 0.96
+  },
+  {
+   "text": "GST",
+   "conf": 0.96
+  },
+  {
+   "text": "(Goods",
+   "conf": 0.93
+  },
+  {
+   "text": "&",
+   "conf": 0.91
+  },
+  {
+   "text": "Services",
+   "conf": 0.96
+  },
+  {
+   "text": "Tax).",
+   "conf": 0.94
+  },
+  {
+   "text": "GOODS",
+   "conf": 0.96
+  },
+  {
+   "text": "SOLD",
+   "conf": 0.96
+  },
+  {
+   "text": "ARE",
+   "conf": 0.96
+  },
+  {
+   "text": "NOT",
+   "conf": 0.96
+  },
+  {
+   "text": "RETURNABLE,",
+   "conf": 0.96
+  },
+  {
+   "text": "THANK",
+   "conf": 0.95
+  },
+  {
+   "text": "YOU.",
+   "conf": 0.85
+  }
+ ],
+ "mean_conf": 0.7553,
+ "low_conf_share": 0.2205,
+ "latency_ms": 3399,
+ "fields": {
+  "company": "TEO HENG STATIONERY BOOKS",
+  "date": "2018-01-17",
+  "total": 1.56
+ },
+ "rule_reasons": [
+  "total_multiple_keyword_amounts"
+ ],
+ "total_candidates": [
+  7.55,
+  1.56
+ ],
+ "key": "X51005361897"
+}

@@ -1,0 +1,238 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "Walgreens",
+  "#10295 1321DELAWAREAVE",
+  "MARI0N,0H 43302",
+  "740-386-5146",
+  "566 1741 005101/24/20141:23PM",
+  "《<BUY1GET1EQUAL/LESSVALUE50%OFF>>",
+  "RMLSTAY MATTE PRIMER 10Z",
+  "60734268275 A 6.99",
+  "RMLS/MFOUNDATNLIGHT PORCLN10Z",
+  "60734267573 2.74",
+  "REGULAR PRICE 5.49",
+  "REWARDS SAVINGS 2.75",
+  "******************************************",
+  "WEXFORD BUBBLE MAILER 10.5X15",
+  "04902270695 A 1.99",
+  "MFG CPN -1.00",
+  "MFGCPN -1.00",
+  "SUBTOTAL 9.72",
+  "SALESTAXA=6.75% 0.79",
+  "TOTAL 10.51",
+  "REWARDS REDEMPTION 5.00",
+  "CASH 10.01",
+  "CHANGE 4.50",
+  "BALANCE REWARDS SAVINGS 2.75",
+  "MFG COUPON SAVINGS 2.00",
+  "THANKYOU FOR SHOPPING ATWALGREENS",
+  "CONGRATULATIONSON YOUR REWARD!USE",
+  "YOUR CARD FOR ALL OF YOUR PURCHASES."
+ ],
+ "tokens": [
+  {
+   "text": "Walgreens",
+   "conf": 0.8107830683390299
+  },
+  {
+   "text": "#10295 1321DELAWAREAVE",
+   "conf": 0.9804640168493445
+  },
+  {
+   "text": "MARI0N,0H 43302",
+   "conf": 0.9308504104614258
+  },
+  {
+   "text": "740-386-5146",
+   "conf": 0.9949836532274882
+  },
+  {
+   "text": "566",
+   "conf": 0.9971243540445963
+  },
+  {
+   "text": "1741",
+   "conf": 0.9981324672698975
+  },
+  {
+   "text": "005101/24/20141:23PM",
+   "conf": 0.9950583636760711
+  },
+  {
+   "text": "《<BUY1GET1EQUAL/LESSVALUE50%OFF>>",
+   "conf": 0.9481401732473662
+  },
+  {
+   "text": "RMLSTAY MATTE PRIMER",
+   "conf": 0.9592748910188675
+  },
+  {
+   "text": "10Z",
+   "conf": 0.956441064675649
+  },
+  {
+   "text": "60734268275",
+   "conf": 0.9981127598068931
+  },
+  {
+   "text": "A",
+   "conf": 0.9977924823760986
+  },
+  {
+   "text": "6.99",
+   "conf": 0.998619794845581
+  },
+  {
+   "text": "RMLS/MFOUNDATNLIGHT PORCLN10Z",
+   "conf": 0.9465623025236458
+  },
+  {
+   "text": "60734267573",
+   "conf": 0.9969058036804199
+  },
+  {
+   "text": "2.74",
+   "conf": 0.9982105493545532
+  },
+  {
+   "text": "REGULAR PRICE 5.49",
+   "conf": 0.9643247657352023
+  },
+  {
+   "text": "REWARDS SAVINGS 2.75",
+   "conf": 0.9508805274963379
+  },
+  {
+   "text": "******************************************",
+   "conf": 0.9841135243574778
+  },
+  {
+   "text": "WEXFORD BUBBLE MAILER",
+   "conf": 0.9602533578872681
+  },
+  {
+   "text": "10.5X15",
+   "conf": 0.981562716620309
+  },
+  {
+   "text": "04902270695",
+   "conf": 0.9982949874617837
+  },
+  {
+   "text": "A",
+   "conf": 0.9975428581237793
+  },
+  {
+   "text": "1.99",
+   "conf": 0.9984728246927261
+  },
+  {
+   "text": "MFG CPN",
+   "conf": 0.9319031749452863
+  },
+  {
+   "text": "-1.00",
+   "conf": 0.9946402430534362
+  },
+  {
+   "text": "MFGCPN",
+   "conf": 0.9881028532981873
+  },
+  {
+   "text": "-1.00",
+   "conf": 0.9958771347999573
+  },
+  {
+   "text": "SUBTOTAL",
+   "conf": 0.9900859519839287
+  },
+  {
+   "text": "9.72",
+   "conf": 0.99870166182518
+  },
+  {
+   "text": "SALESTAXA=6.75%",
+   "conf": 0.9929416696230571
+  },
+  {
+   "text": "0.79",
+   "conf": 0.9986657649278641
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.9929227948188781
+  },
+  {
+   "text": "10.51",
+   "conf": 0.9960836052894593
+  },
+  {
+   "text": "REWARDS REDEMPTION",
+   "conf": 0.9657328195042081
+  },
+  {
+   "text": "5.00",
+   "conf": 0.99821537733078
+  },
+  {
+   "text": "CASH",
+   "conf": 0.9942712932825089
+  },
+  {
+   "text": "10.01",
+   "conf": 0.9972227215766907
+  },
+  {
+   "text": "CHANGE",
+   "conf": 0.9852483669916788
+  },
+  {
+   "text": "4.50",
+   "conf": 0.9964917749166489
+  },
+  {
+   "text": "BALANCE REWARDS SAVINGS",
+   "conf": 0.9716219720633134
+  },
+  {
+   "text": "2.75",
+   "conf": 0.9964537173509598
+  },
+  {
+   "text": "MFG COUPON SAVINGS",
+   "conf": 0.9696371687783135
+  },
+  {
+   "text": "2.00",
+   "conf": 0.9974619001150131
+  },
+  {
+   "text": "THANKYOU FOR SHOPPING ATWALGREENS",
+   "conf": 0.9479594953132399
+  },
+  {
+   "text": "CONGRATULATIONSON YOUR REWARD!USE",
+   "conf": 0.9586662975224581
+  },
+  {
+   "text": "YOUR CARD FOR ALL OF YOUR PURCHASES.",
+   "conf": 0.9444895568821166
+  }
+ ],
+ "mean_conf": 0.9776,
+ "low_conf_share": 0.0,
+ "latency_ms": 4456,
+ "fields": {
+  "company": "WALGREENS",
+  "date": null,
+  "total": 10.51
+ },
+ "rule_reasons": [
+  "date_not_found"
+ ],
+ "total_candidates": [
+  10.51
+ ],
+ "key": "W0009_5c0095fb92d0"
+}

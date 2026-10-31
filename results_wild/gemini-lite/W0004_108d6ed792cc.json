@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.1-flash-lite",
+ "provider": "gemini",
+ "raw_text": "{\n  \"vendor\": \"Weetons (Retail) Ltd\",\n  \"date\": \"2017-03-27\",\n  \"subtotal\": 16.40,\n  \"tax\": null,\n  \"tip\": null,\n  \"discount\": -3.00,\n  \"total\": 13.40,\n  \"currency\": \"GBP\",\n  \"confidence\": 0.95,\n  \"notes\": null\n}",
+ "data": {
+  "vendor": "Weetons (Retail) Ltd",
+  "date": "2017-03-27",
+  "subtotal": 16.4,
+  "tax": null,
+  "tip": null,
+  "discount": -3.0,
+  "total": 13.4,
+  "currency": "GBP",
+  "confidence": 0.95,
+  "notes": null
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1471,
+  "output_tokens": 109,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.000531,
+ "latency_ms": 7609,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.1-flash-lite",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.1-flash-lite"
+ ],
+ "key": "W0004_108d6ed792cc"
+}

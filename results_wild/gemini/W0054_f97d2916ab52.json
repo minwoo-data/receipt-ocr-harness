@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.6-flash",
+ "provider": "gemini",
+ "raw_text": "{\"vendor\":\"GIOVANNI'S WINE BAR & RISTORANTE\",\"date\":\"2016-06-23\",\"subtotal\":36.3,\"tax\":null,\"tip\":4.54,\"discount\":null,\"total\":40.84,\"currency\":\"GBP\",\"confidence\":0.95,\"notes\":null}",
+ "data": {
+  "vendor": "GIOVANNI'S WINE BAR & RISTORANTE",
+  "date": "2016-06-23",
+  "subtotal": 36.3,
+  "tax": null,
+  "tip": 4.54,
+  "discount": null,
+  "total": 40.84,
+  "currency": "GBP",
+  "confidence": 0.95,
+  "notes": null
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1469,
+  "output_tokens": 77,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.001391,
+ "latency_ms": 1498,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.6-flash",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.6-flash"
+ ],
+ "key": "W0054_f97d2916ab52"
+}

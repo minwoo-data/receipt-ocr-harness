@@ -1,0 +1,119 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "NUMPANG SANDWICH SHOP",
+  "21E.12ST.NEW Y0RK NY10003",
+  "TEL:(212)255-3271",
+  "DATE09/18/2012TUE TIME10:24",
+  "CATFISH SANDWICH $9.00 $8.70",
+  "BELLY *TAKEOUT $0.00",
+  "VOID *TAKEOUT $17.70 $0.00",
+  "TOTAL $20.00",
+  "CASH $2.30",
+  "CHANGE **ORDER#0011**",
+  "INQUIRE WITHIN"
+ ],
+ "tokens": [
+  {
+   "text": "NUMPANG SANDWICH SHOP",
+   "conf": 0.9661634394100734
+  },
+  {
+   "text": "21E.12ST.NEW Y0RK NY10003",
+   "conf": 0.9464424157142639
+  },
+  {
+   "text": "TEL:(212)255-3271",
+   "conf": 0.9517015043426963
+  },
+  {
+   "text": "TIME10:24",
+   "conf": 0.9869547022713555
+  },
+  {
+   "text": "DATE09/18/2012TUE",
+   "conf": 0.9922913488219766
+  },
+  {
+   "text": "$9.00",
+   "conf": 0.9971999645233154
+  },
+  {
+   "text": "CATFISH SANDWICH",
+   "conf": 0.9847199954092503
+  },
+  {
+   "text": "$8.70",
+   "conf": 0.9964718461036682
+  },
+  {
+   "text": "BELLY",
+   "conf": 0.9897673726081848
+  },
+  {
+   "text": "$0.00",
+   "conf": 0.9942201852798462
+  },
+  {
+   "text": "*TAKEOUT",
+   "conf": 0.9894186332821846
+  },
+  {
+   "text": "VOID",
+   "conf": 0.9748421162366867
+  },
+  {
+   "text": "$0.00",
+   "conf": 0.9935175657272339
+  },
+  {
+   "text": "*TAKEOUT",
+   "conf": 0.9888916611671448
+  },
+  {
+   "text": "$17.70",
+   "conf": 0.9971082905928293
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.9909685730934144
+  },
+  {
+   "text": "$20.00",
+   "conf": 0.9950403173764547
+  },
+  {
+   "text": "CASH",
+   "conf": 0.9935899376869202
+  },
+  {
+   "text": "$2.30",
+   "conf": 0.9965368986129761
+  },
+  {
+   "text": "CHANGE",
+   "conf": 0.9945033291975657
+  },
+  {
+   "text": "**ORDER#0011**",
+   "conf": 0.9477897648300443
+  },
+  {
+   "text": "INQUIRE WITHIN",
+   "conf": 0.9758818234716143
+  }
+ ],
+ "mean_conf": 0.9838,
+ "low_conf_share": 0.0,
+ "latency_ms": 2648,
+ "fields": {
+  "company": "NUMPANG SANDWICH SHOP",
+  "date": "2012-09-18",
+  "total": 20.0
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  20.0
+ ],
+ "key": "W0028_82f67d28b598"
+}

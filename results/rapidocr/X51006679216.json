@@ -1,0 +1,341 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "FACE TO FACE NOODLEHOUSE",
+  "FTOFNOODLEHOUSE",
+  "(002049088-U)",
+  "No.25,JalanMetroPerdana Barat2,",
+  "Taman UsahawanKepong,Kepong Utara,",
+  "52100Kuala Lumpur.",
+  "Tel:016-6808777",
+  "(GSTID:001927782400)",
+  "Date: 21/05/2018Time: 11:12:56AM",
+  "INVNo:443181",
+  "Table: 12-Dine In",
+  "Counter:C1",
+  "Staff: T.Y./JAMESLELE",
+  "Description Tax",
+  "UnitPrice UnitDiscount Amount code",
+  "711-Omega HalfBoiled Egg",
+  "RM3.20 1 0.00 RM3.20SR",
+  "706-Toasted Bread(HomemadeKaya)",
+  "RM4.30 1 0.00 RM4.30SR",
+  "837-HoneyLemon（Hot)",
+  "RM3.90 1 0.00 RM3.90SR",
+  "838-HoneyLemori(Cold)",
+  "RM4.20 1 0.00 RM4.20SR",
+  "2022-HouseSpecialtyHot&Spicy",
+  "Pan Mee(Dry)(b)",
+  "RM8.00 1 0.00 RM8.00SR",
+  "2021-HouseSpecialtyHot&Spicy",
+  "PanMee(Dry)(a)",
+  "RM8.00 1 0.00 RM8.00SR",
+  "Qty: 6 TotalAmount: RM31.60",
+  "Discount: RM0.00",
+  "AfterDiscount: RM31.60",
+  "Cent Rounding: RM0.00",
+  "TotalSales: RM31.60",
+  "Loo",
+  "GSTSummary Excl Amount(RM) Tax(RM)",
+  "SR=6% 29.81 1.79"
+ ],
+ "tokens": [
+  {
+   "text": "FACE TO FACE NOODLEHOUSE",
+   "conf": 0.9437500139077505
+  },
+  {
+   "text": "FTOFNOODLEHOUSE",
+   "conf": 0.9959187666575114
+  },
+  {
+   "text": "(002049088-U)",
+   "conf": 0.954861003618974
+  },
+  {
+   "text": "No.25,JalanMetroPerdana Barat2,",
+   "conf": 0.9465402249367006
+  },
+  {
+   "text": "Taman UsahawanKepong,Kepong Utara,",
+   "conf": 0.9473481055568246
+  },
+  {
+   "text": "52100Kuala Lumpur.",
+   "conf": 0.9643496639198728
+  },
+  {
+   "text": "Tel:016-6808777",
+   "conf": 0.9923385898272197
+  },
+  {
+   "text": "(GSTID:001927782400)",
+   "conf": 0.9484344810247421
+  },
+  {
+   "text": "Date:",
+   "conf": 0.9873315572738648
+  },
+  {
+   "text": "21/05/2018Time:",
+   "conf": 0.9707402507464091
+  },
+  {
+   "text": "11:12:56AM",
+   "conf": 0.9795196890830994
+  },
+  {
+   "text": "INVNo:443181",
+   "conf": 0.9946259111166
+  },
+  {
+   "text": "Table:",
+   "conf": 0.9823960661888123
+  },
+  {
+   "text": "12-Dine In",
+   "conf": 0.9608270466327667
+  },
+  {
+   "text": "Counter:C1",
+   "conf": 0.9885237276554107
+  },
+  {
+   "text": "Staff:",
+   "conf": 0.8895411640405655
+  },
+  {
+   "text": "T.Y./JAMESLELE",
+   "conf": 0.9764204791613987
+  },
+  {
+   "text": "Description",
+   "conf": 0.9814507473598827
+  },
+  {
+   "text": "Tax",
+   "conf": 0.9721508622169495
+  },
+  {
+   "text": "UnitPrice UnitDiscount",
+   "conf": 0.9736885509707711
+  },
+  {
+   "text": "Amount code",
+   "conf": 0.9145703911781311
+  },
+  {
+   "text": "711-Omega HalfBoiled Egg",
+   "conf": 0.9624559183915457
+  },
+  {
+   "text": "RM3.20",
+   "conf": 0.9969182908535004
+  },
+  {
+   "text": "1",
+   "conf": 0.9851189255714417
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9807341992855072
+  },
+  {
+   "text": "RM3.20SR",
+   "conf": 0.9943894520401955
+  },
+  {
+   "text": "706-Toasted Bread(HomemadeKaya)",
+   "conf": 0.9675159435118398
+  },
+  {
+   "text": "RM4.30",
+   "conf": 0.9970918794473013
+  },
+  {
+   "text": "1",
+   "conf": 0.990369975566864
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9981182217597961
+  },
+  {
+   "text": "RM4.30SR",
+   "conf": 0.9939875975251198
+  },
+  {
+   "text": "837-HoneyLemon（Hot)",
+   "conf": 0.9516823448632893
+  },
+  {
+   "text": "RM3.90",
+   "conf": 0.995898981889089
+  },
+  {
+   "text": "1",
+   "conf": 0.9917798638343811
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9984442442655563
+  },
+  {
+   "text": "RM3.90SR",
+   "conf": 0.9902111887931824
+  },
+  {
+   "text": "838-HoneyLemori(Cold)",
+   "conf": 0.9342581899393172
+  },
+  {
+   "text": "RM4.20",
+   "conf": 0.997469574213028
+  },
+  {
+   "text": "1",
+   "conf": 0.9966977834701538
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9915563613176346
+  },
+  {
+   "text": "RM4.20SR",
+   "conf": 0.9953255131840706
+  },
+  {
+   "text": "2022-HouseSpecialtyHot&Spicy",
+   "conf": 0.9825762957334518
+  },
+  {
+   "text": "Pan Mee(Dry)(b)",
+   "conf": 0.9080193201700847
+  },
+  {
+   "text": "RM8.00",
+   "conf": 0.9837261140346527
+  },
+  {
+   "text": "1",
+   "conf": 0.9928252696990967
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9917750358581543
+  },
+  {
+   "text": "RM8.00SR",
+   "conf": 0.9741054698824883
+  },
+  {
+   "text": "2021-HouseSpecialtyHot&Spicy",
+   "conf": 0.986186397927148
+  },
+  {
+   "text": "PanMee(Dry)(a)",
+   "conf": 0.9089979146208081
+  },
+  {
+   "text": "RM8.00",
+   "conf": 0.9951229890187582
+  },
+  {
+   "text": "1",
+   "conf": 0.9901477694511414
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9976019114255905
+  },
+  {
+   "text": "RM8.00SR",
+   "conf": 0.9905360192060471
+  },
+  {
+   "text": "Qty:",
+   "conf": 0.9704496711492538
+  },
+  {
+   "text": "6",
+   "conf": 0.9956346154212952
+  },
+  {
+   "text": "TotalAmount:",
+   "conf": 0.9799162497123083
+  },
+  {
+   "text": "RM31.60",
+   "conf": 0.9964833685329982
+  },
+  {
+   "text": "Discount:",
+   "conf": 0.9918398724661933
+  },
+  {
+   "text": "RM0.00",
+   "conf": 0.9394323825836182
+  },
+  {
+   "text": "AfterDiscount:",
+   "conf": 0.9853542191641671
+  },
+  {
+   "text": "RM31.60",
+   "conf": 0.9974185824394226
+  },
+  {
+   "text": "Cent Rounding:",
+   "conf": 0.9459245758397239
+  },
+  {
+   "text": "RM0.00",
+   "conf": 0.9507032632827759
+  },
+  {
+   "text": "TotalSales:",
+   "conf": 0.9874519109725952
+  },
+  {
+   "text": "RM31.60",
+   "conf": 0.9966488565717425
+  },
+  {
+   "text": "Loo",
+   "conf": 0.9060572584470113
+  },
+  {
+   "text": "GSTSummary Excl Amount(RM)",
+   "conf": 0.9256366743491247
+  },
+  {
+   "text": "Tax(RM)",
+   "conf": 0.9561131511415754
+  },
+  {
+   "text": "SR=6%",
+   "conf": 0.9862611055374145
+  },
+  {
+   "text": "29.81",
+   "conf": 0.9976019859313965
+  },
+  {
+   "text": "1.79",
+   "conf": 0.9961820989847183
+  }
+ ],
+ "mean_conf": 0.9744,
+ "low_conf_share": 0.0,
+ "latency_ms": 4424,
+ "fields": {
+  "company": "FACE TO FACE NOODLEHOUSE",
+  "date": "2018-05-21",
+  "total": 31.6
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  31.6
+ ],
+ "key": "X51006679216"
+}

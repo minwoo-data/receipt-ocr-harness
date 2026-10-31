@@ -1,0 +1,342 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "318001",
+  "SYARIKATPERNIAGAAN GIN KEE",
+  "(81109-A)",
+  "NO290,JALANAIRPANAS",
+  "SETAPAK,",
+  "53200.KUALALUMPUR",
+  "TEL:03-40210276",
+  "GSTID:000750673920",
+  "SIMPLIFIEDTAXINVOICE",
+  "CASH",
+  "Doc No. CS00012544 Date:04/01/2018",
+  "Cashier USER Time:15:46:00",
+  "Salesperson Ref.:",
+  "Item Qty S/Price Amount Tax",
+  "1840 1 40.28 40.28 SR",
+  "K101X8",
+  "1664 2 26.50 53.00 SR",
+  "1LTBIGTREEHIGHGLOSSPAINT",
+  "1909 1 6.89 6.89 SR",
+  "7\"ROLLERREFILL",
+  "Totai Qty 4 100.17",
+  "Total Sales(Excluding GST) 94.50",
+  "Discount 0.00",
+  "Total GST 5.67",
+  "Rounding 0.00",
+  "Totai Sales(Inclusive of GsT): 100.17",
+  "CASH: 100.17",
+  "Change : 0.00",
+  "GSTSUMMARY",
+  "TaxCode % Amt(RM) Tax(RM)",
+  "SR 6 94.50 5.67",
+  "Total : 94.50 5.67",
+  "5.6",
+  "GOODSSOLDARENOTRETURNABLE,THANKYOU."
+ ],
+ "tokens": [
+  {
+   "text": "318001",
+   "conf": 0.8767712265253067
+  },
+  {
+   "text": "SYARIKATPERNIAGAAN GIN KEE",
+   "conf": 0.953397633937689
+  },
+  {
+   "text": "(81109-A)",
+   "conf": 0.9946554700533549
+  },
+  {
+   "text": "NO290,JALANAIRPANAS",
+   "conf": 0.9590491276038321
+  },
+  {
+   "text": "SETAPAK,",
+   "conf": 0.977113775908947
+  },
+  {
+   "text": "53200.KUALALUMPUR",
+   "conf": 0.9603219172533821
+  },
+  {
+   "text": "TEL:03-40210276",
+   "conf": 0.9896737376848856
+  },
+  {
+   "text": "GSTID:000750673920",
+   "conf": 0.9850574764940474
+  },
+  {
+   "text": "SIMPLIFIEDTAXINVOICE",
+   "conf": 0.9897377669811249
+  },
+  {
+   "text": "CASH",
+   "conf": 0.9932140707969666
+  },
+  {
+   "text": "Doc No.",
+   "conf": 0.9063118781362262
+  },
+  {
+   "text": "CS00012544",
+   "conf": 0.9962038159370422
+  },
+  {
+   "text": "Date:04/01/2018",
+   "conf": 0.9928392052650452
+  },
+  {
+   "text": "Cashier",
+   "conf": 0.9956781693867275
+  },
+  {
+   "text": "USER",
+   "conf": 0.9919033050537109
+  },
+  {
+   "text": "Time:15:46:00",
+   "conf": 0.9602992442937998
+  },
+  {
+   "text": "Salesperson",
+   "conf": 0.9959516308524392
+  },
+  {
+   "text": "Ref.:",
+   "conf": 0.9606636524200439
+  },
+  {
+   "text": "Item",
+   "conf": 0.8834042400121689
+  },
+  {
+   "text": "Qty",
+   "conf": 0.9967808127403259
+  },
+  {
+   "text": "S/Price",
+   "conf": 0.988518238067627
+  },
+  {
+   "text": "Amount",
+   "conf": 0.9963113764921824
+  },
+  {
+   "text": "Tax",
+   "conf": 0.9927443663279215
+  },
+  {
+   "text": "1840",
+   "conf": 0.9991490244865417
+  },
+  {
+   "text": "1",
+   "conf": 0.9897533655166626
+  },
+  {
+   "text": "40.28",
+   "conf": 0.9997516632080078
+  },
+  {
+   "text": "40.28",
+   "conf": 0.9990755319595337
+  },
+  {
+   "text": "SR",
+   "conf": 0.9891347885131836
+  },
+  {
+   "text": "K101X8",
+   "conf": 0.9679962197939554
+  },
+  {
+   "text": "1664",
+   "conf": 0.9980567693710327
+  },
+  {
+   "text": "2",
+   "conf": 0.9989711046218872
+  },
+  {
+   "text": "26.50",
+   "conf": 0.9992791771888733
+  },
+  {
+   "text": "53.00",
+   "conf": 0.9986658453941345
+  },
+  {
+   "text": "SR",
+   "conf": 0.9916524887084961
+  },
+  {
+   "text": "1LTBIGTREEHIGHGLOSSPAINT",
+   "conf": 0.9854439124464989
+  },
+  {
+   "text": "1909",
+   "conf": 0.998686745762825
+  },
+  {
+   "text": "1",
+   "conf": 0.9804069399833679
+  },
+  {
+   "text": "6.89",
+   "conf": 0.9991519004106522
+  },
+  {
+   "text": "6.89",
+   "conf": 0.9945898801088333
+  },
+  {
+   "text": "SR",
+   "conf": 0.9968493580818176
+  },
+  {
+   "text": "7\"ROLLERREFILL",
+   "conf": 0.9807600591863904
+  },
+  {
+   "text": "Totai Qty",
+   "conf": 0.9600929816563925
+  },
+  {
+   "text": "4",
+   "conf": 0.9991826415061951
+  },
+  {
+   "text": "100.17",
+   "conf": 0.9990171492099762
+  },
+  {
+   "text": "Total Sales(Excluding GST)",
+   "conf": 0.965086233157378
+  },
+  {
+   "text": "94.50",
+   "conf": 0.9982853531837463
+  },
+  {
+   "text": "Discount",
+   "conf": 0.9989558905363083
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9985159188508987
+  },
+  {
+   "text": "Total GST",
+   "conf": 0.9415648910734389
+  },
+  {
+   "text": "5.67",
+   "conf": 0.9942243546247482
+  },
+  {
+   "text": "Rounding",
+   "conf": 0.9546115597089132
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9993334412574768
+  },
+  {
+   "text": "Totai Sales(Inclusive of GsT):",
+   "conf": 0.898707264661789
+  },
+  {
+   "text": "100.17",
+   "conf": 0.9991129438082377
+  },
+  {
+   "text": "CASH:",
+   "conf": 0.9628329038619995
+  },
+  {
+   "text": "100.17",
+   "conf": 0.9993416666984558
+  },
+  {
+   "text": "Change :",
+   "conf": 0.9855277761816978
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9990871399641037
+  },
+  {
+   "text": "GSTSUMMARY",
+   "conf": 0.9867643177509308
+  },
+  {
+   "text": "TaxCode",
+   "conf": 0.9757395301546369
+  },
+  {
+   "text": "%",
+   "conf": 0.9532516598701477
+  },
+  {
+   "text": "Amt(RM)",
+   "conf": 0.9891149997711182
+  },
+  {
+   "text": "Tax(RM)",
+   "conf": 0.9860522832189288
+  },
+  {
+   "text": "SR",
+   "conf": 0.996670663356781
+  },
+  {
+   "text": "6",
+   "conf": 0.990882396697998
+  },
+  {
+   "text": "94.50",
+   "conf": 0.9995633244514466
+  },
+  {
+   "text": "5.67",
+   "conf": 0.9989631474018097
+  },
+  {
+   "text": "Total :",
+   "conf": 0.9488978811672756
+  },
+  {
+   "text": "94.50",
+   "conf": 0.9998786330223084
+  },
+  {
+   "text": "5.67",
+   "conf": 0.9997154772281647
+  },
+  {
+   "text": "5.6",
+   "conf": 0.9823819200197855
+  },
+  {
+   "text": "GOODSSOLDARENOTRETURNABLE,THANKYOU.",
+   "conf": 0.9710345711026873
+  }
+ ],
+ "mean_conf": 0.9811,
+ "low_conf_share": 0.0,
+ "latency_ms": 6272,
+ "fields": {
+  "company": "SYARIKATPERNIAGAAN GIN KEE",
+  "date": "2018-01-04",
+  "total": 5.67
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  5.67
+ ],
+ "key": "X51005675103"
+}

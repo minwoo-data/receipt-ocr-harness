@@ -1,0 +1,168 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "99Ranch Market#72",
+  "1350 Grant Road",
+  "Mountain View,CA 94040",
+  "(650)966-8899",
+  "8/16/201611:52:39AM12331276",
+  "Cashier:M.",
+  "STEAMED YELLOW CHICKEN-HALF_H 8.75TC",
+  "SUBTOTAL 8.75",
+  "8.75 TAX8.75% 0.77",
+  "TOTAL 9.52",
+  "CREDIT CARD 9.52",
+  "0.00",
+  "Item Count1",
+  "Thank You!!!",
+  "Check with Customer Services for Inquires.",
+  "Items/Electric Appliance can be returned",
+  "with a Receipt within 7 days of purchase.",
+  "No Returns on Alcoholic Beverages,Tobacco",
+  "CUSTOMERCOPY",
+  "99RANCH MARKET #72",
+  "1350 Grant Road",
+  "Mountain View, CA94040",
+  "（650)966-8899",
+  "Purchase 9.52"
+ ],
+ "tokens": [
+  {
+   "text": "99Ranch Market#72",
+   "conf": 0.9740557986147264
+  },
+  {
+   "text": "1350 Grant Road",
+   "conf": 0.9444544235865275
+  },
+  {
+   "text": "Mountain View,CA 94040",
+   "conf": 0.9326439824971285
+  },
+  {
+   "text": "(650)966-8899",
+   "conf": 0.9589666128158569
+  },
+  {
+   "text": "8/16/201611:52:39AM12331276",
+   "conf": 0.9853064550293816
+  },
+  {
+   "text": "Cashier:M.",
+   "conf": 0.941394054889679
+  },
+  {
+   "text": "STEAMED YELLOW CHICKEN-HALF_H",
+   "conf": 0.9536441872859823
+  },
+  {
+   "text": "8.75TC",
+   "conf": 0.9854250152905782
+  },
+  {
+   "text": "SUBTOTAL",
+   "conf": 0.9922955706715584
+  },
+  {
+   "text": "8.75",
+   "conf": 0.9961197227239609
+  },
+  {
+   "text": "8.75",
+   "conf": 0.9950638562440872
+  },
+  {
+   "text": "TAX8.75%",
+   "conf": 0.9942861199378967
+  },
+  {
+   "text": "0.77",
+   "conf": 0.9966421574354172
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.9936183452606201
+  },
+  {
+   "text": "9.52",
+   "conf": 0.9907836019992828
+  },
+  {
+   "text": "CREDIT CARD",
+   "conf": 0.9645160978490656
+  },
+  {
+   "text": "9.52",
+   "conf": 0.9922231435775757
+  },
+  {
+   "text": "0.00",
+   "conf": 0.997829407453537
+  },
+  {
+   "text": "Item Count1",
+   "conf": 0.9551249525763772
+  },
+  {
+   "text": "Thank You!!!",
+   "conf": 0.9353562543789545
+  },
+  {
+   "text": "Check with Customer Services for Inquires.",
+   "conf": 0.9547211343333835
+  },
+  {
+   "text": "Items/Electric Appliance can be returned",
+   "conf": 0.9645670756697655
+  },
+  {
+   "text": "with a Receipt within 7 days of purchase.",
+   "conf": 0.9322488191651135
+  },
+  {
+   "text": "No Returns on Alcoholic Beverages,Tobacco",
+   "conf": 0.966630839720005
+  },
+  {
+   "text": "CUSTOMERCOPY",
+   "conf": 0.985750342408816
+  },
+  {
+   "text": "99RANCH MARKET #72",
+   "conf": 0.9491811858283149
+  },
+  {
+   "text": "1350 Grant Road",
+   "conf": 0.9509916981061299
+  },
+  {
+   "text": "Mountain View, CA94040",
+   "conf": 0.9376124468716708
+  },
+  {
+   "text": "（650)966-8899",
+   "conf": 0.9576818943023682
+  },
+  {
+   "text": "Purchase",
+   "conf": 0.9872106537222862
+  },
+  {
+   "text": "9.52",
+   "conf": 0.9974579513072968
+  }
+ ],
+ "mean_conf": 0.9698,
+ "low_conf_share": 0.0,
+ "latency_ms": 3787,
+ "fields": {
+  "company": "MOUNTAIN VIEW CA",
+  "date": "2016-08-16",
+  "total": 9.52
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  9.52
+ ],
+ "key": "W0158_610449104202"
+}

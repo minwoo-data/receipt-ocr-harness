@@ -1,0 +1,377 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "AEON CO.(M)BHD (126926-H)",
+  "3RD FLR,AEON TAMAN MALURI SC",
+  "JLN JEJAKA,TAMAN MALURI",
+  "CHERAS，55100 KUALA LUMPUR",
+  "GST ID : 002017394688",
+  "SHOPPING HOURS",
+  "SUN-THU:1000 HRS - 2230 HRS",
+  "FRI-SAT:1000 HRS ~ 2300 HRS",
+  "VALUED CUST0MER:1250065685",
+  "1x 000002007038 3.20SR",
+  "1/BERG LETTUCE",
+  "1x 000006246570 17.92SR",
+  "DRIED FIGS",
+  "1x 000000812627 10.30SR",
+  "US RED GLOBE",
+  "1x 000005550036 6.50SR",
+  "lE ORGANIC SOYB",
+  "1x 000005550036 6.50SR",
+  "LE ORGANIC SOYB",
+  "1x 000000802185 0.60SR",
+  "HOLLAND POTATO",
+  "1x 000000342827 16.50SR",
+  "CF TWIN PACK RA",
+  "1x 000005711055 8.96SR",
+  "TOPVALU",
+  "1x 000005711079 8.96SR",
+  "TOPVALU TOILET",
+  "Sub-total 79.44",
+  "Total Sales Incl GST 79.44",
+  "Rounding Adj 0.01",
+  "Total After Adj Incl GST 79.45",
+  "VISA 79.45",
+  "ACC No.:403149******8937",
+  "Item Count 9 Change Amt 0.00",
+  "Invoice No:2018060310100050214",
+  "GST Suamary Amount Tax",
+  "SR @ 0% 79.44 0.00",
+  "Total 79.44 0.00",
+  "03/06/2018 16:49 1010 005 0050214",
+  "0301655 PJ N0RAZILAH",
+  "REGULAR STAMP(S): 2",
+  "BONUS STAMP(S) 0",
+  "TOTAL STAMP(S) 2",
+  "AEON Stamps Loyalty Program\"Product(s)\"",
+  "sold are neither exchangeable nor",
+  "refundable",
+  "AEON PERMAS JAYA",
+  "TEL 1-300-80-AE0N (2366)",
+  "THANK YOU FOR YOUR PATRONAGE",
+  "PLEASE COME AGAIN"
+ ],
+ "tokens": [
+  {
+   "text": "AEON CO.(M)BHD (126926-H)",
+   "conf": 0.9219898223876953
+  },
+  {
+   "text": "3RD FLR,AEON TAMAN MALURI SC",
+   "conf": 0.9489498436450958
+  },
+  {
+   "text": "JLN JEJAKA,TAMAN MALURI",
+   "conf": 0.9632119121758834
+  },
+  {
+   "text": "CHERAS，55100 KUALA LUMPUR",
+   "conf": 0.9631646013259888
+  },
+  {
+   "text": "GST ID : 002017394688",
+   "conf": 0.9593199746949332
+  },
+  {
+   "text": "SHOPPING HOURS",
+   "conf": 0.9459441942828042
+  },
+  {
+   "text": "SUN-THU:1000 HRS - 2230 HRS",
+   "conf": 0.9776598435861094
+  },
+  {
+   "text": "FRI-SAT:1000 HRS ~ 2300 HRS",
+   "conf": 0.9505097093405547
+  },
+  {
+   "text": "VALUED CUST0MER:1250065685",
+   "conf": 0.9870105179456564
+  },
+  {
+   "text": "1x 000002007038",
+   "conf": 0.9831079602241516
+  },
+  {
+   "text": "3.20SR",
+   "conf": 0.997970829407374
+  },
+  {
+   "text": "1/BERG LETTUCE",
+   "conf": 0.9752324564116341
+  },
+  {
+   "text": "1x 000006246570",
+   "conf": 0.9737738251686097
+  },
+  {
+   "text": "17.92SR",
+   "conf": 0.9992553421429226
+  },
+  {
+   "text": "DRIED FIGS",
+   "conf": 0.958702951669693
+  },
+  {
+   "text": "1x 000000812627",
+   "conf": 0.9937212864557902
+  },
+  {
+   "text": "10.30SR",
+   "conf": 0.99888961655753
+  },
+  {
+   "text": "US RED GLOBE",
+   "conf": 0.9646612107753754
+  },
+  {
+   "text": "1x 000005550036",
+   "conf": 0.9778835773468018
+  },
+  {
+   "text": "6.50SR",
+   "conf": 0.9988239506880442
+  },
+  {
+   "text": "lE ORGANIC SOYB",
+   "conf": 0.9184579670429229
+  },
+  {
+   "text": "1x 000005550036",
+   "conf": 0.9604468623797099
+  },
+  {
+   "text": "6.50SR",
+   "conf": 0.998721053202947
+  },
+  {
+   "text": "LE ORGANIC SOYB",
+   "conf": 0.9492764472961426
+  },
+  {
+   "text": "1x 000000802185",
+   "conf": 0.984277085463206
+  },
+  {
+   "text": "0.60SR",
+   "conf": 0.9962909519672394
+  },
+  {
+   "text": "HOLLAND POTATO",
+   "conf": 0.9869916651930127
+  },
+  {
+   "text": "1x 000000342827",
+   "conf": 0.9936689813931783
+  },
+  {
+   "text": "16.50SR",
+   "conf": 0.9989058205059597
+  },
+  {
+   "text": "CF TWIN PACK RA",
+   "conf": 0.9850202997525533
+  },
+  {
+   "text": "1x 000005711055",
+   "conf": 0.9740717530250549
+  },
+  {
+   "text": "8.96SR",
+   "conf": 0.9530954857667288
+  },
+  {
+   "text": "TOPVALU",
+   "conf": 0.9924593312399728
+  },
+  {
+   "text": "1x 000005711079",
+   "conf": 0.9677040219306946
+  },
+  {
+   "text": "8.96SR",
+   "conf": 0.998047391573588
+  },
+  {
+   "text": "TOPVALU TOILET",
+   "conf": 0.9831369178635734
+  },
+  {
+   "text": "Sub-total",
+   "conf": 0.9986352523167928
+  },
+  {
+   "text": "79.44",
+   "conf": 0.9984351992607117
+  },
+  {
+   "text": "Total Sales Incl GST",
+   "conf": 0.9753066241741181
+  },
+  {
+   "text": "79.44",
+   "conf": 0.9703603267669678
+  },
+  {
+   "text": "Rounding Adj",
+   "conf": 0.9861681709686915
+  },
+  {
+   "text": "0.01",
+   "conf": 0.9995936006307602
+  },
+  {
+   "text": "Total After Adj Incl GST",
+   "conf": 0.9583238412936529
+  },
+  {
+   "text": "79.45",
+   "conf": 0.9910666823387146
+  },
+  {
+   "text": "VISA",
+   "conf": 0.997732862830162
+  },
+  {
+   "text": "79.45",
+   "conf": 0.9987135767936707
+  },
+  {
+   "text": "ACC No.:403149******8937",
+   "conf": 0.9351027409235636
+  },
+  {
+   "text": "Item Count 9",
+   "conf": 0.9796024411916733
+  },
+  {
+   "text": "Change Amt",
+   "conf": 0.9608545482158661
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9998676627874374
+  },
+  {
+   "text": "Invoice No:2018060310100050214",
+   "conf": 0.9934091409047444
+  },
+  {
+   "text": "GST Suamary",
+   "conf": 0.9188624024391174
+  },
+  {
+   "text": "Amount",
+   "conf": 0.9902893702189127
+  },
+  {
+   "text": "Tax",
+   "conf": 0.9592379927635193
+  },
+  {
+   "text": "SR @ 0%",
+   "conf": 0.9359521780695234
+  },
+  {
+   "text": "79.44",
+   "conf": 0.9844799280166626
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9999208152294159
+  },
+  {
+   "text": "Total",
+   "conf": 0.9872626185417175
+  },
+  {
+   "text": "79.44",
+   "conf": 0.9998482584953308
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9997596740722656
+  },
+  {
+   "text": "03/06/2018 16:49",
+   "conf": 0.9822844825685024
+  },
+  {
+   "text": "1010 005 0050214",
+   "conf": 0.9495713375508785
+  },
+  {
+   "text": "0301655 PJ N0RAZILAH",
+   "conf": 0.9420666515827179
+  },
+  {
+   "text": "REGULAR STAMP(S):",
+   "conf": 0.9474285981234383
+  },
+  {
+   "text": "2",
+   "conf": 0.9992966651916504
+  },
+  {
+   "text": "BONUS STAMP(S)",
+   "conf": 0.9651198940617698
+  },
+  {
+   "text": "0",
+   "conf": 0.9883584976196289
+  },
+  {
+   "text": "TOTAL STAMP(S)",
+   "conf": 0.9860449518476214
+  },
+  {
+   "text": "2",
+   "conf": 0.9991294741630554
+  },
+  {
+   "text": "AEON Stamps Loyalty Program\"Product(s)\"",
+   "conf": 0.9556149152609018
+  },
+  {
+   "text": "sold are neither exchangeable nor",
+   "conf": 0.9424735307693481
+  },
+  {
+   "text": "refundable",
+   "conf": 0.9873218417167664
+  },
+  {
+   "text": "AEON PERMAS JAYA",
+   "conf": 0.9623234048485756
+  },
+  {
+   "text": "TEL 1-300-80-AE0N (2366)",
+   "conf": 0.9519530609250069
+  },
+  {
+   "text": "THANK YOU FOR YOUR PATRONAGE",
+   "conf": 0.9823643607752663
+  },
+  {
+   "text": "PLEASE COME AGAIN",
+   "conf": 0.9855465959100163
+  }
+ ],
+ "mean_conf": 0.9753,
+ "low_conf_share": 0.0,
+ "latency_ms": 5511,
+ "fields": {
+  "company": "AEON CO BHD",
+  "date": "2018-06-03",
+  "total": 79.45
+ },
+ "rule_reasons": [
+  "total_multiple_strong_amounts"
+ ],
+ "total_candidates": [
+  79.44,
+  79.45
+ ],
+ "key": "X51007846379"
+}

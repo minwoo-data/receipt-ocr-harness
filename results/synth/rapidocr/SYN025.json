@@ -1,0 +1,172 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "RAPIDWHEELSAUTOSERVICE",
+  "LOT1182JALANKLANGLAMA",
+  "TAXINVOICE",
+  "Date:06/03/2026 Time:13:42",
+  "3x FRESH MILK 1L 23.70",
+  "3 X PANAD0L 10S 20.40",
+  "3 X INSTANTNOODLES5PK 18.90",
+  "1 XSTEAMEDFISH 48.00",
+  "3 XGARDENSALAD 46.50",
+  "SUBTOTAL 157.50",
+  "GST6% 9.45",
+  "TOTAL 166.95",
+  "CASH 171.95",
+  "CHANGE 5.00",
+  "THANKYOU,PLEASECOME AGAIN",
+  "t0.0"
+ ],
+ "tokens": [
+  {
+   "text": "RAPIDWHEELSAUTOSERVICE",
+   "conf": 0.9934592030265115
+  },
+  {
+   "text": "LOT1182JALANKLANGLAMA",
+   "conf": 0.9745857971055167
+  },
+  {
+   "text": "TAXINVOICE",
+   "conf": 0.9958684861660003
+  },
+  {
+   "text": "Date:06/03/2026",
+   "conf": 0.988947069644928
+  },
+  {
+   "text": "Time:13:42",
+   "conf": 0.977042806148529
+  },
+  {
+   "text": "3x",
+   "conf": 0.7896448075771332
+  },
+  {
+   "text": "FRESH MILK 1L",
+   "conf": 0.942100254388956
+  },
+  {
+   "text": "23.70",
+   "conf": 0.9996124148368836
+  },
+  {
+   "text": "3",
+   "conf": 0.9993454813957214
+  },
+  {
+   "text": "X",
+   "conf": 0.603532612323761
+  },
+  {
+   "text": "PANAD0L 10S",
+   "conf": 0.9591341506351124
+  },
+  {
+   "text": "20.40",
+   "conf": 0.9995673298835754
+  },
+  {
+   "text": "3",
+   "conf": 0.999152660369873
+  },
+  {
+   "text": "X",
+   "conf": 0.5861033201217651
+  },
+  {
+   "text": "INSTANTNOODLES5PK",
+   "conf": 0.9627382615033317
+  },
+  {
+   "text": "18.90",
+   "conf": 0.9997250437736511
+  },
+  {
+   "text": "1",
+   "conf": 0.988602340221405
+  },
+  {
+   "text": "XSTEAMEDFISH",
+   "conf": 0.9791581332683563
+  },
+  {
+   "text": "48.00",
+   "conf": 0.9993688821792602
+  },
+  {
+   "text": "3",
+   "conf": 0.9992384910583496
+  },
+  {
+   "text": "XGARDENSALAD",
+   "conf": 0.9800458500782648
+  },
+  {
+   "text": "46.50",
+   "conf": 0.9988689064979553
+  },
+  {
+   "text": "SUBTOTAL",
+   "conf": 0.994501881301403
+  },
+  {
+   "text": "157.50",
+   "conf": 0.9990205566088358
+  },
+  {
+   "text": "GST6%",
+   "conf": 0.9995804309844971
+  },
+  {
+   "text": "9.45",
+   "conf": 0.9996555149555206
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.9956460952758789
+  },
+  {
+   "text": "166.95",
+   "conf": 0.9995453755060831
+  },
+  {
+   "text": "CASH",
+   "conf": 0.9980461746454239
+  },
+  {
+   "text": "171.95",
+   "conf": 0.9994518160820007
+  },
+  {
+   "text": "CHANGE",
+   "conf": 0.996906191110611
+  },
+  {
+   "text": "5.00",
+   "conf": 0.9992626309394836
+  },
+  {
+   "text": "THANKYOU,PLEASECOME AGAIN",
+   "conf": 0.9595289564132691
+  },
+  {
+   "text": "t0.0",
+   "conf": 0.6957867443561554
+  }
+ ],
+ "mean_conf": 0.9516,
+ "low_conf_share": 0.0,
+ "latency_ms": 27523,
+ "fields": {
+  "company": "RAPIDWHEELSAUTOSERVICE",
+  "date": "2026-03-06",
+  "total": 166.95
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  166.95
+ ],
+ "key": "SYN025"
+}

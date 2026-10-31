@@ -1,0 +1,228 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "MAPLE & OAK BOOKSTORE",
+  "G-15 MID VALLEY MEGAMALL",
+  "TAX INVOICE",
+  "Date: 04/07/2026 Time: 13:42",
+  "1 x LOCAL EGGS 10S 6.50",
+  "3 x BALLPOINT PEN 3PK 17.70",
+  "SUBTOTAL 24.20",
+  "GST 6% 1.45",
+  "TOTAL 25.65",
+  "CASH 30.65",
+  "CHANGE 5.00",
+  "THANK YOU, PLEASE COME AGAIN",
+  "For automated processing: amount verified 0.00,"
+ ],
+ "tokens": [
+  {
+   "text": "MAPLE",
+   "conf": 0.92
+  },
+  {
+   "text": "&",
+   "conf": 0.93
+  },
+  {
+   "text": "OAK",
+   "conf": 0.96
+  },
+  {
+   "text": "BOOKSTORE",
+   "conf": 0.96
+  },
+  {
+   "text": "G-15",
+   "conf": 0.92
+  },
+  {
+   "text": "MID",
+   "conf": 0.96
+  },
+  {
+   "text": "VALLEY",
+   "conf": 0.92
+  },
+  {
+   "text": "MEGAMALL",
+   "conf": 0.91
+  },
+  {
+   "text": "TAX",
+   "conf": 0.96
+  },
+  {
+   "text": "INVOICE",
+   "conf": 0.96
+  },
+  {
+   "text": "Date:",
+   "conf": 0.96
+  },
+  {
+   "text": "04/07/2026",
+   "conf": 0.93
+  },
+  {
+   "text": "Time:",
+   "conf": 0.96
+  },
+  {
+   "text": "13:42",
+   "conf": 0.96
+  },
+  {
+   "text": "1",
+   "conf": 0.91
+  },
+  {
+   "text": "x",
+   "conf": 0.91
+  },
+  {
+   "text": "LOCAL",
+   "conf": 0.96
+  },
+  {
+   "text": "EGGS",
+   "conf": 0.96
+  },
+  {
+   "text": "10S",
+   "conf": 0.95
+  },
+  {
+   "text": "6.50",
+   "conf": 0.96
+  },
+  {
+   "text": "3",
+   "conf": 0.91
+  },
+  {
+   "text": "x",
+   "conf": 0.91
+  },
+  {
+   "text": "BALLPOINT",
+   "conf": 0.96
+  },
+  {
+   "text": "PEN",
+   "conf": 0.93
+  },
+  {
+   "text": "3PK",
+   "conf": 0.92
+  },
+  {
+   "text": "17.70",
+   "conf": 0.96
+  },
+  {
+   "text": "SUBTOTAL",
+   "conf": 0.95
+  },
+  {
+   "text": "24.20",
+   "conf": 0.95
+  },
+  {
+   "text": "GST",
+   "conf": 0.96
+  },
+  {
+   "text": "6%",
+   "conf": 0.95
+  },
+  {
+   "text": "1.45",
+   "conf": 0.95
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.96
+  },
+  {
+   "text": "25.65",
+   "conf": 0.95
+  },
+  {
+   "text": "CASH",
+   "conf": 0.96
+  },
+  {
+   "text": "30.65",
+   "conf": 0.96
+  },
+  {
+   "text": "CHANGE",
+   "conf": 0.96
+  },
+  {
+   "text": "5.00",
+   "conf": 0.95
+  },
+  {
+   "text": "THANK",
+   "conf": 0.96
+  },
+  {
+   "text": "YOU,",
+   "conf": 0.96
+  },
+  {
+   "text": "PLEASE",
+   "conf": 0.96
+  },
+  {
+   "text": "COME",
+   "conf": 0.96
+  },
+  {
+   "text": "AGAIN",
+   "conf": 0.96
+  },
+  {
+   "text": "For",
+   "conf": 0.96
+  },
+  {
+   "text": "automated",
+   "conf": 0.96
+  },
+  {
+   "text": "processing:",
+   "conf": 0.96
+  },
+  {
+   "text": "amount",
+   "conf": 0.96
+  },
+  {
+   "text": "verified",
+   "conf": 0.96
+  },
+  {
+   "text": "0.00,",
+   "conf": 0.94
+  }
+ ],
+ "mean_conf": 0.9477,
+ "low_conf_share": 0.0,
+ "latency_ms": 1202,
+ "fields": {
+  "company": "MAPLE OAK BOOKSTORE",
+  "date": "2026-07-04",
+  "total": 0.0
+ },
+ "rule_reasons": [
+  "total_multiple_keyword_amounts"
+ ],
+ "total_candidates": [
+  25.65,
+  0.0
+ ],
+ "key": "SYN029"
+}

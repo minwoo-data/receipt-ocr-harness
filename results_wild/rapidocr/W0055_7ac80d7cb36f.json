@@ -1,0 +1,178 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "Subway#2457-0Phone858-668-7300",
+  "12624PoayrdA#14",
+  "Poway.CA,92064",
+  "Served by:RobertJr3/21/20166:49:00p",
+  "Term ID-Irans#1/A-57332",
+  "Qty Size Item Price",
+  "1 21oz FountainDrink 1.75",
+  "1 Manager Meal 100% Off Menu 0.00",
+  "1 6\"-Turkey Sub 0.00",
+  "1 SOTD 6in Turkey 3.50",
+  "1 5-Turkey Sub",
+  "Sub Total 5.25",
+  "Taxable Amount 1.75",
+  "Sales Tax（8%) 0.14",
+  "Total(TakeOut) 5.39",
+  "Cash 5.50",
+  "Change 0.11",
+  "Consider us for your next football party's",
+  "catering needs.668-7300"
+ ],
+ "tokens": [
+  {
+   "text": "Subway#2457-0Phone858-668-7300",
+   "conf": 0.9552536686261495
+  },
+  {
+   "text": "12624PoayrdA#14",
+   "conf": 0.9468104839324951
+  },
+  {
+   "text": "Poway.CA,92064",
+   "conf": 0.9185541953359332
+  },
+  {
+   "text": "Served by:RobertJr3/21/20166:49:00p",
+   "conf": 0.9502603139196123
+  },
+  {
+   "text": "Term ID-Irans#1/A-57332",
+   "conf": 0.9431978101315706
+  },
+  {
+   "text": "Qty Size Item",
+   "conf": 0.9436547710345342
+  },
+  {
+   "text": "Price",
+   "conf": 0.9672910571098328
+  },
+  {
+   "text": "1",
+   "conf": 0.9760284423828125
+  },
+  {
+   "text": "21oz FountainDrink",
+   "conf": 0.9082056283950806
+  },
+  {
+   "text": "1.75",
+   "conf": 0.9969392567873001
+  },
+  {
+   "text": "1",
+   "conf": 0.9847724437713623
+  },
+  {
+   "text": "Manager Meal 100% Off Menu 0.00",
+   "conf": 0.9141801557233257
+  },
+  {
+   "text": "1",
+   "conf": 0.9854493737220764
+  },
+  {
+   "text": "6\"-Turkey Sub",
+   "conf": 0.9363441857007834
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9942044913768768
+  },
+  {
+   "text": "1",
+   "conf": 0.8738647699356079
+  },
+  {
+   "text": "SOTD 6in Turkey",
+   "conf": 0.9152154048283895
+  },
+  {
+   "text": "3.50",
+   "conf": 0.9966275840997696
+  },
+  {
+   "text": "1",
+   "conf": 0.83514803647995
+  },
+  {
+   "text": "5-Turkey Sub",
+   "conf": 0.9437558452288309
+  },
+  {
+   "text": "Sub Total",
+   "conf": 0.9649438261985779
+  },
+  {
+   "text": "5.25",
+   "conf": 0.9961646646261215
+  },
+  {
+   "text": "Taxable Amount",
+   "conf": 0.9757016386304583
+  },
+  {
+   "text": "1.75",
+   "conf": 0.9951972216367722
+  },
+  {
+   "text": "Sales Tax（8%)",
+   "conf": 0.8975345767461337
+  },
+  {
+   "text": "0.14",
+   "conf": 0.9957624226808548
+  },
+  {
+   "text": "Total(TakeOut)",
+   "conf": 0.9222756411348071
+  },
+  {
+   "text": "5.39",
+   "conf": 0.9976527690887451
+  },
+  {
+   "text": "Cash",
+   "conf": 0.9909316748380661
+  },
+  {
+   "text": "5.50",
+   "conf": 0.9935541898012161
+  },
+  {
+   "text": "Change",
+   "conf": 0.9936908185482025
+  },
+  {
+   "text": "0.11",
+   "conf": 0.9973209351301193
+  },
+  {
+   "text": "Consider us for your next football party's",
+   "conf": 0.9404790798823038
+  },
+  {
+   "text": "catering needs.668-7300",
+   "conf": 0.9728107581967893
+  }
+ ],
+ "mean_conf": 0.9565,
+ "low_conf_share": 0.0,
+ "latency_ms": 3307,
+ "fields": {
+  "company": "TERM ID IRANS 1 A",
+  "date": "2016-03-21",
+  "total": 5.39
+ },
+ "rule_reasons": [
+  "total_multiple_keyword_amounts"
+ ],
+ "total_candidates": [
+  1.75,
+  5.39
+ ],
+ "key": "W0055_7ac80d7cb36f"
+}

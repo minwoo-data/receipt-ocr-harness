@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.6-flash",
+ "provider": "gemini",
+ "raw_text": "{\"vendor\": \"KEDAI PAPAN YEW CHUAN\", \"date\": \"2018-03-16\", \"subtotal\": 128.0, \"tax\": 7.68, \"tip\": null, \"discount\": 0.0, \"total\": 135.68, \"currency\": \"MYR\", \"confidence\": 0.95, \"notes\": null}",
+ "data": {
+  "vendor": "KEDAI PAPAN YEW CHUAN",
+  "date": "2018-03-16",
+  "subtotal": 128.0,
+  "tax": 7.68,
+  "tip": null,
+  "discount": 0.0,
+  "total": 135.68,
+  "currency": "MYR",
+  "confidence": 0.95,
+  "notes": null
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1440,
+  "output_tokens": 95,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.001436,
+ "latency_ms": 1565,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.6-flash",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.6-flash"
+ ],
+ "key": "X51005724624"
+}

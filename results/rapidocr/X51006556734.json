@@ -1,0 +1,334 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "GARDENIABAKERIES(KL)SDNBHD(139386X)",
+  "Lot3,JalanPelabur 23/1,",
+  "40300ShahAlam,Selangor.",
+  "Tel:03-55423228Fax:03-55423213",
+  "GSTID:000381399040",
+  "TAXINVOICE/ADJUSTMENT NOTE",
+  "Cash Inv No.:7804F712",
+  "VE0S14 Date:04/08/2017",
+  "MAKASSARFRESH MARKETSDN BHD",
+  "GROUND FL0OR，NO.4&6,",
+  "JALANSS15/4B,",
+  "475OO SUBANG JAYA,SELANGOR",
+  "VE05:Azlan(3737)",
+  "DD:04/08/2017 10:56",
+  "Description U.P Iss ExC D Sale Amt(RM)",
+  "O.C.WHITE 2.13 4 5 -1 -2.13",
+  "O.CJUMBO 2.97 5 2 3 8.91",
+  "Total 0% supplies: 6.78",
+  "CR-CHOCLT 0.72 24 24 17.28",
+  "TWG T'MISU 1.33 2 -2 -2.66",
+  "KAYA-ORI 2.40 4 4 9.60",
+  "Total 6% supplies (excl. GST): 24.22",
+  "GST: 1.46",
+  "Total 6% supplies (Inc. GST): 25.68",
+  "Total 0% supplies: 6.78",
+  "Total Payable: 32.46",
+  "E.&.O.E.",
+  "Receivedabove goodsingoodordercondition.",
+  "The recipientof Gardenia'sproductsis",
+  "required tomake necessary adjustments to its",
+  "input tax claims，cn the basicofthe",
+  "adjustmentsshowninthisTaxInvoice/",
+  "Adjustment Note",
+  "CUSTOMER'SCOPY"
+ ],
+ "tokens": [
+  {
+   "text": "GARDENIABAKERIES(KL)SDNBHD(139386X)",
+   "conf": 0.9598356757845198
+  },
+  {
+   "text": "Lot3,JalanPelabur 23/1,",
+   "conf": 0.9540719130764836
+  },
+  {
+   "text": "40300ShahAlam,Selangor.",
+   "conf": 0.9864516983861509
+  },
+  {
+   "text": "Tel:03-55423228Fax:03-55423213",
+   "conf": 0.9858970046043396
+  },
+  {
+   "text": "GSTID:000381399040",
+   "conf": 0.9704763061470456
+  },
+  {
+   "text": "TAXINVOICE/ADJUSTMENT NOTE",
+   "conf": 0.976087918648353
+  },
+  {
+   "text": "Cash Inv No.:7804F712",
+   "conf": 0.9553808683440799
+  },
+  {
+   "text": "VE0S14",
+   "conf": 0.9691057403882345
+  },
+  {
+   "text": "Date:04/08/2017",
+   "conf": 0.9852155685424805
+  },
+  {
+   "text": "MAKASSARFRESH MARKETSDN BHD",
+   "conf": 0.9595745272106595
+  },
+  {
+   "text": "GROUND FL0OR，NO.4&6,",
+   "conf": 0.8739800587296486
+  },
+  {
+   "text": "JALANSS15/4B,",
+   "conf": 0.9294954171547523
+  },
+  {
+   "text": "475OO SUBANG JAYA,SELANGOR",
+   "conf": 0.9429284769755143
+  },
+  {
+   "text": "VE05:Azlan(3737)",
+   "conf": 0.959830354899168
+  },
+  {
+   "text": "DD:04/08/2017",
+   "conf": 0.9908724289674026
+  },
+  {
+   "text": "10:56",
+   "conf": 0.9790813207626343
+  },
+  {
+   "text": "Description",
+   "conf": 0.9943416823040355
+  },
+  {
+   "text": "U.P",
+   "conf": 0.9468649625778198
+  },
+  {
+   "text": "Iss",
+   "conf": 0.9181199868520101
+  },
+  {
+   "text": "ExC",
+   "conf": 0.7987031936645508
+  },
+  {
+   "text": "D",
+   "conf": 0.9876309037208557
+  },
+  {
+   "text": "Sale",
+   "conf": 0.9744470864534378
+  },
+  {
+   "text": "Amt(RM)",
+   "conf": 0.8608677812985012
+  },
+  {
+   "text": "O.C.WHITE",
+   "conf": 0.9785238769319322
+  },
+  {
+   "text": "2.13",
+   "conf": 0.9971809536218643
+  },
+  {
+   "text": "4",
+   "conf": 0.9974790215492249
+  },
+  {
+   "text": "5",
+   "conf": 0.9896514415740967
+  },
+  {
+   "text": "-1",
+   "conf": 0.9633379578590393
+  },
+  {
+   "text": "-2.13",
+   "conf": 0.9727896332740784
+  },
+  {
+   "text": "O.CJUMBO",
+   "conf": 0.9353367313742638
+  },
+  {
+   "text": "2.97",
+   "conf": 0.9962930083274841
+  },
+  {
+   "text": "5",
+   "conf": 0.8860920071601868
+  },
+  {
+   "text": "2",
+   "conf": 0.9910755157470703
+  },
+  {
+   "text": "3",
+   "conf": 0.9800280332565308
+  },
+  {
+   "text": "8.91",
+   "conf": 0.9969967007637024
+  },
+  {
+   "text": "Total 0% supplies:",
+   "conf": 0.9439172347386678
+  },
+  {
+   "text": "6.78",
+   "conf": 0.998781681060791
+  },
+  {
+   "text": "CR-CHOCLT",
+   "conf": 0.9897265103128221
+  },
+  {
+   "text": "0.72",
+   "conf": 0.9882998466491699
+  },
+  {
+   "text": "24",
+   "conf": 0.9988821744918823
+  },
+  {
+   "text": "24",
+   "conf": 0.9978341460227966
+  },
+  {
+   "text": "17.28",
+   "conf": 0.9975246906280517
+  },
+  {
+   "text": "TWG T'MISU",
+   "conf": 0.9382748603820801
+  },
+  {
+   "text": "1.33",
+   "conf": 0.9131121635437012
+  },
+  {
+   "text": "2",
+   "conf": 0.9941734671592712
+  },
+  {
+   "text": "-2",
+   "conf": 0.9173491895198822
+  },
+  {
+   "text": "-2.66",
+   "conf": 0.9912966966629029
+  },
+  {
+   "text": "KAYA-ORI",
+   "conf": 0.9907310158014297
+  },
+  {
+   "text": "2.40",
+   "conf": 0.9903120547533035
+  },
+  {
+   "text": "4",
+   "conf": 0.9990813732147217
+  },
+  {
+   "text": "4",
+   "conf": 0.9984328150749207
+  },
+  {
+   "text": "9.60",
+   "conf": 0.9978181570768356
+  },
+  {
+   "text": "Total 6% supplies (excl. GST):",
+   "conf": 0.9740799228350322
+  },
+  {
+   "text": "24.22",
+   "conf": 0.9822694659233093
+  },
+  {
+   "text": "GST:",
+   "conf": 0.9904516041278839
+  },
+  {
+   "text": "1.46",
+   "conf": 0.9962445348501205
+  },
+  {
+   "text": "Total 6% supplies (Inc. GST):",
+   "conf": 0.9615375420142864
+  },
+  {
+   "text": "25.68",
+   "conf": 0.9976019501686096
+  },
+  {
+   "text": "Total 0% supplies:",
+   "conf": 0.9558703998724619
+  },
+  {
+   "text": "6.78",
+   "conf": 0.9975613504648209
+  },
+  {
+   "text": "Total Payable:",
+   "conf": 0.964564106294087
+  },
+  {
+   "text": "32.46",
+   "conf": 0.9972747206687927
+  },
+  {
+   "text": "E.&.O.E.",
+   "conf": 0.9004270955920219
+  },
+  {
+   "text": "Receivedabove goodsingoodordercondition.",
+   "conf": 0.9806407481431961
+  },
+  {
+   "text": "The recipientof Gardenia'sproductsis",
+   "conf": 0.9620342685116662
+  },
+  {
+   "text": "required tomake necessary adjustments to its",
+   "conf": 0.9506912190805782
+  },
+  {
+   "text": "input tax claims，cn the basicofthe",
+   "conf": 0.8981335540028179
+  },
+  {
+   "text": "adjustmentsshowninthisTaxInvoice/",
+   "conf": 0.9878777301672733
+  },
+  {
+   "text": "Adjustment Note",
+   "conf": 0.9625939091046651
+  },
+  {
+   "text": "CUSTOMER'SCOPY",
+   "conf": 0.9897436286721911
+  }
+ ],
+ "mean_conf": 0.9663,
+ "low_conf_share": 0.0,
+ "latency_ms": 6359,
+ "fields": {
+  "company": "GARDENIABAKERIES SDNBHD",
+  "date": "2017-08-04",
+  "total": 32.46
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  32.46
+ ],
+ "key": "X51006556734"
+}

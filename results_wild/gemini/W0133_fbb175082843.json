@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.6-flash",
+ "provider": "gemini",
+ "raw_text": "{\"vendor\":\"THE REAL GREEK\",\"date\":\"2009-10-21\",\"subtotal\":null,\"tax\":null,\"tip\":null,\"discount\":-14.3,\"total\":31.8,\"currency\":\"GBP\",\"confidence\":0.95,\"notes\":null}",
+ "data": {
+  "vendor": "THE REAL GREEK",
+  "date": "2009-10-21",
+  "subtotal": null,
+  "tax": null,
+  "tip": null,
+  "discount": -14.3,
+  "total": 31.8,
+  "currency": "GBP",
+  "confidence": 0.95,
+  "notes": null
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1449,
+  "output_tokens": 65,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.001331,
+ "latency_ms": 1339,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.6-flash",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.6-flash"
+ ],
+ "key": "W0133_fbb175082843"
+}

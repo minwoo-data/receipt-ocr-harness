@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.6-flash",
+ "provider": "gemini",
+ "raw_text": "{\"vendor\":\"Eco-Shop Marketing Sdn Bhd\",\"date\":\"2018-02-26\",\"subtotal\":16.31,\"tax\":0.91,\"tip\":null,\"discount\":-0.01,\"total\":16.3,\"currency\":\"MYR\",\"confidence\":0.95,\"notes\":null}",
+ "data": {
+  "vendor": "Eco-Shop Marketing Sdn Bhd",
+  "date": "2018-02-26",
+  "subtotal": 16.31,
+  "tax": 0.91,
+  "tip": null,
+  "discount": -0.01,
+  "total": 16.3,
+  "currency": "MYR",
+  "confidence": 0.95,
+  "notes": null
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1467,
+  "output_tokens": 74,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.001378,
+ "latency_ms": 1732,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.6-flash",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.6-flash"
+ ],
+ "key": "X51006882603"
+}

@@ -1,0 +1,144 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "Dion Realties Sdn Bhd (Co. No:20154-T)",
+  "(GST Registration No : 000850247680)",
+  "Henara Dian #02-03, Level 2,",
+  "27, Jalan Sultan Ismail,",
+  "50250 Kuala Lunpur.",
+  "Tel : +6 03 2026 6386",
+  "Fax:+60320266387",
+  ">>>TAX INUOICE<<<",
+  "Tax Invoice no.3521/0602/00602",
+  "30/05/18 11:01",
+  "010i00 Pay parkinig ticket 5.00RM",
+  "30/05/1810:45-30/05/1B11:01",
+  "Length of stay: 0 Dy. 0 Hr. 16 Hin.",
+  "0299288700201101815038704072",
+  "Anount Incl. GST 5.00 RM",
+  "Accaptad total 5.00 RM",
+  "GST 6% 0.28RH",
+  "********★*",
+  "** Thank you **",
+  "*******"
+ ],
+ "tokens": [
+  {
+   "text": "Dion Realties Sdn Bhd (Co. No:20154-T)",
+   "conf": 0.9683903565532282
+  },
+  {
+   "text": "(GST Registration No : 000850247680)",
+   "conf": 0.9667418168650733
+  },
+  {
+   "text": "Henara Dian #02-03, Level 2,",
+   "conf": 0.8875277276550021
+  },
+  {
+   "text": "27, Jalan Sultan Ismail,",
+   "conf": 0.9630971476435661
+  },
+  {
+   "text": "50250 Kuala Lunpur.",
+   "conf": 0.9648318039743524
+  },
+  {
+   "text": "Tel : +6 03 2026 6386",
+   "conf": 0.9294424255688986
+  },
+  {
+   "text": "Fax:+60320266387",
+   "conf": 0.9747767448425293
+  },
+  {
+   "text": ">>>TAX INUOICE<<<",
+   "conf": 0.8818011844859404
+  },
+  {
+   "text": "Tax Invoice no.3521/0602/00602",
+   "conf": 0.953297292192777
+  },
+  {
+   "text": "30/05/18 11:01",
+   "conf": 0.9769346926893506
+  },
+  {
+   "text": "010i00 Pay parkinig ticket",
+   "conf": 0.8769008333866413
+  },
+  {
+   "text": "5.00RM",
+   "conf": 0.9118205606937408
+  },
+  {
+   "text": "30/05/1810:45-30/05/1B11:01",
+   "conf": 0.9687071045239767
+  },
+  {
+   "text": "Length of stay: 0 Dy. 0 Hr. 16 Hin.",
+   "conf": 0.9346889121191843
+  },
+  {
+   "text": "0299288700201101815038704072",
+   "conf": 0.9586402241672788
+  },
+  {
+   "text": "Anount Incl. GST",
+   "conf": 0.9372579492628574
+  },
+  {
+   "text": "5.00 RM",
+   "conf": 0.905000592981066
+  },
+  {
+   "text": "Accaptad total",
+   "conf": 0.9310273570673806
+  },
+  {
+   "text": "5.00 RM",
+   "conf": 0.9170802235603333
+  },
+  {
+   "text": "GST 6%",
+   "conf": 0.9053831100463867
+  },
+  {
+   "text": "0.28RH",
+   "conf": 0.9557688434918722
+  },
+  {
+   "text": "********★*",
+   "conf": 0.8922671943902969
+  },
+  {
+   "text": "**",
+   "conf": 0.9092684388160706
+  },
+  {
+   "text": "Thank you",
+   "conf": 0.9357807040214539
+  },
+  {
+   "text": "**",
+   "conf": 0.9752285182476044
+  },
+  {
+   "text": "*******",
+   "conf": 0.9948651194572449
+  }
+ ],
+ "mean_conf": 0.9376,
+ "low_conf_share": 0.0,
+ "latency_ms": 3951,
+ "fields": {
+  "company": "DION REALTIES SDN BHD",
+  "date": "2018-05-30",
+  "total": 5.0
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  5.0
+ ],
+ "key": "X51008123446"
+}

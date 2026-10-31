@@ -1,0 +1,234 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "SANYUSTATIONERYSHOP",
+  "NO.31G&33G,JALANSETIAINDAHX,U13/X",
+  "40170SETIAALAM",
+  "Mobile/Whatsapps:+6012-9187937",
+  "Tel:+603-33624137",
+  "GSTID No:001531760640 TAXINVOICE",
+  "Owned By:",
+  "SANYUSUPPLYSDNBHD(1135772-K)",
+  "CASHSALESCOUNTER",
+  "1.2002-0001 LAMINATINGFILM A4SIZE",
+  "(220MMX310MM)",
+  "1X3.0000 3.00 SR",
+  "Total SalesInclusiveGST@6% 3.00",
+  "Discount 0.00",
+  "Total 3.00",
+  "RoundAdy 0.00",
+  "FinzrTotal 3.00",
+  "CASH 20.00",
+  "CHANGE 17.00",
+  "GST Summary Amount(RM) Tax(RM)",
+  "SR @ 6% 2.83 0.17",
+  "INVNO:CS-SA-0078908 Date:18/04/2017",
+  "Goodssold arenotReturnable&.Refundable",
+  "THANKYOUFORYOURPATRONAGE",
+  "PLEASECOMEAGAIN.",
+  "TERIMAKASIHSILADATANGLAGI",
+  "**PLEASEKEEPTHISRECEIPTFORPROVEOF",
+  "PURCHASEDATEFORI.TPRODUCTWARRANTY",
+  "PURPOSE **",
+  "FollowusinFacebook:Sanyu.Stationery"
+ ],
+ "tokens": [
+  {
+   "text": "SANYUSTATIONERYSHOP",
+   "conf": 0.9683233970089963
+  },
+  {
+   "text": "NO.31G&33G,JALANSETIAINDAHX,U13/X",
+   "conf": 0.9320701523260637
+  },
+  {
+   "text": "40170SETIAALAM",
+   "conf": 0.9859429725578853
+  },
+  {
+   "text": "Mobile/Whatsapps:+6012-9187937",
+   "conf": 0.9759329120318095
+  },
+  {
+   "text": "Tel:+603-33624137",
+   "conf": 0.9935985803604126
+  },
+  {
+   "text": "GSTID No:001531760640",
+   "conf": 0.9577764301072984
+  },
+  {
+   "text": "TAXINVOICE",
+   "conf": 0.9948916435241699
+  },
+  {
+   "text": "Owned By:",
+   "conf": 0.9430654048919678
+  },
+  {
+   "text": "SANYUSUPPLYSDNBHD(1135772-K)",
+   "conf": 0.963433346578053
+  },
+  {
+   "text": "CASHSALESCOUNTER",
+   "conf": 0.9869884997606277
+  },
+  {
+   "text": "1.2002-0001",
+   "conf": 0.9973370757969943
+  },
+  {
+   "text": "LAMINATINGFILM A4SIZE",
+   "conf": 0.970391415414356
+  },
+  {
+   "text": "(220MMX310MM)",
+   "conf": 0.9277886289816636
+  },
+  {
+   "text": "1X3.0000",
+   "conf": 0.9566947519779205
+  },
+  {
+   "text": "3.00",
+   "conf": 0.9978665709495544
+  },
+  {
+   "text": "SR",
+   "conf": 0.9880280196666718
+  },
+  {
+   "text": "Total SalesInclusiveGST@6%",
+   "conf": 0.9558960222280942
+  },
+  {
+   "text": "3.00",
+   "conf": 0.9983609467744827
+  },
+  {
+   "text": "Discount",
+   "conf": 0.9920577183365822
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9972502887248993
+  },
+  {
+   "text": "Total",
+   "conf": 0.9906205654144287
+  },
+  {
+   "text": "3.00",
+   "conf": 0.9982962608337402
+  },
+  {
+   "text": "RoundAdy",
+   "conf": 0.9075704030692577
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9981610625982285
+  },
+  {
+   "text": "FinzrTotal",
+   "conf": 0.8507791101932526
+  },
+  {
+   "text": "3.00",
+   "conf": 0.9982927739620209
+  },
+  {
+   "text": "CASH",
+   "conf": 0.9927483052015305
+  },
+  {
+   "text": "20.00",
+   "conf": 0.9989255785942077
+  },
+  {
+   "text": "CHANGE",
+   "conf": 0.9958495398362478
+  },
+  {
+   "text": "17.00",
+   "conf": 0.9975715756416321
+  },
+  {
+   "text": "GST Summary",
+   "conf": 0.9579084082083269
+  },
+  {
+   "text": "Amount(RM)",
+   "conf": 0.9269626259803772
+  },
+  {
+   "text": "Tax(RM)",
+   "conf": 0.9180321863719395
+  },
+  {
+   "text": "SR @ 6%",
+   "conf": 0.9582669479506356
+  },
+  {
+   "text": "2.83",
+   "conf": 0.9987659305334091
+  },
+  {
+   "text": "0.17",
+   "conf": 0.9945364147424698
+  },
+  {
+   "text": "INVNO:CS-SA-0078908",
+   "conf": 0.9909844900432386
+  },
+  {
+   "text": "Date:18/04/2017",
+   "conf": 0.9646775960922241
+  },
+  {
+   "text": "Goodssold arenotReturnable&.Refundable",
+   "conf": 0.9645106384628698
+  },
+  {
+   "text": "THANKYOUFORYOURPATRONAGE",
+   "conf": 0.9922593956192335
+  },
+  {
+   "text": "PLEASECOMEAGAIN.",
+   "conf": 0.9571402743458748
+  },
+  {
+   "text": "TERIMAKASIHSILADATANGLAGI",
+   "conf": 0.9779244494438172
+  },
+  {
+   "text": "**PLEASEKEEPTHISRECEIPTFORPROVEOF",
+   "conf": 0.9743308569445754
+  },
+  {
+   "text": "PURCHASEDATEFORI.TPRODUCTWARRANTY",
+   "conf": 0.9851352987867413
+  },
+  {
+   "text": "PURPOSE **",
+   "conf": 0.9497612178325653
+  },
+  {
+   "text": "FollowusinFacebook:Sanyu.Stationery",
+   "conf": 0.9905618684632438
+  }
+ ],
+ "mean_conf": 0.972,
+ "low_conf_share": 0.0,
+ "latency_ms": 4842,
+ "fields": {
+  "company": "SANYUSTATIONERYSHOP",
+  "date": "2017-04-18",
+  "total": 3.0
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  3.0
+ ],
+ "key": "X51007339100"
+}

@@ -1,0 +1,170 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "WELCOME TG",
+  "MARINA SHELL",
+  "57444480800",
+  "SHELL OIL PRODUCTS US",
+  "2175 MARINA BLND",
+  "SANLEANDR0CA94577",
+  "Description aty Auount",
+  "SUPER WASH 1 9.00",
+  "Subtotal 9.00",
+  "Tax 0.00",
+  "TOTAL 9.00",
+  "CASH $ 9.00",
+  "Your 5 digit Car Wash code（s)",
+  "SUPER WASH 26455",
+  "Good thru Tue 01/17/17",
+  "Your Bonus Savings",
+  "Join Fuel Rewards today...",
+  "Members earn $0.10/galreward on",
+  "Shell V-Power NiTRO+all year!",
+  "Terms and conditions apply.",
+  "Offer ends 1/1/17.",
+  "See fuelrewards.com for details."
+ ],
+ "tokens": [
+  {
+   "text": "MARINA SHELL",
+   "conf": 0.9473359882831573
+  },
+  {
+   "text": "WELCOME TG",
+   "conf": 0.9517332494258881
+  },
+  {
+   "text": "57444480800",
+   "conf": 0.9934522292830728
+  },
+  {
+   "text": "SHELL OIL PRODUCTS US",
+   "conf": 0.9093268797511146
+  },
+  {
+   "text": "2175 MARINA BLND",
+   "conf": 0.8340966142714024
+  },
+  {
+   "text": "SANLEANDR0CA94577",
+   "conf": 0.9613813021603752
+  },
+  {
+   "text": "Description",
+   "conf": 0.972958732735027
+  },
+  {
+   "text": "aty",
+   "conf": 0.7388871808846792
+  },
+  {
+   "text": "Auount",
+   "conf": 0.9158926208813986
+  },
+  {
+   "text": "SUPER WASH",
+   "conf": 0.9257779002189637
+  },
+  {
+   "text": "1",
+   "conf": 0.9725863933563232
+  },
+  {
+   "text": "9.00",
+   "conf": 0.9845424890518188
+  },
+  {
+   "text": "Subtotal",
+   "conf": 0.9882424846291542
+  },
+  {
+   "text": "9.00",
+   "conf": 0.9866857975721359
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.9953471422195435
+  },
+  {
+   "text": "Tax",
+   "conf": 0.9868068695068359
+  },
+  {
+   "text": "9.00",
+   "conf": 0.9937768131494522
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9909689575433731
+  },
+  {
+   "text": "CASH",
+   "conf": 0.9939225763082504
+  },
+  {
+   "text": "$",
+   "conf": 0.7774162292480469
+  },
+  {
+   "text": "9.00",
+   "conf": 0.9960110038518906
+  },
+  {
+   "text": "Your 5 digit Car Wash code（s)",
+   "conf": 0.9062709273963139
+  },
+  {
+   "text": "SUPER WASH",
+   "conf": 0.9702154278755188
+  },
+  {
+   "text": "26455",
+   "conf": 0.998869264125824
+  },
+  {
+   "text": "Good thru Tue 01/17/17",
+   "conf": 0.9350898590954867
+  },
+  {
+   "text": "Your Bonus Savings",
+   "conf": 0.9707685576544868
+  },
+  {
+   "text": "Join Fuel Rewards today...",
+   "conf": 0.9328423417531527
+  },
+  {
+   "text": "Members earn $0.10/galreward on",
+   "conf": 0.9283323345645782
+  },
+  {
+   "text": "Shell V-Power NiTRO+all year!",
+   "conf": 0.9167993623634865
+  },
+  {
+   "text": "Terms and conditions apply.",
+   "conf": 0.9328924439571522
+  },
+  {
+   "text": "Offer ends 1/1/17.",
+   "conf": 0.9224546088112725
+  },
+  {
+   "text": "See fuelrewards.com for details.",
+   "conf": 0.9539243206381798
+  }
+ ],
+ "mean_conf": 0.9433,
+ "low_conf_share": 0.0,
+ "latency_ms": 2723,
+ "fields": {
+  "company": "MARINA SHELL",
+  "date": "2017-01-17",
+  "total": 9.0
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  9.0
+ ],
+ "key": "W0091_2b99c1df5dd5"
+}

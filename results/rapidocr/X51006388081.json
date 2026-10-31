@@ -1,0 +1,261 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "KING'S CONFECTIONERY S/B 273500-U (KJ1)",
+  "NO.20-A1,JALAN SS6/3,KELANA JAYA,",
+  "47301 PETALING JAYA",
+  "SELANGOR D.E.",
+  "TEL/FAX:-03-78800732TEL:0122144371",
+  "(GST1I:000294060032）",
+  "XEI InVoiCe",
+  "Inv No :KJ130674721 Date:21/05/17 13:14",
+  "Cashier:FW1254 Ctr:01",
+  "Code Desc RH Amt",
+  "221128 S/R Coffe 1 5.50 0 5.50S",
+  "221127 S/R Choco 2 5.50 0 11.00S",
+  "221131 S/RPanda 1 5.50 0 5.508",
+  "221132 S/R Vanil 1 5.50 0 5.506",
+  "Bty 5 27.50",
+  "OST Extra Discy 0.00",
+  "Rounding Adj 0.00",
+  "Jue 27.50",
+  "Fay 30.50",
+  "27-50",
+  "Change 3.00",
+  "（TotalIncluded GST@6%:1.55）",
+  "TERIHA KASIH SILA DATANG LAGIITO",
+  "TASTY BAKING HEALTY NATION!!",
+  "eVisit us online at wuw.kings.com.ny="
+ ],
+ "tokens": [
+  {
+   "text": "KING'S CONFECTIONERY S/B 273500-U (KJ1)",
+   "conf": 0.9281323643831106
+  },
+  {
+   "text": "NO.20-A1,JALAN SS6/3,KELANA JAYA,",
+   "conf": 0.910564745014364
+  },
+  {
+   "text": "47301 PETALING JAYA",
+   "conf": 0.936844361455817
+  },
+  {
+   "text": "SELANGOR D.E.",
+   "conf": 0.9794746178847092
+  },
+  {
+   "text": "TEL/FAX:-03-78800732TEL:0122144371",
+   "conf": 0.9590666609651902
+  },
+  {
+   "text": "(GST1I:000294060032）",
+   "conf": 0.8725368395447731
+  },
+  {
+   "text": "XEI",
+   "conf": 0.7520726124445597
+  },
+  {
+   "text": "InVoiCe",
+   "conf": 0.6926928801195962
+  },
+  {
+   "text": "Inv No :KJ130674721 Date:21/05/17 13:14",
+   "conf": 0.9433177098249778
+  },
+  {
+   "text": "Cashier:FW1254",
+   "conf": 0.9400885701179504
+  },
+  {
+   "text": "Ctr:01",
+   "conf": 0.8709515084822973
+  },
+  {
+   "text": "Code",
+   "conf": 0.9878497272729874
+  },
+  {
+   "text": "Desc",
+   "conf": 0.9381025284528732
+  },
+  {
+   "text": "RH",
+   "conf": 0.7646461427211761
+  },
+  {
+   "text": "Amt",
+   "conf": 0.9012990792592367
+  },
+  {
+   "text": "221128 S/R Coffe",
+   "conf": 0.9399353004992008
+  },
+  {
+   "text": "1",
+   "conf": 0.949837863445282
+  },
+  {
+   "text": "5.50",
+   "conf": 0.9994195252656937
+  },
+  {
+   "text": "0",
+   "conf": 0.901829719543457
+  },
+  {
+   "text": "5.50S",
+   "conf": 0.9358040690422058
+  },
+  {
+   "text": "221127 S/R Choco",
+   "conf": 0.959214985370636
+  },
+  {
+   "text": "2",
+   "conf": 0.9995325803756714
+  },
+  {
+   "text": "5.50",
+   "conf": 0.997460812330246
+  },
+  {
+   "text": "0",
+   "conf": 0.7675510048866272
+  },
+  {
+   "text": "11.00S",
+   "conf": 0.9037993053595225
+  },
+  {
+   "text": "221131 S/RPanda",
+   "conf": 0.9501552025477091
+  },
+  {
+   "text": "1",
+   "conf": 0.8867232799530029
+  },
+  {
+   "text": "5.50",
+   "conf": 0.9986065924167633
+  },
+  {
+   "text": "0",
+   "conf": 0.8960758447647095
+  },
+  {
+   "text": "5.508",
+   "conf": 0.9453427076339722
+  },
+  {
+   "text": "221132 S/R Vanil",
+   "conf": 0.9155699200928211
+  },
+  {
+   "text": "1",
+   "conf": 0.9906904697418213
+  },
+  {
+   "text": "5.50",
+   "conf": 0.9976836740970612
+  },
+  {
+   "text": "0",
+   "conf": 0.9494926333427429
+  },
+  {
+   "text": "5.506",
+   "conf": 0.9153023600578308
+  },
+  {
+   "text": "Bty",
+   "conf": 0.7847504814465841
+  },
+  {
+   "text": "5",
+   "conf": 0.998034656047821
+  },
+  {
+   "text": "27.50",
+   "conf": 0.9970636248588562
+  },
+  {
+   "text": "Extra Discy",
+   "conf": 0.8975852727890015
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9930135756731033
+  },
+  {
+   "text": "OST",
+   "conf": 0.6220604876677195
+  },
+  {
+   "text": "Rounding Adj",
+   "conf": 0.969184065858523
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9922903776168823
+  },
+  {
+   "text": "Jue",
+   "conf": 0.7735893627007803
+  },
+  {
+   "text": "27.50",
+   "conf": 0.9968639373779297
+  },
+  {
+   "text": "Fay",
+   "conf": 0.8393403689066569
+  },
+  {
+   "text": "30.50",
+   "conf": 0.9962289452552795
+  },
+  {
+   "text": "27-50",
+   "conf": 0.9470303893089295
+  },
+  {
+   "text": "Change",
+   "conf": 0.9948252042134603
+  },
+  {
+   "text": "3.00",
+   "conf": 0.9979300796985626
+  },
+  {
+   "text": "（TotalIncluded GST@6%:1.55）",
+   "conf": 0.8674220575226678
+  },
+  {
+   "text": "TERIHA KASIH SILA DATANG LAGIITO",
+   "conf": 0.9027683073654771
+  },
+  {
+   "text": "TASTY BAKING HEALTY NATION!!",
+   "conf": 0.9518537542649678
+  },
+  {
+   "text": "eVisit us online at wuw.kings.com.ny=",
+   "conf": 0.9107468514829069
+  }
+ ],
+ "mean_conf": 0.9187,
+ "low_conf_share": 0.0,
+ "latency_ms": 4673,
+ "fields": {
+  "company": "KING S CONFECTIONERY S B",
+  "date": "2017-05-21",
+  "total": 1.55
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  1.55
+ ],
+ "key": "X51006388081"
+}

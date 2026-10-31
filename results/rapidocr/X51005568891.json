@@ -1,0 +1,378 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "HON HWA HARDWARE TRADING",
+  "CampanyReg.Na.:001055194x",
+  "NO37,JALANMANIS7.TAMAN SEGAR,",
+  "56100 CHERAS,KUALALUMPUR.",
+  "+603-91302672",
+  "GSTReg:001125220352",
+  "TAXINVOICE",
+  "CB#:09158 08/02/20173:43:01PM",
+  "M#:C1-0",
+  "Cashier:cash3-",
+  "Qly Descriplion Price Total(RMT,",
+  "21TOWELROD 6.00 12.00 SR",
+  "BRACKET(END)",
+  "23/4\"TOWELROD 4.00 8.00 SR",
+  "BRACKET",
+  "53/4\"TOWELROD 4.00 20.00 SR",
+  "BRACKET(END)",
+  "43/4\"TOWELROD 5.50 22.00 SR",
+  "BRACKET(ROUND)",
+  "125MMX10WALLPLUG 3.50 3.50SR",
+  "1SANDFLEXSAW 4.50 4.50SR",
+  "BLADE18T",
+  "1SCREW 7.00 7.00SR",
+  "53/4\"VBRACKET 1.50 7.50SR",
+  "61S/STEELROD 15.80 94.80SR",
+  "Item Decount 0.00",
+  "173/4\"ALUMINIUMROD 5.80 98.60 SR",
+  "44Type: 10 Total 277.90",
+  "Discount: 0.90",
+  "Rounding Adj 0.00",
+  "Tofal Inchusive GST: 277.00",
+  "CASH 277.00",
+  "GST Summary",
+  "Code % Net Amt GST Total(RM)",
+  "SR SR 261.32 15.68 277.00",
+  "Tofal 261.32 15.68 277.00",
+  "Thank you !& Please come again!!",
+  "Goodssold arenotreturnable for refundor exchange ll"
+ ],
+ "tokens": [
+  {
+   "text": "HON HWA HARDWARE TRADING",
+   "conf": 0.9538690596818924
+  },
+  {
+   "text": "CampanyReg.Na.:001055194x",
+   "conf": 0.9526752305030822
+  },
+  {
+   "text": "NO37,JALANMANIS7.TAMAN SEGAR,",
+   "conf": 0.9309606819317259
+  },
+  {
+   "text": "56100 CHERAS,KUALALUMPUR.",
+   "conf": 0.9479455637931824
+  },
+  {
+   "text": "+603-91302672",
+   "conf": 0.9958892006140488
+  },
+  {
+   "text": "GSTReg:001125220352",
+   "conf": 0.9861829469078466
+  },
+  {
+   "text": "TAXINVOICE",
+   "conf": 0.9741565167903901
+  },
+  {
+   "text": "CB#:09158",
+   "conf": 0.9436497357156541
+  },
+  {
+   "text": "08/02/20173:43:01PM",
+   "conf": 0.9765305958296123
+  },
+  {
+   "text": "M#:C1-0",
+   "conf": 0.9601390787533352
+  },
+  {
+   "text": "Cashier:cash3-",
+   "conf": 0.9919456456388746
+  },
+  {
+   "text": "Qly Descriplion",
+   "conf": 0.9163431564966837
+  },
+  {
+   "text": "Price",
+   "conf": 0.9909671425819397
+  },
+  {
+   "text": "Total(RMT,",
+   "conf": 0.9029386043548584
+  },
+  {
+   "text": "21TOWELROD",
+   "conf": 0.9429558157920838
+  },
+  {
+   "text": "6.00",
+   "conf": 0.9975231289863586
+  },
+  {
+   "text": "12.00 SR",
+   "conf": 0.9462079629302025
+  },
+  {
+   "text": "BRACKET(END)",
+   "conf": 0.9826806584993998
+  },
+  {
+   "text": "23/4\"TOWELROD",
+   "conf": 0.9394347071647644
+  },
+  {
+   "text": "4.00",
+   "conf": 0.9994810968637466
+  },
+  {
+   "text": "8.00 SR",
+   "conf": 0.9599222626004901
+  },
+  {
+   "text": "BRACKET",
+   "conf": 0.9908298764910016
+  },
+  {
+   "text": "53/4\"TOWELROD",
+   "conf": 0.9408036607962388
+  },
+  {
+   "text": "4.00",
+   "conf": 0.9992740750312805
+  },
+  {
+   "text": "20.00 SR",
+   "conf": 0.9627825543284416
+  },
+  {
+   "text": "BRACKET(END)",
+   "conf": 0.9817136774460474
+  },
+  {
+   "text": "43/4\"TOWELROD",
+   "conf": 0.9477263413942777
+  },
+  {
+   "text": "5.50",
+   "conf": 0.9990214705467224
+  },
+  {
+   "text": "22.00 SR",
+   "conf": 0.9467075318098068
+  },
+  {
+   "text": "BRACKET(ROUND)",
+   "conf": 0.9751007982662746
+  },
+  {
+   "text": "125MMX10WALLPLUG",
+   "conf": 0.9851503819227219
+  },
+  {
+   "text": "3.50",
+   "conf": 0.9980531334877014
+  },
+  {
+   "text": "3.50SR",
+   "conf": 0.9970996479193369
+  },
+  {
+   "text": "1SANDFLEXSAW",
+   "conf": 0.9878201136986414
+  },
+  {
+   "text": "4.50",
+   "conf": 0.998537078499794
+  },
+  {
+   "text": "4.50SR",
+   "conf": 0.997096449136734
+  },
+  {
+   "text": "BLADE18T",
+   "conf": 0.994328498840332
+  },
+  {
+   "text": "1SCREW",
+   "conf": 0.9878616531689962
+  },
+  {
+   "text": "7.00",
+   "conf": 0.9990788251161575
+  },
+  {
+   "text": "7.00SR",
+   "conf": 0.9962273935476939
+  },
+  {
+   "text": "53/4\"VBRACKET",
+   "conf": 0.9621405601501465
+  },
+  {
+   "text": "1.50",
+   "conf": 0.9988971650600433
+  },
+  {
+   "text": "7.50SR",
+   "conf": 0.9955198963483175
+  },
+  {
+   "text": "61S/STEELROD",
+   "conf": 0.9892918616533279
+  },
+  {
+   "text": "15.80",
+   "conf": 0.9531821131706237
+  },
+  {
+   "text": "94.80SR",
+   "conf": 0.9965094157627651
+  },
+  {
+   "text": "Item Decount",
+   "conf": 0.8819215347369512
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9986078292131424
+  },
+  {
+   "text": "173/4\"ALUMINIUMROD",
+   "conf": 0.9601074357827505
+  },
+  {
+   "text": "5.80",
+   "conf": 0.9992629289627075
+  },
+  {
+   "text": "98.60 SR",
+   "conf": 0.9435893073678017
+  },
+  {
+   "text": "44Type:",
+   "conf": 0.9613455278532845
+  },
+  {
+   "text": "10",
+   "conf": 0.9967389106750488
+  },
+  {
+   "text": "Total",
+   "conf": 0.9840814232826233
+  },
+  {
+   "text": "277.90",
+   "conf": 0.9990199605623881
+  },
+  {
+   "text": "Discount:",
+   "conf": 0.9649303754170736
+  },
+  {
+   "text": "0.90",
+   "conf": 0.9993593841791153
+  },
+  {
+   "text": "Rounding Adj",
+   "conf": 0.9564195871353149
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9992052763700485
+  },
+  {
+   "text": "Tofal Inchusive GST:",
+   "conf": 0.9382509857416153
+  },
+  {
+   "text": "277.00",
+   "conf": 0.9993373850981394
+  },
+  {
+   "text": "CASH",
+   "conf": 0.9968415200710297
+  },
+  {
+   "text": "277.00",
+   "conf": 0.9993032614390055
+  },
+  {
+   "text": "GST Summary",
+   "conf": 0.9806600375608965
+  },
+  {
+   "text": "Code",
+   "conf": 0.9918522387742996
+  },
+  {
+   "text": "%",
+   "conf": 0.9949348568916321
+  },
+  {
+   "text": "Net Amt",
+   "conf": 0.9192225166729519
+  },
+  {
+   "text": "GST",
+   "conf": 0.9961189230283102
+  },
+  {
+   "text": "Total(RM)",
+   "conf": 0.9822817511028714
+  },
+  {
+   "text": "SR",
+   "conf": 0.9896589815616608
+  },
+  {
+   "text": "SR",
+   "conf": 0.9960344135761261
+  },
+  {
+   "text": "261.32",
+   "conf": 0.9876500268777212
+  },
+  {
+   "text": "15.68",
+   "conf": 0.9889210939407349
+  },
+  {
+   "text": "277.00",
+   "conf": 0.9987323582172394
+  },
+  {
+   "text": "Tofal",
+   "conf": 0.8808100998401642
+  },
+  {
+   "text": "261.32",
+   "conf": 0.9973063667615255
+  },
+  {
+   "text": "15.68",
+   "conf": 0.9954599142074585
+  },
+  {
+   "text": "277.00",
+   "conf": 0.9990462362766266
+  },
+  {
+   "text": "Thank you !& Please come again!!",
+   "conf": 0.9276209361851215
+  },
+  {
+   "text": "Goodssold arenotreturnable for refundor exchange ll",
+   "conf": 0.9221096284249249
+  }
+ ],
+ "mean_conf": 0.9737,
+ "low_conf_share": 0.0,
+ "latency_ms": 6350,
+ "fields": {
+  "company": "HON HWA HARDWARE TRADING",
+  "date": "2017-02-08",
+  "total": 277.9
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  277.9
+ ],
+ "key": "X51005568891"
+}

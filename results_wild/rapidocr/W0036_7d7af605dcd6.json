@@ -1,0 +1,230 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "BEST BUY#909",
+  "Thousands of Possibilities,Get Yours",
+  "3Stavanger Drive,St.Johns",
+  "StorePhone #:709-754-1292",
+  "GeekSquad Precinct#:709-754-1626",
+  "Geek Squad Tol1 Free:1-800-GEEKSQUAD",
+  "Keep your receipt",
+  "Val #:0965-3800-9321-2718",
+  "0909042175507/25/14 09:37 EW9R",
+  "SALES",
+  "Kit1 44.99",
+  "羌关关关*关**关*关关**",
+  "102740447UV-00078",
+  "XBOX ONE CONSOLE",
+  "SERIAL#01",
+  "1025565053769",
+  "X1 RAYMAN LEGENDS",
+  "10304913XB1-BonusG 0.00",
+  "XB1BGW/CONSOLE PURCH",
+  "10091598REWARDZ0NE 0.00",
+  "RZ COLLECTION-CORE",
+  "SERIAL#",
+  "SUBTOTAL 44.99",
+  "HSTNF 5.85",
+  "TOTAL 50.84",
+  "RZCERT 10.00",
+  "XXXXXXXXXXXXXXXXXXXXXXXXXX6317",
+  "Iransaction Record SALE",
+  "CVISA 40.84",
+  "Appr0ved 095499",
+  "TERM:0909042E",
+  "SEQ N0:001001001419",
+  "ACI/IS0 001/00",
+  "7/25/20149:36:50"
+ ],
+ "tokens": [
+  {
+   "text": "BEST BUY#909",
+   "conf": 0.9725169390439987
+  },
+  {
+   "text": "Thousands of Possibilities,Get Yours",
+   "conf": 0.9725630150900947
+  },
+  {
+   "text": "3Stavanger Drive,St.Johns",
+   "conf": 0.9597950053215026
+  },
+  {
+   "text": "StorePhone #:709-754-1292",
+   "conf": 0.9585629820823669
+  },
+  {
+   "text": "GeekSquad Precinct#:709-754-1626",
+   "conf": 0.9291353868320584
+  },
+  {
+   "text": "Geek Squad Tol1 Free:1-800-GEEKSQUAD",
+   "conf": 0.8962079170677397
+  },
+  {
+   "text": "Keep your receipt",
+   "conf": 0.9443919027552885
+  },
+  {
+   "text": "Val #:0965-3800-9321-2718",
+   "conf": 0.9570146775245667
+  },
+  {
+   "text": "0909042175507/25/14",
+   "conf": 0.9958761271677519
+  },
+  {
+   "text": "09:37",
+   "conf": 0.9757112979888916
+  },
+  {
+   "text": "EW9R",
+   "conf": 0.9868329465389252
+  },
+  {
+   "text": "SALES",
+   "conf": 0.9913741230964661
+  },
+  {
+   "text": "Kit1",
+   "conf": 0.9822144508361816
+  },
+  {
+   "text": "44.99",
+   "conf": 0.996195936203003
+  },
+  {
+   "text": "羌关关关*关**关*关关**",
+   "conf": 0.5408515461853572
+  },
+  {
+   "text": "102740447UV-00078",
+   "conf": 0.9959943960694706
+  },
+  {
+   "text": "XBOX ONE CONSOLE",
+   "conf": 0.9799074307084084
+  },
+  {
+   "text": "SERIAL#01",
+   "conf": 0.9668480224079556
+  },
+  {
+   "text": "1025565053769",
+   "conf": 0.9979873620546781
+  },
+  {
+   "text": "X1 RAYMAN LEGENDS",
+   "conf": 0.964177527848412
+  },
+  {
+   "text": "10304913XB1-BonusG",
+   "conf": 0.9793601069185469
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9960271567106247
+  },
+  {
+   "text": "XB1BGW/CONSOLE PURCH",
+   "conf": 0.9759620010852814
+  },
+  {
+   "text": "10091598REWARDZ0NE",
+   "conf": 0.9902514782216814
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9935750216245651
+  },
+  {
+   "text": "RZ COLLECTION-CORE",
+   "conf": 0.9828256467978159
+  },
+  {
+   "text": "SERIAL#",
+   "conf": 0.9743198752403259
+  },
+  {
+   "text": "SUBTOTAL",
+   "conf": 0.9916712641716003
+  },
+  {
+   "text": "44.99",
+   "conf": 0.9976131916046143
+  },
+  {
+   "text": "HSTNF",
+   "conf": 0.9926648497581482
+  },
+  {
+   "text": "5.85",
+   "conf": 0.9947759807109833
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.9903246164321899
+  },
+  {
+   "text": "50.84",
+   "conf": 0.9956476807594299
+  },
+  {
+   "text": "RZCERT",
+   "conf": 0.9917783041795095
+  },
+  {
+   "text": "10.00",
+   "conf": 0.997075891494751
+  },
+  {
+   "text": "XXXXXXXXXXXXXXXXXXXXXXXXXX6317",
+   "conf": 0.8377761363983154
+  },
+  {
+   "text": "Iransaction Record SALE",
+   "conf": 0.9467132765313854
+  },
+  {
+   "text": "CVISA",
+   "conf": 0.9820014953613281
+  },
+  {
+   "text": "40.84",
+   "conf": 0.9765513420104981
+  },
+  {
+   "text": "Appr0ved 095499",
+   "conf": 0.9209516962369283
+  },
+  {
+   "text": "TERM:0909042E",
+   "conf": 0.9854084803507879
+  },
+  {
+   "text": "SEQ N0:001001001419",
+   "conf": 0.977108425215671
+  },
+  {
+   "text": "ACI/IS0 001/00",
+   "conf": 0.957938334771565
+  },
+  {
+   "text": "7/25/20149:36:50",
+   "conf": 0.9815662726759911
+  }
+ ],
+ "mean_conf": 0.963,
+ "low_conf_share": 0.0,
+ "latency_ms": 5669,
+ "fields": {
+  "company": "BEST BUY 909",
+  "date": "2014-07-25",
+  "total": 50.84
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  50.84
+ ],
+ "key": "W0036_7d7af605dcd6"
+}

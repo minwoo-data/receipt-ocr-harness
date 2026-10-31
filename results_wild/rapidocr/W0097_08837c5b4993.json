@@ -1,0 +1,219 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "Bugenvila",
+  "0bala A. Starfeviaa9.20210 Cavtat",
+  "GEMINI NJAM d.0.0.:0IB:96126469547",
+  "Pr1jeko74.20210 Cavtat",
+  "Rn:9881-1-1 Datum:19.09.2014",
+  "NIKOLA 15:32:30",
+  "Stol: 6",
+  "RED-BEEFCHEEKS",
+  "CRVENI-OBRAZI",
+  "1.000×100.00 G 100.00",
+  "BLUE-MOJITO SORBET",
+  "PLAVI-MOJITO SORBET",
+  "1.000x 20.00G- 20,00",
+  "S",
+  "1,000x 125.00G 125.00",
+  "BLUE OCTOPUS TERRINE",
+  "PLAVI-TERINA OD HOBOTNICE",
+  "1,000× 10,00G- 10.00",
+  "RED-FORESTFRUITICE CREAM",
+  "CRVENI-SLADOLED OD UUMSKOG VOAA",
+  "1,000x 15,00 G- 15.00",
+  "RED-TOMATO GASPACHO",
+  "1,000x 20,00 G- 20,00",
+  "UKUPNO kn 290,00"
+ ],
+ "tokens": [
+  {
+   "text": "Bugenvila",
+   "conf": 0.9942674305703905
+  },
+  {
+   "text": "0bala A. Starfeviaa9.20210 Cavtat",
+   "conf": 0.8917148727359194
+  },
+  {
+   "text": "GEMINI NJAM d.0.0.:0IB:96126469547",
+   "conf": 0.9101907260277692
+  },
+  {
+   "text": "Pr1jeko74.20210 Cavtat",
+   "conf": 0.9187974103472449
+  },
+  {
+   "text": "Rn:9881-1-1",
+   "conf": 0.9059478315440092
+  },
+  {
+   "text": "NIKOLA",
+   "conf": 0.9825473229090372
+  },
+  {
+   "text": "Datum:19.09.2014",
+   "conf": 0.972350750118494
+  },
+  {
+   "text": "15:32:30",
+   "conf": 0.9711750522255898
+  },
+  {
+   "text": "Stol:",
+   "conf": 0.9789678931236268
+  },
+  {
+   "text": "6",
+   "conf": 0.9971824884414673
+  },
+  {
+   "text": "RED-BEEFCHEEKS",
+   "conf": 0.9864310537065778
+  },
+  {
+   "text": "CRVENI-OBRAZI",
+   "conf": 0.9413496393423814
+  },
+  {
+   "text": "1.000×100.00",
+   "conf": 0.9295894354581833
+  },
+  {
+   "text": "G",
+   "conf": 0.9770920872688293
+  },
+  {
+   "text": "100.00",
+   "conf": 0.9222678244113922
+  },
+  {
+   "text": "BLUE-MOJITO SORBET",
+   "conf": 0.9560529953903623
+  },
+  {
+   "text": "PLAVI-MOJITO SORBET",
+   "conf": 0.9494932074295847
+  },
+  {
+   "text": "1.000x",
+   "conf": 0.8802122374375662
+  },
+  {
+   "text": "20.00G-",
+   "conf": 0.9112954224858966
+  },
+  {
+   "text": "20,00",
+   "conf": 0.9362351894378662
+  },
+  {
+   "text": "S",
+   "conf": 0.7852832674980164
+  },
+  {
+   "text": "1,000x",
+   "conf": 0.8827639520168304
+  },
+  {
+   "text": "125.00G",
+   "conf": 0.969883246081216
+  },
+  {
+   "text": "125.00",
+   "conf": 0.9331700106461843
+  },
+  {
+   "text": "BLUE OCTOPUS TERRINE",
+   "conf": 0.966165441274643
+  },
+  {
+   "text": "PLAVI-TERINA OD HOBOTNICE",
+   "conf": 0.9177600598335266
+  },
+  {
+   "text": "1,000×",
+   "conf": 0.8070208380619684
+  },
+  {
+   "text": "10,00G-",
+   "conf": 0.8676317547048841
+  },
+  {
+   "text": "10.00",
+   "conf": 0.9885245561599731
+  },
+  {
+   "text": "RED-FORESTFRUITICE CREAM",
+   "conf": 0.9765107110142708
+  },
+  {
+   "text": "CRVENI-SLADOLED OD UUMSKOG VOAA",
+   "conf": 0.9455675771159511
+  },
+  {
+   "text": "1,000x",
+   "conf": 0.8242070327202479
+  },
+  {
+   "text": "15,00",
+   "conf": 0.9668745875358582
+  },
+  {
+   "text": "G-",
+   "conf": 0.9058548510074615
+  },
+  {
+   "text": "15.00",
+   "conf": 0.9217379689216614
+  },
+  {
+   "text": "RED-TOMATO GASPACHO",
+   "conf": 0.9661131469826949
+  },
+  {
+   "text": "1,000x",
+   "conf": 0.9082707762718201
+  },
+  {
+   "text": "20,00",
+   "conf": 0.9728875637054444
+  },
+  {
+   "text": "G-",
+   "conf": 0.9565049409866333
+  },
+  {
+   "text": "20,00",
+   "conf": 0.9712735533714294
+  },
+  {
+   "text": "UKUPNO kn",
+   "conf": 0.9137224753697714
+  },
+  {
+   "text": "290,00",
+   "conf": 0.9852087299029032
+  }
+ ],
+ "mean_conf": 0.9344,
+ "low_conf_share": 0.0,
+ "latency_ms": 2949,
+ "fields": {
+  "company": "BUGENVILA",
+  "date": null,
+  "total": 125.0
+ },
+ "rule_reasons": [
+  "date_not_found",
+  "total_no_keyword_fallback_max"
+ ],
+ "total_candidates": [
+  20.0,
+  125.0,
+  125.0,
+  10.0,
+  15.0
+ ],
+ "key": "W0097_08837c5b4993"
+}

@@ -1,0 +1,154 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "31705509",
+  "99SPEED NART S/B(519537-X)",
+  "LOT P.T.2B11, JALAN ANGSA,",
+  "TANAN BERKELEY",
+  "41150 KLANG,SELANGOR",
+  "1214-JINJANG07ARA",
+  "GS7 10.N0:000181747712",
+  "IN001CEN0:18028/103/T0269",
+  "02:31P8 565497 10-05-17",
+  "35S CRISPI ROLL 12 BRAIN SE RM6.85S",
+  "9413 C51002 A5H/C0VERN0T RM4.65s",
+  "Total 5ales(inclusive GsT） RM 11.50",
+  "CASHRM 52.00",
+  "CHANGE RM 40.50",
+  "0575u#a AmountIRM) TEX(RM)",
+  "=6 10.85 .65",
+  "Thank You, Please coe agair",
+  "Keep the invoice for applicable returns"
+ ],
+ "tokens": [
+  {
+   "text": "31705509",
+   "conf": 0.9970316886901855
+  },
+  {
+   "text": "99SPEED NART S/B(519537-X)",
+   "conf": 0.8666027600948627
+  },
+  {
+   "text": "LOT P.T.2B11, JALAN ANGSA,",
+   "conf": 0.8679533681044211
+  },
+  {
+   "text": "TANAN BERKELEY",
+   "conf": 0.9410168060234615
+  },
+  {
+   "text": "41150 KLANG,SELANGOR",
+   "conf": 0.9562639623880387
+  },
+  {
+   "text": "1214-JINJANG07ARA",
+   "conf": 0.9029568538946264
+  },
+  {
+   "text": "GS7 10.N0:000181747712",
+   "conf": 0.9301688562739979
+  },
+  {
+   "text": "IN001CEN0:18028/103/T0269",
+   "conf": 0.8952323126792908
+  },
+  {
+   "text": "02:31P8",
+   "conf": 0.8250476845673153
+  },
+  {
+   "text": "565497",
+   "conf": 0.9969247678915659
+  },
+  {
+   "text": "10-05-17",
+   "conf": 0.9941310808062553
+  },
+  {
+   "text": "35S CRISPI ROLL 12 BRAIN SE",
+   "conf": 0.8873564026973866
+  },
+  {
+   "text": "RM6.85S",
+   "conf": 0.7132279021399361
+  },
+  {
+   "text": "9413 C51002 A5H/C0VERN0T",
+   "conf": 0.9113332132498423
+  },
+  {
+   "text": "RM4.65s",
+   "conf": 0.8785233114446912
+  },
+  {
+   "text": "Total 5ales(inclusive GsT） RM",
+   "conf": 0.7777270705535494
+  },
+  {
+   "text": "11.50",
+   "conf": 0.9867877125740051
+  },
+  {
+   "text": "CASHRM",
+   "conf": 0.9830829699834188
+  },
+  {
+   "text": "52.00",
+   "conf": 0.9897724866867066
+  },
+  {
+   "text": "CHANGE RM",
+   "conf": 0.9121337268087599
+  },
+  {
+   "text": "40.50",
+   "conf": 0.9926521062850953
+  },
+  {
+   "text": "0575u#a",
+   "conf": 0.5672873897211892
+  },
+  {
+   "text": "AmountIRM)",
+   "conf": 0.7255258828401565
+  },
+  {
+   "text": "TEX(RM)",
+   "conf": 0.7420866787433624
+  },
+  {
+   "text": "=6",
+   "conf": 0.6266452670097351
+  },
+  {
+   "text": "10.85",
+   "conf": 0.9195032119750977
+  },
+  {
+   "text": ".65",
+   "conf": 0.8011129399140676
+  },
+  {
+   "text": "Thank You, Please coe agair",
+   "conf": 0.8781473835309347
+  },
+  {
+   "text": "Keep the invoice for applicable returns",
+   "conf": 0.9606054899020072
+  }
+ ],
+ "mean_conf": 0.8768,
+ "low_conf_share": 0.0,
+ "latency_ms": 3375,
+ "fields": {
+  "company": "TANAN BERKELEY",
+  "date": "2017-05-10",
+  "total": 11.5
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  11.5
+ ],
+ "key": "X51006393376"
+}

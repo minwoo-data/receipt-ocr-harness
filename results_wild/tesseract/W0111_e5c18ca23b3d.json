@@ -1,0 +1,281 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "Pe >*/",
+  "SUE'S HALLMARK",
+  "ILLINOIS SHE ;",
+  "25 NORTH NICHIGAN AVENUE C142",
+  "225 NOR 0601",
+  "PHONE:) 312-540-0602 \\FAK:312-540-0612",
+  "CARD TiiaNks CLASSTC COUNTER os",
+  "CARD THANKS CROWN 720473536751 5.99",
+  "CARD DAY GRANDMOTHER ae",
+  "720473462272 4,99 T cee",
+  "CARD MDAY WIFE 720473623116 (14969 ee",
+  "CARD MDAY MOTHER 720473842807 6.29 T —",
+  "TOTAL $33.02 —",
+  "Auth Code 6907 : :",
+  "Wine Glasses,Candies,Balloons THANK YOU"
+ ],
+ "tokens": [
+  {
+   "text": "Pe",
+   "conf": 0.0
+  },
+  {
+   "text": ">*/",
+   "conf": 0.0
+  },
+  {
+   "text": "SUE'S",
+   "conf": 0.86
+  },
+  {
+   "text": "HALLMARK",
+   "conf": 0.91
+  },
+  {
+   "text": "ILLINOIS",
+   "conf": 0.0
+  },
+  {
+   "text": "SHE",
+   "conf": 0.39
+  },
+  {
+   "text": ";",
+   "conf": 0.32
+  },
+  {
+   "text": "25",
+   "conf": 0.78
+  },
+  {
+   "text": "NORTH",
+   "conf": 0.92
+  },
+  {
+   "text": "NICHIGAN",
+   "conf": 0.85
+  },
+  {
+   "text": "AVENUE",
+   "conf": 0.96
+  },
+  {
+   "text": "C142",
+   "conf": 0.82
+  },
+  {
+   "text": "225",
+   "conf": 0.89
+  },
+  {
+   "text": "NOR",
+   "conf": 0.88
+  },
+  {
+   "text": "0601",
+   "conf": 0.08
+  },
+  {
+   "text": "PHONE:)",
+   "conf": 0.58
+  },
+  {
+   "text": "312-540-0602",
+   "conf": 0.93
+  },
+  {
+   "text": "\\FAK:312-540-0612",
+   "conf": 0.78
+  },
+  {
+   "text": "CARD",
+   "conf": 0.62
+  },
+  {
+   "text": "TiiaNks",
+   "conf": 0.0
+  },
+  {
+   "text": "CLASSTC",
+   "conf": 0.88
+  },
+  {
+   "text": "COUNTER",
+   "conf": 0.93
+  },
+  {
+   "text": "os",
+   "conf": 0.13
+  },
+  {
+   "text": "CARD",
+   "conf": 0.67
+  },
+  {
+   "text": "THANKS",
+   "conf": 0.91
+  },
+  {
+   "text": "CROWN",
+   "conf": 0.94
+  },
+  {
+   "text": "720473536751",
+   "conf": 0.39
+  },
+  {
+   "text": "5.99",
+   "conf": 0.92
+  },
+  {
+   "text": "CARD",
+   "conf": 0.96
+  },
+  {
+   "text": "DAY",
+   "conf": 0.36
+  },
+  {
+   "text": "GRANDMOTHER",
+   "conf": 0.94
+  },
+  {
+   "text": "ae",
+   "conf": 0.2
+  },
+  {
+   "text": "720473462272",
+   "conf": 0.95
+  },
+  {
+   "text": "4,99",
+   "conf": 0.92
+  },
+  {
+   "text": "T",
+   "conf": 0.91
+  },
+  {
+   "text": "cee",
+   "conf": 0.23
+  },
+  {
+   "text": "CARD",
+   "conf": 0.92
+  },
+  {
+   "text": "MDAY",
+   "conf": 0.72
+  },
+  {
+   "text": "WIFE",
+   "conf": 0.91
+  },
+  {
+   "text": "720473623116",
+   "conf": 0.91
+  },
+  {
+   "text": "(14969",
+   "conf": 0.51
+  },
+  {
+   "text": "ee",
+   "conf": 0.11
+  },
+  {
+   "text": "CARD",
+   "conf": 0.92
+  },
+  {
+   "text": "MDAY",
+   "conf": 0.92
+  },
+  {
+   "text": "MOTHER",
+   "conf": 0.95
+  },
+  {
+   "text": "720473842807",
+   "conf": 0.56
+  },
+  {
+   "text": "6.29",
+   "conf": 0.67
+  },
+  {
+   "text": "T",
+   "conf": 0.93
+  },
+  {
+   "text": "—",
+   "conf": 0.0
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.95
+  },
+  {
+   "text": "$33.02",
+   "conf": 0.56
+  },
+  {
+   "text": "—",
+   "conf": 0.09
+  },
+  {
+   "text": "Auth",
+   "conf": 0.95
+  },
+  {
+   "text": "Code",
+   "conf": 0.96
+  },
+  {
+   "text": "6907",
+   "conf": 0.96
+  },
+  {
+   "text": ":",
+   "conf": 0.7
+  },
+  {
+   "text": ":",
+   "conf": 0.41
+  },
+  {
+   "text": "Wine",
+   "conf": 0.9
+  },
+  {
+   "text": "Glasses,Candies,Balloons",
+   "conf": 0.58
+  },
+  {
+   "text": "THANK",
+   "conf": 0.42
+  },
+  {
+   "text": "YOU",
+   "conf": 0.96
+  }
+ ],
+ "mean_conf": 0.6603,
+ "low_conf_share": 0.2787,
+ "latency_ms": 797,
+ "fields": {
+  "company": "SUE S HALLMARK",
+  "date": null,
+  "total": 33.02
+ },
+ "rule_reasons": [
+  "date_not_found"
+ ],
+ "total_candidates": [
+  33.02
+ ],
+ "key": "W0111_e5c18ca23b3d"
+}

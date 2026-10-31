@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.1-flash-lite",
+ "provider": "gemini",
+ "raw_text": "{\n  \"vendor\": \"SYARIKAT PERNIAGAAN GIN KEE\",\n  \"date\": \"2018-01-25\",\n  \"subtotal\": 180.00,\n  \"tax\": 10.80,\n  \"tip\": null,\n  \"discount\": 0.00,\n  \"total\": 190.80,\n  \"currency\": \"MYR\",\n  \"confidence\": 0.98,\n  \"notes\": null\n}",
+ "data": {
+  "vendor": "SYARIKAT PERNIAGAAN GIN KEE",
+  "date": "2018-01-25",
+  "subtotal": 180.0,
+  "tax": 10.8,
+  "tip": null,
+  "discount": 0.0,
+  "total": 190.8,
+  "currency": "MYR",
+  "confidence": 0.98,
+  "notes": null
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1450,
+  "output_tokens": 122,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.000545,
+ "latency_ms": 1565,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.1-flash-lite",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.1-flash-lite"
+ ],
+ "key": "X51005675104"
+}

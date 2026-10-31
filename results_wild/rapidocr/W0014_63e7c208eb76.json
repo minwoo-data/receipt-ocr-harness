@@ -1,0 +1,185 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "PRE-PD CELLULAR!",
+  "MONEY ORDERS AND",
+  "WE NOW OFFER",
+  "ONLY $3.59 +TAX！",
+  "WOW! MARLBORO CIGS",
+  "NB OIL CO INC#1",
+  "17966 BR00KHURST",
+  "FOUNTAIN VALLEY",
+  "SHELL",
+  "17966 BR00KHURST",
+  "FOUNTAIN VALL CA",
+  "RT# 93002654548",
+  "02/18/07 11:24:35",
+  "Debit Acct#",
+  "XXXXXXXXXXXX",
+  "RCPT# 24-0059",
+  "Inv# 480756",
+  "Auth#",
+  "PIN USED",
+  "PUMP#22",
+  "regular 8.352G",
+  "SELF",
+  "PRICE/GAL $2.499",
+  "FUEL TOTAL $20.87",
+  "TOTAL $20.87",
+  "THANK YOU FOR",
+  "SHOPPING WITH US",
+  "PLEASE COME AGAIN!"
+ ],
+ "tokens": [
+  {
+   "text": "PRE-PD CELLULAR!",
+   "conf": 0.9778668992221355
+  },
+  {
+   "text": "MONEY ORDERS AND",
+   "conf": 0.9661480337381363
+  },
+  {
+   "text": "WE NOW OFFER",
+   "conf": 0.9793030619621277
+  },
+  {
+   "text": "ONLY $3.59 +TAX！",
+   "conf": 0.8884175792336464
+  },
+  {
+   "text": "WOW! MARLBORO CIGS",
+   "conf": 0.9572609265645345
+  },
+  {
+   "text": "NB OIL CO INC#1",
+   "conf": 0.9409278432528178
+  },
+  {
+   "text": "17966 BR00KHURST",
+   "conf": 0.9685116894543171
+  },
+  {
+   "text": "FOUNTAIN VALLEY",
+   "conf": 0.9885736544926961
+  },
+  {
+   "text": "SHELL",
+   "conf": 0.9685475707054139
+  },
+  {
+   "text": "17966 BR00KHURST",
+   "conf": 0.9640436545014381
+  },
+  {
+   "text": "FOUNTAIN VALL CA",
+   "conf": 0.976633545011282
+  },
+  {
+   "text": "RT# 93002654548",
+   "conf": 0.9614505648612977
+  },
+  {
+   "text": "02/18/07",
+   "conf": 0.9983756616711617
+  },
+  {
+   "text": "11:24:35",
+   "conf": 0.9783288761973381
+  },
+  {
+   "text": "Debit",
+   "conf": 0.9926920533180237
+  },
+  {
+   "text": "Acct#",
+   "conf": 0.9375167727470398
+  },
+  {
+   "text": "XXXXXXXXXXXX",
+   "conf": 0.9855361183484396
+  },
+  {
+   "text": "RCPT# 24-0059",
+   "conf": 0.9570567653729365
+  },
+  {
+   "text": "Inv# 480756",
+   "conf": 0.9656030102209612
+  },
+  {
+   "text": "Auth#",
+   "conf": 0.9829874038696289
+  },
+  {
+   "text": "PIN USED",
+   "conf": 0.9869006797671318
+  },
+  {
+   "text": "PUMP#22",
+   "conf": 0.9864957928657532
+  },
+  {
+   "text": "regular",
+   "conf": 0.9817466139793396
+  },
+  {
+   "text": "8.352G",
+   "conf": 0.9975674450397491
+  },
+  {
+   "text": "SELF",
+   "conf": 0.9864035397768021
+  },
+  {
+   "text": "PRICE/GAL",
+   "conf": 0.9857125017378066
+  },
+  {
+   "text": "$2.499",
+   "conf": 0.9990710119406382
+  },
+  {
+   "text": "FUEL TOTAL",
+   "conf": 0.9481691002845765
+  },
+  {
+   "text": "$20.87",
+   "conf": 0.9984777867794037
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.989723289012909
+  },
+  {
+   "text": "$20.87",
+   "conf": 0.9996721049149832
+  },
+  {
+   "text": "THANK YOU FOR",
+   "conf": 0.938751404102032
+  },
+  {
+   "text": "SHOPPING WITH US",
+   "conf": 0.9476279988884926
+  },
+  {
+   "text": "PLEASE COME AGAIN!",
+   "conf": 0.9535087976190779
+  }
+ ],
+ "mean_conf": 0.9716,
+ "low_conf_share": 0.0,
+ "latency_ms": 4488,
+ "fields": {
+  "company": "NB OIL CO INC 1",
+  "date": "2007-02-18",
+  "total": 20.87
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  20.87,
+  20.87
+ ],
+ "key": "W0014_63e7c208eb76"
+}

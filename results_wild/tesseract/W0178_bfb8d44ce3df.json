@@ -1,0 +1,569 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "Car Spa 0017",
+  "3690 Beltline Road q",
+  "(972) 243-2932 i",
+  "17-TOUCH2, 05/28/15, 06:50 PM",
+  "Shift 1, Emp] 6508, Sale # 41623648004 i",
+  "a | Mobil 1 Pk -1X 0,00 |",
+  "= ] Spa Supreme - Tx 0.00 a",
+  "= 1 Spa Sup. Labor - Tx 13.24",
+  "= 1 Spa Sup. Parts - TX 6.75 fA",
+  "= 1 Mobil 1 Synth 48 .00",
+  "= 1 Supreme Inspection a",
+  "= 1 Waste Fee 2.00 \\",
+  "= 1 Lube Wash Discount -6.00 |",
+  "= 5.80 Mobile 1 Ow40 Bt] 10.00",
+  "= 1 PRGDOF :POF5581 0.00",
+  "= 1 Exp Carpet Clean 39.99 |",
+  ": 1 Exp Seat Treat 39.99",
+  ": 1 2 Detail Disc = 19,90",
+  ": 1 Emissions - OBD 25.50",
+  "1 Sticker - ODB 0.00",
+  ": Subtotal 159.48",
+  "Sales Tax 5.34",
+  "Total 164.82"
+ ],
+ "tokens": [
+  {
+   "text": "Car",
+   "conf": 0.96
+  },
+  {
+   "text": "Spa",
+   "conf": 0.96
+  },
+  {
+   "text": "0017",
+   "conf": 0.95
+  },
+  {
+   "text": "3690",
+   "conf": 0.96
+  },
+  {
+   "text": "Beltline",
+   "conf": 0.96
+  },
+  {
+   "text": "Road",
+   "conf": 0.96
+  },
+  {
+   "text": "q",
+   "conf": 0.82
+  },
+  {
+   "text": "(972)",
+   "conf": 0.96
+  },
+  {
+   "text": "243-2932",
+   "conf": 0.96
+  },
+  {
+   "text": "i",
+   "conf": 0.31
+  },
+  {
+   "text": "17-TOUCH2,",
+   "conf": 0.54
+  },
+  {
+   "text": "05/28/15,",
+   "conf": 0.94
+  },
+  {
+   "text": "06:50",
+   "conf": 0.95
+  },
+  {
+   "text": "PM",
+   "conf": 0.29
+  },
+  {
+   "text": "Shift",
+   "conf": 0.96
+  },
+  {
+   "text": "1,",
+   "conf": 0.96
+  },
+  {
+   "text": "Emp]",
+   "conf": 0.83
+  },
+  {
+   "text": "6508,",
+   "conf": 0.96
+  },
+  {
+   "text": "Sale",
+   "conf": 0.79
+  },
+  {
+   "text": "#",
+   "conf": 0.92
+  },
+  {
+   "text": "41623648004",
+   "conf": 0.94
+  },
+  {
+   "text": "i",
+   "conf": 0.58
+  },
+  {
+   "text": "a",
+   "conf": 0.64
+  },
+  {
+   "text": "|",
+   "conf": 0.65
+  },
+  {
+   "text": "Mobil",
+   "conf": 0.93
+  },
+  {
+   "text": "1",
+   "conf": 0.92
+  },
+  {
+   "text": "Pk",
+   "conf": 0.92
+  },
+  {
+   "text": "-1X",
+   "conf": 0.55
+  },
+  {
+   "text": "0,00",
+   "conf": 0.91
+  },
+  {
+   "text": "|",
+   "conf": 0.67
+  },
+  {
+   "text": "=",
+   "conf": 0.96
+  },
+  {
+   "text": "]",
+   "conf": 0.57
+  },
+  {
+   "text": "Spa",
+   "conf": 0.95
+  },
+  {
+   "text": "Supreme",
+   "conf": 0.93
+  },
+  {
+   "text": "-",
+   "conf": 0.93
+  },
+  {
+   "text": "Tx",
+   "conf": 0.96
+  },
+  {
+   "text": "0.00",
+   "conf": 0.93
+  },
+  {
+   "text": "a",
+   "conf": 0.37
+  },
+  {
+   "text": "=",
+   "conf": 0.94
+  },
+  {
+   "text": "1",
+   "conf": 0.9
+  },
+  {
+   "text": "Spa",
+   "conf": 0.96
+  },
+  {
+   "text": "Sup.",
+   "conf": 0.89
+  },
+  {
+   "text": "Labor",
+   "conf": 0.93
+  },
+  {
+   "text": "-",
+   "conf": 0.67
+  },
+  {
+   "text": "Tx",
+   "conf": 0.87
+  },
+  {
+   "text": "13.24",
+   "conf": 0.89
+  },
+  {
+   "text": "=",
+   "conf": 0.96
+  },
+  {
+   "text": "1",
+   "conf": 0.95
+  },
+  {
+   "text": "Spa",
+   "conf": 0.95
+  },
+  {
+   "text": "Sup.",
+   "conf": 0.89
+  },
+  {
+   "text": "Parts",
+   "conf": 0.93
+  },
+  {
+   "text": "-",
+   "conf": 0.9
+  },
+  {
+   "text": "TX",
+   "conf": 0.82
+  },
+  {
+   "text": "6.75",
+   "conf": 0.72
+  },
+  {
+   "text": "fA",
+   "conf": 0.41
+  },
+  {
+   "text": "=",
+   "conf": 0.63
+  },
+  {
+   "text": "1",
+   "conf": 0.93
+  },
+  {
+   "text": "Mobil",
+   "conf": 0.68
+  },
+  {
+   "text": "1",
+   "conf": 0.95
+  },
+  {
+   "text": "Synth",
+   "conf": 0.96
+  },
+  {
+   "text": "48",
+   "conf": 0.91
+  },
+  {
+   "text": ".00",
+   "conf": 0.8
+  },
+  {
+   "text": "=",
+   "conf": 0.9
+  },
+  {
+   "text": "1",
+   "conf": 0.96
+  },
+  {
+   "text": "Supreme",
+   "conf": 0.95
+  },
+  {
+   "text": "Inspection",
+   "conf": 0.89
+  },
+  {
+   "text": "a",
+   "conf": 0.85
+  },
+  {
+   "text": "=",
+   "conf": 0.96
+  },
+  {
+   "text": "1",
+   "conf": 0.87
+  },
+  {
+   "text": "Waste",
+   "conf": 0.96
+  },
+  {
+   "text": "Fee",
+   "conf": 0.96
+  },
+  {
+   "text": "2.00",
+   "conf": 0.83
+  },
+  {
+   "text": "\\",
+   "conf": 0.83
+  },
+  {
+   "text": "=",
+   "conf": 0.96
+  },
+  {
+   "text": "1",
+   "conf": 0.72
+  },
+  {
+   "text": "Lube",
+   "conf": 0.94
+  },
+  {
+   "text": "Wash",
+   "conf": 0.96
+  },
+  {
+   "text": "Discount",
+   "conf": 0.96
+  },
+  {
+   "text": "-6.00",
+   "conf": 0.68
+  },
+  {
+   "text": "|",
+   "conf": 0.69
+  },
+  {
+   "text": "=",
+   "conf": 0.96
+  },
+  {
+   "text": "5.80",
+   "conf": 0.78
+  },
+  {
+   "text": "Mobile",
+   "conf": 0.96
+  },
+  {
+   "text": "1",
+   "conf": 0.93
+  },
+  {
+   "text": "Ow40",
+   "conf": 0.62
+  },
+  {
+   "text": "Bt]",
+   "conf": 0.48
+  },
+  {
+   "text": "10.00",
+   "conf": 0.88
+  },
+  {
+   "text": "=",
+   "conf": 0.94
+  },
+  {
+   "text": "1",
+   "conf": 0.9
+  },
+  {
+   "text": "PRGDOF",
+   "conf": 0.9
+  },
+  {
+   "text": ":POF5581",
+   "conf": 0.64
+  },
+  {
+   "text": "0.00",
+   "conf": 0.75
+  },
+  {
+   "text": "=",
+   "conf": 0.79
+  },
+  {
+   "text": "1",
+   "conf": 0.93
+  },
+  {
+   "text": "Exp",
+   "conf": 0.93
+  },
+  {
+   "text": "Carpet",
+   "conf": 0.96
+  },
+  {
+   "text": "Clean",
+   "conf": 0.96
+  },
+  {
+   "text": "39.99",
+   "conf": 0.78
+  },
+  {
+   "text": "|",
+   "conf": 0.62
+  },
+  {
+   "text": ":",
+   "conf": 0.0
+  },
+  {
+   "text": "1",
+   "conf": 0.94
+  },
+  {
+   "text": "Exp",
+   "conf": 0.94
+  },
+  {
+   "text": "Seat",
+   "conf": 0.96
+  },
+  {
+   "text": "Treat",
+   "conf": 0.96
+  },
+  {
+   "text": "39.99",
+   "conf": 0.83
+  },
+  {
+   "text": ":",
+   "conf": 0.18
+  },
+  {
+   "text": "1",
+   "conf": 0.9
+  },
+  {
+   "text": "2",
+   "conf": 0.9
+  },
+  {
+   "text": "Detail",
+   "conf": 0.91
+  },
+  {
+   "text": "Disc",
+   "conf": 0.95
+  },
+  {
+   "text": "=",
+   "conf": 0.21
+  },
+  {
+   "text": "19,90",
+   "conf": 0.21
+  },
+  {
+   "text": ":",
+   "conf": 0.33
+  },
+  {
+   "text": "1",
+   "conf": 0.92
+  },
+  {
+   "text": "Emissions",
+   "conf": 0.92
+  },
+  {
+   "text": "-",
+   "conf": 0.91
+  },
+  {
+   "text": "OBD",
+   "conf": 0.91
+  },
+  {
+   "text": "25.50",
+   "conf": 0.78
+  },
+  {
+   "text": "1",
+   "conf": 0.93
+  },
+  {
+   "text": "Sticker",
+   "conf": 0.93
+  },
+  {
+   "text": "-",
+   "conf": 0.92
+  },
+  {
+   "text": "ODB",
+   "conf": 0.77
+  },
+  {
+   "text": "0.00",
+   "conf": 0.85
+  },
+  {
+   "text": ":",
+   "conf": 0.07
+  },
+  {
+   "text": "Subtotal",
+   "conf": 0.77
+  },
+  {
+   "text": "159.48",
+   "conf": 0.8
+  },
+  {
+   "text": "Sales",
+   "conf": 0.95
+  },
+  {
+   "text": "Tax",
+   "conf": 0.95
+  },
+  {
+   "text": "5.34",
+   "conf": 0.93
+  },
+  {
+   "text": "Total",
+   "conf": 0.93
+  },
+  {
+   "text": "164.82",
+   "conf": 0.91
+  }
+ ],
+ "mean_conf": 0.8217,
+ "low_conf_share": 0.084,
+ "latency_ms": 771,
+ "fields": {
+  "company": null,
+  "date": "2015-05-28",
+  "total": 164.82
+ },
+ "rule_reasons": [
+  "company_not_found"
+ ],
+ "total_candidates": [
+  164.82
+ ],
+ "key": "W0178_bfb8d44ce3df"
+}

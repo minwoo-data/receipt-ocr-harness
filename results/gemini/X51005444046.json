@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.6-flash",
+ "provider": "gemini",
+ "raw_text": "{\"vendor\": \"STAR GROCER SDN BHD\", \"date\": \"2018-03-25\", \"subtotal\": 66.17, \"tax\": 0.0, \"tip\": null, \"discount\": -0.02, \"total\": 66.15, \"currency\": \"MYR\", \"confidence\": 0.95, \"notes\": \"Discount includes -0.02 rounding.\"}",
+ "data": {
+  "vendor": "STAR GROCER SDN BHD",
+  "date": "2018-03-25",
+  "subtotal": 66.17,
+  "tax": 0.0,
+  "tip": null,
+  "discount": -0.02,
+  "total": 66.15,
+  "currency": "MYR",
+  "confidence": 0.95,
+  "notes": "Discount includes -0.02 rounding."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1450,
+  "output_tokens": 99,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.001459,
+ "latency_ms": 2183,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.6-flash",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.6-flash"
+ ],
+ "key": "X51005444046"
+}

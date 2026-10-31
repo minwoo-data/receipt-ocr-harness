@@ -1,0 +1,154 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "| | Hag ) |",
+  "City Plaza am",
+  "Chk: 903-339",
+  "Emo: Lam Ya",
+  "Love Let c ;",
+  "Starwlovead",
+  "Total",
+  "10% Srv Cha",
+  "y q",
+  "rota) q",
+  "; i",
+  "a",
+  "."
+ ],
+ "tokens": [
+  {
+   "text": "|",
+   "conf": 0.6
+  },
+  {
+   "text": "|",
+   "conf": 0.52
+  },
+  {
+   "text": "Hag",
+   "conf": 0.07
+  },
+  {
+   "text": ")",
+   "conf": 0.0
+  },
+  {
+   "text": "|",
+   "conf": 0.56
+  },
+  {
+   "text": "City",
+   "conf": 0.96
+  },
+  {
+   "text": "Plaza",
+   "conf": 0.67
+  },
+  {
+   "text": "am",
+   "conf": 0.32
+  },
+  {
+   "text": "Chk:",
+   "conf": 0.85
+  },
+  {
+   "text": "903-339",
+   "conf": 0.5
+  },
+  {
+   "text": "Emo:",
+   "conf": 0.69
+  },
+  {
+   "text": "Lam",
+   "conf": 0.81
+  },
+  {
+   "text": "Ya",
+   "conf": 0.61
+  },
+  {
+   "text": "Love",
+   "conf": 0.93
+  },
+  {
+   "text": "Let",
+   "conf": 0.93
+  },
+  {
+   "text": "c",
+   "conf": 0.0
+  },
+  {
+   "text": ";",
+   "conf": 0.22
+  },
+  {
+   "text": "Starwlovead",
+   "conf": 0.09
+  },
+  {
+   "text": "Total",
+   "conf": 0.46
+  },
+  {
+   "text": "10%",
+   "conf": 0.79
+  },
+  {
+   "text": "Srv",
+   "conf": 0.91
+  },
+  {
+   "text": "Cha",
+   "conf": 0.32
+  },
+  {
+   "text": "y",
+   "conf": 0.14
+  },
+  {
+   "text": "q",
+   "conf": 0.61
+  },
+  {
+   "text": "rota)",
+   "conf": 0.06
+  },
+  {
+   "text": "q",
+   "conf": 0.37
+  },
+  {
+   "text": ";",
+   "conf": 0.39
+  },
+  {
+   "text": "i",
+   "conf": 0.22
+  },
+  {
+   "text": "a",
+   "conf": 0.45
+  },
+  {
+   "text": ".",
+   "conf": 0.0
+  }
+ ],
+ "mean_conf": 0.4683,
+ "low_conf_share": 0.5,
+ "latency_ms": 508,
+ "fields": {
+  "company": "CITY PLAZA AM",
+  "date": null,
+  "total": null
+ },
+ "rule_reasons": [
+  "date_not_found",
+  "total_not_found"
+ ],
+ "total_candidates": [],
+ "key": "W0008_8f4600e1f4ad"
+}

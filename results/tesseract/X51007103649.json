@@ -1,0 +1,527 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "2(Y{oro, WwW",
+  "MR. D.1.Y. (M) SON BHD ™",
+  "(co|REG :860671-D)",
+  "| LOT 1851-4 & 1851-B, JALAN KPB 6, “",
+  "KAWASAN PERINDUSTRIAN BALAKONG,",
+  "43300 SERI KEMBANGAN, SELANGOR",
+  "(GST ID No 900306020352)",
+  "(101 PUCHONG)",
+  "-TAX INVOICE-",
+  "QUEEN BEDSHEET SET 190*152+25#VS *§",
+  "JH51/3-63 - 10",
+  "9034110 1% 43.00 43.00",
+  "PERIOD OFFER -19% -8.09",
+  "xe% 35.00 Nett",
+  "CYLINDER LOCK AGASS-587AB *§",
+  "L@12 - 24",
+  "9073910 1X 13.90 13.90",
+  "Item(s) : 2 Qty(s) : 2",
+  "Total Incl. GST@6% RM 48.90",
+  "CASH RM 100.00",
+  "CHANGE RM 51.10",
+  "GST @6% included in total RM 2.77",
+  "5 9 a ee ee",
+  "* 91-04-18 20:29 SHO1 7486 =6‘11 RO00118476",
+  "OPERATOR TRAINEE CASHIER",
+  "{",
+  "| EXCHANGE ARE ALLOWED WITHIN",
+  "—4| 7 DAY WITH RECEIPT.",
+  "se STRICTLY NO CASH REFUND."
+ ],
+ "tokens": [
+  {
+   "text": "2(Y{oro,",
+   "conf": 0.0
+  },
+  {
+   "text": "WwW",
+   "conf": 0.26
+  },
+  {
+   "text": "MR.",
+   "conf": 0.8
+  },
+  {
+   "text": "D.1.Y.",
+   "conf": 0.17
+  },
+  {
+   "text": "(M)",
+   "conf": 0.85
+  },
+  {
+   "text": "SON",
+   "conf": 0.94
+  },
+  {
+   "text": "BHD",
+   "conf": 0.85
+  },
+  {
+   "text": "™",
+   "conf": 0.67
+  },
+  {
+   "text": "(co|REG",
+   "conf": 0.0
+  },
+  {
+   "text": ":860671-D)",
+   "conf": 0.31
+  },
+  {
+   "text": "|",
+   "conf": 0.35
+  },
+  {
+   "text": "LOT",
+   "conf": 0.96
+  },
+  {
+   "text": "1851-4",
+   "conf": 0.0
+  },
+  {
+   "text": "&",
+   "conf": 0.92
+  },
+  {
+   "text": "1851-B,",
+   "conf": 0.9
+  },
+  {
+   "text": "JALAN",
+   "conf": 0.93
+  },
+  {
+   "text": "KPB",
+   "conf": 0.92
+  },
+  {
+   "text": "6,",
+   "conf": 0.96
+  },
+  {
+   "text": "“",
+   "conf": 0.47
+  },
+  {
+   "text": "KAWASAN",
+   "conf": 0.91
+  },
+  {
+   "text": "PERINDUSTRIAN",
+   "conf": 0.9
+  },
+  {
+   "text": "BALAKONG,",
+   "conf": 0.91
+  },
+  {
+   "text": "43300",
+   "conf": 0.92
+  },
+  {
+   "text": "SERI",
+   "conf": 0.9
+  },
+  {
+   "text": "KEMBANGAN,",
+   "conf": 0.91
+  },
+  {
+   "text": "SELANGOR",
+   "conf": 0.96
+  },
+  {
+   "text": "(GST",
+   "conf": 0.94
+  },
+  {
+   "text": "ID",
+   "conf": 0.94
+  },
+  {
+   "text": "No",
+   "conf": 0.95
+  },
+  {
+   "text": "900306020352)",
+   "conf": 0.19
+  },
+  {
+   "text": "(101",
+   "conf": 0.92
+  },
+  {
+   "text": "PUCHONG)",
+   "conf": 0.91
+  },
+  {
+   "text": "-TAX",
+   "conf": 0.87
+  },
+  {
+   "text": "INVOICE-",
+   "conf": 0.9
+  },
+  {
+   "text": "QUEEN",
+   "conf": 0.91
+  },
+  {
+   "text": "BEDSHEET",
+   "conf": 0.9
+  },
+  {
+   "text": "SET",
+   "conf": 0.88
+  },
+  {
+   "text": "190*152+25#VS",
+   "conf": 0.03
+  },
+  {
+   "text": "*§",
+   "conf": 0.65
+  },
+  {
+   "text": "JH51/3-63",
+   "conf": 0.89
+  },
+  {
+   "text": "-",
+   "conf": 0.92
+  },
+  {
+   "text": "10",
+   "conf": 0.96
+  },
+  {
+   "text": "9034110",
+   "conf": 0.91
+  },
+  {
+   "text": "1%",
+   "conf": 0.3
+  },
+  {
+   "text": "43.00",
+   "conf": 0.91
+  },
+  {
+   "text": "43.00",
+   "conf": 0.94
+  },
+  {
+   "text": "PERIOD",
+   "conf": 0.94
+  },
+  {
+   "text": "OFFER",
+   "conf": 0.93
+  },
+  {
+   "text": "-19%",
+   "conf": 0.91
+  },
+  {
+   "text": "-8.09",
+   "conf": 0.38
+  },
+  {
+   "text": "xe%",
+   "conf": 0.17
+  },
+  {
+   "text": "35.00",
+   "conf": 0.67
+  },
+  {
+   "text": "Nett",
+   "conf": 0.96
+  },
+  {
+   "text": "CYLINDER",
+   "conf": 0.96
+  },
+  {
+   "text": "LOCK",
+   "conf": 0.96
+  },
+  {
+   "text": "AGASS-587AB",
+   "conf": 0.88
+  },
+  {
+   "text": "*§",
+   "conf": 0.56
+  },
+  {
+   "text": "L@12",
+   "conf": 0.18
+  },
+  {
+   "text": "-",
+   "conf": 0.82
+  },
+  {
+   "text": "24",
+   "conf": 0.96
+  },
+  {
+   "text": "9073910",
+   "conf": 0.94
+  },
+  {
+   "text": "1X",
+   "conf": 0.59
+  },
+  {
+   "text": "13.90",
+   "conf": 0.93
+  },
+  {
+   "text": "13.90",
+   "conf": 0.94
+  },
+  {
+   "text": "Item(s)",
+   "conf": 0.88
+  },
+  {
+   "text": ":",
+   "conf": 0.88
+  },
+  {
+   "text": "2",
+   "conf": 0.95
+  },
+  {
+   "text": "Qty(s)",
+   "conf": 0.9
+  },
+  {
+   "text": ":",
+   "conf": 0.8
+  },
+  {
+   "text": "2",
+   "conf": 0.96
+  },
+  {
+   "text": "Total",
+   "conf": 0.96
+  },
+  {
+   "text": "Incl.",
+   "conf": 0.93
+  },
+  {
+   "text": "GST@6%",
+   "conf": 0.26
+  },
+  {
+   "text": "RM",
+   "conf": 0.94
+  },
+  {
+   "text": "48.90",
+   "conf": 0.94
+  },
+  {
+   "text": "CASH",
+   "conf": 0.96
+  },
+  {
+   "text": "RM",
+   "conf": 0.92
+  },
+  {
+   "text": "100.00",
+   "conf": 0.93
+  },
+  {
+   "text": "CHANGE",
+   "conf": 0.96
+  },
+  {
+   "text": "RM",
+   "conf": 0.9
+  },
+  {
+   "text": "51.10",
+   "conf": 0.9
+  },
+  {
+   "text": "GST",
+   "conf": 0.9
+  },
+  {
+   "text": "@6%",
+   "conf": 0.9
+  },
+  {
+   "text": "included",
+   "conf": 0.95
+  },
+  {
+   "text": "in",
+   "conf": 0.95
+  },
+  {
+   "text": "total",
+   "conf": 0.81
+  },
+  {
+   "text": "RM",
+   "conf": 0.74
+  },
+  {
+   "text": "2.77",
+   "conf": 0.74
+  },
+  {
+   "text": "5",
+   "conf": 0.27
+  },
+  {
+   "text": "9",
+   "conf": 0.21
+  },
+  {
+   "text": "a",
+   "conf": 0.12
+  },
+  {
+   "text": "ee",
+   "conf": 0.19
+  },
+  {
+   "text": "ee",
+   "conf": 0.23
+  },
+  {
+   "text": "*",
+   "conf": 0.83
+  },
+  {
+   "text": "91-04-18",
+   "conf": 0.72
+  },
+  {
+   "text": "20:29",
+   "conf": 0.93
+  },
+  {
+   "text": "SHO1",
+   "conf": 0.59
+  },
+  {
+   "text": "7486",
+   "conf": 0.38
+  },
+  {
+   "text": "=6‘11",
+   "conf": 0.0
+  },
+  {
+   "text": "RO00118476",
+   "conf": 0.36
+  },
+  {
+   "text": "OPERATOR",
+   "conf": 0.61
+  },
+  {
+   "text": "TRAINEE",
+   "conf": 0.96
+  },
+  {
+   "text": "CASHIER",
+   "conf": 0.96
+  },
+  {
+   "text": "{",
+   "conf": 0.54
+  },
+  {
+   "text": "|",
+   "conf": 0.5
+  },
+  {
+   "text": "EXCHANGE",
+   "conf": 0.95
+  },
+  {
+   "text": "ARE",
+   "conf": 0.96
+  },
+  {
+   "text": "ALLOWED",
+   "conf": 0.96
+  },
+  {
+   "text": "WITHIN",
+   "conf": 0.96
+  },
+  {
+   "text": "—4|",
+   "conf": 0.0
+  },
+  {
+   "text": "7",
+   "conf": 0.94
+  },
+  {
+   "text": "DAY",
+   "conf": 0.96
+  },
+  {
+   "text": "WITH",
+   "conf": 0.96
+  },
+  {
+   "text": "RECEIPT.",
+   "conf": 0.96
+  },
+  {
+   "text": "se",
+   "conf": 0.32
+  },
+  {
+   "text": "STRICTLY",
+   "conf": 0.95
+  },
+  {
+   "text": "NO",
+   "conf": 0.95
+  },
+  {
+   "text": "CASH",
+   "conf": 0.95
+  },
+  {
+   "text": "REFUND.",
+   "conf": 0.95
+  }
+ ],
+ "mean_conf": 0.742,
+ "low_conf_share": 0.2101,
+ "latency_ms": 1886,
+ "fields": {
+  "company": "MR D 1 Y SON BHD",
+  "date": null,
+  "total": 48.9
+ },
+ "rule_reasons": [
+  "date_not_found"
+ ],
+ "total_candidates": [
+  48.9
+ ],
+ "key": "X51007103649"
+}

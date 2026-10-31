@@ -1,0 +1,142 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "99 SPEED MART S/B (519537-X)",
+  "LOT P.T.2811,JALON ANGSA.",
+  "TAMAN BERKELEY",
+  "41150 KLANG,SELANGOR",
+  "1572-TMN BKT PANDAN",
+  "GST ID.N0:000181747712",
+  "INV0ICE N0:18332/103/T0157",
+  "02:27PM 570285 10-03-18",
+  "104 SUNQUICK OREN 330ML RM5.35s",
+  "Total Sales (Inclusive GST) RM 5.35",
+  "CASH RM 6.00",
+  "CHANGE RM .65",
+  "GST.Summaru Amount(RM) Tax(RH)",
+  "=6 5.05 .30",
+  "Thank You.Please come 3gain",
+  "Keep the invoice for applicable returns"
+ ],
+ "tokens": [
+  {
+   "text": "99 SPEED MART S/B (519537-X)",
+   "conf": 0.9067245721817017
+  },
+  {
+   "text": "LOT P.T.2811,JALON ANGSA.",
+   "conf": 0.8981024086475372
+  },
+  {
+   "text": "TAMAN BERKELEY",
+   "conf": 0.9559854652200427
+  },
+  {
+   "text": "41150 KLANG,SELANGOR",
+   "conf": 0.9571504116058349
+  },
+  {
+   "text": "1572-TMN BKT PANDAN",
+   "conf": 0.9589807202941493
+  },
+  {
+   "text": "GST ID.N0:000181747712",
+   "conf": 0.9544800574129279
+  },
+  {
+   "text": "INV0ICE N0:18332/103/T0157",
+   "conf": 0.9378944406142602
+  },
+  {
+   "text": "02:27PM",
+   "conf": 0.9693508914538792
+  },
+  {
+   "text": "570285",
+   "conf": 0.9977872868378957
+  },
+  {
+   "text": "10-03-18",
+   "conf": 0.9955243989825249
+  },
+  {
+   "text": "104 SUNQUICK OREN 330ML",
+   "conf": 0.9077020235683607
+  },
+  {
+   "text": "RM5.35s",
+   "conf": 0.8888345743928637
+  },
+  {
+   "text": "Total Sales (Inclusive GST) RM",
+   "conf": 0.934485658009847
+  },
+  {
+   "text": "5.35",
+   "conf": 0.9950218349695206
+  },
+  {
+   "text": "CASH RM",
+   "conf": 0.9587934187480381
+  },
+  {
+   "text": "6.00",
+   "conf": 0.9902563542127609
+  },
+  {
+   "text": "CHANGE RM",
+   "conf": 0.9656481477949355
+  },
+  {
+   "text": ".65",
+   "conf": 0.8406955401102701
+  },
+  {
+   "text": "GST.Summaru",
+   "conf": 0.8876997015692971
+  },
+  {
+   "text": "Amount(RM)",
+   "conf": 0.8549217522144318
+  },
+  {
+   "text": "Tax(RH)",
+   "conf": 0.8558794515473502
+  },
+  {
+   "text": "=6",
+   "conf": 0.932324081659317
+  },
+  {
+   "text": "5.05",
+   "conf": 0.9842689335346222
+  },
+  {
+   "text": ".30",
+   "conf": 0.9525230924288431
+  },
+  {
+   "text": "Thank You.Please come 3gain",
+   "conf": 0.9302152571854768
+  },
+  {
+   "text": "Keep the invoice for applicable returns",
+   "conf": 0.9526997223878518
+  }
+ ],
+ "mean_conf": 0.9371,
+ "low_conf_share": 0.0,
+ "latency_ms": 15834,
+ "fields": {
+  "company": null,
+  "date": "2018-03-10",
+  "total": 5.35
+ },
+ "rule_reasons": [
+  "company_not_found"
+ ],
+ "total_candidates": [
+  5.35
+ ],
+ "key": "X51005444044"
+}

@@ -1,0 +1,168 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "SELFIE cOFFEE",
+  "[Prepayment]",
+  "qwaiter: LYNDA SN: 000008661",
+  "GHK: 00747/1",
+  "Open at: 2017-11-23 17:41 28",
+  "Tet: 3 —————",
+  "1 SELFIE COFFEE RM28.00",
+  "Subtotal: RM28.00",
+  "TAX: RMO.00",
+  "Due: M28.00",
+  "Times of Printing: 41",
+  "Thank you!"
+ ],
+ "tokens": [
+  {
+   "text": "SELFIE",
+   "conf": 0.9
+  },
+  {
+   "text": "cOFFEE",
+   "conf": 0.83
+  },
+  {
+   "text": "[Prepayment]",
+   "conf": 0.94
+  },
+  {
+   "text": "qwaiter:",
+   "conf": 0.07
+  },
+  {
+   "text": "LYNDA",
+   "conf": 0.88
+  },
+  {
+   "text": "SN:",
+   "conf": 0.63
+  },
+  {
+   "text": "000008661",
+   "conf": 0.63
+  },
+  {
+   "text": "GHK:",
+   "conf": 0.89
+  },
+  {
+   "text": "00747/1",
+   "conf": 0.81
+  },
+  {
+   "text": "Open",
+   "conf": 0.81
+  },
+  {
+   "text": "at:",
+   "conf": 0.79
+  },
+  {
+   "text": "2017-11-23",
+   "conf": 0.64
+  },
+  {
+   "text": "17:41",
+   "conf": 0.86
+  },
+  {
+   "text": "28",
+   "conf": 0.83
+  },
+  {
+   "text": "Tet:",
+   "conf": 0.38
+  },
+  {
+   "text": "3",
+   "conf": 0.82
+  },
+  {
+   "text": "—————",
+   "conf": 0.11
+  },
+  {
+   "text": "1",
+   "conf": 0.9
+  },
+  {
+   "text": "SELFIE",
+   "conf": 0.91
+  },
+  {
+   "text": "COFFEE",
+   "conf": 0.96
+  },
+  {
+   "text": "RM28.00",
+   "conf": 0.04
+  },
+  {
+   "text": "Subtotal:",
+   "conf": 0.95
+  },
+  {
+   "text": "RM28.00",
+   "conf": 0.89
+  },
+  {
+   "text": "TAX:",
+   "conf": 0.94
+  },
+  {
+   "text": "RMO.00",
+   "conf": 0.47
+  },
+  {
+   "text": "Due:",
+   "conf": 0.96
+  },
+  {
+   "text": "M28.00",
+   "conf": 0.17
+  },
+  {
+   "text": "Times",
+   "conf": 0.95
+  },
+  {
+   "text": "of",
+   "conf": 0.96
+  },
+  {
+   "text": "Printing:",
+   "conf": 0.96
+  },
+  {
+   "text": "41",
+   "conf": 0.78
+  },
+  {
+   "text": "Thank",
+   "conf": 0.95
+  },
+  {
+   "text": "you!",
+   "conf": 0.96
+  }
+ ],
+ "mean_conf": 0.7445,
+ "low_conf_share": 0.1818,
+ "latency_ms": 537,
+ "fields": {
+  "company": "SELFIE COFFEE",
+  "date": "2017-11-23",
+  "total": 28.0
+ },
+ "rule_reasons": [
+  "total_no_keyword_fallback_max"
+ ],
+ "total_candidates": [
+  28.0,
+  28.0,
+  28.0
+ ],
+ "key": "W0199_1bdbd7f90832"
+}

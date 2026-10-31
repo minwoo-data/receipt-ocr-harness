@@ -1,0 +1,151 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "Saniung Realiti Sdn. Bhd. (779763-K)",
+  "(GST Registration No.: 001751072768)",
+  "Car Park Office, Basement 1,",
+  "Lebuhraya SPRINT, PJU6A,",
+  "47400 Petaling Jaya,Selangor",
+  "Tel.:+603 77262929Fax:+6037726 1326",
+  ">>>IX<<",
+  "Tax Inv0ice No.:0714/0601/00601",
+  "27/06/1810:08",
+  "010100Payparking ticket 1.50 RM",
+  "27/06/1809:49-27/06/1810:08",
+  "Length of stay: 0 Dy. 0 Hr. 19 Hin.",
+  "0247295105301103817835357073",
+  "Total anount 1.50RM",
+  "Accepted total 2.00RH",
+  "Change 0.50 RH",
+  "801S5 0.00RH",
+  "** Thank you **",
+  "****************** ******************"
+ ],
+ "tokens": [
+  {
+   "text": "Saniung Realiti Sdn. Bhd. (779763-K)",
+   "conf": 0.9573630905813642
+  },
+  {
+   "text": "(GST Registration No.: 001751072768)",
+   "conf": 0.98815628223949
+  },
+  {
+   "text": "Car Park Office, Basement 1,",
+   "conf": 0.9575628489255905
+  },
+  {
+   "text": "Lebuhraya SPRINT, PJU6A,",
+   "conf": 0.9788787389794985
+  },
+  {
+   "text": "47400 Petaling Jaya,Selangor",
+   "conf": 0.9471607442413058
+  },
+  {
+   "text": "Tel.:+603 77262929Fax:+6037726 1326",
+   "conf": 0.9523967368262155
+  },
+  {
+   "text": ">>>IX<<",
+   "conf": 0.6132876660142627
+  },
+  {
+   "text": "Tax Inv0ice No.:0714/0601/00601",
+   "conf": 0.9477755215860182
+  },
+  {
+   "text": "27/06/1810:08",
+   "conf": 0.981627345085144
+  },
+  {
+   "text": "010100Payparking ticket",
+   "conf": 0.974644528782886
+  },
+  {
+   "text": "1.50 RM",
+   "conf": 0.9410929594721112
+  },
+  {
+   "text": "27/06/1809:49-27/06/1810:08",
+   "conf": 0.9913420566806087
+  },
+  {
+   "text": "Length of stay: 0 Dy. 0 Hr. 19 Hin.",
+   "conf": 0.971984532901219
+  },
+  {
+   "text": "0247295105301103817835357073",
+   "conf": 0.9579726532101631
+  },
+  {
+   "text": "Total anount",
+   "conf": 0.9420886884133021
+  },
+  {
+   "text": "1.50RM",
+   "conf": 0.9385906755924225
+  },
+  {
+   "text": "Accepted total",
+   "conf": 0.9765631769384656
+  },
+  {
+   "text": "2.00RH",
+   "conf": 0.9826279679934183
+  },
+  {
+   "text": "Change",
+   "conf": 0.9970862368742625
+  },
+  {
+   "text": "0.50 RH",
+   "conf": 0.8795855130468097
+  },
+  {
+   "text": "801S5",
+   "conf": 0.5333587944507598
+  },
+  {
+   "text": "0.00RH",
+   "conf": 0.9763631820678711
+  },
+  {
+   "text": "**",
+   "conf": 0.9737690985202789
+  },
+  {
+   "text": "Thank you",
+   "conf": 0.9623257120450338
+  },
+  {
+   "text": "**",
+   "conf": 0.9864353537559509
+  },
+  {
+   "text": "******************",
+   "conf": 0.5535167670912213
+  },
+  {
+   "text": "******************",
+   "conf": 0.7479363845454322
+  }
+ ],
+ "mean_conf": 0.9115,
+ "low_conf_share": 0.0,
+ "latency_ms": 4393,
+ "fields": {
+  "company": "SANIUNG REALITI SDN BHD",
+  "date": null,
+  "total": 2.0
+ },
+ "rule_reasons": [
+  "date_not_found",
+  "total_multiple_keyword_amounts"
+ ],
+ "total_candidates": [
+  1.5,
+  2.0
+ ],
+ "key": "X51008123450"
+}

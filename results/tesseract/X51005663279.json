@@ -1,0 +1,492 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "SYARIKAT PERNIAGAAN GIN KEE",
+  "(81109-A)",
+  "NO 290, JALAN AIR PANAS,",
+  "SETAPAK,",
+  "53200, KUALA LUMPUR. ,",
+  "TEL . 03-40210276",
+  "GST ID : 000750673920",
+  "SIMPLIFIED TAX INVOICE",
+  "Doc No * €800012441 Date. 28/12/2017",
+  "Cashier USER Time: 11:58:00",
+  "Salesperson . Ref. :",
+  "item ty S/Price Amount__Tax_",
+  "1971 1 148.40 14840 SR",
+  "PASIR HALUS 1 LOAD (SMALL)",
+  "~ totalQty = ©»©148400—~CS",
+  "Total Sales (Excluding GST) ; 140.00",
+  "Discount : 0.00",
+  "Total GST : 8.40",
+  "Rounding ; 0.00",
+  "Total Sales (inclusive of GST) : 148.40",
+  "CASH : 148.40",
+  "Change : 0.00",
+  "GSTSUMMARY —",
+  "Tax Code % Amt(RM) Tax (RM)",
+  "SR 6 140.00 8.40",
+  "Total : 140.00 8.40",
+  "GOODS SOLD ARE NOT RETURNABLE. THANK YOU",
+  ", |"
+ ],
+ "tokens": [
+  {
+   "text": "SYARIKAT",
+   "conf": 0.92
+  },
+  {
+   "text": "PERNIAGAAN",
+   "conf": 0.91
+  },
+  {
+   "text": "GIN",
+   "conf": 0.95
+  },
+  {
+   "text": "KEE",
+   "conf": 0.96
+  },
+  {
+   "text": "(81109-A)",
+   "conf": 0.92
+  },
+  {
+   "text": "NO",
+   "conf": 0.93
+  },
+  {
+   "text": "290,",
+   "conf": 0.93
+  },
+  {
+   "text": "JALAN",
+   "conf": 0.96
+  },
+  {
+   "text": "AIR",
+   "conf": 0.93
+  },
+  {
+   "text": "PANAS,",
+   "conf": 0.81
+  },
+  {
+   "text": "SETAPAK,",
+   "conf": 0.92
+  },
+  {
+   "text": "53200,",
+   "conf": 0.96
+  },
+  {
+   "text": "KUALA",
+   "conf": 0.95
+  },
+  {
+   "text": "LUMPUR.",
+   "conf": 0.94
+  },
+  {
+   "text": ",",
+   "conf": 0.0
+  },
+  {
+   "text": "TEL",
+   "conf": 0.92
+  },
+  {
+   "text": ".",
+   "conf": 0.88
+  },
+  {
+   "text": "03-40210276",
+   "conf": 0.91
+  },
+  {
+   "text": "GST",
+   "conf": 0.95
+  },
+  {
+   "text": "ID",
+   "conf": 0.58
+  },
+  {
+   "text": ":",
+   "conf": 0.89
+  },
+  {
+   "text": "000750673920",
+   "conf": 0.96
+  },
+  {
+   "text": "SIMPLIFIED",
+   "conf": 0.95
+  },
+  {
+   "text": "TAX",
+   "conf": 0.96
+  },
+  {
+   "text": "INVOICE",
+   "conf": 0.96
+  },
+  {
+   "text": "Doc",
+   "conf": 0.95
+  },
+  {
+   "text": "No",
+   "conf": 0.96
+  },
+  {
+   "text": "*",
+   "conf": 0.09
+  },
+  {
+   "text": "€800012441",
+   "conf": 0.24
+  },
+  {
+   "text": "Date.",
+   "conf": 0.93
+  },
+  {
+   "text": "28/12/2017",
+   "conf": 0.96
+  },
+  {
+   "text": "Cashier",
+   "conf": 0.96
+  },
+  {
+   "text": "USER",
+   "conf": 0.95
+  },
+  {
+   "text": "Time:",
+   "conf": 0.89
+  },
+  {
+   "text": "11:58:00",
+   "conf": 0.08
+  },
+  {
+   "text": "Salesperson",
+   "conf": 0.87
+  },
+  {
+   "text": ".",
+   "conf": 0.64
+  },
+  {
+   "text": "Ref.",
+   "conf": 0.91
+  },
+  {
+   "text": ":",
+   "conf": 0.56
+  },
+  {
+   "text": "item",
+   "conf": 0.17
+  },
+  {
+   "text": "ty",
+   "conf": 0.2
+  },
+  {
+   "text": "S/Price",
+   "conf": 0.19
+  },
+  {
+   "text": "Amount__Tax_",
+   "conf": 0.19
+  },
+  {
+   "text": "1971",
+   "conf": 0.96
+  },
+  {
+   "text": "1",
+   "conf": 0.95
+  },
+  {
+   "text": "148.40",
+   "conf": 0.96
+  },
+  {
+   "text": "14840",
+   "conf": 0.92
+  },
+  {
+   "text": "SR",
+   "conf": 0.94
+  },
+  {
+   "text": "PASIR",
+   "conf": 0.92
+  },
+  {
+   "text": "HALUS",
+   "conf": 0.92
+  },
+  {
+   "text": "1",
+   "conf": 0.53
+  },
+  {
+   "text": "LOAD",
+   "conf": 0.53
+  },
+  {
+   "text": "(SMALL)",
+   "conf": 0.96
+  },
+  {
+   "text": "~",
+   "conf": 0.24
+  },
+  {
+   "text": "totalQty",
+   "conf": 0.0
+  },
+  {
+   "text": "=",
+   "conf": 0.0
+  },
+  {
+   "text": "©»©148400—~CS",
+   "conf": 0.0
+  },
+  {
+   "text": "Total",
+   "conf": 0.96
+  },
+  {
+   "text": "Sales",
+   "conf": 0.96
+  },
+  {
+   "text": "(Excluding",
+   "conf": 0.96
+  },
+  {
+   "text": "GST)",
+   "conf": 0.71
+  },
+  {
+   "text": ";",
+   "conf": 0.41
+  },
+  {
+   "text": "140.00",
+   "conf": 0.96
+  },
+  {
+   "text": "Discount",
+   "conf": 0.9
+  },
+  {
+   "text": ":",
+   "conf": 0.87
+  },
+  {
+   "text": "0.00",
+   "conf": 0.96
+  },
+  {
+   "text": "Total",
+   "conf": 0.33
+  },
+  {
+   "text": "GST",
+   "conf": 0.33
+  },
+  {
+   "text": ":",
+   "conf": 0.6
+  },
+  {
+   "text": "8.40",
+   "conf": 0.96
+  },
+  {
+   "text": "Rounding",
+   "conf": 0.91
+  },
+  {
+   "text": ";",
+   "conf": 0.28
+  },
+  {
+   "text": "0.00",
+   "conf": 0.95
+  },
+  {
+   "text": "Total",
+   "conf": 0.96
+  },
+  {
+   "text": "Sales",
+   "conf": 0.96
+  },
+  {
+   "text": "(inclusive",
+   "conf": 0.9
+  },
+  {
+   "text": "of",
+   "conf": 0.96
+  },
+  {
+   "text": "GST)",
+   "conf": 0.93
+  },
+  {
+   "text": ":",
+   "conf": 0.49
+  },
+  {
+   "text": "148.40",
+   "conf": 0.96
+  },
+  {
+   "text": "CASH",
+   "conf": 0.93
+  },
+  {
+   "text": ":",
+   "conf": 0.92
+  },
+  {
+   "text": "148.40",
+   "conf": 0.95
+  },
+  {
+   "text": "Change",
+   "conf": 0.92
+  },
+  {
+   "text": ":",
+   "conf": 0.92
+  },
+  {
+   "text": "0.00",
+   "conf": 0.96
+  },
+  {
+   "text": "GSTSUMMARY",
+   "conf": 0.4
+  },
+  {
+   "text": "—",
+   "conf": 0.0
+  },
+  {
+   "text": "Tax",
+   "conf": 0.95
+  },
+  {
+   "text": "Code",
+   "conf": 0.95
+  },
+  {
+   "text": "%",
+   "conf": 0.91
+  },
+  {
+   "text": "Amt(RM)",
+   "conf": 0.91
+  },
+  {
+   "text": "Tax",
+   "conf": 0.34
+  },
+  {
+   "text": "(RM)",
+   "conf": 0.34
+  },
+  {
+   "text": "SR",
+   "conf": 0.95
+  },
+  {
+   "text": "6",
+   "conf": 0.96
+  },
+  {
+   "text": "140.00",
+   "conf": 0.94
+  },
+  {
+   "text": "8.40",
+   "conf": 0.71
+  },
+  {
+   "text": "Total",
+   "conf": 0.93
+  },
+  {
+   "text": ":",
+   "conf": 0.92
+  },
+  {
+   "text": "140.00",
+   "conf": 0.96
+  },
+  {
+   "text": "8.40",
+   "conf": 0.96
+  },
+  {
+   "text": "GOODS",
+   "conf": 0.96
+  },
+  {
+   "text": "SOLD",
+   "conf": 0.96
+  },
+  {
+   "text": "ARE",
+   "conf": 0.95
+  },
+  {
+   "text": "NOT",
+   "conf": 0.95
+  },
+  {
+   "text": "RETURNABLE.",
+   "conf": 0.72
+  },
+  {
+   "text": "THANK",
+   "conf": 0.96
+  },
+  {
+   "text": "YOU",
+   "conf": 0.96
+  },
+  {
+   "text": ",",
+   "conf": 0.0
+  },
+  {
+   "text": "|",
+   "conf": 0.4
+  }
+ ],
+ "mean_conf": 0.7596,
+ "low_conf_share": 0.2072,
+ "latency_ms": 728,
+ "fields": {
+  "company": "SYARIKAT PERNIAGAAN GIN KEE",
+  "date": "2017-12-28",
+  "total": 148.4
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  148.4
+ ],
+ "key": "X51005663279"
+}

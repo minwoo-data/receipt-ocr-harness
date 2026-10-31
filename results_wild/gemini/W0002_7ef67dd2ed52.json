@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.6-flash",
+ "provider": "gemini",
+ "raw_text": "{\"vendor\": \"OFFICE DEPOT\", \"date\": \"2011-07-28\", \"subtotal\": 299.99, \"tax\": 21.00, \"tip\": null, \"discount\": -100.00, \"total\": 320.99, \"currency\": \"USD\", \"confidence\": 0.95, \"notes\": null}",
+ "data": {
+  "vendor": "OFFICE DEPOT",
+  "date": "2011-07-28",
+  "subtotal": 299.99,
+  "tax": 21.0,
+  "tip": null,
+  "discount": -100.0,
+  "total": 320.99,
+  "currency": "USD",
+  "confidence": 0.95,
+  "notes": null
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1433,
+  "output_tokens": 93,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.001424,
+ "latency_ms": 12986,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.6-flash",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.6-flash"
+ ],
+ "key": "W0002_7ef67dd2ed52"
+}

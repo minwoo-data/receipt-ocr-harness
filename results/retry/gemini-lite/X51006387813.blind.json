@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.1-flash-lite",
+ "provider": "gemini",
+ "raw_text": "{\n  \"vendor\": \"TOKYO KITCHEN\",\n  \"date\": \"2017-04-23\",\n  \"subtotal\": 97.60,\n  \"tax\": 6.44,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 113.80,\n  \"currency\": \"MYR\",\n  \"confidence\": 0.98,\n  \"notes\": \"Service charge of 9.76 is listed separately from tax.\"\n}",
+ "data": {
+  "vendor": "TOKYO KITCHEN",
+  "date": "2017-04-23",
+  "subtotal": 97.6,
+  "tax": 6.44,
+  "tip": null,
+  "discount": null,
+  "total": 113.8,
+  "currency": "MYR",
+  "confidence": 0.98,
+  "notes": "Service charge of 9.76 is listed separately from tax."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1508,
+  "output_tokens": 123,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.000562,
+ "latency_ms": 1127,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.1-flash-lite",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.1-flash-lite"
+ ],
+ "key": "X51006387813"
+}

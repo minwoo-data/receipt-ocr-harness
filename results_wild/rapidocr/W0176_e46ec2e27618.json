@@ -1,0 +1,238 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "BOMBAY BARBEQUE",
+  "Crystal Paradise,Ground Floor",
+  "Off Veera Desai Rd.",
+  "Andher1（W）,Hunbai-400058.",
+  "INVDICE",
+  "No:BBQA-F-5460 Dt:22-Sep-2016 15:00",
+  "Tb:26- Px:3",
+  "W:ALAM Op:KHAN",
+  "KUTS:20167,20170",
+  "Description Qty Anount",
+  "LUNBUFVEG AD 21,256.00",
+  "LLNBUFVEGKID 1 360.00",
+  "DOP.-DHARDSASAUVIGNON 1 0.00",
+  "Corp.- ICETEA（all flav 1 0.00",
+  "CaP.-CARLSBERG PINT 1 0.00",
+  "Total 1,616.00",
+  "Service Charge 5x: 81.00",
+  "ServiceTax5.6% 95.20",
+  "SbCess0.2%: 3.40",
+  "KKCesS0.2%: 3.40",
+  "Bill Total: 1,799.00",
+  "Grand Total: 1,799.00",
+  "VATTIN27080974172VW.E.F14/03/14",
+  "SERVICE TAX NO.AABF02933RST001E&0.E",
+  "Dm Shivan Construction",
+  "THANK YOU VISIT AGAIN"
+ ],
+ "tokens": [
+  {
+   "text": "BOMBAY BARBEQUE",
+   "conf": 0.9481826186180115
+  },
+  {
+   "text": "Crystal Paradise,Ground Floor",
+   "conf": 0.9358158584298759
+  },
+  {
+   "text": "Off Veera Desai Rd.",
+   "conf": 0.9098985195159912
+  },
+  {
+   "text": "Andher1（W）,Hunbai-400058.",
+   "conf": 0.8120312368869782
+  },
+  {
+   "text": "INVDICE",
+   "conf": 0.9275745664324079
+  },
+  {
+   "text": "No:BBQA-F-5460",
+   "conf": 0.9137014959539685
+  },
+  {
+   "text": "Dt:22-Sep-2016 15:00",
+   "conf": 0.9423255980014801
+  },
+  {
+   "text": "Tb:26-",
+   "conf": 0.8898354768753052
+  },
+  {
+   "text": "Px:3",
+   "conf": 0.8536709547042847
+  },
+  {
+   "text": "W:ALAM",
+   "conf": 0.8965004136164983
+  },
+  {
+   "text": "Op:KHAN",
+   "conf": 0.8147642357008797
+  },
+  {
+   "text": "KUTS:20167,20170",
+   "conf": 0.9247912652790546
+  },
+  {
+   "text": "Description",
+   "conf": 0.9647323380817067
+  },
+  {
+   "text": "Qty",
+   "conf": 0.9455949266751608
+  },
+  {
+   "text": "Anount",
+   "conf": 0.9376151164372762
+  },
+  {
+   "text": "LUNBUFVEG AD",
+   "conf": 0.9299673189719518
+  },
+  {
+   "text": "21,256.00",
+   "conf": 0.9468652009963989
+  },
+  {
+   "text": "LLNBUFVEGKID",
+   "conf": 0.9248123988509178
+  },
+  {
+   "text": "1",
+   "conf": 0.9829903841018677
+  },
+  {
+   "text": "360.00",
+   "conf": 0.987431804339091
+  },
+  {
+   "text": "DOP.-DHARDSASAUVIGNON",
+   "conf": 0.8968862919580369
+  },
+  {
+   "text": "1",
+   "conf": 0.9886325001716614
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9967491924762726
+  },
+  {
+   "text": "Corp.-",
+   "conf": 0.8200593739748001
+  },
+  {
+   "text": "ICETEA（all flav",
+   "conf": 0.8393828252951304
+  },
+  {
+   "text": "1",
+   "conf": 0.9776670336723328
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9922187030315399
+  },
+  {
+   "text": "CaP.-CARLSBERG PINT",
+   "conf": 0.8459789627476743
+  },
+  {
+   "text": "1",
+   "conf": 0.9788123965263367
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9962553679943085
+  },
+  {
+   "text": "Total",
+   "conf": 0.981402051448822
+  },
+  {
+   "text": "1,616.00",
+   "conf": 0.9693088680505753
+  },
+  {
+   "text": "Service Charge 5x:",
+   "conf": 0.9011711610688103
+  },
+  {
+   "text": "81.00",
+   "conf": 0.9952009797096253
+  },
+  {
+   "text": "ServiceTax5.6%",
+   "conf": 0.962767264672688
+  },
+  {
+   "text": "95.20",
+   "conf": 0.9894603729248047
+  },
+  {
+   "text": "SbCess0.2%:",
+   "conf": 0.8796653639186512
+  },
+  {
+   "text": "3.40",
+   "conf": 0.9933266490697861
+  },
+  {
+   "text": "KKCesS0.2%:",
+   "conf": 0.8415104367516257
+  },
+  {
+   "text": "3.40",
+   "conf": 0.9936819970607758
+  },
+  {
+   "text": "Bill Total:",
+   "conf": 0.9341229417107322
+  },
+  {
+   "text": "1,799.00",
+   "conf": 0.9736346676945686
+  },
+  {
+   "text": "Grand Total:",
+   "conf": 0.9511070350805918
+  },
+  {
+   "text": "1,799.00",
+   "conf": 0.9696830436587334
+  },
+  {
+   "text": "VATTIN27080974172VW.E.F14/03/14",
+   "conf": 0.9867825546572285
+  },
+  {
+   "text": "SERVICE TAX NO.AABF02933RST001E&0.E",
+   "conf": 0.9340470569474356
+  },
+  {
+   "text": "Dm Shivan Construction",
+   "conf": 0.9325624406337738
+  },
+  {
+   "text": "THANK YOU VISIT AGAIN",
+   "conf": 0.953071171329135
+  }
+ ],
+ "mean_conf": 0.9347,
+ "low_conf_share": 0.0,
+ "latency_ms": 3661,
+ "fields": {
+  "company": "BOMBAY BARBEQUE",
+  "date": "2016-09-22",
+  "total": 1799.0
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  1799.0
+ ],
+ "key": "W0176_e46ec2e27618"
+}

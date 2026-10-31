@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.1-flash-lite",
+ "provider": "gemini",
+ "raw_text": "{\n  \"vendor\": \"ASO ELECTRICAL TRADING SDN BHD\",\n  \"date\": \"2017-12-04\",\n  \"subtotal\": 93.40,\n  \"tax\": 5.60,\n  \"tip\": null,\n  \"discount\": 0.00,\n  \"total\": 99.00,\n  \"currency\": \"MYR\",\n  \"confidence\": 0.98,\n  \"notes\": null\n}",
+ "data": {
+  "vendor": "ASO ELECTRICAL TRADING SDN BHD",
+  "date": "2017-12-04",
+  "subtotal": 93.4,
+  "tax": 5.6,
+  "tip": null,
+  "discount": 0.0,
+  "total": 99.0,
+  "currency": "MYR",
+  "confidence": 0.98,
+  "notes": null
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1444,
+  "output_tokens": 115,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.000534,
+ "latency_ms": 3185,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.1-flash-lite",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.1-flash-lite"
+ ],
+ "key": "X51005705804"
+}

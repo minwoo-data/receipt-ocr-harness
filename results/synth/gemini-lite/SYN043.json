@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.1-flash-lite",
+ "provider": "gemini",
+ "raw_text": "{\n  \"vendor\": \"GREENLEAF GROCER SDN BHD\",\n  \"date\": null,\n  \"subtotal\": null,\n  \"tax\": null,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": null,\n  \"currency\": null,\n  \"confidence\": 0.8,\n  \"notes\": \"The receipt is incomplete as it lacks a date, total amount, and currency information.\"\n}",
+ "data": {
+  "vendor": "GREENLEAF GROCER SDN BHD",
+  "date": null,
+  "subtotal": null,
+  "tax": null,
+  "tip": null,
+  "discount": null,
+  "total": null,
+  "currency": null,
+  "confidence": 0.8,
+  "notes": "The receipt is incomplete as it lacks a date, total amount, and currency information."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1449,
+  "output_tokens": 102,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.000515,
+ "latency_ms": 1796,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.1-flash-lite",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.1-flash-lite"
+ ],
+ "key": "SYN043"
+}

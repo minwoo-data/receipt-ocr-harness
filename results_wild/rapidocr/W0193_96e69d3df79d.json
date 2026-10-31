@@ -1,0 +1,316 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "Cash Invoice",
+  "71",
+  "DIONYSUS MANSION",
+  "FUN AND GOURMET LTD",
+  "LIMASSOL",
+  "Tel:25222210",
+  "TIC No:VAT No:10341450C",
+  "Date 26/07/2016 T:23:01:45",
+  "Cashier:GEORGE ZAXAROG InvNo:00005360",
+  "Party ：4",
+  "Description Qty Price TotalV",
+  "Agios Nikolaos1L 2@ 2.00 4.00",
+  "Coca Cola Bottle 10 2.00 2.00",
+  "Coca Cola Zero Bot 20 2.00 4.00",
+  "Kyperountas Roze G 4.00 4.00",
+  "TAHINI STARTER 2.50 2.50",
+  "HALLOUMI STARTER ® 7.00 7.00",
+  "ORZO STARTER 6.50 6.50",
+  "COWBOY STEAK 10 46.00 46.00",
+  "PORK BELLY 16 14.50 14.50",
+  "DUCKFILLET 114.50 14.50",
+  "（TotalQty:12）",
+  "Grand Total EUR 105.00",
+  "[V.A.T Analysis]",
+  "%00'6S 96.33 8.67 105.00",
+  "96.33 8.67 105.00",
+  "Thank You!",
+  "（c）Softech Ltd"
+ ],
+ "tokens": [
+  {
+   "text": "Cash Invoice",
+   "conf": 0.9785527487595876
+  },
+  {
+   "text": "71",
+   "conf": 0.9962664842605591
+  },
+  {
+   "text": "FUN AND GOURMET LTD",
+   "conf": 0.922572976664493
+  },
+  {
+   "text": "DIONYSUS MANSION",
+   "conf": 0.9499772675335407
+  },
+  {
+   "text": "Tel:25222210",
+   "conf": 0.983399286866188
+  },
+  {
+   "text": "LIMASSOL",
+   "conf": 0.97845758497715
+  },
+  {
+   "text": "TIC No:VAT No:10341450C",
+   "conf": 0.9529844755711763
+  },
+  {
+   "text": "Date",
+   "conf": 0.9882000833749771
+  },
+  {
+   "text": "26/07/2016",
+   "conf": 0.9966846704483032
+  },
+  {
+   "text": "T:23:01:45",
+   "conf": 0.904320752620697
+  },
+  {
+   "text": "Cashier:GEORGE ZAXAROG",
+   "conf": 0.9576122679493644
+  },
+  {
+   "text": "InvNo:00005360",
+   "conf": 0.9701014459133148
+  },
+  {
+   "text": "Party",
+   "conf": 0.9811879873275757
+  },
+  {
+   "text": "：4",
+   "conf": 0.6845158934593201
+  },
+  {
+   "text": "Description",
+   "conf": 0.9869050654498014
+  },
+  {
+   "text": "Qty",
+   "conf": 0.9282556970914205
+  },
+  {
+   "text": "Price",
+   "conf": 0.9692091107368469
+  },
+  {
+   "text": "TotalV",
+   "conf": 0.9516246616840363
+  },
+  {
+   "text": "Agios Nikolaos1L",
+   "conf": 0.8437090218067169
+  },
+  {
+   "text": "2@",
+   "conf": 0.7991478145122528
+  },
+  {
+   "text": "2.00",
+   "conf": 0.9952981024980545
+  },
+  {
+   "text": "4.00",
+   "conf": 0.9869505614042282
+  },
+  {
+   "text": "Coca Cola Bottle",
+   "conf": 0.9693168066442013
+  },
+  {
+   "text": "10",
+   "conf": 0.5962468087673187
+  },
+  {
+   "text": "2.00",
+   "conf": 0.9961067289113998
+  },
+  {
+   "text": "2.00",
+   "conf": 0.9784958958625793
+  },
+  {
+   "text": "Coca Cola Zero Bot",
+   "conf": 0.948472433620029
+  },
+  {
+   "text": "20",
+   "conf": 0.6687481701374054
+  },
+  {
+   "text": "2.00",
+   "conf": 0.9951130449771881
+  },
+  {
+   "text": "4.00",
+   "conf": 0.9905859380960464
+  },
+  {
+   "text": "Kyperountas Roze G",
+   "conf": 0.9643449783325195
+  },
+  {
+   "text": "4.00",
+   "conf": 0.9917034953832626
+  },
+  {
+   "text": "4.00",
+   "conf": 0.9582393020391464
+  },
+  {
+   "text": "TAHINI STARTER",
+   "conf": 0.9645575029509408
+  },
+  {
+   "text": "2.50",
+   "conf": 0.9951362609863281
+  },
+  {
+   "text": "2.50",
+   "conf": 0.9962510168552399
+  },
+  {
+   "text": "HALLOUMI STARTER",
+   "conf": 0.9584060497581959
+  },
+  {
+   "text": "®",
+   "conf": 0.5025174021720886
+  },
+  {
+   "text": "7.00",
+   "conf": 0.9909684509038925
+  },
+  {
+   "text": "7.00",
+   "conf": 0.9958044439554214
+  },
+  {
+   "text": "ORZO STARTER",
+   "conf": 0.9439965536197027
+  },
+  {
+   "text": "6.50",
+   "conf": 0.9869412928819656
+  },
+  {
+   "text": "6.50",
+   "conf": 0.9932673126459122
+  },
+  {
+   "text": "COWBOY STEAK",
+   "conf": 0.9609879155953726
+  },
+  {
+   "text": "10",
+   "conf": 0.8069916665554047
+  },
+  {
+   "text": "46.00",
+   "conf": 0.9908882737159729
+  },
+  {
+   "text": "46.00",
+   "conf": 0.9929702639579773
+  },
+  {
+   "text": "PORK BELLY",
+   "conf": 0.9527771532535553
+  },
+  {
+   "text": "16",
+   "conf": 0.7952256500720978
+  },
+  {
+   "text": "14.50",
+   "conf": 0.9929358005523682
+  },
+  {
+   "text": "14.50",
+   "conf": 0.9930467486381531
+  },
+  {
+   "text": "DUCKFILLET",
+   "conf": 0.9931488990783691
+  },
+  {
+   "text": "114.50",
+   "conf": 0.9928465982278188
+  },
+  {
+   "text": "14.50",
+   "conf": 0.9964782953262329
+  },
+  {
+   "text": "（TotalQty:12）",
+   "conf": 0.8997431351588323
+  },
+  {
+   "text": "Grand Total EUR",
+   "conf": 0.93391987880071
+  },
+  {
+   "text": "105.00",
+   "conf": 0.9959837098916372
+  },
+  {
+   "text": "[V.A.T Analysis]",
+   "conf": 0.8678719699382782
+  },
+  {
+   "text": "%00'6S",
+   "conf": 0.7954439471165339
+  },
+  {
+   "text": "96.33",
+   "conf": 0.9936383247375489
+  },
+  {
+   "text": "8.67",
+   "conf": 0.986840695142746
+  },
+  {
+   "text": "105.00",
+   "conf": 0.9966071645418803
+  },
+  {
+   "text": "96.33",
+   "conf": 0.9939340472221374
+  },
+  {
+   "text": "8.67",
+   "conf": 0.9856455624103546
+  },
+  {
+   "text": "105.00",
+   "conf": 0.9976158142089844
+  },
+  {
+   "text": "Thank You!",
+   "conf": 0.9477442324161529
+  },
+  {
+   "text": "（c）Softech Ltd",
+   "conf": 0.9187648381505694
+  }
+ ],
+ "mean_conf": 0.9384,
+ "low_conf_share": 0.0,
+ "latency_ms": 3481,
+ "fields": {
+  "company": "FUN AND GOURMET LTD",
+  "date": "2016-07-26",
+  "total": 105.0
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  105.0
+ ],
+ "key": "W0193_96e69d3df79d"
+}

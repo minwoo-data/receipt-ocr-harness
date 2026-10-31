@@ -1,0 +1,262 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "2LO081",
+  "UROKOJAPANESECUISINESDNBHD",
+  "22A-1,JALAN17/54,",
+  "SECTION17,",
+  "46400PETALINGJAYA",
+  "SELANGOR.",
+  "03-79321023/0191",
+  "GSTRegNo:001126838272",
+  "Bill No 01H-26411",
+  "Date 14/05/201812:14:08PM",
+  "Cashier ： FLOR",
+  "TableNo ： T03",
+  "QtyDescription Amount",
+  "1UROKOSALAD@28.00 28.00SR",
+  "1NIKUSHOGAYAKISET@ 38.68SR",
+  "38.68",
+  "1GARLICCHAHAN@ 6.00SR",
+  "2GREENTEA@1.00 2.00SR",
+  "5 Total: 74.68",
+  "Discount: (.00)",
+  "ServiceChg10.00%： 7.47",
+  "GST: 4.93",
+  "Grand Total: 87.08",
+  "Rounding Adjustment: 0.02",
+  "Net Total: 87.16 M",
+  "GSTSummary % Amount(RM Tax(RM)",
+  "SR 6.00 82.15 4.93"
+ ],
+ "tokens": [
+  {
+   "text": "2LO081",
+   "conf": 0.7739607741435369
+  },
+  {
+   "text": "UROKOJAPANESECUISINESDNBHD",
+   "conf": 0.9939920466679794
+  },
+  {
+   "text": "22A-1,JALAN17/54,",
+   "conf": 0.9706913127618677
+  },
+  {
+   "text": "SECTION17,",
+   "conf": 0.9919921278953552
+  },
+  {
+   "text": "46400PETALINGJAYA",
+   "conf": 0.9882114845163682
+  },
+  {
+   "text": "SELANGOR.",
+   "conf": 0.9911819762653775
+  },
+  {
+   "text": "03-79321023/0191",
+   "conf": 0.9979747496545315
+  },
+  {
+   "text": "GSTRegNo:001126838272",
+   "conf": 0.9932414491971334
+  },
+  {
+   "text": "Bill No",
+   "conf": 0.9284182276044574
+  },
+  {
+   "text": "01H-26411",
+   "conf": 0.9610534310340881
+  },
+  {
+   "text": "Date",
+   "conf": 0.9932396411895752
+  },
+  {
+   "text": "14/05/201812:14:08PM",
+   "conf": 0.9881665736436844
+  },
+  {
+   "text": "Cashier",
+   "conf": 0.99246027639934
+  },
+  {
+   "text": "：",
+   "conf": 0.7874733805656433
+  },
+  {
+   "text": "FLOR",
+   "conf": 0.995148777961731
+  },
+  {
+   "text": "TableNo",
+   "conf": 0.9939150299344744
+  },
+  {
+   "text": "：",
+   "conf": 0.9256778359413147
+  },
+  {
+   "text": "T03",
+   "conf": 0.9522023995717367
+  },
+  {
+   "text": "QtyDescription",
+   "conf": 0.9961426641259875
+  },
+  {
+   "text": "Amount",
+   "conf": 0.9939762949943542
+  },
+  {
+   "text": "1UROKOSALAD@28.00",
+   "conf": 0.9877043787170859
+  },
+  {
+   "text": "28.00SR",
+   "conf": 0.9969541685921806
+  },
+  {
+   "text": "1NIKUSHOGAYAKISET@",
+   "conf": 0.9912967052724626
+  },
+  {
+   "text": "38.68SR",
+   "conf": 0.9983920199530465
+  },
+  {
+   "text": "38.68",
+   "conf": 0.9977408051490784
+  },
+  {
+   "text": "1GARLICCHAHAN@",
+   "conf": 0.989577191216605
+  },
+  {
+   "text": "6.00SR",
+   "conf": 0.9974865516026815
+  },
+  {
+   "text": "2GREENTEA@1.00",
+   "conf": 0.9912625678947994
+  },
+  {
+   "text": "2.00SR",
+   "conf": 0.9971150855223337
+  },
+  {
+   "text": "5",
+   "conf": 0.9990015625953674
+  },
+  {
+   "text": "Total:",
+   "conf": 0.9793617129325867
+  },
+  {
+   "text": "74.68",
+   "conf": 0.9986676216125489
+  },
+  {
+   "text": "Discount:",
+   "conf": 0.988253136475881
+  },
+  {
+   "text": "(.00)",
+   "conf": 0.9919649004936218
+  },
+  {
+   "text": "ServiceChg10.00%：",
+   "conf": 0.9312106739072239
+  },
+  {
+   "text": "7.47",
+   "conf": 0.9976808279752731
+  },
+  {
+   "text": "GST:",
+   "conf": 0.9348771572113037
+  },
+  {
+   "text": "4.93",
+   "conf": 0.9984756261110306
+  },
+  {
+   "text": "Grand Total:",
+   "conf": 0.9335102289915085
+  },
+  {
+   "text": "87.08",
+   "conf": 0.9991403460502625
+  },
+  {
+   "text": "Rounding Adjustment:",
+   "conf": 0.9657371401786804
+  },
+  {
+   "text": "0.02",
+   "conf": 0.9299090206623077
+  },
+  {
+   "text": "Net Total:",
+   "conf": 0.9302670538425446
+  },
+  {
+   "text": "87.16",
+   "conf": 0.9270490646362305
+  },
+  {
+   "text": "M",
+   "conf": 0.9912057518959045
+  },
+  {
+   "text": "GSTSummary",
+   "conf": 0.9954131245613098
+  },
+  {
+   "text": "%",
+   "conf": 0.998857855796814
+  },
+  {
+   "text": "Amount(RM",
+   "conf": 0.9353828562630547
+  },
+  {
+   "text": "Tax(RM)",
+   "conf": 0.9461712922368731
+  },
+  {
+   "text": "SR",
+   "conf": 0.9932525455951691
+  },
+  {
+   "text": "6.00",
+   "conf": 0.9693159610033035
+  },
+  {
+   "text": "82.15",
+   "conf": 0.9974265336990357
+  },
+  {
+   "text": "4.93",
+   "conf": 0.9972807019948959
+  }
+ ],
+ "mean_conf": 0.9714,
+ "low_conf_share": 0.0,
+ "latency_ms": 4671,
+ "fields": {
+  "company": "UROKOJAPANESECUISINESDNBHD",
+  "date": "2018-05-14",
+  "total": 87.16
+ },
+ "rule_reasons": [
+  "total_multiple_strong_amounts"
+ ],
+ "total_candidates": [
+  87.08,
+  87.16
+ ],
+ "key": "X51006647932"
+}

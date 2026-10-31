@@ -1,0 +1,947 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "mr XELKEN",
+  "bh a SERVICE",
+  "ELKEN SERVICE SDN BHD (310184-X)",
+  "No 2-1 Jalan 3/137B Batu 5",
+  "Jalan Kelang Lama 58000 Kuala Lumpur",
+  "Tel: 603-79859377 Fax no: 03-79807585",
+  "Email : elkenservice@elken.com.my",
+  "GST Reg No : 000154042368",
+  "TAX INVOICE",
+  "DATE : 10 OCT 2017 TUE",
+  "S/O NO > $$3511032318",
+  "JOB TYPE : MAINTENANCE",
+  "INVOICE NO : ESS447-004439",
+  "BILL 10 . WONG PEI HAR",
+  "ADDRESS > 2920/1, JALAN JINJANG INDAH 1,",
+  "JINJANG UT \\RA,",
+  "52000 KEPONG, KUALA LUMPUR.",
+  "e : 0122536936",
+  "(YPE UF UNI",
+  "DESCRIPTION SUPPLY PRICE QTY TOTAL",
+  "RM RM",
+  "VALUE PACK A - BP SER SR 235.85 | 235.85",
+  "CARBON FILTER - BP SERIES |",
+  "-SEUIMENT FILTER - KP SERIES ]",
+  "SUBIUTAL 235.85",
+  "UISCOUN =~",
+  "SUBTOTAL (FXCiUUING GST) 235.85",
+  "usl (64) — 14.19",
+  "{OTAL AMOUNT Dut 250.00",
+  "PAYMENT MODE: CASH 250 .00",
+  "GS1 SUMMARY: AMOUNT GST AMOUNT",
+  "EXCLUSIVE INCLUSIVE",
+  "RM RM RM",
+  "0% ZRL : Zero rate 0.00 0.00 0.00",
+  "6% SR: Standard rate 235.85 14.15 250.00",
+  "> : Relief Supply 0.00 0.00 0.00",
+  "OTAL AMOUNT 235.85 14.15 250.00",
+  "CHECKLIS1",
+  "- Feedwater pressure(psi ) 20",
+  "- Feed water TDS 006",
+  "~ Before service RO TDS 000",
+  "~ After service RO TDS 000",
+  "REMARK",
+  "BP3/613 chg | 2",
+  "Customer Acceptance of Attended By",
+  "Product & Service FONG MUN LOUNG",
+  "in good order Tech ID: ESS447",
+  "01:55:59 PM",
+  "swer Signature",
+  "Thank You"
+ ],
+ "tokens": [
+  {
+   "text": "mr",
+   "conf": 0.61
+  },
+  {
+   "text": "XELKEN",
+   "conf": 0.62
+  },
+  {
+   "text": "bh",
+   "conf": 0.55
+  },
+  {
+   "text": "a",
+   "conf": 0.52
+  },
+  {
+   "text": "SERVICE",
+   "conf": 0.84
+  },
+  {
+   "text": "ELKEN",
+   "conf": 0.9
+  },
+  {
+   "text": "SERVICE",
+   "conf": 0.96
+  },
+  {
+   "text": "SDN",
+   "conf": 0.78
+  },
+  {
+   "text": "BHD",
+   "conf": 0.92
+  },
+  {
+   "text": "(310184-X)",
+   "conf": 0.75
+  },
+  {
+   "text": "No",
+   "conf": 0.96
+  },
+  {
+   "text": "2-1",
+   "conf": 0.92
+  },
+  {
+   "text": "Jalan",
+   "conf": 0.93
+  },
+  {
+   "text": "3/137B",
+   "conf": 0.91
+  },
+  {
+   "text": "Batu",
+   "conf": 0.96
+  },
+  {
+   "text": "5",
+   "conf": 0.96
+  },
+  {
+   "text": "Jalan",
+   "conf": 0.92
+  },
+  {
+   "text": "Kelang",
+   "conf": 0.91
+  },
+  {
+   "text": "Lama",
+   "conf": 0.92
+  },
+  {
+   "text": "58000",
+   "conf": 0.96
+  },
+  {
+   "text": "Kuala",
+   "conf": 0.95
+  },
+  {
+   "text": "Lumpur",
+   "conf": 0.95
+  },
+  {
+   "text": "Tel:",
+   "conf": 0.92
+  },
+  {
+   "text": "603-79859377",
+   "conf": 0.89
+  },
+  {
+   "text": "Fax",
+   "conf": 0.96
+  },
+  {
+   "text": "no:",
+   "conf": 0.93
+  },
+  {
+   "text": "03-79807585",
+   "conf": 0.92
+  },
+  {
+   "text": "Email",
+   "conf": 0.92
+  },
+  {
+   "text": ":",
+   "conf": 0.89
+  },
+  {
+   "text": "elkenservice@elken.com.my",
+   "conf": 0.88
+  },
+  {
+   "text": "GST",
+   "conf": 0.96
+  },
+  {
+   "text": "Reg",
+   "conf": 0.95
+  },
+  {
+   "text": "No",
+   "conf": 0.92
+  },
+  {
+   "text": ":",
+   "conf": 0.91
+  },
+  {
+   "text": "000154042368",
+   "conf": 0.96
+  },
+  {
+   "text": "TAX",
+   "conf": 0.91
+  },
+  {
+   "text": "INVOICE",
+   "conf": 0.95
+  },
+  {
+   "text": "DATE",
+   "conf": 0.96
+  },
+  {
+   "text": ":",
+   "conf": 0.55
+  },
+  {
+   "text": "10",
+   "conf": 0.88
+  },
+  {
+   "text": "OCT",
+   "conf": 0.96
+  },
+  {
+   "text": "2017",
+   "conf": 0.94
+  },
+  {
+   "text": "TUE",
+   "conf": 0.96
+  },
+  {
+   "text": "S/O",
+   "conf": 0.56
+  },
+  {
+   "text": "NO",
+   "conf": 0.93
+  },
+  {
+   "text": ">",
+   "conf": 0.53
+  },
+  {
+   "text": "$$3511032318",
+   "conf": 0.65
+  },
+  {
+   "text": "JOB",
+   "conf": 0.96
+  },
+  {
+   "text": "TYPE",
+   "conf": 0.69
+  },
+  {
+   "text": ":",
+   "conf": 0.45
+  },
+  {
+   "text": "MAINTENANCE",
+   "conf": 0.96
+  },
+  {
+   "text": "INVOICE",
+   "conf": 0.96
+  },
+  {
+   "text": "NO",
+   "conf": 0.9
+  },
+  {
+   "text": ":",
+   "conf": 0.83
+  },
+  {
+   "text": "ESS447-004439",
+   "conf": 0.85
+  },
+  {
+   "text": "BILL",
+   "conf": 0.94
+  },
+  {
+   "text": "10",
+   "conf": 0.32
+  },
+  {
+   "text": ".",
+   "conf": 0.21
+  },
+  {
+   "text": "WONG",
+   "conf": 0.95
+  },
+  {
+   "text": "PEI",
+   "conf": 0.86
+  },
+  {
+   "text": "HAR",
+   "conf": 0.94
+  },
+  {
+   "text": "ADDRESS",
+   "conf": 0.95
+  },
+  {
+   "text": ">",
+   "conf": 0.47
+  },
+  {
+   "text": "2920/1,",
+   "conf": 0.94
+  },
+  {
+   "text": "JALAN",
+   "conf": 0.92
+  },
+  {
+   "text": "JINJANG",
+   "conf": 0.9
+  },
+  {
+   "text": "INDAH",
+   "conf": 0.91
+  },
+  {
+   "text": "1,",
+   "conf": 0.96
+  },
+  {
+   "text": "JINJANG",
+   "conf": 0.92
+  },
+  {
+   "text": "UT",
+   "conf": 0.23
+  },
+  {
+   "text": "\\RA,",
+   "conf": 0.23
+  },
+  {
+   "text": "52000",
+   "conf": 0.93
+  },
+  {
+   "text": "KEPONG,",
+   "conf": 0.92
+  },
+  {
+   "text": "KUALA",
+   "conf": 0.96
+  },
+  {
+   "text": "LUMPUR.",
+   "conf": 0.95
+  },
+  {
+   "text": "e",
+   "conf": 0.32
+  },
+  {
+   "text": ":",
+   "conf": 0.0
+  },
+  {
+   "text": "0122536936",
+   "conf": 0.95
+  },
+  {
+   "text": "(YPE",
+   "conf": 0.25
+  },
+  {
+   "text": "UF",
+   "conf": 0.78
+  },
+  {
+   "text": "UNI",
+   "conf": 0.02
+  },
+  {
+   "text": "DESCRIPTION",
+   "conf": 0.9
+  },
+  {
+   "text": "SUPPLY",
+   "conf": 0.94
+  },
+  {
+   "text": "PRICE",
+   "conf": 0.91
+  },
+  {
+   "text": "QTY",
+   "conf": 0.87
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.87
+  },
+  {
+   "text": "RM",
+   "conf": 0.96
+  },
+  {
+   "text": "RM",
+   "conf": 0.96
+  },
+  {
+   "text": "VALUE",
+   "conf": 0.93
+  },
+  {
+   "text": "PACK",
+   "conf": 0.95
+  },
+  {
+   "text": "A",
+   "conf": 0.92
+  },
+  {
+   "text": "-",
+   "conf": 0.86
+  },
+  {
+   "text": "BP",
+   "conf": 0.95
+  },
+  {
+   "text": "SER",
+   "conf": 0.95
+  },
+  {
+   "text": "SR",
+   "conf": 0.96
+  },
+  {
+   "text": "235.85",
+   "conf": 0.7
+  },
+  {
+   "text": "|",
+   "conf": 0.7
+  },
+  {
+   "text": "235.85",
+   "conf": 0.7
+  },
+  {
+   "text": "CARBON",
+   "conf": 0.96
+  },
+  {
+   "text": "FILTER",
+   "conf": 0.93
+  },
+  {
+   "text": "-",
+   "conf": 0.38
+  },
+  {
+   "text": "BP",
+   "conf": 0.96
+  },
+  {
+   "text": "SERIES",
+   "conf": 0.44
+  },
+  {
+   "text": "|",
+   "conf": 0.93
+  },
+  {
+   "text": "-SEUIMENT",
+   "conf": 0.4
+  },
+  {
+   "text": "FILTER",
+   "conf": 0.91
+  },
+  {
+   "text": "-",
+   "conf": 0.73
+  },
+  {
+   "text": "KP",
+   "conf": 0.8
+  },
+  {
+   "text": "SERIES",
+   "conf": 0.93
+  },
+  {
+   "text": "]",
+   "conf": 0.54
+  },
+  {
+   "text": "SUBIUTAL",
+   "conf": 0.81
+  },
+  {
+   "text": "235.85",
+   "conf": 0.63
+  },
+  {
+   "text": "UISCOUN",
+   "conf": 0.32
+  },
+  {
+   "text": "=~",
+   "conf": 0.38
+  },
+  {
+   "text": "SUBTOTAL",
+   "conf": 0.76
+  },
+  {
+   "text": "(FXCiUUING",
+   "conf": 0.12
+  },
+  {
+   "text": "GST)",
+   "conf": 0.91
+  },
+  {
+   "text": "235.85",
+   "conf": 0.34
+  },
+  {
+   "text": "usl",
+   "conf": 0.83
+  },
+  {
+   "text": "(64)",
+   "conf": 0.9
+  },
+  {
+   "text": "—",
+   "conf": 0.64
+  },
+  {
+   "text": "14.19",
+   "conf": 0.87
+  },
+  {
+   "text": "{OTAL",
+   "conf": 0.31
+  },
+  {
+   "text": "AMOUNT",
+   "conf": 0.95
+  },
+  {
+   "text": "Dut",
+   "conf": 0.44
+  },
+  {
+   "text": "250.00",
+   "conf": 0.54
+  },
+  {
+   "text": "PAYMENT",
+   "conf": 0.95
+  },
+  {
+   "text": "MODE:",
+   "conf": 0.94
+  },
+  {
+   "text": "CASH",
+   "conf": 0.96
+  },
+  {
+   "text": "250",
+   "conf": 0.83
+  },
+  {
+   "text": ".00",
+   "conf": 0.83
+  },
+  {
+   "text": "GS1",
+   "conf": 0.05
+  },
+  {
+   "text": "SUMMARY:",
+   "conf": 0.51
+  },
+  {
+   "text": "AMOUNT",
+   "conf": 0.96
+  },
+  {
+   "text": "GST",
+   "conf": 0.96
+  },
+  {
+   "text": "AMOUNT",
+   "conf": 0.96
+  },
+  {
+   "text": "EXCLUSIVE",
+   "conf": 0.94
+  },
+  {
+   "text": "INCLUSIVE",
+   "conf": 0.95
+  },
+  {
+   "text": "RM",
+   "conf": 0.96
+  },
+  {
+   "text": "RM",
+   "conf": 0.96
+  },
+  {
+   "text": "RM",
+   "conf": 0.96
+  },
+  {
+   "text": "0%",
+   "conf": 0.83
+  },
+  {
+   "text": "ZRL",
+   "conf": 0.91
+  },
+  {
+   "text": ":",
+   "conf": 0.91
+  },
+  {
+   "text": "Zero",
+   "conf": 0.95
+  },
+  {
+   "text": "rate",
+   "conf": 0.95
+  },
+  {
+   "text": "0.00",
+   "conf": 0.89
+  },
+  {
+   "text": "0.00",
+   "conf": 0.89
+  },
+  {
+   "text": "0.00",
+   "conf": 0.93
+  },
+  {
+   "text": "6%",
+   "conf": 0.96
+  },
+  {
+   "text": "SR:",
+   "conf": 0.47
+  },
+  {
+   "text": "Standard",
+   "conf": 0.95
+  },
+  {
+   "text": "rate",
+   "conf": 0.96
+  },
+  {
+   "text": "235.85",
+   "conf": 0.93
+  },
+  {
+   "text": "14.15",
+   "conf": 0.78
+  },
+  {
+   "text": "250.00",
+   "conf": 0.78
+  },
+  {
+   "text": ">",
+   "conf": 0.16
+  },
+  {
+   "text": ":",
+   "conf": 0.6
+  },
+  {
+   "text": "Relief",
+   "conf": 0.96
+  },
+  {
+   "text": "Supply",
+   "conf": 0.96
+  },
+  {
+   "text": "0.00",
+   "conf": 0.93
+  },
+  {
+   "text": "0.00",
+   "conf": 0.93
+  },
+  {
+   "text": "0.00",
+   "conf": 0.96
+  },
+  {
+   "text": "OTAL",
+   "conf": 0.91
+  },
+  {
+   "text": "AMOUNT",
+   "conf": 0.96
+  },
+  {
+   "text": "235.85",
+   "conf": 0.42
+  },
+  {
+   "text": "14.15",
+   "conf": 0.78
+  },
+  {
+   "text": "250.00",
+   "conf": 0.78
+  },
+  {
+   "text": "CHECKLIS1",
+   "conf": 0.62
+  },
+  {
+   "text": "-",
+   "conf": 0.77
+  },
+  {
+   "text": "Feedwater",
+   "conf": 0.89
+  },
+  {
+   "text": "pressure(psi",
+   "conf": 0.47
+  },
+  {
+   "text": ")",
+   "conf": 0.47
+  },
+  {
+   "text": "20",
+   "conf": 0.96
+  },
+  {
+   "text": "-",
+   "conf": 0.76
+  },
+  {
+   "text": "Feed",
+   "conf": 0.96
+  },
+  {
+   "text": "water",
+   "conf": 0.96
+  },
+  {
+   "text": "TDS",
+   "conf": 0.8
+  },
+  {
+   "text": "006",
+   "conf": 0.9
+  },
+  {
+   "text": "~",
+   "conf": 0.77
+  },
+  {
+   "text": "Before",
+   "conf": 0.95
+  },
+  {
+   "text": "service",
+   "conf": 0.96
+  },
+  {
+   "text": "RO",
+   "conf": 0.95
+  },
+  {
+   "text": "TDS",
+   "conf": 0.96
+  },
+  {
+   "text": "000",
+   "conf": 0.95
+  },
+  {
+   "text": "~",
+   "conf": 0.51
+  },
+  {
+   "text": "After",
+   "conf": 0.95
+  },
+  {
+   "text": "service",
+   "conf": 0.96
+  },
+  {
+   "text": "RO",
+   "conf": 0.95
+  },
+  {
+   "text": "TDS",
+   "conf": 0.96
+  },
+  {
+   "text": "000",
+   "conf": 0.96
+  },
+  {
+   "text": "REMARK",
+   "conf": 0.96
+  },
+  {
+   "text": "BP3/613",
+   "conf": 0.73
+  },
+  {
+   "text": "chg",
+   "conf": 0.92
+  },
+  {
+   "text": "|",
+   "conf": 0.82
+  },
+  {
+   "text": "2",
+   "conf": 0.95
+  },
+  {
+   "text": "Customer",
+   "conf": 0.96
+  },
+  {
+   "text": "Acceptance",
+   "conf": 0.96
+  },
+  {
+   "text": "of",
+   "conf": 0.96
+  },
+  {
+   "text": "Attended",
+   "conf": 0.96
+  },
+  {
+   "text": "By",
+   "conf": 0.96
+  },
+  {
+   "text": "Product",
+   "conf": 0.92
+  },
+  {
+   "text": "&",
+   "conf": 0.92
+  },
+  {
+   "text": "Service",
+   "conf": 0.95
+  },
+  {
+   "text": "FONG",
+   "conf": 0.95
+  },
+  {
+   "text": "MUN",
+   "conf": 0.93
+  },
+  {
+   "text": "LOUNG",
+   "conf": 0.34
+  },
+  {
+   "text": "in",
+   "conf": 0.91
+  },
+  {
+   "text": "good",
+   "conf": 0.93
+  },
+  {
+   "text": "order",
+   "conf": 0.82
+  },
+  {
+   "text": "Tech",
+   "conf": 0.96
+  },
+  {
+   "text": "ID:",
+   "conf": 0.92
+  },
+  {
+   "text": "ESS447",
+   "conf": 0.72
+  },
+  {
+   "text": "01:55:59",
+   "conf": 0.76
+  },
+  {
+   "text": "PM",
+   "conf": 0.94
+  },
+  {
+   "text": "swer",
+   "conf": 0.26
+  },
+  {
+   "text": "Signature",
+   "conf": 0.93
+  },
+  {
+   "text": "Thank",
+   "conf": 0.94
+  },
+  {
+   "text": "You",
+   "conf": 0.96
+  }
+ ],
+ "mean_conf": 0.8096,
+ "low_conf_share": 0.1233,
+ "latency_ms": 3170,
+ "fields": {
+  "company": "ELKEN SERVICE SDN BHD",
+  "date": "2017-10-10",
+  "total": 250.0
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  250.0,
+  250.0
+ ],
+ "key": "X51006389963"
+}

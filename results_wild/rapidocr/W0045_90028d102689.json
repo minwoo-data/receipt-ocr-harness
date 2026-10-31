@@ -1,0 +1,142 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "EXPRESS PAY",
+  "WELCOME",
+  "DEAL.ER#9734435-A0Z",
+  "NESTERN&IRVI",
+  "400ONKESTERN",
+  "CHICAGO TL",
+  "XXXXXXXXXXXX7269",
+  "CARD726",
+  "DEBIT",
+  "FREDERICKK SHARTI",
+  "INVACZ7686",
+  "AUTH",
+  "APPROVAL#ACZ768",
+  "DATE02/05/1116:54",
+  "PUMP=06 UNLD",
+  "GALLONS 1.002",
+  "PRICE/GAL $3.559",
+  "TOTAL(D) S3.57",
+  "THANK YOU",
+  "HAVE A NICEDAY"
+ ],
+ "tokens": [
+  {
+   "text": "EXPRESS PAY",
+   "conf": 0.964367227120833
+  },
+  {
+   "text": "WELCOME",
+   "conf": 0.9398043411118644
+  },
+  {
+   "text": "DEAL.ER#9734435-A0Z",
+   "conf": 0.9161603576258609
+  },
+  {
+   "text": "NESTERN&IRVI",
+   "conf": 0.9174624159932137
+  },
+  {
+   "text": "400ONKESTERN",
+   "conf": 0.8731284911433855
+  },
+  {
+   "text": "CHICAGO",
+   "conf": 0.9888212425368172
+  },
+  {
+   "text": "TL",
+   "conf": 0.7496029138565063
+  },
+  {
+   "text": "XXXXXXXXXXXX7269",
+   "conf": 0.9022329337894917
+  },
+  {
+   "text": "CARD726",
+   "conf": 0.9913434641701835
+  },
+  {
+   "text": "DEBIT",
+   "conf": 0.9254271626472473
+  },
+  {
+   "text": "FREDERICKK SHARTI",
+   "conf": 0.9380992335431716
+  },
+  {
+   "text": "INVACZ7686",
+   "conf": 0.9413286745548248
+  },
+  {
+   "text": "AUTH",
+   "conf": 0.976779967546463
+  },
+  {
+   "text": "APPROVAL#ACZ768",
+   "conf": 0.944023585319519
+  },
+  {
+   "text": "DATE02/05/1116:54",
+   "conf": 0.9807957761427936
+  },
+  {
+   "text": "PUMP=06",
+   "conf": 0.9176722424370902
+  },
+  {
+   "text": "UNLD",
+   "conf": 0.9918621629476547
+  },
+  {
+   "text": "GALLONS",
+   "conf": 0.9922892110688346
+  },
+  {
+   "text": "1.002",
+   "conf": 0.977194356918335
+  },
+  {
+   "text": "PRICE/GAL",
+   "conf": 0.9779500961303711
+  },
+  {
+   "text": "$3.559",
+   "conf": 0.9154309531052908
+  },
+  {
+   "text": "TOTAL(D)",
+   "conf": 0.9033458158373833
+  },
+  {
+   "text": "S3.57",
+   "conf": 0.8669218719005585
+  },
+  {
+   "text": "THANK YOU",
+   "conf": 0.966546807024214
+  },
+  {
+   "text": "HAVE A NICEDAY",
+   "conf": 0.8953484381948199
+  }
+ ],
+ "mean_conf": 0.9342,
+ "low_conf_share": 0.0,
+ "latency_ms": 3650,
+ "fields": {
+  "company": "EXPRESS PAY",
+  "date": null,
+  "total": 3.57
+ },
+ "rule_reasons": [
+  "date_not_found"
+ ],
+ "total_candidates": [
+  3.57
+ ],
+ "key": "W0045_90028d102689"
+}

@@ -1,0 +1,451 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "HOME MASTER HARDWARE &",
+  "ELECTRICAL",
+  "| NQ.113G &115G, JALAN SETIA GEMBILANG",
+  "| U1WHG BANDAR SETIA ALAM,",
+  "40170 BANDAR SETIA ALAM,",
+  "SELANGOR.",
+  "| Company Reg No. :SA03711951-F",
+  "GST Reg No. 001637511168",
+  "TAX IBRIOICE",
+  "Involee Mo. «CS. 47832",
+  "Date: 22/12/2017 14:03",
+  "Cashier #: CASHIER",
+  "RM Code",
+  "24NMN7Y M.ONE TAPE",
+  "1.00 ¥ 19.90 15.90 sR",
+  "Subtotal : 15.90",
+  "TotalExclofGST = —s—«*48.00",
+  "Total Incl, of GST 15.90",
+  "TotalAmtRounded «15.90",
+  "Payment : 50.00",
+  "Change Due : 34.10",
+  ". Total item¢e) : 1",
+  "G ummery Amouni(RM) Tax (RN)",
+  "SR @e% 18.00 0.90",
+  "MRD TRerpravgepyi ORIN",
+  "ARY GOODS RETURN PLEASE 00 WITHIN",
+  "7 DAYS WITH ORIGINAL RECEIPT Ta“"
+ ],
+ "tokens": [
+  {
+   "text": "HOME",
+   "conf": 0.0
+  },
+  {
+   "text": "MASTER",
+   "conf": 0.92
+  },
+  {
+   "text": "HARDWARE",
+   "conf": 0.93
+  },
+  {
+   "text": "&",
+   "conf": 0.89
+  },
+  {
+   "text": "ELECTRICAL",
+   "conf": 0.95
+  },
+  {
+   "text": "|",
+   "conf": 0.63
+  },
+  {
+   "text": "NQ.113G",
+   "conf": 0.34
+  },
+  {
+   "text": "&115G,",
+   "conf": 0.65
+  },
+  {
+   "text": "JALAN",
+   "conf": 0.93
+  },
+  {
+   "text": "SETIA",
+   "conf": 0.92
+  },
+  {
+   "text": "GEMBILANG",
+   "conf": 0.64
+  },
+  {
+   "text": "|",
+   "conf": 0.56
+  },
+  {
+   "text": "U1WHG",
+   "conf": 0.58
+  },
+  {
+   "text": "BANDAR",
+   "conf": 0.83
+  },
+  {
+   "text": "SETIA",
+   "conf": 0.91
+  },
+  {
+   "text": "ALAM,",
+   "conf": 0.96
+  },
+  {
+   "text": "40170",
+   "conf": 0.93
+  },
+  {
+   "text": "BANDAR",
+   "conf": 0.89
+  },
+  {
+   "text": "SETIA",
+   "conf": 0.89
+  },
+  {
+   "text": "ALAM,",
+   "conf": 0.96
+  },
+  {
+   "text": "SELANGOR.",
+   "conf": 0.91
+  },
+  {
+   "text": "|",
+   "conf": 0.57
+  },
+  {
+   "text": "Company",
+   "conf": 0.94
+  },
+  {
+   "text": "Reg",
+   "conf": 0.96
+  },
+  {
+   "text": "No.",
+   "conf": 0.74
+  },
+  {
+   "text": ":SA03711951-F",
+   "conf": 0.0
+  },
+  {
+   "text": "GST",
+   "conf": 0.96
+  },
+  {
+   "text": "Reg",
+   "conf": 0.95
+  },
+  {
+   "text": "No.",
+   "conf": 0.86
+  },
+  {
+   "text": "001637511168",
+   "conf": 0.32
+  },
+  {
+   "text": "TAX",
+   "conf": 0.92
+  },
+  {
+   "text": "IBRIOICE",
+   "conf": 0.1
+  },
+  {
+   "text": "Involee",
+   "conf": 0.0
+  },
+  {
+   "text": "Mo.",
+   "conf": 0.61
+  },
+  {
+   "text": "«CS.",
+   "conf": 0.44
+  },
+  {
+   "text": "47832",
+   "conf": 0.28
+  },
+  {
+   "text": "Date:",
+   "conf": 0.3
+  },
+  {
+   "text": "22/12/2017",
+   "conf": 0.84
+  },
+  {
+   "text": "14:03",
+   "conf": 0.95
+  },
+  {
+   "text": "Cashier",
+   "conf": 0.03
+  },
+  {
+   "text": "#:",
+   "conf": 0.78
+  },
+  {
+   "text": "CASHIER",
+   "conf": 0.95
+  },
+  {
+   "text": "RM",
+   "conf": 0.86
+  },
+  {
+   "text": "Code",
+   "conf": 0.86
+  },
+  {
+   "text": "24NMN7Y",
+   "conf": 0.0
+  },
+  {
+   "text": "M.ONE",
+   "conf": 0.79
+  },
+  {
+   "text": "TAPE",
+   "conf": 0.92
+  },
+  {
+   "text": "1.00",
+   "conf": 0.9
+  },
+  {
+   "text": "¥",
+   "conf": 0.76
+  },
+  {
+   "text": "19.90",
+   "conf": 0.75
+  },
+  {
+   "text": "15.90",
+   "conf": 0.88
+  },
+  {
+   "text": "sR",
+   "conf": 0.25
+  },
+  {
+   "text": "Subtotal",
+   "conf": 0.84
+  },
+  {
+   "text": ":",
+   "conf": 0.66
+  },
+  {
+   "text": "15.90",
+   "conf": 0.71
+  },
+  {
+   "text": "TotalExclofGST",
+   "conf": 0.68
+  },
+  {
+   "text": "=",
+   "conf": 0.12
+  },
+  {
+   "text": "—s—«*48.00",
+   "conf": 0.0
+  },
+  {
+   "text": "Total",
+   "conf": 0.43
+  },
+  {
+   "text": "Incl,",
+   "conf": 0.85
+  },
+  {
+   "text": "of",
+   "conf": 0.96
+  },
+  {
+   "text": "GST",
+   "conf": 0.85
+  },
+  {
+   "text": "15.90",
+   "conf": 0.96
+  },
+  {
+   "text": "TotalAmtRounded",
+   "conf": 0.68
+  },
+  {
+   "text": "«15.90",
+   "conf": 0.22
+  },
+  {
+   "text": "Payment",
+   "conf": 0.86
+  },
+  {
+   "text": ":",
+   "conf": 0.71
+  },
+  {
+   "text": "50.00",
+   "conf": 0.79
+  },
+  {
+   "text": "Change",
+   "conf": 0.92
+  },
+  {
+   "text": "Due",
+   "conf": 0.89
+  },
+  {
+   "text": ":",
+   "conf": 0.83
+  },
+  {
+   "text": "34.10",
+   "conf": 0.88
+  },
+  {
+   "text": ".",
+   "conf": 0.0
+  },
+  {
+   "text": "Total",
+   "conf": 0.92
+  },
+  {
+   "text": "item¢e)",
+   "conf": 0.01
+  },
+  {
+   "text": ":",
+   "conf": 0.18
+  },
+  {
+   "text": "1",
+   "conf": 0.66
+  },
+  {
+   "text": "G",
+   "conf": 0.63
+  },
+  {
+   "text": "ummery",
+   "conf": 0.22
+  },
+  {
+   "text": "Amouni(RM)",
+   "conf": 0.28
+  },
+  {
+   "text": "Tax",
+   "conf": 0.4
+  },
+  {
+   "text": "(RN)",
+   "conf": 0.74
+  },
+  {
+   "text": "SR",
+   "conf": 0.66
+  },
+  {
+   "text": "@e%",
+   "conf": 0.11
+  },
+  {
+   "text": "18.00",
+   "conf": 0.73
+  },
+  {
+   "text": "0.90",
+   "conf": 0.92
+  },
+  {
+   "text": "MRD",
+   "conf": 0.28
+  },
+  {
+   "text": "TRerpravgepyi",
+   "conf": 0.0
+  },
+  {
+   "text": "ORIN",
+   "conf": 0.18
+  },
+  {
+   "text": "ARY",
+   "conf": 0.84
+  },
+  {
+   "text": "GOODS",
+   "conf": 0.85
+  },
+  {
+   "text": "RETURN",
+   "conf": 0.96
+  },
+  {
+   "text": "PLEASE",
+   "conf": 0.95
+  },
+  {
+   "text": "00",
+   "conf": 0.71
+  },
+  {
+   "text": "WITHIN",
+   "conf": 0.93
+  },
+  {
+   "text": "7",
+   "conf": 0.96
+  },
+  {
+   "text": "DAYS",
+   "conf": 0.95
+  },
+  {
+   "text": "WITH",
+   "conf": 0.86
+  },
+  {
+   "text": "ORIGINAL",
+   "conf": 0.95
+  },
+  {
+   "text": "RECEIPT",
+   "conf": 0.36
+  },
+  {
+   "text": "Ta“",
+   "conf": 0.44
+  }
+ ],
+ "mean_conf": 0.6555,
+ "low_conf_share": 0.2772,
+ "latency_ms": 2506,
+ "fields": {
+  "company": "HOME MASTER HARDWARE",
+  "date": "2017-12-22",
+  "total": 15.9
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  15.9
+ ],
+ "key": "X51005301659"
+}

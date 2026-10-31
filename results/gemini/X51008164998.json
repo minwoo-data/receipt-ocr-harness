@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.6-flash",
+ "provider": "gemini",
+ "raw_text": "{\"vendor\": \"ONE ONE THREE SEAFOOD RESTAURANT SDN BHD\", \"date\": \"2018-06-20\", \"subtotal\": 38.0, \"tax\": 0.0, \"tip\": null, \"discount\": null, \"total\": 38.0, \"currency\": \"MYR\", \"confidence\": 0.95, \"notes\": null}",
+ "data": {
+  "vendor": "ONE ONE THREE SEAFOOD RESTAURANT SDN BHD",
+  "date": "2018-06-20",
+  "subtotal": 38.0,
+  "tax": 0.0,
+  "tip": null,
+  "discount": null,
+  "total": 38.0,
+  "currency": "MYR",
+  "confidence": 0.95,
+  "notes": null
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1473,
+  "output_tokens": 91,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.001446,
+ "latency_ms": 1542,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.6-flash",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.6-flash"
+ ],
+ "key": "X51008164998"
+}

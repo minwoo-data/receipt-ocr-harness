@@ -1,0 +1,370 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "Sener icky : Ssersen .",
+  "IKANO HANDEL_SDN BHD",
+  "(1074617k)",
+  "IKEA Cheras",
+  "No 2A Jalan Cochrane",
+  "Taman Maluri",
+  "55100 KUALA LUMPUR",
+  "GST No.: 000115154944",
+  "Slip: oooovogvg000712950",
+  "Date: 25/04/18",
+  "Time; 11:06",
+  "Trans: 409712949 Staff: 95897",
+  "Description Amount TX",
+  "598336001 6 Chicken Curry Puff.",
+  "4 bag @ 5.50 22.00 SR",
+  "Total RM Including GST 6X 22.00",
+  "Rounding Ad). 0.00",
+  "Total Rounded 22.00",
+  "Cash -22.00",
+  "GST SR 6% 22.00 1.25",
+  "Amt. Excl. GST 20.76",
+  "No. of Items 4",
+  "APPROVED aon",
+  "rife * sprit .",
+  "Oly"
+ ],
+ "tokens": [
+  {
+   "text": "Sener",
+   "conf": 0.24
+  },
+  {
+   "text": "icky",
+   "conf": 0.42
+  },
+  {
+   "text": ":",
+   "conf": 0.0
+  },
+  {
+   "text": "Ssersen",
+   "conf": 0.23
+  },
+  {
+   "text": ".",
+   "conf": 0.1
+  },
+  {
+   "text": "IKANO",
+   "conf": 0.82
+  },
+  {
+   "text": "HANDEL_SDN",
+   "conf": 0.9
+  },
+  {
+   "text": "BHD",
+   "conf": 0.93
+  },
+  {
+   "text": "(1074617k)",
+   "conf": 0.43
+  },
+  {
+   "text": "IKEA",
+   "conf": 0.93
+  },
+  {
+   "text": "Cheras",
+   "conf": 0.92
+  },
+  {
+   "text": "No",
+   "conf": 0.96
+  },
+  {
+   "text": "2A",
+   "conf": 0.9
+  },
+  {
+   "text": "Jalan",
+   "conf": 0.95
+  },
+  {
+   "text": "Cochrane",
+   "conf": 0.96
+  },
+  {
+   "text": "Taman",
+   "conf": 0.9
+  },
+  {
+   "text": "Maluri",
+   "conf": 0.87
+  },
+  {
+   "text": "55100",
+   "conf": 0.91
+  },
+  {
+   "text": "KUALA",
+   "conf": 0.94
+  },
+  {
+   "text": "LUMPUR",
+   "conf": 0.94
+  },
+  {
+   "text": "GST",
+   "conf": 0.9
+  },
+  {
+   "text": "No.:",
+   "conf": 0.63
+  },
+  {
+   "text": "000115154944",
+   "conf": 0.92
+  },
+  {
+   "text": "Slip:",
+   "conf": 0.9
+  },
+  {
+   "text": "oooovogvg000712950",
+   "conf": 0.0
+  },
+  {
+   "text": "Date:",
+   "conf": 0.96
+  },
+  {
+   "text": "25/04/18",
+   "conf": 0.96
+  },
+  {
+   "text": "Time;",
+   "conf": 0.89
+  },
+  {
+   "text": "11:06",
+   "conf": 0.94
+  },
+  {
+   "text": "Trans:",
+   "conf": 0.77
+  },
+  {
+   "text": "409712949",
+   "conf": 0.95
+  },
+  {
+   "text": "Staff:",
+   "conf": 0.94
+  },
+  {
+   "text": "95897",
+   "conf": 0.94
+  },
+  {
+   "text": "Description",
+   "conf": 0.92
+  },
+  {
+   "text": "Amount",
+   "conf": 0.9
+  },
+  {
+   "text": "TX",
+   "conf": 0.81
+  },
+  {
+   "text": "598336001",
+   "conf": 0.63
+  },
+  {
+   "text": "6",
+   "conf": 0.65
+  },
+  {
+   "text": "Chicken",
+   "conf": 0.94
+  },
+  {
+   "text": "Curry",
+   "conf": 0.96
+  },
+  {
+   "text": "Puff.",
+   "conf": 0.57
+  },
+  {
+   "text": "4",
+   "conf": 0.95
+  },
+  {
+   "text": "bag",
+   "conf": 0.89
+  },
+  {
+   "text": "@",
+   "conf": 0.85
+  },
+  {
+   "text": "5.50",
+   "conf": 0.77
+  },
+  {
+   "text": "22.00",
+   "conf": 0.77
+  },
+  {
+   "text": "SR",
+   "conf": 0.67
+  },
+  {
+   "text": "Total",
+   "conf": 0.92
+  },
+  {
+   "text": "RM",
+   "conf": 0.76
+  },
+  {
+   "text": "Including",
+   "conf": 0.95
+  },
+  {
+   "text": "GST",
+   "conf": 0.87
+  },
+  {
+   "text": "6X",
+   "conf": 0.42
+  },
+  {
+   "text": "22.00",
+   "conf": 0.47
+  },
+  {
+   "text": "Rounding",
+   "conf": 0.96
+  },
+  {
+   "text": "Ad).",
+   "conf": 0.9
+  },
+  {
+   "text": "0.00",
+   "conf": 0.77
+  },
+  {
+   "text": "Total",
+   "conf": 0.92
+  },
+  {
+   "text": "Rounded",
+   "conf": 0.96
+  },
+  {
+   "text": "22.00",
+   "conf": 0.72
+  },
+  {
+   "text": "Cash",
+   "conf": 0.96
+  },
+  {
+   "text": "-22.00",
+   "conf": 0.57
+  },
+  {
+   "text": "GST",
+   "conf": 0.88
+  },
+  {
+   "text": "SR",
+   "conf": 0.73
+  },
+  {
+   "text": "6%",
+   "conf": 0.57
+  },
+  {
+   "text": "22.00",
+   "conf": 0.87
+  },
+  {
+   "text": "1.25",
+   "conf": 0.93
+  },
+  {
+   "text": "Amt.",
+   "conf": 0.86
+  },
+  {
+   "text": "Excl.",
+   "conf": 0.86
+  },
+  {
+   "text": "GST",
+   "conf": 0.95
+  },
+  {
+   "text": "20.76",
+   "conf": 0.69
+  },
+  {
+   "text": "No.",
+   "conf": 0.92
+  },
+  {
+   "text": "of",
+   "conf": 0.96
+  },
+  {
+   "text": "Items",
+   "conf": 0.96
+  },
+  {
+   "text": "4",
+   "conf": 0.97
+  },
+  {
+   "text": "APPROVED",
+   "conf": 0.95
+  },
+  {
+   "text": "aon",
+   "conf": 0.41
+  },
+  {
+   "text": "rife",
+   "conf": 0.28
+  },
+  {
+   "text": "*",
+   "conf": 0.0
+  },
+  {
+   "text": "sprit",
+   "conf": 0.45
+  },
+  {
+   "text": ".",
+   "conf": 0.0
+  },
+  {
+   "text": "Oly",
+   "conf": 0.0
+  }
+ ],
+ "mean_conf": 0.7484,
+ "low_conf_share": 0.1852,
+ "latency_ms": 2251,
+ "fields": {
+  "company": "SENER ICKY SSERSEN IKANO HANDEL SDN BHD",
+  "date": "2018-04-25",
+  "total": 22.0
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  22.0,
+  22.0
+ ],
+ "key": "X51005889296"
+}

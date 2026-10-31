@@ -1,0 +1,375 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "5 |",
+  "‘ TN-N-OUT BURGER SANTA CLARA",
+  "P 3001 MISSION COLLEGE",
+  "SANTA CLARA, CA 95054",
+  "(800)786~1000 }",
+  "Store # 176",
+  "2015-01-16",
+  "ee",
+  "CREDIT SALE",
+  "eee enn",
+  "CHB 2.45 ;",
+  "> Animal",
+  "FF 1.60",
+  "Orive-Eat In 4.05 aaa",
+  "TAX 8.75% +35",
+  "Amount Due $4.40",
+  "|",
+  "CHARGE DETAIL 3 |",
+  "Name:",
+  "Card Type: American Express 3",
+  "Account: 9 SHRRRREOE $ |",
+  "‘Auth Code: 588464 |",
+  ") Trans #: 4408 |",
+  "AUTH AMT: $4.4 {",
+  "] qj",
+  "| 2015-01-16 16 8",
+  "E pel CUSTOMER COPY"
+ ],
+ "tokens": [
+  {
+   "text": "5",
+   "conf": 0.02
+  },
+  {
+   "text": "|",
+   "conf": 0.4
+  },
+  {
+   "text": "‘",
+   "conf": 0.18
+  },
+  {
+   "text": "TN-N-OUT",
+   "conf": 0.59
+  },
+  {
+   "text": "BURGER",
+   "conf": 0.95
+  },
+  {
+   "text": "SANTA",
+   "conf": 0.96
+  },
+  {
+   "text": "CLARA",
+   "conf": 0.96
+  },
+  {
+   "text": "P",
+   "conf": 0.0
+  },
+  {
+   "text": "3001",
+   "conf": 0.94
+  },
+  {
+   "text": "MISSION",
+   "conf": 0.63
+  },
+  {
+   "text": "COLLEGE",
+   "conf": 0.83
+  },
+  {
+   "text": "SANTA",
+   "conf": 0.96
+  },
+  {
+   "text": "CLARA,",
+   "conf": 0.96
+  },
+  {
+   "text": "CA",
+   "conf": 0.95
+  },
+  {
+   "text": "95054",
+   "conf": 0.95
+  },
+  {
+   "text": "(800)786~1000",
+   "conf": 0.53
+  },
+  {
+   "text": "}",
+   "conf": 0.0
+  },
+  {
+   "text": "Store",
+   "conf": 0.88
+  },
+  {
+   "text": "#",
+   "conf": 0.88
+  },
+  {
+   "text": "176",
+   "conf": 0.96
+  },
+  {
+   "text": "2015-01-16",
+   "conf": 0.94
+  },
+  {
+   "text": "ee",
+   "conf": 0.14
+  },
+  {
+   "text": "CREDIT",
+   "conf": 0.96
+  },
+  {
+   "text": "SALE",
+   "conf": 0.96
+  },
+  {
+   "text": "eee",
+   "conf": 0.06
+  },
+  {
+   "text": "enn",
+   "conf": 0.0
+  },
+  {
+   "text": "CHB",
+   "conf": 0.87
+  },
+  {
+   "text": "2.45",
+   "conf": 0.73
+  },
+  {
+   "text": ";",
+   "conf": 0.0
+  },
+  {
+   "text": ">",
+   "conf": 0.76
+  },
+  {
+   "text": "Animal",
+   "conf": 0.76
+  },
+  {
+   "text": "FF",
+   "conf": 0.86
+  },
+  {
+   "text": "1.60",
+   "conf": 0.88
+  },
+  {
+   "text": "Orive-Eat",
+   "conf": 0.88
+  },
+  {
+   "text": "In",
+   "conf": 0.96
+  },
+  {
+   "text": "4.05",
+   "conf": 0.88
+  },
+  {
+   "text": "aaa",
+   "conf": 0.28
+  },
+  {
+   "text": "TAX",
+   "conf": 0.95
+  },
+  {
+   "text": "8.75%",
+   "conf": 0.75
+  },
+  {
+   "text": "+35",
+   "conf": 0.5
+  },
+  {
+   "text": "Amount",
+   "conf": 0.9
+  },
+  {
+   "text": "Due",
+   "conf": 0.94
+  },
+  {
+   "text": "$4.40",
+   "conf": 0.75
+  },
+  {
+   "text": "|",
+   "conf": 0.86
+  },
+  {
+   "text": "CHARGE",
+   "conf": 0.94
+  },
+  {
+   "text": "DETAIL",
+   "conf": 0.89
+  },
+  {
+   "text": "3",
+   "conf": 0.87
+  },
+  {
+   "text": "|",
+   "conf": 0.95
+  },
+  {
+   "text": "Name:",
+   "conf": 0.82
+  },
+  {
+   "text": "Card",
+   "conf": 0.94
+  },
+  {
+   "text": "Type:",
+   "conf": 0.95
+  },
+  {
+   "text": "American",
+   "conf": 0.95
+  },
+  {
+   "text": "Express",
+   "conf": 0.93
+  },
+  {
+   "text": "3",
+   "conf": 0.57
+  },
+  {
+   "text": "Account:",
+   "conf": 0.73
+  },
+  {
+   "text": "9",
+   "conf": 0.11
+  },
+  {
+   "text": "SHRRRREOE",
+   "conf": 0.0
+  },
+  {
+   "text": "$",
+   "conf": 0.12
+  },
+  {
+   "text": "|",
+   "conf": 0.51
+  },
+  {
+   "text": "‘Auth",
+   "conf": 0.81
+  },
+  {
+   "text": "Code:",
+   "conf": 0.91
+  },
+  {
+   "text": "588464",
+   "conf": 0.86
+  },
+  {
+   "text": "|",
+   "conf": 0.9
+  },
+  {
+   "text": ")",
+   "conf": 0.68
+  },
+  {
+   "text": "Trans",
+   "conf": 0.92
+  },
+  {
+   "text": "#:",
+   "conf": 0.81
+  },
+  {
+   "text": "4408",
+   "conf": 0.89
+  },
+  {
+   "text": "|",
+   "conf": 0.48
+  },
+  {
+   "text": "AUTH",
+   "conf": 0.95
+  },
+  {
+   "text": "AMT:",
+   "conf": 0.96
+  },
+  {
+   "text": "$4.4",
+   "conf": 0.85
+  },
+  {
+   "text": "{",
+   "conf": 0.87
+  },
+  {
+   "text": "]",
+   "conf": 0.61
+  },
+  {
+   "text": "qj",
+   "conf": 0.01
+  },
+  {
+   "text": "|",
+   "conf": 0.22
+  },
+  {
+   "text": "2015-01-16",
+   "conf": 0.76
+  },
+  {
+   "text": "16",
+   "conf": 0.0
+  },
+  {
+   "text": "8",
+   "conf": 0.52
+  },
+  {
+   "text": "E",
+   "conf": 0.25
+  },
+  {
+   "text": "pel",
+   "conf": 0.26
+  },
+  {
+   "text": "CUSTOMER",
+   "conf": 0.95
+  },
+  {
+   "text": "COPY",
+   "conf": 0.95
+  }
+ ],
+ "mean_conf": 0.6805,
+ "low_conf_share": 0.2317,
+ "latency_ms": 386,
+ "fields": {
+  "company": "STORE 176",
+  "date": "2015-01-16",
+  "total": 4.4
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  4.4
+ ],
+ "key": "W0072_4237dd949927"
+}

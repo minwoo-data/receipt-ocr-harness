@@ -1,0 +1,359 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "99 SPEED MART S/B (519537-X)",
+  "LOT P.T. 33198, BATU 4",
+  "JALAN KAPAR, HUKIN KAPAR",
+  "42100 KLANG, SELANGOR",
+  "| 1320-THR BATU",
+  "| 6ST 10. WO : 000181747712",
+  "INVOICE WO: 17563/102/10224",
+  "01:43PH 559843 3-01-16",
+  "2838 YONGCHUN LOKAN MANDARI &N262.20 z",
+  "19 X RH 13.80",
+  "| Total Sales (Inclusive GST) RM 262.20",
+  "| CREDIT RM 262.20",
+  "| CHANGE RM 06",
+  "| GST Summary Amount (RM) Tax (RM)",
+  "z= 0% 262.20 00",
+  "| Thank You. Please come again",
+  "Keep the invoice for applicable returns"
+ ],
+ "tokens": [
+  {
+   "text": "99",
+   "conf": 0.94
+  },
+  {
+   "text": "SPEED",
+   "conf": 0.94
+  },
+  {
+   "text": "MART",
+   "conf": 0.57
+  },
+  {
+   "text": "S/B",
+   "conf": 0.4
+  },
+  {
+   "text": "(519537-X)",
+   "conf": 0.76
+  },
+  {
+   "text": "LOT",
+   "conf": 0.91
+  },
+  {
+   "text": "P.T.",
+   "conf": 0.85
+  },
+  {
+   "text": "33198,",
+   "conf": 0.93
+  },
+  {
+   "text": "BATU",
+   "conf": 0.87
+  },
+  {
+   "text": "4",
+   "conf": 0.87
+  },
+  {
+   "text": "JALAN",
+   "conf": 0.92
+  },
+  {
+   "text": "KAPAR,",
+   "conf": 0.92
+  },
+  {
+   "text": "HUKIN",
+   "conf": 0.34
+  },
+  {
+   "text": "KAPAR",
+   "conf": 0.89
+  },
+  {
+   "text": "42100",
+   "conf": 0.88
+  },
+  {
+   "text": "KLANG,",
+   "conf": 0.95
+  },
+  {
+   "text": "SELANGOR",
+   "conf": 0.96
+  },
+  {
+   "text": "|",
+   "conf": 0.76
+  },
+  {
+   "text": "1320-THR",
+   "conf": 0.11
+  },
+  {
+   "text": "BATU",
+   "conf": 0.95
+  },
+  {
+   "text": "|",
+   "conf": 0.76
+  },
+  {
+   "text": "6ST",
+   "conf": 0.61
+  },
+  {
+   "text": "10.",
+   "conf": 0.8
+  },
+  {
+   "text": "WO",
+   "conf": 0.84
+  },
+  {
+   "text": ":",
+   "conf": 0.65
+  },
+  {
+   "text": "000181747712",
+   "conf": 0.6
+  },
+  {
+   "text": "INVOICE",
+   "conf": 0.68
+  },
+  {
+   "text": "WO:",
+   "conf": 0.47
+  },
+  {
+   "text": "17563/102/10224",
+   "conf": 0.26
+  },
+  {
+   "text": "01:43PH",
+   "conf": 0.49
+  },
+  {
+   "text": "559843",
+   "conf": 0.1
+  },
+  {
+   "text": "3-01-16",
+   "conf": 0.48
+  },
+  {
+   "text": "2838",
+   "conf": 0.85
+  },
+  {
+   "text": "YONGCHUN",
+   "conf": 0.89
+  },
+  {
+   "text": "LOKAN",
+   "conf": 0.34
+  },
+  {
+   "text": "MANDARI",
+   "conf": 0.84
+  },
+  {
+   "text": "&N262.20",
+   "conf": 0.47
+  },
+  {
+   "text": "z",
+   "conf": 0.92
+  },
+  {
+   "text": "19",
+   "conf": 0.49
+  },
+  {
+   "text": "X",
+   "conf": 0.87
+  },
+  {
+   "text": "RH",
+   "conf": 0.5
+  },
+  {
+   "text": "13.80",
+   "conf": 0.79
+  },
+  {
+   "text": "|",
+   "conf": 0.72
+  },
+  {
+   "text": "Total",
+   "conf": 0.96
+  },
+  {
+   "text": "Sales",
+   "conf": 0.96
+  },
+  {
+   "text": "(Inclusive",
+   "conf": 0.95
+  },
+  {
+   "text": "GST)",
+   "conf": 0.96
+  },
+  {
+   "text": "RM",
+   "conf": 0.74
+  },
+  {
+   "text": "262.20",
+   "conf": 0.82
+  },
+  {
+   "text": "|",
+   "conf": 0.61
+  },
+  {
+   "text": "CREDIT",
+   "conf": 0.96
+  },
+  {
+   "text": "RM",
+   "conf": 0.65
+  },
+  {
+   "text": "262.20",
+   "conf": 0.65
+  },
+  {
+   "text": "|",
+   "conf": 0.65
+  },
+  {
+   "text": "CHANGE",
+   "conf": 0.96
+  },
+  {
+   "text": "RM",
+   "conf": 0.77
+  },
+  {
+   "text": "06",
+   "conf": 0.04
+  },
+  {
+   "text": "|",
+   "conf": 0.63
+  },
+  {
+   "text": "GST",
+   "conf": 0.82
+  },
+  {
+   "text": "Summary",
+   "conf": 0.72
+  },
+  {
+   "text": "Amount",
+   "conf": 0.23
+  },
+  {
+   "text": "(RM)",
+   "conf": 0.44
+  },
+  {
+   "text": "Tax",
+   "conf": 0.0
+  },
+  {
+   "text": "(RM)",
+   "conf": 0.0
+  },
+  {
+   "text": "z=",
+   "conf": 0.42
+  },
+  {
+   "text": "0%",
+   "conf": 0.42
+  },
+  {
+   "text": "262.20",
+   "conf": 0.78
+  },
+  {
+   "text": "00",
+   "conf": 0.0
+  },
+  {
+   "text": "|",
+   "conf": 0.71
+  },
+  {
+   "text": "Thank",
+   "conf": 0.96
+  },
+  {
+   "text": "You.",
+   "conf": 0.93
+  },
+  {
+   "text": "Please",
+   "conf": 0.96
+  },
+  {
+   "text": "come",
+   "conf": 0.96
+  },
+  {
+   "text": "again",
+   "conf": 0.96
+  },
+  {
+   "text": "Keep",
+   "conf": 0.96
+  },
+  {
+   "text": "the",
+   "conf": 0.96
+  },
+  {
+   "text": "invoice",
+   "conf": 0.96
+  },
+  {
+   "text": "for",
+   "conf": 0.96
+  },
+  {
+   "text": "applicable",
+   "conf": 0.96
+  },
+  {
+   "text": "returns",
+   "conf": 0.96
+  }
+ ],
+ "mean_conf": 0.7065,
+ "low_conf_share": 0.2375,
+ "latency_ms": 1704,
+ "fields": {
+  "company": null,
+  "date": "2016-01-03",
+  "total": 262.2
+ },
+ "rule_reasons": [
+  "company_not_found"
+ ],
+ "total_candidates": [
+  262.2
+ ],
+ "key": "X51006619338"
+}

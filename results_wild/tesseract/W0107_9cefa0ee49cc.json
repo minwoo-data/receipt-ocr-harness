@@ -1,0 +1,502 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "| Berghotel",
+  "| Grosse Scheidegg",
+  "| 3818 Grindelwald",
+  "et | Fanilie RHA er ‘",
+  "BI Rech.tir. 4572 30,07, 2007/ 18:29:17 /",
+  "ae) Ber Tisch 7/01 act",
+  "He | 2xlatte Hacchiato a 4.50 CHF 9.00 ee",
+  "ae a 5.00 CH 5.00 oe",
+  "peel IxSchweinschnitzel a 22.00 CHF 22.00 a",
+  "| WChissmatzli a 18.50 CHF 18.50 fe",
+  "Aa Total: cH © 54,50",
+  "By | tcl. 7.68 tse St.50 CF: 3.85 os",
+  "BP] Entsoricht in Euro 98.33 EUR a",
+  "Bie | fs bediente Sie: Ursula he",
+  "ae | HySt Ne. = 430.234 ee",
+  "om Tel.: 033 853 67 16 Pf 1",
+  "ang Fax. : 033 853 67 19 Be",
+  "TW] —_Exwail: arossescheidegg@bluewin. ch Ee",
+  "a ll ae"
+ ],
+ "tokens": [
+  {
+   "text": "|",
+   "conf": 0.95
+  },
+  {
+   "text": "Berghotel",
+   "conf": 0.46
+  },
+  {
+   "text": "|",
+   "conf": 0.52
+  },
+  {
+   "text": "Grosse",
+   "conf": 0.93
+  },
+  {
+   "text": "Scheidegg",
+   "conf": 0.91
+  },
+  {
+   "text": "|",
+   "conf": 0.0
+  },
+  {
+   "text": "3818",
+   "conf": 0.83
+  },
+  {
+   "text": "Grindelwald",
+   "conf": 0.07
+  },
+  {
+   "text": "et",
+   "conf": 0.34
+  },
+  {
+   "text": "|",
+   "conf": 0.16
+  },
+  {
+   "text": "Fanilie",
+   "conf": 0.84
+  },
+  {
+   "text": "RHA",
+   "conf": 0.0
+  },
+  {
+   "text": "er",
+   "conf": 0.0
+  },
+  {
+   "text": "‘",
+   "conf": 0.36
+  },
+  {
+   "text": "BI",
+   "conf": 0.14
+  },
+  {
+   "text": "Rech.tir.",
+   "conf": 0.14
+  },
+  {
+   "text": "4572",
+   "conf": 0.0
+  },
+  {
+   "text": "30,07,",
+   "conf": 0.74
+  },
+  {
+   "text": "2007/",
+   "conf": 0.52
+  },
+  {
+   "text": "18:29:17",
+   "conf": 0.52
+  },
+  {
+   "text": "/",
+   "conf": 0.0
+  },
+  {
+   "text": "ae)",
+   "conf": 0.18
+  },
+  {
+   "text": "Ber",
+   "conf": 0.53
+  },
+  {
+   "text": "Tisch",
+   "conf": 0.83
+  },
+  {
+   "text": "7/01",
+   "conf": 0.67
+  },
+  {
+   "text": "act",
+   "conf": 0.3
+  },
+  {
+   "text": "He",
+   "conf": 0.24
+  },
+  {
+   "text": "|",
+   "conf": 0.95
+  },
+  {
+   "text": "2xlatte",
+   "conf": 0.31
+  },
+  {
+   "text": "Hacchiato",
+   "conf": 0.82
+  },
+  {
+   "text": "a",
+   "conf": 0.62
+  },
+  {
+   "text": "4.50",
+   "conf": 0.85
+  },
+  {
+   "text": "CHF",
+   "conf": 0.88
+  },
+  {
+   "text": "9.00",
+   "conf": 0.63
+  },
+  {
+   "text": "ee",
+   "conf": 0.14
+  },
+  {
+   "text": "ae",
+   "conf": 0.27
+  },
+  {
+   "text": "a",
+   "conf": 0.78
+  },
+  {
+   "text": "5.00",
+   "conf": 0.8
+  },
+  {
+   "text": "CH",
+   "conf": 0.85
+  },
+  {
+   "text": "5.00",
+   "conf": 0.73
+  },
+  {
+   "text": "oe",
+   "conf": 0.42
+  },
+  {
+   "text": "peel",
+   "conf": 0.21
+  },
+  {
+   "text": "IxSchweinschnitzel",
+   "conf": 0.68
+  },
+  {
+   "text": "a",
+   "conf": 0.87
+  },
+  {
+   "text": "22.00",
+   "conf": 0.92
+  },
+  {
+   "text": "CHF",
+   "conf": 0.88
+  },
+  {
+   "text": "22.00",
+   "conf": 0.73
+  },
+  {
+   "text": "a",
+   "conf": 0.0
+  },
+  {
+   "text": "|",
+   "conf": 0.07
+  },
+  {
+   "text": "WChissmatzli",
+   "conf": 0.0
+  },
+  {
+   "text": "a",
+   "conf": 0.18
+  },
+  {
+   "text": "18.50",
+   "conf": 0.43
+  },
+  {
+   "text": "CHF",
+   "conf": 0.41
+  },
+  {
+   "text": "18.50",
+   "conf": 0.41
+  },
+  {
+   "text": "fe",
+   "conf": 0.08
+  },
+  {
+   "text": "Aa",
+   "conf": 0.32
+  },
+  {
+   "text": "Total:",
+   "conf": 0.88
+  },
+  {
+   "text": "cH",
+   "conf": 0.29
+  },
+  {
+   "text": "©",
+   "conf": 0.18
+  },
+  {
+   "text": "54,50",
+   "conf": 0.18
+  },
+  {
+   "text": "By",
+   "conf": 0.13
+  },
+  {
+   "text": "|",
+   "conf": 0.13
+  },
+  {
+   "text": "tcl.",
+   "conf": 0.21
+  },
+  {
+   "text": "7.68",
+   "conf": 0.35
+  },
+  {
+   "text": "tse",
+   "conf": 0.0
+  },
+  {
+   "text": "St.50",
+   "conf": 0.0
+  },
+  {
+   "text": "CF:",
+   "conf": 0.52
+  },
+  {
+   "text": "3.85",
+   "conf": 0.57
+  },
+  {
+   "text": "os",
+   "conf": 0.0
+  },
+  {
+   "text": "BP]",
+   "conf": 0.0
+  },
+  {
+   "text": "Entsoricht",
+   "conf": 0.32
+  },
+  {
+   "text": "in",
+   "conf": 0.84
+  },
+  {
+   "text": "Euro",
+   "conf": 0.72
+  },
+  {
+   "text": "98.33",
+   "conf": 0.58
+  },
+  {
+   "text": "EUR",
+   "conf": 0.58
+  },
+  {
+   "text": "a",
+   "conf": 0.0
+  },
+  {
+   "text": "Bie",
+   "conf": 0.11
+  },
+  {
+   "text": "|",
+   "conf": 0.18
+  },
+  {
+   "text": "fs",
+   "conf": 0.3
+  },
+  {
+   "text": "bediente",
+   "conf": 0.92
+  },
+  {
+   "text": "Sie:",
+   "conf": 0.85
+  },
+  {
+   "text": "Ursula",
+   "conf": 0.94
+  },
+  {
+   "text": "he",
+   "conf": 0.35
+  },
+  {
+   "text": "ae",
+   "conf": 0.24
+  },
+  {
+   "text": "|",
+   "conf": 0.65
+  },
+  {
+   "text": "HySt",
+   "conf": 0.67
+  },
+  {
+   "text": "Ne.",
+   "conf": 0.57
+  },
+  {
+   "text": "=",
+   "conf": 0.51
+  },
+  {
+   "text": "430.234",
+   "conf": 0.64
+  },
+  {
+   "text": "ee",
+   "conf": 0.26
+  },
+  {
+   "text": "om",
+   "conf": 0.34
+  },
+  {
+   "text": "Tel.:",
+   "conf": 0.62
+  },
+  {
+   "text": "033",
+   "conf": 0.76
+  },
+  {
+   "text": "853",
+   "conf": 0.76
+  },
+  {
+   "text": "67",
+   "conf": 0.89
+  },
+  {
+   "text": "16",
+   "conf": 0.89
+  },
+  {
+   "text": "Pf",
+   "conf": 0.0
+  },
+  {
+   "text": "1",
+   "conf": 0.45
+  },
+  {
+   "text": "ang",
+   "conf": 0.35
+  },
+  {
+   "text": "Fax.",
+   "conf": 0.32
+  },
+  {
+   "text": ":",
+   "conf": 0.32
+  },
+  {
+   "text": "033",
+   "conf": 0.89
+  },
+  {
+   "text": "853",
+   "conf": 0.85
+  },
+  {
+   "text": "67",
+   "conf": 0.85
+  },
+  {
+   "text": "19",
+   "conf": 0.82
+  },
+  {
+   "text": "Be",
+   "conf": 0.19
+  },
+  {
+   "text": "TW]",
+   "conf": 0.0
+  },
+  {
+   "text": "—_Exwail:",
+   "conf": 0.09
+  },
+  {
+   "text": "arossescheidegg@bluewin.",
+   "conf": 0.0
+  },
+  {
+   "text": "ch",
+   "conf": 0.93
+  },
+  {
+   "text": "Ee",
+   "conf": 0.04
+  },
+  {
+   "text": "a",
+   "conf": 0.2
+  },
+  {
+   "text": "ll",
+   "conf": 0.23
+  },
+  {
+   "text": "ae",
+   "conf": 0.18
+  }
+ ],
+ "mean_conf": 0.4479,
+ "low_conf_share": 0.5439,
+ "latency_ms": 2110,
+ "fields": {
+  "company": "BERGHOTEL",
+  "date": null,
+  "total": 98.33
+ },
+ "rule_reasons": [
+  "date_not_found",
+  "total_no_keyword_fallback_max"
+ ],
+ "total_candidates": [
+  18.5,
+  18.5,
+  7.68,
+  3.85,
+  98.33
+ ],
+ "key": "W0107_9cefa0ee49cc"
+}

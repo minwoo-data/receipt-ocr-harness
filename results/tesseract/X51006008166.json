@@ -1,0 +1,446 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "Sea a ertatasenid rar Sas ees Serene ee wists Bae ae",
+  "Tax Invoice",
+  "FLORISM DE ART (940075-X)",
+  "LOT 2.70.00, LEVEL 2,",
+  "PAVILION KUALA LUMPUR,",
+  "168, JALAN BUKIT BINTANG,",
+  "55100 KUALA LUMPUR, MALAYSIA.",
+  "Tel: 03-2142 3855",
+  "GST Reg.: 000397606912",
+  "Document No.: 101005445",
+  "Date : 14/01/2018 05:03:35 PM",
+  "Debtor :",
+  "Member :",
+  "| Promoter : |",
+  "| Terminal : TO1",
+  "Cashier : ADMIN",
+  "DESC «U.PRICE. Disc AMOUNT TAX",
+  "— Qy RM RM CODE",
+  "1NO * 750.00 750.00 SR",
+  "\"SubTotal(ExclusiveGST): +-—«-707.55",
+  "GST 6% : 42.45",
+  "Rounding Adj. : 0.00",
+  "Rounded Total (RM): 750.00",
+  "Credit Card 750,00",
+  "GST Summary Amount(RM) Tax(RM)",
+  "SR@6% 707.55 42.45"
+ ],
+ "tokens": [
+  {
+   "text": "Sea",
+   "conf": 0.2
+  },
+  {
+   "text": "a",
+   "conf": 0.14
+  },
+  {
+   "text": "ertatasenid",
+   "conf": 0.0
+  },
+  {
+   "text": "rar",
+   "conf": 0.21
+  },
+  {
+   "text": "Sas",
+   "conf": 0.17
+  },
+  {
+   "text": "ees",
+   "conf": 0.26
+  },
+  {
+   "text": "Serene",
+   "conf": 0.08
+  },
+  {
+   "text": "ee",
+   "conf": 0.2
+  },
+  {
+   "text": "wists",
+   "conf": 0.11
+  },
+  {
+   "text": "Bae",
+   "conf": 0.04
+  },
+  {
+   "text": "ae",
+   "conf": 0.31
+  },
+  {
+   "text": "Tax",
+   "conf": 0.96
+  },
+  {
+   "text": "Invoice",
+   "conf": 0.95
+  },
+  {
+   "text": "FLORISM",
+   "conf": 0.91
+  },
+  {
+   "text": "DE",
+   "conf": 0.96
+  },
+  {
+   "text": "ART",
+   "conf": 0.93
+  },
+  {
+   "text": "(940075-X)",
+   "conf": 0.88
+  },
+  {
+   "text": "LOT",
+   "conf": 0.96
+  },
+  {
+   "text": "2.70.00,",
+   "conf": 0.96
+  },
+  {
+   "text": "LEVEL",
+   "conf": 0.96
+  },
+  {
+   "text": "2,",
+   "conf": 0.96
+  },
+  {
+   "text": "PAVILION",
+   "conf": 0.83
+  },
+  {
+   "text": "KUALA",
+   "conf": 0.96
+  },
+  {
+   "text": "LUMPUR,",
+   "conf": 0.95
+  },
+  {
+   "text": "168,",
+   "conf": 0.96
+  },
+  {
+   "text": "JALAN",
+   "conf": 0.96
+  },
+  {
+   "text": "BUKIT",
+   "conf": 0.93
+  },
+  {
+   "text": "BINTANG,",
+   "conf": 0.92
+  },
+  {
+   "text": "55100",
+   "conf": 0.96
+  },
+  {
+   "text": "KUALA",
+   "conf": 0.96
+  },
+  {
+   "text": "LUMPUR,",
+   "conf": 0.96
+  },
+  {
+   "text": "MALAYSIA.",
+   "conf": 0.96
+  },
+  {
+   "text": "Tel:",
+   "conf": 0.84
+  },
+  {
+   "text": "03-2142",
+   "conf": 0.92
+  },
+  {
+   "text": "3855",
+   "conf": 0.92
+  },
+  {
+   "text": "GST",
+   "conf": 0.93
+  },
+  {
+   "text": "Reg.:",
+   "conf": 0.9
+  },
+  {
+   "text": "000397606912",
+   "conf": 0.96
+  },
+  {
+   "text": "Document",
+   "conf": 0.9
+  },
+  {
+   "text": "No.:",
+   "conf": 0.69
+  },
+  {
+   "text": "101005445",
+   "conf": 0.77
+  },
+  {
+   "text": "Date",
+   "conf": 0.92
+  },
+  {
+   "text": ":",
+   "conf": 0.92
+  },
+  {
+   "text": "14/01/2018",
+   "conf": 0.96
+  },
+  {
+   "text": "05:03:35",
+   "conf": 0.95
+  },
+  {
+   "text": "PM",
+   "conf": 0.95
+  },
+  {
+   "text": "Debtor",
+   "conf": 0.93
+  },
+  {
+   "text": ":",
+   "conf": 0.87
+  },
+  {
+   "text": "Member",
+   "conf": 0.93
+  },
+  {
+   "text": ":",
+   "conf": 0.82
+  },
+  {
+   "text": "|",
+   "conf": 0.29
+  },
+  {
+   "text": "Promoter",
+   "conf": 0.82
+  },
+  {
+   "text": ":",
+   "conf": 0.78
+  },
+  {
+   "text": "|",
+   "conf": 0.45
+  },
+  {
+   "text": "|",
+   "conf": 0.9
+  },
+  {
+   "text": "Terminal",
+   "conf": 0.92
+  },
+  {
+   "text": ":",
+   "conf": 0.81
+  },
+  {
+   "text": "TO1",
+   "conf": 0.81
+  },
+  {
+   "text": "Cashier",
+   "conf": 0.93
+  },
+  {
+   "text": ":",
+   "conf": 0.92
+  },
+  {
+   "text": "ADMIN",
+   "conf": 0.96
+  },
+  {
+   "text": "DESC",
+   "conf": 0.77
+  },
+  {
+   "text": "«U.PRICE.",
+   "conf": 0.0
+  },
+  {
+   "text": "Disc",
+   "conf": 0.59
+  },
+  {
+   "text": "AMOUNT",
+   "conf": 0.62
+  },
+  {
+   "text": "TAX",
+   "conf": 0.52
+  },
+  {
+   "text": "—",
+   "conf": 0.0
+  },
+  {
+   "text": "Qy",
+   "conf": 0.64
+  },
+  {
+   "text": "RM",
+   "conf": 0.96
+  },
+  {
+   "text": "RM",
+   "conf": 0.91
+  },
+  {
+   "text": "CODE",
+   "conf": 0.96
+  },
+  {
+   "text": "1NO",
+   "conf": 0.86
+  },
+  {
+   "text": "*",
+   "conf": 0.67
+  },
+  {
+   "text": "750.00",
+   "conf": 0.96
+  },
+  {
+   "text": "750.00",
+   "conf": 0.96
+  },
+  {
+   "text": "SR",
+   "conf": 0.96
+  },
+  {
+   "text": "\"SubTotal(ExclusiveGST):",
+   "conf": 0.0
+  },
+  {
+   "text": "+-—«-707.55",
+   "conf": 0.0
+  },
+  {
+   "text": "GST",
+   "conf": 0.94
+  },
+  {
+   "text": "6%",
+   "conf": 0.93
+  },
+  {
+   "text": ":",
+   "conf": 0.9
+  },
+  {
+   "text": "42.45",
+   "conf": 0.89
+  },
+  {
+   "text": "Rounding",
+   "conf": 0.96
+  },
+  {
+   "text": "Adj.",
+   "conf": 0.9
+  },
+  {
+   "text": ":",
+   "conf": 0.82
+  },
+  {
+   "text": "0.00",
+   "conf": 0.72
+  },
+  {
+   "text": "Rounded",
+   "conf": 0.96
+  },
+  {
+   "text": "Total",
+   "conf": 0.92
+  },
+  {
+   "text": "(RM):",
+   "conf": 0.92
+  },
+  {
+   "text": "750.00",
+   "conf": 0.96
+  },
+  {
+   "text": "Credit",
+   "conf": 0.95
+  },
+  {
+   "text": "Card",
+   "conf": 0.96
+  },
+  {
+   "text": "750,00",
+   "conf": 0.76
+  },
+  {
+   "text": "GST",
+   "conf": 0.96
+  },
+  {
+   "text": "Summary",
+   "conf": 0.96
+  },
+  {
+   "text": "Amount(RM)",
+   "conf": 0.92
+  },
+  {
+   "text": "Tax(RM)",
+   "conf": 0.9
+  },
+  {
+   "text": "SR@6%",
+   "conf": 0.87
+  },
+  {
+   "text": "707.55",
+   "conf": 0.95
+  },
+  {
+   "text": "42.45",
+   "conf": 0.88
+  }
+ ],
+ "mean_conf": 0.7648,
+ "low_conf_share": 0.17,
+ "latency_ms": 2667,
+ "fields": {
+  "company": "SEA A ERTATASENID RAR SAS EES SERENE EE WISTS BAE AE",
+  "date": "2018-01-14",
+  "total": 750.0
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  750.0
+ ],
+ "key": "X51006008166"
+}

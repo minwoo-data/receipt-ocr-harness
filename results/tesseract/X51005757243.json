@@ -1,0 +1,459 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "31803030",
+  "(Co. No. 1138235-W)",
+  "(GST Reg No. 001492992000)",
+  "No 8, Jalan 7/1188, Desa Tun Razak",
+  "56000 Kuala !umpur, Malaysi.",
+  "{0} MALL",
+  "Tel + 05-809709168 / 80757830",
+  "11/03/18 16:30 Slip No. : 9060293576",
+  "WANT Trans: 250504",
+  "Description Amount",
+  "HOCUMENT HOL 44 GSICLA-Tra",
+  "Spe @ 1.15 is fe",
+  "Total RM Incl. of GST 5.75",
+  "Cash -50. 00",
+  "CHANGE 44,25",
+  "{tem Count 5",
+  "GST Summary Amount (RM) Tax (RM)",
+  "T @ 6% 5. 42 0. 33",
+  "Total Savings 0.00",
+  "BE A POPULAR CARD MEMBER",
+  "AND ENJOY SPECIAL DISCOUNTS",
+  "THANK YOU. PLEASE COME AGAIN.",
+  "www. popular. com, my",
+  "Buy Chinese books online",
+  "www. popularonl ine. com. my"
+ ],
+ "tokens": [
+  {
+   "text": "31803030",
+   "conf": 0.61
+  },
+  {
+   "text": "(Co.",
+   "conf": 0.93
+  },
+  {
+   "text": "No.",
+   "conf": 0.9
+  },
+  {
+   "text": "1138235-W)",
+   "conf": 0.58
+  },
+  {
+   "text": "(GST",
+   "conf": 0.96
+  },
+  {
+   "text": "Reg",
+   "conf": 0.94
+  },
+  {
+   "text": "No.",
+   "conf": 0.93
+  },
+  {
+   "text": "001492992000)",
+   "conf": 0.91
+  },
+  {
+   "text": "No",
+   "conf": 0.92
+  },
+  {
+   "text": "8,",
+   "conf": 0.93
+  },
+  {
+   "text": "Jalan",
+   "conf": 0.95
+  },
+  {
+   "text": "7/1188,",
+   "conf": 0.95
+  },
+  {
+   "text": "Desa",
+   "conf": 0.96
+  },
+  {
+   "text": "Tun",
+   "conf": 0.95
+  },
+  {
+   "text": "Razak",
+   "conf": 0.95
+  },
+  {
+   "text": "56000",
+   "conf": 0.89
+  },
+  {
+   "text": "Kuala",
+   "conf": 0.88
+  },
+  {
+   "text": "!umpur,",
+   "conf": 0.75
+  },
+  {
+   "text": "Malaysi.",
+   "conf": 0.87
+  },
+  {
+   "text": "{0}",
+   "conf": 0.73
+  },
+  {
+   "text": "MALL",
+   "conf": 0.91
+  },
+  {
+   "text": "Tel",
+   "conf": 0.94
+  },
+  {
+   "text": "+",
+   "conf": 0.53
+  },
+  {
+   "text": "05-809709168",
+   "conf": 0.23
+  },
+  {
+   "text": "/",
+   "conf": 0.9
+  },
+  {
+   "text": "80757830",
+   "conf": 0.96
+  },
+  {
+   "text": "11/03/18",
+   "conf": 0.95
+  },
+  {
+   "text": "16:30",
+   "conf": 0.92
+  },
+  {
+   "text": "Slip",
+   "conf": 0.92
+  },
+  {
+   "text": "No.",
+   "conf": 0.38
+  },
+  {
+   "text": ":",
+   "conf": 0.38
+  },
+  {
+   "text": "9060293576",
+   "conf": 0.85
+  },
+  {
+   "text": "WANT",
+   "conf": 0.93
+  },
+  {
+   "text": "Trans:",
+   "conf": 0.96
+  },
+  {
+   "text": "250504",
+   "conf": 0.96
+  },
+  {
+   "text": "Description",
+   "conf": 0.96
+  },
+  {
+   "text": "Amount",
+   "conf": 0.96
+  },
+  {
+   "text": "HOCUMENT",
+   "conf": 0.79
+  },
+  {
+   "text": "HOL",
+   "conf": 0.89
+  },
+  {
+   "text": "44",
+   "conf": 0.36
+  },
+  {
+   "text": "GSICLA-Tra",
+   "conf": 0.25
+  },
+  {
+   "text": "Spe",
+   "conf": 0.84
+  },
+  {
+   "text": "@",
+   "conf": 0.84
+  },
+  {
+   "text": "1.15",
+   "conf": 0.85
+  },
+  {
+   "text": "is",
+   "conf": 0.28
+  },
+  {
+   "text": "fe",
+   "conf": 0.33
+  },
+  {
+   "text": "Total",
+   "conf": 0.96
+  },
+  {
+   "text": "RM",
+   "conf": 0.96
+  },
+  {
+   "text": "Incl.",
+   "conf": 0.95
+  },
+  {
+   "text": "of",
+   "conf": 0.96
+  },
+  {
+   "text": "GST",
+   "conf": 0.94
+  },
+  {
+   "text": "5.75",
+   "conf": 0.86
+  },
+  {
+   "text": "Cash",
+   "conf": 0.96
+  },
+  {
+   "text": "-50.",
+   "conf": 0.89
+  },
+  {
+   "text": "00",
+   "conf": 0.96
+  },
+  {
+   "text": "CHANGE",
+   "conf": 0.95
+  },
+  {
+   "text": "44,25",
+   "conf": 0.85
+  },
+  {
+   "text": "{tem",
+   "conf": 0.95
+  },
+  {
+   "text": "Count",
+   "conf": 0.95
+  },
+  {
+   "text": "5",
+   "conf": 0.85
+  },
+  {
+   "text": "GST",
+   "conf": 0.95
+  },
+  {
+   "text": "Summary",
+   "conf": 0.38
+  },
+  {
+   "text": "Amount",
+   "conf": 0.89
+  },
+  {
+   "text": "(RM)",
+   "conf": 0.71
+  },
+  {
+   "text": "Tax",
+   "conf": 0.96
+  },
+  {
+   "text": "(RM)",
+   "conf": 0.88
+  },
+  {
+   "text": "T",
+   "conf": 0.87
+  },
+  {
+   "text": "@",
+   "conf": 0.87
+  },
+  {
+   "text": "6%",
+   "conf": 0.96
+  },
+  {
+   "text": "5.",
+   "conf": 0.71
+  },
+  {
+   "text": "42",
+   "conf": 0.69
+  },
+  {
+   "text": "0.",
+   "conf": 0.9
+  },
+  {
+   "text": "33",
+   "conf": 0.9
+  },
+  {
+   "text": "Total",
+   "conf": 0.76
+  },
+  {
+   "text": "Savings",
+   "conf": 0.96
+  },
+  {
+   "text": "0.00",
+   "conf": 0.88
+  },
+  {
+   "text": "BE",
+   "conf": 0.95
+  },
+  {
+   "text": "A",
+   "conf": 0.95
+  },
+  {
+   "text": "POPULAR",
+   "conf": 0.95
+  },
+  {
+   "text": "CARD",
+   "conf": 0.96
+  },
+  {
+   "text": "MEMBER",
+   "conf": 0.85
+  },
+  {
+   "text": "AND",
+   "conf": 0.96
+  },
+  {
+   "text": "ENJOY",
+   "conf": 0.96
+  },
+  {
+   "text": "SPECIAL",
+   "conf": 0.95
+  },
+  {
+   "text": "DISCOUNTS",
+   "conf": 0.95
+  },
+  {
+   "text": "THANK",
+   "conf": 0.91
+  },
+  {
+   "text": "YOU.",
+   "conf": 0.77
+  },
+  {
+   "text": "PLEASE",
+   "conf": 0.94
+  },
+  {
+   "text": "COME",
+   "conf": 0.96
+  },
+  {
+   "text": "AGAIN.",
+   "conf": 0.66
+  },
+  {
+   "text": "www.",
+   "conf": 0.5
+  },
+  {
+   "text": "popular.",
+   "conf": 0.92
+  },
+  {
+   "text": "com,",
+   "conf": 0.84
+  },
+  {
+   "text": "my",
+   "conf": 0.91
+  },
+  {
+   "text": "Buy",
+   "conf": 0.96
+  },
+  {
+   "text": "Chinese",
+   "conf": 0.95
+  },
+  {
+   "text": "books",
+   "conf": 0.96
+  },
+  {
+   "text": "online",
+   "conf": 0.96
+  },
+  {
+   "text": "www.",
+   "conf": 0.93
+  },
+  {
+   "text": "popularonl",
+   "conf": 0.31
+  },
+  {
+   "text": "ine.",
+   "conf": 0.94
+  },
+  {
+   "text": "com.",
+   "conf": 0.95
+  },
+  {
+   "text": "my",
+   "conf": 0.95
+  }
+ ],
+ "mean_conf": 0.841,
+ "low_conf_share": 0.0874,
+ "latency_ms": 1145,
+ "fields": {
+  "company": null,
+  "date": "2018-03-11",
+  "total": 5.75
+ },
+ "rule_reasons": [
+  "company_not_found"
+ ],
+ "total_candidates": [
+  5.75
+ ],
+ "key": "X51005757243"
+}

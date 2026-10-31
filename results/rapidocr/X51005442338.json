@@ -1,0 +1,284 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "PASAR MINI JIN SENG",
+  "379,JALAN PERMAS SATU,",
+  "BANDAR BARU PERMAS JAYA",
+  "81750 PLENTONG,JOHOR.",
+  "TEL:07-3874904",
+  "(CO.NO.JM0195368-D)",
+  "(GST NO,000150511616)",
+  "TAXINV:002-1550040 18/03/1E",
+  "Cashier:CASHIER2",
+  "1 VEGETABLES 2.20 2RL",
+  "LTK OMEGAPLUS 10S 5.70 ZRL",
+  "VEGETABLES 1.00ZRL",
+  "VEGETABLES 2.00 ZRL",
+  "VEGETABLES 8.00 ZRL",
+  "SEAF0OO 8.50 ZRi.",
+  "FISH BALI./CAKE 1.20SR",
+  "Iten Count 7",
+  "SUBTOTAL: 28.60",
+  "TL:RM 28.60",
+  "6%GST 0.07",
+  "-Payment Details",
+  "CASH 100.00",
+  "CASH CHANGE 71.40",
+  "18/03/1809:03#002-1550040#",
+  "CASHIER2",
+  "GST Sumiary Anount(RM) ()X",
+  "SR (06%) 1.20 0.07",
+  "ZRL (30%) 27.40 0.00",
+  "Thankyou",
+  "Please come again",
+  "贷物出门，想不退还",
+  "GOCDS SOLD ARE NOT REFUNDABLE"
+ ],
+ "tokens": [
+  {
+   "text": "PASAR MINI JIN SENG",
+   "conf": 0.9192039652874595
+  },
+  {
+   "text": "379,JALAN PERMAS SATU,",
+   "conf": 0.9457622170448303
+  },
+  {
+   "text": "BANDAR BARU PERMAS JAYA",
+   "conf": 0.9544944970504098
+  },
+  {
+   "text": "81750 PLENTONG,JOHOR.",
+   "conf": 0.941559978893825
+  },
+  {
+   "text": "TEL:07-3874904",
+   "conf": 0.9596099725791386
+  },
+  {
+   "text": "(CO.NO.JM0195368-D)",
+   "conf": 0.9204295434449848
+  },
+  {
+   "text": "(GST NO,000150511616)",
+   "conf": 0.9280993342399597
+  },
+  {
+   "text": "TAXINV:002-1550040",
+   "conf": 0.9355768958727518
+  },
+  {
+   "text": "18/03/1E",
+   "conf": 0.9618854895234108
+  },
+  {
+   "text": "Cashier:CASHIER2",
+   "conf": 0.9455844797194004
+  },
+  {
+   "text": "1",
+   "conf": 0.6689883470535278
+  },
+  {
+   "text": "VEGETABLES",
+   "conf": 0.9734323143959045
+  },
+  {
+   "text": "2.20 2RL",
+   "conf": 0.8784121423959732
+  },
+  {
+   "text": "LTK OMEGAPLUS 10S",
+   "conf": 0.922616909531986
+  },
+  {
+   "text": "5.70 ZRL",
+   "conf": 0.9037724509835243
+  },
+  {
+   "text": "VEGETABLES",
+   "conf": 0.9900273382663727
+  },
+  {
+   "text": "1.00ZRL",
+   "conf": 0.9788356423377991
+  },
+  {
+   "text": "VEGETABLES",
+   "conf": 0.9842652022838593
+  },
+  {
+   "text": "2.00 ZRL",
+   "conf": 0.9386872202157974
+  },
+  {
+   "text": "VEGETABLES",
+   "conf": 0.9914111733436585
+  },
+  {
+   "text": "8.00 ZRL",
+   "conf": 0.9629856050014496
+  },
+  {
+   "text": "SEAF0OO",
+   "conf": 0.8444974422454834
+  },
+  {
+   "text": "8.50 ZRi.",
+   "conf": 0.9342699779404534
+  },
+  {
+   "text": "FISH BALI./CAKE",
+   "conf": 0.9188194950421651
+  },
+  {
+   "text": "1.20SR",
+   "conf": 0.9980492889881134
+  },
+  {
+   "text": "Iten Count",
+   "conf": 0.9570115387439728
+  },
+  {
+   "text": "7",
+   "conf": 0.9803528785705566
+  },
+  {
+   "text": "SUBTOTAL:",
+   "conf": 0.9629763695928786
+  },
+  {
+   "text": "28.60",
+   "conf": 0.9456041336059571
+  },
+  {
+   "text": "TL:RM",
+   "conf": 0.9835156917572021
+  },
+  {
+   "text": "28.60",
+   "conf": 0.999660074710846
+  },
+  {
+   "text": "6%GST",
+   "conf": 0.9366172313690185
+  },
+  {
+   "text": "0.07",
+   "conf": 0.9988644421100616
+  },
+  {
+   "text": "-Payment Details",
+   "conf": 0.9304006844758987
+  },
+  {
+   "text": "CASH",
+   "conf": 0.9927584379911423
+  },
+  {
+   "text": "100.00",
+   "conf": 0.997817873954773
+  },
+  {
+   "text": "CASH CHANGE",
+   "conf": 0.982304182919589
+  },
+  {
+   "text": "71.40",
+   "conf": 0.9978347539901733
+  },
+  {
+   "text": "18/03/1809:03#002-1550040#",
+   "conf": 0.9625257689219254
+  },
+  {
+   "text": "CASHIER2",
+   "conf": 0.9190616495907307
+  },
+  {
+   "text": "GST Sumiary",
+   "conf": 0.8947230794213035
+  },
+  {
+   "text": "Anount(RM)",
+   "conf": 0.7850403666496277
+  },
+  {
+   "text": "()X",
+   "conf": 0.5560827255249023
+  },
+  {
+   "text": "SR",
+   "conf": 0.9902508556842804
+  },
+  {
+   "text": "(06%)",
+   "conf": 0.7536145806312561
+  },
+  {
+   "text": "1.20",
+   "conf": 0.9917198270559311
+  },
+  {
+   "text": "0.07",
+   "conf": 0.9294402599334717
+  },
+  {
+   "text": "ZRL",
+   "conf": 0.8267465829849243
+  },
+  {
+   "text": "(30%)",
+   "conf": 0.8267486929893494
+  },
+  {
+   "text": "27.40",
+   "conf": 0.8940704941749573
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9513331055641174
+  },
+  {
+   "text": "Thankyou",
+   "conf": 0.9255885407328606
+  },
+  {
+   "text": "Please come again",
+   "conf": 0.8852321488015792
+  },
+  {
+   "text": "贷物出门，想不退还",
+   "conf": 0.8420472310649024
+  },
+  {
+   "text": "GOCDS SOLD ARE NOT REFUNDABLE",
+   "conf": 0.9306698811465296
+  }
+ ],
+ "mean_conf": 0.9242,
+ "low_conf_share": 0.0,
+ "latency_ms": 3750,
+ "fields": {
+  "company": null,
+  "date": null,
+  "total": 100.0
+ },
+ "rule_reasons": [
+  "company_not_found",
+  "date_not_found",
+  "total_no_keyword_fallback_max"
+ ],
+ "total_candidates": [
+  28.6,
+  28.6,
+  0.07,
+  100.0,
+  71.4,
+  1.2,
+  0.07,
+  27.4,
+  0.0
+ ],
+ "key": "X51005442338"
+}

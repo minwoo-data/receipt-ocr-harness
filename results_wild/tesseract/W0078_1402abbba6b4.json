@@ -1,0 +1,486 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "me Lhd",
+  "ay! McDonald's Scape Branc Wiis",
+  "te 2 Orchard Link oe",
+  "Singapore 237978 Bt",
+  "4 Tel: 6634 9498 ps",
+  ": McDonald's Restaurants Pte Ltd ON:",
+  ": GST REGN NO; M2-0023981-4 Hy",
+  "4 TAX INVOICE tH",
+  "q nee",
+  "4 MFY Side 1 / DESSSide S ,",
+  "] INV# 001570100090376 ae",
+  "@ SRD #67 -REG #1- 13/06/2016 14:41:24",
+  "4 QTY ITEM TOTAL",
+  ": 1 SuperRed Burger Upz 6.05",
+  "q 1 Med Ice Lemon Tea 0.50 |",
+  "q 1 Super Red Burger 6.10",
+  "q 1 McFlurry LemonCustard 2.90 -",
+  "] Subtotal 5 18.05 =",
+  "Take-Out Total (incl GST) 18.05 me",
+  "Cashless Visa 18.05 o",
+  "© TOTAL INCLUDES GST OF 118",
+  "| ‘ Ss"
+ ],
+ "tokens": [
+  {
+   "text": "me",
+   "conf": 0.27
+  },
+  {
+   "text": "Lhd",
+   "conf": 0.19
+  },
+  {
+   "text": "ay!",
+   "conf": 0.29
+  },
+  {
+   "text": "McDonald's",
+   "conf": 0.77
+  },
+  {
+   "text": "Scape",
+   "conf": 0.93
+  },
+  {
+   "text": "Branc",
+   "conf": 0.81
+  },
+  {
+   "text": "Wiis",
+   "conf": 0.34
+  },
+  {
+   "text": "te",
+   "conf": 0.41
+  },
+  {
+   "text": "2",
+   "conf": 0.96
+  },
+  {
+   "text": "Orchard",
+   "conf": 0.96
+  },
+  {
+   "text": "Link",
+   "conf": 0.96
+  },
+  {
+   "text": "oe",
+   "conf": 0.43
+  },
+  {
+   "text": "Singapore",
+   "conf": 0.96
+  },
+  {
+   "text": "237978",
+   "conf": 0.96
+  },
+  {
+   "text": "Bt",
+   "conf": 0.1
+  },
+  {
+   "text": "4",
+   "conf": 0.67
+  },
+  {
+   "text": "Tel:",
+   "conf": 0.95
+  },
+  {
+   "text": "6634",
+   "conf": 0.95
+  },
+  {
+   "text": "9498",
+   "conf": 0.95
+  },
+  {
+   "text": "ps",
+   "conf": 0.38
+  },
+  {
+   "text": ":",
+   "conf": 0.0
+  },
+  {
+   "text": "McDonald's",
+   "conf": 0.84
+  },
+  {
+   "text": "Restaurants",
+   "conf": 0.96
+  },
+  {
+   "text": "Pte",
+   "conf": 0.96
+  },
+  {
+   "text": "Ltd",
+   "conf": 0.96
+  },
+  {
+   "text": "ON:",
+   "conf": 0.42
+  },
+  {
+   "text": ":",
+   "conf": 0.38
+  },
+  {
+   "text": "GST",
+   "conf": 0.9
+  },
+  {
+   "text": "REGN",
+   "conf": 0.9
+  },
+  {
+   "text": "NO;",
+   "conf": 0.77
+  },
+  {
+   "text": "M2-0023981-4",
+   "conf": 0.78
+  },
+  {
+   "text": "Hy",
+   "conf": 0.45
+  },
+  {
+   "text": "4",
+   "conf": 0.79
+  },
+  {
+   "text": "TAX",
+   "conf": 0.95
+  },
+  {
+   "text": "INVOICE",
+   "conf": 0.95
+  },
+  {
+   "text": "tH",
+   "conf": 0.45
+  },
+  {
+   "text": "q",
+   "conf": 0.33
+  },
+  {
+   "text": "nee",
+   "conf": 0.04
+  },
+  {
+   "text": "4",
+   "conf": 0.53
+  },
+  {
+   "text": "MFY",
+   "conf": 0.91
+  },
+  {
+   "text": "Side",
+   "conf": 0.95
+  },
+  {
+   "text": "1",
+   "conf": 0.7
+  },
+  {
+   "text": "/",
+   "conf": 0.7
+  },
+  {
+   "text": "DESSSide",
+   "conf": 0.92
+  },
+  {
+   "text": "S",
+   "conf": 0.88
+  },
+  {
+   "text": ",",
+   "conf": 0.0
+  },
+  {
+   "text": "]",
+   "conf": 0.31
+  },
+  {
+   "text": "INV#",
+   "conf": 0.85
+  },
+  {
+   "text": "001570100090376",
+   "conf": 0.82
+  },
+  {
+   "text": "ae",
+   "conf": 0.29
+  },
+  {
+   "text": "@",
+   "conf": 0.53
+  },
+  {
+   "text": "SRD",
+   "conf": 0.39
+  },
+  {
+   "text": "#67",
+   "conf": 0.92
+  },
+  {
+   "text": "-REG",
+   "conf": 0.72
+  },
+  {
+   "text": "#1-",
+   "conf": 0.76
+  },
+  {
+   "text": "13/06/2016",
+   "conf": 0.95
+  },
+  {
+   "text": "14:41:24",
+   "conf": 0.92
+  },
+  {
+   "text": "4",
+   "conf": 0.86
+  },
+  {
+   "text": "QTY",
+   "conf": 0.93
+  },
+  {
+   "text": "ITEM",
+   "conf": 0.89
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.96
+  },
+  {
+   "text": ":",
+   "conf": 0.45
+  },
+  {
+   "text": "1",
+   "conf": 0.81
+  },
+  {
+   "text": "SuperRed",
+   "conf": 0.9
+  },
+  {
+   "text": "Burger",
+   "conf": 0.93
+  },
+  {
+   "text": "Upz",
+   "conf": 0.92
+  },
+  {
+   "text": "6.05",
+   "conf": 0.45
+  },
+  {
+   "text": "q",
+   "conf": 0.84
+  },
+  {
+   "text": "1",
+   "conf": 0.95
+  },
+  {
+   "text": "Med",
+   "conf": 0.96
+  },
+  {
+   "text": "Ice",
+   "conf": 0.96
+  },
+  {
+   "text": "Lemon",
+   "conf": 0.96
+  },
+  {
+   "text": "Tea",
+   "conf": 0.96
+  },
+  {
+   "text": "0.50",
+   "conf": 0.95
+  },
+  {
+   "text": "|",
+   "conf": 0.89
+  },
+  {
+   "text": "q",
+   "conf": 0.67
+  },
+  {
+   "text": "1",
+   "conf": 0.92
+  },
+  {
+   "text": "Super",
+   "conf": 0.96
+  },
+  {
+   "text": "Red",
+   "conf": 0.96
+  },
+  {
+   "text": "Burger",
+   "conf": 0.96
+  },
+  {
+   "text": "6.10",
+   "conf": 0.95
+  },
+  {
+   "text": "q",
+   "conf": 0.74
+  },
+  {
+   "text": "1",
+   "conf": 0.9
+  },
+  {
+   "text": "McFlurry",
+   "conf": 0.9
+  },
+  {
+   "text": "LemonCustard",
+   "conf": 0.92
+  },
+  {
+   "text": "2.90",
+   "conf": 0.94
+  },
+  {
+   "text": "-",
+   "conf": 0.0
+  },
+  {
+   "text": "]",
+   "conf": 0.0
+  },
+  {
+   "text": "Subtotal",
+   "conf": 0.54
+  },
+  {
+   "text": "5",
+   "conf": 0.43
+  },
+  {
+   "text": "18.05",
+   "conf": 0.95
+  },
+  {
+   "text": "=",
+   "conf": 0.49
+  },
+  {
+   "text": "Take-Out",
+   "conf": 0.66
+  },
+  {
+   "text": "Total",
+   "conf": 0.95
+  },
+  {
+   "text": "(incl",
+   "conf": 0.61
+  },
+  {
+   "text": "GST)",
+   "conf": 0.96
+  },
+  {
+   "text": "18.05",
+   "conf": 0.9
+  },
+  {
+   "text": "me",
+   "conf": 0.26
+  },
+  {
+   "text": "Cashless",
+   "conf": 0.92
+  },
+  {
+   "text": "Visa",
+   "conf": 0.97
+  },
+  {
+   "text": "18.05",
+   "conf": 0.93
+  },
+  {
+   "text": "o",
+   "conf": 0.0
+  },
+  {
+   "text": "©",
+   "conf": 0.26
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.38
+  },
+  {
+   "text": "INCLUDES",
+   "conf": 0.86
+  },
+  {
+   "text": "GST",
+   "conf": 0.94
+  },
+  {
+   "text": "OF",
+   "conf": 0.96
+  },
+  {
+   "text": "118",
+   "conf": 0.49
+  },
+  {
+   "text": "|",
+   "conf": 0.5
+  },
+  {
+   "text": "‘",
+   "conf": 0.56
+  },
+  {
+   "text": "Ss",
+   "conf": 0.43
+  }
+ ],
+ "mean_conf": 0.7068,
+ "low_conf_share": 0.2793,
+ "latency_ms": 1122,
+ "fields": {
+  "company": "MCDONALD S RESTAURANTS PTE LTD ON",
+  "date": "2006-01-13",
+  "total": 18.05
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  18.05
+ ],
+ "key": "W0078_1402abbba6b4"
+}

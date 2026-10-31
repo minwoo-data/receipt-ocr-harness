@@ -1,0 +1,253 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "KRDAIUBAT&RUNCIT HONG",
+  "NING SDN.BHD.",
+  "(717853-P)",
+  "(G6TID1No:002005163456]",
+  "HO.S,JALANLANGRUNING,",
+  "REPONGBARU,",
+  "32100RUALALUMPUR",
+  "Tol:03-6273 2163",
+  "Bill Na ：PO8/.32621",
+  "Dato ：02A02/6 10:23:36AM",
+  "Calhior ：admin",
+  "Paymout :Caxh",
+  "Itorn Qty Axmourt",
+  "FOMECSLUCRY BLE&EING& @IQ1.89",
+  "933657967 108.00 540.00 SR",
+  "FOMECEGIFTOFHAFFDNESS 64.13",
+  "955657957 2 68.00 136.00 SR",
+  "Net Amt@G&T6% 676.00",
+  "Cauh Puid 676.00",
+  "CardPaid 0.00",
+  "Change 0.00",
+  "RoundAdj.: 0.00",
+  "A Amannt TEL",
+  "SR@6% 637.73 38.27",
+  "THANRYOU",
+  "HLEASECOMEAGAIN"
+ ],
+ "tokens": [
+  {
+   "text": "KRDAIUBAT&RUNCIT HONG",
+   "conf": 0.9446102323986235
+  },
+  {
+   "text": "NING SDN.BHD.",
+   "conf": 0.9113058539537283
+  },
+  {
+   "text": "(717853-P)",
+   "conf": 0.9074935555458069
+  },
+  {
+   "text": "(G6TID1No:002005163456]",
+   "conf": 0.8751060094522394
+  },
+  {
+   "text": "HO.S,JALANLANGRUNING,",
+   "conf": 0.8428385626702082
+  },
+  {
+   "text": "REPONGBARU,",
+   "conf": 0.916695540601557
+  },
+  {
+   "text": "32100RUALALUMPUR",
+   "conf": 0.8677681758999825
+  },
+  {
+   "text": "Tol:03-6273 2163",
+   "conf": 0.9484913162887096
+  },
+  {
+   "text": "Bill Na",
+   "conf": 0.9367799588612148
+  },
+  {
+   "text": "：PO8/.32621",
+   "conf": 0.8326767141168768
+  },
+  {
+   "text": "Dato",
+   "conf": 0.9126923531293869
+  },
+  {
+   "text": "：02A02/6 10:23:36AM",
+   "conf": 0.9206321866888749
+  },
+  {
+   "text": "Calhior",
+   "conf": 0.7635150807244437
+  },
+  {
+   "text": "：admin",
+   "conf": 0.7585803717374802
+  },
+  {
+   "text": "Paymout",
+   "conf": 0.7063817381858826
+  },
+  {
+   "text": ":Caxh",
+   "conf": 0.7211905241012573
+  },
+  {
+   "text": "Itorn",
+   "conf": 0.5091908514499665
+  },
+  {
+   "text": "Qty",
+   "conf": 0.9885233839352926
+  },
+  {
+   "text": "Axmourt",
+   "conf": 0.7344103114945548
+  },
+  {
+   "text": "FOMECSLUCRY BLE&EING& @IQ1.89",
+   "conf": 0.826616503041366
+  },
+  {
+   "text": "933657967",
+   "conf": 0.9444880882898966
+  },
+  {
+   "text": "108.00",
+   "conf": 0.9951557914415995
+  },
+  {
+   "text": "540.00",
+   "conf": 0.9315001368522644
+  },
+  {
+   "text": "SR",
+   "conf": 0.8760296404361725
+  },
+  {
+   "text": "FOMECEGIFTOFHAFFDNESS 64.13",
+   "conf": 0.8352984112721903
+  },
+  {
+   "text": "955657957",
+   "conf": 0.8698777821328905
+  },
+  {
+   "text": "2",
+   "conf": 0.9958046078681946
+  },
+  {
+   "text": "68.00",
+   "conf": 0.9946115612983704
+  },
+  {
+   "text": "136.00",
+   "conf": 0.9843448797861735
+  },
+  {
+   "text": "SR",
+   "conf": 0.919767290353775
+  },
+  {
+   "text": "Net Amt@G&T6%",
+   "conf": 0.8428669686500843
+  },
+  {
+   "text": "676.00",
+   "conf": 0.944814920425415
+  },
+  {
+   "text": "Cauh Puid",
+   "conf": 0.8595525191889869
+  },
+  {
+   "text": "676.00",
+   "conf": 0.9629206955432892
+  },
+  {
+   "text": "CardPaid",
+   "conf": 0.9291848614811897
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9960710555315018
+  },
+  {
+   "text": "Change",
+   "conf": 0.8470697005589803
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9817682206630707
+  },
+  {
+   "text": "RoundAdj.:",
+   "conf": 0.7407989174127578
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9228941053152084
+  },
+  {
+   "text": "A",
+   "conf": 0.5872076749801636
+  },
+  {
+   "text": "Amannt",
+   "conf": 0.70559161901474
+  },
+  {
+   "text": "TEL",
+   "conf": 0.5254933685064316
+  },
+  {
+   "text": "SR@6%",
+   "conf": 0.7038223624229432
+  },
+  {
+   "text": "637.73",
+   "conf": 0.9958015084266663
+  },
+  {
+   "text": "38.27",
+   "conf": 0.9938490748405456
+  },
+  {
+   "text": "THANRYOU",
+   "conf": 0.9268003851175308
+  },
+  {
+   "text": "HLEASECOMEAGAIN",
+   "conf": 0.898681902885437
+  }
+ ],
+ "mean_conf": 0.8654,
+ "low_conf_share": 0.0,
+ "latency_ms": 4386,
+ "fields": {
+  "company": "KRDAIUBAT RUNCIT HONG NING SDN BHD",
+  "date": null,
+  "total": 676.0
+ },
+ "rule_reasons": [
+  "date_not_found",
+  "total_no_keyword_fallback_max"
+ ],
+ "total_candidates": [
+  1.89,
+  108.0,
+  540.0,
+  64.13,
+  68.0,
+  136.0,
+  676.0,
+  676.0,
+  0.0,
+  0.0,
+  0.0,
+  637.73,
+  38.27
+ ],
+ "key": "X51006619567"
+}

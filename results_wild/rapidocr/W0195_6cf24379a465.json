@@ -1,0 +1,186 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "Mitchells Restaurant",
+  "ORDER76",
+  "CUSTOMER COPY",
+  "EatIn Cash Sales",
+  "Destination Tll1",
+  "Invoice# 10198",
+  "Salesperson JJ",
+  "Date 10.25PM15Jul16",
+  "1 1/2SANCERREW 21.50",
+  "1 ESPRESSO 2.20",
+  "7 DOZOYSTERSE 23.95",
+  "PANSEABASSE 24.50",
+  "VALUEMENU 2895",
+  "BALANCE DUE 101.10",
+  "IncludesVAT",
+  "Cash 101.10",
+  "TENDERED 101.10",
+  "Minimum Card Transaction",
+  "ise3000",
+  "SERVICECHARGEISNOTINCLUDED"
+ ],
+ "tokens": [
+  {
+   "text": "Mitchells Restaurant",
+   "conf": 0.9734177172183991
+  },
+  {
+   "text": "ORDER76",
+   "conf": 0.9954796944345746
+  },
+  {
+   "text": "CUSTOMER COPY",
+   "conf": 0.9678895152532138
+  },
+  {
+   "text": "EatIn Cash Sales",
+   "conf": 0.9238960146903992
+  },
+  {
+   "text": "Destination",
+   "conf": 0.975617999380285
+  },
+  {
+   "text": "Invoice#",
+   "conf": 0.8926771506667137
+  },
+  {
+   "text": "Tll1",
+   "conf": 0.7878779098391533
+  },
+  {
+   "text": "Salesperson",
+   "conf": 0.9908324696800925
+  },
+  {
+   "text": "10198",
+   "conf": 0.9982135534286499
+  },
+  {
+   "text": "Date",
+   "conf": 0.9917945116758347
+  },
+  {
+   "text": "JJ",
+   "conf": 0.9427905082702637
+  },
+  {
+   "text": "10.25PM15Jul16",
+   "conf": 0.9505052864551544
+  },
+  {
+   "text": "1",
+   "conf": 0.9179288744926453
+  },
+  {
+   "text": "1/2SANCERREW",
+   "conf": 0.9906939715147018
+  },
+  {
+   "text": "21.50",
+   "conf": 0.9290675640106201
+  },
+  {
+   "text": "1",
+   "conf": 0.8999587297439575
+  },
+  {
+   "text": "ESPRESSO",
+   "conf": 0.9927449896931648
+  },
+  {
+   "text": "2.20",
+   "conf": 0.9916954934597015
+  },
+  {
+   "text": "7",
+   "conf": 0.9506288170814514
+  },
+  {
+   "text": "DOZOYSTERSE",
+   "conf": 0.9954541379755194
+  },
+  {
+   "text": "23.95",
+   "conf": 0.9826225757598877
+  },
+  {
+   "text": "PANSEABASSE",
+   "conf": 0.9946761944077231
+  },
+  {
+   "text": "24.50",
+   "conf": 0.9892711162567138
+  },
+  {
+   "text": "VALUEMENU",
+   "conf": 0.9942528936598036
+  },
+  {
+   "text": "2895",
+   "conf": 0.9979862570762634
+  },
+  {
+   "text": "BALANCE DUE",
+   "conf": 0.9554934230717745
+  },
+  {
+   "text": "101.10",
+   "conf": 0.9980252285798391
+  },
+  {
+   "text": "IncludesVAT",
+   "conf": 0.9349505955522711
+  },
+  {
+   "text": "Cash",
+   "conf": 0.9958711415529251
+  },
+  {
+   "text": "101.10",
+   "conf": 0.9974079231421152
+  },
+  {
+   "text": "TENDERED",
+   "conf": 0.9957669600844383
+  },
+  {
+   "text": "101.10",
+   "conf": 0.9979818860689799
+  },
+  {
+   "text": "Minimum Card Transaction",
+   "conf": 0.9613252455989519
+  },
+  {
+   "text": "ise3000",
+   "conf": 0.9120573827198574
+  },
+  {
+   "text": "SERVICECHARGEISNOTINCLUDED",
+   "conf": 0.9933195824806507
+  }
+ ],
+ "mean_conf": 0.9646,
+ "low_conf_share": 0.0,
+ "latency_ms": 3664,
+ "fields": {
+  "company": "MITCHELLS RESTAURANT",
+  "date": "2016-07-15",
+  "total": 101.1
+ },
+ "rule_reasons": [
+  "total_no_keyword_fallback_max"
+ ],
+ "total_candidates": [
+  23.95,
+  24.5,
+  101.1,
+  101.1,
+  101.1
+ ],
+ "key": "W0195_6cf24379a465"
+}

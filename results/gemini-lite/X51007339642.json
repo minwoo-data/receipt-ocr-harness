@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.1-flash-lite",
+ "provider": "gemini",
+ "raw_text": "{\n  \"vendor\": \"AIK HUAT HARDWARE ENTERPRISE (SETIA ALAM) SDN BHD\",\n  \"date\": \"2017-09-28\",\n  \"subtotal\": 14.00,\n  \"tax\": 0.79,\n  \"tip\": null,\n  \"discount\": 0.00,\n  \"total\": 14.00,\n  \"currency\": \"MYR\",\n  \"confidence\": 0.98,\n  \"notes\": null\n}",
+ "data": {
+  "vendor": "AIK HUAT HARDWARE ENTERPRISE (SETIA ALAM) SDN BHD",
+  "date": "2017-09-28",
+  "subtotal": 14.0,
+  "tax": 0.79,
+  "tip": null,
+  "discount": 0.0,
+  "total": 14.0,
+  "currency": "MYR",
+  "confidence": 0.98,
+  "notes": null
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1452,
+  "output_tokens": 125,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.00055,
+ "latency_ms": 1716,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.1-flash-lite",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.1-flash-lite"
+ ],
+ "key": "X51007339642"
+}

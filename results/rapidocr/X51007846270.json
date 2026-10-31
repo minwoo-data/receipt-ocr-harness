@@ -1,0 +1,308 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "MOONLIGHT CAKE HOUSE SDN BHD 862725-U",
+  "(GST Reg No:001559298048)",
+  "No.1,Jalan Permas 10/5,Bandar Baru Permas Jaya",
+  "81750 Johor Bahru,Johor.Tel No.: 07-387 3322",
+  "www.moonlightcake.com",
+  "Table :Counter",
+  "Invoice No:SP-nu11-18/06/04-1016956",
+  "Date :04/06/2018 18:17:54",
+  "Payment Type: Cash",
+  "Member Number:3000000100068587",
+  "TAKEAWAY",
+  "Butter slice Cheese *# 1 RM4.15 ST",
+  "Europe Bun *# Discount 1 RM-0.20 RM3.70 ST",
+  "Discount Green Tea.Mochi *# 1 RM-0.18 RM3.30 ST",
+  "Discount Toast (B) - Coffee Cream Ch 1 RM-0.16 RM7.85 ST",
+  "Discount Walnut Multigrain *# 1 RM-0.39 RM3.95 ST",
+  "Discount RM-0.19",
+  "Total (Incl GST) RM21.83",
+  "Rounding RM0.02",
+  "Grand TotaiRM21.85",
+  "Total Paid RM50.00",
+  "Change RM28.15",
+  "Discount Summary",
+  "Discount RM1.12",
+  "GST Summary",
+  "ST = 0% GST Summary 5 Item 21.83 Amount(RM) 0.00 GST(RM)",
+  "NS = 0% 0 0.00 0.00",
+  "04/06/2018 18:17:54"
+ ],
+ "tokens": [
+  {
+   "text": "MOONLIGHT CAKE HOUSE SDN BHD 862725-U",
+   "conf": 0.9538894424567351
+  },
+  {
+   "text": "(GST Reg No:001559298048)",
+   "conf": 0.9908177304267883
+  },
+  {
+   "text": "No.1,Jalan Permas 10/5,Bandar Baru Permas Jaya",
+   "conf": 0.9791816123153853
+  },
+  {
+   "text": "81750 Johor Bahru,Johor.Tel No.: 07-387 3322",
+   "conf": 0.9675406515598297
+  },
+  {
+   "text": "www.moonlightcake.com",
+   "conf": 0.9944323783829099
+  },
+  {
+   "text": "Table",
+   "conf": 0.9797714114189148
+  },
+  {
+   "text": ":Counter",
+   "conf": 0.9794244170188904
+  },
+  {
+   "text": "Invoice",
+   "conf": 0.9992870432989938
+  },
+  {
+   "text": "No:SP-nu11-18/06/04-1016956",
+   "conf": 0.9906213084856669
+  },
+  {
+   "text": "Date",
+   "conf": 0.9988399296998978
+  },
+  {
+   "text": ":04/06/2018 18:17:54",
+   "conf": 0.9837699413299561
+  },
+  {
+   "text": "Payment Type: Cash",
+   "conf": 0.9705725643369887
+  },
+  {
+   "text": "Member Number:3000000100068587",
+   "conf": 0.9807384391625722
+  },
+  {
+   "text": "TAKEAWAY",
+   "conf": 0.9930317401885986
+  },
+  {
+   "text": "1",
+   "conf": 0.9996517896652222
+  },
+  {
+   "text": "RM4.15 ST",
+   "conf": 0.9965606066915724
+  },
+  {
+   "text": "Butter slice Cheese *#",
+   "conf": 0.976809642531655
+  },
+  {
+   "text": "RM-0.20",
+   "conf": 0.9968377266611371
+  },
+  {
+   "text": "Discount",
+   "conf": 0.9984171688556671
+  },
+  {
+   "text": "1",
+   "conf": 0.9992535710334778
+  },
+  {
+   "text": "RM3.70 ST",
+   "conf": 0.995130823718177
+  },
+  {
+   "text": "Europe Bun *#",
+   "conf": 0.9879466845439031
+  },
+  {
+   "text": "RM-0.18",
+   "conf": 0.9975754618644714
+  },
+  {
+   "text": "Discount",
+   "conf": 0.9980090036988258
+  },
+  {
+   "text": "1",
+   "conf": 0.9975274205207825
+  },
+  {
+   "text": "RM3.30 ST",
+   "conf": 0.9920786486731635
+  },
+  {
+   "text": "Green Tea.Mochi *#",
+   "conf": 0.9781099028057523
+  },
+  {
+   "text": "RM-0.16",
+   "conf": 0.9977871094431195
+  },
+  {
+   "text": "Discount",
+   "conf": 0.9973619878292084
+  },
+  {
+   "text": "1",
+   "conf": 0.9986993074417114
+  },
+  {
+   "text": "RM7.85 ST",
+   "conf": 0.9903838170899285
+  },
+  {
+   "text": "Toast (B) - Coffee Cream Ch",
+   "conf": 0.9823942294827214
+  },
+  {
+   "text": "RM-0.39",
+   "conf": 0.9971867374011448
+  },
+  {
+   "text": "Discount",
+   "conf": 0.998221218585968
+  },
+  {
+   "text": "1",
+   "conf": 0.9992509484291077
+  },
+  {
+   "text": "RM3.95 ST",
+   "conf": 0.9682132535510592
+  },
+  {
+   "text": "Walnut Multigrain *#",
+   "conf": 0.9608631283044815
+  },
+  {
+   "text": "RM-0.19",
+   "conf": 0.9980494720595223
+  },
+  {
+   "text": "Discount",
+   "conf": 0.9932877421379089
+  },
+  {
+   "text": "Total (Incl GST)",
+   "conf": 0.9806753918528557
+  },
+  {
+   "text": "RM21.83",
+   "conf": 0.9997814638274056
+  },
+  {
+   "text": "Rounding",
+   "conf": 0.9995089620351791
+  },
+  {
+   "text": "RM0.02",
+   "conf": 0.9256239831447601
+  },
+  {
+   "text": "Grand TotaiRM21.85",
+   "conf": 0.9696488546000587
+  },
+  {
+   "text": "Total Paid",
+   "conf": 0.9777279675006867
+  },
+  {
+   "text": "RM50.00",
+   "conf": 0.999782281262534
+  },
+  {
+   "text": "Change",
+   "conf": 0.9975469708442688
+  },
+  {
+   "text": "RM28.15",
+   "conf": 0.9997961095401219
+  },
+  {
+   "text": "Discount Summary",
+   "conf": 0.9821082726120949
+  },
+  {
+   "text": "RM1.12",
+   "conf": 0.9994547168413798
+  },
+  {
+   "text": "Discount",
+   "conf": 0.9984493851661682
+  },
+  {
+   "text": "GST Summary",
+   "conf": 0.9894255887378346
+  },
+  {
+   "text": "Item",
+   "conf": 0.9957257062196732
+  },
+  {
+   "text": "Amount(RM)",
+   "conf": 0.9864526152610779
+  },
+  {
+   "text": "GST(RM)",
+   "conf": 0.9975200295448303
+  },
+  {
+   "text": "GST Summary",
+   "conf": 0.9630911296064203
+  },
+  {
+   "text": "5",
+   "conf": 0.9627068638801575
+  },
+  {
+   "text": "21.83",
+   "conf": 0.9998652935028076
+  },
+  {
+   "text": "0.00",
+   "conf": 0.999661773443222
+  },
+  {
+   "text": "ST = 0%",
+   "conf": 0.9324129053524562
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9998822957277298
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9996234178543091
+  },
+  {
+   "text": "NS = 0%",
+   "conf": 0.9114328622817993
+  },
+  {
+   "text": "0",
+   "conf": 0.9954566955566406
+  },
+  {
+   "text": "04/06/2018 18:17:54",
+   "conf": 0.981575862357491
+  }
+ ],
+ "mean_conf": 0.9862,
+ "low_conf_share": 0.0,
+ "latency_ms": 3949,
+ "fields": {
+  "company": "MOONLIGHT CAKE HOUSE SDN BHD",
+  "date": "2006-11-18",
+  "total": 21.83
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  21.83
+ ],
+ "key": "X51007846270"
+}

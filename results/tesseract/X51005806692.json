@@ -1,0 +1,804 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "sr =",
+  "Tax Invoice",
+  "GREAT ZONE HOUSEHOLD CENTRE SDN BHD",
+  "(801049-U)",
+  "60 & 62. Jalan Ciku,",
+  "86000,KLUANG",
+  "GST Reg.: 001833082880",
+  "Document No. : KLGO201130227 ;",
+  "Date : 18/02/2018 06:08:59 PM",
+  "Debtor :",
+  "Member :",
+  "Terminal : KLGO201",
+  "Cashier : KLG2",
+  "DESC SUL PRICE._Disc_ AMOUNT TAX",
+  "Qty RM RM CODE",
+  "2O0SHEET COMPACT SERVIETTES (NTE)",
+  "WH 8 3.30 0.00 3.30 SR",
+  "1.5\" RUBBER BAND",
+  "1200G * 3.60 0.00 3.60 SR",
+  "PP 3X5 04",
+  "1200G * 2.50 0.00 2.50 SR",
+  "18MMX90Y OPP TAPE",
+  "ile 1.60 0.00 1.60 SR",
+  "911 TAPE DISPENSER",
+  "1pc. O* 8.60 0.00 8.60 SR",
+  "PSI-890 PENSONIC DRY IRON WITH SPRAY",
+  "1S PG 49.90 0.00 49.90 SR",
+  "AP-17 APRON PLAIN CLOTH",
+  "20PC * 10.90 0.00 218.00 SR",
+  "TALI UKURAN",
+  "1Pc O* 1.00 0,00 1.00 SR",
+  "CC-100 100PC CITE CANDLE",
+  "WHE | & 22.90 0.00 22.90 SR",
+  "F1502 SCISSOR 08C (CH) (TLC)",
+  "6PC * 6.00 0.00 36.00 SR",
+  "2KG HC KITCHEN SCALE",
+  "PGs 19.90 0.00 19.90 SR",
+  "GST 6% : 0.79",
+  "Service Charge : 0.00",
+  "Rounding Adjustment : 0.00",
+  "| Rounded Total(RM);: 367.30",
+  "i Credit Gard 367.30",
+  "GST Summaty Amount(RM) Tax(RM)",
+  "SR @ 6% : 346.51 20.79"
+ ],
+ "tokens": [
+  {
+   "text": "sr",
+   "conf": 0.0
+  },
+  {
+   "text": "=",
+   "conf": 0.46
+  },
+  {
+   "text": "Tax",
+   "conf": 0.96
+  },
+  {
+   "text": "Invoice",
+   "conf": 0.96
+  },
+  {
+   "text": "GREAT",
+   "conf": 0.96
+  },
+  {
+   "text": "ZONE",
+   "conf": 0.95
+  },
+  {
+   "text": "HOUSEHOLD",
+   "conf": 0.95
+  },
+  {
+   "text": "CENTRE",
+   "conf": 0.96
+  },
+  {
+   "text": "SDN",
+   "conf": 0.96
+  },
+  {
+   "text": "BHD",
+   "conf": 0.95
+  },
+  {
+   "text": "(801049-U)",
+   "conf": 0.9
+  },
+  {
+   "text": "60",
+   "conf": 0.93
+  },
+  {
+   "text": "&",
+   "conf": 0.93
+  },
+  {
+   "text": "62.",
+   "conf": 0.96
+  },
+  {
+   "text": "Jalan",
+   "conf": 0.93
+  },
+  {
+   "text": "Ciku,",
+   "conf": 0.92
+  },
+  {
+   "text": "86000,KLUANG",
+   "conf": 0.92
+  },
+  {
+   "text": "GST",
+   "conf": 0.93
+  },
+  {
+   "text": "Reg.:",
+   "conf": 0.91
+  },
+  {
+   "text": "001833082880",
+   "conf": 0.96
+  },
+  {
+   "text": "Document",
+   "conf": 0.96
+  },
+  {
+   "text": "No.",
+   "conf": 0.82
+  },
+  {
+   "text": ":",
+   "conf": 0.64
+  },
+  {
+   "text": "KLGO201130227",
+   "conf": 0.74
+  },
+  {
+   "text": ";",
+   "conf": 0.59
+  },
+  {
+   "text": "Date",
+   "conf": 0.92
+  },
+  {
+   "text": ":",
+   "conf": 0.92
+  },
+  {
+   "text": "18/02/2018",
+   "conf": 0.96
+  },
+  {
+   "text": "06:08:59",
+   "conf": 0.96
+  },
+  {
+   "text": "PM",
+   "conf": 0.96
+  },
+  {
+   "text": "Debtor",
+   "conf": 0.93
+  },
+  {
+   "text": ":",
+   "conf": 0.92
+  },
+  {
+   "text": "Member",
+   "conf": 0.93
+  },
+  {
+   "text": ":",
+   "conf": 0.93
+  },
+  {
+   "text": "Terminal",
+   "conf": 0.93
+  },
+  {
+   "text": ":",
+   "conf": 0.89
+  },
+  {
+   "text": "KLGO201",
+   "conf": 0.45
+  },
+  {
+   "text": "Cashier",
+   "conf": 0.93
+  },
+  {
+   "text": ":",
+   "conf": 0.93
+  },
+  {
+   "text": "KLG2",
+   "conf": 0.9
+  },
+  {
+   "text": "DESC",
+   "conf": 0.57
+  },
+  {
+   "text": "SUL",
+   "conf": 0.11
+  },
+  {
+   "text": "PRICE._Disc_",
+   "conf": 0.0
+  },
+  {
+   "text": "AMOUNT",
+   "conf": 0.95
+  },
+  {
+   "text": "TAX",
+   "conf": 0.96
+  },
+  {
+   "text": "Qty",
+   "conf": 0.32
+  },
+  {
+   "text": "RM",
+   "conf": 0.96
+  },
+  {
+   "text": "RM",
+   "conf": 0.92
+  },
+  {
+   "text": "CODE",
+   "conf": 0.96
+  },
+  {
+   "text": "2O0SHEET",
+   "conf": 0.53
+  },
+  {
+   "text": "COMPACT",
+   "conf": 0.9
+  },
+  {
+   "text": "SERVIETTES",
+   "conf": 0.43
+  },
+  {
+   "text": "(NTE)",
+   "conf": 0.43
+  },
+  {
+   "text": "WH",
+   "conf": 0.18
+  },
+  {
+   "text": "8",
+   "conf": 0.5
+  },
+  {
+   "text": "3.30",
+   "conf": 0.91
+  },
+  {
+   "text": "0.00",
+   "conf": 0.89
+  },
+  {
+   "text": "3.30",
+   "conf": 0.93
+  },
+  {
+   "text": "SR",
+   "conf": 0.96
+  },
+  {
+   "text": "1.5\"",
+   "conf": 0.95
+  },
+  {
+   "text": "RUBBER",
+   "conf": 0.95
+  },
+  {
+   "text": "BAND",
+   "conf": 0.96
+  },
+  {
+   "text": "1200G",
+   "conf": 0.75
+  },
+  {
+   "text": "*",
+   "conf": 0.89
+  },
+  {
+   "text": "3.60",
+   "conf": 0.88
+  },
+  {
+   "text": "0.00",
+   "conf": 0.88
+  },
+  {
+   "text": "3.60",
+   "conf": 0.95
+  },
+  {
+   "text": "SR",
+   "conf": 0.96
+  },
+  {
+   "text": "PP",
+   "conf": 0.93
+  },
+  {
+   "text": "3X5",
+   "conf": 0.93
+  },
+  {
+   "text": "04",
+   "conf": 0.96
+  },
+  {
+   "text": "1200G",
+   "conf": 0.73
+  },
+  {
+   "text": "*",
+   "conf": 0.73
+  },
+  {
+   "text": "2.50",
+   "conf": 0.89
+  },
+  {
+   "text": "0.00",
+   "conf": 0.89
+  },
+  {
+   "text": "2.50",
+   "conf": 0.96
+  },
+  {
+   "text": "SR",
+   "conf": 0.96
+  },
+  {
+   "text": "18MMX90Y",
+   "conf": 0.79
+  },
+  {
+   "text": "OPP",
+   "conf": 0.96
+  },
+  {
+   "text": "TAPE",
+   "conf": 0.96
+  },
+  {
+   "text": "ile",
+   "conf": 0.43
+  },
+  {
+   "text": "1.60",
+   "conf": 0.89
+  },
+  {
+   "text": "0.00",
+   "conf": 0.89
+  },
+  {
+   "text": "1.60",
+   "conf": 0.96
+  },
+  {
+   "text": "SR",
+   "conf": 0.96
+  },
+  {
+   "text": "911",
+   "conf": 0.96
+  },
+  {
+   "text": "TAPE",
+   "conf": 0.96
+  },
+  {
+   "text": "DISPENSER",
+   "conf": 0.96
+  },
+  {
+   "text": "1pc.",
+   "conf": 0.0
+  },
+  {
+   "text": "O*",
+   "conf": 0.09
+  },
+  {
+   "text": "8.60",
+   "conf": 0.88
+  },
+  {
+   "text": "0.00",
+   "conf": 0.88
+  },
+  {
+   "text": "8.60",
+   "conf": 0.96
+  },
+  {
+   "text": "SR",
+   "conf": 0.96
+  },
+  {
+   "text": "PSI-890",
+   "conf": 0.92
+  },
+  {
+   "text": "PENSONIC",
+   "conf": 0.91
+  },
+  {
+   "text": "DRY",
+   "conf": 0.96
+  },
+  {
+   "text": "IRON",
+   "conf": 0.95
+  },
+  {
+   "text": "WITH",
+   "conf": 0.96
+  },
+  {
+   "text": "SPRAY",
+   "conf": 0.96
+  },
+  {
+   "text": "1S",
+   "conf": 0.19
+  },
+  {
+   "text": "PG",
+   "conf": 0.31
+  },
+  {
+   "text": "49.90",
+   "conf": 0.88
+  },
+  {
+   "text": "0.00",
+   "conf": 0.88
+  },
+  {
+   "text": "49.90",
+   "conf": 0.95
+  },
+  {
+   "text": "SR",
+   "conf": 0.96
+  },
+  {
+   "text": "AP-17",
+   "conf": 0.91
+  },
+  {
+   "text": "APRON",
+   "conf": 0.96
+  },
+  {
+   "text": "PLAIN",
+   "conf": 0.96
+  },
+  {
+   "text": "CLOTH",
+   "conf": 0.96
+  },
+  {
+   "text": "20PC",
+   "conf": 0.48
+  },
+  {
+   "text": "*",
+   "conf": 0.78
+  },
+  {
+   "text": "10.90",
+   "conf": 0.9
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9
+  },
+  {
+   "text": "218.00",
+   "conf": 0.96
+  },
+  {
+   "text": "SR",
+   "conf": 0.96
+  },
+  {
+   "text": "TALI",
+   "conf": 0.9
+  },
+  {
+   "text": "UKURAN",
+   "conf": 0.9
+  },
+  {
+   "text": "1Pc",
+   "conf": 0.23
+  },
+  {
+   "text": "O*",
+   "conf": 0.18
+  },
+  {
+   "text": "1.00",
+   "conf": 0.88
+  },
+  {
+   "text": "0,00",
+   "conf": 0.9
+  },
+  {
+   "text": "1.00",
+   "conf": 0.93
+  },
+  {
+   "text": "SR",
+   "conf": 0.95
+  },
+  {
+   "text": "CC-100",
+   "conf": 0.92
+  },
+  {
+   "text": "100PC",
+   "conf": 0.91
+  },
+  {
+   "text": "CITE",
+   "conf": 0.96
+  },
+  {
+   "text": "CANDLE",
+   "conf": 0.96
+  },
+  {
+   "text": "WHE",
+   "conf": 0.54
+  },
+  {
+   "text": "|",
+   "conf": 0.44
+  },
+  {
+   "text": "&",
+   "conf": 0.44
+  },
+  {
+   "text": "22.90",
+   "conf": 0.84
+  },
+  {
+   "text": "0.00",
+   "conf": 0.84
+  },
+  {
+   "text": "22.90",
+   "conf": 0.95
+  },
+  {
+   "text": "SR",
+   "conf": 0.96
+  },
+  {
+   "text": "F1502",
+   "conf": 0.92
+  },
+  {
+   "text": "SCISSOR",
+   "conf": 0.93
+  },
+  {
+   "text": "08C",
+   "conf": 0.19
+  },
+  {
+   "text": "(CH)",
+   "conf": 0.96
+  },
+  {
+   "text": "(TLC)",
+   "conf": 0.95
+  },
+  {
+   "text": "6PC",
+   "conf": 0.81
+  },
+  {
+   "text": "*",
+   "conf": 0.83
+  },
+  {
+   "text": "6.00",
+   "conf": 0.78
+  },
+  {
+   "text": "0.00",
+   "conf": 0.78
+  },
+  {
+   "text": "36.00",
+   "conf": 0.96
+  },
+  {
+   "text": "SR",
+   "conf": 0.96
+  },
+  {
+   "text": "2KG",
+   "conf": 0.92
+  },
+  {
+   "text": "HC",
+   "conf": 0.94
+  },
+  {
+   "text": "KITCHEN",
+   "conf": 0.94
+  },
+  {
+   "text": "SCALE",
+   "conf": 0.96
+  },
+  {
+   "text": "PGs",
+   "conf": 0.0
+  },
+  {
+   "text": "19.90",
+   "conf": 0.87
+  },
+  {
+   "text": "0.00",
+   "conf": 0.87
+  },
+  {
+   "text": "19.90",
+   "conf": 0.94
+  },
+  {
+   "text": "SR",
+   "conf": 0.96
+  },
+  {
+   "text": "GST",
+   "conf": 0.93
+  },
+  {
+   "text": "6%",
+   "conf": 0.88
+  },
+  {
+   "text": ":",
+   "conf": 0.76
+  },
+  {
+   "text": "0.79",
+   "conf": 0.92
+  },
+  {
+   "text": "Service",
+   "conf": 0.95
+  },
+  {
+   "text": "Charge",
+   "conf": 0.93
+  },
+  {
+   "text": ":",
+   "conf": 0.75
+  },
+  {
+   "text": "0.00",
+   "conf": 0.88
+  },
+  {
+   "text": "Rounding",
+   "conf": 0.96
+  },
+  {
+   "text": "Adjustment",
+   "conf": 0.93
+  },
+  {
+   "text": ":",
+   "conf": 0.88
+  },
+  {
+   "text": "0.00",
+   "conf": 0.96
+  },
+  {
+   "text": "|",
+   "conf": 0.81
+  },
+  {
+   "text": "Rounded",
+   "conf": 0.83
+  },
+  {
+   "text": "Total(RM);:",
+   "conf": 0.65
+  },
+  {
+   "text": "367.30",
+   "conf": 0.94
+  },
+  {
+   "text": "i",
+   "conf": 0.33
+  },
+  {
+   "text": "Credit",
+   "conf": 0.93
+  },
+  {
+   "text": "Gard",
+   "conf": 0.8
+  },
+  {
+   "text": "367.30",
+   "conf": 0.9
+  },
+  {
+   "text": "GST",
+   "conf": 0.69
+  },
+  {
+   "text": "Summaty",
+   "conf": 0.37
+  },
+  {
+   "text": "Amount(RM)",
+   "conf": 0.92
+  },
+  {
+   "text": "Tax(RM)",
+   "conf": 0.91
+  },
+  {
+   "text": "SR",
+   "conf": 0.82
+  },
+  {
+   "text": "@",
+   "conf": 0.82
+  },
+  {
+   "text": "6%",
+   "conf": 0.96
+  },
+  {
+   "text": ":",
+   "conf": 0.74
+  },
+  {
+   "text": "346.51",
+   "conf": 0.96
+  },
+  {
+   "text": "20.79",
+   "conf": 0.96
+  }
+ ],
+ "mean_conf": 0.8185,
+ "low_conf_share": 0.1243,
+ "latency_ms": 1620,
+ "fields": {
+  "company": "GREAT ZONE HOUSEHOLD CENTRE SDN BHD",
+  "date": "2018-02-18",
+  "total": 367.3
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  367.3
+ ],
+ "key": "X51005806692"
+}

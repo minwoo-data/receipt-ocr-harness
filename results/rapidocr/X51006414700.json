@@ -1,0 +1,230 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "AEON C0.(M)BHD（126926-H)",
+  "3RD FLR,AEON TAMAN MALURI SC",
+  "JLN JEJAKA,TAMAN MALURI",
+  "CHERAS，55100 KUALA LUMPUR",
+  "GST ID :002017394688",
+  "SHOPPING HOURS",
+  "SUN-THU:1000 HRS-2230 HRS",
+  "FRI-SAT:1000 HRS-2300 HRS",
+  "1x000000417969 4.00SR",
+  "GREEN PEA CHEES",
+  "1x000000418294 3.90SR",
+  "BIG NUT BREAD",
+  "1x000000418218 2.30SR",
+  "ONION CHEESE",
+  "Sub-total 10.20",
+  "Total Sales Incl GST 10.20",
+  "Total After Adj Incl GST 10.20",
+  "CASH 10.20",
+  "Item Count 3 Change Amt 0.00",
+  "Invoice No:2018042210100260452",
+  "GST Summary Amount Tax",
+  "SR @ 6% 9.62 0.58",
+  "Total 9.62 0.58",
+  "22/04/2018 19:29 10100260260452",
+  "0304271 PJ NORSYAZWANA",
+  "AEONPERMASJAYA",
+  "TEL1-300-80-AE0N(2366)",
+  "THANK YOU FORYOUR PATRONAGE",
+  "PLEASE COME AGAIN"
+ ],
+ "tokens": [
+  {
+   "text": "AEON C0.(M)BHD（126926-H)",
+   "conf": 0.9181880826751391
+  },
+  {
+   "text": "3RD FLR,AEON TAMAN MALURI SC",
+   "conf": 0.9566732048988342
+  },
+  {
+   "text": "JLN JEJAKA,TAMAN MALURI",
+   "conf": 0.965186956136123
+  },
+  {
+   "text": "CHERAS，55100 KUALA LUMPUR",
+   "conf": 0.9699160146713257
+  },
+  {
+   "text": "GST ID :002017394688",
+   "conf": 0.9637054294347763
+  },
+  {
+   "text": "SHOPPING HOURS",
+   "conf": 0.9823422474520547
+  },
+  {
+   "text": "SUN-THU:1000 HRS-2230 HRS",
+   "conf": 0.9641103315353393
+  },
+  {
+   "text": "FRI-SAT:1000 HRS-2300 HRS",
+   "conf": 0.9645679020881652
+  },
+  {
+   "text": "1x000000417969",
+   "conf": 0.9860962884766715
+  },
+  {
+   "text": "4.00SR",
+   "conf": 0.9805783927440643
+  },
+  {
+   "text": "GREEN PEA CHEES",
+   "conf": 0.9490474899609883
+  },
+  {
+   "text": "1x000000418294",
+   "conf": 0.9756168254784175
+  },
+  {
+   "text": "3.90SR",
+   "conf": 0.9906425774097443
+  },
+  {
+   "text": "BIG NUT BREAD",
+   "conf": 0.9570589019702032
+  },
+  {
+   "text": "1x000000418218",
+   "conf": 0.9655190876552037
+  },
+  {
+   "text": "2.30SR",
+   "conf": 0.9975418945153555
+  },
+  {
+   "text": "ONION CHEESE",
+   "conf": 0.9644630551338196
+  },
+  {
+   "text": "Sub-total",
+   "conf": 0.9500191542837355
+  },
+  {
+   "text": "10.20",
+   "conf": 0.9997843146324158
+  },
+  {
+   "text": "Total Sales Incl GST",
+   "conf": 0.9946304738521576
+  },
+  {
+   "text": "10.20",
+   "conf": 0.9998348712921142
+  },
+  {
+   "text": "Total After Adj Incl GST",
+   "conf": 0.9551360259453455
+  },
+  {
+   "text": "10.20",
+   "conf": 0.9993215799331665
+  },
+  {
+   "text": "CASH",
+   "conf": 0.99813212454319
+  },
+  {
+   "text": "10.20",
+   "conf": 0.9997809052467346
+  },
+  {
+   "text": "Item Count 3",
+   "conf": 0.9466751714547476
+  },
+  {
+   "text": "Change Amt",
+   "conf": 0.9947826445102692
+  },
+  {
+   "text": "0.00",
+   "conf": 0.999713122844696
+  },
+  {
+   "text": "Invoice No:2018042210100260452",
+   "conf": 0.9914079467455547
+  },
+  {
+   "text": "GST Summary",
+   "conf": 0.9601624770597978
+  },
+  {
+   "text": "Amount",
+   "conf": 0.9906327128410339
+  },
+  {
+   "text": "Tax",
+   "conf": 0.9893081585566202
+  },
+  {
+   "text": "SR @ 6%",
+   "conf": 0.9233332020895821
+  },
+  {
+   "text": "9.62",
+   "conf": 0.9991739988327026
+  },
+  {
+   "text": "0.58",
+   "conf": 0.9998768121004105
+  },
+  {
+   "text": "Total",
+   "conf": 0.9940114855766297
+  },
+  {
+   "text": "9.62",
+   "conf": 0.9987681806087494
+  },
+  {
+   "text": "0.58",
+   "conf": 0.9997937977313995
+  },
+  {
+   "text": "22/04/2018 19:29",
+   "conf": 0.9859246090054512
+  },
+  {
+   "text": "10100260260452",
+   "conf": 0.9991631294999804
+  },
+  {
+   "text": "0304271 PJ NORSYAZWANA",
+   "conf": 0.9807767488739707
+  },
+  {
+   "text": "AEONPERMASJAYA",
+   "conf": 0.9965780760560717
+  },
+  {
+   "text": "TEL1-300-80-AE0N(2366)",
+   "conf": 0.9588961113582958
+  },
+  {
+   "text": "THANK YOU FORYOUR PATRONAGE",
+   "conf": 0.9540190718792103
+  },
+  {
+   "text": "PLEASE COME AGAIN",
+   "conf": 0.9629867848228005
+  }
+ ],
+ "mean_conf": 0.9772,
+ "low_conf_share": 0.0,
+ "latency_ms": 4282,
+ "fields": {
+  "company": "AEON C0 BHD",
+  "date": "2018-04-22",
+  "total": 10.2
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  10.2,
+  10.2
+ ],
+ "key": "X51006414700"
+}

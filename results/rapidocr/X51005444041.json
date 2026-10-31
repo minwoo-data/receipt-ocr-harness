@@ -1,0 +1,320 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "B.I.G.",
+  "Bir'sTndepeueleutGrorer",
+  "BENSINDEPENDENTGROCER SDN.BHD",
+  "(913144-A)",
+  "Lot6,JalanBatai,",
+  "Plaza Batai,Damansara Heights",
+  "50490,KualaLumpur",
+  "T:03-209373581F:03-20937359",
+  "(GSTREGNO000243941376)",
+  "TaxInvoice! BAT01201803080169 08/03/18",
+  "Cashier: Sharol N 18:20:41",
+  "DolePineapple Pcs",
+  "8809069300708 7.90*3 23.70Z",
+  "Farmhouse Fresh MilkTwinPack2x1L",
+  "9556040440548 19.90*1 19.90S",
+  "Fresh CutHoney kfruitPeeled400g",
+  "1430018201 8.90*3 26.70Z",
+  "NestleBlissYogDrinkStrawberry7o0g",
+  "9556001030290 5.80*1 5.80S",
+  "VitagenAssorted5x125ml",
+  "9557305000118 4.90*1 4.90S",
+  "Item TotalwithGST@6% 81.00",
+  "Qty 6 Rounding 0.00",
+  "Total Saving 0.00 Total 81.00",
+  "Tender",
+  "Pmpc(debit)0012App:578149 81.00",
+  "Change 0.00",
+  "GSTAnalysis Goods TaxAmount",
+  "S=6% 28.86 1.74",
+  "%0=Z 50.40 0.00",
+  "BIG.COM.MY",
+  "FACEBOOK.COM/THEBIGGROUP",
+  "EXCHANGE&REFUNDMAYBEALLOWED",
+  "WITHIN 3DAYS WITH ORIGINALTAX INVOICE",
+  "THANKYOU,PLEASECOMEAGAIN",
+  "BAT01201803080169"
+ ],
+ "tokens": [
+  {
+   "text": "B.I.G.",
+   "conf": 0.8511759986480077
+  },
+  {
+   "text": "Bir'sTndepeueleutGrorer",
+   "conf": 0.768994064434715
+  },
+  {
+   "text": "BENSINDEPENDENTGROCER SDN.BHD",
+   "conf": 0.9753817134890063
+  },
+  {
+   "text": "(913144-A)",
+   "conf": 0.9783639192581177
+  },
+  {
+   "text": "Lot6,JalanBatai,",
+   "conf": 0.9594440497457981
+  },
+  {
+   "text": "Plaza Batai,Damansara Heights",
+   "conf": 0.9645117048559517
+  },
+  {
+   "text": "50490,KualaLumpur",
+   "conf": 0.96151782134
+  },
+  {
+   "text": "T:03-209373581F:03-20937359",
+   "conf": 0.9725964510882342
+  },
+  {
+   "text": "(GSTREGNO000243941376)",
+   "conf": 0.965826850045811
+  },
+  {
+   "text": "TaxInvoice!",
+   "conf": 0.9622059301896528
+  },
+  {
+   "text": "BAT01201803080169",
+   "conf": 0.997601519612705
+  },
+  {
+   "text": "08/03/18",
+   "conf": 0.9963047429919243
+  },
+  {
+   "text": "Cashier: Sharol N",
+   "conf": 0.9584619052269879
+  },
+  {
+   "text": "18:20:41",
+   "conf": 0.9823680222034454
+  },
+  {
+   "text": "DolePineapple Pcs",
+   "conf": 0.9485721482950098
+  },
+  {
+   "text": "8809069300708",
+   "conf": 0.9989672990945669
+  },
+  {
+   "text": "7.90*3",
+   "conf": 0.9914565881093343
+  },
+  {
+   "text": "23.70Z",
+   "conf": 0.9709905087947845
+  },
+  {
+   "text": "Farmhouse Fresh MilkTwinPack2x1L",
+   "conf": 0.9648196641355753
+  },
+  {
+   "text": "9556040440548",
+   "conf": 0.9992048419438876
+  },
+  {
+   "text": "19.90*1",
+   "conf": 0.9967471872057233
+  },
+  {
+   "text": "19.90S",
+   "conf": 0.9896514515082041
+  },
+  {
+   "text": "Fresh CutHoney",
+   "conf": 0.9469554722309113
+  },
+  {
+   "text": "kfruitPeeled400g",
+   "conf": 0.9664461761713028
+  },
+  {
+   "text": "1430018201",
+   "conf": 0.9985219717025757
+  },
+  {
+   "text": "8.90*3",
+   "conf": 0.9943627615769705
+  },
+  {
+   "text": "26.70Z",
+   "conf": 0.9830894470214844
+  },
+  {
+   "text": "NestleBlissYogDrinkStrawberry7o0g",
+   "conf": 0.9623690807458126
+  },
+  {
+   "text": "9556001030290",
+   "conf": 0.9992983662165128
+  },
+  {
+   "text": "5.80*1",
+   "conf": 0.9927613337834676
+  },
+  {
+   "text": "5.80S",
+   "conf": 0.9859369397163391
+  },
+  {
+   "text": "VitagenAssorted5x125ml",
+   "conf": 0.9938707460056652
+  },
+  {
+   "text": "9557305000118",
+   "conf": 0.9993904278828547
+  },
+  {
+   "text": "4.90*1",
+   "conf": 0.9947232206662496
+  },
+  {
+   "text": "4.90S",
+   "conf": 0.9858723282814026
+  },
+  {
+   "text": "Item",
+   "conf": 0.9932477027177811
+  },
+  {
+   "text": "TotalwithGST@6%",
+   "conf": 0.9898097236951192
+  },
+  {
+   "text": "81.00",
+   "conf": 0.997668445110321
+  },
+  {
+   "text": "Qty",
+   "conf": 0.9878193140029907
+  },
+  {
+   "text": "6",
+   "conf": 0.9921963214874268
+  },
+  {
+   "text": "Rounding",
+   "conf": 0.9967517256736755
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9977369010448456
+  },
+  {
+   "text": "Total Saving",
+   "conf": 0.9804378499587377
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9979571849107742
+  },
+  {
+   "text": "Total",
+   "conf": 0.9780535817146301
+  },
+  {
+   "text": "81.00",
+   "conf": 0.9983653068542481
+  },
+  {
+   "text": "Tender",
+   "conf": 0.9957494139671326
+  },
+  {
+   "text": "Pmpc(debit)0012App:578149",
+   "conf": 0.9583665347099304
+  },
+  {
+   "text": "81.00",
+   "conf": 0.9985581755638122
+  },
+  {
+   "text": "Change",
+   "conf": 0.9953223764896393
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9958522468805313
+  },
+  {
+   "text": "GSTAnalysis",
+   "conf": 0.993638889356093
+  },
+  {
+   "text": "Goods",
+   "conf": 0.9952167868614197
+  },
+  {
+   "text": "TaxAmount",
+   "conf": 0.9905728896458944
+  },
+  {
+   "text": "S=6%",
+   "conf": 0.988031879067421
+  },
+  {
+   "text": "28.86",
+   "conf": 0.9975855231285096
+  },
+  {
+   "text": "1.74",
+   "conf": 0.9967528134584427
+  },
+  {
+   "text": "%0=Z",
+   "conf": 0.7665447816252708
+  },
+  {
+   "text": "50.40",
+   "conf": 0.9974072217941284
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9948001652956009
+  },
+  {
+   "text": "BIG.COM.MY",
+   "conf": 0.9926567375659943
+  },
+  {
+   "text": "FACEBOOK.COM/THEBIGGROUP",
+   "conf": 0.990182968477408
+  },
+  {
+   "text": "EXCHANGE&REFUNDMAYBEALLOWED",
+   "conf": 0.9851681192715963
+  },
+  {
+   "text": "WITHIN 3DAYS WITH ORIGINALTAX INVOICE",
+   "conf": 0.9240823911653983
+  },
+  {
+   "text": "THANKYOU,PLEASECOMEAGAIN",
+   "conf": 0.9846216316024462
+  },
+  {
+   "text": "BAT01201803080169",
+   "conf": 0.9942768496625564
+  }
+ ],
+ "mean_conf": 0.9758,
+ "low_conf_share": 0.0,
+ "latency_ms": 4908,
+ "fields": {
+  "company": "BIR STNDEPEUELEUTGRORER BENSINDEPENDENTGROCER SDN BHD",
+  "date": "2018-03-08",
+  "total": 81.0
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  81.0
+ ],
+ "key": "X51005444041"
+}

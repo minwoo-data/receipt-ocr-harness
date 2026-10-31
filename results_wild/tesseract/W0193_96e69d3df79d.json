@@ -1,0 +1,183 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "!",
+  "f",
+  "Description Oty Price Total V",
+  "Agios Nikolaos iL 2 2.00 4.00",
+  "Aen te 8",
+  "‘COWBOY. STEAK 1@ 46-00 46.00",
+  "(Total Qty: 12)",
+  "Grand Total ik <<.",
+  ": 6.50 8.87 06 0",
+  "a ‘Thank Yout oi"
+ ],
+ "tokens": [
+  {
+   "text": "!",
+   "conf": 0.0
+  },
+  {
+   "text": "f",
+   "conf": 0.49
+  },
+  {
+   "text": "Description",
+   "conf": 0.41
+  },
+  {
+   "text": "Oty",
+   "conf": 0.39
+  },
+  {
+   "text": "Price",
+   "conf": 0.45
+  },
+  {
+   "text": "Total",
+   "conf": 0.18
+  },
+  {
+   "text": "V",
+   "conf": 0.38
+  },
+  {
+   "text": "Agios",
+   "conf": 0.35
+  },
+  {
+   "text": "Nikolaos",
+   "conf": 0.33
+  },
+  {
+   "text": "iL",
+   "conf": 0.47
+  },
+  {
+   "text": "2",
+   "conf": 0.0
+  },
+  {
+   "text": "2.00",
+   "conf": 0.7
+  },
+  {
+   "text": "4.00",
+   "conf": 0.7
+  },
+  {
+   "text": "Aen",
+   "conf": 0.22
+  },
+  {
+   "text": "te",
+   "conf": 0.04
+  },
+  {
+   "text": "8",
+   "conf": 0.42
+  },
+  {
+   "text": "‘COWBOY.",
+   "conf": 0.66
+  },
+  {
+   "text": "STEAK",
+   "conf": 0.65
+  },
+  {
+   "text": "1@",
+   "conf": 0.86
+  },
+  {
+   "text": "46-00",
+   "conf": 0.64
+  },
+  {
+   "text": "46.00",
+   "conf": 0.62
+  },
+  {
+   "text": "(Total",
+   "conf": 0.76
+  },
+  {
+   "text": "Qty:",
+   "conf": 0.75
+  },
+  {
+   "text": "12)",
+   "conf": 0.75
+  },
+  {
+   "text": "Grand",
+   "conf": 0.65
+  },
+  {
+   "text": "Total",
+   "conf": 0.64
+  },
+  {
+   "text": "ik",
+   "conf": 0.13
+  },
+  {
+   "text": "<<.",
+   "conf": 0.29
+  },
+  {
+   "text": ":",
+   "conf": 0.05
+  },
+  {
+   "text": "6.50",
+   "conf": 0.53
+  },
+  {
+   "text": "8.87",
+   "conf": 0.48
+  },
+  {
+   "text": "06",
+   "conf": 0.23
+  },
+  {
+   "text": "0",
+   "conf": 0.23
+  },
+  {
+   "text": "a",
+   "conf": 0.0
+  },
+  {
+   "text": "‘Thank",
+   "conf": 0.85
+  },
+  {
+   "text": "Yout",
+   "conf": 0.81
+  },
+  {
+   "text": "oi",
+   "conf": 0.22
+  }
+ ],
+ "mean_conf": 0.4414,
+ "low_conf_share": 0.5946,
+ "latency_ms": 405,
+ "fields": {
+  "company": "DESCRIPTION OTY PRICE TOTAL V",
+  "date": null,
+  "total": 46.0
+ },
+ "rule_reasons": [
+  "date_not_found",
+  "total_no_keyword_fallback_max"
+ ],
+ "total_candidates": [
+  46.0,
+  6.5,
+  8.87
+ ],
+ "key": "W0193_96e69d3df79d"
+}

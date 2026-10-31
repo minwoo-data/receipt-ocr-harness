@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.6-flash",
+ "provider": "gemini",
+ "raw_text": "{\"vendor\": \"POPPIES\", \"date\": \"2016-07-31\", \"subtotal\": 22.0, \"tax\": null, \"tip\": null, \"discount\": null, \"total\": 22.0, \"currency\": \"GBP\", \"confidence\": 0.98, \"notes\": null}",
+ "data": {
+  "vendor": "POPPIES",
+  "date": "2016-07-31",
+  "subtotal": 22.0,
+  "tax": null,
+  "tip": null,
+  "discount": null,
+  "total": 22.0,
+  "currency": "GBP",
+  "confidence": 0.98,
+  "notes": null
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1471,
+  "output_tokens": 77,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.001392,
+ "latency_ms": 1729,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.6-flash",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.6-flash"
+ ],
+ "key": "W0169_0cc147c47ff9"
+}

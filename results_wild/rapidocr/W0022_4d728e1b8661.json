@@ -1,0 +1,229 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "COSITAS RICAS",
+  "79-19 Ro0sevelt Ave",
+  "Jackson Heights, NY 11372",
+  "(718) 478-1500",
+  "Server: BAR Station:3",
+  "Order #:3124 SALON",
+  "Table: 206 Guests:1",
+  ">> SETTLED《<",
+  "1PAN CACHO GDE. 2.50",
+  "2 BUNUELOS 2.00",
+  "3 PAN DEBONO 3.00",
+  "2 PAN DE UVA 2.00",
+  "1HAMBURGUES JAMON QUESO 6.75",
+  "++WELL DONE",
+  "1MARACUYA 3.50",
+  "++LECHE",
+  "1CALDO DE COSTILLA 6.45",
+  "ENSALAD DIA",
+  "ESPERE...",
+  "1CAFE REGULAR 1.25",
+  "1EMPANADA 1.00",
+  "2 PAN QUESO PEQ. 2.00",
+  "TOTAL: $30.45",
+  "Cash Tendered: 40.00",
+  "CHANGE: -9.55",
+  "》 Ticket #: 400《<",
+  "Created:1/14/2012 2:17:44 PM",
+  "SETTLED:1/14/2012 2:54:29 PM",
+  "THANK YOU!"
+ ],
+ "tokens": [
+  {
+   "text": "COSITAS RICAS",
+   "conf": 0.9462733314587519
+  },
+  {
+   "text": "79-19 Ro0sevelt Ave",
+   "conf": 0.9425508474048815
+  },
+  {
+   "text": "Jackson Heights, NY 11372",
+   "conf": 0.9588644313812256
+  },
+  {
+   "text": "(718) 478-1500",
+   "conf": 0.972090312412807
+  },
+  {
+   "text": "Server: BAR",
+   "conf": 0.9543384205211293
+  },
+  {
+   "text": "Station:3",
+   "conf": 0.9867542584737142
+  },
+  {
+   "text": "SALON",
+   "conf": 0.9846506357192993
+  },
+  {
+   "text": "Order #:3124",
+   "conf": 0.9785752594470978
+  },
+  {
+   "text": "Table: 206",
+   "conf": 0.9413477003574371
+  },
+  {
+   "text": "Guests:1",
+   "conf": 0.9928149878978729
+  },
+  {
+   "text": ">> SETTLED《<",
+   "conf": 0.7957033067941666
+  },
+  {
+   "text": "2.50",
+   "conf": 0.999604657292366
+  },
+  {
+   "text": "1PAN CACHO GDE.",
+   "conf": 0.9459529836972554
+  },
+  {
+   "text": "2.00",
+   "conf": 0.9832837581634521
+  },
+  {
+   "text": "2 BUNUELOS",
+   "conf": 0.9436242520809174
+  },
+  {
+   "text": "3.00",
+   "conf": 0.9992708712816238
+  },
+  {
+   "text": "3 PAN DEBONO",
+   "conf": 0.9487805217504501
+  },
+  {
+   "text": "2.00",
+   "conf": 0.9986780881881714
+  },
+  {
+   "text": "2 PAN DE UVA",
+   "conf": 0.9386407434940338
+  },
+  {
+   "text": "6.75",
+   "conf": 0.9989550560712814
+  },
+  {
+   "text": "1HAMBURGUES JAMON QUESO",
+   "conf": 0.9769982280938522
+  },
+  {
+   "text": "++WELL DONE",
+   "conf": 0.9764103889465332
+  },
+  {
+   "text": "3.50",
+   "conf": 0.99871626496315
+  },
+  {
+   "text": "1MARACUYA",
+   "conf": 0.9831466608577304
+  },
+  {
+   "text": "++LECHE",
+   "conf": 0.9812531556401934
+  },
+  {
+   "text": "6.45",
+   "conf": 0.9982288032770157
+  },
+  {
+   "text": "1CALDO DE COSTILLA",
+   "conf": 0.9556181927522024
+  },
+  {
+   "text": "ENSALAD DIA",
+   "conf": 0.9468170946294611
+  },
+  {
+   "text": "ESPERE...",
+   "conf": 0.982118096616533
+  },
+  {
+   "text": "1.25",
+   "conf": 0.9992964565753937
+  },
+  {
+   "text": "1CAFE REGULAR",
+   "conf": 0.9741176596054664
+  },
+  {
+   "text": "1.00",
+   "conf": 0.9991058260202408
+  },
+  {
+   "text": "1EMPANADA",
+   "conf": 0.9883794585863749
+  },
+  {
+   "text": "2.00",
+   "conf": 0.9992138594388962
+  },
+  {
+   "text": "2 PAN QUESO PEQ.",
+   "conf": 0.951958678662777
+  },
+  {
+   "text": "TOTAL:",
+   "conf": 0.9969078302383423
+  },
+  {
+   "text": "$30.45",
+   "conf": 0.9501962065696716
+  },
+  {
+   "text": "40.00",
+   "conf": 0.9986904978752136
+  },
+  {
+   "text": "Cash Tendered:",
+   "conf": 0.9884480706283024
+  },
+  {
+   "text": "-9.55",
+   "conf": 0.9929960250854493
+  },
+  {
+   "text": "CHANGE:",
+   "conf": 0.9893950990268162
+  },
+  {
+   "text": "》 Ticket #: 400《<",
+   "conf": 0.9120251378592323
+  },
+  {
+   "text": "Created:1/14/2012 2:17:44 PM",
+   "conf": 0.9676126220396587
+  },
+  {
+   "text": "SETTLED:1/14/2012 2:54:29 PM",
+   "conf": 0.9698961291994367
+  },
+  {
+   "text": "THANK YOU!",
+   "conf": 0.9761278986930847
+  }
+ ],
+ "mean_conf": 0.9703,
+ "low_conf_share": 0.0,
+ "latency_ms": 4638,
+ "fields": {
+  "company": "COSITAS RICAS",
+  "date": "2012-01-14",
+  "total": 30.45
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  30.45
+ ],
+ "key": "W0022_4d728e1b8661"
+}

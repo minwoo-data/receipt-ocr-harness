@@ -1,0 +1,214 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "==Customer BillingReceipt===",
+  "Din Tai Fung Restaurant",
+  "Level 2-MallofEmirates",
+  "No.201611020201（51-1)",
+  "Time:2016/11/0218:01",
+  "Counter 52 Staff3007",
+  "Product Quantity Price Subtotal",
+  "Oolong Tea 1 5.00 5.00",
+  "Beef Chow Mein 1 33.00 33.00",
+  "Vegetable Chow Mein 1 29.00 29.00",
+  "Crispy Beef 1 45.00 45.00",
+  "Oolong Tea 1 5.00 5.00",
+  "Amount 117.00",
+  "Total (AED) 117.00",
+  "<<<Payment method>>>",
+  "Cash 500.00",
+  "Change 383.00",
+  "Thankyou",
+  "=Stores Billing Receipt="
+ ],
+ "tokens": [
+  {
+   "text": "==Customer BillingReceipt===",
+   "conf": 0.8855787494352886
+  },
+  {
+   "text": "Din Tai Fung Restaurant",
+   "conf": 0.9434889192166536
+  },
+  {
+   "text": "Level 2-MallofEmirates",
+   "conf": 0.9569617401469838
+  },
+  {
+   "text": "No.201611020201（51-1)",
+   "conf": 0.952439912727901
+  },
+  {
+   "text": "Time:2016/11/0218:01",
+   "conf": 0.9554511398077011
+  },
+  {
+   "text": "Counter",
+   "conf": 0.9778216992105756
+  },
+  {
+   "text": "52",
+   "conf": 0.9984728693962097
+  },
+  {
+   "text": "Staff3007",
+   "conf": 0.9820257756445143
+  },
+  {
+   "text": "Product",
+   "conf": 0.9721180966922215
+  },
+  {
+   "text": "Quantity",
+   "conf": 0.947382241487503
+  },
+  {
+   "text": "Price",
+   "conf": 0.9796904921531677
+  },
+  {
+   "text": "Subtotal",
+   "conf": 0.9775588288903236
+  },
+  {
+   "text": "Oolong Tea",
+   "conf": 0.9575485944747925
+  },
+  {
+   "text": "1",
+   "conf": 0.9925379157066345
+  },
+  {
+   "text": "5.00",
+   "conf": 0.9938957542181015
+  },
+  {
+   "text": "5.00",
+   "conf": 0.9972856193780899
+  },
+  {
+   "text": "Beef Chow Mein",
+   "conf": 0.9362826475075313
+  },
+  {
+   "text": "1",
+   "conf": 0.9940149188041687
+  },
+  {
+   "text": "33.00",
+   "conf": 0.989332640171051
+  },
+  {
+   "text": "33.00",
+   "conf": 0.9968150138854981
+  },
+  {
+   "text": "Vegetable Chow Mein",
+   "conf": 0.9281040900631955
+  },
+  {
+   "text": "1",
+   "conf": 0.9923734068870544
+  },
+  {
+   "text": "29.00",
+   "conf": 0.9959605813026429
+  },
+  {
+   "text": "29.00",
+   "conf": 0.9965072274208069
+  },
+  {
+   "text": "Crispy Beef",
+   "conf": 0.8925118988210504
+  },
+  {
+   "text": "1",
+   "conf": 0.9952551126480103
+  },
+  {
+   "text": "45.00",
+   "conf": 0.995395827293396
+  },
+  {
+   "text": "45.00",
+   "conf": 0.9970200300216675
+  },
+  {
+   "text": "Oolong Tea",
+   "conf": 0.9340162813663483
+  },
+  {
+   "text": "1",
+   "conf": 0.9902303814888
+  },
+  {
+   "text": "5.00",
+   "conf": 0.9938682168722153
+  },
+  {
+   "text": "5.00",
+   "conf": 0.9959807991981506
+  },
+  {
+   "text": "Amount",
+   "conf": 0.9890312055746714
+  },
+  {
+   "text": "117.00",
+   "conf": 0.9958627223968506
+  },
+  {
+   "text": "Total (AED)",
+   "conf": 0.922299780628898
+  },
+  {
+   "text": "<<<Payment method>>>",
+   "conf": 0.9312840610742569
+  },
+  {
+   "text": "117.00",
+   "conf": 0.996290773153305
+  },
+  {
+   "text": "Cash",
+   "conf": 0.9954870343208313
+  },
+  {
+   "text": "Change",
+   "conf": 0.9932678540547689
+  },
+  {
+   "text": "500.00",
+   "conf": 0.9971147576967875
+  },
+  {
+   "text": "383.00",
+   "conf": 0.9953232308228811
+  },
+  {
+   "text": "Thankyou",
+   "conf": 0.9947674348950386
+  },
+  {
+   "text": "=Stores Billing Receipt=",
+   "conf": 0.9057735924919447
+  }
+ ],
+ "mean_conf": 0.9723,
+ "low_conf_share": 0.0,
+ "latency_ms": 2906,
+ "fields": {
+  "company": "DIN TAI FUNG RESTAURANT",
+  "date": null,
+  "total": 117.0
+ },
+ "rule_reasons": [
+  "date_not_found"
+ ],
+ "total_candidates": [
+  117.0,
+  117.0
+ ],
+ "key": "W0135_3f915c4fd0e6"
+}

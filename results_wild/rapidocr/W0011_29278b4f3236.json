@@ -1,0 +1,210 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "PORTUGALWINE BAR&GRILL",
+  "15Palm Harbor VillageWay#A",
+  "Palm Coast,FL 32137",
+  "(386)447-3872",
+  "Table:9",
+  "Server:JASON GOMES",
+  "Table opened 11/27/2016 15:06:57",
+  "GRILLCHICKEN BREAST 1 14.95",
+  "CALAMARI(ARROZ)RICE STE1 15.95",
+  "COD FISH (BRAS)STYLE 1 14.95",
+  "SERRADURA 1 4.95",
+  "FLAN 1 5.00",
+  "EXPRESSO 1 1.50",
+  "Sub Total: 57.30",
+  "Tax: 4.03",
+  "TOTAL: 61.33",
+  "PRINT:1",
+  "TIPS NOT INCLUDED",
+  "Suggested tips anounts 15%-$8.59",
+  "are provided for your 18%-$10.31",
+  "convenience. 20%-$11.46",
+  "WkSMYPOS02 11/27/201616:02:36"
+ ],
+ "tokens": [
+  {
+   "text": "PORTUGALWINE BAR&GRILL",
+   "conf": 0.9760568656704642
+  },
+  {
+   "text": "15Palm Harbor VillageWay#A",
+   "conf": 0.8968643018832574
+  },
+  {
+   "text": "Palm Coast,FL 32137",
+   "conf": 0.9064969389062179
+  },
+  {
+   "text": "(386)447-3872",
+   "conf": 0.9389534546778753
+  },
+  {
+   "text": "Table:9",
+   "conf": 0.9650348084313529
+  },
+  {
+   "text": "Server:JASON GOMES",
+   "conf": 0.9805358118481107
+  },
+  {
+   "text": "Table opened 11/27/2016 15:06:57",
+   "conf": 0.9537033028900623
+  },
+  {
+   "text": "GRILLCHICKEN BREAST",
+   "conf": 0.9800219002522921
+  },
+  {
+   "text": "1",
+   "conf": 0.9930052161216736
+  },
+  {
+   "text": "14.95",
+   "conf": 0.9942504644393921
+  },
+  {
+   "text": "CALAMARI(ARROZ)RICE STE1",
+   "conf": 0.9579246367017428
+  },
+  {
+   "text": "15.95",
+   "conf": 0.996679937839508
+  },
+  {
+   "text": "COD FISH (BRAS)STYLE",
+   "conf": 0.9436455518007278
+  },
+  {
+   "text": "1",
+   "conf": 0.9882182478904724
+  },
+  {
+   "text": "14.95",
+   "conf": 0.9941261053085327
+  },
+  {
+   "text": "SERRADURA",
+   "conf": 0.9891284770435758
+  },
+  {
+   "text": "1",
+   "conf": 0.9925954937934875
+  },
+  {
+   "text": "4.95",
+   "conf": 0.9967197477817535
+  },
+  {
+   "text": "FLAN",
+   "conf": 0.9941748678684235
+  },
+  {
+   "text": "1",
+   "conf": 0.9921361207962036
+  },
+  {
+   "text": "5.00",
+   "conf": 0.995080441236496
+  },
+  {
+   "text": "EXPRESSO",
+   "conf": 0.9856076017022133
+  },
+  {
+   "text": "1",
+   "conf": 0.9893965125083923
+  },
+  {
+   "text": "1.50",
+   "conf": 0.9960811585187912
+  },
+  {
+   "text": "Sub Total:",
+   "conf": 0.962861704826355
+  },
+  {
+   "text": "57.30",
+   "conf": 0.9893560409545898
+  },
+  {
+   "text": "Tax:",
+   "conf": 0.9871898740530014
+  },
+  {
+   "text": "4.03",
+   "conf": 0.9907601028680801
+  },
+  {
+   "text": "TOTAL:",
+   "conf": 0.9904066125551859
+  },
+  {
+   "text": "61.33",
+   "conf": 0.9269262075424194
+  },
+  {
+   "text": "PRINT:1",
+   "conf": 0.970815896987915
+  },
+  {
+   "text": "TIPS",
+   "conf": 0.9804902076721191
+  },
+  {
+   "text": "NOT",
+   "conf": 0.9825040300687155
+  },
+  {
+   "text": "INCLUDED",
+   "conf": 0.9881495982408524
+  },
+  {
+   "text": "Suggested tips anounts",
+   "conf": 0.9558521482077512
+  },
+  {
+   "text": "15%-$8.59",
+   "conf": 0.9844930900467767
+  },
+  {
+   "text": "are provided for your",
+   "conf": 0.9244336457479567
+  },
+  {
+   "text": "18%-$10.31",
+   "conf": 0.9804566502571106
+  },
+  {
+   "text": "convenience.",
+   "conf": 0.9459164291620255
+  },
+  {
+   "text": "20%-$11.46",
+   "conf": 0.9923176407814026
+  },
+  {
+   "text": "WkSMYPOS02",
+   "conf": 0.853419429063797
+  },
+  {
+   "text": "11/27/201616:02:36",
+   "conf": 0.984683159324858
+  }
+ ],
+ "mean_conf": 0.9711,
+ "low_conf_share": 0.0,
+ "latency_ms": 2930,
+ "fields": {
+  "company": "PORTUGALWINE BAR GRILL",
+  "date": "2016-11-27",
+  "total": 61.33
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  61.33
+ ],
+ "key": "W0011_29278b4f3236"
+}

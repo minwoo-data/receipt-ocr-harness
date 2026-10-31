@@ -1,0 +1,121 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "HAPPYLIQUOR",
+  "2201HAGNOLIAAVE",
+  "LONGBEACHCA 90806",
+  "(562)595-8044",
+  "DATE 12/30/2016FRITIME21:57",
+  "GROC-NONTAXF $10.75",
+  "TAXABLET1 $5.99",
+  "GROC-NONTAXF $0.10",
+  "TAX1 $0.57",
+  "TOTAL $17.41",
+  "CASH $20.00",
+  "CHANGE $2.59",
+  "CLERK1 000290 00000"
+ ],
+ "tokens": [
+  {
+   "text": "HAPPYLIQUOR",
+   "conf": 0.9520312710241838
+  },
+  {
+   "text": "LONGBEACHCA 90806",
+   "conf": 0.8224219241563011
+  },
+  {
+   "text": "2201HAGNOLIAAVE",
+   "conf": 0.8827532847722371
+  },
+  {
+   "text": "DATE 12/30/2016FRITIME21:57",
+   "conf": 0.9151819160691014
+  },
+  {
+   "text": "(562)595-8044",
+   "conf": 0.8864640180881207
+  },
+  {
+   "text": "GROC-NONTAXF",
+   "conf": 0.9348963449398676
+  },
+  {
+   "text": "$10.75",
+   "conf": 0.9324426849683126
+  },
+  {
+   "text": "GROC-NONTAXF",
+   "conf": 0.9831534822781881
+  },
+  {
+   "text": "TAXABLET1",
+   "conf": 0.9203952981366051
+  },
+  {
+   "text": "$5.99",
+   "conf": 0.9456935405731202
+  },
+  {
+   "text": "TAX1",
+   "conf": 0.9387934654951096
+  },
+  {
+   "text": "$0.10",
+   "conf": 0.9899415016174317
+  },
+  {
+   "text": "$0.57",
+   "conf": 0.9878829717636108
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.9854301929473877
+  },
+  {
+   "text": "CASH",
+   "conf": 0.9922067672014236
+  },
+  {
+   "text": "$17.41",
+   "conf": 0.9757201870282491
+  },
+  {
+   "text": "CHANGE",
+   "conf": 0.9865032831827799
+  },
+  {
+   "text": "$20.00",
+   "conf": 0.989760826031367
+  },
+  {
+   "text": "CLERK1",
+   "conf": 0.9411775668462118
+  },
+  {
+   "text": "000290",
+   "conf": 0.9912524123986562
+  },
+  {
+   "text": "$2.59",
+   "conf": 0.979810094833374
+  },
+  {
+   "text": "00000",
+   "conf": 0.896570360660553
+  }
+ ],
+ "mean_conf": 0.9468,
+ "low_conf_share": 0.0,
+ "latency_ms": 3050,
+ "fields": {
+  "company": "HAPPYLIQUOR",
+  "date": "2016-12-30",
+  "total": 17.41
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  17.41
+ ],
+ "key": "W0171_507bf49f3c20"
+}

@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.6-flash",
+ "provider": "gemini",
+ "raw_text": "{\"vendor\": \"PEGASUS ON THE FLY\", \"date\": \"2017-01-31\", \"subtotal\": 13.87, \"tax\": 1.68, \"tip\": null, \"discount\": null, \"total\": 15.55, \"currency\": \"USD\", \"confidence\": 0.98, \"notes\": \"Combined Tax 1 (1.30) and Tax 2 (0.38) into total tax.\"}",
+ "data": {
+  "vendor": "PEGASUS ON THE FLY",
+  "date": "2017-01-31",
+  "subtotal": 13.87,
+  "tax": 1.68,
+  "tip": null,
+  "discount": null,
+  "total": 15.55,
+  "currency": "USD",
+  "confidence": 0.98,
+  "notes": "Combined Tax 1 (1.30) and Tax 2 (0.38) into total tax."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1471,
+  "output_tokens": 110,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.001516,
+ "latency_ms": 1360,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.6-flash",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.6-flash"
+ ],
+ "key": "W0161_27f879c6141f"
+}

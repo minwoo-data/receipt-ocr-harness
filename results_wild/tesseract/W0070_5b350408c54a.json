@@ -1,0 +1,275 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "eee eee ee",
+  "Ramen Keisuke Tori King",
+  "#03-15 100AM,100 Tras St",
+  "Singapore 079027",
+  "Tel: +65 66046861",
+  "ROC : 200922210C",
+  "TABLE: 34 DINE-IN",
+  "SERVER: Admin U 3 GUESTS",
+  "Ramen Scecial 15.90",
+  "Ramen / Eg 13.90",
+  "Ramen /Seaneed. 12.90",
+  "SUBTOTAL 42.69",
+  "sc 4.27",
+  "GST 3.29",
+  "(0 Sesssessessseessssess=",
+  "PATHS MOT: $80.05",
+  "SoSSSSaseaesseseessues",
+  "ORDER NUMBER 1S: 26a6T",
+  "SONS SOB SS 1"
+ ],
+ "tokens": [
+  {
+   "text": "eee",
+   "conf": 0.43
+  },
+  {
+   "text": "eee",
+   "conf": 0.38
+  },
+  {
+   "text": "ee",
+   "conf": 0.38
+  },
+  {
+   "text": "Ramen",
+   "conf": 0.96
+  },
+  {
+   "text": "Keisuke",
+   "conf": 0.96
+  },
+  {
+   "text": "Tori",
+   "conf": 0.96
+  },
+  {
+   "text": "King",
+   "conf": 0.96
+  },
+  {
+   "text": "#03-15",
+   "conf": 0.84
+  },
+  {
+   "text": "100AM,100",
+   "conf": 0.9
+  },
+  {
+   "text": "Tras",
+   "conf": 0.96
+  },
+  {
+   "text": "St",
+   "conf": 0.95
+  },
+  {
+   "text": "Singapore",
+   "conf": 0.96
+  },
+  {
+   "text": "079027",
+   "conf": 0.85
+  },
+  {
+   "text": "Tel:",
+   "conf": 0.94
+  },
+  {
+   "text": "+65",
+   "conf": 0.96
+  },
+  {
+   "text": "66046861",
+   "conf": 0.93
+  },
+  {
+   "text": "ROC",
+   "conf": 0.92
+  },
+  {
+   "text": ":",
+   "conf": 0.87
+  },
+  {
+   "text": "200922210C",
+   "conf": 0.91
+  },
+  {
+   "text": "TABLE:",
+   "conf": 0.95
+  },
+  {
+   "text": "34",
+   "conf": 0.96
+  },
+  {
+   "text": "DINE-IN",
+   "conf": 0.41
+  },
+  {
+   "text": "SERVER:",
+   "conf": 0.96
+  },
+  {
+   "text": "Admin",
+   "conf": 0.92
+  },
+  {
+   "text": "U",
+   "conf": 0.92
+  },
+  {
+   "text": "3",
+   "conf": 0.95
+  },
+  {
+   "text": "GUESTS",
+   "conf": 0.95
+  },
+  {
+   "text": "Ramen",
+   "conf": 0.88
+  },
+  {
+   "text": "Scecial",
+   "conf": 0.04
+  },
+  {
+   "text": "15.90",
+   "conf": 0.75
+  },
+  {
+   "text": "Ramen",
+   "conf": 0.85
+  },
+  {
+   "text": "/",
+   "conf": 0.4
+  },
+  {
+   "text": "Eg",
+   "conf": 0.49
+  },
+  {
+   "text": "13.90",
+   "conf": 0.92
+  },
+  {
+   "text": "Ramen",
+   "conf": 0.79
+  },
+  {
+   "text": "/Seaneed.",
+   "conf": 0.34
+  },
+  {
+   "text": "12.90",
+   "conf": 0.87
+  },
+  {
+   "text": "SUBTOTAL",
+   "conf": 0.96
+  },
+  {
+   "text": "42.69",
+   "conf": 0.95
+  },
+  {
+   "text": "sc",
+   "conf": 0.94
+  },
+  {
+   "text": "4.27",
+   "conf": 0.58
+  },
+  {
+   "text": "GST",
+   "conf": 0.95
+  },
+  {
+   "text": "3.29",
+   "conf": 0.89
+  },
+  {
+   "text": "(0",
+   "conf": 0.43
+  },
+  {
+   "text": "Sesssessessseessssess=",
+   "conf": 0.0
+  },
+  {
+   "text": "PATHS",
+   "conf": 0.42
+  },
+  {
+   "text": "MOT:",
+   "conf": 0.58
+  },
+  {
+   "text": "$80.05",
+   "conf": 0.47
+  },
+  {
+   "text": "SoSSSSaseaesseseessues",
+   "conf": 0.0
+  },
+  {
+   "text": "ORDER",
+   "conf": 0.95
+  },
+  {
+   "text": "NUMBER",
+   "conf": 0.95
+  },
+  {
+   "text": "1S:",
+   "conf": 0.84
+  },
+  {
+   "text": "26a6T",
+   "conf": 0.23
+  },
+  {
+   "text": "SONS",
+   "conf": 0.3
+  },
+  {
+   "text": "SOB",
+   "conf": 0.13
+  },
+  {
+   "text": "SS",
+   "conf": 0.25
+  },
+  {
+   "text": "1",
+   "conf": 0.45
+  }
+ ],
+ "mean_conf": 0.713,
+ "low_conf_share": 0.3158,
+ "latency_ms": 447,
+ "fields": {
+  "company": "EEE EEE EE",
+  "date": null,
+  "total": 80.05
+ },
+ "rule_reasons": [
+  "date_not_found",
+  "total_no_keyword_fallback_max"
+ ],
+ "total_candidates": [
+  13.9,
+  12.9,
+  42.69,
+  4.27,
+  3.29,
+  80.05
+ ],
+ "key": "W0070_5b350408c54a"
+}

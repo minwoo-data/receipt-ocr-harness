@@ -1,0 +1,128 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "-/Milano",
+  "‘Restaurant",
+  "Bese ice tnt",
+  "oe",
+  "8 0 m0",
+  "96 10H 00",
+  "oe oo",
+  "Be san: 2",
+  "we Ate A",
+  "v0 Ne aA",
+  "oe"
+ ],
+ "tokens": [
+  {
+   "text": "-/Milano",
+   "conf": 0.56
+  },
+  {
+   "text": "‘Restaurant",
+   "conf": 0.81
+  },
+  {
+   "text": "Bese",
+   "conf": 0.2
+  },
+  {
+   "text": "ice",
+   "conf": 0.45
+  },
+  {
+   "text": "tnt",
+   "conf": 0.31
+  },
+  {
+   "text": "oe",
+   "conf": 0.22
+  },
+  {
+   "text": "8",
+   "conf": 0.43
+  },
+  {
+   "text": "0",
+   "conf": 0.54
+  },
+  {
+   "text": "m0",
+   "conf": 0.65
+  },
+  {
+   "text": "96",
+   "conf": 0.81
+  },
+  {
+   "text": "10H",
+   "conf": 0.72
+  },
+  {
+   "text": "00",
+   "conf": 0.3
+  },
+  {
+   "text": "oe",
+   "conf": 0.14
+  },
+  {
+   "text": "oo",
+   "conf": 0.0
+  },
+  {
+   "text": "Be",
+   "conf": 0.18
+  },
+  {
+   "text": "san:",
+   "conf": 0.21
+  },
+  {
+   "text": "2",
+   "conf": 0.21
+  },
+  {
+   "text": "we",
+   "conf": 0.25
+  },
+  {
+   "text": "Ate",
+   "conf": 0.08
+  },
+  {
+   "text": "A",
+   "conf": 0.25
+  },
+  {
+   "text": "v0",
+   "conf": 0.39
+  },
+  {
+   "text": "Ne",
+   "conf": 0.36
+  },
+  {
+   "text": "aA",
+   "conf": 0.35
+  },
+  {
+   "text": "oe",
+   "conf": 0.0
+  }
+ ],
+ "mean_conf": 0.3508,
+ "low_conf_share": 0.75,
+ "latency_ms": 354,
+ "fields": {
+  "company": "MILANO RESTAURANT",
+  "date": null,
+  "total": null
+ },
+ "rule_reasons": [
+  "date_not_found",
+  "total_not_found"
+ ],
+ "total_candidates": [],
+ "key": "W0085_a52808866316"
+}

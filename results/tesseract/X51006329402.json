@@ -1,0 +1,428 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "PSC POLE II TTT oN",
+  "* \" Boods Sold Ar: Not Returnable. T&",
+  "Ve Cash & Carry Sde. Bhd.",
+  "PLL?e2n Sek UP, Shah Alan",
+  "GST Req No : 0019514545496",
+  "O5/se200209/42193 04/04/17 11s43an",
+  "MIGHTY MARK DITSHWASH: LIL",
+  "2x 11.50 23,00 §",
+  "MIGHTY MARK BLEACH 1OL",
+  "GARTENTA SQHMERSET COTTAGE 3006",
+  "Lx 4,45 4.45 §$",
+  "No of items: 3",
+  "Master ioseueanonS113: 50.45",
+  "Change: RM 0.00",
+  "Hissed Foint Today: 47",
+  "Served. ty ASHOK KUMAR",
+  "§ @4.0% 47.460 | 2,85",
+  "RESRRER RR RRARERE HR ARES ERA RER RRR RRR RARER RS",
+  "Ref No: ON6Q0S96305042 193",
+  "Goods Sold Are Net Returnatle, To"
+ ],
+ "tokens": [
+  {
+   "text": "PSC",
+   "conf": 0.35
+  },
+  {
+   "text": "POLE",
+   "conf": 0.0
+  },
+  {
+   "text": "II",
+   "conf": 0.0
+  },
+  {
+   "text": "TTT",
+   "conf": 0.21
+  },
+  {
+   "text": "oN",
+   "conf": 0.03
+  },
+  {
+   "text": "*",
+   "conf": 0.09
+  },
+  {
+   "text": "\"",
+   "conf": 0.41
+  },
+  {
+   "text": "Boods",
+   "conf": 0.84
+  },
+  {
+   "text": "Sold",
+   "conf": 0.95
+  },
+  {
+   "text": "Ar:",
+   "conf": 0.28
+  },
+  {
+   "text": "Not",
+   "conf": 0.56
+  },
+  {
+   "text": "Returnable.",
+   "conf": 0.89
+  },
+  {
+   "text": "T&",
+   "conf": 0.0
+  },
+  {
+   "text": "Ve",
+   "conf": 0.61
+  },
+  {
+   "text": "Cash",
+   "conf": 0.91
+  },
+  {
+   "text": "&",
+   "conf": 0.91
+  },
+  {
+   "text": "Carry",
+   "conf": 0.87
+  },
+  {
+   "text": "Sde.",
+   "conf": 0.06
+  },
+  {
+   "text": "Bhd.",
+   "conf": 0.78
+  },
+  {
+   "text": "PLL?e2n",
+   "conf": 0.0
+  },
+  {
+   "text": "Sek",
+   "conf": 0.89
+  },
+  {
+   "text": "UP,",
+   "conf": 0.9
+  },
+  {
+   "text": "Shah",
+   "conf": 0.95
+  },
+  {
+   "text": "Alan",
+   "conf": 0.77
+  },
+  {
+   "text": "GST",
+   "conf": 0.94
+  },
+  {
+   "text": "Req",
+   "conf": 0.84
+  },
+  {
+   "text": "No",
+   "conf": 0.9
+  },
+  {
+   "text": ":",
+   "conf": 0.64
+  },
+  {
+   "text": "0019514545496",
+   "conf": 0.67
+  },
+  {
+   "text": "O5/se200209/42193",
+   "conf": 0.61
+  },
+  {
+   "text": "04/04/17",
+   "conf": 0.88
+  },
+  {
+   "text": "11s43an",
+   "conf": 0.0
+  },
+  {
+   "text": "MIGHTY",
+   "conf": 0.9
+  },
+  {
+   "text": "MARK",
+   "conf": 0.79
+  },
+  {
+   "text": "DITSHWASH:",
+   "conf": 0.12
+  },
+  {
+   "text": "LIL",
+   "conf": 0.86
+  },
+  {
+   "text": "2x",
+   "conf": 0.91
+  },
+  {
+   "text": "11.50",
+   "conf": 0.89
+  },
+  {
+   "text": "23,00",
+   "conf": 0.78
+  },
+  {
+   "text": "§",
+   "conf": 0.91
+  },
+  {
+   "text": "MIGHTY",
+   "conf": 0.96
+  },
+  {
+   "text": "MARK",
+   "conf": 0.91
+  },
+  {
+   "text": "BLEACH",
+   "conf": 0.93
+  },
+  {
+   "text": "1OL",
+   "conf": 0.2
+  },
+  {
+   "text": "GARTENTA",
+   "conf": 0.64
+  },
+  {
+   "text": "SQHMERSET",
+   "conf": 0.45
+  },
+  {
+   "text": "COTTAGE",
+   "conf": 0.95
+  },
+  {
+   "text": "3006",
+   "conf": 0.57
+  },
+  {
+   "text": "Lx",
+   "conf": 0.61
+  },
+  {
+   "text": "4,45",
+   "conf": 0.85
+  },
+  {
+   "text": "4.45",
+   "conf": 0.7
+  },
+  {
+   "text": "§$",
+   "conf": 0.47
+  },
+  {
+   "text": "No",
+   "conf": 0.87
+  },
+  {
+   "text": "of",
+   "conf": 0.94
+  },
+  {
+   "text": "items:",
+   "conf": 0.94
+  },
+  {
+   "text": "3",
+   "conf": 0.66
+  },
+  {
+   "text": "Master",
+   "conf": 0.86
+  },
+  {
+   "text": "ioseueanonS113:",
+   "conf": 0.0
+  },
+  {
+   "text": "50.45",
+   "conf": 0.61
+  },
+  {
+   "text": "Change:",
+   "conf": 0.0
+  },
+  {
+   "text": "RM",
+   "conf": 0.0
+  },
+  {
+   "text": "0.00",
+   "conf": 0.93
+  },
+  {
+   "text": "Hissed",
+   "conf": 0.92
+  },
+  {
+   "text": "Foint",
+   "conf": 0.89
+  },
+  {
+   "text": "Today:",
+   "conf": 0.88
+  },
+  {
+   "text": "47",
+   "conf": 0.96
+  },
+  {
+   "text": "Served.",
+   "conf": 0.75
+  },
+  {
+   "text": "ty",
+   "conf": 0.67
+  },
+  {
+   "text": "ASHOK",
+   "conf": 0.89
+  },
+  {
+   "text": "KUMAR",
+   "conf": 0.93
+  },
+  {
+   "text": "§",
+   "conf": 0.47
+  },
+  {
+   "text": "@4.0%",
+   "conf": 0.47
+  },
+  {
+   "text": "47.460",
+   "conf": 0.7
+  },
+  {
+   "text": "|",
+   "conf": 0.73
+  },
+  {
+   "text": "2,85",
+   "conf": 0.73
+  },
+  {
+   "text": "RESRRER",
+   "conf": 0.0
+  },
+  {
+   "text": "RR",
+   "conf": 0.04
+  },
+  {
+   "text": "RRARERE",
+   "conf": 0.01
+  },
+  {
+   "text": "HR",
+   "conf": 0.0
+  },
+  {
+   "text": "ARES",
+   "conf": 0.0
+  },
+  {
+   "text": "ERA",
+   "conf": 0.13
+  },
+  {
+   "text": "RER",
+   "conf": 0.13
+  },
+  {
+   "text": "RRR",
+   "conf": 0.0
+  },
+  {
+   "text": "RRR",
+   "conf": 0.0
+  },
+  {
+   "text": "RARER",
+   "conf": 0.19
+  },
+  {
+   "text": "RS",
+   "conf": 0.21
+  },
+  {
+   "text": "Ref",
+   "conf": 0.89
+  },
+  {
+   "text": "No:",
+   "conf": 0.74
+  },
+  {
+   "text": "ON6Q0S96305042",
+   "conf": 0.0
+  },
+  {
+   "text": "193",
+   "conf": 0.73
+  },
+  {
+   "text": "Goods",
+   "conf": 0.86
+  },
+  {
+   "text": "Sold",
+   "conf": 0.95
+  },
+  {
+   "text": "Are",
+   "conf": 0.94
+  },
+  {
+   "text": "Net",
+   "conf": 0.73
+  },
+  {
+   "text": "Returnatle,",
+   "conf": 0.86
+  },
+  {
+   "text": "To",
+   "conf": 0.3
+  }
+ ],
+ "mean_conf": 0.5797,
+ "low_conf_share": 0.3542,
+ "latency_ms": 1973,
+ "fields": {
+  "company": "BOODS SOLD AR NOT RETURNABLE T VE CASH CARRY SDE BHD",
+  "date": "2017-04-04",
+  "total": 50.45
+ },
+ "rule_reasons": [
+  "total_no_keyword_fallback_max"
+ ],
+ "total_candidates": [
+  4.45,
+  50.45,
+  0.0
+ ],
+ "key": "X51006329402"
+}

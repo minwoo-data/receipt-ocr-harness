@@ -1,0 +1,169 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "Pattappa's",
+  "Thaligai",
+  "ph:9791272888",
+  "RESTAURANT",
+  "Bill No:285 Tab No:2",
+  "Captain:1 Waiter:6 Pax:2",
+  "Date:19-06-2016 20:15:34",
+  "Item Qty Rate Amt",
+  "Dinner Buffet 2 157314.00",
+  "Tot Item1 Sub Total 314.00",
+  "VAT 2% 6.28",
+  "ST 6% 18.84",
+  "Round off -0.12",
+  "TOTAL 339.00",
+  "Kot No:285",
+  "AN CUISINES",
+  "**THANK YOU VISIT AGAIN**"
+ ],
+ "tokens": [
+  {
+   "text": "Pattappa's",
+   "conf": 0.9780792355537414
+  },
+  {
+   "text": "Thaligai",
+   "conf": 0.981994166970253
+  },
+  {
+   "text": "ph:9791272888",
+   "conf": 0.9799132301257207
+  },
+  {
+   "text": "RESTAURANT",
+   "conf": 0.9949708998203277
+  },
+  {
+   "text": "Bill No:285",
+   "conf": 0.9381969950415872
+  },
+  {
+   "text": "Tab No:2",
+   "conf": 0.932769775390625
+  },
+  {
+   "text": "Captain:1",
+   "conf": 0.988227645556132
+  },
+  {
+   "text": "Waiter:6",
+   "conf": 0.9809545949101448
+  },
+  {
+   "text": "Pax:2",
+   "conf": 0.9489419102668762
+  },
+  {
+   "text": "Date:19-06-2016 20:15:34",
+   "conf": 0.9695781941215197
+  },
+  {
+   "text": "Item",
+   "conf": 0.9333784282207489
+  },
+  {
+   "text": "Qty",
+   "conf": 0.9257466991742452
+  },
+  {
+   "text": "Rate",
+   "conf": 0.9904927313327789
+  },
+  {
+   "text": "Amt",
+   "conf": 0.9734950264294943
+  },
+  {
+   "text": "Dinner Buffet",
+   "conf": 0.9864686910922711
+  },
+  {
+   "text": "2",
+   "conf": 0.9984983205795288
+  },
+  {
+   "text": "157314.00",
+   "conf": 0.9978386163711548
+  },
+  {
+   "text": "Sub Total",
+   "conf": 0.9761099682913886
+  },
+  {
+   "text": "314.00",
+   "conf": 0.9976001580556234
+  },
+  {
+   "text": "Tot Item1",
+   "conf": 0.9583276907602946
+  },
+  {
+   "text": "VAT",
+   "conf": 0.9922526876131693
+  },
+  {
+   "text": "2%",
+   "conf": 0.6565862596035004
+  },
+  {
+   "text": "6.28",
+   "conf": 0.992672011256218
+  },
+  {
+   "text": "ST",
+   "conf": 0.9786140024662018
+  },
+  {
+   "text": "6%",
+   "conf": 0.7709179818630219
+  },
+  {
+   "text": "18.84",
+   "conf": 0.9969051718711853
+  },
+  {
+   "text": "Round off",
+   "conf": 0.9525201386875577
+  },
+  {
+   "text": "-0.12",
+   "conf": 0.9877759456634522
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.9875763177871704
+  },
+  {
+   "text": "339.00",
+   "conf": 0.997935285170873
+  },
+  {
+   "text": "Kot No:285",
+   "conf": 0.9664670407772065
+  },
+  {
+   "text": "AN CUISINES",
+   "conf": 0.948772051117637
+  },
+  {
+   "text": "**THANK YOU VISIT AGAIN**",
+   "conf": 0.906263780593872
+  }
+ ],
+ "mean_conf": 0.9566,
+ "low_conf_share": 0.0,
+ "latency_ms": 2934,
+ "fields": {
+  "company": "RESTAURANT",
+  "date": "2016-06-19",
+  "total": 339.0
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  339.0
+ ],
+ "key": "W0160_5326bd45e6b9"
+}

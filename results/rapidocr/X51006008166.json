@@ -1,0 +1,230 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "Tax Invoice",
+  "FLORISM DE ART (940075-X)",
+  "LOT2.70.00,LEVEL2,",
+  "PAVILION KUALA LUMPUR,",
+  "168,JALAN BUKIT BINTANG",
+  "55100KUALALUMPUR,MALAYSIA.",
+  "Tel:03-21423855",
+  "GST Reg.:000397606912",
+  "Document No.: T01005445",
+  "Date: 14/01/201805:03:35PM",
+  "Debtor :",
+  "Member:",
+  "Promoter:",
+  "Terminal: T01",
+  "Cashier : ADMIN",
+  "DESC U.PRICE Disc AMOUNT TAX",
+  "QTY RM RM CODE",
+  "OPEN",
+  "1NO 750.00 750.00 SR",
+  "Sub Total (Exclusive GST) : 707.55",
+  "GST 6% : 42.45",
+  "Rounding Adj. : 0.00",
+  "Rounded Total (RM): 750.00",
+  "Credit Card 750.00",
+  "GST Summary Amount(RM) Tax(RM)",
+  "SR @ 6 % 707.55 42.45"
+ ],
+ "tokens": [
+  {
+   "text": "Tax Invoice",
+   "conf": 0.9688446359200911
+  },
+  {
+   "text": "FLORISM DE ART (940075-X)",
+   "conf": 0.9602023339271546
+  },
+  {
+   "text": "LOT2.70.00,LEVEL2,",
+   "conf": 0.9307541880342696
+  },
+  {
+   "text": "PAVILION KUALA LUMPUR,",
+   "conf": 0.9354382238604806
+  },
+  {
+   "text": "168,JALAN BUKIT BINTANG",
+   "conf": 0.9377670676811881
+  },
+  {
+   "text": "55100KUALALUMPUR,MALAYSIA.",
+   "conf": 0.950046704365657
+  },
+  {
+   "text": "Tel:03-21423855",
+   "conf": 0.983674430847168
+  },
+  {
+   "text": "GST Reg.:000397606912",
+   "conf": 0.9655538854144868
+  },
+  {
+   "text": "Document No.:",
+   "conf": 0.9824566611876855
+  },
+  {
+   "text": "T01005445",
+   "conf": 0.9748814635806613
+  },
+  {
+   "text": "Date:",
+   "conf": 0.9885727524757385
+  },
+  {
+   "text": "14/01/201805:03:35PM",
+   "conf": 0.9866199404001236
+  },
+  {
+   "text": "Debtor :",
+   "conf": 0.9333935752511024
+  },
+  {
+   "text": "Member:",
+   "conf": 0.9939761587551662
+  },
+  {
+   "text": "Promoter:",
+   "conf": 0.9901658230357699
+  },
+  {
+   "text": "Terminal:",
+   "conf": 0.9849326610565186
+  },
+  {
+   "text": "T01",
+   "conf": 0.967411994934082
+  },
+  {
+   "text": "Cashier :",
+   "conf": 0.9381090667512682
+  },
+  {
+   "text": "ADMIN",
+   "conf": 0.9852070569992065
+  },
+  {
+   "text": "DESC",
+   "conf": 0.988389179110527
+  },
+  {
+   "text": "U.PRICE",
+   "conf": 0.992353081703186
+  },
+  {
+   "text": "Disc",
+   "conf": 0.964728906750679
+  },
+  {
+   "text": "AMOUNT TAX",
+   "conf": 0.9848712861537934
+  },
+  {
+   "text": "QTY",
+   "conf": 0.9931907057762146
+  },
+  {
+   "text": "RM",
+   "conf": 0.9891188442707062
+  },
+  {
+   "text": "RM CODE",
+   "conf": 0.9693603600774493
+  },
+  {
+   "text": "OPEN",
+   "conf": 0.9887533783912659
+  },
+  {
+   "text": "1NO",
+   "conf": 0.981319804986318
+  },
+  {
+   "text": "750.00",
+   "conf": 0.9984015127023061
+  },
+  {
+   "text": "750.00 SR",
+   "conf": 0.9552227060000101
+  },
+  {
+   "text": "Sub Total (Exclusive GST) :",
+   "conf": 0.9705764982435439
+  },
+  {
+   "text": "707.55",
+   "conf": 0.9991012414296468
+  },
+  {
+   "text": "GST 6% :",
+   "conf": 0.999227873980999
+  },
+  {
+   "text": "42.45",
+   "conf": 0.9997423648834228
+  },
+  {
+   "text": "Rounding Adj. :",
+   "conf": 0.9741295973459879
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9975472986698151
+  },
+  {
+   "text": "Rounded Total (RM):",
+   "conf": 0.9744406436619005
+  },
+  {
+   "text": "750.00",
+   "conf": 0.9994769295056661
+  },
+  {
+   "text": "Credit Card",
+   "conf": 0.9698121818629178
+  },
+  {
+   "text": "750.00",
+   "conf": 0.9982423086961111
+  },
+  {
+   "text": "GST Summary",
+   "conf": 0.9746618325060065
+  },
+  {
+   "text": "Amount(RM)",
+   "conf": 0.9932375729084015
+  },
+  {
+   "text": "Tax(RM)",
+   "conf": 0.9603998575891767
+  },
+  {
+   "text": "SR @ 6 %",
+   "conf": 0.8614464998245239
+  },
+  {
+   "text": "707.55",
+   "conf": 0.9957810242970785
+  },
+  {
+   "text": "42.45",
+   "conf": 0.9975854396820069
+  }
+ ],
+ "mean_conf": 0.9745,
+ "low_conf_share": 0.0,
+ "latency_ms": 4019,
+ "fields": {
+  "company": "FLORISM DE ART",
+  "date": "2018-01-14",
+  "total": 750.0
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  750.0
+ ],
+ "key": "X51006008166"
+}

@@ -1,0 +1,196 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "MAKASSAR FRESH MARKET S/B.",
+  "(CO.NO.1208604-T)",
+  "GROUND FLOOR,NO.4&6，",
+  "JAIAN SS15/4B,",
+  "4750O SUBANG JAYA,SELANGOR.",
+  "TEL:03-56131328",
+  "Outlet:PLU",
+  "ReceiptNO:16741",
+  "[TERMINAL:O02] [CASHIER :SV2]",
+  "05-Aug-2017 02:11:23PM",
+  "FRUITS @24.00",
+  "40158 *1 24.00",
+  "FRUITS @16.00",
+  "40158 *1 16.00",
+  "VOLUME:2 Items",
+  "Sub Total RM40.00",
+  "Rounding Adj. RMO.00",
+  "Total RM40.00",
+  "Payment Type CASH",
+  "Received Cash RM50.00",
+  "Change RM10.00",
+  "Thank You ! Pls Come Again",
+  "Goods Sold Are Not Returnable！",
+  "PLS VERIFY YOUR BILL BEFORE LEAVING THE"
+ ],
+ "tokens": [
+  {
+   "text": "MAKASSAR FRESH MARKET S/B.",
+   "conf": 0.9464042645234328
+  },
+  {
+   "text": "(CO.NO.1208604-T)",
+   "conf": 0.9467549534404979
+  },
+  {
+   "text": "GROUND FLOOR,NO.4&6，",
+   "conf": 0.8870706245303154
+  },
+  {
+   "text": "JAIAN SS15/4B,",
+   "conf": 0.9358325302600861
+  },
+  {
+   "text": "4750O SUBANG JAYA,SELANGOR.",
+   "conf": 0.9264039474504965
+  },
+  {
+   "text": "TEL:03-56131328",
+   "conf": 0.9886897166570028
+  },
+  {
+   "text": "Outlet:PLU",
+   "conf": 0.9591499090194702
+  },
+  {
+   "text": "ReceiptNO:16741",
+   "conf": 0.955319595336914
+  },
+  {
+   "text": "[TERMINAL:O02]",
+   "conf": 0.9111750764506203
+  },
+  {
+   "text": "[CASHIER :SV2]",
+   "conf": 0.9394097796508244
+  },
+  {
+   "text": "05-Aug-2017",
+   "conf": 0.9946407242254778
+  },
+  {
+   "text": "02:11:23PM",
+   "conf": 0.9824490547180176
+  },
+  {
+   "text": "FRUITS",
+   "conf": 0.9647813936074575
+  },
+  {
+   "text": "@24.00",
+   "conf": 0.9946918189525604
+  },
+  {
+   "text": "40158",
+   "conf": 0.9987815618515015
+  },
+  {
+   "text": "*1",
+   "conf": 0.8904807269573212
+  },
+  {
+   "text": "24.00",
+   "conf": 0.9960246443748474
+  },
+  {
+   "text": "FRUITS",
+   "conf": 0.9834192395210266
+  },
+  {
+   "text": "@16.00",
+   "conf": 0.9225066502888998
+  },
+  {
+   "text": "40158",
+   "conf": 0.9989888668060303
+  },
+  {
+   "text": "*1",
+   "conf": 0.8281505703926086
+  },
+  {
+   "text": "16.00",
+   "conf": 0.9982695937156677
+  },
+  {
+   "text": "VOLUME:2 Items",
+   "conf": 0.9500088223389217
+  },
+  {
+   "text": "Sub Total",
+   "conf": 0.97949042585161
+  },
+  {
+   "text": "RM40.00",
+   "conf": 0.9972082206181118
+  },
+  {
+   "text": "Rounding Adj.",
+   "conf": 0.972109684577355
+  },
+  {
+   "text": "RMO.00",
+   "conf": 0.9638513624668121
+  },
+  {
+   "text": "Total",
+   "conf": 0.9877781987190246
+  },
+  {
+   "text": "RM40.00",
+   "conf": 0.9966720512935093
+  },
+  {
+   "text": "Payment Type",
+   "conf": 0.9838272680838903
+  },
+  {
+   "text": "CASH",
+   "conf": 0.9920846372842789
+  },
+  {
+   "text": "Received Cash",
+   "conf": 0.9649804738851694
+  },
+  {
+   "text": "Change",
+   "conf": 0.9930718640486399
+  },
+  {
+   "text": "RM50.00",
+   "conf": 0.9976053152765546
+  },
+  {
+   "text": "RM10.00",
+   "conf": 0.9980153356279645
+  },
+  {
+   "text": "Thank You ! Pls Come Again",
+   "conf": 0.9461911389460931
+  },
+  {
+   "text": "Goods Sold Are Not Returnable！",
+   "conf": 0.9202406485875447
+  },
+  {
+   "text": "PLS VERIFY YOUR BILL BEFORE LEAVING THE",
+   "conf": 0.9439120583045177
+  }
+ ],
+ "mean_conf": 0.9615,
+ "low_conf_share": 0.0,
+ "latency_ms": 4847,
+ "fields": {
+  "company": "MAKASSAR FRESH MARKET S B",
+  "date": "2017-08-05",
+  "total": 40.0
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  40.0
+ ],
+ "key": "X51006556730"
+}

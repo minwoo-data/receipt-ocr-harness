@@ -1,0 +1,127 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "Cat aie Te",
+  "ie i te",
+  "en “iad",
+  "iow ae",
+  "a are",
+  "sigs waa",
+  "te",
+  "vite ce",
+  "2, WEES 01 ott s,",
+  "eee Sy"
+ ],
+ "tokens": [
+  {
+   "text": "Cat",
+   "conf": 0.05
+  },
+  {
+   "text": "aie",
+   "conf": 0.48
+  },
+  {
+   "text": "Te",
+   "conf": 0.28
+  },
+  {
+   "text": "ie",
+   "conf": 0.38
+  },
+  {
+   "text": "i",
+   "conf": 0.63
+  },
+  {
+   "text": "te",
+   "conf": 0.42
+  },
+  {
+   "text": "en",
+   "conf": 0.32
+  },
+  {
+   "text": "“iad",
+   "conf": 0.16
+  },
+  {
+   "text": "iow",
+   "conf": 0.16
+  },
+  {
+   "text": "ae",
+   "conf": 0.51
+  },
+  {
+   "text": "a",
+   "conf": 0.39
+  },
+  {
+   "text": "are",
+   "conf": 0.65
+  },
+  {
+   "text": "sigs",
+   "conf": 0.45
+  },
+  {
+   "text": "waa",
+   "conf": 0.36
+  },
+  {
+   "text": "te",
+   "conf": 0.13
+  },
+  {
+   "text": "vite",
+   "conf": 0.22
+  },
+  {
+   "text": "ce",
+   "conf": 0.45
+  },
+  {
+   "text": "2,",
+   "conf": 0.39
+  },
+  {
+   "text": "WEES",
+   "conf": 0.35
+  },
+  {
+   "text": "01",
+   "conf": 0.16
+  },
+  {
+   "text": "ott",
+   "conf": 0.05
+  },
+  {
+   "text": "s,",
+   "conf": 0.0
+  },
+  {
+   "text": "eee",
+   "conf": 0.06
+  },
+  {
+   "text": "Sy",
+   "conf": 0.06
+  }
+ ],
+ "mean_conf": 0.2962,
+ "low_conf_share": 0.875,
+ "latency_ms": 329,
+ "fields": {
+  "company": "CAT AIE TE",
+  "date": null,
+  "total": null
+ },
+ "rule_reasons": [
+  "date_not_found",
+  "total_not_found"
+ ],
+ "total_candidates": [],
+ "key": "W0150_1f4e3b90ff9d"
+}

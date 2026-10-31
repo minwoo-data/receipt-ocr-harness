@@ -1,0 +1,472 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "HOME’S HARMONY @ 1 UTAMA SHOPPING CENTRE °",
+  "MONSIEUR ( M } SDN. BHD. ( 121889-W }",
+  "{ GST REG. NO. 000992739328 )",
+  "Lot S3i9A, 2nd Floor,",
+  "| Utawa Shopping Centre - Phase 2",
+  "Persiaran Bandar Utama,",
+  "47800 Petaling Jaya. Malaysia",
+  "Tel. 03-7729 9662 Fax. 03-7726 8124",
+  "KAKA EEK TAX INVOICE MKKAAREEKE",
+  "12/06/2016-13:30:10-28-NORBAIZURA BT-i01",
+  "002:",
+  "Receipt No. : 138352",
+  "1} 400001-HH-STORG-BLUE-STD <ADMIN>",
+  "Hi MILTON NYLON BASKET-HMT143198",
+  "1X -29.00-{ 20%= 5,80) = 23,20",
+  "i 0.00 23,20",
+  "Rounding Adj 0.00",
+  "fotal 23.20",
+  "GST 64 INCLUDED i.3i",
+  "5 CASH 50.20",
+  "CHANGE 27,00",
+  "MEMBER PURCHASE ;",
+  "NiS046033 - LEE MET YEIN",
+  "THANK YOU",
+  "GOQORS SOLD ARE NOT REFUNDABLE.",
+  "|"
+ ],
+ "tokens": [
+  {
+   "text": "HOME’S",
+   "conf": 0.55
+  },
+  {
+   "text": "HARMONY",
+   "conf": 0.92
+  },
+  {
+   "text": "@",
+   "conf": 0.92
+  },
+  {
+   "text": "1",
+   "conf": 0.91
+  },
+  {
+   "text": "UTAMA",
+   "conf": 0.91
+  },
+  {
+   "text": "SHOPPING",
+   "conf": 0.39
+  },
+  {
+   "text": "CENTRE",
+   "conf": 0.87
+  },
+  {
+   "text": "°",
+   "conf": 0.51
+  },
+  {
+   "text": "MONSIEUR",
+   "conf": 0.51
+  },
+  {
+   "text": "(",
+   "conf": 0.51
+  },
+  {
+   "text": "M",
+   "conf": 0.53
+  },
+  {
+   "text": "}",
+   "conf": 0.53
+  },
+  {
+   "text": "SDN.",
+   "conf": 0.75
+  },
+  {
+   "text": "BHD.",
+   "conf": 0.88
+  },
+  {
+   "text": "(",
+   "conf": 0.34
+  },
+  {
+   "text": "121889-W",
+   "conf": 0.78
+  },
+  {
+   "text": "}",
+   "conf": 0.8
+  },
+  {
+   "text": "{",
+   "conf": 0.67
+  },
+  {
+   "text": "GST",
+   "conf": 0.73
+  },
+  {
+   "text": "REG.",
+   "conf": 0.91
+  },
+  {
+   "text": "NO.",
+   "conf": 0.74
+  },
+  {
+   "text": "000992739328",
+   "conf": 0.8
+  },
+  {
+   "text": ")",
+   "conf": 0.59
+  },
+  {
+   "text": "Lot",
+   "conf": 0.92
+  },
+  {
+   "text": "S3i9A,",
+   "conf": 0.62
+  },
+  {
+   "text": "2nd",
+   "conf": 0.55
+  },
+  {
+   "text": "Floor,",
+   "conf": 0.88
+  },
+  {
+   "text": "|",
+   "conf": 0.72
+  },
+  {
+   "text": "Utawa",
+   "conf": 0.31
+  },
+  {
+   "text": "Shopping",
+   "conf": 0.66
+  },
+  {
+   "text": "Centre",
+   "conf": 0.93
+  },
+  {
+   "text": "-",
+   "conf": 0.78
+  },
+  {
+   "text": "Phase",
+   "conf": 0.96
+  },
+  {
+   "text": "2",
+   "conf": 0.96
+  },
+  {
+   "text": "Persiaran",
+   "conf": 0.9
+  },
+  {
+   "text": "Bandar",
+   "conf": 0.96
+  },
+  {
+   "text": "Utama,",
+   "conf": 0.93
+  },
+  {
+   "text": "47800",
+   "conf": 0.84
+  },
+  {
+   "text": "Petaling",
+   "conf": 0.95
+  },
+  {
+   "text": "Jaya.",
+   "conf": 0.94
+  },
+  {
+   "text": "Malaysia",
+   "conf": 0.95
+  },
+  {
+   "text": "Tel.",
+   "conf": 0.84
+  },
+  {
+   "text": "03-7729",
+   "conf": 0.52
+  },
+  {
+   "text": "9662",
+   "conf": 0.95
+  },
+  {
+   "text": "Fax.",
+   "conf": 0.92
+  },
+  {
+   "text": "03-7726",
+   "conf": 0.96
+  },
+  {
+   "text": "8124",
+   "conf": 0.88
+  },
+  {
+   "text": "KAKA",
+   "conf": 0.0
+  },
+  {
+   "text": "EEK",
+   "conf": 0.0
+  },
+  {
+   "text": "TAX",
+   "conf": 0.93
+  },
+  {
+   "text": "INVOICE",
+   "conf": 0.93
+  },
+  {
+   "text": "MKKAAREEKE",
+   "conf": 0.0
+  },
+  {
+   "text": "12/06/2016-13:30:10-28-NORBAIZURA",
+   "conf": 0.49
+  },
+  {
+   "text": "BT-i01",
+   "conf": 0.38
+  },
+  {
+   "text": "002:",
+   "conf": 0.0
+  },
+  {
+   "text": "Receipt",
+   "conf": 0.87
+  },
+  {
+   "text": "No.",
+   "conf": 0.89
+  },
+  {
+   "text": ":",
+   "conf": 0.89
+  },
+  {
+   "text": "138352",
+   "conf": 0.81
+  },
+  {
+   "text": "1}",
+   "conf": 0.44
+  },
+  {
+   "text": "400001-HH-STORG-BLUE-STD",
+   "conf": 0.43
+  },
+  {
+   "text": "<ADMIN>",
+   "conf": 0.73
+  },
+  {
+   "text": "Hi",
+   "conf": 0.6
+  },
+  {
+   "text": "MILTON",
+   "conf": 0.92
+  },
+  {
+   "text": "NYLON",
+   "conf": 0.92
+  },
+  {
+   "text": "BASKET-HMT143198",
+   "conf": 0.57
+  },
+  {
+   "text": "1X",
+   "conf": 0.2
+  },
+  {
+   "text": "-29.00-{",
+   "conf": 0.0
+  },
+  {
+   "text": "20%=",
+   "conf": 0.9
+  },
+  {
+   "text": "5,80)",
+   "conf": 0.68
+  },
+  {
+   "text": "=",
+   "conf": 0.86
+  },
+  {
+   "text": "23,20",
+   "conf": 0.85
+  },
+  {
+   "text": "i",
+   "conf": 0.86
+  },
+  {
+   "text": "0.00",
+   "conf": 0.91
+  },
+  {
+   "text": "23,20",
+   "conf": 0.69
+  },
+  {
+   "text": "Rounding",
+   "conf": 0.28
+  },
+  {
+   "text": "Adj",
+   "conf": 0.96
+  },
+  {
+   "text": "0.00",
+   "conf": 0.95
+  },
+  {
+   "text": "fotal",
+   "conf": 0.89
+  },
+  {
+   "text": "23.20",
+   "conf": 0.77
+  },
+  {
+   "text": "GST",
+   "conf": 0.83
+  },
+  {
+   "text": "64",
+   "conf": 0.63
+  },
+  {
+   "text": "INCLUDED",
+   "conf": 0.89
+  },
+  {
+   "text": "i.3i",
+   "conf": 0.8
+  },
+  {
+   "text": "5",
+   "conf": 0.24
+  },
+  {
+   "text": "CASH",
+   "conf": 0.96
+  },
+  {
+   "text": "50.20",
+   "conf": 0.83
+  },
+  {
+   "text": "CHANGE",
+   "conf": 0.96
+  },
+  {
+   "text": "27,00",
+   "conf": 0.91
+  },
+  {
+   "text": "MEMBER",
+   "conf": 0.64
+  },
+  {
+   "text": "PURCHASE",
+   "conf": 0.92
+  },
+  {
+   "text": ";",
+   "conf": 0.42
+  },
+  {
+   "text": "NiS046033",
+   "conf": 0.06
+  },
+  {
+   "text": "-",
+   "conf": 0.84
+  },
+  {
+   "text": "LEE",
+   "conf": 0.94
+  },
+  {
+   "text": "MET",
+   "conf": 0.8
+  },
+  {
+   "text": "YEIN",
+   "conf": 0.9
+  },
+  {
+   "text": "THANK",
+   "conf": 0.95
+  },
+  {
+   "text": "YOU",
+   "conf": 0.95
+  },
+  {
+   "text": "GOQORS",
+   "conf": 0.22
+  },
+  {
+   "text": "SOLD",
+   "conf": 0.95
+  },
+  {
+   "text": "ARE",
+   "conf": 0.92
+  },
+  {
+   "text": "NOT",
+   "conf": 0.96
+  },
+  {
+   "text": "REFUNDABLE.",
+   "conf": 0.72
+  },
+  {
+   "text": "|",
+   "conf": 0.56
+  }
+ ],
+ "mean_conf": 0.717,
+ "low_conf_share": 0.1714,
+ "latency_ms": 2105,
+ "fields": {
+  "company": "MONSIEUR M SDN BHD",
+  "date": "2016-06-12",
+  "total": 50.2
+ },
+ "rule_reasons": [
+  "total_no_keyword_fallback_max"
+ ],
+ "total_candidates": [
+  -29.0,
+  0.0,
+  0.0,
+  23.2,
+  50.2
+ ],
+ "key": "X51006619869"
+}

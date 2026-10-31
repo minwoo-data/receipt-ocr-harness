@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.6-flash",
+ "provider": "gemini",
+ "raw_text": "{\"vendor\": \"PANDAH INDAH PULAU KETAM RESTAURANT\", \"date\": \"2018-04-30\", \"subtotal\": 93.0, \"tax\": null, \"tip\": null, \"discount\": null, \"total\": 93.0, \"currency\": \"MYR\", \"confidence\": 0.95, \"notes\": null}",
+ "data": {
+  "vendor": "PANDAH INDAH PULAU KETAM RESTAURANT",
+  "date": "2018-04-30",
+  "subtotal": 93.0,
+  "tax": null,
+  "tip": null,
+  "discount": null,
+  "total": 93.0,
+  "currency": "MYR",
+  "confidence": 0.95,
+  "notes": null
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1473,
+  "output_tokens": 88,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.001435,
+ "latency_ms": 1797,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.6-flash",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.6-flash"
+ ],
+ "key": "X51008128052"
+}

@@ -1,0 +1,565 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "q",
+  "CROSS CHANNEL NE/WORK SDN. BHD.",
+  "47, JALAN MERANTI 1, SEK. 3,",
+  "‘ BANDAR UTAMA BATANG KALI,",
+  "44300 BATANG KALI, SELANGOR. ’",
+  "Tel : 03-6057 9688 Fax : 03-6057 9678",
+  "GSTID: 001151500288 ; ~~",
+  "cae nee No. : BTG-050036 _",
+  "Qty RM Tax",
+  "2OMMHERO PVC CONDUIT PIPE 1 1.80 sk",
+  "@ 1.7000",
+  "154 PVC CONNE. TOR@ 1.8000 1 191 sR",
+  "R & B-C/CLIP 8MM X 100PCS 1 37158»",
+  "CABLE CLIPS @ 3 5000",
+  "3\" X 3\" 2862A1PVCNUTBOX@ 1 0.53 sk",
+  "BOO)",
+  "Total Amt Incl. GST @ 6% 7.95",
+  "Rounding Adjustment :",
+  "Total Amt Payable 7.95",
+  "PaidAmount: 1000",
+  "eine 205",
+  "peseeceseee- ONAL OW Tender. 4.00.",
+  "| GST Summary Amount Tax ;",
+  "PSR@A 280 O48",
+  "THANK YOU",
+  "For any enquiry, please & mail us:",
+  "gowad688@gniail.com",
+  "31/12/2017 10:33:59 AM",
+  "POP : oF"
+ ],
+ "tokens": [
+  {
+   "text": "q",
+   "conf": 0.0
+  },
+  {
+   "text": "CROSS",
+   "conf": 0.95
+  },
+  {
+   "text": "CHANNEL",
+   "conf": 0.93
+  },
+  {
+   "text": "NE/WORK",
+   "conf": 0.78
+  },
+  {
+   "text": "SDN.",
+   "conf": 0.95
+  },
+  {
+   "text": "BHD.",
+   "conf": 0.95
+  },
+  {
+   "text": "47,",
+   "conf": 0.96
+  },
+  {
+   "text": "JALAN",
+   "conf": 0.92
+  },
+  {
+   "text": "MERANTI",
+   "conf": 0.9
+  },
+  {
+   "text": "1,",
+   "conf": 0.96
+  },
+  {
+   "text": "SEK.",
+   "conf": 0.95
+  },
+  {
+   "text": "3,",
+   "conf": 0.96
+  },
+  {
+   "text": "‘",
+   "conf": 0.57
+  },
+  {
+   "text": "BANDAR",
+   "conf": 0.92
+  },
+  {
+   "text": "UTAMA",
+   "conf": 0.92
+  },
+  {
+   "text": "BATANG",
+   "conf": 0.92
+  },
+  {
+   "text": "KALI,",
+   "conf": 0.89
+  },
+  {
+   "text": "44300",
+   "conf": 0.93
+  },
+  {
+   "text": "BATANG",
+   "conf": 0.92
+  },
+  {
+   "text": "KALI,",
+   "conf": 0.95
+  },
+  {
+   "text": "SELANGOR.",
+   "conf": 0.95
+  },
+  {
+   "text": "’",
+   "conf": 0.0
+  },
+  {
+   "text": "Tel",
+   "conf": 0.9
+  },
+  {
+   "text": ":",
+   "conf": 0.84
+  },
+  {
+   "text": "03-6057",
+   "conf": 0.87
+  },
+  {
+   "text": "9688",
+   "conf": 0.87
+  },
+  {
+   "text": "Fax",
+   "conf": 0.84
+  },
+  {
+   "text": ":",
+   "conf": 0.92
+  },
+  {
+   "text": "03-6057",
+   "conf": 0.96
+  },
+  {
+   "text": "9678",
+   "conf": 0.96
+  },
+  {
+   "text": "GSTID:",
+   "conf": 0.9
+  },
+  {
+   "text": "001151500288",
+   "conf": 0.95
+  },
+  {
+   "text": ";",
+   "conf": 0.5
+  },
+  {
+   "text": "~~",
+   "conf": 0.39
+  },
+  {
+   "text": "cae",
+   "conf": 0.19
+  },
+  {
+   "text": "nee",
+   "conf": 0.43
+  },
+  {
+   "text": "No.",
+   "conf": 0.69
+  },
+  {
+   "text": ":",
+   "conf": 0.69
+  },
+  {
+   "text": "BTG-050036",
+   "conf": 0.27
+  },
+  {
+   "text": "_",
+   "conf": 0.27
+  },
+  {
+   "text": "Qty",
+   "conf": 0.65
+  },
+  {
+   "text": "RM",
+   "conf": 0.65
+  },
+  {
+   "text": "Tax",
+   "conf": 0.67
+  },
+  {
+   "text": "2OMMHERO",
+   "conf": 0.34
+  },
+  {
+   "text": "PVC",
+   "conf": 0.71
+  },
+  {
+   "text": "CONDUIT",
+   "conf": 0.59
+  },
+  {
+   "text": "PIPE",
+   "conf": 0.59
+  },
+  {
+   "text": "1",
+   "conf": 0.68
+  },
+  {
+   "text": "1.80",
+   "conf": 0.91
+  },
+  {
+   "text": "sk",
+   "conf": 0.62
+  },
+  {
+   "text": "@",
+   "conf": 0.93
+  },
+  {
+   "text": "1.7000",
+   "conf": 0.7
+  },
+  {
+   "text": "154",
+   "conf": 0.85
+  },
+  {
+   "text": "PVC",
+   "conf": 0.79
+  },
+  {
+   "text": "CONNE.",
+   "conf": 0.06
+  },
+  {
+   "text": "TOR@",
+   "conf": 0.9
+  },
+  {
+   "text": "1.8000",
+   "conf": 0.94
+  },
+  {
+   "text": "1",
+   "conf": 0.92
+  },
+  {
+   "text": "191",
+   "conf": 0.85
+  },
+  {
+   "text": "sR",
+   "conf": 0.64
+  },
+  {
+   "text": "R",
+   "conf": 0.89
+  },
+  {
+   "text": "&",
+   "conf": 0.77
+  },
+  {
+   "text": "B-C/CLIP",
+   "conf": 0.77
+  },
+  {
+   "text": "8MM",
+   "conf": 0.91
+  },
+  {
+   "text": "X",
+   "conf": 0.82
+  },
+  {
+   "text": "100PCS",
+   "conf": 0.89
+  },
+  {
+   "text": "1",
+   "conf": 0.83
+  },
+  {
+   "text": "37158»",
+   "conf": 0.34
+  },
+  {
+   "text": "CABLE",
+   "conf": 0.95
+  },
+  {
+   "text": "CLIPS",
+   "conf": 0.93
+  },
+  {
+   "text": "@",
+   "conf": 0.9
+  },
+  {
+   "text": "3",
+   "conf": 0.94
+  },
+  {
+   "text": "5000",
+   "conf": 0.94
+  },
+  {
+   "text": "3\"",
+   "conf": 0.92
+  },
+  {
+   "text": "X",
+   "conf": 0.92
+  },
+  {
+   "text": "3\"",
+   "conf": 0.64
+  },
+  {
+   "text": "2862A1PVCNUTBOX@",
+   "conf": 0.64
+  },
+  {
+   "text": "1",
+   "conf": 0.6
+  },
+  {
+   "text": "0.53",
+   "conf": 0.6
+  },
+  {
+   "text": "sk",
+   "conf": 0.67
+  },
+  {
+   "text": "BOO)",
+   "conf": 0.14
+  },
+  {
+   "text": "Total",
+   "conf": 0.96
+  },
+  {
+   "text": "Amt",
+   "conf": 0.92
+  },
+  {
+   "text": "Incl.",
+   "conf": 0.88
+  },
+  {
+   "text": "GST",
+   "conf": 0.96
+  },
+  {
+   "text": "@",
+   "conf": 0.77
+  },
+  {
+   "text": "6%",
+   "conf": 0.88
+  },
+  {
+   "text": "7.95",
+   "conf": 0.91
+  },
+  {
+   "text": "Rounding",
+   "conf": 0.95
+  },
+  {
+   "text": "Adjustment",
+   "conf": 0.93
+  },
+  {
+   "text": ":",
+   "conf": 0.86
+  },
+  {
+   "text": "Total",
+   "conf": 0.95
+  },
+  {
+   "text": "Amt",
+   "conf": 0.96
+  },
+  {
+   "text": "Payable",
+   "conf": 0.96
+  },
+  {
+   "text": "7.95",
+   "conf": 0.91
+  },
+  {
+   "text": "PaidAmount:",
+   "conf": 0.89
+  },
+  {
+   "text": "1000",
+   "conf": 0.96
+  },
+  {
+   "text": "eine",
+   "conf": 0.13
+  },
+  {
+   "text": "205",
+   "conf": 0.95
+  },
+  {
+   "text": "peseeceseee-",
+   "conf": 0.0
+  },
+  {
+   "text": "ONAL",
+   "conf": 0.0
+  },
+  {
+   "text": "OW",
+   "conf": 0.25
+  },
+  {
+   "text": "Tender.",
+   "conf": 0.65
+  },
+  {
+   "text": "4.00.",
+   "conf": 0.06
+  },
+  {
+   "text": "|",
+   "conf": 0.48
+  },
+  {
+   "text": "GST",
+   "conf": 0.96
+  },
+  {
+   "text": "Summary",
+   "conf": 0.96
+  },
+  {
+   "text": "Amount",
+   "conf": 0.81
+  },
+  {
+   "text": "Tax",
+   "conf": 0.93
+  },
+  {
+   "text": ";",
+   "conf": 0.66
+  },
+  {
+   "text": "PSR@A",
+   "conf": 0.27
+  },
+  {
+   "text": "280",
+   "conf": 0.42
+  },
+  {
+   "text": "O48",
+   "conf": 0.0
+  },
+  {
+   "text": "THANK",
+   "conf": 0.95
+  },
+  {
+   "text": "YOU",
+   "conf": 0.95
+  },
+  {
+   "text": "For",
+   "conf": 0.96
+  },
+  {
+   "text": "any",
+   "conf": 0.96
+  },
+  {
+   "text": "enquiry,",
+   "conf": 0.96
+  },
+  {
+   "text": "please",
+   "conf": 0.92
+  },
+  {
+   "text": "&",
+   "conf": 0.56
+  },
+  {
+   "text": "mail",
+   "conf": 0.96
+  },
+  {
+   "text": "us:",
+   "conf": 0.96
+  },
+  {
+   "text": "gowad688@gniail.com",
+   "conf": 0.0
+  },
+  {
+   "text": "31/12/2017",
+   "conf": 0.96
+  },
+  {
+   "text": "10:33:59",
+   "conf": 0.96
+  },
+  {
+   "text": "AM",
+   "conf": 0.96
+  },
+  {
+   "text": "POP",
+   "conf": 0.15
+  },
+  {
+   "text": ":",
+   "conf": 0.18
+  },
+  {
+   "text": "oF",
+   "conf": 0.06
+  }
+ ],
+ "mean_conf": 0.7306,
+ "low_conf_share": 0.186,
+ "latency_ms": 1822,
+ "fields": {
+  "company": "CROSS CHANNEL NE WORK SDN BHD",
+  "date": "2017-12-31",
+  "total": 7.95
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  7.95
+ ],
+ "key": "X51005230657"
+}

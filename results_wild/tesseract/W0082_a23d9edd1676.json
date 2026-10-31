@@ -1,0 +1,343 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "et ka V Mhz Le —",
+  "CAR WASH & LUBE CENTERS",
+  "Mister Car Wash 002/102 ee",
+  "1038 Gessner Rd ees",
+  "Houston, TX 77055 (h",
+  "713-461-0541 8",
+  "002-WCash2, 02/20/16, 04:39 PM",
+  "Shift 1, Emp] 1539, Sale # 73589514882 —",
+  "1 Final Touch 39.99",
+  "1 Dissolve-Al) 20.00",
+  "1 Lube Wash Coupon “13599",
+  "(Lube Free Wash, Bal: 0)",
+  "Subtotal 46.00",
+  "Sales Tax 0.004",
+  "Total 46.00",
+  "AMEX x2526 46.00",
+  "(Sale Appr # 344020:264179)",
+  "(Merchant # 196026) a",
+  "~ Car# 630"
+ ],
+ "tokens": [
+  {
+   "text": "et",
+   "conf": 0.23
+  },
+  {
+   "text": "ka",
+   "conf": 0.23
+  },
+  {
+   "text": "V",
+   "conf": 0.71
+  },
+  {
+   "text": "Mhz",
+   "conf": 0.29
+  },
+  {
+   "text": "Le",
+   "conf": 0.16
+  },
+  {
+   "text": "—",
+   "conf": 0.31
+  },
+  {
+   "text": "CAR",
+   "conf": 0.95
+  },
+  {
+   "text": "WASH",
+   "conf": 0.93
+  },
+  {
+   "text": "&",
+   "conf": 0.93
+  },
+  {
+   "text": "LUBE",
+   "conf": 0.96
+  },
+  {
+   "text": "CENTERS",
+   "conf": 0.95
+  },
+  {
+   "text": "Mister",
+   "conf": 0.96
+  },
+  {
+   "text": "Car",
+   "conf": 0.96
+  },
+  {
+   "text": "Wash",
+   "conf": 0.96
+  },
+  {
+   "text": "002/102",
+   "conf": 0.96
+  },
+  {
+   "text": "ee",
+   "conf": 0.06
+  },
+  {
+   "text": "1038",
+   "conf": 0.96
+  },
+  {
+   "text": "Gessner",
+   "conf": 0.94
+  },
+  {
+   "text": "Rd",
+   "conf": 0.96
+  },
+  {
+   "text": "ees",
+   "conf": 0.32
+  },
+  {
+   "text": "Houston,",
+   "conf": 0.92
+  },
+  {
+   "text": "TX",
+   "conf": 0.76
+  },
+  {
+   "text": "77055",
+   "conf": 0.95
+  },
+  {
+   "text": "(h",
+   "conf": 0.0
+  },
+  {
+   "text": "713-461-0541",
+   "conf": 0.82
+  },
+  {
+   "text": "8",
+   "conf": 0.65
+  },
+  {
+   "text": "002-WCash2,",
+   "conf": 0.87
+  },
+  {
+   "text": "02/20/16,",
+   "conf": 0.96
+  },
+  {
+   "text": "04:39",
+   "conf": 0.95
+  },
+  {
+   "text": "PM",
+   "conf": 0.96
+  },
+  {
+   "text": "Shift",
+   "conf": 0.96
+  },
+  {
+   "text": "1,",
+   "conf": 0.96
+  },
+  {
+   "text": "Emp]",
+   "conf": 0.85
+  },
+  {
+   "text": "1539,",
+   "conf": 0.69
+  },
+  {
+   "text": "Sale",
+   "conf": 0.69
+  },
+  {
+   "text": "#",
+   "conf": 0.93
+  },
+  {
+   "text": "73589514882",
+   "conf": 0.8
+  },
+  {
+   "text": "—",
+   "conf": 0.39
+  },
+  {
+   "text": "1",
+   "conf": 0.89
+  },
+  {
+   "text": "Final",
+   "conf": 0.94
+  },
+  {
+   "text": "Touch",
+   "conf": 0.96
+  },
+  {
+   "text": "39.99",
+   "conf": 0.47
+  },
+  {
+   "text": "1",
+   "conf": 0.84
+  },
+  {
+   "text": "Dissolve-Al)",
+   "conf": 0.07
+  },
+  {
+   "text": "20.00",
+   "conf": 0.9
+  },
+  {
+   "text": "1",
+   "conf": 0.92
+  },
+  {
+   "text": "Lube",
+   "conf": 0.96
+  },
+  {
+   "text": "Wash",
+   "conf": 0.96
+  },
+  {
+   "text": "Coupon",
+   "conf": 0.0
+  },
+  {
+   "text": "“13599",
+   "conf": 0.37
+  },
+  {
+   "text": "(Lube",
+   "conf": 0.96
+  },
+  {
+   "text": "Free",
+   "conf": 0.96
+  },
+  {
+   "text": "Wash,",
+   "conf": 0.3
+  },
+  {
+   "text": "Bal:",
+   "conf": 0.3
+  },
+  {
+   "text": "0)",
+   "conf": 0.95
+  },
+  {
+   "text": "Subtotal",
+   "conf": 0.96
+  },
+  {
+   "text": "46.00",
+   "conf": 0.81
+  },
+  {
+   "text": "Sales",
+   "conf": 0.95
+  },
+  {
+   "text": "Tax",
+   "conf": 0.96
+  },
+  {
+   "text": "0.004",
+   "conf": 0.02
+  },
+  {
+   "text": "Total",
+   "conf": 0.96
+  },
+  {
+   "text": "46.00",
+   "conf": 0.37
+  },
+  {
+   "text": "AMEX",
+   "conf": 0.75
+  },
+  {
+   "text": "x2526",
+   "conf": 0.75
+  },
+  {
+   "text": "46.00",
+   "conf": 0.81
+  },
+  {
+   "text": "(Sale",
+   "conf": 0.95
+  },
+  {
+   "text": "Appr",
+   "conf": 0.7
+  },
+  {
+   "text": "#",
+   "conf": 0.85
+  },
+  {
+   "text": "344020:264179)",
+   "conf": 0.68
+  },
+  {
+   "text": "(Merchant",
+   "conf": 0.93
+  },
+  {
+   "text": "#",
+   "conf": 0.93
+  },
+  {
+   "text": "196026)",
+   "conf": 0.96
+  },
+  {
+   "text": "a",
+   "conf": 0.08
+  },
+  {
+   "text": "~",
+   "conf": 0.0
+  },
+  {
+   "text": "Car#",
+   "conf": 0.29
+  },
+  {
+   "text": "630",
+   "conf": 0.96
+  }
+ ],
+ "mean_conf": 0.7139,
+ "low_conf_share": 0.2632,
+ "latency_ms": 1045,
+ "fields": {
+  "company": "ET KA V MHZ LE",
+  "date": "2016-02-20",
+  "total": 46.0
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  46.0
+ ],
+ "key": "W0082_a23d9edd1676"
+}

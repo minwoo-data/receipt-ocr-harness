@@ -1,0 +1,190 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "Ref No: 000696305041961",
+  "Goods Sold Ars.Not Returnable. TO",
+  "egi Cash & Carry Sdn.Bhd.",
+  "Ft17920 Sek U9.Shah Alam",
+  "GST Req No:001951645696",
+  "05/se200209/42193 06/04/1711:43am",
+  "MIGHTY MARK DISHWASH·11L",
+  "2x11.50 23.005",
+  "MIGHTY MARK BLEACH 1OL",
+  "2x 11.50 23.00S",
+  "GARDENIA SOHMERSET COTTAGE 3OOG",
+  "1x4.45 4.45 S",
+  "No ofitems:5",
+  "Total Incl. GST:RM 50.45",
+  "Master xxxxxxy XXXxx9113: 50.45",
+  "ChangesRM 0.00",
+  "Missed Foint Today: 47",
+  "Served by ASHOK KUMAR",
+  "*********************",
+  "GST Code Anount(RM)Tax(RH)",
+  "S06.0% 47.60 .2.85",
+  "**享**京**** ************",
+  "Ref No: 00600696305042193",
+  "Goods Sold Are Not Returnable.TQ"
+ ],
+ "tokens": [
+  {
+   "text": "Ref No: 000696305041961",
+   "conf": 0.9682386336119279
+  },
+  {
+   "text": "Goods Sold Ars.Not Returnable. TO",
+   "conf": 0.9325504185575427
+  },
+  {
+   "text": "egi Cash & Carry Sdn.Bhd.",
+   "conf": 0.9190495181083679
+  },
+  {
+   "text": "Ft17920 Sek U9.Shah Alam",
+   "conf": 0.9054925441741943
+  },
+  {
+   "text": "GST Req No:001951645696",
+   "conf": 0.9250264323276022
+  },
+  {
+   "text": "05/se200209/42193",
+   "conf": 0.9651987447458155
+  },
+  {
+   "text": "06/04/1711:43am",
+   "conf": 0.9678384304046631
+  },
+  {
+   "text": "MIGHTY MARK DISHWASH·11L",
+   "conf": 0.9483844215671221
+  },
+  {
+   "text": "2x11.50",
+   "conf": 0.9518454841205052
+  },
+  {
+   "text": "23.005",
+   "conf": 0.909896527727445
+  },
+  {
+   "text": "MIGHTY MARK BLEACH 1OL",
+   "conf": 0.9369244927709753
+  },
+  {
+   "text": "2x 11.50",
+   "conf": 0.8876792266964912
+  },
+  {
+   "text": "23.00S",
+   "conf": 0.962521880865097
+  },
+  {
+   "text": "GARDENIA SOHMERSET COTTAGE 3OOG",
+   "conf": 0.9290328371909357
+  },
+  {
+   "text": "1x4.45",
+   "conf": 0.9620970586935679
+  },
+  {
+   "text": "4.45 S",
+   "conf": 0.932185709476471
+  },
+  {
+   "text": "No ofitems:5",
+   "conf": 0.8998664617538452
+  },
+  {
+   "text": "Total Incl. GST:RM",
+   "conf": 0.9057696296109093
+  },
+  {
+   "text": "50.45",
+   "conf": 0.9995881915092468
+  },
+  {
+   "text": "Master xxxxxxy",
+   "conf": 0.8653872225965772
+  },
+  {
+   "text": "XXXxx9113:",
+   "conf": 0.7842753291130066
+  },
+  {
+   "text": "50.45",
+   "conf": 0.9989748239517212
+  },
+  {
+   "text": "ChangesRM",
+   "conf": 0.9243154293960996
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9953044652938843
+  },
+  {
+   "text": "Missed Foint Today: 47",
+   "conf": 0.9365956349806352
+  },
+  {
+   "text": "Served by ASHOK KUMAR",
+   "conf": 0.9304653122311547
+  },
+  {
+   "text": "*********************",
+   "conf": 0.7747549613316854
+  },
+  {
+   "text": "GST Code",
+   "conf": 0.9007415398955345
+  },
+  {
+   "text": "Anount(RM)Tax(RH)",
+   "conf": 0.8744725164245156
+  },
+  {
+   "text": "S06.0%",
+   "conf": 0.9025450150171915
+  },
+  {
+   "text": "47.60",
+   "conf": 0.9939308762550354
+  },
+  {
+   "text": ".2.85",
+   "conf": 0.9704299211502075
+  },
+  {
+   "text": "**享**京****",
+   "conf": 0.6076393336057663
+  },
+  {
+   "text": "************",
+   "conf": 0.7986724128325781
+  },
+  {
+   "text": "Ref No: 00600696305042193",
+   "conf": 0.9652083849906922
+  },
+  {
+   "text": "Goods Sold Are Not Returnable.TQ",
+   "conf": 0.9688511546701193
+  }
+ ],
+ "mean_conf": 0.9167,
+ "low_conf_share": 0.0,
+ "latency_ms": 3815,
+ "fields": {
+  "company": "EGI CASH CARRY SDN BHD",
+  "date": null,
+  "total": 50.45
+ },
+ "rule_reasons": [
+  "date_not_found"
+ ],
+ "total_candidates": [
+  50.45
+ ],
+ "key": "X51006329402"
+}

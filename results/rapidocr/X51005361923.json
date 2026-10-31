@@ -1,0 +1,164 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "SWCENTERPRISE SDN BHD",
+  "(1125830-V)",
+  "8&10,Jalan Ijok Fermai 1,",
+  "Pusat Niaga Ijok Permai,",
+  "48000 Ijok,Selangor.",
+  "TAXINVOICE",
+  "(GST ID No.:Q02017808384)",
+  "02/01/2018 Cashier: 123",
+  "10:46:55 No:0100036262",
+  "Iten/Desc. Qty Price Amt.",
+  "(09X1)9009 8XG",
+  "5X8500G 4.20 4.20",
+  "Total Qty",
+  "TOTALAMOUNT 4.20",
+  "CASH 50.20",
+  "CHANGE 46.00",
+  "GST @a6 Jadaded InTotal 0.24",
+  "Thank You !Please Come Again!",
+  "Goods Sold Dnly Exchangable",
+  "Within 3 Days!"
+ ],
+ "tokens": [
+  {
+   "text": "SWCENTERPRISE SDN BHD",
+   "conf": 0.9501133532751174
+  },
+  {
+   "text": "(1125830-V)",
+   "conf": 0.9386727430603721
+  },
+  {
+   "text": "8&10,Jalan Ijok Fermai 1,",
+   "conf": 0.850019907951355
+  },
+  {
+   "text": "Pusat Niaga Ijok Permai,",
+   "conf": 0.923937551677227
+  },
+  {
+   "text": "48000 Ijok,Selangor.",
+   "conf": 0.961851391196251
+  },
+  {
+   "text": "TAXINVOICE",
+   "conf": 0.8968271493911744
+  },
+  {
+   "text": "(GST ID No.:Q02017808384)",
+   "conf": 0.8878278970718384
+  },
+  {
+   "text": "02/01/2018",
+   "conf": 0.993722116947174
+  },
+  {
+   "text": "Cashier: 123",
+   "conf": 0.9576734602451324
+  },
+  {
+   "text": "10:46:55",
+   "conf": 0.9874831810593605
+  },
+  {
+   "text": "No:0100036262",
+   "conf": 0.990013062953949
+  },
+  {
+   "text": "Iten/Desc.",
+   "conf": 0.9415868163108826
+  },
+  {
+   "text": "Qty",
+   "conf": 0.8960270484288534
+  },
+  {
+   "text": "Price",
+   "conf": 0.9704451441764832
+  },
+  {
+   "text": "Amt.",
+   "conf": 0.8691748231649399
+  },
+  {
+   "text": "(09X1)9009 8XG",
+   "conf": 0.7815718693392617
+  },
+  {
+   "text": "5X8500G",
+   "conf": 0.9729139889989581
+  },
+  {
+   "text": "4.20",
+   "conf": 0.993917390704155
+  },
+  {
+   "text": "4.20",
+   "conf": 0.9852975308895111
+  },
+  {
+   "text": "Total Qty",
+   "conf": 0.9773482282956442
+  },
+  {
+   "text": "TOTALAMOUNT",
+   "conf": 0.9842493859204379
+  },
+  {
+   "text": "4.20",
+   "conf": 0.9327596426010132
+  },
+  {
+   "text": "CASH",
+   "conf": 0.9948277920484543
+  },
+  {
+   "text": "50.20",
+   "conf": 0.9930473804473877
+  },
+  {
+   "text": "CHANGE",
+   "conf": 0.9940405289332072
+  },
+  {
+   "text": "46.00",
+   "conf": 0.9948790550231934
+  },
+  {
+   "text": "GST @a6 Jadaded InTotal",
+   "conf": 0.735056801982548
+  },
+  {
+   "text": "0.24",
+   "conf": 0.9940979033708572
+  },
+  {
+   "text": "Thank You !Please Come Again!",
+   "conf": 0.933743811886886
+  },
+  {
+   "text": "Goods Sold Dnly Exchangable",
+   "conf": 0.9649952120251126
+  },
+  {
+   "text": "Within 3 Days!",
+   "conf": 0.9124557886804853
+  }
+ ],
+ "mean_conf": 0.9407,
+ "low_conf_share": 0.0,
+ "latency_ms": 4573,
+ "fields": {
+  "company": "SWCENTERPRISE SDN BHD",
+  "date": "2018-01-02",
+  "total": 4.2
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  4.2
+ ],
+ "key": "X51005361923"
+}

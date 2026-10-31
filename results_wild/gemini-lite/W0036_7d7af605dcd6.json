@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.1-flash-lite",
+ "provider": "gemini",
+ "raw_text": "{\n  \"vendor\": \"BEST BUY\",\n  \"date\": \"2014-07-25\",\n  \"subtotal\": 44.99,\n  \"tax\": 5.85,\n  \"tip\": null,\n  \"discount\": -10.0,\n  \"total\": 50.84,\n  \"currency\": \"CAD\",\n  \"confidence\": 0.98,\n  \"notes\": \"The total of 50.84 includes the subtotal and tax, while the RZ CERT of 10.00 was applied as a discount to the final payment amount.\"\n}",
+ "data": {
+  "vendor": "BEST BUY",
+  "date": "2014-07-25",
+  "subtotal": 44.99,
+  "tax": 5.85,
+  "tip": null,
+  "discount": -10.0,
+  "total": 50.84,
+  "currency": "CAD",
+  "confidence": 0.98,
+  "notes": "The total of 50.84 includes the subtotal and tax, while the RZ CERT of 10.00 was applied as a discount to the final payment amount."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1433,
+  "output_tokens": 147,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.000579,
+ "latency_ms": 1929,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.1-flash-lite",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.1-flash-lite"
+ ],
+ "key": "W0036_7d7af605dcd6"
+}

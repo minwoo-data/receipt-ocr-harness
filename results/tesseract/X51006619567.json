@@ -1,0 +1,438 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "KEDAI UBAT & RUNCIT HONG",
+  "NING SDN. BAD.",
+  "(71.7853 -Fy",
+  "(GE TID Wa : O0:2006 163454)",
+  "NOS, JALAN LANG RUNING,",
+  "KEPONG BARU,",
+  "32108 KUALA LUMPUR.",
+  "Tol: 03-4273 2143",
+  "BillNo =: PO&/152421",
+  "Date > O2AQNG 10:23:34 AM",
+  "Cushior =: admin",
+  "Paymont : Cash",
+  "Ttom Oty Price Amount",
+  "FOMEC’S LUCKY BLESSINGE @101.89",
+  "9534657967 3 108.00 340.00 §R",
+  "FOMEC'E GIFT OF HAPPINESS @y64.15",
+  "953657967 2 68.00 136.0 GR.",
+  "HetAmt @GaTdt ; S76 i",
+  "Cash Paid: 676.00",
+  "Card Paid: 0.00",
+  "Change : 0.00",
+  "| Reund Ad}. : 0.00",
+  "GST Summary Amount Tax",
+  "&R Gh 4% 637.73 38.27",
+  "THANK YOU"
+ ],
+ "tokens": [
+  {
+   "text": "KEDAI",
+   "conf": 0.73
+  },
+  {
+   "text": "UBAT",
+   "conf": 0.72
+  },
+  {
+   "text": "&",
+   "conf": 0.91
+  },
+  {
+   "text": "RUNCIT",
+   "conf": 0.9
+  },
+  {
+   "text": "HONG",
+   "conf": 0.95
+  },
+  {
+   "text": "NING",
+   "conf": 0.95
+  },
+  {
+   "text": "SDN.",
+   "conf": 0.82
+  },
+  {
+   "text": "BAD.",
+   "conf": 0.85
+  },
+  {
+   "text": "(71.7853",
+   "conf": 0.0
+  },
+  {
+   "text": "-Fy",
+   "conf": 0.0
+  },
+  {
+   "text": "(GE",
+   "conf": 0.1
+  },
+  {
+   "text": "TID",
+   "conf": 0.1
+  },
+  {
+   "text": "Wa",
+   "conf": 0.58
+  },
+  {
+   "text": ":",
+   "conf": 0.35
+  },
+  {
+   "text": "O0:2006",
+   "conf": 0.16
+  },
+  {
+   "text": "163454)",
+   "conf": 0.81
+  },
+  {
+   "text": "NOS,",
+   "conf": 0.0
+  },
+  {
+   "text": "JALAN",
+   "conf": 0.0
+  },
+  {
+   "text": "LANG",
+   "conf": 0.92
+  },
+  {
+   "text": "RUNING,",
+   "conf": 0.1
+  },
+  {
+   "text": "KEPONG",
+   "conf": 0.89
+  },
+  {
+   "text": "BARU,",
+   "conf": 0.88
+  },
+  {
+   "text": "32108",
+   "conf": 0.83
+  },
+  {
+   "text": "KUALA",
+   "conf": 0.51
+  },
+  {
+   "text": "LUMPUR.",
+   "conf": 0.93
+  },
+  {
+   "text": "Tol:",
+   "conf": 0.88
+  },
+  {
+   "text": "03-4273",
+   "conf": 0.69
+  },
+  {
+   "text": "2143",
+   "conf": 0.9
+  },
+  {
+   "text": "BillNo",
+   "conf": 0.14
+  },
+  {
+   "text": "=:",
+   "conf": 0.51
+  },
+  {
+   "text": "PO&/152421",
+   "conf": 0.48
+  },
+  {
+   "text": "Date",
+   "conf": 0.76
+  },
+  {
+   "text": ">",
+   "conf": 0.42
+  },
+  {
+   "text": "O2AQNG",
+   "conf": 0.58
+  },
+  {
+   "text": "10:23:34",
+   "conf": 0.77
+  },
+  {
+   "text": "AM",
+   "conf": 0.92
+  },
+  {
+   "text": "Cushior",
+   "conf": 0.79
+  },
+  {
+   "text": "=:",
+   "conf": 0.66
+  },
+  {
+   "text": "admin",
+   "conf": 0.51
+  },
+  {
+   "text": "Paymont",
+   "conf": 0.78
+  },
+  {
+   "text": ":",
+   "conf": 0.6
+  },
+  {
+   "text": "Cash",
+   "conf": 0.95
+  },
+  {
+   "text": "Ttom",
+   "conf": 0.89
+  },
+  {
+   "text": "Oty",
+   "conf": 0.85
+  },
+  {
+   "text": "Price",
+   "conf": 0.94
+  },
+  {
+   "text": "Amount",
+   "conf": 0.95
+  },
+  {
+   "text": "FOMEC’S",
+   "conf": 0.61
+  },
+  {
+   "text": "LUCKY",
+   "conf": 0.89
+  },
+  {
+   "text": "BLESSINGE",
+   "conf": 0.84
+  },
+  {
+   "text": "@101.89",
+   "conf": 0.0
+  },
+  {
+   "text": "9534657967",
+   "conf": 0.75
+  },
+  {
+   "text": "3",
+   "conf": 0.56
+  },
+  {
+   "text": "108.00",
+   "conf": 0.64
+  },
+  {
+   "text": "340.00",
+   "conf": 0.79
+  },
+  {
+   "text": "§R",
+   "conf": 0.19
+  },
+  {
+   "text": "FOMEC'E",
+   "conf": 0.18
+  },
+  {
+   "text": "GIFT",
+   "conf": 0.9
+  },
+  {
+   "text": "OF",
+   "conf": 0.9
+  },
+  {
+   "text": "HAPPINESS",
+   "conf": 0.87
+  },
+  {
+   "text": "@y64.15",
+   "conf": 0.18
+  },
+  {
+   "text": "953657967",
+   "conf": 0.68
+  },
+  {
+   "text": "2",
+   "conf": 0.94
+  },
+  {
+   "text": "68.00",
+   "conf": 0.77
+  },
+  {
+   "text": "136.0",
+   "conf": 0.62
+  },
+  {
+   "text": "GR.",
+   "conf": 0.55
+  },
+  {
+   "text": "HetAmt",
+   "conf": 0.65
+  },
+  {
+   "text": "@GaTdt",
+   "conf": 0.0
+  },
+  {
+   "text": ";",
+   "conf": 0.5
+  },
+  {
+   "text": "S76",
+   "conf": 0.26
+  },
+  {
+   "text": "i",
+   "conf": 0.23
+  },
+  {
+   "text": "Cash",
+   "conf": 0.96
+  },
+  {
+   "text": "Paid:",
+   "conf": 0.59
+  },
+  {
+   "text": "676.00",
+   "conf": 0.85
+  },
+  {
+   "text": "Card",
+   "conf": 0.92
+  },
+  {
+   "text": "Paid:",
+   "conf": 0.59
+  },
+  {
+   "text": "0.00",
+   "conf": 0.66
+  },
+  {
+   "text": "Change",
+   "conf": 0.92
+  },
+  {
+   "text": ":",
+   "conf": 0.85
+  },
+  {
+   "text": "0.00",
+   "conf": 0.3
+  },
+  {
+   "text": "|",
+   "conf": 0.49
+  },
+  {
+   "text": "Reund",
+   "conf": 0.31
+  },
+  {
+   "text": "Ad}.",
+   "conf": 0.79
+  },
+  {
+   "text": ":",
+   "conf": 0.56
+  },
+  {
+   "text": "0.00",
+   "conf": 0.91
+  },
+  {
+   "text": "GST",
+   "conf": 0.4
+  },
+  {
+   "text": "Summary",
+   "conf": 0.49
+  },
+  {
+   "text": "Amount",
+   "conf": 0.34
+  },
+  {
+   "text": "Tax",
+   "conf": 0.94
+  },
+  {
+   "text": "&R",
+   "conf": 0.11
+  },
+  {
+   "text": "Gh",
+   "conf": 0.3
+  },
+  {
+   "text": "4%",
+   "conf": 0.51
+  },
+  {
+   "text": "637.73",
+   "conf": 0.95
+  },
+  {
+   "text": "38.27",
+   "conf": 0.69
+  },
+  {
+   "text": "THANK",
+   "conf": 0.85
+  },
+  {
+   "text": "YOU",
+   "conf": 0.78
+  }
+ ],
+ "mean_conf": 0.616,
+ "low_conf_share": 0.2842,
+ "latency_ms": 2498,
+ "fields": {
+  "company": "KEDAI UBAT RUNCIT HONG",
+  "date": null,
+  "total": 676.0
+ },
+ "rule_reasons": [
+  "date_not_found",
+  "total_no_keyword_fallback_max"
+ ],
+ "total_candidates": [
+  101.89,
+  108.0,
+  340.0,
+  64.15,
+  68.0,
+  676.0,
+  0.0,
+  0.0,
+  0.0,
+  637.73,
+  38.27
+ ],
+ "key": "X51006619567"
+}

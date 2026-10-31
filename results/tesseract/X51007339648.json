@@ -1,0 +1,637 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "Caeater »",
+  "ALK HUAT HARDBHARE",
+  "ENTERPRISE (SETI",
+  "GLAM) SUM BHO",
+  "82273 7-X 3",
+  "NO. i7-G, JALAN SETIA INGAH",
+  "@) ULS/X, SETIA ALAN,",
+  "SERSYEN usd, 49170 SHAH ALAM,",
+  "TEL: O12 - 4451783 FAX: 03 - 336234608",
+  "GST NO: 000394528748 7",
+  "Oyun",
+  "SIMPLIFIED TAR INVOICE",
+  "RECEIPT #: CSPO4G5591 BATE: 12/09/2017",
+  "SALESPERSON » AHGI9 TIME: 15222300",
+  "TTEM QTY: U/P AMOUNT",
+  ": f au) ie",
+  "9555785202031 a 30.0) 30,00 °S",
+  "TOI GZ CEVES (ETN TYPE SINK TAF",
+  "TFOTAL QUANTITY 1",
+  "SUB-TOTAL {GST} 36.00",
+  "JISE 0.08",
+  "ROUNDING 0.60",
+  "TETat 40.06",
+  "CASH : 30.00",
+  "- CHANGE o.0G",
+  "GST @ 6% INCLUDE IN TOTAL",
+  "GST SUMMARY",
+  "CORE AMOUNT z TAX/ANT",
+  "SR 28.30 é 1.70",
+  "TAX TOTAL: 1.70",
+  "GODS SOLD ARE NOT RERUNDABLE,",
+  "THANE YOU ROR CHOOSING Us.",
+  "PLS PROVIDE ORIGINAL BILL PO GooDS",
+  "EXCHANGE WITHIN i WERE PROM TRANSacTion",
+  "GOODS BUST BE IN ORIGINAL STATE To BE",
+  "ENTITLED ROR EXCHANGE."
+ ],
+ "tokens": [
+  {
+   "text": "Caeater",
+   "conf": 0.0
+  },
+  {
+   "text": "»",
+   "conf": 0.66
+  },
+  {
+   "text": "ALK",
+   "conf": 0.84
+  },
+  {
+   "text": "HUAT",
+   "conf": 0.8
+  },
+  {
+   "text": "HARDBHARE",
+   "conf": 0.0
+  },
+  {
+   "text": "ENTERPRISE",
+   "conf": 0.63
+  },
+  {
+   "text": "(SETI",
+   "conf": 0.07
+  },
+  {
+   "text": "GLAM)",
+   "conf": 0.68
+  },
+  {
+   "text": "SUM",
+   "conf": 0.68
+  },
+  {
+   "text": "BHO",
+   "conf": 0.08
+  },
+  {
+   "text": "82273",
+   "conf": 0.0
+  },
+  {
+   "text": "7-X",
+   "conf": 0.0
+  },
+  {
+   "text": "3",
+   "conf": 0.26
+  },
+  {
+   "text": "NO.",
+   "conf": 0.74
+  },
+  {
+   "text": "i7-G,",
+   "conf": 0.69
+  },
+  {
+   "text": "JALAN",
+   "conf": 0.65
+  },
+  {
+   "text": "SETIA",
+   "conf": 0.82
+  },
+  {
+   "text": "INGAH",
+   "conf": 0.81
+  },
+  {
+   "text": "@)",
+   "conf": 0.0
+  },
+  {
+   "text": "ULS/X,",
+   "conf": 0.15
+  },
+  {
+   "text": "SETIA",
+   "conf": 0.83
+  },
+  {
+   "text": "ALAN,",
+   "conf": 0.94
+  },
+  {
+   "text": "SERSYEN",
+   "conf": 0.9
+  },
+  {
+   "text": "usd,",
+   "conf": 0.33
+  },
+  {
+   "text": "49170",
+   "conf": 0.6
+  },
+  {
+   "text": "SHAH",
+   "conf": 0.92
+  },
+  {
+   "text": "ALAM,",
+   "conf": 0.95
+  },
+  {
+   "text": "TEL:",
+   "conf": 0.92
+  },
+  {
+   "text": "O12",
+   "conf": 0.36
+  },
+  {
+   "text": "-",
+   "conf": 0.88
+  },
+  {
+   "text": "4451783",
+   "conf": 0.46
+  },
+  {
+   "text": "FAX:",
+   "conf": 0.93
+  },
+  {
+   "text": "03",
+   "conf": 0.71
+  },
+  {
+   "text": "-",
+   "conf": 0.87
+  },
+  {
+   "text": "336234608",
+   "conf": 0.73
+  },
+  {
+   "text": "GST",
+   "conf": 0.86
+  },
+  {
+   "text": "NO:",
+   "conf": 0.91
+  },
+  {
+   "text": "000394528748",
+   "conf": 0.84
+  },
+  {
+   "text": "7",
+   "conf": 0.57
+  },
+  {
+   "text": "Oyun",
+   "conf": 0.35
+  },
+  {
+   "text": "SIMPLIFIED",
+   "conf": 0.34
+  },
+  {
+   "text": "TAR",
+   "conf": 0.78
+  },
+  {
+   "text": "INVOICE",
+   "conf": 0.72
+  },
+  {
+   "text": "RECEIPT",
+   "conf": 0.91
+  },
+  {
+   "text": "#:",
+   "conf": 0.9
+  },
+  {
+   "text": "CSPO4G5591",
+   "conf": 0.53
+  },
+  {
+   "text": "BATE:",
+   "conf": 0.94
+  },
+  {
+   "text": "12/09/2017",
+   "conf": 0.89
+  },
+  {
+   "text": "SALESPERSON",
+   "conf": 0.33
+  },
+  {
+   "text": "»",
+   "conf": 0.39
+  },
+  {
+   "text": "AHGI9",
+   "conf": 0.59
+  },
+  {
+   "text": "TIME:",
+   "conf": 0.46
+  },
+  {
+   "text": "15222300",
+   "conf": 0.22
+  },
+  {
+   "text": "TTEM",
+   "conf": 0.11
+  },
+  {
+   "text": "QTY:",
+   "conf": 0.81
+  },
+  {
+   "text": "U/P",
+   "conf": 0.0
+  },
+  {
+   "text": "AMOUNT",
+   "conf": 0.0
+  },
+  {
+   "text": ":",
+   "conf": 0.0
+  },
+  {
+   "text": "f",
+   "conf": 0.82
+  },
+  {
+   "text": "au)",
+   "conf": 0.42
+  },
+  {
+   "text": "ie",
+   "conf": 0.36
+  },
+  {
+   "text": "9555785202031",
+   "conf": 0.55
+  },
+  {
+   "text": "a",
+   "conf": 0.44
+  },
+  {
+   "text": "30.0)",
+   "conf": 0.75
+  },
+  {
+   "text": "30,00",
+   "conf": 0.18
+  },
+  {
+   "text": "°S",
+   "conf": 0.18
+  },
+  {
+   "text": "TOI",
+   "conf": 0.34
+  },
+  {
+   "text": "GZ",
+   "conf": 0.34
+  },
+  {
+   "text": "CEVES",
+   "conf": 0.0
+  },
+  {
+   "text": "(ETN",
+   "conf": 0.08
+  },
+  {
+   "text": "TYPE",
+   "conf": 0.96
+  },
+  {
+   "text": "SINK",
+   "conf": 0.94
+  },
+  {
+   "text": "TAF",
+   "conf": 0.81
+  },
+  {
+   "text": "TFOTAL",
+   "conf": 0.11
+  },
+  {
+   "text": "QUANTITY",
+   "conf": 0.92
+  },
+  {
+   "text": "1",
+   "conf": 0.67
+  },
+  {
+   "text": "SUB-TOTAL",
+   "conf": 0.94
+  },
+  {
+   "text": "{GST}",
+   "conf": 0.82
+  },
+  {
+   "text": "36.00",
+   "conf": 0.63
+  },
+  {
+   "text": "JISE",
+   "conf": 0.43
+  },
+  {
+   "text": "0.08",
+   "conf": 0.67
+  },
+  {
+   "text": "ROUNDING",
+   "conf": 0.18
+  },
+  {
+   "text": "0.60",
+   "conf": 0.65
+  },
+  {
+   "text": "TETat",
+   "conf": 0.33
+  },
+  {
+   "text": "40.06",
+   "conf": 0.8
+  },
+  {
+   "text": "CASH",
+   "conf": 0.93
+  },
+  {
+   "text": ":",
+   "conf": 0.05
+  },
+  {
+   "text": "30.00",
+   "conf": 0.79
+  },
+  {
+   "text": "-",
+   "conf": 0.0
+  },
+  {
+   "text": "CHANGE",
+   "conf": 0.62
+  },
+  {
+   "text": "o.0G",
+   "conf": 0.06
+  },
+  {
+   "text": "GST",
+   "conf": 0.64
+  },
+  {
+   "text": "@",
+   "conf": 0.89
+  },
+  {
+   "text": "6%",
+   "conf": 0.9
+  },
+  {
+   "text": "INCLUDE",
+   "conf": 0.39
+  },
+  {
+   "text": "IN",
+   "conf": 0.94
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.96
+  },
+  {
+   "text": "GST",
+   "conf": 0.94
+  },
+  {
+   "text": "SUMMARY",
+   "conf": 0.94
+  },
+  {
+   "text": "CORE",
+   "conf": 0.34
+  },
+  {
+   "text": "AMOUNT",
+   "conf": 0.52
+  },
+  {
+   "text": "z",
+   "conf": 0.12
+  },
+  {
+   "text": "TAX/ANT",
+   "conf": 0.61
+  },
+  {
+   "text": "SR",
+   "conf": 0.68
+  },
+  {
+   "text": "28.30",
+   "conf": 0.78
+  },
+  {
+   "text": "é",
+   "conf": 0.65
+  },
+  {
+   "text": "1.70",
+   "conf": 0.79
+  },
+  {
+   "text": "TAX",
+   "conf": 0.94
+  },
+  {
+   "text": "TOTAL:",
+   "conf": 0.89
+  },
+  {
+   "text": "1.70",
+   "conf": 0.89
+  },
+  {
+   "text": "GODS",
+   "conf": 0.71
+  },
+  {
+   "text": "SOLD",
+   "conf": 0.95
+  },
+  {
+   "text": "ARE",
+   "conf": 0.38
+  },
+  {
+   "text": "NOT",
+   "conf": 0.91
+  },
+  {
+   "text": "RERUNDABLE,",
+   "conf": 0.52
+  },
+  {
+   "text": "THANE",
+   "conf": 0.76
+  },
+  {
+   "text": "YOU",
+   "conf": 0.94
+  },
+  {
+   "text": "ROR",
+   "conf": 0.77
+  },
+  {
+   "text": "CHOOSING",
+   "conf": 0.94
+  },
+  {
+   "text": "Us.",
+   "conf": 0.75
+  },
+  {
+   "text": "PLS",
+   "conf": 0.94
+  },
+  {
+   "text": "PROVIDE",
+   "conf": 0.95
+  },
+  {
+   "text": "ORIGINAL",
+   "conf": 0.91
+  },
+  {
+   "text": "BILL",
+   "conf": 0.96
+  },
+  {
+   "text": "PO",
+   "conf": 0.59
+  },
+  {
+   "text": "GooDS",
+   "conf": 0.67
+  },
+  {
+   "text": "EXCHANGE",
+   "conf": 0.95
+  },
+  {
+   "text": "WITHIN",
+   "conf": 0.69
+  },
+  {
+   "text": "i",
+   "conf": 0.79
+  },
+  {
+   "text": "WERE",
+   "conf": 0.34
+  },
+  {
+   "text": "PROM",
+   "conf": 0.62
+  },
+  {
+   "text": "TRANSacTion",
+   "conf": 0.33
+  },
+  {
+   "text": "GOODS",
+   "conf": 0.92
+  },
+  {
+   "text": "BUST",
+   "conf": 0.71
+  },
+  {
+   "text": "BE",
+   "conf": 0.95
+  },
+  {
+   "text": "IN",
+   "conf": 0.96
+  },
+  {
+   "text": "ORIGINAL",
+   "conf": 0.95
+  },
+  {
+   "text": "STATE",
+   "conf": 0.93
+  },
+  {
+   "text": "To",
+   "conf": 0.86
+  },
+  {
+   "text": "BE",
+   "conf": 0.82
+  },
+  {
+   "text": "ENTITLED",
+   "conf": 0.93
+  },
+  {
+   "text": "ROR",
+   "conf": 0.81
+  },
+  {
+   "text": "EXCHANGE.",
+   "conf": 0.62
+  }
+ ],
+ "mean_conf": 0.6206,
+ "low_conf_share": 0.3077,
+ "latency_ms": 2095,
+ "fields": {
+  "company": "ALK HUAT HARDBHARE ENTERPRISE SETI",
+  "date": "2017-09-12",
+  "total": 40.06
+ },
+ "rule_reasons": [
+  "total_no_keyword_fallback_max"
+ ],
+ "total_candidates": [
+  36.0,
+  0.08,
+  0.6,
+  40.06,
+  30.0,
+  28.3,
+  1.7,
+  1.7
+ ],
+ "key": "X51007339648"
+}

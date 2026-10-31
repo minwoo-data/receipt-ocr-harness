@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.6-flash",
+ "provider": "gemini",
+ "raw_text": "{\"vendor\": \"บริษัท ฟูจิ เอ็ม.บี.เค. เอ็นเตอร์เทนเม้นท์ จำกัด\", \"date\": \"2018-03-31\", \"subtotal\": 1090.0, \"tax\": 78.44, \"tip\": null, \"discount\": null, \"total\": 1199.0, \"currency\": \"THB\", \"confidence\": 0.98, \"notes\": \"Service charge of 109.00 (10%) is included in the total. VAT is included in the total.\"}",
+ "data": {
+  "vendor": "บริษัท ฟูจิ เอ็ม.บี.เค. เอ็นเตอร์เทนเม้นท์ จำกัด",
+  "date": "2018-03-31",
+  "subtotal": 1090.0,
+  "tax": 78.44,
+  "tip": null,
+  "discount": null,
+  "total": 1199.0,
+  "currency": "THB",
+  "confidence": 0.98,
+  "notes": "Service charge of 109.00 (10%) is included in the total. VAT is included in the total."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1458,
+  "output_tokens": 133,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.001592,
+ "latency_ms": 1506,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.6-flash",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.6-flash"
+ ],
+ "key": "W0027_952eb692fc85"
+}

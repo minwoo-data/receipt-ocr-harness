@@ -1,0 +1,392 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "CITY MILK",
+  "R&C VENTURE SGN BHD (1191015-W)",
+  "LOT-1BA-2, BERJAVA TIMES SQUARE,",
+  "KUALA LUMPUR .",
+  "(GST NO: 001857721088)",
+  "Tax Invoice",
+  "Order #:139358",
+  "INV No.: 539319",
+  "Date : 19-04-2018 13:43:54",
+  "Cashier: City Milk Cashier",
+  "Cescription Qty U.price Total TAX",
+  "Banana Milkshake(R)",
+  "x 9.50 9.50 SR",
+  "Total QTY: 1",
+  "Total (Excluding GST): 8.96",
+  "GST payable (6%): 0.54",
+  "Total (Inclusive of GST): $,50",
+  "CASH : 10.50)",
+  "CHANGE : 1.00",
+  "| GST Summary Amount (RM) = Tax(RM)",
+  "| SR (@ 6%) 8.96 0.54",
+  "exe Thank You #<*#",
+  "Please Come Again"
+ ],
+ "tokens": [
+  {
+   "text": "CITY",
+   "conf": 0.96
+  },
+  {
+   "text": "MILK",
+   "conf": 0.96
+  },
+  {
+   "text": "R&C",
+   "conf": 0.95
+  },
+  {
+   "text": "VENTURE",
+   "conf": 0.95
+  },
+  {
+   "text": "SGN",
+   "conf": 0.79
+  },
+  {
+   "text": "BHD",
+   "conf": 0.92
+  },
+  {
+   "text": "(1191015-W)",
+   "conf": 0.8
+  },
+  {
+   "text": "LOT-1BA-2,",
+   "conf": 0.77
+  },
+  {
+   "text": "BERJAVA",
+   "conf": 0.54
+  },
+  {
+   "text": "TIMES",
+   "conf": 0.89
+  },
+  {
+   "text": "SQUARE,",
+   "conf": 0.95
+  },
+  {
+   "text": "KUALA",
+   "conf": 0.92
+  },
+  {
+   "text": "LUMPUR",
+   "conf": 0.86
+  },
+  {
+   "text": ".",
+   "conf": 0.86
+  },
+  {
+   "text": "(GST",
+   "conf": 0.96
+  },
+  {
+   "text": "NO:",
+   "conf": 0.91
+  },
+  {
+   "text": "001857721088)",
+   "conf": 0.82
+  },
+  {
+   "text": "Tax",
+   "conf": 0.95
+  },
+  {
+   "text": "Invoice",
+   "conf": 0.94
+  },
+  {
+   "text": "Order",
+   "conf": 0.93
+  },
+  {
+   "text": "#:139358",
+   "conf": 0.91
+  },
+  {
+   "text": "INV",
+   "conf": 0.9
+  },
+  {
+   "text": "No.:",
+   "conf": 0.76
+  },
+  {
+   "text": "539319",
+   "conf": 0.96
+  },
+  {
+   "text": "Date",
+   "conf": 0.68
+  },
+  {
+   "text": ":",
+   "conf": 0.66
+  },
+  {
+   "text": "19-04-2018",
+   "conf": 0.96
+  },
+  {
+   "text": "13:43:54",
+   "conf": 0.92
+  },
+  {
+   "text": "Cashier:",
+   "conf": 0.96
+  },
+  {
+   "text": "City",
+   "conf": 0.96
+  },
+  {
+   "text": "Milk",
+   "conf": 0.96
+  },
+  {
+   "text": "Cashier",
+   "conf": 0.96
+  },
+  {
+   "text": "Cescription",
+   "conf": 0.91
+  },
+  {
+   "text": "Qty",
+   "conf": 0.68
+  },
+  {
+   "text": "U.price",
+   "conf": 0.68
+  },
+  {
+   "text": "Total",
+   "conf": 0.96
+  },
+  {
+   "text": "TAX",
+   "conf": 0.89
+  },
+  {
+   "text": "Banana",
+   "conf": 0.92
+  },
+  {
+   "text": "Milkshake(R)",
+   "conf": 0.77
+  },
+  {
+   "text": "x",
+   "conf": 0.58
+  },
+  {
+   "text": "9.50",
+   "conf": 0.81
+  },
+  {
+   "text": "9.50",
+   "conf": 0.94
+  },
+  {
+   "text": "SR",
+   "conf": 0.96
+  },
+  {
+   "text": "Total",
+   "conf": 0.96
+  },
+  {
+   "text": "QTY:",
+   "conf": 0.89
+  },
+  {
+   "text": "1",
+   "conf": 0.9
+  },
+  {
+   "text": "Total",
+   "conf": 0.96
+  },
+  {
+   "text": "(Excluding",
+   "conf": 0.96
+  },
+  {
+   "text": "GST):",
+   "conf": 0.95
+  },
+  {
+   "text": "8.96",
+   "conf": 0.86
+  },
+  {
+   "text": "GST",
+   "conf": 0.96
+  },
+  {
+   "text": "payable",
+   "conf": 0.96
+  },
+  {
+   "text": "(6%):",
+   "conf": 0.91
+  },
+  {
+   "text": "0.54",
+   "conf": 0.83
+  },
+  {
+   "text": "Total",
+   "conf": 0.96
+  },
+  {
+   "text": "(Inclusive",
+   "conf": 0.96
+  },
+  {
+   "text": "of",
+   "conf": 0.96
+  },
+  {
+   "text": "GST):",
+   "conf": 0.96
+  },
+  {
+   "text": "$,50",
+   "conf": 0.61
+  },
+  {
+   "text": "CASH",
+   "conf": 0.86
+  },
+  {
+   "text": ":",
+   "conf": 0.59
+  },
+  {
+   "text": "10.50)",
+   "conf": 0.72
+  },
+  {
+   "text": "CHANGE",
+   "conf": 0.91
+  },
+  {
+   "text": ":",
+   "conf": 0.91
+  },
+  {
+   "text": "1.00",
+   "conf": 0.84
+  },
+  {
+   "text": "|",
+   "conf": 0.71
+  },
+  {
+   "text": "GST",
+   "conf": 0.71
+  },
+  {
+   "text": "Summary",
+   "conf": 0.89
+  },
+  {
+   "text": "Amount",
+   "conf": 0.0
+  },
+  {
+   "text": "(RM)",
+   "conf": 0.0
+  },
+  {
+   "text": "=",
+   "conf": 0.25
+  },
+  {
+   "text": "Tax(RM)",
+   "conf": 0.51
+  },
+  {
+   "text": "|",
+   "conf": 0.56
+  },
+  {
+   "text": "SR",
+   "conf": 0.79
+  },
+  {
+   "text": "(@",
+   "conf": 0.91
+  },
+  {
+   "text": "6%)",
+   "conf": 0.94
+  },
+  {
+   "text": "8.96",
+   "conf": 0.91
+  },
+  {
+   "text": "0.54",
+   "conf": 0.92
+  },
+  {
+   "text": "exe",
+   "conf": 0.4
+  },
+  {
+   "text": "Thank",
+   "conf": 0.91
+  },
+  {
+   "text": "You",
+   "conf": 0.92
+  },
+  {
+   "text": "#<*#",
+   "conf": 0.0
+  },
+  {
+   "text": "Please",
+   "conf": 0.96
+  },
+  {
+   "text": "Come",
+   "conf": 0.88
+  },
+  {
+   "text": "Again",
+   "conf": 0.95
+  }
+ ],
+ "mean_conf": 0.8219,
+ "low_conf_share": 0.0588,
+ "latency_ms": 3370,
+ "fields": {
+  "company": "R C VENTURE SGN BHD",
+  "date": "2018-04-19",
+  "total": 10.5
+ },
+ "rule_reasons": [
+  "total_no_keyword_fallback_max"
+ ],
+ "total_candidates": [
+  9.5,
+  9.5,
+  8.96,
+  0.54,
+  10.5,
+  1.0,
+  8.96,
+  0.54
+ ],
+ "key": "X51006502533"
+}

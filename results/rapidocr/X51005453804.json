@@ -1,0 +1,217 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "3180303",
+  "UANHINGSTATIONERYSDNBHD",
+  "(162761-M)",
+  "NO.32&33.JALANSR1/9.SEKSYEN9.",
+  "TAMANSERDANGRAYA",
+  "43300SERIKEMBANGANSELANGOR",
+  "DARULEHSAN",
+  "GSTID:002139201536",
+  "TaxInvoice",
+  "27/03/2018 No:CS-20243",
+  "QtyTax RM",
+  "F/Castell187057.75Tack-k 2 SR 12.00",
+  "75g-White（new)@5.6600",
+  "Total AmtIncl.GST(o6%: 12.00",
+  "Rounding Adjustment:",
+  "Total AntPayable: 12.00",
+  "Paid Amount: 20.00",
+  "Change: 8.00",
+  "Total QtyTender: 2",
+  "GSTSummary Amount Tax",
+  "(RM) (RM)",
+  "SR@A 11.32 068",
+  "Total 11.32 0.68",
+  "THANKYOU",
+  "For anvenauirv.blease contactus:"
+ ],
+ "tokens": [
+  {
+   "text": "3180303",
+   "conf": 0.9988834347043719
+  },
+  {
+   "text": "UANHINGSTATIONERYSDNBHD",
+   "conf": 0.9741795555404995
+  },
+  {
+   "text": "(162761-M)",
+   "conf": 0.9565715014934539
+  },
+  {
+   "text": "NO.32&33.JALANSR1/9.SEKSYEN9.",
+   "conf": 0.9259877513194906
+  },
+  {
+   "text": "TAMANSERDANGRAYA",
+   "conf": 0.9899496510624886
+  },
+  {
+   "text": "43300SERIKEMBANGANSELANGOR",
+   "conf": 0.9862249195575714
+  },
+  {
+   "text": "DARULEHSAN",
+   "conf": 0.9911598861217499
+  },
+  {
+   "text": "GSTID:002139201536",
+   "conf": 0.9800188442071279
+  },
+  {
+   "text": "TaxInvoice",
+   "conf": 0.967971658706665
+  },
+  {
+   "text": "27/03/2018",
+   "conf": 0.9728737831115722
+  },
+  {
+   "text": "No:CS-20243",
+   "conf": 0.9832981391386553
+  },
+  {
+   "text": "QtyTax",
+   "conf": 0.968522181113561
+  },
+  {
+   "text": "RM",
+   "conf": 0.9927505254745483
+  },
+  {
+   "text": "F/Castell187057.75Tack-k",
+   "conf": 0.9446539059281349
+  },
+  {
+   "text": "2",
+   "conf": 0.9976353645324707
+  },
+  {
+   "text": "SR",
+   "conf": 0.9895962476730347
+  },
+  {
+   "text": "12.00",
+   "conf": 0.9987175107002259
+  },
+  {
+   "text": "75g-White（new)@5.6600",
+   "conf": 0.9429722995985121
+  },
+  {
+   "text": "Total AmtIncl.GST(o6%:",
+   "conf": 0.8612624637105248
+  },
+  {
+   "text": "12.00",
+   "conf": 0.9958494067192077
+  },
+  {
+   "text": "Rounding Adjustment:",
+   "conf": 0.9563692003488541
+  },
+  {
+   "text": "Total AntPayable:",
+   "conf": 0.9294101490693933
+  },
+  {
+   "text": "12.00",
+   "conf": 0.9983673810958862
+  },
+  {
+   "text": "Paid Amount:",
+   "conf": 0.9489463418722153
+  },
+  {
+   "text": "20.00",
+   "conf": 0.9987390756607055
+  },
+  {
+   "text": "Change:",
+   "conf": 0.9805842127118792
+  },
+  {
+   "text": "8.00",
+   "conf": 0.9982384294271469
+  },
+  {
+   "text": "Total QtyTender:",
+   "conf": 0.8971246778964996
+  },
+  {
+   "text": "2",
+   "conf": 0.9961583018302917
+  },
+  {
+   "text": "GSTSummary",
+   "conf": 0.9913609743118286
+  },
+  {
+   "text": "Amount",
+   "conf": 0.9946283102035522
+  },
+  {
+   "text": "Tax",
+   "conf": 0.9749678174654642
+  },
+  {
+   "text": "(RM)",
+   "conf": 0.9304674118757248
+  },
+  {
+   "text": "(RM)",
+   "conf": 0.907331645488739
+  },
+  {
+   "text": "SR@A",
+   "conf": 0.9727051556110382
+  },
+  {
+   "text": "11.32",
+   "conf": 0.9919932007789611
+  },
+  {
+   "text": "068",
+   "conf": 0.9913729627927145
+  },
+  {
+   "text": "Total",
+   "conf": 0.9925225138664245
+  },
+  {
+   "text": "11.32",
+   "conf": 0.9976082801818847
+  },
+  {
+   "text": "0.68",
+   "conf": 0.9975872486829758
+  },
+  {
+   "text": "THANKYOU",
+   "conf": 0.9963199645280838
+  },
+  {
+   "text": "For anvenauirv.blease contactus:",
+   "conf": 0.9379156809300184
+  }
+ ],
+ "mean_conf": 0.9714,
+ "low_conf_share": 0.0,
+ "latency_ms": 3328,
+ "fields": {
+  "company": "UANHINGSTATIONERYSDNBHD",
+  "date": "2018-03-27",
+  "total": 0.68
+ },
+ "rule_reasons": [
+  "total_multiple_keyword_amounts"
+ ],
+ "total_candidates": [
+  12.0,
+  12.0,
+  0.68
+ ],
+ "key": "X51005453804"
+}

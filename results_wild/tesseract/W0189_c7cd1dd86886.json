@@ -1,0 +1,431 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "age",
+  "BUY ONE GET ONE FREE QUARTER POUNDER yee",
+  "W/CHEESE OR EGG MOMUFFIN See",
+  "60 to wiw.medvoica.com within 7 days ae",
+  "and tell us about your visit eae",
+  "Validation Code: eae",
+  "Expires 30 days after receipt date. Pics",
+  "Valid at participating US McDonald's ees",
+  "Survey code: eae",
+  "35687-03490-63017-12088-00023-4 Rae",
+  "NeDonald’s Restaurant #35667 ee,",
+  "HARTSFIE_D AIRPORT eas",
+  "ATLANTA,GA 30320 CMe",
+  "TEL 404 753 4125 Cae",
+  "KS#3 05/30/2017.-12:09.AM, ties",
+  "Crder 49 es",
+  "1 L French Fries 2.19 ie",
+  "sate) 015 a",
+  "aS 2.34 :",
+  "Take-Out Total ae eee:",
+  "Cashless 0.00 eels",
+  "Change. oe i",
+  "MERH 148785 een age"
+ ],
+ "tokens": [
+  {
+   "text": "age",
+   "conf": 0.11
+  },
+  {
+   "text": "BUY",
+   "conf": 0.94
+  },
+  {
+   "text": "ONE",
+   "conf": 0.94
+  },
+  {
+   "text": "GET",
+   "conf": 0.96
+  },
+  {
+   "text": "ONE",
+   "conf": 0.95
+  },
+  {
+   "text": "FREE",
+   "conf": 0.93
+  },
+  {
+   "text": "QUARTER",
+   "conf": 0.95
+  },
+  {
+   "text": "POUNDER",
+   "conf": 0.94
+  },
+  {
+   "text": "yee",
+   "conf": 0.21
+  },
+  {
+   "text": "W/CHEESE",
+   "conf": 0.92
+  },
+  {
+   "text": "OR",
+   "conf": 0.9
+  },
+  {
+   "text": "EGG",
+   "conf": 0.87
+  },
+  {
+   "text": "MOMUFFIN",
+   "conf": 0.2
+  },
+  {
+   "text": "See",
+   "conf": 0.37
+  },
+  {
+   "text": "60",
+   "conf": 0.63
+  },
+  {
+   "text": "to",
+   "conf": 0.89
+  },
+  {
+   "text": "wiw.medvoica.com",
+   "conf": 0.15
+  },
+  {
+   "text": "within",
+   "conf": 0.85
+  },
+  {
+   "text": "7",
+   "conf": 0.9
+  },
+  {
+   "text": "days",
+   "conf": 0.9
+  },
+  {
+   "text": "ae",
+   "conf": 0.12
+  },
+  {
+   "text": "and",
+   "conf": 0.92
+  },
+  {
+   "text": "tell",
+   "conf": 0.84
+  },
+  {
+   "text": "us",
+   "conf": 0.95
+  },
+  {
+   "text": "about",
+   "conf": 0.91
+  },
+  {
+   "text": "your",
+   "conf": 0.96
+  },
+  {
+   "text": "visit",
+   "conf": 0.96
+  },
+  {
+   "text": "eae",
+   "conf": 0.28
+  },
+  {
+   "text": "Validation",
+   "conf": 0.96
+  },
+  {
+   "text": "Code:",
+   "conf": 0.57
+  },
+  {
+   "text": "eae",
+   "conf": 0.21
+  },
+  {
+   "text": "Expires",
+   "conf": 0.96
+  },
+  {
+   "text": "30",
+   "conf": 0.95
+  },
+  {
+   "text": "days",
+   "conf": 0.96
+  },
+  {
+   "text": "after",
+   "conf": 0.96
+  },
+  {
+   "text": "receipt",
+   "conf": 0.44
+  },
+  {
+   "text": "date.",
+   "conf": 0.92
+  },
+  {
+   "text": "Pics",
+   "conf": 0.08
+  },
+  {
+   "text": "Valid",
+   "conf": 0.96
+  },
+  {
+   "text": "at",
+   "conf": 0.96
+  },
+  {
+   "text": "participating",
+   "conf": 0.96
+  },
+  {
+   "text": "US",
+   "conf": 0.91
+  },
+  {
+   "text": "McDonald's",
+   "conf": 0.52
+  },
+  {
+   "text": "ees",
+   "conf": 0.34
+  },
+  {
+   "text": "Survey",
+   "conf": 0.94
+  },
+  {
+   "text": "code:",
+   "conf": 0.92
+  },
+  {
+   "text": "eae",
+   "conf": 0.32
+  },
+  {
+   "text": "35687-03490-63017-12088-00023-4",
+   "conf": 0.21
+  },
+  {
+   "text": "Rae",
+   "conf": 0.0
+  },
+  {
+   "text": "NeDonald’s",
+   "conf": 0.35
+  },
+  {
+   "text": "Restaurant",
+   "conf": 0.95
+  },
+  {
+   "text": "#35667",
+   "conf": 0.75
+  },
+  {
+   "text": "ee,",
+   "conf": 0.31
+  },
+  {
+   "text": "HARTSFIE_D",
+   "conf": 0.83
+  },
+  {
+   "text": "AIRPORT",
+   "conf": 0.93
+  },
+  {
+   "text": "eas",
+   "conf": 0.15
+  },
+  {
+   "text": "ATLANTA,GA",
+   "conf": 0.81
+  },
+  {
+   "text": "30320",
+   "conf": 0.93
+  },
+  {
+   "text": "CMe",
+   "conf": 0.33
+  },
+  {
+   "text": "TEL",
+   "conf": 0.0
+  },
+  {
+   "text": "404",
+   "conf": 0.66
+  },
+  {
+   "text": "753",
+   "conf": 0.32
+  },
+  {
+   "text": "4125",
+   "conf": 0.62
+  },
+  {
+   "text": "Cae",
+   "conf": 0.13
+  },
+  {
+   "text": "KS#3",
+   "conf": 0.0
+  },
+  {
+   "text": "05/30/2017.-12:09.AM,",
+   "conf": 0.0
+  },
+  {
+   "text": "ties",
+   "conf": 0.17
+  },
+  {
+   "text": "Crder",
+   "conf": 0.47
+  },
+  {
+   "text": "49",
+   "conf": 0.77
+  },
+  {
+   "text": "es",
+   "conf": 0.25
+  },
+  {
+   "text": "1",
+   "conf": 0.6
+  },
+  {
+   "text": "L",
+   "conf": 0.6
+  },
+  {
+   "text": "French",
+   "conf": 0.96
+  },
+  {
+   "text": "Fries",
+   "conf": 0.96
+  },
+  {
+   "text": "2.19",
+   "conf": 0.94
+  },
+  {
+   "text": "ie",
+   "conf": 0.45
+  },
+  {
+   "text": "sate)",
+   "conf": 0.21
+  },
+  {
+   "text": "015",
+   "conf": 0.79
+  },
+  {
+   "text": "a",
+   "conf": 0.31
+  },
+  {
+   "text": "aS",
+   "conf": 0.05
+  },
+  {
+   "text": "2.34",
+   "conf": 0.84
+  },
+  {
+   "text": ":",
+   "conf": 0.4
+  },
+  {
+   "text": "Take-Out",
+   "conf": 0.82
+  },
+  {
+   "text": "Total",
+   "conf": 0.91
+  },
+  {
+   "text": "ae",
+   "conf": 0.31
+  },
+  {
+   "text": "eee:",
+   "conf": 0.24
+  },
+  {
+   "text": "Cashless",
+   "conf": 0.8
+  },
+  {
+   "text": "0.00",
+   "conf": 0.95
+  },
+  {
+   "text": "eels",
+   "conf": 0.06
+  },
+  {
+   "text": "Change.",
+   "conf": 0.78
+  },
+  {
+   "text": "oe",
+   "conf": 0.24
+  },
+  {
+   "text": "i",
+   "conf": 0.64
+  },
+  {
+   "text": "MERH",
+   "conf": 0.34
+  },
+  {
+   "text": "148785",
+   "conf": 0.95
+  },
+  {
+   "text": "een",
+   "conf": 0.28
+  },
+  {
+   "text": "age",
+   "conf": 0.11
+  }
+ ],
+ "mean_conf": 0.6122,
+ "low_conf_share": 0.3958,
+ "latency_ms": 987,
+ "fields": {
+  "company": "AGE",
+  "date": "2017-05-30",
+  "total": 2.34
+ },
+ "rule_reasons": [
+  "total_no_keyword_fallback_max"
+ ],
+ "total_candidates": [
+  2.19,
+  2.34,
+  0.0
+ ],
+ "key": "W0189_c7cd1dd86886"
+}

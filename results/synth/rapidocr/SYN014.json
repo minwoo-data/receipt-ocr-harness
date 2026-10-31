@@ -1,0 +1,112 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "GREENLEAFGROCERSDNBHD",
+  "12JALANTUN RAZAK，50400 KUALALUMPUR",
+  "TAXINVOICE",
+  "Date:07/04/2024Time:13:42",
+  "3X BALLP0INTPEN3PK 17.70",
+  "3XPANAD0L10S 20.40",
+  "SUBTOTAL 38.10",
+  "GST 6% 2.29",
+  "TOTAL 140.39",
+  "CASH 145.39",
+  "CHANGE 5.00",
+  "THANK YOU,PLEASE COME AGAIN"
+ ],
+ "tokens": [
+  {
+   "text": "GREENLEAFGROCERSDNBHD",
+   "conf": 0.9954627298173451
+  },
+  {
+   "text": "12JALANTUN RAZAK，50400 KUALALUMPUR",
+   "conf": 0.9341536146752975
+  },
+  {
+   "text": "TAXINVOICE",
+   "conf": 0.996482890844345
+  },
+  {
+   "text": "Date:07/04/2024Time:13:42",
+   "conf": 0.9837605333328248
+  },
+  {
+   "text": "17.70",
+   "conf": 0.9990468621253967
+  },
+  {
+   "text": "3X",
+   "conf": 0.7336021810770035
+  },
+  {
+   "text": "BALLP0INTPEN3PK",
+   "conf": 0.972225817044576
+  },
+  {
+   "text": "20.40",
+   "conf": 0.9995022416114807
+  },
+  {
+   "text": "3XPANAD0L10S",
+   "conf": 0.9810802986224493
+  },
+  {
+   "text": "38.10",
+   "conf": 0.9982862353324891
+  },
+  {
+   "text": "SUBTOTAL",
+   "conf": 0.9961565211415291
+  },
+  {
+   "text": "2.29",
+   "conf": 0.9977347403764725
+  },
+  {
+   "text": "GST 6%",
+   "conf": 0.9205864866574606
+  },
+  {
+   "text": "140.39",
+   "conf": 0.998973548412323
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.9898044228553772
+  },
+  {
+   "text": "145.39",
+   "conf": 0.9994381864865621
+  },
+  {
+   "text": "CASH",
+   "conf": 0.9959500432014465
+  },
+  {
+   "text": "5.00",
+   "conf": 0.9972002059221268
+  },
+  {
+   "text": "CHANGE",
+   "conf": 0.9970561663309733
+  },
+  {
+   "text": "THANK YOU,PLEASE COME AGAIN",
+   "conf": 0.9346747861968147
+  }
+ ],
+ "mean_conf": 0.9711,
+ "low_conf_share": 0.0,
+ "latency_ms": 24570,
+ "fields": {
+  "company": "GREENLEAFGROCERSDNBHD",
+  "date": "2024-04-07",
+  "total": 140.39
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  140.39
+ ],
+ "key": "SYN014"
+}

@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.1-flash-lite",
+ "provider": "gemini",
+ "raw_text": "{\n  \"vendor\": \"10 GRAM Gourmet Sbn Bhd\",\n  \"date\": \"2018-06-11\",\n  \"subtotal\": 15.0,\n  \"tax\": 0.0,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 15.0,\n  \"currency\": \"MYR\",\n  \"confidence\": 0.98,\n  \"notes\": null\n}",
+ "data": {
+  "vendor": "10 GRAM Gourmet Sbn Bhd",
+  "date": "2018-06-11",
+  "subtotal": 15.0,
+  "tax": 0.0,
+  "tip": null,
+  "discount": null,
+  "total": 15.0,
+  "currency": "MYR",
+  "confidence": 0.98,
+  "notes": null
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1469,
+  "output_tokens": 107,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.000528,
+ "latency_ms": 1450,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.1-flash-lite",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.1-flash-lite"
+ ],
+ "key": "X51008099054"
+}

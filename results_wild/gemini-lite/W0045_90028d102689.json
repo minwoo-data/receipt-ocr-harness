@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.1-flash-lite",
+ "provider": "gemini",
+ "raw_text": "{\n  \"vendor\": \"WESTERN & IRVI\",\n  \"date\": \"2011-02-05\",\n  \"subtotal\": null,\n  \"tax\": null,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 3.57,\n  \"currency\": \"USD\",\n  \"confidence\": 0.95,\n  \"notes\": null\n}",
+ "data": {
+  "vendor": "WESTERN & IRVI",
+  "date": "2011-02-05",
+  "subtotal": null,
+  "tax": null,
+  "tip": null,
+  "discount": null,
+  "total": 3.57,
+  "currency": "USD",
+  "confidence": 0.95,
+  "notes": null
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1450,
+  "output_tokens": 97,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.000508,
+ "latency_ms": 1558,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.1-flash-lite",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.1-flash-lite"
+ ],
+ "key": "W0045_90028d102689"
+}

@@ -1,0 +1,58 @@
+{
+ "engine": "gemini-3.6-flash",
+ "provider": "gemini",
+ "raw_text": "{\"vendor\": \"Yam Fresh\", \"date\": \"2018-03-18\", \"subtotal\": null, \"tax\": 1.66, \"tip\": null, \"discount\": null, \"total\": 29.30, \"currency\": \"MYR\", \"confidence\": 0.98, \"notes\": null}",
+ "data": {
+  "vendor": "Yam Fresh",
+  "date": "2018-03-18",
+  "subtotal": null,
+  "tax": 1.66,
+  "tip": null,
+  "discount": null,
+  "total": 29.3,
+  "currency": "MYR",
+  "confidence": 0.98,
+  "notes": null
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1473,
+  "output_tokens": 78,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.001397,
+ "latency_ms": 13165,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.6-flash",
+   "ok": false,
+   "error": "429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
+   "attempt": 1,
+   "config": 0
+  },
+  {
+   "provider": "gemini",
+   "model": "gemini-3.6-flash",
+   "ok": false,
+   "error": "429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
+   "attempt": 2,
+   "config": 0
+  },
+  {
+   "provider": "gemini",
+   "model": "gemini-3.6-flash",
+   "ok": true,
+   "error": null,
+   "attempt": 3,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.6-flash"
+ ],
+ "key": "X51005719904"
+}

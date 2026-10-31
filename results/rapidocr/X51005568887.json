@@ -1,0 +1,228 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "HONHWAHARDWARETRADING",
+  "Company Reg.No.:001055194X",
+  "NO 37,JALANMANIS7,TAMAN SEGAR",
+  "56100CHERAS,KUALALUMPUR.",
+  "+603-91302672",
+  "GST Reg:001125220352",
+  "TAXNVOICE",
+  "CB#:75588 26/04/201711:0138AM",
+  "M#:C2-0",
+  "Cashier:cash1",
+  "Oty Descniption Price Tota(RM,",
+  "1.23/4\"ALUMNIUMROD 6.00 7.20 SR",
+  "ItemDscount 0.00",
+  "1.2Type:1 Total 7.20",
+  "Discount: 0.00",
+  "Rounding Adi 0.00",
+  "Total Inclusive GST: 7.20",
+  "CASH 7.20",
+  "GST Summary",
+  "Code % Nel Amt GST Total(RM)",
+  "SR SR 6.79 0.41 7.20",
+  "619 041 7.20",
+  "Thankyou! &Please come again!!",
+  "Goodssoldarenoirebnablefor rehundorexchange!!"
+ ],
+ "tokens": [
+  {
+   "text": "HONHWAHARDWARETRADING",
+   "conf": 0.9895401568639846
+  },
+  {
+   "text": "Company Reg.No.:001055194X",
+   "conf": 0.9397655633779672
+  },
+  {
+   "text": "NO 37,JALANMANIS7,TAMAN SEGAR",
+   "conf": 0.9317795932292938
+  },
+  {
+   "text": "56100CHERAS,KUALALUMPUR.",
+   "conf": 0.9450467576583227
+  },
+  {
+   "text": "+603-91302672",
+   "conf": 0.9979981917601365
+  },
+  {
+   "text": "GST Reg:001125220352",
+   "conf": 0.9608020663261414
+  },
+  {
+   "text": "TAXNVOICE",
+   "conf": 0.9837452040778266
+  },
+  {
+   "text": "CB#:75588",
+   "conf": 0.9705989691946242
+  },
+  {
+   "text": "26/04/201711:0138AM",
+   "conf": 0.9406080528309471
+  },
+  {
+   "text": "M#:C2-0",
+   "conf": 0.9565871017319816
+  },
+  {
+   "text": "Cashier:cash1",
+   "conf": 0.9431615884487445
+  },
+  {
+   "text": "Oty Descniption",
+   "conf": 0.8663544813791911
+  },
+  {
+   "text": "Price",
+   "conf": 0.9683647871017456
+  },
+  {
+   "text": "Tota(RM,",
+   "conf": 0.8385642468929291
+  },
+  {
+   "text": "1.23/4\"ALUMNIUMROD",
+   "conf": 0.9074631035327911
+  },
+  {
+   "text": "6.00",
+   "conf": 0.9980423897504807
+  },
+  {
+   "text": "7.20 SR",
+   "conf": 0.9113102810723441
+  },
+  {
+   "text": "ItemDscount",
+   "conf": 0.931491266597401
+  },
+  {
+   "text": "0.00",
+   "conf": 0.8855276256799698
+  },
+  {
+   "text": "1.2Type:1",
+   "conf": 0.9756884045071073
+  },
+  {
+   "text": "Total",
+   "conf": 0.9610141396522522
+  },
+  {
+   "text": "7.20",
+   "conf": 0.994543731212616
+  },
+  {
+   "text": "Discount:",
+   "conf": 0.9196425676345825
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9887492507696152
+  },
+  {
+   "text": "Rounding Adi",
+   "conf": 0.9604681233565012
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9898006767034531
+  },
+  {
+   "text": "Total Inclusive GST:",
+   "conf": 0.9363120466470718
+  },
+  {
+   "text": "7.20",
+   "conf": 0.9997052699327469
+  },
+  {
+   "text": "CASH",
+   "conf": 0.9978038519620895
+  },
+  {
+   "text": "7.20",
+   "conf": 0.9995743930339813
+  },
+  {
+   "text": "GST Summary",
+   "conf": 0.9675240191546354
+  },
+  {
+   "text": "Code",
+   "conf": 0.9929940551519394
+  },
+  {
+   "text": "%",
+   "conf": 0.974493682384491
+  },
+  {
+   "text": "Nel Amt",
+   "conf": 0.7801742681435176
+  },
+  {
+   "text": "GST",
+   "conf": 0.975149134794871
+  },
+  {
+   "text": "Total(RM)",
+   "conf": 0.924496935473548
+  },
+  {
+   "text": "SR",
+   "conf": 0.9948398768901825
+  },
+  {
+   "text": "SR",
+   "conf": 0.9920494258403778
+  },
+  {
+   "text": "6.79",
+   "conf": 0.9974444806575775
+  },
+  {
+   "text": "0.41",
+   "conf": 0.9532947391271591
+  },
+  {
+   "text": "7.20",
+   "conf": 0.9253317266702652
+  },
+  {
+   "text": "619",
+   "conf": 0.7557748754819235
+  },
+  {
+   "text": "041",
+   "conf": 0.9864754478136698
+  },
+  {
+   "text": "7.20",
+   "conf": 0.9136142283678055
+  },
+  {
+   "text": "Thankyou! &Please come again!!",
+   "conf": 0.9210321346918742
+  },
+  {
+   "text": "Goodssoldarenoirebnablefor rehundorexchange!!",
+   "conf": 0.8822384668721093
+  }
+ ],
+ "mean_conf": 0.9462,
+ "low_conf_share": 0.0,
+ "latency_ms": 4197,
+ "fields": {
+  "company": "HONHWAHARDWARETRADING",
+  "date": "2017-04-26",
+  "total": 7.2
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  7.2
+ ],
+ "key": "X51005568887"
+}

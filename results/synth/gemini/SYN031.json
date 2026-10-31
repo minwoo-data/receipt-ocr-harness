@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.6-flash",
+ "provider": "gemini",
+ "raw_text": "{\"vendor\": \"RAPID WHEELS AUTO SERVICE\", \"date\": \"2024-05-25\", \"subtotal\": 82.3, \"tax\": 4.94, \"tip\": null, \"discount\": null, \"total\": 87.24, \"currency\": \"MYR\", \"confidence\": 0.95, \"notes\": \"Currency inferred as MYR from address (Jalan Klang Lama) and GST tax rate.\"}",
+ "data": {
+  "vendor": "RAPID WHEELS AUTO SERVICE",
+  "date": "2024-05-25",
+  "subtotal": 82.3,
+  "tax": 4.94,
+  "tip": null,
+  "discount": null,
+  "total": 87.24,
+  "currency": "MYR",
+  "confidence": 0.95,
+  "notes": "Currency inferred as MYR from address (Jalan Klang Lama) and GST tax rate."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1457,
+  "output_tokens": 104,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.001483,
+ "latency_ms": 1987,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.6-flash",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.6-flash"
+ ],
+ "key": "SYN031"
+}

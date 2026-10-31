@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.6-flash",
+ "provider": "gemini",
+ "raw_text": "{\"vendor\": \"Walgreens\", \"date\": \"2017-06-16\", \"subtotal\": 250.0, \"tax\": null, \"tip\": null, \"discount\": null, \"total\": 250.0, \"currency\": \"USD\", \"confidence\": 0.98, \"notes\": null}",
+ "data": {
+  "vendor": "Walgreens",
+  "date": "2017-06-16",
+  "subtotal": 250.0,
+  "tax": null,
+  "tip": null,
+  "discount": null,
+  "total": 250.0,
+  "currency": "USD",
+  "confidence": 0.98,
+  "notes": null
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1433,
+  "output_tokens": 80,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.001375,
+ "latency_ms": 1837,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.6-flash",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.6-flash"
+ ],
+ "key": "W0128_51d4b79aa2f3"
+}

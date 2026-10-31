@@ -1,0 +1,257 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "SANYUSTATIONERYSHOP",
+  "NO.31G&33G,JALANSETIAINDAHX,U13/X",
+  "40170SETIAALAM",
+  "Mobile/Whatsapps:+6012-9187937",
+  "Tel:+603-33624137",
+  "GSTIDNo:001531760640 TAXINVOICE",
+  "Owned By:",
+  "SANYUSUPPLYSDNBHD(1135772-K)",
+  "CASHSALESCOUNTER",
+  "1.2044-0137 ARTLINEEG-40GLUESTICK",
+  "40G",
+  "1X5.6000 5.60SR",
+  "2.2000-0002 IKYELLOWSIMILIPAPER-A4",
+  "70GSM(450's/REAM)",
+  "1X10.9000 10.90 SR",
+  "TotalSalesInclusiveGST@6% 16.50",
+  "Discount 0.00",
+  "Total 16.50",
+  "Round Adj 0.00",
+  "Final Total 16.50",
+  "CASH 50.00",
+  "CHANGE 33.50",
+  "GSTSummary Amount(RM) Tax(RM)",
+  "SR@6% 15.57 0.93",
+  "INVNO:CS-SA-0074397 Date:28/03/2017",
+  "GoodssoldarenotReturnable&Refundable",
+  "THANKYOUFORYOURPATRONAGE",
+  "PLEASECOMEAGAIN.",
+  "TERIMAKASIHSILADATANGLAGI",
+  "**PLEASEKEEPTHISRECEIPTFORPROVEOF",
+  "PURCHASEDATEFORI.TPRODUCTWARRANTY",
+  "PURPOSE**",
+  "Follow usin Facebook:Sanyu.Stationery"
+ ],
+ "tokens": [
+  {
+   "text": "SANYUSTATIONERYSHOP",
+   "conf": 0.9918651643552279
+  },
+  {
+   "text": "NO.31G&33G,JALANSETIAINDAHX,U13/X",
+   "conf": 0.9496092796325684
+  },
+  {
+   "text": "40170SETIAALAM",
+   "conf": 0.9886962260518756
+  },
+  {
+   "text": "Mobile/Whatsapps:+6012-9187937",
+   "conf": 0.9861322522163392
+  },
+  {
+   "text": "Tel:+603-33624137",
+   "conf": 0.9910284526207868
+  },
+  {
+   "text": "GSTIDNo:001531760640",
+   "conf": 0.9711547136306763
+  },
+  {
+   "text": "TAXINVOICE",
+   "conf": 0.9937867820262909
+  },
+  {
+   "text": "Owned By:",
+   "conf": 0.9214657015270658
+  },
+  {
+   "text": "SANYUSUPPLYSDNBHD(1135772-K)",
+   "conf": 0.9819470856870923
+  },
+  {
+   "text": "CASHSALESCOUNTER",
+   "conf": 0.9932627715170383
+  },
+  {
+   "text": "1.2044-0137",
+   "conf": 0.9961418021808971
+  },
+  {
+   "text": "ARTLINEEG-40GLUESTICK",
+   "conf": 0.9678304365703038
+  },
+  {
+   "text": "40G",
+   "conf": 0.9960764050483704
+  },
+  {
+   "text": "1X5.6000",
+   "conf": 0.9484882950782776
+  },
+  {
+   "text": "5.60SR",
+   "conf": 0.9938319027423859
+  },
+  {
+   "text": "2.2000-0002",
+   "conf": 0.9974470246921886
+  },
+  {
+   "text": "IKYELLOWSIMILIPAPER-A4",
+   "conf": 0.9888327799060128
+  },
+  {
+   "text": "70GSM(450's/REAM)",
+   "conf": 0.935020832454457
+  },
+  {
+   "text": "1X10.9000",
+   "conf": 0.9822666181458367
+  },
+  {
+   "text": "10.90",
+   "conf": 0.9988229274749756
+  },
+  {
+   "text": "SR",
+   "conf": 0.9877210259437561
+  },
+  {
+   "text": "TotalSalesInclusiveGST@6%",
+   "conf": 0.9727244424819946
+  },
+  {
+   "text": "16.50",
+   "conf": 0.998561680316925
+  },
+  {
+   "text": "Discount",
+   "conf": 0.9952969253063202
+  },
+  {
+   "text": "0.00",
+   "conf": 0.998163640499115
+  },
+  {
+   "text": "Total",
+   "conf": 0.9912391424179077
+  },
+  {
+   "text": "16.50",
+   "conf": 0.9984866619110108
+  },
+  {
+   "text": "Round Adj",
+   "conf": 0.9524395134713914
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9983938187360764
+  },
+  {
+   "text": "Final Total",
+   "conf": 0.9431251937692816
+  },
+  {
+   "text": "16.50",
+   "conf": 0.9980324745178223
+  },
+  {
+   "text": "CASH",
+   "conf": 0.9943477660417557
+  },
+  {
+   "text": "50.00",
+   "conf": 0.9991359114646912
+  },
+  {
+   "text": "CHANGE",
+   "conf": 0.9924535155296326
+  },
+  {
+   "text": "33.50",
+   "conf": 0.9980258822441102
+  },
+  {
+   "text": "GSTSummary",
+   "conf": 0.9947439670562744
+  },
+  {
+   "text": "Amount(RM)",
+   "conf": 0.9618274390697479
+  },
+  {
+   "text": "Tax(RM)",
+   "conf": 0.8886674387114388
+  },
+  {
+   "text": "SR@6%",
+   "conf": 0.9961905002593994
+  },
+  {
+   "text": "15.57",
+   "conf": 0.9982962369918823
+  },
+  {
+   "text": "0.93",
+   "conf": 0.9986320734024048
+  },
+  {
+   "text": "INVNO:CS-SA-0074397",
+   "conf": 0.9919648672405043
+  },
+  {
+   "text": "Date:28/03/2017",
+   "conf": 0.9785293618837992
+  },
+  {
+   "text": "GoodssoldarenotReturnable&Refundable",
+   "conf": 0.9876139031516181
+  },
+  {
+   "text": "THANKYOUFORYOURPATRONAGE",
+   "conf": 0.9937243064244589
+  },
+  {
+   "text": "PLEASECOMEAGAIN.",
+   "conf": 0.9867561794817448
+  },
+  {
+   "text": "TERIMAKASIHSILADATANGLAGI",
+   "conf": 0.9823311018943787
+  },
+  {
+   "text": "**PLEASEKEEPTHISRECEIPTFORPROVEOF",
+   "conf": 0.97060601458405
+  },
+  {
+   "text": "PURCHASEDATEFORI.TPRODUCTWARRANTY",
+   "conf": 0.9841773835095492
+  },
+  {
+   "text": "PURPOSE**",
+   "conf": 0.9826228088802762
+  },
+  {
+   "text": "Follow usin Facebook:Sanyu.Stationery",
+   "conf": 0.9702235943562275
+  }
+ ],
+ "mean_conf": 0.9815,
+ "low_conf_share": 0.0,
+ "latency_ms": 5878,
+ "fields": {
+  "company": "SANYUSTATIONERYSHOP",
+  "date": "2017-03-28",
+  "total": 16.5
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  16.5
+ ],
+ "key": "X51007339146"
+}

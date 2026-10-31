@@ -1,0 +1,116 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "TARGET",
+  "EXPECT MORE.PAY LESS:",
+  "HARDWARE-AUTOMOTIVE",
+  "085020984 LIGHT BULBS $99.98",
+  "Regular Price $139.98",
+  "SUBTOTAL $99.98",
+  "T=FLTAX7.0000%on $99.98 $7.00",
+  "TOTAL $106.98",
+  "VISA CHARGE $106.98",
+  "AID:A0000000031010",
+  "VISA CREDIT",
+  "REC#2-7268-1038-0126-5183-7 VCD#752-250-432",
+  "We make",
+  "the grade?"
+ ],
+ "tokens": [
+  {
+   "text": "TARGET",
+   "conf": 0.9515129029750824
+  },
+  {
+   "text": "EXPECT MORE.PAY LESS:",
+   "conf": 0.9172231327919733
+  },
+  {
+   "text": "HARDWARE-AUTOMOTIVE",
+   "conf": 0.9760773432882208
+  },
+  {
+   "text": "085020984",
+   "conf": 0.9993124537997775
+  },
+  {
+   "text": "LIGHT BULBS",
+   "conf": 0.9777560342441906
+  },
+  {
+   "text": "$99.98",
+   "conf": 0.9991038739681244
+  },
+  {
+   "text": "Regular Price $139.98",
+   "conf": 0.9717953943070912
+  },
+  {
+   "text": "SUBTOTAL",
+   "conf": 0.9831565991044044
+  },
+  {
+   "text": "$99.98",
+   "conf": 0.9996883571147919
+  },
+  {
+   "text": "T=FLTAX7.0000%on",
+   "conf": 0.9371783994138241
+  },
+  {
+   "text": "$99.98",
+   "conf": 0.9963415960470835
+  },
+  {
+   "text": "$7.00",
+   "conf": 0.9982245087623596
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.9882025003433228
+  },
+  {
+   "text": "$106.98",
+   "conf": 0.9978982891355243
+  },
+  {
+   "text": "VISA CHARGE $106.98",
+   "conf": 0.9505348142824674
+  },
+  {
+   "text": "AID:A0000000031010",
+   "conf": 0.9848435554239485
+  },
+  {
+   "text": "VISA CREDIT",
+   "conf": 0.9558750011704185
+  },
+  {
+   "text": "REC#2-7268-1038-0126-5183-7 VCD#752-250-432",
+   "conf": 0.9909059848896292
+  },
+  {
+   "text": "We make",
+   "conf": 0.9882725306919643
+  },
+  {
+   "text": "the grade?",
+   "conf": 0.9854044914245605
+  }
+ ],
+ "mean_conf": 0.9775,
+ "low_conf_share": 0.0,
+ "latency_ms": 3767,
+ "fields": {
+  "company": "EXPECT MORE PAY LESS HARDWARE AUTOMOTIVE",
+  "date": null,
+  "total": 106.98
+ },
+ "rule_reasons": [
+  "date_not_found"
+ ],
+ "total_candidates": [
+  106.98
+ ],
+ "key": "W0076_a36478d3bb0a"
+}

@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.6-flash",
+ "provider": "gemini",
+ "raw_text": "{\"vendor\": \"LIDL ITALIA SRL\", \"date\": \"2013-11-21\", \"subtotal\": null, \"tax\": null, \"tip\": null, \"discount\": null, \"total\": 17.36, \"currency\": \"EUR\", \"confidence\": 0.9, \"notes\": null}",
+ "data": {
+  "vendor": "LIDL ITALIA SRL",
+  "date": "2013-11-21",
+  "subtotal": null,
+  "tax": null,
+  "tip": null,
+  "discount": null,
+  "total": 17.36,
+  "currency": "EUR",
+  "confidence": 0.9,
+  "notes": null
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1469,
+  "output_tokens": 76,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.001387,
+ "latency_ms": 1588,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.6-flash",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.6-flash"
+ ],
+ "key": "W0017_6d1dbb1cd715"
+}

@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.6-flash",
+ "provider": "gemini",
+ "raw_text": "{\"vendor\": \"AEON CO. (M) BHD\", \"date\": \"2018-04-22\", \"subtotal\": 10.20, \"tax\": 0.58, \"tip\": null, \"discount\": null, \"total\": 10.20, \"currency\": \"MYR\", \"confidence\": 0.95, \"notes\": null}",
+ "data": {
+  "vendor": "AEON CO. (M) BHD",
+  "date": "2018-04-22",
+  "subtotal": 10.2,
+  "tax": 0.58,
+  "tip": null,
+  "discount": null,
+  "total": 10.2,
+  "currency": "MYR",
+  "confidence": 0.95,
+  "notes": null
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1461,
+  "output_tokens": 90,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.001433,
+ "latency_ms": 2952,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.6-flash",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.6-flash"
+ ],
+ "key": "X51006414700"
+}

@@ -1,0 +1,507 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "PRINT EXPERT SDN BHD",
+  "(989625-A)",
+  "NO 18, 20, 22, JALAN BUNGA TANJONG 2/16,",
+  "40600 SHAH ALAM, SELANGOR",
+  "TEL 03-55256588",
+  "GST ID 000886677504",
+  "Seat __TAX INVOICE",
+  "Receipt# CS00489817 Table’ = 13",
+  "Statf ELYN Date 12/01/2018",
+  "Cashier USER Time 16.57 00",
+  "Doscription Qty Prico Amt Tax",
+  "AA OLR COPY 8 063 4274 SR",
+  "Totai 8 Nay |",
+  "folal Sales (Exciuding GST) 4.00 ,",
+  "Discount 0.00",
+  "| Service Charge 0.00",
+  "Total GST 624",
+  "Rounding 0.01",
+  "Total Salas (inclusive of GST) 4.25",
+  "CASH 4.30",
+  "CHANGE 0.05",
+  "GSTSUMMARY",
+  "TaxCode % Amt(RM) Tax (RM)",
+  "SR 6 4.06 0.24",
+  "| Total: 4.00 4",
+  "| # indicated this tax code belong fo service",
+  "charges.",
+  "| -30008 S010 ARE NOT RETURNABLE, ITEM NOT"
+ ],
+ "tokens": [
+  {
+   "text": "PRINT",
+   "conf": 0.95
+  },
+  {
+   "text": "EXPERT",
+   "conf": 0.95
+  },
+  {
+   "text": "SDN",
+   "conf": 0.95
+  },
+  {
+   "text": "BHD",
+   "conf": 0.95
+  },
+  {
+   "text": "(989625-A)",
+   "conf": 0.91
+  },
+  {
+   "text": "NO",
+   "conf": 0.95
+  },
+  {
+   "text": "18,",
+   "conf": 0.95
+  },
+  {
+   "text": "20,",
+   "conf": 0.95
+  },
+  {
+   "text": "22,",
+   "conf": 0.95
+  },
+  {
+   "text": "JALAN",
+   "conf": 0.92
+  },
+  {
+   "text": "BUNGA",
+   "conf": 0.91
+  },
+  {
+   "text": "TANJONG",
+   "conf": 0.91
+  },
+  {
+   "text": "2/16,",
+   "conf": 0.95
+  },
+  {
+   "text": "40600",
+   "conf": 0.93
+  },
+  {
+   "text": "SHAH",
+   "conf": 0.96
+  },
+  {
+   "text": "ALAM,",
+   "conf": 0.94
+  },
+  {
+   "text": "SELANGOR",
+   "conf": 0.96
+  },
+  {
+   "text": "TEL",
+   "conf": 0.89
+  },
+  {
+   "text": "03-55256588",
+   "conf": 0.5
+  },
+  {
+   "text": "GST",
+   "conf": 0.96
+  },
+  {
+   "text": "ID",
+   "conf": 0.41
+  },
+  {
+   "text": "000886677504",
+   "conf": 0.9
+  },
+  {
+   "text": "Seat",
+   "conf": 0.41
+  },
+  {
+   "text": "__TAX",
+   "conf": 0.0
+  },
+  {
+   "text": "INVOICE",
+   "conf": 0.0
+  },
+  {
+   "text": "Receipt#",
+   "conf": 0.62
+  },
+  {
+   "text": "CS00489817",
+   "conf": 0.67
+  },
+  {
+   "text": "Table’",
+   "conf": 0.55
+  },
+  {
+   "text": "=",
+   "conf": 0.52
+  },
+  {
+   "text": "13",
+   "conf": 0.56
+  },
+  {
+   "text": "Statf",
+   "conf": 0.71
+  },
+  {
+   "text": "ELYN",
+   "conf": 0.9
+  },
+  {
+   "text": "Date",
+   "conf": 0.96
+  },
+  {
+   "text": "12/01/2018",
+   "conf": 0.94
+  },
+  {
+   "text": "Cashier",
+   "conf": 0.96
+  },
+  {
+   "text": "USER",
+   "conf": 0.96
+  },
+  {
+   "text": "Time",
+   "conf": 0.96
+  },
+  {
+   "text": "16.57",
+   "conf": 0.95
+  },
+  {
+   "text": "00",
+   "conf": 0.95
+  },
+  {
+   "text": "Doscription",
+   "conf": 0.27
+  },
+  {
+   "text": "Qty",
+   "conf": 0.91
+  },
+  {
+   "text": "Prico",
+   "conf": 0.8
+  },
+  {
+   "text": "Amt",
+   "conf": 0.74
+  },
+  {
+   "text": "Tax",
+   "conf": 0.92
+  },
+  {
+   "text": "AA",
+   "conf": 0.34
+  },
+  {
+   "text": "OLR",
+   "conf": 0.66
+  },
+  {
+   "text": "COPY",
+   "conf": 0.93
+  },
+  {
+   "text": "8",
+   "conf": 0.96
+  },
+  {
+   "text": "063",
+   "conf": 0.74
+  },
+  {
+   "text": "4274",
+   "conf": 0.69
+  },
+  {
+   "text": "SR",
+   "conf": 0.69
+  },
+  {
+   "text": "Totai",
+   "conf": 0.64
+  },
+  {
+   "text": "8",
+   "conf": 0.84
+  },
+  {
+   "text": "Nay",
+   "conf": 0.37
+  },
+  {
+   "text": "|",
+   "conf": 0.44
+  },
+  {
+   "text": "folal",
+   "conf": 0.44
+  },
+  {
+   "text": "Sales",
+   "conf": 0.92
+  },
+  {
+   "text": "(Exciuding",
+   "conf": 0.49
+  },
+  {
+   "text": "GST)",
+   "conf": 0.93
+  },
+  {
+   "text": "4.00",
+   "conf": 0.92
+  },
+  {
+   "text": ",",
+   "conf": 0.0
+  },
+  {
+   "text": "Discount",
+   "conf": 0.8
+  },
+  {
+   "text": "0.00",
+   "conf": 0.95
+  },
+  {
+   "text": "|",
+   "conf": 0.76
+  },
+  {
+   "text": "Service",
+   "conf": 0.96
+  },
+  {
+   "text": "Charge",
+   "conf": 0.95
+  },
+  {
+   "text": "0.00",
+   "conf": 0.76
+  },
+  {
+   "text": "Total",
+   "conf": 0.48
+  },
+  {
+   "text": "GST",
+   "conf": 0.87
+  },
+  {
+   "text": "624",
+   "conf": 0.81
+  },
+  {
+   "text": "Rounding",
+   "conf": 0.94
+  },
+  {
+   "text": "0.01",
+   "conf": 0.95
+  },
+  {
+   "text": "Total",
+   "conf": 0.96
+  },
+  {
+   "text": "Salas",
+   "conf": 0.78
+  },
+  {
+   "text": "(inclusive",
+   "conf": 0.76
+  },
+  {
+   "text": "of",
+   "conf": 0.96
+  },
+  {
+   "text": "GST)",
+   "conf": 0.96
+  },
+  {
+   "text": "4.25",
+   "conf": 0.86
+  },
+  {
+   "text": "CASH",
+   "conf": 0.96
+  },
+  {
+   "text": "4.30",
+   "conf": 0.95
+  },
+  {
+   "text": "CHANGE",
+   "conf": 0.96
+  },
+  {
+   "text": "0.05",
+   "conf": 0.95
+  },
+  {
+   "text": "GSTSUMMARY",
+   "conf": 0.56
+  },
+  {
+   "text": "TaxCode",
+   "conf": 0.81
+  },
+  {
+   "text": "%",
+   "conf": 0.83
+  },
+  {
+   "text": "Amt(RM)",
+   "conf": 0.88
+  },
+  {
+   "text": "Tax",
+   "conf": 0.63
+  },
+  {
+   "text": "(RM)",
+   "conf": 0.63
+  },
+  {
+   "text": "SR",
+   "conf": 0.96
+  },
+  {
+   "text": "6",
+   "conf": 0.92
+  },
+  {
+   "text": "4.06",
+   "conf": 0.9
+  },
+  {
+   "text": "0.24",
+   "conf": 0.95
+  },
+  {
+   "text": "|",
+   "conf": 0.64
+  },
+  {
+   "text": "Total:",
+   "conf": 0.83
+  },
+  {
+   "text": "4.00",
+   "conf": 0.96
+  },
+  {
+   "text": "4",
+   "conf": 0.0
+  },
+  {
+   "text": "|",
+   "conf": 0.68
+  },
+  {
+   "text": "#",
+   "conf": 0.5
+  },
+  {
+   "text": "indicated",
+   "conf": 0.5
+  },
+  {
+   "text": "this",
+   "conf": 0.93
+  },
+  {
+   "text": "tax",
+   "conf": 0.94
+  },
+  {
+   "text": "code",
+   "conf": 0.95
+  },
+  {
+   "text": "belong",
+   "conf": 0.04
+  },
+  {
+   "text": "fo",
+   "conf": 0.69
+  },
+  {
+   "text": "service",
+   "conf": 0.6
+  },
+  {
+   "text": "charges.",
+   "conf": 0.96
+  },
+  {
+   "text": "|",
+   "conf": 0.0
+  },
+  {
+   "text": "-30008",
+   "conf": 0.0
+  },
+  {
+   "text": "S010",
+   "conf": 0.51
+  },
+  {
+   "text": "ARE",
+   "conf": 0.33
+  },
+  {
+   "text": "NOT",
+   "conf": 0.33
+  },
+  {
+   "text": "RETURNABLE,",
+   "conf": 0.5
+  },
+  {
+   "text": "ITEM",
+   "conf": 0.0
+  },
+  {
+   "text": "NOT",
+   "conf": 0.0
+  }
+ ],
+ "mean_conf": 0.7298,
+ "low_conf_share": 0.1754,
+ "latency_ms": 824,
+ "fields": {
+  "company": "PRINT EXPERT SDN BHD",
+  "date": "2018-01-12",
+  "total": 4.0
+ },
+ "rule_reasons": [
+  "total_multiple_keyword_amounts"
+ ],
+ "total_candidates": [
+  4.25,
+  4.0
+ ],
+ "key": "X51006008074"
+}

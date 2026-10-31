@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.6-flash",
+ "provider": "gemini",
+ "raw_text": "{\"vendor\": \"PEARL RIVER SEAFOOD RESTAURANT\", \"date\": \"2024-06-07\", \"subtotal\": 80.3, \"tax\": 4.82, \"tip\": null, \"discount\": null, \"total\": 85.12, \"currency\": \"MYR\", \"confidence\": 0.95, \"notes\": null}",
+ "data": {
+  "vendor": "PEARL RIVER SEAFOOD RESTAURANT",
+  "date": "2024-06-07",
+  "subtotal": 80.3,
+  "tax": 4.82,
+  "tip": null,
+  "discount": null,
+  "total": 85.12,
+  "currency": "MYR",
+  "confidence": 0.95,
+  "notes": null
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1458,
+  "output_tokens": 91,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.001435,
+ "latency_ms": 2540,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.6-flash",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.6-flash"
+ ],
+ "key": "SYN028"
+}

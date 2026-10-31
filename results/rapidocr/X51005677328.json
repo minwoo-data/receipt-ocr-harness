@@ -1,0 +1,280 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "SYARIKATPERNIAGAAN GINKEE",
+  "(81109-A)",
+  "NO290.JALANAIRPANAS.",
+  "SETAPAK,",
+  "53200,KUALALUMPUR",
+  "TEL:03-40210276",
+  "GSTID:000750673920",
+  "SIMPLIFIEDTAXINVOICE",
+  "CASH",
+  "Doc No CS00013254 Date:12/02/2018",
+  "Cashiei USER Time:15.29:00",
+  "Salesperson Ref.:",
+  "Item Qty S/Price Amount Tax",
+  "1921 1 5.30 5.30 SR",
+  "NAIL(PER/PACK)-RM5",
+  "Total Qty: 1 5.30",
+  "Total Sales(ExcludingGST): 5.00",
+  "Discount: 0.00",
+  "Total GST: 0.30",
+  "Rounding: 0.00",
+  "Total Sales(Inclusiveof GsT) 5.30",
+  "CASH : 5.30",
+  "Change : 0.00",
+  "GSTSUMMARY",
+  "Tax Code % Amt (RM) Tax(RM)",
+  "SR 6 5.00 0.30",
+  "Total: 5.00 0.30",
+  "GOODSSOLDARENOTRETURNABLE,THANKYOU"
+ ],
+ "tokens": [
+  {
+   "text": "SYARIKATPERNIAGAAN GINKEE",
+   "conf": 0.9639901995658875
+  },
+  {
+   "text": "(81109-A)",
+   "conf": 0.9985405802726746
+  },
+  {
+   "text": "NO290.JALANAIRPANAS.",
+   "conf": 0.945986631512642
+  },
+  {
+   "text": "SETAPAK,",
+   "conf": 0.9682248383760452
+  },
+  {
+   "text": "53200,KUALALUMPUR",
+   "conf": 0.9579019266016343
+  },
+  {
+   "text": "TEL:03-40210276",
+   "conf": 0.9900742212931315
+  },
+  {
+   "text": "GSTID:000750673920",
+   "conf": 0.9685123264789581
+  },
+  {
+   "text": "SIMPLIFIEDTAXINVOICE",
+   "conf": 0.9912219494581223
+  },
+  {
+   "text": "CASH",
+   "conf": 0.9950811862945557
+  },
+  {
+   "text": "Doc No",
+   "conf": 0.9172437687714895
+  },
+  {
+   "text": "CS00013254",
+   "conf": 0.9954461395740509
+  },
+  {
+   "text": "Date:12/02/2018",
+   "conf": 0.994659427801768
+  },
+  {
+   "text": "Cashiei",
+   "conf": 0.9884393385478428
+  },
+  {
+   "text": "USER",
+   "conf": 0.9876837432384491
+  },
+  {
+   "text": "Time:15.29:00",
+   "conf": 0.9395288114364331
+  },
+  {
+   "text": "Salesperson",
+   "conf": 0.9945372830737721
+  },
+  {
+   "text": "Ref.:",
+   "conf": 0.9871934294700623
+  },
+  {
+   "text": "Item",
+   "conf": 0.9484409689903259
+  },
+  {
+   "text": "Qty",
+   "conf": 0.9915718038876852
+  },
+  {
+   "text": "S/Price",
+   "conf": 0.9651286857468742
+  },
+  {
+   "text": "Amount",
+   "conf": 0.9806695381800333
+  },
+  {
+   "text": "Tax",
+   "conf": 0.9941892623901367
+  },
+  {
+   "text": "1921",
+   "conf": 0.9984740912914276
+  },
+  {
+   "text": "1",
+   "conf": 0.9890860319137573
+  },
+  {
+   "text": "5.30",
+   "conf": 0.9975644797086716
+  },
+  {
+   "text": "5.30",
+   "conf": 0.9976274818181992
+  },
+  {
+   "text": "SR",
+   "conf": 0.9887539148330688
+  },
+  {
+   "text": "NAIL(PER/PACK)-RM5",
+   "conf": 0.9665049248271518
+  },
+  {
+   "text": "Total Qty:",
+   "conf": 0.958609014749527
+  },
+  {
+   "text": "1",
+   "conf": 0.9886900782585144
+  },
+  {
+   "text": "5.30",
+   "conf": 0.9982800632715225
+  },
+  {
+   "text": "Total Sales(ExcludingGST):",
+   "conf": 0.9413859156461862
+  },
+  {
+   "text": "5.00",
+   "conf": 0.9992160052061081
+  },
+  {
+   "text": "Discount:",
+   "conf": 0.984765370686849
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9990444183349609
+  },
+  {
+   "text": "Total GST:",
+   "conf": 0.9338576912879943
+  },
+  {
+   "text": "0.30",
+   "conf": 0.9957535266876221
+  },
+  {
+   "text": "Rounding:",
+   "conf": 0.9470082852575514
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9990876764059067
+  },
+  {
+   "text": "Total Sales(Inclusiveof GsT)",
+   "conf": 0.9391012340784073
+  },
+  {
+   "text": "5.30",
+   "conf": 0.999043881893158
+  },
+  {
+   "text": "CASH :",
+   "conf": 0.9195848107337952
+  },
+  {
+   "text": "5.30",
+   "conf": 0.9989841431379318
+  },
+  {
+   "text": "Change :",
+   "conf": 0.9316773265600204
+  },
+  {
+   "text": "0.00",
+   "conf": 0.998992308974266
+  },
+  {
+   "text": "GSTSUMMARY",
+   "conf": 0.985295033454895
+  },
+  {
+   "text": "Tax Code",
+   "conf": 0.9639825373888016
+  },
+  {
+   "text": "%",
+   "conf": 0.9926685094833374
+  },
+  {
+   "text": "Amt (RM)",
+   "conf": 0.9226997345685959
+  },
+  {
+   "text": "Tax(RM)",
+   "conf": 0.9788294349397931
+  },
+  {
+   "text": "SR",
+   "conf": 0.9983909428119659
+  },
+  {
+   "text": "6",
+   "conf": 0.9763370752334595
+  },
+  {
+   "text": "5.00",
+   "conf": 0.9991519153118134
+  },
+  {
+   "text": "0.30",
+   "conf": 0.999566063284874
+  },
+  {
+   "text": "Total:",
+   "conf": 0.9935251871744791
+  },
+  {
+   "text": "5.00",
+   "conf": 0.9996457099914551
+  },
+  {
+   "text": "0.30",
+   "conf": 0.9989588260650635
+  },
+  {
+   "text": "GOODSSOLDARENOTRETURNABLE,THANKYOU",
+   "conf": 0.9821789404925179
+  }
+ ],
+ "mean_conf": 0.978,
+ "low_conf_share": 0.0,
+ "latency_ms": 5373,
+ "fields": {
+  "company": "SYARIKATPERNIAGAAN GINKEE",
+  "date": "2018-02-12",
+  "total": 5.3
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  5.3
+ ],
+ "key": "X51005677328"
+}

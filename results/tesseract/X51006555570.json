@@ -1,0 +1,713 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  ". . ms gl aie",
+  "— SIMPLIFTED TAX INVOICE",
+  "| AA PHARMACY",
+  "— SUBANG HEALTHCARE STN BHI",
+  "— ALLB258-K",
+  "«BST NO: ONLS3s708608",
+  "RB, JALAW 8515740,",
+  "47500 SURANG TAYA, SELANGOR",
+  "| TELS 03-56127718",
+  "ASH",
+  "RECEIPT #: 500224314 DATE: 11/08/2017",
+  "SALESPERSON : TINE: 19244300",
+  "CASHIER : Ct",
+  "ITCH OTY L/P AROUNT",
+  "(G8T) (GST)",
+  "1394 1 57.00 57.00 §",
+  "(utr) WAYCARE WOUND DRESSTHG WATERPROOF",
+  "- SDA5179052519 1 5.30 5.305",
+  "{pox 1005) AROS NOW-WOWEN SHAR ALCOHOL P",
+  "SS7TOS7ONOAF 3.90 3.905",
+  "eats PAN NATE COTTON BULS 4D0TIPS",
+  "896 3 1.70 .. 5.105",
+  "fut) UNIGLOVES STERILE GAUZE SWAB 10CH",
+  "Bese BAg td 6.80 © 6.80 Z",
+  "(1 BOX) GENTAMICIN CREAM",
+  "Sa SLSR A ECCI IE a EE NN AE RO -",
+  "TOTAL QUANTITY 4",
+  "SUB-TOTAL 74.04",
+  "| DISC 0.00",
+  "| GT 4.04",
+  ", ROUNDING 0.00",
+  "TOTAL 78.10",
+  "! DEBIT CARD 78.10",
+  "CHANGC o.00",
+  "BODES SOLD ARE NOT RETURNABLE,",
+  "THANK YOU,",
+  "S=STANDARD RATED, Z=ZERO RATED",
+  "CORE AMOUNT == TAX/ANT",
+  "SR 87.26 6 4.04",
+  "ZR 8.80 «0 0.00",
+  "TAX TOTAL: 4.04"
+ ],
+ "tokens": [
+  {
+   "text": ".",
+   "conf": 0.0
+  },
+  {
+   "text": ".",
+   "conf": 0.53
+  },
+  {
+   "text": "ms",
+   "conf": 0.45
+  },
+  {
+   "text": "gl",
+   "conf": 0.27
+  },
+  {
+   "text": "aie",
+   "conf": 0.2
+  },
+  {
+   "text": "—",
+   "conf": 0.07
+  },
+  {
+   "text": "SIMPLIFTED",
+   "conf": 0.08
+  },
+  {
+   "text": "TAX",
+   "conf": 0.55
+  },
+  {
+   "text": "INVOICE",
+   "conf": 0.85
+  },
+  {
+   "text": "|",
+   "conf": 0.37
+  },
+  {
+   "text": "AA",
+   "conf": 0.57
+  },
+  {
+   "text": "PHARMACY",
+   "conf": 0.88
+  },
+  {
+   "text": "—",
+   "conf": 0.0
+  },
+  {
+   "text": "SUBANG",
+   "conf": 0.0
+  },
+  {
+   "text": "HEALTHCARE",
+   "conf": 0.88
+  },
+  {
+   "text": "STN",
+   "conf": 0.65
+  },
+  {
+   "text": "BHI",
+   "conf": 0.55
+  },
+  {
+   "text": "—",
+   "conf": 0.0
+  },
+  {
+   "text": "ALLB258-K",
+   "conf": 0.0
+  },
+  {
+   "text": "«BST",
+   "conf": 0.52
+  },
+  {
+   "text": "NO:",
+   "conf": 0.72
+  },
+  {
+   "text": "ONLS3s708608",
+   "conf": 0.0
+  },
+  {
+   "text": "RB,",
+   "conf": 0.47
+  },
+  {
+   "text": "JALAW",
+   "conf": 0.36
+  },
+  {
+   "text": "8515740,",
+   "conf": 0.52
+  },
+  {
+   "text": "47500",
+   "conf": 0.33
+  },
+  {
+   "text": "SURANG",
+   "conf": 0.8
+  },
+  {
+   "text": "TAYA,",
+   "conf": 0.81
+  },
+  {
+   "text": "SELANGOR",
+   "conf": 0.58
+  },
+  {
+   "text": "|",
+   "conf": 0.49
+  },
+  {
+   "text": "TELS",
+   "conf": 0.38
+  },
+  {
+   "text": "03-56127718",
+   "conf": 0.49
+  },
+  {
+   "text": "ASH",
+   "conf": 0.17
+  },
+  {
+   "text": "RECEIPT",
+   "conf": 0.9
+  },
+  {
+   "text": "#:",
+   "conf": 0.81
+  },
+  {
+   "text": "500224314",
+   "conf": 0.0
+  },
+  {
+   "text": "DATE:",
+   "conf": 0.92
+  },
+  {
+   "text": "11/08/2017",
+   "conf": 0.88
+  },
+  {
+   "text": "SALESPERSON",
+   "conf": 0.82
+  },
+  {
+   "text": ":",
+   "conf": 0.73
+  },
+  {
+   "text": "TINE:",
+   "conf": 0.84
+  },
+  {
+   "text": "19244300",
+   "conf": 0.42
+  },
+  {
+   "text": "CASHIER",
+   "conf": 0.83
+  },
+  {
+   "text": ":",
+   "conf": 0.63
+  },
+  {
+   "text": "Ct",
+   "conf": 0.58
+  },
+  {
+   "text": "ITCH",
+   "conf": 0.34
+  },
+  {
+   "text": "OTY",
+   "conf": 0.22
+  },
+  {
+   "text": "L/P",
+   "conf": 0.14
+  },
+  {
+   "text": "AROUNT",
+   "conf": 0.18
+  },
+  {
+   "text": "(G8T)",
+   "conf": 0.16
+  },
+  {
+   "text": "(GST)",
+   "conf": 0.67
+  },
+  {
+   "text": "1394",
+   "conf": 0.95
+  },
+  {
+   "text": "1",
+   "conf": 0.47
+  },
+  {
+   "text": "57.00",
+   "conf": 0.77
+  },
+  {
+   "text": "57.00",
+   "conf": 0.61
+  },
+  {
+   "text": "§",
+   "conf": 0.61
+  },
+  {
+   "text": "(utr)",
+   "conf": 0.02
+  },
+  {
+   "text": "WAYCARE",
+   "conf": 0.92
+  },
+  {
+   "text": "WOUND",
+   "conf": 0.92
+  },
+  {
+   "text": "DRESSTHG",
+   "conf": 0.3
+  },
+  {
+   "text": "WATERPROOF",
+   "conf": 0.92
+  },
+  {
+   "text": "-",
+   "conf": 0.39
+  },
+  {
+   "text": "SDA5179052519",
+   "conf": 0.0
+  },
+  {
+   "text": "1",
+   "conf": 0.29
+  },
+  {
+   "text": "5.30",
+   "conf": 0.79
+  },
+  {
+   "text": "5.305",
+   "conf": 0.64
+  },
+  {
+   "text": "{pox",
+   "conf": 0.69
+  },
+  {
+   "text": "1005)",
+   "conf": 0.63
+  },
+  {
+   "text": "AROS",
+   "conf": 0.93
+  },
+  {
+   "text": "NOW-WOWEN",
+   "conf": 0.8
+  },
+  {
+   "text": "SHAR",
+   "conf": 0.42
+  },
+  {
+   "text": "ALCOHOL",
+   "conf": 0.92
+  },
+  {
+   "text": "P",
+   "conf": 0.92
+  },
+  {
+   "text": "SS7TOS7ONOAF",
+   "conf": 0.0
+  },
+  {
+   "text": "3.90",
+   "conf": 0.53
+  },
+  {
+   "text": "3.905",
+   "conf": 0.32
+  },
+  {
+   "text": "eats",
+   "conf": 0.0
+  },
+  {
+   "text": "PAN",
+   "conf": 0.94
+  },
+  {
+   "text": "NATE",
+   "conf": 0.87
+  },
+  {
+   "text": "COTTON",
+   "conf": 0.93
+  },
+  {
+   "text": "BULS",
+   "conf": 0.18
+  },
+  {
+   "text": "4D0TIPS",
+   "conf": 0.45
+  },
+  {
+   "text": "896",
+   "conf": 0.51
+  },
+  {
+   "text": "3",
+   "conf": 0.93
+  },
+  {
+   "text": "1.70",
+   "conf": 0.78
+  },
+  {
+   "text": "..",
+   "conf": 0.38
+  },
+  {
+   "text": "5.105",
+   "conf": 0.82
+  },
+  {
+   "text": "fut)",
+   "conf": 0.0
+  },
+  {
+   "text": "UNIGLOVES",
+   "conf": 0.74
+  },
+  {
+   "text": "STERILE",
+   "conf": 0.96
+  },
+  {
+   "text": "GAUZE",
+   "conf": 0.96
+  },
+  {
+   "text": "SWAB",
+   "conf": 0.3
+  },
+  {
+   "text": "10CH",
+   "conf": 0.28
+  },
+  {
+   "text": "Bese",
+   "conf": 0.0
+  },
+  {
+   "text": "BAg",
+   "conf": 0.0
+  },
+  {
+   "text": "td",
+   "conf": 0.0
+  },
+  {
+   "text": "6.80",
+   "conf": 0.59
+  },
+  {
+   "text": "©",
+   "conf": 0.27
+  },
+  {
+   "text": "6.80",
+   "conf": 0.53
+  },
+  {
+   "text": "Z",
+   "conf": 0.73
+  },
+  {
+   "text": "(1",
+   "conf": 0.95
+  },
+  {
+   "text": "BOX)",
+   "conf": 0.91
+  },
+  {
+   "text": "GENTAMICIN",
+   "conf": 0.46
+  },
+  {
+   "text": "CREAM",
+   "conf": 0.84
+  },
+  {
+   "text": "Sa",
+   "conf": 0.23
+  },
+  {
+   "text": "SLSR",
+   "conf": 0.3
+  },
+  {
+   "text": "A",
+   "conf": 0.05
+  },
+  {
+   "text": "ECCI",
+   "conf": 0.29
+  },
+  {
+   "text": "IE",
+   "conf": 0.22
+  },
+  {
+   "text": "a",
+   "conf": 0.22
+  },
+  {
+   "text": "EE",
+   "conf": 0.18
+  },
+  {
+   "text": "NN",
+   "conf": 0.1
+  },
+  {
+   "text": "AE",
+   "conf": 0.2
+  },
+  {
+   "text": "RO",
+   "conf": 0.17
+  },
+  {
+   "text": "-",
+   "conf": 0.19
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.96
+  },
+  {
+   "text": "QUANTITY",
+   "conf": 0.95
+  },
+  {
+   "text": "4",
+   "conf": 0.61
+  },
+  {
+   "text": "SUB-TOTAL",
+   "conf": 0.91
+  },
+  {
+   "text": "74.04",
+   "conf": 0.28
+  },
+  {
+   "text": "|",
+   "conf": 0.81
+  },
+  {
+   "text": "DISC",
+   "conf": 0.84
+  },
+  {
+   "text": "0.00",
+   "conf": 0.79
+  },
+  {
+   "text": "|",
+   "conf": 0.58
+  },
+  {
+   "text": "GT",
+   "conf": 0.43
+  },
+  {
+   "text": "4.04",
+   "conf": 0.87
+  },
+  {
+   "text": ",",
+   "conf": 0.0
+  },
+  {
+   "text": "ROUNDING",
+   "conf": 0.85
+  },
+  {
+   "text": "0.00",
+   "conf": 0.95
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.59
+  },
+  {
+   "text": "78.10",
+   "conf": 0.93
+  },
+  {
+   "text": "!",
+   "conf": 0.0
+  },
+  {
+   "text": "DEBIT",
+   "conf": 0.36
+  },
+  {
+   "text": "CARD",
+   "conf": 0.77
+  },
+  {
+   "text": "78.10",
+   "conf": 0.95
+  },
+  {
+   "text": "CHANGC",
+   "conf": 0.0
+  },
+  {
+   "text": "o.00",
+   "conf": 0.79
+  },
+  {
+   "text": "BODES",
+   "conf": 0.39
+  },
+  {
+   "text": "SOLD",
+   "conf": 0.68
+  },
+  {
+   "text": "ARE",
+   "conf": 0.82
+  },
+  {
+   "text": "NOT",
+   "conf": 0.95
+  },
+  {
+   "text": "RETURNABLE,",
+   "conf": 0.88
+  },
+  {
+   "text": "THANK",
+   "conf": 0.86
+  },
+  {
+   "text": "YOU,",
+   "conf": 0.86
+  },
+  {
+   "text": "S=STANDARD",
+   "conf": 0.35
+  },
+  {
+   "text": "RATED,",
+   "conf": 0.92
+  },
+  {
+   "text": "Z=ZERO",
+   "conf": 0.68
+  },
+  {
+   "text": "RATED",
+   "conf": 0.82
+  },
+  {
+   "text": "CORE",
+   "conf": 0.79
+  },
+  {
+   "text": "AMOUNT",
+   "conf": 0.72
+  },
+  {
+   "text": "==",
+   "conf": 0.07
+  },
+  {
+   "text": "TAX/ANT",
+   "conf": 0.51
+  },
+  {
+   "text": "SR",
+   "conf": 0.89
+  },
+  {
+   "text": "87.26",
+   "conf": 0.79
+  },
+  {
+   "text": "6",
+   "conf": 0.81
+  },
+  {
+   "text": "4.04",
+   "conf": 0.94
+  },
+  {
+   "text": "ZR",
+   "conf": 0.0
+  },
+  {
+   "text": "8.80",
+   "conf": 0.37
+  },
+  {
+   "text": "«0",
+   "conf": 0.19
+  },
+  {
+   "text": "0.00",
+   "conf": 0.0
+  },
+  {
+   "text": "TAX",
+   "conf": 0.95
+  },
+  {
+   "text": "TOTAL:",
+   "conf": 0.16
+  },
+  {
+   "text": "4.04",
+   "conf": 0.27
+  }
+ ],
+ "mean_conf": 0.5259,
+ "low_conf_share": 0.4479,
+ "latency_ms": 2803,
+ "fields": {
+  "company": "SIMPLIFTED TAX INVOICE AA PHARMACY",
+  "date": "2017-08-11",
+  "total": 78.1
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  78.1
+ ],
+ "key": "X51006555570"
+}

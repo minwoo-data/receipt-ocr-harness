@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.6-flash",
+ "provider": "gemini",
+ "raw_text": "{\"vendor\": \"AUSTRALIA POST\", \"date\": \"2016-12-14\", \"subtotal\": 63.05, \"tax\": 0.0, \"tip\": null, \"discount\": null, \"total\": 63.05, \"currency\": \"AUD\", \"confidence\": 0.95, \"notes\": null}",
+ "data": {
+  "vendor": "AUSTRALIA POST",
+  "date": "2016-12-14",
+  "subtotal": 63.05,
+  "tax": 0.0,
+  "tip": null,
+  "discount": null,
+  "total": 63.05,
+  "currency": "AUD",
+  "confidence": 0.95,
+  "notes": null
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1469,
+  "output_tokens": 83,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.001413,
+ "latency_ms": 13980,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.6-flash",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.6-flash"
+ ],
+ "key": "W0001_532f8b689b61"
+}

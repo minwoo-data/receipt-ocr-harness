@@ -1,0 +1,474 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "NIOAM",
+  "TRI SHAAS SDN BHD (728515-M)",
+  "MYDIN MART SRI MUDA",
+  "4-20, Jalan Ria 25/62 Taman Sri Muda",
+  "Seksyen 25, 40400 Shah Alam Selangor",
+  "Tel:03-51217970 FaX:03-51218059",
+  "GST ID:000429166592",
+  "RECEIPT",
+  "Terminal:195-5505P0s011",
+  "Trans #:322563",
+  "Date :10/08/201703:26:21PM",
+  "Cashier :CH107004",
+  "MSM-ALMIDAH",
+  "FARTNER E/LOPE 4.5INX9.5IN W4292 EA .S",
+  "9555023304662 * 2.60 5.20",
+  "PLASTIC BAG RMO.20 EA .S",
+  "2300000017984 1 * 0.20 0.20",
+  "TEN Q E/L0PE 15INX10IN TQ-S1015 EA .S",
+  "9555023307724 2* 2.50 5.00",
+  "UMOE S/NT 100MX75M,N/GRN EA .S",
+  "9555495401722 1* 3.00 3.00",
+  "UMOE S/NT 100MX75M,N/YLW EA .S",
+  "5555495400985 1 3.00 3.00",
+  "UHOE S/NT 50MX38M,N/YLW EA .S",
+  "9555495400961 1 * 2.50 2.50",
+  "MOE S/NT_75MX5OM,N/PINK EA .S",
+  "9555495401814 1 * 2.50 2.50",
+  "item-Gount 9",
+  "Totaf 21.40",
+  "Roundmnig Adjustinent 0.00",
+  "Total AfldrCRounding 21.40",
+  "Cash 50.00",
+  "CHANGE 28.60",
+  "GST Rate Amt Excl GST(RM) Tax(RM)",
+  "%9=S 20.19 1.21",
+  "=0% 0.00 0.00",
+  "Points Missed:20",
+  "Joiri our Meriahi Loyalty Programme today!",
+  "6605505001950000322563",
+  "Print Date:10/08/2017 03:26:22PM",
+  "Any request for production of full tax",
+  "invoice or related payment information",
+  "shall be made within 3 months from the",
+  "date of purchase, failing which MYDIN at",
+  "its absolute discretion as deem fit may",
+  "reject or refuse to entertain such",
+  "request",
+  "Thank You and Please Come Again"
+ ],
+ "tokens": [
+  {
+   "text": "NIOAM",
+   "conf": 0.6998398661613464
+  },
+  {
+   "text": "TRI SHAAS SDN BHD (728515-M)",
+   "conf": 0.9395438241107124
+  },
+  {
+   "text": "MYDIN MART SRI MUDA",
+   "conf": 0.9857466973756489
+  },
+  {
+   "text": "4-20, Jalan Ria 25/62 Taman Sri Muda",
+   "conf": 0.9477041115363439
+  },
+  {
+   "text": "Seksyen 25, 40400 Shah Alam Selangor",
+   "conf": 0.9714510242144266
+  },
+  {
+   "text": "Tel:03-51217970 FaX:03-51218059",
+   "conf": 0.9589621905357607
+  },
+  {
+   "text": "GST ID:000429166592",
+   "conf": 0.9830385697515387
+  },
+  {
+   "text": "RECEIPT",
+   "conf": 0.9926772287913731
+  },
+  {
+   "text": "Terminal:195-5505P0s011",
+   "conf": 0.9483670955118926
+  },
+  {
+   "text": "Trans #:322563",
+   "conf": 0.9651938719408852
+  },
+  {
+   "text": "Date",
+   "conf": 0.901633620262146
+  },
+  {
+   "text": ":10/08/201703:26:21PM",
+   "conf": 0.9661068178358532
+  },
+  {
+   "text": "Cashier :CH107004",
+   "conf": 0.9404309427036959
+  },
+  {
+   "text": "MSM-ALMIDAH",
+   "conf": 0.992472843690352
+  },
+  {
+   "text": "FARTNER E/LOPE 4.5INX9.5IN W4292 EA",
+   "conf": 0.9593222635132926
+  },
+  {
+   "text": ".S",
+   "conf": 0.8205463290214539
+  },
+  {
+   "text": "9555023304662",
+   "conf": 0.9592316609162551
+  },
+  {
+   "text": "*",
+   "conf": 0.7321075201034546
+  },
+  {
+   "text": "2.60",
+   "conf": 0.9992270171642303
+  },
+  {
+   "text": "5.20",
+   "conf": 0.9993127733469009
+  },
+  {
+   "text": "PLASTIC BAG RMO.20",
+   "conf": 0.9640265504519144
+  },
+  {
+   "text": "EA",
+   "conf": 0.9933920800685883
+  },
+  {
+   "text": ".S",
+   "conf": 0.8663591146469116
+  },
+  {
+   "text": "2300000017984",
+   "conf": 0.9985841741928687
+  },
+  {
+   "text": "1",
+   "conf": 0.9744148850440979
+  },
+  {
+   "text": "*",
+   "conf": 0.9621254205703735
+  },
+  {
+   "text": "0.20",
+   "conf": 0.9996044486761093
+  },
+  {
+   "text": "0.20",
+   "conf": 0.9990805983543396
+  },
+  {
+   "text": "TEN Q E/L0PE 15INX10IN TQ-S1015 EA",
+   "conf": 0.9255374231759239
+  },
+  {
+   "text": ".S",
+   "conf": 0.8336763978004456
+  },
+  {
+   "text": "9555023307724",
+   "conf": 0.998692838045267
+  },
+  {
+   "text": "2*",
+   "conf": 0.9606641232967377
+  },
+  {
+   "text": "2.50",
+   "conf": 0.999797061085701
+  },
+  {
+   "text": "5.00",
+   "conf": 0.9992692619562149
+  },
+  {
+   "text": "UMOE S/NT 100MX75M,N/GRN",
+   "conf": 0.9608913833896319
+  },
+  {
+   "text": "EA",
+   "conf": 0.9939112961292267
+  },
+  {
+   "text": ".S",
+   "conf": 0.7939324676990509
+  },
+  {
+   "text": "9555495401722",
+   "conf": 0.9986236049578741
+  },
+  {
+   "text": "1*",
+   "conf": 0.8132820725440979
+  },
+  {
+   "text": "3.00",
+   "conf": 0.99888114631176
+  },
+  {
+   "text": "3.00",
+   "conf": 0.9992871135473251
+  },
+  {
+   "text": "UMOE S/NT 100MX75M,N/YLW",
+   "conf": 0.9271563043196996
+  },
+  {
+   "text": "EA",
+   "conf": 0.9930297434329987
+  },
+  {
+   "text": ".S",
+   "conf": 0.9127225875854492
+  },
+  {
+   "text": "5555495400985",
+   "conf": 0.9856703052153954
+  },
+  {
+   "text": "1",
+   "conf": 0.5999879837036133
+  },
+  {
+   "text": "3.00",
+   "conf": 0.9991681724786758
+  },
+  {
+   "text": "3.00",
+   "conf": 0.9993994981050491
+  },
+  {
+   "text": "UHOE S/NT 50MX38M,N/YLW",
+   "conf": 0.9168229673219763
+  },
+  {
+   "text": "EA",
+   "conf": 0.9934934675693512
+  },
+  {
+   "text": ".S",
+   "conf": 0.8384144604206085
+  },
+  {
+   "text": "9555495400961",
+   "conf": 0.9930079533503606
+  },
+  {
+   "text": "1",
+   "conf": 0.9379855990409851
+  },
+  {
+   "text": "*",
+   "conf": 0.546494722366333
+  },
+  {
+   "text": "2.50",
+   "conf": 0.99898262321949
+  },
+  {
+   "text": "2.50",
+   "conf": 0.9998976141214371
+  },
+  {
+   "text": "MOE S/NT_75MX5OM,N/PINK",
+   "conf": 0.8713711046654246
+  },
+  {
+   "text": "EA",
+   "conf": 0.988708883523941
+  },
+  {
+   "text": ".S",
+   "conf": 0.8265516459941864
+  },
+  {
+   "text": "9555495401814",
+   "conf": 0.9965216563298152
+  },
+  {
+   "text": "1",
+   "conf": 0.9521151781082153
+  },
+  {
+   "text": "*",
+   "conf": 0.955206573009491
+  },
+  {
+   "text": "2.50",
+   "conf": 0.9990455955266953
+  },
+  {
+   "text": "2.50",
+   "conf": 0.9998786002397537
+  },
+  {
+   "text": "item-Gount",
+   "conf": 0.8655371934175491
+  },
+  {
+   "text": "9",
+   "conf": 0.9792125225067139
+  },
+  {
+   "text": "Totaf",
+   "conf": 0.8585452497005462
+  },
+  {
+   "text": "21.40",
+   "conf": 0.9997160196304321
+  },
+  {
+   "text": "Roundmnig",
+   "conf": 0.8086186647415161
+  },
+  {
+   "text": "Adjustinent",
+   "conf": 0.9216503934426741
+  },
+  {
+   "text": "0.00",
+   "conf": 0.998854786157608
+  },
+  {
+   "text": "Total AfldrCRounding",
+   "conf": 0.8865380764007569
+  },
+  {
+   "text": "21.40",
+   "conf": 0.9996886372566223
+  },
+  {
+   "text": "Cash",
+   "conf": 0.990877777338028
+  },
+  {
+   "text": "50.00",
+   "conf": 0.9995620608329773
+  },
+  {
+   "text": "CHANGE",
+   "conf": 0.9928852717081705
+  },
+  {
+   "text": "28.60",
+   "conf": 0.9994127988815308
+  },
+  {
+   "text": "GST Rate",
+   "conf": 0.9037840813398361
+  },
+  {
+   "text": "Amt Excl GST(RM)",
+   "conf": 0.8558582961559296
+  },
+  {
+   "text": "Tax(RM)",
+   "conf": 0.9541158165250506
+  },
+  {
+   "text": "%9=S",
+   "conf": 0.8432732447981834
+  },
+  {
+   "text": "20.19",
+   "conf": 0.9991624355316162
+  },
+  {
+   "text": "1.21",
+   "conf": 0.9973967671394348
+  },
+  {
+   "text": "=0%",
+   "conf": 0.993374228477478
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9994257688522339
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9994933307170868
+  },
+  {
+   "text": "Points Missed:20",
+   "conf": 0.9559287391602993
+  },
+  {
+   "text": "Joiri our Meriahi Loyalty Programme today!",
+   "conf": 0.9325354340530577
+  },
+  {
+   "text": "6605505001950000322563",
+   "conf": 0.9902858327735554
+  },
+  {
+   "text": "Print Date:10/08/2017 03:26:22PM",
+   "conf": 0.9617255665361881
+  },
+  {
+   "text": "Any request for production of full tax",
+   "conf": 0.9701161164986459
+  },
+  {
+   "text": "invoice or related payment information",
+   "conf": 0.9835018703812047
+  },
+  {
+   "text": "shall be made within 3 months from the",
+   "conf": 0.9628857044797194
+  },
+  {
+   "text": "date of purchase, failing which MYDIN at",
+   "conf": 0.9571471691131592
+  },
+  {
+   "text": "its absolute discretion as deem fit may",
+   "conf": 0.9756957995585906
+  },
+  {
+   "text": "reject or refuse to entertain such",
+   "conf": 0.9849173303912667
+  },
+  {
+   "text": "request",
+   "conf": 0.9664551871163505
+  },
+  {
+   "text": "Thank You and Please Come Again",
+   "conf": 0.9635344820637857
+  }
+ ],
+ "mean_conf": 0.9427,
+ "low_conf_share": 0.0,
+ "latency_ms": 7269,
+ "fields": {
+  "company": "TRI SHAAS SDN BHD",
+  "date": "2017-08-10",
+  "total": 50.0
+ },
+ "rule_reasons": [
+  "total_no_keyword_fallback_max"
+ ],
+ "total_candidates": [
+  2.5,
+  2.5,
+  2.5,
+  2.5,
+  21.4,
+  0.0,
+  21.4,
+  50.0,
+  28.6,
+  20.19,
+  1.21,
+  0.0,
+  0.0
+ ],
+ "key": "X51005705760"
+}

@@ -1,0 +1,399 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "PERNIAGAAN ZHENG HU!",
+  "JM0325955-V",
+  "NO.59 JALAN PERMAS 9/5",
+  "BANDAR BARU PERMAS JAYA",
+  "81750 JOHOR BAHRU",
+  "TEL:07-3867524FAX:07-386 3793",
+  "GST NO : 000800689824",
+  "SIMPLIFIEO TAX INVOICE",
+  "GOGIANTENGINEERING (M) SDN BHD",
+  "Recelpt#:CS00082258",
+  "Salesperson: Date.09/02/2018",
+  "Cashier: USER Time: 08:32:00",
+  "(RM) (RM)",
+  "Iter Qty RSP Ainoun!",
+  "6783 1809 5 3.50 17.5C",
+  "SRCERAMIC CAP",
+  "2954 1809 3.80 114.0C",
+  "SR: S/STEEL 1/2\" STREET ELBOWV",
+  "1760 GA 1 55.00 55.0C",
+  "SR: 2.4MM STARWELD RED HEAD TUNGSTENROD",
+  "3496 GA 3 33.00 99.0C",
+  "SR: ESICUT 4\" CUTTING DISC (1BOX)-50PCS",
+  "2460 G月 43.00 86.0C",
+  "SR: WELDRO PICKLING GEL 1KG",
+  "9428 品 4 10.00 40.0C",
+  "SR: 13.5\"WELDING GLOVE - GREEN (GS)",
+  "TOTQTY:45 411.50",
+  "{Excluded GST) Sub Total (RM): 411.50",
+  "Discournt(RM) : 00:0",
+  "Total GST (RM} : 24.69",
+  "Rounding (RM) : 0.01",
+  "Total (RM) : 436.20",
+  "CASH : 436.20",
+  "Change (RM) : 0.00",
+  "GST SUMMARY",
+  "Tax Code % Amount GST",
+  "SR 6 411.50 24.69",
+  "Total : 411.50",
+  "GOODS SOLDARE NOT RETURNABLE.",
+  "THANK YOU."
+ ],
+ "tokens": [
+  {
+   "text": "PERNIAGAAN ZHENG HU!",
+   "conf": 0.9862153947353363
+  },
+  {
+   "text": "JM0325955-V",
+   "conf": 0.9540345722978766
+  },
+  {
+   "text": "NO.59 JALAN PERMAS 9/5",
+   "conf": 0.9452212859283794
+  },
+  {
+   "text": "BANDAR BARU PERMAS JAYA",
+   "conf": 0.9736228429752848
+  },
+  {
+   "text": "81750 JOHOR BAHRU",
+   "conf": 0.984939785564647
+  },
+  {
+   "text": "TEL:07-3867524FAX:07-386 3793",
+   "conf": 0.9791562351687201
+  },
+  {
+   "text": "GST NO : 000800689824",
+   "conf": 0.9778008943512326
+  },
+  {
+   "text": "SIMPLIFIEO TAX INVOICE",
+   "conf": 0.9579931199550629
+  },
+  {
+   "text": "GOGIANTENGINEERING (M) SDN BHD",
+   "conf": 0.9622465173403422
+  },
+  {
+   "text": "Recelpt#:CS00082258",
+   "conf": 0.9534098286377756
+  },
+  {
+   "text": "Salesperson:",
+   "conf": 0.9926841457684835
+  },
+  {
+   "text": "Date.09/02/2018",
+   "conf": 0.9946736852327983
+  },
+  {
+   "text": "Cashier: USER",
+   "conf": 0.9600778222084045
+  },
+  {
+   "text": "Time: 08:32:00",
+   "conf": 0.9814175282205854
+  },
+  {
+   "text": "(RM)",
+   "conf": 0.9773917496204376
+  },
+  {
+   "text": "(RM)",
+   "conf": 0.8596214205026627
+  },
+  {
+   "text": "Iter",
+   "conf": 0.7041357010602951
+  },
+  {
+   "text": "Qty",
+   "conf": 0.854643444220225
+  },
+  {
+   "text": "RSP",
+   "conf": 0.772404948870341
+  },
+  {
+   "text": "Ainoun!",
+   "conf": 0.7935623952320644
+  },
+  {
+   "text": "6783",
+   "conf": 0.9986504763364792
+  },
+  {
+   "text": "1809",
+   "conf": 0.9130809903144836
+  },
+  {
+   "text": "5",
+   "conf": 0.9769940972328186
+  },
+  {
+   "text": "3.50",
+   "conf": 0.9916587769985199
+  },
+  {
+   "text": "17.5C",
+   "conf": 0.8559057116508484
+  },
+  {
+   "text": "SRCERAMIC CAP",
+   "conf": 0.9723051694723276
+  },
+  {
+   "text": "2954",
+   "conf": 0.9306256175041199
+  },
+  {
+   "text": "1809",
+   "conf": 0.8454705476760864
+  },
+  {
+   "text": "3.80",
+   "conf": 0.9980296045541763
+  },
+  {
+   "text": "114.0C",
+   "conf": 0.9666766424973806
+  },
+  {
+   "text": "SR: S/STEEL 1/2\" STREET ELBOWV",
+   "conf": 0.9447570463021596
+  },
+  {
+   "text": "1760",
+   "conf": 0.9991892874240875
+  },
+  {
+   "text": "GA",
+   "conf": 0.9604039192199707
+  },
+  {
+   "text": "1",
+   "conf": 0.7285507917404175
+  },
+  {
+   "text": "55.00",
+   "conf": 0.9985782980918885
+  },
+  {
+   "text": "55.0C",
+   "conf": 0.8668080925941467
+  },
+  {
+   "text": "SR: 2.4MM STARWELD RED HEAD",
+   "conf": 0.9309429923693339
+  },
+  {
+   "text": "TUNGSTENROD",
+   "conf": 0.9970076300881126
+  },
+  {
+   "text": "3496",
+   "conf": 0.9993531703948975
+  },
+  {
+   "text": "GA",
+   "conf": 0.9765249192714691
+  },
+  {
+   "text": "3",
+   "conf": 0.9977635145187378
+  },
+  {
+   "text": "33.00",
+   "conf": 0.9992110967636109
+  },
+  {
+   "text": "99.0C",
+   "conf": 0.9200488805770874
+  },
+  {
+   "text": "SR: ESICUT 4\" CUTTING DISC (1BOX)-50PCS",
+   "conf": 0.9479451378186544
+  },
+  {
+   "text": "2460",
+   "conf": 0.9908152371644974
+  },
+  {
+   "text": "G月",
+   "conf": 0.632368192076683
+  },
+  {
+   "text": "43.00",
+   "conf": 0.999720323085785
+  },
+  {
+   "text": "86.0C",
+   "conf": 0.9568679809570313
+  },
+  {
+   "text": "SR: WELDRO PICKLING GEL 1KG",
+   "conf": 0.9514172430391665
+  },
+  {
+   "text": "9428",
+   "conf": 0.9974408894777298
+  },
+  {
+   "text": "品",
+   "conf": 0.6161727905273438
+  },
+  {
+   "text": "4",
+   "conf": 0.9972220659255981
+  },
+  {
+   "text": "10.00",
+   "conf": 0.999233090877533
+  },
+  {
+   "text": "40.0C",
+   "conf": 0.9763242125511169
+  },
+  {
+   "text": "SR: 13.5\"WELDING GLOVE - GREEN (GS)",
+   "conf": 0.9235083545957293
+  },
+  {
+   "text": "TOTQTY:45",
+   "conf": 0.9826910959349738
+  },
+  {
+   "text": "411.50",
+   "conf": 0.6663443297147751
+  },
+  {
+   "text": "{Excluded GST) Sub Total (RM):",
+   "conf": 0.9465732932090759
+  },
+  {
+   "text": "411.50",
+   "conf": 0.9993590811888377
+  },
+  {
+   "text": "Discournt(RM) :",
+   "conf": 0.9406357049942017
+  },
+  {
+   "text": "00:0",
+   "conf": 0.6769361421465874
+  },
+  {
+   "text": "Total GST (RM} :",
+   "conf": 0.9135516919195652
+  },
+  {
+   "text": "24.69",
+   "conf": 0.9996349334716796
+  },
+  {
+   "text": "Rounding (RM) :",
+   "conf": 0.9913160721460978
+  },
+  {
+   "text": "0.01",
+   "conf": 0.9772008508443832
+  },
+  {
+   "text": "Total (RM) :",
+   "conf": 0.8814366410175959
+  },
+  {
+   "text": "436.20",
+   "conf": 0.9740107456843058
+  },
+  {
+   "text": "CASH :",
+   "conf": 0.9367554287115732
+  },
+  {
+   "text": "436.20",
+   "conf": 0.9996698300043741
+  },
+  {
+   "text": "Change (RM) :",
+   "conf": 0.9808206787476172
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9994871020317078
+  },
+  {
+   "text": "GST SUMMARY",
+   "conf": 0.950427916916934
+  },
+  {
+   "text": "Tax Code",
+   "conf": 0.9255779534578323
+  },
+  {
+   "text": "%",
+   "conf": 0.9995514750480652
+  },
+  {
+   "text": "Amount",
+   "conf": 0.9728036224842072
+  },
+  {
+   "text": "GST",
+   "conf": 0.9902164340019226
+  },
+  {
+   "text": "SR",
+   "conf": 0.9805938005447388
+  },
+  {
+   "text": "6",
+   "conf": 0.6434122323989868
+  },
+  {
+   "text": "411.50",
+   "conf": 0.998098353544871
+  },
+  {
+   "text": "24.69",
+   "conf": 0.9790879011154174
+  },
+  {
+   "text": "Total :",
+   "conf": 0.973849858556475
+  },
+  {
+   "text": "411.50",
+   "conf": 0.9982894559701284
+  },
+  {
+   "text": "GOODS SOLDARE NOT RETURNABLE.",
+   "conf": 0.9473804646524889
+  },
+  {
+   "text": "THANK YOU.",
+   "conf": 0.9717623114585876
+  }
+ ],
+ "mean_conf": 0.9348,
+ "low_conf_share": 0.0,
+ "latency_ms": 5235,
+ "fields": {
+  "company": "PERNIAGAAN ZHENG HU",
+  "date": "2018-02-09",
+  "total": 411.5
+ },
+ "rule_reasons": [
+  "total_multiple_keyword_amounts"
+ ],
+ "total_candidates": [
+  436.2,
+  411.5
+ ],
+ "key": "X51005200931"
+}

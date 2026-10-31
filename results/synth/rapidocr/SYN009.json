@@ -1,0 +1,116 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "RAPIDWHEELSAUTOSERVICE",
+  "LOT1182JALAN KLANGLAMA",
+  "TAXINVOICE",
+  "Date:13/05/2025 Time:13:42",
+  "1x STEAMEDFISH 48.00",
+  "2X MINERAL WATER 1.5L 4.40",
+  "SUBTOTAL 52.40",
+  "GST6% 3.14",
+  "TOTAL 55.54",
+  "CASH 60.54",
+  "CHANGE 5.00",
+  "THANK YOU,PLEASE COME AGAIN"
+ ],
+ "tokens": [
+  {
+   "text": "RAPIDWHEELSAUTOSERVICE",
+   "conf": 0.9933689724315297
+  },
+  {
+   "text": "LOT1182JALAN KLANGLAMA",
+   "conf": 0.9534961987625469
+  },
+  {
+   "text": "TAXINVOICE",
+   "conf": 0.994626384973526
+  },
+  {
+   "text": "Date:13/05/2025",
+   "conf": 0.9905999064445495
+  },
+  {
+   "text": "Time:13:42",
+   "conf": 0.9808824956417084
+  },
+  {
+   "text": "1x",
+   "conf": 0.8067221641540527
+  },
+  {
+   "text": "STEAMEDFISH",
+   "conf": 0.9901907931674611
+  },
+  {
+   "text": "48.00",
+   "conf": 0.9982659220695496
+  },
+  {
+   "text": "2X MINERAL WATER 1.5L",
+   "conf": 0.9116263701802209
+  },
+  {
+   "text": "4.40",
+   "conf": 0.9975587874650955
+  },
+  {
+   "text": "SUBTOTAL",
+   "conf": 0.9963935539126396
+  },
+  {
+   "text": "52.40",
+   "conf": 0.9996518015861511
+  },
+  {
+   "text": "GST6%",
+   "conf": 0.9993787288665772
+  },
+  {
+   "text": "3.14",
+   "conf": 0.9981741607189178
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.9949677944183349
+  },
+  {
+   "text": "55.54",
+   "conf": 0.9996967315673828
+  },
+  {
+   "text": "CASH",
+   "conf": 0.9974161833524704
+  },
+  {
+   "text": "60.54",
+   "conf": 0.9997745752334595
+  },
+  {
+   "text": "CHANGE",
+   "conf": 0.9969419836997986
+  },
+  {
+   "text": "5.00",
+   "conf": 0.9994096755981445
+  },
+  {
+   "text": "THANK YOU,PLEASE COME AGAIN",
+   "conf": 0.9333976727944834
+  }
+ ],
+ "mean_conf": 0.9777,
+ "low_conf_share": 0.0,
+ "latency_ms": 18604,
+ "fields": {
+  "company": "RAPIDWHEELSAUTOSERVICE",
+  "date": "2025-05-13",
+  "total": 55.54
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  55.54
+ ],
+ "key": "SYN009"
+}

@@ -1,0 +1,241 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "LTWOFLORIST&HANDICRAFT",
+  "002062543-P",
+  "NO.49,JALANMAHAGONI7/2,",
+  "SEKSYEN4BANDARUTAMA,",
+  "44300BATANGKALI,SELANGOR",
+  "TEL:012-3216447",
+  "CASH",
+  "RECEIPT#: CS00007203 DATE: 21/03/2018",
+  "SALESPERSON:001 TIME: 11:01:00",
+  "CASHIER: USER",
+  "ITEM QTY U/P AMOUNT",
+  "NE3555 2 1.00 2.00",
+  "11/2\"SAFETYPIN",
+  "SB/01-3 1 7.00, 7.00",
+  "SATINBIASTAPE12MMX3Y",
+  "TOTALQTY: 3 贝1 D0n",
+  "SUB-TOTAL: 9.00",
+  "DISC: 0.00",
+  "TAX 0.00",
+  "ROUNDING 0.00",
+  "TOTAL 9.00",
+  "CASH 20.00",
+  "CHANGE 11.00",
+  "BARANGYANGDIJUALTIDAKBOLEH",
+  "DITUKAR,"
+ ],
+ "tokens": [
+  {
+   "text": "LTWOFLORIST&HANDICRAFT",
+   "conf": 0.985724004832181
+  },
+  {
+   "text": "002062543-P",
+   "conf": 0.994975973259319
+  },
+  {
+   "text": "NO.49,JALANMAHAGONI7/2,",
+   "conf": 0.9383729061354762
+  },
+  {
+   "text": "SEKSYEN4BANDARUTAMA,",
+   "conf": 0.9706091076135636
+  },
+  {
+   "text": "44300BATANGKALI,SELANGOR",
+   "conf": 0.9592266827821732
+  },
+  {
+   "text": "TEL:012-3216447",
+   "conf": 0.9871166706085205
+  },
+  {
+   "text": "CASH",
+   "conf": 0.9905929118394852
+  },
+  {
+   "text": "RECEIPT#:",
+   "conf": 0.9434632129139371
+  },
+  {
+   "text": "CS00007203",
+   "conf": 0.9964737892150879
+  },
+  {
+   "text": "DATE:",
+   "conf": 0.9629113793373107
+  },
+  {
+   "text": "21/03/2018",
+   "conf": 0.9965395629405975
+  },
+  {
+   "text": "SALESPERSON:001",
+   "conf": 0.9765288551648458
+  },
+  {
+   "text": "TIME:",
+   "conf": 0.975034499168396
+  },
+  {
+   "text": "11:01:00",
+   "conf": 0.9772550538182259
+  },
+  {
+   "text": "CASHIER:",
+   "conf": 0.9809058308601379
+  },
+  {
+   "text": "USER",
+   "conf": 0.99037005007267
+  },
+  {
+   "text": "ITEM",
+   "conf": 0.9901241362094879
+  },
+  {
+   "text": "QTY",
+   "conf": 0.9957107106844584
+  },
+  {
+   "text": "U/P",
+   "conf": 0.9697135090827942
+  },
+  {
+   "text": "AMOUNT",
+   "conf": 0.9945380687713623
+  },
+  {
+   "text": "NE3555",
+   "conf": 0.9978769520918528
+  },
+  {
+   "text": "2",
+   "conf": 0.9990944862365723
+  },
+  {
+   "text": "1.00",
+   "conf": 0.997180387377739
+  },
+  {
+   "text": "2.00",
+   "conf": 0.9984237849712372
+  },
+  {
+   "text": "11/2\"SAFETYPIN",
+   "conf": 0.969179630279541
+  },
+  {
+   "text": "SB/01-3",
+   "conf": 0.9913516470364162
+  },
+  {
+   "text": "1",
+   "conf": 0.9918776750564575
+  },
+  {
+   "text": "7.00,",
+   "conf": 0.8979059875011444
+  },
+  {
+   "text": "7.00",
+   "conf": 0.9984747022390366
+  },
+  {
+   "text": "SATINBIASTAPE12MMX3Y",
+   "conf": 0.9846740305423737
+  },
+  {
+   "text": "TOTALQTY:",
+   "conf": 0.9678349826070998
+  },
+  {
+   "text": "3",
+   "conf": 0.9977769255638123
+  },
+  {
+   "text": "贝1 D0n",
+   "conf": 0.7239760259787241
+  },
+  {
+   "text": "SUB-TOTAL:",
+   "conf": 0.9428075075149536
+  },
+  {
+   "text": "9.00",
+   "conf": 0.9987173974514008
+  },
+  {
+   "text": "DISC:",
+   "conf": 0.9122367739677429
+  },
+  {
+   "text": "0.00",
+   "conf": 0.997730165719986
+  },
+  {
+   "text": "TAX",
+   "conf": 0.9929722348848978
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9985203742980957
+  },
+  {
+   "text": "ROUNDING",
+   "conf": 0.9963413849473
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9986153990030289
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.9906049966812134
+  },
+  {
+   "text": "9.00",
+   "conf": 0.9991303831338882
+  },
+  {
+   "text": "CASH",
+   "conf": 0.9898017197847366
+  },
+  {
+   "text": "20.00",
+   "conf": 0.9994689226150513
+  },
+  {
+   "text": "CHANGE",
+   "conf": 0.9889920949935913
+  },
+  {
+   "text": "11.00",
+   "conf": 0.9990139365196228
+  },
+  {
+   "text": "BARANGYANGDIJUALTIDAKBOLEH",
+   "conf": 0.9920607667702895
+  },
+  {
+   "text": "DITUKAR,",
+   "conf": 0.9758978560566902
+  }
+ ],
+ "mean_conf": 0.9768,
+ "low_conf_share": 0.0,
+ "latency_ms": 4626,
+ "fields": {
+  "company": "LTWOFLORIST HANDICRAFT",
+  "date": "2018-03-21",
+  "total": 9.0
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  9.0
+ ],
+ "key": "X51005712039"
+}

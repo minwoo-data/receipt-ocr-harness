@@ -1,0 +1,307 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "Mitchells Restaurant",
+  "ORDER 76",
+  "CUSTOMER coPY",
+  "Eat In Cash Sales",
+  "Destinetion Tin",
+  "Invoice # 10108",
+  "Salesperson wy",
+  "Date 40.25 PM 16 Jul 16",
+  "4 1/2 SANCERRE W 21.50",
+  "4 ESPRESSO 220",
+  "7 DOZ OYSTERS E 2395",
+  "1 PANSEABASS E 24.60",
+  "1 VALUE MENU. 28.96",
+  "BALANCE DUE € 101.40",
+  "Includes VAT",
+  "Cash 401.10",
+  "TENDERED € 101.10",
+  "Minimum Card Transaction",
+  "is £30.00",
+  "SERVICE CHARGE IS NOT INCLUDED."
+ ],
+ "tokens": [
+  {
+   "text": "Mitchells",
+   "conf": 0.91
+  },
+  {
+   "text": "Restaurant",
+   "conf": 0.95
+  },
+  {
+   "text": "ORDER",
+   "conf": 0.95
+  },
+  {
+   "text": "76",
+   "conf": 0.95
+  },
+  {
+   "text": "CUSTOMER",
+   "conf": 0.5
+  },
+  {
+   "text": "coPY",
+   "conf": 0.74
+  },
+  {
+   "text": "Eat",
+   "conf": 0.94
+  },
+  {
+   "text": "In",
+   "conf": 0.92
+  },
+  {
+   "text": "Cash",
+   "conf": 0.34
+  },
+  {
+   "text": "Sales",
+   "conf": 0.34
+  },
+  {
+   "text": "Destinetion",
+   "conf": 0.24
+  },
+  {
+   "text": "Tin",
+   "conf": 0.55
+  },
+  {
+   "text": "Invoice",
+   "conf": 0.66
+  },
+  {
+   "text": "#",
+   "conf": 0.9
+  },
+  {
+   "text": "10108",
+   "conf": 0.48
+  },
+  {
+   "text": "Salesperson",
+   "conf": 0.87
+  },
+  {
+   "text": "wy",
+   "conf": 0.03
+  },
+  {
+   "text": "Date",
+   "conf": 0.96
+  },
+  {
+   "text": "40.25",
+   "conf": 0.68
+  },
+  {
+   "text": "PM",
+   "conf": 0.79
+  },
+  {
+   "text": "16",
+   "conf": 0.79
+  },
+  {
+   "text": "Jul",
+   "conf": 0.61
+  },
+  {
+   "text": "16",
+   "conf": 0.92
+  },
+  {
+   "text": "4",
+   "conf": 0.62
+  },
+  {
+   "text": "1/2",
+   "conf": 0.62
+  },
+  {
+   "text": "SANCERRE",
+   "conf": 0.79
+  },
+  {
+   "text": "W",
+   "conf": 0.84
+  },
+  {
+   "text": "21.50",
+   "conf": 0.63
+  },
+  {
+   "text": "4",
+   "conf": 0.74
+  },
+  {
+   "text": "ESPRESSO",
+   "conf": 0.74
+  },
+  {
+   "text": "220",
+   "conf": 0.68
+  },
+  {
+   "text": "7",
+   "conf": 0.55
+  },
+  {
+   "text": "DOZ",
+   "conf": 0.33
+  },
+  {
+   "text": "OYSTERS",
+   "conf": 0.33
+  },
+  {
+   "text": "E",
+   "conf": 0.35
+  },
+  {
+   "text": "2395",
+   "conf": 0.76
+  },
+  {
+   "text": "1",
+   "conf": 0.63
+  },
+  {
+   "text": "PANSEABASS",
+   "conf": 0.63
+  },
+  {
+   "text": "E",
+   "conf": 0.87
+  },
+  {
+   "text": "24.60",
+   "conf": 0.56
+  },
+  {
+   "text": "1",
+   "conf": 0.58
+  },
+  {
+   "text": "VALUE",
+   "conf": 0.67
+  },
+  {
+   "text": "MENU.",
+   "conf": 0.69
+  },
+  {
+   "text": "28.96",
+   "conf": 0.69
+  },
+  {
+   "text": "BALANCE",
+   "conf": 0.96
+  },
+  {
+   "text": "DUE",
+   "conf": 0.94
+  },
+  {
+   "text": "€",
+   "conf": 0.24
+  },
+  {
+   "text": "101.40",
+   "conf": 0.24
+  },
+  {
+   "text": "Includes",
+   "conf": 0.92
+  },
+  {
+   "text": "VAT",
+   "conf": 0.96
+  },
+  {
+   "text": "Cash",
+   "conf": 0.72
+  },
+  {
+   "text": "401.10",
+   "conf": 0.88
+  },
+  {
+   "text": "TENDERED",
+   "conf": 0.75
+  },
+  {
+   "text": "€",
+   "conf": 0.11
+  },
+  {
+   "text": "101.10",
+   "conf": 0.11
+  },
+  {
+   "text": "Minimum",
+   "conf": 0.96
+  },
+  {
+   "text": "Card",
+   "conf": 0.96
+  },
+  {
+   "text": "Transaction",
+   "conf": 0.93
+  },
+  {
+   "text": "is",
+   "conf": 0.54
+  },
+  {
+   "text": "£30.00",
+   "conf": 0.2
+  },
+  {
+   "text": "SERVICE",
+   "conf": 0.0
+  },
+  {
+   "text": "CHARGE",
+   "conf": 0.96
+  },
+  {
+   "text": "IS",
+   "conf": 0.95
+  },
+  {
+   "text": "NOT",
+   "conf": 0.96
+  },
+  {
+   "text": "INCLUDED.",
+   "conf": 0.56
+  }
+ ],
+ "mean_conf": 0.6642,
+ "low_conf_share": 0.2154,
+ "latency_ms": 389,
+ "fields": {
+  "company": "MITCHELLS RESTAURANT",
+  "date": "2016-07-16",
+  "total": 401.1
+ },
+ "rule_reasons": [
+  "total_no_keyword_fallback_max"
+ ],
+ "total_candidates": [
+  24.6,
+  28.96,
+  101.4,
+  401.1,
+  101.1,
+  30.0
+ ],
+ "key": "W0195_6cf24379a465"
+}

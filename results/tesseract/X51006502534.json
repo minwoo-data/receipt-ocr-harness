@@ -1,0 +1,440 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "Welcome to the Family",
+  "*",
+  "FamilyMart",
+  "Maxincome Resources Sdn Bhd (383522-D)",
+  "No 16A, Jalan Astaka U8/83, Bukit Jelutong,",
+  "40150 Shah Alam, Selangor, OE.",
+  "GST IO : 000468594688",
+  "#0004 Gateway@KLIA 2 (L3-1",
+  "Tel No:",
+  "TAX INVOICE",
+  "10/04/2018 18:31 #000420693",
+  "POS: 02 CSH: 00004108",
+  "Staff: ECAH",
+  "Desc Amt (RM)",
+  "F/Friend 3/F Original 2 S.eusy",
+  "SUB TOTAL (Inc GST)",
+  "ens",
+  "TAL dal",
+  "CASH 6.00",
+  "CHANGE v.20",
+  "# ITEMS SOLD 1",
+  "Tax Code Amt (RM) Tax(RM)",
+  "SR (6%) 5.47 0.33",
+  "THANK YOU & PLEASE COME AGAIN",
+  "Pred",
+  "BE A PART OF OUR FAMILY TODAY!",
+  "FACEBOOK : FamilyMartMy",
+  "woe faint Tymart .com.my"
+ ],
+ "tokens": [
+  {
+   "text": "Welcome",
+   "conf": 0.96
+  },
+  {
+   "text": "to",
+   "conf": 0.96
+  },
+  {
+   "text": "the",
+   "conf": 0.96
+  },
+  {
+   "text": "Family",
+   "conf": 0.96
+  },
+  {
+   "text": "*",
+   "conf": 0.0
+  },
+  {
+   "text": "FamilyMart",
+   "conf": 0.91
+  },
+  {
+   "text": "Maxincome",
+   "conf": 0.62
+  },
+  {
+   "text": "Resources",
+   "conf": 0.82
+  },
+  {
+   "text": "Sdn",
+   "conf": 0.91
+  },
+  {
+   "text": "Bhd",
+   "conf": 0.89
+  },
+  {
+   "text": "(383522-D)",
+   "conf": 0.59
+  },
+  {
+   "text": "No",
+   "conf": 0.93
+  },
+  {
+   "text": "16A,",
+   "conf": 0.87
+  },
+  {
+   "text": "Jalan",
+   "conf": 0.89
+  },
+  {
+   "text": "Astaka",
+   "conf": 0.89
+  },
+  {
+   "text": "U8/83,",
+   "conf": 0.88
+  },
+  {
+   "text": "Bukit",
+   "conf": 0.93
+  },
+  {
+   "text": "Jelutong,",
+   "conf": 0.67
+  },
+  {
+   "text": "40150",
+   "conf": 0.73
+  },
+  {
+   "text": "Shah",
+   "conf": 0.95
+  },
+  {
+   "text": "Alam,",
+   "conf": 0.94
+  },
+  {
+   "text": "Selangor,",
+   "conf": 0.95
+  },
+  {
+   "text": "OE.",
+   "conf": 0.06
+  },
+  {
+   "text": "GST",
+   "conf": 0.76
+  },
+  {
+   "text": "IO",
+   "conf": 0.76
+  },
+  {
+   "text": ":",
+   "conf": 0.84
+  },
+  {
+   "text": "000468594688",
+   "conf": 0.75
+  },
+  {
+   "text": "#0004",
+   "conf": 0.92
+  },
+  {
+   "text": "Gateway@KLIA",
+   "conf": 0.9
+  },
+  {
+   "text": "2",
+   "conf": 0.92
+  },
+  {
+   "text": "(L3-1",
+   "conf": 0.78
+  },
+  {
+   "text": "Tel",
+   "conf": 0.9
+  },
+  {
+   "text": "No:",
+   "conf": 0.95
+  },
+  {
+   "text": "TAX",
+   "conf": 0.93
+  },
+  {
+   "text": "INVOICE",
+   "conf": 0.96
+  },
+  {
+   "text": "10/04/2018",
+   "conf": 0.94
+  },
+  {
+   "text": "18:31",
+   "conf": 0.94
+  },
+  {
+   "text": "#000420693",
+   "conf": 0.91
+  },
+  {
+   "text": "POS:",
+   "conf": 0.91
+  },
+  {
+   "text": "02",
+   "conf": 0.93
+  },
+  {
+   "text": "CSH:",
+   "conf": 0.78
+  },
+  {
+   "text": "00004108",
+   "conf": 0.96
+  },
+  {
+   "text": "Staff:",
+   "conf": 0.79
+  },
+  {
+   "text": "ECAH",
+   "conf": 0.96
+  },
+  {
+   "text": "Desc",
+   "conf": 0.95
+  },
+  {
+   "text": "Amt",
+   "conf": 0.95
+  },
+  {
+   "text": "(RM)",
+   "conf": 0.95
+  },
+  {
+   "text": "F/Friend",
+   "conf": 0.92
+  },
+  {
+   "text": "3/F",
+   "conf": 0.6
+  },
+  {
+   "text": "Original",
+   "conf": 0.96
+  },
+  {
+   "text": "2",
+   "conf": 0.4
+  },
+  {
+   "text": "S.eusy",
+   "conf": 0.0
+  },
+  {
+   "text": "SUB",
+   "conf": 0.95
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.95
+  },
+  {
+   "text": "(Inc",
+   "conf": 0.94
+  },
+  {
+   "text": "GST)",
+   "conf": 0.96
+  },
+  {
+   "text": "ens",
+   "conf": 0.19
+  },
+  {
+   "text": "TAL",
+   "conf": 0.49
+  },
+  {
+   "text": "dal",
+   "conf": 0.46
+  },
+  {
+   "text": "CASH",
+   "conf": 0.96
+  },
+  {
+   "text": "6.00",
+   "conf": 0.92
+  },
+  {
+   "text": "CHANGE",
+   "conf": 0.96
+  },
+  {
+   "text": "v.20",
+   "conf": 0.79
+  },
+  {
+   "text": "#",
+   "conf": 0.85
+  },
+  {
+   "text": "ITEMS",
+   "conf": 0.96
+  },
+  {
+   "text": "SOLD",
+   "conf": 0.86
+  },
+  {
+   "text": "1",
+   "conf": 0.86
+  },
+  {
+   "text": "Tax",
+   "conf": 0.96
+  },
+  {
+   "text": "Code",
+   "conf": 0.96
+  },
+  {
+   "text": "Amt",
+   "conf": 0.0
+  },
+  {
+   "text": "(RM)",
+   "conf": 0.0
+  },
+  {
+   "text": "Tax(RM)",
+   "conf": 0.27
+  },
+  {
+   "text": "SR",
+   "conf": 0.93
+  },
+  {
+   "text": "(6%)",
+   "conf": 0.93
+  },
+  {
+   "text": "5.47",
+   "conf": 0.92
+  },
+  {
+   "text": "0.33",
+   "conf": 0.9
+  },
+  {
+   "text": "THANK",
+   "conf": 0.96
+  },
+  {
+   "text": "YOU",
+   "conf": 0.92
+  },
+  {
+   "text": "&",
+   "conf": 0.92
+  },
+  {
+   "text": "PLEASE",
+   "conf": 0.96
+  },
+  {
+   "text": "COME",
+   "conf": 0.96
+  },
+  {
+   "text": "AGAIN",
+   "conf": 0.96
+  },
+  {
+   "text": "Pred",
+   "conf": 0.29
+  },
+  {
+   "text": "BE",
+   "conf": 0.95
+  },
+  {
+   "text": "A",
+   "conf": 0.95
+  },
+  {
+   "text": "PART",
+   "conf": 0.95
+  },
+  {
+   "text": "OF",
+   "conf": 0.96
+  },
+  {
+   "text": "OUR",
+   "conf": 0.87
+  },
+  {
+   "text": "FAMILY",
+   "conf": 0.96
+  },
+  {
+   "text": "TODAY!",
+   "conf": 0.95
+  },
+  {
+   "text": "FACEBOOK",
+   "conf": 0.91
+  },
+  {
+   "text": ":",
+   "conf": 0.79
+  },
+  {
+   "text": "FamilyMartMy",
+   "conf": 0.64
+  },
+  {
+   "text": "woe",
+   "conf": 0.54
+  },
+  {
+   "text": "faint",
+   "conf": 0.35
+  },
+  {
+   "text": "Tymart",
+   "conf": 0.0
+  },
+  {
+   "text": ".com.my",
+   "conf": 0.37
+  }
+ ],
+ "mean_conf": 0.7899,
+ "low_conf_share": 0.1443,
+ "latency_ms": 797,
+ "fields": {
+  "company": "MAXINCOME RESOURCES SDN BHD",
+  "date": "2018-04-10",
+  "total": 6.0
+ },
+ "rule_reasons": [
+  "total_no_keyword_fallback_max"
+ ],
+ "total_candidates": [
+  6.0,
+  5.47,
+  0.33
+ ],
+ "key": "X51006502534"
+}

@@ -1,0 +1,174 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "soe eweens",
+  "Crystal Paradise, Ground Floor ¥",
+  "Str ire Bet",
+  "srt (0 host 6 oe.)",
+  "ee | i",
+  "® oS",
+  "| 1 es",
+  "t ts",
+  "c 1 om",
+  "t 1 om",
+  "a: 6600",
+  "mae",
+  "14/4"
+ ],
+ "tokens": [
+  {
+   "text": "soe",
+   "conf": 0.06
+  },
+  {
+   "text": "eweens",
+   "conf": 0.0
+  },
+  {
+   "text": "Crystal",
+   "conf": 0.94
+  },
+  {
+   "text": "Paradise,",
+   "conf": 0.91
+  },
+  {
+   "text": "Ground",
+   "conf": 0.85
+  },
+  {
+   "text": "Floor",
+   "conf": 0.96
+  },
+  {
+   "text": "¥",
+   "conf": 0.41
+  },
+  {
+   "text": "Str",
+   "conf": 0.47
+  },
+  {
+   "text": "ire",
+   "conf": 0.52
+  },
+  {
+   "text": "Bet",
+   "conf": 0.52
+  },
+  {
+   "text": "srt",
+   "conf": 0.41
+  },
+  {
+   "text": "(0",
+   "conf": 0.27
+  },
+  {
+   "text": "host",
+   "conf": 0.25
+  },
+  {
+   "text": "6",
+   "conf": 0.29
+  },
+  {
+   "text": "oe.)",
+   "conf": 0.14
+  },
+  {
+   "text": "ee",
+   "conf": 0.3
+  },
+  {
+   "text": "|",
+   "conf": 0.77
+  },
+  {
+   "text": "i",
+   "conf": 0.45
+  },
+  {
+   "text": "®",
+   "conf": 0.0
+  },
+  {
+   "text": "oS",
+   "conf": 0.2
+  },
+  {
+   "text": "|",
+   "conf": 0.51
+  },
+  {
+   "text": "1",
+   "conf": 0.29
+  },
+  {
+   "text": "es",
+   "conf": 0.42
+  },
+  {
+   "text": "t",
+   "conf": 0.55
+  },
+  {
+   "text": "ts",
+   "conf": 0.09
+  },
+  {
+   "text": "c",
+   "conf": 0.0
+  },
+  {
+   "text": "1",
+   "conf": 0.49
+  },
+  {
+   "text": "om",
+   "conf": 0.31
+  },
+  {
+   "text": "t",
+   "conf": 0.49
+  },
+  {
+   "text": "1",
+   "conf": 0.42
+  },
+  {
+   "text": "om",
+   "conf": 0.42
+  },
+  {
+   "text": "a:",
+   "conf": 0.11
+  },
+  {
+   "text": "6600",
+   "conf": 0.29
+  },
+  {
+   "text": "mae",
+   "conf": 0.0
+  },
+  {
+   "text": "14/4",
+   "conf": 0.0
+  }
+ ],
+ "mean_conf": 0.3746,
+ "low_conf_share": 0.7429,
+ "latency_ms": 285,
+ "fields": {
+  "company": "SOE EWEENS",
+  "date": null,
+  "total": null
+ },
+ "rule_reasons": [
+  "date_not_found",
+  "total_not_found"
+ ],
+ "total_candidates": [],
+ "key": "W0176_e46ec2e27618"
+}

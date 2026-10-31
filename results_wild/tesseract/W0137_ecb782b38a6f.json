@@ -1,0 +1,257 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "eG",
+  "Mitcheldean Garage",
+  "New Road",
+  "Mitcheldean",
+  "Glos",
+  "GLI? BBX",
+  "Mexe4556 Twxee 2628",
+  "CUSTOMER COPY",
+  "This is not VAT receipt",
+  "Visa",
+  "ALD: ABABABGGAS1 O18",
+  "CARD! xeexxwewxnxeg1 52",
+  "PAN Seq Nr ' 84",
+  "ICC SALE",
+  "TaTAL £15.25",
+  "Customer PIN verified",
+  "Please retain receipt",
+  "for your records",
+  "Auth Code: 409969",
+  "Te19882",
+  "1366715 14:12 R7961",
+  "Thank You"
+ ],
+ "tokens": [
+  {
+   "text": "eG",
+   "conf": 0.43
+  },
+  {
+   "text": "Mitcheldean",
+   "conf": 0.91
+  },
+  {
+   "text": "Garage",
+   "conf": 0.96
+  },
+  {
+   "text": "New",
+   "conf": 0.96
+  },
+  {
+   "text": "Road",
+   "conf": 0.96
+  },
+  {
+   "text": "Mitcheldean",
+   "conf": 0.91
+  },
+  {
+   "text": "Glos",
+   "conf": 0.97
+  },
+  {
+   "text": "GLI?",
+   "conf": 0.64
+  },
+  {
+   "text": "BBX",
+   "conf": 0.9
+  },
+  {
+   "text": "Mexe4556",
+   "conf": 0.35
+  },
+  {
+   "text": "Twxee",
+   "conf": 0.0
+  },
+  {
+   "text": "2628",
+   "conf": 0.74
+  },
+  {
+   "text": "CUSTOMER",
+   "conf": 0.96
+  },
+  {
+   "text": "COPY",
+   "conf": 0.96
+  },
+  {
+   "text": "This",
+   "conf": 0.95
+  },
+  {
+   "text": "is",
+   "conf": 0.94
+  },
+  {
+   "text": "not",
+   "conf": 0.95
+  },
+  {
+   "text": "VAT",
+   "conf": 0.69
+  },
+  {
+   "text": "receipt",
+   "conf": 0.95
+  },
+  {
+   "text": "Visa",
+   "conf": 0.57
+  },
+  {
+   "text": "ALD:",
+   "conf": 0.48
+  },
+  {
+   "text": "ABABABGGAS1",
+   "conf": 0.15
+  },
+  {
+   "text": "O18",
+   "conf": 0.57
+  },
+  {
+   "text": "CARD!",
+   "conf": 0.85
+  },
+  {
+   "text": "xeexxwewxnxeg1",
+   "conf": 0.0
+  },
+  {
+   "text": "52",
+   "conf": 0.61
+  },
+  {
+   "text": "PAN",
+   "conf": 0.95
+  },
+  {
+   "text": "Seq",
+   "conf": 0.94
+  },
+  {
+   "text": "Nr",
+   "conf": 0.75
+  },
+  {
+   "text": "'",
+   "conf": 0.0
+  },
+  {
+   "text": "84",
+   "conf": 0.3
+  },
+  {
+   "text": "ICC",
+   "conf": 0.9
+  },
+  {
+   "text": "SALE",
+   "conf": 0.95
+  },
+  {
+   "text": "TaTAL",
+   "conf": 0.32
+  },
+  {
+   "text": "£15.25",
+   "conf": 0.67
+  },
+  {
+   "text": "Customer",
+   "conf": 0.96
+  },
+  {
+   "text": "PIN",
+   "conf": 0.96
+  },
+  {
+   "text": "verified",
+   "conf": 0.95
+  },
+  {
+   "text": "Please",
+   "conf": 0.59
+  },
+  {
+   "text": "retain",
+   "conf": 0.96
+  },
+  {
+   "text": "receipt",
+   "conf": 0.95
+  },
+  {
+   "text": "for",
+   "conf": 0.96
+  },
+  {
+   "text": "your",
+   "conf": 0.95
+  },
+  {
+   "text": "records",
+   "conf": 0.96
+  },
+  {
+   "text": "Auth",
+   "conf": 0.9
+  },
+  {
+   "text": "Code:",
+   "conf": 0.88
+  },
+  {
+   "text": "409969",
+   "conf": 0.35
+  },
+  {
+   "text": "Te19882",
+   "conf": 0.34
+  },
+  {
+   "text": "1366715",
+   "conf": 0.5
+  },
+  {
+   "text": "14:12",
+   "conf": 0.76
+  },
+  {
+   "text": "R7961",
+   "conf": 0.24
+  },
+  {
+   "text": "Thank",
+   "conf": 0.95
+  },
+  {
+   "text": "You",
+   "conf": 0.95
+  }
+ ],
+ "mean_conf": 0.7217,
+ "low_conf_share": 0.2264,
+ "latency_ms": 389,
+ "fields": {
+  "company": "MITCHELDEAN GARAGE",
+  "date": null,
+  "total": 15.25
+ },
+ "rule_reasons": [
+  "date_not_found",
+  "total_no_keyword_fallback_max"
+ ],
+ "total_candidates": [
+  15.25
+ ],
+ "key": "W0137_ecb782b38a6f"
+}

@@ -1,0 +1,140 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "BHPetrol Permas Jaya 2",
+  "LOT PTD 101051",
+  "Jalan Permas 10/10",
+  "81750 Masai, Johor",
+  "PREPAY CHIT NUMBER",
+  "57381",
+  "THIS IS NOT A RECEIPT",
+  "A Tax Invoice will be issued upon the",
+  "completion of the sale transaction",
+  "10-04-2018 08:11:53 Cashier: 465",
+  "Transaction No: 1-494268",
+  "Item U\\Price Qnty Amount",
+  "PPF P71.000 50 50.00",
+  "TOTAL. AMOUNT",
+  "CASH RM 50.00",
+  "Thank You For Shopping At BHPetromart",
+  "Customer Service 1-300-22-2828"
+ ],
+ "tokens": [
+  {
+   "text": "BHPetrol Permas Jaya 2",
+   "conf": 0.9533677399158478
+  },
+  {
+   "text": "LOT PTD 101051",
+   "conf": 0.9733292886189052
+  },
+  {
+   "text": "Jalan Permas 10/10",
+   "conf": 0.9619020620981852
+  },
+  {
+   "text": "81750 Masai, Johor",
+   "conf": 0.9959316220548418
+  },
+  {
+   "text": "PREPAY CHIT NUMBER",
+   "conf": 0.9581429362297058
+  },
+  {
+   "text": "57381",
+   "conf": 0.999683165550232
+  },
+  {
+   "text": "THIS IS NOT A RECEIPT",
+   "conf": 0.9680068606422061
+  },
+  {
+   "text": "A Tax Invoice will be issued upon the",
+   "conf": 0.9768232107162476
+  },
+  {
+   "text": "completion of the sale transaction",
+   "conf": 0.9829500370165881
+  },
+  {
+   "text": "10-04-2018 08:11:53",
+   "conf": 0.9959251566937095
+  },
+  {
+   "text": "Cashier: 465",
+   "conf": 0.9951488574345907
+  },
+  {
+   "text": "Transaction No: 1-494268",
+   "conf": 0.9971060504515966
+  },
+  {
+   "text": "Item",
+   "conf": 0.9969152212142944
+  },
+  {
+   "text": "U\\Price",
+   "conf": 0.9961136664663043
+  },
+  {
+   "text": "Qnty Amount",
+   "conf": 0.9884241006591103
+  },
+  {
+   "text": "PPF",
+   "conf": 0.9965806007385254
+  },
+  {
+   "text": "P71.000",
+   "conf": 0.9992713332176208
+  },
+  {
+   "text": "50",
+   "conf": 0.9997591972351074
+  },
+  {
+   "text": "50.00",
+   "conf": 0.9999077200889588
+  },
+  {
+   "text": "TOTAL. AMOUNT",
+   "conf": 0.9548456347905673
+  },
+  {
+   "text": "CASH",
+   "conf": 0.9991990923881531
+  },
+  {
+   "text": "RM",
+   "conf": 0.9982888698577881
+  },
+  {
+   "text": "50.00",
+   "conf": 0.9998663783073425
+  },
+  {
+   "text": "Thank You For Shopping At BHPetromart",
+   "conf": 0.9767540306658358
+  },
+  {
+   "text": "Customer Service 1-300-22-2828",
+   "conf": 0.9736668169498444
+  }
+ ],
+ "mean_conf": 0.9855,
+ "low_conf_share": 0.0,
+ "latency_ms": 4150,
+ "fields": {
+  "company": "BHPETROL PERMAS JAYA 2",
+  "date": "2018-04-10",
+  "total": 50.0
+ },
+ "rule_reasons": [
+  "total_no_keyword_fallback_max"
+ ],
+ "total_candidates": [
+  50.0,
+  50.0
+ ],
+ "key": "X51006414533"
+}

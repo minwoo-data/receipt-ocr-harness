@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.1-flash-lite",
+ "provider": "gemini",
+ "raw_text": "{\n  \"vendor\": \"MIAMI SCIENCE MUSEUM\",\n  \"date\": \"2012-07-24\",\n  \"subtotal\": 29.90,\n  \"tax\": 0.00,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 29.90,\n  \"currency\": \"USD\",\n  \"confidence\": 0.98,\n  \"notes\": null\n}",
+ "data": {
+  "vendor": "MIAMI SCIENCE MUSEUM",
+  "date": "2012-07-24",
+  "subtotal": 29.9,
+  "tax": 0.0,
+  "tip": null,
+  "discount": null,
+  "total": 29.9,
+  "currency": "USD",
+  "confidence": 0.98,
+  "notes": null
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1433,
+  "output_tokens": 107,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.000519,
+ "latency_ms": 1526,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.1-flash-lite",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.1-flash-lite"
+ ],
+ "key": "W0156_e9c310f0b1fa"
+}

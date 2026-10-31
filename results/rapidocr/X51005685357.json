@@ -1,0 +1,247 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "3180301",
+  "FerStah ceoo Fude",
+  "FarmasiMaluri S/B(587969-U)",
+  "GST N0:000342237184（ID:5033)",
+  "23,Jln Burung Jentayu,Tmn Bukit",
+  "Maluri,Kepong.52100 Kl.",
+  "TAX INVOICE",
+  "Cashier:pos1N M/c.ID:P0S7",
+  "Receipt:71857936 02/03/1805:16PM",
+  "Description Disc. Subtotal",
+  "061558-**BMSMILKTHISTLE",
+  "1X111.30 36.75 72.35S",
+  "910845-TRILON-ECRM",
+  "1X7.00 7.00Z",
+  "TOTAL (Including GST) 79.35",
+  "ROUNDING 0.00",
+  "NET 79.35",
+  "TENDER 100.00",
+  "CHANGE/BALANCE 20.65",
+  "GST Summary Amt(Excl.Gst) Tax(RM)",
+  "ZRL@0.00% 7. 00 0.00",
+  "SR @6.00% 68.25 4.10",
+  "GOODSSOLDARENON-REFUNDABLEBUT",
+  "EXCHANGEABLEWITHIN7DAYSWITH",
+  "RECEIPTPLUSGOODSAREIN",
+  "RESALEABLECONDITION.",
+  "Allfacemask&injectableare",
+  "non-returnable&non-exchangeable",
+  "**sperialpromotion"
+ ],
+ "tokens": [
+  {
+   "text": "3180301",
+   "conf": 0.9990098817007882
+  },
+  {
+   "text": "FerStah",
+   "conf": 0.5611475322927747
+  },
+  {
+   "text": "ceoo",
+   "conf": 0.7759649604558945
+  },
+  {
+   "text": "Fude",
+   "conf": 0.8279194086790085
+  },
+  {
+   "text": "FarmasiMaluri S/B(587969-U)",
+   "conf": 0.9482801379980864
+  },
+  {
+   "text": "GST N0:000342237184（ID:5033)",
+   "conf": 0.9408588090113231
+  },
+  {
+   "text": "23,Jln Burung Jentayu,Tmn Bukit",
+   "conf": 0.9302525481870098
+  },
+  {
+   "text": "Maluri,Kepong.52100 Kl.",
+   "conf": 0.8891698433005292
+  },
+  {
+   "text": "TAX INVOICE",
+   "conf": 0.9714068391106345
+  },
+  {
+   "text": "Cashier:pos1N",
+   "conf": 0.9789923567038316
+  },
+  {
+   "text": "M/c.ID:P0S7",
+   "conf": 0.9383304119110107
+  },
+  {
+   "text": "Receipt:71857936",
+   "conf": 0.9834730848670006
+  },
+  {
+   "text": "02/03/1805:16PM",
+   "conf": 0.9911176045735677
+  },
+  {
+   "text": "Description",
+   "conf": 0.9939326047897339
+  },
+  {
+   "text": "Disc.",
+   "conf": 0.9908788561820984
+  },
+  {
+   "text": "Subtotal",
+   "conf": 0.9965803772211075
+  },
+  {
+   "text": "061558-**BMSMILKTHISTLE",
+   "conf": 0.9901014877402264
+  },
+  {
+   "text": "1X111.30",
+   "conf": 0.9479145705699921
+  },
+  {
+   "text": "36.75",
+   "conf": 0.9989139199256897
+  },
+  {
+   "text": "72.35S",
+   "conf": 0.9961964786052704
+  },
+  {
+   "text": "910845-TRILON-ECRM",
+   "conf": 0.9703730245431265
+  },
+  {
+   "text": "1X7.00",
+   "conf": 0.9163183569908142
+  },
+  {
+   "text": "7.00Z",
+   "conf": 0.9918769359588623
+  },
+  {
+   "text": "TOTAL (Including GST)",
+   "conf": 0.9302980672745478
+  },
+  {
+   "text": "79.35",
+   "conf": 0.9987154006958008
+  },
+  {
+   "text": "ROUNDING",
+   "conf": 0.9896757081151009
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9991016536951065
+  },
+  {
+   "text": "NET",
+   "conf": 0.9958031177520752
+  },
+  {
+   "text": "79.35",
+   "conf": 0.9969804763793946
+  },
+  {
+   "text": "TENDER",
+   "conf": 0.9955905675888062
+  },
+  {
+   "text": "100.00",
+   "conf": 0.9982541501522064
+  },
+  {
+   "text": "CHANGE/BALANCE",
+   "conf": 0.9911589750221798
+  },
+  {
+   "text": "20.65",
+   "conf": 0.9987620115280151
+  },
+  {
+   "text": "GST Summary",
+   "conf": 0.9646140174432234
+  },
+  {
+   "text": "Amt(Excl.Gst)",
+   "conf": 0.9340544022046603
+  },
+  {
+   "text": "Tax(RM)",
+   "conf": 0.9644648092133659
+  },
+  {
+   "text": "ZRL@0.00%",
+   "conf": 0.9956499007013109
+  },
+  {
+   "text": "7. 00",
+   "conf": 0.9202358484268188
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9993425905704498
+  },
+  {
+   "text": "SR @6.00%",
+   "conf": 0.9453611969947815
+  },
+  {
+   "text": "68.25",
+   "conf": 0.9992654919624329
+  },
+  {
+   "text": "4.10",
+   "conf": 0.9974939227104187
+  },
+  {
+   "text": "GOODSSOLDARENON-REFUNDABLEBUT",
+   "conf": 0.9928611640272469
+  },
+  {
+   "text": "EXCHANGEABLEWITHIN7DAYSWITH",
+   "conf": 0.9915671127813833
+  },
+  {
+   "text": "RECEIPTPLUSGOODSAREIN",
+   "conf": 0.993939220905304
+  },
+  {
+   "text": "RESALEABLECONDITION.",
+   "conf": 0.9794382244348526
+  },
+  {
+   "text": "Allfacemask&injectableare",
+   "conf": 0.9851684665679932
+  },
+  {
+   "text": "non-returnable&non-exchangeable",
+   "conf": 0.9875860964098284
+  },
+  {
+   "text": "**sperialpromotion",
+   "conf": 0.8930487351285087
+  }
+ ],
+ "mean_conf": 0.9585,
+ "low_conf_share": 0.0,
+ "latency_ms": 14962,
+ "fields": {
+  "company": "FERSTAH CEOO FUDE FARMASIMALURI S B",
+  "date": null,
+  "total": 79.35
+ },
+ "rule_reasons": [
+  "date_not_found"
+ ],
+ "total_candidates": [
+  79.35
+ ],
+ "key": "X51005685357"
+}

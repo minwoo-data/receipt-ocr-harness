@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.1-flash-lite",
+ "provider": "gemini",
+ "raw_text": "{\n  \"vendor\": \"FIREARMS UNKNOWN\",\n  \"date\": \"2016-12-17\",\n  \"subtotal\": 99.99,\n  \"tax\": 9.0,\n  \"tip\": null,\n  \"discount\": -25.01,\n  \"total\": 108.99,\n  \"currency\": \"USD\",\n  \"confidence\": 0.95,\n  \"notes\": \"The tax line is labeled as 'Govt Theft AKA' on the receipt.\"\n}",
+ "data": {
+  "vendor": "FIREARMS UNKNOWN",
+  "date": "2016-12-17",
+  "subtotal": 99.99,
+  "tax": 9.0,
+  "tip": null,
+  "discount": -25.01,
+  "total": 108.99,
+  "currency": "USD",
+  "confidence": 0.95,
+  "notes": "The tax line is labeled as 'Govt Theft AKA' on the receipt."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1433,
+  "output_tokens": 128,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.00055,
+ "latency_ms": 2374,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.1-flash-lite",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.1-flash-lite"
+ ],
+ "key": "W0065_39f323262685"
+}

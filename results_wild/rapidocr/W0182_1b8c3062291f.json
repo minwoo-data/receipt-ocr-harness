@@ -1,0 +1,147 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "Sage",
+  "2420 Jackson Avenue GeneralStore",
+  "Long Island City,NY 11101 718-361-0707",
+  "2499/10SM 0rder #526/1 02/17/13-A 1:31pm",
+  "1..BLUE PLATE LOC#T-02",
+  "1..CHAI LATTE 14.00",
+  "4.00",
+  "Items 18.00",
+  "Subtotal Tax 19.60 1.60",
+  "Tip",
+  "TOTAL",
+  "1.MC/xxxxxxxxxxxx2396/XxxXS A:85016P",
+  "LAM,JASON J 5088 02/17 13:32 19.60",
+  "Customer Copy"
+ ],
+ "tokens": [
+  {
+   "text": "Sage",
+   "conf": 0.9704660624265671
+  },
+  {
+   "text": "GeneralStore",
+   "conf": 0.9720466981331507
+  },
+  {
+   "text": "2420 Jackson Avenue",
+   "conf": 0.9745432075701261
+  },
+  {
+   "text": "Long Island City,NY 11101",
+   "conf": 0.9552447867393493
+  },
+  {
+   "text": "718-361-0707",
+   "conf": 0.9981827189524969
+  },
+  {
+   "text": "0rder #526/1",
+   "conf": 0.9154400626818339
+  },
+  {
+   "text": "2499/10SM",
+   "conf": 0.9729927645789253
+  },
+  {
+   "text": "02/17/13-A",
+   "conf": 0.997195965051651
+  },
+  {
+   "text": "1:31pm",
+   "conf": 0.9673334856828054
+  },
+  {
+   "text": "LOC#T-02",
+   "conf": 0.9152670279145241
+  },
+  {
+   "text": "1..BLUE PLATE",
+   "conf": 0.9534509090276865
+  },
+  {
+   "text": "1..CHAI LATTE",
+   "conf": 0.9519566297531128
+  },
+  {
+   "text": "14.00",
+   "conf": 0.998227310180664
+  },
+  {
+   "text": "4.00",
+   "conf": 0.9974919557571411
+  },
+  {
+   "text": "Items",
+   "conf": 0.9727889776229859
+  },
+  {
+   "text": "18.00",
+   "conf": 0.9983477830886841
+  },
+  {
+   "text": "Tax",
+   "conf": 0.9877914587656657
+  },
+  {
+   "text": "1.60",
+   "conf": 0.9977162182331085
+  },
+  {
+   "text": "Subtotal",
+   "conf": 0.9917838349938393
+  },
+  {
+   "text": "19.60",
+   "conf": 0.9992721199989318
+  },
+  {
+   "text": "Tip",
+   "conf": 0.991989811261495
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.9921013474464416
+  },
+  {
+   "text": "1.MC/xxxxxxxxxxxx2396/XxxXS",
+   "conf": 0.759387852968993
+  },
+  {
+   "text": "A:85016P",
+   "conf": 0.9747824817895889
+  },
+  {
+   "text": "LAM,JASON J 5088 02/17 13:32",
+   "conf": 0.9244523559297834
+  },
+  {
+   "text": "19.60",
+   "conf": 0.9966830968856811
+  },
+  {
+   "text": "Customer Copy",
+   "conf": 0.9606310083315923
+  }
+ ],
+ "mean_conf": 0.9662,
+ "low_conf_share": 0.0,
+ "latency_ms": 2545,
+ "fields": {
+  "company": "SAGE",
+  "date": "2013-02-17",
+  "total": 19.6
+ },
+ "rule_reasons": [
+  "total_no_keyword_fallback_max"
+ ],
+ "total_candidates": [
+  18.0,
+  19.6,
+  1.6,
+  19.6
+ ],
+ "key": "W0182_1b8c3062291f"
+}

@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.6-flash",
+ "provider": "gemini",
+ "raw_text": "{\"vendor\": \"RESTORAN WAN SHENG\", \"date\": \"2018-05-11\", \"subtotal\": 1.79, \"tax\": 0.11, \"tip\": null, \"discount\": null, \"total\": 1.9, \"currency\": \"MYR\", \"confidence\": 0.98, \"notes\": null}",
+ "data": {
+  "vendor": "RESTORAN WAN SHENG",
+  "date": "2018-05-11",
+  "subtotal": 1.79,
+  "tax": 0.11,
+  "tip": null,
+  "discount": null,
+  "total": 1.9,
+  "currency": "MYR",
+  "confidence": 0.98,
+  "notes": null
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1449,
+  "output_tokens": 84,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.001402,
+ "latency_ms": 1577,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.6-flash",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.6-flash"
+ ],
+ "key": "X51008042781"
+}

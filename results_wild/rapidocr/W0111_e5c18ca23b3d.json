@@ -1,0 +1,188 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "SUE'S HALLMARK",
+  "ILLINOIS CENTER",
+  "225 NORTH MICHIGAN AVENUE C142",
+  "CHICAG0,LL 60601",
+  "PHONE:312-540-0602 FAX:312-540-0612",
+  "CARD THANKS CLASSIC COUNTER",
+  "720473578652 5.99T",
+  "CARD THANKS CROWN 7204735367515.99T",
+  "CARD MDAY GRANDMOTHER",
+  "720473462272 4.99T",
+  "CARD MDAY WIFE 72047362311604969",
+  "5.99T",
+  "CARD MDAY MOTHER 720473842807 6.99T",
+  "SUBTOTAL $29.95",
+  "SALES TAX $3.07",
+  "TOTAL $33.02",
+  "VISA $33.02",
+  "Auth Code 6907",
+  "ITEMS5",
+  "04/28/201714:17 0003010027 0622",
+  "REFUNDS WITH RECEIPT ONLY WITHIN 3O DAYS",
+  "NO RETURNS OR EXCHANGES FOR WILLOWTREE",
+  "JEWERLY,ORNAMETNS,SHOES,PARTYITEMS",
+  "SALE,SEASONAL,COSMETICS,T-Shirts,"
+ ],
+ "tokens": [
+  {
+   "text": "SUE'S HALLMARK",
+   "conf": 0.9558791177613395
+  },
+  {
+   "text": "ILLINOIS CENTER",
+   "conf": 0.9833495616912842
+  },
+  {
+   "text": "225 NORTH MICHIGAN AVENUE C142",
+   "conf": 0.9406792302926381
+  },
+  {
+   "text": "CHICAG0,LL 60601",
+   "conf": 0.8961387556046247
+  },
+  {
+   "text": "PHONE:312-540-0602",
+   "conf": 0.981460044781367
+  },
+  {
+   "text": "FAX:312-540-0612",
+   "conf": 0.9796669222414494
+  },
+  {
+   "text": "CARD THANKS CLASSIC COUNTER",
+   "conf": 0.9471866400153549
+  },
+  {
+   "text": "720473578652",
+   "conf": 0.9961926539738973
+  },
+  {
+   "text": "5.99T",
+   "conf": 0.987447714805603
+  },
+  {
+   "text": "CARD THANKS CROWN",
+   "conf": 0.9751699742148904
+  },
+  {
+   "text": "7204735367515.99T",
+   "conf": 0.9871300073230967
+  },
+  {
+   "text": "CARD MDAY GRANDMOTHER",
+   "conf": 0.959148747580392
+  },
+  {
+   "text": "720473462272",
+   "conf": 0.9939363151788712
+  },
+  {
+   "text": "4.99T",
+   "conf": 0.9838767409324646
+  },
+  {
+   "text": "CARD MDAY WIFE",
+   "conf": 0.9601292823042188
+  },
+  {
+   "text": "72047362311604969",
+   "conf": 0.9958864310208488
+  },
+  {
+   "text": "5.99T",
+   "conf": 0.988391661643982
+  },
+  {
+   "text": "CARD MDAY MOTHER",
+   "conf": 0.9816285967826843
+  },
+  {
+   "text": "720473842807",
+   "conf": 0.9956144442160925
+  },
+  {
+   "text": "6.99T",
+   "conf": 0.9851373791694641
+  },
+  {
+   "text": "SUBTOTAL",
+   "conf": 0.9900823086500168
+  },
+  {
+   "text": "$29.95",
+   "conf": 0.9982597331206003
+  },
+  {
+   "text": "SALES TAX",
+   "conf": 0.9460996985435486
+  },
+  {
+   "text": "$3.07",
+   "conf": 0.9970401287078857
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.9899326920509338
+  },
+  {
+   "text": "$33.02",
+   "conf": 0.996669997771581
+  },
+  {
+   "text": "VISA",
+   "conf": 0.9916509538888931
+  },
+  {
+   "text": "$33.02",
+   "conf": 0.9976072808106741
+  },
+  {
+   "text": "Auth Code 6907",
+   "conf": 0.9707931237561362
+  },
+  {
+   "text": "ITEMS5",
+   "conf": 0.9845731854438782
+  },
+  {
+   "text": "04/28/201714:17",
+   "conf": 0.9800962885220845
+  },
+  {
+   "text": "0003010027 0622",
+   "conf": 0.9688732028007507
+  },
+  {
+   "text": "REFUNDS WITH RECEIPT ONLY WITHIN 3O DAYS",
+   "conf": 0.9599844232201576
+  },
+  {
+   "text": "NO RETURNS OR EXCHANGES FOR WILLOWTREE",
+   "conf": 0.9558393014104742
+  },
+  {
+   "text": "JEWERLY,ORNAMETNS,SHOES,PARTYITEMS",
+   "conf": 0.8159947956309599
+  },
+  {
+   "text": "SALE,SEASONAL,COSMETICS,T-Shirts,",
+   "conf": 0.9493813027035106
+  }
+ ],
+ "mean_conf": 0.9713,
+ "low_conf_share": 0.0,
+ "latency_ms": 4016,
+ "fields": {
+  "company": "SUE S HALLMARK",
+  "date": "2017-04-28",
+  "total": 33.02
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  33.02
+ ],
+ "key": "W0111_e5c18ca23b3d"
+}

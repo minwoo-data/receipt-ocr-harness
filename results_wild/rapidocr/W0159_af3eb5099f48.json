@@ -1,0 +1,192 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "Hog Island Oyster Co.",
+  "San Francisco,CA",
+  "www.hogislandoysters.com",
+  "(415)391-7117",
+  "Server:Sadie 01/24/2015",
+  "62/1 4:36PM",
+  "Guests:3",
+  "#40095",
+  "Bar Mix12 36.00",
+  "Sweet6 18.00",
+  "Worcestershire (4 @3.25) 13.00",
+  "Pesto（4@3.25） 13.00",
+  "Spot Prawn Risotto 23.00",
+  "Chowder 14.00",
+  "Subtotal 117.00",
+  "Tax 10.55",
+  "SF Mandates 3.53",
+  "Total 131.08",
+  "BalanceDue 131.08",
+  "For your convenience.",
+  "15%=17.55",
+  "18%=21.06",
+  "20%=23.40",
+  "Thank You!"
+ ],
+ "tokens": [
+  {
+   "text": "Hog Island Oyster Co.",
+   "conf": 0.9383419553438822
+  },
+  {
+   "text": "San Francisco,CA",
+   "conf": 0.9593224413692951
+  },
+  {
+   "text": "www.hogislandoysters.com",
+   "conf": 0.9911369979381561
+  },
+  {
+   "text": "(415)391-7117",
+   "conf": 0.9403389875705426
+  },
+  {
+   "text": "Server:Sadie",
+   "conf": 0.981154645482699
+  },
+  {
+   "text": "01/24/2015",
+   "conf": 0.997887647151947
+  },
+  {
+   "text": "62/1",
+   "conf": 0.9974661469459534
+  },
+  {
+   "text": "4:36PM",
+   "conf": 0.9796720246473948
+  },
+  {
+   "text": "Guests:3",
+   "conf": 0.9755000993609428
+  },
+  {
+   "text": "#40095",
+   "conf": 0.9859454135100046
+  },
+  {
+   "text": "Bar Mix12",
+   "conf": 0.9346896409988403
+  },
+  {
+   "text": "36.00",
+   "conf": 0.9976742386817932
+  },
+  {
+   "text": "Sweet6",
+   "conf": 0.9879395365715027
+  },
+  {
+   "text": "18.00",
+   "conf": 0.9974435687065124
+  },
+  {
+   "text": "Worcestershire (4 @3.25)",
+   "conf": 0.925972638030847
+  },
+  {
+   "text": "13.00",
+   "conf": 0.9970653176307678
+  },
+  {
+   "text": "Pesto（4@3.25）",
+   "conf": 0.893094016955449
+  },
+  {
+   "text": "13.00",
+   "conf": 0.9979164600372314
+  },
+  {
+   "text": "Spot Prawn Risotto",
+   "conf": 0.9715376363860236
+  },
+  {
+   "text": "23.00",
+   "conf": 0.9985483169555665
+  },
+  {
+   "text": "Chowder",
+   "conf": 0.9904270768165588
+  },
+  {
+   "text": "14.00",
+   "conf": 0.9971080660820008
+  },
+  {
+   "text": "Subtotal",
+   "conf": 0.9936970323324203
+  },
+  {
+   "text": "117.00",
+   "conf": 0.9975864986578623
+  },
+  {
+   "text": "Tax",
+   "conf": 0.9910997152328491
+  },
+  {
+   "text": "10.55",
+   "conf": 0.9971466422080993
+  },
+  {
+   "text": "SF Mandates",
+   "conf": 0.978260956027291
+  },
+  {
+   "text": "3.53",
+   "conf": 0.9955958276987076
+  },
+  {
+   "text": "Total",
+   "conf": 0.9920165777206421
+  },
+  {
+   "text": "131.08",
+   "conf": 0.9971884489059448
+  },
+  {
+   "text": "BalanceDue",
+   "conf": 0.9897183656692505
+  },
+  {
+   "text": "131.08",
+   "conf": 0.9974011182785034
+  },
+  {
+   "text": "For your convenience.",
+   "conf": 0.9531783348038083
+  },
+  {
+   "text": "15%=17.55",
+   "conf": 0.9968091249465942
+  },
+  {
+   "text": "18%=21.06",
+   "conf": 0.9965996742248535
+  },
+  {
+   "text": "20%=23.40",
+   "conf": 0.9968772464328342
+  },
+  {
+   "text": "Thank You!",
+   "conf": 0.933817732334137
+  }
+ ],
+ "mean_conf": 0.9795,
+ "low_conf_share": 0.0,
+ "latency_ms": 3430,
+ "fields": {
+  "company": "HOG ISLAND OYSTER CO",
+  "date": "2015-01-24",
+  "total": 131.08
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  131.08
+ ],
+ "key": "W0159_af3eb5099f48"
+}

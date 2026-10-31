@@ -1,0 +1,171 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "7377 S.J0NES BLVD,#116 RESTAURANT",
+  "LAS VEGAS,NV 89139",
+  "（702)776-7778",
+  "10069 Ada Z.",
+  "Check:23 Guests:2",
+  "Table:C3-1",
+  "12/26/201404:11PM",
+  "DINING",
+  "Cajun Albacore sashi 5.00",
+  "Hydro Bibb B1k Cod 5.00",
+  "2 Salmon Avocado Roll 8.00",
+  "Ika Geso 4.00",
+  "2 Tada -Salmon 2.00",
+  "Uni Dou -W/Catalina 20.00",
+  "Baked Mussels 5.00",
+  "SUBTOTAL 49.00",
+  "Tax 3.97",
+  "TOTAL DUE $52.97",
+  "Thank you,please visit us again"
+ ],
+ "tokens": [
+  {
+   "text": "RESTAURANT",
+   "conf": 0.9906391143798828
+  },
+  {
+   "text": "7377 S.J0NES BLVD,#116",
+   "conf": 0.9456505233591254
+  },
+  {
+   "text": "LAS VEGAS,NV 89139",
+   "conf": 0.9470143086380429
+  },
+  {
+   "text": "（702)776-7778",
+   "conf": 0.9403731639568622
+  },
+  {
+   "text": "10069 Ada Z.",
+   "conf": 0.9349407454331716
+  },
+  {
+   "text": "Check:23",
+   "conf": 0.9810933098196983
+  },
+  {
+   "text": "Guests:2",
+   "conf": 0.9810575321316719
+  },
+  {
+   "text": "Table:C3-1",
+   "conf": 0.9738003492355347
+  },
+  {
+   "text": "12/26/201404:11PM",
+   "conf": 0.9694118534817415
+  },
+  {
+   "text": "DINING",
+   "conf": 0.9909805953502655
+  },
+  {
+   "text": "Cajun Albacore sashi",
+   "conf": 0.9674482822418213
+  },
+  {
+   "text": "5.00",
+   "conf": 0.9985080659389496
+  },
+  {
+   "text": "5.00",
+   "conf": 0.9984704554080963
+  },
+  {
+   "text": "Hydro Bibb B1k Cod",
+   "conf": 0.9413940840297275
+  },
+  {
+   "text": "8.00",
+   "conf": 0.9980459213256836
+  },
+  {
+   "text": "2",
+   "conf": 0.9489501118659973
+  },
+  {
+   "text": "Salmon Avocado Roll",
+   "conf": 0.945381478259438
+  },
+  {
+   "text": "4.00",
+   "conf": 0.997025653719902
+  },
+  {
+   "text": "Ika Geso",
+   "conf": 0.9449483156204224
+  },
+  {
+   "text": "2.00",
+   "conf": 0.9983550906181335
+  },
+  {
+   "text": "2",
+   "conf": 0.9988434314727783
+  },
+  {
+   "text": "Tada -Salmon",
+   "conf": 0.9339307447274526
+  },
+  {
+   "text": "20.00",
+   "conf": 0.9981939554214477
+  },
+  {
+   "text": "Uni Dou -W/Catalina",
+   "conf": 0.9686807017577322
+  },
+  {
+   "text": "5.00",
+   "conf": 0.9984398186206818
+  },
+  {
+   "text": "Baked Mussels",
+   "conf": 0.9763066997894874
+  },
+  {
+   "text": "49.00",
+   "conf": 0.9973667979240417
+  },
+  {
+   "text": "SUBTOTAL",
+   "conf": 0.9881357178092003
+  },
+  {
+   "text": "3.97",
+   "conf": 0.9970105588436127
+  },
+  {
+   "text": "Tax",
+   "conf": 0.9856788714726766
+  },
+  {
+   "text": "$52.97",
+   "conf": 0.99786310394605
+  },
+  {
+   "text": "TOTAL DUE",
+   "conf": 0.9598684973186917
+  },
+  {
+   "text": "Thank you,please visit us again",
+   "conf": 0.947241110186423
+  }
+ ],
+ "mean_conf": 0.974,
+ "low_conf_share": 0.0,
+ "latency_ms": 3241,
+ "fields": {
+  "company": "LAS VEGAS NV",
+  "date": "2014-12-26",
+  "total": 52.97
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  52.97
+ ],
+ "key": "W0108_65e1cf5bf549"
+}

@@ -1,0 +1,489 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "CROSS CHANNEL NETWORK SDN. BHD.",
+  "47, JALAN MERANTI 1, SEK. 3,",
+  "BANDAR UTAMA BATANG KALI,",
+  "44300 BATANG KALI, SELANGOR.",
+  "Tel : 03-6057 9688 Fax : 03-6057 9678 |",
+  "GST ID : 001151500288 |",
+  "Tax Invoice No. : BTG-052332",
+  "Qty RM Tex",
+  "SCHNEIDER E15R 13ASWITCH 1 636 sR",
+  "SOCKET OUTLET @ 6.0000",
+  "Total Amt Incl. ae 6%: 6.36",
+  "hana Adjustment: -0.01",
+  "TotalAmtPayable: 6.35",
+  "Paid Amount: 1999",
+  "Change : x",
+  "scence TOMLQN TONG: F.0D.",
+  ": GST Summary Amount Tax }",
+  "a de oe",
+  "LTA ne eceseceenere Len POO. noon nnses ERS",
+  "T",
+  "Goods sold are not refundable nor exchangeble. —",
+  "For any enquiry, please e-mail us:",
+  "gowa9688@gmail.com )",
+  "29/01/2018 4:40:40 PM",
+  "s se"
+ ],
+ "tokens": [
+  {
+   "text": "CROSS",
+   "conf": 0.96
+  },
+  {
+   "text": "CHANNEL",
+   "conf": 0.96
+  },
+  {
+   "text": "NETWORK",
+   "conf": 0.96
+  },
+  {
+   "text": "SDN.",
+   "conf": 0.96
+  },
+  {
+   "text": "BHD.",
+   "conf": 0.96
+  },
+  {
+   "text": "47,",
+   "conf": 0.96
+  },
+  {
+   "text": "JALAN",
+   "conf": 0.91
+  },
+  {
+   "text": "MERANTI",
+   "conf": 0.9
+  },
+  {
+   "text": "1,",
+   "conf": 0.96
+  },
+  {
+   "text": "SEK.",
+   "conf": 0.96
+  },
+  {
+   "text": "3,",
+   "conf": 0.96
+  },
+  {
+   "text": "BANDAR",
+   "conf": 0.92
+  },
+  {
+   "text": "UTAMA",
+   "conf": 0.92
+  },
+  {
+   "text": "BATANG",
+   "conf": 0.93
+  },
+  {
+   "text": "KALI,",
+   "conf": 0.93
+  },
+  {
+   "text": "44300",
+   "conf": 0.93
+  },
+  {
+   "text": "BATANG",
+   "conf": 0.92
+  },
+  {
+   "text": "KALI,",
+   "conf": 0.97
+  },
+  {
+   "text": "SELANGOR.",
+   "conf": 0.96
+  },
+  {
+   "text": "Tel",
+   "conf": 0.92
+  },
+  {
+   "text": ":",
+   "conf": 0.74
+  },
+  {
+   "text": "03-6057",
+   "conf": 0.94
+  },
+  {
+   "text": "9688",
+   "conf": 0.87
+  },
+  {
+   "text": "Fax",
+   "conf": 0.87
+  },
+  {
+   "text": ":",
+   "conf": 0.85
+  },
+  {
+   "text": "03-6057",
+   "conf": 0.96
+  },
+  {
+   "text": "9678",
+   "conf": 0.96
+  },
+  {
+   "text": "|",
+   "conf": 0.93
+  },
+  {
+   "text": "GST",
+   "conf": 0.87
+  },
+  {
+   "text": "ID",
+   "conf": 0.87
+  },
+  {
+   "text": ":",
+   "conf": 0.89
+  },
+  {
+   "text": "001151500288",
+   "conf": 0.9
+  },
+  {
+   "text": "|",
+   "conf": 0.96
+  },
+  {
+   "text": "Tax",
+   "conf": 0.67
+  },
+  {
+   "text": "Invoice",
+   "conf": 0.59
+  },
+  {
+   "text": "No.",
+   "conf": 0.89
+  },
+  {
+   "text": ":",
+   "conf": 0.86
+  },
+  {
+   "text": "BTG-052332",
+   "conf": 0.86
+  },
+  {
+   "text": "Qty",
+   "conf": 0.65
+  },
+  {
+   "text": "RM",
+   "conf": 0.64
+  },
+  {
+   "text": "Tex",
+   "conf": 0.64
+  },
+  {
+   "text": "SCHNEIDER",
+   "conf": 0.87
+  },
+  {
+   "text": "E15R",
+   "conf": 0.87
+  },
+  {
+   "text": "13ASWITCH",
+   "conf": 0.88
+  },
+  {
+   "text": "1",
+   "conf": 0.46
+  },
+  {
+   "text": "636",
+   "conf": 0.82
+  },
+  {
+   "text": "sR",
+   "conf": 0.83
+  },
+  {
+   "text": "SOCKET",
+   "conf": 0.96
+  },
+  {
+   "text": "OUTLET",
+   "conf": 0.93
+  },
+  {
+   "text": "@",
+   "conf": 0.93
+  },
+  {
+   "text": "6.0000",
+   "conf": 0.95
+  },
+  {
+   "text": "Total",
+   "conf": 0.96
+  },
+  {
+   "text": "Amt",
+   "conf": 0.96
+  },
+  {
+   "text": "Incl.",
+   "conf": 0.93
+  },
+  {
+   "text": "ae",
+   "conf": 0.35
+  },
+  {
+   "text": "6%:",
+   "conf": 0.91
+  },
+  {
+   "text": "6.36",
+   "conf": 0.79
+  },
+  {
+   "text": "hana",
+   "conf": 0.0
+  },
+  {
+   "text": "Adjustment:",
+   "conf": 0.75
+  },
+  {
+   "text": "-0.01",
+   "conf": 0.58
+  },
+  {
+   "text": "TotalAmtPayable:",
+   "conf": 0.91
+  },
+  {
+   "text": "6.35",
+   "conf": 0.87
+  },
+  {
+   "text": "Paid",
+   "conf": 0.9
+  },
+  {
+   "text": "Amount:",
+   "conf": 0.9
+  },
+  {
+   "text": "1999",
+   "conf": 0.83
+  },
+  {
+   "text": "Change",
+   "conf": 0.77
+  },
+  {
+   "text": ":",
+   "conf": 0.77
+  },
+  {
+   "text": "x",
+   "conf": 0.23
+  },
+  {
+   "text": "scence",
+   "conf": 0.0
+  },
+  {
+   "text": "TOMLQN",
+   "conf": 0.25
+  },
+  {
+   "text": "TONG:",
+   "conf": 0.04
+  },
+  {
+   "text": "F.0D.",
+   "conf": 0.11
+  },
+  {
+   "text": ":",
+   "conf": 0.12
+  },
+  {
+   "text": "GST",
+   "conf": 0.96
+  },
+  {
+   "text": "Summary",
+   "conf": 0.96
+  },
+  {
+   "text": "Amount",
+   "conf": 0.96
+  },
+  {
+   "text": "Tax",
+   "conf": 0.85
+  },
+  {
+   "text": "}",
+   "conf": 0.57
+  },
+  {
+   "text": "a",
+   "conf": 0.12
+  },
+  {
+   "text": "de",
+   "conf": 0.14
+  },
+  {
+   "text": "oe",
+   "conf": 0.5
+  },
+  {
+   "text": "LTA",
+   "conf": 0.26
+  },
+  {
+   "text": "ne",
+   "conf": 0.0
+  },
+  {
+   "text": "eceseceenere",
+   "conf": 0.0
+  },
+  {
+   "text": "Len",
+   "conf": 0.33
+  },
+  {
+   "text": "POO.",
+   "conf": 0.24
+  },
+  {
+   "text": "noon",
+   "conf": 0.08
+  },
+  {
+   "text": "nnses",
+   "conf": 0.0
+  },
+  {
+   "text": "ERS",
+   "conf": 0.32
+  },
+  {
+   "text": "T",
+   "conf": 0.85
+  },
+  {
+   "text": "Goods",
+   "conf": 0.96
+  },
+  {
+   "text": "sold",
+   "conf": 0.96
+  },
+  {
+   "text": "are",
+   "conf": 0.96
+  },
+  {
+   "text": "not",
+   "conf": 0.96
+  },
+  {
+   "text": "refundable",
+   "conf": 0.96
+  },
+  {
+   "text": "nor",
+   "conf": 0.93
+  },
+  {
+   "text": "exchangeble.",
+   "conf": 0.9
+  },
+  {
+   "text": "—",
+   "conf": 0.2
+  },
+  {
+   "text": "For",
+   "conf": 0.96
+  },
+  {
+   "text": "any",
+   "conf": 0.96
+  },
+  {
+   "text": "enquiry,",
+   "conf": 0.95
+  },
+  {
+   "text": "please",
+   "conf": 0.96
+  },
+  {
+   "text": "e-mail",
+   "conf": 0.85
+  },
+  {
+   "text": "us:",
+   "conf": 0.96
+  },
+  {
+   "text": "gowa9688@gmail.com",
+   "conf": 0.34
+  },
+  {
+   "text": ")",
+   "conf": 0.45
+  },
+  {
+   "text": "29/01/2018",
+   "conf": 0.96
+  },
+  {
+   "text": "4:40:40",
+   "conf": 0.96
+  },
+  {
+   "text": "PM",
+   "conf": 0.96
+  },
+  {
+   "text": "s",
+   "conf": 0.0
+  },
+  {
+   "text": "se",
+   "conf": 0.0
+  }
+ ],
+ "mean_conf": 0.7295,
+ "low_conf_share": 0.2162,
+ "latency_ms": 1323,
+ "fields": {
+  "company": "CROSS CHANNEL NETWORK SDN BHD",
+  "date": "2018-01-29",
+  "total": 6.35
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  6.35
+ ],
+ "key": "X51005230648"
+}

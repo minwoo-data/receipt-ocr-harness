@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.1-flash-lite",
+ "provider": "gemini",
+ "raw_text": "{\n  \"vendor\": \"AEON CO. (M) BHD\",\n  \"date\": \"2018-03-05\",\n  \"subtotal\": 81.20,\n  \"tax\": 2.11,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 81.20,\n  \"currency\": \"MYR\",\n  \"confidence\": 0.95,\n  \"notes\": \"The receipt shows a subtotal of 81.20 and a total of 81.20, despite a GST summary total of 79.09.\"\n}",
+ "data": {
+  "vendor": "AEON CO. (M) BHD",
+  "date": "2018-03-05",
+  "subtotal": 81.2,
+  "tax": 2.11,
+  "tip": null,
+  "discount": null,
+  "total": 81.2,
+  "currency": "MYR",
+  "confidence": 0.95,
+  "notes": "The receipt shows a subtotal of 81.20 and a total of 81.20, despite a GST summary total of 79.09."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1429,
+  "output_tokens": 149,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.000581,
+ "latency_ms": 4109,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.1-flash-lite",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.1-flash-lite"
+ ],
+ "key": "X51005757220"
+}

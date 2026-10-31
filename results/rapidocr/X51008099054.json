@@ -1,0 +1,221 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "10GRAM Gourmet Sbn Bhd",
+  "(1152264-K)",
+  "No 3, Jalan Temenggung 27/9,",
+  "Bandar Mahkota Cheras,",
+  "43200 Selangor.",
+  "(GST Reg.No : 002055098368)",
+  "Tax' Invoice",
+  "Table",
+  "Check#:514658 Pax(s): 0",
+  "Date :11-06-201812:51:34",
+  "Cashier: Cashier Morning",
+  "Description Qty U.price Total TAX",
+  "P02Spaghetti AglioOlio Chicken Breast",
+  "1x 15.00 15.00SR",
+  "Total (Excluding GST): 15.00",
+  "Tota1 GST (0%): 0.00",
+  "Total (Inclusive of GST): 15.00",
+  "TOTAL: 15.00",
+  "Closed:8888 11-06-2018 12:52:21",
+  "Server:Cashier Morning",
+  "CASH: 15.00",
+  "GST Summary Amount(RM) .Tax(RM)",
+  "SR (@0%) 15.00 0.00",
+  "****ThankYou ****",
+  "Please Come Again"
+ ],
+ "tokens": [
+  {
+   "text": "10GRAM Gourmet Sbn Bhd",
+   "conf": 0.9581562741236254
+  },
+  {
+   "text": "(1152264-K)",
+   "conf": 0.9512779875235124
+  },
+  {
+   "text": "No 3, Jalan Temenggung 27/9,",
+   "conf": 0.957829258271626
+  },
+  {
+   "text": "Bandar Mahkota Cheras,",
+   "conf": 0.983394053849307
+  },
+  {
+   "text": "43200 Selangor.",
+   "conf": 0.9815841277440389
+  },
+  {
+   "text": "(GST Reg.No : 002055098368)",
+   "conf": 0.9554638641851919
+  },
+  {
+   "text": "Tax' Invoice",
+   "conf": 0.9626356114943823
+  },
+  {
+   "text": "Table",
+   "conf": 0.9947882294654846
+  },
+  {
+   "text": "Check#:514658",
+   "conf": 0.9777266612419715
+  },
+  {
+   "text": "Pax(s): 0",
+   "conf": 0.9922573367754618
+  },
+  {
+   "text": "Date",
+   "conf": 0.996319591999054
+  },
+  {
+   "text": ":11-06-201812:51:34",
+   "conf": 0.9633714556694031
+  },
+  {
+   "text": "Cashier: Cashier Morning",
+   "conf": 0.9724789882699648
+  },
+  {
+   "text": "Description",
+   "conf": 0.9934232180768793
+  },
+  {
+   "text": "Qty",
+   "conf": 0.9948505163192749
+  },
+  {
+   "text": "U.price",
+   "conf": 0.9981887851442609
+  },
+  {
+   "text": "Total TAX",
+   "conf": 0.9478937784830729
+  },
+  {
+   "text": "P02Spaghetti AglioOlio Chicken Breast",
+   "conf": 0.9369721090471422
+  },
+  {
+   "text": "1x",
+   "conf": 0.8593754172325134
+  },
+  {
+   "text": "15.00",
+   "conf": 0.9993299722671509
+  },
+  {
+   "text": "15.00SR",
+   "conf": 0.9981258596692767
+  },
+  {
+   "text": "Total (Excluding GST):",
+   "conf": 0.9223749745975841
+  },
+  {
+   "text": "15.00",
+   "conf": 0.9992266893386841
+  },
+  {
+   "text": "Tota1 GST (0%):",
+   "conf": 0.8721897045771281
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9993287175893784
+  },
+  {
+   "text": "Total (Inclusive of GST):",
+   "conf": 0.9261807417869568
+  },
+  {
+   "text": "15.00",
+   "conf": 0.9991359353065491
+  },
+  {
+   "text": "TOTAL:",
+   "conf": 0.9976304670174917
+  },
+  {
+   "text": "15.00",
+   "conf": 0.9999248266220093
+  },
+  {
+   "text": "Closed:8888",
+   "conf": 0.9759992577812888
+  },
+  {
+   "text": "11-06-2018",
+   "conf": 0.9976445853710174
+  },
+  {
+   "text": "12:52:21",
+   "conf": 0.9710231870412827
+  },
+  {
+   "text": "Server:Cashier Morning",
+   "conf": 0.9864189570600336
+  },
+  {
+   "text": "CASH:",
+   "conf": 0.9870972514152527
+  },
+  {
+   "text": "15.00",
+   "conf": 0.9993318319320679
+  },
+  {
+   "text": "GST Summary",
+   "conf": 0.9547203128988092
+  },
+  {
+   "text": "Amount(RM)",
+   "conf": 0.9656532645225525
+  },
+  {
+   "text": ".Tax(RM)",
+   "conf": 0.8571381717920303
+  },
+  {
+   "text": "SR",
+   "conf": 0.9914864599704742
+  },
+  {
+   "text": "(@0%)",
+   "conf": 0.9442949056625366
+  },
+  {
+   "text": "15.00",
+   "conf": 0.9980477333068848
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9992062896490097
+  },
+  {
+   "text": "****ThankYou ****",
+   "conf": 0.9702569456661448
+  },
+  {
+   "text": "Please Come Again",
+   "conf": 0.9543040009105906
+  }
+ ],
+ "mean_conf": 0.9692,
+ "low_conf_share": 0.0,
+ "latency_ms": 4276,
+ "fields": {
+  "company": "BANDAR MAHKOTA CHERAS",
+  "date": "2018-06-11",
+  "total": 15.0
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  15.0
+ ],
+ "key": "X51008099054"
+}

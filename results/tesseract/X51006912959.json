@@ -1,0 +1,616 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  ", an conn",
+  "EKEROyYa |ltea**",
+  "(1199794-K)",
+  "No. 23, Jalan Sutera Tanjung 8/3,",
+  "Taman Sutera Utama",
+  "81300 Skudai |",
+  "Johor Malaysia.",
+  "GST ID : 000344043520 ,",
+  "} | Wi-Fi: 01134229888 | , |",
+  "| TAX INVOICE }",
+  ". Invoice No : $TU001/59572 |",
+  "Date - 09/05/2018 #1 12:22 PM .",
+  "Cashier ' Yu Jie |",
+  "Ref No ‘BOTA -",
+  "PRN ON * (9/05/2018 12:23 PM",
+  "QTY ITEM RM",
+  "*** Retail/Takeaway +#* | :",
+  "1 Royal Milk Tea 10.90 SR",
+  "1 Black Tea",
+  "; 1 Cold",
+  ") 1 Pear] :",
+  "' 1 Less Ice ,",
+  "1 50% Sugar ,",
+  "1 SubTotal 10.90 .",
+  "Net Total 10.90 :",
+  "Cash 11.00 ,",
+  "CHANGE O.70",
+  "a-------- €kE 9/05/2018 12:23 PM #ke --~-------- .",
+  "Tax summary Amount Tax",
+  "SR: Inclusive of GST @6% 10.28 0.62",
+  "THANK YOU, PLEASE COME AGAIN .",
+  "Goods Sold Are Non Refundable |"
+ ],
+ "tokens": [
+  {
+   "text": ",",
+   "conf": 0.0
+  },
+  {
+   "text": "an",
+   "conf": 0.6
+  },
+  {
+   "text": "conn",
+   "conf": 0.37
+  },
+  {
+   "text": "EKEROyYa",
+   "conf": 0.24
+  },
+  {
+   "text": "|ltea**",
+   "conf": 0.39
+  },
+  {
+   "text": "(1199794-K)",
+   "conf": 0.86
+  },
+  {
+   "text": "No.",
+   "conf": 0.94
+  },
+  {
+   "text": "23,",
+   "conf": 0.96
+  },
+  {
+   "text": "Jalan",
+   "conf": 0.96
+  },
+  {
+   "text": "Sutera",
+   "conf": 0.95
+  },
+  {
+   "text": "Tanjung",
+   "conf": 0.96
+  },
+  {
+   "text": "8/3,",
+   "conf": 0.96
+  },
+  {
+   "text": "Taman",
+   "conf": 0.89
+  },
+  {
+   "text": "Sutera",
+   "conf": 0.95
+  },
+  {
+   "text": "Utama",
+   "conf": 0.96
+  },
+  {
+   "text": "81300",
+   "conf": 0.91
+  },
+  {
+   "text": "Skudai",
+   "conf": 0.91
+  },
+  {
+   "text": "|",
+   "conf": 0.65
+  },
+  {
+   "text": "Johor",
+   "conf": 0.69
+  },
+  {
+   "text": "Malaysia.",
+   "conf": 0.0
+  },
+  {
+   "text": "GST",
+   "conf": 0.94
+  },
+  {
+   "text": "ID",
+   "conf": 0.88
+  },
+  {
+   "text": ":",
+   "conf": 0.84
+  },
+  {
+   "text": "000344043520",
+   "conf": 0.96
+  },
+  {
+   "text": ",",
+   "conf": 0.0
+  },
+  {
+   "text": "}",
+   "conf": 0.0
+  },
+  {
+   "text": "|",
+   "conf": 0.6
+  },
+  {
+   "text": "Wi-Fi:",
+   "conf": 0.91
+  },
+  {
+   "text": "01134229888",
+   "conf": 0.86
+  },
+  {
+   "text": "|",
+   "conf": 0.65
+  },
+  {
+   "text": ",",
+   "conf": 0.0
+  },
+  {
+   "text": "|",
+   "conf": 0.19
+  },
+  {
+   "text": "|",
+   "conf": 0.85
+  },
+  {
+   "text": "TAX",
+   "conf": 0.93
+  },
+  {
+   "text": "INVOICE",
+   "conf": 0.96
+  },
+  {
+   "text": "}",
+   "conf": 0.0
+  },
+  {
+   "text": ".",
+   "conf": 0.24
+  },
+  {
+   "text": "Invoice",
+   "conf": 0.96
+  },
+  {
+   "text": "No",
+   "conf": 0.91
+  },
+  {
+   "text": ":",
+   "conf": 0.83
+  },
+  {
+   "text": "$TU001/59572",
+   "conf": 0.41
+  },
+  {
+   "text": "|",
+   "conf": 0.33
+  },
+  {
+   "text": "Date",
+   "conf": 0.96
+  },
+  {
+   "text": "-",
+   "conf": 0.0
+  },
+  {
+   "text": "09/05/2018",
+   "conf": 0.95
+  },
+  {
+   "text": "#1",
+   "conf": 0.96
+  },
+  {
+   "text": "12:22",
+   "conf": 0.96
+  },
+  {
+   "text": "PM",
+   "conf": 0.96
+  },
+  {
+   "text": ".",
+   "conf": 0.21
+  },
+  {
+   "text": "Cashier",
+   "conf": 0.96
+  },
+  {
+   "text": "'",
+   "conf": 0.16
+  },
+  {
+   "text": "Yu",
+   "conf": 0.89
+  },
+  {
+   "text": "Jie",
+   "conf": 0.87
+  },
+  {
+   "text": "|",
+   "conf": 0.38
+  },
+  {
+   "text": "Ref",
+   "conf": 0.96
+  },
+  {
+   "text": "No",
+   "conf": 0.96
+  },
+  {
+   "text": "‘BOTA",
+   "conf": 0.0
+  },
+  {
+   "text": "-",
+   "conf": 0.0
+  },
+  {
+   "text": "PRN",
+   "conf": 0.44
+  },
+  {
+   "text": "ON",
+   "conf": 0.95
+  },
+  {
+   "text": "*",
+   "conf": 0.0
+  },
+  {
+   "text": "(9/05/2018",
+   "conf": 0.69
+  },
+  {
+   "text": "12:23",
+   "conf": 0.95
+  },
+  {
+   "text": "PM",
+   "conf": 0.96
+  },
+  {
+   "text": "QTY",
+   "conf": 0.25
+  },
+  {
+   "text": "ITEM",
+   "conf": 0.95
+  },
+  {
+   "text": "RM",
+   "conf": 0.96
+  },
+  {
+   "text": "***",
+   "conf": 0.4
+  },
+  {
+   "text": "Retail/Takeaway",
+   "conf": 0.89
+  },
+  {
+   "text": "+#*",
+   "conf": 0.46
+  },
+  {
+   "text": "|",
+   "conf": 0.55
+  },
+  {
+   "text": ":",
+   "conf": 0.44
+  },
+  {
+   "text": "1",
+   "conf": 0.93
+  },
+  {
+   "text": "Royal",
+   "conf": 0.93
+  },
+  {
+   "text": "Milk",
+   "conf": 0.96
+  },
+  {
+   "text": "Tea",
+   "conf": 0.96
+  },
+  {
+   "text": "10.90",
+   "conf": 0.96
+  },
+  {
+   "text": "SR",
+   "conf": 0.96
+  },
+  {
+   "text": "1",
+   "conf": 0.93
+  },
+  {
+   "text": "Black",
+   "conf": 0.93
+  },
+  {
+   "text": "Tea",
+   "conf": 0.96
+  },
+  {
+   "text": ";",
+   "conf": 0.62
+  },
+  {
+   "text": "1",
+   "conf": 0.9
+  },
+  {
+   "text": "Cold",
+   "conf": 0.6
+  },
+  {
+   "text": ")",
+   "conf": 0.06
+  },
+  {
+   "text": "1",
+   "conf": 0.8
+  },
+  {
+   "text": "Pear]",
+   "conf": 0.77
+  },
+  {
+   "text": ":",
+   "conf": 0.13
+  },
+  {
+   "text": "'",
+   "conf": 0.0
+  },
+  {
+   "text": "1",
+   "conf": 0.78
+  },
+  {
+   "text": "Less",
+   "conf": 0.87
+  },
+  {
+   "text": "Ice",
+   "conf": 0.95
+  },
+  {
+   "text": ",",
+   "conf": 0.0
+  },
+  {
+   "text": "1",
+   "conf": 0.7
+  },
+  {
+   "text": "50%",
+   "conf": 0.57
+  },
+  {
+   "text": "Sugar",
+   "conf": 0.95
+  },
+  {
+   "text": ",",
+   "conf": 0.0
+  },
+  {
+   "text": "1",
+   "conf": 0.9
+  },
+  {
+   "text": "SubTotal",
+   "conf": 0.89
+  },
+  {
+   "text": "10.90",
+   "conf": 0.92
+  },
+  {
+   "text": ".",
+   "conf": 0.0
+  },
+  {
+   "text": "Net",
+   "conf": 0.96
+  },
+  {
+   "text": "Total",
+   "conf": 0.95
+  },
+  {
+   "text": "10.90",
+   "conf": 0.84
+  },
+  {
+   "text": ":",
+   "conf": 0.17
+  },
+  {
+   "text": "Cash",
+   "conf": 0.96
+  },
+  {
+   "text": "11.00",
+   "conf": 0.94
+  },
+  {
+   "text": ",",
+   "conf": 0.11
+  },
+  {
+   "text": "CHANGE",
+   "conf": 0.96
+  },
+  {
+   "text": "O.70",
+   "conf": 0.53
+  },
+  {
+   "text": "a--------",
+   "conf": 0.0
+  },
+  {
+   "text": "€kE",
+   "conf": 0.0
+  },
+  {
+   "text": "9/05/2018",
+   "conf": 0.79
+  },
+  {
+   "text": "12:23",
+   "conf": 0.94
+  },
+  {
+   "text": "PM",
+   "conf": 0.89
+  },
+  {
+   "text": "#ke",
+   "conf": 0.0
+  },
+  {
+   "text": "--~--------",
+   "conf": 0.44
+  },
+  {
+   "text": ".",
+   "conf": 0.46
+  },
+  {
+   "text": "Tax",
+   "conf": 0.96
+  },
+  {
+   "text": "summary",
+   "conf": 0.43
+  },
+  {
+   "text": "Amount",
+   "conf": 0.96
+  },
+  {
+   "text": "Tax",
+   "conf": 0.96
+  },
+  {
+   "text": "SR:",
+   "conf": 0.04
+  },
+  {
+   "text": "Inclusive",
+   "conf": 0.04
+  },
+  {
+   "text": "of",
+   "conf": 0.95
+  },
+  {
+   "text": "GST",
+   "conf": 0.93
+  },
+  {
+   "text": "@6%",
+   "conf": 0.85
+  },
+  {
+   "text": "10.28",
+   "conf": 0.91
+  },
+  {
+   "text": "0.62",
+   "conf": 0.93
+  },
+  {
+   "text": "THANK",
+   "conf": 0.96
+  },
+  {
+   "text": "YOU,",
+   "conf": 0.96
+  },
+  {
+   "text": "PLEASE",
+   "conf": 0.97
+  },
+  {
+   "text": "COME",
+   "conf": 0.96
+  },
+  {
+   "text": "AGAIN",
+   "conf": 0.96
+  },
+  {
+   "text": ".",
+   "conf": 0.17
+  },
+  {
+   "text": "Goods",
+   "conf": 0.96
+  },
+  {
+   "text": "Sold",
+   "conf": 0.95
+  },
+  {
+   "text": "Are",
+   "conf": 0.96
+  },
+  {
+   "text": "Non",
+   "conf": 0.95
+  },
+  {
+   "text": "Refundable",
+   "conf": 0.95
+  },
+  {
+   "text": "|",
+   "conf": 0.53
+  }
+ ],
+ "mean_conf": 0.6708,
+ "low_conf_share": 0.2979,
+ "latency_ms": 5784,
+ "fields": {
+  "company": "AN CONN",
+  "date": "2018-05-09",
+  "total": 10.9
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  10.9
+ ],
+ "key": "X51006912959"
+}

@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.6-flash",
+ "provider": "gemini",
+ "raw_text": "{\"vendor\": \"BEYOND BROTHERS HARDWARE\", \"date\": \"2017-11-10\", \"subtotal\": 64.0, \"tax\": 3.84, \"tip\": null, \"discount\": null, \"total\": 67.85, \"currency\": \"MYR\", \"confidence\": 0.95, \"notes\": \"Rounding of 0.01 added to total.\"}",
+ "data": {
+  "vendor": "BEYOND BROTHERS HARDWARE",
+  "date": "2017-11-10",
+  "subtotal": 64.0,
+  "tax": 3.84,
+  "tip": null,
+  "discount": null,
+  "total": 67.85,
+  "currency": "MYR",
+  "confidence": 0.95,
+  "notes": "Rounding of 0.01 added to total."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1482,
+  "output_tokens": 98,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.001479,
+ "latency_ms": 2398,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.6-flash",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.6-flash"
+ ],
+ "key": "X51005675914"
+}

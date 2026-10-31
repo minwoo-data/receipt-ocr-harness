@@ -1,0 +1,555 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "SS Ae a]! [tag \"4",
+  "Ab WA ae oe",
+  "- 2S ® we",
+  "ww wal p= ane",
+  "1 (Wy = % 4",
+  "wR. D.1.¥. (H) SDN BHD se",
+  "(CO.REG :860671-D) —S",
+  "LOT 1851-A & 1851-B, JALAN KPB 6, =",
+  "KAWASAN PERINDUSTRIAN BALAKONG,",
+  "43300 SERI KEMBANGAN, SELANGOR",
+  "(GST ID No 900306020352 )",
+  "(101 PUCHONG)",
+  "-TAX INVOICE-",
+  "OPENER SS MT-005 *§",
+  "AI31 - 12/108",
+  "9064430 1% 8.80 8.80",
+  "PLASTIC BAGS #5",
+  "99999 1% 0.20 0.20",
+  "Item(s) : 2 Qty(s) : 2",
+  "Total Incl. GSTe6s RM 9.00",
+  "CASH RM 10.00",
+  "CHANGE RM 1.00",
+  "GST @6% included in total RM 0.51",
+  "Soe ee er",
+  "T1c04-18 17:42 SHOU wlee) = 12, ROOT 16475",
+  "OPERATOR IIT - NUR FATIHAH",
+  "i EXCHANGE ARE ALLOWED WITHIN",
+  "7 DAY WITH RECEIPT.",
+  "STRICTLY NO CASH REFUND."
+ ],
+ "tokens": [
+  {
+   "text": "SS",
+   "conf": 0.0
+  },
+  {
+   "text": "Ae",
+   "conf": 0.08
+  },
+  {
+   "text": "a]!",
+   "conf": 0.49
+  },
+  {
+   "text": "[tag",
+   "conf": 0.15
+  },
+  {
+   "text": "\"4",
+   "conf": 0.67
+  },
+  {
+   "text": "Ab",
+   "conf": 0.27
+  },
+  {
+   "text": "WA",
+   "conf": 0.19
+  },
+  {
+   "text": "ae",
+   "conf": 0.22
+  },
+  {
+   "text": "oe",
+   "conf": 0.13
+  },
+  {
+   "text": "-",
+   "conf": 0.0
+  },
+  {
+   "text": "2S",
+   "conf": 0.23
+  },
+  {
+   "text": "®",
+   "conf": 0.81
+  },
+  {
+   "text": "we",
+   "conf": 0.44
+  },
+  {
+   "text": "ww",
+   "conf": 0.38
+  },
+  {
+   "text": "wal",
+   "conf": 0.64
+  },
+  {
+   "text": "p=",
+   "conf": 0.0
+  },
+  {
+   "text": "ane",
+   "conf": 0.25
+  },
+  {
+   "text": "1",
+   "conf": 0.52
+  },
+  {
+   "text": "(Wy",
+   "conf": 0.48
+  },
+  {
+   "text": "=",
+   "conf": 0.38
+  },
+  {
+   "text": "%",
+   "conf": 0.67
+  },
+  {
+   "text": "4",
+   "conf": 0.37
+  },
+  {
+   "text": "wR.",
+   "conf": 0.73
+  },
+  {
+   "text": "D.1.¥.",
+   "conf": 0.27
+  },
+  {
+   "text": "(H)",
+   "conf": 0.54
+  },
+  {
+   "text": "SDN",
+   "conf": 0.79
+  },
+  {
+   "text": "BHD",
+   "conf": 0.79
+  },
+  {
+   "text": "se",
+   "conf": 0.31
+  },
+  {
+   "text": "(CO.REG",
+   "conf": 0.88
+  },
+  {
+   "text": ":860671-D)",
+   "conf": 0.4
+  },
+  {
+   "text": "—S",
+   "conf": 0.0
+  },
+  {
+   "text": "LOT",
+   "conf": 0.91
+  },
+  {
+   "text": "1851-A",
+   "conf": 0.65
+  },
+  {
+   "text": "&",
+   "conf": 0.9
+  },
+  {
+   "text": "1851-B,",
+   "conf": 0.91
+  },
+  {
+   "text": "JALAN",
+   "conf": 0.96
+  },
+  {
+   "text": "KPB",
+   "conf": 0.87
+  },
+  {
+   "text": "6,",
+   "conf": 0.93
+  },
+  {
+   "text": "=",
+   "conf": 0.37
+  },
+  {
+   "text": "KAWASAN",
+   "conf": 0.91
+  },
+  {
+   "text": "PERINDUSTRIAN",
+   "conf": 0.91
+  },
+  {
+   "text": "BALAKONG,",
+   "conf": 0.91
+  },
+  {
+   "text": "43300",
+   "conf": 0.92
+  },
+  {
+   "text": "SERI",
+   "conf": 0.88
+  },
+  {
+   "text": "KEMBANGAN,",
+   "conf": 0.82
+  },
+  {
+   "text": "SELANGOR",
+   "conf": 0.96
+  },
+  {
+   "text": "(GST",
+   "conf": 0.74
+  },
+  {
+   "text": "ID",
+   "conf": 0.93
+  },
+  {
+   "text": "No",
+   "conf": 0.96
+  },
+  {
+   "text": "900306020352",
+   "conf": 0.26
+  },
+  {
+   "text": ")",
+   "conf": 0.82
+  },
+  {
+   "text": "(101",
+   "conf": 0.92
+  },
+  {
+   "text": "PUCHONG)",
+   "conf": 0.89
+  },
+  {
+   "text": "-TAX",
+   "conf": 0.85
+  },
+  {
+   "text": "INVOICE-",
+   "conf": 0.91
+  },
+  {
+   "text": "OPENER",
+   "conf": 0.96
+  },
+  {
+   "text": "SS",
+   "conf": 0.93
+  },
+  {
+   "text": "MT-005",
+   "conf": 0.52
+  },
+  {
+   "text": "*§",
+   "conf": 0.29
+  },
+  {
+   "text": "AI31",
+   "conf": 0.74
+  },
+  {
+   "text": "-",
+   "conf": 0.89
+  },
+  {
+   "text": "12/108",
+   "conf": 0.96
+  },
+  {
+   "text": "9064430",
+   "conf": 0.96
+  },
+  {
+   "text": "1%",
+   "conf": 0.92
+  },
+  {
+   "text": "8.80",
+   "conf": 0.93
+  },
+  {
+   "text": "8.80",
+   "conf": 0.92
+  },
+  {
+   "text": "PLASTIC",
+   "conf": 0.96
+  },
+  {
+   "text": "BAGS",
+   "conf": 0.96
+  },
+  {
+   "text": "#5",
+   "conf": 0.29
+  },
+  {
+   "text": "99999",
+   "conf": 0.73
+  },
+  {
+   "text": "1%",
+   "conf": 0.57
+  },
+  {
+   "text": "0.20",
+   "conf": 0.8
+  },
+  {
+   "text": "0.20",
+   "conf": 0.9
+  },
+  {
+   "text": "Item(s)",
+   "conf": 0.92
+  },
+  {
+   "text": ":",
+   "conf": 0.89
+  },
+  {
+   "text": "2",
+   "conf": 0.96
+  },
+  {
+   "text": "Qty(s)",
+   "conf": 0.88
+  },
+  {
+   "text": ":",
+   "conf": 0.83
+  },
+  {
+   "text": "2",
+   "conf": 0.95
+  },
+  {
+   "text": "Total",
+   "conf": 0.95
+  },
+  {
+   "text": "Incl.",
+   "conf": 0.95
+  },
+  {
+   "text": "GSTe6s",
+   "conf": 0.05
+  },
+  {
+   "text": "RM",
+   "conf": 0.83
+  },
+  {
+   "text": "9.00",
+   "conf": 0.75
+  },
+  {
+   "text": "CASH",
+   "conf": 0.96
+  },
+  {
+   "text": "RM",
+   "conf": 0.92
+  },
+  {
+   "text": "10.00",
+   "conf": 0.92
+  },
+  {
+   "text": "CHANGE",
+   "conf": 0.96
+  },
+  {
+   "text": "RM",
+   "conf": 0.87
+  },
+  {
+   "text": "1.00",
+   "conf": 0.87
+  },
+  {
+   "text": "GST",
+   "conf": 0.91
+  },
+  {
+   "text": "@6%",
+   "conf": 0.8
+  },
+  {
+   "text": "included",
+   "conf": 0.96
+  },
+  {
+   "text": "in",
+   "conf": 0.95
+  },
+  {
+   "text": "total",
+   "conf": 0.96
+  },
+  {
+   "text": "RM",
+   "conf": 0.81
+  },
+  {
+   "text": "0.51",
+   "conf": 0.81
+  },
+  {
+   "text": "Soe",
+   "conf": 0.0
+  },
+  {
+   "text": "ee",
+   "conf": 0.37
+  },
+  {
+   "text": "er",
+   "conf": 0.33
+  },
+  {
+   "text": "T1c04-18",
+   "conf": 0.0
+  },
+  {
+   "text": "17:42",
+   "conf": 0.88
+  },
+  {
+   "text": "SHOU",
+   "conf": 0.34
+  },
+  {
+   "text": "wlee)",
+   "conf": 0.0
+  },
+  {
+   "text": "=",
+   "conf": 0.53
+  },
+  {
+   "text": "12,",
+   "conf": 0.78
+  },
+  {
+   "text": "ROOT",
+   "conf": 0.04
+  },
+  {
+   "text": "16475",
+   "conf": 0.04
+  },
+  {
+   "text": "OPERATOR",
+   "conf": 0.92
+  },
+  {
+   "text": "IIT",
+   "conf": 0.0
+  },
+  {
+   "text": "-",
+   "conf": 0.89
+  },
+  {
+   "text": "NUR",
+   "conf": 0.91
+  },
+  {
+   "text": "FATIHAH",
+   "conf": 0.88
+  },
+  {
+   "text": "i",
+   "conf": 0.13
+  },
+  {
+   "text": "EXCHANGE",
+   "conf": 0.96
+  },
+  {
+   "text": "ARE",
+   "conf": 0.96
+  },
+  {
+   "text": "ALLOWED",
+   "conf": 0.96
+  },
+  {
+   "text": "WITHIN",
+   "conf": 0.96
+  },
+  {
+   "text": "7",
+   "conf": 0.92
+  },
+  {
+   "text": "DAY",
+   "conf": 0.93
+  },
+  {
+   "text": "WITH",
+   "conf": 0.95
+  },
+  {
+   "text": "RECEIPT.",
+   "conf": 0.96
+  },
+  {
+   "text": "STRICTLY",
+   "conf": 0.95
+  },
+  {
+   "text": "NO",
+   "conf": 0.95
+  },
+  {
+   "text": "CASH",
+   "conf": 0.96
+  },
+  {
+   "text": "REFUND.",
+   "conf": 0.95
+  }
+ ],
+ "mean_conf": 0.6787,
+ "low_conf_share": 0.2857,
+ "latency_ms": 1913,
+ "fields": {
+  "company": "WR D 1 SDN BHD SE",
+  "date": null,
+  "total": 9.0
+ },
+ "rule_reasons": [
+  "date_not_found"
+ ],
+ "total_candidates": [
+  9.0
+ ],
+ "key": "X51007103599"
+}

@@ -1,0 +1,150 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "RAPIDWHEELSAUTOSERVICE",
+  "LOT 1182JALANKLANGLAMA",
+  "TAXINVOICE",
+  "Date:24/09/2024Time:13:42",
+  "2x DISHS0AP 900ML 14.80",
+  "1 X WHOLEMEALBREAD 4.50",
+  "2 X INSTANTNOODLES5PK 12.60",
+  "2x CHICKEN RICE SET 25.80",
+  "SUBTOTAL 57.70",
+  "GST6% 3.46",
+  "TOTAL 61.66",
+  "CASH 66.66",
+  "CHANGE 5.00",
+  "THANK YOU,PLEASE COME AGAIN"
+ ],
+ "tokens": [
+  {
+   "text": "RAPIDWHEELSAUTOSERVICE",
+   "conf": 0.9894125813787634
+  },
+  {
+   "text": "LOT 1182JALANKLANGLAMA",
+   "conf": 0.9587614780122583
+  },
+  {
+   "text": "TAXINVOICE",
+   "conf": 0.9964711487293243
+  },
+  {
+   "text": "Date:24/09/2024Time:13:42",
+   "conf": 0.9869709897041321
+  },
+  {
+   "text": "2x",
+   "conf": 0.777741551399231
+  },
+  {
+   "text": "DISHS0AP 900ML",
+   "conf": 0.9593357273510524
+  },
+  {
+   "text": "14.80",
+   "conf": 0.9992974162101745
+  },
+  {
+   "text": "1",
+   "conf": 0.9928567409515381
+  },
+  {
+   "text": "X",
+   "conf": 0.5310357809066772
+  },
+  {
+   "text": "WHOLEMEALBREAD",
+   "conf": 0.9934617877006531
+  },
+  {
+   "text": "4.50",
+   "conf": 0.9986003339290619
+  },
+  {
+   "text": "2",
+   "conf": 0.9992021918296814
+  },
+  {
+   "text": "X",
+   "conf": 0.5287588834762573
+  },
+  {
+   "text": "INSTANTNOODLES5PK",
+   "conf": 0.9678951536907869
+  },
+  {
+   "text": "12.60",
+   "conf": 0.9992589831352234
+  },
+  {
+   "text": "2x",
+   "conf": 0.7230668514966965
+  },
+  {
+   "text": "CHICKEN RICE SET",
+   "conf": 0.9378944151103497
+  },
+  {
+   "text": "25.80",
+   "conf": 0.9995087146759033
+  },
+  {
+   "text": "SUBTOTAL",
+   "conf": 0.9957916736602783
+  },
+  {
+   "text": "57.70",
+   "conf": 0.9991310358047485
+  },
+  {
+   "text": "GST6%",
+   "conf": 0.9981888055801391
+  },
+  {
+   "text": "3.46",
+   "conf": 0.9990658164024353
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.9970617890357971
+  },
+  {
+   "text": "61.66",
+   "conf": 0.9997195720672607
+  },
+  {
+   "text": "CASH",
+   "conf": 0.9958684146404266
+  },
+  {
+   "text": "66.66",
+   "conf": 0.9997116923332214
+  },
+  {
+   "text": "CHANGE",
+   "conf": 0.995958944161733
+  },
+  {
+   "text": "5.00",
+   "conf": 0.9995237737894058
+  },
+  {
+   "text": "THANK YOU,PLEASE COME AGAIN",
+   "conf": 0.939899018517247
+  }
+ ],
+ "mean_conf": 0.94,
+ "low_conf_share": 0.0,
+ "latency_ms": 15118,
+ "fields": {
+  "company": "RAPIDWHEELSAUTOSERVICE",
+  "date": "2024-09-24",
+  "total": 61.66
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  61.66
+ ],
+ "key": "SYN016"
+}

@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.6-flash",
+ "provider": "gemini",
+ "raw_text": "{\"vendor\": \"NYONYA COLORS @ 1 UTAMA\", \"date\": \"2018-03-18\", \"subtotal\": 53.6, \"tax\": 3.03, \"tip\": null, \"discount\": null, \"total\": 53.6, \"currency\": \"MYR\", \"confidence\": 0.95, \"notes\": null}",
+ "data": {
+  "vendor": "NYONYA COLORS @ 1 UTAMA",
+  "date": "2018-03-18",
+  "subtotal": 53.6,
+  "tax": 3.03,
+  "tip": null,
+  "discount": null,
+  "total": 53.6,
+  "currency": "MYR",
+  "confidence": 0.95,
+  "notes": null
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1469,
+  "output_tokens": 88,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.001432,
+ "latency_ms": 2133,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.6-flash",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.6-flash"
+ ],
+ "key": "X51005719899"
+}

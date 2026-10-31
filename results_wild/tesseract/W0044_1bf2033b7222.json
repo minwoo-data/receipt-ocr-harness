@@ -1,0 +1,126 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "Corer Bakery Cafe # 1616",
+  "ste Mi",
+  "Dine In 80",
+  "es vane! BiB",
+  ": gurot 4",
+  "> engine ,",
+  "ie ae",
+  "Total 166",
+  "i.CornerBekeryCafe.con"
+ ],
+ "tokens": [
+  {
+   "text": "Corer",
+   "conf": 0.21
+  },
+  {
+   "text": "Bakery",
+   "conf": 0.59
+  },
+  {
+   "text": "Cafe",
+   "conf": 0.59
+  },
+  {
+   "text": "#",
+   "conf": 0.89
+  },
+  {
+   "text": "1616",
+   "conf": 0.61
+  },
+  {
+   "text": "ste",
+   "conf": 0.14
+  },
+  {
+   "text": "Mi",
+   "conf": 0.43
+  },
+  {
+   "text": "Dine",
+   "conf": 0.9
+  },
+  {
+   "text": "In",
+   "conf": 0.41
+  },
+  {
+   "text": "80",
+   "conf": 0.72
+  },
+  {
+   "text": "es",
+   "conf": 0.33
+  },
+  {
+   "text": "vane!",
+   "conf": 0.36
+  },
+  {
+   "text": "BiB",
+   "conf": 0.4
+  },
+  {
+   "text": ":",
+   "conf": 0.14
+  },
+  {
+   "text": "gurot",
+   "conf": 0.18
+  },
+  {
+   "text": "4",
+   "conf": 0.37
+  },
+  {
+   "text": ">",
+   "conf": 0.52
+  },
+  {
+   "text": "engine",
+   "conf": 0.17
+  },
+  {
+   "text": ",",
+   "conf": 0.0
+  },
+  {
+   "text": "ie",
+   "conf": 0.27
+  },
+  {
+   "text": "ae",
+   "conf": 0.45
+  },
+  {
+   "text": "Total",
+   "conf": 0.81
+  },
+  {
+   "text": "166",
+   "conf": 0.53
+  },
+  {
+   "text": "i.CornerBekeryCafe.con",
+   "conf": 0.0
+  }
+ ],
+ "mean_conf": 0.4175,
+ "low_conf_share": 0.625,
+ "latency_ms": 412,
+ "fields": {
+  "company": "CORER BAKERY CAFE 1616",
+  "date": null,
+  "total": null
+ },
+ "rule_reasons": [
+  "date_not_found",
+  "total_not_found"
+ ],
+ "total_candidates": [],
+ "key": "W0044_1bf2033b7222"
+}

@@ -1,0 +1,619 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "> PRS",
+  "SS + More saving.",
+  "SSM) More doing.’",
+  "10850 PLUM one",
+  "unenon tO See os set9",
+  "90980124717 4K8-B HPT <A na",
+  "dias SeT 42 PT",
+  "ex1 f701 24 6. IN PLIERS. <A",
+  "Aa otge6. SIN LONG NOSE LOCKING BLE",
+  "3.9 obs",
+  "03089340817 SOREW, EYE <A 3",
+  "aa FINE SoweN EYE",
+  "aa0tgatanyse. Sere EVE <A> 0.96",
+  "Ho PINGSCREN EVE",
+  "yargiso2doas GLOVES <Re 9.98",
+  "as ecm 28",
+  "DP crisis, a",
+  "Seem eeet=?",
+  "J AMAA LA",
+  "RETURN POLICY DEFINITZONS",
+  "pon REVUES PO5AVS O*POLEEY ExprRES ON",
+  "jt laiae acdlee 8 iir272019",
+  "LHe HOHE DEPOT. RESERVES THe RIGHT 10",
+  "CHO DEN RETURNS. PLEASE. SEE THE",
+  "RETURN POLICY. SIGN. IN STORES FOR",
+  "DETAILS",
+  "BUY ONLINE PICK-UP _IN STORE",
+  "AVATLABLE NOW ON HOMEDEPOT .COM",
+  "CONVENTENT, EASY AND MOST ORDERS:",
+  "READY IN’LESS THAN 2 HOURS!",
+  "ENTER FOR A CHANCE",
+  "TO WIN A ol 000",
+  "HOME DEPOT GIFT",
+  "CARN?"
+ ],
+ "tokens": [
+  {
+   "text": ">",
+   "conf": 0.4
+  },
+  {
+   "text": "PRS",
+   "conf": 0.13
+  },
+  {
+   "text": "SS",
+   "conf": 0.34
+  },
+  {
+   "text": "+",
+   "conf": 0.41
+  },
+  {
+   "text": "More",
+   "conf": 0.96
+  },
+  {
+   "text": "saving.",
+   "conf": 0.95
+  },
+  {
+   "text": "SSM)",
+   "conf": 0.23
+  },
+  {
+   "text": "More",
+   "conf": 0.95
+  },
+  {
+   "text": "doing.’",
+   "conf": 0.69
+  },
+  {
+   "text": "10850",
+   "conf": 0.72
+  },
+  {
+   "text": "PLUM",
+   "conf": 0.42
+  },
+  {
+   "text": "one",
+   "conf": 0.13
+  },
+  {
+   "text": "unenon",
+   "conf": 0.0
+  },
+  {
+   "text": "tO",
+   "conf": 0.08
+  },
+  {
+   "text": "See",
+   "conf": 0.09
+  },
+  {
+   "text": "os",
+   "conf": 0.46
+  },
+  {
+   "text": "set9",
+   "conf": 0.0
+  },
+  {
+   "text": "90980124717",
+   "conf": 0.57
+  },
+  {
+   "text": "4K8-B",
+   "conf": 0.0
+  },
+  {
+   "text": "HPT",
+   "conf": 0.05
+  },
+  {
+   "text": "<A",
+   "conf": 0.83
+  },
+  {
+   "text": "na",
+   "conf": 0.18
+  },
+  {
+   "text": "dias",
+   "conf": 0.0
+  },
+  {
+   "text": "SeT",
+   "conf": 0.0
+  },
+  {
+   "text": "42",
+   "conf": 0.67
+  },
+  {
+   "text": "PT",
+   "conf": 0.25
+  },
+  {
+   "text": "ex1",
+   "conf": 0.0
+  },
+  {
+   "text": "f701",
+   "conf": 0.0
+  },
+  {
+   "text": "24",
+   "conf": 0.4
+  },
+  {
+   "text": "6.",
+   "conf": 0.36
+  },
+  {
+   "text": "IN",
+   "conf": 0.54
+  },
+  {
+   "text": "PLIERS.",
+   "conf": 0.56
+  },
+  {
+   "text": "<A",
+   "conf": 0.51
+  },
+  {
+   "text": "Aa",
+   "conf": 0.01
+  },
+  {
+   "text": "otge6.",
+   "conf": 0.0
+  },
+  {
+   "text": "SIN",
+   "conf": 0.68
+  },
+  {
+   "text": "LONG",
+   "conf": 0.58
+  },
+  {
+   "text": "NOSE",
+   "conf": 0.85
+  },
+  {
+   "text": "LOCKING",
+   "conf": 0.93
+  },
+  {
+   "text": "BLE",
+   "conf": 0.45
+  },
+  {
+   "text": "3.9",
+   "conf": 0.25
+  },
+  {
+   "text": "obs",
+   "conf": 0.27
+  },
+  {
+   "text": "03089340817",
+   "conf": 0.48
+  },
+  {
+   "text": "SOREW,",
+   "conf": 0.2
+  },
+  {
+   "text": "EYE",
+   "conf": 0.9
+  },
+  {
+   "text": "<A",
+   "conf": 0.49
+  },
+  {
+   "text": "3",
+   "conf": 0.55
+  },
+  {
+   "text": "aa",
+   "conf": 0.2
+  },
+  {
+   "text": "FINE",
+   "conf": 0.51
+  },
+  {
+   "text": "SoweN",
+   "conf": 0.0
+  },
+  {
+   "text": "EYE",
+   "conf": 0.48
+  },
+  {
+   "text": "aa0tgatanyse.",
+   "conf": 0.0
+  },
+  {
+   "text": "Sere",
+   "conf": 0.0
+  },
+  {
+   "text": "EVE",
+   "conf": 0.86
+  },
+  {
+   "text": "<A>",
+   "conf": 0.79
+  },
+  {
+   "text": "0.96",
+   "conf": 0.79
+  },
+  {
+   "text": "Ho",
+   "conf": 0.24
+  },
+  {
+   "text": "PINGSCREN",
+   "conf": 0.18
+  },
+  {
+   "text": "EVE",
+   "conf": 0.92
+  },
+  {
+   "text": "yargiso2doas",
+   "conf": 0.0
+  },
+  {
+   "text": "GLOVES",
+   "conf": 0.58
+  },
+  {
+   "text": "<Re",
+   "conf": 0.0
+  },
+  {
+   "text": "9.98",
+   "conf": 0.67
+  },
+  {
+   "text": "as",
+   "conf": 0.26
+  },
+  {
+   "text": "ecm",
+   "conf": 0.32
+  },
+  {
+   "text": "28",
+   "conf": 0.0
+  },
+  {
+   "text": "DP",
+   "conf": 0.17
+  },
+  {
+   "text": "crisis,",
+   "conf": 0.16
+  },
+  {
+   "text": "a",
+   "conf": 0.19
+  },
+  {
+   "text": "Seem",
+   "conf": 0.0
+  },
+  {
+   "text": "eeet=?",
+   "conf": 0.0
+  },
+  {
+   "text": "J",
+   "conf": 0.47
+  },
+  {
+   "text": "AMAA",
+   "conf": 0.29
+  },
+  {
+   "text": "LA",
+   "conf": 0.41
+  },
+  {
+   "text": "RETURN",
+   "conf": 0.65
+  },
+  {
+   "text": "POLICY",
+   "conf": 0.86
+  },
+  {
+   "text": "DEFINITZONS",
+   "conf": 0.26
+  },
+  {
+   "text": "pon",
+   "conf": 0.0
+  },
+  {
+   "text": "REVUES",
+   "conf": 0.0
+  },
+  {
+   "text": "PO5AVS",
+   "conf": 0.36
+  },
+  {
+   "text": "O*POLEEY",
+   "conf": 0.0
+  },
+  {
+   "text": "ExprRES",
+   "conf": 0.34
+  },
+  {
+   "text": "ON",
+   "conf": 0.93
+  },
+  {
+   "text": "jt",
+   "conf": 0.0
+  },
+  {
+   "text": "laiae",
+   "conf": 0.0
+  },
+  {
+   "text": "acdlee",
+   "conf": 0.0
+  },
+  {
+   "text": "8",
+   "conf": 0.17
+  },
+  {
+   "text": "iir272019",
+   "conf": 0.0
+  },
+  {
+   "text": "LHe",
+   "conf": 0.39
+  },
+  {
+   "text": "HOHE",
+   "conf": 0.66
+  },
+  {
+   "text": "DEPOT.",
+   "conf": 0.56
+  },
+  {
+   "text": "RESERVES",
+   "conf": 0.56
+  },
+  {
+   "text": "THe",
+   "conf": 0.79
+  },
+  {
+   "text": "RIGHT",
+   "conf": 0.87
+  },
+  {
+   "text": "10",
+   "conf": 0.87
+  },
+  {
+   "text": "CHO",
+   "conf": 0.0
+  },
+  {
+   "text": "DEN",
+   "conf": 0.3
+  },
+  {
+   "text": "RETURNS.",
+   "conf": 0.35
+  },
+  {
+   "text": "PLEASE.",
+   "conf": 0.58
+  },
+  {
+   "text": "SEE",
+   "conf": 0.63
+  },
+  {
+   "text": "THE",
+   "conf": 0.63
+  },
+  {
+   "text": "RETURN",
+   "conf": 0.67
+  },
+  {
+   "text": "POLICY.",
+   "conf": 0.77
+  },
+  {
+   "text": "SIGN.",
+   "conf": 0.14
+  },
+  {
+   "text": "IN",
+   "conf": 0.14
+  },
+  {
+   "text": "STORES",
+   "conf": 0.72
+  },
+  {
+   "text": "FOR",
+   "conf": 0.92
+  },
+  {
+   "text": "DETAILS",
+   "conf": 0.92
+  },
+  {
+   "text": "BUY",
+   "conf": 0.96
+  },
+  {
+   "text": "ONLINE",
+   "conf": 0.93
+  },
+  {
+   "text": "PICK-UP",
+   "conf": 0.11
+  },
+  {
+   "text": "_IN",
+   "conf": 0.11
+  },
+  {
+   "text": "STORE",
+   "conf": 0.95
+  },
+  {
+   "text": "AVATLABLE",
+   "conf": 0.62
+  },
+  {
+   "text": "NOW",
+   "conf": 0.9
+  },
+  {
+   "text": "ON",
+   "conf": 0.9
+  },
+  {
+   "text": "HOMEDEPOT",
+   "conf": 0.92
+  },
+  {
+   "text": ".COM",
+   "conf": 0.89
+  },
+  {
+   "text": "CONVENTENT,",
+   "conf": 0.8
+  },
+  {
+   "text": "EASY",
+   "conf": 0.94
+  },
+  {
+   "text": "AND",
+   "conf": 0.94
+  },
+  {
+   "text": "MOST",
+   "conf": 0.95
+  },
+  {
+   "text": "ORDERS:",
+   "conf": 0.58
+  },
+  {
+   "text": "READY",
+   "conf": 0.92
+  },
+  {
+   "text": "IN’LESS",
+   "conf": 0.51
+  },
+  {
+   "text": "THAN",
+   "conf": 0.96
+  },
+  {
+   "text": "2",
+   "conf": 0.95
+  },
+  {
+   "text": "HOURS!",
+   "conf": 0.95
+  },
+  {
+   "text": "ENTER",
+   "conf": 0.95
+  },
+  {
+   "text": "FOR",
+   "conf": 0.95
+  },
+  {
+   "text": "A",
+   "conf": 0.64
+  },
+  {
+   "text": "CHANCE",
+   "conf": 0.64
+  },
+  {
+   "text": "TO",
+   "conf": 0.93
+  },
+  {
+   "text": "WIN",
+   "conf": 0.85
+  },
+  {
+   "text": "A",
+   "conf": 0.85
+  },
+  {
+   "text": "ol",
+   "conf": 0.11
+  },
+  {
+   "text": "000",
+   "conf": 0.83
+  },
+  {
+   "text": "HOME",
+   "conf": 0.94
+  },
+  {
+   "text": "DEPOT",
+   "conf": 0.94
+  },
+  {
+   "text": "GIFT",
+   "conf": 0.94
+  },
+  {
+   "text": "CARN?",
+   "conf": 0.49
+  }
+ ],
+ "mean_conf": 0.4816,
+ "low_conf_share": 0.5035,
+ "latency_ms": 1154,
+ "fields": {
+  "company": "PRS",
+  "date": null,
+  "total": null
+ },
+ "rule_reasons": [
+  "date_not_found",
+  "total_not_found"
+ ],
+ "total_candidates": [],
+ "key": "W0200_2a92c61dd5c0"
+}

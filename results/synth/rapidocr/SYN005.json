@@ -1,0 +1,116 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "GREENLEAFGROCERSDNBHD",
+  "12JALANTUNRAZAK,50400 KUALA LUMPUR",
+  "TAX INVOICE",
+  "Date: 15/11/2026 Time:13:42",
+  "2x LOCAL EGGS 10S 13.00",
+  "2X ICED LATTE 19.00",
+  "SUBTOTAL 32.00",
+  "GST6% 1.92",
+  "TOTAL 33.92",
+  "CASH 38.92",
+  "CHANGE 5.00",
+  "THANKYOU,PLEASE COMEAGAIN"
+ ],
+ "tokens": [
+  {
+   "text": "GREENLEAFGROCERSDNBHD",
+   "conf": 0.9930563086555118
+  },
+  {
+   "text": "12JALANTUNRAZAK,50400 KUALA LUMPUR",
+   "conf": 0.931500577751328
+  },
+  {
+   "text": "TAX INVOICE",
+   "conf": 0.9568051479079507
+  },
+  {
+   "text": "Date: 15/11/2026",
+   "conf": 0.9672213867306709
+  },
+  {
+   "text": "Time:13:42",
+   "conf": 0.9653945505619049
+  },
+  {
+   "text": "2x",
+   "conf": 0.717965617775917
+  },
+  {
+   "text": "LOCAL EGGS 10S",
+   "conf": 0.9347883973802839
+  },
+  {
+   "text": "13.00",
+   "conf": 0.9973163604736328
+  },
+  {
+   "text": "2X ICED LATTE",
+   "conf": 0.8844684545810406
+  },
+  {
+   "text": "19.00",
+   "conf": 0.9991818904876709
+  },
+  {
+   "text": "SUBTOTAL",
+   "conf": 0.9952546656131744
+  },
+  {
+   "text": "32.00",
+   "conf": 0.9997729301452637
+  },
+  {
+   "text": "GST6%",
+   "conf": 0.9983867883682251
+  },
+  {
+   "text": "1.92",
+   "conf": 0.9979707449674606
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.9971275687217712
+  },
+  {
+   "text": "33.92",
+   "conf": 0.999128270149231
+  },
+  {
+   "text": "CASH",
+   "conf": 0.9963338524103165
+  },
+  {
+   "text": "38.92",
+   "conf": 0.9990905880928039
+  },
+  {
+   "text": "CHANGE",
+   "conf": 0.9977981547514597
+  },
+  {
+   "text": "5.00",
+   "conf": 0.999730795621872
+  },
+  {
+   "text": "THANKYOU,PLEASE COMEAGAIN",
+   "conf": 0.9555405521392822
+  }
+ ],
+ "mean_conf": 0.9659,
+ "low_conf_share": 0.0,
+ "latency_ms": 13486,
+ "fields": {
+  "company": "GREENLEAFGROCERSDNBHD",
+  "date": "2026-11-15",
+  "total": 33.92
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  33.92
+ ],
+ "key": "SYN005"
+}

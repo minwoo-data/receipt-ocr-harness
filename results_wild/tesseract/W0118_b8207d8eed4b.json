@@ -1,0 +1,331 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "“i =",
+  "—— eat",
+  "| IHOP # 2028",
+  "= 401 fst california ve",
+  "5 Oklaont, Of 704",
+  "= Prone! (45) 201-448?",
+  "WH 260 rca",
+  "ee i en te 2",
+  "SI Nov5' 14 03:2608 =",
+  "ies Bs *",
+  "as ry",
+  "| ecat 2B a",
+  "ee Certo Cia",
+  "ie 20.0 =",
+  "iy 0.00 #",
+  "sos) 3.8 =",
+  "tx ae",
+  "Payment i",
+  "tue 8.01",
+  "ee Oy cy Cine",
+  "NSH OE",
+  "a",
+  "fis i |"
+ ],
+ "tokens": [
+  {
+   "text": "“i",
+   "conf": 0.0
+  },
+  {
+   "text": "=",
+   "conf": 0.84
+  },
+  {
+   "text": "——",
+   "conf": 0.08
+  },
+  {
+   "text": "eat",
+   "conf": 0.0
+  },
+  {
+   "text": "|",
+   "conf": 0.39
+  },
+  {
+   "text": "IHOP",
+   "conf": 0.51
+  },
+  {
+   "text": "#",
+   "conf": 0.51
+  },
+  {
+   "text": "2028",
+   "conf": 0.89
+  },
+  {
+   "text": "=",
+   "conf": 0.56
+  },
+  {
+   "text": "401",
+   "conf": 0.81
+  },
+  {
+   "text": "fst",
+   "conf": 0.46
+  },
+  {
+   "text": "california",
+   "conf": 0.02
+  },
+  {
+   "text": "ve",
+   "conf": 0.45
+  },
+  {
+   "text": "5",
+   "conf": 0.47
+  },
+  {
+   "text": "Oklaont,",
+   "conf": 0.18
+  },
+  {
+   "text": "Of",
+   "conf": 0.39
+  },
+  {
+   "text": "704",
+   "conf": 0.45
+  },
+  {
+   "text": "=",
+   "conf": 0.9
+  },
+  {
+   "text": "Prone!",
+   "conf": 0.65
+  },
+  {
+   "text": "(45)",
+   "conf": 0.7
+  },
+  {
+   "text": "201-448?",
+   "conf": 0.42
+  },
+  {
+   "text": "WH",
+   "conf": 0.07
+  },
+  {
+   "text": "260",
+   "conf": 0.49
+  },
+  {
+   "text": "rca",
+   "conf": 0.0
+  },
+  {
+   "text": "ee",
+   "conf": 0.18
+  },
+  {
+   "text": "i",
+   "conf": 0.44
+  },
+  {
+   "text": "en",
+   "conf": 0.37
+  },
+  {
+   "text": "te",
+   "conf": 0.55
+  },
+  {
+   "text": "2",
+   "conf": 0.59
+  },
+  {
+   "text": "SI",
+   "conf": 0.32
+  },
+  {
+   "text": "Nov5'",
+   "conf": 0.0
+  },
+  {
+   "text": "14",
+   "conf": 0.0
+  },
+  {
+   "text": "03:2608",
+   "conf": 0.0
+  },
+  {
+   "text": "=",
+   "conf": 0.64
+  },
+  {
+   "text": "ies",
+   "conf": 0.47
+  },
+  {
+   "text": "Bs",
+   "conf": 0.45
+  },
+  {
+   "text": "*",
+   "conf": 0.0
+  },
+  {
+   "text": "as",
+   "conf": 0.48
+  },
+  {
+   "text": "ry",
+   "conf": 0.4
+  },
+  {
+   "text": "|",
+   "conf": 0.39
+  },
+  {
+   "text": "ecat",
+   "conf": 0.0
+  },
+  {
+   "text": "2B",
+   "conf": 0.25
+  },
+  {
+   "text": "a",
+   "conf": 0.66
+  },
+  {
+   "text": "ee",
+   "conf": 0.2
+  },
+  {
+   "text": "Certo",
+   "conf": 0.0
+  },
+  {
+   "text": "Cia",
+   "conf": 0.16
+  },
+  {
+   "text": "ie",
+   "conf": 0.52
+  },
+  {
+   "text": "20.0",
+   "conf": 0.6
+  },
+  {
+   "text": "=",
+   "conf": 0.86
+  },
+  {
+   "text": "iy",
+   "conf": 0.45
+  },
+  {
+   "text": "0.00",
+   "conf": 0.7
+  },
+  {
+   "text": "#",
+   "conf": 0.0
+  },
+  {
+   "text": "sos)",
+   "conf": 0.34
+  },
+  {
+   "text": "3.8",
+   "conf": 0.46
+  },
+  {
+   "text": "=",
+   "conf": 0.58
+  },
+  {
+   "text": "tx",
+   "conf": 0.52
+  },
+  {
+   "text": "ae",
+   "conf": 0.56
+  },
+  {
+   "text": "Payment",
+   "conf": 0.45
+  },
+  {
+   "text": "i",
+   "conf": 0.08
+  },
+  {
+   "text": "tue",
+   "conf": 0.21
+  },
+  {
+   "text": "8.01",
+   "conf": 0.23
+  },
+  {
+   "text": "ee",
+   "conf": 0.16
+  },
+  {
+   "text": "Oy",
+   "conf": 0.03
+  },
+  {
+   "text": "cy",
+   "conf": 0.52
+  },
+  {
+   "text": "Cine",
+   "conf": 0.22
+  },
+  {
+   "text": "NSH",
+   "conf": 0.06
+  },
+  {
+   "text": "OE",
+   "conf": 0.16
+  },
+  {
+   "text": "a",
+   "conf": 0.0
+  },
+  {
+   "text": "fis",
+   "conf": 0.4
+  },
+  {
+   "text": "i",
+   "conf": 0.31
+  },
+  {
+   "text": "|",
+   "conf": 0.81
+  }
+ ],
+ "mean_conf": 0.3665,
+ "low_conf_share": 0.6901,
+ "latency_ms": 966,
+ "fields": {
+  "company": "401 FST CALIFORNIA VE",
+  "date": null,
+  "total": 8.01
+ },
+ "rule_reasons": [
+  "date_not_found",
+  "total_no_keyword_fallback_max"
+ ],
+ "total_candidates": [
+  0.0,
+  8.01
+ ],
+ "key": "W0118_b8207d8eed4b"
+}

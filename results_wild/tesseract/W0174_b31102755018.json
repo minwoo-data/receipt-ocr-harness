@@ -1,0 +1,92 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "|",
+  "Subtota 4855)",
+  "Ta 3.88",
+  "ota $2.44",
+  "Balanee Due 52.44",
+  "Tip Calculator",
+  "20% = 9.71"
+ ],
+ "tokens": [
+  {
+   "text": "|",
+   "conf": 0.54
+  },
+  {
+   "text": "Subtota",
+   "conf": 0.75
+  },
+  {
+   "text": "4855)",
+   "conf": 0.48
+  },
+  {
+   "text": "Ta",
+   "conf": 0.93
+  },
+  {
+   "text": "3.88",
+   "conf": 0.63
+  },
+  {
+   "text": "ota",
+   "conf": 0.95
+  },
+  {
+   "text": "$2.44",
+   "conf": 0.4
+  },
+  {
+   "text": "Balanee",
+   "conf": 0.91
+  },
+  {
+   "text": "Due",
+   "conf": 0.96
+  },
+  {
+   "text": "52.44",
+   "conf": 0.95
+  },
+  {
+   "text": "Tip",
+   "conf": 0.95
+  },
+  {
+   "text": "Calculator",
+   "conf": 0.92
+  },
+  {
+   "text": "20%",
+   "conf": 0.69
+  },
+  {
+   "text": "=",
+   "conf": 0.62
+  },
+  {
+   "text": "9.71",
+   "conf": 0.73
+  }
+ ],
+ "mean_conf": 0.7607,
+ "low_conf_share": 0.1333,
+ "latency_ms": 239,
+ "fields": {
+  "company": "SUBTOTA 4855",
+  "date": null,
+  "total": 52.44
+ },
+ "rule_reasons": [
+  "date_not_found",
+  "total_no_keyword_fallback_max"
+ ],
+ "total_candidates": [
+  2.44,
+  52.44,
+  9.71
+ ],
+ "key": "W0174_b31102755018"
+}

@@ -1,0 +1,265 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "CARREFOUR RESTAURANT",
+  "JM0725755-U",
+  "18,JALANPERMAS 10/7",
+  "BANDARBARUPERMASJAYA,",
+  "MASAI,JOHOR",
+  "GSTID:000433614848 TEL:07-3822812",
+  "TABLE",
+  "CASH",
+  "MEMBERPOINTS:0.00",
+  "RECEIPT CS00018751 DATE: 20/03/2018",
+  "SALESPERSON TIME: 12:42:00",
+  "CASHIER: BAIHE",
+  "ITEM QTY U/P DISC% AMOUNT",
+  "干炒海鲜河粉",
+  "238 10.00 10.00",
+  "豆奶仙草",
+  "1033 1 3.00 3.00",
+  "TOTAL QTY: 2",
+  "TOTALPOINTS:0.00",
+  "SUB-TOTAL: 13.00",
+  "DISC: 0.00",
+  "SERVICECHARGE: 0.00",
+  "GOVTAX: 0.78",
+  "ROUNDING: 0.02",
+  "TOTAL 13.80",
+  "CASH 13.80",
+  "CHANGE 0.00",
+  "GOODSSOLDARENOTRETURNABLE,",
+  "THANKYOU."
+ ],
+ "tokens": [
+  {
+   "text": "CARREFOUR RESTAURANT",
+   "conf": 0.9810528934001923
+  },
+  {
+   "text": "JM0725755-U",
+   "conf": 0.9719732620499351
+  },
+  {
+   "text": "18,JALANPERMAS 10/7",
+   "conf": 0.9277094947664362
+  },
+  {
+   "text": "BANDARBARUPERMASJAYA,",
+   "conf": 0.9721241706893557
+  },
+  {
+   "text": "MASAI,JOHOR",
+   "conf": 0.96604539047588
+  },
+  {
+   "text": "GSTID:000433614848",
+   "conf": 0.9845524628957113
+  },
+  {
+   "text": "TEL:07-3822812",
+   "conf": 0.9552062451839447
+  },
+  {
+   "text": "TABLE",
+   "conf": 0.9942261219024658
+  },
+  {
+   "text": "CASH",
+   "conf": 0.9885107129812241
+  },
+  {
+   "text": "MEMBERPOINTS:0.00",
+   "conf": 0.9579722811194027
+  },
+  {
+   "text": "RECEIPT",
+   "conf": 0.9855345998491559
+  },
+  {
+   "text": "CS00018751",
+   "conf": 0.9941678762435913
+  },
+  {
+   "text": "DATE:",
+   "conf": 0.9880750775337219
+  },
+  {
+   "text": "20/03/2018",
+   "conf": 0.9569412112236023
+  },
+  {
+   "text": "SALESPERSON",
+   "conf": 0.992688000202179
+  },
+  {
+   "text": "TIME:",
+   "conf": 0.9923592209815979
+  },
+  {
+   "text": "12:42:00",
+   "conf": 0.985825352370739
+  },
+  {
+   "text": "CASHIER:",
+   "conf": 0.9768465012311935
+  },
+  {
+   "text": "BAIHE",
+   "conf": 0.9830089807510376
+  },
+  {
+   "text": "ITEM",
+   "conf": 0.9934813976287842
+  },
+  {
+   "text": "QTY",
+   "conf": 0.9301767945289612
+  },
+  {
+   "text": "U/P",
+   "conf": 0.9495032628377279
+  },
+  {
+   "text": "DISC%",
+   "conf": 0.8142845630645752
+  },
+  {
+   "text": "AMOUNT",
+   "conf": 0.997458835442861
+  },
+  {
+   "text": "干炒海鲜河粉",
+   "conf": 0.9892898996671041
+  },
+  {
+   "text": "238",
+   "conf": 0.9936000307401022
+  },
+  {
+   "text": "10.00",
+   "conf": 0.9989895105361939
+  },
+  {
+   "text": "10.00",
+   "conf": 0.9991246342658997
+  },
+  {
+   "text": "豆奶仙草",
+   "conf": 0.988175243139267
+  },
+  {
+   "text": "1033",
+   "conf": 0.9975505769252777
+  },
+  {
+   "text": "1",
+   "conf": 0.9513095617294312
+  },
+  {
+   "text": "3.00",
+   "conf": 0.9869836270809174
+  },
+  {
+   "text": "3.00",
+   "conf": 0.9915517419576645
+  },
+  {
+   "text": "TOTAL QTY:",
+   "conf": 0.973609858751297
+  },
+  {
+   "text": "2",
+   "conf": 0.9954220652580261
+  },
+  {
+   "text": "TOTALPOINTS:0.00",
+   "conf": 0.9834859818220139
+  },
+  {
+   "text": "SUB-TOTAL:",
+   "conf": 0.9712301909923553
+  },
+  {
+   "text": "13.00",
+   "conf": 0.9988682389259338
+  },
+  {
+   "text": "DISC:",
+   "conf": 0.8884638786315918
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9986193180084229
+  },
+  {
+   "text": "SERVICECHARGE:",
+   "conf": 0.9717185965606144
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9990727454423904
+  },
+  {
+   "text": "GOVTAX:",
+   "conf": 0.9528252567563739
+  },
+  {
+   "text": "0.78",
+   "conf": 0.9971247017383575
+  },
+  {
+   "text": "ROUNDING:",
+   "conf": 0.9692740109231737
+  },
+  {
+   "text": "0.02",
+   "conf": 0.9991777390241623
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.9928640604019165
+  },
+  {
+   "text": "13.80",
+   "conf": 0.999586284160614
+  },
+  {
+   "text": "CASH",
+   "conf": 0.9945898056030273
+  },
+  {
+   "text": "13.80",
+   "conf": 0.999213171005249
+  },
+  {
+   "text": "CHANGE",
+   "conf": 0.9871486226717631
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9995850175619125
+  },
+  {
+   "text": "GOODSSOLDARENOTRETURNABLE,",
+   "conf": 0.9676876870485452
+  },
+  {
+   "text": "THANKYOU.",
+   "conf": 0.9910197589132521
+  }
+ ],
+ "mean_conf": 0.9772,
+ "low_conf_share": 0.0,
+ "latency_ms": 4720,
+ "fields": {
+  "company": "CARREFOUR RESTAURANT",
+  "date": "2018-03-20",
+  "total": 13.8
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  13.8
+ ],
+ "key": "X51005442383"
+}

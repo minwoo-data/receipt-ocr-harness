@@ -1,0 +1,66 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "ge",
+  "GANESH",
+  "FINE INDIAN CUISINE",
+  "ay Price Tota",
+  "TOTAL: 309,000"
+ ],
+ "tokens": [
+  {
+   "text": "ge",
+   "conf": 0.38
+  },
+  {
+   "text": "GANESH",
+   "conf": 0.82
+  },
+  {
+   "text": "FINE",
+   "conf": 0.96
+  },
+  {
+   "text": "INDIAN",
+   "conf": 0.01
+  },
+  {
+   "text": "CUISINE",
+   "conf": 0.39
+  },
+  {
+   "text": "ay",
+   "conf": 0.58
+  },
+  {
+   "text": "Price",
+   "conf": 0.75
+  },
+  {
+   "text": "Tota",
+   "conf": 0.45
+  },
+  {
+   "text": "TOTAL:",
+   "conf": 0.37
+  },
+  {
+   "text": "309,000",
+   "conf": 0.78
+  }
+ ],
+ "mean_conf": 0.549,
+ "low_conf_share": 0.5,
+ "latency_ms": 711,
+ "fields": {
+  "company": "GANESH",
+  "date": null,
+  "total": null
+ },
+ "rule_reasons": [
+  "date_not_found",
+  "total_not_found"
+ ],
+ "total_candidates": [],
+ "key": "W0129_8ef56728735a"
+}

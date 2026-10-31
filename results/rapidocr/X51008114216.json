@@ -1,0 +1,187 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "MR.D.I.Y.（KUCHAI) SDN BHD",
+  "（C0Reg:750441-W)",
+  "L0T1851-A&1851-B,JALANKPB6,",
+  "KAWASAN PERINDUSTRIAN BALAKONG,",
+  "43300 SERI KEMBANGAN,SELANGOR",
+  "（GSTIDN0:000473792512)",
+  "(KEPONG)",
+  "-TAX INVOICE-",
+  "STEEL WOOL SH-2# *S",
+  "EZ03-12/144",
+  "8970273 5X1.79 8.95",
+  "Item（s）:1 Qty（s）:5",
+  "Total Incl.GST RM8.95",
+  "CASH RM50.00",
+  "CHANGE RM41.05",
+  "GST Summary Amt(RM) Tax(RM)",
+  "GST SR@0% 8.95 0.00",
+  "*一 一*",
+  "15-06-18 17:12 SH02 B003 T2 R000551481",
+  "OPERATOR KPOT- SHAHRUL NIZAM",
+  "EXCHANGE ARE ALLOWED WITHIN",
+  "7DAYS WITH RECEIPT.",
+  "STRICTLY NO CASH REFUND."
+ ],
+ "tokens": [
+  {
+   "text": "MR.D.I.Y.（KUCHAI) SDN BHD",
+   "conf": 0.9108395504951478
+  },
+  {
+   "text": "（C0Reg:750441-W)",
+   "conf": 0.9367579072713852
+  },
+  {
+   "text": "L0T1851-A&1851-B,JALANKPB6,",
+   "conf": 0.9465032849046919
+  },
+  {
+   "text": "KAWASAN PERINDUSTRIAN BALAKONG,",
+   "conf": 0.9475849328502532
+  },
+  {
+   "text": "43300 SERI KEMBANGAN,SELANGOR",
+   "conf": 0.9190786193157064
+  },
+  {
+   "text": "（GSTIDN0:000473792512)",
+   "conf": 0.929710950363766
+  },
+  {
+   "text": "(KEPONG)",
+   "conf": 0.9418080151081085
+  },
+  {
+   "text": "-TAX INVOICE-",
+   "conf": 0.9563594598036546
+  },
+  {
+   "text": "STEEL WOOL SH-2#",
+   "conf": 0.8787126764655113
+  },
+  {
+   "text": "*S",
+   "conf": 0.9673426449298859
+  },
+  {
+   "text": "EZ03-12/144",
+   "conf": 0.9917137839577415
+  },
+  {
+   "text": "8970273",
+   "conf": 0.9985165425709316
+  },
+  {
+   "text": "5X1.79",
+   "conf": 0.9816509286562601
+  },
+  {
+   "text": "8.95",
+   "conf": 0.9975188076496124
+  },
+  {
+   "text": "Item（s）:1",
+   "conf": 0.8531550235218472
+  },
+  {
+   "text": "Qty（s）:5",
+   "conf": 0.8483560159802437
+  },
+  {
+   "text": "Total Incl.GST",
+   "conf": 0.955777496099472
+  },
+  {
+   "text": "RM8.95",
+   "conf": 0.9965496559937795
+  },
+  {
+   "text": "CASH",
+   "conf": 0.9925809353590012
+  },
+  {
+   "text": "RM50.00",
+   "conf": 0.9951243145125253
+  },
+  {
+   "text": "CHANGE",
+   "conf": 0.9880413015683492
+  },
+  {
+   "text": "RM41.05",
+   "conf": 0.9966695819582257
+  },
+  {
+   "text": "GST Summary",
+   "conf": 0.9633073698390614
+  },
+  {
+   "text": "Amt(RM)",
+   "conf": 0.9144174030848912
+  },
+  {
+   "text": "Tax(RM)",
+   "conf": 0.9235964672906058
+  },
+  {
+   "text": "GST SR@0%",
+   "conf": 0.9433927602238126
+  },
+  {
+   "text": "8.95",
+   "conf": 0.9983038604259491
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9977150559425354
+  },
+  {
+   "text": "*一",
+   "conf": 0.8818855285644531
+  },
+  {
+   "text": "一*",
+   "conf": 0.7849980592727661
+  },
+  {
+   "text": "15-06-18 17:12 SH02 B003",
+   "conf": 0.9445978005727133
+  },
+  {
+   "text": "T2 R000551481",
+   "conf": 0.9711869955062866
+  },
+  {
+   "text": "OPERATOR KPOT- SHAHRUL NIZAM",
+   "conf": 0.9481975500072751
+  },
+  {
+   "text": "EXCHANGE ARE ALLOWED WITHIN",
+   "conf": 0.9684440537735268
+  },
+  {
+   "text": "7DAYS WITH RECEIPT.",
+   "conf": 0.9484880064663134
+  },
+  {
+   "text": "STRICTLY NO CASH REFUND.",
+   "conf": 0.9459656625986099
+  }
+ ],
+ "mean_conf": 0.9462,
+ "low_conf_share": 0.0,
+ "latency_ms": 3757,
+ "fields": {
+  "company": "MR D I Y KUCHAI SDN BHD",
+  "date": "2018-06-15",
+  "total": 8.95
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  8.95
+ ],
+ "key": "X51008114216"
+}

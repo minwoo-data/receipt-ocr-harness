@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.1-flash-lite",
+ "provider": "gemini",
+ "raw_text": "{\n  \"vendor\": \"GARDENIA BAKERIES (KL) SDN BHD\",\n  \"date\": \"2017-08-05\",\n  \"subtotal\": 18.88,\n  \"tax\": 0.43,\n  \"tip\": null,\n  \"discount\": -2.78,\n  \"total\": 19.31,\n  \"currency\": \"MYR\",\n  \"confidence\": 0.98,\n  \"notes\": null\n}",
+ "data": {
+  "vendor": "GARDENIA BAKERIES (KL) SDN BHD",
+  "date": "2017-08-05",
+  "subtotal": 18.88,
+  "tax": 0.43,
+  "tip": null,
+  "discount": -2.78,
+  "total": 19.31,
+  "currency": "MYR",
+  "confidence": 0.98,
+  "notes": null
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1473,
+  "output_tokens": 120,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.000548,
+ "latency_ms": 1486,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.1-flash-lite",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.1-flash-lite"
+ ],
+ "key": "X51006556732"
+}

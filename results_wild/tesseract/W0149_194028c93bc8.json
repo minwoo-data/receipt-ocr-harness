@@ -1,0 +1,266 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "BLK 638, #01-01/02,",
+  "Jurong West St 61",
+  "Singapore 640638",
+  "Tel: 67958902",
+  "GST REGN NO: M2-0023981-4",
+  "TAX INVOICE",
+  "#0RD 59 -REG 17- 26/03/2011 16:05:02",
+  "QTY ITEM TOTAL",
+  "1 Latte Himalayan Tea 3.90",
+  "Eat-In Total (incl GST) 3.90",
+  "Cash Tendered 4.00",
+  "Change 0.10",
+  "TOTAL INCLUDES GST OF 0.26",
+  "Transaction ID : EFFASQ",
+  "Thank You & Have A Nice Day."
+ ],
+ "tokens": [
+  {
+   "text": "BLK",
+   "conf": 0.96
+  },
+  {
+   "text": "638,",
+   "conf": 0.93
+  },
+  {
+   "text": "#01-01/02,",
+   "conf": 0.9
+  },
+  {
+   "text": "Jurong",
+   "conf": 0.96
+  },
+  {
+   "text": "West",
+   "conf": 0.96
+  },
+  {
+   "text": "St",
+   "conf": 0.96
+  },
+  {
+   "text": "61",
+   "conf": 0.96
+  },
+  {
+   "text": "Singapore",
+   "conf": 0.96
+  },
+  {
+   "text": "640638",
+   "conf": 0.96
+  },
+  {
+   "text": "Tel:",
+   "conf": 0.96
+  },
+  {
+   "text": "67958902",
+   "conf": 0.96
+  },
+  {
+   "text": "GST",
+   "conf": 0.92
+  },
+  {
+   "text": "REGN",
+   "conf": 0.92
+  },
+  {
+   "text": "NO:",
+   "conf": 0.93
+  },
+  {
+   "text": "M2-0023981-4",
+   "conf": 0.79
+  },
+  {
+   "text": "TAX",
+   "conf": 0.92
+  },
+  {
+   "text": "INVOICE",
+   "conf": 0.92
+  },
+  {
+   "text": "#0RD",
+   "conf": 0.57
+  },
+  {
+   "text": "59",
+   "conf": 0.92
+  },
+  {
+   "text": "-REG",
+   "conf": 0.9
+  },
+  {
+   "text": "17-",
+   "conf": 0.81
+  },
+  {
+   "text": "26/03/2011",
+   "conf": 0.96
+  },
+  {
+   "text": "16:05:02",
+   "conf": 0.96
+  },
+  {
+   "text": "QTY",
+   "conf": 0.96
+  },
+  {
+   "text": "ITEM",
+   "conf": 0.96
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.96
+  },
+  {
+   "text": "1",
+   "conf": 0.89
+  },
+  {
+   "text": "Latte",
+   "conf": 0.95
+  },
+  {
+   "text": "Himalayan",
+   "conf": 0.96
+  },
+  {
+   "text": "Tea",
+   "conf": 0.96
+  },
+  {
+   "text": "3.90",
+   "conf": 0.83
+  },
+  {
+   "text": "Eat-In",
+   "conf": 0.92
+  },
+  {
+   "text": "Total",
+   "conf": 0.92
+  },
+  {
+   "text": "(incl",
+   "conf": 0.21
+  },
+  {
+   "text": "GST)",
+   "conf": 0.87
+  },
+  {
+   "text": "3.90",
+   "conf": 0.95
+  },
+  {
+   "text": "Cash",
+   "conf": 0.93
+  },
+  {
+   "text": "Tendered",
+   "conf": 0.92
+  },
+  {
+   "text": "4.00",
+   "conf": 0.85
+  },
+  {
+   "text": "Change",
+   "conf": 0.95
+  },
+  {
+   "text": "0.10",
+   "conf": 0.95
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.96
+  },
+  {
+   "text": "INCLUDES",
+   "conf": 0.96
+  },
+  {
+   "text": "GST",
+   "conf": 0.96
+  },
+  {
+   "text": "OF",
+   "conf": 0.96
+  },
+  {
+   "text": "0.26",
+   "conf": 0.93
+  },
+  {
+   "text": "Transaction",
+   "conf": 0.96
+  },
+  {
+   "text": "ID",
+   "conf": 0.91
+  },
+  {
+   "text": ":",
+   "conf": 0.66
+  },
+  {
+   "text": "EFFASQ",
+   "conf": 0.89
+  },
+  {
+   "text": "Thank",
+   "conf": 0.11
+  },
+  {
+   "text": "You",
+   "conf": 0.93
+  },
+  {
+   "text": "&",
+   "conf": 0.93
+  },
+  {
+   "text": "Have",
+   "conf": 0.96
+  },
+  {
+   "text": "A",
+   "conf": 0.77
+  },
+  {
+   "text": "Nice",
+   "conf": 0.95
+  },
+  {
+   "text": "Day.",
+   "conf": 0.94
+  }
+ ],
+ "mean_conf": 0.8896,
+ "low_conf_share": 0.0351,
+ "latency_ms": 413,
+ "fields": {
+  "company": "JURONG WEST ST 61",
+  "date": "2002-01-01",
+  "total": 0.26
+ },
+ "rule_reasons": [
+  "total_multiple_strong_amounts"
+ ],
+ "total_candidates": [
+  3.9,
+  0.26
+ ],
+ "key": "W0149_194028c93bc8"
+}

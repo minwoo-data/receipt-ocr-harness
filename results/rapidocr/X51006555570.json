@@ -1,0 +1,368 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "SIHPLIFTED TAX INVOICE",
+  "AAPHARMACY",
+  "SUBANG HEALTHCARE SDN BHD",
+  "1118258-K",
+  "GST N0:001536708608",
+  "B-8,JALAN SS15/4D，",
+  "47500 SUBANG JAYA,SELANGOR",
+  "TEL:03-56127718",
+  "CASH",
+  "RECEIPT #:C500224314 DATE:11/08/2017",
+  "SALESPERSON： TIME:19:46:00",
+  "CASHIER C1",
+  "ITEM A10 U/P AMDUNT",
+  "(GST) (GST)",
+  "1394 1 57.00 57.00S",
+  "(IIN) WAYCARE WOUND DRESSING WATERPROOF",
+  "2045179052519 1 5.30 5.30S",
+  "(BOX 1ODS) AROS NON-HOWEN SWAB ALCOHOLP",
+  "9557037001049 1 3.90 3.90S",
+  "(EACH) PAN MATE COTTON BUDS 4DOTIPS",
+  "8896 3 1.70 5.10S",
+  "(UNIT) UNIGLOVES STERILE GAUZE SWAB 1OCM",
+  "9556250921884 1 6.80 6.80Z",
+  "(1 BOX) GENTAMICIN CREAM",
+  "TOTAL QUANTITY 7",
+  "SUB-TOTAL 74.06",
+  "0.00",
+  "4.04",
+  "ROUNDING 0.00",
+  "TOTAL 78.10",
+  "DEBIT CARD 78.10",
+  "CHANGE 0.00",
+  "GOODS SOLD ARE NOT RETURNABLE",
+  "THANK YOU",
+  "S=STANDARD RATED,Z=ZERO RATED",
+  "GST SUMMARY",
+  "CODE AMOUNT TAX/AMT",
+  "SR 67.26 6 4.04",
+  "ZRL. 6.80 0 0.00",
+  "TAX TOTAL: 4.04"
+ ],
+ "tokens": [
+  {
+   "text": "SIHPLIFTED TAX INVOICE",
+   "conf": 0.9099135900085623
+  },
+  {
+   "text": "AAPHARMACY",
+   "conf": 0.9247598707675934
+  },
+  {
+   "text": "SUBANG HEALTHCARE SDN BHD",
+   "conf": 0.9635147666931152
+  },
+  {
+   "text": "1118258-K",
+   "conf": 0.9717795782619052
+  },
+  {
+   "text": "GST N0:001536708608",
+   "conf": 0.979285898961519
+  },
+  {
+   "text": "B-8,JALAN SS15/4D，",
+   "conf": 0.8918422079748578
+  },
+  {
+   "text": "47500 SUBANG JAYA,SELANGOR",
+   "conf": 0.9309945885951703
+  },
+  {
+   "text": "TEL:03-56127718",
+   "conf": 0.9864946921666463
+  },
+  {
+   "text": "CASH",
+   "conf": 0.980124831199646
+  },
+  {
+   "text": "RECEIPT #:C500224314 DATE:11/08/2017",
+   "conf": 0.9503202769491408
+  },
+  {
+   "text": "SALESPERSON：",
+   "conf": 0.9474621216456095
+  },
+  {
+   "text": "TIME:19:46:00",
+   "conf": 0.9315990438828101
+  },
+  {
+   "text": "CASHIER C1",
+   "conf": 0.9040229976177215
+  },
+  {
+   "text": "ITEM",
+   "conf": 0.9705875068902969
+  },
+  {
+   "text": "A10",
+   "conf": 0.861865758895874
+  },
+  {
+   "text": "U/P",
+   "conf": 0.9457955757776896
+  },
+  {
+   "text": "AMDUNT",
+   "conf": 0.9622249801953634
+  },
+  {
+   "text": "(GST)",
+   "conf": 0.9687301874160766
+  },
+  {
+   "text": "(GST)",
+   "conf": 0.942125940322876
+  },
+  {
+   "text": "1394",
+   "conf": 0.9970198571681976
+  },
+  {
+   "text": "1",
+   "conf": 0.8926053047180176
+  },
+  {
+   "text": "57.00",
+   "conf": 0.9961665868759155
+  },
+  {
+   "text": "57.00S",
+   "conf": 0.9453558425108591
+  },
+  {
+   "text": "(IIN)",
+   "conf": 0.7411583840847016
+  },
+  {
+   "text": "WAYCARE WOUND DRESSING WATERPROOF",
+   "conf": 0.9543455911405159
+  },
+  {
+   "text": "2045179052519",
+   "conf": 0.9981132516494164
+  },
+  {
+   "text": "1",
+   "conf": 0.9445428848266602
+  },
+  {
+   "text": "5.30",
+   "conf": 0.9953625202178955
+  },
+  {
+   "text": "5.30S",
+   "conf": 0.9150028705596924
+  },
+  {
+   "text": "(BOX 1ODS) AROS NON-HOWEN SWAB ALCOHOLP",
+   "conf": 0.8868470788002014
+  },
+  {
+   "text": "9557037001049",
+   "conf": 0.9937067994704614
+  },
+  {
+   "text": "1",
+   "conf": 0.9546225070953369
+  },
+  {
+   "text": "3.90",
+   "conf": 0.9863177537918091
+  },
+  {
+   "text": "3.90S",
+   "conf": 0.8461519539356231
+  },
+  {
+   "text": "(EACH) PAN MATE COTTON BUDS 4DOTIPS",
+   "conf": 0.9334271601268224
+  },
+  {
+   "text": "8896",
+   "conf": 0.9768716990947723
+  },
+  {
+   "text": "3",
+   "conf": 0.9860532879829407
+  },
+  {
+   "text": "1.70",
+   "conf": 0.9895885288715363
+  },
+  {
+   "text": "5.10S",
+   "conf": 0.9820173263549805
+  },
+  {
+   "text": "(UNIT) UNIGLOVES STERILE GAUZE SWAB 1OCM",
+   "conf": 0.9467497959733009
+  },
+  {
+   "text": "9556250921884",
+   "conf": 0.9915365118246812
+  },
+  {
+   "text": "1",
+   "conf": 0.964288592338562
+  },
+  {
+   "text": "6.80",
+   "conf": 0.9885468631982803
+  },
+  {
+   "text": "6.80Z",
+   "conf": 0.9223547577857971
+  },
+  {
+   "text": "(1 BOX) GENTAMICIN CREAM",
+   "conf": 0.9336476077636083
+  },
+  {
+   "text": "TOTAL QUANTITY",
+   "conf": 0.9587319621018001
+  },
+  {
+   "text": "7",
+   "conf": 0.9917086958885193
+  },
+  {
+   "text": "SUB-TOTAL",
+   "conf": 0.9880245394176908
+  },
+  {
+   "text": "74.06",
+   "conf": 0.9886090517044067
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9938443005084991
+  },
+  {
+   "text": "4.04",
+   "conf": 0.9920347332954407
+  },
+  {
+   "text": "ROUNDING",
+   "conf": 0.9879566431045532
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9949603527784348
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.9070762038230896
+  },
+  {
+   "text": "78.10",
+   "conf": 0.9875099539756775
+  },
+  {
+   "text": "DEBIT",
+   "conf": 0.9017959475517273
+  },
+  {
+   "text": "CARD",
+   "conf": 0.990066796541214
+  },
+  {
+   "text": "78.10",
+   "conf": 0.990016520023346
+  },
+  {
+   "text": "CHANGE",
+   "conf": 0.9261788924535116
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9921257495880127
+  },
+  {
+   "text": "GOODS SOLD ARE NOT RETURNABLE",
+   "conf": 0.9530520747447836
+  },
+  {
+   "text": "THANK YOU",
+   "conf": 0.9301570587688022
+  },
+  {
+   "text": "S=STANDARD RATED,Z=ZERO RATED",
+   "conf": 0.940249058707007
+  },
+  {
+   "text": "GST SUMMARY",
+   "conf": 0.9682393290779807
+  },
+  {
+   "text": "CODE",
+   "conf": 0.9909624010324478
+  },
+  {
+   "text": "AMOUNT",
+   "conf": 0.9668763875961304
+  },
+  {
+   "text": "TAX/AMT",
+   "conf": 0.9933159947395325
+  },
+  {
+   "text": "SR",
+   "conf": 0.9884538352489471
+  },
+  {
+   "text": "67.26",
+   "conf": 0.9868579626083374
+  },
+  {
+   "text": "6",
+   "conf": 0.9858800768852234
+  },
+  {
+   "text": "4.04",
+   "conf": 0.9773008525371552
+  },
+  {
+   "text": "ZRL.",
+   "conf": 0.9012633413076401
+  },
+  {
+   "text": "6.80",
+   "conf": 0.9744231700897217
+  },
+  {
+   "text": "0",
+   "conf": 0.9476803541183472
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9943547397851944
+  },
+  {
+   "text": "TAX TOTAL:",
+   "conf": 0.8889502495527267
+  },
+  {
+   "text": "4.04",
+   "conf": 0.9825173765420914
+  }
+ ],
+ "mean_conf": 0.9552,
+ "low_conf_share": 0.0,
+ "latency_ms": 6708,
+ "fields": {
+  "company": "SUBANG HEALTHCARE SDN BHD",
+  "date": "2017-08-11",
+  "total": 78.1
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  78.1
+ ],
+ "key": "X51006555570"
+}

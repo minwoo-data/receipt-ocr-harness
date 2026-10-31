@@ -1,0 +1,530 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "KEDAI PAPAN YEW CHUAN",
+  "(0005&83085-K)",
+  "LOT 276 JALAN BANTING",
+  "43800 DENGKIL, SELANGOR.",
+  "TEL | 03-87686092 FAX. 03-87686092",
+  "GST ID : 000781500416",
+  "a TAXINVOICE",
+  "Bill To",
+  "SUCI ALAM JAYA TRANSPORT",
+  "NO 1 JALAN AMAN 2",
+  "TAMAN DESA 43800",
+  "DENGKIL SELANGOR",
+  "017-6057770",
+  "‘Doc No” CS000T2658° Cate TGaPOTS",
+  "Cashier : USER Time: 16:62:00 |",
+  "Salesperson Ref.:",
+  "(6st) (st)",
+  "tem Qty S/Price_S/Price_ Amount _ Tax",
+  "101870 1 65.00 68.90 68.90 SR",
+  "PASIR HALUS (D)",
+  "~~ Total Qty GG",
+  "Total Sales (Excluding GST): 65.00",
+  "Discount : 0.00",
+  "Total GST 3.90 |",
+  "Rounding : 0.06",
+  "Total Sales (Inclusive of GST) : 68.90",
+  "CASH : 68.90",
+  "Change : 0.00",
+  "GST SUMMARY",
+  "Tax Code % Amt(RM) Tax (RM)",
+  "SR 6 65.00 3.90",
+  "_Total: ___ 65.00 3.80 |"
+ ],
+ "tokens": [
+  {
+   "text": "KEDAI",
+   "conf": 0.9
+  },
+  {
+   "text": "PAPAN",
+   "conf": 0.9
+  },
+  {
+   "text": "YEW",
+   "conf": 0.95
+  },
+  {
+   "text": "CHUAN",
+   "conf": 0.96
+  },
+  {
+   "text": "(0005&83085-K)",
+   "conf": 0.19
+  },
+  {
+   "text": "LOT",
+   "conf": 0.94
+  },
+  {
+   "text": "276",
+   "conf": 0.96
+  },
+  {
+   "text": "JALAN",
+   "conf": 0.92
+  },
+  {
+   "text": "BANTING",
+   "conf": 0.91
+  },
+  {
+   "text": "43800",
+   "conf": 0.93
+  },
+  {
+   "text": "DENGKIL,",
+   "conf": 0.91
+  },
+  {
+   "text": "SELANGOR.",
+   "conf": 0.85
+  },
+  {
+   "text": "TEL",
+   "conf": 0.93
+  },
+  {
+   "text": "|",
+   "conf": 0.41
+  },
+  {
+   "text": "03-87686092",
+   "conf": 0.73
+  },
+  {
+   "text": "FAX.",
+   "conf": 0.48
+  },
+  {
+   "text": "03-87686092",
+   "conf": 0.78
+  },
+  {
+   "text": "GST",
+   "conf": 0.93
+  },
+  {
+   "text": "ID",
+   "conf": 0.84
+  },
+  {
+   "text": ":",
+   "conf": 0.15
+  },
+  {
+   "text": "000781500416",
+   "conf": 0.96
+  },
+  {
+   "text": "a",
+   "conf": 0.38
+  },
+  {
+   "text": "TAXINVOICE",
+   "conf": 0.41
+  },
+  {
+   "text": "Bill",
+   "conf": 0.95
+  },
+  {
+   "text": "To",
+   "conf": 0.96
+  },
+  {
+   "text": "SUCI",
+   "conf": 0.74
+  },
+  {
+   "text": "ALAM",
+   "conf": 0.92
+  },
+  {
+   "text": "JAYA",
+   "conf": 0.9
+  },
+  {
+   "text": "TRANSPORT",
+   "conf": 0.95
+  },
+  {
+   "text": "NO",
+   "conf": 0.95
+  },
+  {
+   "text": "1",
+   "conf": 0.92
+  },
+  {
+   "text": "JALAN",
+   "conf": 0.91
+  },
+  {
+   "text": "AMAN",
+   "conf": 0.91
+  },
+  {
+   "text": "2",
+   "conf": 0.96
+  },
+  {
+   "text": "TAMAN",
+   "conf": 0.91
+  },
+  {
+   "text": "DESA",
+   "conf": 0.91
+  },
+  {
+   "text": "43800",
+   "conf": 0.96
+  },
+  {
+   "text": "DENGKIL",
+   "conf": 0.78
+  },
+  {
+   "text": "SELANGOR",
+   "conf": 0.96
+  },
+  {
+   "text": "017-6057770",
+   "conf": 0.91
+  },
+  {
+   "text": "‘Doc",
+   "conf": 0.08
+  },
+  {
+   "text": "No”",
+   "conf": 0.58
+  },
+  {
+   "text": "CS000T2658°",
+   "conf": 0.07
+  },
+  {
+   "text": "Cate",
+   "conf": 0.03
+  },
+  {
+   "text": "TGaPOTS",
+   "conf": 0.0
+  },
+  {
+   "text": "Cashier",
+   "conf": 0.96
+  },
+  {
+   "text": ":",
+   "conf": 0.22
+  },
+  {
+   "text": "USER",
+   "conf": 0.96
+  },
+  {
+   "text": "Time:",
+   "conf": 0.93
+  },
+  {
+   "text": "16:62:00",
+   "conf": 0.77
+  },
+  {
+   "text": "|",
+   "conf": 0.93
+  },
+  {
+   "text": "Salesperson",
+   "conf": 0.96
+  },
+  {
+   "text": "Ref.:",
+   "conf": 0.81
+  },
+  {
+   "text": "(6st)",
+   "conf": 0.21
+  },
+  {
+   "text": "(st)",
+   "conf": 0.19
+  },
+  {
+   "text": "tem",
+   "conf": 0.18
+  },
+  {
+   "text": "Qty",
+   "conf": 0.18
+  },
+  {
+   "text": "S/Price_S/Price_",
+   "conf": 0.36
+  },
+  {
+   "text": "Amount",
+   "conf": 0.48
+  },
+  {
+   "text": "_",
+   "conf": 0.36
+  },
+  {
+   "text": "Tax",
+   "conf": 0.94
+  },
+  {
+   "text": "101870",
+   "conf": 0.96
+  },
+  {
+   "text": "1",
+   "conf": 0.96
+  },
+  {
+   "text": "65.00",
+   "conf": 0.96
+  },
+  {
+   "text": "68.90",
+   "conf": 0.96
+  },
+  {
+   "text": "68.90",
+   "conf": 0.94
+  },
+  {
+   "text": "SR",
+   "conf": 0.23
+  },
+  {
+   "text": "PASIR",
+   "conf": 0.92
+  },
+  {
+   "text": "HALUS",
+   "conf": 0.92
+  },
+  {
+   "text": "(D)",
+   "conf": 0.93
+  },
+  {
+   "text": "~~",
+   "conf": 0.32
+  },
+  {
+   "text": "Total",
+   "conf": 0.62
+  },
+  {
+   "text": "Qty",
+   "conf": 0.5
+  },
+  {
+   "text": "GG",
+   "conf": 0.36
+  },
+  {
+   "text": "Total",
+   "conf": 0.96
+  },
+  {
+   "text": "Sales",
+   "conf": 0.96
+  },
+  {
+   "text": "(Excluding",
+   "conf": 0.92
+  },
+  {
+   "text": "GST):",
+   "conf": 0.18
+  },
+  {
+   "text": "65.00",
+   "conf": 0.96
+  },
+  {
+   "text": "Discount",
+   "conf": 0.9
+  },
+  {
+   "text": ":",
+   "conf": 0.85
+  },
+  {
+   "text": "0.00",
+   "conf": 0.96
+  },
+  {
+   "text": "Total",
+   "conf": 0.93
+  },
+  {
+   "text": "GST",
+   "conf": 0.34
+  },
+  {
+   "text": "3.90",
+   "conf": 0.95
+  },
+  {
+   "text": "|",
+   "conf": 0.59
+  },
+  {
+   "text": "Rounding",
+   "conf": 0.91
+  },
+  {
+   "text": ":",
+   "conf": 0.91
+  },
+  {
+   "text": "0.06",
+   "conf": 0.94
+  },
+  {
+   "text": "Total",
+   "conf": 0.96
+  },
+  {
+   "text": "Sales",
+   "conf": 0.96
+  },
+  {
+   "text": "(Inclusive",
+   "conf": 0.95
+  },
+  {
+   "text": "of",
+   "conf": 0.96
+  },
+  {
+   "text": "GST)",
+   "conf": 0.92
+  },
+  {
+   "text": ":",
+   "conf": 0.91
+  },
+  {
+   "text": "68.90",
+   "conf": 0.95
+  },
+  {
+   "text": "CASH",
+   "conf": 0.93
+  },
+  {
+   "text": ":",
+   "conf": 0.93
+  },
+  {
+   "text": "68.90",
+   "conf": 0.96
+  },
+  {
+   "text": "Change",
+   "conf": 0.92
+  },
+  {
+   "text": ":",
+   "conf": 0.92
+  },
+  {
+   "text": "0.00",
+   "conf": 0.96
+  },
+  {
+   "text": "GST",
+   "conf": 0.96
+  },
+  {
+   "text": "SUMMARY",
+   "conf": 0.41
+  },
+  {
+   "text": "Tax",
+   "conf": 0.96
+  },
+  {
+   "text": "Code",
+   "conf": 0.95
+  },
+  {
+   "text": "%",
+   "conf": 0.87
+  },
+  {
+   "text": "Amt(RM)",
+   "conf": 0.91
+  },
+  {
+   "text": "Tax",
+   "conf": 0.44
+  },
+  {
+   "text": "(RM)",
+   "conf": 0.44
+  },
+  {
+   "text": "SR",
+   "conf": 0.95
+  },
+  {
+   "text": "6",
+   "conf": 0.96
+  },
+  {
+   "text": "65.00",
+   "conf": 0.94
+  },
+  {
+   "text": "3.90",
+   "conf": 0.94
+  },
+  {
+   "text": "_Total:",
+   "conf": 0.84
+  },
+  {
+   "text": "___",
+   "conf": 0.04
+  },
+  {
+   "text": "65.00",
+   "conf": 0.56
+  },
+  {
+   "text": "3.80",
+   "conf": 0.1
+  },
+  {
+   "text": "|",
+   "conf": 0.1
+  }
+ ],
+ "mean_conf": 0.7434,
+ "low_conf_share": 0.2437,
+ "latency_ms": 1965,
+ "fields": {
+  "company": "KEDAI PAPAN YEW CHUAN",
+  "date": null,
+  "total": 68.9
+ },
+ "rule_reasons": [
+  "date_not_found"
+ ],
+ "total_candidates": [
+  68.9
+ ],
+ "key": "X51008142068"
+}

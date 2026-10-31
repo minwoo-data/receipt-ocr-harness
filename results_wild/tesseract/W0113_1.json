@@ -1,0 +1,371 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "12/30/2012 7:03 PM Sales Receipt #108772",
+  "Store: REN",
+  "DB SHOES - RENO",
+  "4827 KIETZKE LANE",
+  "RENO, NV 89509",
+  "Phone: (775)996-1900",
+  "Cashier, lew",
+  "Item # aty Price Ext Price",
+  "10166 1 $20.00 $20.00 T",
+  "LTO KP PURE 2KS",
+  "10166 S20: 00) $20.00 T",
+  "LTO KP PURE 2KS",
+  "41899 1 $19.99 $19.99 T",
+  "MPN W pB1i76 ¢ \\ 3. ee ee",
+  "ah. eA iowa Subtotal $59.99",
+  "reno 7.725 % Tax + $4.63",
+  "RECEIPT TOTAL: $64.62",
+  "- Debit Card ~~ N",
+  "i 7 AcRIT b |"
+ ],
+ "tokens": [
+  {
+   "text": "12/30/2012",
+   "conf": 0.93
+  },
+  {
+   "text": "7:03",
+   "conf": 0.95
+  },
+  {
+   "text": "PM",
+   "conf": 0.96
+  },
+  {
+   "text": "Sales",
+   "conf": 0.96
+  },
+  {
+   "text": "Receipt",
+   "conf": 0.96
+  },
+  {
+   "text": "#108772",
+   "conf": 0.96
+  },
+  {
+   "text": "Store:",
+   "conf": 0.7
+  },
+  {
+   "text": "REN",
+   "conf": 0.96
+  },
+  {
+   "text": "DB",
+   "conf": 0.96
+  },
+  {
+   "text": "SHOES",
+   "conf": 0.92
+  },
+  {
+   "text": "-",
+   "conf": 0.85
+  },
+  {
+   "text": "RENO",
+   "conf": 0.82
+  },
+  {
+   "text": "4827",
+   "conf": 0.92
+  },
+  {
+   "text": "KIETZKE",
+   "conf": 0.92
+  },
+  {
+   "text": "LANE",
+   "conf": 0.96
+  },
+  {
+   "text": "RENO,",
+   "conf": 0.96
+  },
+  {
+   "text": "NV",
+   "conf": 0.96
+  },
+  {
+   "text": "89509",
+   "conf": 0.94
+  },
+  {
+   "text": "Phone:",
+   "conf": 0.93
+  },
+  {
+   "text": "(775)996-1900",
+   "conf": 0.87
+  },
+  {
+   "text": "Cashier,",
+   "conf": 0.69
+  },
+  {
+   "text": "lew",
+   "conf": 0.61
+  },
+  {
+   "text": "Item",
+   "conf": 0.9
+  },
+  {
+   "text": "#",
+   "conf": 0.91
+  },
+  {
+   "text": "aty",
+   "conf": 0.46
+  },
+  {
+   "text": "Price",
+   "conf": 0.91
+  },
+  {
+   "text": "Ext",
+   "conf": 0.91
+  },
+  {
+   "text": "Price",
+   "conf": 0.96
+  },
+  {
+   "text": "10166",
+   "conf": 0.95
+  },
+  {
+   "text": "1",
+   "conf": 0.83
+  },
+  {
+   "text": "$20.00",
+   "conf": 0.83
+  },
+  {
+   "text": "$20.00",
+   "conf": 0.91
+  },
+  {
+   "text": "T",
+   "conf": 0.92
+  },
+  {
+   "text": "LTO",
+   "conf": 0.95
+  },
+  {
+   "text": "KP",
+   "conf": 0.96
+  },
+  {
+   "text": "PURE",
+   "conf": 0.93
+  },
+  {
+   "text": "2KS",
+   "conf": 0.92
+  },
+  {
+   "text": "10166",
+   "conf": 0.95
+  },
+  {
+   "text": "S20:",
+   "conf": 0.36
+  },
+  {
+   "text": "00)",
+   "conf": 0.43
+  },
+  {
+   "text": "$20.00",
+   "conf": 0.93
+  },
+  {
+   "text": "T",
+   "conf": 0.91
+  },
+  {
+   "text": "LTO",
+   "conf": 0.96
+  },
+  {
+   "text": "KP",
+   "conf": 0.96
+  },
+  {
+   "text": "PURE",
+   "conf": 0.93
+  },
+  {
+   "text": "2KS",
+   "conf": 0.91
+  },
+  {
+   "text": "41899",
+   "conf": 0.76
+  },
+  {
+   "text": "1",
+   "conf": 0.94
+  },
+  {
+   "text": "$19.99",
+   "conf": 0.95
+  },
+  {
+   "text": "$19.99",
+   "conf": 0.93
+  },
+  {
+   "text": "T",
+   "conf": 0.92
+  },
+  {
+   "text": "MPN",
+   "conf": 0.42
+  },
+  {
+   "text": "W",
+   "conf": 0.85
+  },
+  {
+   "text": "pB1i76",
+   "conf": 0.27
+  },
+  {
+   "text": "¢",
+   "conf": 0.03
+  },
+  {
+   "text": "\\",
+   "conf": 0.0
+  },
+  {
+   "text": "3.",
+   "conf": 0.03
+  },
+  {
+   "text": "ee",
+   "conf": 0.42
+  },
+  {
+   "text": "ee",
+   "conf": 0.24
+  },
+  {
+   "text": "ah.",
+   "conf": 0.25
+  },
+  {
+   "text": "eA",
+   "conf": 0.07
+  },
+  {
+   "text": "iowa",
+   "conf": 0.04
+  },
+  {
+   "text": "Subtotal",
+   "conf": 0.95
+  },
+  {
+   "text": "$59.99",
+   "conf": 0.95
+  },
+  {
+   "text": "reno",
+   "conf": 0.96
+  },
+  {
+   "text": "7.725",
+   "conf": 0.9
+  },
+  {
+   "text": "%",
+   "conf": 0.9
+  },
+  {
+   "text": "Tax",
+   "conf": 0.95
+  },
+  {
+   "text": "+",
+   "conf": 0.95
+  },
+  {
+   "text": "$4.63",
+   "conf": 0.91
+  },
+  {
+   "text": "RECEIPT",
+   "conf": 0.95
+  },
+  {
+   "text": "TOTAL:",
+   "conf": 0.95
+  },
+  {
+   "text": "$64.62",
+   "conf": 0.93
+  },
+  {
+   "text": "-",
+   "conf": 0.0
+  },
+  {
+   "text": "Debit",
+   "conf": 0.96
+  },
+  {
+   "text": "Card",
+   "conf": 0.96
+  },
+  {
+   "text": "~~",
+   "conf": 0.1
+  },
+  {
+   "text": "N",
+   "conf": 0.81
+  },
+  {
+   "text": "i",
+   "conf": 0.4
+  },
+  {
+   "text": "7",
+   "conf": 0.19
+  },
+  {
+   "text": "AcRIT",
+   "conf": 0.81
+  },
+  {
+   "text": "b",
+   "conf": 0.0
+  },
+  {
+   "text": "|",
+   "conf": 0.91
+  }
+ ],
+ "mean_conf": 0.7571,
+ "low_conf_share": 0.2169,
+ "latency_ms": 802,
+ "fields": {
+  "company": "STORE REN",
+  "date": "2012-12-30",
+  "total": 64.62
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  64.62
+ ],
+ "key": "W0113_1"
+}

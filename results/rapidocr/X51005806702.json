@@ -1,0 +1,205 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "Cash Sale",
+  "SINNATHAMBY HOLDINGS",
+  "SDN. BHD.",
+  "249336-T",
+  "NO.17, 18 & 41, JALAN BESAR,",
+  "39100 BRINCHANG,",
+  "CAMERON HIGHLANDS,",
+  "PAHANG",
+  "GST Reg.: 002120876032",
+  "Document No. : T03-18/199913",
+  "Date : 06/02/2018 07:11:54 PM",
+  "DESC PRICE Disc AMOUNT TAX",
+  "QTY RM RM CODE",
+  "ROYAL GOLD LUXURIOUS KITCHEN TOWEL",
+  "6R*60",
+  "1UNIT * 13.50 0.00 13.50 SR",
+  "Total Qty: 1",
+  "Total Inclusive GST 6% : 13.50",
+  "Rounding Adjustment : 0.00",
+  "Rounded Total (RM): 13.50",
+  "Cash 13.50",
+  "GST Summary Amount(RM) Tax(RM)",
+  "SR @ 6% 12.74 0.76",
+  "wwn Thanks You wwn"
+ ],
+ "tokens": [
+  {
+   "text": "Cash Sale",
+   "conf": 0.9574940270847745
+  },
+  {
+   "text": "SINNATHAMBY HOLDINGS",
+   "conf": 0.9811759948730469
+  },
+  {
+   "text": "SDN. BHD.",
+   "conf": 0.9976219336191813
+  },
+  {
+   "text": "249336-T",
+   "conf": 0.997496172785759
+  },
+  {
+   "text": "NO.17, 18 & 41, JALAN BESAR,",
+   "conf": 0.9715832003525325
+  },
+  {
+   "text": "39100 BRINCHANG,",
+   "conf": 0.9492100849747658
+  },
+  {
+   "text": "CAMERON HIGHLANDS,",
+   "conf": 0.9538503156767951
+  },
+  {
+   "text": "PAHANG",
+   "conf": 0.9776903092861176
+  },
+  {
+   "text": "GST Reg.: 002120876032",
+   "conf": 0.9913548366589979
+  },
+  {
+   "text": "Document No. : T03-18/199913",
+   "conf": 0.9816211547170367
+  },
+  {
+   "text": "Date",
+   "conf": 0.9968901872634888
+  },
+  {
+   "text": ": 06/02/2018 07:11:54 PM",
+   "conf": 0.9666233584284782
+  },
+  {
+   "text": "DESC",
+   "conf": 0.9915141016244888
+  },
+  {
+   "text": "PRICE",
+   "conf": 0.9890572905540467
+  },
+  {
+   "text": "Disc AMOUNT TAX",
+   "conf": 0.9305105566978454
+  },
+  {
+   "text": "QTY",
+   "conf": 0.9985785881678263
+  },
+  {
+   "text": "RM",
+   "conf": 0.9908906817436218
+  },
+  {
+   "text": "RM CODE",
+   "conf": 0.9360178453581673
+  },
+  {
+   "text": "ROYAL GOLD LUXURIOUS KITCHEN TOWEL",
+   "conf": 0.9652831168735728
+  },
+  {
+   "text": "6R*60",
+   "conf": 0.9982724905014038
+  },
+  {
+   "text": "1UNIT *",
+   "conf": 0.9543162328856332
+  },
+  {
+   "text": "13.50",
+   "conf": 0.9982992649078369
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9984788447618484
+  },
+  {
+   "text": "13.50 SR",
+   "conf": 0.9791636094450951
+  },
+  {
+   "text": "Total Qty: 1",
+   "conf": 0.9838563005129496
+  },
+  {
+   "text": "Total Inclusive GST 6% :",
+   "conf": 0.9860119397441546
+  },
+  {
+   "text": "13.50",
+   "conf": 0.9989025831222534
+  },
+  {
+   "text": "Rounding Adjustment :",
+   "conf": 0.9960967529387701
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9986475855112076
+  },
+  {
+   "text": "Rounded Total (RM):",
+   "conf": 0.9966615909024289
+  },
+  {
+   "text": "13.50",
+   "conf": 0.9983181118965149
+  },
+  {
+   "text": "Cash",
+   "conf": 0.9995091706514359
+  },
+  {
+   "text": "13.50",
+   "conf": 0.9993200540542603
+  },
+  {
+   "text": "GST Summary",
+   "conf": 0.9794867580587213
+  },
+  {
+   "text": "Amount(RM)",
+   "conf": 0.999131715297699
+  },
+  {
+   "text": "Tax(RM)",
+   "conf": 0.9871175970349994
+  },
+  {
+   "text": "SR @ 6%",
+   "conf": 0.9794632537024361
+  },
+  {
+   "text": "12.74",
+   "conf": 0.999976396560669
+  },
+  {
+   "text": "0.76",
+   "conf": 0.9997948408126831
+  },
+  {
+   "text": "wwn Thanks You wwn",
+   "conf": 0.846687407957183
+  }
+ ],
+ "mean_conf": 0.98,
+ "low_conf_share": 0.0,
+ "latency_ms": 4760,
+ "fields": {
+  "company": "CASH SALE SINNATHAMBY HOLDINGS",
+  "date": "2018-02-06",
+  "total": 13.5
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  13.5,
+  13.5
+ ],
+ "key": "X51005806702"
+}

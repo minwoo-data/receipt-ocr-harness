@@ -1,0 +1,1001 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "eCosway.com SBN BHD (S09212A)",
+  ", 2nd Floor, Wisma Cosway, Jalan Raja Chulan,",
+  "50200 Kuala Lumpur, Malayala.",
+  "Tel : 603-2030 1000",
+  "Fax : 603-2142 $987",
+  "Email: infogQcosway.com my",
+  "GST REGISTRATION NO : 000212823400",
+  "A sO I, ee Se a eas RO",
+  "TAX INVOICE (eCOSWAY) ,",
+  "CENTER :G091 USERID: Goot)",
+  "ID :VPM185710(LEE MEI YEIN) |",
+  "INV NO/DATE: 15403-1 19300(29/07/2076} ,",
+  "MTD RG AT GOS : 230.60",
+  "MTD eV AT GOS: 2.70",
+  "PRIOOLET OTY IU eV LIPRICE TOTAL",
+  "(RM) (RM)",
+  "8 ogsees 1, O70 26.70 26.708R",
+  "(B3F1)PM BATHROOM |",
+  "G0 0888 Pies ek",
+  "PM BATHROOM CLEANER",
+  "8 741698 2, 140 25.80 §1.806R",
+  "(AGF1)EG MASK",
+  "BO 74147 3/ 0.00 0.00 0.006:",
+  "AG HYDRATING SPA MASK",
+  "B0 74168 Y G00 6.00 0.00eR",
+  "8G VISIBLY SOFT MILK",
+  "AMT PAID Wich GST RM7s.30",
+  "Amt ald excl. GST AM 73.87",
+  "GST AMT : RM4.43",
+  "PAID BY > GC? 186:RM75.30",
+  "TOTAL QTY 710 RC EARME",
+  "RP USED :6 FRG td",
+  "Total eV 72.70 Total GM :0",
+  "GIF from Inv No : |",
+  "‘ re i",
+  "ba Be Gareare Qo alante 70/00",
+  "V2.60 2907/2018 12:13:52",
+  "GST Summary AMT (FIM) raat :",
+  "____ (excl GST) ’",
+  "SR(B%) 73.87 4AS",
+  "ZR(O%) 0.00 0,00",
+  "EX/OS(0%) 0.00 6.00",
+  "TGTAL. cc \"y, 2aae. ys lew eee",
+  "some stece within fourte|en(i4) deve from the purcheseci",
+  "Tete subect io Company's sporovel. IR Iheme must be",
+  "| ‘edeemed within Toree(3) mooihe from the cete cf",
+  "Invetce (Terme & Conditions sppllec) ="
+ ],
+ "tokens": [
+  {
+   "text": "eCosway.com",
+   "conf": 0.41
+  },
+  {
+   "text": "SBN",
+   "conf": 0.68
+  },
+  {
+   "text": "BHD",
+   "conf": 0.92
+  },
+  {
+   "text": "(S09212A)",
+   "conf": 0.32
+  },
+  {
+   "text": ",",
+   "conf": 0.0
+  },
+  {
+   "text": "2nd",
+   "conf": 0.69
+  },
+  {
+   "text": "Floor,",
+   "conf": 0.95
+  },
+  {
+   "text": "Wisma",
+   "conf": 0.76
+  },
+  {
+   "text": "Cosway,",
+   "conf": 0.8
+  },
+  {
+   "text": "Jalan",
+   "conf": 0.95
+  },
+  {
+   "text": "Raja",
+   "conf": 0.92
+  },
+  {
+   "text": "Chulan,",
+   "conf": 0.74
+  },
+  {
+   "text": "50200",
+   "conf": 0.11
+  },
+  {
+   "text": "Kuala",
+   "conf": 0.85
+  },
+  {
+   "text": "Lumpur,",
+   "conf": 0.91
+  },
+  {
+   "text": "Malayala.",
+   "conf": 0.5
+  },
+  {
+   "text": "Tel",
+   "conf": 0.73
+  },
+  {
+   "text": ":",
+   "conf": 0.04
+  },
+  {
+   "text": "603-2030",
+   "conf": 0.04
+  },
+  {
+   "text": "1000",
+   "conf": 0.84
+  },
+  {
+   "text": "Fax",
+   "conf": 0.77
+  },
+  {
+   "text": ":",
+   "conf": 0.75
+  },
+  {
+   "text": "603-2142",
+   "conf": 0.84
+  },
+  {
+   "text": "$987",
+   "conf": 0.74
+  },
+  {
+   "text": "Email:",
+   "conf": 0.0
+  },
+  {
+   "text": "infogQcosway.com",
+   "conf": 0.0
+  },
+  {
+   "text": "my",
+   "conf": 0.85
+  },
+  {
+   "text": "GST",
+   "conf": 0.72
+  },
+  {
+   "text": "REGISTRATION",
+   "conf": 0.93
+  },
+  {
+   "text": "NO",
+   "conf": 0.87
+  },
+  {
+   "text": ":",
+   "conf": 0.72
+  },
+  {
+   "text": "000212823400",
+   "conf": 0.59
+  },
+  {
+   "text": "A",
+   "conf": 0.21
+  },
+  {
+   "text": "sO",
+   "conf": 0.12
+  },
+  {
+   "text": "I,",
+   "conf": 0.12
+  },
+  {
+   "text": "ee",
+   "conf": 0.2
+  },
+  {
+   "text": "Se",
+   "conf": 0.19
+  },
+  {
+   "text": "a",
+   "conf": 0.28
+  },
+  {
+   "text": "eas",
+   "conf": 0.07
+  },
+  {
+   "text": "RO",
+   "conf": 0.0
+  },
+  {
+   "text": "TAX",
+   "conf": 0.94
+  },
+  {
+   "text": "INVOICE",
+   "conf": 0.33
+  },
+  {
+   "text": "(eCOSWAY)",
+   "conf": 0.79
+  },
+  {
+   "text": ",",
+   "conf": 0.0
+  },
+  {
+   "text": "CENTER",
+   "conf": 0.81
+  },
+  {
+   "text": ":G091",
+   "conf": 0.06
+  },
+  {
+   "text": "USERID:",
+   "conf": 0.0
+  },
+  {
+   "text": "Goot)",
+   "conf": 0.0
+  },
+  {
+   "text": "ID",
+   "conf": 0.59
+  },
+  {
+   "text": ":VPM185710(LEE",
+   "conf": 0.36
+  },
+  {
+   "text": "MEI",
+   "conf": 0.73
+  },
+  {
+   "text": "YEIN)",
+   "conf": 0.87
+  },
+  {
+   "text": "|",
+   "conf": 0.33
+  },
+  {
+   "text": "INV",
+   "conf": 0.35
+  },
+  {
+   "text": "NO/DATE:",
+   "conf": 0.5
+  },
+  {
+   "text": "15403-1",
+   "conf": 0.49
+  },
+  {
+   "text": "19300(29/07/2076}",
+   "conf": 0.0
+  },
+  {
+   "text": ",",
+   "conf": 0.0
+  },
+  {
+   "text": "MTD",
+   "conf": 0.0
+  },
+  {
+   "text": "RG",
+   "conf": 0.64
+  },
+  {
+   "text": "AT",
+   "conf": 0.64
+  },
+  {
+   "text": "GOS",
+   "conf": 0.06
+  },
+  {
+   "text": ":",
+   "conf": 0.65
+  },
+  {
+   "text": "230.60",
+   "conf": 0.87
+  },
+  {
+   "text": "MTD",
+   "conf": 0.84
+  },
+  {
+   "text": "eV",
+   "conf": 0.76
+  },
+  {
+   "text": "AT",
+   "conf": 0.94
+  },
+  {
+   "text": "GOS:",
+   "conf": 0.0
+  },
+  {
+   "text": "2.70",
+   "conf": 0.8
+  },
+  {
+   "text": "PRIOOLET",
+   "conf": 0.0
+  },
+  {
+   "text": "OTY",
+   "conf": 0.32
+  },
+  {
+   "text": "IU",
+   "conf": 0.0
+  },
+  {
+   "text": "eV",
+   "conf": 0.85
+  },
+  {
+   "text": "LIPRICE",
+   "conf": 0.51
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.96
+  },
+  {
+   "text": "(RM)",
+   "conf": 0.41
+  },
+  {
+   "text": "(RM)",
+   "conf": 0.47
+  },
+  {
+   "text": "8",
+   "conf": 0.84
+  },
+  {
+   "text": "ogsees",
+   "conf": 0.07
+  },
+  {
+   "text": "1,",
+   "conf": 0.94
+  },
+  {
+   "text": "O70",
+   "conf": 0.87
+  },
+  {
+   "text": "26.70",
+   "conf": 0.86
+  },
+  {
+   "text": "26.708R",
+   "conf": 0.21
+  },
+  {
+   "text": "(B3F1)PM",
+   "conf": 0.03
+  },
+  {
+   "text": "BATHROOM",
+   "conf": 0.49
+  },
+  {
+   "text": "|",
+   "conf": 0.45
+  },
+  {
+   "text": "G0",
+   "conf": 0.5
+  },
+  {
+   "text": "0888",
+   "conf": 0.62
+  },
+  {
+   "text": "Pies",
+   "conf": 0.14
+  },
+  {
+   "text": "ek",
+   "conf": 0.23
+  },
+  {
+   "text": "PM",
+   "conf": 0.76
+  },
+  {
+   "text": "BATHROOM",
+   "conf": 0.92
+  },
+  {
+   "text": "CLEANER",
+   "conf": 0.51
+  },
+  {
+   "text": "8",
+   "conf": 0.57
+  },
+  {
+   "text": "741698",
+   "conf": 0.68
+  },
+  {
+   "text": "2,",
+   "conf": 0.87
+  },
+  {
+   "text": "140",
+   "conf": 0.87
+  },
+  {
+   "text": "25.80",
+   "conf": 0.42
+  },
+  {
+   "text": "§1.806R",
+   "conf": 0.13
+  },
+  {
+   "text": "(AGF1)EG",
+   "conf": 0.0
+  },
+  {
+   "text": "MASK",
+   "conf": 0.95
+  },
+  {
+   "text": "BO",
+   "conf": 0.52
+  },
+  {
+   "text": "74147",
+   "conf": 0.51
+  },
+  {
+   "text": "3/",
+   "conf": 0.77
+  },
+  {
+   "text": "0.00",
+   "conf": 0.8
+  },
+  {
+   "text": "0.00",
+   "conf": 0.64
+  },
+  {
+   "text": "0.006:",
+   "conf": 0.23
+  },
+  {
+   "text": "AG",
+   "conf": 0.87
+  },
+  {
+   "text": "HYDRATING",
+   "conf": 0.88
+  },
+  {
+   "text": "SPA",
+   "conf": 0.9
+  },
+  {
+   "text": "MASK",
+   "conf": 0.93
+  },
+  {
+   "text": "B0",
+   "conf": 0.23
+  },
+  {
+   "text": "74168",
+   "conf": 0.9
+  },
+  {
+   "text": "Y",
+   "conf": 0.82
+  },
+  {
+   "text": "G00",
+   "conf": 0.1
+  },
+  {
+   "text": "6.00",
+   "conf": 0.77
+  },
+  {
+   "text": "0.00eR",
+   "conf": 0.0
+  },
+  {
+   "text": "8G",
+   "conf": 0.85
+  },
+  {
+   "text": "VISIBLY",
+   "conf": 0.85
+  },
+  {
+   "text": "SOFT",
+   "conf": 0.94
+  },
+  {
+   "text": "MILK",
+   "conf": 0.91
+  },
+  {
+   "text": "AMT",
+   "conf": 0.88
+  },
+  {
+   "text": "PAID",
+   "conf": 0.71
+  },
+  {
+   "text": "Wich",
+   "conf": 0.17
+  },
+  {
+   "text": "GST",
+   "conf": 0.5
+  },
+  {
+   "text": "RM7s.30",
+   "conf": 0.0
+  },
+  {
+   "text": "Amt",
+   "conf": 0.92
+  },
+  {
+   "text": "ald",
+   "conf": 0.23
+  },
+  {
+   "text": "excl.",
+   "conf": 0.92
+  },
+  {
+   "text": "GST",
+   "conf": 0.68
+  },
+  {
+   "text": "AM",
+   "conf": 0.38
+  },
+  {
+   "text": "73.87",
+   "conf": 0.87
+  },
+  {
+   "text": "GST",
+   "conf": 0.0
+  },
+  {
+   "text": "AMT",
+   "conf": 0.0
+  },
+  {
+   "text": ":",
+   "conf": 0.21
+  },
+  {
+   "text": "RM4.43",
+   "conf": 0.64
+  },
+  {
+   "text": "PAID",
+   "conf": 0.91
+  },
+  {
+   "text": "BY",
+   "conf": 0.92
+  },
+  {
+   "text": ">",
+   "conf": 0.53
+  },
+  {
+   "text": "GC?",
+   "conf": 0.3
+  },
+  {
+   "text": "186:RM75.30",
+   "conf": 0.07
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.96
+  },
+  {
+   "text": "QTY",
+   "conf": 0.96
+  },
+  {
+   "text": "710",
+   "conf": 0.13
+  },
+  {
+   "text": "RC",
+   "conf": 0.7
+  },
+  {
+   "text": "EARME",
+   "conf": 0.34
+  },
+  {
+   "text": "RP",
+   "conf": 0.79
+  },
+  {
+   "text": "USED",
+   "conf": 0.79
+  },
+  {
+   "text": ":6",
+   "conf": 0.23
+  },
+  {
+   "text": "FRG",
+   "conf": 0.8
+  },
+  {
+   "text": "td",
+   "conf": 0.26
+  },
+  {
+   "text": "Total",
+   "conf": 0.95
+  },
+  {
+   "text": "eV",
+   "conf": 0.91
+  },
+  {
+   "text": "72.70",
+   "conf": 0.51
+  },
+  {
+   "text": "Total",
+   "conf": 0.94
+  },
+  {
+   "text": "GM",
+   "conf": 0.33
+  },
+  {
+   "text": ":0",
+   "conf": 0.39
+  },
+  {
+   "text": "GIF",
+   "conf": 0.57
+  },
+  {
+   "text": "from",
+   "conf": 0.93
+  },
+  {
+   "text": "Inv",
+   "conf": 0.87
+  },
+  {
+   "text": "No",
+   "conf": 0.85
+  },
+  {
+   "text": ":",
+   "conf": 0.83
+  },
+  {
+   "text": "|",
+   "conf": 0.54
+  },
+  {
+   "text": "‘",
+   "conf": 0.83
+  },
+  {
+   "text": "re",
+   "conf": 0.02
+  },
+  {
+   "text": "i",
+   "conf": 0.55
+  },
+  {
+   "text": "ba",
+   "conf": 0.47
+  },
+  {
+   "text": "Be",
+   "conf": 0.03
+  },
+  {
+   "text": "Gareare",
+   "conf": 0.0
+  },
+  {
+   "text": "Qo",
+   "conf": 0.39
+  },
+  {
+   "text": "alante",
+   "conf": 0.12
+  },
+  {
+   "text": "70/00",
+   "conf": 0.56
+  },
+  {
+   "text": "V2.60",
+   "conf": 0.83
+  },
+  {
+   "text": "2907/2018",
+   "conf": 0.54
+  },
+  {
+   "text": "12:13:52",
+   "conf": 0.95
+  },
+  {
+   "text": "GST",
+   "conf": 0.77
+  },
+  {
+   "text": "Summary",
+   "conf": 0.94
+  },
+  {
+   "text": "AMT",
+   "conf": 0.0
+  },
+  {
+   "text": "(FIM)",
+   "conf": 0.0
+  },
+  {
+   "text": "raat",
+   "conf": 0.13
+  },
+  {
+   "text": ":",
+   "conf": 0.0
+  },
+  {
+   "text": "____",
+   "conf": 0.2
+  },
+  {
+   "text": "(excl",
+   "conf": 0.53
+  },
+  {
+   "text": "GST)",
+   "conf": 0.84
+  },
+  {
+   "text": "’",
+   "conf": 0.0
+  },
+  {
+   "text": "SR(B%)",
+   "conf": 0.1
+  },
+  {
+   "text": "73.87",
+   "conf": 0.94
+  },
+  {
+   "text": "4AS",
+   "conf": 0.0
+  },
+  {
+   "text": "ZR(O%)",
+   "conf": 0.58
+  },
+  {
+   "text": "0.00",
+   "conf": 0.57
+  },
+  {
+   "text": "0,00",
+   "conf": 0.64
+  },
+  {
+   "text": "EX/OS(0%)",
+   "conf": 0.66
+  },
+  {
+   "text": "0.00",
+   "conf": 0.8
+  },
+  {
+   "text": "6.00",
+   "conf": 0.72
+  },
+  {
+   "text": "TGTAL.",
+   "conf": 0.0
+  },
+  {
+   "text": "cc",
+   "conf": 0.36
+  },
+  {
+   "text": "\"y,",
+   "conf": 0.0
+  },
+  {
+   "text": "2aae.",
+   "conf": 0.0
+  },
+  {
+   "text": "ys",
+   "conf": 0.08
+  },
+  {
+   "text": "lew",
+   "conf": 0.5
+  },
+  {
+   "text": "eee",
+   "conf": 0.16
+  },
+  {
+   "text": "some",
+   "conf": 0.6
+  },
+  {
+   "text": "stece",
+   "conf": 0.17
+  },
+  {
+   "text": "within",
+   "conf": 0.92
+  },
+  {
+   "text": "fourte|en(i4)",
+   "conf": 0.57
+  },
+  {
+   "text": "deve",
+   "conf": 0.29
+  },
+  {
+   "text": "from",
+   "conf": 0.91
+  },
+  {
+   "text": "the",
+   "conf": 0.65
+  },
+  {
+   "text": "purcheseci",
+   "conf": 0.5
+  },
+  {
+   "text": "Tete",
+   "conf": 0.6
+  },
+  {
+   "text": "subect",
+   "conf": 0.19
+  },
+  {
+   "text": "io",
+   "conf": 0.72
+  },
+  {
+   "text": "Company's",
+   "conf": 0.8
+  },
+  {
+   "text": "sporovel.",
+   "conf": 0.52
+  },
+  {
+   "text": "IR",
+   "conf": 0.41
+  },
+  {
+   "text": "Iheme",
+   "conf": 0.43
+  },
+  {
+   "text": "must",
+   "conf": 0.82
+  },
+  {
+   "text": "be",
+   "conf": 0.95
+  },
+  {
+   "text": "|",
+   "conf": 0.36
+  },
+  {
+   "text": "‘edeemed",
+   "conf": 0.04
+  },
+  {
+   "text": "within",
+   "conf": 0.92
+  },
+  {
+   "text": "Toree(3)",
+   "conf": 0.27
+  },
+  {
+   "text": "mooihe",
+   "conf": 0.39
+  },
+  {
+   "text": "from",
+   "conf": 0.93
+  },
+  {
+   "text": "the",
+   "conf": 0.91
+  },
+  {
+   "text": "cete",
+   "conf": 0.44
+  },
+  {
+   "text": "cf",
+   "conf": 0.94
+  },
+  {
+   "text": "Invetce",
+   "conf": 0.2
+  },
+  {
+   "text": "(Terme",
+   "conf": 0.48
+  },
+  {
+   "text": "&",
+   "conf": 0.92
+  },
+  {
+   "text": "Conditions",
+   "conf": 0.69
+  },
+  {
+   "text": "sppllec)",
+   "conf": 0.0
+  },
+  {
+   "text": "=",
+   "conf": 0.42
+  }
+ ],
+ "mean_conf": 0.5216,
+ "low_conf_share": 0.4206,
+ "latency_ms": 3622,
+ "fields": {
+  "company": "ECOSWAY COM SBN BHD",
+  "date": null,
+  "total": 72.7
+ },
+ "rule_reasons": [
+  "date_not_found"
+ ],
+ "total_candidates": [
+  72.7
+ ],
+ "key": "X51006619785"
+}

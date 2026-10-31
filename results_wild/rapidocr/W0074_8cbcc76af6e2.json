@@ -1,0 +1,236 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "*** DRIVE THRU ***",
+  "Termina1:05/DT CSHR-5",
+  "===RE-PRINTED CHECK:1==",
+  "Welcome To Carl's Jr",
+  "Store 7379",
+  "9861 De Soto Ave.",
+  "Chatsworth,CA 91311",
+  "Store#818-998-0188 DM#480-232-8092",
+  "Store:7379-CARLSJR",
+  "Check #:0732 09/29/159:03PM",
+  "Server:00025/EMMA",
+  "QTY ITEM U/PRICE",
+  "1 TERIYAKI VOID 5.79",
+  "1 TERIYAKI VOID 5.79",
+  "2 1 MEATLESS BGR $1LG DRINK VOID VOID 2.00 1.79",
+  "1 $1LG DRINK VOID 1.00",
+  "Subtotal= 16.37",
+  "Discount= -3.54",
+  "Adj Total= 12.83",
+  "Tax= 1.16",
+  "GRAND TOTAL= 13.99",
+  "2FOR4.STERYAKI"
+ ],
+ "tokens": [
+  {
+   "text": "***",
+   "conf": 0.845318873723348
+  },
+  {
+   "text": "DRIVE THRU",
+   "conf": 0.960038286447525
+  },
+  {
+   "text": "***",
+   "conf": 0.9685590068499247
+  },
+  {
+   "text": "Termina1:05/DT CSHR-5",
+   "conf": 0.9371475038074312
+  },
+  {
+   "text": "===RE-PRINTED CHECK:1==",
+   "conf": 0.955928799898728
+  },
+  {
+   "text": "Welcome To Carl's Jr",
+   "conf": 0.9410289406776429
+  },
+  {
+   "text": "Store 7379",
+   "conf": 0.9811677753925323
+  },
+  {
+   "text": "9861 De Soto Ave.",
+   "conf": 0.9404950352276072
+  },
+  {
+   "text": "Chatsworth,CA 91311",
+   "conf": 0.9681170488658705
+  },
+  {
+   "text": "Store#818-998-0188 DM#480-232-8092",
+   "conf": 0.9587867347633138
+  },
+  {
+   "text": "Store:7379-CARLSJR",
+   "conf": 0.9695077372921838
+  },
+  {
+   "text": "Check #:0732",
+   "conf": 0.9323544651269913
+  },
+  {
+   "text": "09/29/159:03PM",
+   "conf": 0.985239748443876
+  },
+  {
+   "text": "Server:00025/EMMA",
+   "conf": 0.9804226756095886
+  },
+  {
+   "text": "QTY",
+   "conf": 0.9947987000147501
+  },
+  {
+   "text": "ITEM",
+   "conf": 0.9787967801094055
+  },
+  {
+   "text": "U/PRICE",
+   "conf": 0.9854538525853839
+  },
+  {
+   "text": "VOID",
+   "conf": 0.9529479146003723
+  },
+  {
+   "text": "5.79",
+   "conf": 0.9963301420211792
+  },
+  {
+   "text": "1",
+   "conf": 0.9944881796836853
+  },
+  {
+   "text": "TERIYAKI",
+   "conf": 0.973126731812954
+  },
+  {
+   "text": "VOID",
+   "conf": 0.9639834612607956
+  },
+  {
+   "text": "5.79",
+   "conf": 0.9969233721494675
+  },
+  {
+   "text": "1",
+   "conf": 0.9708781838417053
+  },
+  {
+   "text": "TERIYAKI",
+   "conf": 0.9652025997638702
+  },
+  {
+   "text": "VOID",
+   "conf": 0.981279581785202
+  },
+  {
+   "text": "1.79",
+   "conf": 0.9958198219537735
+  },
+  {
+   "text": "1",
+   "conf": 0.9905124306678772
+  },
+  {
+   "text": "MEATLESS BGR",
+   "conf": 0.9798623621463776
+  },
+  {
+   "text": "VOID",
+   "conf": 0.971022829413414
+  },
+  {
+   "text": "2.00",
+   "conf": 0.9977018386125565
+  },
+  {
+   "text": "2",
+   "conf": 0.9996063113212585
+  },
+  {
+   "text": "$1LG DRINK",
+   "conf": 0.9727115333080292
+  },
+  {
+   "text": "VOID",
+   "conf": 0.9584256559610367
+  },
+  {
+   "text": "1.00",
+   "conf": 0.9948111772537231
+  },
+  {
+   "text": "1",
+   "conf": 0.9952436089515686
+  },
+  {
+   "text": "$1LG DRINK",
+   "conf": 0.9498208701610565
+  },
+  {
+   "text": "16.37",
+   "conf": 0.9966187596321106
+  },
+  {
+   "text": "Subtotal=",
+   "conf": 0.9909595118628608
+  },
+  {
+   "text": "-3.54",
+   "conf": 0.9911718487739563
+  },
+  {
+   "text": "Discount=",
+   "conf": 0.9929149084621005
+  },
+  {
+   "text": "12.83",
+   "conf": 0.9969843029975891
+  },
+  {
+   "text": "Adj Total=",
+   "conf": 0.9312109470367431
+  },
+  {
+   "text": "1.16",
+   "conf": 0.9958010166883469
+  },
+  {
+   "text": "Tax=",
+   "conf": 0.9715081751346588
+  },
+  {
+   "text": "13.99",
+   "conf": 0.9962200045585632
+  },
+  {
+   "text": "GRAND TOTAL=",
+   "conf": 0.9639961123466492
+  },
+  {
+   "text": "2FOR4.STERYAKI",
+   "conf": 0.932548178093774
+  }
+ ],
+ "mean_conf": 0.9717,
+ "low_conf_share": 0.0,
+ "latency_ms": 3586,
+ "fields": {
+  "company": "STORE 7379",
+  "date": null,
+  "total": 13.99
+ },
+ "rule_reasons": [
+  "date_not_found"
+ ],
+ "total_candidates": [
+  13.99
+ ],
+ "key": "W0074_8cbcc76af6e2"
+}

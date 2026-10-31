@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.6-flash",
+ "provider": "gemini",
+ "raw_text": "{\"vendor\": \"Trendz Restaurant and Wine Bar\", \"date\": \"2014-09-27\", \"subtotal\": 13.0, \"tax\": 1.95, \"tip\": null, \"discount\": null, \"total\": 14.95, \"currency\": \"CAD\", \"confidence\": 0.95, \"notes\": \"Currency inferred as CAD based on HST Tax and location in Dartmouth, Nova Scotia.\"}",
+ "data": {
+  "vendor": "Trendz Restaurant and Wine Bar",
+  "date": "2014-09-27",
+  "subtotal": 13.0,
+  "tax": 1.95,
+  "tip": null,
+  "discount": null,
+  "total": 14.95,
+  "currency": "CAD",
+  "confidence": 0.95,
+  "notes": "Currency inferred as CAD based on HST Tax and location in Dartmouth, Nova Scotia."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1471,
+  "output_tokens": 102,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.001486,
+ "latency_ms": 1728,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.6-flash",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.6-flash"
+ ],
+ "key": "W0094_3d2ab4b7af20"
+}

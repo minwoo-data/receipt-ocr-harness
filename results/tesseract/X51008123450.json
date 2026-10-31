@@ -1,0 +1,383 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "Sanjung Realiti Sdn. Bhd. (779763-K)",
+  "(GST Registration No.: 001751072768)",
+  "Car Park Office, Basement 1,",
+  "Lebuhraya SPRINT, PJU6A,",
+  "47400 Petaling Jaya, Selangor",
+  "Tel.: +603 7726 2929 Fax: +603 7726 1326",
+  ">2> TAX INVOICE <<<",
+  "Tax Invoice No.: 0714/0601/00601",
+  "27/06/18 10:08",
+  "010100 Pay parking ticket 1.50 RH",
+  "27/06/18 09:49 - 27/06/18 10:08",
+  "Length of stay: 0 Dy. O Hr. 19 Hin.",
+  "0247295105301 10381 7835357029",
+  "Total amount 1.50 RH",
+  "Accepted total 2.00 RH",
+  "Change 0.50 RH",
+  "GST 08 0.00 RH z",
+  "FRO OOO III IRIE",
+  "4% Thank you id"
+ ],
+ "tokens": [
+  {
+   "text": "Sanjung",
+   "conf": 0.6
+  },
+  {
+   "text": "Realiti",
+   "conf": 0.87
+  },
+  {
+   "text": "Sdn.",
+   "conf": 0.92
+  },
+  {
+   "text": "Bhd.",
+   "conf": 0.92
+  },
+  {
+   "text": "(779763-K)",
+   "conf": 0.87
+  },
+  {
+   "text": "(GST",
+   "conf": 0.77
+  },
+  {
+   "text": "Registration",
+   "conf": 0.93
+  },
+  {
+   "text": "No.:",
+   "conf": 0.88
+  },
+  {
+   "text": "001751072768)",
+   "conf": 0.96
+  },
+  {
+   "text": "Car",
+   "conf": 0.96
+  },
+  {
+   "text": "Park",
+   "conf": 0.96
+  },
+  {
+   "text": "Office,",
+   "conf": 0.5
+  },
+  {
+   "text": "Basement",
+   "conf": 0.37
+  },
+  {
+   "text": "1,",
+   "conf": 0.92
+  },
+  {
+   "text": "Lebuhraya",
+   "conf": 0.9
+  },
+  {
+   "text": "SPRINT,",
+   "conf": 0.93
+  },
+  {
+   "text": "PJU6A,",
+   "conf": 0.48
+  },
+  {
+   "text": "47400",
+   "conf": 0.94
+  },
+  {
+   "text": "Petaling",
+   "conf": 0.95
+  },
+  {
+   "text": "Jaya,",
+   "conf": 0.92
+  },
+  {
+   "text": "Selangor",
+   "conf": 0.7
+  },
+  {
+   "text": "Tel.:",
+   "conf": 0.89
+  },
+  {
+   "text": "+603",
+   "conf": 0.84
+  },
+  {
+   "text": "7726",
+   "conf": 0.82
+  },
+  {
+   "text": "2929",
+   "conf": 0.96
+  },
+  {
+   "text": "Fax:",
+   "conf": 0.96
+  },
+  {
+   "text": "+603",
+   "conf": 0.92
+  },
+  {
+   "text": "7726",
+   "conf": 0.96
+  },
+  {
+   "text": "1326",
+   "conf": 0.95
+  },
+  {
+   "text": ">2>",
+   "conf": 0.11
+  },
+  {
+   "text": "TAX",
+   "conf": 0.96
+  },
+  {
+   "text": "INVOICE",
+   "conf": 0.93
+  },
+  {
+   "text": "<<<",
+   "conf": 0.63
+  },
+  {
+   "text": "Tax",
+   "conf": 0.96
+  },
+  {
+   "text": "Invoice",
+   "conf": 0.93
+  },
+  {
+   "text": "No.:",
+   "conf": 0.69
+  },
+  {
+   "text": "0714/0601/00601",
+   "conf": 0.9
+  },
+  {
+   "text": "27/06/18",
+   "conf": 0.85
+  },
+  {
+   "text": "10:08",
+   "conf": 0.95
+  },
+  {
+   "text": "010100",
+   "conf": 0.95
+  },
+  {
+   "text": "Pay",
+   "conf": 0.96
+  },
+  {
+   "text": "parking",
+   "conf": 0.96
+  },
+  {
+   "text": "ticket",
+   "conf": 0.95
+  },
+  {
+   "text": "1.50",
+   "conf": 0.58
+  },
+  {
+   "text": "RH",
+   "conf": 0.83
+  },
+  {
+   "text": "27/06/18",
+   "conf": 0.95
+  },
+  {
+   "text": "09:49",
+   "conf": 0.91
+  },
+  {
+   "text": "-",
+   "conf": 0.91
+  },
+  {
+   "text": "27/06/18",
+   "conf": 0.93
+  },
+  {
+   "text": "10:08",
+   "conf": 0.95
+  },
+  {
+   "text": "Length",
+   "conf": 0.95
+  },
+  {
+   "text": "of",
+   "conf": 0.89
+  },
+  {
+   "text": "stay:",
+   "conf": 0.94
+  },
+  {
+   "text": "0",
+   "conf": 0.92
+  },
+  {
+   "text": "Dy.",
+   "conf": 0.85
+  },
+  {
+   "text": "O",
+   "conf": 0.79
+  },
+  {
+   "text": "Hr.",
+   "conf": 0.92
+  },
+  {
+   "text": "19",
+   "conf": 0.96
+  },
+  {
+   "text": "Hin.",
+   "conf": 0.79
+  },
+  {
+   "text": "0247295105301",
+   "conf": 0.78
+  },
+  {
+   "text": "10381",
+   "conf": 0.18
+  },
+  {
+   "text": "7835357029",
+   "conf": 0.18
+  },
+  {
+   "text": "Total",
+   "conf": 0.94
+  },
+  {
+   "text": "amount",
+   "conf": 0.21
+  },
+  {
+   "text": "1.50",
+   "conf": 0.89
+  },
+  {
+   "text": "RH",
+   "conf": 0.89
+  },
+  {
+   "text": "Accepted",
+   "conf": 0.96
+  },
+  {
+   "text": "total",
+   "conf": 0.96
+  },
+  {
+   "text": "2.00",
+   "conf": 0.91
+  },
+  {
+   "text": "RH",
+   "conf": 0.93
+  },
+  {
+   "text": "Change",
+   "conf": 0.96
+  },
+  {
+   "text": "0.50",
+   "conf": 0.95
+  },
+  {
+   "text": "RH",
+   "conf": 0.95
+  },
+  {
+   "text": "GST",
+   "conf": 0.92
+  },
+  {
+   "text": "08",
+   "conf": 0.74
+  },
+  {
+   "text": "0.00",
+   "conf": 0.96
+  },
+  {
+   "text": "RH",
+   "conf": 0.96
+  },
+  {
+   "text": "z",
+   "conf": 0.14
+  },
+  {
+   "text": "FRO",
+   "conf": 0.0
+  },
+  {
+   "text": "OOO",
+   "conf": 0.05
+  },
+  {
+   "text": "III",
+   "conf": 0.2
+  },
+  {
+   "text": "IRIE",
+   "conf": 0.05
+  },
+  {
+   "text": "4%",
+   "conf": 0.0
+  },
+  {
+   "text": "Thank",
+   "conf": 0.96
+  },
+  {
+   "text": "you",
+   "conf": 0.96
+  },
+  {
+   "text": "id",
+   "conf": 0.36
+  }
+ ],
+ "mean_conf": 0.783,
+ "low_conf_share": 0.1512,
+ "latency_ms": 450,
+ "fields": {
+  "company": "SANJUNG REALITI SDN BHD",
+  "date": "2018-06-27",
+  "total": 1.5
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  1.5
+ ],
+ "key": "X51008123450"
+}

@@ -1,0 +1,132 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "Tent Jumeirah Restaurant",
+  "Umm Suqeim",
+  "JUMEIRAH5",
+  "04-3401929",
+  "Table #49",
+  "Trans#: 46704 Serv:Marissa",
+  "9/19/20178:11PM #Cust:1",
+  "Quan Descript Cost",
+  "1dallah morocan tea AED25.00",
+  "12kunafa AED80.00",
+  "Net Total: AED105.00",
+  "TOTAL:AED105.00",
+  "AmountDue:AED105.",
+  "Food:AED 80.00",
+  "Beverage:AED25.00",
+  "Thank you for visiti"
+ ],
+ "tokens": [
+  {
+   "text": "Tent Jumeirah Restaurant",
+   "conf": 0.973615437746048
+  },
+  {
+   "text": "Umm Suqeim",
+   "conf": 0.9688553154468537
+  },
+  {
+   "text": "JUMEIRAH5",
+   "conf": 0.9927586383289762
+  },
+  {
+   "text": "04-3401929",
+   "conf": 0.9981483578681946
+  },
+  {
+   "text": "Table",
+   "conf": 0.9946370005607605
+  },
+  {
+   "text": "#49",
+   "conf": 0.9874194463094076
+  },
+  {
+   "text": "Trans#:",
+   "conf": 0.928265494959695
+  },
+  {
+   "text": "46704",
+   "conf": 0.9976953625679016
+  },
+  {
+   "text": "Serv:Marissa",
+   "conf": 0.9819866071144739
+  },
+  {
+   "text": "9/19/20178:11PM",
+   "conf": 0.9869589885075887
+  },
+  {
+   "text": "#Cust:1",
+   "conf": 0.9384228416851589
+  },
+  {
+   "text": "Quan Descript",
+   "conf": 0.9773817933522738
+  },
+  {
+   "text": "Cost",
+   "conf": 0.9862315058708191
+  },
+  {
+   "text": "1dallah morocan tea",
+   "conf": 0.9463478703247873
+  },
+  {
+   "text": "AED25.00",
+   "conf": 0.9958448335528374
+  },
+  {
+   "text": "12kunafa",
+   "conf": 0.9808289185166359
+  },
+  {
+   "text": "AED80.00",
+   "conf": 0.9919416904449463
+  },
+  {
+   "text": "Net Total:",
+   "conf": 0.970891273021698
+  },
+  {
+   "text": "AED105.00",
+   "conf": 0.9958968626128303
+  },
+  {
+   "text": "TOTAL:AED105.00",
+   "conf": 0.9489614645640055
+  },
+  {
+   "text": "AmountDue:AED105.",
+   "conf": 0.9455435451339272
+  },
+  {
+   "text": "Food:AED 80.00",
+   "conf": 0.9029377273150853
+  },
+  {
+   "text": "Beverage:AED25.00",
+   "conf": 0.9756849267903496
+  },
+  {
+   "text": "Thank you for visiti",
+   "conf": 0.9486371755599976
+  }
+ ],
+ "mean_conf": 0.9715,
+ "low_conf_share": 0.0,
+ "latency_ms": 2915,
+ "fields": {
+  "company": "TENT JUMEIRAH RESTAURANT",
+  "date": "2017-09-19",
+  "total": 105.0
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  105.0
+ ],
+ "key": "W0122_80a1a6edfd8c"
+}

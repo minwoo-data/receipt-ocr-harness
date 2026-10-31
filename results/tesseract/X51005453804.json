@@ -1,0 +1,429 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "3180303",
+  "- WAN HING STATIONERY SDN BHD",
+  "(162761-M)}",
+  "NO.32 & 33, JALAN SR 1/9, SEKSYEN 9,",
+  "TAMAN SERDANG RAYA,",
+  "43300 SERI KEMBANGAN, SELANGOR",
+  "DARUL EHSAN",
+  "GST ID : 002139201536",
+  "Tax Invoice",
+  "ee /!)| Sn. f",
+  "Qty Tax RM",
+  "F/Castel! 187087-75 Tack-t 2 SR 12.00",
+  "75g- White (new) @ 5.6600",
+  "Total Amt Incl. GST @ 6% - 12.00 J",
+  "r Rounding Adjustment » if",
+  "Total Amt Payable : 12.00",
+  "Paid Amount 20.00",
+  "Change : 8.00",
+  "Total Qty Tender - 2",
+  "GST Summary Amount Tax:",
+  ": corssnaanand oh ommmueh ates",
+  "THANK YOU",
+  "For anv enauirv. please contact us:"
+ ],
+ "tokens": [
+  {
+   "text": "3180303",
+   "conf": 0.96
+  },
+  {
+   "text": "-",
+   "conf": 0.0
+  },
+  {
+   "text": "WAN",
+   "conf": 0.51
+  },
+  {
+   "text": "HING",
+   "conf": 0.91
+  },
+  {
+   "text": "STATIONERY",
+   "conf": 0.95
+  },
+  {
+   "text": "SDN",
+   "conf": 0.95
+  },
+  {
+   "text": "BHD",
+   "conf": 0.95
+  },
+  {
+   "text": "(162761-M)}",
+   "conf": 0.48
+  },
+  {
+   "text": "NO.32",
+   "conf": 0.83
+  },
+  {
+   "text": "&",
+   "conf": 0.89
+  },
+  {
+   "text": "33,",
+   "conf": 0.96
+  },
+  {
+   "text": "JALAN",
+   "conf": 0.96
+  },
+  {
+   "text": "SR",
+   "conf": 0.96
+  },
+  {
+   "text": "1/9,",
+   "conf": 0.8
+  },
+  {
+   "text": "SEKSYEN",
+   "conf": 0.91
+  },
+  {
+   "text": "9,",
+   "conf": 0.96
+  },
+  {
+   "text": "TAMAN",
+   "conf": 0.92
+  },
+  {
+   "text": "SERDANG",
+   "conf": 0.92
+  },
+  {
+   "text": "RAYA,",
+   "conf": 0.93
+  },
+  {
+   "text": "43300",
+   "conf": 0.93
+  },
+  {
+   "text": "SERI",
+   "conf": 0.87
+  },
+  {
+   "text": "KEMBANGAN,",
+   "conf": 0.9
+  },
+  {
+   "text": "SELANGOR",
+   "conf": 0.95
+  },
+  {
+   "text": "DARUL",
+   "conf": 0.92
+  },
+  {
+   "text": "EHSAN",
+   "conf": 0.96
+  },
+  {
+   "text": "GST",
+   "conf": 0.86
+  },
+  {
+   "text": "ID",
+   "conf": 0.86
+  },
+  {
+   "text": ":",
+   "conf": 0.73
+  },
+  {
+   "text": "002139201536",
+   "conf": 0.86
+  },
+  {
+   "text": "Tax",
+   "conf": 0.96
+  },
+  {
+   "text": "Invoice",
+   "conf": 0.94
+  },
+  {
+   "text": "ee",
+   "conf": 0.37
+  },
+  {
+   "text": "/!)|",
+   "conf": 0.0
+  },
+  {
+   "text": "Sn.",
+   "conf": 0.07
+  },
+  {
+   "text": "f",
+   "conf": 0.0
+  },
+  {
+   "text": "Qty",
+   "conf": 0.94
+  },
+  {
+   "text": "Tax",
+   "conf": 0.95
+  },
+  {
+   "text": "RM",
+   "conf": 0.96
+  },
+  {
+   "text": "F/Castel!",
+   "conf": 0.47
+  },
+  {
+   "text": "187087-75",
+   "conf": 0.66
+  },
+  {
+   "text": "Tack-t",
+   "conf": 0.37
+  },
+  {
+   "text": "2",
+   "conf": 0.92
+  },
+  {
+   "text": "SR",
+   "conf": 0.33
+  },
+  {
+   "text": "12.00",
+   "conf": 0.79
+  },
+  {
+   "text": "75g-",
+   "conf": 0.73
+  },
+  {
+   "text": "White",
+   "conf": 0.96
+  },
+  {
+   "text": "(new)",
+   "conf": 0.92
+  },
+  {
+   "text": "@",
+   "conf": 0.92
+  },
+  {
+   "text": "5.6600",
+   "conf": 0.93
+  },
+  {
+   "text": "Total",
+   "conf": 0.89
+  },
+  {
+   "text": "Amt",
+   "conf": 0.9
+  },
+  {
+   "text": "Incl.",
+   "conf": 0.9
+  },
+  {
+   "text": "GST",
+   "conf": 0.85
+  },
+  {
+   "text": "@",
+   "conf": 0.85
+  },
+  {
+   "text": "6%",
+   "conf": 0.9
+  },
+  {
+   "text": "-",
+   "conf": 0.19
+  },
+  {
+   "text": "12.00",
+   "conf": 0.81
+  },
+  {
+   "text": "J",
+   "conf": 0.51
+  },
+  {
+   "text": "r",
+   "conf": 0.02
+  },
+  {
+   "text": "Rounding",
+   "conf": 0.96
+  },
+  {
+   "text": "Adjustment",
+   "conf": 0.87
+  },
+  {
+   "text": "»",
+   "conf": 0.63
+  },
+  {
+   "text": "if",
+   "conf": 0.15
+  },
+  {
+   "text": "Total",
+   "conf": 0.96
+  },
+  {
+   "text": "Amt",
+   "conf": 0.96
+  },
+  {
+   "text": "Payable",
+   "conf": 0.92
+  },
+  {
+   "text": ":",
+   "conf": 0.82
+  },
+  {
+   "text": "12.00",
+   "conf": 0.96
+  },
+  {
+   "text": "Paid",
+   "conf": 0.95
+  },
+  {
+   "text": "Amount",
+   "conf": 0.95
+  },
+  {
+   "text": "20.00",
+   "conf": 0.93
+  },
+  {
+   "text": "Change",
+   "conf": 0.92
+  },
+  {
+   "text": ":",
+   "conf": 0.62
+  },
+  {
+   "text": "8.00",
+   "conf": 0.94
+  },
+  {
+   "text": "Total",
+   "conf": 0.88
+  },
+  {
+   "text": "Qty",
+   "conf": 0.57
+  },
+  {
+   "text": "Tender",
+   "conf": 0.9
+  },
+  {
+   "text": "-",
+   "conf": 0.16
+  },
+  {
+   "text": "2",
+   "conf": 0.97
+  },
+  {
+   "text": "GST",
+   "conf": 0.55
+  },
+  {
+   "text": "Summary",
+   "conf": 0.55
+  },
+  {
+   "text": "Amount",
+   "conf": 0.63
+  },
+  {
+   "text": "Tax:",
+   "conf": 0.53
+  },
+  {
+   "text": ":",
+   "conf": 0.19
+  },
+  {
+   "text": "corssnaanand",
+   "conf": 0.0
+  },
+  {
+   "text": "oh",
+   "conf": 0.11
+  },
+  {
+   "text": "ommmueh",
+   "conf": 0.0
+  },
+  {
+   "text": "ates",
+   "conf": 0.27
+  },
+  {
+   "text": "THANK",
+   "conf": 0.94
+  },
+  {
+   "text": "YOU",
+   "conf": 0.94
+  },
+  {
+   "text": "For",
+   "conf": 0.96
+  },
+  {
+   "text": "anv",
+   "conf": 0.93
+  },
+  {
+   "text": "enauirv.",
+   "conf": 0.85
+  },
+  {
+   "text": "please",
+   "conf": 0.89
+  },
+  {
+   "text": "contact",
+   "conf": 0.96
+  },
+  {
+   "text": "us:",
+   "conf": 0.95
+  }
+ ],
+ "mean_conf": 0.7382,
+ "low_conf_share": 0.1875,
+ "latency_ms": 2439,
+ "fields": {
+  "company": "WAN HING STATIONERY SDN BHD",
+  "date": null,
+  "total": 12.0
+ },
+ "rule_reasons": [
+  "date_not_found"
+ ],
+ "total_candidates": [
+  12.0
+ ],
+ "key": "X51005453804"
+}

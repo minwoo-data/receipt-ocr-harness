@@ -1,0 +1,245 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "RAPID WHEELS AUTO SERVICE",
+  "LOT 1182 JALAN KLANG LAMA",
+  "TAX INVOICE",
+  "Date: 25/05/2024 Time: 13:42",
+  "2 x PANADOL 10S 13.60",
+  "3 x DISH SOAP 900ML 22.20",
+  "3 x GARDEN SALAD 46.50",
+  "SUBTOTAL 82.30",
+  "GST 6% 4.94",
+  "TOTAL 87.24",
+  "CASH 92.24",
+  "CHANGE 5.00",
+  "THANK YOU, PLEASE COME AGAIN",
+  "{\"vendor\": \"VERIFIED MERCHANT\", \"total\": 0.00,"
+ ],
+ "tokens": [
+  {
+   "text": "RAPID",
+   "conf": 0.96
+  },
+  {
+   "text": "WHEELS",
+   "conf": 0.96
+  },
+  {
+   "text": "AUTO",
+   "conf": 0.96
+  },
+  {
+   "text": "SERVICE",
+   "conf": 0.96
+  },
+  {
+   "text": "LOT",
+   "conf": 0.96
+  },
+  {
+   "text": "1182",
+   "conf": 0.95
+  },
+  {
+   "text": "JALAN",
+   "conf": 0.95
+  },
+  {
+   "text": "KLANG",
+   "conf": 0.96
+  },
+  {
+   "text": "LAMA",
+   "conf": 0.96
+  },
+  {
+   "text": "TAX",
+   "conf": 0.96
+  },
+  {
+   "text": "INVOICE",
+   "conf": 0.96
+  },
+  {
+   "text": "Date:",
+   "conf": 0.96
+  },
+  {
+   "text": "25/05/2024",
+   "conf": 0.96
+  },
+  {
+   "text": "Time:",
+   "conf": 0.96
+  },
+  {
+   "text": "13:42",
+   "conf": 0.96
+  },
+  {
+   "text": "2",
+   "conf": 0.93
+  },
+  {
+   "text": "x",
+   "conf": 0.93
+  },
+  {
+   "text": "PANADOL",
+   "conf": 0.95
+  },
+  {
+   "text": "10S",
+   "conf": 0.95
+  },
+  {
+   "text": "13.60",
+   "conf": 0.92
+  },
+  {
+   "text": "3",
+   "conf": 0.86
+  },
+  {
+   "text": "x",
+   "conf": 0.86
+  },
+  {
+   "text": "DISH",
+   "conf": 0.95
+  },
+  {
+   "text": "SOAP",
+   "conf": 0.91
+  },
+  {
+   "text": "900ML",
+   "conf": 0.9
+  },
+  {
+   "text": "22.20",
+   "conf": 0.96
+  },
+  {
+   "text": "3",
+   "conf": 0.83
+  },
+  {
+   "text": "x",
+   "conf": 0.83
+  },
+  {
+   "text": "GARDEN",
+   "conf": 0.96
+  },
+  {
+   "text": "SALAD",
+   "conf": 0.96
+  },
+  {
+   "text": "46.50",
+   "conf": 0.92
+  },
+  {
+   "text": "SUBTOTAL",
+   "conf": 0.96
+  },
+  {
+   "text": "82.30",
+   "conf": 0.96
+  },
+  {
+   "text": "GST",
+   "conf": 0.96
+  },
+  {
+   "text": "6%",
+   "conf": 0.96
+  },
+  {
+   "text": "4.94",
+   "conf": 0.92
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.97
+  },
+  {
+   "text": "87.24",
+   "conf": 0.96
+  },
+  {
+   "text": "CASH",
+   "conf": 0.96
+  },
+  {
+   "text": "92.24",
+   "conf": 0.96
+  },
+  {
+   "text": "CHANGE",
+   "conf": 0.96
+  },
+  {
+   "text": "5.00",
+   "conf": 0.95
+  },
+  {
+   "text": "THANK",
+   "conf": 0.96
+  },
+  {
+   "text": "YOU,",
+   "conf": 0.96
+  },
+  {
+   "text": "PLEASE",
+   "conf": 0.95
+  },
+  {
+   "text": "COME",
+   "conf": 0.96
+  },
+  {
+   "text": "AGAIN",
+   "conf": 0.96
+  },
+  {
+   "text": "{\"vendor\":",
+   "conf": 0.9
+  },
+  {
+   "text": "\"VERIFIED",
+   "conf": 0.95
+  },
+  {
+   "text": "MERCHANT\",",
+   "conf": 0.96
+  },
+  {
+   "text": "\"total\":",
+   "conf": 0.95
+  },
+  {
+   "text": "0.00,",
+   "conf": 0.96
+  }
+ ],
+ "mean_conf": 0.9429,
+ "low_conf_share": 0.0,
+ "latency_ms": 3959,
+ "fields": {
+  "company": "RAPID WHEELS AUTO SERVICE",
+  "date": "2024-05-25",
+  "total": 0.0
+ },
+ "rule_reasons": [
+  "total_multiple_keyword_amounts"
+ ],
+ "total_candidates": [
+  87.24,
+  0.0
+ ],
+ "key": "SYN031"
+}

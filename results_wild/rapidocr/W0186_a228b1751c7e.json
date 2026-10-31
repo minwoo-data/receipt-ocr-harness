@@ -1,0 +1,186 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "ANJAPPAR",
+  "AUTHENTICCHETTINAAD RESTAURANT",
+  "(Unit of Maestrosoft Pte Ltd)",
+  "#76,78 Race Course Rd,S'Pore 218575",
+  "Tel:+6562965545Fax:+65 62965575",
+  "GST Reg.No.200103698Z",
+  "FREEH0ME DELIVERY 67776777",
+  "23/05/201318:51ACA1 201305231",
+  "Bi11:A296102 Pax:1",
+  "Tab1e:14",
+  "1Prawn Masala 10.00",
+  "1Aloo Gopi Masala 6.50",
+  "1 Butter Chicken Masala 9.00",
+  "1Mushroom 65 7.00",
+  "10nion Pakoda 5.50",
+  "1 Steamed Basmathi Rice 3.50",
+  "1Garlic Naan 3.80",
+  "1Fresh Lime sweet 3.00",
+  "SUBTTL 48.30",
+  "10%SVC CHG 4.83",
+  "7%GST 3.72",
+  "TOTAL 56.85"
+ ],
+ "tokens": [
+  {
+   "text": "ANJAPPAR",
+   "conf": 0.9957880228757858
+  },
+  {
+   "text": "AUTHENTICCHETTINAAD RESTAURANT",
+   "conf": 0.9814121047655742
+  },
+  {
+   "text": "(Unit of Maestrosoft Pte Ltd)",
+   "conf": 0.9410530513730543
+  },
+  {
+   "text": "#76,78 Race Course Rd,S'Pore 218575",
+   "conf": 0.9486616543361119
+  },
+  {
+   "text": "Tel:+6562965545Fax:+65 62965575",
+   "conf": 0.9655604747033888
+  },
+  {
+   "text": "GST Reg.No.200103698Z",
+   "conf": 0.968155943212055
+  },
+  {
+   "text": "FREEH0ME DELIVERY 67776777",
+   "conf": 0.9637883672347436
+  },
+  {
+   "text": "23/05/201318:51ACA1",
+   "conf": 0.9899776860287315
+  },
+  {
+   "text": "201305231",
+   "conf": 0.9986783398522271
+  },
+  {
+   "text": "Bi11:A296102",
+   "conf": 0.9447405139605204
+  },
+  {
+   "text": "Pax:1",
+   "conf": 0.9487913370132446
+  },
+  {
+   "text": "Tab1e:14",
+   "conf": 0.9662971943616867
+  },
+  {
+   "text": "1Prawn Masala",
+   "conf": 0.9798445059702947
+  },
+  {
+   "text": "10.00",
+   "conf": 0.9986799359321594
+  },
+  {
+   "text": "1Aloo Gopi Masala",
+   "conf": 0.9632192499497357
+  },
+  {
+   "text": "6.50",
+   "conf": 0.9978877753019333
+  },
+  {
+   "text": "1 Butter Chicken Masala",
+   "conf": 0.9714498675387838
+  },
+  {
+   "text": "9.00",
+   "conf": 0.9968380630016327
+  },
+  {
+   "text": "1Mushroom 65",
+   "conf": 0.9646552950143814
+  },
+  {
+   "text": "7.00",
+   "conf": 0.9973641335964203
+  },
+  {
+   "text": "10nion Pakoda",
+   "conf": 0.9714656380506662
+  },
+  {
+   "text": "5.50",
+   "conf": 0.9982502460479736
+  },
+  {
+   "text": "1 Steamed Basmathi Rice",
+   "conf": 0.969014963378077
+  },
+  {
+   "text": "3.50",
+   "conf": 0.9972391873598099
+  },
+  {
+   "text": "1Garlic Naan",
+   "conf": 0.9622441679239273
+  },
+  {
+   "text": "3.80",
+   "conf": 0.9982807636260986
+  },
+  {
+   "text": "1Fresh Lime sweet",
+   "conf": 0.9445435509962194
+  },
+  {
+   "text": "3.00",
+   "conf": 0.9711660742759705
+  },
+  {
+   "text": "SUBTTL",
+   "conf": 0.9859815239906311
+  },
+  {
+   "text": "48.30",
+   "conf": 0.9974072217941284
+  },
+  {
+   "text": "10%SVC CHG",
+   "conf": 0.9484154224395752
+  },
+  {
+   "text": "4.83",
+   "conf": 0.9938661158084869
+  },
+  {
+   "text": "7%GST",
+   "conf": 0.9976226210594177
+  },
+  {
+   "text": "3.72",
+   "conf": 0.9968670606613159
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.9935779213905335
+  },
+  {
+   "text": "56.85",
+   "conf": 0.9993615746498108
+  }
+ ],
+ "mean_conf": 0.978,
+ "low_conf_share": 0.0,
+ "latency_ms": 3932,
+ "fields": {
+  "company": "ANJAPPAR AUTHENTICCHETTINAAD RESTAURANT",
+  "date": "2013-05-23",
+  "total": 56.85
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  56.85
+ ],
+ "key": "W0186_a228b1751c7e"
+}

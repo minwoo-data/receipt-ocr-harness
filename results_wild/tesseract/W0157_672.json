@@ -1,0 +1,257 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "LA VACA AZUL I",
+  "RESTAURANTE",
+  "CAPBRUBOMP, S.L.",
+  "REQUENA, 9 - EL COTILLO -LA OLIVA",
+  "SU CUENTA: Gracias",
+  "srt erin se",
+  "MC #01",
+  "REG CAJERO 2 21-03-2014 14:05 go2993",
+  "CUENTA No.53.",
+  "1 AGUA SIN Gas 1.60",
+  "1 PULPO PLANCHA VERDE 8.50",
+  "| 1._—«~PARRT. PEScaDO x2 25.00",
+  "io IMPORTE 35.10",
+  "a ii 2.46",
+  "3M Se ."
+ ],
+ "tokens": [
+  {
+   "text": "LA",
+   "conf": 0.96
+  },
+  {
+   "text": "VACA",
+   "conf": 0.95
+  },
+  {
+   "text": "AZUL",
+   "conf": 0.96
+  },
+  {
+   "text": "I",
+   "conf": 0.12
+  },
+  {
+   "text": "RESTAURANTE",
+   "conf": 0.9
+  },
+  {
+   "text": "CAPBRUBOMP,",
+   "conf": 0.92
+  },
+  {
+   "text": "S.L.",
+   "conf": 0.32
+  },
+  {
+   "text": "REQUENA,",
+   "conf": 0.9
+  },
+  {
+   "text": "9",
+   "conf": 0.92
+  },
+  {
+   "text": "-",
+   "conf": 0.92
+  },
+  {
+   "text": "EL",
+   "conf": 0.92
+  },
+  {
+   "text": "COTILLO",
+   "conf": 0.89
+  },
+  {
+   "text": "-LA",
+   "conf": 0.89
+  },
+  {
+   "text": "OLIVA",
+   "conf": 0.29
+  },
+  {
+   "text": "SU",
+   "conf": 0.96
+  },
+  {
+   "text": "CUENTA:",
+   "conf": 0.96
+  },
+  {
+   "text": "Gracias",
+   "conf": 0.96
+  },
+  {
+   "text": "srt",
+   "conf": 0.23
+  },
+  {
+   "text": "erin",
+   "conf": 0.0
+  },
+  {
+   "text": "se",
+   "conf": 0.29
+  },
+  {
+   "text": "MC",
+   "conf": 0.93
+  },
+  {
+   "text": "#01",
+   "conf": 0.93
+  },
+  {
+   "text": "REG",
+   "conf": 0.87
+  },
+  {
+   "text": "CAJERO",
+   "conf": 0.79
+  },
+  {
+   "text": "2",
+   "conf": 0.91
+  },
+  {
+   "text": "21-03-2014",
+   "conf": 0.91
+  },
+  {
+   "text": "14:05",
+   "conf": 0.28
+  },
+  {
+   "text": "go2993",
+   "conf": 0.2
+  },
+  {
+   "text": "CUENTA",
+   "conf": 0.92
+  },
+  {
+   "text": "No.53.",
+   "conf": 0.22
+  },
+  {
+   "text": "1",
+   "conf": 0.71
+  },
+  {
+   "text": "AGUA",
+   "conf": 0.71
+  },
+  {
+   "text": "SIN",
+   "conf": 0.95
+  },
+  {
+   "text": "Gas",
+   "conf": 0.88
+  },
+  {
+   "text": "1.60",
+   "conf": 0.88
+  },
+  {
+   "text": "1",
+   "conf": 0.66
+  },
+  {
+   "text": "PULPO",
+   "conf": 0.66
+  },
+  {
+   "text": "PLANCHA",
+   "conf": 0.89
+  },
+  {
+   "text": "VERDE",
+   "conf": 0.94
+  },
+  {
+   "text": "8.50",
+   "conf": 0.95
+  },
+  {
+   "text": "|",
+   "conf": 0.29
+  },
+  {
+   "text": "1._—«~PARRT.",
+   "conf": 0.0
+  },
+  {
+   "text": "PEScaDO",
+   "conf": 0.51
+  },
+  {
+   "text": "x2",
+   "conf": 0.95
+  },
+  {
+   "text": "25.00",
+   "conf": 0.95
+  },
+  {
+   "text": "io",
+   "conf": 0.24
+  },
+  {
+   "text": "IMPORTE",
+   "conf": 0.43
+  },
+  {
+   "text": "35.10",
+   "conf": 0.94
+  },
+  {
+   "text": "a",
+   "conf": 0.17
+  },
+  {
+   "text": "ii",
+   "conf": 0.11
+  },
+  {
+   "text": "2.46",
+   "conf": 0.9
+  },
+  {
+   "text": "3M",
+   "conf": 0.32
+  },
+  {
+   "text": "Se",
+   "conf": 0.35
+  },
+  {
+   "text": ".",
+   "conf": 0.09
+  }
+ ],
+ "mean_conf": 0.6611,
+ "low_conf_share": 0.3333,
+ "latency_ms": 1022,
+ "fields": {
+  "company": "LA VACA AZUL I",
+  "date": "2014-03-21",
+  "total": 35.1
+ },
+ "rule_reasons": [
+  "total_no_keyword_fallback_max"
+ ],
+ "total_candidates": [
+  1.6,
+  8.5,
+  25.0,
+  35.1,
+  2.46
+ ],
+ "key": "W0157_672"
+}

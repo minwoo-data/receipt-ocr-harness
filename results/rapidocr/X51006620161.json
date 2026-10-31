@@ -1,0 +1,267 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "SIMPLIFIEDTAXINVOICE",
+  "SIN THYE & COMFANY",
+  "REG.N0:00168397-H",
+  "GST N0: 001329332224",
+  "NO.54, BATU 5,JALAN IPOH,",
+  "KG.BATU,",
+  "51200 KUALA LUMPUR",
+  "TEL:03-6258 0869 FAX:03-62517978",
+  "MON.SAT7.30am-6.00pm",
+  "SUN7.30am-2.00pm",
+  "CASH",
+  "RECEIPT #:CS00052997 DATE:28/02/2016",
+  "SALESPERSON:6 TIME:11:05:00",
+  "CASHIER :USER",
+  "ITEM QTY U/P AMOUNT",
+  "813086000911 1 103.77 103.77*",
+  "KR6OO KING'S SAFETY SHOES",
+  "TOTAL QUANTITY 1",
+  "SUB-TOTAL 103.77",
+  "DISC 0.00",
+  "TAX 0.00",
+  "ROUNDING 0.00",
+  "TOTAL 110.00",
+  "CASH 110.00",
+  "CHANGE 0.00",
+  "GST SUMMARY",
+  "CODE AMOUNT % TAX/AMT",
+  "SR 103.77 6 6.23",
+  "TAX TOTAL 6.23",
+  "GOODS SOLD ARE NOT RETURNABLE，",
+  "THANK YOU."
+ ],
+ "tokens": [
+  {
+   "text": "SIMPLIFIEDTAXINVOICE",
+   "conf": 0.9703123688697814
+  },
+  {
+   "text": "SIN THYE &",
+   "conf": 0.9061139255762101
+  },
+  {
+   "text": "COMFANY",
+   "conf": 0.9712298682757786
+  },
+  {
+   "text": "REG.N0:00168397-H",
+   "conf": 0.9856849768582512
+  },
+  {
+   "text": "GST N0: 001329332224",
+   "conf": 0.9727292448282242
+  },
+  {
+   "text": "NO.54, BATU 5,JALAN IPOH,",
+   "conf": 0.8906118631362915
+  },
+  {
+   "text": "KG.BATU,",
+   "conf": 0.9674692302942276
+  },
+  {
+   "text": "51200 KUALA LUMPUR",
+   "conf": 0.9219547162453333
+  },
+  {
+   "text": "TEL:03-6258 0869 FAX:03-62517978",
+   "conf": 0.9588212762027979
+  },
+  {
+   "text": "MON.SAT7.30am-6.00pm",
+   "conf": 0.8968699768185615
+  },
+  {
+   "text": "SUN7.30am-2.00pm",
+   "conf": 0.9667771980166435
+  },
+  {
+   "text": "CASH",
+   "conf": 0.9955654442310333
+  },
+  {
+   "text": "RECEIPT #:CS00052997 DATE:28/02/2016",
+   "conf": 0.978191602561209
+  },
+  {
+   "text": "SALESPERSON:6",
+   "conf": 0.9316830405822167
+  },
+  {
+   "text": "TIME:11:05:00",
+   "conf": 0.9673574750240033
+  },
+  {
+   "text": "CASHIER :USER",
+   "conf": 0.9365710065915034
+  },
+  {
+   "text": "ITEM",
+   "conf": 0.9324873834848404
+  },
+  {
+   "text": "QTY",
+   "conf": 0.9953405459721884
+  },
+  {
+   "text": "U/P",
+   "conf": 0.9658703009287516
+  },
+  {
+   "text": "AMOUNT",
+   "conf": 0.9938313762346903
+  },
+  {
+   "text": "813086000911",
+   "conf": 0.9986791660388311
+  },
+  {
+   "text": "1",
+   "conf": 0.9865192770957947
+  },
+  {
+   "text": "103.77",
+   "conf": 0.9972878893216451
+  },
+  {
+   "text": "103.77*",
+   "conf": 0.9801061579159328
+  },
+  {
+   "text": "KR6OO KING'S SAFETY SHOES",
+   "conf": 0.9119388079643249
+  },
+  {
+   "text": "TOTAL QUANTITY",
+   "conf": 0.9638381983552661
+  },
+  {
+   "text": "1",
+   "conf": 0.9908015131950378
+  },
+  {
+   "text": "SUB-TOTAL",
+   "conf": 0.9872384005122714
+  },
+  {
+   "text": "103.77",
+   "conf": 0.9962874352931976
+  },
+  {
+   "text": "DISC",
+   "conf": 0.9819363206624985
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9880040735006332
+  },
+  {
+   "text": "TAX",
+   "conf": 0.9929237961769104
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9906145930290222
+  },
+  {
+   "text": "ROUNDING",
+   "conf": 0.9839317202568054
+  },
+  {
+   "text": "0.00",
+   "conf": 0.993710458278656
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.9937845826148987
+  },
+  {
+   "text": "110.00",
+   "conf": 0.9727315207322439
+  },
+  {
+   "text": "CASH",
+   "conf": 0.9978808015584946
+  },
+  {
+   "text": "110.00",
+   "conf": 0.9879346589247385
+  },
+  {
+   "text": "CHANGE",
+   "conf": 0.9969476262728373
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9896604269742966
+  },
+  {
+   "text": "GST SUMMARY",
+   "conf": 0.9831627173857256
+  },
+  {
+   "text": "CODE",
+   "conf": 0.9850284308195114
+  },
+  {
+   "text": "AMOUNT",
+   "conf": 0.9950407644112905
+  },
+  {
+   "text": "%",
+   "conf": 0.9578115940093994
+  },
+  {
+   "text": "TAX/AMT",
+   "conf": 0.9933962907109942
+  },
+  {
+   "text": "SR",
+   "conf": 0.9940323531627655
+  },
+  {
+   "text": "103.77",
+   "conf": 0.9949563244978586
+  },
+  {
+   "text": "6",
+   "conf": 0.9945021867752075
+  },
+  {
+   "text": "6.23",
+   "conf": 0.909556195139885
+  },
+  {
+   "text": "TAX TOTAL",
+   "conf": 0.9511597487661574
+  },
+  {
+   "text": "6.23",
+   "conf": 0.9975143373012543
+  },
+  {
+   "text": "GOODS SOLD ARE NOT RETURNABLE，",
+   "conf": 0.9371669361988704
+  },
+  {
+   "text": "THANK YOU.",
+   "conf": 0.9168048471212387
+  }
+ ],
+ "mean_conf": 0.9703,
+ "low_conf_share": 0.0,
+ "latency_ms": 4418,
+ "fields": {
+  "company": "SIN THYE COMFANY",
+  "date": "2016-02-28",
+  "total": 110.0
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  110.0
+ ],
+ "key": "X51006620161"
+}

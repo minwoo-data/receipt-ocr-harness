@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.6-flash",
+ "provider": "gemini",
+ "raw_text": "{\"vendor\": \"Black Diamond Car Wash\", \"date\": \"2015-01-15\", \"subtotal\": 47.95, \"tax\": 0.0, \"tip\": null, \"discount\": null, \"total\": 47.95, \"currency\": \"USD\", \"confidence\": 0.98, \"notes\": null}",
+ "data": {
+  "vendor": "Black Diamond Car Wash",
+  "date": "2015-01-15",
+  "subtotal": 47.95,
+  "tax": 0.0,
+  "tip": null,
+  "discount": null,
+  "total": 47.95,
+  "currency": "USD",
+  "confidence": 0.98,
+  "notes": null
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1433,
+  "output_tokens": 83,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.001386,
+ "latency_ms": 1508,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.6-flash",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.6-flash"
+ ],
+ "key": "W0147_0a7d81bc909d"
+}

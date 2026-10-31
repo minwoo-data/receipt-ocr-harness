@@ -1,0 +1,230 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "31803049",
+  "MR.D.I.Y.(M) SDN BHD",
+  "(CO.REG :860671-D)",
+  "LOT 1851-A & 1851-B,JALAN KPB 6,",
+  "KAWASAN PERINDUSTRIAN BALAKONG,",
+  "433O0 SERI KEMBANGAN,SELANGOR",
+  "(GST ID No :000306020352)",
+  "(IOI PUCHONG)",
+  "-TAX INVOICE-",
+  "MESH SPONGE 4S *S",
+  "AN62-72-12/96",
+  "9064234 1X 1.80 1.80",
+  "BROWN COCO BRUSH 6' V6N *S",
+  "WA50-20/300",
+  "9555221303658 2X2.10 4.20",
+  "PLASTIC BAGS *S",
+  "99999 1 X0.20 0.20",
+  "Item(s) : 3 Qty(s) : 4",
+  "Total Incl.GST@6% RM 6.20",
+  "CASH RM100.00",
+  "CHANGE RM 93.80",
+  "GST @6% included in total RM 0.35",
+  "*一 十",
+  "23-03-1816:43 SH01 ZJ86 T1 R000111721",
+  "OPERATOR TRAINEE CASHIER",
+  "EXCHANGE ARE ALLOWED WITHIN",
+  "7 DAY WITH RECEIPT.",
+  "STRICTLY NO CASH REFUND."
+ ],
+ "tokens": [
+  {
+   "text": "31803049",
+   "conf": 0.9980307295918465
+  },
+  {
+   "text": "MR.D.I.Y.(M) SDN BHD",
+   "conf": 0.9261145174503327
+  },
+  {
+   "text": "(CO.REG :860671-D)",
+   "conf": 0.9167589743932089
+  },
+  {
+   "text": "LOT 1851-A & 1851-B,JALAN KPB 6,",
+   "conf": 0.9165255837142467
+  },
+  {
+   "text": "KAWASAN PERINDUSTRIAN BALAKONG,",
+   "conf": 0.9620656274980114
+  },
+  {
+   "text": "433O0 SERI KEMBANGAN,SELANGOR",
+   "conf": 0.9172265673505848
+  },
+  {
+   "text": "(GST ID No :000306020352)",
+   "conf": 0.9093985462188721
+  },
+  {
+   "text": "(IOI PUCHONG)",
+   "conf": 0.9293836859556345
+  },
+  {
+   "text": "-TAX INVOICE-",
+   "conf": 0.9471286168465247
+  },
+  {
+   "text": "MESH SPONGE 4S",
+   "conf": 0.928836294582912
+  },
+  {
+   "text": "*S",
+   "conf": 0.9582712352275848
+  },
+  {
+   "text": "AN62-72-12/96",
+   "conf": 0.9937851199736962
+  },
+  {
+   "text": "9064234",
+   "conf": 0.9982366732188633
+  },
+  {
+   "text": "1X",
+   "conf": 0.7608606815338135
+  },
+  {
+   "text": "1.80",
+   "conf": 0.998618870973587
+  },
+  {
+   "text": "1.80",
+   "conf": 0.998771533370018
+  },
+  {
+   "text": "BROWN COCO BRUSH 6' V6N",
+   "conf": 0.9480530775111654
+  },
+  {
+   "text": "*S",
+   "conf": 0.7389029860496521
+  },
+  {
+   "text": "WA50-20/300",
+   "conf": 0.9966309666633606
+  },
+  {
+   "text": "9555221303658",
+   "conf": 0.9976234344335703
+  },
+  {
+   "text": "2X2.10",
+   "conf": 0.9371778269608816
+  },
+  {
+   "text": "4.20",
+   "conf": 0.9994855672121048
+  },
+  {
+   "text": "PLASTIC BAGS",
+   "conf": 0.9705871393283209
+  },
+  {
+   "text": "*S",
+   "conf": 0.9119121432304382
+  },
+  {
+   "text": "99999",
+   "conf": 0.9995497703552246
+  },
+  {
+   "text": "1 X0.20",
+   "conf": 0.8937914030892509
+  },
+  {
+   "text": "0.20",
+   "conf": 0.9991936385631561
+  },
+  {
+   "text": "Item(s) : 3",
+   "conf": 0.973512508652427
+  },
+  {
+   "text": "Qty(s) : 4",
+   "conf": 0.99893838763237
+  },
+  {
+   "text": "Total Incl.GST@6%",
+   "conf": 0.9416588825338027
+  },
+  {
+   "text": "RM 6.20",
+   "conf": 0.9711531911577497
+  },
+  {
+   "text": "CASH",
+   "conf": 0.9925759136676788
+  },
+  {
+   "text": "RM100.00",
+   "conf": 0.9977504760026932
+  },
+  {
+   "text": "CHANGE",
+   "conf": 0.9800083835919698
+  },
+  {
+   "text": "RM 93.80",
+   "conf": 0.9943011850118637
+  },
+  {
+   "text": "GST @6% included in total",
+   "conf": 0.9805150127410889
+  },
+  {
+   "text": "RM 0.35",
+   "conf": 0.9699864132063729
+  },
+  {
+   "text": "*一",
+   "conf": 0.5563390254974365
+  },
+  {
+   "text": "十",
+   "conf": 0.7201558947563171
+  },
+  {
+   "text": "23-03-1816:43 SH01 ZJ86",
+   "conf": 0.9430315572282543
+  },
+  {
+   "text": "T1 R000111721",
+   "conf": 0.9575854173073401
+  },
+  {
+   "text": "OPERATOR TRAINEE CASHIER",
+   "conf": 0.9462600002686182
+  },
+  {
+   "text": "EXCHANGE ARE ALLOWED WITHIN",
+   "conf": 0.9841673661161352
+  },
+  {
+   "text": "7 DAY WITH RECEIPT.",
+   "conf": 0.9538280367851257
+  },
+  {
+   "text": "STRICTLY NO CASH REFUND.",
+   "conf": 0.9332698856790861
+  }
+ ],
+ "mean_conf": 0.9388,
+ "low_conf_share": 0.0,
+ "latency_ms": 3464,
+ "fields": {
+  "company": "MR D I Y SDN BHD",
+  "date": null,
+  "total": 6.2
+ },
+ "rule_reasons": [
+  "date_not_found"
+ ],
+ "total_candidates": [
+  6.2
+ ],
+ "key": "X51005757342"
+}

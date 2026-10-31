@@ -1,0 +1,212 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "SunshinePoS",
+  "Sold To:Samples",
+  "SAMPLES/#14107-AuguSt07,2001",
+  "Bedwetting （1 FL.0z.) $8.50",
+  "CVITAMIN-CITRUS Bioflav/500 $10.95",
+  "ALJ(2FL.OZ） $9.50",
+  "HSN-W（KSP-STRUCTURAL,T-10) $11.25",
+  "ACIDOPHILUS-FLORAForCe（90) $14.25",
+  "0regon Grape（2FL.0z.） $11.95",
+  "SUBTOTAL: $66.40",
+  "SALESTAX: $0.00",
+  "TOTAL: $66.40",
+  "PAYMENTS: $66.40",
+  "BALANCEDUE: $783.95",
+  "You Saved:$30.80",
+  "Totalnumber ofitems:6",
+  "Volumes: Invoice PV* *15",
+  "NSP N/C 225 225",
+  "*Paid Invoices for Current Month Only",
+  "Cash: $66.40",
+  "Thank you foryour order.",
+  "Please contact us with any",
+  "questions or problems you have.",
+  "www.sunshinesupport.com"
+ ],
+ "tokens": [
+  {
+   "text": "SunshinePoS",
+   "conf": 0.9486084038561041
+  },
+  {
+   "text": "Sold To:Samples",
+   "conf": 0.9447205901145935
+  },
+  {
+   "text": "SAMPLES/#14107-AuguSt07,2001",
+   "conf": 0.9642000879560199
+  },
+  {
+   "text": "Bedwetting （1 FL.0z.)",
+   "conf": 0.8895444160416013
+  },
+  {
+   "text": "$8.50",
+   "conf": 0.9955646872520447
+  },
+  {
+   "text": "CVITAMIN-CITRUS Bioflav/500",
+   "conf": 0.9158131767202307
+  },
+  {
+   "text": "$10.95",
+   "conf": 0.9959961175918579
+  },
+  {
+   "text": "ALJ(2FL.OZ）",
+   "conf": 0.881020881912925
+  },
+  {
+   "text": "$9.50",
+   "conf": 0.9973195195198059
+  },
+  {
+   "text": "HSN-W（KSP-STRUCTURAL,T-10)",
+   "conf": 0.943730734861814
+  },
+  {
+   "text": "$11.25",
+   "conf": 0.9898520211378733
+  },
+  {
+   "text": "ACIDOPHILUS-FLORAForCe（90)",
+   "conf": 0.9173787671786088
+  },
+  {
+   "text": "$14.25",
+   "conf": 0.9947463174661001
+  },
+  {
+   "text": "0regon Grape（2FL.0z.）",
+   "conf": 0.8975406913530259
+  },
+  {
+   "text": "$11.95",
+   "conf": 0.9966442286968231
+  },
+  {
+   "text": "SUBTOTAL:",
+   "conf": 0.9792122774653964
+  },
+  {
+   "text": "$66.40",
+   "conf": 0.9891207615534464
+  },
+  {
+   "text": "SALESTAX:",
+   "conf": 0.9737629493077596
+  },
+  {
+   "text": "$0.00",
+   "conf": 0.9964882135391235
+  },
+  {
+   "text": "TOTAL:",
+   "conf": 0.9818314909934998
+  },
+  {
+   "text": "$66.40",
+   "conf": 0.996373862028122
+  },
+  {
+   "text": "PAYMENTS:",
+   "conf": 0.9891446497705247
+  },
+  {
+   "text": "$66.40",
+   "conf": 0.9911506374677023
+  },
+  {
+   "text": "BALANCEDUE:",
+   "conf": 0.9827543280341409
+  },
+  {
+   "text": "$783.95",
+   "conf": 0.9978238344192505
+  },
+  {
+   "text": "You Saved:$30.80",
+   "conf": 0.9594535939395428
+  },
+  {
+   "text": "Totalnumber ofitems:6",
+   "conf": 0.9502788186073303
+  },
+  {
+   "text": "Volumes:",
+   "conf": 0.973987840116024
+  },
+  {
+   "text": "Invoice",
+   "conf": 0.9934297204017639
+  },
+  {
+   "text": "PV*",
+   "conf": 0.9688891569773356
+  },
+  {
+   "text": "*15",
+   "conf": 0.5264401038487753
+  },
+  {
+   "text": "NSP",
+   "conf": 0.9064847628275553
+  },
+  {
+   "text": "N/C",
+   "conf": 0.9823189377784729
+  },
+  {
+   "text": "225",
+   "conf": 0.9989497065544128
+  },
+  {
+   "text": "225",
+   "conf": 0.9993930657704672
+  },
+  {
+   "text": "*Paid Invoices for Current Month Only",
+   "conf": 0.9306531854577966
+  },
+  {
+   "text": "Cash:",
+   "conf": 0.9907403945922851
+  },
+  {
+   "text": "$66.40",
+   "conf": 0.9944265186786652
+  },
+  {
+   "text": "Thank you foryour order.",
+   "conf": 0.9455241486430168
+  },
+  {
+   "text": "Please contact us with any",
+   "conf": 0.9491508350922511
+  },
+  {
+   "text": "questions or problems you have.",
+   "conf": 0.9394464954253166
+  },
+  {
+   "text": "www.sunshinesupport.com",
+   "conf": 0.9935057396474092
+  }
+ ],
+ "mean_conf": 0.956,
+ "low_conf_share": 0.0,
+ "latency_ms": 4353,
+ "fields": {
+  "company": "SUNSHINEPOS",
+  "date": "2007-08-07",
+  "total": 66.4
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  66.4
+ ],
+ "key": "W0052_8625ec7f4bdf"
+}

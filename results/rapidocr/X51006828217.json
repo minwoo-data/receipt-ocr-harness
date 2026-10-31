@@ -1,0 +1,174 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "99 SPEED MART S/D (519537-X)",
+  "LOT P.T.2811,JALAN ANGSA",
+  "TAMAN BERKELEY",
+  "41150 KLANG,SELANGOR",
+  "1243-JLN PUDU ULU",
+  "GST ID.NO:000181747712",
+  "INVDICE N0:18124/102/T0146",
+  "01:11PM 14-08-17",
+  "S87 LISTERINE COOL MINT MOU RM8.99s",
+  "2190 SPRING FRESH MINERALW RM1.405",
+  "S3S3 SUMMER GOAT MILK BODY RM3.995",
+  "Total Sales (Inclusive GST) RM 14.38",
+  "Rounding Adjustment RM .02",
+  "Rounding RM 14.40",
+  "CASH RM 20.00",
+  "CHANGE RM 5.60",
+  "Bsrsummary Amount(RM) Tax(RH)",
+  "=67 13.56 82",
+  "Thank You. Please come again",
+  "Keep the invoice for applicable returns"
+ ],
+ "tokens": [
+  {
+   "text": "99 SPEED MART S/D (519537-X)",
+   "conf": 0.921376605119024
+  },
+  {
+   "text": "LOT P.T.2811,JALAN ANGSA",
+   "conf": 0.9255202189087868
+  },
+  {
+   "text": "TAMAN BERKELEY",
+   "conf": 0.9697153738566807
+  },
+  {
+   "text": "41150 KLANG,SELANGOR",
+   "conf": 0.9571626454591751
+  },
+  {
+   "text": "1243-JLN PUDU ULU",
+   "conf": 0.961693146649529
+  },
+  {
+   "text": "GST ID.NO:000181747712",
+   "conf": 0.9250802506100048
+  },
+  {
+   "text": "INVDICE N0:18124/102/T0146",
+   "conf": 0.9508288869490991
+  },
+  {
+   "text": "01:11PM",
+   "conf": 0.9402638248034886
+  },
+  {
+   "text": "14-08-17",
+   "conf": 0.996339239180088
+  },
+  {
+   "text": "S87 LISTERINE COOL MINT MOU",
+   "conf": 0.9691585765944587
+  },
+  {
+   "text": "RM8.99s",
+   "conf": 0.8657097348145076
+  },
+  {
+   "text": "2190 SPRING FRESH MINERALW",
+   "conf": 0.9532805474904867
+  },
+  {
+   "text": "RM1.405",
+   "conf": 0.9043499231338501
+  },
+  {
+   "text": "S3S3 SUMMER GOAT MILK BODY",
+   "conf": 0.9443805951338547
+  },
+  {
+   "text": "RM3.995",
+   "conf": 0.9167016914912632
+  },
+  {
+   "text": "Total Sales (Inclusive GST) RM",
+   "conf": 0.9127300957838694
+  },
+  {
+   "text": "14.38",
+   "conf": 0.9846152186393737
+  },
+  {
+   "text": "Rounding Adjustment RM",
+   "conf": 0.9743136980316855
+  },
+  {
+   "text": ".02",
+   "conf": 0.8500071366628011
+  },
+  {
+   "text": "Rounding RM",
+   "conf": 0.9597408175468445
+  },
+  {
+   "text": "14.40",
+   "conf": 0.9964247226715088
+  },
+  {
+   "text": "CASH RM",
+   "conf": 0.9414519837924412
+  },
+  {
+   "text": "20.00",
+   "conf": 0.9881609797477722
+  },
+  {
+   "text": "CHANGE RM",
+   "conf": 0.9609722163942125
+  },
+  {
+   "text": "5.60",
+   "conf": 0.9953409135341644
+  },
+  {
+   "text": "Bsrsummary",
+   "conf": 0.8023307681083679
+  },
+  {
+   "text": "Amount(RM)",
+   "conf": 0.8350110322237014
+  },
+  {
+   "text": "Tax(RH)",
+   "conf": 0.9354837536811829
+  },
+  {
+   "text": "=67",
+   "conf": 0.7979792753855387
+  },
+  {
+   "text": "13.56",
+   "conf": 0.9947293043136597
+  },
+  {
+   "text": "82",
+   "conf": 0.9436814785003662
+  },
+  {
+   "text": "Thank You. Please come again",
+   "conf": 0.9347421888794217
+  },
+  {
+   "text": "Keep the invoice for applicable returns",
+   "conf": 0.9717957866497529
+  }
+ ],
+ "mean_conf": 0.9358,
+ "low_conf_share": 0.0,
+ "latency_ms": 5237,
+ "fields": {
+  "company": null,
+  "date": "2017-08-14",
+  "total": 14.38
+ },
+ "rule_reasons": [
+  "company_not_found"
+ ],
+ "total_candidates": [
+  14.38
+ ],
+ "key": "X51006828217"
+}

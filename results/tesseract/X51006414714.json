@@ -1,0 +1,635 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "/)0 ad IE.",
+  "THE TOAST F&B SDN BHD (965752-T) . |",
+  "me ~ LOT 2110&2111 JALAN PERMAS UTARA",
+  "BANDAR BARU PERMAS | -",
+  "81760 JOHOR BAHRU JOHOR",
+  "Tel: 07-3886880 :",
+  "\" GST ID No: 002069884928",
+  "TAX INVOICE | , .",
+  "~ P§8418042783 08/04/2018 “",
+  "SIP: POST Loc: PMS",
+  "Waik In",
+  ": Table: 39 |",
+  "tom Qty U.Price Dise Amount ,",
+  "404 TEH (ICE)",
+  "é ‘ 3.50 0,00 3.50 S$",
+  ". 220 KAMPUNG",
+  "4 16.00 0.00 10.00 S",
+  "101 . BUTTER KAYA",
+  "‘| 2.50 O00 2.50 S . :",
+  "440 SUGARCA, | ICE)",
+  "‘ 2.90 o.00 ~ 2905",
+  "Total Items: 4 | : |",
+  "Sub Total: 48.90. | : |",
+  "Less Discount: 0.00",
+  "Round: 0.00 |",
+  "Total Due (GST inc): 18.90",
+  "Paid: 9 60.00 ,",
+  "_ Change: - . . 34.10 , |",
+  "$:G5T(6%) 17.83 1.07 :",
+  "Please Come Again! . a",
+  "| 08/04/2018 03:09:12 pm ."
+ ],
+ "tokens": [
+  {
+   "text": "/)0",
+   "conf": 0.0
+  },
+  {
+   "text": "ad",
+   "conf": 0.33
+  },
+  {
+   "text": "IE.",
+   "conf": 0.36
+  },
+  {
+   "text": "THE",
+   "conf": 0.93
+  },
+  {
+   "text": "TOAST",
+   "conf": 0.92
+  },
+  {
+   "text": "F&B",
+   "conf": 0.89
+  },
+  {
+   "text": "SDN",
+   "conf": 0.94
+  },
+  {
+   "text": "BHD",
+   "conf": 0.93
+  },
+  {
+   "text": "(965752-T)",
+   "conf": 0.91
+  },
+  {
+   "text": ".",
+   "conf": 0.52
+  },
+  {
+   "text": "|",
+   "conf": 0.29
+  },
+  {
+   "text": "me",
+   "conf": 0.04
+  },
+  {
+   "text": "~",
+   "conf": 0.11
+  },
+  {
+   "text": "LOT",
+   "conf": 0.87
+  },
+  {
+   "text": "2110&2111",
+   "conf": 0.87
+  },
+  {
+   "text": "JALAN",
+   "conf": 0.93
+  },
+  {
+   "text": "PERMAS",
+   "conf": 0.88
+  },
+  {
+   "text": "UTARA",
+   "conf": 0.92
+  },
+  {
+   "text": "BANDAR",
+   "conf": 0.92
+  },
+  {
+   "text": "BARU",
+   "conf": 0.92
+  },
+  {
+   "text": "PERMAS",
+   "conf": 0.91
+  },
+  {
+   "text": "|",
+   "conf": 0.69
+  },
+  {
+   "text": "-",
+   "conf": 0.62
+  },
+  {
+   "text": "81760",
+   "conf": 0.86
+  },
+  {
+   "text": "JOHOR",
+   "conf": 0.93
+  },
+  {
+   "text": "BAHRU",
+   "conf": 0.91
+  },
+  {
+   "text": "JOHOR",
+   "conf": 0.96
+  },
+  {
+   "text": "Tel:",
+   "conf": 0.74
+  },
+  {
+   "text": "07-3886880",
+   "conf": 0.83
+  },
+  {
+   "text": ":",
+   "conf": 0.0
+  },
+  {
+   "text": "\"",
+   "conf": 0.3
+  },
+  {
+   "text": "GST",
+   "conf": 0.94
+  },
+  {
+   "text": "ID",
+   "conf": 0.94
+  },
+  {
+   "text": "No:",
+   "conf": 0.91
+  },
+  {
+   "text": "002069884928",
+   "conf": 0.96
+  },
+  {
+   "text": "TAX",
+   "conf": 0.44
+  },
+  {
+   "text": "INVOICE",
+   "conf": 0.44
+  },
+  {
+   "text": "|",
+   "conf": 0.33
+  },
+  {
+   "text": ",",
+   "conf": 0.0
+  },
+  {
+   "text": ".",
+   "conf": 0.24
+  },
+  {
+   "text": "~",
+   "conf": 0.06
+  },
+  {
+   "text": "P§8418042783",
+   "conf": 0.72
+  },
+  {
+   "text": "08/04/2018",
+   "conf": 0.91
+  },
+  {
+   "text": "“",
+   "conf": 0.2
+  },
+  {
+   "text": "SIP:",
+   "conf": 0.17
+  },
+  {
+   "text": "POST",
+   "conf": 0.0
+  },
+  {
+   "text": "Loc:",
+   "conf": 0.96
+  },
+  {
+   "text": "PMS",
+   "conf": 0.96
+  },
+  {
+   "text": "Waik",
+   "conf": 0.86
+  },
+  {
+   "text": "In",
+   "conf": 0.95
+  },
+  {
+   "text": ":",
+   "conf": 0.22
+  },
+  {
+   "text": "Table:",
+   "conf": 0.24
+  },
+  {
+   "text": "39",
+   "conf": 0.58
+  },
+  {
+   "text": "|",
+   "conf": 0.78
+  },
+  {
+   "text": "tom",
+   "conf": 0.0
+  },
+  {
+   "text": "Qty",
+   "conf": 0.93
+  },
+  {
+   "text": "U.Price",
+   "conf": 0.79
+  },
+  {
+   "text": "Dise",
+   "conf": 0.79
+  },
+  {
+   "text": "Amount",
+   "conf": 0.96
+  },
+  {
+   "text": ",",
+   "conf": 0.0
+  },
+  {
+   "text": "404",
+   "conf": 0.96
+  },
+  {
+   "text": "TEH",
+   "conf": 0.9
+  },
+  {
+   "text": "(ICE)",
+   "conf": 0.87
+  },
+  {
+   "text": "é",
+   "conf": 0.0
+  },
+  {
+   "text": "‘",
+   "conf": 0.45
+  },
+  {
+   "text": "3.50",
+   "conf": 0.92
+  },
+  {
+   "text": "0,00",
+   "conf": 0.82
+  },
+  {
+   "text": "3.50",
+   "conf": 0.49
+  },
+  {
+   "text": "S$",
+   "conf": 0.46
+  },
+  {
+   "text": ".",
+   "conf": 0.18
+  },
+  {
+   "text": "220",
+   "conf": 0.9
+  },
+  {
+   "text": "KAMPUNG",
+   "conf": 0.83
+  },
+  {
+   "text": "4",
+   "conf": 0.5
+  },
+  {
+   "text": "16.00",
+   "conf": 0.59
+  },
+  {
+   "text": "0.00",
+   "conf": 0.87
+  },
+  {
+   "text": "10.00",
+   "conf": 0.68
+  },
+  {
+   "text": "S",
+   "conf": 0.68
+  },
+  {
+   "text": "101",
+   "conf": 0.9
+  },
+  {
+   "text": ".",
+   "conf": 0.38
+  },
+  {
+   "text": "BUTTER",
+   "conf": 0.92
+  },
+  {
+   "text": "KAYA",
+   "conf": 0.96
+  },
+  {
+   "text": "‘|",
+   "conf": 0.4
+  },
+  {
+   "text": "2.50",
+   "conf": 0.85
+  },
+  {
+   "text": "O00",
+   "conf": 0.46
+  },
+  {
+   "text": "2.50",
+   "conf": 0.76
+  },
+  {
+   "text": "S",
+   "conf": 0.72
+  },
+  {
+   "text": ".",
+   "conf": 0.68
+  },
+  {
+   "text": ":",
+   "conf": 0.01
+  },
+  {
+   "text": "440",
+   "conf": 0.95
+  },
+  {
+   "text": "SUGARCA,",
+   "conf": 0.0
+  },
+  {
+   "text": "|",
+   "conf": 0.46
+  },
+  {
+   "text": "ICE)",
+   "conf": 0.85
+  },
+  {
+   "text": "‘",
+   "conf": 0.45
+  },
+  {
+   "text": "2.90",
+   "conf": 0.44
+  },
+  {
+   "text": "o.00",
+   "conf": 0.0
+  },
+  {
+   "text": "~",
+   "conf": 0.04
+  },
+  {
+   "text": "2905",
+   "conf": 0.69
+  },
+  {
+   "text": "Total",
+   "conf": 0.96
+  },
+  {
+   "text": "Items:",
+   "conf": 0.63
+  },
+  {
+   "text": "4",
+   "conf": 0.96
+  },
+  {
+   "text": "|",
+   "conf": 0.4
+  },
+  {
+   "text": ":",
+   "conf": 0.16
+  },
+  {
+   "text": "|",
+   "conf": 0.22
+  },
+  {
+   "text": "Sub",
+   "conf": 0.96
+  },
+  {
+   "text": "Total:",
+   "conf": 0.94
+  },
+  {
+   "text": "48.90.",
+   "conf": 0.3
+  },
+  {
+   "text": "|",
+   "conf": 0.56
+  },
+  {
+   "text": ":",
+   "conf": 0.11
+  },
+  {
+   "text": "|",
+   "conf": 0.53
+  },
+  {
+   "text": "Less",
+   "conf": 0.95
+  },
+  {
+   "text": "Discount:",
+   "conf": 0.94
+  },
+  {
+   "text": "0.00",
+   "conf": 0.96
+  },
+  {
+   "text": "Round:",
+   "conf": 0.96
+  },
+  {
+   "text": "0.00",
+   "conf": 0.95
+  },
+  {
+   "text": "|",
+   "conf": 0.43
+  },
+  {
+   "text": "Total",
+   "conf": 0.96
+  },
+  {
+   "text": "Due",
+   "conf": 0.94
+  },
+  {
+   "text": "(GST",
+   "conf": 0.88
+  },
+  {
+   "text": "inc):",
+   "conf": 0.92
+  },
+  {
+   "text": "18.90",
+   "conf": 0.96
+  },
+  {
+   "text": "Paid:",
+   "conf": 0.92
+  },
+  {
+   "text": "9",
+   "conf": 0.65
+  },
+  {
+   "text": "60.00",
+   "conf": 0.19
+  },
+  {
+   "text": ",",
+   "conf": 0.0
+  },
+  {
+   "text": "_",
+   "conf": 0.45
+  },
+  {
+   "text": "Change:",
+   "conf": 0.91
+  },
+  {
+   "text": "-",
+   "conf": 0.0
+  },
+  {
+   "text": ".",
+   "conf": 0.36
+  },
+  {
+   "text": ".",
+   "conf": 0.58
+  },
+  {
+   "text": "34.10",
+   "conf": 0.92
+  },
+  {
+   "text": ",",
+   "conf": 0.0
+  },
+  {
+   "text": "|",
+   "conf": 0.48
+  },
+  {
+   "text": "$:G5T(6%)",
+   "conf": 0.28
+  },
+  {
+   "text": "17.83",
+   "conf": 0.95
+  },
+  {
+   "text": "1.07",
+   "conf": 0.87
+  },
+  {
+   "text": ":",
+   "conf": 0.4
+  },
+  {
+   "text": "Please",
+   "conf": 0.95
+  },
+  {
+   "text": "Come",
+   "conf": 0.96
+  },
+  {
+   "text": "Again!",
+   "conf": 0.96
+  },
+  {
+   "text": ".",
+   "conf": 0.0
+  },
+  {
+   "text": "a",
+   "conf": 0.0
+  },
+  {
+   "text": "|",
+   "conf": 0.37
+  },
+  {
+   "text": "08/04/2018",
+   "conf": 0.74
+  },
+  {
+   "text": "03:09:12",
+   "conf": 0.84
+  },
+  {
+   "text": "pm",
+   "conf": 0.96
+  },
+  {
+   "text": ".",
+   "conf": 0.29
+  }
+ ],
+ "mean_conf": 0.6174,
+ "low_conf_share": 0.3767,
+ "latency_ms": 7382,
+ "fields": {
+  "company": "THE TOAST F B SDN BHD",
+  "date": "2018-04-08",
+  "total": 18.9
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  18.9
+ ],
+ "key": "X51006414714"
+}

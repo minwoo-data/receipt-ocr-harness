@@ -1,0 +1,202 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "Yam Fresh",
+  "No.145G,Jalan Rimbunan Raya1",
+  "Laman Rimbunan Kepong,",
+  "52100 Kuala Lumpur",
+  "Tel:（603)62435520",
+  "GST ID=001817907200",
+  "B111 No.:001-3246 Dine In",
+  "Date:2018-03-18 13:18:48",
+  "R05 Oyster Mee 1 RM9.90",
+  "Take Away",
+  "A07 BlackSugar Ice RM7.50",
+  ":Fresh Milk",
+  ":Pear1",
+  ":Herb.J RM3.00",
+  ":Take Away",
+  "S02 Pudding Soybean RM8.90",
+  ":Take Away",
+  "Grand Tota1 RM29.30",
+  "（Bi11 Inclusive of 6% GST :RM1.66)",
+  "Cash RM30.30",
+  "Change RM1.00",
+  "Thiank You.",
+  "Please visitus at:",
+  "Facebook:-Yam Fresh",
+  "S",
+  "Wifi SSID:yamfresh",
+  "Wifi Pasword:buyadrinkfirst",
+  "001-2018-03-18 13:21:02 Rainny 001-3246[1]"
+ ],
+ "tokens": [
+  {
+   "text": "Yam Fresh",
+   "conf": 0.9828126099374559
+  },
+  {
+   "text": "No.145G,Jalan Rimbunan Raya1",
+   "conf": 0.9447927283389228
+  },
+  {
+   "text": "Laman Rimbunan Kepong,",
+   "conf": 0.9564588991078463
+  },
+  {
+   "text": "52100 Kuala Lumpur",
+   "conf": 0.9443468815750546
+  },
+  {
+   "text": "Tel:（603)62435520",
+   "conf": 0.9513721606310677
+  },
+  {
+   "text": "GST ID=001817907200",
+   "conf": 0.972775189500106
+  },
+  {
+   "text": "B111 No.:001-3246",
+   "conf": 0.9038585529607885
+  },
+  {
+   "text": "Dine In",
+   "conf": 0.9682000620024545
+  },
+  {
+   "text": "Date:2018-03-18 13:18:48",
+   "conf": 0.9679854810237885
+  },
+  {
+   "text": "R05 Oyster Mee",
+   "conf": 0.9160765281745366
+  },
+  {
+   "text": "1",
+   "conf": 0.9765269756317139
+  },
+  {
+   "text": "RM9.90",
+   "conf": 0.9955748816331228
+  },
+  {
+   "text": "Take Away",
+   "conf": 0.9378151165114509
+  },
+  {
+   "text": "A07 BlackSugar Ice",
+   "conf": 0.9688088927004073
+  },
+  {
+   "text": "RM7.50",
+   "conf": 0.9858105182647705
+  },
+  {
+   "text": ":Fresh Milk",
+   "conf": 0.9265105561776594
+  },
+  {
+   "text": ":Pear1",
+   "conf": 0.9090868532657623
+  },
+  {
+   "text": ":Herb.J",
+   "conf": 0.9368197066443307
+  },
+  {
+   "text": "RM3.00",
+   "conf": 0.9971897800763448
+  },
+  {
+   "text": ":Take Away",
+   "conf": 0.9347352027893067
+  },
+  {
+   "text": "S02 Pudding Soybean",
+   "conf": 0.969997829512546
+  },
+  {
+   "text": "RM8.90",
+   "conf": 0.980639785528183
+  },
+  {
+   "text": ":Take Away",
+   "conf": 0.9143885135650635
+  },
+  {
+   "text": "Grand Tota1 RM29.30",
+   "conf": 0.9314686593256498
+  },
+  {
+   "text": "（Bi11 Inclusive of 6% GST :RM1.66)",
+   "conf": 0.8862465357079226
+  },
+  {
+   "text": "Cash",
+   "conf": 0.9953852593898773
+  },
+  {
+   "text": "RM30.30",
+   "conf": 0.9985201699393136
+  },
+  {
+   "text": "Change",
+   "conf": 0.9962629675865173
+  },
+  {
+   "text": "RM1.00",
+   "conf": 0.9975479344526926
+  },
+  {
+   "text": "Thiank You.",
+   "conf": 0.897296355529265
+  },
+  {
+   "text": "Please visitus at:",
+   "conf": 0.9286136991447873
+  },
+  {
+   "text": "Facebook:-Yam Fresh",
+   "conf": 0.9462157331014934
+  },
+  {
+   "text": "S",
+   "conf": 0.7516787648200989
+  },
+  {
+   "text": "Wifi SSID:yamfresh",
+   "conf": 0.9213081929418776
+  },
+  {
+   "text": "Wifi Pasword:buyadrinkfirst",
+   "conf": 0.9778090340119822
+  },
+  {
+   "text": "001-2018-03-18 13:21:02 Rainny",
+   "conf": 0.9563337524731954
+  },
+  {
+   "text": "001-3246[1]",
+   "conf": 0.9583571715788408
+  }
+ ],
+ "mean_conf": 0.9483,
+ "low_conf_share": 0.0,
+ "latency_ms": 12047,
+ "fields": {
+  "company": "YAM FRESH",
+  "date": "2018-03-18",
+  "total": 30.3
+ },
+ "rule_reasons": [
+  "total_no_keyword_fallback_max"
+ ],
+ "total_candidates": [
+  8.9,
+  29.3,
+  1.66,
+  30.3,
+  1.0
+ ],
+ "key": "X51005719904"
+}

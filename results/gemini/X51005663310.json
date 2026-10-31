@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.6-flash",
+ "provider": "gemini",
+ "raw_text": "{\"vendor\": \"LIM SENG THO HARDWARE TRADING\", \"date\": \"2018-02-09\", \"subtotal\": 8.4, \"tax\": 0.48, \"tip\": null, \"discount\": null, \"total\": 8.4, \"currency\": \"MYR\", \"confidence\": 0.95, \"notes\": null}",
+ "data": {
+  "vendor": "LIM SENG THO HARDWARE TRADING",
+  "date": "2018-02-09",
+  "subtotal": 8.4,
+  "tax": 0.48,
+  "tip": null,
+  "discount": null,
+  "total": 8.4,
+  "currency": "MYR",
+  "confidence": 0.95,
+  "notes": null
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1449,
+  "output_tokens": 86,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.001409,
+ "latency_ms": 1585,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.6-flash",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.6-flash"
+ ],
+ "key": "X51005663310"
+}

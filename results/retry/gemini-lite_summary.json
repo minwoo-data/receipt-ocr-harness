@@ -1,0 +1,839 @@
+{
+ "summary": {
+  "engine": "gemini-lite",
+  "n_flagged": 20,
+  "blind": {
+   "n": 20,
+   "fixed": 0,
+   "broke": 1,
+   "unchanged_wrong": 5,
+   "kept_retry": 0,
+   "kept_ok": 15,
+   "flags_cleared": 0
+  },
+  "guided": {
+   "n": 20,
+   "fixed": 1,
+   "broke": 1,
+   "unchanged_wrong": 4,
+   "kept_retry": 4,
+   "kept_ok": 16,
+   "flags_cleared": 4
+  }
+ },
+ "rows": [
+  {
+   "key": "X51005441401",
+   "field": "total",
+   "flags": [
+    "G_ARITH"
+   ],
+   "before_ok": true,
+   "before": {
+    "company": "THREE STOOGES BISTRO CAFE",
+    "date": "2018-03-12",
+    "total": 343.95
+   },
+   "blind": {
+    "after_ok": true,
+    "after_flags": [
+     "G_ARITH"
+    ],
+    "kept_retry": false,
+    "kept_ok": true,
+    "after": {
+     "company": "THREE STOOGES",
+     "date": "2018-03-12",
+     "total": 343.95
+    },
+    "cost_usd": 0.000539
+   },
+   "guided": {
+    "after_ok": true,
+    "after_flags": [],
+    "kept_retry": true,
+    "kept_ok": true,
+    "after": {
+     "company": "THREE STOOGES BISTRO CAFE",
+     "date": "2018-03-12",
+     "total": 343.95
+    },
+    "cost_usd": 0.000614
+   }
+  },
+  {
+   "key": "X51005442322",
+   "field": "total",
+   "flags": [
+    "G_ARITH"
+   ],
+   "before_ok": true,
+   "before": {
+    "company": "TONY ROMA S",
+    "date": "2019-03-03",
+    "total": 269.4
+   },
+   "blind": {
+    "after_ok": false,
+    "after_flags": [
+     "G_ARITH",
+     "G_AGREE_DATE"
+    ],
+    "kept_retry": false,
+    "kept_ok": true,
+    "after": {
+     "company": "TONY ROMA S",
+     "date": "2018-03-03",
+     "total": 269.4
+    },
+    "cost_usd": 0.000571
+   },
+   "guided": {
+    "after_ok": true,
+    "after_flags": [
+     "G_ARITH"
+    ],
+    "kept_retry": false,
+    "kept_ok": true,
+    "after": {
+     "company": "TONY ROMA S",
+     "date": "2019-03-03",
+     "total": 269.4
+    },
+    "cost_usd": 0.000608
+   }
+  },
+  {
+   "key": "X51005568880",
+   "field": "date",
+   "flags": [
+    "G_AGREE_DATE"
+   ],
+   "before_ok": false,
+   "before": {
+    "company": "MR D I Y SDN BHD",
+    "date": "2019-09-17",
+    "total": 15.9
+   },
+   "blind": {
+    "after_ok": false,
+    "after_flags": [
+     "G_AGREE_DATE"
+    ],
+    "kept_retry": false,
+    "kept_ok": false,
+    "after": {
+     "company": "MR D I Y SDN BHD",
+     "date": "2019-09-17",
+     "total": 15.9
+    },
+    "cost_usd": 0.000541
+   },
+   "guided": {
+    "after_ok": true,
+    "after_flags": [],
+    "kept_retry": true,
+    "kept_ok": true,
+    "after": {
+     "company": "MR D I Y SDN BHD",
+     "date": "2017-09-19",
+     "total": 15.9
+    },
+    "cost_usd": 0.000575
+   }
+  },
+  {
+   "key": "X51005568887",
+   "field": "date",
+   "flags": [
+    "G_AGREE_DATE"
+   ],
+   "before_ok": false,
+   "before": {
+    "company": "HON HWA HARDWARE TRADING",
+    "date": "2017-04-28",
+    "total": 7.2
+   },
+   "blind": {
+    "after_ok": false,
+    "after_flags": [
+     "G_AGREE_DATE"
+    ],
+    "kept_retry": false,
+    "kept_ok": false,
+    "after": {
+     "company": "HON HWA HARDWARE TRADING",
+     "date": "2017-04-28",
+     "total": 7.2
+    },
+    "cost_usd": 0.000539
+   },
+   "guided": {
+    "after_ok": false,
+    "after_flags": [
+     "G_AGREE_DATE"
+    ],
+    "kept_retry": false,
+    "kept_ok": false,
+    "after": {
+     "company": "HON HWA HARDWARE TRADING",
+     "date": "2017-04-28",
+     "total": 7.2
+    },
+    "cost_usd": 0.000564
+   }
+  },
+  {
+   "key": "X51005663298",
+   "field": "total",
+   "flags": [
+    "G_ARITH"
+   ],
+   "before_ok": true,
+   "before": {
+    "company": "AL MENDIS THE MINES",
+    "date": "2018-03-21",
+    "total": 48.15
+   },
+   "blind": {
+    "after_ok": true,
+    "after_flags": [
+     "G_ARITH"
+    ],
+    "kept_retry": false,
+    "kept_ok": true,
+    "after": {
+     "company": "AL MENDIS THE MINES",
+     "date": "2018-03-21",
+     "total": 48.15
+    },
+    "cost_usd": 0.000579
+   },
+   "guided": {
+    "after_ok": true,
+    "after_flags": [],
+    "kept_retry": true,
+    "kept_ok": true,
+    "after": {
+     "company": "AL MENDIS THE MINES",
+     "date": "2018-03-21",
+     "total": 48.15
+    },
+    "cost_usd": 0.00061
+   }
+  },
+  {
+   "key": "X51005675914",
+   "field": "date",
+   "flags": [
+    "G_AGREE_DATE"
+   ],
+   "before_ok": true,
+   "before": {
+    "company": "BEYOND BROTHERS HARDWARE",
+    "date": "2017-11-10",
+    "total": 67.85
+   },
+   "blind": {
+    "after_ok": true,
+    "after_flags": [
+     "G_AGREE_DATE"
+    ],
+    "kept_retry": false,
+    "kept_ok": true,
+    "after": {
+     "company": "BEYOND BROTHERS HARDWARE",
+     "date": "2017-11-10",
+     "total": 67.85
+    },
+    "cost_usd": 0.000552
+   },
+   "guided": {
+    "after_ok": true,
+    "after_flags": [
+     "G_AGREE_DATE"
+    ],
+    "kept_retry": false,
+    "kept_ok": true,
+    "after": {
+     "company": "BEYOND BROTHERS HARDWARE",
+     "date": "2017-11-10",
+     "total": 67.85
+    },
+    "cost_usd": 0.000579
+   }
+  },
+  {
+   "key": "X51005719857",
+   "field": "total",
+   "flags": [
+    "G_ARITH"
+   ],
+   "before_ok": true,
+   "before": {
+    "company": "SALON DU CHOCOLAT",
+    "date": "2018-02-19",
+    "total": 23.8
+   },
+   "blind": {
+    "after_ok": true,
+    "after_flags": [
+     "G_ARITH"
+    ],
+    "kept_retry": false,
+    "kept_ok": true,
+    "after": {
+     "company": "ALI BABA INTERNATIONAL SDN BHD",
+     "date": "2018-02-19",
+     "total": 23.8
+    },
+    "cost_usd": 0.000573
+   },
+   "guided": {
+    "after_ok": true,
+    "after_flags": [
+     "G_ARITH"
+    ],
+    "kept_retry": false,
+    "kept_ok": true,
+    "after": {
+     "company": "SALON DU CHOCOLAT",
+     "date": "2018-02-19",
+     "total": 23.8
+    },
+    "cost_usd": 0.000586
+   }
+  },
+  {
+   "key": "X51005719893",
+   "field": "date",
+   "flags": [
+    "G_AGREE_DATE"
+   ],
+   "before_ok": true,
+   "before": {
+    "company": "MR DAKGALBI SOLARIS",
+    "date": "2018-01-05",
+    "total": 71.0
+   },
+   "blind": {
+    "after_ok": true,
+    "after_flags": [
+     "G_AGREE_DATE"
+    ],
+    "kept_retry": false,
+    "kept_ok": true,
+    "after": {
+     "company": "MR DAKGALBI SOLARIS",
+     "date": "2018-01-05",
+     "total": 71.0
+    },
+    "cost_usd": 0.000535
+   },
+   "guided": {
+    "after_ok": true,
+    "after_flags": [
+     "G_AGREE_DATE"
+    ],
+    "kept_retry": false,
+    "kept_ok": true,
+    "after": {
+     "company": "MR DAKGALBI SOLARIS",
+     "date": "2018-01-05",
+     "total": 71.0
+    },
+    "cost_usd": 0.00056
+   }
+  },
+  {
+   "key": "X51006008092",
+   "field": "date",
+   "flags": [
+    "G_AGREE_DATE"
+   ],
+   "before_ok": false,
+   "before": {
+    "company": "POPULAR BOOK CO SDN BHD",
+    "date": "2018-03-08",
+    "total": 30.7
+   },
+   "blind": {
+    "after_ok": false,
+    "after_flags": [
+     "G_AGREE_DATE"
+    ],
+    "kept_retry": false,
+    "kept_ok": false,
+    "after": {
+     "company": "POPULAR BOOK CO SDN BHD",
+     "date": "2018-03-08",
+     "total": 30.7
+    },
+    "cost_usd": 0.000545
+   },
+   "guided": {
+    "after_ok": false,
+    "after_flags": [
+     "G_AGREE_DATE"
+    ],
+    "kept_retry": false,
+    "kept_ok": false,
+    "after": {
+     "company": "POPULAR BOOK CO SDN BHD",
+     "date": "2018-03-08",
+     "total": 30.7
+    },
+    "cost_usd": 0.000579
+   }
+  },
+  {
+   "key": "X51006387813",
+   "field": "total",
+   "flags": [
+    "G_ARITH"
+   ],
+   "before_ok": true,
+   "before": {
+    "company": "TOKYO KITCHEN",
+    "date": "2017-04-23",
+    "total": 113.8
+   },
+   "blind": {
+    "after_ok": true,
+    "after_flags": [
+     "G_ARITH"
+    ],
+    "kept_retry": false,
+    "kept_ok": true,
+    "after": {
+     "company": "TOKYO KITCHEN",
+     "date": "2017-04-23",
+     "total": 113.8
+    },
+    "cost_usd": 0.000562
+   },
+   "guided": {
+    "after_ok": true,
+    "after_flags": [
+     "G_ARITH"
+    ],
+    "kept_retry": false,
+    "kept_ok": true,
+    "after": {
+     "company": "TOKYO KITCHEN",
+     "date": "2017-04-23",
+     "total": 113.8
+    },
+    "cost_usd": 0.000616
+   }
+  },
+  {
+   "key": "X51006388065",
+   "field": "total",
+   "flags": [
+    "G_ARITH"
+   ],
+   "before_ok": false,
+   "before": {
+    "company": "99 SPEED MART",
+    "date": "2017-05-21",
+    "total": 20.9
+   },
+   "blind": {
+    "after_ok": false,
+    "after_flags": [
+     "G_ARITH"
+    ],
+    "kept_retry": false,
+    "kept_ok": false,
+    "after": {
+     "company": "99 SPEED MART",
+     "date": "2017-05-21",
+     "total": 20.9
+    },
+    "cost_usd": 0.000533
+   },
+   "guided": {
+    "after_ok": false,
+    "after_flags": [],
+    "kept_retry": true,
+    "kept_ok": false,
+    "after": {
+     "company": "99 SPEED MART",
+     "date": "2017-05-21",
+     "total": 20.9
+    },
+    "cost_usd": 0.000609
+   }
+  },
+  {
+   "key": "X51006414532",
+   "field": "total",
+   "flags": [
+    "G_ARITH"
+   ],
+   "before_ok": true,
+   "before": {
+    "company": "THE GEOVENTURE",
+    "date": "2018-04-06",
+    "total": 98.0
+   },
+   "blind": {
+    "after_ok": true,
+    "after_flags": [
+     "G_ARITH"
+    ],
+    "kept_retry": false,
+    "kept_ok": true,
+    "after": {
+     "company": "THE GEOVENTURE",
+     "date": "2018-04-06",
+     "total": 98.0
+    },
+    "cost_usd": 0.00054
+   },
+   "guided": {
+    "after_ok": false,
+    "after_flags": [
+     "G_ARITH"
+    ],
+    "kept_retry": false,
+    "kept_ok": true,
+    "after": {
+     "company": "THE GEOVENTURE",
+     "date": "2018-06-04",
+     "total": 98.0
+    },
+    "cost_usd": 0.000629
+   }
+  },
+  {
+   "key": "X51006466778",
+   "field": "date",
+   "flags": [
+    "G_DATE"
+   ],
+   "before_ok": false,
+   "before": {
+    "company": "THE ROTI MAN BAKERY",
+    "date": "2013-05-04",
+    "total": 20.4
+   },
+   "blind": {
+    "after_ok": false,
+    "after_flags": [
+     "G_DATE"
+    ],
+    "kept_retry": false,
+    "kept_ok": false,
+    "after": {
+     "company": "THE ROTI MAN BAKERY",
+     "date": "2013-05-04",
+     "total": 20.4
+    },
+    "cost_usd": 0.000535
+   },
+   "guided": {
+    "after_ok": false,
+    "after_flags": [
+     "G_DATE"
+    ],
+    "kept_retry": false,
+    "kept_ok": false,
+    "after": {
+     "company": "THE ROTI MAN BAKERY",
+     "date": "2013-05-04",
+     "total": 20.4
+    },
+    "cost_usd": 0.000551
+   }
+  },
+  {
+   "key": "X51006502534",
+   "field": "total",
+   "flags": [
+    "G_AGREE_TOTAL"
+   ],
+   "before_ok": true,
+   "before": {
+    "company": "FAMILYMART",
+    "date": "2018-04-10",
+    "total": 5.8
+   },
+   "blind": {
+    "after_ok": true,
+    "after_flags": [
+     "G_AGREE_TOTAL"
+    ],
+    "kept_retry": false,
+    "kept_ok": true,
+    "after": {
+     "company": "FAMILYMART",
+     "date": "2018-04-10",
+     "total": 5.8
+    },
+    "cost_usd": 0.000528
+   },
+   "guided": {
+    "after_ok": true,
+    "after_flags": [
+     "G_AGREE_TOTAL"
+    ],
+    "kept_retry": false,
+    "kept_ok": true,
+    "after": {
+     "company": "FAMILYMART",
+     "date": "2018-04-10",
+     "total": 5.8
+    },
+    "cost_usd": 0.000547
+   }
+  },
+  {
+   "key": "X51006555806",
+   "field": "total",
+   "flags": [
+    "G_RANGE"
+   ],
+   "before_ok": true,
+   "before": {
+    "company": "GARDENIA BAKERIES SDN BHD",
+    "date": "2017-07-30",
+    "total": 20.21
+   },
+   "blind": {
+    "after_ok": true,
+    "after_flags": [
+     "G_RANGE"
+    ],
+    "kept_retry": false,
+    "kept_ok": true,
+    "after": {
+     "company": "GARDENIA BAKERIES SDN BHD",
+     "date": "2017-07-30",
+     "total": 20.21
+    },
+    "cost_usd": 0.000583
+   },
+   "guided": {
+    "after_ok": true,
+    "after_flags": [
+     "G_RANGE"
+    ],
+    "kept_retry": false,
+    "kept_ok": true,
+    "after": {
+     "company": "GARDENIA BAKERIES SDN BHD",
+     "date": "2017-07-30",
+     "total": 20.21
+    },
+    "cost_usd": 0.000596
+   }
+  },
+  {
+   "key": "X51006555819",
+   "field": "total",
+   "flags": [
+    "G_AGREE_TOTAL"
+   ],
+   "before_ok": true,
+   "before": {
+    "company": "GARDENIA BAKERIES SDN BHD",
+    "date": "2017-07-23",
+    "total": 26.58
+   },
+   "blind": {
+    "after_ok": true,
+    "after_flags": [
+     "G_AGREE_TOTAL"
+    ],
+    "kept_retry": false,
+    "kept_ok": true,
+    "after": {
+     "company": "GARDENIA BAKERIES SDN BHD",
+     "date": "2017-07-23",
+     "total": 26.58
+    },
+    "cost_usd": 0.000534
+   },
+   "guided": {
+    "after_ok": true,
+    "after_flags": [
+     "G_AGREE_TOTAL"
+    ],
+    "kept_retry": false,
+    "kept_ok": true,
+    "after": {
+     "company": "GARDENIA BAKERIES SDN BHD",
+     "date": "2017-07-23",
+     "total": 26.58
+    },
+    "cost_usd": 0.000557
+   }
+  },
+  {
+   "key": "X51006619785",
+   "field": "total",
+   "flags": [
+    "G_AGREE_TOTAL"
+   ],
+   "before_ok": true,
+   "before": {
+    "company": "ECOSWAY COM SDN BHD",
+    "date": "2016-07-29",
+    "total": 78.3
+   },
+   "blind": {
+    "after_ok": true,
+    "after_flags": [
+     "G_AGREE_TOTAL"
+    ],
+    "kept_retry": false,
+    "kept_ok": true,
+    "after": {
+     "company": "ECOSWAY COM SDN BHD",
+     "date": "2016-07-29",
+     "total": 78.3
+    },
+    "cost_usd": 0.000539
+   },
+   "guided": {
+    "after_ok": true,
+    "after_flags": [
+     "G_AGREE_TOTAL"
+    ],
+    "kept_retry": false,
+    "kept_ok": true,
+    "after": {
+     "company": "ECOSWAY COM SDN BHD",
+     "date": "2016-07-29",
+     "total": 78.3
+    },
+    "cost_usd": 0.00056
+   }
+  },
+  {
+   "key": "X51006647932",
+   "field": "total",
+   "flags": [
+    "G_ARITH"
+   ],
+   "before_ok": true,
+   "before": {
+    "company": "UROKO JAPANESE CUISINE SDN BHD",
+    "date": "2018-05-14",
+    "total": 87.1
+   },
+   "blind": {
+    "after_ok": true,
+    "after_flags": [
+     "G_ARITH"
+    ],
+    "kept_retry": false,
+    "kept_ok": true,
+    "after": {
+     "company": "UROKO JAPANESE CUISINE SDN BHD",
+     "date": "2018-05-14",
+     "total": 87.1
+    },
+    "cost_usd": 0.000579
+   },
+   "guided": {
+    "after_ok": true,
+    "after_flags": [
+     "G_ARITH"
+    ],
+    "kept_retry": false,
+    "kept_ok": true,
+    "after": {
+     "company": "UROKO JAPANESE CUISINE SDN BHD",
+     "date": "2018-05-14",
+     "total": 87.1
+    },
+    "cost_usd": 0.000617
+   }
+  },
+  {
+   "key": "X51007579725",
+   "field": "total",
+   "flags": [
+    "G_ARITH"
+   ],
+   "before_ok": true,
+   "before": {
+    "company": "THONG RECIPE",
+    "date": "2018-06-27",
+    "total": 58.7
+   },
+   "blind": {
+    "after_ok": true,
+    "after_flags": [
+     "G_ARITH"
+    ],
+    "kept_retry": false,
+    "kept_ok": true,
+    "after": {
+     "company": "THONG RECIPE",
+     "date": "2018-06-27",
+     "total": 58.7
+    },
+    "cost_usd": 0.000558
+   },
+   "guided": {
+    "after_ok": true,
+    "after_flags": [
+     "G_ARITH"
+    ],
+    "kept_retry": false,
+    "kept_ok": true,
+    "after": {
+     "company": "THONG RECIPE",
+     "date": "2018-06-27",
+     "total": 58.7
+    },
+    "cost_usd": 0.000592
+   }
+  },
+  {
+   "key": "X51008042783",
+   "field": "date",
+   "flags": [
+    "G_AGREE_DATE"
+   ],
+   "before_ok": true,
+   "before": {
+    "company": "GERBANG ALAF RESTAURANTS SDN BHD",
+    "date": "2018-05-11",
+    "total": 18.9
+   },
+   "blind": {
+    "after_ok": true,
+    "after_flags": [
+     "G_AGREE_DATE"
+    ],
+    "kept_retry": false,
+    "kept_ok": true,
+    "after": {
+     "company": "GERBANG ALAF RESTAURANTS SDN BHD",
+     "date": "2018-05-11",
+     "total": 18.9
+    },
+    "cost_usd": 0.000529
+   },
+   "guided": {
+    "after_ok": true,
+    "after_flags": [
+     "G_AGREE_DATE"
+    ],
+    "kept_retry": false,
+    "kept_ok": true,
+    "after": {
+     "company": "GERBANG ALAF RESTAURANTS SDN BHD",
+     "date": "2018-05-11",
+     "total": 18.9
+    },
+    "cost_usd": 0.000553
+   }
+  }
+ ]
+}

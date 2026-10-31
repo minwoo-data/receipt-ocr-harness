@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.6-flash",
+ "provider": "gemini",
+ "raw_text": "{\"vendor\": \"AIK HUAT HARDWARE ENTERPRISE (SETIA ALAM) SDN BHD\", \"date\": \"2017-09-12\", \"subtotal\": 28.3, \"tax\": 1.7, \"tip\": null, \"discount\": null, \"total\": 30.0, \"currency\": \"MYR\", \"confidence\": 0.95, \"notes\": null}",
+ "data": {
+  "vendor": "AIK HUAT HARDWARE ENTERPRISE (SETIA ALAM) SDN BHD",
+  "date": "2017-09-12",
+  "subtotal": 28.3,
+  "tax": 1.7,
+  "tip": null,
+  "discount": null,
+  "total": 30.0,
+  "currency": "MYR",
+  "confidence": 0.95,
+  "notes": null
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1471,
+  "output_tokens": 97,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.001467,
+ "latency_ms": 1474,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.6-flash",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.6-flash"
+ ],
+ "key": "X51007339648"
+}

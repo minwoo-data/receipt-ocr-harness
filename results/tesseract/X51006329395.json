@@ -1,0 +1,365 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "ee",
+  ". 7",
+  "yy ‘",
+  "B & BEST RESTAURANT",
+  "(001610235-P)",
+  "GST NO. : 001800839168",
+  "@ 0.12 sen’ s840/5,PETALING JAYA",
+  "SELANGOR DARUL EHSAN",
+  "TEL : 012-2060 778",
+  "¥ATAX INVOICE +*",
+  "BILL NO: 00118887 / POSO1",
+  "BIZDATE: 10/02/2017",
+  "CASHIER: Manager",
+  "PRINTED: 10/02/2317 01:09:47 PM RM",
+  "] FISHBALL NOODLE 7.00",
+  "1 SUB TO1' 7.00",
+  "GST 6% naa",
+  "ROUNDING ADJ -0.02",
+  "NET TOTAL 7.40",
+  "Cash 7i4u",
+  "CHANGE 0,00",
+  "@ Thank You...Please Come Again...",
+  "https://m. facebook .com/B-Best-Restaurant",
+  "All Item Will Be Charges GST",
+  "; ry"
+ ],
+ "tokens": [
+  {
+   "text": "ee",
+   "conf": 0.14
+  },
+  {
+   "text": ".",
+   "conf": 0.24
+  },
+  {
+   "text": "7",
+   "conf": 0.26
+  },
+  {
+   "text": "yy",
+   "conf": 0.03
+  },
+  {
+   "text": "‘",
+   "conf": 0.58
+  },
+  {
+   "text": "B",
+   "conf": 0.87
+  },
+  {
+   "text": "&",
+   "conf": 0.86
+  },
+  {
+   "text": "BEST",
+   "conf": 0.95
+  },
+  {
+   "text": "RESTAURANT",
+   "conf": 0.96
+  },
+  {
+   "text": "(001610235-P)",
+   "conf": 0.88
+  },
+  {
+   "text": "GST",
+   "conf": 0.68
+  },
+  {
+   "text": "NO.",
+   "conf": 0.68
+  },
+  {
+   "text": ":",
+   "conf": 0.91
+  },
+  {
+   "text": "001800839168",
+   "conf": 0.96
+  },
+  {
+   "text": "@",
+   "conf": 0.83
+  },
+  {
+   "text": "0.12",
+   "conf": 0.34
+  },
+  {
+   "text": "sen’",
+   "conf": 0.24
+  },
+  {
+   "text": "s840/5,PETALING",
+   "conf": 0.0
+  },
+  {
+   "text": "JAYA",
+   "conf": 0.8
+  },
+  {
+   "text": "SELANGOR",
+   "conf": 0.75
+  },
+  {
+   "text": "DARUL",
+   "conf": 0.92
+  },
+  {
+   "text": "EHSAN",
+   "conf": 0.96
+  },
+  {
+   "text": "TEL",
+   "conf": 0.89
+  },
+  {
+   "text": ":",
+   "conf": 0.89
+  },
+  {
+   "text": "012-2060",
+   "conf": 0.96
+  },
+  {
+   "text": "778",
+   "conf": 0.95
+  },
+  {
+   "text": "¥ATAX",
+   "conf": 0.41
+  },
+  {
+   "text": "INVOICE",
+   "conf": 0.0
+  },
+  {
+   "text": "+*",
+   "conf": 0.0
+  },
+  {
+   "text": "BILL",
+   "conf": 0.96
+  },
+  {
+   "text": "NO:",
+   "conf": 0.96
+  },
+  {
+   "text": "00118887",
+   "conf": 0.35
+  },
+  {
+   "text": "/",
+   "conf": 0.92
+  },
+  {
+   "text": "POSO1",
+   "conf": 0.66
+  },
+  {
+   "text": "BIZDATE:",
+   "conf": 0.92
+  },
+  {
+   "text": "10/02/2017",
+   "conf": 0.96
+  },
+  {
+   "text": "CASHIER:",
+   "conf": 0.94
+  },
+  {
+   "text": "Manager",
+   "conf": 0.96
+  },
+  {
+   "text": "PRINTED:",
+   "conf": 0.96
+  },
+  {
+   "text": "10/02/2317",
+   "conf": 0.6
+  },
+  {
+   "text": "01:09:47",
+   "conf": 0.96
+  },
+  {
+   "text": "PM",
+   "conf": 0.96
+  },
+  {
+   "text": "RM",
+   "conf": 0.94
+  },
+  {
+   "text": "]",
+   "conf": 0.84
+  },
+  {
+   "text": "FISHBALL",
+   "conf": 0.42
+  },
+  {
+   "text": "NOODLE",
+   "conf": 0.96
+  },
+  {
+   "text": "7.00",
+   "conf": 0.83
+  },
+  {
+   "text": "1",
+   "conf": 0.71
+  },
+  {
+   "text": "SUB",
+   "conf": 0.92
+  },
+  {
+   "text": "TO1'",
+   "conf": 0.03
+  },
+  {
+   "text": "7.00",
+   "conf": 0.66
+  },
+  {
+   "text": "GST",
+   "conf": 0.96
+  },
+  {
+   "text": "6%",
+   "conf": 0.96
+  },
+  {
+   "text": "naa",
+   "conf": 0.18
+  },
+  {
+   "text": "ROUNDING",
+   "conf": 0.96
+  },
+  {
+   "text": "ADJ",
+   "conf": 0.95
+  },
+  {
+   "text": "-0.02",
+   "conf": 0.9
+  },
+  {
+   "text": "NET",
+   "conf": 0.96
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.96
+  },
+  {
+   "text": "7.40",
+   "conf": 0.75
+  },
+  {
+   "text": "Cash",
+   "conf": 0.96
+  },
+  {
+   "text": "7i4u",
+   "conf": 0.0
+  },
+  {
+   "text": "CHANGE",
+   "conf": 0.96
+  },
+  {
+   "text": "0,00",
+   "conf": 0.79
+  },
+  {
+   "text": "@",
+   "conf": 0.41
+  },
+  {
+   "text": "Thank",
+   "conf": 0.92
+  },
+  {
+   "text": "You...Please",
+   "conf": 0.89
+  },
+  {
+   "text": "Come",
+   "conf": 0.96
+  },
+  {
+   "text": "Again...",
+   "conf": 0.95
+  },
+  {
+   "text": "https://m.",
+   "conf": 0.75
+  },
+  {
+   "text": "facebook",
+   "conf": 0.9
+  },
+  {
+   "text": ".com/B-Best-Restaurant",
+   "conf": 0.85
+  },
+  {
+   "text": "All",
+   "conf": 0.9
+  },
+  {
+   "text": "Item",
+   "conf": 0.96
+  },
+  {
+   "text": "Will",
+   "conf": 0.91
+  },
+  {
+   "text": "Be",
+   "conf": 0.96
+  },
+  {
+   "text": "Charges",
+   "conf": 0.95
+  },
+  {
+   "text": "GST",
+   "conf": 0.95
+  },
+  {
+   "text": ";",
+   "conf": 0.4
+  },
+  {
+   "text": "ry",
+   "conf": 0.04
+  }
+ ],
+ "mean_conf": 0.7294,
+ "low_conf_share": 0.225,
+ "latency_ms": 1670,
+ "fields": {
+  "company": "B BEST RESTAURANT",
+  "date": "2017-02-10",
+  "total": 7.4
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  7.4
+ ],
+ "key": "X51006329395"
+}

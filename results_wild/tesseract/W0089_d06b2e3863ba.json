@@ -1,0 +1,783 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "KFC KL CENTRAL",
+  "Te) s0193359902",
+  "he 1010281",
+  "WW. KfC com, my",
+  "es a BHO. (1096054-H)",
+  "Jal ale quare@PJ City Centre",
+  "alan Utara 46200 Petaling Jaya",
+  "Selangor Darul Ehsan",
+  "L Witt code: SO45012, |",
+  "SVC TAX ID: W10-1808-32000273",
+  "3 COUNTERS 2 NUR ZILA",
+  "Check :1234",
+  "21 Sep 18 19:47:16",
+  "2 TSNKER BOX ORE E @8.40 16.80",
+  "2 STRAW REG E # E",
+  "1 NUGG BOX OR E E 10.30",
+  "STRAW REG E # E",
+  "1 T SNTURE BX ORE E 13.75",
+  "STRAW REG E # E",
+  "1 RICE ALA CARTE E E 3.00",
+  "CASH 50,00",
+  "Total item sold: — a",
+  "Sub Total 43.85 \\",
+  "a Service Tax @6% 2.63",
+  "Total: 46.48",
+  "Rnd Adj 0,02",
+  "Tt] Aft Rnd 46.50",
+  "| Payment 50.00",
+  ": Change Due 3.50",
+  "-----22 GLOSED 21, Sep 18 1914/130senemee :",
+  "=\"",
+  "(Original or Spicy) at 10% discount on _",
+  "next visit to any KFC restaurant.",
+  "- Complete a brief survey at",
+  "Pw. kic.com.my/teedback |",
+  "within 3 days of this receipt's date.",
+  "- Get your Validation Code :",
+  "when you have completed the survey",
+  "‘enjoy this great offer within 30 days"
+ ],
+ "tokens": [
+  {
+   "text": "KFC",
+   "conf": 0.69
+  },
+  {
+   "text": "KL",
+   "conf": 0.89
+  },
+  {
+   "text": "CENTRAL",
+   "conf": 0.89
+  },
+  {
+   "text": "Te)",
+   "conf": 0.24
+  },
+  {
+   "text": "s0193359902",
+   "conf": 0.24
+  },
+  {
+   "text": "he",
+   "conf": 0.04
+  },
+  {
+   "text": "1010281",
+   "conf": 0.76
+  },
+  {
+   "text": "WW.",
+   "conf": 0.16
+  },
+  {
+   "text": "KfC",
+   "conf": 0.16
+  },
+  {
+   "text": "com,",
+   "conf": 0.21
+  },
+  {
+   "text": "my",
+   "conf": 0.33
+  },
+  {
+   "text": "es",
+   "conf": 0.28
+  },
+  {
+   "text": "a",
+   "conf": 0.41
+  },
+  {
+   "text": "BHO.",
+   "conf": 0.79
+  },
+  {
+   "text": "(1096054-H)",
+   "conf": 0.37
+  },
+  {
+   "text": "Jal",
+   "conf": 0.91
+  },
+  {
+   "text": "ale",
+   "conf": 0.36
+  },
+  {
+   "text": "quare@PJ",
+   "conf": 0.45
+  },
+  {
+   "text": "City",
+   "conf": 0.96
+  },
+  {
+   "text": "Centre",
+   "conf": 0.96
+  },
+  {
+   "text": "alan",
+   "conf": 0.4
+  },
+  {
+   "text": "Utara",
+   "conf": 0.94
+  },
+  {
+   "text": "46200",
+   "conf": 0.96
+  },
+  {
+   "text": "Petaling",
+   "conf": 0.96
+  },
+  {
+   "text": "Jaya",
+   "conf": 0.96
+  },
+  {
+   "text": "Selangor",
+   "conf": 0.96
+  },
+  {
+   "text": "Darul",
+   "conf": 0.7
+  },
+  {
+   "text": "Ehsan",
+   "conf": 0.96
+  },
+  {
+   "text": "L",
+   "conf": 0.0
+  },
+  {
+   "text": "Witt",
+   "conf": 0.0
+  },
+  {
+   "text": "code:",
+   "conf": 0.83
+  },
+  {
+   "text": "SO45012,",
+   "conf": 0.0
+  },
+  {
+   "text": "|",
+   "conf": 0.3
+  },
+  {
+   "text": "SVC",
+   "conf": 0.81
+  },
+  {
+   "text": "TAX",
+   "conf": 0.81
+  },
+  {
+   "text": "ID:",
+   "conf": 0.92
+  },
+  {
+   "text": "W10-1808-32000273",
+   "conf": 0.69
+  },
+  {
+   "text": "3",
+   "conf": 0.88
+  },
+  {
+   "text": "COUNTERS",
+   "conf": 0.74
+  },
+  {
+   "text": "2",
+   "conf": 0.75
+  },
+  {
+   "text": "NUR",
+   "conf": 0.75
+  },
+  {
+   "text": "ZILA",
+   "conf": 0.87
+  },
+  {
+   "text": "Check",
+   "conf": 0.9
+  },
+  {
+   "text": ":1234",
+   "conf": 0.66
+  },
+  {
+   "text": "21",
+   "conf": 0.95
+  },
+  {
+   "text": "Sep",
+   "conf": 0.95
+  },
+  {
+   "text": "18",
+   "conf": 0.95
+  },
+  {
+   "text": "19:47:16",
+   "conf": 0.96
+  },
+  {
+   "text": "2",
+   "conf": 0.91
+  },
+  {
+   "text": "TSNKER",
+   "conf": 0.65
+  },
+  {
+   "text": "BOX",
+   "conf": 0.92
+  },
+  {
+   "text": "ORE",
+   "conf": 0.74
+  },
+  {
+   "text": "E",
+   "conf": 0.7
+  },
+  {
+   "text": "@8.40",
+   "conf": 0.67
+  },
+  {
+   "text": "16.80",
+   "conf": 0.82
+  },
+  {
+   "text": "2",
+   "conf": 0.8
+  },
+  {
+   "text": "STRAW",
+   "conf": 0.77
+  },
+  {
+   "text": "REG",
+   "conf": 0.77
+  },
+  {
+   "text": "E",
+   "conf": 0.78
+  },
+  {
+   "text": "#",
+   "conf": 0.7
+  },
+  {
+   "text": "E",
+   "conf": 0.7
+  },
+  {
+   "text": "1",
+   "conf": 0.75
+  },
+  {
+   "text": "NUGG",
+   "conf": 0.75
+  },
+  {
+   "text": "BOX",
+   "conf": 0.94
+  },
+  {
+   "text": "OR",
+   "conf": 0.9
+  },
+  {
+   "text": "E",
+   "conf": 0.88
+  },
+  {
+   "text": "E",
+   "conf": 0.88
+  },
+  {
+   "text": "10.30",
+   "conf": 0.94
+  },
+  {
+   "text": "STRAW",
+   "conf": 0.94
+  },
+  {
+   "text": "REG",
+   "conf": 0.87
+  },
+  {
+   "text": "E",
+   "conf": 0.87
+  },
+  {
+   "text": "#",
+   "conf": 0.64
+  },
+  {
+   "text": "E",
+   "conf": 0.64
+  },
+  {
+   "text": "1",
+   "conf": 0.73
+  },
+  {
+   "text": "T",
+   "conf": 0.73
+  },
+  {
+   "text": "SNTURE",
+   "conf": 0.77
+  },
+  {
+   "text": "BX",
+   "conf": 0.96
+  },
+  {
+   "text": "ORE",
+   "conf": 0.65
+  },
+  {
+   "text": "E",
+   "conf": 0.85
+  },
+  {
+   "text": "13.75",
+   "conf": 0.88
+  },
+  {
+   "text": "STRAW",
+   "conf": 0.94
+  },
+  {
+   "text": "REG",
+   "conf": 0.93
+  },
+  {
+   "text": "E",
+   "conf": 0.9
+  },
+  {
+   "text": "#",
+   "conf": 0.76
+  },
+  {
+   "text": "E",
+   "conf": 0.76
+  },
+  {
+   "text": "1",
+   "conf": 0.72
+  },
+  {
+   "text": "RICE",
+   "conf": 0.9
+  },
+  {
+   "text": "ALA",
+   "conf": 0.92
+  },
+  {
+   "text": "CARTE",
+   "conf": 0.92
+  },
+  {
+   "text": "E",
+   "conf": 0.8
+  },
+  {
+   "text": "E",
+   "conf": 0.84
+  },
+  {
+   "text": "3.00",
+   "conf": 0.95
+  },
+  {
+   "text": "CASH",
+   "conf": 0.96
+  },
+  {
+   "text": "50,00",
+   "conf": 0.84
+  },
+  {
+   "text": "Total",
+   "conf": 0.93
+  },
+  {
+   "text": "item",
+   "conf": 0.94
+  },
+  {
+   "text": "sold:",
+   "conf": 0.93
+  },
+  {
+   "text": "—",
+   "conf": 0.57
+  },
+  {
+   "text": "a",
+   "conf": 0.36
+  },
+  {
+   "text": "Sub",
+   "conf": 0.94
+  },
+  {
+   "text": "Total",
+   "conf": 0.96
+  },
+  {
+   "text": "43.85",
+   "conf": 0.71
+  },
+  {
+   "text": "\\",
+   "conf": 0.76
+  },
+  {
+   "text": "a",
+   "conf": 0.07
+  },
+  {
+   "text": "Service",
+   "conf": 0.96
+  },
+  {
+   "text": "Tax",
+   "conf": 0.93
+  },
+  {
+   "text": "@6%",
+   "conf": 0.91
+  },
+  {
+   "text": "2.63",
+   "conf": 0.89
+  },
+  {
+   "text": "Total:",
+   "conf": 0.96
+  },
+  {
+   "text": "46.48",
+   "conf": 0.73
+  },
+  {
+   "text": "Rnd",
+   "conf": 0.95
+  },
+  {
+   "text": "Adj",
+   "conf": 0.92
+  },
+  {
+   "text": "0,02",
+   "conf": 0.87
+  },
+  {
+   "text": "Tt]",
+   "conf": 0.55
+  },
+  {
+   "text": "Aft",
+   "conf": 0.96
+  },
+  {
+   "text": "Rnd",
+   "conf": 0.96
+  },
+  {
+   "text": "46.50",
+   "conf": 0.58
+  },
+  {
+   "text": "|",
+   "conf": 0.83
+  },
+  {
+   "text": "Payment",
+   "conf": 0.95
+  },
+  {
+   "text": "50.00",
+   "conf": 0.84
+  },
+  {
+   "text": ":",
+   "conf": 0.24
+  },
+  {
+   "text": "Change",
+   "conf": 0.96
+  },
+  {
+   "text": "Due",
+   "conf": 0.96
+  },
+  {
+   "text": "3.50",
+   "conf": 0.92
+  },
+  {
+   "text": "-----22",
+   "conf": 0.0
+  },
+  {
+   "text": "GLOSED",
+   "conf": 0.28
+  },
+  {
+   "text": "21,",
+   "conf": 0.78
+  },
+  {
+   "text": "Sep",
+   "conf": 0.46
+  },
+  {
+   "text": "18",
+   "conf": 0.46
+  },
+  {
+   "text": "1914/130senemee",
+   "conf": 0.0
+  },
+  {
+   "text": ":",
+   "conf": 0.1
+  },
+  {
+   "text": "=\"",
+   "conf": 0.34
+  },
+  {
+   "text": "(Original",
+   "conf": 0.79
+  },
+  {
+   "text": "or",
+   "conf": 0.96
+  },
+  {
+   "text": "Spicy)",
+   "conf": 0.96
+  },
+  {
+   "text": "at",
+   "conf": 0.96
+  },
+  {
+   "text": "10%",
+   "conf": 0.96
+  },
+  {
+   "text": "discount",
+   "conf": 0.96
+  },
+  {
+   "text": "on",
+   "conf": 0.96
+  },
+  {
+   "text": "_",
+   "conf": 0.0
+  },
+  {
+   "text": "next",
+   "conf": 0.96
+  },
+  {
+   "text": "visit",
+   "conf": 0.96
+  },
+  {
+   "text": "to",
+   "conf": 0.96
+  },
+  {
+   "text": "any",
+   "conf": 0.96
+  },
+  {
+   "text": "KFC",
+   "conf": 0.96
+  },
+  {
+   "text": "restaurant.",
+   "conf": 0.95
+  },
+  {
+   "text": "-",
+   "conf": 0.9
+  },
+  {
+   "text": "Complete",
+   "conf": 0.96
+  },
+  {
+   "text": "a",
+   "conf": 0.96
+  },
+  {
+   "text": "brief",
+   "conf": 0.96
+  },
+  {
+   "text": "survey",
+   "conf": 0.95
+  },
+  {
+   "text": "at",
+   "conf": 0.95
+  },
+  {
+   "text": "Pw.",
+   "conf": 0.27
+  },
+  {
+   "text": "kic.com.my/teedback",
+   "conf": 0.41
+  },
+  {
+   "text": "|",
+   "conf": 0.51
+  },
+  {
+   "text": "within",
+   "conf": 0.96
+  },
+  {
+   "text": "3",
+   "conf": 0.95
+  },
+  {
+   "text": "days",
+   "conf": 0.95
+  },
+  {
+   "text": "of",
+   "conf": 0.96
+  },
+  {
+   "text": "this",
+   "conf": 0.92
+  },
+  {
+   "text": "receipt's",
+   "conf": 0.73
+  },
+  {
+   "text": "date.",
+   "conf": 0.96
+  },
+  {
+   "text": "-",
+   "conf": 0.89
+  },
+  {
+   "text": "Get",
+   "conf": 0.96
+  },
+  {
+   "text": "your",
+   "conf": 0.96
+  },
+  {
+   "text": "Validation",
+   "conf": 0.96
+  },
+  {
+   "text": "Code",
+   "conf": 0.92
+  },
+  {
+   "text": ":",
+   "conf": 0.87
+  },
+  {
+   "text": "when",
+   "conf": 0.96
+  },
+  {
+   "text": "you",
+   "conf": 0.96
+  },
+  {
+   "text": "have",
+   "conf": 0.96
+  },
+  {
+   "text": "completed",
+   "conf": 0.95
+  },
+  {
+   "text": "the",
+   "conf": 0.96
+  },
+  {
+   "text": "survey",
+   "conf": 0.96
+  },
+  {
+   "text": "‘enjoy",
+   "conf": 0.49
+  },
+  {
+   "text": "this",
+   "conf": 0.96
+  },
+  {
+   "text": "great",
+   "conf": 0.96
+  },
+  {
+   "text": "offer",
+   "conf": 0.96
+  },
+  {
+   "text": "within",
+   "conf": 0.96
+  },
+  {
+   "text": "30",
+   "conf": 0.96
+  },
+  {
+   "text": "days",
+   "conf": 0.96
+  }
+ ],
+ "mean_conf": 0.762,
+ "low_conf_share": 0.1713,
+ "latency_ms": 651,
+ "fields": {
+  "company": "KFC KL CENTRAL",
+  "date": "2018-09-21",
+  "total": 46.48
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  46.48
+ ],
+ "key": "W0089_d06b2e3863ba"
+}

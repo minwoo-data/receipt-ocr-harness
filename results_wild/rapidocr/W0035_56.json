@@ -1,0 +1,191 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "OUR STORE",
+  "1134S 57 545528101",
+  "900SNON HILL ROAD SIF0820",
+  "M21804",
+  "<DUPLICATE RECEIPT>",
+  "DATE01/17/139:33AM",
+  "INVO1CE522672",
+  "AUTH 017358",
+  "KASTERCARD",
+  "ACCOUNT NMBER",
+  "xXxx1841",
+  "LECNE/DAVIDC",
+  "PUMP PRCCUCT $/6",
+  "01 UNLD $3.299",
+  "GALLONS FUEL TOTAL",
+  "20.619 $68.02",
+  "TOTALSALE$68.02",
+  "Save 10cents/gal",
+  "instantly at Shell",
+  "when ycu earn 100",
+  "points at Siant",
+  "Focd.",
+  "Fuel Rewerds Network",
+  "-find out all the",
+  "ways to save at",
+  "fuelreards.com.",
+  "THANKS.COMEAGAIN"
+ ],
+ "tokens": [
+  {
+   "text": "OUR STORE",
+   "conf": 0.9816700948609246
+  },
+  {
+   "text": "1134S",
+   "conf": 0.5761205613613128
+  },
+  {
+   "text": "900SNON HILL ROAD",
+   "conf": 0.8218314928167006
+  },
+  {
+   "text": "57 545528101",
+   "conf": 0.9612859884897867
+  },
+  {
+   "text": "SIF0820",
+   "conf": 0.7581046266215188
+  },
+  {
+   "text": "M21804",
+   "conf": 0.9716033240159353
+  },
+  {
+   "text": "<DUPLICATE RECEIPT>",
+   "conf": 0.9381304602873953
+  },
+  {
+   "text": "DATE01/17/139:33AM",
+   "conf": 0.9264557229148017
+  },
+  {
+   "text": "AUTH",
+   "conf": 0.9664262384176254
+  },
+  {
+   "text": "INVO1CE522672",
+   "conf": 0.9071072064913236
+  },
+  {
+   "text": "KASTERCARD",
+   "conf": 0.9482356369495392
+  },
+  {
+   "text": "017358",
+   "conf": 0.9885128637154897
+  },
+  {
+   "text": "xXxx1841",
+   "conf": 0.718262292444706
+  },
+  {
+   "text": "ACCOUNT NMBER",
+   "conf": 0.917020165003263
+  },
+  {
+   "text": "LECNE/DAVIDC",
+   "conf": 0.9222348878781
+  },
+  {
+   "text": "PUMP PRCCUCT",
+   "conf": 0.8806351323922476
+  },
+  {
+   "text": "01",
+   "conf": 0.9887489080429077
+  },
+  {
+   "text": "UNLD",
+   "conf": 0.7975786030292511
+  },
+  {
+   "text": "$/6",
+   "conf": 0.8754002253214518
+  },
+  {
+   "text": "$3.299",
+   "conf": 0.9937041203180949
+  },
+  {
+   "text": "GALLONS",
+   "conf": 0.9880629096712384
+  },
+  {
+   "text": "FUEL TOTAL",
+   "conf": 0.9633239030838012
+  },
+  {
+   "text": "20.619",
+   "conf": 0.9977000057697296
+  },
+  {
+   "text": "$68.02",
+   "conf": 0.868572453657786
+  },
+  {
+   "text": "TOTALSALE$68.02",
+   "conf": 0.9214444200197855
+  },
+  {
+   "text": "Save 10cents/gal",
+   "conf": 0.9210530463606119
+  },
+  {
+   "text": "instantly at Shell",
+   "conf": 0.9177664087878333
+  },
+  {
+   "text": "when ycu earn 100",
+   "conf": 0.855408580864177
+  },
+  {
+   "text": "points at Siant",
+   "conf": 0.8967467784881592
+  },
+  {
+   "text": "Focd.",
+   "conf": 0.8635643005371094
+  },
+  {
+   "text": "Fuel Rewerds Network",
+   "conf": 0.9467165887355804
+  },
+  {
+   "text": "-find out all the",
+   "conf": 0.9262202101595262
+  },
+  {
+   "text": "ways to save at",
+   "conf": 0.8327637632687886
+  },
+  {
+   "text": "fuelreards.com.",
+   "conf": 0.8938230514526367
+  },
+  {
+   "text": "THANKS.COMEAGAIN",
+   "conf": 0.9616377279162407
+  }
+ ],
+ "mean_conf": 0.9027,
+ "low_conf_share": 0.0,
+ "latency_ms": 2600,
+ "fields": {
+  "company": "OUR STORE",
+  "date": null,
+  "total": 68.02
+ },
+ "rule_reasons": [
+  "date_not_found",
+  "total_no_keyword_fallback_max"
+ ],
+ "total_candidates": [
+  68.02,
+  68.02
+ ],
+ "key": "W0035_56"
+}

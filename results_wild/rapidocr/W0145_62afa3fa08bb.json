@@ -1,0 +1,165 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "Khyen Chyen",
+  "ZNK Foods & Beverages Pvt.Ltd.",
+  "G-19,DLF Cross Point",
+  "DLF Phase 4,Gurgaon",
+  "Contact :0124-4231919",
+  "17/04/201521:17",
+  "Terminal No:4",
+  "15041504179224*",
+  "Invoice No:111",
+  "Item Qty Unit Price",
+  "Fireen (Only Me) 1 100.00 100.00",
+  "SUB TOTAL Rs100.00",
+  "Vat013.13% Rs13.13",
+  "Service TAx 4.94x Rs4.94",
+  "ROUNDUP AMOUNT Rs118.00",
+  "Cash Rs118.07",
+  "Items:1 Served by:E Tek",
+  "S.TaX-AAACZ8044NSD002",
+  "TIN NUMBER APPLIED FOR",
+  "Thank You!!!",
+  "5041504179224"
+ ],
+ "tokens": [
+  {
+   "text": "Khyen Chyen",
+   "conf": 0.9408940564502369
+  },
+  {
+   "text": "ZNK Foods & Beverages Pvt.Ltd.",
+   "conf": 0.9474679827690125
+  },
+  {
+   "text": "G-19,DLF Cross Point",
+   "conf": 0.9380577862262726
+  },
+  {
+   "text": "DLF Phase 4,Gurgaon",
+   "conf": 0.9538149645454005
+  },
+  {
+   "text": "Contact :0124-4231919",
+   "conf": 0.9679631988207499
+  },
+  {
+   "text": "17/04/201521:17",
+   "conf": 0.9831820170084635
+  },
+  {
+   "text": "Terminal No:4",
+   "conf": 0.9349681597489578
+  },
+  {
+   "text": "15041504179224*",
+   "conf": 0.9459836880366007
+  },
+  {
+   "text": "Invoice No:111",
+   "conf": 0.9837977077279773
+  },
+  {
+   "text": "Qty",
+   "conf": 0.9784984588623047
+  },
+  {
+   "text": "Unit Price",
+   "conf": 0.9652929425239563
+  },
+  {
+   "text": "Item",
+   "conf": 0.9896129965782166
+  },
+  {
+   "text": "1 100.00 100.00",
+   "conf": 0.940612808863322
+  },
+  {
+   "text": "Fireen",
+   "conf": 0.9872226119041443
+  },
+  {
+   "text": "(Only Me)",
+   "conf": 0.8873912427160475
+  },
+  {
+   "text": "Rs100.00",
+   "conf": 0.9944319352507591
+  },
+  {
+   "text": "SUB TOTAL",
+   "conf": 0.9819045927789476
+  },
+  {
+   "text": "Rs13.13",
+   "conf": 0.9958939722606114
+  },
+  {
+   "text": "Vat013.13%",
+   "conf": 0.9438088357448577
+  },
+  {
+   "text": "Rs4.94",
+   "conf": 0.9926781356334686
+  },
+  {
+   "text": "Service TAx 4.94x",
+   "conf": 0.9037560154409969
+  },
+  {
+   "text": "Rs118.00",
+   "conf": 0.995282731950283
+  },
+  {
+   "text": "ROUNDUP AMOUNT",
+   "conf": 0.9830166144030434
+  },
+  {
+   "text": "Rs118.07",
+   "conf": 0.9959464222192764
+  },
+  {
+   "text": "Cash",
+   "conf": 0.9919151216745377
+  },
+  {
+   "text": "Served by:E Tek",
+   "conf": 0.9619292259216309
+  },
+  {
+   "text": "Items:1",
+   "conf": 0.9460282070296151
+  },
+  {
+   "text": "S.TaX-AAACZ8044NSD002",
+   "conf": 0.9706823087873913
+  },
+  {
+   "text": "TIN NUMBER APPLIED FOR",
+   "conf": 0.9755269559946927
+  },
+  {
+   "text": "Thank You!!!",
+   "conf": 0.9171712348858515
+  },
+  {
+   "text": "5041504179224",
+   "conf": 0.9968600273132324
+  }
+ ],
+ "mean_conf": 0.9642,
+ "low_conf_share": 0.0,
+ "latency_ms": 3599,
+ "fields": {
+  "company": "ZNK FOODS BEVERAGES PVT LTD",
+  "date": "2015-04-17",
+  "total": 118.0
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  118.0
+ ],
+ "key": "W0145_62afa3fa08bb"
+}

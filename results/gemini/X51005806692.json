@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.6-flash",
+ "provider": "gemini",
+ "raw_text": "{\"vendor\": \"GREAT ZONE HOUSEHOLD CENTRE SDN BHD\", \"date\": \"2018-02-18\", \"subtotal\": 346.51, \"tax\": 20.79, \"tip\": null, \"discount\": null, \"total\": 367.3, \"currency\": \"MYR\", \"confidence\": 0.98, \"notes\": null}",
+ "data": {
+  "vendor": "GREAT ZONE HOUSEHOLD CENTRE SDN BHD",
+  "date": "2018-02-18",
+  "subtotal": 346.51,
+  "tax": 20.79,
+  "tip": null,
+  "discount": null,
+  "total": 367.3,
+  "currency": "MYR",
+  "confidence": 0.98,
+  "notes": null
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1452,
+  "output_tokens": 91,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.00143,
+ "latency_ms": 2011,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.6-flash",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.6-flash"
+ ],
+ "key": "X51005806692"
+}

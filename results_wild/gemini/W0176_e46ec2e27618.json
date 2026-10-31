@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.6-flash",
+ "provider": "gemini",
+ "raw_text": "{\"vendor\": \"BOMBAY BARBEQUE\", \"date\": \"2016-09-22\", \"subtotal\": 1616.0, \"tax\": 183.0, \"tip\": null, \"discount\": null, \"total\": 1799.0, \"currency\": \"INR\", \"confidence\": 0.95, \"notes\": \"Tax includes Service Charge 5% (81.00), Service Tax 5.6% (95.20), Sb Cess 0.2% (3.40), and KK Cess 0.2% (3.40).\"}",
+ "data": {
+  "vendor": "BOMBAY BARBEQUE",
+  "date": "2016-09-22",
+  "subtotal": 1616.0,
+  "tax": 183.0,
+  "tip": null,
+  "discount": null,
+  "total": 1799.0,
+  "currency": "INR",
+  "confidence": 0.95,
+  "notes": "Tax includes Service Charge 5% (81.00), Service Tax 5.6% (95.20), Sb Cess 0.2% (3.40), and KK Cess 0.2% (3.40)."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1469,
+  "output_tokens": 144,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.001642,
+ "latency_ms": 1805,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.6-flash",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.6-flash"
+ ],
+ "key": "W0176_e46ec2e27618"
+}

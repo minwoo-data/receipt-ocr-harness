@@ -1,0 +1,419 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "31803033",
+  "MR. D.I.Y¥. (KUCHAI) SON BHD",
+  "(CO Reg :750441-W)",
+  "LOT 1851-A & 1851-B,JALAN KPB 6,",
+  "KAWASAN PERINDUSTRIAN BALAKONG,",
+  "43300 SERI KEMBANGAN, SELANGOR",
+  "(GST ID No :000473792512)",
+  "(STRAND MALL KOTA DAMANSARA)",
+  "- TAX INVOICE -",
+  "PYEDRAIN CLOG FREE CLDRO2 - 1000ML *§",
+  "WAO5 - 12",
+  "9556268000210 3X 15.00 45.00",
+  "Item(s) : 1 Qty(s) : 3",
+  "TOTAL INCL. GST@6% RM 45.00",
+  "CARD RM 45.00",
+  "GST Summary Amt(RM) Tax(RM)",
+  "GST S@6% 42.45 2.55",
+  "¥----------------------------~-~-~-----%",
+  "12-03-18 14:37 SHO2 BO11 11 R000183898",
+  "OPERATOR STMT - AZMIZAN",
+  "EXCHANGE ARE ALLOWED WITHIN",
+  "- 7 DAYS WITH RECEIPT.",
+  "STRICTLY NO CASH REFUND."
+ ],
+ "tokens": [
+  {
+   "text": "31803033",
+   "conf": 0.91
+  },
+  {
+   "text": "MR.",
+   "conf": 0.89
+  },
+  {
+   "text": "D.I.Y¥.",
+   "conf": 0.41
+  },
+  {
+   "text": "(KUCHAI)",
+   "conf": 0.91
+  },
+  {
+   "text": "SON",
+   "conf": 0.8
+  },
+  {
+   "text": "BHD",
+   "conf": 0.82
+  },
+  {
+   "text": "(CO",
+   "conf": 0.94
+  },
+  {
+   "text": "Reg",
+   "conf": 0.92
+  },
+  {
+   "text": ":750441-W)",
+   "conf": 0.48
+  },
+  {
+   "text": "LOT",
+   "conf": 0.93
+  },
+  {
+   "text": "1851-A",
+   "conf": 0.91
+  },
+  {
+   "text": "&",
+   "conf": 0.89
+  },
+  {
+   "text": "1851-B,JALAN",
+   "conf": 0.9
+  },
+  {
+   "text": "KPB",
+   "conf": 0.9
+  },
+  {
+   "text": "6,",
+   "conf": 0.96
+  },
+  {
+   "text": "KAWASAN",
+   "conf": 0.92
+  },
+  {
+   "text": "PERINDUSTRIAN",
+   "conf": 0.91
+  },
+  {
+   "text": "BALAKONG,",
+   "conf": 0.92
+  },
+  {
+   "text": "43300",
+   "conf": 0.92
+  },
+  {
+   "text": "SERI",
+   "conf": 0.89
+  },
+  {
+   "text": "KEMBANGAN,",
+   "conf": 0.92
+  },
+  {
+   "text": "SELANGOR",
+   "conf": 0.96
+  },
+  {
+   "text": "(GST",
+   "conf": 0.95
+  },
+  {
+   "text": "ID",
+   "conf": 0.95
+  },
+  {
+   "text": "No",
+   "conf": 0.93
+  },
+  {
+   "text": ":000473792512)",
+   "conf": 0.91
+  },
+  {
+   "text": "(STRAND",
+   "conf": 0.95
+  },
+  {
+   "text": "MALL",
+   "conf": 0.93
+  },
+  {
+   "text": "KOTA",
+   "conf": 0.91
+  },
+  {
+   "text": "DAMANSARA)",
+   "conf": 0.91
+  },
+  {
+   "text": "-",
+   "conf": 0.89
+  },
+  {
+   "text": "TAX",
+   "conf": 0.96
+  },
+  {
+   "text": "INVOICE",
+   "conf": 0.93
+  },
+  {
+   "text": "-",
+   "conf": 0.92
+  },
+  {
+   "text": "PYEDRAIN",
+   "conf": 0.91
+  },
+  {
+   "text": "CLOG",
+   "conf": 0.96
+  },
+  {
+   "text": "FREE",
+   "conf": 0.91
+  },
+  {
+   "text": "CLDRO2",
+   "conf": 0.89
+  },
+  {
+   "text": "-",
+   "conf": 0.9
+  },
+  {
+   "text": "1000ML",
+   "conf": 0.9
+  },
+  {
+   "text": "*§",
+   "conf": 0.68
+  },
+  {
+   "text": "WAO5",
+   "conf": 0.8
+  },
+  {
+   "text": "-",
+   "conf": 0.79
+  },
+  {
+   "text": "12",
+   "conf": 0.96
+  },
+  {
+   "text": "9556268000210",
+   "conf": 0.96
+  },
+  {
+   "text": "3X",
+   "conf": 0.54
+  },
+  {
+   "text": "15.00",
+   "conf": 0.95
+  },
+  {
+   "text": "45.00",
+   "conf": 0.96
+  },
+  {
+   "text": "Item(s)",
+   "conf": 0.9
+  },
+  {
+   "text": ":",
+   "conf": 0.9
+  },
+  {
+   "text": "1",
+   "conf": 0.96
+  },
+  {
+   "text": "Qty(s)",
+   "conf": 0.86
+  },
+  {
+   "text": ":",
+   "conf": 0.86
+  },
+  {
+   "text": "3",
+   "conf": 0.96
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.96
+  },
+  {
+   "text": "INCL.",
+   "conf": 0.93
+  },
+  {
+   "text": "GST@6%",
+   "conf": 0.91
+  },
+  {
+   "text": "RM",
+   "conf": 0.95
+  },
+  {
+   "text": "45.00",
+   "conf": 0.95
+  },
+  {
+   "text": "CARD",
+   "conf": 0.96
+  },
+  {
+   "text": "RM",
+   "conf": 0.94
+  },
+  {
+   "text": "45.00",
+   "conf": 0.76
+  },
+  {
+   "text": "GST",
+   "conf": 0.95
+  },
+  {
+   "text": "Summary",
+   "conf": 0.96
+  },
+  {
+   "text": "Amt(RM)",
+   "conf": 0.86
+  },
+  {
+   "text": "Tax(RM)",
+   "conf": 0.47
+  },
+  {
+   "text": "GST",
+   "conf": 0.93
+  },
+  {
+   "text": "S@6%",
+   "conf": 0.86
+  },
+  {
+   "text": "42.45",
+   "conf": 0.89
+  },
+  {
+   "text": "2.55",
+   "conf": 0.94
+  },
+  {
+   "text": "¥----------------------------~-~-~-----%",
+   "conf": 0.0
+  },
+  {
+   "text": "12-03-18",
+   "conf": 0.93
+  },
+  {
+   "text": "14:37",
+   "conf": 0.93
+  },
+  {
+   "text": "SHO2",
+   "conf": 0.9
+  },
+  {
+   "text": "BO11",
+   "conf": 0.63
+  },
+  {
+   "text": "11",
+   "conf": 0.92
+  },
+  {
+   "text": "R000183898",
+   "conf": 0.75
+  },
+  {
+   "text": "OPERATOR",
+   "conf": 0.95
+  },
+  {
+   "text": "STMT",
+   "conf": 0.89
+  },
+  {
+   "text": "-",
+   "conf": 0.89
+  },
+  {
+   "text": "AZMIZAN",
+   "conf": 0.92
+  },
+  {
+   "text": "EXCHANGE",
+   "conf": 0.95
+  },
+  {
+   "text": "ARE",
+   "conf": 0.96
+  },
+  {
+   "text": "ALLOWED",
+   "conf": 0.96
+  },
+  {
+   "text": "WITHIN",
+   "conf": 0.96
+  },
+  {
+   "text": "-",
+   "conf": 0.77
+  },
+  {
+   "text": "7",
+   "conf": 0.0
+  },
+  {
+   "text": "DAYS",
+   "conf": 0.95
+  },
+  {
+   "text": "WITH",
+   "conf": 0.96
+  },
+  {
+   "text": "RECEIPT.",
+   "conf": 0.92
+  },
+  {
+   "text": "STRICTLY",
+   "conf": 0.96
+  },
+  {
+   "text": "NO",
+   "conf": 0.95
+  },
+  {
+   "text": "CASH",
+   "conf": 0.96
+  },
+  {
+   "text": "REFUND.",
+   "conf": 0.94
+  }
+ ],
+ "mean_conf": 0.871,
+ "low_conf_share": 0.0532,
+ "latency_ms": 1651,
+ "fields": {
+  "company": "MR D I Y SON BHD",
+  "date": "2018-03-12",
+  "total": 45.0
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  45.0
+ ],
+ "key": "X51005757273"
+}

@@ -1,0 +1,351 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "KEDAIPAPANYEWCHUAN",
+  "(0005583085-K)",
+  "LOT276JALANBANTING",
+  "43800DENGKIL,SELANGOR",
+  "TEL:03-87686092 FAX:03-87686092",
+  "GSTID:000781500416",
+  "TAXINVOICE",
+  "Bill To:",
+  "SUCIALAMJAYATRANSPORT",
+  "NO1JALANAMAN2",
+  "TAMANDESA43800",
+  "DENGKILSELANGOR",
+  "017-6057770",
+  "DocNo. CS00011904 Date:17/04/2018",
+  "Cashier ：USER Time:10:50:00",
+  "Salesperson : Ref.:",
+  "(GST) (GST)",
+  "Item Qty S/Price S/Price Amount Tax",
+  "101756 10 16.50 17.49 174.90 SR",
+  "SIMEN",
+  "100160 5 3.00 3.18 15.90 SR",
+  "KAPURAIR(A1)",
+  "Total Qty: 15 190.80",
+  "Total Sales(Excluding GST) 180.00",
+  "Discount: 0.00",
+  "TotalGST 10.80",
+  "Rounding: 0.00",
+  "TotaySales (Inclusive of GsT): 190.80",
+  "CASH: 190.80",
+  "Change : 0.00",
+  "GSTSUMMARY",
+  "Tax Code % Amt(RM) Tax(RM)",
+  "SR 6 180.00 10.80",
+  "Total: 180.00 10.80",
+  "GOODSSOLD ARENOTRETURNABLE,THANKYOU"
+ ],
+ "tokens": [
+  {
+   "text": "KEDAIPAPANYEWCHUAN",
+   "conf": 0.9895108242829641
+  },
+  {
+   "text": "(0005583085-K)",
+   "conf": 0.9734692914145333
+  },
+  {
+   "text": "LOT276JALANBANTING",
+   "conf": 0.9921374983257718
+  },
+  {
+   "text": "43800DENGKIL,SELANGOR",
+   "conf": 0.9714143049149286
+  },
+  {
+   "text": "TEL:03-87686092",
+   "conf": 0.9906853874524434
+  },
+  {
+   "text": "FAX:03-87686092",
+   "conf": 0.983303713798523
+  },
+  {
+   "text": "GSTID:000781500416",
+   "conf": 0.9882310893800523
+  },
+  {
+   "text": "TAXINVOICE",
+   "conf": 0.9930270493030549
+  },
+  {
+   "text": "Bill To:",
+   "conf": 0.8841763809323311
+  },
+  {
+   "text": "SUCIALAMJAYATRANSPORT",
+   "conf": 0.9837336909203303
+  },
+  {
+   "text": "NO1JALANAMAN2",
+   "conf": 0.9904346970411447
+  },
+  {
+   "text": "TAMANDESA43800",
+   "conf": 0.9931991526058742
+  },
+  {
+   "text": "DENGKILSELANGOR",
+   "conf": 0.9918116251627604
+  },
+  {
+   "text": "017-6057770",
+   "conf": 0.997031645341353
+  },
+  {
+   "text": "DocNo.",
+   "conf": 0.9273201624552408
+  },
+  {
+   "text": "CS00011904",
+   "conf": 0.9964427411556244
+  },
+  {
+   "text": "Date:17/04/2018",
+   "conf": 0.9855132579803467
+  },
+  {
+   "text": "Cashier",
+   "conf": 0.9899720890181405
+  },
+  {
+   "text": "：USER",
+   "conf": 0.8818785727024079
+  },
+  {
+   "text": "Time:10:50:00",
+   "conf": 0.9758290556760935
+  },
+  {
+   "text": "Salesperson :",
+   "conf": 0.9506588165576642
+  },
+  {
+   "text": "Ref.:",
+   "conf": 0.9147038459777832
+  },
+  {
+   "text": "(GST)",
+   "conf": 0.9862081408500671
+  },
+  {
+   "text": "(GST)",
+   "conf": 0.9672537565231323
+  },
+  {
+   "text": "Item",
+   "conf": 0.9216954857110977
+  },
+  {
+   "text": "Qty",
+   "conf": 0.9902432958285013
+  },
+  {
+   "text": "S/Price",
+   "conf": 0.958426330770765
+  },
+  {
+   "text": "S/Price",
+   "conf": 0.9822763885770526
+  },
+  {
+   "text": "Amount",
+   "conf": 0.9901078244050344
+  },
+  {
+   "text": "Tax",
+   "conf": 0.9645763635635376
+  },
+  {
+   "text": "101756",
+   "conf": 0.9984207550684611
+  },
+  {
+   "text": "10",
+   "conf": 0.9984031617641449
+  },
+  {
+   "text": "16.50",
+   "conf": 0.9983310103416443
+  },
+  {
+   "text": "17.49",
+   "conf": 0.995618212223053
+  },
+  {
+   "text": "174.90",
+   "conf": 0.9945141673088074
+  },
+  {
+   "text": "SR",
+   "conf": 0.9950262606143951
+  },
+  {
+   "text": "SIMEN",
+   "conf": 0.9907004594802856
+  },
+  {
+   "text": "100160",
+   "conf": 0.9969905813535055
+  },
+  {
+   "text": "5",
+   "conf": 0.9972308278083801
+  },
+  {
+   "text": "3.00",
+   "conf": 0.9986862540245056
+  },
+  {
+   "text": "3.18",
+   "conf": 0.997783362865448
+  },
+  {
+   "text": "15.90",
+   "conf": 0.9979959487915039
+  },
+  {
+   "text": "SR",
+   "conf": 0.9918103516101837
+  },
+  {
+   "text": "KAPURAIR(A1)",
+   "conf": 0.9551223119099935
+  },
+  {
+   "text": "Total Qty:",
+   "conf": 0.9433214962482452
+  },
+  {
+   "text": "15",
+   "conf": 0.9980738461017609
+  },
+  {
+   "text": "190.80",
+   "conf": 0.9986990690231323
+  },
+  {
+   "text": "Total Sales(Excluding GST)",
+   "conf": 0.9486316671738257
+  },
+  {
+   "text": "180.00",
+   "conf": 0.9985222319761912
+  },
+  {
+   "text": "Discount:",
+   "conf": 0.987902906205919
+  },
+  {
+   "text": "0.00",
+   "conf": 0.998487189412117
+  },
+  {
+   "text": "TotalGST",
+   "conf": 0.988484188914299
+  },
+  {
+   "text": "10.80",
+   "conf": 0.9988157629966736
+  },
+  {
+   "text": "Rounding:",
+   "conf": 0.9728130631976657
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9973858594894409
+  },
+  {
+   "text": "TotaySales (Inclusive of GsT):",
+   "conf": 0.8836197813351949
+  },
+  {
+   "text": "190.80",
+   "conf": 0.990788072347641
+  },
+  {
+   "text": "CASH:",
+   "conf": 0.9440849542617797
+  },
+  {
+   "text": "190.80",
+   "conf": 0.998388260602951
+  },
+  {
+   "text": "Change :",
+   "conf": 0.9415144398808479
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9978798478841782
+  },
+  {
+   "text": "GSTSUMMARY",
+   "conf": 0.9861621499061585
+  },
+  {
+   "text": "Tax Code",
+   "conf": 0.9768392592668533
+  },
+  {
+   "text": "%",
+   "conf": 0.8910589218139648
+  },
+  {
+   "text": "Amt(RM)",
+   "conf": 0.9827919602394104
+  },
+  {
+   "text": "Tax(RM)",
+   "conf": 0.9783756392342704
+  },
+  {
+   "text": "SR",
+   "conf": 0.984813392162323
+  },
+  {
+   "text": "6",
+   "conf": 0.9956434965133667
+  },
+  {
+   "text": "180.00",
+   "conf": 0.9985212683677673
+  },
+  {
+   "text": "10.80",
+   "conf": 0.9985707998275757
+  },
+  {
+   "text": "Total:",
+   "conf": 0.990781565507253
+  },
+  {
+   "text": "180.00",
+   "conf": 0.9984725415706635
+  },
+  {
+   "text": "10.80",
+   "conf": 0.9985443353652954
+  },
+  {
+   "text": "GOODSSOLD ARENOTRETURNABLE,THANKYOU",
+   "conf": 0.9589634725025722
+  }
+ ],
+ "mean_conf": 0.9776,
+ "low_conf_share": 0.0,
+ "latency_ms": 4071,
+ "fields": {
+  "company": "KEDAIPAPANYEWCHUAN",
+  "date": "2018-04-17",
+  "total": 10.8
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  10.8
+ ],
+ "key": "X51008142059"
+}

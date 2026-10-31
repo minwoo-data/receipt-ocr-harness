@@ -1,0 +1,130 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "Fatboy's",
+  "TheBurgerBar",
+  "485Joo Chiat Road",
+  "Tel:63486081",
+  "22/02/201312:44T001 201302221",
+  "Table:87 A041721",
+  "2Chocolate Malt Shake 14.00",
+  "1Lime Juice 3.50",
+  "1Stiffee 13.50",
+  "1Wimpy Beef 14.50",
+  "1Royale with Cheese 12.00",
+  "TOTAL 57.50",
+  "CASH 100.00",
+  "CHANGE 42.50"
+ ],
+ "tokens": [
+  {
+   "text": "Fatboy's",
+   "conf": 0.9670847505331039
+  },
+  {
+   "text": "TheBurgerBar",
+   "conf": 0.9955824216206869
+  },
+  {
+   "text": "485Joo Chiat Road",
+   "conf": 0.9483664316289565
+  },
+  {
+   "text": "Tel:63486081",
+   "conf": 0.9615945816040039
+  },
+  {
+   "text": "22/02/201312:44T001",
+   "conf": 0.9946204172937494
+  },
+  {
+   "text": "201302221",
+   "conf": 0.9985495739512973
+  },
+  {
+   "text": "Table:87",
+   "conf": 0.9823225289583206
+  },
+  {
+   "text": "A041721",
+   "conf": 0.9975916147232056
+  },
+  {
+   "text": "2Chocolate Malt Shake",
+   "conf": 0.9600554846581959
+  },
+  {
+   "text": "14.00",
+   "conf": 0.9979182481765747
+  },
+  {
+   "text": "1Lime Juice",
+   "conf": 0.9624174291437323
+  },
+  {
+   "text": "3.50",
+   "conf": 0.9963444769382477
+  },
+  {
+   "text": "1Stiffee",
+   "conf": 0.9746237844228745
+  },
+  {
+   "text": "13.50",
+   "conf": 0.996265995502472
+  },
+  {
+   "text": "1Wimpy Beef",
+   "conf": 0.9540427110411904
+  },
+  {
+   "text": "14.50",
+   "conf": 0.9961204528808594
+  },
+  {
+   "text": "1Royale with Cheese",
+   "conf": 0.9646665767619484
+  },
+  {
+   "text": "12.00",
+   "conf": 0.998268187046051
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.9966534972190857
+  },
+  {
+   "text": "57.50",
+   "conf": 0.9979788780212402
+  },
+  {
+   "text": "CASH",
+   "conf": 0.9964024424552917
+  },
+  {
+   "text": "100.00",
+   "conf": 0.9973518749078115
+  },
+  {
+   "text": "CHANGE",
+   "conf": 0.9973654548327128
+  },
+  {
+   "text": "42.50",
+   "conf": 0.9992953419685364
+  }
+ ],
+ "mean_conf": 0.9846,
+ "low_conf_share": 0.0,
+ "latency_ms": 3457,
+ "fields": {
+  "company": "FATBOY S",
+  "date": "2013-02-22",
+  "total": 57.5
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  57.5
+ ],
+ "key": "W0006_1952"
+}

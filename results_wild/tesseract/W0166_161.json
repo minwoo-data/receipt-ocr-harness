@@ -1,0 +1,382 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "oa Ber ghotel ‘",
+  "| Grosse Scheidegg iL",
+  "ae 3818 Grindelwald Ke",
+  "Ce ilie R. Muller (oe ee",
+  "Pe eo",
+  "a exLatte Macchiato a 4.50 CHF 9,00 eo.",
+  "| IxSchweinschnitzel a 22.00 CHF 22.00 oO",
+  "a a",
+  "oo Total : CHF 54. 50 os",
+  "a a",
+  "oe Incl. 7.6% MwSt 54.50 CHF: 3.85",
+  "S| a",
+  "| | Entspricht in Euro 36.33 EUR a",
+  "eo : : a",
+  "' | Es bediente Sie: Ursula a",
+  "4 E-mail: grossescheidegg@b luewin. ch i",
+  "eee: . ‘ a —"
+ ],
+ "tokens": [
+  {
+   "text": "oa",
+   "conf": 0.02
+  },
+  {
+   "text": "Ber",
+   "conf": 0.22
+  },
+  {
+   "text": "ghotel",
+   "conf": 0.11
+  },
+  {
+   "text": "‘",
+   "conf": 0.41
+  },
+  {
+   "text": "|",
+   "conf": 0.36
+  },
+  {
+   "text": "Grosse",
+   "conf": 0.93
+  },
+  {
+   "text": "Scheidegg",
+   "conf": 0.9
+  },
+  {
+   "text": "iL",
+   "conf": 0.29
+  },
+  {
+   "text": "ae",
+   "conf": 0.16
+  },
+  {
+   "text": "3818",
+   "conf": 0.96
+  },
+  {
+   "text": "Grindelwald",
+   "conf": 0.94
+  },
+  {
+   "text": "Ke",
+   "conf": 0.04
+  },
+  {
+   "text": "Ce",
+   "conf": 0.23
+  },
+  {
+   "text": "ilie",
+   "conf": 0.88
+  },
+  {
+   "text": "R.",
+   "conf": 0.31
+  },
+  {
+   "text": "Muller",
+   "conf": 0.31
+  },
+  {
+   "text": "(oe",
+   "conf": 0.26
+  },
+  {
+   "text": "ee",
+   "conf": 0.24
+  },
+  {
+   "text": "Pe",
+   "conf": 0.12
+  },
+  {
+   "text": "eo",
+   "conf": 0.19
+  },
+  {
+   "text": "a",
+   "conf": 0.21
+  },
+  {
+   "text": "exLatte",
+   "conf": 0.69
+  },
+  {
+   "text": "Macchiato",
+   "conf": 0.92
+  },
+  {
+   "text": "a",
+   "conf": 0.74
+  },
+  {
+   "text": "4.50",
+   "conf": 0.92
+  },
+  {
+   "text": "CHF",
+   "conf": 0.84
+  },
+  {
+   "text": "9,00",
+   "conf": 0.84
+  },
+  {
+   "text": "eo.",
+   "conf": 0.29
+  },
+  {
+   "text": "|",
+   "conf": 0.29
+  },
+  {
+   "text": "IxSchweinschnitzel",
+   "conf": 0.88
+  },
+  {
+   "text": "a",
+   "conf": 0.66
+  },
+  {
+   "text": "22.00",
+   "conf": 0.95
+  },
+  {
+   "text": "CHF",
+   "conf": 0.77
+  },
+  {
+   "text": "22.00",
+   "conf": 0.77
+  },
+  {
+   "text": "oO",
+   "conf": 0.02
+  },
+  {
+   "text": "a",
+   "conf": 0.12
+  },
+  {
+   "text": "a",
+   "conf": 0.21
+  },
+  {
+   "text": "oo",
+   "conf": 0.08
+  },
+  {
+   "text": "Total",
+   "conf": 0.8
+  },
+  {
+   "text": ":",
+   "conf": 0.8
+  },
+  {
+   "text": "CHF",
+   "conf": 0.4
+  },
+  {
+   "text": "54.",
+   "conf": 0.48
+  },
+  {
+   "text": "50",
+   "conf": 0.65
+  },
+  {
+   "text": "os",
+   "conf": 0.2
+  },
+  {
+   "text": "a",
+   "conf": 0.0
+  },
+  {
+   "text": "a",
+   "conf": 0.02
+  },
+  {
+   "text": "oe",
+   "conf": 0.07
+  },
+  {
+   "text": "Incl.",
+   "conf": 0.94
+  },
+  {
+   "text": "7.6%",
+   "conf": 0.93
+  },
+  {
+   "text": "MwSt",
+   "conf": 0.91
+  },
+  {
+   "text": "54.50",
+   "conf": 0.76
+  },
+  {
+   "text": "CHF:",
+   "conf": 0.95
+  },
+  {
+   "text": "3.85",
+   "conf": 0.82
+  },
+  {
+   "text": "S|",
+   "conf": 0.0
+  },
+  {
+   "text": "a",
+   "conf": 0.0
+  },
+  {
+   "text": "|",
+   "conf": 0.14
+  },
+  {
+   "text": "|",
+   "conf": 0.58
+  },
+  {
+   "text": "Entspricht",
+   "conf": 0.92
+  },
+  {
+   "text": "in",
+   "conf": 0.96
+  },
+  {
+   "text": "Euro",
+   "conf": 0.86
+  },
+  {
+   "text": "36.33",
+   "conf": 0.68
+  },
+  {
+   "text": "EUR",
+   "conf": 0.96
+  },
+  {
+   "text": "a",
+   "conf": 0.17
+  },
+  {
+   "text": "eo",
+   "conf": 0.09
+  },
+  {
+   "text": ":",
+   "conf": 0.45
+  },
+  {
+   "text": ":",
+   "conf": 0.0
+  },
+  {
+   "text": "a",
+   "conf": 0.04
+  },
+  {
+   "text": "'",
+   "conf": 0.0
+  },
+  {
+   "text": "|",
+   "conf": 0.71
+  },
+  {
+   "text": "Es",
+   "conf": 0.93
+  },
+  {
+   "text": "bediente",
+   "conf": 0.91
+  },
+  {
+   "text": "Sie:",
+   "conf": 0.96
+  },
+  {
+   "text": "Ursula",
+   "conf": 0.96
+  },
+  {
+   "text": "a",
+   "conf": 0.0
+  },
+  {
+   "text": "4",
+   "conf": 0.0
+  },
+  {
+   "text": "E-mail:",
+   "conf": 0.26
+  },
+  {
+   "text": "grossescheidegg@b",
+   "conf": 0.7
+  },
+  {
+   "text": "luewin.",
+   "conf": 0.7
+  },
+  {
+   "text": "ch",
+   "conf": 0.96
+  },
+  {
+   "text": "i",
+   "conf": 0.24
+  },
+  {
+   "text": "eee:",
+   "conf": 0.18
+  },
+  {
+   "text": ".",
+   "conf": 0.0
+  },
+  {
+   "text": "‘",
+   "conf": 0.0
+  },
+  {
+   "text": "a",
+   "conf": 0.15
+  },
+  {
+   "text": "—",
+   "conf": 0.72
+  }
+ ],
+ "mean_conf": 0.4828,
+ "low_conf_share": 0.5294,
+ "latency_ms": 926,
+ "fields": {
+  "company": "OA BER GHOTEL",
+  "date": null,
+  "total": 54.5
+ },
+ "rule_reasons": [
+  "date_not_found",
+  "total_no_keyword_fallback_max"
+ ],
+ "total_candidates": [
+  54.5,
+  3.85,
+  36.33
+ ],
+ "key": "W0166_161"
+}

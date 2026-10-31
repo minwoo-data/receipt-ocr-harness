@@ -1,0 +1,308 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "BLUE HARBOUR CAFE",
+  "LOT 3-21 PAVILION MALL, BUKIT BINTANG",
+  "TAX INVOICE",
+  "Date: 19/08/2025 Time: 13:42",
+  "2 x LOCAL EGGS 10S 13.00",
+  "3 x USB CABLE 1M 59.70",
+  "1 x USB CABLE 1M 19.90",
+  "1 x PANADOL 10S 6.80",
+  "2 x GARDEN SALAD 31.00",
+  "SUBTOTAL 130.40",
+  "GST 6% 7.82",
+  "TOTAL 138.22",
+  "CASH 143.22",
+  "CHANGE 5.00",
+  "THANK YOU, PLEASE COME AGAIN",
+  "Al AelS OG: Sel Ske FH 0.00 O@ JZ"
+ ],
+ "tokens": [
+  {
+   "text": "BLUE",
+   "conf": 0.96
+  },
+  {
+   "text": "HARBOUR",
+   "conf": 0.96
+  },
+  {
+   "text": "CAFE",
+   "conf": 0.96
+  },
+  {
+   "text": "LOT",
+   "conf": 0.96
+  },
+  {
+   "text": "3-21",
+   "conf": 0.96
+  },
+  {
+   "text": "PAVILION",
+   "conf": 0.96
+  },
+  {
+   "text": "MALL,",
+   "conf": 0.96
+  },
+  {
+   "text": "BUKIT",
+   "conf": 0.93
+  },
+  {
+   "text": "BINTANG",
+   "conf": 0.91
+  },
+  {
+   "text": "TAX",
+   "conf": 0.95
+  },
+  {
+   "text": "INVOICE",
+   "conf": 0.95
+  },
+  {
+   "text": "Date:",
+   "conf": 0.96
+  },
+  {
+   "text": "19/08/2025",
+   "conf": 0.95
+  },
+  {
+   "text": "Time:",
+   "conf": 0.95
+  },
+  {
+   "text": "13:42",
+   "conf": 0.96
+  },
+  {
+   "text": "2",
+   "conf": 0.94
+  },
+  {
+   "text": "x",
+   "conf": 0.94
+  },
+  {
+   "text": "LOCAL",
+   "conf": 0.95
+  },
+  {
+   "text": "EGGS",
+   "conf": 0.96
+  },
+  {
+   "text": "10S",
+   "conf": 0.95
+  },
+  {
+   "text": "13.00",
+   "conf": 0.95
+  },
+  {
+   "text": "3",
+   "conf": 0.92
+  },
+  {
+   "text": "x",
+   "conf": 0.92
+  },
+  {
+   "text": "USB",
+   "conf": 0.96
+  },
+  {
+   "text": "CABLE",
+   "conf": 0.96
+  },
+  {
+   "text": "1M",
+   "conf": 0.96
+  },
+  {
+   "text": "59.70",
+   "conf": 0.96
+  },
+  {
+   "text": "1",
+   "conf": 0.85
+  },
+  {
+   "text": "x",
+   "conf": 0.85
+  },
+  {
+   "text": "USB",
+   "conf": 0.94
+  },
+  {
+   "text": "CABLE",
+   "conf": 0.96
+  },
+  {
+   "text": "1M",
+   "conf": 0.96
+  },
+  {
+   "text": "19.90",
+   "conf": 0.95
+  },
+  {
+   "text": "1",
+   "conf": 0.89
+  },
+  {
+   "text": "x",
+   "conf": 0.89
+  },
+  {
+   "text": "PANADOL",
+   "conf": 0.96
+  },
+  {
+   "text": "10S",
+   "conf": 0.95
+  },
+  {
+   "text": "6.80",
+   "conf": 0.95
+  },
+  {
+   "text": "2",
+   "conf": 0.93
+  },
+  {
+   "text": "x",
+   "conf": 0.93
+  },
+  {
+   "text": "GARDEN",
+   "conf": 0.96
+  },
+  {
+   "text": "SALAD",
+   "conf": 0.96
+  },
+  {
+   "text": "31.00",
+   "conf": 0.95
+  },
+  {
+   "text": "SUBTOTAL",
+   "conf": 0.96
+  },
+  {
+   "text": "130.40",
+   "conf": 0.96
+  },
+  {
+   "text": "GST",
+   "conf": 0.96
+  },
+  {
+   "text": "6%",
+   "conf": 0.96
+  },
+  {
+   "text": "7.82",
+   "conf": 0.94
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.96
+  },
+  {
+   "text": "138.22",
+   "conf": 0.9
+  },
+  {
+   "text": "CASH",
+   "conf": 0.96
+  },
+  {
+   "text": "143.22",
+   "conf": 0.9
+  },
+  {
+   "text": "CHANGE",
+   "conf": 0.96
+  },
+  {
+   "text": "5.00",
+   "conf": 0.95
+  },
+  {
+   "text": "THANK",
+   "conf": 0.96
+  },
+  {
+   "text": "YOU,",
+   "conf": 0.96
+  },
+  {
+   "text": "PLEASE",
+   "conf": 0.96
+  },
+  {
+   "text": "COME",
+   "conf": 0.96
+  },
+  {
+   "text": "AGAIN",
+   "conf": 0.96
+  },
+  {
+   "text": "Al",
+   "conf": 0.88
+  },
+  {
+   "text": "AelS",
+   "conf": 0.11
+  },
+  {
+   "text": "OG:",
+   "conf": 0.59
+  },
+  {
+   "text": "Sel",
+   "conf": 0.52
+  },
+  {
+   "text": "Ske",
+   "conf": 0.71
+  },
+  {
+   "text": "FH",
+   "conf": 0.65
+  },
+  {
+   "text": "0.00",
+   "conf": 0.88
+  },
+  {
+   "text": "O@",
+   "conf": 0.32
+  },
+  {
+   "text": "JZ",
+   "conf": 0.5
+  }
+ ],
+ "mean_conf": 0.8956,
+ "low_conf_share": 0.0294,
+ "latency_ms": 2834,
+ "fields": {
+  "company": "BLUE HARBOUR CAFE",
+  "date": "2025-08-19",
+  "total": 138.22
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  138.22
+ ],
+ "key": "SYN037"
+}

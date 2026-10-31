@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.6-flash",
+ "provider": "gemini",
+ "raw_text": "{\"vendor\":\"MAKASSAR FRESH MARKET S/B.\",\"date\":\"2017-08-05\",\"subtotal\":40.0,\"tax\":null,\"tip\":null,\"discount\":null,\"total\":40.0,\"currency\":\"MYR\",\"confidence\":0.98,\"notes\":null}",
+ "data": {
+  "vendor": "MAKASSAR FRESH MARKET S/B.",
+  "date": "2017-08-05",
+  "subtotal": 40.0,
+  "tax": null,
+  "tip": null,
+  "discount": null,
+  "total": 40.0,
+  "currency": "MYR",
+  "confidence": 0.98,
+  "notes": null
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1476,
+  "output_tokens": 69,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.001366,
+ "latency_ms": 1973,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.6-flash",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.6-flash"
+ ],
+ "key": "X51006556730"
+}

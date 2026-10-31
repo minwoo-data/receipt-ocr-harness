@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.1-flash-lite",
+ "provider": "gemini",
+ "raw_text": "{\n  \"vendor\": \"SELFIE COFFEE\",\n  \"date\": \"2017-11-23\",\n  \"subtotal\": 28.0,\n  \"tax\": 0.0,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 28.0,\n  \"currency\": \"MYR\",\n  \"confidence\": 0.98,\n  \"notes\": null\n}",
+ "data": {
+  "vendor": "SELFIE COFFEE",
+  "date": "2017-11-23",
+  "subtotal": 28.0,
+  "tax": 0.0,
+  "tip": null,
+  "discount": null,
+  "total": 28.0,
+  "currency": "MYR",
+  "confidence": 0.98,
+  "notes": null
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1458,
+  "output_tokens": 104,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.000521,
+ "latency_ms": 1596,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.1-flash-lite",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.1-flash-lite"
+ ],
+ "key": "W0199_1bdbd7f90832"
+}

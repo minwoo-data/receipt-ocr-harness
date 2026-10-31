@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.1-flash-lite",
+ "provider": "gemini",
+ "raw_text": "{\n  \"vendor\": \"RAPID WHEELS AUTO SERVICE\",\n  \"date\": \"2025-05-13\",\n  \"subtotal\": 52.4,\n  \"tax\": 3.14,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 55.54,\n  \"currency\": null,\n  \"confidence\": 0.98,\n  \"notes\": null\n}",
+ "data": {
+  "vendor": "RAPID WHEELS AUTO SERVICE",
+  "date": "2025-05-13",
+  "subtotal": 52.4,
+  "tax": 3.14,
+  "tip": null,
+  "discount": null,
+  "total": 55.54,
+  "currency": null,
+  "confidence": 0.98,
+  "notes": null
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1485,
+  "output_tokens": 106,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.00053,
+ "latency_ms": 1442,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.1-flash-lite",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.1-flash-lite"
+ ],
+ "key": "SYN009"
+}

@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.1-flash-lite",
+ "provider": "gemini",
+ "raw_text": "{\n  \"vendor\": \"99 SPEED MART\",\n  \"date\": \"2017-05-21\",\n  \"subtotal\": 19.72,\n  \"tax\": 1.18,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 20.9,\n  \"currency\": \"MYR\",\n  \"confidence\": 0.95,\n  \"notes\": \"The subtotal was calculated as total minus tax (20.90 - 1.18 = 19.72) as it was not explicitly printed.\"\n}",
+ "data": {
+  "vendor": "99 SPEED MART",
+  "date": "2017-05-21",
+  "subtotal": 19.72,
+  "tax": 1.18,
+  "tip": null,
+  "discount": null,
+  "total": 20.9,
+  "currency": "MYR",
+  "confidence": 0.95,
+  "notes": "The subtotal was calculated as total minus tax (20.90 - 1.18 = 19.72) as it was not explicitly printed."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1585,
+  "output_tokens": 142,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.000609,
+ "latency_ms": 1373,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.1-flash-lite",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.1-flash-lite"
+ ],
+ "key": "X51006388065"
+}

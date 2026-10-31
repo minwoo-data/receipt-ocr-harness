@@ -1,0 +1,141 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "BLUEHARBOURCAFE",
+  "LOT 3-21 PAVILION MALL,BUKIT BINTANG",
+  "TAXINVOICE",
+  "Date:28/08/2026 Time:13:42",
+  "3 X PANAD0L10S 20.40",
+  "2 X BALLP0INT PEN 3PK 11.80",
+  "1x FRESH MILK1L 7.90",
+  "SUBTOTAL 40.10",
+  "GST6% 2.41",
+  "TOTAL 42.51",
+  "CASH 47.51",
+  "CHANGE 5.00",
+  "THANK YOU,PLEASE COME AGAIN"
+ ],
+ "tokens": [
+  {
+   "text": "BLUEHARBOURCAFE",
+   "conf": 0.9955016175905863
+  },
+  {
+   "text": "LOT 3-21 PAVILION MALL,BUKIT BINTANG",
+   "conf": 0.9385006295310127
+  },
+  {
+   "text": "TAXINVOICE",
+   "conf": 0.9948364138603211
+  },
+  {
+   "text": "Date:28/08/2026",
+   "conf": 0.9913940827051798
+  },
+  {
+   "text": "Time:13:42",
+   "conf": 0.9794501900672913
+  },
+  {
+   "text": "3",
+   "conf": 0.9986677169799805
+  },
+  {
+   "text": "X",
+   "conf": 0.6543357372283936
+  },
+  {
+   "text": "PANAD0L10S",
+   "conf": 0.987624442577362
+  },
+  {
+   "text": "20.40",
+   "conf": 0.9989959239959717
+  },
+  {
+   "text": "2",
+   "conf": 0.9996664524078369
+  },
+  {
+   "text": "X",
+   "conf": 0.7213935852050781
+  },
+  {
+   "text": "BALLP0INT PEN 3PK",
+   "conf": 0.9350377987412846
+  },
+  {
+   "text": "11.80",
+   "conf": 0.9986114501953125
+  },
+  {
+   "text": "1x",
+   "conf": 0.8170929849147797
+  },
+  {
+   "text": "FRESH MILK1L",
+   "conf": 0.9570544560750326
+  },
+  {
+   "text": "7.90",
+   "conf": 0.9990130960941315
+  },
+  {
+   "text": "SUBTOTAL",
+   "conf": 0.9911235123872757
+  },
+  {
+   "text": "40.10",
+   "conf": 0.9990039587020874
+  },
+  {
+   "text": "GST6%",
+   "conf": 0.9986428380012512
+  },
+  {
+   "text": "2.41",
+   "conf": 0.9984186291694641
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.9955804824829102
+  },
+  {
+   "text": "42.51",
+   "conf": 0.9992429852485657
+  },
+  {
+   "text": "CASH",
+   "conf": 0.9967211037874222
+  },
+  {
+   "text": "47.51",
+   "conf": 0.9990706324577332
+  },
+  {
+   "text": "CHANGE",
+   "conf": 0.9973254005114237
+  },
+  {
+   "text": "5.00",
+   "conf": 0.9992486387491226
+  },
+  {
+   "text": "THANK YOU,PLEASE COME AGAIN",
+   "conf": 0.927809770460482
+  }
+ ],
+ "mean_conf": 0.9581,
+ "low_conf_share": 0.0,
+ "latency_ms": 16373,
+ "fields": {
+  "company": "BLUEHARBOURCAFE",
+  "date": "2026-08-28",
+  "total": 42.51
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  42.51
+ ],
+ "key": "SYN038"
+}

@@ -1,0 +1,116 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "MAPLE&OAKBOOKSTORE",
+  "G-15 MID VALLEY MEGAMALL",
+  "TAXINVOICE",
+  "Date: 15/11/2026 Time:13:42",
+  "2x ENGINE OIL4L 178.00",
+  "2X STEAMED FISH 96.00",
+  "SUBTOTAL 274.00",
+  "%9159 16.44",
+  "TOTAL 290.44",
+  "CASH 295.44",
+  "CHANGE 5.00",
+  "THANK YOU,PLEASE COME AGAIN"
+ ],
+ "tokens": [
+  {
+   "text": "MAPLE&OAKBOOKSTORE",
+   "conf": 0.9846194287141165
+  },
+  {
+   "text": "G-15 MID VALLEY MEGAMALL",
+   "conf": 0.9367896293600401
+  },
+  {
+   "text": "TAXINVOICE",
+   "conf": 0.9935686826705933
+  },
+  {
+   "text": "Date: 15/11/2026",
+   "conf": 0.9693580865859985
+  },
+  {
+   "text": "Time:13:42",
+   "conf": 0.9726258158683777
+  },
+  {
+   "text": "2x",
+   "conf": 0.7471885681152344
+  },
+  {
+   "text": "ENGINE OIL4L",
+   "conf": 0.9538834492365519
+  },
+  {
+   "text": "178.00",
+   "conf": 0.9994547863801321
+  },
+  {
+   "text": "2X STEAMED FISH",
+   "conf": 0.9483244140942891
+  },
+  {
+   "text": "96.00",
+   "conf": 0.9990514874458313
+  },
+  {
+   "text": "SUBTOTAL",
+   "conf": 0.9939850643277168
+  },
+  {
+   "text": "274.00",
+   "conf": 0.9994080662727356
+  },
+  {
+   "text": "%9159",
+   "conf": 0.7010047376155853
+  },
+  {
+   "text": "16.44",
+   "conf": 0.9973070502281189
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.9908117413520813
+  },
+  {
+   "text": "290.44",
+   "conf": 0.9977589547634125
+  },
+  {
+   "text": "CASH",
+   "conf": 0.9941252022981644
+  },
+  {
+   "text": "295.44",
+   "conf": 0.9981734156608582
+  },
+  {
+   "text": "CHANGE",
+   "conf": 0.9963470101356506
+  },
+  {
+   "text": "5.00",
+   "conf": 0.9993815422058105
+  },
+  {
+   "text": "THANK YOU,PLEASE COME AGAIN",
+   "conf": 0.9445272132202431
+  }
+ ],
+ "mean_conf": 0.958,
+ "low_conf_share": 0.0,
+ "latency_ms": 15529,
+ "fields": {
+  "company": "MAPLE OAKBOOKSTORE",
+  "date": "2026-11-15",
+  "total": 290.44
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  290.44
+ ],
+ "key": "SYN006"
+}

@@ -1,0 +1,324 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "{ Ff",
+  "an i",
+  "ou ase",
+  "vo Se se",
+  "‘SMYRNA, GA 30080",
+  "Tie",
+  "oF TH",
+  "oe war ZS",
+  "‘HO COOKIE BLZ cle)",
+  "a 388",
+  "XTRA COOKIE ae",
+  "DATE: THU 04/27/2017 TIME 13:18:",
+  "40+ DRIVE THRU #98",
+  "‘SUBTOTAL $5.07",
+  "TAXABLE 1 $4.78",
+  "TAXT AMT. $0.29",
+  "TOTAL $5.07",
+  "CHARGE $5.07",
+  "* ORDER# 0173 *",
+  "NO.000075 REGO! DRIVE THRU TIME 13:17",
+  "THANK YOU FOR",
+  "YOUR PATRONAGE.",
+  "PLEASE COME AGAIN!",
+  "ae ‘wil DATRYQUEEN COM"
+ ],
+ "tokens": [
+  {
+   "text": "{",
+   "conf": 0.08
+  },
+  {
+   "text": "Ff",
+   "conf": 0.04
+  },
+  {
+   "text": "an",
+   "conf": 0.15
+  },
+  {
+   "text": "i",
+   "conf": 0.87
+  },
+  {
+   "text": "ou",
+   "conf": 0.28
+  },
+  {
+   "text": "ase",
+   "conf": 0.32
+  },
+  {
+   "text": "vo",
+   "conf": 0.39
+  },
+  {
+   "text": "Se",
+   "conf": 0.36
+  },
+  {
+   "text": "se",
+   "conf": 0.46
+  },
+  {
+   "text": "‘SMYRNA,",
+   "conf": 0.67
+  },
+  {
+   "text": "GA",
+   "conf": 0.48
+  },
+  {
+   "text": "30080",
+   "conf": 0.48
+  },
+  {
+   "text": "Tie",
+   "conf": 0.46
+  },
+  {
+   "text": "oF",
+   "conf": 0.43
+  },
+  {
+   "text": "TH",
+   "conf": 0.72
+  },
+  {
+   "text": "oe",
+   "conf": 0.26
+  },
+  {
+   "text": "war",
+   "conf": 0.33
+  },
+  {
+   "text": "ZS",
+   "conf": 0.0
+  },
+  {
+   "text": "‘HO",
+   "conf": 0.79
+  },
+  {
+   "text": "COOKIE",
+   "conf": 0.85
+  },
+  {
+   "text": "BLZ",
+   "conf": 0.83
+  },
+  {
+   "text": "cle)",
+   "conf": 0.08
+  },
+  {
+   "text": "a",
+   "conf": 0.29
+  },
+  {
+   "text": "388",
+   "conf": 0.37
+  },
+  {
+   "text": "XTRA",
+   "conf": 0.81
+  },
+  {
+   "text": "COOKIE",
+   "conf": 0.95
+  },
+  {
+   "text": "ae",
+   "conf": 0.34
+  },
+  {
+   "text": "DATE:",
+   "conf": 0.94
+  },
+  {
+   "text": "THU",
+   "conf": 0.84
+  },
+  {
+   "text": "04/27/2017",
+   "conf": 0.8
+  },
+  {
+   "text": "TIME",
+   "conf": 0.94
+  },
+  {
+   "text": "13:18:",
+   "conf": 0.38
+  },
+  {
+   "text": "40+",
+   "conf": 0.24
+  },
+  {
+   "text": "DRIVE",
+   "conf": 0.63
+  },
+  {
+   "text": "THRU",
+   "conf": 0.82
+  },
+  {
+   "text": "#98",
+   "conf": 0.16
+  },
+  {
+   "text": "‘SUBTOTAL",
+   "conf": 0.86
+  },
+  {
+   "text": "$5.07",
+   "conf": 0.56
+  },
+  {
+   "text": "TAXABLE",
+   "conf": 0.67
+  },
+  {
+   "text": "1",
+   "conf": 0.87
+  },
+  {
+   "text": "$4.78",
+   "conf": 0.59
+  },
+  {
+   "text": "TAXT",
+   "conf": 0.35
+  },
+  {
+   "text": "AMT.",
+   "conf": 0.58
+  },
+  {
+   "text": "$0.29",
+   "conf": 0.73
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.81
+  },
+  {
+   "text": "$5.07",
+   "conf": 0.78
+  },
+  {
+   "text": "CHARGE",
+   "conf": 0.95
+  },
+  {
+   "text": "$5.07",
+   "conf": 0.87
+  },
+  {
+   "text": "*",
+   "conf": 0.77
+  },
+  {
+   "text": "ORDER#",
+   "conf": 0.9
+  },
+  {
+   "text": "0173",
+   "conf": 0.84
+  },
+  {
+   "text": "*",
+   "conf": 0.84
+  },
+  {
+   "text": "NO.000075",
+   "conf": 0.72
+  },
+  {
+   "text": "REGO!",
+   "conf": 0.52
+  },
+  {
+   "text": "DRIVE",
+   "conf": 0.93
+  },
+  {
+   "text": "THRU",
+   "conf": 0.8
+  },
+  {
+   "text": "TIME",
+   "conf": 0.7
+  },
+  {
+   "text": "13:17",
+   "conf": 0.87
+  },
+  {
+   "text": "THANK",
+   "conf": 0.93
+  },
+  {
+   "text": "YOU",
+   "conf": 0.94
+  },
+  {
+   "text": "FOR",
+   "conf": 0.96
+  },
+  {
+   "text": "YOUR",
+   "conf": 0.85
+  },
+  {
+   "text": "PATRONAGE.",
+   "conf": 0.73
+  },
+  {
+   "text": "PLEASE",
+   "conf": 0.94
+  },
+  {
+   "text": "COME",
+   "conf": 0.96
+  },
+  {
+   "text": "AGAIN!",
+   "conf": 0.66
+  },
+  {
+   "text": "ae",
+   "conf": 0.22
+  },
+  {
+   "text": "‘wil",
+   "conf": 0.4
+  },
+  {
+   "text": "DATRYQUEEN",
+   "conf": 0.72
+  },
+  {
+   "text": "COM",
+   "conf": 0.4
+  }
+ ],
+ "mean_conf": 0.6151,
+ "low_conf_share": 0.3714,
+ "latency_ms": 451,
+ "fields": {
+  "company": "AN I",
+  "date": "2017-04-27",
+  "total": 5.07
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  5.07
+ ],
+ "key": "W0190_6d1f665628c9"
+}

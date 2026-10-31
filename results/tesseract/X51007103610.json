@@ -1,0 +1,415 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "a",
+  "LITE ne",
+  "wk. O.1.¥. (HM) SBN BHD",
+  "(CO.REG :860671-D)",
+  "iO) 1851-4 & 1851-B, JALAN KPB 5,",
+  "KAWASAN PERINDUSTRIAN BALAKONG,",
+  "43300 SERI KEMBANGAN, SELANGOR",
+  "(G51 ID No 000306020352)",
+  "(101 PUCHONG)",
+  "-TAX INVOICE-",
+  "MEN SUCKS *5",
+  "JO /2 - 12/360",
+  "9033392 YX? 2.50% 4.00",
+  "Item(s) : 1 Qty(s) : 2",
+  "Total Incl. GSI@6% RM §.00",
+  "CASH RM 5 00",
+  "GST @6% included in total RH 0.28",
+  "— men 1 da a eee",
+  "14-04-18 17:49 SHO1 2J86 T1 ROOO117052",
+  "OPERATOR TRAINEE CASHIER",
+  "EXCHANGE ARE ALLOWED WITHIN",
+  "= 7 DAY WITH RECEIPT.",
+  "STRICTLY NO JAL REFUND."
+ ],
+ "tokens": [
+  {
+   "text": "a",
+   "conf": 0.36
+  },
+  {
+   "text": "LITE",
+   "conf": 0.18
+  },
+  {
+   "text": "ne",
+   "conf": 0.11
+  },
+  {
+   "text": "wk.",
+   "conf": 0.84
+  },
+  {
+   "text": "O.1.¥.",
+   "conf": 0.1
+  },
+  {
+   "text": "(HM)",
+   "conf": 0.47
+  },
+  {
+   "text": "SBN",
+   "conf": 0.81
+  },
+  {
+   "text": "BHD",
+   "conf": 0.8
+  },
+  {
+   "text": "(CO.REG",
+   "conf": 0.87
+  },
+  {
+   "text": ":860671-D)",
+   "conf": 0.87
+  },
+  {
+   "text": "iO)",
+   "conf": 0.62
+  },
+  {
+   "text": "1851-4",
+   "conf": 0.87
+  },
+  {
+   "text": "&",
+   "conf": 0.92
+  },
+  {
+   "text": "1851-B,",
+   "conf": 0.9
+  },
+  {
+   "text": "JALAN",
+   "conf": 0.93
+  },
+  {
+   "text": "KPB",
+   "conf": 0.9
+  },
+  {
+   "text": "5,",
+   "conf": 0.83
+  },
+  {
+   "text": "KAWASAN",
+   "conf": 0.63
+  },
+  {
+   "text": "PERINDUSTRIAN",
+   "conf": 0.29
+  },
+  {
+   "text": "BALAKONG,",
+   "conf": 0.89
+  },
+  {
+   "text": "43300",
+   "conf": 0.91
+  },
+  {
+   "text": "SERI",
+   "conf": 0.84
+  },
+  {
+   "text": "KEMBANGAN,",
+   "conf": 0.84
+  },
+  {
+   "text": "SELANGOR",
+   "conf": 0.96
+  },
+  {
+   "text": "(G51",
+   "conf": 0.62
+  },
+  {
+   "text": "ID",
+   "conf": 0.9
+  },
+  {
+   "text": "No",
+   "conf": 0.95
+  },
+  {
+   "text": "000306020352)",
+   "conf": 0.11
+  },
+  {
+   "text": "(101",
+   "conf": 0.9
+  },
+  {
+   "text": "PUCHONG)",
+   "conf": 0.9
+  },
+  {
+   "text": "-TAX",
+   "conf": 0.8
+  },
+  {
+   "text": "INVOICE-",
+   "conf": 0.87
+  },
+  {
+   "text": "MEN",
+   "conf": 0.94
+  },
+  {
+   "text": "SUCKS",
+   "conf": 0.94
+  },
+  {
+   "text": "*5",
+   "conf": 0.34
+  },
+  {
+   "text": "JO",
+   "conf": 0.0
+  },
+  {
+   "text": "/2",
+   "conf": 0.0
+  },
+  {
+   "text": "-",
+   "conf": 0.83
+  },
+  {
+   "text": "12/360",
+   "conf": 0.72
+  },
+  {
+   "text": "9033392",
+   "conf": 0.76
+  },
+  {
+   "text": "YX?",
+   "conf": 0.18
+  },
+  {
+   "text": "2.50%",
+   "conf": 0.39
+  },
+  {
+   "text": "4.00",
+   "conf": 0.3
+  },
+  {
+   "text": "Item(s)",
+   "conf": 0.81
+  },
+  {
+   "text": ":",
+   "conf": 0.7
+  },
+  {
+   "text": "1",
+   "conf": 0.81
+  },
+  {
+   "text": "Qty(s)",
+   "conf": 0.79
+  },
+  {
+   "text": ":",
+   "conf": 0.85
+  },
+  {
+   "text": "2",
+   "conf": 0.95
+  },
+  {
+   "text": "Total",
+   "conf": 0.71
+  },
+  {
+   "text": "Incl.",
+   "conf": 0.84
+  },
+  {
+   "text": "GSI@6%",
+   "conf": 0.16
+  },
+  {
+   "text": "RM",
+   "conf": 0.79
+  },
+  {
+   "text": "§.00",
+   "conf": 0.32
+  },
+  {
+   "text": "CASH",
+   "conf": 0.96
+  },
+  {
+   "text": "RM",
+   "conf": 0.82
+  },
+  {
+   "text": "5",
+   "conf": 0.76
+  },
+  {
+   "text": "00",
+   "conf": 0.76
+  },
+  {
+   "text": "GST",
+   "conf": 0.91
+  },
+  {
+   "text": "@6%",
+   "conf": 0.86
+  },
+  {
+   "text": "included",
+   "conf": 0.84
+  },
+  {
+   "text": "in",
+   "conf": 0.95
+  },
+  {
+   "text": "total",
+   "conf": 0.96
+  },
+  {
+   "text": "RH",
+   "conf": 0.72
+  },
+  {
+   "text": "0.28",
+   "conf": 0.88
+  },
+  {
+   "text": "—",
+   "conf": 0.3
+  },
+  {
+   "text": "men",
+   "conf": 0.32
+  },
+  {
+   "text": "1",
+   "conf": 0.46
+  },
+  {
+   "text": "da",
+   "conf": 0.12
+  },
+  {
+   "text": "a",
+   "conf": 0.1
+  },
+  {
+   "text": "eee",
+   "conf": 0.04
+  },
+  {
+   "text": "14-04-18",
+   "conf": 0.77
+  },
+  {
+   "text": "17:49",
+   "conf": 0.93
+  },
+  {
+   "text": "SHO1",
+   "conf": 0.87
+  },
+  {
+   "text": "2J86",
+   "conf": 0.83
+  },
+  {
+   "text": "T1",
+   "conf": 0.86
+  },
+  {
+   "text": "ROOO117052",
+   "conf": 0.5
+  },
+  {
+   "text": "OPERATOR",
+   "conf": 0.96
+  },
+  {
+   "text": "TRAINEE",
+   "conf": 0.94
+  },
+  {
+   "text": "CASHIER",
+   "conf": 0.96
+  },
+  {
+   "text": "EXCHANGE",
+   "conf": 0.96
+  },
+  {
+   "text": "ARE",
+   "conf": 0.96
+  },
+  {
+   "text": "ALLOWED",
+   "conf": 0.96
+  },
+  {
+   "text": "WITHIN",
+   "conf": 0.95
+  },
+  {
+   "text": "=",
+   "conf": 0.5
+  },
+  {
+   "text": "7",
+   "conf": 0.94
+  },
+  {
+   "text": "DAY",
+   "conf": 0.94
+  },
+  {
+   "text": "WITH",
+   "conf": 0.95
+  },
+  {
+   "text": "RECEIPT.",
+   "conf": 0.93
+  },
+  {
+   "text": "STRICTLY",
+   "conf": 0.95
+  },
+  {
+   "text": "NO",
+   "conf": 0.91
+  },
+  {
+   "text": "JAL",
+   "conf": 0.0
+  },
+  {
+   "text": "REFUND.",
+   "conf": 0.93
+  }
+ ],
+ "mean_conf": 0.7009,
+ "low_conf_share": 0.2366,
+ "latency_ms": 686,
+ "fields": {
+  "company": "WK O 1 SBN BHD",
+  "date": "2018-04-14",
+  "total": 0.28
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  0.28
+ ],
+ "key": "X51007103610"
+}

@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.1-flash-lite",
+ "provider": "gemini",
+ "raw_text": "{\n  \"vendor\": \"Curious Palette\",\n  \"date\": \"2016-01-16\",\n  \"subtotal\": 95.4,\n  \"tax\": 7.35,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 112.29,\n  \"currency\": \"SGD\",\n  \"confidence\": 1.0,\n  \"notes\": \"The 10% service charge is listed separately from the 7% GST.\"\n}",
+ "data": {
+  "vendor": "Curious Palette",
+  "date": "2016-01-16",
+  "subtotal": 95.4,
+  "tax": 7.35,
+  "tip": null,
+  "discount": null,
+  "total": 112.29,
+  "currency": "SGD",
+  "confidence": 1.0,
+  "notes": "The 10% service charge is listed separately from the 7% GST."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1471,
+  "output_tokens": 121,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.000549,
+ "latency_ms": 1564,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.1-flash-lite",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.1-flash-lite"
+ ],
+ "key": "W0062_5ceff02beae5"
+}

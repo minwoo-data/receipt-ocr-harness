@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.1-flash-lite",
+ "provider": "gemini",
+ "raw_text": "{\n  \"vendor\": \"KHIAM AIK CHAN SDN BHD\",\n  \"date\": \"2017-09-25\",\n  \"subtotal\": 26.79,\n  \"tax\": 1.61,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 28.40,\n  \"currency\": \"MYR\",\n  \"confidence\": 0.98,\n  \"notes\": null\n}",
+ "data": {
+  "vendor": "KHIAM AIK CHAN SDN BHD",
+  "date": "2017-09-25",
+  "subtotal": 26.79,
+  "tax": 1.61,
+  "tip": null,
+  "discount": null,
+  "total": 28.4,
+  "currency": "MYR",
+  "confidence": 0.98,
+  "notes": null
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1425,
+  "output_tokens": 112,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.000524,
+ "latency_ms": 12602,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.1-flash-lite",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.1-flash-lite"
+ ],
+ "key": "X51006555125"
+}

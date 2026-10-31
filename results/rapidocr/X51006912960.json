@@ -1,0 +1,186 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "De Maximum Thai Express Sdn Bhd",
+  "1241045-D",
+  "Blk 2,Unit G1& G2,Bestari Terrace,",
+  "L.otPTD 182908&PTD 143216,",
+  "JalanDanga,Taman Nusa Bestari,81300",
+  "TAX INVOICE NO 6",
+  "6485",
+  "Date: 17/05/2018 10:54:21PM",
+  "Cashier: s201",
+  "Waiter:ANJO",
+  "Qty Code/Desc Unit Price Total RM",
+  "2 D15 8.90 17.80",
+  "THAIICE TEA",
+  "1 FR01 12.90 12.90",
+  "BELACAN FRIED RICE",
+  "Total Amount : 30.70",
+  "Rounding Adj : 0.00",
+  "Total Amount: 30.70",
+  "TOTAL: RM 30.70",
+  "Type 2 Qty: 3 17/05/2018",
+  "Xposmart WiFiPOS Since 1985."
+ ],
+ "tokens": [
+  {
+   "text": "De Maximum Thai Express Sdn Bhd",
+   "conf": 0.9906715558421227
+  },
+  {
+   "text": "1241045-D",
+   "conf": 0.9994544320636325
+  },
+  {
+   "text": "Blk 2,Unit G1& G2,Bestari Terrace,",
+   "conf": 0.9299938468372121
+  },
+  {
+   "text": "L.otPTD 182908&PTD 143216,",
+   "conf": 0.9354716768631568
+  },
+  {
+   "text": "JalanDanga,Taman Nusa Bestari,81300",
+   "conf": 0.960267312186105
+  },
+  {
+   "text": "TAX INVOICE NO",
+   "conf": 0.9625969997474125
+  },
+  {
+   "text": "6",
+   "conf": 0.9984250068664551
+  },
+  {
+   "text": "6485",
+   "conf": 0.9995962083339691
+  },
+  {
+   "text": "Date: 17/05/2018 10:54:21PM",
+   "conf": 0.973657179761816
+  },
+  {
+   "text": "Cashier: s201",
+   "conf": 0.9654153952231774
+  },
+  {
+   "text": "Waiter:ANJO",
+   "conf": 0.995213351466439
+  },
+  {
+   "text": "Qty Code/Desc",
+   "conf": 0.9256958732238183
+  },
+  {
+   "text": "Unit Price",
+   "conf": 0.9847201347351074
+  },
+  {
+   "text": "Total RM",
+   "conf": 0.9785964041948318
+  },
+  {
+   "text": "2",
+   "conf": 0.9996541738510132
+  },
+  {
+   "text": "D15",
+   "conf": 0.9891374905904134
+  },
+  {
+   "text": "8.90",
+   "conf": 0.9998086988925934
+  },
+  {
+   "text": "17.80",
+   "conf": 0.9998839259147644
+  },
+  {
+   "text": "THAIICE TEA",
+   "conf": 0.959277564829046
+  },
+  {
+   "text": "1",
+   "conf": 0.993339478969574
+  },
+  {
+   "text": "FR01",
+   "conf": 0.9549378901720047
+  },
+  {
+   "text": "12.90",
+   "conf": 0.9998038053512573
+  },
+  {
+   "text": "12.90",
+   "conf": 0.9997381091117858
+  },
+  {
+   "text": "BELACAN FRIED RICE",
+   "conf": 0.9830864800347222
+  },
+  {
+   "text": "Total Amount :",
+   "conf": 0.9607238641807011
+  },
+  {
+   "text": "30.70",
+   "conf": 0.9998180985450744
+  },
+  {
+   "text": "Rounding Adj :",
+   "conf": 0.9756935153688703
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9993513971567154
+  },
+  {
+   "text": "Total Amount:",
+   "conf": 0.96362854884221
+  },
+  {
+   "text": "30.70",
+   "conf": 0.9997632145881653
+  },
+  {
+   "text": "TOTAL:",
+   "conf": 0.9714768628279368
+  },
+  {
+   "text": "RM 30.70",
+   "conf": 0.9889057204127312
+  },
+  {
+   "text": "Type 2",
+   "conf": 0.9924389123916626
+  },
+  {
+   "text": "Qty: 3",
+   "conf": 0.9600610534350077
+  },
+  {
+   "text": "17/05/2018",
+   "conf": 0.9988105356693268
+  },
+  {
+   "text": "Xposmart WiFiPOS Since 1985.",
+   "conf": 0.9561029332024711
+  }
+ ],
+ "mean_conf": 0.979,
+ "low_conf_share": 0.0,
+ "latency_ms": 4718,
+ "fields": {
+  "company": "DE MAXIMUM THAI EXPRESS SDN BHD",
+  "date": "2018-05-17",
+  "total": 30.7
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  30.7,
+  30.7
+ ],
+ "key": "X51006912960"
+}

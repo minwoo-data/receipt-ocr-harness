@@ -1,0 +1,574 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "Pizza Hut Restaurant Sdn. Bhd",
+  "(113925-U) .",
+  "g Jin Utara iano P é i Cent",
+  "Docket :28¢ ‘",
+  "0S Apr 17 13:9 ‘",
+  "} LUNCH APR © iB £",
+  "WO BF ARRAB SPG t",
+  "WO SOUP —",
+  "MO ISOYA BEAN f",
+  "38154",
+  "} GES REDEEM £ E 6.00",
+  "} NEW GES GB+souP 6.00 &",
+  "mp GB E Ss",
+  "mp SOUP & Ss",
+  "CASH 19 .GO",
+  "sub Total: 8.90",
+  "Service Charge: 6.82",
+  "alii : Total: 9.13",
+  "— Rnd AdJ 9.0%",
+  "Ttl Aft Rnd 9.80",
+  "payment ‘ 10.00",
+  "Change Bue: 9.20 al",
+  "6% GST 0.58 en,",
+  "----~| CLOSED g6 Apr \\1 jade a2 5 er:",
+  "visit ipizzanutsurvey con share ee",
+  "| your experience Within 6 days and Get es",
+  "Free | Gar! | Bread & { Mushroom Soup oe",
+  "Pima nits oy Oe"
+ ],
+ "tokens": [
+  {
+   "text": "Pizza",
+   "conf": 0.96
+  },
+  {
+   "text": "Hut",
+   "conf": 0.96
+  },
+  {
+   "text": "Restaurant",
+   "conf": 0.96
+  },
+  {
+   "text": "Sdn.",
+   "conf": 0.96
+  },
+  {
+   "text": "Bhd",
+   "conf": 0.96
+  },
+  {
+   "text": "(113925-U)",
+   "conf": 0.69
+  },
+  {
+   "text": ".",
+   "conf": 0.21
+  },
+  {
+   "text": "g",
+   "conf": 0.0
+  },
+  {
+   "text": "Jin",
+   "conf": 0.88
+  },
+  {
+   "text": "Utara",
+   "conf": 0.94
+  },
+  {
+   "text": "iano",
+   "conf": 0.05
+  },
+  {
+   "text": "P",
+   "conf": 0.8
+  },
+  {
+   "text": "é",
+   "conf": 0.54
+  },
+  {
+   "text": "i",
+   "conf": 0.83
+  },
+  {
+   "text": "Cent",
+   "conf": 0.96
+  },
+  {
+   "text": "Docket",
+   "conf": 0.92
+  },
+  {
+   "text": ":28¢",
+   "conf": 0.62
+  },
+  {
+   "text": "‘",
+   "conf": 0.5
+  },
+  {
+   "text": "0S",
+   "conf": 0.56
+  },
+  {
+   "text": "Apr",
+   "conf": 0.93
+  },
+  {
+   "text": "17",
+   "conf": 0.75
+  },
+  {
+   "text": "13:9",
+   "conf": 0.54
+  },
+  {
+   "text": "‘",
+   "conf": 0.05
+  },
+  {
+   "text": "}",
+   "conf": 0.23
+  },
+  {
+   "text": "LUNCH",
+   "conf": 0.92
+  },
+  {
+   "text": "APR",
+   "conf": 0.84
+  },
+  {
+   "text": "©",
+   "conf": 0.92
+  },
+  {
+   "text": "iB",
+   "conf": 0.74
+  },
+  {
+   "text": "£",
+   "conf": 0.08
+  },
+  {
+   "text": "WO",
+   "conf": 0.48
+  },
+  {
+   "text": "BF",
+   "conf": 0.88
+  },
+  {
+   "text": "ARRAB",
+   "conf": 0.92
+  },
+  {
+   "text": "SPG",
+   "conf": 0.84
+  },
+  {
+   "text": "t",
+   "conf": 0.9
+  },
+  {
+   "text": "WO",
+   "conf": 0.66
+  },
+  {
+   "text": "SOUP",
+   "conf": 0.81
+  },
+  {
+   "text": "—",
+   "conf": 0.23
+  },
+  {
+   "text": "MO",
+   "conf": 0.81
+  },
+  {
+   "text": "ISOYA",
+   "conf": 0.03
+  },
+  {
+   "text": "BEAN",
+   "conf": 0.93
+  },
+  {
+   "text": "f",
+   "conf": 0.18
+  },
+  {
+   "text": "38154",
+   "conf": 0.68
+  },
+  {
+   "text": "}",
+   "conf": 0.04
+  },
+  {
+   "text": "GES",
+   "conf": 0.96
+  },
+  {
+   "text": "REDEEM",
+   "conf": 0.89
+  },
+  {
+   "text": "£",
+   "conf": 0.53
+  },
+  {
+   "text": "E",
+   "conf": 0.87
+  },
+  {
+   "text": "6.00",
+   "conf": 0.49
+  },
+  {
+   "text": "}",
+   "conf": 0.24
+  },
+  {
+   "text": "NEW",
+   "conf": 0.94
+  },
+  {
+   "text": "GES",
+   "conf": 0.96
+  },
+  {
+   "text": "GB+souP",
+   "conf": 0.51
+  },
+  {
+   "text": "6.00",
+   "conf": 0.67
+  },
+  {
+   "text": "&",
+   "conf": 0.1
+  },
+  {
+   "text": "mp",
+   "conf": 0.93
+  },
+  {
+   "text": "GB",
+   "conf": 0.6
+  },
+  {
+   "text": "E",
+   "conf": 0.6
+  },
+  {
+   "text": "Ss",
+   "conf": 0.59
+  },
+  {
+   "text": "mp",
+   "conf": 0.91
+  },
+  {
+   "text": "SOUP",
+   "conf": 0.92
+  },
+  {
+   "text": "&",
+   "conf": 0.0
+  },
+  {
+   "text": "Ss",
+   "conf": 0.53
+  },
+  {
+   "text": "CASH",
+   "conf": 0.96
+  },
+  {
+   "text": "19",
+   "conf": 0.69
+  },
+  {
+   "text": ".GO",
+   "conf": 0.42
+  },
+  {
+   "text": "sub",
+   "conf": 0.92
+  },
+  {
+   "text": "Total:",
+   "conf": 0.94
+  },
+  {
+   "text": "8.90",
+   "conf": 0.8
+  },
+  {
+   "text": "Service",
+   "conf": 0.94
+  },
+  {
+   "text": "Charge:",
+   "conf": 0.85
+  },
+  {
+   "text": "6.82",
+   "conf": 0.53
+  },
+  {
+   "text": "alii",
+   "conf": 0.27
+  },
+  {
+   "text": ":",
+   "conf": 0.15
+  },
+  {
+   "text": "Total:",
+   "conf": 0.81
+  },
+  {
+   "text": "9.13",
+   "conf": 0.67
+  },
+  {
+   "text": "—",
+   "conf": 0.06
+  },
+  {
+   "text": "Rnd",
+   "conf": 0.91
+  },
+  {
+   "text": "AdJ",
+   "conf": 0.89
+  },
+  {
+   "text": "9.0%",
+   "conf": 0.48
+  },
+  {
+   "text": "Ttl",
+   "conf": 0.7
+  },
+  {
+   "text": "Aft",
+   "conf": 0.95
+  },
+  {
+   "text": "Rnd",
+   "conf": 0.93
+  },
+  {
+   "text": "9.80",
+   "conf": 0.74
+  },
+  {
+   "text": "payment",
+   "conf": 0.93
+  },
+  {
+   "text": "‘",
+   "conf": 0.43
+  },
+  {
+   "text": "10.00",
+   "conf": 0.8
+  },
+  {
+   "text": "Change",
+   "conf": 0.7
+  },
+  {
+   "text": "Bue:",
+   "conf": 0.58
+  },
+  {
+   "text": "9.20",
+   "conf": 0.81
+  },
+  {
+   "text": "al",
+   "conf": 0.42
+  },
+  {
+   "text": "6%",
+   "conf": 0.9
+  },
+  {
+   "text": "GST",
+   "conf": 0.93
+  },
+  {
+   "text": "0.58",
+   "conf": 0.67
+  },
+  {
+   "text": "en,",
+   "conf": 0.3
+  },
+  {
+   "text": "----~|",
+   "conf": 0.0
+  },
+  {
+   "text": "CLOSED",
+   "conf": 0.86
+  },
+  {
+   "text": "g6",
+   "conf": 0.0
+  },
+  {
+   "text": "Apr",
+   "conf": 0.95
+  },
+  {
+   "text": "\\1",
+   "conf": 0.0
+  },
+  {
+   "text": "jade",
+   "conf": 0.0
+  },
+  {
+   "text": "a2",
+   "conf": 0.17
+  },
+  {
+   "text": "5",
+   "conf": 0.26
+  },
+  {
+   "text": "er:",
+   "conf": 0.31
+  },
+  {
+   "text": "visit",
+   "conf": 0.13
+  },
+  {
+   "text": "ipizzanutsurvey",
+   "conf": 0.0
+  },
+  {
+   "text": "con",
+   "conf": 0.13
+  },
+  {
+   "text": "share",
+   "conf": 0.18
+  },
+  {
+   "text": "ee",
+   "conf": 0.29
+  },
+  {
+   "text": "|",
+   "conf": 0.47
+  },
+  {
+   "text": "your",
+   "conf": 0.47
+  },
+  {
+   "text": "experience",
+   "conf": 0.51
+  },
+  {
+   "text": "Within",
+   "conf": 0.28
+  },
+  {
+   "text": "6",
+   "conf": 0.46
+  },
+  {
+   "text": "days",
+   "conf": 0.66
+  },
+  {
+   "text": "and",
+   "conf": 0.8
+  },
+  {
+   "text": "Get",
+   "conf": 0.48
+  },
+  {
+   "text": "es",
+   "conf": 0.02
+  },
+  {
+   "text": "Free",
+   "conf": 0.24
+  },
+  {
+   "text": "|",
+   "conf": 0.69
+  },
+  {
+   "text": "Gar!",
+   "conf": 0.54
+  },
+  {
+   "text": "|",
+   "conf": 0.54
+  },
+  {
+   "text": "Bread",
+   "conf": 0.7
+  },
+  {
+   "text": "&",
+   "conf": 0.92
+  },
+  {
+   "text": "{",
+   "conf": 0.2
+  },
+  {
+   "text": "Mushroom",
+   "conf": 0.72
+  },
+  {
+   "text": "Soup",
+   "conf": 0.89
+  },
+  {
+   "text": "oe",
+   "conf": 0.12
+  },
+  {
+   "text": "Pima",
+   "conf": 0.0
+  },
+  {
+   "text": "nits",
+   "conf": 0.0
+  },
+  {
+   "text": "oy",
+   "conf": 0.5
+  },
+  {
+   "text": "Oe",
+   "conf": 0.11
+  }
+ ],
+ "mean_conf": 0.5772,
+ "low_conf_share": 0.3588,
+ "latency_ms": 2061,
+ "fields": {
+  "company": "PIZZA HUT RESTAURANT SDN BHD",
+  "date": null,
+  "total": 9.13
+ },
+ "rule_reasons": [
+  "date_not_found"
+ ],
+ "total_candidates": [
+  9.13
+ ],
+ "key": "W0126_8267df0e11d1"
+}

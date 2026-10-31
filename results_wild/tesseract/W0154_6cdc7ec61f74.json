@@ -1,0 +1,380 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "Fes RG Ener,",
+  "at h",
+  "S |",
+  "Jollibee. F",
+  "Entrek (B) Sdn.Bhd.",
+  "Joi libee Yayasan Complex B08",
+  "223 2890 223 2891",
+  "AIEEE IG RRR E Aa aI II",
+  "2 POS 2 2 Hih Joy",
+  "Chk No+20052 q",
+  "18 Feb 14 13:04:18",
+  "m---= DINE IN -----",
+  "1 C1 cI 3.70",
+  "UM SDR",
+  "CASH 10.00",
+  "Total item sold 2",
+  "Subtotal: 3.70 |",
+  "Total: 3.70",
+  "Payment: 10.00",
+  "Change Due: 6.30",
+  "~-----2 CLOSED 18 Feb 14 13:04:49-------",
+  "Official Receipt |",
+  "iti Ae i t }",
+  "i j 4"
+ ],
+ "tokens": [
+  {
+   "text": "Fes",
+   "conf": 0.08
+  },
+  {
+   "text": "RG",
+   "conf": 0.14
+  },
+  {
+   "text": "Ener,",
+   "conf": 0.0
+  },
+  {
+   "text": "at",
+   "conf": 0.31
+  },
+  {
+   "text": "h",
+   "conf": 0.0
+  },
+  {
+   "text": "S",
+   "conf": 0.0
+  },
+  {
+   "text": "|",
+   "conf": 0.53
+  },
+  {
+   "text": "Jollibee.",
+   "conf": 0.86
+  },
+  {
+   "text": "F",
+   "conf": 0.0
+  },
+  {
+   "text": "Entrek",
+   "conf": 0.86
+  },
+  {
+   "text": "(B)",
+   "conf": 0.89
+  },
+  {
+   "text": "Sdn.Bhd.",
+   "conf": 0.11
+  },
+  {
+   "text": "Joi",
+   "conf": 0.51
+  },
+  {
+   "text": "libee",
+   "conf": 0.51
+  },
+  {
+   "text": "Yayasan",
+   "conf": 0.92
+  },
+  {
+   "text": "Complex",
+   "conf": 0.34
+  },
+  {
+   "text": "B08",
+   "conf": 0.59
+  },
+  {
+   "text": "223",
+   "conf": 0.74
+  },
+  {
+   "text": "2890",
+   "conf": 0.74
+  },
+  {
+   "text": "223",
+   "conf": 0.81
+  },
+  {
+   "text": "2891",
+   "conf": 0.93
+  },
+  {
+   "text": "AIEEE",
+   "conf": 0.0
+  },
+  {
+   "text": "IG",
+   "conf": 0.0
+  },
+  {
+   "text": "RRR",
+   "conf": 0.09
+  },
+  {
+   "text": "E",
+   "conf": 0.0
+  },
+  {
+   "text": "Aa",
+   "conf": 0.35
+  },
+  {
+   "text": "aI",
+   "conf": 0.13
+  },
+  {
+   "text": "II",
+   "conf": 0.32
+  },
+  {
+   "text": "2",
+   "conf": 0.89
+  },
+  {
+   "text": "POS",
+   "conf": 0.89
+  },
+  {
+   "text": "2",
+   "conf": 0.93
+  },
+  {
+   "text": "2",
+   "conf": 0.79
+  },
+  {
+   "text": "Hih",
+   "conf": 0.79
+  },
+  {
+   "text": "Joy",
+   "conf": 0.96
+  },
+  {
+   "text": "Chk",
+   "conf": 0.83
+  },
+  {
+   "text": "No+20052",
+   "conf": 0.29
+  },
+  {
+   "text": "q",
+   "conf": 0.32
+  },
+  {
+   "text": "18",
+   "conf": 0.96
+  },
+  {
+   "text": "Feb",
+   "conf": 0.96
+  },
+  {
+   "text": "14",
+   "conf": 0.95
+  },
+  {
+   "text": "13:04:18",
+   "conf": 0.83
+  },
+  {
+   "text": "m---=",
+   "conf": 0.0
+  },
+  {
+   "text": "DINE",
+   "conf": 0.91
+  },
+  {
+   "text": "IN",
+   "conf": 0.46
+  },
+  {
+   "text": "-----",
+   "conf": 0.68
+  },
+  {
+   "text": "1",
+   "conf": 0.82
+  },
+  {
+   "text": "C1",
+   "conf": 0.64
+  },
+  {
+   "text": "cI",
+   "conf": 0.64
+  },
+  {
+   "text": "3.70",
+   "conf": 0.96
+  },
+  {
+   "text": "UM",
+   "conf": 0.83
+  },
+  {
+   "text": "SDR",
+   "conf": 0.94
+  },
+  {
+   "text": "CASH",
+   "conf": 0.46
+  },
+  {
+   "text": "10.00",
+   "conf": 0.9
+  },
+  {
+   "text": "Total",
+   "conf": 0.94
+  },
+  {
+   "text": "item",
+   "conf": 0.95
+  },
+  {
+   "text": "sold",
+   "conf": 0.76
+  },
+  {
+   "text": "2",
+   "conf": 0.41
+  },
+  {
+   "text": "Subtotal:",
+   "conf": 0.62
+  },
+  {
+   "text": "3.70",
+   "conf": 0.96
+  },
+  {
+   "text": "|",
+   "conf": 0.22
+  },
+  {
+   "text": "Total:",
+   "conf": 0.72
+  },
+  {
+   "text": "3.70",
+   "conf": 0.95
+  },
+  {
+   "text": "Payment:",
+   "conf": 0.89
+  },
+  {
+   "text": "10.00",
+   "conf": 0.96
+  },
+  {
+   "text": "Change",
+   "conf": 0.96
+  },
+  {
+   "text": "Due:",
+   "conf": 0.45
+  },
+  {
+   "text": "6.30",
+   "conf": 0.95
+  },
+  {
+   "text": "~-----2",
+   "conf": 0.51
+  },
+  {
+   "text": "CLOSED",
+   "conf": 0.96
+  },
+  {
+   "text": "18",
+   "conf": 0.96
+  },
+  {
+   "text": "Feb",
+   "conf": 0.96
+  },
+  {
+   "text": "14",
+   "conf": 0.92
+  },
+  {
+   "text": "13:04:49-------",
+   "conf": 0.74
+  },
+  {
+   "text": "Official",
+   "conf": 0.82
+  },
+  {
+   "text": "Receipt",
+   "conf": 0.95
+  },
+  {
+   "text": "|",
+   "conf": 0.82
+  },
+  {
+   "text": "iti",
+   "conf": 0.44
+  },
+  {
+   "text": "Ae",
+   "conf": 0.28
+  },
+  {
+   "text": "i",
+   "conf": 0.69
+  },
+  {
+   "text": "t",
+   "conf": 0.23
+  },
+  {
+   "text": "}",
+   "conf": 0.26
+  },
+  {
+   "text": "i",
+   "conf": 0.64
+  },
+  {
+   "text": "j",
+   "conf": 0.39
+  },
+  {
+   "text": "4",
+   "conf": 0.93
+  }
+ ],
+ "mean_conf": 0.6146,
+ "low_conf_share": 0.3452,
+ "latency_ms": 849,
+ "fields": {
+  "company": "JOLLIBEE F ENTREK SDN BHD",
+  "date": "2014-02-18",
+  "total": 3.7
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  3.7
+ ],
+ "key": "W0154_6cdc7ec61f74"
+}

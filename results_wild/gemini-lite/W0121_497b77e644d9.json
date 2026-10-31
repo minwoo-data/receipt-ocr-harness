@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.1-flash-lite",
+ "provider": "gemini",
+ "raw_text": "{\n  \"vendor\": \"CALIFORNIA PIZZA KITCHEN\",\n  \"date\": \"2014-12-23\",\n  \"subtotal\": 14.48,\n  \"tax\": 1.33,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 16.10,\n  \"currency\": \"USD\",\n  \"confidence\": 0.98,\n  \"notes\": \"EE BENFT SURCHRG of 0.29 is included in the total but not listed as tax or subtotal.\"\n}",
+ "data": {
+  "vendor": "CALIFORNIA PIZZA KITCHEN",
+  "date": "2014-12-23",
+  "subtotal": 14.48,
+  "tax": 1.33,
+  "tip": null,
+  "discount": null,
+  "total": 16.1,
+  "currency": "USD",
+  "confidence": 0.98,
+  "notes": "EE BENFT SURCHRG of 0.29 is included in the total but not listed as tax or subtotal."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1469,
+  "output_tokens": 136,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.000571,
+ "latency_ms": 1587,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.1-flash-lite",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.1-flash-lite"
+ ],
+ "key": "W0121_497b77e644d9"
+}

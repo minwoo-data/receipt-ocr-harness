@@ -1,0 +1,133 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "Pattappa's",
+  "vegetarian. ee -unlimited",
+  "ne:60 luz enurch road",
+  "mylapore chennai - 600004",
+  "é ph: 9791272888",
+  "f RESTAURANT",
+  "Bill No: 285 Tab No: 2",
+  "ioe ies ber)"
+ ],
+ "tokens": [
+  {
+   "text": "Pattappa's",
+   "conf": 0.7
+  },
+  {
+   "text": "vegetarian.",
+   "conf": 0.92
+  },
+  {
+   "text": "ee",
+   "conf": 0.0
+  },
+  {
+   "text": "-unlimited",
+   "conf": 0.31
+  },
+  {
+   "text": "ne:60",
+   "conf": 0.67
+  },
+  {
+   "text": "luz",
+   "conf": 0.69
+  },
+  {
+   "text": "enurch",
+   "conf": 0.75
+  },
+  {
+   "text": "road",
+   "conf": 0.87
+  },
+  {
+   "text": "mylapore",
+   "conf": 0.9
+  },
+  {
+   "text": "chennai",
+   "conf": 0.81
+  },
+  {
+   "text": "-",
+   "conf": 0.89
+  },
+  {
+   "text": "600004",
+   "conf": 0.95
+  },
+  {
+   "text": "é",
+   "conf": 0.59
+  },
+  {
+   "text": "ph:",
+   "conf": 0.0
+  },
+  {
+   "text": "9791272888",
+   "conf": 0.0
+  },
+  {
+   "text": "f",
+   "conf": 0.12
+  },
+  {
+   "text": "RESTAURANT",
+   "conf": 0.96
+  },
+  {
+   "text": "Bill",
+   "conf": 0.87
+  },
+  {
+   "text": "No:",
+   "conf": 0.87
+  },
+  {
+   "text": "285",
+   "conf": 0.95
+  },
+  {
+   "text": "Tab",
+   "conf": 0.79
+  },
+  {
+   "text": "No:",
+   "conf": 0.89
+  },
+  {
+   "text": "2",
+   "conf": 0.96
+  },
+  {
+   "text": "ioe",
+   "conf": 0.21
+  },
+  {
+   "text": "ies",
+   "conf": 0.21
+  },
+  {
+   "text": "ber)",
+   "conf": 0.32
+  }
+ ],
+ "mean_conf": 0.6231,
+ "low_conf_share": 0.3077,
+ "latency_ms": 862,
+ "fields": {
+  "company": "F RESTAURANT",
+  "date": null,
+  "total": null
+ },
+ "rule_reasons": [
+  "date_not_found",
+  "total_not_found"
+ ],
+ "total_candidates": [],
+ "key": "W0160_5326bd45e6b9"
+}

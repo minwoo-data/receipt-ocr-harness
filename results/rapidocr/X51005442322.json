@@ -1,0 +1,348 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "RESTAURANT",
+  "TONY ROMA'S AEONTEBRAU CITY",
+  "LOT G112, AEON MALL TEBRAU CITY",
+  "NO 1 JALAN DESA TEBRAU",
+  "81100 JOHOR BAHRU",
+  "Tel:07-3510749",
+  "website:ww.tonyromas.com.my",
+  "Facebook:ww.facebook.com/TRMALAYSIA",
+  "GST 10:000436699136",
+  "2 TR1 1014FAZLIN",
+  "Chk 65991 Guest3",
+  "03Mar1805:16:55PM",
+  "TBL43",
+  "1NY STRIP 67.67 S",
+  "MediumWell",
+  "RANCH BEANS",
+  "1NYSTRIP SLAW 67.67 S",
+  "Medium",
+  "FR ROASTED VEGE",
+  "BAKED POTATO",
+  "1 NYSTRIP Loaded 67.67 S",
+  "MediumWell",
+  "FRROASTEO VEGE",
+  "11 ICE LATTE FF 9.35 S",
+  "7UP 9.35 S",
+  "1 PEPSI 9.35S",
+  "Subtotal 231.06",
+  "10%SrvChg 23.10",
+  "GST@6% 15.25",
+  "Total 269.40",
+  "RH10OFF FORA MINIMUMOFRH50SPENT",
+  "ONYOUR NEXT VISIT TO TONY ROMA'S!!",
+  "GO TO:W.TONYCARES.COM",
+  "PLEASE TELL US HON WE ARE DOING",
+  "Store #0217",
+  "SURVEY VALIDATION CODE",
+  "This Receipt With Validation Code Is",
+  "Valid3MonthsFrom Date ofReceipt",
+  "One redemption per group, per visit.",
+  "SWEREJRINLAPOSTEUnAVaTTabTe",
+  "Excehenpaybeneitstgrowlh",
+  "EApplyatreeruttmentutonyxomascomiy",
+  "GST @6% included in total",
+  "GSTSunmary Amoumt(RM) GST(RM)",
+  "S=GST06%: 254.17 15.25",
+  "Z=GST00%: 0.00 0.00"
+ ],
+ "tokens": [
+  {
+   "text": "RESTAURANT",
+   "conf": 0.9953589320182801
+  },
+  {
+   "text": "TONY ROMA'S AEONTEBRAU CITY",
+   "conf": 0.933182731822685
+  },
+  {
+   "text": "LOT G112, AEON MALL TEBRAU CITY",
+   "conf": 0.9203832034141787
+  },
+  {
+   "text": "NO 1 JALAN DESA TEBRAU",
+   "conf": 0.9111086617816578
+  },
+  {
+   "text": "81100 JOHOR BAHRU",
+   "conf": 0.9437989767859963
+  },
+  {
+   "text": "Tel:07-3510749",
+   "conf": 0.9812273681163788
+  },
+  {
+   "text": "website:ww.tonyromas.com.my",
+   "conf": 0.9663286451940183
+  },
+  {
+   "text": "Facebook:ww.facebook.com/TRMALAYSIA",
+   "conf": 0.9205147632530757
+  },
+  {
+   "text": "GST 10:000436699136",
+   "conf": 0.9625494825212579
+  },
+  {
+   "text": "2 TR1",
+   "conf": 0.8989469408988953
+  },
+  {
+   "text": "1014FAZLIN",
+   "conf": 0.9913452208042145
+  },
+  {
+   "text": "Chk 65991",
+   "conf": 0.942837119102478
+  },
+  {
+   "text": "Guest3",
+   "conf": 0.9761428236961365
+  },
+  {
+   "text": "03Mar1805:16:55PM",
+   "conf": 0.954821386758019
+  },
+  {
+   "text": "TBL43",
+   "conf": 0.9983656287193299
+  },
+  {
+   "text": "1NY STRIP",
+   "conf": 0.9209122326638963
+  },
+  {
+   "text": "67.67 S",
+   "conf": 0.9359206216675895
+  },
+  {
+   "text": "MediumWell",
+   "conf": 0.9322571277618408
+  },
+  {
+   "text": "RANCH BEANS",
+   "conf": 0.9814651500095021
+  },
+  {
+   "text": "SLAW",
+   "conf": 0.9913089573383331
+  },
+  {
+   "text": "1NYSTRIP",
+   "conf": 0.982133612036705
+  },
+  {
+   "text": "67.67 S",
+   "conf": 0.9348192044666835
+  },
+  {
+   "text": "Medium",
+   "conf": 0.9857174754142761
+  },
+  {
+   "text": "FR ROASTED VEGE",
+   "conf": 0.9444812377293904
+  },
+  {
+   "text": "BAKED POTATO",
+   "conf": 0.9512498925129572
+  },
+  {
+   "text": "Loaded",
+   "conf": 0.9912644525369009
+  },
+  {
+   "text": "NYSTRIP",
+   "conf": 0.9785262772015163
+  },
+  {
+   "text": "67.67 S",
+   "conf": 0.9466951659747532
+  },
+  {
+   "text": "1",
+   "conf": 0.7083712220191956
+  },
+  {
+   "text": "MediumWell",
+   "conf": 0.8833495557308197
+  },
+  {
+   "text": "FRROASTEO VEGE",
+   "conf": 0.9370521306991577
+  },
+  {
+   "text": "FF",
+   "conf": 0.9838650822639465
+  },
+  {
+   "text": "ICE LATTE",
+   "conf": 0.9571739700105455
+  },
+  {
+   "text": "9.35 S",
+   "conf": 0.9468154509862264
+  },
+  {
+   "text": "11",
+   "conf": 0.7775596082210541
+  },
+  {
+   "text": "7UP",
+   "conf": 0.9902805288632711
+  },
+  {
+   "text": "9.35 S",
+   "conf": 0.946069618066152
+  },
+  {
+   "text": "PEPSI",
+   "conf": 0.9841720819473266
+  },
+  {
+   "text": "9.35S",
+   "conf": 0.9867046236991882
+  },
+  {
+   "text": "1",
+   "conf": 0.8973513245582581
+  },
+  {
+   "text": "Subtotal",
+   "conf": 0.9942352399230003
+  },
+  {
+   "text": "231.06",
+   "conf": 0.9991480807463328
+  },
+  {
+   "text": "10%SrvChg",
+   "conf": 0.9894964694976807
+  },
+  {
+   "text": "23.10",
+   "conf": 0.9978897213935852
+  },
+  {
+   "text": "GST@6%",
+   "conf": 0.9920763274033865
+  },
+  {
+   "text": "15.25",
+   "conf": 0.9975464105606079
+  },
+  {
+   "text": "Total",
+   "conf": 0.9967231750488281
+  },
+  {
+   "text": "269.40",
+   "conf": 0.9998493790626526
+  },
+  {
+   "text": "RH10OFF FORA MINIMUMOFRH50SPENT",
+   "conf": 0.9197281579817495
+  },
+  {
+   "text": "ONYOUR NEXT VISIT TO TONY ROMA'S!!",
+   "conf": 0.9157729902688194
+  },
+  {
+   "text": "GO TO:W.TONYCARES.COM",
+   "conf": 0.9378332807904198
+  },
+  {
+   "text": "PLEASE TELL US HON WE ARE DOING",
+   "conf": 0.8950755019341746
+  },
+  {
+   "text": "Store #0217",
+   "conf": 0.9557017629796808
+  },
+  {
+   "text": "SURVEY VALIDATION CODE",
+   "conf": 0.9527489488775079
+  },
+  {
+   "text": "This Receipt With Validation Code Is",
+   "conf": 0.9539423187573751
+  },
+  {
+   "text": "Valid3MonthsFrom Date ofReceipt",
+   "conf": 0.9567427385237909
+  },
+  {
+   "text": "One redemption per group, per visit.",
+   "conf": 0.9424939337703917
+  },
+  {
+   "text": "SWEREJRINLAPOSTEUnAVaTTabTe",
+   "conf": 0.6191609209334409
+  },
+  {
+   "text": "Excehenpaybeneitstgrowlh",
+   "conf": 0.7128183587143818
+  },
+  {
+   "text": "EApplyatreeruttmentutonyxomascomiy",
+   "conf": 0.7031720740830197
+  },
+  {
+   "text": "GST @6% included in total",
+   "conf": 0.9092508411407471
+  },
+  {
+   "text": "GSTSunmary",
+   "conf": 0.9295368164777755
+  },
+  {
+   "text": "Amoumt(RM)",
+   "conf": 0.8524267077445984
+  },
+  {
+   "text": "GST(RM)",
+   "conf": 0.9753626670156207
+  },
+  {
+   "text": "S=GST06%:",
+   "conf": 0.7940387725830078
+  },
+  {
+   "text": "254.17",
+   "conf": 0.9983210861682892
+  },
+  {
+   "text": "15.25",
+   "conf": 0.9993025302886963
+  },
+  {
+   "text": "Z=GST00%:",
+   "conf": 0.8640535010231866
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9932828843593597
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9993831366300583
+  }
+ ],
+ "mean_conf": 0.936,
+ "low_conf_share": 0.0,
+ "latency_ms": 4921,
+ "fields": {
+  "company": "RESTAURANT",
+  "date": null,
+  "total": 269.4
+ },
+ "rule_reasons": [
+  "date_not_found"
+ ],
+ "total_candidates": [
+  269.4
+ ],
+ "key": "X51005442322"
+}

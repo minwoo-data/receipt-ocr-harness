@@ -1,0 +1,339 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "See Ul",
+  "2-23; Super",
+  "\\ardeery",
+  "720 Watson Dr",
+  "MIAMI, FL 31211",
+  "800-676-9843",
+  "1 DOZ FREE RNG 8 a3",
+  "HORIZON 2% ORG 3,89",
+  "SUBTOTAL: $11.11",
+  "TOTAL $11.11",
+  "Amex $11.11",
+  "PURCHASE $11.11",
+  "Amex 4444",
+  "Auth #194069 Exp Date **/**",
+  "Lane #19 Cashier1940,",
+  "2017-07-16 09:53:33 Ref/Seq #194069",
+  "MRCH 306770 Term=001 IC=CC",
+  "EPS SEquence 123938",
+  "ITEM 2 H,ALISON",
+  "2017-07-16 09:53:33 1087 17 1583 158",
+  "Be sure to check out the Free",
+  "Feature Newsletter. Available",
+  "online or by mail."
+ ],
+ "tokens": [
+  {
+   "text": "See",
+   "conf": 0.3
+  },
+  {
+   "text": "Ul",
+   "conf": 0.28
+  },
+  {
+   "text": "2-23;",
+   "conf": 0.04
+  },
+  {
+   "text": "Super",
+   "conf": 0.96
+  },
+  {
+   "text": "\\ardeery",
+   "conf": 0.19
+  },
+  {
+   "text": "720",
+   "conf": 0.9
+  },
+  {
+   "text": "Watson",
+   "conf": 0.96
+  },
+  {
+   "text": "Dr",
+   "conf": 0.96
+  },
+  {
+   "text": "MIAMI,",
+   "conf": 0.91
+  },
+  {
+   "text": "FL",
+   "conf": 0.85
+  },
+  {
+   "text": "31211",
+   "conf": 0.82
+  },
+  {
+   "text": "800-676-9843",
+   "conf": 0.93
+  },
+  {
+   "text": "1",
+   "conf": 0.88
+  },
+  {
+   "text": "DOZ",
+   "conf": 0.88
+  },
+  {
+   "text": "FREE",
+   "conf": 0.95
+  },
+  {
+   "text": "RNG",
+   "conf": 0.95
+  },
+  {
+   "text": "8",
+   "conf": 0.79
+  },
+  {
+   "text": "a3",
+   "conf": 0.41
+  },
+  {
+   "text": "HORIZON",
+   "conf": 0.96
+  },
+  {
+   "text": "2%",
+   "conf": 0.96
+  },
+  {
+   "text": "ORG",
+   "conf": 0.59
+  },
+  {
+   "text": "3,89",
+   "conf": 0.62
+  },
+  {
+   "text": "SUBTOTAL:",
+   "conf": 0.79
+  },
+  {
+   "text": "$11.11",
+   "conf": 0.72
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.95
+  },
+  {
+   "text": "$11.11",
+   "conf": 0.88
+  },
+  {
+   "text": "Amex",
+   "conf": 0.81
+  },
+  {
+   "text": "$11.11",
+   "conf": 0.94
+  },
+  {
+   "text": "PURCHASE",
+   "conf": 0.86
+  },
+  {
+   "text": "$11.11",
+   "conf": 0.92
+  },
+  {
+   "text": "Amex",
+   "conf": 0.95
+  },
+  {
+   "text": "4444",
+   "conf": 0.74
+  },
+  {
+   "text": "Auth",
+   "conf": 0.96
+  },
+  {
+   "text": "#194069",
+   "conf": 0.96
+  },
+  {
+   "text": "Exp",
+   "conf": 0.96
+  },
+  {
+   "text": "Date",
+   "conf": 0.92
+  },
+  {
+   "text": "**/**",
+   "conf": 0.9
+  },
+  {
+   "text": "Lane",
+   "conf": 0.95
+  },
+  {
+   "text": "#19",
+   "conf": 0.95
+  },
+  {
+   "text": "Cashier1940,",
+   "conf": 0.29
+  },
+  {
+   "text": "2017-07-16",
+   "conf": 0.95
+  },
+  {
+   "text": "09:53:33",
+   "conf": 0.95
+  },
+  {
+   "text": "Ref/Seq",
+   "conf": 0.91
+  },
+  {
+   "text": "#194069",
+   "conf": 0.96
+  },
+  {
+   "text": "MRCH",
+   "conf": 0.92
+  },
+  {
+   "text": "306770",
+   "conf": 0.71
+  },
+  {
+   "text": "Term=001",
+   "conf": 0.71
+  },
+  {
+   "text": "IC=CC",
+   "conf": 0.9
+  },
+  {
+   "text": "EPS",
+   "conf": 0.92
+  },
+  {
+   "text": "SEquence",
+   "conf": 0.92
+  },
+  {
+   "text": "123938",
+   "conf": 0.89
+  },
+  {
+   "text": "ITEM",
+   "conf": 0.9
+  },
+  {
+   "text": "2",
+   "conf": 0.91
+  },
+  {
+   "text": "H,ALISON",
+   "conf": 0.82
+  },
+  {
+   "text": "2017-07-16",
+   "conf": 0.87
+  },
+  {
+   "text": "09:53:33",
+   "conf": 0.87
+  },
+  {
+   "text": "1087",
+   "conf": 0.84
+  },
+  {
+   "text": "17",
+   "conf": 0.92
+  },
+  {
+   "text": "1583",
+   "conf": 0.92
+  },
+  {
+   "text": "158",
+   "conf": 0.96
+  },
+  {
+   "text": "Be",
+   "conf": 0.96
+  },
+  {
+   "text": "sure",
+   "conf": 0.96
+  },
+  {
+   "text": "to",
+   "conf": 0.96
+  },
+  {
+   "text": "check",
+   "conf": 0.96
+  },
+  {
+   "text": "out",
+   "conf": 0.96
+  },
+  {
+   "text": "the",
+   "conf": 0.96
+  },
+  {
+   "text": "Free",
+   "conf": 0.95
+  },
+  {
+   "text": "Feature",
+   "conf": 0.96
+  },
+  {
+   "text": "Newsletter.",
+   "conf": 0.95
+  },
+  {
+   "text": "Available",
+   "conf": 0.96
+  },
+  {
+   "text": "online",
+   "conf": 0.95
+  },
+  {
+   "text": "or",
+   "conf": 0.92
+  },
+  {
+   "text": "by",
+   "conf": 0.92
+  },
+  {
+   "text": "mail.",
+   "conf": 0.72
+  }
+ ],
+ "mean_conf": 0.843,
+ "low_conf_share": 0.0811,
+ "latency_ms": 352,
+ "fields": {
+  "company": "SEE UL",
+  "date": "2017-07-16",
+  "total": 11.11
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  11.11
+ ],
+ "key": "W0114_16d252a777cc"
+}

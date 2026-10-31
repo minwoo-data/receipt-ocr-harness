@@ -1,0 +1,172 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "Hood Ranch",
+  "Mission Valley",
+  "(619)764-4411",
+  "Server:Michae1 07/26/2016",
+  "Table201/1 7:28PM",
+  "Guests:2 80034",
+  "25oz Moose Droo1 9.75",
+  "Santa Fe BBQ Ckn Sandwich 12.95",
+  "Trefethen Est.Merlot 6.00",
+  "Veggie Burger 12.95",
+  "Sub Salad for 1 Side",
+  "1/2House Salad （Add/Ext） 1.95",
+  "Fresh Fruit Smoothies 4.95",
+  "5Items",
+  "Subtotal 48.55",
+  "Tax 680",
+  "Total 52.44",
+  "Balance Due 52.44",
+  "Tip Calculator",
+  "20%=9.71"
+ ],
+ "tokens": [
+  {
+   "text": "Hood Ranch",
+   "conf": 0.9344189047813416
+  },
+  {
+   "text": "Mission Valley",
+   "conf": 0.9163408407143184
+  },
+  {
+   "text": "(619)764-4411",
+   "conf": 0.9458275253956134
+  },
+  {
+   "text": "Server:Michae1",
+   "conf": 0.9322494630302701
+  },
+  {
+   "text": "07/26/2016",
+   "conf": 0.9970735490322113
+  },
+  {
+   "text": "Table201/1",
+   "conf": 0.9874896705150604
+  },
+  {
+   "text": "Guests:2",
+   "conf": 0.9197408854961395
+  },
+  {
+   "text": "7:28PM",
+   "conf": 0.9718602895736694
+  },
+  {
+   "text": "80034",
+   "conf": 0.9961459875106812
+  },
+  {
+   "text": "25oz Moose Droo1",
+   "conf": 0.8649673536419868
+  },
+  {
+   "text": "9.75",
+   "conf": 0.9946824163198471
+  },
+  {
+   "text": "Santa Fe BBQ Ckn Sandwich",
+   "conf": 0.9359851193428039
+  },
+  {
+   "text": "12.95",
+   "conf": 0.9912814021110534
+  },
+  {
+   "text": "Trefethen Est.Merlot",
+   "conf": 0.9632040709257126
+  },
+  {
+   "text": "6.00",
+   "conf": 0.9911161065101624
+  },
+  {
+   "text": "Veggie Burger",
+   "conf": 0.9463231013371394
+  },
+  {
+   "text": "12.95",
+   "conf": 0.9957123279571534
+  },
+  {
+   "text": "Sub Salad for 1 Side",
+   "conf": 0.9317410886287689
+  },
+  {
+   "text": "1/2House Salad （Add/Ext）",
+   "conf": 0.9138913800319036
+  },
+  {
+   "text": "1.95",
+   "conf": 0.9917114824056625
+  },
+  {
+   "text": "Fresh Fruit Smoothies",
+   "conf": 0.9532632146562848
+  },
+  {
+   "text": "4.95",
+   "conf": 0.9924576431512833
+  },
+  {
+   "text": "5Items",
+   "conf": 0.9724390010039011
+  },
+  {
+   "text": "Subtotal",
+   "conf": 0.9805637672543526
+  },
+  {
+   "text": "48.55",
+   "conf": 0.990511441230774
+  },
+  {
+   "text": "Tax",
+   "conf": 0.9733697573343912
+  },
+  {
+   "text": "680",
+   "conf": 0.5503381292025248
+  },
+  {
+   "text": "Total",
+   "conf": 0.981316077709198
+  },
+  {
+   "text": "52.44",
+   "conf": 0.9886670351028443
+  },
+  {
+   "text": "Balance Due",
+   "conf": 0.9485474553975192
+  },
+  {
+   "text": "52.44",
+   "conf": 0.9975058674812317
+  },
+  {
+   "text": "Tip Calculator",
+   "conf": 0.9544402658939362
+  },
+  {
+   "text": "20%=9.71",
+   "conf": 0.993216447532177
+  }
+ ],
+ "mean_conf": 0.9515,
+ "low_conf_share": 0.0,
+ "latency_ms": 2571,
+ "fields": {
+  "company": "HOOD RANCH",
+  "date": "2016-07-26",
+  "total": 52.44
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  52.44
+ ],
+ "key": "W0174_b31102755018"
+}

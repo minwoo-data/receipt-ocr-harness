@@ -1,0 +1,138 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "PEARLRIVERSEAFOODRESTAURANT",
+  "19JALAN SULTAN ISMAIL,KUALA LUMPUR",
+  "TAXINVOICE",
+  "Date:15/03/2024 Time:13:42",
+  "3x GARDENSALAD 46.50",
+  "2X PANAD0L10S 13.60",
+  "2XL0CALEGGS 10S 13.00",
+  "3XDISH S0AP 900ML 22.20",
+  "SUBTOTAL 95.30",
+  "GST6% 5.72",
+  "TOTAL 101.02",
+  "CASH 106.02",
+  "CHANGE 5.00",
+  "THANK YOU，PLEASECOMEAGAIN"
+ ],
+ "tokens": [
+  {
+   "text": "PEARLRIVERSEAFOODRESTAURANT",
+   "conf": 0.9893152183956571
+  },
+  {
+   "text": "19JALAN SULTAN ISMAIL,KUALA LUMPUR",
+   "conf": 0.9440849756493288
+  },
+  {
+   "text": "TAXINVOICE",
+   "conf": 0.9948601961135864
+  },
+  {
+   "text": "Date:15/03/2024",
+   "conf": 0.9903676231702169
+  },
+  {
+   "text": "Time:13:42",
+   "conf": 0.9746850311756134
+  },
+  {
+   "text": "3x",
+   "conf": 0.734707847237587
+  },
+  {
+   "text": "GARDENSALAD",
+   "conf": 0.9948216839270159
+  },
+  {
+   "text": "46.50",
+   "conf": 0.9997953057289124
+  },
+  {
+   "text": "2X",
+   "conf": 0.7447363138198853
+  },
+  {
+   "text": "PANAD0L10S",
+   "conf": 0.9796794712543487
+  },
+  {
+   "text": "13.60",
+   "conf": 0.9993924617767334
+  },
+  {
+   "text": "2XL0CALEGGS 10S",
+   "conf": 0.938211186726888
+  },
+  {
+   "text": "13.00",
+   "conf": 0.9992651581764221
+  },
+  {
+   "text": "3XDISH S0AP 900ML",
+   "conf": 0.9045689702033997
+  },
+  {
+   "text": "22.20",
+   "conf": 0.9997336268424988
+  },
+  {
+   "text": "SUBTOTAL",
+   "conf": 0.9960258677601814
+  },
+  {
+   "text": "95.30",
+   "conf": 0.9995537996292114
+  },
+  {
+   "text": "GST6%",
+   "conf": 0.9990352034568787
+  },
+  {
+   "text": "5.72",
+   "conf": 0.9984992891550064
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.9943944692611695
+  },
+  {
+   "text": "101.02",
+   "conf": 0.9985746641953787
+  },
+  {
+   "text": "CASH",
+   "conf": 0.9982398450374603
+  },
+  {
+   "text": "106.02",
+   "conf": 0.9995505114396414
+  },
+  {
+   "text": "CHANGE",
+   "conf": 0.9956548611323038
+  },
+  {
+   "text": "5.00",
+   "conf": 0.9994658380746841
+  },
+  {
+   "text": "THANK YOU，PLEASECOMEAGAIN",
+   "conf": 0.9485124814510345
+  }
+ ],
+ "mean_conf": 0.966,
+ "low_conf_share": 0.0,
+ "latency_ms": 32630,
+ "fields": {
+  "company": "PEARLRIVERSEAFOODRESTAURANT",
+  "date": "2024-03-15",
+  "total": 101.02
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  101.02
+ ],
+ "key": "SYN039"
+}

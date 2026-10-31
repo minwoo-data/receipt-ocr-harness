@@ -1,0 +1,166 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "(*)*)VOLUNE ONE BOOKS I#C ()米）",
+  "8910 Taft Street",
+  "Pembyoke Pines FL33024",
+  "954)432-5188 CierkSL",
+  "viday Becemter 25.2015 4:38",
+  "1HIGHLANDER TAKES A BRIDE 4.00米",
+  "1BIANCA 4.00*",
+  "1 ONEXPECTED PLEABURE 7.00",
+  "SubTotal$ 15.00",
+  "Ssles tax 0.90",
+  "CREDIT TOTAL$15.90",
+  "Credit Arrlied to CASh 4.00",
+  "Credit Aoelied to CREBlT 0.00",
+  "Credit Aaplied to VisA 6.00",
+  "Credit Aaelied to CREni7 15.90",
+  "Credit Balance $ 10.01"
+ ],
+ "tokens": [
+  {
+   "text": "(*)*)VOLUNE ONE BOOKS I#C ()米）",
+   "conf": 0.7294673929611842
+  },
+  {
+   "text": "8910 Taft Street",
+   "conf": 0.842793669551611
+  },
+  {
+   "text": "Pembyoke Pines",
+   "conf": 0.8688392043113708
+  },
+  {
+   "text": "FL33024",
+   "conf": 0.9905259438923427
+  },
+  {
+   "text": "954)432-5188",
+   "conf": 0.9560963163773218
+  },
+  {
+   "text": "CierkSL",
+   "conf": 0.6809633161340441
+  },
+  {
+   "text": "viday Becemter 25.2015",
+   "conf": 0.8206830444661054
+  },
+  {
+   "text": "4:38",
+   "conf": 0.7666041851043701
+  },
+  {
+   "text": "1HIGHLANDER TAKES A BRIDE",
+   "conf": 0.8978193378448487
+  },
+  {
+   "text": "4.00米",
+   "conf": 0.7156513005495071
+  },
+  {
+   "text": "1BIANCA",
+   "conf": 0.743272887808936
+  },
+  {
+   "text": "4.00*",
+   "conf": 0.7838872283697128
+  },
+  {
+   "text": "1 ONEXPECTED PLEABURE",
+   "conf": 0.9051398024672553
+  },
+  {
+   "text": "7.00",
+   "conf": 0.9101307541131973
+  },
+  {
+   "text": "SubTotal$",
+   "conf": 0.8376880553033617
+  },
+  {
+   "text": "15.00",
+   "conf": 0.9797953963279724
+  },
+  {
+   "text": "Ssles tax",
+   "conf": 0.8514715631802877
+  },
+  {
+   "text": "0.90",
+   "conf": 0.9858565479516983
+  },
+  {
+   "text": "CREDIT",
+   "conf": 0.9381118516127268
+  },
+  {
+   "text": "TOTAL$15.90",
+   "conf": 0.7979501431638544
+  },
+  {
+   "text": "Credit Arrlied to CASh",
+   "conf": 0.7740860445932909
+  },
+  {
+   "text": "4.00",
+   "conf": 0.9707265794277191
+  },
+  {
+   "text": "Credit Aoelied to CREBlT",
+   "conf": 0.794051873187224
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9875679612159729
+  },
+  {
+   "text": "Credit Aaplied to VisA",
+   "conf": 0.827071023258296
+  },
+  {
+   "text": "6.00",
+   "conf": 0.936645045876503
+  },
+  {
+   "text": "Credit Aaelied to CREni7",
+   "conf": 0.794417250280579
+  },
+  {
+   "text": "15.90",
+   "conf": 0.9913247108459473
+  },
+  {
+   "text": "Credit Balance $",
+   "conf": 0.8776607736945152
+  },
+  {
+   "text": "10.01",
+   "conf": 0.9868489146232605
+  }
+ ],
+ "mean_conf": 0.8648,
+ "low_conf_share": 0.0,
+ "latency_ms": 2842,
+ "fields": {
+  "company": "VOLUNE ONE BOOKS I C",
+  "date": null,
+  "total": 15.9
+ },
+ "rule_reasons": [
+  "date_not_found",
+  "total_no_keyword_fallback_max"
+ ],
+ "total_candidates": [
+  15.0,
+  0.9,
+  15.9,
+  4.0,
+  0.0,
+  6.0,
+  15.9,
+  10.01
+ ],
+ "key": "W0031_0cb17ebabf8d"
+}

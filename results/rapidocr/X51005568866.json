@@ -1,0 +1,257 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "POPULAR BOOK",
+  "CO.(M) SDN BHD",
+  "（Co.No.113825-W)",
+  "（GST Reg No.001492992000)",
+  "No 8, Jalan 7/118B,Desa Tun Razak",
+  "56000 Kuala Lumpur,Malaysia",
+  "CHERAS LEISURE MALL",
+  "Te1:03-91322435/437",
+  "Mega Bookfair @ SPCC 2017",
+  "Sunway Pyramid Convention Centre",
+  "25 AUG- 3 Sept 2017",
+  "20/08/1712:48 Slip No.:9020374693",
+  "Yen Lee Trans:304168",
+  "MemberCardNo:2002008362249",
+  "CardExpiry:31/08/20",
+  "Description Amount",
+  "H'MAN GLASS PAPER",
+  "4pc1.40 5.60T",
+  "Member Discount -0.56",
+  "Total RM Incl.of GST 5.04",
+  "Rounding Adj 0.01",
+  "Total RM 5.05",
+  "Cash -10.00",
+  "CHANGE 4.95",
+  "Item Count 4",
+  "GST Summary Amount(RM) Tax(RM)",
+  "T@6% 4.75 0.29",
+  "Total Savings -0.56",
+  "BE A POPULAR CARD MEMBER",
+  "AND ENJOY SPECIAL DISCOUNTS",
+  "THANK YOU.PLEASE COME AGAIN.",
+  "www.popular.com.my",
+  "Buy Chinese books online",
+  "www.popularonline.com.my"
+ ],
+ "tokens": [
+  {
+   "text": "POPULAR BOOK",
+   "conf": 0.9702322433392206
+  },
+  {
+   "text": "CO.(M) SDN BHD",
+   "conf": 0.9041564166545868
+  },
+  {
+   "text": "（Co.No.113825-W)",
+   "conf": 0.938199408352375
+  },
+  {
+   "text": "（GST Reg No.001492992000)",
+   "conf": 0.943919370174408
+  },
+  {
+   "text": "No 8, Jalan 7/118B,Desa Tun Razak",
+   "conf": 0.8935867349306742
+  },
+  {
+   "text": "56000 Kuala Lumpur,Malaysia",
+   "conf": 0.9502480339120936
+  },
+  {
+   "text": "CHERAS LEISURE MALL",
+   "conf": 0.9684431772483023
+  },
+  {
+   "text": "Te1:03-91322435/437",
+   "conf": 0.9664875551273948
+  },
+  {
+   "text": "Mega Bookfair @ SPCC 2017",
+   "conf": 0.9746011471748353
+  },
+  {
+   "text": "Sunway Pyramid Convention Centre",
+   "conf": 0.9851964060217142
+  },
+  {
+   "text": "25 AUG- 3 Sept 2017",
+   "conf": 0.9125508383700722
+  },
+  {
+   "text": "20/08/1712:48",
+   "conf": 0.99333950647941
+  },
+  {
+   "text": "Slip No.:9020374693",
+   "conf": 0.9653160195601614
+  },
+  {
+   "text": "Yen Lee",
+   "conf": 0.9539654680660793
+  },
+  {
+   "text": "Trans:304168",
+   "conf": 0.9855290005604426
+  },
+  {
+   "text": "MemberCardNo:2002008362249",
+   "conf": 0.9922930621183835
+  },
+  {
+   "text": "CardExpiry:31/08/20",
+   "conf": 0.9821105944482904
+  },
+  {
+   "text": "Description",
+   "conf": 0.9729825908487494
+  },
+  {
+   "text": "Amount",
+   "conf": 0.9912791152795156
+  },
+  {
+   "text": "H'MAN GLASS PAPER",
+   "conf": 0.9400298314936021
+  },
+  {
+   "text": "4pc1.40",
+   "conf": 0.9838648268154689
+  },
+  {
+   "text": "5.60T",
+   "conf": 0.9954437136650085
+  },
+  {
+   "text": "Member Discount",
+   "conf": 0.9566141088803609
+  },
+  {
+   "text": "-0.56",
+   "conf": 0.9914863586425782
+  },
+  {
+   "text": "Total RM Incl.of GST",
+   "conf": 0.929325184226036
+  },
+  {
+   "text": "5.04",
+   "conf": 0.9992631524801254
+  },
+  {
+   "text": "Rounding Adj",
+   "conf": 0.9857327739397684
+  },
+  {
+   "text": "0.01",
+   "conf": 0.9985577762126923
+  },
+  {
+   "text": "Total RM",
+   "conf": 0.9825836196541786
+  },
+  {
+   "text": "5.05",
+   "conf": 0.9991750568151474
+  },
+  {
+   "text": "Cash",
+   "conf": 0.9937669187784195
+  },
+  {
+   "text": "-10.00",
+   "conf": 0.9942794839541117
+  },
+  {
+   "text": "CHANGE",
+   "conf": 0.9913665850957235
+  },
+  {
+   "text": "4.95",
+   "conf": 0.9987480491399765
+  },
+  {
+   "text": "Item Count",
+   "conf": 0.9563140869140625
+  },
+  {
+   "text": "4",
+   "conf": 0.9983229041099548
+  },
+  {
+   "text": "GST Summary",
+   "conf": 0.9865926449949091
+  },
+  {
+   "text": "Amount(RM)",
+   "conf": 0.9084629446268082
+  },
+  {
+   "text": "Tax(RM)",
+   "conf": 0.9094199878828866
+  },
+  {
+   "text": "T@6%",
+   "conf": 0.9421624541282654
+  },
+  {
+   "text": "4.75",
+   "conf": 0.9951017647981644
+  },
+  {
+   "text": "0.29",
+   "conf": 0.9859758168458939
+  },
+  {
+   "text": "Total Savings",
+   "conf": 0.9749754804831284
+  },
+  {
+   "text": "-0.56",
+   "conf": 0.9961198925971985
+  },
+  {
+   "text": "BE A POPULAR CARD MEMBER",
+   "conf": 0.9490842347343763
+  },
+  {
+   "text": "AND ENJOY SPECIAL DISCOUNTS",
+   "conf": 0.96703099321436
+  },
+  {
+   "text": "THANK YOU.PLEASE COME AGAIN.",
+   "conf": 0.9631855828421456
+  },
+  {
+   "text": "www.popular.com.my",
+   "conf": 0.9910120831595527
+  },
+  {
+   "text": "Buy Chinese books online",
+   "conf": 0.9646008536219597
+  },
+  {
+   "text": "www.popularonline.com.my",
+   "conf": 0.9867984677354494
+  }
+ ],
+ "mean_conf": 0.9692,
+ "low_conf_share": 0.0,
+ "latency_ms": 4994,
+ "fields": {
+  "company": "POPULAR BOOK CO SDN BHD",
+  "date": "2017-09-03",
+  "total": 5.05
+ },
+ "rule_reasons": [
+  "total_multiple_keyword_amounts"
+ ],
+ "total_candidates": [
+  5.04,
+  5.05
+ ],
+ "key": "X51005568866"
+}

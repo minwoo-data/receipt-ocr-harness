@@ -1,0 +1,451 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "Salon Du Chocolat",
+  "ALI BABA INTERNATIONAL SDN BHD(955950-H)",
+  "Publika Shopping Gallery",
+  "| Lot 26-27,Level G2,Jin Dutamas 1,",
+  "Solaris Dutamas 50480 KL,",
+  "Tel: +603 6211 2300",
+  "(GST Reg. No : 000895864832)",
+  "GUEST CHECK",
+  "Table 11",
+  "Check #: 186242 Pax(s): 3",
+  "Date +: 19-02-2018 14:19:38",
+  "Cashier: CASHIER",
+  "Description Qty U.price Total TAX",
+  "Mineral Water",
+  "1 x 2,50 2.50 SR",
+  "Chocolate Waffle-Half Moon",
+  "1x 17.90 17.90 SR",
+  "Total (Excluding GST): 20.40",
+  "| Serv. Charge (10%): 2,04",
+  "GST Payable: 1.35",
+  "Total (Inclusive of GST): 23.79",
+  "Rounding Adj: 0.01",
+  "Closed: 19-02-2018 .",
+  "Server: CASHIER",
+  "GST Summary Amount(RM) = Tax(RM)",
+  "#44 Thank You #4",
+  "Please Come Again"
+ ],
+ "tokens": [
+  {
+   "text": "Salon",
+   "conf": 0.96
+  },
+  {
+   "text": "Du",
+   "conf": 0.96
+  },
+  {
+   "text": "Chocolat",
+   "conf": 0.96
+  },
+  {
+   "text": "ALI",
+   "conf": 0.89
+  },
+  {
+   "text": "BABA",
+   "conf": 0.95
+  },
+  {
+   "text": "INTERNATIONAL",
+   "conf": 0.95
+  },
+  {
+   "text": "SDN",
+   "conf": 0.93
+  },
+  {
+   "text": "BHD(955950-H)",
+   "conf": 0.81
+  },
+  {
+   "text": "Publika",
+   "conf": 0.91
+  },
+  {
+   "text": "Shopping",
+   "conf": 0.96
+  },
+  {
+   "text": "Gallery",
+   "conf": 0.96
+  },
+  {
+   "text": "|",
+   "conf": 0.57
+  },
+  {
+   "text": "Lot",
+   "conf": 0.92
+  },
+  {
+   "text": "26-27,Level",
+   "conf": 0.92
+  },
+  {
+   "text": "G2,Jin",
+   "conf": 0.18
+  },
+  {
+   "text": "Dutamas",
+   "conf": 0.91
+  },
+  {
+   "text": "1,",
+   "conf": 0.96
+  },
+  {
+   "text": "Solaris",
+   "conf": 0.93
+  },
+  {
+   "text": "Dutamas",
+   "conf": 0.71
+  },
+  {
+   "text": "50480",
+   "conf": 0.03
+  },
+  {
+   "text": "KL,",
+   "conf": 0.85
+  },
+  {
+   "text": "Tel:",
+   "conf": 0.95
+  },
+  {
+   "text": "+603",
+   "conf": 0.93
+  },
+  {
+   "text": "6211",
+   "conf": 0.96
+  },
+  {
+   "text": "2300",
+   "conf": 0.96
+  },
+  {
+   "text": "(GST",
+   "conf": 0.95
+  },
+  {
+   "text": "Reg.",
+   "conf": 0.83
+  },
+  {
+   "text": "No",
+   "conf": 0.92
+  },
+  {
+   "text": ":",
+   "conf": 0.84
+  },
+  {
+   "text": "000895864832)",
+   "conf": 0.96
+  },
+  {
+   "text": "GUEST",
+   "conf": 0.96
+  },
+  {
+   "text": "CHECK",
+   "conf": 0.95
+  },
+  {
+   "text": "Table",
+   "conf": 0.96
+  },
+  {
+   "text": "11",
+   "conf": 0.96
+  },
+  {
+   "text": "Check",
+   "conf": 0.93
+  },
+  {
+   "text": "#:",
+   "conf": 0.84
+  },
+  {
+   "text": "186242",
+   "conf": 0.96
+  },
+  {
+   "text": "Pax(s):",
+   "conf": 0.87
+  },
+  {
+   "text": "3",
+   "conf": 0.96
+  },
+  {
+   "text": "Date",
+   "conf": 0.75
+  },
+  {
+   "text": "+:",
+   "conf": 0.57
+  },
+  {
+   "text": "19-02-2018",
+   "conf": 0.76
+  },
+  {
+   "text": "14:19:38",
+   "conf": 0.95
+  },
+  {
+   "text": "Cashier:",
+   "conf": 0.93
+  },
+  {
+   "text": "CASHIER",
+   "conf": 0.96
+  },
+  {
+   "text": "Description",
+   "conf": 0.92
+  },
+  {
+   "text": "Qty",
+   "conf": 0.18
+  },
+  {
+   "text": "U.price",
+   "conf": 0.18
+  },
+  {
+   "text": "Total",
+   "conf": 0.95
+  },
+  {
+   "text": "TAX",
+   "conf": 0.94
+  },
+  {
+   "text": "Mineral",
+   "conf": 0.96
+  },
+  {
+   "text": "Water",
+   "conf": 0.96
+  },
+  {
+   "text": "1",
+   "conf": 0.74
+  },
+  {
+   "text": "x",
+   "conf": 0.74
+  },
+  {
+   "text": "2,50",
+   "conf": 0.95
+  },
+  {
+   "text": "2.50",
+   "conf": 0.62
+  },
+  {
+   "text": "SR",
+   "conf": 0.92
+  },
+  {
+   "text": "Chocolate",
+   "conf": 0.81
+  },
+  {
+   "text": "Waffle-Half",
+   "conf": 0.39
+  },
+  {
+   "text": "Moon",
+   "conf": 0.96
+  },
+  {
+   "text": "1x",
+   "conf": 0.56
+  },
+  {
+   "text": "17.90",
+   "conf": 0.9
+  },
+  {
+   "text": "17.90",
+   "conf": 0.85
+  },
+  {
+   "text": "SR",
+   "conf": 0.96
+  },
+  {
+   "text": "Total",
+   "conf": 0.95
+  },
+  {
+   "text": "(Excluding",
+   "conf": 0.95
+  },
+  {
+   "text": "GST):",
+   "conf": 0.95
+  },
+  {
+   "text": "20.40",
+   "conf": 0.94
+  },
+  {
+   "text": "|",
+   "conf": 0.58
+  },
+  {
+   "text": "Serv.",
+   "conf": 0.91
+  },
+  {
+   "text": "Charge",
+   "conf": 0.96
+  },
+  {
+   "text": "(10%):",
+   "conf": 0.93
+  },
+  {
+   "text": "2,04",
+   "conf": 0.71
+  },
+  {
+   "text": "GST",
+   "conf": 0.95
+  },
+  {
+   "text": "Payable:",
+   "conf": 0.8
+  },
+  {
+   "text": "1.35",
+   "conf": 0.92
+  },
+  {
+   "text": "Total",
+   "conf": 0.96
+  },
+  {
+   "text": "(Inclusive",
+   "conf": 0.96
+  },
+  {
+   "text": "of",
+   "conf": 0.96
+  },
+  {
+   "text": "GST):",
+   "conf": 0.96
+  },
+  {
+   "text": "23.79",
+   "conf": 0.78
+  },
+  {
+   "text": "Rounding",
+   "conf": 0.96
+  },
+  {
+   "text": "Adj:",
+   "conf": 0.94
+  },
+  {
+   "text": "0.01",
+   "conf": 0.95
+  },
+  {
+   "text": "Closed:",
+   "conf": 0.72
+  },
+  {
+   "text": "19-02-2018",
+   "conf": 0.86
+  },
+  {
+   "text": ".",
+   "conf": 0.09
+  },
+  {
+   "text": "Server:",
+   "conf": 0.95
+  },
+  {
+   "text": "CASHIER",
+   "conf": 0.96
+  },
+  {
+   "text": "GST",
+   "conf": 0.95
+  },
+  {
+   "text": "Summary",
+   "conf": 0.95
+  },
+  {
+   "text": "Amount(RM)",
+   "conf": 0.92
+  },
+  {
+   "text": "=",
+   "conf": 0.3
+  },
+  {
+   "text": "Tax(RM)",
+   "conf": 0.84
+  },
+  {
+   "text": "#44",
+   "conf": 0.33
+  },
+  {
+   "text": "Thank",
+   "conf": 0.95
+  },
+  {
+   "text": "You",
+   "conf": 0.92
+  },
+  {
+   "text": "#4",
+   "conf": 0.0
+  },
+  {
+   "text": "Please",
+   "conf": 0.96
+  },
+  {
+   "text": "Come",
+   "conf": 0.96
+  },
+  {
+   "text": "Again",
+   "conf": 0.96
+  }
+ ],
+ "mean_conf": 0.8313,
+ "low_conf_share": 0.0891,
+ "latency_ms": 3372,
+ "fields": {
+  "company": "ALI BABA INTERNATIONAL SDN BHD",
+  "date": "2018-02-19",
+  "total": 23.79
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  23.79
+ ],
+ "key": "X51005719857"
+}

@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.6-flash",
+ "provider": "gemini",
+ "raw_text": "{\"vendor\": \"OJC MARKETING SDN BHD\", \"date\": \"2019-01-02\", \"subtotal\": 170.0, \"tax\": null, \"tip\": null, \"discount\": null, \"total\": 170.0, \"currency\": \"MYR\", \"confidence\": 0.95, \"notes\": null}",
+ "data": {
+  "vendor": "OJC MARKETING SDN BHD",
+  "date": "2019-01-02",
+  "subtotal": 170.0,
+  "tax": null,
+  "tip": null,
+  "discount": null,
+  "total": 170.0,
+  "currency": "MYR",
+  "confidence": 0.95,
+  "notes": null
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1444,
+  "output_tokens": 83,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.001394,
+ "latency_ms": 1538,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.6-flash",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.6-flash"
+ ],
+ "key": "X00016469671"
+}

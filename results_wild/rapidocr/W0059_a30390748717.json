@@ -1,0 +1,65 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "TIN:50-04341-0-5",
+  "BUS No:EZ722",
+  "Mode:Cash",
+  "Amount:$2.00",
+  "Stage:42",
+  "Time:2014.10.16 13:57:51",
+  "Type:Adult",
+  "Driver:Navin Lal",
+  "Please produce on demand"
+ ],
+ "tokens": [
+  {
+   "text": "TIN:50-04341-0-5",
+   "conf": 0.9786299765110016
+  },
+  {
+   "text": "BUS No:EZ722",
+   "conf": 0.9525109976530075
+  },
+  {
+   "text": "Mode:Cash",
+   "conf": 0.9911351270145841
+  },
+  {
+   "text": "Amount:$2.00",
+   "conf": 0.9682730088631312
+  },
+  {
+   "text": "Stage:42",
+   "conf": 0.9829900562763214
+  },
+  {
+   "text": "Time:2014.10.16 13:57:51",
+   "conf": 0.9615362733602524
+  },
+  {
+   "text": "Type:Adult",
+   "conf": 0.9766919195652009
+  },
+  {
+   "text": "Driver:Navin Lal",
+   "conf": 0.9609818607568741
+  },
+  {
+   "text": "Please produce on demand",
+   "conf": 0.960275856157144
+  }
+ ],
+ "mean_conf": 0.9703,
+ "low_conf_share": 0.0,
+ "latency_ms": 2930,
+ "fields": {
+  "company": "BUS NO EZ722",
+  "date": "2014-10-16",
+  "total": 2.0
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  2.0
+ ],
+ "key": "W0059_a30390748717"
+}

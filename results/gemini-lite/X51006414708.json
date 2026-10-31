@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.1-flash-lite",
+ "provider": "gemini",
+ "raw_text": "{\n  \"vendor\": \"RESTORAN HWA MUI SUTERA SDN BHD\",\n  \"date\": \"2018-04-29\",\n  \"subtotal\": 86.32,\n  \"tax\": 5.18,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 91.50,\n  \"currency\": \"MYR\",\n  \"confidence\": 0.98,\n  \"notes\": null\n}",
+ "data": {
+  "vendor": "RESTORAN HWA MUI SUTERA SDN BHD",
+  "date": "2018-04-29",
+  "subtotal": 86.32,
+  "tax": 5.18,
+  "tip": null,
+  "discount": null,
+  "total": 91.5,
+  "currency": "MYR",
+  "confidence": 0.98,
+  "notes": null
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1461,
+  "output_tokens": 115,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.000538,
+ "latency_ms": 3056,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.1-flash-lite",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.1-flash-lite"
+ ],
+ "key": "X51006414708"
+}

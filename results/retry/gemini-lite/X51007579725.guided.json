@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.1-flash-lite",
+ "provider": "gemini",
+ "raw_text": "{\n  \"vendor\": \"THONG RECIPE\",\n  \"date\": \"2018-06-27\",\n  \"subtotal\": 55.9,\n  \"tax\": 0.0,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 58.7,\n  \"currency\": \"MYR\",\n  \"confidence\": 0.98,\n  \"notes\": \"The total includes a 5% service charge of 2.80 which is not explicitly listed as tax.\"\n}",
+ "data": {
+  "vendor": "THONG RECIPE",
+  "date": "2018-06-27",
+  "subtotal": 55.9,
+  "tax": 0.0,
+  "tip": null,
+  "discount": null,
+  "total": 58.7,
+  "currency": "MYR",
+  "confidence": 0.98,
+  "notes": "The total includes a 5% service charge of 2.80 which is not explicitly listed as tax."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1607,
+  "output_tokens": 127,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.000592,
+ "latency_ms": 1047,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.1-flash-lite",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.1-flash-lite"
+ ],
+ "key": "X51007579725"
+}

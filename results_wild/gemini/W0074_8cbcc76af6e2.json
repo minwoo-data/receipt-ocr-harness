@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.6-flash",
+ "provider": "gemini",
+ "raw_text": "{\"vendor\": \"Carl's Jr\", \"date\": \"2015-09-29\", \"subtotal\": 16.37, \"tax\": 1.16, \"tip\": null, \"discount\": -3.54, \"total\": 13.99, \"currency\": \"USD\", \"confidence\": 0.95, \"notes\": \"Receipt is marked VOID at top, but displays grand total as charged.\"}",
+ "data": {
+  "vendor": "Carl's Jr",
+  "date": "2015-09-29",
+  "subtotal": 16.37,
+  "tax": 1.16,
+  "tip": null,
+  "discount": -3.54,
+  "total": 13.99,
+  "currency": "USD",
+  "confidence": 0.95,
+  "notes": "Receipt is marked VOID at top, but displays grand total as charged."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1433,
+  "output_tokens": 103,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.001461,
+ "latency_ms": 1762,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.6-flash",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.6-flash"
+ ],
+ "key": "W0074_8cbcc76af6e2"
+}

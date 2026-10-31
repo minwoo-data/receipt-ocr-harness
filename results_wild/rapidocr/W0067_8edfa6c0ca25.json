@@ -1,0 +1,131 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "FLYING J",
+  "TRAVEL PLAZA",
+  "Troutdale,OR 97060",
+  "06/18/2009",
+  "Invoice# 03513718",
+  "BECKER SHANEB",
+  "VISA #1100",
+  "Auth# 914286",
+  "Pump:02 UNLEADED",
+  "Quantity 13.814",
+  "Price 2.679",
+  "Amount 37.01",
+  "TotalAmt. 37.01",
+  "NEw Blueberry",
+  "Pancakes!!!"
+ ],
+ "tokens": [
+  {
+   "text": "FLYING J",
+   "conf": 0.9590094238519669
+  },
+  {
+   "text": "TRAVEL PLAZA",
+   "conf": 0.9546297887961069
+  },
+  {
+   "text": "Troutdale,OR",
+   "conf": 0.946540633837382
+  },
+  {
+   "text": "97060",
+   "conf": 0.9844866275787354
+  },
+  {
+   "text": "06/18/2009",
+   "conf": 0.943145477771759
+  },
+  {
+   "text": "Invoice#",
+   "conf": 0.9948721677064896
+  },
+  {
+   "text": "03513718",
+   "conf": 0.9712219908833504
+  },
+  {
+   "text": "BECKER SHANEB",
+   "conf": 0.9785343133486234
+  },
+  {
+   "text": "VISA",
+   "conf": 0.9591982662677765
+  },
+  {
+   "text": "#1100",
+   "conf": 0.9923346281051636
+  },
+  {
+   "text": "Auth#",
+   "conf": 0.9936360001564026
+  },
+  {
+   "text": "914286",
+   "conf": 0.9992194076379141
+  },
+  {
+   "text": "Pump:02",
+   "conf": 0.9048025097165789
+  },
+  {
+   "text": "UNLEADED",
+   "conf": 0.9943568781018257
+  },
+  {
+   "text": "Quantity",
+   "conf": 0.9949686080217361
+  },
+  {
+   "text": "13.814",
+   "conf": 0.9986452758312225
+  },
+  {
+   "text": "Price",
+   "conf": 0.9967868804931641
+  },
+  {
+   "text": "2.679",
+   "conf": 0.9985542297363281
+  },
+  {
+   "text": "Amount",
+   "conf": 0.9962312678496043
+  },
+  {
+   "text": "37.01",
+   "conf": 0.9980386376380921
+  },
+  {
+   "text": "TotalAmt.",
+   "conf": 0.9803717798656888
+  },
+  {
+   "text": "37.01",
+   "conf": 0.9978968381881714
+  },
+  {
+   "text": "NEw Blueberry",
+   "conf": 0.9528765632556035
+  },
+  {
+   "text": "Pancakes!!!",
+   "conf": 0.9648235169324008
+  }
+ ],
+ "mean_conf": 0.9773,
+ "low_conf_share": 0.0,
+ "latency_ms": 2956,
+ "fields": {
+  "company": "FLYING J",
+  "date": "2009-06-18",
+  "total": 37.01
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  37.01
+ ],
+ "key": "W0067_8edfa6c0ca25"
+}

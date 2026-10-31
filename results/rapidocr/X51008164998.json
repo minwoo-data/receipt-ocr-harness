@@ -1,0 +1,248 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "ONE ONE THREE SEAFOOD RESTAURANT SDN BHD",
+  "(1120908-M)",
+  "NO.1,TAMAN SRI DENGKIL,JALAN AIR HITAM",
+  "43800 DENGKIL,SELANGOR",
+  "（GST Reg.No :000670224384)",
+  "Tax Invoice",
+  "Tab1e37",
+  "Bi11#:V001-540835 Order#:140933",
+  "Date ：20-06-201821:36:11",
+  "Cashier:113 CASHIER Pax(s): 0",
+  "Qty Description Total TAX",
+  "1 D 30.00 SR",
+  "Fish Item",
+  "1 D 5.00SR",
+  "Beverage",
+  "1 D 3.00SR",
+  "Noodle Item Single",
+  "Total （Excluding GST): 38.00",
+  "Total （Inclusive of GST): 38.00",
+  "TOTAL: 38.00",
+  "Closed:1 20-06-2018 22:39:39",
+  "Server:113 CASHIER",
+  "CASH: 38.00",
+  "GST Sumnary Amount(RM) Tax(RM)",
+  "SR （@0%） 38.00 0.00",
+  "****ThankYou ****",
+  "Please Come Again"
+ ],
+ "tokens": [
+  {
+   "text": "ONE ONE THREE SEAFOOD RESTAURANT SDN BHD",
+   "conf": 0.9462134540081024
+  },
+  {
+   "text": "(1120908-M)",
+   "conf": 0.9560161178762262
+  },
+  {
+   "text": "NO.1,TAMAN SRI DENGKIL,JALAN AIR HITAM",
+   "conf": 0.9159773070561258
+  },
+  {
+   "text": "43800 DENGKIL,SELANGOR",
+   "conf": 0.9522859643806111
+  },
+  {
+   "text": "（GST Reg.No :000670224384)",
+   "conf": 0.9245510238867539
+  },
+  {
+   "text": "Tax Invoice",
+   "conf": 0.9638590487566862
+  },
+  {
+   "text": "Tab1e37",
+   "conf": 0.9311835254941668
+  },
+  {
+   "text": "Bi11#:V001-540835",
+   "conf": 0.9613445681684157
+  },
+  {
+   "text": "Order#:140933",
+   "conf": 0.9484764612638034
+  },
+  {
+   "text": "Date",
+   "conf": 0.9943995922803879
+  },
+  {
+   "text": "：20-06-201821:36:11",
+   "conf": 0.9651029894226476
+  },
+  {
+   "text": "Cashier:113 CASHIER",
+   "conf": 0.9844912792506971
+  },
+  {
+   "text": "Pax(s):",
+   "conf": 0.9304436870983669
+  },
+  {
+   "text": "0",
+   "conf": 0.9253005981445312
+  },
+  {
+   "text": "Qty",
+   "conf": 0.9735902349154154
+  },
+  {
+   "text": "Description",
+   "conf": 0.993596998128024
+  },
+  {
+   "text": "Total TAX",
+   "conf": 0.9352682696448432
+  },
+  {
+   "text": "1",
+   "conf": 0.9612898230552673
+  },
+  {
+   "text": "D",
+   "conf": 0.9876649975776672
+  },
+  {
+   "text": "30.00 SR",
+   "conf": 0.9314151406288147
+  },
+  {
+   "text": "Fish Item",
+   "conf": 0.9550484087732103
+  },
+  {
+   "text": "1",
+   "conf": 0.9623196721076965
+  },
+  {
+   "text": "D",
+   "conf": 0.9645552635192871
+  },
+  {
+   "text": "5.00SR",
+   "conf": 0.9815546870231628
+  },
+  {
+   "text": "Beverage",
+   "conf": 0.9950595945119858
+  },
+  {
+   "text": "1",
+   "conf": 0.873177170753479
+  },
+  {
+   "text": "D",
+   "conf": 0.9909431338310242
+  },
+  {
+   "text": "3.00SR",
+   "conf": 0.9919379452864329
+  },
+  {
+   "text": "Noodle Item Single",
+   "conf": 0.9777675966421763
+  },
+  {
+   "text": "Total （Excluding GST):",
+   "conf": 0.9085946164347909
+  },
+  {
+   "text": "38.00",
+   "conf": 0.9982369065284729
+  },
+  {
+   "text": "Total （Inclusive of GST):",
+   "conf": 0.9132178139686584
+  },
+  {
+   "text": "38.00",
+   "conf": 0.9979860424995423
+  },
+  {
+   "text": "TOTAL:",
+   "conf": 0.9712550838788351
+  },
+  {
+   "text": "38.00",
+   "conf": 0.9990198493003846
+  },
+  {
+   "text": "Closed:1",
+   "conf": 0.9686405882239342
+  },
+  {
+   "text": "20-06-2018",
+   "conf": 0.9942175626754761
+  },
+  {
+   "text": "22:39:39",
+   "conf": 0.9725732952356339
+  },
+  {
+   "text": "Server:113 CASHIER",
+   "conf": 0.949074215359158
+  },
+  {
+   "text": "CASH:",
+   "conf": 0.9648095488548278
+  },
+  {
+   "text": "38.00",
+   "conf": 0.9988605856895447
+  },
+  {
+   "text": "GST Sumnary",
+   "conf": 0.9196238409389149
+  },
+  {
+   "text": "Amount(RM)",
+   "conf": 0.9337361574172973
+  },
+  {
+   "text": "Tax(RM)",
+   "conf": 0.9285430312156677
+  },
+  {
+   "text": "SR",
+   "conf": 0.9858585596084595
+  },
+  {
+   "text": "（@0%）",
+   "conf": 0.8241426587104798
+  },
+  {
+   "text": "38.00",
+   "conf": 0.9967911124229432
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9973034858703613
+  },
+  {
+   "text": "****ThankYou ****",
+   "conf": 0.975484104717479
+  },
+  {
+   "text": "Please Come Again",
+   "conf": 0.9640827950309304
+  }
+ ],
+ "mean_conf": 0.9587,
+ "low_conf_share": 0.0,
+ "latency_ms": 3309,
+ "fields": {
+  "company": "ONE ONE THREE SEAFOOD RESTAURANT SDN BHD",
+  "date": "2018-06-20",
+  "total": 38.0
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  38.0,
+  38.0
+ ],
+ "key": "X51008164998"
+}

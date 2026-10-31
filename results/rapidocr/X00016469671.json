@@ -1,0 +1,215 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "tan chay yee",
+  "OJCMARKETINGSDNBHD",
+  "ROCNO:538358-H",
+  "NO2&4,JALANBAYU4,",
+  "BANDARSERIALAM,",
+  "81750 MASAI,JOHOR",
+  "Tel:07-3882218Fax:07-3888218",
+  "Email:ng@ojcgroup.com",
+  "Cash Bill",
+  "Invoice No ：PEGIV-1030531",
+  "Date 02/01/20192:47:14PM",
+  "Cashier :RHYSTAN",
+  "SalesPersor:FATIN",
+  "Description Qty Price Amount",
+  "000000111 1 170.00 170.00",
+  "KINGSSAFETY P004",
+  "SHOESKWD805",
+  "Qty:1TotalItemDiscount: 0.00",
+  "TotalAmount: 170.00",
+  "Round Amt: 0.00",
+  "TOTAL: 170.00",
+  "VISACARD 170.00",
+  "xxxxxxxxxxxx4318",
+  "Approval Code:123",
+  "170-u0",
+  "GoodsSoldAreNotReturnable&Refundable",
+  "****ThankYou.PleaseComeAgain,***x"
+ ],
+ "tokens": [
+  {
+   "text": "tan chay yee",
+   "conf": 0.9785354634126028
+  },
+  {
+   "text": "OJCMARKETINGSDNBHD",
+   "conf": 0.9927434457672967
+  },
+  {
+   "text": "ROCNO:538358-H",
+   "conf": 0.9737171019826617
+  },
+  {
+   "text": "NO2&4,JALANBAYU4,",
+   "conf": 0.9336716111968545
+  },
+  {
+   "text": "BANDARSERIALAM,",
+   "conf": 0.9640219251314799
+  },
+  {
+   "text": "81750 MASAI,JOHOR",
+   "conf": 0.9506194872014663
+  },
+  {
+   "text": "Tel:07-3882218Fax:07-3888218",
+   "conf": 0.980764199580465
+  },
+  {
+   "text": "Email:ng@ojcgroup.com",
+   "conf": 0.9804403157461257
+  },
+  {
+   "text": "Cash Bill",
+   "conf": 0.978371262550354
+  },
+  {
+   "text": "Invoice No",
+   "conf": 0.9541439116001129
+  },
+  {
+   "text": "：PEGIV-1030531",
+   "conf": 0.9620454822267804
+  },
+  {
+   "text": "Date",
+   "conf": 0.9882650822401047
+  },
+  {
+   "text": "02/01/20192:47:14PM",
+   "conf": 0.9895633835541574
+  },
+  {
+   "text": "Cashier",
+   "conf": 0.9891226461955479
+  },
+  {
+   "text": ":RHYSTAN",
+   "conf": 0.9441113919019699
+  },
+  {
+   "text": "SalesPersor:FATIN",
+   "conf": 0.9737327975385329
+  },
+  {
+   "text": "Description",
+   "conf": 0.9159999923272566
+  },
+  {
+   "text": "Qty",
+   "conf": 0.8695212999979655
+  },
+  {
+   "text": "Price",
+   "conf": 0.9912238597869873
+  },
+  {
+   "text": "Amount",
+   "conf": 0.990903377532959
+  },
+  {
+   "text": "000000111",
+   "conf": 0.9973480767673917
+  },
+  {
+   "text": "1",
+   "conf": 0.9775938987731934
+  },
+  {
+   "text": "170.00",
+   "conf": 0.9959312379360199
+  },
+  {
+   "text": "170.00",
+   "conf": 0.997729072968165
+  },
+  {
+   "text": "KINGSSAFETY",
+   "conf": 0.991072264584628
+  },
+  {
+   "text": "P004",
+   "conf": 0.8958452045917511
+  },
+  {
+   "text": "SHOESKWD805",
+   "conf": 0.9940420334989374
+  },
+  {
+   "text": "Qty:1TotalItemDiscount:",
+   "conf": 0.9544616056525189
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9972591251134872
+  },
+  {
+   "text": "TotalAmount:",
+   "conf": 0.985071524977684
+  },
+  {
+   "text": "170.00",
+   "conf": 0.9978723426659902
+  },
+  {
+   "text": "Round Amt:",
+   "conf": 0.9317875504493713
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9975665360689163
+  },
+  {
+   "text": "TOTAL:",
+   "conf": 0.9870098034540812
+  },
+  {
+   "text": "170.00",
+   "conf": 0.9987197518348694
+  },
+  {
+   "text": "VISACARD",
+   "conf": 0.9906299412250519
+  },
+  {
+   "text": "170.00",
+   "conf": 0.9976100822289785
+  },
+  {
+   "text": "xxxxxxxxxxxx4318",
+   "conf": 0.8776946812868118
+  },
+  {
+   "text": "Approval Code:123",
+   "conf": 0.9545097631566665
+  },
+  {
+   "text": "170-u0",
+   "conf": 0.6843279550472895
+  },
+  {
+   "text": "GoodsSoldAreNotReturnable&Refundable",
+   "conf": 0.9885222564140955
+  },
+  {
+   "text": "****ThankYou.PleaseComeAgain,***x",
+   "conf": 0.9247741879838886
+  }
+ ],
+ "mean_conf": 0.9624,
+ "low_conf_share": 0.0,
+ "latency_ms": 4243,
+ "fields": {
+  "company": "TAN CHAY YEE",
+  "date": "2019-01-02",
+  "total": 170.0
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  170.0
+ ],
+ "key": "X00016469671"
+}

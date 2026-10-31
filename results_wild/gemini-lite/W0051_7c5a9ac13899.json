@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.1-flash-lite",
+ "provider": "gemini",
+ "raw_text": "{\n  \"vendor\": \"PINNACLES RESTAURANT\",\n  \"date\": \"2015-03-14\",\n  \"subtotal\": 13.90,\n  \"tax\": null,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 13.90,\n  \"currency\": \"GBP\",\n  \"confidence\": 0.98,\n  \"notes\": null\n}",
+ "data": {
+  "vendor": "PINNACLES RESTAURANT",
+  "date": "2015-03-14",
+  "subtotal": 13.9,
+  "tax": null,
+  "tip": null,
+  "discount": null,
+  "total": 13.9,
+  "currency": "GBP",
+  "confidence": 0.98,
+  "notes": null
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1471,
+  "output_tokens": 104,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.000524,
+ "latency_ms": 2316,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.1-flash-lite",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.1-flash-lite"
+ ],
+ "key": "W0051_7c5a9ac13899"
+}

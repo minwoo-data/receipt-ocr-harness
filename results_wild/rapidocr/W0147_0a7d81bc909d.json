@@ -1,0 +1,140 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "BlackDiamond Car Wash",
+  "1414Hecla Way",
+  "Louisvi11e,c0 80027",
+  "303-666-6696",
+  "Washcashier1, 01/15/15,10:49 AM",
+  "Shift 1,Empl 1, Sale #52882706688",
+  "1Express Wax Wash 29.95",
+  "1Mini/SUV-ExpWaxWsh 3.00",
+  "1 SeatsLthr/Vinyl 9.00",
+  "1Rims 6.00",
+  "Subtotal 47.95",
+  "Sales Tax 0.00",
+  "Total 47.95",
+  "DISCOVER 47.95",
+  "Your wash service advisor was Owner, #1.",
+  "Car#328"
+ ],
+ "tokens": [
+  {
+   "text": "BlackDiamond Car Wash",
+   "conf": 0.9240099234240395
+  },
+  {
+   "text": "1414Hecla Way",
+   "conf": 0.9607229370337266
+  },
+  {
+   "text": "Louisvi11e,c0 80027",
+   "conf": 0.9360786801890323
+  },
+  {
+   "text": "303-666-6696",
+   "conf": 0.9972876211007436
+  },
+  {
+   "text": "01/15/15,10:49 AM",
+   "conf": 0.9622290730476379
+  },
+  {
+   "text": "Washcashier1,",
+   "conf": 0.927414174263294
+  },
+  {
+   "text": "Sale #52882706688",
+   "conf": 0.9625748956904692
+  },
+  {
+   "text": "Shift 1,Empl 1,",
+   "conf": 0.9121043483416239
+  },
+  {
+   "text": "29.95",
+   "conf": 0.998904037475586
+  },
+  {
+   "text": "1Express Wax Wash",
+   "conf": 0.9206852422041052
+  },
+  {
+   "text": "3.00",
+   "conf": 0.9987067729234695
+  },
+  {
+   "text": "1Mini/SUV-ExpWaxWsh",
+   "conf": 0.9367455777369047
+  },
+  {
+   "text": "9.00",
+   "conf": 0.9978329539299011
+  },
+  {
+   "text": "1 SeatsLthr/Vinyl",
+   "conf": 0.9323394999784582
+  },
+  {
+   "text": "6.00",
+   "conf": 0.998553603887558
+  },
+  {
+   "text": "1Rims",
+   "conf": 0.9838262796401978
+  },
+  {
+   "text": "Subtotal",
+   "conf": 0.9946281686425209
+  },
+  {
+   "text": "47.95",
+   "conf": 0.9991241693496704
+  },
+  {
+   "text": "Sales Tax",
+   "conf": 0.9736740390459696
+  },
+  {
+   "text": "0.00",
+   "conf": 0.998893529176712
+  },
+  {
+   "text": "Total",
+   "conf": 0.9936864376068115
+  },
+  {
+   "text": "47.95",
+   "conf": 0.9990024447441102
+  },
+  {
+   "text": "DISCOVER",
+   "conf": 0.990686260163784
+  },
+  {
+   "text": "47.95",
+   "conf": 0.9988696575164795
+  },
+  {
+   "text": "Your wash service advisor was Owner, #1.",
+   "conf": 0.95731091350317
+  },
+  {
+   "text": "Car#328",
+   "conf": 0.9685726080621991
+  }
+ ],
+ "mean_conf": 0.9702,
+ "low_conf_share": 0.0,
+ "latency_ms": 3110,
+ "fields": {
+  "company": "BLACKDIAMOND CAR WASH",
+  "date": "2015-01-15",
+  "total": 47.95
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  47.95
+ ],
+ "key": "W0147_0a7d81bc909d"
+}

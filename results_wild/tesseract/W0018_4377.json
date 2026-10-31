@@ -1,0 +1,244 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "SAFEWAY @)9.",
+  "STORE MGR JIM BROWN 480-755-1844",
+  "THANK YOU FOR SHOPPING WITH US!",
+  "MISCELLANEOUS",
+  "MR PROCESSING 2Ee re",
+  "MR MASTERCARD 100, 00 100.00",
+  "x*x*« TAX OO Ser. 10533",
+  "VF DEBIT CARD 105.95",
+  "CHANGE 00",
+  "B1711 GFr4b 1535 07. 0060: 7469",
+  "| YOUR CASHIER TODAY WAS BONNIE",
+  "| DR ELS O42",
+  "oN 3926"
+ ],
+ "tokens": [
+  {
+   "text": "SAFEWAY",
+   "conf": 0.93
+  },
+  {
+   "text": "@)9.",
+   "conf": 0.41
+  },
+  {
+   "text": "STORE",
+   "conf": 0.96
+  },
+  {
+   "text": "MGR",
+   "conf": 0.95
+  },
+  {
+   "text": "JIM",
+   "conf": 0.95
+  },
+  {
+   "text": "BROWN",
+   "conf": 0.95
+  },
+  {
+   "text": "480-755-1844",
+   "conf": 0.84
+  },
+  {
+   "text": "THANK",
+   "conf": 0.96
+  },
+  {
+   "text": "YOU",
+   "conf": 0.94
+  },
+  {
+   "text": "FOR",
+   "conf": 0.96
+  },
+  {
+   "text": "SHOPPING",
+   "conf": 0.94
+  },
+  {
+   "text": "WITH",
+   "conf": 0.96
+  },
+  {
+   "text": "US!",
+   "conf": 0.95
+  },
+  {
+   "text": "MISCELLANEOUS",
+   "conf": 0.96
+  },
+  {
+   "text": "MR",
+   "conf": 0.95
+  },
+  {
+   "text": "PROCESSING",
+   "conf": 0.74
+  },
+  {
+   "text": "2Ee",
+   "conf": 0.0
+  },
+  {
+   "text": "re",
+   "conf": 0.28
+  },
+  {
+   "text": "MR",
+   "conf": 0.95
+  },
+  {
+   "text": "MASTERCARD",
+   "conf": 0.95
+  },
+  {
+   "text": "100,",
+   "conf": 0.81
+  },
+  {
+   "text": "00",
+   "conf": 0.81
+  },
+  {
+   "text": "100.00",
+   "conf": 0.84
+  },
+  {
+   "text": "x*x*«",
+   "conf": 0.0
+  },
+  {
+   "text": "TAX",
+   "conf": 0.95
+  },
+  {
+   "text": "OO",
+   "conf": 0.27
+  },
+  {
+   "text": "Ser.",
+   "conf": 0.28
+  },
+  {
+   "text": "10533",
+   "conf": 0.47
+  },
+  {
+   "text": "VF",
+   "conf": 0.8
+  },
+  {
+   "text": "DEBIT",
+   "conf": 0.96
+  },
+  {
+   "text": "CARD",
+   "conf": 0.96
+  },
+  {
+   "text": "105.95",
+   "conf": 0.91
+  },
+  {
+   "text": "CHANGE",
+   "conf": 0.96
+  },
+  {
+   "text": "00",
+   "conf": 0.65
+  },
+  {
+   "text": "B1711",
+   "conf": 0.0
+  },
+  {
+   "text": "GFr4b",
+   "conf": 0.0
+  },
+  {
+   "text": "1535",
+   "conf": 0.94
+  },
+  {
+   "text": "07.",
+   "conf": 0.71
+  },
+  {
+   "text": "0060:",
+   "conf": 0.5
+  },
+  {
+   "text": "7469",
+   "conf": 0.46
+  },
+  {
+   "text": "|",
+   "conf": 0.9
+  },
+  {
+   "text": "YOUR",
+   "conf": 0.96
+  },
+  {
+   "text": "CASHIER",
+   "conf": 0.96
+  },
+  {
+   "text": "TODAY",
+   "conf": 0.96
+  },
+  {
+   "text": "WAS",
+   "conf": 0.96
+  },
+  {
+   "text": "BONNIE",
+   "conf": 0.96
+  },
+  {
+   "text": "|",
+   "conf": 0.9
+  },
+  {
+   "text": "DR",
+   "conf": 0.04
+  },
+  {
+   "text": "ELS",
+   "conf": 0.22
+  },
+  {
+   "text": "O42",
+   "conf": 0.34
+  },
+  {
+   "text": "oN",
+   "conf": 0.28
+  },
+  {
+   "text": "3926",
+   "conf": 0.8
+  }
+ ],
+ "mean_conf": 0.7133,
+ "low_conf_share": 0.2692,
+ "latency_ms": 1399,
+ "fields": {
+  "company": "STORE MGR JIM BROWN 480 755 1844",
+  "date": null,
+  "total": 105.95
+ },
+ "rule_reasons": [
+  "date_not_found",
+  "total_no_keyword_fallback_max"
+ ],
+ "total_candidates": [
+  105.95
+ ],
+ "key": "W0018_4377"
+}

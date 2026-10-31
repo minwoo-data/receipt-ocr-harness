@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.6-flash",
+ "provider": "gemini",
+ "raw_text": "{\"vendor\": \"Gerbang Alaf Restaurants Sdn Bhd\", \"date\": \"2018-01-18\", \"subtotal\": 36.7, \"tax\": 2.2, \"tip\": null, \"discount\": null, \"total\": 38.9, \"currency\": \"MYR\", \"confidence\": 0.95, \"notes\": null}",
+ "data": {
+  "vendor": "Gerbang Alaf Restaurants Sdn Bhd",
+  "date": "2018-01-18",
+  "subtotal": 36.7,
+  "tax": 2.2,
+  "tip": null,
+  "discount": null,
+  "total": 38.9,
+  "currency": "MYR",
+  "confidence": 0.95,
+  "notes": null
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1471,
+  "output_tokens": 85,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.001422,
+ "latency_ms": 3690,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.6-flash",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.6-flash"
+ ],
+ "key": "X51005230616"
+}

@@ -1,0 +1,380 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "\\y gh\"",
+  "TD Ld",
+  "are) * Shorr",
+  "IS toner ap el Nuno LogaHou00!",
+  "SURI: 5",
+  "MOL 3 gag bl aS Ue",
+  "APPILE RES Bel 0.63 «",
+  "FON AN AS (3",
+  "SPINASH 1 sex",
+  "SLL Qa all $321",
+  "ota cle}",
+  "Pig Taare Soe |",
+  "Didicipte ts $0.00",
+  "TAANIC® Wall FOR SHO2\"143 AT STOP & SHOP.",
+  "WE'VE ENISYED SERV DG YOU, AND WE",
+  "LIOK FORWARD “O SEaV ONG ALL YOUR",
+  "PUTURIE SHOPPING NE",
+  "STEVIE =ARLEY, STORRS 1ANAGER",
+  "ST OF & SHO! #OoOSS",
+  "5 .",
+  "; ate"
+ ],
+ "tokens": [
+  {
+   "text": "\\y",
+   "conf": 0.17
+  },
+  {
+   "text": "gh\"",
+   "conf": 0.29
+  },
+  {
+   "text": "TD",
+   "conf": 0.0
+  },
+  {
+   "text": "Ld",
+   "conf": 0.4
+  },
+  {
+   "text": "are)",
+   "conf": 0.24
+  },
+  {
+   "text": "*",
+   "conf": 0.06
+  },
+  {
+   "text": "Shorr",
+   "conf": 0.47
+  },
+  {
+   "text": "IS",
+   "conf": 0.5
+  },
+  {
+   "text": "toner",
+   "conf": 0.59
+  },
+  {
+   "text": "ap",
+   "conf": 0.47
+  },
+  {
+   "text": "el",
+   "conf": 0.51
+  },
+  {
+   "text": "Nuno",
+   "conf": 0.45
+  },
+  {
+   "text": "LogaHou00!",
+   "conf": 0.0
+  },
+  {
+   "text": "SURI:",
+   "conf": 0.0
+  },
+  {
+   "text": "5",
+   "conf": 0.22
+  },
+  {
+   "text": "MOL",
+   "conf": 0.83
+  },
+  {
+   "text": "3",
+   "conf": 0.26
+  },
+  {
+   "text": "gag",
+   "conf": 0.43
+  },
+  {
+   "text": "bl",
+   "conf": 0.61
+  },
+  {
+   "text": "aS",
+   "conf": 0.19
+  },
+  {
+   "text": "Ue",
+   "conf": 0.32
+  },
+  {
+   "text": "APPILE",
+   "conf": 0.88
+  },
+  {
+   "text": "RES",
+   "conf": 0.68
+  },
+  {
+   "text": "Bel",
+   "conf": 0.58
+  },
+  {
+   "text": "0.63",
+   "conf": 0.29
+  },
+  {
+   "text": "«",
+   "conf": 0.3
+  },
+  {
+   "text": "FON",
+   "conf": 0.22
+  },
+  {
+   "text": "AN",
+   "conf": 0.22
+  },
+  {
+   "text": "AS",
+   "conf": 0.61
+  },
+  {
+   "text": "(3",
+   "conf": 0.13
+  },
+  {
+   "text": "SPINASH",
+   "conf": 0.88
+  },
+  {
+   "text": "1",
+   "conf": 0.31
+  },
+  {
+   "text": "sex",
+   "conf": 0.44
+  },
+  {
+   "text": "SLL",
+   "conf": 0.15
+  },
+  {
+   "text": "Qa",
+   "conf": 0.0
+  },
+  {
+   "text": "all",
+   "conf": 0.69
+  },
+  {
+   "text": "$321",
+   "conf": 0.49
+  },
+  {
+   "text": "ota",
+   "conf": 0.63
+  },
+  {
+   "text": "cle}",
+   "conf": 0.28
+  },
+  {
+   "text": "Pig",
+   "conf": 0.04
+  },
+  {
+   "text": "Taare",
+   "conf": 0.0
+  },
+  {
+   "text": "Soe",
+   "conf": 0.22
+  },
+  {
+   "text": "|",
+   "conf": 0.28
+  },
+  {
+   "text": "Didicipte",
+   "conf": 0.0
+  },
+  {
+   "text": "ts",
+   "conf": 0.13
+  },
+  {
+   "text": "$0.00",
+   "conf": 0.59
+  },
+  {
+   "text": "TAANIC®",
+   "conf": 0.28
+  },
+  {
+   "text": "Wall",
+   "conf": 0.68
+  },
+  {
+   "text": "FOR",
+   "conf": 0.79
+  },
+  {
+   "text": "SHO2\"143",
+   "conf": 0.15
+  },
+  {
+   "text": "AT",
+   "conf": 0.96
+  },
+  {
+   "text": "STOP",
+   "conf": 0.9
+  },
+  {
+   "text": "&",
+   "conf": 0.89
+  },
+  {
+   "text": "SHOP.",
+   "conf": 0.9
+  },
+  {
+   "text": "WE'VE",
+   "conf": 0.0
+  },
+  {
+   "text": "ENISYED",
+   "conf": 0.17
+  },
+  {
+   "text": "SERV",
+   "conf": 0.29
+  },
+  {
+   "text": "DG",
+   "conf": 0.29
+  },
+  {
+   "text": "YOU,",
+   "conf": 0.76
+  },
+  {
+   "text": "AND",
+   "conf": 0.83
+  },
+  {
+   "text": "WE",
+   "conf": 0.87
+  },
+  {
+   "text": "LIOK",
+   "conf": 0.15
+  },
+  {
+   "text": "FORWARD",
+   "conf": 0.33
+  },
+  {
+   "text": "“O",
+   "conf": 0.77
+  },
+  {
+   "text": "SEaV",
+   "conf": 0.48
+  },
+  {
+   "text": "ONG",
+   "conf": 0.58
+  },
+  {
+   "text": "ALL",
+   "conf": 0.69
+  },
+  {
+   "text": "YOUR",
+   "conf": 0.94
+  },
+  {
+   "text": "PUTURIE",
+   "conf": 0.49
+  },
+  {
+   "text": "SHOPPING",
+   "conf": 0.9
+  },
+  {
+   "text": "NE",
+   "conf": 0.86
+  },
+  {
+   "text": "STEVIE",
+   "conf": 0.79
+  },
+  {
+   "text": "=ARLEY,",
+   "conf": 0.11
+  },
+  {
+   "text": "STORRS",
+   "conf": 0.14
+  },
+  {
+   "text": "1ANAGER",
+   "conf": 0.0
+  },
+  {
+   "text": "ST",
+   "conf": 0.43
+  },
+  {
+   "text": "OF",
+   "conf": 0.43
+  },
+  {
+   "text": "&",
+   "conf": 0.78
+  },
+  {
+   "text": "SHO!",
+   "conf": 0.0
+  },
+  {
+   "text": "#OoOSS",
+   "conf": 0.24
+  },
+  {
+   "text": "5",
+   "conf": 0.49
+  },
+  {
+   "text": ".",
+   "conf": 0.2
+  },
+  {
+   "text": ";",
+   "conf": 0.32
+  },
+  {
+   "text": "ate",
+   "conf": 0.47
+  }
+ ],
+ "mean_conf": 0.4214,
+ "low_conf_share": 0.6429,
+ "latency_ms": 1589,
+ "fields": {
+  "company": "TD LD",
+  "date": null,
+  "total": 0.0
+ },
+ "rule_reasons": [
+  "date_not_found",
+  "total_no_keyword_fallback_max"
+ ],
+ "total_candidates": [
+  0.0
+ ],
+ "key": "W0047_887ce47e5f76"
+}

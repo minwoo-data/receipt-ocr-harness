@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.1-flash-lite",
+ "provider": "gemini",
+ "raw_text": "{\n  \"vendor\": \"Pattappa's Thaligai\",\n  \"date\": \"2016-06-19\",\n  \"subtotal\": 314.00,\n  \"tax\": 25.12,\n  \"tip\": null,\n  \"discount\": -0.12,\n  \"total\": 339.00,\n  \"currency\": \"INR\",\n  \"confidence\": 0.98,\n  \"notes\": \"Tax calculated as sum of VAT (6.28) and ST (18.84).\"\n}",
+ "data": {
+  "vendor": "Pattappa's Thaligai",
+  "date": "2016-06-19",
+  "subtotal": 314.0,
+  "tax": 25.12,
+  "tip": null,
+  "discount": -0.12,
+  "total": 339.0,
+  "currency": "INR",
+  "confidence": 0.98,
+  "notes": "Tax calculated as sum of VAT (6.28) and ST (18.84)."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1469,
+  "output_tokens": 138,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.000574,
+ "latency_ms": 1654,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.1-flash-lite",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.1-flash-lite"
+ ],
+ "key": "W0160_5326bd45e6b9"
+}

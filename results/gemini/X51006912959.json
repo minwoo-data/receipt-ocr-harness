@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.6-flash",
+ "provider": "gemini",
+ "raw_text": "{\"vendor\":\"Royaltea\",\"date\":\"2018-05-09\",\"subtotal\":10.9,\"tax\":0.62,\"tip\":null,\"discount\":null,\"total\":10.9,\"currency\":\"MYR\",\"confidence\":0.95,\"notes\":null}",
+ "data": {
+  "vendor": "Royaltea",
+  "date": "2018-05-09",
+  "subtotal": 10.9,
+  "tax": 0.62,
+  "tip": null,
+  "discount": null,
+  "total": 10.9,
+  "currency": "MYR",
+  "confidence": 0.95,
+  "notes": null
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1461,
+  "output_tokens": 65,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.001339,
+ "latency_ms": 3082,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.6-flash",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.6-flash"
+ ],
+ "key": "X51006912959"
+}

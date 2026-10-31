@@ -1,0 +1,184 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "The Loft Restaurant",
+  "56 Main Street",
+  "Arklow",
+  "040241418",
+  "Date:Nov 11,2011 23:00:54",
+  "TableTransId:5029996",
+  "TransId:5029996",
+  "Table:Bar-5029996",
+  "Server:Lisa Marie",
+  "Current Term: touch3",
+  "Crostini 5.50",
+  "Tiger Prawn 7.50",
+  "Corn Fed Chicken 12.95",
+  "Undyed Smoked Haddock 13.95",
+  "2 Pint Lager 8.40 2.20",
+  "1 Split 15.99",
+  "Cono Sur Sav Blanc",
+  "Subtotal 66.49",
+  "Total 66.49",
+  "Cash -66.49",
+  "Balance 0.00",
+  "THANK YOU!"
+ ],
+ "tokens": [
+  {
+   "text": "The Loft Restaurant",
+   "conf": 0.9765358473125257
+  },
+  {
+   "text": "56 Main Street",
+   "conf": 0.953585969550269
+  },
+  {
+   "text": "Arklow",
+   "conf": 0.9548024733861288
+  },
+  {
+   "text": "040241418",
+   "conf": 0.9955674674775865
+  },
+  {
+   "text": "Date:Nov 11,2011 23:00:54",
+   "conf": 0.9411413931846618
+  },
+  {
+   "text": "TableTransId:5029996",
+   "conf": 0.9780547112226486
+  },
+  {
+   "text": "TransId:5029996",
+   "conf": 0.9878058393796285
+  },
+  {
+   "text": "Table:Bar-5029996",
+   "conf": 0.9801508959601907
+  },
+  {
+   "text": "Server:Lisa Marie",
+   "conf": 0.9838219635626849
+  },
+  {
+   "text": "Current Term: touch3",
+   "conf": 0.9621207147836686
+  },
+  {
+   "text": "5.50",
+   "conf": 0.9932054430246353
+  },
+  {
+   "text": "Crostini",
+   "conf": 0.9862846285104752
+  },
+  {
+   "text": "7.50",
+   "conf": 0.9903434813022614
+  },
+  {
+   "text": "Tiger Prawn",
+   "conf": 0.972850349816409
+  },
+  {
+   "text": "12.95",
+   "conf": 0.995659327507019
+  },
+  {
+   "text": "Corn Fed Chicken",
+   "conf": 0.951885424554348
+  },
+  {
+   "text": "13.95",
+   "conf": 0.9931083917617798
+  },
+  {
+   "text": "Undyed Smoked Haddock",
+   "conf": 0.9754625927834284
+  },
+  {
+   "text": "8.40",
+   "conf": 0.9871577769517899
+  },
+  {
+   "text": "2",
+   "conf": 0.9992151260375977
+  },
+  {
+   "text": "Pint Lager",
+   "conf": 0.9526160895824433
+  },
+  {
+   "text": "2.20",
+   "conf": 0.9837028831243515
+  },
+  {
+   "text": "Split",
+   "conf": 0.9884226441383361
+  },
+  {
+   "text": "1",
+   "conf": 0.9743397235870361
+  },
+  {
+   "text": "15.99",
+   "conf": 0.9933868169784545
+  },
+  {
+   "text": "Cono Sur Sav Blanc",
+   "conf": 0.9470506244235568
+  },
+  {
+   "text": "66.49",
+   "conf": 0.9904142498970032
+  },
+  {
+   "text": "Subtotal",
+   "conf": 0.9912429004907608
+  },
+  {
+   "text": "66.49",
+   "conf": 0.9883868455886841
+  },
+  {
+   "text": "Total",
+   "conf": 0.9888240218162536
+  },
+  {
+   "text": "-66.49",
+   "conf": 0.946827749411265
+  },
+  {
+   "text": "Cash",
+   "conf": 0.9880188256502151
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9948387444019318
+  },
+  {
+   "text": "Balance",
+   "conf": 0.985447781426566
+  },
+  {
+   "text": "THANK YOU!",
+   "conf": 0.9281334638595581
+  }
+ ],
+ "mean_conf": 0.9772,
+ "low_conf_share": 0.0,
+ "latency_ms": 3409,
+ "fields": {
+  "company": "THE LOFT RESTAURANT",
+  "date": null,
+  "total": 66.49
+ },
+ "rule_reasons": [
+  "date_not_found"
+ ],
+ "total_candidates": [
+  66.49
+ ],
+ "key": "W0142_756d2b05655f"
+}

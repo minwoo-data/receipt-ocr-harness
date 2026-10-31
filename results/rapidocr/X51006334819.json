@@ -1,0 +1,226 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "BEMED (SP) SDN. BHD.",
+  "No.49,JalanOinarGU3/G,",
+  "Gubang Perdana.",
+  "401so Shah Alam, Selangor D.E.",
+  "03-7845 8155",
+  "GST Reg : 001734164460",
+  "CASH RECEIFT",
+  "C券：70274707814 20/Jan/2017 06:06:50",
+  "Cashier: be()",
+  "CtyCode&Desc Price Total",
+  "ALPHALIPIDLIFELINE450MG450G",
+  "1184810 105.00 1053R",
+  "DR FITVEGEHIGHFIBER 15'SX12G",
+  "1 282930 33.00 3888",
+  "2 Type: 2",
+  "SubTotal: 203.00",
+  "Rounding Adi: 0.00",
+  "Total Inclusive GsT: 203.00",
+  "MASTER 203.00",
+  "GST Summary: Amount KEL",
+  "(MYR) (MYR)",
+  "SR. 181.51 11.48",
+  "G GUAT GHYE",
+  "Paints:",
+  "Thankyou.",
+  "Please come again."
+ ],
+ "tokens": [
+  {
+   "text": "BEMED (SP) SDN. BHD.",
+   "conf": 0.9276123136281967
+  },
+  {
+   "text": "No.49,JalanOinarGU3/G,",
+   "conf": 0.8341195542703975
+  },
+  {
+   "text": "Gubang Perdana.",
+   "conf": 0.9534603198369344
+  },
+  {
+   "text": "401so Shah Alam, Selangor D.E.",
+   "conf": 0.8828219016393025
+  },
+  {
+   "text": "03-7845 8155",
+   "conf": 0.9487290581067404
+  },
+  {
+   "text": "GST Reg : 001734164460",
+   "conf": 0.9579433527859774
+  },
+  {
+   "text": "CASH RECEIFT",
+   "conf": 0.9299041479825974
+  },
+  {
+   "text": "C券：70274707814",
+   "conf": 0.9011753925255367
+  },
+  {
+   "text": "20/Jan/2017 06:06:50",
+   "conf": 0.8897132962942124
+  },
+  {
+   "text": "Cashier: be()",
+   "conf": 0.9566034032748296
+  },
+  {
+   "text": "CtyCode&Desc",
+   "conf": 0.8638754760225614
+  },
+  {
+   "text": "Price",
+   "conf": 0.9779019355773926
+  },
+  {
+   "text": "Total",
+   "conf": 0.939729118347168
+  },
+  {
+   "text": "ALPHALIPIDLIFELINE450MG450G",
+   "conf": 0.9429249962170919
+  },
+  {
+   "text": "1184810",
+   "conf": 0.9968055060931614
+  },
+  {
+   "text": "105.00",
+   "conf": 0.9911960065364838
+  },
+  {
+   "text": "1053R",
+   "conf": 0.9762737631797791
+  },
+  {
+   "text": "DR FITVEGEHIGHFIBER 15'SX12G",
+   "conf": 0.9411778173276356
+  },
+  {
+   "text": "1",
+   "conf": 0.9360271692276001
+  },
+  {
+   "text": "282930",
+   "conf": 0.9331442912419637
+  },
+  {
+   "text": "33.00",
+   "conf": 0.976696503162384
+  },
+  {
+   "text": "3888",
+   "conf": 0.853186160326004
+  },
+  {
+   "text": "2",
+   "conf": 0.9991565942764282
+  },
+  {
+   "text": "Type:",
+   "conf": 0.9900425791740417
+  },
+  {
+   "text": "2",
+   "conf": 0.9959080219268799
+  },
+  {
+   "text": "SubTotal:",
+   "conf": 0.9522809982299805
+  },
+  {
+   "text": "203.00",
+   "conf": 0.9979264934857687
+  },
+  {
+   "text": "Rounding Adi:",
+   "conf": 0.9065836438765893
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9944911450147629
+  },
+  {
+   "text": "Total Inclusive GsT:",
+   "conf": 0.9363114923238754
+  },
+  {
+   "text": "203.00",
+   "conf": 0.9951740304629008
+  },
+  {
+   "text": "MASTER",
+   "conf": 0.9963617424170176
+  },
+  {
+   "text": "203.00",
+   "conf": 0.9992362856864929
+  },
+  {
+   "text": "GST Summary:",
+   "conf": 0.9810956865549088
+  },
+  {
+   "text": "Amount",
+   "conf": 0.9353825151920319
+  },
+  {
+   "text": "KEL",
+   "conf": 0.6708076198895773
+  },
+  {
+   "text": "(MYR)",
+   "conf": 0.9822542071342468
+  },
+  {
+   "text": "(MYR)",
+   "conf": 0.9861837148666381
+  },
+  {
+   "text": "SR.",
+   "conf": 0.8857372005780538
+  },
+  {
+   "text": "181.51",
+   "conf": 0.9332223335901896
+  },
+  {
+   "text": "11.48",
+   "conf": 0.8839918315410614
+  },
+  {
+   "text": "G GUAT GHYE",
+   "conf": 0.870787111195651
+  },
+  {
+   "text": "Paints:",
+   "conf": 0.9342623012406486
+  },
+  {
+   "text": "Thankyou.",
+   "conf": 0.9922096067004733
+  },
+  {
+   "text": "Please come again.",
+   "conf": 0.8963526454236772
+  }
+ ],
+ "mean_conf": 0.9384,
+ "low_conf_share": 0.0,
+ "latency_ms": 4067,
+ "fields": {
+  "company": "BEMED SDN BHD",
+  "date": "2017-01-20",
+  "total": 203.0
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  203.0
+ ],
+ "key": "X51006334819"
+}

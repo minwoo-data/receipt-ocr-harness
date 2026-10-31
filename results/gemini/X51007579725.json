@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.6-flash",
+ "provider": "gemini",
+ "raw_text": "{\"vendor\": \"THONG RECIPE\", \"date\": \"2018-06-27\", \"subtotal\": 55.9, \"tax\": 0.0, \"tip\": null, \"discount\": null, \"total\": 58.7, \"currency\": \"MYR\", \"confidence\": 0.98, \"notes\": \"SRVC 5% (2.80) added to total; GST is 0%.\"}",
+ "data": {
+  "vendor": "THONG RECIPE",
+  "date": "2018-06-27",
+  "subtotal": 55.9,
+  "tax": 0.0,
+  "tip": null,
+  "discount": null,
+  "total": 58.7,
+  "currency": "MYR",
+  "confidence": 0.98,
+  "notes": "SRVC 5% (2.80) added to total; GST is 0%."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1473,
+  "output_tokens": 103,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.001491,
+ "latency_ms": 1579,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.6-flash",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.6-flash"
+ ],
+ "key": "X51007579725"
+}

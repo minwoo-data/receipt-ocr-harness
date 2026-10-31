@@ -1,0 +1,426 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "10 GRAM Gourmet Sbn Bhd",
+  "(1152264-K)",
+  "No 3, Jalan Temenggung 27/9,",
+  "Bandar Mahkota Cheras,",
+  "43200 Selangor.",
+  "(GST Reg. No : 002055098368)",
+  "Tax Invoice",
+  "Table - .",
+  "Check #: 514658 Pax(s): 0",
+  "Date +: 11-08-2018 12:51:34",
+  "Cashier: Cashier Morning",
+  "Description Qty U.price Tota) TAX",
+  "PO2 Spayhetti Aglio Olio Chicken Breast",
+  "1x 15.00 15.00 SR",
+  "Total (Excluding GST): 14.00",
+  "Total GST (0%); 0.00",
+  "Tota) (Inclusive of GST): 14.00",
+  "Closed: 8888 11-06-2018 = 12:52:23",
+  "Server: Cashier Morning",
+  "CASH ; 15,00",
+  "GST Summary Amount(RM) . Tax(RM)",
+  "SR (@ OX) 15,00 0,00",
+  "eK Thank You ek",
+  "Please Come Again"
+ ],
+ "tokens": [
+  {
+   "text": "10",
+   "conf": 0.96
+  },
+  {
+   "text": "GRAM",
+   "conf": 0.96
+  },
+  {
+   "text": "Gourmet",
+   "conf": 0.93
+  },
+  {
+   "text": "Sbn",
+   "conf": 0.92
+  },
+  {
+   "text": "Bhd",
+   "conf": 0.96
+  },
+  {
+   "text": "(1152264-K)",
+   "conf": 0.41
+  },
+  {
+   "text": "No",
+   "conf": 0.93
+  },
+  {
+   "text": "3,",
+   "conf": 0.93
+  },
+  {
+   "text": "Jalan",
+   "conf": 0.93
+  },
+  {
+   "text": "Temenggung",
+   "conf": 0.75
+  },
+  {
+   "text": "27/9,",
+   "conf": 0.95
+  },
+  {
+   "text": "Bandar",
+   "conf": 0.93
+  },
+  {
+   "text": "Mahkota",
+   "conf": 0.92
+  },
+  {
+   "text": "Cheras,",
+   "conf": 0.92
+  },
+  {
+   "text": "43200",
+   "conf": 0.96
+  },
+  {
+   "text": "Selangor.",
+   "conf": 0.85
+  },
+  {
+   "text": "(GST",
+   "conf": 0.95
+  },
+  {
+   "text": "Reg.",
+   "conf": 0.86
+  },
+  {
+   "text": "No",
+   "conf": 0.92
+  },
+  {
+   "text": ":",
+   "conf": 0.85
+  },
+  {
+   "text": "002055098368)",
+   "conf": 0.89
+  },
+  {
+   "text": "Tax",
+   "conf": 0.96
+  },
+  {
+   "text": "Invoice",
+   "conf": 0.95
+  },
+  {
+   "text": "Table",
+   "conf": 0.91
+  },
+  {
+   "text": "-",
+   "conf": 0.26
+  },
+  {
+   "text": ".",
+   "conf": 0.26
+  },
+  {
+   "text": "Check",
+   "conf": 0.93
+  },
+  {
+   "text": "#:",
+   "conf": 0.8
+  },
+  {
+   "text": "514658",
+   "conf": 0.96
+  },
+  {
+   "text": "Pax(s):",
+   "conf": 0.86
+  },
+  {
+   "text": "0",
+   "conf": 0.96
+  },
+  {
+   "text": "Date",
+   "conf": 0.81
+  },
+  {
+   "text": "+:",
+   "conf": 0.41
+  },
+  {
+   "text": "11-08-2018",
+   "conf": 0.73
+  },
+  {
+   "text": "12:51:34",
+   "conf": 0.94
+  },
+  {
+   "text": "Cashier:",
+   "conf": 0.89
+  },
+  {
+   "text": "Cashier",
+   "conf": 0.96
+  },
+  {
+   "text": "Morning",
+   "conf": 0.96
+  },
+  {
+   "text": "Description",
+   "conf": 0.93
+  },
+  {
+   "text": "Qty",
+   "conf": 0.55
+  },
+  {
+   "text": "U.price",
+   "conf": 0.55
+  },
+  {
+   "text": "Tota)",
+   "conf": 0.89
+  },
+  {
+   "text": "TAX",
+   "conf": 0.93
+  },
+  {
+   "text": "PO2",
+   "conf": 0.81
+  },
+  {
+   "text": "Spayhetti",
+   "conf": 0.89
+  },
+  {
+   "text": "Aglio",
+   "conf": 0.91
+  },
+  {
+   "text": "Olio",
+   "conf": 0.95
+  },
+  {
+   "text": "Chicken",
+   "conf": 0.96
+  },
+  {
+   "text": "Breast",
+   "conf": 0.95
+  },
+  {
+   "text": "1x",
+   "conf": 0.84
+  },
+  {
+   "text": "15.00",
+   "conf": 0.76
+  },
+  {
+   "text": "15.00",
+   "conf": 0.87
+  },
+  {
+   "text": "SR",
+   "conf": 0.87
+  },
+  {
+   "text": "Total",
+   "conf": 0.83
+  },
+  {
+   "text": "(Excluding",
+   "conf": 0.96
+  },
+  {
+   "text": "GST):",
+   "conf": 0.91
+  },
+  {
+   "text": "14.00",
+   "conf": 0.74
+  },
+  {
+   "text": "Total",
+   "conf": 0.95
+  },
+  {
+   "text": "GST",
+   "conf": 0.95
+  },
+  {
+   "text": "(0%);",
+   "conf": 0.63
+  },
+  {
+   "text": "0.00",
+   "conf": 0.55
+  },
+  {
+   "text": "Tota)",
+   "conf": 0.56
+  },
+  {
+   "text": "(Inclusive",
+   "conf": 0.96
+  },
+  {
+   "text": "of",
+   "conf": 0.96
+  },
+  {
+   "text": "GST):",
+   "conf": 0.95
+  },
+  {
+   "text": "14.00",
+   "conf": 0.63
+  },
+  {
+   "text": "Closed:",
+   "conf": 0.96
+  },
+  {
+   "text": "8888",
+   "conf": 0.96
+  },
+  {
+   "text": "11-06-2018",
+   "conf": 0.45
+  },
+  {
+   "text": "=",
+   "conf": 0.44
+  },
+  {
+   "text": "12:52:23",
+   "conf": 0.38
+  },
+  {
+   "text": "Server:",
+   "conf": 0.95
+  },
+  {
+   "text": "Cashier",
+   "conf": 0.96
+  },
+  {
+   "text": "Morning",
+   "conf": 0.96
+  },
+  {
+   "text": "CASH",
+   "conf": 0.92
+  },
+  {
+   "text": ";",
+   "conf": 0.64
+  },
+  {
+   "text": "15,00",
+   "conf": 0.64
+  },
+  {
+   "text": "GST",
+   "conf": 0.94
+  },
+  {
+   "text": "Summary",
+   "conf": 0.94
+  },
+  {
+   "text": "Amount(RM)",
+   "conf": 0.81
+  },
+  {
+   "text": ".",
+   "conf": 0.75
+  },
+  {
+   "text": "Tax(RM)",
+   "conf": 0.81
+  },
+  {
+   "text": "SR",
+   "conf": 0.94
+  },
+  {
+   "text": "(@",
+   "conf": 0.92
+  },
+  {
+   "text": "OX)",
+   "conf": 0.56
+  },
+  {
+   "text": "15,00",
+   "conf": 0.8
+  },
+  {
+   "text": "0,00",
+   "conf": 0.48
+  },
+  {
+   "text": "eK",
+   "conf": 0.0
+  },
+  {
+   "text": "Thank",
+   "conf": 0.91
+  },
+  {
+   "text": "You",
+   "conf": 0.95
+  },
+  {
+   "text": "ek",
+   "conf": 0.1
+  },
+  {
+   "text": "Please",
+   "conf": 0.96
+  },
+  {
+   "text": "Come",
+   "conf": 0.95
+  },
+  {
+   "text": "Again",
+   "conf": 0.96
+  }
+ ],
+ "mean_conf": 0.8139,
+ "low_conf_share": 0.1064,
+ "latency_ms": 786,
+ "fields": {
+  "company": "BANDAR MAHKOTA CHERAS",
+  "date": "2018-08-11",
+  "total": 15.0
+ },
+ "rule_reasons": [
+  "total_no_keyword_fallback_max"
+ ],
+ "total_candidates": [
+  15.0,
+  15.0,
+  14.0,
+  0.0,
+  14.0
+ ],
+ "key": "X51008099054"
+}

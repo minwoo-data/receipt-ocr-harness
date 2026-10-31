@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.6-flash",
+ "provider": "gemini",
+ "raw_text": "{\"vendor\": \"Super Grocery\", \"date\": \"2017-07-16\", \"subtotal\": 11.11, \"tax\": null, \"tip\": null, \"discount\": null, \"total\": 11.11, \"currency\": \"USD\", \"confidence\": 0.95, \"notes\": null}",
+ "data": {
+  "vendor": "Super Grocery",
+  "date": "2017-07-16",
+  "subtotal": 11.11,
+  "tax": null,
+  "tip": null,
+  "discount": null,
+  "total": 11.11,
+  "currency": "USD",
+  "confidence": 0.95,
+  "notes": null
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1444,
+  "output_tokens": 78,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.001375,
+ "latency_ms": 1274,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.6-flash",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.6-flash"
+ ],
+ "key": "W0114_16d252a777cc"
+}

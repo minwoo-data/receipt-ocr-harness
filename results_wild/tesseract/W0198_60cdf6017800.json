@@ -1,0 +1,416 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "CASH BILL : .",
+  "ANNAH VEG RESTAURANT",
+  "NO.114-A, BURMA COLONY",
+  "PERUNGUDI , OMR",
+  "CHENNAI-600 096",
+  "TIN: 33550964357",
+  "| Billno — :R033263 BAT Idt :23.05.2017",
+  "_ TabNo :14 Time :10:02 PM",
+  "~ Salesman :JAYAPRAKASH Session: DINNER",
+  "- PAX \"9",
+  "~ kot No wut | nak",
+  "See | Qty Rate Amount",
+  "MASALA CHEESET 1 100.00 100.00",
+  "DAHI PAPADI 1 85.00 985.00",
+  "TANDDOORI PANEE 1 180.00 180.00",
+  "5 3 ee total «SS.",
+  "Ser. Tax 5.6% 20.44",
+  "VAT(2%) 7.30",
+  "Round off 0.26",
+  "REE HUNDRED AND NINETY THREE ONLY",
+  "os THANK YOU, COME AGAIN",
+  "M/s |"
+ ],
+ "tokens": [
+  {
+   "text": "CASH",
+   "conf": 0.96
+  },
+  {
+   "text": "BILL",
+   "conf": 0.96
+  },
+  {
+   "text": ":",
+   "conf": 0.05
+  },
+  {
+   "text": ".",
+   "conf": 0.23
+  },
+  {
+   "text": "ANNAH",
+   "conf": 0.87
+  },
+  {
+   "text": "VEG",
+   "conf": 0.96
+  },
+  {
+   "text": "RESTAURANT",
+   "conf": 0.96
+  },
+  {
+   "text": "NO.114-A,",
+   "conf": 0.84
+  },
+  {
+   "text": "BURMA",
+   "conf": 0.96
+  },
+  {
+   "text": "COLONY",
+   "conf": 0.96
+  },
+  {
+   "text": "PERUNGUDI",
+   "conf": 0.54
+  },
+  {
+   "text": ",",
+   "conf": 0.79
+  },
+  {
+   "text": "OMR",
+   "conf": 0.79
+  },
+  {
+   "text": "CHENNAI-600",
+   "conf": 0.71
+  },
+  {
+   "text": "096",
+   "conf": 0.91
+  },
+  {
+   "text": "TIN:",
+   "conf": 0.89
+  },
+  {
+   "text": "33550964357",
+   "conf": 0.91
+  },
+  {
+   "text": "|",
+   "conf": 0.33
+  },
+  {
+   "text": "Billno",
+   "conf": 0.48
+  },
+  {
+   "text": "—",
+   "conf": 0.01
+  },
+  {
+   "text": ":R033263",
+   "conf": 0.19
+  },
+  {
+   "text": "BAT",
+   "conf": 0.0
+  },
+  {
+   "text": "Idt",
+   "conf": 0.0
+  },
+  {
+   "text": ":23.05.2017",
+   "conf": 0.31
+  },
+  {
+   "text": "_",
+   "conf": 0.0
+  },
+  {
+   "text": "TabNo",
+   "conf": 0.53
+  },
+  {
+   "text": ":14",
+   "conf": 0.52
+  },
+  {
+   "text": "Time",
+   "conf": 0.73
+  },
+  {
+   "text": ":10:02",
+   "conf": 0.73
+  },
+  {
+   "text": "PM",
+   "conf": 0.95
+  },
+  {
+   "text": "~",
+   "conf": 0.0
+  },
+  {
+   "text": "Salesman",
+   "conf": 0.84
+  },
+  {
+   "text": ":JAYAPRAKASH",
+   "conf": 0.71
+  },
+  {
+   "text": "Session:",
+   "conf": 0.89
+  },
+  {
+   "text": "DINNER",
+   "conf": 0.96
+  },
+  {
+   "text": "-",
+   "conf": 0.0
+  },
+  {
+   "text": "PAX",
+   "conf": 0.96
+  },
+  {
+   "text": "\"9",
+   "conf": 0.37
+  },
+  {
+   "text": "~",
+   "conf": 0.0
+  },
+  {
+   "text": "kot",
+   "conf": 0.95
+  },
+  {
+   "text": "No",
+   "conf": 0.54
+  },
+  {
+   "text": "wut",
+   "conf": 0.54
+  },
+  {
+   "text": "|",
+   "conf": 0.69
+  },
+  {
+   "text": "nak",
+   "conf": 0.0
+  },
+  {
+   "text": "See",
+   "conf": 0.2
+  },
+  {
+   "text": "|",
+   "conf": 0.61
+  },
+  {
+   "text": "Qty",
+   "conf": 0.93
+  },
+  {
+   "text": "Rate",
+   "conf": 0.85
+  },
+  {
+   "text": "Amount",
+   "conf": 0.95
+  },
+  {
+   "text": "MASALA",
+   "conf": 0.33
+  },
+  {
+   "text": "CHEESET",
+   "conf": 0.88
+  },
+  {
+   "text": "1",
+   "conf": 0.6
+  },
+  {
+   "text": "100.00",
+   "conf": 0.84
+  },
+  {
+   "text": "100.00",
+   "conf": 0.61
+  },
+  {
+   "text": "DAHI",
+   "conf": 0.85
+  },
+  {
+   "text": "PAPADI",
+   "conf": 0.85
+  },
+  {
+   "text": "1",
+   "conf": 0.9
+  },
+  {
+   "text": "85.00",
+   "conf": 0.83
+  },
+  {
+   "text": "985.00",
+   "conf": 0.74
+  },
+  {
+   "text": "TANDDOORI",
+   "conf": 0.87
+  },
+  {
+   "text": "PANEE",
+   "conf": 0.91
+  },
+  {
+   "text": "1",
+   "conf": 0.71
+  },
+  {
+   "text": "180.00",
+   "conf": 0.92
+  },
+  {
+   "text": "180.00",
+   "conf": 0.9
+  },
+  {
+   "text": "5",
+   "conf": 0.25
+  },
+  {
+   "text": "3",
+   "conf": 0.4
+  },
+  {
+   "text": "ee",
+   "conf": 0.11
+  },
+  {
+   "text": "total",
+   "conf": 0.26
+  },
+  {
+   "text": "«SS.",
+   "conf": 0.4
+  },
+  {
+   "text": "Ser.",
+   "conf": 0.02
+  },
+  {
+   "text": "Tax",
+   "conf": 0.02
+  },
+  {
+   "text": "5.6%",
+   "conf": 0.96
+  },
+  {
+   "text": "20.44",
+   "conf": 0.95
+  },
+  {
+   "text": "VAT(2%)",
+   "conf": 0.9
+  },
+  {
+   "text": "7.30",
+   "conf": 0.95
+  },
+  {
+   "text": "Round",
+   "conf": 0.6
+  },
+  {
+   "text": "off",
+   "conf": 0.91
+  },
+  {
+   "text": "0.26",
+   "conf": 0.96
+  },
+  {
+   "text": "REE",
+   "conf": 0.22
+  },
+  {
+   "text": "HUNDRED",
+   "conf": 0.96
+  },
+  {
+   "text": "AND",
+   "conf": 0.96
+  },
+  {
+   "text": "NINETY",
+   "conf": 0.96
+  },
+  {
+   "text": "THREE",
+   "conf": 0.86
+  },
+  {
+   "text": "ONLY",
+   "conf": 0.94
+  },
+  {
+   "text": "os",
+   "conf": 0.16
+  },
+  {
+   "text": "THANK",
+   "conf": 0.96
+  },
+  {
+   "text": "YOU,",
+   "conf": 0.96
+  },
+  {
+   "text": "COME",
+   "conf": 0.96
+  },
+  {
+   "text": "AGAIN",
+   "conf": 0.96
+  },
+  {
+   "text": "M/s",
+   "conf": 0.95
+  },
+  {
+   "text": "|",
+   "conf": 0.61
+  }
+ ],
+ "mean_conf": 0.6478,
+ "low_conf_share": 0.2857,
+ "latency_ms": 2562,
+ "fields": {
+  "company": "ANNAH VEG RESTAURANT",
+  "date": "2017-05-23",
+  "total": 985.0
+ },
+ "rule_reasons": [
+  "total_no_keyword_fallback_max"
+ ],
+ "total_candidates": [
+  100.0,
+  100.0,
+  85.0,
+  985.0,
+  180.0,
+  180.0,
+  20.44,
+  7.3,
+  0.26
+ ],
+ "key": "W0198_60cdf6017800"
+}

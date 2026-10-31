@@ -1,0 +1,283 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "KFC KL CENTRAL",
+  "Tel:0193359902",
+  "Store ID:1010281",
+  "www.kfc.com.my",
+  "Jalan Utara 46200 Petaling Jaya",
+  "Selangor Darul Ehsan",
+  "Wifi Code: 9045012",
+  "SVC TAX ID:W10-1808-32000273",
+  "3COUNTER3 2NURZILA",
+  "Check:1234",
+  "21 Sep 18 19:47:16",
+  "TSNKERBOXOREE@8.40 16.80",
+  "2 1 NUGG BOX OREE STRAW REGE#E 10.30",
+  "STRAW REG E#E",
+  "TSNTURE BXOR EE 13.75",
+  "STRAWREGE#E",
+  "RICE ALA CARTE EE 3.00",
+  "CASH 50.00",
+  "Total item sold: 5",
+  "Sub Total 43.85",
+  "Service Tax @6% 2.63",
+  "Total: 46.48",
+  "Rnd Adj 0.02",
+  "Ttl Aft Rnd 46.50",
+  "Payment 50.00",
+  "Change Due 3.50",
+  "----2CL0SED 21Sep 18 19:47:35--",
+  "-PURCHASE one Ala carte 3pcs chicken",
+  "（0riginal or Spicy）at 10% discount on",
+  "next visit to any KFc restaurant.",
+  "-Complete a brief survey at",
+  "www.kfc.com.my/feedback",
+  "within 3 days of this receipt's date.",
+  "-Get your Validation Code:",
+  "when you have completed the survey.",
+  "-Present your original receipt to",
+  "enjoy this great offer within 30 days.",
+  "-Terms and conditions apply.",
+  "-Valid for Eat In or Takeaway only."
+ ],
+ "tokens": [
+  {
+   "text": "KFC KL CENTRAL",
+   "conf": 0.9378020167350769
+  },
+  {
+   "text": "Tel:0193359902",
+   "conf": 0.9849705908979688
+  },
+  {
+   "text": "Store ID:1010281",
+   "conf": 0.9700339920818806
+  },
+  {
+   "text": "www.kfc.com.my",
+   "conf": 0.9930561780929565
+  },
+  {
+   "text": "Jalan Utara 46200 Petaling Jaya",
+   "conf": 0.9631466923221466
+  },
+  {
+   "text": "Selangor Darul Ehsan",
+   "conf": 0.9588896840810776
+  },
+  {
+   "text": "Wifi Code: 9045012",
+   "conf": 0.9150405559274886
+  },
+  {
+   "text": "SVC TAX ID:W10-1808-32000273",
+   "conf": 0.9852757688079562
+  },
+  {
+   "text": "3COUNTER3",
+   "conf": 0.9860940708054436
+  },
+  {
+   "text": "2NURZILA",
+   "conf": 0.9826683029532433
+  },
+  {
+   "text": "Check:1234",
+   "conf": 0.9685311377048492
+  },
+  {
+   "text": "21 Sep 18 19:47:16",
+   "conf": 0.9247843192683326
+  },
+  {
+   "text": "TSNKERBOXOREE@8.40",
+   "conf": 0.9742899073494805
+  },
+  {
+   "text": "16.80",
+   "conf": 0.9981612920761108
+  },
+  {
+   "text": "2",
+   "conf": 0.9994910955429077
+  },
+  {
+   "text": "STRAW REGE#E",
+   "conf": 0.9621368298927943
+  },
+  {
+   "text": "10.30",
+   "conf": 0.9982002973556519
+  },
+  {
+   "text": "1",
+   "conf": 0.5541713237762451
+  },
+  {
+   "text": "NUGG BOX OREE",
+   "conf": 0.9371815874026372
+  },
+  {
+   "text": "STRAW REG E#E",
+   "conf": 0.926782685976762
+  },
+  {
+   "text": "13.75",
+   "conf": 0.9973688840866088
+  },
+  {
+   "text": "TSNTURE BXOR EE",
+   "conf": 0.9367067178090414
+  },
+  {
+   "text": "STRAWREGE#E",
+   "conf": 0.9870625246654857
+  },
+  {
+   "text": "3.00",
+   "conf": 0.9980660229921341
+  },
+  {
+   "text": "RICE ALA CARTE EE",
+   "conf": 0.9565128403551438
+  },
+  {
+   "text": "50.00",
+   "conf": 0.9988394737243652
+  },
+  {
+   "text": "CASH",
+   "conf": 0.9933339655399323
+  },
+  {
+   "text": "Total item sold:",
+   "conf": 0.9151564985513687
+  },
+  {
+   "text": "5",
+   "conf": 0.9978042244911194
+  },
+  {
+   "text": "Sub Total",
+   "conf": 0.9799264007144504
+  },
+  {
+   "text": "43.85",
+   "conf": 0.9984596014022827
+  },
+  {
+   "text": "Service Tax @6%",
+   "conf": 0.9384418725967407
+  },
+  {
+   "text": "2.63",
+   "conf": 0.9942957907915115
+  },
+  {
+   "text": "Total:",
+   "conf": 0.9900001486142477
+  },
+  {
+   "text": "46.48",
+   "conf": 0.9958696603775025
+  },
+  {
+   "text": "Rnd Adj",
+   "conf": 0.9347900833402362
+  },
+  {
+   "text": "0.02",
+   "conf": 0.8817794322967529
+  },
+  {
+   "text": "Ttl Aft Rnd",
+   "conf": 0.8943109566515143
+  },
+  {
+   "text": "46.50",
+   "conf": 0.9969584941864014
+  },
+  {
+   "text": "Payment",
+   "conf": 0.9894911902291434
+  },
+  {
+   "text": "50.00",
+   "conf": 0.9985926389694214
+  },
+  {
+   "text": "Change Due",
+   "conf": 0.9869549691677093
+  },
+  {
+   "text": "3.50",
+   "conf": 0.9967285692691803
+  },
+  {
+   "text": "----2CL0SED 21Sep 18 19:47:35--",
+   "conf": 0.9287216663360596
+  },
+  {
+   "text": "-PURCHASE one Ala carte 3pcs chicken",
+   "conf": 0.9292334036694633
+  },
+  {
+   "text": "（0riginal or Spicy）at 10% discount on",
+   "conf": 0.9306094372594679
+  },
+  {
+   "text": "next visit to any KFc restaurant.",
+   "conf": 0.9417158401373661
+  },
+  {
+   "text": "-Complete a brief survey at",
+   "conf": 0.9652893300409671
+  },
+  {
+   "text": "www.kfc.com.my/feedback",
+   "conf": 0.9813179529231527
+  },
+  {
+   "text": "within 3 days of this receipt's date.",
+   "conf": 0.9496973350241378
+  },
+  {
+   "text": "-Get your Validation Code:",
+   "conf": 0.945370131960282
+  },
+  {
+   "text": "when you have completed the survey.",
+   "conf": 0.954859629699162
+  },
+  {
+   "text": "-Present your original receipt to",
+   "conf": 0.9671932332443468
+  },
+  {
+   "text": "enjoy this great offer within 30 days.",
+   "conf": 0.9684725309673109
+  },
+  {
+   "text": "-Terms and conditions apply.",
+   "conf": 0.9695518740585872
+  },
+  {
+   "text": "-Valid for Eat In or Takeaway only.",
+   "conf": 0.9413358518055507
+  }
+ ],
+ "mean_conf": 0.9581,
+ "low_conf_share": 0.0,
+ "latency_ms": 4433,
+ "fields": {
+  "company": "STORE ID",
+  "date": "2018-09-21",
+  "total": 46.48
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  46.48
+ ],
+ "key": "W0089_d06b2e3863ba"
+}

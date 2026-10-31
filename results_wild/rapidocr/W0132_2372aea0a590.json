@@ -1,0 +1,170 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "BREIZH CAFE",
+  "109RUE VIELLE DU TEMPLE",
+  "75003PARIS",
+  "TEL:01.42.72.13.77",
+  "SIRET49276425300018",
+  "MERCI DE VOTRE VISITE",
+  "16/07/2014-",
+  "Tablen",
+  "16HUITRES 16.00",
+  "1COMPLETE OIGNON 9.50",
+  "1COMPLETE MIROIR 8.50",
+  "1NORDIQUE 12.50",
+  "1SALADE VERTE 3.80",
+  "2VERRE MUSCADET 10.00",
+  "1CARAFFEMUSCADET 18.00",
+  "TVA10.00% 45.73) 4.57",
+  "TVA20.00% 23.33) 4.67",
+  "Total HTVA: 69.06",
+  "Total a Payer: 78.30EUR"
+ ],
+ "tokens": [
+  {
+   "text": "BREIZH CAFE",
+   "conf": 0.9522309790958058
+  },
+  {
+   "text": "109RUE VIELLE DU TEMPLE",
+   "conf": 0.9591620745866195
+  },
+  {
+   "text": "75003PARIS",
+   "conf": 0.9864806175231934
+  },
+  {
+   "text": "TEL:01.42.72.13.77",
+   "conf": 0.983806398179796
+  },
+  {
+   "text": "SIRET49276425300018",
+   "conf": 0.9982888008418837
+  },
+  {
+   "text": "MERCI DE VOTRE VISITE",
+   "conf": 0.9801669830367679
+  },
+  {
+   "text": "16/07/2014-",
+   "conf": 0.98671339858662
+  },
+  {
+   "text": "Tablen",
+   "conf": 0.9877174198627472
+  },
+  {
+   "text": "16HUITRES",
+   "conf": 0.9925376640425788
+  },
+  {
+   "text": "16.00",
+   "conf": 0.998430323600769
+  },
+  {
+   "text": "1COMPLETE OIGNON",
+   "conf": 0.9617385789752007
+  },
+  {
+   "text": "9.50",
+   "conf": 0.9966555535793304
+  },
+  {
+   "text": "1COMPLETE MIROIR",
+   "conf": 0.9688293449580669
+  },
+  {
+   "text": "8.50",
+   "conf": 0.9959416389465332
+  },
+  {
+   "text": "1NORDIQUE",
+   "conf": 0.9766881598366631
+  },
+  {
+   "text": "12.50",
+   "conf": 0.9972535490989685
+  },
+  {
+   "text": "1SALADE VERTE",
+   "conf": 0.9590602425428537
+  },
+  {
+   "text": "3.80",
+   "conf": 0.9971593767404556
+  },
+  {
+   "text": "2VERRE MUSCADET",
+   "conf": 0.959894061088562
+  },
+  {
+   "text": "1CARAFFEMUSCADET",
+   "conf": 0.9931268468499184
+  },
+  {
+   "text": "10.00",
+   "conf": 0.9974404215812683
+  },
+  {
+   "text": "18.00",
+   "conf": 0.9973734855651856
+  },
+  {
+   "text": "TVA10.00%",
+   "conf": 0.9963739183213975
+  },
+  {
+   "text": "45.73)",
+   "conf": 0.9710731506347656
+  },
+  {
+   "text": "23.33)",
+   "conf": 0.9618757764498392
+  },
+  {
+   "text": "4.57",
+   "conf": 0.9962701052427292
+  },
+  {
+   "text": "TVA20.00%",
+   "conf": 0.9940257867177328
+  },
+  {
+   "text": "4.67",
+   "conf": 0.9858467131853104
+  },
+  {
+   "text": "Total HTVA:",
+   "conf": 0.9285063364289023
+  },
+  {
+   "text": "69.06",
+   "conf": 0.9963811755180358
+  },
+  {
+   "text": "Total a Payer:",
+   "conf": 0.8912759550980159
+  },
+  {
+   "text": "78.30EUR",
+   "conf": 0.9850501641631126
+  }
+ ],
+ "mean_conf": 0.9792,
+ "low_conf_share": 0.0,
+ "latency_ms": 3156,
+ "fields": {
+  "company": "BREIZH CAFE",
+  "date": "2014-07-16",
+  "total": 78.3
+ },
+ "rule_reasons": [
+  "total_multiple_keyword_amounts"
+ ],
+ "total_candidates": [
+  69.06,
+  78.3
+ ],
+ "key": "W0132_2372aea0a590"
+}

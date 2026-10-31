@@ -1,0 +1,146 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "Mr.Lucky's",
+  "6/18/2013 20:51",
+  "MrLucky's",
+  "Check:1174759 fable:23ML",
+  "Server:Anthony Guests:2",
+  "Terminal:114",
+  "MRLucky's",
+  "soft drink 2.99",
+  "1soft drink 2.99",
+  "Stk/shrp 7.77",
+  "Dry",
+  "1Stk/shr1p",
+  "Dry",
+  "Subtotal 21.52",
+  "Tax",
+  "Tordl 23.26",
+  "Tip$",
+  "Total"
+ ],
+ "tokens": [
+  {
+   "text": "Mr.Lucky's",
+   "conf": 0.9370237708091735
+  },
+  {
+   "text": "6/18/2013",
+   "conf": 0.9954399069150289
+  },
+  {
+   "text": "20:51",
+   "conf": 0.9654646992683411
+  },
+  {
+   "text": "MrLucky's",
+   "conf": 0.8912118905120425
+  },
+  {
+   "text": "Check:1174759",
+   "conf": 0.9668150681715745
+  },
+  {
+   "text": "fable:23ML",
+   "conf": 0.8900278687477112
+  },
+  {
+   "text": "Server:Anthony",
+   "conf": 0.9761736946446555
+  },
+  {
+   "text": "Guests:2",
+   "conf": 0.9462750256061554
+  },
+  {
+   "text": "Terminal:114",
+   "conf": 0.9566519608100256
+  },
+  {
+   "text": "MRLucky's",
+   "conf": 0.8372268610530429
+  },
+  {
+   "text": "soft drink",
+   "conf": 0.9233723402023315
+  },
+  {
+   "text": "2.99",
+   "conf": 0.9908145666122437
+  },
+  {
+   "text": "1soft drink",
+   "conf": 0.9156906767324968
+  },
+  {
+   "text": "2.99",
+   "conf": 0.9034701883792877
+  },
+  {
+   "text": "Stk/shrp",
+   "conf": 0.910336010158062
+  },
+  {
+   "text": "7.77",
+   "conf": 0.9710046947002411
+  },
+  {
+   "text": "Dry",
+   "conf": 0.9394141832987467
+  },
+  {
+   "text": "1Stk/shr1p",
+   "conf": 0.8303044945001602
+  },
+  {
+   "text": "Dry",
+   "conf": 0.9173864722251892
+  },
+  {
+   "text": "Subtotal",
+   "conf": 0.9850671514868736
+  },
+  {
+   "text": "21.52",
+   "conf": 0.9878571033477783
+  },
+  {
+   "text": "Tax",
+   "conf": 0.9455496271451315
+  },
+  {
+   "text": "Tordl",
+   "conf": 0.62015141248703
+  },
+  {
+   "text": "23.26",
+   "conf": 0.981438148021698
+  },
+  {
+   "text": "Tip$",
+   "conf": 0.9746124744415283
+  },
+  {
+   "text": "Total",
+   "conf": 0.9866572380065918
+  }
+ ],
+ "mean_conf": 0.9287,
+ "low_conf_share": 0.0,
+ "latency_ms": 2305,
+ "fields": {
+  "company": "MR LUCKY S",
+  "date": "2013-06-18",
+  "total": 23.26
+ },
+ "rule_reasons": [
+  "total_no_keyword_fallback_max"
+ ],
+ "total_candidates": [
+  7.77,
+  21.52,
+  23.26
+ ],
+ "key": "W0039_c046099c7802"
+}

@@ -1,0 +1,414 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "RESTORAN WAN SHENG",
+  "002043319-W",
+  "No.2, Jalan Temenggung 19/9,",
+  "Seksyen 9, Bandar Mahkota Cheras,",
+  "43200 Cheras, Selangor",
+  "GST REG NO: 001335787520",
+  "Tax Invoice",
+  "INV No.: 1057981 Cashier: Thandar",
+  "Date +: 23-03-2018 13:28:55",
+  "Description Qty U.price Total TAX",
+  "Teh (B)",
+  "1x 2.20 2.20 SR",
+  "Cham (B)",
+  "1x 2,20 2.20 SR",
+  "Bunga Kekwa",
+  "1x 1,70 1.70 SR",
+  "Take Away",
+  "9 x 0.20 0.60 SR",
+  "Total QTY: 6",
+  "Total (Excluding GST): 6,33",
+  "GST payable (6%): 0,37",
+  "Total (Inclusive of GST): 6.70",
+  "TOTAL: 6.70",
+  "CASH : 6,70",
+  "GST Summary Amount(RM) — Tax(RM)",
+  "SR (@ 6%) 6,33 0,37"
+ ],
+ "tokens": [
+  {
+   "text": "RESTORAN",
+   "conf": 0.96
+  },
+  {
+   "text": "WAN",
+   "conf": 0.96
+  },
+  {
+   "text": "SHENG",
+   "conf": 0.96
+  },
+  {
+   "text": "002043319-W",
+   "conf": 0.89
+  },
+  {
+   "text": "No.2,",
+   "conf": 0.96
+  },
+  {
+   "text": "Jalan",
+   "conf": 0.93
+  },
+  {
+   "text": "Temenggung",
+   "conf": 0.85
+  },
+  {
+   "text": "19/9,",
+   "conf": 0.96
+  },
+  {
+   "text": "Seksyen",
+   "conf": 0.92
+  },
+  {
+   "text": "9,",
+   "conf": 0.93
+  },
+  {
+   "text": "Bandar",
+   "conf": 0.93
+  },
+  {
+   "text": "Mahkota",
+   "conf": 0.88
+  },
+  {
+   "text": "Cheras,",
+   "conf": 0.92
+  },
+  {
+   "text": "43200",
+   "conf": 0.93
+  },
+  {
+   "text": "Cheras,",
+   "conf": 0.9
+  },
+  {
+   "text": "Selangor",
+   "conf": 0.96
+  },
+  {
+   "text": "GST",
+   "conf": 0.96
+  },
+  {
+   "text": "REG",
+   "conf": 0.96
+  },
+  {
+   "text": "NO:",
+   "conf": 0.77
+  },
+  {
+   "text": "001335787520",
+   "conf": 0.94
+  },
+  {
+   "text": "Tax",
+   "conf": 0.96
+  },
+  {
+   "text": "Invoice",
+   "conf": 0.96
+  },
+  {
+   "text": "INV",
+   "conf": 0.91
+  },
+  {
+   "text": "No.:",
+   "conf": 0.69
+  },
+  {
+   "text": "1057981",
+   "conf": 0.92
+  },
+  {
+   "text": "Cashier:",
+   "conf": 0.9
+  },
+  {
+   "text": "Thandar",
+   "conf": 0.91
+  },
+  {
+   "text": "Date",
+   "conf": 0.92
+  },
+  {
+   "text": "+:",
+   "conf": 0.67
+  },
+  {
+   "text": "23-03-2018",
+   "conf": 0.91
+  },
+  {
+   "text": "13:28:55",
+   "conf": 0.84
+  },
+  {
+   "text": "Description",
+   "conf": 0.89
+  },
+  {
+   "text": "Qty",
+   "conf": 0.57
+  },
+  {
+   "text": "U.price",
+   "conf": 0.51
+  },
+  {
+   "text": "Total",
+   "conf": 0.96
+  },
+  {
+   "text": "TAX",
+   "conf": 0.96
+  },
+  {
+   "text": "Teh",
+   "conf": 0.93
+  },
+  {
+   "text": "(B)",
+   "conf": 0.93
+  },
+  {
+   "text": "1x",
+   "conf": 0.9
+  },
+  {
+   "text": "2.20",
+   "conf": 0.88
+  },
+  {
+   "text": "2.20",
+   "conf": 0.94
+  },
+  {
+   "text": "SR",
+   "conf": 0.94
+  },
+  {
+   "text": "Cham",
+   "conf": 0.92
+  },
+  {
+   "text": "(B)",
+   "conf": 0.92
+  },
+  {
+   "text": "1x",
+   "conf": 0.92
+  },
+  {
+   "text": "2,20",
+   "conf": 0.94
+  },
+  {
+   "text": "2.20",
+   "conf": 0.95
+  },
+  {
+   "text": "SR",
+   "conf": 0.95
+  },
+  {
+   "text": "Bunga",
+   "conf": 0.91
+  },
+  {
+   "text": "Kekwa",
+   "conf": 0.91
+  },
+  {
+   "text": "1x",
+   "conf": 0.92
+  },
+  {
+   "text": "1,70",
+   "conf": 0.95
+  },
+  {
+   "text": "1.70",
+   "conf": 0.77
+  },
+  {
+   "text": "SR",
+   "conf": 0.93
+  },
+  {
+   "text": "Take",
+   "conf": 0.96
+  },
+  {
+   "text": "Away",
+   "conf": 0.96
+  },
+  {
+   "text": "9",
+   "conf": 0.37
+  },
+  {
+   "text": "x",
+   "conf": 0.71
+  },
+  {
+   "text": "0.20",
+   "conf": 0.92
+  },
+  {
+   "text": "0.60",
+   "conf": 0.89
+  },
+  {
+   "text": "SR",
+   "conf": 0.94
+  },
+  {
+   "text": "Total",
+   "conf": 0.96
+  },
+  {
+   "text": "QTY:",
+   "conf": 0.95
+  },
+  {
+   "text": "6",
+   "conf": 0.96
+  },
+  {
+   "text": "Total",
+   "conf": 0.93
+  },
+  {
+   "text": "(Excluding",
+   "conf": 0.94
+  },
+  {
+   "text": "GST):",
+   "conf": 0.93
+  },
+  {
+   "text": "6,33",
+   "conf": 0.88
+  },
+  {
+   "text": "GST",
+   "conf": 0.96
+  },
+  {
+   "text": "payable",
+   "conf": 0.96
+  },
+  {
+   "text": "(6%):",
+   "conf": 0.94
+  },
+  {
+   "text": "0,37",
+   "conf": 0.82
+  },
+  {
+   "text": "Total",
+   "conf": 0.96
+  },
+  {
+   "text": "(Inclusive",
+   "conf": 0.95
+  },
+  {
+   "text": "of",
+   "conf": 0.96
+  },
+  {
+   "text": "GST):",
+   "conf": 0.89
+  },
+  {
+   "text": "6.70",
+   "conf": 0.86
+  },
+  {
+   "text": "TOTAL:",
+   "conf": 0.94
+  },
+  {
+   "text": "6.70",
+   "conf": 0.96
+  },
+  {
+   "text": "CASH",
+   "conf": 0.92
+  },
+  {
+   "text": ":",
+   "conf": 0.77
+  },
+  {
+   "text": "6,70",
+   "conf": 0.85
+  },
+  {
+   "text": "GST",
+   "conf": 0.96
+  },
+  {
+   "text": "Summary",
+   "conf": 0.95
+  },
+  {
+   "text": "Amount(RM)",
+   "conf": 0.88
+  },
+  {
+   "text": "—",
+   "conf": 0.14
+  },
+  {
+   "text": "Tax(RM)",
+   "conf": 0.42
+  },
+  {
+   "text": "SR",
+   "conf": 0.81
+  },
+  {
+   "text": "(@",
+   "conf": 0.92
+  },
+  {
+   "text": "6%)",
+   "conf": 0.95
+  },
+  {
+   "text": "6,33",
+   "conf": 0.64
+  },
+  {
+   "text": "0,37",
+   "conf": 0.81
+  }
+ ],
+ "mean_conf": 0.8802,
+ "low_conf_share": 0.0326,
+ "latency_ms": 2995,
+ "fields": {
+  "company": "RESTORAN WAN SHENG",
+  "date": "2018-03-23",
+  "total": 6.7
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  6.7
+ ],
+ "key": "X51005711443"
+}

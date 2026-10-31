@@ -1,0 +1,155 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "OFF1CE0EP0T#2164",
+  "10348 East USHighay 36",
+  "Avon;IN 46123",
+  "(317)271-4617",
+  "07/28/2011 112 4:57PH",
+  "STR2164REG1 TRN6754EHP 467127",
+  "SALE",
+  "ProductID Description Total",
+  "656554TBL.TF101A1,10,BLK 299,995",
+  "Discount 0ri9inally $39999",
+  "RnountDiscount$10000",
+  "299.99",
+  "Sales Tax 2100",
+  "Total 32099",
+  "DebitCard4842 32099",
+  "关关长天",
+  "Total office Depot Savings",
+  "$100.00",
+  "2TVT39YPY4556MC8M"
+ ],
+ "tokens": [
+  {
+   "text": "OFF1CE0EP0T#2164",
+   "conf": 0.8373257126659155
+  },
+  {
+   "text": "10348 East USHighay 36",
+   "conf": 0.8549408682368018
+  },
+  {
+   "text": "Avon;IN 46123",
+   "conf": 0.8609964618316064
+  },
+  {
+   "text": "(317)271-4617",
+   "conf": 0.9487643562830411
+  },
+  {
+   "text": "07/28/2011",
+   "conf": 0.9875723540782928
+  },
+  {
+   "text": "112",
+   "conf": 0.9854052066802979
+  },
+  {
+   "text": "4:57PH",
+   "conf": 0.878957599401474
+  },
+  {
+   "text": "STR2164REG1",
+   "conf": 0.9615066864273765
+  },
+  {
+   "text": "TRN6754EHP 467127",
+   "conf": 0.9563242547652301
+  },
+  {
+   "text": "SALE",
+   "conf": 0.9892719984054565
+  },
+  {
+   "text": "ProductID",
+   "conf": 0.8638314306735992
+  },
+  {
+   "text": "Description",
+   "conf": 0.9723358858715404
+  },
+  {
+   "text": "Total",
+   "conf": 0.9596961975097656
+  },
+  {
+   "text": "656554TBL.TF101A1,10,BLK",
+   "conf": 0.9157477356493473
+  },
+  {
+   "text": "299,995",
+   "conf": 0.8769727562155042
+  },
+  {
+   "text": "Discount",
+   "conf": 0.9439378380775452
+  },
+  {
+   "text": "0ri9inally $39999",
+   "conf": 0.8378577758284176
+  },
+  {
+   "text": "RnountDiscount$10000",
+   "conf": 0.8691399931907654
+  },
+  {
+   "text": "299.99",
+   "conf": 0.9590855538845062
+  },
+  {
+   "text": "Sales Tax",
+   "conf": 0.9319671657350328
+  },
+  {
+   "text": "2100",
+   "conf": 0.9959836900234222
+  },
+  {
+   "text": "Total",
+   "conf": 0.9715811252593994
+  },
+  {
+   "text": "32099",
+   "conf": 0.9960363030433654
+  },
+  {
+   "text": "DebitCard4842",
+   "conf": 0.9789757132530212
+  },
+  {
+   "text": "32099",
+   "conf": 0.9972814440727233
+  },
+  {
+   "text": "关关长天",
+   "conf": 0.5100186914205551
+  },
+  {
+   "text": "Total office Depot Savings",
+   "conf": 0.8994237161599673
+  },
+  {
+   "text": "$100.00",
+   "conf": 0.9940686907087054
+  },
+  {
+   "text": "2TVT39YPY4556MC8M",
+   "conf": 0.9848222977974835
+  }
+ ],
+ "mean_conf": 0.9214,
+ "low_conf_share": 0.0,
+ "latency_ms": 3356,
+ "fields": {
+  "company": "SALE",
+  "date": "2011-07-28",
+  "total": 100.0
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  100.0
+ ],
+ "key": "W0002_7ef67dd2ed52"
+}

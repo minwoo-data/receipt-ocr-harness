@@ -1,0 +1,302 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "ENW Hardware Centre(M)Sdn.Bhd.",
+  "Co.Reg.No.:795225-A",
+  "GSTReg.No.:000155453440",
+  "No:G3,BIkG,JInPJU1A3",
+  "AraDamansara,47301",
+  "PetalingJaya,SelangorDarul Ehsan",
+  "TEL:03-78326929,012-6599829",
+  "14/04/2018 TaxInvoice",
+  "No.CS00233521",
+  "Cash Sale(Ara D'sara)",
+  "Tel:03-78326929",
+  "H/P:012-6599829",
+  "Item Qty U.Price RM",
+  "VEWT5 1.00 99.00 99.00SR",
+  "5L.T_Nippcn'VinilexEasyWash.",
+  "NPN1882T",
+  "000605 100 30.00 30.00SR",
+  "Cristin4\"BlueStripe RollerRefill",
+  "002882 1.00 3.50 3.50SR",
+  "1\"Nylon Paint Brush.",
+  "001065 1.00 2.50 2.50SR",
+  "4\"×24\"RollerHandle",
+  "001741 1.00 21.00 21.00SR",
+  "'Clipsal'4g1wSwitch",
+  "TotalAmtIncl.GST@6%: 156.00",
+  "RoundingAdjusment: 0.00",
+  "Total AmtPayable: 156.00",
+  "TotalQryTender: 5",
+  "GSTSummary Amount(RM) GST(RM)",
+  "SR=6% 147.17 8.83",
+  "POIN 0.00",
+  "Goodssoldarenotreturnable",
+  "Thankyouforshoppingat",
+  "ENWHardwareCentre(M)SdnBhd"
+ ],
+ "tokens": [
+  {
+   "text": "ENW Hardware Centre(M)Sdn.Bhd.",
+   "conf": 0.9415622055530548
+  },
+  {
+   "text": "Co.Reg.No.:795225-A",
+   "conf": 0.9662416922418695
+  },
+  {
+   "text": "GSTReg.No.:000155453440",
+   "conf": 0.9824021251305289
+  },
+  {
+   "text": "No:G3,BIkG,JInPJU1A3",
+   "conf": 0.901591332256794
+  },
+  {
+   "text": "AraDamansara,47301",
+   "conf": 0.9741601778401269
+  },
+  {
+   "text": "PetalingJaya,SelangorDarul Ehsan",
+   "conf": 0.9521039864048362
+  },
+  {
+   "text": "TEL:03-78326929,012-6599829",
+   "conf": 0.9727328618367513
+  },
+  {
+   "text": "14/04/2018",
+   "conf": 0.9928122699260712
+  },
+  {
+   "text": "TaxInvoice",
+   "conf": 0.9719678461551666
+  },
+  {
+   "text": "No.CS00233521",
+   "conf": 0.9943818220725427
+  },
+  {
+   "text": "Cash Sale(Ara D'sara)",
+   "conf": 0.9343795123554411
+  },
+  {
+   "text": "Tel:03-78326929",
+   "conf": 0.9931894222895304
+  },
+  {
+   "text": "H/P:012-6599829",
+   "conf": 0.9887543439865112
+  },
+  {
+   "text": "Item",
+   "conf": 0.9394538849592209
+  },
+  {
+   "text": "Qty",
+   "conf": 0.996677021185557
+  },
+  {
+   "text": "U.Price",
+   "conf": 0.9886167986052377
+  },
+  {
+   "text": "RM",
+   "conf": 0.9936186671257019
+  },
+  {
+   "text": "VEWT5",
+   "conf": 0.9948644518852234
+  },
+  {
+   "text": "1.00",
+   "conf": 0.9969052374362946
+  },
+  {
+   "text": "99.00",
+   "conf": 0.9981636762619018
+  },
+  {
+   "text": "99.00SR",
+   "conf": 0.994460676397596
+  },
+  {
+   "text": "5L.T_Nippcn'VinilexEasyWash.",
+   "conf": 0.9520171178238732
+  },
+  {
+   "text": "NPN1882T",
+   "conf": 0.9904658496379852
+  },
+  {
+   "text": "000605",
+   "conf": 0.9979737003644308
+  },
+  {
+   "text": "100",
+   "conf": 0.9987866679827372
+  },
+  {
+   "text": "30.00",
+   "conf": 0.9979020357131958
+  },
+  {
+   "text": "30.00SR",
+   "conf": 0.9502852814538139
+  },
+  {
+   "text": "Cristin4\"BlueStripe RollerRefill",
+   "conf": 0.9686211906373501
+  },
+  {
+   "text": "002882",
+   "conf": 0.9990438024202982
+  },
+  {
+   "text": "1.00",
+   "conf": 0.9983179420232773
+  },
+  {
+   "text": "3.50",
+   "conf": 0.9930582493543625
+  },
+  {
+   "text": "3.50SR",
+   "conf": 0.992415726184845
+  },
+  {
+   "text": "1\"Nylon Paint Brush.",
+   "conf": 0.9316626399755478
+  },
+  {
+   "text": "001065",
+   "conf": 0.9986454844474792
+  },
+  {
+   "text": "1.00",
+   "conf": 0.9986631274223328
+  },
+  {
+   "text": "2.50",
+   "conf": 0.9964344948530197
+  },
+  {
+   "text": "2.50SR",
+   "conf": 0.9858968456586202
+  },
+  {
+   "text": "4\"×24\"RollerHandle",
+   "conf": 0.8960037446684308
+  },
+  {
+   "text": "001741",
+   "conf": 0.9990977247556051
+  },
+  {
+   "text": "1.00",
+   "conf": 0.9978667944669724
+  },
+  {
+   "text": "21.00",
+   "conf": 0.9978330612182618
+  },
+  {
+   "text": "21.00SR",
+   "conf": 0.9844200781413487
+  },
+  {
+   "text": "'Clipsal'4g1wSwitch",
+   "conf": 0.9157251198040811
+  },
+  {
+   "text": "TotalAmtIncl.GST@6%:",
+   "conf": 0.9428592503070832
+  },
+  {
+   "text": "156.00",
+   "conf": 0.9979663789272308
+  },
+  {
+   "text": "RoundingAdjusment:",
+   "conf": 0.9821336600515578
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9980262219905853
+  },
+  {
+   "text": "Total AmtPayable:",
+   "conf": 0.9562786361750435
+  },
+  {
+   "text": "156.00",
+   "conf": 0.9988698860009512
+  },
+  {
+   "text": "TotalQryTender:",
+   "conf": 0.9304407298564911
+  },
+  {
+   "text": "5",
+   "conf": 0.9803587198257446
+  },
+  {
+   "text": "GSTSummary",
+   "conf": 0.9886995255947113
+  },
+  {
+   "text": "Amount(RM)",
+   "conf": 0.9413504183292389
+  },
+  {
+   "text": "GST(RM)",
+   "conf": 0.9535522631236485
+  },
+  {
+   "text": "SR=6%",
+   "conf": 0.9930700421333313
+  },
+  {
+   "text": "147.17",
+   "conf": 0.9980480074882507
+  },
+  {
+   "text": "8.83",
+   "conf": 0.9980063289403915
+  },
+  {
+   "text": "POIN",
+   "conf": 0.9949737042188644
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9981300234794617
+  },
+  {
+   "text": "Goodssoldarenotreturnable",
+   "conf": 0.9896497964859009
+  },
+  {
+   "text": "Thankyouforshoppingat",
+   "conf": 0.9942666121891567
+  },
+  {
+   "text": "ENWHardwareCentre(M)SdnBhd",
+   "conf": 0.9833312401404748
+  }
+ ],
+ "mean_conf": 0.9779,
+ "low_conf_share": 0.0,
+ "latency_ms": 5521,
+ "fields": {
+  "company": "ENW HARDWARE CENTRE SDN BHD",
+  "date": "2018-04-14",
+  "total": 156.0
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  156.0
+ ],
+ "key": "X51007225399"
+}

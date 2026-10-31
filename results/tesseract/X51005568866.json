@@ -1,0 +1,826 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "fi",
+  "(Co. No, 113825-W)",
+  "(GST Reg No. 001492992000)",
+  "No 8, Jalan 7/1188, Desa Tun Razak",
+  "56000 Kuala Lumpur, Malaysia",
+  "CHERAS LEISURE MALL",
+  "Tel : 03-91322435/437",
+  "AR ae ahs aps ae af He of as af afc ae als ate oft as afc aise as oe afe aie af ae ale aft ac ate",
+  "7",
+  "Mega Bookfair @ SPCC 2017",
+  "Sunvay Pyramid Convention Centre",
+  "25 AUG - 3 Sept 2017",
+  "Wis ae ois abs ahs fe af ale ae abs ole af ae afc ahs als ais abe ale a ahs af ale ae aie ofc ale afc aie",
+  "20/08/17 12:48 Slip No.: 9020374693",
+  "Yen Lee Trans: 304168",
+  "Member Card No: 2002008362249",
+  "Card Expiry: 31/08/20",
+  "Description Amount",
+  "H' MAN GLASS PAPER",
+  "4pe @ 1.40 5.60 T",
+  "Member Discount -0,56",
+  "Total RM Inel. of GST 5. 04",
+  "Rounding Adj 0.01",
+  "Total RM 5.05",
+  "Cash -10. 00",
+  "CHANGE 4,95",
+  "Item Count 4",
+  "GST Summary Amount (RM) Tax (RM)",
+  "T @ 6% 4,75 0. 29",
+  "Total Savings -0. 56",
+  "BE A POPULAR CARD MEMBER",
+  "AND ENJOY SPECIAL DISCOUNTS",
+  "THANK YOU. PLEASE COME AGAIN.",
+  "www. popular. com. my",
+  "Buy Chinese books online",
+  "www. popularonl ine. com. my"
+ ],
+ "tokens": [
+  {
+   "text": "fi",
+   "conf": 0.47
+  },
+  {
+   "text": "(Co.",
+   "conf": 0.9
+  },
+  {
+   "text": "No,",
+   "conf": 0.78
+  },
+  {
+   "text": "113825-W)",
+   "conf": 0.9
+  },
+  {
+   "text": "(GST",
+   "conf": 0.95
+  },
+  {
+   "text": "Reg",
+   "conf": 0.94
+  },
+  {
+   "text": "No.",
+   "conf": 0.96
+  },
+  {
+   "text": "001492992000)",
+   "conf": 0.96
+  },
+  {
+   "text": "No",
+   "conf": 0.95
+  },
+  {
+   "text": "8,",
+   "conf": 0.95
+  },
+  {
+   "text": "Jalan",
+   "conf": 0.96
+  },
+  {
+   "text": "7/1188,",
+   "conf": 0.07
+  },
+  {
+   "text": "Desa",
+   "conf": 0.95
+  },
+  {
+   "text": "Tun",
+   "conf": 0.95
+  },
+  {
+   "text": "Razak",
+   "conf": 0.95
+  },
+  {
+   "text": "56000",
+   "conf": 0.96
+  },
+  {
+   "text": "Kuala",
+   "conf": 0.96
+  },
+  {
+   "text": "Lumpur,",
+   "conf": 0.95
+  },
+  {
+   "text": "Malaysia",
+   "conf": 0.96
+  },
+  {
+   "text": "CHERAS",
+   "conf": 0.91
+  },
+  {
+   "text": "LEISURE",
+   "conf": 0.95
+  },
+  {
+   "text": "MALL",
+   "conf": 0.96
+  },
+  {
+   "text": "Tel",
+   "conf": 0.91
+  },
+  {
+   "text": ":",
+   "conf": 0.85
+  },
+  {
+   "text": "03-91322435/437",
+   "conf": 0.88
+  },
+  {
+   "text": "AR",
+   "conf": 0.37
+  },
+  {
+   "text": "ae",
+   "conf": 0.45
+  },
+  {
+   "text": "ahs",
+   "conf": 0.34
+  },
+  {
+   "text": "aps",
+   "conf": 0.37
+  },
+  {
+   "text": "ae",
+   "conf": 0.45
+  },
+  {
+   "text": "af",
+   "conf": 0.24
+  },
+  {
+   "text": "He",
+   "conf": 0.0
+  },
+  {
+   "text": "of",
+   "conf": 0.0
+  },
+  {
+   "text": "as",
+   "conf": 0.34
+  },
+  {
+   "text": "af",
+   "conf": 0.0
+  },
+  {
+   "text": "afc",
+   "conf": 0.17
+  },
+  {
+   "text": "ae",
+   "conf": 0.59
+  },
+  {
+   "text": "als",
+   "conf": 0.23
+  },
+  {
+   "text": "ate",
+   "conf": 0.27
+  },
+  {
+   "text": "oft",
+   "conf": 0.42
+  },
+  {
+   "text": "as",
+   "conf": 0.63
+  },
+  {
+   "text": "afc",
+   "conf": 0.67
+  },
+  {
+   "text": "aise",
+   "conf": 0.16
+  },
+  {
+   "text": "as",
+   "conf": 0.07
+  },
+  {
+   "text": "oe",
+   "conf": 0.52
+  },
+  {
+   "text": "afe",
+   "conf": 0.46
+  },
+  {
+   "text": "aie",
+   "conf": 0.39
+  },
+  {
+   "text": "af",
+   "conf": 0.05
+  },
+  {
+   "text": "ae",
+   "conf": 0.3
+  },
+  {
+   "text": "ale",
+   "conf": 0.38
+  },
+  {
+   "text": "aft",
+   "conf": 0.35
+  },
+  {
+   "text": "ac",
+   "conf": 0.43
+  },
+  {
+   "text": "ate",
+   "conf": 0.26
+  },
+  {
+   "text": "7",
+   "conf": 0.63
+  },
+  {
+   "text": "Mega",
+   "conf": 0.55
+  },
+  {
+   "text": "Bookfair",
+   "conf": 0.92
+  },
+  {
+   "text": "@",
+   "conf": 0.92
+  },
+  {
+   "text": "SPCC",
+   "conf": 0.92
+  },
+  {
+   "text": "2017",
+   "conf": 0.83
+  },
+  {
+   "text": "Sunvay",
+   "conf": 0.84
+  },
+  {
+   "text": "Pyramid",
+   "conf": 0.94
+  },
+  {
+   "text": "Convention",
+   "conf": 0.9
+  },
+  {
+   "text": "Centre",
+   "conf": 0.93
+  },
+  {
+   "text": "25",
+   "conf": 0.87
+  },
+  {
+   "text": "AUG",
+   "conf": 0.7
+  },
+  {
+   "text": "-",
+   "conf": 0.7
+  },
+  {
+   "text": "3",
+   "conf": 0.95
+  },
+  {
+   "text": "Sept",
+   "conf": 0.95
+  },
+  {
+   "text": "2017",
+   "conf": 0.95
+  },
+  {
+   "text": "Wis",
+   "conf": 0.51
+  },
+  {
+   "text": "ae",
+   "conf": 0.09
+  },
+  {
+   "text": "ois",
+   "conf": 0.35
+  },
+  {
+   "text": "abs",
+   "conf": 0.25
+  },
+  {
+   "text": "ahs",
+   "conf": 0.43
+  },
+  {
+   "text": "fe",
+   "conf": 0.56
+  },
+  {
+   "text": "af",
+   "conf": 0.55
+  },
+  {
+   "text": "ale",
+   "conf": 0.49
+  },
+  {
+   "text": "ae",
+   "conf": 0.5
+  },
+  {
+   "text": "abs",
+   "conf": 0.3
+  },
+  {
+   "text": "ole",
+   "conf": 0.22
+  },
+  {
+   "text": "af",
+   "conf": 0.45
+  },
+  {
+   "text": "ae",
+   "conf": 0.51
+  },
+  {
+   "text": "afc",
+   "conf": 0.45
+  },
+  {
+   "text": "ahs",
+   "conf": 0.29
+  },
+  {
+   "text": "als",
+   "conf": 0.31
+  },
+  {
+   "text": "ais",
+   "conf": 0.25
+  },
+  {
+   "text": "abe",
+   "conf": 0.47
+  },
+  {
+   "text": "ale",
+   "conf": 0.57
+  },
+  {
+   "text": "a",
+   "conf": 0.59
+  },
+  {
+   "text": "ahs",
+   "conf": 0.29
+  },
+  {
+   "text": "af",
+   "conf": 0.04
+  },
+  {
+   "text": "ale",
+   "conf": 0.47
+  },
+  {
+   "text": "ae",
+   "conf": 0.59
+  },
+  {
+   "text": "aie",
+   "conf": 0.1
+  },
+  {
+   "text": "ofc",
+   "conf": 0.23
+  },
+  {
+   "text": "ale",
+   "conf": 0.35
+  },
+  {
+   "text": "afc",
+   "conf": 0.26
+  },
+  {
+   "text": "aie",
+   "conf": 0.39
+  },
+  {
+   "text": "20/08/17",
+   "conf": 0.96
+  },
+  {
+   "text": "12:48",
+   "conf": 0.75
+  },
+  {
+   "text": "Slip",
+   "conf": 0.75
+  },
+  {
+   "text": "No.:",
+   "conf": 0.89
+  },
+  {
+   "text": "9020374693",
+   "conf": 0.95
+  },
+  {
+   "text": "Yen",
+   "conf": 0.96
+  },
+  {
+   "text": "Lee",
+   "conf": 0.96
+  },
+  {
+   "text": "Trans:",
+   "conf": 0.96
+  },
+  {
+   "text": "304168",
+   "conf": 0.94
+  },
+  {
+   "text": "Member",
+   "conf": 0.96
+  },
+  {
+   "text": "Card",
+   "conf": 0.96
+  },
+  {
+   "text": "No:",
+   "conf": 0.96
+  },
+  {
+   "text": "2002008362249",
+   "conf": 0.96
+  },
+  {
+   "text": "Card",
+   "conf": 0.95
+  },
+  {
+   "text": "Expiry:",
+   "conf": 0.95
+  },
+  {
+   "text": "31/08/20",
+   "conf": 0.95
+  },
+  {
+   "text": "Description",
+   "conf": 0.95
+  },
+  {
+   "text": "Amount",
+   "conf": 0.94
+  },
+  {
+   "text": "H'",
+   "conf": 0.59
+  },
+  {
+   "text": "MAN",
+   "conf": 0.96
+  },
+  {
+   "text": "GLASS",
+   "conf": 0.96
+  },
+  {
+   "text": "PAPER",
+   "conf": 0.96
+  },
+  {
+   "text": "4pe",
+   "conf": 0.34
+  },
+  {
+   "text": "@",
+   "conf": 0.9
+  },
+  {
+   "text": "1.40",
+   "conf": 0.93
+  },
+  {
+   "text": "5.60",
+   "conf": 0.91
+  },
+  {
+   "text": "T",
+   "conf": 0.91
+  },
+  {
+   "text": "Member",
+   "conf": 0.95
+  },
+  {
+   "text": "Discount",
+   "conf": 0.96
+  },
+  {
+   "text": "-0,56",
+   "conf": 0.67
+  },
+  {
+   "text": "Total",
+   "conf": 0.96
+  },
+  {
+   "text": "RM",
+   "conf": 0.91
+  },
+  {
+   "text": "Inel.",
+   "conf": 0.77
+  },
+  {
+   "text": "of",
+   "conf": 0.96
+  },
+  {
+   "text": "GST",
+   "conf": 0.95
+  },
+  {
+   "text": "5.",
+   "conf": 0.93
+  },
+  {
+   "text": "04",
+   "conf": 0.93
+  },
+  {
+   "text": "Rounding",
+   "conf": 0.96
+  },
+  {
+   "text": "Adj",
+   "conf": 0.96
+  },
+  {
+   "text": "0.01",
+   "conf": 0.91
+  },
+  {
+   "text": "Total",
+   "conf": 0.96
+  },
+  {
+   "text": "RM",
+   "conf": 0.96
+  },
+  {
+   "text": "5.05",
+   "conf": 0.91
+  },
+  {
+   "text": "Cash",
+   "conf": 0.96
+  },
+  {
+   "text": "-10.",
+   "conf": 0.66
+  },
+  {
+   "text": "00",
+   "conf": 0.66
+  },
+  {
+   "text": "CHANGE",
+   "conf": 0.95
+  },
+  {
+   "text": "4,95",
+   "conf": 0.79
+  },
+  {
+   "text": "Item",
+   "conf": 0.75
+  },
+  {
+   "text": "Count",
+   "conf": 0.96
+  },
+  {
+   "text": "4",
+   "conf": 0.96
+  },
+  {
+   "text": "GST",
+   "conf": 0.95
+  },
+  {
+   "text": "Summary",
+   "conf": 0.93
+  },
+  {
+   "text": "Amount",
+   "conf": 0.91
+  },
+  {
+   "text": "(RM)",
+   "conf": 0.91
+  },
+  {
+   "text": "Tax",
+   "conf": 0.95
+  },
+  {
+   "text": "(RM)",
+   "conf": 0.94
+  },
+  {
+   "text": "T",
+   "conf": 0.89
+  },
+  {
+   "text": "@",
+   "conf": 0.86
+  },
+  {
+   "text": "6%",
+   "conf": 0.94
+  },
+  {
+   "text": "4,75",
+   "conf": 0.85
+  },
+  {
+   "text": "0.",
+   "conf": 0.83
+  },
+  {
+   "text": "29",
+   "conf": 0.83
+  },
+  {
+   "text": "Total",
+   "conf": 0.95
+  },
+  {
+   "text": "Savings",
+   "conf": 0.94
+  },
+  {
+   "text": "-0.",
+   "conf": 0.86
+  },
+  {
+   "text": "56",
+   "conf": 0.96
+  },
+  {
+   "text": "BE",
+   "conf": 0.96
+  },
+  {
+   "text": "A",
+   "conf": 0.96
+  },
+  {
+   "text": "POPULAR",
+   "conf": 0.94
+  },
+  {
+   "text": "CARD",
+   "conf": 0.96
+  },
+  {
+   "text": "MEMBER",
+   "conf": 0.96
+  },
+  {
+   "text": "AND",
+   "conf": 0.96
+  },
+  {
+   "text": "ENJOY",
+   "conf": 0.96
+  },
+  {
+   "text": "SPECIAL",
+   "conf": 0.95
+  },
+  {
+   "text": "DISCOUNTS",
+   "conf": 0.96
+  },
+  {
+   "text": "THANK",
+   "conf": 0.95
+  },
+  {
+   "text": "YOU.",
+   "conf": 0.96
+  },
+  {
+   "text": "PLEASE",
+   "conf": 0.96
+  },
+  {
+   "text": "COME",
+   "conf": 0.93
+  },
+  {
+   "text": "AGAIN.",
+   "conf": 0.93
+  },
+  {
+   "text": "www.",
+   "conf": 0.89
+  },
+  {
+   "text": "popular.",
+   "conf": 0.9
+  },
+  {
+   "text": "com.",
+   "conf": 0.94
+  },
+  {
+   "text": "my",
+   "conf": 0.96
+  },
+  {
+   "text": "Buy",
+   "conf": 0.94
+  },
+  {
+   "text": "Chinese",
+   "conf": 0.96
+  },
+  {
+   "text": "books",
+   "conf": 0.96
+  },
+  {
+   "text": "online",
+   "conf": 0.96
+  },
+  {
+   "text": "www.",
+   "conf": 0.91
+  },
+  {
+   "text": "popularonl",
+   "conf": 0.27
+  },
+  {
+   "text": "ine.",
+   "conf": 0.27
+  },
+  {
+   "text": "com.",
+   "conf": 0.96
+  },
+  {
+   "text": "my",
+   "conf": 0.9
+  }
+ ],
+ "mean_conf": 0.7258,
+ "low_conf_share": 0.2604,
+ "latency_ms": 3983,
+ "fields": {
+  "company": null,
+  "date": "2017-09-03",
+  "total": 5.05
+ },
+ "rule_reasons": [
+  "company_not_found"
+ ],
+ "total_candidates": [
+  5.05
+ ],
+ "key": "X51005568866"
+}

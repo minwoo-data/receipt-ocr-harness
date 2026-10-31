@@ -1,0 +1,274 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "Bollywood",
+  "Indian Restaurant",
+  "Lange Lefdsedvarsstraat 168",
+  "1017 NW kasterdan",
+  "Tafel #14",
+  "1x Jupiler Large 5,50",
+  "1 x Goa CT 8,50",
+  "1 x Chicken Vindaloo 17,00",
+  "1 x Fish Madras 18,00",
+  "1x Naan 2,50",
+  "Totaal 55,00",
+  "Btw Jaag 232",
+  "Btw hoog 2,43",
+  "Contant 55,00",
+  "20:13 22/03/17 1 Bollywood 5",
+  "fassa 1",
+  "Bedankt en tot ziens",
+  "U bent geholpen door Bollywood"
+ ],
+ "tokens": [
+  {
+   "text": "Bollywood",
+   "conf": 0.01
+  },
+  {
+   "text": "Indian",
+   "conf": 0.96
+  },
+  {
+   "text": "Restaurant",
+   "conf": 0.96
+  },
+  {
+   "text": "Lange",
+   "conf": 0.67
+  },
+  {
+   "text": "Lefdsedvarsstraat",
+   "conf": 0.03
+  },
+  {
+   "text": "168",
+   "conf": 0.7
+  },
+  {
+   "text": "1017",
+   "conf": 0.86
+  },
+  {
+   "text": "NW",
+   "conf": 0.61
+  },
+  {
+   "text": "kasterdan",
+   "conf": 0.13
+  },
+  {
+   "text": "Tafel",
+   "conf": 0.92
+  },
+  {
+   "text": "#14",
+   "conf": 0.65
+  },
+  {
+   "text": "1x",
+   "conf": 0.68
+  },
+  {
+   "text": "Jupiler",
+   "conf": 0.91
+  },
+  {
+   "text": "Large",
+   "conf": 0.94
+  },
+  {
+   "text": "5,50",
+   "conf": 0.95
+  },
+  {
+   "text": "1",
+   "conf": 0.72
+  },
+  {
+   "text": "x",
+   "conf": 0.72
+  },
+  {
+   "text": "Goa",
+   "conf": 0.95
+  },
+  {
+   "text": "CT",
+   "conf": 0.89
+  },
+  {
+   "text": "8,50",
+   "conf": 0.54
+  },
+  {
+   "text": "1",
+   "conf": 0.89
+  },
+  {
+   "text": "x",
+   "conf": 0.89
+  },
+  {
+   "text": "Chicken",
+   "conf": 0.95
+  },
+  {
+   "text": "Vindaloo",
+   "conf": 0.87
+  },
+  {
+   "text": "17,00",
+   "conf": 0.94
+  },
+  {
+   "text": "1",
+   "conf": 0.75
+  },
+  {
+   "text": "x",
+   "conf": 0.75
+  },
+  {
+   "text": "Fish",
+   "conf": 0.96
+  },
+  {
+   "text": "Madras",
+   "conf": 0.96
+  },
+  {
+   "text": "18,00",
+   "conf": 0.8
+  },
+  {
+   "text": "1x",
+   "conf": 0.63
+  },
+  {
+   "text": "Naan",
+   "conf": 0.96
+  },
+  {
+   "text": "2,50",
+   "conf": 0.66
+  },
+  {
+   "text": "Totaal",
+   "conf": 0.9
+  },
+  {
+   "text": "55,00",
+   "conf": 0.83
+  },
+  {
+   "text": "Btw",
+   "conf": 0.88
+  },
+  {
+   "text": "Jaag",
+   "conf": 0.24
+  },
+  {
+   "text": "232",
+   "conf": 0.5
+  },
+  {
+   "text": "Btw",
+   "conf": 0.91
+  },
+  {
+   "text": "hoog",
+   "conf": 0.92
+  },
+  {
+   "text": "2,43",
+   "conf": 0.85
+  },
+  {
+   "text": "Contant",
+   "conf": 0.95
+  },
+  {
+   "text": "55,00",
+   "conf": 0.68
+  },
+  {
+   "text": "20:13",
+   "conf": 0.96
+  },
+  {
+   "text": "22/03/17",
+   "conf": 0.96
+  },
+  {
+   "text": "1",
+   "conf": 0.92
+  },
+  {
+   "text": "Bollywood",
+   "conf": 0.84
+  },
+  {
+   "text": "5",
+   "conf": 0.73
+  },
+  {
+   "text": "fassa",
+   "conf": 0.06
+  },
+  {
+   "text": "1",
+   "conf": 0.84
+  },
+  {
+   "text": "Bedankt",
+   "conf": 0.92
+  },
+  {
+   "text": "en",
+   "conf": 0.95
+  },
+  {
+   "text": "tot",
+   "conf": 0.93
+  },
+  {
+   "text": "ziens",
+   "conf": 0.91
+  },
+  {
+   "text": "U",
+   "conf": 0.93
+  },
+  {
+   "text": "bent",
+   "conf": 0.92
+  },
+  {
+   "text": "geholpen",
+   "conf": 0.92
+  },
+  {
+   "text": "door",
+   "conf": 0.95
+  },
+  {
+   "text": "Bollywood",
+   "conf": 0.91
+  }
+ ],
+ "mean_conf": 0.7817,
+ "low_conf_share": 0.0847,
+ "latency_ms": 1024,
+ "fields": {
+  "company": "BOLLYWOOD INDIAN RESTAURANT",
+  "date": "2017-03-22",
+  "total": null
+ },
+ "rule_reasons": [
+  "total_not_found"
+ ],
+ "total_candidates": [],
+ "key": "W0131_77557b40f8f8"
+}

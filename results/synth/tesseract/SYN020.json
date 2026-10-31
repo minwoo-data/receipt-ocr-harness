@@ -1,0 +1,296 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "SUNRISE PHARMACY SDN BHD",
+  "88 JALAN AMPANG, KUALA LUMPUR",
+  "TAX INVOICE",
+  "Date: 05/03/2024 Time: 13:42",
+  "2 x ICED LATTE 19.00",
+  "3 x STEAMED FISH 144.00",
+  "2 x BALLPOINT PEN 3PK 11.80",
+  "3 x PANADOL 10S 20.40",
+  "2 x A4 PAPER 80GSM 29.80",
+  "1 x RETURN - DAMAGED ITEM -11.80",
+  "SUBTOTAL 213.20",
+  "GST 6% 12.79",
+  "TOTAL 225.99",
+  "CASH 230.99",
+  "CHANGE 5.00",
+  "THANK YOU, PLEASE COME AGAIN"
+ ],
+ "tokens": [
+  {
+   "text": "SUNRISE",
+   "conf": 0.96
+  },
+  {
+   "text": "PHARMACY",
+   "conf": 0.96
+  },
+  {
+   "text": "SDN",
+   "conf": 0.96
+  },
+  {
+   "text": "BHD",
+   "conf": 0.96
+  },
+  {
+   "text": "88",
+   "conf": 0.96
+  },
+  {
+   "text": "JALAN",
+   "conf": 0.93
+  },
+  {
+   "text": "AMPANG,",
+   "conf": 0.92
+  },
+  {
+   "text": "KUALA",
+   "conf": 0.96
+  },
+  {
+   "text": "LUMPUR",
+   "conf": 0.96
+  },
+  {
+   "text": "TAX",
+   "conf": 0.93
+  },
+  {
+   "text": "INVOICE",
+   "conf": 0.93
+  },
+  {
+   "text": "Date:",
+   "conf": 0.95
+  },
+  {
+   "text": "05/03/2024",
+   "conf": 0.87
+  },
+  {
+   "text": "Time:",
+   "conf": 0.94
+  },
+  {
+   "text": "13:42",
+   "conf": 0.95
+  },
+  {
+   "text": "2",
+   "conf": 0.89
+  },
+  {
+   "text": "x",
+   "conf": 0.89
+  },
+  {
+   "text": "ICED",
+   "conf": 0.95
+  },
+  {
+   "text": "LATTE",
+   "conf": 0.96
+  },
+  {
+   "text": "19.00",
+   "conf": 0.96
+  },
+  {
+   "text": "3",
+   "conf": 0.79
+  },
+  {
+   "text": "x",
+   "conf": 0.79
+  },
+  {
+   "text": "STEAMED",
+   "conf": 0.95
+  },
+  {
+   "text": "FISH",
+   "conf": 0.96
+  },
+  {
+   "text": "144.00",
+   "conf": 0.95
+  },
+  {
+   "text": "2",
+   "conf": 0.75
+  },
+  {
+   "text": "x",
+   "conf": 0.75
+  },
+  {
+   "text": "BALLPOINT",
+   "conf": 0.96
+  },
+  {
+   "text": "PEN",
+   "conf": 0.92
+  },
+  {
+   "text": "3PK",
+   "conf": 0.91
+  },
+  {
+   "text": "11.80",
+   "conf": 0.95
+  },
+  {
+   "text": "3",
+   "conf": 0.71
+  },
+  {
+   "text": "x",
+   "conf": 0.71
+  },
+  {
+   "text": "PANADOL",
+   "conf": 0.96
+  },
+  {
+   "text": "10S",
+   "conf": 0.91
+  },
+  {
+   "text": "20.40",
+   "conf": 0.96
+  },
+  {
+   "text": "2",
+   "conf": 0.93
+  },
+  {
+   "text": "x",
+   "conf": 0.93
+  },
+  {
+   "text": "A4",
+   "conf": 0.88
+  },
+  {
+   "text": "PAPER",
+   "conf": 0.93
+  },
+  {
+   "text": "80GSM",
+   "conf": 0.92
+  },
+  {
+   "text": "29.80",
+   "conf": 0.96
+  },
+  {
+   "text": "1",
+   "conf": 0.73
+  },
+  {
+   "text": "x",
+   "conf": 0.73
+  },
+  {
+   "text": "RETURN",
+   "conf": 0.93
+  },
+  {
+   "text": "-",
+   "conf": 0.9
+  },
+  {
+   "text": "DAMAGED",
+   "conf": 0.96
+  },
+  {
+   "text": "ITEM",
+   "conf": 0.96
+  },
+  {
+   "text": "-11.80",
+   "conf": 0.92
+  },
+  {
+   "text": "SUBTOTAL",
+   "conf": 0.96
+  },
+  {
+   "text": "213.20",
+   "conf": 0.95
+  },
+  {
+   "text": "GST",
+   "conf": 0.95
+  },
+  {
+   "text": "6%",
+   "conf": 0.96
+  },
+  {
+   "text": "12.79",
+   "conf": 0.94
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.96
+  },
+  {
+   "text": "225.99",
+   "conf": 0.96
+  },
+  {
+   "text": "CASH",
+   "conf": 0.96
+  },
+  {
+   "text": "230.99",
+   "conf": 0.96
+  },
+  {
+   "text": "CHANGE",
+   "conf": 0.96
+  },
+  {
+   "text": "5.00",
+   "conf": 0.95
+  },
+  {
+   "text": "THANK",
+   "conf": 0.96
+  },
+  {
+   "text": "YOU,",
+   "conf": 0.96
+  },
+  {
+   "text": "PLEASE",
+   "conf": 0.96
+  },
+  {
+   "text": "COME",
+   "conf": 0.96
+  },
+  {
+   "text": "AGAIN",
+   "conf": 0.96
+  }
+ ],
+ "mean_conf": 0.9186,
+ "low_conf_share": 0.0,
+ "latency_ms": 1692,
+ "fields": {
+  "company": "SUNRISE PHARMACY SDN BHD",
+  "date": "2024-03-05",
+  "total": 225.99
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  225.99
+ ],
+ "key": "SYN020"
+}

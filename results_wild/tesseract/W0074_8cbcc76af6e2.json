@@ -1,0 +1,190 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "Tee DRIVE THRU ++%",
+  "Terminal ; 05/DT CSHR-5",
+  "a S=S======RE-PRINTED Soke) |==========",
+  "me eicome To Carl's Jr",
+  "es Store 7379",
+  "ae 9861 De Soto Ave.",
+  "Bs Chatsworth,CA 91311",
+  "Store#s18-996-0188 DM#480-232-8092",
+  "+ 7379 - CARLSJR :",
+  "fold 5.79",
+  "‘VOID eae"
+ ],
+ "tokens": [
+  {
+   "text": "Tee",
+   "conf": 0.29
+  },
+  {
+   "text": "DRIVE",
+   "conf": 0.53
+  },
+  {
+   "text": "THRU",
+   "conf": 0.61
+  },
+  {
+   "text": "++%",
+   "conf": 0.28
+  },
+  {
+   "text": "Terminal",
+   "conf": 0.9
+  },
+  {
+   "text": ";",
+   "conf": 0.82
+  },
+  {
+   "text": "05/DT",
+   "conf": 0.75
+  },
+  {
+   "text": "CSHR-5",
+   "conf": 0.9
+  },
+  {
+   "text": "a",
+   "conf": 0.42
+  },
+  {
+   "text": "S=S======RE-PRINTED",
+   "conf": 0.16
+  },
+  {
+   "text": "Soke)",
+   "conf": 0.2
+  },
+  {
+   "text": "|==========",
+   "conf": 0.47
+  },
+  {
+   "text": "me",
+   "conf": 0.0
+  },
+  {
+   "text": "eicome",
+   "conf": 0.0
+  },
+  {
+   "text": "To",
+   "conf": 0.92
+  },
+  {
+   "text": "Carl's",
+   "conf": 0.85
+  },
+  {
+   "text": "Jr",
+   "conf": 0.96
+  },
+  {
+   "text": "es",
+   "conf": 0.4
+  },
+  {
+   "text": "Store",
+   "conf": 0.96
+  },
+  {
+   "text": "7379",
+   "conf": 0.96
+  },
+  {
+   "text": "ae",
+   "conf": 0.33
+  },
+  {
+   "text": "9861",
+   "conf": 0.96
+  },
+  {
+   "text": "De",
+   "conf": 0.96
+  },
+  {
+   "text": "Soto",
+   "conf": 0.96
+  },
+  {
+   "text": "Ave.",
+   "conf": 0.93
+  },
+  {
+   "text": "Bs",
+   "conf": 0.22
+  },
+  {
+   "text": "Chatsworth,CA",
+   "conf": 0.83
+  },
+  {
+   "text": "91311",
+   "conf": 0.96
+  },
+  {
+   "text": "Store#s18-996-0188",
+   "conf": 0.0
+  },
+  {
+   "text": "DM#480-232-8092",
+   "conf": 0.36
+  },
+  {
+   "text": "+",
+   "conf": 0.6
+  },
+  {
+   "text": "7379",
+   "conf": 0.86
+  },
+  {
+   "text": "-",
+   "conf": 0.86
+  },
+  {
+   "text": "CARLSJR",
+   "conf": 0.83
+  },
+  {
+   "text": ":",
+   "conf": 0.0
+  },
+  {
+   "text": "fold",
+   "conf": 0.0
+  },
+  {
+   "text": "5.79",
+   "conf": 0.35
+  },
+  {
+   "text": "‘VOID",
+   "conf": 0.46
+  },
+  {
+   "text": "eae",
+   "conf": 0.52
+  }
+ ],
+ "mean_conf": 0.5736,
+ "low_conf_share": 0.4359,
+ "latency_ms": 935,
+ "fields": {
+  "company": "ME EICOME TO CARL S JR ES STORE 7379",
+  "date": null,
+  "total": 5.79
+ },
+ "rule_reasons": [
+  "date_not_found",
+  "total_no_keyword_fallback_max"
+ ],
+ "total_candidates": [
+  5.79
+ ],
+ "key": "W0074_8cbcc76af6e2"
+}

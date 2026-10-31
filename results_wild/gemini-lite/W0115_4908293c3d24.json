@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.1-flash-lite",
+ "provider": "gemini",
+ "raw_text": "{\n  \"vendor\": \"BURGER KING\",\n  \"date\": \"2014-05-18\",\n  \"subtotal\": 6.60,\n  \"tax\": null,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 6.60,\n  \"currency\": \"EUR\",\n  \"confidence\": 0.95,\n  \"notes\": null\n}",
+ "data": {
+  "vendor": "BURGER KING",
+  "date": "2014-05-18",
+  "subtotal": 6.6,
+  "tax": null,
+  "tip": null,
+  "discount": null,
+  "total": 6.6,
+  "currency": "EUR",
+  "confidence": 0.95,
+  "notes": null
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1471,
+  "output_tokens": 99,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.000516,
+ "latency_ms": 1266,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.1-flash-lite",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.1-flash-lite"
+ ],
+ "key": "W0115_4908293c3d24"
+}

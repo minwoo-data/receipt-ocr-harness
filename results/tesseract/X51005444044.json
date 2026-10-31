@@ -1,0 +1,354 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "en ey",
+  ":",
+  "99 SPEED MART S/B (519537-X)",
+  "LOT P.7. 2811, JALAN ANGSA,",
+  "7 TAMAN BERKELEY",
+  "41150 KLANG, SELANGOR",
+  ": 1572-TMN BET PANDAN",
+  "GST ID. NO : 000181747712",
+  "INVOICE NO : 18332/103/T0157",
+  "02:27PM $70285 10-03-18",
+  "104 SUN@UICK OREN 330KL RMS.35 =",
+  "Total Sales (Inclusive GST) RM 5.35",
+  "7 CASH RM = 4. 00",
+  "CHANGE RM 265",
+  "GST Summary Amount (RA) Tax (RM)",
+  "e = by 5.05 30 |",
+  "Thank You. Please come 3gain",
+  "Keep the invoice for anplicable returns"
+ ],
+ "tokens": [
+  {
+   "text": "en",
+   "conf": 0.16
+  },
+  {
+   "text": "ey",
+   "conf": 0.27
+  },
+  {
+   "text": ":",
+   "conf": 0.1
+  },
+  {
+   "text": "99",
+   "conf": 0.96
+  },
+  {
+   "text": "SPEED",
+   "conf": 0.95
+  },
+  {
+   "text": "MART",
+   "conf": 0.92
+  },
+  {
+   "text": "S/B",
+   "conf": 0.91
+  },
+  {
+   "text": "(519537-X)",
+   "conf": 0.45
+  },
+  {
+   "text": "LOT",
+   "conf": 0.9
+  },
+  {
+   "text": "P.7.",
+   "conf": 0.72
+  },
+  {
+   "text": "2811,",
+   "conf": 0.95
+  },
+  {
+   "text": "JALAN",
+   "conf": 0.93
+  },
+  {
+   "text": "ANGSA,",
+   "conf": 0.87
+  },
+  {
+   "text": "7",
+   "conf": 0.35
+  },
+  {
+   "text": "TAMAN",
+   "conf": 0.91
+  },
+  {
+   "text": "BERKELEY",
+   "conf": 0.96
+  },
+  {
+   "text": "41150",
+   "conf": 0.96
+  },
+  {
+   "text": "KLANG,",
+   "conf": 0.94
+  },
+  {
+   "text": "SELANGOR",
+   "conf": 0.95
+  },
+  {
+   "text": ":",
+   "conf": 0.0
+  },
+  {
+   "text": "1572-TMN",
+   "conf": 0.78
+  },
+  {
+   "text": "BET",
+   "conf": 0.24
+  },
+  {
+   "text": "PANDAN",
+   "conf": 0.41
+  },
+  {
+   "text": "GST",
+   "conf": 0.93
+  },
+  {
+   "text": "ID.",
+   "conf": 0.77
+  },
+  {
+   "text": "NO",
+   "conf": 0.82
+  },
+  {
+   "text": ":",
+   "conf": 0.39
+  },
+  {
+   "text": "000181747712",
+   "conf": 0.61
+  },
+  {
+   "text": "INVOICE",
+   "conf": 0.96
+  },
+  {
+   "text": "NO",
+   "conf": 0.84
+  },
+  {
+   "text": ":",
+   "conf": 0.78
+  },
+  {
+   "text": "18332/103/T0157",
+   "conf": 0.12
+  },
+  {
+   "text": "02:27PM",
+   "conf": 0.7
+  },
+  {
+   "text": "$70285",
+   "conf": 0.9
+  },
+  {
+   "text": "10-03-18",
+   "conf": 0.96
+  },
+  {
+   "text": "104",
+   "conf": 0.92
+  },
+  {
+   "text": "SUN@UICK",
+   "conf": 0.62
+  },
+  {
+   "text": "OREN",
+   "conf": 0.89
+  },
+  {
+   "text": "330KL",
+   "conf": 0.0
+  },
+  {
+   "text": "RMS.35",
+   "conf": 0.81
+  },
+  {
+   "text": "=",
+   "conf": 0.43
+  },
+  {
+   "text": "Total",
+   "conf": 0.96
+  },
+  {
+   "text": "Sales",
+   "conf": 0.96
+  },
+  {
+   "text": "(Inclusive",
+   "conf": 0.96
+  },
+  {
+   "text": "GST)",
+   "conf": 0.9
+  },
+  {
+   "text": "RM",
+   "conf": 0.68
+  },
+  {
+   "text": "5.35",
+   "conf": 0.68
+  },
+  {
+   "text": "7",
+   "conf": 0.38
+  },
+  {
+   "text": "CASH",
+   "conf": 0.77
+  },
+  {
+   "text": "RM",
+   "conf": 0.66
+  },
+  {
+   "text": "=",
+   "conf": 0.39
+  },
+  {
+   "text": "4.",
+   "conf": 0.55
+  },
+  {
+   "text": "00",
+   "conf": 0.69
+  },
+  {
+   "text": "CHANGE",
+   "conf": 0.94
+  },
+  {
+   "text": "RM",
+   "conf": 0.94
+  },
+  {
+   "text": "265",
+   "conf": 0.12
+  },
+  {
+   "text": "GST",
+   "conf": 0.91
+  },
+  {
+   "text": "Summary",
+   "conf": 0.79
+  },
+  {
+   "text": "Amount",
+   "conf": 0.3
+  },
+  {
+   "text": "(RA)",
+   "conf": 0.3
+  },
+  {
+   "text": "Tax",
+   "conf": 0.0
+  },
+  {
+   "text": "(RM)",
+   "conf": 0.0
+  },
+  {
+   "text": "e",
+   "conf": 0.0
+  },
+  {
+   "text": "=",
+   "conf": 0.83
+  },
+  {
+   "text": "by",
+   "conf": 0.32
+  },
+  {
+   "text": "5.05",
+   "conf": 0.66
+  },
+  {
+   "text": "30",
+   "conf": 0.11
+  },
+  {
+   "text": "|",
+   "conf": 0.84
+  },
+  {
+   "text": "Thank",
+   "conf": 0.96
+  },
+  {
+   "text": "You.",
+   "conf": 0.93
+  },
+  {
+   "text": "Please",
+   "conf": 0.96
+  },
+  {
+   "text": "come",
+   "conf": 0.93
+  },
+  {
+   "text": "3gain",
+   "conf": 0.53
+  },
+  {
+   "text": "Keep",
+   "conf": 0.65
+  },
+  {
+   "text": "the",
+   "conf": 0.96
+  },
+  {
+   "text": "invoice",
+   "conf": 0.96
+  },
+  {
+   "text": "for",
+   "conf": 0.93
+  },
+  {
+   "text": "anplicable",
+   "conf": 0.87
+  },
+  {
+   "text": "returns",
+   "conf": 0.95
+  }
+ ],
+ "mean_conf": 0.6748,
+ "low_conf_share": 0.2785,
+ "latency_ms": 922,
+ "fields": {
+  "company": "EN EY",
+  "date": "2018-03-10",
+  "total": 5.35
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  5.35
+ ],
+ "key": "X51005444044"
+}

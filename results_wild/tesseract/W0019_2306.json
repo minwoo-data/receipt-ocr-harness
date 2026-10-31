@@ -1,0 +1,217 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "=] TAC? _SHOr",
+  "eg | 92251 MISSION TR:",
+  "= TAKE ELSINORE,",
+  "9 (951) 245-1438",
+  "es OPE SPECIAL 1.80",
+  "Sea",
+  "(CARNTTAS)",
+  "= ie",
+  "nae 550g",
+  "— V0",
+  "—— ine 10",
+  "sy CASH 20.00",
+  "=e CHANGE 41.90",
+  "—— eee",
+  "ivenosst, 2/18/2018",
+  "ca",
+  "THANK YOU_FOR",
+  "OUR VISIL"
+ ],
+ "tokens": [
+  {
+   "text": "=]",
+   "conf": 0.14
+  },
+  {
+   "text": "TAC?",
+   "conf": 0.07
+  },
+  {
+   "text": "_SHOr",
+   "conf": 0.0
+  },
+  {
+   "text": "eg",
+   "conf": 0.43
+  },
+  {
+   "text": "|",
+   "conf": 0.26
+  },
+  {
+   "text": "92251",
+   "conf": 0.03
+  },
+  {
+   "text": "MISSION",
+   "conf": 0.86
+  },
+  {
+   "text": "TR:",
+   "conf": 0.26
+  },
+  {
+   "text": "=",
+   "conf": 0.2
+  },
+  {
+   "text": "TAKE",
+   "conf": 0.63
+  },
+  {
+   "text": "ELSINORE,",
+   "conf": 0.58
+  },
+  {
+   "text": "9",
+   "conf": 0.0
+  },
+  {
+   "text": "(951)",
+   "conf": 0.54
+  },
+  {
+   "text": "245-1438",
+   "conf": 0.78
+  },
+  {
+   "text": "es",
+   "conf": 0.27
+  },
+  {
+   "text": "OPE",
+   "conf": 0.27
+  },
+  {
+   "text": "SPECIAL",
+   "conf": 0.75
+  },
+  {
+   "text": "1.80",
+   "conf": 0.55
+  },
+  {
+   "text": "Sea",
+   "conf": 0.34
+  },
+  {
+   "text": "(CARNTTAS)",
+   "conf": 0.51
+  },
+  {
+   "text": "=",
+   "conf": 0.72
+  },
+  {
+   "text": "ie",
+   "conf": 0.26
+  },
+  {
+   "text": "nae",
+   "conf": 0.07
+  },
+  {
+   "text": "550g",
+   "conf": 0.0
+  },
+  {
+   "text": "—",
+   "conf": 0.07
+  },
+  {
+   "text": "V0",
+   "conf": 0.32
+  },
+  {
+   "text": "——",
+   "conf": 0.0
+  },
+  {
+   "text": "ine",
+   "conf": 0.0
+  },
+  {
+   "text": "10",
+   "conf": 0.46
+  },
+  {
+   "text": "sy",
+   "conf": 0.28
+  },
+  {
+   "text": "CASH",
+   "conf": 0.28
+  },
+  {
+   "text": "20.00",
+   "conf": 0.87
+  },
+  {
+   "text": "=e",
+   "conf": 0.24
+  },
+  {
+   "text": "CHANGE",
+   "conf": 0.9
+  },
+  {
+   "text": "41.90",
+   "conf": 0.69
+  },
+  {
+   "text": "——",
+   "conf": 0.12
+  },
+  {
+   "text": "eee",
+   "conf": 0.36
+  },
+  {
+   "text": "ivenosst,",
+   "conf": 0.0
+  },
+  {
+   "text": "2/18/2018",
+   "conf": 0.5
+  },
+  {
+   "text": "ca",
+   "conf": 0.0
+  },
+  {
+   "text": "THANK",
+   "conf": 0.83
+  },
+  {
+   "text": "YOU_FOR",
+   "conf": 0.82
+  },
+  {
+   "text": "OUR",
+   "conf": 0.48
+  },
+  {
+   "text": "VISIL",
+   "conf": 0.65
+  }
+ ],
+ "mean_conf": 0.3725,
+ "low_conf_share": 0.6364,
+ "latency_ms": 1076,
+ "fields": {
+  "company": "TAC SHOR",
+  "date": "2018-02-18",
+  "total": 41.9
+ },
+ "rule_reasons": [
+  "total_no_keyword_fallback_max"
+ ],
+ "total_candidates": [
+  20.0,
+  41.9
+ ],
+ "key": "W0019_2306"
+}

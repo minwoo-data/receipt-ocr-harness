@@ -1,0 +1,200 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "De Gulden Bock",
+  "Schuttershofstraat.11",
+  "Te1:000000000000",
+  "BTW-nr:BE0422.318.204",
+  "Ticket:4188-T2-2243（P0S)",
+  "Datum:20/04/201615:17",
+  "Tafel:06",
+  "Bediend door:antonio",
+  "OMSCHRIJVING E.P. TOT",
+  "2 1/2Gemarineerde za 00'6 18,00B",
+  "1m",
+  "2 1/2groene sla 9,50 19.00B",
+  "1/2San pellegrino 5,00 5,00B",
+  "Duvel 4,50 4,50A",
+  "A（Eur4,50）（Eur3.72）21%:Eur0.78",
+  "B（Eur 42.00）（Eur37.49）12%:Eur4.51",
+  "B Totaal Eur 46,50",
+  "Creditcard 46,50",
+  "BTW-KASTICKET",
+  "PLUhash: ab78741b",
+  "POS: BDON0010"
+ ],
+ "tokens": [
+  {
+   "text": "De Gulden Bock",
+   "conf": 0.9392733318465096
+  },
+  {
+   "text": "Schuttershofstraat.11",
+   "conf": 0.9436398900690532
+  },
+  {
+   "text": "Te1:000000000000",
+   "conf": 0.9504981152713299
+  },
+  {
+   "text": "BTW-nr:BE0422.318.204",
+   "conf": 0.9262746756985074
+  },
+  {
+   "text": "Ticket:4188-T2-2243（P0S)",
+   "conf": 0.9001758421460787
+  },
+  {
+   "text": "Datum:20/04/201615:17",
+   "conf": 0.9384433300722212
+  },
+  {
+   "text": "Tafel:06",
+   "conf": 0.9340720251202583
+  },
+  {
+   "text": "Bediend door:antonio",
+   "conf": 0.9129804372787476
+  },
+  {
+   "text": "OMSCHRIJVING",
+   "conf": 0.9550328354040781
+  },
+  {
+   "text": "E.P.",
+   "conf": 0.969479963183403
+  },
+  {
+   "text": "TOT",
+   "conf": 0.9928434689839681
+  },
+  {
+   "text": "2",
+   "conf": 0.9985600113868713
+  },
+  {
+   "text": "1/2Gemarineerde za",
+   "conf": 0.9263614250553979
+  },
+  {
+   "text": "00'6",
+   "conf": 0.8713469952344894
+  },
+  {
+   "text": "18,00B",
+   "conf": 0.9151545266310374
+  },
+  {
+   "text": "1m",
+   "conf": 0.8246207237243652
+  },
+  {
+   "text": "2",
+   "conf": 0.9987502098083496
+  },
+  {
+   "text": "1/2groene sla",
+   "conf": 0.9290331831345191
+  },
+  {
+   "text": "9,50",
+   "conf": 0.9453201293945312
+  },
+  {
+   "text": "19.00B",
+   "conf": 0.9327057401339213
+  },
+  {
+   "text": "1/2San pellegrino",
+   "conf": 0.9206411926185384
+  },
+  {
+   "text": "5,00",
+   "conf": 0.9790900647640228
+  },
+  {
+   "text": "5,00B",
+   "conf": 0.9266566514968873
+  },
+  {
+   "text": "Duvel",
+   "conf": 0.9381461620330811
+  },
+  {
+   "text": "4,50",
+   "conf": 0.9574634879827499
+  },
+  {
+   "text": "4,50A",
+   "conf": 0.9584572911262512
+  },
+  {
+   "text": "A（Eur4,50）（Eur3.72）21%:Eur0.78",
+   "conf": 0.8835174560546875
+  },
+  {
+   "text": "B（Eur 42.00）（Eur37.49）12%:Eur4.51",
+   "conf": 0.8869153821107113
+  },
+  {
+   "text": "B",
+   "conf": 0.52325040102005
+  },
+  {
+   "text": "Totaal Eur",
+   "conf": 0.9441580891609191
+  },
+  {
+   "text": "46,50",
+   "conf": 0.951035475730896
+  },
+  {
+   "text": "Creditcard",
+   "conf": 0.9860466122627258
+  },
+  {
+   "text": "46,50",
+   "conf": 0.9089816570281982
+  },
+  {
+   "text": "BTW-KASTICKET",
+   "conf": 0.9908899435630212
+  },
+  {
+   "text": "PLUhash:",
+   "conf": 0.9597190544009209
+  },
+  {
+   "text": "ab78741b",
+   "conf": 0.9884039908647537
+  },
+  {
+   "text": "POS:",
+   "conf": 0.9559448957443237
+  },
+  {
+   "text": "BDON0010",
+   "conf": 0.7350291460752487
+  }
+ ],
+ "mean_conf": 0.9237,
+ "low_conf_share": 0.0,
+ "latency_ms": 2565,
+ "fields": {
+  "company": "DE GULDEN BOCK",
+  "date": "2016-04-20",
+  "total": 42.0
+ },
+ "rule_reasons": [
+  "total_no_keyword_fallback_max"
+ ],
+ "total_candidates": [
+  19.0,
+  3.72,
+  0.78,
+  42.0,
+  37.49,
+  4.51
+ ],
+ "key": "W0163_f584f76fb35a"
+}

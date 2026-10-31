@@ -1,0 +1,129 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "Table 509/1 8:18 PM",
+  "& #50003",
+  "RIBEYE 46.00",
+  "HOUSE CABERNET (2 67.00) 14.00",
+  "Tax 5.43",
+  "Tota 94.43",
+  "Balance Due 94.43",
+  "‘See You Again Soon!"
+ ],
+ "tokens": [
+  {
+   "text": "Table",
+   "conf": 0.78
+  },
+  {
+   "text": "509/1",
+   "conf": 0.21
+  },
+  {
+   "text": "8:18",
+   "conf": 0.87
+  },
+  {
+   "text": "PM",
+   "conf": 0.64
+  },
+  {
+   "text": "&",
+   "conf": 0.0
+  },
+  {
+   "text": "#50003",
+   "conf": 0.94
+  },
+  {
+   "text": "RIBEYE",
+   "conf": 0.56
+  },
+  {
+   "text": "46.00",
+   "conf": 0.81
+  },
+  {
+   "text": "HOUSE",
+   "conf": 0.79
+  },
+  {
+   "text": "CABERNET",
+   "conf": 0.83
+  },
+  {
+   "text": "(2",
+   "conf": 0.83
+  },
+  {
+   "text": "67.00)",
+   "conf": 0.83
+  },
+  {
+   "text": "14.00",
+   "conf": 0.47
+  },
+  {
+   "text": "Tax",
+   "conf": 0.67
+  },
+  {
+   "text": "5.43",
+   "conf": 0.89
+  },
+  {
+   "text": "Tota",
+   "conf": 0.79
+  },
+  {
+   "text": "94.43",
+   "conf": 0.74
+  },
+  {
+   "text": "Balance",
+   "conf": 0.96
+  },
+  {
+   "text": "Due",
+   "conf": 0.95
+  },
+  {
+   "text": "94.43",
+   "conf": 0.95
+  },
+  {
+   "text": "‘See",
+   "conf": 0.84
+  },
+  {
+   "text": "You",
+   "conf": 0.89
+  },
+  {
+   "text": "Again",
+   "conf": 0.89
+  },
+  {
+   "text": "Soon!",
+   "conf": 0.91
+  }
+ ],
+ "mean_conf": 0.7517,
+ "low_conf_share": 0.125,
+ "latency_ms": 320,
+ "fields": {
+  "company": "BALANCE DUE 94 43",
+  "date": null,
+  "total": 94.43
+ },
+ "rule_reasons": [
+  "date_not_found",
+  "total_no_keyword_fallback_max"
+ ],
+ "total_candidates": [
+  5.43,
+  94.43,
+  94.43
+ ],
+ "key": "W0024_69c5643c613b"
+}

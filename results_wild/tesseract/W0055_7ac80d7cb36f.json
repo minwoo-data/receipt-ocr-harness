@@ -1,0 +1,372 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "iad 12524 Poway ABs",
+  "Ra Poway, 32064",
+  "Served bys Robertir 3/21/2016 6:49:00 pm",
+  "Term 10-Transt V/A-51332",
+  "Oty Size Item Price",
+  "1 22 Fountain orink 1.75",
+  "1 Manager Mea) 1008 OFF Wen 0:00",
+  "1 6\" “Turkey Sib 0,00",
+  "1 ‘SOTD 6in Turkey 3.50",
+  "1 6\" Turkey Sub",
+  "Sub Total 8.6",
+  "Taxable Amount \\15",
+  "Sales Tax (8%) 0.14 ea",
+  "72 Total (Take Out) 899 ies",
+  "7 cash Sa Go",
+  "=i Change ON Se",
+  "~~ consider us for your next football party's",
+  "5) catering needs. 668-7300"
+ ],
+ "tokens": [
+  {
+   "text": "iad",
+   "conf": 0.49
+  },
+  {
+   "text": "12524",
+   "conf": 0.68
+  },
+  {
+   "text": "Poway",
+   "conf": 0.61
+  },
+  {
+   "text": "ABs",
+   "conf": 0.0
+  },
+  {
+   "text": "Ra",
+   "conf": 0.0
+  },
+  {
+   "text": "Poway,",
+   "conf": 0.36
+  },
+  {
+   "text": "32064",
+   "conf": 0.54
+  },
+  {
+   "text": "Served",
+   "conf": 0.83
+  },
+  {
+   "text": "bys",
+   "conf": 0.71
+  },
+  {
+   "text": "Robertir",
+   "conf": 0.59
+  },
+  {
+   "text": "3/21/2016",
+   "conf": 0.91
+  },
+  {
+   "text": "6:49:00",
+   "conf": 0.95
+  },
+  {
+   "text": "pm",
+   "conf": 0.54
+  },
+  {
+   "text": "Term",
+   "conf": 0.88
+  },
+  {
+   "text": "10-Transt",
+   "conf": 0.47
+  },
+  {
+   "text": "V/A-51332",
+   "conf": 0.11
+  },
+  {
+   "text": "Oty",
+   "conf": 0.71
+  },
+  {
+   "text": "Size",
+   "conf": 0.95
+  },
+  {
+   "text": "Item",
+   "conf": 0.94
+  },
+  {
+   "text": "Price",
+   "conf": 0.84
+  },
+  {
+   "text": "1",
+   "conf": 0.61
+  },
+  {
+   "text": "22",
+   "conf": 0.44
+  },
+  {
+   "text": "Fountain",
+   "conf": 0.46
+  },
+  {
+   "text": "orink",
+   "conf": 0.25
+  },
+  {
+   "text": "1.75",
+   "conf": 0.47
+  },
+  {
+   "text": "1",
+   "conf": 0.37
+  },
+  {
+   "text": "Manager",
+   "conf": 0.65
+  },
+  {
+   "text": "Mea)",
+   "conf": 0.53
+  },
+  {
+   "text": "1008",
+   "conf": 0.73
+  },
+  {
+   "text": "OFF",
+   "conf": 0.71
+  },
+  {
+   "text": "Wen",
+   "conf": 0.4
+  },
+  {
+   "text": "0:00",
+   "conf": 0.84
+  },
+  {
+   "text": "1",
+   "conf": 0.6
+  },
+  {
+   "text": "6\"",
+   "conf": 0.59
+  },
+  {
+   "text": "“Turkey",
+   "conf": 0.52
+  },
+  {
+   "text": "Sib",
+   "conf": 0.81
+  },
+  {
+   "text": "0,00",
+   "conf": 0.59
+  },
+  {
+   "text": "1",
+   "conf": 0.95
+  },
+  {
+   "text": "‘SOTD",
+   "conf": 0.58
+  },
+  {
+   "text": "6in",
+   "conf": 0.39
+  },
+  {
+   "text": "Turkey",
+   "conf": 0.89
+  },
+  {
+   "text": "3.50",
+   "conf": 0.87
+  },
+  {
+   "text": "1",
+   "conf": 0.51
+  },
+  {
+   "text": "6\"",
+   "conf": 0.51
+  },
+  {
+   "text": "Turkey",
+   "conf": 0.56
+  },
+  {
+   "text": "Sub",
+   "conf": 0.92
+  },
+  {
+   "text": "Sub",
+   "conf": 0.93
+  },
+  {
+   "text": "Total",
+   "conf": 0.83
+  },
+  {
+   "text": "8.6",
+   "conf": 0.52
+  },
+  {
+   "text": "Taxable",
+   "conf": 0.7
+  },
+  {
+   "text": "Amount",
+   "conf": 0.41
+  },
+  {
+   "text": "\\15",
+   "conf": 0.18
+  },
+  {
+   "text": "Sales",
+   "conf": 0.79
+  },
+  {
+   "text": "Tax",
+   "conf": 0.85
+  },
+  {
+   "text": "(8%)",
+   "conf": 0.87
+  },
+  {
+   "text": "0.14",
+   "conf": 0.68
+  },
+  {
+   "text": "ea",
+   "conf": 0.35
+  },
+  {
+   "text": "72",
+   "conf": 0.12
+  },
+  {
+   "text": "Total",
+   "conf": 0.67
+  },
+  {
+   "text": "(Take",
+   "conf": 0.95
+  },
+  {
+   "text": "Out)",
+   "conf": 0.87
+  },
+  {
+   "text": "899",
+   "conf": 0.53
+  },
+  {
+   "text": "ies",
+   "conf": 0.19
+  },
+  {
+   "text": "7",
+   "conf": 0.12
+  },
+  {
+   "text": "cash",
+   "conf": 0.88
+  },
+  {
+   "text": "Sa",
+   "conf": 0.45
+  },
+  {
+   "text": "Go",
+   "conf": 0.2
+  },
+  {
+   "text": "=i",
+   "conf": 0.1
+  },
+  {
+   "text": "Change",
+   "conf": 0.85
+  },
+  {
+   "text": "ON",
+   "conf": 0.3
+  },
+  {
+   "text": "Se",
+   "conf": 0.1
+  },
+  {
+   "text": "~~",
+   "conf": 0.22
+  },
+  {
+   "text": "consider",
+   "conf": 0.65
+  },
+  {
+   "text": "us",
+   "conf": 0.86
+  },
+  {
+   "text": "for",
+   "conf": 0.96
+  },
+  {
+   "text": "your",
+   "conf": 0.94
+  },
+  {
+   "text": "next",
+   "conf": 0.94
+  },
+  {
+   "text": "football",
+   "conf": 0.74
+  },
+  {
+   "text": "party's",
+   "conf": 0.79
+  },
+  {
+   "text": "5)",
+   "conf": 0.48
+  },
+  {
+   "text": "catering",
+   "conf": 0.76
+  },
+  {
+   "text": "needs.",
+   "conf": 0.83
+  },
+  {
+   "text": "668-7300",
+   "conf": 0.81
+  }
+ ],
+ "mean_conf": 0.6058,
+ "low_conf_share": 0.3133,
+ "latency_ms": 1018,
+ "fields": {
+  "company": "IAD POWAY ABS",
+  "date": "2016-03-21",
+  "total": 0.14
+ },
+ "rule_reasons": [
+  "total_no_keyword_fallback_max"
+ ],
+ "total_candidates": [
+  0.14
+ ],
+ "key": "W0055_7ac80d7cb36f"
+}

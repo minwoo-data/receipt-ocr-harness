@@ -1,0 +1,436 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "EI Borracho",
+  "Harborne Court",
+  "65-67HarborneRoad",
+  "Edgbaston,BI53BU",
+  "Tel:01214545368",
+  "1x Coca con Tomate 0.00",
+  "1x Coca del Mossen. 0.00",
+  "1x Alcachofasala E 6.95",
+  "1x Berenjenas con Miel 7.00",
+  "1x Croquetas dePulpo 5.50",
+  "1x Espinacas ala. E 7.50",
+  "1x Fideua Mixta 17.00",
+  "1x Chocolate con... E 5.50",
+  "1x Coulant de Cocolate 6.50",
+  "2x Tarta deSantiago 11.00",
+  "2x 175mlCastillo E 11.00",
+  "1x RiverWildWh.. E 22.00",
+  "1x 330mlCoke E 2.95",
+  "1x 330mlSprite 2.95",
+  "2x Estrella Galicia0.0 7.00",
+  "1x Half PintEstrella. 2.75",
+  "1x Maeloc Fresa 4.25",
+  "3x Pint Estrella Galicia 14.85",
+  "1x Americano 2.25",
+  "2x 2 Tapasfor7.50... 15.00",
+  "ItemTotal E 151.95",
+  "Discount 15.00",
+  "Discount By...",
+  "SORRY",
+  "Total 136.95",
+  "Total Paid 136.95",
+  "TotalDue E 0.00",
+  "12:44Friday2Mar2018",
+  "Table:9",
+  "OrderNumber:44076",
+  "Incl.ofVAT(20.00%) 22.82",
+  "Alltipsgo to the staff whoworkhere.",
+  "VATNumber:219003837",
+  "Please send usyour feedback to",
+  "www.elborracho.co.uk"
+ ],
+ "tokens": [
+  {
+   "text": "EI Borracho",
+   "conf": 0.930510092865337
+  },
+  {
+   "text": "Harborne Court",
+   "conf": 0.9749496366296496
+  },
+  {
+   "text": "65-67HarborneRoad",
+   "conf": 0.989037860842312
+  },
+  {
+   "text": "Edgbaston,BI53BU",
+   "conf": 0.9187784567475319
+  },
+  {
+   "text": "Tel:01214545368",
+   "conf": 0.9843018611272176
+  },
+  {
+   "text": "1x",
+   "conf": 0.8014733791351318
+  },
+  {
+   "text": "Coca con Tomate",
+   "conf": 0.9685320576032003
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9975778013467789
+  },
+  {
+   "text": "1x",
+   "conf": 0.751061886548996
+  },
+  {
+   "text": "Coca del Mossen.",
+   "conf": 0.9689468145370483
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9979117810726166
+  },
+  {
+   "text": "1x",
+   "conf": 0.8030664920806885
+  },
+  {
+   "text": "Alcachofasala",
+   "conf": 0.9907704958548913
+  },
+  {
+   "text": "E",
+   "conf": 0.5198616981506348
+  },
+  {
+   "text": "6.95",
+   "conf": 0.9957316070795059
+  },
+  {
+   "text": "1x",
+   "conf": 0.7713238596916199
+  },
+  {
+   "text": "Berenjenas con Miel",
+   "conf": 0.9306237995624542
+  },
+  {
+   "text": "7.00",
+   "conf": 0.9945953339338303
+  },
+  {
+   "text": "1x",
+   "conf": 0.8163899481296539
+  },
+  {
+   "text": "Croquetas dePulpo",
+   "conf": 0.9727750385508818
+  },
+  {
+   "text": "5.50",
+   "conf": 0.9962543845176697
+  },
+  {
+   "text": "1x",
+   "conf": 0.7802492082118988
+  },
+  {
+   "text": "Espinacas ala.",
+   "conf": 0.9513213847364698
+  },
+  {
+   "text": "E",
+   "conf": 0.650877058506012
+  },
+  {
+   "text": "7.50",
+   "conf": 0.992175281047821
+  },
+  {
+   "text": "1x",
+   "conf": 0.7743906378746033
+  },
+  {
+   "text": "Fideua Mixta",
+   "conf": 0.9713445206483206
+  },
+  {
+   "text": "17.00",
+   "conf": 0.9976114273071289
+  },
+  {
+   "text": "1x",
+   "conf": 0.7638179361820221
+  },
+  {
+   "text": "Chocolate con...",
+   "conf": 0.957828514277935
+  },
+  {
+   "text": "E",
+   "conf": 0.5900916457176208
+  },
+  {
+   "text": "5.50",
+   "conf": 0.9962679594755173
+  },
+  {
+   "text": "1x",
+   "conf": 0.7954098582267761
+  },
+  {
+   "text": "Coulant de Cocolate",
+   "conf": 0.9472869477773967
+  },
+  {
+   "text": "6.50",
+   "conf": 0.992830827832222
+  },
+  {
+   "text": "2x",
+   "conf": 0.8930903673171997
+  },
+  {
+   "text": "Tarta deSantiago",
+   "conf": 0.9694933779537678
+  },
+  {
+   "text": "11.00",
+   "conf": 0.9975291728973389
+  },
+  {
+   "text": "2x",
+   "conf": 0.8449710011482239
+  },
+  {
+   "text": "175mlCastillo",
+   "conf": 0.9795660238999587
+  },
+  {
+   "text": "E",
+   "conf": 0.5066717863082886
+  },
+  {
+   "text": "11.00",
+   "conf": 0.9971403837203979
+  },
+  {
+   "text": "1x",
+   "conf": 0.776374340057373
+  },
+  {
+   "text": "RiverWildWh..",
+   "conf": 0.8881489313565768
+  },
+  {
+   "text": "E",
+   "conf": 0.7033795714378357
+  },
+  {
+   "text": "22.00",
+   "conf": 0.9982402086257934
+  },
+  {
+   "text": "1x",
+   "conf": 0.7569175064563751
+  },
+  {
+   "text": "330mlCoke",
+   "conf": 0.9855992065535651
+  },
+  {
+   "text": "E",
+   "conf": 0.5192848443984985
+  },
+  {
+   "text": "2.95",
+   "conf": 0.9985306859016418
+  },
+  {
+   "text": "1x",
+   "conf": 0.7590348720550537
+  },
+  {
+   "text": "330mlSprite",
+   "conf": 0.9534855105660178
+  },
+  {
+   "text": "2.95",
+   "conf": 0.9970528185367584
+  },
+  {
+   "text": "2x",
+   "conf": 0.8311110436916351
+  },
+  {
+   "text": "Estrella Galicia0.0",
+   "conf": 0.9498990334962544
+  },
+  {
+   "text": "7.00",
+   "conf": 0.995286300778389
+  },
+  {
+   "text": "1x",
+   "conf": 0.8071294128894806
+  },
+  {
+   "text": "Half PintEstrella.",
+   "conf": 0.9493825402524736
+  },
+  {
+   "text": "2.75",
+   "conf": 0.9968961179256439
+  },
+  {
+   "text": "1x",
+   "conf": 0.7591667175292969
+  },
+  {
+   "text": "Maeloc Fresa",
+   "conf": 0.9525544842084249
+  },
+  {
+   "text": "4.25",
+   "conf": 0.9918498545885086
+  },
+  {
+   "text": "3x",
+   "conf": 0.8943745791912079
+  },
+  {
+   "text": "Pint Estrella Galicia",
+   "conf": 0.9507420403616769
+  },
+  {
+   "text": "14.85",
+   "conf": 0.9972744226455689
+  },
+  {
+   "text": "1x",
+   "conf": 0.8177601099014282
+  },
+  {
+   "text": "Americano",
+   "conf": 0.9943700167867873
+  },
+  {
+   "text": "2.25",
+   "conf": 0.9971151649951935
+  },
+  {
+   "text": "2x",
+   "conf": 0.8414920270442963
+  },
+  {
+   "text": "2 Tapasfor7.50...",
+   "conf": 0.8876741440857158
+  },
+  {
+   "text": "15.00",
+   "conf": 0.9958883762359619
+  },
+  {
+   "text": "ItemTotal",
+   "conf": 0.9794468349880643
+  },
+  {
+   "text": "E",
+   "conf": 0.6779601573944092
+  },
+  {
+   "text": "151.95",
+   "conf": 0.9967652360598246
+  },
+  {
+   "text": "Discount",
+   "conf": 0.9927478730678558
+  },
+  {
+   "text": "15.00",
+   "conf": 0.9976398348808289
+  },
+  {
+   "text": "Discount By...",
+   "conf": 0.961747292961393
+  },
+  {
+   "text": "SORRY",
+   "conf": 0.9863189458847046
+  },
+  {
+   "text": "Total",
+   "conf": 0.9934120059013367
+  },
+  {
+   "text": "136.95",
+   "conf": 0.9952114323774973
+  },
+  {
+   "text": "Total Paid",
+   "conf": 0.964517229795456
+  },
+  {
+   "text": "136.95",
+   "conf": 0.9960599144299825
+  },
+  {
+   "text": "TotalDue",
+   "conf": 0.9904441758990288
+  },
+  {
+   "text": "E",
+   "conf": 0.5618466138839722
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9982996731996536
+  },
+  {
+   "text": "12:44Friday2Mar2018",
+   "conf": 0.9124077307550531
+  },
+  {
+   "text": "Table:9",
+   "conf": 0.9789520331791469
+  },
+  {
+   "text": "OrderNumber:44076",
+   "conf": 0.9790813502143411
+  },
+  {
+   "text": "Incl.ofVAT(20.00%)",
+   "conf": 0.9250309003723992
+  },
+  {
+   "text": "22.82",
+   "conf": 0.9818997740745544
+  },
+  {
+   "text": "Alltipsgo to the staff whoworkhere.",
+   "conf": 0.9330822859491621
+  },
+  {
+   "text": "VATNumber:219003837",
+   "conf": 0.9839607351704648
+  },
+  {
+   "text": "Please send usyour feedback to",
+   "conf": 0.9367700755596161
+  },
+  {
+   "text": "www.elborracho.co.uk",
+   "conf": 0.9819227963685989
+  }
+ ],
+ "mean_conf": 0.9051,
+ "low_conf_share": 0.0,
+ "latency_ms": 5733,
+ "fields": {
+  "company": "EI BORRACHO",
+  "date": "2018-03-02",
+  "total": 0.0
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  0.0
+ ],
+ "key": "W0016_15c0d4ff7889"
+}

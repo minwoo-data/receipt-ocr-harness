@@ -1,0 +1,273 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "Saizeriya",
+  "11, Tanjong Katong Road",
+  "#02-18, One KM",
+  "Singapore 437157",
+  "Tel: 6702 2478",
+  "Company Reg. No. 200818603R",
+  "GST Reg. No, 20-0818803-R",
+  "Table: 1] PAX: 2",
+  "Bill No.: (New Bill)",
+  "Date: 2014/11/21 11:40:11",
+  "Server; Jannete pee",
+  "Po iviatecn $6.90",
+  "1x Tuna & Fish Egg _8@",
+  "Grand roa) 313.80",
+  "(7% GST ; $0.90)",
+  "2014/11/21 11:40:19 Jannete .",
+  "(New Bil1) [0]"
+ ],
+ "tokens": [
+  {
+   "text": "Saizeriya",
+   "conf": 0.92
+  },
+  {
+   "text": "11,",
+   "conf": 0.95
+  },
+  {
+   "text": "Tanjong",
+   "conf": 0.96
+  },
+  {
+   "text": "Katong",
+   "conf": 0.96
+  },
+  {
+   "text": "Road",
+   "conf": 0.96
+  },
+  {
+   "text": "#02-18,",
+   "conf": 0.89
+  },
+  {
+   "text": "One",
+   "conf": 0.96
+  },
+  {
+   "text": "KM",
+   "conf": 0.95
+  },
+  {
+   "text": "Singapore",
+   "conf": 0.94
+  },
+  {
+   "text": "437157",
+   "conf": 0.94
+  },
+  {
+   "text": "Tel:",
+   "conf": 0.92
+  },
+  {
+   "text": "6702",
+   "conf": 0.91
+  },
+  {
+   "text": "2478",
+   "conf": 0.96
+  },
+  {
+   "text": "Company",
+   "conf": 0.96
+  },
+  {
+   "text": "Reg.",
+   "conf": 0.9
+  },
+  {
+   "text": "No.",
+   "conf": 0.81
+  },
+  {
+   "text": "200818603R",
+   "conf": 0.88
+  },
+  {
+   "text": "GST",
+   "conf": 0.96
+  },
+  {
+   "text": "Reg.",
+   "conf": 0.78
+  },
+  {
+   "text": "No,",
+   "conf": 0.74
+  },
+  {
+   "text": "20-0818803-R",
+   "conf": 0.86
+  },
+  {
+   "text": "Table:",
+   "conf": 0.74
+  },
+  {
+   "text": "1]",
+   "conf": 0.73
+  },
+  {
+   "text": "PAX:",
+   "conf": 0.74
+  },
+  {
+   "text": "2",
+   "conf": 0.89
+  },
+  {
+   "text": "Bill",
+   "conf": 0.86
+  },
+  {
+   "text": "No.:",
+   "conf": 0.87
+  },
+  {
+   "text": "(New",
+   "conf": 0.96
+  },
+  {
+   "text": "Bill)",
+   "conf": 0.95
+  },
+  {
+   "text": "Date:",
+   "conf": 0.89
+  },
+  {
+   "text": "2014/11/21",
+   "conf": 0.94
+  },
+  {
+   "text": "11:40:11",
+   "conf": 0.52
+  },
+  {
+   "text": "Server;",
+   "conf": 0.81
+  },
+  {
+   "text": "Jannete",
+   "conf": 0.92
+  },
+  {
+   "text": "pee",
+   "conf": 0.0
+  },
+  {
+   "text": "Po",
+   "conf": 0.02
+  },
+  {
+   "text": "iviatecn",
+   "conf": 0.0
+  },
+  {
+   "text": "$6.90",
+   "conf": 0.89
+  },
+  {
+   "text": "1x",
+   "conf": 0.87
+  },
+  {
+   "text": "Tuna",
+   "conf": 0.68
+  },
+  {
+   "text": "&",
+   "conf": 0.89
+  },
+  {
+   "text": "Fish",
+   "conf": 0.96
+  },
+  {
+   "text": "Egg",
+   "conf": 0.9
+  },
+  {
+   "text": "_8@",
+   "conf": 0.0
+  },
+  {
+   "text": "Grand",
+   "conf": 0.96
+  },
+  {
+   "text": "roa)",
+   "conf": 0.3
+  },
+  {
+   "text": "313.80",
+   "conf": 0.29
+  },
+  {
+   "text": "(7%",
+   "conf": 0.94
+  },
+  {
+   "text": "GST",
+   "conf": 0.88
+  },
+  {
+   "text": ";",
+   "conf": 0.68
+  },
+  {
+   "text": "$0.90)",
+   "conf": 0.93
+  },
+  {
+   "text": "2014/11/21",
+   "conf": 0.93
+  },
+  {
+   "text": "11:40:19",
+   "conf": 0.64
+  },
+  {
+   "text": "Jannete",
+   "conf": 0.64
+  },
+  {
+   "text": ".",
+   "conf": 0.0
+  },
+  {
+   "text": "(New",
+   "conf": 0.92
+  },
+  {
+   "text": "Bil1)",
+   "conf": 0.4
+  },
+  {
+   "text": "[0]",
+   "conf": 0.94
+  }
+ ],
+ "mean_conf": 0.7688,
+ "low_conf_share": 0.1379,
+ "latency_ms": 1683,
+ "fields": {
+  "company": "SAIZERIYA",
+  "date": "2014-11-21",
+  "total": 313.8
+ },
+ "rule_reasons": [
+  "total_no_keyword_fallback_max"
+ ],
+ "total_candidates": [
+  6.9,
+  313.8,
+  0.9
+ ],
+ "key": "W0119_619818644ad5"
+}

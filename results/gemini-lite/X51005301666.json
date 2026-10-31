@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.1-flash-lite",
+ "provider": "gemini",
+ "raw_text": "{\n  \"vendor\": \"LIGHTROOM GALLERY SDN BHD\",\n  \"date\": \"2017-11-20\",\n  \"subtotal\": 263.02,\n  \"tax\": 15.78,\n  \"tip\": null,\n  \"discount\": -0.20,\n  \"total\": 278.80,\n  \"currency\": \"MYR\",\n  \"confidence\": 0.98,\n  \"notes\": null\n}",
+ "data": {
+  "vendor": "LIGHTROOM GALLERY SDN BHD",
+  "date": "2017-11-20",
+  "subtotal": 263.02,
+  "tax": 15.78,
+  "tip": null,
+  "discount": -0.2,
+  "total": 278.8,
+  "currency": "MYR",
+  "confidence": 0.98,
+  "notes": null
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1469,
+  "output_tokens": 116,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.000541,
+ "latency_ms": 1480,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.1-flash-lite",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.1-flash-lite"
+ ],
+ "key": "X51005301666"
+}

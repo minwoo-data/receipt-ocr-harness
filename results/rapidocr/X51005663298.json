@@ -1,0 +1,322 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "318030",
+  "ALMENDIS-THE MINES",
+  "ZAWIAJAYA FOOD NBEVERAGESDNBHD",
+  "(1168272-U)",
+  "106-107,LEVEL1THE MINESMALL SERDANG",
+  "SRIKEMBANGAN,43300",
+  "SELANGOR DARULEHSAN",
+  "（GSTReg.No:001685499904)",
+  "TaxInvoice",
+  "Table 23",
+  "Order#:116455",
+  "Bj1l#:V001-515592 Pax(s): 2",
+  "Date:21-03-2018 13:29:51",
+  "Cashier:TAMEEM",
+  "EMS Ref:",
+  "180321142900_515592_bjc5691918+365",
+  "Description Qty U.price Total TAX",
+  "Maghgout Lamb w 1Sl",
+  "1x 22.50 22.50 SR",
+  "Garden Salad (S)",
+  "1x 5.90 5.90 SR",
+  "TEA POT BIG",
+  "1x 12.90 12.90 SR",
+  "Total (Excluding GST): 41.30",
+  "Serv.Charge (10%): 4.13",
+  "GST Payable: 2.73",
+  "Total(Inclusiveof GST): 48.16",
+  "Rounding Adj: -0.01",
+  "TOTAL: 48.15",
+  "Closed:011 21-03-2018 14:29:00",
+  "Server:TEMP STAFF",
+  "CASH : 50.00",
+  "CHANGE: 1.85",
+  "GST Summary Amount(RM) Tax(RM)",
+  "SR (@6%) 45.43 2.73",
+  "****ThankYou ****",
+  "Please Come Again",
+  "POWERED BYSISPOS.COM.MY"
+ ],
+ "tokens": [
+  {
+   "text": "318030",
+   "conf": 0.9951727787653605
+  },
+  {
+   "text": "ALMENDIS-THE MINES",
+   "conf": 0.9813224209679497
+  },
+  {
+   "text": "ZAWIAJAYA FOOD NBEVERAGESDNBHD",
+   "conf": 0.9599278926849365
+  },
+  {
+   "text": "(1168272-U)",
+   "conf": 0.9539663033051924
+  },
+  {
+   "text": "106-107,LEVEL1THE MINESMALL SERDANG",
+   "conf": 0.957669608933585
+  },
+  {
+   "text": "SRIKEMBANGAN,43300",
+   "conf": 0.9733162257406447
+  },
+  {
+   "text": "SELANGOR DARULEHSAN",
+   "conf": 0.966953318370016
+  },
+  {
+   "text": "（GSTReg.No:001685499904)",
+   "conf": 0.9534440562129021
+  },
+  {
+   "text": "TaxInvoice",
+   "conf": 0.9943390548229217
+  },
+  {
+   "text": "Table 23",
+   "conf": 0.9846766591072083
+  },
+  {
+   "text": "Order#:116455",
+   "conf": 0.9315954813590417
+  },
+  {
+   "text": "Bj1l#:V001-515592",
+   "conf": 0.9391239110161277
+  },
+  {
+   "text": "Pax(s): 2",
+   "conf": 0.9964402119318644
+  },
+  {
+   "text": "Date:21-03-2018 13:29:51",
+   "conf": 0.970127652088801
+  },
+  {
+   "text": "Cashier:TAMEEM",
+   "conf": 0.98686711703028
+  },
+  {
+   "text": "EMS Ref:",
+   "conf": 0.9392474889755249
+  },
+  {
+   "text": "180321142900_515592_bjc5691918+365",
+   "conf": 0.9825293018537409
+  },
+  {
+   "text": "Description",
+   "conf": 0.9969264268875122
+  },
+  {
+   "text": "Qty",
+   "conf": 0.9949747125307719
+  },
+  {
+   "text": "U.price",
+   "conf": 0.9975808433123997
+  },
+  {
+   "text": "Total TAX",
+   "conf": 0.944174071153005
+  },
+  {
+   "text": "Maghgout Lamb w 1Sl",
+   "conf": 0.9344103932380676
+  },
+  {
+   "text": "1x",
+   "conf": 0.7385980039834976
+  },
+  {
+   "text": "22.50",
+   "conf": 0.9999038815498352
+  },
+  {
+   "text": "22.50",
+   "conf": 0.9998746156692505
+  },
+  {
+   "text": "SR",
+   "conf": 0.9973132610321045
+  },
+  {
+   "text": "Garden Salad (S)",
+   "conf": 0.9814631640911102
+  },
+  {
+   "text": "1x",
+   "conf": 0.7418280839920044
+  },
+  {
+   "text": "5.90",
+   "conf": 0.9998292028903961
+  },
+  {
+   "text": "5.90",
+   "conf": 0.9995873868465424
+  },
+  {
+   "text": "SR",
+   "conf": 0.9990932941436768
+  },
+  {
+   "text": "TEA POT BIG",
+   "conf": 0.9189178510145708
+  },
+  {
+   "text": "1x",
+   "conf": 0.7539938986301422
+  },
+  {
+   "text": "12.90",
+   "conf": 0.9997308373451232
+  },
+  {
+   "text": "12.90",
+   "conf": 0.9997133016586304
+  },
+  {
+   "text": "SR",
+   "conf": 0.9980624914169312
+  },
+  {
+   "text": "Total (Excluding GST):",
+   "conf": 0.9261022697795521
+  },
+  {
+   "text": "41.30",
+   "conf": 0.9997696876525879
+  },
+  {
+   "text": "Serv.Charge (10%):",
+   "conf": 0.960860917965571
+  },
+  {
+   "text": "4.13",
+   "conf": 0.9993658810853958
+  },
+  {
+   "text": "GST Payable:",
+   "conf": 0.9540895173947016
+  },
+  {
+   "text": "2.73",
+   "conf": 0.9997544437646866
+  },
+  {
+   "text": "Total(Inclusiveof GST):",
+   "conf": 0.9259147851363473
+  },
+  {
+   "text": "48.16",
+   "conf": 0.9994773626327514
+  },
+  {
+   "text": "Rounding Adj:",
+   "conf": 0.9801489023061899
+  },
+  {
+   "text": "-0.01",
+   "conf": 0.9980271220207214
+  },
+  {
+   "text": "TOTAL:",
+   "conf": 0.9976661304632822
+  },
+  {
+   "text": "48.15",
+   "conf": 0.9999552011489868
+  },
+  {
+   "text": "Closed:011",
+   "conf": 0.9908626079559326
+  },
+  {
+   "text": "21-03-2018",
+   "conf": 0.9989300191402435
+  },
+  {
+   "text": "14:29:00",
+   "conf": 0.9894964098930359
+  },
+  {
+   "text": "Server:TEMP STAFF",
+   "conf": 0.9497957229614258
+  },
+  {
+   "text": "CASH :",
+   "conf": 0.9694201052188873
+  },
+  {
+   "text": "50.00",
+   "conf": 0.9999221682548523
+  },
+  {
+   "text": "CHANGE:",
+   "conf": 0.9634186284882682
+  },
+  {
+   "text": "1.85",
+   "conf": 0.9997216016054153
+  },
+  {
+   "text": "GST Summary",
+   "conf": 0.9868456125259399
+  },
+  {
+   "text": "Amount(RM)",
+   "conf": 0.9371377646923065
+  },
+  {
+   "text": "Tax(RM)",
+   "conf": 0.943904459476471
+  },
+  {
+   "text": "SR",
+   "conf": 0.9985621571540833
+  },
+  {
+   "text": "(@6%)",
+   "conf": 0.9391404390335083
+  },
+  {
+   "text": "45.43",
+   "conf": 0.999494481086731
+  },
+  {
+   "text": "2.73",
+   "conf": 0.9998937100172043
+  },
+  {
+   "text": "****ThankYou ****",
+   "conf": 0.8712415554944206
+  },
+  {
+   "text": "Please Come Again",
+   "conf": 0.9683124528211706
+  },
+  {
+   "text": "POWERED BYSISPOS.COM.MY",
+   "conf": 0.9656785467396611
+  }
+ ],
+ "mean_conf": 0.9648,
+ "low_conf_share": 0.0,
+ "latency_ms": 4176,
+ "fields": {
+  "company": "ALMENDIS THE MINES",
+  "date": "2018-03-21",
+  "total": 48.16
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  48.16
+ ],
+ "key": "X51005663298"
+}

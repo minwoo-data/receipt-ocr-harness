@@ -1,0 +1,311 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "TAXINVOICE",
+  "Eco-ShopMarketingSdnBhd",
+  "GSTReg.No:000313901056",
+  "CompanyNo:734055-M",
+  "LotF1-01,6,Jalan8/27A,",
+  "Seksyen 5Wangsa Maju,",
+  "53300KualaLumpur,",
+  "WilayahPersekutuanKuala",
+  "Lunpur,Malaysia.",
+  "INVNo#:BWMC02000047293",
+  "26/02/201817:31",
+  "CS:ROSSYAFIQAHANISBINTI",
+  "RAMLI[BWM0034]",
+  "STK QTY RM",
+  "JT5SO1-CHOPSTICKHOLDER",
+  "72/1",
+  "65045039@2.33 1 2.33",
+  "PLIERS6\"110G120PCS(PELAYAR",
+  "74020030@2.33 1 2.33",
+  "771-2MULTIPURPOSEFOOD",
+  "TONGS",
+  "63065005@2.33 3 6.99",
+  "LS301SCALESCRAPER-LARGE",
+  "360",
+  "63165004@2.33 1 2.33",
+  "PVCWALL.PLUG4'S240/10-(PLUG",
+  "74065001@2.33 1 2.33",
+  "Total: 7 16.31",
+  "Rounding Adj: -0.01",
+  "Balance Due: 16.30",
+  "Payment(Cash): 17.00",
+  "Change（Cash): 0.70",
+  "GSTSummary",
+  "SR 6% 15.40 0.91",
+  "ZR 0% 0.00 0.00",
+  "ProduceBill forExchange",
+  "Within3DaysNoCashRefund",
+  "****+Thankyou****x*",
+  "PleaseComeAgain"
+ ],
+ "tokens": [
+  {
+   "text": "TAXINVOICE",
+   "conf": 0.9975676715373993
+  },
+  {
+   "text": "Eco-ShopMarketingSdnBhd",
+   "conf": 0.9905789079873458
+  },
+  {
+   "text": "GSTReg.No:000313901056",
+   "conf": 0.9879676076498899
+  },
+  {
+   "text": "CompanyNo:734055-M",
+   "conf": 0.9864232606357999
+  },
+  {
+   "text": "LotF1-01,6,Jalan8/27A,",
+   "conf": 0.9098944948478178
+  },
+  {
+   "text": "Seksyen 5Wangsa Maju,",
+   "conf": 0.9425751992634365
+  },
+  {
+   "text": "53300KualaLumpur,",
+   "conf": 0.9679507192443398
+  },
+  {
+   "text": "WilayahPersekutuanKuala",
+   "conf": 0.9869996179705081
+  },
+  {
+   "text": "Lunpur,Malaysia.",
+   "conf": 0.949292253702879
+  },
+  {
+   "text": "INVNo#:BWMC02000047293",
+   "conf": 0.961200318553231
+  },
+  {
+   "text": "26/02/201817:31",
+   "conf": 0.9924587448438008
+  },
+  {
+   "text": "CS:ROSSYAFIQAHANISBINTI",
+   "conf": 0.9797217586766118
+  },
+  {
+   "text": "RAMLI[BWM0034]",
+   "conf": 0.9060235768556595
+  },
+  {
+   "text": "STK",
+   "conf": 0.9840361475944519
+  },
+  {
+   "text": "QTY",
+   "conf": 0.9835154414176941
+  },
+  {
+   "text": "RM",
+   "conf": 0.9891413748264313
+  },
+  {
+   "text": "JT5SO1-CHOPSTICKHOLDER",
+   "conf": 0.9419808739965613
+  },
+  {
+   "text": "72/1",
+   "conf": 0.9921798408031464
+  },
+  {
+   "text": "65045039@2.33",
+   "conf": 0.9967365539990939
+  },
+  {
+   "text": "1",
+   "conf": 0.9888101816177368
+  },
+  {
+   "text": "2.33",
+   "conf": 0.9971242845058441
+  },
+  {
+   "text": "PLIERS6\"110G120PCS(PELAYAR",
+   "conf": 0.9580544439645914
+  },
+  {
+   "text": "74020030@2.33",
+   "conf": 0.9959889145997854
+  },
+  {
+   "text": "1",
+   "conf": 0.9840438961982727
+  },
+  {
+   "text": "2.33",
+   "conf": 0.99583999812603
+  },
+  {
+   "text": "771-2MULTIPURPOSEFOOD",
+   "conf": 0.9741787683396113
+  },
+  {
+   "text": "TONGS",
+   "conf": 0.996394681930542
+  },
+  {
+   "text": "63065005@2.33",
+   "conf": 0.9968730211257935
+  },
+  {
+   "text": "3",
+   "conf": 0.9988928437232971
+  },
+  {
+   "text": "6.99",
+   "conf": 0.9973673224449158
+  },
+  {
+   "text": "LS301SCALESCRAPER-LARGE",
+   "conf": 0.9714253026506176
+  },
+  {
+   "text": "360",
+   "conf": 0.9987422823905945
+  },
+  {
+   "text": "63165004@2.33",
+   "conf": 0.9971886964944693
+  },
+  {
+   "text": "1",
+   "conf": 0.992676317691803
+  },
+  {
+   "text": "2.33",
+   "conf": 0.9966915100812912
+  },
+  {
+   "text": "PVCWALL.PLUG4'S240/10-(PLUG",
+   "conf": 0.9341650693504898
+  },
+  {
+   "text": "74065001@2.33",
+   "conf": 0.9953084725600022
+  },
+  {
+   "text": "1",
+   "conf": 0.993474543094635
+  },
+  {
+   "text": "2.33",
+   "conf": 0.99532151222229
+  },
+  {
+   "text": "Total:",
+   "conf": 0.9906345307826996
+  },
+  {
+   "text": "7",
+   "conf": 0.9972100853919983
+  },
+  {
+   "text": "16.31",
+   "conf": 0.9980632424354553
+  },
+  {
+   "text": "Rounding Adj:",
+   "conf": 0.9522533187499413
+  },
+  {
+   "text": "-0.01",
+   "conf": 0.9908574819564819
+  },
+  {
+   "text": "Balance Due:",
+   "conf": 0.971838523944219
+  },
+  {
+   "text": "16.30",
+   "conf": 0.9969327569007873
+  },
+  {
+   "text": "Payment(Cash):",
+   "conf": 0.9524818233081273
+  },
+  {
+   "text": "17.00",
+   "conf": 0.9982575893402099
+  },
+  {
+   "text": "Change（Cash):",
+   "conf": 0.9384313730093149
+  },
+  {
+   "text": "0.70",
+   "conf": 0.9978332817554474
+  },
+  {
+   "text": "GSTSummary",
+   "conf": 0.9933988332748414
+  },
+  {
+   "text": "SR",
+   "conf": 0.9948958456516266
+  },
+  {
+   "text": "6%",
+   "conf": 0.9975649118423462
+  },
+  {
+   "text": "15.40",
+   "conf": 0.996320652961731
+  },
+  {
+   "text": "0.91",
+   "conf": 0.9982666671276093
+  },
+  {
+   "text": "ZR",
+   "conf": 0.9531933963298798
+  },
+  {
+   "text": "0%",
+   "conf": 0.9741625785827637
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9982854574918747
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9986483454704285
+  },
+  {
+   "text": "ProduceBill forExchange",
+   "conf": 0.9757490883702817
+  },
+  {
+   "text": "Within3DaysNoCashRefund",
+   "conf": 0.9933712093726449
+  },
+  {
+   "text": "****+Thankyou****x*",
+   "conf": 0.7405248896071785
+  },
+  {
+   "text": "PleaseComeAgain",
+   "conf": 0.968620502948761
+  }
+ ],
+ "mean_conf": 0.9773,
+ "low_conf_share": 0.0,
+ "latency_ms": 6125,
+ "fields": {
+  "company": "ECO SHOPMARKETINGSDNBHD",
+  "date": "2018-02-26",
+  "total": 16.31
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  16.31
+ ],
+ "key": "X51006882603"
+}

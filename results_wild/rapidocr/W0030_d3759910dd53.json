@@ -1,0 +1,205 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "Balke",
+  "www.drips.com.sg",
+  "Tlong BahruEstate",
+  "82TlongPohRoad#01-05",
+  "Singapore 160082",
+  "Tel:62220400",
+  "RCT#4452",
+  "TERMINAL#1 ONLINE",
+  "20/08/12(MON) 12-46",
+  "STAFF:Alfred",
+  "Latte 2 $9.60",
+  "SKINNYB2",
+  "BlackberryAlmonkilart 1 $7.50",
+  "Crumbly AppleCrumble Tait 1 $750",
+  "DessertOfTheDay 1 $7.80",
+  ">CHOPORT",
+  "Cinnamon Pear Tart 1 $7.50",
+  "SUB TOTAL",
+  "TOTAL(5 Qty) $39.90",
+  "VISA",
+  "TOTALTENDERED $39.90",
+  "CHANGE $0.00",
+  "Have a nice day",
+  "Thank you",
+  "See vou soon"
+ ],
+ "tokens": [
+  {
+   "text": "Balke",
+   "conf": 0.7299689173698425
+  },
+  {
+   "text": "www.drips.com.sg",
+   "conf": 0.9916952699422836
+  },
+  {
+   "text": "Tlong BahruEstate",
+   "conf": 0.9618085517602808
+  },
+  {
+   "text": "82TlongPohRoad#01-05",
+   "conf": 0.948344586789608
+  },
+  {
+   "text": "Singapore 160082",
+   "conf": 0.9586190730333328
+  },
+  {
+   "text": "Tel:62220400",
+   "conf": 0.9911234130462011
+  },
+  {
+   "text": "RCT#4452",
+   "conf": 0.9273650050163269
+  },
+  {
+   "text": "TERMINAL#1",
+   "conf": 0.9791167438030243
+  },
+  {
+   "text": "ONLINE",
+   "conf": 0.9921375314394633
+  },
+  {
+   "text": "20/08/12(MON)",
+   "conf": 0.9377381985004132
+  },
+  {
+   "text": "12-46",
+   "conf": 0.8829225718975067
+  },
+  {
+   "text": "STAFF:Alfred",
+   "conf": 0.9217846319079399
+  },
+  {
+   "text": "Latte",
+   "conf": 0.9823311686515808
+  },
+  {
+   "text": "2",
+   "conf": 0.8107573390007019
+  },
+  {
+   "text": "$9.60",
+   "conf": 0.9668835520744323
+  },
+  {
+   "text": "SKINNYB2",
+   "conf": 0.9881694093346596
+  },
+  {
+   "text": "BlackberryAlmonkilart",
+   "conf": 0.8455424578416915
+  },
+  {
+   "text": "1",
+   "conf": 0.7083183526992798
+  },
+  {
+   "text": "$7.50",
+   "conf": 0.9432180881500244
+  },
+  {
+   "text": "Crumbly AppleCrumble Tait",
+   "conf": 0.9192199921607971
+  },
+  {
+   "text": "1",
+   "conf": 0.950212299823761
+  },
+  {
+   "text": "$750",
+   "conf": 0.9905052930116653
+  },
+  {
+   "text": "DessertOfTheDay",
+   "conf": 0.9533183693885803
+  },
+  {
+   "text": "1",
+   "conf": 0.8399677872657776
+  },
+  {
+   "text": "$7.80",
+   "conf": 0.9872038841247559
+  },
+  {
+   "text": ">CHOPORT",
+   "conf": 0.9683901891112328
+  },
+  {
+   "text": "Cinnamon Pear Tart",
+   "conf": 0.9611990253130595
+  },
+  {
+   "text": "1",
+   "conf": 0.9041644334793091
+  },
+  {
+   "text": "$7.50",
+   "conf": 0.9810549139976501
+  },
+  {
+   "text": "SUB TOTAL",
+   "conf": 0.9538499315579733
+  },
+  {
+   "text": "TOTAL(5 Qty)",
+   "conf": 0.930229385693868
+  },
+  {
+   "text": "$39.90",
+   "conf": 0.9971972107887268
+  },
+  {
+   "text": "VISA",
+   "conf": 0.8669216483831406
+  },
+  {
+   "text": "TOTALTENDERED",
+   "conf": 0.992896896142226
+  },
+  {
+   "text": "$39.90",
+   "conf": 0.998496929804484
+  },
+  {
+   "text": "CHANGE",
+   "conf": 0.9936955769856771
+  },
+  {
+   "text": "$0.00",
+   "conf": 0.9934328317642211
+  },
+  {
+   "text": "Have a nice day",
+   "conf": 0.9297492186228434
+  },
+  {
+   "text": "Thank you",
+   "conf": 0.9409283167786069
+  },
+  {
+   "text": "See vou soon",
+   "conf": 0.9190204044183096
+  }
+ ],
+ "mean_conf": 0.936,
+ "low_conf_share": 0.0,
+ "latency_ms": 4383,
+ "fields": {
+  "company": "BALKE",
+  "date": "2012-08-20",
+  "total": 39.9
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  39.9
+ ],
+ "key": "W0030_d3759910dd53"
+}

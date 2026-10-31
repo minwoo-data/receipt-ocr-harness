@@ -1,0 +1,205 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  ": Casey's General",
+  "Store #1695",
+  "2803 SOUTH MARKET STR",
+  "SOLON, IA 52333",
+  "Date 61/16/2615",
+  "Time 65:51",
+  "Ax",
+  "HHHHHHHHHHH 1665",
+  "Pump Gallons Price",
+  "63 2.965 Ss 1.899",
+  "Product Anount",
+  "SUPER & 4.686",
+  "Total Sale & 4.68",
+  "SALE - Card Swiped",
+  "Auth # 5BS8747"
+ ],
+ "tokens": [
+  {
+   "text": ":",
+   "conf": 0.76
+  },
+  {
+   "text": "Casey's",
+   "conf": 0.63
+  },
+  {
+   "text": "General",
+   "conf": 0.95
+  },
+  {
+   "text": "Store",
+   "conf": 0.95
+  },
+  {
+   "text": "#1695",
+   "conf": 0.95
+  },
+  {
+   "text": "2803",
+   "conf": 0.69
+  },
+  {
+   "text": "SOUTH",
+   "conf": 0.95
+  },
+  {
+   "text": "MARKET",
+   "conf": 0.96
+  },
+  {
+   "text": "STR",
+   "conf": 0.96
+  },
+  {
+   "text": "SOLON,",
+   "conf": 0.93
+  },
+  {
+   "text": "IA",
+   "conf": 0.91
+  },
+  {
+   "text": "52333",
+   "conf": 0.54
+  },
+  {
+   "text": "Date",
+   "conf": 0.96
+  },
+  {
+   "text": "61/16/2615",
+   "conf": 0.91
+  },
+  {
+   "text": "Time",
+   "conf": 0.95
+  },
+  {
+   "text": "65:51",
+   "conf": 0.94
+  },
+  {
+   "text": "Ax",
+   "conf": 0.65
+  },
+  {
+   "text": "HHHHHHHHHHH",
+   "conf": 0.28
+  },
+  {
+   "text": "1665",
+   "conf": 0.76
+  },
+  {
+   "text": "Pump",
+   "conf": 0.94
+  },
+  {
+   "text": "Gallons",
+   "conf": 0.95
+  },
+  {
+   "text": "Price",
+   "conf": 0.92
+  },
+  {
+   "text": "63",
+   "conf": 0.58
+  },
+  {
+   "text": "2.965",
+   "conf": 0.84
+  },
+  {
+   "text": "Ss",
+   "conf": 0.41
+  },
+  {
+   "text": "1.899",
+   "conf": 0.91
+  },
+  {
+   "text": "Product",
+   "conf": 0.95
+  },
+  {
+   "text": "Anount",
+   "conf": 0.88
+  },
+  {
+   "text": "SUPER",
+   "conf": 0.95
+  },
+  {
+   "text": "&",
+   "conf": 0.37
+  },
+  {
+   "text": "4.686",
+   "conf": 0.74
+  },
+  {
+   "text": "Total",
+   "conf": 0.95
+  },
+  {
+   "text": "Sale",
+   "conf": 0.95
+  },
+  {
+   "text": "&",
+   "conf": 0.6
+  },
+  {
+   "text": "4.68",
+   "conf": 0.9
+  },
+  {
+   "text": "SALE",
+   "conf": 0.93
+  },
+  {
+   "text": "-",
+   "conf": 0.59
+  },
+  {
+   "text": "Card",
+   "conf": 0.91
+  },
+  {
+   "text": "Swiped",
+   "conf": 0.9
+  },
+  {
+   "text": "Auth",
+   "conf": 0.93
+  },
+  {
+   "text": "#",
+   "conf": 0.92
+  },
+  {
+   "text": "5BS8747",
+   "conf": 0.19
+  }
+ ],
+ "mean_conf": 0.8057,
+ "low_conf_share": 0.0952,
+ "latency_ms": 3089,
+ "fields": {
+  "company": "CASEY S GENERAL STORE 1695",
+  "date": null,
+  "total": 4.68
+ },
+ "rule_reasons": [
+  "date_not_found"
+ ],
+ "total_candidates": [
+  4.68
+ ],
+ "key": "W0117_84d2de82bf37"
+}

@@ -1,0 +1,268 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "118MJ MOOKATAHOUSE",
+  "NO.7G, Jalan Permas 11,",
+  "Bandar Baru Permas Jaya,",
+  "81750 Masai, Johor.",
+  "+6017-4130144",
+  "Date: 11-06-2018 07:23:28 PM",
+  "Table No.: 12",
+  "TAX INVOICE",
+  "(Receipt No.: REC-003763)",
+  "QTY ITEM PRICE TOTAL",
+  "(RM) (RM)",
+  "1x Set 48.00 48.00",
+  "B-Soup",
+  "1x Herbal 5.00 5.00",
+  "Chicken",
+  "1x Salted 5.00 5.00",
+  "Egg Dumplings",
+  "1x 5.00 5.00",
+  "1x Thai 4.90 4.90",
+  "Coffee",
+  "2x BEER (C) 16.00 32.00",
+  "1x Luo 2.50 2.50",
+  "Han Guo",
+  "Total 102.40",
+  "Bef. Rounding 102.40",
+  "Change 0.00",
+  "ThankYou & Please Come Again",
+  "[www.facebook.com/118MJMookataHouse]"
+ ],
+ "tokens": [
+  {
+   "text": "118MJ MOOKATAHOUSE",
+   "conf": 0.9592230982250638
+  },
+  {
+   "text": "NO.7G, Jalan Permas 11,",
+   "conf": 0.9882632312567338
+  },
+  {
+   "text": "Bandar Baru Permas Jaya,",
+   "conf": 0.9686223442355791
+  },
+  {
+   "text": "81750 Masai, Johor.",
+   "conf": 0.9762620110260812
+  },
+  {
+   "text": "+6017-4130144",
+   "conf": 0.9996914771886972
+  },
+  {
+   "text": "Date: 11-06-2018 07:23:28 PM",
+   "conf": 0.971340319940022
+  },
+  {
+   "text": "Table No.: 12",
+   "conf": 0.9744097131949204
+  },
+  {
+   "text": "TAX INVOICE",
+   "conf": 0.9836212667551908
+  },
+  {
+   "text": "(Receipt No.: REC-003763)",
+   "conf": 0.9880722332000732
+  },
+  {
+   "text": "QTY",
+   "conf": 0.9978722731272379
+  },
+  {
+   "text": "ITEM",
+   "conf": 0.9962742626667023
+  },
+  {
+   "text": "PRICE",
+   "conf": 0.9969919919967651
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.9977688431739807
+  },
+  {
+   "text": "(RM)",
+   "conf": 0.9912524968385696
+  },
+  {
+   "text": "(RM)",
+   "conf": 0.992914542555809
+  },
+  {
+   "text": "1x",
+   "conf": 0.9380224347114563
+  },
+  {
+   "text": "Set",
+   "conf": 0.998267412185669
+  },
+  {
+   "text": "48.00",
+   "conf": 0.9998955845832824
+  },
+  {
+   "text": "48.00",
+   "conf": 0.999566912651062
+  },
+  {
+   "text": "B-Soup",
+   "conf": 0.9970796406269073
+  },
+  {
+   "text": "1x",
+   "conf": 0.9341271221637726
+  },
+  {
+   "text": "Herbal",
+   "conf": 0.9948508739471436
+  },
+  {
+   "text": "5.00",
+   "conf": 0.9997770637273788
+  },
+  {
+   "text": "5.00",
+   "conf": 0.9997296035289764
+  },
+  {
+   "text": "Chicken",
+   "conf": 0.998097973210471
+  },
+  {
+   "text": "1x",
+   "conf": 0.959623247385025
+  },
+  {
+   "text": "Salted",
+   "conf": 0.9953821102778116
+  },
+  {
+   "text": "5.00",
+   "conf": 0.9997639656066895
+  },
+  {
+   "text": "5.00",
+   "conf": 0.9997715055942535
+  },
+  {
+   "text": "Egg Dumplings",
+   "conf": 0.9977467197638291
+  },
+  {
+   "text": "1x",
+   "conf": 0.9167664647102356
+  },
+  {
+   "text": "5.00",
+   "conf": 0.999688059091568
+  },
+  {
+   "text": "5.00",
+   "conf": 0.9991122037172318
+  },
+  {
+   "text": "1x",
+   "conf": 0.930642306804657
+  },
+  {
+   "text": "Thai",
+   "conf": 0.9976361095905304
+  },
+  {
+   "text": "4.90",
+   "conf": 0.9997936636209488
+  },
+  {
+   "text": "4.90",
+   "conf": 0.9995104223489761
+  },
+  {
+   "text": "Coffee",
+   "conf": 0.9987969100475311
+  },
+  {
+   "text": "2x",
+   "conf": 0.9096339344978333
+  },
+  {
+   "text": "BEER (C)",
+   "conf": 0.9968033730983734
+  },
+  {
+   "text": "16.00",
+   "conf": 0.999748945236206
+  },
+  {
+   "text": "32.00",
+   "conf": 0.9997113227844239
+  },
+  {
+   "text": "1x",
+   "conf": 0.9547310471534729
+  },
+  {
+   "text": "Luo",
+   "conf": 0.9900513887405396
+  },
+  {
+   "text": "2.50",
+   "conf": 0.9998117834329605
+  },
+  {
+   "text": "2.50",
+   "conf": 0.9996897578239441
+  },
+  {
+   "text": "Han Guo",
+   "conf": 0.9706536957195827
+  },
+  {
+   "text": "Total",
+   "conf": 0.9979336500167847
+  },
+  {
+   "text": "102.40",
+   "conf": 0.9998475015163422
+  },
+  {
+   "text": "Bef. Rounding",
+   "conf": 0.9598240302159236
+  },
+  {
+   "text": "102.40",
+   "conf": 0.9998487035433451
+  },
+  {
+   "text": "Change",
+   "conf": 0.9979488948980967
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9994463324546814
+  },
+  {
+   "text": "ThankYou & Please Come Again",
+   "conf": 0.9529060806546893
+  },
+  {
+   "text": "[www.facebook.com/118MJMookataHouse]",
+   "conf": 0.9827987021870084
+  }
+ ],
+ "mean_conf": 0.9845,
+ "low_conf_share": 0.0,
+ "latency_ms": 4546,
+ "fields": {
+  "company": "NO 7G JALAN PERMAS 11",
+  "date": "2018-06-11",
+  "total": 102.4
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  102.4
+ ],
+ "key": "X51007846361"
+}

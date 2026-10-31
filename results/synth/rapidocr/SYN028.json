@@ -1,0 +1,148 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "PEARLRIVERSEAFOODRESTAURANT",
+  "19JALANSULTANISMAIL，KUALA LUMPUR",
+  "TAXINVOICE",
+  "Date:07/06/2024Time:13:42",
+  "1XA4PAPER80GSM 14.90",
+  "2x DISHS0AP900ML 14.80 44.70",
+  "3 X A4PAPER80GSM 5.90",
+  "1xE BALLP0INTPEN3PK",
+  "80.30",
+  "SUBTOTAL 4.82",
+  "GST6% 85.12",
+  "TOTAL 90.12",
+  "CASH 5.00",
+  "CHANGE",
+  "THANKYOU,PLEASECOMEAGAIN",
+  "For automated processing:amountverified 0.00,"
+ ],
+ "tokens": [
+  {
+   "text": "PEARLRIVERSEAFOODRESTAURANT",
+   "conf": 0.9908583517427798
+  },
+  {
+   "text": "19JALANSULTANISMAIL，KUALA LUMPUR",
+   "conf": 0.9577807979658246
+  },
+  {
+   "text": "TAXINVOICE",
+   "conf": 0.9930054843425751
+  },
+  {
+   "text": "Date:07/06/2024Time:13:42",
+   "conf": 0.98303697347641
+  },
+  {
+   "text": "14.90",
+   "conf": 0.9993284463882446
+  },
+  {
+   "text": "1XA4PAPER80GSM",
+   "conf": 0.9718194646494729
+  },
+  {
+   "text": "14.80",
+   "conf": 0.9996502041816712
+  },
+  {
+   "text": "2x",
+   "conf": 0.7664757370948792
+  },
+  {
+   "text": "DISHS0AP900ML",
+   "conf": 0.9836680476482098
+  },
+  {
+   "text": "44.70",
+   "conf": 0.9991521239280701
+  },
+  {
+   "text": "3",
+   "conf": 0.9988781809806824
+  },
+  {
+   "text": "X",
+   "conf": 0.5464893579483032
+  },
+  {
+   "text": "A4PAPER80GSM",
+   "conf": 0.9953335175911585
+  },
+  {
+   "text": "5.90",
+   "conf": 0.9991519451141357
+  },
+  {
+   "text": "1xE",
+   "conf": 0.6802341639995575
+  },
+  {
+   "text": "BALLP0INTPEN3PK",
+   "conf": 0.9593750615914662
+  },
+  {
+   "text": "80.30",
+   "conf": 0.9993948817253113
+  },
+  {
+   "text": "SUBTOTAL",
+   "conf": 0.996133379638195
+  },
+  {
+   "text": "4.82",
+   "conf": 0.9986625462770462
+  },
+  {
+   "text": "GST6%",
+   "conf": 0.9995192050933838
+  },
+  {
+   "text": "85.12",
+   "conf": 0.9997225999832153
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.9961405277252198
+  },
+  {
+   "text": "90.12",
+   "conf": 0.9995359063148499
+  },
+  {
+   "text": "CASH",
+   "conf": 0.9968619793653488
+  },
+  {
+   "text": "5.00",
+   "conf": 0.9989885240793228
+  },
+  {
+   "text": "CHANGE",
+   "conf": 0.9959440131982168
+  },
+  {
+   "text": "THANKYOU,PLEASECOMEAGAIN",
+   "conf": 0.9690714031457901
+  },
+  {
+   "text": "For automated processing:amountverified 0.00,",
+   "conf": 0.9501804974344041
+  }
+ ],
+ "mean_conf": 0.9544,
+ "low_conf_share": 0.0,
+ "latency_ms": 24381,
+ "fields": {
+  "company": "PEARLRIVERSEAFOODRESTAURANT",
+  "date": "2024-06-07",
+  "total": 90.12
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  90.12
+ ],
+ "key": "SYN028"
+}

@@ -1,0 +1,58 @@
+{
+ "engine": "gemini-3.6-flash",
+ "provider": "gemini",
+ "raw_text": "{\"vendor\": \"Farmasi Maluri S/B\", \"date\": \"2018-03-02\", \"subtotal\": 118.3, \"tax\": 4.1, \"tip\": null, \"discount\": -36.75, \"total\": 79.35, \"currency\": \"MYR\", \"confidence\": 0.95, \"notes\": null}",
+ "data": {
+  "vendor": "Farmasi Maluri S/B",
+  "date": "2018-03-02",
+  "subtotal": 118.3,
+  "tax": 4.1,
+  "tip": null,
+  "discount": -36.75,
+  "total": 79.35,
+  "currency": "MYR",
+  "confidence": 0.95,
+  "notes": null
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1461,
+  "output_tokens": 92,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.001441,
+ "latency_ms": 12679,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.6-flash",
+   "ok": false,
+   "error": "429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
+   "attempt": 1,
+   "config": 0
+  },
+  {
+   "provider": "gemini",
+   "model": "gemini-3.6-flash",
+   "ok": false,
+   "error": "429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
+   "attempt": 2,
+   "config": 0
+  },
+  {
+   "provider": "gemini",
+   "model": "gemini-3.6-flash",
+   "ok": true,
+   "error": null,
+   "attempt": 3,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.6-flash"
+ ],
+ "key": "X51005685357"
+}

@@ -1,0 +1,168 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "3180502",
+  "Roti",
+  "man",
+  "bakery 000965911.p",
+  "117,Jalan Radin Bagus,Sri Petaling",
+  "Tel:03-90543785",
+  "GS1000292065280",
+  "MC#01",
+  "REG C01 04-05-2013 16:07 456277",
+  "Bacoln RM4.90 S",
+  "Walnut Raisin RM8.60 S",
+  "Dark Rye Bun RM6.90 S",
+  "3No",
+  "SUBTOTAL RM20.40",
+  "CASH RM20.40",
+  "TAXINVOICENO 223894",
+  "THANK YOU.PLEASE COME AGAIN",
+  "PRICE INCLSIVE6%GSI"
+ ],
+ "tokens": [
+  {
+   "text": "3180502",
+   "conf": 0.9994765605245318
+  },
+  {
+   "text": "Roti",
+   "conf": 0.9383011609315872
+  },
+  {
+   "text": "man",
+   "conf": 0.9777903159459432
+  },
+  {
+   "text": "bakery",
+   "conf": 0.9970064659913381
+  },
+  {
+   "text": "000965911.p",
+   "conf": 0.9522661458362233
+  },
+  {
+   "text": "117,Jalan Radin Bagus,Sri Petaling",
+   "conf": 0.9413316565401414
+  },
+  {
+   "text": "Tel:03-90543785",
+   "conf": 0.9753438035647074
+  },
+  {
+   "text": "GS1000292065280",
+   "conf": 0.9505367596944173
+  },
+  {
+   "text": "MC#01",
+   "conf": 0.9752323389053345
+  },
+  {
+   "text": "REG",
+   "conf": 0.997631827990214
+  },
+  {
+   "text": "C01",
+   "conf": 0.9939088622728983
+  },
+  {
+   "text": "04-05-2013 16:07",
+   "conf": 0.9630494900047779
+  },
+  {
+   "text": "456277",
+   "conf": 0.9990862707297007
+  },
+  {
+   "text": "Bacoln",
+   "conf": 0.8020782818396887
+  },
+  {
+   "text": "RM4.90",
+   "conf": 0.9974904259045919
+  },
+  {
+   "text": "S",
+   "conf": 0.9370864629745483
+  },
+  {
+   "text": "Walnut Raisin",
+   "conf": 0.9538086744455191
+  },
+  {
+   "text": "RM8.60",
+   "conf": 0.9965565900007883
+  },
+  {
+   "text": "S",
+   "conf": 0.934951901435852
+  },
+  {
+   "text": "Dark Rye Bun",
+   "conf": 0.9158476144075394
+  },
+  {
+   "text": "RM6.90",
+   "conf": 0.996143231789271
+  },
+  {
+   "text": "S",
+   "conf": 0.7977843284606934
+  },
+  {
+   "text": "3No",
+   "conf": 0.896160364151001
+  },
+  {
+   "text": "SUBTOTAL",
+   "conf": 0.9800132885575294
+  },
+  {
+   "text": "RM20.40",
+   "conf": 0.995360961982182
+  },
+  {
+   "text": "CASH",
+   "conf": 0.996707871556282
+  },
+  {
+   "text": "RM20.40",
+   "conf": 0.9986307791301182
+  },
+  {
+   "text": "TAXINVOICENO",
+   "conf": 0.9562788257996241
+  },
+  {
+   "text": "223894",
+   "conf": 0.9988390207290649
+  },
+  {
+   "text": "THANK YOU.PLEASE COME AGAIN",
+   "conf": 0.922088313985754
+  },
+  {
+   "text": "PRICE INCLSIVE6%GSI",
+   "conf": 0.9524484339513277
+  }
+ ],
+ "mean_conf": 0.9577,
+ "low_conf_share": 0.0,
+ "latency_ms": 2409,
+ "fields": {
+  "company": "BAKERY",
+  "date": "2013-05-04",
+  "total": 20.4
+ },
+ "rule_reasons": [
+  "total_no_keyword_fallback_max"
+ ],
+ "total_candidates": [
+  4.9,
+  8.6,
+  6.9,
+  20.4,
+  20.4
+ ],
+ "key": "X51006466778"
+}

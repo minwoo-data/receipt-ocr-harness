@@ -1,0 +1,170 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "3180203",
+  "WESTERNEASTERN",
+  "STATIONERYSDN.BHD",
+  "COREGN0:210038-K",
+  "GSTID:000517095424",
+  "42-46,JLNSULTAN AZLAN",
+  "SHAH51200 KUALALUMPUR",
+  "TEL:03-40437678",
+  "TAXINVOICE",
+  "REG 26-02-2018 14:27",
+  "C01 KL001 035857",
+  "CLRP.SA4/A3",
+  "S RM7.42",
+  "1No",
+  "GST TAAMT RM7.00",
+  "GST6% RM0.42",
+  "TOTAL RM7.42",
+  "ROUNDING -0.02",
+  "CASH RM7.40",
+  "TAX INVOICE OFGSI",
+  "GOODS SOLD ARE NOT",
+  "RETURNABLE"
+ ],
+ "tokens": [
+  {
+   "text": "3180203",
+   "conf": 0.9996101175035749
+  },
+  {
+   "text": "WESTERNEASTERN",
+   "conf": 0.9624859264918736
+  },
+  {
+   "text": "STATIONERYSDN.BHD",
+   "conf": 0.9895970260395723
+  },
+  {
+   "text": "COREGN0:210038-K",
+   "conf": 0.9545253850519657
+  },
+  {
+   "text": "GSTID:000517095424",
+   "conf": 0.9606183403068118
+  },
+  {
+   "text": "42-46,JLNSULTAN AZLAN",
+   "conf": 0.9561823351042611
+  },
+  {
+   "text": "SHAH51200 KUALALUMPUR",
+   "conf": 0.9656228167670113
+  },
+  {
+   "text": "TEL:03-40437678",
+   "conf": 0.9879087328910827
+  },
+  {
+   "text": "TAXINVOICE",
+   "conf": 0.9925471603870392
+  },
+  {
+   "text": "REG",
+   "conf": 0.9906808137893677
+  },
+  {
+   "text": "26-02-2018",
+   "conf": 0.9978472590446472
+  },
+  {
+   "text": "14:27",
+   "conf": 0.9756402492523193
+  },
+  {
+   "text": "C01",
+   "conf": 0.9843942523002625
+  },
+  {
+   "text": "KL001",
+   "conf": 0.9904166221618652
+  },
+  {
+   "text": "035857",
+   "conf": 0.9991934498151144
+  },
+  {
+   "text": "CLRP.SA4/A3",
+   "conf": 0.9903689893809232
+  },
+  {
+   "text": "S",
+   "conf": 0.9239360690116882
+  },
+  {
+   "text": "RM7.42",
+   "conf": 0.9961013694604238
+  },
+  {
+   "text": "1No",
+   "conf": 0.9725042978922526
+  },
+  {
+   "text": "GST TAAMT",
+   "conf": 0.9435593750741746
+  },
+  {
+   "text": "RM7.00",
+   "conf": 0.9966692129770914
+  },
+  {
+   "text": "GST6%",
+   "conf": 0.9972251296043396
+  },
+  {
+   "text": "RM0.42",
+   "conf": 0.9626434842745463
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.9944434523582458
+  },
+  {
+   "text": "RM7.42",
+   "conf": 0.9854867259661356
+  },
+  {
+   "text": "ROUNDING",
+   "conf": 0.9959326162934303
+  },
+  {
+   "text": "-0.02",
+   "conf": 0.9971930503845214
+  },
+  {
+   "text": "CASH",
+   "conf": 0.9960802495479584
+  },
+  {
+   "text": "RM7.40",
+   "conf": 0.9970604280630747
+  },
+  {
+   "text": "TAX INVOICE OFGSI",
+   "conf": 0.9126056292477776
+  },
+  {
+   "text": "GOODS SOLD ARE NOT",
+   "conf": 0.961705893278122
+  },
+  {
+   "text": "RETURNABLE",
+   "conf": 0.99341921210289
+  }
+ ],
+ "mean_conf": 0.9789,
+ "low_conf_share": 0.0,
+ "latency_ms": 4582,
+ "fields": {
+  "company": "WESTERNEASTERN STATIONERYSDN BHD",
+  "date": "2018-02-26",
+  "total": 7.42
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  7.42
+ ],
+ "key": "X51005684949"
+}

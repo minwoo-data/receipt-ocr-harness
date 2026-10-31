@@ -1,0 +1,189 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "3180301",
+  "SECURE PARKING",
+  "CORPORATIONS/B",
+  "Riverwalk Village",
+  "Batu3，Jalanlpoh",
+  "51200KL.",
+  "GSTNo.000296652800",
+  "TEL No:1300881698",
+  "RECEIPT C13",
+  "Receipt Number:",
+  "K0131800235697",
+  "ENTRY IIME:",
+  "23.03.18 14:59",
+  "EXITTIME:",
+  "23.03.18 15:27",
+  "PARK-DUR.:D:HH:MM",
+  "82:00:0",
+  "KIND OFPAYMINT:",
+  "CASH",
+  "Parking Fee RM",
+  "0.94",
+  "Add GSI RM",
+  "0.06",
+  "AMT RM",
+  "1.00",
+  "#Rateincl.6GST",
+  "THANK YUU FOR YOUR",
+  "VISIT"
+ ],
+ "tokens": [
+  {
+   "text": "3180301",
+   "conf": 0.9999144758496966
+  },
+  {
+   "text": "SECURE PARKING",
+   "conf": 0.9707934090069362
+  },
+  {
+   "text": "CORPORATIONS/B",
+   "conf": 0.9926082406725202
+  },
+  {
+   "text": "Riverwalk Village",
+   "conf": 0.9639325282152962
+  },
+  {
+   "text": "Batu3，Jalanlpoh",
+   "conf": 0.9389615853627523
+  },
+  {
+   "text": "51200KL.",
+   "conf": 0.9169197641313076
+  },
+  {
+   "text": "GSTNo.000296652800",
+   "conf": 0.957341257068846
+  },
+  {
+   "text": "TEL No:1300881698",
+   "conf": 0.9736173117862028
+  },
+  {
+   "text": "RECEIPT",
+   "conf": 0.9919961520603725
+  },
+  {
+   "text": "C13",
+   "conf": 0.9915518164634705
+  },
+  {
+   "text": "Receipt Number:",
+   "conf": 0.9530548016230266
+  },
+  {
+   "text": "K0131800235697",
+   "conf": 0.9868605520044055
+  },
+  {
+   "text": "ENTRY IIME:",
+   "conf": 0.9286038333719427
+  },
+  {
+   "text": "23.03.18",
+   "conf": 0.9985198900103569
+  },
+  {
+   "text": "14:59",
+   "conf": 0.9830706715583801
+  },
+  {
+   "text": "EXITTIME:",
+   "conf": 0.9661111699210273
+  },
+  {
+   "text": "23.03.18",
+   "conf": 0.9952775686979294
+  },
+  {
+   "text": "15:27",
+   "conf": 0.9895295143127442
+  },
+  {
+   "text": "PARK-DUR.:D:HH:MM",
+   "conf": 0.9676365431617288
+  },
+  {
+   "text": "82:00:0",
+   "conf": 0.975869357585907
+  },
+  {
+   "text": "KIND OFPAYMINT:",
+   "conf": 0.8028380413850148
+  },
+  {
+   "text": "CASH",
+   "conf": 0.9977929145097733
+  },
+  {
+   "text": "Parking Fee",
+   "conf": 0.9631167216734453
+  },
+  {
+   "text": "RM",
+   "conf": 0.9962311387062073
+  },
+  {
+   "text": "0.94",
+   "conf": 0.9898584336042404
+  },
+  {
+   "text": "Add GSI",
+   "conf": 0.8874833243233817
+  },
+  {
+   "text": "RM",
+   "conf": 0.9946954846382141
+  },
+  {
+   "text": "0.06",
+   "conf": 0.9923601597547531
+  },
+  {
+   "text": "AMT",
+   "conf": 0.9924079179763794
+  },
+  {
+   "text": "RM",
+   "conf": 0.9916439652442932
+  },
+  {
+   "text": "1.00",
+   "conf": 0.8930882811546326
+  },
+  {
+   "text": "#Rateincl.6GST",
+   "conf": 0.9233486694949014
+  },
+  {
+   "text": "THANK YUU FOR YOUR",
+   "conf": 0.8905336691273583
+  },
+  {
+   "text": "VISIT",
+   "conf": 0.8602461636066436
+  }
+ ],
+ "mean_conf": 0.9593,
+ "low_conf_share": 0.0,
+ "latency_ms": 3045,
+ "fields": {
+  "company": "SECURE PARKING",
+  "date": "2018-03-23",
+  "total": 23.03
+ },
+ "rule_reasons": [
+  "total_no_keyword_fallback_max"
+ ],
+ "total_candidates": [
+  23.03,
+  0.94,
+  0.06,
+  1.0
+ ],
+ "key": "X51005288570"
+}

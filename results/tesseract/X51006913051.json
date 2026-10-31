@@ -1,0 +1,541 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "LOT 211082111 JALAN PERMAS UTARA",
+  "| BANDAR BARU PERMAS |",
+  "81750 JOHOR BAHRU JOHOR | |",
+  "Tel 07-3886820 :",
+  "GST ID No GO2069884028",
+  "TAX INVOICE ;",
+  "S341 8055885 41/05/2018",
+  ": S/F: POS Loc: PMS |",
+  "m ) Waik In .",
+  "Table 27",
+  "ten Qty U.Price | Disc Amount",
+  "711 WM TUNA",
+  "4 6.00 0.Q0 5.00 8",
+  "224 CANTONESE ,",
+  "| 4 16.00 0.00 10.00 5 . )",
+  "2202 T/A KAMPUNG",
+  "4 10.40 0.00 10.40 5",
+  "a04 KOPF] - HOT |",
+  "z 280 0.00 5.60 5 |",
+  "Totai ltams: 4",
+  ") Sub Total: \"34.00",
+  "Less Discount 0.00",
+  "Round: 0.00 |",
+  "Total Bue (GST Ine): 31.00",
+  "Paid: oe | 571.00",
+  "Change: 20.00 |",
+  "S:G5T(6%) 29.24 1.76 2 |",
+  "Please Come Again! ,",
+  "11/08/2018 08:35:58 pm"
+ ],
+ "tokens": [
+  {
+   "text": "LOT",
+   "conf": 0.93
+  },
+  {
+   "text": "211082111",
+   "conf": 0.91
+  },
+  {
+   "text": "JALAN",
+   "conf": 0.93
+  },
+  {
+   "text": "PERMAS",
+   "conf": 0.91
+  },
+  {
+   "text": "UTARA",
+   "conf": 0.87
+  },
+  {
+   "text": "|",
+   "conf": 0.61
+  },
+  {
+   "text": "BANDAR",
+   "conf": 0.91
+  },
+  {
+   "text": "BARU",
+   "conf": 0.91
+  },
+  {
+   "text": "PERMAS",
+   "conf": 0.91
+  },
+  {
+   "text": "|",
+   "conf": 0.63
+  },
+  {
+   "text": "81750",
+   "conf": 0.93
+  },
+  {
+   "text": "JOHOR",
+   "conf": 0.92
+  },
+  {
+   "text": "BAHRU",
+   "conf": 0.91
+  },
+  {
+   "text": "JOHOR",
+   "conf": 0.96
+  },
+  {
+   "text": "|",
+   "conf": 0.52
+  },
+  {
+   "text": "|",
+   "conf": 0.33
+  },
+  {
+   "text": "Tel",
+   "conf": 0.79
+  },
+  {
+   "text": "07-3886820",
+   "conf": 0.52
+  },
+  {
+   "text": ":",
+   "conf": 0.0
+  },
+  {
+   "text": "GST",
+   "conf": 0.77
+  },
+  {
+   "text": "ID",
+   "conf": 0.77
+  },
+  {
+   "text": "No",
+   "conf": 0.84
+  },
+  {
+   "text": "GO2069884028",
+   "conf": 0.16
+  },
+  {
+   "text": "TAX",
+   "conf": 0.96
+  },
+  {
+   "text": "INVOICE",
+   "conf": 0.01
+  },
+  {
+   "text": ";",
+   "conf": 0.21
+  },
+  {
+   "text": "S341",
+   "conf": 0.12
+  },
+  {
+   "text": "8055885",
+   "conf": 0.12
+  },
+  {
+   "text": "41/05/2018",
+   "conf": 0.81
+  },
+  {
+   "text": ":",
+   "conf": 0.36
+  },
+  {
+   "text": "S/F:",
+   "conf": 0.9
+  },
+  {
+   "text": "POS",
+   "conf": 0.93
+  },
+  {
+   "text": "Loc:",
+   "conf": 0.9
+  },
+  {
+   "text": "PMS",
+   "conf": 0.96
+  },
+  {
+   "text": "|",
+   "conf": 0.28
+  },
+  {
+   "text": "m",
+   "conf": 0.0
+  },
+  {
+   "text": ")",
+   "conf": 0.11
+  },
+  {
+   "text": "Waik",
+   "conf": 0.91
+  },
+  {
+   "text": "In",
+   "conf": 0.92
+  },
+  {
+   "text": ".",
+   "conf": 0.11
+  },
+  {
+   "text": "Table",
+   "conf": 0.58
+  },
+  {
+   "text": "27",
+   "conf": 0.43
+  },
+  {
+   "text": "ten",
+   "conf": 0.0
+  },
+  {
+   "text": "Qty",
+   "conf": 0.1
+  },
+  {
+   "text": "U.Price",
+   "conf": 0.9
+  },
+  {
+   "text": "|",
+   "conf": 0.55
+  },
+  {
+   "text": "Disc",
+   "conf": 0.55
+  },
+  {
+   "text": "Amount",
+   "conf": 0.93
+  },
+  {
+   "text": "711",
+   "conf": 0.85
+  },
+  {
+   "text": "WM",
+   "conf": 0.7
+  },
+  {
+   "text": "TUNA",
+   "conf": 0.95
+  },
+  {
+   "text": "4",
+   "conf": 0.0
+  },
+  {
+   "text": "6.00",
+   "conf": 0.59
+  },
+  {
+   "text": "0.Q0",
+   "conf": 0.0
+  },
+  {
+   "text": "5.00",
+   "conf": 0.85
+  },
+  {
+   "text": "8",
+   "conf": 0.61
+  },
+  {
+   "text": "224",
+   "conf": 0.86
+  },
+  {
+   "text": "CANTONESE",
+   "conf": 0.09
+  },
+  {
+   "text": ",",
+   "conf": 0.0
+  },
+  {
+   "text": "|",
+   "conf": 0.57
+  },
+  {
+   "text": "4",
+   "conf": 0.89
+  },
+  {
+   "text": "16.00",
+   "conf": 0.76
+  },
+  {
+   "text": "0.00",
+   "conf": 0.88
+  },
+  {
+   "text": "10.00",
+   "conf": 0.94
+  },
+  {
+   "text": "5",
+   "conf": 0.52
+  },
+  {
+   "text": ".",
+   "conf": 0.28
+  },
+  {
+   "text": ")",
+   "conf": 0.0
+  },
+  {
+   "text": "2202",
+   "conf": 0.78
+  },
+  {
+   "text": "T/A",
+   "conf": 0.84
+  },
+  {
+   "text": "KAMPUNG",
+   "conf": 0.88
+  },
+  {
+   "text": "4",
+   "conf": 0.58
+  },
+  {
+   "text": "10.40",
+   "conf": 0.68
+  },
+  {
+   "text": "0.00",
+   "conf": 0.94
+  },
+  {
+   "text": "10.40",
+   "conf": 0.7
+  },
+  {
+   "text": "5",
+   "conf": 0.61
+  },
+  {
+   "text": "a04",
+   "conf": 0.43
+  },
+  {
+   "text": "KOPF]",
+   "conf": 0.12
+  },
+  {
+   "text": "-",
+   "conf": 0.85
+  },
+  {
+   "text": "HOT",
+   "conf": 0.96
+  },
+  {
+   "text": "|",
+   "conf": 0.57
+  },
+  {
+   "text": "z",
+   "conf": 0.17
+  },
+  {
+   "text": "280",
+   "conf": 0.71
+  },
+  {
+   "text": "0.00",
+   "conf": 0.93
+  },
+  {
+   "text": "5.60",
+   "conf": 0.92
+  },
+  {
+   "text": "5",
+   "conf": 0.46
+  },
+  {
+   "text": "|",
+   "conf": 0.25
+  },
+  {
+   "text": "Totai",
+   "conf": 0.86
+  },
+  {
+   "text": "ltams:",
+   "conf": 0.54
+  },
+  {
+   "text": "4",
+   "conf": 0.96
+  },
+  {
+   "text": ")",
+   "conf": 0.07
+  },
+  {
+   "text": "Sub",
+   "conf": 0.9
+  },
+  {
+   "text": "Total:",
+   "conf": 0.95
+  },
+  {
+   "text": "\"34.00",
+   "conf": 0.0
+  },
+  {
+   "text": "Less",
+   "conf": 0.92
+  },
+  {
+   "text": "Discount",
+   "conf": 0.75
+  },
+  {
+   "text": "0.00",
+   "conf": 0.93
+  },
+  {
+   "text": "Round:",
+   "conf": 0.95
+  },
+  {
+   "text": "0.00",
+   "conf": 0.87
+  },
+  {
+   "text": "|",
+   "conf": 0.24
+  },
+  {
+   "text": "Total",
+   "conf": 0.95
+  },
+  {
+   "text": "Bue",
+   "conf": 0.81
+  },
+  {
+   "text": "(GST",
+   "conf": 0.92
+  },
+  {
+   "text": "Ine):",
+   "conf": 0.94
+  },
+  {
+   "text": "31.00",
+   "conf": 0.71
+  },
+  {
+   "text": "Paid:",
+   "conf": 0.94
+  },
+  {
+   "text": "oe",
+   "conf": 0.31
+  },
+  {
+   "text": "|",
+   "conf": 0.12
+  },
+  {
+   "text": "571.00",
+   "conf": 0.72
+  },
+  {
+   "text": "Change:",
+   "conf": 0.92
+  },
+  {
+   "text": "20.00",
+   "conf": 0.96
+  },
+  {
+   "text": "|",
+   "conf": 0.2
+  },
+  {
+   "text": "S:G5T(6%)",
+   "conf": 0.17
+  },
+  {
+   "text": "29.24",
+   "conf": 0.82
+  },
+  {
+   "text": "1.76",
+   "conf": 0.95
+  },
+  {
+   "text": "2",
+   "conf": 0.44
+  },
+  {
+   "text": "|",
+   "conf": 0.46
+  },
+  {
+   "text": "Please",
+   "conf": 0.59
+  },
+  {
+   "text": "Come",
+   "conf": 0.96
+  },
+  {
+   "text": "Again!",
+   "conf": 0.96
+  },
+  {
+   "text": ",",
+   "conf": 0.0
+  },
+  {
+   "text": "11/08/2018",
+   "conf": 0.82
+  },
+  {
+   "text": "08:35:58",
+   "conf": 0.94
+  },
+  {
+   "text": "pm",
+   "conf": 0.96
+  }
+ ],
+ "mean_conf": 0.6327,
+ "low_conf_share": 0.2927,
+ "latency_ms": 5359,
+ "fields": {
+  "company": "BANDAR BARU PERMAS",
+  "date": "2018-08-11",
+  "total": 31.0
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  31.0
+ ],
+ "key": "X51006913051"
+}

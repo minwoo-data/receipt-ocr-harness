@@ -1,0 +1,606 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "fo\" ake",
+  "Gerbang Alaf Restaurants Sdn Bhd",
+  "(65351-M)",
+  "formerly known as",
+  "Golden Arches Restaurants Sdn Bhd",
+  "Licensee of McDonald's",
+  "Level 6, Bangunan TH, Damansara Uptown3",
+  "No.3, Jalan $S21/39,47406 Petaling Jaya",
+  "Selangor",
+  "(GST ID No: 000504664064 )",
+  "McDonald's Petronas Taman Melati DT",
+  "Tel No. : 03-4147-3107",
+  "TAX INVOICE |",
+  "MFY Side 1",
+  "INV# ..141900016842",
+  "ORD #90 -REG #19- 18/01/2018 17:09:21",
+  "QTY ITEM TOTAL",
+  "2 M SpicyDeluxe 25.40",
+  "2 M Coke",
+  "2M Fries",
+  "1M GrilChicBgr 12.50",
+  "1M Coke",
+  "1M Fries",
+  "1 Smal] Cone 1.00",
+  "TakeOut Total (incl GST) 38.90",
+  "Total Rounded 38.90",
+  "Cash Tendered 50.00",
+  "Change 11.10",
+  "TOTAL INCLUDES 6% GST 2.20",
+  "y love to hear your feedback!",
+  "Visit www.mcdfeedback .com.my",
+  "OR",
+  "Download My McD Feedback from",
+  "Google Play/App Store",
+  "to share your experience |",
+  "Thank You and Please Come Again.",
+  "ustomer Service Hotline : 03-2726-5600 }",
+  "i"
+ ],
+ "tokens": [
+  {
+   "text": "fo\"",
+   "conf": 0.53
+  },
+  {
+   "text": "ake",
+   "conf": 0.42
+  },
+  {
+   "text": "Gerbang",
+   "conf": 0.92
+  },
+  {
+   "text": "Alaf",
+   "conf": 0.92
+  },
+  {
+   "text": "Restaurants",
+   "conf": 0.96
+  },
+  {
+   "text": "Sdn",
+   "conf": 0.96
+  },
+  {
+   "text": "Bhd",
+   "conf": 0.96
+  },
+  {
+   "text": "(65351-M)",
+   "conf": 0.88
+  },
+  {
+   "text": "formerly",
+   "conf": 0.96
+  },
+  {
+   "text": "known",
+   "conf": 0.95
+  },
+  {
+   "text": "as",
+   "conf": 0.96
+  },
+  {
+   "text": "Golden",
+   "conf": 0.96
+  },
+  {
+   "text": "Arches",
+   "conf": 0.96
+  },
+  {
+   "text": "Restaurants",
+   "conf": 0.96
+  },
+  {
+   "text": "Sdn",
+   "conf": 0.95
+  },
+  {
+   "text": "Bhd",
+   "conf": 0.96
+  },
+  {
+   "text": "Licensee",
+   "conf": 0.95
+  },
+  {
+   "text": "of",
+   "conf": 0.96
+  },
+  {
+   "text": "McDonald's",
+   "conf": 0.95
+  },
+  {
+   "text": "Level",
+   "conf": 0.96
+  },
+  {
+   "text": "6,",
+   "conf": 0.93
+  },
+  {
+   "text": "Bangunan",
+   "conf": 0.93
+  },
+  {
+   "text": "TH,",
+   "conf": 0.96
+  },
+  {
+   "text": "Damansara",
+   "conf": 0.93
+  },
+  {
+   "text": "Uptown3",
+   "conf": 0.92
+  },
+  {
+   "text": "No.3,",
+   "conf": 0.95
+  },
+  {
+   "text": "Jalan",
+   "conf": 0.93
+  },
+  {
+   "text": "$S21/39,47406",
+   "conf": 0.38
+  },
+  {
+   "text": "Petaling",
+   "conf": 0.96
+  },
+  {
+   "text": "Jaya",
+   "conf": 0.96
+  },
+  {
+   "text": "Selangor",
+   "conf": 0.96
+  },
+  {
+   "text": "(GST",
+   "conf": 0.96
+  },
+  {
+   "text": "ID",
+   "conf": 0.96
+  },
+  {
+   "text": "No:",
+   "conf": 0.95
+  },
+  {
+   "text": "000504664064",
+   "conf": 0.82
+  },
+  {
+   "text": ")",
+   "conf": 0.82
+  },
+  {
+   "text": "McDonald's",
+   "conf": 0.92
+  },
+  {
+   "text": "Petronas",
+   "conf": 0.96
+  },
+  {
+   "text": "Taman",
+   "conf": 0.95
+  },
+  {
+   "text": "Melati",
+   "conf": 0.95
+  },
+  {
+   "text": "DT",
+   "conf": 0.81
+  },
+  {
+   "text": "Tel",
+   "conf": 0.95
+  },
+  {
+   "text": "No.",
+   "conf": 0.92
+  },
+  {
+   "text": ":",
+   "conf": 0.9
+  },
+  {
+   "text": "03-4147-3107",
+   "conf": 0.92
+  },
+  {
+   "text": "TAX",
+   "conf": 0.93
+  },
+  {
+   "text": "INVOICE",
+   "conf": 0.95
+  },
+  {
+   "text": "|",
+   "conf": 0.89
+  },
+  {
+   "text": "MFY",
+   "conf": 0.93
+  },
+  {
+   "text": "Side",
+   "conf": 0.95
+  },
+  {
+   "text": "1",
+   "conf": 0.87
+  },
+  {
+   "text": "INV#",
+   "conf": 0.82
+  },
+  {
+   "text": "..141900016842",
+   "conf": 0.17
+  },
+  {
+   "text": "ORD",
+   "conf": 0.96
+  },
+  {
+   "text": "#90",
+   "conf": 0.92
+  },
+  {
+   "text": "-REG",
+   "conf": 0.92
+  },
+  {
+   "text": "#19-",
+   "conf": 0.92
+  },
+  {
+   "text": "18/01/2018",
+   "conf": 0.95
+  },
+  {
+   "text": "17:09:21",
+   "conf": 0.95
+  },
+  {
+   "text": "QTY",
+   "conf": 0.92
+  },
+  {
+   "text": "ITEM",
+   "conf": 0.96
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.96
+  },
+  {
+   "text": "2",
+   "conf": 0.6
+  },
+  {
+   "text": "M",
+   "conf": 0.6
+  },
+  {
+   "text": "SpicyDeluxe",
+   "conf": 0.91
+  },
+  {
+   "text": "25.40",
+   "conf": 0.86
+  },
+  {
+   "text": "2",
+   "conf": 0.7
+  },
+  {
+   "text": "M",
+   "conf": 0.7
+  },
+  {
+   "text": "Coke",
+   "conf": 0.96
+  },
+  {
+   "text": "2M",
+   "conf": 0.3
+  },
+  {
+   "text": "Fries",
+   "conf": 0.95
+  },
+  {
+   "text": "1M",
+   "conf": 0.77
+  },
+  {
+   "text": "GrilChicBgr",
+   "conf": 0.91
+  },
+  {
+   "text": "12.50",
+   "conf": 0.91
+  },
+  {
+   "text": "1M",
+   "conf": 0.65
+  },
+  {
+   "text": "Coke",
+   "conf": 0.94
+  },
+  {
+   "text": "1M",
+   "conf": 0.8
+  },
+  {
+   "text": "Fries",
+   "conf": 0.95
+  },
+  {
+   "text": "1",
+   "conf": 0.87
+  },
+  {
+   "text": "Smal]",
+   "conf": 0.73
+  },
+  {
+   "text": "Cone",
+   "conf": 0.95
+  },
+  {
+   "text": "1.00",
+   "conf": 0.84
+  },
+  {
+   "text": "TakeOut",
+   "conf": 0.49
+  },
+  {
+   "text": "Total",
+   "conf": 0.96
+  },
+  {
+   "text": "(incl",
+   "conf": 0.84
+  },
+  {
+   "text": "GST)",
+   "conf": 0.96
+  },
+  {
+   "text": "38.90",
+   "conf": 0.94
+  },
+  {
+   "text": "Total",
+   "conf": 0.96
+  },
+  {
+   "text": "Rounded",
+   "conf": 0.96
+  },
+  {
+   "text": "38.90",
+   "conf": 0.93
+  },
+  {
+   "text": "Cash",
+   "conf": 0.93
+  },
+  {
+   "text": "Tendered",
+   "conf": 0.93
+  },
+  {
+   "text": "50.00",
+   "conf": 0.96
+  },
+  {
+   "text": "Change",
+   "conf": 0.96
+  },
+  {
+   "text": "11.10",
+   "conf": 0.94
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.96
+  },
+  {
+   "text": "INCLUDES",
+   "conf": 0.96
+  },
+  {
+   "text": "6%",
+   "conf": 0.96
+  },
+  {
+   "text": "GST",
+   "conf": 0.96
+  },
+  {
+   "text": "2.20",
+   "conf": 0.94
+  },
+  {
+   "text": "y",
+   "conf": 0.26
+  },
+  {
+   "text": "love",
+   "conf": 0.72
+  },
+  {
+   "text": "to",
+   "conf": 0.96
+  },
+  {
+   "text": "hear",
+   "conf": 0.96
+  },
+  {
+   "text": "your",
+   "conf": 0.96
+  },
+  {
+   "text": "feedback!",
+   "conf": 0.96
+  },
+  {
+   "text": "Visit",
+   "conf": 0.92
+  },
+  {
+   "text": "www.mcdfeedback",
+   "conf": 0.17
+  },
+  {
+   "text": ".com.my",
+   "conf": 0.81
+  },
+  {
+   "text": "OR",
+   "conf": 0.95
+  },
+  {
+   "text": "Download",
+   "conf": 0.88
+  },
+  {
+   "text": "My",
+   "conf": 0.96
+  },
+  {
+   "text": "McD",
+   "conf": 0.96
+  },
+  {
+   "text": "Feedback",
+   "conf": 0.95
+  },
+  {
+   "text": "from",
+   "conf": 0.96
+  },
+  {
+   "text": "Google",
+   "conf": 0.93
+  },
+  {
+   "text": "Play/App",
+   "conf": 0.92
+  },
+  {
+   "text": "Store",
+   "conf": 0.96
+  },
+  {
+   "text": "to",
+   "conf": 0.96
+  },
+  {
+   "text": "share",
+   "conf": 0.96
+  },
+  {
+   "text": "your",
+   "conf": 0.96
+  },
+  {
+   "text": "experience",
+   "conf": 0.95
+  },
+  {
+   "text": "|",
+   "conf": 0.94
+  },
+  {
+   "text": "Thank",
+   "conf": 0.96
+  },
+  {
+   "text": "You",
+   "conf": 0.96
+  },
+  {
+   "text": "and",
+   "conf": 0.96
+  },
+  {
+   "text": "Please",
+   "conf": 0.96
+  },
+  {
+   "text": "Come",
+   "conf": 0.96
+  },
+  {
+   "text": "Again.",
+   "conf": 0.96
+  },
+  {
+   "text": "ustomer",
+   "conf": 0.88
+  },
+  {
+   "text": "Service",
+   "conf": 0.96
+  },
+  {
+   "text": "Hotline",
+   "conf": 0.92
+  },
+  {
+   "text": ":",
+   "conf": 0.85
+  },
+  {
+   "text": "03-2726-5600",
+   "conf": 0.92
+  },
+  {
+   "text": "}",
+   "conf": 0.0
+  },
+  {
+   "text": "i",
+   "conf": 0.34
+  }
+ ],
+ "mean_conf": 0.8723,
+ "low_conf_share": 0.0662,
+ "latency_ms": 1026,
+ "fields": {
+  "company": "GERBANG ALAF RESTAURANTS SDN BHD",
+  "date": null,
+  "total": 2.2
+ },
+ "rule_reasons": [
+  "date_not_found",
+  "total_multiple_strong_amounts"
+ ],
+ "total_candidates": [
+  38.9,
+  2.2
+ ],
+ "key": "X51005230616"
+}

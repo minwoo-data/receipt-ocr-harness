@@ -1,0 +1,493 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "3180304q",
+  "MR. D.I.Y. (M) SDN BHD",
+  "(CO.REG :860671-D) -",
+  "LOT 1851-A & 1851-B, JALAN KPB 6,",
+  "KAWASAN PERINDUSTRIAN BALAKONG,",
+  "43300 SERI KEMBANGAN, SELANGOR",
+  "(GST ID No :000306020352)",
+  "(10I PUCHONG)",
+  "-TAX INVOICE-",
+  "MESH SPONGE 4S *§",
+  "ANG2-72 - 12/96",
+  "9064234 1X 1.80 1.80",
+  "BROWN COCO BRUSH 6’ VGN *S",
+  "WA50 - 20/300",
+  "9555221303658 2X 2.10 4.20",
+  "PLASTIC BAGS +5",
+  "99999 1X 0.20 0.20",
+  "Item(s) : 3 Qty(s) : 4",
+  "Total Incl. GST&6% RM 6.20",
+  "CASH RM 100.00",
+  "CHANGE RM 93.80",
+  "GST @6% included in total RM 0.35",
+  "Pe ee ee",
+  "23-03-18 16:43 SHO1 ZJ86 11 ROOO111721",
+  "OPERATOR IRAINEE CASHIER",
+  "EXCHANGE ARE ALLOWED WITHIN",
+  "7 DAY WITH RECEIPT.",
+  "STRICTLY NO CASH REFUND.",
+  "%"
+ ],
+ "tokens": [
+  {
+   "text": "3180304q",
+   "conf": 0.65
+  },
+  {
+   "text": "MR.",
+   "conf": 0.86
+  },
+  {
+   "text": "D.I.Y.",
+   "conf": 0.34
+  },
+  {
+   "text": "(M)",
+   "conf": 0.87
+  },
+  {
+   "text": "SDN",
+   "conf": 0.95
+  },
+  {
+   "text": "BHD",
+   "conf": 0.94
+  },
+  {
+   "text": "(CO.REG",
+   "conf": 0.9
+  },
+  {
+   "text": ":860671-D)",
+   "conf": 0.89
+  },
+  {
+   "text": "-",
+   "conf": 0.88
+  },
+  {
+   "text": "LOT",
+   "conf": 0.92
+  },
+  {
+   "text": "1851-A",
+   "conf": 0.91
+  },
+  {
+   "text": "&",
+   "conf": 0.88
+  },
+  {
+   "text": "1851-B,",
+   "conf": 0.91
+  },
+  {
+   "text": "JALAN",
+   "conf": 0.93
+  },
+  {
+   "text": "KPB",
+   "conf": 0.92
+  },
+  {
+   "text": "6,",
+   "conf": 0.96
+  },
+  {
+   "text": "KAWASAN",
+   "conf": 0.92
+  },
+  {
+   "text": "PERINDUSTRIAN",
+   "conf": 0.91
+  },
+  {
+   "text": "BALAKONG,",
+   "conf": 0.87
+  },
+  {
+   "text": "43300",
+   "conf": 0.9
+  },
+  {
+   "text": "SERI",
+   "conf": 0.82
+  },
+  {
+   "text": "KEMBANGAN,",
+   "conf": 0.91
+  },
+  {
+   "text": "SELANGOR",
+   "conf": 0.96
+  },
+  {
+   "text": "(GST",
+   "conf": 0.95
+  },
+  {
+   "text": "ID",
+   "conf": 0.95
+  },
+  {
+   "text": "No",
+   "conf": 0.93
+  },
+  {
+   "text": ":000306020352)",
+   "conf": 0.74
+  },
+  {
+   "text": "(10I",
+   "conf": 0.51
+  },
+  {
+   "text": "PUCHONG)",
+   "conf": 0.9
+  },
+  {
+   "text": "-TAX",
+   "conf": 0.92
+  },
+  {
+   "text": "INVOICE-",
+   "conf": 0.86
+  },
+  {
+   "text": "MESH",
+   "conf": 0.96
+  },
+  {
+   "text": "SPONGE",
+   "conf": 0.95
+  },
+  {
+   "text": "4S",
+   "conf": 0.76
+  },
+  {
+   "text": "*§",
+   "conf": 0.6
+  },
+  {
+   "text": "ANG2-72",
+   "conf": 0.83
+  },
+  {
+   "text": "-",
+   "conf": 0.92
+  },
+  {
+   "text": "12/96",
+   "conf": 0.96
+  },
+  {
+   "text": "9064234",
+   "conf": 0.96
+  },
+  {
+   "text": "1X",
+   "conf": 0.94
+  },
+  {
+   "text": "1.80",
+   "conf": 0.94
+  },
+  {
+   "text": "1.80",
+   "conf": 0.93
+  },
+  {
+   "text": "BROWN",
+   "conf": 0.95
+  },
+  {
+   "text": "COCO",
+   "conf": 0.95
+  },
+  {
+   "text": "BRUSH",
+   "conf": 0.95
+  },
+  {
+   "text": "6’",
+   "conf": 0.95
+  },
+  {
+   "text": "VGN",
+   "conf": 0.15
+  },
+  {
+   "text": "*S",
+   "conf": 0.62
+  },
+  {
+   "text": "WA50",
+   "conf": 0.82
+  },
+  {
+   "text": "-",
+   "conf": 0.89
+  },
+  {
+   "text": "20/300",
+   "conf": 0.96
+  },
+  {
+   "text": "9555221303658",
+   "conf": 0.95
+  },
+  {
+   "text": "2X",
+   "conf": 0.95
+  },
+  {
+   "text": "2.10",
+   "conf": 0.95
+  },
+  {
+   "text": "4.20",
+   "conf": 0.95
+  },
+  {
+   "text": "PLASTIC",
+   "conf": 0.96
+  },
+  {
+   "text": "BAGS",
+   "conf": 0.96
+  },
+  {
+   "text": "+5",
+   "conf": 0.0
+  },
+  {
+   "text": "99999",
+   "conf": 0.96
+  },
+  {
+   "text": "1X",
+   "conf": 0.95
+  },
+  {
+   "text": "0.20",
+   "conf": 0.95
+  },
+  {
+   "text": "0.20",
+   "conf": 0.95
+  },
+  {
+   "text": "Item(s)",
+   "conf": 0.91
+  },
+  {
+   "text": ":",
+   "conf": 0.91
+  },
+  {
+   "text": "3",
+   "conf": 0.97
+  },
+  {
+   "text": "Qty(s)",
+   "conf": 0.91
+  },
+  {
+   "text": ":",
+   "conf": 0.89
+  },
+  {
+   "text": "4",
+   "conf": 0.96
+  },
+  {
+   "text": "Total",
+   "conf": 0.96
+  },
+  {
+   "text": "Incl.",
+   "conf": 0.93
+  },
+  {
+   "text": "GST&6%",
+   "conf": 0.19
+  },
+  {
+   "text": "RM",
+   "conf": 0.96
+  },
+  {
+   "text": "6.20",
+   "conf": 0.94
+  },
+  {
+   "text": "CASH",
+   "conf": 0.96
+  },
+  {
+   "text": "RM",
+   "conf": 0.96
+  },
+  {
+   "text": "100.00",
+   "conf": 0.96
+  },
+  {
+   "text": "CHANGE",
+   "conf": 0.96
+  },
+  {
+   "text": "RM",
+   "conf": 0.96
+  },
+  {
+   "text": "93.80",
+   "conf": 0.95
+  },
+  {
+   "text": "GST",
+   "conf": 0.92
+  },
+  {
+   "text": "@6%",
+   "conf": 0.92
+  },
+  {
+   "text": "included",
+   "conf": 0.96
+  },
+  {
+   "text": "in",
+   "conf": 0.96
+  },
+  {
+   "text": "total",
+   "conf": 0.96
+  },
+  {
+   "text": "RM",
+   "conf": 0.93
+  },
+  {
+   "text": "0.35",
+   "conf": 0.93
+  },
+  {
+   "text": "Pe",
+   "conf": 0.16
+  },
+  {
+   "text": "ee",
+   "conf": 0.3
+  },
+  {
+   "text": "ee",
+   "conf": 0.06
+  },
+  {
+   "text": "23-03-18",
+   "conf": 0.96
+  },
+  {
+   "text": "16:43",
+   "conf": 0.69
+  },
+  {
+   "text": "SHO1",
+   "conf": 0.74
+  },
+  {
+   "text": "ZJ86",
+   "conf": 0.86
+  },
+  {
+   "text": "11",
+   "conf": 0.69
+  },
+  {
+   "text": "ROOO111721",
+   "conf": 0.53
+  },
+  {
+   "text": "OPERATOR",
+   "conf": 0.92
+  },
+  {
+   "text": "IRAINEE",
+   "conf": 0.0
+  },
+  {
+   "text": "CASHIER",
+   "conf": 0.94
+  },
+  {
+   "text": "EXCHANGE",
+   "conf": 0.96
+  },
+  {
+   "text": "ARE",
+   "conf": 0.96
+  },
+  {
+   "text": "ALLOWED",
+   "conf": 0.96
+  },
+  {
+   "text": "WITHIN",
+   "conf": 0.96
+  },
+  {
+   "text": "7",
+   "conf": 0.95
+  },
+  {
+   "text": "DAY",
+   "conf": 0.95
+  },
+  {
+   "text": "WITH",
+   "conf": 0.96
+  },
+  {
+   "text": "RECEIPT.",
+   "conf": 0.95
+  },
+  {
+   "text": "STRICTLY",
+   "conf": 0.95
+  },
+  {
+   "text": "NO",
+   "conf": 0.95
+  },
+  {
+   "text": "CASH",
+   "conf": 0.95
+  },
+  {
+   "text": "REFUND.",
+   "conf": 0.96
+  },
+  {
+   "text": "%",
+   "conf": 0.69
+  }
+ ],
+ "mean_conf": 0.8481,
+ "low_conf_share": 0.0721,
+ "latency_ms": 595,
+ "fields": {
+  "company": "MR D I Y SDN BHD",
+  "date": "2018-03-23",
+  "total": 6.2
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  6.2
+ ],
+ "key": "X51005757342"
+}

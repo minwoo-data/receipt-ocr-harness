@@ -1,0 +1,139 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "Dreamland Aqua Park",
+  "P.0.Box655",
+  "UmA1-Quain",
+  "nited Arab Emirates",
+  "Tel:（+971)67681888",
+  "Trans.No.:46729",
+  "QTYPLU DESCRIPTION AMOUNT",
+  "110210503 Fante Orange 10.00",
+  "110215309 Chicken Nuggets&Fries 30.00",
+  "110215404 BrilledFish Fillet 45.00",
+  "TOTAL 85.00",
+  "MAST- 85.00",
+  "CHANGE 0.00",
+  "TIME:16:15DATE:24/04/2014101:046729107",
+  "uwu.dreaalanduae.con"
+ ],
+ "tokens": [
+  {
+   "text": "Dreamland Aqua Park",
+   "conf": 0.9573622314553512
+  },
+  {
+   "text": "P.0.Box655",
+   "conf": 0.9578055560588836
+  },
+  {
+   "text": "UmA1-Quain",
+   "conf": 0.8643808901309967
+  },
+  {
+   "text": "nited Arab Emirates",
+   "conf": 0.9343025056939376
+  },
+  {
+   "text": "Tel:（+971)67681888",
+   "conf": 0.9172036598126093
+  },
+  {
+   "text": "Trans.No.:46729",
+   "conf": 0.9465617140134176
+  },
+  {
+   "text": "QTYPLU",
+   "conf": 0.9736314614613851
+  },
+  {
+   "text": "DESCRIPTION",
+   "conf": 0.9909546050158414
+  },
+  {
+   "text": "AMOUNT",
+   "conf": 0.9823050002257029
+  },
+  {
+   "text": "110210503",
+   "conf": 0.9944949613677131
+  },
+  {
+   "text": "Fante Orange",
+   "conf": 0.9026676019032797
+  },
+  {
+   "text": "10.00",
+   "conf": 0.9929436326026917
+  },
+  {
+   "text": "110215309",
+   "conf": 0.9585200614399381
+  },
+  {
+   "text": "Chicken Nuggets&Fries",
+   "conf": 0.9452065797079177
+  },
+  {
+   "text": "30.00",
+   "conf": 0.9828251123428344
+  },
+  {
+   "text": "110215404",
+   "conf": 0.994435601764255
+  },
+  {
+   "text": "BrilledFish Fillet",
+   "conf": 0.8693773357404603
+  },
+  {
+   "text": "45.00",
+   "conf": 0.9957833170890809
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.9588721513748169
+  },
+  {
+   "text": "85.00",
+   "conf": 0.9971291661262512
+  },
+  {
+   "text": "MAST-",
+   "conf": 0.8985815167427063
+  },
+  {
+   "text": "85.00",
+   "conf": 0.9971486806869507
+  },
+  {
+   "text": "CHANGE",
+   "conf": 0.99532617131869
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9956977963447571
+  },
+  {
+   "text": "TIME:16:15DATE:24/04/2014101:046729107",
+   "conf": 0.9716954262633073
+  },
+  {
+   "text": "uwu.dreaalanduae.con",
+   "conf": 0.8823939234018325
+  }
+ ],
+ "mean_conf": 0.9561,
+ "low_conf_share": 0.0,
+ "latency_ms": 2351,
+ "fields": {
+  "company": "DREAMLAND AQUA PARK",
+  "date": "2014-04-24",
+  "total": 85.0
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  85.0
+ ],
+ "key": "W0080_6b72f03620a7"
+}

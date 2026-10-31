@@ -1,0 +1,219 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "Subway#42210-0 Phone 03-78870693",
+  "URBAN 1DEA SDN BHD (417940-M),",
+  "A-G-O6, DATARAN GLOMAC,",
+  "JALAN SS6/5A,PUSAT BANDAR KELANA JAYA,",
+  "47301 PETALING JAYA, SELANGUR, MalaySia",
+  "Served by: r0jan 27/02/2018 15:32:47",
+  "Tax Invoice# 1/A-42210-140220",
+  "GST 1D: 000220499968",
+  "Qty Size Item Price",
+  "1 Bag fee RM0.20",
+  "1 (MY) EDV Meal RM11.90",
+  "6\" -Meatball Sub",
+  "-16oz Fountain Drink",
+  "-1 Cookies",
+  "(MY) EDV Meal RM11.90",
+  "6\"--BBQ Chicken Strips Sub",
+  "-16o2 Fountain Drink",
+  "-1 Cookies",
+  "Cash Rounding -FMO.01",
+  "Total (Eat In) RM24.00 R",
+  "Cash RM30.00",
+  "Change RM6.00",
+  "Tax Info:",
+  "GST 6%(6%) RM1.36",
+  "Total-Excl-GST RM22.65",
+  "Take our 1 Minute Survey at",
+  "www.tellsubway.my and get a FREE CoOKIE",
+  "with next purchase.Redemption of 1",
+  "cookie per transaction"
+ ],
+ "tokens": [
+  {
+   "text": "Subway#42210-0 Phone 03-78870693",
+   "conf": 0.9951896015554667
+  },
+  {
+   "text": "URBAN 1DEA SDN BHD (417940-M),",
+   "conf": 0.9626202861467997
+  },
+  {
+   "text": "A-G-O6, DATARAN GLOMAC,",
+   "conf": 0.9613856206769529
+  },
+  {
+   "text": "JALAN SS6/5A,PUSAT BANDAR KELANA JAYA,",
+   "conf": 0.9326490728478682
+  },
+  {
+   "text": "47301 PETALING JAYA, SELANGUR, MalaySia",
+   "conf": 0.945586404739282
+  },
+  {
+   "text": "Served by: r0jan 27/02/2018 15:32:47",
+   "conf": 0.9851756824387444
+  },
+  {
+   "text": "Tax Invoice# 1/A-42210-140220",
+   "conf": 0.955960764967162
+  },
+  {
+   "text": "GST 1D: 000220499968",
+   "conf": 0.9714688539505005
+  },
+  {
+   "text": "Qty Size Item",
+   "conf": 0.9892457815317007
+  },
+  {
+   "text": "Price",
+   "conf": 0.9951796412467957
+  },
+  {
+   "text": "1",
+   "conf": 0.9796314835548401
+  },
+  {
+   "text": "Bag fee",
+   "conf": 0.9343824812344143
+  },
+  {
+   "text": "RM0.20",
+   "conf": 0.9429171085357666
+  },
+  {
+   "text": "1",
+   "conf": 0.9989540576934814
+  },
+  {
+   "text": "(MY) EDV Meal",
+   "conf": 0.9394341111183167
+  },
+  {
+   "text": "RM11.90",
+   "conf": 0.9993715286254883
+  },
+  {
+   "text": "6\" -Meatball Sub",
+   "conf": 0.9237760342657566
+  },
+  {
+   "text": "-16oz Fountain Drink",
+   "conf": 0.9616064339876175
+  },
+  {
+   "text": "-1 Cookies",
+   "conf": 0.9317624390125274
+  },
+  {
+   "text": "(MY) EDV Meal",
+   "conf": 0.949076235294342
+  },
+  {
+   "text": "RM11.90",
+   "conf": 0.9997641359056745
+  },
+  {
+   "text": "6\"--BBQ Chicken Strips Sub",
+   "conf": 0.9461438334905184
+  },
+  {
+   "text": "-16o2 Fountain Drink",
+   "conf": 0.969340768456459
+  },
+  {
+   "text": "-1 Cookies",
+   "conf": 0.9546280860900879
+  },
+  {
+   "text": "Cash Rounding",
+   "conf": 0.998529470883883
+  },
+  {
+   "text": "-FMO.01",
+   "conf": 0.837590251650129
+  },
+  {
+   "text": "Total (Eat In)",
+   "conf": 0.95299574307033
+  },
+  {
+   "text": "RM24.00",
+   "conf": 0.9997027005468097
+  },
+  {
+   "text": "R",
+   "conf": 0.5708881616592407
+  },
+  {
+   "text": "Cash",
+   "conf": 0.9979920387268066
+  },
+  {
+   "text": "RM30.00",
+   "conf": 0.9997895104544503
+  },
+  {
+   "text": "Change",
+   "conf": 0.9983737965424856
+  },
+  {
+   "text": "RM6.00",
+   "conf": 0.9994746545950571
+  },
+  {
+   "text": "Tax Info:",
+   "conf": 0.9969689183764987
+  },
+  {
+   "text": "GST 6%(6%)",
+   "conf": 0.9471468508243561
+  },
+  {
+   "text": "RM1.36",
+   "conf": 0.994591494401296
+  },
+  {
+   "text": "Total-Excl-GST",
+   "conf": 0.9621647596359253
+  },
+  {
+   "text": "RM22.65",
+   "conf": 0.9998802712985447
+  },
+  {
+   "text": "Take our 1 Minute Survey at",
+   "conf": 0.9619945640917178
+  },
+  {
+   "text": "www.tellsubway.my and get a FREE CoOKIE",
+   "conf": 0.9469057932878152
+  },
+  {
+   "text": "with next purchase.Redemption of 1",
+   "conf": 0.9785324738306158
+  },
+  {
+   "text": "cookie per transaction",
+   "conf": 0.9797433750195936
+  }
+ ],
+ "mean_conf": 0.9583,
+ "low_conf_share": 0.0,
+ "latency_ms": 7281,
+ "fields": {
+  "company": "URBAN 1DEA SDN BHD",
+  "date": null,
+  "total": 24.0
+ },
+ "rule_reasons": [
+  "date_not_found"
+ ],
+ "total_candidates": [
+  24.0
+ ],
+ "key": "X51005745249"
+}

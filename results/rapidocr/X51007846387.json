@@ -1,0 +1,262 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "BOOK TALK (MUTIARA RINI) SDN BHD",
+  "1203399-T",
+  "NO.53 & 55, JALAN UTAMA 34,",
+  "MUTIARA RINI,",
+  "SKUDAI,",
+  "JOHOR.",
+  "GST Reg.: 000445296640",
+  "Documment No.:MR-T01105105",
+  "Date : 21/6/2018 9:14:08 PM",
+  "Cashier : CASHIER1",
+  "Member:",
+  "TAXINVOICE",
+  "CODE/DESC PRICE Disc AMOUNT TAX",
+  "QTY RM RM CODE",
+  "9555047308127 DC812.XTRA DOCUMENT CASE A4",
+  "2.UNIT* 4.650000 0.00 9.30 SR",
+  "S",
+  "Totai Inclusive GST O%: 9.30",
+  "Rounding Adjustment : 0.00",
+  "Rounded Total(RM): 9.30",
+  "Cash 10.30",
+  "CHANGE 1.00",
+  "GST Summary Amount(RM) Tax(RM)",
+  "SR@0% 9.30 0.00",
+  "GOODS SOLD ARE NOT RETURNABLE OR",
+  "EXCHANGEABLE",
+  "货物出门.恕不退还或更换",
+  "如有不便，敬请原谅。谢谢！",
+  "T'HANKYOU",
+  "PLEASE COMEAGAIN!"
+ ],
+ "tokens": [
+  {
+   "text": "BOOK TALK (MUTIARA RINI) SDN BHD",
+   "conf": 0.975492687895894
+  },
+  {
+   "text": "1203399-T",
+   "conf": 0.9988618161943223
+  },
+  {
+   "text": "NO.53 & 55, JALAN UTAMA 34,",
+   "conf": 0.9267478894304346
+  },
+  {
+   "text": "MUTIARA RINI,",
+   "conf": 0.9502922388223501
+  },
+  {
+   "text": "SKUDAI,",
+   "conf": 0.9922514642987933
+  },
+  {
+   "text": "JOHOR.",
+   "conf": 0.9960954288641611
+  },
+  {
+   "text": "GST Reg.: 000445296640",
+   "conf": 0.996500857851722
+  },
+  {
+   "text": "Documment No.:MR-T01105105",
+   "conf": 0.940805971622467
+  },
+  {
+   "text": "Date :",
+   "conf": 0.9429104725519816
+  },
+  {
+   "text": "21/6/2018 9:14:08 PM",
+   "conf": 0.9927699625492096
+  },
+  {
+   "text": "Cashier :",
+   "conf": 0.9342218902375963
+  },
+  {
+   "text": "CASHIER1",
+   "conf": 0.9925784021615982
+  },
+  {
+   "text": "Member:",
+   "conf": 0.9838442376681736
+  },
+  {
+   "text": "TAXINVOICE",
+   "conf": 0.9986904203891754
+  },
+  {
+   "text": "CODE/DESC",
+   "conf": 0.9789553152190315
+  },
+  {
+   "text": "PRICE",
+   "conf": 0.9950980067253112
+  },
+  {
+   "text": "Disc",
+   "conf": 0.9840987473726273
+  },
+  {
+   "text": "AMOUNT",
+   "conf": 0.9968124727408091
+  },
+  {
+   "text": "TAX",
+   "conf": 0.9943032662073771
+  },
+  {
+   "text": "QTY",
+   "conf": 0.9853422045707703
+  },
+  {
+   "text": "RM",
+   "conf": 0.9980286061763763
+  },
+  {
+   "text": "RM",
+   "conf": 0.9984050393104553
+  },
+  {
+   "text": "CODE",
+   "conf": 0.9966952055692673
+  },
+  {
+   "text": "9555047308127",
+   "conf": 0.9997253051170936
+  },
+  {
+   "text": "DC812.XTRA DOCUMENT CASE A4",
+   "conf": 0.927840095979196
+  },
+  {
+   "text": "2.UNIT*",
+   "conf": 0.9727535332952227
+  },
+  {
+   "text": "4.650000",
+   "conf": 0.9983273893594742
+  },
+  {
+   "text": "0.00",
+   "conf": 0.99869604408741
+  },
+  {
+   "text": "9.30",
+   "conf": 0.9994556754827499
+  },
+  {
+   "text": "SR",
+   "conf": 0.9972420334815979
+  },
+  {
+   "text": "S",
+   "conf": 0.9183091521263123
+  },
+  {
+   "text": "Totai Inclusive GST O%:",
+   "conf": 0.9740637540817261
+  },
+  {
+   "text": "9.30",
+   "conf": 0.9998191595077515
+  },
+  {
+   "text": "Rounding Adjustment :",
+   "conf": 0.9867151010604132
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9992319494485855
+  },
+  {
+   "text": "Rounded Total(RM):",
+   "conf": 0.9899566902054681
+  },
+  {
+   "text": "9.30",
+   "conf": 0.9996095597743988
+  },
+  {
+   "text": "Cash",
+   "conf": 0.9992181211709976
+  },
+  {
+   "text": "10.30",
+   "conf": 0.9996785044670105
+  },
+  {
+   "text": "CHANGE",
+   "conf": 0.9957367678483328
+  },
+  {
+   "text": "1.00",
+   "conf": 0.9995502829551697
+  },
+  {
+   "text": "GST Summary",
+   "conf": 0.949560284614563
+  },
+  {
+   "text": "Amount(RM)",
+   "conf": 0.9959859848022461
+  },
+  {
+   "text": "Tax(RM)",
+   "conf": 0.9913412928581238
+  },
+  {
+   "text": "SR@0%",
+   "conf": 0.9791558861732483
+  },
+  {
+   "text": "9.30",
+   "conf": 0.9996786415576935
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9986686557531357
+  },
+  {
+   "text": "GOODS SOLD ARE NOT RETURNABLE OR",
+   "conf": 0.9698048830032349
+  },
+  {
+   "text": "EXCHANGEABLE",
+   "conf": 0.9937801708777746
+  },
+  {
+   "text": "货物出门.恕不退还或更换",
+   "conf": 0.9591798782348633
+  },
+  {
+   "text": "如有不便，敬请原谅。谢谢！",
+   "conf": 0.9945330207164471
+  },
+  {
+   "text": "T'HANKYOU",
+   "conf": 0.9588283101717631
+  },
+  {
+   "text": "PLEASE COMEAGAIN!",
+   "conf": 0.9747418340514687
+  }
+ ],
+ "mean_conf": 0.9825,
+ "low_conf_share": 0.0,
+ "latency_ms": 4475,
+ "fields": {
+  "company": "BOOK TALK SDN BHD",
+  "date": "2018-06-21",
+  "total": 9.3
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  9.3
+ ],
+ "key": "X51007846387"
+}

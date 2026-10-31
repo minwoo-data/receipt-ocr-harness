@@ -1,0 +1,208 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "CITY MILK",
+  "R&C VENTURE SDN BHD (1191015-W)",
+  "LOT-18A-2,BERJAYA TIMES SQUARE,",
+  "KUALAL.UMPUR.",
+  "(GST NO:001557721088)",
+  "Tax Invoice",
+  "Order #:139358",
+  "INVNo.:539319",
+  "Date :19-04-201813:43:54",
+  "Cashier:City Milk Cashier",
+  "Description Qty U.price TotalTAX",
+  "Banana Milkshake(R)",
+  "1x 9.50 9.50SR",
+  "TotalQTY:1",
+  "Total (Excluding GST): 8.96",
+  "GST payable(6%): 0.54",
+  "Total (Inclusive of GST): 9.50",
+  "TOTAL: 9.50",
+  "CASH: 10.50",
+  "CHANGE: 1.00",
+  "GST Sumnary Amount(RM) Tax(RM)",
+  "SR (@6%) 8.96 0.54",
+  "****ThankYou ****",
+  "Please Come Again"
+ ],
+ "tokens": [
+  {
+   "text": "CITY MILK",
+   "conf": 0.9751162727673849
+  },
+  {
+   "text": "R&C VENTURE SDN BHD (1191015-W)",
+   "conf": 0.9327096766041171
+  },
+  {
+   "text": "LOT-18A-2,BERJAYA TIMES SQUARE,",
+   "conf": 0.9362458702056639
+  },
+  {
+   "text": "KUALAL.UMPUR.",
+   "conf": 0.9555870065322289
+  },
+  {
+   "text": "(GST NO:001557721088)",
+   "conf": 0.9505894836925325
+  },
+  {
+   "text": "Tax Invoice",
+   "conf": 0.9682115858251398
+  },
+  {
+   "text": "Order #:139358",
+   "conf": 0.9733313364642007
+  },
+  {
+   "text": "INVNo.:539319",
+   "conf": 0.9714401135077844
+  },
+  {
+   "text": "Date",
+   "conf": 0.9968591779470444
+  },
+  {
+   "text": ":19-04-201813:43:54",
+   "conf": 0.977096466641677
+  },
+  {
+   "text": "Cashier:City Milk Cashier",
+   "conf": 0.9570948839187622
+  },
+  {
+   "text": "Description",
+   "conf": 0.9965766018087213
+  },
+  {
+   "text": "Qty",
+   "conf": 0.9980826377868652
+  },
+  {
+   "text": "U.price",
+   "conf": 0.9978948661259243
+  },
+  {
+   "text": "TotalTAX",
+   "conf": 0.9785339161753654
+  },
+  {
+   "text": "Banana Milkshake(R)",
+   "conf": 0.9786744933379324
+  },
+  {
+   "text": "1x",
+   "conf": 0.8060634434223175
+  },
+  {
+   "text": "9.50",
+   "conf": 0.9998102188110352
+  },
+  {
+   "text": "9.50SR",
+   "conf": 0.9984345634778341
+  },
+  {
+   "text": "TotalQTY:1",
+   "conf": 0.9390791833400727
+  },
+  {
+   "text": "Total (Excluding GST):",
+   "conf": 0.9325674474239349
+  },
+  {
+   "text": "8.96",
+   "conf": 0.9990678429603577
+  },
+  {
+   "text": "GST payable(6%):",
+   "conf": 0.913729902356863
+  },
+  {
+   "text": "0.54",
+   "conf": 0.9993413984775543
+  },
+  {
+   "text": "Total (Inclusive of GST):",
+   "conf": 0.9369236087799072
+  },
+  {
+   "text": "9.50",
+   "conf": 0.9987759739160538
+  },
+  {
+   "text": "TOTAL:",
+   "conf": 0.9991442263126373
+  },
+  {
+   "text": "9.50",
+   "conf": 0.9999321699142456
+  },
+  {
+   "text": "CASH:",
+   "conf": 0.9661758780479431
+  },
+  {
+   "text": "10.50",
+   "conf": 0.9995352149009704
+  },
+  {
+   "text": "CHANGE:",
+   "conf": 0.9495112725666591
+  },
+  {
+   "text": "1.00",
+   "conf": 0.9995854645967484
+  },
+  {
+   "text": "GST Sumnary",
+   "conf": 0.9386318542740562
+  },
+  {
+   "text": "Amount(RM)",
+   "conf": 0.9463801383972168
+  },
+  {
+   "text": "Tax(RM)",
+   "conf": 0.9600667101996285
+  },
+  {
+   "text": "SR",
+   "conf": 0.9950956404209137
+  },
+  {
+   "text": "(@6%)",
+   "conf": 0.9270986914634705
+  },
+  {
+   "text": "8.96",
+   "conf": 0.9991444200277328
+  },
+  {
+   "text": "0.54",
+   "conf": 0.9982080161571503
+  },
+  {
+   "text": "****ThankYou ****",
+   "conf": 0.964081718641169
+  },
+  {
+   "text": "Please Come Again",
+   "conf": 0.9738466774716097
+  }
+ ],
+ "mean_conf": 0.9679,
+ "low_conf_share": 0.0,
+ "latency_ms": 18611,
+ "fields": {
+  "company": "R C VENTURE SDN BHD",
+  "date": "2018-04-19",
+  "total": 9.5
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  9.5
+ ],
+ "key": "X51006502533"
+}

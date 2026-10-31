@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.1-flash-lite",
+ "provider": "gemini",
+ "raw_text": "{\n  \"vendor\": \"Lobby Gift Shop\",\n  \"date\": \"2018-04-21\",\n  \"subtotal\": 36.71,\n  \"tax\": 2.57,\n  \"tip\": null,\n  \"discount\": -12.24,\n  \"total\": 39.28,\n  \"currency\": null,\n  \"confidence\": 0.98,\n  \"notes\": null\n}",
+ "data": {
+  "vendor": "Lobby Gift Shop",
+  "date": "2018-04-21",
+  "subtotal": 36.71,
+  "tax": 2.57,
+  "tip": null,
+  "discount": -12.24,
+  "total": 39.28,
+  "currency": null,
+  "confidence": 0.98,
+  "notes": null
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1471,
+  "output_tokens": 110,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.000533,
+ "latency_ms": 1922,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.1-flash-lite",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.1-flash-lite"
+ ],
+ "key": "W0184_32abb05dc239"
+}

@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.6-flash",
+ "provider": "gemini",
+ "raw_text": "{\"vendor\": \"GRAND COMPANIONS SDN BHD\", \"date\": \"2018-03-03\", \"subtotal\": 231.06, \"tax\": 15.25, \"tip\": null, \"discount\": null, \"total\": 269.4, \"currency\": \"MYR\", \"confidence\": 0.95, \"notes\": \"Tax includes GST @6% (15.25) and 10% Service Charge (23.10) added to subtotal.\"}",
+ "data": {
+  "vendor": "GRAND COMPANIONS SDN BHD",
+  "date": "2018-03-03",
+  "subtotal": 231.06,
+  "tax": 15.25,
+  "tip": null,
+  "discount": null,
+  "total": 269.4,
+  "currency": "MYR",
+  "confidence": 0.95,
+  "notes": "Tax includes GST @6% (15.25) and 10% Service Charge (23.10) added to subtotal."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1461,
+  "output_tokens": 122,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.001553,
+ "latency_ms": 1600,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.6-flash",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.6-flash"
+ ],
+ "key": "X51005442322"
+}

@@ -1,0 +1,167 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "Sushi Garden Restaurant",
+  "4269LougheedHwy",
+  "Burnaby.(604)294-0104",
+  "Order#134 T22",
+  "Date 06-Aug-20152:31:17PM",
+  "Server.Kay",
+  "1XSal Sashimi 1/2 1XAla Roll $550",
+  "1XChknTeri Roll $3.96",
+  "1XChopRoll $3.75",
+  "1XTuna Roll $1.96",
+  "1XCali Roll $2.95",
+  "1XAlaRoll $3.95",
+  "SUB-TOTAL $26.00",
+  "GST(5%) $1.30",
+  "L.Tax(10%) $O.00",
+  "TOTALDUE: $27.30",
+  "CASH: $27.30",
+  "PAID $40.00",
+  "CHANGE:"
+ ],
+ "tokens": [
+  {
+   "text": "Sushi Garden Restaurant",
+   "conf": 0.963902833669082
+  },
+  {
+   "text": "4269LougheedHwy",
+   "conf": 0.9914698282877604
+  },
+  {
+   "text": "Burnaby.(604)294-0104",
+   "conf": 0.9328821244693938
+  },
+  {
+   "text": "Order#134 T22",
+   "conf": 0.9618720824901874
+  },
+  {
+   "text": "Date 06-Aug-20152:31:17PM",
+   "conf": 0.9386552059650421
+  },
+  {
+   "text": "Server.Kay",
+   "conf": 0.8887590110301972
+  },
+  {
+   "text": "1XAla Roll",
+   "conf": 0.9170563161373139
+  },
+  {
+   "text": "1XSal Sashimi 1/2",
+   "conf": 0.9100869262919706
+  },
+  {
+   "text": "$550",
+   "conf": 0.9907319694757462
+  },
+  {
+   "text": "1XChknTeri Roll",
+   "conf": 0.9580001314481099
+  },
+  {
+   "text": "$3.96",
+   "conf": 0.8001741766929626
+  },
+  {
+   "text": "1XChopRoll",
+   "conf": 0.9397425949573517
+  },
+  {
+   "text": "$3.75",
+   "conf": 0.944181752204895
+  },
+  {
+   "text": "1XTuna Roll",
+   "conf": 0.9341334375468168
+  },
+  {
+   "text": "$1.96",
+   "conf": 0.7683995246887207
+  },
+  {
+   "text": "1XCali Roll",
+   "conf": 0.9086735302751715
+  },
+  {
+   "text": "$2.95",
+   "conf": 0.9228977203369141
+  },
+  {
+   "text": "1XAlaRoll",
+   "conf": 0.9311703708436754
+  },
+  {
+   "text": "$3.95",
+   "conf": 0.729966139793396
+  },
+  {
+   "text": "SUB-TOTAL",
+   "conf": 0.9801510241296556
+  },
+  {
+   "text": "$26.00",
+   "conf": 0.984771857659022
+  },
+  {
+   "text": "GST(5%)",
+   "conf": 0.965123849255698
+  },
+  {
+   "text": "$1.30",
+   "conf": 0.9904988646507263
+  },
+  {
+   "text": "L.Tax(10%)",
+   "conf": 0.9221480131149292
+  },
+  {
+   "text": "$O.00",
+   "conf": 0.9001436352729797
+  },
+  {
+   "text": "TOTALDUE:",
+   "conf": 0.9758378267288208
+  },
+  {
+   "text": "$27.30",
+   "conf": 0.99726469318072
+  },
+  {
+   "text": "CASH:",
+   "conf": 0.9624123811721802
+  },
+  {
+   "text": "$27.30",
+   "conf": 0.9931280116240183
+  },
+  {
+   "text": "PAID",
+   "conf": 0.983100637793541
+  },
+  {
+   "text": "$40.00",
+   "conf": 0.9954647223154703
+  },
+  {
+   "text": "CHANGE:",
+   "conf": 0.9051725481237684
+  }
+ ],
+ "mean_conf": 0.934,
+ "low_conf_share": 0.0,
+ "latency_ms": 3293,
+ "fields": {
+  "company": "SUSHI GARDEN RESTAURANT",
+  "date": "2015-08-06",
+  "total": 27.3
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  27.3
+ ],
+ "key": "W0034_dcd763c440c6"
+}

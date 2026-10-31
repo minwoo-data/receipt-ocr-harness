@@ -1,0 +1,80 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "le Louis Philippe",
+  "Note",
+  "WBLE No 38",
+  "arate sps0",
+  "TOTAL EURO *12.50",
+  "bess"
+ ],
+ "tokens": [
+  {
+   "text": "le",
+   "conf": 0.66
+  },
+  {
+   "text": "Louis",
+   "conf": 0.4
+  },
+  {
+   "text": "Philippe",
+   "conf": 0.96
+  },
+  {
+   "text": "Note",
+   "conf": 0.32
+  },
+  {
+   "text": "WBLE",
+   "conf": 0.0
+  },
+  {
+   "text": "No",
+   "conf": 0.88
+  },
+  {
+   "text": "38",
+   "conf": 0.88
+  },
+  {
+   "text": "arate",
+   "conf": 0.34
+  },
+  {
+   "text": "sps0",
+   "conf": 0.0
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.44
+  },
+  {
+   "text": "EURO",
+   "conf": 0.42
+  },
+  {
+   "text": "*12.50",
+   "conf": 0.24
+  },
+  {
+   "text": "bess",
+   "conf": 0.31
+  }
+ ],
+ "mean_conf": 0.45,
+ "low_conf_share": 0.6923,
+ "latency_ms": 190,
+ "fields": {
+  "company": "LE LOUIS PHILIPPE",
+  "date": null,
+  "total": 12.5
+ },
+ "rule_reasons": [
+  "date_not_found"
+ ],
+ "total_candidates": [
+  12.5
+ ],
+ "key": "W0140_627bec2db41a"
+}

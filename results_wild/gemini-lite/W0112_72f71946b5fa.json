@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.1-flash-lite",
+ "provider": "gemini",
+ "raw_text": "{\n  \"vendor\": \"GH'S DELICACY\",\n  \"date\": \"2014-05-18\",\n  \"subtotal\": 850.0,\n  \"tax\": 105.75,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 954.0,\n  \"currency\": null,\n  \"confidence\": 0.95,\n  \"notes\": \"The currency is not explicitly stated, but the receipt is from Assam House, Chanakyapuri, India.\"\n}",
+ "data": {
+  "vendor": "GH'S DELICACY",
+  "date": "2014-05-18",
+  "subtotal": 850.0,
+  "tax": 105.75,
+  "tip": null,
+  "discount": null,
+  "total": 954.0,
+  "currency": null,
+  "confidence": 0.95,
+  "notes": "The currency is not explicitly stated, but the receipt is from Assam House, Chanakyapuri, India."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1433,
+  "output_tokens": 131,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.000555,
+ "latency_ms": 2498,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.1-flash-lite",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.1-flash-lite"
+ ],
+ "key": "W0112_72f71946b5fa"
+}

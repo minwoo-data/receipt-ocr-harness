@@ -1,0 +1,308 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "- . x",
+  "3",
+  "YY J POSTs;",
+  ": Ltn",
+  "99 SPEED HART 3/8 (SI95S7-¥3",
+  "LOT P.T. 2821, JALAN ANGSA,",
+  "TANGN SERKELEY",
+  "$1150 KLANG, SELANGLR",
+  "LUSE-SUBSHG PERDSHA",
+  "GsT IB, NQ : GAL 7a7712",
+  "INVOICE NO : 1aNge/s0g/TOZAK OX",
+  "G4 56H BASE 20 21-05-17",
+  "82 K RE 10.40",
+  "CASH RA Pi. Ci",
+  "CHANGE RX -20",
+  "GST Sumssry Amour TORN TextRH)",
+  "» \\~)",
+  "‘Thank You. Please come aqair ; 4"
+ ],
+ "tokens": [
+  {
+   "text": "-",
+   "conf": 0.0
+  },
+  {
+   "text": ".",
+   "conf": 0.13
+  },
+  {
+   "text": "x",
+   "conf": 0.57
+  },
+  {
+   "text": "3",
+   "conf": 0.36
+  },
+  {
+   "text": "YY",
+   "conf": 0.16
+  },
+  {
+   "text": "J",
+   "conf": 0.62
+  },
+  {
+   "text": "POSTs;",
+   "conf": 0.13
+  },
+  {
+   "text": ":",
+   "conf": 0.0
+  },
+  {
+   "text": "Ltn",
+   "conf": 0.31
+  },
+  {
+   "text": "99",
+   "conf": 0.9
+  },
+  {
+   "text": "SPEED",
+   "conf": 0.78
+  },
+  {
+   "text": "HART",
+   "conf": 0.91
+  },
+  {
+   "text": "3/8",
+   "conf": 0.21
+  },
+  {
+   "text": "(SI95S7-¥3",
+   "conf": 0.16
+  },
+  {
+   "text": "LOT",
+   "conf": 0.88
+  },
+  {
+   "text": "P.T.",
+   "conf": 0.51
+  },
+  {
+   "text": "2821,",
+   "conf": 0.45
+  },
+  {
+   "text": "JALAN",
+   "conf": 0.83
+  },
+  {
+   "text": "ANGSA,",
+   "conf": 0.24
+  },
+  {
+   "text": "TANGN",
+   "conf": 0.28
+  },
+  {
+   "text": "SERKELEY",
+   "conf": 0.82
+  },
+  {
+   "text": "$1150",
+   "conf": 0.2
+  },
+  {
+   "text": "KLANG,",
+   "conf": 0.72
+  },
+  {
+   "text": "SELANGLR",
+   "conf": 0.0
+  },
+  {
+   "text": "LUSE-SUBSHG",
+   "conf": 0.0
+  },
+  {
+   "text": "PERDSHA",
+   "conf": 0.0
+  },
+  {
+   "text": "GsT",
+   "conf": 0.82
+  },
+  {
+   "text": "IB,",
+   "conf": 0.7
+  },
+  {
+   "text": "NQ",
+   "conf": 0.6
+  },
+  {
+   "text": ":",
+   "conf": 0.06
+  },
+  {
+   "text": "GAL",
+   "conf": 0.0
+  },
+  {
+   "text": "7a7712",
+   "conf": 0.0
+  },
+  {
+   "text": "INVOICE",
+   "conf": 0.63
+  },
+  {
+   "text": "NO",
+   "conf": 0.77
+  },
+  {
+   "text": ":",
+   "conf": 0.23
+  },
+  {
+   "text": "1aNge/s0g/TOZAK",
+   "conf": 0.0
+  },
+  {
+   "text": "OX",
+   "conf": 0.53
+  },
+  {
+   "text": "G4",
+   "conf": 0.15
+  },
+  {
+   "text": "56H",
+   "conf": 0.16
+  },
+  {
+   "text": "BASE",
+   "conf": 0.0
+  },
+  {
+   "text": "20",
+   "conf": 0.0
+  },
+  {
+   "text": "21-05-17",
+   "conf": 0.5
+  },
+  {
+   "text": "82",
+   "conf": 0.47
+  },
+  {
+   "text": "K",
+   "conf": 0.73
+  },
+  {
+   "text": "RE",
+   "conf": 0.44
+  },
+  {
+   "text": "10.40",
+   "conf": 0.55
+  },
+  {
+   "text": "CASH",
+   "conf": 0.76
+  },
+  {
+   "text": "RA",
+   "conf": 0.65
+  },
+  {
+   "text": "Pi.",
+   "conf": 0.39
+  },
+  {
+   "text": "Ci",
+   "conf": 0.35
+  },
+  {
+   "text": "CHANGE",
+   "conf": 0.9
+  },
+  {
+   "text": "RX",
+   "conf": 0.67
+  },
+  {
+   "text": "-20",
+   "conf": 0.69
+  },
+  {
+   "text": "GST",
+   "conf": 0.87
+  },
+  {
+   "text": "Sumssry",
+   "conf": 0.14
+  },
+  {
+   "text": "Amour",
+   "conf": 0.52
+  },
+  {
+   "text": "TORN",
+   "conf": 0.05
+  },
+  {
+   "text": "TextRH)",
+   "conf": 0.0
+  },
+  {
+   "text": "»",
+   "conf": 0.0
+  },
+  {
+   "text": "\\~)",
+   "conf": 0.14
+  },
+  {
+   "text": "‘Thank",
+   "conf": 0.17
+  },
+  {
+   "text": "You.",
+   "conf": 0.93
+  },
+  {
+   "text": "Please",
+   "conf": 0.86
+  },
+  {
+   "text": "come",
+   "conf": 0.93
+  },
+  {
+   "text": "aqair",
+   "conf": 0.45
+  },
+  {
+   "text": ";",
+   "conf": 0.0
+  },
+  {
+   "text": "4",
+   "conf": 0.64
+  }
+ ],
+ "mean_conf": 0.4122,
+ "low_conf_share": 0.5522,
+ "latency_ms": 2500,
+ "fields": {
+  "company": "YY J POSTS",
+  "date": "2017-05-21",
+  "total": 10.4
+ },
+ "rule_reasons": [
+  "total_no_keyword_fallback_max"
+ ],
+ "total_candidates": [
+  10.4
+ ],
+ "key": "X51006388065"
+}

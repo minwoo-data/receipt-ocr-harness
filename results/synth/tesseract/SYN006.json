@@ -1,0 +1,196 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "MAPLE & OAK BOOKSTORE",
+  "G-15 MID VALLEY MEGAMALL",
+  "TAX INVOICE",
+  "Date: 15/11/2026 Time: 13:42",
+  "2 x ENGINE OIL 4b 178.00",
+  "2 x STEAMED FISH 96.00",
+  "SUBTOTAL 274.00",
+  "GST 6% 16.44",
+  "TOTAL 290.44",
+  "CASH 295.44",
+  "CHANGE 5.00",
+  "THANK YOU, PLEASE COME AGAIN"
+ ],
+ "tokens": [
+  {
+   "text": "MAPLE",
+   "conf": 0.93
+  },
+  {
+   "text": "&",
+   "conf": 0.92
+  },
+  {
+   "text": "OAK",
+   "conf": 0.96
+  },
+  {
+   "text": "BOOKSTORE",
+   "conf": 0.96
+  },
+  {
+   "text": "G-15",
+   "conf": 0.9
+  },
+  {
+   "text": "MID",
+   "conf": 0.96
+  },
+  {
+   "text": "VALLEY",
+   "conf": 0.93
+  },
+  {
+   "text": "MEGAMALL",
+   "conf": 0.91
+  },
+  {
+   "text": "TAX",
+   "conf": 0.94
+  },
+  {
+   "text": "INVOICE",
+   "conf": 0.94
+  },
+  {
+   "text": "Date:",
+   "conf": 0.95
+  },
+  {
+   "text": "15/11/2026",
+   "conf": 0.96
+  },
+  {
+   "text": "Time:",
+   "conf": 0.96
+  },
+  {
+   "text": "13:42",
+   "conf": 0.96
+  },
+  {
+   "text": "2",
+   "conf": 0.7
+  },
+  {
+   "text": "x",
+   "conf": 0.7
+  },
+  {
+   "text": "ENGINE",
+   "conf": 0.96
+  },
+  {
+   "text": "OIL",
+   "conf": 0.96
+  },
+  {
+   "text": "4b",
+   "conf": 0.0
+  },
+  {
+   "text": "178.00",
+   "conf": 0.95
+  },
+  {
+   "text": "2",
+   "conf": 0.73
+  },
+  {
+   "text": "x",
+   "conf": 0.73
+  },
+  {
+   "text": "STEAMED",
+   "conf": 0.96
+  },
+  {
+   "text": "FISH",
+   "conf": 0.96
+  },
+  {
+   "text": "96.00",
+   "conf": 0.96
+  },
+  {
+   "text": "SUBTOTAL",
+   "conf": 0.96
+  },
+  {
+   "text": "274.00",
+   "conf": 0.95
+  },
+  {
+   "text": "GST",
+   "conf": 0.95
+  },
+  {
+   "text": "6%",
+   "conf": 0.95
+  },
+  {
+   "text": "16.44",
+   "conf": 0.91
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.96
+  },
+  {
+   "text": "290.44",
+   "conf": 0.95
+  },
+  {
+   "text": "CASH",
+   "conf": 0.96
+  },
+  {
+   "text": "295.44",
+   "conf": 0.93
+  },
+  {
+   "text": "CHANGE",
+   "conf": 0.96
+  },
+  {
+   "text": "5.00",
+   "conf": 0.95
+  },
+  {
+   "text": "THANK",
+   "conf": 0.96
+  },
+  {
+   "text": "YOU,",
+   "conf": 0.96
+  },
+  {
+   "text": "PLEASE",
+   "conf": 0.96
+  },
+  {
+   "text": "COME",
+   "conf": 0.96
+  },
+  {
+   "text": "AGAIN",
+   "conf": 0.96
+  }
+ ],
+ "mean_conf": 0.9029,
+ "low_conf_share": 0.0244,
+ "latency_ms": 1763,
+ "fields": {
+  "company": "MAPLE OAK BOOKSTORE",
+  "date": "2026-11-15",
+  "total": 290.44
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  290.44
+ ],
+ "key": "SYN006"
+}

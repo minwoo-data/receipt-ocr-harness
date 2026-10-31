@@ -1,0 +1,187 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "ANJAPPAR",
+  "AUTHENTIC CHETTINAAD RESTAURANT",
+  "(Unit of Maestrosoft Pte Ltd)",
+  "#76,78 Race Course Rd,S'Pore 218575",
+  "Tel:+65 62965545 Fax:+65 62965575.",
+  "GST Reg, No. 2001036982",
+  "FREE HOME DELIVERY 67776777",
+  "23/05/2018 18:51 ACAt 201305231",
+  "02 Pax: 1",
+  "; 14",
+  "10,00",
+  "6.50",
+  "9,00"
+ ],
+ "tokens": [
+  {
+   "text": "ANJAPPAR",
+   "conf": 0.91
+  },
+  {
+   "text": "AUTHENTIC",
+   "conf": 0.93
+  },
+  {
+   "text": "CHETTINAAD",
+   "conf": 0.9
+  },
+  {
+   "text": "RESTAURANT",
+   "conf": 0.96
+  },
+  {
+   "text": "(Unit",
+   "conf": 0.96
+  },
+  {
+   "text": "of",
+   "conf": 0.92
+  },
+  {
+   "text": "Maestrosoft",
+   "conf": 0.92
+  },
+  {
+   "text": "Pte",
+   "conf": 0.96
+  },
+  {
+   "text": "Ltd)",
+   "conf": 0.96
+  },
+  {
+   "text": "#76,78",
+   "conf": 0.92
+  },
+  {
+   "text": "Race",
+   "conf": 0.97
+  },
+  {
+   "text": "Course",
+   "conf": 0.93
+  },
+  {
+   "text": "Rd,S'Pore",
+   "conf": 0.45
+  },
+  {
+   "text": "218575",
+   "conf": 0.96
+  },
+  {
+   "text": "Tel:+65",
+   "conf": 0.3
+  },
+  {
+   "text": "62965545",
+   "conf": 0.88
+  },
+  {
+   "text": "Fax:+65",
+   "conf": 0.77
+  },
+  {
+   "text": "62965575.",
+   "conf": 0.65
+  },
+  {
+   "text": "GST",
+   "conf": 0.96
+  },
+  {
+   "text": "Reg,",
+   "conf": 0.93
+  },
+  {
+   "text": "No.",
+   "conf": 0.94
+  },
+  {
+   "text": "2001036982",
+   "conf": 0.61
+  },
+  {
+   "text": "FREE",
+   "conf": 0.95
+  },
+  {
+   "text": "HOME",
+   "conf": 0.96
+  },
+  {
+   "text": "DELIVERY",
+   "conf": 0.96
+  },
+  {
+   "text": "67776777",
+   "conf": 0.96
+  },
+  {
+   "text": "23/05/2018",
+   "conf": 0.71
+  },
+  {
+   "text": "18:51",
+   "conf": 0.85
+  },
+  {
+   "text": "ACAt",
+   "conf": 0.59
+  },
+  {
+   "text": "201305231",
+   "conf": 0.96
+  },
+  {
+   "text": "02",
+   "conf": 0.96
+  },
+  {
+   "text": "Pax:",
+   "conf": 0.93
+  },
+  {
+   "text": "1",
+   "conf": 0.93
+  },
+  {
+   "text": ";",
+   "conf": 0.0
+  },
+  {
+   "text": "14",
+   "conf": 0.95
+  },
+  {
+   "text": "10,00",
+   "conf": 0.94
+  },
+  {
+   "text": "6.50",
+   "conf": 0.94
+  },
+  {
+   "text": "9,00",
+   "conf": 0.86
+  }
+ ],
+ "mean_conf": 0.8458,
+ "low_conf_share": 0.0789,
+ "latency_ms": 822,
+ "fields": {
+  "company": "ANJAPPAR AUTHENTIC CHETTINAAD RESTAURANT",
+  "date": "2018-05-23",
+  "total": 6.5
+ },
+ "rule_reasons": [
+  "total_no_keyword_fallback_max"
+ ],
+ "total_candidates": [
+  6.5
+ ],
+ "key": "W0186_a228b1751c7e"
+}

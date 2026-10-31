@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.6-flash",
+ "provider": "gemini",
+ "raw_text": "{\"vendor\": \"ONION PUB & BREWERY\", \"date\": \"2011-07-20\", \"subtotal\": 45.0, \"tax\": 1.4, \"tip\": 8.1, \"discount\": -25.0, \"total\": 29.5, \"currency\": \"USD\", \"confidence\": 0.98, \"notes\": null}",
+ "data": {
+  "vendor": "ONION PUB & BREWERY",
+  "date": "2011-07-20",
+  "subtotal": 45.0,
+  "tax": 1.4,
+  "tip": 8.1,
+  "discount": -25.0,
+  "total": 29.5,
+  "currency": "USD",
+  "confidence": 0.98,
+  "notes": null
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1433,
+  "output_tokens": 91,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.001416,
+ "latency_ms": 1561,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.6-flash",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.6-flash"
+ ],
+ "key": "W0181_2273c0c8cdd4"
+}

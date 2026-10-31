@@ -1,0 +1,644 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "\\",
+  "0 i",
+  "e",
+  "TYRONE sau Y",
+  "SQUAR i",
+  "6901 22nd ave ¥ es",
+  "Shop 470",
+  "Tyrone Square Mal]",
+  "St Petersburg 33710 FL",
+  "Telephone: 1-727-243-2230 P",
+  "Tax Invoice e",
+  "atin Registration lo: Esl",
+  "I Total",
+  "362366-08 - # se pop shirt - D 1 si0 (0 €",
+  "SIZE - ¥L 4",
+  "Subtotal $10.(0 :",
+  "es Total Tax 7 Oi (H) $0.10",
+  "peas Total $10.70 f",
+  ". ” EFT Paynert Visa $10.70",
+  "ia fut Ho,: 84.093 SY |",
+  "ro Total rio. of units: |",
+  "| Your Gashier was Tashina '",
+  "_ lo, Reg 01/85192 oo",
+  "oe Trans Ter aik YOU FOR SHORPING # COTTON OH",
+  "a. a Please refer to instors c1onage j",
+  "‘ ie or our website wuw.cottor an con for",
+  "Po Refund & Exchange Pc liey :",
+  "\"7 HUSS THE LATES :",
+  "_ ON a a paag UN OTTO OH .",
+  "Rea wu Vm mEReTIC). Wecribe ie"
+ ],
+ "tokens": [
+  {
+   "text": "\\",
+   "conf": 0.76
+  },
+  {
+   "text": "0",
+   "conf": 0.96
+  },
+  {
+   "text": "i",
+   "conf": 0.71
+  },
+  {
+   "text": "e",
+   "conf": 0.74
+  },
+  {
+   "text": "TYRONE",
+   "conf": 0.96
+  },
+  {
+   "text": "sau",
+   "conf": 0.94
+  },
+  {
+   "text": "Y",
+   "conf": 0.0
+  },
+  {
+   "text": "SQUAR",
+   "conf": 0.9
+  },
+  {
+   "text": "i",
+   "conf": 0.62
+  },
+  {
+   "text": "6901",
+   "conf": 0.94
+  },
+  {
+   "text": "22nd",
+   "conf": 0.94
+  },
+  {
+   "text": "ave",
+   "conf": 0.91
+  },
+  {
+   "text": "¥",
+   "conf": 0.0
+  },
+  {
+   "text": "es",
+   "conf": 0.06
+  },
+  {
+   "text": "Shop",
+   "conf": 0.95
+  },
+  {
+   "text": "470",
+   "conf": 0.95
+  },
+  {
+   "text": "Tyrone",
+   "conf": 0.96
+  },
+  {
+   "text": "Square",
+   "conf": 0.96
+  },
+  {
+   "text": "Mal]",
+   "conf": 0.86
+  },
+  {
+   "text": "St",
+   "conf": 0.96
+  },
+  {
+   "text": "Petersburg",
+   "conf": 0.96
+  },
+  {
+   "text": "33710",
+   "conf": 0.83
+  },
+  {
+   "text": "FL",
+   "conf": 0.95
+  },
+  {
+   "text": "Telephone:",
+   "conf": 0.88
+  },
+  {
+   "text": "1-727-243-2230",
+   "conf": 0.85
+  },
+  {
+   "text": "P",
+   "conf": 0.0
+  },
+  {
+   "text": "Tax",
+   "conf": 0.95
+  },
+  {
+   "text": "Invoice",
+   "conf": 0.18
+  },
+  {
+   "text": "e",
+   "conf": 0.0
+  },
+  {
+   "text": "atin",
+   "conf": 0.0
+  },
+  {
+   "text": "Registration",
+   "conf": 0.96
+  },
+  {
+   "text": "lo:",
+   "conf": 0.07
+  },
+  {
+   "text": "Esl",
+   "conf": 0.02
+  },
+  {
+   "text": "I",
+   "conf": 0.68
+  },
+  {
+   "text": "Total",
+   "conf": 0.95
+  },
+  {
+   "text": "362366-08",
+   "conf": 0.92
+  },
+  {
+   "text": "-",
+   "conf": 0.89
+  },
+  {
+   "text": "#",
+   "conf": 0.62
+  },
+  {
+   "text": "se",
+   "conf": 0.69
+  },
+  {
+   "text": "pop",
+   "conf": 0.96
+  },
+  {
+   "text": "shirt",
+   "conf": 0.91
+  },
+  {
+   "text": "-",
+   "conf": 0.0
+  },
+  {
+   "text": "D",
+   "conf": 0.88
+  },
+  {
+   "text": "1",
+   "conf": 0.72
+  },
+  {
+   "text": "si0",
+   "conf": 0.63
+  },
+  {
+   "text": "(0",
+   "conf": 0.52
+  },
+  {
+   "text": "€",
+   "conf": 0.25
+  },
+  {
+   "text": "SIZE",
+   "conf": 0.66
+  },
+  {
+   "text": "-",
+   "conf": 0.6
+  },
+  {
+   "text": "¥L",
+   "conf": 0.71
+  },
+  {
+   "text": "4",
+   "conf": 0.03
+  },
+  {
+   "text": "Subtotal",
+   "conf": 0.55
+  },
+  {
+   "text": "$10.(0",
+   "conf": 0.67
+  },
+  {
+   "text": ":",
+   "conf": 0.0
+  },
+  {
+   "text": "es",
+   "conf": 0.22
+  },
+  {
+   "text": "Total",
+   "conf": 0.96
+  },
+  {
+   "text": "Tax",
+   "conf": 0.94
+  },
+  {
+   "text": "7",
+   "conf": 0.93
+  },
+  {
+   "text": "Oi",
+   "conf": 0.58
+  },
+  {
+   "text": "(H)",
+   "conf": 0.39
+  },
+  {
+   "text": "$0.10",
+   "conf": 0.71
+  },
+  {
+   "text": "peas",
+   "conf": 0.24
+  },
+  {
+   "text": "Total",
+   "conf": 0.95
+  },
+  {
+   "text": "$10.70",
+   "conf": 0.84
+  },
+  {
+   "text": "f",
+   "conf": 0.0
+  },
+  {
+   "text": ".",
+   "conf": 0.06
+  },
+  {
+   "text": "”",
+   "conf": 0.0
+  },
+  {
+   "text": "EFT",
+   "conf": 0.92
+  },
+  {
+   "text": "Paynert",
+   "conf": 0.79
+  },
+  {
+   "text": "Visa",
+   "conf": 0.95
+  },
+  {
+   "text": "$10.70",
+   "conf": 0.87
+  },
+  {
+   "text": "ia",
+   "conf": 0.46
+  },
+  {
+   "text": "fut",
+   "conf": 0.0
+  },
+  {
+   "text": "Ho,:",
+   "conf": 0.47
+  },
+  {
+   "text": "84.093",
+   "conf": 0.36
+  },
+  {
+   "text": "SY",
+   "conf": 0.46
+  },
+  {
+   "text": "|",
+   "conf": 0.55
+  },
+  {
+   "text": "ro",
+   "conf": 0.14
+  },
+  {
+   "text": "Total",
+   "conf": 0.75
+  },
+  {
+   "text": "rio.",
+   "conf": 0.44
+  },
+  {
+   "text": "of",
+   "conf": 0.94
+  },
+  {
+   "text": "units:",
+   "conf": 0.94
+  },
+  {
+   "text": "|",
+   "conf": 0.68
+  },
+  {
+   "text": "|",
+   "conf": 0.1
+  },
+  {
+   "text": "Your",
+   "conf": 0.49
+  },
+  {
+   "text": "Gashier",
+   "conf": 0.87
+  },
+  {
+   "text": "was",
+   "conf": 0.93
+  },
+  {
+   "text": "Tashina",
+   "conf": 0.58
+  },
+  {
+   "text": "'",
+   "conf": 0.0
+  },
+  {
+   "text": "_",
+   "conf": 0.0
+  },
+  {
+   "text": "lo,",
+   "conf": 0.59
+  },
+  {
+   "text": "Reg",
+   "conf": 0.91
+  },
+  {
+   "text": "01/85192",
+   "conf": 0.34
+  },
+  {
+   "text": "oo",
+   "conf": 0.3
+  },
+  {
+   "text": "oe",
+   "conf": 0.02
+  },
+  {
+   "text": "Trans",
+   "conf": 0.85
+  },
+  {
+   "text": "Ter",
+   "conf": 0.0
+  },
+  {
+   "text": "aik",
+   "conf": 0.0
+  },
+  {
+   "text": "YOU",
+   "conf": 0.35
+  },
+  {
+   "text": "FOR",
+   "conf": 0.9
+  },
+  {
+   "text": "SHORPING",
+   "conf": 0.16
+  },
+  {
+   "text": "#",
+   "conf": 0.44
+  },
+  {
+   "text": "COTTON",
+   "conf": 0.89
+  },
+  {
+   "text": "OH",
+   "conf": 0.57
+  },
+  {
+   "text": "a.",
+   "conf": 0.29
+  },
+  {
+   "text": "a",
+   "conf": 0.11
+  },
+  {
+   "text": "Please",
+   "conf": 0.94
+  },
+  {
+   "text": "refer",
+   "conf": 0.96
+  },
+  {
+   "text": "to",
+   "conf": 0.91
+  },
+  {
+   "text": "instors",
+   "conf": 0.1
+  },
+  {
+   "text": "c1onage",
+   "conf": 0.15
+  },
+  {
+   "text": "j",
+   "conf": 0.48
+  },
+  {
+   "text": "‘",
+   "conf": 0.4
+  },
+  {
+   "text": "ie",
+   "conf": 0.0
+  },
+  {
+   "text": "or",
+   "conf": 0.86
+  },
+  {
+   "text": "our",
+   "conf": 0.86
+  },
+  {
+   "text": "website",
+   "conf": 0.35
+  },
+  {
+   "text": "wuw.cottor",
+   "conf": 0.07
+  },
+  {
+   "text": "an",
+   "conf": 0.07
+  },
+  {
+   "text": "con",
+   "conf": 0.47
+  },
+  {
+   "text": "for",
+   "conf": 0.96
+  },
+  {
+   "text": "Po",
+   "conf": 0.0
+  },
+  {
+   "text": "Refund",
+   "conf": 0.93
+  },
+  {
+   "text": "&",
+   "conf": 0.9
+  },
+  {
+   "text": "Exchange",
+   "conf": 0.95
+  },
+  {
+   "text": "Pc",
+   "conf": 0.43
+  },
+  {
+   "text": "liey",
+   "conf": 0.26
+  },
+  {
+   "text": ":",
+   "conf": 0.0
+  },
+  {
+   "text": "\"7",
+   "conf": 0.58
+  },
+  {
+   "text": "HUSS",
+   "conf": 0.13
+  },
+  {
+   "text": "THE",
+   "conf": 0.84
+  },
+  {
+   "text": "LATES",
+   "conf": 0.85
+  },
+  {
+   "text": ":",
+   "conf": 0.43
+  },
+  {
+   "text": "_",
+   "conf": 0.0
+  },
+  {
+   "text": "ON",
+   "conf": 0.01
+  },
+  {
+   "text": "a",
+   "conf": 0.0
+  },
+  {
+   "text": "a",
+   "conf": 0.3
+  },
+  {
+   "text": "paag",
+   "conf": 0.0
+  },
+  {
+   "text": "UN",
+   "conf": 0.5
+  },
+  {
+   "text": "OTTO",
+   "conf": 0.57
+  },
+  {
+   "text": "OH",
+   "conf": 0.54
+  },
+  {
+   "text": ".",
+   "conf": 0.0
+  },
+  {
+   "text": "Rea",
+   "conf": 0.12
+  },
+  {
+   "text": "wu",
+   "conf": 0.41
+  },
+  {
+   "text": "Vm",
+   "conf": 0.0
+  },
+  {
+   "text": "mEReTIC).",
+   "conf": 0.0
+  },
+  {
+   "text": "Wecribe",
+   "conf": 0.0
+  },
+  {
+   "text": "ie",
+   "conf": 0.04
+  }
+ ],
+ "mean_conf": 0.5214,
+ "low_conf_share": 0.4527,
+ "latency_ms": 1515,
+ "fields": {
+  "company": "TYRONE SAU Y",
+  "date": null,
+  "total": 10.7
+ },
+ "rule_reasons": [
+  "date_not_found"
+ ],
+ "total_candidates": [
+  10.7
+ ],
+ "key": "W0098_c6e5ea8e90fc"
+}

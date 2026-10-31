@@ -1,0 +1,47 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "reanland Aaua Park",
+  "“Trans, No. 46723"
+ ],
+ "tokens": [
+  {
+   "text": "reanland",
+   "conf": 0.28
+  },
+  {
+   "text": "Aaua",
+   "conf": 0.3
+  },
+  {
+   "text": "Park",
+   "conf": 0.95
+  },
+  {
+   "text": "“Trans,",
+   "conf": 0.86
+  },
+  {
+   "text": "No.",
+   "conf": 0.21
+  },
+  {
+   "text": "46723",
+   "conf": 0.21
+  }
+ ],
+ "mean_conf": 0.4683,
+ "low_conf_share": 0.6667,
+ "latency_ms": 177,
+ "fields": {
+  "company": "REANLAND AAUA PARK",
+  "date": null,
+  "total": null
+ },
+ "rule_reasons": [
+  "date_not_found",
+  "total_not_found"
+ ],
+ "total_candidates": [],
+ "key": "W0080_6b72f03620a7"
+}

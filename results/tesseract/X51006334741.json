@@ -1,0 +1,627 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "Thank You. Flease come again.",
+  "Goods Sold. Are Not Returnable.",
+  "For’feedback or complaint, please call:",
+  "F M11-3194 284",
+  "AREDEEH VOUCHER BEFORE POINTS EXPIRY!",
+  "Segi Cash & Carry Sdn. Bhd",
+  "(31704i-W)",
+  "i PTA7920, SEKSYEN UP,",
+  "i 40150 SHAH ALA, .",
+  "SELANGOR TARUL EHSAN.",
+  "i GST Reg. No. + 001951645496",
+  "Invoice No: 47735",
+  "llate : 04 Jan e017 O1:topn",
+  "Counter : 03",
+  "UNICA PAIL 46L 600",
+  "tx 17.41 17,44 5",
+  "HASSIHO FINE WHOLEMEAL 4206",
+  "tx 2.64 2.647",
+  "No of items: 2",
+  "Total Incl. G57T:kH 20.05",
+  "Cash:RNM 26.00",
+  "Change: RH 27.95",
+  "Missed Point Today: 19",
+  "Served by SITI SUHAINA BT OTHMAN",
+  "PREREREROEEEEE OST Summary ROR",
+  "GST Code Amount(RM) Tax(RH)} J",
+  "§ @6.0% 14.42 0.99",
+  "7 00.0% 2.64 0.00",
+  "TREE RARE ARERR ER RAAB IR ERE REAR AR",
+  "Ref No: 006006746213047735",
+  "Thank You. Please come again.",
+  "Goods Sold Are Not Returnable.",
+  "For feedback or complaint, please call:"
+ ],
+ "tokens": [
+  {
+   "text": "Thank",
+   "conf": 0.94
+  },
+  {
+   "text": "You.",
+   "conf": 0.93
+  },
+  {
+   "text": "Flease",
+   "conf": 0.9
+  },
+  {
+   "text": "come",
+   "conf": 0.96
+  },
+  {
+   "text": "again.",
+   "conf": 0.89
+  },
+  {
+   "text": "Goods",
+   "conf": 0.94
+  },
+  {
+   "text": "Sold.",
+   "conf": 0.23
+  },
+  {
+   "text": "Are",
+   "conf": 0.23
+  },
+  {
+   "text": "Not",
+   "conf": 0.93
+  },
+  {
+   "text": "Returnable.",
+   "conf": 0.9
+  },
+  {
+   "text": "For’feedback",
+   "conf": 0.65
+  },
+  {
+   "text": "or",
+   "conf": 0.92
+  },
+  {
+   "text": "complaint,",
+   "conf": 0.96
+  },
+  {
+   "text": "please",
+   "conf": 0.96
+  },
+  {
+   "text": "call:",
+   "conf": 0.91
+  },
+  {
+   "text": "F",
+   "conf": 0.71
+  },
+  {
+   "text": "M11-3194",
+   "conf": 0.66
+  },
+  {
+   "text": "284",
+   "conf": 0.3
+  },
+  {
+   "text": "AREDEEH",
+   "conf": 0.0
+  },
+  {
+   "text": "VOUCHER",
+   "conf": 0.84
+  },
+  {
+   "text": "BEFORE",
+   "conf": 0.87
+  },
+  {
+   "text": "POINTS",
+   "conf": 0.96
+  },
+  {
+   "text": "EXPIRY!",
+   "conf": 0.13
+  },
+  {
+   "text": "Segi",
+   "conf": 0.69
+  },
+  {
+   "text": "Cash",
+   "conf": 0.93
+  },
+  {
+   "text": "&",
+   "conf": 0.93
+  },
+  {
+   "text": "Carry",
+   "conf": 0.96
+  },
+  {
+   "text": "Sdn.",
+   "conf": 0.07
+  },
+  {
+   "text": "Bhd",
+   "conf": 0.07
+  },
+  {
+   "text": "(31704i-W)",
+   "conf": 0.28
+  },
+  {
+   "text": "i",
+   "conf": 0.94
+  },
+  {
+   "text": "PTA7920,",
+   "conf": 0.0
+  },
+  {
+   "text": "SEKSYEN",
+   "conf": 0.88
+  },
+  {
+   "text": "UP,",
+   "conf": 0.46
+  },
+  {
+   "text": "i",
+   "conf": 0.75
+  },
+  {
+   "text": "40150",
+   "conf": 0.95
+  },
+  {
+   "text": "SHAH",
+   "conf": 0.96
+  },
+  {
+   "text": "ALA,",
+   "conf": 0.38
+  },
+  {
+   "text": ".",
+   "conf": 0.72
+  },
+  {
+   "text": "SELANGOR",
+   "conf": 0.93
+  },
+  {
+   "text": "TARUL",
+   "conf": 0.0
+  },
+  {
+   "text": "EHSAN.",
+   "conf": 0.92
+  },
+  {
+   "text": "i",
+   "conf": 0.69
+  },
+  {
+   "text": "GST",
+   "conf": 0.95
+  },
+  {
+   "text": "Reg.",
+   "conf": 0.81
+  },
+  {
+   "text": "No.",
+   "conf": 0.84
+  },
+  {
+   "text": "+",
+   "conf": 0.39
+  },
+  {
+   "text": "001951645496",
+   "conf": 0.23
+  },
+  {
+   "text": "Invoice",
+   "conf": 0.3
+  },
+  {
+   "text": "No:",
+   "conf": 0.49
+  },
+  {
+   "text": "47735",
+   "conf": 0.92
+  },
+  {
+   "text": "llate",
+   "conf": 0.25
+  },
+  {
+   "text": ":",
+   "conf": 0.79
+  },
+  {
+   "text": "04",
+   "conf": 0.92
+  },
+  {
+   "text": "Jan",
+   "conf": 0.94
+  },
+  {
+   "text": "e017",
+   "conf": 0.65
+  },
+  {
+   "text": "O1:topn",
+   "conf": 0.07
+  },
+  {
+   "text": "Counter",
+   "conf": 0.96
+  },
+  {
+   "text": ":",
+   "conf": 0.69
+  },
+  {
+   "text": "03",
+   "conf": 0.74
+  },
+  {
+   "text": "UNICA",
+   "conf": 0.91
+  },
+  {
+   "text": "PAIL",
+   "conf": 0.87
+  },
+  {
+   "text": "46L",
+   "conf": 0.73
+  },
+  {
+   "text": "600",
+   "conf": 0.89
+  },
+  {
+   "text": "tx",
+   "conf": 0.37
+  },
+  {
+   "text": "17.41",
+   "conf": 0.9
+  },
+  {
+   "text": "17,44",
+   "conf": 0.25
+  },
+  {
+   "text": "5",
+   "conf": 0.78
+  },
+  {
+   "text": "HASSIHO",
+   "conf": 0.82
+  },
+  {
+   "text": "FINE",
+   "conf": 0.91
+  },
+  {
+   "text": "WHOLEMEAL",
+   "conf": 0.89
+  },
+  {
+   "text": "4206",
+   "conf": 0.96
+  },
+  {
+   "text": "tx",
+   "conf": 0.6
+  },
+  {
+   "text": "2.64",
+   "conf": 0.88
+  },
+  {
+   "text": "2.647",
+   "conf": 0.61
+  },
+  {
+   "text": "No",
+   "conf": 0.96
+  },
+  {
+   "text": "of",
+   "conf": 0.95
+  },
+  {
+   "text": "items:",
+   "conf": 0.83
+  },
+  {
+   "text": "2",
+   "conf": 0.94
+  },
+  {
+   "text": "Total",
+   "conf": 0.96
+  },
+  {
+   "text": "Incl.",
+   "conf": 0.93
+  },
+  {
+   "text": "G57T:kH",
+   "conf": 0.29
+  },
+  {
+   "text": "20.05",
+   "conf": 0.8
+  },
+  {
+   "text": "Cash:RNM",
+   "conf": 0.3
+  },
+  {
+   "text": "26.00",
+   "conf": 0.42
+  },
+  {
+   "text": "Change:",
+   "conf": 0.0
+  },
+  {
+   "text": "RH",
+   "conf": 0.0
+  },
+  {
+   "text": "27.95",
+   "conf": 0.72
+  },
+  {
+   "text": "Missed",
+   "conf": 0.14
+  },
+  {
+   "text": "Point",
+   "conf": 0.96
+  },
+  {
+   "text": "Today:",
+   "conf": 0.96
+  },
+  {
+   "text": "19",
+   "conf": 0.94
+  },
+  {
+   "text": "Served",
+   "conf": 0.96
+  },
+  {
+   "text": "by",
+   "conf": 0.93
+  },
+  {
+   "text": "SITI",
+   "conf": 0.87
+  },
+  {
+   "text": "SUHAINA",
+   "conf": 0.72
+  },
+  {
+   "text": "BT",
+   "conf": 0.84
+  },
+  {
+   "text": "OTHMAN",
+   "conf": 0.77
+  },
+  {
+   "text": "PREREREROEEEEE",
+   "conf": 0.0
+  },
+  {
+   "text": "OST",
+   "conf": 0.9
+  },
+  {
+   "text": "Summary",
+   "conf": 0.81
+  },
+  {
+   "text": "ROR",
+   "conf": 0.0
+  },
+  {
+   "text": "GST",
+   "conf": 0.9
+  },
+  {
+   "text": "Code",
+   "conf": 0.85
+  },
+  {
+   "text": "Amount(RM)",
+   "conf": 0.38
+  },
+  {
+   "text": "Tax(RH)}",
+   "conf": 0.0
+  },
+  {
+   "text": "J",
+   "conf": 0.46
+  },
+  {
+   "text": "§",
+   "conf": 0.89
+  },
+  {
+   "text": "@6.0%",
+   "conf": 0.86
+  },
+  {
+   "text": "14.42",
+   "conf": 0.94
+  },
+  {
+   "text": "0.99",
+   "conf": 0.95
+  },
+  {
+   "text": "7",
+   "conf": 0.26
+  },
+  {
+   "text": "00.0%",
+   "conf": 0.36
+  },
+  {
+   "text": "2.64",
+   "conf": 0.89
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9
+  },
+  {
+   "text": "TREE",
+   "conf": 0.21
+  },
+  {
+   "text": "RARE",
+   "conf": 0.22
+  },
+  {
+   "text": "ARERR",
+   "conf": 0.0
+  },
+  {
+   "text": "ER",
+   "conf": 0.0
+  },
+  {
+   "text": "RAAB",
+   "conf": 0.02
+  },
+  {
+   "text": "IR",
+   "conf": 0.31
+  },
+  {
+   "text": "ERE",
+   "conf": 0.15
+  },
+  {
+   "text": "REAR",
+   "conf": 0.15
+  },
+  {
+   "text": "AR",
+   "conf": 0.15
+  },
+  {
+   "text": "Ref",
+   "conf": 0.93
+  },
+  {
+   "text": "No:",
+   "conf": 0.67
+  },
+  {
+   "text": "006006746213047735",
+   "conf": 0.2
+  },
+  {
+   "text": "Thank",
+   "conf": 0.96
+  },
+  {
+   "text": "You.",
+   "conf": 0.95
+  },
+  {
+   "text": "Please",
+   "conf": 0.95
+  },
+  {
+   "text": "come",
+   "conf": 0.96
+  },
+  {
+   "text": "again.",
+   "conf": 0.95
+  },
+  {
+   "text": "Goods",
+   "conf": 0.94
+  },
+  {
+   "text": "Sold",
+   "conf": 0.95
+  },
+  {
+   "text": "Are",
+   "conf": 0.88
+  },
+  {
+   "text": "Not",
+   "conf": 0.78
+  },
+  {
+   "text": "Returnable.",
+   "conf": 0.14
+  },
+  {
+   "text": "For",
+   "conf": 0.96
+  },
+  {
+   "text": "feedback",
+   "conf": 0.33
+  },
+  {
+   "text": "or",
+   "conf": 0.96
+  },
+  {
+   "text": "complaint,",
+   "conf": 0.94
+  },
+  {
+   "text": "please",
+   "conf": 0.95
+  },
+  {
+   "text": "call:",
+   "conf": 0.9
+  }
+ ],
+ "mean_conf": 0.6615,
+ "low_conf_share": 0.3147,
+ "latency_ms": 649,
+ "fields": {
+  "company": "SEGI CASH CARRY SDN BHD",
+  "date": null,
+  "total": 20.05
+ },
+ "rule_reasons": [
+  "date_not_found"
+ ],
+ "total_candidates": [
+  20.05
+ ],
+ "key": "X51006334741"
+}

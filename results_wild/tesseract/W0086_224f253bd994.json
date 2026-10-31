@@ -1,0 +1,351 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "Etter neues",
+  "© oll RipaguP 8.88",
+  "E ooooiei9it coupes 2.00\"",
+  "ot nef e298 8",
+  "seer wnpB 8",
+  "sean Sokemie 1388",
+  "aaron HE",
+  "Fs woe",
+  "won | mma",
+  "Rn \"Mtetepo eit BY tn",
+  "fixe frat ee Sn",
+  "Ts ees ran",
+  "ah aoe Tao",
+  "Moca 8 ae",
+  "‘EPR = Pre",
+  "Sam 110.8",
+  "SUAS 132 1199 1 38 48",
+  "Vise 110,81 J",
+  "Sie Be) :",
+  "410.50 Tx 10.86",
+  "rn TAL ie",
+  "oT NRO Tres san =e",
+  "iaeos Tou $0.0"
+ ],
+ "tokens": [
+  {
+   "text": "Etter",
+   "conf": 0.38
+  },
+  {
+   "text": "neues",
+   "conf": 0.0
+  },
+  {
+   "text": "©",
+   "conf": 0.57
+  },
+  {
+   "text": "oll",
+   "conf": 0.24
+  },
+  {
+   "text": "RipaguP",
+   "conf": 0.0
+  },
+  {
+   "text": "8.88",
+   "conf": 0.16
+  },
+  {
+   "text": "E",
+   "conf": 0.67
+  },
+  {
+   "text": "ooooiei9it",
+   "conf": 0.0
+  },
+  {
+   "text": "coupes",
+   "conf": 0.43
+  },
+  {
+   "text": "2.00\"",
+   "conf": 0.69
+  },
+  {
+   "text": "ot",
+   "conf": 0.21
+  },
+  {
+   "text": "nef",
+   "conf": 0.53
+  },
+  {
+   "text": "e298",
+   "conf": 0.31
+  },
+  {
+   "text": "8",
+   "conf": 0.29
+  },
+  {
+   "text": "seer",
+   "conf": 0.33
+  },
+  {
+   "text": "wnpB",
+   "conf": 0.0
+  },
+  {
+   "text": "8",
+   "conf": 0.0
+  },
+  {
+   "text": "sean",
+   "conf": 0.13
+  },
+  {
+   "text": "Sokemie",
+   "conf": 0.0
+  },
+  {
+   "text": "1388",
+   "conf": 0.49
+  },
+  {
+   "text": "aaron",
+   "conf": 0.37
+  },
+  {
+   "text": "HE",
+   "conf": 0.3
+  },
+  {
+   "text": "Fs",
+   "conf": 0.0
+  },
+  {
+   "text": "woe",
+   "conf": 0.31
+  },
+  {
+   "text": "won",
+   "conf": 0.38
+  },
+  {
+   "text": "|",
+   "conf": 0.59
+  },
+  {
+   "text": "mma",
+   "conf": 0.12
+  },
+  {
+   "text": "Rn",
+   "conf": 0.26
+  },
+  {
+   "text": "\"Mtetepo",
+   "conf": 0.0
+  },
+  {
+   "text": "eit",
+   "conf": 0.43
+  },
+  {
+   "text": "BY",
+   "conf": 0.45
+  },
+  {
+   "text": "tn",
+   "conf": 0.27
+  },
+  {
+   "text": "fixe",
+   "conf": 0.25
+  },
+  {
+   "text": "frat",
+   "conf": 0.24
+  },
+  {
+   "text": "ee",
+   "conf": 0.42
+  },
+  {
+   "text": "Sn",
+   "conf": 0.41
+  },
+  {
+   "text": "Ts",
+   "conf": 0.14
+  },
+  {
+   "text": "ees",
+   "conf": 0.04
+  },
+  {
+   "text": "ran",
+   "conf": 0.46
+  },
+  {
+   "text": "ah",
+   "conf": 0.24
+  },
+  {
+   "text": "aoe",
+   "conf": 0.49
+  },
+  {
+   "text": "Tao",
+   "conf": 0.31
+  },
+  {
+   "text": "Moca",
+   "conf": 0.0
+  },
+  {
+   "text": "8",
+   "conf": 0.43
+  },
+  {
+   "text": "ae",
+   "conf": 0.11
+  },
+  {
+   "text": "‘EPR",
+   "conf": 0.04
+  },
+  {
+   "text": "=",
+   "conf": 0.47
+  },
+  {
+   "text": "Pre",
+   "conf": 0.47
+  },
+  {
+   "text": "Sam",
+   "conf": 0.45
+  },
+  {
+   "text": "110.8",
+   "conf": 0.32
+  },
+  {
+   "text": "SUAS",
+   "conf": 0.0
+  },
+  {
+   "text": "132",
+   "conf": 0.28
+  },
+  {
+   "text": "1199",
+   "conf": 0.69
+  },
+  {
+   "text": "1",
+   "conf": 0.75
+  },
+  {
+   "text": "38",
+   "conf": 0.64
+  },
+  {
+   "text": "48",
+   "conf": 0.69
+  },
+  {
+   "text": "Vise",
+   "conf": 0.77
+  },
+  {
+   "text": "110,81",
+   "conf": 0.7
+  },
+  {
+   "text": "J",
+   "conf": 0.41
+  },
+  {
+   "text": "Sie",
+   "conf": 0.35
+  },
+  {
+   "text": "Be)",
+   "conf": 0.44
+  },
+  {
+   "text": ":",
+   "conf": 0.51
+  },
+  {
+   "text": "410.50",
+   "conf": 0.53
+  },
+  {
+   "text": "Tx",
+   "conf": 0.5
+  },
+  {
+   "text": "10.86",
+   "conf": 0.6
+  },
+  {
+   "text": "rn",
+   "conf": 0.33
+  },
+  {
+   "text": "TAL",
+   "conf": 0.67
+  },
+  {
+   "text": "ie",
+   "conf": 0.42
+  },
+  {
+   "text": "oT",
+   "conf": 0.09
+  },
+  {
+   "text": "NRO",
+   "conf": 0.52
+  },
+  {
+   "text": "Tres",
+   "conf": 0.51
+  },
+  {
+   "text": "san",
+   "conf": 0.67
+  },
+  {
+   "text": "=e",
+   "conf": 0.32
+  },
+  {
+   "text": "iaeos",
+   "conf": 0.0
+  },
+  {
+   "text": "Tou",
+   "conf": 0.0
+  },
+  {
+   "text": "$0.0",
+   "conf": 0.53
+  }
+ ],
+ "mean_conf": 0.3437,
+ "low_conf_share": 0.7368,
+ "latency_ms": 550,
+ "fields": {
+  "company": "ETTER NEUES",
+  "date": null,
+  "total": 410.5
+ },
+ "rule_reasons": [
+  "date_not_found",
+  "total_no_keyword_fallback_max"
+ ],
+ "total_candidates": [
+  410.5,
+  10.86
+ ],
+ "key": "W0086_224f253bd994"
+}

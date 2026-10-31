@@ -1,0 +1,408 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "ee",
+  "ff HANDICRAFT & TAILTHING",
+  "18, JALAN RARNCIL,",
+  "OFF JALAB BUD,",
+  "§5700 KUALA LUMBUR",
+  "MALAYSIA",
+  "Company Reg Mo. 75495-Wy",
+  "GST leg Mo. 001949532738",
+  "TAS (MVOICE",
+  "Invoice fo. G5 10217",
+  "Date: OGMAA018 10:52",
+  "Gashier #: of",
+  "EM Code",
+  "NOMA MACRYIC YARM",
+  "S00PETS # 13.00 102.00 SFL",
+  "Subiotal ; 704.00",
+  "TotalEvel. of GBT LTA",
+  "- Total incl. of GST $4.00",
+  "Total Amt Rounded ==.",
+  "Payment : 104.00",
+  "Change Bue : 0.00",
+  "Total liemés} : 8",
+  "GST Summary Amount(Rl) Taw FARA}",
+  "SR Gy a% a8.it 5.89",
+  "meeee-rpaanpe weg] eee",
+  "“3 EASE COME AGAIN"
+ ],
+ "tokens": [
+  {
+   "text": "ee",
+   "conf": 0.22
+  },
+  {
+   "text": "ff",
+   "conf": 0.19
+  },
+  {
+   "text": "HANDICRAFT",
+   "conf": 0.22
+  },
+  {
+   "text": "&",
+   "conf": 0.9
+  },
+  {
+   "text": "TAILTHING",
+   "conf": 0.36
+  },
+  {
+   "text": "18,",
+   "conf": 0.7
+  },
+  {
+   "text": "JALAN",
+   "conf": 0.54
+  },
+  {
+   "text": "RARNCIL,",
+   "conf": 0.0
+  },
+  {
+   "text": "OFF",
+   "conf": 0.64
+  },
+  {
+   "text": "JALAB",
+   "conf": 0.81
+  },
+  {
+   "text": "BUD,",
+   "conf": 0.0
+  },
+  {
+   "text": "§5700",
+   "conf": 0.62
+  },
+  {
+   "text": "KUALA",
+   "conf": 0.84
+  },
+  {
+   "text": "LUMBUR",
+   "conf": 0.46
+  },
+  {
+   "text": "MALAYSIA",
+   "conf": 0.95
+  },
+  {
+   "text": "Company",
+   "conf": 0.95
+  },
+  {
+   "text": "Reg",
+   "conf": 0.6
+  },
+  {
+   "text": "Mo.",
+   "conf": 0.51
+  },
+  {
+   "text": "75495-Wy",
+   "conf": 0.0
+  },
+  {
+   "text": "GST",
+   "conf": 0.93
+  },
+  {
+   "text": "leg",
+   "conf": 0.48
+  },
+  {
+   "text": "Mo.",
+   "conf": 0.85
+  },
+  {
+   "text": "001949532738",
+   "conf": 0.63
+  },
+  {
+   "text": "TAS",
+   "conf": 0.87
+  },
+  {
+   "text": "(MVOICE",
+   "conf": 0.08
+  },
+  {
+   "text": "Invoice",
+   "conf": 0.09
+  },
+  {
+   "text": "fo.",
+   "conf": 0.01
+  },
+  {
+   "text": "G5",
+   "conf": 0.66
+  },
+  {
+   "text": "10217",
+   "conf": 0.87
+  },
+  {
+   "text": "Date:",
+   "conf": 0.66
+  },
+  {
+   "text": "OGMAA018",
+   "conf": 0.0
+  },
+  {
+   "text": "10:52",
+   "conf": 0.74
+  },
+  {
+   "text": "Gashier",
+   "conf": 0.82
+  },
+  {
+   "text": "#:",
+   "conf": 0.81
+  },
+  {
+   "text": "of",
+   "conf": 0.48
+  },
+  {
+   "text": "EM",
+   "conf": 0.65
+  },
+  {
+   "text": "Code",
+   "conf": 0.7
+  },
+  {
+   "text": "NOMA",
+   "conf": 0.74
+  },
+  {
+   "text": "MACRYIC",
+   "conf": 0.81
+  },
+  {
+   "text": "YARM",
+   "conf": 0.84
+  },
+  {
+   "text": "S00PETS",
+   "conf": 0.35
+  },
+  {
+   "text": "#",
+   "conf": 0.83
+  },
+  {
+   "text": "13.00",
+   "conf": 0.55
+  },
+  {
+   "text": "102.00",
+   "conf": 0.83
+  },
+  {
+   "text": "SFL",
+   "conf": 0.33
+  },
+  {
+   "text": "Subiotal",
+   "conf": 0.62
+  },
+  {
+   "text": ";",
+   "conf": 0.16
+  },
+  {
+   "text": "704.00",
+   "conf": 0.61
+  },
+  {
+   "text": "TotalEvel.",
+   "conf": 0.09
+  },
+  {
+   "text": "of",
+   "conf": 0.84
+  },
+  {
+   "text": "GBT",
+   "conf": 0.67
+  },
+  {
+   "text": "LTA",
+   "conf": 0.36
+  },
+  {
+   "text": "-",
+   "conf": 0.03
+  },
+  {
+   "text": "Total",
+   "conf": 0.85
+  },
+  {
+   "text": "incl.",
+   "conf": 0.82
+  },
+  {
+   "text": "of",
+   "conf": 0.92
+  },
+  {
+   "text": "GST",
+   "conf": 0.62
+  },
+  {
+   "text": "$4.00",
+   "conf": 0.44
+  },
+  {
+   "text": "Total",
+   "conf": 0.69
+  },
+  {
+   "text": "Amt",
+   "conf": 0.0
+  },
+  {
+   "text": "Rounded",
+   "conf": 0.0
+  },
+  {
+   "text": "==.",
+   "conf": 0.39
+  },
+  {
+   "text": "Payment",
+   "conf": 0.63
+  },
+  {
+   "text": ":",
+   "conf": 0.74
+  },
+  {
+   "text": "104.00",
+   "conf": 0.73
+  },
+  {
+   "text": "Change",
+   "conf": 0.4
+  },
+  {
+   "text": "Bue",
+   "conf": 0.47
+  },
+  {
+   "text": ":",
+   "conf": 0.59
+  },
+  {
+   "text": "0.00",
+   "conf": 0.87
+  },
+  {
+   "text": "Total",
+   "conf": 0.86
+  },
+  {
+   "text": "liemés}",
+   "conf": 0.32
+  },
+  {
+   "text": ":",
+   "conf": 0.0
+  },
+  {
+   "text": "8",
+   "conf": 0.46
+  },
+  {
+   "text": "GST",
+   "conf": 0.93
+  },
+  {
+   "text": "Summary",
+   "conf": 0.61
+  },
+  {
+   "text": "Amount(Rl)",
+   "conf": 0.01
+  },
+  {
+   "text": "Taw",
+   "conf": 0.49
+  },
+  {
+   "text": "FARA}",
+   "conf": 0.54
+  },
+  {
+   "text": "SR",
+   "conf": 0.54
+  },
+  {
+   "text": "Gy",
+   "conf": 0.12
+  },
+  {
+   "text": "a%",
+   "conf": 0.12
+  },
+  {
+   "text": "a8.it",
+   "conf": 0.0
+  },
+  {
+   "text": "5.89",
+   "conf": 0.69
+  },
+  {
+   "text": "meeee-rpaanpe",
+   "conf": 0.0
+  },
+  {
+   "text": "weg]",
+   "conf": 0.0
+  },
+  {
+   "text": "eee",
+   "conf": 0.04
+  },
+  {
+   "text": "“3",
+   "conf": 0.0
+  },
+  {
+   "text": "EASE",
+   "conf": 0.18
+  },
+  {
+   "text": "COME",
+   "conf": 0.92
+  },
+  {
+   "text": "AGAIN",
+   "conf": 0.01
+  }
+ ],
+ "mean_conf": 0.4944,
+ "low_conf_share": 0.4444,
+ "latency_ms": 731,
+ "fields": {
+  "company": "FF HANDICRAFT TAILTHING",
+  "date": null,
+  "total": 4.0
+ },
+ "rule_reasons": [
+  "date_not_found"
+ ],
+ "total_candidates": [
+  4.0
+ ],
+ "key": "X51006350763"
+}

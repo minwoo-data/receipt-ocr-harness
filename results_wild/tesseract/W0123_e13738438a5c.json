@@ -1,0 +1,436 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "khansama Tandoori",
+  "Restaurant",
+  "165 Serangoon Roa",
+  "Sunceion SF forts eoec",
+  "Singepore 218080",
+  "GstoReg ho. 523429590",
+  "ere,",
+  "Email? Ghansemadpecttic.net.so",
+  "Receipt No. :00037136",
+  "Table: Al3 Guest: 3",
+  "Gare d cine: 30-08-16 22:00",
+  "Cashier ordering",
+  "3. Tandoori Roti 6.00",
+  "2 Garite Naan 7700",
+  "2 Chitikka'd pe 12°50",
+  "i Haryali rikks apcs 32.50",
+  "4 Mutton Bhuna 12:80",
+  "1 Chicken Korma 10:80",
+  "1 Daal makhnt 7.50",
+  "1 Sweet Lassi 4.00",
+  "1 Lime soda 5.00",
+  "1 Chivas l2yrs Large 14.00",
+  "1 Kadahi Prawns 12:50",
+  "=f Sub-yora) «104.00",
+  "aS 7% GST 728",
+  "Round Adjust 0.02 §",
+  "e 22058 TOTAL ‘111.30",
+  "4. VISA 111.30 |"
+ ],
+ "tokens": [
+  {
+   "text": "khansama",
+   "conf": 0.78
+  },
+  {
+   "text": "Tandoori",
+   "conf": 0.54
+  },
+  {
+   "text": "Restaurant",
+   "conf": 0.96
+  },
+  {
+   "text": "165",
+   "conf": 0.78
+  },
+  {
+   "text": "Serangoon",
+   "conf": 0.79
+  },
+  {
+   "text": "Roa",
+   "conf": 0.0
+  },
+  {
+   "text": "Sunceion",
+   "conf": 0.38
+  },
+  {
+   "text": "SF",
+   "conf": 0.5
+  },
+  {
+   "text": "forts",
+   "conf": 0.31
+  },
+  {
+   "text": "eoec",
+   "conf": 0.0
+  },
+  {
+   "text": "Singepore",
+   "conf": 0.19
+  },
+  {
+   "text": "218080",
+   "conf": 0.68
+  },
+  {
+   "text": "GstoReg",
+   "conf": 0.0
+  },
+  {
+   "text": "ho.",
+   "conf": 0.34
+  },
+  {
+   "text": "523429590",
+   "conf": 0.25
+  },
+  {
+   "text": "ere,",
+   "conf": 0.24
+  },
+  {
+   "text": "Email?",
+   "conf": 0.41
+  },
+  {
+   "text": "Ghansemadpecttic.net.so",
+   "conf": 0.0
+  },
+  {
+   "text": "Receipt",
+   "conf": 0.96
+  },
+  {
+   "text": "No.",
+   "conf": 0.87
+  },
+  {
+   "text": ":00037136",
+   "conf": 0.87
+  },
+  {
+   "text": "Table:",
+   "conf": 0.92
+  },
+  {
+   "text": "Al3",
+   "conf": 0.54
+  },
+  {
+   "text": "Guest:",
+   "conf": 0.94
+  },
+  {
+   "text": "3",
+   "conf": 0.96
+  },
+  {
+   "text": "Gare",
+   "conf": 0.56
+  },
+  {
+   "text": "d",
+   "conf": 0.56
+  },
+  {
+   "text": "cine:",
+   "conf": 0.85
+  },
+  {
+   "text": "30-08-16",
+   "conf": 0.77
+  },
+  {
+   "text": "22:00",
+   "conf": 0.83
+  },
+  {
+   "text": "Cashier",
+   "conf": 0.52
+  },
+  {
+   "text": "ordering",
+   "conf": 0.58
+  },
+  {
+   "text": "3.",
+   "conf": 0.48
+  },
+  {
+   "text": "Tandoori",
+   "conf": 0.19
+  },
+  {
+   "text": "Roti",
+   "conf": 0.84
+  },
+  {
+   "text": "6.00",
+   "conf": 0.85
+  },
+  {
+   "text": "2",
+   "conf": 0.73
+  },
+  {
+   "text": "Garite",
+   "conf": 0.54
+  },
+  {
+   "text": "Naan",
+   "conf": 0.72
+  },
+  {
+   "text": "7700",
+   "conf": 0.39
+  },
+  {
+   "text": "2",
+   "conf": 0.44
+  },
+  {
+   "text": "Chitikka'd",
+   "conf": 0.06
+  },
+  {
+   "text": "pe",
+   "conf": 0.94
+  },
+  {
+   "text": "12°50",
+   "conf": 0.84
+  },
+  {
+   "text": "i",
+   "conf": 0.4
+  },
+  {
+   "text": "Haryali",
+   "conf": 0.0
+  },
+  {
+   "text": "rikks",
+   "conf": 0.32
+  },
+  {
+   "text": "apcs",
+   "conf": 0.57
+  },
+  {
+   "text": "32.50",
+   "conf": 0.46
+  },
+  {
+   "text": "4",
+   "conf": 0.54
+  },
+  {
+   "text": "Mutton",
+   "conf": 0.55
+  },
+  {
+   "text": "Bhuna",
+   "conf": 0.87
+  },
+  {
+   "text": "12:80",
+   "conf": 0.66
+  },
+  {
+   "text": "1",
+   "conf": 0.71
+  },
+  {
+   "text": "Chicken",
+   "conf": 0.65
+  },
+  {
+   "text": "Korma",
+   "conf": 0.8
+  },
+  {
+   "text": "10:80",
+   "conf": 0.41
+  },
+  {
+   "text": "1",
+   "conf": 0.73
+  },
+  {
+   "text": "Daal",
+   "conf": 0.73
+  },
+  {
+   "text": "makhnt",
+   "conf": 0.13
+  },
+  {
+   "text": "7.50",
+   "conf": 0.65
+  },
+  {
+   "text": "1",
+   "conf": 0.76
+  },
+  {
+   "text": "Sweet",
+   "conf": 0.87
+  },
+  {
+   "text": "Lassi",
+   "conf": 0.87
+  },
+  {
+   "text": "4.00",
+   "conf": 0.63
+  },
+  {
+   "text": "1",
+   "conf": 0.75
+  },
+  {
+   "text": "Lime",
+   "conf": 0.83
+  },
+  {
+   "text": "soda",
+   "conf": 0.94
+  },
+  {
+   "text": "5.00",
+   "conf": 0.79
+  },
+  {
+   "text": "1",
+   "conf": 0.78
+  },
+  {
+   "text": "Chivas",
+   "conf": 0.89
+  },
+  {
+   "text": "l2yrs",
+   "conf": 0.67
+  },
+  {
+   "text": "Large",
+   "conf": 0.95
+  },
+  {
+   "text": "14.00",
+   "conf": 0.93
+  },
+  {
+   "text": "1",
+   "conf": 0.64
+  },
+  {
+   "text": "Kadahi",
+   "conf": 0.74
+  },
+  {
+   "text": "Prawns",
+   "conf": 0.8
+  },
+  {
+   "text": "12:50",
+   "conf": 0.69
+  },
+  {
+   "text": "=f",
+   "conf": 0.09
+  },
+  {
+   "text": "Sub-yora)",
+   "conf": 0.0
+  },
+  {
+   "text": "«104.00",
+   "conf": 0.28
+  },
+  {
+   "text": "aS",
+   "conf": 0.5
+  },
+  {
+   "text": "7%",
+   "conf": 0.29
+  },
+  {
+   "text": "GST",
+   "conf": 0.48
+  },
+  {
+   "text": "728",
+   "conf": 0.0
+  },
+  {
+   "text": "Round",
+   "conf": 0.96
+  },
+  {
+   "text": "Adjust",
+   "conf": 0.96
+  },
+  {
+   "text": "0.02",
+   "conf": 0.85
+  },
+  {
+   "text": "§",
+   "conf": 0.65
+  },
+  {
+   "text": "e",
+   "conf": 0.0
+  },
+  {
+   "text": "22058",
+   "conf": 0.11
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.85
+  },
+  {
+   "text": "‘111.30",
+   "conf": 0.45
+  },
+  {
+   "text": "4.",
+   "conf": 0.5
+  },
+  {
+   "text": "VISA",
+   "conf": 0.56
+  },
+  {
+   "text": "111.30",
+   "conf": 0.0
+  },
+  {
+   "text": "|",
+   "conf": 0.94
+  }
+ ],
+ "mean_conf": 0.5781,
+ "low_conf_share": 0.3299,
+ "latency_ms": 1674,
+ "fields": {
+  "company": "KHANSAMA TANDOORI RESTAURANT",
+  "date": "2016-08-30",
+  "total": 111.3
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  111.3
+ ],
+ "key": "W0123_e13738438a5c"
+}

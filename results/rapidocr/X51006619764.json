@@ -1,0 +1,230 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "MR.D.I.Y.（KUCHAI) SDN BHD",
+  "Co-REG:750441-W",
+  "L0T 1851-A& 1851-B,JALANKPB6，",
+  "KAWASAN PERINDUSTRIAN BALAKONG,",
+  "43300 SERI KEMBANGAN,SELANGOR",
+  "（GSTID No :000473792512）",
+  "(KEPONG)",
+  "-TAX INVOICE-",
+  "MOSQUITO RACKET 108# S",
+  "NA41/2-51-25/50",
+  "9021485 1X13.5013.50",
+  "MIRROR STICKER 6OCM*2M S",
+  "UD21-31/2-30",
+  "9066554 1X10.9010.90",
+  "TABLE MAT 50P-42*VS",
+  "ME31-6/144",
+  "9068193 1X6.50 6.50",
+  "MOP H00K 703# 粉",
+  "UF32-24/360",
+  "9068465 1X3.50 3.50",
+  "Item(s):4 Qty(s)=4",
+  "TOTALINCL.GST@6% RM34.40",
+  "CASH RM50.40",
+  "CHANGE RM16.00",
+  "GST @6% included in total RM1.95",
+  "05-01-16 14:41SH01 B003 T2 R000308995",
+  "OPERATOR TRAINEE",
+  "EXCHANGE ARE ALLOWED WITHIN",
+  "3DAY WITH RECEIPT",
+  "STRICTLY NO CASH REFUND."
+ ],
+ "tokens": [
+  {
+   "text": "MR.D.I.Y.（KUCHAI) SDN BHD",
+   "conf": 0.8803633499145508
+  },
+  {
+   "text": "Co-REG:750441-W",
+   "conf": 0.9740736762682597
+  },
+  {
+   "text": "L0T 1851-A& 1851-B,JALANKPB6，",
+   "conf": 0.9205709490282782
+  },
+  {
+   "text": "KAWASAN PERINDUSTRIAN BALAKONG,",
+   "conf": 0.9475633598143055
+  },
+  {
+   "text": "43300 SERI KEMBANGAN,SELANGOR",
+   "conf": 0.9409338174195125
+  },
+  {
+   "text": "（GSTID No :000473792512）",
+   "conf": 0.9063858613371849
+  },
+  {
+   "text": "(KEPONG)",
+   "conf": 0.980804942548275
+  },
+  {
+   "text": "-TAX INVOICE-",
+   "conf": 0.9169567960959214
+  },
+  {
+   "text": "MOSQUITO RACKET 108#",
+   "conf": 0.9260094642639161
+  },
+  {
+   "text": "S",
+   "conf": 0.5578900575637817
+  },
+  {
+   "text": "NA41/2-51-25/50",
+   "conf": 0.9907091895739237
+  },
+  {
+   "text": "9021485",
+   "conf": 0.997799277305603
+  },
+  {
+   "text": "1X13.5013.50",
+   "conf": 0.9890261391798655
+  },
+  {
+   "text": "MIRROR STICKER 6OCM*2M",
+   "conf": 0.941370343620127
+  },
+  {
+   "text": "S",
+   "conf": 0.8260684609413147
+  },
+  {
+   "text": "UD21-31/2-30",
+   "conf": 0.9907397826512655
+  },
+  {
+   "text": "9066554",
+   "conf": 0.9980217729296003
+  },
+  {
+   "text": "1X10.9010.90",
+   "conf": 0.9811808069547018
+  },
+  {
+   "text": "TABLE MAT 50P-42*VS",
+   "conf": 0.9471769552481802
+  },
+  {
+   "text": "ME31-6/144",
+   "conf": 0.990314269065857
+  },
+  {
+   "text": "9068193",
+   "conf": 0.9978718161582947
+  },
+  {
+   "text": "1X6.50",
+   "conf": 0.9725233912467957
+  },
+  {
+   "text": "6.50",
+   "conf": 0.9930622279644012
+  },
+  {
+   "text": "MOP H00K 703#",
+   "conf": 0.90402974990698
+  },
+  {
+   "text": "粉",
+   "conf": 0.7799913287162781
+  },
+  {
+   "text": "UF32-24/360",
+   "conf": 0.9898588332262906
+  },
+  {
+   "text": "9068465",
+   "conf": 0.9978108320917402
+  },
+  {
+   "text": "1X3.50",
+   "conf": 0.9582711160182953
+  },
+  {
+   "text": "3.50",
+   "conf": 0.9943428784608841
+  },
+  {
+   "text": "Item(s):4",
+   "conf": 0.8334959546724955
+  },
+  {
+   "text": "Qty(s)=4",
+   "conf": 0.7767464257776737
+  },
+  {
+   "text": "TOTALINCL.GST@6%",
+   "conf": 0.9383964501321316
+  },
+  {
+   "text": "RM34.40",
+   "conf": 0.9960574592862811
+  },
+  {
+   "text": "CASH",
+   "conf": 0.9944526702165604
+  },
+  {
+   "text": "RM50.40",
+   "conf": 0.983467195715223
+  },
+  {
+   "text": "CHANGE",
+   "conf": 0.9913139442602793
+  },
+  {
+   "text": "RM16.00",
+   "conf": 0.9862151571682521
+  },
+  {
+   "text": "GST @6% included in total",
+   "conf": 0.9514601063728333
+  },
+  {
+   "text": "RM1.95",
+   "conf": 0.9861885408560435
+  },
+  {
+   "text": "05-01-16 14:41SH01 B003",
+   "conf": 0.9503369642340619
+  },
+  {
+   "text": "T2 R000308995",
+   "conf": 0.9688872603269724
+  },
+  {
+   "text": "OPERATOR TRAINEE",
+   "conf": 0.9746269024908543
+  },
+  {
+   "text": "EXCHANGE ARE ALLOWED WITHIN",
+   "conf": 0.9665860357107939
+  },
+  {
+   "text": "3DAY WITH RECEIPT",
+   "conf": 0.9677789912504309
+  },
+  {
+   "text": "STRICTLY NO CASH REFUND.",
+   "conf": 0.9655707230170568
+  }
+ ],
+ "mean_conf": 0.9427,
+ "low_conf_share": 0.0,
+ "latency_ms": 4885,
+ "fields": {
+  "company": "MR D I Y KUCHAI SDN BHD",
+  "date": "2016-01-05",
+  "total": 34.4
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  34.4
+ ],
+ "key": "X51006619764"
+}

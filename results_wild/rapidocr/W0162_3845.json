@@ -1,0 +1,135 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "BORDER CAFE",
+  "356 Broadway",
+  "Saugus,MA 01906",
+  "(781)233-5308",
+  "0334Table 24#Party3",
+  "2Beverage 3.96",
+  "2Water 0.00",
+  "1Sh/Cr Ques*E,add guac 9.88",
+  "1B1k Salmon Sal 8.98",
+  "1Chkn Quesa*E,add guac 8.93",
+  "Sub Total: 31.75",
+  "ST/Local Tax: 2.22",
+  "04/194:17pTOTAL: 33.97",
+  "GIVE THE GIFT OF GOOD EATS",
+  "GIFT CERTIFICATES AVAILABLE"
+ ],
+ "tokens": [
+  {
+   "text": "BORDER CAFE",
+   "conf": 0.9542399102991278
+  },
+  {
+   "text": "356 Broadway",
+   "conf": 0.9466082155704498
+  },
+  {
+   "text": "Saugus,MA 01906",
+   "conf": 0.9384494225184122
+  },
+  {
+   "text": "(781)233-5308",
+   "conf": 0.9483580451745254
+  },
+  {
+   "text": "0334Table 24#Party3",
+   "conf": 0.9503786344277231
+  },
+  {
+   "text": "2Beverage",
+   "conf": 0.9933179352018568
+  },
+  {
+   "text": "3.96",
+   "conf": 0.997725248336792
+  },
+  {
+   "text": "2Water",
+   "conf": 0.9822750290234884
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9980630278587341
+  },
+  {
+   "text": "1Sh/Cr Ques*E,add guac",
+   "conf": 0.956561104817824
+  },
+  {
+   "text": "9.88",
+   "conf": 0.9976049959659576
+  },
+  {
+   "text": "1B1k Salmon Sal",
+   "conf": 0.8871071815490723
+  },
+  {
+   "text": "8.98",
+   "conf": 0.9985898435115814
+  },
+  {
+   "text": "1Chkn Quesa*E,add guac",
+   "conf": 0.9393257119438865
+  },
+  {
+   "text": "8.93",
+   "conf": 0.9978625923395157
+  },
+  {
+   "text": "Sub Total:",
+   "conf": 0.9729762673377991
+  },
+  {
+   "text": "31.75",
+   "conf": 0.997844660282135
+  },
+  {
+   "text": "ST/Local Tax:",
+   "conf": 0.9503735808225778
+  },
+  {
+   "text": "2.22",
+   "conf": 0.9970213174819946
+  },
+  {
+   "text": "04/194:17pTOTAL:",
+   "conf": 0.9470464214682579
+  },
+  {
+   "text": "33.97",
+   "conf": 0.9984030842781066
+  },
+  {
+   "text": "GIVE THE GIFT OF GOOD EATS",
+   "conf": 0.9463893954570477
+  },
+  {
+   "text": "GIFT CERTIFICATES AVAILABLE",
+   "conf": 0.9677211907174852
+  }
+ ],
+ "mean_conf": 0.968,
+ "low_conf_share": 0.0,
+ "latency_ms": 3239,
+ "fields": {
+  "company": "BORDER CAFE",
+  "date": null,
+  "total": 33.97
+ },
+ "rule_reasons": [
+  "date_not_found",
+  "total_no_keyword_fallback_max"
+ ],
+ "total_candidates": [
+  9.88,
+  8.98,
+  8.93,
+  31.75,
+  2.22,
+  33.97
+ ],
+ "key": "W0162_3845"
+}

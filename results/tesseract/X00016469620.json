@@ -1,0 +1,569 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "tan woon yann",
+  "MR O.1.¥. (JOHOR) SDN BHD",
+  "(CO.REG :933109-x)",
+  "LOT 1851-A & 1851-B, JALAN KPB 6,",
+  "KAWASAN PERINDUSTRIAN BALAKONG,",
+  "43300 SERI KEMBANGAN, SELANGOR",
+  "(MR DIY TESCO TERBAU)",
+  "~INVOICE~",
+  "CHOPPING BOARO 35.5x25.5CM 803M#",
+  "EZiOHDOS - 24",
+  "8970669 1X 19.00 19.00",
+  "AIR PRESSURE SPRAYER SX-§75-1 1.5L",
+  "HCO3-7 - 15",
+  "9066468 1X 8.02 68.02",
+  "WAXCO WINDSHILED CLEANER 120ML",
+  "WAI4-3A - 48",
+  "9557031100236 1X 3.02 3.02",
+  "BOPP TAPE 48MM*100M CLEAR",
+  "FZ-04 - 36",
+  "6935818350846 1X 3.88 3.88",
+  "Item(s) : 4 Qty(s) : 4",
+  "TOTAL RM 33,92",
+  "ROUNDING ADJUSTME) -RM 0.02",
+  "TOTAL ROUNDED RM 33,90",
+  "CASH RM 50.00",
+  "CHANGE RM 16.10",
+  "----- ~~~ ------ ---- See ------------#",
+  "12-01-19 21:13 SHO! ZKOS = =T4 RO00027830",
+  "OPERATOR TRAINEE CASHIER",
+  "EXCHANGE ARE ALLOWED WITHIN",
+  "7 DAYS WITH RECEIPT.",
+  "STRICTLY NO CASH REFUND.",
+  "’ sal"
+ ],
+ "tokens": [
+  {
+   "text": "tan",
+   "conf": 0.92
+  },
+  {
+   "text": "woon",
+   "conf": 0.92
+  },
+  {
+   "text": "yann",
+   "conf": 0.92
+  },
+  {
+   "text": "MR",
+   "conf": 0.59
+  },
+  {
+   "text": "O.1.¥.",
+   "conf": 0.48
+  },
+  {
+   "text": "(JOHOR)",
+   "conf": 0.8
+  },
+  {
+   "text": "SDN",
+   "conf": 0.96
+  },
+  {
+   "text": "BHD",
+   "conf": 0.96
+  },
+  {
+   "text": "(CO.REG",
+   "conf": 0.75
+  },
+  {
+   "text": ":933109-x)",
+   "conf": 0.61
+  },
+  {
+   "text": "LOT",
+   "conf": 0.92
+  },
+  {
+   "text": "1851-A",
+   "conf": 0.9
+  },
+  {
+   "text": "&",
+   "conf": 0.9
+  },
+  {
+   "text": "1851-B,",
+   "conf": 0.9
+  },
+  {
+   "text": "JALAN",
+   "conf": 0.92
+  },
+  {
+   "text": "KPB",
+   "conf": 0.91
+  },
+  {
+   "text": "6,",
+   "conf": 0.96
+  },
+  {
+   "text": "KAWASAN",
+   "conf": 0.91
+  },
+  {
+   "text": "PERINDUSTRIAN",
+   "conf": 0.73
+  },
+  {
+   "text": "BALAKONG,",
+   "conf": 0.91
+  },
+  {
+   "text": "43300",
+   "conf": 0.92
+  },
+  {
+   "text": "SERI",
+   "conf": 0.91
+  },
+  {
+   "text": "KEMBANGAN,",
+   "conf": 0.91
+  },
+  {
+   "text": "SELANGOR",
+   "conf": 0.96
+  },
+  {
+   "text": "(MR",
+   "conf": 0.93
+  },
+  {
+   "text": "DIY",
+   "conf": 0.93
+  },
+  {
+   "text": "TESCO",
+   "conf": 0.9
+  },
+  {
+   "text": "TERBAU)",
+   "conf": 0.9
+  },
+  {
+   "text": "~INVOICE~",
+   "conf": 0.6
+  },
+  {
+   "text": "CHOPPING",
+   "conf": 0.93
+  },
+  {
+   "text": "BOARO",
+   "conf": 0.86
+  },
+  {
+   "text": "35.5x25.5CM",
+   "conf": 0.73
+  },
+  {
+   "text": "803M#",
+   "conf": 0.69
+  },
+  {
+   "text": "EZiOHDOS",
+   "conf": 0.48
+  },
+  {
+   "text": "-",
+   "conf": 0.75
+  },
+  {
+   "text": "24",
+   "conf": 0.96
+  },
+  {
+   "text": "8970669",
+   "conf": 0.95
+  },
+  {
+   "text": "1X",
+   "conf": 0.67
+  },
+  {
+   "text": "19.00",
+   "conf": 0.67
+  },
+  {
+   "text": "19.00",
+   "conf": 0.85
+  },
+  {
+   "text": "AIR",
+   "conf": 0.96
+  },
+  {
+   "text": "PRESSURE",
+   "conf": 0.93
+  },
+  {
+   "text": "SPRAYER",
+   "conf": 0.93
+  },
+  {
+   "text": "SX-§75-1",
+   "conf": 0.61
+  },
+  {
+   "text": "1.5L",
+   "conf": 0.94
+  },
+  {
+   "text": "HCO3-7",
+   "conf": 0.51
+  },
+  {
+   "text": "-",
+   "conf": 0.82
+  },
+  {
+   "text": "15",
+   "conf": 0.96
+  },
+  {
+   "text": "9066468",
+   "conf": 0.94
+  },
+  {
+   "text": "1X",
+   "conf": 0.89
+  },
+  {
+   "text": "8.02",
+   "conf": 0.89
+  },
+  {
+   "text": "68.02",
+   "conf": 0.78
+  },
+  {
+   "text": "WAXCO",
+   "conf": 0.87
+  },
+  {
+   "text": "WINDSHILED",
+   "conf": 0.87
+  },
+  {
+   "text": "CLEANER",
+   "conf": 0.88
+  },
+  {
+   "text": "120ML",
+   "conf": 0.79
+  },
+  {
+   "text": "WAI4-3A",
+   "conf": 0.79
+  },
+  {
+   "text": "-",
+   "conf": 0.89
+  },
+  {
+   "text": "48",
+   "conf": 0.95
+  },
+  {
+   "text": "9557031100236",
+   "conf": 0.84
+  },
+  {
+   "text": "1X",
+   "conf": 0.92
+  },
+  {
+   "text": "3.02",
+   "conf": 0.86
+  },
+  {
+   "text": "3.02",
+   "conf": 0.86
+  },
+  {
+   "text": "BOPP",
+   "conf": 0.96
+  },
+  {
+   "text": "TAPE",
+   "conf": 0.91
+  },
+  {
+   "text": "48MM*100M",
+   "conf": 0.55
+  },
+  {
+   "text": "CLEAR",
+   "conf": 0.96
+  },
+  {
+   "text": "FZ-04",
+   "conf": 0.82
+  },
+  {
+   "text": "-",
+   "conf": 0.92
+  },
+  {
+   "text": "36",
+   "conf": 0.96
+  },
+  {
+   "text": "6935818350846",
+   "conf": 0.9
+  },
+  {
+   "text": "1X",
+   "conf": 0.89
+  },
+  {
+   "text": "3.88",
+   "conf": 0.75
+  },
+  {
+   "text": "3.88",
+   "conf": 0.65
+  },
+  {
+   "text": "Item(s)",
+   "conf": 0.87
+  },
+  {
+   "text": ":",
+   "conf": 0.82
+  },
+  {
+   "text": "4",
+   "conf": 0.94
+  },
+  {
+   "text": "Qty(s)",
+   "conf": 0.78
+  },
+  {
+   "text": ":",
+   "conf": 0.73
+  },
+  {
+   "text": "4",
+   "conf": 0.96
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.96
+  },
+  {
+   "text": "RM",
+   "conf": 0.9
+  },
+  {
+   "text": "33,92",
+   "conf": 0.9
+  },
+  {
+   "text": "ROUNDING",
+   "conf": 0.92
+  },
+  {
+   "text": "ADJUSTME)",
+   "conf": 0.55
+  },
+  {
+   "text": "-RM",
+   "conf": 0.59
+  },
+  {
+   "text": "0.02",
+   "conf": 0.8
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.94
+  },
+  {
+   "text": "ROUNDED",
+   "conf": 0.94
+  },
+  {
+   "text": "RM",
+   "conf": 0.88
+  },
+  {
+   "text": "33,90",
+   "conf": 0.88
+  },
+  {
+   "text": "CASH",
+   "conf": 0.96
+  },
+  {
+   "text": "RM",
+   "conf": 0.86
+  },
+  {
+   "text": "50.00",
+   "conf": 0.86
+  },
+  {
+   "text": "CHANGE",
+   "conf": 0.96
+  },
+  {
+   "text": "RM",
+   "conf": 0.87
+  },
+  {
+   "text": "16.10",
+   "conf": 0.87
+  },
+  {
+   "text": "-----",
+   "conf": 0.0
+  },
+  {
+   "text": "~~~",
+   "conf": 0.08
+  },
+  {
+   "text": "------",
+   "conf": 0.2
+  },
+  {
+   "text": "----",
+   "conf": 0.0
+  },
+  {
+   "text": "See",
+   "conf": 0.0
+  },
+  {
+   "text": "------------#",
+   "conf": 0.0
+  },
+  {
+   "text": "12-01-19",
+   "conf": 0.95
+  },
+  {
+   "text": "21:13",
+   "conf": 0.95
+  },
+  {
+   "text": "SHO!",
+   "conf": 0.56
+  },
+  {
+   "text": "ZKOS",
+   "conf": 0.44
+  },
+  {
+   "text": "=",
+   "conf": 0.34
+  },
+  {
+   "text": "=T4",
+   "conf": 0.34
+  },
+  {
+   "text": "RO00027830",
+   "conf": 0.33
+  },
+  {
+   "text": "OPERATOR",
+   "conf": 0.96
+  },
+  {
+   "text": "TRAINEE",
+   "conf": 0.96
+  },
+  {
+   "text": "CASHIER",
+   "conf": 0.96
+  },
+  {
+   "text": "EXCHANGE",
+   "conf": 0.96
+  },
+  {
+   "text": "ARE",
+   "conf": 0.95
+  },
+  {
+   "text": "ALLOWED",
+   "conf": 0.95
+  },
+  {
+   "text": "WITHIN",
+   "conf": 0.96
+  },
+  {
+   "text": "7",
+   "conf": 0.74
+  },
+  {
+   "text": "DAYS",
+   "conf": 0.74
+  },
+  {
+   "text": "WITH",
+   "conf": 0.95
+  },
+  {
+   "text": "RECEIPT.",
+   "conf": 0.82
+  },
+  {
+   "text": "STRICTLY",
+   "conf": 0.96
+  },
+  {
+   "text": "NO",
+   "conf": 0.96
+  },
+  {
+   "text": "CASH",
+   "conf": 0.96
+  },
+  {
+   "text": "REFUND.",
+   "conf": 0.92
+  },
+  {
+   "text": "’",
+   "conf": 0.12
+  },
+  {
+   "text": "sal",
+   "conf": 0.13
+  }
+ ],
+ "mean_conf": 0.7894,
+ "low_conf_share": 0.1102,
+ "latency_ms": 1717,
+ "fields": {
+  "company": "MR O 1 SDN BHD",
+  "date": "2015-07-03",
+  "total": 50.0
+ },
+ "rule_reasons": [
+  "total_no_keyword_fallback_max"
+ ],
+ "total_candidates": [
+  3.02,
+  3.02,
+  3.88,
+  3.88,
+  0.02,
+  50.0,
+  16.1
+ ],
+ "key": "X00016469620"
+}

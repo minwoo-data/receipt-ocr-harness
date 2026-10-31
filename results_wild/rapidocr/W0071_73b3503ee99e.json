@@ -1,0 +1,148 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "Aure Anne's",
+  "Lot CC.1, Nu Sentral,",
+  "Kuala l pur Sentral,",
+  "50470ala Lumpur.",
+  "Chrisna Jeni Sdn Bhd (383083-H)",
+  "Bi11 No.:001-35 104 Take Out",
+  "Date:2014/09/05 8:43:13",
+  "Cinnamon Sugar 1 RM3.80",
+  "and Total RM3.80",
+  "（Included Tax:0.22）",
+  "CASH RM20.00",
+  "Change RM16.20",
+  "Thank You. ease come again.",
+  "Comments/ quiry,email to",
+  "info@ch snajenio.com",
+  "2014/09/0518:43:23 d Aliff001-391904[1]"
+ ],
+ "tokens": [
+  {
+   "text": "Aure Anne's",
+   "conf": 0.915730205449191
+  },
+  {
+   "text": "Lot CC.1, Nu Sentral,",
+   "conf": 0.8488684708163852
+  },
+  {
+   "text": "Kuala l pur Sentral,",
+   "conf": 0.899370764195919
+  },
+  {
+   "text": "50470ala Lumpur.",
+   "conf": 0.9544399492442608
+  },
+  {
+   "text": "Chrisna Jeni Sdn Bhd (383083-H)",
+   "conf": 0.88553996047666
+  },
+  {
+   "text": "Bi11 No.:001-35",
+   "conf": 0.8981795251369477
+  },
+  {
+   "text": "104",
+   "conf": 0.9356595873832703
+  },
+  {
+   "text": "Take Out",
+   "conf": 0.9535804018378258
+  },
+  {
+   "text": "Date:2014/09/05",
+   "conf": 0.9839295387268067
+  },
+  {
+   "text": "8:43:13",
+   "conf": 0.9416502288409642
+  },
+  {
+   "text": "Cinnamon Sugar",
+   "conf": 0.975403219461441
+  },
+  {
+   "text": "1",
+   "conf": 0.9892904162406921
+  },
+  {
+   "text": "RM3.80",
+   "conf": 0.9947333236535391
+  },
+  {
+   "text": "RM3.80",
+   "conf": 0.9699411988258362
+  },
+  {
+   "text": "and Total",
+   "conf": 0.9328776862886217
+  },
+  {
+   "text": "（Included Tax:0.22）",
+   "conf": 0.8986863399806776
+  },
+  {
+   "text": "CASH",
+   "conf": 0.9887421727180481
+  },
+  {
+   "text": "RM20.00",
+   "conf": 0.9931716663496835
+  },
+  {
+   "text": "Change",
+   "conf": 0.9902240137259165
+  },
+  {
+   "text": "RM16.20",
+   "conf": 0.9964428629193988
+  },
+  {
+   "text": "Thank You.",
+   "conf": 0.9695396542549133
+  },
+  {
+   "text": "ease come again.",
+   "conf": 0.960233636200428
+  },
+  {
+   "text": "Comments/",
+   "conf": 0.9889325499534607
+  },
+  {
+   "text": "quiry,email to",
+   "conf": 0.922252723148891
+  },
+  {
+   "text": "info@ch",
+   "conf": 0.9248758213860648
+  },
+  {
+   "text": "snajenio.com",
+   "conf": 0.9855239142974218
+  },
+  {
+   "text": "2014/09/0518:43:23",
+   "conf": 0.975990053680208
+  },
+  {
+   "text": "d Aliff001-391904[1]",
+   "conf": 0.9357672035694122
+  }
+ ],
+ "mean_conf": 0.9503,
+ "low_conf_share": 0.0,
+ "latency_ms": 2619,
+ "fields": {
+  "company": "CHRISNA JENI SDN BHD",
+  "date": "2014-09-05",
+  "total": 3.8
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  3.8
+ ],
+ "key": "W0071_73b3503ee99e"
+}

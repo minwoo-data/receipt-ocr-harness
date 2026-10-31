@@ -1,0 +1,216 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "GUCCI",
+  "King of Prussia",
+  "350Mal1 Bivd,#3002",
+  "King Of Prussia PA 19406",
+  "tel(610)337-4130",
+  "Trans #:18845 Date:6/26/1720:15:09",
+  "Store:23012 Register:2",
+  "Cashier:1050391",
+  "Custoner:Tiffany",
+  "Custoner ID:23012002004916",
+  "807108448 QTY. 1,590.00 PRICE ANOUNT USD 1,590.00",
+  "100 HANDBAGS 86//BOR 421970KHNRN-8698-NA",
+  "Salesperson:1050391 (Qunheuane)",
+  "Subtotal 1,590.00",
+  "Tax 95.40",
+  "Total(USD) 1,685.40",
+  "Debit Card USD 1,550.00",
+  "--TRANSACTION RECORD-",
+  "STORE #23012 REG#2",
+  "INUOICE#884504",
+  "MERCHANT #07325202",
+  "TERMINAL#073252",
+  "**DIRECT PAYMENT **",
+  "TYPE:Sale",
+  "DEBIT:UISA INSERTED",
+  "USDEBIT"
+ ],
+ "tokens": [
+  {
+   "text": "GUCCI",
+   "conf": 0.9876678466796875
+  },
+  {
+   "text": "King of Prussia",
+   "conf": 0.9554834365844727
+  },
+  {
+   "text": "350Mal1 Bivd,#3002",
+   "conf": 0.863831576373842
+  },
+  {
+   "text": "King Of Prussia PA 19406",
+   "conf": 0.9190437582631906
+  },
+  {
+   "text": "tel(610)337-4130",
+   "conf": 0.9382417872548103
+  },
+  {
+   "text": "Trans #:18845",
+   "conf": 0.9237307768601638
+  },
+  {
+   "text": "Date:6/26/1720:15:09",
+   "conf": 0.974925696849823
+  },
+  {
+   "text": "Store:23012",
+   "conf": 0.9692763144319708
+  },
+  {
+   "text": "Register:2",
+   "conf": 0.9742007613182068
+  },
+  {
+   "text": "Cashier:1050391",
+   "conf": 0.9826338847478231
+  },
+  {
+   "text": "Custoner:Tiffany",
+   "conf": 0.9800193980336189
+  },
+  {
+   "text": "Custoner ID:23012002004916",
+   "conf": 0.9706872587020581
+  },
+  {
+   "text": "QTY.",
+   "conf": 0.9624006450176239
+  },
+  {
+   "text": "PRICE",
+   "conf": 0.9938708662986755
+  },
+  {
+   "text": "ANOUNT USD",
+   "conf": 0.904005178809166
+  },
+  {
+   "text": "807108448",
+   "conf": 0.9988103376494514
+  },
+  {
+   "text": "1,590.00",
+   "conf": 0.9822862073779106
+  },
+  {
+   "text": "1,590.00",
+   "conf": 0.9849333167076111
+  },
+  {
+   "text": "100 HANDBAGS",
+   "conf": 0.958916703859965
+  },
+  {
+   "text": "86//BOR 421970KHNRN-8698-NA",
+   "conf": 0.9642086139431706
+  },
+  {
+   "text": "Salesperson:1050391 (Qunheuane)",
+   "conf": 0.9348943521899562
+  },
+  {
+   "text": "Subtotal",
+   "conf": 0.984922744333744
+  },
+  {
+   "text": "1,590.00",
+   "conf": 0.9664301201701164
+  },
+  {
+   "text": "Tax",
+   "conf": 0.9868983626365662
+  },
+  {
+   "text": "95.40",
+   "conf": 0.9972266316413879
+  },
+  {
+   "text": "Total(USD)",
+   "conf": 0.9603604316711426
+  },
+  {
+   "text": "1,685.40",
+   "conf": 0.9787528812885284
+  },
+  {
+   "text": "Debit Card",
+   "conf": 0.9571605741977691
+  },
+  {
+   "text": "USD",
+   "conf": 0.9912328124046326
+  },
+  {
+   "text": "1,550.00",
+   "conf": 0.9836616069078445
+  },
+  {
+   "text": "--TRANSACTION RECORD-",
+   "conf": 0.9474524004118783
+  },
+  {
+   "text": "STORE",
+   "conf": 0.9882867097854614
+  },
+  {
+   "text": "#23012",
+   "conf": 0.9540283580621084
+  },
+  {
+   "text": "REG#2",
+   "conf": 0.9818312764167786
+  },
+  {
+   "text": "INUOICE#884504",
+   "conf": 0.9465428675924029
+  },
+  {
+   "text": "MERCHANT #07325202",
+   "conf": 0.9510466059048971
+  },
+  {
+   "text": "TERMINAL#073252",
+   "conf": 0.972679603099823
+  },
+  {
+   "text": "**DIRECT PAYMENT **",
+   "conf": 0.9174567084563406
+  },
+  {
+   "text": "TYPE:Sale",
+   "conf": 0.9715285632345412
+  },
+  {
+   "text": "DEBIT:UISA",
+   "conf": 0.9526601612567902
+  },
+  {
+   "text": "INSERTED",
+   "conf": 0.9927088096737862
+  },
+  {
+   "text": "USDEBIT",
+   "conf": 0.95921562399183
+  }
+ ],
+ "mean_conf": 0.9635,
+ "low_conf_share": 0.0,
+ "latency_ms": 4378,
+ "fields": {
+  "company": "STORE REGISTER 2",
+  "date": null,
+  "total": 1685.4
+ },
+ "rule_reasons": [
+  "date_not_found"
+ ],
+ "total_candidates": [
+  1685.4
+ ],
+ "key": "W0066_4756e32b50b5"
+}

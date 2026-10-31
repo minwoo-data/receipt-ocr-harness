@@ -1,0 +1,161 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "Smashburger #1407",
+  "440US130",
+  "609-308-2200",
+  "17",
+  "Host:Ryan 01/30/2015",
+  "17 10:58AM",
+  "20002",
+  "Order Type:DINE IN",
+  "Spinach& Goat Smash 6.69",
+  "With Reg Smash Fry 2.29",
+  "Vanflla Shake 4.29",
+  "Subtotal 13.27",
+  "Tax 0.93",
+  "DINEIN Total 14.20",
+  "Visaxxxxxxxxxxx6591 $14.20",
+  "Auth:046198",
+  "Tellus whatyou think&",
+  "recefve free smashfriesplus",
+  "recefve chances to win",
+  "daily cash and other weekly prizes",
+  "us at www.smashburgersurvey.com"
+ ],
+ "tokens": [
+  {
+   "text": "Smashburger #1407",
+   "conf": 0.926361644969267
+  },
+  {
+   "text": "440US130",
+   "conf": 0.9866103380918503
+  },
+  {
+   "text": "609-308-2200",
+   "conf": 0.9970427056153616
+  },
+  {
+   "text": "17",
+   "conf": 0.998792439699173
+  },
+  {
+   "text": "Host:Ryan",
+   "conf": 0.980450775888231
+  },
+  {
+   "text": "01/30/2015",
+   "conf": 0.9962597012519836
+  },
+  {
+   "text": "17",
+   "conf": 0.9971525073051453
+  },
+  {
+   "text": "10:58AM",
+   "conf": 0.9681257605552673
+  },
+  {
+   "text": "20002",
+   "conf": 0.995891785621643
+  },
+  {
+   "text": "Order Type:DINE IN",
+   "conf": 0.9292221632268693
+  },
+  {
+   "text": "Spinach& Goat Smash",
+   "conf": 0.9353476354950353
+  },
+  {
+   "text": "6.69",
+   "conf": 0.986710712313652
+  },
+  {
+   "text": "With Reg Smash Fry",
+   "conf": 0.9105702340602875
+  },
+  {
+   "text": "2.29",
+   "conf": 0.9969113618135452
+  },
+  {
+   "text": "Vanflla Shake",
+   "conf": 0.9142937385118924
+  },
+  {
+   "text": "4.29",
+   "conf": 0.9943473488092422
+  },
+  {
+   "text": "Subtotal",
+   "conf": 0.9929197058081627
+  },
+  {
+   "text": "13.27",
+   "conf": 0.9969959139823914
+  },
+  {
+   "text": "Tax",
+   "conf": 0.9792760809262594
+  },
+  {
+   "text": "0.93",
+   "conf": 0.9946589916944504
+  },
+  {
+   "text": "DINEIN Total",
+   "conf": 0.9526214549938837
+  },
+  {
+   "text": "14.20",
+   "conf": 0.998891282081604
+  },
+  {
+   "text": "Visaxxxxxxxxxxx6591",
+   "conf": 0.7963979338344774
+  },
+  {
+   "text": "$14.20",
+   "conf": 0.990066279967626
+  },
+  {
+   "text": "Auth:046198",
+   "conf": 0.9481356956742026
+  },
+  {
+   "text": "Tellus whatyou think&",
+   "conf": 0.9481078726904733
+  },
+  {
+   "text": "recefve free smashfriesplus",
+   "conf": 0.917199065287908
+  },
+  {
+   "text": "recefve chances to win",
+   "conf": 0.9347369616681879
+  },
+  {
+   "text": "daily cash and other weekly prizes",
+   "conf": 0.9209049186285805
+  },
+  {
+   "text": "us at www.smashburgersurvey.com",
+   "conf": 0.9262932827395778
+  }
+ ],
+ "mean_conf": 0.9604,
+ "low_conf_share": 0.0,
+ "latency_ms": 3423,
+ "fields": {
+  "company": "SMASHBURGER 1407",
+  "date": "2015-01-30",
+  "total": 14.2
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  14.2
+ ],
+ "key": "W0038_3456"
+}

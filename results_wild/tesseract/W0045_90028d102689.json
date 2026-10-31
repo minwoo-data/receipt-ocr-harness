@@ -1,0 +1,237 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "EXPRESS pay",
+  "WELCOME",
+  "DEALER: =A",
+  "tested actin 8",
+  "4000 N KESTERN",
+  "CHICAGO IL",
+  "gupoN7269",
+  "‘ARD #726",
+  "DEBIT",
+  "FREDERICK K SHART [",
+  "INV = aC27686,",
+  "ApehobaL ¢ acz",
+  "She odvo8 1° 788.5u",
+  "PUNP 4.06 NLD",
+  "GALLOF 4.92",
+  "PRICE/GAL — § 3/339",
+  "TOTAL (D) $3.57",
+  "THANK YOU",
+  "WAVE A NICE DaY"
+ ],
+ "tokens": [
+  {
+   "text": "EXPRESS",
+   "conf": 0.82
+  },
+  {
+   "text": "pay",
+   "conf": 0.81
+  },
+  {
+   "text": "WELCOME",
+   "conf": 0.47
+  },
+  {
+   "text": "DEALER:",
+   "conf": 0.71
+  },
+  {
+   "text": "=A",
+   "conf": 0.33
+  },
+  {
+   "text": "tested",
+   "conf": 0.0
+  },
+  {
+   "text": "actin",
+   "conf": 0.03
+  },
+  {
+   "text": "8",
+   "conf": 0.11
+  },
+  {
+   "text": "4000",
+   "conf": 0.51
+  },
+  {
+   "text": "N",
+   "conf": 0.33
+  },
+  {
+   "text": "KESTERN",
+   "conf": 0.55
+  },
+  {
+   "text": "CHICAGO",
+   "conf": 0.33
+  },
+  {
+   "text": "IL",
+   "conf": 0.33
+  },
+  {
+   "text": "gupoN7269",
+   "conf": 0.0
+  },
+  {
+   "text": "‘ARD",
+   "conf": 0.0
+  },
+  {
+   "text": "#726",
+   "conf": 0.51
+  },
+  {
+   "text": "DEBIT",
+   "conf": 0.33
+  },
+  {
+   "text": "FREDERICK",
+   "conf": 0.63
+  },
+  {
+   "text": "K",
+   "conf": 0.57
+  },
+  {
+   "text": "SHART",
+   "conf": 0.57
+  },
+  {
+   "text": "[",
+   "conf": 0.67
+  },
+  {
+   "text": "INV",
+   "conf": 0.5
+  },
+  {
+   "text": "=",
+   "conf": 0.44
+  },
+  {
+   "text": "aC27686,",
+   "conf": 0.02
+  },
+  {
+   "text": "ApehobaL",
+   "conf": 0.0
+  },
+  {
+   "text": "¢",
+   "conf": 0.0
+  },
+  {
+   "text": "acz",
+   "conf": 0.85
+  },
+  {
+   "text": "She",
+   "conf": 0.1
+  },
+  {
+   "text": "odvo8",
+   "conf": 0.0
+  },
+  {
+   "text": "1°",
+   "conf": 0.12
+  },
+  {
+   "text": "788.5u",
+   "conf": 0.0
+  },
+  {
+   "text": "PUNP",
+   "conf": 0.18
+  },
+  {
+   "text": "4.06",
+   "conf": 0.42
+  },
+  {
+   "text": "NLD",
+   "conf": 0.0
+  },
+  {
+   "text": "GALLOF",
+   "conf": 0.0
+  },
+  {
+   "text": "4.92",
+   "conf": 0.27
+  },
+  {
+   "text": "PRICE/GAL",
+   "conf": 0.28
+  },
+  {
+   "text": "—",
+   "conf": 0.0
+  },
+  {
+   "text": "§",
+   "conf": 0.0
+  },
+  {
+   "text": "3/339",
+   "conf": 0.5
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.92
+  },
+  {
+   "text": "(D)",
+   "conf": 0.61
+  },
+  {
+   "text": "$3.57",
+   "conf": 0.12
+  },
+  {
+   "text": "THANK",
+   "conf": 0.82
+  },
+  {
+   "text": "YOU",
+   "conf": 0.87
+  },
+  {
+   "text": "WAVE",
+   "conf": 0.77
+  },
+  {
+   "text": "A",
+   "conf": 0.71
+  },
+  {
+   "text": "NICE",
+   "conf": 0.75
+  },
+  {
+   "text": "DaY",
+   "conf": 0.8
+  }
+ ],
+ "mean_conf": 0.3808,
+ "low_conf_share": 0.5714,
+ "latency_ms": 496,
+ "fields": {
+  "company": "EXPRESS PAY",
+  "date": null,
+  "total": 3.57
+ },
+ "rule_reasons": [
+  "date_not_found"
+ ],
+ "total_candidates": [
+  3.57
+ ],
+ "key": "W0045_90028d102689"
+}

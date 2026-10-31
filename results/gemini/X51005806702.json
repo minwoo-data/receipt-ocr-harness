@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.6-flash",
+ "provider": "gemini",
+ "raw_text": "{\"vendor\": \"SINNATHAMBY HOLDINGS SDN. BHD.\", \"date\": \"2018-02-06\", \"subtotal\": 12.74, \"tax\": 0.76, \"tip\": null, \"discount\": null, \"total\": 13.5, \"currency\": \"MYR\", \"confidence\": 0.98, \"notes\": null}",
+ "data": {
+  "vendor": "SINNATHAMBY HOLDINGS SDN. BHD.",
+  "date": "2018-02-06",
+  "subtotal": 12.74,
+  "tax": 0.76,
+  "tip": null,
+  "discount": null,
+  "total": 13.5,
+  "currency": "MYR",
+  "confidence": 0.98,
+  "notes": null
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1444,
+  "output_tokens": 91,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.001424,
+ "latency_ms": 1440,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.6-flash",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.6-flash"
+ ],
+ "key": "X51005806702"
+}

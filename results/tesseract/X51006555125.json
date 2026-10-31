@@ -1,0 +1,313 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "TAX INVOICE",
+  "KHIAM AIK CHAN SDN BHD (88842-H)",
+  "No. 76, Jalan SS15/4B,",
+  "#7500 Subang Jaya, Selangor D.E.",
+  "GST Reg.: 000555819008",
+  "Cech Selec No: CS-1920@—~*~*~CS~S",
+  "Date : 25/09/2017 01:48:57 PM",
+  "1. Mex 10-1M etaples",
+  "2% 14.20 - 28.40",
+  "Total Selec Inchicive GST @6% 3840",
+  "CASH 50.0€",
+  "CHANGE ____ Bot",
+  "GST Summerg = Amount{RM) Tax(RM}",
+  "SR @ 6% 26.79 1.61",
+  "Goods sold are not returnable.",
+  "a------Jheck youl Plesse come again!"
+ ],
+ "tokens": [
+  {
+   "text": "TAX",
+   "conf": 0.93
+  },
+  {
+   "text": "INVOICE",
+   "conf": 0.93
+  },
+  {
+   "text": "KHIAM",
+   "conf": 0.9
+  },
+  {
+   "text": "AIK",
+   "conf": 0.91
+  },
+  {
+   "text": "CHAN",
+   "conf": 0.96
+  },
+  {
+   "text": "SDN",
+   "conf": 0.95
+  },
+  {
+   "text": "BHD",
+   "conf": 0.93
+  },
+  {
+   "text": "(88842-H)",
+   "conf": 0.81
+  },
+  {
+   "text": "No.",
+   "conf": 0.94
+  },
+  {
+   "text": "76,",
+   "conf": 0.95
+  },
+  {
+   "text": "Jalan",
+   "conf": 0.69
+  },
+  {
+   "text": "SS15/4B,",
+   "conf": 0.44
+  },
+  {
+   "text": "#7500",
+   "conf": 0.68
+  },
+  {
+   "text": "Subang",
+   "conf": 0.76
+  },
+  {
+   "text": "Jaya,",
+   "conf": 0.74
+  },
+  {
+   "text": "Selangor",
+   "conf": 0.77
+  },
+  {
+   "text": "D.E.",
+   "conf": 0.61
+  },
+  {
+   "text": "GST",
+   "conf": 0.91
+  },
+  {
+   "text": "Reg.:",
+   "conf": 0.58
+  },
+  {
+   "text": "000555819008",
+   "conf": 0.16
+  },
+  {
+   "text": "Cech",
+   "conf": 0.64
+  },
+  {
+   "text": "Selec",
+   "conf": 0.64
+  },
+  {
+   "text": "No:",
+   "conf": 0.0
+  },
+  {
+   "text": "CS-1920@—~*~*~CS~S",
+   "conf": 0.14
+  },
+  {
+   "text": "Date",
+   "conf": 0.82
+  },
+  {
+   "text": ":",
+   "conf": 0.78
+  },
+  {
+   "text": "25/09/2017",
+   "conf": 0.87
+  },
+  {
+   "text": "01:48:57",
+   "conf": 0.96
+  },
+  {
+   "text": "PM",
+   "conf": 0.9
+  },
+  {
+   "text": "1.",
+   "conf": 0.9
+  },
+  {
+   "text": "Mex",
+   "conf": 0.8
+  },
+  {
+   "text": "10-1M",
+   "conf": 0.9
+  },
+  {
+   "text": "etaples",
+   "conf": 0.03
+  },
+  {
+   "text": "2%",
+   "conf": 0.74
+  },
+  {
+   "text": "14.20",
+   "conf": 0.74
+  },
+  {
+   "text": "-",
+   "conf": 0.6
+  },
+  {
+   "text": "28.40",
+   "conf": 0.68
+  },
+  {
+   "text": "Total",
+   "conf": 0.79
+  },
+  {
+   "text": "Selec",
+   "conf": 0.76
+  },
+  {
+   "text": "Inchicive",
+   "conf": 0.69
+  },
+  {
+   "text": "GST",
+   "conf": 0.71
+  },
+  {
+   "text": "@6%",
+   "conf": 0.53
+  },
+  {
+   "text": "3840",
+   "conf": 0.5
+  },
+  {
+   "text": "CASH",
+   "conf": 0.95
+  },
+  {
+   "text": "50.0€",
+   "conf": 0.4
+  },
+  {
+   "text": "CHANGE",
+   "conf": 0.95
+  },
+  {
+   "text": "____",
+   "conf": 0.59
+  },
+  {
+   "text": "Bot",
+   "conf": 0.43
+  },
+  {
+   "text": "GST",
+   "conf": 0.92
+  },
+  {
+   "text": "Summerg",
+   "conf": 0.45
+  },
+  {
+   "text": "=",
+   "conf": 0.31
+  },
+  {
+   "text": "Amount{RM)",
+   "conf": 0.06
+  },
+  {
+   "text": "Tax(RM}",
+   "conf": 0.67
+  },
+  {
+   "text": "SR",
+   "conf": 0.41
+  },
+  {
+   "text": "@",
+   "conf": 0.87
+  },
+  {
+   "text": "6%",
+   "conf": 0.95
+  },
+  {
+   "text": "26.79",
+   "conf": 0.85
+  },
+  {
+   "text": "1.61",
+   "conf": 0.95
+  },
+  {
+   "text": "Goods",
+   "conf": 0.88
+  },
+  {
+   "text": "sold",
+   "conf": 0.42
+  },
+  {
+   "text": "are",
+   "conf": 0.94
+  },
+  {
+   "text": "not",
+   "conf": 0.76
+  },
+  {
+   "text": "returnable.",
+   "conf": 0.71
+  },
+  {
+   "text": "a------Jheck",
+   "conf": 0.03
+  },
+  {
+   "text": "youl",
+   "conf": 0.75
+  },
+  {
+   "text": "Plesse",
+   "conf": 0.06
+  },
+  {
+   "text": "come",
+   "conf": 0.94
+  },
+  {
+   "text": "again!",
+   "conf": 0.13
+  }
+ ],
+ "mean_conf": 0.6772,
+ "low_conf_share": 0.2206,
+ "latency_ms": 1991,
+ "fields": {
+  "company": "KHIAM AIK CHAN SDN BHD",
+  "date": "2017-09-25",
+  "total": 28.4
+ },
+ "rule_reasons": [
+  "total_no_keyword_fallback_max"
+ ],
+ "total_candidates": [
+  14.2,
+  28.4,
+  26.79,
+  1.61
+ ],
+ "key": "X51006555125"
+}

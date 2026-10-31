@@ -1,0 +1,216 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "Broadview Marketing 5dn Bhd (728384-M)",
+  "No,9-G,Jalan Dinar D U3/D",
+  "Taman Subang Perdana,Sek.U3,",
+  "40t50ShahAlam,SelangorD.E",
+  "03-78459183",
+  "G5T Reg No: 000203587584",
+  "POSTED",
+  "Tax Invoiea",
+  "Bill No BM-159572",
+  "Dete 15/05/201710:49:40AM",
+  "Cechier Merlin",
+  "Description A Frice Amount",
+  "1 SR*HMB0E10X 1 4.70 4.70",
+  "16(500gm)",
+  "Total: 4.70",
+  "Totsl Item Discount: 0.00",
+  "Totei SaiesInclucive GST: 4.70",
+  "Cach Received: 4.70",
+  "GST Summery",
+  "TarCade% Taesble Amount 155",
+  "SR 6.00 4.43 0.77V",
+  "GST: 0.27",
+  "GST Include Item",
+  "Thank Yau.Please Came Again."
+ ],
+ "tokens": [
+  {
+   "text": "Broadview Marketing 5dn Bhd (728384-M)",
+   "conf": 0.942003027388924
+  },
+  {
+   "text": "No,9-G,Jalan Dinar D U3/D",
+   "conf": 0.9341432166099548
+  },
+  {
+   "text": "Taman Subang Perdana,Sek.U3,",
+   "conf": 0.9359290897846222
+  },
+  {
+   "text": "40t50ShahAlam,SelangorD.E",
+   "conf": 0.9314351344108581
+  },
+  {
+   "text": "03-78459183",
+   "conf": 0.9986950050700795
+  },
+  {
+   "text": "G5T Reg No: 000203587584",
+   "conf": 0.9027580345670382
+  },
+  {
+   "text": "POSTED",
+   "conf": 0.992780456940333
+  },
+  {
+   "text": "Tax Invoiea",
+   "conf": 0.8401069451462139
+  },
+  {
+   "text": "Bill No",
+   "conf": 0.8962353127343314
+  },
+  {
+   "text": "BM-159572",
+   "conf": 0.9420710272259183
+  },
+  {
+   "text": "Dete",
+   "conf": 0.9305358380079269
+  },
+  {
+   "text": "15/05/201710:49:40AM",
+   "conf": 0.9877739429473877
+  },
+  {
+   "text": "Cechier",
+   "conf": 0.8736523900713239
+  },
+  {
+   "text": "Merlin",
+   "conf": 0.9133292535940806
+  },
+  {
+   "text": "Description",
+   "conf": 0.9570516564629294
+  },
+  {
+   "text": "A",
+   "conf": 0.9230380058288574
+  },
+  {
+   "text": "Frice Amount",
+   "conf": 0.8994394193092982
+  },
+  {
+   "text": "1",
+   "conf": 0.6358948349952698
+  },
+  {
+   "text": "SR*HMB0E10X",
+   "conf": 0.7250606200911782
+  },
+  {
+   "text": "1",
+   "conf": 0.8432596921920776
+  },
+  {
+   "text": "4.70",
+   "conf": 0.9001969695091248
+  },
+  {
+   "text": "4.70",
+   "conf": 0.9944179803133011
+  },
+  {
+   "text": "16(500gm)",
+   "conf": 0.8571043610572815
+  },
+  {
+   "text": "Total:",
+   "conf": 0.8726844191551208
+  },
+  {
+   "text": "4.70",
+   "conf": 0.9580920189619064
+  },
+  {
+   "text": "Totsl Item Discount:",
+   "conf": 0.8603190541267395
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9964439272880554
+  },
+  {
+   "text": "Totei SaiesInclucive GST:",
+   "conf": 0.8165590655803681
+  },
+  {
+   "text": "4.70",
+   "conf": 0.9899106919765472
+  },
+  {
+   "text": "Cach Received:",
+   "conf": 0.9227772397654397
+  },
+  {
+   "text": "4.70",
+   "conf": 0.9915122538805008
+  },
+  {
+   "text": "GST Summery",
+   "conf": 0.8883272138508883
+  },
+  {
+   "text": "TarCade%",
+   "conf": 0.8593854233622551
+  },
+  {
+   "text": "Taesble Amount",
+   "conf": 0.8566078926835742
+  },
+  {
+   "text": "155",
+   "conf": 0.8361726800600687
+  },
+  {
+   "text": "SR",
+   "conf": 0.8670241832733154
+  },
+  {
+   "text": "6.00",
+   "conf": 0.9981717765331268
+  },
+  {
+   "text": "4.43",
+   "conf": 0.9882078319787979
+  },
+  {
+   "text": "0.77V",
+   "conf": 0.6950433075428009
+  },
+  {
+   "text": "GST:",
+   "conf": 0.9701358526945114
+  },
+  {
+   "text": "0.27",
+   "conf": 0.9979524612426758
+  },
+  {
+   "text": "GST Include Item",
+   "conf": 0.933495681732893
+  },
+  {
+   "text": "Thank Yau.Please Came Again.",
+   "conf": 0.877906301191875
+  }
+ ],
+ "mean_conf": 0.9054,
+ "low_conf_share": 0.0,
+ "latency_ms": 3330,
+ "fields": {
+  "company": "BROADVIEW MARKETING 5DN BHD",
+  "date": "2017-05-15",
+  "total": 4.7
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  4.7
+ ],
+ "key": "X51006388082"
+}

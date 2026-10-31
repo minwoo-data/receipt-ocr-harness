@@ -1,0 +1,260 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "TS TOOLS HARTAARE & EACHIVERT SIR TED",
+  "1151414-P",
+  "59、JALAN BANDAR SATU",
+  "PUSAT BANDAR PUCHONG",
+  "47160,PUCH0NG,SELANGOR",
+  "TEL:03-58790352",
+  "GST N0: 000761802752",
+  "TAX INVOICE",
+  "RECEIPT #: CS00032256 DATE: 21/03/2018",
+  "SALESPERSON TIME:13:40:00",
+  "CASHIER :USER",
+  "ITEM 110 U/P AMOUNT",
+  "(RM) (RM)",
+  "2017 1 7.00 7.00",
+  "SR:(UNIT) 29#SAMURAI SPRAY PAINT",
+  "TOTAL QUANTITY 1",
+  "SUR-TOTAL 7.00",
+  "DISC 0.00",
+  "TAX 0.00",
+  "ROUNDING -0.02",
+  "TOTAL 7.40",
+  "CASH 8.00",
+  "CHANGE 0-60",
+  "GST SUMMARY",
+  "CODE AMOUNT % TAX/AMT",
+  "SR 7.00 6 0.42",
+  "TAX TOTAL: 0.42",
+  "GOODS SOLD ARE NOT RETURNABLE",
+  "THANK YOU."
+ ],
+ "tokens": [
+  {
+   "text": "TS TOOLS HARTAARE & EACHIVERT SIR TED",
+   "conf": 0.8089332540292997
+  },
+  {
+   "text": "1151414-P",
+   "conf": 0.9896510442097982
+  },
+  {
+   "text": "59、JALAN BANDAR SATU",
+   "conf": 0.9260752275586128
+  },
+  {
+   "text": "PUSAT BANDAR PUCHONG",
+   "conf": 0.9675645530223846
+  },
+  {
+   "text": "47160,PUCH0NG,SELANGOR",
+   "conf": 0.9170993322675879
+  },
+  {
+   "text": "TEL:03-58790352",
+   "conf": 0.9809497952461242
+  },
+  {
+   "text": "GST N0: 000761802752",
+   "conf": 0.9496221244335175
+  },
+  {
+   "text": "TAX INVOICE",
+   "conf": 0.933975566517223
+  },
+  {
+   "text": "RECEIPT #: CS00032256 DATE: 21/03/2018",
+   "conf": 0.9447957010645616
+  },
+  {
+   "text": "SALESPERSON",
+   "conf": 0.9903348630124872
+  },
+  {
+   "text": "TIME:13:40:00",
+   "conf": 0.9550755253204932
+  },
+  {
+   "text": "CASHIER :USER",
+   "conf": 0.952176584647252
+  },
+  {
+   "text": "ITEM",
+   "conf": 0.902418315410614
+  },
+  {
+   "text": "110",
+   "conf": 0.7055126825968424
+  },
+  {
+   "text": "U/P",
+   "conf": 0.9851716558138529
+  },
+  {
+   "text": "AMOUNT",
+   "conf": 0.9867638349533081
+  },
+  {
+   "text": "(RM)",
+   "conf": 0.9741293042898178
+  },
+  {
+   "text": "(RM)",
+   "conf": 0.9789653569459915
+  },
+  {
+   "text": "2017",
+   "conf": 0.9988606423139572
+  },
+  {
+   "text": "1",
+   "conf": 0.9952797889709473
+  },
+  {
+   "text": "7.00",
+   "conf": 0.9979848712682724
+  },
+  {
+   "text": "7.00",
+   "conf": 0.9951695054769516
+  },
+  {
+   "text": "SR:(UNIT) 29#SAMURAI SPRAY PAINT",
+   "conf": 0.9227709658443928
+  },
+  {
+   "text": "TOTAL QUANTITY",
+   "conf": 0.9730786212853023
+  },
+  {
+   "text": "1",
+   "conf": 0.8904057741165161
+  },
+  {
+   "text": "SUR-TOTAL",
+   "conf": 0.9718282487657335
+  },
+  {
+   "text": "7.00",
+   "conf": 0.9895747750997543
+  },
+  {
+   "text": "DISC",
+   "conf": 0.9727177619934082
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9786229878664017
+  },
+  {
+   "text": "TAX",
+   "conf": 0.990587850411733
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9889755845069885
+  },
+  {
+   "text": "ROUNDING",
+   "conf": 0.9932454153895378
+  },
+  {
+   "text": "-0.02",
+   "conf": 0.9161962628364563
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.9903835654258728
+  },
+  {
+   "text": "7.40",
+   "conf": 0.862534835934639
+  },
+  {
+   "text": "CASH",
+   "conf": 0.9905562698841095
+  },
+  {
+   "text": "8.00",
+   "conf": 0.9174705594778061
+  },
+  {
+   "text": "CHANGE",
+   "conf": 0.997462679942449
+  },
+  {
+   "text": "0-60",
+   "conf": 0.9288536459207535
+  },
+  {
+   "text": "GST SUMMARY",
+   "conf": 0.9285985664887861
+  },
+  {
+   "text": "CODE",
+   "conf": 0.9695488661527634
+  },
+  {
+   "text": "AMOUNT",
+   "conf": 0.9915580252806345
+  },
+  {
+   "text": "%",
+   "conf": 0.9802196621894836
+  },
+  {
+   "text": "TAX/AMT",
+   "conf": 0.9900564551353455
+  },
+  {
+   "text": "SR",
+   "conf": 0.9955355525016785
+  },
+  {
+   "text": "7.00",
+   "conf": 0.9976214170455933
+  },
+  {
+   "text": "6",
+   "conf": 0.9950657486915588
+  },
+  {
+   "text": "0.42",
+   "conf": 0.9948967844247818
+  },
+  {
+   "text": "TAX TOTAL:",
+   "conf": 0.9344594180583954
+  },
+  {
+   "text": "0.42",
+   "conf": 0.996956393122673
+  },
+  {
+   "text": "GOODS SOLD ARE NOT RETURNABLE",
+   "conf": 0.9711339000997872
+  },
+  {
+   "text": "THANK YOU.",
+   "conf": 0.8974873751401902
+  }
+ ],
+ "mean_conf": 0.9568,
+ "low_conf_share": 0.0,
+ "latency_ms": 4219,
+ "fields": {
+  "company": "TS TOOLS HARTAARE EACHIVERT SIR TED",
+  "date": "2018-03-21",
+  "total": 7.4
+ },
+ "rule_reasons": [
+  "total_multiple_keyword_amounts"
+ ],
+ "total_candidates": [
+  7.0,
+  7.4
+ ],
+ "key": "X51005710963"
+}

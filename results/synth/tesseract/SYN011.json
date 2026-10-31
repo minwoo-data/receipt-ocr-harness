@@ -1,0 +1,246 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "KOPITIAM SERI MELAKA",
+  "23 JALAN HANG TUAH, MELAKA",
+  "TAX INVOICE",
+  "Date: 10/09/2025 Time: 13:42",
+  "3 x MINERAL WATER 1.5L 6.60",
+  "2 x USB CABLE 1M 39.80",
+  "3 x FRESH MILK 1L 23.70",
+  "3 x WHOLEMEAL BREAD 13.50",
+  "SUBTOTAL 83.60",
+  "GST 6% 5.02",
+  "TOTAL 188.62",
+  "CASH 193.62",
+  "CHANGE 5.00",
+  "THANK YOU, PLEASE COME AGAIN"
+ ],
+ "tokens": [
+  {
+   "text": "KOPITIAM",
+   "conf": 0.93
+  },
+  {
+   "text": "SERI",
+   "conf": 0.92
+  },
+  {
+   "text": "MELAKA",
+   "conf": 0.92
+  },
+  {
+   "text": "23",
+   "conf": 0.95
+  },
+  {
+   "text": "JALAN",
+   "conf": 0.95
+  },
+  {
+   "text": "HANG",
+   "conf": 0.93
+  },
+  {
+   "text": "TUAH,",
+   "conf": 0.92
+  },
+  {
+   "text": "MELAKA",
+   "conf": 0.92
+  },
+  {
+   "text": "TAX",
+   "conf": 0.93
+  },
+  {
+   "text": "INVOICE",
+   "conf": 0.93
+  },
+  {
+   "text": "Date:",
+   "conf": 0.96
+  },
+  {
+   "text": "10/09/2025",
+   "conf": 0.95
+  },
+  {
+   "text": "Time:",
+   "conf": 0.95
+  },
+  {
+   "text": "13:42",
+   "conf": 0.94
+  },
+  {
+   "text": "3",
+   "conf": 0.83
+  },
+  {
+   "text": "x",
+   "conf": 0.83
+  },
+  {
+   "text": "MINERAL",
+   "conf": 0.96
+  },
+  {
+   "text": "WATER",
+   "conf": 0.96
+  },
+  {
+   "text": "1.5L",
+   "conf": 0.96
+  },
+  {
+   "text": "6.60",
+   "conf": 0.96
+  },
+  {
+   "text": "2",
+   "conf": 0.87
+  },
+  {
+   "text": "x",
+   "conf": 0.87
+  },
+  {
+   "text": "USB",
+   "conf": 0.95
+  },
+  {
+   "text": "CABLE",
+   "conf": 0.95
+  },
+  {
+   "text": "1M",
+   "conf": 0.96
+  },
+  {
+   "text": "39.80",
+   "conf": 0.94
+  },
+  {
+   "text": "3",
+   "conf": 0.84
+  },
+  {
+   "text": "x",
+   "conf": 0.84
+  },
+  {
+   "text": "FRESH",
+   "conf": 0.96
+  },
+  {
+   "text": "MILK",
+   "conf": 0.92
+  },
+  {
+   "text": "1L",
+   "conf": 0.91
+  },
+  {
+   "text": "23.70",
+   "conf": 0.93
+  },
+  {
+   "text": "3",
+   "conf": 0.86
+  },
+  {
+   "text": "x",
+   "conf": 0.86
+  },
+  {
+   "text": "WHOLEMEAL",
+   "conf": 0.91
+  },
+  {
+   "text": "BREAD",
+   "conf": 0.96
+  },
+  {
+   "text": "13.50",
+   "conf": 0.95
+  },
+  {
+   "text": "SUBTOTAL",
+   "conf": 0.96
+  },
+  {
+   "text": "83.60",
+   "conf": 0.92
+  },
+  {
+   "text": "GST",
+   "conf": 0.95
+  },
+  {
+   "text": "6%",
+   "conf": 0.96
+  },
+  {
+   "text": "5.02",
+   "conf": 0.94
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.96
+  },
+  {
+   "text": "188.62",
+   "conf": 0.8
+  },
+  {
+   "text": "CASH",
+   "conf": 0.96
+  },
+  {
+   "text": "193.62",
+   "conf": 0.94
+  },
+  {
+   "text": "CHANGE",
+   "conf": 0.96
+  },
+  {
+   "text": "5.00",
+   "conf": 0.95
+  },
+  {
+   "text": "THANK",
+   "conf": 0.96
+  },
+  {
+   "text": "YOU,",
+   "conf": 0.96
+  },
+  {
+   "text": "PLEASE",
+   "conf": 0.96
+  },
+  {
+   "text": "COME",
+   "conf": 0.96
+  },
+  {
+   "text": "AGAIN",
+   "conf": 0.96
+  }
+ ],
+ "mean_conf": 0.9279,
+ "low_conf_share": 0.0,
+ "latency_ms": 2681,
+ "fields": {
+  "company": "KOPITIAM SERI MELAKA",
+  "date": "2025-09-10",
+  "total": 188.62
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  188.62
+ ],
+ "key": "SYN011"
+}

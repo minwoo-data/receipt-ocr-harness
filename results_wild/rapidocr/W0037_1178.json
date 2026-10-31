@@ -1,0 +1,171 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "maze",
+  "GRILL",
+  "GORDONRAMSAY",
+  "10-13 Grosvenor Square",
+  "London",
+  "W1K6JP",
+  "02071070001",
+  "Server:Marylou",
+  "24/04/1312:03pm",
+  "Table No:206 Covers:1",
+  "-[Seat1]",
+  "1Cover Charge 2.00",
+  "1Whitebait 8.00",
+  "1Sushi Platter 12.00",
+  "Opt Svc Ch: 2.50",
+  "Ant.Due 24.50",
+  "VAT Included 3.66",
+  "Thank You",
+  "Includes VAT at current rate",
+  "VATNo:858950863Inv No:33830",
+  "For more informatian on all Gordon Ramsay",
+  "restaurants please visit www.gordonramsay.",
+  "Uus.On twitter ateGRnazeGrill"
+ ],
+ "tokens": [
+  {
+   "text": "maze",
+   "conf": 0.9948288798332214
+  },
+  {
+   "text": "GRILL",
+   "conf": 0.9860661387443542
+  },
+  {
+   "text": "GORDONRAMSAY",
+   "conf": 0.9541705896457037
+  },
+  {
+   "text": "10-13 Grosvenor Square",
+   "conf": 0.9145378795537081
+  },
+  {
+   "text": "W1K6JP",
+   "conf": 0.8817929327487946
+  },
+  {
+   "text": "London",
+   "conf": 0.9724235137303671
+  },
+  {
+   "text": "02071070001",
+   "conf": 0.9987698143178766
+  },
+  {
+   "text": "Server:Marylou",
+   "conf": 0.961563378572464
+  },
+  {
+   "text": "24/04/1312:03pm",
+   "conf": 0.968841278553009
+  },
+  {
+   "text": "Table No:206",
+   "conf": 0.9319035907586416
+  },
+  {
+   "text": "Covers:1",
+   "conf": 0.9638072699308395
+  },
+  {
+   "text": "-[Seat1]",
+   "conf": 0.891092874109745
+  },
+  {
+   "text": "1Cover Charge",
+   "conf": 0.972237962942857
+  },
+  {
+   "text": "2.00",
+   "conf": 0.9938101172447205
+  },
+  {
+   "text": "1Whitebait",
+   "conf": 0.9104731127619743
+  },
+  {
+   "text": "8.00",
+   "conf": 0.9862376153469086
+  },
+  {
+   "text": "1Sushi Platter",
+   "conf": 0.971097354378019
+  },
+  {
+   "text": "12.00",
+   "conf": 0.994188928604126
+  },
+  {
+   "text": "Opt Svc Ch:",
+   "conf": 0.8953695730729536
+  },
+  {
+   "text": "2.50",
+   "conf": 0.9943166673183441
+  },
+  {
+   "text": "Ant.Due",
+   "conf": 0.9143783024379185
+  },
+  {
+   "text": "24.50",
+   "conf": 0.9986403942108154
+  },
+  {
+   "text": "VAT Included",
+   "conf": 0.9398297071456909
+  },
+  {
+   "text": "3.66",
+   "conf": 0.9760100990533829
+  },
+  {
+   "text": "Thank You",
+   "conf": 0.946194158660041
+  },
+  {
+   "text": "Includes VAT at current rate",
+   "conf": 0.944314181804657
+  },
+  {
+   "text": "VATNo:858950863Inv No:33830",
+   "conf": 0.9435755919527125
+  },
+  {
+   "text": "For more informatian on all Gordon Ramsay",
+   "conf": 0.9393025200541426
+  },
+  {
+   "text": "restaurants please visit www.gordonramsay.",
+   "conf": 0.9566064122177306
+  },
+  {
+   "text": "Uus.On twitter ateGRnazeGrill",
+   "conf": 0.773187113219294
+  }
+ ],
+ "mean_conf": 0.949,
+ "low_conf_share": 0.0,
+ "latency_ms": 2637,
+ "fields": {
+  "company": "MAZE",
+  "date": null,
+  "total": 24.5
+ },
+ "rule_reasons": [
+  "date_not_found",
+  "total_no_keyword_fallback_max"
+ ],
+ "total_candidates": [
+  2.0,
+  8.0,
+  12.0,
+  2.5,
+  24.5,
+  3.66
+ ],
+ "key": "W0037_1178"
+}

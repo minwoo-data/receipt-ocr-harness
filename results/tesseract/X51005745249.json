@@ -1,0 +1,488 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "Subway#42210-0 Phone 03-78870693",
+  "URBAN IDEA SDN BHD (417940-M),",
+  "A-G-06, DATARAN GLOMAC,",
+  "JALAN SS6/5A, PUSAT BANDAR KELANA JAYA,",
+  "47301 PETALING JAYA, SELANGOR, Malaysia",
+  "Served by: rojan 27/02/2018 15:32:47",
+  "Tax Invoice# 1/A-42210- 140220",
+  "GST ID: 000220499968",
+  "Qty Size Ttem Price",
+  "] Bag ree RMO.20",
+  "] (MY) EDY Meal RH11.90",
+  "6\" -Meatbal] Sub",
+  "-1602 Fountain Brink",
+  "-| Cookies",
+  "] (MY) EDV Meal RM11.90",
+  "6\" ~BBOQ Chicken Strips Sub",
+  "~16a2 Fountain Drink",
+  "-) Cookies",
+  "Cash Rounding -1iM0..01",
+  "Total (Eat In) RM24.00 A",
+  "Cash RM3O 00",
+  "Change RM6 .00",
+  "Tax Info:",
+  "GST 6% (6%) 2 V RM1.36 rd",
+  "Jotal-Exc]-GST RN22.65",
+  "waw.tellsubway.my and get a FREE COOKIE",
+  "with next purchase Redemption of 1",
+  "cookie per transaction"
+ ],
+ "tokens": [
+  {
+   "text": "Subway#42210-0",
+   "conf": 0.9
+  },
+  {
+   "text": "Phone",
+   "conf": 0.95
+  },
+  {
+   "text": "03-78870693",
+   "conf": 0.51
+  },
+  {
+   "text": "URBAN",
+   "conf": 0.95
+  },
+  {
+   "text": "IDEA",
+   "conf": 0.4
+  },
+  {
+   "text": "SDN",
+   "conf": 0.92
+  },
+  {
+   "text": "BHD",
+   "conf": 0.93
+  },
+  {
+   "text": "(417940-M),",
+   "conf": 0.89
+  },
+  {
+   "text": "A-G-06,",
+   "conf": 0.9
+  },
+  {
+   "text": "DATARAN",
+   "conf": 0.91
+  },
+  {
+   "text": "GLOMAC,",
+   "conf": 0.87
+  },
+  {
+   "text": "JALAN",
+   "conf": 0.92
+  },
+  {
+   "text": "SS6/5A,",
+   "conf": 0.85
+  },
+  {
+   "text": "PUSAT",
+   "conf": 0.8
+  },
+  {
+   "text": "BANDAR",
+   "conf": 0.92
+  },
+  {
+   "text": "KELANA",
+   "conf": 0.93
+  },
+  {
+   "text": "JAYA,",
+   "conf": 0.92
+  },
+  {
+   "text": "47301",
+   "conf": 0.92
+  },
+  {
+   "text": "PETALING",
+   "conf": 0.91
+  },
+  {
+   "text": "JAYA,",
+   "conf": 0.91
+  },
+  {
+   "text": "SELANGOR,",
+   "conf": 0.95
+  },
+  {
+   "text": "Malaysia",
+   "conf": 0.96
+  },
+  {
+   "text": "Served",
+   "conf": 0.96
+  },
+  {
+   "text": "by:",
+   "conf": 0.93
+  },
+  {
+   "text": "rojan",
+   "conf": 0.9
+  },
+  {
+   "text": "27/02/2018",
+   "conf": 0.96
+  },
+  {
+   "text": "15:32:47",
+   "conf": 0.95
+  },
+  {
+   "text": "Tax",
+   "conf": 0.92
+  },
+  {
+   "text": "Invoice#",
+   "conf": 0.8
+  },
+  {
+   "text": "1/A-42210-",
+   "conf": 0.9
+  },
+  {
+   "text": "140220",
+   "conf": 0.96
+  },
+  {
+   "text": "GST",
+   "conf": 0.93
+  },
+  {
+   "text": "ID:",
+   "conf": 0.84
+  },
+  {
+   "text": "000220499968",
+   "conf": 0.95
+  },
+  {
+   "text": "Qty",
+   "conf": 0.96
+  },
+  {
+   "text": "Size",
+   "conf": 0.91
+  },
+  {
+   "text": "Ttem",
+   "conf": 0.88
+  },
+  {
+   "text": "Price",
+   "conf": 0.96
+  },
+  {
+   "text": "]",
+   "conf": 0.9
+  },
+  {
+   "text": "Bag",
+   "conf": 0.96
+  },
+  {
+   "text": "ree",
+   "conf": 0.89
+  },
+  {
+   "text": "RMO.20",
+   "conf": 0.62
+  },
+  {
+   "text": "]",
+   "conf": 0.73
+  },
+  {
+   "text": "(MY)",
+   "conf": 0.92
+  },
+  {
+   "text": "EDY",
+   "conf": 0.83
+  },
+  {
+   "text": "Meal",
+   "conf": 0.85
+  },
+  {
+   "text": "RH11.90",
+   "conf": 0.05
+  },
+  {
+   "text": "6\"",
+   "conf": 0.93
+  },
+  {
+   "text": "-Meatbal]",
+   "conf": 0.73
+  },
+  {
+   "text": "Sub",
+   "conf": 0.95
+  },
+  {
+   "text": "-1602",
+   "conf": 0.06
+  },
+  {
+   "text": "Fountain",
+   "conf": 0.95
+  },
+  {
+   "text": "Brink",
+   "conf": 0.92
+  },
+  {
+   "text": "-|",
+   "conf": 0.8
+  },
+  {
+   "text": "Cookies",
+   "conf": 0.95
+  },
+  {
+   "text": "]",
+   "conf": 0.78
+  },
+  {
+   "text": "(MY)",
+   "conf": 0.93
+  },
+  {
+   "text": "EDV",
+   "conf": 0.92
+  },
+  {
+   "text": "Meal",
+   "conf": 0.94
+  },
+  {
+   "text": "RM11.90",
+   "conf": 0.83
+  },
+  {
+   "text": "6\"",
+   "conf": 0.69
+  },
+  {
+   "text": "~BBOQ",
+   "conf": 0.44
+  },
+  {
+   "text": "Chicken",
+   "conf": 0.96
+  },
+  {
+   "text": "Strips",
+   "conf": 0.96
+  },
+  {
+   "text": "Sub",
+   "conf": 0.96
+  },
+  {
+   "text": "~16a2",
+   "conf": 0.58
+  },
+  {
+   "text": "Fountain",
+   "conf": 0.96
+  },
+  {
+   "text": "Drink",
+   "conf": 0.96
+  },
+  {
+   "text": "-)",
+   "conf": 0.47
+  },
+  {
+   "text": "Cookies",
+   "conf": 0.86
+  },
+  {
+   "text": "Cash",
+   "conf": 0.96
+  },
+  {
+   "text": "Rounding",
+   "conf": 0.95
+  },
+  {
+   "text": "-1iM0..01",
+   "conf": 0.0
+  },
+  {
+   "text": "Total",
+   "conf": 0.96
+  },
+  {
+   "text": "(Eat",
+   "conf": 0.96
+  },
+  {
+   "text": "In)",
+   "conf": 0.95
+  },
+  {
+   "text": "RM24.00",
+   "conf": 0.57
+  },
+  {
+   "text": "A",
+   "conf": 0.85
+  },
+  {
+   "text": "Cash",
+   "conf": 0.97
+  },
+  {
+   "text": "RM3O",
+   "conf": 0.54
+  },
+  {
+   "text": "00",
+   "conf": 0.24
+  },
+  {
+   "text": "Change",
+   "conf": 0.96
+  },
+  {
+   "text": "RM6",
+   "conf": 0.4
+  },
+  {
+   "text": ".00",
+   "conf": 0.31
+  },
+  {
+   "text": "Tax",
+   "conf": 0.96
+  },
+  {
+   "text": "Info:",
+   "conf": 0.96
+  },
+  {
+   "text": "GST",
+   "conf": 0.96
+  },
+  {
+   "text": "6%",
+   "conf": 0.96
+  },
+  {
+   "text": "(6%)",
+   "conf": 0.95
+  },
+  {
+   "text": "2",
+   "conf": 0.81
+  },
+  {
+   "text": "V",
+   "conf": 0.8
+  },
+  {
+   "text": "RM1.36",
+   "conf": 0.57
+  },
+  {
+   "text": "rd",
+   "conf": 0.27
+  },
+  {
+   "text": "Jotal-Exc]-GST",
+   "conf": 0.53
+  },
+  {
+   "text": "RN22.65",
+   "conf": 0.54
+  },
+  {
+   "text": "waw.tellsubway.my",
+   "conf": 0.48
+  },
+  {
+   "text": "and",
+   "conf": 0.96
+  },
+  {
+   "text": "get",
+   "conf": 0.96
+  },
+  {
+   "text": "a",
+   "conf": 0.96
+  },
+  {
+   "text": "FREE",
+   "conf": 0.95
+  },
+  {
+   "text": "COOKIE",
+   "conf": 0.75
+  },
+  {
+   "text": "with",
+   "conf": 0.96
+  },
+  {
+   "text": "next",
+   "conf": 0.96
+  },
+  {
+   "text": "purchase",
+   "conf": 0.93
+  },
+  {
+   "text": "Redemption",
+   "conf": 0.55
+  },
+  {
+   "text": "of",
+   "conf": 0.95
+  },
+  {
+   "text": "1",
+   "conf": 0.96
+  },
+  {
+   "text": "cookie",
+   "conf": 0.96
+  },
+  {
+   "text": "per",
+   "conf": 0.96
+  },
+  {
+   "text": "transaction",
+   "conf": 0.96
+  }
+ ],
+ "mean_conf": 0.8208,
+ "low_conf_share": 0.1,
+ "latency_ms": 2219,
+ "fields": {
+  "company": "URBAN IDEA SDN BHD",
+  "date": "2018-02-27",
+  "total": 24.0
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  24.0
+ ],
+ "key": "X51005745249"
+}

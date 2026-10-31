@@ -1,0 +1,133 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "TACO SHOP",
+  "LAKE ELSINORE",
+  "（951)245-1438",
+  "SOPE SPECIAL 7.50",
+  "(CARNITAS)",
+  "(CARNITAS)",
+  "EATIN",
+  "TAXABLE SUBTOTAL 7.50 .60",
+  "TAX-",
+  "TOTAL 20.00 8.10",
+  "CASH 11.90",
+  "CHANGE",
+  "TIME20:51 2/16/2015",
+  "CLERK-PAOLA-#137",
+  "RECPT #39",
+  "THANK YOU FOR",
+  "YOUR VISIT"
+ ],
+ "tokens": [
+  {
+   "text": "TACO SHOP",
+   "conf": 0.9418311516443888
+  },
+  {
+   "text": "LAKE ELSINORE",
+   "conf": 0.9662516896541302
+  },
+  {
+   "text": "（951)245-1438",
+   "conf": 0.9564219392262973
+  },
+  {
+   "text": "7.50",
+   "conf": 0.984570175409317
+  },
+  {
+   "text": "SOPE SPECIAL",
+   "conf": 0.9849475274483362
+  },
+  {
+   "text": "(CARNITAS)",
+   "conf": 0.9597051799297333
+  },
+  {
+   "text": "(CARNITAS)",
+   "conf": 0.9525091111660003
+  },
+  {
+   "text": "EATIN",
+   "conf": 0.9943464875221253
+  },
+  {
+   "text": "TAXABLE SUBTOTAL",
+   "conf": 0.9633469879627228
+  },
+  {
+   "text": "7.50",
+   "conf": 0.9917022734880447
+  },
+  {
+   "text": "TAX-",
+   "conf": 0.9902343899011612
+  },
+  {
+   "text": ".60",
+   "conf": 0.937140703201294
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.9948469758033752
+  },
+  {
+   "text": "8.10",
+   "conf": 0.9981802850961685
+  },
+  {
+   "text": "20.00",
+   "conf": 0.9974712371826172
+  },
+  {
+   "text": "CASH",
+   "conf": 0.9966761022806168
+  },
+  {
+   "text": "11.90",
+   "conf": 0.9985752820968627
+  },
+  {
+   "text": "CHANGE",
+   "conf": 0.9962023297945658
+  },
+  {
+   "text": "TIME20:51",
+   "conf": 0.9880120423105028
+  },
+  {
+   "text": "2/16/2015",
+   "conf": 0.9866765075259738
+  },
+  {
+   "text": "CLERK-PAOLA-#137",
+   "conf": 0.9489965476095676
+  },
+  {
+   "text": "RECPT #39",
+   "conf": 0.9528221487998962
+  },
+  {
+   "text": "THANK YOU FOR",
+   "conf": 0.9770590387857877
+  },
+  {
+   "text": "YOUR VISIT",
+   "conf": 0.954184764623642
+  }
+ ],
+ "mean_conf": 0.9755,
+ "low_conf_share": 0.0,
+ "latency_ms": 2249,
+ "fields": {
+  "company": "TACO SHOP",
+  "date": "2015-02-16",
+  "total": 8.1
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  8.1
+ ],
+ "key": "W0019_2306"
+}

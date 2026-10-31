@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.6-flash",
+ "provider": "gemini",
+ "raw_text": "{\"vendor\": \"GOLDEN KEY MAKER\", \"date\": \"2018-04-11\", \"subtotal\": 10.0, \"tax\": null, \"tip\": null, \"discount\": 0.0, \"total\": 10.0, \"currency\": \"MYR\", \"confidence\": 0.95, \"notes\": null}",
+ "data": {
+  "vendor": "GOLDEN KEY MAKER",
+  "date": "2018-04-11",
+  "subtotal": 10.0,
+  "tax": null,
+  "tip": null,
+  "discount": 0.0,
+  "total": 10.0,
+  "currency": "MYR",
+  "confidence": 0.95,
+  "notes": null
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1444,
+  "output_tokens": 83,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.001394,
+ "latency_ms": 1687,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.6-flash",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.6-flash"
+ ],
+ "key": "X51007103597"
+}

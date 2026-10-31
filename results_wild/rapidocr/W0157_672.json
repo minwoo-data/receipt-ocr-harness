@@ -1,0 +1,125 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "LAVACAAZUL",
+  "RESTAURANTE",
+  "CAPBRUBOMP,S.L.",
+  "REQUENA,9-ELCOTILLO-LAOLIVA",
+  "SU CUENTA:Gracias",
+  "MC#01",
+  "REG CAJER0221-03-201414:05 002993",
+  "CUENTA No.53",
+  "AGUA SIN GAS 1.60",
+  "PULPO PLANCHA VERDE 8.50",
+  "PARRI.PESCADO X2 25.00",
+  "IGIC7% IMPORTE 35.10",
+  "SLDO PTE 37.56 2.46"
+ ],
+ "tokens": [
+  {
+   "text": "LAVACAAZUL",
+   "conf": 0.9925737082958221
+  },
+  {
+   "text": "RESTAURANTE",
+   "conf": 0.9938433820551092
+  },
+  {
+   "text": "CAPBRUBOMP,S.L.",
+   "conf": 0.9572957515716553
+  },
+  {
+   "text": "REQUENA,9-ELCOTILLO-LAOLIVA",
+   "conf": 0.9673531099602029
+  },
+  {
+   "text": "SU CUENTA:Gracias",
+   "conf": 0.9278506741804236
+  },
+  {
+   "text": "MC#01",
+   "conf": 0.9869900941848755
+  },
+  {
+   "text": "REG CAJER0221-03-201414:05",
+   "conf": 0.9760561791750101
+  },
+  {
+   "text": "002993",
+   "conf": 0.9989837209383646
+  },
+  {
+   "text": "CUENTA No.53",
+   "conf": 0.9419336467981339
+  },
+  {
+   "text": "AGUA SIN GAS",
+   "conf": 0.9649240771929423
+  },
+  {
+   "text": "1.60",
+   "conf": 0.9974258840084076
+  },
+  {
+   "text": "PULPO PLANCHA VERDE",
+   "conf": 0.9702914074847573
+  },
+  {
+   "text": "8.50",
+   "conf": 0.997472956776619
+  },
+  {
+   "text": "PARRI.PESCADO X2",
+   "conf": 0.9543334692716599
+  },
+  {
+   "text": "25.00",
+   "conf": 0.9982777595520019
+  },
+  {
+   "text": "IMPORTE",
+   "conf": 0.9838414788246155
+  },
+  {
+   "text": "IGIC7%",
+   "conf": 0.9953413009643555
+  },
+  {
+   "text": "35.10",
+   "conf": 0.9976120114326477
+  },
+  {
+   "text": "SLDO PTE",
+   "conf": 0.9191904962062836
+  },
+  {
+   "text": "2.46",
+   "conf": 0.9968640953302383
+  },
+  {
+   "text": "37.56",
+   "conf": 0.9962283372879028
+  }
+ ],
+ "mean_conf": 0.9769,
+ "low_conf_share": 0.0,
+ "latency_ms": 3305,
+ "fields": {
+  "company": "LAVACAAZUL",
+  "date": null,
+  "total": 37.56
+ },
+ "rule_reasons": [
+  "date_not_found",
+  "total_no_keyword_fallback_max"
+ ],
+ "total_candidates": [
+  1.6,
+  8.5,
+  25.0,
+  35.1,
+  37.56,
+  2.46
+ ],
+ "key": "W0157_672"
+}

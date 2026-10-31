@@ -1,0 +1,423 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "sands of Possibilitie Get Your",
+  "3 tavange Drive, St John",
+  "t e Pr ew 709-754-1292",
+  "k Squad Pre ret #: 709-754-162€",
+  "ek Squad T 1 F rc: 1-800 GEEKSQUAD",
+  "Keep your receipt",
+  "Jal t 965~3800-9321-2718",
+  "SALES",
+  "Kit 1 44.99",
+  "10274044 7UV-00078",
+  "XBOX ONE CONSOLE",
+  "SERIAL + 01",
+  "10255650 53769",
+  "X1 RAYMAN LEGENDS",
+  "10304913 XB1-Bonus G 0.00",
+  "XBIBGW/CONSOLE PURCH",
+  "10091598 REWARDZONE 0.00",
+  "RZ COLLECTION-CORE",
+  "SERIAL |",
+  "SUBTOTAL 94499",
+  "HST NF 5.85",
+  "TOTAL 50.84",
+  "RZ CERT 10.00",
+  "XXXXXXXXXXXXXXXKXXXXXKKKKKGS LT",
+  "Pe fan",
+  "C VISA 40.84",
+  "‘proved 095499",
+  "TERM: 0909042E",
+  "SEQ NO: 001001001419",
+  "ACI/ISO 001/00",
+  "7/25/2014 9:36:50"
+ ],
+ "tokens": [
+  {
+   "text": "sands",
+   "conf": 0.28
+  },
+  {
+   "text": "of",
+   "conf": 0.93
+  },
+  {
+   "text": "Possibilitie",
+   "conf": 0.9
+  },
+  {
+   "text": "Get",
+   "conf": 0.96
+  },
+  {
+   "text": "Your",
+   "conf": 0.96
+  },
+  {
+   "text": "3",
+   "conf": 0.96
+  },
+  {
+   "text": "tavange",
+   "conf": 0.89
+  },
+  {
+   "text": "Drive,",
+   "conf": 0.95
+  },
+  {
+   "text": "St",
+   "conf": 0.96
+  },
+  {
+   "text": "John",
+   "conf": 0.8
+  },
+  {
+   "text": "t",
+   "conf": 0.92
+  },
+  {
+   "text": "e",
+   "conf": 0.92
+  },
+  {
+   "text": "Pr",
+   "conf": 0.75
+  },
+  {
+   "text": "ew",
+   "conf": 0.33
+  },
+  {
+   "text": "709-754-1292",
+   "conf": 0.92
+  },
+  {
+   "text": "k",
+   "conf": 0.84
+  },
+  {
+   "text": "Squad",
+   "conf": 0.96
+  },
+  {
+   "text": "Pre",
+   "conf": 0.96
+  },
+  {
+   "text": "ret",
+   "conf": 0.48
+  },
+  {
+   "text": "#:",
+   "conf": 0.53
+  },
+  {
+   "text": "709-754-162€",
+   "conf": 0.21
+  },
+  {
+   "text": "ek",
+   "conf": 0.96
+  },
+  {
+   "text": "Squad",
+   "conf": 0.93
+  },
+  {
+   "text": "T",
+   "conf": 0.92
+  },
+  {
+   "text": "1",
+   "conf": 0.69
+  },
+  {
+   "text": "F",
+   "conf": 0.88
+  },
+  {
+   "text": "rc:",
+   "conf": 0.0
+  },
+  {
+   "text": "1-800",
+   "conf": 0.74
+  },
+  {
+   "text": "GEEKSQUAD",
+   "conf": 0.74
+  },
+  {
+   "text": "Keep",
+   "conf": 0.95
+  },
+  {
+   "text": "your",
+   "conf": 0.95
+  },
+  {
+   "text": "receipt",
+   "conf": 0.95
+  },
+  {
+   "text": "Jal",
+   "conf": 0.91
+  },
+  {
+   "text": "t",
+   "conf": 0.32
+  },
+  {
+   "text": "965~3800-9321-2718",
+   "conf": 0.35
+  },
+  {
+   "text": "SALES",
+   "conf": 0.83
+  },
+  {
+   "text": "Kit",
+   "conf": 0.79
+  },
+  {
+   "text": "1",
+   "conf": 0.79
+  },
+  {
+   "text": "44.99",
+   "conf": 0.94
+  },
+  {
+   "text": "10274044",
+   "conf": 0.72
+  },
+  {
+   "text": "7UV-00078",
+   "conf": 0.72
+  },
+  {
+   "text": "XBOX",
+   "conf": 0.91
+  },
+  {
+   "text": "ONE",
+   "conf": 0.96
+  },
+  {
+   "text": "CONSOLE",
+   "conf": 0.96
+  },
+  {
+   "text": "SERIAL",
+   "conf": 0.92
+  },
+  {
+   "text": "+",
+   "conf": 0.71
+  },
+  {
+   "text": "01",
+   "conf": 0.27
+  },
+  {
+   "text": "10255650",
+   "conf": 0.93
+  },
+  {
+   "text": "53769",
+   "conf": 0.93
+  },
+  {
+   "text": "X1",
+   "conf": 0.85
+  },
+  {
+   "text": "RAYMAN",
+   "conf": 0.95
+  },
+  {
+   "text": "LEGENDS",
+   "conf": 0.96
+  },
+  {
+   "text": "10304913",
+   "conf": 0.57
+  },
+  {
+   "text": "XB1-Bonus",
+   "conf": 0.28
+  },
+  {
+   "text": "G",
+   "conf": 0.93
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9
+  },
+  {
+   "text": "XBIBGW/CONSOLE",
+   "conf": 0.29
+  },
+  {
+   "text": "PURCH",
+   "conf": 0.9
+  },
+  {
+   "text": "10091598",
+   "conf": 0.83
+  },
+  {
+   "text": "REWARDZONE",
+   "conf": 0.16
+  },
+  {
+   "text": "0.00",
+   "conf": 0.95
+  },
+  {
+   "text": "RZ",
+   "conf": 0.9
+  },
+  {
+   "text": "COLLECTION-CORE",
+   "conf": 0.88
+  },
+  {
+   "text": "SERIAL",
+   "conf": 0.63
+  },
+  {
+   "text": "|",
+   "conf": 0.51
+  },
+  {
+   "text": "SUBTOTAL",
+   "conf": 0.96
+  },
+  {
+   "text": "94499",
+   "conf": 0.61
+  },
+  {
+   "text": "HST",
+   "conf": 0.8
+  },
+  {
+   "text": "NF",
+   "conf": 0.8
+  },
+  {
+   "text": "5.85",
+   "conf": 0.73
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.95
+  },
+  {
+   "text": "50.84",
+   "conf": 0.7
+  },
+  {
+   "text": "RZ",
+   "conf": 0.91
+  },
+  {
+   "text": "CERT",
+   "conf": 0.93
+  },
+  {
+   "text": "10.00",
+   "conf": 0.84
+  },
+  {
+   "text": "XXXXXXXXXXXXXXXKXXXXXKKKKKGS",
+   "conf": 0.01
+  },
+  {
+   "text": "LT",
+   "conf": 0.01
+  },
+  {
+   "text": "Pe",
+   "conf": 0.0
+  },
+  {
+   "text": "fan",
+   "conf": 0.25
+  },
+  {
+   "text": "C",
+   "conf": 0.77
+  },
+  {
+   "text": "VISA",
+   "conf": 0.96
+  },
+  {
+   "text": "40.84",
+   "conf": 0.89
+  },
+  {
+   "text": "‘proved",
+   "conf": 0.52
+  },
+  {
+   "text": "095499",
+   "conf": 0.96
+  },
+  {
+   "text": "TERM:",
+   "conf": 0.88
+  },
+  {
+   "text": "0909042E",
+   "conf": 0.58
+  },
+  {
+   "text": "SEQ",
+   "conf": 0.89
+  },
+  {
+   "text": "NO:",
+   "conf": 0.84
+  },
+  {
+   "text": "001001001419",
+   "conf": 0.95
+  },
+  {
+   "text": "ACI/ISO",
+   "conf": 0.92
+  },
+  {
+   "text": "001/00",
+   "conf": 0.96
+  },
+  {
+   "text": "7/25/2014",
+   "conf": 0.95
+  },
+  {
+   "text": "9:36:50",
+   "conf": 0.9
+  }
+ ],
+ "mean_conf": 0.7531,
+ "low_conf_share": 0.1613,
+ "latency_ms": 568,
+ "fields": {
+  "company": "SALES",
+  "date": "2014-07-25",
+  "total": 50.84
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  50.84
+ ],
+ "key": "W0036_7d7af605dcd6"
+}

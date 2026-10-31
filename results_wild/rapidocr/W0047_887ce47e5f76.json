@@ -1,0 +1,207 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "Stop&shopr",
+  "CP1OP#089",
+  "AL_STN.MA",
+  "77901:6",
+  "W.STODA4DSHOP.COM",
+  "Tran 2ss91ermina] 3 Cash er:C0133 2:38pm 7/16/12",
+  "Custoner Carc Nune 1099900001",
+  "10144间 $139/1LE",
+  "APPIEREO DEL 0.88*",
+  "59/1LE",
+  "BAN.ANAS 0.34*",
+  "1.99*",
+  "suiototal S3.21",
+  "oitai S3.21",
+  "Credt $3.21",
+  "Chsnge $0.00",
+  "THANK OLI FOR SHOII AT STOP & SHOP",
+  "WE'VE EHJIOYEC SERVIRG YOU.AND WE",
+  "LOOK FORARD O SERVVG ALL YOUR",
+  "FJTURE SHOPPING NEECS.",
+  "STEVE AF:EV,STOREANAGER",
+  "STOPSSHOP 089",
+  "EARN GAS REWAFDS PTS OR OUALFYING",
+  "PRCHAS.PISEKPIFO DAYS FFOM",
+  "DATE EAIED. CATE O URCHASE TS DAY1",
+  "PTS.A SHWFED AN YOUR HOEEHOLD",
+  "IDEO COA F DETATLS"
+ ],
+ "tokens": [
+  {
+   "text": "Stop&shopr",
+   "conf": 0.8733752548694611
+  },
+  {
+   "text": "CP1OP#089",
+   "conf": 0.7816034489207797
+  },
+  {
+   "text": "AL_STN.MA",
+   "conf": 0.8344684773021274
+  },
+  {
+   "text": "77901:6",
+   "conf": 0.8647843088422503
+  },
+  {
+   "text": "W.STODA4DSHOP.COM",
+   "conf": 0.8228157758712769
+  },
+  {
+   "text": "Tran 2ss91ermina]",
+   "conf": 0.7029500989352956
+  },
+  {
+   "text": "2:38pm",
+   "conf": 0.9143784642219543
+  },
+  {
+   "text": "7/16/12",
+   "conf": 0.9677296366010394
+  },
+  {
+   "text": "3 Cash er:C0133",
+   "conf": 0.8490135371685028
+  },
+  {
+   "text": "Custoner Carc Nune",
+   "conf": 0.7678657902611626
+  },
+  {
+   "text": "1099900001",
+   "conf": 0.9910621345043182
+  },
+  {
+   "text": "10144间",
+   "conf": 0.6691653877496719
+  },
+  {
+   "text": "$139/1LE",
+   "conf": 0.7672406658530235
+  },
+  {
+   "text": "APPIEREO DEL",
+   "conf": 0.8424355809887251
+  },
+  {
+   "text": "0.88*",
+   "conf": 0.9485217452049255
+  },
+  {
+   "text": "59/1LE",
+   "conf": 0.6114262938499451
+  },
+  {
+   "text": "BAN.ANAS",
+   "conf": 0.6271959729492664
+  },
+  {
+   "text": "0.34*",
+   "conf": 0.9135434865951538
+  },
+  {
+   "text": "1.99*",
+   "conf": 0.9000444054603577
+  },
+  {
+   "text": "suiototal",
+   "conf": 0.858860088719262
+  },
+  {
+   "text": "S3.21",
+   "conf": 0.8793670773506165
+  },
+  {
+   "text": "oitai",
+   "conf": 0.6143618613481522
+  },
+  {
+   "text": "S3.21",
+   "conf": 0.9333503603935241
+  },
+  {
+   "text": "Credt",
+   "conf": 0.6248090922832489
+  },
+  {
+   "text": "$3.21",
+   "conf": 0.8522003531455994
+  },
+  {
+   "text": "Chsnge",
+   "conf": 0.6960014154513677
+  },
+  {
+   "text": "$0.00",
+   "conf": 0.976230788230896
+  },
+  {
+   "text": "THANK OLI FOR SHOII AT STOP & SHOP",
+   "conf": 0.8132970411987865
+  },
+  {
+   "text": "WE'VE EHJIOYEC SERVIRG YOU.AND WE",
+   "conf": 0.8147631585597992
+  },
+  {
+   "text": "LOOK FORARD O SERVVG ALL YOUR",
+   "conf": 0.8742486855079388
+  },
+  {
+   "text": "FJTURE SHOPPING NEECS.",
+   "conf": 0.86432591622526
+  },
+  {
+   "text": "STEVE AF:EV,STOREANAGER",
+   "conf": 0.842326766770819
+  },
+  {
+   "text": "STOPSSHOP",
+   "conf": 0.8928894135687087
+  },
+  {
+   "text": "089",
+   "conf": 0.7128667036692301
+  },
+  {
+   "text": "EARN GAS REWAFDS PTS OR OUALFYING",
+   "conf": 0.8930629582116099
+  },
+  {
+   "text": "PRCHAS.PISEKPIFO DAYS FFOM",
+   "conf": 0.8112738006390058
+  },
+  {
+   "text": "DATE EAIED. CATE O URCHASE TS DAY1",
+   "conf": 0.7851929362205898
+  },
+  {
+   "text": "PTS.A SHWFED AN YOUR HOEEHOLD",
+   "conf": 0.7607755774054034
+  },
+  {
+   "text": "IDEO COA F DETATLS",
+   "conf": 0.5944997146725655
+  }
+ ],
+ "mean_conf": 0.814,
+ "low_conf_share": 0.0,
+ "latency_ms": 5821,
+ "fields": {
+  "company": "STOP SHOPR",
+  "date": "2012-07-16",
+  "total": 3.21
+ },
+ "rule_reasons": [
+  "total_no_keyword_fallback_max"
+ ],
+ "total_candidates": [
+  3.21,
+  3.21,
+  0.0
+ ],
+ "key": "W0047_887ce47e5f76"
+}

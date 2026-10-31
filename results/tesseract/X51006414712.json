@@ -1,0 +1,929 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "TAX INVOICE ;",
+  "DOMINO'S PLigza",
+  "asT REF NO : 001694261248 a",
+  "DOMINO'S PIZZA TAMAN UNIVERSITI ‘",
+  "30, Jln Kebudayaan 7, Tmn Universiti",
+  "| 81300 Skudai, Johor ) |",
+  ". CARRY OUT NOW Pay By: CASH",
+  "Order 7 8557 By > 5586",
+  "Orcler Time :13:19:29 Date : 28/04/18 7",
+  "Name: MS NIWA",
+  "Dickup Time: 13:34:29",
+  "Qty Menu Dese Coupon Disc Price",
+  "1 PLSB-R 0,20",
+  "\" 1 RCD AOA4-ADI 14.50",
+  "- i PEP (CAN} LVDR-RG 3.50",
+  "4 PEP (CAK} LVDR-RG4 3.50",
+  "1 T/B LVDR-RG4 7.50",
+  "1 9\"HT (AC) LVDR~RG4 27.80 :",
+  "17.40 57.00 |",
+  ", «Total Items |",
+  "i Sub-Total : 57.00 )",
+  "Coupon Discount : 17.40",
+  "Grand Total : 39.60",
+  "Payment : 40.00",
+  "Change Due : 00.40 ,",
+  "*6% GST Included 2.24 )",
+  "SUPPORT OUR SMILE CAMPAIGN : } ro",
+  "Did we smile at you?",
+  "| Let us know at",
+  "wew.dominos.com.my/smile and",
+  "receive a 30% off side item s-coupon",
+  "| upon survey submission",
+  "| Survey Code: CBD2Z80740855719 ;",
+  "| Thank you for visiting Domino's.",
+  "| Please Come Again! ;",
+  ". i-300-88 68-335",
+  "ww ,dominos ,.com.my : .",
+  ", We are compliant to the PDPA 2010. )",
+  "\" Visit wwew.dominos.com.my/terms ;",
+  "to view our Personal Data .",
+  "Protection Polfoy.",
+  "owned by ,",
+  "Demmal Food Services 4dn Bhd .",
+  "| Co. No. 4190674 . 1 ~ .",
+  "© |"
+ ],
+ "tokens": [
+  {
+   "text": "TAX",
+   "conf": 0.95
+  },
+  {
+   "text": "INVOICE",
+   "conf": 0.94
+  },
+  {
+   "text": ";",
+   "conf": 0.0
+  },
+  {
+   "text": "DOMINO'S",
+   "conf": 0.93
+  },
+  {
+   "text": "PLigza",
+   "conf": 0.03
+  },
+  {
+   "text": "asT",
+   "conf": 0.56
+  },
+  {
+   "text": "REF",
+   "conf": 0.94
+  },
+  {
+   "text": "NO",
+   "conf": 0.92
+  },
+  {
+   "text": ":",
+   "conf": 0.71
+  },
+  {
+   "text": "001694261248",
+   "conf": 0.95
+  },
+  {
+   "text": "a",
+   "conf": 0.24
+  },
+  {
+   "text": "DOMINO'S",
+   "conf": 0.96
+  },
+  {
+   "text": "PIZZA",
+   "conf": 0.93
+  },
+  {
+   "text": "TAMAN",
+   "conf": 0.92
+  },
+  {
+   "text": "UNIVERSITI",
+   "conf": 0.9
+  },
+  {
+   "text": "‘",
+   "conf": 0.65
+  },
+  {
+   "text": "30,",
+   "conf": 0.93
+  },
+  {
+   "text": "Jln",
+   "conf": 0.76
+  },
+  {
+   "text": "Kebudayaan",
+   "conf": 0.92
+  },
+  {
+   "text": "7,",
+   "conf": 0.93
+  },
+  {
+   "text": "Tmn",
+   "conf": 0.86
+  },
+  {
+   "text": "Universiti",
+   "conf": 0.96
+  },
+  {
+   "text": "|",
+   "conf": 0.64
+  },
+  {
+   "text": "81300",
+   "conf": 0.93
+  },
+  {
+   "text": "Skudai,",
+   "conf": 0.9
+  },
+  {
+   "text": "Johor",
+   "conf": 0.96
+  },
+  {
+   "text": ")",
+   "conf": 0.0
+  },
+  {
+   "text": "|",
+   "conf": 0.63
+  },
+  {
+   "text": ".",
+   "conf": 0.35
+  },
+  {
+   "text": "CARRY",
+   "conf": 0.93
+  },
+  {
+   "text": "OUT",
+   "conf": 0.96
+  },
+  {
+   "text": "NOW",
+   "conf": 0.94
+  },
+  {
+   "text": "Pay",
+   "conf": 0.96
+  },
+  {
+   "text": "By:",
+   "conf": 0.95
+  },
+  {
+   "text": "CASH",
+   "conf": 0.96
+  },
+  {
+   "text": "Order",
+   "conf": 0.53
+  },
+  {
+   "text": "7",
+   "conf": 0.53
+  },
+  {
+   "text": "8557",
+   "conf": 0.63
+  },
+  {
+   "text": "By",
+   "conf": 0.71
+  },
+  {
+   "text": ">",
+   "conf": 0.06
+  },
+  {
+   "text": "5586",
+   "conf": 0.06
+  },
+  {
+   "text": "Orcler",
+   "conf": 0.35
+  },
+  {
+   "text": "Time",
+   "conf": 0.91
+  },
+  {
+   "text": ":13:19:29",
+   "conf": 0.88
+  },
+  {
+   "text": "Date",
+   "conf": 0.88
+  },
+  {
+   "text": ":",
+   "conf": 0.57
+  },
+  {
+   "text": "28/04/18",
+   "conf": 0.96
+  },
+  {
+   "text": "7",
+   "conf": 0.54
+  },
+  {
+   "text": "Name:",
+   "conf": 0.95
+  },
+  {
+   "text": "MS",
+   "conf": 0.96
+  },
+  {
+   "text": "NIWA",
+   "conf": 0.96
+  },
+  {
+   "text": "Dickup",
+   "conf": 0.91
+  },
+  {
+   "text": "Time:",
+   "conf": 0.96
+  },
+  {
+   "text": "13:34:29",
+   "conf": 0.96
+  },
+  {
+   "text": "Qty",
+   "conf": 0.96
+  },
+  {
+   "text": "Menu",
+   "conf": 0.83
+  },
+  {
+   "text": "Dese",
+   "conf": 0.86
+  },
+  {
+   "text": "Coupon",
+   "conf": 0.92
+  },
+  {
+   "text": "Disc",
+   "conf": 0.55
+  },
+  {
+   "text": "Price",
+   "conf": 0.95
+  },
+  {
+   "text": "1",
+   "conf": 0.81
+  },
+  {
+   "text": "PLSB-R",
+   "conf": 0.81
+  },
+  {
+   "text": "0,20",
+   "conf": 0.65
+  },
+  {
+   "text": "\"",
+   "conf": 0.09
+  },
+  {
+   "text": "1",
+   "conf": 0.77
+  },
+  {
+   "text": "RCD",
+   "conf": 0.77
+  },
+  {
+   "text": "AOA4-ADI",
+   "conf": 0.72
+  },
+  {
+   "text": "14.50",
+   "conf": 0.94
+  },
+  {
+   "text": "-",
+   "conf": 0.0
+  },
+  {
+   "text": "i",
+   "conf": 0.63
+  },
+  {
+   "text": "PEP",
+   "conf": 0.66
+  },
+  {
+   "text": "(CAN}",
+   "conf": 0.53
+  },
+  {
+   "text": "LVDR-RG",
+   "conf": 0.72
+  },
+  {
+   "text": "3.50",
+   "conf": 0.83
+  },
+  {
+   "text": "4",
+   "conf": 0.8
+  },
+  {
+   "text": "PEP",
+   "conf": 0.27
+  },
+  {
+   "text": "(CAK}",
+   "conf": 0.27
+  },
+  {
+   "text": "LVDR-RG4",
+   "conf": 0.62
+  },
+  {
+   "text": "3.50",
+   "conf": 0.95
+  },
+  {
+   "text": "1",
+   "conf": 0.91
+  },
+  {
+   "text": "T/B",
+   "conf": 0.37
+  },
+  {
+   "text": "LVDR-RG4",
+   "conf": 0.48
+  },
+  {
+   "text": "7.50",
+   "conf": 0.76
+  },
+  {
+   "text": "1",
+   "conf": 0.86
+  },
+  {
+   "text": "9\"HT",
+   "conf": 0.42
+  },
+  {
+   "text": "(AC)",
+   "conf": 0.91
+  },
+  {
+   "text": "LVDR~RG4",
+   "conf": 0.86
+  },
+  {
+   "text": "27.80",
+   "conf": 0.93
+  },
+  {
+   "text": ":",
+   "conf": 0.0
+  },
+  {
+   "text": "17.40",
+   "conf": 0.93
+  },
+  {
+   "text": "57.00",
+   "conf": 0.93
+  },
+  {
+   "text": "|",
+   "conf": 0.61
+  },
+  {
+   "text": ",",
+   "conf": 0.06
+  },
+  {
+   "text": "«Total",
+   "conf": 0.52
+  },
+  {
+   "text": "Items",
+   "conf": 0.95
+  },
+  {
+   "text": "|",
+   "conf": 0.68
+  },
+  {
+   "text": "i",
+   "conf": 0.46
+  },
+  {
+   "text": "Sub-Total",
+   "conf": 0.95
+  },
+  {
+   "text": ":",
+   "conf": 0.41
+  },
+  {
+   "text": "57.00",
+   "conf": 0.83
+  },
+  {
+   "text": ")",
+   "conf": 0.18
+  },
+  {
+   "text": "Coupon",
+   "conf": 0.96
+  },
+  {
+   "text": "Discount",
+   "conf": 0.93
+  },
+  {
+   "text": ":",
+   "conf": 0.89
+  },
+  {
+   "text": "17.40",
+   "conf": 0.91
+  },
+  {
+   "text": "Grand",
+   "conf": 0.96
+  },
+  {
+   "text": "Total",
+   "conf": 0.96
+  },
+  {
+   "text": ":",
+   "conf": 0.92
+  },
+  {
+   "text": "39.60",
+   "conf": 0.8
+  },
+  {
+   "text": "Payment",
+   "conf": 0.95
+  },
+  {
+   "text": ":",
+   "conf": 0.81
+  },
+  {
+   "text": "40.00",
+   "conf": 0.95
+  },
+  {
+   "text": "Change",
+   "conf": 0.95
+  },
+  {
+   "text": "Due",
+   "conf": 0.95
+  },
+  {
+   "text": ":",
+   "conf": 0.13
+  },
+  {
+   "text": "00.40",
+   "conf": 0.83
+  },
+  {
+   "text": ",",
+   "conf": 0.08
+  },
+  {
+   "text": "*6%",
+   "conf": 0.37
+  },
+  {
+   "text": "GST",
+   "conf": 0.96
+  },
+  {
+   "text": "Included",
+   "conf": 0.93
+  },
+  {
+   "text": "2.24",
+   "conf": 0.95
+  },
+  {
+   "text": ")",
+   "conf": 0.0
+  },
+  {
+   "text": "SUPPORT",
+   "conf": 0.96
+  },
+  {
+   "text": "OUR",
+   "conf": 0.96
+  },
+  {
+   "text": "SMILE",
+   "conf": 0.39
+  },
+  {
+   "text": "CAMPAIGN",
+   "conf": 0.9
+  },
+  {
+   "text": ":",
+   "conf": 0.92
+  },
+  {
+   "text": "}",
+   "conf": 0.85
+  },
+  {
+   "text": "ro",
+   "conf": 0.2
+  },
+  {
+   "text": "Did",
+   "conf": 0.95
+  },
+  {
+   "text": "we",
+   "conf": 0.93
+  },
+  {
+   "text": "smile",
+   "conf": 0.96
+  },
+  {
+   "text": "at",
+   "conf": 0.95
+  },
+  {
+   "text": "you?",
+   "conf": 0.96
+  },
+  {
+   "text": "|",
+   "conf": 0.67
+  },
+  {
+   "text": "Let",
+   "conf": 0.95
+  },
+  {
+   "text": "us",
+   "conf": 0.95
+  },
+  {
+   "text": "know",
+   "conf": 0.96
+  },
+  {
+   "text": "at",
+   "conf": 0.96
+  },
+  {
+   "text": "wew.dominos.com.my/smile",
+   "conf": 0.51
+  },
+  {
+   "text": "and",
+   "conf": 0.96
+  },
+  {
+   "text": "receive",
+   "conf": 0.92
+  },
+  {
+   "text": "a",
+   "conf": 0.95
+  },
+  {
+   "text": "30%",
+   "conf": 0.95
+  },
+  {
+   "text": "off",
+   "conf": 0.47
+  },
+  {
+   "text": "side",
+   "conf": 0.95
+  },
+  {
+   "text": "item",
+   "conf": 0.93
+  },
+  {
+   "text": "s-coupon",
+   "conf": 0.84
+  },
+  {
+   "text": "|",
+   "conf": 0.65
+  },
+  {
+   "text": "upon",
+   "conf": 0.96
+  },
+  {
+   "text": "survey",
+   "conf": 0.96
+  },
+  {
+   "text": "submission",
+   "conf": 0.95
+  },
+  {
+   "text": "|",
+   "conf": 0.49
+  },
+  {
+   "text": "Survey",
+   "conf": 0.96
+  },
+  {
+   "text": "Code:",
+   "conf": 0.93
+  },
+  {
+   "text": "CBD2Z80740855719",
+   "conf": 0.41
+  },
+  {
+   "text": ";",
+   "conf": 0.11
+  },
+  {
+   "text": "|",
+   "conf": 0.59
+  },
+  {
+   "text": "Thank",
+   "conf": 0.95
+  },
+  {
+   "text": "you",
+   "conf": 0.95
+  },
+  {
+   "text": "for",
+   "conf": 0.96
+  },
+  {
+   "text": "visiting",
+   "conf": 0.96
+  },
+  {
+   "text": "Domino's.",
+   "conf": 0.03
+  },
+  {
+   "text": "|",
+   "conf": 0.01
+  },
+  {
+   "text": "Please",
+   "conf": 0.96
+  },
+  {
+   "text": "Come",
+   "conf": 0.96
+  },
+  {
+   "text": "Again!",
+   "conf": 0.96
+  },
+  {
+   "text": ";",
+   "conf": 0.0
+  },
+  {
+   "text": ".",
+   "conf": 0.19
+  },
+  {
+   "text": "i-300-88",
+   "conf": 0.77
+  },
+  {
+   "text": "68-335",
+   "conf": 0.69
+  },
+  {
+   "text": "ww",
+   "conf": 0.04
+  },
+  {
+   "text": ",dominos",
+   "conf": 0.42
+  },
+  {
+   "text": ",.com.my",
+   "conf": 0.3
+  },
+  {
+   "text": ":",
+   "conf": 0.0
+  },
+  {
+   "text": ".",
+   "conf": 0.0
+  },
+  {
+   "text": ",",
+   "conf": 0.0
+  },
+  {
+   "text": "We",
+   "conf": 0.96
+  },
+  {
+   "text": "are",
+   "conf": 0.96
+  },
+  {
+   "text": "compliant",
+   "conf": 0.96
+  },
+  {
+   "text": "to",
+   "conf": 0.96
+  },
+  {
+   "text": "the",
+   "conf": 0.93
+  },
+  {
+   "text": "PDPA",
+   "conf": 0.88
+  },
+  {
+   "text": "2010.",
+   "conf": 0.96
+  },
+  {
+   "text": ")",
+   "conf": 0.0
+  },
+  {
+   "text": "\"",
+   "conf": 0.13
+  },
+  {
+   "text": "Visit",
+   "conf": 0.87
+  },
+  {
+   "text": "wwew.dominos.com.my/terms",
+   "conf": 0.29
+  },
+  {
+   "text": ";",
+   "conf": 0.0
+  },
+  {
+   "text": "to",
+   "conf": 0.93
+  },
+  {
+   "text": "view",
+   "conf": 0.93
+  },
+  {
+   "text": "our",
+   "conf": 0.95
+  },
+  {
+   "text": "Personal",
+   "conf": 0.96
+  },
+  {
+   "text": "Data",
+   "conf": 0.96
+  },
+  {
+   "text": ".",
+   "conf": 0.42
+  },
+  {
+   "text": "Protection",
+   "conf": 0.93
+  },
+  {
+   "text": "Polfoy.",
+   "conf": 0.73
+  },
+  {
+   "text": "owned",
+   "conf": 0.94
+  },
+  {
+   "text": "by",
+   "conf": 0.96
+  },
+  {
+   "text": ",",
+   "conf": 0.0
+  },
+  {
+   "text": "Demmal",
+   "conf": 0.47
+  },
+  {
+   "text": "Food",
+   "conf": 0.95
+  },
+  {
+   "text": "Services",
+   "conf": 0.91
+  },
+  {
+   "text": "4dn",
+   "conf": 0.61
+  },
+  {
+   "text": "Bhd",
+   "conf": 0.95
+  },
+  {
+   "text": ".",
+   "conf": 0.34
+  },
+  {
+   "text": "|",
+   "conf": 0.4
+  },
+  {
+   "text": "Co.",
+   "conf": 0.95
+  },
+  {
+   "text": "No.",
+   "conf": 0.94
+  },
+  {
+   "text": "4190674",
+   "conf": 0.89
+  },
+  {
+   "text": ".",
+   "conf": 0.1
+  },
+  {
+   "text": "1",
+   "conf": 0.7
+  },
+  {
+   "text": "~",
+   "conf": 0.0
+  },
+  {
+   "text": ".",
+   "conf": 0.15
+  },
+  {
+   "text": "©",
+   "conf": 0.89
+  },
+  {
+   "text": "|",
+   "conf": 0.5
+  }
+ ],
+ "mean_conf": 0.703,
+ "low_conf_share": 0.2407,
+ "latency_ms": 5660,
+ "fields": {
+  "company": "DOMINO S PLIGZA",
+  "date": "2018-04-28",
+  "total": 39.6
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  39.6
+ ],
+ "key": "X51006414712"
+}

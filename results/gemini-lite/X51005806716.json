@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.1-flash-lite",
+ "provider": "gemini",
+ "raw_text": "{\n  \"vendor\": \"ADVANCO COMPANY\",\n  \"date\": \"2018-01-17\",\n  \"subtotal\": 6.60,\n  \"tax\": 0.40,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 7.00,\n  \"currency\": \"MYR\",\n  \"confidence\": 0.98,\n  \"notes\": null\n}",
+ "data": {
+  "vendor": "ADVANCO COMPANY",
+  "date": "2018-01-17",
+  "subtotal": 6.6,
+  "tax": 0.4,
+  "tip": null,
+  "discount": null,
+  "total": 7.0,
+  "currency": "MYR",
+  "confidence": 0.98,
+  "notes": null
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1444,
+  "output_tokens": 106,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.00052,
+ "latency_ms": 13447,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.1-flash-lite",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.1-flash-lite"
+ ],
+ "key": "X51005806716"
+}

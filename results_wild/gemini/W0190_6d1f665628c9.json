@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.6-flash",
+ "provider": "gemini",
+ "raw_text": "{\"vendor\": \"DAIRY QUEEN\", \"date\": \"2017-04-27\", \"subtotal\": 4.78, \"tax\": 0.29, \"tip\": null, \"discount\": null, \"total\": 5.07, \"currency\": \"USD\", \"confidence\": 0.98, \"notes\": null}",
+ "data": {
+  "vendor": "DAIRY QUEEN",
+  "date": "2017-04-27",
+  "subtotal": 4.78,
+  "tax": 0.29,
+  "tip": null,
+  "discount": null,
+  "total": 5.07,
+  "currency": "USD",
+  "confidence": 0.98,
+  "notes": null
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1444,
+  "output_tokens": 81,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.001387,
+ "latency_ms": 1726,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.6-flash",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.6-flash"
+ ],
+ "key": "W0190_6d1f665628c9"
+}

@@ -1,0 +1,363 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "THONG RECIPE",
+  "16G BLOCK B ,ZENITH CORPORATE PARK",
+  "JALAN $S7/26, 47301",
+  "PETALING JAYA SELANGOR",
+  "TEL 03-7886 4877",
+  "GST NO: 001076076544 -",
+  "TAX INVOICE",
+  "OrderNo#001-1112563 27/06/18",
+  "Cashier : WINNIE",
+  "1 SET C RM49.90 49.90 SR",
+  "3 HERBAL TEA / BARLI MADU 6,00 SR",
+  "Item Count 4",
+  "SUBTOTAL: 55.90",
+  "apr RX 2.90",
+  "~--------- Payment Details ----------",
+  "CASH 100.00",
+  "CASH CHANGE 41.30",
+  "27/06/18 14:30 #001-1112563#",
+  "WINNIE",
+  "GST Summary Amount (Ri) Tax(RM)",
+  "SR (@0%) 55.90 0.00",
+  "st",
+  "Thank you",
+  "Please come again"
+ ],
+ "tokens": [
+  {
+   "text": "THONG",
+   "conf": 0.96
+  },
+  {
+   "text": "RECIPE",
+   "conf": 0.96
+  },
+  {
+   "text": "16G",
+   "conf": 0.92
+  },
+  {
+   "text": "BLOCK",
+   "conf": 0.93
+  },
+  {
+   "text": "B",
+   "conf": 0.9
+  },
+  {
+   "text": ",ZENITH",
+   "conf": 0.52
+  },
+  {
+   "text": "CORPORATE",
+   "conf": 0.96
+  },
+  {
+   "text": "PARK",
+   "conf": 0.96
+  },
+  {
+   "text": "JALAN",
+   "conf": 0.91
+  },
+  {
+   "text": "$S7/26,",
+   "conf": 0.7
+  },
+  {
+   "text": "47301",
+   "conf": 0.96
+  },
+  {
+   "text": "PETALING",
+   "conf": 0.92
+  },
+  {
+   "text": "JAYA",
+   "conf": 0.89
+  },
+  {
+   "text": "SELANGOR",
+   "conf": 0.96
+  },
+  {
+   "text": "TEL",
+   "conf": 0.94
+  },
+  {
+   "text": "03-7886",
+   "conf": 0.94
+  },
+  {
+   "text": "4877",
+   "conf": 0.95
+  },
+  {
+   "text": "GST",
+   "conf": 0.96
+  },
+  {
+   "text": "NO:",
+   "conf": 0.82
+  },
+  {
+   "text": "001076076544",
+   "conf": 0.93
+  },
+  {
+   "text": "-",
+   "conf": 0.02
+  },
+  {
+   "text": "TAX",
+   "conf": 0.95
+  },
+  {
+   "text": "INVOICE",
+   "conf": 0.95
+  },
+  {
+   "text": "OrderNo#001-1112563",
+   "conf": 0.61
+  },
+  {
+   "text": "27/06/18",
+   "conf": 0.91
+  },
+  {
+   "text": "Cashier",
+   "conf": 0.91
+  },
+  {
+   "text": ":",
+   "conf": 0.82
+  },
+  {
+   "text": "WINNIE",
+   "conf": 0.96
+  },
+  {
+   "text": "1",
+   "conf": 0.65
+  },
+  {
+   "text": "SET",
+   "conf": 0.65
+  },
+  {
+   "text": "C",
+   "conf": 0.8
+  },
+  {
+   "text": "RM49.90",
+   "conf": 0.48
+  },
+  {
+   "text": "49.90",
+   "conf": 0.83
+  },
+  {
+   "text": "SR",
+   "conf": 0.94
+  },
+  {
+   "text": "3",
+   "conf": 0.42
+  },
+  {
+   "text": "HERBAL",
+   "conf": 0.75
+  },
+  {
+   "text": "TEA",
+   "conf": 0.89
+  },
+  {
+   "text": "/",
+   "conf": 0.89
+  },
+  {
+   "text": "BARLI",
+   "conf": 0.92
+  },
+  {
+   "text": "MADU",
+   "conf": 0.92
+  },
+  {
+   "text": "6,00",
+   "conf": 0.77
+  },
+  {
+   "text": "SR",
+   "conf": 0.95
+  },
+  {
+   "text": "Item",
+   "conf": 0.96
+  },
+  {
+   "text": "Count",
+   "conf": 0.96
+  },
+  {
+   "text": "4",
+   "conf": 0.96
+  },
+  {
+   "text": "SUBTOTAL:",
+   "conf": 0.86
+  },
+  {
+   "text": "55.90",
+   "conf": 0.91
+  },
+  {
+   "text": "apr",
+   "conf": 0.28
+  },
+  {
+   "text": "RX",
+   "conf": 0.55
+  },
+  {
+   "text": "2.90",
+   "conf": 0.7
+  },
+  {
+   "text": "~---------",
+   "conf": 0.6
+  },
+  {
+   "text": "Payment",
+   "conf": 0.95
+  },
+  {
+   "text": "Details",
+   "conf": 0.93
+  },
+  {
+   "text": "----------",
+   "conf": 0.88
+  },
+  {
+   "text": "CASH",
+   "conf": 0.96
+  },
+  {
+   "text": "100.00",
+   "conf": 0.93
+  },
+  {
+   "text": "CASH",
+   "conf": 0.96
+  },
+  {
+   "text": "CHANGE",
+   "conf": 0.96
+  },
+  {
+   "text": "41.30",
+   "conf": 0.82
+  },
+  {
+   "text": "27/06/18",
+   "conf": 0.94
+  },
+  {
+   "text": "14:30",
+   "conf": 0.92
+  },
+  {
+   "text": "#001-1112563#",
+   "conf": 0.89
+  },
+  {
+   "text": "WINNIE",
+   "conf": 0.78
+  },
+  {
+   "text": "GST",
+   "conf": 0.95
+  },
+  {
+   "text": "Summary",
+   "conf": 0.95
+  },
+  {
+   "text": "Amount",
+   "conf": 0.93
+  },
+  {
+   "text": "(Ri)",
+   "conf": 0.4
+  },
+  {
+   "text": "Tax(RM)",
+   "conf": 0.92
+  },
+  {
+   "text": "SR",
+   "conf": 0.9
+  },
+  {
+   "text": "(@0%)",
+   "conf": 0.72
+  },
+  {
+   "text": "55.90",
+   "conf": 0.91
+  },
+  {
+   "text": "0.00",
+   "conf": 0.93
+  },
+  {
+   "text": "st",
+   "conf": 0.4
+  },
+  {
+   "text": "Thank",
+   "conf": 0.96
+  },
+  {
+   "text": "you",
+   "conf": 0.96
+  },
+  {
+   "text": "Please",
+   "conf": 0.96
+  },
+  {
+   "text": "come",
+   "conf": 0.96
+  },
+  {
+   "text": "again",
+   "conf": 0.96
+  }
+ ],
+ "mean_conf": 0.8396,
+ "low_conf_share": 0.0769,
+ "latency_ms": 1164,
+ "fields": {
+  "company": "THONG RECIPE",
+  "date": "2018-06-27",
+  "total": 100.0
+ },
+ "rule_reasons": [
+  "total_no_keyword_fallback_max"
+ ],
+ "total_candidates": [
+  55.9,
+  2.9,
+  100.0,
+  41.3,
+  55.9,
+  0.0
+ ],
+ "key": "X51007579725"
+}

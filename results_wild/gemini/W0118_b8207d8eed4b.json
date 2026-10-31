@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.6-flash",
+ "provider": "gemini",
+ "raw_text": "{\"vendor\": \"IHOP RESTAURANT\", \"date\": \"2014-11-15\", \"subtotal\": 23.06, \"tax\": 1.93, \"tip\": null, \"discount\": null, \"total\": 24.99, \"currency\": \"USD\", \"confidence\": 0.9, \"notes\": null}",
+ "data": {
+  "vendor": "IHOP RESTAURANT",
+  "date": "2014-11-15",
+  "subtotal": 23.06,
+  "tax": 1.93,
+  "tip": null,
+  "discount": null,
+  "total": 24.99,
+  "currency": "USD",
+  "confidence": 0.9,
+  "notes": null
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1433,
+  "output_tokens": 84,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.00139,
+ "latency_ms": 2210,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.6-flash",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.6-flash"
+ ],
+ "key": "W0118_b8207d8eed4b"
+}

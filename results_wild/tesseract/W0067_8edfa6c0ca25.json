@@ -1,0 +1,183 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "FLYING J",
+  "TRAVEL PLAZA",
+  "Troutdale, OR 97666",
+  "66/18/2089",
+  "Invoice # 93513718",
+  "BECKER SHANE B",
+  "VISA #1188",
+  "Auth # 914286",
+  "Pump: @2 UNLEADED",
+  "Quantity 13.814",
+  "Price 2.679",
+  "Amount 37.61",
+  "Total Amt. 37.61",
+  "Try Our",
+  "NEW Blueberry",
+  "Pancakes!!t"
+ ],
+ "tokens": [
+  {
+   "text": "FLYING",
+   "conf": 0.47
+  },
+  {
+   "text": "J",
+   "conf": 0.95
+  },
+  {
+   "text": "TRAVEL",
+   "conf": 0.95
+  },
+  {
+   "text": "PLAZA",
+   "conf": 0.96
+  },
+  {
+   "text": "Troutdale,",
+   "conf": 0.95
+  },
+  {
+   "text": "OR",
+   "conf": 0.95
+  },
+  {
+   "text": "97666",
+   "conf": 0.89
+  },
+  {
+   "text": "66/18/2089",
+   "conf": 0.61
+  },
+  {
+   "text": "Invoice",
+   "conf": 0.93
+  },
+  {
+   "text": "#",
+   "conf": 0.93
+  },
+  {
+   "text": "93513718",
+   "conf": 0.4
+  },
+  {
+   "text": "BECKER",
+   "conf": 0.96
+  },
+  {
+   "text": "SHANE",
+   "conf": 0.93
+  },
+  {
+   "text": "B",
+   "conf": 0.8
+  },
+  {
+   "text": "VISA",
+   "conf": 0.89
+  },
+  {
+   "text": "#1188",
+   "conf": 0.69
+  },
+  {
+   "text": "Auth",
+   "conf": 0.81
+  },
+  {
+   "text": "#",
+   "conf": 0.89
+  },
+  {
+   "text": "914286",
+   "conf": 0.96
+  },
+  {
+   "text": "Pump:",
+   "conf": 0.93
+  },
+  {
+   "text": "@2",
+   "conf": 0.85
+  },
+  {
+   "text": "UNLEADED",
+   "conf": 0.96
+  },
+  {
+   "text": "Quantity",
+   "conf": 0.95
+  },
+  {
+   "text": "13.814",
+   "conf": 0.94
+  },
+  {
+   "text": "Price",
+   "conf": 0.95
+  },
+  {
+   "text": "2.679",
+   "conf": 0.88
+  },
+  {
+   "text": "Amount",
+   "conf": 0.88
+  },
+  {
+   "text": "37.61",
+   "conf": 0.94
+  },
+  {
+   "text": "Total",
+   "conf": 0.95
+  },
+  {
+   "text": "Amt.",
+   "conf": 0.96
+  },
+  {
+   "text": "37.61",
+   "conf": 0.41
+  },
+  {
+   "text": "Try",
+   "conf": 0.96
+  },
+  {
+   "text": "Our",
+   "conf": 0.95
+  },
+  {
+   "text": "NEW",
+   "conf": 0.96
+  },
+  {
+   "text": "Blueberry",
+   "conf": 0.95
+  },
+  {
+   "text": "Pancakes!!t",
+   "conf": 0.51
+  }
+ ],
+ "mean_conf": 0.8569,
+ "low_conf_share": 0.0833,
+ "latency_ms": 314,
+ "fields": {
+  "company": "FLYING J",
+  "date": null,
+  "total": 37.61
+ },
+ "rule_reasons": [
+  "date_not_found"
+ ],
+ "total_candidates": [
+  37.61,
+  37.61
+ ],
+ "key": "W0067_8edfa6c0ca25"
+}

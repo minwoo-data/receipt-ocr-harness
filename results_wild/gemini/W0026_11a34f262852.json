@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.6-flash",
+ "provider": "gemini",
+ "raw_text": "{\"vendor\": \"CORAL BEACH HTL & RESORTS POOL BAR\", \"date\": \"2017-04-17\", \"subtotal\": 3.95, \"tax\": 0.13, \"tip\": null, \"discount\": -2.37, \"total\": 1.58, \"currency\": \"EUR\", \"confidence\": 0.95, \"notes\": null}",
+ "data": {
+  "vendor": "CORAL BEACH HTL & RESORTS POOL BAR",
+  "date": "2017-04-17",
+  "subtotal": 3.95,
+  "tax": 0.13,
+  "tip": null,
+  "discount": -2.37,
+  "total": 1.58,
+  "currency": "EUR",
+  "confidence": 0.95,
+  "notes": null
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1471,
+  "output_tokens": 93,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.001452,
+ "latency_ms": 1637,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.6-flash",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.6-flash"
+ ],
+ "key": "W0026_11a34f262852"
+}

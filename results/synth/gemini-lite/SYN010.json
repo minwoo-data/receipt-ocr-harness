@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.1-flash-lite",
+ "provider": "gemini",
+ "raw_text": "{\n  \"vendor\": \"GREENLEAF GROCER SDN BHD\",\n  \"date\": \"2026-05-13\",\n  \"subtotal\": 87.50,\n  \"tax\": 5.25,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 92.75,\n  \"currency\": \"MYR\",\n  \"confidence\": 1.0,\n  \"notes\": null\n}",
+ "data": {
+  "vendor": "GREENLEAF GROCER SDN BHD",
+  "date": "2026-05-13",
+  "subtotal": 87.5,
+  "tax": 5.25,
+  "tip": null,
+  "discount": null,
+  "total": 92.75,
+  "currency": "MYR",
+  "confidence": 1.0,
+  "notes": null
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1457,
+  "output_tokens": 110,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.000529,
+ "latency_ms": 1291,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.1-flash-lite",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.1-flash-lite"
+ ],
+ "key": "SYN010"
+}

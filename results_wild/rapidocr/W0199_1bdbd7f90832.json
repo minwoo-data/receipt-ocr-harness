@@ -1,0 +1,121 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "SELFIECOFFEE",
+  "[Prepayment]",
+  "Waiter: LYNDA SN:000008661",
+  "CHK: 00747/1",
+  "Openat:2017-11-23 17:41:28",
+  "TBL: 3",
+  "1 SELFIECOFFEE RM28.00",
+  "Subtotal: RM28.00",
+  "TAX: RM0.00",
+  "Due: RM28.00",
+  "Times of Printing:1",
+  "Thankyou!"
+ ],
+ "tokens": [
+  {
+   "text": "SELFIECOFFEE",
+   "conf": 0.9960837860902151
+  },
+  {
+   "text": "[Prepayment]",
+   "conf": 0.9864038079977036
+  },
+  {
+   "text": "LYNDA",
+   "conf": 0.9923112273216248
+  },
+  {
+   "text": "SN:000008661",
+   "conf": 0.9898907293876013
+  },
+  {
+   "text": "Waiter:",
+   "conf": 0.891527167388371
+  },
+  {
+   "text": "CHK:",
+   "conf": 0.9829042702913284
+  },
+  {
+   "text": "00747/1",
+   "conf": 0.9914477382387433
+  },
+  {
+   "text": "Openat:2017-11-23 17:41:28",
+   "conf": 0.9232106758997991
+  },
+  {
+   "text": "TBL:",
+   "conf": 0.9701294600963593
+  },
+  {
+   "text": "3",
+   "conf": 0.9985248446464539
+  },
+  {
+   "text": "RM28.00",
+   "conf": 0.9917343003409249
+  },
+  {
+   "text": "1",
+   "conf": 0.9930899739265442
+  },
+  {
+   "text": "SELFIECOFFEE",
+   "conf": 0.9953570415576299
+  },
+  {
+   "text": "RM28.00",
+   "conf": 0.9960692524909973
+  },
+  {
+   "text": "Subtotal:",
+   "conf": 0.9888767467604743
+  },
+  {
+   "text": "RM0.00",
+   "conf": 0.9327109356721243
+  },
+  {
+   "text": "TAX:",
+   "conf": 0.9705732315778732
+  },
+  {
+   "text": "RM28.00",
+   "conf": 0.99321448802948
+  },
+  {
+   "text": "Due:",
+   "conf": 0.9810245484113693
+  },
+  {
+   "text": "Times of Printing:1",
+   "conf": 0.9553042587481047
+  },
+  {
+   "text": "Thankyou!",
+   "conf": 0.9887698491414388
+  }
+ ],
+ "mean_conf": 0.9766,
+ "low_conf_share": 0.0,
+ "latency_ms": 3410,
+ "fields": {
+  "company": "SELFIECOFFEE",
+  "date": "2017-11-23",
+  "total": 28.0
+ },
+ "rule_reasons": [
+  "total_no_keyword_fallback_max"
+ ],
+ "total_candidates": [
+  28.0,
+  28.0,
+  0.0,
+  28.0
+ ],
+ "key": "W0199_1bdbd7f90832"
+}

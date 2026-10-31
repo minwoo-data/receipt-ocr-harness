@@ -1,0 +1,316 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "A061y7-",
+  "LAVENDER CONFECTEONERY & BAKERY S/B",
+  "COMPANY NO:499702-V",
+  "LOT G29 & G30， AEON Ma11 TEBRAU CITY,",
+  "NO.1.JALAN DESA TEBRAU,",
+  "TAMAN DESA \"EBRAU. 81100 JOHOR BAHRU.",
+  "TEL: 07-364 3785",
+  "GSTYD NO:001872379904",
+  "TAK INVOICE",
+  "17/06/2018 18:21 B063895",
+  "Qty Descript ions Amount.",
+  "1 HONEV SOFT TOAST 3.30 T",
+  "XIAO GE GE 5.40T",
+  "1 PARMESAN CHEDOAR CHEES 4.15 T",
+  "1 TOFFEE DANISH 5.45 T",
+  "2 EGG TART 5.10T",
+  "1 OTAK CHEESE BUN 3.10I",
+  "8 TOTAL 26.50",
+  "CASH 50.00",
+  "CHANGE 23.50",
+  "GST Summary Amount Tax",
+  "T: GST 26.50 0.00",
+  "Z: Zero Rated 0.00 0.00",
+  "Sign:",
+  "www.lavender.com.ny",
+  "THANK YOU.",
+  "1. All sales are final. Goods sold",
+  "are not refundable nor exchangeable.",
+  "2.Our produts contain no adced",
+  "preservatives, please consume within",
+  "a day or keep according to",
+  "recommendations on packaging.",
+  "3.For feedback,please retain this",
+  "Tax Invoice. Seek store manager",
+  "assistanca OR drop us an email.",
+  "4.Tax Invoice can only be issued",
+  "on the purchase date.Amendment is",
+  "not allowed once issued.",
+  "Csh:C1337 LEE FING TING",
+  "POS:TC12 Shf:201806171"
+ ],
+ "tokens": [
+  {
+   "text": "A061y7-",
+   "conf": 0.6570587711674827
+  },
+  {
+   "text": "LAVENDER CONFECTEONERY & BAKERY S/B",
+   "conf": 0.9276070816176278
+  },
+  {
+   "text": "COMPANY NO:499702-V",
+   "conf": 0.9400964096972817
+  },
+  {
+   "text": "LOT G29 & G30， AEON Ma11 TEBRAU CITY,",
+   "conf": 0.9322180151939392
+  },
+  {
+   "text": "NO.1.JALAN DESA TEBRAU,",
+   "conf": 0.9570337611695995
+  },
+  {
+   "text": "TAMAN DESA \"EBRAU. 81100 JOHOR BAHRU.",
+   "conf": 0.9191111245670834
+  },
+  {
+   "text": "TEL: 07-364 3785",
+   "conf": 0.9675064571201801
+  },
+  {
+   "text": "GSTYD NO:001872379904",
+   "conf": 0.9162238084134602
+  },
+  {
+   "text": "TAK INVOICE",
+   "conf": 0.9427013830705122
+  },
+  {
+   "text": "17/06/2018 18:21",
+   "conf": 0.9711868986487389
+  },
+  {
+   "text": "B063895",
+   "conf": 0.9950575232505798
+  },
+  {
+   "text": "Qty",
+   "conf": 0.9993030428886414
+  },
+  {
+   "text": "Descript ions",
+   "conf": 0.9439285397529602
+  },
+  {
+   "text": "Amount.",
+   "conf": 0.9814743910517011
+  },
+  {
+   "text": "1",
+   "conf": 0.9994562268257141
+  },
+  {
+   "text": "HONEV SOFT TOAST",
+   "conf": 0.9186276160180569
+  },
+  {
+   "text": "3.30 T",
+   "conf": 0.9670172035694122
+  },
+  {
+   "text": "XIAO GE GE",
+   "conf": 0.9422502994537354
+  },
+  {
+   "text": "5.40T",
+   "conf": 0.9663279294967652
+  },
+  {
+   "text": "1",
+   "conf": 0.9997984766960144
+  },
+  {
+   "text": "PARMESAN CHEDOAR CHEES",
+   "conf": 0.9630908424204047
+  },
+  {
+   "text": "4.15 T",
+   "conf": 0.9888475835323334
+  },
+  {
+   "text": "1",
+   "conf": 0.9997352957725525
+  },
+  {
+   "text": "TOFFEE DANISH",
+   "conf": 0.9513348065889798
+  },
+  {
+   "text": "5.45 T",
+   "conf": 0.9315533141295115
+  },
+  {
+   "text": "2",
+   "conf": 0.9991326928138733
+  },
+  {
+   "text": "EGG TART",
+   "conf": 0.9056215137243271
+  },
+  {
+   "text": "5.10T",
+   "conf": 0.865242737531662
+  },
+  {
+   "text": "1",
+   "conf": 0.9992702603340149
+  },
+  {
+   "text": "OTAK CHEESE BUN",
+   "conf": 0.9605281631151835
+  },
+  {
+   "text": "3.10I",
+   "conf": 0.8628155887126923
+  },
+  {
+   "text": "8",
+   "conf": 0.9987088441848755
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.9715827345848084
+  },
+  {
+   "text": "26.50",
+   "conf": 0.998740041255951
+  },
+  {
+   "text": "CASH",
+   "conf": 0.9985955506563187
+  },
+  {
+   "text": "50.00",
+   "conf": 0.9997629165649414
+  },
+  {
+   "text": "CHANGE",
+   "conf": 0.9808694620927175
+  },
+  {
+   "text": "23.50",
+   "conf": 0.9999043226242066
+  },
+  {
+   "text": "GST Summary",
+   "conf": 0.9327146302569996
+  },
+  {
+   "text": "Amount",
+   "conf": 0.901796559492747
+  },
+  {
+   "text": "Tax",
+   "conf": 0.9958891272544861
+  },
+  {
+   "text": "T: GST",
+   "conf": 0.8593694170316061
+  },
+  {
+   "text": "26.50",
+   "conf": 0.9993880033493042
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9996414929628372
+  },
+  {
+   "text": "Z: Zero Rated",
+   "conf": 0.8848135769367218
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9997827559709549
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9997244030237198
+  },
+  {
+   "text": "Sign:",
+   "conf": 0.9929869532585144
+  },
+  {
+   "text": "www.lavender.com.ny",
+   "conf": 0.9401142377602426
+  },
+  {
+   "text": "THANK YOU.",
+   "conf": 0.9820864498615265
+  },
+  {
+   "text": "1. All sales are final. Goods sold",
+   "conf": 0.9637007485417759
+  },
+  {
+   "text": "are not refundable nor exchangeable.",
+   "conf": 0.9306671793262163
+  },
+  {
+   "text": "2.Our produts contain no adced",
+   "conf": 0.9588253537813822
+  },
+  {
+   "text": "preservatives, please consume within",
+   "conf": 0.9579010142220391
+  },
+  {
+   "text": "a day or keep according to",
+   "conf": 0.953898379435906
+  },
+  {
+   "text": "recommendations on packaging.",
+   "conf": 0.9775252013370909
+  },
+  {
+   "text": "3.For feedback,please retain this",
+   "conf": 0.9731629129612085
+  },
+  {
+   "text": "Tax Invoice. Seek store manager",
+   "conf": 0.9558519759485798
+  },
+  {
+   "text": "assistanca OR drop us an email.",
+   "conf": 0.970333545438705
+  },
+  {
+   "text": "4.Tax Invoice can only be issued",
+   "conf": 0.9680504351854324
+  },
+  {
+   "text": "on the purchase date.Amendment is",
+   "conf": 0.9872569712725553
+  },
+  {
+   "text": "not allowed once issued.",
+   "conf": 0.9790339668591818
+  },
+  {
+   "text": "Csh:C1337 LEE FING TING",
+   "conf": 0.9447689833848373
+  },
+  {
+   "text": "POS:TC12 Shf:201806171",
+   "conf": 0.9435555609789762
+  }
+ ],
+ "mean_conf": 0.9558,
+ "low_conf_share": 0.0,
+ "latency_ms": 27510,
+ "fields": {
+  "company": "LAVENDER CONFECTEONERY BAKERY S B",
+  "date": "2018-06-17",
+  "total": 26.5
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  26.5
+ ],
+ "key": "X51007846412"
+}

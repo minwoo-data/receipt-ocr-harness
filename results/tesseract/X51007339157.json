@@ -1,0 +1,567 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "\\",
+  "SANYU STATIONERY SHOP XN",
+  "NO. 31G&33G, JALAN SETIA INDAH X ,U13/X :",
+  "40170 SETIA ALAM",
+  "Mobile /Whatsapps : +6012-918 7937",
+  "Tel: +603-3362 4137",
+  "GST ID No: 001531760640 TAX INVOICE",
+  "Owned By :",
+  "SANYU SUPPLY SDN BHD (1135772-K)",
+  "CASH SALES COUNTER",
+  "“\"'t.'5000-0001 ~” PHOTOCOPY SERVICES - Ad",
+  "SIZE",
+  "50 X 0.1000 = 5.00 SR",
+  "Total Sales Inclusive GST @6% 5.00",
+  "Discount 0.00",
+  "Total 5.00",
+  "Round Adj 0.00",
+  "FinalTotal 5.00",
+  "CASH 5.00",
+  "CHANGE 0.00",
+  "GST Suiimary Amount(RM) Tax(RM)",
+  "SR @ 6% 4.72 0.28",
+  "INV NO: CS-SA-0097493 Date: 19/07/2017",
+  "Goods sold are not Returnable & Refundable",
+  "THANK YOU FOR YOUR PATRONAGE",
+  "PLEASE COME AGAIN.",
+  "TERIMA KASIH SILA DATANG LAGI",
+  "** PLEASE KEEP THIS RECEIPT FOR PROVE OF",
+  "PURCHASE DATE FOR I.T PRODUCT WARRANTY",
+  "PURPOSE **",
+  ") Follow us in Facebook: Sanyu.Stationery"
+ ],
+ "tokens": [
+  {
+   "text": "\\",
+   "conf": 0.68
+  },
+  {
+   "text": "SANYU",
+   "conf": 0.82
+  },
+  {
+   "text": "STATIONERY",
+   "conf": 0.96
+  },
+  {
+   "text": "SHOP",
+   "conf": 0.96
+  },
+  {
+   "text": "XN",
+   "conf": 0.13
+  },
+  {
+   "text": "NO.",
+   "conf": 0.92
+  },
+  {
+   "text": "31G&33G,",
+   "conf": 0.89
+  },
+  {
+   "text": "JALAN",
+   "conf": 0.93
+  },
+  {
+   "text": "SETIA",
+   "conf": 0.92
+  },
+  {
+   "text": "INDAH",
+   "conf": 0.92
+  },
+  {
+   "text": "X",
+   "conf": 0.91
+  },
+  {
+   "text": ",U13/X",
+   "conf": 0.86
+  },
+  {
+   "text": ":",
+   "conf": 0.58
+  },
+  {
+   "text": "40170",
+   "conf": 0.92
+  },
+  {
+   "text": "SETIA",
+   "conf": 0.89
+  },
+  {
+   "text": "ALAM",
+   "conf": 0.96
+  },
+  {
+   "text": "Mobile",
+   "conf": 0.93
+  },
+  {
+   "text": "/Whatsapps",
+   "conf": 0.91
+  },
+  {
+   "text": ":",
+   "conf": 0.9
+  },
+  {
+   "text": "+6012-918",
+   "conf": 0.92
+  },
+  {
+   "text": "7937",
+   "conf": 0.96
+  },
+  {
+   "text": "Tel:",
+   "conf": 0.93
+  },
+  {
+   "text": "+603-3362",
+   "conf": 0.92
+  },
+  {
+   "text": "4137",
+   "conf": 0.95
+  },
+  {
+   "text": "GST",
+   "conf": 0.96
+  },
+  {
+   "text": "ID",
+   "conf": 0.96
+  },
+  {
+   "text": "No:",
+   "conf": 0.96
+  },
+  {
+   "text": "001531760640",
+   "conf": 0.94
+  },
+  {
+   "text": "TAX",
+   "conf": 0.95
+  },
+  {
+   "text": "INVOICE",
+   "conf": 0.96
+  },
+  {
+   "text": "Owned",
+   "conf": 0.95
+  },
+  {
+   "text": "By",
+   "conf": 0.78
+  },
+  {
+   "text": ":",
+   "conf": 0.78
+  },
+  {
+   "text": "SANYU",
+   "conf": 0.92
+  },
+  {
+   "text": "SUPPLY",
+   "conf": 0.96
+  },
+  {
+   "text": "SDN",
+   "conf": 0.96
+  },
+  {
+   "text": "BHD",
+   "conf": 0.92
+  },
+  {
+   "text": "(1135772-K)",
+   "conf": 0.91
+  },
+  {
+   "text": "CASH",
+   "conf": 0.96
+  },
+  {
+   "text": "SALES",
+   "conf": 0.96
+  },
+  {
+   "text": "COUNTER",
+   "conf": 0.96
+  },
+  {
+   "text": "“\"'t.'5000-0001",
+   "conf": 0.0
+  },
+  {
+   "text": "~”",
+   "conf": 0.0
+  },
+  {
+   "text": "PHOTOCOPY",
+   "conf": 0.0
+  },
+  {
+   "text": "SERVICES",
+   "conf": 0.88
+  },
+  {
+   "text": "-",
+   "conf": 0.84
+  },
+  {
+   "text": "Ad",
+   "conf": 0.63
+  },
+  {
+   "text": "SIZE",
+   "conf": 0.96
+  },
+  {
+   "text": "50",
+   "conf": 0.84
+  },
+  {
+   "text": "X",
+   "conf": 0.84
+  },
+  {
+   "text": "0.1000",
+   "conf": 0.96
+  },
+  {
+   "text": "=",
+   "conf": 0.01
+  },
+  {
+   "text": "5.00",
+   "conf": 0.86
+  },
+  {
+   "text": "SR",
+   "conf": 0.94
+  },
+  {
+   "text": "Total",
+   "conf": 0.95
+  },
+  {
+   "text": "Sales",
+   "conf": 0.96
+  },
+  {
+   "text": "Inclusive",
+   "conf": 0.96
+  },
+  {
+   "text": "GST",
+   "conf": 0.89
+  },
+  {
+   "text": "@6%",
+   "conf": 0.89
+  },
+  {
+   "text": "5.00",
+   "conf": 0.95
+  },
+  {
+   "text": "Discount",
+   "conf": 0.96
+  },
+  {
+   "text": "0.00",
+   "conf": 0.96
+  },
+  {
+   "text": "Total",
+   "conf": 0.96
+  },
+  {
+   "text": "5.00",
+   "conf": 0.96
+  },
+  {
+   "text": "Round",
+   "conf": 0.95
+  },
+  {
+   "text": "Adj",
+   "conf": 0.95
+  },
+  {
+   "text": "0.00",
+   "conf": 0.95
+  },
+  {
+   "text": "FinalTotal",
+   "conf": 0.64
+  },
+  {
+   "text": "5.00",
+   "conf": 0.91
+  },
+  {
+   "text": "CASH",
+   "conf": 0.96
+  },
+  {
+   "text": "5.00",
+   "conf": 0.95
+  },
+  {
+   "text": "CHANGE",
+   "conf": 0.96
+  },
+  {
+   "text": "0.00",
+   "conf": 0.94
+  },
+  {
+   "text": "GST",
+   "conf": 0.93
+  },
+  {
+   "text": "Suiimary",
+   "conf": 0.6
+  },
+  {
+   "text": "Amount(RM)",
+   "conf": 0.9
+  },
+  {
+   "text": "Tax(RM)",
+   "conf": 0.89
+  },
+  {
+   "text": "SR",
+   "conf": 0.81
+  },
+  {
+   "text": "@",
+   "conf": 0.81
+  },
+  {
+   "text": "6%",
+   "conf": 0.96
+  },
+  {
+   "text": "4.72",
+   "conf": 0.93
+  },
+  {
+   "text": "0.28",
+   "conf": 0.96
+  },
+  {
+   "text": "INV",
+   "conf": 0.5
+  },
+  {
+   "text": "NO:",
+   "conf": 0.5
+  },
+  {
+   "text": "CS-SA-0097493",
+   "conf": 0.57
+  },
+  {
+   "text": "Date:",
+   "conf": 0.82
+  },
+  {
+   "text": "19/07/2017",
+   "conf": 0.62
+  },
+  {
+   "text": "Goods",
+   "conf": 0.95
+  },
+  {
+   "text": "sold",
+   "conf": 0.95
+  },
+  {
+   "text": "are",
+   "conf": 0.96
+  },
+  {
+   "text": "not",
+   "conf": 0.93
+  },
+  {
+   "text": "Returnable",
+   "conf": 0.89
+  },
+  {
+   "text": "&",
+   "conf": 0.91
+  },
+  {
+   "text": "Refundable",
+   "conf": 0.96
+  },
+  {
+   "text": "THANK",
+   "conf": 0.95
+  },
+  {
+   "text": "YOU",
+   "conf": 0.95
+  },
+  {
+   "text": "FOR",
+   "conf": 0.96
+  },
+  {
+   "text": "YOUR",
+   "conf": 0.96
+  },
+  {
+   "text": "PATRONAGE",
+   "conf": 0.96
+  },
+  {
+   "text": "PLEASE",
+   "conf": 0.96
+  },
+  {
+   "text": "COME",
+   "conf": 0.93
+  },
+  {
+   "text": "AGAIN.",
+   "conf": 0.93
+  },
+  {
+   "text": "TERIMA",
+   "conf": 0.8
+  },
+  {
+   "text": "KASIH",
+   "conf": 0.8
+  },
+  {
+   "text": "SILA",
+   "conf": 0.91
+  },
+  {
+   "text": "DATANG",
+   "conf": 0.91
+  },
+  {
+   "text": "LAGI",
+   "conf": 0.95
+  },
+  {
+   "text": "**",
+   "conf": 0.91
+  },
+  {
+   "text": "PLEASE",
+   "conf": 0.96
+  },
+  {
+   "text": "KEEP",
+   "conf": 0.96
+  },
+  {
+   "text": "THIS",
+   "conf": 0.96
+  },
+  {
+   "text": "RECEIPT",
+   "conf": 0.95
+  },
+  {
+   "text": "FOR",
+   "conf": 0.96
+  },
+  {
+   "text": "PROVE",
+   "conf": 0.95
+  },
+  {
+   "text": "OF",
+   "conf": 0.95
+  },
+  {
+   "text": "PURCHASE",
+   "conf": 0.96
+  },
+  {
+   "text": "DATE",
+   "conf": 0.96
+  },
+  {
+   "text": "FOR",
+   "conf": 0.93
+  },
+  {
+   "text": "I.T",
+   "conf": 0.87
+  },
+  {
+   "text": "PRODUCT",
+   "conf": 0.95
+  },
+  {
+   "text": "WARRANTY",
+   "conf": 0.96
+  },
+  {
+   "text": "PURPOSE",
+   "conf": 0.93
+  },
+  {
+   "text": "**",
+   "conf": 0.92
+  },
+  {
+   "text": ")",
+   "conf": 0.0
+  },
+  {
+   "text": "Follow",
+   "conf": 0.96
+  },
+  {
+   "text": "us",
+   "conf": 0.75
+  },
+  {
+   "text": "in",
+   "conf": 0.75
+  },
+  {
+   "text": "Facebook:",
+   "conf": 0.93
+  },
+  {
+   "text": "Sanyu.Stationery",
+   "conf": 0.91
+  }
+ ],
+ "mean_conf": 0.8571,
+ "low_conf_share": 0.0465,
+ "latency_ms": 1698,
+ "fields": {
+  "company": "SANYU STATIONERY SHOP XN",
+  "date": "2017-07-19",
+  "total": 5.0
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  5.0
+ ],
+ "key": "X51007339157"
+}

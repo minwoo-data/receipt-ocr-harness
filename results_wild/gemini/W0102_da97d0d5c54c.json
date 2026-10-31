@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.6-flash",
+ "provider": "gemini",
+ "raw_text": "{\"vendor\": \"HOLA CUBAN CAFE, INC\", \"date\": \"2016-07-15\", \"subtotal\": 25.25, \"tax\": 1.77, \"tip\": null, \"discount\": null, \"total\": 27.02, \"currency\": \"USD\", \"confidence\": 0.98, \"notes\": null}",
+ "data": {
+  "vendor": "HOLA CUBAN CAFE, INC",
+  "date": "2016-07-15",
+  "subtotal": 25.25,
+  "tax": 1.77,
+  "tip": null,
+  "discount": null,
+  "total": 27.02,
+  "currency": "USD",
+  "confidence": 0.98,
+  "notes": null
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1479,
+  "output_tokens": 89,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.001443,
+ "latency_ms": 1718,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.6-flash",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.6-flash"
+ ],
+ "key": "W0102_da97d0d5c54c"
+}

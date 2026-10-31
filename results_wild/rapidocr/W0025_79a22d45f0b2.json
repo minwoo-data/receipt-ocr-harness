@@ -1,0 +1,187 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "RETAIL INVOICE ORIGINAL",
+  "GEETHA RESTAURANT",
+  "Ceetha Palace,Nr S.D Jain Sc",
+  "lesu Char Rasta.Surat.",
+  "h6 2216101",
+  "GST-242222062",
+  "CST-24722205182",
+  "S.T.NOAAO.",
+  "B uate:27-Apr-2017 /Capt:",
+  "/01 O:",
+  "DESLRIPTION QTYRT.AMOUNT",
+  "ROASTED PAPAD 225 50",
+  "EGIYDERBADI 1140 140",
+  "PANEER PUKARA 1200 200",
+  "BUTTER NAAN 540 200",
+  "TOTAL 9 590",
+  "NETTOTAL Rs590",
+  "E.&O.E.ThankS.. helcome Again...",
+  "Gat1SoftTech,Surat.Phone :[0261-2472799]"
+ ],
+ "tokens": [
+  {
+   "text": "RETAIL INVOICE",
+   "conf": 0.972869119473866
+  },
+  {
+   "text": "GEETHA RESTAURANT",
+   "conf": 0.9872986709370333
+  },
+  {
+   "text": "ORIGINAL",
+   "conf": 0.951773926615715
+  },
+  {
+   "text": "Ceetha Palace,Nr S.D Jain Sc",
+   "conf": 0.8750045661415372
+  },
+  {
+   "text": "lesu Char Rasta.Surat.",
+   "conf": 0.8833341463045641
+  },
+  {
+   "text": "h6",
+   "conf": 0.5519294142723083
+  },
+  {
+   "text": "GST-242222062",
+   "conf": 0.9012229075798621
+  },
+  {
+   "text": "2216101",
+   "conf": 0.9966293232781547
+  },
+  {
+   "text": "CST-24722205182",
+   "conf": 0.9929288546244304
+  },
+  {
+   "text": "S.T.NOAAO.",
+   "conf": 0.8255674064159393
+  },
+  {
+   "text": "B",
+   "conf": 0.8140883445739746
+  },
+  {
+   "text": "uate:27-Apr-2017",
+   "conf": 0.8875119742006063
+  },
+  {
+   "text": "/01",
+   "conf": 0.7160617113113403
+  },
+  {
+   "text": "/Capt:",
+   "conf": 0.9518087903658549
+  },
+  {
+   "text": "O:",
+   "conf": 0.5737909525632858
+  },
+  {
+   "text": "DESLRIPTION",
+   "conf": 0.9325360980900851
+  },
+  {
+   "text": "QTYRT.AMOUNT",
+   "conf": 0.948331892490387
+  },
+  {
+   "text": "ROASTED PAPAD",
+   "conf": 0.8803424353782947
+  },
+  {
+   "text": "225",
+   "conf": 0.9975411494572958
+  },
+  {
+   "text": "EGIYDERBADI",
+   "conf": 0.943253674290397
+  },
+  {
+   "text": "50",
+   "conf": 0.9903845489025116
+  },
+  {
+   "text": "1140",
+   "conf": 0.9862347096204758
+  },
+  {
+   "text": "140",
+   "conf": 0.9960766037305196
+  },
+  {
+   "text": "PANEER PUKARA",
+   "conf": 0.9568516887151278
+  },
+  {
+   "text": "1200",
+   "conf": 0.9974282085895538
+  },
+  {
+   "text": "200",
+   "conf": 0.9973604480425516
+  },
+  {
+   "text": "BUTTER NAAN",
+   "conf": 0.9426764303987677
+  },
+  {
+   "text": "540",
+   "conf": 0.9945905605951945
+  },
+  {
+   "text": "200",
+   "conf": 0.9983517328898112
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.9755876898765564
+  },
+  {
+   "text": "9",
+   "conf": 0.9722381830215454
+  },
+  {
+   "text": "590",
+   "conf": 0.9985583225886027
+  },
+  {
+   "text": "NETTOTAL",
+   "conf": 0.986169345676899
+  },
+  {
+   "text": "Rs590",
+   "conf": 0.922724974155426
+  },
+  {
+   "text": "E.&O.E.ThankS..",
+   "conf": 0.8273866216341654
+  },
+  {
+   "text": "helcome Again...",
+   "conf": 0.8962025754153728
+  },
+  {
+   "text": "Gat1SoftTech,Surat.Phone :[0261-2472799]",
+   "conf": 0.9401779145002365
+  }
+ ],
+ "mean_conf": 0.9179,
+ "low_conf_share": 0.0,
+ "latency_ms": 2513,
+ "fields": {
+  "company": "RETAIL INVOICE ORIGINAL GEETHA RESTAURANT",
+  "date": "2017-04-27",
+  "total": null
+ },
+ "rule_reasons": [
+  "total_not_found"
+ ],
+ "total_candidates": [],
+ "key": "W0025_79a22d45f0b2"
+}

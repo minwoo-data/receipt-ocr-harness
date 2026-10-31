@@ -1,0 +1,408 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "————",
+  "99 Ranch Market # 72",
+  "1350 Grant Road",
+  "Mountain View, CA 94040",
+  "(650) 966-8899",
+  "8/16/2016 11:52:39 AM 12 33 12 76",
+  "Cashier; 4M.",
+  "STEAMED YELLOW CHICKEN-HALF_H 8.75 T C",
+  "SUBTOTAL 8.75",
+  "8.75 TAX 8.75% = 0.77",
+  "TOTAL == 9.52",
+  "CREDIT CARD = 9.52",
+  "0,00",
+  "Item Count 1",
+  "Thank You!!!",
+  "Check with Customer Services for Inquires.",
+  "Items/Electric Appliance can be returned",
+  "with a Receipt within 7 days of purchase.",
+  "No Returns on Alcoholic Beverages, Tobacco",
+  "99 RANCH MARKET #72",
+  "1350 Grant Road",
+  "Mountain View, CA 94040",
+  "(650) 966-8899",
+  "Purchase $ 9.52"
+ ],
+ "tokens": [
+  {
+   "text": "————",
+   "conf": 0.24
+  },
+  {
+   "text": "99",
+   "conf": 0.95
+  },
+  {
+   "text": "Ranch",
+   "conf": 0.95
+  },
+  {
+   "text": "Market",
+   "conf": 0.92
+  },
+  {
+   "text": "#",
+   "conf": 0.92
+  },
+  {
+   "text": "72",
+   "conf": 0.96
+  },
+  {
+   "text": "1350",
+   "conf": 0.94
+  },
+  {
+   "text": "Grant",
+   "conf": 0.95
+  },
+  {
+   "text": "Road",
+   "conf": 0.95
+  },
+  {
+   "text": "Mountain",
+   "conf": 0.95
+  },
+  {
+   "text": "View,",
+   "conf": 0.71
+  },
+  {
+   "text": "CA",
+   "conf": 0.74
+  },
+  {
+   "text": "94040",
+   "conf": 0.96
+  },
+  {
+   "text": "(650)",
+   "conf": 0.95
+  },
+  {
+   "text": "966-8899",
+   "conf": 0.9
+  },
+  {
+   "text": "8/16/2016",
+   "conf": 0.96
+  },
+  {
+   "text": "11:52:39",
+   "conf": 0.95
+  },
+  {
+   "text": "AM",
+   "conf": 0.93
+  },
+  {
+   "text": "12",
+   "conf": 0.93
+  },
+  {
+   "text": "33",
+   "conf": 0.96
+  },
+  {
+   "text": "12",
+   "conf": 0.95
+  },
+  {
+   "text": "76",
+   "conf": 0.96
+  },
+  {
+   "text": "Cashier;",
+   "conf": 0.7
+  },
+  {
+   "text": "4M.",
+   "conf": 0.36
+  },
+  {
+   "text": "STEAMED",
+   "conf": 0.96
+  },
+  {
+   "text": "YELLOW",
+   "conf": 0.71
+  },
+  {
+   "text": "CHICKEN-HALF_H",
+   "conf": 0.89
+  },
+  {
+   "text": "8.75",
+   "conf": 0.83
+  },
+  {
+   "text": "T",
+   "conf": 0.84
+  },
+  {
+   "text": "C",
+   "conf": 0.8
+  },
+  {
+   "text": "SUBTOTAL",
+   "conf": 0.9
+  },
+  {
+   "text": "8.75",
+   "conf": 0.74
+  },
+  {
+   "text": "8.75",
+   "conf": 0.94
+  },
+  {
+   "text": "TAX",
+   "conf": 0.91
+  },
+  {
+   "text": "8.75%",
+   "conf": 0.82
+  },
+  {
+   "text": "=",
+   "conf": 0.38
+  },
+  {
+   "text": "0.77",
+   "conf": 0.38
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.43
+  },
+  {
+   "text": "==",
+   "conf": 0.38
+  },
+  {
+   "text": "9.52",
+   "conf": 0.38
+  },
+  {
+   "text": "CREDIT",
+   "conf": 0.93
+  },
+  {
+   "text": "CARD",
+   "conf": 0.63
+  },
+  {
+   "text": "=",
+   "conf": 0.42
+  },
+  {
+   "text": "9.52",
+   "conf": 0.47
+  },
+  {
+   "text": "0,00",
+   "conf": 0.92
+  },
+  {
+   "text": "Item",
+   "conf": 0.7
+  },
+  {
+   "text": "Count",
+   "conf": 0.95
+  },
+  {
+   "text": "1",
+   "conf": 0.95
+  },
+  {
+   "text": "Thank",
+   "conf": 0.95
+  },
+  {
+   "text": "You!!!",
+   "conf": 0.92
+  },
+  {
+   "text": "Check",
+   "conf": 0.96
+  },
+  {
+   "text": "with",
+   "conf": 0.96
+  },
+  {
+   "text": "Customer",
+   "conf": 0.96
+  },
+  {
+   "text": "Services",
+   "conf": 0.96
+  },
+  {
+   "text": "for",
+   "conf": 0.96
+  },
+  {
+   "text": "Inquires.",
+   "conf": 0.72
+  },
+  {
+   "text": "Items/Electric",
+   "conf": 0.9
+  },
+  {
+   "text": "Appliance",
+   "conf": 0.96
+  },
+  {
+   "text": "can",
+   "conf": 0.96
+  },
+  {
+   "text": "be",
+   "conf": 0.96
+  },
+  {
+   "text": "returned",
+   "conf": 0.96
+  },
+  {
+   "text": "with",
+   "conf": 0.96
+  },
+  {
+   "text": "a",
+   "conf": 0.94
+  },
+  {
+   "text": "Receipt",
+   "conf": 0.95
+  },
+  {
+   "text": "within",
+   "conf": 0.96
+  },
+  {
+   "text": "7",
+   "conf": 0.94
+  },
+  {
+   "text": "days",
+   "conf": 0.96
+  },
+  {
+   "text": "of",
+   "conf": 0.96
+  },
+  {
+   "text": "purchase.",
+   "conf": 0.93
+  },
+  {
+   "text": "No",
+   "conf": 0.96
+  },
+  {
+   "text": "Returns",
+   "conf": 0.96
+  },
+  {
+   "text": "on",
+   "conf": 0.96
+  },
+  {
+   "text": "Alcoholic",
+   "conf": 0.96
+  },
+  {
+   "text": "Beverages,",
+   "conf": 0.96
+  },
+  {
+   "text": "Tobacco",
+   "conf": 0.96
+  },
+  {
+   "text": "99",
+   "conf": 0.96
+  },
+  {
+   "text": "RANCH",
+   "conf": 0.96
+  },
+  {
+   "text": "MARKET",
+   "conf": 0.93
+  },
+  {
+   "text": "#72",
+   "conf": 0.96
+  },
+  {
+   "text": "1350",
+   "conf": 0.95
+  },
+  {
+   "text": "Grant",
+   "conf": 0.95
+  },
+  {
+   "text": "Road",
+   "conf": 0.95
+  },
+  {
+   "text": "Mountain",
+   "conf": 0.96
+  },
+  {
+   "text": "View,",
+   "conf": 0.96
+  },
+  {
+   "text": "CA",
+   "conf": 0.95
+  },
+  {
+   "text": "94040",
+   "conf": 0.95
+  },
+  {
+   "text": "(650)",
+   "conf": 0.9
+  },
+  {
+   "text": "966-8899",
+   "conf": 0.9
+  },
+  {
+   "text": "Purchase",
+   "conf": 0.0
+  },
+  {
+   "text": "$",
+   "conf": 0.0
+  },
+  {
+   "text": "9.52",
+   "conf": 0.94
+  }
+ ],
+ "mean_conf": 0.8424,
+ "low_conf_share": 0.1209,
+ "latency_ms": 1411,
+ "fields": {
+  "company": "MOUNTAIN VIEW CA",
+  "date": "2016-08-16",
+  "total": 9.52
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  9.52
+ ],
+ "key": "W0158_610449104202"
+}

@@ -1,0 +1,286 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "RESTORAN HWA MUI SUTERA SDN BHD",
+  "50,JALANSUTERATANJUNG5/4",
+  "TAMANSUTERAUTAMA,",
+  "81300SKUDAI,JOHOR",
+  "TEL:607-5625513",
+  "[GST ID : 001177063424 ]",
+  "TAX INVOICE Table",
+  "15",
+  "Inv No : 74865",
+  "Cashier:waiter-Waiter",
+  "Date: 29/04/2018- 1:55:30PM",
+  "Qty Description Total(RM)Tax",
+  "1 BLACKPEPPER 18.90 SR",
+  "1 CHEESYCHICKENCHOP 20.90 SR",
+  "1 GRILLED BLACKPEPPER 20.90 SR",
+  "KEN CHOP",
+  "1 FRIED KUEY TEOW 9.00 SR",
+  "1 BUTTER&KAYATOAST 2.40SR",
+  "1 TEA (B) 3.30SR",
+  "1 APPLE JUICE (ICE) 8.80SR",
+  "1 SOURSOP SMOOTHIES 7.30 SR",
+  "Total Amt Incl. @ GST 6%: 91.50",
+  "Rounding Adjustment 0.00",
+  "TOTAL 91.50",
+  "CASH 101.50",
+  "Change Returned 10.00-",
+  "Item Count : 8",
+  "GST Summary Arnount(RM) Tax(RM)",
+  "SR6% 86.32 5.18"
+ ],
+ "tokens": [
+  {
+   "text": "RESTORAN HWA MUI SUTERA SDN BHD",
+   "conf": 0.9381652089857286
+  },
+  {
+   "text": "50,JALANSUTERATANJUNG5/4",
+   "conf": 0.9749795397122701
+  },
+  {
+   "text": "TAMANSUTERAUTAMA,",
+   "conf": 0.9176411646253922
+  },
+  {
+   "text": "81300SKUDAI,JOHOR",
+   "conf": 0.9446028891731711
+  },
+  {
+   "text": "TEL:607-5625513",
+   "conf": 0.9784940600395202
+  },
+  {
+   "text": "[GST ID : 001177063424 ]",
+   "conf": 0.9610900158683459
+  },
+  {
+   "text": "Table",
+   "conf": 0.9951502561569214
+  },
+  {
+   "text": "TAX INVOICE",
+   "conf": 0.9757231582294811
+  },
+  {
+   "text": "15",
+   "conf": 0.9997447729110718
+  },
+  {
+   "text": "Inv No :",
+   "conf": 0.977026455104351
+  },
+  {
+   "text": "74865",
+   "conf": 0.999119758605957
+  },
+  {
+   "text": "Cashier:waiter-Waiter",
+   "conf": 0.9942999879519144
+  },
+  {
+   "text": "Date:",
+   "conf": 0.9844427824020385
+  },
+  {
+   "text": "29/04/2018- 1:55:30PM",
+   "conf": 0.9661736034211659
+  },
+  {
+   "text": "Qty",
+   "conf": 0.9899802406628927
+  },
+  {
+   "text": "Description",
+   "conf": 0.995938702063127
+  },
+  {
+   "text": "Total(RM)Tax",
+   "conf": 0.9823609093825022
+  },
+  {
+   "text": "1",
+   "conf": 0.9967907071113586
+  },
+  {
+   "text": "BLACKPEPPER",
+   "conf": 0.9956283569335938
+  },
+  {
+   "text": "18.90 SR",
+   "conf": 0.9657204449176788
+  },
+  {
+   "text": "1",
+   "conf": 0.9983718991279602
+  },
+  {
+   "text": "CHEESYCHICKENCHOP",
+   "conf": 0.9939286007600672
+  },
+  {
+   "text": "20.90 SR",
+   "conf": 0.984049990773201
+  },
+  {
+   "text": "1",
+   "conf": 0.994792640209198
+  },
+  {
+   "text": "GRILLED BLACKPEPPER",
+   "conf": 0.9749868292557565
+  },
+  {
+   "text": "20.90 SR",
+   "conf": 0.9817817062139511
+  },
+  {
+   "text": "KEN CHOP",
+   "conf": 0.9859418347477913
+  },
+  {
+   "text": "1",
+   "conf": 0.9939236044883728
+  },
+  {
+   "text": "FRIED KUEY TEOW",
+   "conf": 0.9679085930188497
+  },
+  {
+   "text": "9.00 SR",
+   "conf": 0.9650697537830898
+  },
+  {
+   "text": "1",
+   "conf": 0.9991722106933594
+  },
+  {
+   "text": "BUTTER&KAYATOAST",
+   "conf": 0.9883710741996765
+  },
+  {
+   "text": "2.40SR",
+   "conf": 0.9989506204922994
+  },
+  {
+   "text": "1",
+   "conf": 0.9988563060760498
+  },
+  {
+   "text": "TEA (B)",
+   "conf": 0.998011222907475
+  },
+  {
+   "text": "3.30SR",
+   "conf": 0.9969867964585623
+  },
+  {
+   "text": "1",
+   "conf": 0.9959516525268555
+  },
+  {
+   "text": "APPLE JUICE (ICE)",
+   "conf": 0.9784305761842167
+  },
+  {
+   "text": "8.80SR",
+   "conf": 0.9973730643590292
+  },
+  {
+   "text": "1",
+   "conf": 0.9955129027366638
+  },
+  {
+   "text": "SOURSOP SMOOTHIES",
+   "conf": 0.9769356636440053
+  },
+  {
+   "text": "7.30 SR",
+   "conf": 0.9563084500176566
+  },
+  {
+   "text": "Total Amt Incl. @ GST 6%:",
+   "conf": 0.943105411529541
+  },
+  {
+   "text": "91.50",
+   "conf": 0.9988203883171082
+  },
+  {
+   "text": "Rounding Adjustment",
+   "conf": 0.9867000266125328
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9977546483278275
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.986235523223877
+  },
+  {
+   "text": "91.50",
+   "conf": 0.999945068359375
+  },
+  {
+   "text": "CASH",
+   "conf": 0.9978845417499542
+  },
+  {
+   "text": "101.50",
+   "conf": 0.9996744990348816
+  },
+  {
+   "text": "Change Returned",
+   "conf": 0.9976964433987935
+  },
+  {
+   "text": "10.00-",
+   "conf": 0.982485850652059
+  },
+  {
+   "text": "Item Count : 8",
+   "conf": 0.9562909262520927
+  },
+  {
+   "text": "GST Summary",
+   "conf": 0.960214761170474
+  },
+  {
+   "text": "Arnount(RM)",
+   "conf": 0.9644766016439958
+  },
+  {
+   "text": "Tax(RM)",
+   "conf": 0.9854803851672581
+  },
+  {
+   "text": "SR6%",
+   "conf": 0.9988630264997482
+  },
+  {
+   "text": "86.32",
+   "conf": 0.9996563196182251
+  },
+  {
+   "text": "5.18",
+   "conf": 0.9993920624256134
+  }
+ ],
+ "mean_conf": 0.9832,
+ "low_conf_share": 0.0,
+ "latency_ms": 4290,
+ "fields": {
+  "company": "RESTORAN HWA MUI SUTERA SDN BHD",
+  "date": "2018-04-29",
+  "total": 91.5
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  91.5,
+  91.5
+ ],
+ "key": "X51006414708"
+}

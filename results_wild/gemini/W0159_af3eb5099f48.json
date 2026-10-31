@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.6-flash",
+ "provider": "gemini",
+ "raw_text": "{\"vendor\": \"Hog Island Oyster Co.\", \"date\": \"2015-01-24\", \"subtotal\": 117.0, \"tax\": 10.55, \"tip\": null, \"discount\": null, \"total\": 131.08, \"currency\": \"USD\", \"confidence\": 0.98, \"notes\": \"Tax includes SF Mandates surcharge (3.53).\"}",
+ "data": {
+  "vendor": "Hog Island Oyster Co.",
+  "date": "2015-01-24",
+  "subtotal": 117.0,
+  "tax": 10.55,
+  "tip": null,
+  "discount": null,
+  "total": 131.08,
+  "currency": "USD",
+  "confidence": 0.98,
+  "notes": "Tax includes SF Mandates surcharge (3.53)."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1471,
+  "output_tokens": 99,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.001474,
+ "latency_ms": 1596,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.6-flash",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.6-flash"
+ ],
+ "key": "W0159_af3eb5099f48"
+}

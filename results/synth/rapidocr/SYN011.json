@@ -1,0 +1,142 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "KOPITIAM SERI MELAKA",
+  "23 JALAN HANG TUAH，MELAKA",
+  "TAX INVOICE",
+  "Date:10/09/2025 Time:13:42",
+  "3XMINERALWATER1.5L 6.60",
+  "X USBCABLE1M 39.80",
+  "X FRESH MILK 1L 23.70",
+  "3 WHOLEMEALBREAD 13.50",
+  "SUBTOTAL 83.60",
+  "GST6% 5.02",
+  "TOTAL 188.62",
+  "CASH 193.62",
+  "CHANGE 5.00",
+  "THANK YOU,PLEASE COME AGAIN"
+ ],
+ "tokens": [
+  {
+   "text": "KOPITIAM SERI MELAKA",
+   "conf": 0.9568746834993362
+  },
+  {
+   "text": "23 JALAN HANG TUAH，MELAKA",
+   "conf": 0.9262789130210877
+  },
+  {
+   "text": "TAX INVOICE",
+   "conf": 0.9566999457099221
+  },
+  {
+   "text": "Date:10/09/2025",
+   "conf": 0.9908142209053039
+  },
+  {
+   "text": "Time:13:42",
+   "conf": 0.986819052696228
+  },
+  {
+   "text": "3XMINERALWATER1.5L",
+   "conf": 0.9800297054979537
+  },
+  {
+   "text": "6.60",
+   "conf": 0.9992404729127884
+  },
+  {
+   "text": "X",
+   "conf": 0.6916326284408569
+  },
+  {
+   "text": "USBCABLE1M",
+   "conf": 0.9941742658615113
+  },
+  {
+   "text": "39.80",
+   "conf": 0.9997154116630554
+  },
+  {
+   "text": "X",
+   "conf": 0.6128506064414978
+  },
+  {
+   "text": "FRESH MILK 1L",
+   "conf": 0.9367845150140616
+  },
+  {
+   "text": "23.70",
+   "conf": 0.9994528889656067
+  },
+  {
+   "text": "3",
+   "conf": 0.9989436268806458
+  },
+  {
+   "text": "WHOLEMEALBREAD",
+   "conf": 0.9932830546583448
+  },
+  {
+   "text": "13.50",
+   "conf": 0.9996473908424377
+  },
+  {
+   "text": "SUBTOTAL",
+   "conf": 0.989065520465374
+  },
+  {
+   "text": "83.60",
+   "conf": 0.9990643978118896
+  },
+  {
+   "text": "GST6%",
+   "conf": 0.9981070756912231
+  },
+  {
+   "text": "5.02",
+   "conf": 0.9984512329101562
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.9932756423950195
+  },
+  {
+   "text": "188.62",
+   "conf": 0.9986053208510081
+  },
+  {
+   "text": "CASH",
+   "conf": 0.9973620474338531
+  },
+  {
+   "text": "193.62",
+   "conf": 0.9990859925746918
+  },
+  {
+   "text": "CHANGE",
+   "conf": 0.9956182340780894
+  },
+  {
+   "text": "5.00",
+   "conf": 0.9993737936019897
+  },
+  {
+   "text": "THANK YOU,PLEASE COME AGAIN",
+   "conf": 0.9424497021569146
+  }
+ ],
+ "mean_conf": 0.9605,
+ "low_conf_share": 0.0,
+ "latency_ms": 19050,
+ "fields": {
+  "company": "KOPITIAM SERI MELAKA",
+  "date": "2025-09-10",
+  "total": 188.62
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  188.62
+ ],
+ "key": "SYN011"
+}

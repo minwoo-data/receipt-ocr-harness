@@ -1,0 +1,321 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "KEDAI PAPAN YEW CHUAN",
+  "(0005583085-K)",
+  "LOT276JALANBANTING",
+  "43800DENGKIL,SELANGOR",
+  "TEL:03-87686092 FAX:03-87686092",
+  "GSTID:000781500416",
+  "TAXINVOICE",
+  "Bill To",
+  "SUCIALAM JAYA TRANSPORT",
+  "NO1JALANAMAN2",
+  "TAMANDESA43800",
+  "DENGKILSELANGOR",
+  "017-6057770",
+  "DocNo. CS00012658 Date:11/05/2018",
+  "Cashier :USER Time:16:52:00",
+  "Salesperson Ref.:",
+  "(GST) (GST)",
+  "Item Qty S/Price S/Price Amount Tax",
+  "101870 1 65.00 68.90 68.90 SR",
+  "PASIRHALUS(D)",
+  "Total Qty: 1 68.90",
+  "Total Sales(Excluding GST)： 65.00",
+  "Discount: 0.00",
+  "Total GST: 3.90",
+  "Rounding: 0.00",
+  "Total Sales(Inclusive of GsT): 68.90",
+  "CASH: 68.90",
+  "Change: 0.00",
+  "GST SUMMARY",
+  "Tax Code % Amt(RM) Tax(RM)",
+  "SR 6 65.00 3.90",
+  "Total: 65.00 3.90",
+  "GOODSSOLDARENOTRETURNABLE,THANKYOU"
+ ],
+ "tokens": [
+  {
+   "text": "KEDAI PAPAN YEW CHUAN",
+   "conf": 0.9408969595318749
+  },
+  {
+   "text": "(0005583085-K)",
+   "conf": 0.9873768516949245
+  },
+  {
+   "text": "LOT276JALANBANTING",
+   "conf": 0.9928866856627994
+  },
+  {
+   "text": "43800DENGKIL,SELANGOR",
+   "conf": 0.9750458285922096
+  },
+  {
+   "text": "TEL:03-87686092",
+   "conf": 0.9903060515721639
+  },
+  {
+   "text": "FAX:03-87686092",
+   "conf": 0.9899490435918172
+  },
+  {
+   "text": "GSTID:000781500416",
+   "conf": 0.9870417184299893
+  },
+  {
+   "text": "TAXINVOICE",
+   "conf": 0.9925993978977203
+  },
+  {
+   "text": "Bill To",
+   "conf": 0.9378172074045453
+  },
+  {
+   "text": "SUCIALAM JAYA TRANSPORT",
+   "conf": 0.9598158079644908
+  },
+  {
+   "text": "NO1JALANAMAN2",
+   "conf": 0.989493516775278
+  },
+  {
+   "text": "TAMANDESA43800",
+   "conf": 0.9926694503852299
+  },
+  {
+   "text": "DENGKILSELANGOR",
+   "conf": 0.9947579503059387
+  },
+  {
+   "text": "017-6057770",
+   "conf": 0.9968900138681586
+  },
+  {
+   "text": "DocNo.",
+   "conf": 0.9543997744719187
+  },
+  {
+   "text": "CS00012658",
+   "conf": 0.9934887647628784
+  },
+  {
+   "text": "Date:11/05/2018",
+   "conf": 0.9913029313087464
+  },
+  {
+   "text": "Cashier",
+   "conf": 0.9916107143674578
+  },
+  {
+   "text": ":USER",
+   "conf": 0.899406898021698
+  },
+  {
+   "text": "Time:16:52:00",
+   "conf": 0.9559535338328435
+  },
+  {
+   "text": "Salesperson",
+   "conf": 0.9971037940545515
+  },
+  {
+   "text": "Ref.:",
+   "conf": 0.8554467678070068
+  },
+  {
+   "text": "(GST)",
+   "conf": 0.9827054738998413
+  },
+  {
+   "text": "(GST)",
+   "conf": 0.991820752620697
+  },
+  {
+   "text": "Item",
+   "conf": 0.9147011041641235
+  },
+  {
+   "text": "Qty",
+   "conf": 0.9681525627772013
+  },
+  {
+   "text": "S/Price",
+   "conf": 0.9732528924942017
+  },
+  {
+   "text": "S/Price",
+   "conf": 0.9799867868423462
+  },
+  {
+   "text": "Amount",
+   "conf": 0.9865186015764872
+  },
+  {
+   "text": "Tax",
+   "conf": 0.965215007464091
+  },
+  {
+   "text": "101870",
+   "conf": 0.998058428366979
+  },
+  {
+   "text": "1",
+   "conf": 0.9858067035675049
+  },
+  {
+   "text": "65.00",
+   "conf": 0.9986716032028198
+  },
+  {
+   "text": "68.90",
+   "conf": 0.9971272826194764
+  },
+  {
+   "text": "68.90",
+   "conf": 0.9972706437110901
+  },
+  {
+   "text": "SR",
+   "conf": 0.9885741174221039
+  },
+  {
+   "text": "PASIRHALUS(D)",
+   "conf": 0.9575693974128137
+  },
+  {
+   "text": "Total Qty:",
+   "conf": 0.9327316641807556
+  },
+  {
+   "text": "1",
+   "conf": 0.9786645770072937
+  },
+  {
+   "text": "68.90",
+   "conf": 0.9988270282745362
+  },
+  {
+   "text": "Total Sales(Excluding GST)：",
+   "conf": 0.9288187645099781
+  },
+  {
+   "text": "65.00",
+   "conf": 0.9984183073043823
+  },
+  {
+   "text": "Discount:",
+   "conf": 0.9685249593522813
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9981662333011627
+  },
+  {
+   "text": "Total GST:",
+   "conf": 0.9081179738044739
+  },
+  {
+   "text": "3.90",
+   "conf": 0.956835076212883
+  },
+  {
+   "text": "Rounding:",
+   "conf": 0.9731071326467726
+  },
+  {
+   "text": "0.00",
+   "conf": 0.998364269733429
+  },
+  {
+   "text": "Total Sales(Inclusive of GsT):",
+   "conf": 0.8986741205056509
+  },
+  {
+   "text": "68.90",
+   "conf": 0.9986897945404053
+  },
+  {
+   "text": "CASH:",
+   "conf": 0.9421363592147827
+  },
+  {
+   "text": "68.90",
+   "conf": 0.9977153062820434
+  },
+  {
+   "text": "Change:",
+   "conf": 0.9752464975629535
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9978865683078766
+  },
+  {
+   "text": "GST SUMMARY",
+   "conf": 0.9508117599920793
+  },
+  {
+   "text": "Tax Code",
+   "conf": 0.9482592046260834
+  },
+  {
+   "text": "%",
+   "conf": 0.961660623550415
+  },
+  {
+   "text": "Amt(RM)",
+   "conf": 0.9526609352656773
+  },
+  {
+   "text": "Tax(RM)",
+   "conf": 0.9490770953042167
+  },
+  {
+   "text": "SR",
+   "conf": 0.9887613654136658
+  },
+  {
+   "text": "6",
+   "conf": 0.995040237903595
+  },
+  {
+   "text": "65.00",
+   "conf": 0.9988244891166687
+  },
+  {
+   "text": "3.90",
+   "conf": 0.9979851543903351
+  },
+  {
+   "text": "Total:",
+   "conf": 0.9790314137935638
+  },
+  {
+   "text": "65.00",
+   "conf": 0.9978734374046325
+  },
+  {
+   "text": "3.90",
+   "conf": 0.9986603707075119
+  },
+  {
+   "text": "GOODSSOLDARENOTRETURNABLE,THANKYOU",
+   "conf": 0.9638304762980517
+  }
+ ],
+ "mean_conf": 0.9729,
+ "low_conf_share": 0.0,
+ "latency_ms": 5033,
+ "fields": {
+  "company": "KEDAI PAPAN YEW CHUAN",
+  "date": "2018-05-11",
+  "total": 68.9
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  68.9
+ ],
+ "key": "X51008142068"
+}

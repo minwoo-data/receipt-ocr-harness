@@ -1,0 +1,131 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "~~ ie",
+  "VAPIANS® ce",
+  "some 16,20",
+  "vel. 10x18 1.38 eR",
+  "Feb Ht a eit",
+  "ode de patent Sah 2.00 0",
+  "2 ‘W-Nr: FR 91631223113.",
+  "ee"
+ ],
+ "tokens": [
+  {
+   "text": "~~",
+   "conf": 0.37
+  },
+  {
+   "text": "ie",
+   "conf": 0.36
+  },
+  {
+   "text": "VAPIANS®",
+   "conf": 0.17
+  },
+  {
+   "text": "ce",
+   "conf": 0.0
+  },
+  {
+   "text": "some",
+   "conf": 0.7
+  },
+  {
+   "text": "16,20",
+   "conf": 0.15
+  },
+  {
+   "text": "vel.",
+   "conf": 0.27
+  },
+  {
+   "text": "10x18",
+   "conf": 0.38
+  },
+  {
+   "text": "1.38",
+   "conf": 0.46
+  },
+  {
+   "text": "eR",
+   "conf": 0.33
+  },
+  {
+   "text": "Feb",
+   "conf": 0.16
+  },
+  {
+   "text": "Ht",
+   "conf": 0.26
+  },
+  {
+   "text": "a",
+   "conf": 0.34
+  },
+  {
+   "text": "eit",
+   "conf": 0.31
+  },
+  {
+   "text": "ode",
+   "conf": 0.36
+  },
+  {
+   "text": "de",
+   "conf": 0.73
+  },
+  {
+   "text": "patent",
+   "conf": 0.21
+  },
+  {
+   "text": "Sah",
+   "conf": 0.37
+  },
+  {
+   "text": "2.00",
+   "conf": 0.53
+  },
+  {
+   "text": "0",
+   "conf": 0.53
+  },
+  {
+   "text": "2",
+   "conf": 0.34
+  },
+  {
+   "text": "‘W-Nr:",
+   "conf": 0.04
+  },
+  {
+   "text": "FR",
+   "conf": 0.9
+  },
+  {
+   "text": "91631223113.",
+   "conf": 0.49
+  },
+  {
+   "text": "ee",
+   "conf": 0.39
+  }
+ ],
+ "mean_conf": 0.366,
+ "low_conf_share": 0.8,
+ "latency_ms": 715,
+ "fields": {
+  "company": "VAPIANS CE",
+  "date": null,
+  "total": 2.0
+ },
+ "rule_reasons": [
+  "date_not_found",
+  "total_no_keyword_fallback_max"
+ ],
+ "total_candidates": [
+  2.0
+ ],
+ "key": "W0020_2eacd00485cf"
+}

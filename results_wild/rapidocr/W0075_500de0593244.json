@@ -1,0 +1,173 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "ARTIE'SDELICATESSEN",
+  "2290 BR0ADWAY",
+  "New York,NY 10024",
+  "(212)579-5959",
+  "Server:Giovanna Station:4",
+  "Order #:68771 DINEIN",
+  "Table:41 Guests:2",
+  "Supreme Burger 16.95",
+  "Medium",
+  "Pastrami Burger 15.25",
+  "Medium",
+  "fountain soda 2.25",
+  "Club soda",
+  "2Coffee SMALL 4.50",
+  "1SAMADAMS 5.50",
+  "SUBTOTAL: 44.45",
+  "SALES TAX(8.875%): 3.95",
+  "TOTAL: $48.40",
+  "Ticket #:95< 8+0",
+  "3/15/20177:43:29PM",
+  "THANK YOU!"
+ ],
+ "tokens": [
+  {
+   "text": "ARTIE'SDELICATESSEN",
+   "conf": 0.9822603526868319
+  },
+  {
+   "text": "2290 BR0ADWAY",
+   "conf": 0.9491923588972825
+  },
+  {
+   "text": "New York,NY 10024",
+   "conf": 0.951166405397303
+  },
+  {
+   "text": "(212)579-5959",
+   "conf": 0.9410606576846197
+  },
+  {
+   "text": "Server:Giovanna",
+   "conf": 0.9831071496009827
+  },
+  {
+   "text": "Station:4",
+   "conf": 0.9802311327722337
+  },
+  {
+   "text": "Order #:68771",
+   "conf": 0.9240399599075317
+  },
+  {
+   "text": "DINEIN",
+   "conf": 0.9937183260917664
+  },
+  {
+   "text": "Table:41",
+   "conf": 0.9264107719063759
+  },
+  {
+   "text": "Guests:2",
+   "conf": 0.9748565629124641
+  },
+  {
+   "text": "Supreme Burger",
+   "conf": 0.9855276771954128
+  },
+  {
+   "text": "16.95",
+   "conf": 0.9965230584144592
+  },
+  {
+   "text": "Medium",
+   "conf": 0.9902932544549307
+  },
+  {
+   "text": "Pastrami Burger",
+   "conf": 0.9841788490613301
+  },
+  {
+   "text": "15.25",
+   "conf": 0.9965530872344971
+  },
+  {
+   "text": "Medium",
+   "conf": 0.991762657960256
+  },
+  {
+   "text": "fountain soda",
+   "conf": 0.9672814607620239
+  },
+  {
+   "text": "2.25",
+   "conf": 0.9953625798225403
+  },
+  {
+   "text": "Club soda",
+   "conf": 0.9711131983333163
+  },
+  {
+   "text": "2Coffee SMALL",
+   "conf": 0.9646406999001136
+  },
+  {
+   "text": "4.50",
+   "conf": 0.9966275095939636
+  },
+  {
+   "text": "1SAMADAMS",
+   "conf": 0.9853247536553277
+  },
+  {
+   "text": "5.50",
+   "conf": 0.9963655471801758
+  },
+  {
+   "text": "SUBTOTAL:",
+   "conf": 0.9736409187316895
+  },
+  {
+   "text": "44.45",
+   "conf": 0.9947431564331055
+  },
+  {
+   "text": "SALES TAX(8.875%):",
+   "conf": 0.9240424467457665
+  },
+  {
+   "text": "3.95",
+   "conf": 0.9917159080505371
+  },
+  {
+   "text": "TOTAL:",
+   "conf": 0.9953101575374603
+  },
+  {
+   "text": "$48.40",
+   "conf": 0.9478494226932526
+  },
+  {
+   "text": "Ticket #:95<",
+   "conf": 0.8816387752691904
+  },
+  {
+   "text": "8+0",
+   "conf": 0.7362967133522034
+  },
+  {
+   "text": "3/15/20177:43:29PM",
+   "conf": 0.984949893421597
+  },
+  {
+   "text": "THANK YOU!",
+   "conf": 0.9483498752117157
+  }
+ ],
+ "mean_conf": 0.9638,
+ "low_conf_share": 0.0,
+ "latency_ms": 2619,
+ "fields": {
+  "company": "ARTIE SDELICATESSEN",
+  "date": "2017-03-15",
+  "total": 48.4
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  48.4
+ ],
+ "key": "W0075_500de0593244"
+}

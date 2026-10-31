@@ -1,0 +1,188 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "Store HA",
+  "Fanta Crorgss",
+  "Ron, Ye",
+  "10/28/2014 ingsr-7977_—",
+  "order ENTREZ seca are:",
+  "f o-ENTREE PLATE aa",
+  "CHOW METN-A/2",
+  "CHOW HEIH-1/2",
+  "KUNG PAO KN",
+  "CHEESE RANGOONS",
+  "ORANGE CKN",
+  "SubTotal 8.8",
+  "‘| TAK 0.6L",
+  "‘otal 98",
+  "Cast AK",
+  "Change Vw"
+ ],
+ "tokens": [
+  {
+   "text": "Store",
+   "conf": 0.94
+  },
+  {
+   "text": "HA",
+   "conf": 0.46
+  },
+  {
+   "text": "Fanta",
+   "conf": 0.66
+  },
+  {
+   "text": "Crorgss",
+   "conf": 0.0
+  },
+  {
+   "text": "Ron,",
+   "conf": 0.39
+  },
+  {
+   "text": "Ye",
+   "conf": 0.25
+  },
+  {
+   "text": "10/28/2014",
+   "conf": 0.73
+  },
+  {
+   "text": "ingsr-7977_—",
+   "conf": 0.0
+  },
+  {
+   "text": "order",
+   "conf": 0.5
+  },
+  {
+   "text": "ENTREZ",
+   "conf": 0.04
+  },
+  {
+   "text": "seca",
+   "conf": 0.41
+  },
+  {
+   "text": "are:",
+   "conf": 0.13
+  },
+  {
+   "text": "f",
+   "conf": 0.0
+  },
+  {
+   "text": "o-ENTREE",
+   "conf": 0.09
+  },
+  {
+   "text": "PLATE",
+   "conf": 0.92
+  },
+  {
+   "text": "aa",
+   "conf": 0.09
+  },
+  {
+   "text": "CHOW",
+   "conf": 0.82
+  },
+  {
+   "text": "METN-A/2",
+   "conf": 0.06
+  },
+  {
+   "text": "CHOW",
+   "conf": 0.58
+  },
+  {
+   "text": "HEIH-1/2",
+   "conf": 0.0
+  },
+  {
+   "text": "KUNG",
+   "conf": 0.89
+  },
+  {
+   "text": "PAO",
+   "conf": 0.83
+  },
+  {
+   "text": "KN",
+   "conf": 0.19
+  },
+  {
+   "text": "CHEESE",
+   "conf": 0.73
+  },
+  {
+   "text": "RANGOONS",
+   "conf": 0.4
+  },
+  {
+   "text": "ORANGE",
+   "conf": 0.81
+  },
+  {
+   "text": "CKN",
+   "conf": 0.76
+  },
+  {
+   "text": "SubTotal",
+   "conf": 0.4
+  },
+  {
+   "text": "8.8",
+   "conf": 0.37
+  },
+  {
+   "text": "‘|",
+   "conf": 0.26
+  },
+  {
+   "text": "TAK",
+   "conf": 0.89
+  },
+  {
+   "text": "0.6L",
+   "conf": 0.62
+  },
+  {
+   "text": "‘otal",
+   "conf": 0.5
+  },
+  {
+   "text": "98",
+   "conf": 0.73
+  },
+  {
+   "text": "Cast",
+   "conf": 0.64
+  },
+  {
+   "text": "AK",
+   "conf": 0.34
+  },
+  {
+   "text": "Change",
+   "conf": 0.78
+  },
+  {
+   "text": "Vw",
+   "conf": 0.36
+  }
+ ],
+ "mean_conf": 0.4624,
+ "low_conf_share": 0.5263,
+ "latency_ms": 405,
+ "fields": {
+  "company": "STORE HA",
+  "date": "2014-10-28",
+  "total": null
+ },
+ "rule_reasons": [
+  "total_not_found"
+ ],
+ "total_candidates": [],
+ "key": "W0023_567f2ef637c3"
+}

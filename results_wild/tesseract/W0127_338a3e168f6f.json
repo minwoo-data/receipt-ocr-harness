@@ -1,0 +1,373 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "i Shangri-La’ § 3 |",
+  "Barr 41 Jissah Resort & Spa _",
+  "| pO 8°%644 Muscat,Post Codeiis,",
+  "i Sultanate of Oman 3 >",
+  "teit 2477 6666 Fax: 2477 6677 I",
+  "Samba",
+  "<<Guest Receipt>> ee",
+  "fable: 51 Check: 041078",
+  "Dat©® = 22 Oct,09 Time : 20:33",
+  "cesnier: Nabeel Cover: 2",
+  "bee We ee an 1.800",
+  "pA inner Suffet Adul 27.006",
+  "ie ee .",
+  "a Ee 1.4360",
+  "T.eLevy S =",
+  "se es 1.140",
+  ". Total 33.460",
+  "[Seep S=sestsaSen>",
+  "a a aa a",
+  "aay ete er"
+ ],
+ "tokens": [
+  {
+   "text": "i",
+   "conf": 0.36
+  },
+  {
+   "text": "Shangri-La’",
+   "conf": 0.12
+  },
+  {
+   "text": "§",
+   "conf": 0.59
+  },
+  {
+   "text": "3",
+   "conf": 0.76
+  },
+  {
+   "text": "|",
+   "conf": 0.36
+  },
+  {
+   "text": "Barr",
+   "conf": 0.72
+  },
+  {
+   "text": "41",
+   "conf": 0.7
+  },
+  {
+   "text": "Jissah",
+   "conf": 0.43
+  },
+  {
+   "text": "Resort",
+   "conf": 0.88
+  },
+  {
+   "text": "&",
+   "conf": 0.88
+  },
+  {
+   "text": "Spa",
+   "conf": 0.67
+  },
+  {
+   "text": "_",
+   "conf": 0.76
+  },
+  {
+   "text": "|",
+   "conf": 0.64
+  },
+  {
+   "text": "pO",
+   "conf": 0.84
+  },
+  {
+   "text": "8°%644",
+   "conf": 0.1
+  },
+  {
+   "text": "Muscat,Post",
+   "conf": 0.6
+  },
+  {
+   "text": "Codeiis,",
+   "conf": 0.41
+  },
+  {
+   "text": "i",
+   "conf": 0.15
+  },
+  {
+   "text": "Sultanate",
+   "conf": 0.96
+  },
+  {
+   "text": "of",
+   "conf": 0.95
+  },
+  {
+   "text": "Oman",
+   "conf": 0.96
+  },
+  {
+   "text": "3",
+   "conf": 0.7
+  },
+  {
+   "text": ">",
+   "conf": 0.62
+  },
+  {
+   "text": "teit",
+   "conf": 0.0
+  },
+  {
+   "text": "2477",
+   "conf": 0.68
+  },
+  {
+   "text": "6666",
+   "conf": 0.55
+  },
+  {
+   "text": "Fax:",
+   "conf": 0.65
+  },
+  {
+   "text": "2477",
+   "conf": 0.86
+  },
+  {
+   "text": "6677",
+   "conf": 0.85
+  },
+  {
+   "text": "I",
+   "conf": 0.0
+  },
+  {
+   "text": "Samba",
+   "conf": 0.78
+  },
+  {
+   "text": "<<Guest",
+   "conf": 0.75
+  },
+  {
+   "text": "Receipt>>",
+   "conf": 0.87
+  },
+  {
+   "text": "ee",
+   "conf": 0.2
+  },
+  {
+   "text": "fable:",
+   "conf": 0.75
+  },
+  {
+   "text": "51",
+   "conf": 0.32
+  },
+  {
+   "text": "Check:",
+   "conf": 0.19
+  },
+  {
+   "text": "041078",
+   "conf": 0.19
+  },
+  {
+   "text": "Dat©®",
+   "conf": 0.42
+  },
+  {
+   "text": "=",
+   "conf": 0.35
+  },
+  {
+   "text": "22",
+   "conf": 0.92
+  },
+  {
+   "text": "Oct,09",
+   "conf": 0.71
+  },
+  {
+   "text": "Time",
+   "conf": 0.92
+  },
+  {
+   "text": ":",
+   "conf": 0.88
+  },
+  {
+   "text": "20:33",
+   "conf": 0.94
+  },
+  {
+   "text": "cesnier:",
+   "conf": 0.58
+  },
+  {
+   "text": "Nabeel",
+   "conf": 0.89
+  },
+  {
+   "text": "Cover:",
+   "conf": 0.95
+  },
+  {
+   "text": "2",
+   "conf": 0.95
+  },
+  {
+   "text": "bee",
+   "conf": 0.34
+  },
+  {
+   "text": "We",
+   "conf": 0.37
+  },
+  {
+   "text": "ee",
+   "conf": 0.09
+  },
+  {
+   "text": "an",
+   "conf": 0.42
+  },
+  {
+   "text": "1.800",
+   "conf": 0.73
+  },
+  {
+   "text": "pA",
+   "conf": 0.43
+  },
+  {
+   "text": "inner",
+   "conf": 0.51
+  },
+  {
+   "text": "Suffet",
+   "conf": 0.85
+  },
+  {
+   "text": "Adul",
+   "conf": 0.9
+  },
+  {
+   "text": "27.006",
+   "conf": 0.44
+  },
+  {
+   "text": "ie",
+   "conf": 0.02
+  },
+  {
+   "text": "ee",
+   "conf": 0.2
+  },
+  {
+   "text": ".",
+   "conf": 0.15
+  },
+  {
+   "text": "a",
+   "conf": 0.21
+  },
+  {
+   "text": "Ee",
+   "conf": 0.19
+  },
+  {
+   "text": "1.4360",
+   "conf": 0.74
+  },
+  {
+   "text": "T.eLevy",
+   "conf": 0.38
+  },
+  {
+   "text": "S",
+   "conf": 0.0
+  },
+  {
+   "text": "=",
+   "conf": 0.33
+  },
+  {
+   "text": "se",
+   "conf": 0.26
+  },
+  {
+   "text": "es",
+   "conf": 0.22
+  },
+  {
+   "text": "1.140",
+   "conf": 0.77
+  },
+  {
+   "text": ".",
+   "conf": 0.0
+  },
+  {
+   "text": "Total",
+   "conf": 0.96
+  },
+  {
+   "text": "33.460",
+   "conf": 0.64
+  },
+  {
+   "text": "[Seep",
+   "conf": 0.02
+  },
+  {
+   "text": "S=sestsaSen>",
+   "conf": 0.0
+  },
+  {
+   "text": "a",
+   "conf": 0.25
+  },
+  {
+   "text": "a",
+   "conf": 0.28
+  },
+  {
+   "text": "aa",
+   "conf": 0.24
+  },
+  {
+   "text": "a",
+   "conf": 0.35
+  },
+  {
+   "text": "aay",
+   "conf": 0.23
+  },
+  {
+   "text": "ete",
+   "conf": 0.37
+  },
+  {
+   "text": "er",
+   "conf": 0.26
+  }
+ ],
+ "mean_conf": 0.5116,
+ "low_conf_share": 0.494,
+ "latency_ms": 1860,
+ "fields": {
+  "company": "I SHANGRI LA 3",
+  "date": null,
+  "total": null
+ },
+ "rule_reasons": [
+  "date_not_found",
+  "total_not_found"
+ ],
+ "total_candidates": [],
+ "key": "W0127_338a3e168f6f"
+}

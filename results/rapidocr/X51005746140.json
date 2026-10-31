@@ -1,0 +1,221 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "YONG CEN ENTERPRISE",
+  "9,JALAN SUBANGJASA3,",
+  "40150 SHAHALAM,SELANGOR.",
+  "TEL:012-9719498",
+  "GSTNO:001147981824",
+  "CASH",
+  "RECEIPT #:CS00677115DATE:02/03/2018",
+  "SALESPERSON:. TIME:09:43:00",
+  "COUNTER :",
+  "ITEM QTY U/P AMOUNT",
+  "9555223500307 24 2.33 55.99",
+  "SR:FEI YAN BRAND YOUNG CORN 425G (2.333X",
+  "9557166110018 2 2.00 4.00",
+  "ZRL:ASAMBOI65G",
+  "TOTALQUANTITY 26",
+  "SUB-TOTAL 59.99",
+  "DISC 0.00",
+  "GST 3.36",
+  "TAX 0.00",
+  "ROUNDING 0.00",
+  "TOTAL 63.35",
+  "CASH 63.35",
+  "CHANGE 0.00",
+  "GOODS SOLD ARE NOT RETURNABLE",
+  "THANK.YOU."
+ ],
+ "tokens": [
+  {
+   "text": "YONG CEN ENTERPRISE",
+   "conf": 0.9512566767240825
+  },
+  {
+   "text": "9,JALAN SUBANGJASA3,",
+   "conf": 0.9444189578294754
+  },
+  {
+   "text": "40150 SHAHALAM,SELANGOR.",
+   "conf": 0.943759985268116
+  },
+  {
+   "text": "TEL:012-9719498",
+   "conf": 0.9703462640444438
+  },
+  {
+   "text": "GSTNO:001147981824",
+   "conf": 0.9973548551400503
+  },
+  {
+   "text": "CASH",
+   "conf": 0.9918030649423599
+  },
+  {
+   "text": "RECEIPT #:CS00677115DATE:02/03/2018",
+   "conf": 0.9798587918281555
+  },
+  {
+   "text": "SALESPERSON:.",
+   "conf": 0.9738271603217492
+  },
+  {
+   "text": "TIME:09:43:00",
+   "conf": 0.9824446348043588
+  },
+  {
+   "text": "COUNTER :",
+   "conf": 0.9732745024893019
+  },
+  {
+   "text": "ITEM",
+   "conf": 0.9910726398229599
+  },
+  {
+   "text": "QTY",
+   "conf": 0.9981585542360941
+  },
+  {
+   "text": "U/P",
+   "conf": 0.9980306625366211
+  },
+  {
+   "text": "AMOUNT",
+   "conf": 0.9881202677885691
+  },
+  {
+   "text": "9555223500307",
+   "conf": 0.9988513267957247
+  },
+  {
+   "text": "24",
+   "conf": 0.9839893579483032
+  },
+  {
+   "text": "2.33",
+   "conf": 0.9987125098705292
+  },
+  {
+   "text": "55.99",
+   "conf": 0.9994978308677673
+  },
+  {
+   "text": "SR:FEI YAN BRAND YOUNG CORN 425G (2.333X",
+   "conf": 0.9503397032618522
+  },
+  {
+   "text": "9557166110018",
+   "conf": 0.9991591893709623
+  },
+  {
+   "text": "2",
+   "conf": 0.9995796084403992
+  },
+  {
+   "text": "2.00",
+   "conf": 0.9997105747461319
+  },
+  {
+   "text": "4.00",
+   "conf": 0.9996714740991592
+  },
+  {
+   "text": "ZRL:ASAMBOI65G",
+   "conf": 0.978924423456192
+  },
+  {
+   "text": "TOTALQUANTITY",
+   "conf": 0.9909324187498826
+  },
+  {
+   "text": "26",
+   "conf": 0.9988812804222107
+  },
+  {
+   "text": "SUB-TOTAL",
+   "conf": 0.9933686521318223
+  },
+  {
+   "text": "59.99",
+   "conf": 0.9995171785354614
+  },
+  {
+   "text": "DISC",
+   "conf": 0.9831316322088242
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9992116689682007
+  },
+  {
+   "text": "GST",
+   "conf": 0.9969446857770284
+  },
+  {
+   "text": "3.36",
+   "conf": 0.9930432587862015
+  },
+  {
+   "text": "TAX",
+   "conf": 0.9892512957255045
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9988148510456085
+  },
+  {
+   "text": "ROUNDING",
+   "conf": 0.992782324552536
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9980599582195282
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.9965184330940247
+  },
+  {
+   "text": "63.35",
+   "conf": 0.9987576723098754
+  },
+  {
+   "text": "CASH",
+   "conf": 0.9938977658748627
+  },
+  {
+   "text": "63.35",
+   "conf": 0.9992845892906189
+  },
+  {
+   "text": "CHANGE",
+   "conf": 0.9856251279513041
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9992661476135254
+  },
+  {
+   "text": "GOODS SOLD ARE NOT RETURNABLE",
+   "conf": 0.9276248566035566
+  },
+  {
+   "text": "THANK.YOU.",
+   "conf": 0.9352399408817291
+  }
+ ],
+ "mean_conf": 0.9855,
+ "low_conf_share": 0.0,
+ "latency_ms": 5095,
+ "fields": {
+  "company": "YONG CEN ENTERPRISE",
+  "date": "2018-03-02",
+  "total": 63.35
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  63.35
+ ],
+ "key": "X51005746140"
+}

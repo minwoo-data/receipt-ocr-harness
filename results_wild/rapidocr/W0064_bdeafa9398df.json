@@ -1,0 +1,217 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "RESTAURANT CROSTO",
+  "CAP DEL CARRER7",
+  "ANDORA LA UELLR",
+  "TELF-82931",
+  "NRT:F-016930-R",
+  "H.TICKET:IHCONP FECHA:20/09/2017",
+  "PREU IHPORT",
+  "3ESIEILA 1.60 5.40",
+  "S'LESHOSCRIRN 17.80",
+  "2REHEAI RNB SOL 8.80 17.60",
+  "IFEIGESD'ANECA 22.20 22.20",
+  "1ONGLET 10.60 10.80",
+  "1ASRET ANEE 18.20 18.20",
+  "1CURBOUOLVI 16.20 18.20",
+  "3POSIRES 6.00 18.00",
+  "3XUP10S 2.00 6.00",
+  "BASE 134.20",
+  "1814.5% 6.04",
+  "TOTAL EUROS 140.24",
+  "Pendiante de Cobro",
+  "GRACIES PER LA SEUA UISIIA"
+ ],
+ "tokens": [
+  {
+   "text": "RESTAURANT",
+   "conf": 0.9473251402378082
+  },
+  {
+   "text": "CROSTO",
+   "conf": 0.9828374286492666
+  },
+  {
+   "text": "CAP DEL CARRER7",
+   "conf": 0.7992428660392761
+  },
+  {
+   "text": "ANDORA LA UELLR",
+   "conf": 0.7960047503312428
+  },
+  {
+   "text": "TELF-82931",
+   "conf": 0.8393734633922577
+  },
+  {
+   "text": "NRT:F-016930-R",
+   "conf": 0.911282228572028
+  },
+  {
+   "text": "H.TICKET:IHCONP",
+   "conf": 0.8304020325342815
+  },
+  {
+   "text": "FECHA:20/09/2017",
+   "conf": 0.8778998926281929
+  },
+  {
+   "text": "PREU",
+   "conf": 0.8833235055208206
+  },
+  {
+   "text": "IHPORT",
+   "conf": 0.8352503180503845
+  },
+  {
+   "text": "3ESIEILA",
+   "conf": 0.73443403840065
+  },
+  {
+   "text": "1.60",
+   "conf": 0.7956920713186264
+  },
+  {
+   "text": "5.40",
+   "conf": 0.9174624234437943
+  },
+  {
+   "text": "S'LESHOSCRIRN",
+   "conf": 0.7927919809634869
+  },
+  {
+   "text": "17.80",
+   "conf": 0.9532499074935913
+  },
+  {
+   "text": "2REHEAI RNB SOL",
+   "conf": 0.7289586106936137
+  },
+  {
+   "text": "8.80",
+   "conf": 0.8638256341218948
+  },
+  {
+   "text": "17.60",
+   "conf": 0.8487467050552369
+  },
+  {
+   "text": "IFEIGESD'ANECA",
+   "conf": 0.7546101233788899
+  },
+  {
+   "text": "22.20",
+   "conf": 0.9507360577583313
+  },
+  {
+   "text": "22.20",
+   "conf": 0.9596367716789246
+  },
+  {
+   "text": "1ONGLET",
+   "conf": 0.8448189837591988
+  },
+  {
+   "text": "10.60",
+   "conf": 0.8578893542289734
+  },
+  {
+   "text": "10.80",
+   "conf": 0.9066479206085205
+  },
+  {
+   "text": "1ASRET ANEE",
+   "conf": 0.6771300868554548
+  },
+  {
+   "text": "18.20",
+   "conf": 0.9762827038764954
+  },
+  {
+   "text": "18.20",
+   "conf": 0.9769741892814636
+  },
+  {
+   "text": "1CURBOUOLVI",
+   "conf": 0.6817986775528301
+  },
+  {
+   "text": "16.20",
+   "conf": 0.8722085118293762
+  },
+  {
+   "text": "18.20",
+   "conf": 0.8835091829299927
+  },
+  {
+   "text": "3POSIRES",
+   "conf": 0.8912020325660706
+  },
+  {
+   "text": "6.00",
+   "conf": 0.8258251696825027
+  },
+  {
+   "text": "18.00",
+   "conf": 0.9105155348777771
+  },
+  {
+   "text": "3XUP10S",
+   "conf": 0.8489702684538705
+  },
+  {
+   "text": "2.00",
+   "conf": 0.9530134052038193
+  },
+  {
+   "text": "6.00",
+   "conf": 0.8693841174244881
+  },
+  {
+   "text": "BASE",
+   "conf": 0.8976135700941086
+  },
+  {
+   "text": "134.20",
+   "conf": 0.9775165418783823
+  },
+  {
+   "text": "1814.5%",
+   "conf": 0.690168810742242
+  },
+  {
+   "text": "6.04",
+   "conf": 0.8716436177492142
+  },
+  {
+   "text": "TOTAL EUROS",
+   "conf": 0.9097495729273016
+  },
+  {
+   "text": "140.24",
+   "conf": 0.9757746557394663
+  },
+  {
+   "text": "Pendiante de Cobro",
+   "conf": 0.9182232750786675
+  },
+  {
+   "text": "GRACIES PER LA SEUA UISIIA",
+   "conf": 0.8881749613926961
+  }
+ ],
+ "mean_conf": 0.8661,
+ "low_conf_share": 0.0,
+ "latency_ms": 3950,
+ "fields": {
+  "company": "RESTAURANT CROSTO",
+  "date": "2017-09-20",
+  "total": 140.24
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  140.24
+ ],
+ "key": "W0064_bdeafa9398df"
+}

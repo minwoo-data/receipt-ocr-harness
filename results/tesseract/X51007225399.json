@@ -1,0 +1,723 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  ">",
+  "% ¥",
+  "ENW Hardware Centre (M) Sdn. Bhd.",
+  "Co. Reg, No.: 795225-A",
+  "GST Reg. No. : 000155453440",
+  "No: G3, Bik G, Jin PUU 1A/3,",
+  "Ara Damansara, 47301",
+  "Petaling Jaya, Selangor Darul Ehsan.",
+  "TEL. 03-7832 6929 , 012-659 9829",
+  "14/04/2018 Tax Invoice",
+  "No. ‘CS00233521",
+  "Cash Sale (Ara D'sara)",
+  "Tel: 03-7832 6929",
+  "> HIP: 012-659 9829",
+  "item Qty UPrice RM",
+  "VEWTS 1.00 99.00 99.00 SR",
+  "5L. T_'Nippon' Vinilex EasyWash",
+  "NP N 1882T",
+  "000605 100 30.00 30.00 SR",
+  "Cristin 4\" Blue Stripe Roller Refill",
+  "| 002882 1.00 3.50 3.60 SR",
+  "1\" Nylon Paint Brush.",
+  "001065 1.00 2.60 2.50SR",
+  "4\" x 24\" Roller Handle.",
+  "001741 100 21.00 21.00 SR",
+  ", ‘Clipsal’ 4g 1w Switch",
+  "Total Amt Incl. GST @6 %: 166.00",
+  "Rounding Adjusment 0.00",
+  "Total Amt Payable : 156.00",
+  "Total Qty Tender 5",
+  "GST Summary Amount(RM) GS7(RM) | |",
+  "SR =6% 147.17 8.83",
+  "POIN 0.00",
+  "*Goods sold are not returnable |",
+  "Thank you for shopping at",
+  "| ENW Hardware Centre (M) Sdn Bhd",
+  "= oo &",
+  ".",
+  "a CS"
+ ],
+ "tokens": [
+  {
+   "text": ">",
+   "conf": 0.75
+  },
+  {
+   "text": "%",
+   "conf": 0.0
+  },
+  {
+   "text": "¥",
+   "conf": 0.1
+  },
+  {
+   "text": "ENW",
+   "conf": 0.92
+  },
+  {
+   "text": "Hardware",
+   "conf": 0.96
+  },
+  {
+   "text": "Centre",
+   "conf": 0.92
+  },
+  {
+   "text": "(M)",
+   "conf": 0.92
+  },
+  {
+   "text": "Sdn.",
+   "conf": 0.95
+  },
+  {
+   "text": "Bhd.",
+   "conf": 0.95
+  },
+  {
+   "text": "Co.",
+   "conf": 0.96
+  },
+  {
+   "text": "Reg,",
+   "conf": 0.93
+  },
+  {
+   "text": "No.:",
+   "conf": 0.81
+  },
+  {
+   "text": "795225-A",
+   "conf": 0.81
+  },
+  {
+   "text": "GST",
+   "conf": 0.96
+  },
+  {
+   "text": "Reg.",
+   "conf": 0.95
+  },
+  {
+   "text": "No.",
+   "conf": 0.86
+  },
+  {
+   "text": ":",
+   "conf": 0.86
+  },
+  {
+   "text": "000155453440",
+   "conf": 0.96
+  },
+  {
+   "text": "No:",
+   "conf": 0.92
+  },
+  {
+   "text": "G3,",
+   "conf": 0.93
+  },
+  {
+   "text": "Bik",
+   "conf": 0.75
+  },
+  {
+   "text": "G,",
+   "conf": 0.9
+  },
+  {
+   "text": "Jin",
+   "conf": 0.91
+  },
+  {
+   "text": "PUU",
+   "conf": 0.74
+  },
+  {
+   "text": "1A/3,",
+   "conf": 0.02
+  },
+  {
+   "text": "Ara",
+   "conf": 0.95
+  },
+  {
+   "text": "Damansara,",
+   "conf": 0.96
+  },
+  {
+   "text": "47301",
+   "conf": 0.96
+  },
+  {
+   "text": "Petaling",
+   "conf": 0.96
+  },
+  {
+   "text": "Jaya,",
+   "conf": 0.96
+  },
+  {
+   "text": "Selangor",
+   "conf": 0.96
+  },
+  {
+   "text": "Darul",
+   "conf": 0.96
+  },
+  {
+   "text": "Ehsan.",
+   "conf": 0.94
+  },
+  {
+   "text": "TEL.",
+   "conf": 0.93
+  },
+  {
+   "text": "03-7832",
+   "conf": 0.96
+  },
+  {
+   "text": "6929",
+   "conf": 0.93
+  },
+  {
+   "text": ",",
+   "conf": 0.92
+  },
+  {
+   "text": "012-659",
+   "conf": 0.96
+  },
+  {
+   "text": "9829",
+   "conf": 0.96
+  },
+  {
+   "text": "14/04/2018",
+   "conf": 0.69
+  },
+  {
+   "text": "Tax",
+   "conf": 0.96
+  },
+  {
+   "text": "Invoice",
+   "conf": 0.95
+  },
+  {
+   "text": "No.",
+   "conf": 0.92
+  },
+  {
+   "text": "‘CS00233521",
+   "conf": 0.43
+  },
+  {
+   "text": "Cash",
+   "conf": 0.96
+  },
+  {
+   "text": "Sale",
+   "conf": 0.96
+  },
+  {
+   "text": "(Ara",
+   "conf": 0.93
+  },
+  {
+   "text": "D'sara)",
+   "conf": 0.87
+  },
+  {
+   "text": "Tel:",
+   "conf": 0.96
+  },
+  {
+   "text": "03-7832",
+   "conf": 0.96
+  },
+  {
+   "text": "6929",
+   "conf": 0.96
+  },
+  {
+   "text": ">",
+   "conf": 0.12
+  },
+  {
+   "text": "HIP:",
+   "conf": 0.87
+  },
+  {
+   "text": "012-659",
+   "conf": 0.95
+  },
+  {
+   "text": "9829",
+   "conf": 0.96
+  },
+  {
+   "text": "item",
+   "conf": 0.61
+  },
+  {
+   "text": "Qty",
+   "conf": 0.62
+  },
+  {
+   "text": "UPrice",
+   "conf": 0.68
+  },
+  {
+   "text": "RM",
+   "conf": 0.96
+  },
+  {
+   "text": "VEWTS",
+   "conf": 0.6
+  },
+  {
+   "text": "1.00",
+   "conf": 0.89
+  },
+  {
+   "text": "99.00",
+   "conf": 0.8
+  },
+  {
+   "text": "99.00",
+   "conf": 0.96
+  },
+  {
+   "text": "SR",
+   "conf": 0.96
+  },
+  {
+   "text": "5L.",
+   "conf": 0.87
+  },
+  {
+   "text": "T_'Nippon'",
+   "conf": 0.5
+  },
+  {
+   "text": "Vinilex",
+   "conf": 0.92
+  },
+  {
+   "text": "EasyWash",
+   "conf": 0.9
+  },
+  {
+   "text": "NP",
+   "conf": 0.84
+  },
+  {
+   "text": "N",
+   "conf": 0.86
+  },
+  {
+   "text": "1882T",
+   "conf": 0.64
+  },
+  {
+   "text": "000605",
+   "conf": 0.96
+  },
+  {
+   "text": "100",
+   "conf": 0.92
+  },
+  {
+   "text": "30.00",
+   "conf": 0.92
+  },
+  {
+   "text": "30.00",
+   "conf": 0.69
+  },
+  {
+   "text": "SR",
+   "conf": 0.69
+  },
+  {
+   "text": "Cristin",
+   "conf": 0.91
+  },
+  {
+   "text": "4\"",
+   "conf": 0.94
+  },
+  {
+   "text": "Blue",
+   "conf": 0.94
+  },
+  {
+   "text": "Stripe",
+   "conf": 0.96
+  },
+  {
+   "text": "Roller",
+   "conf": 0.96
+  },
+  {
+   "text": "Refill",
+   "conf": 0.96
+  },
+  {
+   "text": "|",
+   "conf": 0.18
+  },
+  {
+   "text": "002882",
+   "conf": 0.96
+  },
+  {
+   "text": "1.00",
+   "conf": 0.94
+  },
+  {
+   "text": "3.50",
+   "conf": 0.73
+  },
+  {
+   "text": "3.60",
+   "conf": 0.84
+  },
+  {
+   "text": "SR",
+   "conf": 0.84
+  },
+  {
+   "text": "1\"",
+   "conf": 0.95
+  },
+  {
+   "text": "Nylon",
+   "conf": 0.96
+  },
+  {
+   "text": "Paint",
+   "conf": 0.96
+  },
+  {
+   "text": "Brush.",
+   "conf": 0.83
+  },
+  {
+   "text": "001065",
+   "conf": 0.96
+  },
+  {
+   "text": "1.00",
+   "conf": 0.96
+  },
+  {
+   "text": "2.60",
+   "conf": 0.8
+  },
+  {
+   "text": "2.50SR",
+   "conf": 0.64
+  },
+  {
+   "text": "4\"",
+   "conf": 0.77
+  },
+  {
+   "text": "x",
+   "conf": 0.86
+  },
+  {
+   "text": "24\"",
+   "conf": 0.95
+  },
+  {
+   "text": "Roller",
+   "conf": 0.93
+  },
+  {
+   "text": "Handle.",
+   "conf": 0.89
+  },
+  {
+   "text": "001741",
+   "conf": 0.96
+  },
+  {
+   "text": "100",
+   "conf": 0.8
+  },
+  {
+   "text": "21.00",
+   "conf": 0.88
+  },
+  {
+   "text": "21.00",
+   "conf": 0.54
+  },
+  {
+   "text": "SR",
+   "conf": 0.54
+  },
+  {
+   "text": ",",
+   "conf": 0.78
+  },
+  {
+   "text": "‘Clipsal’",
+   "conf": 0.59
+  },
+  {
+   "text": "4g",
+   "conf": 0.91
+  },
+  {
+   "text": "1w",
+   "conf": 0.92
+  },
+  {
+   "text": "Switch",
+   "conf": 0.93
+  },
+  {
+   "text": "Total",
+   "conf": 0.96
+  },
+  {
+   "text": "Amt",
+   "conf": 0.9
+  },
+  {
+   "text": "Incl.",
+   "conf": 0.9
+  },
+  {
+   "text": "GST",
+   "conf": 0.91
+  },
+  {
+   "text": "@6",
+   "conf": 0.77
+  },
+  {
+   "text": "%:",
+   "conf": 0.77
+  },
+  {
+   "text": "166.00",
+   "conf": 0.84
+  },
+  {
+   "text": "Rounding",
+   "conf": 0.93
+  },
+  {
+   "text": "Adjusment",
+   "conf": 0.91
+  },
+  {
+   "text": "0.00",
+   "conf": 0.95
+  },
+  {
+   "text": "Total",
+   "conf": 0.95
+  },
+  {
+   "text": "Amt",
+   "conf": 0.96
+  },
+  {
+   "text": "Payable",
+   "conf": 0.93
+  },
+  {
+   "text": ":",
+   "conf": 0.91
+  },
+  {
+   "text": "156.00",
+   "conf": 0.96
+  },
+  {
+   "text": "Total",
+   "conf": 0.96
+  },
+  {
+   "text": "Qty",
+   "conf": 0.95
+  },
+  {
+   "text": "Tender",
+   "conf": 0.96
+  },
+  {
+   "text": "5",
+   "conf": 0.95
+  },
+  {
+   "text": "GST",
+   "conf": 0.58
+  },
+  {
+   "text": "Summary",
+   "conf": 0.58
+  },
+  {
+   "text": "Amount(RM)",
+   "conf": 0.89
+  },
+  {
+   "text": "GS7(RM)",
+   "conf": 0.67
+  },
+  {
+   "text": "|",
+   "conf": 0.29
+  },
+  {
+   "text": "|",
+   "conf": 0.23
+  },
+  {
+   "text": "SR",
+   "conf": 0.66
+  },
+  {
+   "text": "=6%",
+   "conf": 0.66
+  },
+  {
+   "text": "147.17",
+   "conf": 0.95
+  },
+  {
+   "text": "8.83",
+   "conf": 0.94
+  },
+  {
+   "text": "POIN",
+   "conf": 0.88
+  },
+  {
+   "text": "0.00",
+   "conf": 0.92
+  },
+  {
+   "text": "*Goods",
+   "conf": 0.68
+  },
+  {
+   "text": "sold",
+   "conf": 0.94
+  },
+  {
+   "text": "are",
+   "conf": 0.96
+  },
+  {
+   "text": "not",
+   "conf": 0.95
+  },
+  {
+   "text": "returnable",
+   "conf": 0.95
+  },
+  {
+   "text": "|",
+   "conf": 0.79
+  },
+  {
+   "text": "Thank",
+   "conf": 0.96
+  },
+  {
+   "text": "you",
+   "conf": 0.96
+  },
+  {
+   "text": "for",
+   "conf": 0.96
+  },
+  {
+   "text": "shopping",
+   "conf": 0.96
+  },
+  {
+   "text": "at",
+   "conf": 0.96
+  },
+  {
+   "text": "|",
+   "conf": 0.59
+  },
+  {
+   "text": "ENW",
+   "conf": 0.91
+  },
+  {
+   "text": "Hardware",
+   "conf": 0.96
+  },
+  {
+   "text": "Centre",
+   "conf": 0.93
+  },
+  {
+   "text": "(M)",
+   "conf": 0.91
+  },
+  {
+   "text": "Sdn",
+   "conf": 0.75
+  },
+  {
+   "text": "Bhd",
+   "conf": 0.87
+  },
+  {
+   "text": "=",
+   "conf": 0.0
+  },
+  {
+   "text": "oo",
+   "conf": 0.45
+  },
+  {
+   "text": "&",
+   "conf": 0.0
+  },
+  {
+   "text": ".",
+   "conf": 0.01
+  },
+  {
+   "text": "a",
+   "conf": 0.11
+  },
+  {
+   "text": "CS",
+   "conf": 0.22
+  }
+ ],
+ "mean_conf": 0.8142,
+ "low_conf_share": 0.0843,
+ "latency_ms": 645,
+ "fields": {
+  "company": "ENW HARDWARE CENTRE SDN BHD",
+  "date": "2018-04-14",
+  "total": 156.0
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  156.0
+ ],
+ "key": "X51007225399"
+}

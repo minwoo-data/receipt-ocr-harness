@@ -1,0 +1,160 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "BIENVENUEA DISNEYLAND PARIS",
+  "Vendeur: 47492LYNDA",
+  "Caissier: 47492LYNDA",
+  "TicketNo: 25085779",
+  "Location: 40141IndianaJones",
+  "Date: 25/10/201714:29",
+  "Infos:",
+  "General",
+  "2CAFE GRAIN20CZ 5.58",
+  "2.79",
+  "TOTAL: 5.58",
+  "Dont TVA: 0.30",
+  "Especes 5.70",
+  "RENDU 0.12",
+  "Date/heure:25/10/201714:29",
+  "EURO DISNEYASSOCIESSCA-BP100",
+  "77777MarnelaValleeCedex4",
+  "SIREN397471822-RCSMEAUX",
+  "http://www.disneylandparis.com",
+  "Conditions d'echange et de remboursement:"
+ ],
+ "tokens": [
+  {
+   "text": "BIENVENUEA DISNEYLAND PARIS",
+   "conf": 0.9610131824458087
+  },
+  {
+   "text": "Vendeur:",
+   "conf": 0.9869659915566444
+  },
+  {
+   "text": "47492LYNDA",
+   "conf": 0.9898986577987671
+  },
+  {
+   "text": "Caissier:",
+   "conf": 0.988697522216373
+  },
+  {
+   "text": "47492LYNDA",
+   "conf": 0.9937643647193909
+  },
+  {
+   "text": "TicketNo:",
+   "conf": 0.984787106513977
+  },
+  {
+   "text": "25085779",
+   "conf": 0.9990141093730927
+  },
+  {
+   "text": "Location:",
+   "conf": 0.9910047650337219
+  },
+  {
+   "text": "40141IndianaJones",
+   "conf": 0.969256976071526
+  },
+  {
+   "text": "Date:",
+   "conf": 0.9917691826820374
+  },
+  {
+   "text": "25/10/201714:29",
+   "conf": 0.9936539570490519
+  },
+  {
+   "text": "Infos:",
+   "conf": 0.9846361776192983
+  },
+  {
+   "text": "General",
+   "conf": 0.9803117513656616
+  },
+  {
+   "text": "2CAFE GRAIN20CZ",
+   "conf": 0.9616076429684957
+  },
+  {
+   "text": "5.58",
+   "conf": 0.9972053170204163
+  },
+  {
+   "text": "2.79",
+   "conf": 0.9960776716470718
+  },
+  {
+   "text": "TOTAL:",
+   "conf": 0.9713291625181834
+  },
+  {
+   "text": "5.58",
+   "conf": 0.9968458116054535
+  },
+  {
+   "text": "Dont TVA:",
+   "conf": 0.9332106974389818
+  },
+  {
+   "text": "0.30",
+   "conf": 0.9974643290042877
+  },
+  {
+   "text": "Especes",
+   "conf": 0.9562619498797825
+  },
+  {
+   "text": "5.70",
+   "conf": 0.9980175495147705
+  },
+  {
+   "text": "RENDU",
+   "conf": 0.9922266483306885
+  },
+  {
+   "text": "0.12",
+   "conf": 0.9975782483816147
+  },
+  {
+   "text": "Date/heure:25/10/201714:29",
+   "conf": 0.9883299171924591
+  },
+  {
+   "text": "EURO DISNEYASSOCIESSCA-BP100",
+   "conf": 0.9729717203548977
+  },
+  {
+   "text": "77777MarnelaValleeCedex4",
+   "conf": 0.9693727046251297
+  },
+  {
+   "text": "SIREN397471822-RCSMEAUX",
+   "conf": 0.9795546583507372
+  },
+  {
+   "text": "http://www.disneylandparis.com",
+   "conf": 0.963864928483963
+  },
+  {
+   "text": "Conditions d'echange et de remboursement:",
+   "conf": 0.9324288222847915
+  }
+ ],
+ "mean_conf": 0.9806,
+ "low_conf_share": 0.0,
+ "latency_ms": 3747,
+ "fields": {
+  "company": "BIENVENUEA DISNEYLAND PARIS",
+  "date": "2017-10-25",
+  "total": 5.58
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  5.58
+ ],
+ "key": "W0049_7621d9ab7c95"
+}

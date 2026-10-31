@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.6-flash",
+ "provider": "gemini",
+ "raw_text": "{\"vendor\": \"Khyen Chyen\", \"date\": \"2015-04-17\", \"subtotal\": 100.0, \"tax\": 18.07, \"tip\": null, \"discount\": null, \"total\": 118.0, \"currency\": \"INR\", \"confidence\": 0.95, \"notes\": \"Tax is sum of VAT (13.13) and Service Tax (4.94). Total represents rounded amount payable.\"}",
+ "data": {
+  "vendor": "Khyen Chyen",
+  "date": "2015-04-17",
+  "subtotal": 100.0,
+  "tax": 18.07,
+  "tip": null,
+  "discount": null,
+  "total": 118.0,
+  "currency": "INR",
+  "confidence": 0.95,
+  "notes": "Tax is sum of VAT (13.13) and Service Tax (4.94). Total represents rounded amount payable."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1433,
+  "output_tokens": 113,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.001499,
+ "latency_ms": 1786,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.6-flash",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.6-flash"
+ ],
+ "key": "W0145_62afa3fa08bb"
+}

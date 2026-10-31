@@ -1,0 +1,220 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "Guar dian Health And Beauty Sdn Bhd",
+  "GOLARIS MOUNT KIARA",
+  "NO.8& 10:GF SOLARIS MOUNT KUARA",
+  "JLN SOLARIS5",
+  "Tel:03-62037941",
+  "Company Reg #1101083-T",
+  "GST Re9 #000899874816",
+  "RM",
+  "121092943FREEMANBK/CH 60Z^ 22.44S",
+  "SUBTOTAL 22.44",
+  "ROUNDING ADJUSTMENTS 0.01",
+  "TOTAL（GST INCL) 22.45",
+  "Visa Card 22.45",
+  "Trace No.016036",
+  "CARD N0.461772******2105",
+  "Ouner Name",
+  "YOUR SAVINGS FOR TODAY 3.%",
+  "GST -Rate GST ExCl --GST Aot",
+  "6% 21.17 1.27",
+  "Promo price items",
+  "Thank You For Shorping",
+  "At Guardian",
+  "All Amounts Are in RM",
+  "Goods sold are non-refundable.",
+  "Dispensed medicines sold are",
+  "not returnable.",
+  "All exchanges and returns including",
+  "Guardian brand products must be made",
+  "within 7days with original receipts and",
+  "product in original condition.",
+  "St:8300 Ctr2 ID:2005 TaxInv:53488",
+  "12:23 01/01/18"
+ ],
+ "tokens": [
+  {
+   "text": "Guar dian Health And Beauty Sdn Bhd",
+   "conf": 0.9557589752333505
+  },
+  {
+   "text": "GOLARIS MOUNT KIARA",
+   "conf": 0.9556736789251629
+  },
+  {
+   "text": "NO.8& 10:GF SOLARIS MOUNT KUARA",
+   "conf": 0.8968407886643563
+  },
+  {
+   "text": "JLN SOLARIS5",
+   "conf": 0.9399901777505875
+  },
+  {
+   "text": "Tel:03-62037941",
+   "conf": 0.991799509525299
+  },
+  {
+   "text": "Company Reg #1101083-T",
+   "conf": 0.9033631032163446
+  },
+  {
+   "text": "GST Re9 #000899874816",
+   "conf": 0.9021340026741936
+  },
+  {
+   "text": "RM",
+   "conf": 0.6140938699245453
+  },
+  {
+   "text": "121092943FREEMANBK/CH 60Z^",
+   "conf": 0.9561522133075274
+  },
+  {
+   "text": "22.44S",
+   "conf": 0.9152349432309469
+  },
+  {
+   "text": "SUBTOTAL",
+   "conf": 0.9884630888700485
+  },
+  {
+   "text": "22.44",
+   "conf": 0.9470477223396301
+  },
+  {
+   "text": "ROUNDING ADJUSTMENTS",
+   "conf": 0.9641517728567124
+  },
+  {
+   "text": "0.01",
+   "conf": 0.9974891692399979
+  },
+  {
+   "text": "TOTAL（GST INCL)",
+   "conf": 0.9328544000784557
+  },
+  {
+   "text": "22.45",
+   "conf": 0.9990895867347718
+  },
+  {
+   "text": "Visa Card",
+   "conf": 0.9574808875719706
+  },
+  {
+   "text": "22.45",
+   "conf": 0.9986465215682984
+  },
+  {
+   "text": "Trace No.016036",
+   "conf": 0.9943114519119263
+  },
+  {
+   "text": "CARD N0.461772******2105",
+   "conf": 0.9723686402042707
+  },
+  {
+   "text": "Ouner Name",
+   "conf": 0.892116117477417
+  },
+  {
+   "text": "YOUR SAVINGS FOR TODAY",
+   "conf": 0.9794360128316012
+  },
+  {
+   "text": "3.%",
+   "conf": 0.8822357654571533
+  },
+  {
+   "text": "GST -Rate",
+   "conf": 0.9609408312373691
+  },
+  {
+   "text": "GST ExCl --GST Aot",
+   "conf": 0.8356843094031016
+  },
+  {
+   "text": "6%",
+   "conf": 0.8537789881229401
+  },
+  {
+   "text": "21.17",
+   "conf": 0.9981014847755432
+  },
+  {
+   "text": "1.27",
+   "conf": 0.9985522031784058
+  },
+  {
+   "text": "Promo price items",
+   "conf": 0.9279700202100417
+  },
+  {
+   "text": "Thank You For Shorping",
+   "conf": 0.9780734018845991
+  },
+  {
+   "text": "At Guardian",
+   "conf": 0.9805786121975292
+  },
+  {
+   "text": "All Amounts Are in RM",
+   "conf": 0.8859310405594962
+  },
+  {
+   "text": "Goods sold are non-refundable.",
+   "conf": 0.9667306065559387
+  },
+  {
+   "text": "Dispensed medicines sold are",
+   "conf": 0.9642358699015209
+  },
+  {
+   "text": "not returnable.",
+   "conf": 0.9609625538190206
+  },
+  {
+   "text": "All exchanges and returns including",
+   "conf": 0.9758691770689828
+  },
+  {
+   "text": "Guardian brand products must be made",
+   "conf": 0.9764954398075739
+  },
+  {
+   "text": "within 7days with original receipts and",
+   "conf": 0.9860877486375662
+  },
+  {
+   "text": "product in original condition.",
+   "conf": 0.9782842934131623
+  },
+  {
+   "text": "St:8300 Ctr2 ID:2005 TaxInv:53488",
+   "conf": 0.9487234932003599
+  },
+  {
+   "text": "12:23",
+   "conf": 0.9773739695549011
+  },
+  {
+   "text": "01/01/18",
+   "conf": 0.9965139105916023
+  }
+ ],
+ "mean_conf": 0.9449,
+ "low_conf_share": 0.0,
+ "latency_ms": 5970,
+ "fields": {
+  "company": "GUAR DIAN HEALTH AND BEAUTY SDN BHD",
+  "date": "2018-01-01",
+  "total": 22.45
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  22.45
+ ],
+ "key": "X51006311714"
+}

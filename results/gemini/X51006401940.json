@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.6-flash",
+ "provider": "gemini",
+ "raw_text": "{\"vendor\": \"ARTRANGE STATIONERS & PRINT SDN BHD\", \"date\": \"2017-04-10\", \"subtotal\": 14.53, \"tax\": 0.87, \"tip\": null, \"discount\": null, \"total\": 15.40, \"currency\": \"MYR\", \"confidence\": 0.95, \"notes\": null}",
+ "data": {
+  "vendor": "ARTRANGE STATIONERS & PRINT SDN BHD",
+  "date": "2017-04-10",
+  "subtotal": 14.53,
+  "tax": 0.87,
+  "tip": null,
+  "discount": null,
+  "total": 15.4,
+  "currency": "MYR",
+  "confidence": 0.95,
+  "notes": null
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1450,
+  "output_tokens": 91,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.001429,
+ "latency_ms": 1896,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.6-flash",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.6-flash"
+ ],
+ "key": "X51006401940"
+}

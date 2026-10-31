@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.6-flash",
+ "provider": "gemini",
+ "raw_text": "{\"vendor\":\"SWC ENTERPRISE SDN BHD\",\"date\":\"2018-03-06\",\"subtotal\":3.78,\"tax\":0.22,\"tip\":null,\"discount\":null,\"total\":4.00,\"currency\":\"MYR\",\"confidence\":0.95,\"notes\":null}",
+ "data": {
+  "vendor": "SWC ENTERPRISE SDN BHD",
+  "date": "2018-03-06",
+  "subtotal": 3.78,
+  "tax": 0.22,
+  "tip": null,
+  "discount": null,
+  "total": 4.0,
+  "currency": "MYR",
+  "confidence": 0.95,
+  "notes": null
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1473,
+  "output_tokens": 71,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.001371,
+ "latency_ms": 1978,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.6-flash",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.6-flash"
+ ],
+ "key": "X51005749904"
+}

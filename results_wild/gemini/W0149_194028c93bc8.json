@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.6-flash",
+ "provider": "gemini",
+ "raw_text": "{\"vendor\": \"McDonald's Pioneer Mall\", \"date\": \"2011-03-26\", \"subtotal\": 3.64, \"tax\": 0.26, \"tip\": null, \"discount\": null, \"total\": 3.90, \"currency\": \"SGD\", \"confidence\": 0.95, \"notes\": null}",
+ "data": {
+  "vendor": "McDonald's Pioneer Mall",
+  "date": "2011-03-26",
+  "subtotal": 3.64,
+  "tax": 0.26,
+  "tip": null,
+  "discount": null,
+  "total": 3.9,
+  "currency": "SGD",
+  "confidence": 0.95,
+  "notes": null
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1433,
+  "output_tokens": 83,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.001386,
+ "latency_ms": 1798,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.6-flash",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.6-flash"
+ ],
+ "key": "W0149_194028c93bc8"
+}

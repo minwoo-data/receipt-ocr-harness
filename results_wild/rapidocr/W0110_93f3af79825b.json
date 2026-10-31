@@ -1,0 +1,208 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "Bistecca",
+  "Restaurant PteLtd",
+  "GSTReg No:201114510R",
+  "TABLE:3",
+  "Pax:2 OP:Sam Sam",
+  "POS Title:Cashier2 POS:P0S002",
+  "Rcpt#:A12000007477 21/10/201219:42",
+  "Asparagi grigliati $14.00",
+  "Bava ContrabasBarolo $165.00",
+  "Bruschetta Pomodoro $18.00",
+  "Costata $178.00",
+  "Limoncello $13.00",
+  "Panzanella $25.00",
+  "Puredipatate $10.00",
+  "Single Scoope $6.00",
+  "Aqua Panna $8.00",
+  "SUBTOTAL $437.00",
+  "10%Svr Chrg $43.70",
+  "7%GST $33.65",
+  "TOTAL $514.35",
+  "25 Mohamed Sultan Rd S (238969)",
+  "Tel:67356739",
+  "PreSettlement Bill",
+  "21/10/201221:07"
+ ],
+ "tokens": [
+  {
+   "text": "Bistecca",
+   "conf": 0.9953636899590492
+  },
+  {
+   "text": "Restaurant PteLtd",
+   "conf": 0.9628337060703951
+  },
+  {
+   "text": "GSTReg No:201114510R",
+   "conf": 0.9664309024810791
+  },
+  {
+   "text": "TABLE:3",
+   "conf": 0.9729977760996137
+  },
+  {
+   "text": "OP:Sam",
+   "conf": 0.9711335599422455
+  },
+  {
+   "text": "Sam",
+   "conf": 0.9802255630493164
+  },
+  {
+   "text": "Pax:2",
+   "conf": 0.9733354449272156
+  },
+  {
+   "text": "POS Title:Cashier2",
+   "conf": 0.9608390894201067
+  },
+  {
+   "text": "POS:P0S002",
+   "conf": 0.9420928180217742
+  },
+  {
+   "text": "Rcpt#:A12000007477",
+   "conf": 0.9767596688535478
+  },
+  {
+   "text": "21/10/201219:42",
+   "conf": 0.960909616947174
+  },
+  {
+   "text": "Asparagi grigliati",
+   "conf": 0.9771390789084964
+  },
+  {
+   "text": "$14.00",
+   "conf": 0.9977468649546305
+  },
+  {
+   "text": "Bava ContrabasBarolo",
+   "conf": 0.9740917563438416
+  },
+  {
+   "text": "$165.00",
+   "conf": 0.9976206336702619
+  },
+  {
+   "text": "Bruschetta Pomodoro",
+   "conf": 0.978343991856826
+  },
+  {
+   "text": "$18.00",
+   "conf": 0.9967188934485117
+  },
+  {
+   "text": "Costata",
+   "conf": 0.9945006881441388
+  },
+  {
+   "text": "$178.00",
+   "conf": 0.9977185300418309
+  },
+  {
+   "text": "Limoncello",
+   "conf": 0.9906045854091644
+  },
+  {
+   "text": "$13.00",
+   "conf": 0.9974070886770884
+  },
+  {
+   "text": "Panzanella",
+   "conf": 0.9913610696792603
+  },
+  {
+   "text": "$25.00",
+   "conf": 0.9982252021630605
+  },
+  {
+   "text": "Puredipatate",
+   "conf": 0.9907404085000356
+  },
+  {
+   "text": "$10.00",
+   "conf": 0.9984138011932373
+  },
+  {
+   "text": "Single Scoope",
+   "conf": 0.9834598853037908
+  },
+  {
+   "text": "$6.00",
+   "conf": 0.9973854303359986
+  },
+  {
+   "text": "Aqua Panna",
+   "conf": 0.9666571676731109
+  },
+  {
+   "text": "$8.00",
+   "conf": 0.997506070137024
+  },
+  {
+   "text": "SUBTOTAL",
+   "conf": 0.9914718121290207
+  },
+  {
+   "text": "$437.00",
+   "conf": 0.9982731172016689
+  },
+  {
+   "text": "10%Svr Chrg",
+   "conf": 0.9522675438360735
+  },
+  {
+   "text": "$43.70",
+   "conf": 0.9973716040452322
+  },
+  {
+   "text": "7%GST",
+   "conf": 0.9555069327354431
+  },
+  {
+   "text": "$33.65",
+   "conf": 0.9960820972919464
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.9943232059478759
+  },
+  {
+   "text": "$514.35",
+   "conf": 0.9986756018229893
+  },
+  {
+   "text": "25 Mohamed Sultan Rd S (238969)",
+   "conf": 0.9151268063053009
+  },
+  {
+   "text": "Tel:67356739",
+   "conf": 0.9823865791161855
+  },
+  {
+   "text": "PreSettlement Bill",
+   "conf": 0.9621578719880846
+  },
+  {
+   "text": "21/10/201221:07",
+   "conf": 0.9923577586809794
+  }
+ ],
+ "mean_conf": 0.9811,
+ "low_conf_share": 0.0,
+ "latency_ms": 2992,
+ "fields": {
+  "company": "BISTECCA RESTAURANT PTELTD",
+  "date": "2012-10-21",
+  "total": 514.35
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  514.35
+ ],
+ "key": "W0110_93f3af79825b"
+}

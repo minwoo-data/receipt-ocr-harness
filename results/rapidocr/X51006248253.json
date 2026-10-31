@@ -1,0 +1,215 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "Dream Arts",
+  "L 2-047,LEVEL 2,VIVACITY MEGAMALL,",
+  "JALANWANALWI,93350KUCHING",
+  "GST Reg.:000168861696",
+  "DocumentNo.:T02035040",
+  "Date: 29/03/201807:35:38PM",
+  "Terminal : T02",
+  "Cashier: CASHIER01",
+  "DESC U. PRICE Disc AMOUNT",
+  "QTY RM RM",
+  "L123 ANDROID USB CABLE(CODE15)",
+  "1 UNIT * 15.00 0.00 15.00",
+  "Sub Total (Exclusive GST) : 14.15",
+  "GST 6% : 0.85",
+  "Rounding Adjustment : 0.00",
+  "Rounded Total (RM): 15.00",
+  "Cash 15.00",
+  "GST Summary Amount(RM) Tax(RM)",
+  "SR @ 6% 14.15 0.85",
+  "THANK YOU AND PLEASE COME AGAIN",
+  "Goods sold cannot be retumed & payment not",
+  "refundable.",
+  "Happy Shopping with us."
+ ],
+ "tokens": [
+  {
+   "text": "Dream Arts",
+   "conf": 0.993160092830658
+  },
+  {
+   "text": "L 2-047,LEVEL 2,VIVACITY MEGAMALL,",
+   "conf": 0.9070500889245201
+  },
+  {
+   "text": "JALANWANALWI,93350KUCHING",
+   "conf": 0.9570805478096008
+  },
+  {
+   "text": "GST Reg.:000168861696",
+   "conf": 0.9664929679461888
+  },
+  {
+   "text": "DocumentNo.:T02035040",
+   "conf": 0.9787692456018358
+  },
+  {
+   "text": "Date:",
+   "conf": 0.9918004393577575
+  },
+  {
+   "text": "29/03/201807:35:38PM",
+   "conf": 0.9852102994918823
+  },
+  {
+   "text": "Terminal :",
+   "conf": 0.9693053901195526
+  },
+  {
+   "text": "T02",
+   "conf": 0.914680540561676
+  },
+  {
+   "text": "Cashier:",
+   "conf": 0.9175413772463799
+  },
+  {
+   "text": "CASHIER01",
+   "conf": 0.9591703547371758
+  },
+  {
+   "text": "DESC",
+   "conf": 0.9845891445875168
+  },
+  {
+   "text": "U. PRICE",
+   "conf": 0.9944736212491989
+  },
+  {
+   "text": "Disc",
+   "conf": 0.9785303026437759
+  },
+  {
+   "text": "AMOUNT",
+   "conf": 0.9840473035971323
+  },
+  {
+   "text": "QTY",
+   "conf": 0.9975055058797201
+  },
+  {
+   "text": "RM",
+   "conf": 0.9882324934005737
+  },
+  {
+   "text": "RM",
+   "conf": 0.9905497133731842
+  },
+  {
+   "text": "L123 ANDROID USB CABLE(CODE15)",
+   "conf": 0.9293112893899281
+  },
+  {
+   "text": "1 UNIT *",
+   "conf": 0.8514794632792473
+  },
+  {
+   "text": "15.00",
+   "conf": 0.9989888310432434
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9981292486190796
+  },
+  {
+   "text": "15.00",
+   "conf": 0.9988134860992431
+  },
+  {
+   "text": "Sub Total (Exclusive GST) :",
+   "conf": 0.9771987552996035
+  },
+  {
+   "text": "14.15",
+   "conf": 0.9998024702072144
+  },
+  {
+   "text": "GST 6% :",
+   "conf": 0.869237381964922
+  },
+  {
+   "text": "0.85",
+   "conf": 0.9992876946926117
+  },
+  {
+   "text": "Rounding Adjustment :",
+   "conf": 0.9808441286995297
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9983368813991547
+  },
+  {
+   "text": "Rounded Total (RM):",
+   "conf": 0.9814161595545317
+  },
+  {
+   "text": "15.00",
+   "conf": 0.9997195363044739
+  },
+  {
+   "text": "Cash",
+   "conf": 0.9956260472536087
+  },
+  {
+   "text": "15.00",
+   "conf": 0.9992099523544311
+  },
+  {
+   "text": "GST Summary",
+   "conf": 0.9892543716864153
+  },
+  {
+   "text": "Amount(RM)",
+   "conf": 0.9909343302249909
+  },
+  {
+   "text": "Tax(RM)",
+   "conf": 0.9359365361077445
+  },
+  {
+   "text": "SR @ 6%",
+   "conf": 0.9945782167570931
+  },
+  {
+   "text": "14.15",
+   "conf": 0.9990942716598511
+  },
+  {
+   "text": "0.85",
+   "conf": 0.9965034127235413
+  },
+  {
+   "text": "THANK YOU AND PLEASE COME AGAIN",
+   "conf": 0.9614364889360243
+  },
+  {
+   "text": "Goods sold cannot be retumed & payment not",
+   "conf": 0.9684930301847912
+  },
+  {
+   "text": "refundable.",
+   "conf": 0.9886555888436057
+  },
+  {
+   "text": "Happy Shopping with us.",
+   "conf": 0.9844991020534349
+  }
+ ],
+ "mean_conf": 0.9731,
+ "low_conf_share": 0.0,
+ "latency_ms": 4011,
+ "fields": {
+  "company": "DREAM ARTS",
+  "date": "2018-03-29",
+  "total": 15.0
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  15.0
+ ],
+ "key": "X51006248253"
+}

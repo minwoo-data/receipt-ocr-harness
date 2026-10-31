@@ -1,0 +1,266 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "Se e =",
+  "Midway Airport",
+  "‘wei. pegasusonthef ly com",
+  "Ph: 773-581-1522",
+  "Date: Jan 31, 2017 18:17:38",
+  "TableransId; 3105458",
+  "TransId: 3105458",
+  "Server: abigail",
+  "1 Gyros Pita, Fries 8.99",
+  "1 Large Soft Drink 2.59",
+  "1 Greek Cookies 3pcs 2.29",
+  "subtotal 13.87",
+  "Tax 1 1.30",
+  "Tax 2 0.38",
+  "Total 15.55",
+  "VISA(Completed) 715.55",
+  "Balance 0,00",
+  "FARE",
+  "Order#: 2-490",
+  "SEERA $"
+ ],
+ "tokens": [
+  {
+   "text": "Se",
+   "conf": 0.04
+  },
+  {
+   "text": "e",
+   "conf": 0.0
+  },
+  {
+   "text": "=",
+   "conf": 0.66
+  },
+  {
+   "text": "Midway",
+   "conf": 0.59
+  },
+  {
+   "text": "Airport",
+   "conf": 0.85
+  },
+  {
+   "text": "‘wei.",
+   "conf": 0.21
+  },
+  {
+   "text": "pegasusonthef",
+   "conf": 0.64
+  },
+  {
+   "text": "ly",
+   "conf": 0.73
+  },
+  {
+   "text": "com",
+   "conf": 0.64
+  },
+  {
+   "text": "Ph:",
+   "conf": 0.75
+  },
+  {
+   "text": "773-581-1522",
+   "conf": 0.73
+  },
+  {
+   "text": "Date:",
+   "conf": 0.8
+  },
+  {
+   "text": "Jan",
+   "conf": 0.91
+  },
+  {
+   "text": "31,",
+   "conf": 0.91
+  },
+  {
+   "text": "2017",
+   "conf": 0.95
+  },
+  {
+   "text": "18:17:38",
+   "conf": 0.93
+  },
+  {
+   "text": "TableransId;",
+   "conf": 0.25
+  },
+  {
+   "text": "3105458",
+   "conf": 0.96
+  },
+  {
+   "text": "TransId:",
+   "conf": 0.4
+  },
+  {
+   "text": "3105458",
+   "conf": 0.96
+  },
+  {
+   "text": "Server:",
+   "conf": 0.96
+  },
+  {
+   "text": "abigail",
+   "conf": 0.9
+  },
+  {
+   "text": "1",
+   "conf": 0.76
+  },
+  {
+   "text": "Gyros",
+   "conf": 0.93
+  },
+  {
+   "text": "Pita,",
+   "conf": 0.95
+  },
+  {
+   "text": "Fries",
+   "conf": 0.96
+  },
+  {
+   "text": "8.99",
+   "conf": 0.52
+  },
+  {
+   "text": "1",
+   "conf": 0.6
+  },
+  {
+   "text": "Large",
+   "conf": 0.85
+  },
+  {
+   "text": "Soft",
+   "conf": 0.96
+  },
+  {
+   "text": "Drink",
+   "conf": 0.96
+  },
+  {
+   "text": "2.59",
+   "conf": 0.76
+  },
+  {
+   "text": "1",
+   "conf": 0.62
+  },
+  {
+   "text": "Greek",
+   "conf": 0.91
+  },
+  {
+   "text": "Cookies",
+   "conf": 0.92
+  },
+  {
+   "text": "3pcs",
+   "conf": 0.47
+  },
+  {
+   "text": "2.29",
+   "conf": 0.89
+  },
+  {
+   "text": "subtotal",
+   "conf": 0.91
+  },
+  {
+   "text": "13.87",
+   "conf": 0.89
+  },
+  {
+   "text": "Tax",
+   "conf": 0.88
+  },
+  {
+   "text": "1",
+   "conf": 0.87
+  },
+  {
+   "text": "1.30",
+   "conf": 0.81
+  },
+  {
+   "text": "Tax",
+   "conf": 0.9
+  },
+  {
+   "text": "2",
+   "conf": 0.9
+  },
+  {
+   "text": "0.38",
+   "conf": 0.93
+  },
+  {
+   "text": "Total",
+   "conf": 0.95
+  },
+  {
+   "text": "15.55",
+   "conf": 0.76
+  },
+  {
+   "text": "VISA(Completed)",
+   "conf": 0.73
+  },
+  {
+   "text": "715.55",
+   "conf": 0.44
+  },
+  {
+   "text": "Balance",
+   "conf": 0.96
+  },
+  {
+   "text": "0,00",
+   "conf": 0.89
+  },
+  {
+   "text": "FARE",
+   "conf": 0.2
+  },
+  {
+   "text": "Order#:",
+   "conf": 0.57
+  },
+  {
+   "text": "2-490",
+   "conf": 0.9
+  },
+  {
+   "text": "SEERA",
+   "conf": 0.26
+  },
+  {
+   "text": "$",
+   "conf": 0.0
+  }
+ ],
+ "mean_conf": 0.7246,
+ "low_conf_share": 0.1786,
+ "latency_ms": 1007,
+ "fields": {
+  "company": "MIDWAY AIRPORT",
+  "date": null,
+  "total": 15.55
+ },
+ "rule_reasons": [
+  "date_not_found"
+ ],
+ "total_candidates": [
+  15.55
+ ],
+ "key": "W0161_27f879c6141f"
+}

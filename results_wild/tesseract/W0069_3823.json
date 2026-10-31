@@ -1,0 +1,312 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "GASTROBAR EL",
+  "GALLO",
+  "a OAR 2",
+  "REZ DE LA FRONTERA",
+  "+ B11908225",
+  "Albaran: 14625",
+  "Fecha: 14-11-2013 15:20",
+  "Mesa: Mesa 2",
+  "Atendido por: GABRIEL",
+  "BEBIDAS",
+  "2 COPA RIQUA 4,00",
+  "2 CAFES CON LECHE 2,40",
+  "ENTRANTES",
+  "1 TAPA NQJAMA DE BARBATE 2,50",
+  "1 TAPA BEREJENAS CON SALH 3,00",
+  "1 TAPA PATATAS ALIOLT 2,00",
+  "1 PAN Y PIGOS X PERSONA 0,50",
+  "1 TAPA CARRILLERA IBERICA 2,50",
+  "1 SALMOREJO 4,00",
+  "nese tenecnceenaae"
+ ],
+ "tokens": [
+  {
+   "text": "GASTROBAR",
+   "conf": 0.87
+  },
+  {
+   "text": "EL",
+   "conf": 0.9
+  },
+  {
+   "text": "GALLO",
+   "conf": 0.95
+  },
+  {
+   "text": "a",
+   "conf": 0.58
+  },
+  {
+   "text": "OAR",
+   "conf": 0.0
+  },
+  {
+   "text": "2",
+   "conf": 0.96
+  },
+  {
+   "text": "REZ",
+   "conf": 0.87
+  },
+  {
+   "text": "DE",
+   "conf": 0.87
+  },
+  {
+   "text": "LA",
+   "conf": 0.9
+  },
+  {
+   "text": "FRONTERA",
+   "conf": 0.93
+  },
+  {
+   "text": "+",
+   "conf": 0.63
+  },
+  {
+   "text": "B11908225",
+   "conf": 0.63
+  },
+  {
+   "text": "Albaran:",
+   "conf": 0.9
+  },
+  {
+   "text": "14625",
+   "conf": 0.9
+  },
+  {
+   "text": "Fecha:",
+   "conf": 0.92
+  },
+  {
+   "text": "14-11-2013",
+   "conf": 0.68
+  },
+  {
+   "text": "15:20",
+   "conf": 0.68
+  },
+  {
+   "text": "Mesa:",
+   "conf": 0.95
+  },
+  {
+   "text": "Mesa",
+   "conf": 0.94
+  },
+  {
+   "text": "2",
+   "conf": 0.95
+  },
+  {
+   "text": "Atendido",
+   "conf": 0.78
+  },
+  {
+   "text": "por:",
+   "conf": 0.88
+  },
+  {
+   "text": "GABRIEL",
+   "conf": 0.93
+  },
+  {
+   "text": "BEBIDAS",
+   "conf": 0.94
+  },
+  {
+   "text": "2",
+   "conf": 0.71
+  },
+  {
+   "text": "COPA",
+   "conf": 0.71
+  },
+  {
+   "text": "RIQUA",
+   "conf": 0.82
+  },
+  {
+   "text": "4,00",
+   "conf": 0.96
+  },
+  {
+   "text": "2",
+   "conf": 0.89
+  },
+  {
+   "text": "CAFES",
+   "conf": 0.89
+  },
+  {
+   "text": "CON",
+   "conf": 0.92
+  },
+  {
+   "text": "LECHE",
+   "conf": 0.92
+  },
+  {
+   "text": "2,40",
+   "conf": 0.9
+  },
+  {
+   "text": "ENTRANTES",
+   "conf": 0.9
+  },
+  {
+   "text": "1",
+   "conf": 0.89
+  },
+  {
+   "text": "TAPA",
+   "conf": 0.87
+  },
+  {
+   "text": "NQJAMA",
+   "conf": 0.49
+  },
+  {
+   "text": "DE",
+   "conf": 0.93
+  },
+  {
+   "text": "BARBATE",
+   "conf": 0.92
+  },
+  {
+   "text": "2,50",
+   "conf": 0.9
+  },
+  {
+   "text": "1",
+   "conf": 0.41
+  },
+  {
+   "text": "TAPA",
+   "conf": 0.88
+  },
+  {
+   "text": "BEREJENAS",
+   "conf": 0.92
+  },
+  {
+   "text": "CON",
+   "conf": 0.76
+  },
+  {
+   "text": "SALH",
+   "conf": 0.37
+  },
+  {
+   "text": "3,00",
+   "conf": 0.52
+  },
+  {
+   "text": "1",
+   "conf": 0.66
+  },
+  {
+   "text": "TAPA",
+   "conf": 0.8
+  },
+  {
+   "text": "PATATAS",
+   "conf": 0.85
+  },
+  {
+   "text": "ALIOLT",
+   "conf": 0.54
+  },
+  {
+   "text": "2,00",
+   "conf": 0.94
+  },
+  {
+   "text": "1",
+   "conf": 0.77
+  },
+  {
+   "text": "PAN",
+   "conf": 0.81
+  },
+  {
+   "text": "Y",
+   "conf": 0.81
+  },
+  {
+   "text": "PIGOS",
+   "conf": 0.86
+  },
+  {
+   "text": "X",
+   "conf": 0.83
+  },
+  {
+   "text": "PERSONA",
+   "conf": 0.96
+  },
+  {
+   "text": "0,50",
+   "conf": 0.91
+  },
+  {
+   "text": "1",
+   "conf": 0.78
+  },
+  {
+   "text": "TAPA",
+   "conf": 0.85
+  },
+  {
+   "text": "CARRILLERA",
+   "conf": 0.83
+  },
+  {
+   "text": "IBERICA",
+   "conf": 0.77
+  },
+  {
+   "text": "2,50",
+   "conf": 0.75
+  },
+  {
+   "text": "1",
+   "conf": 0.71
+  },
+  {
+   "text": "SALMOREJO",
+   "conf": 0.79
+  },
+  {
+   "text": "4,00",
+   "conf": 0.96
+  },
+  {
+   "text": "nese",
+   "conf": 0.0
+  },
+  {
+   "text": "tenecnceenaae",
+   "conf": 0.0
+  }
+ ],
+ "mean_conf": 0.7824,
+ "low_conf_share": 0.0882,
+ "latency_ms": 324,
+ "fields": {
+  "company": "GASTROBAR EL",
+  "date": "2013-11-14",
+  "total": null
+ },
+ "rule_reasons": [
+  "total_not_found"
+ ],
+ "total_candidates": [],
+ "key": "W0069_3823"
+}

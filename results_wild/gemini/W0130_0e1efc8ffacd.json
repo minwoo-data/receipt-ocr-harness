@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.6-flash",
+ "provider": "gemini",
+ "raw_text": "{\"vendor\":\"IN-N-OUT BURGER\",\"date\":\"2018-01-03\",\"subtotal\":14.0,\"tax\":0.0,\"tip\":null,\"discount\":null,\"total\":14.0,\"currency\":\"USD\",\"confidence\":0.98,\"notes\":null}",
+ "data": {
+  "vendor": "IN-N-OUT BURGER",
+  "date": "2018-01-03",
+  "subtotal": 14.0,
+  "tax": 0.0,
+  "tip": null,
+  "discount": null,
+  "total": 14.0,
+  "currency": "USD",
+  "confidence": 0.98,
+  "notes": null
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1433,
+  "output_tokens": 68,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.00133,
+ "latency_ms": 1876,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.6-flash",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.6-flash"
+ ],
+ "key": "W0130_0e1efc8ffacd"
+}

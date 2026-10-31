@@ -1,0 +1,304 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "SANTA FE MEXICAN",
+  "2035 HIGIPOINT AO",
+  "GREENSBORO, No 77403",
+  "98-817-4690,",
+  "Th): BARI Gots: 2 Srvr: Alevis",
+  "Date: 07-24-2016 4:300—1,0551.00108",
+  "Guests: 2",
+  "dnb Tx Marg fo 31.50",
+  "6 Patton arejo 58.50",
+  "1 Corona 3,50",
+  "SirTotal: 34.50",
+  "Tx: 6333",
+  "Stal Due: 99.83",
+  "TOK69.95 153-814.02 axes. 7",
+  "Sioested tip 7?",
+  "HOW AE VE Donna",
+  "Ve YAUE You cenoys:",
+  "Please 00 0. Ww. Santana eos",
+  "LS iatbok vir die"
+ ],
+ "tokens": [
+  {
+   "text": "SANTA",
+   "conf": 0.92
+  },
+  {
+   "text": "FE",
+   "conf": 0.92
+  },
+  {
+   "text": "MEXICAN",
+   "conf": 0.88
+  },
+  {
+   "text": "2035",
+   "conf": 0.62
+  },
+  {
+   "text": "HIGIPOINT",
+   "conf": 0.44
+  },
+  {
+   "text": "AO",
+   "conf": 0.7
+  },
+  {
+   "text": "GREENSBORO,",
+   "conf": 0.78
+  },
+  {
+   "text": "No",
+   "conf": 0.33
+  },
+  {
+   "text": "77403",
+   "conf": 0.68
+  },
+  {
+   "text": "98-817-4690,",
+   "conf": 0.0
+  },
+  {
+   "text": "Th):",
+   "conf": 0.1
+  },
+  {
+   "text": "BARI",
+   "conf": 0.36
+  },
+  {
+   "text": "Gots:",
+   "conf": 0.31
+  },
+  {
+   "text": "2",
+   "conf": 0.93
+  },
+  {
+   "text": "Srvr:",
+   "conf": 0.88
+  },
+  {
+   "text": "Alevis",
+   "conf": 0.27
+  },
+  {
+   "text": "Date:",
+   "conf": 0.84
+  },
+  {
+   "text": "07-24-2016",
+   "conf": 0.71
+  },
+  {
+   "text": "4:300—1,0551.00108",
+   "conf": 0.0
+  },
+  {
+   "text": "Guests:",
+   "conf": 0.76
+  },
+  {
+   "text": "2",
+   "conf": 0.76
+  },
+  {
+   "text": "dnb",
+   "conf": 0.43
+  },
+  {
+   "text": "Tx",
+   "conf": 0.76
+  },
+  {
+   "text": "Marg",
+   "conf": 0.37
+  },
+  {
+   "text": "fo",
+   "conf": 0.66
+  },
+  {
+   "text": "31.50",
+   "conf": 0.64
+  },
+  {
+   "text": "6",
+   "conf": 0.23
+  },
+  {
+   "text": "Patton",
+   "conf": 0.56
+  },
+  {
+   "text": "arejo",
+   "conf": 0.14
+  },
+  {
+   "text": "58.50",
+   "conf": 0.54
+  },
+  {
+   "text": "1",
+   "conf": 0.84
+  },
+  {
+   "text": "Corona",
+   "conf": 0.61
+  },
+  {
+   "text": "3,50",
+   "conf": 0.66
+  },
+  {
+   "text": "SirTotal:",
+   "conf": 0.02
+  },
+  {
+   "text": "34.50",
+   "conf": 0.38
+  },
+  {
+   "text": "Tx:",
+   "conf": 0.52
+  },
+  {
+   "text": "6333",
+   "conf": 0.2
+  },
+  {
+   "text": "Stal",
+   "conf": 0.43
+  },
+  {
+   "text": "Due:",
+   "conf": 0.95
+  },
+  {
+   "text": "99.83",
+   "conf": 0.93
+  },
+  {
+   "text": "TOK69.95",
+   "conf": 0.0
+  },
+  {
+   "text": "153-814.02",
+   "conf": 0.16
+  },
+  {
+   "text": "axes.",
+   "conf": 0.0
+  },
+  {
+   "text": "7",
+   "conf": 0.07
+  },
+  {
+   "text": "Sioested",
+   "conf": 0.0
+  },
+  {
+   "text": "tip",
+   "conf": 0.42
+  },
+  {
+   "text": "7?",
+   "conf": 0.37
+  },
+  {
+   "text": "HOW",
+   "conf": 0.69
+  },
+  {
+   "text": "AE",
+   "conf": 0.64
+  },
+  {
+   "text": "VE",
+   "conf": 0.7
+  },
+  {
+   "text": "Donna",
+   "conf": 0.21
+  },
+  {
+   "text": "Ve",
+   "conf": 0.52
+  },
+  {
+   "text": "YAUE",
+   "conf": 0.39
+  },
+  {
+   "text": "You",
+   "conf": 0.66
+  },
+  {
+   "text": "cenoys:",
+   "conf": 0.0
+  },
+  {
+   "text": "Please",
+   "conf": 0.24
+  },
+  {
+   "text": "00",
+   "conf": 0.72
+  },
+  {
+   "text": "0.",
+   "conf": 0.52
+  },
+  {
+   "text": "Ww.",
+   "conf": 0.47
+  },
+  {
+   "text": "Santana",
+   "conf": 0.17
+  },
+  {
+   "text": "eos",
+   "conf": 0.23
+  },
+  {
+   "text": "LS",
+   "conf": 0.0
+  },
+  {
+   "text": "iatbok",
+   "conf": 0.0
+  },
+  {
+   "text": "vir",
+   "conf": 0.5
+  },
+  {
+   "text": "die",
+   "conf": 0.28
+  }
+ ],
+ "mean_conf": 0.4618,
+ "low_conf_share": 0.5077,
+ "latency_ms": 397,
+ "fields": {
+  "company": "SANTA FE MEXICAN",
+  "date": "2016-07-24",
+  "total": 814.02
+ },
+ "rule_reasons": [
+  "total_no_keyword_fallback_max"
+ ],
+ "total_candidates": [
+  34.5,
+  99.83,
+  69.95,
+  814.02
+ ],
+ "key": "W0010_4904bfb4212c"
+}

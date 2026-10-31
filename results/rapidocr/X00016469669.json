@@ -1,0 +1,175 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "tan chay yee",
+  "ABCHOTRADING",
+  "No.2&4,JALANHARMONI3/2",
+  "TAMANDESAHARMONI.",
+  "81100JOHORBAHRU.JOHOR",
+  "07-3552616",
+  "Cash Bill 01-143008",
+  "Date 09/01/20198:01:11PM",
+  "Cashier 01",
+  "Description Qty Price Amount",
+  "RM RM",
+  "Plastic 2 15.50 31.00",
+  "Total: 31.00",
+  "TotalAmount: 31.00",
+  "CashReceived 101.00",
+  "Change: 70.00",
+  "*GoodsSold arenon-refundable",
+  "***ThankYou 31-00",
+  "k**please Come Again***"
+ ],
+ "tokens": [
+  {
+   "text": "tan chay yee",
+   "conf": 0.9947962909936905
+  },
+  {
+   "text": "ABCHOTRADING",
+   "conf": 0.993013322353363
+  },
+  {
+   "text": "No.2&4,JALANHARMONI3/2",
+   "conf": 0.9239581227302551
+  },
+  {
+   "text": "TAMANDESAHARMONI.",
+   "conf": 0.9801381230354309
+  },
+  {
+   "text": "81100JOHORBAHRU.JOHOR",
+   "conf": 0.9630921993936811
+  },
+  {
+   "text": "07-3552616",
+   "conf": 0.9979521691799164
+  },
+  {
+   "text": "Cash Bill",
+   "conf": 0.8928991821077135
+  },
+  {
+   "text": "01-143008",
+   "conf": 0.9922700789239671
+  },
+  {
+   "text": "Date",
+   "conf": 0.992574006319046
+  },
+  {
+   "text": "09/01/20198:01:11PM",
+   "conf": 0.983777708128879
+  },
+  {
+   "text": "Cashier",
+   "conf": 0.9914845739092145
+  },
+  {
+   "text": "01",
+   "conf": 0.9899432361125946
+  },
+  {
+   "text": "Description",
+   "conf": 0.9933050058104775
+  },
+  {
+   "text": "Qty",
+   "conf": 0.985819141070048
+  },
+  {
+   "text": "Price",
+   "conf": 0.9880653381347656
+  },
+  {
+   "text": "Amount",
+   "conf": 0.9922165870666504
+  },
+  {
+   "text": "RM",
+   "conf": 0.9919077754020691
+  },
+  {
+   "text": "RM",
+   "conf": 0.9923059046268463
+  },
+  {
+   "text": "Plastic",
+   "conf": 0.9690004502023969
+  },
+  {
+   "text": "2",
+   "conf": 0.9994581341743469
+  },
+  {
+   "text": "15.50",
+   "conf": 0.9971279621124267
+  },
+  {
+   "text": "31.00",
+   "conf": 0.9982353210449219
+  },
+  {
+   "text": "Total:",
+   "conf": 0.9755358894666036
+  },
+  {
+   "text": "31.00",
+   "conf": 0.9216892838478088
+  },
+  {
+   "text": "TotalAmount:",
+   "conf": 0.9882563104232153
+  },
+  {
+   "text": "31.00",
+   "conf": 0.9975201606750488
+  },
+  {
+   "text": "CashReceived",
+   "conf": 0.9909055481354395
+  },
+  {
+   "text": "101.00",
+   "conf": 0.9951771299044291
+  },
+  {
+   "text": "Change:",
+   "conf": 0.9865232620920453
+  },
+  {
+   "text": "70.00",
+   "conf": 0.9987581372261047
+  },
+  {
+   "text": "*GoodsSold arenon-refundable",
+   "conf": 0.9465987426894051
+  },
+  {
+   "text": "***ThankYou",
+   "conf": 0.907183213667436
+  },
+  {
+   "text": "31-00",
+   "conf": 0.8636918544769288
+  },
+  {
+   "text": "k**please Come Again***",
+   "conf": 0.9147576689720154
+  }
+ ],
+ "mean_conf": 0.9732,
+ "low_conf_share": 0.0,
+ "latency_ms": 3144,
+ "fields": {
+  "company": "TAN CHAY YEE",
+  "date": "2019-01-09",
+  "total": 31.0
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  31.0
+ ],
+ "key": "X00016469669"
+}

@@ -1,0 +1,207 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "MR.D.I.Y.（M)SDNBHD",
+  "（CO.REG:860671-D)",
+  "L0T1851-A&1851-B,JALANKPB6,",
+  "KAWASAN PERINDUSTRIAN BALAKONG,",
+  "43300 SERI KEMBANGAN,SELANGOR",
+  "(GST ID N0 :000306020352)",
+  "(IOI PUCHONG)",
+  "-TAX INVOICE-",
+  "QUEENBEDSHEET SET190*152+25*VS S*",
+  "9034110 JH51/3-63-10 PERI0D 0FFER-19% 1X43.00 43.00 -8.00",
+  "***35.00Nett",
+  "CYLINDERL0CK AGASS-587AB *S",
+  "LG12-24 9073910 1X13.90 13.90",
+  "Item(s) :2 Qty(s) : 2",
+  "Total Incl.GST@6% RM 48.90",
+  "CASH RM100.00 RM 51.10",
+  "CHANGE",
+  "GST @6% included in total RM 2.77 -一*",
+  "21-04-18 20:29 SH01 ZJ86 *一 T1 R000118476",
+  "OPERATOR TRAINEE CASHIER",
+  "EXCHANGE ARE ALLOWED WITHIN",
+  "7 DAY WITH RECEIPT.",
+  "STRICTLY NO CASH REFUND."
+ ],
+ "tokens": [
+  {
+   "text": "MR.D.I.Y.（M)SDNBHD",
+   "conf": 0.9350343346595764
+  },
+  {
+   "text": "（CO.REG:860671-D)",
+   "conf": 0.936925561989055
+  },
+  {
+   "text": "L0T1851-A&1851-B,JALANKPB6,",
+   "conf": 0.9511364919167978
+  },
+  {
+   "text": "KAWASAN PERINDUSTRIAN BALAKONG,",
+   "conf": 0.9572796590866581
+  },
+  {
+   "text": "43300 SERI KEMBANGAN,SELANGOR",
+   "conf": 0.9278812840067107
+  },
+  {
+   "text": "(GST ID N0 :000306020352)",
+   "conf": 0.883425190448761
+  },
+  {
+   "text": "(IOI PUCHONG)",
+   "conf": 0.9072543107546293
+  },
+  {
+   "text": "-TAX INVOICE-",
+   "conf": 0.9520061337030851
+  },
+  {
+   "text": "S*",
+   "conf": 0.8950451016426086
+  },
+  {
+   "text": "QUEENBEDSHEET SET190*152+25*VS",
+   "conf": 0.9750133117039999
+  },
+  {
+   "text": "JH51/3-63-10",
+   "conf": 0.994691198070844
+  },
+  {
+   "text": "1X43.00",
+   "conf": 0.9844140154974801
+  },
+  {
+   "text": "43.00",
+   "conf": 0.9987442493438721
+  },
+  {
+   "text": "9034110",
+   "conf": 0.998894853251321
+  },
+  {
+   "text": "-8.00",
+   "conf": 0.9981374502182007
+  },
+  {
+   "text": "PERI0D 0FFER-19%",
+   "conf": 0.94553517177701
+  },
+  {
+   "text": "***35.00Nett",
+   "conf": 0.9890959560871124
+  },
+  {
+   "text": "*S",
+   "conf": 0.9263525009155273
+  },
+  {
+   "text": "CYLINDERL0CK AGASS-587AB",
+   "conf": 0.9620940461754799
+  },
+  {
+   "text": "LG12-24",
+   "conf": 0.992890545300075
+  },
+  {
+   "text": "1X13.90",
+   "conf": 0.9642229846545628
+  },
+  {
+   "text": "13.90",
+   "conf": 0.9993668913841247
+  },
+  {
+   "text": "9073910",
+   "conf": 0.9985758236476353
+  },
+  {
+   "text": "Qty(s) : 2",
+   "conf": 0.8681439757347107
+  },
+  {
+   "text": "Item(s) :2",
+   "conf": 0.8830589652061462
+  },
+  {
+   "text": "RM 48.90",
+   "conf": 0.9550842419266701
+  },
+  {
+   "text": "Total Incl.GST@6%",
+   "conf": 0.9367176294326782
+  },
+  {
+   "text": "RM100.00",
+   "conf": 0.9983261004090309
+  },
+  {
+   "text": "CASH",
+   "conf": 0.9949317127466202
+  },
+  {
+   "text": "RM 51.10",
+   "conf": 0.9422905147075653
+  },
+  {
+   "text": "CHANGE",
+   "conf": 0.9806042611598969
+  },
+  {
+   "text": "RM 2.77",
+   "conf": 0.9981948477881295
+  },
+  {
+   "text": "GST @6% included in total",
+   "conf": 0.9773018765449524
+  },
+  {
+   "text": "-一*",
+   "conf": 0.6531011362870535
+  },
+  {
+   "text": "*一",
+   "conf": 0.8695749938488007
+  },
+  {
+   "text": "T1 R000118476",
+   "conf": 0.9664663764146658
+  },
+  {
+   "text": "21-04-18 20:29 SH01 ZJ86",
+   "conf": 0.9548235535621643
+  },
+  {
+   "text": "OPERATOR TRAINEE CASHIER",
+   "conf": 0.9729535654187202
+  },
+  {
+   "text": "EXCHANGE ARE ALLOWED WITHIN",
+   "conf": 0.968242934456578
+  },
+  {
+   "text": "7 DAY WITH RECEIPT.",
+   "conf": 0.9531995716847872
+  },
+  {
+   "text": "STRICTLY NO CASH REFUND.",
+   "conf": 0.9350703383485476
+  }
+ ],
+ "mean_conf": 0.9483,
+ "low_conf_share": 0.0,
+ "latency_ms": 3516,
+ "fields": {
+  "company": "MR D I Y M SDNBHD",
+  "date": "2018-04-21",
+  "total": 48.9
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  48.9
+ ],
+ "key": "X51007103649"
+}

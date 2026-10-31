@@ -1,0 +1,144 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "99SFEED MART 5/9(519S37-X)",
+  "LOTP.T,33198,BATU4",
+  "JALAN KAPAR,MUKIN KAPAR",
+  "42100 KLANG,SELANGOR",
+  "1174-PERMATA NAGNA",
+  "G5T10.N0:000181747717",
+  "INV010E NO:17698/103/T0184",
+  "09:2BPK 560811 91-90-0",
+  "9178 GARDENIA SOUIGGLES CHO RM2.10",
+  "2XR1.05",
+  "Total Sales (Inclusive GST) RN 2.10",
+  "CASH RN 5.10",
+  "CHANGE RN 3.00",
+  "GST Summary AmoUnt(RN) Tax(RN)",
+  "S=67 1.98",
+  "Thank You, Please come again",
+  "Keep the invoice for applicable returnis"
+ ],
+ "tokens": [
+  {
+   "text": "99SFEED MART 5/9(519S37-X)",
+   "conf": 0.8159989852171677
+  },
+  {
+   "text": "LOTP.T,33198,BATU4",
+   "conf": 0.8975835657782025
+  },
+  {
+   "text": "JALAN KAPAR,MUKIN KAPAR",
+   "conf": 0.8855614791745725
+  },
+  {
+   "text": "42100 KLANG,SELANGOR",
+   "conf": 0.9368079632520676
+  },
+  {
+   "text": "1174-PERMATA NAGNA",
+   "conf": 0.9175404277112749
+  },
+  {
+   "text": "G5T10.N0:000181747717",
+   "conf": 0.931928120908283
+  },
+  {
+   "text": "INV010E NO:17698/103/T0184",
+   "conf": 0.9004383247632247
+  },
+  {
+   "text": "09:2BPK",
+   "conf": 0.8137774084295545
+  },
+  {
+   "text": "560811",
+   "conf": 0.9954608778158823
+  },
+  {
+   "text": "91-90-0",
+   "conf": 0.9666480592318943
+  },
+  {
+   "text": "9178 GARDENIA SOUIGGLES CHO",
+   "conf": 0.925909901106799
+  },
+  {
+   "text": "RM2.10",
+   "conf": 0.8628678073485693
+  },
+  {
+   "text": "2XR1.05",
+   "conf": 0.8432294981820243
+  },
+  {
+   "text": "Total Sales (Inclusive GST) RN",
+   "conf": 0.8783121436834336
+  },
+  {
+   "text": "2.10",
+   "conf": 0.9692659378051758
+  },
+  {
+   "text": "CASH RN",
+   "conf": 0.8208178452083043
+  },
+  {
+   "text": "5.10",
+   "conf": 0.9834544211626053
+  },
+  {
+   "text": "CHANGE RN",
+   "conf": 0.9627538058492873
+  },
+  {
+   "text": "3.00",
+   "conf": 0.9673546999692917
+  },
+  {
+   "text": "GST Summary",
+   "conf": 0.8500681980089708
+  },
+  {
+   "text": "AmoUnt(RN)",
+   "conf": 0.7335949927568436
+  },
+  {
+   "text": "Tax(RN)",
+   "conf": 0.8663604089191982
+  },
+  {
+   "text": "S=67",
+   "conf": 0.5288339108228683
+  },
+  {
+   "text": "1.98",
+   "conf": 0.9893314093351364
+  },
+  {
+   "text": "Thank You, Please come again",
+   "conf": 0.9440017747027534
+  },
+  {
+   "text": "Keep the invoice for applicable returnis",
+   "conf": 0.9280795022845268
+  }
+ ],
+ "mean_conf": 0.8891,
+ "low_conf_share": 0.0,
+ "latency_ms": 3765,
+ "fields": {
+  "company": null,
+  "date": null,
+  "total": 2.1
+ },
+ "rule_reasons": [
+  "company_not_found",
+  "date_not_found"
+ ],
+ "total_candidates": [
+  2.1
+ ],
+ "key": "X51006619854"
+}

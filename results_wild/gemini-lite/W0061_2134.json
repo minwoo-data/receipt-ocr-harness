@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.1-flash-lite",
+ "provider": "gemini",
+ "raw_text": "{\n  \"vendor\": \"Pizza Hut Restaurants Sdn Bhd\",\n  \"date\": \"2009-07-27\",\n  \"subtotal\": 39.0,\n  \"tax\": 1.95,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 42.95,\n  \"currency\": \"MYR\",\n  \"confidence\": 0.95,\n  \"notes\": \"Delivery charge of 2.00 is included in the total calculation.\"\n}",
+ "data": {
+  "vendor": "Pizza Hut Restaurants Sdn Bhd",
+  "date": "2009-07-27",
+  "subtotal": 39.0,
+  "tax": 1.95,
+  "tip": null,
+  "discount": null,
+  "total": 42.95,
+  "currency": "MYR",
+  "confidence": 0.95,
+  "notes": "Delivery charge of 2.00 is included in the total calculation."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1433,
+  "output_tokens": 122,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.000541,
+ "latency_ms": 1738,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.1-flash-lite",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.1-flash-lite"
+ ],
+ "key": "W0061_2134"
+}

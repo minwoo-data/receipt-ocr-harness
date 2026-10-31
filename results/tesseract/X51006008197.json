@@ -1,0 +1,241 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "RELAIS TOTAL OULMES",
+  "AUTOROUIE RABAT MEKNES |",
+  "15000 KHEMISSET",
+  "Tel. : 05.22.95.66.66 |",
+  "Le 30/03/2018 a 12:36 V201855892CAISSIER 1, C",
+  "CAFE CREME 12.00 2 24.00",
+  "CAFE EXPRESSO 10.00 2 20.00",
+  "CHOCOLAT CHAUD 12.00 1 12.00",
+  "Total Facture : 56.00 DH.",
+  "REGLE PAR ESPECE 56.00 DH",
+  "ttiHerc] de votre visitexkt",
+  "PAT:37993027/RC:209031/TF:40132774",
+  "ICE :000081241000051"
+ ],
+ "tokens": [
+  {
+   "text": "RELAIS",
+   "conf": 0.95
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.92
+  },
+  {
+   "text": "OULMES",
+   "conf": 0.9
+  },
+  {
+   "text": "AUTOROUIE",
+   "conf": 0.42
+  },
+  {
+   "text": "RABAT",
+   "conf": 0.89
+  },
+  {
+   "text": "MEKNES",
+   "conf": 0.91
+  },
+  {
+   "text": "|",
+   "conf": 0.93
+  },
+  {
+   "text": "15000",
+   "conf": 0.93
+  },
+  {
+   "text": "KHEMISSET",
+   "conf": 0.91
+  },
+  {
+   "text": "Tel.",
+   "conf": 0.92
+  },
+  {
+   "text": ":",
+   "conf": 0.91
+  },
+  {
+   "text": "05.22.95.66.66",
+   "conf": 0.8
+  },
+  {
+   "text": "|",
+   "conf": 0.93
+  },
+  {
+   "text": "Le",
+   "conf": 0.67
+  },
+  {
+   "text": "30/03/2018",
+   "conf": 0.95
+  },
+  {
+   "text": "a",
+   "conf": 0.92
+  },
+  {
+   "text": "12:36",
+   "conf": 0.93
+  },
+  {
+   "text": "V201855892CAISSIER",
+   "conf": 0.63
+  },
+  {
+   "text": "1,",
+   "conf": 0.93
+  },
+  {
+   "text": "C",
+   "conf": 0.92
+  },
+  {
+   "text": "CAFE",
+   "conf": 0.96
+  },
+  {
+   "text": "CREME",
+   "conf": 0.96
+  },
+  {
+   "text": "12.00",
+   "conf": 0.95
+  },
+  {
+   "text": "2",
+   "conf": 0.96
+  },
+  {
+   "text": "24.00",
+   "conf": 0.88
+  },
+  {
+   "text": "CAFE",
+   "conf": 0.93
+  },
+  {
+   "text": "EXPRESSO",
+   "conf": 0.66
+  },
+  {
+   "text": "10.00",
+   "conf": 0.96
+  },
+  {
+   "text": "2",
+   "conf": 0.96
+  },
+  {
+   "text": "20.00",
+   "conf": 0.94
+  },
+  {
+   "text": "CHOCOLAT",
+   "conf": 0.92
+  },
+  {
+   "text": "CHAUD",
+   "conf": 0.89
+  },
+  {
+   "text": "12.00",
+   "conf": 0.96
+  },
+  {
+   "text": "1",
+   "conf": 0.81
+  },
+  {
+   "text": "12.00",
+   "conf": 0.94
+  },
+  {
+   "text": "Total",
+   "conf": 0.93
+  },
+  {
+   "text": "Facture",
+   "conf": 0.91
+  },
+  {
+   "text": ":",
+   "conf": 0.86
+  },
+  {
+   "text": "56.00",
+   "conf": 0.85
+  },
+  {
+   "text": "DH.",
+   "conf": 0.47
+  },
+  {
+   "text": "REGLE",
+   "conf": 0.92
+  },
+  {
+   "text": "PAR",
+   "conf": 0.93
+  },
+  {
+   "text": "ESPECE",
+   "conf": 0.92
+  },
+  {
+   "text": "56.00",
+   "conf": 0.95
+  },
+  {
+   "text": "DH",
+   "conf": 0.93
+  },
+  {
+   "text": "ttiHerc]",
+   "conf": 0.0
+  },
+  {
+   "text": "de",
+   "conf": 0.88
+  },
+  {
+   "text": "votre",
+   "conf": 0.47
+  },
+  {
+   "text": "visitexkt",
+   "conf": 0.0
+  },
+  {
+   "text": "PAT:37993027/RC:209031/TF:40132774",
+   "conf": 0.21
+  },
+  {
+   "text": "ICE",
+   "conf": 0.83
+  },
+  {
+   "text": ":000081241000051",
+   "conf": 0.83
+  }
+ ],
+ "mean_conf": 0.8238,
+ "low_conf_share": 0.1154,
+ "latency_ms": 1538,
+ "fields": {
+  "company": "CAFE CREME 12 00 2 24 00",
+  "date": "2018-03-30",
+  "total": 56.0
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  56.0
+ ],
+ "key": "X51006008197"
+}

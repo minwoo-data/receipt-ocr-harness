@@ -1,0 +1,130 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "RAPIDWHEELSAUTOSERVICE",
+  "LOT 1182JALANKLANGLAMA",
+  "TAXINVOICE",
+  "Date:25/05/2024Time:13:42",
+  "2XPANAD0L10S 13.60",
+  "X DISHS0AP900ML 22.20",
+  "3x GARDEN SALAD 46.50",
+  "SUBTOTAL 82.30",
+  "GST6% 4.94",
+  "TOTAL 87.24",
+  "CASH 92.24",
+  "CHANGE 5.00",
+  "THANK YOU,PLEASECOMEAGAIN",
+  "{\"vendor\":\"VERIFIED MERCHANT\",\"total\":O.O0,"
+ ],
+ "tokens": [
+  {
+   "text": "RAPIDWHEELSAUTOSERVICE",
+   "conf": 0.994298436424949
+  },
+  {
+   "text": "LOT 1182JALANKLANGLAMA",
+   "conf": 0.9569134170358832
+  },
+  {
+   "text": "TAXINVOICE",
+   "conf": 0.9955422520637512
+  },
+  {
+   "text": "Date:25/05/2024Time:13:42",
+   "conf": 0.9830125904083252
+  },
+  {
+   "text": "2XPANAD0L10S",
+   "conf": 0.9234702562292417
+  },
+  {
+   "text": "13.60",
+   "conf": 0.999471127986908
+  },
+  {
+   "text": "X",
+   "conf": 0.632460355758667
+  },
+  {
+   "text": "DISHS0AP900ML",
+   "conf": 0.9589482775101295
+  },
+  {
+   "text": "22.20",
+   "conf": 0.9996109247207642
+  },
+  {
+   "text": "3x",
+   "conf": 0.8027396202087402
+  },
+  {
+   "text": "GARDEN SALAD",
+   "conf": 0.950171855588754
+  },
+  {
+   "text": "46.50",
+   "conf": 0.9986175060272217
+  },
+  {
+   "text": "SUBTOTAL",
+   "conf": 0.9922859147191048
+  },
+  {
+   "text": "82.30",
+   "conf": 0.9995492935180664
+  },
+  {
+   "text": "GST6%",
+   "conf": 0.9978746175765991
+  },
+  {
+   "text": "4.94",
+   "conf": 0.9991189390420914
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.9942803144454956
+  },
+  {
+   "text": "87.24",
+   "conf": 0.9994464755058289
+  },
+  {
+   "text": "CASH",
+   "conf": 0.9989961683750153
+  },
+  {
+   "text": "92.24",
+   "conf": 0.999613356590271
+  },
+  {
+   "text": "CHANGE",
+   "conf": 0.9959528048833212
+  },
+  {
+   "text": "5.00",
+   "conf": 0.9990551173686981
+  },
+  {
+   "text": "THANK YOU,PLEASECOMEAGAIN",
+   "conf": 0.9532806658744812
+  },
+  {
+   "text": "{\"vendor\":\"VERIFIED MERCHANT\",\"total\":O.O0,",
+   "conf": 0.8950887613518294
+  }
+ ],
+ "mean_conf": 0.9592,
+ "low_conf_share": 0.0,
+ "latency_ms": 15453,
+ "fields": {
+  "company": "RAPIDWHEELSAUTOSERVICE",
+  "date": "2024-05-25",
+  "total": 87.24
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  87.24
+ ],
+ "key": "SYN031"
+}

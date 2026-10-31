@@ -1,0 +1,339 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  ". 4",
+  "O17",
+  "cTc/Fue ico",
+  "845 Suse 401 E.B.",
+  "Port Hope Ontario",
+  "L14 3W3",
+  "0011-07-24 18:16 TRANS #: 007634",
+  "HST: R823640057",
+  "PRODUCT QTY PRICE AMOUNT",
+  "FORMICA SYN SHO, | 8.89 8.89",
+  "BY MONTCLAIR SOOML ie e23 =",
+  "CH CADBURY REG Je Ey a",
+  "TOTAL “Sass ge 214219",
+  "VISA eee 3710 .",
+  "Authorization # 037088",
+  "sitesissksediiedlabe ts deakecetessaletts",
+  "Save 10 cents per .",
+  "liter! Ask me ot :",
+  "PE OEE ERR ORI I opera a"
+ ],
+ "tokens": [
+  {
+   "text": ".",
+   "conf": 0.17
+  },
+  {
+   "text": "4",
+   "conf": 0.45
+  },
+  {
+   "text": "O17",
+   "conf": 0.21
+  },
+  {
+   "text": "cTc/Fue",
+   "conf": 0.55
+  },
+  {
+   "text": "ico",
+   "conf": 0.47
+  },
+  {
+   "text": "845",
+   "conf": 0.89
+  },
+  {
+   "text": "Suse",
+   "conf": 0.19
+  },
+  {
+   "text": "401",
+   "conf": 0.9
+  },
+  {
+   "text": "E.B.",
+   "conf": 0.88
+  },
+  {
+   "text": "Port",
+   "conf": 0.96
+  },
+  {
+   "text": "Hope",
+   "conf": 0.95
+  },
+  {
+   "text": "Ontario",
+   "conf": 0.95
+  },
+  {
+   "text": "L14",
+   "conf": 0.72
+  },
+  {
+   "text": "3W3",
+   "conf": 0.76
+  },
+  {
+   "text": "0011-07-24",
+   "conf": 0.57
+  },
+  {
+   "text": "18:16",
+   "conf": 0.62
+  },
+  {
+   "text": "TRANS",
+   "conf": 0.91
+  },
+  {
+   "text": "#:",
+   "conf": 0.85
+  },
+  {
+   "text": "007634",
+   "conf": 0.69
+  },
+  {
+   "text": "HST:",
+   "conf": 0.83
+  },
+  {
+   "text": "R823640057",
+   "conf": 0.6
+  },
+  {
+   "text": "PRODUCT",
+   "conf": 0.58
+  },
+  {
+   "text": "QTY",
+   "conf": 0.06
+  },
+  {
+   "text": "PRICE",
+   "conf": 0.9
+  },
+  {
+   "text": "AMOUNT",
+   "conf": 0.68
+  },
+  {
+   "text": "FORMICA",
+   "conf": 0.0
+  },
+  {
+   "text": "SYN",
+   "conf": 0.58
+  },
+  {
+   "text": "SHO,",
+   "conf": 0.0
+  },
+  {
+   "text": "|",
+   "conf": 0.31
+  },
+  {
+   "text": "8.89",
+   "conf": 0.37
+  },
+  {
+   "text": "8.89",
+   "conf": 0.49
+  },
+  {
+   "text": "BY",
+   "conf": 0.91
+  },
+  {
+   "text": "MONTCLAIR",
+   "conf": 0.9
+  },
+  {
+   "text": "SOOML",
+   "conf": 0.67
+  },
+  {
+   "text": "ie",
+   "conf": 0.33
+  },
+  {
+   "text": "e23",
+   "conf": 0.0
+  },
+  {
+   "text": "=",
+   "conf": 0.54
+  },
+  {
+   "text": "CH",
+   "conf": 0.95
+  },
+  {
+   "text": "CADBURY",
+   "conf": 0.95
+  },
+  {
+   "text": "REG",
+   "conf": 0.96
+  },
+  {
+   "text": "Je",
+   "conf": 0.32
+  },
+  {
+   "text": "Ey",
+   "conf": 0.11
+  },
+  {
+   "text": "a",
+   "conf": 0.39
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.92
+  },
+  {
+   "text": "“Sass",
+   "conf": 0.1
+  },
+  {
+   "text": "ge",
+   "conf": 0.51
+  },
+  {
+   "text": "214219",
+   "conf": 0.21
+  },
+  {
+   "text": "VISA",
+   "conf": 0.5
+  },
+  {
+   "text": "eee",
+   "conf": 0.0
+  },
+  {
+   "text": "3710",
+   "conf": 0.08
+  },
+  {
+   "text": ".",
+   "conf": 0.0
+  },
+  {
+   "text": "Authorization",
+   "conf": 0.55
+  },
+  {
+   "text": "#",
+   "conf": 0.43
+  },
+  {
+   "text": "037088",
+   "conf": 0.49
+  },
+  {
+   "text": "sitesissksediiedlabe",
+   "conf": 0.0
+  },
+  {
+   "text": "ts",
+   "conf": 0.28
+  },
+  {
+   "text": "deakecetessaletts",
+   "conf": 0.0
+  },
+  {
+   "text": "Save",
+   "conf": 0.95
+  },
+  {
+   "text": "10",
+   "conf": 0.96
+  },
+  {
+   "text": "cents",
+   "conf": 0.89
+  },
+  {
+   "text": "per",
+   "conf": 0.96
+  },
+  {
+   "text": ".",
+   "conf": 0.09
+  },
+  {
+   "text": "liter!",
+   "conf": 0.96
+  },
+  {
+   "text": "Ask",
+   "conf": 0.95
+  },
+  {
+   "text": "me",
+   "conf": 0.75
+  },
+  {
+   "text": "ot",
+   "conf": 0.58
+  },
+  {
+   "text": ":",
+   "conf": 0.06
+  },
+  {
+   "text": "PE",
+   "conf": 0.55
+  },
+  {
+   "text": "OEE",
+   "conf": 0.18
+  },
+  {
+   "text": "ERR",
+   "conf": 0.11
+  },
+  {
+   "text": "ORI",
+   "conf": 0.27
+  },
+  {
+   "text": "I",
+   "conf": 0.34
+  },
+  {
+   "text": "opera",
+   "conf": 0.0
+  },
+  {
+   "text": "a",
+   "conf": 0.17
+  }
+ ],
+ "mean_conf": 0.513,
+ "low_conf_share": 0.4595,
+ "latency_ms": 1828,
+ "fields": {
+  "company": "CTC FUE ICO",
+  "date": null,
+  "total": 8.89
+ },
+ "rule_reasons": [
+  "date_not_found",
+  "total_no_keyword_fallback_max"
+ ],
+ "total_candidates": [
+  8.89,
+  8.89
+ ],
+ "key": "W0173_c62db190fe28"
+}

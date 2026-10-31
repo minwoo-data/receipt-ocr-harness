@@ -1,0 +1,199 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "MEXTCAN FOOD |",
+  "2525 £1 CAMINO REAL",
+  "REDMOND CITY, CA 94031",
+  "(650) 216-9206",
+  "| ‘ REGT",
+  "RES CASHIER 09-16-2015 010018",
+  "1) REGULAR BunRETO 6,2",
+  "POLLO ASAND i",
+  "to",
+  "EVERTHING",
+  "ORD# 66",
+  "ty GO",
+  "ee $6.25",
+  "TOTAL 40,56",
+  "CREDIT $6.81",
+  "$6.8)"
+ ],
+ "tokens": [
+  {
+   "text": "MEXTCAN",
+   "conf": 0.88
+  },
+  {
+   "text": "FOOD",
+   "conf": 0.94
+  },
+  {
+   "text": "|",
+   "conf": 0.62
+  },
+  {
+   "text": "2525",
+   "conf": 0.82
+  },
+  {
+   "text": "£1",
+   "conf": 0.07
+  },
+  {
+   "text": "CAMINO",
+   "conf": 0.68
+  },
+  {
+   "text": "REAL",
+   "conf": 0.94
+  },
+  {
+   "text": "REDMOND",
+   "conf": 0.31
+  },
+  {
+   "text": "CITY,",
+   "conf": 0.65
+  },
+  {
+   "text": "CA",
+   "conf": 0.3
+  },
+  {
+   "text": "94031",
+   "conf": 0.3
+  },
+  {
+   "text": "(650)",
+   "conf": 0.92
+  },
+  {
+   "text": "216-9206",
+   "conf": 0.94
+  },
+  {
+   "text": "|",
+   "conf": 0.87
+  },
+  {
+   "text": "‘",
+   "conf": 0.19
+  },
+  {
+   "text": "REGT",
+   "conf": 0.2
+  },
+  {
+   "text": "RES",
+   "conf": 0.76
+  },
+  {
+   "text": "CASHIER",
+   "conf": 0.7
+  },
+  {
+   "text": "09-16-2015",
+   "conf": 0.62
+  },
+  {
+   "text": "010018",
+   "conf": 0.63
+  },
+  {
+   "text": "1)",
+   "conf": 0.42
+  },
+  {
+   "text": "REGULAR",
+   "conf": 0.56
+  },
+  {
+   "text": "BunRETO",
+   "conf": 0.0
+  },
+  {
+   "text": "6,2",
+   "conf": 0.39
+  },
+  {
+   "text": "POLLO",
+   "conf": 0.74
+  },
+  {
+   "text": "ASAND",
+   "conf": 0.0
+  },
+  {
+   "text": "i",
+   "conf": 0.64
+  },
+  {
+   "text": "to",
+   "conf": 0.35
+  },
+  {
+   "text": "EVERTHING",
+   "conf": 0.39
+  },
+  {
+   "text": "ORD#",
+   "conf": 0.79
+  },
+  {
+   "text": "66",
+   "conf": 0.91
+  },
+  {
+   "text": "ty",
+   "conf": 0.27
+  },
+  {
+   "text": "GO",
+   "conf": 0.4
+  },
+  {
+   "text": "ee",
+   "conf": 0.58
+  },
+  {
+   "text": "$6.25",
+   "conf": 0.56
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.93
+  },
+  {
+   "text": "40,56",
+   "conf": 0.71
+  },
+  {
+   "text": "CREDIT",
+   "conf": 0.83
+  },
+  {
+   "text": "$6.81",
+   "conf": 0.76
+  },
+  {
+   "text": "$6.8)",
+   "conf": 0.71
+  }
+ ],
+ "mean_conf": 0.582,
+ "low_conf_share": 0.35,
+ "latency_ms": 227,
+ "fields": {
+  "company": "MEXTCAN FOOD",
+  "date": "2015-09-16",
+  "total": 6.81
+ },
+ "rule_reasons": [
+  "total_no_keyword_fallback_max"
+ ],
+ "total_candidates": [
+  6.25,
+  6.81
+ ],
+ "key": "W0167_3810"
+}

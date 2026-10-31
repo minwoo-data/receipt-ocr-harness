@@ -1,0 +1,270 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "cevraL TERMINAL BUILDING, SEES 44",
+  "TAGUARDIA AIRPORT",
+  "FLUSHING, NY 17371",
+  "(P) 718-305-0565",
+  "7/22/2017 GUYS PM",
+  "Order Number: 868604",
+  "eR REFUND RE",
+  "= LTL FRY 3.19",
+  "-1 10% Airport/Mal1 (0.32)",
+  "Sub. Total: ($2.87)",
+  "Tax: ($0.26)",
+  "Total ; ($3.13)",
+  "Discount Total: $0.32",
+  "Visa: $3",
+  ": Change ‘ ret",
+  "egister :2 Tran Seq No: 86860",
+  "CaenlerFabiola C. q No: 868604",
+  "Visa"
+ ],
+ "tokens": [
+  {
+   "text": "cevraL",
+   "conf": 0.0
+  },
+  {
+   "text": "TERMINAL",
+   "conf": 0.41
+  },
+  {
+   "text": "BUILDING,",
+   "conf": 0.85
+  },
+  {
+   "text": "SEES",
+   "conf": 0.36
+  },
+  {
+   "text": "44",
+   "conf": 0.42
+  },
+  {
+   "text": "TAGUARDIA",
+   "conf": 0.46
+  },
+  {
+   "text": "AIRPORT",
+   "conf": 0.52
+  },
+  {
+   "text": "FLUSHING,",
+   "conf": 0.81
+  },
+  {
+   "text": "NY",
+   "conf": 0.87
+  },
+  {
+   "text": "17371",
+   "conf": 0.7
+  },
+  {
+   "text": "(P)",
+   "conf": 0.85
+  },
+  {
+   "text": "718-305-0565",
+   "conf": 0.85
+  },
+  {
+   "text": "7/22/2017",
+   "conf": 0.77
+  },
+  {
+   "text": "GUYS",
+   "conf": 0.42
+  },
+  {
+   "text": "PM",
+   "conf": 0.68
+  },
+  {
+   "text": "Order",
+   "conf": 0.96
+  },
+  {
+   "text": "Number:",
+   "conf": 0.94
+  },
+  {
+   "text": "868604",
+   "conf": 0.5
+  },
+  {
+   "text": "eR",
+   "conf": 0.27
+  },
+  {
+   "text": "REFUND",
+   "conf": 0.3
+  },
+  {
+   "text": "RE",
+   "conf": 0.36
+  },
+  {
+   "text": "=",
+   "conf": 0.3
+  },
+  {
+   "text": "LTL",
+   "conf": 0.84
+  },
+  {
+   "text": "FRY",
+   "conf": 0.94
+  },
+  {
+   "text": "3.19",
+   "conf": 0.33
+  },
+  {
+   "text": "-1",
+   "conf": 0.88
+  },
+  {
+   "text": "10%",
+   "conf": 0.9
+  },
+  {
+   "text": "Airport/Mal1",
+   "conf": 0.0
+  },
+  {
+   "text": "(0.32)",
+   "conf": 0.94
+  },
+  {
+   "text": "Sub.",
+   "conf": 0.95
+  },
+  {
+   "text": "Total:",
+   "conf": 0.96
+  },
+  {
+   "text": "($2.87)",
+   "conf": 0.94
+  },
+  {
+   "text": "Tax:",
+   "conf": 0.96
+  },
+  {
+   "text": "($0.26)",
+   "conf": 0.96
+  },
+  {
+   "text": "Total",
+   "conf": 0.93
+  },
+  {
+   "text": ";",
+   "conf": 0.14
+  },
+  {
+   "text": "($3.13)",
+   "conf": 0.92
+  },
+  {
+   "text": "Discount",
+   "conf": 0.96
+  },
+  {
+   "text": "Total:",
+   "conf": 0.96
+  },
+  {
+   "text": "$0.32",
+   "conf": 0.84
+  },
+  {
+   "text": "Visa:",
+   "conf": 0.96
+  },
+  {
+   "text": "$3",
+   "conf": 0.96
+  },
+  {
+   "text": ":",
+   "conf": 0.0
+  },
+  {
+   "text": "Change",
+   "conf": 0.97
+  },
+  {
+   "text": "‘",
+   "conf": 0.0
+  },
+  {
+   "text": "ret",
+   "conf": 0.35
+  },
+  {
+   "text": "egister",
+   "conf": 0.72
+  },
+  {
+   "text": ":2",
+   "conf": 0.72
+  },
+  {
+   "text": "Tran",
+   "conf": 0.96
+  },
+  {
+   "text": "Seq",
+   "conf": 0.65
+  },
+  {
+   "text": "No:",
+   "conf": 0.92
+  },
+  {
+   "text": "86860",
+   "conf": 0.86
+  },
+  {
+   "text": "CaenlerFabiola",
+   "conf": 0.0
+  },
+  {
+   "text": "C.",
+   "conf": 0.73
+  },
+  {
+   "text": "q",
+   "conf": 0.82
+  },
+  {
+   "text": "No:",
+   "conf": 0.93
+  },
+  {
+   "text": "868604",
+   "conf": 0.93
+  },
+  {
+   "text": "Visa",
+   "conf": 0.96
+  }
+ ],
+ "mean_conf": 0.6791,
+ "low_conf_share": 0.2931,
+ "latency_ms": 641,
+ "fields": {
+  "company": "CEVRAL TERMINAL BUILDING SEES 44",
+  "date": "2017-07-22",
+  "total": 0.32
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  0.32
+ ],
+ "key": "W0077_b1feb6ff61e5"
+}

@@ -1,0 +1,235 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "Faji TAXINVOICE(ABB)/RECEIPT fu..A.unuu",
+  "unutu（FO9)",
+  "TaxID:0105542019730",
+  "POSID:E01003000204635",
+  "Tax.Inv.No:51327",
+  "Date:2018-03-31Time:21:16:51",
+  "TranNo:201803310140",
+  "Table:A05 Cover:1",
+  "Qty Description Amount",
+  "1 SUSHISET 220.00",
+  "1 IKAMARUYAKISET 200.00",
+  "1 GESOKARAAGE 90.00",
+  "1 YAKI GYOZA(6pcS) 90.00",
+  "1 BACON ENOKI ROLL 130.00",
+  "1 SAKEOZEKI180ml 180.00",
+  "1 ASAHI BEER(LARGE) 180.00",
+  "Sub Total: 1090.00",
+  "ServiceCharge10%: 109.00",
+  "Total: 1,199.00",
+  "..VATIncluded.",
+  "VAT(7.00%): 78.44",
+  "Cash 2000.00",
+  "Change: 801.00"
+ ],
+ "tokens": [
+  {
+   "text": "Faji",
+   "conf": 0.6983791068196297
+  },
+  {
+   "text": "TAXINVOICE(ABB)/RECEIPT",
+   "conf": 0.9776834767797719
+  },
+  {
+   "text": "fu..A.unuu",
+   "conf": 0.6091482281684876
+  },
+  {
+   "text": "unutu（FO9)",
+   "conf": 0.5491684526205063
+  },
+  {
+   "text": "TaxID:0105542019730",
+   "conf": 0.9752497045617354
+  },
+  {
+   "text": "POSID:E01003000204635",
+   "conf": 0.978521880649385
+  },
+  {
+   "text": "Tax.Inv.No:51327",
+   "conf": 0.9697485715150833
+  },
+  {
+   "text": "Date:2018-03-31Time:21:16:51",
+   "conf": 0.9544428778546197
+  },
+  {
+   "text": "TranNo:201803310140",
+   "conf": 0.985412061214447
+  },
+  {
+   "text": "Table:A05",
+   "conf": 0.9604253636466132
+  },
+  {
+   "text": "Cover:1",
+   "conf": 0.9667910763195583
+  },
+  {
+   "text": "Qty",
+   "conf": 0.9417569835980734
+  },
+  {
+   "text": "Description",
+   "conf": 0.9483254064213146
+  },
+  {
+   "text": "Amount",
+   "conf": 0.9916753868261973
+  },
+  {
+   "text": "1",
+   "conf": 0.8983057141304016
+  },
+  {
+   "text": "SUSHISET",
+   "conf": 0.9939002692699432
+  },
+  {
+   "text": "220.00",
+   "conf": 0.9984251062075297
+  },
+  {
+   "text": "1",
+   "conf": 0.9870284795761108
+  },
+  {
+   "text": "IKAMARUYAKISET",
+   "conf": 0.9932330123015812
+  },
+  {
+   "text": "200.00",
+   "conf": 0.998194694519043
+  },
+  {
+   "text": "1",
+   "conf": 0.9874047040939331
+  },
+  {
+   "text": "GESOKARAAGE",
+   "conf": 0.9916550083593889
+  },
+  {
+   "text": "90.00",
+   "conf": 0.9982035517692566
+  },
+  {
+   "text": "1",
+   "conf": 0.9798741936683655
+  },
+  {
+   "text": "YAKI GYOZA(6pcS)",
+   "conf": 0.8423855379223824
+  },
+  {
+   "text": "90.00",
+   "conf": 0.9982284426689148
+  },
+  {
+   "text": "1",
+   "conf": 0.993573009967804
+  },
+  {
+   "text": "BACON ENOKI ROLL",
+   "conf": 0.9627145305275917
+  },
+  {
+   "text": "130.00",
+   "conf": 0.997975359360377
+  },
+  {
+   "text": "1",
+   "conf": 0.9899513125419617
+  },
+  {
+   "text": "SAKEOZEKI180ml",
+   "conf": 0.982762268611363
+  },
+  {
+   "text": "180.00",
+   "conf": 0.9988222817579905
+  },
+  {
+   "text": "1",
+   "conf": 0.9579666256904602
+  },
+  {
+   "text": "ASAHI BEER(LARGE)",
+   "conf": 0.948150263113134
+  },
+  {
+   "text": "180.00",
+   "conf": 0.998298833767573
+  },
+  {
+   "text": "Sub Total:",
+   "conf": 0.9569961845874786
+  },
+  {
+   "text": "1090.00",
+   "conf": 0.9986550467354911
+  },
+  {
+   "text": "ServiceCharge10%:",
+   "conf": 0.9694872463450712
+  },
+  {
+   "text": "109.00",
+   "conf": 0.9988468190034231
+  },
+  {
+   "text": "Total:",
+   "conf": 0.9896154205004374
+  },
+  {
+   "text": "1,199.00",
+   "conf": 0.9938222467899323
+  },
+  {
+   "text": "..VATIncluded.",
+   "conf": 0.968415481703622
+  },
+  {
+   "text": "VAT(7.00%):",
+   "conf": 0.9398122809150002
+  },
+  {
+   "text": "78.44",
+   "conf": 0.9973685264587402
+  },
+  {
+   "text": "Cash",
+   "conf": 0.9871220886707306
+  },
+  {
+   "text": "2000.00",
+   "conf": 0.9986188156264169
+  },
+  {
+   "text": "Change:",
+   "conf": 0.9924197537558419
+  },
+  {
+   "text": "801.00",
+   "conf": 0.9662577311197916
+  }
+ ],
+ "mean_conf": 0.9534,
+ "low_conf_share": 0.0,
+ "latency_ms": 4234,
+ "fields": {
+  "company": "FAJI TAXINVOICE RECEIPT FU A UNUU",
+  "date": "2018-03-31",
+  "total": 1199.0
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  1199.0
+ ],
+ "key": "W0027_952eb692fc85"
+}

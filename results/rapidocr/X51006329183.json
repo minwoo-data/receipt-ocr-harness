@@ -1,0 +1,339 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "SEMBOYAN TEGAS SDN BHD",
+  "No.5 & 7. Jalan TSJ 2.",
+  "Taman Subang Jasa",
+  "Kg. Baru Subang. l0is0 Sr.ah Alam",
+  "Selarigor Darul Ehsan",
+  "Te103-78461113 Fax.03-78321368",
+  "Hp: 012-396 1688 012-353 7738",
+  "www.sembcyan com",
+  "Email:semboyantegas@gmail com",
+  "(GST Reg No : 001538965504)",
+  "Tax lnvoice",
+  "Check #:549146 Pax(s):5",
+  "Date 06-03-2018 07:24:06",
+  "Cashier:CASHlER 4",
+  "Description Qry U.price Total TAX",
+  "taucu kisar",
+  "2x 6.50 13.00 SR",
+  "Teh wangi ros 1B0g",
+  "2x 4.20 Oh 8 ZR",
+  "ASAMJAWA IKG",
+  "1·x 4.80 4.80 ZRL",
+  "Total (Excluding GST) 26.20",
+  "GST Payable: 0.78",
+  "Total (lnclusive of GST) 8692",
+  "Rounding Adj: 0.02",
+  "TOTAL: 27.00",
+  "Closed' 06-03-2018 hh :h2 : 40",
+  "CASH: 52.00",
+  "CHANGE: 25.00",
+  "GST Sumnary Amourit(RM) Tax(AM)",
+  "SR (@6%) 13.00 078",
+  "ZR (@%) 0h日 0.00",
+  "ZRL (@%) 4.80 0.00",
+  "*Thank You",
+  "Please Come Again"
+ ],
+ "tokens": [
+  {
+   "text": "SEMBOYAN TEGAS SDN BHD",
+   "conf": 0.9642034850337289
+  },
+  {
+   "text": "No.5 & 7. Jalan TSJ 2.",
+   "conf": 0.9210555092854933
+  },
+  {
+   "text": "Taman Subang Jasa",
+   "conf": 0.9769414838622598
+  },
+  {
+   "text": "Kg. Baru Subang. l0is0 Sr.ah Alam",
+   "conf": 0.8919158979798808
+  },
+  {
+   "text": "Selarigor Darul Ehsan",
+   "conf": 0.8873301630928403
+  },
+  {
+   "text": "Te103-78461113",
+   "conf": 0.9773740811007363
+  },
+  {
+   "text": "Fax.03-78321368",
+   "conf": 0.9806718905766805
+  },
+  {
+   "text": "Hp: 012-396 1688",
+   "conf": 0.9634826555848122
+  },
+  {
+   "text": "012-353 7738",
+   "conf": 0.957276870807012
+  },
+  {
+   "text": "www.sembcyan com",
+   "conf": 0.9142294302582741
+  },
+  {
+   "text": "Email:semboyantegas@gmail com",
+   "conf": 0.9053339577954391
+  },
+  {
+   "text": "(GST Reg No : 001538965504)",
+   "conf": 0.9372115642936142
+  },
+  {
+   "text": "Tax lnvoice",
+   "conf": 0.9255046519366178
+  },
+  {
+   "text": "Check #:549146",
+   "conf": 0.9405512000833239
+  },
+  {
+   "text": "Pax(s):5",
+   "conf": 0.8295074850320816
+  },
+  {
+   "text": "Date",
+   "conf": 0.9909615814685822
+  },
+  {
+   "text": "06-03-2018 07:24:06",
+   "conf": 0.9322766661643982
+  },
+  {
+   "text": "Cashier:CASHlER 4",
+   "conf": 0.8761409784064573
+  },
+  {
+   "text": "Description",
+   "conf": 0.9740978316827253
+  },
+  {
+   "text": "Qry",
+   "conf": 0.7987986107667288
+  },
+  {
+   "text": "U.price",
+   "conf": 0.862966022321156
+  },
+  {
+   "text": "Total TAX",
+   "conf": 0.8951613439453973
+  },
+  {
+   "text": "taucu kisar",
+   "conf": 0.9816359227353876
+  },
+  {
+   "text": "2x",
+   "conf": 0.8555551171302795
+  },
+  {
+   "text": "6.50",
+   "conf": 0.9987716525793076
+  },
+  {
+   "text": "13.00",
+   "conf": 0.9996295928955078
+  },
+  {
+   "text": "SR",
+   "conf": 0.9977021515369415
+  },
+  {
+   "text": "Teh wangi ros 1B0g",
+   "conf": 0.9167696469359927
+  },
+  {
+   "text": "2x",
+   "conf": 0.79924675822258
+  },
+  {
+   "text": "4.20",
+   "conf": 0.9961778670549393
+  },
+  {
+   "text": "Oh 8",
+   "conf": 0.8167465776205063
+  },
+  {
+   "text": "ZR",
+   "conf": 0.987175464630127
+  },
+  {
+   "text": "ASAMJAWA IKG",
+   "conf": 0.9252354502677917
+  },
+  {
+   "text": "1·x",
+   "conf": 0.6562822262446085
+  },
+  {
+   "text": "4.80",
+   "conf": 0.9994647949934006
+  },
+  {
+   "text": "4.80",
+   "conf": 0.9988027960062027
+  },
+  {
+   "text": "ZRL",
+   "conf": 0.9529689947764078
+  },
+  {
+   "text": "Total (Excluding GST)",
+   "conf": 0.9019709257852464
+  },
+  {
+   "text": "26.20",
+   "conf": 0.9959455013275147
+  },
+  {
+   "text": "GST Payable:",
+   "conf": 0.9154263238112131
+  },
+  {
+   "text": "0.78",
+   "conf": 0.9879403412342072
+  },
+  {
+   "text": "Total (lnclusive of GST)",
+   "conf": 0.8993660559256872
+  },
+  {
+   "text": "8692",
+   "conf": 0.999772772192955
+  },
+  {
+   "text": "Rounding Adj:",
+   "conf": 0.9716504995639508
+  },
+  {
+   "text": "0.02",
+   "conf": 0.9972919523715973
+  },
+  {
+   "text": "TOTAL:",
+   "conf": 0.9857859512170156
+  },
+  {
+   "text": "27.00",
+   "conf": 0.9983802556991577
+  },
+  {
+   "text": "Closed'",
+   "conf": 0.9563987936292376
+  },
+  {
+   "text": "06-03-2018",
+   "conf": 0.9990983843803406
+  },
+  {
+   "text": "hh :h2 : 40",
+   "conf": 0.8318539343096993
+  },
+  {
+   "text": "CASH:",
+   "conf": 0.9933794736862183
+  },
+  {
+   "text": "52.00",
+   "conf": 0.9996983885765076
+  },
+  {
+   "text": "CHANGE:",
+   "conf": 0.966183636869703
+  },
+  {
+   "text": "25.00",
+   "conf": 0.9971476674079895
+  },
+  {
+   "text": "GST Sumnary",
+   "conf": 0.9597238952463324
+  },
+  {
+   "text": "Amourit(RM)",
+   "conf": 0.9737697731364857
+  },
+  {
+   "text": "Tax(AM)",
+   "conf": 0.9318896276610238
+  },
+  {
+   "text": "SR",
+   "conf": 0.8975752592086792
+  },
+  {
+   "text": "(@6%)",
+   "conf": 0.9072599172592163
+  },
+  {
+   "text": "13.00",
+   "conf": 0.9986585021018982
+  },
+  {
+   "text": "078",
+   "conf": 0.9755221605300903
+  },
+  {
+   "text": "ZR",
+   "conf": 0.9779348373413086
+  },
+  {
+   "text": "(@%)",
+   "conf": 0.9360212236642838
+  },
+  {
+   "text": "0h日",
+   "conf": 0.8407839139302572
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9990275800228119
+  },
+  {
+   "text": "ZRL",
+   "conf": 0.9924939274787903
+  },
+  {
+   "text": "(@%)",
+   "conf": 0.9556083828210831
+  },
+  {
+   "text": "4.80",
+   "conf": 0.9981145113706589
+  },
+  {
+   "text": "0.00",
+   "conf": 0.999538853764534
+  },
+  {
+   "text": "*Thank You",
+   "conf": 0.8784194155172869
+  },
+  {
+   "text": "Please Come Again",
+   "conf": 0.9505330815034754
+  }
+ ],
+ "mean_conf": 0.9402,
+ "low_conf_share": 0.0,
+ "latency_ms": 7329,
+ "fields": {
+  "company": "SEMBOYAN TEGAS SDN BHD",
+  "date": "2018-03-06",
+  "total": 27.0
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  27.0
+ ],
+ "key": "X51006329183"
+}

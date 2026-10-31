@@ -1,0 +1,374 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "HREE STOOGES",
+  "BISTRO & CAFE",
+  "109, SS21/1A,",
+  "DAMANSARA UTAMA",
+  "GST ID ; 001661886464",
+  "‘ABLE : BAR 7",
+  "ORDER ;: 00012916",
+  "BIZDATE: 12/03/2018",
+  "CASHIER: CASHIER",
+  "BELL DF: 12/03/2018 10:25:49 PM RM",
+  "QTY ITEM AMUUNT",
+  "1 HH GUINESS 12 GLASSES 150.00",
+  "1 HH TIGER 12 GLASSES 145.00",
+  "2 SUB TOTAL 295.00",
+  "SERVICE CHARGE 10% 29,50",
+  "GST 6% 19.47",
+  "ROUNDING ADJ -0,02",
+  "Nev TOTAL 343.95",
+  "Fon © sina r Amount eK",
+  "SY .ERVICL UiAnuL iu 295 .00 i)",
+  "SR GS: Ak 324.50",
+  "Thank | eA K"
+ ],
+ "tokens": [
+  {
+   "text": "HREE",
+   "conf": 0.9
+  },
+  {
+   "text": "STOOGES",
+   "conf": 0.95
+  },
+  {
+   "text": "BISTRO",
+   "conf": 0.92
+  },
+  {
+   "text": "&",
+   "conf": 0.92
+  },
+  {
+   "text": "CAFE",
+   "conf": 0.96
+  },
+  {
+   "text": "109,",
+   "conf": 0.91
+  },
+  {
+   "text": "SS21/1A,",
+   "conf": 0.38
+  },
+  {
+   "text": "DAMANSARA",
+   "conf": 0.9
+  },
+  {
+   "text": "UTAMA",
+   "conf": 0.9
+  },
+  {
+   "text": "GST",
+   "conf": 0.95
+  },
+  {
+   "text": "ID",
+   "conf": 0.88
+  },
+  {
+   "text": ";",
+   "conf": 0.48
+  },
+  {
+   "text": "001661886464",
+   "conf": 0.94
+  },
+  {
+   "text": "‘ABLE",
+   "conf": 0.55
+  },
+  {
+   "text": ":",
+   "conf": 0.72
+  },
+  {
+   "text": "BAR",
+   "conf": 0.95
+  },
+  {
+   "text": "7",
+   "conf": 0.91
+  },
+  {
+   "text": "ORDER",
+   "conf": 0.91
+  },
+  {
+   "text": ";:",
+   "conf": 0.38
+  },
+  {
+   "text": "00012916",
+   "conf": 0.66
+  },
+  {
+   "text": "BIZDATE:",
+   "conf": 0.83
+  },
+  {
+   "text": "12/03/2018",
+   "conf": 0.95
+  },
+  {
+   "text": "CASHIER:",
+   "conf": 0.96
+  },
+  {
+   "text": "CASHIER",
+   "conf": 0.71
+  },
+  {
+   "text": "BELL",
+   "conf": 0.68
+  },
+  {
+   "text": "DF:",
+   "conf": 0.33
+  },
+  {
+   "text": "12/03/2018",
+   "conf": 0.89
+  },
+  {
+   "text": "10:25:49",
+   "conf": 0.94
+  },
+  {
+   "text": "PM",
+   "conf": 0.94
+  },
+  {
+   "text": "RM",
+   "conf": 0.96
+  },
+  {
+   "text": "QTY",
+   "conf": 0.39
+  },
+  {
+   "text": "ITEM",
+   "conf": 0.95
+  },
+  {
+   "text": "AMUUNT",
+   "conf": 0.86
+  },
+  {
+   "text": "1",
+   "conf": 0.65
+  },
+  {
+   "text": "HH",
+   "conf": 0.65
+  },
+  {
+   "text": "GUINESS",
+   "conf": 0.91
+  },
+  {
+   "text": "12",
+   "conf": 0.96
+  },
+  {
+   "text": "GLASSES",
+   "conf": 0.96
+  },
+  {
+   "text": "150.00",
+   "conf": 0.67
+  },
+  {
+   "text": "1",
+   "conf": 0.49
+  },
+  {
+   "text": "HH",
+   "conf": 0.49
+  },
+  {
+   "text": "TIGER",
+   "conf": 0.96
+  },
+  {
+   "text": "12",
+   "conf": 0.96
+  },
+  {
+   "text": "GLASSES",
+   "conf": 0.95
+  },
+  {
+   "text": "145.00",
+   "conf": 0.94
+  },
+  {
+   "text": "2",
+   "conf": 0.85
+  },
+  {
+   "text": "SUB",
+   "conf": 0.85
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.95
+  },
+  {
+   "text": "295.00",
+   "conf": 0.91
+  },
+  {
+   "text": "SERVICE",
+   "conf": 0.96
+  },
+  {
+   "text": "CHARGE",
+   "conf": 0.96
+  },
+  {
+   "text": "10%",
+   "conf": 0.96
+  },
+  {
+   "text": "29,50",
+   "conf": 0.93
+  },
+  {
+   "text": "GST",
+   "conf": 0.95
+  },
+  {
+   "text": "6%",
+   "conf": 0.94
+  },
+  {
+   "text": "19.47",
+   "conf": 0.92
+  },
+  {
+   "text": "ROUNDING",
+   "conf": 0.96
+  },
+  {
+   "text": "ADJ",
+   "conf": 0.96
+  },
+  {
+   "text": "-0,02",
+   "conf": 0.74
+  },
+  {
+   "text": "Nev",
+   "conf": 0.26
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.62
+  },
+  {
+   "text": "343.95",
+   "conf": 0.69
+  },
+  {
+   "text": "Fon",
+   "conf": 0.25
+  },
+  {
+   "text": "©",
+   "conf": 0.56
+  },
+  {
+   "text": "sina",
+   "conf": 0.0
+  },
+  {
+   "text": "r",
+   "conf": 0.0
+  },
+  {
+   "text": "Amount",
+   "conf": 0.96
+  },
+  {
+   "text": "eK",
+   "conf": 0.5
+  },
+  {
+   "text": "SY",
+   "conf": 0.04
+  },
+  {
+   "text": ".ERVICL",
+   "conf": 0.0
+  },
+  {
+   "text": "UiAnuL",
+   "conf": 0.07
+  },
+  {
+   "text": "iu",
+   "conf": 0.58
+  },
+  {
+   "text": "295",
+   "conf": 0.8
+  },
+  {
+   "text": ".00",
+   "conf": 0.8
+  },
+  {
+   "text": "i)",
+   "conf": 0.62
+  },
+  {
+   "text": "SR",
+   "conf": 0.88
+  },
+  {
+   "text": "GS:",
+   "conf": 0.88
+  },
+  {
+   "text": "Ak",
+   "conf": 0.52
+  },
+  {
+   "text": "324.50",
+   "conf": 0.65
+  },
+  {
+   "text": "Thank",
+   "conf": 0.15
+  },
+  {
+   "text": "|",
+   "conf": 0.73
+  },
+  {
+   "text": "eA",
+   "conf": 0.58
+  },
+  {
+   "text": "K",
+   "conf": 0.91
+  }
+ ],
+ "mean_conf": 0.7342,
+ "low_conf_share": 0.1807,
+ "latency_ms": 2608,
+ "fields": {
+  "company": "HREE STOOGES BISTRO CAFE",
+  "date": "2018-03-12",
+  "total": 343.95
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  343.95
+ ],
+ "key": "X51005441401"
+}

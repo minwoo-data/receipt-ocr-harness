@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.6-flash",
+ "provider": "gemini",
+ "raw_text": "{\"vendor\": \"99 Ranch Market # 72\", \"date\": \"2016-08-16\", \"subtotal\": 8.75, \"tax\": 0.77, \"tip\": null, \"discount\": null, \"total\": 9.52, \"currency\": \"USD\", \"confidence\": 0.98, \"notes\": null}",
+ "data": {
+  "vendor": "99 Ranch Market # 72",
+  "date": "2016-08-16",
+  "subtotal": 8.75,
+  "tax": 0.77,
+  "tip": null,
+  "discount": null,
+  "total": 9.52,
+  "currency": "USD",
+  "confidence": 0.98,
+  "notes": null
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1444,
+  "output_tokens": 86,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.001406,
+ "latency_ms": 2071,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.6-flash",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.6-flash"
+ ],
+ "key": "W0158_610449104202"
+}

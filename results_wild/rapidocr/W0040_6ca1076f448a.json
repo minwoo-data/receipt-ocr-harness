@@ -1,0 +1,172 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "St.George Apartmanhaz Kft",
+  "Kekmadar kavehaz-etteren",
+  "1014 BudapeSt,Fortuna u.4",
+  "Ad0szam:12464340-2-41",
+  "***NEM ADOUGYI BIZONYLAT***",
+  "Fogyasztasi osszesito",
+  "SzJsz Megnevezes ME",
+  "Hennyi Egysegar osszeg",
+  "55.30.11 HosszuKave AD",
+  "450 450",
+  "55.30.11guiy,csirke,som AD",
+  "36000 3a000",
+  "Fogyasztas: 3a450",
+  "55.30.1TIP（forint）（S) XX",
+  "12 33 400",
+  "Fizetendo: 3a850",
+  "Penztaros:Suru Peter",
+  "Kelt:2017.01.1713:31",
+  "***NEM ADOOGYI BIZONYLAT***"
+ ],
+ "tokens": [
+  {
+   "text": "St.George Apartmanhaz Kft",
+   "conf": 0.9428246474266052
+  },
+  {
+   "text": "Kekmadar kavehaz-etteren",
+   "conf": 0.9344340227544308
+  },
+  {
+   "text": "1014 BudapeSt,Fortuna u.4",
+   "conf": 0.9075129103660583
+  },
+  {
+   "text": "Ad0szam:12464340-2-41",
+   "conf": 0.9641713585172381
+  },
+  {
+   "text": "***NEM ADOUGYI BIZONYLAT***",
+   "conf": 0.9340163071950277
+  },
+  {
+   "text": "Fogyasztasi osszesito",
+   "conf": 0.9307856077239627
+  },
+  {
+   "text": "SzJsz",
+   "conf": 0.808737862110138
+  },
+  {
+   "text": "Megnevezes",
+   "conf": 0.976875227689743
+  },
+  {
+   "text": "ME",
+   "conf": 0.9923083186149597
+  },
+  {
+   "text": "Hennyi",
+   "conf": 0.869784394900004
+  },
+  {
+   "text": "Egysegar",
+   "conf": 0.9905880615115166
+  },
+  {
+   "text": "osszeg",
+   "conf": 0.9017256398995718
+  },
+  {
+   "text": "55.30.11 HosszuKave",
+   "conf": 0.9522889036881296
+  },
+  {
+   "text": "AD",
+   "conf": 0.9719658195972443
+  },
+  {
+   "text": "450",
+   "conf": 0.9982275366783142
+  },
+  {
+   "text": "450",
+   "conf": 0.996492862701416
+  },
+  {
+   "text": "55.30.11guiy,csirke,som",
+   "conf": 0.8974869432656661
+  },
+  {
+   "text": "AD",
+   "conf": 0.9781558811664581
+  },
+  {
+   "text": "36000",
+   "conf": 0.9239787459373474
+  },
+  {
+   "text": "3a000",
+   "conf": 0.9682238578796387
+  },
+  {
+   "text": "Fogyasztas:",
+   "conf": 0.9555235234173861
+  },
+  {
+   "text": "3a450",
+   "conf": 0.9839521288871765
+  },
+  {
+   "text": "55.30.1TIP（forint）（S)",
+   "conf": 0.8561153865995861
+  },
+  {
+   "text": "XX",
+   "conf": 0.8133842647075653
+  },
+  {
+   "text": "12",
+   "conf": 0.9953283369541168
+  },
+  {
+   "text": "33",
+   "conf": 0.997621089220047
+  },
+  {
+   "text": "400",
+   "conf": 0.99519415696462
+  },
+  {
+   "text": "Fizetendo:",
+   "conf": 0.9841299593448639
+  },
+  {
+   "text": "3a850",
+   "conf": 0.9779606461524963
+  },
+  {
+   "text": "Penztaros:Suru Peter",
+   "conf": 0.8994246408343315
+  },
+  {
+   "text": "Kelt:2017.01.1713:31",
+   "conf": 0.9119970679283143
+  },
+  {
+   "text": "***NEM ADOOGYI BIZONYLAT***",
+   "conf": 0.9282085056658145
+  }
+ ],
+ "mean_conf": 0.9419,
+ "low_conf_share": 0.0,
+ "latency_ms": 2340,
+ "fields": {
+  "company": "ST GEORGE APARTMANHAZ KFT",
+  "date": null,
+  "total": 201.0
+ },
+ "rule_reasons": [
+  "date_not_found",
+  "total_no_keyword_fallback_max"
+ ],
+ "total_candidates": [
+  55.3,
+  55.3,
+  201.0
+ ],
+ "key": "W0040_6ca1076f448a"
+}

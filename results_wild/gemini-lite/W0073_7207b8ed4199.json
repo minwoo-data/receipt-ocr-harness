@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.1-flash-lite",
+ "provider": "gemini",
+ "raw_text": "{\n  \"vendor\": \"LO SPAZIO\",\n  \"date\": \"2017-06-19\",\n  \"subtotal\": 551.0,\n  \"tax\": 55.0,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 606.0,\n  \"currency\": \"HKD\",\n  \"confidence\": 0.98,\n  \"notes\": \"Service charge of 10% is listed as tax.\"\n}",
+ "data": {
+  "vendor": "LO SPAZIO",
+  "date": "2017-06-19",
+  "subtotal": 551.0,
+  "tax": 55.0,
+  "tip": null,
+  "discount": null,
+  "total": 606.0,
+  "currency": "HKD",
+  "confidence": 0.98,
+  "notes": "Service charge of 10% is listed as tax."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1433,
+  "output_tokens": 119,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.000537,
+ "latency_ms": 1447,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.1-flash-lite",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.1-flash-lite"
+ ],
+ "key": "W0073_7207b8ed4199"
+}

@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.1-flash-lite",
+ "provider": "gemini",
+ "raw_text": "{\n  \"vendor\": \"ARTIE'S DELICATESSEN\",\n  \"date\": \"2017-03-15\",\n  \"subtotal\": 44.45,\n  \"tax\": 3.95,\n  \"tip\": 8.70,\n  \"discount\": null,\n  \"total\": 48.40,\n  \"currency\": \"USD\",\n  \"confidence\": 0.98,\n  \"notes\": \"The total of 48.40 plus the handwritten tip of 8.70 equals the handwritten total of 57.10.\"\n}",
+ "data": {
+  "vendor": "ARTIE'S DELICATESSEN",
+  "date": "2017-03-15",
+  "subtotal": 44.45,
+  "tax": 3.95,
+  "tip": 8.7,
+  "discount": null,
+  "total": 48.4,
+  "currency": "USD",
+  "confidence": 0.98,
+  "notes": "The total of 48.40 plus the handwritten tip of 8.70 equals the handwritten total of 57.10."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1433,
+  "output_tokens": 146,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.000577,
+ "latency_ms": 1537,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.1-flash-lite",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.1-flash-lite"
+ ],
+ "key": "W0075_500de0593244"
+}

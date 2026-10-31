@@ -1,0 +1,283 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "AIK HUATHARDNARE",
+  "ENTERPRISE ISETIA",
+  "ALAM)SDNBHD",
+  "822737-X",
+  "NO.17-G,JALAN SETIA INDAH",
+  "(X)U13/X,SETIA ALAM",
+  "SEKSYEN U13,4D170 SHAH ALAM",
+  "TEL:012-6651783FAX:03-33623608",
+  "GST N0:000394528768",
+  "SIMPLIFIED TAX INVOICE",
+  "Hu onter",
+  "CASH",
+  "RECEIPT #:CSP0406159 DATE:15/09/2017",
+  "SALESFERSON : AH002 TINE:17:57:00",
+  "ITEM 人10 U/P AMUUNT",
+  "(RM) (RM)",
+  "9200310000040 3 8.00 24.00S",
+  "40MM2K/BELLE PADLOCK??",
+  "TOTAL QUANTITY 3",
+  "SUB-TOTAL(GST) 24.00",
+  "DISC 0.00",
+  "ROUNDING 0.00",
+  "TOTAL 24.00",
+  "CASH 50.00",
+  "CHANGE 26.00",
+  "*GST @ 6%INCLUDEDIN TOTAL",
+  "GST SUMMARY",
+  "CODE AMOUNT % TAX/AMT",
+  "SR 22.64 6 1.36",
+  "TAX TOTAL: 1.36",
+  "GOODS SOLD ARE NOT EP",
+  "THANE YOU FOF",
+  "FLS FROVTDE ORIO",
+  "EXCHANGE RITHIN",
+  "GOODSMUST"
+ ],
+ "tokens": [
+  {
+   "text": "AIK HUATHARDNARE",
+   "conf": 0.9051447920501232
+  },
+  {
+   "text": "ENTERPRISE ISETIA",
+   "conf": 0.9323908476268544
+  },
+  {
+   "text": "ALAM)SDNBHD",
+   "conf": 0.8874271376566454
+  },
+  {
+   "text": "822737-X",
+   "conf": 0.9820834249258041
+  },
+  {
+   "text": "NO.17-G,JALAN SETIA INDAH",
+   "conf": 0.9411117219924927
+  },
+  {
+   "text": "(X)U13/X,SETIA ALAM",
+   "conf": 0.898215717390964
+  },
+  {
+   "text": "SEKSYEN U13,4D170 SHAH ALAM",
+   "conf": 0.9281534320778317
+  },
+  {
+   "text": "TEL:012-6651783FAX:03-33623608",
+   "conf": 0.9682354847590129
+  },
+  {
+   "text": "GST N0:000394528768",
+   "conf": 0.9727345516807154
+  },
+  {
+   "text": "SIMPLIFIED TAX INVOICE",
+   "conf": 0.9891932769255205
+  },
+  {
+   "text": "Hu onter",
+   "conf": 0.8056482151150703
+  },
+  {
+   "text": "CASH",
+   "conf": 0.9949075281620026
+  },
+  {
+   "text": "RECEIPT #:CSP0406159 DATE:15/09/2017",
+   "conf": 0.9603801899486117
+  },
+  {
+   "text": "SALESFERSON : AH002",
+   "conf": 0.92105223160041
+  },
+  {
+   "text": "TINE:17:57:00",
+   "conf": 0.9115035625604483
+  },
+  {
+   "text": "ITEM",
+   "conf": 0.968992069363594
+  },
+  {
+   "text": "人10",
+   "conf": 0.5583570500214895
+  },
+  {
+   "text": "U/P",
+   "conf": 0.9115254481633505
+  },
+  {
+   "text": "AMUUNT",
+   "conf": 0.9750591615835825
+  },
+  {
+   "text": "(RM)",
+   "conf": 0.8492870181798935
+  },
+  {
+   "text": "(RM)",
+   "conf": 0.9085213541984558
+  },
+  {
+   "text": "9200310000040",
+   "conf": 0.9965052879773654
+  },
+  {
+   "text": "3",
+   "conf": 0.5566423535346985
+  },
+  {
+   "text": "8.00",
+   "conf": 0.9770763963460922
+  },
+  {
+   "text": "24.00S",
+   "conf": 0.9351677894592285
+  },
+  {
+   "text": "40MM2K/BELLE PADLOCK??",
+   "conf": 0.9179299825971777
+  },
+  {
+   "text": "TOTAL QUANTITY",
+   "conf": 0.9607095292636326
+  },
+  {
+   "text": "3",
+   "conf": 0.9617071747779846
+  },
+  {
+   "text": "SUB-TOTAL(GST)",
+   "conf": 0.93376111132758
+  },
+  {
+   "text": "24.00",
+   "conf": 0.9983690619468689
+  },
+  {
+   "text": "DISC",
+   "conf": 0.9719669669866562
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9777416288852692
+  },
+  {
+   "text": "ROUNDING",
+   "conf": 0.9530654698610306
+  },
+  {
+   "text": "0.00",
+   "conf": 0.99137382209301
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.9970384240150452
+  },
+  {
+   "text": "24.00",
+   "conf": 0.8731565475463867
+  },
+  {
+   "text": "CASH",
+   "conf": 0.9915457218885422
+  },
+  {
+   "text": "50.00",
+   "conf": 0.9312916278839112
+  },
+  {
+   "text": "CHANGE",
+   "conf": 0.9966715971628824
+  },
+  {
+   "text": "26.00",
+   "conf": 0.9713447332382202
+  },
+  {
+   "text": "*GST @ 6%INCLUDEDIN TOTAL",
+   "conf": 0.8942345881462097
+  },
+  {
+   "text": "GST SUMMARY",
+   "conf": 0.9713607863946394
+  },
+  {
+   "text": "CODE",
+   "conf": 0.9927899688482285
+  },
+  {
+   "text": "AMOUNT",
+   "conf": 0.9866928855578104
+  },
+  {
+   "text": "%",
+   "conf": 0.7464721202850342
+  },
+  {
+   "text": "TAX/AMT",
+   "conf": 0.981323846748897
+  },
+  {
+   "text": "SR",
+   "conf": 0.8985794186592102
+  },
+  {
+   "text": "22.64",
+   "conf": 0.9939028978347778
+  },
+  {
+   "text": "6",
+   "conf": 0.9657716751098633
+  },
+  {
+   "text": "1.36",
+   "conf": 0.9879887998104095
+  },
+  {
+   "text": "TAX TOTAL:",
+   "conf": 0.9370128452777863
+  },
+  {
+   "text": "1.36",
+   "conf": 0.9951540231704712
+  },
+  {
+   "text": "GOODS SOLD ARE NOT EP",
+   "conf": 0.8591494304793221
+  },
+  {
+   "text": "THANE YOU FOF",
+   "conf": 0.9161541072221903
+  },
+  {
+   "text": "FLS FROVTDE ORIO",
+   "conf": 0.8545667640864849
+  },
+  {
+   "text": "EXCHANGE RITHIN",
+   "conf": 0.9044488430023193
+  },
+  {
+   "text": "GOODSMUST",
+   "conf": 0.7622818251450857
+  }
+ ],
+ "mean_conf": 0.9248,
+ "low_conf_share": 0.0,
+ "latency_ms": 5817,
+ "fields": {
+  "company": "AIK HUATHARDNARE ENTERPRISE ISETIA",
+  "date": "2017-09-15",
+  "total": 24.0
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  24.0
+ ],
+ "key": "X51007339653"
+}

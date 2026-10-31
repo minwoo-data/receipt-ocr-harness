@@ -1,0 +1,274 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "12A7RO1G509PM Sales Receipt #19208",
+  "Slate: CRP Workstation: 4",
+  "ae]",
+  "FIREARMS |@ UNKNOWN",
+  "Firearms Unknown",
+  "416 National Cty evs. Unit &",
+  "Nationa Cty, CA 91980",
+  "(619) 507-3174",
+  "Retums Accepted Within 14 Days",
+  "‘Store Credit Only, No Refunds",
+  "Cashier: Grover",
+  "tom Name @ly_Piico._Ext Petco",
+  "ACE Skeleton Stock 1 $99.99 $99.99 N",
+  "Black Rifle D% 20.01%",
+  ")) Sublets: $90.50",
+  "| qh"
+ ],
+ "tokens": [
+  {
+   "text": "12A7RO1G509PM",
+   "conf": 0.4
+  },
+  {
+   "text": "Sales",
+   "conf": 0.04
+  },
+  {
+   "text": "Receipt",
+   "conf": 0.64
+  },
+  {
+   "text": "#19208",
+   "conf": 0.68
+  },
+  {
+   "text": "Slate:",
+   "conf": 0.3
+  },
+  {
+   "text": "CRP",
+   "conf": 0.75
+  },
+  {
+   "text": "Workstation:",
+   "conf": 0.6
+  },
+  {
+   "text": "4",
+   "conf": 0.82
+  },
+  {
+   "text": "ae]",
+   "conf": 0.37
+  },
+  {
+   "text": "FIREARMS",
+   "conf": 0.2
+  },
+  {
+   "text": "|@",
+   "conf": 0.09
+  },
+  {
+   "text": "UNKNOWN",
+   "conf": 0.12
+  },
+  {
+   "text": "Firearms",
+   "conf": 0.96
+  },
+  {
+   "text": "Unknown",
+   "conf": 0.96
+  },
+  {
+   "text": "416",
+   "conf": 0.91
+  },
+  {
+   "text": "National",
+   "conf": 0.62
+  },
+  {
+   "text": "Cty",
+   "conf": 0.79
+  },
+  {
+   "text": "evs.",
+   "conf": 0.09
+  },
+  {
+   "text": "Unit",
+   "conf": 0.67
+  },
+  {
+   "text": "&",
+   "conf": 0.57
+  },
+  {
+   "text": "Nationa",
+   "conf": 0.27
+  },
+  {
+   "text": "Cty,",
+   "conf": 0.27
+  },
+  {
+   "text": "CA",
+   "conf": 0.91
+  },
+  {
+   "text": "91980",
+   "conf": 0.74
+  },
+  {
+   "text": "(619)",
+   "conf": 0.75
+  },
+  {
+   "text": "507-3174",
+   "conf": 0.75
+  },
+  {
+   "text": "Retums",
+   "conf": 0.57
+  },
+  {
+   "text": "Accepted",
+   "conf": 0.91
+  },
+  {
+   "text": "Within",
+   "conf": 0.65
+  },
+  {
+   "text": "14",
+   "conf": 0.65
+  },
+  {
+   "text": "Days",
+   "conf": 0.86
+  },
+  {
+   "text": "‘Store",
+   "conf": 0.89
+  },
+  {
+   "text": "Credit",
+   "conf": 0.94
+  },
+  {
+   "text": "Only,",
+   "conf": 0.96
+  },
+  {
+   "text": "No",
+   "conf": 0.96
+  },
+  {
+   "text": "Refunds",
+   "conf": 0.16
+  },
+  {
+   "text": "Cashier:",
+   "conf": 0.88
+  },
+  {
+   "text": "Grover",
+   "conf": 0.94
+  },
+  {
+   "text": "tom",
+   "conf": 0.03
+  },
+  {
+   "text": "Name",
+   "conf": 0.11
+  },
+  {
+   "text": "@ly_Piico._Ext",
+   "conf": 0.09
+  },
+  {
+   "text": "Petco",
+   "conf": 0.0
+  },
+  {
+   "text": "ACE",
+   "conf": 0.94
+  },
+  {
+   "text": "Skeleton",
+   "conf": 0.94
+  },
+  {
+   "text": "Stock",
+   "conf": 0.95
+  },
+  {
+   "text": "1",
+   "conf": 0.85
+  },
+  {
+   "text": "$99.99",
+   "conf": 0.71
+  },
+  {
+   "text": "$99.99",
+   "conf": 0.52
+  },
+  {
+   "text": "N",
+   "conf": 0.61
+  },
+  {
+   "text": "Black",
+   "conf": 0.91
+  },
+  {
+   "text": "Rifle",
+   "conf": 0.9
+  },
+  {
+   "text": "D%",
+   "conf": 0.65
+  },
+  {
+   "text": "20.01%",
+   "conf": 0.44
+  },
+  {
+   "text": "))",
+   "conf": 0.6
+  },
+  {
+   "text": "Sublets:",
+   "conf": 0.0
+  },
+  {
+   "text": "$90.50",
+   "conf": 0.53
+  },
+  {
+   "text": "|",
+   "conf": 0.57
+  },
+  {
+   "text": "qh",
+   "conf": 0.34
+  }
+ ],
+ "mean_conf": 0.5919,
+ "low_conf_share": 0.3103,
+ "latency_ms": 578,
+ "fields": {
+  "company": "SLATE CRP WORKSTATION 4",
+  "date": null,
+  "total": 99.99
+ },
+ "rule_reasons": [
+  "date_not_found",
+  "total_no_keyword_fallback_max"
+ ],
+ "total_candidates": [
+  99.99,
+  99.99,
+  20.01,
+  90.5
+ ],
+ "key": "W0194_9b8fa37d3e44"
+}

@@ -1,0 +1,345 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "THEREAL k aa",
+  "The Real Greek Hoxton",
+  "14-15 Hoxton Market",
+  "London N1. 6HG",
+  "Tel : 0207 739 8212",
+  "Marzena nd",
+  "21/10/2009 21:35 000057",
+  "Table: 13 -",
+  "Covers: 2",
+  "1 Petit Papillon Rose £17.50",
+  "1 Flat Bread $2.00",
+  "1 Skewer Chicken £4.75",
+  "1 Skewer Lamb $5.25 a",
+  "1 Grilled Asparagus $3.95 Fie",
+  "1 Halloumi Melitzano $3.95",
+  "1 Kalamari 5.15 oy",
+  "ie Rice 92.95. Bee",
+  "1 Gourmet Society 502 £14.30",
+  "é 8 Items",
+  "TOTAL sige 4"
+ ],
+ "tokens": [
+  {
+   "text": "THEREAL",
+   "conf": 0.55
+  },
+  {
+   "text": "k",
+   "conf": 0.91
+  },
+  {
+   "text": "aa",
+   "conf": 0.25
+  },
+  {
+   "text": "The",
+   "conf": 0.96
+  },
+  {
+   "text": "Real",
+   "conf": 0.95
+  },
+  {
+   "text": "Greek",
+   "conf": 0.95
+  },
+  {
+   "text": "Hoxton",
+   "conf": 0.96
+  },
+  {
+   "text": "14-15",
+   "conf": 0.91
+  },
+  {
+   "text": "Hoxton",
+   "conf": 0.91
+  },
+  {
+   "text": "Market",
+   "conf": 0.94
+  },
+  {
+   "text": "London",
+   "conf": 0.65
+  },
+  {
+   "text": "N1.",
+   "conf": 0.01
+  },
+  {
+   "text": "6HG",
+   "conf": 0.33
+  },
+  {
+   "text": "Tel",
+   "conf": 0.87
+  },
+  {
+   "text": ":",
+   "conf": 0.8
+  },
+  {
+   "text": "0207",
+   "conf": 0.96
+  },
+  {
+   "text": "739",
+   "conf": 0.88
+  },
+  {
+   "text": "8212",
+   "conf": 0.91
+  },
+  {
+   "text": "Marzena",
+   "conf": 0.46
+  },
+  {
+   "text": "nd",
+   "conf": 0.57
+  },
+  {
+   "text": "21/10/2009",
+   "conf": 0.78
+  },
+  {
+   "text": "21:35",
+   "conf": 0.78
+  },
+  {
+   "text": "000057",
+   "conf": 0.78
+  },
+  {
+   "text": "Table:",
+   "conf": 0.95
+  },
+  {
+   "text": "13",
+   "conf": 0.95
+  },
+  {
+   "text": "-",
+   "conf": 0.0
+  },
+  {
+   "text": "Covers:",
+   "conf": 0.95
+  },
+  {
+   "text": "2",
+   "conf": 0.96
+  },
+  {
+   "text": "1",
+   "conf": 0.43
+  },
+  {
+   "text": "Petit",
+   "conf": 0.81
+  },
+  {
+   "text": "Papillon",
+   "conf": 0.96
+  },
+  {
+   "text": "Rose",
+   "conf": 0.95
+  },
+  {
+   "text": "£17.50",
+   "conf": 0.92
+  },
+  {
+   "text": "1",
+   "conf": 0.94
+  },
+  {
+   "text": "Flat",
+   "conf": 0.96
+  },
+  {
+   "text": "Bread",
+   "conf": 0.96
+  },
+  {
+   "text": "$2.00",
+   "conf": 0.65
+  },
+  {
+   "text": "1",
+   "conf": 0.51
+  },
+  {
+   "text": "Skewer",
+   "conf": 0.79
+  },
+  {
+   "text": "Chicken",
+   "conf": 0.96
+  },
+  {
+   "text": "£4.75",
+   "conf": 0.91
+  },
+  {
+   "text": "1",
+   "conf": 0.43
+  },
+  {
+   "text": "Skewer",
+   "conf": 0.85
+  },
+  {
+   "text": "Lamb",
+   "conf": 0.89
+  },
+  {
+   "text": "$5.25",
+   "conf": 0.3
+  },
+  {
+   "text": "a",
+   "conf": 0.06
+  },
+  {
+   "text": "1",
+   "conf": 0.65
+  },
+  {
+   "text": "Grilled",
+   "conf": 0.96
+  },
+  {
+   "text": "Asparagus",
+   "conf": 0.96
+  },
+  {
+   "text": "$3.95",
+   "conf": 0.54
+  },
+  {
+   "text": "Fie",
+   "conf": 0.12
+  },
+  {
+   "text": "1",
+   "conf": 0.54
+  },
+  {
+   "text": "Halloumi",
+   "conf": 0.72
+  },
+  {
+   "text": "Melitzano",
+   "conf": 0.89
+  },
+  {
+   "text": "$3.95",
+   "conf": 0.2
+  },
+  {
+   "text": "1",
+   "conf": 0.63
+  },
+  {
+   "text": "Kalamari",
+   "conf": 0.58
+  },
+  {
+   "text": "5.15",
+   "conf": 0.47
+  },
+  {
+   "text": "oy",
+   "conf": 0.17
+  },
+  {
+   "text": "ie",
+   "conf": 0.35
+  },
+  {
+   "text": "Rice",
+   "conf": 0.65
+  },
+  {
+   "text": "92.95.",
+   "conf": 0.53
+  },
+  {
+   "text": "Bee",
+   "conf": 0.33
+  },
+  {
+   "text": "1",
+   "conf": 0.78
+  },
+  {
+   "text": "Gourmet",
+   "conf": 0.69
+  },
+  {
+   "text": "Society",
+   "conf": 0.96
+  },
+  {
+   "text": "502",
+   "conf": 0.89
+  },
+  {
+   "text": "£14.30",
+   "conf": 0.32
+  },
+  {
+   "text": "é",
+   "conf": 0.14
+  },
+  {
+   "text": "8",
+   "conf": 0.96
+  },
+  {
+   "text": "Items",
+   "conf": 0.94
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.91
+  },
+  {
+   "text": "sige",
+   "conf": 0.0
+  },
+  {
+   "text": "4",
+   "conf": 0.46
+  }
+ ],
+ "mean_conf": 0.6824,
+ "low_conf_share": 0.2568,
+ "latency_ms": 1358,
+ "fields": {
+  "company": "THEREAL K AA",
+  "date": "2009-10-21",
+  "total": 92.95
+ },
+ "rule_reasons": [
+  "total_no_keyword_fallback_max"
+ ],
+ "total_candidates": [
+  2.0,
+  4.75,
+  5.25,
+  3.95,
+  3.95,
+  5.15,
+  92.95,
+  14.3
+ ],
+ "key": "W0133_fbb175082843"
+}

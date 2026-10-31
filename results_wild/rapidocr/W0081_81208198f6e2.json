@@ -1,0 +1,149 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "The Natfonal Underground",
+  "105Broaday Ste 101",
+  "Nashvi11e.TN 37201",
+  "ph615-255-5522",
+  "Guest Check",
+  "Thank You for Visiting",
+  "ww.thenatfonalunderground.com",
+  "TABLE:Inside 9-1Guest",
+  "Your Server was David R",
+  "4/13/2013-9:00:17PM",
+  "Sequence#:0000210",
+  "ID：0101840",
+  "OTY PRICE",
+  "illerLite:B $4.00",
+  "Bud Ltght:B $4.00",
+  "Vantlla $8.00",
+  "Prep:Doxble",
+  "Subtotal $24.00",
+  "Grand Total $24.00",
+  "Anount Due: $24.00",
+  "Come back soon!"
+ ],
+ "tokens": [
+  {
+   "text": "The Natfonal Underground",
+   "conf": 0.9137451226512591
+  },
+  {
+   "text": "105Broaday Ste 101",
+   "conf": 0.9483848876423306
+  },
+  {
+   "text": "Nashvi11e.TN 37201",
+   "conf": 0.9101968887779448
+  },
+  {
+   "text": "ph615-255-5522",
+   "conf": 0.992045487676348
+  },
+  {
+   "text": "Guest Check",
+   "conf": 0.9605952934785322
+  },
+  {
+   "text": "Thank You for Visiting",
+   "conf": 0.9220220473679629
+  },
+  {
+   "text": "ww.thenatfonalunderground.com",
+   "conf": 0.9238713393951284
+  },
+  {
+   "text": "TABLE:Inside 9-1Guest",
+   "conf": 0.909595841453189
+  },
+  {
+   "text": "Your Server was David R",
+   "conf": 0.9070468778195588
+  },
+  {
+   "text": "4/13/2013-9:00:17PM",
+   "conf": 0.9489148321904635
+  },
+  {
+   "text": "Sequence#:0000210",
+   "conf": 0.9325804535080405
+  },
+  {
+   "text": "ID：0101840",
+   "conf": 0.9240109145641326
+  },
+  {
+   "text": "OTY PRICE",
+   "conf": 0.8901904556486342
+  },
+  {
+   "text": "illerLite:B",
+   "conf": 0.9024273698980158
+  },
+  {
+   "text": "$4.00",
+   "conf": 0.9643367886543274
+  },
+  {
+   "text": "Bud Ltght:B",
+   "conf": 0.854505105452104
+  },
+  {
+   "text": "Vantlla",
+   "conf": 0.915209949016571
+  },
+  {
+   "text": "$4.00",
+   "conf": 0.9454145193099975
+  },
+  {
+   "text": "$8.00",
+   "conf": 0.9883391976356506
+  },
+  {
+   "text": "Prep:Doxble",
+   "conf": 0.7589367167516188
+  },
+  {
+   "text": "Subtotal",
+   "conf": 0.9541363939642906
+  },
+  {
+   "text": "$24.00",
+   "conf": 0.9668071568012238
+  },
+  {
+   "text": "Grand Total",
+   "conf": 0.9479896534572948
+  },
+  {
+   "text": "$24.00",
+   "conf": 0.9876131614049276
+  },
+  {
+   "text": "Anount Due:",
+   "conf": 0.8760491636666384
+  },
+  {
+   "text": "$24.00",
+   "conf": 0.9894243280092875
+  },
+  {
+   "text": "Come back soon!",
+   "conf": 0.8919312874476115
+  }
+ ],
+ "mean_conf": 0.9269,
+ "low_conf_share": 0.0,
+ "latency_ms": 3250,
+ "fields": {
+  "company": "THE NATFONAL UNDERGROUND",
+  "date": "2013-04-13",
+  "total": 24.0
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  24.0
+ ],
+ "key": "W0081_81208198f6e2"
+}

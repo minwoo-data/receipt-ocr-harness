@@ -1,0 +1,159 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "Casey's General",
+  "St0re #1695",
+  "203 S0UTH MARKET STR",
+  "SOLON, IA 52333",
+  "Date 0116/2015",
+  "Time 05:51",
+  "AX",
+  "###########1日5",
+  "Pump Gallons Price",
+  "03 2.465 $1.899",
+  "Product Amount",
+  "SUPER $4.68",
+  "TotalSale $4.68",
+  "SALE Card Swiped",
+  "Auth # 588747"
+ ],
+ "tokens": [
+  {
+   "text": "Casey's General",
+   "conf": 0.9585908929506938
+  },
+  {
+   "text": "St0re #1695",
+   "conf": 0.9032750075513666
+  },
+  {
+   "text": "203 S0UTH",
+   "conf": 0.8641475240389506
+  },
+  {
+   "text": "MARKET",
+   "conf": 0.9847705463568369
+  },
+  {
+   "text": "STR",
+   "conf": 0.9804413914680481
+  },
+  {
+   "text": "SOLON,",
+   "conf": 0.9880956510702769
+  },
+  {
+   "text": "IA",
+   "conf": 0.9705013930797577
+  },
+  {
+   "text": "52333",
+   "conf": 0.9977288246154785
+  },
+  {
+   "text": "Date",
+   "conf": 0.9923925548791885
+  },
+  {
+   "text": "0116/2015",
+   "conf": 0.8992834587891897
+  },
+  {
+   "text": "Time",
+   "conf": 0.9894645512104034
+  },
+  {
+   "text": "05:51",
+   "conf": 0.9516897320747375
+  },
+  {
+   "text": "AX",
+   "conf": 0.9945473670959473
+  },
+  {
+   "text": "###########1日5",
+   "conf": 0.9308127207415444
+  },
+  {
+   "text": "Pump",
+   "conf": 0.8081977516412735
+  },
+  {
+   "text": "Gallons",
+   "conf": 0.9810331208365304
+  },
+  {
+   "text": "Price",
+   "conf": 0.9883552432060242
+  },
+  {
+   "text": "03",
+   "conf": 0.943015456199646
+  },
+  {
+   "text": "2.465",
+   "conf": 0.9987792134284973
+  },
+  {
+   "text": "$1.899",
+   "conf": 0.9538347323735555
+  },
+  {
+   "text": "Product",
+   "conf": 0.9787877968379429
+  },
+  {
+   "text": "Amount",
+   "conf": 0.9792882005373637
+  },
+  {
+   "text": "SUPER",
+   "conf": 0.9469493746757507
+  },
+  {
+   "text": "$4.68",
+   "conf": 0.9825047135353089
+  },
+  {
+   "text": "TotalSale",
+   "conf": 0.9935599499278598
+  },
+  {
+   "text": "$4.68",
+   "conf": 0.9882581949234008
+  },
+  {
+   "text": "SALE",
+   "conf": 0.9698434770107269
+  },
+  {
+   "text": "Card Swiped",
+   "conf": 0.9734341935677961
+  },
+  {
+   "text": "Auth #",
+   "conf": 0.9102140367031097
+  },
+  {
+   "text": "588747",
+   "conf": 0.9972873826821645
+  }
+ ],
+ "mean_conf": 0.96,
+ "low_conf_share": 0.0,
+ "latency_ms": 4158,
+ "fields": {
+  "company": "CASEY S GENERAL",
+  "date": null,
+  "total": 4.68
+ },
+ "rule_reasons": [
+  "date_not_found",
+  "total_no_keyword_fallback_max"
+ ],
+ "total_candidates": [
+  4.68,
+  4.68
+ ],
+ "key": "W0117_84d2de82bf37"
+}

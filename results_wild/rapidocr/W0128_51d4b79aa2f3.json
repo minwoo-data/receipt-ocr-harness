@@ -1,0 +1,140 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "@algreens",
+  "#09890 1MILLARD FARMER IND BLVD",
+  "NEWNAN,GA30263",
+  "770-251-6778",
+  "200 8200 002106/16/20172:48PM",
+  "AMAZON GIFT CARD N/D",
+  "6219871884888973 250.00",
+  "TOTAL 250.00",
+  "CASH 250.00",
+  "CHANGE .00",
+  "THANK YOU FOR SHOPPING AT WALGREENS",
+  "DIDYOU KNCW THAT YOU CAN EARNPOINTS",
+  "ONTHOUSANDSOF ITEMSIN-STORE AND",
+  "ONLINE?SEEOURWEEKLYADFORMORE",
+  "INFORMATION.ITEMS CHANGE WEEKLY",
+  "RESTRICTIONS APPLY.FOR TERMS AND",
+  "CONDITIONS,VISIT WALGREENS.COM/BALANCE.",
+  "RFN# 0989-0218-2005-1706-1603"
+ ],
+ "tokens": [
+  {
+   "text": "@algreens",
+   "conf": 0.8832120100657145
+  },
+  {
+   "text": "#09890 1MILLARD FARMER IND BLVD",
+   "conf": 0.9358550367816802
+  },
+  {
+   "text": "NEWNAN,GA30263",
+   "conf": 0.9513398515326636
+  },
+  {
+   "text": "770-251-6778",
+   "conf": 0.9963993231455485
+  },
+  {
+   "text": "200",
+   "conf": 0.9990782936414083
+  },
+  {
+   "text": "8200",
+   "conf": 0.9978955537080765
+  },
+  {
+   "text": "002106/16/20172:48PM",
+   "conf": 0.994254532456398
+  },
+  {
+   "text": "AMAZON GIFT CARD",
+   "conf": 0.9366554729640484
+  },
+  {
+   "text": "N/D",
+   "conf": 0.8913396000862122
+  },
+  {
+   "text": "6219871884888973",
+   "conf": 0.9977525435388088
+  },
+  {
+   "text": "250.00",
+   "conf": 0.9981416463851929
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.9957095265388489
+  },
+  {
+   "text": "250.00",
+   "conf": 0.9976749022801717
+  },
+  {
+   "text": "CASH",
+   "conf": 0.9936593621969223
+  },
+  {
+   "text": "250.00",
+   "conf": 0.9978651305039724
+  },
+  {
+   "text": "CHANGE",
+   "conf": 0.9916850924491882
+  },
+  {
+   "text": ".00",
+   "conf": 0.9917760690053304
+  },
+  {
+   "text": "THANK YOU FOR SHOPPING AT WALGREENS",
+   "conf": 0.9588707974978856
+  },
+  {
+   "text": "DIDYOU KNCW THAT YOU CAN EARNPOINTS",
+   "conf": 0.9225809131349836
+  },
+  {
+   "text": "ONTHOUSANDSOF ITEMSIN-STORE AND",
+   "conf": 0.9606143870661336
+  },
+  {
+   "text": "ONLINE?SEEOURWEEKLYADFORMORE",
+   "conf": 0.9927926915032523
+  },
+  {
+   "text": "INFORMATION.ITEMS CHANGE WEEKLY",
+   "conf": 0.9460776429022512
+  },
+  {
+   "text": "RESTRICTIONS APPLY.FOR TERMS AND",
+   "conf": 0.9624100811779499
+  },
+  {
+   "text": "CONDITIONS,VISIT WALGREENS.COM/BALANCE.",
+   "conf": 0.9563087194393842
+  },
+  {
+   "text": "RFN# 0989-0218-2005-1706-1603",
+   "conf": 0.9793139470034632
+  }
+ ],
+ "mean_conf": 0.9692,
+ "low_conf_share": 0.0,
+ "latency_ms": 2942,
+ "fields": {
+  "company": "ALGREENS",
+  "date": null,
+  "total": 250.0
+ },
+ "rule_reasons": [
+  "date_not_found"
+ ],
+ "total_candidates": [
+  250.0
+ ],
+ "key": "W0128_51d4b79aa2f3"
+}

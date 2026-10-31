@@ -1,0 +1,272 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "TRUMBULL, - 203-455-",
+  "11/28/2011 01:39 PH EXPIRES 02/20/12",
+  "ENTERTATNMENT-ELECTRONICS",
+  "057170035 ANAZON FIRE 1 $123.2",
+  "Regular Price $199.00",
+  "Return by 01/09/12",
+  "SUBTOTAL $123.32",
+  "Your REDcard Savings 5% | $6.17",
+  "T= CT TAX 6.2500% on $117.15 | $7.44",
+  "TOTAL $124.59",
+  "x6775 TARGET VISA $124.59",
+  "®",
+  "5",
+  "OFF",
+  "TODAY",
+  "EVERY DAY",
+  "Today's REDeard Savings",
+  "$6.17",
+  "TOTAL SAVINGS THIS TRIP",
+  "a6 17"
+ ],
+ "tokens": [
+  {
+   "text": "TRUMBULL,",
+   "conf": 0.7
+  },
+  {
+   "text": "-",
+   "conf": 0.73
+  },
+  {
+   "text": "203-455-",
+   "conf": 0.74
+  },
+  {
+   "text": "11/28/2011",
+   "conf": 0.68
+  },
+  {
+   "text": "01:39",
+   "conf": 0.83
+  },
+  {
+   "text": "PH",
+   "conf": 0.56
+  },
+  {
+   "text": "EXPIRES",
+   "conf": 0.01
+  },
+  {
+   "text": "02/20/12",
+   "conf": 0.75
+  },
+  {
+   "text": "ENTERTATNMENT-ELECTRONICS",
+   "conf": 0.84
+  },
+  {
+   "text": "057170035",
+   "conf": 0.94
+  },
+  {
+   "text": "ANAZON",
+   "conf": 0.37
+  },
+  {
+   "text": "FIRE",
+   "conf": 0.84
+  },
+  {
+   "text": "1",
+   "conf": 0.37
+  },
+  {
+   "text": "$123.2",
+   "conf": 0.61
+  },
+  {
+   "text": "Regular",
+   "conf": 0.91
+  },
+  {
+   "text": "Price",
+   "conf": 0.91
+  },
+  {
+   "text": "$199.00",
+   "conf": 0.96
+  },
+  {
+   "text": "Return",
+   "conf": 0.94
+  },
+  {
+   "text": "by",
+   "conf": 0.96
+  },
+  {
+   "text": "01/09/12",
+   "conf": 0.96
+  },
+  {
+   "text": "SUBTOTAL",
+   "conf": 0.93
+  },
+  {
+   "text": "$123.32",
+   "conf": 0.91
+  },
+  {
+   "text": "Your",
+   "conf": 0.55
+  },
+  {
+   "text": "REDcard",
+   "conf": 0.8
+  },
+  {
+   "text": "Savings",
+   "conf": 0.95
+  },
+  {
+   "text": "5%",
+   "conf": 0.87
+  },
+  {
+   "text": "|",
+   "conf": 0.17
+  },
+  {
+   "text": "$6.17",
+   "conf": 0.9
+  },
+  {
+   "text": "T=",
+   "conf": 0.38
+  },
+  {
+   "text": "CT",
+   "conf": 0.38
+  },
+  {
+   "text": "TAX",
+   "conf": 0.86
+  },
+  {
+   "text": "6.2500%",
+   "conf": 0.52
+  },
+  {
+   "text": "on",
+   "conf": 0.95
+  },
+  {
+   "text": "$117.15",
+   "conf": 0.89
+  },
+  {
+   "text": "|",
+   "conf": 0.57
+  },
+  {
+   "text": "$7.44",
+   "conf": 0.83
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.79
+  },
+  {
+   "text": "$124.59",
+   "conf": 0.61
+  },
+  {
+   "text": "x6775",
+   "conf": 0.72
+  },
+  {
+   "text": "TARGET",
+   "conf": 0.96
+  },
+  {
+   "text": "VISA",
+   "conf": 0.91
+  },
+  {
+   "text": "$124.59",
+   "conf": 0.84
+  },
+  {
+   "text": "®",
+   "conf": 0.39
+  },
+  {
+   "text": "5",
+   "conf": 0.28
+  },
+  {
+   "text": "OFF",
+   "conf": 0.92
+  },
+  {
+   "text": "TODAY",
+   "conf": 0.27
+  },
+  {
+   "text": "EVERY",
+   "conf": 0.96
+  },
+  {
+   "text": "DAY",
+   "conf": 0.96
+  },
+  {
+   "text": "Today's",
+   "conf": 0.91
+  },
+  {
+   "text": "REDeard",
+   "conf": 0.66
+  },
+  {
+   "text": "Savings",
+   "conf": 0.96
+  },
+  {
+   "text": "$6.17",
+   "conf": 0.96
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.94
+  },
+  {
+   "text": "SAVINGS",
+   "conf": 0.96
+  },
+  {
+   "text": "THIS",
+   "conf": 0.87
+  },
+  {
+   "text": "TRIP",
+   "conf": 0.95
+  },
+  {
+   "text": "a6",
+   "conf": 0.28
+  },
+  {
+   "text": "17",
+   "conf": 0.56
+  }
+ ],
+ "mean_conf": 0.7367,
+ "low_conf_share": 0.1724,
+ "latency_ms": 413,
+ "fields": {
+  "company": "ENTERTATNMENT ELECTRONICS",
+  "date": "2011-11-28",
+  "total": 124.59
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  124.59
+ ],
+ "key": "W0148_499edd655772"
+}

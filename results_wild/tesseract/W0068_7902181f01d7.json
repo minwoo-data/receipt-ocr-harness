@@ -1,0 +1,336 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "cactus Ashley Phase",
+  "200 Aly Psst Road",
+  ": cc",
+  "Yashcashiert, ___cz/t/4, 02:21",
+  "Shift 2, Empl 31768, Sale # 3225900051",
+  "‘oeiwe weno 8",
+  "biota! 8.8",
+  "selects 0.00",
+  "Total 19:95",
+  "Vise x 85 >",
+  "{Sate hor #665092) :",
+  "pa NSA",
+  "Your vash Service Advisor was #4264.",
+  "Thark you for choosing actus Car Wash",
+  "Yor all your cer care needs!",
+  "If you have any cestions, coments oF",
+  "concerns please contact us at: :",
+  ". 343-673-1579",
+  "a OF."
+ ],
+ "tokens": [
+  {
+   "text": "cactus",
+   "conf": 0.68
+  },
+  {
+   "text": "Ashley",
+   "conf": 0.45
+  },
+  {
+   "text": "Phase",
+   "conf": 0.17
+  },
+  {
+   "text": "200",
+   "conf": 0.38
+  },
+  {
+   "text": "Aly",
+   "conf": 0.41
+  },
+  {
+   "text": "Psst",
+   "conf": 0.41
+  },
+  {
+   "text": "Road",
+   "conf": 0.54
+  },
+  {
+   "text": ":",
+   "conf": 0.08
+  },
+  {
+   "text": "cc",
+   "conf": 0.23
+  },
+  {
+   "text": "Yashcashiert,",
+   "conf": 0.0
+  },
+  {
+   "text": "___cz/t/4,",
+   "conf": 0.0
+  },
+  {
+   "text": "02:21",
+   "conf": 0.69
+  },
+  {
+   "text": "Shift",
+   "conf": 0.53
+  },
+  {
+   "text": "2,",
+   "conf": 0.9
+  },
+  {
+   "text": "Empl",
+   "conf": 0.53
+  },
+  {
+   "text": "31768,",
+   "conf": 0.42
+  },
+  {
+   "text": "Sale",
+   "conf": 0.53
+  },
+  {
+   "text": "#",
+   "conf": 0.75
+  },
+  {
+   "text": "3225900051",
+   "conf": 0.57
+  },
+  {
+   "text": "‘oeiwe",
+   "conf": 0.0
+  },
+  {
+   "text": "weno",
+   "conf": 0.33
+  },
+  {
+   "text": "8",
+   "conf": 0.52
+  },
+  {
+   "text": "biota!",
+   "conf": 0.0
+  },
+  {
+   "text": "8.8",
+   "conf": 0.43
+  },
+  {
+   "text": "selects",
+   "conf": 0.0
+  },
+  {
+   "text": "0.00",
+   "conf": 0.59
+  },
+  {
+   "text": "Total",
+   "conf": 0.14
+  },
+  {
+   "text": "19:95",
+   "conf": 0.48
+  },
+  {
+   "text": "Vise",
+   "conf": 0.74
+  },
+  {
+   "text": "x",
+   "conf": 0.57
+  },
+  {
+   "text": "85",
+   "conf": 0.63
+  },
+  {
+   "text": ">",
+   "conf": 0.52
+  },
+  {
+   "text": "{Sate",
+   "conf": 0.7
+  },
+  {
+   "text": "hor",
+   "conf": 0.61
+  },
+  {
+   "text": "#665092)",
+   "conf": 0.56
+  },
+  {
+   "text": ":",
+   "conf": 0.1
+  },
+  {
+   "text": "pa",
+   "conf": 0.22
+  },
+  {
+   "text": "NSA",
+   "conf": 0.15
+  },
+  {
+   "text": "Your",
+   "conf": 0.84
+  },
+  {
+   "text": "vash",
+   "conf": 0.69
+  },
+  {
+   "text": "Service",
+   "conf": 0.76
+  },
+  {
+   "text": "Advisor",
+   "conf": 0.59
+  },
+  {
+   "text": "was",
+   "conf": 0.78
+  },
+  {
+   "text": "#4264.",
+   "conf": 0.84
+  },
+  {
+   "text": "Thark",
+   "conf": 0.84
+  },
+  {
+   "text": "you",
+   "conf": 0.96
+  },
+  {
+   "text": "for",
+   "conf": 0.93
+  },
+  {
+   "text": "choosing",
+   "conf": 0.48
+  },
+  {
+   "text": "actus",
+   "conf": 0.77
+  },
+  {
+   "text": "Car",
+   "conf": 0.88
+  },
+  {
+   "text": "Wash",
+   "conf": 0.76
+  },
+  {
+   "text": "Yor",
+   "conf": 0.55
+  },
+  {
+   "text": "all",
+   "conf": 0.68
+  },
+  {
+   "text": "your",
+   "conf": 0.68
+  },
+  {
+   "text": "cer",
+   "conf": 0.56
+  },
+  {
+   "text": "care",
+   "conf": 0.56
+  },
+  {
+   "text": "needs!",
+   "conf": 0.77
+  },
+  {
+   "text": "If",
+   "conf": 0.7
+  },
+  {
+   "text": "you",
+   "conf": 0.88
+  },
+  {
+   "text": "have",
+   "conf": 0.96
+  },
+  {
+   "text": "any",
+   "conf": 0.92
+  },
+  {
+   "text": "cestions,",
+   "conf": 0.04
+  },
+  {
+   "text": "coments",
+   "conf": 0.94
+  },
+  {
+   "text": "oF",
+   "conf": 0.65
+  },
+  {
+   "text": "concerns",
+   "conf": 0.59
+  },
+  {
+   "text": "please",
+   "conf": 0.59
+  },
+  {
+   "text": "contact",
+   "conf": 0.39
+  },
+  {
+   "text": "us",
+   "conf": 0.67
+  },
+  {
+   "text": "at:",
+   "conf": 0.74
+  },
+  {
+   "text": ":",
+   "conf": 0.48
+  },
+  {
+   "text": ".",
+   "conf": 0.44
+  },
+  {
+   "text": "343-673-1579",
+   "conf": 0.6
+  },
+  {
+   "text": "a",
+   "conf": 0.07
+  },
+  {
+   "text": "OF.",
+   "conf": 0.56
+  }
+ ],
+ "mean_conf": 0.5365,
+ "low_conf_share": 0.3514,
+ "latency_ms": 304,
+ "fields": {
+  "company": "CACTUS ASHLEY PHASE",
+  "date": null,
+  "total": null
+ },
+ "rule_reasons": [
+  "date_not_found",
+  "total_not_found"
+ ],
+ "total_candidates": [],
+ "key": "W0068_7902181f01d7"
+}

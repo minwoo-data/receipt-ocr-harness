@@ -1,0 +1,283 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "; Five Below - Waldorf",
+  "be 3011 Festival Way :",
+  "», Waldorf, MD 20603 301-895-0650",
+  "} 205 00001 30716 09/15/13",
+  "ALE 430094205 92:24 pM",
+  "SELLING ASSOC: 430094205",
+  "071249213735 LOREAL SUBLIME S 1.00",
+  "f 071249213728 LOREAL SUBLIMES 4.09",
+  "814666017339 SOLAR FLOWER ASS 1,00",
+  "j 3 ITEMS SUBTOTAL 3.00",
+  "| 3,00 TAX 6.000% 0.18",
+  ") TOTAL $318",
+  ", CASH 10.20",
+  "! CHANGE -7,.02"
+ ],
+ "tokens": [
+  {
+   "text": ";",
+   "conf": 0.46
+  },
+  {
+   "text": "Five",
+   "conf": 0.96
+  },
+  {
+   "text": "Below",
+   "conf": 0.93
+  },
+  {
+   "text": "-",
+   "conf": 0.91
+  },
+  {
+   "text": "Waldorf",
+   "conf": 0.77
+  },
+  {
+   "text": "be",
+   "conf": 0.22
+  },
+  {
+   "text": "3011",
+   "conf": 0.95
+  },
+  {
+   "text": "Festival",
+   "conf": 0.95
+  },
+  {
+   "text": "Way",
+   "conf": 0.92
+  },
+  {
+   "text": ":",
+   "conf": 0.48
+  },
+  {
+   "text": "»,",
+   "conf": 0.0
+  },
+  {
+   "text": "Waldorf,",
+   "conf": 0.87
+  },
+  {
+   "text": "MD",
+   "conf": 0.72
+  },
+  {
+   "text": "20603",
+   "conf": 0.86
+  },
+  {
+   "text": "301-895-0650",
+   "conf": 0.69
+  },
+  {
+   "text": "}",
+   "conf": 0.91
+  },
+  {
+   "text": "205",
+   "conf": 0.86
+  },
+  {
+   "text": "00001",
+   "conf": 0.68
+  },
+  {
+   "text": "30716",
+   "conf": 0.82
+  },
+  {
+   "text": "09/15/13",
+   "conf": 0.47
+  },
+  {
+   "text": "ALE",
+   "conf": 0.69
+  },
+  {
+   "text": "430094205",
+   "conf": 0.94
+  },
+  {
+   "text": "92:24",
+   "conf": 0.67
+  },
+  {
+   "text": "pM",
+   "conf": 0.67
+  },
+  {
+   "text": "SELLING",
+   "conf": 0.0
+  },
+  {
+   "text": "ASSOC:",
+   "conf": 0.92
+  },
+  {
+   "text": "430094205",
+   "conf": 0.73
+  },
+  {
+   "text": "071249213735",
+   "conf": 0.88
+  },
+  {
+   "text": "LOREAL",
+   "conf": 0.94
+  },
+  {
+   "text": "SUBLIME",
+   "conf": 0.63
+  },
+  {
+   "text": "S",
+   "conf": 0.63
+  },
+  {
+   "text": "1.00",
+   "conf": 0.45
+  },
+  {
+   "text": "f",
+   "conf": 0.18
+  },
+  {
+   "text": "071249213728",
+   "conf": 0.72
+  },
+  {
+   "text": "LOREAL",
+   "conf": 0.91
+  },
+  {
+   "text": "SUBLIMES",
+   "conf": 0.24
+  },
+  {
+   "text": "4.09",
+   "conf": 0.59
+  },
+  {
+   "text": "814666017339",
+   "conf": 0.78
+  },
+  {
+   "text": "SOLAR",
+   "conf": 0.95
+  },
+  {
+   "text": "FLOWER",
+   "conf": 0.96
+  },
+  {
+   "text": "ASS",
+   "conf": 0.96
+  },
+  {
+   "text": "1,00",
+   "conf": 0.76
+  },
+  {
+   "text": "j",
+   "conf": 0.56
+  },
+  {
+   "text": "3",
+   "conf": 0.91
+  },
+  {
+   "text": "ITEMS",
+   "conf": 0.88
+  },
+  {
+   "text": "SUBTOTAL",
+   "conf": 0.57
+  },
+  {
+   "text": "3.00",
+   "conf": 0.73
+  },
+  {
+   "text": "|",
+   "conf": 0.85
+  },
+  {
+   "text": "3,00",
+   "conf": 0.81
+  },
+  {
+   "text": "TAX",
+   "conf": 0.82
+  },
+  {
+   "text": "6.000%",
+   "conf": 0.33
+  },
+  {
+   "text": "0.18",
+   "conf": 0.75
+  },
+  {
+   "text": ")",
+   "conf": 0.1
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.93
+  },
+  {
+   "text": "$318",
+   "conf": 0.52
+  },
+  {
+   "text": ",",
+   "conf": 0.01
+  },
+  {
+   "text": "CASH",
+   "conf": 0.96
+  },
+  {
+   "text": "10.20",
+   "conf": 0.93
+  },
+  {
+   "text": "!",
+   "conf": 0.24
+  },
+  {
+   "text": "CHANGE",
+   "conf": 0.96
+  },
+  {
+   "text": "-7,.02",
+   "conf": 0.14
+  }
+ ],
+ "mean_conf": 0.6825,
+ "low_conf_share": 0.2295,
+ "latency_ms": 2150,
+ "fields": {
+  "company": "FIVE BELOW WALDORF",
+  "date": "2013-09-15",
+  "total": 10.2
+ },
+ "rule_reasons": [
+  "total_no_keyword_fallback_max"
+ ],
+ "total_candidates": [
+  4.09,
+  3.0,
+  0.18,
+  10.2
+ ],
+ "key": "W0185_d60ae4871a04"
+}

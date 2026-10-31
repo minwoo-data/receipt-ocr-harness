@@ -1,0 +1,160 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "Queensboro Car Wash",
+  "38-26 21st Street",
+  "Long Island City,NY 11106",
+  "718-752-9143",
+  "Cashier:0147 Tran:Sale",
+  "Register #:2 Receipt #:582499",
+  "Fri Jun 10 201613:44:51",
+  "Car Full Hand Wash 14.00",
+  "Super Wash 4.00",
+  "Armor All Com.SUV 26.99",
+  "Subtotal 44.99",
+  "Taxable 44.99",
+  "Non-Taxable 0.00",
+  "Sales Tax 3.99",
+  "Total 48.98",
+  "Credit Card 48.98",
+  "Change 0.00",
+  "Thank You For Your Business"
+ ],
+ "tokens": [
+  {
+   "text": "Queensboro Car Wash",
+   "conf": 0.9750075434383593
+  },
+  {
+   "text": "38-26 21st Street",
+   "conf": 0.9628510369974024
+  },
+  {
+   "text": "Long Island City,NY 11106",
+   "conf": 0.9532487940788269
+  },
+  {
+   "text": "718-752-9143",
+   "conf": 0.9964005649089813
+  },
+  {
+   "text": "Cashier:0147",
+   "conf": 0.987355907758077
+  },
+  {
+   "text": "Tran:Sale",
+   "conf": 0.9794816970825195
+  },
+  {
+   "text": "Register #:2",
+   "conf": 0.9661132196585337
+  },
+  {
+   "text": "Receipt #:582499",
+   "conf": 0.9713606536388397
+  },
+  {
+   "text": "Fri Jun 10 201613:44:51",
+   "conf": 0.9470761625663094
+  },
+  {
+   "text": "Car Full Hand Wash",
+   "conf": 0.9555329382419586
+  },
+  {
+   "text": "14.00",
+   "conf": 0.9224698305130005
+  },
+  {
+   "text": "Super Wash",
+   "conf": 0.9489975035190582
+  },
+  {
+   "text": "4.00",
+   "conf": 0.9977028667926788
+  },
+  {
+   "text": "Armor All Com.SUV",
+   "conf": 0.9150042954613181
+  },
+  {
+   "text": "26.99",
+   "conf": 0.9973877429962158
+  },
+  {
+   "text": "Subtotal",
+   "conf": 0.9920183047652245
+  },
+  {
+   "text": "44.99",
+   "conf": 0.9975228309631348
+  },
+  {
+   "text": "Taxable",
+   "conf": 0.9708742669650486
+  },
+  {
+   "text": "44.99",
+   "conf": 0.998060941696167
+  },
+  {
+   "text": "Non-Taxable",
+   "conf": 0.977502167224884
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9979739636182785
+  },
+  {
+   "text": "Sales Tax",
+   "conf": 0.9656693604257371
+  },
+  {
+   "text": "3.99",
+   "conf": 0.9974284172058105
+  },
+  {
+   "text": "Total",
+   "conf": 0.9882100939750671
+  },
+  {
+   "text": "48.98",
+   "conf": 0.9979210019111633
+  },
+  {
+   "text": "Credit Card",
+   "conf": 0.9807559793645685
+  },
+  {
+   "text": "48.98",
+   "conf": 0.9982256054878235
+  },
+  {
+   "text": "Change",
+   "conf": 0.9953621427218119
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9226336628198624
+  },
+  {
+   "text": "Thank You For Your Business",
+   "conf": 0.9876299213480066
+  }
+ ],
+ "mean_conf": 0.9748,
+ "low_conf_share": 0.0,
+ "latency_ms": 3612,
+ "fields": {
+  "company": "QUEENSBORO CAR WASH",
+  "date": null,
+  "total": 48.98
+ },
+ "rule_reasons": [
+  "date_not_found"
+ ],
+ "total_candidates": [
+  48.98
+ ],
+ "key": "W0104_6bcf76be3931"
+}

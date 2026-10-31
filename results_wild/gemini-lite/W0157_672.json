@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.1-flash-lite",
+ "provider": "gemini",
+ "raw_text": "{\n  \"vendor\": \"LA VACA AZUL\",\n  \"date\": \"2014-03-21\",\n  \"subtotal\": 35.10,\n  \"tax\": 2.46,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 37.56,\n  \"currency\": \"EUR\",\n  \"confidence\": 0.98,\n  \"notes\": null\n}",
+ "data": {
+  "vendor": "LA VACA AZUL",
+  "date": "2014-03-21",
+  "subtotal": 35.1,
+  "tax": 2.46,
+  "tip": null,
+  "discount": null,
+  "total": 37.56,
+  "currency": "EUR",
+  "confidence": 0.98,
+  "notes": null
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1457,
+  "output_tokens": 107,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.000525,
+ "latency_ms": 1638,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.1-flash-lite",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.1-flash-lite"
+ ],
+ "key": "W0157_672"
+}

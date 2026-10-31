@@ -1,0 +1,184 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "ROSS",
+  "PRESS FOR LESS",
+  "SAN DIEGO, CA",
+  "Phone:858-560-0071",
+  "Gift Card 100.00 N",
+  "Card No. 610899617984XXXX <K>",
+  "Balance:100.00",
+  "Auth No. 010244",
+  "Redeemable for Merchandise only",
+  "Subtotal $100.00",
+  "Total $100.00",
+  "Sold: 1 Returned: 0 Deleted: 0",
+  "Debit $100.00",
+  "Card No. xxxxxxxxxxxX7515",
+  "8062080136100542400",
+  "Auth. No. 531732",
+  "Ref.No.S-000008354-0000000000000-XXXXX",
+  "Cardholder",
+  "Please Retain for Your Records",
+  "Receipt #:1361-05-4374-6207-7",
+  "Gift Card Issue 00",
+  "Debit 00",
+  "Receipt # 1361-05-4374-6207-7",
+  "Store:1361 Reg:05 Tran:4374",
+  "Date: 07/25/16 Time: 06:29",
+  "AsS0C:260523",
+  "Thank you for shopping at Ross!",
+  "www.rossstores.com"
+ ],
+ "tokens": [
+  {
+   "text": "ROSS",
+   "conf": 0.9176389873027802
+  },
+  {
+   "text": "PRESS FOR LESS",
+   "conf": 0.9289830284459251
+  },
+  {
+   "text": "SAN DIEGO, CA",
+   "conf": 0.9791954159736633
+  },
+  {
+   "text": "Phone:858-560-0071",
+   "conf": 0.9955248567793105
+  },
+  {
+   "text": "100.00 N",
+   "conf": 0.9934503734111786
+  },
+  {
+   "text": "Gift Card",
+   "conf": 0.9904762903849283
+  },
+  {
+   "text": "Card No. 610899617984XXXX <K>",
+   "conf": 0.9717061560729454
+  },
+  {
+   "text": "Balance:100.00",
+   "conf": 0.9842856058052608
+  },
+  {
+   "text": "Auth No. 010244",
+   "conf": 0.9968635280927022
+  },
+  {
+   "text": "Redeemable for Merchandise only",
+   "conf": 0.976785998190603
+  },
+  {
+   "text": "$100.00",
+   "conf": 0.9993540389197213
+  },
+  {
+   "text": "Subtotal",
+   "conf": 0.9947485253214836
+  },
+  {
+   "text": "$100.00",
+   "conf": 0.9992747477122715
+  },
+  {
+   "text": "Total",
+   "conf": 0.9887489199638366
+  },
+  {
+   "text": "Sold: 1 Returned: 0 Deleted: 0",
+   "conf": 0.9436499277750651
+  },
+  {
+   "text": "Debit",
+   "conf": 0.9969965100288392
+  },
+  {
+   "text": "$100.00",
+   "conf": 0.9986357178006854
+  },
+  {
+   "text": "Card No. xxxxxxxxxxxX7515",
+   "conf": 0.7800401413440704
+  },
+  {
+   "text": "8062080136100542400",
+   "conf": 0.9986600217066313
+  },
+  {
+   "text": "Auth. No. 531732",
+   "conf": 0.9591018371284008
+  },
+  {
+   "text": "Ref.No.S-000008354-0000000000000-XXXXX",
+   "conf": 0.9897023533519945
+  },
+  {
+   "text": "Cardholder",
+   "conf": 0.9663791418075561
+  },
+  {
+   "text": "Please Retain for Your Records",
+   "conf": 0.9828025817871093
+  },
+  {
+   "text": "Receipt #:1361-05-4374-6207-7",
+   "conf": 0.9756451269675945
+  },
+  {
+   "text": "Gift Card Issue 00",
+   "conf": 0.9644221299224429
+  },
+  {
+   "text": "Debit 00",
+   "conf": 0.941454790532589
+  },
+  {
+   "text": "Receipt # 1361-05-4374-6207-7",
+   "conf": 0.9820776314570986
+  },
+  {
+   "text": "Store:1361",
+   "conf": 0.9942849040031433
+  },
+  {
+   "text": "Reg:05",
+   "conf": 0.987619568904241
+  },
+  {
+   "text": "Tran:4374",
+   "conf": 0.9885065820482042
+  },
+  {
+   "text": "Date: 07/25/16 Time: 06:29",
+   "conf": 0.9618554803041311
+  },
+  {
+   "text": "AsS0C:260523",
+   "conf": 0.9283749659856161
+  },
+  {
+   "text": "Thank you for shopping at Ross!",
+   "conf": 0.9824669130386845
+  },
+  {
+   "text": "www.rossstores.com",
+   "conf": 0.9893068505658044
+  }
+ ],
+ "mean_conf": 0.9714,
+ "low_conf_share": 0.0,
+ "latency_ms": 4773,
+ "fields": {
+  "company": "ROSS",
+  "date": "2016-07-25",
+  "total": 100.0
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  100.0
+ ],
+ "key": "W0136_0df88ba3783c"
+}

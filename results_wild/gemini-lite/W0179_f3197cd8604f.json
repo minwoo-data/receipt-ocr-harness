@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.1-flash-lite",
+ "provider": "gemini",
+ "raw_text": "{\n  \"vendor\": \"STAPLES\",\n  \"date\": \"2002-07-24\",\n  \"subtotal\": 89.82,\n  \"tax\": 7.41,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 97.23,\n  \"currency\": \"USD\",\n  \"confidence\": 0.98,\n  \"notes\": null\n}",
+ "data": {
+  "vendor": "STAPLES",
+  "date": "2002-07-24",
+  "subtotal": 89.82,
+  "tax": 7.41,
+  "tip": null,
+  "discount": null,
+  "total": 97.23,
+  "currency": "USD",
+  "confidence": 0.98,
+  "notes": null
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1449,
+  "output_tokens": 106,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.000521,
+ "latency_ms": 1419,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.1-flash-lite",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.1-flash-lite"
+ ],
+ "key": "W0179_f3197cd8604f"
+}

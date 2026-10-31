@@ -1,0 +1,38 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "| COME AGAIN )"
+ ],
+ "tokens": [
+  {
+   "text": "|",
+   "conf": 0.86
+  },
+  {
+   "text": "COME",
+   "conf": 0.89
+  },
+  {
+   "text": "AGAIN",
+   "conf": 0.86
+  },
+  {
+   "text": ")",
+   "conf": 0.0
+  }
+ ],
+ "mean_conf": 0.6525,
+ "low_conf_share": 0.25,
+ "latency_ms": 237,
+ "fields": {
+  "company": "COME AGAIN",
+  "date": null,
+  "total": null
+ },
+ "rule_reasons": [
+  "date_not_found",
+  "total_not_found"
+ ],
+ "total_candidates": [],
+ "key": "W0035_56"
+}

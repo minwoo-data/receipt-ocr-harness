@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.1-flash-lite",
+ "provider": "gemini",
+ "raw_text": "{\n  \"vendor\": \"Geoventure Taste Of The World Sdn Bhd\",\n  \"date\": \"2018-03-05\",\n  \"subtotal\": 60.5,\n  \"tax\": 3.63,\n  \"tip\": null,\n  \"discount\": 0,\n  \"total\": 64.15,\n  \"currency\": \"MYR\",\n  \"confidence\": 0.98,\n  \"notes\": null\n}",
+ "data": {
+  "vendor": "Geoventure Taste Of The World Sdn Bhd",
+  "date": "2018-03-05",
+  "subtotal": 60.5,
+  "tax": 3.63,
+  "tip": null,
+  "discount": 0,
+  "total": 64.15,
+  "currency": "MYR",
+  "confidence": 0.98,
+  "notes": null
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1427,
+  "output_tokens": 112,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.000525,
+ "latency_ms": 4048,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.1-flash-lite",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.1-flash-lite"
+ ],
+ "key": "X51005441407"
+}

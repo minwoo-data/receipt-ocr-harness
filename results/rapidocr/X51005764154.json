@@ -1,0 +1,274 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "PANA JAYA ENTERPRISE",
+  "NO.10-G. GHOUND FLUOR. JALAN DINAR D.",
+  "U3/D TAMAN SUBANG PEHDANA.",
+  "SEK U3. 4015O SHAH1 ALAM.SELANGOH",
+  "TEL:03-7847 2376 B2E2 2h82.-20:X",
+  "(GST Hag. No : 002069438464)",
+  "Tax lrivoice",
+  "INV No. :537422 Qty(s):12",
+  "Date 25-01-2018 18 10:28",
+  "Cashier: CASHIER2",
+  "rescription QLy U price Total TAX",
+  "CHYSTAL CATERING FO1L 1.1SKG 45OX18'!",
+  "1x 35.00 35.00 SR",
+  "EC 7 PP PLATE(5OPCS)",
+  "10× 529 62.50 HS",
+  "EC 9 PP PLATE(5OOPCS)CIN",
+  "1× 108.00 108 00 SA",
+  "Total (Excluding GST): 19387",
+  "GST payable (6%): 11.63",
+  "Total (lnclusive of GST): 205.50",
+  "TOTAL: 205.50",
+  "CASH : 205-50 205.50",
+  "GST Surnmary Amount (RM) Tax(R)",
+  "SR (@ 6%) 19387 11.63",
+  "?",
+  "++* Thank You",
+  "Please Come Again",
+  "Goods Soid Are",
+  "Not Refundable"
+ ],
+ "tokens": [
+  {
+   "text": "PANA JAYA ENTERPRISE",
+   "conf": 0.9592113018035888
+  },
+  {
+   "text": "NO.10-G. GHOUND FLUOR. JALAN DINAR D.",
+   "conf": 0.9653808136244078
+  },
+  {
+   "text": "U3/D TAMAN SUBANG PEHDANA.",
+   "conf": 0.8934523211075709
+  },
+  {
+   "text": "SEK U3. 4015O SHAH1 ALAM.SELANGOH",
+   "conf": 0.9121275760910728
+  },
+  {
+   "text": "TEL:03-7847 2376",
+   "conf": 0.973963800817728
+  },
+  {
+   "text": "B2E2 2h82.-20:X",
+   "conf": 0.5637437532345454
+  },
+  {
+   "text": "(GST Hag. No : 002069438464)",
+   "conf": 0.9508021197148732
+  },
+  {
+   "text": "Tax lrivoice",
+   "conf": 0.9097757885853449
+  },
+  {
+   "text": "INV No. :537422",
+   "conf": 0.9407406290372212
+  },
+  {
+   "text": "Qty(s):12",
+   "conf": 0.9536698791715834
+  },
+  {
+   "text": "Date",
+   "conf": 0.9905724972486496
+  },
+  {
+   "text": "25-01-2018 18 10:28",
+   "conf": 0.940269653734408
+  },
+  {
+   "text": "Cashier: CASHIER2",
+   "conf": 0.9566403189126182
+  },
+  {
+   "text": "rescription",
+   "conf": 0.9629770192232999
+  },
+  {
+   "text": "QLy",
+   "conf": 0.8625240524609884
+  },
+  {
+   "text": "U price",
+   "conf": 0.834392249584198
+  },
+  {
+   "text": "Total TAX",
+   "conf": 0.9283223284615411
+  },
+  {
+   "text": "CHYSTAL CATERING FO1L 1.1SKG 45OX18'!",
+   "conf": 0.886768690234906
+  },
+  {
+   "text": "1x",
+   "conf": 0.7856718301773071
+  },
+  {
+   "text": "35.00",
+   "conf": 0.9997140288352966
+  },
+  {
+   "text": "35.00",
+   "conf": 0.9994982123374939
+  },
+  {
+   "text": "SR",
+   "conf": 0.9823596179485321
+  },
+  {
+   "text": "EC 7 PP PLATE(5OPCS)",
+   "conf": 0.9029294312000274
+  },
+  {
+   "text": "10×",
+   "conf": 0.8327328364054362
+  },
+  {
+   "text": "529",
+   "conf": 0.9985567331314087
+  },
+  {
+   "text": "62.50",
+   "conf": 0.9997363090515137
+  },
+  {
+   "text": "HS",
+   "conf": 0.8293885290622711
+  },
+  {
+   "text": "EC 9 PP PLATE(5OOPCS)CIN",
+   "conf": 0.9529156585534414
+  },
+  {
+   "text": "1×",
+   "conf": 0.766206830739975
+  },
+  {
+   "text": "108.00",
+   "conf": 0.9991644620895386
+  },
+  {
+   "text": "108",
+   "conf": 0.9983901778856913
+  },
+  {
+   "text": "00",
+   "conf": 0.7727796733379364
+  },
+  {
+   "text": "SA",
+   "conf": 0.7866781949996948
+  },
+  {
+   "text": "Total (Excluding GST):",
+   "conf": 0.9744653457945044
+  },
+  {
+   "text": "19387",
+   "conf": 0.9809629321098328
+  },
+  {
+   "text": "GST payable (6%):",
+   "conf": 0.9647681046934689
+  },
+  {
+   "text": "11.63",
+   "conf": 0.9995396614074707
+  },
+  {
+   "text": "Total (lnclusive of GST):",
+   "conf": 0.8836708652973175
+  },
+  {
+   "text": "205.50",
+   "conf": 0.9981476366519928
+  },
+  {
+   "text": "TOTAL:",
+   "conf": 0.9928471247355143
+  },
+  {
+   "text": "205.50",
+   "conf": 0.999893844127655
+  },
+  {
+   "text": "205-50",
+   "conf": 0.9457732141017914
+  },
+  {
+   "text": "CASH :",
+   "conf": 0.9042214353879293
+  },
+  {
+   "text": "205.50",
+   "conf": 0.99972864985466
+  },
+  {
+   "text": "GST Surnmary",
+   "conf": 0.9610607226689657
+  },
+  {
+   "text": "Amount (RM)",
+   "conf": 0.9632656682621349
+  },
+  {
+   "text": "Tax(R)",
+   "conf": 0.9819418489933014
+  },
+  {
+   "text": "SR",
+   "conf": 0.9728144407272339
+  },
+  {
+   "text": "(@ 6%)",
+   "conf": 0.9803549846013387
+  },
+  {
+   "text": "19387",
+   "conf": 0.9988145947456359
+  },
+  {
+   "text": "11.63",
+   "conf": 0.999594259262085
+  },
+  {
+   "text": "?",
+   "conf": 0.7666139006614685
+  },
+  {
+   "text": "++* Thank You",
+   "conf": 0.8340298029092642
+  },
+  {
+   "text": "Please Come Again",
+   "conf": 0.9050291706533993
+  },
+  {
+   "text": "Goods Soid Are",
+   "conf": 0.9261959365436009
+  },
+  {
+   "text": "Not Refundable",
+   "conf": 0.9721500405243465
+  }
+ ],
+ "mean_conf": 0.9267,
+ "low_conf_share": 0.0,
+ "latency_ms": 4891,
+ "fields": {
+  "company": "PANA JAYA ENTERPRISE",
+  "date": "2018-01-25",
+  "total": 205.5
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  205.5,
+  205.5
+ ],
+ "key": "X51005764154"
+}

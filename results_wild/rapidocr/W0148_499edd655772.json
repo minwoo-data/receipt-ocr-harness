@@ -1,0 +1,125 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "TARGET",
+  "EXPECTMORE.PAYLESS:",
+  "TRUMBULL:203-455-0102",
+  "ENTERTAINMENT-ELECTRONICS",
+  "057170035 AMAZON FIRE $123.32",
+  "RegularPrice $199.00",
+  "Return by 01/09/12",
+  "SUBTOTAL $123.32",
+  "Your REDcard Savings 5% $6.17",
+  "T=CTTAX 6.3500%on $117.15 $7.44",
+  "TOTAL$124.59",
+  "*6775 TARGET VISA $124.59",
+  "5元",
+  "TODAY",
+  "EVERYDAY",
+  "Today's REDcard Savings",
+  "$6.17"
+ ],
+ "tokens": [
+  {
+   "text": "TARGET",
+   "conf": 0.9775699575742086
+  },
+  {
+   "text": "EXPECTMORE.PAYLESS:",
+   "conf": 0.9587362879200986
+  },
+  {
+   "text": "TRUMBULL:203-455-0102",
+   "conf": 0.9715350696018764
+  },
+  {
+   "text": "ENTERTAINMENT-ELECTRONICS",
+   "conf": 0.9797239017486572
+  },
+  {
+   "text": "057170035",
+   "conf": 0.9990589221318563
+  },
+  {
+   "text": "AMAZON FIRE",
+   "conf": 0.9440477761355314
+  },
+  {
+   "text": "$123.32",
+   "conf": 0.9960323146411351
+  },
+  {
+   "text": "RegularPrice $199.00",
+   "conf": 0.9786409050226211
+  },
+  {
+   "text": "Return by 01/09/12",
+   "conf": 0.9436213672161102
+  },
+  {
+   "text": "SUBTOTAL",
+   "conf": 0.9686837494373322
+  },
+  {
+   "text": "$123.32",
+   "conf": 0.9942337700298854
+  },
+  {
+   "text": "Your REDcard Savings 5%",
+   "conf": 0.9550669711569081
+  },
+  {
+   "text": "$6.17",
+   "conf": 0.9928372025489807
+  },
+  {
+   "text": "T=CTTAX 6.3500%on $117.15",
+   "conf": 0.9447957754135132
+  },
+  {
+   "text": "$7.44",
+   "conf": 0.9860851883888244
+  },
+  {
+   "text": "TOTAL$124.59",
+   "conf": 0.9864031672477722
+  },
+  {
+   "text": "*6775 TARGET VISA $124.59",
+   "conf": 0.9527822351455688
+  },
+  {
+   "text": "5元",
+   "conf": 0.7227113544940948
+  },
+  {
+   "text": "TODAY",
+   "conf": 0.9946301817893982
+  },
+  {
+   "text": "EVERYDAY",
+   "conf": 0.993507631123066
+  },
+  {
+   "text": "Today's REDcard Savings",
+   "conf": 0.9587169496909432
+  },
+  {
+   "text": "$6.17",
+   "conf": 0.9951623678207397
+  }
+ ],
+ "mean_conf": 0.9634,
+ "low_conf_share": 0.0,
+ "latency_ms": 3515,
+ "fields": {
+  "company": "TARGET",
+  "date": "2012-01-09",
+  "total": 124.59
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  124.59
+ ],
+ "key": "W0148_499edd655772"
+}

@@ -1,0 +1,296 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "HEERING",
+  "NYHAVN 15, 1051 KH K.",
+  "TLF: 33145614 - cvR: 20942095 |",
+  "BILL WMBER:4882 31/07/2015 22:58 e025 |",
+  "O01 TUENER 1 BORD WR.9 '",
+  "sREGNING* :",
+  "Vx SODAVAND 42.00 *42.00",
+  "‘Vx VAND 1 LTR 2.00 #25.00",
+  "2x TORSK 200,00 #400.00",
+  "‘2x BOF BEARNAISE © 220.(0 #440,00,",
+  "2x FRUGTSALAT 90.00 +180.00",
+  "‘x CHEESE CAKE 90.00 490.00",
+  "‘SUBTOTAL ¥1177,00",
+  "MONS 4235.40)",
+  "‘STK, 190",
+  "AOA #1177.00"
+ ],
+ "tokens": [
+  {
+   "text": "HEERING",
+   "conf": 0.91
+  },
+  {
+   "text": "NYHAVN",
+   "conf": 0.6
+  },
+  {
+   "text": "15,",
+   "conf": 0.81
+  },
+  {
+   "text": "1051",
+   "conf": 0.81
+  },
+  {
+   "text": "KH",
+   "conf": 0.0
+  },
+  {
+   "text": "K.",
+   "conf": 0.57
+  },
+  {
+   "text": "TLF:",
+   "conf": 0.59
+  },
+  {
+   "text": "33145614",
+   "conf": 0.68
+  },
+  {
+   "text": "-",
+   "conf": 0.63
+  },
+  {
+   "text": "cvR:",
+   "conf": 0.48
+  },
+  {
+   "text": "20942095",
+   "conf": 0.73
+  },
+  {
+   "text": "|",
+   "conf": 0.84
+  },
+  {
+   "text": "BILL",
+   "conf": 0.81
+  },
+  {
+   "text": "WMBER:4882",
+   "conf": 0.19
+  },
+  {
+   "text": "31/07/2015",
+   "conf": 0.62
+  },
+  {
+   "text": "22:58",
+   "conf": 0.74
+  },
+  {
+   "text": "e025",
+   "conf": 0.0
+  },
+  {
+   "text": "|",
+   "conf": 0.4
+  },
+  {
+   "text": "O01",
+   "conf": 0.48
+  },
+  {
+   "text": "TUENER",
+   "conf": 0.66
+  },
+  {
+   "text": "1",
+   "conf": 0.94
+  },
+  {
+   "text": "BORD",
+   "conf": 0.72
+  },
+  {
+   "text": "WR.9",
+   "conf": 0.37
+  },
+  {
+   "text": "'",
+   "conf": 0.0
+  },
+  {
+   "text": "sREGNING*",
+   "conf": 0.23
+  },
+  {
+   "text": ":",
+   "conf": 0.41
+  },
+  {
+   "text": "Vx",
+   "conf": 0.43
+  },
+  {
+   "text": "SODAVAND",
+   "conf": 0.0
+  },
+  {
+   "text": "42.00",
+   "conf": 0.56
+  },
+  {
+   "text": "*42.00",
+   "conf": 0.21
+  },
+  {
+   "text": "‘Vx",
+   "conf": 0.53
+  },
+  {
+   "text": "VAND",
+   "conf": 0.62
+  },
+  {
+   "text": "1",
+   "conf": 0.56
+  },
+  {
+   "text": "LTR",
+   "conf": 0.56
+  },
+  {
+   "text": "2.00",
+   "conf": 0.41
+  },
+  {
+   "text": "#25.00",
+   "conf": 0.41
+  },
+  {
+   "text": "2x",
+   "conf": 0.51
+  },
+  {
+   "text": "TORSK",
+   "conf": 0.78
+  },
+  {
+   "text": "200,00",
+   "conf": 0.53
+  },
+  {
+   "text": "#400.00",
+   "conf": 0.6
+  },
+  {
+   "text": "‘2x",
+   "conf": 0.6
+  },
+  {
+   "text": "BOF",
+   "conf": 0.93
+  },
+  {
+   "text": "BEARNAISE",
+   "conf": 0.69
+  },
+  {
+   "text": "©",
+   "conf": 0.23
+  },
+  {
+   "text": "220.(0",
+   "conf": 0.0
+  },
+  {
+   "text": "#440,00,",
+   "conf": 0.0
+  },
+  {
+   "text": "2x",
+   "conf": 0.57
+  },
+  {
+   "text": "FRUGTSALAT",
+   "conf": 0.83
+  },
+  {
+   "text": "90.00",
+   "conf": 0.18
+  },
+  {
+   "text": "+180.00",
+   "conf": 0.41
+  },
+  {
+   "text": "‘x",
+   "conf": 0.41
+  },
+  {
+   "text": "CHEESE",
+   "conf": 0.9
+  },
+  {
+   "text": "CAKE",
+   "conf": 0.57
+  },
+  {
+   "text": "90.00",
+   "conf": 0.7
+  },
+  {
+   "text": "490.00",
+   "conf": 0.47
+  },
+  {
+   "text": "‘SUBTOTAL",
+   "conf": 0.66
+  },
+  {
+   "text": "¥1177,00",
+   "conf": 0.08
+  },
+  {
+   "text": "MONS",
+   "conf": 0.12
+  },
+  {
+   "text": "4235.40)",
+   "conf": 0.07
+  },
+  {
+   "text": "‘STK,",
+   "conf": 0.59
+  },
+  {
+   "text": "190",
+   "conf": 0.77
+  },
+  {
+   "text": "AOA",
+   "conf": 0.0
+  },
+  {
+   "text": "#1177.00",
+   "conf": 0.39
+  }
+ ],
+ "mean_conf": 0.4937,
+ "low_conf_share": 0.4286,
+ "latency_ms": 748,
+ "fields": {
+  "company": "HEERING",
+  "date": "2015-07-31",
+  "total": 490.0
+ },
+ "rule_reasons": [
+  "total_no_keyword_fallback_max"
+ ],
+ "total_candidates": [
+  400.0,
+  90.0,
+  180.0,
+  90.0,
+  490.0,
+  423.0,
+  117.0
+ ],
+ "key": "W0096_54a6a3cfa629"
+}

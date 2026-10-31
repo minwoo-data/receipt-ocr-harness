@@ -1,0 +1,75 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "BLUEHARBOURCAFE",
+  "LOT3-21PAVILIONMALL，BUKITBINTANG",
+  "MENU",
+  "XMINERALWATER1.5L 2.20",
+  "3 X ENGINEOIL4L 89.00",
+  "XICEDLATTE 9.50"
+ ],
+ "tokens": [
+  {
+   "text": "BLUEHARBOURCAFE",
+   "conf": 0.9969051798184713
+  },
+  {
+   "text": "LOT3-21PAVILIONMALL，BUKITBINTANG",
+   "conf": 0.9511895133182406
+  },
+  {
+   "text": "MENU",
+   "conf": 0.9916511476039886
+  },
+  {
+   "text": "2.20",
+   "conf": 0.9978744089603424
+  },
+  {
+   "text": "XMINERALWATER1.5L",
+   "conf": 0.9836379640242633
+  },
+  {
+   "text": "89.00",
+   "conf": 0.9992018222808838
+  },
+  {
+   "text": "3",
+   "conf": 0.9987359642982483
+  },
+  {
+   "text": "X",
+   "conf": 0.6770299077033997
+  },
+  {
+   "text": "ENGINEOIL4L",
+   "conf": 0.980557149106806
+  },
+  {
+   "text": "9.50",
+   "conf": 0.9986380487680435
+  },
+  {
+   "text": "XICEDLATTE",
+   "conf": 0.994663006067276
+  }
+ ],
+ "mean_conf": 0.9609,
+ "low_conf_share": 0.0,
+ "latency_ms": 19879,
+ "fields": {
+  "company": "BLUEHARBOURCAFE",
+  "date": null,
+  "total": 89.0
+ },
+ "rule_reasons": [
+  "date_not_found",
+  "total_no_keyword_fallback_max"
+ ],
+ "total_candidates": [
+  2.2,
+  89.0,
+  9.5
+ ],
+ "key": "SYN042"
+}

@@ -1,0 +1,219 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "sear eC le ——————",
+  "ieee ae",
+  "Host: Ryan an: as",
+  "7 be See",
+  "aso a",
+  "Seirch Gat an $8 ee",
+  "5; ae",
+  "Bee teniiesoe Se",
+  "‘Subtotal 13.20 ewe",
+  "DINE IN Total 14.20",
+  "Mies peeocrcrose) ow",
+  "(i Tell us what you think &",
+  "-—recelve free snashfrles plus"
+ ],
+ "tokens": [
+  {
+   "text": "sear",
+   "conf": 0.0
+  },
+  {
+   "text": "eC",
+   "conf": 0.23
+  },
+  {
+   "text": "le",
+   "conf": 0.32
+  },
+  {
+   "text": "——————",
+   "conf": 0.28
+  },
+  {
+   "text": "ieee",
+   "conf": 0.09
+  },
+  {
+   "text": "ae",
+   "conf": 0.35
+  },
+  {
+   "text": "Host:",
+   "conf": 0.7
+  },
+  {
+   "text": "Ryan",
+   "conf": 0.64
+  },
+  {
+   "text": "an:",
+   "conf": 0.25
+  },
+  {
+   "text": "as",
+   "conf": 0.17
+  },
+  {
+   "text": "7",
+   "conf": 0.91
+  },
+  {
+   "text": "be",
+   "conf": 0.21
+  },
+  {
+   "text": "See",
+   "conf": 0.32
+  },
+  {
+   "text": "aso",
+   "conf": 0.35
+  },
+  {
+   "text": "a",
+   "conf": 0.37
+  },
+  {
+   "text": "Seirch",
+   "conf": 0.04
+  },
+  {
+   "text": "Gat",
+   "conf": 0.15
+  },
+  {
+   "text": "an",
+   "conf": 0.45
+  },
+  {
+   "text": "$8",
+   "conf": 0.57
+  },
+  {
+   "text": "ee",
+   "conf": 0.19
+  },
+  {
+   "text": "5;",
+   "conf": 0.35
+  },
+  {
+   "text": "ae",
+   "conf": 0.34
+  },
+  {
+   "text": "Bee",
+   "conf": 0.31
+  },
+  {
+   "text": "teniiesoe",
+   "conf": 0.0
+  },
+  {
+   "text": "Se",
+   "conf": 0.26
+  },
+  {
+   "text": "‘Subtotal",
+   "conf": 0.86
+  },
+  {
+   "text": "13.20",
+   "conf": 0.75
+  },
+  {
+   "text": "ewe",
+   "conf": 0.0
+  },
+  {
+   "text": "DINE",
+   "conf": 0.92
+  },
+  {
+   "text": "IN",
+   "conf": 0.74
+  },
+  {
+   "text": "Total",
+   "conf": 0.68
+  },
+  {
+   "text": "14.20",
+   "conf": 0.14
+  },
+  {
+   "text": "Mies",
+   "conf": 0.42
+  },
+  {
+   "text": "peeocrcrose)",
+   "conf": 0.0
+  },
+  {
+   "text": "ow",
+   "conf": 0.55
+  },
+  {
+   "text": "(i",
+   "conf": 0.62
+  },
+  {
+   "text": "Tell",
+   "conf": 0.79
+  },
+  {
+   "text": "us",
+   "conf": 0.93
+  },
+  {
+   "text": "what",
+   "conf": 0.94
+  },
+  {
+   "text": "you",
+   "conf": 0.96
+  },
+  {
+   "text": "think",
+   "conf": 0.93
+  },
+  {
+   "text": "&",
+   "conf": 0.78
+  },
+  {
+   "text": "-—recelve",
+   "conf": 0.0
+  },
+  {
+   "text": "free",
+   "conf": 0.9
+  },
+  {
+   "text": "snashfrles",
+   "conf": 0.34
+  },
+  {
+   "text": "plus",
+   "conf": 0.62
+  }
+ ],
+ "mean_conf": 0.4504,
+ "low_conf_share": 0.587,
+ "latency_ms": 451,
+ "fields": {
+  "company": "IEEE AE",
+  "date": null,
+  "total": 14.2
+ },
+ "rule_reasons": [
+  "date_not_found"
+ ],
+ "total_candidates": [
+  14.2
+ ],
+ "key": "W0038_3456"
+}

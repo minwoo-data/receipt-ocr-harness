@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.6-flash",
+ "provider": "gemini",
+ "raw_text": "{\"vendor\": \"Mr.Dakgalbi Solaris\", \"date\": \"2018-01-05\", \"subtotal\": 66.98, \"tax\": 4.02, \"tip\": null, \"discount\": null, \"total\": 71.00, \"currency\": \"MYR\", \"confidence\": 0.98, \"notes\": null}",
+ "data": {
+  "vendor": "Mr.Dakgalbi Solaris",
+  "date": "2018-01-05",
+  "subtotal": 66.98,
+  "tax": 4.02,
+  "tip": null,
+  "discount": null,
+  "total": 71.0,
+  "currency": "MYR",
+  "confidence": 0.98,
+  "notes": null
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1447,
+  "output_tokens": 87,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.001411,
+ "latency_ms": 1731,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.6-flash",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.6-flash"
+ ],
+ "key": "X51005719893"
+}

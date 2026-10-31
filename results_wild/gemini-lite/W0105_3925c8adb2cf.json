@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.1-flash-lite",
+ "provider": "gemini",
+ "raw_text": "{\n  \"vendor\": \"BALENCIAGA\",\n  \"date\": \"2017-09-16\",\n  \"subtotal\": 412.50,\n  \"tax\": 82.50,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 495.00,\n  \"currency\": \"EUR\",\n  \"confidence\": 0.98,\n  \"notes\": null\n}",
+ "data": {
+  "vendor": "BALENCIAGA",
+  "date": "2017-09-16",
+  "subtotal": 412.5,
+  "tax": 82.5,
+  "tip": null,
+  "discount": null,
+  "total": 495.0,
+  "currency": "EUR",
+  "confidence": 0.98,
+  "notes": null
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1433,
+  "output_tokens": 108,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.00052,
+ "latency_ms": 1370,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.1-flash-lite",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.1-flash-lite"
+ ],
+ "key": "W0105_3925c8adb2cf"
+}

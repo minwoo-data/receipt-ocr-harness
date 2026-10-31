@@ -1,0 +1,379 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "_ 4",
+  ". « RG =",
+  "* a 2 mo Te 4",
+  "q UU Las ao7e",
+  "CAL AT) TAM AT",
+  "SALA GUL}",
+  "nae WEIS dt",
+  "0.385 « 4,00 LEA",
+  "1 5 Op na oAn 7",
+  "MCOTIM Al) AMTIYV PrOorAD opt ovo — onnr",
+  "‘ 4.19 aioe",
+  "Naa we 4d on 7",
+  "7415 in O¢ a 40 7",
+  "a 11.58 TA Sri c",
+  "ee. nv",
+  "eryed by ROHANA BINTI Ht TALI e) LS",
+  "M 7 >",
+  "an OF DF ar",
+  "Tr at et mee ees"
+ ],
+ "tokens": [
+  {
+   "text": "_",
+   "conf": 0.0
+  },
+  {
+   "text": "4",
+   "conf": 0.63
+  },
+  {
+   "text": ".",
+   "conf": 0.73
+  },
+  {
+   "text": "«",
+   "conf": 0.0
+  },
+  {
+   "text": "RG",
+   "conf": 0.07
+  },
+  {
+   "text": "=",
+   "conf": 0.43
+  },
+  {
+   "text": "*",
+   "conf": 0.0
+  },
+  {
+   "text": "a",
+   "conf": 0.28
+  },
+  {
+   "text": "2",
+   "conf": 0.67
+  },
+  {
+   "text": "mo",
+   "conf": 0.35
+  },
+  {
+   "text": "Te",
+   "conf": 0.58
+  },
+  {
+   "text": "4",
+   "conf": 0.58
+  },
+  {
+   "text": "q",
+   "conf": 0.72
+  },
+  {
+   "text": "UU",
+   "conf": 0.0
+  },
+  {
+   "text": "Las",
+   "conf": 0.11
+  },
+  {
+   "text": "ao7e",
+   "conf": 0.0
+  },
+  {
+   "text": "CAL",
+   "conf": 0.15
+  },
+  {
+   "text": "AT)",
+   "conf": 0.15
+  },
+  {
+   "text": "TAM",
+   "conf": 0.47
+  },
+  {
+   "text": "AT",
+   "conf": 0.47
+  },
+  {
+   "text": "SALA",
+   "conf": 0.02
+  },
+  {
+   "text": "GUL}",
+   "conf": 0.0
+  },
+  {
+   "text": "nae",
+   "conf": 0.29
+  },
+  {
+   "text": "WEIS",
+   "conf": 0.0
+  },
+  {
+   "text": "dt",
+   "conf": 0.07
+  },
+  {
+   "text": "0.385",
+   "conf": 0.76
+  },
+  {
+   "text": "«",
+   "conf": 0.7
+  },
+  {
+   "text": "4,00",
+   "conf": 0.72
+  },
+  {
+   "text": "LEA",
+   "conf": 0.27
+  },
+  {
+   "text": "1",
+   "conf": 0.23
+  },
+  {
+   "text": "5",
+   "conf": 0.28
+  },
+  {
+   "text": "Op",
+   "conf": 0.56
+  },
+  {
+   "text": "na",
+   "conf": 0.36
+  },
+  {
+   "text": "oAn",
+   "conf": 0.16
+  },
+  {
+   "text": "7",
+   "conf": 0.0
+  },
+  {
+   "text": "MCOTIM",
+   "conf": 0.31
+  },
+  {
+   "text": "Al)",
+   "conf": 0.56
+  },
+  {
+   "text": "AMTIYV",
+   "conf": 0.0
+  },
+  {
+   "text": "PrOorAD",
+   "conf": 0.12
+  },
+  {
+   "text": "opt",
+   "conf": 0.45
+  },
+  {
+   "text": "ovo",
+   "conf": 0.49
+  },
+  {
+   "text": "—",
+   "conf": 0.44
+  },
+  {
+   "text": "onnr",
+   "conf": 0.0
+  },
+  {
+   "text": "‘",
+   "conf": 0.43
+  },
+  {
+   "text": "4.19",
+   "conf": 0.66
+  },
+  {
+   "text": "aioe",
+   "conf": 0.64
+  },
+  {
+   "text": "Naa",
+   "conf": 0.18
+  },
+  {
+   "text": "we",
+   "conf": 0.23
+  },
+  {
+   "text": "4d",
+   "conf": 0.39
+  },
+  {
+   "text": "on",
+   "conf": 0.4
+  },
+  {
+   "text": "7",
+   "conf": 0.62
+  },
+  {
+   "text": "7415",
+   "conf": 0.16
+  },
+  {
+   "text": "in",
+   "conf": 0.3
+  },
+  {
+   "text": "O¢",
+   "conf": 0.55
+  },
+  {
+   "text": "a",
+   "conf": 0.01
+  },
+  {
+   "text": "40",
+   "conf": 0.01
+  },
+  {
+   "text": "7",
+   "conf": 0.4
+  },
+  {
+   "text": "a",
+   "conf": 0.51
+  },
+  {
+   "text": "11.58",
+   "conf": 0.84
+  },
+  {
+   "text": "TA",
+   "conf": 0.77
+  },
+  {
+   "text": "Sri",
+   "conf": 0.73
+  },
+  {
+   "text": "c",
+   "conf": 0.0
+  },
+  {
+   "text": "ee.",
+   "conf": 0.25
+  },
+  {
+   "text": "nv",
+   "conf": 0.52
+  },
+  {
+   "text": "eryed",
+   "conf": 0.84
+  },
+  {
+   "text": "by",
+   "conf": 0.93
+  },
+  {
+   "text": "ROHANA",
+   "conf": 0.4
+  },
+  {
+   "text": "BINTI",
+   "conf": 0.9
+  },
+  {
+   "text": "Ht",
+   "conf": 0.34
+  },
+  {
+   "text": "TALI",
+   "conf": 0.57
+  },
+  {
+   "text": "e)",
+   "conf": 0.0
+  },
+  {
+   "text": "LS",
+   "conf": 0.54
+  },
+  {
+   "text": "M",
+   "conf": 0.0
+  },
+  {
+   "text": "7",
+   "conf": 0.33
+  },
+  {
+   "text": ">",
+   "conf": 0.41
+  },
+  {
+   "text": "an",
+   "conf": 0.78
+  },
+  {
+   "text": "OF",
+   "conf": 0.67
+  },
+  {
+   "text": "DF",
+   "conf": 0.1
+  },
+  {
+   "text": "ar",
+   "conf": 0.48
+  },
+  {
+   "text": "Tr",
+   "conf": 0.0
+  },
+  {
+   "text": "at",
+   "conf": 0.28
+  },
+  {
+   "text": "et",
+   "conf": 0.1
+  },
+  {
+   "text": "mee",
+   "conf": 0.34
+  },
+  {
+   "text": "ees",
+   "conf": 0.2
+  }
+ ],
+ "mean_conf": 0.357,
+ "low_conf_share": 0.6786,
+ "latency_ms": 582,
+ "fields": {
+  "company": "Q UU LAS AO7E",
+  "date": null,
+  "total": 11.58
+ },
+ "rule_reasons": [
+  "date_not_found",
+  "total_no_keyword_fallback_max"
+ ],
+ "total_candidates": [
+  4.19,
+  11.58
+ ],
+ "key": "X51006388068"
+}

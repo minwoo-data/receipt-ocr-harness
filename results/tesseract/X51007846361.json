@@ -1,0 +1,540 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "Ae ffs ,",
+  ", | 66062",
+  "118 MJ MOOKATA HOUSE |",
+  "NO.7G, Jalan Permas 11,",
+  "Bandar Baru Permas Jaya, °",
+  "81750 Masai, Johor. )",
+  "+6017-4130144 | )",
+  "Date: 11-06-2018 07:23:28 PM |",
+  "Table No.: 12 :",
+  "TAX INVOICE",
+  ": (Receipt No.: REC-003763)",
+  ". QTY ITEM PRICE TOTAL .",
+  "| (RM) (RM)",
+  "ix, Set 48.00 48.00",
+  "B- Soup .",
+  "| ix +: ... Herbal 5.00 5.00 }",
+  "Chicken |",
+  "ix >...’ Salted 5.00 5.00 |",
+  "E-gg Dumplings .",
+  "WO 5.00 5.00",
+  "1x =. 7... Thai 4.90 4,90",
+  "Coffee",
+  "2x BEER (C) 16.00 32.00 . |",
+  "dx 6s 2 Lue 2.50 2.50",
+  "Han Guo",
+  "naa . .",
+  "Bef. Rounding 102.40",
+  "Change 0.00",
+  "Thank You & Please Come Again",
+  "[ www.facebook.com/118MJMookataHouse |"
+ ],
+ "tokens": [
+  {
+   "text": "Ae",
+   "conf": 0.46
+  },
+  {
+   "text": "ffs",
+   "conf": 0.28
+  },
+  {
+   "text": ",",
+   "conf": 0.0
+  },
+  {
+   "text": ",",
+   "conf": 0.0
+  },
+  {
+   "text": "|",
+   "conf": 0.23
+  },
+  {
+   "text": "66062",
+   "conf": 0.15
+  },
+  {
+   "text": "118",
+   "conf": 0.95
+  },
+  {
+   "text": "MJ",
+   "conf": 0.9
+  },
+  {
+   "text": "MOOKATA",
+   "conf": 0.9
+  },
+  {
+   "text": "HOUSE",
+   "conf": 0.96
+  },
+  {
+   "text": "|",
+   "conf": 0.54
+  },
+  {
+   "text": "NO.7G,",
+   "conf": 0.88
+  },
+  {
+   "text": "Jalan",
+   "conf": 0.93
+  },
+  {
+   "text": "Permas",
+   "conf": 0.92
+  },
+  {
+   "text": "11,",
+   "conf": 0.95
+  },
+  {
+   "text": "Bandar",
+   "conf": 0.96
+  },
+  {
+   "text": "Baru",
+   "conf": 0.92
+  },
+  {
+   "text": "Permas",
+   "conf": 0.92
+  },
+  {
+   "text": "Jaya,",
+   "conf": 0.96
+  },
+  {
+   "text": "°",
+   "conf": 0.0
+  },
+  {
+   "text": "81750",
+   "conf": 0.93
+  },
+  {
+   "text": "Masai,",
+   "conf": 0.96
+  },
+  {
+   "text": "Johor.",
+   "conf": 0.94
+  },
+  {
+   "text": ")",
+   "conf": 0.17
+  },
+  {
+   "text": "+6017-4130144",
+   "conf": 0.9
+  },
+  {
+   "text": "|",
+   "conf": 0.62
+  },
+  {
+   "text": ")",
+   "conf": 0.04
+  },
+  {
+   "text": "Date:",
+   "conf": 0.79
+  },
+  {
+   "text": "11-06-2018",
+   "conf": 0.96
+  },
+  {
+   "text": "07:23:28",
+   "conf": 0.96
+  },
+  {
+   "text": "PM",
+   "conf": 0.96
+  },
+  {
+   "text": "|",
+   "conf": 0.44
+  },
+  {
+   "text": "Table",
+   "conf": 0.93
+  },
+  {
+   "text": "No.:",
+   "conf": 0.92
+  },
+  {
+   "text": "12",
+   "conf": 0.95
+  },
+  {
+   "text": ":",
+   "conf": 0.0
+  },
+  {
+   "text": "TAX",
+   "conf": 0.95
+  },
+  {
+   "text": "INVOICE",
+   "conf": 0.96
+  },
+  {
+   "text": ":",
+   "conf": 0.0
+  },
+  {
+   "text": "(Receipt",
+   "conf": 0.93
+  },
+  {
+   "text": "No.:",
+   "conf": 0.85
+  },
+  {
+   "text": "REC-003763)",
+   "conf": 0.77
+  },
+  {
+   "text": ".",
+   "conf": 0.22
+  },
+  {
+   "text": "QTY",
+   "conf": 0.94
+  },
+  {
+   "text": "ITEM",
+   "conf": 0.78
+  },
+  {
+   "text": "PRICE",
+   "conf": 0.86
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.86
+  },
+  {
+   "text": ".",
+   "conf": 0.0
+  },
+  {
+   "text": "|",
+   "conf": 0.48
+  },
+  {
+   "text": "(RM)",
+   "conf": 0.96
+  },
+  {
+   "text": "(RM)",
+   "conf": 0.95
+  },
+  {
+   "text": "ix,",
+   "conf": 0.52
+  },
+  {
+   "text": "Set",
+   "conf": 0.93
+  },
+  {
+   "text": "48.00",
+   "conf": 0.74
+  },
+  {
+   "text": "48.00",
+   "conf": 0.66
+  },
+  {
+   "text": "B-",
+   "conf": 0.75
+  },
+  {
+   "text": "Soup",
+   "conf": 0.96
+  },
+  {
+   "text": ".",
+   "conf": 0.33
+  },
+  {
+   "text": "|",
+   "conf": 0.52
+  },
+  {
+   "text": "ix",
+   "conf": 0.8
+  },
+  {
+   "text": "+:",
+   "conf": 0.03
+  },
+  {
+   "text": "...",
+   "conf": 0.2
+  },
+  {
+   "text": "Herbal",
+   "conf": 0.95
+  },
+  {
+   "text": "5.00",
+   "conf": 0.95
+  },
+  {
+   "text": "5.00",
+   "conf": 0.93
+  },
+  {
+   "text": "}",
+   "conf": 0.0
+  },
+  {
+   "text": "Chicken",
+   "conf": 0.96
+  },
+  {
+   "text": "|",
+   "conf": 0.36
+  },
+  {
+   "text": "ix",
+   "conf": 0.76
+  },
+  {
+   "text": ">...’",
+   "conf": 0.13
+  },
+  {
+   "text": "Salted",
+   "conf": 0.93
+  },
+  {
+   "text": "5.00",
+   "conf": 0.85
+  },
+  {
+   "text": "5.00",
+   "conf": 0.9
+  },
+  {
+   "text": "|",
+   "conf": 0.3
+  },
+  {
+   "text": "E-gg",
+   "conf": 0.57
+  },
+  {
+   "text": "Dumplings",
+   "conf": 0.95
+  },
+  {
+   "text": ".",
+   "conf": 0.07
+  },
+  {
+   "text": "WO",
+   "conf": 0.27
+  },
+  {
+   "text": "5.00",
+   "conf": 0.96
+  },
+  {
+   "text": "5.00",
+   "conf": 0.96
+  },
+  {
+   "text": "1x",
+   "conf": 0.91
+  },
+  {
+   "text": "=.",
+   "conf": 0.66
+  },
+  {
+   "text": "7...",
+   "conf": 0.32
+  },
+  {
+   "text": "Thai",
+   "conf": 0.88
+  },
+  {
+   "text": "4.90",
+   "conf": 0.81
+  },
+  {
+   "text": "4,90",
+   "conf": 0.82
+  },
+  {
+   "text": "Coffee",
+   "conf": 0.93
+  },
+  {
+   "text": "2x",
+   "conf": 0.92
+  },
+  {
+   "text": "BEER",
+   "conf": 0.92
+  },
+  {
+   "text": "(C)",
+   "conf": 0.91
+  },
+  {
+   "text": "16.00",
+   "conf": 0.96
+  },
+  {
+   "text": "32.00",
+   "conf": 0.69
+  },
+  {
+   "text": ".",
+   "conf": 0.26
+  },
+  {
+   "text": "|",
+   "conf": 0.58
+  },
+  {
+   "text": "dx",
+   "conf": 0.44
+  },
+  {
+   "text": "6s",
+   "conf": 0.04
+  },
+  {
+   "text": "2",
+   "conf": 0.07
+  },
+  {
+   "text": "Lue",
+   "conf": 0.75
+  },
+  {
+   "text": "2.50",
+   "conf": 0.94
+  },
+  {
+   "text": "2.50",
+   "conf": 0.96
+  },
+  {
+   "text": "Han",
+   "conf": 0.96
+  },
+  {
+   "text": "Guo",
+   "conf": 0.96
+  },
+  {
+   "text": "naa",
+   "conf": 0.07
+  },
+  {
+   "text": ".",
+   "conf": 0.3
+  },
+  {
+   "text": ".",
+   "conf": 0.24
+  },
+  {
+   "text": "Bef.",
+   "conf": 0.94
+  },
+  {
+   "text": "Rounding",
+   "conf": 0.95
+  },
+  {
+   "text": "102.40",
+   "conf": 0.96
+  },
+  {
+   "text": "Change",
+   "conf": 0.96
+  },
+  {
+   "text": "0.00",
+   "conf": 0.94
+  },
+  {
+   "text": "Thank",
+   "conf": 0.95
+  },
+  {
+   "text": "You",
+   "conf": 0.93
+  },
+  {
+   "text": "&",
+   "conf": 0.93
+  },
+  {
+   "text": "Please",
+   "conf": 0.95
+  },
+  {
+   "text": "Come",
+   "conf": 0.96
+  },
+  {
+   "text": "Again",
+   "conf": 0.96
+  },
+  {
+   "text": "[",
+   "conf": 0.91
+  },
+  {
+   "text": "www.facebook.com/118MJMookataHouse",
+   "conf": 0.38
+  },
+  {
+   "text": "|",
+   "conf": 0.95
+  }
+ ],
+ "mean_conf": 0.6891,
+ "low_conf_share": 0.2773,
+ "latency_ms": 5776,
+ "fields": {
+  "company": "AE FFS",
+  "date": "2018-06-11",
+  "total": 102.4
+ },
+ "rule_reasons": [
+  "total_no_keyword_fallback_max"
+ ],
+ "total_candidates": [
+  5.0,
+  5.0,
+  5.0,
+  5.0,
+  5.0,
+  5.0,
+  4.9,
+  16.0,
+  32.0,
+  2.5,
+  2.5,
+  102.4,
+  0.0
+ ],
+ "key": "X51007846361"
+}

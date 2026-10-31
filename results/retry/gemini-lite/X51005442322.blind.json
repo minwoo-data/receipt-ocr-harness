@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.1-flash-lite",
+ "provider": "gemini",
+ "raw_text": "{\n  \"vendor\": \"TONY ROMA'S\",\n  \"date\": \"2018-03-03\",\n  \"subtotal\": 231.06,\n  \"tax\": 15.25,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 269.40,\n  \"currency\": \"MYR\",\n  \"confidence\": 0.98,\n  \"notes\": \"10% service charge of 23.10 is included in the total.\"\n}",
+ "data": {
+  "vendor": "TONY ROMA'S",
+  "date": "2018-03-03",
+  "subtotal": 231.06,
+  "tax": 15.25,
+  "tip": null,
+  "discount": null,
+  "total": 269.4,
+  "currency": "MYR",
+  "confidence": 0.98,
+  "notes": "10% service charge of 23.10 is included in the total."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1502,
+  "output_tokens": 130,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.000571,
+ "latency_ms": 1350,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.1-flash-lite",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.1-flash-lite"
+ ],
+ "key": "X51005442322"
+}

@@ -1,0 +1,179 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "Ampang 210",
+  "First City Parking Sdn Bhd",
+  "(961394-x)",
+  "A-09-10PrimaAvenue",
+  "The Tube,1/39,Dataran Prima",
+  "47301PetalingJaya",
+  "SelangarDE",
+  "（GSTIDNo:001656262656)",
+  "Tel:03-78872622",
+  "Tax Invoice",
+  "/S #03A INV-No.2003160418000001",
+  "[/D #22 Tidket No.071811",
+  "16/04/2018(Mon)8:21",
+  "\"aid Time 16/04/2018（Mon) 9:49",
+  "\"arking Time 1:28",
+  "\"arking Fee RateA RM7.00",
+  "RM6.60",
+  "3ST(Included) 6.00 % RMO.40",
+  "Total RM7.00",
+  "Paid RM7.00",
+  "charge RM0.00",
+  "Inclusive 6%GST",
+  "Thark You"
+ ],
+ "tokens": [
+  {
+   "text": "Ampang 210",
+   "conf": 0.995524662733078
+  },
+  {
+   "text": "First City Parking Sdn Bhd",
+   "conf": 0.9777295658221612
+  },
+  {
+   "text": "(961394-x)",
+   "conf": 0.949086457490921
+  },
+  {
+   "text": "A-09-10PrimaAvenue",
+   "conf": 0.9421645436022017
+  },
+  {
+   "text": "The Tube,1/39,Dataran Prima",
+   "conf": 0.9597136599046213
+  },
+  {
+   "text": "47301PetalingJaya",
+   "conf": 0.9796338291729197
+  },
+  {
+   "text": "SelangarDE",
+   "conf": 0.9422248840332031
+  },
+  {
+   "text": "（GSTIDNo:001656262656)",
+   "conf": 0.9317675395445391
+  },
+  {
+   "text": "Tel:03-78872622",
+   "conf": 0.9667172034581503
+  },
+  {
+   "text": "Tax Invoice",
+   "conf": 0.8847926367412914
+  },
+  {
+   "text": "/S #03A INV-No.2003160418000001",
+   "conf": 0.9623375958011996
+  },
+  {
+   "text": "[/D #22",
+   "conf": 0.8727725573948452
+  },
+  {
+   "text": "Tidket No.071811",
+   "conf": 0.9765659533441067
+  },
+  {
+   "text": "16/04/2018(Mon)8:21",
+   "conf": 0.9622771143913269
+  },
+  {
+   "text": "\"aid Time",
+   "conf": 0.92140684194035
+  },
+  {
+   "text": "16/04/2018（Mon)",
+   "conf": 0.9460072795550029
+  },
+  {
+   "text": "9:49",
+   "conf": 0.956860363483429
+  },
+  {
+   "text": "\"arking Time",
+   "conf": 0.9138044069210688
+  },
+  {
+   "text": "1:28",
+   "conf": 0.9909344464540482
+  },
+  {
+   "text": "\"arking Fee",
+   "conf": 0.8930708793076602
+  },
+  {
+   "text": "RateA",
+   "conf": 0.994548237323761
+  },
+  {
+   "text": "RM7.00",
+   "conf": 0.9691719114780426
+  },
+  {
+   "text": "RM6.60",
+   "conf": 0.9980158507823944
+  },
+  {
+   "text": "3ST(Included)",
+   "conf": 0.915848984168126
+  },
+  {
+   "text": "6.00 %",
+   "conf": 0.9786719977855682
+  },
+  {
+   "text": "RMO.40",
+   "conf": 0.9247129758199056
+  },
+  {
+   "text": "Total",
+   "conf": 0.9137314796447754
+  },
+  {
+   "text": "RM7.00",
+   "conf": 0.9911576211452484
+  },
+  {
+   "text": "Paid",
+   "conf": 0.9923671334981918
+  },
+  {
+   "text": "RM7.00",
+   "conf": 0.9817986786365509
+  },
+  {
+   "text": "charge",
+   "conf": 0.8334578772385915
+  },
+  {
+   "text": "RM0.00",
+   "conf": 0.8929704626401266
+  },
+  {
+   "text": "Inclusive 6%GST",
+   "conf": 0.9578033248583476
+  },
+  {
+   "text": "Thark You",
+   "conf": 0.9093689653608534
+  }
+ ],
+ "mean_conf": 0.9464,
+ "low_conf_share": 0.0,
+ "latency_ms": 4477,
+ "fields": {
+  "company": "FIRST CITY PARKING SDN BHD",
+  "date": "2018-04-16",
+  "total": 7.0
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  7.0
+ ],
+ "key": "X51006349086"
+}

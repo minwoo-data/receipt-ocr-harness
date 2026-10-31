@@ -1,0 +1,499 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "18 0017 .",
+  "2 Viel LL 3 lor.",
+  "UROKO JAPANESE CUISINE SDN BHD",
+  "22A-1, JALAN 17/54,",
+  "SECTION 17,",
+  "46400 PETALING JAYA,",
+  "SELANGOR.",
+  "03-7932 1023/0191",
+  "GST Reg No: 001126838272",
+  "Bill No : O1H-26411",
+  "Date : 14/05/2018 12:14:08 PM",
+  "Cashier : FLOR",
+  "Table No : 703",
+  "Qty Description Amount _",
+  "1 UROKO SALAD @ 28.00 28.00 SR",
+  "1 NIKU SHOGAYAKI SET @ 38.68 SR",
+  "38.68",
+  "1 GARLIC CHAHAN @ 6.00 SR",
+  "2 GREEN TEA @ 1.00 2.00 SR",
+  "5 Total: = 74.68",
+  "Discount : (.00)",
+  "service Chg 10.00% : 7.47",
+  "GST: 4.93",
+  "Grand Total : 87.08",
+  "Rounding Adjustment: zi",
+  "Net Total : 87.10 W\\",
+  "GST Summary % Amount(RM = Tax(RM)",
+  "SR 600 82.15 493"
+ ],
+ "tokens": [
+  {
+   "text": "18",
+   "conf": 0.75
+  },
+  {
+   "text": "0017",
+   "conf": 0.72
+  },
+  {
+   "text": ".",
+   "conf": 0.0
+  },
+  {
+   "text": "2",
+   "conf": 0.46
+  },
+  {
+   "text": "Viel",
+   "conf": 0.02
+  },
+  {
+   "text": "LL",
+   "conf": 0.2
+  },
+  {
+   "text": "3",
+   "conf": 0.76
+  },
+  {
+   "text": "lor.",
+   "conf": 0.0
+  },
+  {
+   "text": "UROKO",
+   "conf": 0.91
+  },
+  {
+   "text": "JAPANESE",
+   "conf": 0.96
+  },
+  {
+   "text": "CUISINE",
+   "conf": 0.95
+  },
+  {
+   "text": "SDN",
+   "conf": 0.96
+  },
+  {
+   "text": "BHD",
+   "conf": 0.96
+  },
+  {
+   "text": "22A-1,",
+   "conf": 0.89
+  },
+  {
+   "text": "JALAN",
+   "conf": 0.96
+  },
+  {
+   "text": "17/54,",
+   "conf": 0.96
+  },
+  {
+   "text": "SECTION",
+   "conf": 0.96
+  },
+  {
+   "text": "17,",
+   "conf": 0.96
+  },
+  {
+   "text": "46400",
+   "conf": 0.93
+  },
+  {
+   "text": "PETALING",
+   "conf": 0.9
+  },
+  {
+   "text": "JAYA,",
+   "conf": 0.91
+  },
+  {
+   "text": "SELANGOR.",
+   "conf": 0.96
+  },
+  {
+   "text": "03-7932",
+   "conf": 0.96
+  },
+  {
+   "text": "1023/0191",
+   "conf": 0.96
+  },
+  {
+   "text": "GST",
+   "conf": 0.96
+  },
+  {
+   "text": "Reg",
+   "conf": 0.96
+  },
+  {
+   "text": "No:",
+   "conf": 0.89
+  },
+  {
+   "text": "001126838272",
+   "conf": 0.96
+  },
+  {
+   "text": "Bill",
+   "conf": 0.92
+  },
+  {
+   "text": "No",
+   "conf": 0.94
+  },
+  {
+   "text": ":",
+   "conf": 0.77
+  },
+  {
+   "text": "O1H-26411",
+   "conf": 0.56
+  },
+  {
+   "text": "Date",
+   "conf": 0.96
+  },
+  {
+   "text": ":",
+   "conf": 0.86
+  },
+  {
+   "text": "14/05/2018",
+   "conf": 0.93
+  },
+  {
+   "text": "12:14:08",
+   "conf": 0.96
+  },
+  {
+   "text": "PM",
+   "conf": 0.96
+  },
+  {
+   "text": "Cashier",
+   "conf": 0.96
+  },
+  {
+   "text": ":",
+   "conf": 0.87
+  },
+  {
+   "text": "FLOR",
+   "conf": 0.95
+  },
+  {
+   "text": "Table",
+   "conf": 0.96
+  },
+  {
+   "text": "No",
+   "conf": 0.96
+  },
+  {
+   "text": ":",
+   "conf": 0.87
+  },
+  {
+   "text": "703",
+   "conf": 0.3
+  },
+  {
+   "text": "Qty",
+   "conf": 0.96
+  },
+  {
+   "text": "Description",
+   "conf": 0.96
+  },
+  {
+   "text": "Amount",
+   "conf": 0.88
+  },
+  {
+   "text": "_",
+   "conf": 0.66
+  },
+  {
+   "text": "1",
+   "conf": 0.92
+  },
+  {
+   "text": "UROKO",
+   "conf": 0.92
+  },
+  {
+   "text": "SALAD",
+   "conf": 0.92
+  },
+  {
+   "text": "@",
+   "conf": 0.92
+  },
+  {
+   "text": "28.00",
+   "conf": 0.96
+  },
+  {
+   "text": "28.00",
+   "conf": 0.96
+  },
+  {
+   "text": "SR",
+   "conf": 0.96
+  },
+  {
+   "text": "1",
+   "conf": 0.89
+  },
+  {
+   "text": "NIKU",
+   "conf": 0.85
+  },
+  {
+   "text": "SHOGAYAKI",
+   "conf": 0.85
+  },
+  {
+   "text": "SET",
+   "conf": 0.92
+  },
+  {
+   "text": "@",
+   "conf": 0.92
+  },
+  {
+   "text": "38.68",
+   "conf": 0.96
+  },
+  {
+   "text": "SR",
+   "conf": 0.95
+  },
+  {
+   "text": "38.68",
+   "conf": 0.95
+  },
+  {
+   "text": "1",
+   "conf": 0.93
+  },
+  {
+   "text": "GARLIC",
+   "conf": 0.93
+  },
+  {
+   "text": "CHAHAN",
+   "conf": 0.92
+  },
+  {
+   "text": "@",
+   "conf": 0.92
+  },
+  {
+   "text": "6.00",
+   "conf": 0.96
+  },
+  {
+   "text": "SR",
+   "conf": 0.96
+  },
+  {
+   "text": "2",
+   "conf": 0.95
+  },
+  {
+   "text": "GREEN",
+   "conf": 0.95
+  },
+  {
+   "text": "TEA",
+   "conf": 0.91
+  },
+  {
+   "text": "@",
+   "conf": 0.91
+  },
+  {
+   "text": "1.00",
+   "conf": 0.96
+  },
+  {
+   "text": "2.00",
+   "conf": 0.96
+  },
+  {
+   "text": "SR",
+   "conf": 0.96
+  },
+  {
+   "text": "5",
+   "conf": 0.48
+  },
+  {
+   "text": "Total:",
+   "conf": 0.87
+  },
+  {
+   "text": "=",
+   "conf": 0.53
+  },
+  {
+   "text": "74.68",
+   "conf": 0.43
+  },
+  {
+   "text": "Discount",
+   "conf": 0.93
+  },
+  {
+   "text": ":",
+   "conf": 0.91
+  },
+  {
+   "text": "(.00)",
+   "conf": 0.85
+  },
+  {
+   "text": "service",
+   "conf": 0.91
+  },
+  {
+   "text": "Chg",
+   "conf": 0.96
+  },
+  {
+   "text": "10.00%",
+   "conf": 0.93
+  },
+  {
+   "text": ":",
+   "conf": 0.92
+  },
+  {
+   "text": "7.47",
+   "conf": 0.94
+  },
+  {
+   "text": "GST:",
+   "conf": 0.93
+  },
+  {
+   "text": "4.93",
+   "conf": 0.83
+  },
+  {
+   "text": "Grand",
+   "conf": 0.96
+  },
+  {
+   "text": "Total",
+   "conf": 0.93
+  },
+  {
+   "text": ":",
+   "conf": 0.74
+  },
+  {
+   "text": "87.08",
+   "conf": 0.95
+  },
+  {
+   "text": "Rounding",
+   "conf": 0.96
+  },
+  {
+   "text": "Adjustment:",
+   "conf": 0.61
+  },
+  {
+   "text": "zi",
+   "conf": 0.0
+  },
+  {
+   "text": "Net",
+   "conf": 0.96
+  },
+  {
+   "text": "Total",
+   "conf": 0.93
+  },
+  {
+   "text": ":",
+   "conf": 0.91
+  },
+  {
+   "text": "87.10",
+   "conf": 0.93
+  },
+  {
+   "text": "W\\",
+   "conf": 0.14
+  },
+  {
+   "text": "GST",
+   "conf": 0.95
+  },
+  {
+   "text": "Summary",
+   "conf": 0.7
+  },
+  {
+   "text": "%",
+   "conf": 0.66
+  },
+  {
+   "text": "Amount(RM",
+   "conf": 0.89
+  },
+  {
+   "text": "=",
+   "conf": 0.61
+  },
+  {
+   "text": "Tax(RM)",
+   "conf": 0.77
+  },
+  {
+   "text": "SR",
+   "conf": 0.96
+  },
+  {
+   "text": "600",
+   "conf": 0.9
+  },
+  {
+   "text": "82.15",
+   "conf": 0.93
+  },
+  {
+   "text": "493",
+   "conf": 0.94
+  }
+ ],
+ "mean_conf": 0.8373,
+ "low_conf_share": 0.0893,
+ "latency_ms": 470,
+ "fields": {
+  "company": "UROKO JAPANESE CUISINE SDN BHD",
+  "date": "2018-05-14",
+  "total": 87.1
+ },
+ "rule_reasons": [
+  "total_multiple_strong_amounts"
+ ],
+ "total_candidates": [
+  87.08,
+  87.1
+ ],
+ "key": "X51006647932"
+}

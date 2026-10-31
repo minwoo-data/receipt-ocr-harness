@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.1-flash-lite",
+ "provider": "gemini",
+ "raw_text": "{\n  \"vendor\": \"Seni Cash & Carry Sdn. Bhd.\",\n  \"date\": \"2017-05-11\",\n  \"subtotal\": 83.56,\n  \"tax\": 4.17,\n  \"tip\": null,\n  \"discount\": -0.01,\n  \"total\": 83.55,\n  \"currency\": \"MYR\",\n  \"confidence\": 0.98,\n  \"notes\": null\n}",
+ "data": {
+  "vendor": "Seni Cash & Carry Sdn. Bhd.",
+  "date": "2017-05-11",
+  "subtotal": 83.56,
+  "tax": 4.17,
+  "tip": null,
+  "discount": -0.01,
+  "total": 83.55,
+  "currency": "MYR",
+  "confidence": 0.98,
+  "notes": null
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1469,
+  "output_tokens": 115,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.00054,
+ "latency_ms": 1408,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.1-flash-lite",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.1-flash-lite"
+ ],
+ "key": "X51006388068"
+}

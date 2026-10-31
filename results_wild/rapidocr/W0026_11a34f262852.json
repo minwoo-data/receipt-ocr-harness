@@ -1,0 +1,158 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "CORAL BEACHHTL&RESORTS",
+  "POOLBAR",
+  "Invoice:436991POS:5Area:AR05Table:35",
+  "Seat:1 Covers:1 Policy:ALLINCLUSIVE",
+  "Date:17/04/2017Time:16:27User:NICOL",
+  "Description Amount",
+  "FRESHLYORANGEJUICE 1@ 3.95 3.95",
+  "Sub Total 3.95",
+  "Discount60.00% 2.37",
+  "TOTALEUR 1.58",
+  "GRANDTOTALEUR 1.58",
+  "VAT% VAT",
+  "9.00 1.45 0.13",
+  "3302",
+  "RoomNo",
+  "Guest Name: TSAPOIS",
+  "Signature:",
+  "THANKYOU !!!!"
+ ],
+ "tokens": [
+  {
+   "text": "CORAL BEACHHTL&RESORTS",
+   "conf": 0.9617175595326857
+  },
+  {
+   "text": "POOLBAR",
+   "conf": 0.9943705797195435
+  },
+  {
+   "text": "Invoice:436991POS:5Area:AR05Table:35",
+   "conf": 0.9712746060556836
+  },
+  {
+   "text": "Seat:1 Covers:1 Policy:ALLINCLUSIVE",
+   "conf": 0.942094726221902
+  },
+  {
+   "text": "Date:17/04/2017Time:16:27User:NICOL",
+   "conf": 0.9734756503786359
+  },
+  {
+   "text": "Description",
+   "conf": 0.9896362965757196
+  },
+  {
+   "text": "Amount",
+   "conf": 0.9887927770614624
+  },
+  {
+   "text": "FRESHLYORANGEJUICE",
+   "conf": 0.9962812430328793
+  },
+  {
+   "text": "1@",
+   "conf": 0.8154860436916351
+  },
+  {
+   "text": "3.95",
+   "conf": 0.9936359226703644
+  },
+  {
+   "text": "3.95",
+   "conf": 0.9943619519472122
+  },
+  {
+   "text": "Sub Total",
+   "conf": 0.9438016282187568
+  },
+  {
+   "text": "3.95",
+   "conf": 0.9968100339174271
+  },
+  {
+   "text": "Discount60.00%",
+   "conf": 0.97664327280862
+  },
+  {
+   "text": "2.37",
+   "conf": 0.993757888674736
+  },
+  {
+   "text": "TOTALEUR",
+   "conf": 0.9956243559718132
+  },
+  {
+   "text": "1.58",
+   "conf": 0.9969099164009094
+  },
+  {
+   "text": "GRANDTOTALEUR",
+   "conf": 0.9956957193521353
+  },
+  {
+   "text": "1.58",
+   "conf": 0.9978546798229218
+  },
+  {
+   "text": "VAT%",
+   "conf": 0.9802071750164032
+  },
+  {
+   "text": "VAT",
+   "conf": 0.9944101174672445
+  },
+  {
+   "text": "9.00",
+   "conf": 0.9981042295694351
+  },
+  {
+   "text": "1.45",
+   "conf": 0.9950330406427383
+  },
+  {
+   "text": "0.13",
+   "conf": 0.9982785582542419
+  },
+  {
+   "text": "3302",
+   "conf": 0.9142493605613708
+  },
+  {
+   "text": "RoomNo",
+   "conf": 0.9886023004849752
+  },
+  {
+   "text": "TSAPOIS",
+   "conf": 0.7844961030142648
+  },
+  {
+   "text": "Guest Name:",
+   "conf": 0.9382898861711676
+  },
+  {
+   "text": "Signature:",
+   "conf": 0.9899247169494629
+  },
+  {
+   "text": "THANKYOU !!!!",
+   "conf": 0.9111460172213041
+  }
+ ],
+ "mean_conf": 0.967,
+ "low_conf_share": 0.0,
+ "latency_ms": 3177,
+ "fields": {
+  "company": "CORAL BEACHHTL RESORTS",
+  "date": "2017-04-17",
+  "total": 1.58
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  1.58
+ ],
+ "key": "W0026_11a34f262852"
+}

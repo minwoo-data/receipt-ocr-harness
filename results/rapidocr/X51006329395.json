@@ -1,0 +1,165 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "B & BEST RESTAURANT",
+  "(001610235-P)",
+  "GST NO.:001800839168",
+  "NO.12,JA:_AN SS4C/5,PETALING JAYA",
+  "SEANGOR DARUL EHSAN",
+  "TEL:012-2060 778",
+  "**TAX INVOICE**",
+  "BILLN0:00118887/P0S01",
+  "BIZDATE: 10/02/2017",
+  "CASHIER:Manager",
+  "PRINTED:10/02/2017 01:09:47 PM RM",
+  "1 FTSHBALL NOODLE 7.00",
+  "1 SUB T01A 7.00",
+  "GST 6% 0.42V",
+  "ROUNDING ADJ -0.02",
+  "NET TOTAL 7.40",
+  "Cash 7.40",
+  "CHANGE 0.00",
+  "Thank Ycu...Please Come Again...",
+  "https://m.facebook.com/B-Best-Restaurant",
+  "All Item Will Be Charges GST"
+ ],
+ "tokens": [
+  {
+   "text": "B & BEST RESTAURANT",
+   "conf": 0.9019924621832999
+  },
+  {
+   "text": "(001610235-P)",
+   "conf": 0.9970943377568171
+  },
+  {
+   "text": "GST NO.:001800839168",
+   "conf": 0.9375387459993363
+  },
+  {
+   "text": "NO.12,JA:_AN SS4C/5,PETALING JAYA",
+   "conf": 0.9660598256371238
+  },
+  {
+   "text": "SEANGOR DARUL EHSAN",
+   "conf": 0.9640594940436514
+  },
+  {
+   "text": "TEL:012-2060 778",
+   "conf": 0.9693631455302238
+  },
+  {
+   "text": "**TAX INVOICE**",
+   "conf": 0.9222988843917846
+  },
+  {
+   "text": "BILLN0:00118887/P0S01",
+   "conf": 0.9609747954777309
+  },
+  {
+   "text": "BIZDATE: 10/02/2017",
+   "conf": 0.9933475914754366
+  },
+  {
+   "text": "CASHIER:Manager",
+   "conf": 0.989499815305074
+  },
+  {
+   "text": "PRINTED:10/02/2017 01:09:47 PM",
+   "conf": 0.9777031739552816
+  },
+  {
+   "text": "RM",
+   "conf": 0.9823619723320007
+  },
+  {
+   "text": "1",
+   "conf": 0.9969990253448486
+  },
+  {
+   "text": "FTSHBALL NOODLE",
+   "conf": 0.948407240708669
+  },
+  {
+   "text": "7.00",
+   "conf": 0.9995468109846115
+  },
+  {
+   "text": "1",
+   "conf": 0.9959606528282166
+  },
+  {
+   "text": "SUB T01A",
+   "conf": 0.8347281068563461
+  },
+  {
+   "text": "7.00",
+   "conf": 0.9991987943649292
+  },
+  {
+   "text": "GST 6%",
+   "conf": 0.9311196506023407
+  },
+  {
+   "text": "0.42V",
+   "conf": 0.945641303062439
+  },
+  {
+   "text": "ROUNDING ADJ",
+   "conf": 0.9482377121845881
+  },
+  {
+   "text": "-0.02",
+   "conf": 0.9989310145378113
+  },
+  {
+   "text": "7.40",
+   "conf": 0.9562867432832718
+  },
+  {
+   "text": "NET TOTAL",
+   "conf": 0.9768908951017592
+  },
+  {
+   "text": "Cash",
+   "conf": 0.994853213429451
+  },
+  {
+   "text": "7.40",
+   "conf": 0.9863123744726181
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9030784219503403
+  },
+  {
+   "text": "CHANGE",
+   "conf": 0.992325613896052
+  },
+  {
+   "text": "Thank Ycu...Please Come Again...",
+   "conf": 0.941037530079484
+  },
+  {
+   "text": "https://m.facebook.com/B-Best-Restaurant",
+   "conf": 0.9903876692056656
+  },
+  {
+   "text": "All Item Will Be Charges GST",
+   "conf": 0.9246784235749926
+  }
+ ],
+ "mean_conf": 0.9622,
+ "low_conf_share": 0.0,
+ "latency_ms": 3334,
+ "fields": {
+  "company": "B BEST RESTAURANT",
+  "date": "2017-02-10",
+  "total": 7.4
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  7.4
+ ],
+ "key": "X51006329395"
+}

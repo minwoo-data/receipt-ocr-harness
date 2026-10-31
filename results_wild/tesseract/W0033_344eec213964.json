@@ -1,0 +1,400 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "#Waka1 (10)",
+  "Charcoal Grill Diner",
+  "ZAKKUSHI",
+  "823 Denman Street",
+  "Vancouver, BC, V6G 2L7 J",
+  "Tel/Fax: (604) 685-1136",
+  "Order# ZK0000044172",
+  "6/20/2007 1:39:10 PM",
+  "2 Roll Set (ROLL SET) 17.80",
+  "4 Tori Soboro Don (SOBORO) 6.80",
+  "4 Zaru Soba (ZA-SOBA) 4.80",
+  "2 Tsukemono 4.00",
+  "1 Umezuke (UMEZUKE) 3.80",
+  "1 Pork Ginger Tei (P-G-T) 8.50",
+  "1 Salad Udon (S-UDON) 5.80",
+  "3 Curry Udon (CURYUDON) 17.40",
+  "4 Gomaae (GOMA) 3.50",
+  "3 Lunch Pop,Tea (L-POP) 4.50",
+  "1 Tako Wasa (TAKOWASA) 3.50",
+  "Subtotal 80.40",
+  "GST 4.82 aie",
+  "Total 85.22",
+  "THANK YOU",
+  "GST # 869335000 RTO001"
+ ],
+ "tokens": [
+  {
+   "text": "#Waka1",
+   "conf": 0.5
+  },
+  {
+   "text": "(10)",
+   "conf": 0.96
+  },
+  {
+   "text": "Charcoal",
+   "conf": 0.96
+  },
+  {
+   "text": "Grill",
+   "conf": 0.95
+  },
+  {
+   "text": "Diner",
+   "conf": 0.96
+  },
+  {
+   "text": "ZAKKUSHI",
+   "conf": 0.91
+  },
+  {
+   "text": "823",
+   "conf": 0.96
+  },
+  {
+   "text": "Denman",
+   "conf": 0.96
+  },
+  {
+   "text": "Street",
+   "conf": 0.96
+  },
+  {
+   "text": "Vancouver,",
+   "conf": 0.96
+  },
+  {
+   "text": "BC,",
+   "conf": 0.93
+  },
+  {
+   "text": "V6G",
+   "conf": 0.92
+  },
+  {
+   "text": "2L7",
+   "conf": 0.91
+  },
+  {
+   "text": "J",
+   "conf": 0.32
+  },
+  {
+   "text": "Tel/Fax:",
+   "conf": 0.96
+  },
+  {
+   "text": "(604)",
+   "conf": 0.96
+  },
+  {
+   "text": "685-1136",
+   "conf": 0.96
+  },
+  {
+   "text": "Order#",
+   "conf": 0.83
+  },
+  {
+   "text": "ZK0000044172",
+   "conf": 0.83
+  },
+  {
+   "text": "6/20/2007",
+   "conf": 0.95
+  },
+  {
+   "text": "1:39:10",
+   "conf": 0.96
+  },
+  {
+   "text": "PM",
+   "conf": 0.96
+  },
+  {
+   "text": "2",
+   "conf": 0.65
+  },
+  {
+   "text": "Roll",
+   "conf": 0.83
+  },
+  {
+   "text": "Set",
+   "conf": 0.95
+  },
+  {
+   "text": "(ROLL",
+   "conf": 0.92
+  },
+  {
+   "text": "SET)",
+   "conf": 0.96
+  },
+  {
+   "text": "17.80",
+   "conf": 0.9
+  },
+  {
+   "text": "4",
+   "conf": 0.63
+  },
+  {
+   "text": "Tori",
+   "conf": 0.91
+  },
+  {
+   "text": "Soboro",
+   "conf": 0.88
+  },
+  {
+   "text": "Don",
+   "conf": 0.93
+  },
+  {
+   "text": "(SOBORO)",
+   "conf": 0.92
+  },
+  {
+   "text": "6.80",
+   "conf": 0.95
+  },
+  {
+   "text": "4",
+   "conf": 0.73
+  },
+  {
+   "text": "Zaru",
+   "conf": 0.79
+  },
+  {
+   "text": "Soba",
+   "conf": 0.92
+  },
+  {
+   "text": "(ZA-SOBA)",
+   "conf": 0.92
+  },
+  {
+   "text": "4.80",
+   "conf": 0.95
+  },
+  {
+   "text": "2",
+   "conf": 0.96
+  },
+  {
+   "text": "Tsukemono",
+   "conf": 0.9
+  },
+  {
+   "text": "4.00",
+   "conf": 0.93
+  },
+  {
+   "text": "1",
+   "conf": 0.94
+  },
+  {
+   "text": "Umezuke",
+   "conf": 0.92
+  },
+  {
+   "text": "(UMEZUKE)",
+   "conf": 0.91
+  },
+  {
+   "text": "3.80",
+   "conf": 0.94
+  },
+  {
+   "text": "1",
+   "conf": 0.94
+  },
+  {
+   "text": "Pork",
+   "conf": 0.96
+  },
+  {
+   "text": "Ginger",
+   "conf": 0.96
+  },
+  {
+   "text": "Tei",
+   "conf": 0.93
+  },
+  {
+   "text": "(P-G-T)",
+   "conf": 0.93
+  },
+  {
+   "text": "8.50",
+   "conf": 0.96
+  },
+  {
+   "text": "1",
+   "conf": 0.93
+  },
+  {
+   "text": "Salad",
+   "conf": 0.96
+  },
+  {
+   "text": "Udon",
+   "conf": 0.93
+  },
+  {
+   "text": "(S-UDON)",
+   "conf": 0.91
+  },
+  {
+   "text": "5.80",
+   "conf": 0.95
+  },
+  {
+   "text": "3",
+   "conf": 0.96
+  },
+  {
+   "text": "Curry",
+   "conf": 0.96
+  },
+  {
+   "text": "Udon",
+   "conf": 0.93
+  },
+  {
+   "text": "(CURYUDON)",
+   "conf": 0.92
+  },
+  {
+   "text": "17.40",
+   "conf": 0.96
+  },
+  {
+   "text": "4",
+   "conf": 0.67
+  },
+  {
+   "text": "Gomaae",
+   "conf": 0.77
+  },
+  {
+   "text": "(GOMA)",
+   "conf": 0.91
+  },
+  {
+   "text": "3.50",
+   "conf": 0.96
+  },
+  {
+   "text": "3",
+   "conf": 0.71
+  },
+  {
+   "text": "Lunch",
+   "conf": 0.71
+  },
+  {
+   "text": "Pop,Tea",
+   "conf": 0.92
+  },
+  {
+   "text": "(L-POP)",
+   "conf": 0.92
+  },
+  {
+   "text": "4.50",
+   "conf": 0.77
+  },
+  {
+   "text": "1",
+   "conf": 0.92
+  },
+  {
+   "text": "Tako",
+   "conf": 0.96
+  },
+  {
+   "text": "Wasa",
+   "conf": 0.93
+  },
+  {
+   "text": "(TAKOWASA)",
+   "conf": 0.87
+  },
+  {
+   "text": "3.50",
+   "conf": 0.96
+  },
+  {
+   "text": "Subtotal",
+   "conf": 0.96
+  },
+  {
+   "text": "80.40",
+   "conf": 0.96
+  },
+  {
+   "text": "GST",
+   "conf": 0.95
+  },
+  {
+   "text": "4.82",
+   "conf": 0.96
+  },
+  {
+   "text": "aie",
+   "conf": 0.28
+  },
+  {
+   "text": "Total",
+   "conf": 0.96
+  },
+  {
+   "text": "85.22",
+   "conf": 0.96
+  },
+  {
+   "text": "THANK",
+   "conf": 0.96
+  },
+  {
+   "text": "YOU",
+   "conf": 0.95
+  },
+  {
+   "text": "GST",
+   "conf": 0.93
+  },
+  {
+   "text": "#",
+   "conf": 0.0
+  },
+  {
+   "text": "869335000",
+   "conf": 0.0
+  },
+  {
+   "text": "RTO001",
+   "conf": 0.53
+  }
+ ],
+ "mean_conf": 0.8683,
+ "low_conf_share": 0.0449,
+ "latency_ms": 824,
+ "fields": {
+  "company": "CHARCOAL GRILL DINER",
+  "date": "2007-06-20",
+  "total": 85.22
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  85.22
+ ],
+ "key": "W0033_344eec213964"
+}

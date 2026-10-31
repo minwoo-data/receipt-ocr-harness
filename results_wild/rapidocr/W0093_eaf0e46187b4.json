@@ -1,0 +1,189 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "Piola-Brickell",
+  "1250 South Miani Avenue",
+  "Miani.FL 33131",
+  "（305）3740031",
+  "ww.piola.it",
+  "Dec28201311:50:34PH",
+  "Server:laura",
+  "Order Nane:Table2",
+  "0rder:34264278 Dec28201310:26:02PM",
+  "0rder Iype:Dine-ln Seats2",
+  "901 Panna 0h",
+  "19Quattro Fol 12.50",
+  "118Piola 1680",
+  "ADD 01ives（1.50)",
+  "720 Crese di Papaya 6.50",
+  "725Coppa Piola 6.50",
+  "SubTotal: 46.00",
+  "Sales Tax: 3.68",
+  "Total: 49.68",
+  "Amt.Due: 896h",
+  "IIPGUIDE",
+  "15%:6.90",
+  "20%:9.20",
+  "Thank you for coming!",
+  "WWW.P10LA.1T"
+ ],
+ "tokens": [
+  {
+   "text": "Piola-Brickell",
+   "conf": 0.9552779410566602
+  },
+  {
+   "text": "1250 South Miani Avenue",
+   "conf": 0.9254745232022327
+  },
+  {
+   "text": "Miani.FL 33131",
+   "conf": 0.8720363889421735
+  },
+  {
+   "text": "（305）3740031",
+   "conf": 0.8903324902057648
+  },
+  {
+   "text": "ww.piola.it",
+   "conf": 0.9405702352523804
+  },
+  {
+   "text": "Dec28201311:50:34PH",
+   "conf": 0.9267910562063518
+  },
+  {
+   "text": "Server:laura",
+   "conf": 0.9364131639401118
+  },
+  {
+   "text": "Order Nane:Table2",
+   "conf": 0.859061053570579
+  },
+  {
+   "text": "0rder:34264278",
+   "conf": 0.8245412111282349
+  },
+  {
+   "text": "Dec28201310:26:02PM",
+   "conf": 0.9314242570023787
+  },
+  {
+   "text": "0rder Iype:Dine-ln",
+   "conf": 0.8382735119925605
+  },
+  {
+   "text": "Seats2",
+   "conf": 0.8743520081043243
+  },
+  {
+   "text": "901 Panna",
+   "conf": 0.8992508716053433
+  },
+  {
+   "text": "0h",
+   "conf": 0.640197828412056
+  },
+  {
+   "text": "19Quattro Fol",
+   "conf": 0.9028655565701998
+  },
+  {
+   "text": "12.50",
+   "conf": 0.8947619676589966
+  },
+  {
+   "text": "118Piola",
+   "conf": 0.9640837907791138
+  },
+  {
+   "text": "1680",
+   "conf": 0.895373523235321
+  },
+  {
+   "text": "ADD 01ives（1.50)",
+   "conf": 0.8769223056733608
+  },
+  {
+   "text": "720 Crese di Papaya",
+   "conf": 0.8841689903485147
+  },
+  {
+   "text": "6.50",
+   "conf": 0.8776871263980865
+  },
+  {
+   "text": "725Coppa Piola",
+   "conf": 0.9554577384676252
+  },
+  {
+   "text": "6.50",
+   "conf": 0.7710299491882324
+  },
+  {
+   "text": "SubTotal:",
+   "conf": 0.9439603090286255
+  },
+  {
+   "text": "46.00",
+   "conf": 0.966746163368225
+  },
+  {
+   "text": "Sales Tax:",
+   "conf": 0.8713065087795258
+  },
+  {
+   "text": "3.68",
+   "conf": 0.9908219426870346
+  },
+  {
+   "text": "Total:",
+   "conf": 0.9215355416138967
+  },
+  {
+   "text": "49.68",
+   "conf": 0.9670115828514099
+  },
+  {
+   "text": "Amt.Due:",
+   "conf": 0.9340045526623726
+  },
+  {
+   "text": "896h",
+   "conf": 0.9417940527200699
+  },
+  {
+   "text": "IIPGUIDE",
+   "conf": 0.8210216760635376
+  },
+  {
+   "text": "15%:6.90",
+   "conf": 0.9579673334956169
+  },
+  {
+   "text": "20%:9.20",
+   "conf": 0.872294221073389
+  },
+  {
+   "text": "Thank you for coming!",
+   "conf": 0.8930217552752722
+  },
+  {
+   "text": "WWW.P10LA.1T",
+   "conf": 0.8701945692300797
+  }
+ ],
+ "mean_conf": 0.8969,
+ "low_conf_share": 0.0,
+ "latency_ms": 3358,
+ "fields": {
+  "company": "PIOLA BRICKELL",
+  "date": "2020-12-28",
+  "total": 49.68
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  49.68
+ ],
+ "key": "W0093_eaf0e46187b4"
+}

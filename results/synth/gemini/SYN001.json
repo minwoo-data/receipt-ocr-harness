@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.6-flash",
+ "provider": "gemini",
+ "raw_text": "{\"vendor\": \"BLUE HARBOUR CAFE\", \"date\": \"2028-11-02\", \"subtotal\": 96.4, \"tax\": 5.78, \"tip\": null, \"discount\": null, \"total\": 102.18, \"currency\": \"MYR\", \"confidence\": 0.95, \"notes\": null}",
+ "data": {
+  "vendor": "BLUE HARBOUR CAFE",
+  "date": "2028-11-02",
+  "subtotal": 96.4,
+  "tax": 5.78,
+  "tip": null,
+  "discount": null,
+  "total": 102.18,
+  "currency": "MYR",
+  "confidence": 0.95,
+  "notes": null
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1485,
+  "output_tokens": 86,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.001436,
+ "latency_ms": 10178,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.6-flash",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.6-flash"
+ ],
+ "key": "SYN001"
+}

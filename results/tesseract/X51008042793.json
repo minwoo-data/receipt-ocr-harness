@@ -1,0 +1,381 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "SANG KEE CHERAS RESTAURANT",
+  "(001310659-U) :",
+  "09, JALAN TEMENGGUNG 3/9",
+  "BANDAR MAHKOTA CHERAS |",
+  "43209 CHERAS",
+  "SE_ANGOR",
+  "(NO ID GST 001226018816 )",
+  "TAX INVOICE",
+  "NO. : 74285",
+  "ees a) 801-01 03/05/2018 20:24",
+  "EMS Ret \\00320240) _74265_dhh2476558+014",
+  "BCODE QTY U/PRICE AMT",
+  "$556570105139 1 2.50 2.50s",
+  "ALL SGPT DRINK CAN",
+  "SUB-TOTAL 2.51",
+  "Votal SET) 0.14",
+  "Total Items) 1",
+  "Total Quanity =: 1",
+  "RM",
+  "Total Incl GST 2.50",
+  "Pay Gash 2.50",
+  "Change 0.00",
+  "THANK ‘OU. PLEASE COME AGAIN",
+  "GsT Taxabie Amt GST Amt",
+  "s-SRdj -.6% 2.36 0.14,"
+ ],
+ "tokens": [
+  {
+   "text": "SANG",
+   "conf": 0.95
+  },
+  {
+   "text": "KEE",
+   "conf": 0.88
+  },
+  {
+   "text": "CHERAS",
+   "conf": 0.88
+  },
+  {
+   "text": "RESTAURANT",
+   "conf": 0.95
+  },
+  {
+   "text": "(001310659-U)",
+   "conf": 0.55
+  },
+  {
+   "text": ":",
+   "conf": 0.0
+  },
+  {
+   "text": "09,",
+   "conf": 0.85
+  },
+  {
+   "text": "JALAN",
+   "conf": 0.74
+  },
+  {
+   "text": "TEMENGGUNG",
+   "conf": 0.8
+  },
+  {
+   "text": "3/9",
+   "conf": 0.95
+  },
+  {
+   "text": "BANDAR",
+   "conf": 0.78
+  },
+  {
+   "text": "MAHKOTA",
+   "conf": 0.88
+  },
+  {
+   "text": "CHERAS",
+   "conf": 0.82
+  },
+  {
+   "text": "|",
+   "conf": 0.53
+  },
+  {
+   "text": "43209",
+   "conf": 0.75
+  },
+  {
+   "text": "CHERAS",
+   "conf": 0.89
+  },
+  {
+   "text": "SE_ANGOR",
+   "conf": 0.87
+  },
+  {
+   "text": "(NO",
+   "conf": 0.81
+  },
+  {
+   "text": "ID",
+   "conf": 0.92
+  },
+  {
+   "text": "GST",
+   "conf": 0.92
+  },
+  {
+   "text": "001226018816",
+   "conf": 0.72
+  },
+  {
+   "text": ")",
+   "conf": 0.88
+  },
+  {
+   "text": "TAX",
+   "conf": 0.92
+  },
+  {
+   "text": "INVOICE",
+   "conf": 0.92
+  },
+  {
+   "text": "NO.",
+   "conf": 0.92
+  },
+  {
+   "text": ":",
+   "conf": 0.9
+  },
+  {
+   "text": "74285",
+   "conf": 0.96
+  },
+  {
+   "text": "ees",
+   "conf": 0.16
+  },
+  {
+   "text": "a)",
+   "conf": 0.32
+  },
+  {
+   "text": "801-01",
+   "conf": 0.31
+  },
+  {
+   "text": "03/05/2018",
+   "conf": 0.68
+  },
+  {
+   "text": "20:24",
+   "conf": 0.93
+  },
+  {
+   "text": "EMS",
+   "conf": 0.65
+  },
+  {
+   "text": "Ret",
+   "conf": 0.68
+  },
+  {
+   "text": "\\00320240)",
+   "conf": 0.0
+  },
+  {
+   "text": "_74265_dhh2476558+014",
+   "conf": 0.53
+  },
+  {
+   "text": "BCODE",
+   "conf": 0.51
+  },
+  {
+   "text": "QTY",
+   "conf": 0.92
+  },
+  {
+   "text": "U/PRICE",
+   "conf": 0.91
+  },
+  {
+   "text": "AMT",
+   "conf": 0.95
+  },
+  {
+   "text": "$556570105139",
+   "conf": 0.46
+  },
+  {
+   "text": "1",
+   "conf": 0.96
+  },
+  {
+   "text": "2.50",
+   "conf": 0.83
+  },
+  {
+   "text": "2.50s",
+   "conf": 0.83
+  },
+  {
+   "text": "ALL",
+   "conf": 0.95
+  },
+  {
+   "text": "SGPT",
+   "conf": 0.63
+  },
+  {
+   "text": "DRINK",
+   "conf": 0.26
+  },
+  {
+   "text": "CAN",
+   "conf": 0.95
+  },
+  {
+   "text": "SUB-TOTAL",
+   "conf": 0.0
+  },
+  {
+   "text": "2.51",
+   "conf": 0.68
+  },
+  {
+   "text": "Votal",
+   "conf": 0.0
+  },
+  {
+   "text": "SET)",
+   "conf": 0.0
+  },
+  {
+   "text": "0.14",
+   "conf": 0.92
+  },
+  {
+   "text": "Total",
+   "conf": 0.75
+  },
+  {
+   "text": "Items)",
+   "conf": 0.16
+  },
+  {
+   "text": "1",
+   "conf": 0.8
+  },
+  {
+   "text": "Total",
+   "conf": 0.79
+  },
+  {
+   "text": "Quanity",
+   "conf": 0.67
+  },
+  {
+   "text": "=:",
+   "conf": 0.14
+  },
+  {
+   "text": "1",
+   "conf": 0.14
+  },
+  {
+   "text": "RM",
+   "conf": 0.96
+  },
+  {
+   "text": "Total",
+   "conf": 0.95
+  },
+  {
+   "text": "Incl",
+   "conf": 0.95
+  },
+  {
+   "text": "GST",
+   "conf": 0.95
+  },
+  {
+   "text": "2.50",
+   "conf": 0.96
+  },
+  {
+   "text": "Pay",
+   "conf": 0.94
+  },
+  {
+   "text": "Gash",
+   "conf": 0.88
+  },
+  {
+   "text": "2.50",
+   "conf": 0.96
+  },
+  {
+   "text": "Change",
+   "conf": 0.96
+  },
+  {
+   "text": "0.00",
+   "conf": 0.96
+  },
+  {
+   "text": "THANK",
+   "conf": 0.95
+  },
+  {
+   "text": "‘OU.",
+   "conf": 0.44
+  },
+  {
+   "text": "PLEASE",
+   "conf": 0.96
+  },
+  {
+   "text": "COME",
+   "conf": 0.79
+  },
+  {
+   "text": "AGAIN",
+   "conf": 0.96
+  },
+  {
+   "text": "GsT",
+   "conf": 0.21
+  },
+  {
+   "text": "Taxabie",
+   "conf": 0.52
+  },
+  {
+   "text": "Amt",
+   "conf": 0.96
+  },
+  {
+   "text": "GST",
+   "conf": 0.96
+  },
+  {
+   "text": "Amt",
+   "conf": 0.94
+  },
+  {
+   "text": "s-SRdj",
+   "conf": 0.31
+  },
+  {
+   "text": "-.6%",
+   "conf": 0.0
+  },
+  {
+   "text": "2.36",
+   "conf": 0.79
+  },
+  {
+   "text": "0.14,",
+   "conf": 0.79
+  }
+ ],
+ "mean_conf": 0.7079,
+ "low_conf_share": 0.2024,
+ "latency_ms": 1479,
+ "fields": {
+  "company": "SANG KEE CHERAS RESTAURANT",
+  "date": "2018-05-03",
+  "total": 2.5
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  2.5
+ ],
+ "key": "X51008042793"
+}

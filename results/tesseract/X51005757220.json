@@ -1,0 +1,600 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "3 (8030/0",
+  "bd",
+  "AEON CO. (4) BHD (126926-H)",
+  "3R0 FLR, AEON. TAMAN, MALURT SC",
+  "JLN JEJAKA, TAMAN MALURIT *",
+  "CHERAS, 55700 KUALA LUMPUR",
+  "GST ID ; 002017394688",
+  "SHOPPING HOURS",
+  "SUN-THU: 1000 HRS - 2260 HRS",
+  "FRI-SAT: 1000 HRS - 2300 HRS",
+  "1x 000006215514 10.965\"",
+  "TOPYALU VIRGIN",
+  "1x 000906215514 10.905R",
+  "TOPYALU VIRGIN",
+  "16x 000601060836 44 .00ZR",
+  "ANCHOR FLOUR 1 &2.75",
+  "1x 000001083107 15.40SR",
+  "DIAMOND FOIL 7",
+  "Sub-total 81.26",
+  "Total Sales Inc] GST 61.26",
+  "Total After Adj Inc! GS1 81.20",
+  "CASH 100,60",
+  "Item Count 19 Change Amt 18.80",
+  "Tnvoice No: 201803051908008011S",
+  "GST Summary Amount Tax",
+  "SR & 6% 35.09 2a",
+  "ZR & 0% 44.00 0.00",
+  "Total 79.09 2.11",
+  "05/03/2018 15:08 1906 0038 0080119",
+  "0305114 LEONG STEW MUI REKHA",
+  "AEON BANDAR PUCHCONG",
+  "TEL 1-300-80-AEON (2966)",
+  "THANK YOU FOR YOUR PATRONAGE",
+  "PLEASE COME AGATNN",
+  "nee",
+  "ALAA REE GALES aT RE"
+ ],
+ "tokens": [
+  {
+   "text": "3",
+   "conf": 0.0
+  },
+  {
+   "text": "(8030/0",
+   "conf": 0.0
+  },
+  {
+   "text": "bd",
+   "conf": 0.36
+  },
+  {
+   "text": "AEON",
+   "conf": 0.91
+  },
+  {
+   "text": "CO.",
+   "conf": 0.93
+  },
+  {
+   "text": "(4)",
+   "conf": 0.37
+  },
+  {
+   "text": "BHD",
+   "conf": 0.93
+  },
+  {
+   "text": "(126926-H)",
+   "conf": 0.67
+  },
+  {
+   "text": "3R0",
+   "conf": 0.76
+  },
+  {
+   "text": "FLR,",
+   "conf": 0.87
+  },
+  {
+   "text": "AEON.",
+   "conf": 0.09
+  },
+  {
+   "text": "TAMAN,",
+   "conf": 0.66
+  },
+  {
+   "text": "MALURT",
+   "conf": 0.87
+  },
+  {
+   "text": "SC",
+   "conf": 0.94
+  },
+  {
+   "text": "JLN",
+   "conf": 0.86
+  },
+  {
+   "text": "JEJAKA,",
+   "conf": 0.86
+  },
+  {
+   "text": "TAMAN",
+   "conf": 0.9
+  },
+  {
+   "text": "MALURIT",
+   "conf": 0.0
+  },
+  {
+   "text": "*",
+   "conf": 0.0
+  },
+  {
+   "text": "CHERAS,",
+   "conf": 0.91
+  },
+  {
+   "text": "55700",
+   "conf": 0.89
+  },
+  {
+   "text": "KUALA",
+   "conf": 0.96
+  },
+  {
+   "text": "LUMPUR",
+   "conf": 0.96
+  },
+  {
+   "text": "GST",
+   "conf": 0.91
+  },
+  {
+   "text": "ID",
+   "conf": 0.89
+  },
+  {
+   "text": ";",
+   "conf": 0.64
+  },
+  {
+   "text": "002017394688",
+   "conf": 0.96
+  },
+  {
+   "text": "SHOPPING",
+   "conf": 0.96
+  },
+  {
+   "text": "HOURS",
+   "conf": 0.96
+  },
+  {
+   "text": "SUN-THU:",
+   "conf": 0.77
+  },
+  {
+   "text": "1000",
+   "conf": 0.95
+  },
+  {
+   "text": "HRS",
+   "conf": 0.92
+  },
+  {
+   "text": "-",
+   "conf": 0.91
+  },
+  {
+   "text": "2260",
+   "conf": 0.79
+  },
+  {
+   "text": "HRS",
+   "conf": 0.96
+  },
+  {
+   "text": "FRI-SAT:",
+   "conf": 0.33
+  },
+  {
+   "text": "1000",
+   "conf": 0.33
+  },
+  {
+   "text": "HRS",
+   "conf": 0.92
+  },
+  {
+   "text": "-",
+   "conf": 0.92
+  },
+  {
+   "text": "2300",
+   "conf": 0.96
+  },
+  {
+   "text": "HRS",
+   "conf": 0.96
+  },
+  {
+   "text": "1x",
+   "conf": 0.67
+  },
+  {
+   "text": "000006215514",
+   "conf": 0.9
+  },
+  {
+   "text": "10.965\"",
+   "conf": 0.57
+  },
+  {
+   "text": "TOPYALU",
+   "conf": 0.51
+  },
+  {
+   "text": "VIRGIN",
+   "conf": 0.89
+  },
+  {
+   "text": "1x",
+   "conf": 0.77
+  },
+  {
+   "text": "000906215514",
+   "conf": 0.72
+  },
+  {
+   "text": "10.905R",
+   "conf": 0.47
+  },
+  {
+   "text": "TOPYALU",
+   "conf": 0.47
+  },
+  {
+   "text": "VIRGIN",
+   "conf": 0.91
+  },
+  {
+   "text": "16x",
+   "conf": 0.96
+  },
+  {
+   "text": "000601060836",
+   "conf": 0.87
+  },
+  {
+   "text": "44",
+   "conf": 0.48
+  },
+  {
+   "text": ".00ZR",
+   "conf": 0.38
+  },
+  {
+   "text": "ANCHOR",
+   "conf": 0.96
+  },
+  {
+   "text": "FLOUR",
+   "conf": 0.95
+  },
+  {
+   "text": "1",
+   "conf": 0.9
+  },
+  {
+   "text": "&2.75",
+   "conf": 0.83
+  },
+  {
+   "text": "1x",
+   "conf": 0.95
+  },
+  {
+   "text": "000001083107",
+   "conf": 0.95
+  },
+  {
+   "text": "15.40SR",
+   "conf": 0.82
+  },
+  {
+   "text": "DIAMOND",
+   "conf": 0.46
+  },
+  {
+   "text": "FOIL",
+   "conf": 0.96
+  },
+  {
+   "text": "7",
+   "conf": 0.96
+  },
+  {
+   "text": "Sub-total",
+   "conf": 0.89
+  },
+  {
+   "text": "81.26",
+   "conf": 0.84
+  },
+  {
+   "text": "Total",
+   "conf": 0.94
+  },
+  {
+   "text": "Sales",
+   "conf": 0.96
+  },
+  {
+   "text": "Inc]",
+   "conf": 0.88
+  },
+  {
+   "text": "GST",
+   "conf": 0.9
+  },
+  {
+   "text": "61.26",
+   "conf": 0.43
+  },
+  {
+   "text": "Total",
+   "conf": 0.91
+  },
+  {
+   "text": "After",
+   "conf": 0.88
+  },
+  {
+   "text": "Adj",
+   "conf": 0.94
+  },
+  {
+   "text": "Inc!",
+   "conf": 0.65
+  },
+  {
+   "text": "GS1",
+   "conf": 0.03
+  },
+  {
+   "text": "81.20",
+   "conf": 0.73
+  },
+  {
+   "text": "CASH",
+   "conf": 0.96
+  },
+  {
+   "text": "100,60",
+   "conf": 0.72
+  },
+  {
+   "text": "Item",
+   "conf": 0.92
+  },
+  {
+   "text": "Count",
+   "conf": 0.96
+  },
+  {
+   "text": "19",
+   "conf": 0.96
+  },
+  {
+   "text": "Change",
+   "conf": 0.96
+  },
+  {
+   "text": "Amt",
+   "conf": 0.95
+  },
+  {
+   "text": "18.80",
+   "conf": 0.91
+  },
+  {
+   "text": "Tnvoice",
+   "conf": 0.82
+  },
+  {
+   "text": "No:",
+   "conf": 0.92
+  },
+  {
+   "text": "201803051908008011S",
+   "conf": 0.8
+  },
+  {
+   "text": "GST",
+   "conf": 0.94
+  },
+  {
+   "text": "Summary",
+   "conf": 0.91
+  },
+  {
+   "text": "Amount",
+   "conf": 0.73
+  },
+  {
+   "text": "Tax",
+   "conf": 0.95
+  },
+  {
+   "text": "SR",
+   "conf": 0.86
+  },
+  {
+   "text": "&",
+   "conf": 0.46
+  },
+  {
+   "text": "6%",
+   "conf": 0.92
+  },
+  {
+   "text": "35.09",
+   "conf": 0.93
+  },
+  {
+   "text": "2a",
+   "conf": 0.41
+  },
+  {
+   "text": "ZR",
+   "conf": 0.53
+  },
+  {
+   "text": "&",
+   "conf": 0.83
+  },
+  {
+   "text": "0%",
+   "conf": 0.87
+  },
+  {
+   "text": "44.00",
+   "conf": 0.65
+  },
+  {
+   "text": "0.00",
+   "conf": 0.83
+  },
+  {
+   "text": "Total",
+   "conf": 0.94
+  },
+  {
+   "text": "79.09",
+   "conf": 0.95
+  },
+  {
+   "text": "2.11",
+   "conf": 0.43
+  },
+  {
+   "text": "05/03/2018",
+   "conf": 0.96
+  },
+  {
+   "text": "15:08",
+   "conf": 0.79
+  },
+  {
+   "text": "1906",
+   "conf": 0.76
+  },
+  {
+   "text": "0038",
+   "conf": 0.43
+  },
+  {
+   "text": "0080119",
+   "conf": 0.76
+  },
+  {
+   "text": "0305114",
+   "conf": 0.84
+  },
+  {
+   "text": "LEONG",
+   "conf": 0.96
+  },
+  {
+   "text": "STEW",
+   "conf": 0.92
+  },
+  {
+   "text": "MUI",
+   "conf": 0.78
+  },
+  {
+   "text": "REKHA",
+   "conf": 0.92
+  },
+  {
+   "text": "AEON",
+   "conf": 0.89
+  },
+  {
+   "text": "BANDAR",
+   "conf": 0.91
+  },
+  {
+   "text": "PUCHCONG",
+   "conf": 0.35
+  },
+  {
+   "text": "TEL",
+   "conf": 0.76
+  },
+  {
+   "text": "1-300-80-AEON",
+   "conf": 0.64
+  },
+  {
+   "text": "(2966)",
+   "conf": 0.72
+  },
+  {
+   "text": "THANK",
+   "conf": 0.96
+  },
+  {
+   "text": "YOU",
+   "conf": 0.96
+  },
+  {
+   "text": "FOR",
+   "conf": 0.96
+  },
+  {
+   "text": "YOUR",
+   "conf": 0.96
+  },
+  {
+   "text": "PATRONAGE",
+   "conf": 0.96
+  },
+  {
+   "text": "PLEASE",
+   "conf": 0.96
+  },
+  {
+   "text": "COME",
+   "conf": 0.93
+  },
+  {
+   "text": "AGATNN",
+   "conf": 0.57
+  },
+  {
+   "text": "nee",
+   "conf": 0.29
+  },
+  {
+   "text": "ALAA",
+   "conf": 0.0
+  },
+  {
+   "text": "REE",
+   "conf": 0.0
+  },
+  {
+   "text": "GALES",
+   "conf": 0.0
+  },
+  {
+   "text": "aT",
+   "conf": 0.07
+  },
+  {
+   "text": "RE",
+   "conf": 0.25
+  }
+ ],
+ "mean_conf": 0.7449,
+ "low_conf_share": 0.1985,
+ "latency_ms": 1566,
+ "fields": {
+  "company": "AEON CO BHD",
+  "date": "2018-03-05",
+  "total": 81.2
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  81.2
+ ],
+ "key": "X51005757220"
+}

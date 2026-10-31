@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.1-flash-lite",
+ "provider": "gemini",
+ "raw_text": "{\n  \"vendor\": \"BOMBAY BARBEQUE\",\n  \"date\": \"2016-09-22\",\n  \"subtotal\": 1616.0,\n  \"tax\": 183.0,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 1799.0,\n  \"currency\": \"INR\",\n  \"confidence\": 0.98,\n  \"notes\": null\n}",
+ "data": {
+  "vendor": "BOMBAY BARBEQUE",
+  "date": "2016-09-22",
+  "subtotal": 1616.0,
+  "tax": 183.0,
+  "tip": null,
+  "discount": null,
+  "total": 1799.0,
+  "currency": "INR",
+  "confidence": 0.98,
+  "notes": null
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1469,
+  "output_tokens": 111,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.000534,
+ "latency_ms": 1569,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.1-flash-lite",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.1-flash-lite"
+ ],
+ "key": "W0176_e46ec2e27618"
+}

@@ -1,0 +1,329 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "3180203",
+  "> WESTERN EASTERN",
+  "STATIONERY SON. BHD",
+  "“| CO REG NO : 210038~-k",
+  "GST 10 : 000517095424",
+  "42-46, JLN SULTAN AZLAN",
+  "SHAH 51200 KUALA LUMPUR",
+  "TEL : 03-4043 7678",
+  "TAX INVOICE",
+  "REG 26-02-2018 14:27",
+  "col KL 001 035857",
+  "CLR P.S A4/A3",
+  "S RM7. 42",
+  "1 No",
+  "GST TA AMT RM7.00",
+  "GST 6% RMO. 42",
+  "TOTAL RM. 42",
+  "ROUNDING -0.02",
+  "CASH RM7. 40",
+  "TAX INVOICE OF GSI",
+  "GOODS SOLD ARE NOT",
+  "RETURNABLE"
+ ],
+ "tokens": [
+  {
+   "text": "3180203",
+   "conf": 0.96
+  },
+  {
+   "text": ">",
+   "conf": 0.79
+  },
+  {
+   "text": "WESTERN",
+   "conf": 0.96
+  },
+  {
+   "text": "EASTERN",
+   "conf": 0.96
+  },
+  {
+   "text": "STATIONERY",
+   "conf": 0.96
+  },
+  {
+   "text": "SON.",
+   "conf": 0.89
+  },
+  {
+   "text": "BHD",
+   "conf": 0.94
+  },
+  {
+   "text": "“|",
+   "conf": 0.38
+  },
+  {
+   "text": "CO",
+   "conf": 0.89
+  },
+  {
+   "text": "REG",
+   "conf": 0.95
+  },
+  {
+   "text": "NO",
+   "conf": 0.85
+  },
+  {
+   "text": ":",
+   "conf": 0.85
+  },
+  {
+   "text": "210038~-k",
+   "conf": 0.56
+  },
+  {
+   "text": "GST",
+   "conf": 0.95
+  },
+  {
+   "text": "10",
+   "conf": 0.74
+  },
+  {
+   "text": ":",
+   "conf": 0.91
+  },
+  {
+   "text": "000517095424",
+   "conf": 0.94
+  },
+  {
+   "text": "42-46,",
+   "conf": 0.92
+  },
+  {
+   "text": "JLN",
+   "conf": 0.92
+  },
+  {
+   "text": "SULTAN",
+   "conf": 0.92
+  },
+  {
+   "text": "AZLAN",
+   "conf": 0.92
+  },
+  {
+   "text": "SHAH",
+   "conf": 0.96
+  },
+  {
+   "text": "51200",
+   "conf": 0.96
+  },
+  {
+   "text": "KUALA",
+   "conf": 0.96
+  },
+  {
+   "text": "LUMPUR",
+   "conf": 0.96
+  },
+  {
+   "text": "TEL",
+   "conf": 0.89
+  },
+  {
+   "text": ":",
+   "conf": 0.86
+  },
+  {
+   "text": "03-4043",
+   "conf": 0.94
+  },
+  {
+   "text": "7678",
+   "conf": 0.95
+  },
+  {
+   "text": "TAX",
+   "conf": 0.95
+  },
+  {
+   "text": "INVOICE",
+   "conf": 0.94
+  },
+  {
+   "text": "REG",
+   "conf": 0.95
+  },
+  {
+   "text": "26-02-2018",
+   "conf": 0.93
+  },
+  {
+   "text": "14:27",
+   "conf": 0.95
+  },
+  {
+   "text": "col",
+   "conf": 0.71
+  },
+  {
+   "text": "KL",
+   "conf": 0.56
+  },
+  {
+   "text": "001",
+   "conf": 0.84
+  },
+  {
+   "text": "035857",
+   "conf": 0.96
+  },
+  {
+   "text": "CLR",
+   "conf": 0.88
+  },
+  {
+   "text": "P.S",
+   "conf": 0.76
+  },
+  {
+   "text": "A4/A3",
+   "conf": 0.86
+  },
+  {
+   "text": "S",
+   "conf": 0.43
+  },
+  {
+   "text": "RM7.",
+   "conf": 0.83
+  },
+  {
+   "text": "42",
+   "conf": 0.96
+  },
+  {
+   "text": "1",
+   "conf": 0.84
+  },
+  {
+   "text": "No",
+   "conf": 0.84
+  },
+  {
+   "text": "GST",
+   "conf": 0.95
+  },
+  {
+   "text": "TA",
+   "conf": 0.95
+  },
+  {
+   "text": "AMT",
+   "conf": 0.94
+  },
+  {
+   "text": "RM7.00",
+   "conf": 0.81
+  },
+  {
+   "text": "GST",
+   "conf": 0.95
+  },
+  {
+   "text": "6%",
+   "conf": 0.94
+  },
+  {
+   "text": "RMO.",
+   "conf": 0.87
+  },
+  {
+   "text": "42",
+   "conf": 0.96
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.95
+  },
+  {
+   "text": "RM.",
+   "conf": 0.0
+  },
+  {
+   "text": "42",
+   "conf": 0.0
+  },
+  {
+   "text": "ROUNDING",
+   "conf": 0.93
+  },
+  {
+   "text": "-0.02",
+   "conf": 0.9
+  },
+  {
+   "text": "CASH",
+   "conf": 0.95
+  },
+  {
+   "text": "RM7.",
+   "conf": 0.91
+  },
+  {
+   "text": "40",
+   "conf": 0.96
+  },
+  {
+   "text": "TAX",
+   "conf": 0.95
+  },
+  {
+   "text": "INVOICE",
+   "conf": 0.95
+  },
+  {
+   "text": "OF",
+   "conf": 0.95
+  },
+  {
+   "text": "GSI",
+   "conf": 0.93
+  },
+  {
+   "text": "GOODS",
+   "conf": 0.91
+  },
+  {
+   "text": "SOLD",
+   "conf": 0.96
+  },
+  {
+   "text": "ARE",
+   "conf": 0.95
+  },
+  {
+   "text": "NOT",
+   "conf": 0.95
+  },
+  {
+   "text": "RETURNABLE",
+   "conf": 0.94
+  }
+ ],
+ "mean_conf": 0.8632,
+ "low_conf_share": 0.0563,
+ "latency_ms": 1378,
+ "fields": {
+  "company": "WESTERN EASTERN STATIONERY SON BHD",
+  "date": "2018-02-26",
+  "total": 7.0
+ },
+ "rule_reasons": [
+  "total_no_keyword_fallback_max"
+ ],
+ "total_candidates": [
+  7.0,
+  -0.02
+ ],
+ "key": "X51005684949"
+}

@@ -1,0 +1,169 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "B &BEST RESTAURANT",
+  "(001610235-P)",
+  "GS1N0.:001800839168",
+  "NO.12,JAAN SS4C/5,PEIALING JAYA",
+  "SE_ANGOR DARUL EHSAN",
+  "1L.:012-2060 778",
+  "*TAX INVOICE**",
+  "BILLN0:00133885/P0S01",
+  "BIZDATE:19/04/2017",
+  "CASHIER:Manager",
+  "PRINIED:19/04/2017 12:44:57PM RM",
+  "2 FISHBALLNOODLE@7.0O 14.00",
+  "2 SUB TOTAL 14.00",
+  "GST6% 0.84",
+  "ROUNDING ADJ 0.01",
+  "NET TOTAL 14.85",
+  "Cash 4.85",
+  "CHANGE 0.00",
+  "ThankYcu...Please ain..",
+  "https://n.facebook.com/B-Best-Restaurant",
+  "Alilem WillBe ChargesGST"
+ ],
+ "tokens": [
+  {
+   "text": "B &BEST RESTAURANT",
+   "conf": 0.9328357246186998
+  },
+  {
+   "text": "(001610235-P)",
+   "conf": 0.9683953110988324
+  },
+  {
+   "text": "GS1N0.:001800839168",
+   "conf": 0.9753062442729348
+  },
+  {
+   "text": "NO.12,JAAN SS4C/5,PEIALING JAYA",
+   "conf": 0.9095091012216383
+  },
+  {
+   "text": "SE_ANGOR DARUL EHSAN",
+   "conf": 0.9349229514598847
+  },
+  {
+   "text": "1L.:012-2060 778",
+   "conf": 0.8678728528320789
+  },
+  {
+   "text": "*TAX INVOICE**",
+   "conf": 0.9356633297034672
+  },
+  {
+   "text": "BILLN0:00133885/P0S01",
+   "conf": 0.9556159519013905
+  },
+  {
+   "text": "BIZDATE:19/04/2017",
+   "conf": 0.9879395796193017
+  },
+  {
+   "text": "CASHIER:Manager",
+   "conf": 0.9873148282368978
+  },
+  {
+   "text": "PRINIED:19/04/2017 12:44:57PM",
+   "conf": 0.9691039447126717
+  },
+  {
+   "text": "RM",
+   "conf": 0.9900389909744263
+  },
+  {
+   "text": "2",
+   "conf": 0.9991889595985413
+  },
+  {
+   "text": "FISHBALLNOODLE@7.0O",
+   "conf": 0.92898396441811
+  },
+  {
+   "text": "14.00",
+   "conf": 0.9979906439781189
+  },
+  {
+   "text": "2",
+   "conf": 0.9993390440940857
+  },
+  {
+   "text": "SUB TOTAL",
+   "conf": 0.9688109027014838
+  },
+  {
+   "text": "14.00",
+   "conf": 0.9972085595130921
+  },
+  {
+   "text": "GST6%",
+   "conf": 0.9987205386161804
+  },
+  {
+   "text": "0.84",
+   "conf": 0.9975280314683914
+  },
+  {
+   "text": "ROUNDING ADJ",
+   "conf": 0.9546863039334615
+  },
+  {
+   "text": "0.01",
+   "conf": 0.9968143999576569
+  },
+  {
+   "text": "14.85",
+   "conf": 0.9894974112510682
+  },
+  {
+   "text": "NET TOTAL",
+   "conf": 0.9378269248538547
+  },
+  {
+   "text": "Cash",
+   "conf": 0.9904887825250626
+  },
+  {
+   "text": "4.85",
+   "conf": 0.9959121197462082
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9986918419599533
+  },
+  {
+   "text": "CHANGE",
+   "conf": 0.98934006690979
+  },
+  {
+   "text": "ThankYcu...Please",
+   "conf": 0.8955982748199912
+  },
+  {
+   "text": "ain..",
+   "conf": 0.9310630202293396
+  },
+  {
+   "text": "https://n.facebook.com/B-Best-Restaurant",
+   "conf": 0.9628821015357971
+  },
+  {
+   "text": "Alilem WillBe ChargesGST",
+   "conf": 0.9006476501623789
+  }
+ ],
+ "mean_conf": 0.9639,
+ "low_conf_share": 0.0,
+ "latency_ms": 3606,
+ "fields": {
+  "company": "B BEST RESTAURANT",
+  "date": "2017-04-19",
+  "total": 14.85
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  14.85
+ ],
+ "key": "X51006401977"
+}

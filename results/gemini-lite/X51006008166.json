@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.1-flash-lite",
+ "provider": "gemini",
+ "raw_text": "{\n  \"vendor\": \"FLORISM DE ART\",\n  \"date\": \"2018-01-14\",\n  \"subtotal\": 707.55,\n  \"tax\": 42.45,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 750.00,\n  \"currency\": \"MYR\",\n  \"confidence\": 1.0,\n  \"notes\": null\n}",
+ "data": {
+  "vendor": "FLORISM DE ART",
+  "date": "2018-01-14",
+  "subtotal": 707.55,
+  "tax": 42.45,
+  "tip": null,
+  "discount": null,
+  "total": 750.0,
+  "currency": "MYR",
+  "confidence": 1.0,
+  "notes": null
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1447,
+  "output_tokens": 110,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.000527,
+ "latency_ms": 3127,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.1-flash-lite",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.1-flash-lite"
+ ],
+ "key": "X51006008166"
+}

@@ -1,0 +1,307 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "Poy",
+  "sles, ¢",
+  ") i ei",
+  "Ye 4 OS ipary —_ |",
+  ": ~* MAigg 8° PM",
+  "st",
+  "Employee: Bikerovaer",
+  "Bim |",
+  "ne Pait “ $3.007 |",
+  "oa ‘",
+  "Hout 1 $7.00 |",
+  "A> Subtotal $10.00 |",
+  "oa i |",
+  "| Total .27",
+  "37 > Payments }",
+  "| |",
+  "wh? Cash $11.00",
+  "| New Change $0.73",
+  "= f thanklvout",
+  "i ig A",
+  "a 100 2451"
+ ],
+ "tokens": [
+  {
+   "text": "Poy",
+   "conf": 0.47
+  },
+  {
+   "text": "sles,",
+   "conf": 0.71
+  },
+  {
+   "text": "¢",
+   "conf": 0.49
+  },
+  {
+   "text": ")",
+   "conf": 0.84
+  },
+  {
+   "text": "i",
+   "conf": 0.35
+  },
+  {
+   "text": "ei",
+   "conf": 0.35
+  },
+  {
+   "text": "Ye",
+   "conf": 0.53
+  },
+  {
+   "text": "4",
+   "conf": 0.38
+  },
+  {
+   "text": "OS",
+   "conf": 0.33
+  },
+  {
+   "text": "ipary",
+   "conf": 0.0
+  },
+  {
+   "text": "—_",
+   "conf": 0.48
+  },
+  {
+   "text": "|",
+   "conf": 0.54
+  },
+  {
+   "text": ":",
+   "conf": 0.16
+  },
+  {
+   "text": "~*",
+   "conf": 0.0
+  },
+  {
+   "text": "MAigg",
+   "conf": 0.0
+  },
+  {
+   "text": "8°",
+   "conf": 0.0
+  },
+  {
+   "text": "PM",
+   "conf": 0.67
+  },
+  {
+   "text": "st",
+   "conf": 0.0
+  },
+  {
+   "text": "Employee:",
+   "conf": 0.89
+  },
+  {
+   "text": "Bikerovaer",
+   "conf": 0.34
+  },
+  {
+   "text": "Bim",
+   "conf": 0.43
+  },
+  {
+   "text": "|",
+   "conf": 0.53
+  },
+  {
+   "text": "ne",
+   "conf": 0.5
+  },
+  {
+   "text": "Pait",
+   "conf": 0.27
+  },
+  {
+   "text": "“",
+   "conf": 0.11
+  },
+  {
+   "text": "$3.007",
+   "conf": 0.58
+  },
+  {
+   "text": "|",
+   "conf": 0.91
+  },
+  {
+   "text": "oa",
+   "conf": 0.34
+  },
+  {
+   "text": "‘",
+   "conf": 0.54
+  },
+  {
+   "text": "Hout",
+   "conf": 0.49
+  },
+  {
+   "text": "1",
+   "conf": 0.94
+  },
+  {
+   "text": "$7.00",
+   "conf": 0.5
+  },
+  {
+   "text": "|",
+   "conf": 0.52
+  },
+  {
+   "text": "A>",
+   "conf": 0.14
+  },
+  {
+   "text": "Subtotal",
+   "conf": 0.78
+  },
+  {
+   "text": "$10.00",
+   "conf": 0.56
+  },
+  {
+   "text": "|",
+   "conf": 0.56
+  },
+  {
+   "text": "oa",
+   "conf": 0.45
+  },
+  {
+   "text": "i",
+   "conf": 0.47
+  },
+  {
+   "text": "|",
+   "conf": 0.46
+  },
+  {
+   "text": "|",
+   "conf": 0.94
+  },
+  {
+   "text": "Total",
+   "conf": 0.96
+  },
+  {
+   "text": ".27",
+   "conf": 0.74
+  },
+  {
+   "text": "37",
+   "conf": 0.14
+  },
+  {
+   "text": ">",
+   "conf": 0.86
+  },
+  {
+   "text": "Payments",
+   "conf": 0.96
+  },
+  {
+   "text": "}",
+   "conf": 0.12
+  },
+  {
+   "text": "|",
+   "conf": 0.75
+  },
+  {
+   "text": "|",
+   "conf": 0.57
+  },
+  {
+   "text": "wh?",
+   "conf": 0.55
+  },
+  {
+   "text": "Cash",
+   "conf": 0.96
+  },
+  {
+   "text": "$11.00",
+   "conf": 0.96
+  },
+  {
+   "text": "|",
+   "conf": 0.39
+  },
+  {
+   "text": "New",
+   "conf": 0.0
+  },
+  {
+   "text": "Change",
+   "conf": 0.92
+  },
+  {
+   "text": "$0.73",
+   "conf": 0.5
+  },
+  {
+   "text": "=",
+   "conf": 0.52
+  },
+  {
+   "text": "f",
+   "conf": 0.0
+  },
+  {
+   "text": "thanklvout",
+   "conf": 0.0
+  },
+  {
+   "text": "i",
+   "conf": 0.38
+  },
+  {
+   "text": "ig",
+   "conf": 0.53
+  },
+  {
+   "text": "A",
+   "conf": 0.39
+  },
+  {
+   "text": "a",
+   "conf": 0.43
+  },
+  {
+   "text": "100",
+   "conf": 0.49
+  },
+  {
+   "text": "2451",
+   "conf": 0.92
+  }
+ ],
+ "mean_conf": 0.486,
+ "low_conf_share": 0.5077,
+ "latency_ms": 612,
+ "fields": {
+  "company": "POY",
+  "date": null,
+  "total": 11.0
+ },
+ "rule_reasons": [
+  "date_not_found",
+  "total_no_keyword_fallback_max"
+ ],
+ "total_candidates": [
+  7.0,
+  10.0,
+  11.0,
+  0.73
+ ],
+ "key": "W0155_2451ec436040"
+}

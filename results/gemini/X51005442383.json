@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.6-flash",
+ "provider": "gemini",
+ "raw_text": "{\"vendor\": \"CARREFOUR RESTAURANT\", \"date\": \"2018-03-20\", \"subtotal\": 13.0, \"tax\": 0.78, \"tip\": null, \"discount\": 0.0, \"total\": 13.8, \"currency\": \"MYR\", \"confidence\": 0.95, \"notes\": \"Tax includes GOV TAX (0.78), rounding adjustment is 0.02. Currency inferred from location (Masai, Johor, Malaysia).\"}",
+ "data": {
+  "vendor": "CARREFOUR RESTAURANT",
+  "date": "2018-03-20",
+  "subtotal": 13.0,
+  "tax": 0.78,
+  "tip": null,
+  "discount": 0.0,
+  "total": 13.8,
+  "currency": "MYR",
+  "confidence": 0.95,
+  "notes": "Tax includes GOV TAX (0.78), rounding adjustment is 0.02. Currency inferred from location (Masai, Johor, Malaysia)."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1461,
+  "output_tokens": 120,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.001546,
+ "latency_ms": 1712,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.6-flash",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.6-flash"
+ ],
+ "key": "X51005442383"
+}

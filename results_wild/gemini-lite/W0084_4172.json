@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.1-flash-lite",
+ "provider": "gemini",
+ "raw_text": "{\n  \"vendor\": \"KEBAB HOUSE\",\n  \"date\": \"2013-03-21\",\n  \"subtotal\": 50.0,\n  \"tax\": null,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 50.0,\n  \"currency\": null,\n  \"confidence\": 0.95,\n  \"notes\": null\n}",
+ "data": {
+  "vendor": "KEBAB HOUSE",
+  "date": "2013-03-21",
+  "subtotal": 50.0,
+  "tax": null,
+  "tip": null,
+  "discount": null,
+  "total": 50.0,
+  "currency": null,
+  "confidence": 0.95,
+  "notes": null
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1433,
+  "output_tokens": 98,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.000505,
+ "latency_ms": 1470,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.1-flash-lite",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.1-flash-lite"
+ ],
+ "key": "W0084_4172"
+}

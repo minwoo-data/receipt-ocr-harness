@@ -1,0 +1,390 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "POPE NOME) iedecr",
+  "Sdn. Bhd. (451564~#)",
+  "Nando’s IO] City Ma",
+  "LG-53 @ 16-55",
+  "LG Floor, IOI City we",
+  "101 Resort City,62502 Sepang Utere",
+  "Tel :03-83280789 Fax:03 383280780",
+  "GST 1D:000087492982",
+  "3 NANDOS2 205 SHAQIR",
+  "Chk 559) . Guests",
+  "1? May 15 15:17:28 TBL20",
+  "Ful IPlatter(R)Side",
+  "1/2-LH",
+  "1/2-LH",
+  "Coles!aw(R)-EC",
+  "Corn(R)KV-EC",
+  "Corn(R)KV-EC",
+  "Med Rice(R)-EC",
+  "ACC Tniurne",
+  "INSTRUCTION",
+  "CIBAI CUSTOMER",
+  "INSTRUCTION",
+  "alnTatod §5.00",
+  "Serv Chrg @10% pe",
+  "GST 6x she",
+  "Total: te",
+  "Rounding Adj e:",
+  "Amt Due 64.15 —",
+  "Delivery",
+  "For Take Away and ‘ith in | ele"
+ ],
+ "tokens": [
+  {
+   "text": "POPE",
+   "conf": 0.0
+  },
+  {
+   "text": "NOME)",
+   "conf": 0.0
+  },
+  {
+   "text": "iedecr",
+   "conf": 0.0
+  },
+  {
+   "text": "Sdn.",
+   "conf": 0.92
+  },
+  {
+   "text": "Bhd.",
+   "conf": 0.92
+  },
+  {
+   "text": "(451564~#)",
+   "conf": 0.0
+  },
+  {
+   "text": "Nando’s",
+   "conf": 0.66
+  },
+  {
+   "text": "IO]",
+   "conf": 0.43
+  },
+  {
+   "text": "City",
+   "conf": 0.96
+  },
+  {
+   "text": "Ma",
+   "conf": 0.55
+  },
+  {
+   "text": "LG-53",
+   "conf": 0.72
+  },
+  {
+   "text": "@",
+   "conf": 0.44
+  },
+  {
+   "text": "16-55",
+   "conf": 0.15
+  },
+  {
+   "text": "LG",
+   "conf": 0.94
+  },
+  {
+   "text": "Floor,",
+   "conf": 0.94
+  },
+  {
+   "text": "IOI",
+   "conf": 0.6
+  },
+  {
+   "text": "City",
+   "conf": 0.96
+  },
+  {
+   "text": "we",
+   "conf": 0.65
+  },
+  {
+   "text": "101",
+   "conf": 0.7
+  },
+  {
+   "text": "Resort",
+   "conf": 0.9
+  },
+  {
+   "text": "City,62502",
+   "conf": 0.44
+  },
+  {
+   "text": "Sepang",
+   "conf": 0.92
+  },
+  {
+   "text": "Utere",
+   "conf": 0.66
+  },
+  {
+   "text": "Tel",
+   "conf": 0.72
+  },
+  {
+   "text": ":03-83280789",
+   "conf": 0.79
+  },
+  {
+   "text": "Fax:03",
+   "conf": 0.88
+  },
+  {
+   "text": "383280780",
+   "conf": 0.71
+  },
+  {
+   "text": "GST",
+   "conf": 0.75
+  },
+  {
+   "text": "1D:000087492982",
+   "conf": 0.32
+  },
+  {
+   "text": "3",
+   "conf": 0.81
+  },
+  {
+   "text": "NANDOS2",
+   "conf": 0.81
+  },
+  {
+   "text": "205",
+   "conf": 0.85
+  },
+  {
+   "text": "SHAQIR",
+   "conf": 0.87
+  },
+  {
+   "text": "Chk",
+   "conf": 0.96
+  },
+  {
+   "text": "559)",
+   "conf": 0.76
+  },
+  {
+   "text": ".",
+   "conf": 0.08
+  },
+  {
+   "text": "Guests",
+   "conf": 0.42
+  },
+  {
+   "text": "1?",
+   "conf": 0.75
+  },
+  {
+   "text": "May",
+   "conf": 0.94
+  },
+  {
+   "text": "15",
+   "conf": 0.9
+  },
+  {
+   "text": "15:17:28",
+   "conf": 0.9
+  },
+  {
+   "text": "TBL20",
+   "conf": 0.42
+  },
+  {
+   "text": "Ful",
+   "conf": 0.93
+  },
+  {
+   "text": "IPlatter(R)Side",
+   "conf": 0.52
+  },
+  {
+   "text": "1/2-LH",
+   "conf": 0.91
+  },
+  {
+   "text": "1/2-LH",
+   "conf": 0.86
+  },
+  {
+   "text": "Coles!aw(R)-EC",
+   "conf": 0.23
+  },
+  {
+   "text": "Corn(R)KV-EC",
+   "conf": 0.75
+  },
+  {
+   "text": "Corn(R)KV-EC",
+   "conf": 0.9
+  },
+  {
+   "text": "Med",
+   "conf": 0.92
+  },
+  {
+   "text": "Rice(R)-EC",
+   "conf": 0.91
+  },
+  {
+   "text": "ACC",
+   "conf": 0.76
+  },
+  {
+   "text": "Tniurne",
+   "conf": 0.0
+  },
+  {
+   "text": "INSTRUCTION",
+   "conf": 0.96
+  },
+  {
+   "text": "CIBAI",
+   "conf": 0.87
+  },
+  {
+   "text": "CUSTOMER",
+   "conf": 0.96
+  },
+  {
+   "text": "INSTRUCTION",
+   "conf": 0.96
+  },
+  {
+   "text": "alnTatod",
+   "conf": 0.0
+  },
+  {
+   "text": "§5.00",
+   "conf": 0.88
+  },
+  {
+   "text": "Serv",
+   "conf": 0.89
+  },
+  {
+   "text": "Chrg",
+   "conf": 0.52
+  },
+  {
+   "text": "@10%",
+   "conf": 0.3
+  },
+  {
+   "text": "pe",
+   "conf": 0.41
+  },
+  {
+   "text": "GST",
+   "conf": 0.79
+  },
+  {
+   "text": "6x",
+   "conf": 0.43
+  },
+  {
+   "text": "she",
+   "conf": 0.57
+  },
+  {
+   "text": "Total:",
+   "conf": 0.93
+  },
+  {
+   "text": "te",
+   "conf": 0.33
+  },
+  {
+   "text": "Rounding",
+   "conf": 0.96
+  },
+  {
+   "text": "Adj",
+   "conf": 0.95
+  },
+  {
+   "text": "e:",
+   "conf": 0.0
+  },
+  {
+   "text": "Amt",
+   "conf": 0.96
+  },
+  {
+   "text": "Due",
+   "conf": 0.84
+  },
+  {
+   "text": "64.15",
+   "conf": 0.78
+  },
+  {
+   "text": "—",
+   "conf": 0.29
+  },
+  {
+   "text": "Delivery",
+   "conf": 0.24
+  },
+  {
+   "text": "For",
+   "conf": 0.95
+  },
+  {
+   "text": "Take",
+   "conf": 0.95
+  },
+  {
+   "text": "Away",
+   "conf": 0.92
+  },
+  {
+   "text": "and",
+   "conf": 0.92
+  },
+  {
+   "text": "‘ith",
+   "conf": 0.38
+  },
+  {
+   "text": "in",
+   "conf": 0.48
+  },
+  {
+   "text": "|",
+   "conf": 0.37
+  },
+  {
+   "text": "ele",
+   "conf": 0.14
+  }
+ ],
+ "mean_conf": 0.6514,
+ "low_conf_share": 0.3095,
+ "latency_ms": 772,
+ "fields": {
+  "company": "POPE NOME IEDECR SDN BHD",
+  "date": null,
+  "total": 64.15
+ },
+ "rule_reasons": [
+  "date_not_found",
+  "total_no_keyword_fallback_max"
+ ],
+ "total_candidates": [
+  5.0,
+  64.15
+ ],
+ "key": "W0003_a43852905f43"
+}

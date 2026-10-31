@@ -1,0 +1,962 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "MY DIN |",
+  "TRI SHAAS SDN BHD (728515-H)",
+  "MYDIN MART SRI MUDA",
+  "4-20, Jalan Ria 25/62 Taman Sri Muda",
+  "Seksyan 25, 40400 Shah Alam Selangor",
+  "Tel : 03-51217970 Fax ; 03-51218059",
+  "GST ID: 000429166592",
+  "RECEIPT",
+  "ferminal: 195 - 5505P0S011",
+  "frans # : 261172",
+  "fate + 4/02/2017 03:30:27PH",
+  "Tashier ; CHI07691",
+  "HSH - WERNIE",
+  "MYCLIP BINDER CLIP 12S 25MM 12S EA 3)",
+  "901060611145 eee CO umn OC",
+  "MYOLIP BINDER CLIP 15MM 12S Ss",
+  "2301080611213 2 * 12.00 24.00",
+  "MYCLIP BINDER CLIP 15MM 12S FA 8",
+  "2901000811206 10 + 1.00 10.00",
+  "P&RTNER E/LOPE 4.51NX9.51N W4292 EA AS",
+  "955029304655 2 2.20 4.40",
+  "QUALITY LETTER TRAY 17-71S6-HTX 6A Fo",
+  "9558052401196 3. * 14,50 44,70",
+  "‘Ttem Count ; 18 :",
+  "jotal [Base 85.10",
+  "Rounding Adjustment 2Os¥c 6.00",
+  "jotal After Rounding 2357 7] 85.10",
+  "Sash Se 100.10",
+  "CHANGE 15.00",
+  "G31 Rate Amt exci GST(RM) Tax(RH)",
+  "B= 80.27 4,93",
+  "é = 0% 0.60 COMO — —",
+  "* Your Totai Savings 8.00 +",
+  "“jints Missed; 85",
+  "Join cur Meriah Loyalty Programme today!",
+  "FEET TET TE",
+  "6605505001950000261172",
+  "Print fate: 4/02/2017 03:30:29",
+  "ote: Any request for production of full",
+  "tax invoice must be made within 3 months",
+  "Trom the date of purchase. If the request ee",
+  "is not made within the prescribed",
+  "time frame, MYDIN may based on its absolute ca",
+  "discretion reject the request.",
+  "Thank You ard Please Come Again Ses"
+ ],
+ "tokens": [
+  {
+   "text": "MY",
+   "conf": 0.63
+  },
+  {
+   "text": "DIN",
+   "conf": 0.63
+  },
+  {
+   "text": "|",
+   "conf": 0.94
+  },
+  {
+   "text": "TRI",
+   "conf": 0.84
+  },
+  {
+   "text": "SHAAS",
+   "conf": 0.84
+  },
+  {
+   "text": "SDN",
+   "conf": 0.95
+  },
+  {
+   "text": "BHD",
+   "conf": 0.92
+  },
+  {
+   "text": "(728515-H)",
+   "conf": 0.91
+  },
+  {
+   "text": "MYDIN",
+   "conf": 0.55
+  },
+  {
+   "text": "MART",
+   "conf": 0.96
+  },
+  {
+   "text": "SRI",
+   "conf": 0.91
+  },
+  {
+   "text": "MUDA",
+   "conf": 0.91
+  },
+  {
+   "text": "4-20,",
+   "conf": 0.91
+  },
+  {
+   "text": "Jalan",
+   "conf": 0.96
+  },
+  {
+   "text": "Ria",
+   "conf": 0.95
+  },
+  {
+   "text": "25/62",
+   "conf": 0.96
+  },
+  {
+   "text": "Taman",
+   "conf": 0.94
+  },
+  {
+   "text": "Sri",
+   "conf": 0.95
+  },
+  {
+   "text": "Muda",
+   "conf": 0.45
+  },
+  {
+   "text": "Seksyan",
+   "conf": 0.56
+  },
+  {
+   "text": "25,",
+   "conf": 0.96
+  },
+  {
+   "text": "40400",
+   "conf": 0.7
+  },
+  {
+   "text": "Shah",
+   "conf": 0.96
+  },
+  {
+   "text": "Alam",
+   "conf": 0.95
+  },
+  {
+   "text": "Selangor",
+   "conf": 0.96
+  },
+  {
+   "text": "Tel",
+   "conf": 0.83
+  },
+  {
+   "text": ":",
+   "conf": 0.83
+  },
+  {
+   "text": "03-51217970",
+   "conf": 0.82
+  },
+  {
+   "text": "Fax",
+   "conf": 0.92
+  },
+  {
+   "text": ";",
+   "conf": 0.8
+  },
+  {
+   "text": "03-51218059",
+   "conf": 0.92
+  },
+  {
+   "text": "GST",
+   "conf": 0.95
+  },
+  {
+   "text": "ID:",
+   "conf": 0.91
+  },
+  {
+   "text": "000429166592",
+   "conf": 0.92
+  },
+  {
+   "text": "RECEIPT",
+   "conf": 0.96
+  },
+  {
+   "text": "ferminal:",
+   "conf": 0.0
+  },
+  {
+   "text": "195",
+   "conf": 0.92
+  },
+  {
+   "text": "-",
+   "conf": 0.92
+  },
+  {
+   "text": "5505P0S011",
+   "conf": 0.79
+  },
+  {
+   "text": "frans",
+   "conf": 0.42
+  },
+  {
+   "text": "#",
+   "conf": 0.88
+  },
+  {
+   "text": ":",
+   "conf": 0.8
+  },
+  {
+   "text": "261172",
+   "conf": 0.96
+  },
+  {
+   "text": "fate",
+   "conf": 0.4
+  },
+  {
+   "text": "+",
+   "conf": 0.0
+  },
+  {
+   "text": "4/02/2017",
+   "conf": 0.87
+  },
+  {
+   "text": "03:30:27PH",
+   "conf": 0.39
+  },
+  {
+   "text": "Tashier",
+   "conf": 0.0
+  },
+  {
+   "text": ";",
+   "conf": 0.88
+  },
+  {
+   "text": "CHI07691",
+   "conf": 0.34
+  },
+  {
+   "text": "HSH",
+   "conf": 0.88
+  },
+  {
+   "text": "-",
+   "conf": 0.86
+  },
+  {
+   "text": "WERNIE",
+   "conf": 0.82
+  },
+  {
+   "text": "MYCLIP",
+   "conf": 0.06
+  },
+  {
+   "text": "BINDER",
+   "conf": 0.95
+  },
+  {
+   "text": "CLIP",
+   "conf": 0.94
+  },
+  {
+   "text": "12S",
+   "conf": 0.9
+  },
+  {
+   "text": "25MM",
+   "conf": 0.71
+  },
+  {
+   "text": "12S",
+   "conf": 0.71
+  },
+  {
+   "text": "EA",
+   "conf": 0.84
+  },
+  {
+   "text": "3)",
+   "conf": 0.71
+  },
+  {
+   "text": "901060611145",
+   "conf": 0.68
+  },
+  {
+   "text": "eee",
+   "conf": 0.2
+  },
+  {
+   "text": "CO",
+   "conf": 0.32
+  },
+  {
+   "text": "umn",
+   "conf": 0.14
+  },
+  {
+   "text": "OC",
+   "conf": 0.64
+  },
+  {
+   "text": "MYOLIP",
+   "conf": 0.3
+  },
+  {
+   "text": "BINDER",
+   "conf": 0.96
+  },
+  {
+   "text": "CLIP",
+   "conf": 0.95
+  },
+  {
+   "text": "15MM",
+   "conf": 0.9
+  },
+  {
+   "text": "12S",
+   "conf": 0.75
+  },
+  {
+   "text": "Ss",
+   "conf": 0.36
+  },
+  {
+   "text": "2301080611213",
+   "conf": 0.47
+  },
+  {
+   "text": "2",
+   "conf": 0.7
+  },
+  {
+   "text": "*",
+   "conf": 0.7
+  },
+  {
+   "text": "12.00",
+   "conf": 0.87
+  },
+  {
+   "text": "24.00",
+   "conf": 0.5
+  },
+  {
+   "text": "MYCLIP",
+   "conf": 0.33
+  },
+  {
+   "text": "BINDER",
+   "conf": 0.96
+  },
+  {
+   "text": "CLIP",
+   "conf": 0.96
+  },
+  {
+   "text": "15MM",
+   "conf": 0.47
+  },
+  {
+   "text": "12S",
+   "conf": 0.91
+  },
+  {
+   "text": "FA",
+   "conf": 0.91
+  },
+  {
+   "text": "8",
+   "conf": 0.58
+  },
+  {
+   "text": "2901000811206",
+   "conf": 0.45
+  },
+  {
+   "text": "10",
+   "conf": 0.72
+  },
+  {
+   "text": "+",
+   "conf": 0.35
+  },
+  {
+   "text": "1.00",
+   "conf": 0.91
+  },
+  {
+   "text": "10.00",
+   "conf": 0.76
+  },
+  {
+   "text": "P&RTNER",
+   "conf": 0.17
+  },
+  {
+   "text": "E/LOPE",
+   "conf": 0.88
+  },
+  {
+   "text": "4.51NX9.51N",
+   "conf": 0.33
+  },
+  {
+   "text": "W4292",
+   "conf": 0.74
+  },
+  {
+   "text": "EA",
+   "conf": 0.54
+  },
+  {
+   "text": "AS",
+   "conf": 0.17
+  },
+  {
+   "text": "955029304655",
+   "conf": 0.71
+  },
+  {
+   "text": "2",
+   "conf": 0.0
+  },
+  {
+   "text": "2.20",
+   "conf": 0.83
+  },
+  {
+   "text": "4.40",
+   "conf": 0.92
+  },
+  {
+   "text": "QUALITY",
+   "conf": 0.2
+  },
+  {
+   "text": "LETTER",
+   "conf": 0.8
+  },
+  {
+   "text": "TRAY",
+   "conf": 0.92
+  },
+  {
+   "text": "17-71S6-HTX",
+   "conf": 0.63
+  },
+  {
+   "text": "6A",
+   "conf": 0.39
+  },
+  {
+   "text": "Fo",
+   "conf": 0.37
+  },
+  {
+   "text": "9558052401196",
+   "conf": 0.6
+  },
+  {
+   "text": "3.",
+   "conf": 0.63
+  },
+  {
+   "text": "*",
+   "conf": 0.71
+  },
+  {
+   "text": "14,50",
+   "conf": 0.86
+  },
+  {
+   "text": "44,70",
+   "conf": 0.76
+  },
+  {
+   "text": "‘Ttem",
+   "conf": 0.23
+  },
+  {
+   "text": "Count",
+   "conf": 0.95
+  },
+  {
+   "text": ";",
+   "conf": 0.0
+  },
+  {
+   "text": "18",
+   "conf": 0.96
+  },
+  {
+   "text": ":",
+   "conf": 0.05
+  },
+  {
+   "text": "jotal",
+   "conf": 0.14
+  },
+  {
+   "text": "[Base",
+   "conf": 0.21
+  },
+  {
+   "text": "85.10",
+   "conf": 0.73
+  },
+  {
+   "text": "Rounding",
+   "conf": 0.79
+  },
+  {
+   "text": "Adjustment",
+   "conf": 0.81
+  },
+  {
+   "text": "2Os¥c",
+   "conf": 0.21
+  },
+  {
+   "text": "6.00",
+   "conf": 0.73
+  },
+  {
+   "text": "jotal",
+   "conf": 0.16
+  },
+  {
+   "text": "After",
+   "conf": 0.96
+  },
+  {
+   "text": "Rounding",
+   "conf": 0.95
+  },
+  {
+   "text": "2357",
+   "conf": 0.48
+  },
+  {
+   "text": "7]",
+   "conf": 0.55
+  },
+  {
+   "text": "85.10",
+   "conf": 0.75
+  },
+  {
+   "text": "Sash",
+   "conf": 0.55
+  },
+  {
+   "text": "Se",
+   "conf": 0.49
+  },
+  {
+   "text": "100.10",
+   "conf": 0.88
+  },
+  {
+   "text": "CHANGE",
+   "conf": 0.63
+  },
+  {
+   "text": "15.00",
+   "conf": 0.94
+  },
+  {
+   "text": "G31",
+   "conf": 0.46
+  },
+  {
+   "text": "Rate",
+   "conf": 0.95
+  },
+  {
+   "text": "Amt",
+   "conf": 0.95
+  },
+  {
+   "text": "exci",
+   "conf": 0.64
+  },
+  {
+   "text": "GST(RM)",
+   "conf": 0.48
+  },
+  {
+   "text": "Tax(RH)",
+   "conf": 0.48
+  },
+  {
+   "text": "B=",
+   "conf": 0.22
+  },
+  {
+   "text": "80.27",
+   "conf": 0.95
+  },
+  {
+   "text": "4,93",
+   "conf": 0.0
+  },
+  {
+   "text": "é",
+   "conf": 0.67
+  },
+  {
+   "text": "=",
+   "conf": 0.94
+  },
+  {
+   "text": "0%",
+   "conf": 0.51
+  },
+  {
+   "text": "0.60",
+   "conf": 0.75
+  },
+  {
+   "text": "COMO",
+   "conf": 0.4
+  },
+  {
+   "text": "—",
+   "conf": 0.0
+  },
+  {
+   "text": "—",
+   "conf": 0.53
+  },
+  {
+   "text": "*",
+   "conf": 0.91
+  },
+  {
+   "text": "Your",
+   "conf": 0.92
+  },
+  {
+   "text": "Totai",
+   "conf": 0.87
+  },
+  {
+   "text": "Savings",
+   "conf": 0.96
+  },
+  {
+   "text": "8.00",
+   "conf": 0.3
+  },
+  {
+   "text": "+",
+   "conf": 0.52
+  },
+  {
+   "text": "“jints",
+   "conf": 0.38
+  },
+  {
+   "text": "Missed;",
+   "conf": 0.76
+  },
+  {
+   "text": "85",
+   "conf": 0.76
+  },
+  {
+   "text": "Join",
+   "conf": 0.96
+  },
+  {
+   "text": "cur",
+   "conf": 0.92
+  },
+  {
+   "text": "Meriah",
+   "conf": 0.54
+  },
+  {
+   "text": "Loyalty",
+   "conf": 0.96
+  },
+  {
+   "text": "Programme",
+   "conf": 0.78
+  },
+  {
+   "text": "today!",
+   "conf": 0.85
+  },
+  {
+   "text": "FEET",
+   "conf": 0.07
+  },
+  {
+   "text": "TET",
+   "conf": 0.09
+  },
+  {
+   "text": "TE",
+   "conf": 0.19
+  },
+  {
+   "text": "6605505001950000261172",
+   "conf": 0.63
+  },
+  {
+   "text": "Print",
+   "conf": 0.94
+  },
+  {
+   "text": "fate:",
+   "conf": 0.63
+  },
+  {
+   "text": "4/02/2017",
+   "conf": 0.93
+  },
+  {
+   "text": "03:30:29",
+   "conf": 0.04
+  },
+  {
+   "text": "ote:",
+   "conf": 0.58
+  },
+  {
+   "text": "Any",
+   "conf": 0.95
+  },
+  {
+   "text": "request",
+   "conf": 0.95
+  },
+  {
+   "text": "for",
+   "conf": 0.96
+  },
+  {
+   "text": "production",
+   "conf": 0.96
+  },
+  {
+   "text": "of",
+   "conf": 0.96
+  },
+  {
+   "text": "full",
+   "conf": 0.93
+  },
+  {
+   "text": "tax",
+   "conf": 0.96
+  },
+  {
+   "text": "invoice",
+   "conf": 0.94
+  },
+  {
+   "text": "must",
+   "conf": 0.96
+  },
+  {
+   "text": "be",
+   "conf": 0.96
+  },
+  {
+   "text": "made",
+   "conf": 0.96
+  },
+  {
+   "text": "within",
+   "conf": 0.96
+  },
+  {
+   "text": "3",
+   "conf": 0.96
+  },
+  {
+   "text": "months",
+   "conf": 0.96
+  },
+  {
+   "text": "Trom",
+   "conf": 0.8
+  },
+  {
+   "text": "the",
+   "conf": 0.96
+  },
+  {
+   "text": "date",
+   "conf": 0.96
+  },
+  {
+   "text": "of",
+   "conf": 0.92
+  },
+  {
+   "text": "purchase.",
+   "conf": 0.96
+  },
+  {
+   "text": "If",
+   "conf": 0.94
+  },
+  {
+   "text": "the",
+   "conf": 0.96
+  },
+  {
+   "text": "request",
+   "conf": 0.96
+  },
+  {
+   "text": "ee",
+   "conf": 0.2
+  },
+  {
+   "text": "is",
+   "conf": 0.89
+  },
+  {
+   "text": "not",
+   "conf": 0.96
+  },
+  {
+   "text": "made",
+   "conf": 0.94
+  },
+  {
+   "text": "within",
+   "conf": 0.96
+  },
+  {
+   "text": "the",
+   "conf": 0.96
+  },
+  {
+   "text": "prescribed",
+   "conf": 0.96
+  },
+  {
+   "text": "time",
+   "conf": 0.3
+  },
+  {
+   "text": "frame,",
+   "conf": 0.69
+  },
+  {
+   "text": "MYDIN",
+   "conf": 0.52
+  },
+  {
+   "text": "may",
+   "conf": 0.95
+  },
+  {
+   "text": "based",
+   "conf": 0.96
+  },
+  {
+   "text": "on",
+   "conf": 0.96
+  },
+  {
+   "text": "its",
+   "conf": 0.96
+  },
+  {
+   "text": "absolute",
+   "conf": 0.96
+  },
+  {
+   "text": "ca",
+   "conf": 0.16
+  },
+  {
+   "text": "discretion",
+   "conf": 0.95
+  },
+  {
+   "text": "reject",
+   "conf": 0.96
+  },
+  {
+   "text": "the",
+   "conf": 0.96
+  },
+  {
+   "text": "request.",
+   "conf": 0.88
+  },
+  {
+   "text": "Thank",
+   "conf": 0.96
+  },
+  {
+   "text": "You",
+   "conf": 0.96
+  },
+  {
+   "text": "ard",
+   "conf": 0.7
+  },
+  {
+   "text": "Please",
+   "conf": 0.96
+  },
+  {
+   "text": "Come",
+   "conf": 0.87
+  },
+  {
+   "text": "Again",
+   "conf": 0.96
+  },
+  {
+   "text": "Ses",
+   "conf": 0.26
+  }
+ ],
+ "mean_conf": 0.7075,
+ "low_conf_share": 0.2342,
+ "latency_ms": 2958,
+ "fields": {
+  "company": "TRI SHAAS SDN BHD",
+  "date": "2017-02-04",
+  "total": 100.1
+ },
+ "rule_reasons": [
+  "total_no_keyword_fallback_max"
+ ],
+ "total_candidates": [
+  85.1,
+  6.0,
+  85.1,
+  100.1,
+  15.0,
+  80.27,
+  0.6,
+  8.0
+ ],
+ "key": "X51005587267"
+}

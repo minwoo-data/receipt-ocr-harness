@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.1-flash-lite",
+ "provider": "gemini",
+ "raw_text": "{\n  \"vendor\": \"St.George Apartmanház Kft.\",\n  \"date\": \"2017-01-17\",\n  \"subtotal\": 3450,\n  \"tax\": null,\n  \"tip\": 400,\n  \"discount\": null,\n  \"total\": 3850,\n  \"currency\": \"HUF\",\n  \"confidence\": 0.95,\n  \"notes\": null\n}",
+ "data": {
+  "vendor": "St.George Apartmanház Kft.",
+  "date": "2017-01-17",
+  "subtotal": 3450,
+  "tax": null,
+  "tip": 400,
+  "discount": null,
+  "total": 3850,
+  "currency": "HUF",
+  "confidence": 0.95,
+  "notes": null
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1471,
+  "output_tokens": 108,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.00053,
+ "latency_ms": 1280,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.1-flash-lite",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.1-flash-lite"
+ ],
+ "key": "W0040_6ca1076f448a"
+}

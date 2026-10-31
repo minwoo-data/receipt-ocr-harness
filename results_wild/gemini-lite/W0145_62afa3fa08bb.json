@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.1-flash-lite",
+ "provider": "gemini",
+ "raw_text": "{\n  \"vendor\": \"Khyen Chyen\",\n  \"date\": \"2015-04-17\",\n  \"subtotal\": 100.00,\n  \"tax\": 18.07,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 118.07,\n  \"currency\": \"INR\",\n  \"confidence\": 0.98,\n  \"notes\": \"The total is the rounded amount printed as Rs118.07.\"\n}",
+ "data": {
+  "vendor": "Khyen Chyen",
+  "date": "2015-04-17",
+  "subtotal": 100.0,
+  "tax": 18.07,
+  "tip": null,
+  "discount": null,
+  "total": 118.07,
+  "currency": "INR",
+  "confidence": 0.98,
+  "notes": "The total is the rounded amount printed as Rs118.07."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1433,
+  "output_tokens": 126,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.000547,
+ "latency_ms": 2814,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.1-flash-lite",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.1-flash-lite"
+ ],
+ "key": "W0145_62afa3fa08bb"
+}

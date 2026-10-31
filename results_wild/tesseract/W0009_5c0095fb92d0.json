@@ -1,0 +1,483 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "#10295 1321 DELAWARE AVE",
+  "MARION, OH 43302",
+  "740-386-5146",
+  "566 1741 0051 01/24/2014 1:23 PM",
+  "<< BUY 1 GET 1 Sees VALUE 50% OFF >>",
+  "RML STAY MATTE PRIME 102",
+  "60734268275 A 6.99",
+  "RML S/M FOUNDATN LIGHT PORCLN 10Z",
+  "| 60734267573 A 2.74",
+  "| REGULAR PRICE 5.49",
+  "REWARDS SAVINGS 2.75",
+  "RREEEREEREREEREEREERE ENE ER ERASERS ER ERS",
+  "WEXFORD BUBBLE MAILER 10.5X15",
+  "04902270695 A 1.93",
+  "MFG CPN e100",
+  "MFG CPN 1.00",
+  "SUBTOTAL Sols",
+  "SALES TAX A=6.75% 0.79",
+  "TOTAL 10.51",
+  "REWARDS REDEMPTION 5.00",
+  "CASH 10.01",
+  "CHANGE 4.50",
+  "BALANCE REWARDS SAVINGS 2.15",
+  "MFG COUPON SAVINGS 2,00",
+  "THANK YOU FOR SHOPPING AT WALGREENS",
+  "CONGRATULATIONS ON YOUR REWARD! USE",
+  "YOUR CARD FOR ALL OF YOUR PURCHASES."
+ ],
+ "tokens": [
+  {
+   "text": "#10295",
+   "conf": 0.93
+  },
+  {
+   "text": "1321",
+   "conf": 0.93
+  },
+  {
+   "text": "DELAWARE",
+   "conf": 0.96
+  },
+  {
+   "text": "AVE",
+   "conf": 0.94
+  },
+  {
+   "text": "MARION,",
+   "conf": 0.94
+  },
+  {
+   "text": "OH",
+   "conf": 0.77
+  },
+  {
+   "text": "43302",
+   "conf": 0.77
+  },
+  {
+   "text": "740-386-5146",
+   "conf": 0.92
+  },
+  {
+   "text": "566",
+   "conf": 0.94
+  },
+  {
+   "text": "1741",
+   "conf": 0.58
+  },
+  {
+   "text": "0051",
+   "conf": 0.33
+  },
+  {
+   "text": "01/24/2014",
+   "conf": 0.57
+  },
+  {
+   "text": "1:23",
+   "conf": 0.96
+  },
+  {
+   "text": "PM",
+   "conf": 0.96
+  },
+  {
+   "text": "<<",
+   "conf": 0.94
+  },
+  {
+   "text": "BUY",
+   "conf": 0.96
+  },
+  {
+   "text": "1",
+   "conf": 0.93
+  },
+  {
+   "text": "GET",
+   "conf": 0.58
+  },
+  {
+   "text": "1",
+   "conf": 0.58
+  },
+  {
+   "text": "Sees",
+   "conf": 0.08
+  },
+  {
+   "text": "VALUE",
+   "conf": 0.86
+  },
+  {
+   "text": "50%",
+   "conf": 0.86
+  },
+  {
+   "text": "OFF",
+   "conf": 0.95
+  },
+  {
+   "text": ">>",
+   "conf": 0.95
+  },
+  {
+   "text": "RML",
+   "conf": 0.89
+  },
+  {
+   "text": "STAY",
+   "conf": 0.93
+  },
+  {
+   "text": "MATTE",
+   "conf": 0.95
+  },
+  {
+   "text": "PRIME",
+   "conf": 0.95
+  },
+  {
+   "text": "102",
+   "conf": 0.06
+  },
+  {
+   "text": "60734268275",
+   "conf": 0.96
+  },
+  {
+   "text": "A",
+   "conf": 0.95
+  },
+  {
+   "text": "6.99",
+   "conf": 0.8
+  },
+  {
+   "text": "RML",
+   "conf": 0.87
+  },
+  {
+   "text": "S/M",
+   "conf": 0.87
+  },
+  {
+   "text": "FOUNDATN",
+   "conf": 0.88
+  },
+  {
+   "text": "LIGHT",
+   "conf": 0.93
+  },
+  {
+   "text": "PORCLN",
+   "conf": 0.91
+  },
+  {
+   "text": "10Z",
+   "conf": 0.87
+  },
+  {
+   "text": "|",
+   "conf": 0.72
+  },
+  {
+   "text": "60734267573",
+   "conf": 0.9
+  },
+  {
+   "text": "A",
+   "conf": 0.85
+  },
+  {
+   "text": "2.74",
+   "conf": 0.93
+  },
+  {
+   "text": "|",
+   "conf": 0.42
+  },
+  {
+   "text": "REGULAR",
+   "conf": 0.96
+  },
+  {
+   "text": "PRICE",
+   "conf": 0.96
+  },
+  {
+   "text": "5.49",
+   "conf": 0.96
+  },
+  {
+   "text": "REWARDS",
+   "conf": 0.96
+  },
+  {
+   "text": "SAVINGS",
+   "conf": 0.95
+  },
+  {
+   "text": "2.75",
+   "conf": 0.95
+  },
+  {
+   "text": "RREEEREEREREEREEREERE",
+   "conf": 0.0
+  },
+  {
+   "text": "ENE",
+   "conf": 0.0
+  },
+  {
+   "text": "ER",
+   "conf": 0.0
+  },
+  {
+   "text": "ERASERS",
+   "conf": 0.19
+  },
+  {
+   "text": "ER",
+   "conf": 0.0
+  },
+  {
+   "text": "ERS",
+   "conf": 0.0
+  },
+  {
+   "text": "WEXFORD",
+   "conf": 0.96
+  },
+  {
+   "text": "BUBBLE",
+   "conf": 0.96
+  },
+  {
+   "text": "MAILER",
+   "conf": 0.96
+  },
+  {
+   "text": "10.5X15",
+   "conf": 0.56
+  },
+  {
+   "text": "04902270695",
+   "conf": 0.92
+  },
+  {
+   "text": "A",
+   "conf": 0.93
+  },
+  {
+   "text": "1.93",
+   "conf": 0.48
+  },
+  {
+   "text": "MFG",
+   "conf": 0.91
+  },
+  {
+   "text": "CPN",
+   "conf": 0.96
+  },
+  {
+   "text": "e100",
+   "conf": 0.14
+  },
+  {
+   "text": "MFG",
+   "conf": 0.95
+  },
+  {
+   "text": "CPN",
+   "conf": 0.95
+  },
+  {
+   "text": "1.00",
+   "conf": 0.57
+  },
+  {
+   "text": "SUBTOTAL",
+   "conf": 0.96
+  },
+  {
+   "text": "Sols",
+   "conf": 0.34
+  },
+  {
+   "text": "SALES",
+   "conf": 0.96
+  },
+  {
+   "text": "TAX",
+   "conf": 0.93
+  },
+  {
+   "text": "A=6.75%",
+   "conf": 0.85
+  },
+  {
+   "text": "0.79",
+   "conf": 0.96
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.96
+  },
+  {
+   "text": "10.51",
+   "conf": 0.94
+  },
+  {
+   "text": "REWARDS",
+   "conf": 0.96
+  },
+  {
+   "text": "REDEMPTION",
+   "conf": 0.96
+  },
+  {
+   "text": "5.00",
+   "conf": 0.76
+  },
+  {
+   "text": "CASH",
+   "conf": 0.96
+  },
+  {
+   "text": "10.01",
+   "conf": 0.85
+  },
+  {
+   "text": "CHANGE",
+   "conf": 0.96
+  },
+  {
+   "text": "4.50",
+   "conf": 0.89
+  },
+  {
+   "text": "BALANCE",
+   "conf": 0.96
+  },
+  {
+   "text": "REWARDS",
+   "conf": 0.94
+  },
+  {
+   "text": "SAVINGS",
+   "conf": 0.94
+  },
+  {
+   "text": "2.15",
+   "conf": 0.53
+  },
+  {
+   "text": "MFG",
+   "conf": 0.96
+  },
+  {
+   "text": "COUPON",
+   "conf": 0.96
+  },
+  {
+   "text": "SAVINGS",
+   "conf": 0.96
+  },
+  {
+   "text": "2,00",
+   "conf": 0.95
+  },
+  {
+   "text": "THANK",
+   "conf": 0.96
+  },
+  {
+   "text": "YOU",
+   "conf": 0.95
+  },
+  {
+   "text": "FOR",
+   "conf": 0.96
+  },
+  {
+   "text": "SHOPPING",
+   "conf": 0.95
+  },
+  {
+   "text": "AT",
+   "conf": 0.96
+  },
+  {
+   "text": "WALGREENS",
+   "conf": 0.95
+  },
+  {
+   "text": "CONGRATULATIONS",
+   "conf": 0.95
+  },
+  {
+   "text": "ON",
+   "conf": 0.96
+  },
+  {
+   "text": "YOUR",
+   "conf": 0.96
+  },
+  {
+   "text": "REWARD!",
+   "conf": 0.96
+  },
+  {
+   "text": "USE",
+   "conf": 0.95
+  },
+  {
+   "text": "YOUR",
+   "conf": 0.16
+  },
+  {
+   "text": "CARD",
+   "conf": 0.78
+  },
+  {
+   "text": "FOR",
+   "conf": 0.86
+  },
+  {
+   "text": "ALL",
+   "conf": 0.89
+  },
+  {
+   "text": "OF",
+   "conf": 0.92
+  },
+  {
+   "text": "YOUR",
+   "conf": 0.93
+  },
+  {
+   "text": "PURCHASES.",
+   "conf": 0.81
+  }
+ ],
+ "mean_conf": 0.801,
+ "low_conf_share": 0.1284,
+ "latency_ms": 727,
+ "fields": {
+  "company": "RML STAY MATTE PRIME 102",
+  "date": "2014-01-24",
+  "total": 10.51
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  10.51
+ ],
+ "key": "W0009_5c0095fb92d0"
+}

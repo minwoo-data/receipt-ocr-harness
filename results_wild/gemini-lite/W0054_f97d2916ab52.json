@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.1-flash-lite",
+ "provider": "gemini",
+ "raw_text": "{\n  \"vendor\": \"GIOVANNI'S WINE BAR & RISTORANTE\",\n  \"date\": \"2016-06-23\",\n  \"subtotal\": null,\n  \"tax\": null,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 40.84,\n  \"currency\": \"GBP\",\n  \"confidence\": 0.95,\n  \"notes\": \"The receipt lists a service charge of 4.54 which is included in the total.\"\n}",
+ "data": {
+  "vendor": "GIOVANNI'S WINE BAR & RISTORANTE",
+  "date": "2016-06-23",
+  "subtotal": null,
+  "tax": null,
+  "tip": null,
+  "discount": null,
+  "total": 40.84,
+  "currency": "GBP",
+  "confidence": 0.95,
+  "notes": "The receipt lists a service charge of 4.54 which is included in the total."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1469,
+  "output_tokens": 126,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.000556,
+ "latency_ms": 1814,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.1-flash-lite",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.1-flash-lite"
+ ],
+ "key": "W0054_f97d2916ab52"
+}

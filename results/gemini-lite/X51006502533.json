@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.1-flash-lite",
+ "provider": "gemini",
+ "raw_text": "{\n  \"vendor\": \"CITY MILK\",\n  \"date\": \"2018-04-19\",\n  \"subtotal\": 8.96,\n  \"tax\": 0.54,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 9.50,\n  \"currency\": \"MYR\",\n  \"confidence\": 1.0,\n  \"notes\": null\n}",
+ "data": {
+  "vendor": "CITY MILK",
+  "date": "2018-04-19",
+  "subtotal": 8.96,
+  "tax": 0.54,
+  "tip": null,
+  "discount": null,
+  "total": 9.5,
+  "currency": "MYR",
+  "confidence": 1.0,
+  "notes": null
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1447,
+  "output_tokens": 102,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.000515,
+ "latency_ms": 4344,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.1-flash-lite",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.1-flash-lite"
+ ],
+ "key": "X51006502533"
+}

@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.1-flash-lite",
+ "provider": "gemini",
+ "raw_text": "{\n  \"vendor\": \"Dion Realties Sdn Bhd\",\n  \"date\": \"2018-05-30\",\n  \"subtotal\": 4.72,\n  \"tax\": 0.28,\n  \"tip\": 0.0,\n  \"discount\": 0.0,\n  \"total\": 5.0,\n  \"currency\": \"MYR\",\n  \"confidence\": 0.98,\n  \"notes\": \"Subtotal calculated as total minus tax.\"\n}",
+ "data": {
+  "vendor": "Dion Realties Sdn Bhd",
+  "date": "2018-05-30",
+  "subtotal": 4.72,
+  "tax": 0.28,
+  "tip": 0.0,
+  "discount": 0.0,
+  "total": 5.0,
+  "currency": "MYR",
+  "confidence": 0.98,
+  "notes": "Subtotal calculated as total minus tax."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1440,
+  "output_tokens": 120,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.00054,
+ "latency_ms": 2869,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.1-flash-lite",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.1-flash-lite"
+ ],
+ "key": "X51008123446"
+}

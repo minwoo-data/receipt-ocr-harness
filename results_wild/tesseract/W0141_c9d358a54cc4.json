@@ -1,0 +1,241 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "_ ee",
+  "PIK fvenue Hoi around F200\"",
+  "TABLE?22 i",
+  "Pax:2 opshen Adrian i 93007",
+  "POS Titie:posoo7 WEB ee",
+  "Repedseiroonoocss 29/0 aunt 1328",
+  "1 Caesar Sid 95,000",
+  "140,000",
+  "TTEKS TOTAL 290,000",
+  "40% Bill Dise ( 29,000)",
+  "SUBTOTAL 261,000",
+  "— SevICE 265100",
+  "Bail 28,710",
+  "2...",
+  "ee eet ee Rses 49,500",
+  "' aes +315,810"
+ ],
+ "tokens": [
+  {
+   "text": "_",
+   "conf": 0.1
+  },
+  {
+   "text": "ee",
+   "conf": 0.46
+  },
+  {
+   "text": "PIK",
+   "conf": 0.77
+  },
+  {
+   "text": "fvenue",
+   "conf": 0.45
+  },
+  {
+   "text": "Hoi",
+   "conf": 0.28
+  },
+  {
+   "text": "around",
+   "conf": 0.0
+  },
+  {
+   "text": "F200\"",
+   "conf": 0.56
+  },
+  {
+   "text": "TABLE?22",
+   "conf": 0.3
+  },
+  {
+   "text": "i",
+   "conf": 0.38
+  },
+  {
+   "text": "Pax:2",
+   "conf": 0.0
+  },
+  {
+   "text": "opshen",
+   "conf": 0.0
+  },
+  {
+   "text": "Adrian",
+   "conf": 0.92
+  },
+  {
+   "text": "i",
+   "conf": 0.32
+  },
+  {
+   "text": "93007",
+   "conf": 0.27
+  },
+  {
+   "text": "POS",
+   "conf": 0.91
+  },
+  {
+   "text": "Titie:posoo7",
+   "conf": 0.32
+  },
+  {
+   "text": "WEB",
+   "conf": 0.0
+  },
+  {
+   "text": "ee",
+   "conf": 0.0
+  },
+  {
+   "text": "Repedseiroonoocss",
+   "conf": 0.0
+  },
+  {
+   "text": "29/0",
+   "conf": 0.0
+  },
+  {
+   "text": "aunt",
+   "conf": 0.43
+  },
+  {
+   "text": "1328",
+   "conf": 0.33
+  },
+  {
+   "text": "1",
+   "conf": 0.61
+  },
+  {
+   "text": "Caesar",
+   "conf": 0.61
+  },
+  {
+   "text": "Sid",
+   "conf": 0.49
+  },
+  {
+   "text": "95,000",
+   "conf": 0.83
+  },
+  {
+   "text": "140,000",
+   "conf": 0.78
+  },
+  {
+   "text": "TTEKS",
+   "conf": 0.65
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.91
+  },
+  {
+   "text": "290,000",
+   "conf": 0.9
+  },
+  {
+   "text": "40%",
+   "conf": 0.75
+  },
+  {
+   "text": "Bill",
+   "conf": 0.91
+  },
+  {
+   "text": "Dise",
+   "conf": 0.91
+  },
+  {
+   "text": "(",
+   "conf": 0.8
+  },
+  {
+   "text": "29,000)",
+   "conf": 0.92
+  },
+  {
+   "text": "SUBTOTAL",
+   "conf": 0.85
+  },
+  {
+   "text": "261,000",
+   "conf": 0.48
+  },
+  {
+   "text": "—",
+   "conf": 0.0
+  },
+  {
+   "text": "SevICE",
+   "conf": 0.0
+  },
+  {
+   "text": "265100",
+   "conf": 0.47
+  },
+  {
+   "text": "Bail",
+   "conf": 0.12
+  },
+  {
+   "text": "28,710",
+   "conf": 0.64
+  },
+  {
+   "text": "2...",
+   "conf": 0.18
+  },
+  {
+   "text": "ee",
+   "conf": 0.07
+  },
+  {
+   "text": "eet",
+   "conf": 0.15
+  },
+  {
+   "text": "ee",
+   "conf": 0.0
+  },
+  {
+   "text": "Rses",
+   "conf": 0.0
+  },
+  {
+   "text": "49,500",
+   "conf": 0.18
+  },
+  {
+   "text": "'",
+   "conf": 0.0
+  },
+  {
+   "text": "aes",
+   "conf": 0.07
+  },
+  {
+   "text": "+315,810",
+   "conf": 0.38
+  }
+ ],
+ "mean_conf": 0.4012,
+ "low_conf_share": 0.6471,
+ "latency_ms": 298,
+ "fields": {
+  "company": "PIK FVENUE HOI AROUND F200",
+  "date": null,
+  "total": null
+ },
+ "rule_reasons": [
+  "date_not_found",
+  "total_not_found"
+ ],
+ "total_candidates": [],
+ "key": "W0141_c9d358a54cc4"
+}

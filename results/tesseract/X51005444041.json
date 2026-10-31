@@ -1,0 +1,648 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "BENS INDEPENDENT GROCER SDN. BHD",
+  "(913144-A)",
+  "Lot 6, Jalan Batai,",
+  "Plaza Batai, Damansara Heights",
+  ": 50490, Kuala Lumpur",
+  "T: 03-2093 7358 | F: 03-2093 7359",
+  ". (GST REG NO 000243941376)",
+  "Tax Invoice : BATO1201803080169 08/03/18",
+  "Cashier: Sharol N 18:20:41",
+  "Dole Pineapple Pcs",
+  "8809069300708 7,90*3 23.70 Z",
+  "Farmhouse Fresh Milk Twin Pack 2x1L",
+  "9556040440548 19.90*1 19.90 S",
+  "Fresh Cut Hone kfruit Peeled 400g",
+  "1430018201 8.90*3 26.70 2",
+  "Nestle Bliss Yog Drink Strawberry 700g",
+  "9556001030290 5,80*1 5.80 S",
+  "Vitagen Assorted 5x125ml",
+  "9557305000118 4.90*1 4.90 S",
+  "Item 5 Total with GST @ 6% 81.00",
+  "Qtr 9 Rounding 0.00",
+  "Total Saving 0.00 Total 81.00",
+  "Tender",
+  "Pmpc (debit) 0012 App: 578149 81.00",
+  "Change 0,00",
+  "GST Analysis Goods Tax Amount",
+  "S = 6% 28.86 1.74",
+  "Z =0% 50.40 0.00",
+  "BIG.COM.MY",
+  ". FACEBOOK.COM/THEBIGGROUP",
+  "EXCHANGE & REFUIVD MAY BE ALLOWED",
+  "WITHIN 3 DAYS WITH DRIGINAL TAX INVOICE",
+  "THANK YOU, PLEASE COME AGAIN",
+  "VINA",
+  "UUM",
+  "BATO 1201803080169"
+ ],
+ "tokens": [
+  {
+   "text": "BENS",
+   "conf": 0.96
+  },
+  {
+   "text": "INDEPENDENT",
+   "conf": 0.96
+  },
+  {
+   "text": "GROCER",
+   "conf": 0.95
+  },
+  {
+   "text": "SDN.",
+   "conf": 0.79
+  },
+  {
+   "text": "BHD",
+   "conf": 0.96
+  },
+  {
+   "text": "(913144-A)",
+   "conf": 0.91
+  },
+  {
+   "text": "Lot",
+   "conf": 0.96
+  },
+  {
+   "text": "6,",
+   "conf": 0.95
+  },
+  {
+   "text": "Jalan",
+   "conf": 0.93
+  },
+  {
+   "text": "Batai,",
+   "conf": 0.92
+  },
+  {
+   "text": "Plaza",
+   "conf": 0.92
+  },
+  {
+   "text": "Batai,",
+   "conf": 0.92
+  },
+  {
+   "text": "Damansara",
+   "conf": 0.96
+  },
+  {
+   "text": "Heights",
+   "conf": 0.96
+  },
+  {
+   "text": ":",
+   "conf": 0.07
+  },
+  {
+   "text": "50490,",
+   "conf": 0.95
+  },
+  {
+   "text": "Kuala",
+   "conf": 0.95
+  },
+  {
+   "text": "Lumpur",
+   "conf": 0.95
+  },
+  {
+   "text": "T:",
+   "conf": 0.92
+  },
+  {
+   "text": "03-2093",
+   "conf": 0.96
+  },
+  {
+   "text": "7358",
+   "conf": 0.96
+  },
+  {
+   "text": "|",
+   "conf": 0.93
+  },
+  {
+   "text": "F:",
+   "conf": 0.92
+  },
+  {
+   "text": "03-2093",
+   "conf": 0.96
+  },
+  {
+   "text": "7359",
+   "conf": 0.96
+  },
+  {
+   "text": ".",
+   "conf": 0.81
+  },
+  {
+   "text": "(GST",
+   "conf": 0.92
+  },
+  {
+   "text": "REG",
+   "conf": 0.95
+  },
+  {
+   "text": "NO",
+   "conf": 0.95
+  },
+  {
+   "text": "000243941376)",
+   "conf": 0.96
+  },
+  {
+   "text": "Tax",
+   "conf": 0.95
+  },
+  {
+   "text": "Invoice",
+   "conf": 0.83
+  },
+  {
+   "text": ":",
+   "conf": 0.52
+  },
+  {
+   "text": "BATO1201803080169",
+   "conf": 0.84
+  },
+  {
+   "text": "08/03/18",
+   "conf": 0.95
+  },
+  {
+   "text": "Cashier:",
+   "conf": 0.89
+  },
+  {
+   "text": "Sharol",
+   "conf": 0.85
+  },
+  {
+   "text": "N",
+   "conf": 0.85
+  },
+  {
+   "text": "18:20:41",
+   "conf": 0.95
+  },
+  {
+   "text": "Dole",
+   "conf": 0.96
+  },
+  {
+   "text": "Pineapple",
+   "conf": 0.95
+  },
+  {
+   "text": "Pcs",
+   "conf": 0.93
+  },
+  {
+   "text": "8809069300708",
+   "conf": 0.96
+  },
+  {
+   "text": "7,90*3",
+   "conf": 0.56
+  },
+  {
+   "text": "23.70",
+   "conf": 0.68
+  },
+  {
+   "text": "Z",
+   "conf": 0.9
+  },
+  {
+   "text": "Farmhouse",
+   "conf": 0.96
+  },
+  {
+   "text": "Fresh",
+   "conf": 0.96
+  },
+  {
+   "text": "Milk",
+   "conf": 0.96
+  },
+  {
+   "text": "Twin",
+   "conf": 0.96
+  },
+  {
+   "text": "Pack",
+   "conf": 0.93
+  },
+  {
+   "text": "2x1L",
+   "conf": 0.91
+  },
+  {
+   "text": "9556040440548",
+   "conf": 0.95
+  },
+  {
+   "text": "19.90*1",
+   "conf": 0.9
+  },
+  {
+   "text": "19.90",
+   "conf": 0.91
+  },
+  {
+   "text": "S",
+   "conf": 0.86
+  },
+  {
+   "text": "Fresh",
+   "conf": 0.96
+  },
+  {
+   "text": "Cut",
+   "conf": 0.95
+  },
+  {
+   "text": "Hone",
+   "conf": 0.95
+  },
+  {
+   "text": "kfruit",
+   "conf": 0.77
+  },
+  {
+   "text": "Peeled",
+   "conf": 0.94
+  },
+  {
+   "text": "400g",
+   "conf": 0.96
+  },
+  {
+   "text": "1430018201",
+   "conf": 0.96
+  },
+  {
+   "text": "8.90*3",
+   "conf": 0.88
+  },
+  {
+   "text": "26.70",
+   "conf": 0.88
+  },
+  {
+   "text": "2",
+   "conf": 0.57
+  },
+  {
+   "text": "Nestle",
+   "conf": 0.96
+  },
+  {
+   "text": "Bliss",
+   "conf": 0.93
+  },
+  {
+   "text": "Yog",
+   "conf": 0.91
+  },
+  {
+   "text": "Drink",
+   "conf": 0.96
+  },
+  {
+   "text": "Strawberry",
+   "conf": 0.84
+  },
+  {
+   "text": "700g",
+   "conf": 0.96
+  },
+  {
+   "text": "9556001030290",
+   "conf": 0.95
+  },
+  {
+   "text": "5,80*1",
+   "conf": 0.32
+  },
+  {
+   "text": "5.80",
+   "conf": 0.92
+  },
+  {
+   "text": "S",
+   "conf": 0.84
+  },
+  {
+   "text": "Vitagen",
+   "conf": 0.91
+  },
+  {
+   "text": "Assorted",
+   "conf": 0.93
+  },
+  {
+   "text": "5x125ml",
+   "conf": 0.75
+  },
+  {
+   "text": "9557305000118",
+   "conf": 0.96
+  },
+  {
+   "text": "4.90*1",
+   "conf": 0.82
+  },
+  {
+   "text": "4.90",
+   "conf": 0.84
+  },
+  {
+   "text": "S",
+   "conf": 0.69
+  },
+  {
+   "text": "Item",
+   "conf": 0.95
+  },
+  {
+   "text": "5",
+   "conf": 0.95
+  },
+  {
+   "text": "Total",
+   "conf": 0.96
+  },
+  {
+   "text": "with",
+   "conf": 0.96
+  },
+  {
+   "text": "GST",
+   "conf": 0.91
+  },
+  {
+   "text": "@",
+   "conf": 0.91
+  },
+  {
+   "text": "6%",
+   "conf": 0.96
+  },
+  {
+   "text": "81.00",
+   "conf": 0.96
+  },
+  {
+   "text": "Qtr",
+   "conf": 0.73
+  },
+  {
+   "text": "9",
+   "conf": 0.8
+  },
+  {
+   "text": "Rounding",
+   "conf": 0.96
+  },
+  {
+   "text": "0.00",
+   "conf": 0.95
+  },
+  {
+   "text": "Total",
+   "conf": 0.95
+  },
+  {
+   "text": "Saving",
+   "conf": 0.83
+  },
+  {
+   "text": "0.00",
+   "conf": 0.82
+  },
+  {
+   "text": "Total",
+   "conf": 0.96
+  },
+  {
+   "text": "81.00",
+   "conf": 0.96
+  },
+  {
+   "text": "Tender",
+   "conf": 0.95
+  },
+  {
+   "text": "Pmpc",
+   "conf": 0.83
+  },
+  {
+   "text": "(debit)",
+   "conf": 0.96
+  },
+  {
+   "text": "0012",
+   "conf": 0.88
+  },
+  {
+   "text": "App:",
+   "conf": 0.96
+  },
+  {
+   "text": "578149",
+   "conf": 0.96
+  },
+  {
+   "text": "81.00",
+   "conf": 0.95
+  },
+  {
+   "text": "Change",
+   "conf": 0.96
+  },
+  {
+   "text": "0,00",
+   "conf": 0.94
+  },
+  {
+   "text": "GST",
+   "conf": 0.96
+  },
+  {
+   "text": "Analysis",
+   "conf": 0.96
+  },
+  {
+   "text": "Goods",
+   "conf": 0.86
+  },
+  {
+   "text": "Tax",
+   "conf": 0.86
+  },
+  {
+   "text": "Amount",
+   "conf": 0.96
+  },
+  {
+   "text": "S",
+   "conf": 0.85
+  },
+  {
+   "text": "=",
+   "conf": 0.51
+  },
+  {
+   "text": "6%",
+   "conf": 0.51
+  },
+  {
+   "text": "28.86",
+   "conf": 0.9
+  },
+  {
+   "text": "1.74",
+   "conf": 0.96
+  },
+  {
+   "text": "Z",
+   "conf": 0.34
+  },
+  {
+   "text": "=0%",
+   "conf": 0.34
+  },
+  {
+   "text": "50.40",
+   "conf": 0.94
+  },
+  {
+   "text": "0.00",
+   "conf": 0.96
+  },
+  {
+   "text": "BIG.COM.MY",
+   "conf": 0.6
+  },
+  {
+   "text": ".",
+   "conf": 0.47
+  },
+  {
+   "text": "FACEBOOK.COM/THEBIGGROUP",
+   "conf": 0.79
+  },
+  {
+   "text": "EXCHANGE",
+   "conf": 0.93
+  },
+  {
+   "text": "&",
+   "conf": 0.92
+  },
+  {
+   "text": "REFUIVD",
+   "conf": 0.81
+  },
+  {
+   "text": "MAY",
+   "conf": 0.95
+  },
+  {
+   "text": "BE",
+   "conf": 0.95
+  },
+  {
+   "text": "ALLOWED",
+   "conf": 0.95
+  },
+  {
+   "text": "WITHIN",
+   "conf": 0.95
+  },
+  {
+   "text": "3",
+   "conf": 0.93
+  },
+  {
+   "text": "DAYS",
+   "conf": 0.95
+  },
+  {
+   "text": "WITH",
+   "conf": 0.93
+  },
+  {
+   "text": "DRIGINAL",
+   "conf": 0.81
+  },
+  {
+   "text": "TAX",
+   "conf": 0.94
+  },
+  {
+   "text": "INVOICE",
+   "conf": 0.94
+  },
+  {
+   "text": "THANK",
+   "conf": 0.96
+  },
+  {
+   "text": "YOU,",
+   "conf": 0.96
+  },
+  {
+   "text": "PLEASE",
+   "conf": 0.96
+  },
+  {
+   "text": "COME",
+   "conf": 0.95
+  },
+  {
+   "text": "AGAIN",
+   "conf": 0.95
+  },
+  {
+   "text": "VINA",
+   "conf": 0.0
+  },
+  {
+   "text": "UUM",
+   "conf": 0.22
+  },
+  {
+   "text": "BATO",
+   "conf": 0.0
+  },
+  {
+   "text": "1201803080169",
+   "conf": 0.0
+  }
+ ],
+ "mean_conf": 0.858,
+ "low_conf_share": 0.0608,
+ "latency_ms": 1543,
+ "fields": {
+  "company": "BENS INDEPENDENT GROCER SDN BHD",
+  "date": "2018-03-08",
+  "total": 81.0
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  81.0
+ ],
+ "key": "X51005444041"
+}

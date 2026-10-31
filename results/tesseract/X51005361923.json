@@ -1,0 +1,515 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "PR eee ee",
+  ". ‘ >-v “we *'s >t ™e ov B",
+  "| i , |",
+  "SWC ENTERPRISE SDN BAD :",
+  "( P25830-¥)",
+  "@% 10, Jalan [jok Permai dy",
+  "Pusat Niaga Ijok Parmai,",
+  "48000 Ijok, Selanger.",
+  "TAS (MALE",
+  "(GST ID Ne, : 002017808384 )",
+  "92/01/2018 Cashier: [23",
+  "i0s46:55 Nor 01000362462",
+  "Ttem/Desc. Qty Frice Amt.",
+  "SKE 5006 (1¥60) |",
+  "SKB S008 1 4.20 4.20 =|",
+  "Total Gty i",
+  "POTAL AMGUNT 4.20",
+  "CASH 5020",
+  "CHANGE 46.90 |",
+  "GST @é%6 Included In Tatat D. 24",
+  "Thank You ! Please Come Again !",
+  "Goods Sold Only Exchangable 7 =e ae |",
+  "Within 3 Bays ! ;",
+  "| |",
+  "|",
+  "i |",
+  "| |",
+  "| |",
+  "| |",
+  "i",
+  ":"
+ ],
+ "tokens": [
+  {
+   "text": "PR",
+   "conf": 0.15
+  },
+  {
+   "text": "eee",
+   "conf": 0.18
+  },
+  {
+   "text": "ee",
+   "conf": 0.22
+  },
+  {
+   "text": ".",
+   "conf": 0.0
+  },
+  {
+   "text": "‘",
+   "conf": 0.0
+  },
+  {
+   "text": ">-v",
+   "conf": 0.56
+  },
+  {
+   "text": "“we",
+   "conf": 0.59
+  },
+  {
+   "text": "*'s",
+   "conf": 0.36
+  },
+  {
+   "text": ">t",
+   "conf": 0.49
+  },
+  {
+   "text": "™e",
+   "conf": 0.45
+  },
+  {
+   "text": "ov",
+   "conf": 0.49
+  },
+  {
+   "text": "B",
+   "conf": 0.87
+  },
+  {
+   "text": "|",
+   "conf": 0.94
+  },
+  {
+   "text": "i",
+   "conf": 0.65
+  },
+  {
+   "text": ",",
+   "conf": 0.02
+  },
+  {
+   "text": "|",
+   "conf": 0.91
+  },
+  {
+   "text": "SWC",
+   "conf": 0.91
+  },
+  {
+   "text": "ENTERPRISE",
+   "conf": 0.93
+  },
+  {
+   "text": "SDN",
+   "conf": 0.86
+  },
+  {
+   "text": "BAD",
+   "conf": 0.86
+  },
+  {
+   "text": ":",
+   "conf": 0.0
+  },
+  {
+   "text": "(",
+   "conf": 0.67
+  },
+  {
+   "text": "P25830-¥)",
+   "conf": 0.0
+  },
+  {
+   "text": "@%",
+   "conf": 0.21
+  },
+  {
+   "text": "10,",
+   "conf": 0.94
+  },
+  {
+   "text": "Jalan",
+   "conf": 0.86
+  },
+  {
+   "text": "[jok",
+   "conf": 0.01
+  },
+  {
+   "text": "Permai",
+   "conf": 0.38
+  },
+  {
+   "text": "dy",
+   "conf": 0.41
+  },
+  {
+   "text": "Pusat",
+   "conf": 0.93
+  },
+  {
+   "text": "Niaga",
+   "conf": 0.91
+  },
+  {
+   "text": "Ijok",
+   "conf": 0.58
+  },
+  {
+   "text": "Parmai,",
+   "conf": 0.36
+  },
+  {
+   "text": "48000",
+   "conf": 0.88
+  },
+  {
+   "text": "Ijok,",
+   "conf": 0.84
+  },
+  {
+   "text": "Selanger.",
+   "conf": 0.53
+  },
+  {
+   "text": "TAS",
+   "conf": 0.9
+  },
+  {
+   "text": "(MALE",
+   "conf": 0.52
+  },
+  {
+   "text": "(GST",
+   "conf": 0.85
+  },
+  {
+   "text": "ID",
+   "conf": 0.88
+  },
+  {
+   "text": "Ne,",
+   "conf": 0.83
+  },
+  {
+   "text": ":",
+   "conf": 0.87
+  },
+  {
+   "text": "002017808384",
+   "conf": 0.57
+  },
+  {
+   "text": ")",
+   "conf": 0.42
+  },
+  {
+   "text": "92/01/2018",
+   "conf": 0.55
+  },
+  {
+   "text": "Cashier:",
+   "conf": 0.91
+  },
+  {
+   "text": "[23",
+   "conf": 0.64
+  },
+  {
+   "text": "i0s46:55",
+   "conf": 0.0
+  },
+  {
+   "text": "Nor",
+   "conf": 0.63
+  },
+  {
+   "text": "01000362462",
+   "conf": 0.69
+  },
+  {
+   "text": "Ttem/Desc.",
+   "conf": 0.55
+  },
+  {
+   "text": "Qty",
+   "conf": 0.43
+  },
+  {
+   "text": "Frice",
+   "conf": 0.8
+  },
+  {
+   "text": "Amt.",
+   "conf": 0.72
+  },
+  {
+   "text": "SKE",
+   "conf": 0.59
+  },
+  {
+   "text": "5006",
+   "conf": 0.86
+  },
+  {
+   "text": "(1¥60)",
+   "conf": 0.14
+  },
+  {
+   "text": "|",
+   "conf": 0.4
+  },
+  {
+   "text": "SKB",
+   "conf": 0.28
+  },
+  {
+   "text": "S008",
+   "conf": 0.53
+  },
+  {
+   "text": "1",
+   "conf": 0.85
+  },
+  {
+   "text": "4.20",
+   "conf": 0.86
+  },
+  {
+   "text": "4.20",
+   "conf": 0.68
+  },
+  {
+   "text": "=|",
+   "conf": 0.33
+  },
+  {
+   "text": "Total",
+   "conf": 0.92
+  },
+  {
+   "text": "Gty",
+   "conf": 0.23
+  },
+  {
+   "text": "i",
+   "conf": 0.96
+  },
+  {
+   "text": "POTAL",
+   "conf": 0.21
+  },
+  {
+   "text": "AMGUNT",
+   "conf": 0.84
+  },
+  {
+   "text": "4.20",
+   "conf": 0.74
+  },
+  {
+   "text": "CASH",
+   "conf": 0.62
+  },
+  {
+   "text": "5020",
+   "conf": 0.54
+  },
+  {
+   "text": "CHANGE",
+   "conf": 0.96
+  },
+  {
+   "text": "46.90",
+   "conf": 0.69
+  },
+  {
+   "text": "|",
+   "conf": 0.9
+  },
+  {
+   "text": "GST",
+   "conf": 0.86
+  },
+  {
+   "text": "@é%6",
+   "conf": 0.02
+  },
+  {
+   "text": "Included",
+   "conf": 0.57
+  },
+  {
+   "text": "In",
+   "conf": 0.9
+  },
+  {
+   "text": "Tatat",
+   "conf": 0.73
+  },
+  {
+   "text": "D.",
+   "conf": 0.18
+  },
+  {
+   "text": "24",
+   "conf": 0.48
+  },
+  {
+   "text": "Thank",
+   "conf": 0.78
+  },
+  {
+   "text": "You",
+   "conf": 0.81
+  },
+  {
+   "text": "!",
+   "conf": 0.64
+  },
+  {
+   "text": "Please",
+   "conf": 0.9
+  },
+  {
+   "text": "Come",
+   "conf": 0.81
+  },
+  {
+   "text": "Again",
+   "conf": 0.92
+  },
+  {
+   "text": "!",
+   "conf": 0.92
+  },
+  {
+   "text": "Goods",
+   "conf": 0.71
+  },
+  {
+   "text": "Sold",
+   "conf": 0.95
+  },
+  {
+   "text": "Only",
+   "conf": 0.93
+  },
+  {
+   "text": "Exchangable",
+   "conf": 0.83
+  },
+  {
+   "text": "7",
+   "conf": 0.43
+  },
+  {
+   "text": "=e",
+   "conf": 0.19
+  },
+  {
+   "text": "ae",
+   "conf": 0.17
+  },
+  {
+   "text": "|",
+   "conf": 0.83
+  },
+  {
+   "text": "Within",
+   "conf": 0.95
+  },
+  {
+   "text": "3",
+   "conf": 0.8
+  },
+  {
+   "text": "Bays",
+   "conf": 0.84
+  },
+  {
+   "text": "!",
+   "conf": 0.9
+  },
+  {
+   "text": ";",
+   "conf": 0.0
+  },
+  {
+   "text": "|",
+   "conf": 0.96
+  },
+  {
+   "text": "|",
+   "conf": 0.72
+  },
+  {
+   "text": "|",
+   "conf": 0.61
+  },
+  {
+   "text": "i",
+   "conf": 0.84
+  },
+  {
+   "text": "|",
+   "conf": 0.6
+  },
+  {
+   "text": "|",
+   "conf": 0.8
+  },
+  {
+   "text": "|",
+   "conf": 0.51
+  },
+  {
+   "text": "|",
+   "conf": 0.88
+  },
+  {
+   "text": "|",
+   "conf": 0.88
+  },
+  {
+   "text": "|",
+   "conf": 0.48
+  },
+  {
+   "text": "|",
+   "conf": 0.87
+  },
+  {
+   "text": "i",
+   "conf": 0.88
+  },
+  {
+   "text": ":",
+   "conf": 0.12
+  }
+ ],
+ "mean_conf": 0.6177,
+ "low_conf_share": 0.3043,
+ "latency_ms": 978,
+ "fields": {
+  "company": "SWC ENTERPRISE SDN BAD",
+  "date": null,
+  "total": 46.9
+ },
+ "rule_reasons": [
+  "date_not_found",
+  "total_no_keyword_fallback_max"
+ ],
+ "total_candidates": [
+  4.2,
+  46.9
+ ],
+ "key": "X51005361923"
+}

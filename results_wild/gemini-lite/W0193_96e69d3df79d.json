@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.1-flash-lite",
+ "provider": "gemini",
+ "raw_text": "{\n  \"vendor\": \"DIONYSUS MANSION\",\n  \"date\": \"2016-07-26\",\n  \"subtotal\": 96.33,\n  \"tax\": 8.67,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 105.00,\n  \"currency\": \"EUR\",\n  \"confidence\": 0.98,\n  \"notes\": null\n}",
+ "data": {
+  "vendor": "DIONYSUS MANSION",
+  "date": "2016-07-26",
+  "subtotal": 96.33,
+  "tax": 8.67,
+  "tip": null,
+  "discount": null,
+  "total": 105.0,
+  "currency": "EUR",
+  "confidence": 0.98,
+  "notes": null
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1473,
+  "output_tokens": 110,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.000533,
+ "latency_ms": 1616,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.1-flash-lite",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.1-flash-lite"
+ ],
+ "key": "W0193_96e69d3df79d"
+}

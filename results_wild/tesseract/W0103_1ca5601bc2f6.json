@@ -1,0 +1,161 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "te 3.00",
+  "eee 2.00",
+  "2 FE tes sas 25.00 25-00",
+  "Fetal amount: 20.00",
+  "Discount bed",
+  "Service Charge : 0.00",
+  "Total Invoice - $0.00",
+  "cessed by :motea alhamedi",
+  "ak You for your visit"
+ ],
+ "tokens": [
+  {
+   "text": "te",
+   "conf": 0.21
+  },
+  {
+   "text": "3.00",
+   "conf": 0.49
+  },
+  {
+   "text": "eee",
+   "conf": 0.37
+  },
+  {
+   "text": "2.00",
+   "conf": 0.22
+  },
+  {
+   "text": "2",
+   "conf": 0.25
+  },
+  {
+   "text": "FE",
+   "conf": 0.21
+  },
+  {
+   "text": "tes",
+   "conf": 0.33
+  },
+  {
+   "text": "sas",
+   "conf": 0.41
+  },
+  {
+   "text": "25.00",
+   "conf": 0.49
+  },
+  {
+   "text": "25-00",
+   "conf": 0.28
+  },
+  {
+   "text": "Fetal",
+   "conf": 0.34
+  },
+  {
+   "text": "amount:",
+   "conf": 0.31
+  },
+  {
+   "text": "20.00",
+   "conf": 0.59
+  },
+  {
+   "text": "Discount",
+   "conf": 0.96
+  },
+  {
+   "text": "bed",
+   "conf": 0.08
+  },
+  {
+   "text": "Service",
+   "conf": 0.96
+  },
+  {
+   "text": "Charge",
+   "conf": 0.92
+  },
+  {
+   "text": ":",
+   "conf": 0.46
+  },
+  {
+   "text": "0.00",
+   "conf": 0.71
+  },
+  {
+   "text": "Total",
+   "conf": 0.51
+  },
+  {
+   "text": "Invoice",
+   "conf": 0.84
+  },
+  {
+   "text": "-",
+   "conf": 0.48
+  },
+  {
+   "text": "$0.00",
+   "conf": 0.76
+  },
+  {
+   "text": "cessed",
+   "conf": 0.84
+  },
+  {
+   "text": "by",
+   "conf": 0.92
+  },
+  {
+   "text": ":motea",
+   "conf": 0.9
+  },
+  {
+   "text": "alhamedi",
+   "conf": 0.91
+  },
+  {
+   "text": "ak",
+   "conf": 0.72
+  },
+  {
+   "text": "You",
+   "conf": 0.96
+  },
+  {
+   "text": "for",
+   "conf": 0.96
+  },
+  {
+   "text": "your",
+   "conf": 0.54
+  },
+  {
+   "text": "visit",
+   "conf": 0.96
+  }
+ ],
+ "mean_conf": 0.5903,
+ "low_conf_share": 0.4688,
+ "latency_ms": 999,
+ "fields": {
+  "company": "FETAL AMOUNT 20 00",
+  "date": null,
+  "total": 0.0
+ },
+ "rule_reasons": [
+  "date_not_found",
+  "total_multiple_keyword_amounts"
+ ],
+ "total_candidates": [
+  20.0,
+  0.0
+ ],
+ "key": "W0103_1ca5601bc2f6"
+}

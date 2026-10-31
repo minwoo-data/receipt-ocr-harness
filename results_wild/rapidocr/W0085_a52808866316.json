@@ -1,0 +1,191 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "Milano",
+  "Restaurant",
+  "NO.24.NEW BAZAR ROAD",
+  "Tel:0522222763 NUMARA ELIYA. Fax:0522222761",
+  "8111No: Date ：28/11/2016 61000000 Unit Operator:ANTON",
+  "Table No:GTB15 Steward:SUDHAKAR",
+  "Praduct Price 10 Amount",
+  "451ESPRESS0 SINGLE M 300.00X 3 900.00",
+  "SUB TOTAL 900.00",
+  "Service Charge 10% 90.00",
+  "SUB TOTAL 990.00",
+  "CASH 990.00 0.00",
+  "BALANCE",
+  "NOOFQTYSOLD:3",
+  "TIME:04:29:26PM",
+  "THANK YOU COME AGAIN",
+  "Systen By oninta IT",
+  "www.onintait.com"
+ ],
+ "tokens": [
+  {
+   "text": "Milano",
+   "conf": 0.9933298428853353
+  },
+  {
+   "text": "Restaurant",
+   "conf": 0.9964804530143738
+  },
+  {
+   "text": "NO.24.NEW BAZAR ROAD",
+   "conf": 0.8875178337097168
+  },
+  {
+   "text": "NUMARA ELIYA.",
+   "conf": 0.8878331917982835
+  },
+  {
+   "text": "Tel:0522222763",
+   "conf": 0.9885884438242231
+  },
+  {
+   "text": "Fax:0522222761",
+   "conf": 0.9364755664552961
+  },
+  {
+   "text": "Date",
+   "conf": 0.9744338840246201
+  },
+  {
+   "text": "：28/11/2016",
+   "conf": 0.9445228712125258
+  },
+  {
+   "text": "Operator:ANTON",
+   "conf": 0.9447864506925855
+  },
+  {
+   "text": "8111No:",
+   "conf": 0.7532493557248797
+  },
+  {
+   "text": "61000000",
+   "conf": 0.9739986211061478
+  },
+  {
+   "text": "Unit",
+   "conf": 0.9715766459703445
+  },
+  {
+   "text": "Table No:GTB15",
+   "conf": 0.9545073338917324
+  },
+  {
+   "text": "Steward:SUDHAKAR",
+   "conf": 0.9135124236345291
+  },
+  {
+   "text": "Praduct",
+   "conf": 0.9140011923653739
+  },
+  {
+   "text": "Price",
+   "conf": 0.9859131455421448
+  },
+  {
+   "text": "10",
+   "conf": 0.6740932017564774
+  },
+  {
+   "text": "Amount",
+   "conf": 0.8963019947210947
+  },
+  {
+   "text": "451ESPRESS0 SINGLE M",
+   "conf": 0.9426473915576935
+  },
+  {
+   "text": "300.00X",
+   "conf": 0.9771156396184649
+  },
+  {
+   "text": "3",
+   "conf": 0.9983745813369751
+  },
+  {
+   "text": "900.00",
+   "conf": 0.9959845244884491
+  },
+  {
+   "text": "SUB TOTAL",
+   "conf": 0.9466409683227539
+  },
+  {
+   "text": "900.00",
+   "conf": 0.9974194467067719
+  },
+  {
+   "text": "Service Charge 10%",
+   "conf": 0.9514475166797638
+  },
+  {
+   "text": "90.00",
+   "conf": 0.994781231880188
+  },
+  {
+   "text": "SUB TOTAL",
+   "conf": 0.9503532118267484
+  },
+  {
+   "text": "990.00",
+   "conf": 0.9122420698404312
+  },
+  {
+   "text": "CASH",
+   "conf": 0.9437970966100693
+  },
+  {
+   "text": "990.00",
+   "conf": 0.9889015654722849
+  },
+  {
+   "text": "BALANCE",
+   "conf": 0.9875345315252032
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9956902861595154
+  },
+  {
+   "text": "NOOFQTYSOLD:3",
+   "conf": 0.9615660263941839
+  },
+  {
+   "text": "TIME:04:29:26PM",
+   "conf": 0.9410332282384236
+  },
+  {
+   "text": "THANK YOU COME AGAIN",
+   "conf": 0.9616693586111069
+  },
+  {
+   "text": "Systen By oninta IT",
+   "conf": 0.9051448577328732
+  },
+  {
+   "text": "www.onintait.com",
+   "conf": 0.9050127938389778
+  }
+ ],
+ "mean_conf": 0.9419,
+ "low_conf_share": 0.0,
+ "latency_ms": 2205,
+ "fields": {
+  "company": "MILANO RESTAURANT",
+  "date": "2016-11-28",
+  "total": 990.0
+ },
+ "rule_reasons": [
+  "total_no_keyword_fallback_max"
+ ],
+ "total_candidates": [
+  90.0,
+  990.0,
+  990.0,
+  0.0
+ ],
+ "key": "W0085_a52808866316"
+}

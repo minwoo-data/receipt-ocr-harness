@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.1-flash-lite",
+ "provider": "gemini",
+ "raw_text": "{\n  \"vendor\": \"BENS INDEPENDENT GROCER SDN. BHD\",\n  \"date\": \"2018-03-08\",\n  \"subtotal\": 79.26,\n  \"tax\": 1.74,\n  \"tip\": 0.0,\n  \"discount\": 0.0,\n  \"total\": 81.0,\n  \"currency\": \"MYR\",\n  \"confidence\": 0.98,\n  \"notes\": null\n}",
+ "data": {
+  "vendor": "BENS INDEPENDENT GROCER SDN. BHD",
+  "date": "2018-03-08",
+  "subtotal": 79.26,
+  "tax": 1.74,
+  "tip": 0.0,
+  "discount": 0.0,
+  "total": 81.0,
+  "currency": "MYR",
+  "confidence": 0.98,
+  "notes": null
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1429,
+  "output_tokens": 119,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.000536,
+ "latency_ms": 1300,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.1-flash-lite",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.1-flash-lite"
+ ],
+ "key": "X51005444041"
+}

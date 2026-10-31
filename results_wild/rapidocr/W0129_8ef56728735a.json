@@ -1,0 +1,183 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "GANESH",
+  "FINE INDIAN CUISINE",
+  "CNHOIANCONGTYTNHHGANESH",
+  "24Tran Hung DaoSt.Hai An Old Town",
+  "Tel:05103864538",
+  "ww.ganesh.vn",
+  "ganeshvietnam@gmall.com",
+  "Table4A 8:42PM",
+  "BD33",
+  "Date:14/9/15",
+  "Q.ty Price Total",
+  "1 Saigon 22.000 22,000",
+  "1 Garic Naan 39,000 00060",
+  "Vietnammese S 12,000 12.000",
+  "Rice",
+  "Chicken Korma 105,000 105.000",
+  "ChickenT.Masala 99.000 99.000",
+  "Piain Naan 32,000 32,000",
+  "TOTAL: 309,000"
+ ],
+ "tokens": [
+  {
+   "text": "GANESH",
+   "conf": 0.9946296314398447
+  },
+  {
+   "text": "FINE INDIAN CUISINE",
+   "conf": 0.9443046168277138
+  },
+  {
+   "text": "CNHOIANCONGTYTNHHGANESH",
+   "conf": 0.989767937556557
+  },
+  {
+   "text": "24Tran Hung DaoSt.Hai An Old Town",
+   "conf": 0.8840957934206183
+  },
+  {
+   "text": "Tel:05103864538",
+   "conf": 0.9468079586823781
+  },
+  {
+   "text": "ww.ganesh.vn",
+   "conf": 0.9491816163063049
+  },
+  {
+   "text": "ganeshvietnam@gmall.com",
+   "conf": 0.9732750576475392
+  },
+  {
+   "text": "Table4A",
+   "conf": 0.9376956650188991
+  },
+  {
+   "text": "8:42PM",
+   "conf": 0.8843914369742075
+  },
+  {
+   "text": "BD33",
+   "conf": 0.9774077981710434
+  },
+  {
+   "text": "Date:14/9/15",
+   "conf": 0.9332118754585584
+  },
+  {
+   "text": "Q.ty",
+   "conf": 0.9692699313163757
+  },
+  {
+   "text": "Price",
+   "conf": 0.9827611207962036
+  },
+  {
+   "text": "Total",
+   "conf": 0.9837754845619202
+  },
+  {
+   "text": "1",
+   "conf": 0.994461178779602
+  },
+  {
+   "text": "Saigon",
+   "conf": 0.920653373003006
+  },
+  {
+   "text": "22.000",
+   "conf": 0.916478713353475
+  },
+  {
+   "text": "22,000",
+   "conf": 0.9231972098350525
+  },
+  {
+   "text": "1",
+   "conf": 0.9965304732322693
+  },
+  {
+   "text": "Garic Naan",
+   "conf": 0.9299793064594268
+  },
+  {
+   "text": "39,000",
+   "conf": 0.9793935120105743
+  },
+  {
+   "text": "00060",
+   "conf": 0.8104743003845215
+  },
+  {
+   "text": "Vietnammese S",
+   "conf": 0.9523590619747455
+  },
+  {
+   "text": "12,000",
+   "conf": 0.9690318604310354
+  },
+  {
+   "text": "12.000",
+   "conf": 0.9218610227108002
+  },
+  {
+   "text": "Rice",
+   "conf": 0.986709251999855
+  },
+  {
+   "text": "Chicken Korma",
+   "conf": 0.93293297290802
+  },
+  {
+   "text": "105,000",
+   "conf": 0.956374032156808
+  },
+  {
+   "text": "105.000",
+   "conf": 0.9220227003097534
+  },
+  {
+   "text": "ChickenT.Masala 99.000",
+   "conf": 0.9005778215148232
+  },
+  {
+   "text": "99.000",
+   "conf": 0.9068382183710734
+  },
+  {
+   "text": "Piain Naan",
+   "conf": 0.8974763035774231
+  },
+  {
+   "text": "32,000",
+   "conf": 0.9285774230957031
+  },
+  {
+   "text": "32,000",
+   "conf": 0.9195896983146667
+  },
+  {
+   "text": "TOTAL:",
+   "conf": 0.9819769759972891
+  },
+  {
+   "text": "309,000",
+   "conf": 0.9844902413231986
+  }
+ ],
+ "mean_conf": 0.944,
+ "low_conf_share": 0.0,
+ "latency_ms": 3639,
+ "fields": {
+  "company": "GANESH",
+  "date": "2015-09-14",
+  "total": null
+ },
+ "rule_reasons": [
+  "total_not_found"
+ ],
+ "total_candidates": [],
+ "key": "W0129_8ef56728735a"
+}

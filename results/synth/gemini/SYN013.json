@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.6-flash",
+ "provider": "gemini",
+ "raw_text": "{\"vendor\": \"MAPLE & OAK BOOKSTORE\", \"date\": \"2026-10-27\", \"subtotal\": 48.4, \"tax\": 2.9, \"tip\": null, \"discount\": null, \"total\": 151.3, \"currency\": \"MYR\", \"confidence\": 0.9, \"notes\": \"Line items sum to 48.40, subtotal is 48.40, tax 6% is 2.90, but total is printed as 151.30.\"}",
+ "data": {
+  "vendor": "MAPLE & OAK BOOKSTORE",
+  "date": "2026-10-27",
+  "subtotal": 48.4,
+  "tax": 2.9,
+  "tip": null,
+  "discount": null,
+  "total": 151.3,
+  "currency": "MYR",
+  "confidence": 0.9,
+  "notes": "Line items sum to 48.40, subtotal is 48.40, tax 6% is 2.90, but total is printed as 151.30."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1458,
+  "output_tokens": 130,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.001581,
+ "latency_ms": 2456,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.6-flash",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.6-flash"
+ ],
+ "key": "SYN013"
+}

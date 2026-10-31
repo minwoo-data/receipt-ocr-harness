@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.6-flash",
+ "provider": "gemini",
+ "raw_text": "{\"vendor\": \"GARDENIA BAKERIES (KL) SDN BHD\", \"date\": \"2017-07-30\", \"subtotal\": 21.28, \"tax\": -1.07, \"tip\": null, \"discount\": null, \"total\": 20.21, \"currency\": \"MYR\", \"confidence\": 0.95, \"notes\": \"Tax invoice and adjustment note containing returns (adjustments for GST).\"}",
+ "data": {
+  "vendor": "GARDENIA BAKERIES (KL) SDN BHD",
+  "date": "2017-07-30",
+  "subtotal": 21.28,
+  "tax": -1.07,
+  "tip": null,
+  "discount": null,
+  "total": 20.21,
+  "currency": "MYR",
+  "confidence": 0.95,
+  "notes": "Tax invoice and adjustment note containing returns (adjustments for GST)."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1473,
+  "output_tokens": 107,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.001506,
+ "latency_ms": 1814,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.6-flash",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.6-flash"
+ ],
+ "key": "X51006555806"
+}

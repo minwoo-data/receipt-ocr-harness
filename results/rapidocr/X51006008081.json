@@ -1,0 +1,293 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "PRINT EXPERT SDN BHD",
+  "989625-A",
+  "NO 18,20,22,JALAN BUNGATANJONG2/16",
+  "4000OSHAHALAM,SELANGOR",
+  "TEL:03-55250588",
+  "FAX:03-55107309",
+  "GSTID:000886677504",
+  "Doc No. SO00050251 DEPT",
+  "Cashier: USER D 19/03/2018",
+  "Salesperson: SYAHIDAH Tinnie 125200",
+  "Description Qty Price Amount",
+  "BANNER 8X4FEET 1 28.58 28.58",
+  "DESIGN BANNER 1 3180 31.80",
+  "BUSINESS SPOT UV 1 15900 159.00",
+  "DIE-CUT TRANSPARENT PFIO 11.98 11978",
+  "DESIGNSIICKER 1 31.80 3180",
+  "TSHIRTPRINTING 5 11.13 55.65",
+  "DEP（SIT(CS00530344) 1 -200.00 -200.00",
+  "Total Qty: 20",
+  "Total Sales (Excluding GST) : 213.78",
+  "Discount : 0 00",
+  "Total GST : 12.83",
+  "Rounding 0.01",
+  "Total Sales (Inclusive of GsT) 226.60",
+  "THANKYOU.HAVEA NICE DAYI"
+ ],
+ "tokens": [
+  {
+   "text": "PRINT EXPERT SDN BHD",
+   "conf": 0.9680670022964477
+  },
+  {
+   "text": "989625-A",
+   "conf": 0.9914375469088554
+  },
+  {
+   "text": "NO 18,20,22,JALAN BUNGATANJONG2/16",
+   "conf": 0.94115691149936
+  },
+  {
+   "text": "4000OSHAHALAM,SELANGOR",
+   "conf": 0.9268628006631677
+  },
+  {
+   "text": "TEL:03-55250588",
+   "conf": 0.9804572343826294
+  },
+  {
+   "text": "FAX:03-55107309",
+   "conf": 0.9840964674949646
+  },
+  {
+   "text": "GSTID:000886677504",
+   "conf": 0.9847046401765611
+  },
+  {
+   "text": "Doc No.",
+   "conf": 0.9546924744333539
+  },
+  {
+   "text": "SO00050251",
+   "conf": 0.9949934899806976
+  },
+  {
+   "text": "DEPT",
+   "conf": 0.9855032116174698
+  },
+  {
+   "text": "Cashier:",
+   "conf": 0.9974895492196083
+  },
+  {
+   "text": "USER",
+   "conf": 0.9803720414638519
+  },
+  {
+   "text": "D",
+   "conf": 0.9112734794616699
+  },
+  {
+   "text": "19/03/2018",
+   "conf": 0.9958583116531372
+  },
+  {
+   "text": "Salesperson:",
+   "conf": 0.9894043952226639
+  },
+  {
+   "text": "SYAHIDAH",
+   "conf": 0.9783425033092499
+  },
+  {
+   "text": "Tinnie",
+   "conf": 0.6789612819751104
+  },
+  {
+   "text": "125200",
+   "conf": 0.9981728295485178
+  },
+  {
+   "text": "Description",
+   "conf": 0.9527424628084357
+  },
+  {
+   "text": "Qty",
+   "conf": 0.9777846932411194
+  },
+  {
+   "text": "Price",
+   "conf": 0.9604670405387878
+  },
+  {
+   "text": "Amount",
+   "conf": 0.9872684280077616
+  },
+  {
+   "text": "BANNER 8X4FEET",
+   "conf": 0.9444796187537057
+  },
+  {
+   "text": "1",
+   "conf": 0.98875892162323
+  },
+  {
+   "text": "28.58",
+   "conf": 0.9985590577125549
+  },
+  {
+   "text": "28.58",
+   "conf": 0.997862982749939
+  },
+  {
+   "text": "DESIGN BANNER",
+   "conf": 0.9834342048718379
+  },
+  {
+   "text": "1",
+   "conf": 0.988869309425354
+  },
+  {
+   "text": "3180",
+   "conf": 0.997149869799614
+  },
+  {
+   "text": "31.80",
+   "conf": 0.9972164988517761
+  },
+  {
+   "text": "BUSINESS SPOT UV",
+   "conf": 0.9490045011043549
+  },
+  {
+   "text": "1",
+   "conf": 0.9911816120147705
+  },
+  {
+   "text": "15900",
+   "conf": 0.9977195262908936
+  },
+  {
+   "text": "159.00",
+   "conf": 0.9679979880650839
+  },
+  {
+   "text": "DIE-CUT TRANSPARENT PFIO",
+   "conf": 0.9034633636474609
+  },
+  {
+   "text": "11.98",
+   "conf": 0.9988486528396606
+  },
+  {
+   "text": "11978",
+   "conf": 0.9989197134971619
+  },
+  {
+   "text": "DESIGNSIICKER",
+   "conf": 0.9248323027904217
+  },
+  {
+   "text": "1",
+   "conf": 0.9962270259857178
+  },
+  {
+   "text": "31.80",
+   "conf": 0.9973432898521424
+  },
+  {
+   "text": "3180",
+   "conf": 0.9983739852905273
+  },
+  {
+   "text": "TSHIRTPRINTING",
+   "conf": 0.9724797691617694
+  },
+  {
+   "text": "5",
+   "conf": 0.9966901540756226
+  },
+  {
+   "text": "11.13",
+   "conf": 0.9979972243309021
+  },
+  {
+   "text": "55.65",
+   "conf": 0.9924543380737305
+  },
+  {
+   "text": "DEP（SIT(CS00530344)",
+   "conf": 0.9064604608636153
+  },
+  {
+   "text": "1",
+   "conf": 0.9909451007843018
+  },
+  {
+   "text": "-200.00",
+   "conf": 0.9743198922702244
+  },
+  {
+   "text": "-200.00",
+   "conf": 0.9878138133457729
+  },
+  {
+   "text": "Total Qty:",
+   "conf": 0.9869099020957947
+  },
+  {
+   "text": "20",
+   "conf": 0.9990924894809723
+  },
+  {
+   "text": "Total Sales (Excluding GST) :",
+   "conf": 0.9587137164740727
+  },
+  {
+   "text": "213.78",
+   "conf": 0.9981987476348877
+  },
+  {
+   "text": "Discount :",
+   "conf": 0.9270044803619385
+  },
+  {
+   "text": "0 00",
+   "conf": 0.7932002171874046
+  },
+  {
+   "text": "Total GST :",
+   "conf": 0.9623799811710011
+  },
+  {
+   "text": "12.83",
+   "conf": 0.9986532688140869
+  },
+  {
+   "text": "Rounding",
+   "conf": 0.9946817830204964
+  },
+  {
+   "text": "0.01",
+   "conf": 0.9849956780672073
+  },
+  {
+   "text": "Total Sales (Inclusive of GsT)",
+   "conf": 0.9670581579208374
+  },
+  {
+   "text": "226.60",
+   "conf": 0.9980896214644114
+  },
+  {
+   "text": "THANKYOU.HAVEA NICE DAYI",
+   "conf": 0.9085613576074442
+  }
+ ],
+ "mean_conf": 0.9683,
+ "low_conf_share": 0.0,
+ "latency_ms": 3262,
+ "fields": {
+  "company": "PRINT EXPERT SDN BHD",
+  "date": "2018-03-19",
+  "total": 226.6
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  226.6
+ ],
+ "key": "X51006008081"
+}

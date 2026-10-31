@@ -1,0 +1,175 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "Atmosphere 360°",
+  "REVOLVING RESTAURANTKL TOWER",
+  "ATMOSPHERE 360",
+  "Asian Kitchen （M)Sdn Bhd （865262-H)",
+  "Menara Kuala Lumpur",
+  "Jalan Puncak",
+  "50250 KualaLumpur",
+  "Federal Territory Of K.L",
+  "TEL:03-20202121",
+  "（GSTReg.No:000896B63552）",
+  "Tax Invoice",
+  "Table s9",
+  "Order#:252856",
+  "Bi11#:V001-240189 Pax(s）:1",
+  "：23-11-201515:34:47",
+  "Cashier:Rostam Tujiman",
+  "Description Qty U.price Total TAX",
+  "Afternoon Tea （Adult)",
+  "1x 57.45 57.45SR",
+  "Total（Excluding GST): 57.45",
+  "GST Payable: 3.45",
+  "Total（Inclusive of GST): 06'09"
+ ],
+ "tokens": [
+  {
+   "text": "360°",
+   "conf": 0.936234712600708
+  },
+  {
+   "text": "Atmosphere",
+   "conf": 0.9939168632030487
+  },
+  {
+   "text": "REVOLVING RESTAURANTKL TOWER",
+   "conf": 0.9335092902183533
+  },
+  {
+   "text": "ATMOSPHERE 360",
+   "conf": 0.9325049540826252
+  },
+  {
+   "text": "Asian Kitchen （M)Sdn Bhd （865262-H)",
+   "conf": 0.8858313594545637
+  },
+  {
+   "text": "Menara Kuala Lumpur",
+   "conf": 0.9622341864987424
+  },
+  {
+   "text": "Jalan Puncak",
+   "conf": 0.9742281238238016
+  },
+  {
+   "text": "50250 KualaLumpur",
+   "conf": 0.9098861655768227
+  },
+  {
+   "text": "Federal Territory Of K.L",
+   "conf": 0.9334312503536543
+  },
+  {
+   "text": "TEL:03-20202121",
+   "conf": 0.9786130587259928
+  },
+  {
+   "text": "（GSTReg.No:000896B63552）",
+   "conf": 0.9093443304300308
+  },
+  {
+   "text": "Tax Invoice",
+   "conf": 0.9486468109217557
+  },
+  {
+   "text": "Table s9",
+   "conf": 0.9519988298416138
+  },
+  {
+   "text": "Order#:252856",
+   "conf": 0.9371501436600318
+  },
+  {
+   "text": "Bi11#:V001-240189",
+   "conf": 0.9690637833931867
+  },
+  {
+   "text": "Pax(s）:1",
+   "conf": 0.8354837819933891
+  },
+  {
+   "text": "：23-11-201515:34:47",
+   "conf": 0.9630781161157709
+  },
+  {
+   "text": "Cashier:Rostam Tujiman",
+   "conf": 0.9617525176568464
+  },
+  {
+   "text": "Description",
+   "conf": 0.9763709415089
+  },
+  {
+   "text": "Qty",
+   "conf": 0.9757242202758789
+  },
+  {
+   "text": "U.price",
+   "conf": 0.9612182293619428
+  },
+  {
+   "text": "Total TAX",
+   "conf": 0.9302882552146912
+  },
+  {
+   "text": "Afternoon Tea （Adult)",
+   "conf": 0.9119771463530404
+  },
+  {
+   "text": "1x",
+   "conf": 0.7228141576051712
+  },
+  {
+   "text": "57.45",
+   "conf": 0.995537805557251
+  },
+  {
+   "text": "57.45SR",
+   "conf": 0.9930403232574463
+  },
+  {
+   "text": "Total（Excluding GST):",
+   "conf": 0.9149295318694342
+  },
+  {
+   "text": "57.45",
+   "conf": 0.9925729990005493
+  },
+  {
+   "text": "GST Payable:",
+   "conf": 0.9365694224834442
+  },
+  {
+   "text": "3.45",
+   "conf": 0.9949420839548111
+  },
+  {
+   "text": "Total（Inclusive of GST):",
+   "conf": 0.9163740500807762
+  },
+  {
+   "text": "06'09",
+   "conf": 0.8311157107353211
+  }
+ ],
+ "mean_conf": 0.9366,
+ "low_conf_share": 0.0,
+ "latency_ms": 3510,
+ "fields": {
+  "company": "ASIAN KITCHEN M SDN BHD",
+  "date": "2015-11-23",
+  "total": 57.45
+ },
+ "rule_reasons": [
+  "total_no_keyword_fallback_max"
+ ],
+ "total_candidates": [
+  57.45,
+  57.45,
+  57.45,
+  3.45
+ ],
+ "key": "W0177_e9f9a46e62a7"
+}

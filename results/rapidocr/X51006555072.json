@@ -1,0 +1,179 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "DIGI TELECOMMUNICATIONS SDN BHD",
+  "201283-M",
+  "LOT LG 315,I-UTAMA SHOPPING CENTRE",
+  "LEBUH BANDAR UTAMA-BANDAR UTAMA,",
+  "Petaling Jaya,47800",
+  "SELANGOR",
+  "TAX INVOICE",
+  "GST Reg Number: 001211957248",
+  "13/10/2017 12:35",
+  "POS Login ID:DMgr34013",
+  "Store Name: DSO0I-BPOO9 OSCAR COLOUR LAB",
+  "&TELECOMMUNICATION SDN.BHD.（523847-W)",
+  "BILL PAYMENT",
+  "Paid Amount 234.40",
+  "Sub Total Amount 234.40",
+  "Total Amount 234.40",
+  "Credit Card 234.40",
+  "Credit Card No.:XXXX XXXX XXXX 6974",
+  "Total Amount Collected 234.40",
+  "Custoner Name: LIM RUEY CHYI",
+  "Mobi1e No.:60143149319",
+  "Account No.:1000004587104",
+  "Customer Copy",
+  "Thank You",
+  "Have a nice day",
+  "34013001929120171013"
+ ],
+ "tokens": [
+  {
+   "text": "DIGI TELECOMMUNICATIONS SDN BHD",
+   "conf": 0.9674304185375091
+  },
+  {
+   "text": "201283-M",
+   "conf": 0.9216526821255684
+  },
+  {
+   "text": "LOT LG 315,I-UTAMA SHOPPING CENTRE",
+   "conf": 0.9275035744204241
+  },
+  {
+   "text": "LEBUH BANDAR UTAMA-BANDAR UTAMA,",
+   "conf": 0.9334086552262306
+  },
+  {
+   "text": "Petaling Jaya,47800",
+   "conf": 0.9638514989300778
+  },
+  {
+   "text": "SELANGOR",
+   "conf": 0.9931486248970032
+  },
+  {
+   "text": "TAX INVOICE",
+   "conf": 0.9724682840433988
+  },
+  {
+   "text": "GST Reg Number:",
+   "conf": 0.935398519039154
+  },
+  {
+   "text": "001211957248",
+   "conf": 0.9965660472710928
+  },
+  {
+   "text": "13/10/2017",
+   "conf": 0.9981492161750793
+  },
+  {
+   "text": "12:35",
+   "conf": 0.9794719815254211
+  },
+  {
+   "text": "POS Login ID:DMgr34013",
+   "conf": 0.947218426249244
+  },
+  {
+   "text": "Store Name: DSO0I-BPOO9 OSCAR COLOUR LAB",
+   "conf": 0.8594636276364327
+  },
+  {
+   "text": "&TELECOMMUNICATION SDN.BHD.（523847-W)",
+   "conf": 0.9262218910294611
+  },
+  {
+   "text": "BILL PAYMENT",
+   "conf": 0.9808324724435806
+  },
+  {
+   "text": "Paid Amount",
+   "conf": 0.9801797704263167
+  },
+  {
+   "text": "234.40",
+   "conf": 0.994748572508494
+  },
+  {
+   "text": "Sub Total Amount",
+   "conf": 0.9676703624427319
+  },
+  {
+   "text": "234.40",
+   "conf": 0.9686568975448608
+  },
+  {
+   "text": "Total Amount",
+   "conf": 0.9554318090279897
+  },
+  {
+   "text": "234.40",
+   "conf": 0.9819452265898386
+  },
+  {
+   "text": "Credit Card",
+   "conf": 0.9530202367089011
+  },
+  {
+   "text": "234.40",
+   "conf": 0.9975612858931223
+  },
+  {
+   "text": "Credit Card No.:XXXX XXXX XXXX 6974",
+   "conf": 0.8944350276674543
+  },
+  {
+   "text": "Total Amount Collected",
+   "conf": 0.9669850414449518
+  },
+  {
+   "text": "234.40",
+   "conf": 0.9936398963133494
+  },
+  {
+   "text": "Custoner Name: LIM RUEY CHYI",
+   "conf": 0.9333838671445847
+  },
+  {
+   "text": "Mobi1e No.:60143149319",
+   "conf": 0.9448251019824635
+  },
+  {
+   "text": "Account No.:1000004587104",
+   "conf": 0.957416832447052
+  },
+  {
+   "text": "Customer Copy",
+   "conf": 0.9776676526436439
+  },
+  {
+   "text": "Thank You",
+   "conf": 0.9610685441229079
+  },
+  {
+   "text": "Have a nice day",
+   "conf": 0.9507415970166524
+  },
+  {
+   "text": "34013001929120171013",
+   "conf": 0.9979386121034622
+  }
+ ],
+ "mean_conf": 0.96,
+ "low_conf_share": 0.0,
+ "latency_ms": 4373,
+ "fields": {
+  "company": "DIGI TELECOMMUNICATIONS SDN BHD",
+  "date": "2017-10-13",
+  "total": 234.4
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  234.4,
+  234.4
+ ],
+ "key": "X51006555072"
+}

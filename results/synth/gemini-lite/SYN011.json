@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.1-flash-lite",
+ "provider": "gemini",
+ "raw_text": "{\n  \"vendor\": \"KOPITIAM SERI MELAKA\",\n  \"date\": \"2025-09-10\",\n  \"subtotal\": 83.60,\n  \"tax\": 5.02,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 188.62,\n  \"currency\": \"MYR\",\n  \"confidence\": 0.95,\n  \"notes\": \"The total amount printed on the receipt (188.62) does not mathematically match the subtotal and tax provided.\"\n}",
+ "data": {
+  "vendor": "KOPITIAM SERI MELAKA",
+  "date": "2025-09-10",
+  "subtotal": 83.6,
+  "tax": 5.02,
+  "tip": null,
+  "discount": null,
+  "total": 188.62,
+  "currency": "MYR",
+  "confidence": 0.95,
+  "notes": "The total amount printed on the receipt (188.62) does not mathematically match the subtotal and tax provided."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1457,
+  "output_tokens": 138,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.000571,
+ "latency_ms": 1641,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.1-flash-lite",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.1-flash-lite"
+ ],
+ "key": "SYN011"
+}

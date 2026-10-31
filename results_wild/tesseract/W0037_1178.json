@@ -1,0 +1,205 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "SS",
+  "maze Ss—",
+  "GRILL SSS",
+  "——_——",
+  "Bide £24.50",
+  "VAT Ie EE}",
+  "Thank You",
+  "Includes VAT at current rate.",
+  "VAT No:858 9508 63. Inv No:33830_",
+  "For nore inforsation on al] Gordon Rassay",
+  "estaurants please visit ww. gordo",
+  "tina in on twitter at 8OR pazegrill"
+ ],
+ "tokens": [
+  {
+   "text": "SS",
+   "conf": 0.02
+  },
+  {
+   "text": "maze",
+   "conf": 0.94
+  },
+  {
+   "text": "Ss—",
+   "conf": 0.12
+  },
+  {
+   "text": "GRILL",
+   "conf": 0.96
+  },
+  {
+   "text": "SSS",
+   "conf": 0.15
+  },
+  {
+   "text": "——_——",
+   "conf": 0.1
+  },
+  {
+   "text": "Bide",
+   "conf": 0.25
+  },
+  {
+   "text": "£24.50",
+   "conf": 0.28
+  },
+  {
+   "text": "VAT",
+   "conf": 0.62
+  },
+  {
+   "text": "Ie",
+   "conf": 0.42
+  },
+  {
+   "text": "EE}",
+   "conf": 0.6
+  },
+  {
+   "text": "Thank",
+   "conf": 0.6
+  },
+  {
+   "text": "You",
+   "conf": 0.8
+  },
+  {
+   "text": "Includes",
+   "conf": 0.91
+  },
+  {
+   "text": "VAT",
+   "conf": 0.95
+  },
+  {
+   "text": "at",
+   "conf": 0.94
+  },
+  {
+   "text": "current",
+   "conf": 0.94
+  },
+  {
+   "text": "rate.",
+   "conf": 0.77
+  },
+  {
+   "text": "VAT",
+   "conf": 0.65
+  },
+  {
+   "text": "No:858",
+   "conf": 0.0
+  },
+  {
+   "text": "9508",
+   "conf": 0.87
+  },
+  {
+   "text": "63.",
+   "conf": 0.37
+  },
+  {
+   "text": "Inv",
+   "conf": 0.55
+  },
+  {
+   "text": "No:33830_",
+   "conf": 0.0
+  },
+  {
+   "text": "For",
+   "conf": 0.96
+  },
+  {
+   "text": "nore",
+   "conf": 0.61
+  },
+  {
+   "text": "inforsation",
+   "conf": 0.53
+  },
+  {
+   "text": "on",
+   "conf": 0.93
+  },
+  {
+   "text": "al]",
+   "conf": 0.55
+  },
+  {
+   "text": "Gordon",
+   "conf": 0.93
+  },
+  {
+   "text": "Rassay",
+   "conf": 0.39
+  },
+  {
+   "text": "estaurants",
+   "conf": 0.22
+  },
+  {
+   "text": "please",
+   "conf": 0.64
+  },
+  {
+   "text": "visit",
+   "conf": 0.64
+  },
+  {
+   "text": "ww.",
+   "conf": 0.26
+  },
+  {
+   "text": "gordo",
+   "conf": 0.0
+  },
+  {
+   "text": "tina",
+   "conf": 0.25
+  },
+  {
+   "text": "in",
+   "conf": 0.43
+  },
+  {
+   "text": "on",
+   "conf": 0.48
+  },
+  {
+   "text": "twitter",
+   "conf": 0.78
+  },
+  {
+   "text": "at",
+   "conf": 0.91
+  },
+  {
+   "text": "8OR",
+   "conf": 0.01
+  },
+  {
+   "text": "pazegrill",
+   "conf": 0.0
+  }
+ ],
+ "mean_conf": 0.5193,
+ "low_conf_share": 0.4419,
+ "latency_ms": 320,
+ "fields": {
+  "company": "MAZE SS",
+  "date": null,
+  "total": null
+ },
+ "rule_reasons": [
+  "date_not_found",
+  "total_not_found"
+ ],
+ "total_candidates": [],
+ "key": "W0037_1178"
+}

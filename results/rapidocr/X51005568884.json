@@ -1,0 +1,187 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "MR.D.I.Y.SDNBHD",
+  "（C0.REG:704427-T)",
+  "L0T1851-A&1851-B.JALANKPB6,",
+  "KAWASAN PERINDUSTRIAN BALAKONG,",
+  "433O0 SERI KEMBANGAN,SELANGOR",
+  "(GSTIDN0:001092886528)",
+  "(CHERAS LEISURE MALL)",
+  "TAX INVOICE-",
+  "BATTERYLR03-4BAAA4PCS *S",
+  "XC12-12/144",
+  "9021937 1X3.90 3.90",
+  "Item（s）:1 Qty（s):1",
+  "Total Incl.GST@6% RM3.90",
+  "CASH RM4.00",
+  "CHANGE RM0.10",
+  "GST Summary Amt(RM) Tax(RM)",
+  "GSTS@6% 3.68 0.22",
+  "*- 一*",
+  "24-11-17 13:11SH01 ZT09 T2 R000011248",
+  "OPERATOR TRAINEE CASHIER",
+  "EXCHANGE ARE ALLOWED WITHIN",
+  "7DAYS WITH RECEIPT.",
+  "STRICTLY NO CASH REFUND."
+ ],
+ "tokens": [
+  {
+   "text": "MR.D.I.Y.SDNBHD",
+   "conf": 0.9812043905258179
+  },
+  {
+   "text": "（C0.REG:704427-T)",
+   "conf": 0.9269987695357379
+  },
+  {
+   "text": "L0T1851-A&1851-B.JALANKPB6,",
+   "conf": 0.9367260127155869
+  },
+  {
+   "text": "KAWASAN PERINDUSTRIAN BALAKONG,",
+   "conf": 0.9540661188863939
+  },
+  {
+   "text": "433O0 SERI KEMBANGAN,SELANGOR",
+   "conf": 0.9290656899583751
+  },
+  {
+   "text": "(GSTIDN0:001092886528)",
+   "conf": 0.9387819414789026
+  },
+  {
+   "text": "(CHERAS LEISURE MALL)",
+   "conf": 0.9386602356320336
+  },
+  {
+   "text": "TAX INVOICE-",
+   "conf": 0.9595991323391596
+  },
+  {
+   "text": "BATTERYLR03-4BAAA4PCS",
+   "conf": 0.9726754824320475
+  },
+  {
+   "text": "*S",
+   "conf": 0.9298761188983917
+  },
+  {
+   "text": "XC12-12/144",
+   "conf": 0.9667720036073164
+  },
+  {
+   "text": "9021937",
+   "conf": 0.997957170009613
+  },
+  {
+   "text": "1X3.90",
+   "conf": 0.9591487248738607
+  },
+  {
+   "text": "3.90",
+   "conf": 0.9961336106061935
+  },
+  {
+   "text": "Item（s）:1",
+   "conf": 0.8746814860237969
+  },
+  {
+   "text": "Qty（s):1",
+   "conf": 0.8449560701847076
+  },
+  {
+   "text": "Total Incl.GST@6%",
+   "conf": 0.9264211163801306
+  },
+  {
+   "text": "RM3.90",
+   "conf": 0.9976197977860769
+  },
+  {
+   "text": "CASH",
+   "conf": 0.9943384528160095
+  },
+  {
+   "text": "RM4.00",
+   "conf": 0.997630645831426
+  },
+  {
+   "text": "CHANGE",
+   "conf": 0.9844421843687693
+  },
+  {
+   "text": "RM0.10",
+   "conf": 0.9967220822970072
+  },
+  {
+   "text": "GST Summary",
+   "conf": 0.9714696407318115
+  },
+  {
+   "text": "Amt(RM)",
+   "conf": 0.9116536123411996
+  },
+  {
+   "text": "Tax(RM)",
+   "conf": 0.9347042100770133
+  },
+  {
+   "text": "GSTS@6%",
+   "conf": 0.994240573474339
+  },
+  {
+   "text": "3.68",
+   "conf": 0.9960075914859772
+  },
+  {
+   "text": "0.22",
+   "conf": 0.9976100474596024
+  },
+  {
+   "text": "*-",
+   "conf": 0.7185540795326233
+  },
+  {
+   "text": "一*",
+   "conf": 0.8819085359573364
+  },
+  {
+   "text": "24-11-17 13:11SH01 ZT09",
+   "conf": 0.9475694583809894
+  },
+  {
+   "text": "T2 R000011248",
+   "conf": 0.9661777661396906
+  },
+  {
+   "text": "OPERATOR TRAINEE CASHIER",
+   "conf": 0.9590809419751167
+  },
+  {
+   "text": "EXCHANGE ARE ALLOWED WITHIN",
+   "conf": 0.9496627295458758
+  },
+  {
+   "text": "7DAYS WITH RECEIPT.",
+   "conf": 0.9691000392562464
+  },
+  {
+   "text": "STRICTLY NO CASH REFUND.",
+   "conf": 0.9448089500268301
+  }
+ ],
+ "mean_conf": 0.9485,
+ "low_conf_share": 0.0,
+ "latency_ms": 5091,
+ "fields": {
+  "company": "MR D I Y SDNBHD",
+  "date": "2017-11-24",
+  "total": 3.9
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  3.9
+ ],
+ "key": "X51005568884"
+}

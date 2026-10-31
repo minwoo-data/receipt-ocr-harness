@@ -1,0 +1,210 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "CROSSCHANNELNETWORKSDN.BHD.",
+  "47,JALANMERANTI1,SEK.3",
+  "BANDARUTAMABATANGKALI,",
+  "44300BATANGKALI,SELANGOR.",
+  "Tel:03-60579688Fax:03-60579678",
+  "GSTID:001151500288",
+  "Tax Invoice",
+  "No.:BTG-052332",
+  "Qty RM Tax",
+  "SCHNEIDERE15R13ASWITCH 1 6.36SR",
+  "SOCKETOUTLET@6.0000",
+  "TotalAmtIncl.GST@6%: 6.36",
+  "Rounding Adjustment: -0.01",
+  "TotalAmtPayable 6.35",
+  "PaidAmount 10.00",
+  "Change 3.65",
+  "Total Qty.Tender: .1.00",
+  "GSTSummary Amount Tax",
+  "(RM) (RM)",
+  "SR@A 6.00 0.36",
+  "6.00 0.36.",
+  "THANK YOU",
+  "Goodssold arenotrefundable nor exchangeble.",
+  "For any enquiry, please email us:",
+  "gowa9688@gmail.com",
+  "29/01/20184:40:40PM"
+ ],
+ "tokens": [
+  {
+   "text": "CROSSCHANNELNETWORKSDN.BHD.",
+   "conf": 0.982598708735572
+  },
+  {
+   "text": "47,JALANMERANTI1,SEK.3",
+   "conf": 0.9524621259082447
+  },
+  {
+   "text": "BANDARUTAMABATANGKALI,",
+   "conf": 0.9655245515433225
+  },
+  {
+   "text": "44300BATANGKALI,SELANGOR.",
+   "conf": 0.954033215045929
+  },
+  {
+   "text": "Tel:03-60579688Fax:03-60579678",
+   "conf": 0.9838706890741984
+  },
+  {
+   "text": "GSTID:001151500288",
+   "conf": 0.9879793789651659
+  },
+  {
+   "text": "Tax Invoice",
+   "conf": 0.9239135167815469
+  },
+  {
+   "text": "No.:BTG-052332",
+   "conf": 0.9803012268883842
+  },
+  {
+   "text": "Qty",
+   "conf": 0.9437475999196371
+  },
+  {
+   "text": "RM Tax",
+   "conf": 0.9229257802168528
+  },
+  {
+   "text": "SCHNEIDERE15R13ASWITCH",
+   "conf": 0.9893235943534158
+  },
+  {
+   "text": "1",
+   "conf": 0.9945459365844727
+  },
+  {
+   "text": "6.36SR",
+   "conf": 0.9885167082150778
+  },
+  {
+   "text": "SOCKETOUTLET@6.0000",
+   "conf": 0.9871788181756672
+  },
+  {
+   "text": "TotalAmtIncl.GST@6%:",
+   "conf": 0.9547283917665481
+  },
+  {
+   "text": "6.36",
+   "conf": 0.9980275928974152
+  },
+  {
+   "text": "Rounding Adjustment:",
+   "conf": 0.9647185117006302
+  },
+  {
+   "text": "-0.01",
+   "conf": 0.9859602928161622
+  },
+  {
+   "text": "TotalAmtPayable",
+   "conf": 0.9749872922897339
+  },
+  {
+   "text": "6.35",
+   "conf": 0.9972210824489594
+  },
+  {
+   "text": "PaidAmount",
+   "conf": 0.990954464673996
+  },
+  {
+   "text": "10.00",
+   "conf": 0.9956123232841492
+  },
+  {
+   "text": "Change",
+   "conf": 0.9963544110457102
+  },
+  {
+   "text": "3.65",
+   "conf": 0.9868091344833374
+  },
+  {
+   "text": "Total Qty.Tender:",
+   "conf": 0.8938898970099056
+  },
+  {
+   "text": ".1.00",
+   "conf": 0.9007266879081726
+  },
+  {
+   "text": "GSTSummary",
+   "conf": 0.9888036847114563
+  },
+  {
+   "text": "Amount",
+   "conf": 0.9920339186986288
+  },
+  {
+   "text": "Tax",
+   "conf": 0.9755755662918091
+  },
+  {
+   "text": "(RM)",
+   "conf": 0.9527403116226196
+  },
+  {
+   "text": "(RM)",
+   "conf": 0.960571750998497
+  },
+  {
+   "text": "SR@A",
+   "conf": 0.9282692819833755
+  },
+  {
+   "text": "6.00",
+   "conf": 0.9931282103061676
+  },
+  {
+   "text": "0.36",
+   "conf": 0.9942519813776016
+  },
+  {
+   "text": "6.00",
+   "conf": 0.9954495429992676
+  },
+  {
+   "text": "0.36.",
+   "conf": 0.9514305472373963
+  },
+  {
+   "text": "THANK YOU",
+   "conf": 0.9442966646618314
+  },
+  {
+   "text": "Goodssold arenotrefundable nor exchangeble.",
+   "conf": 0.9592800674050354
+  },
+  {
+   "text": "For any enquiry, please email us:",
+   "conf": 0.9377652325413444
+  },
+  {
+   "text": "gowa9688@gmail.com",
+   "conf": 0.9528450734085507
+  },
+  {
+   "text": "29/01/20184:40:40PM",
+   "conf": 0.9888706332758853
+  }
+ ],
+ "mean_conf": 0.9686,
+ "low_conf_share": 0.0,
+ "latency_ms": 4265,
+ "fields": {
+  "company": "CROSSCHANNELNETWORKSDN BHD",
+  "date": "2018-01-29",
+  "total": 6.35
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  6.35
+ ],
+ "key": "X51005230648"
+}

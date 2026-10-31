@@ -1,0 +1,243 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "190",
+  "GerbangAlafRestaurantsSdnBhd",
+  "(65351-M)",
+  "formerlyknown as",
+  "GoldenArches Restaurants SdnBhd",
+  "Licensee of McDonald's",
+  "Leve1 6,Bangunan TH,Damansara Uptown3",
+  "No.3,Ja1an SS21/39,47400 Peta1ing Jaya",
+  "Selangor",
+  "（GSTIDNo:000504664064)",
+  "McDonald'sPetronas Taman Melati DT",
+  "Te1N0.:03-4147-3107",
+  "TAX INVOICE",
+  "MFY Side1",
+  "INV2141900016842",
+  "ORD #90-REG#19-18/01/2018 17:09:21",
+  "QTYITEM TOTAL",
+  "2M SpicyDeluxe 25.40",
+  "2MCoke",
+  "2MFries",
+  "1MGrilChicBgr 12.50",
+  "1MCoke",
+  "1MFries",
+  "1Small Cone 1.00",
+  "TakeOut Total （incl GST) 38.90",
+  "Total Rounded 38.90",
+  "Cash Tendered 50.00",
+  "Change 11.10",
+  "TOTALINCLUDES6%GST 2.20",
+  "love tohearyour feedback！",
+  "Visitwww.mcdfeedback.com.my",
+  "OR",
+  "DownloadMyMcDFeedbackfrom",
+  "GooglePlay/App Store",
+  "toshareyourexperience",
+  "ThankYou andPlease Come Again.",
+  "ustomer ServiceHot1ine:03-2726-5600"
+ ],
+ "tokens": [
+  {
+   "text": "190",
+   "conf": 0.9995799660682678
+  },
+  {
+   "text": "GerbangAlafRestaurantsSdnBhd",
+   "conf": 0.9923605046101979
+  },
+  {
+   "text": "(65351-M)",
+   "conf": 0.9464994867642721
+  },
+  {
+   "text": "formerlyknown as",
+   "conf": 0.9770165905356407
+  },
+  {
+   "text": "GoldenArches Restaurants SdnBhd",
+   "conf": 0.9733550413962333
+  },
+  {
+   "text": "Licensee of McDonald's",
+   "conf": 0.9489742652936415
+  },
+  {
+   "text": "Leve1 6,Bangunan TH,Damansara Uptown3",
+   "conf": 0.9408919593772372
+  },
+  {
+   "text": "No.3,Ja1an SS21/39,47400 Peta1ing Jaya",
+   "conf": 0.9288676208571384
+  },
+  {
+   "text": "Selangor",
+   "conf": 0.9826419726014137
+  },
+  {
+   "text": "（GSTIDNo:000504664064)",
+   "conf": 0.9403872300278057
+  },
+  {
+   "text": "McDonald'sPetronas Taman Melati DT",
+   "conf": 0.9529259117210612
+  },
+  {
+   "text": "Te1N0.:03-4147-3107",
+   "conf": 0.9342939634072153
+  },
+  {
+   "text": "TAX INVOICE",
+   "conf": 0.9732636863535101
+  },
+  {
+   "text": "MFY Side1",
+   "conf": 0.9400064415401883
+  },
+  {
+   "text": "INV2141900016842",
+   "conf": 0.9583274126052856
+  },
+  {
+   "text": "ORD #90-REG#19-18/01/2018 17:09:21",
+   "conf": 0.9615999390097225
+  },
+  {
+   "text": "QTYITEM",
+   "conf": 0.9952855450766427
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.9924603462219238
+  },
+  {
+   "text": "2M SpicyDeluxe",
+   "conf": 0.9331207147666386
+  },
+  {
+   "text": "25.40",
+   "conf": 0.9992349505424499
+  },
+  {
+   "text": "2MCoke",
+   "conf": 0.9882622361183167
+  },
+  {
+   "text": "2MFries",
+   "conf": 0.9847232018198285
+  },
+  {
+   "text": "1MGrilChicBgr",
+   "conf": 0.9678844075936538
+  },
+  {
+   "text": "12.50",
+   "conf": 0.9985959649085998
+  },
+  {
+   "text": "1MCoke",
+   "conf": 0.9915132323900858
+  },
+  {
+   "text": "1MFries",
+   "conf": 0.9841630118233817
+  },
+  {
+   "text": "1Small Cone",
+   "conf": 0.8964664123275063
+  },
+  {
+   "text": "1.00",
+   "conf": 0.9985182583332062
+  },
+  {
+   "text": "TakeOut Total （incl GST)",
+   "conf": 0.9031766106685003
+  },
+  {
+   "text": "38.90",
+   "conf": 0.998484194278717
+  },
+  {
+   "text": "Total Rounded",
+   "conf": 0.9549468526473412
+  },
+  {
+   "text": "38.90",
+   "conf": 0.9992672681808472
+  },
+  {
+   "text": "Cash Tendered",
+   "conf": 0.973673728796152
+  },
+  {
+   "text": "50.00",
+   "conf": 0.9985248804092407
+  },
+  {
+   "text": "Change",
+   "conf": 0.9958958129088084
+  },
+  {
+   "text": "11.10",
+   "conf": 0.9985369801521301
+  },
+  {
+   "text": "TOTALINCLUDES6%GST",
+   "conf": 0.9918126828140683
+  },
+  {
+   "text": "2.20",
+   "conf": 0.9974222183227539
+  },
+  {
+   "text": "love tohearyour feedback！",
+   "conf": 0.944405779838562
+  },
+  {
+   "text": "Visitwww.mcdfeedback.com.my",
+   "conf": 0.9909456173578898
+  },
+  {
+   "text": "OR",
+   "conf": 0.9891234636306763
+  },
+  {
+   "text": "DownloadMyMcDFeedbackfrom",
+   "conf": 0.9883060073852539
+  },
+  {
+   "text": "GooglePlay/App Store",
+   "conf": 0.971321964263916
+  },
+  {
+   "text": "toshareyourexperience",
+   "conf": 0.9955669811793736
+  },
+  {
+   "text": "ThankYou andPlease Come Again.",
+   "conf": 0.9478909432888031
+  },
+  {
+   "text": "ustomer ServiceHot1ine:03-2726-5600",
+   "conf": 0.9697796361786979
+  }
+ ],
+ "mean_conf": 0.9715,
+ "low_conf_share": 0.0,
+ "latency_ms": 14189,
+ "fields": {
+  "company": "FORMERLYKNOWN AS GOLDENARCHES RESTAURANTS SDNBHD",
+  "date": null,
+  "total": 2.2
+ },
+ "rule_reasons": [
+  "date_not_found"
+ ],
+ "total_candidates": [
+  2.2
+ ],
+ "key": "X51005230616"
+}

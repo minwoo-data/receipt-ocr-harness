@@ -1,0 +1,869 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "99 SPEED MART S/B (519537-X)",
+  "LOT P.T. 33198, BATU 4",
+  "JALAN KAPAR, MUKIM KAPAR",
+  "42100 KLANG, SELANGOR",
+  "1608-TMN SRI BINTANG",
+  "6ST ID. NO : 000181747712",
+  "INVOICE NO s 17664/103/T0027",
+  "10s 120M $60272 11-05-16",
+  "967 ANCHOR SERBUK CUCI 4KG , — RN18.80 s",
+  "@2 X RK 9.40",
+  "886 DOVE CREAN BAR SOAP 100 = RM26.50 =",
+  "BiG X RM 2.65",
+  "| 5551 FERNLEAF FULL CRM MILK RM40,95 s",
+  "| 2267 COLGATE GREAT REGULAR RM1S.96 5 |",
+  "@2 X RM 7.99",
+  "| 265 LEE KUM KEE SOS TIRAM C = RM22, Bf =",
+  "@3 X RM 7.60 ,",
+  "193 CHEONG CHAN SOS KARAHEL RMS.09 = |",
+  "2394 MISTER POTATO CHIPS 8B RH7.90 s",
+  "@2 X RM 3.95 ,",
+  "B019 MARIGOLD HL MILK tL RMI2.70 5",
+  "@2 X RH 6.35 |",
+  "706 BINTANG TEPUNG JAGUNG 4 RN. 35 s",
+  "2216 NUTELLA FERRERO HAZELN RM14.45 5",
+  "9547 NUTRIPLUS CHEESE CHICK RM10,50 =",
+  "@2 X RM S.25 ,",
+  "Total Sales (Inclusive GST) RM 177.22",
+  "Rounding Adjustment RM = -.02 —",
+  "Rounding RM 177, 26 ,",
+  "CREDIT RM 177, 20 |",
+  "CHANGE RM 0 ,",
+  "GST Summary Amount (RM) Tax (RM) |",
+  "$ = 6/ 167.19 10. 03",
+  "Thank You. Please come again",
+  "Keep the invoice for applicable returns"
+ ],
+ "tokens": [
+  {
+   "text": "99",
+   "conf": 0.95
+  },
+  {
+   "text": "SPEED",
+   "conf": 0.96
+  },
+  {
+   "text": "MART",
+   "conf": 0.92
+  },
+  {
+   "text": "S/B",
+   "conf": 0.38
+  },
+  {
+   "text": "(519537-X)",
+   "conf": 0.49
+  },
+  {
+   "text": "LOT",
+   "conf": 0.87
+  },
+  {
+   "text": "P.T.",
+   "conf": 0.1
+  },
+  {
+   "text": "33198,",
+   "conf": 0.87
+  },
+  {
+   "text": "BATU",
+   "conf": 0.94
+  },
+  {
+   "text": "4",
+   "conf": 0.96
+  },
+  {
+   "text": "JALAN",
+   "conf": 0.88
+  },
+  {
+   "text": "KAPAR,",
+   "conf": 0.88
+  },
+  {
+   "text": "MUKIM",
+   "conf": 0.53
+  },
+  {
+   "text": "KAPAR",
+   "conf": 0.91
+  },
+  {
+   "text": "42100",
+   "conf": 0.95
+  },
+  {
+   "text": "KLANG,",
+   "conf": 0.95
+  },
+  {
+   "text": "SELANGOR",
+   "conf": 0.95
+  },
+  {
+   "text": "1608-TMN",
+   "conf": 0.35
+  },
+  {
+   "text": "SRI",
+   "conf": 0.64
+  },
+  {
+   "text": "BINTANG",
+   "conf": 0.83
+  },
+  {
+   "text": "6ST",
+   "conf": 0.74
+  },
+  {
+   "text": "ID.",
+   "conf": 0.77
+  },
+  {
+   "text": "NO",
+   "conf": 0.7
+  },
+  {
+   "text": ":",
+   "conf": 0.31
+  },
+  {
+   "text": "000181747712",
+   "conf": 0.64
+  },
+  {
+   "text": "INVOICE",
+   "conf": 0.82
+  },
+  {
+   "text": "NO",
+   "conf": 0.71
+  },
+  {
+   "text": "s",
+   "conf": 0.46
+  },
+  {
+   "text": "17664/103/T0027",
+   "conf": 0.63
+  },
+  {
+   "text": "10s",
+   "conf": 0.57
+  },
+  {
+   "text": "120M",
+   "conf": 0.48
+  },
+  {
+   "text": "$60272",
+   "conf": 0.83
+  },
+  {
+   "text": "11-05-16",
+   "conf": 0.82
+  },
+  {
+   "text": "967",
+   "conf": 0.92
+  },
+  {
+   "text": "ANCHOR",
+   "conf": 0.93
+  },
+  {
+   "text": "SERBUK",
+   "conf": 0.92
+  },
+  {
+   "text": "CUCI",
+   "conf": 0.37
+  },
+  {
+   "text": "4KG",
+   "conf": 0.32
+  },
+  {
+   "text": ",",
+   "conf": 0.32
+  },
+  {
+   "text": "—",
+   "conf": 0.16
+  },
+  {
+   "text": "RN18.80",
+   "conf": 0.39
+  },
+  {
+   "text": "s",
+   "conf": 0.82
+  },
+  {
+   "text": "@2",
+   "conf": 0.84
+  },
+  {
+   "text": "X",
+   "conf": 0.89
+  },
+  {
+   "text": "RK",
+   "conf": 0.75
+  },
+  {
+   "text": "9.40",
+   "conf": 0.75
+  },
+  {
+   "text": "886",
+   "conf": 0.91
+  },
+  {
+   "text": "DOVE",
+   "conf": 0.89
+  },
+  {
+   "text": "CREAN",
+   "conf": 0.73
+  },
+  {
+   "text": "BAR",
+   "conf": 0.95
+  },
+  {
+   "text": "SOAP",
+   "conf": 0.93
+  },
+  {
+   "text": "100",
+   "conf": 0.57
+  },
+  {
+   "text": "=",
+   "conf": 0.45
+  },
+  {
+   "text": "RM26.50",
+   "conf": 0.45
+  },
+  {
+   "text": "=",
+   "conf": 0.85
+  },
+  {
+   "text": "BiG",
+   "conf": 0.51
+  },
+  {
+   "text": "X",
+   "conf": 0.84
+  },
+  {
+   "text": "RM",
+   "conf": 0.87
+  },
+  {
+   "text": "2.65",
+   "conf": 0.87
+  },
+  {
+   "text": "|",
+   "conf": 0.46
+  },
+  {
+   "text": "5551",
+   "conf": 0.79
+  },
+  {
+   "text": "FERNLEAF",
+   "conf": 0.91
+  },
+  {
+   "text": "FULL",
+   "conf": 0.96
+  },
+  {
+   "text": "CRM",
+   "conf": 0.84
+  },
+  {
+   "text": "MILK",
+   "conf": 0.71
+  },
+  {
+   "text": "RM40,95",
+   "conf": 0.39
+  },
+  {
+   "text": "s",
+   "conf": 0.89
+  },
+  {
+   "text": "|",
+   "conf": 0.52
+  },
+  {
+   "text": "2267",
+   "conf": 0.95
+  },
+  {
+   "text": "COLGATE",
+   "conf": 0.95
+  },
+  {
+   "text": "GREAT",
+   "conf": 0.95
+  },
+  {
+   "text": "REGULAR",
+   "conf": 0.96
+  },
+  {
+   "text": "RM1S.96",
+   "conf": 0.44
+  },
+  {
+   "text": "5",
+   "conf": 0.68
+  },
+  {
+   "text": "|",
+   "conf": 0.45
+  },
+  {
+   "text": "@2",
+   "conf": 0.69
+  },
+  {
+   "text": "X",
+   "conf": 0.91
+  },
+  {
+   "text": "RM",
+   "conf": 0.67
+  },
+  {
+   "text": "7.99",
+   "conf": 0.73
+  },
+  {
+   "text": "|",
+   "conf": 0.51
+  },
+  {
+   "text": "265",
+   "conf": 0.95
+  },
+  {
+   "text": "LEE",
+   "conf": 0.95
+  },
+  {
+   "text": "KUM",
+   "conf": 0.95
+  },
+  {
+   "text": "KEE",
+   "conf": 0.95
+  },
+  {
+   "text": "SOS",
+   "conf": 0.92
+  },
+  {
+   "text": "TIRAM",
+   "conf": 0.76
+  },
+  {
+   "text": "C",
+   "conf": 0.76
+  },
+  {
+   "text": "=",
+   "conf": 0.44
+  },
+  {
+   "text": "RM22,",
+   "conf": 0.44
+  },
+  {
+   "text": "Bf",
+   "conf": 0.81
+  },
+  {
+   "text": "=",
+   "conf": 0.71
+  },
+  {
+   "text": "@3",
+   "conf": 0.75
+  },
+  {
+   "text": "X",
+   "conf": 0.75
+  },
+  {
+   "text": "RM",
+   "conf": 0.84
+  },
+  {
+   "text": "7.60",
+   "conf": 0.84
+  },
+  {
+   "text": ",",
+   "conf": 0.0
+  },
+  {
+   "text": "193",
+   "conf": 0.91
+  },
+  {
+   "text": "CHEONG",
+   "conf": 0.91
+  },
+  {
+   "text": "CHAN",
+   "conf": 0.94
+  },
+  {
+   "text": "SOS",
+   "conf": 0.83
+  },
+  {
+   "text": "KARAHEL",
+   "conf": 0.22
+  },
+  {
+   "text": "RMS.09",
+   "conf": 0.52
+  },
+  {
+   "text": "=",
+   "conf": 0.38
+  },
+  {
+   "text": "|",
+   "conf": 0.52
+  },
+  {
+   "text": "2394",
+   "conf": 0.96
+  },
+  {
+   "text": "MISTER",
+   "conf": 0.95
+  },
+  {
+   "text": "POTATO",
+   "conf": 0.96
+  },
+  {
+   "text": "CHIPS",
+   "conf": 0.95
+  },
+  {
+   "text": "8B",
+   "conf": 0.67
+  },
+  {
+   "text": "RH7.90",
+   "conf": 0.0
+  },
+  {
+   "text": "s",
+   "conf": 0.7
+  },
+  {
+   "text": "@2",
+   "conf": 0.71
+  },
+  {
+   "text": "X",
+   "conf": 0.87
+  },
+  {
+   "text": "RM",
+   "conf": 0.73
+  },
+  {
+   "text": "3.95",
+   "conf": 0.73
+  },
+  {
+   "text": ",",
+   "conf": 0.0
+  },
+  {
+   "text": "B019",
+   "conf": 0.61
+  },
+  {
+   "text": "MARIGOLD",
+   "conf": 0.41
+  },
+  {
+   "text": "HL",
+   "conf": 0.89
+  },
+  {
+   "text": "MILK",
+   "conf": 0.85
+  },
+  {
+   "text": "tL",
+   "conf": 0.28
+  },
+  {
+   "text": "RMI2.70",
+   "conf": 0.46
+  },
+  {
+   "text": "5",
+   "conf": 0.52
+  },
+  {
+   "text": "@2",
+   "conf": 0.63
+  },
+  {
+   "text": "X",
+   "conf": 0.73
+  },
+  {
+   "text": "RH",
+   "conf": 0.78
+  },
+  {
+   "text": "6.35",
+   "conf": 0.72
+  },
+  {
+   "text": "|",
+   "conf": 0.51
+  },
+  {
+   "text": "706",
+   "conf": 0.92
+  },
+  {
+   "text": "BINTANG",
+   "conf": 0.79
+  },
+  {
+   "text": "TEPUNG",
+   "conf": 0.92
+  },
+  {
+   "text": "JAGUNG",
+   "conf": 0.92
+  },
+  {
+   "text": "4",
+   "conf": 0.97
+  },
+  {
+   "text": "RN.",
+   "conf": 0.08
+  },
+  {
+   "text": "35",
+   "conf": 0.13
+  },
+  {
+   "text": "s",
+   "conf": 0.67
+  },
+  {
+   "text": "2216",
+   "conf": 0.96
+  },
+  {
+   "text": "NUTELLA",
+   "conf": 0.96
+  },
+  {
+   "text": "FERRERO",
+   "conf": 0.9
+  },
+  {
+   "text": "HAZELN",
+   "conf": 0.59
+  },
+  {
+   "text": "RM14.45",
+   "conf": 0.06
+  },
+  {
+   "text": "5",
+   "conf": 0.77
+  },
+  {
+   "text": "9547",
+   "conf": 0.91
+  },
+  {
+   "text": "NUTRIPLUS",
+   "conf": 0.9
+  },
+  {
+   "text": "CHEESE",
+   "conf": 0.96
+  },
+  {
+   "text": "CHICK",
+   "conf": 0.31
+  },
+  {
+   "text": "RM10,50",
+   "conf": 0.26
+  },
+  {
+   "text": "=",
+   "conf": 0.46
+  },
+  {
+   "text": "@2",
+   "conf": 0.84
+  },
+  {
+   "text": "X",
+   "conf": 0.84
+  },
+  {
+   "text": "RM",
+   "conf": 0.8
+  },
+  {
+   "text": "S.25",
+   "conf": 0.78
+  },
+  {
+   "text": ",",
+   "conf": 0.0
+  },
+  {
+   "text": "Total",
+   "conf": 0.96
+  },
+  {
+   "text": "Sales",
+   "conf": 0.95
+  },
+  {
+   "text": "(Inclusive",
+   "conf": 0.84
+  },
+  {
+   "text": "GST)",
+   "conf": 0.95
+  },
+  {
+   "text": "RM",
+   "conf": 0.87
+  },
+  {
+   "text": "177.22",
+   "conf": 0.75
+  },
+  {
+   "text": "Rounding",
+   "conf": 0.95
+  },
+  {
+   "text": "Adjustment",
+   "conf": 0.96
+  },
+  {
+   "text": "RM",
+   "conf": 0.65
+  },
+  {
+   "text": "=",
+   "conf": 0.46
+  },
+  {
+   "text": "-.02",
+   "conf": 0.65
+  },
+  {
+   "text": "—",
+   "conf": 0.35
+  },
+  {
+   "text": "Rounding",
+   "conf": 0.95
+  },
+  {
+   "text": "RM",
+   "conf": 0.46
+  },
+  {
+   "text": "177,",
+   "conf": 0.72
+  },
+  {
+   "text": "26",
+   "conf": 0.68
+  },
+  {
+   "text": ",",
+   "conf": 0.0
+  },
+  {
+   "text": "CREDIT",
+   "conf": 0.96
+  },
+  {
+   "text": "RM",
+   "conf": 0.63
+  },
+  {
+   "text": "177,",
+   "conf": 0.73
+  },
+  {
+   "text": "20",
+   "conf": 0.73
+  },
+  {
+   "text": "|",
+   "conf": 0.63
+  },
+  {
+   "text": "CHANGE",
+   "conf": 0.95
+  },
+  {
+   "text": "RM",
+   "conf": 0.69
+  },
+  {
+   "text": "0",
+   "conf": 0.42
+  },
+  {
+   "text": ",",
+   "conf": 0.0
+  },
+  {
+   "text": "GST",
+   "conf": 0.81
+  },
+  {
+   "text": "Summary",
+   "conf": 0.91
+  },
+  {
+   "text": "Amount",
+   "conf": 0.43
+  },
+  {
+   "text": "(RM)",
+   "conf": 0.81
+  },
+  {
+   "text": "Tax",
+   "conf": 0.14
+  },
+  {
+   "text": "(RM)",
+   "conf": 0.14
+  },
+  {
+   "text": "|",
+   "conf": 0.45
+  },
+  {
+   "text": "$",
+   "conf": 0.09
+  },
+  {
+   "text": "=",
+   "conf": 0.9
+  },
+  {
+   "text": "6/",
+   "conf": 0.75
+  },
+  {
+   "text": "167.19",
+   "conf": 0.92
+  },
+  {
+   "text": "10.",
+   "conf": 0.7
+  },
+  {
+   "text": "03",
+   "conf": 0.7
+  },
+  {
+   "text": "Thank",
+   "conf": 0.96
+  },
+  {
+   "text": "You.",
+   "conf": 0.95
+  },
+  {
+   "text": "Please",
+   "conf": 0.96
+  },
+  {
+   "text": "come",
+   "conf": 0.96
+  },
+  {
+   "text": "again",
+   "conf": 0.95
+  },
+  {
+   "text": "Keep",
+   "conf": 0.95
+  },
+  {
+   "text": "the",
+   "conf": 0.96
+  },
+  {
+   "text": "invoice",
+   "conf": 0.96
+  },
+  {
+   "text": "for",
+   "conf": 0.96
+  },
+  {
+   "text": "applicable",
+   "conf": 0.96
+  },
+  {
+   "text": "returns",
+   "conf": 0.96
+  }
+ ],
+ "mean_conf": 0.7039,
+ "low_conf_share": 0.2266,
+ "latency_ms": 2918,
+ "fields": {
+  "company": null,
+  "date": "2016-05-11",
+  "total": 177.22
+ },
+ "rule_reasons": [
+  "company_not_found"
+ ],
+ "total_candidates": [
+  177.22
+ ],
+ "key": "X51006620189"
+}

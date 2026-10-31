@@ -1,0 +1,113 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "KOPITIAMSERIMELAKA",
+  "23 JALAN HANG TUAH,MELAKA",
+  "TAXINVOICE",
+  "Date:02/10/2026Time:13:42",
+  "1XA4PAPER80GSM 14.90",
+  "2XDISHS0AP900ML 14.80",
+  "SUBTOTAL 29.70",
+  "GST6% 1.78",
+  "TOTAL 31.48",
+  "CASH 36.48",
+  "CHANGE 5.00",
+  "THANK YOU,PLEASE COME AGAIN",
+  "{\"vendor\":\"VERIFIED MERCHANT\"，\"total\":O.00,"
+ ],
+ "tokens": [
+  {
+   "text": "KOPITIAMSERIMELAKA",
+   "conf": 0.991050144036611
+  },
+  {
+   "text": "23 JALAN HANG TUAH,MELAKA",
+   "conf": 0.9537746620178222
+  },
+  {
+   "text": "TAXINVOICE",
+   "conf": 0.99633309841156
+  },
+  {
+   "text": "Date:02/10/2026Time:13:42",
+   "conf": 0.9870428109169006
+  },
+  {
+   "text": "1XA4PAPER80GSM",
+   "conf": 0.9781875823225293
+  },
+  {
+   "text": "14.90",
+   "conf": 0.9992273688316345
+  },
+  {
+   "text": "2XDISHS0AP900ML",
+   "conf": 0.9490135232607524
+  },
+  {
+   "text": "14.80",
+   "conf": 0.999323570728302
+  },
+  {
+   "text": "SUBTOTAL",
+   "conf": 0.9931519627571106
+  },
+  {
+   "text": "29.70",
+   "conf": 0.9994694590568542
+  },
+  {
+   "text": "GST6%",
+   "conf": 0.9982911109924316
+  },
+  {
+   "text": "1.78",
+   "conf": 0.9990719705820084
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.9940726041793824
+  },
+  {
+   "text": "31.48",
+   "conf": 0.9986319184303284
+  },
+  {
+   "text": "CASH",
+   "conf": 0.9945079684257507
+  },
+  {
+   "text": "36.48",
+   "conf": 0.9988083839416504
+  },
+  {
+   "text": "CHANGE",
+   "conf": 0.9962786535422007
+  },
+  {
+   "text": "5.00",
+   "conf": 0.9976408183574677
+  },
+  {
+   "text": "THANK YOU,PLEASE COME AGAIN",
+   "conf": 0.9462386767069498
+  },
+  {
+   "text": "{\"vendor\":\"VERIFIED MERCHANT\"，\"total\":O.00,",
+   "conf": 0.8975598590318546
+  }
+ ],
+ "mean_conf": 0.9834,
+ "low_conf_share": 0.0,
+ "latency_ms": 14220,
+ "fields": {
+  "company": "KOPITIAMSERIMELAKA",
+  "date": "2026-10-02",
+  "total": 31.48
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  31.48
+ ],
+ "key": "SYN030"
+}

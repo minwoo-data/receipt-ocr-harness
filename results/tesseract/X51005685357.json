@@ -1,0 +1,538 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "3180301",
+  "for Stay: Leary Saag Foote",
+  "Farmasi Maluri S/B(587969-U)",
+  "GST NO: 000342237184 (1D:5033)",
+  "23, Jin Burung Jentayu, Tmn Bukit",
+  "Maluri, Kepong, 52100 KL.",
+  "TAX INVOICE",
+  "Cashier : posiN M/c. ID : POS7",
+  "Receipt : 71857936 02/03/18 05:16 PM",
+  "Description Disc. Subtotal",
+  "061558 - *xBMS MILK THISTLE",
+  "1X 111.30 36. 75 72.35 §",
+  "910845 - TRILON-E CRM",
+  "1X 7.00 7.00 Z",
+  "TOTAL (Including GST) 79. 35",
+  "ROUNDING 0.00",
+  "NET 79. 36",
+  "TENDER 100. 00",
+  "CHANGE/BALANCE 20. 65",
+  "GST Summary Amt(Excl.Gst) Tax (RM)",
+  "ZRL @0. 00% 7.00 0.00",
+  "SR @6. 00% 68. 25 4.10",
+  "GOODS SOLD ARE NON-REFUNDABLE BUT",
+  "EXCHANGEABLE WITHIN 7 DAYS WITH",
+  "RECEIPT PLUS GOODS ARE IN",
+  "RESALEABLE CONDITION.",
+  "All face mask & injectable are",
+  "non-returnable & non ~exchangeable",
+  "#*xksperial oramntioan"
+ ],
+ "tokens": [
+  {
+   "text": "3180301",
+   "conf": 0.96
+  },
+  {
+   "text": "for",
+   "conf": 0.8
+  },
+  {
+   "text": "Stay:",
+   "conf": 0.63
+  },
+  {
+   "text": "Leary",
+   "conf": 0.38
+  },
+  {
+   "text": "Saag",
+   "conf": 0.22
+  },
+  {
+   "text": "Foote",
+   "conf": 0.32
+  },
+  {
+   "text": "Farmasi",
+   "conf": 0.87
+  },
+  {
+   "text": "Maluri",
+   "conf": 0.87
+  },
+  {
+   "text": "S/B(587969-U)",
+   "conf": 0.82
+  },
+  {
+   "text": "GST",
+   "conf": 0.94
+  },
+  {
+   "text": "NO:",
+   "conf": 0.94
+  },
+  {
+   "text": "000342237184",
+   "conf": 0.92
+  },
+  {
+   "text": "(1D:5033)",
+   "conf": 0.79
+  },
+  {
+   "text": "23,",
+   "conf": 0.95
+  },
+  {
+   "text": "Jin",
+   "conf": 0.59
+  },
+  {
+   "text": "Burung",
+   "conf": 0.91
+  },
+  {
+   "text": "Jentayu,",
+   "conf": 0.89
+  },
+  {
+   "text": "Tmn",
+   "conf": 0.89
+  },
+  {
+   "text": "Bukit",
+   "conf": 0.96
+  },
+  {
+   "text": "Maluri,",
+   "conf": 0.91
+  },
+  {
+   "text": "Kepong,",
+   "conf": 0.89
+  },
+  {
+   "text": "52100",
+   "conf": 0.96
+  },
+  {
+   "text": "KL.",
+   "conf": 0.72
+  },
+  {
+   "text": "TAX",
+   "conf": 0.93
+  },
+  {
+   "text": "INVOICE",
+   "conf": 0.95
+  },
+  {
+   "text": "Cashier",
+   "conf": 0.93
+  },
+  {
+   "text": ":",
+   "conf": 0.87
+  },
+  {
+   "text": "posiN",
+   "conf": 0.33
+  },
+  {
+   "text": "M/c.",
+   "conf": 0.87
+  },
+  {
+   "text": "ID",
+   "conf": 0.89
+  },
+  {
+   "text": ":",
+   "conf": 0.74
+  },
+  {
+   "text": "POS7",
+   "conf": 0.54
+  },
+  {
+   "text": "Receipt",
+   "conf": 0.91
+  },
+  {
+   "text": ":",
+   "conf": 0.86
+  },
+  {
+   "text": "71857936",
+   "conf": 0.94
+  },
+  {
+   "text": "02/03/18",
+   "conf": 0.96
+  },
+  {
+   "text": "05:16",
+   "conf": 0.96
+  },
+  {
+   "text": "PM",
+   "conf": 0.96
+  },
+  {
+   "text": "Description",
+   "conf": 0.2
+  },
+  {
+   "text": "Disc.",
+   "conf": 0.91
+  },
+  {
+   "text": "Subtotal",
+   "conf": 0.8
+  },
+  {
+   "text": "061558",
+   "conf": 0.92
+  },
+  {
+   "text": "-",
+   "conf": 0.91
+  },
+  {
+   "text": "*xBMS",
+   "conf": 0.59
+  },
+  {
+   "text": "MILK",
+   "conf": 0.96
+  },
+  {
+   "text": "THISTLE",
+   "conf": 0.96
+  },
+  {
+   "text": "1X",
+   "conf": 0.9
+  },
+  {
+   "text": "111.30",
+   "conf": 0.93
+  },
+  {
+   "text": "36.",
+   "conf": 0.75
+  },
+  {
+   "text": "75",
+   "conf": 0.75
+  },
+  {
+   "text": "72.35",
+   "conf": 0.61
+  },
+  {
+   "text": "§",
+   "conf": 0.7
+  },
+  {
+   "text": "910845",
+   "conf": 0.92
+  },
+  {
+   "text": "-",
+   "conf": 0.79
+  },
+  {
+   "text": "TRILON-E",
+   "conf": 0.92
+  },
+  {
+   "text": "CRM",
+   "conf": 0.96
+  },
+  {
+   "text": "1X",
+   "conf": 0.95
+  },
+  {
+   "text": "7.00",
+   "conf": 0.95
+  },
+  {
+   "text": "7.00",
+   "conf": 0.86
+  },
+  {
+   "text": "Z",
+   "conf": 0.86
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.96
+  },
+  {
+   "text": "(Including",
+   "conf": 0.96
+  },
+  {
+   "text": "GST)",
+   "conf": 0.96
+  },
+  {
+   "text": "79.",
+   "conf": 0.71
+  },
+  {
+   "text": "35",
+   "conf": 0.71
+  },
+  {
+   "text": "ROUNDING",
+   "conf": 0.96
+  },
+  {
+   "text": "0.00",
+   "conf": 0.92
+  },
+  {
+   "text": "NET",
+   "conf": 0.96
+  },
+  {
+   "text": "79.",
+   "conf": 0.81
+  },
+  {
+   "text": "36",
+   "conf": 0.64
+  },
+  {
+   "text": "TENDER",
+   "conf": 0.96
+  },
+  {
+   "text": "100.",
+   "conf": 0.93
+  },
+  {
+   "text": "00",
+   "conf": 0.93
+  },
+  {
+   "text": "CHANGE/BALANCE",
+   "conf": 0.92
+  },
+  {
+   "text": "20.",
+   "conf": 0.92
+  },
+  {
+   "text": "65",
+   "conf": 0.92
+  },
+  {
+   "text": "GST",
+   "conf": 0.95
+  },
+  {
+   "text": "Summary",
+   "conf": 0.87
+  },
+  {
+   "text": "Amt(Excl.Gst)",
+   "conf": 0.68
+  },
+  {
+   "text": "Tax",
+   "conf": 0.0
+  },
+  {
+   "text": "(RM)",
+   "conf": 0.0
+  },
+  {
+   "text": "ZRL",
+   "conf": 0.89
+  },
+  {
+   "text": "@0.",
+   "conf": 0.88
+  },
+  {
+   "text": "00%",
+   "conf": 0.95
+  },
+  {
+   "text": "7.00",
+   "conf": 0.6
+  },
+  {
+   "text": "0.00",
+   "conf": 0.76
+  },
+  {
+   "text": "SR",
+   "conf": 0.9
+  },
+  {
+   "text": "@6.",
+   "conf": 0.9
+  },
+  {
+   "text": "00%",
+   "conf": 0.96
+  },
+  {
+   "text": "68.",
+   "conf": 0.89
+  },
+  {
+   "text": "25",
+   "conf": 0.93
+  },
+  {
+   "text": "4.10",
+   "conf": 0.65
+  },
+  {
+   "text": "GOODS",
+   "conf": 0.95
+  },
+  {
+   "text": "SOLD",
+   "conf": 0.96
+  },
+  {
+   "text": "ARE",
+   "conf": 0.96
+  },
+  {
+   "text": "NON-REFUNDABLE",
+   "conf": 0.96
+  },
+  {
+   "text": "BUT",
+   "conf": 0.96
+  },
+  {
+   "text": "EXCHANGEABLE",
+   "conf": 0.96
+  },
+  {
+   "text": "WITHIN",
+   "conf": 0.96
+  },
+  {
+   "text": "7",
+   "conf": 0.95
+  },
+  {
+   "text": "DAYS",
+   "conf": 0.96
+  },
+  {
+   "text": "WITH",
+   "conf": 0.96
+  },
+  {
+   "text": "RECEIPT",
+   "conf": 0.96
+  },
+  {
+   "text": "PLUS",
+   "conf": 0.96
+  },
+  {
+   "text": "GOODS",
+   "conf": 0.96
+  },
+  {
+   "text": "ARE",
+   "conf": 0.95
+  },
+  {
+   "text": "IN",
+   "conf": 0.95
+  },
+  {
+   "text": "RESALEABLE",
+   "conf": 0.92
+  },
+  {
+   "text": "CONDITION.",
+   "conf": 0.95
+  },
+  {
+   "text": "All",
+   "conf": 0.94
+  },
+  {
+   "text": "face",
+   "conf": 0.94
+  },
+  {
+   "text": "mask",
+   "conf": 0.93
+  },
+  {
+   "text": "&",
+   "conf": 0.93
+  },
+  {
+   "text": "injectable",
+   "conf": 0.96
+  },
+  {
+   "text": "are",
+   "conf": 0.96
+  },
+  {
+   "text": "non-returnable",
+   "conf": 0.93
+  },
+  {
+   "text": "&",
+   "conf": 0.93
+  },
+  {
+   "text": "non",
+   "conf": 0.92
+  },
+  {
+   "text": "~exchangeable",
+   "conf": 0.79
+  },
+  {
+   "text": "#*xksperial",
+   "conf": 0.12
+  },
+  {
+   "text": "oramntioan",
+   "conf": 0.09
+  }
+ ],
+ "mean_conf": 0.8307,
+ "low_conf_share": 0.0744,
+ "latency_ms": 1484,
+ "fields": {
+  "company": "FOR STAY LEARY SAAG FOOTE FARMASI MALURI S B",
+  "date": "2018-03-02",
+  "total": 7.0
+ },
+ "rule_reasons": [
+  "total_no_keyword_fallback_max"
+ ],
+ "total_candidates": [
+  0.0,
+  7.0,
+  0.0,
+  4.1
+ ],
+ "key": "X51005685357"
+}

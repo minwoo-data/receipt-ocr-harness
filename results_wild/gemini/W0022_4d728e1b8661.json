@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.6-flash",
+ "provider": "gemini",
+ "raw_text": "{\"vendor\": \"COSITAS RICAS\", \"date\": \"2012-01-14\", \"subtotal\": 24.95, \"tax\": null, \"tip\": null, \"discount\": null, \"total\": 30.45, \"currency\": \"USD\", \"confidence\": 0.95, \"notes\": \"Tax is not explicitly itemized on the receipt, but included in the total.\"}",
+ "data": {
+  "vendor": "COSITAS RICAS",
+  "date": "2012-01-14",
+  "subtotal": 24.95,
+  "tax": null,
+  "tip": null,
+  "discount": null,
+  "total": 30.45,
+  "currency": "USD",
+  "confidence": 0.95,
+  "notes": "Tax is not explicitly itemized on the receipt, but included in the total."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1440,
+  "output_tokens": 97,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.001444,
+ "latency_ms": 2474,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.6-flash",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.6-flash"
+ ],
+ "key": "W0022_4d728e1b8661"
+}

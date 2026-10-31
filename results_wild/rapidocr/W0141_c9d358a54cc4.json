@@ -1,0 +1,163 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "Union",
+  "Pax:2 OP:Den Adrian TABLE:22 POS:P0S007 Tri",
+  "POS Title:P0S007 Rcpt#:B17000000398 29/07/201711:23",
+  "1Caesar Sld 95,000",
+  "1Nasi Babi Garing 140,000",
+  "1TropicBerry 55,000",
+  "ITENS TOTAL 290,000",
+  "10% Bill Disc 29,000)",
+  "SUBTOTAL 261,000",
+  "SERVICE 26,100",
+  "TAX 28,710",
+  "Subtotal BEVERAGES 49,500",
+  "Subtotal FODDS 211,500",
+  "TOTAL 315,810",
+  "Enail Address :"
+ ],
+ "tokens": [
+  {
+   "text": "Union",
+   "conf": 0.9487844347953797
+  },
+  {
+   "text": "TABLE:22",
+   "conf": 0.9675159230828285
+  },
+  {
+   "text": "Pax:2",
+   "conf": 0.9386902570724487
+  },
+  {
+   "text": "Tri",
+   "conf": 0.9734135468800863
+  },
+  {
+   "text": "POS Title:P0S007",
+   "conf": 0.9131492190063
+  },
+  {
+   "text": "OP:Den Adrian",
+   "conf": 0.9620152574319106
+  },
+  {
+   "text": "POS:P0S007",
+   "conf": 0.9307842254638672
+  },
+  {
+   "text": "Rcpt#:B17000000398",
+   "conf": 0.9881674183739556
+  },
+  {
+   "text": "29/07/201711:23",
+   "conf": 0.9904890457789103
+  },
+  {
+   "text": "1Caesar Sld",
+   "conf": 0.9259538433768533
+  },
+  {
+   "text": "95,000",
+   "conf": 0.9883918166160583
+  },
+  {
+   "text": "1Nasi Babi Garing",
+   "conf": 0.9747366274104399
+  },
+  {
+   "text": "140,000",
+   "conf": 0.9664342147963387
+  },
+  {
+   "text": "1TropicBerry",
+   "conf": 0.9797275364398956
+  },
+  {
+   "text": "55,000",
+   "conf": 0.987678458293279
+  },
+  {
+   "text": "ITENS TOTAL",
+   "conf": 0.9463010105219755
+  },
+  {
+   "text": "290,000",
+   "conf": 0.984942615032196
+  },
+  {
+   "text": "10% Bill Disc",
+   "conf": 0.9090995192527771
+  },
+  {
+   "text": "29,000)",
+   "conf": 0.9389607991491046
+  },
+  {
+   "text": "SUBTOTAL",
+   "conf": 0.9915662482380867
+  },
+  {
+   "text": "261,000",
+   "conf": 0.9933414118630546
+  },
+  {
+   "text": "SERVICE",
+   "conf": 0.9949789643287659
+  },
+  {
+   "text": "26,100",
+   "conf": 0.9810617168744405
+  },
+  {
+   "text": "TAX",
+   "conf": 0.9921753207842509
+  },
+  {
+   "text": "28,710",
+   "conf": 0.979191780090332
+  },
+  {
+   "text": "Subtotal BEVERAGES",
+   "conf": 0.9898460408051809
+  },
+  {
+   "text": "Subtotal FODDS",
+   "conf": 0.9202631690672466
+  },
+  {
+   "text": "49,500",
+   "conf": 0.9509406288464864
+  },
+  {
+   "text": "211,500",
+   "conf": 0.9882009284836906
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.993875527381897
+  },
+  {
+   "text": "315,810",
+   "conf": 0.9825483475412641
+  },
+  {
+   "text": "Enail Address :",
+   "conf": 0.9106342236200968
+  }
+ ],
+ "mean_conf": 0.9651,
+ "low_conf_share": 0.0,
+ "latency_ms": 3250,
+ "fields": {
+  "company": "UNION",
+  "date": "2017-07-29",
+  "total": null
+ },
+ "rule_reasons": [
+  "total_not_found"
+ ],
+ "total_candidates": [],
+ "key": "W0141_c9d358a54cc4"
+}

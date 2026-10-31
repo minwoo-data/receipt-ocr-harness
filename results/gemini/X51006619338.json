@@ -1,0 +1,50 @@
+{
+ "engine": "gemini-3.6-flash",
+ "provider": "gemini",
+ "raw_text": "{\"vendor\":\"99 SPEED MART S/B\",\"date\":\"2016-01-31\",\"subtotal\":262.2,\"tax\":0.0,\"tip\":null,\"discount\":null,\"total\":262.2,\"currency\":\"MYR\",\"confidence\":0.95,\"notes\":null}",
+ "data": {
+  "vendor": "99 SPEED MART S/B",
+  "date": "2016-01-31",
+  "subtotal": 262.2,
+  "tax": 0.0,
+  "tip": null,
+  "discount": null,
+  "total": 262.2,
+  "currency": "MYR",
+  "confidence": 0.95,
+  "notes": null
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1473,
+  "output_tokens": 71,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.001371,
+ "latency_ms": 13402,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.6-flash",
+   "ok": false,
+   "error": "429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",
+   "attempt": 1,
+   "config": 0
+  },
+  {
+   "provider": "gemini",
+   "model": "gemini-3.6-flash",
+   "ok": true,
+   "error": null,
+   "attempt": 2,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.6-flash"
+ ],
+ "key": "X51006619338"
+}

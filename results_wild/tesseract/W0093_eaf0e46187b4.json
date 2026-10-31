@@ -1,0 +1,408 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "Piola - Brickell",
+  "1250 South Mian Avenue",
+  "Mian. FLT",
+  "(05) 374 0031",
+  "mm-piola tt",
+  "Dee 28 e013 11508 PM",
+  "Server: laura",
+  "Order Mage Table 2",
+  "Order: MR6W2TA Dec 28 2013 10:26:02 PH",
+  "Order Type: Bine-tn Seats:",
+  "1 901 Panna 0,",
+  "1-19 Quattro For yea",
+  "1 118 Pista 100",
+  "ABD Orives (1.50)",
+  "1 - 720 Crewe 4i Papaya 650",
+  "1+ 125 Coppa Piota 650",
+  "Sub Totat= 46 G0",
+  "Sales lax 3-68",
+  "Total 49.60",
+  "Amt. Due 49 60",
+  "TP Guibe",
+  "15: 6.90",
+  "20 9.20",
+  "Thank you Tor coming!",
+  "owing!",
+  "HE PIOLA IT"
+ ],
+ "tokens": [
+  {
+   "text": "Piola",
+   "conf": 0.56
+  },
+  {
+   "text": "-",
+   "conf": 0.31
+  },
+  {
+   "text": "Brickell",
+   "conf": 0.57
+  },
+  {
+   "text": "1250",
+   "conf": 0.65
+  },
+  {
+   "text": "South",
+   "conf": 0.71
+  },
+  {
+   "text": "Mian",
+   "conf": 0.0
+  },
+  {
+   "text": "Avenue",
+   "conf": 0.83
+  },
+  {
+   "text": "Mian.",
+   "conf": 0.05
+  },
+  {
+   "text": "FLT",
+   "conf": 0.19
+  },
+  {
+   "text": "(05)",
+   "conf": 0.7
+  },
+  {
+   "text": "374",
+   "conf": 0.69
+  },
+  {
+   "text": "0031",
+   "conf": 0.69
+  },
+  {
+   "text": "mm-piola",
+   "conf": 0.1
+  },
+  {
+   "text": "tt",
+   "conf": 0.33
+  },
+  {
+   "text": "Dee",
+   "conf": 0.57
+  },
+  {
+   "text": "28",
+   "conf": 0.62
+  },
+  {
+   "text": "e013",
+   "conf": 0.46
+  },
+  {
+   "text": "11508",
+   "conf": 0.43
+  },
+  {
+   "text": "PM",
+   "conf": 0.56
+  },
+  {
+   "text": "Server:",
+   "conf": 0.27
+  },
+  {
+   "text": "laura",
+   "conf": 0.43
+  },
+  {
+   "text": "Order",
+   "conf": 0.87
+  },
+  {
+   "text": "Mage",
+   "conf": 0.13
+  },
+  {
+   "text": "Table",
+   "conf": 0.91
+  },
+  {
+   "text": "2",
+   "conf": 0.57
+  },
+  {
+   "text": "Order:",
+   "conf": 0.51
+  },
+  {
+   "text": "MR6W2TA",
+   "conf": 0.0
+  },
+  {
+   "text": "Dec",
+   "conf": 0.24
+  },
+  {
+   "text": "28",
+   "conf": 0.82
+  },
+  {
+   "text": "2013",
+   "conf": 0.82
+  },
+  {
+   "text": "10:26:02",
+   "conf": 0.68
+  },
+  {
+   "text": "PH",
+   "conf": 0.41
+  },
+  {
+   "text": "Order",
+   "conf": 0.57
+  },
+  {
+   "text": "Type:",
+   "conf": 0.78
+  },
+  {
+   "text": "Bine-tn",
+   "conf": 0.61
+  },
+  {
+   "text": "Seats:",
+   "conf": 0.24
+  },
+  {
+   "text": "1",
+   "conf": 0.07
+  },
+  {
+   "text": "901",
+   "conf": 0.76
+  },
+  {
+   "text": "Panna",
+   "conf": 0.82
+  },
+  {
+   "text": "0,",
+   "conf": 0.36
+  },
+  {
+   "text": "1-19",
+   "conf": 0.34
+  },
+  {
+   "text": "Quattro",
+   "conf": 0.51
+  },
+  {
+   "text": "For",
+   "conf": 0.96
+  },
+  {
+   "text": "yea",
+   "conf": 0.28
+  },
+  {
+   "text": "1",
+   "conf": 0.46
+  },
+  {
+   "text": "118",
+   "conf": 0.55
+  },
+  {
+   "text": "Pista",
+   "conf": 0.65
+  },
+  {
+   "text": "100",
+   "conf": 0.37
+  },
+  {
+   "text": "ABD",
+   "conf": 0.47
+  },
+  {
+   "text": "Orives",
+   "conf": 0.24
+  },
+  {
+   "text": "(1.50)",
+   "conf": 0.64
+  },
+  {
+   "text": "1",
+   "conf": 0.49
+  },
+  {
+   "text": "-",
+   "conf": 0.32
+  },
+  {
+   "text": "720",
+   "conf": 0.74
+  },
+  {
+   "text": "Crewe",
+   "conf": 0.3
+  },
+  {
+   "text": "4i",
+   "conf": 0.76
+  },
+  {
+   "text": "Papaya",
+   "conf": 0.5
+  },
+  {
+   "text": "650",
+   "conf": 0.68
+  },
+  {
+   "text": "1+",
+   "conf": 0.25
+  },
+  {
+   "text": "125",
+   "conf": 0.8
+  },
+  {
+   "text": "Coppa",
+   "conf": 0.86
+  },
+  {
+   "text": "Piota",
+   "conf": 0.72
+  },
+  {
+   "text": "650",
+   "conf": 0.69
+  },
+  {
+   "text": "Sub",
+   "conf": 0.89
+  },
+  {
+   "text": "Totat=",
+   "conf": 0.57
+  },
+  {
+   "text": "46",
+   "conf": 0.68
+  },
+  {
+   "text": "G0",
+   "conf": 0.55
+  },
+  {
+   "text": "Sales",
+   "conf": 0.86
+  },
+  {
+   "text": "lax",
+   "conf": 0.86
+  },
+  {
+   "text": "3-68",
+   "conf": 0.65
+  },
+  {
+   "text": "Total",
+   "conf": 0.68
+  },
+  {
+   "text": "49.60",
+   "conf": 0.4
+  },
+  {
+   "text": "Amt.",
+   "conf": 0.53
+  },
+  {
+   "text": "Due",
+   "conf": 0.74
+  },
+  {
+   "text": "49",
+   "conf": 0.47
+  },
+  {
+   "text": "60",
+   "conf": 0.47
+  },
+  {
+   "text": "TP",
+   "conf": 0.58
+  },
+  {
+   "text": "Guibe",
+   "conf": 0.0
+  },
+  {
+   "text": "15:",
+   "conf": 0.0
+  },
+  {
+   "text": "6.90",
+   "conf": 0.91
+  },
+  {
+   "text": "20",
+   "conf": 0.36
+  },
+  {
+   "text": "9.20",
+   "conf": 0.63
+  },
+  {
+   "text": "Thank",
+   "conf": 0.77
+  },
+  {
+   "text": "you",
+   "conf": 0.75
+  },
+  {
+   "text": "Tor",
+   "conf": 0.54
+  },
+  {
+   "text": "coming!",
+   "conf": 0.54
+  },
+  {
+   "text": "owing!",
+   "conf": 0.0
+  },
+  {
+   "text": "HE",
+   "conf": 0.27
+  },
+  {
+   "text": "PIOLA",
+   "conf": 0.0
+  },
+  {
+   "text": "IT",
+   "conf": 0.25
+  }
+ ],
+ "mean_conf": 0.5158,
+ "low_conf_share": 0.4111,
+ "latency_ms": 793,
+ "fields": {
+  "company": "PIOLA BRICKELL",
+  "date": null,
+  "total": 49.6
+ },
+ "rule_reasons": [
+  "date_not_found"
+ ],
+ "total_candidates": [
+  49.6
+ ],
+ "key": "W0093_eaf0e46187b4"
+}

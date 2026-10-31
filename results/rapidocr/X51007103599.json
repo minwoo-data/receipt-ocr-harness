@@ -1,0 +1,196 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "MR.D.I.Y.(M) SDN BHD",
+  "(C0.REG:860671-D)",
+  "L0T 1851-A&1851-B,JALANKPB6,",
+  "KAWASAN PERINDUSTRIAN BALAKONG",
+  "4330O SERI KEMBANGAN,SELANGOR",
+  "(GSTIDN0:000306020352)",
+  "(IOI PUCHONG)",
+  "-TAX INVOICE-",
+  "*S",
+  "OPENER SS MT-005",
+  "AI31-12/108 9064430 1X 8.80 8.80 *S",
+  "PLASTIC BAGS 99999 1 X 0.20 0.20",
+  "Item(s) : 2 Qty(s) : 2",
+  "Total Incl. GST@6% RM 10.00 RM 9.00",
+  "CASH RM1.00",
+  "CHANGE",
+  "GST @6% included in total RM 0.51",
+  "*一 11-04-1817:42SH01ZJ86 T2 R000116475",
+  "OPERATOR IOIT- NUR FATIHAH",
+  "EXCHANGE ARE ALLOWED WITHIN",
+  "7 DAY WITH RECEIPT.",
+  "STRICTLY NO CASH REFUND."
+ ],
+ "tokens": [
+  {
+   "text": "MR.D.I.Y.(M) SDN BHD",
+   "conf": 0.9088733941316605
+  },
+  {
+   "text": "(C0.REG:860671-D)",
+   "conf": 0.929357696981991
+  },
+  {
+   "text": "L0T 1851-A&1851-B,JALANKPB6,",
+   "conf": 0.9259800463914871
+  },
+  {
+   "text": "KAWASAN PERINDUSTRIAN BALAKONG",
+   "conf": 0.9562672058741252
+  },
+  {
+   "text": "4330O SERI KEMBANGAN,SELANGOR",
+   "conf": 0.9519373425121965
+  },
+  {
+   "text": "(GSTIDN0:000306020352)",
+   "conf": 0.9645960981195624
+  },
+  {
+   "text": "(IOI PUCHONG)",
+   "conf": 0.9397551325651315
+  },
+  {
+   "text": "-TAX INVOICE-",
+   "conf": 0.95403469984348
+  },
+  {
+   "text": "*S",
+   "conf": 0.9627931714057922
+  },
+  {
+   "text": "OPENER SS MT-005",
+   "conf": 0.9113353788852692
+  },
+  {
+   "text": "AI31-12/108",
+   "conf": 0.9895791086283597
+  },
+  {
+   "text": "8.80",
+   "conf": 0.9997709095478058
+  },
+  {
+   "text": "8.80",
+   "conf": 0.9996368139982224
+  },
+  {
+   "text": "1X",
+   "conf": 0.8862402737140656
+  },
+  {
+   "text": "9064430",
+   "conf": 0.9984490615980965
+  },
+  {
+   "text": "*S",
+   "conf": 0.9771206080913544
+  },
+  {
+   "text": "PLASTIC BAGS",
+   "conf": 0.9750260561704636
+  },
+  {
+   "text": "1 X",
+   "conf": 0.7661817272504171
+  },
+  {
+   "text": "0.20",
+   "conf": 0.9995331913232803
+  },
+  {
+   "text": "0.20",
+   "conf": 0.9997473955154419
+  },
+  {
+   "text": "99999",
+   "conf": 0.999246871471405
+  },
+  {
+   "text": "Qty(s) : 2",
+   "conf": 0.8825514316558838
+  },
+  {
+   "text": "Item(s) : 2",
+   "conf": 0.9859893755479292
+  },
+  {
+   "text": "RM 9.00",
+   "conf": 0.9892571568489075
+  },
+  {
+   "text": "Total Incl. GST@6%",
+   "conf": 0.9605311254660288
+  },
+  {
+   "text": "RM 10.00",
+   "conf": 0.9536333084106445
+  },
+  {
+   "text": "CASH",
+   "conf": 0.9967188686132431
+  },
+  {
+   "text": "RM1.00",
+   "conf": 0.9985814094543457
+  },
+  {
+   "text": "CHANGE",
+   "conf": 0.9759775300820669
+  },
+  {
+   "text": "RM 0.51",
+   "conf": 0.9693552681377956
+  },
+  {
+   "text": "GST @6% included in total",
+   "conf": 0.9866087341308594
+  },
+  {
+   "text": "*一",
+   "conf": 0.7251675426959991
+  },
+  {
+   "text": "T2 R000116475",
+   "conf": 0.9652833801049453
+  },
+  {
+   "text": "11-04-1817:42SH01ZJ86",
+   "conf": 0.9930227512405032
+  },
+  {
+   "text": "OPERATOR IOIT- NUR FATIHAH",
+   "conf": 0.926659535903197
+  },
+  {
+   "text": "EXCHANGE ARE ALLOWED WITHIN",
+   "conf": 0.9709909823205736
+  },
+  {
+   "text": "7 DAY WITH RECEIPT.",
+   "conf": 0.9255539367073461
+  },
+  {
+   "text": "STRICTLY NO CASH REFUND.",
+   "conf": 0.9337303563952446
+  }
+ ],
+ "mean_conf": 0.9509,
+ "low_conf_share": 0.0,
+ "latency_ms": 5761,
+ "fields": {
+  "company": "MR D I Y SDN BHD",
+  "date": null,
+  "total": 9.0
+ },
+ "rule_reasons": [
+  "date_not_found"
+ ],
+ "total_candidates": [
+  9.0
+ ],
+ "key": "X51007103599"
+}

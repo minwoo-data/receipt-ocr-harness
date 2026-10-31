@@ -1,0 +1,328 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "if",
+  "HOLA CUBAN CAFE, INC",
+  "117 CENTER ST",
+  "FERNANDINA BEACH, FL 32034",
+  "ph (786) 226-7042",
+  "Thank You for Visiting",
+  "TABLE: 08 - 1 Guest",
+  "Your Server was Chris",
+  "7/15/2016 1:03:03 PH - 10 #: 0108681",
+  "Tren QTY PRICE",
+  "Pan Con Lechon 1 $7.50",
+  "- Add Cheese $0.50",
+  "Media Noche 1 $7.50",
+  "Papa Rellena 1 $3.25",
+  "Bottled Hater (4@$1.06) $4.00",
+  "Colada 1 $2.50",
+  "Subtotal 25",
+  "_ Total Taxes ?",
+  "Pere $27.02"
+ ],
+ "tokens": [
+  {
+   "text": "if",
+   "conf": 0.8
+  },
+  {
+   "text": "HOLA",
+   "conf": 0.95
+  },
+  {
+   "text": "CUBAN",
+   "conf": 0.95
+  },
+  {
+   "text": "CAFE,",
+   "conf": 0.87
+  },
+  {
+   "text": "INC",
+   "conf": 0.94
+  },
+  {
+   "text": "117",
+   "conf": 0.94
+  },
+  {
+   "text": "CENTER",
+   "conf": 0.93
+  },
+  {
+   "text": "ST",
+   "conf": 0.96
+  },
+  {
+   "text": "FERNANDINA",
+   "conf": 0.9
+  },
+  {
+   "text": "BEACH,",
+   "conf": 0.96
+  },
+  {
+   "text": "FL",
+   "conf": 0.55
+  },
+  {
+   "text": "32034",
+   "conf": 0.55
+  },
+  {
+   "text": "ph",
+   "conf": 0.92
+  },
+  {
+   "text": "(786)",
+   "conf": 0.88
+  },
+  {
+   "text": "226-7042",
+   "conf": 0.91
+  },
+  {
+   "text": "Thank",
+   "conf": 0.96
+  },
+  {
+   "text": "You",
+   "conf": 0.95
+  },
+  {
+   "text": "for",
+   "conf": 0.95
+  },
+  {
+   "text": "Visiting",
+   "conf": 0.92
+  },
+  {
+   "text": "TABLE:",
+   "conf": 0.91
+  },
+  {
+   "text": "08",
+   "conf": 0.69
+  },
+  {
+   "text": "-",
+   "conf": 0.79
+  },
+  {
+   "text": "1",
+   "conf": 0.88
+  },
+  {
+   "text": "Guest",
+   "conf": 0.95
+  },
+  {
+   "text": "Your",
+   "conf": 0.93
+  },
+  {
+   "text": "Server",
+   "conf": 0.83
+  },
+  {
+   "text": "was",
+   "conf": 0.83
+  },
+  {
+   "text": "Chris",
+   "conf": 0.7
+  },
+  {
+   "text": "7/15/2016",
+   "conf": 0.73
+  },
+  {
+   "text": "1:03:03",
+   "conf": 0.95
+  },
+  {
+   "text": "PH",
+   "conf": 0.75
+  },
+  {
+   "text": "-",
+   "conf": 0.86
+  },
+  {
+   "text": "10",
+   "conf": 0.67
+  },
+  {
+   "text": "#:",
+   "conf": 0.9
+  },
+  {
+   "text": "0108681",
+   "conf": 0.93
+  },
+  {
+   "text": "Tren",
+   "conf": 0.38
+  },
+  {
+   "text": "QTY",
+   "conf": 0.46
+  },
+  {
+   "text": "PRICE",
+   "conf": 0.94
+  },
+  {
+   "text": "Pan",
+   "conf": 0.95
+  },
+  {
+   "text": "Con",
+   "conf": 0.92
+  },
+  {
+   "text": "Lechon",
+   "conf": 0.92
+  },
+  {
+   "text": "1",
+   "conf": 0.64
+  },
+  {
+   "text": "$7.50",
+   "conf": 0.81
+  },
+  {
+   "text": "-",
+   "conf": 0.39
+  },
+  {
+   "text": "Add",
+   "conf": 0.48
+  },
+  {
+   "text": "Cheese",
+   "conf": 0.89
+  },
+  {
+   "text": "$0.50",
+   "conf": 0.93
+  },
+  {
+   "text": "Media",
+   "conf": 0.94
+  },
+  {
+   "text": "Noche",
+   "conf": 0.95
+  },
+  {
+   "text": "1",
+   "conf": 0.74
+  },
+  {
+   "text": "$7.50",
+   "conf": 0.83
+  },
+  {
+   "text": "Papa",
+   "conf": 0.93
+  },
+  {
+   "text": "Rellena",
+   "conf": 0.9
+  },
+  {
+   "text": "1",
+   "conf": 0.72
+  },
+  {
+   "text": "$3.25",
+   "conf": 0.72
+  },
+  {
+   "text": "Bottled",
+   "conf": 0.86
+  },
+  {
+   "text": "Hater",
+   "conf": 0.77
+  },
+  {
+   "text": "(4@$1.06)",
+   "conf": 0.59
+  },
+  {
+   "text": "$4.00",
+   "conf": 0.8
+  },
+  {
+   "text": "Colada",
+   "conf": 0.96
+  },
+  {
+   "text": "1",
+   "conf": 0.76
+  },
+  {
+   "text": "$2.50",
+   "conf": 0.86
+  },
+  {
+   "text": "Subtotal",
+   "conf": 0.85
+  },
+  {
+   "text": "25",
+   "conf": 0.49
+  },
+  {
+   "text": "_",
+   "conf": 0.76
+  },
+  {
+   "text": "Total",
+   "conf": 0.92
+  },
+  {
+   "text": "Taxes",
+   "conf": 0.92
+  },
+  {
+   "text": "?",
+   "conf": 0.0
+  },
+  {
+   "text": "Pere",
+   "conf": 0.31
+  },
+  {
+   "text": "$27.02",
+   "conf": 0.89
+  }
+ ],
+ "mean_conf": 0.8039,
+ "low_conf_share": 0.1,
+ "latency_ms": 1565,
+ "fields": {
+  "company": "HOLA CUBAN CAFE INC",
+  "date": "2016-07-15",
+  "total": 27.02
+ },
+ "rule_reasons": [
+  "total_no_keyword_fallback_max"
+ ],
+ "total_candidates": [
+  7.5,
+  0.5,
+  7.5,
+  3.25,
+  1.06,
+  4.0,
+  2.5,
+  27.02
+ ],
+ "key": "W0102_da97d0d5c54c"
+}

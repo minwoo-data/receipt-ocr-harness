@@ -1,0 +1,251 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "WELC0ME TO BEST BUY#478",
+  "50-01 NORTHERN BOULEVARD",
+  "LONGISLAND CITY,NY 11101",
+  "(718)626-7585",
+  "New York City",
+  "Dept.of Consumer Affairs",
+  "License Numbers: 1061558,1059186",
+  "Val#:0427-4304-5273-0799",
+  "0478002390003/21/03 15:490234541",
+  "SALE",
+  "4274779 25301475 16.99",
+  "50PK 16X CDR SPINDLE",
+  "4766809 7981A004 9.99",
+  "CANONPHOTO MATTEPAPER8.5X1",
+  "SUBTOTAL 26.98",
+  "SALESTAX8.25% 2.23",
+  "TOTAL 29.21",
+  "XXXXXXXXXXXX DEBIT 29.21",
+  "MARK THOMAS",
+  "EXP08/09APPR0VAL",
+  "REFERENCENUMBER:047800209715",
+  "IHAVE READ AND AGREED TO ALL RETURN AND",
+  "REFUND POLICIES PRINTED ON THE BACK OF THIS",
+  "RECEIPT AND POSTED IN THESTORE.I HAVE",
+  "RECEIVED GOODSAND/OR SERVICES INTHE",
+  "AMOUNT SHOWN ABOVE.",
+  "ALL RETURNS,EXCHANGES",
+  "AND PRICE MATCHES MUST BE DONE IN THE",
+  "COUNTRY OF ORIGINAL PURCHASE",
+  "BESTBUY.COM RETURN AND EXCHANGE",
+  "INFORMATION AND PRICE MATCH POLICY",
+  "MAY VARY SLIGHTLY FROM [N-STORE POLICY",
+  "PLEASELOG ONTOWWW.BESTBUY.COM",
+  "FOR COMPLETEDETAILS.",
+  "CALL1-888-BESTBUYF0R ALL",
+  "IN-HOME WARRANTY REPAIRS!",
+  "<<<<<CUSTOMERCOPY>>>>>"
+ ],
+ "tokens": [
+  {
+   "text": "WELC0ME TO BEST BUY#478",
+   "conf": 0.910154534422833
+  },
+  {
+   "text": "50-01 NORTHERN BOULEVARD",
+   "conf": 0.9269672681887945
+  },
+  {
+   "text": "LONGISLAND CITY,NY 11101",
+   "conf": 0.9443855484326681
+  },
+  {
+   "text": "(718)626-7585",
+   "conf": 0.9559844090388372
+  },
+  {
+   "text": "New York City",
+   "conf": 0.9742104869622451
+  },
+  {
+   "text": "Dept.of Consumer Affairs",
+   "conf": 0.9592947860558828
+  },
+  {
+   "text": "License Numbers:",
+   "conf": 0.9543948955833912
+  },
+  {
+   "text": "1061558,1059186",
+   "conf": 0.9736129601796468
+  },
+  {
+   "text": "Val#:0427-4304-5273-0799",
+   "conf": 0.9741389453411102
+  },
+  {
+   "text": "0478002390003/21/03",
+   "conf": 0.9981829931861476
+  },
+  {
+   "text": "15:490234541",
+   "conf": 0.9886884093284607
+  },
+  {
+   "text": "SALE",
+   "conf": 0.9907093346118927
+  },
+  {
+   "text": "4274779",
+   "conf": 0.9974121621676854
+  },
+  {
+   "text": "25301475",
+   "conf": 0.9975424706935883
+  },
+  {
+   "text": "16.99",
+   "conf": 0.9984628558158875
+  },
+  {
+   "text": "50PK 16X CDR SPINDLE",
+   "conf": 0.9449825048446655
+  },
+  {
+   "text": "4766809",
+   "conf": 0.9980853029659816
+  },
+  {
+   "text": "7981A004",
+   "conf": 0.9898556172847748
+  },
+  {
+   "text": "9.99",
+   "conf": 0.9973432123661041
+  },
+  {
+   "text": "CANONPHOTO MATTEPAPER8.5X1",
+   "conf": 0.9480307102203369
+  },
+  {
+   "text": "SUBTOTAL",
+   "conf": 0.993188314139843
+  },
+  {
+   "text": "26.98",
+   "conf": 0.9983763933181763
+  },
+  {
+   "text": "SALESTAX8.25%",
+   "conf": 0.9864956415616549
+  },
+  {
+   "text": "2.23",
+   "conf": 0.9955124408006668
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.9629536151885987
+  },
+  {
+   "text": "29.21",
+   "conf": 0.9952393412590027
+  },
+  {
+   "text": "XXXXXXXXXXXX",
+   "conf": 0.8672876805067062
+  },
+  {
+   "text": "DEBIT",
+   "conf": 0.9866253137588501
+  },
+  {
+   "text": "29.21",
+   "conf": 0.99800546169281
+  },
+  {
+   "text": "MARK THOMAS",
+   "conf": 0.9647394635460593
+  },
+  {
+   "text": "EXP08/09APPR0VAL",
+   "conf": 0.9928385615348816
+  },
+  {
+   "text": "REFERENCENUMBER:047800209715",
+   "conf": 0.991366731269019
+  },
+  {
+   "text": "IHAVE READ AND AGREED TO ALL RETURN AND",
+   "conf": 0.94101061576452
+  },
+  {
+   "text": "REFUND POLICIES PRINTED ON THE BACK OF THIS",
+   "conf": 0.9490207045577294
+  },
+  {
+   "text": "RECEIPT AND POSTED IN THESTORE.I HAVE",
+   "conf": 0.9422207732458372
+  },
+  {
+   "text": "RECEIVED GOODSAND/OR SERVICES INTHE",
+   "conf": 0.960046442917415
+  },
+  {
+   "text": "AMOUNT SHOWN ABOVE.",
+   "conf": 0.9457792514248898
+  },
+  {
+   "text": "ALL RETURNS,EXCHANGES",
+   "conf": 0.9508407513300577
+  },
+  {
+   "text": "AND PRICE MATCHES MUST BE DONE IN THE",
+   "conf": 0.9522757336900041
+  },
+  {
+   "text": "COUNTRY OF ORIGINAL PURCHASE",
+   "conf": 0.9518899321556091
+  },
+  {
+   "text": "BESTBUY.COM RETURN AND EXCHANGE",
+   "conf": 0.9474169535021628
+  },
+  {
+   "text": "INFORMATION AND PRICE MATCH POLICY",
+   "conf": 0.9518676470307743
+  },
+  {
+   "text": "MAY VARY SLIGHTLY FROM [N-STORE POLICY",
+   "conf": 0.9262084474689082
+  },
+  {
+   "text": "PLEASELOG ONTOWWW.BESTBUY.COM",
+   "conf": 0.9525896536892858
+  },
+  {
+   "text": "FOR COMPLETEDETAILS.",
+   "conf": 0.9537922263145446
+  },
+  {
+   "text": "CALL1-888-BESTBUYF0R ALL",
+   "conf": 0.9677286371588707
+  },
+  {
+   "text": "IN-HOME WARRANTY REPAIRS!",
+   "conf": 0.9621243095397949
+  },
+  {
+   "text": "<<<<<CUSTOMERCOPY>>>>>",
+   "conf": 0.9416101927107031
+  }
+ ],
+ "mean_conf": 0.9657,
+ "low_conf_share": 0.0,
+ "latency_ms": 7168,
+ "fields": {
+  "company": "WELC0ME TO BEST BUY 478",
+  "date": null,
+  "total": 29.21
+ },
+ "rule_reasons": [
+  "date_not_found"
+ ],
+ "total_candidates": [
+  29.21
+ ],
+ "key": "W0043_2286"
+}

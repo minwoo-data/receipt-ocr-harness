@@ -1,0 +1,1037 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "AEGN CO. (M) BHD (126926-H)",
+  "3RD FLR, AEON TAMAN MALURI SC ss",
+  "JUN JEJASA, TAMAN MALURI",
+  "CHERAS, 55100 KUALA LUMPUR a",
+  "GST ID ; 002017394688",
+  "SHOPPING HOURS |",
+  "SUN-THU: 1000 HRS - 2230 HRo : :",
+  "m FRI-SAT: 1000 HRS ~ 2300 HRS . a -",
+  "VALUED CUSTOMER: 1250065685 :",
+  "ix 000602007038 : 3.2058",
+  "T/BERG LETTUCE",
+  "1x 0000002465 70 17.925R , .",
+  "DRTED FIGS | oo",
+  "Ix 000000812627 10,308R |",
+  "US RED GLOBE ,",
+  "Ix 090005550006 6. 500R",
+  "Le ORGANIC SUYE '",
+  "1x 000005550036 6.5058 ,",
+  "; LE GRGANIC SOYS",
+  "Ix 050000802185 0.6058",
+  ". HOLLAND POTATO",
+  "1x G00000342627 16.505R",
+  "CF TWIN PACK RA",
+  "1x 000005771055 8, 965K",
+  "TOPVALU",
+  "ix GO000577 1079 § S658 | :",
+  "TOPVALU TOILET , .",
+  "Sub-tota | 19,44",
+  "Tatal Saies Inc] GST 19.44",
+  "Rounding Adj 0.01 ,",
+  "Total After Adj Incl GST 79.45 | |",
+  "VISA 19.45",
+  "Ace Now: 4031499937 }",
+  "Tien Count 9 Change Amt U UC",
+  "Invoice No: 2018060310100050214 ‘",
+  "GoT Summary Amount Tax",
+  "SR @ O% 19,44 0.00",
+  "Total 19.44 0.00",
+  "03/06/2018 16:49 1610 005. GO50214",
+  ": 0301655 Py NORAZTLAK",
+  "| REGULAR STAMP(S) : 2",
+  "BONUS STAMP(S) 2 0",
+  "TOTAL STAMP(S) 9: 2 |",
+  ", AEQN Stamps Loyalty Program “Product(s)° oO |",
+  "sold are neither exchangeable nor :",
+  "oO , refundable",
+  "AEON PERMAS JAYA | :",
+  "TEL 1-300-80-AEON (2366) ! »",
+  "THANK YOU FOR YOUR PATRONAGE : -",
+  "PLEASE COME AGAIN , - }",
+  "REHEAT ET wae :",
+  "| a",
+  "PE HU ae |"
+ ],
+ "tokens": [
+  {
+   "text": "AEGN",
+   "conf": 0.77
+  },
+  {
+   "text": "CO.",
+   "conf": 0.92
+  },
+  {
+   "text": "(M)",
+   "conf": 0.9
+  },
+  {
+   "text": "BHD",
+   "conf": 0.93
+  },
+  {
+   "text": "(126926-H)",
+   "conf": 0.9
+  },
+  {
+   "text": "3RD",
+   "conf": 0.67
+  },
+  {
+   "text": "FLR,",
+   "conf": 0.74
+  },
+  {
+   "text": "AEON",
+   "conf": 0.4
+  },
+  {
+   "text": "TAMAN",
+   "conf": 0.9
+  },
+  {
+   "text": "MALURI",
+   "conf": 0.76
+  },
+  {
+   "text": "SC",
+   "conf": 0.6
+  },
+  {
+   "text": "ss",
+   "conf": 0.0
+  },
+  {
+   "text": "JUN",
+   "conf": 0.41
+  },
+  {
+   "text": "JEJASA,",
+   "conf": 0.71
+  },
+  {
+   "text": "TAMAN",
+   "conf": 0.91
+  },
+  {
+   "text": "MALURI",
+   "conf": 0.78
+  },
+  {
+   "text": "CHERAS,",
+   "conf": 0.89
+  },
+  {
+   "text": "55100",
+   "conf": 0.96
+  },
+  {
+   "text": "KUALA",
+   "conf": 0.96
+  },
+  {
+   "text": "LUMPUR",
+   "conf": 0.96
+  },
+  {
+   "text": "a",
+   "conf": 0.0
+  },
+  {
+   "text": "GST",
+   "conf": 0.93
+  },
+  {
+   "text": "ID",
+   "conf": 0.83
+  },
+  {
+   "text": ";",
+   "conf": 0.71
+  },
+  {
+   "text": "002017394688",
+   "conf": 0.79
+  },
+  {
+   "text": "SHOPPING",
+   "conf": 0.95
+  },
+  {
+   "text": "HOURS",
+   "conf": 0.93
+  },
+  {
+   "text": "|",
+   "conf": 0.51
+  },
+  {
+   "text": "SUN-THU:",
+   "conf": 0.66
+  },
+  {
+   "text": "1000",
+   "conf": 0.66
+  },
+  {
+   "text": "HRS",
+   "conf": 0.86
+  },
+  {
+   "text": "-",
+   "conf": 0.84
+  },
+  {
+   "text": "2230",
+   "conf": 0.77
+  },
+  {
+   "text": "HRo",
+   "conf": 0.39
+  },
+  {
+   "text": ":",
+   "conf": 0.02
+  },
+  {
+   "text": ":",
+   "conf": 0.21
+  },
+  {
+   "text": "m",
+   "conf": 0.0
+  },
+  {
+   "text": "FRI-SAT:",
+   "conf": 0.1
+  },
+  {
+   "text": "1000",
+   "conf": 0.1
+  },
+  {
+   "text": "HRS",
+   "conf": 0.91
+  },
+  {
+   "text": "~",
+   "conf": 0.58
+  },
+  {
+   "text": "2300",
+   "conf": 0.86
+  },
+  {
+   "text": "HRS",
+   "conf": 0.68
+  },
+  {
+   "text": ".",
+   "conf": 0.31
+  },
+  {
+   "text": "a",
+   "conf": 0.0
+  },
+  {
+   "text": "-",
+   "conf": 0.0
+  },
+  {
+   "text": "VALUED",
+   "conf": 0.91
+  },
+  {
+   "text": "CUSTOMER:",
+   "conf": 0.94
+  },
+  {
+   "text": "1250065685",
+   "conf": 0.93
+  },
+  {
+   "text": ":",
+   "conf": 0.0
+  },
+  {
+   "text": "ix",
+   "conf": 0.88
+  },
+  {
+   "text": "000602007038",
+   "conf": 0.0
+  },
+  {
+   "text": ":",
+   "conf": 0.37
+  },
+  {
+   "text": "3.2058",
+   "conf": 0.54
+  },
+  {
+   "text": "T/BERG",
+   "conf": 0.47
+  },
+  {
+   "text": "LETTUCE",
+   "conf": 0.03
+  },
+  {
+   "text": "1x",
+   "conf": 0.5
+  },
+  {
+   "text": "0000002465",
+   "conf": 0.65
+  },
+  {
+   "text": "70",
+   "conf": 0.7
+  },
+  {
+   "text": "17.925R",
+   "conf": 0.28
+  },
+  {
+   "text": ",",
+   "conf": 0.0
+  },
+  {
+   "text": ".",
+   "conf": 0.33
+  },
+  {
+   "text": "DRTED",
+   "conf": 0.33
+  },
+  {
+   "text": "FIGS",
+   "conf": 0.92
+  },
+  {
+   "text": "|",
+   "conf": 0.59
+  },
+  {
+   "text": "oo",
+   "conf": 0.04
+  },
+  {
+   "text": "Ix",
+   "conf": 0.69
+  },
+  {
+   "text": "000000812627",
+   "conf": 0.81
+  },
+  {
+   "text": "10,308R",
+   "conf": 0.57
+  },
+  {
+   "text": "|",
+   "conf": 0.36
+  },
+  {
+   "text": "US",
+   "conf": 0.95
+  },
+  {
+   "text": "RED",
+   "conf": 0.95
+  },
+  {
+   "text": "GLOBE",
+   "conf": 0.95
+  },
+  {
+   "text": ",",
+   "conf": 0.0
+  },
+  {
+   "text": "Ix",
+   "conf": 0.47
+  },
+  {
+   "text": "090005550006",
+   "conf": 0.68
+  },
+  {
+   "text": "6.",
+   "conf": 0.5
+  },
+  {
+   "text": "500R",
+   "conf": 0.47
+  },
+  {
+   "text": "Le",
+   "conf": 0.69
+  },
+  {
+   "text": "ORGANIC",
+   "conf": 0.91
+  },
+  {
+   "text": "SUYE",
+   "conf": 0.29
+  },
+  {
+   "text": "'",
+   "conf": 0.0
+  },
+  {
+   "text": "1x",
+   "conf": 0.58
+  },
+  {
+   "text": "000005550036",
+   "conf": 0.69
+  },
+  {
+   "text": "6.5058",
+   "conf": 0.69
+  },
+  {
+   "text": ",",
+   "conf": 0.0
+  },
+  {
+   "text": ";",
+   "conf": 0.24
+  },
+  {
+   "text": "LE",
+   "conf": 0.92
+  },
+  {
+   "text": "GRGANIC",
+   "conf": 0.81
+  },
+  {
+   "text": "SOYS",
+   "conf": 0.0
+  },
+  {
+   "text": "Ix",
+   "conf": 0.81
+  },
+  {
+   "text": "050000802185",
+   "conf": 0.8
+  },
+  {
+   "text": "0.6058",
+   "conf": 0.49
+  },
+  {
+   "text": ".",
+   "conf": 0.0
+  },
+  {
+   "text": "HOLLAND",
+   "conf": 0.94
+  },
+  {
+   "text": "POTATO",
+   "conf": 0.94
+  },
+  {
+   "text": "1x",
+   "conf": 0.27
+  },
+  {
+   "text": "G00000342627",
+   "conf": 0.66
+  },
+  {
+   "text": "16.505R",
+   "conf": 0.3
+  },
+  {
+   "text": "CF",
+   "conf": 0.95
+  },
+  {
+   "text": "TWIN",
+   "conf": 0.96
+  },
+  {
+   "text": "PACK",
+   "conf": 0.96
+  },
+  {
+   "text": "RA",
+   "conf": 0.96
+  },
+  {
+   "text": "1x",
+   "conf": 0.81
+  },
+  {
+   "text": "000005771055",
+   "conf": 0.61
+  },
+  {
+   "text": "8,",
+   "conf": 0.61
+  },
+  {
+   "text": "965K",
+   "conf": 0.5
+  },
+  {
+   "text": "TOPVALU",
+   "conf": 0.87
+  },
+  {
+   "text": "ix",
+   "conf": 0.72
+  },
+  {
+   "text": "GO000577",
+   "conf": 0.0
+  },
+  {
+   "text": "1079",
+   "conf": 0.45
+  },
+  {
+   "text": "§",
+   "conf": 0.53
+  },
+  {
+   "text": "S658",
+   "conf": 0.23
+  },
+  {
+   "text": "|",
+   "conf": 0.48
+  },
+  {
+   "text": ":",
+   "conf": 0.37
+  },
+  {
+   "text": "TOPVALU",
+   "conf": 0.91
+  },
+  {
+   "text": "TOILET",
+   "conf": 0.94
+  },
+  {
+   "text": ",",
+   "conf": 0.0
+  },
+  {
+   "text": ".",
+   "conf": 0.15
+  },
+  {
+   "text": "Sub-tota",
+   "conf": 0.9
+  },
+  {
+   "text": "|",
+   "conf": 0.95
+  },
+  {
+   "text": "19,44",
+   "conf": 0.57
+  },
+  {
+   "text": "Tatal",
+   "conf": 0.92
+  },
+  {
+   "text": "Saies",
+   "conf": 0.78
+  },
+  {
+   "text": "Inc]",
+   "conf": 0.69
+  },
+  {
+   "text": "GST",
+   "conf": 0.75
+  },
+  {
+   "text": "19.44",
+   "conf": 0.84
+  },
+  {
+   "text": "Rounding",
+   "conf": 0.26
+  },
+  {
+   "text": "Adj",
+   "conf": 0.89
+  },
+  {
+   "text": "0.01",
+   "conf": 0.93
+  },
+  {
+   "text": ",",
+   "conf": 0.0
+  },
+  {
+   "text": "Total",
+   "conf": 0.73
+  },
+  {
+   "text": "After",
+   "conf": 0.96
+  },
+  {
+   "text": "Adj",
+   "conf": 0.94
+  },
+  {
+   "text": "Incl",
+   "conf": 0.74
+  },
+  {
+   "text": "GST",
+   "conf": 0.64
+  },
+  {
+   "text": "79.45",
+   "conf": 0.83
+  },
+  {
+   "text": "|",
+   "conf": 0.26
+  },
+  {
+   "text": "|",
+   "conf": 0.64
+  },
+  {
+   "text": "VISA",
+   "conf": 0.92
+  },
+  {
+   "text": "19.45",
+   "conf": 0.73
+  },
+  {
+   "text": "Ace",
+   "conf": 0.92
+  },
+  {
+   "text": "Now:",
+   "conf": 0.44
+  },
+  {
+   "text": "4031499937",
+   "conf": 0.26
+  },
+  {
+   "text": "}",
+   "conf": 0.0
+  },
+  {
+   "text": "Tien",
+   "conf": 0.3
+  },
+  {
+   "text": "Count",
+   "conf": 0.95
+  },
+  {
+   "text": "9",
+   "conf": 0.94
+  },
+  {
+   "text": "Change",
+   "conf": 0.64
+  },
+  {
+   "text": "Amt",
+   "conf": 0.9
+  },
+  {
+   "text": "U",
+   "conf": 0.16
+  },
+  {
+   "text": "UC",
+   "conf": 0.16
+  },
+  {
+   "text": "Invoice",
+   "conf": 0.87
+  },
+  {
+   "text": "No:",
+   "conf": 0.92
+  },
+  {
+   "text": "2018060310100050214",
+   "conf": 0.68
+  },
+  {
+   "text": "‘",
+   "conf": 0.18
+  },
+  {
+   "text": "GoT",
+   "conf": 0.73
+  },
+  {
+   "text": "Summary",
+   "conf": 0.5
+  },
+  {
+   "text": "Amount",
+   "conf": 0.96
+  },
+  {
+   "text": "Tax",
+   "conf": 0.92
+  },
+  {
+   "text": "SR",
+   "conf": 0.8
+  },
+  {
+   "text": "@",
+   "conf": 0.83
+  },
+  {
+   "text": "O%",
+   "conf": 0.0
+  },
+  {
+   "text": "19,44",
+   "conf": 0.76
+  },
+  {
+   "text": "0.00",
+   "conf": 0.7
+  },
+  {
+   "text": "Total",
+   "conf": 0.74
+  },
+  {
+   "text": "19.44",
+   "conf": 0.67
+  },
+  {
+   "text": "0.00",
+   "conf": 0.88
+  },
+  {
+   "text": "03/06/2018",
+   "conf": 0.73
+  },
+  {
+   "text": "16:49",
+   "conf": 0.67
+  },
+  {
+   "text": "1610",
+   "conf": 0.9
+  },
+  {
+   "text": "005.",
+   "conf": 0.74
+  },
+  {
+   "text": "GO50214",
+   "conf": 0.7
+  },
+  {
+   "text": ":",
+   "conf": 0.0
+  },
+  {
+   "text": "0301655",
+   "conf": 0.49
+  },
+  {
+   "text": "Py",
+   "conf": 0.54
+  },
+  {
+   "text": "NORAZTLAK",
+   "conf": 0.32
+  },
+  {
+   "text": "|",
+   "conf": 0.48
+  },
+  {
+   "text": "REGULAR",
+   "conf": 0.92
+  },
+  {
+   "text": "STAMP(S)",
+   "conf": 0.78
+  },
+  {
+   "text": ":",
+   "conf": 0.6
+  },
+  {
+   "text": "2",
+   "conf": 0.52
+  },
+  {
+   "text": "BONUS",
+   "conf": 0.92
+  },
+  {
+   "text": "STAMP(S)",
+   "conf": 0.82
+  },
+  {
+   "text": "2",
+   "conf": 0.46
+  },
+  {
+   "text": "0",
+   "conf": 0.53
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.92
+  },
+  {
+   "text": "STAMP(S)",
+   "conf": 0.78
+  },
+  {
+   "text": "9:",
+   "conf": 0.12
+  },
+  {
+   "text": "2",
+   "conf": 0.81
+  },
+  {
+   "text": "|",
+   "conf": 0.24
+  },
+  {
+   "text": ",",
+   "conf": 0.0
+  },
+  {
+   "text": "AEQN",
+   "conf": 0.73
+  },
+  {
+   "text": "Stamps",
+   "conf": 0.84
+  },
+  {
+   "text": "Loyalty",
+   "conf": 0.96
+  },
+  {
+   "text": "Program",
+   "conf": 0.93
+  },
+  {
+   "text": "“Product(s)°",
+   "conf": 0.34
+  },
+  {
+   "text": "oO",
+   "conf": 0.08
+  },
+  {
+   "text": "|",
+   "conf": 0.63
+  },
+  {
+   "text": "sold",
+   "conf": 0.94
+  },
+  {
+   "text": "are",
+   "conf": 0.96
+  },
+  {
+   "text": "neither",
+   "conf": 0.85
+  },
+  {
+   "text": "exchangeable",
+   "conf": 0.95
+  },
+  {
+   "text": "nor",
+   "conf": 0.84
+  },
+  {
+   "text": ":",
+   "conf": 0.09
+  },
+  {
+   "text": "oO",
+   "conf": 0.0
+  },
+  {
+   "text": ",",
+   "conf": 0.0
+  },
+  {
+   "text": "refundable",
+   "conf": 0.94
+  },
+  {
+   "text": "AEON",
+   "conf": 0.87
+  },
+  {
+   "text": "PERMAS",
+   "conf": 0.3
+  },
+  {
+   "text": "JAYA",
+   "conf": 0.78
+  },
+  {
+   "text": "|",
+   "conf": 0.41
+  },
+  {
+   "text": ":",
+   "conf": 0.38
+  },
+  {
+   "text": "TEL",
+   "conf": 0.89
+  },
+  {
+   "text": "1-300-80-AEON",
+   "conf": 0.75
+  },
+  {
+   "text": "(2366)",
+   "conf": 0.74
+  },
+  {
+   "text": "!",
+   "conf": 0.45
+  },
+  {
+   "text": "»",
+   "conf": 0.0
+  },
+  {
+   "text": "THANK",
+   "conf": 0.91
+  },
+  {
+   "text": "YOU",
+   "conf": 0.95
+  },
+  {
+   "text": "FOR",
+   "conf": 0.95
+  },
+  {
+   "text": "YOUR",
+   "conf": 0.82
+  },
+  {
+   "text": "PATRONAGE",
+   "conf": 0.45
+  },
+  {
+   "text": ":",
+   "conf": 0.0
+  },
+  {
+   "text": "-",
+   "conf": 0.13
+  },
+  {
+   "text": "PLEASE",
+   "conf": 0.96
+  },
+  {
+   "text": "COME",
+   "conf": 0.96
+  },
+  {
+   "text": "AGAIN",
+   "conf": 0.96
+  },
+  {
+   "text": ",",
+   "conf": 0.0
+  },
+  {
+   "text": "-",
+   "conf": 0.0
+  },
+  {
+   "text": "}",
+   "conf": 0.0
+  },
+  {
+   "text": "REHEAT",
+   "conf": 0.23
+  },
+  {
+   "text": "ET",
+   "conf": 0.43
+  },
+  {
+   "text": "wae",
+   "conf": 0.28
+  },
+  {
+   "text": ":",
+   "conf": 0.36
+  },
+  {
+   "text": "|",
+   "conf": 0.28
+  },
+  {
+   "text": "a",
+   "conf": 0.36
+  },
+  {
+   "text": "PE",
+   "conf": 0.03
+  },
+  {
+   "text": "HU",
+   "conf": 0.11
+  },
+  {
+   "text": "ae",
+   "conf": 0.21
+  },
+  {
+   "text": "|",
+   "conf": 0.76
+  }
+ ],
+ "mean_conf": 0.585,
+ "low_conf_share": 0.361,
+ "latency_ms": 7575,
+ "fields": {
+  "company": "AEGN CO BHD",
+  "date": "2018-06-03",
+  "total": 79.45
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  79.45
+ ],
+ "key": "X51007846379"
+}

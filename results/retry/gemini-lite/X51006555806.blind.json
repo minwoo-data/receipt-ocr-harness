@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.1-flash-lite",
+ "provider": "gemini",
+ "raw_text": "{\n  \"vendor\": \"GARDENIA BAKERIES (KL) SDN BHD\",\n  \"date\": \"2017-07-30\",\n  \"subtotal\": null,\n  \"tax\": -1.07,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 20.21,\n  \"currency\": \"MYR\",\n  \"confidence\": 0.98,\n  \"notes\": \"The receipt shows a mix of positive and negative line items resulting in a final total payable of 20.21.\"\n}",
+ "data": {
+  "vendor": "GARDENIA BAKERIES (KL) SDN BHD",
+  "date": "2017-07-30",
+  "subtotal": null,
+  "tax": -1.07,
+  "tip": null,
+  "discount": null,
+  "total": 20.21,
+  "currency": "MYR",
+  "confidence": 0.98,
+  "notes": "The receipt shows a mix of positive and negative line items resulting in a final total payable of 20.21."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1514,
+  "output_tokens": 136,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.000583,
+ "latency_ms": 1231,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.1-flash-lite",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.1-flash-lite"
+ ],
+ "key": "X51006555806"
+}

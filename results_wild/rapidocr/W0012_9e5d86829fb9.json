@@ -1,0 +1,228 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "Vasanta Bhavan",
+  "Since1974",
+  "Vegetarian FamilyRestaurant",
+  "No.19/1,Horton Place,Colombo-07-Sri Lanka",
+  "Hot Line:112665598/766300387",
+  "Invoice No:H00000245",
+  "Date:25/02/2017Time:18:45:42PM",
+  "Table:TAKEAWA/shashi",
+  "Customer Name:",
+  "Item Qty Amount",
+  "300.00",
+  "Sringopper Bayi 350.00",
+  "Clundhu Vada Ea 75.00",
+  "Fonnerkofhu 0006",
+  "Naan 150.00",
+  "Total 1,365.00",
+  "Service Charge 0.00",
+  "VAT 0.00",
+  "NBT TDL 0.00 0.00",
+  "DiscountAmount 00'0",
+  "NetTotal 1,365.00",
+  "Paid Amount 2,000.00",
+  "Balance -635.00",
+  "No.ofitems.",
+  "NetAmount 1,365.00",
+  "Thark You Come Agair!",
+  "Software bywww.ims.lk",
+  "Tel:0115-747072"
+ ],
+ "tokens": [
+  {
+   "text": "Vasanta Bhavan",
+   "conf": 0.9822916473661151
+  },
+  {
+   "text": "Vegetarian FamilyRestaurant",
+   "conf": 0.9779796070522733
+  },
+  {
+   "text": "Since1974",
+   "conf": 0.9488385452164544
+  },
+  {
+   "text": "No.19/1,Horton Place,Colombo-07-Sri Lanka",
+   "conf": 0.8316285363057765
+  },
+  {
+   "text": "Hot Line:112665598/766300387",
+   "conf": 0.9105663991400174
+  },
+  {
+   "text": "Invoice No:H00000245",
+   "conf": 0.9334847748279571
+  },
+  {
+   "text": "Date:25/02/2017Time:18:45:42PM",
+   "conf": 0.9553121308485667
+  },
+  {
+   "text": "Table:TAKEAWA/shashi",
+   "conf": 0.9467358767986298
+  },
+  {
+   "text": "Customer Name:",
+   "conf": 0.9523487091064453
+  },
+  {
+   "text": "Item",
+   "conf": 0.8337130919098854
+  },
+  {
+   "text": "Qty",
+   "conf": 0.9495315353075663
+  },
+  {
+   "text": "Amount",
+   "conf": 0.9901227056980133
+  },
+  {
+   "text": "300.00",
+   "conf": 0.9435756603876749
+  },
+  {
+   "text": "Sringopper Bayi",
+   "conf": 0.8175519406795502
+  },
+  {
+   "text": "350.00",
+   "conf": 0.9758502344290415
+  },
+  {
+   "text": "Clundhu Vada Ea",
+   "conf": 0.6843131879965464
+  },
+  {
+   "text": "75.00",
+   "conf": 0.9790688157081604
+  },
+  {
+   "text": "Fonnerkofhu",
+   "conf": 0.6529244211587039
+  },
+  {
+   "text": "0006",
+   "conf": 0.8265290856361389
+  },
+  {
+   "text": "Naan",
+   "conf": 0.8740350008010864
+  },
+  {
+   "text": "150.00",
+   "conf": 0.9847022294998169
+  },
+  {
+   "text": "Total",
+   "conf": 0.9820226788520813
+  },
+  {
+   "text": "1,365.00",
+   "conf": 0.9813023135066032
+  },
+  {
+   "text": "Service Charge",
+   "conf": 0.9480114621775491
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9902166277170181
+  },
+  {
+   "text": "VAT",
+   "conf": 0.9921537836392721
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9954107850790024
+  },
+  {
+   "text": "TDL",
+   "conf": 0.8987296024958292
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9895831942558289
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9945962876081467
+  },
+  {
+   "text": "NBT",
+   "conf": 0.9857395688692728
+  },
+  {
+   "text": "DiscountAmount",
+   "conf": 0.9882408848830632
+  },
+  {
+   "text": "00'0",
+   "conf": 0.7944943457841873
+  },
+  {
+   "text": "NetTotal",
+   "conf": 0.9399804323911667
+  },
+  {
+   "text": "1,365.00",
+   "conf": 0.9506438672542572
+  },
+  {
+   "text": "Paid Amount",
+   "conf": 0.9404026865959167
+  },
+  {
+   "text": "2,000.00",
+   "conf": 0.9368049427866936
+  },
+  {
+   "text": "Balance",
+   "conf": 0.9753569875444684
+  },
+  {
+   "text": "-635.00",
+   "conf": 0.981611933026995
+  },
+  {
+   "text": "No.ofitems.",
+   "conf": 0.905998869375749
+  },
+  {
+   "text": "NetAmount",
+   "conf": 0.9972056481573317
+  },
+  {
+   "text": "1,365.00",
+   "conf": 0.9931647628545761
+  },
+  {
+   "text": "Thark You Come Agair!",
+   "conf": 0.905989238194057
+  },
+  {
+   "text": "Software bywww.ims.lk",
+   "conf": 0.9384750638689313
+  },
+  {
+   "text": "Tel:0115-747072",
+   "conf": 0.984961458047231
+  }
+ ],
+ "mean_conf": 0.932,
+ "low_conf_share": 0.0,
+ "latency_ms": 3168,
+ "fields": {
+  "company": "VASANTA BHAVAN",
+  "date": "2017-02-25",
+  "total": 1365.0
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  1365.0
+ ],
+ "key": "W0012_9e5d86829fb9"
+}

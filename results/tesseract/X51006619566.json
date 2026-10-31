@@ -1,0 +1,399 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "een yer weer yy eevee Ure re vow",
+  "99 SPEED MART S/B (S19S3?-X)",
+  "LOT P.T. 2811, JALAN ANGSA,",
+  "TANAN BERKELEY",
+  "| 41150 KLANG, SELANGOR",
+  "1SS8-THN FUSAT KEPONG",
+  "GST 1D. NO: 000181747712",
+  "INVOICE NO s 17872/102/T0476",
+  "08: S3PH 561781 05-12-16",
+  "| $386 STAR BRAND GARBAGE BAG RMIS.90 s",
+  "83 X RM 5.30",
+  "| Total Sales (Inclusive GST) RM 15.96",
+  "| CASH RN = S1.00",
+  "CHANGE RM = 35.10",
+  "GST Summary Amount (RM) Tax (RM)",
+  "s = 6% 15.00 70",
+  "Thank You. Please come again",
+  "Keep the invoice for applicable returns",
+  "a"
+ ],
+ "tokens": [
+  {
+   "text": "een",
+   "conf": 0.38
+  },
+  {
+   "text": "yer",
+   "conf": 0.41
+  },
+  {
+   "text": "weer",
+   "conf": 0.08
+  },
+  {
+   "text": "yy",
+   "conf": 0.03
+  },
+  {
+   "text": "eevee",
+   "conf": 0.09
+  },
+  {
+   "text": "Ure",
+   "conf": 0.3
+  },
+  {
+   "text": "re",
+   "conf": 0.32
+  },
+  {
+   "text": "vow",
+   "conf": 0.31
+  },
+  {
+   "text": "99",
+   "conf": 0.96
+  },
+  {
+   "text": "SPEED",
+   "conf": 0.96
+  },
+  {
+   "text": "MART",
+   "conf": 0.93
+  },
+  {
+   "text": "S/B",
+   "conf": 0.87
+  },
+  {
+   "text": "(S19S3?-X)",
+   "conf": 0.4
+  },
+  {
+   "text": "LOT",
+   "conf": 0.86
+  },
+  {
+   "text": "P.T.",
+   "conf": 0.0
+  },
+  {
+   "text": "2811,",
+   "conf": 0.94
+  },
+  {
+   "text": "JALAN",
+   "conf": 0.92
+  },
+  {
+   "text": "ANGSA,",
+   "conf": 0.91
+  },
+  {
+   "text": "TANAN",
+   "conf": 0.63
+  },
+  {
+   "text": "BERKELEY",
+   "conf": 0.96
+  },
+  {
+   "text": "|",
+   "conf": 0.68
+  },
+  {
+   "text": "41150",
+   "conf": 0.93
+  },
+  {
+   "text": "KLANG,",
+   "conf": 0.95
+  },
+  {
+   "text": "SELANGOR",
+   "conf": 0.94
+  },
+  {
+   "text": "1SS8-THN",
+   "conf": 0.25
+  },
+  {
+   "text": "FUSAT",
+   "conf": 0.8
+  },
+  {
+   "text": "KEPONG",
+   "conf": 0.9
+  },
+  {
+   "text": "GST",
+   "conf": 0.94
+  },
+  {
+   "text": "1D.",
+   "conf": 0.78
+  },
+  {
+   "text": "NO:",
+   "conf": 0.47
+  },
+  {
+   "text": "000181747712",
+   "conf": 0.91
+  },
+  {
+   "text": "INVOICE",
+   "conf": 0.34
+  },
+  {
+   "text": "NO",
+   "conf": 0.79
+  },
+  {
+   "text": "s",
+   "conf": 0.46
+  },
+  {
+   "text": "17872/102/T0476",
+   "conf": 0.53
+  },
+  {
+   "text": "08:",
+   "conf": 0.84
+  },
+  {
+   "text": "S3PH",
+   "conf": 0.35
+  },
+  {
+   "text": "561781",
+   "conf": 0.93
+  },
+  {
+   "text": "05-12-16",
+   "conf": 0.78
+  },
+  {
+   "text": "|",
+   "conf": 0.6
+  },
+  {
+   "text": "$386",
+   "conf": 0.86
+  },
+  {
+   "text": "STAR",
+   "conf": 0.95
+  },
+  {
+   "text": "BRAND",
+   "conf": 0.96
+  },
+  {
+   "text": "GARBAGE",
+   "conf": 0.96
+  },
+  {
+   "text": "BAG",
+   "conf": 0.59
+  },
+  {
+   "text": "RMIS.90",
+   "conf": 0.28
+  },
+  {
+   "text": "s",
+   "conf": 0.92
+  },
+  {
+   "text": "83",
+   "conf": 0.55
+  },
+  {
+   "text": "X",
+   "conf": 0.73
+  },
+  {
+   "text": "RM",
+   "conf": 0.74
+  },
+  {
+   "text": "5.30",
+   "conf": 0.45
+  },
+  {
+   "text": "|",
+   "conf": 0.46
+  },
+  {
+   "text": "Total",
+   "conf": 0.96
+  },
+  {
+   "text": "Sales",
+   "conf": 0.96
+  },
+  {
+   "text": "(Inclusive",
+   "conf": 0.95
+  },
+  {
+   "text": "GST)",
+   "conf": 0.91
+  },
+  {
+   "text": "RM",
+   "conf": 0.72
+  },
+  {
+   "text": "15.96",
+   "conf": 0.72
+  },
+  {
+   "text": "|",
+   "conf": 0.59
+  },
+  {
+   "text": "CASH",
+   "conf": 0.92
+  },
+  {
+   "text": "RN",
+   "conf": 0.61
+  },
+  {
+   "text": "=",
+   "conf": 0.38
+  },
+  {
+   "text": "S1.00",
+   "conf": 0.02
+  },
+  {
+   "text": "CHANGE",
+   "conf": 0.96
+  },
+  {
+   "text": "RM",
+   "conf": 0.76
+  },
+  {
+   "text": "=",
+   "conf": 0.18
+  },
+  {
+   "text": "35.10",
+   "conf": 0.18
+  },
+  {
+   "text": "GST",
+   "conf": 0.95
+  },
+  {
+   "text": "Summary",
+   "conf": 0.62
+  },
+  {
+   "text": "Amount",
+   "conf": 0.89
+  },
+  {
+   "text": "(RM)",
+   "conf": 0.82
+  },
+  {
+   "text": "Tax",
+   "conf": 0.0
+  },
+  {
+   "text": "(RM)",
+   "conf": 0.0
+  },
+  {
+   "text": "s",
+   "conf": 0.29
+  },
+  {
+   "text": "=",
+   "conf": 0.92
+  },
+  {
+   "text": "6%",
+   "conf": 0.32
+  },
+  {
+   "text": "15.00",
+   "conf": 0.82
+  },
+  {
+   "text": "70",
+   "conf": 0.45
+  },
+  {
+   "text": "Thank",
+   "conf": 0.95
+  },
+  {
+   "text": "You.",
+   "conf": 0.94
+  },
+  {
+   "text": "Please",
+   "conf": 0.96
+  },
+  {
+   "text": "come",
+   "conf": 0.95
+  },
+  {
+   "text": "again",
+   "conf": 0.75
+  },
+  {
+   "text": "Keep",
+   "conf": 0.96
+  },
+  {
+   "text": "the",
+   "conf": 0.96
+  },
+  {
+   "text": "invoice",
+   "conf": 0.95
+  },
+  {
+   "text": "for",
+   "conf": 0.96
+  },
+  {
+   "text": "applicable",
+   "conf": 0.96
+  },
+  {
+   "text": "returns",
+   "conf": 0.96
+  },
+  {
+   "text": "a",
+   "conf": 0.31
+  }
+ ],
+ "mean_conf": 0.671,
+ "low_conf_share": 0.3111,
+ "latency_ms": 4420,
+ "fields": {
+  "company": "EEN YER WEER YY EEVEE URE RE VOW",
+  "date": "2016-12-05",
+  "total": 15.96
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  15.96
+ ],
+ "key": "X51006619566"
+}

@@ -1,0 +1,199 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "WeicometotheFamily",
+  "FamilyMart",
+  "MaxincomeResouncesSdnBhd(383322-D)",
+  "No16A,JalanAs:akaU8/83.Bukit Jelutong",
+  "401saShahAam,Selangor,D.E.",
+  "GST10:000468594688",
+  "#0023 KLIA2ARRIVAL",
+  "Tel No:-",
+  "TAX INVOICE",
+  "16/04/2018 16:28 #002348863",
+  "POS:04 CSH:00023122",
+  "Staff:REKHA",
+  "Desc Amt (RM)",
+  "MarlboroMegaIceBlstBox 17.00SR",
+  "AlladdinSi1kLogo2.58 1.80SR",
+  "SUB TOTAL（Inc GST) 18.8r:",
+  "TOTAL 18.80",
+  "CASH 50.00",
+  "CHANGE 31.20",
+  "#ITEMS SOLD2",
+  "IexCode Amt(RM)Tax(RM)",
+  "6%) 17.74 1.06",
+  "NK YOU&PLEASE COME AGAIN",
+  "***",
+  "PART OF OUR FAMILY TODAY!",
+  "CEB0OK:FamilyMartMY",
+  "ww.familymart.com.my"
+ ],
+ "tokens": [
+  {
+   "text": "WeicometotheFamily",
+   "conf": 0.9664947821034325
+  },
+  {
+   "text": "FamilyMart",
+   "conf": 0.9952496588230133
+  },
+  {
+   "text": "MaxincomeResouncesSdnBhd(383322-D)",
+   "conf": 0.9385555824812721
+  },
+  {
+   "text": "No16A,JalanAs:akaU8/83.Bukit Jelutong",
+   "conf": 0.9096212419303688
+  },
+  {
+   "text": "401saShahAam,Selangor,D.E.",
+   "conf": 0.8918163868097159
+  },
+  {
+   "text": "GST10:000468594688",
+   "conf": 0.893988718589147
+  },
+  {
+   "text": "#0023 KLIA2ARRIVAL",
+   "conf": 0.9589921765857272
+  },
+  {
+   "text": "Tel No:-",
+   "conf": 0.9092559143900871
+  },
+  {
+   "text": "TAX INVOICE",
+   "conf": 0.9585649154402993
+  },
+  {
+   "text": "16/04/2018 16:28",
+   "conf": 0.9836254939436913
+  },
+  {
+   "text": "#002348863",
+   "conf": 0.9964169085025787
+  },
+  {
+   "text": "POS:04 CSH:00023122",
+   "conf": 0.97132639822207
+  },
+  {
+   "text": "Staff:REKHA",
+   "conf": 0.9783021049066023
+  },
+  {
+   "text": "Desc",
+   "conf": 0.9708457142114639
+  },
+  {
+   "text": "Amt (RM)",
+   "conf": 0.9225104674696922
+  },
+  {
+   "text": "MarlboroMegaIceBlstBox",
+   "conf": 0.9888636009259657
+  },
+  {
+   "text": "17.00SR",
+   "conf": 0.9944519826344081
+  },
+  {
+   "text": "AlladdinSi1kLogo2.58",
+   "conf": 0.9424975901842118
+  },
+  {
+   "text": "1.80SR",
+   "conf": 0.9966769317785898
+  },
+  {
+   "text": "SUB TOTAL（Inc GST)",
+   "conf": 0.8862162431081136
+  },
+  {
+   "text": "18.8r:",
+   "conf": 0.9524026811122894
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.9982208609580994
+  },
+  {
+   "text": "18.80",
+   "conf": 0.9653451442718506
+  },
+  {
+   "text": "CASH",
+   "conf": 0.9960730522871017
+  },
+  {
+   "text": "50.00",
+   "conf": 0.9997822403907776
+  },
+  {
+   "text": "CHANGE",
+   "conf": 0.9898738662401835
+  },
+  {
+   "text": "31.20",
+   "conf": 0.9992361187934875
+  },
+  {
+   "text": "#ITEMS SOLD2",
+   "conf": 0.9246126164992651
+  },
+  {
+   "text": "IexCode",
+   "conf": 0.7785186001232692
+  },
+  {
+   "text": "Amt(RM)Tax(RM)",
+   "conf": 0.9229855069092342
+  },
+  {
+   "text": "6%)",
+   "conf": 0.9403115113576254
+  },
+  {
+   "text": "17.74",
+   "conf": 0.9982818841934205
+  },
+  {
+   "text": "1.06",
+   "conf": 0.9994195848703384
+  },
+  {
+   "text": "NK YOU&PLEASE COME AGAIN",
+   "conf": 0.9278909688194593
+  },
+  {
+   "text": "***",
+   "conf": 0.9912380377451578
+  },
+  {
+   "text": "PART OF OUR FAMILY TODAY!",
+   "conf": 0.9449981236457825
+  },
+  {
+   "text": "CEB0OK:FamilyMartMY",
+   "conf": 0.928189616454275
+  },
+  {
+   "text": "ww.familymart.com.my",
+   "conf": 0.9799630284309387
+  }
+ ],
+ "mean_conf": 0.955,
+ "low_conf_share": 0.0,
+ "latency_ms": 5078,
+ "fields": {
+  "company": "WEICOMETOTHEFAMILY",
+  "date": "2018-04-16",
+  "total": 18.8
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  18.8
+ ],
+ "key": "X51006502531"
+}

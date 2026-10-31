@@ -1,0 +1,281 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "format allows lor an e",
+  "expla",
+  "bool oter a IKANO Pte Ltd (993619-K)",
+  "basi organ stem Date: Staff:Yasain 18/12/1018:21 Slip: Trans: 0220339087 122331119 ED",
+  "ard Description Amount 3R",
+  "exan on, 70171531 BIBBI S QC/2P15 10173651 MYSA STRA QLT W 59.90M 45.00",
+  "90134019 GNARP KITCHEN UT S5 60179815 RAJTAN SPICEJAR 10134004 BEVARA SEAL CLI 2pc@11.90 23.80 7.50 9.90 M M M",
+  "50196702 PYSSLIG SCRAPBO 10176975 JAMKA JAR W LID 12.90 19.90 M M",
+  "L7940001(L)PLASTIC BAG 0.20M",
+  "Total RM 179.10",
+  "Rounding Adj 0.00",
+  "Total Rounded 179.10",
+  "Cash -200.10 B",
+  "Change 21.00",
+  "No.of Items 9",
+  "Store closes at 1lpm in Dec 2010",
+  "Thank you. Please come again.",
+  "*122331119*"
+ ],
+ "tokens": [
+  {
+   "text": "format allows lor an e",
+   "conf": 0.8456264923919331
+  },
+  {
+   "text": "expla",
+   "conf": 0.9847739696502685
+  },
+  {
+   "text": "bool",
+   "conf": 0.896884024143219
+  },
+  {
+   "text": "oter a",
+   "conf": 0.8602103292942047
+  },
+  {
+   "text": "IKANO Pte Ltd (993619-K)",
+   "conf": 0.9349134787917137
+  },
+  {
+   "text": "organ",
+   "conf": 0.9764374017715454
+  },
+  {
+   "text": "Slip:",
+   "conf": 0.8807194113731385
+  },
+  {
+   "text": "0220339087",
+   "conf": 0.9994336009025574
+  },
+  {
+   "text": "Date:",
+   "conf": 0.9861089944839477
+  },
+  {
+   "text": "18/12/1018:21",
+   "conf": 0.9849329315699064
+  },
+  {
+   "text": "stem",
+   "conf": 0.9876059293746948
+  },
+  {
+   "text": "Trans:",
+   "conf": 0.9861088593800863
+  },
+  {
+   "text": "122331119",
+   "conf": 0.9933594465255737
+  },
+  {
+   "text": "Staff:Yasain",
+   "conf": 0.9247730150818825
+  },
+  {
+   "text": "ED",
+   "conf": 0.9947030544281006
+  },
+  {
+   "text": "basi",
+   "conf": 0.9664055705070496
+  },
+  {
+   "text": "Amount",
+   "conf": 0.9797285695870718
+  },
+  {
+   "text": "ard",
+   "conf": 0.9865129391352335
+  },
+  {
+   "text": "Description",
+   "conf": 0.9924544475295327
+  },
+  {
+   "text": "3R",
+   "conf": 0.9723105132579803
+  },
+  {
+   "text": "exan",
+   "conf": 0.991592600941658
+  },
+  {
+   "text": "59.90M",
+   "conf": 0.996815542380015
+  },
+  {
+   "text": "70171531 BIBBI S QC/2P15",
+   "conf": 0.9567024086912473
+  },
+  {
+   "text": "on,",
+   "conf": 0.9889467159907023
+  },
+  {
+   "text": "45.00",
+   "conf": 0.9974494099617004
+  },
+  {
+   "text": "10173651 MYSA STRA QLT W",
+   "conf": 0.8942509517073631
+  },
+  {
+   "text": "90134019 GNARP KITCHEN UT S5",
+   "conf": 0.9388698531048638
+  },
+  {
+   "text": "23.80",
+   "conf": 0.9944525241851807
+  },
+  {
+   "text": "M",
+   "conf": 0.9906271696090698
+  },
+  {
+   "text": "2pc@11.90",
+   "conf": 0.9453344874911838
+  },
+  {
+   "text": "7.50",
+   "conf": 0.9978010058403015
+  },
+  {
+   "text": "M",
+   "conf": 0.9873799085617065
+  },
+  {
+   "text": "60179815 RAJTAN SPICEJAR",
+   "conf": 0.9669213891029358
+  },
+  {
+   "text": "9.90",
+   "conf": 0.9970857948064804
+  },
+  {
+   "text": "M",
+   "conf": 0.9974305033683777
+  },
+  {
+   "text": "10134004 BEVARA SEAL CLI",
+   "conf": 0.9483250056703886
+  },
+  {
+   "text": "12.90",
+   "conf": 0.9959886193275451
+  },
+  {
+   "text": "M",
+   "conf": 0.9954866766929626
+  },
+  {
+   "text": "10176975 JAMKA JAR W LID",
+   "conf": 0.9324434225757917
+  },
+  {
+   "text": "19.90",
+   "conf": 0.9976889371871949
+  },
+  {
+   "text": "M",
+   "conf": 0.9943232536315918
+  },
+  {
+   "text": "50196702 PYSSLIG SCRAPBO",
+   "conf": 0.9351487631599108
+  },
+  {
+   "text": "0.20M",
+   "conf": 0.9878803014755249
+  },
+  {
+   "text": "L7940001(L)PLASTIC BAG",
+   "conf": 0.9382661906155673
+  },
+  {
+   "text": "179.10",
+   "conf": 0.9958388408025106
+  },
+  {
+   "text": "Total RM",
+   "conf": 0.9464982971549034
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9380688518285751
+  },
+  {
+   "text": "Rounding Adj",
+   "conf": 0.9716987311840057
+  },
+  {
+   "text": "179.10",
+   "conf": 0.9961415628592173
+  },
+  {
+   "text": "Total Rounded",
+   "conf": 0.978873610496521
+  },
+  {
+   "text": "Cash",
+   "conf": 0.9874960333108902
+  },
+  {
+   "text": "-200.10",
+   "conf": 0.9468379616737366
+  },
+  {
+   "text": "B",
+   "conf": 0.9908209443092346
+  },
+  {
+   "text": "Change",
+   "conf": 0.9888427555561066
+  },
+  {
+   "text": "21.00",
+   "conf": 0.9976668357849121
+  },
+  {
+   "text": "No.of Items",
+   "conf": 0.9607996290380304
+  },
+  {
+   "text": "9",
+   "conf": 0.9685245156288147
+  },
+  {
+   "text": "Store closes at 1lpm in Dec 2010",
+   "conf": 0.9473853930830956
+  },
+  {
+   "text": "Thank you. Please come again.",
+   "conf": 0.9614140864076286
+  },
+  {
+   "text": "*122331119*",
+   "conf": 0.983280517838218
+  }
+ ],
+ "mean_conf": 0.9677,
+ "low_conf_share": 0.0,
+ "latency_ms": 2784,
+ "fields": {
+  "company": "BOOL OTER A IKANO PTE LTD",
+  "date": null,
+  "total": 179.1
+ },
+ "rule_reasons": [
+  "date_not_found"
+ ],
+ "total_candidates": [
+  179.1,
+  179.1
+ ],
+ "key": "W0116_550"
+}

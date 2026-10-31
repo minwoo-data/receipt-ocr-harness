@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.6-flash",
+ "provider": "gemini",
+ "raw_text": "{\"vendor\": \"Milano Restaurant\", \"date\": \"2016-11-28\", \"subtotal\": 900.0, \"tax\": null, \"tip\": 90.0, \"discount\": null, \"total\": 990.0, \"currency\": \"LKR\", \"confidence\": 0.95, \"notes\": \"Service charge of 10% (90.00) is included as tip, currency assumed to be LKR based on location Nuwara Eliya.\"}",
+ "data": {
+  "vendor": "Milano Restaurant",
+  "date": "2016-11-28",
+  "subtotal": 900.0,
+  "tax": null,
+  "tip": 90.0,
+  "discount": null,
+  "total": 990.0,
+  "currency": "LKR",
+  "confidence": 0.95,
+  "notes": "Service charge of 10% (90.00) is included as tip, currency assumed to be LKR based on location Nuwara Eliya."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1471,
+  "output_tokens": 117,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.001542,
+ "latency_ms": 1944,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.6-flash",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.6-flash"
+ ],
+ "key": "W0085_a52808866316"
+}

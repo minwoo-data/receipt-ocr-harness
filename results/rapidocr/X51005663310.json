@@ -1,0 +1,229 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "31802013",
+  "LIM SENG THO HARDWARETRADING",
+  "No7,SimpangOffBatuVillage",
+  "JalanlpohBatu5.51200KualaLumpur",
+  "MALAYSIA",
+  "Tei&FaxNo:03-62587191",
+  "03-62587191",
+  "CompanyRegNo.(002231061-T)",
+  "GST Reg No.:001269075968",
+  "TAXINVOICE",
+  "invoiceNo CS24388",
+  "Date 09/02/201810:05",
+  "Cashier# LST",
+  "RM Code",
+  "BEGGUNI",
+  "1200 NOS X 0.70 840 SR",
+  "Subtotal: 8.40",
+  "Totai Incl.of GST 8.40",
+  "Payment 8.40",
+  "Change Due 0.00",
+  "Totalltem(s):12",
+  "GSTSummary Amount(RM) Tax(RM)",
+  "SR ? 26% 7.92 048",
+  "THANKYOU**",
+  "PLEASECOMEAGAIN",
+  "*GOODSSOLDARENOTRETURNABLE"
+ ],
+ "tokens": [
+  {
+   "text": "31802013",
+   "conf": 0.9841554015874863
+  },
+  {
+   "text": "LIM SENG THO HARDWARETRADING",
+   "conf": 0.9462070018053055
+  },
+  {
+   "text": "No7,SimpangOffBatuVillage",
+   "conf": 0.95834881067276
+  },
+  {
+   "text": "JalanlpohBatu5.51200KualaLumpur",
+   "conf": 0.9714107398063906
+  },
+  {
+   "text": "MALAYSIA",
+   "conf": 0.9902258962392807
+  },
+  {
+   "text": "Tei&FaxNo:03-62587191",
+   "conf": 0.9617245537894112
+  },
+  {
+   "text": "03-62587191",
+   "conf": 0.9968920187516646
+  },
+  {
+   "text": "CompanyRegNo.(002231061-T)",
+   "conf": 0.9737971195807824
+  },
+  {
+   "text": "GST Reg No.:001269075968",
+   "conf": 0.9855845222870508
+  },
+  {
+   "text": "TAXINVOICE",
+   "conf": 0.99508495926857
+  },
+  {
+   "text": "invoiceNo",
+   "conf": 0.8368363247977363
+  },
+  {
+   "text": "CS24388",
+   "conf": 0.9978891440800258
+  },
+  {
+   "text": "Date",
+   "conf": 0.9895201474428177
+  },
+  {
+   "text": "09/02/201810:05",
+   "conf": 0.9913120667139689
+  },
+  {
+   "text": "Cashier#",
+   "conf": 0.9833756312727928
+  },
+  {
+   "text": "LST",
+   "conf": 0.9955030083656311
+  },
+  {
+   "text": "RM",
+   "conf": 0.9936913847923279
+  },
+  {
+   "text": "Code",
+   "conf": 0.9906050860881805
+  },
+  {
+   "text": "BEGGUNI",
+   "conf": 0.9949567573411124
+  },
+  {
+   "text": "1200 NOS",
+   "conf": 0.9460190832614899
+  },
+  {
+   "text": "0.70",
+   "conf": 0.9988743215799332
+  },
+  {
+   "text": "840",
+   "conf": 0.9840228160222372
+  },
+  {
+   "text": "SR",
+   "conf": 0.9959667921066284
+  },
+  {
+   "text": "X",
+   "conf": 0.6331413388252258
+  },
+  {
+   "text": "Subtotal:",
+   "conf": 0.9917358292473687
+  },
+  {
+   "text": "8.40",
+   "conf": 0.9947898834943771
+  },
+  {
+   "text": "Totai Incl.of GST",
+   "conf": 0.896163680974175
+  },
+  {
+   "text": "8.40",
+   "conf": 0.9975749999284744
+  },
+  {
+   "text": "Payment",
+   "conf": 0.9922044958387103
+  },
+  {
+   "text": "8.40",
+   "conf": 0.9962135702371597
+  },
+  {
+   "text": "Change Due",
+   "conf": 0.9560911476612091
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9990222454071045
+  },
+  {
+   "text": "Totalltem(s):12",
+   "conf": 0.9246941963831584
+  },
+  {
+   "text": "GSTSummary",
+   "conf": 0.9860958158969879
+  },
+  {
+   "text": "Amount(RM)",
+   "conf": 0.9644517362117767
+  },
+  {
+   "text": "Tax(RM)",
+   "conf": 0.9366552233695984
+  },
+  {
+   "text": "SR",
+   "conf": 0.9917120039463043
+  },
+  {
+   "text": "?",
+   "conf": 0.5741820931434631
+  },
+  {
+   "text": "26%",
+   "conf": 0.9426132639249166
+  },
+  {
+   "text": "7.92",
+   "conf": 0.9986391067504883
+  },
+  {
+   "text": "048",
+   "conf": 0.9843558867772421
+  },
+  {
+   "text": "THANKYOU**",
+   "conf": 0.9244830131530761
+  },
+  {
+   "text": "PLEASECOMEAGAIN",
+   "conf": 0.9892989516258239
+  },
+  {
+   "text": "*GOODSSOLDARENOTRETURNABLE",
+   "conf": 0.9840860160497519
+  }
+ ],
+ "mean_conf": 0.9573,
+ "low_conf_share": 0.0,
+ "latency_ms": 3852,
+ "fields": {
+  "company": "LIM SENG THO HARDWARETRADING",
+  "date": "2018-02-09",
+  "total": 8.4
+ },
+ "rule_reasons": [
+  "total_no_keyword_fallback_max"
+ ],
+ "total_candidates": [
+  0.7,
+  8.4,
+  8.4,
+  8.4,
+  0.0,
+  7.92
+ ],
+ "key": "X51005663310"
+}

@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.6-flash",
+ "provider": "gemini",
+ "raw_text": "{\"vendor\": \"99 SPEED MART S/B\", \"date\": \"2017-05-21\", \"subtotal\": 19.62, \"tax\": 1.18, \"tip\": null, \"discount\": null, \"total\": 20.90, \"currency\": \"MYR\", \"confidence\": 0.95, \"notes\": null}",
+ "data": {
+  "vendor": "99 SPEED MART S/B",
+  "date": "2017-05-21",
+  "subtotal": 19.62,
+  "tax": 1.18,
+  "tip": null,
+  "discount": null,
+  "total": 20.9,
+  "currency": "MYR",
+  "confidence": 0.95,
+  "notes": null
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1449,
+  "output_tokens": 88,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.001417,
+ "latency_ms": 1506,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.6-flash",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.6-flash"
+ ],
+ "key": "X51006388065"
+}

@@ -1,0 +1,232 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "TANJONGMAS BOOKCENTRE (PJ) SDN BHD",
+  "CO.N0.373665-A",
+  "LOT F15,GIANT BANDAR PUTERI",
+  "JALAN PUTERI 1/1, BDR PUTERI",
+  "47100 PUCHONG, SELANGOR",
+  "03-8060 4233",
+  "(NO.ID GST: 002147033088)",
+  "TAX INVOICE",
+  "BILL: 28544",
+  "CASH1 #10-02 17/03/2017 21:35",
+  "B.CODE & DESC. QTY U/PRICE AMT",
+  "4971850134824 1 53.00 53.00s",
+  "CALCULATOR SCIENTIFIC",
+  "27932 1 5.40 5.40s",
+  "M&G R3GEL PEN0.5MM 3'S",
+  "9555684639363 1 3.60 3.605",
+  "FABER CASTEL SUPER TRUE",
+  "SUB-TOTAL 62.00",
+  "Total GST(I) 3.51",
+  "TOTAL ITEM(S):3",
+  "TOTAL QUANTITY(S):3",
+  "TOTAL INCL GST RK 62.00",
+  "CARD TYPE :VISA",
+  "CARD NO",
+  "THANK YOU.PLEASE COME AGAIN.",
+  "GOODS SOLD ARE NOT RETURNABLE.",
+  "GST Taxable Ant GST At",
+  "s-SR(I) - 6% 58.49 3.51"
+ ],
+ "tokens": [
+  {
+   "text": "TANJONGMAS BOOKCENTRE (PJ) SDN BHD",
+   "conf": 0.9458852603155024
+  },
+  {
+   "text": "CO.N0.373665-A",
+   "conf": 0.9794833958148956
+  },
+  {
+   "text": "LOT F15,GIANT BANDAR PUTERI",
+   "conf": 0.9423321176458288
+  },
+  {
+   "text": "JALAN PUTERI 1/1, BDR PUTERI",
+   "conf": 0.977426467197282
+  },
+  {
+   "text": "47100 PUCHONG, SELANGOR",
+   "conf": 0.976580269958662
+  },
+  {
+   "text": "03-8060 4233",
+   "conf": 0.9826684494813284
+  },
+  {
+   "text": "(NO.ID GST: 002147033088)",
+   "conf": 0.9407283782958984
+  },
+  {
+   "text": "TAX INVOICE",
+   "conf": 0.9462171413681724
+  },
+  {
+   "text": "BILL: 28544",
+   "conf": 0.977408848025582
+  },
+  {
+   "text": "CASH1 #10-02",
+   "conf": 0.9897910952568054
+  },
+  {
+   "text": "17/03/2017 21:35",
+   "conf": 0.9854854755103588
+  },
+  {
+   "text": "B.CODE & DESC.",
+   "conf": 0.9477501894746508
+  },
+  {
+   "text": "QTY U/PRICE",
+   "conf": 0.9964233203367754
+  },
+  {
+   "text": "AMT",
+   "conf": 0.9952078262964884
+  },
+  {
+   "text": "4971850134824",
+   "conf": 0.9993137075350835
+  },
+  {
+   "text": "1",
+   "conf": 0.9967678785324097
+  },
+  {
+   "text": "53.00",
+   "conf": 0.9996223211288452
+  },
+  {
+   "text": "53.00s",
+   "conf": 0.9967901706695557
+  },
+  {
+   "text": "CALCULATOR SCIENTIFIC",
+   "conf": 0.9837411528541928
+  },
+  {
+   "text": "27932",
+   "conf": 0.9996176719665527
+  },
+  {
+   "text": "1",
+   "conf": 0.9969879984855652
+  },
+  {
+   "text": "5.40",
+   "conf": 0.9998994469642639
+  },
+  {
+   "text": "5.40s",
+   "conf": 0.9949601769447327
+  },
+  {
+   "text": "M&G R3GEL PEN0.5MM 3'S",
+   "conf": 0.896435794505206
+  },
+  {
+   "text": "9555684639363",
+   "conf": 0.9994204502839309
+  },
+  {
+   "text": "1",
+   "conf": 0.991058349609375
+  },
+  {
+   "text": "3.60",
+   "conf": 0.9993990808725357
+  },
+  {
+   "text": "3.605",
+   "conf": 0.9137887835502625
+  },
+  {
+   "text": "FABER CASTEL SUPER TRUE",
+   "conf": 0.9783362927644149
+  },
+  {
+   "text": "SUB-TOTAL",
+   "conf": 0.9927814139260186
+  },
+  {
+   "text": "62.00",
+   "conf": 0.9996688842773438
+  },
+  {
+   "text": "Total GST(I)",
+   "conf": 0.9807867656151453
+  },
+  {
+   "text": "3.51",
+   "conf": 0.9996677041053772
+  },
+  {
+   "text": "TOTAL ITEM(S):3",
+   "conf": 0.8763855934143067
+  },
+  {
+   "text": "TOTAL QUANTITY(S):3",
+   "conf": 0.9446228585745159
+  },
+  {
+   "text": "TOTAL INCL GST RK",
+   "conf": 0.9474606163361493
+  },
+  {
+   "text": "62.00",
+   "conf": 0.9974929928779602
+  },
+  {
+   "text": "CARD TYPE :VISA",
+   "conf": 0.9410054524739583
+  },
+  {
+   "text": "CARD NO",
+   "conf": 0.946301920073373
+  },
+  {
+   "text": "THANK YOU.PLEASE COME AGAIN.",
+   "conf": 0.9641301695789609
+  },
+  {
+   "text": "GOODS SOLD ARE NOT RETURNABLE.",
+   "conf": 0.9812668522198995
+  },
+  {
+   "text": "GST",
+   "conf": 0.9949721495310465
+  },
+  {
+   "text": "Taxable Ant GST At",
+   "conf": 0.9222384591897329
+  },
+  {
+   "text": "s-SR(I) - 6%",
+   "conf": 0.9512413243452708
+  },
+  {
+   "text": "58.49",
+   "conf": 0.9998297095298767
+  },
+  {
+   "text": "3.51",
+   "conf": 0.9994044452905655
+  }
+ ],
+ "mean_conf": 0.9732,
+ "low_conf_share": 0.0,
+ "latency_ms": 3307,
+ "fields": {
+  "company": "TANJONGMAS BOOKCENTRE SDN BHD",
+  "date": "2017-03-17",
+  "total": 62.0
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  62.0
+ ],
+ "key": "X51006328967"
+}

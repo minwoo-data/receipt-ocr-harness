@@ -1,0 +1,191 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "BUDDHA BAR LONDON",
+  "Tel:02096075222",
+  "Dete:29/08/2014",
+  "Tine:21:20:42",
+  "Table323",
+  "Trans10:2073002",
+  "Covers:2",
+  "Paid By:Clada",
+  "StillNater 14.50",
+  "Dabl1sFrance-1251 18.80",
+  "61PInot o，Fre-125",
+  "110.50",
+  "Miso Soup 157.50",
+  "Dctopus Ni 10111:00",
+  "Califomla Kaki 931",
+  "Buoche Bar Mak 1E23.50",
+  "BB Beef Tartare 115.00",
+  "Love Food Give Food 11.00",
+  "Suctotal: 298.10",
+  "Service: 13.11",
+  "Total: 11.21",
+  "VAT Incuded in total: 16.18",
+  "VATRegNo:138089394",
+  "THANK YOU FOR YOUR CUSTOM"
+ ],
+ "tokens": [
+  {
+   "text": "BUDDHA BAR LONDON",
+   "conf": 0.948506071287043
+  },
+  {
+   "text": "Tel:02096075222",
+   "conf": 0.8256267229715983
+  },
+  {
+   "text": "Dete:29/08/2014",
+   "conf": 0.8436245818932852
+  },
+  {
+   "text": "Tine:21:20:42",
+   "conf": 0.8591664227155539
+  },
+  {
+   "text": "Table323",
+   "conf": 0.9311603903770447
+  },
+  {
+   "text": "Trans10:2073002",
+   "conf": 0.9161895155906677
+  },
+  {
+   "text": "Covers:2",
+   "conf": 0.8406677208840847
+  },
+  {
+   "text": "Paid By:Clada",
+   "conf": 0.8253034169857318
+  },
+  {
+   "text": "StillNater",
+   "conf": 0.8023134350776673
+  },
+  {
+   "text": "14.50",
+   "conf": 0.9275319695472717
+  },
+  {
+   "text": "Dabl1sFrance-1251",
+   "conf": 0.8175984007470748
+  },
+  {
+   "text": "18.80",
+   "conf": 0.874959671497345
+  },
+  {
+   "text": "61PInot o，Fre-125",
+   "conf": 0.6662279735593235
+  },
+  {
+   "text": "Miso Soup",
+   "conf": 0.8894643386205038
+  },
+  {
+   "text": "110.50",
+   "conf": 0.9587877094745636
+  },
+  {
+   "text": "10111:00",
+   "conf": 0.7899062521755695
+  },
+  {
+   "text": "157.50",
+   "conf": 0.82404096921285
+  },
+  {
+   "text": "Dctopus Ni",
+   "conf": 0.7952572673559188
+  },
+  {
+   "text": "Califomla Kaki",
+   "conf": 0.7039077281951904
+  },
+  {
+   "text": "931",
+   "conf": 0.5761289199193319
+  },
+  {
+   "text": "Buoche Bar Mak",
+   "conf": 0.7776363853897367
+  },
+  {
+   "text": "1E23.50",
+   "conf": 0.8900870680809021
+  },
+  {
+   "text": "BB Beef Tartare",
+   "conf": 0.8082883318265279
+  },
+  {
+   "text": "115.00",
+   "conf": 0.9371566971143087
+  },
+  {
+   "text": "Love Food Give Food",
+   "conf": 0.8387701825091713
+  },
+  {
+   "text": "11.00",
+   "conf": 0.9649252533912659
+  },
+  {
+   "text": "Suctotal:",
+   "conf": 0.8462246358394623
+  },
+  {
+   "text": "298.10",
+   "conf": 0.867343525091807
+  },
+  {
+   "text": "Service:",
+   "conf": 0.9243501648306847
+  },
+  {
+   "text": "13.11",
+   "conf": 0.9560378313064575
+  },
+  {
+   "text": "Total:",
+   "conf": 0.9379636744658152
+  },
+  {
+   "text": "11.21",
+   "conf": 0.8910681247711182
+  },
+  {
+   "text": "VAT Incuded in total:",
+   "conf": 0.8528584525698707
+  },
+  {
+   "text": "16.18",
+   "conf": 0.8861837267875672
+  },
+  {
+   "text": "VATRegNo:138089394",
+   "conf": 0.9016290174590217
+  },
+  {
+   "text": "THANK YOU FOR YOUR CUSTOM",
+   "conf": 0.9059258317947387
+  }
+ ],
+ "mean_conf": 0.8556,
+ "low_conf_share": 0.0,
+ "latency_ms": 2877,
+ "fields": {
+  "company": "BUDDHA BAR LONDON",
+  "date": "2014-08-29",
+  "total": 16.18
+ },
+ "rule_reasons": [
+  "total_multiple_keyword_amounts"
+ ],
+ "total_candidates": [
+  11.21,
+  16.18
+ ],
+ "key": "W0015_badd617dde64"
+}

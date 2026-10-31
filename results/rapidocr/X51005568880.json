@@ -1,0 +1,294 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "MR.D.I.Y(M)SDN BHD",
+  "Co-REG:860671-D",
+  "L0T1851-A&1851-B,JALANKPB6，",
+  "KAWASAN PERINDUSTRIAN BALAKONG,",
+  "43300 SERI KEMBANGAN,SELANGOR",
+  "（GST ID N0 :000306020352)",
+  "(ENDAH PARADE)",
+  "-TAX INVOICE-",
+  "TOILET BRUSH 47-2311 *S",
+  "HD03-04-06-5/40/160",
+  "9067860 1X2.70 2.70",
+  "CEMENT KN BLK-2 *S",
+  "KF12-12/240",
+  "9071872 1X1.60 1.60",
+  "HSS TWIST DRILL 5.5* *S",
+  "KH22-10/500",
+  "6909906163102 1X3.30 3.30",
+  "HSS TWIST DRILL 6*1 *S",
+  "KH12-10/500",
+  "6909906163103 1X3.30 3.30",
+  "CURTAIN STRAPS *S",
+  "CK11-22-31-10/400",
+  "8720019 2X2.50 5.00",
+  "Item（s):5 Qty(s):6",
+  "TOTAL INCL.GST@6% RM15.90",
+  "CASH RM50.00",
+  "CHANGE RM34.10",
+  "GST Summary Amt(RM) Tax(RM)",
+  "GSTS@6% 15.00 0.90",
+  "19-09-17 15:39 SH01ZJ03 T3 R000100808",
+  "OPERATOR TSGC- KARKI DAMMAR BAHADUR",
+  "EXCHANGE ARE ALLOWED WITHIN",
+  "7DAY WITH RECEIPT.",
+  "STRICTLY NO CASH REFUND."
+ ],
+ "tokens": [
+  {
+   "text": "MR.D.I.Y(M)SDN BHD",
+   "conf": 0.9541494349638621
+  },
+  {
+   "text": "Co-REG:860671-D",
+   "conf": 0.9764867464701334
+  },
+  {
+   "text": "L0T1851-A&1851-B,JALANKPB6，",
+   "conf": 0.9503325599211233
+  },
+  {
+   "text": "KAWASAN PERINDUSTRIAN BALAKONG,",
+   "conf": 0.9667849829120021
+  },
+  {
+   "text": "43300 SERI KEMBANGAN,SELANGOR",
+   "conf": 0.9415360833036488
+  },
+  {
+   "text": "（GST ID N0 :000306020352)",
+   "conf": 0.8819294714927673
+  },
+  {
+   "text": "(ENDAH PARADE)",
+   "conf": 0.9056034088134766
+  },
+  {
+   "text": "-TAX INVOICE-",
+   "conf": 0.945714547083928
+  },
+  {
+   "text": "TOILET BRUSH 47-2311",
+   "conf": 0.9444623947143554
+  },
+  {
+   "text": "*S",
+   "conf": 0.9617474675178528
+  },
+  {
+   "text": "HD03-04-06-5/40/160",
+   "conf": 0.9963913685397098
+  },
+  {
+   "text": "9067860",
+   "conf": 0.9983312317303249
+  },
+  {
+   "text": "1X2.70",
+   "conf": 0.9757530689239502
+  },
+  {
+   "text": "2.70",
+   "conf": 0.9982941448688507
+  },
+  {
+   "text": "CEMENT KN BLK-2",
+   "conf": 0.9524422685305277
+  },
+  {
+   "text": "*S",
+   "conf": 0.9583322405815125
+  },
+  {
+   "text": "KF12-12/240",
+   "conf": 0.9919081817973744
+  },
+  {
+   "text": "9071872",
+   "conf": 0.9986420614378793
+  },
+  {
+   "text": "1X1.60",
+   "conf": 0.9486348827679952
+  },
+  {
+   "text": "1.60",
+   "conf": 0.9944095611572266
+  },
+  {
+   "text": "HSS TWIST DRILL 5.5*",
+   "conf": 0.9254203230142594
+  },
+  {
+   "text": "*S",
+   "conf": 0.972393661737442
+  },
+  {
+   "text": "KH22-10/500",
+   "conf": 0.990412175655365
+  },
+  {
+   "text": "6909906163102",
+   "conf": 0.9984092804101797
+  },
+  {
+   "text": "1X3.30",
+   "conf": 0.9563620885213217
+  },
+  {
+   "text": "3.30",
+   "conf": 0.998190388083458
+  },
+  {
+   "text": "HSS TWIST DRILL",
+   "conf": 0.9744613369305929
+  },
+  {
+   "text": "6*1",
+   "conf": 0.9799079100290934
+  },
+  {
+   "text": "*S",
+   "conf": 0.9579665958881378
+  },
+  {
+   "text": "KH12-10/500",
+   "conf": 0.9899039918726141
+  },
+  {
+   "text": "6909906163103",
+   "conf": 0.9982841473359328
+  },
+  {
+   "text": "1X3.30",
+   "conf": 0.9537327885627747
+  },
+  {
+   "text": "3.30",
+   "conf": 0.9969855397939682
+  },
+  {
+   "text": "CURTAIN STRAPS",
+   "conf": 0.9691510924271175
+  },
+  {
+   "text": "*S",
+   "conf": 0.9600222408771515
+  },
+  {
+   "text": "CK11-22-31-10/400",
+   "conf": 0.9953097911442027
+  },
+  {
+   "text": "8720019",
+   "conf": 0.9989570038659232
+  },
+  {
+   "text": "2X2.50",
+   "conf": 0.9714077711105347
+  },
+  {
+   "text": "5.00",
+   "conf": 0.9975544363260269
+  },
+  {
+   "text": "Item（s):5",
+   "conf": 0.8671229084332784
+  },
+  {
+   "text": "Qty(s):6",
+   "conf": 0.8689100220799446
+  },
+  {
+   "text": "TOTAL INCL.GST@6%",
+   "conf": 0.9636071850271786
+  },
+  {
+   "text": "RM15.90",
+   "conf": 0.9978045225143433
+  },
+  {
+   "text": "CASH",
+   "conf": 0.9932500272989273
+  },
+  {
+   "text": "RM50.00",
+   "conf": 0.9977220807756696
+  },
+  {
+   "text": "CHANGE",
+   "conf": 0.9892448385556539
+  },
+  {
+   "text": "RM34.10",
+   "conf": 0.997816903250558
+  },
+  {
+   "text": "GST Summary",
+   "conf": 0.9719759225845337
+  },
+  {
+   "text": "Amt(RM)",
+   "conf": 0.9097966040883746
+  },
+  {
+   "text": "Tax(RM)",
+   "conf": 0.945157493863787
+  },
+  {
+   "text": "GSTS@6%",
+   "conf": 0.9931412168911525
+  },
+  {
+   "text": "15.00",
+   "conf": 0.9991413831710816
+  },
+  {
+   "text": "0.90",
+   "conf": 0.9991942048072815
+  },
+  {
+   "text": "19-09-17 15:39 SH01ZJ03",
+   "conf": 0.950841846673385
+  },
+  {
+   "text": "T3 R000100808",
+   "conf": 0.9778293875547556
+  },
+  {
+   "text": "OPERATOR TSGC-",
+   "conf": 0.9759006202220917
+  },
+  {
+   "text": "KARKI DAMMAR BAHADUR",
+   "conf": 0.973513838648796
+  },
+  {
+   "text": "EXCHANGE ARE ALLOWED WITHIN",
+   "conf": 0.9666209772781089
+  },
+  {
+   "text": "7DAY WITH RECEIPT.",
+   "conf": 0.975384341345893
+  },
+  {
+   "text": "STRICTLY NO CASH REFUND.",
+   "conf": 0.9472354253133138
+  }
+ ],
+ "mean_conf": 0.9681,
+ "low_conf_share": 0.0,
+ "latency_ms": 4862,
+ "fields": {
+  "company": "MR D I Y SDN BHD",
+  "date": "2006-04-03",
+  "total": 15.9
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  15.9
+ ],
+ "key": "X51005568880"
+}

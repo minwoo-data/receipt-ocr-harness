@@ -17,3 +17,7 @@ data/raw/
 results/raw_responses/
 *.log
 poster/*.pptx~
+
+# superseded run kept locally only
+results/rapidocr_v1_oldgrouping/
+results_v2/

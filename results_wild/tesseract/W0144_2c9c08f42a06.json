@@ -1,0 +1,180 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "cy",
+  "ee apa",
+  "BADEMIVA",
+  "Restaurant",
+  "‘19-A,Ram Mansion",
+  "Wavro}i F Road",
+  "‘Colaba.Munbe! 400007",
+  "Bate : mov atte. fl",
+  "TN. 5 Wen 2",
+  "“particulars Sty Rete art",
+  "awn 8 1 ee",
+  "mw i",
+  "es",
+  "btn, 0.0",
+  "ee cee"
+ ],
+ "tokens": [
+  {
+   "text": "cy",
+   "conf": 0.09
+  },
+  {
+   "text": "ee",
+   "conf": 0.01
+  },
+  {
+   "text": "apa",
+   "conf": 0.21
+  },
+  {
+   "text": "BADEMIVA",
+   "conf": 0.45
+  },
+  {
+   "text": "Restaurant",
+   "conf": 0.55
+  },
+  {
+   "text": "‘19-A,Ram",
+   "conf": 0.08
+  },
+  {
+   "text": "Mansion",
+   "conf": 0.77
+  },
+  {
+   "text": "Wavro}i",
+   "conf": 0.32
+  },
+  {
+   "text": "F",
+   "conf": 0.61
+  },
+  {
+   "text": "Road",
+   "conf": 0.61
+  },
+  {
+   "text": "‘Colaba.Munbe!",
+   "conf": 0.18
+  },
+  {
+   "text": "400007",
+   "conf": 0.66
+  },
+  {
+   "text": "Bate",
+   "conf": 0.54
+  },
+  {
+   "text": ":",
+   "conf": 0.36
+  },
+  {
+   "text": "mov",
+   "conf": 0.13
+  },
+  {
+   "text": "atte.",
+   "conf": 0.45
+  },
+  {
+   "text": "fl",
+   "conf": 0.15
+  },
+  {
+   "text": "TN.",
+   "conf": 0.24
+  },
+  {
+   "text": "5",
+   "conf": 0.62
+  },
+  {
+   "text": "Wen",
+   "conf": 0.12
+  },
+  {
+   "text": "2",
+   "conf": 0.23
+  },
+  {
+   "text": "“particulars",
+   "conf": 0.0
+  },
+  {
+   "text": "Sty",
+   "conf": 0.39
+  },
+  {
+   "text": "Rete",
+   "conf": 0.65
+  },
+  {
+   "text": "art",
+   "conf": 0.59
+  },
+  {
+   "text": "awn",
+   "conf": 0.44
+  },
+  {
+   "text": "8",
+   "conf": 0.0
+  },
+  {
+   "text": "1",
+   "conf": 0.28
+  },
+  {
+   "text": "ee",
+   "conf": 0.13
+  },
+  {
+   "text": "mw",
+   "conf": 0.29
+  },
+  {
+   "text": "i",
+   "conf": 0.04
+  },
+  {
+   "text": "es",
+   "conf": 0.26
+  },
+  {
+   "text": "btn,",
+   "conf": 0.0
+  },
+  {
+   "text": "0.0",
+   "conf": 0.22
+  },
+  {
+   "text": "ee",
+   "conf": 0.16
+  },
+  {
+   "text": "cee",
+   "conf": 0.33
+  }
+ ],
+ "mean_conf": 0.31,
+ "low_conf_share": 0.75,
+ "latency_ms": 308,
+ "fields": {
+  "company": "BADEMIVA RESTAURANT",
+  "date": null,
+  "total": null
+ },
+ "rule_reasons": [
+  "date_not_found",
+  "total_not_found"
+ ],
+ "total_candidates": [],
+ "key": "W0144_2c9c08f42a06"
+}

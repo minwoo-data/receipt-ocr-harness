@@ -1,0 +1,200 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "RAPID WHEELS AUTO SERVICE",
+  "LOT 1182 JALAN KLANG LAMA",
+  "TAX INVOICE",
+  "Date: 13/05/2025 Time: 13:42",
+  "1 x STEAMED FISH 48.00",
+  "2 x MINERAL WATER 1.5L 4.40",
+  "SUBTOTAL 52.40",
+  "GST 6% 3.14",
+  "TOTAL 55.54",
+  "CASH 60.54",
+  "CHANGE 5.00",
+  "THANK YOU, PLEASE COME AGAIN"
+ ],
+ "tokens": [
+  {
+   "text": "RAPID",
+   "conf": 0.96
+  },
+  {
+   "text": "WHEELS",
+   "conf": 0.96
+  },
+  {
+   "text": "AUTO",
+   "conf": 0.96
+  },
+  {
+   "text": "SERVICE",
+   "conf": 0.95
+  },
+  {
+   "text": "LOT",
+   "conf": 0.95
+  },
+  {
+   "text": "1182",
+   "conf": 0.95
+  },
+  {
+   "text": "JALAN",
+   "conf": 0.95
+  },
+  {
+   "text": "KLANG",
+   "conf": 0.96
+  },
+  {
+   "text": "LAMA",
+   "conf": 0.96
+  },
+  {
+   "text": "TAX",
+   "conf": 0.96
+  },
+  {
+   "text": "INVOICE",
+   "conf": 0.96
+  },
+  {
+   "text": "Date:",
+   "conf": 0.95
+  },
+  {
+   "text": "13/05/2025",
+   "conf": 0.95
+  },
+  {
+   "text": "Time:",
+   "conf": 0.96
+  },
+  {
+   "text": "13:42",
+   "conf": 0.96
+  },
+  {
+   "text": "1",
+   "conf": 0.87
+  },
+  {
+   "text": "x",
+   "conf": 0.87
+  },
+  {
+   "text": "STEAMED",
+   "conf": 0.95
+  },
+  {
+   "text": "FISH",
+   "conf": 0.96
+  },
+  {
+   "text": "48.00",
+   "conf": 0.93
+  },
+  {
+   "text": "2",
+   "conf": 0.91
+  },
+  {
+   "text": "x",
+   "conf": 0.91
+  },
+  {
+   "text": "MINERAL",
+   "conf": 0.95
+  },
+  {
+   "text": "WATER",
+   "conf": 0.95
+  },
+  {
+   "text": "1.5L",
+   "conf": 0.95
+  },
+  {
+   "text": "4.40",
+   "conf": 0.9
+  },
+  {
+   "text": "SUBTOTAL",
+   "conf": 0.96
+  },
+  {
+   "text": "52.40",
+   "conf": 0.96
+  },
+  {
+   "text": "GST",
+   "conf": 0.96
+  },
+  {
+   "text": "6%",
+   "conf": 0.95
+  },
+  {
+   "text": "3.14",
+   "conf": 0.95
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.96
+  },
+  {
+   "text": "55.54",
+   "conf": 0.96
+  },
+  {
+   "text": "CASH",
+   "conf": 0.96
+  },
+  {
+   "text": "60.54",
+   "conf": 0.94
+  },
+  {
+   "text": "CHANGE",
+   "conf": 0.96
+  },
+  {
+   "text": "5.00",
+   "conf": 0.95
+  },
+  {
+   "text": "THANK",
+   "conf": 0.96
+  },
+  {
+   "text": "YOU,",
+   "conf": 0.96
+  },
+  {
+   "text": "PLEASE",
+   "conf": 0.96
+  },
+  {
+   "text": "COME",
+   "conf": 0.96
+  },
+  {
+   "text": "AGAIN",
+   "conf": 0.96
+  }
+ ],
+ "mean_conf": 0.9476,
+ "low_conf_share": 0.0,
+ "latency_ms": 3160,
+ "fields": {
+  "company": "RAPID WHEELS AUTO SERVICE",
+  "date": "2025-05-13",
+  "total": 55.54
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  55.54
+ ],
+ "key": "SYN009"
+}

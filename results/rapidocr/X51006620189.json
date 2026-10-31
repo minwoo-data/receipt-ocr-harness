@@ -1,0 +1,285 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "99SPEED MART S/B(519537-X)",
+  "LOT P.T.33198,BATU4",
+  "JALAN KAPAR,MUKIM KAPAR",
+  "42100 KLANG,SELANGOR",
+  "1605-TMN SRI BINTANG",
+  "GSTID.N0:000181747712",
+  "INV0ICEN0:17664/103/T0027",
+  "10:12AM 560272 11-05-16",
+  "967 ANCHOR SERBUK CUCI 4KG RM18.805",
+  "@2XRM9.40",
+  "886 D0VE CREAM BAR S0AP100 RM26.50s",
+  "10XRM2.65",
+  "5551 FERNLEAF FULL CRM MILK RM40.95s",
+  "2267 COLGATE GREAT REGULAR RM15.985",
+  "2XRM7.99",
+  "265LEE KUM KEE SOS TIRAM C RM22.80",
+  "3XRM7.60",
+  "193 CHEONG CHAN SOS KARAMEL RM5.095",
+  "2394 MISTER POTAT0 CHIPS BB RM7.90s",
+  "@2XRM3.95",
+  "8019 MARIGOLD HL MILK 1L RM12.70s",
+  "@2XRM6.35",
+  "706 BINTANG TEPUNG JAGUNG4 RM1.35s",
+  "2216 NUTELLA FERRERO HAZELN RM14.655",
+  "9547 NUTRIPLUS CHEESE CHICK RM10.50",
+  "@2XRM5.25",
+  "Total Sales (Inclusive GST) RM 177.22",
+  "Rounding Adjustment RM -.02",
+  "Rounding RM 177.20",
+  "CREDIT RH 177.20",
+  "CHANGE RM .00",
+  "GST Summary Amount(RM) Tax(RM)",
+  "5=6% 167.19 10.03",
+  "Thank You. Please come again",
+  "Keep the invoice for applicable returns"
+ ],
+ "tokens": [
+  {
+   "text": "99SPEED MART S/B(519537-X)",
+   "conf": 0.9403605690369239
+  },
+  {
+   "text": "LOT P.T.33198,BATU4",
+   "conf": 0.934271514415741
+  },
+  {
+   "text": "JALAN KAPAR,MUKIM KAPAR",
+   "conf": 0.9435750660688981
+  },
+  {
+   "text": "42100 KLANG,SELANGOR",
+   "conf": 0.9569093436002731
+  },
+  {
+   "text": "1605-TMN SRI BINTANG",
+   "conf": 0.9513411462306977
+  },
+  {
+   "text": "GSTID.N0:000181747712",
+   "conf": 0.9726898414748055
+  },
+  {
+   "text": "INV0ICEN0:17664/103/T0027",
+   "conf": 0.9760772395133972
+  },
+  {
+   "text": "10:12AM",
+   "conf": 0.9027799623353141
+  },
+  {
+   "text": "560272",
+   "conf": 0.9908141692479452
+  },
+  {
+   "text": "11-05-16",
+   "conf": 0.994562640786171
+  },
+  {
+   "text": "967 ANCHOR SERBUK CUCI 4KG",
+   "conf": 0.9295424933616931
+  },
+  {
+   "text": "RM18.805",
+   "conf": 0.9312722459435463
+  },
+  {
+   "text": "@2XRM9.40",
+   "conf": 0.8892728355195787
+  },
+  {
+   "text": "886 D0VE CREAM BAR S0AP100",
+   "conf": 0.8947076293138357
+  },
+  {
+   "text": "RM26.50s",
+   "conf": 0.9231546521186829
+  },
+  {
+   "text": "10XRM2.65",
+   "conf": 0.9707716703414917
+  },
+  {
+   "text": "5551 FERNLEAF FULL CRM MILK",
+   "conf": 0.9457884320506343
+  },
+  {
+   "text": "RM40.95s",
+   "conf": 0.9472619071602821
+  },
+  {
+   "text": "2267 COLGATE GREAT REGULAR",
+   "conf": 0.9599317679038415
+  },
+  {
+   "text": "RM15.985",
+   "conf": 0.9576296806335449
+  },
+  {
+   "text": "2XRM7.99",
+   "conf": 0.951948381960392
+  },
+  {
+   "text": "265LEE KUM KEE SOS TIRAM C",
+   "conf": 0.9284173937944266
+  },
+  {
+   "text": "RM22.80",
+   "conf": 0.9692516497203282
+  },
+  {
+   "text": "3XRM7.60",
+   "conf": 0.9331669732928276
+  },
+  {
+   "text": "193 CHEONG CHAN SOS KARAMEL",
+   "conf": 0.9217540224393209
+  },
+  {
+   "text": "RM5.095",
+   "conf": 0.9153557249477932
+  },
+  {
+   "text": "2394 MISTER POTAT0 CHIPS BB",
+   "conf": 0.9473653104570177
+  },
+  {
+   "text": "RM7.90s",
+   "conf": 0.876267956835883
+  },
+  {
+   "text": "@2XRM3.95",
+   "conf": 0.8637219203843011
+  },
+  {
+   "text": "8019 MARIGOLD HL MILK 1L",
+   "conf": 0.941054085890452
+  },
+  {
+   "text": "RM12.70s",
+   "conf": 0.940372109413147
+  },
+  {
+   "text": "@2XRM6.35",
+   "conf": 0.8442030118571388
+  },
+  {
+   "text": "706 BINTANG TEPUNG JAGUNG4",
+   "conf": 0.9677393253032978
+  },
+  {
+   "text": "RM1.35s",
+   "conf": 0.9285921795027596
+  },
+  {
+   "text": "2216 NUTELLA FERRERO HAZELN",
+   "conf": 0.9601160409273924
+  },
+  {
+   "text": "RM14.655",
+   "conf": 0.8933186791837215
+  },
+  {
+   "text": "9547 NUTRIPLUS CHEESE CHICK",
+   "conf": 0.962501155005561
+  },
+  {
+   "text": "RM10.50",
+   "conf": 0.9387694852692741
+  },
+  {
+   "text": "@2XRM5.25",
+   "conf": 0.8483850028779771
+  },
+  {
+   "text": "Total Sales (Inclusive GST) RM",
+   "conf": 0.9091573854287466
+  },
+  {
+   "text": "177.22",
+   "conf": 0.9953928291797638
+  },
+  {
+   "text": "Rounding Adjustment RM",
+   "conf": 0.9677401076663624
+  },
+  {
+   "text": "-.02",
+   "conf": 0.8868616819381714
+  },
+  {
+   "text": "Rounding RM",
+   "conf": 0.9823085123842413
+  },
+  {
+   "text": "177.20",
+   "conf": 0.9945977926254272
+  },
+  {
+   "text": "CREDIT RH",
+   "conf": 0.8834933671686385
+  },
+  {
+   "text": "177.20",
+   "conf": 0.9928577840328217
+  },
+  {
+   "text": "CHANGE RM",
+   "conf": 0.9602772328588698
+  },
+  {
+   "text": ".00",
+   "conf": 0.9724392890930176
+  },
+  {
+   "text": "GST Summary",
+   "conf": 0.94327467138117
+  },
+  {
+   "text": "Amount(RM)",
+   "conf": 0.8636774718761444
+  },
+  {
+   "text": "Tax(RM)",
+   "conf": 0.917097134249551
+  },
+  {
+   "text": "5=6%",
+   "conf": 0.7668317779898643
+  },
+  {
+   "text": "167.19",
+   "conf": 0.9945869247118632
+  },
+  {
+   "text": "10.03",
+   "conf": 0.9874794602394104
+  },
+  {
+   "text": "Thank You. Please come again",
+   "conf": 0.954110324382782
+  },
+  {
+   "text": "Keep the invoice for applicable returns",
+   "conf": 0.9712591935426761
+  }
+ ],
+ "mean_conf": 0.9366,
+ "low_conf_share": 0.0,
+ "latency_ms": 4289,
+ "fields": {
+  "company": null,
+  "date": "2016-05-11",
+  "total": 177.22
+ },
+ "rule_reasons": [
+  "company_not_found"
+ ],
+ "total_candidates": [
+  177.22
+ ],
+ "key": "X51006620189"
+}

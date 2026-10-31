@@ -34,17 +34,7 @@ def load_manifest(path: Path) -> dict[str, dict]:
         return {r["key"]: r for r in (json.loads(l) for l in fh if l.strip())}
 
 
-def predicted_fields(rec: dict) -> dict:
-    """Map either record shape onto the three scored fields."""
-    if "fields" in rec:                       # tier 1 (text + rules)
-        f = rec["fields"]
-        return {"company": norm_company(f.get("company")),
-                "date": norm_date(f.get("date"), day_first=True),
-                "total": norm_total(f.get("total"))}
-    data = rec.get("data") or {}             # VLM tiers
-    return {"company": norm_company(data.get("vendor")),
-            "date": norm_date(data.get("date"), day_first=True),
-            "total": norm_total(data.get("total"))}
+from harness.scoring import correct_fields, predicted_fields  # noqa: E402  (shared, day_first-aware)
 
 
 RESULTS = ROOT / "results"
@@ -63,12 +53,7 @@ def score_engine(engine: str, manifest: dict[str, dict], out_dir: Path) -> dict 
         key = rec.get("key") or f.stem
         gt = manifest[key]["gt"]
         pred = predicted_fields(rec, day_first=manifest[key].get("day_first", True))
-        correct = {}
-        for fld in FIELDS:
-            if gt[fld] is None:
-                correct[fld] = None               # unscorable
-            else:
-                correct[fld] = (pred[fld] == gt[fld])
+        correct = correct_fields(pred, gt)       # company compared space-insensitively
         scored = [c for c in correct.values() if c is not None]
         rows.append({
             "key": key,

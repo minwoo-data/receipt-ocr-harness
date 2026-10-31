@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.1-flash-lite",
+ "provider": "gemini",
+ "raw_text": "{\n  \"vendor\": \"PEGASUS ON THE FLY\",\n  \"date\": \"2017-01-31\",\n  \"subtotal\": 13.87,\n  \"tax\": 1.68,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 15.55,\n  \"currency\": \"USD\",\n  \"confidence\": 0.98,\n  \"notes\": \"Tax is the sum of Tax 1 (1.30) and Tax 2 (0.38).\"\n}",
+ "data": {
+  "vendor": "PEGASUS ON THE FLY",
+  "date": "2017-01-31",
+  "subtotal": 13.87,
+  "tax": 1.68,
+  "tip": null,
+  "discount": null,
+  "total": 15.55,
+  "currency": "USD",
+  "confidence": 0.98,
+  "notes": "Tax is the sum of Tax 1 (1.30) and Tax 2 (0.38)."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1471,
+  "output_tokens": 132,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.000566,
+ "latency_ms": 1565,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.1-flash-lite",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.1-flash-lite"
+ ],
+ "key": "W0161_27f879c6141f"
+}

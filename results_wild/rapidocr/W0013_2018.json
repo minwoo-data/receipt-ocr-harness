@@ -1,0 +1,188 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "CIR",
+  "LN",
+  "PUDTANRRSTAURANT",
+  "1/F.UNIT101.CHEUNG'S",
+  "BLDG.1-3 WING LOK.STREET",
+  "SHEUNG WAN.HONG KONG",
+  "T:28505075F:28505844",
+  "REG22-09-201421:11",
+  "000055",
+  "CT",
+  "1ChickenTikka 0008",
+  "-60.00",
+  "Garlic Naan 22.00",
+  "1Pullao Rice 38.00",
+  "2Kingfisner 70.00",
+  "ST -270.00",
+  "10%",
+  "ServicesCHR 27.00",
+  "TL 297.00",
+  "CASH 297.00",
+  "DAILY OPENING HOURS",
+  "11AM 3PM6PM 11PM",
+  "THANK YOU",
+  "COMEAGAIN"
+ ],
+ "tokens": [
+  {
+   "text": "CIR",
+   "conf": 0.9811055858929952
+  },
+  {
+   "text": "LN",
+   "conf": 0.5298783481121063
+  },
+  {
+   "text": "PUDTANRRSTAURANT",
+   "conf": 0.6696197912096977
+  },
+  {
+   "text": "1/F.UNIT101.CHEUNG'S",
+   "conf": 0.8660626679658889
+  },
+  {
+   "text": "BLDG.1-3 WING LOK.STREET",
+   "conf": 0.8863199688494205
+  },
+  {
+   "text": "SHEUNG WAN.HONG KONG",
+   "conf": 0.9541259974241256
+  },
+  {
+   "text": "T:28505075F:28505844",
+   "conf": 0.9564694136381149
+  },
+  {
+   "text": "REG22-09-201421:11",
+   "conf": 0.9800537063015832
+  },
+  {
+   "text": "000055",
+   "conf": 0.985981305440267
+  },
+  {
+   "text": "CT",
+   "conf": 0.9914808869361877
+  },
+  {
+   "text": "1ChickenTikka",
+   "conf": 0.9579020005006057
+  },
+  {
+   "text": "0008",
+   "conf": 0.7720208689570427
+  },
+  {
+   "text": "-60.00",
+   "conf": 0.9233367542425791
+  },
+  {
+   "text": "Garlic Naan",
+   "conf": 0.921503641388633
+  },
+  {
+   "text": "22.00",
+   "conf": 0.9947485327720642
+  },
+  {
+   "text": "1Pullao Rice",
+   "conf": 0.9010629107554754
+  },
+  {
+   "text": "38.00",
+   "conf": 0.9923574566841126
+  },
+  {
+   "text": "2Kingfisner",
+   "conf": 0.9300337488001044
+  },
+  {
+   "text": "70.00",
+   "conf": 0.9973559141159057
+  },
+  {
+   "text": "ST",
+   "conf": 0.9437412321567535
+  },
+  {
+   "text": "-270.00",
+   "conf": 0.90646373799869
+  },
+  {
+   "text": "10%",
+   "conf": 0.9954270720481873
+  },
+  {
+   "text": "ServicesCHR",
+   "conf": 0.9801218238743868
+  },
+  {
+   "text": "27.00",
+   "conf": 0.9963217616081238
+  },
+  {
+   "text": "TL",
+   "conf": 0.9797549843788147
+  },
+  {
+   "text": "297.00",
+   "conf": 0.9880784451961517
+  },
+  {
+   "text": "CASH",
+   "conf": 0.9927861839532852
+  },
+  {
+   "text": "297.00",
+   "conf": 0.9939099748929342
+  },
+  {
+   "text": "DAILY OPENING HOURS",
+   "conf": 0.9726373270938271
+  },
+  {
+   "text": "11AM",
+   "conf": 0.9891752898693085
+  },
+  {
+   "text": "3PM6PM",
+   "conf": 0.9838519295056661
+  },
+  {
+   "text": "11PM",
+   "conf": 0.9902389645576477
+  },
+  {
+   "text": "THANK YOU",
+   "conf": 0.9607335925102234
+  },
+  {
+   "text": "COMEAGAIN",
+   "conf": 0.9948180384106107
+  }
+ ],
+ "mean_conf": 0.937,
+ "low_conf_share": 0.0,
+ "latency_ms": 3597,
+ "fields": {
+  "company": "CIR",
+  "date": "2014-09-22",
+  "total": 297.0
+ },
+ "rule_reasons": [
+  "total_no_keyword_fallback_max"
+ ],
+ "total_candidates": [
+  22.0,
+  38.0,
+  70.0,
+  -270.0,
+  27.0,
+  297.0,
+  297.0
+ ],
+ "key": "W0013_2018"
+}

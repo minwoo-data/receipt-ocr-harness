@@ -1,0 +1,220 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "(481500-M)",
+  "CW KHOO HARDWARE SDN BHD",
+  "NO.50, JALAN PBS 14/11,",
+  "KAWASANPERINDUSTRIAN BUKITSERDANG,",
+  "Tel: 03-89410243 Fax : 03-89410243",
+  "GST Reg No. : 000549584896",
+  "Tax Invoice",
+  "Invoice No. : CR 1806/0729",
+  "Date : 11/06/20183:38:36 PM",
+  "Cashier No. : tee",
+  "Counter No. :c2",
+  "Printed Date : 11/06/2018 3:36:21 PM",
+  "Item Name Qty Unit Price Amount",
+  "100#X 4L COMPRESSOR OIL @ TIN",
+  "1 48.00 48.00 SR",
+  "1 Item(s) Net Total (MYR : 48.00",
+  "Rounding Adj. : 0.00",
+  "Net Total Rounded (MYR) : 48.00",
+  "Cash 48.00",
+  "Change 0.00",
+  "GST Summary Item Amount(MYR) 3ST (MYR)",
+  "SR @0% 1 48.00 0.00",
+  "Thank You. Please Come Again !"
+ ],
+ "tokens": [
+  {
+   "text": "(481500-M)",
+   "conf": 0.9912298083305359
+  },
+  {
+   "text": "CW KHOO HARDWARE SDN BHD",
+   "conf": 0.9442284082372984
+  },
+  {
+   "text": "NO.50, JALAN PBS 14/11,",
+   "conf": 0.967283238535342
+  },
+  {
+   "text": "KAWASANPERINDUSTRIAN BUKITSERDANG,",
+   "conf": 0.9661431452807259
+  },
+  {
+   "text": "Tel: 03-89410243",
+   "conf": 0.968296367675066
+  },
+  {
+   "text": "Fax : 03-89410243",
+   "conf": 0.9621897655374864
+  },
+  {
+   "text": "GST Reg No. : 000549584896",
+   "conf": 0.9926882477907034
+  },
+  {
+   "text": "Tax Invoice",
+   "conf": 0.9756144231015985
+  },
+  {
+   "text": "Invoice No.",
+   "conf": 0.9978406700220975
+  },
+  {
+   "text": ": CR 1806/0729",
+   "conf": 0.962670087814331
+  },
+  {
+   "text": "Date",
+   "conf": 0.9959708899259567
+  },
+  {
+   "text": ": 11/06/20183:38:36 PM",
+   "conf": 0.9587477526881478
+  },
+  {
+   "text": "Cashier No.",
+   "conf": 0.988634700124914
+  },
+  {
+   "text": ": tee",
+   "conf": 0.8953163623809814
+  },
+  {
+   "text": "Counter No.",
+   "conf": 0.9916634288701144
+  },
+  {
+   "text": ":c2",
+   "conf": 0.7641777296861013
+  },
+  {
+   "text": "Printed Date",
+   "conf": 0.9662378430366516
+  },
+  {
+   "text": ": 11/06/2018 3:36:21 PM",
+   "conf": 0.9717783176380655
+  },
+  {
+   "text": "Item Name",
+   "conf": 0.9842910170555115
+  },
+  {
+   "text": "Qty",
+   "conf": 0.9922207991282145
+  },
+  {
+   "text": "Unit Price",
+   "conf": 0.9890194833278656
+  },
+  {
+   "text": "Amount",
+   "conf": 0.9966289897759756
+  },
+  {
+   "text": "100#X 4L COMPRESSOR OIL @ TIN",
+   "conf": 0.9180132828909775
+  },
+  {
+   "text": "1",
+   "conf": 0.9992170333862305
+  },
+  {
+   "text": "48.00",
+   "conf": 0.9998966455459595
+  },
+  {
+   "text": "48.00 SR",
+   "conf": 0.9839918464422226
+  },
+  {
+   "text": "1 Item(s)",
+   "conf": 0.9441841509607103
+  },
+  {
+   "text": "Net Total (MYR :",
+   "conf": 0.9416283331811428
+  },
+  {
+   "text": "48.00",
+   "conf": 0.9997866153717041
+  },
+  {
+   "text": "Rounding Adj. :",
+   "conf": 0.9889548738797506
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9990484416484833
+  },
+  {
+   "text": "Net Total Rounded (MYR) :",
+   "conf": 0.9879660677909851
+  },
+  {
+   "text": "48.00",
+   "conf": 0.9998104095458984
+  },
+  {
+   "text": "Cash",
+   "conf": 0.9977386146783829
+  },
+  {
+   "text": "48.00",
+   "conf": 0.9998303294181824
+  },
+  {
+   "text": "Change",
+   "conf": 0.9960747261842092
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9990074783563614
+  },
+  {
+   "text": "GST Summary",
+   "conf": 0.9667068503119729
+  },
+  {
+   "text": "Item Amount(MYR) 3ST (MYR)",
+   "conf": 0.9462109529055082
+  },
+  {
+   "text": "SR @0%",
+   "conf": 0.9032765130201975
+  },
+  {
+   "text": "1",
+   "conf": 0.9942881464958191
+  },
+  {
+   "text": "48.00",
+   "conf": 0.999509060382843
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9977642595767975
+  },
+  {
+   "text": "Thank You. Please Come Again !",
+   "conf": 0.9793143113454182
+  }
+ ],
+ "mean_conf": 0.9719,
+ "low_conf_share": 0.0,
+ "latency_ms": 4468,
+ "fields": {
+  "company": "CW KHOO HARDWARE SDN BHD",
+  "date": "2018-06-11",
+  "total": 48.0
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  48.0,
+  48.0
+ ],
+ "key": "X51008123451"
+}

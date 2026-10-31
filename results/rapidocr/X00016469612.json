@@ -1,0 +1,220 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "tan woon yann",
+  "BOOKTA_K(TAMANDAYA)SDNBHD",
+  "789417-W",
+  "NO.5:55,57&59,JALANSAGU18",
+  "TAMANDAYA.",
+  "8110OJOHORBAHRU",
+  "JOHOR.",
+  "DocumentNo:TD01167104",
+  "Date: 25/12/20188:13:39PM",
+  "Cashier: MANIS",
+  "Member:",
+  "CASH BILL",
+  "CODE/DESC PRICE AMOUNI",
+  "QTY R14 RM",
+  "9556939040118 KFMODELIINGCLAYKIDDYFISH",
+  "1PC 9.000 0.00 9.00",
+  "Total: 9.00",
+  "Rour dingAdjustment 0.00",
+  "RounddTotal(RM): 9.00",
+  "Cash 10.00",
+  "CHANGE 100",
+  "9.00",
+  "GOODSSOLDARENOTRETURNABLEOR",
+  "EXCHANGEABLE",
+  "物出门，得不退建或更换",
+  "明有下使，敬请原谅，谢谢！",
+  "THANKYOU",
+  "PLEASECOIEAGAIN!"
+ ],
+ "tokens": [
+  {
+   "text": "tan woon yann",
+   "conf": 0.9844387357051556
+  },
+  {
+   "text": "BOOKTA_K(TAMANDAYA)SDNBHD",
+   "conf": 0.9492570638656617
+  },
+  {
+   "text": "789417-W",
+   "conf": 0.9305261000990868
+  },
+  {
+   "text": "NO.5:55,57&59,JALANSAGU18",
+   "conf": 0.9249918270111084
+  },
+  {
+   "text": "TAMANDAYA.",
+   "conf": 0.9626152098178864
+  },
+  {
+   "text": "8110OJOHORBAHRU",
+   "conf": 0.9568023045857748
+  },
+  {
+   "text": "JOHOR.",
+   "conf": 0.986615926027298
+  },
+  {
+   "text": "DocumentNo:TD01167104",
+   "conf": 0.9752008631115868
+  },
+  {
+   "text": "Date:",
+   "conf": 0.9523170709609985
+  },
+  {
+   "text": "25/12/20188:13:39PM",
+   "conf": 0.9724255612021998
+  },
+  {
+   "text": "Cashier:",
+   "conf": 0.9786136448383331
+  },
+  {
+   "text": "MANIS",
+   "conf": 0.9915746808052063
+  },
+  {
+   "text": "Member:",
+   "conf": 0.9868208084787641
+  },
+  {
+   "text": "CASH BILL",
+   "conf": 0.9463324281904433
+  },
+  {
+   "text": "CODE/DESC",
+   "conf": 0.9930962787734138
+  },
+  {
+   "text": "PRICE",
+   "conf": 0.9613336682319641
+  },
+  {
+   "text": "AMOUNI",
+   "conf": 0.9210720658302307
+  },
+  {
+   "text": "QTY",
+   "conf": 0.9890447656313578
+  },
+  {
+   "text": "R14",
+   "conf": 0.5296596388022105
+  },
+  {
+   "text": "RM",
+   "conf": 0.9897251725196838
+  },
+  {
+   "text": "9556939040118",
+   "conf": 0.9842756069623507
+  },
+  {
+   "text": "KFMODELIINGCLAYKIDDYFISH",
+   "conf": 0.9398646826545397
+  },
+  {
+   "text": "1PC",
+   "conf": 0.9723865985870361
+  },
+  {
+   "text": "9.000",
+   "conf": 0.9831727266311645
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9871574193239212
+  },
+  {
+   "text": "9.00",
+   "conf": 0.9921641945838928
+  },
+  {
+   "text": "Total:",
+   "conf": 0.9768146077791849
+  },
+  {
+   "text": "9.00",
+   "conf": 0.9878261685371399
+  },
+  {
+   "text": "Rour dingAdjustment",
+   "conf": 0.9501935651427821
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9961788356304169
+  },
+  {
+   "text": "RounddTotal(RM):",
+   "conf": 0.921801645308733
+  },
+  {
+   "text": "9.00",
+   "conf": 0.9777350723743439
+  },
+  {
+   "text": "Cash",
+   "conf": 0.9883565455675125
+  },
+  {
+   "text": "10.00",
+   "conf": 0.9953537344932556
+  },
+  {
+   "text": "CHANGE",
+   "conf": 0.9912657141685486
+  },
+  {
+   "text": "9.00",
+   "conf": 0.9537207335233688
+  },
+  {
+   "text": "100",
+   "conf": 0.9963437914848328
+  },
+  {
+   "text": "GOODSSOLDARENOTRETURNABLEOR",
+   "conf": 0.9800365765889486
+  },
+  {
+   "text": "EXCHANGEABLE",
+   "conf": 0.988204891482989
+  },
+  {
+   "text": "物出门，得不退建或更换",
+   "conf": 0.5466565286571329
+  },
+  {
+   "text": "明有下使，敬请原谅，谢谢！",
+   "conf": 0.7323049616355163
+  },
+  {
+   "text": "THANKYOU",
+   "conf": 0.9954995140433311
+  },
+  {
+   "text": "PLEASECOIEAGAIN!",
+   "conf": 0.9065729305148125
+  }
+ ],
+ "mean_conf": 0.9448,
+ "low_conf_share": 0.0,
+ "latency_ms": 5174,
+ "fields": {
+  "company": "TAN WOON YANN BOOKTA K SDNBHD",
+  "date": "2018-12-25",
+  "total": 9.0
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  9.0
+ ],
+ "key": "X00016469612"
+}

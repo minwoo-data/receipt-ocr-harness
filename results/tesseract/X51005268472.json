@@ -1,0 +1,933 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "ASIA MART",
+  "($A0264195-T) oa",
+  "NO.23 BATU 10, TAMAN SENTCT",
+  "JALAN KAPAR, 42200 KLANG,",
+  "| GST ID ; 001609584640",
+  "aaa ee",
+  "Sek ————. TAK INVOIGE poi2i201?",
+  "DozNo —_- GS02070163 PEO 00:06:00",
+  "Cashier : EIRA ie",
+  "Salesperson : EIRA Rel eee",
+  "oe ae ee as ae ee TS ST)",
+  "(GST) iS t Tax",
+  "tem ___Oty Sencar See ea man",
+  "955664132002; 17 0.85 0.90 H",
+  "DELICIA CHOCOLATE [50G] arn",
+  "956623111004 3.65 3.55 3.55",
+  "GARDENIA ORIGINAL CLASSIC JUMBO [600G]",
+  "9556127101331 1 1.41 1.50 1.50 SR",
+  "Hu 4S LIME 50G",
+  "8850199320727 4 1.42 1.51 1.51 SR",
+  "DOREMON CATCAT JOY 15G",
+  "385019932072; 4 1.42 1.51 1.51 SR",
+  "DOREMON CATCAT JOY 15G",
+  "888800218851; 1 2.30 2.44 244° SR",
+  "MINUTE MAID PULPY [OREN] [350ML]",
+  "SRN aE 1 230 2.44 2.44 SR",
+  "MEUTE ! OREN! {350ML]",
+  "BIGE ' l 1.60 1.60 SR",
+  "OM ORINK SGOML",
+  "95595703121 2.74 2.90 2.90 SR",
+  "100 Fi JS [1 6.)",
+  "Totally 2 5",
+  "Total Sales (Excluding GST) :; 31.03",
+  "Discount : 0.00",
+  "TotalGsT : 1.65",
+  "Rounding ; 0.02",
+  "Tatal Sales (Inclusive OofGST) : 32.70",
+  "CASH : 40,09",
+  "Change : 7.30",
+  "[SSESUMMARY cia ae",
+  "| Tax Codg % Amt (RM)",
+  "| Sk 6 27.43 X(RM)",
+  "ZRL 0 3.55 1.65",
+  "eee cps Totaly 31.03 0.09",
+  "ma SAL Blase, AAG",
+  "GOODS SOLD ARE NOT RETuU",
+  "RNABLE, THANK You,"
+ ],
+ "tokens": [
+  {
+   "text": "ASIA",
+   "conf": 0.95
+  },
+  {
+   "text": "MART",
+   "conf": 0.95
+  },
+  {
+   "text": "($A0264195-T)",
+   "conf": 0.5
+  },
+  {
+   "text": "oa",
+   "conf": 0.0
+  },
+  {
+   "text": "NO.23",
+   "conf": 0.85
+  },
+  {
+   "text": "BATU",
+   "conf": 0.95
+  },
+  {
+   "text": "10,",
+   "conf": 0.93
+  },
+  {
+   "text": "TAMAN",
+   "conf": 0.84
+  },
+  {
+   "text": "SENTCT",
+   "conf": 0.0
+  },
+  {
+   "text": "JALAN",
+   "conf": 0.93
+  },
+  {
+   "text": "KAPAR,",
+   "conf": 0.92
+  },
+  {
+   "text": "42200",
+   "conf": 0.96
+  },
+  {
+   "text": "KLANG,",
+   "conf": 0.92
+  },
+  {
+   "text": "|",
+   "conf": 0.88
+  },
+  {
+   "text": "GST",
+   "conf": 0.95
+  },
+  {
+   "text": "ID",
+   "conf": 0.91
+  },
+  {
+   "text": ";",
+   "conf": 0.62
+  },
+  {
+   "text": "001609584640",
+   "conf": 0.83
+  },
+  {
+   "text": "aaa",
+   "conf": 0.31
+  },
+  {
+   "text": "ee",
+   "conf": 0.2
+  },
+  {
+   "text": "Sek",
+   "conf": 0.28
+  },
+  {
+   "text": "————.",
+   "conf": 0.38
+  },
+  {
+   "text": "TAK",
+   "conf": 0.23
+  },
+  {
+   "text": "INVOIGE",
+   "conf": 0.23
+  },
+  {
+   "text": "poi2i201?",
+   "conf": 0.0
+  },
+  {
+   "text": "DozNo",
+   "conf": 0.82
+  },
+  {
+   "text": "—_-",
+   "conf": 0.06
+  },
+  {
+   "text": "GS02070163",
+   "conf": 0.54
+  },
+  {
+   "text": "PEO",
+   "conf": 0.4
+  },
+  {
+   "text": "00:06:00",
+   "conf": 0.6
+  },
+  {
+   "text": "Cashier",
+   "conf": 0.96
+  },
+  {
+   "text": ":",
+   "conf": 0.59
+  },
+  {
+   "text": "EIRA",
+   "conf": 0.89
+  },
+  {
+   "text": "ie",
+   "conf": 0.14
+  },
+  {
+   "text": "Salesperson",
+   "conf": 0.92
+  },
+  {
+   "text": ":",
+   "conf": 0.46
+  },
+  {
+   "text": "EIRA",
+   "conf": 0.92
+  },
+  {
+   "text": "Rel",
+   "conf": 0.47
+  },
+  {
+   "text": "eee",
+   "conf": 0.33
+  },
+  {
+   "text": "oe",
+   "conf": 0.02
+  },
+  {
+   "text": "ae",
+   "conf": 0.27
+  },
+  {
+   "text": "ee",
+   "conf": 0.25
+  },
+  {
+   "text": "as",
+   "conf": 0.32
+  },
+  {
+   "text": "ae",
+   "conf": 0.19
+  },
+  {
+   "text": "ee",
+   "conf": 0.22
+  },
+  {
+   "text": "TS",
+   "conf": 0.38
+  },
+  {
+   "text": "ST)",
+   "conf": 0.55
+  },
+  {
+   "text": "(GST)",
+   "conf": 0.96
+  },
+  {
+   "text": "iS",
+   "conf": 0.44
+  },
+  {
+   "text": "t",
+   "conf": 0.86
+  },
+  {
+   "text": "Tax",
+   "conf": 0.91
+  },
+  {
+   "text": "tem",
+   "conf": 0.58
+  },
+  {
+   "text": "___Oty",
+   "conf": 0.13
+  },
+  {
+   "text": "Sencar",
+   "conf": 0.0
+  },
+  {
+   "text": "See",
+   "conf": 0.13
+  },
+  {
+   "text": "ea",
+   "conf": 0.01
+  },
+  {
+   "text": "man",
+   "conf": 0.18
+  },
+  {
+   "text": "955664132002;",
+   "conf": 0.89
+  },
+  {
+   "text": "17",
+   "conf": 0.75
+  },
+  {
+   "text": "0.85",
+   "conf": 0.93
+  },
+  {
+   "text": "0.90",
+   "conf": 0.85
+  },
+  {
+   "text": "H",
+   "conf": 0.0
+  },
+  {
+   "text": "DELICIA",
+   "conf": 0.91
+  },
+  {
+   "text": "CHOCOLATE",
+   "conf": 0.93
+  },
+  {
+   "text": "[50G]",
+   "conf": 0.61
+  },
+  {
+   "text": "arn",
+   "conf": 0.19
+  },
+  {
+   "text": "956623111004",
+   "conf": 0.05
+  },
+  {
+   "text": "3.65",
+   "conf": 0.77
+  },
+  {
+   "text": "3.55",
+   "conf": 0.76
+  },
+  {
+   "text": "3.55",
+   "conf": 0.91
+  },
+  {
+   "text": "GARDENIA",
+   "conf": 0.96
+  },
+  {
+   "text": "ORIGINAL",
+   "conf": 0.96
+  },
+  {
+   "text": "CLASSIC",
+   "conf": 0.96
+  },
+  {
+   "text": "JUMBO",
+   "conf": 0.93
+  },
+  {
+   "text": "[600G]",
+   "conf": 0.88
+  },
+  {
+   "text": "9556127101331",
+   "conf": 0.84
+  },
+  {
+   "text": "1",
+   "conf": 0.74
+  },
+  {
+   "text": "1.41",
+   "conf": 0.8
+  },
+  {
+   "text": "1.50",
+   "conf": 0.95
+  },
+  {
+   "text": "1.50",
+   "conf": 0.85
+  },
+  {
+   "text": "SR",
+   "conf": 0.85
+  },
+  {
+   "text": "Hu",
+   "conf": 0.52
+  },
+  {
+   "text": "4S",
+   "conf": 0.66
+  },
+  {
+   "text": "LIME",
+   "conf": 0.92
+  },
+  {
+   "text": "50G",
+   "conf": 0.92
+  },
+  {
+   "text": "8850199320727",
+   "conf": 0.67
+  },
+  {
+   "text": "4",
+   "conf": 0.53
+  },
+  {
+   "text": "1.42",
+   "conf": 0.94
+  },
+  {
+   "text": "1.51",
+   "conf": 0.95
+  },
+  {
+   "text": "1.51",
+   "conf": 0.75
+  },
+  {
+   "text": "SR",
+   "conf": 0.75
+  },
+  {
+   "text": "DOREMON",
+   "conf": 0.92
+  },
+  {
+   "text": "CATCAT",
+   "conf": 0.9
+  },
+  {
+   "text": "JOY",
+   "conf": 0.93
+  },
+  {
+   "text": "15G",
+   "conf": 0.84
+  },
+  {
+   "text": "385019932072;",
+   "conf": 0.63
+  },
+  {
+   "text": "4",
+   "conf": 0.69
+  },
+  {
+   "text": "1.42",
+   "conf": 0.92
+  },
+  {
+   "text": "1.51",
+   "conf": 0.9
+  },
+  {
+   "text": "1.51",
+   "conf": 0.67
+  },
+  {
+   "text": "SR",
+   "conf": 0.67
+  },
+  {
+   "text": "DOREMON",
+   "conf": 0.9
+  },
+  {
+   "text": "CATCAT",
+   "conf": 0.92
+  },
+  {
+   "text": "JOY",
+   "conf": 0.42
+  },
+  {
+   "text": "15G",
+   "conf": 0.92
+  },
+  {
+   "text": "888800218851;",
+   "conf": 0.59
+  },
+  {
+   "text": "1",
+   "conf": 0.59
+  },
+  {
+   "text": "2.30",
+   "conf": 0.95
+  },
+  {
+   "text": "2.44",
+   "conf": 0.93
+  },
+  {
+   "text": "244°",
+   "conf": 0.49
+  },
+  {
+   "text": "SR",
+   "conf": 0.77
+  },
+  {
+   "text": "MINUTE",
+   "conf": 0.89
+  },
+  {
+   "text": "MAID",
+   "conf": 0.93
+  },
+  {
+   "text": "PULPY",
+   "conf": 0.92
+  },
+  {
+   "text": "[OREN]",
+   "conf": 0.91
+  },
+  {
+   "text": "[350ML]",
+   "conf": 0.89
+  },
+  {
+   "text": "SRN",
+   "conf": 0.23
+  },
+  {
+   "text": "aE",
+   "conf": 0.23
+  },
+  {
+   "text": "1",
+   "conf": 0.9
+  },
+  {
+   "text": "230",
+   "conf": 0.93
+  },
+  {
+   "text": "2.44",
+   "conf": 0.95
+  },
+  {
+   "text": "2.44",
+   "conf": 0.63
+  },
+  {
+   "text": "SR",
+   "conf": 0.83
+  },
+  {
+   "text": "MEUTE",
+   "conf": 0.16
+  },
+  {
+   "text": "!",
+   "conf": 0.21
+  },
+  {
+   "text": "OREN!",
+   "conf": 0.21
+  },
+  {
+   "text": "{350ML]",
+   "conf": 0.64
+  },
+  {
+   "text": "BIGE",
+   "conf": 0.0
+  },
+  {
+   "text": "'",
+   "conf": 0.25
+  },
+  {
+   "text": "l",
+   "conf": 0.0
+  },
+  {
+   "text": "1.60",
+   "conf": 0.95
+  },
+  {
+   "text": "1.60",
+   "conf": 0.67
+  },
+  {
+   "text": "SR",
+   "conf": 0.9
+  },
+  {
+   "text": "OM",
+   "conf": 0.51
+  },
+  {
+   "text": "ORINK",
+   "conf": 0.26
+  },
+  {
+   "text": "SGOML",
+   "conf": 0.18
+  },
+  {
+   "text": "95595703121",
+   "conf": 0.83
+  },
+  {
+   "text": "2.74",
+   "conf": 0.94
+  },
+  {
+   "text": "2.90",
+   "conf": 0.83
+  },
+  {
+   "text": "2.90",
+   "conf": 0.82
+  },
+  {
+   "text": "SR",
+   "conf": 0.67
+  },
+  {
+   "text": "100",
+   "conf": 0.92
+  },
+  {
+   "text": "Fi",
+   "conf": 0.0
+  },
+  {
+   "text": "JS",
+   "conf": 0.0
+  },
+  {
+   "text": "[1",
+   "conf": 0.47
+  },
+  {
+   "text": "6.)",
+   "conf": 0.4
+  },
+  {
+   "text": "Totally",
+   "conf": 0.0
+  },
+  {
+   "text": "2",
+   "conf": 0.09
+  },
+  {
+   "text": "5",
+   "conf": 0.32
+  },
+  {
+   "text": "Total",
+   "conf": 0.96
+  },
+  {
+   "text": "Sales",
+   "conf": 0.96
+  },
+  {
+   "text": "(Excluding",
+   "conf": 0.96
+  },
+  {
+   "text": "GST)",
+   "conf": 0.93
+  },
+  {
+   "text": ":;",
+   "conf": 0.39
+  },
+  {
+   "text": "31.03",
+   "conf": 0.96
+  },
+  {
+   "text": "Discount",
+   "conf": 0.87
+  },
+  {
+   "text": ":",
+   "conf": 0.52
+  },
+  {
+   "text": "0.00",
+   "conf": 0.96
+  },
+  {
+   "text": "TotalGsT",
+   "conf": 0.87
+  },
+  {
+   "text": ":",
+   "conf": 0.51
+  },
+  {
+   "text": "1.65",
+   "conf": 0.95
+  },
+  {
+   "text": "Rounding",
+   "conf": 0.9
+  },
+  {
+   "text": ";",
+   "conf": 0.74
+  },
+  {
+   "text": "0.02",
+   "conf": 0.92
+  },
+  {
+   "text": "Tatal",
+   "conf": 0.86
+  },
+  {
+   "text": "Sales",
+   "conf": 0.96
+  },
+  {
+   "text": "(Inclusive",
+   "conf": 0.95
+  },
+  {
+   "text": "OofGST)",
+   "conf": 0.37
+  },
+  {
+   "text": ":",
+   "conf": 0.71
+  },
+  {
+   "text": "32.70",
+   "conf": 0.96
+  },
+  {
+   "text": "CASH",
+   "conf": 0.9
+  },
+  {
+   "text": ":",
+   "conf": 0.68
+  },
+  {
+   "text": "40,09",
+   "conf": 0.6
+  },
+  {
+   "text": "Change",
+   "conf": 0.91
+  },
+  {
+   "text": ":",
+   "conf": 0.81
+  },
+  {
+   "text": "7.30",
+   "conf": 0.95
+  },
+  {
+   "text": "[SSESUMMARY",
+   "conf": 0.0
+  },
+  {
+   "text": "cia",
+   "conf": 0.19
+  },
+  {
+   "text": "ae",
+   "conf": 0.28
+  },
+  {
+   "text": "|",
+   "conf": 0.59
+  },
+  {
+   "text": "Tax",
+   "conf": 0.75
+  },
+  {
+   "text": "Codg",
+   "conf": 0.9
+  },
+  {
+   "text": "%",
+   "conf": 0.73
+  },
+  {
+   "text": "Amt",
+   "conf": 0.67
+  },
+  {
+   "text": "(RM)",
+   "conf": 0.67
+  },
+  {
+   "text": "|",
+   "conf": 0.87
+  },
+  {
+   "text": "Sk",
+   "conf": 0.87
+  },
+  {
+   "text": "6",
+   "conf": 0.95
+  },
+  {
+   "text": "27.43",
+   "conf": 0.31
+  },
+  {
+   "text": "X(RM)",
+   "conf": 0.0
+  },
+  {
+   "text": "ZRL",
+   "conf": 0.88
+  },
+  {
+   "text": "0",
+   "conf": 0.84
+  },
+  {
+   "text": "3.55",
+   "conf": 0.92
+  },
+  {
+   "text": "1.65",
+   "conf": 0.66
+  },
+  {
+   "text": "eee",
+   "conf": 0.38
+  },
+  {
+   "text": "cps",
+   "conf": 0.0
+  },
+  {
+   "text": "Totaly",
+   "conf": 0.0
+  },
+  {
+   "text": "31.03",
+   "conf": 0.95
+  },
+  {
+   "text": "0.09",
+   "conf": 0.87
+  },
+  {
+   "text": "ma",
+   "conf": 0.44
+  },
+  {
+   "text": "SAL",
+   "conf": 0.15
+  },
+  {
+   "text": "Blase,",
+   "conf": 0.0
+  },
+  {
+   "text": "AAG",
+   "conf": 0.36
+  },
+  {
+   "text": "GOODS",
+   "conf": 0.96
+  },
+  {
+   "text": "SOLD",
+   "conf": 0.94
+  },
+  {
+   "text": "ARE",
+   "conf": 0.94
+  },
+  {
+   "text": "NOT",
+   "conf": 0.94
+  },
+  {
+   "text": "RETuU",
+   "conf": 0.62
+  },
+  {
+   "text": "RNABLE,",
+   "conf": 0.85
+  },
+  {
+   "text": "THANK",
+   "conf": 0.96
+  },
+  {
+   "text": "You,",
+   "conf": 0.71
+  }
+ ],
+ "mean_conf": 0.6404,
+ "low_conf_share": 0.3033,
+ "latency_ms": 2153,
+ "fields": {
+  "company": "ASIA MART",
+  "date": null,
+  "total": 32.7
+ },
+ "rule_reasons": [
+  "date_not_found",
+  "total_no_keyword_fallback_max"
+ ],
+ "total_candidates": [
+  2.3,
+  2.44,
+  2.44,
+  2.44,
+  1.6,
+  1.6,
+  2.74,
+  2.9,
+  2.9,
+  31.03,
+  0.0,
+  1.65,
+  0.02,
+  32.7,
+  7.3,
+  27.43,
+  3.55,
+  1.65,
+  31.03,
+  0.09
+ ],
+ "key": "X51005268472"
+}

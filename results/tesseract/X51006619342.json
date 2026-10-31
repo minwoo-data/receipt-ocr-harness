@@ -1,0 +1,354 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "WR, D.1.¥. (KUCHAT) SDN BHD",
+  "LOT i85i-A & 1851-B, JALAN KPB 64,",
+  "KAWASAN PERINDUSTRIAN BALAKONG,",
+  "43300 SERI KEMBANGAN, SELANGOR",
+  "(GST If No 2000473792512)",
+  "(S6 WANG)",
+  "SPONGE DISHES 61038 ¥§",
+  "WHI4-21-52 - 12/120",
+  "9O4B739 1X 3638 S88",
+  "Ttem(s} 3 1 Oty(s) si",
+  "Total Incl. GST@4% RM 3.30",
+  "CASH RM 3.30",
+  "GST @64 included in total RM 0,19",
+  "17-04-16 14:02 SHO1 BOLY 13 ROODOOS4I25",
+  "OPERATOR CHC - JIVAN",
+  "EXCHANGE ARE ALLOWED WITHIN",
+  "3 DAY WITH RECEIFT.",
+  "| STRICTLY NO CASH REFUND."
+ ],
+ "tokens": [
+  {
+   "text": "WR,",
+   "conf": 0.72
+  },
+  {
+   "text": "D.1.¥.",
+   "conf": 0.5
+  },
+  {
+   "text": "(KUCHAT)",
+   "conf": 0.41
+  },
+  {
+   "text": "SDN",
+   "conf": 0.79
+  },
+  {
+   "text": "BHD",
+   "conf": 0.96
+  },
+  {
+   "text": "LOT",
+   "conf": 0.87
+  },
+  {
+   "text": "i85i-A",
+   "conf": 0.27
+  },
+  {
+   "text": "&",
+   "conf": 0.9
+  },
+  {
+   "text": "1851-B,",
+   "conf": 0.87
+  },
+  {
+   "text": "JALAN",
+   "conf": 0.93
+  },
+  {
+   "text": "KPB",
+   "conf": 0.79
+  },
+  {
+   "text": "64,",
+   "conf": 0.54
+  },
+  {
+   "text": "KAWASAN",
+   "conf": 0.92
+  },
+  {
+   "text": "PERINDUSTRIAN",
+   "conf": 0.68
+  },
+  {
+   "text": "BALAKONG,",
+   "conf": 0.91
+  },
+  {
+   "text": "43300",
+   "conf": 0.9
+  },
+  {
+   "text": "SERI",
+   "conf": 0.81
+  },
+  {
+   "text": "KEMBANGAN,",
+   "conf": 0.9
+  },
+  {
+   "text": "SELANGOR",
+   "conf": 0.95
+  },
+  {
+   "text": "(GST",
+   "conf": 0.86
+  },
+  {
+   "text": "If",
+   "conf": 0.47
+  },
+  {
+   "text": "No",
+   "conf": 0.93
+  },
+  {
+   "text": "2000473792512)",
+   "conf": 0.19
+  },
+  {
+   "text": "(S6",
+   "conf": 0.61
+  },
+  {
+   "text": "WANG)",
+   "conf": 0.95
+  },
+  {
+   "text": "SPONGE",
+   "conf": 0.95
+  },
+  {
+   "text": "DISHES",
+   "conf": 0.95
+  },
+  {
+   "text": "61038",
+   "conf": 0.5
+  },
+  {
+   "text": "¥§",
+   "conf": 0.65
+  },
+  {
+   "text": "WHI4-21-52",
+   "conf": 0.39
+  },
+  {
+   "text": "-",
+   "conf": 0.2
+  },
+  {
+   "text": "12/120",
+   "conf": 0.96
+  },
+  {
+   "text": "9O4B739",
+   "conf": 0.0
+  },
+  {
+   "text": "1X",
+   "conf": 0.46
+  },
+  {
+   "text": "3638",
+   "conf": 0.42
+  },
+  {
+   "text": "S88",
+   "conf": 0.0
+  },
+  {
+   "text": "Ttem(s}",
+   "conf": 0.47
+  },
+  {
+   "text": "3",
+   "conf": 0.56
+  },
+  {
+   "text": "1",
+   "conf": 0.74
+  },
+  {
+   "text": "Oty(s)",
+   "conf": 0.6
+  },
+  {
+   "text": "si",
+   "conf": 0.38
+  },
+  {
+   "text": "Total",
+   "conf": 0.96
+  },
+  {
+   "text": "Incl.",
+   "conf": 0.93
+  },
+  {
+   "text": "GST@4%",
+   "conf": 0.23
+  },
+  {
+   "text": "RM",
+   "conf": 0.84
+  },
+  {
+   "text": "3.30",
+   "conf": 0.84
+  },
+  {
+   "text": "CASH",
+   "conf": 0.96
+  },
+  {
+   "text": "RM",
+   "conf": 0.88
+  },
+  {
+   "text": "3.30",
+   "conf": 0.82
+  },
+  {
+   "text": "GST",
+   "conf": 0.89
+  },
+  {
+   "text": "@64",
+   "conf": 0.23
+  },
+  {
+   "text": "included",
+   "conf": 0.96
+  },
+  {
+   "text": "in",
+   "conf": 0.96
+  },
+  {
+   "text": "total",
+   "conf": 0.95
+  },
+  {
+   "text": "RM",
+   "conf": 0.82
+  },
+  {
+   "text": "0,19",
+   "conf": 0.76
+  },
+  {
+   "text": "17-04-16",
+   "conf": 0.91
+  },
+  {
+   "text": "14:02",
+   "conf": 0.93
+  },
+  {
+   "text": "SHO1",
+   "conf": 0.82
+  },
+  {
+   "text": "BOLY",
+   "conf": 0.58
+  },
+  {
+   "text": "13",
+   "conf": 0.71
+  },
+  {
+   "text": "ROODOOS4I25",
+   "conf": 0.24
+  },
+  {
+   "text": "OPERATOR",
+   "conf": 0.91
+  },
+  {
+   "text": "CHC",
+   "conf": 0.89
+  },
+  {
+   "text": "-",
+   "conf": 0.89
+  },
+  {
+   "text": "JIVAN",
+   "conf": 0.89
+  },
+  {
+   "text": "EXCHANGE",
+   "conf": 0.96
+  },
+  {
+   "text": "ARE",
+   "conf": 0.95
+  },
+  {
+   "text": "ALLOWED",
+   "conf": 0.86
+  },
+  {
+   "text": "WITHIN",
+   "conf": 0.94
+  },
+  {
+   "text": "3",
+   "conf": 0.9
+  },
+  {
+   "text": "DAY",
+   "conf": 0.9
+  },
+  {
+   "text": "WITH",
+   "conf": 0.93
+  },
+  {
+   "text": "RECEIFT.",
+   "conf": 0.86
+  },
+  {
+   "text": "|",
+   "conf": 0.69
+  },
+  {
+   "text": "STRICTLY",
+   "conf": 0.95
+  },
+  {
+   "text": "NO",
+   "conf": 0.95
+  },
+  {
+   "text": "CASH",
+   "conf": 0.95
+  },
+  {
+   "text": "REFUND.",
+   "conf": 0.72
+  }
+ ],
+ "mean_conf": 0.737,
+ "low_conf_share": 0.1899,
+ "latency_ms": 2344,
+ "fields": {
+  "company": "WR D 1 SDN BHD",
+  "date": "2016-04-17",
+  "total": 3.3
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  3.3
+ ],
+ "key": "X51006619342"
+}

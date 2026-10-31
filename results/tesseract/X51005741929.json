@@ -1,0 +1,512 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "—— —————— ea",
+  "4 MyMydin Subang Bestari 2300",
+  "MY NYDIN SUN BHD (257229-K)",
+  "No 13, 15, 17 & 19 Jalan Nova @ U5S/Q,",
+  "Seksyen US,Subang Bestari 40150 Shah Ala",
+  "Selangor Sarul Ehsan",
+  "Tel: 03- 78322935",
+  "GST IO : 001400971264",
+  "RECEIPT",
+  "TERMINAL : 1670",
+  "INVOICE NO. : 1670327566",
+  "DATE + 15/01/2018 10:59:13",
+  "CASHIER : Azhar - 928374",
+  "EVEREADY BAT S/H/D 1212BP4 ABATA S",
+  "5556500903068 1} ¥* 5.50 550",
+  "Item Count |",
+  "Total 5.50 4",
+  "Rounding Adjustment 0.00",
+  "Total After Rounding 5.50",
+  "CASH 100.00",
+  "Changa CASH 94.50",
+  "as! Rate Amt Excl GST(RM) Tax(RI4)",
+  "5 = 6¥ 5.19 0.31V",
+  "Agiits earned in this trans. +: 0",
+  "Recaipt Na: 1670327955",
+  "2riet Date. 19/01/2618 10:59:23",
+  "Thank You",
+  "7 Please Come Again"
+ ],
+ "tokens": [
+  {
+   "text": "——",
+   "conf": 0.0
+  },
+  {
+   "text": "——————",
+   "conf": 0.0
+  },
+  {
+   "text": "ea",
+   "conf": 0.45
+  },
+  {
+   "text": "4",
+   "conf": 0.66
+  },
+  {
+   "text": "MyMydin",
+   "conf": 0.86
+  },
+  {
+   "text": "Subang",
+   "conf": 0.93
+  },
+  {
+   "text": "Bestari",
+   "conf": 0.92
+  },
+  {
+   "text": "2300",
+   "conf": 0.94
+  },
+  {
+   "text": "MY",
+   "conf": 0.9
+  },
+  {
+   "text": "NYDIN",
+   "conf": 0.36
+  },
+  {
+   "text": "SUN",
+   "conf": 0.86
+  },
+  {
+   "text": "BHD",
+   "conf": 0.91
+  },
+  {
+   "text": "(257229-K)",
+   "conf": 0.31
+  },
+  {
+   "text": "No",
+   "conf": 0.78
+  },
+  {
+   "text": "13,",
+   "conf": 0.78
+  },
+  {
+   "text": "15,",
+   "conf": 0.9
+  },
+  {
+   "text": "17",
+   "conf": 0.77
+  },
+  {
+   "text": "&",
+   "conf": 0.77
+  },
+  {
+   "text": "19",
+   "conf": 0.92
+  },
+  {
+   "text": "Jalan",
+   "conf": 0.92
+  },
+  {
+   "text": "Nova",
+   "conf": 0.91
+  },
+  {
+   "text": "@",
+   "conf": 0.61
+  },
+  {
+   "text": "U5S/Q,",
+   "conf": 0.28
+  },
+  {
+   "text": "Seksyen",
+   "conf": 0.86
+  },
+  {
+   "text": "US,Subang",
+   "conf": 0.36
+  },
+  {
+   "text": "Bestari",
+   "conf": 0.92
+  },
+  {
+   "text": "40150",
+   "conf": 0.96
+  },
+  {
+   "text": "Shah",
+   "conf": 0.96
+  },
+  {
+   "text": "Ala",
+   "conf": 0.96
+  },
+  {
+   "text": "Selangor",
+   "conf": 0.92
+  },
+  {
+   "text": "Sarul",
+   "conf": 0.46
+  },
+  {
+   "text": "Ehsan",
+   "conf": 0.91
+  },
+  {
+   "text": "Tel:",
+   "conf": 0.92
+  },
+  {
+   "text": "03-",
+   "conf": 0.91
+  },
+  {
+   "text": "78322935",
+   "conf": 0.94
+  },
+  {
+   "text": "GST",
+   "conf": 0.94
+  },
+  {
+   "text": "IO",
+   "conf": 0.87
+  },
+  {
+   "text": ":",
+   "conf": 0.82
+  },
+  {
+   "text": "001400971264",
+   "conf": 0.94
+  },
+  {
+   "text": "RECEIPT",
+   "conf": 0.96
+  },
+  {
+   "text": "TERMINAL",
+   "conf": 0.91
+  },
+  {
+   "text": ":",
+   "conf": 0.76
+  },
+  {
+   "text": "1670",
+   "conf": 0.94
+  },
+  {
+   "text": "INVOICE",
+   "conf": 0.95
+  },
+  {
+   "text": "NO.",
+   "conf": 0.74
+  },
+  {
+   "text": ":",
+   "conf": 0.0
+  },
+  {
+   "text": "1670327566",
+   "conf": 0.9
+  },
+  {
+   "text": "DATE",
+   "conf": 0.95
+  },
+  {
+   "text": "+",
+   "conf": 0.3
+  },
+  {
+   "text": "15/01/2018",
+   "conf": 0.51
+  },
+  {
+   "text": "10:59:13",
+   "conf": 0.7
+  },
+  {
+   "text": "CASHIER",
+   "conf": 0.58
+  },
+  {
+   "text": ":",
+   "conf": 0.05
+  },
+  {
+   "text": "Azhar",
+   "conf": 0.88
+  },
+  {
+   "text": "-",
+   "conf": 0.51
+  },
+  {
+   "text": "928374",
+   "conf": 0.96
+  },
+  {
+   "text": "EVEREADY",
+   "conf": 0.91
+  },
+  {
+   "text": "BAT",
+   "conf": 0.93
+  },
+  {
+   "text": "S/H/D",
+   "conf": 0.78
+  },
+  {
+   "text": "1212BP4",
+   "conf": 0.44
+  },
+  {
+   "text": "ABATA",
+   "conf": 0.66
+  },
+  {
+   "text": "S",
+   "conf": 0.6
+  },
+  {
+   "text": "5556500903068",
+   "conf": 0.63
+  },
+  {
+   "text": "1}",
+   "conf": 0.34
+  },
+  {
+   "text": "¥*",
+   "conf": 0.3
+  },
+  {
+   "text": "5.50",
+   "conf": 0.6
+  },
+  {
+   "text": "550",
+   "conf": 0.74
+  },
+  {
+   "text": "Item",
+   "conf": 0.74
+  },
+  {
+   "text": "Count",
+   "conf": 0.9
+  },
+  {
+   "text": "|",
+   "conf": 0.6
+  },
+  {
+   "text": "Total",
+   "conf": 0.66
+  },
+  {
+   "text": "5.50",
+   "conf": 0.75
+  },
+  {
+   "text": "4",
+   "conf": 0.78
+  },
+  {
+   "text": "Rounding",
+   "conf": 0.94
+  },
+  {
+   "text": "Adjustment",
+   "conf": 0.96
+  },
+  {
+   "text": "0.00",
+   "conf": 0.92
+  },
+  {
+   "text": "Total",
+   "conf": 0.93
+  },
+  {
+   "text": "After",
+   "conf": 0.92
+  },
+  {
+   "text": "Rounding",
+   "conf": 0.96
+  },
+  {
+   "text": "5.50",
+   "conf": 0.74
+  },
+  {
+   "text": "CASH",
+   "conf": 0.65
+  },
+  {
+   "text": "100.00",
+   "conf": 0.58
+  },
+  {
+   "text": "Changa",
+   "conf": 0.0
+  },
+  {
+   "text": "CASH",
+   "conf": 0.95
+  },
+  {
+   "text": "94.50",
+   "conf": 0.61
+  },
+  {
+   "text": "as!",
+   "conf": 0.72
+  },
+  {
+   "text": "Rate",
+   "conf": 0.96
+  },
+  {
+   "text": "Amt",
+   "conf": 0.96
+  },
+  {
+   "text": "Excl",
+   "conf": 0.75
+  },
+  {
+   "text": "GST(RM)",
+   "conf": 0.82
+  },
+  {
+   "text": "Tax(RI4)",
+   "conf": 0.0
+  },
+  {
+   "text": "5",
+   "conf": 0.84
+  },
+  {
+   "text": "=",
+   "conf": 0.84
+  },
+  {
+   "text": "6¥",
+   "conf": 0.36
+  },
+  {
+   "text": "5.19",
+   "conf": 0.85
+  },
+  {
+   "text": "0.31V",
+   "conf": 0.0
+  },
+  {
+   "text": "Agiits",
+   "conf": 0.5
+  },
+  {
+   "text": "earned",
+   "conf": 0.95
+  },
+  {
+   "text": "in",
+   "conf": 0.96
+  },
+  {
+   "text": "this",
+   "conf": 0.96
+  },
+  {
+   "text": "trans.",
+   "conf": 0.85
+  },
+  {
+   "text": "+:",
+   "conf": 0.28
+  },
+  {
+   "text": "0",
+   "conf": 0.85
+  },
+  {
+   "text": "Recaipt",
+   "conf": 0.12
+  },
+  {
+   "text": "Na:",
+   "conf": 0.84
+  },
+  {
+   "text": "1670327955",
+   "conf": 0.79
+  },
+  {
+   "text": "2riet",
+   "conf": 0.18
+  },
+  {
+   "text": "Date.",
+   "conf": 0.84
+  },
+  {
+   "text": "19/01/2618",
+   "conf": 0.71
+  },
+  {
+   "text": "10:59:23",
+   "conf": 0.32
+  },
+  {
+   "text": "Thank",
+   "conf": 0.95
+  },
+  {
+   "text": "You",
+   "conf": 0.94
+  },
+  {
+   "text": "7",
+   "conf": 0.7
+  },
+  {
+   "text": "Please",
+   "conf": 0.96
+  },
+  {
+   "text": "Come",
+   "conf": 0.63
+  },
+  {
+   "text": "Again",
+   "conf": 0.94
+  }
+ ],
+ "mean_conf": 0.7145,
+ "low_conf_share": 0.1897,
+ "latency_ms": 791,
+ "fields": {
+  "company": "MY NYDIN SUN BHD",
+  "date": "2018-01-15",
+  "total": 5.5
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  5.5
+ ],
+ "key": "X51005741929"
+}

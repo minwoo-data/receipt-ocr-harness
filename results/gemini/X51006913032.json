@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.6-flash",
+ "provider": "gemini",
+ "raw_text": "{\"vendor\": \"UNIHAKKA INTERNATIONAL SDN BHD\", \"date\": \"2018-05-10\", \"subtotal\": 11.51, \"tax\": 0.69, \"tip\": null, \"discount\": null, \"total\": 12.20, \"currency\": \"MYR\", \"confidence\": 0.95, \"notes\": \"Vendor location is in Johor, Malaysia; amounts use dollar signs on receipt but currency is MYR based on GST format and address.\"}",
+ "data": {
+  "vendor": "UNIHAKKA INTERNATIONAL SDN BHD",
+  "date": "2018-05-10",
+  "subtotal": 11.51,
+  "tax": 0.69,
+  "tip": null,
+  "discount": null,
+  "total": 12.2,
+  "currency": "MYR",
+  "confidence": 0.95,
+  "notes": "Vendor location is in Johor, Malaysia; amounts use dollar signs on receipt but currency is MYR based on GST format and address."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1461,
+  "output_tokens": 115,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.001527,
+ "latency_ms": 30116,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.6-flash",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.6-flash"
+ ],
+ "key": "X51006913032"
+}

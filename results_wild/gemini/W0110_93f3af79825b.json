@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.6-flash",
+ "provider": "gemini",
+ "raw_text": "{\"vendor\": \"Bistecca Restaurant Pte Ltd\", \"date\": \"2012-10-21\", \"subtotal\": 437.0, \"tax\": 33.65, \"tip\": null, \"discount\": null, \"total\": 514.35, \"currency\": \"SGD\", \"confidence\": 0.95, \"notes\": \"Tax includes 7% GST. 10% Service Charge ($43.70) is included in the total.\"}",
+ "data": {
+  "vendor": "Bistecca Restaurant Pte Ltd",
+  "date": "2012-10-21",
+  "subtotal": 437.0,
+  "tax": 33.65,
+  "tip": null,
+  "discount": null,
+  "total": 514.35,
+  "currency": "SGD",
+  "confidence": 0.95,
+  "notes": "Tax includes 7% GST. 10% Service Charge ($43.70) is included in the total."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1433,
+  "output_tokens": 114,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.001502,
+ "latency_ms": 1448,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.6-flash",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.6-flash"
+ ],
+ "key": "W0110_93f3af79825b"
+}

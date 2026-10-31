@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.6-flash",
+ "provider": "gemini",
+ "raw_text": "{\"vendor\": \"PERNIAGAAN ZHENG HUI\", \"date\": \"2018-02-09\", \"subtotal\": 411.5, \"tax\": 24.69, \"tip\": null, \"discount\": 0.0, \"total\": 436.2, \"currency\": \"MYR\", \"confidence\": 0.95, \"notes\": \"Rounding amount of 0.01 added to reach Total (RM) of 436.20.\"}",
+ "data": {
+  "vendor": "PERNIAGAAN ZHENG HUI",
+  "date": "2018-02-09",
+  "subtotal": 411.5,
+  "tax": 24.69,
+  "tip": null,
+  "discount": 0.0,
+  "total": 436.2,
+  "currency": "MYR",
+  "confidence": 0.95,
+  "notes": "Rounding amount of 0.01 added to reach Total (RM) of 436.20."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1461,
+  "output_tokens": 117,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.001535,
+ "latency_ms": 1773,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.6-flash",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.6-flash"
+ ],
+ "key": "X51005200931"
+}

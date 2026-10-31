@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.1-flash-lite",
+ "provider": "gemini",
+ "raw_text": "{\n  \"vendor\": \"Old Fort Antique Mall, Inc.\",\n  \"date\": \"2013-02-28\",\n  \"subtotal\": 4.99,\n  \"tax\": 0.25,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 5.24,\n  \"currency\": \"USD\",\n  \"confidence\": 0.98,\n  \"notes\": null\n}",
+ "data": {
+  "vendor": "Old Fort Antique Mall, Inc.",
+  "date": "2013-02-28",
+  "subtotal": 4.99,
+  "tax": 0.25,
+  "tip": null,
+  "discount": null,
+  "total": 5.24,
+  "currency": "USD",
+  "confidence": 0.98,
+  "notes": null
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1457,
+  "output_tokens": 106,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.000523,
+ "latency_ms": 1385,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.1-flash-lite",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.1-flash-lite"
+ ],
+ "key": "W0041_7694f91296d6"
+}

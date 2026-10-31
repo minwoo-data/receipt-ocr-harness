@@ -1,0 +1,184 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "Old Fort fintique Mall, Inc.",
+  "' 2028 East Lee Huy",
+  "Suite A",
+  "bith . = Te £to3",
+  "a",
+  "Date 02/28/13 Time 12:30 JUDY ‘",
+  "YJ Receiot # 127598",
+  "MILITARY PURPLE HEAR",
+  "1,0- 8 4.9988 4.99",
+  "# , I"
+ ],
+ "tokens": [
+  {
+   "text": "Old",
+   "conf": 0.49
+  },
+  {
+   "text": "Fort",
+   "conf": 0.96
+  },
+  {
+   "text": "fintique",
+   "conf": 0.49
+  },
+  {
+   "text": "Mall,",
+   "conf": 0.76
+  },
+  {
+   "text": "Inc.",
+   "conf": 0.92
+  },
+  {
+   "text": "'",
+   "conf": 0.0
+  },
+  {
+   "text": "2028",
+   "conf": 0.76
+  },
+  {
+   "text": "East",
+   "conf": 0.96
+  },
+  {
+   "text": "Lee",
+   "conf": 0.95
+  },
+  {
+   "text": "Huy",
+   "conf": 0.7
+  },
+  {
+   "text": "Suite",
+   "conf": 0.95
+  },
+  {
+   "text": "A",
+   "conf": 0.85
+  },
+  {
+   "text": "bith",
+   "conf": 0.14
+  },
+  {
+   "text": ".",
+   "conf": 0.24
+  },
+  {
+   "text": "=",
+   "conf": 0.75
+  },
+  {
+   "text": "Te",
+   "conf": 0.53
+  },
+  {
+   "text": "£to3",
+   "conf": 0.0
+  },
+  {
+   "text": "a",
+   "conf": 0.4
+  },
+  {
+   "text": "Date",
+   "conf": 0.95
+  },
+  {
+   "text": "02/28/13",
+   "conf": 0.0
+  },
+  {
+   "text": "Time",
+   "conf": 0.96
+  },
+  {
+   "text": "12:30",
+   "conf": 0.66
+  },
+  {
+   "text": "JUDY",
+   "conf": 0.82
+  },
+  {
+   "text": "‘",
+   "conf": 0.18
+  },
+  {
+   "text": "YJ",
+   "conf": 0.13
+  },
+  {
+   "text": "Receiot",
+   "conf": 0.11
+  },
+  {
+   "text": "#",
+   "conf": 0.88
+  },
+  {
+   "text": "127598",
+   "conf": 0.83
+  },
+  {
+   "text": "MILITARY",
+   "conf": 0.58
+  },
+  {
+   "text": "PURPLE",
+   "conf": 0.46
+  },
+  {
+   "text": "HEAR",
+   "conf": 0.94
+  },
+  {
+   "text": "1,0-",
+   "conf": 0.24
+  },
+  {
+   "text": "8",
+   "conf": 0.24
+  },
+  {
+   "text": "4.9988",
+   "conf": 0.79
+  },
+  {
+   "text": "4.99",
+   "conf": 0.77
+  },
+  {
+   "text": "#",
+   "conf": 0.69
+  },
+  {
+   "text": ",",
+   "conf": 0.36
+  },
+  {
+   "text": "I",
+   "conf": 0.69
+  }
+ ],
+ "mean_conf": 0.5824,
+ "low_conf_share": 0.3947,
+ "latency_ms": 797,
+ "fields": {
+  "company": "OLD FORT FINTIQUE MALL INC",
+  "date": "2013-02-28",
+  "total": 4.99
+ },
+ "rule_reasons": [
+  "total_no_keyword_fallback_max"
+ ],
+ "total_candidates": [
+  4.99
+ ],
+ "key": "W0041_7694f91296d6"
+}

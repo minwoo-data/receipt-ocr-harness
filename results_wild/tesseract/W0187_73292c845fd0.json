@@ -1,0 +1,65 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "eae Cy",
+  "ie hecoflst?",
+  "SINE: SOB,",
+  "Hho Shel aiet tata"
+ ],
+ "tokens": [
+  {
+   "text": "eae",
+   "conf": 0.14
+  },
+  {
+   "text": "Cy",
+   "conf": 0.11
+  },
+  {
+   "text": "ie",
+   "conf": 0.43
+  },
+  {
+   "text": "hecoflst?",
+   "conf": 0.0
+  },
+  {
+   "text": "SINE:",
+   "conf": 0.28
+  },
+  {
+   "text": "SOB,",
+   "conf": 0.13
+  },
+  {
+   "text": "Hho",
+   "conf": 0.0
+  },
+  {
+   "text": "Shel",
+   "conf": 0.0
+  },
+  {
+   "text": "aiet",
+   "conf": 0.02
+  },
+  {
+   "text": "tata",
+   "conf": 0.37
+  }
+ ],
+ "mean_conf": 0.148,
+ "low_conf_share": 1.0,
+ "latency_ms": 411,
+ "fields": {
+  "company": "EAE CY",
+  "date": null,
+  "total": null
+ },
+ "rule_reasons": [
+  "date_not_found",
+  "total_not_found"
+ ],
+ "total_candidates": [],
+ "key": "W0187_73292c845fd0"
+}

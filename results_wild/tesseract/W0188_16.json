@@ -1,0 +1,798 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "Win 1 of 8 prizes of £200 ————",
+  "in Morrisons vouchers! = z",
+  "Visit www ortisonsisiistening.co.uk =",
+  "‘@ndtell us how we did today, eS",
+  "‘You will heed this receipt to enter. ——",
+  "Morrisons =——",
+  "———",
+  "oe se tes 701 ——-",
+  "fadleigh - 01 = ~",
+  "anager : David Veynan aa",
+  "UAT No, 343475355, ——",
+  "‘QTY DESCRIPTION PRICE © AMOUNT SS",
+  "1 WROLENERL Loa no fF",
+  "1H DOUBLE CREAH $0.84 £0,840",
+  "1M CARROTS 1K8 na 9.77",
+  "1 BROCCOLI 90.38 $0.38 F =",
+  "BALANCE DUE £2.19 ==",
+  "Card £2.19 —————",
+  "sae ———",
+  "an + AdDDO0D003T010 ==",
+  "ation Nene : Visa Credit ————",
+  "mmber: Ferner 043 —=—",
+  "se bate 20116 ——_",
+  "Issue Number: (02 ers",
+  "Data Source =: ICC a",
+  "erchant Number: 8763567 a=",
+  "Terninsl 1; 27868524 =",
+  "Transaction 1D: 309873 =",
+  "futhorisetion 11 - 065257 7",
+  "Be, Date 2 O18",
+  "Verified by PIN",
+  "‘CHONE £0.00 =",
+  "Nunder of itens: 4",
+  "ae ‘Today you could have earned 10 points",
+  "Quy Match & More Terns end Conditions have changed",
+  "__-Far nore details visit uwv.norrisons.con",
+  "Nour Survey Entry Yo:62004710170071",
+  "| F3/02/208—11516:17 00871 0170071 00a",
+  "_ THANK YOU FOR SHOPPING"
+ ],
+ "tokens": [
+  {
+   "text": "Win",
+   "conf": 0.88
+  },
+  {
+   "text": "1",
+   "conf": 0.88
+  },
+  {
+   "text": "of",
+   "conf": 0.94
+  },
+  {
+   "text": "8",
+   "conf": 0.75
+  },
+  {
+   "text": "prizes",
+   "conf": 0.96
+  },
+  {
+   "text": "of",
+   "conf": 0.96
+  },
+  {
+   "text": "£200",
+   "conf": 0.96
+  },
+  {
+   "text": "————",
+   "conf": 0.03
+  },
+  {
+   "text": "in",
+   "conf": 0.93
+  },
+  {
+   "text": "Morrisons",
+   "conf": 0.89
+  },
+  {
+   "text": "vouchers!",
+   "conf": 0.47
+  },
+  {
+   "text": "=",
+   "conf": 0.35
+  },
+  {
+   "text": "z",
+   "conf": 0.0
+  },
+  {
+   "text": "Visit",
+   "conf": 0.91
+  },
+  {
+   "text": "www",
+   "conf": 0.57
+  },
+  {
+   "text": "ortisonsisiistening.co.uk",
+   "conf": 0.58
+  },
+  {
+   "text": "=",
+   "conf": 0.42
+  },
+  {
+   "text": "‘@ndtell",
+   "conf": 0.35
+  },
+  {
+   "text": "us",
+   "conf": 0.96
+  },
+  {
+   "text": "how",
+   "conf": 0.58
+  },
+  {
+   "text": "we",
+   "conf": 0.58
+  },
+  {
+   "text": "did",
+   "conf": 0.96
+  },
+  {
+   "text": "today,",
+   "conf": 0.76
+  },
+  {
+   "text": "eS",
+   "conf": 0.16
+  },
+  {
+   "text": "‘You",
+   "conf": 0.74
+  },
+  {
+   "text": "will",
+   "conf": 0.91
+  },
+  {
+   "text": "heed",
+   "conf": 0.65
+  },
+  {
+   "text": "this",
+   "conf": 0.65
+  },
+  {
+   "text": "receipt",
+   "conf": 0.06
+  },
+  {
+   "text": "to",
+   "conf": 0.96
+  },
+  {
+   "text": "enter.",
+   "conf": 0.91
+  },
+  {
+   "text": "——",
+   "conf": 0.25
+  },
+  {
+   "text": "Morrisons",
+   "conf": 0.59
+  },
+  {
+   "text": "=——",
+   "conf": 0.02
+  },
+  {
+   "text": "———",
+   "conf": 0.17
+  },
+  {
+   "text": "oe",
+   "conf": 0.29
+  },
+  {
+   "text": "se",
+   "conf": 0.24
+  },
+  {
+   "text": "tes",
+   "conf": 0.17
+  },
+  {
+   "text": "701",
+   "conf": 0.17
+  },
+  {
+   "text": "——-",
+   "conf": 0.11
+  },
+  {
+   "text": "fadleigh",
+   "conf": 0.1
+  },
+  {
+   "text": "-",
+   "conf": 0.08
+  },
+  {
+   "text": "01",
+   "conf": 0.79
+  },
+  {
+   "text": "=",
+   "conf": 0.62
+  },
+  {
+   "text": "~",
+   "conf": 0.41
+  },
+  {
+   "text": "anager",
+   "conf": 0.45
+  },
+  {
+   "text": ":",
+   "conf": 0.8
+  },
+  {
+   "text": "David",
+   "conf": 0.86
+  },
+  {
+   "text": "Veynan",
+   "conf": 0.86
+  },
+  {
+   "text": "aa",
+   "conf": 0.43
+  },
+  {
+   "text": "UAT",
+   "conf": 0.84
+  },
+  {
+   "text": "No,",
+   "conf": 0.61
+  },
+  {
+   "text": "343475355,",
+   "conf": 0.61
+  },
+  {
+   "text": "——",
+   "conf": 0.38
+  },
+  {
+   "text": "‘QTY",
+   "conf": 0.64
+  },
+  {
+   "text": "DESCRIPTION",
+   "conf": 0.8
+  },
+  {
+   "text": "PRICE",
+   "conf": 0.65
+  },
+  {
+   "text": "©",
+   "conf": 0.0
+  },
+  {
+   "text": "AMOUNT",
+   "conf": 0.0
+  },
+  {
+   "text": "SS",
+   "conf": 0.04
+  },
+  {
+   "text": "1",
+   "conf": 0.4
+  },
+  {
+   "text": "WROLENERL",
+   "conf": 0.49
+  },
+  {
+   "text": "Loa",
+   "conf": 0.36
+  },
+  {
+   "text": "no",
+   "conf": 0.53
+  },
+  {
+   "text": "fF",
+   "conf": 0.26
+  },
+  {
+   "text": "1H",
+   "conf": 0.03
+  },
+  {
+   "text": "DOUBLE",
+   "conf": 0.9
+  },
+  {
+   "text": "CREAH",
+   "conf": 0.78
+  },
+  {
+   "text": "$0.84",
+   "conf": 0.53
+  },
+  {
+   "text": "£0,840",
+   "conf": 0.53
+  },
+  {
+   "text": "1M",
+   "conf": 0.49
+  },
+  {
+   "text": "CARROTS",
+   "conf": 0.82
+  },
+  {
+   "text": "1K8",
+   "conf": 0.15
+  },
+  {
+   "text": "na",
+   "conf": 0.23
+  },
+  {
+   "text": "9.77",
+   "conf": 0.23
+  },
+  {
+   "text": "1",
+   "conf": 0.55
+  },
+  {
+   "text": "BROCCOLI",
+   "conf": 0.42
+  },
+  {
+   "text": "90.38",
+   "conf": 0.33
+  },
+  {
+   "text": "$0.38",
+   "conf": 0.45
+  },
+  {
+   "text": "F",
+   "conf": 0.7
+  },
+  {
+   "text": "=",
+   "conf": 0.87
+  },
+  {
+   "text": "BALANCE",
+   "conf": 0.94
+  },
+  {
+   "text": "DUE",
+   "conf": 0.93
+  },
+  {
+   "text": "£2.19",
+   "conf": 0.53
+  },
+  {
+   "text": "==",
+   "conf": 0.33
+  },
+  {
+   "text": "Card",
+   "conf": 0.72
+  },
+  {
+   "text": "£2.19",
+   "conf": 0.64
+  },
+  {
+   "text": "—————",
+   "conf": 0.17
+  },
+  {
+   "text": "sae",
+   "conf": 0.33
+  },
+  {
+   "text": "———",
+   "conf": 0.51
+  },
+  {
+   "text": "an",
+   "conf": 0.49
+  },
+  {
+   "text": "+",
+   "conf": 0.76
+  },
+  {
+   "text": "AdDDO0D003T010",
+   "conf": 0.0
+  },
+  {
+   "text": "==",
+   "conf": 0.49
+  },
+  {
+   "text": "ation",
+   "conf": 0.84
+  },
+  {
+   "text": "Nene",
+   "conf": 0.66
+  },
+  {
+   "text": ":",
+   "conf": 0.57
+  },
+  {
+   "text": "Visa",
+   "conf": 0.89
+  },
+  {
+   "text": "Credit",
+   "conf": 0.95
+  },
+  {
+   "text": "————",
+   "conf": 0.29
+  },
+  {
+   "text": "mmber:",
+   "conf": 0.0
+  },
+  {
+   "text": "Ferner",
+   "conf": 0.0
+  },
+  {
+   "text": "043",
+   "conf": 0.37
+  },
+  {
+   "text": "—=—",
+   "conf": 0.3
+  },
+  {
+   "text": "se",
+   "conf": 0.32
+  },
+  {
+   "text": "bate",
+   "conf": 0.61
+  },
+  {
+   "text": "20116",
+   "conf": 0.43
+  },
+  {
+   "text": "——_",
+   "conf": 0.3
+  },
+  {
+   "text": "Issue",
+   "conf": 0.55
+  },
+  {
+   "text": "Number:",
+   "conf": 0.14
+  },
+  {
+   "text": "(02",
+   "conf": 0.61
+  },
+  {
+   "text": "ers",
+   "conf": 0.47
+  },
+  {
+   "text": "Data",
+   "conf": 0.84
+  },
+  {
+   "text": "Source",
+   "conf": 0.69
+  },
+  {
+   "text": "=:",
+   "conf": 0.37
+  },
+  {
+   "text": "ICC",
+   "conf": 0.57
+  },
+  {
+   "text": "a",
+   "conf": 0.0
+  },
+  {
+   "text": "erchant",
+   "conf": 0.09
+  },
+  {
+   "text": "Number:",
+   "conf": 0.16
+  },
+  {
+   "text": "8763567",
+   "conf": 0.85
+  },
+  {
+   "text": "a=",
+   "conf": 0.54
+  },
+  {
+   "text": "Terninsl",
+   "conf": 0.61
+  },
+  {
+   "text": "1;",
+   "conf": 0.68
+  },
+  {
+   "text": "27868524",
+   "conf": 0.84
+  },
+  {
+   "text": "=",
+   "conf": 0.94
+  },
+  {
+   "text": "Transaction",
+   "conf": 0.74
+  },
+  {
+   "text": "1D:",
+   "conf": 0.66
+  },
+  {
+   "text": "309873",
+   "conf": 0.82
+  },
+  {
+   "text": "=",
+   "conf": 0.96
+  },
+  {
+   "text": "futhorisetion",
+   "conf": 0.22
+  },
+  {
+   "text": "11",
+   "conf": 0.0
+  },
+  {
+   "text": "-",
+   "conf": 0.63
+  },
+  {
+   "text": "065257",
+   "conf": 0.66
+  },
+  {
+   "text": "7",
+   "conf": 0.36
+  },
+  {
+   "text": "Be,",
+   "conf": 0.74
+  },
+  {
+   "text": "Date",
+   "conf": 0.83
+  },
+  {
+   "text": "2",
+   "conf": 0.6
+  },
+  {
+   "text": "O18",
+   "conf": 0.44
+  },
+  {
+   "text": "Verified",
+   "conf": 0.77
+  },
+  {
+   "text": "by",
+   "conf": 0.95
+  },
+  {
+   "text": "PIN",
+   "conf": 0.88
+  },
+  {
+   "text": "‘CHONE",
+   "conf": 0.0
+  },
+  {
+   "text": "£0.00",
+   "conf": 0.88
+  },
+  {
+   "text": "=",
+   "conf": 0.89
+  },
+  {
+   "text": "Nunder",
+   "conf": 0.6
+  },
+  {
+   "text": "of",
+   "conf": 0.86
+  },
+  {
+   "text": "itens:",
+   "conf": 0.75
+  },
+  {
+   "text": "4",
+   "conf": 0.96
+  },
+  {
+   "text": "ae",
+   "conf": 0.25
+  },
+  {
+   "text": "‘Today",
+   "conf": 0.76
+  },
+  {
+   "text": "you",
+   "conf": 0.95
+  },
+  {
+   "text": "could",
+   "conf": 0.91
+  },
+  {
+   "text": "have",
+   "conf": 0.95
+  },
+  {
+   "text": "earned",
+   "conf": 0.34
+  },
+  {
+   "text": "10",
+   "conf": 0.96
+  },
+  {
+   "text": "points",
+   "conf": 0.96
+  },
+  {
+   "text": "Quy",
+   "conf": 0.17
+  },
+  {
+   "text": "Match",
+   "conf": 0.86
+  },
+  {
+   "text": "&",
+   "conf": 0.69
+  },
+  {
+   "text": "More",
+   "conf": 0.71
+  },
+  {
+   "text": "Terns",
+   "conf": 0.96
+  },
+  {
+   "text": "end",
+   "conf": 0.95
+  },
+  {
+   "text": "Conditions",
+   "conf": 0.95
+  },
+  {
+   "text": "have",
+   "conf": 0.95
+  },
+  {
+   "text": "changed",
+   "conf": 0.88
+  },
+  {
+   "text": "__-Far",
+   "conf": 0.0
+  },
+  {
+   "text": "nore",
+   "conf": 0.77
+  },
+  {
+   "text": "details",
+   "conf": 0.88
+  },
+  {
+   "text": "visit",
+   "conf": 0.93
+  },
+  {
+   "text": "uwv.norrisons.con",
+   "conf": 0.18
+  },
+  {
+   "text": "Nour",
+   "conf": 0.07
+  },
+  {
+   "text": "Survey",
+   "conf": 0.9
+  },
+  {
+   "text": "Entry",
+   "conf": 0.86
+  },
+  {
+   "text": "Yo:62004710170071",
+   "conf": 0.0
+  },
+  {
+   "text": "|",
+   "conf": 0.13
+  },
+  {
+   "text": "F3/02/208—11516:17",
+   "conf": 0.0
+  },
+  {
+   "text": "00871",
+   "conf": 0.53
+  },
+  {
+   "text": "0170071",
+   "conf": 0.41
+  },
+  {
+   "text": "00a",
+   "conf": 0.0
+  },
+  {
+   "text": "_",
+   "conf": 0.42
+  },
+  {
+   "text": "THANK",
+   "conf": 0.83
+  },
+  {
+   "text": "YOU",
+   "conf": 0.96
+  },
+  {
+   "text": "FOR",
+   "conf": 0.96
+  },
+  {
+   "text": "SHOPPING",
+   "conf": 0.95
+  }
+ ],
+ "mean_conf": 0.5611,
+ "low_conf_share": 0.4022,
+ "latency_ms": 1870,
+ "fields": {
+  "company": "VISIT WWW ORTISONSISIISTENING CO UK",
+  "date": null,
+  "total": 0.0
+ },
+ "rule_reasons": [
+  "date_not_found",
+  "total_no_keyword_fallback_max"
+ ],
+ "total_candidates": [
+  0.0
+ ],
+ "key": "W0188_16"
+}

@@ -1,0 +1,541 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "| ) A602 ,",
+  "UNIHAKKA INTERNATIONAL SDN BHD :",
+  "10 Jun 2018 18:23",
+  ": (867388-U)",
+  "12, Jalan Tampoi 7/4,Kawasan Perindustrian",
+  "Tampoi,81200 Johor Bahru, Johor",
+  "TAX INVOICE .",
+  "' Invoice # : OR18061002160368 .",
+  "Item Qty Total",
+  "MOM oo Ee es .",
+  "SR 100100000171-Meat Dish .",
+  "RM2.83 1 RM2.83",
+  "SR 100100000031- 3 Vege | .",
+  "RM4.15 1 RM4.15",
+  ": SR 1001000001 70- Imported Veggies",
+  "= RM1.50 1 RM1.50",
+  "Total Amount: RM8.48",
+  "GST @0%: RMO.00",
+  "Rounding: RMO.02 -",
+  ". Nett Total: RM8.50",
+  "| Payment Mode Amount",
+  "CASH RM8.50",
+  "Change RM0.00 . . ,",
+  "GST Summary Amount(RM) Tax{RM)",
+  "SR = GST @0% , 8.48 0.00",
+  "GST REG #000656195584",
+  "BAR WANG RICE@PERMAS JAYA",
+  "Thank You & Come Again! .",
+  "Like and Follow Us on Facebook!",
+  "Facebook.com/BarWangRice"
+ ],
+ "tokens": [
+  {
+   "text": "|",
+   "conf": 0.6
+  },
+  {
+   "text": ")",
+   "conf": 0.0
+  },
+  {
+   "text": "A602",
+   "conf": 0.0
+  },
+  {
+   "text": ",",
+   "conf": 0.0
+  },
+  {
+   "text": "UNIHAKKA",
+   "conf": 0.91
+  },
+  {
+   "text": "INTERNATIONAL",
+   "conf": 0.95
+  },
+  {
+   "text": "SDN",
+   "conf": 0.96
+  },
+  {
+   "text": "BHD",
+   "conf": 0.96
+  },
+  {
+   "text": ":",
+   "conf": 0.0
+  },
+  {
+   "text": "10",
+   "conf": 0.95
+  },
+  {
+   "text": "Jun",
+   "conf": 0.95
+  },
+  {
+   "text": "2018",
+   "conf": 0.96
+  },
+  {
+   "text": "18:23",
+   "conf": 0.96
+  },
+  {
+   "text": ":",
+   "conf": 0.0
+  },
+  {
+   "text": "(867388-U)",
+   "conf": 0.88
+  },
+  {
+   "text": "12,",
+   "conf": 0.9
+  },
+  {
+   "text": "Jalan",
+   "conf": 0.93
+  },
+  {
+   "text": "Tampoi",
+   "conf": 0.92
+  },
+  {
+   "text": "7/4,Kawasan",
+   "conf": 0.89
+  },
+  {
+   "text": "Perindustrian",
+   "conf": 0.92
+  },
+  {
+   "text": "Tampoi,81200",
+   "conf": 0.9
+  },
+  {
+   "text": "Johor",
+   "conf": 0.96
+  },
+  {
+   "text": "Bahru,",
+   "conf": 0.88
+  },
+  {
+   "text": "Johor",
+   "conf": 0.88
+  },
+  {
+   "text": "TAX",
+   "conf": 0.78
+  },
+  {
+   "text": "INVOICE",
+   "conf": 0.78
+  },
+  {
+   "text": ".",
+   "conf": 0.29
+  },
+  {
+   "text": "'",
+   "conf": 0.0
+  },
+  {
+   "text": "Invoice",
+   "conf": 0.93
+  },
+  {
+   "text": "#",
+   "conf": 0.83
+  },
+  {
+   "text": ":",
+   "conf": 0.83
+  },
+  {
+   "text": "OR18061002160368",
+   "conf": 0.92
+  },
+  {
+   "text": ".",
+   "conf": 0.0
+  },
+  {
+   "text": "Item",
+   "conf": 0.43
+  },
+  {
+   "text": "Qty",
+   "conf": 0.96
+  },
+  {
+   "text": "Total",
+   "conf": 0.96
+  },
+  {
+   "text": "MOM",
+   "conf": 0.36
+  },
+  {
+   "text": "oo",
+   "conf": 0.17
+  },
+  {
+   "text": "Ee",
+   "conf": 0.25
+  },
+  {
+   "text": "es",
+   "conf": 0.09
+  },
+  {
+   "text": ".",
+   "conf": 0.48
+  },
+  {
+   "text": "SR",
+   "conf": 0.85
+  },
+  {
+   "text": "100100000171-Meat",
+   "conf": 0.85
+  },
+  {
+   "text": "Dish",
+   "conf": 0.96
+  },
+  {
+   "text": ".",
+   "conf": 0.29
+  },
+  {
+   "text": "RM2.83",
+   "conf": 0.89
+  },
+  {
+   "text": "1",
+   "conf": 0.92
+  },
+  {
+   "text": "RM2.83",
+   "conf": 0.9
+  },
+  {
+   "text": "SR",
+   "conf": 0.91
+  },
+  {
+   "text": "100100000031-",
+   "conf": 0.88
+  },
+  {
+   "text": "3",
+   "conf": 0.88
+  },
+  {
+   "text": "Vege",
+   "conf": 0.88
+  },
+  {
+   "text": "|",
+   "conf": 0.56
+  },
+  {
+   "text": ".",
+   "conf": 0.12
+  },
+  {
+   "text": "RM4.15",
+   "conf": 0.89
+  },
+  {
+   "text": "1",
+   "conf": 0.84
+  },
+  {
+   "text": "RM4.15",
+   "conf": 0.87
+  },
+  {
+   "text": ":",
+   "conf": 0.0
+  },
+  {
+   "text": "SR",
+   "conf": 0.9
+  },
+  {
+   "text": "1001000001",
+   "conf": 0.0
+  },
+  {
+   "text": "70-",
+   "conf": 0.0
+  },
+  {
+   "text": "Imported",
+   "conf": 0.82
+  },
+  {
+   "text": "Veggies",
+   "conf": 0.96
+  },
+  {
+   "text": "=",
+   "conf": 0.25
+  },
+  {
+   "text": "RM1.50",
+   "conf": 0.87
+  },
+  {
+   "text": "1",
+   "conf": 0.86
+  },
+  {
+   "text": "RM1.50",
+   "conf": 0.86
+  },
+  {
+   "text": "Total",
+   "conf": 0.96
+  },
+  {
+   "text": "Amount:",
+   "conf": 0.93
+  },
+  {
+   "text": "RM8.48",
+   "conf": 0.9
+  },
+  {
+   "text": "GST",
+   "conf": 0.92
+  },
+  {
+   "text": "@0%:",
+   "conf": 0.9
+  },
+  {
+   "text": "RMO.00",
+   "conf": 0.51
+  },
+  {
+   "text": "Rounding:",
+   "conf": 0.92
+  },
+  {
+   "text": "RMO.02",
+   "conf": 0.47
+  },
+  {
+   "text": "-",
+   "conf": 0.32
+  },
+  {
+   "text": ".",
+   "conf": 0.33
+  },
+  {
+   "text": "Nett",
+   "conf": 0.96
+  },
+  {
+   "text": "Total:",
+   "conf": 0.93
+  },
+  {
+   "text": "RM8.50",
+   "conf": 0.9
+  },
+  {
+   "text": "|",
+   "conf": 0.68
+  },
+  {
+   "text": "Payment",
+   "conf": 0.95
+  },
+  {
+   "text": "Mode",
+   "conf": 0.95
+  },
+  {
+   "text": "Amount",
+   "conf": 0.95
+  },
+  {
+   "text": "CASH",
+   "conf": 0.95
+  },
+  {
+   "text": "RM8.50",
+   "conf": 0.52
+  },
+  {
+   "text": "Change",
+   "conf": 0.95
+  },
+  {
+   "text": "RM0.00",
+   "conf": 0.79
+  },
+  {
+   "text": ".",
+   "conf": 0.3
+  },
+  {
+   "text": ".",
+   "conf": 0.04
+  },
+  {
+   "text": ",",
+   "conf": 0.0
+  },
+  {
+   "text": "GST",
+   "conf": 0.78
+  },
+  {
+   "text": "Summary",
+   "conf": 0.78
+  },
+  {
+   "text": "Amount(RM)",
+   "conf": 0.83
+  },
+  {
+   "text": "Tax{RM)",
+   "conf": 0.73
+  },
+  {
+   "text": "SR",
+   "conf": 0.94
+  },
+  {
+   "text": "=",
+   "conf": 0.61
+  },
+  {
+   "text": "GST",
+   "conf": 0.61
+  },
+  {
+   "text": "@0%",
+   "conf": 0.89
+  },
+  {
+   "text": ",",
+   "conf": 0.0
+  },
+  {
+   "text": "8.48",
+   "conf": 0.96
+  },
+  {
+   "text": "0.00",
+   "conf": 0.65
+  },
+  {
+   "text": "GST",
+   "conf": 0.96
+  },
+  {
+   "text": "REG",
+   "conf": 0.92
+  },
+  {
+   "text": "#000656195584",
+   "conf": 0.86
+  },
+  {
+   "text": "BAR",
+   "conf": 0.96
+  },
+  {
+   "text": "WANG",
+   "conf": 0.91
+  },
+  {
+   "text": "RICE@PERMAS",
+   "conf": 0.91
+  },
+  {
+   "text": "JAYA",
+   "conf": 0.91
+  },
+  {
+   "text": "Thank",
+   "conf": 0.96
+  },
+  {
+   "text": "You",
+   "conf": 0.93
+  },
+  {
+   "text": "&",
+   "conf": 0.93
+  },
+  {
+   "text": "Come",
+   "conf": 0.96
+  },
+  {
+   "text": "Again!",
+   "conf": 0.96
+  },
+  {
+   "text": ".",
+   "conf": 0.21
+  },
+  {
+   "text": "Like",
+   "conf": 0.95
+  },
+  {
+   "text": "and",
+   "conf": 0.96
+  },
+  {
+   "text": "Follow",
+   "conf": 0.96
+  },
+  {
+   "text": "Us",
+   "conf": 0.96
+  },
+  {
+   "text": "on",
+   "conf": 0.96
+  },
+  {
+   "text": "Facebook!",
+   "conf": 0.96
+  },
+  {
+   "text": "Facebook.com/BarWangRice",
+   "conf": 0.89
+  }
+ ],
+ "mean_conf": 0.7144,
+ "low_conf_share": 0.2295,
+ "latency_ms": 2905,
+ "fields": {
+  "company": "UNIHAKKA INTERNATIONAL SDN BHD",
+  "date": "2018-06-10",
+  "total": 8.5
+ },
+ "rule_reasons": [
+  "total_multiple_strong_amounts"
+ ],
+ "total_candidates": [
+  8.48,
+  8.5
+ ],
+ "key": "X51007846301"
+}

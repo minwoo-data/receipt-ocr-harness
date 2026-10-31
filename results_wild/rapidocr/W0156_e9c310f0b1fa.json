@@ -1,0 +1,130 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "MIAMI SCIENCE",
+  "MUSEUM",
+  "3280 SthMiam1Ave",
+  "Mia.FL33129",
+  "(305)646-4200",
+  "QTYITEM 2 NDCADULT AMBUNT 29.90",
+  "TOTAL 29.90",
+  "SALESTAX 0.00",
+  "CASH TENDERED 50.00",
+  "CHANGE 20.10",
+  "3:16PM07/24/2012 002:157235 606",
+  "NOIVALID",
+  "FORADMISSION",
+  "Vis11usat www.m1aisci.org"
+ ],
+ "tokens": [
+  {
+   "text": "MIAMI SCIENCE",
+   "conf": 0.9746382236480713
+  },
+  {
+   "text": "MUSEUM",
+   "conf": 0.99551193912824
+  },
+  {
+   "text": "3280 SthMiam1Ave",
+   "conf": 0.8271456472575665
+  },
+  {
+   "text": "Mia.FL33129",
+   "conf": 0.8522760001095858
+  },
+  {
+   "text": "(305)646-4200",
+   "conf": 0.9079529413810143
+  },
+  {
+   "text": "QTYITEM",
+   "conf": 0.8776720847402301
+  },
+  {
+   "text": "AMBUNT",
+   "conf": 0.8935969769954681
+  },
+  {
+   "text": "2",
+   "conf": 0.9960546493530273
+  },
+  {
+   "text": "NDCADULT",
+   "conf": 0.9426621049642563
+  },
+  {
+   "text": "29.90",
+   "conf": 0.9962168335914612
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.9842434167861939
+  },
+  {
+   "text": "29.90",
+   "conf": 0.9562714695930481
+  },
+  {
+   "text": "SALESTAX",
+   "conf": 0.9758966639637947
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9908748716115952
+  },
+  {
+   "text": "CASH TENDERED",
+   "conf": 0.9844442376723657
+  },
+  {
+   "text": "50.00",
+   "conf": 0.989288866519928
+  },
+  {
+   "text": "CHANGE",
+   "conf": 0.9834220508734385
+  },
+  {
+   "text": "20.10",
+   "conf": 0.9930267930030823
+  },
+  {
+   "text": "3:16PM07/24/2012",
+   "conf": 0.9231039732694626
+  },
+  {
+   "text": "002:157235",
+   "conf": 0.9864036321640015
+  },
+  {
+   "text": "606",
+   "conf": 0.6981883198022842
+  },
+  {
+   "text": "NOIVALID",
+   "conf": 0.9458501264452934
+  },
+  {
+   "text": "FORADMISSION",
+   "conf": 0.9839968532323837
+  },
+  {
+   "text": "Vis11usat www.m1aisci.org",
+   "conf": 0.7016727983951568
+  }
+ ],
+ "mean_conf": 0.9317,
+ "low_conf_share": 0.0,
+ "latency_ms": 1726,
+ "fields": {
+  "company": "MIAMI SCIENCE",
+  "date": "2012-07-24",
+  "total": 29.9
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  29.9
+ ],
+ "key": "W0156_e9c310f0b1fa"
+}

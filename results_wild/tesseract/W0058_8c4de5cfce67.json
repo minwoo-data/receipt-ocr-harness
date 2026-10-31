@@ -1,0 +1,504 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "FACTURE alles Manege",
+  "Restaurant McDonald's aie",
+  "10. av du General de",
+  "78000 VERSAILLE a",
+  "| Tel : 01.39.0236. PE 553 B",
+  "SIRET 420 466 708 00013 - Al",
+  "TVA INTRA FR11420466708",
+  "Caissier # 166",
+  "Restaurant 188 ays",
+  "HCDE 152 -CSE 04- 27/04/2015 13:22:",
+  "QTE PRODUIT UNIT TOTAL",
+  "1 The Glace BestOf 0.00 0.00",
+  "1 BO Big Mac 6.80 6.80",
+  "1 Filet 4.00 4.00",
+  "1 Chicken 20 Nugge 9.20 9.20",
+  "1 Frite Best Of 0.00 0.00",
+  "Total Sur Place (TVA INCL) 20.00",
+  "€ 50.00",
+  "Rendu 30.00",
+  "02 20.00 TVA A 10.00% INCL. = 1.82",
+  "Merci de votre visite —",
+  "A bientot",
+  "Biere soumise a TVA de 20.00%",
+  "Code Porte Toilettes:",
+  "For the washing room:",
+  "A7836B"
+ ],
+ "tokens": [
+  {
+   "text": "FACTURE",
+   "conf": 0.92
+  },
+  {
+   "text": "alles",
+   "conf": 0.44
+  },
+  {
+   "text": "Manege",
+   "conf": 0.91
+  },
+  {
+   "text": "Restaurant",
+   "conf": 0.96
+  },
+  {
+   "text": "McDonald's",
+   "conf": 0.52
+  },
+  {
+   "text": "aie",
+   "conf": 0.08
+  },
+  {
+   "text": "10.",
+   "conf": 0.94
+  },
+  {
+   "text": "av",
+   "conf": 0.88
+  },
+  {
+   "text": "du",
+   "conf": 0.96
+  },
+  {
+   "text": "General",
+   "conf": 0.76
+  },
+  {
+   "text": "de",
+   "conf": 0.76
+  },
+  {
+   "text": "78000",
+   "conf": 0.86
+  },
+  {
+   "text": "VERSAILLE",
+   "conf": 0.33
+  },
+  {
+   "text": "a",
+   "conf": 0.16
+  },
+  {
+   "text": "|",
+   "conf": 0.66
+  },
+  {
+   "text": "Tel",
+   "conf": 0.88
+  },
+  {
+   "text": ":",
+   "conf": 0.84
+  },
+  {
+   "text": "01.39.0236.",
+   "conf": 0.02
+  },
+  {
+   "text": "PE",
+   "conf": 0.9
+  },
+  {
+   "text": "553",
+   "conf": 0.88
+  },
+  {
+   "text": "B",
+   "conf": 0.87
+  },
+  {
+   "text": "SIRET",
+   "conf": 0.92
+  },
+  {
+   "text": "420",
+   "conf": 0.96
+  },
+  {
+   "text": "466",
+   "conf": 0.95
+  },
+  {
+   "text": "708",
+   "conf": 0.95
+  },
+  {
+   "text": "00013",
+   "conf": 0.93
+  },
+  {
+   "text": "-",
+   "conf": 0.8
+  },
+  {
+   "text": "Al",
+   "conf": 0.74
+  },
+  {
+   "text": "TVA",
+   "conf": 0.81
+  },
+  {
+   "text": "INTRA",
+   "conf": 0.81
+  },
+  {
+   "text": "FR11420466708",
+   "conf": 0.89
+  },
+  {
+   "text": "Caissier",
+   "conf": 0.91
+  },
+  {
+   "text": "#",
+   "conf": 0.91
+  },
+  {
+   "text": "166",
+   "conf": 0.96
+  },
+  {
+   "text": "Restaurant",
+   "conf": 0.96
+  },
+  {
+   "text": "188",
+   "conf": 0.96
+  },
+  {
+   "text": "ays",
+   "conf": 0.41
+  },
+  {
+   "text": "HCDE",
+   "conf": 0.07
+  },
+  {
+   "text": "152",
+   "conf": 0.93
+  },
+  {
+   "text": "-CSE",
+   "conf": 0.89
+  },
+  {
+   "text": "04-",
+   "conf": 0.9
+  },
+  {
+   "text": "27/04/2015",
+   "conf": 0.96
+  },
+  {
+   "text": "13:22:",
+   "conf": 0.94
+  },
+  {
+   "text": "QTE",
+   "conf": 0.72
+  },
+  {
+   "text": "PRODUIT",
+   "conf": 0.52
+  },
+  {
+   "text": "UNIT",
+   "conf": 0.91
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.91
+  },
+  {
+   "text": "1",
+   "conf": 0.96
+  },
+  {
+   "text": "The",
+   "conf": 0.96
+  },
+  {
+   "text": "Glace",
+   "conf": 0.93
+  },
+  {
+   "text": "BestOf",
+   "conf": 0.77
+  },
+  {
+   "text": "0.00",
+   "conf": 0.96
+  },
+  {
+   "text": "0.00",
+   "conf": 0.86
+  },
+  {
+   "text": "1",
+   "conf": 0.95
+  },
+  {
+   "text": "BO",
+   "conf": 0.95
+  },
+  {
+   "text": "Big",
+   "conf": 0.96
+  },
+  {
+   "text": "Mac",
+   "conf": 0.96
+  },
+  {
+   "text": "6.80",
+   "conf": 0.88
+  },
+  {
+   "text": "6.80",
+   "conf": 0.71
+  },
+  {
+   "text": "1",
+   "conf": 0.91
+  },
+  {
+   "text": "Filet",
+   "conf": 0.91
+  },
+  {
+   "text": "4.00",
+   "conf": 0.92
+  },
+  {
+   "text": "4.00",
+   "conf": 0.8
+  },
+  {
+   "text": "1",
+   "conf": 0.95
+  },
+  {
+   "text": "Chicken",
+   "conf": 0.95
+  },
+  {
+   "text": "20",
+   "conf": 0.93
+  },
+  {
+   "text": "Nugge",
+   "conf": 0.91
+  },
+  {
+   "text": "9.20",
+   "conf": 0.9
+  },
+  {
+   "text": "9.20",
+   "conf": 0.9
+  },
+  {
+   "text": "1",
+   "conf": 0.93
+  },
+  {
+   "text": "Frite",
+   "conf": 0.89
+  },
+  {
+   "text": "Best",
+   "conf": 0.96
+  },
+  {
+   "text": "Of",
+   "conf": 0.96
+  },
+  {
+   "text": "0.00",
+   "conf": 0.88
+  },
+  {
+   "text": "0.00",
+   "conf": 0.88
+  },
+  {
+   "text": "Total",
+   "conf": 0.96
+  },
+  {
+   "text": "Sur",
+   "conf": 0.96
+  },
+  {
+   "text": "Place",
+   "conf": 0.96
+  },
+  {
+   "text": "(TVA",
+   "conf": 0.96
+  },
+  {
+   "text": "INCL)",
+   "conf": 0.96
+  },
+  {
+   "text": "20.00",
+   "conf": 0.92
+  },
+  {
+   "text": "€",
+   "conf": 0.84
+  },
+  {
+   "text": "50.00",
+   "conf": 0.91
+  },
+  {
+   "text": "Rendu",
+   "conf": 0.92
+  },
+  {
+   "text": "30.00",
+   "conf": 0.96
+  },
+  {
+   "text": "02",
+   "conf": 0.9
+  },
+  {
+   "text": "20.00",
+   "conf": 0.9
+  },
+  {
+   "text": "TVA",
+   "conf": 0.9
+  },
+  {
+   "text": "A",
+   "conf": 0.9
+  },
+  {
+   "text": "10.00%",
+   "conf": 0.9
+  },
+  {
+   "text": "INCL.",
+   "conf": 0.93
+  },
+  {
+   "text": "=",
+   "conf": 0.93
+  },
+  {
+   "text": "1.82",
+   "conf": 0.92
+  },
+  {
+   "text": "Merci",
+   "conf": 0.96
+  },
+  {
+   "text": "de",
+   "conf": 0.96
+  },
+  {
+   "text": "votre",
+   "conf": 0.96
+  },
+  {
+   "text": "visite",
+   "conf": 0.96
+  },
+  {
+   "text": "—",
+   "conf": 0.65
+  },
+  {
+   "text": "A",
+   "conf": 0.92
+  },
+  {
+   "text": "bientot",
+   "conf": 0.92
+  },
+  {
+   "text": "Biere",
+   "conf": 0.92
+  },
+  {
+   "text": "soumise",
+   "conf": 0.93
+  },
+  {
+   "text": "a",
+   "conf": 0.96
+  },
+  {
+   "text": "TVA",
+   "conf": 0.96
+  },
+  {
+   "text": "de",
+   "conf": 0.96
+  },
+  {
+   "text": "20.00%",
+   "conf": 0.94
+  },
+  {
+   "text": "Code",
+   "conf": 0.96
+  },
+  {
+   "text": "Porte",
+   "conf": 0.93
+  },
+  {
+   "text": "Toilettes:",
+   "conf": 0.86
+  },
+  {
+   "text": "For",
+   "conf": 0.96
+  },
+  {
+   "text": "the",
+   "conf": 0.96
+  },
+  {
+   "text": "washing",
+   "conf": 0.96
+  },
+  {
+   "text": "room:",
+   "conf": 0.87
+  },
+  {
+   "text": "A7836B",
+   "conf": 0.83
+  }
+ ],
+ "mean_conf": 0.8556,
+ "low_conf_share": 0.0614,
+ "latency_ms": 693,
+ "fields": {
+  "company": "FACTURE ALLES MANEGE RESTAURANT MCDONALD S AIE",
+  "date": null,
+  "total": 20.0
+ },
+ "rule_reasons": [
+  "date_not_found"
+ ],
+ "total_candidates": [
+  20.0
+ ],
+ "key": "W0058_8c4de5cfce67"
+}

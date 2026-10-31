@@ -1,0 +1,141 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "RELAIS TOTAL OULMES",
+  "AUTOROUTE RABAT MEKNES",
+  "15000 KHEMISSET",
+  "Tel.:05.22.95.66.66",
+  "le30/03/2018 a 12:36 V201855892CAISSIER 1,C",
+  "BDESIGNATION P.U. QILE TOTAL",
+  "CAFE CREME 12.00 2 24.00",
+  "CAFE EXPRESSO 10.00 2 20.00",
+  "CHOCOLAT CHAUD 12.00 1 12.00",
+  "Total Facture : 56.00 DH",
+  "REGLE PAR ESPECE 56.00 DH",
+  "***Merci de votre visite****",
+  "ICE :000081241000051"
+ ],
+ "tokens": [
+  {
+   "text": "RELAIS TOTAL OULMES",
+   "conf": 0.9683555301867033
+  },
+  {
+   "text": "AUTOROUTE RABAT MEKNES",
+   "conf": 0.9198519560423765
+  },
+  {
+   "text": "15000 KHEMISSET",
+   "conf": 0.9755834182103474
+  },
+  {
+   "text": "Tel.:05.22.95.66.66",
+   "conf": 0.9759164734890586
+  },
+  {
+   "text": "le30/03/2018 a 12:36 V201855892CAISSIER 1,C",
+   "conf": 0.9452230888743733
+  },
+  {
+   "text": "BDESIGNATION",
+   "conf": 0.9579193790753683
+  },
+  {
+   "text": "P.U.",
+   "conf": 0.8999031782150269
+  },
+  {
+   "text": "QILE",
+   "conf": 0.8219115138053894
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.9361059665679932
+  },
+  {
+   "text": "CAFE CREME",
+   "conf": 0.9775762319564819
+  },
+  {
+   "text": "12.00",
+   "conf": 0.9987954020500183
+  },
+  {
+   "text": "2",
+   "conf": 0.9987247586250305
+  },
+  {
+   "text": "24.00",
+   "conf": 0.9994412302970886
+  },
+  {
+   "text": "CAFE EXPRESSO",
+   "conf": 0.9727827677359948
+  },
+  {
+   "text": "10.00",
+   "conf": 0.9984953165054321
+  },
+  {
+   "text": "2",
+   "conf": 0.9986845850944519
+  },
+  {
+   "text": "20.00",
+   "conf": 0.99943767786026
+  },
+  {
+   "text": "CHOCOLAT CHAUD",
+   "conf": 0.9747618649687085
+  },
+  {
+   "text": "12.00",
+   "conf": 0.9989239573478699
+  },
+  {
+   "text": "1",
+   "conf": 0.9967411160469055
+  },
+  {
+   "text": "12.00",
+   "conf": 0.9984771609306335
+  },
+  {
+   "text": "Total Facture :",
+   "conf": 0.9635560949643452
+  },
+  {
+   "text": "56.00 DH",
+   "conf": 0.9882424622774124
+  },
+  {
+   "text": "REGLE PAR ESPECE",
+   "conf": 0.9495163261890411
+  },
+  {
+   "text": "56.00 DH",
+   "conf": 0.9565720558166504
+  },
+  {
+   "text": "***Merci de votre visite****",
+   "conf": 0.9554190784692764
+  },
+  {
+   "text": "ICE :000081241000051",
+   "conf": 0.9730518370866775
+  }
+ ],
+ "mean_conf": 0.9667,
+ "low_conf_share": 0.0,
+ "latency_ms": 3467,
+ "fields": {
+  "company": "CAFE CREME 12 00 2 24 00",
+  "date": "2018-03-30",
+  "total": 56.0
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  56.0
+ ],
+ "key": "X51006008197"
+}

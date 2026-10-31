@@ -1,0 +1,864 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "RESTAURANT",
+  "TONY ROMA'S AEON TEBRAU CITY",
+  "GRAND COMPANIONS SDN BHD (285560-H)",
+  "LOT G112, AEON MALL TEBRAU CITY",
+  "NO 1 JALAN DESA TEBRAU",
+  "81100 JOHOR BAHRU",
+  "Tel: 07-3510749",
+  "Website: maw. tonyromas .com. my .",
+  "Facebook: was. facebook .com/TRNALAYSTA",
+  "GST 10:000436699136",
+  "2 TRI 1014 FAZLIN",
+  "a Chk 65991 Guest3",
+  "03 Mar 19 05:16:55 PM",
+  "1 WY STRIP 67.67 5",
+  ": Hedium Well",
+  "RANCH BEANS",
+  "SLAW",
+  "1 NY STRIP 67.67 $",
+  "Hedium",
+  "FR ROASTED YEGE",
+  "BAKED POTATO",
+  "Loaded",
+  "1 RY STREP 67.67 S",
+  "Hedium Wel] .",
+  "FR ROASTED YEGE",
+  "FF",
+  "4 ICE LATTE 9.35 §",
+  "1 7UP 9.35 5",
+  "| PEPSt 9.35 §",
+  "Subtotal 231.06",
+  "10% Srv Chg 23.10",
+  "GST O6% 15.25",
+  "Total 269.40",
+  "RH 10 GFF FOR A MINIMUM OF RH 50 SPENT",
+  "ON YOUR NEXT VISIT TO TONY ROMA'S Jt",
+  "GO TO :4WH. TONYCARES COM .",
+  "PLEASE TELL US HOW WE ARE DOING",
+  "Store # 0217",
+  "SURVEY VALIDATION CODE",
+  "This Receipt With Validation Code Is",
+  "Valid 3 Months From Date of Receipt",
+  "One redemption per group, per visit.",
+  "PUESRe Hin Nag a Coste ion asa auc)",
+  "Prisco lien! pay benierite 8 Grown)",
+  ". GST Go% included in total",
+  "G8TSummary Amount (RM) GSTCRM)",
+  "$aGST 6%: 254.17 15.25",
+  "22G8T toe: 0.00 0.00"
+ ],
+ "tokens": [
+  {
+   "text": "RESTAURANT",
+   "conf": 0.96
+  },
+  {
+   "text": "TONY",
+   "conf": 0.94
+  },
+  {
+   "text": "ROMA'S",
+   "conf": 0.73
+  },
+  {
+   "text": "AEON",
+   "conf": 0.9
+  },
+  {
+   "text": "TEBRAU",
+   "conf": 0.85
+  },
+  {
+   "text": "CITY",
+   "conf": 0.84
+  },
+  {
+   "text": "GRAND",
+   "conf": 0.93
+  },
+  {
+   "text": "COMPANIONS",
+   "conf": 0.72
+  },
+  {
+   "text": "SDN",
+   "conf": 0.93
+  },
+  {
+   "text": "BHD",
+   "conf": 0.91
+  },
+  {
+   "text": "(285560-H)",
+   "conf": 0.47
+  },
+  {
+   "text": "LOT",
+   "conf": 0.89
+  },
+  {
+   "text": "G112,",
+   "conf": 0.88
+  },
+  {
+   "text": "AEON",
+   "conf": 0.44
+  },
+  {
+   "text": "MALL",
+   "conf": 0.93
+  },
+  {
+   "text": "TEBRAU",
+   "conf": 0.92
+  },
+  {
+   "text": "CITY",
+   "conf": 0.94
+  },
+  {
+   "text": "NO",
+   "conf": 0.65
+  },
+  {
+   "text": "1",
+   "conf": 0.76
+  },
+  {
+   "text": "JALAN",
+   "conf": 0.82
+  },
+  {
+   "text": "DESA",
+   "conf": 0.43
+  },
+  {
+   "text": "TEBRAU",
+   "conf": 0.91
+  },
+  {
+   "text": "81100",
+   "conf": 0.87
+  },
+  {
+   "text": "JOHOR",
+   "conf": 0.62
+  },
+  {
+   "text": "BAHRU",
+   "conf": 0.91
+  },
+  {
+   "text": "Tel:",
+   "conf": 0.89
+  },
+  {
+   "text": "07-3510749",
+   "conf": 0.46
+  },
+  {
+   "text": "Website:",
+   "conf": 0.95
+  },
+  {
+   "text": "maw.",
+   "conf": 0.12
+  },
+  {
+   "text": "tonyromas",
+   "conf": 0.7
+  },
+  {
+   "text": ".com.",
+   "conf": 0.3
+  },
+  {
+   "text": "my",
+   "conf": 0.3
+  },
+  {
+   "text": ".",
+   "conf": 0.0
+  },
+  {
+   "text": "Facebook:",
+   "conf": 0.64
+  },
+  {
+   "text": "was.",
+   "conf": 0.55
+  },
+  {
+   "text": "facebook",
+   "conf": 0.79
+  },
+  {
+   "text": ".com/TRNALAYSTA",
+   "conf": 0.13
+  },
+  {
+   "text": "GST",
+   "conf": 0.88
+  },
+  {
+   "text": "10:000436699136",
+   "conf": 0.81
+  },
+  {
+   "text": "2",
+   "conf": 0.6
+  },
+  {
+   "text": "TRI",
+   "conf": 0.6
+  },
+  {
+   "text": "1014",
+   "conf": 0.86
+  },
+  {
+   "text": "FAZLIN",
+   "conf": 0.86
+  },
+  {
+   "text": "a",
+   "conf": 0.54
+  },
+  {
+   "text": "Chk",
+   "conf": 0.85
+  },
+  {
+   "text": "65991",
+   "conf": 0.85
+  },
+  {
+   "text": "Guest3",
+   "conf": 0.87
+  },
+  {
+   "text": "03",
+   "conf": 0.93
+  },
+  {
+   "text": "Mar",
+   "conf": 0.92
+  },
+  {
+   "text": "19",
+   "conf": 0.8
+  },
+  {
+   "text": "05:16:55",
+   "conf": 0.82
+  },
+  {
+   "text": "PM",
+   "conf": 0.82
+  },
+  {
+   "text": "1",
+   "conf": 0.45
+  },
+  {
+   "text": "WY",
+   "conf": 0.79
+  },
+  {
+   "text": "STRIP",
+   "conf": 0.94
+  },
+  {
+   "text": "67.67",
+   "conf": 0.86
+  },
+  {
+   "text": "5",
+   "conf": 0.71
+  },
+  {
+   "text": ":",
+   "conf": 0.0
+  },
+  {
+   "text": "Hedium",
+   "conf": 0.47
+  },
+  {
+   "text": "Well",
+   "conf": 0.21
+  },
+  {
+   "text": "RANCH",
+   "conf": 0.96
+  },
+  {
+   "text": "BEANS",
+   "conf": 0.96
+  },
+  {
+   "text": "SLAW",
+   "conf": 0.72
+  },
+  {
+   "text": "1",
+   "conf": 0.64
+  },
+  {
+   "text": "NY",
+   "conf": 0.71
+  },
+  {
+   "text": "STRIP",
+   "conf": 0.95
+  },
+  {
+   "text": "67.67",
+   "conf": 0.84
+  },
+  {
+   "text": "$",
+   "conf": 0.21
+  },
+  {
+   "text": "Hedium",
+   "conf": 0.62
+  },
+  {
+   "text": "FR",
+   "conf": 0.89
+  },
+  {
+   "text": "ROASTED",
+   "conf": 0.92
+  },
+  {
+   "text": "YEGE",
+   "conf": 0.8
+  },
+  {
+   "text": "BAKED",
+   "conf": 0.65
+  },
+  {
+   "text": "POTATO",
+   "conf": 0.95
+  },
+  {
+   "text": "Loaded",
+   "conf": 0.96
+  },
+  {
+   "text": "1",
+   "conf": 0.48
+  },
+  {
+   "text": "RY",
+   "conf": 0.48
+  },
+  {
+   "text": "STREP",
+   "conf": 0.93
+  },
+  {
+   "text": "67.67",
+   "conf": 0.78
+  },
+  {
+   "text": "S",
+   "conf": 0.06
+  },
+  {
+   "text": "Hedium",
+   "conf": 0.79
+  },
+  {
+   "text": "Wel]",
+   "conf": 0.54
+  },
+  {
+   "text": ".",
+   "conf": 0.01
+  },
+  {
+   "text": "FR",
+   "conf": 0.94
+  },
+  {
+   "text": "ROASTED",
+   "conf": 0.92
+  },
+  {
+   "text": "YEGE",
+   "conf": 0.55
+  },
+  {
+   "text": "FF",
+   "conf": 0.95
+  },
+  {
+   "text": "4",
+   "conf": 0.54
+  },
+  {
+   "text": "ICE",
+   "conf": 0.59
+  },
+  {
+   "text": "LATTE",
+   "conf": 0.94
+  },
+  {
+   "text": "9.35",
+   "conf": 0.91
+  },
+  {
+   "text": "§",
+   "conf": 0.85
+  },
+  {
+   "text": "1",
+   "conf": 0.54
+  },
+  {
+   "text": "7UP",
+   "conf": 0.68
+  },
+  {
+   "text": "9.35",
+   "conf": 0.64
+  },
+  {
+   "text": "5",
+   "conf": 0.64
+  },
+  {
+   "text": "|",
+   "conf": 0.43
+  },
+  {
+   "text": "PEPSt",
+   "conf": 0.58
+  },
+  {
+   "text": "9.35",
+   "conf": 0.7
+  },
+  {
+   "text": "§",
+   "conf": 0.5
+  },
+  {
+   "text": "Subtotal",
+   "conf": 0.85
+  },
+  {
+   "text": "231.06",
+   "conf": 0.46
+  },
+  {
+   "text": "10%",
+   "conf": 0.92
+  },
+  {
+   "text": "Srv",
+   "conf": 0.87
+  },
+  {
+   "text": "Chg",
+   "conf": 0.87
+  },
+  {
+   "text": "23.10",
+   "conf": 0.71
+  },
+  {
+   "text": "GST",
+   "conf": 0.89
+  },
+  {
+   "text": "O6%",
+   "conf": 0.03
+  },
+  {
+   "text": "15.25",
+   "conf": 0.91
+  },
+  {
+   "text": "Total",
+   "conf": 0.93
+  },
+  {
+   "text": "269.40",
+   "conf": 0.78
+  },
+  {
+   "text": "RH",
+   "conf": 0.85
+  },
+  {
+   "text": "10",
+   "conf": 0.85
+  },
+  {
+   "text": "GFF",
+   "conf": 0.9
+  },
+  {
+   "text": "FOR",
+   "conf": 0.96
+  },
+  {
+   "text": "A",
+   "conf": 0.95
+  },
+  {
+   "text": "MINIMUM",
+   "conf": 0.73
+  },
+  {
+   "text": "OF",
+   "conf": 0.94
+  },
+  {
+   "text": "RH",
+   "conf": 0.5
+  },
+  {
+   "text": "50",
+   "conf": 0.46
+  },
+  {
+   "text": "SPENT",
+   "conf": 0.85
+  },
+  {
+   "text": "ON",
+   "conf": 0.96
+  },
+  {
+   "text": "YOUR",
+   "conf": 0.96
+  },
+  {
+   "text": "NEXT",
+   "conf": 0.96
+  },
+  {
+   "text": "VISIT",
+   "conf": 0.89
+  },
+  {
+   "text": "TO",
+   "conf": 0.92
+  },
+  {
+   "text": "TONY",
+   "conf": 0.95
+  },
+  {
+   "text": "ROMA'S",
+   "conf": 0.94
+  },
+  {
+   "text": "Jt",
+   "conf": 0.28
+  },
+  {
+   "text": "GO",
+   "conf": 0.92
+  },
+  {
+   "text": "TO",
+   "conf": 0.77
+  },
+  {
+   "text": ":4WH.",
+   "conf": 0.0
+  },
+  {
+   "text": "TONYCARES",
+   "conf": 0.65
+  },
+  {
+   "text": "COM",
+   "conf": 0.6
+  },
+  {
+   "text": ".",
+   "conf": 0.0
+  },
+  {
+   "text": "PLEASE",
+   "conf": 0.96
+  },
+  {
+   "text": "TELL",
+   "conf": 0.96
+  },
+  {
+   "text": "US",
+   "conf": 0.93
+  },
+  {
+   "text": "HOW",
+   "conf": 0.84
+  },
+  {
+   "text": "WE",
+   "conf": 0.92
+  },
+  {
+   "text": "ARE",
+   "conf": 0.96
+  },
+  {
+   "text": "DOING",
+   "conf": 0.95
+  },
+  {
+   "text": "Store",
+   "conf": 0.92
+  },
+  {
+   "text": "#",
+   "conf": 0.92
+  },
+  {
+   "text": "0217",
+   "conf": 0.86
+  },
+  {
+   "text": "SURVEY",
+   "conf": 0.95
+  },
+  {
+   "text": "VALIDATION",
+   "conf": 0.95
+  },
+  {
+   "text": "CODE",
+   "conf": 0.19
+  },
+  {
+   "text": "This",
+   "conf": 0.9
+  },
+  {
+   "text": "Receipt",
+   "conf": 0.94
+  },
+  {
+   "text": "With",
+   "conf": 0.96
+  },
+  {
+   "text": "Validation",
+   "conf": 0.93
+  },
+  {
+   "text": "Code",
+   "conf": 0.93
+  },
+  {
+   "text": "Is",
+   "conf": 0.89
+  },
+  {
+   "text": "Valid",
+   "conf": 0.95
+  },
+  {
+   "text": "3",
+   "conf": 0.89
+  },
+  {
+   "text": "Months",
+   "conf": 0.89
+  },
+  {
+   "text": "From",
+   "conf": 0.32
+  },
+  {
+   "text": "Date",
+   "conf": 0.94
+  },
+  {
+   "text": "of",
+   "conf": 0.96
+  },
+  {
+   "text": "Receipt",
+   "conf": 0.95
+  },
+  {
+   "text": "One",
+   "conf": 0.81
+  },
+  {
+   "text": "redemption",
+   "conf": 0.04
+  },
+  {
+   "text": "per",
+   "conf": 0.9
+  },
+  {
+   "text": "group,",
+   "conf": 0.92
+  },
+  {
+   "text": "per",
+   "conf": 0.82
+  },
+  {
+   "text": "visit.",
+   "conf": 0.82
+  },
+  {
+   "text": "PUESRe",
+   "conf": 0.0
+  },
+  {
+   "text": "Hin",
+   "conf": 0.28
+  },
+  {
+   "text": "Nag",
+   "conf": 0.28
+  },
+  {
+   "text": "a",
+   "conf": 0.35
+  },
+  {
+   "text": "Coste",
+   "conf": 0.0
+  },
+  {
+   "text": "ion",
+   "conf": 0.0
+  },
+  {
+   "text": "asa",
+   "conf": 0.0
+  },
+  {
+   "text": "auc)",
+   "conf": 0.19
+  },
+  {
+   "text": "Prisco",
+   "conf": 0.0
+  },
+  {
+   "text": "lien!",
+   "conf": 0.0
+  },
+  {
+   "text": "pay",
+   "conf": 0.55
+  },
+  {
+   "text": "benierite",
+   "conf": 0.2
+  },
+  {
+   "text": "8",
+   "conf": 0.09
+  },
+  {
+   "text": "Grown)",
+   "conf": 0.0
+  },
+  {
+   "text": ".",
+   "conf": 0.0
+  },
+  {
+   "text": "GST",
+   "conf": 0.91
+  },
+  {
+   "text": "Go%",
+   "conf": 0.0
+  },
+  {
+   "text": "included",
+   "conf": 0.88
+  },
+  {
+   "text": "in",
+   "conf": 0.95
+  },
+  {
+   "text": "total",
+   "conf": 0.96
+  },
+  {
+   "text": "G8TSummary",
+   "conf": 0.07
+  },
+  {
+   "text": "Amount",
+   "conf": 0.0
+  },
+  {
+   "text": "(RM)",
+   "conf": 0.0
+  },
+  {
+   "text": "GSTCRM)",
+   "conf": 0.61
+  },
+  {
+   "text": "$aGST",
+   "conf": 0.0
+  },
+  {
+   "text": "6%:",
+   "conf": 0.0
+  },
+  {
+   "text": "254.17",
+   "conf": 0.7
+  },
+  {
+   "text": "15.25",
+   "conf": 0.9
+  },
+  {
+   "text": "22G8T",
+   "conf": 0.32
+  },
+  {
+   "text": "toe:",
+   "conf": 0.34
+  },
+  {
+   "text": "0.00",
+   "conf": 0.75
+  },
+  {
+   "text": "0.00",
+   "conf": 0.84
+  }
+ ],
+ "mean_conf": 0.6705,
+ "low_conf_share": 0.2513,
+ "latency_ms": 2531,
+ "fields": {
+  "company": "RESTAURANT",
+  "date": "2019-03-03",
+  "total": 269.4
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  269.4
+ ],
+ "key": "X51005442322"
+}

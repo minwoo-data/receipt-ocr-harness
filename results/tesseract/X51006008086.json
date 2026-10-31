@@ -1,0 +1,623 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "| POPULAR BOOK",
+  "CO. (M) SON BHD",
+  "(Co. No. 113825-W)",
+  "(GST Ree No. 901492992000)",
+  "No 8, Jalan 7/7118B, Desa Tun Kazak",
+  "56000 Kuala Lunpur, Malaysia",
+  "AEON SHAH ALAM",
+  "Tel : 03-55235214",
+  "24/01/18 16:14 Slip No. : 8020178503",
+  "Tasha Trans: 192915",
+  "Description Amount",
+  "PB SHT/P IIH Ad 50'S 16.90 |",
+  "No Plastic Bag Campai ).20 T",
+  "Issue Spring Ingot RM",
+  "PB 2) R/FILE Ad 40MM",
+  "2pc @ 7.99 15.98 T",
+  "Stat-Buy 2eRM 13 ~2. 98",
+  "Total RM Incl. of GST 30. 10",
+  "Cash -49. 10",
+  "CHANGE 10. 00",
+  "Item Count 5",
+  "GST Summary Amount (ht) Tax (RM)",
+  "T @ 6% 28, 39 I",
+  "Z @ 0% 0.00 9. 00",
+  "Total Savings =2, 98",
+  "BE A POPULAR CARI) MEMBER |",
+  "AND ENJOY SPECIAL DISCOUNTS |",
+  "THANK YOU. PLEASE COME AuALN. |",
+  "www. popular. com. my",
+  "Buy Chinese books online",
+  "www. popularonl ine. con. my"
+ ],
+ "tokens": [
+  {
+   "text": "|",
+   "conf": 0.87
+  },
+  {
+   "text": "POPULAR",
+   "conf": 0.95
+  },
+  {
+   "text": "BOOK",
+   "conf": 0.95
+  },
+  {
+   "text": "CO.",
+   "conf": 0.93
+  },
+  {
+   "text": "(M)",
+   "conf": 0.9
+  },
+  {
+   "text": "SON",
+   "conf": 0.74
+  },
+  {
+   "text": "BHD",
+   "conf": 0.96
+  },
+  {
+   "text": "(Co.",
+   "conf": 0.8
+  },
+  {
+   "text": "No.",
+   "conf": 0.83
+  },
+  {
+   "text": "113825-W)",
+   "conf": 0.4
+  },
+  {
+   "text": "(GST",
+   "conf": 0.93
+  },
+  {
+   "text": "Ree",
+   "conf": 0.87
+  },
+  {
+   "text": "No.",
+   "conf": 0.92
+  },
+  {
+   "text": "901492992000)",
+   "conf": 0.83
+  },
+  {
+   "text": "No",
+   "conf": 0.96
+  },
+  {
+   "text": "8,",
+   "conf": 0.96
+  },
+  {
+   "text": "Jalan",
+   "conf": 0.93
+  },
+  {
+   "text": "7/7118B,",
+   "conf": 0.51
+  },
+  {
+   "text": "Desa",
+   "conf": 0.96
+  },
+  {
+   "text": "Tun",
+   "conf": 0.92
+  },
+  {
+   "text": "Kazak",
+   "conf": 0.91
+  },
+  {
+   "text": "56000",
+   "conf": 0.95
+  },
+  {
+   "text": "Kuala",
+   "conf": 0.91
+  },
+  {
+   "text": "Lunpur,",
+   "conf": 0.84
+  },
+  {
+   "text": "Malaysia",
+   "conf": 0.95
+  },
+  {
+   "text": "AEON",
+   "conf": 0.92
+  },
+  {
+   "text": "SHAH",
+   "conf": 0.96
+  },
+  {
+   "text": "ALAM",
+   "conf": 0.94
+  },
+  {
+   "text": "Tel",
+   "conf": 0.91
+  },
+  {
+   "text": ":",
+   "conf": 0.86
+  },
+  {
+   "text": "03-55235214",
+   "conf": 0.88
+  },
+  {
+   "text": "24/01/18",
+   "conf": 0.96
+  },
+  {
+   "text": "16:14",
+   "conf": 0.94
+  },
+  {
+   "text": "Slip",
+   "conf": 0.95
+  },
+  {
+   "text": "No.",
+   "conf": 0.3
+  },
+  {
+   "text": ":",
+   "conf": 0.3
+  },
+  {
+   "text": "8020178503",
+   "conf": 0.94
+  },
+  {
+   "text": "Tasha",
+   "conf": 0.96
+  },
+  {
+   "text": "Trans:",
+   "conf": 0.95
+  },
+  {
+   "text": "192915",
+   "conf": 0.85
+  },
+  {
+   "text": "Description",
+   "conf": 0.96
+  },
+  {
+   "text": "Amount",
+   "conf": 0.89
+  },
+  {
+   "text": "PB",
+   "conf": 0.81
+  },
+  {
+   "text": "SHT/P",
+   "conf": 0.58
+  },
+  {
+   "text": "IIH",
+   "conf": 0.57
+  },
+  {
+   "text": "Ad",
+   "conf": 0.79
+  },
+  {
+   "text": "50'S",
+   "conf": 0.46
+  },
+  {
+   "text": "16.90",
+   "conf": 0.8
+  },
+  {
+   "text": "|",
+   "conf": 0.47
+  },
+  {
+   "text": "No",
+   "conf": 0.96
+  },
+  {
+   "text": "Plastic",
+   "conf": 0.96
+  },
+  {
+   "text": "Bag",
+   "conf": 0.93
+  },
+  {
+   "text": "Campai",
+   "conf": 0.88
+  },
+  {
+   "text": ").20",
+   "conf": 0.53
+  },
+  {
+   "text": "T",
+   "conf": 0.91
+  },
+  {
+   "text": "Issue",
+   "conf": 0.96
+  },
+  {
+   "text": "Spring",
+   "conf": 0.92
+  },
+  {
+   "text": "Ingot",
+   "conf": 0.9
+  },
+  {
+   "text": "RM",
+   "conf": 0.96
+  },
+  {
+   "text": "PB",
+   "conf": 0.87
+  },
+  {
+   "text": "2)",
+   "conf": 0.87
+  },
+  {
+   "text": "R/FILE",
+   "conf": 0.8
+  },
+  {
+   "text": "Ad",
+   "conf": 0.91
+  },
+  {
+   "text": "40MM",
+   "conf": 0.75
+  },
+  {
+   "text": "2pc",
+   "conf": 0.88
+  },
+  {
+   "text": "@",
+   "conf": 0.56
+  },
+  {
+   "text": "7.99",
+   "conf": 0.91
+  },
+  {
+   "text": "15.98",
+   "conf": 0.85
+  },
+  {
+   "text": "T",
+   "conf": 0.92
+  },
+  {
+   "text": "Stat-Buy",
+   "conf": 0.87
+  },
+  {
+   "text": "2eRM",
+   "conf": 0.36
+  },
+  {
+   "text": "13",
+   "conf": 0.96
+  },
+  {
+   "text": "~2.",
+   "conf": 0.78
+  },
+  {
+   "text": "98",
+   "conf": 0.94
+  },
+  {
+   "text": "Total",
+   "conf": 0.96
+  },
+  {
+   "text": "RM",
+   "conf": 0.96
+  },
+  {
+   "text": "Incl.",
+   "conf": 0.94
+  },
+  {
+   "text": "of",
+   "conf": 0.96
+  },
+  {
+   "text": "GST",
+   "conf": 0.96
+  },
+  {
+   "text": "30.",
+   "conf": 0.72
+  },
+  {
+   "text": "10",
+   "conf": 0.77
+  },
+  {
+   "text": "Cash",
+   "conf": 0.96
+  },
+  {
+   "text": "-49.",
+   "conf": 0.8
+  },
+  {
+   "text": "10",
+   "conf": 0.95
+  },
+  {
+   "text": "CHANGE",
+   "conf": 0.96
+  },
+  {
+   "text": "10.",
+   "conf": 0.9
+  },
+  {
+   "text": "00",
+   "conf": 0.76
+  },
+  {
+   "text": "Item",
+   "conf": 0.92
+  },
+  {
+   "text": "Count",
+   "conf": 0.96
+  },
+  {
+   "text": "5",
+   "conf": 0.9
+  },
+  {
+   "text": "GST",
+   "conf": 0.95
+  },
+  {
+   "text": "Summary",
+   "conf": 0.89
+  },
+  {
+   "text": "Amount",
+   "conf": 0.89
+  },
+  {
+   "text": "(ht)",
+   "conf": 0.49
+  },
+  {
+   "text": "Tax",
+   "conf": 0.94
+  },
+  {
+   "text": "(RM)",
+   "conf": 0.96
+  },
+  {
+   "text": "T",
+   "conf": 0.87
+  },
+  {
+   "text": "@",
+   "conf": 0.87
+  },
+  {
+   "text": "6%",
+   "conf": 0.96
+  },
+  {
+   "text": "28,",
+   "conf": 0.73
+  },
+  {
+   "text": "39",
+   "conf": 0.77
+  },
+  {
+   "text": "I",
+   "conf": 0.53
+  },
+  {
+   "text": "Z",
+   "conf": 0.62
+  },
+  {
+   "text": "@",
+   "conf": 0.62
+  },
+  {
+   "text": "0%",
+   "conf": 0.95
+  },
+  {
+   "text": "0.00",
+   "conf": 0.65
+  },
+  {
+   "text": "9.",
+   "conf": 0.83
+  },
+  {
+   "text": "00",
+   "conf": 0.94
+  },
+  {
+   "text": "Total",
+   "conf": 0.94
+  },
+  {
+   "text": "Savings",
+   "conf": 0.96
+  },
+  {
+   "text": "=2,",
+   "conf": 0.55
+  },
+  {
+   "text": "98",
+   "conf": 0.95
+  },
+  {
+   "text": "BE",
+   "conf": 0.94
+  },
+  {
+   "text": "A",
+   "conf": 0.94
+  },
+  {
+   "text": "POPULAR",
+   "conf": 0.96
+  },
+  {
+   "text": "CARI)",
+   "conf": 0.96
+  },
+  {
+   "text": "MEMBER",
+   "conf": 0.95
+  },
+  {
+   "text": "|",
+   "conf": 0.57
+  },
+  {
+   "text": "AND",
+   "conf": 0.96
+  },
+  {
+   "text": "ENJOY",
+   "conf": 0.96
+  },
+  {
+   "text": "SPECIAL",
+   "conf": 0.96
+  },
+  {
+   "text": "DISCOUNTS",
+   "conf": 0.91
+  },
+  {
+   "text": "|",
+   "conf": 0.53
+  },
+  {
+   "text": "THANK",
+   "conf": 0.96
+  },
+  {
+   "text": "YOU.",
+   "conf": 0.96
+  },
+  {
+   "text": "PLEASE",
+   "conf": 0.94
+  },
+  {
+   "text": "COME",
+   "conf": 0.89
+  },
+  {
+   "text": "AuALN.",
+   "conf": 0.3
+  },
+  {
+   "text": "|",
+   "conf": 0.86
+  },
+  {
+   "text": "www.",
+   "conf": 0.51
+  },
+  {
+   "text": "popular.",
+   "conf": 0.94
+  },
+  {
+   "text": "com.",
+   "conf": 0.84
+  },
+  {
+   "text": "my",
+   "conf": 0.81
+  },
+  {
+   "text": "Buy",
+   "conf": 0.96
+  },
+  {
+   "text": "Chinese",
+   "conf": 0.96
+  },
+  {
+   "text": "books",
+   "conf": 0.96
+  },
+  {
+   "text": "online",
+   "conf": 0.95
+  },
+  {
+   "text": "www.",
+   "conf": 0.93
+  },
+  {
+   "text": "popularonl",
+   "conf": 0.0
+  },
+  {
+   "text": "ine.",
+   "conf": 0.0
+  },
+  {
+   "text": "con.",
+   "conf": 0.94
+  },
+  {
+   "text": "my",
+   "conf": 0.88
+  }
+ ],
+ "mean_conf": 0.8327,
+ "low_conf_share": 0.0704,
+ "latency_ms": 3437,
+ "fields": {
+  "company": "CO SON BHD",
+  "date": "2018-01-24",
+  "total": 15.98
+ },
+ "rule_reasons": [
+  "total_no_keyword_fallback_max"
+ ],
+ "total_candidates": [
+  7.99,
+  15.98,
+  0.0
+ ],
+ "key": "X51006008086"
+}

@@ -1,0 +1,356 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "PANDAH INDAH PULAU KETAM RESTAURANT",
+  "H4-A-8, JALAN PANDAH INDAH 4/1A,",
+  "PANDAH INDAH, 55100 KUALA LUMPUR.",
+  "TEL:012-2873122 / 010-2022293",
+  "* GUEST CHECK *",
+  "Table 6",
+  "Check #: 113355 Pax(s): 0",
+  "Date : 30-04-2018 19:50:14",
+  "Server : CASHIER",
+  "1 KUO POH (C) (2 PAX) 6.00",
+  "2 TEA EXTRA PERSON (1 PAX) 2.00",
+  "1 TONG HOU 10.00",
+  "1 MUTTAN SLICE 15,00",
+  "1 SOUP 0.00",
+  "1 TOM YUN 0,00",
+  "3 NO. OF HEAD (2 SET ABOVE) 60,00",
+  "Subtotal : 93.00",
+  "an ———————"
+ ],
+ "tokens": [
+  {
+   "text": "PANDAH",
+   "conf": 0.92
+  },
+  {
+   "text": "INDAH",
+   "conf": 0.92
+  },
+  {
+   "text": "PULAU",
+   "conf": 0.92
+  },
+  {
+   "text": "KETAM",
+   "conf": 0.92
+  },
+  {
+   "text": "RESTAURANT",
+   "conf": 0.94
+  },
+  {
+   "text": "H4-A-8,",
+   "conf": 0.45
+  },
+  {
+   "text": "JALAN",
+   "conf": 0.92
+  },
+  {
+   "text": "PANDAH",
+   "conf": 0.91
+  },
+  {
+   "text": "INDAH",
+   "conf": 0.87
+  },
+  {
+   "text": "4/1A,",
+   "conf": 0.87
+  },
+  {
+   "text": "PANDAH",
+   "conf": 0.82
+  },
+  {
+   "text": "INDAH,",
+   "conf": 0.82
+  },
+  {
+   "text": "55100",
+   "conf": 0.96
+  },
+  {
+   "text": "KUALA",
+   "conf": 0.95
+  },
+  {
+   "text": "LUMPUR.",
+   "conf": 0.83
+  },
+  {
+   "text": "TEL:012-2873122",
+   "conf": 0.31
+  },
+  {
+   "text": "/",
+   "conf": 0.83
+  },
+  {
+   "text": "010-2022293",
+   "conf": 0.38
+  },
+  {
+   "text": "*",
+   "conf": 0.93
+  },
+  {
+   "text": "GUEST",
+   "conf": 0.96
+  },
+  {
+   "text": "CHECK",
+   "conf": 0.93
+  },
+  {
+   "text": "*",
+   "conf": 0.9
+  },
+  {
+   "text": "Table",
+   "conf": 0.96
+  },
+  {
+   "text": "6",
+   "conf": 0.96
+  },
+  {
+   "text": "Check",
+   "conf": 0.9
+  },
+  {
+   "text": "#:",
+   "conf": 0.79
+  },
+  {
+   "text": "113355",
+   "conf": 0.92
+  },
+  {
+   "text": "Pax(s):",
+   "conf": 0.85
+  },
+  {
+   "text": "0",
+   "conf": 0.94
+  },
+  {
+   "text": "Date",
+   "conf": 0.66
+  },
+  {
+   "text": ":",
+   "conf": 0.45
+  },
+  {
+   "text": "30-04-2018",
+   "conf": 0.95
+  },
+  {
+   "text": "19:50:14",
+   "conf": 0.94
+  },
+  {
+   "text": "Server",
+   "conf": 0.86
+  },
+  {
+   "text": ":",
+   "conf": 0.6
+  },
+  {
+   "text": "CASHIER",
+   "conf": 0.96
+  },
+  {
+   "text": "1",
+   "conf": 0.74
+  },
+  {
+   "text": "KUO",
+   "conf": 0.8
+  },
+  {
+   "text": "POH",
+   "conf": 0.87
+  },
+  {
+   "text": "(C)",
+   "conf": 0.87
+  },
+  {
+   "text": "(2",
+   "conf": 0.96
+  },
+  {
+   "text": "PAX)",
+   "conf": 0.96
+  },
+  {
+   "text": "6.00",
+   "conf": 0.88
+  },
+  {
+   "text": "2",
+   "conf": 0.29
+  },
+  {
+   "text": "TEA",
+   "conf": 0.9
+  },
+  {
+   "text": "EXTRA",
+   "conf": 0.96
+  },
+  {
+   "text": "PERSON",
+   "conf": 0.96
+  },
+  {
+   "text": "(1",
+   "conf": 0.95
+  },
+  {
+   "text": "PAX)",
+   "conf": 0.95
+  },
+  {
+   "text": "2.00",
+   "conf": 0.78
+  },
+  {
+   "text": "1",
+   "conf": 0.71
+  },
+  {
+   "text": "TONG",
+   "conf": 0.71
+  },
+  {
+   "text": "HOU",
+   "conf": 0.94
+  },
+  {
+   "text": "10.00",
+   "conf": 0.84
+  },
+  {
+   "text": "1",
+   "conf": 0.68
+  },
+  {
+   "text": "MUTTAN",
+   "conf": 0.81
+  },
+  {
+   "text": "SLICE",
+   "conf": 0.96
+  },
+  {
+   "text": "15,00",
+   "conf": 0.83
+  },
+  {
+   "text": "1",
+   "conf": 0.74
+  },
+  {
+   "text": "SOUP",
+   "conf": 0.54
+  },
+  {
+   "text": "0.00",
+   "conf": 0.94
+  },
+  {
+   "text": "1",
+   "conf": 0.69
+  },
+  {
+   "text": "TOM",
+   "conf": 0.69
+  },
+  {
+   "text": "YUN",
+   "conf": 0.96
+  },
+  {
+   "text": "0,00",
+   "conf": 0.78
+  },
+  {
+   "text": "3",
+   "conf": 0.76
+  },
+  {
+   "text": "NO.",
+   "conf": 0.71
+  },
+  {
+   "text": "OF",
+   "conf": 0.96
+  },
+  {
+   "text": "HEAD",
+   "conf": 0.96
+  },
+  {
+   "text": "(2",
+   "conf": 0.96
+  },
+  {
+   "text": "SET",
+   "conf": 0.96
+  },
+  {
+   "text": "ABOVE)",
+   "conf": 0.95
+  },
+  {
+   "text": "60,00",
+   "conf": 0.54
+  },
+  {
+   "text": "Subtotal",
+   "conf": 0.18
+  },
+  {
+   "text": ":",
+   "conf": 0.83
+  },
+  {
+   "text": "93.00",
+   "conf": 0.84
+  },
+  {
+   "text": "an",
+   "conf": 0.69
+  },
+  {
+   "text": "———————",
+   "conf": 0.0
+  }
+ ],
+ "mean_conf": 0.8081,
+ "low_conf_share": 0.0897,
+ "latency_ms": 861,
+ "fields": {
+  "company": "PANDAH INDAH PULAU KETAM RESTAURANT",
+  "date": "2018-04-30",
+  "total": 93.0
+ },
+ "rule_reasons": [
+  "total_no_keyword_fallback_max"
+ ],
+ "total_candidates": [
+  6.0,
+  2.0,
+  10.0,
+  0.0,
+  93.0
+ ],
+ "key": "X51008128052"
+}

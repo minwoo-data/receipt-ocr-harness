@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.6-flash",
+ "provider": "gemini",
+ "raw_text": "{\"vendor\": \"Bollywood Indian Restaurant\", \"date\": \"2017-03-22\", \"subtotal\": 55.0, \"tax\": 4.75, \"tip\": null, \"discount\": null, \"total\": 55.0, \"currency\": \"EUR\", \"confidence\": 0.95, \"notes\": null}",
+ "data": {
+  "vendor": "Bollywood Indian Restaurant",
+  "date": "2017-03-22",
+  "subtotal": 55.0,
+  "tax": 4.75,
+  "tip": null,
+  "discount": null,
+  "total": 55.0,
+  "currency": "EUR",
+  "confidence": 0.95,
+  "notes": null
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1471,
+  "output_tokens": 81,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.001407,
+ "latency_ms": 1661,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.6-flash",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.6-flash"
+ ],
+ "key": "W0131_77557b40f8f8"
+}

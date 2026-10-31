@@ -1,0 +1,253 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "| 1 City Square Mall",
+  "| | 186 Kitchener Road #04-30",
+  ": i Singapore 208539 ~.",
+  "lig Receipt No-00023194 :",
+  "im 1 Mono MFI Cable 28.00",
+  "| SUBTOTAL 28.00",
+  "4 | TOTAL 28.00 §&",
+  "NETS SG$ 23.00 fm",
+  "| Item Oty: Sve Qty:0 | Q",
+  ": Term:1 No:0000005 Cs: &",
+  "Date: Jul-28-2015 12:58 PM a"
+ ],
+ "tokens": [
+  {
+   "text": "|",
+   "conf": 0.33
+  },
+  {
+   "text": "1",
+   "conf": 0.0
+  },
+  {
+   "text": "City",
+   "conf": 0.96
+  },
+  {
+   "text": "Square",
+   "conf": 0.96
+  },
+  {
+   "text": "Mall",
+   "conf": 0.95
+  },
+  {
+   "text": "|",
+   "conf": 0.77
+  },
+  {
+   "text": "|",
+   "conf": 0.91
+  },
+  {
+   "text": "186",
+   "conf": 0.94
+  },
+  {
+   "text": "Kitchener",
+   "conf": 0.95
+  },
+  {
+   "text": "Road",
+   "conf": 0.93
+  },
+  {
+   "text": "#04-30",
+   "conf": 0.92
+  },
+  {
+   "text": ":",
+   "conf": 0.0
+  },
+  {
+   "text": "i",
+   "conf": 0.75
+  },
+  {
+   "text": "Singapore",
+   "conf": 0.96
+  },
+  {
+   "text": "208539",
+   "conf": 0.95
+  },
+  {
+   "text": "~.",
+   "conf": 0.0
+  },
+  {
+   "text": "lig",
+   "conf": 0.09
+  },
+  {
+   "text": "Receipt",
+   "conf": 0.93
+  },
+  {
+   "text": "No-00023194",
+   "conf": 0.4
+  },
+  {
+   "text": ":",
+   "conf": 0.18
+  },
+  {
+   "text": "im",
+   "conf": 0.2
+  },
+  {
+   "text": "1",
+   "conf": 0.25
+  },
+  {
+   "text": "Mono",
+   "conf": 0.68
+  },
+  {
+   "text": "MFI",
+   "conf": 0.93
+  },
+  {
+   "text": "Cable",
+   "conf": 0.96
+  },
+  {
+   "text": "28.00",
+   "conf": 0.71
+  },
+  {
+   "text": "|",
+   "conf": 0.62
+  },
+  {
+   "text": "SUBTOTAL",
+   "conf": 0.96
+  },
+  {
+   "text": "28.00",
+   "conf": 0.4
+  },
+  {
+   "text": "4",
+   "conf": 0.35
+  },
+  {
+   "text": "|",
+   "conf": 0.35
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.95
+  },
+  {
+   "text": "28.00",
+   "conf": 0.92
+  },
+  {
+   "text": "§&",
+   "conf": 0.28
+  },
+  {
+   "text": "NETS",
+   "conf": 0.91
+  },
+  {
+   "text": "SG$",
+   "conf": 0.38
+  },
+  {
+   "text": "23.00",
+   "conf": 0.7
+  },
+  {
+   "text": "fm",
+   "conf": 0.13
+  },
+  {
+   "text": "|",
+   "conf": 0.51
+  },
+  {
+   "text": "Item",
+   "conf": 0.95
+  },
+  {
+   "text": "Oty:",
+   "conf": 0.05
+  },
+  {
+   "text": "Sve",
+   "conf": 0.91
+  },
+  {
+   "text": "Qty:0",
+   "conf": 0.73
+  },
+  {
+   "text": "|",
+   "conf": 0.56
+  },
+  {
+   "text": "Q",
+   "conf": 0.0
+  },
+  {
+   "text": ":",
+   "conf": 0.0
+  },
+  {
+   "text": "Term:1",
+   "conf": 0.4
+  },
+  {
+   "text": "No:0000005",
+   "conf": 0.17
+  },
+  {
+   "text": "Cs:",
+   "conf": 0.56
+  },
+  {
+   "text": "&",
+   "conf": 0.61
+  },
+  {
+   "text": "Date:",
+   "conf": 0.39
+  },
+  {
+   "text": "Jul-28-2015",
+   "conf": 0.39
+  },
+  {
+   "text": "12:58",
+   "conf": 0.95
+  },
+  {
+   "text": "PM",
+   "conf": 0.96
+  },
+  {
+   "text": "a",
+   "conf": 0.41
+  }
+ ],
+ "mean_conf": 0.5838,
+ "low_conf_share": 0.4182,
+ "latency_ms": 1585,
+ "fields": {
+  "company": "1 CITY SQUARE MALL",
+  "date": null,
+  "total": 28.0
+ },
+ "rule_reasons": [
+  "date_not_found"
+ ],
+ "total_candidates": [
+  28.0
+ ],
+ "key": "W0151_7ca9b7879c80"
+}

@@ -1,0 +1,166 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "There goes my N24,300....and I'm not even full.",
+  "734-229-6782",
+  "CHK 24207 —_‘TBL 14/1 6st)",
+  "10/23/2016 8:57 PH",
+  "1 Tomatoe Bisque 9.00",
+  "Taxes $3.06",
+  "Total Due $54.06",
+  "GRATUITY: __",
+  "1111], 6, eae ee",
+  "pnw ia"
+ ],
+ "tokens": [
+  {
+   "text": "There",
+   "conf": 0.96
+  },
+  {
+   "text": "goes",
+   "conf": 0.96
+  },
+  {
+   "text": "my",
+   "conf": 0.92
+  },
+  {
+   "text": "N24,300....and",
+   "conf": 0.91
+  },
+  {
+   "text": "I'm",
+   "conf": 0.93
+  },
+  {
+   "text": "not",
+   "conf": 0.96
+  },
+  {
+   "text": "even",
+   "conf": 0.95
+  },
+  {
+   "text": "full.",
+   "conf": 0.95
+  },
+  {
+   "text": "734-229-6782",
+   "conf": 0.84
+  },
+  {
+   "text": "CHK",
+   "conf": 0.48
+  },
+  {
+   "text": "24207",
+   "conf": 0.2
+  },
+  {
+   "text": "—_‘TBL",
+   "conf": 0.0
+  },
+  {
+   "text": "14/1",
+   "conf": 0.65
+  },
+  {
+   "text": "6st)",
+   "conf": 0.37
+  },
+  {
+   "text": "10/23/2016",
+   "conf": 0.91
+  },
+  {
+   "text": "8:57",
+   "conf": 0.89
+  },
+  {
+   "text": "PH",
+   "conf": 0.44
+  },
+  {
+   "text": "1",
+   "conf": 0.83
+  },
+  {
+   "text": "Tomatoe",
+   "conf": 0.91
+  },
+  {
+   "text": "Bisque",
+   "conf": 0.96
+  },
+  {
+   "text": "9.00",
+   "conf": 0.2
+  },
+  {
+   "text": "Taxes",
+   "conf": 0.96
+  },
+  {
+   "text": "$3.06",
+   "conf": 0.94
+  },
+  {
+   "text": "Total",
+   "conf": 0.95
+  },
+  {
+   "text": "Due",
+   "conf": 0.94
+  },
+  {
+   "text": "$54.06",
+   "conf": 0.96
+  },
+  {
+   "text": "GRATUITY:",
+   "conf": 0.26
+  },
+  {
+   "text": "__",
+   "conf": 0.0
+  },
+  {
+   "text": "1111],",
+   "conf": 0.51
+  },
+  {
+   "text": "6,",
+   "conf": 0.01
+  },
+  {
+   "text": "eae",
+   "conf": 0.12
+  },
+  {
+   "text": "ee",
+   "conf": 0.17
+  },
+  {
+   "text": "pnw",
+   "conf": 0.0
+  },
+  {
+   "text": "ia",
+   "conf": 0.0
+  }
+ ],
+ "mean_conf": 0.6188,
+ "low_conf_share": 0.3824,
+ "latency_ms": 267,
+ "fields": {
+  "company": "THERE GOES MY N24 300 AND I M NOT EVEN FULL",
+  "date": "2016-10-23",
+  "total": 54.06
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  54.06
+ ],
+ "key": "W0138_45bf5f9182bb"
+}

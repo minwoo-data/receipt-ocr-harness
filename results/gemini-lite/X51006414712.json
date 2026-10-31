@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.1-flash-lite",
+ "provider": "gemini",
+ "raw_text": "{\n  \"vendor\": \"DOMINO'S PIZZA\",\n  \"date\": \"2018-04-28\",\n  \"subtotal\": 57.00,\n  \"tax\": 2.24,\n  \"tip\": null,\n  \"discount\": -17.40,\n  \"total\": 39.60,\n  \"currency\": \"MYR\",\n  \"confidence\": 0.98,\n  \"notes\": null\n}",
+ "data": {
+  "vendor": "DOMINO'S PIZZA",
+  "date": "2018-04-28",
+  "subtotal": 57.0,
+  "tax": 2.24,
+  "tip": null,
+  "discount": -17.4,
+  "total": 39.6,
+  "currency": "MYR",
+  "confidence": 0.98,
+  "notes": null
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1461,
+  "output_tokens": 115,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.000538,
+ "latency_ms": 1594,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.1-flash-lite",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.1-flash-lite"
+ ],
+ "key": "X51006414712"
+}

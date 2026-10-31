@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.6-flash",
+ "provider": "gemini",
+ "raw_text": "{\"vendor\": \"SIN THYE & COMPANY\", \"date\": \"2016-02-28\", \"subtotal\": 103.77, \"tax\": 6.23, \"tip\": null, \"discount\": 0.0, \"total\": 110.0, \"currency\": \"MYR\", \"confidence\": 0.95, \"notes\": null}",
+ "data": {
+  "vendor": "SIN THYE & COMPANY",
+  "date": "2016-02-28",
+  "subtotal": 103.77,
+  "tax": 6.23,
+  "tip": null,
+  "discount": 0.0,
+  "total": 110.0,
+  "currency": "MYR",
+  "confidence": 0.95,
+  "notes": null
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1449,
+  "output_tokens": 90,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.001424,
+ "latency_ms": 1339,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.6-flash",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.6-flash"
+ ],
+ "key": "X51006620161"
+}

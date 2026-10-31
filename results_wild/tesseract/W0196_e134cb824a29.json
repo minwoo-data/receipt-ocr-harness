@@ -1,0 +1,466 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "©",
+  "Jane",
+  "Applebees",
+  "APPLEBEE’'S",
+  "NEIGHBORHOOD GRILL & BAR",
+  "195 Soscol Ave.",
+  ": Napa, Cé 94559",
+  "707-224-0502",
+  "Sn aETCER TB#66",
+  "DATE: 01-30-16 TIME: 04:42 PM GUESTS: 2",
+  "Check #:9724-508874",
+  "1 PERF MARG 9,00",
+  "-1 DBL WHSKY STK -14.99",
+  "-1 DBL WHSKY STK -14,99",
+  "1 TRKY STACKER 10.99",
+  "1 PERF MARG 9.00",
+  "1 CHURRO SMORE 4.50",
+  "1 -*T0* *G0* 0.00",
+  "-1 NA STRH SHAKE e099",
+  "-1 NON ALCOHOLIC 0.00",
+  "Check TOTAL: 33.49",
+  "TAX: 2.68",
+  "Total Due: 36-7",
+  "Gratuity Examples",
+  "15 % Tip = $5.02",
+  "18 % Tip = $6.03",
+  "20 % Tip = $6.70",
+  "Jeb bb bobo oR EE",
+  "Short on time?",
+  "Order On]ine! order .applebees.com"
+ ],
+ "tokens": [
+  {
+   "text": "©",
+   "conf": 0.48
+  },
+  {
+   "text": "Jane",
+   "conf": 0.4
+  },
+  {
+   "text": "Applebees",
+   "conf": 0.96
+  },
+  {
+   "text": "APPLEBEE’'S",
+   "conf": 0.34
+  },
+  {
+   "text": "NEIGHBORHOOD",
+   "conf": 0.95
+  },
+  {
+   "text": "GRILL",
+   "conf": 0.92
+  },
+  {
+   "text": "&",
+   "conf": 0.92
+  },
+  {
+   "text": "BAR",
+   "conf": 0.97
+  },
+  {
+   "text": "195",
+   "conf": 0.93
+  },
+  {
+   "text": "Soscol",
+   "conf": 0.89
+  },
+  {
+   "text": "Ave.",
+   "conf": 0.96
+  },
+  {
+   "text": ":",
+   "conf": 0.0
+  },
+  {
+   "text": "Napa,",
+   "conf": 0.93
+  },
+  {
+   "text": "Cé",
+   "conf": 0.74
+  },
+  {
+   "text": "94559",
+   "conf": 0.96
+  },
+  {
+   "text": "707-224-0502",
+   "conf": 0.92
+  },
+  {
+   "text": "Sn",
+   "conf": 0.0
+  },
+  {
+   "text": "aETCER",
+   "conf": 0.0
+  },
+  {
+   "text": "TB#66",
+   "conf": 0.89
+  },
+  {
+   "text": "DATE:",
+   "conf": 0.96
+  },
+  {
+   "text": "01-30-16",
+   "conf": 0.96
+  },
+  {
+   "text": "TIME:",
+   "conf": 0.95
+  },
+  {
+   "text": "04:42",
+   "conf": 0.73
+  },
+  {
+   "text": "PM",
+   "conf": 0.96
+  },
+  {
+   "text": "GUESTS:",
+   "conf": 0.96
+  },
+  {
+   "text": "2",
+   "conf": 0.96
+  },
+  {
+   "text": "Check",
+   "conf": 0.92
+  },
+  {
+   "text": "#:9724-508874",
+   "conf": 0.9
+  },
+  {
+   "text": "1",
+   "conf": 0.72
+  },
+  {
+   "text": "PERF",
+   "conf": 0.74
+  },
+  {
+   "text": "MARG",
+   "conf": 0.92
+  },
+  {
+   "text": "9,00",
+   "conf": 0.85
+  },
+  {
+   "text": "-1",
+   "conf": 0.62
+  },
+  {
+   "text": "DBL",
+   "conf": 0.64
+  },
+  {
+   "text": "WHSKY",
+   "conf": 0.92
+  },
+  {
+   "text": "STK",
+   "conf": 0.96
+  },
+  {
+   "text": "-14.99",
+   "conf": 0.5
+  },
+  {
+   "text": "-1",
+   "conf": 0.76
+  },
+  {
+   "text": "DBL",
+   "conf": 0.6
+  },
+  {
+   "text": "WHSKY",
+   "conf": 0.92
+  },
+  {
+   "text": "STK",
+   "conf": 0.96
+  },
+  {
+   "text": "-14,99",
+   "conf": 0.76
+  },
+  {
+   "text": "1",
+   "conf": 0.56
+  },
+  {
+   "text": "TRKY",
+   "conf": 0.56
+  },
+  {
+   "text": "STACKER",
+   "conf": 0.97
+  },
+  {
+   "text": "10.99",
+   "conf": 0.95
+  },
+  {
+   "text": "1",
+   "conf": 0.66
+  },
+  {
+   "text": "PERF",
+   "conf": 0.66
+  },
+  {
+   "text": "MARG",
+   "conf": 0.92
+  },
+  {
+   "text": "9.00",
+   "conf": 0.92
+  },
+  {
+   "text": "1",
+   "conf": 0.65
+  },
+  {
+   "text": "CHURRO",
+   "conf": 0.67
+  },
+  {
+   "text": "SMORE",
+   "conf": 0.92
+  },
+  {
+   "text": "4.50",
+   "conf": 0.9
+  },
+  {
+   "text": "1",
+   "conf": 0.62
+  },
+  {
+   "text": "-*T0*",
+   "conf": 0.0
+  },
+  {
+   "text": "*G0*",
+   "conf": 0.29
+  },
+  {
+   "text": "0.00",
+   "conf": 0.92
+  },
+  {
+   "text": "-1",
+   "conf": 0.92
+  },
+  {
+   "text": "NA",
+   "conf": 0.68
+  },
+  {
+   "text": "STRH",
+   "conf": 0.85
+  },
+  {
+   "text": "SHAKE",
+   "conf": 0.96
+  },
+  {
+   "text": "e099",
+   "conf": 0.0
+  },
+  {
+   "text": "-1",
+   "conf": 0.18
+  },
+  {
+   "text": "NON",
+   "conf": 0.63
+  },
+  {
+   "text": "ALCOHOLIC",
+   "conf": 0.72
+  },
+  {
+   "text": "0.00",
+   "conf": 0.93
+  },
+  {
+   "text": "Check",
+   "conf": 0.96
+  },
+  {
+   "text": "TOTAL:",
+   "conf": 0.95
+  },
+  {
+   "text": "33.49",
+   "conf": 0.83
+  },
+  {
+   "text": "TAX:",
+   "conf": 0.89
+  },
+  {
+   "text": "2.68",
+   "conf": 0.92
+  },
+  {
+   "text": "Total",
+   "conf": 0.96
+  },
+  {
+   "text": "Due:",
+   "conf": 0.94
+  },
+  {
+   "text": "36-7",
+   "conf": 0.22
+  },
+  {
+   "text": "Gratuity",
+   "conf": 0.96
+  },
+  {
+   "text": "Examples",
+   "conf": 0.96
+  },
+  {
+   "text": "15",
+   "conf": 0.71
+  },
+  {
+   "text": "%",
+   "conf": 0.71
+  },
+  {
+   "text": "Tip",
+   "conf": 0.96
+  },
+  {
+   "text": "=",
+   "conf": 0.96
+  },
+  {
+   "text": "$5.02",
+   "conf": 0.93
+  },
+  {
+   "text": "18",
+   "conf": 0.9
+  },
+  {
+   "text": "%",
+   "conf": 0.89
+  },
+  {
+   "text": "Tip",
+   "conf": 0.96
+  },
+  {
+   "text": "=",
+   "conf": 0.96
+  },
+  {
+   "text": "$6.03",
+   "conf": 0.96
+  },
+  {
+   "text": "20",
+   "conf": 0.92
+  },
+  {
+   "text": "%",
+   "conf": 0.91
+  },
+  {
+   "text": "Tip",
+   "conf": 0.96
+  },
+  {
+   "text": "=",
+   "conf": 0.96
+  },
+  {
+   "text": "$6.70",
+   "conf": 0.93
+  },
+  {
+   "text": "Jeb",
+   "conf": 0.0
+  },
+  {
+   "text": "bb",
+   "conf": 0.0
+  },
+  {
+   "text": "bobo",
+   "conf": 0.0
+  },
+  {
+   "text": "oR",
+   "conf": 0.2
+  },
+  {
+   "text": "EE",
+   "conf": 0.29
+  },
+  {
+   "text": "Short",
+   "conf": 0.96
+  },
+  {
+   "text": "on",
+   "conf": 0.75
+  },
+  {
+   "text": "time?",
+   "conf": 0.96
+  },
+  {
+   "text": "Order",
+   "conf": 0.93
+  },
+  {
+   "text": "On]ine!",
+   "conf": 0.07
+  },
+  {
+   "text": "order",
+   "conf": 0.36
+  },
+  {
+   "text": ".applebees.com",
+   "conf": 0.36
+  }
+ ],
+ "mean_conf": 0.7352,
+ "low_conf_share": 0.1827,
+ "latency_ms": 491,
+ "fields": {
+  "company": "JANE",
+  "date": "2016-01-30",
+  "total": 33.49
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  33.49
+ ],
+ "key": "W0196_e134cb824a29"
+}

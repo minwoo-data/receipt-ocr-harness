@@ -1,0 +1,335 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "| . BEMED (SP) SDN. )",
+  "No.4¢, Jalan Dinar G US/G,",
+  "Subang Perdana,",
+  "40150 Shah Alam, Selangor D4",
+  "03-7845 8155",
+  "GST Reg : 001734164480",
+  "CASH RECEIPT",
+  "CB# : 78293158323 14/durn/2017 0834-22",
+  "Cashler : puterl (Q)",
+  "Oly Cade&Desc Price Total",
+  "ALPHA LIPIG LIFE LINE SR",
+  "1 184870 165.00 165.00",
+  "SubT atal: 165.00",
+  "Rounding Aci : 0,00",
+  "AS) ee",
+  "3ST Summary: Amount Tax”",
+  "(MYR) (MYR)",
+  "= ee i -\" ini woiepes!) Saas Saas pen aaa"
+ ],
+ "tokens": [
+  {
+   "text": "|",
+   "conf": 0.86
+  },
+  {
+   "text": ".",
+   "conf": 0.71
+  },
+  {
+   "text": "BEMED",
+   "conf": 0.89
+  },
+  {
+   "text": "(SP)",
+   "conf": 0.86
+  },
+  {
+   "text": "SDN.",
+   "conf": 0.86
+  },
+  {
+   "text": ")",
+   "conf": 0.08
+  },
+  {
+   "text": "No.4¢,",
+   "conf": 0.24
+  },
+  {
+   "text": "Jalan",
+   "conf": 0.69
+  },
+  {
+   "text": "Dinar",
+   "conf": 0.9
+  },
+  {
+   "text": "G",
+   "conf": 0.6
+  },
+  {
+   "text": "US/G,",
+   "conf": 0.46
+  },
+  {
+   "text": "Subang",
+   "conf": 0.92
+  },
+  {
+   "text": "Perdana,",
+   "conf": 0.96
+  },
+  {
+   "text": "40150",
+   "conf": 0.94
+  },
+  {
+   "text": "Shah",
+   "conf": 0.96
+  },
+  {
+   "text": "Alam,",
+   "conf": 0.89
+  },
+  {
+   "text": "Selangor",
+   "conf": 0.96
+  },
+  {
+   "text": "D4",
+   "conf": 0.51
+  },
+  {
+   "text": "03-7845",
+   "conf": 0.87
+  },
+  {
+   "text": "8155",
+   "conf": 0.81
+  },
+  {
+   "text": "GST",
+   "conf": 0.94
+  },
+  {
+   "text": "Reg",
+   "conf": 0.92
+  },
+  {
+   "text": ":",
+   "conf": 0.35
+  },
+  {
+   "text": "001734164480",
+   "conf": 0.61
+  },
+  {
+   "text": "CASH",
+   "conf": 0.83
+  },
+  {
+   "text": "RECEIPT",
+   "conf": 0.92
+  },
+  {
+   "text": "CB#",
+   "conf": 0.51
+  },
+  {
+   "text": ":",
+   "conf": 0.51
+  },
+  {
+   "text": "78293158323",
+   "conf": 0.35
+  },
+  {
+   "text": "14/durn/2017",
+   "conf": 0.11
+  },
+  {
+   "text": "0834-22",
+   "conf": 0.0
+  },
+  {
+   "text": "Cashler",
+   "conf": 0.86
+  },
+  {
+   "text": ":",
+   "conf": 0.73
+  },
+  {
+   "text": "puterl",
+   "conf": 0.81
+  },
+  {
+   "text": "(Q)",
+   "conf": 0.36
+  },
+  {
+   "text": "Oly",
+   "conf": 0.72
+  },
+  {
+   "text": "Cade&Desc",
+   "conf": 0.62
+  },
+  {
+   "text": "Price",
+   "conf": 0.86
+  },
+  {
+   "text": "Total",
+   "conf": 0.56
+  },
+  {
+   "text": "ALPHA",
+   "conf": 0.93
+  },
+  {
+   "text": "LIPIG",
+   "conf": 0.81
+  },
+  {
+   "text": "LIFE",
+   "conf": 0.93
+  },
+  {
+   "text": "LINE",
+   "conf": 0.93
+  },
+  {
+   "text": "SR",
+   "conf": 0.89
+  },
+  {
+   "text": "1",
+   "conf": 0.77
+  },
+  {
+   "text": "184870",
+   "conf": 0.87
+  },
+  {
+   "text": "165.00",
+   "conf": 0.94
+  },
+  {
+   "text": "165.00",
+   "conf": 0.77
+  },
+  {
+   "text": "SubT",
+   "conf": 0.58
+  },
+  {
+   "text": "atal:",
+   "conf": 0.58
+  },
+  {
+   "text": "165.00",
+   "conf": 0.67
+  },
+  {
+   "text": "Rounding",
+   "conf": 0.54
+  },
+  {
+   "text": "Aci",
+   "conf": 0.51
+  },
+  {
+   "text": ":",
+   "conf": 0.88
+  },
+  {
+   "text": "0,00",
+   "conf": 0.58
+  },
+  {
+   "text": "AS)",
+   "conf": 0.65
+  },
+  {
+   "text": "ee",
+   "conf": 0.11
+  },
+  {
+   "text": "3ST",
+   "conf": 0.86
+  },
+  {
+   "text": "Summary:",
+   "conf": 0.93
+  },
+  {
+   "text": "Amount",
+   "conf": 0.8
+  },
+  {
+   "text": "Tax”",
+   "conf": 0.54
+  },
+  {
+   "text": "(MYR)",
+   "conf": 0.82
+  },
+  {
+   "text": "(MYR)",
+   "conf": 0.15
+  },
+  {
+   "text": "=",
+   "conf": 0.27
+  },
+  {
+   "text": "ee",
+   "conf": 0.32
+  },
+  {
+   "text": "i",
+   "conf": 0.22
+  },
+  {
+   "text": "-\"",
+   "conf": 0.0
+  },
+  {
+   "text": "ini",
+   "conf": 0.34
+  },
+  {
+   "text": "woiepes!)",
+   "conf": 0.0
+  },
+  {
+   "text": "Saas",
+   "conf": 0.31
+  },
+  {
+   "text": "Saas",
+   "conf": 0.0
+  },
+  {
+   "text": "pen",
+   "conf": 0.3
+  },
+  {
+   "text": "aaa",
+   "conf": 0.0
+  }
+ ],
+ "mean_conf": 0.6211,
+ "low_conf_share": 0.274,
+ "latency_ms": 3025,
+ "fields": {
+  "company": "NO 4 JALAN DINAR G US G",
+  "date": null,
+  "total": 165.0
+ },
+ "rule_reasons": [
+  "date_not_found",
+  "total_no_keyword_fallback_max"
+ ],
+ "total_candidates": [
+  165.0,
+  165.0,
+  165.0
+ ],
+ "key": "X51006392299"
+}

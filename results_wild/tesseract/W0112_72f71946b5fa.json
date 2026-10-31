@@ -1,0 +1,1320 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "eal al © a",
+  "i onattl , 7%",
+  "«a S \" FS ¥ aa diay",
+  "“ee ee at",
+  "‘ oe 4 ‘ ’ a",
+  "ou Mes 4 es",
+  ". ‘aan",
+  "ae",
+  "ne oe ee",
+  "r agg Reo — Pa * — ae ed a“ Se ‘ ee i ng % we usp",
+  "Fe ae eo oe aon sens shane ia on aoe eae ‘ 75 t48 ait» J",
+  "_—_- - et ee -_ eae ana eee oe nm. - RE TS, seeesanes ee Lae i be cen ncaehd eues 0640406 5 bt ons .",
+  "Fa} iiik Ui iu iit Malt ETE ENE",
+  "* —_ - =e as he » - * <eetewerere e 4 a. : : 90 pus pee 60 weg ee F8R0 eh Ae rT EE beet s¢",
+  "| ames —- ier a geen se tr MS : 1 > ss ane ‘ i",
+  "ui ES age wee ey",
+  "ae 4g iA PLLC £ A fh) A) our",
+  "-— = — wee a oheeeee * ’ . . -",
+  "3 « : ~ — wens .? . _~ aie teeg o © ° pe é",
+  "tas 3 Fs et $5 ‘me ae ee 5 ,",
+  "Be gets = page = ui saan Ne pa",
+  "ae aes + - . s : 4 \" ”",
+  "ie - aed me Pett tS caste oe a a — r",
+  "ail oes . : ond ‘",
+  "secu - * 900 _ oes ame 4 sn tate or “<=",
+  "7 Ng ) yer aes ~ > - : «9 of 3",
+  "VAL Wigs Ain iF cha AL",
+  ". se aging i o 5 pee ore one 7",
+  "dis sal j bet 2",
+  "Poa oem eon owes = tee chee me teal wemeere 4",
+  "a te Toe ae oie a. Sas",
+  "is Ui : WALG (ASL",
+  "Doel ee ee",
+  "pager 4 i sme = #",
+  "Cee ee a Taw i"
+ ],
+ "tokens": [
+  {
+   "text": "eal",
+   "conf": 0.0
+  },
+  {
+   "text": "al",
+   "conf": 0.21
+  },
+  {
+   "text": "©",
+   "conf": 0.57
+  },
+  {
+   "text": "a",
+   "conf": 0.5
+  },
+  {
+   "text": "i",
+   "conf": 0.0
+  },
+  {
+   "text": "onattl",
+   "conf": 0.0
+  },
+  {
+   "text": ",",
+   "conf": 0.69
+  },
+  {
+   "text": "7%",
+   "conf": 0.28
+  },
+  {
+   "text": "«a",
+   "conf": 0.03
+  },
+  {
+   "text": "S",
+   "conf": 0.0
+  },
+  {
+   "text": "\"",
+   "conf": 0.0
+  },
+  {
+   "text": "FS",
+   "conf": 0.08
+  },
+  {
+   "text": "¥",
+   "conf": 0.27
+  },
+  {
+   "text": "aa",
+   "conf": 0.37
+  },
+  {
+   "text": "diay",
+   "conf": 0.39
+  },
+  {
+   "text": "“ee",
+   "conf": 0.26
+  },
+  {
+   "text": "ee",
+   "conf": 0.14
+  },
+  {
+   "text": "at",
+   "conf": 0.3
+  },
+  {
+   "text": "‘",
+   "conf": 0.25
+  },
+  {
+   "text": "oe",
+   "conf": 0.15
+  },
+  {
+   "text": "4",
+   "conf": 0.61
+  },
+  {
+   "text": "‘",
+   "conf": 0.64
+  },
+  {
+   "text": "’",
+   "conf": 0.3
+  },
+  {
+   "text": "a",
+   "conf": 0.0
+  },
+  {
+   "text": "ou",
+   "conf": 0.16
+  },
+  {
+   "text": "Mes",
+   "conf": 0.44
+  },
+  {
+   "text": "4",
+   "conf": 0.81
+  },
+  {
+   "text": "es",
+   "conf": 0.22
+  },
+  {
+   "text": ".",
+   "conf": 0.27
+  },
+  {
+   "text": "‘aan",
+   "conf": 0.13
+  },
+  {
+   "text": "ae",
+   "conf": 0.34
+  },
+  {
+   "text": "ne",
+   "conf": 0.1
+  },
+  {
+   "text": "oe",
+   "conf": 0.14
+  },
+  {
+   "text": "ee",
+   "conf": 0.36
+  },
+  {
+   "text": "r",
+   "conf": 0.0
+  },
+  {
+   "text": "agg",
+   "conf": 0.0
+  },
+  {
+   "text": "Reo",
+   "conf": 0.18
+  },
+  {
+   "text": "—",
+   "conf": 0.82
+  },
+  {
+   "text": "Pa",
+   "conf": 0.26
+  },
+  {
+   "text": "*",
+   "conf": 0.51
+  },
+  {
+   "text": "—",
+   "conf": 0.0
+  },
+  {
+   "text": "ae",
+   "conf": 0.3
+  },
+  {
+   "text": "ed",
+   "conf": 0.28
+  },
+  {
+   "text": "a“",
+   "conf": 0.18
+  },
+  {
+   "text": "Se",
+   "conf": 0.13
+  },
+  {
+   "text": "‘",
+   "conf": 0.0
+  },
+  {
+   "text": "ee",
+   "conf": 0.21
+  },
+  {
+   "text": "i",
+   "conf": 0.24
+  },
+  {
+   "text": "ng",
+   "conf": 0.35
+  },
+  {
+   "text": "%",
+   "conf": 0.31
+  },
+  {
+   "text": "we",
+   "conf": 0.58
+  },
+  {
+   "text": "usp",
+   "conf": 0.23
+  },
+  {
+   "text": "Fe",
+   "conf": 0.04
+  },
+  {
+   "text": "ae",
+   "conf": 0.2
+  },
+  {
+   "text": "eo",
+   "conf": 0.32
+  },
+  {
+   "text": "oe",
+   "conf": 0.28
+  },
+  {
+   "text": "aon",
+   "conf": 0.43
+  },
+  {
+   "text": "sens",
+   "conf": 0.26
+  },
+  {
+   "text": "shane",
+   "conf": 0.14
+  },
+  {
+   "text": "ia",
+   "conf": 0.32
+  },
+  {
+   "text": "on",
+   "conf": 0.23
+  },
+  {
+   "text": "aoe",
+   "conf": 0.12
+  },
+  {
+   "text": "eae",
+   "conf": 0.2
+  },
+  {
+   "text": "‘",
+   "conf": 0.04
+  },
+  {
+   "text": "75",
+   "conf": 0.37
+  },
+  {
+   "text": "t48",
+   "conf": 0.0
+  },
+  {
+   "text": "ait»",
+   "conf": 0.27
+  },
+  {
+   "text": "J",
+   "conf": 0.64
+  },
+  {
+   "text": "_—_-",
+   "conf": 0.1
+  },
+  {
+   "text": "-",
+   "conf": 0.0
+  },
+  {
+   "text": "et",
+   "conf": 0.39
+  },
+  {
+   "text": "ee",
+   "conf": 0.24
+  },
+  {
+   "text": "-_",
+   "conf": 0.36
+  },
+  {
+   "text": "eae",
+   "conf": 0.45
+  },
+  {
+   "text": "ana",
+   "conf": 0.13
+  },
+  {
+   "text": "eee",
+   "conf": 0.04
+  },
+  {
+   "text": "oe",
+   "conf": 0.18
+  },
+  {
+   "text": "nm.",
+   "conf": 0.07
+  },
+  {
+   "text": "-",
+   "conf": 0.0
+  },
+  {
+   "text": "RE",
+   "conf": 0.24
+  },
+  {
+   "text": "TS,",
+   "conf": 0.24
+  },
+  {
+   "text": "seeesanes",
+   "conf": 0.0
+  },
+  {
+   "text": "ee",
+   "conf": 0.29
+  },
+  {
+   "text": "Lae",
+   "conf": 0.27
+  },
+  {
+   "text": "i",
+   "conf": 0.0
+  },
+  {
+   "text": "be",
+   "conf": 0.53
+  },
+  {
+   "text": "cen",
+   "conf": 0.13
+  },
+  {
+   "text": "ncaehd",
+   "conf": 0.0
+  },
+  {
+   "text": "eues",
+   "conf": 0.0
+  },
+  {
+   "text": "0640406",
+   "conf": 0.55
+  },
+  {
+   "text": "5",
+   "conf": 0.78
+  },
+  {
+   "text": "bt",
+   "conf": 0.29
+  },
+  {
+   "text": "ons",
+   "conf": 0.36
+  },
+  {
+   "text": ".",
+   "conf": 0.54
+  },
+  {
+   "text": "Fa}",
+   "conf": 0.59
+  },
+  {
+   "text": "iiik",
+   "conf": 0.05
+  },
+  {
+   "text": "Ui",
+   "conf": 0.27
+  },
+  {
+   "text": "iu",
+   "conf": 0.4
+  },
+  {
+   "text": "iit",
+   "conf": 0.37
+  },
+  {
+   "text": "Malt",
+   "conf": 0.0
+  },
+  {
+   "text": "ETE",
+   "conf": 0.0
+  },
+  {
+   "text": "ENE",
+   "conf": 0.0
+  },
+  {
+   "text": "*",
+   "conf": 0.48
+  },
+  {
+   "text": "—_",
+   "conf": 0.0
+  },
+  {
+   "text": "-",
+   "conf": 0.5
+  },
+  {
+   "text": "=e",
+   "conf": 0.0
+  },
+  {
+   "text": "as",
+   "conf": 0.31
+  },
+  {
+   "text": "he",
+   "conf": 0.36
+  },
+  {
+   "text": "»",
+   "conf": 0.0
+  },
+  {
+   "text": "-",
+   "conf": 0.0
+  },
+  {
+   "text": "*",
+   "conf": 0.48
+  },
+  {
+   "text": "<eetewerere",
+   "conf": 0.0
+  },
+  {
+   "text": "e",
+   "conf": 0.0
+  },
+  {
+   "text": "4",
+   "conf": 0.51
+  },
+  {
+   "text": "a.",
+   "conf": 0.0
+  },
+  {
+   "text": ":",
+   "conf": 0.0
+  },
+  {
+   "text": ":",
+   "conf": 0.33
+  },
+  {
+   "text": "90",
+   "conf": 0.15
+  },
+  {
+   "text": "pus",
+   "conf": 0.17
+  },
+  {
+   "text": "pee",
+   "conf": 0.51
+  },
+  {
+   "text": "60",
+   "conf": 0.17
+  },
+  {
+   "text": "weg",
+   "conf": 0.23
+  },
+  {
+   "text": "ee",
+   "conf": 0.28
+  },
+  {
+   "text": "F8R0",
+   "conf": 0.0
+  },
+  {
+   "text": "eh",
+   "conf": 0.22
+  },
+  {
+   "text": "Ae",
+   "conf": 0.16
+  },
+  {
+   "text": "rT",
+   "conf": 0.04
+  },
+  {
+   "text": "EE",
+   "conf": 0.04
+  },
+  {
+   "text": "beet",
+   "conf": 0.0
+  },
+  {
+   "text": "s¢",
+   "conf": 0.0
+  },
+  {
+   "text": "|",
+   "conf": 0.28
+  },
+  {
+   "text": "ames",
+   "conf": 0.31
+  },
+  {
+   "text": "—-",
+   "conf": 0.0
+  },
+  {
+   "text": "ier",
+   "conf": 0.32
+  },
+  {
+   "text": "a",
+   "conf": 0.22
+  },
+  {
+   "text": "geen",
+   "conf": 0.38
+  },
+  {
+   "text": "se",
+   "conf": 0.56
+  },
+  {
+   "text": "tr",
+   "conf": 0.2
+  },
+  {
+   "text": "MS",
+   "conf": 0.1
+  },
+  {
+   "text": ":",
+   "conf": 0.08
+  },
+  {
+   "text": "1",
+   "conf": 0.19
+  },
+  {
+   "text": ">",
+   "conf": 0.27
+  },
+  {
+   "text": "ss",
+   "conf": 0.19
+  },
+  {
+   "text": "ane",
+   "conf": 0.23
+  },
+  {
+   "text": "‘",
+   "conf": 0.31
+  },
+  {
+   "text": "i",
+   "conf": 0.4
+  },
+  {
+   "text": "ui",
+   "conf": 0.1
+  },
+  {
+   "text": "ES",
+   "conf": 0.49
+  },
+  {
+   "text": "age",
+   "conf": 0.38
+  },
+  {
+   "text": "wee",
+   "conf": 0.27
+  },
+  {
+   "text": "ey",
+   "conf": 0.16
+  },
+  {
+   "text": "ae",
+   "conf": 0.11
+  },
+  {
+   "text": "4g",
+   "conf": 0.0
+  },
+  {
+   "text": "iA",
+   "conf": 0.27
+  },
+  {
+   "text": "PLLC",
+   "conf": 0.58
+  },
+  {
+   "text": "£",
+   "conf": 0.47
+  },
+  {
+   "text": "A",
+   "conf": 0.47
+  },
+  {
+   "text": "fh)",
+   "conf": 0.39
+  },
+  {
+   "text": "A)",
+   "conf": 0.29
+  },
+  {
+   "text": "our",
+   "conf": 0.52
+  },
+  {
+   "text": "-—",
+   "conf": 0.43
+  },
+  {
+   "text": "=",
+   "conf": 0.82
+  },
+  {
+   "text": "—",
+   "conf": 0.26
+  },
+  {
+   "text": "wee",
+   "conf": 0.21
+  },
+  {
+   "text": "a",
+   "conf": 0.02
+  },
+  {
+   "text": "oheeeee",
+   "conf": 0.0
+  },
+  {
+   "text": "*",
+   "conf": 0.13
+  },
+  {
+   "text": "’",
+   "conf": 0.0
+  },
+  {
+   "text": ".",
+   "conf": 0.0
+  },
+  {
+   "text": ".",
+   "conf": 0.42
+  },
+  {
+   "text": "-",
+   "conf": 0.0
+  },
+  {
+   "text": "3",
+   "conf": 0.95
+  },
+  {
+   "text": "«",
+   "conf": 0.42
+  },
+  {
+   "text": ":",
+   "conf": 0.19
+  },
+  {
+   "text": "~",
+   "conf": 0.35
+  },
+  {
+   "text": "—",
+   "conf": 0.14
+  },
+  {
+   "text": "wens",
+   "conf": 0.1
+  },
+  {
+   "text": ".?",
+   "conf": 0.17
+  },
+  {
+   "text": ".",
+   "conf": 0.0
+  },
+  {
+   "text": "_~",
+   "conf": 0.0
+  },
+  {
+   "text": "aie",
+   "conf": 0.29
+  },
+  {
+   "text": "teeg",
+   "conf": 0.0
+  },
+  {
+   "text": "o",
+   "conf": 0.5
+  },
+  {
+   "text": "©",
+   "conf": 0.16
+  },
+  {
+   "text": "°",
+   "conf": 0.0
+  },
+  {
+   "text": "pe",
+   "conf": 0.43
+  },
+  {
+   "text": "é",
+   "conf": 0.61
+  },
+  {
+   "text": "tas",
+   "conf": 0.12
+  },
+  {
+   "text": "3",
+   "conf": 0.57
+  },
+  {
+   "text": "Fs",
+   "conf": 0.24
+  },
+  {
+   "text": "et",
+   "conf": 0.12
+  },
+  {
+   "text": "$5",
+   "conf": 0.4
+  },
+  {
+   "text": "‘me",
+   "conf": 0.26
+  },
+  {
+   "text": "ae",
+   "conf": 0.61
+  },
+  {
+   "text": "ee",
+   "conf": 0.26
+  },
+  {
+   "text": "5",
+   "conf": 0.84
+  },
+  {
+   "text": ",",
+   "conf": 0.0
+  },
+  {
+   "text": "Be",
+   "conf": 0.35
+  },
+  {
+   "text": "gets",
+   "conf": 0.28
+  },
+  {
+   "text": "=",
+   "conf": 0.28
+  },
+  {
+   "text": "page",
+   "conf": 0.0
+  },
+  {
+   "text": "=",
+   "conf": 0.12
+  },
+  {
+   "text": "ui",
+   "conf": 0.24
+  },
+  {
+   "text": "saan",
+   "conf": 0.0
+  },
+  {
+   "text": "Ne",
+   "conf": 0.11
+  },
+  {
+   "text": "pa",
+   "conf": 0.39
+  },
+  {
+   "text": "ae",
+   "conf": 0.29
+  },
+  {
+   "text": "aes",
+   "conf": 0.28
+  },
+  {
+   "text": "+",
+   "conf": 0.31
+  },
+  {
+   "text": "-",
+   "conf": 0.0
+  },
+  {
+   "text": ".",
+   "conf": 0.43
+  },
+  {
+   "text": "s",
+   "conf": 0.32
+  },
+  {
+   "text": ":",
+   "conf": 0.54
+  },
+  {
+   "text": "4",
+   "conf": 0.69
+  },
+  {
+   "text": "\"",
+   "conf": 0.47
+  },
+  {
+   "text": "”",
+   "conf": 0.0
+  },
+  {
+   "text": "ie",
+   "conf": 0.29
+  },
+  {
+   "text": "-",
+   "conf": 0.62
+  },
+  {
+   "text": "aed",
+   "conf": 0.29
+  },
+  {
+   "text": "me",
+   "conf": 0.29
+  },
+  {
+   "text": "Pett",
+   "conf": 0.0
+  },
+  {
+   "text": "tS",
+   "conf": 0.21
+  },
+  {
+   "text": "caste",
+   "conf": 0.15
+  },
+  {
+   "text": "oe",
+   "conf": 0.31
+  },
+  {
+   "text": "a",
+   "conf": 0.0
+  },
+  {
+   "text": "a",
+   "conf": 0.0
+  },
+  {
+   "text": "—",
+   "conf": 0.25
+  },
+  {
+   "text": "r",
+   "conf": 0.0
+  },
+  {
+   "text": "ail",
+   "conf": 0.19
+  },
+  {
+   "text": "oes",
+   "conf": 0.27
+  },
+  {
+   "text": ".",
+   "conf": 0.0
+  },
+  {
+   "text": ":",
+   "conf": 0.0
+  },
+  {
+   "text": "ond",
+   "conf": 0.32
+  },
+  {
+   "text": "‘",
+   "conf": 0.0
+  },
+  {
+   "text": "secu",
+   "conf": 0.1
+  },
+  {
+   "text": "-",
+   "conf": 0.39
+  },
+  {
+   "text": "*",
+   "conf": 0.14
+  },
+  {
+   "text": "900",
+   "conf": 0.39
+  },
+  {
+   "text": "_",
+   "conf": 0.0
+  },
+  {
+   "text": "oes",
+   "conf": 0.46
+  },
+  {
+   "text": "ame",
+   "conf": 0.4
+  },
+  {
+   "text": "4",
+   "conf": 0.63
+  },
+  {
+   "text": "sn",
+   "conf": 0.41
+  },
+  {
+   "text": "tate",
+   "conf": 0.22
+  },
+  {
+   "text": "or",
+   "conf": 0.35
+  },
+  {
+   "text": "“<=",
+   "conf": 0.03
+  },
+  {
+   "text": "7",
+   "conf": 0.08
+  },
+  {
+   "text": "Ng",
+   "conf": 0.51
+  },
+  {
+   "text": ")",
+   "conf": 0.0
+  },
+  {
+   "text": "yer",
+   "conf": 0.0
+  },
+  {
+   "text": "aes",
+   "conf": 0.04
+  },
+  {
+   "text": "~",
+   "conf": 0.22
+  },
+  {
+   "text": ">",
+   "conf": 0.58
+  },
+  {
+   "text": "-",
+   "conf": 0.28
+  },
+  {
+   "text": ":",
+   "conf": 0.0
+  },
+  {
+   "text": "«9",
+   "conf": 0.26
+  },
+  {
+   "text": "of",
+   "conf": 0.06
+  },
+  {
+   "text": "3",
+   "conf": 0.12
+  },
+  {
+   "text": "VAL",
+   "conf": 0.53
+  },
+  {
+   "text": "Wigs",
+   "conf": 0.0
+  },
+  {
+   "text": "Ain",
+   "conf": 0.0
+  },
+  {
+   "text": "iF",
+   "conf": 0.46
+  },
+  {
+   "text": "cha",
+   "conf": 0.55
+  },
+  {
+   "text": "AL",
+   "conf": 0.17
+  },
+  {
+   "text": ".",
+   "conf": 0.34
+  },
+  {
+   "text": "se",
+   "conf": 0.11
+  },
+  {
+   "text": "aging",
+   "conf": 0.1
+  },
+  {
+   "text": "i",
+   "conf": 0.53
+  },
+  {
+   "text": "o",
+   "conf": 0.0
+  },
+  {
+   "text": "5",
+   "conf": 0.59
+  },
+  {
+   "text": "pee",
+   "conf": 0.15
+  },
+  {
+   "text": "ore",
+   "conf": 0.08
+  },
+  {
+   "text": "one",
+   "conf": 0.49
+  },
+  {
+   "text": "7",
+   "conf": 0.0
+  },
+  {
+   "text": "dis",
+   "conf": 0.0
+  },
+  {
+   "text": "sal",
+   "conf": 0.06
+  },
+  {
+   "text": "j",
+   "conf": 0.18
+  },
+  {
+   "text": "bet",
+   "conf": 0.36
+  },
+  {
+   "text": "2",
+   "conf": 0.16
+  },
+  {
+   "text": "Poa",
+   "conf": 0.25
+  },
+  {
+   "text": "oem",
+   "conf": 0.17
+  },
+  {
+   "text": "eon",
+   "conf": 0.3
+  },
+  {
+   "text": "owes",
+   "conf": 0.03
+  },
+  {
+   "text": "=",
+   "conf": 0.33
+  },
+  {
+   "text": "tee",
+   "conf": 0.38
+  },
+  {
+   "text": "chee",
+   "conf": 0.25
+  },
+  {
+   "text": "me",
+   "conf": 0.14
+  },
+  {
+   "text": "teal",
+   "conf": 0.06
+  },
+  {
+   "text": "wemeere",
+   "conf": 0.0
+  },
+  {
+   "text": "4",
+   "conf": 0.77
+  },
+  {
+   "text": "a",
+   "conf": 0.52
+  },
+  {
+   "text": "te",
+   "conf": 0.11
+  },
+  {
+   "text": "Toe",
+   "conf": 0.12
+  },
+  {
+   "text": "ae",
+   "conf": 0.46
+  },
+  {
+   "text": "oie",
+   "conf": 0.1
+  },
+  {
+   "text": "a.",
+   "conf": 0.16
+  },
+  {
+   "text": "Sas",
+   "conf": 0.21
+  },
+  {
+   "text": "is",
+   "conf": 0.58
+  },
+  {
+   "text": "Ui",
+   "conf": 0.38
+  },
+  {
+   "text": ":",
+   "conf": 0.34
+  },
+  {
+   "text": "WALG",
+   "conf": 0.0
+  },
+  {
+   "text": "(ASL",
+   "conf": 0.18
+  },
+  {
+   "text": "Doel",
+   "conf": 0.12
+  },
+  {
+   "text": "ee",
+   "conf": 0.16
+  },
+  {
+   "text": "ee",
+   "conf": 0.26
+  },
+  {
+   "text": "pager",
+   "conf": 0.19
+  },
+  {
+   "text": "4",
+   "conf": 0.58
+  },
+  {
+   "text": "i",
+   "conf": 0.25
+  },
+  {
+   "text": "sme",
+   "conf": 0.25
+  },
+  {
+   "text": "=",
+   "conf": 0.23
+  },
+  {
+   "text": "#",
+   "conf": 0.17
+  },
+  {
+   "text": "Cee",
+   "conf": 0.17
+  },
+  {
+   "text": "ee",
+   "conf": 0.24
+  },
+  {
+   "text": "a",
+   "conf": 0.13
+  },
+  {
+   "text": "Taw",
+   "conf": 0.49
+  },
+  {
+   "text": "i",
+   "conf": 0.72
+  }
+ ],
+ "mean_conf": 0.245,
+ "low_conf_share": 0.8639,
+ "latency_ms": 3006,
+ "fields": {
+  "company": "EAL AL A",
+  "date": null,
+  "total": null
+ },
+ "rule_reasons": [
+  "date_not_found",
+  "total_not_found"
+ ],
+ "total_candidates": [],
+ "key": "W0112_72f71946b5fa"
+}

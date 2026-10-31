@@ -1,0 +1,386 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "KEDAIPAPANYEWCHUAN",
+  "(0005583085-K)",
+  "LOT276JALANBANTING",
+  "43800DENGKIL,SELANGOR.",
+  "TEL:03-87686092 FAX:03-87686092",
+  "GSTID:000781500416",
+  "TAXINVOICE",
+  "Bill To:",
+  "SUCIALAMJAYATRANSPORT",
+  "NO1JALANAMAN2",
+  "TAMANDESA43800",
+  "DENGKILSELANGOR",
+  "017-6057770",
+  "DocNo ：CS00013033 Date:23/05/2018",
+  "Cashier ：USER Time:15:28:00",
+  "Salesperson: Ref.:",
+  "(GST) (GST)",
+  "Item Qty S/Price S/Price Amount Tax",
+  "101870 1 65.00 68.90 68.90 SR",
+  "PASIR HALUS(D)",
+  "101756 5 16.50 17.49 87.45 SR",
+  "SIMEN",
+  "100160 2 3.00 3.18 6.36 SR",
+  "KAPURAIR(A1)",
+  "TotalQty: 8 162.71",
+  "Total Sales(Excluding GST): 153.50",
+  "Discount: 0.00",
+  "Total GST: 9.21",
+  "Rounding : 0.00",
+  "Total Sales(Inclusive of GsT): 162.71",
+  "CASH: 162.71",
+  "Change : 0.00",
+  "GST SUMMARY",
+  "Tax Code % Amt(RM) Tax(RM)",
+  "SR 6 153.50 9.21",
+  "Total: 153.50 9.21",
+  "GOODSSOLDARENOTRETURNABLE,THANKYOU.",
+  "**RE-PRINT**"
+ ],
+ "tokens": [
+  {
+   "text": "KEDAIPAPANYEWCHUAN",
+   "conf": 0.9862730436854892
+  },
+  {
+   "text": "(0005583085-K)",
+   "conf": 0.9828129283019474
+  },
+  {
+   "text": "LOT276JALANBANTING",
+   "conf": 0.9912707606951395
+  },
+  {
+   "text": "43800DENGKIL,SELANGOR.",
+   "conf": 0.9689402824098413
+  },
+  {
+   "text": "TEL:03-87686092",
+   "conf": 0.9895470142364502
+  },
+  {
+   "text": "FAX:03-87686092",
+   "conf": 0.9920188665390015
+  },
+  {
+   "text": "GSTID:000781500416",
+   "conf": 0.9886839720937941
+  },
+  {
+   "text": "TAXINVOICE",
+   "conf": 0.9871369540691376
+  },
+  {
+   "text": "Bill To:",
+   "conf": 0.919523224234581
+  },
+  {
+   "text": "SUCIALAMJAYATRANSPORT",
+   "conf": 0.9821297895340693
+  },
+  {
+   "text": "NO1JALANAMAN2",
+   "conf": 0.9928556359731234
+  },
+  {
+   "text": "TAMANDESA43800",
+   "conf": 0.9936411678791046
+  },
+  {
+   "text": "DENGKILSELANGOR",
+   "conf": 0.9927949627240499
+  },
+  {
+   "text": "017-6057770",
+   "conf": 0.9976844354109331
+  },
+  {
+   "text": "DocNo",
+   "conf": 0.9830465197563172
+  },
+  {
+   "text": "：CS00013033",
+   "conf": 0.9589845483953302
+  },
+  {
+   "text": "Date:23/05/2018",
+   "conf": 0.989642326037089
+  },
+  {
+   "text": "Cashier",
+   "conf": 0.9918997968946185
+  },
+  {
+   "text": "：USER",
+   "conf": 0.9350704908370971
+  },
+  {
+   "text": "Time:15:28:00",
+   "conf": 0.964398035636315
+  },
+  {
+   "text": "Salesperson:",
+   "conf": 0.9869740555683771
+  },
+  {
+   "text": "Ref.:",
+   "conf": 0.9607167363166809
+  },
+  {
+   "text": "(GST)",
+   "conf": 0.9770434856414795
+  },
+  {
+   "text": "(GST)",
+   "conf": 0.9791253924369812
+  },
+  {
+   "text": "Item",
+   "conf": 0.887816846370697
+  },
+  {
+   "text": "Qty",
+   "conf": 0.9650198022524515
+  },
+  {
+   "text": "S/Price",
+   "conf": 0.9325582044465202
+  },
+  {
+   "text": "S/Price",
+   "conf": 0.9569224630083356
+  },
+  {
+   "text": "Amount",
+   "conf": 0.9886984427769979
+  },
+  {
+   "text": "Tax",
+   "conf": 0.9915061990420023
+  },
+  {
+   "text": "101870",
+   "conf": 0.9982000490029653
+  },
+  {
+   "text": "1",
+   "conf": 0.9902651309967041
+  },
+  {
+   "text": "65.00",
+   "conf": 0.9991684317588806
+  },
+  {
+   "text": "68.90",
+   "conf": 0.9961122393608093
+  },
+  {
+   "text": "68.90",
+   "conf": 0.9967352747917175
+  },
+  {
+   "text": "SR",
+   "conf": 0.9917721748352051
+  },
+  {
+   "text": "PASIR HALUS(D)",
+   "conf": 0.9317384787968227
+  },
+  {
+   "text": "101756",
+   "conf": 0.9982402324676514
+  },
+  {
+   "text": "5",
+   "conf": 0.9915069937705994
+  },
+  {
+   "text": "16.50",
+   "conf": 0.9984471440315247
+  },
+  {
+   "text": "17.49",
+   "conf": 0.9972734689712525
+  },
+  {
+   "text": "87.45",
+   "conf": 0.9972874641418457
+  },
+  {
+   "text": "SR",
+   "conf": 0.9904745817184448
+  },
+  {
+   "text": "SIMEN",
+   "conf": 0.9899105310440064
+  },
+  {
+   "text": "100160",
+   "conf": 0.9982584814230601
+  },
+  {
+   "text": "2",
+   "conf": 0.998144268989563
+  },
+  {
+   "text": "3.00",
+   "conf": 0.9987264275550842
+  },
+  {
+   "text": "3.18",
+   "conf": 0.9973645508289337
+  },
+  {
+   "text": "6.36",
+   "conf": 0.9958577901124954
+  },
+  {
+   "text": "SR",
+   "conf": 0.9914034008979797
+  },
+  {
+   "text": "KAPURAIR(A1)",
+   "conf": 0.958764965335528
+  },
+  {
+   "text": "TotalQty:",
+   "conf": 0.9598221646414863
+  },
+  {
+   "text": "8",
+   "conf": 0.9984050393104553
+  },
+  {
+   "text": "162.71",
+   "conf": 0.9985288679599762
+  },
+  {
+   "text": "Total Sales(Excluding GST):",
+   "conf": 0.9325748969007421
+  },
+  {
+   "text": "153.50",
+   "conf": 0.9972620010375977
+  },
+  {
+   "text": "Discount:",
+   "conf": 0.9922060105535719
+  },
+  {
+   "text": "0.00",
+   "conf": 0.998096227645874
+  },
+  {
+   "text": "Total GST:",
+   "conf": 0.9073341310024261
+  },
+  {
+   "text": "9.21",
+   "conf": 0.9977035969495773
+  },
+  {
+   "text": "Rounding :",
+   "conf": 0.9558675706386566
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9975762814283371
+  },
+  {
+   "text": "Total Sales(Inclusive of GsT):",
+   "conf": 0.9266261041164399
+  },
+  {
+   "text": "162.71",
+   "conf": 0.9950927297274271
+  },
+  {
+   "text": "CASH:",
+   "conf": 0.9644906163215637
+  },
+  {
+   "text": "162.71",
+   "conf": 0.9976857999960581
+  },
+  {
+   "text": "Change :",
+   "conf": 0.9300703853368759
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9981810599565506
+  },
+  {
+   "text": "GST SUMMARY",
+   "conf": 0.9514852166175842
+  },
+  {
+   "text": "Tax Code",
+   "conf": 0.9431797713041306
+  },
+  {
+   "text": "%",
+   "conf": 0.9053931832313538
+  },
+  {
+   "text": "Amt(RM)",
+   "conf": 0.9447822059903827
+  },
+  {
+   "text": "Tax(RM)",
+   "conf": 0.9348130651882717
+  },
+  {
+   "text": "SR",
+   "conf": 0.9874095618724823
+  },
+  {
+   "text": "6",
+   "conf": 0.9913206696510315
+  },
+  {
+   "text": "153.50",
+   "conf": 0.9974764684836069
+  },
+  {
+   "text": "9.21",
+   "conf": 0.9987784177064896
+  },
+  {
+   "text": "Total:",
+   "conf": 0.9907171328862509
+  },
+  {
+   "text": "153.50",
+   "conf": 0.9985765914122263
+  },
+  {
+   "text": "9.21",
+   "conf": 0.9989854246377945
+  },
+  {
+   "text": "GOODSSOLDARENOTRETURNABLE,THANKYOU.",
+   "conf": 0.9512597492762974
+  },
+  {
+   "text": "**RE-PRINT**",
+   "conf": 0.9559553017218908
+  }
+ ],
+ "mean_conf": 0.977,
+ "low_conf_share": 0.0,
+ "latency_ms": 5171,
+ "fields": {
+  "company": "KEDAIPAPANYEWCHUAN",
+  "date": "2018-05-23",
+  "total": 162.71
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  162.71
+ ],
+ "key": "X51008142065"
+}

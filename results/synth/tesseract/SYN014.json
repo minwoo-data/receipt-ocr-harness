@@ -1,0 +1,208 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "GREENLEAF GROCER SDN BHD",
+  "12 JALAN TUN RAZAK, 50400 KUALA LUMPUR",
+  "TAX INVOICE",
+  "Date: 07/04/2024 Time: 13:42",
+  "3 x BALLPOINT PEN 3PK 17.70",
+  "3 x PANADOL 10S 20.40",
+  "SUBTOTAL 38.10",
+  "GST 6% 2.29",
+  "TOTAL 140.39",
+  "CASH 145.39",
+  "CHANGE 5.00",
+  "THANK YOU, PLEASE COME AGAIN"
+ ],
+ "tokens": [
+  {
+   "text": "GREENLEAF",
+   "conf": 0.91
+  },
+  {
+   "text": "GROCER",
+   "conf": 0.96
+  },
+  {
+   "text": "SDN",
+   "conf": 0.96
+  },
+  {
+   "text": "BHD",
+   "conf": 0.96
+  },
+  {
+   "text": "12",
+   "conf": 0.96
+  },
+  {
+   "text": "JALAN",
+   "conf": 0.96
+  },
+  {
+   "text": "TUN",
+   "conf": 0.93
+  },
+  {
+   "text": "RAZAK,",
+   "conf": 0.91
+  },
+  {
+   "text": "50400",
+   "conf": 0.96
+  },
+  {
+   "text": "KUALA",
+   "conf": 0.96
+  },
+  {
+   "text": "LUMPUR",
+   "conf": 0.96
+  },
+  {
+   "text": "TAX",
+   "conf": 0.94
+  },
+  {
+   "text": "INVOICE",
+   "conf": 0.94
+  },
+  {
+   "text": "Date:",
+   "conf": 0.96
+  },
+  {
+   "text": "07/04/2024",
+   "conf": 0.93
+  },
+  {
+   "text": "Time:",
+   "conf": 0.95
+  },
+  {
+   "text": "13:42",
+   "conf": 0.95
+  },
+  {
+   "text": "3",
+   "conf": 0.9
+  },
+  {
+   "text": "x",
+   "conf": 0.9
+  },
+  {
+   "text": "BALLPOINT",
+   "conf": 0.95
+  },
+  {
+   "text": "PEN",
+   "conf": 0.93
+  },
+  {
+   "text": "3PK",
+   "conf": 0.92
+  },
+  {
+   "text": "17.70",
+   "conf": 0.96
+  },
+  {
+   "text": "3",
+   "conf": 0.91
+  },
+  {
+   "text": "x",
+   "conf": 0.91
+  },
+  {
+   "text": "PANADOL",
+   "conf": 0.95
+  },
+  {
+   "text": "10S",
+   "conf": 0.95
+  },
+  {
+   "text": "20.40",
+   "conf": 0.96
+  },
+  {
+   "text": "SUBTOTAL",
+   "conf": 0.95
+  },
+  {
+   "text": "38.10",
+   "conf": 0.96
+  },
+  {
+   "text": "GST",
+   "conf": 0.96
+  },
+  {
+   "text": "6%",
+   "conf": 0.96
+  },
+  {
+   "text": "2.29",
+   "conf": 0.9
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.96
+  },
+  {
+   "text": "140.39",
+   "conf": 0.95
+  },
+  {
+   "text": "CASH",
+   "conf": 0.96
+  },
+  {
+   "text": "145.39",
+   "conf": 0.95
+  },
+  {
+   "text": "CHANGE",
+   "conf": 0.96
+  },
+  {
+   "text": "5.00",
+   "conf": 0.96
+  },
+  {
+   "text": "THANK",
+   "conf": 0.96
+  },
+  {
+   "text": "YOU,",
+   "conf": 0.96
+  },
+  {
+   "text": "PLEASE",
+   "conf": 0.96
+  },
+  {
+   "text": "COME",
+   "conf": 0.96
+  },
+  {
+   "text": "AGAIN",
+   "conf": 0.96
+  }
+ ],
+ "mean_conf": 0.9457,
+ "low_conf_share": 0.0,
+ "latency_ms": 1127,
+ "fields": {
+  "company": "GREENLEAF GROCER SDN BHD",
+  "date": "2024-04-07",
+  "total": 140.39
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  140.39
+ ],
+ "key": "SYN014"
+}

@@ -1,0 +1,161 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "BikerowaveCooperative lnc",
+  "12255VeniceBlvd",
+  "Los Angeles,90066",
+  "310.230.5236",
+  "SalesReceipt",
+  "3/21/20139:58PM",
+  "Ticket:220000024517",
+  "Register:Register1",
+  "Employee:Bikerowaver",
+  "Itein Price",
+  "Used Part $3.00T",
+  "Derailleur",
+  "Hour $7.00",
+  "Subtotal $10.00",
+  "Tax$3.00@9.000% $0.27",
+  "Total $10.27",
+  "Payments",
+  "Cash $11.00",
+  "Change $0.73",
+  "Thank You!",
+  "200000 245175"
+ ],
+ "tokens": [
+  {
+   "text": "BikerowaveCooperative lnc",
+   "conf": 0.9621406078338623
+  },
+  {
+   "text": "12255VeniceBlvd",
+   "conf": 0.9653329888979594
+  },
+  {
+   "text": "Los Angeles,90066",
+   "conf": 0.9305433911435744
+  },
+  {
+   "text": "310.230.5236",
+   "conf": 0.989952802658081
+  },
+  {
+   "text": "SalesReceipt",
+   "conf": 0.9845175842444102
+  },
+  {
+   "text": "3/21/20139:58PM",
+   "conf": 0.9550594727198283
+  },
+  {
+   "text": "Ticket:220000024517",
+   "conf": 0.9841968417167664
+  },
+  {
+   "text": "Register:Register1",
+   "conf": 0.9839539428551992
+  },
+  {
+   "text": "Employee:Bikerowaver",
+   "conf": 0.9758812367916108
+  },
+  {
+   "text": "Itein",
+   "conf": 0.8760368227958679
+  },
+  {
+   "text": "Price",
+   "conf": 0.9902067422866822
+  },
+  {
+   "text": "Used Part",
+   "conf": 0.9008030295372009
+  },
+  {
+   "text": "$3.00T",
+   "conf": 0.9774037102858225
+  },
+  {
+   "text": "Derailleur",
+   "conf": 0.9906944334506989
+  },
+  {
+   "text": "Hour",
+   "conf": 0.9948531687259674
+  },
+  {
+   "text": "$7.00",
+   "conf": 0.9967848896980286
+  },
+  {
+   "text": "Subtotal",
+   "conf": 0.98769960552454
+  },
+  {
+   "text": "$10.00",
+   "conf": 0.9964615007241567
+  },
+  {
+   "text": "Tax$3.00@9.000%",
+   "conf": 0.9803516268730164
+  },
+  {
+   "text": "$0.27",
+   "conf": 0.9596056818962098
+  },
+  {
+   "text": "Total",
+   "conf": 0.9864756226539612
+  },
+  {
+   "text": "$10.27",
+   "conf": 0.9968795677026113
+  },
+  {
+   "text": "Payments",
+   "conf": 0.9842107445001602
+  },
+  {
+   "text": "Cash",
+   "conf": 0.9944898635149002
+  },
+  {
+   "text": "$11.00",
+   "conf": 0.9977147579193115
+  },
+  {
+   "text": "Change",
+   "conf": 0.9927117029825846
+  },
+  {
+   "text": "$0.73",
+   "conf": 0.9571198105812073
+  },
+  {
+   "text": "Thank You!",
+   "conf": 0.955323052406311
+  },
+  {
+   "text": "200000",
+   "conf": 0.9824826816717783
+  },
+  {
+   "text": "245175",
+   "conf": 0.9973908066749573
+  }
+ ],
+ "mean_conf": 0.9742,
+ "low_conf_share": 0.0,
+ "latency_ms": 2119,
+ "fields": {
+  "company": "BIKEROWAVECOOPERATIVE LNC",
+  "date": "2013-03-21",
+  "total": 10.27
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  10.27
+ ],
+ "key": "W0155_2451ec436040"
+}

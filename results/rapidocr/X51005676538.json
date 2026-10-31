@@ -1,0 +1,363 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "t1010818",
+  "SYARIKAT PERNIAGAAN GIN KEE",
+  "(81109-A)",
+  "NO290,JALANAIRPANAS,",
+  "SETAPAK,",
+  "53200,KUALALUMPUR",
+  "TEL:03-40210276",
+  "GSTID:000750673920",
+  "SIMPLIFIEDTAXINVOICE",
+  "CASH",
+  "Doc No :CS00012543 Date:04/01/2018",
+  "Cashier :USER Time:15:39:00",
+  "Salesperson Ref.:",
+  "Item Qty S/Price Amount Tax",
+  "2402 1 3.71 3.71 SR",
+  "25MMGINIPPLE",
+  "1462 2 0.64 1.27 SR",
+  "SEALTAPE",
+  "1748 1 5.83 5.83 SR",
+  "32MMPOLYSOCKET",
+  "2247 1 33.92 33.92 SR",
+  "1\"BALLVALVE",
+  "Total Qty: 5 44.73",
+  "Total Sales(Excluding GST): 42.20",
+  "Discount: 0.00",
+  "Total GST : 2.53",
+  "Rounding : 0.00",
+  "Total Sales(Inclusive of GsT): 44.73",
+  "CASH : 44.73",
+  "Change : 0.00",
+  "GSTSUMMARY",
+  "Tax Code % Amt(RM) Tax(RM)",
+  "SR 6 42.20 2.53",
+  "Total: 42.20 2.53",
+  "GOODSSOLDARENOTRETURNABLE,THANKYOU."
+ ],
+ "tokens": [
+  {
+   "text": "t1010818",
+   "conf": 0.7325426321476698
+  },
+  {
+   "text": "SYARIKAT PERNIAGAAN GIN KEE",
+   "conf": 0.9347794055938721
+  },
+  {
+   "text": "(81109-A)",
+   "conf": 0.9976435568597581
+  },
+  {
+   "text": "NO290,JALANAIRPANAS,",
+   "conf": 0.9304808408021927
+  },
+  {
+   "text": "SETAPAK,",
+   "conf": 0.9411660581827164
+  },
+  {
+   "text": "53200,KUALALUMPUR",
+   "conf": 0.9560625693377327
+  },
+  {
+   "text": "TEL:03-40210276",
+   "conf": 0.9886056701342265
+  },
+  {
+   "text": "GSTID:000750673920",
+   "conf": 0.9788760940233866
+  },
+  {
+   "text": "SIMPLIFIEDTAXINVOICE",
+   "conf": 0.9889109671115875
+  },
+  {
+   "text": "CASH",
+   "conf": 0.9923173040151596
+  },
+  {
+   "text": "Doc No",
+   "conf": 0.9142874876658121
+  },
+  {
+   "text": ":CS00012543",
+   "conf": 0.9645693410526622
+  },
+  {
+   "text": "Date:04/01/2018",
+   "conf": 0.9948322097460429
+  },
+  {
+   "text": "Cashier",
+   "conf": 0.9963267615863255
+  },
+  {
+   "text": ":USER",
+   "conf": 0.9330217242240906
+  },
+  {
+   "text": "Time:15:39:00",
+   "conf": 0.9775342757885273
+  },
+  {
+   "text": "Salesperson",
+   "conf": 0.9975511973554437
+  },
+  {
+   "text": "Ref.:",
+   "conf": 0.988472843170166
+  },
+  {
+   "text": "Item",
+   "conf": 0.892774224281311
+  },
+  {
+   "text": "Qty",
+   "conf": 0.996720572312673
+  },
+  {
+   "text": "S/Price",
+   "conf": 0.9782638379505703
+  },
+  {
+   "text": "Amount",
+   "conf": 0.9967043499151865
+  },
+  {
+   "text": "Tax",
+   "conf": 0.9925195972124735
+  },
+  {
+   "text": "2402",
+   "conf": 0.9980219900608063
+  },
+  {
+   "text": "1",
+   "conf": 0.9950430393218994
+  },
+  {
+   "text": "3.71",
+   "conf": 0.9951500445604324
+  },
+  {
+   "text": "3.71",
+   "conf": 0.9964274168014526
+  },
+  {
+   "text": "SR",
+   "conf": 0.9940954446792603
+  },
+  {
+   "text": "25MMGINIPPLE",
+   "conf": 0.9743581314881643
+  },
+  {
+   "text": "1462",
+   "conf": 0.997491255402565
+  },
+  {
+   "text": "2",
+   "conf": 0.9987097978591919
+  },
+  {
+   "text": "0.64",
+   "conf": 0.9991917908191681
+  },
+  {
+   "text": "1.27",
+   "conf": 0.9989336878061295
+  },
+  {
+   "text": "SR",
+   "conf": 0.9912395477294922
+  },
+  {
+   "text": "SEALTAPE",
+   "conf": 0.988011471927166
+  },
+  {
+   "text": "1748",
+   "conf": 0.9986456483602524
+  },
+  {
+   "text": "1",
+   "conf": 0.9935613870620728
+  },
+  {
+   "text": "5.83",
+   "conf": 0.9993577003479004
+  },
+  {
+   "text": "5.83",
+   "conf": 0.9981328099966049
+  },
+  {
+   "text": "SR",
+   "conf": 0.9981366097927094
+  },
+  {
+   "text": "32MMPOLYSOCKET",
+   "conf": 0.9870109898703439
+  },
+  {
+   "text": "2247",
+   "conf": 0.9991575479507446
+  },
+  {
+   "text": "1",
+   "conf": 0.9921265840530396
+  },
+  {
+   "text": "33.92",
+   "conf": 0.9993914246559144
+  },
+  {
+   "text": "33.92",
+   "conf": 0.9994265913963318
+  },
+  {
+   "text": "SR",
+   "conf": 0.9945855438709259
+  },
+  {
+   "text": "1\"BALLVALVE",
+   "conf": 0.956879052248868
+  },
+  {
+   "text": "Total Qty:",
+   "conf": 0.9678218364715576
+  },
+  {
+   "text": "5",
+   "conf": 0.8937025666236877
+  },
+  {
+   "text": "44.73",
+   "conf": 0.9986962914466858
+  },
+  {
+   "text": "Total Sales(Excluding GST):",
+   "conf": 0.9672972096337212
+  },
+  {
+   "text": "42.20",
+   "conf": 0.9990653157234192
+  },
+  {
+   "text": "Discount:",
+   "conf": 0.9922024607658386
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9988062828779221
+  },
+  {
+   "text": "Total GST :",
+   "conf": 0.9266952113671736
+  },
+  {
+   "text": "2.53",
+   "conf": 0.9995836913585663
+  },
+  {
+   "text": "Rounding :",
+   "conf": 0.8505885779857636
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9985316544771194
+  },
+  {
+   "text": "Total Sales(Inclusive of GsT):",
+   "conf": 0.9098577678203583
+  },
+  {
+   "text": "44.73",
+   "conf": 0.9996548533439636
+  },
+  {
+   "text": "CASH :",
+   "conf": 0.9126140971978506
+  },
+  {
+   "text": "44.73",
+   "conf": 0.999616277217865
+  },
+  {
+   "text": "Change :",
+   "conf": 0.9536177664995193
+  },
+  {
+   "text": "0.00",
+   "conf": 0.999115064740181
+  },
+  {
+   "text": "GSTSUMMARY",
+   "conf": 0.9895331203937531
+  },
+  {
+   "text": "Tax Code",
+   "conf": 0.9756353124976158
+  },
+  {
+   "text": "%",
+   "conf": 0.9685025215148926
+  },
+  {
+   "text": "Amt(RM)",
+   "conf": 0.9852747576577323
+  },
+  {
+   "text": "Tax(RM)",
+   "conf": 0.9831191301345825
+  },
+  {
+   "text": "SR",
+   "conf": 0.9941953420639038
+  },
+  {
+   "text": "6",
+   "conf": 0.9963608384132385
+  },
+  {
+   "text": "42.20",
+   "conf": 0.9993908643722534
+  },
+  {
+   "text": "2.53",
+   "conf": 0.9528761953115463
+  },
+  {
+   "text": "Total:",
+   "conf": 0.9953285853068033
+  },
+  {
+   "text": "42.20",
+   "conf": 0.9995496034622192
+  },
+  {
+   "text": "2.53",
+   "conf": 0.9995364248752594
+  },
+  {
+   "text": "GOODSSOLDARENOTRETURNABLE,THANKYOU.",
+   "conf": 0.9735632760184152
+  }
+ ],
+ "mean_conf": 0.9752,
+ "low_conf_share": 0.0,
+ "latency_ms": 5365,
+ "fields": {
+  "company": "SYARIKAT PERNIAGAAN GIN KEE",
+  "date": "2018-01-04",
+  "total": 44.73
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  44.73
+ ],
+ "key": "X51005676538"
+}

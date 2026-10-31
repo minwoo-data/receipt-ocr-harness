@@ -60,10 +60,12 @@ def main() -> None:
     out_dir = ROOT / "results" / "retry" / args.engine
     out_dir.mkdir(parents=True, exist_ok=True)
 
+    years = sorted(int(m["gt"]["date"][:4]) for m in manifest.values() if m.get("gt", {}).get("date"))
+    era_today, era_min = (date(years[-1], 12, 31), years[0]) if years else (TODAY, None)
     flagged = []
     for key, rec in base.items():
         lines = ((rapid.get(key) or {}).get("lines") or []) + ((tess.get(key) or {}).get("lines") or [])
-        flags = verify.verify(rec, lines or None, today=TODAY)
+        flags = verify.verify(rec, lines or None, today=era_today, min_year=era_min)
         if flags:
             flagged.append((key, rec, flags, lines))
     if args.limit:
@@ -93,7 +95,7 @@ def main() -> None:
                 path.write_text(json.dumps(res, ensure_ascii=False, indent=1), encoding="utf-8")
             after = predicted_fields(res, day_first=df)
             after_ok = money_fields_ok(correct_fields(after, gt))
-            after_flags = [f.name for f in verify.verify(res, lines or None, today=TODAY)]
+            after_flags = [f.name for f in verify.verify(res, lines or None, today=era_today, min_year=era_min)]
             # Code picks the kept candidate: fewer flags wins; ties keep the original.
             kept_retry = len(after_flags) < len(flags)
             row[mode] = {"after_ok": after_ok, "after_flags": after_flags, "kept_retry": kept_retry,

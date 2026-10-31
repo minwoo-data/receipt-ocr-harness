@@ -1,0 +1,268 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "Level 2- Mall of Emirates",
+  "Product Quanity Price Subtotal",
+  "olong Tea + 5.00 5.00",
+  "Beef Chow Mein 1-33.00 33.00",
+  "Vegetable Chow Moin 1 29.00 29.00",
+  "Crispy Beet 4 45.00 45.00",
+  "slong Tea + 500 5.00",
+  "‘Amount qagD",
+  "otal (AEO)",
+  "Yessy) 447,00",
+  "<<< Payment method >>> i",
+  "Cash =",
+  "500.00",
+  "Change",
+  "See eset ED",
+  "ew",
+  "2:5iores Biling Receipt=—~"
+ ],
+ "tokens": [
+  {
+   "text": "Level",
+   "conf": 0.71
+  },
+  {
+   "text": "2-",
+   "conf": 0.54
+  },
+  {
+   "text": "Mall",
+   "conf": 0.95
+  },
+  {
+   "text": "of",
+   "conf": 0.96
+  },
+  {
+   "text": "Emirates",
+   "conf": 0.78
+  },
+  {
+   "text": "Product",
+   "conf": 0.94
+  },
+  {
+   "text": "Quanity",
+   "conf": 0.47
+  },
+  {
+   "text": "Price",
+   "conf": 0.33
+  },
+  {
+   "text": "Subtotal",
+   "conf": 0.33
+  },
+  {
+   "text": "olong",
+   "conf": 0.44
+  },
+  {
+   "text": "Tea",
+   "conf": 0.93
+  },
+  {
+   "text": "+",
+   "conf": 0.44
+  },
+  {
+   "text": "5.00",
+   "conf": 0.44
+  },
+  {
+   "text": "5.00",
+   "conf": 0.54
+  },
+  {
+   "text": "Beef",
+   "conf": 0.39
+  },
+  {
+   "text": "Chow",
+   "conf": 0.39
+  },
+  {
+   "text": "Mein",
+   "conf": 0.54
+  },
+  {
+   "text": "1-33.00",
+   "conf": 0.27
+  },
+  {
+   "text": "33.00",
+   "conf": 0.43
+  },
+  {
+   "text": "Vegetable",
+   "conf": 0.93
+  },
+  {
+   "text": "Chow",
+   "conf": 0.93
+  },
+  {
+   "text": "Moin",
+   "conf": 0.85
+  },
+  {
+   "text": "1",
+   "conf": 0.59
+  },
+  {
+   "text": "29.00",
+   "conf": 0.59
+  },
+  {
+   "text": "29.00",
+   "conf": 0.66
+  },
+  {
+   "text": "Crispy",
+   "conf": 0.37
+  },
+  {
+   "text": "Beet",
+   "conf": 0.41
+  },
+  {
+   "text": "4",
+   "conf": 0.63
+  },
+  {
+   "text": "45.00",
+   "conf": 0.63
+  },
+  {
+   "text": "45.00",
+   "conf": 0.58
+  },
+  {
+   "text": "slong",
+   "conf": 0.61
+  },
+  {
+   "text": "Tea",
+   "conf": 0.8
+  },
+  {
+   "text": "+",
+   "conf": 0.58
+  },
+  {
+   "text": "500",
+   "conf": 0.55
+  },
+  {
+   "text": "5.00",
+   "conf": 0.33
+  },
+  {
+   "text": "‘Amount",
+   "conf": 0.82
+  },
+  {
+   "text": "qagD",
+   "conf": 0.0
+  },
+  {
+   "text": "otal",
+   "conf": 0.64
+  },
+  {
+   "text": "(AEO)",
+   "conf": 0.86
+  },
+  {
+   "text": "Yessy)",
+   "conf": 0.11
+  },
+  {
+   "text": "447,00",
+   "conf": 0.69
+  },
+  {
+   "text": "<<<",
+   "conf": 0.81
+  },
+  {
+   "text": "Payment",
+   "conf": 0.84
+  },
+  {
+   "text": "method",
+   "conf": 0.67
+  },
+  {
+   "text": ">>>",
+   "conf": 0.0
+  },
+  {
+   "text": "i",
+   "conf": 0.31
+  },
+  {
+   "text": "Cash",
+   "conf": 0.74
+  },
+  {
+   "text": "=",
+   "conf": 0.64
+  },
+  {
+   "text": "500.00",
+   "conf": 0.01
+  },
+  {
+   "text": "Change",
+   "conf": 0.82
+  },
+  {
+   "text": "See",
+   "conf": 0.17
+  },
+  {
+   "text": "eset",
+   "conf": 0.0
+  },
+  {
+   "text": "ED",
+   "conf": 0.23
+  },
+  {
+   "text": "ew",
+   "conf": 0.32
+  },
+  {
+   "text": "2:5iores",
+   "conf": 0.0
+  },
+  {
+   "text": "Biling",
+   "conf": 0.89
+  },
+  {
+   "text": "Receipt=—~",
+   "conf": 0.51
+  }
+ ],
+ "mean_conf": 0.5428,
+ "low_conf_share": 0.4035,
+ "latency_ms": 359,
+ "fields": {
+  "company": "LEVEL 2 MALL OF EMIRATES",
+  "date": null,
+  "total": 500.0
+ },
+ "rule_reasons": [
+  "date_not_found",
+  "total_no_keyword_fallback_max"
+ ],
+ "total_candidates": [
+  500.0
+ ],
+ "key": "W0135_3f915c4fd0e6"
+}

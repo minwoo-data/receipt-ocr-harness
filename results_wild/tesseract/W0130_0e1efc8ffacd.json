@@ -1,0 +1,459 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "YOUR GUEST NUMBER 15",
+  "57 ;",
+  "TN-N-OUT BURGER GRANTS Page",
+  "328 3 1548 3267",
+  "ie ——",
+  "Check: 57",
+  "ee ———e",
+  "+ Onion",
+  "1 Cheesebrar 2.70",
+  "+ Onion",
+  "1 oe 3.85",
+  "x",
+  "ey 1.88",
+  "1 Med Soft Drink 1.60",
+  "1 Hot Cocoa 1.60",
+  "COUNTER-Eat In 14.00",
+  "No Tax",
+  "Amount Due $14.00",
+  "Tender Hastercard $14.00",
+  "ae $.00",
+  "One cane",
+  "SALE",
+  "Card Type: Mastercard",
+  "Account: setsxaeses914]9 ¢",
+  "Auth Code: 741507",
+  "Trans #; 3267",
+  "Auth Ref; 1042793329",
+  "AUTH AMT: — $14.00 1",
+  "Help us end Hunan Trafficking. F",
+  "To donate please visit",
+  "www. laveznothing.org",
+  "THANK YOU! r",
+  "Quest ions/Conments: Call 600-786-1000",
+  "7:28 PM",
+  "2018-01-03 13"
+ ],
+ "tokens": [
+  {
+   "text": "YOUR",
+   "conf": 0.93
+  },
+  {
+   "text": "GUEST",
+   "conf": 0.91
+  },
+  {
+   "text": "NUMBER",
+   "conf": 0.87
+  },
+  {
+   "text": "15",
+   "conf": 0.86
+  },
+  {
+   "text": "57",
+   "conf": 0.36
+  },
+  {
+   "text": ";",
+   "conf": 0.0
+  },
+  {
+   "text": "TN-N-OUT",
+   "conf": 0.42
+  },
+  {
+   "text": "BURGER",
+   "conf": 0.87
+  },
+  {
+   "text": "GRANTS",
+   "conf": 0.83
+  },
+  {
+   "text": "Page",
+   "conf": 0.72
+  },
+  {
+   "text": "328",
+   "conf": 0.64
+  },
+  {
+   "text": "3",
+   "conf": 0.46
+  },
+  {
+   "text": "1548",
+   "conf": 0.46
+  },
+  {
+   "text": "3267",
+   "conf": 0.72
+  },
+  {
+   "text": "ie",
+   "conf": 0.26
+  },
+  {
+   "text": "——",
+   "conf": 0.03
+  },
+  {
+   "text": "Check:",
+   "conf": 0.4
+  },
+  {
+   "text": "57",
+   "conf": 0.76
+  },
+  {
+   "text": "ee",
+   "conf": 0.03
+  },
+  {
+   "text": "———e",
+   "conf": 0.03
+  },
+  {
+   "text": "+",
+   "conf": 0.95
+  },
+  {
+   "text": "Onion",
+   "conf": 0.89
+  },
+  {
+   "text": "1",
+   "conf": 0.0
+  },
+  {
+   "text": "Cheesebrar",
+   "conf": 0.38
+  },
+  {
+   "text": "2.70",
+   "conf": 0.83
+  },
+  {
+   "text": "+",
+   "conf": 0.93
+  },
+  {
+   "text": "Onion",
+   "conf": 0.67
+  },
+  {
+   "text": "1",
+   "conf": 0.91
+  },
+  {
+   "text": "oe",
+   "conf": 0.34
+  },
+  {
+   "text": "3.85",
+   "conf": 0.76
+  },
+  {
+   "text": "x",
+   "conf": 0.14
+  },
+  {
+   "text": "ey",
+   "conf": 0.39
+  },
+  {
+   "text": "1.88",
+   "conf": 0.72
+  },
+  {
+   "text": "1",
+   "conf": 0.23
+  },
+  {
+   "text": "Med",
+   "conf": 0.72
+  },
+  {
+   "text": "Soft",
+   "conf": 0.74
+  },
+  {
+   "text": "Drink",
+   "conf": 0.74
+  },
+  {
+   "text": "1.60",
+   "conf": 0.77
+  },
+  {
+   "text": "1",
+   "conf": 0.47
+  },
+  {
+   "text": "Hot",
+   "conf": 0.75
+  },
+  {
+   "text": "Cocoa",
+   "conf": 0.91
+  },
+  {
+   "text": "1.60",
+   "conf": 0.62
+  },
+  {
+   "text": "COUNTER-Eat",
+   "conf": 0.88
+  },
+  {
+   "text": "In",
+   "conf": 0.95
+  },
+  {
+   "text": "14.00",
+   "conf": 0.89
+  },
+  {
+   "text": "No",
+   "conf": 0.94
+  },
+  {
+   "text": "Tax",
+   "conf": 0.94
+  },
+  {
+   "text": "Amount",
+   "conf": 0.59
+  },
+  {
+   "text": "Due",
+   "conf": 0.94
+  },
+  {
+   "text": "$14.00",
+   "conf": 0.29
+  },
+  {
+   "text": "Tender",
+   "conf": 0.86
+  },
+  {
+   "text": "Hastercard",
+   "conf": 0.61
+  },
+  {
+   "text": "$14.00",
+   "conf": 0.5
+  },
+  {
+   "text": "ae",
+   "conf": 0.39
+  },
+  {
+   "text": "$.00",
+   "conf": 0.81
+  },
+  {
+   "text": "One",
+   "conf": 0.17
+  },
+  {
+   "text": "cane",
+   "conf": 0.23
+  },
+  {
+   "text": "SALE",
+   "conf": 0.94
+  },
+  {
+   "text": "Card",
+   "conf": 0.92
+  },
+  {
+   "text": "Type:",
+   "conf": 0.9
+  },
+  {
+   "text": "Mastercard",
+   "conf": 0.9
+  },
+  {
+   "text": "Account:",
+   "conf": 0.29
+  },
+  {
+   "text": "setsxaeses914]9",
+   "conf": 0.0
+  },
+  {
+   "text": "¢",
+   "conf": 0.35
+  },
+  {
+   "text": "Auth",
+   "conf": 0.95
+  },
+  {
+   "text": "Code:",
+   "conf": 0.81
+  },
+  {
+   "text": "741507",
+   "conf": 0.81
+  },
+  {
+   "text": "Trans",
+   "conf": 0.89
+  },
+  {
+   "text": "#;",
+   "conf": 0.4
+  },
+  {
+   "text": "3267",
+   "conf": 0.62
+  },
+  {
+   "text": "Auth",
+   "conf": 0.96
+  },
+  {
+   "text": "Ref;",
+   "conf": 0.84
+  },
+  {
+   "text": "1042793329",
+   "conf": 0.5
+  },
+  {
+   "text": "AUTH",
+   "conf": 0.95
+  },
+  {
+   "text": "AMT:",
+   "conf": 0.58
+  },
+  {
+   "text": "—",
+   "conf": 0.47
+  },
+  {
+   "text": "$14.00",
+   "conf": 0.43
+  },
+  {
+   "text": "1",
+   "conf": 0.35
+  },
+  {
+   "text": "Help",
+   "conf": 0.45
+  },
+  {
+   "text": "us",
+   "conf": 0.45
+  },
+  {
+   "text": "end",
+   "conf": 0.95
+  },
+  {
+   "text": "Hunan",
+   "conf": 0.93
+  },
+  {
+   "text": "Trafficking.",
+   "conf": 0.77
+  },
+  {
+   "text": "F",
+   "conf": 0.0
+  },
+  {
+   "text": "To",
+   "conf": 0.96
+  },
+  {
+   "text": "donate",
+   "conf": 0.95
+  },
+  {
+   "text": "please",
+   "conf": 0.95
+  },
+  {
+   "text": "visit",
+   "conf": 0.91
+  },
+  {
+   "text": "www.",
+   "conf": 0.19
+  },
+  {
+   "text": "laveznothing.org",
+   "conf": 0.29
+  },
+  {
+   "text": "THANK",
+   "conf": 0.96
+  },
+  {
+   "text": "YOU!",
+   "conf": 0.94
+  },
+  {
+   "text": "r",
+   "conf": 0.0
+  },
+  {
+   "text": "Quest",
+   "conf": 0.9
+  },
+  {
+   "text": "ions/Conments:",
+   "conf": 0.2
+  },
+  {
+   "text": "Call",
+   "conf": 0.3
+  },
+  {
+   "text": "600-786-1000",
+   "conf": 0.73
+  },
+  {
+   "text": "7:28",
+   "conf": 0.9
+  },
+  {
+   "text": "PM",
+   "conf": 0.9
+  },
+  {
+   "text": "2018-01-03",
+   "conf": 0.73
+  },
+  {
+   "text": "13",
+   "conf": 0.5
+  }
+ ],
+ "mean_conf": 0.625,
+ "low_conf_share": 0.3564,
+ "latency_ms": 1453,
+ "fields": {
+  "company": "YOUR GUEST NUMBER 15",
+  "date": "2018-01-03",
+  "total": 14.0
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  14.0
+ ],
+ "key": "W0130_0e1efc8ffacd"
+}

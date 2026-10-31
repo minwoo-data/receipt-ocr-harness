@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.1-flash-lite",
+ "provider": "gemini",
+ "raw_text": "{\n  \"vendor\": \"NORTHSTAR HARDWARE ENTERPRISE\",\n  \"date\": \"2026-03-20\",\n  \"subtotal\": 161.7,\n  \"tax\": 9.7,\n  \"tip\": null,\n  \"discount\": -48.51,\n  \"total\": 171.4,\n  \"currency\": null,\n  \"confidence\": 0.95,\n  \"notes\": \"The receipt lists 'TOTAL SAVINGS' as 48.51, which is treated as a discount.\"\n}",
+ "data": {
+  "vendor": "NORTHSTAR HARDWARE ENTERPRISE",
+  "date": "2026-03-20",
+  "subtotal": 161.7,
+  "tax": 9.7,
+  "tip": null,
+  "discount": -48.51,
+  "total": 171.4,
+  "currency": null,
+  "confidence": 0.95,
+  "notes": "The receipt lists 'TOTAL SAVINGS' as 48.51, which is treated as a discount."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1457,
+  "output_tokens": 135,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.000567,
+ "latency_ms": 1592,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.1-flash-lite",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.1-flash-lite"
+ ],
+ "key": "SYN019"
+}

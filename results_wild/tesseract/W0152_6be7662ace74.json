@@ -1,0 +1,250 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "Dubai Airport Concourse B",
+  "Hudana Trading LLC",
+  "19 Maria T",
+  "Tbl 1/1 Chk 8946 t1",
+  "Station Jan21'14 05:33AM",
+  "Take Away",
+  "1 Pie Mx Choco 18.00",
+  "{ I-Cafe Creme 19.00",
+  "EUR_DIA 10.00",
+  "Cash-->AED 42,50 X",
+  "Sub Total 37.00",
+  "Total Amount 37.00",
+  "Change Due 5.50",
+  "THANK YOU",
+  "Visit PAUL at",
+  "Concourse 4, 8, & C"
+ ],
+ "tokens": [
+  {
+   "text": "Dubai",
+   "conf": 0.96
+  },
+  {
+   "text": "Airport",
+   "conf": 0.96
+  },
+  {
+   "text": "Concourse",
+   "conf": 0.93
+  },
+  {
+   "text": "B",
+   "conf": 0.92
+  },
+  {
+   "text": "Hudana",
+   "conf": 0.91
+  },
+  {
+   "text": "Trading",
+   "conf": 0.95
+  },
+  {
+   "text": "LLC",
+   "conf": 0.95
+  },
+  {
+   "text": "19",
+   "conf": 0.94
+  },
+  {
+   "text": "Maria",
+   "conf": 0.88
+  },
+  {
+   "text": "T",
+   "conf": 0.88
+  },
+  {
+   "text": "Tbl",
+   "conf": 0.59
+  },
+  {
+   "text": "1/1",
+   "conf": 0.95
+  },
+  {
+   "text": "Chk",
+   "conf": 0.96
+  },
+  {
+   "text": "8946",
+   "conf": 0.95
+  },
+  {
+   "text": "t1",
+   "conf": 0.73
+  },
+  {
+   "text": "Station",
+   "conf": 0.96
+  },
+  {
+   "text": "Jan21'14",
+   "conf": 0.55
+  },
+  {
+   "text": "05:33AM",
+   "conf": 0.5
+  },
+  {
+   "text": "Take",
+   "conf": 0.96
+  },
+  {
+   "text": "Away",
+   "conf": 0.96
+  },
+  {
+   "text": "1",
+   "conf": 0.86
+  },
+  {
+   "text": "Pie",
+   "conf": 0.96
+  },
+  {
+   "text": "Mx",
+   "conf": 0.36
+  },
+  {
+   "text": "Choco",
+   "conf": 0.96
+  },
+  {
+   "text": "18.00",
+   "conf": 0.87
+  },
+  {
+   "text": "{",
+   "conf": 0.27
+  },
+  {
+   "text": "I-Cafe",
+   "conf": 0.0
+  },
+  {
+   "text": "Creme",
+   "conf": 0.96
+  },
+  {
+   "text": "19.00",
+   "conf": 0.64
+  },
+  {
+   "text": "EUR_DIA",
+   "conf": 0.74
+  },
+  {
+   "text": "10.00",
+   "conf": 0.96
+  },
+  {
+   "text": "Cash-->AED",
+   "conf": 0.65
+  },
+  {
+   "text": "42,50",
+   "conf": 0.72
+  },
+  {
+   "text": "X",
+   "conf": 0.89
+  },
+  {
+   "text": "Sub",
+   "conf": 0.8
+  },
+  {
+   "text": "Total",
+   "conf": 0.8
+  },
+  {
+   "text": "37.00",
+   "conf": 0.88
+  },
+  {
+   "text": "Total",
+   "conf": 0.96
+  },
+  {
+   "text": "Amount",
+   "conf": 0.96
+  },
+  {
+   "text": "37.00",
+   "conf": 0.56
+  },
+  {
+   "text": "Change",
+   "conf": 0.96
+  },
+  {
+   "text": "Due",
+   "conf": 0.94
+  },
+  {
+   "text": "5.50",
+   "conf": 0.69
+  },
+  {
+   "text": "THANK",
+   "conf": 0.96
+  },
+  {
+   "text": "YOU",
+   "conf": 0.96
+  },
+  {
+   "text": "Visit",
+   "conf": 0.63
+  },
+  {
+   "text": "PAUL",
+   "conf": 0.96
+  },
+  {
+   "text": "at",
+   "conf": 0.96
+  },
+  {
+   "text": "Concourse",
+   "conf": 0.96
+  },
+  {
+   "text": "4,",
+   "conf": 0.85
+  },
+  {
+   "text": "8,",
+   "conf": 0.58
+  },
+  {
+   "text": "&",
+   "conf": 0.91
+  },
+  {
+   "text": "C",
+   "conf": 0.27
+  }
+ ],
+ "mean_conf": 0.8079,
+ "low_conf_share": 0.0755,
+ "latency_ms": 792,
+ "fields": {
+  "company": "DUBAI AIRPORT CONCOURSE B HUDANA TRADING LLC",
+  "date": null,
+  "total": 37.0
+ },
+ "rule_reasons": [
+  "date_not_found"
+ ],
+ "total_candidates": [
+  37.0
+ ],
+ "key": "W0152_6be7662ace74"
+}

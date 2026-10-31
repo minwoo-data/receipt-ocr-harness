@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.6-flash",
+ "provider": "gemini",
+ "raw_text": "{\"vendor\": \"Saizeriya\", \"date\": \"2014-11-21\", \"subtotal\": 13.8, \"tax\": 0.9, \"tip\": null, \"discount\": null, \"total\": 13.8, \"currency\": \"SGD\", \"confidence\": 0.98, \"notes\": \"Tax (GST 7%) is included in the total.\"}",
+ "data": {
+  "vendor": "Saizeriya",
+  "date": "2014-11-21",
+  "subtotal": 13.8,
+  "tax": 0.9,
+  "tip": null,
+  "discount": null,
+  "total": 13.8,
+  "currency": "SGD",
+  "confidence": 0.98,
+  "notes": "Tax (GST 7%) is included in the total."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1454,
+  "output_tokens": 92,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.001435,
+ "latency_ms": 1813,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.6-flash",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.6-flash"
+ ],
+ "key": "W0119_619818644ad5"
+}

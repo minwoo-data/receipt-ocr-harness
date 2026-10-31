@@ -1,0 +1,406 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "Ee",
+  "SWC ENTERPRISE SDN BHD",
+  "ay (1125830-V)",
+  "a fo. 5-7, Jalan Mahagoni 7/1, :",
+  "' Sekysen 4, Bandar Utama, 44300",
+  "Batang Kali, Selangor. 3",
+  "< Tel : 03-6057 1377 ;",
+  "TAX INVOICE |",
+  "{G87 ID No. : 002017808384}",
+  "06/01/2018 Cashier: 123",
+  "11:07:06 No 30100080332",
+  "Item/Desc. Qty Price Amt.",
+  "— B2OX30 BEG 1KG91X30)}",
+  "20X30 1K6 1 8.00 8.00",
+  "Total Qty : 1",
+  "TOTAL AMOUNT 8.00",
+  "CASH 10.00",
+  "CHANGE 2,004",
+  "G 86% Incleded In Totel 0.45",
+  "Thank You ! Please Come Again !",
+  "Goods Sold Only Exchangable",
+  "ee Within 3 Days ! iil"
+ ],
+ "tokens": [
+  {
+   "text": "Ee",
+   "conf": 0.36
+  },
+  {
+   "text": "SWC",
+   "conf": 0.95
+  },
+  {
+   "text": "ENTERPRISE",
+   "conf": 0.95
+  },
+  {
+   "text": "SDN",
+   "conf": 0.89
+  },
+  {
+   "text": "BHD",
+   "conf": 0.94
+  },
+  {
+   "text": "ay",
+   "conf": 0.0
+  },
+  {
+   "text": "(1125830-V)",
+   "conf": 0.79
+  },
+  {
+   "text": "a",
+   "conf": 0.28
+  },
+  {
+   "text": "fo.",
+   "conf": 0.61
+  },
+  {
+   "text": "5-7,",
+   "conf": 0.43
+  },
+  {
+   "text": "Jalan",
+   "conf": 0.91
+  },
+  {
+   "text": "Mahagoni",
+   "conf": 0.85
+  },
+  {
+   "text": "7/1,",
+   "conf": 0.96
+  },
+  {
+   "text": ":",
+   "conf": 0.0
+  },
+  {
+   "text": "'",
+   "conf": 0.0
+  },
+  {
+   "text": "Sekysen",
+   "conf": 0.71
+  },
+  {
+   "text": "4,",
+   "conf": 0.95
+  },
+  {
+   "text": "Bandar",
+   "conf": 0.96
+  },
+  {
+   "text": "Utama,",
+   "conf": 0.96
+  },
+  {
+   "text": "44300",
+   "conf": 0.96
+  },
+  {
+   "text": "Batang",
+   "conf": 0.91
+  },
+  {
+   "text": "Kali,",
+   "conf": 0.95
+  },
+  {
+   "text": "Selangor.",
+   "conf": 0.96
+  },
+  {
+   "text": "3",
+   "conf": 0.16
+  },
+  {
+   "text": "<",
+   "conf": 0.0
+  },
+  {
+   "text": "Tel",
+   "conf": 0.91
+  },
+  {
+   "text": ":",
+   "conf": 0.85
+  },
+  {
+   "text": "03-6057",
+   "conf": 0.87
+  },
+  {
+   "text": "1377",
+   "conf": 0.95
+  },
+  {
+   "text": ";",
+   "conf": 0.43
+  },
+  {
+   "text": "TAX",
+   "conf": 0.84
+  },
+  {
+   "text": "INVOICE",
+   "conf": 0.75
+  },
+  {
+   "text": "|",
+   "conf": 0.5
+  },
+  {
+   "text": "{G87",
+   "conf": 0.74
+  },
+  {
+   "text": "ID",
+   "conf": 0.92
+  },
+  {
+   "text": "No.",
+   "conf": 0.92
+  },
+  {
+   "text": ":",
+   "conf": 0.88
+  },
+  {
+   "text": "002017808384}",
+   "conf": 0.73
+  },
+  {
+   "text": "06/01/2018",
+   "conf": 0.94
+  },
+  {
+   "text": "Cashier:",
+   "conf": 0.94
+  },
+  {
+   "text": "123",
+   "conf": 0.96
+  },
+  {
+   "text": "11:07:06",
+   "conf": 0.8
+  },
+  {
+   "text": "No",
+   "conf": 0.0
+  },
+  {
+   "text": "30100080332",
+   "conf": 0.0
+  },
+  {
+   "text": "Item/Desc.",
+   "conf": 0.64
+  },
+  {
+   "text": "Qty",
+   "conf": 0.91
+  },
+  {
+   "text": "Price",
+   "conf": 0.91
+  },
+  {
+   "text": "Amt.",
+   "conf": 0.87
+  },
+  {
+   "text": "—",
+   "conf": 0.0
+  },
+  {
+   "text": "B2OX30",
+   "conf": 0.05
+  },
+  {
+   "text": "BEG",
+   "conf": 0.92
+  },
+  {
+   "text": "1KG91X30)}",
+   "conf": 0.61
+  },
+  {
+   "text": "20X30",
+   "conf": 0.88
+  },
+  {
+   "text": "1K6",
+   "conf": 0.66
+  },
+  {
+   "text": "1",
+   "conf": 0.94
+  },
+  {
+   "text": "8.00",
+   "conf": 0.6
+  },
+  {
+   "text": "8.00",
+   "conf": 0.95
+  },
+  {
+   "text": "Total",
+   "conf": 0.94
+  },
+  {
+   "text": "Qty",
+   "conf": 0.87
+  },
+  {
+   "text": ":",
+   "conf": 0.87
+  },
+  {
+   "text": "1",
+   "conf": 0.74
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.96
+  },
+  {
+   "text": "AMOUNT",
+   "conf": 0.95
+  },
+  {
+   "text": "8.00",
+   "conf": 0.91
+  },
+  {
+   "text": "CASH",
+   "conf": 0.92
+  },
+  {
+   "text": "10.00",
+   "conf": 0.91
+  },
+  {
+   "text": "CHANGE",
+   "conf": 0.96
+  },
+  {
+   "text": "2,004",
+   "conf": 0.33
+  },
+  {
+   "text": "G",
+   "conf": 0.91
+  },
+  {
+   "text": "86%",
+   "conf": 0.5
+  },
+  {
+   "text": "Incleded",
+   "conf": 0.06
+  },
+  {
+   "text": "In",
+   "conf": 0.88
+  },
+  {
+   "text": "Totel",
+   "conf": 0.84
+  },
+  {
+   "text": "0.45",
+   "conf": 0.91
+  },
+  {
+   "text": "Thank",
+   "conf": 0.44
+  },
+  {
+   "text": "You",
+   "conf": 0.9
+  },
+  {
+   "text": "!",
+   "conf": 0.85
+  },
+  {
+   "text": "Please",
+   "conf": 0.96
+  },
+  {
+   "text": "Come",
+   "conf": 0.95
+  },
+  {
+   "text": "Again",
+   "conf": 0.92
+  },
+  {
+   "text": "!",
+   "conf": 0.64
+  },
+  {
+   "text": "Goods",
+   "conf": 0.14
+  },
+  {
+   "text": "Sold",
+   "conf": 0.96
+  },
+  {
+   "text": "Only",
+   "conf": 0.81
+  },
+  {
+   "text": "Exchangable",
+   "conf": 0.92
+  },
+  {
+   "text": "ee",
+   "conf": 0.4
+  },
+  {
+   "text": "Within",
+   "conf": 0.96
+  },
+  {
+   "text": "3",
+   "conf": 0.95
+  },
+  {
+   "text": "Days",
+   "conf": 0.91
+  },
+  {
+   "text": "!",
+   "conf": 0.79
+  },
+  {
+   "text": "iil",
+   "conf": 0.65
+  }
+ ],
+ "mean_conf": 0.7244,
+ "low_conf_share": 0.1978,
+ "latency_ms": 2092,
+ "fields": {
+  "company": "SWC ENTERPRISE SDN BHD",
+  "date": "2018-01-06",
+  "total": 8.0
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  8.0
+ ],
+ "key": "X51005230659"
+}

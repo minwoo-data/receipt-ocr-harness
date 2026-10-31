@@ -1,0 +1,195 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "STAPLES",
+  "STAPLES365SAVINGS",
+  "Lok prices.Every iten.Every day.",
+  "He 110% Price Hatch Guarantee It.",
+  "345 Park Avenue South 26th Street",
+  "NeH York,NY10010",
+  "(212)683-3267",
+  "SALE 141949300317311",
+  "018107/24/0211:11",
+  "QTYSKU DUR PRICE",
+  "1 100 PACKSPINDLEC",
+  "037849927045 29.94",
+  "100 PACK SPINDLEC",
+  "037849927045 29.94",
+  "100 PACK SPINDLEC",
+  "037849927045 29.94",
+  "SUBTOTAL 89.82",
+  "Standard Tax 8.25x 7.41",
+  "101 $97.23",
+  "Cash 40.00",
+  "TOTAL 137.23",
+  "TOTALITEMS 3",
+  "Comcare and Save",
+  "with Staples-brandprccucts.",
+  "THANK YOU FCR SHOPPING AT STAPLES!"
+ ],
+ "tokens": [
+  {
+   "text": "STAPLES",
+   "conf": 0.9848851220948356
+  },
+  {
+   "text": "STAPLES365SAVINGS",
+   "conf": 0.9887915008208331
+  },
+  {
+   "text": "Lok prices.Every iten.Every day.",
+   "conf": 0.9407935217022896
+  },
+  {
+   "text": "He 110% Price Hatch Guarantee It.",
+   "conf": 0.9163057442867395
+  },
+  {
+   "text": "345 Park Avenue South 26th Street",
+   "conf": 0.9251534234393727
+  },
+  {
+   "text": "NeH York,NY10010",
+   "conf": 0.929515678435564
+  },
+  {
+   "text": "(212)683-3267",
+   "conf": 0.9334603823148288
+  },
+  {
+   "text": "SALE",
+   "conf": 0.9914149791002274
+  },
+  {
+   "text": "141949300317311",
+   "conf": 0.9957155267397563
+  },
+  {
+   "text": "018107/24/0211:11",
+   "conf": 0.9894857757231769
+  },
+  {
+   "text": "QTYSKU",
+   "conf": 0.975175658861796
+  },
+  {
+   "text": "DUR PRICE",
+   "conf": 0.9097192287445068
+  },
+  {
+   "text": "1",
+   "conf": 0.9893248677253723
+  },
+  {
+   "text": "100 PACKSPINDLEC",
+   "conf": 0.9649583697319031
+  },
+  {
+   "text": "037849927045",
+   "conf": 0.9891448815663656
+  },
+  {
+   "text": "29.94",
+   "conf": 0.9942136526107788
+  },
+  {
+   "text": "100 PACK SPINDLEC",
+   "conf": 0.926982185419868
+  },
+  {
+   "text": "037849927045",
+   "conf": 0.996708815296491
+  },
+  {
+   "text": "29.94",
+   "conf": 0.9966312646865845
+  },
+  {
+   "text": "100 PACK SPINDLEC",
+   "conf": 0.9242694342837614
+  },
+  {
+   "text": "037849927045",
+   "conf": 0.9969227115313212
+  },
+  {
+   "text": "29.94",
+   "conf": 0.996558403968811
+  },
+  {
+   "text": "SUBTOTAL",
+   "conf": 0.991332620382309
+  },
+  {
+   "text": "89.82",
+   "conf": 0.9959499120712281
+  },
+  {
+   "text": "Standard Tax 8.25x",
+   "conf": 0.9010738515191608
+  },
+  {
+   "text": "7.41",
+   "conf": 0.9885935038328171
+  },
+  {
+   "text": "101",
+   "conf": 0.8436340490976969
+  },
+  {
+   "text": "$97.23",
+   "conf": 0.9814490477244059
+  },
+  {
+   "text": "Cash",
+   "conf": 0.9852986335754395
+  },
+  {
+   "text": "40.00",
+   "conf": 0.9694681167602539
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.9933804750442505
+  },
+  {
+   "text": "137.23",
+   "conf": 0.9950652619202932
+  },
+  {
+   "text": "TOTALITEMS",
+   "conf": 0.970393979549408
+  },
+  {
+   "text": "3",
+   "conf": 0.9988756775856018
+  },
+  {
+   "text": "Comcare and Save",
+   "conf": 0.8768902570009232
+  },
+  {
+   "text": "with Staples-brandprccucts.",
+   "conf": 0.9420777195029788
+  },
+  {
+   "text": "THANK YOU FCR SHOPPING AT STAPLES!",
+   "conf": 0.923547823639477
+  }
+ ],
+ "mean_conf": 0.9625,
+ "low_conf_share": 0.0,
+ "latency_ms": 5079,
+ "fields": {
+  "company": "STAPLES",
+  "date": null,
+  "total": 137.23
+ },
+ "rule_reasons": [
+  "date_not_found"
+ ],
+ "total_candidates": [
+  137.23
+ ],
+ "key": "W0179_f3197cd8604f"
+}

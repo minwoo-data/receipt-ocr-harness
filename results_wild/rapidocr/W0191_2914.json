@@ -1,0 +1,188 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "PIZZA HUT",
+  "TESCO KAJANG",
+  "2 PIZZAHUT2 3*W@N*（”，)",
+  "Docket:146970 Cust. Count:2",
+  "27 Sep 09 20:20:58 TBLb4/ 1",
+  "HPM3 WH E 25.00",
+  "WHUNGER DONATION E 0.50",
+  "(no tax & sc)E",
+  "MD 2SOUP E",
+  "MD 4PARM BSTIX",
+  "MD 2GLS PEPSI",
+  "MD RP SUPER SUPE",
+  "CASH 30.25",
+  "Sub Total 25.50",
+  "Seruice Charge: 2.50",
+  "1.25",
+  "5%Gout Tax 29.25",
+  "Total: 30.25",
+  "Payment: 1.00",
+  "Change Due:",
+  "-4CL0SED27 Sep0921:17:40---",
+  "Thank You",
+  "Please Come Again",
+  "11 019-6000372"
+ ],
+ "tokens": [
+  {
+   "text": "PIZZA HUT",
+   "conf": 0.9934011499087015
+  },
+  {
+   "text": "TESCO KAJANG",
+   "conf": 0.9808120479186376
+  },
+  {
+   "text": "2 PIZZAHUT2",
+   "conf": 0.9732079451734369
+  },
+  {
+   "text": "3*W@N*（”，)",
+   "conf": 0.7567524284124374
+  },
+  {
+   "text": "Docket:146970",
+   "conf": 0.9847887891989487
+  },
+  {
+   "text": "Cust. Count:2",
+   "conf": 0.9732970366111169
+  },
+  {
+   "text": "27 Sep 09 20:20:58",
+   "conf": 0.9827561014228396
+  },
+  {
+   "text": "TBLb4/ 1",
+   "conf": 0.9548908472061157
+  },
+  {
+   "text": "HPM3 WH E",
+   "conf": 0.9173176752196418
+  },
+  {
+   "text": "25.00",
+   "conf": 0.9998369336128234
+  },
+  {
+   "text": "WHUNGER DONATION E",
+   "conf": 0.9733935230308108
+  },
+  {
+   "text": "0.50",
+   "conf": 0.9999041855335236
+  },
+  {
+   "text": "(no tax & sc)E",
+   "conf": 0.8872593641281128
+  },
+  {
+   "text": "MD 2SOUP",
+   "conf": 0.8988960683345795
+  },
+  {
+   "text": "E",
+   "conf": 0.9923674464225769
+  },
+  {
+   "text": "MD 4PARM BSTIX",
+   "conf": 0.9646174779960087
+  },
+  {
+   "text": "MD 2GLS PEPSI",
+   "conf": 0.9807786299632146
+  },
+  {
+   "text": "MD RP SUPER SUPE",
+   "conf": 0.9685005433857441
+  },
+  {
+   "text": "30.25",
+   "conf": 0.9997988820075989
+  },
+  {
+   "text": "CASH",
+   "conf": 0.9871685206890106
+  },
+  {
+   "text": "25.50",
+   "conf": 0.9999182224273682
+  },
+  {
+   "text": "Sub Total",
+   "conf": 0.9755086104075114
+  },
+  {
+   "text": "2.50",
+   "conf": 0.9998035430908203
+  },
+  {
+   "text": "Seruice Charge:",
+   "conf": 0.953752334912618
+  },
+  {
+   "text": "1.25",
+   "conf": 0.9997169673442841
+  },
+  {
+   "text": "5%Gout Tax",
+   "conf": 0.9477010548114777
+  },
+  {
+   "text": "29.25",
+   "conf": 0.9996245265007019
+  },
+  {
+   "text": "Total:",
+   "conf": 0.9866371850172678
+  },
+  {
+   "text": "30.25",
+   "conf": 0.9996158480644226
+  },
+  {
+   "text": "Payment:",
+   "conf": 0.986178033053875
+  },
+  {
+   "text": "1.00",
+   "conf": 0.9977473616600037
+  },
+  {
+   "text": "Change Due:",
+   "conf": 0.9303173856301741
+  },
+  {
+   "text": "-4CL0SED27 Sep0921:17:40---",
+   "conf": 0.9246597334190652
+  },
+  {
+   "text": "Thank You",
+   "conf": 0.9775481422742208
+  },
+  {
+   "text": "Please Come Again",
+   "conf": 0.9500505012624404
+  },
+  {
+   "text": "11 019-6000372",
+   "conf": 0.9326353796890804
+  }
+ ],
+ "mean_conf": 0.9648,
+ "low_conf_share": 0.0,
+ "latency_ms": 3193,
+ "fields": {
+  "company": "PIZZA HUT",
+  "date": "2009-09-27",
+  "total": 30.25
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  30.25
+ ],
+ "key": "W0191_2914"
+}

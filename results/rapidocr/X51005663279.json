@@ -1,0 +1,290 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "21071818",
+  "SYARIKAT PERNIAGAAN GIN KEE",
+  "(81109-A)",
+  "NO290,JALANAIRPANAS",
+  "SETAPAK,",
+  "53200,KUALALUMPUR",
+  "TEL:03-40210276",
+  "GSTID:000750673920",
+  "SIMPLIFIED TAXINVOICE",
+  "CASH",
+  "DocNo. CS00012441 Date.28/12/2017",
+  "Cashier :USER Time:11.58:00",
+  "Salesperson Ref.:",
+  "Item Qty S/Price Amount Tax",
+  "1971 1 148.40 148.40 SR",
+  "PASIRHALUS1LOAD(SMALL)",
+  "Total Qty: 1 148.40",
+  "Total Sales(ExcludingGST) 140.00",
+  "Discount: 0.00",
+  "TotalGST 8.40",
+  "Rounding 0.00",
+  "Total Sales (Inclusive of GsT) : 148.40",
+  "CASH : 148.40",
+  "Change : 0.00",
+  "GSTSUMMARY",
+  "Tax Code % Amt(RM) Tax(RM)",
+  "SR 6 140.00 8.40",
+  "Total: 140.00 8.40",
+  "04·8",
+  "GOODSSOLDARENOTRETURNABLETHANKYOU"
+ ],
+ "tokens": [
+  {
+   "text": "21071818",
+   "conf": 0.7343095745891333
+  },
+  {
+   "text": "SYARIKAT PERNIAGAAN GIN KEE",
+   "conf": 0.9365580170242874
+  },
+  {
+   "text": "(81109-A)",
+   "conf": 0.9870121346579658
+  },
+  {
+   "text": "NO290,JALANAIRPANAS",
+   "conf": 0.9503583374776339
+  },
+  {
+   "text": "SETAPAK,",
+   "conf": 0.9697962328791618
+  },
+  {
+   "text": "53200,KUALALUMPUR",
+   "conf": 0.9602402378531063
+  },
+  {
+   "text": "TEL:03-40210276",
+   "conf": 0.9883683602015177
+  },
+  {
+   "text": "GSTID:000750673920",
+   "conf": 0.973428401682112
+  },
+  {
+   "text": "SIMPLIFIED TAXINVOICE",
+   "conf": 0.9746312101682028
+  },
+  {
+   "text": "CASH",
+   "conf": 0.9935129880905151
+  },
+  {
+   "text": "DocNo.",
+   "conf": 0.9311595559120178
+  },
+  {
+   "text": "CS00012441",
+   "conf": 0.9964476585388183
+  },
+  {
+   "text": "Date.28/12/2017",
+   "conf": 0.9758689840634663
+  },
+  {
+   "text": "Cashier",
+   "conf": 0.99131521156856
+  },
+  {
+   "text": ":USER",
+   "conf": 0.9400027513504028
+  },
+  {
+   "text": "Time:11.58:00",
+   "conf": 0.9640454145578238
+  },
+  {
+   "text": "Salesperson",
+   "conf": 0.9942273064093157
+  },
+  {
+   "text": "Ref.:",
+   "conf": 0.9587379217147827
+  },
+  {
+   "text": "Item",
+   "conf": 0.9488093852996826
+  },
+  {
+   "text": "Qty",
+   "conf": 0.9965246319770813
+  },
+  {
+   "text": "S/Price",
+   "conf": 0.9912764600345066
+  },
+  {
+   "text": "Amount",
+   "conf": 0.9939386447270712
+  },
+  {
+   "text": "Tax",
+   "conf": 0.991135040918986
+  },
+  {
+   "text": "1971",
+   "conf": 0.9978575110435486
+  },
+  {
+   "text": "1",
+   "conf": 0.996516227722168
+  },
+  {
+   "text": "148.40",
+   "conf": 0.9982364078362783
+  },
+  {
+   "text": "148.40",
+   "conf": 0.9971996545791626
+  },
+  {
+   "text": "SR",
+   "conf": 0.9933839738368988
+  },
+  {
+   "text": "PASIRHALUS1LOAD(SMALL)",
+   "conf": 0.9667589935389432
+  },
+  {
+   "text": "Total Qty:",
+   "conf": 0.9741023659706116
+  },
+  {
+   "text": "1",
+   "conf": 0.9869597554206848
+  },
+  {
+   "text": "148.40",
+   "conf": 0.9986061155796051
+  },
+  {
+   "text": "Total Sales(ExcludingGST)",
+   "conf": 0.9646039199829102
+  },
+  {
+   "text": "140.00",
+   "conf": 0.9989208976427714
+  },
+  {
+   "text": "Discount:",
+   "conf": 0.9794773923026191
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9994187504053116
+  },
+  {
+   "text": "TotalGST",
+   "conf": 0.9651674777269363
+  },
+  {
+   "text": "8.40",
+   "conf": 0.9989306628704071
+  },
+  {
+   "text": "Rounding",
+   "conf": 0.9993735402822495
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9988310635089874
+  },
+  {
+   "text": "Total Sales (Inclusive of GsT) :",
+   "conf": 0.9226118884980679
+  },
+  {
+   "text": "148.40",
+   "conf": 0.9989645481109619
+  },
+  {
+   "text": "CASH :",
+   "conf": 0.9428100983301798
+  },
+  {
+   "text": "148.40",
+   "conf": 0.998751312494278
+  },
+  {
+   "text": "Change :",
+   "conf": 0.9574856534600258
+  },
+  {
+   "text": "0.00",
+   "conf": 0.999005451798439
+  },
+  {
+   "text": "GSTSUMMARY",
+   "conf": 0.9863688945770264
+  },
+  {
+   "text": "Tax Code",
+   "conf": 0.9486127942800522
+  },
+  {
+   "text": "%",
+   "conf": 0.9876874089241028
+  },
+  {
+   "text": "Amt(RM)",
+   "conf": 0.9754509159496852
+  },
+  {
+   "text": "Tax(RM)",
+   "conf": 0.9603477460997445
+  },
+  {
+   "text": "SR",
+   "conf": 0.9976449012756348
+  },
+  {
+   "text": "6",
+   "conf": 0.9899103045463562
+  },
+  {
+   "text": "140.00",
+   "conf": 0.9983283877372742
+  },
+  {
+   "text": "8.40",
+   "conf": 0.9979239851236343
+  },
+  {
+   "text": "Total:",
+   "conf": 0.9883301357428232
+  },
+  {
+   "text": "140.00",
+   "conf": 0.9248537023862203
+  },
+  {
+   "text": "8.40",
+   "conf": 0.9994504749774933
+  },
+  {
+   "text": "04·8",
+   "conf": 0.5862041562795639
+  },
+  {
+   "text": "GOODSSOLDARENOTRETURNABLETHANKYOU",
+   "conf": 0.989096381447532
+  }
+ ],
+ "mean_conf": 0.9684,
+ "low_conf_share": 0.0,
+ "latency_ms": 5191,
+ "fields": {
+  "company": "SYARIKAT PERNIAGAAN GIN KEE",
+  "date": "2017-12-28",
+  "total": 148.4
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  148.4
+ ],
+ "key": "X51005663279"
+}

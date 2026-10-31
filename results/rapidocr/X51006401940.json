@@ -1,0 +1,267 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "ARTRANGE STATIONERS & PRINT SDN BHD",
+  "(1122327-U)",
+  "44JALANSS21/58DAMANSARAUTAMA",
+  "47400PETALINGiJAYA",
+  "TEL:03-77271129 FAX:03-77278929",
+  "GSTID:001725239296",
+  "TAXINVOICE",
+  "CASH",
+  "Receipt#: CS00058574 Date:10/04/2017",
+  "Cashier USER Time.15:23:00",
+  "Salesperson: Ref..",
+  "ltem Qry SIPrice Amount Tax",
+  "3474370026019 2 7.70 15.40 SR",
+  "PENTELCORRECTIONPEN1EMLZLC1-W",
+  "TOTQTY. 2 15.40",
+  "Total Sales(ExcludingGsT: 14.53",
+  "Discoun 000",
+  "TotalGST 0.87",
+  "Rounding 0.00",
+  "TotalSales(InclusiveofGST) 15.40",
+  "CASH 50.00",
+  "34.60",
+  "GSTSUMMARY",
+  "TaxCode % AmI(RIM) Tax(RM)",
+  "SR 6 14.53 0.87",
+  "Total: 14.53 0.87",
+  "GOODSSOLDARENOTRETURNABLE,THANKYOU."
+ ],
+ "tokens": [
+  {
+   "text": "ARTRANGE STATIONERS & PRINT SDN BHD",
+   "conf": 0.9545807838439941
+  },
+  {
+   "text": "(1122327-U)",
+   "conf": 0.990567602894523
+  },
+  {
+   "text": "44JALANSS21/58DAMANSARAUTAMA",
+   "conf": 0.9557342433503696
+  },
+  {
+   "text": "47400PETALINGiJAYA",
+   "conf": 0.9498923818270365
+  },
+  {
+   "text": "TEL:03-77271129",
+   "conf": 0.9877947688102722
+  },
+  {
+   "text": "FAX:03-77278929",
+   "conf": 0.9793639659881592
+  },
+  {
+   "text": "GSTID:001725239296",
+   "conf": 0.9885415203041501
+  },
+  {
+   "text": "TAXINVOICE",
+   "conf": 0.9921269953250885
+  },
+  {
+   "text": "CASH",
+   "conf": 0.9963506758213043
+  },
+  {
+   "text": "Receipt#: CS00058574",
+   "conf": 0.9551917791366578
+  },
+  {
+   "text": "Date:10/04/2017",
+   "conf": 0.9899385611216227
+  },
+  {
+   "text": "Cashier USER",
+   "conf": 0.984964390595754
+  },
+  {
+   "text": "Time.15:23:00",
+   "conf": 0.9635811310548049
+  },
+  {
+   "text": "Salesperson:",
+   "conf": 0.9891656935214996
+  },
+  {
+   "text": "Ref..",
+   "conf": 0.9677201271057129
+  },
+  {
+   "text": "ltem",
+   "conf": 0.8108654767274857
+  },
+  {
+   "text": "Qry",
+   "conf": 0.7801406979560852
+  },
+  {
+   "text": "SIPrice",
+   "conf": 0.9491140927587237
+  },
+  {
+   "text": "Amount",
+   "conf": 0.9948313037554423
+  },
+  {
+   "text": "Tax",
+   "conf": 0.9912816286087036
+  },
+  {
+   "text": "3474370026019",
+   "conf": 0.9982176056275001
+  },
+  {
+   "text": "2",
+   "conf": 0.9985731840133667
+  },
+  {
+   "text": "7.70",
+   "conf": 0.9945031106472015
+  },
+  {
+   "text": "15.40",
+   "conf": 0.991558825969696
+  },
+  {
+   "text": "SR",
+   "conf": 0.9947703778743744
+  },
+  {
+   "text": "PENTELCORRECTIONPEN1EMLZLC1-W",
+   "conf": 0.9749760278340044
+  },
+  {
+   "text": "TOTQTY.",
+   "conf": 0.888145216873714
+  },
+  {
+   "text": "2",
+   "conf": 0.9946908354759216
+  },
+  {
+   "text": "15.40",
+   "conf": 0.9977271676063537
+  },
+  {
+   "text": "Total Sales(ExcludingGsT:",
+   "conf": 0.9388245153427124
+  },
+  {
+   "text": "14.53",
+   "conf": 0.9947502970695495
+  },
+  {
+   "text": "Discoun",
+   "conf": 0.9933887379510062
+  },
+  {
+   "text": "000",
+   "conf": 0.9716543356577555
+  },
+  {
+   "text": "TotalGST",
+   "conf": 0.9434210360050201
+  },
+  {
+   "text": "0.87",
+   "conf": 0.9956721365451813
+  },
+  {
+   "text": "Rounding",
+   "conf": 0.9638781026005745
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9984598308801651
+  },
+  {
+   "text": "TotalSales(InclusiveofGST)",
+   "conf": 0.9472146401038537
+  },
+  {
+   "text": "15.40",
+   "conf": 0.9993510603904724
+  },
+  {
+   "text": "CASH",
+   "conf": 0.993761345744133
+  },
+  {
+   "text": "50.00",
+   "conf": 0.9903921127319336
+  },
+  {
+   "text": "34.60",
+   "conf": 0.9986950397491455
+  },
+  {
+   "text": "GSTSUMMARY",
+   "conf": 0.9832967162132263
+  },
+  {
+   "text": "TaxCode",
+   "conf": 0.9919028197016034
+  },
+  {
+   "text": "%",
+   "conf": 0.9940419793128967
+  },
+  {
+   "text": "AmI(RIM)",
+   "conf": 0.870622456073761
+  },
+  {
+   "text": "Tax(RM)",
+   "conf": 0.964612432888576
+  },
+  {
+   "text": "SR",
+   "conf": 0.9939259886741638
+  },
+  {
+   "text": "6",
+   "conf": 0.9979243278503418
+  },
+  {
+   "text": "14.53",
+   "conf": 0.995762848854065
+  },
+  {
+   "text": "0.87",
+   "conf": 0.9974638521671295
+  },
+  {
+   "text": "Total:",
+   "conf": 0.9921869138876597
+  },
+  {
+   "text": "14.53",
+   "conf": 0.9988733887672424
+  },
+  {
+   "text": "0.87",
+   "conf": 0.9997179955244064
+  },
+  {
+   "text": "GOODSSOLDARENOTRETURNABLE,THANKYOU.",
+   "conf": 0.9614087556089673
+  }
+ ],
+ "mean_conf": 0.9723,
+ "low_conf_share": 0.0,
+ "latency_ms": 4646,
+ "fields": {
+  "company": "ARTRANGE STATIONERS PRINT SDN BHD",
+  "date": "2017-04-10",
+  "total": 15.4
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  15.4
+ ],
+ "key": "X51006401940"
+}

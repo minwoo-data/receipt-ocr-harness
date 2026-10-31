@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.1-flash-lite",
+ "provider": "gemini",
+ "raw_text": "{\n  \"vendor\": \"Union\",\n  \"date\": \"2017-07-29\",\n  \"subtotal\": 261000,\n  \"tax\": 28710,\n  \"tip\": null,\n  \"discount\": -29000,\n  \"total\": 315810,\n  \"currency\": \"IDR\",\n  \"confidence\": 0.98,\n  \"notes\": \"Service charge of 26100 is listed separately from tax.\"\n}",
+ "data": {
+  "vendor": "Union",
+  "date": "2017-07-29",
+  "subtotal": 261000,
+  "tax": 28710,
+  "tip": null,
+  "discount": -29000,
+  "total": 315810,
+  "currency": "IDR",
+  "confidence": 0.98,
+  "notes": "Service charge of 26100 is listed separately from tax."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1449,
+  "output_tokens": 127,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.000553,
+ "latency_ms": 2020,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.1-flash-lite",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.1-flash-lite"
+ ],
+ "key": "W0141_c9d358a54cc4"
+}

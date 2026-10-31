@@ -1,0 +1,213 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "BALENCIAGA",
+  "St Honore",
+  "336.rue St Honore",
+  "Tel+33176773700 Paris_75001",
+  "Ticket:17431Date:16/9/1717:19:55",
+  "ClientFABIEN GONIS Caiss1er:310030",
+  "ID client：80310002007046",
+  "Article 807831504 NEN'SSH0ES483502U05G0-1000-46E Qte 495.00 Prix Montant EUR 495.00",
+  "Uendeur 310999 (Tenporary Staff)",
+  "Sous-tota! 412.50",
+  "TUA",
+  "TIC(EUR) 495.00",
+  "Uisa 495,00",
+  "Solde 00'0",
+  "Nonbre darticle=1",
+  "DetailTUA",
+  "LOCAL 412.50 HT 20% 495,00 TIC TUA",
+  "Les EchanesouAvoir sont possibles dns les30 jours Sur presantstion du justificati7dochat orinal",
+  "et deIarticle dans son etat dorigine.",
+  "Exchangeor Store Credit only.",
+  "uenretureduithin30days.1nrgincbndition andaccoapaniadby theoriuinai selesreceipt."
+ ],
+ "tokens": [
+  {
+   "text": "BALENCIAGA",
+   "conf": 0.9889712274074555
+  },
+  {
+   "text": "336.rue St Honore",
+   "conf": 0.8832586442722994
+  },
+  {
+   "text": "St Honore",
+   "conf": 0.9067189229859246
+  },
+  {
+   "text": "Tel+33176773700",
+   "conf": 0.9466967701911926
+  },
+  {
+   "text": "Paris_75001",
+   "conf": 0.9426118081266229
+  },
+  {
+   "text": "Ticket:17431Date:16/9/1717:19:55",
+   "conf": 0.9440340138971806
+  },
+  {
+   "text": "ClientFABIEN GONIS",
+   "conf": 0.8829425275325775
+  },
+  {
+   "text": "Caiss1er:310030",
+   "conf": 0.89802325963974
+  },
+  {
+   "text": "ID client：80310002007046",
+   "conf": 0.882087924828132
+  },
+  {
+   "text": "Article",
+   "conf": 0.966899071420942
+  },
+  {
+   "text": "Qte",
+   "conf": 0.9300872683525085
+  },
+  {
+   "text": "Prix",
+   "conf": 0.8812076896429062
+  },
+  {
+   "text": "807831504",
+   "conf": 0.9912108249134488
+  },
+  {
+   "text": "Montant EUR",
+   "conf": 0.9043940983035348
+  },
+  {
+   "text": "NEN'SSH0ES483502U05G0-1000-46E",
+   "conf": 0.9049128909905751
+  },
+  {
+   "text": "495.00",
+   "conf": 0.9373934964338938
+  },
+  {
+   "text": "495.00",
+   "conf": 0.9136465887228647
+  },
+  {
+   "text": "Uendeur 310999 (Tenporary Staff)",
+   "conf": 0.9229141119867563
+  },
+  {
+   "text": "Sous-tota!",
+   "conf": 0.8904208958148956
+  },
+  {
+   "text": "412.50",
+   "conf": 0.927994559208552
+  },
+  {
+   "text": "TUA",
+   "conf": 0.9287351965904236
+  },
+  {
+   "text": "TIC(EUR)",
+   "conf": 0.8625477850437164
+  },
+  {
+   "text": "495.00",
+   "conf": 0.9861165185769399
+  },
+  {
+   "text": "Uisa",
+   "conf": 0.923447772860527
+  },
+  {
+   "text": "495,00",
+   "conf": 0.929872085650762
+  },
+  {
+   "text": "Solde",
+   "conf": 0.8968116998672485
+  },
+  {
+   "text": "00'0",
+   "conf": 0.8134189397096634
+  },
+  {
+   "text": "Nonbre darticle=1",
+   "conf": 0.9163678288459778
+  },
+  {
+   "text": "DetailTUA",
+   "conf": 0.8889598515298631
+  },
+  {
+   "text": "HT",
+   "conf": 0.7431663274765015
+  },
+  {
+   "text": "LOCAL",
+   "conf": 0.9807258486747742
+  },
+  {
+   "text": "412.50",
+   "conf": 0.9695326884587606
+  },
+  {
+   "text": "20%",
+   "conf": 0.8081853091716766
+  },
+  {
+   "text": "495,00",
+   "conf": 0.9368902047475179
+  },
+  {
+   "text": "TIC",
+   "conf": 0.7197505036989847
+  },
+  {
+   "text": "TUA",
+   "conf": 0.9329744180043539
+  },
+  {
+   "text": "Les EchanesouAvoir sont possibles dns les30 jours",
+   "conf": 0.8334669823549232
+  },
+  {
+   "text": "Sur presantstion du justificati7dochat orinal",
+   "conf": 0.8290511641237471
+  },
+  {
+   "text": "et deIarticle dans son etat dorigine.",
+   "conf": 0.8469449740809363
+  },
+  {
+   "text": "Exchangeor Store Credit only.",
+   "conf": 0.8398862974397068
+  },
+  {
+   "text": "uenretureduithin30days.1nrgincbndition",
+   "conf": 0.7344126897422891
+  },
+  {
+   "text": "andaccoapaniadby theoriuinai selesreceipt.",
+   "conf": 0.8317972925447282
+  }
+ ],
+ "mean_conf": 0.8952,
+ "low_conf_share": 0.0,
+ "latency_ms": 3703,
+ "fields": {
+  "company": "BALENCIAGA",
+  "date": null,
+  "total": 495.0
+ },
+ "rule_reasons": [
+  "date_not_found",
+  "total_no_keyword_fallback_max"
+ ],
+ "total_candidates": [
+  495.0,
+  412.5
+ ],
+ "key": "W0105_3925c8adb2cf"
+}

@@ -1,0 +1,179 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "GerbangAlafRestaurantsSdnBhd",
+  "(65351-M)",
+  "Licensee of McDonald's",
+  "Leve1°6,Bangunan TH,Damansara Uptown3",
+  "No.3,Ja1anSS21/39,47400Peta1ingJaya",
+  "Selangor",
+  "（GSTID No:000504664064)",
+  "McDona1d'sRawang DT（#188)",
+  "Te1No.03-6092-1968",
+  "TAX INVOICE",
+  "MFY Side1",
+  "INV#001881904580783",
+  "ORD#70-REG#19-18/03/201823:02:16",
+  "QTY ITEM TOTAL",
+  "1LMcChicken 11.10",
+  "1LCoke",
+  "1LFries",
+  "2Sma11Cone 2.00",
+  "TakeOut Total（inclGST) 13.10",
+  "Total Rounded 13.10",
+  "Cash Tendered 20.00",
+  "Change 6.90",
+  "TOTALINCLUDES6%GST 0.74",
+  "inkYcuandPlease Come Again.",
+  "Guest Relations Center:1300-13-1300"
+ ],
+ "tokens": [
+  {
+   "text": "GerbangAlafRestaurantsSdnBhd",
+   "conf": 0.9938014298677444
+  },
+  {
+   "text": "(65351-M)",
+   "conf": 0.9455123278829787
+  },
+  {
+   "text": "Licensee of McDonald's",
+   "conf": 0.9503345624967054
+  },
+  {
+   "text": "Leve1°6,Bangunan TH,Damansara Uptown3",
+   "conf": 0.9400316859419281
+  },
+  {
+   "text": "No.3,Ja1anSS21/39,47400Peta1ingJaya",
+   "conf": 0.9595262782914298
+  },
+  {
+   "text": "Selangor",
+   "conf": 0.9919605329632759
+  },
+  {
+   "text": "（GSTID No:000504664064)",
+   "conf": 0.9268074165219846
+  },
+  {
+   "text": "McDona1d'sRawang DT（#188)",
+   "conf": 0.9287496709823608
+  },
+  {
+   "text": "Te1No.03-6092-1968",
+   "conf": 0.9703889257378049
+  },
+  {
+   "text": "TAX INVOICE",
+   "conf": 0.9750583876263011
+  },
+  {
+   "text": "MFY Side1",
+   "conf": 0.9587625993622674
+  },
+  {
+   "text": "INV#001881904580783",
+   "conf": 0.9967181306136282
+  },
+  {
+   "text": "ORD#70-REG#19-18/03/201823:02:16",
+   "conf": 0.9847585707902908
+  },
+  {
+   "text": "QTY ITEM",
+   "conf": 0.9354140087962151
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.9947947263717651
+  },
+  {
+   "text": "1LMcChicken",
+   "conf": 0.990253128788688
+  },
+  {
+   "text": "11.10",
+   "conf": 0.9985179543495178
+  },
+  {
+   "text": "1LCoke",
+   "conf": 0.9801519910494486
+  },
+  {
+   "text": "1LFries",
+   "conf": 0.9881925582885742
+  },
+  {
+   "text": "2Sma11Cone",
+   "conf": 0.9415378987789154
+  },
+  {
+   "text": "2.00",
+   "conf": 0.9988860636949539
+  },
+  {
+   "text": "TakeOut Total（inclGST)",
+   "conf": 0.9347047426483848
+  },
+  {
+   "text": "13.10",
+   "conf": 0.9982409000396728
+  },
+  {
+   "text": "Total Rounded",
+   "conf": 0.954155445098877
+  },
+  {
+   "text": "13.10",
+   "conf": 0.9981134533882141
+  },
+  {
+   "text": "Cash Tendered",
+   "conf": 0.9707499513259301
+  },
+  {
+   "text": "20.00",
+   "conf": 0.9988527059555053
+  },
+  {
+   "text": "Change",
+   "conf": 0.9955379565556844
+  },
+  {
+   "text": "6.90",
+   "conf": 0.9985721856355667
+  },
+  {
+   "text": "TOTALINCLUDES6%GST",
+   "conf": 0.9936649368868934
+  },
+  {
+   "text": "0.74",
+   "conf": 0.9991785436868668
+  },
+  {
+   "text": "inkYcuandPlease Come Again.",
+   "conf": 0.9372123700601084
+  },
+  {
+   "text": "Guest Relations Center:1300-13-1300",
+   "conf": 0.9672994528497968
+  }
+ ],
+ "mean_conf": 0.9726,
+ "low_conf_share": 0.0,
+ "latency_ms": 4411,
+ "fields": {
+  "company": "GERBANGALAFRESTAURANTSSDNBHD",
+  "date": null,
+  "total": 0.74
+ },
+ "rule_reasons": [
+  "date_not_found"
+ ],
+ "total_candidates": [
+  0.74
+ ],
+ "key": "X51005712017"
+}

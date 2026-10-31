@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.6-flash",
+ "provider": "gemini",
+ "raw_text": "{\"vendor\": \"KOHL'S\", \"date\": \"2011-07-24\", \"subtotal\": 57.39, \"tax\": 3.79, \"tip\": null, \"discount\": -11.48, \"total\": 49.70, \"currency\": \"USD\", \"confidence\": 0.95, \"notes\": null}",
+ "data": {
+  "vendor": "KOHL'S",
+  "date": "2011-07-24",
+  "subtotal": 57.39,
+  "tax": 3.79,
+  "tip": null,
+  "discount": -11.48,
+  "total": 49.7,
+  "currency": "USD",
+  "confidence": 0.95,
+  "notes": null
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1433,
+  "output_tokens": 89,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.001409,
+ "latency_ms": 1877,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.6-flash",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.6-flash"
+ ],
+ "key": "W0046_da701a794164"
+}

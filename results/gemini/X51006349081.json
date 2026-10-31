@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.6-flash",
+ "provider": "gemini",
+ "raw_text": "{\"vendor\": \"C W KHOO HARDWARE SDN BHD\", \"date\": \"2018-04-26\", \"subtotal\": 80.0, \"tax\": 4.8, \"tip\": null, \"discount\": null, \"total\": 84.8, \"currency\": \"MYR\", \"confidence\": 0.98, \"notes\": null}",
+ "data": {
+  "vendor": "C W KHOO HARDWARE SDN BHD",
+  "date": "2018-04-26",
+  "subtotal": 80.0,
+  "tax": 4.8,
+  "tip": null,
+  "discount": null,
+  "total": 84.8,
+  "currency": "MYR",
+  "confidence": 0.98,
+  "notes": null
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1469,
+  "output_tokens": 88,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.001432,
+ "latency_ms": 1407,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.6-flash",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.6-flash"
+ ],
+ "key": "X51006349081"
+}

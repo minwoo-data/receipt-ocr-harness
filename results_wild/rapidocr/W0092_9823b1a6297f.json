@@ -1,0 +1,258 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "8/21/20181:49:55PM",
+  "SUPREMELA",
+  "439N FAIRFAXAVENUE",
+  "LOSANGELES.CA90036",
+  "PH3236556205",
+  "FAX3236556206",
+  "Dissent IsThe Highest Form Or Patriotism",
+  "www.supremenewyork.com Receipt # 104282",
+  "Ass0c.val 8/21/2018 Cashier. Store: 002A vai",
+  "QTY PRICE EXTPRICE",
+  "63951 BLACK 74.00 74.00",
+  "OS",
+  "63957RED 1 88.00 00:88",
+  "WAISTBAG sO",
+  "64251WDLNDCAI 48.00 48.00",
+  "REFLECTVECAMOCANOS",
+  "3Unit(s) Subtotal. 210.00",
+  "9.500%Tax 19.95",
+  "RECEIPT TOTAL: 229.95",
+  "Tenid. 229.95",
+  "CrCard:22995MASTER",
+  "Auth#.021122",
+  "3138",
+  "StorePolicy",
+  "No Retunds Store Credit Only",
+  "Exchangesmiust bemade wihin7",
+  "daysand accompanied by original",
+  "receipt.",
+  "Sale ltenis are Final Sale",
+  "\"You are being lied to.\""
+ ],
+ "tokens": [
+  {
+   "text": "8/21/20181:49:55PM",
+   "conf": 0.9764901267157661
+  },
+  {
+   "text": "SUPREMELA",
+   "conf": 0.9862267176310221
+  },
+  {
+   "text": "439N FAIRFAXAVENUE",
+   "conf": 0.937175389793184
+  },
+  {
+   "text": "LOSANGELES.CA90036",
+   "conf": 0.9568763474623362
+  },
+  {
+   "text": "PH3236556205",
+   "conf": 0.9350035389264425
+  },
+  {
+   "text": "FAX3236556206",
+   "conf": 0.963496093566601
+  },
+  {
+   "text": "Dissent IsThe Highest Form Or Patriotism",
+   "conf": 0.8988216847181321
+  },
+  {
+   "text": "www.supremenewyork.com",
+   "conf": 0.9766421534798362
+  },
+  {
+   "text": "Receipt #",
+   "conf": 0.9123629331588745
+  },
+  {
+   "text": "104282",
+   "conf": 0.991637259721756
+  },
+  {
+   "text": "Store:",
+   "conf": 0.9326320290565491
+  },
+  {
+   "text": "002A",
+   "conf": 0.9929107129573822
+  },
+  {
+   "text": "8/21/2018",
+   "conf": 0.982490513059828
+  },
+  {
+   "text": "Cashier.",
+   "conf": 0.9556832984089851
+  },
+  {
+   "text": "vai",
+   "conf": 0.8810825745264689
+  },
+  {
+   "text": "Ass0c.val",
+   "conf": 0.8303093016147614
+  },
+  {
+   "text": "QTY",
+   "conf": 0.8684119979540507
+  },
+  {
+   "text": "PRICE",
+   "conf": 0.9877426981925964
+  },
+  {
+   "text": "EXTPRICE",
+   "conf": 0.9883293211460114
+  },
+  {
+   "text": "63951 BLACK",
+   "conf": 0.9364500696008856
+  },
+  {
+   "text": "74.00",
+   "conf": 0.9811904191970825
+  },
+  {
+   "text": "74.00",
+   "conf": 0.9922915935516358
+  },
+  {
+   "text": "OS",
+   "conf": 0.7101158797740936
+  },
+  {
+   "text": "63957RED",
+   "conf": 0.9814346730709076
+  },
+  {
+   "text": "1",
+   "conf": 0.9768175482749939
+  },
+  {
+   "text": "88.00",
+   "conf": 0.9124529004096985
+  },
+  {
+   "text": "00:88",
+   "conf": 0.9275576829910278
+  },
+  {
+   "text": "WAISTBAG",
+   "conf": 0.9792579263448715
+  },
+  {
+   "text": "sO",
+   "conf": 0.5508122444152832
+  },
+  {
+   "text": "64251WDLNDCAI",
+   "conf": 0.9494285468871777
+  },
+  {
+   "text": "48.00",
+   "conf": 0.9831257343292237
+  },
+  {
+   "text": "48.00",
+   "conf": 0.9663712739944458
+  },
+  {
+   "text": "REFLECTVECAMOCANOS",
+   "conf": 0.9729897148079343
+  },
+  {
+   "text": "3Unit(s)",
+   "conf": 0.9158720597624779
+  },
+  {
+   "text": "Subtotal.",
+   "conf": 0.9616629017723931
+  },
+  {
+   "text": "210.00",
+   "conf": 0.99503822127978
+  },
+  {
+   "text": "9.500%Tax",
+   "conf": 0.9812240070766873
+  },
+  {
+   "text": "19.95",
+   "conf": 0.9875317692756653
+  },
+  {
+   "text": "RECEIPT TOTAL:",
+   "conf": 0.9559553691319057
+  },
+  {
+   "text": "229.95",
+   "conf": 0.9799579183260599
+  },
+  {
+   "text": "Tenid.",
+   "conf": 0.8537008166313171
+  },
+  {
+   "text": "229.95",
+   "conf": 0.9894459942976633
+  },
+  {
+   "text": "CrCard:22995MASTER",
+   "conf": 0.951784481604894
+  },
+  {
+   "text": "Auth#.021122",
+   "conf": 0.9557381967703501
+  },
+  {
+   "text": "3138",
+   "conf": 0.9948310852050781
+  },
+  {
+   "text": "StorePolicy",
+   "conf": 0.9926744970408353
+  },
+  {
+   "text": "No Retunds Store Credit Only",
+   "conf": 0.9456073769501278
+  },
+  {
+   "text": "Exchangesmiust bemade wihin7",
+   "conf": 0.9424341501934188
+  },
+  {
+   "text": "daysand accompanied by original",
+   "conf": 0.9515512950958744
+  },
+  {
+   "text": "receipt.",
+   "conf": 0.8710569553077221
+  },
+  {
+   "text": "Sale ltenis are Final Sale",
+   "conf": 0.8872679334420425
+  },
+  {
+   "text": "\"You are being lied to.\"",
+   "conf": 0.9147624038159847
+  }
+ ],
+ "mean_conf": 0.9385,
+ "low_conf_share": 0.0,
+ "latency_ms": 4126,
+ "fields": {
+  "company": "SUPREMELA",
+  "date": "2018-08-21",
+  "total": 229.95
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  229.95
+ ],
+ "key": "W0092_9823b1a6297f"
+}

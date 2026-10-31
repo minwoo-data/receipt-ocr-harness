@@ -1,0 +1,139 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "BLUE HARBOUR CAFE",
+  "LOT 3-21 PAVILION MALL, BUKIT BINTANG",
+  "MENU",
+  "3 x MINERAL WATER 1.5L 2.20",
+  "3 x ENGINE OIL 4L 89.00",
+  "1 x ICED LATTE 9.50"
+ ],
+ "tokens": [
+  {
+   "text": "BLUE",
+   "conf": 0.96
+  },
+  {
+   "text": "HARBOUR",
+   "conf": 0.95
+  },
+  {
+   "text": "CAFE",
+   "conf": 0.96
+  },
+  {
+   "text": "LOT",
+   "conf": 0.96
+  },
+  {
+   "text": "3-21",
+   "conf": 0.96
+  },
+  {
+   "text": "PAVILION",
+   "conf": 0.96
+  },
+  {
+   "text": "MALL,",
+   "conf": 0.96
+  },
+  {
+   "text": "BUKIT",
+   "conf": 0.93
+  },
+  {
+   "text": "BINTANG",
+   "conf": 0.92
+  },
+  {
+   "text": "MENU",
+   "conf": 0.96
+  },
+  {
+   "text": "3",
+   "conf": 0.91
+  },
+  {
+   "text": "x",
+   "conf": 0.91
+  },
+  {
+   "text": "MINERAL",
+   "conf": 0.96
+  },
+  {
+   "text": "WATER",
+   "conf": 0.96
+  },
+  {
+   "text": "1.5L",
+   "conf": 0.96
+  },
+  {
+   "text": "2.20",
+   "conf": 0.96
+  },
+  {
+   "text": "3",
+   "conf": 0.87
+  },
+  {
+   "text": "x",
+   "conf": 0.87
+  },
+  {
+   "text": "ENGINE",
+   "conf": 0.96
+  },
+  {
+   "text": "OIL",
+   "conf": 0.93
+  },
+  {
+   "text": "4L",
+   "conf": 0.87
+  },
+  {
+   "text": "89.00",
+   "conf": 0.96
+  },
+  {
+   "text": "1",
+   "conf": 0.84
+  },
+  {
+   "text": "x",
+   "conf": 0.84
+  },
+  {
+   "text": "ICED",
+   "conf": 0.94
+  },
+  {
+   "text": "LATTE",
+   "conf": 0.96
+  },
+  {
+   "text": "9.50",
+   "conf": 0.96
+  }
+ ],
+ "mean_conf": 0.9326,
+ "low_conf_share": 0.0,
+ "latency_ms": 682,
+ "fields": {
+  "company": "BLUE HARBOUR CAFE",
+  "date": null,
+  "total": 89.0
+ },
+ "rule_reasons": [
+  "date_not_found",
+  "total_no_keyword_fallback_max"
+ ],
+ "total_candidates": [
+  2.2,
+  89.0,
+  9.5
+ ],
+ "key": "SYN042"
+}

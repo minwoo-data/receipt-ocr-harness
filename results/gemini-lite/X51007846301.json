@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.1-flash-lite",
+ "provider": "gemini",
+ "raw_text": "{\n  \"vendor\": \"UNIHAKKA INTERNATIONAL SDN BHD\",\n  \"date\": \"2018-06-10\",\n  \"subtotal\": 8.48,\n  \"tax\": 0.0,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 8.5,\n  \"currency\": \"MYR\",\n  \"confidence\": 0.98,\n  \"notes\": \"Rounding of 0.02 applied to reach the nett total of 8.50.\"\n}",
+ "data": {
+  "vendor": "UNIHAKKA INTERNATIONAL SDN BHD",
+  "date": "2018-06-10",
+  "subtotal": 8.48,
+  "tax": 0.0,
+  "tip": null,
+  "discount": null,
+  "total": 8.5,
+  "currency": "MYR",
+  "confidence": 0.98,
+  "notes": "Rounding of 0.02 applied to reach the nett total of 8.50."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1461,
+  "output_tokens": 127,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.000556,
+ "latency_ms": 1743,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.1-flash-lite",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.1-flash-lite"
+ ],
+ "key": "X51007846301"
+}

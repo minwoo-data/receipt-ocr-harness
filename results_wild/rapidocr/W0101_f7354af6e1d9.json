@@ -1,0 +1,255 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "BESTBUY#994",
+  "81330ntariost,Vancouver",
+  "Keep your receipt",
+  "Val#:1091-8808-6551-4411",
+  "0994042721208/20/16 13:06 TL8R",
+  "SALES",
+  "10372412 NC1102EF NESTCAM 249.99",
+  "10146797BCEHFHOME BCEHF HOMEA/V 2.50",
+  "SUBTOTAL 252.49",
+  "PSTEC 12.62 17.67",
+  "TOTAL 282.78",
+  "Approved 800778 xxxxxxxxxxx1016CAMEX Transaction Record SALE 282.78",
+  "SEQ NO:99442212 TERM:0994042E",
+  "ACI/IS0000/000",
+  "AID:A000000025010801 8/20/201613:06:15",
+  "APN:AMERICANEXPRESS TVR 0000008000",
+  "NO SIGNATURE REQUIRED TSI0340",
+  "GST Re9#R135664738",
+  "Shop BestBuy.ca&getFREE ShipPing",
+  "onordersover $25or FREE PickUp in-store within 20 mins!",
+  "YOUR CUSTOMER SERVICE 4-PART-KEYIS: 09940427212082016",
+  "WINA $1000 BEST BUY GIFT CARD!",
+  "NEXT30 DAYSAND BE ENTERED TOUIN",
+  "To enter and for full contest rules,",
+  "90 to www.bestbuycanadaceres ca and",
+  "use the following codes:",
+  "Group B: GroupA: Group C: 290427 0481668RTL00 9212"
+ ],
+ "tokens": [
+  {
+   "text": "BESTBUY#994",
+   "conf": 0.9884073734283447
+  },
+  {
+   "text": "81330ntariost,Vancouver",
+   "conf": 0.9200439971426259
+  },
+  {
+   "text": "Keep your receipt",
+   "conf": 0.9350297836696401
+  },
+  {
+   "text": "Val#:1091-8808-6551-4411",
+   "conf": 0.9677425672610601
+  },
+  {
+   "text": "0994042721208/20/16",
+   "conf": 0.9917951383088764
+  },
+  {
+   "text": "13:06",
+   "conf": 0.98267822265625
+  },
+  {
+   "text": "TL8R",
+   "conf": 0.960206925868988
+  },
+  {
+   "text": "SALES",
+   "conf": 0.986735486984253
+  },
+  {
+   "text": "10372412 NC1102EF",
+   "conf": 0.9798580863896538
+  },
+  {
+   "text": "NESTCAM",
+   "conf": 0.9516682028770447
+  },
+  {
+   "text": "249.99",
+   "conf": 0.9912473758061727
+  },
+  {
+   "text": "10146797BCEHFHOME",
+   "conf": 0.9851478583672467
+  },
+  {
+   "text": "BCEHF HOMEA/V",
+   "conf": 0.9337962086384113
+  },
+  {
+   "text": "2.50",
+   "conf": 0.9943199902772903
+  },
+  {
+   "text": "SUBTOTAL",
+   "conf": 0.9901342615485191
+  },
+  {
+   "text": "252.49",
+   "conf": 0.9881537755330404
+  },
+  {
+   "text": "12.62",
+   "conf": 0.9929420232772828
+  },
+  {
+   "text": "PSTEC",
+   "conf": 0.9566965222358703
+  },
+  {
+   "text": "17.67",
+   "conf": 0.9880448937416076
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.9894992351531983
+  },
+  {
+   "text": "282.78",
+   "conf": 0.9953132967154185
+  },
+  {
+   "text": "Transaction Record SALE",
+   "conf": 0.9727899535842564
+  },
+  {
+   "text": "xxxxxxxxxxx1016CAMEX",
+   "conf": 0.782792729139328
+  },
+  {
+   "text": "Approved 800778",
+   "conf": 0.9448888937632243
+  },
+  {
+   "text": "282.78",
+   "conf": 0.9951531291007996
+  },
+  {
+   "text": "TERM:0994042E",
+   "conf": 0.9825052618980408
+  },
+  {
+   "text": "SEQ NO:99442212",
+   "conf": 0.9593387802441915
+  },
+  {
+   "text": "ACI/IS0000/000",
+   "conf": 0.9651334966932025
+  },
+  {
+   "text": "8/20/201613:06:15",
+   "conf": 0.9727199919083539
+  },
+  {
+   "text": "AID:A000000025010801",
+   "conf": 0.9638538599014282
+  },
+  {
+   "text": "APN:AMERICANEXPRESS",
+   "conf": 0.9694303180042066
+  },
+  {
+   "text": "TVR 0000008000",
+   "conf": 0.9717622484479632
+  },
+  {
+   "text": "TSI0340",
+   "conf": 0.992477263723101
+  },
+  {
+   "text": "NO SIGNATURE REQUIRED",
+   "conf": 0.9778531874929156
+  },
+  {
+   "text": "GST Re9#R135664738",
+   "conf": 0.9530388050609164
+  },
+  {
+   "text": "Shop BestBuy.ca&getFREE ShipPing",
+   "conf": 0.9133544210344553
+  },
+  {
+   "text": "onordersover $25or FREE PickUp",
+   "conf": 0.9259129722913106
+  },
+  {
+   "text": "in-store within 20 mins!",
+   "conf": 0.9265762989719709
+  },
+  {
+   "text": "YOUR CUSTOMER SERVICE 4-PART-KEYIS:",
+   "conf": 0.9273873874119349
+  },
+  {
+   "text": "09940427212082016",
+   "conf": 0.9769575665978825
+  },
+  {
+   "text": "WINA $1000 BEST BUY GIFT CARD!",
+   "conf": 0.9182918032010396
+  },
+  {
+   "text": "NEXT30 DAYSAND BE ENTERED TOUIN",
+   "conf": 0.9073857953471522
+  },
+  {
+   "text": "To enter and for full contest rules,",
+   "conf": 0.9302188224262662
+  },
+  {
+   "text": "90 to www.bestbuycanadaceres ca and",
+   "conf": 0.9062519005366734
+  },
+  {
+   "text": "use the following codes:",
+   "conf": 0.942990206182003
+  },
+  {
+   "text": "GroupA:",
+   "conf": 0.922608094555991
+  },
+  {
+   "text": "290427",
+   "conf": 0.9959267377853394
+  },
+  {
+   "text": "Group B:",
+   "conf": 0.8884296268224716
+  },
+  {
+   "text": "9212",
+   "conf": 0.9977592676877975
+  },
+  {
+   "text": "Group",
+   "conf": 0.9234237670898438
+  },
+  {
+   "text": "C:",
+   "conf": 0.8146072626113892
+  },
+  {
+   "text": "0481668RTL00",
+   "conf": 0.9769513209660848
+  }
+ ],
+ "mean_conf": 0.9552,
+ "low_conf_share": 0.0,
+ "latency_ms": 3543,
+ "fields": {
+  "company": "SALES",
+  "date": "2016-08-20",
+  "total": 282.78
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  282.78
+ ],
+ "key": "W0101_f7354af6e1d9"
+}

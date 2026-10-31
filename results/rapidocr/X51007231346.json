@@ -1,0 +1,205 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "DeJelita Stesen Minyak",
+  "Company No:228415-U",
+  "JInPermas 9/5,Bdr Permas Jaya",
+  "81750,Johior Bahru",
+  "Site:1719",
+  "Telephone:07-3865102",
+  "GST No:000368820224",
+  ">>>>>>>Pre-Authorisation",
+  "Pre auth code A01A1525222521",
+  "27.27 1itre Pump # 07",
+  "FuelSave 95 RM 60.00 C",
+  "2.200 RM /litre",
+  "Total RM 60.00",
+  "Cash RM 60.00",
+  "Relief GST C RM 0.00",
+  "Total Gross C RM 60.00",
+  "Cashier:",
+  "Athilah",
+  "This is not the final fiscal receipt",
+  "Date Time Num POS CNo Shift",
+  "02/05/18 08:55 47232 01 6410 292",
+  "Diesel& Petrol RON95 given Relief",
+  "under Section 56(3)(b)GST Act 2014",
+  "ThankYou and PleaseComeAgain"
+ ],
+ "tokens": [
+  {
+   "text": "DeJelita Stesen Minyak",
+   "conf": 0.990900069475174
+  },
+  {
+   "text": "Company No:228415-U",
+   "conf": 0.9979907682067469
+  },
+  {
+   "text": "JInPermas 9/5,Bdr Permas Jaya",
+   "conf": 0.9452044922730019
+  },
+  {
+   "text": "81750,Johior Bahru",
+   "conf": 0.9310004909833273
+  },
+  {
+   "text": "Site:1719",
+   "conf": 0.9892657796541849
+  },
+  {
+   "text": "Telephone:07-3865102",
+   "conf": 0.9911241322755814
+  },
+  {
+   "text": "GST No:000368820224",
+   "conf": 0.9765366378583407
+  },
+  {
+   "text": ">>>>>>>Pre-Authorisation",
+   "conf": 0.9514254579941431
+  },
+  {
+   "text": "Pre auth code A01A1525222521",
+   "conf": 0.9660675185067313
+  },
+  {
+   "text": "27.27 1itre Pump # 07",
+   "conf": 0.9567260657038007
+  },
+  {
+   "text": "FuelSave 95",
+   "conf": 0.950848254290494
+  },
+  {
+   "text": "RM",
+   "conf": 0.999199628829956
+  },
+  {
+   "text": "60.00 C",
+   "conf": 0.9896357655525208
+  },
+  {
+   "text": "2.200",
+   "conf": 0.9997920393943787
+  },
+  {
+   "text": "RM",
+   "conf": 0.9965171813964844
+  },
+  {
+   "text": "/litre",
+   "conf": 0.9154234131177267
+  },
+  {
+   "text": "Total",
+   "conf": 0.9977571606636048
+  },
+  {
+   "text": "RM",
+   "conf": 0.9990928173065186
+  },
+  {
+   "text": "60.00",
+   "conf": 0.9999106526374817
+  },
+  {
+   "text": "Cash",
+   "conf": 0.9960159808397293
+  },
+  {
+   "text": "RM",
+   "conf": 0.9994193017482758
+  },
+  {
+   "text": "60.00",
+   "conf": 0.9999117136001587
+  },
+  {
+   "text": "Relief GST",
+   "conf": 0.986486405134201
+  },
+  {
+   "text": "C",
+   "conf": 0.9827967882156372
+  },
+  {
+   "text": "RM",
+   "conf": 0.9991296827793121
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9997669160366058
+  },
+  {
+   "text": "Total Gross",
+   "conf": 0.9779865633357655
+  },
+  {
+   "text": "C",
+   "conf": 0.9853426218032837
+  },
+  {
+   "text": "RM",
+   "conf": 0.999189555644989
+  },
+  {
+   "text": "60.00",
+   "conf": 0.9998621106147766
+  },
+  {
+   "text": "Cashier:",
+   "conf": 0.996084988117218
+  },
+  {
+   "text": "Athilah",
+   "conf": 0.99698577608381
+  },
+  {
+   "text": "This is not the final fiscal receipt",
+   "conf": 0.9725154754188325
+  },
+  {
+   "text": "Date",
+   "conf": 0.9989267736673355
+  },
+  {
+   "text": "Time Num",
+   "conf": 0.9434938579797745
+  },
+  {
+   "text": "POS CNo Shift",
+   "conf": 0.9659592967766982
+  },
+  {
+   "text": "02/05/18 08:55 47232 01 6410 292",
+   "conf": 0.9445046633481979
+  },
+  {
+   "text": "Diesel& Petrol RON95 given Relief",
+   "conf": 0.9382840629779932
+  },
+  {
+   "text": "under Section 56(3)(b)GST Act 2014",
+   "conf": 0.9296592386329875
+  },
+  {
+   "text": "ThankYou and PleaseComeAgain",
+   "conf": 0.9589246447597232
+  }
+ ],
+ "mean_conf": 0.9779,
+ "low_conf_share": 0.0,
+ "latency_ms": 4393,
+ "fields": {
+  "company": "DEJELITA STESEN MINYAK",
+  "date": "2018-05-02",
+  "total": 60.0
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  60.0,
+  60.0
+ ],
+ "key": "X51007231346"
+}

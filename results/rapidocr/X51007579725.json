@@ -1,0 +1,217 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "THONG RECIPE",
+  "16G BLOCK B,ZENITH CORPORATE PARK",
+  "JALANSS7/26,47301",
+  "PETALING JAYA SELANGOR",
+  "TEL03-7886 4877",
+  "GST NO:001076076544",
+  "TAXINVOICE",
+  "0rderNo#001-1112563 27/06/18",
+  "Cashier :WINNIE",
+  "1 SETCRM49.90 49.90 SR",
+  "3 HERBALTEA/BARLI MADU 6.00 SR",
+  "Item Count 4",
+  "SUBTOTAL: 55.90",
+  "SRVC5% 2.80",
+  "TOTAL: 58.70",
+  "Payment Details",
+  "CASH 100.00",
+  "CASH CHANGE 41.30",
+  "27/06/18 14:30 #001-1112563#",
+  "WINNIE",
+  "GST Summary Amount(RM) Tax(RM)",
+  "SR (@0%) 55.90 0.00",
+  "JK",
+  "Thankyou",
+  "Please come again"
+ ],
+ "tokens": [
+  {
+   "text": "THONG RECIPE",
+   "conf": 0.9767359346151352
+  },
+  {
+   "text": "16G BLOCK B,ZENITH CORPORATE PARK",
+   "conf": 0.9207349130601594
+  },
+  {
+   "text": "JALANSS7/26,47301",
+   "conf": 0.981669166508843
+  },
+  {
+   "text": "PETALING JAYA SELANGOR",
+   "conf": 0.9542839202013883
+  },
+  {
+   "text": "TEL03-7886 4877",
+   "conf": 0.9695941090583802
+  },
+  {
+   "text": "GST NO:001076076544",
+   "conf": 0.9527654992906671
+  },
+  {
+   "text": "TAXINVOICE",
+   "conf": 0.9948933362960816
+  },
+  {
+   "text": "0rderNo#001-1112563",
+   "conf": 0.9710980496908489
+  },
+  {
+   "text": "27/06/18",
+   "conf": 0.997472494840622
+  },
+  {
+   "text": "Cashier :WINNIE",
+   "conf": 0.9515446662902832
+  },
+  {
+   "text": "1",
+   "conf": 0.9931527376174927
+  },
+  {
+   "text": "SETCRM49.90",
+   "conf": 0.9965736269950867
+  },
+  {
+   "text": "49.90",
+   "conf": 0.9990812420845032
+  },
+  {
+   "text": "SR",
+   "conf": 0.9957780241966248
+  },
+  {
+   "text": "3",
+   "conf": 0.9979631900787354
+  },
+  {
+   "text": "HERBALTEA/BARLI MADU",
+   "conf": 0.9690550297498703
+  },
+  {
+   "text": "6.00",
+   "conf": 0.9984346330165863
+  },
+  {
+   "text": "SR",
+   "conf": 0.9946088194847107
+  },
+  {
+   "text": "Item Count",
+   "conf": 0.9764191746711731
+  },
+  {
+   "text": "4",
+   "conf": 0.9992097616195679
+  },
+  {
+   "text": "SUBTOTAL:",
+   "conf": 0.9878569907612271
+  },
+  {
+   "text": "55.90",
+   "conf": 0.9991036176681518
+  },
+  {
+   "text": "SRVC5%",
+   "conf": 0.8598645826180776
+  },
+  {
+   "text": "2.80",
+   "conf": 0.9569970667362213
+  },
+  {
+   "text": "TOTAL:",
+   "conf": 0.9954399863878886
+  },
+  {
+   "text": "58.70",
+   "conf": 0.999692702293396
+  },
+  {
+   "text": "Payment Details",
+   "conf": 0.9777680595715841
+  },
+  {
+   "text": "CASH",
+   "conf": 0.9948778450489044
+  },
+  {
+   "text": "100.00",
+   "conf": 0.9983687500158945
+  },
+  {
+   "text": "CASH CHANGE",
+   "conf": 0.9805467508055947
+  },
+  {
+   "text": "41.30",
+   "conf": 0.9960033416748046
+  },
+  {
+   "text": "27/06/18 14:30 #001-1112563#",
+   "conf": 0.968334042600223
+  },
+  {
+   "text": "WINNIE",
+   "conf": 0.9866043627262115
+  },
+  {
+   "text": "GST Summary",
+   "conf": 0.9782675179568204
+  },
+  {
+   "text": "Amount(RM)",
+   "conf": 0.9428429782390595
+  },
+  {
+   "text": "Tax(RM)",
+   "conf": 0.9576596873147147
+  },
+  {
+   "text": "SR",
+   "conf": 0.9890405237674713
+  },
+  {
+   "text": "(@0%)",
+   "conf": 0.9132068991661072
+  },
+  {
+   "text": "55.90",
+   "conf": 0.9994735240936279
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9984626471996307
+  },
+  {
+   "text": "JK",
+   "conf": 0.5859194099903107
+  },
+  {
+   "text": "Thankyou",
+   "conf": 0.994302049279213
+  },
+  {
+   "text": "Please come again",
+   "conf": 0.9735680222511292
+  }
+ ],
+ "mean_conf": 0.968,
+ "low_conf_share": 0.0,
+ "latency_ms": 4044,
+ "fields": {
+  "company": "THONG RECIPE",
+  "date": "2018-06-27",
+  "total": 58.7
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  58.7
+ ],
+ "key": "X51007579725"
+}

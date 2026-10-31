@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.6-flash",
+ "provider": "gemini",
+ "raw_text": "{\"vendor\": \"PRINT EXPERT SDN BHD\", \"date\": \"2018-03-19\", \"subtotal\": 213.78, \"tax\": 12.83, \"tip\": null, \"discount\": 0.0, \"total\": 226.6, \"currency\": \"MYR\", \"confidence\": 0.95, \"notes\": \"Rounding of -0.01 applied to total sales inclusive of GST.\"}",
+ "data": {
+  "vendor": "PRINT EXPERT SDN BHD",
+  "date": "2018-03-19",
+  "subtotal": 213.78,
+  "tax": 12.83,
+  "tip": null,
+  "discount": 0.0,
+  "total": 226.6,
+  "currency": "MYR",
+  "confidence": 0.95,
+  "notes": "Rounding of -0.01 applied to total sales inclusive of GST."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1487,
+  "output_tokens": 107,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.001517,
+ "latency_ms": 1638,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.6-flash",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.6-flash"
+ ],
+ "key": "X51006008081"
+}

@@ -1,0 +1,221 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "POPULAR BOOK",
+  "CO. (M) SDN BHD",
+  "(Co.No.113825-W)",
+  "(GST Reg No. 001492992000)",
+  "No 8, Jalan 7/118B, Desa Tun Razak",
+  "56000 Kuala Lumpur, Malaysia",
+  "EMPIRE SHOPPING GALLERY",
+  "Tel:03-56319320",
+  "05/03/1815:02 Slip No.:1010104759",
+  "Li Fong Trans:104610",
+  "Member Card No: 1001016668849",
+  "Card Expiry: 31/05/18",
+  "Description Amount",
+  "SC Acr Frame Sl03M",
+  "2pc e 5.50 11.00T",
+  "Menber Discount -1.10",
+  "Total RM Incl. of GST 9.90",
+  "Cash -20.00",
+  "CHANGE 10.10",
+  "Item Count 2",
+  "GST Summary Amount (RM) Tax (RM)",
+  "T @ 6% 9.34 0.56",
+  "Total Savings -1.10",
+  "BE A POPULAR CARD MEMBER",
+  "AND ENJOY SPECIAL DISCOUNTS",
+  "THANK YOU.PLEASE COME AGAIN.",
+  "www.popular.com.my",
+  "Buy Chinese books online",
+  "www. popularonline. com.my"
+ ],
+ "tokens": [
+  {
+   "text": "POPULAR BOOK",
+   "conf": 0.9711524248123169
+  },
+  {
+   "text": "CO. (M) SDN BHD",
+   "conf": 0.9852412581443787
+  },
+  {
+   "text": "(Co.No.113825-W)",
+   "conf": 0.9661923758685589
+  },
+  {
+   "text": "(GST Reg No. 001492992000)",
+   "conf": 0.962776399575747
+  },
+  {
+   "text": "No 8, Jalan 7/118B, Desa Tun Razak",
+   "conf": 0.9130541708539514
+  },
+  {
+   "text": "56000 Kuala Lumpur, Malaysia",
+   "conf": 0.9386513020311084
+  },
+  {
+   "text": "EMPIRE SHOPPING GALLERY",
+   "conf": 0.9811927961266559
+  },
+  {
+   "text": "Tel:03-56319320",
+   "conf": 0.9734870394070944
+  },
+  {
+   "text": "05/03/1815:02",
+   "conf": 0.9890835697834308
+  },
+  {
+   "text": "Slip No.:1010104759",
+   "conf": 0.9709908303461576
+  },
+  {
+   "text": "Li Fong",
+   "conf": 0.9958618623869759
+  },
+  {
+   "text": "Trans:104610",
+   "conf": 0.9923073003689448
+  },
+  {
+   "text": "Member Card No: 1001016668849",
+   "conf": 0.9448478057466704
+  },
+  {
+   "text": "Card Expiry: 31/05/18",
+   "conf": 0.9557992219924927
+  },
+  {
+   "text": "Description",
+   "conf": 0.9943248575383966
+  },
+  {
+   "text": "Amount",
+   "conf": 0.9556760589281718
+  },
+  {
+   "text": "SC Acr Frame Sl03M",
+   "conf": 0.9438111417823367
+  },
+  {
+   "text": "2pc e 5.50",
+   "conf": 0.9387576937675476
+  },
+  {
+   "text": "11.00T",
+   "conf": 0.9969378610452017
+  },
+  {
+   "text": "Menber Discount",
+   "conf": 0.9389079014460245
+  },
+  {
+   "text": "-1.10",
+   "conf": 0.9973212599754333
+  },
+  {
+   "text": "Total RM Incl. of GST",
+   "conf": 0.9223657108488537
+  },
+  {
+   "text": "9.90",
+   "conf": 0.9992704093456268
+  },
+  {
+   "text": "Cash",
+   "conf": 0.9951649308204651
+  },
+  {
+   "text": "-20.00",
+   "conf": 0.9992265601952871
+  },
+  {
+   "text": "CHANGE",
+   "conf": 0.9875513017177582
+  },
+  {
+   "text": "10.10",
+   "conf": 0.9993197083473205
+  },
+  {
+   "text": "Item Count",
+   "conf": 0.9475962519645691
+  },
+  {
+   "text": "2",
+   "conf": 0.9973847270011902
+  },
+  {
+   "text": "GST Summary",
+   "conf": 0.9494007392363115
+  },
+  {
+   "text": "Amount (RM)",
+   "conf": 0.8741846843199297
+  },
+  {
+   "text": "Tax (RM)",
+   "conf": 0.9204389974474907
+  },
+  {
+   "text": "T @ 6%",
+   "conf": 0.9657932718594869
+  },
+  {
+   "text": "9.34",
+   "conf": 0.9991321563720703
+  },
+  {
+   "text": "0.56",
+   "conf": 0.999081939458847
+  },
+  {
+   "text": "Total Savings",
+   "conf": 0.9915186120913579
+  },
+  {
+   "text": "-1.10",
+   "conf": 0.9886695265769958
+  },
+  {
+   "text": "BE A POPULAR CARD MEMBER",
+   "conf": 0.9392406915624937
+  },
+  {
+   "text": "AND ENJOY SPECIAL DISCOUNTS",
+   "conf": 0.9690186911159091
+  },
+  {
+   "text": "THANK YOU.PLEASE COME AGAIN.",
+   "conf": 0.9529770570141929
+  },
+  {
+   "text": "www.popular.com.my",
+   "conf": 0.996247132619222
+  },
+  {
+   "text": "Buy Chinese books online",
+   "conf": 0.9674559483925501
+  },
+  {
+   "text": "www. popularonline. com.my",
+   "conf": 0.9690965757920191
+  }
+ ],
+ "mean_conf": 0.9683,
+ "low_conf_share": 0.0,
+ "latency_ms": 5066,
+ "fields": {
+  "company": "CO SDN BHD",
+  "date": "2018-05-31",
+  "total": 9.9
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  9.9
+ ],
+ "key": "X51006008091"
+}

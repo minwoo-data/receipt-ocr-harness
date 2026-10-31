@@ -1,0 +1,203 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "RESTORAN WAN SHENG",
+  "002043319-W",
+  "No.2,Jalan Temenggung 19/9,",
+  "Seksyen 9,Bandar Mahkota Cheras,",
+  "43200 Cheras,Selangor",
+  "GST REG N0:001335787520",
+  "TaxInvoice",
+  "INV No.:1183154Cashier:Thandar",
+  "Date:09-06-201816:00:43",
+  "Description Qty U.price Total TAX",
+  "Teh (B)",
+  "1× 2.20 2.20 ZRL",
+  "Cham (B)",
+  "1x 2.20 2.20 ZRL",
+  "TakeAway",
+  "2x 0.20 0.40ZRL",
+  "Total QTY:4",
+  "Total (Excluding GST): 4.80",
+  "Total (Inclusive of GST): 4.80",
+  "TOTAL: 4.80",
+  "CASH: 4.80",
+  "GST Summary Amount (RM) Tax(RM)",
+  "ZRL. (@0%) 4.80 0.00"
+ ],
+ "tokens": [
+  {
+   "text": "RESTORAN WAN SHENG",
+   "conf": 0.976076708899604
+  },
+  {
+   "text": "002043319-W",
+   "conf": 0.9969397295605053
+  },
+  {
+   "text": "No.2,Jalan Temenggung 19/9,",
+   "conf": 0.941638379185288
+  },
+  {
+   "text": "Seksyen 9,Bandar Mahkota Cheras,",
+   "conf": 0.9571094010025263
+  },
+  {
+   "text": "43200 Cheras,Selangor",
+   "conf": 0.9750969949222746
+  },
+  {
+   "text": "GST REG N0:001335787520",
+   "conf": 0.9552038804344509
+  },
+  {
+   "text": "TaxInvoice",
+   "conf": 0.9945731461048126
+  },
+  {
+   "text": "INV No.:1183154Cashier:Thandar",
+   "conf": 0.9820791125297547
+  },
+  {
+   "text": "Date:09-06-201816:00:43",
+   "conf": 0.9865861975628397
+  },
+  {
+   "text": "Description",
+   "conf": 0.994075748053464
+  },
+  {
+   "text": "Qty",
+   "conf": 0.9980224172274271
+  },
+  {
+   "text": "U.price Total TAX",
+   "conf": 0.9607987368808073
+  },
+  {
+   "text": "Teh (B)",
+   "conf": 0.872344332081931
+  },
+  {
+   "text": "1×",
+   "conf": 0.7157709002494812
+  },
+  {
+   "text": "2.20",
+   "conf": 0.9989947825670242
+  },
+  {
+   "text": "2.20 ZRL",
+   "conf": 0.9371351227164268
+  },
+  {
+   "text": "Cham (B)",
+   "conf": 0.9221187606453896
+  },
+  {
+   "text": "1x",
+   "conf": 0.7507718503475189
+  },
+  {
+   "text": "2.20",
+   "conf": 0.9997316598892212
+  },
+  {
+   "text": "2.20 ZRL",
+   "conf": 0.9433468505740166
+  },
+  {
+   "text": "TakeAway",
+   "conf": 0.9933648481965065
+  },
+  {
+   "text": "2x",
+   "conf": 0.7987695038318634
+  },
+  {
+   "text": "0.20",
+   "conf": 0.999847799539566
+  },
+  {
+   "text": "0.40ZRL",
+   "conf": 0.9970815011433193
+  },
+  {
+   "text": "Total QTY:4",
+   "conf": 0.9249350753697482
+  },
+  {
+   "text": "Total (Excluding GST):",
+   "conf": 0.9395739002661272
+  },
+  {
+   "text": "4.80",
+   "conf": 0.9986892491579056
+  },
+  {
+   "text": "Total (Inclusive of GST):",
+   "conf": 0.9134751749038696
+  },
+  {
+   "text": "4.80",
+   "conf": 0.9996202141046524
+  },
+  {
+   "text": "TOTAL:",
+   "conf": 0.9819835325082144
+  },
+  {
+   "text": "4.80",
+   "conf": 0.9996341466903687
+  },
+  {
+   "text": "CASH:",
+   "conf": 0.9480300307273865
+  },
+  {
+   "text": "4.80",
+   "conf": 0.9987902939319611
+  },
+  {
+   "text": "GST Summary",
+   "conf": 0.9691131765192206
+  },
+  {
+   "text": "Amount (RM)",
+   "conf": 0.9778884757648815
+  },
+  {
+   "text": "Tax(RM)",
+   "conf": 0.9663258280072894
+  },
+  {
+   "text": "ZRL.",
+   "conf": 0.9435711055994034
+  },
+  {
+   "text": "(@0%)",
+   "conf": 0.9947510123252868
+  },
+  {
+   "text": "4.80",
+   "conf": 0.9989326596260071
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9994405806064606
+  }
+ ],
+ "mean_conf": 0.9551,
+ "low_conf_share": 0.0,
+ "latency_ms": 4628,
+ "fields": {
+  "company": "RESTORAN WAN SHENG",
+  "date": "2018-06-09",
+  "total": 4.8
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  4.8
+ ],
+ "key": "X51008099048"
+}

@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.1-flash-lite",
+ "provider": "gemini",
+ "raw_text": "{\n  \"vendor\": \"TARGET\",\n  \"date\": \"2010-06-17\",\n  \"subtotal\": 374.68,\n  \"tax\": 22.65,\n  \"tip\": null,\n  \"discount\": -12.99,\n  \"total\": 399.99,\n  \"currency\": \"USD\",\n  \"confidence\": 0.98,\n  \"notes\": \"Discount calculated as the sum of all 'Saved' amounts listed on the receipt.\"\n}",
+ "data": {
+  "vendor": "TARGET",
+  "date": "2010-06-17",
+  "subtotal": 374.68,
+  "tax": 22.65,
+  "tip": null,
+  "discount": -12.99,
+  "total": 399.99,
+  "currency": "USD",
+  "confidence": 0.98,
+  "notes": "Discount calculated as the sum of all 'Saved' amounts listed on the receipt."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1425,
+  "output_tokens": 127,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.000547,
+ "latency_ms": 2003,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.1-flash-lite",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.1-flash-lite"
+ ],
+ "key": "W0083_165d67e579cc"
+}

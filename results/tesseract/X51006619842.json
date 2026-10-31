@@ -1,0 +1,76 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "‘",
+  "j",
+  "ae. ee ee ee Ry ee ee a ere Ae Ae"
+ ],
+ "tokens": [
+  {
+   "text": "‘",
+   "conf": 0.61
+  },
+  {
+   "text": "j",
+   "conf": 0.38
+  },
+  {
+   "text": "ae.",
+   "conf": 0.3
+  },
+  {
+   "text": "ee",
+   "conf": 0.28
+  },
+  {
+   "text": "ee",
+   "conf": 0.12
+  },
+  {
+   "text": "ee",
+   "conf": 0.28
+  },
+  {
+   "text": "Ry",
+   "conf": 0.2
+  },
+  {
+   "text": "ee",
+   "conf": 0.28
+  },
+  {
+   "text": "ee",
+   "conf": 0.45
+  },
+  {
+   "text": "a",
+   "conf": 0.17
+  },
+  {
+   "text": "ere",
+   "conf": 0.21
+  },
+  {
+   "text": "Ae",
+   "conf": 0.35
+  },
+  {
+   "text": "Ae",
+   "conf": 0.39
+  }
+ ],
+ "mean_conf": 0.3092,
+ "low_conf_share": 0.9231,
+ "latency_ms": 1294,
+ "fields": {
+  "company": "AE EE EE EE RY EE EE A ERE AE AE",
+  "date": null,
+  "total": null
+ },
+ "rule_reasons": [
+  "date_not_found",
+  "total_not_found"
+ ],
+ "total_candidates": [],
+ "key": "X51006619842"
+}

@@ -1,0 +1,118 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "PEARLRIVERSEAFOODRESTAURANT",
+  "19 JALAN SULTAN ISMAIL,KUALA LUMPUR",
+  "TAX INVOICE",
+  "Date:21/01/2025 Time:13:42",
+  "28.50",
+  "3x ICED LATTE 20.40",
+  "3X PANAD0L10S",
+  "48.90",
+  "SUBTOTAL 2.93",
+  "9159 51.93",
+  "TOTAL 56.93",
+  "CASH 5.00",
+  "CHANGE",
+  "THANK YOU,PLEASECOMEAGAIN"
+ ],
+ "tokens": [
+  {
+   "text": "PEARLRIVERSEAFOODRESTAURANT",
+   "conf": 0.9851826738428187
+  },
+  {
+   "text": "19 JALAN SULTAN ISMAIL,KUALA LUMPUR",
+   "conf": 0.935329634802682
+  },
+  {
+   "text": "TAX INVOICE",
+   "conf": 0.9672779711810026
+  },
+  {
+   "text": "Time:13:42",
+   "conf": 0.9708428382873535
+  },
+  {
+   "text": "Date:21/01/2025",
+   "conf": 0.990636964639028
+  },
+  {
+   "text": "28.50",
+   "conf": 0.9991581201553345
+  },
+  {
+   "text": "3x",
+   "conf": 0.7824470400810242
+  },
+  {
+   "text": "ICED LATTE",
+   "conf": 0.9630559682846069
+  },
+  {
+   "text": "20.40",
+   "conf": 0.9987336874008179
+  },
+  {
+   "text": "3X PANAD0L10S",
+   "conf": 0.9291877838281485
+  },
+  {
+   "text": "48.90",
+   "conf": 0.9996699094772339
+  },
+  {
+   "text": "SUBTOTAL",
+   "conf": 0.9925144463777542
+  },
+  {
+   "text": "2.93",
+   "conf": 0.9982088506221771
+  },
+  {
+   "text": "9159",
+   "conf": 0.6047903820872307
+  },
+  {
+   "text": "51.93",
+   "conf": 0.9990938901901245
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.9933323860168457
+  },
+  {
+   "text": "56.93",
+   "conf": 0.9996589422225952
+  },
+  {
+   "text": "CASH",
+   "conf": 0.9968648850917816
+  },
+  {
+   "text": "5.00",
+   "conf": 0.9994488656520844
+  },
+  {
+   "text": "CHANGE",
+   "conf": 0.9962414602438608
+  },
+  {
+   "text": "THANK YOU,PLEASECOMEAGAIN",
+   "conf": 0.9626640057563782
+  }
+ ],
+ "mean_conf": 0.9554,
+ "low_conf_share": 0.0,
+ "latency_ms": 18651,
+ "fields": {
+  "company": "PEARLRIVERSEAFOODRESTAURANT",
+  "date": "2025-01-21",
+  "total": 56.93
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  56.93
+ ],
+ "key": "SYN017"
+}

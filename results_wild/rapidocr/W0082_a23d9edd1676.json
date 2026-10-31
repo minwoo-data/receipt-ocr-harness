@@ -1,0 +1,169 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "IVIOUGI",
+  "HOTSHINE'",
+  "CAR WASH & LUBE CENTERS",
+  "Mister Car Wash 002/102",
+  "1038 Gessner Rd",
+  "Houston,TX 77055",
+  "713-461-0541 a",
+  "002-WCash2 02/20/16,04:39PM",
+  "Shift 1,Empl 1539, Sale#73583514882",
+  "1Final Touch 39.99",
+  "1Dissolve-Al1 20.00",
+  "1Lube Wash Coupon* -13.99",
+  "(Lube Free Wash,Bal: 0)",
+  "Subtotal 46.00",
+  "Sales Tax 0.00",
+  "Total 46.00",
+  "AMEX x2526 46.00",
+  "（Sa1e Appr #344020:284179)",
+  "（Merchant #196026）",
+  "Car# 630",
+  "Customer# DCN3468-TX"
+ ],
+ "tokens": [
+  {
+   "text": "IVIOUGI",
+   "conf": 0.5640482008457184
+  },
+  {
+   "text": "HOTSHINE'",
+   "conf": 0.9289688931571113
+  },
+  {
+   "text": "CAR WASH & LUBE CENTERS",
+   "conf": 0.9338004874146503
+  },
+  {
+   "text": "Mister Car Wash 002/102",
+   "conf": 0.981980139794557
+  },
+  {
+   "text": "1038 Gessner Rd",
+   "conf": 0.9776474436124166
+  },
+  {
+   "text": "Houston,TX 77055",
+   "conf": 0.945333655923605
+  },
+  {
+   "text": "713-461-0541",
+   "conf": 0.994857594370842
+  },
+  {
+   "text": "a",
+   "conf": 0.9783769845962524
+  },
+  {
+   "text": "002-WCash2",
+   "conf": 0.9796106159687042
+  },
+  {
+   "text": "02/20/16,04:39PM",
+   "conf": 0.9763828255236149
+  },
+  {
+   "text": "Shift 1,Empl 1539,",
+   "conf": 0.9062026970916324
+  },
+  {
+   "text": "Sale#73583514882",
+   "conf": 0.9899838753044605
+  },
+  {
+   "text": "1Final Touch",
+   "conf": 0.9634035577376684
+  },
+  {
+   "text": "39.99",
+   "conf": 0.9974144339561463
+  },
+  {
+   "text": "1Dissolve-Al1",
+   "conf": 0.9255118438830743
+  },
+  {
+   "text": "20.00",
+   "conf": 0.998452651500702
+  },
+  {
+   "text": "1Lube Wash Coupon*",
+   "conf": 0.9762119948863983
+  },
+  {
+   "text": "-13.99",
+   "conf": 0.9883314569791158
+  },
+  {
+   "text": "(Lube Free Wash,Bal:",
+   "conf": 0.9370588928461074
+  },
+  {
+   "text": "0)",
+   "conf": 0.8335595726966858
+  },
+  {
+   "text": "Subtotal",
+   "conf": 0.9945140928030014
+  },
+  {
+   "text": "46.00",
+   "conf": 0.9979757070541382
+  },
+  {
+   "text": "Sales Tax",
+   "conf": 0.9713304969999526
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9990409016609192
+  },
+  {
+   "text": "Total",
+   "conf": 0.9946450829505921
+  },
+  {
+   "text": "46.00",
+   "conf": 0.9979965686798096
+  },
+  {
+   "text": "46.00",
+   "conf": 0.9981349468231201
+  },
+  {
+   "text": "AMEX x2526",
+   "conf": 0.9055848628282547
+  },
+  {
+   "text": "（Sa1e Appr #344020:284179)",
+   "conf": 0.9175334710341233
+  },
+  {
+   "text": "（Merchant #196026）",
+   "conf": 0.9296457270781199
+  },
+  {
+   "text": "Car# 630",
+   "conf": 0.9530639499425888
+  },
+  {
+   "text": "Customer# DCN3468-TX",
+   "conf": 0.9225165277719498
+  }
+ ],
+ "mean_conf": 0.9487,
+ "low_conf_share": 0.0,
+ "latency_ms": 3496,
+ "fields": {
+  "company": "IVIOUGI",
+  "date": "2016-02-20",
+  "total": 46.0
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  46.0
+ ],
+ "key": "W0082_a23d9edd1676"
+}

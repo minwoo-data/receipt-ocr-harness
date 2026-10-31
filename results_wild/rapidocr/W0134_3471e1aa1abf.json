@@ -1,0 +1,154 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "ZANOTTO'S MARKET",
+  "1421FOXWORTHYAVE",
+  "408-264-0103",
+  "LISA",
+  "0003020201487807/18/109:58am 201",
+  "1@2/$4.00",
+  "$STRAWBERRIES $2.00",
+  "COUPON (STRAWBERRY $2.00-SCF",
+  "1.211b0$0.79/1b",
+  "$YELLOW ONIONS $0.96 F",
+  "ITEM SUBTOTAL $2.96",
+  "STORE COUPON TOTAL $2.00-S",
+  "SUBTOTAL $0.96",
+  "TOTAL $0.96",
+  "CASH $1.00",
+  "CHANGE $0.04",
+  "#OF ITEMS:2",
+  "THANK YOU FOR SHOPPING"
+ ],
+ "tokens": [
+  {
+   "text": "ZANOTTO'S MARKET",
+   "conf": 0.9615385197103024
+  },
+  {
+   "text": "1421FOXWORTHYAVE",
+   "conf": 0.9407017137855291
+  },
+  {
+   "text": "408-264-0103",
+   "conf": 0.995748574535052
+  },
+  {
+   "text": "LISA",
+   "conf": 0.9839069843292236
+  },
+  {
+   "text": "0003020201487807/18/109:58am 201",
+   "conf": 0.9685166012495756
+  },
+  {
+   "text": "1@2/$4.00",
+   "conf": 0.9546733101209005
+  },
+  {
+   "text": "$STRAWBERRIES",
+   "conf": 0.9575123190879822
+  },
+  {
+   "text": "$2.00",
+   "conf": 0.9955307006835937
+  },
+  {
+   "text": "COUPON (STRAWBERRY",
+   "conf": 0.9386395679579841
+  },
+  {
+   "text": "$2.00-SCF",
+   "conf": 0.9832682410875956
+  },
+  {
+   "text": "1.211b0$0.79/1b",
+   "conf": 0.9491513331731161
+  },
+  {
+   "text": "$YELLOW ONIONS",
+   "conf": 0.9562549335615975
+  },
+  {
+   "text": "$0.96",
+   "conf": 0.9949461698532105
+  },
+  {
+   "text": "F",
+   "conf": 0.9581230878829956
+  },
+  {
+   "text": "ITEM SUBTOTAL",
+   "conf": 0.9404577429477985
+  },
+  {
+   "text": "$2.96",
+   "conf": 0.9981878876686097
+  },
+  {
+   "text": "STORE COUPON TOTAL",
+   "conf": 0.9637224210633172
+  },
+  {
+   "text": "$2.00-S",
+   "conf": 0.973284091268267
+  },
+  {
+   "text": "SUBTOTAL",
+   "conf": 0.9784641489386559
+  },
+  {
+   "text": "$0.96",
+   "conf": 0.9963635802268982
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.9819425106048584
+  },
+  {
+   "text": "$0.96",
+   "conf": 0.9972543358802796
+  },
+  {
+   "text": "CASH",
+   "conf": 0.9863591641187668
+  },
+  {
+   "text": "$1.00",
+   "conf": 0.9970457673072814
+  },
+  {
+   "text": "CHANGE",
+   "conf": 0.9775773286819458
+  },
+  {
+   "text": "$0.04",
+   "conf": 0.995108687877655
+  },
+  {
+   "text": "#OF ITEMS:2",
+   "conf": 0.9255164211446588
+  },
+  {
+   "text": "THANK YOU FOR SHOPPING",
+   "conf": 0.9547028162262656
+  }
+ ],
+ "mean_conf": 0.9716,
+ "low_conf_share": 0.0,
+ "latency_ms": 4745,
+ "fields": {
+  "company": "ZANOTTO S MARKET",
+  "date": null,
+  "total": 0.96
+ },
+ "rule_reasons": [
+  "date_not_found",
+  "total_multiple_keyword_amounts"
+ ],
+ "total_candidates": [
+  2.0,
+  0.96
+ ],
+ "key": "W0134_3471e1aa1abf"
+}

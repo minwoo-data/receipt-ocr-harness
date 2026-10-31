@@ -1,0 +1,927 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "LIGHTROOM GALLERY SDN BHD",
+  "No: 28, JALAN ASTANA 1C",
+  "BANDAR IsUKIT RAJA, 41050",
+  "KLANG SELANGOR D, E, MALAYSIA",
+  "ROC No. : (1072825-A)",
+  "GST No. : 000584089600",
+  "Tel:03-3362 4395 Fax:03-3362 4395",
+  "CREDIT NOTE",
+  "Station: CASHIER C/N No: LCNO0212",
+  "Cashier: ANGELA Cover : 1",
+  "Bill Date : 20/11/2017",
+  "Bill Start; 20/11/2017 03:57:01 PM",
+  "Code : 300-E0009",
+  "Name : ESWARAN 012-6369400",
+  "Address:",
+  "GST No. :",
+  "YT51129 SR",
+  "YE3G6 BK 12W WW LED TRACK LIGHT",
+  "-2 * RM 45.29 UNI ( 5.43)=RM 90. 57",
+  "YT52683 SR",
+  "YE44 35W WW BK TRACK HOLDER",
+  "| * RM 155.66 UNI ( 9,34)=RM 155.66",
+  "CH50688 SR",
+  "IMETER TRACK-BK",
+  "1 * RM 16.99 UNI ( 1.01) =RM 16. 79",
+  "- SR",
+  "RM39. 80 CONTRA W LCNOO211",
+  "0 * UNIT",
+  "Sub Total : RM 263. 02",
+  "Item Discount ; RM 0/20",
+  "Service Charge : RM 0), 00",
+  "GST/TAX 6% : RM 15. 78",
+  "TOT’ : RM 278.80",
+  "CAS: : RM 278.80",
+  "CHANGE: RM 50200) a",
+  "Ttem Count: 4",
+  "Qty Count : 4.0",
+  "Closed Bill: 20/11/2017 04:01:23 PM",
+  "k You, Please come again.",
+  "Ree Sold are not refundable, returnable",
+  "BANK ACC MBB 5128 4851 2118",
+  "BANK ACC MBB 5626 4732 1744",
+  "BANK ACC AMBANK 888 100 123 3706",
+  "GST Summary Amount (RM) Tax (RM)",
+  "SR @ 6% 263. 02 15",
+  "7R/0S/EZ 0. 00 0. 00"
+ ],
+ "tokens": [
+  {
+   "text": "LIGHTROOM",
+   "conf": 0.94
+  },
+  {
+   "text": "GALLERY",
+   "conf": 0.94
+  },
+  {
+   "text": "SDN",
+   "conf": 0.9
+  },
+  {
+   "text": "BHD",
+   "conf": 0.9
+  },
+  {
+   "text": "No:",
+   "conf": 0.95
+  },
+  {
+   "text": "28,",
+   "conf": 0.96
+  },
+  {
+   "text": "JALAN",
+   "conf": 0.9
+  },
+  {
+   "text": "ASTANA",
+   "conf": 0.93
+  },
+  {
+   "text": "1C",
+   "conf": 0.79
+  },
+  {
+   "text": "BANDAR",
+   "conf": 0.81
+  },
+  {
+   "text": "IsUKIT",
+   "conf": 0.0
+  },
+  {
+   "text": "RAJA,",
+   "conf": 0.92
+  },
+  {
+   "text": "41050",
+   "conf": 0.92
+  },
+  {
+   "text": "KLANG",
+   "conf": 0.95
+  },
+  {
+   "text": "SELANGOR",
+   "conf": 0.92
+  },
+  {
+   "text": "D,",
+   "conf": 0.87
+  },
+  {
+   "text": "E,",
+   "conf": 0.9
+  },
+  {
+   "text": "MALAYSIA",
+   "conf": 0.63
+  },
+  {
+   "text": "ROC",
+   "conf": 0.94
+  },
+  {
+   "text": "No.",
+   "conf": 0.88
+  },
+  {
+   "text": ":",
+   "conf": 0.63
+  },
+  {
+   "text": "(1072825-A)",
+   "conf": 0.63
+  },
+  {
+   "text": "GST",
+   "conf": 0.92
+  },
+  {
+   "text": "No.",
+   "conf": 0.92
+  },
+  {
+   "text": ":",
+   "conf": 0.84
+  },
+  {
+   "text": "000584089600",
+   "conf": 0.75
+  },
+  {
+   "text": "Tel:03-3362",
+   "conf": 0.91
+  },
+  {
+   "text": "4395",
+   "conf": 0.96
+  },
+  {
+   "text": "Fax:03-3362",
+   "conf": 0.88
+  },
+  {
+   "text": "4395",
+   "conf": 0.96
+  },
+  {
+   "text": "CREDIT",
+   "conf": 0.96
+  },
+  {
+   "text": "NOTE",
+   "conf": 0.96
+  },
+  {
+   "text": "Station:",
+   "conf": 0.95
+  },
+  {
+   "text": "CASHIER",
+   "conf": 0.96
+  },
+  {
+   "text": "C/N",
+   "conf": 0.96
+  },
+  {
+   "text": "No:",
+   "conf": 0.93
+  },
+  {
+   "text": "LCNO0212",
+   "conf": 0.61
+  },
+  {
+   "text": "Cashier:",
+   "conf": 0.96
+  },
+  {
+   "text": "ANGELA",
+   "conf": 0.96
+  },
+  {
+   "text": "Cover",
+   "conf": 0.79
+  },
+  {
+   "text": ":",
+   "conf": 0.43
+  },
+  {
+   "text": "1",
+   "conf": 0.89
+  },
+  {
+   "text": "Bill",
+   "conf": 0.92
+  },
+  {
+   "text": "Date",
+   "conf": 0.92
+  },
+  {
+   "text": ":",
+   "conf": 0.87
+  },
+  {
+   "text": "20/11/2017",
+   "conf": 0.96
+  },
+  {
+   "text": "Bill",
+   "conf": 0.95
+  },
+  {
+   "text": "Start;",
+   "conf": 0.8
+  },
+  {
+   "text": "20/11/2017",
+   "conf": 0.96
+  },
+  {
+   "text": "03:57:01",
+   "conf": 0.96
+  },
+  {
+   "text": "PM",
+   "conf": 0.96
+  },
+  {
+   "text": "Code",
+   "conf": 0.97
+  },
+  {
+   "text": ":",
+   "conf": 0.89
+  },
+  {
+   "text": "300-E0009",
+   "conf": 0.68
+  },
+  {
+   "text": "Name",
+   "conf": 0.75
+  },
+  {
+   "text": ":",
+   "conf": 0.84
+  },
+  {
+   "text": "ESWARAN",
+   "conf": 0.92
+  },
+  {
+   "text": "012-6369400",
+   "conf": 0.92
+  },
+  {
+   "text": "Address:",
+   "conf": 0.48
+  },
+  {
+   "text": "GST",
+   "conf": 0.88
+  },
+  {
+   "text": "No.",
+   "conf": 0.52
+  },
+  {
+   "text": ":",
+   "conf": 0.42
+  },
+  {
+   "text": "YT51129",
+   "conf": 0.9
+  },
+  {
+   "text": "SR",
+   "conf": 0.94
+  },
+  {
+   "text": "YE3G6",
+   "conf": 0.42
+  },
+  {
+   "text": "BK",
+   "conf": 0.92
+  },
+  {
+   "text": "12W",
+   "conf": 0.92
+  },
+  {
+   "text": "WW",
+   "conf": 0.94
+  },
+  {
+   "text": "LED",
+   "conf": 0.96
+  },
+  {
+   "text": "TRACK",
+   "conf": 0.96
+  },
+  {
+   "text": "LIGHT",
+   "conf": 0.96
+  },
+  {
+   "text": "-2",
+   "conf": 0.13
+  },
+  {
+   "text": "*",
+   "conf": 0.45
+  },
+  {
+   "text": "RM",
+   "conf": 0.93
+  },
+  {
+   "text": "45.29",
+   "conf": 0.93
+  },
+  {
+   "text": "UNI",
+   "conf": 0.88
+  },
+  {
+   "text": "(",
+   "conf": 0.34
+  },
+  {
+   "text": "5.43)=RM",
+   "conf": 0.64
+  },
+  {
+   "text": "90.",
+   "conf": 0.75
+  },
+  {
+   "text": "57",
+   "conf": 0.75
+  },
+  {
+   "text": "YT52683",
+   "conf": 0.73
+  },
+  {
+   "text": "SR",
+   "conf": 0.96
+  },
+  {
+   "text": "YE44",
+   "conf": 0.81
+  },
+  {
+   "text": "35W",
+   "conf": 0.81
+  },
+  {
+   "text": "WW",
+   "conf": 0.92
+  },
+  {
+   "text": "BK",
+   "conf": 0.96
+  },
+  {
+   "text": "TRACK",
+   "conf": 0.96
+  },
+  {
+   "text": "HOLDER",
+   "conf": 0.96
+  },
+  {
+   "text": "|",
+   "conf": 0.32
+  },
+  {
+   "text": "*",
+   "conf": 0.57
+  },
+  {
+   "text": "RM",
+   "conf": 0.94
+  },
+  {
+   "text": "155.66",
+   "conf": 0.94
+  },
+  {
+   "text": "UNI",
+   "conf": 0.9
+  },
+  {
+   "text": "(",
+   "conf": 0.61
+  },
+  {
+   "text": "9,34)=RM",
+   "conf": 0.39
+  },
+  {
+   "text": "155.66",
+   "conf": 0.85
+  },
+  {
+   "text": "CH50688",
+   "conf": 0.86
+  },
+  {
+   "text": "SR",
+   "conf": 0.96
+  },
+  {
+   "text": "IMETER",
+   "conf": 0.88
+  },
+  {
+   "text": "TRACK-BK",
+   "conf": 0.89
+  },
+  {
+   "text": "1",
+   "conf": 0.93
+  },
+  {
+   "text": "*",
+   "conf": 0.66
+  },
+  {
+   "text": "RM",
+   "conf": 0.94
+  },
+  {
+   "text": "16.99",
+   "conf": 0.94
+  },
+  {
+   "text": "UNI",
+   "conf": 0.9
+  },
+  {
+   "text": "(",
+   "conf": 0.9
+  },
+  {
+   "text": "1.01)",
+   "conf": 0.53
+  },
+  {
+   "text": "=RM",
+   "conf": 0.53
+  },
+  {
+   "text": "16.",
+   "conf": 0.93
+  },
+  {
+   "text": "79",
+   "conf": 0.93
+  },
+  {
+   "text": "-",
+   "conf": 0.85
+  },
+  {
+   "text": "SR",
+   "conf": 0.93
+  },
+  {
+   "text": "RM39.",
+   "conf": 0.87
+  },
+  {
+   "text": "80",
+   "conf": 0.94
+  },
+  {
+   "text": "CONTRA",
+   "conf": 0.93
+  },
+  {
+   "text": "W",
+   "conf": 0.91
+  },
+  {
+   "text": "LCNOO211",
+   "conf": 0.73
+  },
+  {
+   "text": "0",
+   "conf": 0.96
+  },
+  {
+   "text": "*",
+   "conf": 0.89
+  },
+  {
+   "text": "UNIT",
+   "conf": 0.96
+  },
+  {
+   "text": "Sub",
+   "conf": 0.96
+  },
+  {
+   "text": "Total",
+   "conf": 0.96
+  },
+  {
+   "text": ":",
+   "conf": 0.74
+  },
+  {
+   "text": "RM",
+   "conf": 0.78
+  },
+  {
+   "text": "263.",
+   "conf": 0.73
+  },
+  {
+   "text": "02",
+   "conf": 0.84
+  },
+  {
+   "text": "Item",
+   "conf": 0.95
+  },
+  {
+   "text": "Discount",
+   "conf": 0.96
+  },
+  {
+   "text": ";",
+   "conf": 0.85
+  },
+  {
+   "text": "RM",
+   "conf": 0.96
+  },
+  {
+   "text": "0/20",
+   "conf": 0.65
+  },
+  {
+   "text": "Service",
+   "conf": 0.96
+  },
+  {
+   "text": "Charge",
+   "conf": 0.72
+  },
+  {
+   "text": ":",
+   "conf": 0.72
+  },
+  {
+   "text": "RM",
+   "conf": 0.96
+  },
+  {
+   "text": "0),",
+   "conf": 0.74
+  },
+  {
+   "text": "00",
+   "conf": 0.87
+  },
+  {
+   "text": "GST/TAX",
+   "conf": 0.9
+  },
+  {
+   "text": "6%",
+   "conf": 0.96
+  },
+  {
+   "text": ":",
+   "conf": 0.5
+  },
+  {
+   "text": "RM",
+   "conf": 0.5
+  },
+  {
+   "text": "15.",
+   "conf": 0.5
+  },
+  {
+   "text": "78",
+   "conf": 0.83
+  },
+  {
+   "text": "TOT’",
+   "conf": 0.8
+  },
+  {
+   "text": ":",
+   "conf": 0.8
+  },
+  {
+   "text": "RM",
+   "conf": 0.92
+  },
+  {
+   "text": "278.80",
+   "conf": 0.92
+  },
+  {
+   "text": "CAS:",
+   "conf": 0.33
+  },
+  {
+   "text": ":",
+   "conf": 0.33
+  },
+  {
+   "text": "RM",
+   "conf": 0.89
+  },
+  {
+   "text": "278.80",
+   "conf": 0.89
+  },
+  {
+   "text": "CHANGE:",
+   "conf": 0.96
+  },
+  {
+   "text": "RM",
+   "conf": 0.96
+  },
+  {
+   "text": "50200)",
+   "conf": 0.37
+  },
+  {
+   "text": "a",
+   "conf": 0.24
+  },
+  {
+   "text": "Ttem",
+   "conf": 0.87
+  },
+  {
+   "text": "Count:",
+   "conf": 0.96
+  },
+  {
+   "text": "4",
+   "conf": 0.96
+  },
+  {
+   "text": "Qty",
+   "conf": 0.96
+  },
+  {
+   "text": "Count",
+   "conf": 0.91
+  },
+  {
+   "text": ":",
+   "conf": 0.77
+  },
+  {
+   "text": "4.0",
+   "conf": 0.95
+  },
+  {
+   "text": "Closed",
+   "conf": 0.96
+  },
+  {
+   "text": "Bill:",
+   "conf": 0.96
+  },
+  {
+   "text": "20/11/2017",
+   "conf": 0.96
+  },
+  {
+   "text": "04:01:23",
+   "conf": 0.96
+  },
+  {
+   "text": "PM",
+   "conf": 0.96
+  },
+  {
+   "text": "k",
+   "conf": 0.93
+  },
+  {
+   "text": "You,",
+   "conf": 0.96
+  },
+  {
+   "text": "Please",
+   "conf": 0.96
+  },
+  {
+   "text": "come",
+   "conf": 0.96
+  },
+  {
+   "text": "again.",
+   "conf": 0.96
+  },
+  {
+   "text": "Ree",
+   "conf": 0.11
+  },
+  {
+   "text": "Sold",
+   "conf": 0.96
+  },
+  {
+   "text": "are",
+   "conf": 0.96
+  },
+  {
+   "text": "not",
+   "conf": 0.96
+  },
+  {
+   "text": "refundable,",
+   "conf": 0.96
+  },
+  {
+   "text": "returnable",
+   "conf": 0.96
+  },
+  {
+   "text": "BANK",
+   "conf": 0.96
+  },
+  {
+   "text": "ACC",
+   "conf": 0.96
+  },
+  {
+   "text": "MBB",
+   "conf": 0.96
+  },
+  {
+   "text": "5128",
+   "conf": 0.96
+  },
+  {
+   "text": "4851",
+   "conf": 0.95
+  },
+  {
+   "text": "2118",
+   "conf": 0.95
+  },
+  {
+   "text": "BANK",
+   "conf": 0.96
+  },
+  {
+   "text": "ACC",
+   "conf": 0.88
+  },
+  {
+   "text": "MBB",
+   "conf": 0.94
+  },
+  {
+   "text": "5626",
+   "conf": 0.89
+  },
+  {
+   "text": "4732",
+   "conf": 0.89
+  },
+  {
+   "text": "1744",
+   "conf": 0.52
+  },
+  {
+   "text": "BANK",
+   "conf": 0.96
+  },
+  {
+   "text": "ACC",
+   "conf": 0.91
+  },
+  {
+   "text": "AMBANK",
+   "conf": 0.91
+  },
+  {
+   "text": "888",
+   "conf": 0.96
+  },
+  {
+   "text": "100",
+   "conf": 0.95
+  },
+  {
+   "text": "123",
+   "conf": 0.95
+  },
+  {
+   "text": "3706",
+   "conf": 0.96
+  },
+  {
+   "text": "GST",
+   "conf": 0.96
+  },
+  {
+   "text": "Summary",
+   "conf": 0.94
+  },
+  {
+   "text": "Amount",
+   "conf": 0.78
+  },
+  {
+   "text": "(RM)",
+   "conf": 0.95
+  },
+  {
+   "text": "Tax",
+   "conf": 0.91
+  },
+  {
+   "text": "(RM)",
+   "conf": 0.91
+  },
+  {
+   "text": "SR",
+   "conf": 0.92
+  },
+  {
+   "text": "@",
+   "conf": 0.88
+  },
+  {
+   "text": "6%",
+   "conf": 0.96
+  },
+  {
+   "text": "263.",
+   "conf": 0.84
+  },
+  {
+   "text": "02",
+   "conf": 0.92
+  },
+  {
+   "text": "15",
+   "conf": 0.95
+  },
+  {
+   "text": "7R/0S/EZ",
+   "conf": 0.7
+  },
+  {
+   "text": "0.",
+   "conf": 0.89
+  },
+  {
+   "text": "00",
+   "conf": 0.89
+  },
+  {
+   "text": "0.",
+   "conf": 0.94
+  },
+  {
+   "text": "00",
+   "conf": 0.94
+  }
+ ],
+ "mean_conf": 0.8406,
+ "low_conf_share": 0.0701,
+ "latency_ms": 2910,
+ "fields": {
+  "company": "LIGHTROOM GALLERY SDN BHD",
+  "date": "2017-11-20",
+  "total": 278.8
+ },
+ "rule_reasons": [
+  "total_no_keyword_fallback_max"
+ ],
+ "total_candidates": [
+  16.99,
+  1.01,
+  278.8,
+  278.8
+ ],
+ "key": "X51005301666"
+}

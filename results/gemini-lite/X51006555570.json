@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.1-flash-lite",
+ "provider": "gemini",
+ "raw_text": "{\n  \"vendor\": \"AA PHARMACY\",\n  \"date\": \"2017-08-11\",\n  \"subtotal\": 74.06,\n  \"tax\": 4.04,\n  \"tip\": null,\n  \"discount\": 0.0,\n  \"total\": 78.10,\n  \"currency\": \"MYR\",\n  \"confidence\": 0.98,\n  \"notes\": null\n}",
+ "data": {
+  "vendor": "AA PHARMACY",
+  "date": "2017-08-11",
+  "subtotal": 74.06,
+  "tax": 4.04,
+  "tip": null,
+  "discount": 0.0,
+  "total": 78.1,
+  "currency": "MYR",
+  "confidence": 0.98,
+  "notes": null
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1452,
+  "output_tokens": 110,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.000528,
+ "latency_ms": 19498,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.1-flash-lite",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.1-flash-lite"
+ ],
+ "key": "X51006555570"
+}

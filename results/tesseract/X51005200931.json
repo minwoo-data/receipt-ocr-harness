@@ -1,0 +1,718 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "PERNIAGAAN ZHENG HU!",
+  "JMO825966-V",
+  "NO.S2 JALAN PERMAS 915",
+  "BANDAR BARU PERMAS JAYA",
+  "81750 JOHOR BAHRU",
+  "TEL: 07-386 7524 FAX | 07-386 3794",
+  "GST NO: 000800580824",
+  "SIMPLIFIED TAX INVOICE",
+  "GOGIANT ENGINEERING (if) SDN BHD _ ~",
+  "Recelat# CS00082258",
+  "‘Salesperson, Date. 09/02/2078",
+  "Cashier: USER Time: 08:32:00",
+  "nr",
+  "tem Qty RSP Amount",
+  "6783 Woy 380 HBC",
+  "SR’ CERAMIC CAP",
+  "2084 $804 30 380 © 114.00 .",
+  "SR: SISTEEL 1/2\" STREET ELBOW",
+  "1760 GA 4 85.00 6.00",
+  "SR: 24MIN STARWELD RED HEAD TUNGSTEN ROD",
+  "3496 44 3 B00 99.00",
+  "SR: ESICUT 4\" CUTTING DISC (4BOX)-50PCS",
+  "2480 GA 2 43.00 -86.0¢",
+  "SR: WELDRO PICKLING GEL 1K",
+  "9428 Ge 4 1900 4a.0c",
+  "SR: 13.5\" WELDING GLOVE- GREEN (@3}",
+  "TOT QT BBE",
+  "(Excluded GST) Sub Total (Rt) 411.50",
+  "Discount (RM) ooo 3",
+  "Total GST (RM) 24.69",
+  "Rounding (RM) : 0.0%",
+  "Total (RM): 436.20",
+  "GASH : 436.20",
+  "Ghange (RM} : 0.00",
+  "GST SUMMARY",
+  "_TaxGode %@ Amount GST.",
+  "SR 6 417.50 24.69",
+  "gta TO BL",
+  "GOODS SOLD ARE NOT RETURNABLE,",
+  "THANK YOU. ."
+ ],
+ "tokens": [
+  {
+   "text": "PERNIAGAAN",
+   "conf": 0.92
+  },
+  {
+   "text": "ZHENG",
+   "conf": 0.96
+  },
+  {
+   "text": "HU!",
+   "conf": 0.6
+  },
+  {
+   "text": "JMO825966-V",
+   "conf": 0.42
+  },
+  {
+   "text": "NO.S2",
+   "conf": 0.0
+  },
+  {
+   "text": "JALAN",
+   "conf": 0.93
+  },
+  {
+   "text": "PERMAS",
+   "conf": 0.93
+  },
+  {
+   "text": "915",
+   "conf": 0.63
+  },
+  {
+   "text": "BANDAR",
+   "conf": 0.91
+  },
+  {
+   "text": "BARU",
+   "conf": 0.93
+  },
+  {
+   "text": "PERMAS",
+   "conf": 0.92
+  },
+  {
+   "text": "JAYA",
+   "conf": 0.91
+  },
+  {
+   "text": "81750",
+   "conf": 0.92
+  },
+  {
+   "text": "JOHOR",
+   "conf": 0.93
+  },
+  {
+   "text": "BAHRU",
+   "conf": 0.89
+  },
+  {
+   "text": "TEL:",
+   "conf": 0.0
+  },
+  {
+   "text": "07-386",
+   "conf": 0.0
+  },
+  {
+   "text": "7524",
+   "conf": 0.62
+  },
+  {
+   "text": "FAX",
+   "conf": 0.62
+  },
+  {
+   "text": "|",
+   "conf": 0.33
+  },
+  {
+   "text": "07-386",
+   "conf": 0.35
+  },
+  {
+   "text": "3794",
+   "conf": 0.71
+  },
+  {
+   "text": "GST",
+   "conf": 0.87
+  },
+  {
+   "text": "NO:",
+   "conf": 0.64
+  },
+  {
+   "text": "000800580824",
+   "conf": 0.46
+  },
+  {
+   "text": "SIMPLIFIED",
+   "conf": 0.93
+  },
+  {
+   "text": "TAX",
+   "conf": 0.96
+  },
+  {
+   "text": "INVOICE",
+   "conf": 0.95
+  },
+  {
+   "text": "GOGIANT",
+   "conf": 0.9
+  },
+  {
+   "text": "ENGINEERING",
+   "conf": 0.96
+  },
+  {
+   "text": "(if)",
+   "conf": 0.59
+  },
+  {
+   "text": "SDN",
+   "conf": 0.74
+  },
+  {
+   "text": "BHD",
+   "conf": 0.74
+  },
+  {
+   "text": "_",
+   "conf": 0.2
+  },
+  {
+   "text": "~",
+   "conf": 0.65
+  },
+  {
+   "text": "Recelat#",
+   "conf": 0.36
+  },
+  {
+   "text": "CS00082258",
+   "conf": 0.29
+  },
+  {
+   "text": "‘Salesperson,",
+   "conf": 0.71
+  },
+  {
+   "text": "Date.",
+   "conf": 0.77
+  },
+  {
+   "text": "09/02/2078",
+   "conf": 0.74
+  },
+  {
+   "text": "Cashier:",
+   "conf": 0.95
+  },
+  {
+   "text": "USER",
+   "conf": 0.96
+  },
+  {
+   "text": "Time:",
+   "conf": 0.17
+  },
+  {
+   "text": "08:32:00",
+   "conf": 0.17
+  },
+  {
+   "text": "nr",
+   "conf": 0.13
+  },
+  {
+   "text": "tem",
+   "conf": 0.0
+  },
+  {
+   "text": "Qty",
+   "conf": 0.63
+  },
+  {
+   "text": "RSP",
+   "conf": 0.4
+  },
+  {
+   "text": "Amount",
+   "conf": 0.61
+  },
+  {
+   "text": "6783",
+   "conf": 0.66
+  },
+  {
+   "text": "Woy",
+   "conf": 0.17
+  },
+  {
+   "text": "380",
+   "conf": 0.39
+  },
+  {
+   "text": "HBC",
+   "conf": 0.32
+  },
+  {
+   "text": "SR’",
+   "conf": 0.44
+  },
+  {
+   "text": "CERAMIC",
+   "conf": 0.75
+  },
+  {
+   "text": "CAP",
+   "conf": 0.94
+  },
+  {
+   "text": "2084",
+   "conf": 0.73
+  },
+  {
+   "text": "$804",
+   "conf": 0.54
+  },
+  {
+   "text": "30",
+   "conf": 0.4
+  },
+  {
+   "text": "380",
+   "conf": 0.55
+  },
+  {
+   "text": "©",
+   "conf": 0.33
+  },
+  {
+   "text": "114.00",
+   "conf": 0.58
+  },
+  {
+   "text": ".",
+   "conf": 0.0
+  },
+  {
+   "text": "SR:",
+   "conf": 0.91
+  },
+  {
+   "text": "SISTEEL",
+   "conf": 0.8
+  },
+  {
+   "text": "1/2\"",
+   "conf": 0.9
+  },
+  {
+   "text": "STREET",
+   "conf": 0.93
+  },
+  {
+   "text": "ELBOW",
+   "conf": 0.95
+  },
+  {
+   "text": "1760",
+   "conf": 0.88
+  },
+  {
+   "text": "GA",
+   "conf": 0.62
+  },
+  {
+   "text": "4",
+   "conf": 0.58
+  },
+  {
+   "text": "85.00",
+   "conf": 0.48
+  },
+  {
+   "text": "6.00",
+   "conf": 0.37
+  },
+  {
+   "text": "SR:",
+   "conf": 0.93
+  },
+  {
+   "text": "24MIN",
+   "conf": 0.14
+  },
+  {
+   "text": "STARWELD",
+   "conf": 0.92
+  },
+  {
+   "text": "RED",
+   "conf": 0.96
+  },
+  {
+   "text": "HEAD",
+   "conf": 0.96
+  },
+  {
+   "text": "TUNGSTEN",
+   "conf": 0.96
+  },
+  {
+   "text": "ROD",
+   "conf": 0.9
+  },
+  {
+   "text": "3496",
+   "conf": 0.84
+  },
+  {
+   "text": "44",
+   "conf": 0.47
+  },
+  {
+   "text": "3",
+   "conf": 0.53
+  },
+  {
+   "text": "B00",
+   "conf": 0.0
+  },
+  {
+   "text": "99.00",
+   "conf": 0.52
+  },
+  {
+   "text": "SR:",
+   "conf": 0.74
+  },
+  {
+   "text": "ESICUT",
+   "conf": 0.74
+  },
+  {
+   "text": "4\"",
+   "conf": 0.83
+  },
+  {
+   "text": "CUTTING",
+   "conf": 0.9
+  },
+  {
+   "text": "DISC",
+   "conf": 0.64
+  },
+  {
+   "text": "(4BOX)-50PCS",
+   "conf": 0.4
+  },
+  {
+   "text": "2480",
+   "conf": 0.55
+  },
+  {
+   "text": "GA",
+   "conf": 0.7
+  },
+  {
+   "text": "2",
+   "conf": 0.53
+  },
+  {
+   "text": "43.00",
+   "conf": 0.49
+  },
+  {
+   "text": "-86.0¢",
+   "conf": 0.05
+  },
+  {
+   "text": "SR:",
+   "conf": 0.74
+  },
+  {
+   "text": "WELDRO",
+   "conf": 0.74
+  },
+  {
+   "text": "PICKLING",
+   "conf": 0.93
+  },
+  {
+   "text": "GEL",
+   "conf": 0.95
+  },
+  {
+   "text": "1K",
+   "conf": 0.61
+  },
+  {
+   "text": "9428",
+   "conf": 0.91
+  },
+  {
+   "text": "Ge",
+   "conf": 0.73
+  },
+  {
+   "text": "4",
+   "conf": 0.77
+  },
+  {
+   "text": "1900",
+   "conf": 0.65
+  },
+  {
+   "text": "4a.0c",
+   "conf": 0.23
+  },
+  {
+   "text": "SR:",
+   "conf": 0.79
+  },
+  {
+   "text": "13.5\"",
+   "conf": 0.79
+  },
+  {
+   "text": "WELDING",
+   "conf": 0.93
+  },
+  {
+   "text": "GLOVE-",
+   "conf": 0.9
+  },
+  {
+   "text": "GREEN",
+   "conf": 0.93
+  },
+  {
+   "text": "(@3}",
+   "conf": 0.0
+  },
+  {
+   "text": "TOT",
+   "conf": 0.57
+  },
+  {
+   "text": "QT",
+   "conf": 0.29
+  },
+  {
+   "text": "BBE",
+   "conf": 0.16
+  },
+  {
+   "text": "(Excluded",
+   "conf": 0.84
+  },
+  {
+   "text": "GST)",
+   "conf": 0.94
+  },
+  {
+   "text": "Sub",
+   "conf": 0.96
+  },
+  {
+   "text": "Total",
+   "conf": 0.95
+  },
+  {
+   "text": "(Rt)",
+   "conf": 0.26
+  },
+  {
+   "text": "411.50",
+   "conf": 0.62
+  },
+  {
+   "text": "Discount",
+   "conf": 0.95
+  },
+  {
+   "text": "(RM)",
+   "conf": 0.95
+  },
+  {
+   "text": "ooo",
+   "conf": 0.34
+  },
+  {
+   "text": "3",
+   "conf": 0.58
+  },
+  {
+   "text": "Total",
+   "conf": 0.49
+  },
+  {
+   "text": "GST",
+   "conf": 0.85
+  },
+  {
+   "text": "(RM)",
+   "conf": 0.65
+  },
+  {
+   "text": "24.69",
+   "conf": 0.78
+  },
+  {
+   "text": "Rounding",
+   "conf": 0.95
+  },
+  {
+   "text": "(RM)",
+   "conf": 0.91
+  },
+  {
+   "text": ":",
+   "conf": 0.61
+  },
+  {
+   "text": "0.0%",
+   "conf": 0.78
+  },
+  {
+   "text": "Total",
+   "conf": 0.63
+  },
+  {
+   "text": "(RM):",
+   "conf": 0.5
+  },
+  {
+   "text": "436.20",
+   "conf": 0.68
+  },
+  {
+   "text": "GASH",
+   "conf": 0.88
+  },
+  {
+   "text": ":",
+   "conf": 0.74
+  },
+  {
+   "text": "436.20",
+   "conf": 0.87
+  },
+  {
+   "text": "Ghange",
+   "conf": 0.89
+  },
+  {
+   "text": "(RM}",
+   "conf": 0.86
+  },
+  {
+   "text": ":",
+   "conf": 0.83
+  },
+  {
+   "text": "0.00",
+   "conf": 0.95
+  },
+  {
+   "text": "GST",
+   "conf": 0.92
+  },
+  {
+   "text": "SUMMARY",
+   "conf": 0.96
+  },
+  {
+   "text": "_TaxGode",
+   "conf": 0.31
+  },
+  {
+   "text": "%@",
+   "conf": 0.31
+  },
+  {
+   "text": "Amount",
+   "conf": 0.34
+  },
+  {
+   "text": "GST.",
+   "conf": 0.19
+  },
+  {
+   "text": "SR",
+   "conf": 0.91
+  },
+  {
+   "text": "6",
+   "conf": 0.77
+  },
+  {
+   "text": "417.50",
+   "conf": 0.78
+  },
+  {
+   "text": "24.69",
+   "conf": 0.78
+  },
+  {
+   "text": "gta",
+   "conf": 0.16
+  },
+  {
+   "text": "TO",
+   "conf": 0.38
+  },
+  {
+   "text": "BL",
+   "conf": 0.2
+  },
+  {
+   "text": "GOODS",
+   "conf": 0.73
+  },
+  {
+   "text": "SOLD",
+   "conf": 0.96
+  },
+  {
+   "text": "ARE",
+   "conf": 0.96
+  },
+  {
+   "text": "NOT",
+   "conf": 0.96
+  },
+  {
+   "text": "RETURNABLE,",
+   "conf": 0.75
+  },
+  {
+   "text": "THANK",
+   "conf": 0.96
+  },
+  {
+   "text": "YOU.",
+   "conf": 0.87
+  },
+  {
+   "text": ".",
+   "conf": 0.0
+  }
+ ],
+ "mean_conf": 0.6518,
+ "low_conf_share": 0.2744,
+ "latency_ms": 589,
+ "fields": {
+  "company": "PERNIAGAAN ZHENG HU",
+  "date": null,
+  "total": 436.2
+ },
+ "rule_reasons": [
+  "date_not_found"
+ ],
+ "total_candidates": [
+  436.2
+ ],
+ "key": "X51005200931"
+}

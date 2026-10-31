@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.6-flash",
+ "provider": "gemini",
+ "raw_text": "{\"vendor\": \"GL HANDICRAFT & TAILORING\", \"date\": \"2018-04-09\", \"subtotal\": 104.0, \"tax\": 5.89, \"tip\": null, \"discount\": null, \"total\": 104.0, \"currency\": \"MYR\", \"confidence\": 0.95, \"notes\": null}",
+ "data": {
+  "vendor": "GL HANDICRAFT & TAILORING",
+  "date": "2018-04-09",
+  "subtotal": 104.0,
+  "tax": 5.89,
+  "tip": null,
+  "discount": null,
+  "total": 104.0,
+  "currency": "MYR",
+  "confidence": 0.95,
+  "notes": null
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1447,
+  "output_tokens": 90,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.001423,
+ "latency_ms": 1803,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.6-flash",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.6-flash"
+ ],
+ "key": "X51006350763"
+}

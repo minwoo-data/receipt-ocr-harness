@@ -1,0 +1,142 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "SUNRISEPHARMACYSDNBHD",
+  "88JALAN AMPANG,KUALA LUMPUR",
+  "TAXINVOICE",
+  "Date:21/10/2024 Time:13:42",
+  "2xUSB CABLE1M 39.80",
+  "3x MINERALWATER1.5L 6.60",
+  "2x WHOLEMEALBREAD 9.00",
+  "SUBTOTAL 55.40",
+  "GST6% 3.32",
+  "TOTALSAVINGS 16.62",
+  "TOTAL 58.72",
+  "CASH 63.72",
+  "CHANGE 5.00",
+  "THANK YOU,PLEASE COMEAGAIN"
+ ],
+ "tokens": [
+  {
+   "text": "SUNRISEPHARMACYSDNBHD",
+   "conf": 0.9939232496988206
+  },
+  {
+   "text": "88JALAN AMPANG,KUALA LUMPUR",
+   "conf": 0.9468897581100464
+  },
+  {
+   "text": "TAXINVOICE",
+   "conf": 0.9952874779701233
+  },
+  {
+   "text": "Date:21/10/2024",
+   "conf": 0.9893442273139954
+  },
+  {
+   "text": "Time:13:42",
+   "conf": 0.9702972829341888
+  },
+  {
+   "text": "2xUSB",
+   "conf": 0.8943075120449067
+  },
+  {
+   "text": "CABLE1M",
+   "conf": 0.9964071682521275
+  },
+  {
+   "text": "39.80",
+   "conf": 0.9994373917579651
+  },
+  {
+   "text": "3x",
+   "conf": 0.8341864049434662
+  },
+  {
+   "text": "MINERALWATER1.5L",
+   "conf": 0.9911280311644077
+  },
+  {
+   "text": "6.60",
+   "conf": 0.9993414580821991
+  },
+  {
+   "text": "2x",
+   "conf": 0.8260909914970398
+  },
+  {
+   "text": "WHOLEMEALBREAD",
+   "conf": 0.9909765720367432
+  },
+  {
+   "text": "9.00",
+   "conf": 0.998962789773941
+  },
+  {
+   "text": "SUBTOTAL",
+   "conf": 0.9885600209236145
+  },
+  {
+   "text": "55.40",
+   "conf": 0.9985971450805664
+  },
+  {
+   "text": "GST6%",
+   "conf": 0.9973636388778686
+  },
+  {
+   "text": "3.32",
+   "conf": 0.9952990710735321
+  },
+  {
+   "text": "TOTALSAVINGS",
+   "conf": 0.9921399305264155
+  },
+  {
+   "text": "16.62",
+   "conf": 0.9998875617980957
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.9933000087738038
+  },
+  {
+   "text": "58.72",
+   "conf": 0.9989894151687622
+  },
+  {
+   "text": "CASH",
+   "conf": 0.9951638877391815
+  },
+  {
+   "text": "63.72",
+   "conf": 0.9998883485794068
+  },
+  {
+   "text": "CHANGE",
+   "conf": 0.9961973329385122
+  },
+  {
+   "text": "5.00",
+   "conf": 0.9992438554763794
+  },
+  {
+   "text": "THANK YOU,PLEASE COMEAGAIN",
+   "conf": 0.9500774076351752
+  }
+ ],
+ "mean_conf": 0.9752,
+ "low_conf_share": 0.0,
+ "latency_ms": 19734,
+ "fields": {
+  "company": "SUNRISEPHARMACYSDNBHD",
+  "date": "2024-10-21",
+  "total": 58.72
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  58.72
+ ],
+ "key": "SYN018"
+}

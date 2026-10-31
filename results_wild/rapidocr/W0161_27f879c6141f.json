@@ -1,0 +1,158 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "PEGASUS ON THE FLY",
+  "Midway Airport",
+  "www.pegasusonthefly.com",
+  "Ph:773-581-1522",
+  "Date:Jan31,2017 18:17:38",
+  "TableTransId:3105458",
+  "TransId:3105458",
+  "Server:abigail",
+  "Gyros Pita,Fries 66:8",
+  "Large Soft Drink 2.59",
+  "Greek Cookies 3pcs 2.29",
+  "Subtotal 13.87",
+  "Tax1 1.30",
+  "Tax2 0.38",
+  "Total 15.55",
+  "VISA(Completed) -15.55",
+  "Balance 0.00",
+  "********************",
+  "Order#:2-490",
+  "********************"
+ ],
+ "tokens": [
+  {
+   "text": "PEGASUS ON THE FLY",
+   "conf": 0.9357234206464555
+  },
+  {
+   "text": "Midway Airport",
+   "conf": 0.9658100519861493
+  },
+  {
+   "text": "www.pegasusonthefly.com",
+   "conf": 0.9733585041502247
+  },
+  {
+   "text": "Ph:773-581-1522",
+   "conf": 0.9898893555005391
+  },
+  {
+   "text": "Date:Jan31,2017 18:17:38",
+   "conf": 0.946585809191068
+  },
+  {
+   "text": "TableTransId:3105458",
+   "conf": 0.982069805264473
+  },
+  {
+   "text": "TransId:3105458",
+   "conf": 0.9715378363927205
+  },
+  {
+   "text": "Server:abigail",
+   "conf": 0.9709426377500806
+  },
+  {
+   "text": "Gyros Pita,Fries",
+   "conf": 0.9560098350048065
+  },
+  {
+   "text": "66:8",
+   "conf": 0.8289123103022575
+  },
+  {
+   "text": "Large Soft Drink",
+   "conf": 0.9709193482995033
+  },
+  {
+   "text": "2.59",
+   "conf": 0.995850220322609
+  },
+  {
+   "text": "Greek Cookies 3pcs",
+   "conf": 0.972501254744
+  },
+  {
+   "text": "2.29",
+   "conf": 0.9944949895143509
+  },
+  {
+   "text": "Subtotal",
+   "conf": 0.9908571615815163
+  },
+  {
+   "text": "13.87",
+   "conf": 0.9935979604721069
+  },
+  {
+   "text": "Tax1",
+   "conf": 0.9757008701562881
+  },
+  {
+   "text": "1.30",
+   "conf": 0.8718586564064026
+  },
+  {
+   "text": "Tax2",
+   "conf": 0.9763607382774353
+  },
+  {
+   "text": "0.38",
+   "conf": 0.9934624284505844
+  },
+  {
+   "text": "Total",
+   "conf": 0.9928765416145324
+  },
+  {
+   "text": "15.55",
+   "conf": 0.9970682740211487
+  },
+  {
+   "text": "VISA(Completed)",
+   "conf": 0.9247727990150452
+  },
+  {
+   "text": "-15.55",
+   "conf": 0.9892451167106628
+  },
+  {
+   "text": "Balance",
+   "conf": 0.9903012343815395
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9945636838674545
+  },
+  {
+   "text": "********************",
+   "conf": 0.9917346447706222
+  },
+  {
+   "text": "Order#:2-490",
+   "conf": 0.949255496263504
+  },
+  {
+   "text": "********************",
+   "conf": 0.9922618210315705
+  }
+ ],
+ "mean_conf": 0.9682,
+ "low_conf_share": 0.0,
+ "latency_ms": 2494,
+ "fields": {
+  "company": "PEGASUS ON THE FLY",
+  "date": null,
+  "total": 15.55
+ },
+ "rule_reasons": [
+  "date_not_found"
+ ],
+ "total_candidates": [
+  15.55
+ ],
+ "key": "W0161_27f879c6141f"
+}

@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.6-flash",
+ "provider": "gemini",
+ "raw_text": "{\"vendor\": \"ELKEN SERVICE SDN BHD\", \"date\": \"2017-10-10\", \"subtotal\": 235.85, \"tax\": 14.15, \"tip\": null, \"discount\": null, \"total\": 250.0, \"currency\": \"MYR\", \"confidence\": 0.98, \"notes\": null}",
+ "data": {
+  "vendor": "ELKEN SERVICE SDN BHD",
+  "date": "2017-10-10",
+  "subtotal": 235.85,
+  "tax": 14.15,
+  "tip": null,
+  "discount": null,
+  "total": 250.0,
+  "currency": "MYR",
+  "confidence": 0.98,
+  "notes": null
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1423,
+  "output_tokens": 89,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.001401,
+ "latency_ms": 1817,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.6-flash",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.6-flash"
+ ],
+ "key": "X51006389963"
+}

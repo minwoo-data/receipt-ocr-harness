@@ -1,0 +1,141 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "POSTEE",
+  "99SFEE0HART5/B (519537-X)",
+  "LOT P.T.2811,JALAN ANGS0,",
+  "TANON BERKELEY",
+  "411SO MLANG,SELAMGOR",
+  "1032-SUBANG PERDANA",
+  "GST 10.N0:080181747712",
+  "INVO1CE N0:18839/103/T0209",
+  "04:569H 565420 21-05-17",
+  "154AJIN00T01K8 RH20.903",
+  "02XRN10.40",
+  "Total 5ales （lnclvzive 051)R 20.90",
+  "CASH RH 21.00",
+  "CHANGE RM .20",
+  "GST Sum8ry ABount(RN) Tax(RH)",
+  "19.62 1.18",
+  "Thank You.Please come again"
+ ],
+ "tokens": [
+  {
+   "text": "POSTEE",
+   "conf": 0.8909917374451956
+  },
+  {
+   "text": "99SFEE0HART5/B (519537-X)",
+   "conf": 0.8645161974430084
+  },
+  {
+   "text": "LOT P.T.2811,JALAN ANGS0,",
+   "conf": 0.8238366150856018
+  },
+  {
+   "text": "TANON BERKELEY",
+   "conf": 0.9592079179627555
+  },
+  {
+   "text": "411SO MLANG,SELAMGOR",
+   "conf": 0.8455390632152557
+  },
+  {
+   "text": "1032-SUBANG PERDANA",
+   "conf": 0.8834512437644758
+  },
+  {
+   "text": "GST 10.N0:080181747712",
+   "conf": 0.8703231296756051
+  },
+  {
+   "text": "INVO1CE N0:18839/103/T0209",
+   "conf": 0.8819677898517022
+  },
+  {
+   "text": "04:569H",
+   "conf": 0.807007053068706
+  },
+  {
+   "text": "565420",
+   "conf": 0.9897634585698446
+  },
+  {
+   "text": "21-05-17",
+   "conf": 0.984871156513691
+  },
+  {
+   "text": "154AJIN00T01K8",
+   "conf": 0.8662524393626622
+  },
+  {
+   "text": "RH20.903",
+   "conf": 0.7373943664133549
+  },
+  {
+   "text": "02XRN10.40",
+   "conf": 0.8958606064319611
+  },
+  {
+   "text": "Total 5ales （lnclvzive 051)R",
+   "conf": 0.7265712980713163
+  },
+  {
+   "text": "20.90",
+   "conf": 0.8988280534744263
+  },
+  {
+   "text": "CASH RH",
+   "conf": 0.8793721709932599
+  },
+  {
+   "text": "21.00",
+   "conf": 0.9815643548965454
+  },
+  {
+   "text": "CHANGE RM",
+   "conf": 0.8841870890723335
+  },
+  {
+   "text": ".20",
+   "conf": 0.9796347220738729
+  },
+  {
+   "text": "GST Sum8ry",
+   "conf": 0.5990627735853196
+  },
+  {
+   "text": "ABount(RN)",
+   "conf": 0.6093989551067353
+  },
+  {
+   "text": "Tax(RH)",
+   "conf": 0.852000321660723
+  },
+  {
+   "text": "19.62",
+   "conf": 0.9946703553199768
+  },
+  {
+   "text": "1.18",
+   "conf": 0.9191804230213165
+  },
+  {
+   "text": "Thank You.Please come again",
+   "conf": 0.8623889728828713
+  }
+ ],
+ "mean_conf": 0.8649,
+ "low_conf_share": 0.0,
+ "latency_ms": 3322,
+ "fields": {
+  "company": "POSTEE",
+  "date": "2017-05-21",
+  "total": 20.9
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  20.9
+ ],
+ "key": "X51006388065"
+}

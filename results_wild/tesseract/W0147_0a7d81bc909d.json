@@ -1,0 +1,260 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "Black Diamond Car Wash",
+  "1414 Hecla Way",
+  "Louisville, CO 80027",
+  "303-666-6696",
+  "WashCashier1, 01/15/15, 10:49 AM",
+  "Shift 1, Empl 1, Sale # 52882706688",
+  "1 Express Wax Wash 29.95",
+  "i Mini /SUV-ExpWaxWsh 3.00",
+  "4 Seats Lthr/Vinyl 9.00",
+  "1 Rims 6.00",
+  "Subtotal 47.95",
+  "Sales Tax 0.00",
+  "Total 47.95",
+  "DISCOVER 47.95",
+  "Your wash service advisor was Owner, #1.",
+  "Car# 32s"
+ ],
+ "tokens": [
+  {
+   "text": "Black",
+   "conf": 0.96
+  },
+  {
+   "text": "Diamond",
+   "conf": 0.96
+  },
+  {
+   "text": "Car",
+   "conf": 0.96
+  },
+  {
+   "text": "Wash",
+   "conf": 0.86
+  },
+  {
+   "text": "1414",
+   "conf": 0.93
+  },
+  {
+   "text": "Hecla",
+   "conf": 0.9
+  },
+  {
+   "text": "Way",
+   "conf": 0.91
+  },
+  {
+   "text": "Louisville,",
+   "conf": 0.96
+  },
+  {
+   "text": "CO",
+   "conf": 0.93
+  },
+  {
+   "text": "80027",
+   "conf": 0.91
+  },
+  {
+   "text": "303-666-6696",
+   "conf": 0.96
+  },
+  {
+   "text": "WashCashier1,",
+   "conf": 0.68
+  },
+  {
+   "text": "01/15/15,",
+   "conf": 0.86
+  },
+  {
+   "text": "10:49",
+   "conf": 0.95
+  },
+  {
+   "text": "AM",
+   "conf": 0.96
+  },
+  {
+   "text": "Shift",
+   "conf": 0.96
+  },
+  {
+   "text": "1,",
+   "conf": 0.96
+  },
+  {
+   "text": "Empl",
+   "conf": 0.77
+  },
+  {
+   "text": "1,",
+   "conf": 0.94
+  },
+  {
+   "text": "Sale",
+   "conf": 0.91
+  },
+  {
+   "text": "#",
+   "conf": 0.91
+  },
+  {
+   "text": "52882706688",
+   "conf": 0.94
+  },
+  {
+   "text": "1",
+   "conf": 0.92
+  },
+  {
+   "text": "Express",
+   "conf": 0.95
+  },
+  {
+   "text": "Wax",
+   "conf": 0.96
+  },
+  {
+   "text": "Wash",
+   "conf": 0.92
+  },
+  {
+   "text": "29.95",
+   "conf": 0.94
+  },
+  {
+   "text": "i",
+   "conf": 0.3
+  },
+  {
+   "text": "Mini",
+   "conf": 0.83
+  },
+  {
+   "text": "/SUV-ExpWaxWsh",
+   "conf": 0.68
+  },
+  {
+   "text": "3.00",
+   "conf": 0.96
+  },
+  {
+   "text": "4",
+   "conf": 0.53
+  },
+  {
+   "text": "Seats",
+   "conf": 0.93
+  },
+  {
+   "text": "Lthr/Vinyl",
+   "conf": 0.47
+  },
+  {
+   "text": "9.00",
+   "conf": 0.95
+  },
+  {
+   "text": "1",
+   "conf": 0.95
+  },
+  {
+   "text": "Rims",
+   "conf": 0.95
+  },
+  {
+   "text": "6.00",
+   "conf": 0.94
+  },
+  {
+   "text": "Subtotal",
+   "conf": 0.96
+  },
+  {
+   "text": "47.95",
+   "conf": 0.93
+  },
+  {
+   "text": "Sales",
+   "conf": 0.96
+  },
+  {
+   "text": "Tax",
+   "conf": 0.96
+  },
+  {
+   "text": "0.00",
+   "conf": 0.96
+  },
+  {
+   "text": "Total",
+   "conf": 0.96
+  },
+  {
+   "text": "47.95",
+   "conf": 0.91
+  },
+  {
+   "text": "DISCOVER",
+   "conf": 0.96
+  },
+  {
+   "text": "47.95",
+   "conf": 0.96
+  },
+  {
+   "text": "Your",
+   "conf": 0.96
+  },
+  {
+   "text": "wash",
+   "conf": 0.96
+  },
+  {
+   "text": "service",
+   "conf": 0.96
+  },
+  {
+   "text": "advisor",
+   "conf": 0.96
+  },
+  {
+   "text": "was",
+   "conf": 0.96
+  },
+  {
+   "text": "Owner,",
+   "conf": 0.96
+  },
+  {
+   "text": "#1.",
+   "conf": 0.93
+  },
+  {
+   "text": "Car#",
+   "conf": 0.75
+  },
+  {
+   "text": "32s",
+   "conf": 0.69
+  }
+ ],
+ "mean_conf": 0.892,
+ "low_conf_share": 0.0357,
+ "latency_ms": 511,
+ "fields": {
+  "company": "LOUISVILLE CO",
+  "date": "2015-01-15",
+  "total": 47.95
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  47.95
+ ],
+ "key": "W0147_0a7d81bc909d"
+}

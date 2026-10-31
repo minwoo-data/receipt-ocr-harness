@@ -1,0 +1,186 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "IN-N-OUT BURGER SANTA CLARA",
+  "E",
+  "SANTA CLARA,CA 95054",
+  "(800)786-1000",
+  "Store#176",
+  "2015-01-16",
+  "CREDIT SALE",
+  "CHB 2.45",
+  ">Animal",
+  "FF 1.60",
+  "Drive-Eat In 4.05",
+  "TAX8.75% .35",
+  "Amount Due $4.40",
+  "CHARGEDETAIL",
+  "Name:",
+  "Card Type: American Express",
+  "Account: *********** S",
+  "Auth Code: 588484",
+  "Trans #: 4408",
+  "AUTH AMT: $4.40",
+  "2015-01-16 L1T6 8:",
+  "CUSTOMER COPY"
+ ],
+ "tokens": [
+  {
+   "text": "IN-N-OUT BURGER SANTA CLARA",
+   "conf": 0.9650398536964699
+  },
+  {
+   "text": "E",
+   "conf": 0.5220568180084229
+  },
+  {
+   "text": "SANTA CLARA,CA 95054",
+   "conf": 0.9506443411111831
+  },
+  {
+   "text": "(800)786-1000",
+   "conf": 0.9693064368688143
+  },
+  {
+   "text": "Store#176",
+   "conf": 0.9837405747837491
+  },
+  {
+   "text": "2015-01-16",
+   "conf": 0.9963518857955933
+  },
+  {
+   "text": "CREDIT",
+   "conf": 0.9936833083629608
+  },
+  {
+   "text": "SALE",
+   "conf": 0.9872396439313889
+  },
+  {
+   "text": "CHB",
+   "conf": 0.989728848139445
+  },
+  {
+   "text": "2.45",
+   "conf": 0.9951010644435883
+  },
+  {
+   "text": ">Animal",
+   "conf": 0.8841868128095355
+  },
+  {
+   "text": "FF",
+   "conf": 0.9880354404449463
+  },
+  {
+   "text": "1.60",
+   "conf": 0.987170621752739
+  },
+  {
+   "text": "Drive-Eat In",
+   "conf": 0.973453069726626
+  },
+  {
+   "text": "4.05",
+   "conf": 0.9942291975021362
+  },
+  {
+   "text": "TAX8.75%",
+   "conf": 0.9924757182598114
+  },
+  {
+   "text": ".35",
+   "conf": 0.9615598519643148
+  },
+  {
+   "text": "Amount Due",
+   "conf": 0.9600883364677429
+  },
+  {
+   "text": "$4.40",
+   "conf": 0.9955765128135681
+  },
+  {
+   "text": "CHARGEDETAIL",
+   "conf": 0.9937426050504049
+  },
+  {
+   "text": "Name:",
+   "conf": 0.9810131549835205
+  },
+  {
+   "text": "Card Type:",
+   "conf": 0.9266783237457276
+  },
+  {
+   "text": "American Express",
+   "conf": 0.9603368379175663
+  },
+  {
+   "text": "Account:",
+   "conf": 0.9605695009231567
+  },
+  {
+   "text": "***********",
+   "conf": 0.9757305979728699
+  },
+  {
+   "text": "S",
+   "conf": 0.9602422118186951
+  },
+  {
+   "text": "Auth Code:",
+   "conf": 0.975233519077301
+  },
+  {
+   "text": "588484",
+   "conf": 0.9972539146741232
+  },
+  {
+   "text": "Trans #:",
+   "conf": 0.8879666328430176
+  },
+  {
+   "text": "4408",
+   "conf": 0.9977355450391769
+  },
+  {
+   "text": "AUTH AMT:",
+   "conf": 0.9288517700301276
+  },
+  {
+   "text": "$4.40",
+   "conf": 0.9955335974693298
+  },
+  {
+   "text": "2015-01-16",
+   "conf": 0.9971293926239013
+  },
+  {
+   "text": "L1T6",
+   "conf": 0.9830424040555954
+  },
+  {
+   "text": "8:",
+   "conf": 0.8751743137836456
+  },
+  {
+   "text": "CUSTOMER COPY",
+   "conf": 0.9637754697066087
+  }
+ ],
+ "mean_conf": 0.9569,
+ "low_conf_share": 0.0,
+ "latency_ms": 1923,
+ "fields": {
+  "company": "STORE 176",
+  "date": "2015-01-16",
+  "total": 4.4
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  4.4
+ ],
+ "key": "W0072_4237dd949927"
+}

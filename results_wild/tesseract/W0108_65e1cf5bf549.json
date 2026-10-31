@@ -1,0 +1,259 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "10069 Ada 2.",
+  "Check: 23 aad",
+  "Table: C3-1 spac",
+  "12/26/2014 04:11PM",
+  "DINING 7",
+  "| Cajun Albacore sashi 5.00",
+  "1 Hydro Bibb Blk Cod 5.00",
+  "2 Salmon Avocado Roll 8.00",
+  "] Ika Geso 4.00",
+  "2 Tada - Salmon 2.00",
+  "] Uni Dou - W/Catalina 20.00",
+  "1 Baked Mussels 5.00",
+  "SUBTOTAL 49 00",
+  "Tax 3.97",
+  "TOTAL. DUE $52.97"
+ ],
+ "tokens": [
+  {
+   "text": "10069",
+   "conf": 0.96
+  },
+  {
+   "text": "Ada",
+   "conf": 0.95
+  },
+  {
+   "text": "2.",
+   "conf": 0.52
+  },
+  {
+   "text": "Check:",
+   "conf": 0.96
+  },
+  {
+   "text": "23",
+   "conf": 0.96
+  },
+  {
+   "text": "aad",
+   "conf": 0.36
+  },
+  {
+   "text": "Table:",
+   "conf": 0.92
+  },
+  {
+   "text": "C3-1",
+   "conf": 0.7
+  },
+  {
+   "text": "spac",
+   "conf": 0.22
+  },
+  {
+   "text": "12/26/2014",
+   "conf": 0.96
+  },
+  {
+   "text": "04:11PM",
+   "conf": 0.95
+  },
+  {
+   "text": "DINING",
+   "conf": 0.96
+  },
+  {
+   "text": "7",
+   "conf": 0.05
+  },
+  {
+   "text": "|",
+   "conf": 0.45
+  },
+  {
+   "text": "Cajun",
+   "conf": 0.96
+  },
+  {
+   "text": "Albacore",
+   "conf": 0.93
+  },
+  {
+   "text": "sashi",
+   "conf": 0.92
+  },
+  {
+   "text": "5.00",
+   "conf": 0.95
+  },
+  {
+   "text": "1",
+   "conf": 0.9
+  },
+  {
+   "text": "Hydro",
+   "conf": 0.96
+  },
+  {
+   "text": "Bibb",
+   "conf": 0.96
+  },
+  {
+   "text": "Blk",
+   "conf": 0.94
+  },
+  {
+   "text": "Cod",
+   "conf": 0.96
+  },
+  {
+   "text": "5.00",
+   "conf": 0.85
+  },
+  {
+   "text": "2",
+   "conf": 0.96
+  },
+  {
+   "text": "Salmon",
+   "conf": 0.95
+  },
+  {
+   "text": "Avocado",
+   "conf": 0.96
+  },
+  {
+   "text": "Roll",
+   "conf": 0.71
+  },
+  {
+   "text": "8.00",
+   "conf": 0.96
+  },
+  {
+   "text": "]",
+   "conf": 0.74
+  },
+  {
+   "text": "Ika",
+   "conf": 0.93
+  },
+  {
+   "text": "Geso",
+   "conf": 0.91
+  },
+  {
+   "text": "4.00",
+   "conf": 0.96
+  },
+  {
+   "text": "2",
+   "conf": 0.96
+  },
+  {
+   "text": "Tada",
+   "conf": 0.92
+  },
+  {
+   "text": "-",
+   "conf": 0.91
+  },
+  {
+   "text": "Salmon",
+   "conf": 0.95
+  },
+  {
+   "text": "2.00",
+   "conf": 0.96
+  },
+  {
+   "text": "]",
+   "conf": 0.67
+  },
+  {
+   "text": "Uni",
+   "conf": 0.96
+  },
+  {
+   "text": "Dou",
+   "conf": 0.9
+  },
+  {
+   "text": "-",
+   "conf": 0.9
+  },
+  {
+   "text": "W/Catalina",
+   "conf": 0.92
+  },
+  {
+   "text": "20.00",
+   "conf": 0.9
+  },
+  {
+   "text": "1",
+   "conf": 0.53
+  },
+  {
+   "text": "Baked",
+   "conf": 0.96
+  },
+  {
+   "text": "Mussels",
+   "conf": 0.95
+  },
+  {
+   "text": "5.00",
+   "conf": 0.95
+  },
+  {
+   "text": "SUBTOTAL",
+   "conf": 0.96
+  },
+  {
+   "text": "49",
+   "conf": 0.87
+  },
+  {
+   "text": "00",
+   "conf": 0.19
+  },
+  {
+   "text": "Tax",
+   "conf": 0.96
+  },
+  {
+   "text": "3.97",
+   "conf": 0.92
+  },
+  {
+   "text": "TOTAL.",
+   "conf": 0.49
+  },
+  {
+   "text": "DUE",
+   "conf": 0.81
+  },
+  {
+   "text": "$52.97",
+   "conf": 0.37
+  }
+ ],
+ "mean_conf": 0.8257,
+ "low_conf_share": 0.125,
+ "latency_ms": 1440,
+ "fields": {
+  "company": "CHECK 23 AAD",
+  "date": "2014-12-26",
+  "total": 52.97
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  52.97
+ ],
+ "key": "W0108_65e1cf5bf549"
+}

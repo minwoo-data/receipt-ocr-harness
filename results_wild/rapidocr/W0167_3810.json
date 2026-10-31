@@ -1,0 +1,124 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "MEXICAN FOOD",
+  "2525 ELCAMIN0 REAL",
+  "REDWO0D CITY.CA 94051",
+  "(650)216-9206",
+  "REG1",
+  "REG CASHIER 09-16-2015 010019",
+  "REGULAR BURRITO $6.25",
+  "POLLO ASADO",
+  "HOT",
+  "EVERTHING",
+  "ORD#66",
+  "*TOGO*",
+  "TAX TAXABLE AMT $6.25",
+  "TOTAL $0.56",
+  "CREDIT $6.81",
+  "$6.81"
+ ],
+ "tokens": [
+  {
+   "text": "MEXICAN FOOD",
+   "conf": 0.9530706902345022
+  },
+  {
+   "text": "2525 ELCAMIN0 REAL",
+   "conf": 0.9482578535874685
+  },
+  {
+   "text": "REDWO0D CITY.CA 94051",
+   "conf": 0.9142343799273173
+  },
+  {
+   "text": "(650)216-9206",
+   "conf": 0.9546335981442378
+  },
+  {
+   "text": "REG1",
+   "conf": 0.9933978468179703
+  },
+  {
+   "text": "REG CASHIER 09-16-2015",
+   "conf": 0.9488181092522361
+  },
+  {
+   "text": "010019",
+   "conf": 0.9981172283490499
+  },
+  {
+   "text": "REGULAR BURRITO",
+   "conf": 0.9724069754282634
+  },
+  {
+   "text": "$6.25",
+   "conf": 0.9947699666023254
+  },
+  {
+   "text": "POLLO ASADO",
+   "conf": 0.9428814216093584
+  },
+  {
+   "text": "HOT",
+   "conf": 0.9755914807319641
+  },
+  {
+   "text": "EVERTHING",
+   "conf": 0.9878274069892036
+  },
+  {
+   "text": "ORD#66",
+   "conf": 0.9344220658143362
+  },
+  {
+   "text": "*TOGO*",
+   "conf": 0.8670382102330526
+  },
+  {
+   "text": "TAXABLE AMT",
+   "conf": 0.9506815563548695
+  },
+  {
+   "text": "TAX",
+   "conf": 0.9875244895617167
+  },
+  {
+   "text": "$6.25",
+   "conf": 0.8843802571296692
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.991742205619812
+  },
+  {
+   "text": "$0.56",
+   "conf": 0.9945433735847473
+  },
+  {
+   "text": "CREDIT",
+   "conf": 0.9752483268578848
+  },
+  {
+   "text": "$6.81",
+   "conf": 0.9967259287834167
+  },
+  {
+   "text": "$6.81",
+   "conf": 0.9924091696739197
+  }
+ ],
+ "mean_conf": 0.9618,
+ "low_conf_share": 0.0,
+ "latency_ms": 2985,
+ "fields": {
+  "company": "MEXICAN FOOD",
+  "date": "2015-09-16",
+  "total": 0.56
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  0.56
+ ],
+ "key": "W0167_3810"
+}

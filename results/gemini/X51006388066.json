@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.6-flash",
+ "provider": "gemini",
+ "raw_text": "{\"vendor\": \"HERO DISTRIBUTION SDN BHD\", \"date\": \"2017-05-17\", \"subtotal\": 41.48, \"tax\": 1.02, \"tip\": null, \"discount\": null, \"total\": 41.50, \"currency\": \"MYR\", \"confidence\": 0.95, \"notes\": null}",
+ "data": {
+  "vendor": "HERO DISTRIBUTION SDN BHD",
+  "date": "2017-05-17",
+  "subtotal": 41.48,
+  "tax": 1.02,
+  "tip": null,
+  "discount": null,
+  "total": 41.5,
+  "currency": "MYR",
+  "confidence": 0.95,
+  "notes": null
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1444,
+  "output_tokens": 87,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.001409,
+ "latency_ms": 2049,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.6-flash",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.6-flash"
+ ],
+ "key": "X51006388066"
+}

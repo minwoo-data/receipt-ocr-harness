@@ -1,0 +1,509 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "wAINALJLAN tile 735",
+  "11200 BOUL. CAVENDISH",
+  "Ville St-Laurent ~ H4R 2J7",
+  "Magasin 33/-4862 Service 337-0906",
+  "Gestions Daniel Picard Inc",
+  "1P5:8/81/2311RT0003 TVQ:1212380080TQ0004",
+  "CANADIAN TIRE 235",
+  "11200 BOUL. CAVENDISH",
+  "Ville St-Laurent — H4R 2J7",
+  "Magasin 33/-4862 Service 337-0906",
+  "Gestions Daniel Picard Inc",
+  "IP5:8/81/2311R10003 TVQ:1212380080TQ0004",
+  "CAISSE: 381 06/22/2014 09:14:27 # TRANS: 1",
+  "# OPERATEUR: 81 Encaisse: 001",
+  "028-9438 2 MOBIL SYN OW20 $ 33. 19",
+  "(RABAIS $ 18. 20)",
+  "198- 3252-2 RAB. 10$ MOBIL 1 $ 0). 00",
+  "SOUS TOTAL $ 33. 79",
+  "1.P. 8. SS $ 1. 69",
+  "& T.V.Q. 9.975% $ 3.37",
+  "a LQ2 AL $ 38. 85",
+  "o COUPON FOURNISS $ — 10.00",
+  "= COMPTANT RECU. $ 20.00",
+  "ARG. CT DE BASE $ = 0.10"
+ ],
+ "tokens": [
+  {
+   "text": "wAINALJLAN",
+   "conf": 0.0
+  },
+  {
+   "text": "tile",
+   "conf": 0.0
+  },
+  {
+   "text": "735",
+   "conf": 0.24
+  },
+  {
+   "text": "11200",
+   "conf": 0.95
+  },
+  {
+   "text": "BOUL.",
+   "conf": 0.93
+  },
+  {
+   "text": "CAVENDISH",
+   "conf": 0.96
+  },
+  {
+   "text": "Ville",
+   "conf": 0.95
+  },
+  {
+   "text": "St-Laurent",
+   "conf": 0.92
+  },
+  {
+   "text": "~",
+   "conf": 0.71
+  },
+  {
+   "text": "H4R",
+   "conf": 0.89
+  },
+  {
+   "text": "2J7",
+   "conf": 0.89
+  },
+  {
+   "text": "Magasin",
+   "conf": 0.92
+  },
+  {
+   "text": "33/-4862",
+   "conf": 0.5
+  },
+  {
+   "text": "Service",
+   "conf": 0.95
+  },
+  {
+   "text": "337-0906",
+   "conf": 0.88
+  },
+  {
+   "text": "Gestions",
+   "conf": 0.92
+  },
+  {
+   "text": "Daniel",
+   "conf": 0.95
+  },
+  {
+   "text": "Picard",
+   "conf": 0.96
+  },
+  {
+   "text": "Inc",
+   "conf": 0.95
+  },
+  {
+   "text": "1P5:8/81/2311RT0003",
+   "conf": 0.37
+  },
+  {
+   "text": "TVQ:1212380080TQ0004",
+   "conf": 0.72
+  },
+  {
+   "text": "CANADIAN",
+   "conf": 0.95
+  },
+  {
+   "text": "TIRE",
+   "conf": 0.95
+  },
+  {
+   "text": "235",
+   "conf": 0.96
+  },
+  {
+   "text": "11200",
+   "conf": 0.95
+  },
+  {
+   "text": "BOUL.",
+   "conf": 0.96
+  },
+  {
+   "text": "CAVENDISH",
+   "conf": 0.96
+  },
+  {
+   "text": "Ville",
+   "conf": 0.95
+  },
+  {
+   "text": "St-Laurent",
+   "conf": 0.92
+  },
+  {
+   "text": "—",
+   "conf": 0.0
+  },
+  {
+   "text": "H4R",
+   "conf": 0.68
+  },
+  {
+   "text": "2J7",
+   "conf": 0.9
+  },
+  {
+   "text": "Magasin",
+   "conf": 0.93
+  },
+  {
+   "text": "33/-4862",
+   "conf": 0.84
+  },
+  {
+   "text": "Service",
+   "conf": 0.96
+  },
+  {
+   "text": "337-0906",
+   "conf": 0.77
+  },
+  {
+   "text": "Gestions",
+   "conf": 0.9
+  },
+  {
+   "text": "Daniel",
+   "conf": 0.94
+  },
+  {
+   "text": "Picard",
+   "conf": 0.96
+  },
+  {
+   "text": "Inc",
+   "conf": 0.95
+  },
+  {
+   "text": "IP5:8/81/2311R10003",
+   "conf": 0.45
+  },
+  {
+   "text": "TVQ:1212380080TQ0004",
+   "conf": 0.53
+  },
+  {
+   "text": "CAISSE:",
+   "conf": 0.35
+  },
+  {
+   "text": "381",
+   "conf": 0.35
+  },
+  {
+   "text": "06/22/2014",
+   "conf": 0.92
+  },
+  {
+   "text": "09:14:27",
+   "conf": 0.93
+  },
+  {
+   "text": "#",
+   "conf": 0.9
+  },
+  {
+   "text": "TRANS:",
+   "conf": 0.07
+  },
+  {
+   "text": "1",
+   "conf": 0.07
+  },
+  {
+   "text": "#",
+   "conf": 0.92
+  },
+  {
+   "text": "OPERATEUR:",
+   "conf": 0.91
+  },
+  {
+   "text": "81",
+   "conf": 0.9
+  },
+  {
+   "text": "Encaisse:",
+   "conf": 0.89
+  },
+  {
+   "text": "001",
+   "conf": 0.94
+  },
+  {
+   "text": "028-9438",
+   "conf": 0.0
+  },
+  {
+   "text": "2",
+   "conf": 0.7
+  },
+  {
+   "text": "MOBIL",
+   "conf": 0.17
+  },
+  {
+   "text": "SYN",
+   "conf": 0.91
+  },
+  {
+   "text": "OW20",
+   "conf": 0.56
+  },
+  {
+   "text": "$",
+   "conf": 0.92
+  },
+  {
+   "text": "33.",
+   "conf": 0.91
+  },
+  {
+   "text": "19",
+   "conf": 0.64
+  },
+  {
+   "text": "(RABAIS",
+   "conf": 0.92
+  },
+  {
+   "text": "$",
+   "conf": 0.92
+  },
+  {
+   "text": "18.",
+   "conf": 0.88
+  },
+  {
+   "text": "20)",
+   "conf": 0.88
+  },
+  {
+   "text": "198-",
+   "conf": 0.79
+  },
+  {
+   "text": "3252-2",
+   "conf": 0.81
+  },
+  {
+   "text": "RAB.",
+   "conf": 0.92
+  },
+  {
+   "text": "10$",
+   "conf": 0.92
+  },
+  {
+   "text": "MOBIL",
+   "conf": 0.96
+  },
+  {
+   "text": "1",
+   "conf": 0.9
+  },
+  {
+   "text": "$",
+   "conf": 0.9
+  },
+  {
+   "text": "0).",
+   "conf": 0.75
+  },
+  {
+   "text": "00",
+   "conf": 0.95
+  },
+  {
+   "text": "SOUS",
+   "conf": 0.6
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.6
+  },
+  {
+   "text": "$",
+   "conf": 0.93
+  },
+  {
+   "text": "33.",
+   "conf": 0.87
+  },
+  {
+   "text": "79",
+   "conf": 0.66
+  },
+  {
+   "text": "1.P.",
+   "conf": 0.57
+  },
+  {
+   "text": "8.",
+   "conf": 0.77
+  },
+  {
+   "text": "SS",
+   "conf": 0.22
+  },
+  {
+   "text": "$",
+   "conf": 0.93
+  },
+  {
+   "text": "1.",
+   "conf": 0.94
+  },
+  {
+   "text": "69",
+   "conf": 0.94
+  },
+  {
+   "text": "&",
+   "conf": 0.0
+  },
+  {
+   "text": "T.V.Q.",
+   "conf": 0.46
+  },
+  {
+   "text": "9.975%",
+   "conf": 0.79
+  },
+  {
+   "text": "$",
+   "conf": 0.79
+  },
+  {
+   "text": "3.37",
+   "conf": 0.36
+  },
+  {
+   "text": "a",
+   "conf": 0.09
+  },
+  {
+   "text": "LQ2",
+   "conf": 0.0
+  },
+  {
+   "text": "AL",
+   "conf": 0.42
+  },
+  {
+   "text": "$",
+   "conf": 0.93
+  },
+  {
+   "text": "38.",
+   "conf": 0.88
+  },
+  {
+   "text": "85",
+   "conf": 0.88
+  },
+  {
+   "text": "o",
+   "conf": 0.0
+  },
+  {
+   "text": "COUPON",
+   "conf": 0.92
+  },
+  {
+   "text": "FOURNISS",
+   "conf": 0.91
+  },
+  {
+   "text": "$",
+   "conf": 0.75
+  },
+  {
+   "text": "—",
+   "conf": 0.61
+  },
+  {
+   "text": "10.00",
+   "conf": 0.79
+  },
+  {
+   "text": "=",
+   "conf": 0.47
+  },
+  {
+   "text": "COMPTANT",
+   "conf": 0.9
+  },
+  {
+   "text": "RECU.",
+   "conf": 0.87
+  },
+  {
+   "text": "$",
+   "conf": 0.92
+  },
+  {
+   "text": "20.00",
+   "conf": 0.26
+  },
+  {
+   "text": "ARG.",
+   "conf": 0.9
+  },
+  {
+   "text": "CT",
+   "conf": 0.6
+  },
+  {
+   "text": "DE",
+   "conf": 0.6
+  },
+  {
+   "text": "BASE",
+   "conf": 0.44
+  },
+  {
+   "text": "$",
+   "conf": 0.44
+  },
+  {
+   "text": "=",
+   "conf": 0.43
+  },
+  {
+   "text": "0.10",
+   "conf": 0.43
+  }
+ ],
+ "mean_conf": 0.7157,
+ "low_conf_share": 0.2261,
+ "latency_ms": 1431,
+ "fields": {
+  "company": "GESTIONS DANIEL PICARD INC",
+  "date": "2014-06-22",
+  "total": 20.0
+ },
+ "rule_reasons": [
+  "total_no_keyword_fallback_max"
+ ],
+ "total_candidates": [
+  3.37,
+  10.0,
+  20.0,
+  0.1
+ ],
+ "key": "W0168_067301325dea"
+}

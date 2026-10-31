@@ -1,0 +1,220 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "COTTON:ON",
+  "TYRONE SQLARE",
+  "690122nd ave",
+  "Shop470",
+  "Tyrone Square Mall",
+  "St Petersburg33710FL",
+  "Telephone:1-727-343-2230",
+  "Tax Inuoice",
+  "Business Registration Ho.:8l-8015451111-7",
+  "Iten Qty Total",
+  "362366-08-# ss pop shirt·D $10.CO",
+  "8-3ZIS",
+  "$10.C0",
+  "Total Tax70%(#） $0.70",
+  "Total $10.70",
+  "EFT Paynert Visa $10.70",
+  "Auth No.:84.093SH Change $0.CO",
+  "Total no.of units:1",
+  "Your Cashier uas Iashina",
+  "Sat Aug2620173:33PH 01/103001002499 POS103001",
+  "TerminalID",
+  "Trans o.Reg 01/85192 THANK YOU FOR SHOPPING A'COTTON ON",
+  "Please refer to instort signage",
+  "or our uebsite uuu.cottoron.con for",
+  "Refund & Exchange Prlicy",
+  "JOIN USFOR 30%OFF YOUR",
+  "FIRST ONLINE ORDER!",
+  "DON'T HISS THE LATEST SYLE TIPS,",
+  "NENS&EXCLUSIVE OFFERS FRIH COTTON ON",
+  "STRAIGHT TO VOUR IIBOX on/US/subscribe"
+ ],
+ "tokens": [
+  {
+   "text": "COTTON:ON",
+   "conf": 0.9507331980599297
+  },
+  {
+   "text": "TYRONE SQLARE",
+   "conf": 0.9694485710217402
+  },
+  {
+   "text": "690122nd ave",
+   "conf": 0.9564947038888931
+  },
+  {
+   "text": "Shop470",
+   "conf": 0.9943817513329642
+  },
+  {
+   "text": "Tyrone Square Mall",
+   "conf": 0.9650818506876627
+  },
+  {
+   "text": "St Petersburg33710FL",
+   "conf": 0.9453815817832947
+  },
+  {
+   "text": "Telephone:1-727-343-2230",
+   "conf": 0.9775595888495445
+  },
+  {
+   "text": "Tax Inuoice",
+   "conf": 0.8693481900475242
+  },
+  {
+   "text": "Business Registration Ho.:8l-8015451111-7",
+   "conf": 0.8942402528553475
+  },
+  {
+   "text": "Iten",
+   "conf": 0.9757749438285828
+  },
+  {
+   "text": "Qty",
+   "conf": 0.9107655882835388
+  },
+  {
+   "text": "Total",
+   "conf": 0.987022864818573
+  },
+  {
+   "text": "362366-08-# ss pop shirt·D",
+   "conf": 0.8964823851218591
+  },
+  {
+   "text": "$10.CO",
+   "conf": 0.8956573307514191
+  },
+  {
+   "text": "8-3ZIS",
+   "conf": 0.5229874203602473
+  },
+  {
+   "text": "$10.C0",
+   "conf": 0.8884485314289728
+  },
+  {
+   "text": "Total Tax70%(#）",
+   "conf": 0.8185428361097972
+  },
+  {
+   "text": "$0.70",
+   "conf": 0.9745839476585388
+  },
+  {
+   "text": "Total",
+   "conf": 0.9679944396018982
+  },
+  {
+   "text": "$10.70",
+   "conf": 0.9840008219083151
+  },
+  {
+   "text": "EFT Paynert Visa",
+   "conf": 0.928576834499836
+  },
+  {
+   "text": "$10.70",
+   "conf": 0.9935798843701681
+  },
+  {
+   "text": "Auth No.:84.093SH",
+   "conf": 0.9399229954270756
+  },
+  {
+   "text": "Change",
+   "conf": 0.9150676528612772
+  },
+  {
+   "text": "$0.CO",
+   "conf": 0.7201001524925232
+  },
+  {
+   "text": "Total no.of units:1",
+   "conf": 0.9109530229317514
+  },
+  {
+   "text": "Your Cashier uas Iashina",
+   "conf": 0.938798014074564
+  },
+  {
+   "text": "01/103001002499",
+   "conf": 0.9932165225346883
+  },
+  {
+   "text": "Sat Aug2620173:33PH",
+   "conf": 0.9682955835994921
+  },
+  {
+   "text": "POS103001",
+   "conf": 0.990246401892768
+  },
+  {
+   "text": "TerminalID",
+   "conf": 0.9498708784580231
+  },
+  {
+   "text": "Trans o.Reg 01/85192",
+   "conf": 0.9495108217000962
+  },
+  {
+   "text": "THANK YOU FOR SHOPPING A'COTTON ON",
+   "conf": 0.9511821489123737
+  },
+  {
+   "text": "Please refer to instort signage",
+   "conf": 0.9531558213695404
+  },
+  {
+   "text": "or our uebsite uuu.cottoron.con for",
+   "conf": 0.9508935400417873
+  },
+  {
+   "text": "Refund & Exchange Prlicy",
+   "conf": 0.9256192855536938
+  },
+  {
+   "text": "JOIN USFOR 30%OFF YOUR",
+   "conf": 0.9220520799810236
+  },
+  {
+   "text": "FIRST ONLINE ORDER!",
+   "conf": 0.9585067504330685
+  },
+  {
+   "text": "DON'T HISS THE LATEST SYLE TIPS,",
+   "conf": 0.9040906382724643
+  },
+  {
+   "text": "NENS&EXCLUSIVE OFFERS FRIH COTTON ON",
+   "conf": 0.8878497199879752
+  },
+  {
+   "text": "STRAIGHT TO VOUR IIBOX",
+   "conf": 0.9124283546751196
+  },
+  {
+   "text": "on/US/subscribe",
+   "conf": 0.857487432161967
+  }
+ ],
+ "mean_conf": 0.923,
+ "low_conf_share": 0.0,
+ "latency_ms": 4575,
+ "fields": {
+  "company": "COTTON ON",
+  "date": null,
+  "total": 10.7
+ },
+ "rule_reasons": [
+  "date_not_found"
+ ],
+ "total_candidates": [
+  10.7
+ ],
+ "key": "W0098_c6e5ea8e90fc"
+}

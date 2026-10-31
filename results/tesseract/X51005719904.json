@@ -1,0 +1,439 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "Yam Fresh",
+  "No.145G, Jalan Rimbunan Raya 1,",
+  "| Laman Rimounan Kepong,",
+  "| 52100 Kuala Lumour",
+  "| Tel: (003) 6243 5520",
+  "| GST 'D=001817907200",
+  "eitt wo.: 001-3246 Dine In",
+  "Date: 2018-03-16 13:18:48",
+  "R05 Oyster Mee | RM3 90",
+  "Take Away",
+  "‘AQT BlackSugar Ice j RM7 50",
+  "‘Fresh Milk",
+  "Pear]",
+  "sHerb.J RH3.00",
+  "sTake Away",
+  "$02 Pudding Soybean ] RMB 90",
+  "Take Away",
+  "Grand Total VAS, \" 30",
+  "(Bill Inclusive of 6% GST ; RM1.66)",
+  "cash RM30,30",
+  "Change RM1.00",
+  "Thank You.",
+  "Please visit us at:-",
+  "Facebook :-Yam Fresh",
+  "Ss",
+  "Wif{ SSID: yamfresh",
+  "Wifi Pasword: buyadrinkfirst",
+  "001-2918-03-18 13:21:02 Rainny 001-3246 C1]"
+ ],
+ "tokens": [
+  {
+   "text": "Yam",
+   "conf": 0.95
+  },
+  {
+   "text": "Fresh",
+   "conf": 0.96
+  },
+  {
+   "text": "No.145G,",
+   "conf": 0.54
+  },
+  {
+   "text": "Jalan",
+   "conf": 0.95
+  },
+  {
+   "text": "Rimbunan",
+   "conf": 0.96
+  },
+  {
+   "text": "Raya",
+   "conf": 0.96
+  },
+  {
+   "text": "1,",
+   "conf": 0.91
+  },
+  {
+   "text": "|",
+   "conf": 0.53
+  },
+  {
+   "text": "Laman",
+   "conf": 0.93
+  },
+  {
+   "text": "Rimounan",
+   "conf": 0.88
+  },
+  {
+   "text": "Kepong,",
+   "conf": 0.71
+  },
+  {
+   "text": "|",
+   "conf": 0.53
+  },
+  {
+   "text": "52100",
+   "conf": 0.93
+  },
+  {
+   "text": "Kuala",
+   "conf": 0.92
+  },
+  {
+   "text": "Lumour",
+   "conf": 0.86
+  },
+  {
+   "text": "|",
+   "conf": 0.62
+  },
+  {
+   "text": "Tel:",
+   "conf": 0.94
+  },
+  {
+   "text": "(003)",
+   "conf": 0.84
+  },
+  {
+   "text": "6243",
+   "conf": 0.95
+  },
+  {
+   "text": "5520",
+   "conf": 0.96
+  },
+  {
+   "text": "|",
+   "conf": 0.59
+  },
+  {
+   "text": "GST",
+   "conf": 0.86
+  },
+  {
+   "text": "'D=001817907200",
+   "conf": 0.52
+  },
+  {
+   "text": "eitt",
+   "conf": 0.53
+  },
+  {
+   "text": "wo.:",
+   "conf": 0.0
+  },
+  {
+   "text": "001-3246",
+   "conf": 0.95
+  },
+  {
+   "text": "Dine",
+   "conf": 0.25
+  },
+  {
+   "text": "In",
+   "conf": 0.96
+  },
+  {
+   "text": "Date:",
+   "conf": 0.86
+  },
+  {
+   "text": "2018-03-16",
+   "conf": 0.95
+  },
+  {
+   "text": "13:18:48",
+   "conf": 0.88
+  },
+  {
+   "text": "R05",
+   "conf": 0.53
+  },
+  {
+   "text": "Oyster",
+   "conf": 0.57
+  },
+  {
+   "text": "Mee",
+   "conf": 0.95
+  },
+  {
+   "text": "|",
+   "conf": 0.94
+  },
+  {
+   "text": "RM3",
+   "conf": 0.56
+  },
+  {
+   "text": "90",
+   "conf": 0.05
+  },
+  {
+   "text": "Take",
+   "conf": 0.08
+  },
+  {
+   "text": "Away",
+   "conf": 0.95
+  },
+  {
+   "text": "‘AQT",
+   "conf": 0.75
+  },
+  {
+   "text": "BlackSugar",
+   "conf": 0.92
+  },
+  {
+   "text": "Ice",
+   "conf": 0.96
+  },
+  {
+   "text": "j",
+   "conf": 0.86
+  },
+  {
+   "text": "RM7",
+   "conf": 0.62
+  },
+  {
+   "text": "50",
+   "conf": 0.0
+  },
+  {
+   "text": "‘Fresh",
+   "conf": 0.45
+  },
+  {
+   "text": "Milk",
+   "conf": 0.92
+  },
+  {
+   "text": "Pear]",
+   "conf": 0.15
+  },
+  {
+   "text": "sHerb.J",
+   "conf": 0.42
+  },
+  {
+   "text": "RH3.00",
+   "conf": 0.4
+  },
+  {
+   "text": "sTake",
+   "conf": 0.79
+  },
+  {
+   "text": "Away",
+   "conf": 0.95
+  },
+  {
+   "text": "$02",
+   "conf": 0.89
+  },
+  {
+   "text": "Pudding",
+   "conf": 0.95
+  },
+  {
+   "text": "Soybean",
+   "conf": 0.26
+  },
+  {
+   "text": "]",
+   "conf": 0.72
+  },
+  {
+   "text": "RMB",
+   "conf": 0.61
+  },
+  {
+   "text": "90",
+   "conf": 0.0
+  },
+  {
+   "text": "Take",
+   "conf": 0.1
+  },
+  {
+   "text": "Away",
+   "conf": 0.95
+  },
+  {
+   "text": "Grand",
+   "conf": 0.96
+  },
+  {
+   "text": "Total",
+   "conf": 0.92
+  },
+  {
+   "text": "VAS,",
+   "conf": 0.0
+  },
+  {
+   "text": "\"",
+   "conf": 0.0
+  },
+  {
+   "text": "30",
+   "conf": 0.92
+  },
+  {
+   "text": "(Bill",
+   "conf": 0.37
+  },
+  {
+   "text": "Inclusive",
+   "conf": 0.96
+  },
+  {
+   "text": "of",
+   "conf": 0.95
+  },
+  {
+   "text": "6%",
+   "conf": 0.96
+  },
+  {
+   "text": "GST",
+   "conf": 0.91
+  },
+  {
+   "text": ";",
+   "conf": 0.25
+  },
+  {
+   "text": "RM1.66)",
+   "conf": 0.61
+  },
+  {
+   "text": "cash",
+   "conf": 0.92
+  },
+  {
+   "text": "RM30,30",
+   "conf": 0.43
+  },
+  {
+   "text": "Change",
+   "conf": 0.91
+  },
+  {
+   "text": "RM1.00",
+   "conf": 0.37
+  },
+  {
+   "text": "Thank",
+   "conf": 0.95
+  },
+  {
+   "text": "You.",
+   "conf": 0.85
+  },
+  {
+   "text": "Please",
+   "conf": 0.83
+  },
+  {
+   "text": "visit",
+   "conf": 0.96
+  },
+  {
+   "text": "us",
+   "conf": 0.92
+  },
+  {
+   "text": "at:-",
+   "conf": 0.81
+  },
+  {
+   "text": "Facebook",
+   "conf": 0.52
+  },
+  {
+   "text": ":-Yam",
+   "conf": 0.41
+  },
+  {
+   "text": "Fresh",
+   "conf": 0.58
+  },
+  {
+   "text": "Ss",
+   "conf": 0.32
+  },
+  {
+   "text": "Wif{",
+   "conf": 0.51
+  },
+  {
+   "text": "SSID:",
+   "conf": 0.92
+  },
+  {
+   "text": "yamfresh",
+   "conf": 0.88
+  },
+  {
+   "text": "Wifi",
+   "conf": 0.74
+  },
+  {
+   "text": "Pasword:",
+   "conf": 0.91
+  },
+  {
+   "text": "buyadrinkfirst",
+   "conf": 0.86
+  },
+  {
+   "text": "001-2918-03-18",
+   "conf": 0.36
+  },
+  {
+   "text": "13:21:02",
+   "conf": 0.9
+  },
+  {
+   "text": "Rainny",
+   "conf": 0.87
+  },
+  {
+   "text": "001-3246",
+   "conf": 0.41
+  },
+  {
+   "text": "C1]",
+   "conf": 0.36
+  }
+ ],
+ "mean_conf": 0.6886,
+ "low_conf_share": 0.2371,
+ "latency_ms": 1900,
+ "fields": {
+  "company": "YAM FRESH",
+  "date": "2018-03-16",
+  "total": 1.66
+ },
+ "rule_reasons": [
+  "total_no_keyword_fallback_max"
+ ],
+ "total_candidates": [
+  1.66,
+  1.0
+ ],
+ "key": "X51005719904"
+}

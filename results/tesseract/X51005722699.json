@@ -1,0 +1,485 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "POPULAR BOOK",
+  "_",
+  "CO. (M) SDN BHD",
+  "(Co. Now 113825-W)",
+  "(GST Reg No. 001492992000)",
+  "No 8, Jalan 7/118B, Desa Tun Razak",
+  "56000 Kuala Lumpur, Malaysia",
+  "AMPANG POINT CENTRE",
+  "Tel : 03-42601064/66",
+  "11/02/18 19:21 Slip No. : 6030098553",
+  "Mohd Nor Azmi Trans: 79369",
+  "Description Amount",
+  "PB D/S Tape 12min 1.90 T",
+  "H/C A4 400°S 9,90 T",
+  "Total RM Incl. of GST 11. 80",
+  "Cash -11. 80",
+  "Item Count 2",
+  "GST Summary Amount (RM) Tax (RM)",
+  "T @ 6% 11.23 0.67",
+  "Total Savings 0. 00",
+  "BE A POPULAR CARD MEMBER",
+  "AND ENJOY SPECIAL DISCOUNTS",
+  "THANK YOU. PLEASE COME AGAIN,",
+  "WWW. popular. com. my",
+  "Buy Chinese books online",
+  "www. popularonline. com. my"
+ ],
+ "tokens": [
+  {
+   "text": "POPULAR",
+   "conf": 0.95
+  },
+  {
+   "text": "BOOK",
+   "conf": 0.95
+  },
+  {
+   "text": "_",
+   "conf": 0.0
+  },
+  {
+   "text": "CO.",
+   "conf": 0.91
+  },
+  {
+   "text": "(M)",
+   "conf": 0.91
+  },
+  {
+   "text": "SDN",
+   "conf": 0.95
+  },
+  {
+   "text": "BHD",
+   "conf": 0.96
+  },
+  {
+   "text": "(Co.",
+   "conf": 0.9
+  },
+  {
+   "text": "Now",
+   "conf": 0.63
+  },
+  {
+   "text": "113825-W)",
+   "conf": 0.68
+  },
+  {
+   "text": "(GST",
+   "conf": 0.95
+  },
+  {
+   "text": "Reg",
+   "conf": 0.95
+  },
+  {
+   "text": "No.",
+   "conf": 0.93
+  },
+  {
+   "text": "001492992000)",
+   "conf": 0.93
+  },
+  {
+   "text": "No",
+   "conf": 0.95
+  },
+  {
+   "text": "8,",
+   "conf": 0.93
+  },
+  {
+   "text": "Jalan",
+   "conf": 0.92
+  },
+  {
+   "text": "7/118B,",
+   "conf": 0.63
+  },
+  {
+   "text": "Desa",
+   "conf": 0.96
+  },
+  {
+   "text": "Tun",
+   "conf": 0.96
+  },
+  {
+   "text": "Razak",
+   "conf": 0.96
+  },
+  {
+   "text": "56000",
+   "conf": 0.76
+  },
+  {
+   "text": "Kuala",
+   "conf": 0.95
+  },
+  {
+   "text": "Lumpur,",
+   "conf": 0.96
+  },
+  {
+   "text": "Malaysia",
+   "conf": 0.94
+  },
+  {
+   "text": "AMPANG",
+   "conf": 0.91
+  },
+  {
+   "text": "POINT",
+   "conf": 0.95
+  },
+  {
+   "text": "CENTRE",
+   "conf": 0.96
+  },
+  {
+   "text": "Tel",
+   "conf": 0.9
+  },
+  {
+   "text": ":",
+   "conf": 0.0
+  },
+  {
+   "text": "03-42601064/66",
+   "conf": 0.73
+  },
+  {
+   "text": "11/02/18",
+   "conf": 0.96
+  },
+  {
+   "text": "19:21",
+   "conf": 0.81
+  },
+  {
+   "text": "Slip",
+   "conf": 0.96
+  },
+  {
+   "text": "No.",
+   "conf": 0.61
+  },
+  {
+   "text": ":",
+   "conf": 0.54
+  },
+  {
+   "text": "6030098553",
+   "conf": 0.93
+  },
+  {
+   "text": "Mohd",
+   "conf": 0.96
+  },
+  {
+   "text": "Nor",
+   "conf": 0.96
+  },
+  {
+   "text": "Azmi",
+   "conf": 0.95
+  },
+  {
+   "text": "Trans:",
+   "conf": 0.96
+  },
+  {
+   "text": "79369",
+   "conf": 0.9
+  },
+  {
+   "text": "Description",
+   "conf": 0.82
+  },
+  {
+   "text": "Amount",
+   "conf": 0.56
+  },
+  {
+   "text": "PB",
+   "conf": 0.7
+  },
+  {
+   "text": "D/S",
+   "conf": 0.7
+  },
+  {
+   "text": "Tape",
+   "conf": 0.95
+  },
+  {
+   "text": "12min",
+   "conf": 0.66
+  },
+  {
+   "text": "1.90",
+   "conf": 0.9
+  },
+  {
+   "text": "T",
+   "conf": 0.9
+  },
+  {
+   "text": "H/C",
+   "conf": 0.92
+  },
+  {
+   "text": "A4",
+   "conf": 0.9
+  },
+  {
+   "text": "400°S",
+   "conf": 0.35
+  },
+  {
+   "text": "9,90",
+   "conf": 0.73
+  },
+  {
+   "text": "T",
+   "conf": 0.87
+  },
+  {
+   "text": "Total",
+   "conf": 0.96
+  },
+  {
+   "text": "RM",
+   "conf": 0.95
+  },
+  {
+   "text": "Incl.",
+   "conf": 0.95
+  },
+  {
+   "text": "of",
+   "conf": 0.96
+  },
+  {
+   "text": "GST",
+   "conf": 0.95
+  },
+  {
+   "text": "11.",
+   "conf": 0.77
+  },
+  {
+   "text": "80",
+   "conf": 0.9
+  },
+  {
+   "text": "Cash",
+   "conf": 0.95
+  },
+  {
+   "text": "-11.",
+   "conf": 0.15
+  },
+  {
+   "text": "80",
+   "conf": 0.96
+  },
+  {
+   "text": "Item",
+   "conf": 0.75
+  },
+  {
+   "text": "Count",
+   "conf": 0.95
+  },
+  {
+   "text": "2",
+   "conf": 0.92
+  },
+  {
+   "text": "GST",
+   "conf": 0.94
+  },
+  {
+   "text": "Summary",
+   "conf": 0.93
+  },
+  {
+   "text": "Amount",
+   "conf": 0.9
+  },
+  {
+   "text": "(RM)",
+   "conf": 0.51
+  },
+  {
+   "text": "Tax",
+   "conf": 0.94
+  },
+  {
+   "text": "(RM)",
+   "conf": 0.89
+  },
+  {
+   "text": "T",
+   "conf": 0.86
+  },
+  {
+   "text": "@",
+   "conf": 0.87
+  },
+  {
+   "text": "6%",
+   "conf": 0.95
+  },
+  {
+   "text": "11.23",
+   "conf": 0.28
+  },
+  {
+   "text": "0.67",
+   "conf": 0.94
+  },
+  {
+   "text": "Total",
+   "conf": 0.95
+  },
+  {
+   "text": "Savings",
+   "conf": 0.73
+  },
+  {
+   "text": "0.",
+   "conf": 0.91
+  },
+  {
+   "text": "00",
+   "conf": 0.91
+  },
+  {
+   "text": "BE",
+   "conf": 0.96
+  },
+  {
+   "text": "A",
+   "conf": 0.95
+  },
+  {
+   "text": "POPULAR",
+   "conf": 0.96
+  },
+  {
+   "text": "CARD",
+   "conf": 0.96
+  },
+  {
+   "text": "MEMBER",
+   "conf": 0.96
+  },
+  {
+   "text": "AND",
+   "conf": 0.96
+  },
+  {
+   "text": "ENJOY",
+   "conf": 0.96
+  },
+  {
+   "text": "SPECIAL",
+   "conf": 0.94
+  },
+  {
+   "text": "DISCOUNTS",
+   "conf": 0.96
+  },
+  {
+   "text": "THANK",
+   "conf": 0.95
+  },
+  {
+   "text": "YOU.",
+   "conf": 0.87
+  },
+  {
+   "text": "PLEASE",
+   "conf": 0.95
+  },
+  {
+   "text": "COME",
+   "conf": 0.95
+  },
+  {
+   "text": "AGAIN,",
+   "conf": 0.89
+  },
+  {
+   "text": "WWW.",
+   "conf": 0.52
+  },
+  {
+   "text": "popular.",
+   "conf": 0.92
+  },
+  {
+   "text": "com.",
+   "conf": 0.88
+  },
+  {
+   "text": "my",
+   "conf": 0.96
+  },
+  {
+   "text": "Buy",
+   "conf": 0.95
+  },
+  {
+   "text": "Chinese",
+   "conf": 0.95
+  },
+  {
+   "text": "books",
+   "conf": 0.96
+  },
+  {
+   "text": "online",
+   "conf": 0.96
+  },
+  {
+   "text": "www.",
+   "conf": 0.04
+  },
+  {
+   "text": "popularonline.",
+   "conf": 0.79
+  },
+  {
+   "text": "com.",
+   "conf": 0.88
+  },
+  {
+   "text": "my",
+   "conf": 0.88
+  }
+ ],
+ "mean_conf": 0.8441,
+ "low_conf_share": 0.055,
+ "latency_ms": 1931,
+ "fields": {
+  "company": "CO SDN BHD",
+  "date": "2018-02-11",
+  "total": 11.23
+ },
+ "rule_reasons": [
+  "total_no_keyword_fallback_max"
+ ],
+ "total_candidates": [
+  11.23,
+  0.67
+ ],
+ "key": "X51005722699"
+}

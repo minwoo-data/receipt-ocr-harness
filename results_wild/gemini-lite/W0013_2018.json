@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.1-flash-lite",
+ "provider": "gemini",
+ "raw_text": "{\n  \"vendor\": \"CENTRAL INDIAN RESTAURANT\",\n  \"date\": \"2014-09-22\",\n  \"subtotal\": 270.0,\n  \"tax\": null,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 297.0,\n  \"currency\": \"HKD\",\n  \"confidence\": 0.98,\n  \"notes\": \"The currency is inferred as HKD based on the location in Hong Kong.\"\n}",
+ "data": {
+  "vendor": "CENTRAL INDIAN RESTAURANT",
+  "date": "2014-09-22",
+  "subtotal": 270.0,
+  "tax": null,
+  "tip": null,
+  "discount": null,
+  "total": 297.0,
+  "currency": "HKD",
+  "confidence": 0.98,
+  "notes": "The currency is inferred as HKD based on the location in Hong Kong."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1433,
+  "output_tokens": 120,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.000538,
+ "latency_ms": 1572,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.1-flash-lite",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.1-flash-lite"
+ ],
+ "key": "W0013_2018"
+}

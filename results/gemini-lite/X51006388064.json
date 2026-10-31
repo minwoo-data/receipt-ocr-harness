@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.1-flash-lite",
+ "provider": "gemini",
+ "raw_text": "{\n  \"vendor\": \"BEMED (SP) SDN. BHD.\",\n  \"date\": \"2017-05-14\",\n  \"subtotal\": 191.22,\n  \"tax\": 10.14,\n  \"tip\": null,\n  \"discount\": -0.02,\n  \"total\": 191.20,\n  \"currency\": \"MYR\",\n  \"confidence\": 0.98,\n  \"notes\": \"Rounding adjustment of -0.02 applied to subtotal.\"\n}",
+ "data": {
+  "vendor": "BEMED (SP) SDN. BHD.",
+  "date": "2017-05-14",
+  "subtotal": 191.22,
+  "tax": 10.14,
+  "tip": null,
+  "discount": -0.02,
+  "total": 191.2,
+  "currency": "MYR",
+  "confidence": 0.98,
+  "notes": "Rounding adjustment of -0.02 applied to subtotal."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1440,
+  "output_tokens": 133,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.000559,
+ "latency_ms": 1980,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.1-flash-lite",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.1-flash-lite"
+ ],
+ "key": "X51006388064"
+}

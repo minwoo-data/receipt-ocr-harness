@@ -1,0 +1,555 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "; ‘",
+  "MEI LET RESTAURANT",
+  "NO 2, JALAN BULAN BM U5/8M, SEKSYEN U5,",
+  "40150 SHAH ALAM, SELANGOR",
+  "TEL: 03-7859 +863",
+  "NO GST: 0010 9273 4976",
+  "TAX INVOICE",
+  "TABLE : 31",
+  "BILL NO: 00014603 / 10P01",
+  "CASHIER: ADMINISTRATOR",
+  "BILL DT: 12/01/2017 08:44:46 PM RM",
+  "1 TALAPIA - JIU PAI STEAM (S) 25.00 SR",
+  "Cul (S)",
+  "1 STEAMED GINGER CHICKEN 15.00 SR",
+  "LOS",
+  "1 BEAN CURD WITH FRIED EGG (S) 10.00 SR",
+  "M05 (S)",
+  "3 WATER / TEA 0.50 1.59 SR",
+  "3 RICC (L) 21.50 4.50 SR",
+  "(L)",
+  "9 SUB TOTAL 56.00",
+  "GST 6% 3.36",
+  "ROUNDING ADU -0.01",
+  "NET TOTAL AC 3",
+  "Cash 100.00",
+  "CHANGE 40.05",
+  "Tax Summary Amount Tax",
+  "SR GST 6% 56.00 a",
+  "THANK YOU, PLEASE COME AGAIN |",
+  "S4-\\”",
+  "ee a y"
+ ],
+ "tokens": [
+  {
+   "text": ";",
+   "conf": 0.8
+  },
+  {
+   "text": "‘",
+   "conf": 0.12
+  },
+  {
+   "text": "MEI",
+   "conf": 0.95
+  },
+  {
+   "text": "LET",
+   "conf": 0.96
+  },
+  {
+   "text": "RESTAURANT",
+   "conf": 0.95
+  },
+  {
+   "text": "NO",
+   "conf": 0.92
+  },
+  {
+   "text": "2,",
+   "conf": 0.47
+  },
+  {
+   "text": "JALAN",
+   "conf": 0.96
+  },
+  {
+   "text": "BULAN",
+   "conf": 0.96
+  },
+  {
+   "text": "BM",
+   "conf": 0.92
+  },
+  {
+   "text": "U5/8M,",
+   "conf": 0.74
+  },
+  {
+   "text": "SEKSYEN",
+   "conf": 0.91
+  },
+  {
+   "text": "U5,",
+   "conf": 0.86
+  },
+  {
+   "text": "40150",
+   "conf": 0.96
+  },
+  {
+   "text": "SHAH",
+   "conf": 0.96
+  },
+  {
+   "text": "ALAM,",
+   "conf": 0.96
+  },
+  {
+   "text": "SELANGOR",
+   "conf": 0.96
+  },
+  {
+   "text": "TEL:",
+   "conf": 0.95
+  },
+  {
+   "text": "03-7859",
+   "conf": 0.89
+  },
+  {
+   "text": "+863",
+   "conf": 0.31
+  },
+  {
+   "text": "NO",
+   "conf": 0.94
+  },
+  {
+   "text": "GST:",
+   "conf": 0.95
+  },
+  {
+   "text": "0010",
+   "conf": 0.96
+  },
+  {
+   "text": "9273",
+   "conf": 0.96
+  },
+  {
+   "text": "4976",
+   "conf": 0.96
+  },
+  {
+   "text": "TAX",
+   "conf": 0.95
+  },
+  {
+   "text": "INVOICE",
+   "conf": 0.92
+  },
+  {
+   "text": "TABLE",
+   "conf": 0.79
+  },
+  {
+   "text": ":",
+   "conf": 0.79
+  },
+  {
+   "text": "31",
+   "conf": 0.68
+  },
+  {
+   "text": "BILL",
+   "conf": 0.96
+  },
+  {
+   "text": "NO:",
+   "conf": 0.94
+  },
+  {
+   "text": "00014603",
+   "conf": 0.91
+  },
+  {
+   "text": "/",
+   "conf": 0.9
+  },
+  {
+   "text": "10P01",
+   "conf": 0.86
+  },
+  {
+   "text": "CASHIER:",
+   "conf": 0.96
+  },
+  {
+   "text": "ADMINISTRATOR",
+   "conf": 0.96
+  },
+  {
+   "text": "BILL",
+   "conf": 0.95
+  },
+  {
+   "text": "DT:",
+   "conf": 0.95
+  },
+  {
+   "text": "12/01/2017",
+   "conf": 0.96
+  },
+  {
+   "text": "08:44:46",
+   "conf": 0.69
+  },
+  {
+   "text": "PM",
+   "conf": 0.96
+  },
+  {
+   "text": "RM",
+   "conf": 0.66
+  },
+  {
+   "text": "1",
+   "conf": 0.72
+  },
+  {
+   "text": "TALAPIA",
+   "conf": 0.77
+  },
+  {
+   "text": "-",
+   "conf": 0.92
+  },
+  {
+   "text": "JIU",
+   "conf": 0.92
+  },
+  {
+   "text": "PAI",
+   "conf": 0.92
+  },
+  {
+   "text": "STEAM",
+   "conf": 0.93
+  },
+  {
+   "text": "(S)",
+   "conf": 0.9
+  },
+  {
+   "text": "25.00",
+   "conf": 0.85
+  },
+  {
+   "text": "SR",
+   "conf": 0.96
+  },
+  {
+   "text": "Cul",
+   "conf": 0.49
+  },
+  {
+   "text": "(S)",
+   "conf": 0.75
+  },
+  {
+   "text": "1",
+   "conf": 0.78
+  },
+  {
+   "text": "STEAMED",
+   "conf": 0.85
+  },
+  {
+   "text": "GINGER",
+   "conf": 0.96
+  },
+  {
+   "text": "CHICKEN",
+   "conf": 0.96
+  },
+  {
+   "text": "15.00",
+   "conf": 0.93
+  },
+  {
+   "text": "SR",
+   "conf": 0.96
+  },
+  {
+   "text": "LOS",
+   "conf": 0.63
+  },
+  {
+   "text": "1",
+   "conf": 0.78
+  },
+  {
+   "text": "BEAN",
+   "conf": 0.93
+  },
+  {
+   "text": "CURD",
+   "conf": 0.96
+  },
+  {
+   "text": "WITH",
+   "conf": 0.96
+  },
+  {
+   "text": "FRIED",
+   "conf": 0.95
+  },
+  {
+   "text": "EGG",
+   "conf": 0.92
+  },
+  {
+   "text": "(S)",
+   "conf": 0.89
+  },
+  {
+   "text": "10.00",
+   "conf": 0.9
+  },
+  {
+   "text": "SR",
+   "conf": 0.95
+  },
+  {
+   "text": "M05",
+   "conf": 0.55
+  },
+  {
+   "text": "(S)",
+   "conf": 0.56
+  },
+  {
+   "text": "3",
+   "conf": 0.74
+  },
+  {
+   "text": "WATER",
+   "conf": 0.74
+  },
+  {
+   "text": "/",
+   "conf": 0.92
+  },
+  {
+   "text": "TEA",
+   "conf": 0.95
+  },
+  {
+   "text": "0.50",
+   "conf": 0.0
+  },
+  {
+   "text": "1.59",
+   "conf": 0.52
+  },
+  {
+   "text": "SR",
+   "conf": 0.92
+  },
+  {
+   "text": "3",
+   "conf": 0.71
+  },
+  {
+   "text": "RICC",
+   "conf": 0.0
+  },
+  {
+   "text": "(L)",
+   "conf": 0.11
+  },
+  {
+   "text": "21.50",
+   "conf": 0.67
+  },
+  {
+   "text": "4.50",
+   "conf": 0.75
+  },
+  {
+   "text": "SR",
+   "conf": 0.9
+  },
+  {
+   "text": "(L)",
+   "conf": 0.92
+  },
+  {
+   "text": "9",
+   "conf": 0.9
+  },
+  {
+   "text": "SUB",
+   "conf": 0.93
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.96
+  },
+  {
+   "text": "56.00",
+   "conf": 0.76
+  },
+  {
+   "text": "GST",
+   "conf": 0.95
+  },
+  {
+   "text": "6%",
+   "conf": 0.93
+  },
+  {
+   "text": "3.36",
+   "conf": 0.94
+  },
+  {
+   "text": "ROUNDING",
+   "conf": 0.95
+  },
+  {
+   "text": "ADU",
+   "conf": 0.84
+  },
+  {
+   "text": "-0.01",
+   "conf": 0.46
+  },
+  {
+   "text": "NET",
+   "conf": 0.96
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.96
+  },
+  {
+   "text": "AC",
+   "conf": 0.26
+  },
+  {
+   "text": "3",
+   "conf": 0.68
+  },
+  {
+   "text": "Cash",
+   "conf": 0.96
+  },
+  {
+   "text": "100.00",
+   "conf": 0.83
+  },
+  {
+   "text": "CHANGE",
+   "conf": 0.96
+  },
+  {
+   "text": "40.05",
+   "conf": 0.73
+  },
+  {
+   "text": "Tax",
+   "conf": 0.95
+  },
+  {
+   "text": "Summary",
+   "conf": 0.95
+  },
+  {
+   "text": "Amount",
+   "conf": 0.96
+  },
+  {
+   "text": "Tax",
+   "conf": 0.96
+  },
+  {
+   "text": "SR",
+   "conf": 0.94
+  },
+  {
+   "text": "GST",
+   "conf": 0.94
+  },
+  {
+   "text": "6%",
+   "conf": 0.95
+  },
+  {
+   "text": "56.00",
+   "conf": 0.91
+  },
+  {
+   "text": "a",
+   "conf": 0.0
+  },
+  {
+   "text": "THANK",
+   "conf": 0.94
+  },
+  {
+   "text": "YOU,",
+   "conf": 0.94
+  },
+  {
+   "text": "PLEASE",
+   "conf": 0.96
+  },
+  {
+   "text": "COME",
+   "conf": 0.96
+  },
+  {
+   "text": "AGAIN",
+   "conf": 0.96
+  },
+  {
+   "text": "|",
+   "conf": 0.94
+  },
+  {
+   "text": "S4-\\”",
+   "conf": 0.0
+  },
+  {
+   "text": "ee",
+   "conf": 0.03
+  },
+  {
+   "text": "a",
+   "conf": 0.17
+  },
+  {
+   "text": "y",
+   "conf": 0.31
+  }
+ ],
+ "mean_conf": 0.8065,
+ "low_conf_share": 0.1138,
+ "latency_ms": 800,
+ "fields": {
+  "company": "MEI LET RESTAURANT",
+  "date": "2017-01-12",
+  "total": 100.0
+ },
+ "rule_reasons": [
+  "total_no_keyword_fallback_max"
+ ],
+ "total_candidates": [
+  10.0,
+  0.5,
+  1.59,
+  21.5,
+  4.5,
+  56.0,
+  3.36,
+  -0.01,
+  100.0,
+  40.05,
+  56.0
+ ],
+ "key": "X51006334766"
+}

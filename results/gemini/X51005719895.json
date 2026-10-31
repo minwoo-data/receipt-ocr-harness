@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.6-flash",
+ "provider": "gemini",
+ "raw_text": "{\"vendor\": \"GREEN LANE PHARMACY SDN BHD\", \"date\": \"2018-08-01\", \"subtotal\": 34.81, \"tax\": 0.51, \"tip\": null, \"discount\": -0.01, \"total\": 34.80, \"currency\": \"MYR\", \"confidence\": 0.95, \"notes\": null}",
+ "data": {
+  "vendor": "GREEN LANE PHARMACY SDN BHD",
+  "date": "2018-08-01",
+  "subtotal": 34.81,
+  "tax": 0.51,
+  "tip": null,
+  "discount": -0.01,
+  "total": 34.8,
+  "currency": "MYR",
+  "confidence": 0.95,
+  "notes": null
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1452,
+  "output_tokens": 93,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.001438,
+ "latency_ms": 1884,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.6-flash",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.6-flash"
+ ],
+ "key": "X51005719895"
+}

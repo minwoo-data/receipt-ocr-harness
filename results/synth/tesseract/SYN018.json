@@ -1,0 +1,238 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "SUNRISE PHARMACY SDN BHD",
+  "88 JALAN AMPANG, KUALA LUMPUR",
+  "TAX INVOICE",
+  "Date: 21/10/2024 Time: 13:42",
+  "2 x USB CABLE 1M 39.80",
+  "3 x MINERAL WATER 1.5L 6.60",
+  "2 x WHOLEMEAL BREAD 9.00",
+  "SUBTOTAL 55.40",
+  "GST 6% 3.32",
+  "TOTAL SAVINGS 16.62",
+  "TOTAL 58.72",
+  "CASH 63.72",
+  "CHANGE 5.00",
+  "THANK YOU, PLEASE COME AGAIN"
+ ],
+ "tokens": [
+  {
+   "text": "SUNRISE",
+   "conf": 0.96
+  },
+  {
+   "text": "PHARMACY",
+   "conf": 0.96
+  },
+  {
+   "text": "SDN",
+   "conf": 0.96
+  },
+  {
+   "text": "BHD",
+   "conf": 0.96
+  },
+  {
+   "text": "88",
+   "conf": 0.96
+  },
+  {
+   "text": "JALAN",
+   "conf": 0.93
+  },
+  {
+   "text": "AMPANG,",
+   "conf": 0.92
+  },
+  {
+   "text": "KUALA",
+   "conf": 0.96
+  },
+  {
+   "text": "LUMPUR",
+   "conf": 0.96
+  },
+  {
+   "text": "TAX",
+   "conf": 0.94
+  },
+  {
+   "text": "INVOICE",
+   "conf": 0.96
+  },
+  {
+   "text": "Date:",
+   "conf": 0.96
+  },
+  {
+   "text": "21/10/2024",
+   "conf": 0.96
+  },
+  {
+   "text": "Time:",
+   "conf": 0.96
+  },
+  {
+   "text": "13:42",
+   "conf": 0.96
+  },
+  {
+   "text": "2",
+   "conf": 0.87
+  },
+  {
+   "text": "x",
+   "conf": 0.87
+  },
+  {
+   "text": "USB",
+   "conf": 0.96
+  },
+  {
+   "text": "CABLE",
+   "conf": 0.96
+  },
+  {
+   "text": "1M",
+   "conf": 0.96
+  },
+  {
+   "text": "39.80",
+   "conf": 0.95
+  },
+  {
+   "text": "3",
+   "conf": 0.73
+  },
+  {
+   "text": "x",
+   "conf": 0.73
+  },
+  {
+   "text": "MINERAL",
+   "conf": 0.96
+  },
+  {
+   "text": "WATER",
+   "conf": 0.96
+  },
+  {
+   "text": "1.5L",
+   "conf": 0.95
+  },
+  {
+   "text": "6.60",
+   "conf": 0.96
+  },
+  {
+   "text": "2",
+   "conf": 0.9
+  },
+  {
+   "text": "x",
+   "conf": 0.9
+  },
+  {
+   "text": "WHOLEMEAL",
+   "conf": 0.92
+  },
+  {
+   "text": "BREAD",
+   "conf": 0.96
+  },
+  {
+   "text": "9.00",
+   "conf": 0.95
+  },
+  {
+   "text": "SUBTOTAL",
+   "conf": 0.96
+  },
+  {
+   "text": "55.40",
+   "conf": 0.95
+  },
+  {
+   "text": "GST",
+   "conf": 0.95
+  },
+  {
+   "text": "6%",
+   "conf": 0.95
+  },
+  {
+   "text": "3.32",
+   "conf": 0.96
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.96
+  },
+  {
+   "text": "SAVINGS",
+   "conf": 0.96
+  },
+  {
+   "text": "16.62",
+   "conf": 0.94
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.96
+  },
+  {
+   "text": "58.72",
+   "conf": 0.96
+  },
+  {
+   "text": "CASH",
+   "conf": 0.96
+  },
+  {
+   "text": "63.72",
+   "conf": 0.96
+  },
+  {
+   "text": "CHANGE",
+   "conf": 0.96
+  },
+  {
+   "text": "5.00",
+   "conf": 0.95
+  },
+  {
+   "text": "THANK",
+   "conf": 0.96
+  },
+  {
+   "text": "YOU,",
+   "conf": 0.96
+  },
+  {
+   "text": "PLEASE",
+   "conf": 0.96
+  },
+  {
+   "text": "COME",
+   "conf": 0.96
+  },
+  {
+   "text": "AGAIN",
+   "conf": 0.96
+  }
+ ],
+ "mean_conf": 0.9408,
+ "low_conf_share": 0.0,
+ "latency_ms": 1927,
+ "fields": {
+  "company": "SUNRISE PHARMACY SDN BHD",
+  "date": "2024-10-21",
+  "total": 58.72
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  58.72
+ ],
+ "key": "SYN018"
+}

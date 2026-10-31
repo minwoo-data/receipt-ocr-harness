@@ -1,0 +1,145 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "Thaivi11age",
+  "8102S.LewisAve.SuiteE",
+  "Tulsa,0K74137",
+  "2017Toan",
+  "Check:6911 Guests:1",
+  "08/17/201608:22PM",
+  "1 FR4 Chef Special 9.99",
+  "A3Satay 669",
+  "FR2KowPad Kaprow 9.99",
+  "N1 Pad Thai 666",
+  "IcedTea 2.00",
+  "Subtotal 38.96",
+  "Tax 3.32",
+  "Total $42.28",
+  "TIPAMOUNT",
+  "Your satisfaction is Thai Village",
+  "priority."
+ ],
+ "tokens": [
+  {
+   "text": "8102S.LewisAve.SuiteE",
+   "conf": 0.8798500753584362
+  },
+  {
+   "text": "Thaivi11age",
+   "conf": 0.8615903204137628
+  },
+  {
+   "text": "Tulsa,0K74137",
+   "conf": 0.9018302284754239
+  },
+  {
+   "text": "2017Toan",
+   "conf": 0.9768564477562904
+  },
+  {
+   "text": "Check:6911",
+   "conf": 0.9062904059886933
+  },
+  {
+   "text": "Guests:1",
+   "conf": 0.9494282901287079
+  },
+  {
+   "text": "08/17/201608:22PM",
+   "conf": 0.9471438036245459
+  },
+  {
+   "text": "1",
+   "conf": 0.9257505536079407
+  },
+  {
+   "text": "FR4 Chef Special",
+   "conf": 0.9378213435411453
+  },
+  {
+   "text": "9.99",
+   "conf": 0.9901842623949051
+  },
+  {
+   "text": "A3Satay",
+   "conf": 0.982420061315809
+  },
+  {
+   "text": "669",
+   "conf": 0.9064419865608215
+  },
+  {
+   "text": "FR2KowPad Kaprow",
+   "conf": 0.921601764857769
+  },
+  {
+   "text": "9.99",
+   "conf": 0.9948804080486298
+  },
+  {
+   "text": "N1 Pad Thai",
+   "conf": 0.8726259253241799
+  },
+  {
+   "text": "666",
+   "conf": 0.931329607963562
+  },
+  {
+   "text": "IcedTea",
+   "conf": 0.9789466091564724
+  },
+  {
+   "text": "2.00",
+   "conf": 0.9923127740621567
+  },
+  {
+   "text": "Subtotal",
+   "conf": 0.9886513724923134
+  },
+  {
+   "text": "38.96",
+   "conf": 0.9936764955520629
+  },
+  {
+   "text": "Tax",
+   "conf": 0.9864602486292521
+  },
+  {
+   "text": "3.32",
+   "conf": 0.9814883321523666
+  },
+  {
+   "text": "Total",
+   "conf": 0.9958867311477662
+  },
+  {
+   "text": "$42.28",
+   "conf": 0.9946959217389425
+  },
+  {
+   "text": "TIPAMOUNT",
+   "conf": 0.9896181225776672
+  },
+  {
+   "text": "Your satisfaction is Thai Village",
+   "conf": 0.943424945527857
+  },
+  {
+   "text": "priority.",
+   "conf": 0.9597484999232822
+  }
+ ],
+ "mean_conf": 0.9515,
+ "low_conf_share": 0.0,
+ "latency_ms": 2271,
+ "fields": {
+  "company": "THAIVI11AGE",
+  "date": "2016-08-17",
+  "total": 42.28
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  42.28
+ ],
+ "key": "W0060_1f0bb6cc516b"
+}

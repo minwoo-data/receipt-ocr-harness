@@ -1,0 +1,211 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "ROUND",
+  "TOWER |",
+  "KELLS CO. MEATH",
+  "TELEPHONE 046 924 0144",
+  "*# COPY RECEIPT #3",
+  "CLERK",
+  "2 MAIN COURSE €20.00",
+  "2 TEA £3.00",
+  "6 Total £28.00",
+  "CASH €28 .00",
+  "Tuesday — 5- 4-2011 14:19:48",
+  "#087558 L000]",
+  "ax COPY RECEIPT -4%%",
+  "THANK VOU",
+  "FOR YOUR VISIT"
+ ],
+ "tokens": [
+  {
+   "text": "ROUND",
+   "conf": 0.33
+  },
+  {
+   "text": "TOWER",
+   "conf": 0.86
+  },
+  {
+   "text": "|",
+   "conf": 0.68
+  },
+  {
+   "text": "KELLS",
+   "conf": 0.88
+  },
+  {
+   "text": "CO.",
+   "conf": 0.84
+  },
+  {
+   "text": "MEATH",
+   "conf": 0.84
+  },
+  {
+   "text": "TELEPHONE",
+   "conf": 0.96
+  },
+  {
+   "text": "046",
+   "conf": 0.95
+  },
+  {
+   "text": "924",
+   "conf": 0.95
+  },
+  {
+   "text": "0144",
+   "conf": 0.94
+  },
+  {
+   "text": "*#",
+   "conf": 0.27
+  },
+  {
+   "text": "COPY",
+   "conf": 0.96
+  },
+  {
+   "text": "RECEIPT",
+   "conf": 0.9
+  },
+  {
+   "text": "#3",
+   "conf": 0.13
+  },
+  {
+   "text": "CLERK",
+   "conf": 0.96
+  },
+  {
+   "text": "2",
+   "conf": 0.82
+  },
+  {
+   "text": "MAIN",
+   "conf": 0.82
+  },
+  {
+   "text": "COURSE",
+   "conf": 0.95
+  },
+  {
+   "text": "€20.00",
+   "conf": 0.92
+  },
+  {
+   "text": "2",
+   "conf": 0.83
+  },
+  {
+   "text": "TEA",
+   "conf": 0.83
+  },
+  {
+   "text": "£3.00",
+   "conf": 0.09
+  },
+  {
+   "text": "6",
+   "conf": 0.34
+  },
+  {
+   "text": "Total",
+   "conf": 0.92
+  },
+  {
+   "text": "£28.00",
+   "conf": 0.41
+  },
+  {
+   "text": "CASH",
+   "conf": 0.96
+  },
+  {
+   "text": "€28",
+   "conf": 0.74
+  },
+  {
+   "text": ".00",
+   "conf": 0.74
+  },
+  {
+   "text": "Tuesday",
+   "conf": 0.49
+  },
+  {
+   "text": "—",
+   "conf": 0.02
+  },
+  {
+   "text": "5-",
+   "conf": 0.02
+  },
+  {
+   "text": "4-2011",
+   "conf": 0.84
+  },
+  {
+   "text": "14:19:48",
+   "conf": 0.92
+  },
+  {
+   "text": "#087558",
+   "conf": 0.95
+  },
+  {
+   "text": "L000]",
+   "conf": 0.32
+  },
+  {
+   "text": "ax",
+   "conf": 0.54
+  },
+  {
+   "text": "COPY",
+   "conf": 0.95
+  },
+  {
+   "text": "RECEIPT",
+   "conf": 0.81
+  },
+  {
+   "text": "-4%%",
+   "conf": 0.0
+  },
+  {
+   "text": "THANK",
+   "conf": 0.73
+  },
+  {
+   "text": "VOU",
+   "conf": 0.51
+  },
+  {
+   "text": "FOR",
+   "conf": 0.95
+  },
+  {
+   "text": "YOUR",
+   "conf": 0.95
+  },
+  {
+   "text": "VISIT",
+   "conf": 0.48
+  }
+ ],
+ "mean_conf": 0.6886,
+ "low_conf_share": 0.2727,
+ "latency_ms": 308,
+ "fields": {
+  "company": "TOWER KELLS CO MEATH",
+  "date": "2011-05-04",
+  "total": 28.0
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  28.0
+ ],
+ "key": "W0139_4281"
+}

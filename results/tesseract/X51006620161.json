@@ -1,0 +1,434 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "SIMPLIFIED TAX INVOICE",
+  "SIN THYE & COMPANY",
+  "REG. NO:00148397-H",
+  "GST NOs 001329332224",
+  "NO.54, BATU 5,JALAN IPOH,",
+  "KG. BATU",
+  "51200 KUALA LUMPUR",
+  "TEL: 03-6258 0869 FAX: 03-6251 7978",
+  "MON.SAT 7.30am-6.00pm",
+  "SUN 7.30am.2.00pm",
+  "CASH",
+  "RECEIPT #: CSOU052997 DATE: 28/02/2014",
+  "SALESPERSON + 6 TIME: 11205300",
+  "CASHIER : USER",
+  "ITEM QTY U/P AMOUNT",
+  "813086000911 1 103.77 103.7%",
+  "KR400 KING’S SAFETY SHOES",
+  "TOTAL QUANTITY i",
+  "SUB-TOTAL 103.77",
+  "DISC 0.00",
+  "TAX 0.00",
+  "| ROUNDING 0.00",
+  "TOTAL 110.00",
+  "CASH 110.00",
+  "| CHANGE o.00",
+  "CODE AMOUNT % — TAX/AMT",
+  "SR 103.77 6 4.23",
+  "TAX TOTAL: 6.23",
+  "| GOODS SOLD ARE NOT RETURNABLE,",
+  "THANK YOU,"
+ ],
+ "tokens": [
+  {
+   "text": "SIMPLIFIED",
+   "conf": 0.95
+  },
+  {
+   "text": "TAX",
+   "conf": 0.96
+  },
+  {
+   "text": "INVOICE",
+   "conf": 0.96
+  },
+  {
+   "text": "SIN",
+   "conf": 0.93
+  },
+  {
+   "text": "THYE",
+   "conf": 0.9
+  },
+  {
+   "text": "&",
+   "conf": 0.92
+  },
+  {
+   "text": "COMPANY",
+   "conf": 0.95
+  },
+  {
+   "text": "REG.",
+   "conf": 0.91
+  },
+  {
+   "text": "NO:00148397-H",
+   "conf": 0.76
+  },
+  {
+   "text": "GST",
+   "conf": 0.95
+  },
+  {
+   "text": "NOs",
+   "conf": 0.66
+  },
+  {
+   "text": "001329332224",
+   "conf": 0.9
+  },
+  {
+   "text": "NO.54,",
+   "conf": 0.85
+  },
+  {
+   "text": "BATU",
+   "conf": 0.88
+  },
+  {
+   "text": "5,JALAN",
+   "conf": 0.88
+  },
+  {
+   "text": "IPOH,",
+   "conf": 0.96
+  },
+  {
+   "text": "KG.",
+   "conf": 0.36
+  },
+  {
+   "text": "BATU",
+   "conf": 0.36
+  },
+  {
+   "text": "51200",
+   "conf": 0.96
+  },
+  {
+   "text": "KUALA",
+   "conf": 0.95
+  },
+  {
+   "text": "LUMPUR",
+   "conf": 0.95
+  },
+  {
+   "text": "TEL:",
+   "conf": 0.89
+  },
+  {
+   "text": "03-6258",
+   "conf": 0.91
+  },
+  {
+   "text": "0869",
+   "conf": 0.95
+  },
+  {
+   "text": "FAX:",
+   "conf": 0.95
+  },
+  {
+   "text": "03-6251",
+   "conf": 0.83
+  },
+  {
+   "text": "7978",
+   "conf": 0.96
+  },
+  {
+   "text": "MON.SAT",
+   "conf": 0.84
+  },
+  {
+   "text": "7.30am-6.00pm",
+   "conf": 0.04
+  },
+  {
+   "text": "SUN",
+   "conf": 0.93
+  },
+  {
+   "text": "7.30am.2.00pm",
+   "conf": 0.69
+  },
+  {
+   "text": "CASH",
+   "conf": 0.32
+  },
+  {
+   "text": "RECEIPT",
+   "conf": 0.93
+  },
+  {
+   "text": "#:",
+   "conf": 0.07
+  },
+  {
+   "text": "CSOU052997",
+   "conf": 0.57
+  },
+  {
+   "text": "DATE:",
+   "conf": 0.9
+  },
+  {
+   "text": "28/02/2014",
+   "conf": 0.91
+  },
+  {
+   "text": "SALESPERSON",
+   "conf": 0.39
+  },
+  {
+   "text": "+",
+   "conf": 0.69
+  },
+  {
+   "text": "6",
+   "conf": 0.87
+  },
+  {
+   "text": "TIME:",
+   "conf": 0.79
+  },
+  {
+   "text": "11205300",
+   "conf": 0.76
+  },
+  {
+   "text": "CASHIER",
+   "conf": 0.6
+  },
+  {
+   "text": ":",
+   "conf": 0.78
+  },
+  {
+   "text": "USER",
+   "conf": 0.96
+  },
+  {
+   "text": "ITEM",
+   "conf": 0.94
+  },
+  {
+   "text": "QTY",
+   "conf": 0.64
+  },
+  {
+   "text": "U/P",
+   "conf": 0.0
+  },
+  {
+   "text": "AMOUNT",
+   "conf": 0.44
+  },
+  {
+   "text": "813086000911",
+   "conf": 0.79
+  },
+  {
+   "text": "1",
+   "conf": 0.84
+  },
+  {
+   "text": "103.77",
+   "conf": 0.76
+  },
+  {
+   "text": "103.7%",
+   "conf": 0.47
+  },
+  {
+   "text": "KR400",
+   "conf": 0.48
+  },
+  {
+   "text": "KING’S",
+   "conf": 0.8
+  },
+  {
+   "text": "SAFETY",
+   "conf": 0.96
+  },
+  {
+   "text": "SHOES",
+   "conf": 0.96
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.96
+  },
+  {
+   "text": "QUANTITY",
+   "conf": 0.96
+  },
+  {
+   "text": "i",
+   "conf": 0.84
+  },
+  {
+   "text": "SUB-TOTAL",
+   "conf": 0.93
+  },
+  {
+   "text": "103.77",
+   "conf": 0.71
+  },
+  {
+   "text": "DISC",
+   "conf": 0.93
+  },
+  {
+   "text": "0.00",
+   "conf": 0.93
+  },
+  {
+   "text": "TAX",
+   "conf": 0.96
+  },
+  {
+   "text": "0.00",
+   "conf": 0.69
+  },
+  {
+   "text": "|",
+   "conf": 0.78
+  },
+  {
+   "text": "ROUNDING",
+   "conf": 0.95
+  },
+  {
+   "text": "0.00",
+   "conf": 0.89
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.94
+  },
+  {
+   "text": "110.00",
+   "conf": 0.87
+  },
+  {
+   "text": "CASH",
+   "conf": 0.95
+  },
+  {
+   "text": "110.00",
+   "conf": 0.78
+  },
+  {
+   "text": "|",
+   "conf": 0.54
+  },
+  {
+   "text": "CHANGE",
+   "conf": 0.96
+  },
+  {
+   "text": "o.00",
+   "conf": 0.45
+  },
+  {
+   "text": "CODE",
+   "conf": 0.85
+  },
+  {
+   "text": "AMOUNT",
+   "conf": 0.37
+  },
+  {
+   "text": "%",
+   "conf": 0.36
+  },
+  {
+   "text": "—",
+   "conf": 0.0
+  },
+  {
+   "text": "TAX/AMT",
+   "conf": 0.41
+  },
+  {
+   "text": "SR",
+   "conf": 0.77
+  },
+  {
+   "text": "103.77",
+   "conf": 0.59
+  },
+  {
+   "text": "6",
+   "conf": 0.59
+  },
+  {
+   "text": "4.23",
+   "conf": 0.52
+  },
+  {
+   "text": "TAX",
+   "conf": 0.91
+  },
+  {
+   "text": "TOTAL:",
+   "conf": 0.79
+  },
+  {
+   "text": "6.23",
+   "conf": 0.57
+  },
+  {
+   "text": "|",
+   "conf": 0.5
+  },
+  {
+   "text": "GOODS",
+   "conf": 0.95
+  },
+  {
+   "text": "SOLD",
+   "conf": 0.96
+  },
+  {
+   "text": "ARE",
+   "conf": 0.93
+  },
+  {
+   "text": "NOT",
+   "conf": 0.93
+  },
+  {
+   "text": "RETURNABLE,",
+   "conf": 0.89
+  },
+  {
+   "text": "THANK",
+   "conf": 0.96
+  },
+  {
+   "text": "YOU,",
+   "conf": 0.8
+  }
+ ],
+ "mean_conf": 0.7623,
+ "low_conf_share": 0.1562,
+ "latency_ms": 1978,
+ "fields": {
+  "company": "SIN THYE COMPANY",
+  "date": "2014-02-28",
+  "total": 110.0
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  110.0
+ ],
+ "key": "X51006620161"
+}

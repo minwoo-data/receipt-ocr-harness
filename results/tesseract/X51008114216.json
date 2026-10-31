@@ -1,0 +1,445 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "MR. Dul.¥. (KUCHAI) SDN BHD",
+  "(CO Reg : 750441-W)",
+  "LOT 1851-A & 1851-B, JALAN KPB 6,",
+  "KAWASAN PERINDUSTRIAN BALAKONG,",
+  "43300 SERI KEMBANGAN, SELANGOR",
+  "(GST ID No :000473792512)",
+  "(KEPONG)",
+  "-TAX INVOICE-",
+  "STEEL WOOL SH-2# *§",
+  "EZ03 - 12/144",
+  "8970273 5X 1.79 8.95",
+  "Item(s) : 1 Qty(s) : 5",
+  "Tota] Incl. GST RM 8.95",
+  "CASH RM 50.00",
+  "CHANGE RM 41.05",
+  "GST Summary Amt(RM) = Tax(RM)",
+  "GST SR@O% 8.95 0.00",
+  "1, TEASE SOS a a aa 2S ees EM",
+  "15-06-18 17:12 SHO2 BOO3 12 RO00551481",
+  "OPERATOR KPOT - SHAHRUL NIZAM",
+  "EXCHANGE ARE ALLOWED WITHIN",
+  "7 DAYS WITH RECEIPT.",
+  "STRICTLY NO CASH REFUND."
+ ],
+ "tokens": [
+  {
+   "text": "MR.",
+   "conf": 0.9
+  },
+  {
+   "text": "Dul.¥.",
+   "conf": 0.0
+  },
+  {
+   "text": "(KUCHAI)",
+   "conf": 0.88
+  },
+  {
+   "text": "SDN",
+   "conf": 0.96
+  },
+  {
+   "text": "BHD",
+   "conf": 0.96
+  },
+  {
+   "text": "(CO",
+   "conf": 0.96
+  },
+  {
+   "text": "Reg",
+   "conf": 0.93
+  },
+  {
+   "text": ":",
+   "conf": 0.92
+  },
+  {
+   "text": "750441-W)",
+   "conf": 0.88
+  },
+  {
+   "text": "LOT",
+   "conf": 0.92
+  },
+  {
+   "text": "1851-A",
+   "conf": 0.88
+  },
+  {
+   "text": "&",
+   "conf": 0.88
+  },
+  {
+   "text": "1851-B,",
+   "conf": 0.9
+  },
+  {
+   "text": "JALAN",
+   "conf": 0.92
+  },
+  {
+   "text": "KPB",
+   "conf": 0.91
+  },
+  {
+   "text": "6,",
+   "conf": 0.96
+  },
+  {
+   "text": "KAWASAN",
+   "conf": 0.91
+  },
+  {
+   "text": "PERINDUSTRIAN",
+   "conf": 0.92
+  },
+  {
+   "text": "BALAKONG,",
+   "conf": 0.92
+  },
+  {
+   "text": "43300",
+   "conf": 0.93
+  },
+  {
+   "text": "SERI",
+   "conf": 0.92
+  },
+  {
+   "text": "KEMBANGAN,",
+   "conf": 0.91
+  },
+  {
+   "text": "SELANGOR",
+   "conf": 0.96
+  },
+  {
+   "text": "(GST",
+   "conf": 0.96
+  },
+  {
+   "text": "ID",
+   "conf": 0.96
+  },
+  {
+   "text": "No",
+   "conf": 0.93
+  },
+  {
+   "text": ":000473792512)",
+   "conf": 0.9
+  },
+  {
+   "text": "(KEPONG)",
+   "conf": 0.92
+  },
+  {
+   "text": "-TAX",
+   "conf": 0.9
+  },
+  {
+   "text": "INVOICE-",
+   "conf": 0.9
+  },
+  {
+   "text": "STEEL",
+   "conf": 0.96
+  },
+  {
+   "text": "WOOL",
+   "conf": 0.92
+  },
+  {
+   "text": "SH-2#",
+   "conf": 0.47
+  },
+  {
+   "text": "*§",
+   "conf": 0.77
+  },
+  {
+   "text": "EZ03",
+   "conf": 0.88
+  },
+  {
+   "text": "-",
+   "conf": 0.9
+  },
+  {
+   "text": "12/144",
+   "conf": 0.96
+  },
+  {
+   "text": "8970273",
+   "conf": 0.96
+  },
+  {
+   "text": "5X",
+   "conf": 0.9
+  },
+  {
+   "text": "1.79",
+   "conf": 0.92
+  },
+  {
+   "text": "8.95",
+   "conf": 0.76
+  },
+  {
+   "text": "Item(s)",
+   "conf": 0.92
+  },
+  {
+   "text": ":",
+   "conf": 0.74
+  },
+  {
+   "text": "1",
+   "conf": 0.96
+  },
+  {
+   "text": "Qty(s)",
+   "conf": 0.89
+  },
+  {
+   "text": ":",
+   "conf": 0.89
+  },
+  {
+   "text": "5",
+   "conf": 0.96
+  },
+  {
+   "text": "Tota]",
+   "conf": 0.78
+  },
+  {
+   "text": "Incl.",
+   "conf": 0.95
+  },
+  {
+   "text": "GST",
+   "conf": 0.96
+  },
+  {
+   "text": "RM",
+   "conf": 0.92
+  },
+  {
+   "text": "8.95",
+   "conf": 0.95
+  },
+  {
+   "text": "CASH",
+   "conf": 0.97
+  },
+  {
+   "text": "RM",
+   "conf": 0.95
+  },
+  {
+   "text": "50.00",
+   "conf": 0.95
+  },
+  {
+   "text": "CHANGE",
+   "conf": 0.96
+  },
+  {
+   "text": "RM",
+   "conf": 0.93
+  },
+  {
+   "text": "41.05",
+   "conf": 0.93
+  },
+  {
+   "text": "GST",
+   "conf": 0.95
+  },
+  {
+   "text": "Summary",
+   "conf": 0.96
+  },
+  {
+   "text": "Amt(RM)",
+   "conf": 0.91
+  },
+  {
+   "text": "=",
+   "conf": 0.41
+  },
+  {
+   "text": "Tax(RM)",
+   "conf": 0.74
+  },
+  {
+   "text": "GST",
+   "conf": 0.92
+  },
+  {
+   "text": "SR@O%",
+   "conf": 0.42
+  },
+  {
+   "text": "8.95",
+   "conf": 0.92
+  },
+  {
+   "text": "0.00",
+   "conf": 0.95
+  },
+  {
+   "text": "1,",
+   "conf": 0.19
+  },
+  {
+   "text": "TEASE",
+   "conf": 0.0
+  },
+  {
+   "text": "SOS",
+   "conf": 0.17
+  },
+  {
+   "text": "a",
+   "conf": 0.12
+  },
+  {
+   "text": "a",
+   "conf": 0.24
+  },
+  {
+   "text": "aa",
+   "conf": 0.25
+  },
+  {
+   "text": "2S",
+   "conf": 0.19
+  },
+  {
+   "text": "ees",
+   "conf": 0.24
+  },
+  {
+   "text": "EM",
+   "conf": 0.19
+  },
+  {
+   "text": "15-06-18",
+   "conf": 0.96
+  },
+  {
+   "text": "17:12",
+   "conf": 0.92
+  },
+  {
+   "text": "SHO2",
+   "conf": 0.92
+  },
+  {
+   "text": "BOO3",
+   "conf": 0.76
+  },
+  {
+   "text": "12",
+   "conf": 0.5
+  },
+  {
+   "text": "RO00551481",
+   "conf": 0.68
+  },
+  {
+   "text": "OPERATOR",
+   "conf": 0.92
+  },
+  {
+   "text": "KPOT",
+   "conf": 0.92
+  },
+  {
+   "text": "-",
+   "conf": 0.92
+  },
+  {
+   "text": "SHAHRUL",
+   "conf": 0.92
+  },
+  {
+   "text": "NIZAM",
+   "conf": 0.96
+  },
+  {
+   "text": "EXCHANGE",
+   "conf": 0.96
+  },
+  {
+   "text": "ARE",
+   "conf": 0.96
+  },
+  {
+   "text": "ALLOWED",
+   "conf": 0.96
+  },
+  {
+   "text": "WITHIN",
+   "conf": 0.96
+  },
+  {
+   "text": "7",
+   "conf": 0.91
+  },
+  {
+   "text": "DAYS",
+   "conf": 0.91
+  },
+  {
+   "text": "WITH",
+   "conf": 0.96
+  },
+  {
+   "text": "RECEIPT.",
+   "conf": 0.89
+  },
+  {
+   "text": "STRICTLY",
+   "conf": 0.96
+  },
+  {
+   "text": "NO",
+   "conf": 0.96
+  },
+  {
+   "text": "CASH",
+   "conf": 0.96
+  },
+  {
+   "text": "REFUND.",
+   "conf": 0.92
+  }
+ ],
+ "mean_conf": 0.8199,
+ "low_conf_share": 0.1313,
+ "latency_ms": 1958,
+ "fields": {
+  "company": "MR DUL SDN BHD",
+  "date": "2018-06-15",
+  "total": 50.0
+ },
+ "rule_reasons": [
+  "total_no_keyword_fallback_max"
+ ],
+ "total_candidates": [
+  8.95,
+  50.0,
+  41.05,
+  8.95,
+  0.0
+ ],
+ "key": "X51008114216"
+}

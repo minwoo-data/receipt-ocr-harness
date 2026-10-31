@@ -1,0 +1,874 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "y SUX (2010. ‘",
+  "« ad ; :",
+  "SYARIKAT PERNIAGAAN GIN KEE",
+  "(81109-A)",
+  "NO 290, JALAN AIR PANAS,",
+  "SETAPAK,",
+  "53200, KUALA LUMPUR.",
+  "TEL : 03-40210276",
+  "GST ID : 000750673920",
+  "SIMPLIFIED TAX INVOICE",
+  "7 en",
+  "DocNo —-—«CS00012440 += Date 28/12/2017 _",
+  "Cashier USER Time. 11:57:00",
+  "Salesperson ° Ref. :",
+  "ai a .",
+  "Item Oty, S/Price Amount Tax _",
+  "2623 2 2.12 424 SR",
+  "NAIL (PER/PACK) - RM2",
+  "3483 { 7.95 795 SR",
+  "1 1/2\" SANCORA PAINT BRUSH",
+  "1452 1 10.07 10.07 SR",
+  "7\" PAINT ROLLER SET",
+  "1664 2 26.50 53.00 SR",
+  "{LT BIG TREE HIGH GLOSS PAINT",
+  "| 1665 450 0.30 133.56 SR",
+  "CEMENT BRICK",
+  "1041 3 15.90 47.70 SR",
+  "6' X 35# CORRUGATED ROOFING SHEET",
+  "2430 4 18.02 72.08 SR",
+  "CEMENT (50KG)",
+  "1812 2 16.96 3392 SR",
+  "10° 2X3",
+  "1792 3 7.42 22.26 SR",
+  "10°1X2",
+  "184% 2 40 28 8056 SR",
+  "K10'1X8",
+  "— TotalQty 470° ————<C—«~SSH BG",
+  "Total Sales (Excluding GST) 439.00",
+  "Discount ; 000",
+  "Total GST : 26 34",
+  "Rounding : 0.00",
+  "Total Sales (Inclusive of GST) : 465.34",
+  "CASH : 465.34",
+  "Change : 0.00",
+  "[esr SUMMARY",
+  "Tax Code % Amt(RM) Tax(RM)",
+  "SR 6 439.00 26.34",
+  "| Total : 439.00 26.34",
+  "26 3G",
+  "GOODS SOLD ARE NOT RETURNABLE. THANK YOU"
+ ],
+ "tokens": [
+  {
+   "text": "y",
+   "conf": 0.84
+  },
+  {
+   "text": "SUX",
+   "conf": 0.45
+  },
+  {
+   "text": "(2010.",
+   "conf": 0.59
+  },
+  {
+   "text": "‘",
+   "conf": 0.68
+  },
+  {
+   "text": "«",
+   "conf": 0.9
+  },
+  {
+   "text": "ad",
+   "conf": 0.51
+  },
+  {
+   "text": ";",
+   "conf": 0.08
+  },
+  {
+   "text": ":",
+   "conf": 0.04
+  },
+  {
+   "text": "SYARIKAT",
+   "conf": 0.89
+  },
+  {
+   "text": "PERNIAGAAN",
+   "conf": 0.89
+  },
+  {
+   "text": "GIN",
+   "conf": 0.95
+  },
+  {
+   "text": "KEE",
+   "conf": 0.96
+  },
+  {
+   "text": "(81109-A)",
+   "conf": 0.87
+  },
+  {
+   "text": "NO",
+   "conf": 0.94
+  },
+  {
+   "text": "290,",
+   "conf": 0.96
+  },
+  {
+   "text": "JALAN",
+   "conf": 0.95
+  },
+  {
+   "text": "AIR",
+   "conf": 0.93
+  },
+  {
+   "text": "PANAS,",
+   "conf": 0.77
+  },
+  {
+   "text": "SETAPAK,",
+   "conf": 0.92
+  },
+  {
+   "text": "53200,",
+   "conf": 0.94
+  },
+  {
+   "text": "KUALA",
+   "conf": 0.9
+  },
+  {
+   "text": "LUMPUR.",
+   "conf": 0.95
+  },
+  {
+   "text": "TEL",
+   "conf": 0.88
+  },
+  {
+   "text": ":",
+   "conf": 0.81
+  },
+  {
+   "text": "03-40210276",
+   "conf": 0.91
+  },
+  {
+   "text": "GST",
+   "conf": 0.96
+  },
+  {
+   "text": "ID",
+   "conf": 0.78
+  },
+  {
+   "text": ":",
+   "conf": 0.8
+  },
+  {
+   "text": "000750673920",
+   "conf": 0.96
+  },
+  {
+   "text": "SIMPLIFIED",
+   "conf": 0.95
+  },
+  {
+   "text": "TAX",
+   "conf": 0.96
+  },
+  {
+   "text": "INVOICE",
+   "conf": 0.95
+  },
+  {
+   "text": "7",
+   "conf": 0.08
+  },
+  {
+   "text": "en",
+   "conf": 0.21
+  },
+  {
+   "text": "DocNo",
+   "conf": 0.59
+  },
+  {
+   "text": "—-—«CS00012440",
+   "conf": 0.0
+  },
+  {
+   "text": "+=",
+   "conf": 0.05
+  },
+  {
+   "text": "Date",
+   "conf": 0.05
+  },
+  {
+   "text": "28/12/2017",
+   "conf": 0.73
+  },
+  {
+   "text": "_",
+   "conf": 0.4
+  },
+  {
+   "text": "Cashier",
+   "conf": 0.86
+  },
+  {
+   "text": "USER",
+   "conf": 0.96
+  },
+  {
+   "text": "Time.",
+   "conf": 0.75
+  },
+  {
+   "text": "11:57:00",
+   "conf": 0.84
+  },
+  {
+   "text": "Salesperson",
+   "conf": 0.85
+  },
+  {
+   "text": "°",
+   "conf": 0.08
+  },
+  {
+   "text": "Ref.",
+   "conf": 0.92
+  },
+  {
+   "text": ":",
+   "conf": 0.72
+  },
+  {
+   "text": "ai",
+   "conf": 0.21
+  },
+  {
+   "text": "a",
+   "conf": 0.2
+  },
+  {
+   "text": ".",
+   "conf": 0.0
+  },
+  {
+   "text": "Item",
+   "conf": 0.27
+  },
+  {
+   "text": "Oty,",
+   "conf": 0.24
+  },
+  {
+   "text": "S/Price",
+   "conf": 0.24
+  },
+  {
+   "text": "Amount",
+   "conf": 0.48
+  },
+  {
+   "text": "Tax",
+   "conf": 0.75
+  },
+  {
+   "text": "_",
+   "conf": 0.68
+  },
+  {
+   "text": "2623",
+   "conf": 0.96
+  },
+  {
+   "text": "2",
+   "conf": 0.8
+  },
+  {
+   "text": "2.12",
+   "conf": 0.96
+  },
+  {
+   "text": "424",
+   "conf": 0.95
+  },
+  {
+   "text": "SR",
+   "conf": 0.95
+  },
+  {
+   "text": "NAIL",
+   "conf": 0.92
+  },
+  {
+   "text": "(PER/PACK)",
+   "conf": 0.59
+  },
+  {
+   "text": "-",
+   "conf": 0.9
+  },
+  {
+   "text": "RM2",
+   "conf": 0.89
+  },
+  {
+   "text": "3483",
+   "conf": 0.96
+  },
+  {
+   "text": "{",
+   "conf": 0.74
+  },
+  {
+   "text": "7.95",
+   "conf": 0.86
+  },
+  {
+   "text": "795",
+   "conf": 0.93
+  },
+  {
+   "text": "SR",
+   "conf": 0.95
+  },
+  {
+   "text": "1",
+   "conf": 0.83
+  },
+  {
+   "text": "1/2\"",
+   "conf": 0.89
+  },
+  {
+   "text": "SANCORA",
+   "conf": 0.92
+  },
+  {
+   "text": "PAINT",
+   "conf": 0.96
+  },
+  {
+   "text": "BRUSH",
+   "conf": 0.96
+  },
+  {
+   "text": "1452",
+   "conf": 0.94
+  },
+  {
+   "text": "1",
+   "conf": 0.4
+  },
+  {
+   "text": "10.07",
+   "conf": 0.96
+  },
+  {
+   "text": "10.07",
+   "conf": 0.78
+  },
+  {
+   "text": "SR",
+   "conf": 0.78
+  },
+  {
+   "text": "7\"",
+   "conf": 0.71
+  },
+  {
+   "text": "PAINT",
+   "conf": 0.94
+  },
+  {
+   "text": "ROLLER",
+   "conf": 0.96
+  },
+  {
+   "text": "SET",
+   "conf": 0.96
+  },
+  {
+   "text": "1664",
+   "conf": 0.33
+  },
+  {
+   "text": "2",
+   "conf": 0.89
+  },
+  {
+   "text": "26.50",
+   "conf": 0.84
+  },
+  {
+   "text": "53.00",
+   "conf": 0.83
+  },
+  {
+   "text": "SR",
+   "conf": 0.94
+  },
+  {
+   "text": "{LT",
+   "conf": 0.39
+  },
+  {
+   "text": "BIG",
+   "conf": 0.96
+  },
+  {
+   "text": "TREE",
+   "conf": 0.96
+  },
+  {
+   "text": "HIGH",
+   "conf": 0.96
+  },
+  {
+   "text": "GLOSS",
+   "conf": 0.96
+  },
+  {
+   "text": "PAINT",
+   "conf": 0.96
+  },
+  {
+   "text": "|",
+   "conf": 0.53
+  },
+  {
+   "text": "1665",
+   "conf": 0.37
+  },
+  {
+   "text": "450",
+   "conf": 0.96
+  },
+  {
+   "text": "0.30",
+   "conf": 0.95
+  },
+  {
+   "text": "133.56",
+   "conf": 0.91
+  },
+  {
+   "text": "SR",
+   "conf": 0.93
+  },
+  {
+   "text": "CEMENT",
+   "conf": 0.0
+  },
+  {
+   "text": "BRICK",
+   "conf": 0.96
+  },
+  {
+   "text": "1041",
+   "conf": 0.53
+  },
+  {
+   "text": "3",
+   "conf": 0.96
+  },
+  {
+   "text": "15.90",
+   "conf": 0.84
+  },
+  {
+   "text": "47.70",
+   "conf": 0.89
+  },
+  {
+   "text": "SR",
+   "conf": 0.92
+  },
+  {
+   "text": "6'",
+   "conf": 0.84
+  },
+  {
+   "text": "X",
+   "conf": 0.84
+  },
+  {
+   "text": "35#",
+   "conf": 0.9
+  },
+  {
+   "text": "CORRUGATED",
+   "conf": 0.96
+  },
+  {
+   "text": "ROOFING",
+   "conf": 0.94
+  },
+  {
+   "text": "SHEET",
+   "conf": 0.96
+  },
+  {
+   "text": "2430",
+   "conf": 0.96
+  },
+  {
+   "text": "4",
+   "conf": 0.97
+  },
+  {
+   "text": "18.02",
+   "conf": 0.96
+  },
+  {
+   "text": "72.08",
+   "conf": 0.93
+  },
+  {
+   "text": "SR",
+   "conf": 0.93
+  },
+  {
+   "text": "CEMENT",
+   "conf": 0.93
+  },
+  {
+   "text": "(50KG)",
+   "conf": 0.78
+  },
+  {
+   "text": "1812",
+   "conf": 0.95
+  },
+  {
+   "text": "2",
+   "conf": 0.96
+  },
+  {
+   "text": "16.96",
+   "conf": 0.95
+  },
+  {
+   "text": "3392",
+   "conf": 0.84
+  },
+  {
+   "text": "SR",
+   "conf": 0.94
+  },
+  {
+   "text": "10°",
+   "conf": 0.0
+  },
+  {
+   "text": "2X3",
+   "conf": 0.0
+  },
+  {
+   "text": "1792",
+   "conf": 0.96
+  },
+  {
+   "text": "3",
+   "conf": 0.96
+  },
+  {
+   "text": "7.42",
+   "conf": 0.8
+  },
+  {
+   "text": "22.26",
+   "conf": 0.85
+  },
+  {
+   "text": "SR",
+   "conf": 0.96
+  },
+  {
+   "text": "10°1X2",
+   "conf": 0.55
+  },
+  {
+   "text": "184%",
+   "conf": 0.4
+  },
+  {
+   "text": "2",
+   "conf": 0.96
+  },
+  {
+   "text": "40",
+   "conf": 0.85
+  },
+  {
+   "text": "28",
+   "conf": 0.85
+  },
+  {
+   "text": "8056",
+   "conf": 0.95
+  },
+  {
+   "text": "SR",
+   "conf": 0.92
+  },
+  {
+   "text": "K10'1X8",
+   "conf": 0.61
+  },
+  {
+   "text": "—",
+   "conf": 0.0
+  },
+  {
+   "text": "TotalQty",
+   "conf": 0.17
+  },
+  {
+   "text": "470°",
+   "conf": 0.0
+  },
+  {
+   "text": "————<C—«~SSH",
+   "conf": 0.0
+  },
+  {
+   "text": "BG",
+   "conf": 0.44
+  },
+  {
+   "text": "Total",
+   "conf": 0.96
+  },
+  {
+   "text": "Sales",
+   "conf": 0.96
+  },
+  {
+   "text": "(Excluding",
+   "conf": 0.0
+  },
+  {
+   "text": "GST)",
+   "conf": 0.96
+  },
+  {
+   "text": "439.00",
+   "conf": 0.95
+  },
+  {
+   "text": "Discount",
+   "conf": 0.7
+  },
+  {
+   "text": ";",
+   "conf": 0.7
+  },
+  {
+   "text": "000",
+   "conf": 0.87
+  },
+  {
+   "text": "Total",
+   "conf": 0.2
+  },
+  {
+   "text": "GST",
+   "conf": 0.2
+  },
+  {
+   "text": ":",
+   "conf": 0.89
+  },
+  {
+   "text": "26",
+   "conf": 0.8
+  },
+  {
+   "text": "34",
+   "conf": 0.8
+  },
+  {
+   "text": "Rounding",
+   "conf": 0.84
+  },
+  {
+   "text": ":",
+   "conf": 0.78
+  },
+  {
+   "text": "0.00",
+   "conf": 0.95
+  },
+  {
+   "text": "Total",
+   "conf": 0.95
+  },
+  {
+   "text": "Sales",
+   "conf": 0.95
+  },
+  {
+   "text": "(Inclusive",
+   "conf": 0.95
+  },
+  {
+   "text": "of",
+   "conf": 0.95
+  },
+  {
+   "text": "GST)",
+   "conf": 0.92
+  },
+  {
+   "text": ":",
+   "conf": 0.92
+  },
+  {
+   "text": "465.34",
+   "conf": 0.96
+  },
+  {
+   "text": "CASH",
+   "conf": 0.92
+  },
+  {
+   "text": ":",
+   "conf": 0.92
+  },
+  {
+   "text": "465.34",
+   "conf": 0.95
+  },
+  {
+   "text": "Change",
+   "conf": 0.93
+  },
+  {
+   "text": ":",
+   "conf": 0.92
+  },
+  {
+   "text": "0.00",
+   "conf": 0.96
+  },
+  {
+   "text": "[esr",
+   "conf": 0.74
+  },
+  {
+   "text": "SUMMARY",
+   "conf": 0.96
+  },
+  {
+   "text": "Tax",
+   "conf": 0.96
+  },
+  {
+   "text": "Code",
+   "conf": 0.96
+  },
+  {
+   "text": "%",
+   "conf": 0.51
+  },
+  {
+   "text": "Amt(RM)",
+   "conf": 0.65
+  },
+  {
+   "text": "Tax(RM)",
+   "conf": 0.65
+  },
+  {
+   "text": "SR",
+   "conf": 0.96
+  },
+  {
+   "text": "6",
+   "conf": 0.96
+  },
+  {
+   "text": "439.00",
+   "conf": 0.92
+  },
+  {
+   "text": "26.34",
+   "conf": 0.9
+  },
+  {
+   "text": "|",
+   "conf": 0.94
+  },
+  {
+   "text": "Total",
+   "conf": 0.93
+  },
+  {
+   "text": ":",
+   "conf": 0.87
+  },
+  {
+   "text": "439.00",
+   "conf": 0.96
+  },
+  {
+   "text": "26.34",
+   "conf": 0.96
+  },
+  {
+   "text": "26",
+   "conf": 0.55
+  },
+  {
+   "text": "3G",
+   "conf": 0.45
+  },
+  {
+   "text": "GOODS",
+   "conf": 0.96
+  },
+  {
+   "text": "SOLD",
+   "conf": 0.95
+  },
+  {
+   "text": "ARE",
+   "conf": 0.95
+  },
+  {
+   "text": "NOT",
+   "conf": 0.95
+  },
+  {
+   "text": "RETURNABLE.",
+   "conf": 0.81
+  },
+  {
+   "text": "THANK",
+   "conf": 0.96
+  },
+  {
+   "text": "YOU",
+   "conf": 0.87
+  }
+ ],
+ "mean_conf": 0.761,
+ "low_conf_share": 0.1692,
+ "latency_ms": 2642,
+ "fields": {
+  "company": "SYARIKAT PERNIAGAAN GIN KEE",
+  "date": "2017-12-28",
+  "total": 465.34
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  465.34
+ ],
+ "key": "X51005663324"
+}

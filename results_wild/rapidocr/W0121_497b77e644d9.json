@@ -1,0 +1,163 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "HMSHOST",
+  "CALIFORNIA PIZZA KITCHEN",
+  "OAKLAND INTL AIRPORT",
+  "287724 Brittney",
+  "CHK 2900 GST1",
+  "DEC23'142:52PM",
+  "TOGO",
+  "1PIZMARGHTA 11.49",
+  "1WTRARTCSOLM 2.99",
+  "SUBTOTAL 14.48",
+  "EE BENFT SURCHRG 0.29",
+  "TAX 1.33",
+  "AMOUNT PAID 16.10",
+  "CASH 20.00",
+  "CHANGE 3.90",
+  "--287724C10SedDEC2302:52PM--",
+  "THANK YOU FOR YOUR BUSINESS!",
+  "TELL US ABOUT YOUR EXPERIENCE",
+  "GILBERT SILVA",
+  "GILBERT.SILVA@HMSHOST.COM"
+ ],
+ "tokens": [
+  {
+   "text": "HMSHOST",
+   "conf": 0.9888032674789429
+  },
+  {
+   "text": "CALIFORNIA PIZZA KITCHEN",
+   "conf": 0.9591990858316422
+  },
+  {
+   "text": "OAKLAND INTL AIRPORT",
+   "conf": 0.9674598395824432
+  },
+  {
+   "text": "287724 Brittney",
+   "conf": 0.9670326113700867
+  },
+  {
+   "text": "CHK 2900",
+   "conf": 0.9585750848054886
+  },
+  {
+   "text": "GST1",
+   "conf": 0.9857142418622971
+  },
+  {
+   "text": "DEC23'142:52PM",
+   "conf": 0.952067392213004
+  },
+  {
+   "text": "TOGO",
+   "conf": 0.9730032086372375
+  },
+  {
+   "text": "1PIZMARGHTA",
+   "conf": 0.9940249865705316
+  },
+  {
+   "text": "11.49",
+   "conf": 0.9933756113052368
+  },
+  {
+   "text": "1WTRARTCSOLM",
+   "conf": 0.9916712989409765
+  },
+  {
+   "text": "2.99",
+   "conf": 0.9967861771583557
+  },
+  {
+   "text": "SUBTOTAL",
+   "conf": 0.9886019974946976
+  },
+  {
+   "text": "14.48",
+   "conf": 0.9975989699363709
+  },
+  {
+   "text": "EE BENFT SURCHRG",
+   "conf": 0.9673529751598835
+  },
+  {
+   "text": "0.29",
+   "conf": 0.9937957227230072
+  },
+  {
+   "text": "TAX",
+   "conf": 0.9873261054356893
+  },
+  {
+   "text": "1.33",
+   "conf": 0.9962041676044464
+  },
+  {
+   "text": "AMOUNT PAID",
+   "conf": 0.9661792625080455
+  },
+  {
+   "text": "16.10",
+   "conf": 0.9965222239494324
+  },
+  {
+   "text": "CASH",
+   "conf": 0.9937112778425217
+  },
+  {
+   "text": "20.00",
+   "conf": 0.9959778785705566
+  },
+  {
+   "text": "CHANGE",
+   "conf": 0.9871725638707479
+  },
+  {
+   "text": "3.90",
+   "conf": 0.9952773153781891
+  },
+  {
+   "text": "--287724C10SedDEC2302:52PM--",
+   "conf": 0.9612916516406196
+  },
+  {
+   "text": "THANK YOU FOR YOUR BUSINESS!",
+   "conf": 0.9504766740969249
+  },
+  {
+   "text": "TELL US ABOUT YOUR EXPERIENCE",
+   "conf": 0.9518339448961718
+  },
+  {
+   "text": "GILBERT SILVA",
+   "conf": 0.9510101538438064
+  },
+  {
+   "text": "GILBERT.SILVA@HMSHOST.COM",
+   "conf": 0.9774547433853149
+  }
+ ],
+ "mean_conf": 0.9788,
+ "low_conf_share": 0.0,
+ "latency_ms": 4498,
+ "fields": {
+  "company": "HMSHOST",
+  "date": null,
+  "total": 20.0
+ },
+ "rule_reasons": [
+  "date_not_found",
+  "total_no_keyword_fallback_max"
+ ],
+ "total_candidates": [
+  0.29,
+  1.33,
+  16.1,
+  20.0,
+  3.9
+ ],
+ "key": "W0121_497b77e644d9"
+}

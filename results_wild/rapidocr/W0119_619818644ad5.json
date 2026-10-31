@@ -1,0 +1,122 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "Saizeriya",
+  "11,Tanjong Katong Road #02-16,0neKM",
+  "Singapore 437157 Tel:6702 2478",
+  "Company Reg. No.200818603R",
+  "GST Reg.No.20-0818603-R",
+  "Table:11 PAX:2",
+  "Bil1 No.:(New Bi11)",
+  "Date:2014/11/2111:40:11",
+  "Server: Jannete",
+  "1x 1x Tuna & Fish Egg Doria Lunch $6.90 $6.90",
+  "Grand Total $13.80",
+  "（7%GST:$0.90）",
+  "2014/11/21 11:40:19 Jannete",
+  "(New Bi11）[0]"
+ ],
+ "tokens": [
+  {
+   "text": "Saizeriya",
+   "conf": 0.9923582739300199
+  },
+  {
+   "text": "11,Tanjong Katong Road",
+   "conf": 0.9585237882354043
+  },
+  {
+   "text": "#02-16,0neKM",
+   "conf": 0.9586690217256546
+  },
+  {
+   "text": "Singapore 437157",
+   "conf": 0.9746651202440262
+  },
+  {
+   "text": "Tel:6702 2478",
+   "conf": 0.949668444119967
+  },
+  {
+   "text": "Company Reg. No.200818603R",
+   "conf": 0.9544614920249352
+  },
+  {
+   "text": "GST Reg.No.20-0818603-R",
+   "conf": 0.9769286902054496
+  },
+  {
+   "text": "Table:11",
+   "conf": 0.9453043639659882
+  },
+  {
+   "text": "PAX:2",
+   "conf": 0.956605589389801
+  },
+  {
+   "text": "Bil1 No.:(New Bi11)",
+   "conf": 0.8665929750392312
+  },
+  {
+   "text": "Date:2014/11/2111:40:11",
+   "conf": 0.987176573794821
+  },
+  {
+   "text": "Server: Jannete",
+   "conf": 0.9540564815203348
+  },
+  {
+   "text": "1x",
+   "conf": 0.7663224637508392
+  },
+  {
+   "text": "Doria Lunch",
+   "conf": 0.978435608473691
+  },
+  {
+   "text": "$6.90",
+   "conf": 0.9968482255935669
+  },
+  {
+   "text": "1x",
+   "conf": 0.791019856929779
+  },
+  {
+   "text": "Tuna & Fish Egg",
+   "conf": 0.9246956785519918
+  },
+  {
+   "text": "$6.90",
+   "conf": 0.9978202223777771
+  },
+  {
+   "text": "Grand Total $13.80",
+   "conf": 0.9286789761649238
+  },
+  {
+   "text": "（7%GST:$0.90）",
+   "conf": 0.9194991817841163
+  },
+  {
+   "text": "2014/11/21 11:40:19 Jannete",
+   "conf": 0.9511778597478513
+  },
+  {
+   "text": "(New Bi11）[0]",
+   "conf": 0.7709864309200873
+  }
+ ],
+ "mean_conf": 0.9318,
+ "low_conf_share": 0.0,
+ "latency_ms": 3523,
+ "fields": {
+  "company": "SAIZERIYA",
+  "date": "2014-11-21",
+  "total": 13.8
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  13.8
+ ],
+ "key": "W0119_619818644ad5"
+}

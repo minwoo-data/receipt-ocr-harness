@@ -1,0 +1,209 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "3425,Gr.Floor Jln Theatery",
+  "Jinjang Utara",
+  "52100 K.L.",
+  "TEL:03-67311233",
+  "（GST ID：000294060032）",
+  "Tax InVOiCE",
+  "Inv No :JJ30275852 Date:10/10/17 20:58",
+  "Cashier:FT11822 Ctr :01",
+  "Code Desc Qty RMDZ Amt",
+  "691023 ICE-CREAM 1 58.00 0 58.00S",
+  "211010 Portugues 6 2.00 0 12.00S",
+  "Qty 7 70.00",
+  "Rounding Adj- 0.00",
+  "Due 70.00",
+  "Pay 100.00",
+  "Change 30.00",
+  "(Total Ineluded 6ST @ 6%:3.96)",
+  "GOODS SOLD NOT RETURNABLE/EXCHANGEABLE!",
+  "THANK YOU PLEASE COME AGAIN!!",
+  "TASTY BAKING HEALTHY NATION!!",
+  "weVisit us online at www.kings.com.mym"
+ ],
+ "tokens": [
+  {
+   "text": "3425,Gr.Floor Jln Theatery",
+   "conf": 0.942796908892118
+  },
+  {
+   "text": "Jinjang Utara",
+   "conf": 0.9751437719051654
+  },
+  {
+   "text": "52100 K.L.",
+   "conf": 0.9361329495906829
+  },
+  {
+   "text": "TEL:03-67311233",
+   "conf": 0.9939735531806946
+  },
+  {
+   "text": "（GST ID：000294060032）",
+   "conf": 0.9175873483930316
+  },
+  {
+   "text": "Tax",
+   "conf": 0.8179632027943929
+  },
+  {
+   "text": "InVOiCE",
+   "conf": 0.7344645687511989
+  },
+  {
+   "text": "Inv No :JJ30275852",
+   "conf": 0.9614671137597826
+  },
+  {
+   "text": "Date:10/10/17 20:58",
+   "conf": 0.9641145059936925
+  },
+  {
+   "text": "Cashier:FT11822",
+   "conf": 0.9880480289459228
+  },
+  {
+   "text": "Ctr :01",
+   "conf": 0.924472953592028
+  },
+  {
+   "text": "Code",
+   "conf": 0.9853987097740173
+  },
+  {
+   "text": "Desc",
+   "conf": 0.9872754216194153
+  },
+  {
+   "text": "Qty",
+   "conf": 0.9728547732035319
+  },
+  {
+   "text": "RMDZ",
+   "conf": 0.9793098121881485
+  },
+  {
+   "text": "Amt",
+   "conf": 0.9831984440485636
+  },
+  {
+   "text": "691023 ICE-CREAM",
+   "conf": 0.9601743184030056
+  },
+  {
+   "text": "1",
+   "conf": 0.9676995277404785
+  },
+  {
+   "text": "58.00",
+   "conf": 0.9985507488250732
+  },
+  {
+   "text": "0",
+   "conf": 0.9948223829269409
+  },
+  {
+   "text": "58.00S",
+   "conf": 0.9060651312271754
+  },
+  {
+   "text": "211010 Portugues",
+   "conf": 0.9339937437325716
+  },
+  {
+   "text": "6",
+   "conf": 0.95472651720047
+  },
+  {
+   "text": "2.00",
+   "conf": 0.9941782206296921
+  },
+  {
+   "text": "0",
+   "conf": 0.9870680570602417
+  },
+  {
+   "text": "12.00S",
+   "conf": 0.8882371832927068
+  },
+  {
+   "text": "Qty",
+   "conf": 0.9811674952507019
+  },
+  {
+   "text": "7",
+   "conf": 0.9974572062492371
+  },
+  {
+   "text": "70.00",
+   "conf": 0.9974617123603821
+  },
+  {
+   "text": "Rounding Adj-",
+   "conf": 0.957734438089224
+  },
+  {
+   "text": "0.00",
+   "conf": 0.996182382106781
+  },
+  {
+   "text": "Due",
+   "conf": 0.9844324191411337
+  },
+  {
+   "text": "70.00",
+   "conf": 0.9933501720428467
+  },
+  {
+   "text": "Pay",
+   "conf": 0.9814250270525614
+  },
+  {
+   "text": "100.00",
+   "conf": 0.9991163313388824
+  },
+  {
+   "text": "Change",
+   "conf": 0.995636502901713
+  },
+  {
+   "text": "30.00",
+   "conf": 0.9993669390678406
+  },
+  {
+   "text": "(Total Ineluded 6ST @ 6%:3.96)",
+   "conf": 0.8613224903742472
+  },
+  {
+   "text": "GOODS SOLD NOT RETURNABLE/EXCHANGEABLE!",
+   "conf": 0.9704614877700806
+  },
+  {
+   "text": "THANK YOU PLEASE COME AGAIN!!",
+   "conf": 0.9402877462321314
+  },
+  {
+   "text": "TASTY BAKING HEALTHY NATION!!",
+   "conf": 0.9656693216027885
+  },
+  {
+   "text": "weVisit us online at www.kings.com.mym",
+   "conf": 0.9147170397796129
+  }
+ ],
+ "mean_conf": 0.9568,
+ "low_conf_share": 0.0,
+ "latency_ms": 5025,
+ "fields": {
+  "company": "JINJANG UTARA",
+  "date": "2017-10-10",
+  "total": 3.96
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  3.96
+ ],
+ "key": "X51006389894"
+}

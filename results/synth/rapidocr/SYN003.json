@@ -1,0 +1,155 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "BLUEHARBOURCAFE",
+  "LOT 3-21PAVILIONMALL，BUKIT BINTANG",
+  "TAXINVOICE",
+  "Date:22/05/2009 Time:13:42",
+  "1XWHOLEMEALBREAD 4.50",
+  "3x GARDENSALAD 46.50",
+  "3 X CHICKEN RICE SET 38.70",
+  "1x BALLP0INTPEN3PK 5.90",
+  "2XGARDEN SALAD 31.00",
+  "SUBTOTAL 126.60",
+  "GST6% 7.60",
+  "TOTAL 134.20",
+  "CASH 139.20",
+  "CHANGE 5.00",
+  "THANKYOU,PLEASECOME AGAIN"
+ ],
+ "tokens": [
+  {
+   "text": "BLUEHARBOURCAFE",
+   "conf": 0.9952139616012573
+  },
+  {
+   "text": "LOT 3-21PAVILIONMALL，BUKIT BINTANG",
+   "conf": 0.9429372759426341
+  },
+  {
+   "text": "TAXINVOICE",
+   "conf": 0.995268714427948
+  },
+  {
+   "text": "Date:22/05/2009",
+   "conf": 0.9903686881065369
+  },
+  {
+   "text": "Time:13:42",
+   "conf": 0.9850111246109009
+  },
+  {
+   "text": "1XWHOLEMEALBREAD",
+   "conf": 0.9809730686247349
+  },
+  {
+   "text": "4.50",
+   "conf": 0.9981824308633804
+  },
+  {
+   "text": "3x",
+   "conf": 0.7307524383068085
+  },
+  {
+   "text": "GARDENSALAD",
+   "conf": 0.9903085936199535
+  },
+  {
+   "text": "46.50",
+   "conf": 0.9995526194572448
+  },
+  {
+   "text": "3",
+   "conf": 0.9993090629577637
+  },
+  {
+   "text": "X",
+   "conf": 0.8818503618240356
+  },
+  {
+   "text": "CHICKEN RICE SET",
+   "conf": 0.9519216679036617
+  },
+  {
+   "text": "38.70",
+   "conf": 0.9996978044509888
+  },
+  {
+   "text": "1x",
+   "conf": 0.8446623384952545
+  },
+  {
+   "text": "BALLP0INTPEN3PK",
+   "conf": 0.9632713794708252
+  },
+  {
+   "text": "5.90",
+   "conf": 0.9994208812713623
+  },
+  {
+   "text": "2XGARDEN SALAD",
+   "conf": 0.9317653264318194
+  },
+  {
+   "text": "31.00",
+   "conf": 0.9987303376197815
+  },
+  {
+   "text": "SUBTOTAL",
+   "conf": 0.9929382503032684
+  },
+  {
+   "text": "126.60",
+   "conf": 0.9991924663384756
+  },
+  {
+   "text": "GST6%",
+   "conf": 0.9989147067070008
+  },
+  {
+   "text": "7.60",
+   "conf": 0.9993567019701004
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.9947195410728454
+  },
+  {
+   "text": "134.20",
+   "conf": 0.9988208413124084
+  },
+  {
+   "text": "CASH",
+   "conf": 0.9968718737363815
+  },
+  {
+   "text": "139.20",
+   "conf": 0.998471220334371
+  },
+  {
+   "text": "CHANGE",
+   "conf": 0.9966342548529307
+  },
+  {
+   "text": "5.00",
+   "conf": 0.9995102286338806
+  },
+  {
+   "text": "THANKYOU,PLEASECOME AGAIN",
+   "conf": 0.9545509839057922
+  }
+ ],
+ "mean_conf": 0.9703,
+ "low_conf_share": 0.0,
+ "latency_ms": 24016,
+ "fields": {
+  "company": "BLUEHARBOURCAFE",
+  "date": "2009-05-22",
+  "total": 134.2
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  134.2
+ ],
+ "key": "SYN003"
+}

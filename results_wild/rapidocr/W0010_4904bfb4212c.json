@@ -1,0 +1,149 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "SANTA FE MEXICAN",
+  "3035HIGHPOINT RD",
+  "GREENSBOR0.NC 27403",
+  "336-617-4899",
+  "Tb1:BAR11 Gsts:2 Srvr:Alexis",
+  "Date:07-24-20164:30pm 1.0551.00106",
+  "Guests:2",
+  "3Jnb Tx Marg Ra 31.50",
+  "6Patron Anejo 58.50",
+  "1Corona 3.50",
+  "Sub-Total: 93.50",
+  "btal Due: Tax: 6.33",
+  "99.83",
+  "10x=$9.3515x=$14.02 20%=$18.70",
+  "Suggeested Tip",
+  "HOWARE WE DOING?",
+  "WEVALUE YOUR OPINION!!",
+  "Please go to ww.santafenc.com tell us about your dining"
+ ],
+ "tokens": [
+  {
+   "text": "SANTA FE MEXICAN",
+   "conf": 0.97241485491395
+  },
+  {
+   "text": "3035HIGHPOINT RD",
+   "conf": 0.9616870880126953
+  },
+  {
+   "text": "GREENSBOR0.NC 27403",
+   "conf": 0.9104977814774764
+  },
+  {
+   "text": "336-617-4899",
+   "conf": 0.9942840685447057
+  },
+  {
+   "text": "Tb1:BAR11 Gsts:2 Srvr:Alexis",
+   "conf": 0.9160348283393043
+  },
+  {
+   "text": "Date:07-24-20164:30pm",
+   "conf": 0.9691811572937739
+  },
+  {
+   "text": "1.0551.00106",
+   "conf": 0.9884404093027115
+  },
+  {
+   "text": "Guests:2",
+   "conf": 0.9694812223315239
+  },
+  {
+   "text": "3Jnb Tx Marg Ra",
+   "conf": 0.859437906742096
+  },
+  {
+   "text": "31.50",
+   "conf": 0.9902937650680542
+  },
+  {
+   "text": "6Patron Anejo",
+   "conf": 0.9550668734770554
+  },
+  {
+   "text": "58.50",
+   "conf": 0.9931519746780395
+  },
+  {
+   "text": "1Corona",
+   "conf": 0.9688583612442017
+  },
+  {
+   "text": "3.50",
+   "conf": 0.9906845539808273
+  },
+  {
+   "text": "Sub-Total:",
+   "conf": 0.985454398393631
+  },
+  {
+   "text": "93.50",
+   "conf": 0.9958130478858948
+  },
+  {
+   "text": "Tax:",
+   "conf": 0.9851786345243454
+  },
+  {
+   "text": "btal Due:",
+   "conf": 0.8601113160451254
+  },
+  {
+   "text": "6.33",
+   "conf": 0.9489358812570572
+  },
+  {
+   "text": "99.83",
+   "conf": 0.9978594541549682
+  },
+  {
+   "text": "10x=$9.3515x=$14.02 20%=$18.70",
+   "conf": 0.9235786020755767
+  },
+  {
+   "text": "Suggeested Tip",
+   "conf": 0.9367778428963253
+  },
+  {
+   "text": "HOWARE WE DOING?",
+   "conf": 0.9472848027944565
+  },
+  {
+   "text": "WEVALUE YOUR OPINION!!",
+   "conf": 0.9248871071772142
+  },
+  {
+   "text": "Please go to ww.santafenc.com",
+   "conf": 0.9002675948471859
+  },
+  {
+   "text": "tell us about your dining",
+   "conf": 0.9479004192352295
+  }
+ ],
+ "mean_conf": 0.9536,
+ "low_conf_share": 0.0,
+ "latency_ms": 3796,
+ "fields": {
+  "company": "SANTA FE MEXICAN",
+  "date": "2016-07-24",
+  "total": 99.83
+ },
+ "rule_reasons": [
+  "total_no_keyword_fallback_max"
+ ],
+ "total_candidates": [
+  3.5,
+  93.5,
+  6.33,
+  99.83,
+  14.02,
+  18.7
+ ],
+ "key": "W0010_4904bfb4212c"
+}

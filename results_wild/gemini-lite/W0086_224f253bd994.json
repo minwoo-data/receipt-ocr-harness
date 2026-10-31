@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.1-flash-lite",
+ "provider": "gemini",
+ "raw_text": "{\n  \"vendor\": \"Lynnwood #1190\",\n  \"date\": \"2017-04-13\",\n  \"subtotal\": 99.95,\n  \"tax\": 10.86,\n  \"tip\": null,\n  \"discount\": -10.50,\n  \"total\": 110.81,\n  \"currency\": \"USD\",\n  \"confidence\": 0.95,\n  \"notes\": null\n}",
+ "data": {
+  "vendor": "Lynnwood #1190",
+  "date": "2017-04-13",
+  "subtotal": 99.95,
+  "tax": 10.86,
+  "tip": null,
+  "discount": -10.5,
+  "total": 110.81,
+  "currency": "USD",
+  "confidence": 0.95,
+  "notes": null
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1458,
+  "output_tokens": 116,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.000539,
+ "latency_ms": 1719,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.1-flash-lite",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.1-flash-lite"
+ ],
+ "key": "W0086_224f253bd994"
+}

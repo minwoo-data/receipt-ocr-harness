@@ -1,0 +1,729 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "ee",
+  ". nt Aa ‘",
+  "TOKYO KITCHEN (CITTA MALL) .",
+  "TOKYO KITCHEN SDN BHD a",
+  "(945402-P)",
+  "G-26, GRD FLOOR,CITTA MALL,",
+  "NO 1, JALAN PJU,",
+  "14/4B, JLN Pul 1,ARA DAMANSARA,",
+  "47301 PETALING JAYA. ;",
+  "SELANGOR. :",
+  ": GST Reg. No : 002007515136",
+  "Tax Invoice",
+  "Table D2 POST",
+  "Order#. 14938",
+  "Bil:#: YOO7- 147795 Pax(s): 4",
+  "Bate + 23-04-2017 21:04:28",
+  "Cashier: !IMIE",
+  "- Description Qty U.price Total TAX ;",
+  "Salmon Teriyaki Wazen",
+  "1x 25.90 25.90 SR",
+  "Chicken Salad & Sashimi Gozen",
+  "1 x 25.90 25.90 SR",
+  "Chicken Katsu Curry Wazen",
+  "1x 19.90 19.90 SR",
+  "Saba Teriyaki Wazen",
+  "1x 25.90 25.90 SR",
+  "Total (Excluding GST): 97.60",
+  "Serv. Charge (10%): 9.76",
+  "GST Payable: 6.44",
+  "Total (Inclusive of GST): 113.80",
+  "TOTAL: 113.80",
+  "Closed: 1528 23-04-2017 21:42:00",
+  "Server: PETER",
+  "VISA 113.80",
+  "— ee EEE7HOT",
+  "- WONG TAI CHIN",
+  "- #42",
+  "GST Summary Amount (RM) — Tax(RM) wh",
+  "SR (@ 6%) 107.36 6.44",
+  "7 : (Guest Signature) a",
+  "\\",
+  "ee Thank You kt \\",
+  "Please Come Again",
+  "= POWERED BY WWAMYSIS.coMMY tL 3-90",
+  "—"
+ ],
+ "tokens": [
+  {
+   "text": "ee",
+   "conf": 0.12
+  },
+  {
+   "text": ".",
+   "conf": 0.17
+  },
+  {
+   "text": "nt",
+   "conf": 0.41
+  },
+  {
+   "text": "Aa",
+   "conf": 0.78
+  },
+  {
+   "text": "‘",
+   "conf": 0.0
+  },
+  {
+   "text": "TOKYO",
+   "conf": 0.93
+  },
+  {
+   "text": "KITCHEN",
+   "conf": 0.85
+  },
+  {
+   "text": "(CITTA",
+   "conf": 0.62
+  },
+  {
+   "text": "MALL)",
+   "conf": 0.91
+  },
+  {
+   "text": ".",
+   "conf": 0.24
+  },
+  {
+   "text": "TOKYO",
+   "conf": 0.96
+  },
+  {
+   "text": "KITCHEN",
+   "conf": 0.96
+  },
+  {
+   "text": "SDN",
+   "conf": 0.95
+  },
+  {
+   "text": "BHD",
+   "conf": 0.95
+  },
+  {
+   "text": "a",
+   "conf": 0.27
+  },
+  {
+   "text": "(945402-P)",
+   "conf": 0.61
+  },
+  {
+   "text": "G-26,",
+   "conf": 0.91
+  },
+  {
+   "text": "GRD",
+   "conf": 0.88
+  },
+  {
+   "text": "FLOOR,CITTA",
+   "conf": 0.73
+  },
+  {
+   "text": "MALL,",
+   "conf": 0.96
+  },
+  {
+   "text": "NO",
+   "conf": 0.84
+  },
+  {
+   "text": "1,",
+   "conf": 0.84
+  },
+  {
+   "text": "JALAN",
+   "conf": 0.93
+  },
+  {
+   "text": "PJU,",
+   "conf": 0.85
+  },
+  {
+   "text": "14/4B,",
+   "conf": 0.24
+  },
+  {
+   "text": "JLN",
+   "conf": 0.91
+  },
+  {
+   "text": "Pul",
+   "conf": 0.49
+  },
+  {
+   "text": "1,ARA",
+   "conf": 0.26
+  },
+  {
+   "text": "DAMANSARA,",
+   "conf": 0.91
+  },
+  {
+   "text": "47301",
+   "conf": 0.85
+  },
+  {
+   "text": "PETALING",
+   "conf": 0.88
+  },
+  {
+   "text": "JAYA.",
+   "conf": 0.79
+  },
+  {
+   "text": ";",
+   "conf": 0.18
+  },
+  {
+   "text": "SELANGOR.",
+   "conf": 0.87
+  },
+  {
+   "text": ":",
+   "conf": 0.69
+  },
+  {
+   "text": ":",
+   "conf": 0.25
+  },
+  {
+   "text": "GST",
+   "conf": 0.96
+  },
+  {
+   "text": "Reg.",
+   "conf": 0.95
+  },
+  {
+   "text": "No",
+   "conf": 0.89
+  },
+  {
+   "text": ":",
+   "conf": 0.77
+  },
+  {
+   "text": "002007515136",
+   "conf": 0.95
+  },
+  {
+   "text": "Tax",
+   "conf": 0.95
+  },
+  {
+   "text": "Invoice",
+   "conf": 0.94
+  },
+  {
+   "text": "Table",
+   "conf": 0.96
+  },
+  {
+   "text": "D2",
+   "conf": 0.94
+  },
+  {
+   "text": "POST",
+   "conf": 0.95
+  },
+  {
+   "text": "Order#.",
+   "conf": 0.01
+  },
+  {
+   "text": "14938",
+   "conf": 0.65
+  },
+  {
+   "text": "Bil:#:",
+   "conf": 0.81
+  },
+  {
+   "text": "YOO7-",
+   "conf": 0.5
+  },
+  {
+   "text": "147795",
+   "conf": 0.96
+  },
+  {
+   "text": "Pax(s):",
+   "conf": 0.91
+  },
+  {
+   "text": "4",
+   "conf": 0.96
+  },
+  {
+   "text": "Bate",
+   "conf": 0.69
+  },
+  {
+   "text": "+",
+   "conf": 0.57
+  },
+  {
+   "text": "23-04-2017",
+   "conf": 0.9
+  },
+  {
+   "text": "21:04:28",
+   "conf": 0.94
+  },
+  {
+   "text": "Cashier:",
+   "conf": 0.88
+  },
+  {
+   "text": "!IMIE",
+   "conf": 0.0
+  },
+  {
+   "text": "-",
+   "conf": 0.45
+  },
+  {
+   "text": "Description",
+   "conf": 0.67
+  },
+  {
+   "text": "Qty",
+   "conf": 0.58
+  },
+  {
+   "text": "U.price",
+   "conf": 0.39
+  },
+  {
+   "text": "Total",
+   "conf": 0.96
+  },
+  {
+   "text": "TAX",
+   "conf": 0.83
+  },
+  {
+   "text": ";",
+   "conf": 0.0
+  },
+  {
+   "text": "Salmon",
+   "conf": 0.76
+  },
+  {
+   "text": "Teriyaki",
+   "conf": 0.89
+  },
+  {
+   "text": "Wazen",
+   "conf": 0.91
+  },
+  {
+   "text": "1x",
+   "conf": 0.92
+  },
+  {
+   "text": "25.90",
+   "conf": 0.78
+  },
+  {
+   "text": "25.90",
+   "conf": 0.65
+  },
+  {
+   "text": "SR",
+   "conf": 0.95
+  },
+  {
+   "text": "Chicken",
+   "conf": 0.96
+  },
+  {
+   "text": "Salad",
+   "conf": 0.93
+  },
+  {
+   "text": "&",
+   "conf": 0.93
+  },
+  {
+   "text": "Sashimi",
+   "conf": 0.74
+  },
+  {
+   "text": "Gozen",
+   "conf": 0.92
+  },
+  {
+   "text": "1",
+   "conf": 0.7
+  },
+  {
+   "text": "x",
+   "conf": 0.7
+  },
+  {
+   "text": "25.90",
+   "conf": 0.73
+  },
+  {
+   "text": "25.90",
+   "conf": 0.73
+  },
+  {
+   "text": "SR",
+   "conf": 0.96
+  },
+  {
+   "text": "Chicken",
+   "conf": 0.95
+  },
+  {
+   "text": "Katsu",
+   "conf": 0.93
+  },
+  {
+   "text": "Curry",
+   "conf": 0.93
+  },
+  {
+   "text": "Wazen",
+   "conf": 0.92
+  },
+  {
+   "text": "1x",
+   "conf": 0.33
+  },
+  {
+   "text": "19.90",
+   "conf": 0.8
+  },
+  {
+   "text": "19.90",
+   "conf": 0.8
+  },
+  {
+   "text": "SR",
+   "conf": 0.95
+  },
+  {
+   "text": "Saba",
+   "conf": 0.95
+  },
+  {
+   "text": "Teriyaki",
+   "conf": 0.89
+  },
+  {
+   "text": "Wazen",
+   "conf": 0.92
+  },
+  {
+   "text": "1x",
+   "conf": 0.9
+  },
+  {
+   "text": "25.90",
+   "conf": 0.72
+  },
+  {
+   "text": "25.90",
+   "conf": 0.72
+  },
+  {
+   "text": "SR",
+   "conf": 0.95
+  },
+  {
+   "text": "Total",
+   "conf": 0.96
+  },
+  {
+   "text": "(Excluding",
+   "conf": 0.96
+  },
+  {
+   "text": "GST):",
+   "conf": 0.95
+  },
+  {
+   "text": "97.60",
+   "conf": 0.9
+  },
+  {
+   "text": "Serv.",
+   "conf": 0.95
+  },
+  {
+   "text": "Charge",
+   "conf": 0.96
+  },
+  {
+   "text": "(10%):",
+   "conf": 0.96
+  },
+  {
+   "text": "9.76",
+   "conf": 0.95
+  },
+  {
+   "text": "GST",
+   "conf": 0.96
+  },
+  {
+   "text": "Payable:",
+   "conf": 0.87
+  },
+  {
+   "text": "6.44",
+   "conf": 0.95
+  },
+  {
+   "text": "Total",
+   "conf": 0.96
+  },
+  {
+   "text": "(Inclusive",
+   "conf": 0.96
+  },
+  {
+   "text": "of",
+   "conf": 0.96
+  },
+  {
+   "text": "GST):",
+   "conf": 0.93
+  },
+  {
+   "text": "113.80",
+   "conf": 0.93
+  },
+  {
+   "text": "TOTAL:",
+   "conf": 0.95
+  },
+  {
+   "text": "113.80",
+   "conf": 0.88
+  },
+  {
+   "text": "Closed:",
+   "conf": 0.94
+  },
+  {
+   "text": "1528",
+   "conf": 0.95
+  },
+  {
+   "text": "23-04-2017",
+   "conf": 0.51
+  },
+  {
+   "text": "21:42:00",
+   "conf": 0.26
+  },
+  {
+   "text": "Server:",
+   "conf": 0.91
+  },
+  {
+   "text": "PETER",
+   "conf": 0.96
+  },
+  {
+   "text": "VISA",
+   "conf": 0.95
+  },
+  {
+   "text": "113.80",
+   "conf": 0.95
+  },
+  {
+   "text": "—",
+   "conf": 0.25
+  },
+  {
+   "text": "ee",
+   "conf": 0.0
+  },
+  {
+   "text": "EEE7HOT",
+   "conf": 0.0
+  },
+  {
+   "text": "-",
+   "conf": 0.92
+  },
+  {
+   "text": "WONG",
+   "conf": 0.96
+  },
+  {
+   "text": "TAI",
+   "conf": 0.94
+  },
+  {
+   "text": "CHIN",
+   "conf": 0.94
+  },
+  {
+   "text": "-",
+   "conf": 0.6
+  },
+  {
+   "text": "#42",
+   "conf": 0.53
+  },
+  {
+   "text": "GST",
+   "conf": 0.96
+  },
+  {
+   "text": "Summary",
+   "conf": 0.78
+  },
+  {
+   "text": "Amount",
+   "conf": 0.12
+  },
+  {
+   "text": "(RM)",
+   "conf": 0.12
+  },
+  {
+   "text": "—",
+   "conf": 0.49
+  },
+  {
+   "text": "Tax(RM)",
+   "conf": 0.63
+  },
+  {
+   "text": "wh",
+   "conf": 0.3
+  },
+  {
+   "text": "SR",
+   "conf": 0.96
+  },
+  {
+   "text": "(@",
+   "conf": 0.92
+  },
+  {
+   "text": "6%)",
+   "conf": 0.95
+  },
+  {
+   "text": "107.36",
+   "conf": 0.66
+  },
+  {
+   "text": "6.44",
+   "conf": 0.94
+  },
+  {
+   "text": "7",
+   "conf": 0.2
+  },
+  {
+   "text": ":",
+   "conf": 0.01
+  },
+  {
+   "text": "(Guest",
+   "conf": 0.95
+  },
+  {
+   "text": "Signature)",
+   "conf": 0.07
+  },
+  {
+   "text": "a",
+   "conf": 0.24
+  },
+  {
+   "text": "\\",
+   "conf": 0.91
+  },
+  {
+   "text": "ee",
+   "conf": 0.0
+  },
+  {
+   "text": "Thank",
+   "conf": 0.76
+  },
+  {
+   "text": "You",
+   "conf": 0.91
+  },
+  {
+   "text": "kt",
+   "conf": 0.0
+  },
+  {
+   "text": "\\",
+   "conf": 0.74
+  },
+  {
+   "text": "Please",
+   "conf": 0.96
+  },
+  {
+   "text": "Come",
+   "conf": 0.93
+  },
+  {
+   "text": "Again",
+   "conf": 0.96
+  },
+  {
+   "text": "=",
+   "conf": 0.96
+  },
+  {
+   "text": "POWERED",
+   "conf": 0.96
+  },
+  {
+   "text": "BY",
+   "conf": 0.96
+  },
+  {
+   "text": "WWAMYSIS.coMMY",
+   "conf": 0.59
+  },
+  {
+   "text": "tL",
+   "conf": 0.26
+  },
+  {
+   "text": "3-90",
+   "conf": 0.5
+  },
+  {
+   "text": "—",
+   "conf": 0.32
+  }
+ ],
+ "mean_conf": 0.7305,
+ "low_conf_share": 0.1988,
+ "latency_ms": 743,
+ "fields": {
+  "company": "TOKYO KITCHEN SDN BHD A",
+  "date": "2017-04-23",
+  "total": 113.8
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  113.8
+ ],
+ "key": "X51006387813"
+}

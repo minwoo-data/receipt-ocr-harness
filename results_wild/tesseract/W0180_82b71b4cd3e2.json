@@ -1,0 +1,332 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "TIP TOP MEATS",
+  "6118 PASEO DEL NORTE",
+  "CARLSBAD, CA 92011",
+  "(760) 438-2620",
+  "DATE 06/29/2014 SUN TIME 19:23",
+  "1 GROCERY $4.99",
+  "1 GROCERY $499",
+  "1 GROCERY $5 99",
+  "1 GROCERY $5 29",
+  "1 GROCERY $3 09",
+  "1 GROCERY $7 99",
+  "1 1 GROCERY $5.99",
+  "1 GROCERY $7 99",
+  "1 GROCERY $1399",
+  "1 GROCERY $6 99",
+  "1 GROCERY $4.99",
+  "TOTAL $76.59 |",
+  "CREDIT CARD $76 .59 |",
+  "* ORDER# 0240 *",
+  "FMPLOYEE1 NO.000140 REG 02"
+ ],
+ "tokens": [
+  {
+   "text": "TIP",
+   "conf": 0.96
+  },
+  {
+   "text": "TOP",
+   "conf": 0.96
+  },
+  {
+   "text": "MEATS",
+   "conf": 0.96
+  },
+  {
+   "text": "6118",
+   "conf": 0.89
+  },
+  {
+   "text": "PASEO",
+   "conf": 0.96
+  },
+  {
+   "text": "DEL",
+   "conf": 0.96
+  },
+  {
+   "text": "NORTE",
+   "conf": 0.96
+  },
+  {
+   "text": "CARLSBAD,",
+   "conf": 0.96
+  },
+  {
+   "text": "CA",
+   "conf": 0.96
+  },
+  {
+   "text": "92011",
+   "conf": 0.96
+  },
+  {
+   "text": "(760)",
+   "conf": 0.34
+  },
+  {
+   "text": "438-2620",
+   "conf": 0.88
+  },
+  {
+   "text": "DATE",
+   "conf": 0.96
+  },
+  {
+   "text": "06/29/2014",
+   "conf": 0.96
+  },
+  {
+   "text": "SUN",
+   "conf": 0.83
+  },
+  {
+   "text": "TIME",
+   "conf": 0.83
+  },
+  {
+   "text": "19:23",
+   "conf": 0.94
+  },
+  {
+   "text": "1",
+   "conf": 0.76
+  },
+  {
+   "text": "GROCERY",
+   "conf": 0.92
+  },
+  {
+   "text": "$4.99",
+   "conf": 0.72
+  },
+  {
+   "text": "1",
+   "conf": 0.76
+  },
+  {
+   "text": "GROCERY",
+   "conf": 0.82
+  },
+  {
+   "text": "$499",
+   "conf": 0.44
+  },
+  {
+   "text": "1",
+   "conf": 0.79
+  },
+  {
+   "text": "GROCERY",
+   "conf": 0.83
+  },
+  {
+   "text": "$5",
+   "conf": 0.8
+  },
+  {
+   "text": "99",
+   "conf": 0.68
+  },
+  {
+   "text": "1",
+   "conf": 0.77
+  },
+  {
+   "text": "GROCERY",
+   "conf": 0.83
+  },
+  {
+   "text": "$5",
+   "conf": 0.63
+  },
+  {
+   "text": "29",
+   "conf": 0.63
+  },
+  {
+   "text": "1",
+   "conf": 0.78
+  },
+  {
+   "text": "GROCERY",
+   "conf": 0.85
+  },
+  {
+   "text": "$3",
+   "conf": 0.62
+  },
+  {
+   "text": "09",
+   "conf": 0.55
+  },
+  {
+   "text": "1",
+   "conf": 0.71
+  },
+  {
+   "text": "GROCERY",
+   "conf": 0.87
+  },
+  {
+   "text": "$7",
+   "conf": 0.57
+  },
+  {
+   "text": "99",
+   "conf": 0.57
+  },
+  {
+   "text": "1",
+   "conf": 0.46
+  },
+  {
+   "text": "1",
+   "conf": 0.41
+  },
+  {
+   "text": "GROCERY",
+   "conf": 0.41
+  },
+  {
+   "text": "$5.99",
+   "conf": 0.61
+  },
+  {
+   "text": "1",
+   "conf": 0.77
+  },
+  {
+   "text": "GROCERY",
+   "conf": 0.8
+  },
+  {
+   "text": "$7",
+   "conf": 0.66
+  },
+  {
+   "text": "99",
+   "conf": 0.42
+  },
+  {
+   "text": "1",
+   "conf": 0.76
+  },
+  {
+   "text": "GROCERY",
+   "conf": 0.85
+  },
+  {
+   "text": "$1399",
+   "conf": 0.54
+  },
+  {
+   "text": "1",
+   "conf": 0.71
+  },
+  {
+   "text": "GROCERY",
+   "conf": 0.92
+  },
+  {
+   "text": "$6",
+   "conf": 0.59
+  },
+  {
+   "text": "99",
+   "conf": 0.59
+  },
+  {
+   "text": "1",
+   "conf": 0.77
+  },
+  {
+   "text": "GROCERY",
+   "conf": 0.91
+  },
+  {
+   "text": "$4.99",
+   "conf": 0.38
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.96
+  },
+  {
+   "text": "$76.59",
+   "conf": 0.8
+  },
+  {
+   "text": "|",
+   "conf": 0.64
+  },
+  {
+   "text": "CREDIT",
+   "conf": 0.96
+  },
+  {
+   "text": "CARD",
+   "conf": 0.96
+  },
+  {
+   "text": "$76",
+   "conf": 0.85
+  },
+  {
+   "text": ".59",
+   "conf": 0.73
+  },
+  {
+   "text": "|",
+   "conf": 0.88
+  },
+  {
+   "text": "*",
+   "conf": 0.89
+  },
+  {
+   "text": "ORDER#",
+   "conf": 0.91
+  },
+  {
+   "text": "0240",
+   "conf": 0.93
+  },
+  {
+   "text": "*",
+   "conf": 0.64
+  },
+  {
+   "text": "FMPLOYEE1",
+   "conf": 0.35
+  },
+  {
+   "text": "NO.000140",
+   "conf": 0.55
+  },
+  {
+   "text": "REG",
+   "conf": 0.79
+  },
+  {
+   "text": "02",
+   "conf": 0.96
+  }
+ ],
+ "mean_conf": 0.7607,
+ "low_conf_share": 0.1096,
+ "latency_ms": 2442,
+ "fields": {
+  "company": "TIP TOP MEATS",
+  "date": "2014-06-29",
+  "total": 76.59
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  76.59
+ ],
+ "key": "W0180_82b71b4cd3e2"
+}

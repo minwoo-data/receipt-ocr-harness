@@ -1,0 +1,167 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "PAUI",
+  "MAISONDEQUALITE FONDEE EN1889",
+  "Dubai Airport Concourse B",
+  "Hudana Trading LLC",
+  "TEL:04-2203360",
+  "19MariaT",
+  "Tb11/1 Chk 8946 Gst1",
+  "Station Jan21'1405:33AM",
+  "Take Away 18.00",
+  "1Pie Mlx Choco 19.00",
+  "1 T-Cafe Creme",
+  "EUR_DIA 10.00 42.50X",
+  "Cash-->AED",
+  "Sub Total 37.00 37.00",
+  "Total Amount 5.50",
+  "Change Due",
+  "19 Check Closed-",
+  "-Jan21'1405:36AM",
+  "THANK YOU",
+  "Visit PAUL at",
+  "Concourse A, B,&C"
+ ],
+ "tokens": [
+  {
+   "text": "PAUI",
+   "conf": 0.8692156225442886
+  },
+  {
+   "text": "MAISONDEQUALITE",
+   "conf": 0.9731232206026713
+  },
+  {
+   "text": "FONDEE EN1889",
+   "conf": 0.929951718220344
+  },
+  {
+   "text": "Dubai Airport Concourse B",
+   "conf": 0.9704647564888
+  },
+  {
+   "text": "Hudana Trading LLC",
+   "conf": 0.9848087032636007
+  },
+  {
+   "text": "TEL:04-2203360",
+   "conf": 0.9870234514985766
+  },
+  {
+   "text": "19MariaT",
+   "conf": 0.9869211241602898
+  },
+  {
+   "text": "Chk 8946",
+   "conf": 0.9477086663246155
+  },
+  {
+   "text": "Gst1",
+   "conf": 0.9454603493213654
+  },
+  {
+   "text": "Tb11/1",
+   "conf": 0.948191632827123
+  },
+  {
+   "text": "Station",
+   "conf": 0.9925832067217145
+  },
+  {
+   "text": "Jan21'1405:33AM",
+   "conf": 0.9451611677805583
+  },
+  {
+   "text": "Take Away",
+   "conf": 0.9499127798610263
+  },
+  {
+   "text": "18.00",
+   "conf": 0.9980310678482056
+  },
+  {
+   "text": "1Pie Mlx Choco",
+   "conf": 0.932384980576379
+  },
+  {
+   "text": "19.00",
+   "conf": 0.9977658271789551
+  },
+  {
+   "text": "1 T-Cafe Creme",
+   "conf": 0.94755676814488
+  },
+  {
+   "text": "EUR_DIA 10.00",
+   "conf": 0.9751226672759423
+  },
+  {
+   "text": "42.50X",
+   "conf": 0.9546467165152231
+  },
+  {
+   "text": "Cash-->AED",
+   "conf": 0.9747510731220246
+  },
+  {
+   "text": "37.00",
+   "conf": 0.9985334277153015
+  },
+  {
+   "text": "Sub Total",
+   "conf": 0.9595445659425523
+  },
+  {
+   "text": "37.00",
+   "conf": 0.9980169534683228
+  },
+  {
+   "text": "Total Amount",
+   "conf": 0.9831854303677877
+  },
+  {
+   "text": "5.50",
+   "conf": 0.997245579957962
+  },
+  {
+   "text": "Change Due",
+   "conf": 0.9942686855792999
+  },
+  {
+   "text": "19 Check Closed-",
+   "conf": 0.9413303211331367
+  },
+  {
+   "text": "-Jan21'1405:36AM",
+   "conf": 0.9374592192471027
+  },
+  {
+   "text": "THANK YOU",
+   "conf": 0.9563754465844896
+  },
+  {
+   "text": "Visit PAUL at",
+   "conf": 0.9503140999720647
+  },
+  {
+   "text": "Concourse A, B,&C",
+   "conf": 0.8790167464929468
+  }
+ ],
+ "mean_conf": 0.9615,
+ "low_conf_share": 0.0,
+ "latency_ms": 2813,
+ "fields": {
+  "company": "DUBAI AIRPORT CONCOURSE B HUDANA TRADING LLC",
+  "date": null,
+  "total": 5.5
+ },
+ "rule_reasons": [
+  "date_not_found"
+ ],
+ "total_candidates": [
+  5.5
+ ],
+ "key": "W0152_6be7662ace74"
+}

@@ -1,0 +1,257 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "AIKHUATHARDHARE",
+  "ENTERPRISEISETTA",
+  "ALAMSDNBHU",
+  "822737-X",
+  "NO17-GJALAN SETIA INIAH",
+  "(X）U13/X,SE7IAALAM",
+  "SEKSYENU1340170 SHAH ALAM",
+  "TEL:0126651783FAX:03-33623608",
+  "GSTN0:000394528768",
+  "SIMPLIFIED TAX INVOICE",
+  "ASH",
+  "ECEIPT#:C9P0408083BATE:28/09/2017",
+  "ALESFERSON 9AH002 TINE:15:10-00",
+  "TEM QTY AMOUNT",
+  "(RM) (RM)",
+  "079567600084 006 14.009",
+  "77ML WI 4O ANTI-RUST LUBRICANT",
+  "SUB-TOTAL（GST) 14.00",
+  "3510 8.00",
+  "ROUNDING 0.00",
+  "TOTAL 1400",
+  "CASH 14.00",
+  "CHANGE 0-00",
+  "*GST @ 6% INCLUDEI IN TOTAL",
+  "GSTSUMMARY",
+  "AMOUNT TAX/ANT",
+  "13.21 0.79",
+  "TAXTOTAL: 66.0",
+  "GOODS SOLD ARB NOT KERUNOABLE",
+  "THANK YOU FOR CHOOEING U9",
+  "FLS FROVTDE ORTOINAL EILE ROR COOLE",
+  "BXCHANGB WITHIN I REEE BEOA TRANGCCEON",
+  "COODS HUST BE IN ORTGINAL STATR TO BE",
+  "BNIITLED POR BYCHANGE"
+ ],
+ "tokens": [
+  {
+   "text": "AIKHUATHARDHARE",
+   "conf": 0.9487748185793559
+  },
+  {
+   "text": "ENTERPRISEISETTA",
+   "conf": 0.9405931606888771
+  },
+  {
+   "text": "ALAMSDNBHU",
+   "conf": 0.8668101876974106
+  },
+  {
+   "text": "822737-X",
+   "conf": 0.9279051944613457
+  },
+  {
+   "text": "NO17-GJALAN SETIA INIAH",
+   "conf": 0.912163944348045
+  },
+  {
+   "text": "(X）U13/X,SE7IAALAM",
+   "conf": 0.8413059098853005
+  },
+  {
+   "text": "SEKSYENU1340170 SHAH ALAM",
+   "conf": 0.9368562388420105
+  },
+  {
+   "text": "TEL:0126651783FAX:03-33623608",
+   "conf": 0.9254504442214966
+  },
+  {
+   "text": "GSTN0:000394528768",
+   "conf": 0.9072598417599996
+  },
+  {
+   "text": "SIMPLIFIED TAX INVOICE",
+   "conf": 0.8911302062598142
+  },
+  {
+   "text": "ASH",
+   "conf": 0.9941755334536234
+  },
+  {
+   "text": "ECEIPT#:C9P0408083BATE:28/09/2017",
+   "conf": 0.9218367356242556
+  },
+  {
+   "text": "ALESFERSON 9AH002",
+   "conf": 0.872127305058872
+  },
+  {
+   "text": "TINE:15:10-00",
+   "conf": 0.8087212007779342
+  },
+  {
+   "text": "TEM",
+   "conf": 0.9339242974917094
+  },
+  {
+   "text": "QTY",
+   "conf": 0.7572061618169149
+  },
+  {
+   "text": "AMOUNT",
+   "conf": 0.886534129579862
+  },
+  {
+   "text": "(RM)",
+   "conf": 0.8930820524692535
+  },
+  {
+   "text": "(RM)",
+   "conf": 0.7400239035487175
+  },
+  {
+   "text": "079567600084",
+   "conf": 0.9709281126658121
+  },
+  {
+   "text": "006",
+   "conf": 0.5990692873795828
+  },
+  {
+   "text": "14.009",
+   "conf": 0.8565502961476644
+  },
+  {
+   "text": "77ML WI 4O ANTI-RUST LUBRICANT",
+   "conf": 0.903199769059817
+  },
+  {
+   "text": "SUB-TOTAL（GST)",
+   "conf": 0.9250269106456211
+  },
+  {
+   "text": "14.00",
+   "conf": 0.9494499683380127
+  },
+  {
+   "text": "3510",
+   "conf": 0.642407976090908
+  },
+  {
+   "text": "8.00",
+   "conf": 0.8925925493240356
+  },
+  {
+   "text": "ROUNDING",
+   "conf": 0.9270545914769173
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9901365786790848
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.9930005669593811
+  },
+  {
+   "text": "1400",
+   "conf": 0.8183446973562241
+  },
+  {
+   "text": "CASH",
+   "conf": 0.9918677806854248
+  },
+  {
+   "text": "14.00",
+   "conf": 0.9822776079177856
+  },
+  {
+   "text": "CHANGE",
+   "conf": 0.995453804731369
+  },
+  {
+   "text": "0-00",
+   "conf": 0.9008038640022278
+  },
+  {
+   "text": "*GST @ 6% INCLUDEI IN TOTAL",
+   "conf": 0.8673375293060586
+  },
+  {
+   "text": "GSTSUMMARY",
+   "conf": 0.9529771983623505
+  },
+  {
+   "text": "AMOUNT",
+   "conf": 0.8914326131343842
+  },
+  {
+   "text": "TAX/ANT",
+   "conf": 0.8622981267316001
+  },
+  {
+   "text": "13.21",
+   "conf": 0.9094719886779785
+  },
+  {
+   "text": "0.79",
+   "conf": 0.9545149803161621
+  },
+  {
+   "text": "TAXTOTAL:",
+   "conf": 0.9449964033232795
+  },
+  {
+   "text": "66.0",
+   "conf": 0.6099831685423851
+  },
+  {
+   "text": "GOODS SOLD ARB NOT KERUNOABLE",
+   "conf": 0.830399137118767
+  },
+  {
+   "text": "THANK YOU FOR CHOOEING U9",
+   "conf": 0.8444875180721283
+  },
+  {
+   "text": "FLS FROVTDE ORTOINAL EILE ROR COOLE",
+   "conf": 0.7817545933382851
+  },
+  {
+   "text": "BXCHANGB WITHIN I REEE BEOA TRANGCCEON",
+   "conf": 0.699298863348208
+  },
+  {
+   "text": "COODS HUST BE IN ORTGINAL STATR TO BE",
+   "conf": 0.8444536827706002
+  },
+  {
+   "text": "BNIITLED POR BYCHANGE",
+   "conf": 0.8258777047906604
+  }
+ ],
+ "mean_conf": 0.8788,
+ "low_conf_share": 0.0,
+ "latency_ms": 5266,
+ "fields": {
+  "company": "AIKHUATHARDHARE",
+  "date": "2017-09-28",
+  "total": 14.0
+ },
+ "rule_reasons": [
+  "total_no_keyword_fallback_max"
+ ],
+ "total_candidates": [
+  14.0,
+  8.0,
+  0.0,
+  14.0,
+  13.21,
+  0.79
+ ],
+ "key": "X51007339642"
+}

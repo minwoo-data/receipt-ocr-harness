@@ -1,0 +1,1442 @@
+[
+ {
+  "policy": "router",
+  "tau": 0.0,
+  "n": 200,
+  "auto_accept_share": 1.0,
+  "review_share": 0.0,
+  "tier_share": {
+   "T1": 0.16,
+   "T2": 0.0,
+   "T3": 0.84,
+   "T4": 0.0
+  },
+  "cloud_share": 0.84,
+  "accepted_money_precision": 0.87,
+  "accepted_all3_precision": 0.51,
+  "leak_share": 0.13,
+  "cost_usd_per_1k": 0.444,
+  "costed_receipts": 200,
+  "latency_ms_median": 4825
+ },
+ {
+  "policy": "router",
+  "tau": 0.5,
+  "n": 200,
+  "auto_accept_share": 1.0,
+  "review_share": 0.0,
+  "tier_share": {
+   "T1": 0.16,
+   "T2": 0.0,
+   "T3": 0.84,
+   "T4": 0.0
+  },
+  "cloud_share": 0.84,
+  "accepted_money_precision": 0.87,
+  "accepted_all3_precision": 0.51,
+  "leak_share": 0.13,
+  "cost_usd_per_1k": 0.444,
+  "costed_receipts": 200,
+  "latency_ms_median": 4825
+ },
+ {
+  "policy": "router",
+  "tau": 0.6,
+  "n": 200,
+  "auto_accept_share": 1.0,
+  "review_share": 0.0,
+  "tier_share": {
+   "T1": 0.16,
+   "T2": 0.0,
+   "T3": 0.84,
+   "T4": 0.0
+  },
+  "cloud_share": 0.84,
+  "accepted_money_precision": 0.87,
+  "accepted_all3_precision": 0.51,
+  "leak_share": 0.13,
+  "cost_usd_per_1k": 0.444,
+  "costed_receipts": 200,
+  "latency_ms_median": 4825
+ },
+ {
+  "policy": "router",
+  "tau": 0.7,
+  "n": 200,
+  "auto_accept_share": 1.0,
+  "review_share": 0.0,
+  "tier_share": {
+   "T1": 0.16,
+   "T2": 0.0,
+   "T3": 0.84,
+   "T4": 0.0
+  },
+  "cloud_share": 0.84,
+  "accepted_money_precision": 0.87,
+  "accepted_all3_precision": 0.51,
+  "leak_share": 0.13,
+  "cost_usd_per_1k": 0.444,
+  "costed_receipts": 200,
+  "latency_ms_median": 4825
+ },
+ {
+  "policy": "router",
+  "tau": 0.8,
+  "n": 200,
+  "auto_accept_share": 1.0,
+  "review_share": 0.0,
+  "tier_share": {
+   "T1": 0.16,
+   "T2": 0.0,
+   "T3": 0.84,
+   "T4": 0.0
+  },
+  "cloud_share": 0.84,
+  "accepted_money_precision": 0.87,
+  "accepted_all3_precision": 0.51,
+  "leak_share": 0.13,
+  "cost_usd_per_1k": 0.444,
+  "costed_receipts": 200,
+  "latency_ms_median": 4825
+ },
+ {
+  "policy": "router",
+  "tau": 0.85,
+  "n": 200,
+  "auto_accept_share": 1.0,
+  "review_share": 0.0,
+  "tier_share": {
+   "T1": 0.16,
+   "T2": 0.0,
+   "T3": 0.84,
+   "T4": 0.0
+  },
+  "cloud_share": 0.84,
+  "accepted_money_precision": 0.87,
+  "accepted_all3_precision": 0.51,
+  "leak_share": 0.13,
+  "cost_usd_per_1k": 0.444,
+  "costed_receipts": 200,
+  "latency_ms_median": 4825
+ },
+ {
+  "policy": "router",
+  "tau": 0.9,
+  "n": 200,
+  "auto_accept_share": 1.0,
+  "review_share": 0.0,
+  "tier_share": {
+   "T1": 0.16,
+   "T2": 0.0,
+   "T3": 0.84,
+   "T4": 0.0
+  },
+  "cloud_share": 0.84,
+  "accepted_money_precision": 0.87,
+  "accepted_all3_precision": 0.51,
+  "leak_share": 0.13,
+  "cost_usd_per_1k": 0.444,
+  "costed_receipts": 200,
+  "latency_ms_median": 4825
+ },
+ {
+  "policy": "router",
+  "tau": 0.93,
+  "n": 200,
+  "auto_accept_share": 1.0,
+  "review_share": 0.0,
+  "tier_share": {
+   "T1": 0.15,
+   "T2": 0.0,
+   "T3": 0.85,
+   "T4": 0.0
+  },
+  "cloud_share": 0.85,
+  "accepted_money_precision": 0.875,
+  "accepted_all3_precision": 0.515,
+  "leak_share": 0.125,
+  "cost_usd_per_1k": 0.45,
+  "costed_receipts": 200,
+  "latency_ms_median": 4830
+ },
+ {
+  "policy": "router",
+  "tau": 0.95,
+  "n": 200,
+  "auto_accept_share": 1.0,
+  "review_share": 0.0,
+  "tier_share": {
+   "T1": 0.14,
+   "T2": 0.0,
+   "T3": 0.86,
+   "T4": 0.0
+  },
+  "cloud_share": 0.86,
+  "accepted_money_precision": 0.875,
+  "accepted_all3_precision": 0.515,
+  "leak_share": 0.125,
+  "cost_usd_per_1k": 0.455,
+  "costed_receipts": 200,
+  "latency_ms_median": 4831
+ },
+ {
+  "policy": "router",
+  "tau": 0.97,
+  "n": 200,
+  "auto_accept_share": 1.0,
+  "review_share": 0.0,
+  "tier_share": {
+   "T1": 0.075,
+   "T2": 0.0,
+   "T3": 0.925,
+   "T4": 0.0
+  },
+  "cloud_share": 0.925,
+  "accepted_money_precision": 0.87,
+  "accepted_all3_precision": 0.51,
+  "leak_share": 0.13,
+  "cost_usd_per_1k": 0.489,
+  "costed_receipts": 200,
+  "latency_ms_median": 4889
+ },
+ {
+  "policy": "router",
+  "tau": 0.99,
+  "n": 200,
+  "auto_accept_share": 1.0,
+  "review_share": 0.0,
+  "tier_share": {
+   "T1": 0.005,
+   "T2": 0.0,
+   "T3": 0.995,
+   "T4": 0.0
+  },
+  "cloud_share": 0.995,
+  "accepted_money_precision": 0.865,
+  "accepted_all3_precision": 0.52,
+  "leak_share": 0.135,
+  "cost_usd_per_1k": 0.526,
+  "costed_receipts": 200,
+  "latency_ms_median": 4953
+ },
+ {
+  "policy": "router",
+  "tau": 1.01,
+  "n": 200,
+  "auto_accept_share": 1.0,
+  "review_share": 0.0,
+  "tier_share": {
+   "T1": 0.0,
+   "T2": 0.0,
+   "T3": 1.0,
+   "T4": 0.0
+  },
+  "cloud_share": 1.0,
+  "accepted_money_precision": 0.865,
+  "accepted_all3_precision": 0.52,
+  "leak_share": 0.135,
+  "cost_usd_per_1k": 0.528,
+  "costed_receipts": 200,
+  "latency_ms_median": 4974
+ },
+ {
+  "policy": "harness",
+  "tau": 0.0,
+  "n": 200,
+  "auto_accept_share": 0.785,
+  "review_share": 0.215,
+  "tier_share": {
+   "T1": 0.16,
+   "T2": 0.0,
+   "T3": 0.59,
+   "T4": 0.035
+  },
+  "cloud_share": 0.625,
+  "accepted_money_precision": 0.8854,
+  "accepted_all3_precision": 0.5287,
+  "leak_share": 0.09,
+  "cost_usd_per_1k": 0.801,
+  "costed_receipts": 200,
+  "latency_ms_median": 5175
+ },
+ {
+  "policy": "harness",
+  "tau": 0.5,
+  "n": 200,
+  "auto_accept_share": 0.785,
+  "review_share": 0.215,
+  "tier_share": {
+   "T1": 0.16,
+   "T2": 0.0,
+   "T3": 0.59,
+   "T4": 0.035
+  },
+  "cloud_share": 0.625,
+  "accepted_money_precision": 0.8854,
+  "accepted_all3_precision": 0.5287,
+  "leak_share": 0.09,
+  "cost_usd_per_1k": 0.801,
+  "costed_receipts": 200,
+  "latency_ms_median": 5175
+ },
+ {
+  "policy": "harness",
+  "tau": 0.6,
+  "n": 200,
+  "auto_accept_share": 0.785,
+  "review_share": 0.215,
+  "tier_share": {
+   "T1": 0.16,
+   "T2": 0.0,
+   "T3": 0.59,
+   "T4": 0.035
+  },
+  "cloud_share": 0.625,
+  "accepted_money_precision": 0.8854,
+  "accepted_all3_precision": 0.5287,
+  "leak_share": 0.09,
+  "cost_usd_per_1k": 0.801,
+  "costed_receipts": 200,
+  "latency_ms_median": 5175
+ },
+ {
+  "policy": "harness",
+  "tau": 0.7,
+  "n": 200,
+  "auto_accept_share": 0.785,
+  "review_share": 0.215,
+  "tier_share": {
+   "T1": 0.16,
+   "T2": 0.0,
+   "T3": 0.59,
+   "T4": 0.035
+  },
+  "cloud_share": 0.625,
+  "accepted_money_precision": 0.8854,
+  "accepted_all3_precision": 0.5287,
+  "leak_share": 0.09,
+  "cost_usd_per_1k": 0.801,
+  "costed_receipts": 200,
+  "latency_ms_median": 5175
+ },
+ {
+  "policy": "harness",
+  "tau": 0.8,
+  "n": 200,
+  "auto_accept_share": 0.785,
+  "review_share": 0.215,
+  "tier_share": {
+   "T1": 0.16,
+   "T2": 0.0,
+   "T3": 0.59,
+   "T4": 0.035
+  },
+  "cloud_share": 0.625,
+  "accepted_money_precision": 0.8854,
+  "accepted_all3_precision": 0.5287,
+  "leak_share": 0.09,
+  "cost_usd_per_1k": 0.801,
+  "costed_receipts": 200,
+  "latency_ms_median": 5175
+ },
+ {
+  "policy": "harness",
+  "tau": 0.85,
+  "n": 200,
+  "auto_accept_share": 0.785,
+  "review_share": 0.215,
+  "tier_share": {
+   "T1": 0.16,
+   "T2": 0.0,
+   "T3": 0.59,
+   "T4": 0.035
+  },
+  "cloud_share": 0.625,
+  "accepted_money_precision": 0.8854,
+  "accepted_all3_precision": 0.5287,
+  "leak_share": 0.09,
+  "cost_usd_per_1k": 0.801,
+  "costed_receipts": 200,
+  "latency_ms_median": 5175
+ },
+ {
+  "policy": "harness",
+  "tau": 0.9,
+  "n": 200,
+  "auto_accept_share": 0.785,
+  "review_share": 0.215,
+  "tier_share": {
+   "T1": 0.16,
+   "T2": 0.0,
+   "T3": 0.59,
+   "T4": 0.035
+  },
+  "cloud_share": 0.625,
+  "accepted_money_precision": 0.8854,
+  "accepted_all3_precision": 0.5287,
+  "leak_share": 0.09,
+  "cost_usd_per_1k": 0.801,
+  "costed_receipts": 200,
+  "latency_ms_median": 5175
+ },
+ {
+  "policy": "harness",
+  "tau": 0.93,
+  "n": 200,
+  "auto_accept_share": 0.785,
+  "review_share": 0.215,
+  "tier_share": {
+   "T1": 0.15,
+   "T2": 0.0,
+   "T3": 0.6,
+   "T4": 0.035
+  },
+  "cloud_share": 0.635,
+  "accepted_money_precision": 0.8917,
+  "accepted_all3_precision": 0.535,
+  "leak_share": 0.085,
+  "cost_usd_per_1k": 0.806,
+  "costed_receipts": 200,
+  "latency_ms_median": 5175
+ },
+ {
+  "policy": "harness",
+  "tau": 0.95,
+  "n": 200,
+  "auto_accept_share": 0.785,
+  "review_share": 0.215,
+  "tier_share": {
+   "T1": 0.14,
+   "T2": 0.0,
+   "T3": 0.61,
+   "T4": 0.035
+  },
+  "cloud_share": 0.645,
+  "accepted_money_precision": 0.8917,
+  "accepted_all3_precision": 0.535,
+  "leak_share": 0.085,
+  "cost_usd_per_1k": 0.812,
+  "costed_receipts": 200,
+  "latency_ms_median": 5175
+ },
+ {
+  "policy": "harness",
+  "tau": 0.97,
+  "n": 200,
+  "auto_accept_share": 0.755,
+  "review_share": 0.245,
+  "tier_share": {
+   "T1": 0.075,
+   "T2": 0.0,
+   "T3": 0.645,
+   "T4": 0.035
+  },
+  "cloud_share": 0.68,
+  "accepted_money_precision": 0.894,
+  "accepted_all3_precision": 0.543,
+  "leak_share": 0.08,
+  "cost_usd_per_1k": 0.887,
+  "costed_receipts": 200,
+  "latency_ms_median": 5292
+ },
+ {
+  "policy": "harness",
+  "tau": 0.99,
+  "n": 200,
+  "auto_accept_share": 0.75,
+  "review_share": 0.25,
+  "tier_share": {
+   "T1": 0.005,
+   "T2": 0.0,
+   "T3": 0.71,
+   "T4": 0.035
+  },
+  "cloud_share": 0.745,
+  "accepted_money_precision": 0.8867,
+  "accepted_all3_precision": 0.5533,
+  "leak_share": 0.085,
+  "cost_usd_per_1k": 0.93,
+  "costed_receipts": 200,
+  "latency_ms_median": 5382
+ },
+ {
+  "policy": "harness",
+  "tau": 1.01,
+  "n": 200,
+  "auto_accept_share": 0.75,
+  "review_share": 0.25,
+  "tier_share": {
+   "T1": 0.0,
+   "T2": 0.0,
+   "T3": 0.715,
+   "T4": 0.035
+  },
+  "cloud_share": 0.75,
+  "accepted_money_precision": 0.8867,
+  "accepted_all3_precision": 0.5533,
+  "leak_share": 0.085,
+  "cost_usd_per_1k": 0.933,
+  "costed_receipts": 200,
+  "latency_ms_median": 5382
+ },
+ {
+  "policy": "harness_ladder",
+  "tau": 0.0,
+  "n": 200,
+  "auto_accept_share": 0.785,
+  "review_share": 0.215,
+  "tier_share": {
+   "T1": 0.16,
+   "T2": 0.0,
+   "T3": 0.59,
+   "T4": 0.035
+  },
+  "cloud_share": 0.625,
+  "accepted_money_precision": 0.8854,
+  "accepted_all3_precision": 0.5287,
+  "leak_share": 0.09,
+  "cost_usd_per_1k": 0.801,
+  "costed_receipts": 200,
+  "latency_ms_median": 5175
+ },
+ {
+  "policy": "harness_ladder",
+  "tau": 0.5,
+  "n": 200,
+  "auto_accept_share": 0.785,
+  "review_share": 0.215,
+  "tier_share": {
+   "T1": 0.16,
+   "T2": 0.0,
+   "T3": 0.59,
+   "T4": 0.035
+  },
+  "cloud_share": 0.625,
+  "accepted_money_precision": 0.8854,
+  "accepted_all3_precision": 0.5287,
+  "leak_share": 0.09,
+  "cost_usd_per_1k": 0.801,
+  "costed_receipts": 200,
+  "latency_ms_median": 5175
+ },
+ {
+  "policy": "harness_ladder",
+  "tau": 0.6,
+  "n": 200,
+  "auto_accept_share": 0.785,
+  "review_share": 0.215,
+  "tier_share": {
+   "T1": 0.16,
+   "T2": 0.0,
+   "T3": 0.59,
+   "T4": 0.035
+  },
+  "cloud_share": 0.625,
+  "accepted_money_precision": 0.8854,
+  "accepted_all3_precision": 0.5287,
+  "leak_share": 0.09,
+  "cost_usd_per_1k": 0.801,
+  "costed_receipts": 200,
+  "latency_ms_median": 5175
+ },
+ {
+  "policy": "harness_ladder",
+  "tau": 0.7,
+  "n": 200,
+  "auto_accept_share": 0.785,
+  "review_share": 0.215,
+  "tier_share": {
+   "T1": 0.16,
+   "T2": 0.0,
+   "T3": 0.59,
+   "T4": 0.035
+  },
+  "cloud_share": 0.625,
+  "accepted_money_precision": 0.8854,
+  "accepted_all3_precision": 0.5287,
+  "leak_share": 0.09,
+  "cost_usd_per_1k": 0.801,
+  "costed_receipts": 200,
+  "latency_ms_median": 5175
+ },
+ {
+  "policy": "harness_ladder",
+  "tau": 0.8,
+  "n": 200,
+  "auto_accept_share": 0.785,
+  "review_share": 0.215,
+  "tier_share": {
+   "T1": 0.16,
+   "T2": 0.0,
+   "T3": 0.59,
+   "T4": 0.035
+  },
+  "cloud_share": 0.625,
+  "accepted_money_precision": 0.8854,
+  "accepted_all3_precision": 0.5287,
+  "leak_share": 0.09,
+  "cost_usd_per_1k": 0.801,
+  "costed_receipts": 200,
+  "latency_ms_median": 5175
+ },
+ {
+  "policy": "harness_ladder",
+  "tau": 0.85,
+  "n": 200,
+  "auto_accept_share": 0.785,
+  "review_share": 0.215,
+  "tier_share": {
+   "T1": 0.16,
+   "T2": 0.0,
+   "T3": 0.59,
+   "T4": 0.035
+  },
+  "cloud_share": 0.625,
+  "accepted_money_precision": 0.8854,
+  "accepted_all3_precision": 0.5287,
+  "leak_share": 0.09,
+  "cost_usd_per_1k": 0.801,
+  "costed_receipts": 200,
+  "latency_ms_median": 5175
+ },
+ {
+  "policy": "harness_ladder",
+  "tau": 0.9,
+  "n": 200,
+  "auto_accept_share": 0.785,
+  "review_share": 0.215,
+  "tier_share": {
+   "T1": 0.16,
+   "T2": 0.0,
+   "T3": 0.59,
+   "T4": 0.035
+  },
+  "cloud_share": 0.625,
+  "accepted_money_precision": 0.8854,
+  "accepted_all3_precision": 0.5287,
+  "leak_share": 0.09,
+  "cost_usd_per_1k": 0.801,
+  "costed_receipts": 200,
+  "latency_ms_median": 5175
+ },
+ {
+  "policy": "harness_ladder",
+  "tau": 0.93,
+  "n": 200,
+  "auto_accept_share": 0.785,
+  "review_share": 0.215,
+  "tier_share": {
+   "T1": 0.15,
+   "T2": 0.0,
+   "T3": 0.6,
+   "T4": 0.035
+  },
+  "cloud_share": 0.635,
+  "accepted_money_precision": 0.8917,
+  "accepted_all3_precision": 0.535,
+  "leak_share": 0.085,
+  "cost_usd_per_1k": 0.806,
+  "costed_receipts": 200,
+  "latency_ms_median": 5175
+ },
+ {
+  "policy": "harness_ladder",
+  "tau": 0.95,
+  "n": 200,
+  "auto_accept_share": 0.785,
+  "review_share": 0.215,
+  "tier_share": {
+   "T1": 0.14,
+   "T2": 0.0,
+   "T3": 0.61,
+   "T4": 0.035
+  },
+  "cloud_share": 0.645,
+  "accepted_money_precision": 0.8917,
+  "accepted_all3_precision": 0.535,
+  "leak_share": 0.085,
+  "cost_usd_per_1k": 0.812,
+  "costed_receipts": 200,
+  "latency_ms_median": 5175
+ },
+ {
+  "policy": "harness_ladder",
+  "tau": 0.97,
+  "n": 200,
+  "auto_accept_share": 0.755,
+  "review_share": 0.245,
+  "tier_share": {
+   "T1": 0.075,
+   "T2": 0.0,
+   "T3": 0.645,
+   "T4": 0.035
+  },
+  "cloud_share": 0.68,
+  "accepted_money_precision": 0.894,
+  "accepted_all3_precision": 0.543,
+  "leak_share": 0.08,
+  "cost_usd_per_1k": 0.887,
+  "costed_receipts": 200,
+  "latency_ms_median": 5292
+ },
+ {
+  "policy": "harness_ladder",
+  "tau": 0.99,
+  "n": 200,
+  "auto_accept_share": 0.75,
+  "review_share": 0.25,
+  "tier_share": {
+   "T1": 0.005,
+   "T2": 0.0,
+   "T3": 0.71,
+   "T4": 0.035
+  },
+  "cloud_share": 0.745,
+  "accepted_money_precision": 0.8867,
+  "accepted_all3_precision": 0.5533,
+  "leak_share": 0.085,
+  "cost_usd_per_1k": 0.93,
+  "costed_receipts": 200,
+  "latency_ms_median": 5382
+ },
+ {
+  "policy": "harness_ladder",
+  "tau": 1.01,
+  "n": 200,
+  "auto_accept_share": 0.75,
+  "review_share": 0.25,
+  "tier_share": {
+   "T1": 0.0,
+   "T2": 0.0,
+   "T3": 0.715,
+   "T4": 0.035
+  },
+  "cloud_share": 0.75,
+  "accepted_money_precision": 0.8867,
+  "accepted_all3_precision": 0.5533,
+  "leak_share": 0.085,
+  "cost_usd_per_1k": 0.933,
+  "costed_receipts": 200,
+  "latency_ms_median": 5382
+ },
+ {
+  "policy": "router_solo",
+  "tau": 0.0,
+  "n": 200,
+  "auto_accept_share": 1.0,
+  "review_share": 0.0,
+  "tier_share": {
+   "T1": 0.55,
+   "T2": 0.0,
+   "T3": 0.45,
+   "T4": 0.0
+  },
+  "cloud_share": 0.45,
+  "accepted_money_precision": 0.83,
+  "accepted_all3_precision": 0.465,
+  "leak_share": 0.17,
+  "cost_usd_per_1k": 0.238,
+  "costed_receipts": 200,
+  "latency_ms_median": 4115
+ },
+ {
+  "policy": "router_solo",
+  "tau": 0.5,
+  "n": 200,
+  "auto_accept_share": 1.0,
+  "review_share": 0.0,
+  "tier_share": {
+   "T1": 0.55,
+   "T2": 0.0,
+   "T3": 0.45,
+   "T4": 0.0
+  },
+  "cloud_share": 0.45,
+  "accepted_money_precision": 0.83,
+  "accepted_all3_precision": 0.465,
+  "leak_share": 0.17,
+  "cost_usd_per_1k": 0.238,
+  "costed_receipts": 200,
+  "latency_ms_median": 4115
+ },
+ {
+  "policy": "router_solo",
+  "tau": 0.6,
+  "n": 200,
+  "auto_accept_share": 1.0,
+  "review_share": 0.0,
+  "tier_share": {
+   "T1": 0.55,
+   "T2": 0.0,
+   "T3": 0.45,
+   "T4": 0.0
+  },
+  "cloud_share": 0.45,
+  "accepted_money_precision": 0.83,
+  "accepted_all3_precision": 0.465,
+  "leak_share": 0.17,
+  "cost_usd_per_1k": 0.238,
+  "costed_receipts": 200,
+  "latency_ms_median": 4115
+ },
+ {
+  "policy": "router_solo",
+  "tau": 0.7,
+  "n": 200,
+  "auto_accept_share": 1.0,
+  "review_share": 0.0,
+  "tier_share": {
+   "T1": 0.55,
+   "T2": 0.0,
+   "T3": 0.45,
+   "T4": 0.0
+  },
+  "cloud_share": 0.45,
+  "accepted_money_precision": 0.83,
+  "accepted_all3_precision": 0.465,
+  "leak_share": 0.17,
+  "cost_usd_per_1k": 0.238,
+  "costed_receipts": 200,
+  "latency_ms_median": 4115
+ },
+ {
+  "policy": "router_solo",
+  "tau": 0.8,
+  "n": 200,
+  "auto_accept_share": 1.0,
+  "review_share": 0.0,
+  "tier_share": {
+   "T1": 0.55,
+   "T2": 0.0,
+   "T3": 0.45,
+   "T4": 0.0
+  },
+  "cloud_share": 0.45,
+  "accepted_money_precision": 0.83,
+  "accepted_all3_precision": 0.465,
+  "leak_share": 0.17,
+  "cost_usd_per_1k": 0.238,
+  "costed_receipts": 200,
+  "latency_ms_median": 4115
+ },
+ {
+  "policy": "router_solo",
+  "tau": 0.85,
+  "n": 200,
+  "auto_accept_share": 1.0,
+  "review_share": 0.0,
+  "tier_share": {
+   "T1": 0.55,
+   "T2": 0.0,
+   "T3": 0.45,
+   "T4": 0.0
+  },
+  "cloud_share": 0.45,
+  "accepted_money_precision": 0.83,
+  "accepted_all3_precision": 0.465,
+  "leak_share": 0.17,
+  "cost_usd_per_1k": 0.238,
+  "costed_receipts": 200,
+  "latency_ms_median": 4115
+ },
+ {
+  "policy": "router_solo",
+  "tau": 0.9,
+  "n": 200,
+  "auto_accept_share": 1.0,
+  "review_share": 0.0,
+  "tier_share": {
+   "T1": 0.54,
+   "T2": 0.0,
+   "T3": 0.46,
+   "T4": 0.0
+  },
+  "cloud_share": 0.46,
+  "accepted_money_precision": 0.83,
+  "accepted_all3_precision": 0.465,
+  "leak_share": 0.17,
+  "cost_usd_per_1k": 0.243,
+  "costed_receipts": 200,
+  "latency_ms_median": 4192
+ },
+ {
+  "policy": "router_solo",
+  "tau": 0.93,
+  "n": 200,
+  "auto_accept_share": 1.0,
+  "review_share": 0.0,
+  "tier_share": {
+   "T1": 0.485,
+   "T2": 0.0,
+   "T3": 0.515,
+   "T4": 0.0
+  },
+  "cloud_share": 0.515,
+  "accepted_money_precision": 0.835,
+  "accepted_all3_precision": 0.48,
+  "leak_share": 0.165,
+  "cost_usd_per_1k": 0.272,
+  "costed_receipts": 200,
+  "latency_ms_median": 4336
+ },
+ {
+  "policy": "router_solo",
+  "tau": 0.95,
+  "n": 200,
+  "auto_accept_share": 1.0,
+  "review_share": 0.0,
+  "tier_share": {
+   "T1": 0.385,
+   "T2": 0.0,
+   "T3": 0.615,
+   "T4": 0.0
+  },
+  "cloud_share": 0.615,
+  "accepted_money_precision": 0.835,
+  "accepted_all3_precision": 0.48,
+  "leak_share": 0.165,
+  "cost_usd_per_1k": 0.325,
+  "costed_receipts": 200,
+  "latency_ms_median": 4538
+ },
+ {
+  "policy": "router_solo",
+  "tau": 0.97,
+  "n": 200,
+  "auto_accept_share": 1.0,
+  "review_share": 0.0,
+  "tier_share": {
+   "T1": 0.165,
+   "T2": 0.0,
+   "T3": 0.835,
+   "T4": 0.0
+  },
+  "cloud_share": 0.835,
+  "accepted_money_precision": 0.865,
+  "accepted_all3_precision": 0.52,
+  "leak_share": 0.135,
+  "cost_usd_per_1k": 0.442,
+  "costed_receipts": 200,
+  "latency_ms_median": 4824
+ },
+ {
+  "policy": "router_solo",
+  "tau": 0.99,
+  "n": 200,
+  "auto_accept_share": 1.0,
+  "review_share": 0.0,
+  "tier_share": {
+   "T1": 0.005,
+   "T2": 0.0,
+   "T3": 0.995,
+   "T4": 0.0
+  },
+  "cloud_share": 0.995,
+  "accepted_money_precision": 0.865,
+  "accepted_all3_precision": 0.52,
+  "leak_share": 0.135,
+  "cost_usd_per_1k": 0.526,
+  "costed_receipts": 200,
+  "latency_ms_median": 4953
+ },
+ {
+  "policy": "router_solo",
+  "tau": 1.01,
+  "n": 200,
+  "auto_accept_share": 1.0,
+  "review_share": 0.0,
+  "tier_share": {
+   "T1": 0.0,
+   "T2": 0.0,
+   "T3": 1.0,
+   "T4": 0.0
+  },
+  "cloud_share": 1.0,
+  "accepted_money_precision": 0.865,
+  "accepted_all3_precision": 0.52,
+  "leak_share": 0.135,
+  "cost_usd_per_1k": 0.528,
+  "costed_receipts": 200,
+  "latency_ms_median": 4974
+ },
+ {
+  "policy": "harness_solo",
+  "tau": 0.0,
+  "n": 200,
+  "auto_accept_share": 0.885,
+  "review_share": 0.115,
+  "tier_share": {
+   "T1": 0.55,
+   "T2": 0.0,
+   "T3": 0.31,
+   "T4": 0.025
+  },
+  "cloud_share": 0.335,
+  "accepted_money_precision": 0.8362,
+  "accepted_all3_precision": 0.4689,
+  "leak_share": 0.145,
+  "cost_usd_per_1k": 0.437,
+  "costed_receipts": 200,
+  "latency_ms_median": 4248
+ },
+ {
+  "policy": "harness_solo",
+  "tau": 0.5,
+  "n": 200,
+  "auto_accept_share": 0.885,
+  "review_share": 0.115,
+  "tier_share": {
+   "T1": 0.55,
+   "T2": 0.0,
+   "T3": 0.31,
+   "T4": 0.025
+  },
+  "cloud_share": 0.335,
+  "accepted_money_precision": 0.8362,
+  "accepted_all3_precision": 0.4689,
+  "leak_share": 0.145,
+  "cost_usd_per_1k": 0.437,
+  "costed_receipts": 200,
+  "latency_ms_median": 4248
+ },
+ {
+  "policy": "harness_solo",
+  "tau": 0.6,
+  "n": 200,
+  "auto_accept_share": 0.885,
+  "review_share": 0.115,
+  "tier_share": {
+   "T1": 0.55,
+   "T2": 0.0,
+   "T3": 0.31,
+   "T4": 0.025
+  },
+  "cloud_share": 0.335,
+  "accepted_money_precision": 0.8362,
+  "accepted_all3_precision": 0.4689,
+  "leak_share": 0.145,
+  "cost_usd_per_1k": 0.437,
+  "costed_receipts": 200,
+  "latency_ms_median": 4248
+ },
+ {
+  "policy": "harness_solo",
+  "tau": 0.7,
+  "n": 200,
+  "auto_accept_share": 0.885,
+  "review_share": 0.115,
+  "tier_share": {
+   "T1": 0.55,
+   "T2": 0.0,
+   "T3": 0.31,
+   "T4": 0.025
+  },
+  "cloud_share": 0.335,
+  "accepted_money_precision": 0.8362,
+  "accepted_all3_precision": 0.4689,
+  "leak_share": 0.145,
+  "cost_usd_per_1k": 0.437,
+  "costed_receipts": 200,
+  "latency_ms_median": 4248
+ },
+ {
+  "policy": "harness_solo",
+  "tau": 0.8,
+  "n": 200,
+  "auto_accept_share": 0.885,
+  "review_share": 0.115,
+  "tier_share": {
+   "T1": 0.55,
+   "T2": 0.0,
+   "T3": 0.31,
+   "T4": 0.025
+  },
+  "cloud_share": 0.335,
+  "accepted_money_precision": 0.8362,
+  "accepted_all3_precision": 0.4689,
+  "leak_share": 0.145,
+  "cost_usd_per_1k": 0.437,
+  "costed_receipts": 200,
+  "latency_ms_median": 4248
+ },
+ {
+  "policy": "harness_solo",
+  "tau": 0.85,
+  "n": 200,
+  "auto_accept_share": 0.885,
+  "review_share": 0.115,
+  "tier_share": {
+   "T1": 0.55,
+   "T2": 0.0,
+   "T3": 0.31,
+   "T4": 0.025
+  },
+  "cloud_share": 0.335,
+  "accepted_money_precision": 0.8362,
+  "accepted_all3_precision": 0.4689,
+  "leak_share": 0.145,
+  "cost_usd_per_1k": 0.437,
+  "costed_receipts": 200,
+  "latency_ms_median": 4248
+ },
+ {
+  "policy": "harness_solo",
+  "tau": 0.9,
+  "n": 200,
+  "auto_accept_share": 0.885,
+  "review_share": 0.115,
+  "tier_share": {
+   "T1": 0.54,
+   "T2": 0.0,
+   "T3": 0.32,
+   "T4": 0.025
+  },
+  "cloud_share": 0.345,
+  "accepted_money_precision": 0.8362,
+  "accepted_all3_precision": 0.4689,
+  "leak_share": 0.145,
+  "cost_usd_per_1k": 0.443,
+  "costed_receipts": 200,
+  "latency_ms_median": 4300
+ },
+ {
+  "policy": "harness_solo",
+  "tau": 0.93,
+  "n": 200,
+  "auto_accept_share": 0.865,
+  "review_share": 0.135,
+  "tier_share": {
+   "T1": 0.485,
+   "T2": 0.0,
+   "T3": 0.355,
+   "T4": 0.025
+  },
+  "cloud_share": 0.38,
+  "accepted_money_precision": 0.8497,
+  "accepted_all3_precision": 0.4913,
+  "leak_share": 0.13,
+  "cost_usd_per_1k": 0.501,
+  "costed_receipts": 200,
+  "latency_ms_median": 4445
+ },
+ {
+  "policy": "harness_solo",
+  "tau": 0.95,
+  "n": 200,
+  "auto_accept_share": 0.84,
+  "review_share": 0.16,
+  "tier_share": {
+   "T1": 0.385,
+   "T2": 0.0,
+   "T3": 0.43,
+   "T4": 0.025
+  },
+  "cloud_share": 0.455,
+  "accepted_money_precision": 0.8512,
+  "accepted_all3_precision": 0.4881,
+  "leak_share": 0.125,
+  "cost_usd_per_1k": 0.588,
+  "costed_receipts": 200,
+  "latency_ms_median": 4783
+ },
+ {
+  "policy": "harness_solo",
+  "tau": 0.97,
+  "n": 200,
+  "auto_accept_share": 0.775,
+  "review_share": 0.225,
+  "tier_share": {
+   "T1": 0.165,
+   "T2": 0.0,
+   "T3": 0.575,
+   "T4": 0.035
+  },
+  "cloud_share": 0.61,
+  "accepted_money_precision": 0.8903,
+  "accepted_all3_precision": 0.5548,
+  "leak_share": 0.085,
+  "cost_usd_per_1k": 0.811,
+  "costed_receipts": 200,
+  "latency_ms_median": 5141
+ },
+ {
+  "policy": "harness_solo",
+  "tau": 0.99,
+  "n": 200,
+  "auto_accept_share": 0.75,
+  "review_share": 0.25,
+  "tier_share": {
+   "T1": 0.005,
+   "T2": 0.0,
+   "T3": 0.71,
+   "T4": 0.035
+  },
+  "cloud_share": 0.745,
+  "accepted_money_precision": 0.8867,
+  "accepted_all3_precision": 0.5533,
+  "leak_share": 0.085,
+  "cost_usd_per_1k": 0.93,
+  "costed_receipts": 200,
+  "latency_ms_median": 5382
+ },
+ {
+  "policy": "harness_solo",
+  "tau": 1.01,
+  "n": 200,
+  "auto_accept_share": 0.75,
+  "review_share": 0.25,
+  "tier_share": {
+   "T1": 0.0,
+   "T2": 0.0,
+   "T3": 0.715,
+   "T4": 0.035
+  },
+  "cloud_share": 0.75,
+  "accepted_money_precision": 0.8867,
+  "accepted_all3_precision": 0.5533,
+  "leak_share": 0.085,
+  "cost_usd_per_1k": 0.933,
+  "costed_receipts": 200,
+  "latency_ms_median": 5382
+ },
+ {
+  "policy": "harness_ladder_solo",
+  "tau": 0.0,
+  "n": 200,
+  "auto_accept_share": 0.885,
+  "review_share": 0.115,
+  "tier_share": {
+   "T1": 0.55,
+   "T2": 0.0,
+   "T3": 0.31,
+   "T4": 0.025
+  },
+  "cloud_share": 0.335,
+  "accepted_money_precision": 0.8362,
+  "accepted_all3_precision": 0.4689,
+  "leak_share": 0.145,
+  "cost_usd_per_1k": 0.437,
+  "costed_receipts": 200,
+  "latency_ms_median": 4248
+ },
+ {
+  "policy": "harness_ladder_solo",
+  "tau": 0.5,
+  "n": 200,
+  "auto_accept_share": 0.885,
+  "review_share": 0.115,
+  "tier_share": {
+   "T1": 0.55,
+   "T2": 0.0,
+   "T3": 0.31,
+   "T4": 0.025
+  },
+  "cloud_share": 0.335,
+  "accepted_money_precision": 0.8362,
+  "accepted_all3_precision": 0.4689,
+  "leak_share": 0.145,
+  "cost_usd_per_1k": 0.437,
+  "costed_receipts": 200,
+  "latency_ms_median": 4248
+ },
+ {
+  "policy": "harness_ladder_solo",
+  "tau": 0.6,
+  "n": 200,
+  "auto_accept_share": 0.885,
+  "review_share": 0.115,
+  "tier_share": {
+   "T1": 0.55,
+   "T2": 0.0,
+   "T3": 0.31,
+   "T4": 0.025
+  },
+  "cloud_share": 0.335,
+  "accepted_money_precision": 0.8362,
+  "accepted_all3_precision": 0.4689,
+  "leak_share": 0.145,
+  "cost_usd_per_1k": 0.437,
+  "costed_receipts": 200,
+  "latency_ms_median": 4248
+ },
+ {
+  "policy": "harness_ladder_solo",
+  "tau": 0.7,
+  "n": 200,
+  "auto_accept_share": 0.885,
+  "review_share": 0.115,
+  "tier_share": {
+   "T1": 0.55,
+   "T2": 0.0,
+   "T3": 0.31,
+   "T4": 0.025
+  },
+  "cloud_share": 0.335,
+  "accepted_money_precision": 0.8362,
+  "accepted_all3_precision": 0.4689,
+  "leak_share": 0.145,
+  "cost_usd_per_1k": 0.437,
+  "costed_receipts": 200,
+  "latency_ms_median": 4248
+ },
+ {
+  "policy": "harness_ladder_solo",
+  "tau": 0.8,
+  "n": 200,
+  "auto_accept_share": 0.885,
+  "review_share": 0.115,
+  "tier_share": {
+   "T1": 0.55,
+   "T2": 0.0,
+   "T3": 0.31,
+   "T4": 0.025
+  },
+  "cloud_share": 0.335,
+  "accepted_money_precision": 0.8362,
+  "accepted_all3_precision": 0.4689,
+  "leak_share": 0.145,
+  "cost_usd_per_1k": 0.437,
+  "costed_receipts": 200,
+  "latency_ms_median": 4248
+ },
+ {
+  "policy": "harness_ladder_solo",
+  "tau": 0.85,
+  "n": 200,
+  "auto_accept_share": 0.885,
+  "review_share": 0.115,
+  "tier_share": {
+   "T1": 0.55,
+   "T2": 0.0,
+   "T3": 0.31,
+   "T4": 0.025
+  },
+  "cloud_share": 0.335,
+  "accepted_money_precision": 0.8362,
+  "accepted_all3_precision": 0.4689,
+  "leak_share": 0.145,
+  "cost_usd_per_1k": 0.437,
+  "costed_receipts": 200,
+  "latency_ms_median": 4248
+ },
+ {
+  "policy": "harness_ladder_solo",
+  "tau": 0.9,
+  "n": 200,
+  "auto_accept_share": 0.885,
+  "review_share": 0.115,
+  "tier_share": {
+   "T1": 0.54,
+   "T2": 0.0,
+   "T3": 0.32,
+   "T4": 0.025
+  },
+  "cloud_share": 0.345,
+  "accepted_money_precision": 0.8362,
+  "accepted_all3_precision": 0.4689,
+  "leak_share": 0.145,
+  "cost_usd_per_1k": 0.443,
+  "costed_receipts": 200,
+  "latency_ms_median": 4300
+ },
+ {
+  "policy": "harness_ladder_solo",
+  "tau": 0.93,
+  "n": 200,
+  "auto_accept_share": 0.865,
+  "review_share": 0.135,
+  "tier_share": {
+   "T1": 0.485,
+   "T2": 0.0,
+   "T3": 0.355,
+   "T4": 0.025
+  },
+  "cloud_share": 0.38,
+  "accepted_money_precision": 0.8497,
+  "accepted_all3_precision": 0.4913,
+  "leak_share": 0.13,
+  "cost_usd_per_1k": 0.501,
+  "costed_receipts": 200,
+  "latency_ms_median": 4445
+ },
+ {
+  "policy": "harness_ladder_solo",
+  "tau": 0.95,
+  "n": 200,
+  "auto_accept_share": 0.84,
+  "review_share": 0.16,
+  "tier_share": {
+   "T1": 0.385,
+   "T2": 0.0,
+   "T3": 0.43,
+   "T4": 0.025
+  },
+  "cloud_share": 0.455,
+  "accepted_money_precision": 0.8512,
+  "accepted_all3_precision": 0.4881,
+  "leak_share": 0.125,
+  "cost_usd_per_1k": 0.588,
+  "costed_receipts": 200,
+  "latency_ms_median": 4783
+ },
+ {
+  "policy": "harness_ladder_solo",
+  "tau": 0.97,
+  "n": 200,
+  "auto_accept_share": 0.775,
+  "review_share": 0.225,
+  "tier_share": {
+   "T1": 0.165,
+   "T2": 0.0,
+   "T3": 0.575,
+   "T4": 0.035
+  },
+  "cloud_share": 0.61,
+  "accepted_money_precision": 0.8903,
+  "accepted_all3_precision": 0.5548,
+  "leak_share": 0.085,
+  "cost_usd_per_1k": 0.811,
+  "costed_receipts": 200,
+  "latency_ms_median": 5141
+ },
+ {
+  "policy": "harness_ladder_solo",
+  "tau": 0.99,
+  "n": 200,
+  "auto_accept_share": 0.75,
+  "review_share": 0.25,
+  "tier_share": {
+   "T1": 0.005,
+   "T2": 0.0,
+   "T3": 0.71,
+   "T4": 0.035
+  },
+  "cloud_share": 0.745,
+  "accepted_money_precision": 0.8867,
+  "accepted_all3_precision": 0.5533,
+  "leak_share": 0.085,
+  "cost_usd_per_1k": 0.93,
+  "costed_receipts": 200,
+  "latency_ms_median": 5382
+ },
+ {
+  "policy": "harness_ladder_solo",
+  "tau": 1.01,
+  "n": 200,
+  "auto_accept_share": 0.75,
+  "review_share": 0.25,
+  "tier_share": {
+   "T1": 0.0,
+   "T2": 0.0,
+   "T3": 0.715,
+   "T4": 0.035
+  },
+  "cloud_share": 0.75,
+  "accepted_money_precision": 0.8867,
+  "accepted_all3_precision": 0.5533,
+  "leak_share": 0.085,
+  "cost_usd_per_1k": 0.933,
+  "costed_receipts": 200,
+  "latency_ms_median": 5382
+ }
+]

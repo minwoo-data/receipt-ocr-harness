@@ -1,0 +1,251 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "Tent Jumeirah Restaurant",
+  "Umm Sugein",
+  "JUMEIRAH 5",
+  "04-3401929",
+  "Table #49",
+  "Trans #: 48704 Serv: Marissa",
+  "9/19/2017 8:11 PA # Cust:1",
+  "“1 dalla poracan tea AED 25.00",
+  "1 2kunafa AED 80.00",
+  "| et Total: AD 105.00",
+  "| sTOTAL: AED 105.00",
+  "MOL int Due: AED 105.",
+  "prong: JED 80.00",
+  "rage: AED 25.00",
+  "ink YOU for visiti"
+ ],
+ "tokens": [
+  {
+   "text": "Tent",
+   "conf": 0.74
+  },
+  {
+   "text": "Jumeirah",
+   "conf": 0.24
+  },
+  {
+   "text": "Restaurant",
+   "conf": 0.93
+  },
+  {
+   "text": "Umm",
+   "conf": 0.68
+  },
+  {
+   "text": "Sugein",
+   "conf": 0.68
+  },
+  {
+   "text": "JUMEIRAH",
+   "conf": 0.11
+  },
+  {
+   "text": "5",
+   "conf": 0.81
+  },
+  {
+   "text": "04-3401929",
+   "conf": 0.79
+  },
+  {
+   "text": "Table",
+   "conf": 0.94
+  },
+  {
+   "text": "#49",
+   "conf": 0.94
+  },
+  {
+   "text": "Trans",
+   "conf": 0.82
+  },
+  {
+   "text": "#:",
+   "conf": 0.83
+  },
+  {
+   "text": "48704",
+   "conf": 0.57
+  },
+  {
+   "text": "Serv:",
+   "conf": 0.95
+  },
+  {
+   "text": "Marissa",
+   "conf": 0.92
+  },
+  {
+   "text": "9/19/2017",
+   "conf": 0.93
+  },
+  {
+   "text": "8:11",
+   "conf": 0.83
+  },
+  {
+   "text": "PA",
+   "conf": 0.65
+  },
+  {
+   "text": "#",
+   "conf": 0.76
+  },
+  {
+   "text": "Cust:1",
+   "conf": 0.76
+  },
+  {
+   "text": "“1",
+   "conf": 0.33
+  },
+  {
+   "text": "dalla",
+   "conf": 0.08
+  },
+  {
+   "text": "poracan",
+   "conf": 0.1
+  },
+  {
+   "text": "tea",
+   "conf": 0.45
+  },
+  {
+   "text": "AED",
+   "conf": 0.45
+  },
+  {
+   "text": "25.00",
+   "conf": 0.91
+  },
+  {
+   "text": "1",
+   "conf": 0.64
+  },
+  {
+   "text": "2kunafa",
+   "conf": 0.64
+  },
+  {
+   "text": "AED",
+   "conf": 0.92
+  },
+  {
+   "text": "80.00",
+   "conf": 0.7
+  },
+  {
+   "text": "|",
+   "conf": 0.0
+  },
+  {
+   "text": "et",
+   "conf": 0.42
+  },
+  {
+   "text": "Total:",
+   "conf": 0.61
+  },
+  {
+   "text": "AD",
+   "conf": 0.08
+  },
+  {
+   "text": "105.00",
+   "conf": 0.87
+  },
+  {
+   "text": "|",
+   "conf": 0.18
+  },
+  {
+   "text": "sTOTAL:",
+   "conf": 0.0
+  },
+  {
+   "text": "AED",
+   "conf": 0.92
+  },
+  {
+   "text": "105.00",
+   "conf": 0.92
+  },
+  {
+   "text": "MOL",
+   "conf": 0.4
+  },
+  {
+   "text": "int",
+   "conf": 0.87
+  },
+  {
+   "text": "Due:",
+   "conf": 0.95
+  },
+  {
+   "text": "AED",
+   "conf": 0.95
+  },
+  {
+   "text": "105.",
+   "conf": 0.95
+  },
+  {
+   "text": "prong:",
+   "conf": 0.33
+  },
+  {
+   "text": "JED",
+   "conf": 0.92
+  },
+  {
+   "text": "80.00",
+   "conf": 0.55
+  },
+  {
+   "text": "rage:",
+   "conf": 0.95
+  },
+  {
+   "text": "AED",
+   "conf": 0.94
+  },
+  {
+   "text": "25.00",
+   "conf": 0.79
+  },
+  {
+   "text": "ink",
+   "conf": 0.59
+  },
+  {
+   "text": "YOU",
+   "conf": 0.88
+  },
+  {
+   "text": "for",
+   "conf": 0.92
+  },
+  {
+   "text": "visiti",
+   "conf": 0.51
+  }
+ ],
+ "mean_conf": 0.6593,
+ "low_conf_share": 0.2593,
+ "latency_ms": 1581,
+ "fields": {
+  "company": "TENT JUMEIRAH RESTAURANT",
+  "date": "2017-09-19",
+  "total": 105.0
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  105.0
+ ],
+ "key": "W0122_80a1a6edfd8c"
+}

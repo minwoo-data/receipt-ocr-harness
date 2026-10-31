@@ -1,0 +1,262 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "31803010",
+  "AEON CO.(M)BHD(126926-H)",
+  "3RD FLR,AEON.TAMAN,MALURI SC",
+  "JLN JEJAKA,TAMAN MALURI",
+  "CHERAS,55100 KUALA LUMPUR",
+  "GST ID : 002017394688",
+  "SHOPPING HOURS",
+  "SUN-THU:1000 HRS-2200 HRS",
+  "FRI-SAT:1000 HRS-2300 HRS",
+  "1x 000006215514 10.90SR",
+  "TOPVALU VIRGIN",
+  "1x000006215514 10.90SR",
+  "TOPVALU VIRGIN",
+  "16x000001060836 44.00ZR",
+  "ANCHORFLOUR 1@2.75",
+  "1x000001083107 15.40SR",
+  "DIAMOND FOIL7",
+  "Sub-total 81.20",
+  "Total Sales Incl GST 81.20",
+  "Total After Adj Incl GSl 81.20",
+  "CASH 100.00",
+  "Item Count 19 Change Ant 18.80",
+  "Invoice No:2018030510080080119",
+  "GST Summary Amount xe1",
+  "SR6% 35.09 2.11",
+  "ZR0% 44.00 0.00",
+  "Total 79.09 2.11",
+  "05/03/2018 15:09 10080080080119",
+  "0305114 LE0NG SIEW MUI REKHA",
+  "AEON BANDAR PUCHONG",
+  "TEL1-300-80-AE0N（2366)",
+  "THANK YOU FOR YOUR PATRONAGE",
+  "PLEASE COME AGAIN"
+ ],
+ "tokens": [
+  {
+   "text": "31803010",
+   "conf": 0.9980851262807846
+  },
+  {
+   "text": "AEON CO.(M)BHD(126926-H)",
+   "conf": 0.9257767833769321
+  },
+  {
+   "text": "3RD FLR,AEON.TAMAN,MALURI SC",
+   "conf": 0.8900979267699378
+  },
+  {
+   "text": "JLN JEJAKA,TAMAN MALURI",
+   "conf": 0.964583448741747
+  },
+  {
+   "text": "CHERAS,55100 KUALA LUMPUR",
+   "conf": 0.9599326920509338
+  },
+  {
+   "text": "GST ID : 002017394688",
+   "conf": 0.9556170389765785
+  },
+  {
+   "text": "SHOPPING HOURS",
+   "conf": 0.9776631764003209
+  },
+  {
+   "text": "SUN-THU:1000 HRS-2200 HRS",
+   "conf": 0.9719644403457641
+  },
+  {
+   "text": "FRI-SAT:1000 HRS-2300 HRS",
+   "conf": 0.9602589011192322
+  },
+  {
+   "text": "1x 000006215514",
+   "conf": 0.9718588431676228
+  },
+  {
+   "text": "10.90SR",
+   "conf": 0.9906231675829206
+  },
+  {
+   "text": "TOPVALU VIRGIN",
+   "conf": 0.9828595774514335
+  },
+  {
+   "text": "1x000006215514",
+   "conf": 0.9811531220163617
+  },
+  {
+   "text": "10.90SR",
+   "conf": 0.9911348734583173
+  },
+  {
+   "text": "TOPVALU VIRGIN",
+   "conf": 0.9888415081160409
+  },
+  {
+   "text": "16x000001060836",
+   "conf": 0.9651941537857056
+  },
+  {
+   "text": "44.00ZR",
+   "conf": 0.9603171689169747
+  },
+  {
+   "text": "ANCHORFLOUR 1@2.75",
+   "conf": 0.9580818315347036
+  },
+  {
+   "text": "1x000001083107",
+   "conf": 0.9754293433257512
+  },
+  {
+   "text": "15.40SR",
+   "conf": 0.9913985644068036
+  },
+  {
+   "text": "DIAMOND FOIL7",
+   "conf": 0.9543234522526081
+  },
+  {
+   "text": "Sub-total",
+   "conf": 0.9801539646254646
+  },
+  {
+   "text": "81.20",
+   "conf": 0.9984618544578552
+  },
+  {
+   "text": "Total Sales Incl GST",
+   "conf": 0.9442958161234856
+  },
+  {
+   "text": "81.20",
+   "conf": 0.9871195912361145
+  },
+  {
+   "text": "Total After Adj Incl GSl",
+   "conf": 0.8981273956596851
+  },
+  {
+   "text": "81.20",
+   "conf": 0.9979684114456177
+  },
+  {
+   "text": "CASH",
+   "conf": 0.9969210475683212
+  },
+  {
+   "text": "100.00",
+   "conf": 0.9961760938167572
+  },
+  {
+   "text": "Item Count 19",
+   "conf": 0.9290962586036096
+  },
+  {
+   "text": "Change Ant",
+   "conf": 0.9574150383472443
+  },
+  {
+   "text": "18.80",
+   "conf": 0.998436164855957
+  },
+  {
+   "text": "Invoice No:2018030510080080119",
+   "conf": 0.9889521499474844
+  },
+  {
+   "text": "GST Summary",
+   "conf": 0.9746675166216764
+  },
+  {
+   "text": "Amount",
+   "conf": 0.9683278401692709
+  },
+  {
+   "text": "xe1",
+   "conf": 0.5091146926085154
+  },
+  {
+   "text": "SR6%",
+   "conf": 0.9939626157283783
+  },
+  {
+   "text": "35.09",
+   "conf": 0.9997049808502197
+  },
+  {
+   "text": "2.11",
+   "conf": 0.9968556016683578
+  },
+  {
+   "text": "ZR0%",
+   "conf": 0.9766073226928711
+  },
+  {
+   "text": "44.00",
+   "conf": 0.9995476841926575
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9996210336685181
+  },
+  {
+   "text": "Total",
+   "conf": 0.9847770929336548
+  },
+  {
+   "text": "79.09",
+   "conf": 0.999624502658844
+  },
+  {
+   "text": "2.11",
+   "conf": 0.9992041438817978
+  },
+  {
+   "text": "05/03/2018 15:09",
+   "conf": 0.9440141841769218
+  },
+  {
+   "text": "10080080080119",
+   "conf": 0.9959691592625209
+  },
+  {
+   "text": "0305114 LE0NG SIEW MUI REKHA",
+   "conf": 0.9387454965284893
+  },
+  {
+   "text": "AEON BANDAR PUCHONG",
+   "conf": 0.9603927511917917
+  },
+  {
+   "text": "TEL1-300-80-AE0N（2366)",
+   "conf": 0.9449305127967488
+  },
+  {
+   "text": "THANK YOU FOR YOUR PATRONAGE",
+   "conf": 0.9762473234108516
+  },
+  {
+   "text": "PLEASE COME AGAIN",
+   "conf": 0.9798005188212675
+  }
+ ],
+ "mean_conf": 0.964,
+ "low_conf_share": 0.0,
+ "latency_ms": 3870,
+ "fields": {
+  "company": "AEON CO BHD",
+  "date": "2018-03-05",
+  "total": 81.2
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  81.2,
+  81.2
+ ],
+ "key": "X51005757220"
+}

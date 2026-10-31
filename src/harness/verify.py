@@ -87,9 +87,14 @@ def check_arithmetic(data: dict, tolerance: float = TOLERANCE) -> list[Flag]:
     return [Flag("G_ARITH", f"subtotal+tax+tip+discount={additive} vs total={total}")]
 
 
-def check_date(data: dict, today: date | None = None) -> list[Flag]:
+def check_date(data: dict, today: date | None = None, min_year: int | None = None) -> list[Flag]:
+    """Plausibility window: not after `today`, not before `min_year`. The
+    window is set per dataset era (SROIE receipts are from 2016-2019; the
+    synthetic set is dated 2026), so an ancient or future date is judged
+    relative to when the receipts were issued, not to the wall clock."""
     iso = norm_date(data.get("date"), day_first=True)
-    ok, reason = date_plausible(iso, today=today)
+    today = today or date.today()
+    ok, reason = date_plausible(iso, today=today, min_year=min_year if min_year is not None else today.year - 3)
     return [] if ok else [Flag("G_DATE", reason or "date_invalid")]
 
 
@@ -166,7 +171,8 @@ def ocr_date_candidates(ocr_lines: list[str]) -> set[str]:
     return found
 
 
-def verify(record: dict, ocr_lines: list[str] | None = None, today: date | None = None) -> list[Flag]:
+def verify(record: dict, ocr_lines: list[str] | None = None, today: date | None = None,
+           min_year: int | None = None) -> list[Flag]:
     """All checks on one VLM record (as written by engines.vlm). Returns the
     flags; empty means every code check passed."""
     data = record.get("data")
@@ -176,7 +182,7 @@ def verify(record: dict, ocr_lines: list[str] | None = None, today: date | None 
     flags += check_sanitizer(record)
     flags += check_missing(data)
     flags += check_arithmetic(data)
-    flags += check_date(data, today=today)
+    flags += check_date(data, today=today, min_year=min_year)
     flags += check_range(data)
     flags += check_agreement(data, ocr_lines)
     return flags

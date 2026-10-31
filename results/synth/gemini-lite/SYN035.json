@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.1-flash-lite",
+ "provider": "gemini",
+ "raw_text": "{\n  \"vendor\": \"KOPITIAM SERI MELAKA\",\n  \"date\": \"2024-10-07\",\n  \"subtotal\": 56.5,\n  \"tax\": 3.39,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 59.89,\n  \"currency\": \"MYR\",\n  \"confidence\": 1.0,\n  \"notes\": null\n}",
+ "data": {
+  "vendor": "KOPITIAM SERI MELAKA",
+  "date": "2024-10-07",
+  "subtotal": 56.5,
+  "tax": 3.39,
+  "tip": null,
+  "discount": null,
+  "total": 59.89,
+  "currency": "MYR",
+  "confidence": 1.0,
+  "notes": null
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1458,
+  "output_tokens": 109,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.000528,
+ "latency_ms": 1863,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.1-flash-lite",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.1-flash-lite"
+ ],
+ "key": "SYN035"
+}

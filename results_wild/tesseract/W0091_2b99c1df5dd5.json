@@ -1,0 +1,235 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "et OME",
+  "MARINA “SHELL",
+  "subtotal 3.00",
+  "Tax 0:00",
+  "TOTAL 9.00",
+  "cast ¢ \"S00",
+  "Your § digit Car Nash codo(s",
+  "SUPER RASH 26455",
+  "Your Bonus Savings",
+  "Join Fuel Rewards today.",
+  "Wenbers earn $0.10/gal reward on",
+  "Shel V-Power NITRO* all year!",
+  "Terms and conditions apply.",
+  "Offer endo 1/1/17.",
+  "See fuelrewards.com for detaijs."
+ ],
+ "tokens": [
+  {
+   "text": "et",
+   "conf": 0.17
+  },
+  {
+   "text": "OME",
+   "conf": 0.56
+  },
+  {
+   "text": "MARINA",
+   "conf": 0.46
+  },
+  {
+   "text": "“SHELL",
+   "conf": 0.51
+  },
+  {
+   "text": "subtotal",
+   "conf": 0.55
+  },
+  {
+   "text": "3.00",
+   "conf": 0.53
+  },
+  {
+   "text": "Tax",
+   "conf": 0.68
+  },
+  {
+   "text": "0:00",
+   "conf": 0.64
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.92
+  },
+  {
+   "text": "9.00",
+   "conf": 0.68
+  },
+  {
+   "text": "cast",
+   "conf": 0.38
+  },
+  {
+   "text": "¢",
+   "conf": 0.0
+  },
+  {
+   "text": "\"S00",
+   "conf": 0.24
+  },
+  {
+   "text": "Your",
+   "conf": 0.93
+  },
+  {
+   "text": "§",
+   "conf": 0.87
+  },
+  {
+   "text": "digit",
+   "conf": 0.96
+  },
+  {
+   "text": "Car",
+   "conf": 0.95
+  },
+  {
+   "text": "Nash",
+   "conf": 0.72
+  },
+  {
+   "text": "codo(s",
+   "conf": 0.67
+  },
+  {
+   "text": "SUPER",
+   "conf": 0.78
+  },
+  {
+   "text": "RASH",
+   "conf": 0.62
+  },
+  {
+   "text": "26455",
+   "conf": 0.96
+  },
+  {
+   "text": "Your",
+   "conf": 0.96
+  },
+  {
+   "text": "Bonus",
+   "conf": 0.95
+  },
+  {
+   "text": "Savings",
+   "conf": 0.89
+  },
+  {
+   "text": "Join",
+   "conf": 0.0
+  },
+  {
+   "text": "Fuel",
+   "conf": 0.78
+  },
+  {
+   "text": "Rewards",
+   "conf": 0.89
+  },
+  {
+   "text": "today.",
+   "conf": 0.76
+  },
+  {
+   "text": "Wenbers",
+   "conf": 0.65
+  },
+  {
+   "text": "earn",
+   "conf": 0.91
+  },
+  {
+   "text": "$0.10/gal",
+   "conf": 0.45
+  },
+  {
+   "text": "reward",
+   "conf": 0.75
+  },
+  {
+   "text": "on",
+   "conf": 0.95
+  },
+  {
+   "text": "Shel",
+   "conf": 0.62
+  },
+  {
+   "text": "V-Power",
+   "conf": 0.0
+  },
+  {
+   "text": "NITRO*",
+   "conf": 0.62
+  },
+  {
+   "text": "all",
+   "conf": 0.68
+  },
+  {
+   "text": "year!",
+   "conf": 0.68
+  },
+  {
+   "text": "Terms",
+   "conf": 0.55
+  },
+  {
+   "text": "and",
+   "conf": 0.93
+  },
+  {
+   "text": "conditions",
+   "conf": 0.89
+  },
+  {
+   "text": "apply.",
+   "conf": 0.66
+  },
+  {
+   "text": "Offer",
+   "conf": 0.82
+  },
+  {
+   "text": "endo",
+   "conf": 0.34
+  },
+  {
+   "text": "1/1/17.",
+   "conf": 0.75
+  },
+  {
+   "text": "See",
+   "conf": 0.87
+  },
+  {
+   "text": "fuelrewards.com",
+   "conf": 0.53
+  },
+  {
+   "text": "for",
+   "conf": 0.93
+  },
+  {
+   "text": "detaijs.",
+   "conf": 0.25
+  }
+ ],
+ "mean_conf": 0.6568,
+ "low_conf_share": 0.2,
+ "latency_ms": 389,
+ "fields": {
+  "company": "ET OME",
+  "date": "2017-01-01",
+  "total": 9.0
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  9.0
+ ],
+ "key": "W0091_2b99c1df5dd5"
+}

@@ -1,0 +1,129 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "POPPIES",
+  "55-59 OLD COMPTONSTREET",
+  "SOHO",
+  "LONDONW1D6HW",
+  "YELIZ REG ID#1",
+  "SUNDAY31JULY2016 18:34000053",
+  "ORDERNO:44",
+  "1 CHIPS LRG 2.50",
+  "2 COD REG 13.00",
+  "1 CALAMARI 6.50",
+  "TOTAL 22.00",
+  "CASH 22.00",
+  "VATNO"
+ ],
+ "tokens": [
+  {
+   "text": "POPPIES",
+   "conf": 0.9916787658418927
+  },
+  {
+   "text": "55-59 OLD COMPTONSTREET",
+   "conf": 0.930679466413415
+  },
+  {
+   "text": "SOHO",
+   "conf": 0.9896913915872574
+  },
+  {
+   "text": "LONDONW1D6HW",
+   "conf": 0.9340489879250526
+  },
+  {
+   "text": "YELIZ",
+   "conf": 0.9855458974838257
+  },
+  {
+   "text": "REG",
+   "conf": 0.994935154914856
+  },
+  {
+   "text": "ID#1",
+   "conf": 0.9530000388622284
+  },
+  {
+   "text": "SUNDAY31JULY2016",
+   "conf": 0.9971608594059944
+  },
+  {
+   "text": "18:34000053",
+   "conf": 0.9846719232472506
+  },
+  {
+   "text": "ORDERNO:44",
+   "conf": 0.972335010766983
+  },
+  {
+   "text": "1",
+   "conf": 0.9835116863250732
+  },
+  {
+   "text": "CHIPS LRG",
+   "conf": 0.9480185111363729
+  },
+  {
+   "text": "2.50",
+   "conf": 0.9962508231401443
+  },
+  {
+   "text": "2",
+   "conf": 0.9962971806526184
+  },
+  {
+   "text": "COD REG",
+   "conf": 0.9304378713880267
+  },
+  {
+   "text": "13.00",
+   "conf": 0.99689621925354
+  },
+  {
+   "text": "1",
+   "conf": 0.9873342514038086
+  },
+  {
+   "text": "CALAMARI",
+   "conf": 0.9897339418530464
+  },
+  {
+   "text": "6.50",
+   "conf": 0.9941230118274689
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.993698799610138
+  },
+  {
+   "text": "22.00",
+   "conf": 0.997499966621399
+  },
+  {
+   "text": "CASH",
+   "conf": 0.9960776567459106
+  },
+  {
+   "text": "22.00",
+   "conf": 0.9882003188133239
+  },
+  {
+   "text": "VATNO",
+   "conf": 0.9036664843559266
+  }
+ ],
+ "mean_conf": 0.9765,
+ "low_conf_share": 0.0,
+ "latency_ms": 1852,
+ "fields": {
+  "company": "POPPIES",
+  "date": "2016-07-31",
+  "total": 22.0
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  22.0
+ ],
+ "key": "W0169_0cc147c47ff9"
+}

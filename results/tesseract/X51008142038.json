@@ -1,0 +1,331 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "LOT P.T. 2811, JALAN ANGSA,",
+  "TAMAN BERKELEY",
+  "41150 KLANG, SELANGOR",
+  "1225-DENGKIL",
+  "GST ID. NO s 000191747712",
+  "INVOICE NO s 18291/102/T0163",
+  "11:59AM 547640 28-01-18",
+  "973 COKE LIGHT SOOML RM4.40 =",
+  "#2 X RM 2.20",
+  "5581 SPRITZER MINERAL WATER RM23.50 ¢",
+  "Total Sales (Inclusive GST) RM 27.90",
+  "CASH RM = 28.00",
+  "CHANGE RM 10",
+  "GST Summary Amount (RM) Tax(RM)",
+  "s = 6/ 26.33 1.57",
+  "Thank You. Please come again",
+  "Keep the invoice for applicable returns"
+ ],
+ "tokens": [
+  {
+   "text": "LOT",
+   "conf": 0.9
+  },
+  {
+   "text": "P.T.",
+   "conf": 0.52
+  },
+  {
+   "text": "2811,",
+   "conf": 0.88
+  },
+  {
+   "text": "JALAN",
+   "conf": 0.93
+  },
+  {
+   "text": "ANGSA,",
+   "conf": 0.92
+  },
+  {
+   "text": "TAMAN",
+   "conf": 0.92
+  },
+  {
+   "text": "BERKELEY",
+   "conf": 0.96
+  },
+  {
+   "text": "41150",
+   "conf": 0.96
+  },
+  {
+   "text": "KLANG,",
+   "conf": 0.95
+  },
+  {
+   "text": "SELANGOR",
+   "conf": 0.96
+  },
+  {
+   "text": "1225-DENGKIL",
+   "conf": 0.87
+  },
+  {
+   "text": "GST",
+   "conf": 0.93
+  },
+  {
+   "text": "ID.",
+   "conf": 0.79
+  },
+  {
+   "text": "NO",
+   "conf": 0.89
+  },
+  {
+   "text": "s",
+   "conf": 0.08
+  },
+  {
+   "text": "000191747712",
+   "conf": 0.9
+  },
+  {
+   "text": "INVOICE",
+   "conf": 0.96
+  },
+  {
+   "text": "NO",
+   "conf": 0.82
+  },
+  {
+   "text": "s",
+   "conf": 0.49
+  },
+  {
+   "text": "18291/102/T0163",
+   "conf": 0.32
+  },
+  {
+   "text": "11:59AM",
+   "conf": 0.0
+  },
+  {
+   "text": "547640",
+   "conf": 0.75
+  },
+  {
+   "text": "28-01-18",
+   "conf": 0.93
+  },
+  {
+   "text": "973",
+   "conf": 0.96
+  },
+  {
+   "text": "COKE",
+   "conf": 0.96
+  },
+  {
+   "text": "LIGHT",
+   "conf": 0.93
+  },
+  {
+   "text": "SOOML",
+   "conf": 0.63
+  },
+  {
+   "text": "RM4.40",
+   "conf": 0.41
+  },
+  {
+   "text": "=",
+   "conf": 0.52
+  },
+  {
+   "text": "#2",
+   "conf": 0.3
+  },
+  {
+   "text": "X",
+   "conf": 0.86
+  },
+  {
+   "text": "RM",
+   "conf": 0.93
+  },
+  {
+   "text": "2.20",
+   "conf": 0.78
+  },
+  {
+   "text": "5581",
+   "conf": 0.92
+  },
+  {
+   "text": "SPRITZER",
+   "conf": 0.91
+  },
+  {
+   "text": "MINERAL",
+   "conf": 0.96
+  },
+  {
+   "text": "WATER",
+   "conf": 0.49
+  },
+  {
+   "text": "RM23.50",
+   "conf": 0.0
+  },
+  {
+   "text": "¢",
+   "conf": 0.88
+  },
+  {
+   "text": "Total",
+   "conf": 0.95
+  },
+  {
+   "text": "Sales",
+   "conf": 0.96
+  },
+  {
+   "text": "(Inclusive",
+   "conf": 0.85
+  },
+  {
+   "text": "GST)",
+   "conf": 0.37
+  },
+  {
+   "text": "RM",
+   "conf": 0.88
+  },
+  {
+   "text": "27.90",
+   "conf": 0.88
+  },
+  {
+   "text": "CASH",
+   "conf": 0.94
+  },
+  {
+   "text": "RM",
+   "conf": 0.68
+  },
+  {
+   "text": "=",
+   "conf": 0.12
+  },
+  {
+   "text": "28.00",
+   "conf": 0.12
+  },
+  {
+   "text": "CHANGE",
+   "conf": 0.96
+  },
+  {
+   "text": "RM",
+   "conf": 0.93
+  },
+  {
+   "text": "10",
+   "conf": 0.58
+  },
+  {
+   "text": "GST",
+   "conf": 0.85
+  },
+  {
+   "text": "Summary",
+   "conf": 0.95
+  },
+  {
+   "text": "Amount",
+   "conf": 0.69
+  },
+  {
+   "text": "(RM)",
+   "conf": 0.69
+  },
+  {
+   "text": "Tax(RM)",
+   "conf": 0.43
+  },
+  {
+   "text": "s",
+   "conf": 0.53
+  },
+  {
+   "text": "=",
+   "conf": 0.88
+  },
+  {
+   "text": "6/",
+   "conf": 0.57
+  },
+  {
+   "text": "26.33",
+   "conf": 0.92
+  },
+  {
+   "text": "1.57",
+   "conf": 0.86
+  },
+  {
+   "text": "Thank",
+   "conf": 0.96
+  },
+  {
+   "text": "You.",
+   "conf": 0.8
+  },
+  {
+   "text": "Please",
+   "conf": 0.96
+  },
+  {
+   "text": "come",
+   "conf": 0.96
+  },
+  {
+   "text": "again",
+   "conf": 0.96
+  },
+  {
+   "text": "Keep",
+   "conf": 0.95
+  },
+  {
+   "text": "the",
+   "conf": 0.96
+  },
+  {
+   "text": "invoice",
+   "conf": 0.96
+  },
+  {
+   "text": "for",
+   "conf": 0.96
+  },
+  {
+   "text": "applicable",
+   "conf": 0.96
+  },
+  {
+   "text": "returns",
+   "conf": 0.96
+  }
+ ],
+ "mean_conf": 0.7678,
+ "low_conf_share": 0.1644,
+ "latency_ms": 2562,
+ "fields": {
+  "company": null,
+  "date": "2018-01-28",
+  "total": 27.9
+ },
+ "rule_reasons": [
+  "company_not_found"
+ ],
+ "total_candidates": [
+  27.9
+ ],
+ "key": "X51008142038"
+}

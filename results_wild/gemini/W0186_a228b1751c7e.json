@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.6-flash",
+ "provider": "gemini",
+ "raw_text": "{\"vendor\":\"ANJAPPAR AUTHENTIC CHETTINAAD RESTAURANT\",\"date\":\"2013-05-23\",\"subtotal\":48.3,\"tax\":3.72,\"tip\":null,\"discount\":null,\"total\":56.85,\"currency\":\"SGD\",\"confidence\":0.98,\"notes\":null}",
+ "data": {
+  "vendor": "ANJAPPAR AUTHENTIC CHETTINAAD RESTAURANT",
+  "date": "2013-05-23",
+  "subtotal": 48.3,
+  "tax": 3.72,
+  "tip": null,
+  "discount": null,
+  "total": 56.85,
+  "currency": "SGD",
+  "confidence": 0.98,
+  "notes": null
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1461,
+  "output_tokens": 77,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.001385,
+ "latency_ms": 1739,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.6-flash",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.6-flash"
+ ],
+ "key": "W0186_a228b1751c7e"
+}

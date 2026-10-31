@@ -1,0 +1,137 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "WELCOME TO",
+  "SHELLRINCON",
+  "SHELL 57445390008",
+  "777 NRAHS RINCONAY SIF0728",
+  "VALLEYCENTERD92082",
+  "DUFLICATERECEIPT",
+  "Descr aty ssount",
+  "PREPAYDAOI 22.00",
+  "sbtotel 22.00",
+  "Ter 0.00",
+  "TOTAL 22.00",
+  "CASH 22.00",
+  "THANKS.COMEAGAIN",
+  "STA123TLX0DRTAN1015100",
+  "CSH:4 03/22/1805:25:15"
+ ],
+ "tokens": [
+  {
+   "text": "WELCOME TO",
+   "conf": 0.9550976455211639
+  },
+  {
+   "text": "SHELLRINCON",
+   "conf": 0.98403169892051
+  },
+  {
+   "text": "SHELL",
+   "conf": 0.8568908333778381
+  },
+  {
+   "text": "777 NRAHS RINCONAY",
+   "conf": 0.7477340847253799
+  },
+  {
+   "text": "57445390008",
+   "conf": 0.970702122558247
+  },
+  {
+   "text": "VALLEYCENTERD92082",
+   "conf": 0.8721797929869758
+  },
+  {
+   "text": "SIF0728",
+   "conf": 0.8414012789726257
+  },
+  {
+   "text": "DUFLICATERECEIPT",
+   "conf": 0.9141055382788181
+  },
+  {
+   "text": "Descr",
+   "conf": 0.8456422924995423
+  },
+  {
+   "text": "aty",
+   "conf": 0.848034660021464
+  },
+  {
+   "text": "ssount",
+   "conf": 0.8270945350329081
+  },
+  {
+   "text": "PREPAYDAOI",
+   "conf": 0.8260340809822082
+  },
+  {
+   "text": "22.00",
+   "conf": 0.9897029519081115
+  },
+  {
+   "text": "sbtotel",
+   "conf": 0.6789045312574932
+  },
+  {
+   "text": "22.00",
+   "conf": 0.9834932208061218
+  },
+  {
+   "text": "Ter",
+   "conf": 0.9355191389719645
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9813815653324127
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.9649116396903992
+  },
+  {
+   "text": "22.00",
+   "conf": 0.9833073258399964
+  },
+  {
+   "text": "CASH",
+   "conf": 0.885175809264183
+  },
+  {
+   "text": "22.00",
+   "conf": 0.9495974183082581
+  },
+  {
+   "text": "THANKS.COMEAGAIN",
+   "conf": 0.9696891270577908
+  },
+  {
+   "text": "STA123TLX0DRTAN1015100",
+   "conf": 0.7222250401973724
+  },
+  {
+   "text": "CSH:4",
+   "conf": 0.824761688709259
+  },
+  {
+   "text": "03/22/1805:25:15",
+   "conf": 0.801306838169694
+  }
+ ],
+ "mean_conf": 0.8864,
+ "low_conf_share": 0.0,
+ "latency_ms": 2366,
+ "fields": {
+  "company": "SHELLRINCON",
+  "date": null,
+  "total": 22.0
+ },
+ "rule_reasons": [
+  "date_not_found"
+ ],
+ "total_candidates": [
+  22.0
+ ],
+ "key": "W0183_d1019d13377e"
+}

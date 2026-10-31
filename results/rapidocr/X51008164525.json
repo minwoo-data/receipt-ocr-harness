@@ -1,0 +1,247 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "PASAR RAYA MEGA MAJU",
+  "(SEMENYIH) SDN BHD",
+  "(767840-W)",
+  "NO24,25&26,",
+  "JALANPUSATPERNIAGAANBUNGARAYA4",
+  "PUSATPERNIAGAANBUNGARAYA,",
+  "TEL: FAX:",
+  "GST Reg No:000746659840",
+  "InvoiceNo:01-283886",
+  "Date ：03/07/20185:22:43PM",
+  "Cashier :SITI",
+  "TAX INVOICE",
+  "Description Qty Price Amount",
+  "1SR09555544201075 4 4.35 17.40",
+  "PROBALANCE400GM-BEFF",
+  "2SR0 9555544201198 3 4.35 13.05",
+  "PROBALANCELAMB400GM",
+  "Total: 30.45",
+  "Discount: 0.00",
+  "Total SalesInclusive GST @0.00%: 30.45",
+  "Cash Received: 30.50",
+  "Change: 005",
+  "GST Summary % Amount(RM) Tax(RM)",
+  "SRO 0.00 30.45 0.00",
+  "Thank You.Please Coma Again",
+  "Terima Kasih.Sila Datang Layi",
+  "GoodSoldAre NotRefunableAnd Retumable"
+ ],
+ "tokens": [
+  {
+   "text": "PASAR RAYA MEGA MAJU",
+   "conf": 0.9283368915319443
+  },
+  {
+   "text": "(SEMENYIH) SDN BHD",
+   "conf": 0.9577995836734772
+  },
+  {
+   "text": "(767840-W)",
+   "conf": 0.9787381649017334
+  },
+  {
+   "text": "NO24,25&26,",
+   "conf": 0.8655400492928245
+  },
+  {
+   "text": "JALANPUSATPERNIAGAANBUNGARAYA4",
+   "conf": 0.9838728408018748
+  },
+  {
+   "text": "PUSATPERNIAGAANBUNGARAYA,",
+   "conf": 0.9685322833061218
+  },
+  {
+   "text": "TEL:",
+   "conf": 0.9864765852689743
+  },
+  {
+   "text": "FAX:",
+   "conf": 0.9732681661844254
+  },
+  {
+   "text": "GST Reg No:000746659840",
+   "conf": 0.9708359163740407
+  },
+  {
+   "text": "InvoiceNo:01-283886",
+   "conf": 0.9746160287606088
+  },
+  {
+   "text": "Date",
+   "conf": 0.991938129067421
+  },
+  {
+   "text": "：03/07/20185:22:43PM",
+   "conf": 0.9653143256902694
+  },
+  {
+   "text": "Cashier",
+   "conf": 0.9931916849953788
+  },
+  {
+   "text": ":SITI",
+   "conf": 0.9013768434524536
+  },
+  {
+   "text": "TAX INVOICE",
+   "conf": 0.9577577385035428
+  },
+  {
+   "text": "Description",
+   "conf": 0.9426439079371366
+  },
+  {
+   "text": "Qty",
+   "conf": 0.9902042945226034
+  },
+  {
+   "text": "Price",
+   "conf": 0.9908931374549865
+  },
+  {
+   "text": "Amount",
+   "conf": 0.991234560807546
+  },
+  {
+   "text": "1SR09555544201075",
+   "conf": 0.9970732752014609
+  },
+  {
+   "text": "4",
+   "conf": 0.9934093952178955
+  },
+  {
+   "text": "4.35",
+   "conf": 0.9938671290874481
+  },
+  {
+   "text": "17.40",
+   "conf": 0.9890029311180115
+  },
+  {
+   "text": "PROBALANCE400GM-BEFF",
+   "conf": 0.9884632140398025
+  },
+  {
+   "text": "2SR0 9555544201198",
+   "conf": 0.9748198522461785
+  },
+  {
+   "text": "3",
+   "conf": 0.9985927939414978
+  },
+  {
+   "text": "4.35",
+   "conf": 0.9950538873672485
+  },
+  {
+   "text": "13.05",
+   "conf": 0.9843905806541443
+  },
+  {
+   "text": "PROBALANCELAMB400GM",
+   "conf": 0.9838251377406874
+  },
+  {
+   "text": "Total:",
+   "conf": 0.9857770403226217
+  },
+  {
+   "text": "30.45",
+   "conf": 0.9709900259971619
+  },
+  {
+   "text": "Discount:",
+   "conf": 0.989896641837226
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9985292255878448
+  },
+  {
+   "text": "Total SalesInclusive GST @0.00%:",
+   "conf": 0.9070472829043865
+  },
+  {
+   "text": "30.45",
+   "conf": 0.9953202843666077
+  },
+  {
+   "text": "Cash Received:",
+   "conf": 0.9646846609456199
+  },
+  {
+   "text": "30.50",
+   "conf": 0.9911186695098877
+  },
+  {
+   "text": "Change:",
+   "conf": 0.9863001789365496
+  },
+  {
+   "text": "005",
+   "conf": 0.9988130529721578
+  },
+  {
+   "text": "GST Summary",
+   "conf": 0.9123451222072948
+  },
+  {
+   "text": "%",
+   "conf": 0.9966506361961365
+  },
+  {
+   "text": "Amount(RM)",
+   "conf": 0.9092160761356354
+  },
+  {
+   "text": "Tax(RM)",
+   "conf": 0.9318676250321525
+  },
+  {
+   "text": "SRO",
+   "conf": 0.9357280929883321
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9985114932060242
+  },
+  {
+   "text": "30.45",
+   "conf": 0.9966192722320557
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9873636215925217
+  },
+  {
+   "text": "Thank You.Please Coma Again",
+   "conf": 0.9412828529322589
+  },
+  {
+   "text": "Terima Kasih.Sila Datang Layi",
+   "conf": 0.9169491601401362
+  },
+  {
+   "text": "GoodSoldAre NotRefunableAnd Retumable",
+   "conf": 0.9555663015391376
+  }
+ ],
+ "mean_conf": 0.9696,
+ "low_conf_share": 0.0,
+ "latency_ms": 4864,
+ "fields": {
+  "company": "PASAR RAYA MEGA MAJU SDN BHD",
+  "date": "2018-07-03",
+  "total": 30.45
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  30.45
+ ],
+ "key": "X51008164525"
+}

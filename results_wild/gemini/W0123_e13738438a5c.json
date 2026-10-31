@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.6-flash",
+ "provider": "gemini",
+ "raw_text": "{\"vendor\": \"Khansama Tandoori Restaurant\", \"date\": \"2016-05-30\", \"subtotal\": 104.0, \"tax\": 7.28, \"tip\": null, \"discount\": null, \"total\": 111.3, \"currency\": \"SGD\", \"confidence\": 0.95, \"notes\": \"Currency inferred as SGD based on Singapore address and GST.\"}",
+ "data": {
+  "vendor": "Khansama Tandoori Restaurant",
+  "date": "2016-05-30",
+  "subtotal": 104.0,
+  "tax": 7.28,
+  "tip": null,
+  "discount": null,
+  "total": 111.3,
+  "currency": "SGD",
+  "confidence": 0.95,
+  "notes": "Currency inferred as SGD based on Singapore address and GST."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1433,
+  "output_tokens": 98,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.001442,
+ "latency_ms": 1449,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.6-flash",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.6-flash"
+ ],
+ "key": "W0123_e13738438a5c"
+}

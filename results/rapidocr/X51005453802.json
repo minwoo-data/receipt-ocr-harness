@@ -1,0 +1,235 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "3180303 CHECKED",
+  "LANHINGSTATIONERYSDNBHD",
+  "(162761-M)",
+  "NO.32&33.JALANSR1/9.SEKSYEN9.",
+  "TAMANSERDANGRAYA.",
+  "43300SERIKEMBANGAN.SELANGOR",
+  "DARULEHSAN",
+  "GSTID:002139201536",
+  "TaxInvoice",
+  "30/03/2018 No.:CS-20322",
+  "QtyTax RM",
+  "DurafileH399（110×95mm） 200SR 116.60",
+  "NameBadge(H)@0.5500",
+  "809Metal NameBadge Clip 2 SR 42.40",
+  "100's@200000",
+  "TotalAnt Incl.GST6%: 159.00",
+  "RoundingAdjustment:",
+  "Total AmtPayable: 159.00",
+  "PaidAmount: 200.00",
+  "Change: 41.00",
+  "Total QtyTender: 202",
+  "GSTSummary Amount Tax",
+  "(RM) (RM)",
+  "SR.@A 150.00 9.00",
+  "Total 150.00 9.00",
+  "THANKYOU",
+  "Faranvenauirv.oleasecoritactus："
+ ],
+ "tokens": [
+  {
+   "text": "3180303",
+   "conf": 0.9985796553747994
+  },
+  {
+   "text": "CHECKED",
+   "conf": 0.9876964603151593
+  },
+  {
+   "text": "LANHINGSTATIONERYSDNBHD",
+   "conf": 0.9783431343410326
+  },
+  {
+   "text": "(162761-M)",
+   "conf": 0.949536257982254
+  },
+  {
+   "text": "NO.32&33.JALANSR1/9.SEKSYEN9.",
+   "conf": 0.958009031312219
+  },
+  {
+   "text": "TAMANSERDANGRAYA.",
+   "conf": 0.9773980273919947
+  },
+  {
+   "text": "43300SERIKEMBANGAN.SELANGOR",
+   "conf": 0.9728390728985822
+  },
+  {
+   "text": "DARULEHSAN",
+   "conf": 0.9897367298603058
+  },
+  {
+   "text": "GSTID:002139201536",
+   "conf": 0.968515157699585
+  },
+  {
+   "text": "TaxInvoice",
+   "conf": 0.9786131501197814
+  },
+  {
+   "text": "30/03/2018",
+   "conf": 0.9882809281349182
+  },
+  {
+   "text": "No.:CS-20322",
+   "conf": 0.9405459115902582
+  },
+  {
+   "text": "QtyTax",
+   "conf": 0.929627388715744
+  },
+  {
+   "text": "RM",
+   "conf": 0.9889724552631378
+  },
+  {
+   "text": "DurafileH399（110×95mm）",
+   "conf": 0.9338931387121027
+  },
+  {
+   "text": "200SR",
+   "conf": 0.9955034375190734
+  },
+  {
+   "text": "116.60",
+   "conf": 0.9984073539574941
+  },
+  {
+   "text": "NameBadge(H)@0.5500",
+   "conf": 0.9454494965703863
+  },
+  {
+   "text": "809Metal NameBadge Clip",
+   "conf": 0.935763462730076
+  },
+  {
+   "text": "2",
+   "conf": 0.9985861778259277
+  },
+  {
+   "text": "SR",
+   "conf": 0.9929732978343964
+  },
+  {
+   "text": "42.40",
+   "conf": 0.994831895828247
+  },
+  {
+   "text": "100's@200000",
+   "conf": 0.9505373736222585
+  },
+  {
+   "text": "TotalAnt Incl.GST6%:",
+   "conf": 0.9051186591386795
+  },
+  {
+   "text": "159.00",
+   "conf": 0.9981193542480469
+  },
+  {
+   "text": "RoundingAdjustment:",
+   "conf": 0.9617694396721689
+  },
+  {
+   "text": "Total AmtPayable:",
+   "conf": 0.953423443962546
+  },
+  {
+   "text": "159.00",
+   "conf": 0.998834639787674
+  },
+  {
+   "text": "PaidAmount:",
+   "conf": 0.98417513478886
+  },
+  {
+   "text": "200.00",
+   "conf": 0.9989201625188192
+  },
+  {
+   "text": "Change:",
+   "conf": 0.9848564863204956
+  },
+  {
+   "text": "41.00",
+   "conf": 0.9982528448104858
+  },
+  {
+   "text": "Total QtyTender:",
+   "conf": 0.9421110674738884
+  },
+  {
+   "text": "202",
+   "conf": 0.9983470241228739
+  },
+  {
+   "text": "GSTSummary",
+   "conf": 0.991126024723053
+  },
+  {
+   "text": "Amount",
+   "conf": 0.9936251640319824
+  },
+  {
+   "text": "Tax",
+   "conf": 0.9845869541168213
+  },
+  {
+   "text": "(RM)",
+   "conf": 0.9455424100160599
+  },
+  {
+   "text": "(RM)",
+   "conf": 0.9391549229621887
+  },
+  {
+   "text": "SR.@A",
+   "conf": 0.9240416646003723
+  },
+  {
+   "text": "150.00",
+   "conf": 0.9846460918585459
+  },
+  {
+   "text": "9.00",
+   "conf": 0.9982728064060211
+  },
+  {
+   "text": "Total",
+   "conf": 0.9749168395996094
+  },
+  {
+   "text": "150.00",
+   "conf": 0.9965794384479523
+  },
+  {
+   "text": "9.00",
+   "conf": 0.9982902258634567
+  },
+  {
+   "text": "THANKYOU",
+   "conf": 0.9937433823943138
+  },
+  {
+   "text": "Faranvenauirv.oleasecoritactus：",
+   "conf": 0.8777465906835371
+  }
+ ],
+ "mean_conf": 0.9719,
+ "low_conf_share": 0.0,
+ "latency_ms": 3427,
+ "fields": {
+  "company": "LANHINGSTATIONERYSDNBHD",
+  "date": "2018-03-30",
+  "total": 159.0
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  159.0
+ ],
+ "key": "X51005453802"
+}

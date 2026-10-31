@@ -1,0 +1,156 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "99 SPEED MARTS/B(519537-X)",
+  "LOT P.T.2811, JALAN ANGSA",
+  "TAMAN BERKELEY",
+  "41150 KLANG,SELANGOR",
+  "1237-TMN INDAH PERDANA",
+  "GST ID.N0:000181747712",
+  "INV0ICE N0:18418/102/T0262",
+  "05:38PM 568268 04-06-18",
+  "620 CARNATION SUSU KRIMER S RM5.00z",
+  "2XRM2.50",
+  "0715 KNORR CHICKEN STOCK 1K RM15.90Z",
+  "Total Sales RM 20.90",
+  "CASH RM 21.00",
+  "CHANGE RM .10",
+  "GST Summary Amount(RM) Tax(RM)",
+  "Z=0% 20.90 .00",
+  "Thank You. Please come again",
+  "Keep the invoice for applicable returns"
+ ],
+ "tokens": [
+  {
+   "text": "99 SPEED MARTS/B(519537-X)",
+   "conf": 0.9340973427662482
+  },
+  {
+   "text": "LOT P.T.2811, JALAN ANGSA",
+   "conf": 0.9159028196334839
+  },
+  {
+   "text": "TAMAN BERKELEY",
+   "conf": 0.9761083253792354
+  },
+  {
+   "text": "41150 KLANG,SELANGOR",
+   "conf": 0.964878711104393
+  },
+  {
+   "text": "1237-TMN INDAH PERDANA",
+   "conf": 0.9805534969676625
+  },
+  {
+   "text": "GST ID.N0:000181747712",
+   "conf": 0.9572198770262978
+  },
+  {
+   "text": "INV0ICE N0:18418/102/T0262",
+   "conf": 0.9562309453120599
+  },
+  {
+   "text": "05:38PM",
+   "conf": 0.882761150598526
+  },
+  {
+   "text": "568268",
+   "conf": 0.9975934326648712
+  },
+  {
+   "text": "04-06-18",
+   "conf": 0.9966095462441444
+  },
+  {
+   "text": "620 CARNATION SUSU KRIMER S",
+   "conf": 0.9642764263682895
+  },
+  {
+   "text": "RM5.00z",
+   "conf": 0.8945436903408596
+  },
+  {
+   "text": "2XRM2.50",
+   "conf": 0.9294561073184013
+  },
+  {
+   "text": "0715 KNORR CHICKEN STOCK 1K",
+   "conf": 0.9664798776308695
+  },
+  {
+   "text": "RM15.90Z",
+   "conf": 0.9128252305090427
+  },
+  {
+   "text": "Total Sales RM",
+   "conf": 0.9335331746510097
+  },
+  {
+   "text": "20.90",
+   "conf": 0.9968982934951782
+  },
+  {
+   "text": "CASH RM",
+   "conf": 0.9430879184177944
+  },
+  {
+   "text": "21.00",
+   "conf": 0.9899787068367004
+  },
+  {
+   "text": "CHANGE RM",
+   "conf": 0.9785778058899773
+  },
+  {
+   "text": ".10",
+   "conf": 0.9783204992612203
+  },
+  {
+   "text": "GST Summary",
+   "conf": 0.9549288153648376
+  },
+  {
+   "text": "Amount(RM)",
+   "conf": 0.9185737013816834
+  },
+  {
+   "text": "Tax(RM)",
+   "conf": 0.9328298228127616
+  },
+  {
+   "text": "Z=0%",
+   "conf": 0.7004987448453903
+  },
+  {
+   "text": "20.90",
+   "conf": 0.9938135504722595
+  },
+  {
+   "text": ".00",
+   "conf": 0.9610388875007629
+  },
+  {
+   "text": "Thank You. Please come again",
+   "conf": 0.9586139044591359
+  },
+  {
+   "text": "Keep the invoice for applicable returns",
+   "conf": 0.9894460623080914
+  }
+ ],
+ "mean_conf": 0.9469,
+ "low_conf_share": 0.0,
+ "latency_ms": 4744,
+ "fields": {
+  "company": null,
+  "date": "2018-06-04",
+  "total": 20.9
+ },
+ "rule_reasons": [
+  "company_not_found"
+ ],
+ "total_candidates": [
+  20.9
+ ],
+ "key": "X51008114282"
+}

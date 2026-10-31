@@ -1,0 +1,353 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "Hog Island Oyster Co.",
+  "San Francisco, CA",
+  "www. hogislandoysters. com |",
+  "(415) 391-7117 ,",
+  "Server: Sadie 01/24/2015",
+  "62/1 4:36 PM",
+  "_ Guests: 3 iF",
+  "' #40095 |",
+  "ee Bar Mix 12 36.00",
+  "Hee Sheet 6 18.00 fees",
+  "i Worcestershire (4 @3. 25) 13.00 ee",
+  "Pesto (4 83. 25) 13:00 Je a)",
+  "Spot Prawn Risotto 23.00 [ee ae",
+  "Chowder 14.00 f",
+  "ieee) Sibtotal 117.00 [es",
+  "~ es 10.55 a)",
+  "SF Mandates 353 oe",
+  ": Total ap 131,08 :"
+ ],
+ "tokens": [
+  {
+   "text": "Hog",
+   "conf": 0.96
+  },
+  {
+   "text": "Island",
+   "conf": 0.96
+  },
+  {
+   "text": "Oyster",
+   "conf": 0.91
+  },
+  {
+   "text": "Co.",
+   "conf": 0.94
+  },
+  {
+   "text": "San",
+   "conf": 0.95
+  },
+  {
+   "text": "Francisco,",
+   "conf": 0.95
+  },
+  {
+   "text": "CA",
+   "conf": 0.96
+  },
+  {
+   "text": "www.",
+   "conf": 0.2
+  },
+  {
+   "text": "hogislandoysters.",
+   "conf": 0.83
+  },
+  {
+   "text": "com",
+   "conf": 0.96
+  },
+  {
+   "text": "|",
+   "conf": 0.44
+  },
+  {
+   "text": "(415)",
+   "conf": 0.78
+  },
+  {
+   "text": "391-7117",
+   "conf": 0.78
+  },
+  {
+   "text": ",",
+   "conf": 0.0
+  },
+  {
+   "text": "Server:",
+   "conf": 0.0
+  },
+  {
+   "text": "Sadie",
+   "conf": 0.96
+  },
+  {
+   "text": "01/24/2015",
+   "conf": 0.91
+  },
+  {
+   "text": "62/1",
+   "conf": 0.9
+  },
+  {
+   "text": "4:36",
+   "conf": 0.9
+  },
+  {
+   "text": "PM",
+   "conf": 0.77
+  },
+  {
+   "text": "_",
+   "conf": 0.41
+  },
+  {
+   "text": "Guests:",
+   "conf": 0.9
+  },
+  {
+   "text": "3",
+   "conf": 0.89
+  },
+  {
+   "text": "iF",
+   "conf": 0.1
+  },
+  {
+   "text": "'",
+   "conf": 0.25
+  },
+  {
+   "text": "#40095",
+   "conf": 0.94
+  },
+  {
+   "text": "|",
+   "conf": 0.57
+  },
+  {
+   "text": "ee",
+   "conf": 0.53
+  },
+  {
+   "text": "Bar",
+   "conf": 0.93
+  },
+  {
+   "text": "Mix",
+   "conf": 0.93
+  },
+  {
+   "text": "12",
+   "conf": 0.96
+  },
+  {
+   "text": "36.00",
+   "conf": 0.55
+  },
+  {
+   "text": "Hee",
+   "conf": 0.09
+  },
+  {
+   "text": "Sheet",
+   "conf": 0.0
+  },
+  {
+   "text": "6",
+   "conf": 0.93
+  },
+  {
+   "text": "18.00",
+   "conf": 0.84
+  },
+  {
+   "text": "fees",
+   "conf": 0.0
+  },
+  {
+   "text": "i",
+   "conf": 0.42
+  },
+  {
+   "text": "Worcestershire",
+   "conf": 0.94
+  },
+  {
+   "text": "(4",
+   "conf": 0.84
+  },
+  {
+   "text": "@3.",
+   "conf": 0.7
+  },
+  {
+   "text": "25)",
+   "conf": 0.89
+  },
+  {
+   "text": "13.00",
+   "conf": 0.87
+  },
+  {
+   "text": "ee",
+   "conf": 0.27
+  },
+  {
+   "text": "Pesto",
+   "conf": 0.62
+  },
+  {
+   "text": "(4",
+   "conf": 0.71
+  },
+  {
+   "text": "83.",
+   "conf": 0.53
+  },
+  {
+   "text": "25)",
+   "conf": 0.64
+  },
+  {
+   "text": "13:00",
+   "conf": 0.48
+  },
+  {
+   "text": "Je",
+   "conf": 0.34
+  },
+  {
+   "text": "a)",
+   "conf": 0.22
+  },
+  {
+   "text": "Spot",
+   "conf": 0.11
+  },
+  {
+   "text": "Prawn",
+   "conf": 0.91
+  },
+  {
+   "text": "Risotto",
+   "conf": 0.79
+  },
+  {
+   "text": "23.00",
+   "conf": 0.89
+  },
+  {
+   "text": "[ee",
+   "conf": 0.19
+  },
+  {
+   "text": "ae",
+   "conf": 0.33
+  },
+  {
+   "text": "Chowder",
+   "conf": 0.0
+  },
+  {
+   "text": "14.00",
+   "conf": 0.8
+  },
+  {
+   "text": "f",
+   "conf": 0.67
+  },
+  {
+   "text": "ieee)",
+   "conf": 0.18
+  },
+  {
+   "text": "Sibtotal",
+   "conf": 0.18
+  },
+  {
+   "text": "117.00",
+   "conf": 0.7
+  },
+  {
+   "text": "[es",
+   "conf": 0.42
+  },
+  {
+   "text": "~",
+   "conf": 0.09
+  },
+  {
+   "text": "es",
+   "conf": 0.0
+  },
+  {
+   "text": "10.55",
+   "conf": 0.9
+  },
+  {
+   "text": "a)",
+   "conf": 0.12
+  },
+  {
+   "text": "SF",
+   "conf": 0.43
+  },
+  {
+   "text": "Mandates",
+   "conf": 0.01
+  },
+  {
+   "text": "353",
+   "conf": 0.82
+  },
+  {
+   "text": "oe",
+   "conf": 0.09
+  },
+  {
+   "text": ":",
+   "conf": 0.0
+  },
+  {
+   "text": "Total",
+   "conf": 0.95
+  },
+  {
+   "text": "ap",
+   "conf": 0.34
+  },
+  {
+   "text": "131,08",
+   "conf": 0.91
+  },
+  {
+   "text": ":",
+   "conf": 0.37
+  }
+ ],
+ "mean_conf": 0.5786,
+ "low_conf_share": 0.4026,
+ "latency_ms": 861,
+ "fields": {
+  "company": "HOG ISLAND OYSTER CO",
+  "date": "2015-01-24",
+  "total": 117.0
+ },
+ "rule_reasons": [
+  "total_no_keyword_fallback_max"
+ ],
+ "total_candidates": [
+  18.0,
+  13.0,
+  23.0,
+  14.0,
+  117.0,
+  10.55
+ ],
+ "key": "W0159_af3eb5099f48"
+}

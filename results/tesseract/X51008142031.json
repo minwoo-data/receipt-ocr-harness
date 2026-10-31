@@ -1,0 +1,550 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "|",
+  "ONE ONE [kit SEAFOOD RESTAURANT SDN BHD",
+  ", 1120908-M)",
+  "NO.1, TAMAN SRI UENGKIL, JALAN AIR HITAM",
+  "43800 DENGKIL, SELANGOR.",
+  "(GST Reg. No : 000670224384)",
+  "Tax Invoice",
+  "Table 38",
+  "8111#:VO01-538701 Order#: 138803",
+  "fate +; 22-05-2018 19:54:52",
+  "Cashier: 113 CASHIER Pax(s): 0",
+  "Qty Description Total TAX",
+  "1 D 32.00 SR",
+  "Chicken Item",
+  "] D 4,00 SR",
+  "White Rice",
+  "] D 18,00 SR",
+  "Vege Item (M) :",
+  "] D 8.00 SR",
+  "Rice w Seafood /Meat Item Single",
+  "] D 5,00 SR",
+  "Beverage",
+  "Total (Excluding GST): 67.00",
+  "GST Payable: 4.02",
+  "Total (Inclusive of GST): 71.02",
+  "Rounding Adj: -0.02",
+  "TOTAL: 71.00",
+  "Closed: 1 22-05-2018 21:16:12",
+  "Server: 113 CASHIER",
+  "CASH : 71.00",
+  "GST Summary Amount(RM) — Tax(RM)",
+  "SR (@ ih) 67.00 4.02",
+  "*#k* Thank You **#*",
+  "Please Come Again"
+ ],
+ "tokens": [
+  {
+   "text": "|",
+   "conf": 0.54
+  },
+  {
+   "text": "ONE",
+   "conf": 0.87
+  },
+  {
+   "text": "ONE",
+   "conf": 0.92
+  },
+  {
+   "text": "[kit",
+   "conf": 0.17
+  },
+  {
+   "text": "SEAFOOD",
+   "conf": 0.96
+  },
+  {
+   "text": "RESTAURANT",
+   "conf": 0.96
+  },
+  {
+   "text": "SDN",
+   "conf": 0.95
+  },
+  {
+   "text": "BHD",
+   "conf": 0.95
+  },
+  {
+   "text": ",",
+   "conf": 0.02
+  },
+  {
+   "text": "1120908-M)",
+   "conf": 0.55
+  },
+  {
+   "text": "NO.1,",
+   "conf": 0.9
+  },
+  {
+   "text": "TAMAN",
+   "conf": 0.22
+  },
+  {
+   "text": "SRI",
+   "conf": 0.89
+  },
+  {
+   "text": "UENGKIL,",
+   "conf": 0.0
+  },
+  {
+   "text": "JALAN",
+   "conf": 0.95
+  },
+  {
+   "text": "AIR",
+   "conf": 0.92
+  },
+  {
+   "text": "HITAM",
+   "conf": 0.91
+  },
+  {
+   "text": "43800",
+   "conf": 0.83
+  },
+  {
+   "text": "DENGKIL,",
+   "conf": 0.91
+  },
+  {
+   "text": "SELANGOR.",
+   "conf": 0.83
+  },
+  {
+   "text": "(GST",
+   "conf": 0.95
+  },
+  {
+   "text": "Reg.",
+   "conf": 0.94
+  },
+  {
+   "text": "No",
+   "conf": 0.91
+  },
+  {
+   "text": ":",
+   "conf": 0.82
+  },
+  {
+   "text": "000670224384)",
+   "conf": 0.96
+  },
+  {
+   "text": "Tax",
+   "conf": 0.94
+  },
+  {
+   "text": "Invoice",
+   "conf": 0.94
+  },
+  {
+   "text": "Table",
+   "conf": 0.94
+  },
+  {
+   "text": "38",
+   "conf": 0.96
+  },
+  {
+   "text": "8111#:VO01-538701",
+   "conf": 0.44
+  },
+  {
+   "text": "Order#:",
+   "conf": 0.89
+  },
+  {
+   "text": "138803",
+   "conf": 0.96
+  },
+  {
+   "text": "fate",
+   "conf": 0.75
+  },
+  {
+   "text": "+;",
+   "conf": 0.44
+  },
+  {
+   "text": "22-05-2018",
+   "conf": 0.76
+  },
+  {
+   "text": "19:54:52",
+   "conf": 0.96
+  },
+  {
+   "text": "Cashier:",
+   "conf": 0.94
+  },
+  {
+   "text": "113",
+   "conf": 0.96
+  },
+  {
+   "text": "CASHIER",
+   "conf": 0.96
+  },
+  {
+   "text": "Pax(s):",
+   "conf": 0.8
+  },
+  {
+   "text": "0",
+   "conf": 0.92
+  },
+  {
+   "text": "Qty",
+   "conf": 0.75
+  },
+  {
+   "text": "Description",
+   "conf": 0.75
+  },
+  {
+   "text": "Total",
+   "conf": 0.83
+  },
+  {
+   "text": "TAX",
+   "conf": 0.95
+  },
+  {
+   "text": "1",
+   "conf": 0.86
+  },
+  {
+   "text": "D",
+   "conf": 0.92
+  },
+  {
+   "text": "32.00",
+   "conf": 0.82
+  },
+  {
+   "text": "SR",
+   "conf": 0.96
+  },
+  {
+   "text": "Chicken",
+   "conf": 0.95
+  },
+  {
+   "text": "Item",
+   "conf": 0.93
+  },
+  {
+   "text": "]",
+   "conf": 0.78
+  },
+  {
+   "text": "D",
+   "conf": 0.91
+  },
+  {
+   "text": "4,00",
+   "conf": 0.8
+  },
+  {
+   "text": "SR",
+   "conf": 0.96
+  },
+  {
+   "text": "White",
+   "conf": 0.9
+  },
+  {
+   "text": "Rice",
+   "conf": 0.96
+  },
+  {
+   "text": "]",
+   "conf": 0.82
+  },
+  {
+   "text": "D",
+   "conf": 0.89
+  },
+  {
+   "text": "18,00",
+   "conf": 0.81
+  },
+  {
+   "text": "SR",
+   "conf": 0.96
+  },
+  {
+   "text": "Vege",
+   "conf": 0.92
+  },
+  {
+   "text": "Item",
+   "conf": 0.89
+  },
+  {
+   "text": "(M)",
+   "conf": 0.89
+  },
+  {
+   "text": ":",
+   "conf": 0.04
+  },
+  {
+   "text": "]",
+   "conf": 0.74
+  },
+  {
+   "text": "D",
+   "conf": 0.75
+  },
+  {
+   "text": "8.00",
+   "conf": 0.94
+  },
+  {
+   "text": "SR",
+   "conf": 0.96
+  },
+  {
+   "text": "Rice",
+   "conf": 0.93
+  },
+  {
+   "text": "w",
+   "conf": 0.92
+  },
+  {
+   "text": "Seafood",
+   "conf": 0.92
+  },
+  {
+   "text": "/Meat",
+   "conf": 0.92
+  },
+  {
+   "text": "Item",
+   "conf": 0.94
+  },
+  {
+   "text": "Single",
+   "conf": 0.96
+  },
+  {
+   "text": "]",
+   "conf": 0.69
+  },
+  {
+   "text": "D",
+   "conf": 0.91
+  },
+  {
+   "text": "5,00",
+   "conf": 0.75
+  },
+  {
+   "text": "SR",
+   "conf": 0.95
+  },
+  {
+   "text": "Beverage",
+   "conf": 0.95
+  },
+  {
+   "text": "Total",
+   "conf": 0.96
+  },
+  {
+   "text": "(Excluding",
+   "conf": 0.94
+  },
+  {
+   "text": "GST):",
+   "conf": 0.96
+  },
+  {
+   "text": "67.00",
+   "conf": 0.94
+  },
+  {
+   "text": "GST",
+   "conf": 0.95
+  },
+  {
+   "text": "Payable:",
+   "conf": 0.95
+  },
+  {
+   "text": "4.02",
+   "conf": 0.86
+  },
+  {
+   "text": "Total",
+   "conf": 0.95
+  },
+  {
+   "text": "(Inclusive",
+   "conf": 0.89
+  },
+  {
+   "text": "of",
+   "conf": 0.96
+  },
+  {
+   "text": "GST):",
+   "conf": 0.93
+  },
+  {
+   "text": "71.02",
+   "conf": 0.9
+  },
+  {
+   "text": "Rounding",
+   "conf": 0.96
+  },
+  {
+   "text": "Adj:",
+   "conf": 0.95
+  },
+  {
+   "text": "-0.02",
+   "conf": 0.9
+  },
+  {
+   "text": "TOTAL:",
+   "conf": 0.95
+  },
+  {
+   "text": "71.00",
+   "conf": 0.95
+  },
+  {
+   "text": "Closed:",
+   "conf": 0.96
+  },
+  {
+   "text": "1",
+   "conf": 0.72
+  },
+  {
+   "text": "22-05-2018",
+   "conf": 0.77
+  },
+  {
+   "text": "21:16:12",
+   "conf": 0.73
+  },
+  {
+   "text": "Server:",
+   "conf": 0.95
+  },
+  {
+   "text": "113",
+   "conf": 0.94
+  },
+  {
+   "text": "CASHIER",
+   "conf": 0.96
+  },
+  {
+   "text": "CASH",
+   "conf": 0.88
+  },
+  {
+   "text": ":",
+   "conf": 0.8
+  },
+  {
+   "text": "71.00",
+   "conf": 0.89
+  },
+  {
+   "text": "GST",
+   "conf": 0.92
+  },
+  {
+   "text": "Summary",
+   "conf": 0.95
+  },
+  {
+   "text": "Amount(RM)",
+   "conf": 0.89
+  },
+  {
+   "text": "—",
+   "conf": 0.0
+  },
+  {
+   "text": "Tax(RM)",
+   "conf": 0.56
+  },
+  {
+   "text": "SR",
+   "conf": 0.95
+  },
+  {
+   "text": "(@",
+   "conf": 0.93
+  },
+  {
+   "text": "ih)",
+   "conf": 0.13
+  },
+  {
+   "text": "67.00",
+   "conf": 0.88
+  },
+  {
+   "text": "4.02",
+   "conf": 0.81
+  },
+  {
+   "text": "*#k*",
+   "conf": 0.05
+  },
+  {
+   "text": "Thank",
+   "conf": 0.95
+  },
+  {
+   "text": "You",
+   "conf": 0.92
+  },
+  {
+   "text": "**#*",
+   "conf": 0.25
+  },
+  {
+   "text": "Please",
+   "conf": 0.96
+  },
+  {
+   "text": "Come",
+   "conf": 0.96
+  },
+  {
+   "text": "Again",
+   "conf": 0.95
+  }
+ ],
+ "mean_conf": 0.826,
+ "low_conf_share": 0.0887,
+ "latency_ms": 1113,
+ "fields": {
+  "company": "ONE ONE KIT SEAFOOD RESTAURANT SDN BHD",
+  "date": "2018-05-22",
+  "total": 71.02
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  71.02
+ ],
+ "key": "X51008142031"
+}

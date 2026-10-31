@@ -1,0 +1,16 @@
+[
+ {
+  "engine": "rapidocr",
+  "n": 200,
+  "acc": {
+   "company": 0.45,
+   "date": 0.695,
+   "total": 0.755
+  },
+  "all_three": 0.275,
+  "parsed_share": 1.0,
+  "latency_ms_median": 3306,
+  "latency_ms_p90": 4701,
+  "cost_usd_per_1k": 0.0
+ }
+]

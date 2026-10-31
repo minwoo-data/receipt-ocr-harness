@@ -1,0 +1,371 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "Ampang 210",
+  "First City Parking Sdn Bhd",
+  "(961394-x)\" ~~”",
+  "4-08-10 Prima Avenue",
+  "The Tube, 1/39, Dataran Prima",
+  "47301 Petaling Jaya",
+  "Selangor DE",
+  "(GST ID No : 001656262656 )",
+  "Tel : 08-7887 2622",
+  "Tax Imvoice",
+  "YS #03 A INV-No. 2003160418000001",
+  "(7D #22 Ticket No.071811",
+  "intry Time 16/04/2018 (Mon) 8:21",
+  "2aid Time 16/04/2018 (Mon) 9:49",
+  "-arking Time 1:28",
+  "-arking Fee Rate A RM7..00",
+  "Amount RMG. 60",
+  "3TCIncluded) 6.00 % Ro. 40",
+  "Tota i RM7.00",
+  "Paid RM7.00",
+  "Change RMO.00",
+  "Inclusive 64 GST",
+  "Tnark You"
+ ],
+ "tokens": [
+  {
+   "text": "Ampang",
+   "conf": 0.96
+  },
+  {
+   "text": "210",
+   "conf": 0.96
+  },
+  {
+   "text": "First",
+   "conf": 0.96
+  },
+  {
+   "text": "City",
+   "conf": 0.75
+  },
+  {
+   "text": "Parking",
+   "conf": 0.94
+  },
+  {
+   "text": "Sdn",
+   "conf": 0.95
+  },
+  {
+   "text": "Bhd",
+   "conf": 0.95
+  },
+  {
+   "text": "(961394-x)\"",
+   "conf": 0.0
+  },
+  {
+   "text": "~~”",
+   "conf": 0.11
+  },
+  {
+   "text": "4-08-10",
+   "conf": 0.27
+  },
+  {
+   "text": "Prima",
+   "conf": 0.96
+  },
+  {
+   "text": "Avenue",
+   "conf": 0.96
+  },
+  {
+   "text": "The",
+   "conf": 0.92
+  },
+  {
+   "text": "Tube,",
+   "conf": 0.94
+  },
+  {
+   "text": "1/39,",
+   "conf": 0.92
+  },
+  {
+   "text": "Dataran",
+   "conf": 0.89
+  },
+  {
+   "text": "Prima",
+   "conf": 0.96
+  },
+  {
+   "text": "47301",
+   "conf": 0.95
+  },
+  {
+   "text": "Petaling",
+   "conf": 0.96
+  },
+  {
+   "text": "Jaya",
+   "conf": 0.95
+  },
+  {
+   "text": "Selangor",
+   "conf": 0.94
+  },
+  {
+   "text": "DE",
+   "conf": 0.95
+  },
+  {
+   "text": "(GST",
+   "conf": 0.96
+  },
+  {
+   "text": "ID",
+   "conf": 0.96
+  },
+  {
+   "text": "No",
+   "conf": 0.89
+  },
+  {
+   "text": ":",
+   "conf": 0.89
+  },
+  {
+   "text": "001656262656",
+   "conf": 0.89
+  },
+  {
+   "text": ")",
+   "conf": 0.89
+  },
+  {
+   "text": "Tel",
+   "conf": 0.91
+  },
+  {
+   "text": ":",
+   "conf": 0.91
+  },
+  {
+   "text": "08-7887",
+   "conf": 0.95
+  },
+  {
+   "text": "2622",
+   "conf": 0.96
+  },
+  {
+   "text": "Tax",
+   "conf": 0.9
+  },
+  {
+   "text": "Imvoice",
+   "conf": 0.78
+  },
+  {
+   "text": "YS",
+   "conf": 0.26
+  },
+  {
+   "text": "#03",
+   "conf": 0.65
+  },
+  {
+   "text": "A",
+   "conf": 0.65
+  },
+  {
+   "text": "INV-No.",
+   "conf": 0.7
+  },
+  {
+   "text": "2003160418000001",
+   "conf": 0.68
+  },
+  {
+   "text": "(7D",
+   "conf": 0.0
+  },
+  {
+   "text": "#22",
+   "conf": 0.92
+  },
+  {
+   "text": "Ticket",
+   "conf": 0.92
+  },
+  {
+   "text": "No.071811",
+   "conf": 0.84
+  },
+  {
+   "text": "intry",
+   "conf": 0.06
+  },
+  {
+   "text": "Time",
+   "conf": 0.87
+  },
+  {
+   "text": "16/04/2018",
+   "conf": 0.87
+  },
+  {
+   "text": "(Mon)",
+   "conf": 0.96
+  },
+  {
+   "text": "8:21",
+   "conf": 0.96
+  },
+  {
+   "text": "2aid",
+   "conf": 0.52
+  },
+  {
+   "text": "Time",
+   "conf": 0.77
+  },
+  {
+   "text": "16/04/2018",
+   "conf": 0.73
+  },
+  {
+   "text": "(Mon)",
+   "conf": 0.94
+  },
+  {
+   "text": "9:49",
+   "conf": 0.93
+  },
+  {
+   "text": "-arking",
+   "conf": 0.46
+  },
+  {
+   "text": "Time",
+   "conf": 0.95
+  },
+  {
+   "text": "1:28",
+   "conf": 0.68
+  },
+  {
+   "text": "-arking",
+   "conf": 0.16
+  },
+  {
+   "text": "Fee",
+   "conf": 0.96
+  },
+  {
+   "text": "Rate",
+   "conf": 0.96
+  },
+  {
+   "text": "A",
+   "conf": 0.95
+  },
+  {
+   "text": "RM7..00",
+   "conf": 0.59
+  },
+  {
+   "text": "Amount",
+   "conf": 0.93
+  },
+  {
+   "text": "RMG.",
+   "conf": 0.31
+  },
+  {
+   "text": "60",
+   "conf": 0.93
+  },
+  {
+   "text": "3TCIncluded)",
+   "conf": 0.39
+  },
+  {
+   "text": "6.00",
+   "conf": 0.9
+  },
+  {
+   "text": "%",
+   "conf": 0.9
+  },
+  {
+   "text": "Ro.",
+   "conf": 0.11
+  },
+  {
+   "text": "40",
+   "conf": 0.96
+  },
+  {
+   "text": "Tota",
+   "conf": 0.67
+  },
+  {
+   "text": "i",
+   "conf": 0.67
+  },
+  {
+   "text": "RM7.00",
+   "conf": 0.29
+  },
+  {
+   "text": "Paid",
+   "conf": 0.96
+  },
+  {
+   "text": "RM7.00",
+   "conf": 0.85
+  },
+  {
+   "text": "Change",
+   "conf": 0.48
+  },
+  {
+   "text": "RMO.00",
+   "conf": 0.81
+  },
+  {
+   "text": "Inclusive",
+   "conf": 0.94
+  },
+  {
+   "text": "64",
+   "conf": 0.82
+  },
+  {
+   "text": "GST",
+   "conf": 0.94
+  },
+  {
+   "text": "Tnark",
+   "conf": 0.79
+  },
+  {
+   "text": "You",
+   "conf": 0.96
+  }
+ ],
+ "mean_conf": 0.7727,
+ "low_conf_share": 0.1605,
+ "latency_ms": 1063,
+ "fields": {
+  "company": "FIRST CITY PARKING SDN BHD",
+  "date": "2010-08-04",
+  "total": 7.0
+ },
+ "rule_reasons": [
+  "total_no_keyword_fallback_max"
+ ],
+ "total_candidates": [
+  6.0,
+  7.0,
+  7.0
+ ],
+ "key": "X51006349086"
+}

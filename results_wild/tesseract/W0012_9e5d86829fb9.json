@@ -1,0 +1,318 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "7",
+  "Vasanta Bhavan",
+  "Since 1978",
+  "‘Vegetarian Family Restaurant",
+  "No. 19/1, WrtnPace, Csombo.07-$ Lanka",
+  "Hot ine 12665598 766300387",
+  "Invoice No; Hooodo2as",
+  "| Bate : 25/02/2017 Time: 19:45:42",
+  "Table: TAXE AWA /shash",
+  "Customer Name",
+  "iter ety Amount",
+  "son 15600",
+  "Jor 4136500",
+  "EericeGhorge 000",
+  "TOL 809",
+  "7 Belount mount coy",
+  "Net Tot! 338800,",
+  "BS Amount 2350.00",
+  "Balance 283500",
+  "Net Amount 7,345.00",
+  "ThankYou Come Aa",
+  "saware by swe nk",
+  ", Tel: 0115757072"
+ ],
+ "tokens": [
+  {
+   "text": "7",
+   "conf": 0.46
+  },
+  {
+   "text": "Vasanta",
+   "conf": 0.92
+  },
+  {
+   "text": "Bhavan",
+   "conf": 0.96
+  },
+  {
+   "text": "Since",
+   "conf": 0.66
+  },
+  {
+   "text": "1978",
+   "conf": 0.72
+  },
+  {
+   "text": "‘Vegetarian",
+   "conf": 0.83
+  },
+  {
+   "text": "Family",
+   "conf": 0.95
+  },
+  {
+   "text": "Restaurant",
+   "conf": 0.68
+  },
+  {
+   "text": "No.",
+   "conf": 0.5
+  },
+  {
+   "text": "19/1,",
+   "conf": 0.5
+  },
+  {
+   "text": "WrtnPace,",
+   "conf": 0.12
+  },
+  {
+   "text": "Csombo.07-$",
+   "conf": 0.19
+  },
+  {
+   "text": "Lanka",
+   "conf": 0.44
+  },
+  {
+   "text": "Hot",
+   "conf": 0.57
+  },
+  {
+   "text": "ine",
+   "conf": 0.71
+  },
+  {
+   "text": "12665598",
+   "conf": 0.0
+  },
+  {
+   "text": "766300387",
+   "conf": 0.66
+  },
+  {
+   "text": "Invoice",
+   "conf": 0.77
+  },
+  {
+   "text": "No;",
+   "conf": 0.71
+  },
+  {
+   "text": "Hooodo2as",
+   "conf": 0.0
+  },
+  {
+   "text": "|",
+   "conf": 0.26
+  },
+  {
+   "text": "Bate",
+   "conf": 0.55
+  },
+  {
+   "text": ":",
+   "conf": 0.66
+  },
+  {
+   "text": "25/02/2017",
+   "conf": 0.58
+  },
+  {
+   "text": "Time:",
+   "conf": 0.54
+  },
+  {
+   "text": "19:45:42",
+   "conf": 0.03
+  },
+  {
+   "text": "Table:",
+   "conf": 0.48
+  },
+  {
+   "text": "TAXE",
+   "conf": 0.51
+  },
+  {
+   "text": "AWA",
+   "conf": 0.51
+  },
+  {
+   "text": "/shash",
+   "conf": 0.49
+  },
+  {
+   "text": "Customer",
+   "conf": 0.84
+  },
+  {
+   "text": "Name",
+   "conf": 0.94
+  },
+  {
+   "text": "iter",
+   "conf": 0.73
+  },
+  {
+   "text": "ety",
+   "conf": 0.32
+  },
+  {
+   "text": "Amount",
+   "conf": 0.59
+  },
+  {
+   "text": "son",
+   "conf": 0.25
+  },
+  {
+   "text": "15600",
+   "conf": 0.69
+  },
+  {
+   "text": "Jor",
+   "conf": 0.46
+  },
+  {
+   "text": "4136500",
+   "conf": 0.59
+  },
+  {
+   "text": "EericeGhorge",
+   "conf": 0.0
+  },
+  {
+   "text": "000",
+   "conf": 0.35
+  },
+  {
+   "text": "TOL",
+   "conf": 0.16
+  },
+  {
+   "text": "809",
+   "conf": 0.53
+  },
+  {
+   "text": "7",
+   "conf": 0.0
+  },
+  {
+   "text": "Belount",
+   "conf": 0.0
+  },
+  {
+   "text": "mount",
+   "conf": 0.42
+  },
+  {
+   "text": "coy",
+   "conf": 0.28
+  },
+  {
+   "text": "Net",
+   "conf": 0.36
+  },
+  {
+   "text": "Tot!",
+   "conf": 0.32
+  },
+  {
+   "text": "338800,",
+   "conf": 0.66
+  },
+  {
+   "text": "BS",
+   "conf": 0.0
+  },
+  {
+   "text": "Amount",
+   "conf": 0.4
+  },
+  {
+   "text": "2350.00",
+   "conf": 0.5
+  },
+  {
+   "text": "Balance",
+   "conf": 0.72
+  },
+  {
+   "text": "283500",
+   "conf": 0.43
+  },
+  {
+   "text": "Net",
+   "conf": 0.85
+  },
+  {
+   "text": "Amount",
+   "conf": 0.54
+  },
+  {
+   "text": "7,345.00",
+   "conf": 0.17
+  },
+  {
+   "text": "ThankYou",
+   "conf": 0.32
+  },
+  {
+   "text": "Come",
+   "conf": 0.58
+  },
+  {
+   "text": "Aa",
+   "conf": 0.35
+  },
+  {
+   "text": "saware",
+   "conf": 0.25
+  },
+  {
+   "text": "by",
+   "conf": 0.71
+  },
+  {
+   "text": "swe",
+   "conf": 0.57
+  },
+  {
+   "text": "nk",
+   "conf": 0.52
+  },
+  {
+   "text": ",",
+   "conf": 0.0
+  },
+  {
+   "text": "Tel:",
+   "conf": 0.28
+  },
+  {
+   "text": "0115757072",
+   "conf": 0.28
+  }
+ ],
+ "mean_conf": 0.4694,
+ "low_conf_share": 0.4706,
+ "latency_ms": 306,
+ "fields": {
+  "company": "VEGETARIAN FAMILY RESTAURANT",
+  "date": "2017-02-25",
+  "total": 7345.0
+ },
+ "rule_reasons": [
+  "total_multiple_keyword_amounts"
+ ],
+ "total_candidates": [
+  235.0,
+  7345.0
+ ],
+ "key": "W0012_9e5d86829fb9"
+}

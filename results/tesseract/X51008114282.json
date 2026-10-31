@@ -1,0 +1,375 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "f. iS",
+  "99 SPEED MART S/B (519537-X)",
+  "LOT P.T. 2811, JALAN ANGSA,",
+  "TAMAN BERKELEY",
+  "41150 KLANG, SELANGOR",
+  "1237-THN INDAH PERDANA",
+  "GST ID. NO: 000181747712",
+  "INVOICE NO s 18418/102/T0242",
+  "0S: 8PM 568268 04-06-18",
+  "$20 CARNATION SUSU KRIMER S$ RMS.00 z",
+  "@2 X RM 2.50",
+  "C715 KNORR CHICKEN STOCK 1K = RMIS.90 z",
+  "Total Sales RM = 20.90",
+  "CASH RM = 21,00",
+  "CHANGE RM if",
+  "GST Summary Amount (RM) Tax(RM)",
+  "z = 04 20.90 +00",
+  "Thank You. Please come again",
+  "Keep the invoice for applicable returns"
+ ],
+ "tokens": [
+  {
+   "text": "f.",
+   "conf": 0.0
+  },
+  {
+   "text": "iS",
+   "conf": 0.02
+  },
+  {
+   "text": "99",
+   "conf": 0.96
+  },
+  {
+   "text": "SPEED",
+   "conf": 0.96
+  },
+  {
+   "text": "MART",
+   "conf": 0.92
+  },
+  {
+   "text": "S/B",
+   "conf": 0.36
+  },
+  {
+   "text": "(519537-X)",
+   "conf": 0.83
+  },
+  {
+   "text": "LOT",
+   "conf": 0.9
+  },
+  {
+   "text": "P.T.",
+   "conf": 0.63
+  },
+  {
+   "text": "2811,",
+   "conf": 0.45
+  },
+  {
+   "text": "JALAN",
+   "conf": 0.93
+  },
+  {
+   "text": "ANGSA,",
+   "conf": 0.9
+  },
+  {
+   "text": "TAMAN",
+   "conf": 0.92
+  },
+  {
+   "text": "BERKELEY",
+   "conf": 0.96
+  },
+  {
+   "text": "41150",
+   "conf": 0.93
+  },
+  {
+   "text": "KLANG,",
+   "conf": 0.96
+  },
+  {
+   "text": "SELANGOR",
+   "conf": 0.95
+  },
+  {
+   "text": "1237-THN",
+   "conf": 0.85
+  },
+  {
+   "text": "INDAH",
+   "conf": 0.77
+  },
+  {
+   "text": "PERDANA",
+   "conf": 0.96
+  },
+  {
+   "text": "GST",
+   "conf": 0.91
+  },
+  {
+   "text": "ID.",
+   "conf": 0.85
+  },
+  {
+   "text": "NO:",
+   "conf": 0.37
+  },
+  {
+   "text": "000181747712",
+   "conf": 0.94
+  },
+  {
+   "text": "INVOICE",
+   "conf": 0.96
+  },
+  {
+   "text": "NO",
+   "conf": 0.88
+  },
+  {
+   "text": "s",
+   "conf": 0.76
+  },
+  {
+   "text": "18418/102/T0242",
+   "conf": 0.85
+  },
+  {
+   "text": "0S:",
+   "conf": 0.59
+  },
+  {
+   "text": "8PM",
+   "conf": 0.41
+  },
+  {
+   "text": "568268",
+   "conf": 0.96
+  },
+  {
+   "text": "04-06-18",
+   "conf": 0.91
+  },
+  {
+   "text": "$20",
+   "conf": 0.72
+  },
+  {
+   "text": "CARNATION",
+   "conf": 0.95
+  },
+  {
+   "text": "SUSU",
+   "conf": 0.91
+  },
+  {
+   "text": "KRIMER",
+   "conf": 0.91
+  },
+  {
+   "text": "S$",
+   "conf": 0.53
+  },
+  {
+   "text": "RMS.00",
+   "conf": 0.64
+  },
+  {
+   "text": "z",
+   "conf": 0.88
+  },
+  {
+   "text": "@2",
+   "conf": 0.78
+  },
+  {
+   "text": "X",
+   "conf": 0.86
+  },
+  {
+   "text": "RM",
+   "conf": 0.84
+  },
+  {
+   "text": "2.50",
+   "conf": 0.92
+  },
+  {
+   "text": "C715",
+   "conf": 0.27
+  },
+  {
+   "text": "KNORR",
+   "conf": 0.95
+  },
+  {
+   "text": "CHICKEN",
+   "conf": 0.96
+  },
+  {
+   "text": "STOCK",
+   "conf": 0.94
+  },
+  {
+   "text": "1K",
+   "conf": 0.81
+  },
+  {
+   "text": "=",
+   "conf": 0.33
+  },
+  {
+   "text": "RMIS.90",
+   "conf": 0.33
+  },
+  {
+   "text": "z",
+   "conf": 0.77
+  },
+  {
+   "text": "Total",
+   "conf": 0.96
+  },
+  {
+   "text": "Sales",
+   "conf": 0.95
+  },
+  {
+   "text": "RM",
+   "conf": 0.59
+  },
+  {
+   "text": "=",
+   "conf": 0.46
+  },
+  {
+   "text": "20.90",
+   "conf": 0.46
+  },
+  {
+   "text": "CASH",
+   "conf": 0.93
+  },
+  {
+   "text": "RM",
+   "conf": 0.53
+  },
+  {
+   "text": "=",
+   "conf": 0.45
+  },
+  {
+   "text": "21,00",
+   "conf": 0.45
+  },
+  {
+   "text": "CHANGE",
+   "conf": 0.9
+  },
+  {
+   "text": "RM",
+   "conf": 0.86
+  },
+  {
+   "text": "if",
+   "conf": 0.6
+  },
+  {
+   "text": "GST",
+   "conf": 0.42
+  },
+  {
+   "text": "Summary",
+   "conf": 0.95
+  },
+  {
+   "text": "Amount",
+   "conf": 0.84
+  },
+  {
+   "text": "(RM)",
+   "conf": 0.84
+  },
+  {
+   "text": "Tax(RM)",
+   "conf": 0.48
+  },
+  {
+   "text": "z",
+   "conf": 0.92
+  },
+  {
+   "text": "=",
+   "conf": 0.91
+  },
+  {
+   "text": "04",
+   "conf": 0.31
+  },
+  {
+   "text": "20.90",
+   "conf": 0.9
+  },
+  {
+   "text": "+00",
+   "conf": 0.39
+  },
+  {
+   "text": "Thank",
+   "conf": 0.96
+  },
+  {
+   "text": "You.",
+   "conf": 0.82
+  },
+  {
+   "text": "Please",
+   "conf": 0.96
+  },
+  {
+   "text": "come",
+   "conf": 0.95
+  },
+  {
+   "text": "again",
+   "conf": 0.95
+  },
+  {
+   "text": "Keep",
+   "conf": 0.96
+  },
+  {
+   "text": "the",
+   "conf": 0.96
+  },
+  {
+   "text": "invoice",
+   "conf": 0.96
+  },
+  {
+   "text": "for",
+   "conf": 0.96
+  },
+  {
+   "text": "applicable",
+   "conf": 0.96
+  },
+  {
+   "text": "returns",
+   "conf": 0.96
+  }
+ ],
+ "mean_conf": 0.7661,
+ "low_conf_share": 0.2024,
+ "latency_ms": 826,
+ "fields": {
+  "company": "F IS",
+  "date": "2018-06-04",
+  "total": 20.9
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  20.9
+ ],
+ "key": "X51008114282"
+}

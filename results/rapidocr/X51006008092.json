@@ -1,0 +1,269 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "POPULAR BOOK",
+  "CO. (M) SDN BHD",
+  "(Co.No. 113825-W)",
+  "(GST Reg No. 001492992000)",
+  "No 8, Jalan 7/il8B,Desa Tun Razak",
+  "56000 Kuala Lumpur,Malaysia",
+  "AEON SHAH ALAM",
+  "Tel :03-55235214",
+  "06/03/18 18:01 Slip No.:8010180429",
+  "Supervisor Trans: 196796",
+  "Member Card No: 1001016668849",
+  "Card Expiry: 31/05/18",
+  "Description Amount",
+  "No Plastic Bag Campai 0.20T",
+  "70g P.Copy 450'S 13.69 T",
+  "Stat-Great Saving --1.20",
+  "PB 0/TAPE48X40X45BX3",
+  "2pc 0 7.99 15.98 T",
+  "Stat-Buy 2oRM 12 -3.98",
+  "PB S/Tape18x40 4INl 5.99T",
+  "Total RM Incl.of GST 30.88",
+  "Rounding Ad.j 0.02",
+  "Total RM 30.70",
+  "Cash -30.70",
+  "Item Count 5",
+  "GST Summary Amount (RM) Tax (RM)",
+  "T @ 6% 28.94 1.74",
+  "Total Savings -5.18",
+  "BE A POPULAR CARD MEMBER",
+  "AND ENJOY SPECIAL DISCOUNTS",
+  "THANK YOU. PLEASE COME AGAIN.",
+  "www.popular.com.my",
+  "Buy Chinese books online",
+  "www. popularonline. com. my"
+ ],
+ "tokens": [
+  {
+   "text": "POPULAR BOOK",
+   "conf": 0.9953797707955042
+  },
+  {
+   "text": "CO. (M) SDN BHD",
+   "conf": 0.9354328711827596
+  },
+  {
+   "text": "(Co.No. 113825-W)",
+   "conf": 0.9570044805021847
+  },
+  {
+   "text": "(GST Reg No. 001492992000)",
+   "conf": 0.9735715641425207
+  },
+  {
+   "text": "No 8, Jalan 7/il8B,Desa Tun Razak",
+   "conf": 0.9405169414751458
+  },
+  {
+   "text": "56000 Kuala Lumpur,Malaysia",
+   "conf": 0.9443612606437118
+  },
+  {
+   "text": "AEON SHAH ALAM",
+   "conf": 0.9717930087021419
+  },
+  {
+   "text": "Tel :03-55235214",
+   "conf": 0.955210879445076
+  },
+  {
+   "text": "06/03/18 18:01",
+   "conf": 0.9921827358858926
+  },
+  {
+   "text": "Slip No.:8010180429",
+   "conf": 0.9712715682230497
+  },
+  {
+   "text": "Supervisor",
+   "conf": 0.9983438372611999
+  },
+  {
+   "text": "Trans: 196796",
+   "conf": 0.9901390167383047
+  },
+  {
+   "text": "Member Card No: 1001016668849",
+   "conf": 0.943627460249539
+  },
+  {
+   "text": "Card Expiry: 31/05/18",
+   "conf": 0.9724368311109997
+  },
+  {
+   "text": "Description",
+   "conf": 0.997262261130593
+  },
+  {
+   "text": "Amount",
+   "conf": 0.9739678899447123
+  },
+  {
+   "text": "No Plastic Bag Campai",
+   "conf": 0.9621416784468151
+  },
+  {
+   "text": "0.20T",
+   "conf": 0.9980675220489502
+  },
+  {
+   "text": "70g P.Copy 450'S",
+   "conf": 0.9915551021695137
+  },
+  {
+   "text": "13.69 T",
+   "conf": 0.9736062203134809
+  },
+  {
+   "text": "Stat-Great Saving",
+   "conf": 0.9814755986718571
+  },
+  {
+   "text": "--1.20",
+   "conf": 0.9521669546763102
+  },
+  {
+   "text": "PB 0/TAPE48X40X45BX3",
+   "conf": 0.9750892102718354
+  },
+  {
+   "text": "2pc 0 7.99",
+   "conf": 0.9525372743606567
+  },
+  {
+   "text": "15.98 T",
+   "conf": 0.9722999164036342
+  },
+  {
+   "text": "Stat-Buy 2oRM 12",
+   "conf": 0.9696086458861828
+  },
+  {
+   "text": "-3.98",
+   "conf": 0.999277663230896
+  },
+  {
+   "text": "PB S/Tape18x40 4INl",
+   "conf": 0.9092455553381067
+  },
+  {
+   "text": "5.99T",
+   "conf": 0.9967916250228882
+  },
+  {
+   "text": "Total RM Incl.of GST",
+   "conf": 0.965621954202652
+  },
+  {
+   "text": "30.88",
+   "conf": 0.9348511934280396
+  },
+  {
+   "text": "Rounding Ad.j",
+   "conf": 0.9530909382379972
+  },
+  {
+   "text": "0.02",
+   "conf": 0.9994971454143524
+  },
+  {
+   "text": "Total RM",
+   "conf": 0.9856439903378487
+  },
+  {
+   "text": "30.70",
+   "conf": 0.9993625044822693
+  },
+  {
+   "text": "Cash",
+   "conf": 0.9981958568096161
+  },
+  {
+   "text": "-30.70",
+   "conf": 0.9986039598782858
+  },
+  {
+   "text": "Item Count",
+   "conf": 0.9802756249904633
+  },
+  {
+   "text": "5",
+   "conf": 0.9980509281158447
+  },
+  {
+   "text": "GST Summary",
+   "conf": 0.9779768748716875
+  },
+  {
+   "text": "Amount (RM)",
+   "conf": 0.887441716410897
+  },
+  {
+   "text": "Tax (RM)",
+   "conf": 0.9033777490258217
+  },
+  {
+   "text": "T @ 6%",
+   "conf": 0.9203463196754456
+  },
+  {
+   "text": "28.94",
+   "conf": 0.9998794794082642
+  },
+  {
+   "text": "1.74",
+   "conf": 0.9974363595247269
+  },
+  {
+   "text": "Total Savings",
+   "conf": 0.96030114705746
+  },
+  {
+   "text": "-5.18",
+   "conf": 0.9980579257011414
+  },
+  {
+   "text": "BE A POPULAR CARD MEMBER",
+   "conf": 0.9730487391352654
+  },
+  {
+   "text": "AND ENJOY SPECIAL DISCOUNTS",
+   "conf": 0.9646532358946623
+  },
+  {
+   "text": "THANK YOU. PLEASE COME AGAIN.",
+   "conf": 0.9382800685948339
+  },
+  {
+   "text": "www.popular.com.my",
+   "conf": 0.9954700668652853
+  },
+  {
+   "text": "Buy Chinese books online",
+   "conf": 0.9729555944601694
+  },
+  {
+   "text": "www. popularonline. com. my",
+   "conf": 0.9670450334195737
+  }
+ ],
+ "mean_conf": 0.9701,
+ "low_conf_share": 0.0,
+ "latency_ms": 5768,
+ "fields": {
+  "company": "CO SDN BHD",
+  "date": "2018-03-06",
+  "total": 30.7
+ },
+ "rule_reasons": [
+  "total_multiple_keyword_amounts"
+ ],
+ "total_candidates": [
+  30.88,
+  30.7
+ ],
+ "key": "X51006008092"
+}

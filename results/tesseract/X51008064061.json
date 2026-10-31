@@ -1,0 +1,562 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "| =",
+  "MR. D.I.¥. (M) SDN BHD",
+  "(CO REG : 860871-D)",
+  "LOT 1851-A & 1851-B, JALAN KPB 6,",
+  "KAWASAN PERINDUSTRIAN BALAKONG,",
+  "43300 SERI KEMBANGAN, SELANGOR",
+  "(GST ID No : 000306020352)",
+  "(MELAWATI MALL)",
+  "; -TAX INVOICE-",
+  "ARTLINE WHITEBOARD MAKER PEN 500A (R_ ¥*S",
+  "WA25 - 24/288",
+  "4974052854583 LX 810. Sy 10",
+  "ARTLINE WHITEBOARD MAKER PEN 500A (B- +S",
+  "WA2B - 24/288",
+  "4974052854569 1X 3210. 28.40",
+  "MAGNETIC WHITEBOARD LDOO1# 120*90CM ¥*S",
+  "HCO7-08 - 6",
+  "9087397 1 X 63.00 63.00",
+  "Item(s) : 3 Qty(s) : 3",
+  "Total Incl. GST@6% RM 69.20",
+  "CASH RM 69.20",
+  "GST Summary Amt(RM) = Tax(RM)",
+  "GST S@6% 65.28 3.92",
+  "pone da a ienenlll",
+  "03-05-18 14:12 SHO2 ZJ94 11 ROO0090406",
+  "OPERATOR MLWC - SITI AISHAH",
+  "EXCHANGE ARE ALLOWED WITHIN",
+  "7 DAYS WITH RECEIPT.",
+  "STRICTLY NO CASH REFUND.",
+  "ee"
+ ],
+ "tokens": [
+  {
+   "text": "|",
+   "conf": 0.96
+  },
+  {
+   "text": "=",
+   "conf": 0.45
+  },
+  {
+   "text": "MR.",
+   "conf": 0.88
+  },
+  {
+   "text": "D.I.¥.",
+   "conf": 0.33
+  },
+  {
+   "text": "(M)",
+   "conf": 0.87
+  },
+  {
+   "text": "SDN",
+   "conf": 0.96
+  },
+  {
+   "text": "BHD",
+   "conf": 0.96
+  },
+  {
+   "text": "(CO",
+   "conf": 0.94
+  },
+  {
+   "text": "REG",
+   "conf": 0.93
+  },
+  {
+   "text": ":",
+   "conf": 0.79
+  },
+  {
+   "text": "860871-D)",
+   "conf": 0.92
+  },
+  {
+   "text": "LOT",
+   "conf": 0.92
+  },
+  {
+   "text": "1851-A",
+   "conf": 0.91
+  },
+  {
+   "text": "&",
+   "conf": 0.91
+  },
+  {
+   "text": "1851-B,",
+   "conf": 0.89
+  },
+  {
+   "text": "JALAN",
+   "conf": 0.92
+  },
+  {
+   "text": "KPB",
+   "conf": 0.91
+  },
+  {
+   "text": "6,",
+   "conf": 0.96
+  },
+  {
+   "text": "KAWASAN",
+   "conf": 0.91
+  },
+  {
+   "text": "PERINDUSTRIAN",
+   "conf": 0.55
+  },
+  {
+   "text": "BALAKONG,",
+   "conf": 0.92
+  },
+  {
+   "text": "43300",
+   "conf": 0.93
+  },
+  {
+   "text": "SERI",
+   "conf": 0.91
+  },
+  {
+   "text": "KEMBANGAN,",
+   "conf": 0.92
+  },
+  {
+   "text": "SELANGOR",
+   "conf": 0.96
+  },
+  {
+   "text": "(GST",
+   "conf": 0.95
+  },
+  {
+   "text": "ID",
+   "conf": 0.95
+  },
+  {
+   "text": "No",
+   "conf": 0.92
+  },
+  {
+   "text": ":",
+   "conf": 0.56
+  },
+  {
+   "text": "000306020352)",
+   "conf": 0.95
+  },
+  {
+   "text": "(MELAWATI",
+   "conf": 0.91
+  },
+  {
+   "text": "MALL)",
+   "conf": 0.96
+  },
+  {
+   "text": ";",
+   "conf": 0.32
+  },
+  {
+   "text": "-TAX",
+   "conf": 0.51
+  },
+  {
+   "text": "INVOICE-",
+   "conf": 0.84
+  },
+  {
+   "text": "ARTLINE",
+   "conf": 0.96
+  },
+  {
+   "text": "WHITEBOARD",
+   "conf": 0.96
+  },
+  {
+   "text": "MAKER",
+   "conf": 0.96
+  },
+  {
+   "text": "PEN",
+   "conf": 0.95
+  },
+  {
+   "text": "500A",
+   "conf": 0.92
+  },
+  {
+   "text": "(R_",
+   "conf": 0.18
+  },
+  {
+   "text": "¥*S",
+   "conf": 0.2
+  },
+  {
+   "text": "WA25",
+   "conf": 0.9
+  },
+  {
+   "text": "-",
+   "conf": 0.91
+  },
+  {
+   "text": "24/288",
+   "conf": 0.96
+  },
+  {
+   "text": "4974052854583",
+   "conf": 0.96
+  },
+  {
+   "text": "LX",
+   "conf": 0.07
+  },
+  {
+   "text": "810.",
+   "conf": 0.07
+  },
+  {
+   "text": "Sy",
+   "conf": 0.24
+  },
+  {
+   "text": "10",
+   "conf": 0.24
+  },
+  {
+   "text": "ARTLINE",
+   "conf": 0.96
+  },
+  {
+   "text": "WHITEBOARD",
+   "conf": 0.95
+  },
+  {
+   "text": "MAKER",
+   "conf": 0.95
+  },
+  {
+   "text": "PEN",
+   "conf": 0.95
+  },
+  {
+   "text": "500A",
+   "conf": 0.93
+  },
+  {
+   "text": "(B-",
+   "conf": 0.0
+  },
+  {
+   "text": "+S",
+   "conf": 0.0
+  },
+  {
+   "text": "WA2B",
+   "conf": 0.15
+  },
+  {
+   "text": "-",
+   "conf": 0.83
+  },
+  {
+   "text": "24/288",
+   "conf": 0.96
+  },
+  {
+   "text": "4974052854569",
+   "conf": 0.96
+  },
+  {
+   "text": "1X",
+   "conf": 0.32
+  },
+  {
+   "text": "3210.",
+   "conf": 0.47
+  },
+  {
+   "text": "28.40",
+   "conf": 0.57
+  },
+  {
+   "text": "MAGNETIC",
+   "conf": 0.96
+  },
+  {
+   "text": "WHITEBOARD",
+   "conf": 0.93
+  },
+  {
+   "text": "LDOO1#",
+   "conf": 0.82
+  },
+  {
+   "text": "120*90CM",
+   "conf": 0.78
+  },
+  {
+   "text": "¥*S",
+   "conf": 0.74
+  },
+  {
+   "text": "HCO7-08",
+   "conf": 0.77
+  },
+  {
+   "text": "-",
+   "conf": 0.89
+  },
+  {
+   "text": "6",
+   "conf": 0.96
+  },
+  {
+   "text": "9087397",
+   "conf": 0.96
+  },
+  {
+   "text": "1",
+   "conf": 0.73
+  },
+  {
+   "text": "X",
+   "conf": 0.73
+  },
+  {
+   "text": "63.00",
+   "conf": 0.96
+  },
+  {
+   "text": "63.00",
+   "conf": 0.95
+  },
+  {
+   "text": "Item(s)",
+   "conf": 0.91
+  },
+  {
+   "text": ":",
+   "conf": 0.86
+  },
+  {
+   "text": "3",
+   "conf": 0.93
+  },
+  {
+   "text": "Qty(s)",
+   "conf": 0.77
+  },
+  {
+   "text": ":",
+   "conf": 0.8
+  },
+  {
+   "text": "3",
+   "conf": 0.95
+  },
+  {
+   "text": "Total",
+   "conf": 0.96
+  },
+  {
+   "text": "Incl.",
+   "conf": 0.93
+  },
+  {
+   "text": "GST@6%",
+   "conf": 0.89
+  },
+  {
+   "text": "RM",
+   "conf": 0.95
+  },
+  {
+   "text": "69.20",
+   "conf": 0.95
+  },
+  {
+   "text": "CASH",
+   "conf": 0.96
+  },
+  {
+   "text": "RM",
+   "conf": 0.92
+  },
+  {
+   "text": "69.20",
+   "conf": 0.94
+  },
+  {
+   "text": "GST",
+   "conf": 0.95
+  },
+  {
+   "text": "Summary",
+   "conf": 0.96
+  },
+  {
+   "text": "Amt(RM)",
+   "conf": 0.91
+  },
+  {
+   "text": "=",
+   "conf": 0.52
+  },
+  {
+   "text": "Tax(RM)",
+   "conf": 0.69
+  },
+  {
+   "text": "GST",
+   "conf": 0.91
+  },
+  {
+   "text": "S@6%",
+   "conf": 0.89
+  },
+  {
+   "text": "65.28",
+   "conf": 0.9
+  },
+  {
+   "text": "3.92",
+   "conf": 0.77
+  },
+  {
+   "text": "pone",
+   "conf": 0.13
+  },
+  {
+   "text": "da",
+   "conf": 0.13
+  },
+  {
+   "text": "a",
+   "conf": 0.28
+  },
+  {
+   "text": "ienenlll",
+   "conf": 0.0
+  },
+  {
+   "text": "03-05-18",
+   "conf": 0.96
+  },
+  {
+   "text": "14:12",
+   "conf": 0.93
+  },
+  {
+   "text": "SHO2",
+   "conf": 0.9
+  },
+  {
+   "text": "ZJ94",
+   "conf": 0.8
+  },
+  {
+   "text": "11",
+   "conf": 0.89
+  },
+  {
+   "text": "ROO0090406",
+   "conf": 0.21
+  },
+  {
+   "text": "OPERATOR",
+   "conf": 0.93
+  },
+  {
+   "text": "MLWC",
+   "conf": 0.89
+  },
+  {
+   "text": "-",
+   "conf": 0.91
+  },
+  {
+   "text": "SITI",
+   "conf": 0.92
+  },
+  {
+   "text": "AISHAH",
+   "conf": 0.67
+  },
+  {
+   "text": "EXCHANGE",
+   "conf": 0.96
+  },
+  {
+   "text": "ARE",
+   "conf": 0.96
+  },
+  {
+   "text": "ALLOWED",
+   "conf": 0.96
+  },
+  {
+   "text": "WITHIN",
+   "conf": 0.96
+  },
+  {
+   "text": "7",
+   "conf": 0.95
+  },
+  {
+   "text": "DAYS",
+   "conf": 0.96
+  },
+  {
+   "text": "WITH",
+   "conf": 0.95
+  },
+  {
+   "text": "RECEIPT.",
+   "conf": 0.95
+  },
+  {
+   "text": "STRICTLY",
+   "conf": 0.96
+  },
+  {
+   "text": "NO",
+   "conf": 0.95
+  },
+  {
+   "text": "CASH",
+   "conf": 0.96
+  },
+  {
+   "text": "REFUND.",
+   "conf": 0.94
+  },
+  {
+   "text": "ee",
+   "conf": 0.23
+  }
+ ],
+ "mean_conf": 0.7852,
+ "low_conf_share": 0.1562,
+ "latency_ms": 2701,
+ "fields": {
+  "company": "MR D I SDN BHD",
+  "date": "2018-05-03",
+  "total": 69.2
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  69.2
+ ],
+ "key": "X51008064061"
+}

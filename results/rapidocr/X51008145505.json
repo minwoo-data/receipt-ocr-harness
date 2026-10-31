@@ -1,0 +1,239 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "Cash Sale",
+  "KTWONGTRADING(001904043-H)",
+  "22,Jalan Perindustrian Hijau5,",
+  "Taman Perindustrian Hijau,",
+  "Phone: +603-60939078",
+  "GSTRegistration No.: 000613294080",
+  "Document No.: KTW031475",
+  "Date: 09/06/201812:17:20PM",
+  "DESC PRICE Disc AMOUNT TAX",
+  "QTY CODE",
+  "BERASASAS10KG***",
+  "15*BAG* 24.90X 373.50 SR",
+  "SUNSOSTIRAM6KG",
+  "4BOTOL* 15.95√ 63.80 SR",
+  "COKE24X325ML",
+  "2PETI 26.00X 52.00 SR",
+  "SubTotal InclusiveGST: 489.30",
+  "Rounding Adj.: 0.00",
+  "Rounded Total (RM): 489.30",
+  "GSTSummary Amount Tax",
+  "SR@0% 489.30 0.00",
+  "Payment Detail",
+  "09/06/2018Cash 489.30"
+ ],
+ "tokens": [
+  {
+   "text": "Cash Sale",
+   "conf": 0.987768206331465
+  },
+  {
+   "text": "KTWONGTRADING(001904043-H)",
+   "conf": 0.9588670638891367
+  },
+  {
+   "text": "22,Jalan Perindustrian Hijau5,",
+   "conf": 0.9219941198825836
+  },
+  {
+   "text": "Taman Perindustrian Hijau,",
+   "conf": 0.9274771809577942
+  },
+  {
+   "text": "Phone:",
+   "conf": 0.9735477268695831
+  },
+  {
+   "text": "+603-60939078",
+   "conf": 0.9981480011573205
+  },
+  {
+   "text": "GSTRegistration No.:",
+   "conf": 0.9391081362962723
+  },
+  {
+   "text": "000613294080",
+   "conf": 0.9555782477060953
+  },
+  {
+   "text": "Document No.:",
+   "conf": 0.9361780331684992
+  },
+  {
+   "text": "KTW031475",
+   "conf": 0.9969840314653184
+  },
+  {
+   "text": "Date:",
+   "conf": 0.9855098605155945
+  },
+  {
+   "text": "09/06/201812:17:20PM",
+   "conf": 0.9855914205312729
+  },
+  {
+   "text": "DESC",
+   "conf": 0.9836563318967819
+  },
+  {
+   "text": "PRICE",
+   "conf": 0.9938939332962036
+  },
+  {
+   "text": "Disc",
+   "conf": 0.9772163331508636
+  },
+  {
+   "text": "AMOUNT",
+   "conf": 0.9942688147226969
+  },
+  {
+   "text": "TAX",
+   "conf": 0.9904807011286417
+  },
+  {
+   "text": "QTY",
+   "conf": 0.9860362410545349
+  },
+  {
+   "text": "CODE",
+   "conf": 0.9962558299303055
+  },
+  {
+   "text": "BERASASAS10KG***",
+   "conf": 0.9673341400921345
+  },
+  {
+   "text": "15*BAG*",
+   "conf": 0.9657431585448129
+  },
+  {
+   "text": "24.90X",
+   "conf": 0.9772714078426361
+  },
+  {
+   "text": "373.50",
+   "conf": 0.9979424774646759
+  },
+  {
+   "text": "SR",
+   "conf": 0.9931616187095642
+  },
+  {
+   "text": "SUNSOSTIRAM6KG",
+   "conf": 0.9896860591002873
+  },
+  {
+   "text": "4BOTOL*",
+   "conf": 0.9782521639551435
+  },
+  {
+   "text": "15.95√",
+   "conf": 0.9151484668254852
+  },
+  {
+   "text": "63.80",
+   "conf": 0.9984943866729736
+  },
+  {
+   "text": "SR",
+   "conf": 0.9925839006900787
+  },
+  {
+   "text": "COKE24X325ML",
+   "conf": 0.9782121876875559
+  },
+  {
+   "text": "2PETI",
+   "conf": 0.9778449416160584
+  },
+  {
+   "text": "26.00X",
+   "conf": 0.9072486658891042
+  },
+  {
+   "text": "52.00",
+   "conf": 0.9992490172386169
+  },
+  {
+   "text": "SR",
+   "conf": 0.9914272725582123
+  },
+  {
+   "text": "SubTotal InclusiveGST:",
+   "conf": 0.9647402329878374
+  },
+  {
+   "text": "489.30",
+   "conf": 0.9987050990263621
+  },
+  {
+   "text": "Rounding Adj.:",
+   "conf": 0.9360952547618321
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9973554313182831
+  },
+  {
+   "text": "Rounded Total (RM):",
+   "conf": 0.9349914946054158
+  },
+  {
+   "text": "489.30",
+   "conf": 0.9984890520572662
+  },
+  {
+   "text": "GSTSummary",
+   "conf": 0.985232162475586
+  },
+  {
+   "text": "Amount",
+   "conf": 0.9956492880980173
+  },
+  {
+   "text": "Tax",
+   "conf": 0.985522190729777
+  },
+  {
+   "text": "SR@0%",
+   "conf": 0.9778344511985779
+  },
+  {
+   "text": "489.30",
+   "conf": 0.9973494410514832
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9978587925434113
+  },
+  {
+   "text": "Payment Detail",
+   "conf": 0.9463509576661246
+  },
+  {
+   "text": "09/06/2018Cash",
+   "conf": 0.9840539353234428
+  },
+  {
+   "text": "489.30",
+   "conf": 0.9987233976523081
+  }
+ ],
+ "mean_conf": 0.9759,
+ "low_conf_share": 0.0,
+ "latency_ms": 3746,
+ "fields": {
+  "company": "CASH SALE",
+  "date": "2018-06-09",
+  "total": 489.3
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  489.3
+ ],
+ "key": "X51008145505"
+}

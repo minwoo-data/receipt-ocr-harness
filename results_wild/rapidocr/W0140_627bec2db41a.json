@@ -1,0 +1,151 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "Le Louis Philippe",
+  "66qaidePloteldeVille",
+  "75004Paris",
+  "Th0149799949",
+  "RCS PARIS91B12403",
+  "SIRET:38314600800016",
+  "#0001 Caisse1 19-05-2017",
+  "NOTE",
+  "TABLENo 38",
+  "1PLAT SEUL *12.50",
+  "Soustotal *12.50",
+  "H.T.10.00% *11.36",
+  "TVA10.00% *1.14",
+  "TOTALTTC10.00% *12.50",
+  "TOTALEURO *12.50",
+  "Nousvousremercions de votrevisite",
+  "eivous souhaitons une bonne journee",
+  "BOSS"
+ ],
+ "tokens": [
+  {
+   "text": "Le Louis Philippe",
+   "conf": 0.9361605363733628
+  },
+  {
+   "text": "66qaidePloteldeVille",
+   "conf": 0.8312990084290505
+  },
+  {
+   "text": "75004Paris",
+   "conf": 0.9491366565227508
+  },
+  {
+   "text": "Th0149799949",
+   "conf": 0.9242358108361562
+  },
+  {
+   "text": "RCS PARIS91B12403",
+   "conf": 0.9574661430190591
+  },
+  {
+   "text": "SIRET:38314600800016",
+   "conf": 0.9768250703811645
+  },
+  {
+   "text": "#0001",
+   "conf": 0.959662652015686
+  },
+  {
+   "text": "Caisse1",
+   "conf": 0.9316887429782322
+  },
+  {
+   "text": "19-05-2017",
+   "conf": 0.9942114531993866
+  },
+  {
+   "text": "NOTE",
+   "conf": 0.995823010802269
+  },
+  {
+   "text": "TABLENo 38",
+   "conf": 0.9362589716911316
+  },
+  {
+   "text": "1PLAT SEUL",
+   "conf": 0.898222291469574
+  },
+  {
+   "text": "*12.50",
+   "conf": 0.9929757912953695
+  },
+  {
+   "text": "Soustotal",
+   "conf": 0.9791998002264235
+  },
+  {
+   "text": "*12.50",
+   "conf": 0.9901361167430878
+  },
+  {
+   "text": "H.T.10.00%",
+   "conf": 0.9357373952865601
+  },
+  {
+   "text": "*11.36",
+   "conf": 0.9833376010258993
+  },
+  {
+   "text": "TVA10.00%",
+   "conf": 0.94098785188463
+  },
+  {
+   "text": "*1.14",
+   "conf": 0.9828201651573181
+  },
+  {
+   "text": "TOTALTTC10.00%",
+   "conf": 0.9672572697911944
+  },
+  {
+   "text": "*12.50",
+   "conf": 0.9822674890359243
+  },
+  {
+   "text": "TOTALEURO",
+   "conf": 0.9909970826572843
+  },
+  {
+   "text": "*12.50",
+   "conf": 0.9967915713787079
+  },
+  {
+   "text": "Nousvousremercions de votrevisite",
+   "conf": 0.9362330111590299
+  },
+  {
+   "text": "eivous souhaitons une bonne journee",
+   "conf": 0.9120389546666826
+  },
+  {
+   "text": "BOSS",
+   "conf": 0.9530563801527023
+  }
+ ],
+ "mean_conf": 0.9552,
+ "low_conf_share": 0.0,
+ "latency_ms": 3174,
+ "fields": {
+  "company": "LE LOUIS PHILIPPE",
+  "date": "2017-05-19",
+  "total": 12.5
+ },
+ "rule_reasons": [
+  "total_no_keyword_fallback_max"
+ ],
+ "total_candidates": [
+  12.5,
+  12.5,
+  11.36,
+  10.0,
+  1.14,
+  10.0,
+  12.5,
+  12.5
+ ],
+ "key": "W0140_627bec2db41a"
+}

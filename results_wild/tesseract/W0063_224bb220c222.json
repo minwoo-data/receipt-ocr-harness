@@ -1,0 +1,257 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "12/17/2016 5:09 PM Sales Rocelpt #19204",
+  "Store: CRP Workstation: 1",
+  "ike",
+  "FIREARMS fi] UNKNOWN",
+  "Firearms Unknown",
+  "416 National Cty Blvd. Unit B",
+  "National City, CA 91950",
+  "(619) 507-3174",
+  "Returns Accepted Within 14 Days",
+  "‘Store Credit Only, No Refunds",
+  "Cashier. Grover",
+  "Item Name Q Ext Price",
+  "ACE Skeleton Stock “1 $99.99 $99.99 N",
+  "; “een 28"
+ ],
+ "tokens": [
+  {
+   "text": "12/17/2016",
+   "conf": 0.92
+  },
+  {
+   "text": "5:09",
+   "conf": 0.85
+  },
+  {
+   "text": "PM",
+   "conf": 0.86
+  },
+  {
+   "text": "Sales",
+   "conf": 0.92
+  },
+  {
+   "text": "Rocelpt",
+   "conf": 0.42
+  },
+  {
+   "text": "#19204",
+   "conf": 0.75
+  },
+  {
+   "text": "Store:",
+   "conf": 0.73
+  },
+  {
+   "text": "CRP",
+   "conf": 0.91
+  },
+  {
+   "text": "Workstation:",
+   "conf": 0.44
+  },
+  {
+   "text": "1",
+   "conf": 0.84
+  },
+  {
+   "text": "ike",
+   "conf": 0.26
+  },
+  {
+   "text": "FIREARMS",
+   "conf": 0.95
+  },
+  {
+   "text": "fi]",
+   "conf": 0.53
+  },
+  {
+   "text": "UNKNOWN",
+   "conf": 0.94
+  },
+  {
+   "text": "Firearms",
+   "conf": 0.96
+  },
+  {
+   "text": "Unknown",
+   "conf": 0.96
+  },
+  {
+   "text": "416",
+   "conf": 0.95
+  },
+  {
+   "text": "National",
+   "conf": 0.95
+  },
+  {
+   "text": "Cty",
+   "conf": 0.71
+  },
+  {
+   "text": "Blvd.",
+   "conf": 0.26
+  },
+  {
+   "text": "Unit",
+   "conf": 0.89
+  },
+  {
+   "text": "B",
+   "conf": 0.71
+  },
+  {
+   "text": "National",
+   "conf": 0.48
+  },
+  {
+   "text": "City,",
+   "conf": 0.85
+  },
+  {
+   "text": "CA",
+   "conf": 0.85
+  },
+  {
+   "text": "91950",
+   "conf": 0.85
+  },
+  {
+   "text": "(619)",
+   "conf": 0.92
+  },
+  {
+   "text": "507-3174",
+   "conf": 0.92
+  },
+  {
+   "text": "Returns",
+   "conf": 0.59
+  },
+  {
+   "text": "Accepted",
+   "conf": 0.81
+  },
+  {
+   "text": "Within",
+   "conf": 0.94
+  },
+  {
+   "text": "14",
+   "conf": 0.93
+  },
+  {
+   "text": "Days",
+   "conf": 0.93
+  },
+  {
+   "text": "‘Store",
+   "conf": 0.86
+  },
+  {
+   "text": "Credit",
+   "conf": 0.94
+  },
+  {
+   "text": "Only,",
+   "conf": 0.95
+  },
+  {
+   "text": "No",
+   "conf": 0.96
+  },
+  {
+   "text": "Refunds",
+   "conf": 0.94
+  },
+  {
+   "text": "Cashier.",
+   "conf": 0.57
+  },
+  {
+   "text": "Grover",
+   "conf": 0.89
+  },
+  {
+   "text": "Item",
+   "conf": 0.62
+  },
+  {
+   "text": "Name",
+   "conf": 0.35
+  },
+  {
+   "text": "Q",
+   "conf": 0.89
+  },
+  {
+   "text": "Ext",
+   "conf": 0.8
+  },
+  {
+   "text": "Price",
+   "conf": 0.0
+  },
+  {
+   "text": "ACE",
+   "conf": 0.84
+  },
+  {
+   "text": "Skeleton",
+   "conf": 0.94
+  },
+  {
+   "text": "Stock",
+   "conf": 0.61
+  },
+  {
+   "text": "“1",
+   "conf": 0.38
+  },
+  {
+   "text": "$99.99",
+   "conf": 0.38
+  },
+  {
+   "text": "$99.99",
+   "conf": 0.14
+  },
+  {
+   "text": "N",
+   "conf": 0.72
+  },
+  {
+   "text": ";",
+   "conf": 0.5
+  },
+  {
+   "text": "“een",
+   "conf": 0.28
+  },
+  {
+   "text": "28",
+   "conf": 0.43
+  }
+ ],
+ "mean_conf": 0.7231,
+ "low_conf_share": 0.2182,
+ "latency_ms": 272,
+ "fields": {
+  "company": "STORE CRP WORKSTATION 1",
+  "date": "2016-12-17",
+  "total": 99.99
+ },
+ "rule_reasons": [
+  "total_no_keyword_fallback_max"
+ ],
+ "total_candidates": [
+  99.99,
+  99.99
+ ],
+ "key": "W0063_224bb220c222"
+}

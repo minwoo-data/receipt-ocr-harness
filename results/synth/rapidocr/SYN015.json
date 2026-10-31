@@ -1,0 +1,138 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "SUNRISE PHARMACY SDN BHD",
+  "88JALAN AMPANG,KUALALUMPUR",
+  "TAX INVOICE",
+  "Date:10/04/2024 Time:13:42",
+  "3XPANAD0L10S 20.40",
+  "1XUSBCABLE1M 19.90",
+  "3x INSTANTNOODLES5PK 18.90",
+  "STEAMED FISH 144.00",
+  "SUBTOTAL 203.20",
+  "GST6% 12.19",
+  "TOTAL 215.49",
+  "CASH 220.49",
+  "CHANGE 5.00",
+  "THANK YOU,PLEASE COME AGAIN"
+ ],
+ "tokens": [
+  {
+   "text": "SUNRISE PHARMACY SDN BHD",
+   "conf": 0.9483746786912283
+  },
+  {
+   "text": "88JALAN AMPANG,KUALALUMPUR",
+   "conf": 0.9526171271617596
+  },
+  {
+   "text": "TAX INVOICE",
+   "conf": 0.9599125276912343
+  },
+  {
+   "text": "Date:10/04/2024",
+   "conf": 0.9899068752924601
+  },
+  {
+   "text": "Time:13:42",
+   "conf": 0.9704382121562958
+  },
+  {
+   "text": "3XPANAD0L10S",
+   "conf": 0.9447257419427236
+  },
+  {
+   "text": "20.40",
+   "conf": 0.9997882604598999
+  },
+  {
+   "text": "1XUSBCABLE1M",
+   "conf": 0.9671897242466608
+  },
+  {
+   "text": "19.90",
+   "conf": 0.9995623826980591
+  },
+  {
+   "text": "3x",
+   "conf": 0.7884489595890045
+  },
+  {
+   "text": "INSTANTNOODLES5PK",
+   "conf": 0.9564366586068097
+  },
+  {
+   "text": "18.90",
+   "conf": 0.9995467901229859
+  },
+  {
+   "text": "STEAMED",
+   "conf": 0.990983213697161
+  },
+  {
+   "text": "FISH",
+   "conf": 0.9809694886207581
+  },
+  {
+   "text": "144.00",
+   "conf": 0.9979172945022583
+  },
+  {
+   "text": "SUBTOTAL",
+   "conf": 0.9915513247251511
+  },
+  {
+   "text": "203.20",
+   "conf": 0.9991557598114014
+  },
+  {
+   "text": "GST6%",
+   "conf": 0.9992458820343018
+  },
+  {
+   "text": "12.19",
+   "conf": 0.9989328026771546
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.9954448461532592
+  },
+  {
+   "text": "215.49",
+   "conf": 0.9998345176378886
+  },
+  {
+   "text": "CASH",
+   "conf": 0.9942353218793869
+  },
+  {
+   "text": "220.49",
+   "conf": 0.998758484919866
+  },
+  {
+   "text": "CHANGE",
+   "conf": 0.9946725765864054
+  },
+  {
+   "text": "5.00",
+   "conf": 0.9992162138223648
+  },
+  {
+   "text": "THANK YOU,PLEASE COME AGAIN",
+   "conf": 0.9376698533693949
+  }
+ ],
+ "mean_conf": 0.9752,
+ "low_conf_share": 0.0,
+ "latency_ms": 18568,
+ "fields": {
+  "company": "SUNRISE PHARMACY SDN BHD",
+  "date": "2024-04-10",
+  "total": 215.49
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  215.49
+ ],
+ "key": "SYN015"
+}

@@ -1,0 +1,513 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "a De Jelita Stesen Minyak",
+  "Company No: 228415-U .",
+  "Jin Permas 9/5, Bdr Permas Jaya",
+  "81750, Johor Bahru . |",
+  "Site: 1719",
+  "Telephone: 07-3869102",
+  ". GST No: 000368820224",
+  "zeeee>> Pre-Authorisation <<«<s }",
+  "Pre auth code AU1A1S25222521",
+  "27.27 litre Pump # 07",
+  "3 FuelSave 95 RM 60.00 C",
+  "| 2.200 RM / litre",
+  ", Total RM 60.00",
+  "Cash RM 60.00",
+  "Relief GST C RM 0.00 ;",
+  "Total Gross C RM 60.00",
+  "Cashier: |",
+  "Athi lah . ;",
+  "This is not the final fiscal receipt",
+  "Date Time Num POS CNo Shift",
+  "02/05/18 08:55 47232 01 6410 292",
+  "Diese] & Petrol RONSS given Reliet )",
+  "under Section 56 (3) (b) GST Act 2014",
+  "Thank You and Please Come Again a"
+ ],
+ "tokens": [
+  {
+   "text": "a",
+   "conf": 0.11
+  },
+  {
+   "text": "De",
+   "conf": 0.92
+  },
+  {
+   "text": "Jelita",
+   "conf": 0.91
+  },
+  {
+   "text": "Stesen",
+   "conf": 0.88
+  },
+  {
+   "text": "Minyak",
+   "conf": 0.88
+  },
+  {
+   "text": "Company",
+   "conf": 0.95
+  },
+  {
+   "text": "No:",
+   "conf": 0.17
+  },
+  {
+   "text": "228415-U",
+   "conf": 0.17
+  },
+  {
+   "text": ".",
+   "conf": 0.0
+  },
+  {
+   "text": "Jin",
+   "conf": 0.92
+  },
+  {
+   "text": "Permas",
+   "conf": 0.74
+  },
+  {
+   "text": "9/5,",
+   "conf": 0.81
+  },
+  {
+   "text": "Bdr",
+   "conf": 0.81
+  },
+  {
+   "text": "Permas",
+   "conf": 0.89
+  },
+  {
+   "text": "Jaya",
+   "conf": 0.96
+  },
+  {
+   "text": "81750,",
+   "conf": 0.95
+  },
+  {
+   "text": "Johor",
+   "conf": 0.95
+  },
+  {
+   "text": "Bahru",
+   "conf": 0.93
+  },
+  {
+   "text": ".",
+   "conf": 0.0
+  },
+  {
+   "text": "|",
+   "conf": 0.15
+  },
+  {
+   "text": "Site:",
+   "conf": 0.96
+  },
+  {
+   "text": "1719",
+   "conf": 0.89
+  },
+  {
+   "text": "Telephone:",
+   "conf": 0.92
+  },
+  {
+   "text": "07-3869102",
+   "conf": 0.83
+  },
+  {
+   "text": ".",
+   "conf": 0.67
+  },
+  {
+   "text": "GST",
+   "conf": 0.85
+  },
+  {
+   "text": "No:",
+   "conf": 0.95
+  },
+  {
+   "text": "000368820224",
+   "conf": 0.0
+  },
+  {
+   "text": "zeeee>>",
+   "conf": 0.08
+  },
+  {
+   "text": "Pre-Authorisation",
+   "conf": 0.88
+  },
+  {
+   "text": "<<«<s",
+   "conf": 0.13
+  },
+  {
+   "text": "}",
+   "conf": 0.0
+  },
+  {
+   "text": "Pre",
+   "conf": 0.96
+  },
+  {
+   "text": "auth",
+   "conf": 0.96
+  },
+  {
+   "text": "code",
+   "conf": 0.93
+  },
+  {
+   "text": "AU1A1S25222521",
+   "conf": 0.35
+  },
+  {
+   "text": "27.27",
+   "conf": 0.9
+  },
+  {
+   "text": "litre",
+   "conf": 0.91
+  },
+  {
+   "text": "Pump",
+   "conf": 0.93
+  },
+  {
+   "text": "#",
+   "conf": 0.92
+  },
+  {
+   "text": "07",
+   "conf": 0.7
+  },
+  {
+   "text": "3",
+   "conf": 0.23
+  },
+  {
+   "text": "FuelSave",
+   "conf": 0.9
+  },
+  {
+   "text": "95",
+   "conf": 0.95
+  },
+  {
+   "text": "RM",
+   "conf": 0.95
+  },
+  {
+   "text": "60.00",
+   "conf": 0.93
+  },
+  {
+   "text": "C",
+   "conf": 0.91
+  },
+  {
+   "text": "|",
+   "conf": 0.61
+  },
+  {
+   "text": "2.200",
+   "conf": 0.91
+  },
+  {
+   "text": "RM",
+   "conf": 0.92
+  },
+  {
+   "text": "/",
+   "conf": 0.75
+  },
+  {
+   "text": "litre",
+   "conf": 0.87
+  },
+  {
+   "text": ",",
+   "conf": 0.0
+  },
+  {
+   "text": "Total",
+   "conf": 0.33
+  },
+  {
+   "text": "RM",
+   "conf": 0.95
+  },
+  {
+   "text": "60.00",
+   "conf": 0.77
+  },
+  {
+   "text": "Cash",
+   "conf": 0.96
+  },
+  {
+   "text": "RM",
+   "conf": 0.96
+  },
+  {
+   "text": "60.00",
+   "conf": 0.86
+  },
+  {
+   "text": "Relief",
+   "conf": 0.95
+  },
+  {
+   "text": "GST",
+   "conf": 0.94
+  },
+  {
+   "text": "C",
+   "conf": 0.8
+  },
+  {
+   "text": "RM",
+   "conf": 0.96
+  },
+  {
+   "text": "0.00",
+   "conf": 0.95
+  },
+  {
+   "text": ";",
+   "conf": 0.0
+  },
+  {
+   "text": "Total",
+   "conf": 0.95
+  },
+  {
+   "text": "Gross",
+   "conf": 0.73
+  },
+  {
+   "text": "C",
+   "conf": 0.73
+  },
+  {
+   "text": "RM",
+   "conf": 0.96
+  },
+  {
+   "text": "60.00",
+   "conf": 0.86
+  },
+  {
+   "text": "Cashier:",
+   "conf": 0.94
+  },
+  {
+   "text": "|",
+   "conf": 0.34
+  },
+  {
+   "text": "Athi",
+   "conf": 0.64
+  },
+  {
+   "text": "lah",
+   "conf": 0.64
+  },
+  {
+   "text": ".",
+   "conf": 0.28
+  },
+  {
+   "text": ";",
+   "conf": 0.0
+  },
+  {
+   "text": "This",
+   "conf": 0.78
+  },
+  {
+   "text": "is",
+   "conf": 0.94
+  },
+  {
+   "text": "not",
+   "conf": 0.93
+  },
+  {
+   "text": "the",
+   "conf": 0.95
+  },
+  {
+   "text": "final",
+   "conf": 0.95
+  },
+  {
+   "text": "fiscal",
+   "conf": 0.96
+  },
+  {
+   "text": "receipt",
+   "conf": 0.95
+  },
+  {
+   "text": "Date",
+   "conf": 0.96
+  },
+  {
+   "text": "Time",
+   "conf": 0.95
+  },
+  {
+   "text": "Num",
+   "conf": 0.73
+  },
+  {
+   "text": "POS",
+   "conf": 0.73
+  },
+  {
+   "text": "CNo",
+   "conf": 0.91
+  },
+  {
+   "text": "Shift",
+   "conf": 0.96
+  },
+  {
+   "text": "02/05/18",
+   "conf": 0.94
+  },
+  {
+   "text": "08:55",
+   "conf": 0.96
+  },
+  {
+   "text": "47232",
+   "conf": 0.96
+  },
+  {
+   "text": "01",
+   "conf": 0.88
+  },
+  {
+   "text": "6410",
+   "conf": 0.9
+  },
+  {
+   "text": "292",
+   "conf": 0.94
+  },
+  {
+   "text": "Diese]",
+   "conf": 0.7
+  },
+  {
+   "text": "&",
+   "conf": 0.89
+  },
+  {
+   "text": "Petrol",
+   "conf": 0.92
+  },
+  {
+   "text": "RONSS",
+   "conf": 0.68
+  },
+  {
+   "text": "given",
+   "conf": 0.93
+  },
+  {
+   "text": "Reliet",
+   "conf": 0.84
+  },
+  {
+   "text": ")",
+   "conf": 0.03
+  },
+  {
+   "text": "under",
+   "conf": 0.93
+  },
+  {
+   "text": "Section",
+   "conf": 0.93
+  },
+  {
+   "text": "56",
+   "conf": 0.95
+  },
+  {
+   "text": "(3)",
+   "conf": 0.88
+  },
+  {
+   "text": "(b)",
+   "conf": 0.88
+  },
+  {
+   "text": "GST",
+   "conf": 0.95
+  },
+  {
+   "text": "Act",
+   "conf": 0.95
+  },
+  {
+   "text": "2014",
+   "conf": 0.96
+  },
+  {
+   "text": "Thank",
+   "conf": 0.95
+  },
+  {
+   "text": "You",
+   "conf": 0.95
+  },
+  {
+   "text": "and",
+   "conf": 0.95
+  },
+  {
+   "text": "Please",
+   "conf": 0.95
+  },
+  {
+   "text": "Come",
+   "conf": 0.96
+  },
+  {
+   "text": "Again",
+   "conf": 0.96
+  },
+  {
+   "text": "a",
+   "conf": 0.25
+  }
+ ],
+ "mean_conf": 0.76,
+ "low_conf_share": 0.1709,
+ "latency_ms": 2875,
+ "fields": {
+  "company": "A DE JELITA STESEN MINYAK",
+  "date": "2018-05-02",
+  "total": 60.0
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  60.0,
+  60.0
+ ],
+ "key": "X51007231346"
+}

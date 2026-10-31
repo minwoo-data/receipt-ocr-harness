@@ -1,0 +1,203 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "ayr1/20y8 1:49:55 PM",
+  "SUPREME LA",
+  "RECEIPT TOTAL 229.96",
+  "Creal MASTER",
+  "Aun 0211",
+  "3138",
+  "Store Policy",
+  "No Retunds. Store Credit Only",
+  "Exchanges must be made wiihin 7",
+  "days and accompanied by original",
+  "receipt",
+  "Sale lems are Final Sale",
+  "*You afe being lied to\""
+ ],
+ "tokens": [
+  {
+   "text": "ayr1/20y8",
+   "conf": 0.0
+  },
+  {
+   "text": "1:49:55",
+   "conf": 0.57
+  },
+  {
+   "text": "PM",
+   "conf": 0.82
+  },
+  {
+   "text": "SUPREME",
+   "conf": 0.93
+  },
+  {
+   "text": "LA",
+   "conf": 0.93
+  },
+  {
+   "text": "RECEIPT",
+   "conf": 0.91
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.96
+  },
+  {
+   "text": "229.96",
+   "conf": 0.76
+  },
+  {
+   "text": "Creal",
+   "conf": 0.39
+  },
+  {
+   "text": "MASTER",
+   "conf": 0.93
+  },
+  {
+   "text": "Aun",
+   "conf": 0.0
+  },
+  {
+   "text": "0211",
+   "conf": 0.82
+  },
+  {
+   "text": "3138",
+   "conf": 0.75
+  },
+  {
+   "text": "Store",
+   "conf": 0.94
+  },
+  {
+   "text": "Policy",
+   "conf": 0.85
+  },
+  {
+   "text": "No",
+   "conf": 0.93
+  },
+  {
+   "text": "Retunds.",
+   "conf": 0.37
+  },
+  {
+   "text": "Store",
+   "conf": 0.93
+  },
+  {
+   "text": "Credit",
+   "conf": 0.96
+  },
+  {
+   "text": "Only",
+   "conf": 0.96
+  },
+  {
+   "text": "Exchanges",
+   "conf": 0.96
+  },
+  {
+   "text": "must",
+   "conf": 0.96
+  },
+  {
+   "text": "be",
+   "conf": 0.94
+  },
+  {
+   "text": "made",
+   "conf": 0.93
+  },
+  {
+   "text": "wiihin",
+   "conf": 0.45
+  },
+  {
+   "text": "7",
+   "conf": 0.96
+  },
+  {
+   "text": "days",
+   "conf": 0.58
+  },
+  {
+   "text": "and",
+   "conf": 0.92
+  },
+  {
+   "text": "accompanied",
+   "conf": 0.91
+  },
+  {
+   "text": "by",
+   "conf": 0.96
+  },
+  {
+   "text": "original",
+   "conf": 0.91
+  },
+  {
+   "text": "receipt",
+   "conf": 0.55
+  },
+  {
+   "text": "Sale",
+   "conf": 0.94
+  },
+  {
+   "text": "lems",
+   "conf": 0.0
+  },
+  {
+   "text": "are",
+   "conf": 0.9
+  },
+  {
+   "text": "Final",
+   "conf": 0.94
+  },
+  {
+   "text": "Sale",
+   "conf": 0.96
+  },
+  {
+   "text": "*You",
+   "conf": 0.87
+  },
+  {
+   "text": "afe",
+   "conf": 0.47
+  },
+  {
+   "text": "being",
+   "conf": 0.95
+  },
+  {
+   "text": "lied",
+   "conf": 0.96
+  },
+  {
+   "text": "to\"",
+   "conf": 0.76
+  }
+ ],
+ "mean_conf": 0.7736,
+ "low_conf_share": 0.1667,
+ "latency_ms": 398,
+ "fields": {
+  "company": "STORE POLICY",
+  "date": null,
+  "total": 229.96
+ },
+ "rule_reasons": [
+  "date_not_found"
+ ],
+ "total_candidates": [
+  229.96
+ ],
+ "key": "W0092_9823b1a6297f"
+}

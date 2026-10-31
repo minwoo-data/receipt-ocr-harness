@@ -1,0 +1,210 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "Bachmann Japanese Restaurant ION Orchard",
+  "GST Reg No: 1997072516",
+  "POS Title:P0S001 Pax:3 TABLE:14 OP:Sherwin",
+  "Rcpt#:A11000028385 1 Crispy Gyoza # 26/09/2011 13:38 POS:P0S001 Sherwin",
+  "1Yuzu (Hot) 1 Soda Strawberry Seafood Kimuchi Rice Houji-cha (Hot) Gyokai Ramen $10.90 Gong Bao Rice $11.90 $0.00 $7.90 $1.00 $7.90 $3.90",
+  "SUBTOTAL $3.90",
+  "SUC CHG GST $36.50 $3.65",
+  "TOTAL $2.81",
+  "Total item :7 $42.95",
+  "CASH Total Qty :7",
+  "Change $44.00",
+  "Signature:",
+  "26/09/2011 13:40- Closed Bill",
+  "***水**************"
+ ],
+ "tokens": [
+  {
+   "text": "Bachmann Japanese Restaurant",
+   "conf": 0.9796401602881295
+  },
+  {
+   "text": "ION Orchard",
+   "conf": 0.8921155387705023
+  },
+  {
+   "text": "GST Reg No: 1997072516",
+   "conf": 0.9401985840363936
+  },
+  {
+   "text": "Pax:3",
+   "conf": 0.9098089575767517
+  },
+  {
+   "text": "TABLE:14",
+   "conf": 0.8672059550881386
+  },
+  {
+   "text": "POS Title:P0S001",
+   "conf": 0.9180952273309231
+  },
+  {
+   "text": "OP:Sherwin",
+   "conf": 0.9705672085285186
+  },
+  {
+   "text": "Rcpt#:A11000028385",
+   "conf": 0.9843869672881232
+  },
+  {
+   "text": "Sherwin",
+   "conf": 0.9789732694625854
+  },
+  {
+   "text": "POS:P0S001",
+   "conf": 0.9369695305824279
+  },
+  {
+   "text": "1",
+   "conf": 0.8523974418640137
+  },
+  {
+   "text": "Crispy Gyoza #",
+   "conf": 0.9429853132792881
+  },
+  {
+   "text": "26/09/2011 13:38",
+   "conf": 0.9607825390994549
+  },
+  {
+   "text": "Gong Bao Rice",
+   "conf": 0.9630677745892451
+  },
+  {
+   "text": "1",
+   "conf": 0.7494186758995056
+  },
+  {
+   "text": "Gyokai Ramen $10.90",
+   "conf": 0.9662656721315885
+  },
+  {
+   "text": "$0.00",
+   "conf": 0.9698283433914184
+  },
+  {
+   "text": "Houji-cha (Hot)",
+   "conf": 0.9631356676419576
+  },
+  {
+   "text": "$7.90",
+   "conf": 0.9712967872619629
+  },
+  {
+   "text": "Seafood Kimuchi Rice",
+   "conf": 0.9899689435958863
+  },
+  {
+   "text": "$11.90",
+   "conf": 0.9882593254248301
+  },
+  {
+   "text": "Soda Strawberry",
+   "conf": 0.9829582929611206
+  },
+  {
+   "text": "$1.00",
+   "conf": 0.9869363903999329
+  },
+  {
+   "text": "1Yuzu (Hot)",
+   "conf": 0.9377967390147123
+  },
+  {
+   "text": "$7.90",
+   "conf": 0.9793033599853516
+  },
+  {
+   "text": "$3.90",
+   "conf": 0.9878273129463195
+  },
+  {
+   "text": "$3.90",
+   "conf": 0.9622756242752075
+  },
+  {
+   "text": "SUBTOTAL",
+   "conf": 0.9879852905869484
+  },
+  {
+   "text": "SUC CHG",
+   "conf": 0.9043124658720834
+  },
+  {
+   "text": "$36.50",
+   "conf": 0.993442436059316
+  },
+  {
+   "text": "GST",
+   "conf": 0.9964139262835184
+  },
+  {
+   "text": "$3.65",
+   "conf": 0.9948024868965148
+  },
+  {
+   "text": "$2.81",
+   "conf": 0.9954593896865844
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.9914188623428345
+  },
+  {
+   "text": "Total item :7",
+   "conf": 0.8957858658753909
+  },
+  {
+   "text": "$42.95",
+   "conf": 0.9066052287817001
+  },
+  {
+   "text": "Total Qty :7",
+   "conf": 0.8898284534613291
+  },
+  {
+   "text": "CASH",
+   "conf": 0.9923220276832581
+  },
+  {
+   "text": "Change",
+   "conf": 0.9891204237937927
+  },
+  {
+   "text": "$44.00",
+   "conf": 0.996418962876002
+  },
+  {
+   "text": "Signature:",
+   "conf": 0.9901056110858917
+  },
+  {
+   "text": "Closed Bill",
+   "conf": 0.9860202182422985
+  },
+  {
+   "text": "26/09/2011 13:40-",
+   "conf": 0.9623197141815635
+  },
+  {
+   "text": "***水**************",
+   "conf": 0.8336365636852052
+  }
+ ],
+ "mean_conf": 0.9509,
+ "low_conf_share": 0.0,
+ "latency_ms": 4211,
+ "fields": {
+  "company": "BACHMANN JAPANESE RESTAURANT ION ORCHARD",
+  "date": "2011-09-26",
+  "total": 2.81
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  2.81
+ ],
+ "key": "W0197_e25a6d8b772f"
+}

@@ -1,0 +1,226 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "———- i",
+  "SSS a =",
+  "——— ‘shoo D-E Hollywood Ft SSS",
+  "Se i arss277 SS",
+  "= = 150 ee",
+  "| Pease Watt For Your Order ——",
+  "SOS ate ziyosyaora 73:08:84 = —",
+  "— aCe =",
+  "— ol",
+  "ere — haa",
+  "eS Fle",
+  "SS a = =",
+  "cash |"
+ ],
+ "tokens": [
+  {
+   "text": "———-",
+   "conf": 0.0
+  },
+  {
+   "text": "i",
+   "conf": 0.47
+  },
+  {
+   "text": "SSS",
+   "conf": 0.52
+  },
+  {
+   "text": "a",
+   "conf": 0.3
+  },
+  {
+   "text": "=",
+   "conf": 0.91
+  },
+  {
+   "text": "———",
+   "conf": 0.05
+  },
+  {
+   "text": "‘shoo",
+   "conf": 0.89
+  },
+  {
+   "text": "D-E",
+   "conf": 0.55
+  },
+  {
+   "text": "Hollywood",
+   "conf": 0.72
+  },
+  {
+   "text": "Ft",
+   "conf": 0.57
+  },
+  {
+   "text": "SSS",
+   "conf": 0.44
+  },
+  {
+   "text": "Se",
+   "conf": 0.39
+  },
+  {
+   "text": "i",
+   "conf": 0.37
+  },
+  {
+   "text": "arss277",
+   "conf": 0.0
+  },
+  {
+   "text": "SS",
+   "conf": 0.47
+  },
+  {
+   "text": "=",
+   "conf": 0.77
+  },
+  {
+   "text": "=",
+   "conf": 0.4
+  },
+  {
+   "text": "150",
+   "conf": 0.74
+  },
+  {
+   "text": "ee",
+   "conf": 0.24
+  },
+  {
+   "text": "|",
+   "conf": 0.37
+  },
+  {
+   "text": "Pease",
+   "conf": 0.38
+  },
+  {
+   "text": "Watt",
+   "conf": 0.74
+  },
+  {
+   "text": "For",
+   "conf": 0.88
+  },
+  {
+   "text": "Your",
+   "conf": 0.88
+  },
+  {
+   "text": "Order",
+   "conf": 0.86
+  },
+  {
+   "text": "——",
+   "conf": 0.19
+  },
+  {
+   "text": "SOS",
+   "conf": 0.16
+  },
+  {
+   "text": "ate",
+   "conf": 0.17
+  },
+  {
+   "text": "ziyosyaora",
+   "conf": 0.0
+  },
+  {
+   "text": "73:08:84",
+   "conf": 0.45
+  },
+  {
+   "text": "=",
+   "conf": 0.9
+  },
+  {
+   "text": "—",
+   "conf": 0.48
+  },
+  {
+   "text": "—",
+   "conf": 0.63
+  },
+  {
+   "text": "aCe",
+   "conf": 0.44
+  },
+  {
+   "text": "=",
+   "conf": 0.84
+  },
+  {
+   "text": "—",
+   "conf": 0.49
+  },
+  {
+   "text": "ol",
+   "conf": 0.3
+  },
+  {
+   "text": "ere",
+   "conf": 0.52
+  },
+  {
+   "text": "—",
+   "conf": 0.49
+  },
+  {
+   "text": "haa",
+   "conf": 0.38
+  },
+  {
+   "text": "eS",
+   "conf": 0.16
+  },
+  {
+   "text": "Fle",
+   "conf": 0.13
+  },
+  {
+   "text": "SS",
+   "conf": 0.3
+  },
+  {
+   "text": "a",
+   "conf": 0.31
+  },
+  {
+   "text": "=",
+   "conf": 0.29
+  },
+  {
+   "text": "=",
+   "conf": 0.34
+  },
+  {
+   "text": "cash",
+   "conf": 0.61
+  },
+  {
+   "text": "|",
+   "conf": 0.34
+  }
+ ],
+ "mean_conf": 0.4548,
+ "low_conf_share": 0.6458,
+ "latency_ms": 1346,
+ "fields": {
+  "company": "SSS A",
+  "date": null,
+  "total": null
+ },
+ "rule_reasons": [
+  "date_not_found",
+  "total_not_found"
+ ],
+ "total_candidates": [],
+ "key": "W0084_4172"
+}

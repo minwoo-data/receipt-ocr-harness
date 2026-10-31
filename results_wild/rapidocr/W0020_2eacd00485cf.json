@@ -1,0 +1,189 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "VAPiANO",
+  "Vaplano Disney",
+  "Disneyland Paris",
+  "77700 Marne la Vallee Chessy",
+  "Telephone:+33160422679",
+  "e-nall:disneyevaplano.fr",
+  "Recu de vente",
+  "N.de transaction: 6162",
+  "Date: 25/12/2016",
+  "Heure: 22:46:33",
+  "Vous avez ete servlanthony",
+  "Client: 4563206968",
+  "Designation Qtéxprix Montant",
+  "Tupe de Pasta Penne 10,00EUR 0.00EUR",
+  "Pasta Chicken Alfredo1#15,20 EUR 15,20EUR",
+  "SomRe 15,20EUR",
+  "Incl.10xTVA 1,38EUR",
+  "PrixHT 13.82EUR",
+  "Hode de paienent Cash 20.000",
+  "Retour d.argent Cash 4.800",
+  "ID-Nr:FR91531223113",
+  "www.vaplano.con"
+ ],
+ "tokens": [
+  {
+   "text": "VAPiANO",
+   "conf": 0.9146865010261536
+  },
+  {
+   "text": "Vaplano Disney",
+   "conf": 0.9197627646582467
+  },
+  {
+   "text": "77700 Marne la Vallee Chessy",
+   "conf": 0.9044816557850156
+  },
+  {
+   "text": "Disneyland Paris",
+   "conf": 0.9358903281390667
+  },
+  {
+   "text": "Telephone:+33160422679",
+   "conf": 0.9243858890099959
+  },
+  {
+   "text": "e-nall:disneyevaplano.fr",
+   "conf": 0.8574701187511286
+  },
+  {
+   "text": "Recu de vente",
+   "conf": 0.9326895429537847
+  },
+  {
+   "text": "N.de transaction:",
+   "conf": 0.927914188188665
+  },
+  {
+   "text": "Date:",
+   "conf": 0.8882401943206787
+  },
+  {
+   "text": "6162",
+   "conf": 0.9980669915676117
+  },
+  {
+   "text": "Heure:",
+   "conf": 0.9921034475167593
+  },
+  {
+   "text": "25/12/2016",
+   "conf": 0.997011411190033
+  },
+  {
+   "text": "22:46:33",
+   "conf": 0.9792241007089615
+  },
+  {
+   "text": "Vous avez ete servlanthony",
+   "conf": 0.8792730822012975
+  },
+  {
+   "text": "Client:",
+   "conf": 0.9516481161117554
+  },
+  {
+   "text": "4563206968",
+   "conf": 0.9825624465942383
+  },
+  {
+   "text": "Designation",
+   "conf": 0.9378923963416707
+  },
+  {
+   "text": "Qtéxprix",
+   "conf": 0.8592434525489807
+  },
+  {
+   "text": "Montant",
+   "conf": 0.9720304693494525
+  },
+  {
+   "text": "Tupe de Pasta Penne",
+   "conf": 0.9095489665081626
+  },
+  {
+   "text": "10,00EUR",
+   "conf": 0.9158053211867809
+  },
+  {
+   "text": "0.00EUR",
+   "conf": 0.9654824222837176
+  },
+  {
+   "text": "Pasta Chicken Alfredo1#15,20 EUR",
+   "conf": 0.9267330821603537
+  },
+  {
+   "text": "15,20EUR",
+   "conf": 0.922455295920372
+  },
+  {
+   "text": "SomRe",
+   "conf": 0.7408756375312805
+  },
+  {
+   "text": "15,20EUR",
+   "conf": 0.9634398743510246
+  },
+  {
+   "text": "Incl.10xTVA",
+   "conf": 0.9564645940607245
+  },
+  {
+   "text": "1,38EUR",
+   "conf": 0.9443034359386989
+  },
+  {
+   "text": "PrixHT",
+   "conf": 0.874604324499766
+  },
+  {
+   "text": "13.82EUR",
+   "conf": 0.9380114823579788
+  },
+  {
+   "text": "Hode de paienent Cash",
+   "conf": 0.8963451782862345
+  },
+  {
+   "text": "20.000",
+   "conf": 0.9381572107474009
+  },
+  {
+   "text": "Retour d.argent Cash",
+   "conf": 0.953218224644661
+  },
+  {
+   "text": "4.800",
+   "conf": 0.9119140982627869
+  },
+  {
+   "text": "ID-Nr:FR91531223113",
+   "conf": 0.9771709881330791
+  },
+  {
+   "text": "www.vaplano.con",
+   "conf": 0.837532889842987
+  }
+ ],
+ "mean_conf": 0.9257,
+ "low_conf_share": 0.0,
+ "latency_ms": 3658,
+ "fields": {
+  "company": "VAPIANO",
+  "date": "2016-12-25",
+  "total": 13.82
+ },
+ "rule_reasons": [
+  "total_no_keyword_fallback_max"
+ ],
+ "total_candidates": [
+  0.0,
+  13.82
+ ],
+ "key": "W0020_2eacd00485cf"
+}

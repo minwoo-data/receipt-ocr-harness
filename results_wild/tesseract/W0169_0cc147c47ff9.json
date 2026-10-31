@@ -1,0 +1,185 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "POPPIES",
+  "55-59 OLD COMPTON STREET",
+  "SOHO",
+  "LONDON WI1D GHW",
+  "YELIZ REG 1081",
+  "SUNDAY 31 JULY 2016 18:34 000053",
+  "\"ORDER NG: 44",
+  "1 CHIPS LRG £2.50",
+  "2 COD REG £19.00",
+  "1 CALAMARI $8.50",
+  "TOTAL £22.00",
+  "CASH £22.00",
+  "VAT No"
+ ],
+ "tokens": [
+  {
+   "text": "POPPIES",
+   "conf": 0.95
+  },
+  {
+   "text": "55-59",
+   "conf": 0.55
+  },
+  {
+   "text": "OLD",
+   "conf": 0.93
+  },
+  {
+   "text": "COMPTON",
+   "conf": 0.93
+  },
+  {
+   "text": "STREET",
+   "conf": 0.96
+  },
+  {
+   "text": "SOHO",
+   "conf": 0.96
+  },
+  {
+   "text": "LONDON",
+   "conf": 0.64
+  },
+  {
+   "text": "WI1D",
+   "conf": 0.32
+  },
+  {
+   "text": "GHW",
+   "conf": 0.96
+  },
+  {
+   "text": "YELIZ",
+   "conf": 0.9
+  },
+  {
+   "text": "REG",
+   "conf": 0.95
+  },
+  {
+   "text": "1081",
+   "conf": 0.43
+  },
+  {
+   "text": "SUNDAY",
+   "conf": 0.81
+  },
+  {
+   "text": "31",
+   "conf": 0.84
+  },
+  {
+   "text": "JULY",
+   "conf": 0.84
+  },
+  {
+   "text": "2016",
+   "conf": 0.9
+  },
+  {
+   "text": "18:34",
+   "conf": 0.91
+  },
+  {
+   "text": "000053",
+   "conf": 0.93
+  },
+  {
+   "text": "\"ORDER",
+   "conf": 0.6
+  },
+  {
+   "text": "NG:",
+   "conf": 0.68
+  },
+  {
+   "text": "44",
+   "conf": 0.42
+  },
+  {
+   "text": "1",
+   "conf": 0.96
+  },
+  {
+   "text": "CHIPS",
+   "conf": 0.88
+  },
+  {
+   "text": "LRG",
+   "conf": 0.88
+  },
+  {
+   "text": "£2.50",
+   "conf": 0.94
+  },
+  {
+   "text": "2",
+   "conf": 0.85
+  },
+  {
+   "text": "COD",
+   "conf": 0.55
+  },
+  {
+   "text": "REG",
+   "conf": 0.96
+  },
+  {
+   "text": "£19.00",
+   "conf": 0.79
+  },
+  {
+   "text": "1",
+   "conf": 0.6
+  },
+  {
+   "text": "CALAMARI",
+   "conf": 0.0
+  },
+  {
+   "text": "$8.50",
+   "conf": 0.89
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.96
+  },
+  {
+   "text": "£22.00",
+   "conf": 0.63
+  },
+  {
+   "text": "CASH",
+   "conf": 0.9
+  },
+  {
+   "text": "£22.00",
+   "conf": 0.56
+  },
+  {
+   "text": "VAT",
+   "conf": 0.94
+  },
+  {
+   "text": "No",
+   "conf": 0.95
+  }
+ ],
+ "mean_conf": 0.7803,
+ "low_conf_share": 0.1053,
+ "latency_ms": 260,
+ "fields": {
+  "company": "POPPIES",
+  "date": "2016-07-31",
+  "total": 22.0
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  22.0
+ ],
+ "key": "W0169_0cc147c47ff9"
+}

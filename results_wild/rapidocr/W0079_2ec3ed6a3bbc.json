@@ -1,0 +1,190 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "california",
+  "PIZZAKITCHEN",
+  "California Pizza Kitchen(TKO)",
+  "Shop Unit F10,PopCorn,",
+  "9Tong Yin Street,Tseung Kwan0.",
+  "New Territorfes.",
+  "Tel:（852)3902-3875Fax:(852)3902-3433",
+  "Table 12A Cover.1",
+  "Check No. 309222",
+  "Date 2016-09-0919:04:04",
+  "Description Qty Anount",
+  "California Veggie 1 106.00",
+  "-VIPPizzas -106.00",
+  "(New)Konbu Spag w/Shrinp",
+  "1 120.00",
+  "-NO 1",
+  "-Spicy 1",
+  "Subtotal: $120.00",
+  "+Service Charge: $22.60",
+  "-VIP15%D1scount: $18.00",
+  "Tota1:$124.60"
+ ],
+ "tokens": [
+  {
+   "text": "california",
+   "conf": 0.9872347056865692
+  },
+  {
+   "text": "PIZZAKITCHEN",
+   "conf": 0.9831057737270991
+  },
+  {
+   "text": "California Pizza Kitchen(TKO)",
+   "conf": 0.9010124936186034
+  },
+  {
+   "text": "Shop Unit F10,PopCorn,",
+   "conf": 0.8512084253809669
+  },
+  {
+   "text": "9Tong Yin Street,Tseung Kwan0.",
+   "conf": 0.9076695501804352
+  },
+  {
+   "text": "New Territorfes.",
+   "conf": 0.9325768128037453
+  },
+  {
+   "text": "Tel:（852)3902-3875Fax:(852)3902-3433",
+   "conf": 0.929893445637491
+  },
+  {
+   "text": "Table",
+   "conf": 0.9796871900558471
+  },
+  {
+   "text": "12A",
+   "conf": 0.9955359101295471
+  },
+  {
+   "text": "Cover.1",
+   "conf": 0.9573713455881391
+  },
+  {
+   "text": "Check No.",
+   "conf": 0.9429784615834554
+  },
+  {
+   "text": "309222",
+   "conf": 0.9988756875197092
+  },
+  {
+   "text": "Date 2016-09-0919:04:04",
+   "conf": 0.9680970414825107
+  },
+  {
+   "text": "Description",
+   "conf": 0.9182192629033868
+  },
+  {
+   "text": "Qty",
+   "conf": 0.9483030835787455
+  },
+  {
+   "text": "Anount",
+   "conf": 0.8626580039660136
+  },
+  {
+   "text": "California Veggie",
+   "conf": 0.9118557046441471
+  },
+  {
+   "text": "1",
+   "conf": 0.9882069230079651
+  },
+  {
+   "text": "106.00",
+   "conf": 0.9964882830778757
+  },
+  {
+   "text": "-VIPPizzas",
+   "conf": 0.936919778585434
+  },
+  {
+   "text": "-106.00",
+   "conf": 0.9826508675302777
+  },
+  {
+   "text": "(New)Konbu Spag w/Shrinp",
+   "conf": 0.8536100772519907
+  },
+  {
+   "text": "1",
+   "conf": 0.9928218722343445
+  },
+  {
+   "text": "120.00",
+   "conf": 0.9953832725683848
+  },
+  {
+   "text": "-NO",
+   "conf": 0.8127385973930359
+  },
+  {
+   "text": "1",
+   "conf": 0.9927399754524231
+  },
+  {
+   "text": "-Spicy",
+   "conf": 0.9740195771058401
+  },
+  {
+   "text": "1",
+   "conf": 0.9929110407829285
+  },
+  {
+   "text": "Subtotal:",
+   "conf": 0.9780509405665927
+  },
+  {
+   "text": "+Service Charge:",
+   "conf": 0.9698462150990963
+  },
+  {
+   "text": "$120.00",
+   "conf": 0.9930846861430577
+  },
+  {
+   "text": "-VIP15%D1scount:",
+   "conf": 0.8898569010198116
+  },
+  {
+   "text": "$22.60",
+   "conf": 0.9913282593091329
+  },
+  {
+   "text": "$18.00",
+   "conf": 0.9946903387705485
+  },
+  {
+   "text": "Tota1:$124.60",
+   "conf": 0.967525275853964
+  }
+ ],
+ "mean_conf": 0.9508,
+ "low_conf_share": 0.0,
+ "latency_ms": 2593,
+ "fields": {
+  "company": "CALIFORNIA",
+  "date": null,
+  "total": 124.6
+ },
+ "rule_reasons": [
+  "date_not_found",
+  "total_no_keyword_fallback_max"
+ ],
+ "total_candidates": [
+  106.0,
+  -106.0,
+  120.0,
+  120.0,
+  22.6,
+  18.0,
+  124.6
+ ],
+ "key": "W0079_2ec3ed6a3bbc"
+}

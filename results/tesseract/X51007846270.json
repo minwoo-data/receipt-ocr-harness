@@ -1,0 +1,758 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "Pogoo) :",
+  "MOONLIGHT CAKE HOUSE SDN BHD 862725-U",
+  "(GST Reg No: (01559208048 ) : :",
+  "No.1, Jalan Permas 10/5, Bandar Baru Permas Jaya",
+  ": 91750 Johor Bahru, Johor. Tel No. : 07-387 3322 |",
+  "a wwe .moonl ightcake . com .",
+  "| Table : Counter ,",
+  "Invoice No: sp-ry| 1-18/06/04-1016956",
+  "Date » 04/06/2018 18:17:54 .",
+  "Payment Type: Cash",
+  "Member Number : 4900000 100068587 | ; |",
+  "TAKE AWAY",
+  "Butter slice Cheese #4 1 RN4.15 ST , ,",
+  "Discount RM-0.20",
+  ": Europe Bun *# | RM3.70 ST",
+  "Discount RM-0,18",
+  "- Green Tea Machi ¥ 1 RM3.30 ST",
+  "Discount RM-0.16",
+  "Toast (B) - Coffee Cream Ch 1 RM7,.85 ST |",
+  "Discount RM-0 39",
+  "Walnut Multigrain *# 1 RM3.95 ST .",
+  "Discount | RM-0,19",
+  "Total (Incl GST) RM21.83 |",
+  "Rounding RMO.02 |",
+  "Grand rotalRM2 1 £85 . , }",
+  "Total Paid RM50 .00",
+  "Change R28. 15",
+  "Discount Summary | :",
+  "Discount RM1.12",
+  "GST Summary , *",
+  "ST Summary Item Amount(RM) GSTCRM) |",
+  ". ST = 0% a) 21.83 0,00",
+  "NS = 04 @ 0,00 0.00",
+  ", 04/08/2018 18:17:54 :"
+ ],
+ "tokens": [
+  {
+   "text": "Pogoo)",
+   "conf": 0.0
+  },
+  {
+   "text": ":",
+   "conf": 0.03
+  },
+  {
+   "text": "MOONLIGHT",
+   "conf": 0.95
+  },
+  {
+   "text": "CAKE",
+   "conf": 0.96
+  },
+  {
+   "text": "HOUSE",
+   "conf": 0.96
+  },
+  {
+   "text": "SDN",
+   "conf": 0.96
+  },
+  {
+   "text": "BHD",
+   "conf": 0.92
+  },
+  {
+   "text": "862725-U",
+   "conf": 0.86
+  },
+  {
+   "text": "(GST",
+   "conf": 0.95
+  },
+  {
+   "text": "Reg",
+   "conf": 0.95
+  },
+  {
+   "text": "No:",
+   "conf": 0.94
+  },
+  {
+   "text": "(01559208048",
+   "conf": 0.43
+  },
+  {
+   "text": ")",
+   "conf": 0.83
+  },
+  {
+   "text": ":",
+   "conf": 0.12
+  },
+  {
+   "text": ":",
+   "conf": 0.03
+  },
+  {
+   "text": "No.1,",
+   "conf": 0.95
+  },
+  {
+   "text": "Jalan",
+   "conf": 0.93
+  },
+  {
+   "text": "Permas",
+   "conf": 0.91
+  },
+  {
+   "text": "10/5,",
+   "conf": 0.94
+  },
+  {
+   "text": "Bandar",
+   "conf": 0.96
+  },
+  {
+   "text": "Baru",
+   "conf": 0.93
+  },
+  {
+   "text": "Permas",
+   "conf": 0.92
+  },
+  {
+   "text": "Jaya",
+   "conf": 0.96
+  },
+  {
+   "text": ":",
+   "conf": 0.32
+  },
+  {
+   "text": "91750",
+   "conf": 0.92
+  },
+  {
+   "text": "Johor",
+   "conf": 0.71
+  },
+  {
+   "text": "Bahru,",
+   "conf": 0.95
+  },
+  {
+   "text": "Johor.",
+   "conf": 0.96
+  },
+  {
+   "text": "Tel",
+   "conf": 0.95
+  },
+  {
+   "text": "No.",
+   "conf": 0.68
+  },
+  {
+   "text": ":",
+   "conf": 0.49
+  },
+  {
+   "text": "07-387",
+   "conf": 0.95
+  },
+  {
+   "text": "3322",
+   "conf": 0.96
+  },
+  {
+   "text": "|",
+   "conf": 0.32
+  },
+  {
+   "text": "a",
+   "conf": 0.0
+  },
+  {
+   "text": "wwe",
+   "conf": 0.27
+  },
+  {
+   "text": ".moonl",
+   "conf": 0.15
+  },
+  {
+   "text": "ightcake",
+   "conf": 0.68
+  },
+  {
+   "text": ".",
+   "conf": 0.35
+  },
+  {
+   "text": "com",
+   "conf": 0.35
+  },
+  {
+   "text": ".",
+   "conf": 0.07
+  },
+  {
+   "text": "|",
+   "conf": 0.44
+  },
+  {
+   "text": "Table",
+   "conf": 0.96
+  },
+  {
+   "text": ":",
+   "conf": 0.0
+  },
+  {
+   "text": "Counter",
+   "conf": 0.96
+  },
+  {
+   "text": ",",
+   "conf": 0.0
+  },
+  {
+   "text": "Invoice",
+   "conf": 0.86
+  },
+  {
+   "text": "No:",
+   "conf": 0.95
+  },
+  {
+   "text": "sp-ry|",
+   "conf": 0.15
+  },
+  {
+   "text": "1-18/06/04-1016956",
+   "conf": 0.58
+  },
+  {
+   "text": "Date",
+   "conf": 0.96
+  },
+  {
+   "text": "»",
+   "conf": 0.21
+  },
+  {
+   "text": "04/06/2018",
+   "conf": 0.59
+  },
+  {
+   "text": "18:17:54",
+   "conf": 0.61
+  },
+  {
+   "text": ".",
+   "conf": 0.1
+  },
+  {
+   "text": "Payment",
+   "conf": 0.96
+  },
+  {
+   "text": "Type:",
+   "conf": 0.95
+  },
+  {
+   "text": "Cash",
+   "conf": 0.9
+  },
+  {
+   "text": "Member",
+   "conf": 0.96
+  },
+  {
+   "text": "Number",
+   "conf": 0.87
+  },
+  {
+   "text": ":",
+   "conf": 0.48
+  },
+  {
+   "text": "4900000",
+   "conf": 0.21
+  },
+  {
+   "text": "100068587",
+   "conf": 0.21
+  },
+  {
+   "text": "|",
+   "conf": 0.2
+  },
+  {
+   "text": ";",
+   "conf": 0.32
+  },
+  {
+   "text": "|",
+   "conf": 0.63
+  },
+  {
+   "text": "TAKE",
+   "conf": 0.94
+  },
+  {
+   "text": "AWAY",
+   "conf": 0.95
+  },
+  {
+   "text": "Butter",
+   "conf": 0.59
+  },
+  {
+   "text": "slice",
+   "conf": 0.95
+  },
+  {
+   "text": "Cheese",
+   "conf": 0.93
+  },
+  {
+   "text": "#4",
+   "conf": 0.42
+  },
+  {
+   "text": "1",
+   "conf": 0.56
+  },
+  {
+   "text": "RN4.15",
+   "conf": 0.4
+  },
+  {
+   "text": "ST",
+   "conf": 0.94
+  },
+  {
+   "text": ",",
+   "conf": 0.0
+  },
+  {
+   "text": ",",
+   "conf": 0.0
+  },
+  {
+   "text": "Discount",
+   "conf": 0.96
+  },
+  {
+   "text": "RM-0.20",
+   "conf": 0.45
+  },
+  {
+   "text": ":",
+   "conf": 0.27
+  },
+  {
+   "text": "Europe",
+   "conf": 0.79
+  },
+  {
+   "text": "Bun",
+   "conf": 0.89
+  },
+  {
+   "text": "*#",
+   "conf": 0.57
+  },
+  {
+   "text": "|",
+   "conf": 0.92
+  },
+  {
+   "text": "RM3.70",
+   "conf": 0.8
+  },
+  {
+   "text": "ST",
+   "conf": 0.95
+  },
+  {
+   "text": "Discount",
+   "conf": 0.96
+  },
+  {
+   "text": "RM-0,18",
+   "conf": 0.55
+  },
+  {
+   "text": "-",
+   "conf": 0.0
+  },
+  {
+   "text": "Green",
+   "conf": 0.96
+  },
+  {
+   "text": "Tea",
+   "conf": 0.65
+  },
+  {
+   "text": "Machi",
+   "conf": 0.33
+  },
+  {
+   "text": "¥",
+   "conf": 0.47
+  },
+  {
+   "text": "1",
+   "conf": 0.86
+  },
+  {
+   "text": "RM3.30",
+   "conf": 0.89
+  },
+  {
+   "text": "ST",
+   "conf": 0.95
+  },
+  {
+   "text": "Discount",
+   "conf": 0.92
+  },
+  {
+   "text": "RM-0.16",
+   "conf": 0.81
+  },
+  {
+   "text": "Toast",
+   "conf": 0.9
+  },
+  {
+   "text": "(B)",
+   "conf": 0.9
+  },
+  {
+   "text": "-",
+   "conf": 0.92
+  },
+  {
+   "text": "Coffee",
+   "conf": 0.96
+  },
+  {
+   "text": "Cream",
+   "conf": 0.96
+  },
+  {
+   "text": "Ch",
+   "conf": 0.47
+  },
+  {
+   "text": "1",
+   "conf": 0.47
+  },
+  {
+   "text": "RM7,.85",
+   "conf": 0.14
+  },
+  {
+   "text": "ST",
+   "conf": 0.88
+  },
+  {
+   "text": "|",
+   "conf": 0.38
+  },
+  {
+   "text": "Discount",
+   "conf": 0.96
+  },
+  {
+   "text": "RM-0",
+   "conf": 0.74
+  },
+  {
+   "text": "39",
+   "conf": 0.38
+  },
+  {
+   "text": "Walnut",
+   "conf": 0.92
+  },
+  {
+   "text": "Multigrain",
+   "conf": 0.9
+  },
+  {
+   "text": "*#",
+   "conf": 0.61
+  },
+  {
+   "text": "1",
+   "conf": 0.47
+  },
+  {
+   "text": "RM3.95",
+   "conf": 0.52
+  },
+  {
+   "text": "ST",
+   "conf": 0.96
+  },
+  {
+   "text": ".",
+   "conf": 0.4
+  },
+  {
+   "text": "Discount",
+   "conf": 0.96
+  },
+  {
+   "text": "|",
+   "conf": 0.62
+  },
+  {
+   "text": "RM-0,19",
+   "conf": 0.58
+  },
+  {
+   "text": "Total",
+   "conf": 0.91
+  },
+  {
+   "text": "(Incl",
+   "conf": 0.93
+  },
+  {
+   "text": "GST)",
+   "conf": 0.95
+  },
+  {
+   "text": "RM21.83",
+   "conf": 0.74
+  },
+  {
+   "text": "|",
+   "conf": 0.58
+  },
+  {
+   "text": "Rounding",
+   "conf": 0.96
+  },
+  {
+   "text": "RMO.02",
+   "conf": 0.71
+  },
+  {
+   "text": "|",
+   "conf": 0.4
+  },
+  {
+   "text": "Grand",
+   "conf": 0.96
+  },
+  {
+   "text": "rotalRM2",
+   "conf": 0.69
+  },
+  {
+   "text": "1",
+   "conf": 0.73
+  },
+  {
+   "text": "£85",
+   "conf": 0.03
+  },
+  {
+   "text": ".",
+   "conf": 0.3
+  },
+  {
+   "text": ",",
+   "conf": 0.0
+  },
+  {
+   "text": "}",
+   "conf": 0.13
+  },
+  {
+   "text": "Total",
+   "conf": 0.96
+  },
+  {
+   "text": "Paid",
+   "conf": 0.96
+  },
+  {
+   "text": "RM50",
+   "conf": 0.4
+  },
+  {
+   "text": ".00",
+   "conf": 0.35
+  },
+  {
+   "text": "Change",
+   "conf": 0.96
+  },
+  {
+   "text": "R28.",
+   "conf": 0.12
+  },
+  {
+   "text": "15",
+   "conf": 0.12
+  },
+  {
+   "text": "Discount",
+   "conf": 0.96
+  },
+  {
+   "text": "Summary",
+   "conf": 0.95
+  },
+  {
+   "text": "|",
+   "conf": 0.72
+  },
+  {
+   "text": ":",
+   "conf": 0.22
+  },
+  {
+   "text": "Discount",
+   "conf": 0.96
+  },
+  {
+   "text": "RM1.12",
+   "conf": 0.86
+  },
+  {
+   "text": "GST",
+   "conf": 0.94
+  },
+  {
+   "text": "Summary",
+   "conf": 0.94
+  },
+  {
+   "text": ",",
+   "conf": 0.0
+  },
+  {
+   "text": "*",
+   "conf": 0.0
+  },
+  {
+   "text": "ST",
+   "conf": 0.46
+  },
+  {
+   "text": "Summary",
+   "conf": 0.45
+  },
+  {
+   "text": "Item",
+   "conf": 0.87
+  },
+  {
+   "text": "Amount(RM)",
+   "conf": 0.84
+  },
+  {
+   "text": "GSTCRM)",
+   "conf": 0.7
+  },
+  {
+   "text": "|",
+   "conf": 0.73
+  },
+  {
+   "text": ".",
+   "conf": 0.38
+  },
+  {
+   "text": "ST",
+   "conf": 0.94
+  },
+  {
+   "text": "=",
+   "conf": 0.94
+  },
+  {
+   "text": "0%",
+   "conf": 0.64
+  },
+  {
+   "text": "a)",
+   "conf": 0.47
+  },
+  {
+   "text": "21.83",
+   "conf": 0.53
+  },
+  {
+   "text": "0,00",
+   "conf": 0.72
+  },
+  {
+   "text": "NS",
+   "conf": 0.95
+  },
+  {
+   "text": "=",
+   "conf": 0.95
+  },
+  {
+   "text": "04",
+   "conf": 0.81
+  },
+  {
+   "text": "@",
+   "conf": 0.73
+  },
+  {
+   "text": "0,00",
+   "conf": 0.87
+  },
+  {
+   "text": "0.00",
+   "conf": 0.72
+  },
+  {
+   "text": ",",
+   "conf": 0.0
+  },
+  {
+   "text": "04/08/2018",
+   "conf": 0.91
+  },
+  {
+   "text": "18:17:54",
+   "conf": 0.91
+  },
+  {
+   "text": ":",
+   "conf": 0.07
+  }
+ ],
+ "mean_conf": 0.6488,
+ "low_conf_share": 0.3352,
+ "latency_ms": 2870,
+ "fields": {
+  "company": "MOONLIGHT CAKE HOUSE SDN BHD",
+  "date": "2006-01-18",
+  "total": 21.83
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  21.83
+ ],
+ "key": "X51007846270"
+}

@@ -1,0 +1,443 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "7",
+  "TS TOOLS HARDWARE & RACHIRERT SOR DED",
+  "1151414-P",
+  "59, JALAN BANDAR SATU,",
+  "PISAT BANDAR PUCHONG",
+  "47160, PUCHONG, SELANGOR",
+  "TEL: 03-58790352",
+  "GST NOx 000761802752",
+  "TAX INVOICE",
+  "Ge eel namennemncenecennaenenmenrtte",
+  "RECEIPT Bs C900032256 DATE: 21/03/2018",
+  "SALESPERSON + TIME: 13:40:00",
+  "CASHIER : USER",
+  "ITEK QTY U/P AMOUNT",
+  "(RM) (RN)",
+  "2017 1 7.00 7,00",
+  "SR: (UNIT) 29HSAMURAT SPRAY PAINT",
+  "TOTAL QUANTITY 1",
+  "SUB-TOTAL 7.00",
+  "bISC 0.00",
+  "TAX 0.00",
+  "ROUNDING -0,02",
+  "| TOTAL 7.40",
+  "CASH 8.00",
+  "CHANGE 0.40",
+  "GST SUMMARY",
+  "CONE AMOUNT = % — TAX/AMT",
+  "SR 7.00 6 0.42",
+  "| TAX TOTAL: 0.42",
+  "G0ONS SOLD ARE NOT RETURNABLE,",
+  "| THANK YOU."
+ ],
+ "tokens": [
+  {
+   "text": "7",
+   "conf": 0.0
+  },
+  {
+   "text": "TS",
+   "conf": 0.84
+  },
+  {
+   "text": "TOOLS",
+   "conf": 0.93
+  },
+  {
+   "text": "HARDWARE",
+   "conf": 0.7
+  },
+  {
+   "text": "&",
+   "conf": 0.89
+  },
+  {
+   "text": "RACHIRERT",
+   "conf": 0.0
+  },
+  {
+   "text": "SOR",
+   "conf": 0.51
+  },
+  {
+   "text": "DED",
+   "conf": 0.41
+  },
+  {
+   "text": "1151414-P",
+   "conf": 0.87
+  },
+  {
+   "text": "59,",
+   "conf": 0.95
+  },
+  {
+   "text": "JALAN",
+   "conf": 0.93
+  },
+  {
+   "text": "BANDAR",
+   "conf": 0.84
+  },
+  {
+   "text": "SATU,",
+   "conf": 0.94
+  },
+  {
+   "text": "PISAT",
+   "conf": 0.64
+  },
+  {
+   "text": "BANDAR",
+   "conf": 0.87
+  },
+  {
+   "text": "PUCHONG",
+   "conf": 0.87
+  },
+  {
+   "text": "47160,",
+   "conf": 0.73
+  },
+  {
+   "text": "PUCHONG,",
+   "conf": 0.92
+  },
+  {
+   "text": "SELANGOR",
+   "conf": 0.96
+  },
+  {
+   "text": "TEL:",
+   "conf": 0.92
+  },
+  {
+   "text": "03-58790352",
+   "conf": 0.56
+  },
+  {
+   "text": "GST",
+   "conf": 0.94
+  },
+  {
+   "text": "NOx",
+   "conf": 0.9
+  },
+  {
+   "text": "000761802752",
+   "conf": 0.79
+  },
+  {
+   "text": "TAX",
+   "conf": 0.64
+  },
+  {
+   "text": "INVOICE",
+   "conf": 0.65
+  },
+  {
+   "text": "Ge",
+   "conf": 0.13
+  },
+  {
+   "text": "eel",
+   "conf": 0.12
+  },
+  {
+   "text": "namennemncenecennaenenmenrtte",
+   "conf": 0.0
+  },
+  {
+   "text": "RECEIPT",
+   "conf": 0.96
+  },
+  {
+   "text": "Bs",
+   "conf": 0.36
+  },
+  {
+   "text": "C900032256",
+   "conf": 0.41
+  },
+  {
+   "text": "DATE:",
+   "conf": 0.95
+  },
+  {
+   "text": "21/03/2018",
+   "conf": 0.96
+  },
+  {
+   "text": "SALESPERSON",
+   "conf": 0.93
+  },
+  {
+   "text": "+",
+   "conf": 0.67
+  },
+  {
+   "text": "TIME:",
+   "conf": 0.96
+  },
+  {
+   "text": "13:40:00",
+   "conf": 0.68
+  },
+  {
+   "text": "CASHIER",
+   "conf": 0.39
+  },
+  {
+   "text": ":",
+   "conf": 0.77
+  },
+  {
+   "text": "USER",
+   "conf": 0.95
+  },
+  {
+   "text": "ITEK",
+   "conf": 0.78
+  },
+  {
+   "text": "QTY",
+   "conf": 0.46
+  },
+  {
+   "text": "U/P",
+   "conf": 0.0
+  },
+  {
+   "text": "AMOUNT",
+   "conf": 0.0
+  },
+  {
+   "text": "(RM)",
+   "conf": 0.65
+  },
+  {
+   "text": "(RN)",
+   "conf": 0.55
+  },
+  {
+   "text": "2017",
+   "conf": 0.42
+  },
+  {
+   "text": "1",
+   "conf": 0.93
+  },
+  {
+   "text": "7.00",
+   "conf": 0.89
+  },
+  {
+   "text": "7,00",
+   "conf": 0.88
+  },
+  {
+   "text": "SR:",
+   "conf": 0.0
+  },
+  {
+   "text": "(UNIT)",
+   "conf": 0.0
+  },
+  {
+   "text": "29HSAMURAT",
+   "conf": 0.64
+  },
+  {
+   "text": "SPRAY",
+   "conf": 0.96
+  },
+  {
+   "text": "PAINT",
+   "conf": 0.96
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.96
+  },
+  {
+   "text": "QUANTITY",
+   "conf": 0.96
+  },
+  {
+   "text": "1",
+   "conf": 0.66
+  },
+  {
+   "text": "SUB-TOTAL",
+   "conf": 0.65
+  },
+  {
+   "text": "7.00",
+   "conf": 0.86
+  },
+  {
+   "text": "bISC",
+   "conf": 0.31
+  },
+  {
+   "text": "0.00",
+   "conf": 0.86
+  },
+  {
+   "text": "TAX",
+   "conf": 0.91
+  },
+  {
+   "text": "0.00",
+   "conf": 0.78
+  },
+  {
+   "text": "ROUNDING",
+   "conf": 0.89
+  },
+  {
+   "text": "-0,02",
+   "conf": 0.59
+  },
+  {
+   "text": "|",
+   "conf": 0.57
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.95
+  },
+  {
+   "text": "7.40",
+   "conf": 0.94
+  },
+  {
+   "text": "CASH",
+   "conf": 0.96
+  },
+  {
+   "text": "8.00",
+   "conf": 0.79
+  },
+  {
+   "text": "CHANGE",
+   "conf": 0.95
+  },
+  {
+   "text": "0.40",
+   "conf": 0.24
+  },
+  {
+   "text": "GST",
+   "conf": 0.94
+  },
+  {
+   "text": "SUMMARY",
+   "conf": 0.93
+  },
+  {
+   "text": "CONE",
+   "conf": 0.65
+  },
+  {
+   "text": "AMOUNT",
+   "conf": 0.65
+  },
+  {
+   "text": "=",
+   "conf": 0.22
+  },
+  {
+   "text": "%",
+   "conf": 0.7
+  },
+  {
+   "text": "—",
+   "conf": 0.0
+  },
+  {
+   "text": "TAX/AMT",
+   "conf": 0.45
+  },
+  {
+   "text": "SR",
+   "conf": 0.93
+  },
+  {
+   "text": "7.00",
+   "conf": 0.76
+  },
+  {
+   "text": "6",
+   "conf": 0.76
+  },
+  {
+   "text": "0.42",
+   "conf": 0.78
+  },
+  {
+   "text": "|",
+   "conf": 0.63
+  },
+  {
+   "text": "TAX",
+   "conf": 0.96
+  },
+  {
+   "text": "TOTAL:",
+   "conf": 0.95
+  },
+  {
+   "text": "0.42",
+   "conf": 0.89
+  },
+  {
+   "text": "G0ONS",
+   "conf": 0.16
+  },
+  {
+   "text": "SOLD",
+   "conf": 0.47
+  },
+  {
+   "text": "ARE",
+   "conf": 0.95
+  },
+  {
+   "text": "NOT",
+   "conf": 0.95
+  },
+  {
+   "text": "RETURNABLE,",
+   "conf": 0.94
+  },
+  {
+   "text": "|",
+   "conf": 0.62
+  },
+  {
+   "text": "THANK",
+   "conf": 0.95
+  },
+  {
+   "text": "YOU.",
+   "conf": 0.89
+  }
+ ],
+ "mean_conf": 0.689,
+ "low_conf_share": 0.2245,
+ "latency_ms": 856,
+ "fields": {
+  "company": "TS TOOLS HARDWARE RACHIRERT SOR DED",
+  "date": "2018-03-21",
+  "total": 7.4
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  7.4
+ ],
+ "key": "X51005710963"
+}

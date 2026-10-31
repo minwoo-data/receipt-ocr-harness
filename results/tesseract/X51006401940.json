@@ -1,0 +1,531 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "aad",
+  "ARTRANGE STATIONERS & PRINT SDN BHD",
+  "(112232?-U)",
+  "4 JALAN SS21/58 DAMAIISARA UTAMA",
+  "47400 PETALING JAVA",
+  "TEL 03-77271129 FAX - 03-77278929",
+  "GST ID : 001725739296",
+  "TAX INVOICE",
+  "CASH ; ao",
+  "Receipt # ©S00058574. —dDate. 10/04/2017",
+  "Cashier USER Time. 15:23:00",
+  "Salesperson Ret",
+  "Item Qty S$/Price _Amount__Tax_",
+  "3474370026019 2 770 1540 SR",
+  "PENTELGORRECTIONPENTEMLZLC1-W",
+  "TORO RY 22 = eee 15.0",
+  "Total Sales (Excluding GST» 14.53 f",
+  "Discoun 000",
+  "Total GST 0.87",
+  "Rounding, 0.00",
+  "Total Sales (Inclusive of GST): 15.40",
+  "; ea : 59.00",
+  "‘s Woted sce ae",
+  "uag cof -1] : eee. 34.60",
+  "ey al Os = 2 REED",
+  "GSTSUMMARY——<“i‘SOS™S~™",
+  "Tax Code % Amt (RIM) Tax (RM) i",
+  "SR 6 14.53 0.87",
+  "Total 14.63 0.87",
+  "GOODS SOLD ARE NOT RETURNABLE, THANK YOU",
+  "Ay"
+ ],
+ "tokens": [
+  {
+   "text": "aad",
+   "conf": 0.34
+  },
+  {
+   "text": "ARTRANGE",
+   "conf": 0.92
+  },
+  {
+   "text": "STATIONERS",
+   "conf": 0.93
+  },
+  {
+   "text": "&",
+   "conf": 0.93
+  },
+  {
+   "text": "PRINT",
+   "conf": 0.96
+  },
+  {
+   "text": "SDN",
+   "conf": 0.95
+  },
+  {
+   "text": "BHD",
+   "conf": 0.96
+  },
+  {
+   "text": "(112232?-U)",
+   "conf": 0.36
+  },
+  {
+   "text": "4",
+   "conf": 0.4
+  },
+  {
+   "text": "JALAN",
+   "conf": 0.93
+  },
+  {
+   "text": "SS21/58",
+   "conf": 0.85
+  },
+  {
+   "text": "DAMAIISARA",
+   "conf": 0.36
+  },
+  {
+   "text": "UTAMA",
+   "conf": 0.88
+  },
+  {
+   "text": "47400",
+   "conf": 0.92
+  },
+  {
+   "text": "PETALING",
+   "conf": 0.86
+  },
+  {
+   "text": "JAVA",
+   "conf": 0.44
+  },
+  {
+   "text": "TEL",
+   "conf": 0.48
+  },
+  {
+   "text": "03-77271129",
+   "conf": 0.51
+  },
+  {
+   "text": "FAX",
+   "conf": 0.92
+  },
+  {
+   "text": "-",
+   "conf": 0.07
+  },
+  {
+   "text": "03-77278929",
+   "conf": 0.36
+  },
+  {
+   "text": "GST",
+   "conf": 0.94
+  },
+  {
+   "text": "ID",
+   "conf": 0.87
+  },
+  {
+   "text": ":",
+   "conf": 0.6
+  },
+  {
+   "text": "001725739296",
+   "conf": 0.83
+  },
+  {
+   "text": "TAX",
+   "conf": 0.94
+  },
+  {
+   "text": "INVOICE",
+   "conf": 0.94
+  },
+  {
+   "text": "CASH",
+   "conf": 0.96
+  },
+  {
+   "text": ";",
+   "conf": 0.0
+  },
+  {
+   "text": "ao",
+   "conf": 0.2
+  },
+  {
+   "text": "Receipt",
+   "conf": 0.89
+  },
+  {
+   "text": "#",
+   "conf": 0.12
+  },
+  {
+   "text": "©S00058574.",
+   "conf": 0.11
+  },
+  {
+   "text": "—dDate.",
+   "conf": 0.24
+  },
+  {
+   "text": "10/04/2017",
+   "conf": 0.96
+  },
+  {
+   "text": "Cashier",
+   "conf": 0.93
+  },
+  {
+   "text": "USER",
+   "conf": 0.96
+  },
+  {
+   "text": "Time.",
+   "conf": 0.34
+  },
+  {
+   "text": "15:23:00",
+   "conf": 0.34
+  },
+  {
+   "text": "Salesperson",
+   "conf": 0.96
+  },
+  {
+   "text": "Ret",
+   "conf": 0.96
+  },
+  {
+   "text": "Item",
+   "conf": 0.71
+  },
+  {
+   "text": "Qty",
+   "conf": 0.39
+  },
+  {
+   "text": "S$/Price",
+   "conf": 0.28
+  },
+  {
+   "text": "_Amount__Tax_",
+   "conf": 0.02
+  },
+  {
+   "text": "3474370026019",
+   "conf": 0.89
+  },
+  {
+   "text": "2",
+   "conf": 0.96
+  },
+  {
+   "text": "770",
+   "conf": 0.81
+  },
+  {
+   "text": "1540",
+   "conf": 0.93
+  },
+  {
+   "text": "SR",
+   "conf": 0.93
+  },
+  {
+   "text": "PENTELGORRECTIONPENTEMLZLC1-W",
+   "conf": 0.2
+  },
+  {
+   "text": "TORO",
+   "conf": 0.35
+  },
+  {
+   "text": "RY",
+   "conf": 0.35
+  },
+  {
+   "text": "22",
+   "conf": 0.51
+  },
+  {
+   "text": "=",
+   "conf": 0.48
+  },
+  {
+   "text": "eee",
+   "conf": 0.45
+  },
+  {
+   "text": "15.0",
+   "conf": 0.18
+  },
+  {
+   "text": "Total",
+   "conf": 0.96
+  },
+  {
+   "text": "Sales",
+   "conf": 0.96
+  },
+  {
+   "text": "(Excluding",
+   "conf": 0.95
+  },
+  {
+   "text": "GST»",
+   "conf": 0.41
+  },
+  {
+   "text": "14.53",
+   "conf": 0.94
+  },
+  {
+   "text": "f",
+   "conf": 0.76
+  },
+  {
+   "text": "Discoun",
+   "conf": 0.91
+  },
+  {
+   "text": "000",
+   "conf": 0.92
+  },
+  {
+   "text": "Total",
+   "conf": 0.95
+  },
+  {
+   "text": "GST",
+   "conf": 0.96
+  },
+  {
+   "text": "0.87",
+   "conf": 0.93
+  },
+  {
+   "text": "Rounding,",
+   "conf": 0.69
+  },
+  {
+   "text": "0.00",
+   "conf": 0.96
+  },
+  {
+   "text": "Total",
+   "conf": 0.96
+  },
+  {
+   "text": "Sales",
+   "conf": 0.96
+  },
+  {
+   "text": "(Inclusive",
+   "conf": 0.96
+  },
+  {
+   "text": "of",
+   "conf": 0.96
+  },
+  {
+   "text": "GST):",
+   "conf": 0.58
+  },
+  {
+   "text": "15.40",
+   "conf": 0.96
+  },
+  {
+   "text": ";",
+   "conf": 0.46
+  },
+  {
+   "text": "ea",
+   "conf": 0.45
+  },
+  {
+   "text": ":",
+   "conf": 0.75
+  },
+  {
+   "text": "59.00",
+   "conf": 0.17
+  },
+  {
+   "text": "‘s",
+   "conf": 0.08
+  },
+  {
+   "text": "Woted",
+   "conf": 0.1
+  },
+  {
+   "text": "sce",
+   "conf": 0.27
+  },
+  {
+   "text": "ae",
+   "conf": 0.18
+  },
+  {
+   "text": "uag",
+   "conf": 0.0
+  },
+  {
+   "text": "cof",
+   "conf": 0.0
+  },
+  {
+   "text": "-1]",
+   "conf": 0.0
+  },
+  {
+   "text": ":",
+   "conf": 0.0
+  },
+  {
+   "text": "eee.",
+   "conf": 0.32
+  },
+  {
+   "text": "34.60",
+   "conf": 0.95
+  },
+  {
+   "text": "ey",
+   "conf": 0.44
+  },
+  {
+   "text": "al",
+   "conf": 0.44
+  },
+  {
+   "text": "Os",
+   "conf": 0.45
+  },
+  {
+   "text": "=",
+   "conf": 0.58
+  },
+  {
+   "text": "2",
+   "conf": 0.4
+  },
+  {
+   "text": "REED",
+   "conf": 0.46
+  },
+  {
+   "text": "GSTSUMMARY——<“i‘SOS™S~™",
+   "conf": 0.0
+  },
+  {
+   "text": "Tax",
+   "conf": 0.95
+  },
+  {
+   "text": "Code",
+   "conf": 0.96
+  },
+  {
+   "text": "%",
+   "conf": 0.9
+  },
+  {
+   "text": "Amt",
+   "conf": 0.0
+  },
+  {
+   "text": "(RIM)",
+   "conf": 0.0
+  },
+  {
+   "text": "Tax",
+   "conf": 0.46
+  },
+  {
+   "text": "(RM)",
+   "conf": 0.9
+  },
+  {
+   "text": "i",
+   "conf": 0.36
+  },
+  {
+   "text": "SR",
+   "conf": 0.96
+  },
+  {
+   "text": "6",
+   "conf": 0.96
+  },
+  {
+   "text": "14.53",
+   "conf": 0.86
+  },
+  {
+   "text": "0.87",
+   "conf": 0.95
+  },
+  {
+   "text": "Total",
+   "conf": 0.96
+  },
+  {
+   "text": "14.63",
+   "conf": 0.66
+  },
+  {
+   "text": "0.87",
+   "conf": 0.95
+  },
+  {
+   "text": "GOODS",
+   "conf": 0.95
+  },
+  {
+   "text": "SOLD",
+   "conf": 0.96
+  },
+  {
+   "text": "ARE",
+   "conf": 0.96
+  },
+  {
+   "text": "NOT",
+   "conf": 0.95
+  },
+  {
+   "text": "RETURNABLE,",
+   "conf": 0.93
+  },
+  {
+   "text": "THANK",
+   "conf": 0.95
+  },
+  {
+   "text": "YOU",
+   "conf": 0.89
+  },
+  {
+   "text": "Ay",
+   "conf": 0.67
+  }
+ ],
+ "mean_conf": 0.6428,
+ "low_conf_share": 0.3917,
+ "latency_ms": 2486,
+ "fields": {
+  "company": "ARTRANGE STATIONERS PRINT SDN BHD",
+  "date": "2017-04-10",
+  "total": 15.4
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  15.4
+ ],
+ "key": "X51006401940"
+}

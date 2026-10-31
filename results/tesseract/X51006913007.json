@@ -1,0 +1,841 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "AST. ,",
+  "AFON CO. (M) BHD (126926-H)",
+  ", SRD FLR, AEON TAMAN MALURT SC — | |",
+  ". JLN JEJAKA, TAMAN MALURT .",
+  "a CHERAS, 55100 KUALA LUMPUR",
+  "GST ID : 002017394688 ,",
+  "OHOPPING HOURS ,",
+  ". SUN-THU: 1000 HRS - 2230 HRS |",
+  "FRI-SAT: 1000 HRS - 2300 HRS",
+  "VALUED CUSTOMER: 1170008317 :",
+  "Ix 000001048211 11,255R",
+  "NATUREL PREMIU",
+  "1x 000005043675 10,505R |",
+  "JOY DISHWASHIN :",
+  "1X 000001427416 45, 90SR",
+  "| 303027 COOK KN",
+  "6% Off @43,15 2.15",
+  "7 Ix 000006783617 4 597R",
+  "CED NATURAL HIM",
+  "Ix 000007787980 4 90SR ,",
+  "BL 50040 4 GALL",
+  "BA OTF @4,6] 0,29 |",
+  "1x 000004820628 12, 155R",
+  "KLEENEX FT SOF . )",
+  "Ix 000003596418 13.658R",
+  "ONWARDS TOM 8",
+  "sub~tota | 99,90 , ,",
+  "Tota] Sales Inc] GST 99,90",
+  "Total After Adj Inc] GST 99,90 .",
+  "CASH 100,00 |",
+  "Item Count 7 Change Amt 0.10 .",
+  "Invoice No: 2018052710100070177",
+  "GST Summary Amount Tax",
+  "SR @ 6% 89,92 5,39",
+  "ZR @ O% 4.59 0.00",
+  "Tota] 94 5] 5,39",
+  "27/05/2018 13:48 1010 007 0070177",
+  "0300892 PJ HANIF |",
+  "REGULAR STAMP(S) : 3 | | :",
+  "| BONUS STAMP(S) : 0. | ,",
+  "a TOTAL STAMP(S) : 3 | , )"
+ ],
+ "tokens": [
+  {
+   "text": "AST.",
+   "conf": 0.0
+  },
+  {
+   "text": ",",
+   "conf": 0.0
+  },
+  {
+   "text": "AFON",
+   "conf": 0.71
+  },
+  {
+   "text": "CO.",
+   "conf": 0.93
+  },
+  {
+   "text": "(M)",
+   "conf": 0.77
+  },
+  {
+   "text": "BHD",
+   "conf": 0.96
+  },
+  {
+   "text": "(126926-H)",
+   "conf": 0.78
+  },
+  {
+   "text": ",",
+   "conf": 0.0
+  },
+  {
+   "text": "SRD",
+   "conf": 0.78
+  },
+  {
+   "text": "FLR,",
+   "conf": 0.91
+  },
+  {
+   "text": "AEON",
+   "conf": 0.89
+  },
+  {
+   "text": "TAMAN",
+   "conf": 0.92
+  },
+  {
+   "text": "MALURT",
+   "conf": 0.9
+  },
+  {
+   "text": "SC",
+   "conf": 0.74
+  },
+  {
+   "text": "—",
+   "conf": 0.0
+  },
+  {
+   "text": "|",
+   "conf": 0.42
+  },
+  {
+   "text": "|",
+   "conf": 0.2
+  },
+  {
+   "text": ".",
+   "conf": 0.07
+  },
+  {
+   "text": "JLN",
+   "conf": 0.91
+  },
+  {
+   "text": "JEJAKA,",
+   "conf": 0.91
+  },
+  {
+   "text": "TAMAN",
+   "conf": 0.91
+  },
+  {
+   "text": "MALURT",
+   "conf": 0.39
+  },
+  {
+   "text": ".",
+   "conf": 0.48
+  },
+  {
+   "text": "a",
+   "conf": 0.07
+  },
+  {
+   "text": "CHERAS,",
+   "conf": 0.92
+  },
+  {
+   "text": "55100",
+   "conf": 0.96
+  },
+  {
+   "text": "KUALA",
+   "conf": 0.95
+  },
+  {
+   "text": "LUMPUR",
+   "conf": 0.95
+  },
+  {
+   "text": "GST",
+   "conf": 0.94
+  },
+  {
+   "text": "ID",
+   "conf": 0.89
+  },
+  {
+   "text": ":",
+   "conf": 0.57
+  },
+  {
+   "text": "002017394688",
+   "conf": 0.79
+  },
+  {
+   "text": ",",
+   "conf": 0.0
+  },
+  {
+   "text": "OHOPPING",
+   "conf": 0.67
+  },
+  {
+   "text": "HOURS",
+   "conf": 0.96
+  },
+  {
+   "text": ",",
+   "conf": 0.0
+  },
+  {
+   "text": ".",
+   "conf": 0.05
+  },
+  {
+   "text": "SUN-THU:",
+   "conf": 0.56
+  },
+  {
+   "text": "1000",
+   "conf": 0.56
+  },
+  {
+   "text": "HRS",
+   "conf": 0.92
+  },
+  {
+   "text": "-",
+   "conf": 0.48
+  },
+  {
+   "text": "2230",
+   "conf": 0.96
+  },
+  {
+   "text": "HRS",
+   "conf": 0.94
+  },
+  {
+   "text": "|",
+   "conf": 0.66
+  },
+  {
+   "text": "FRI-SAT:",
+   "conf": 0.5
+  },
+  {
+   "text": "1000",
+   "conf": 0.5
+  },
+  {
+   "text": "HRS",
+   "conf": 0.92
+  },
+  {
+   "text": "-",
+   "conf": 0.81
+  },
+  {
+   "text": "2300",
+   "conf": 0.96
+  },
+  {
+   "text": "HRS",
+   "conf": 0.79
+  },
+  {
+   "text": "VALUED",
+   "conf": 0.96
+  },
+  {
+   "text": "CUSTOMER:",
+   "conf": 0.95
+  },
+  {
+   "text": "1170008317",
+   "conf": 0.95
+  },
+  {
+   "text": ":",
+   "conf": 0.18
+  },
+  {
+   "text": "Ix",
+   "conf": 0.81
+  },
+  {
+   "text": "000001048211",
+   "conf": 0.81
+  },
+  {
+   "text": "11,255R",
+   "conf": 0.82
+  },
+  {
+   "text": "NATUREL",
+   "conf": 0.91
+  },
+  {
+   "text": "PREMIU",
+   "conf": 0.91
+  },
+  {
+   "text": "1x",
+   "conf": 0.9
+  },
+  {
+   "text": "000005043675",
+   "conf": 0.91
+  },
+  {
+   "text": "10,505R",
+   "conf": 0.52
+  },
+  {
+   "text": "|",
+   "conf": 0.61
+  },
+  {
+   "text": "JOY",
+   "conf": 0.92
+  },
+  {
+   "text": "DISHWASHIN",
+   "conf": 0.92
+  },
+  {
+   "text": ":",
+   "conf": 0.24
+  },
+  {
+   "text": "1X",
+   "conf": 0.91
+  },
+  {
+   "text": "000001427416",
+   "conf": 0.93
+  },
+  {
+   "text": "45,",
+   "conf": 0.57
+  },
+  {
+   "text": "90SR",
+   "conf": 0.57
+  },
+  {
+   "text": "|",
+   "conf": 0.54
+  },
+  {
+   "text": "303027",
+   "conf": 0.96
+  },
+  {
+   "text": "COOK",
+   "conf": 0.91
+  },
+  {
+   "text": "KN",
+   "conf": 0.96
+  },
+  {
+   "text": "6%",
+   "conf": 0.72
+  },
+  {
+   "text": "Off",
+   "conf": 0.89
+  },
+  {
+   "text": "@43,15",
+   "conf": 0.69
+  },
+  {
+   "text": "2.15",
+   "conf": 0.0
+  },
+  {
+   "text": "7",
+   "conf": 0.23
+  },
+  {
+   "text": "Ix",
+   "conf": 0.73
+  },
+  {
+   "text": "000006783617",
+   "conf": 0.91
+  },
+  {
+   "text": "4",
+   "conf": 0.53
+  },
+  {
+   "text": "597R",
+   "conf": 0.69
+  },
+  {
+   "text": "CED",
+   "conf": 0.96
+  },
+  {
+   "text": "NATURAL",
+   "conf": 0.95
+  },
+  {
+   "text": "HIM",
+   "conf": 0.95
+  },
+  {
+   "text": "Ix",
+   "conf": 0.86
+  },
+  {
+   "text": "000007787980",
+   "conf": 0.94
+  },
+  {
+   "text": "4",
+   "conf": 0.54
+  },
+  {
+   "text": "90SR",
+   "conf": 0.3
+  },
+  {
+   "text": ",",
+   "conf": 0.0
+  },
+  {
+   "text": "BL",
+   "conf": 0.94
+  },
+  {
+   "text": "50040",
+   "conf": 0.9
+  },
+  {
+   "text": "4",
+   "conf": 0.96
+  },
+  {
+   "text": "GALL",
+   "conf": 0.96
+  },
+  {
+   "text": "BA",
+   "conf": 0.52
+  },
+  {
+   "text": "OTF",
+   "conf": 0.83
+  },
+  {
+   "text": "@4,6]",
+   "conf": 0.65
+  },
+  {
+   "text": "0,29",
+   "conf": 0.15
+  },
+  {
+   "text": "|",
+   "conf": 0.48
+  },
+  {
+   "text": "1x",
+   "conf": 0.71
+  },
+  {
+   "text": "000004820628",
+   "conf": 0.95
+  },
+  {
+   "text": "12,",
+   "conf": 0.75
+  },
+  {
+   "text": "155R",
+   "conf": 0.5
+  },
+  {
+   "text": "KLEENEX",
+   "conf": 0.96
+  },
+  {
+   "text": "FT",
+   "conf": 0.92
+  },
+  {
+   "text": "SOF",
+   "conf": 0.95
+  },
+  {
+   "text": ".",
+   "conf": 0.32
+  },
+  {
+   "text": ")",
+   "conf": 0.0
+  },
+  {
+   "text": "Ix",
+   "conf": 0.9
+  },
+  {
+   "text": "000003596418",
+   "conf": 0.94
+  },
+  {
+   "text": "13.658R",
+   "conf": 0.2
+  },
+  {
+   "text": "ONWARDS",
+   "conf": 0.96
+  },
+  {
+   "text": "TOM",
+   "conf": 0.96
+  },
+  {
+   "text": "8",
+   "conf": 0.38
+  },
+  {
+   "text": "sub~tota",
+   "conf": 0.42
+  },
+  {
+   "text": "|",
+   "conf": 0.42
+  },
+  {
+   "text": "99,90",
+   "conf": 0.56
+  },
+  {
+   "text": ",",
+   "conf": 0.0
+  },
+  {
+   "text": ",",
+   "conf": 0.0
+  },
+  {
+   "text": "Tota]",
+   "conf": 0.87
+  },
+  {
+   "text": "Sales",
+   "conf": 0.95
+  },
+  {
+   "text": "Inc]",
+   "conf": 0.89
+  },
+  {
+   "text": "GST",
+   "conf": 0.94
+  },
+  {
+   "text": "99,90",
+   "conf": 0.77
+  },
+  {
+   "text": "Total",
+   "conf": 0.96
+  },
+  {
+   "text": "After",
+   "conf": 0.96
+  },
+  {
+   "text": "Adj",
+   "conf": 0.96
+  },
+  {
+   "text": "Inc]",
+   "conf": 0.81
+  },
+  {
+   "text": "GST",
+   "conf": 0.96
+  },
+  {
+   "text": "99,90",
+   "conf": 0.85
+  },
+  {
+   "text": ".",
+   "conf": 0.39
+  },
+  {
+   "text": "CASH",
+   "conf": 0.95
+  },
+  {
+   "text": "100,00",
+   "conf": 0.81
+  },
+  {
+   "text": "|",
+   "conf": 0.42
+  },
+  {
+   "text": "Item",
+   "conf": 0.86
+  },
+  {
+   "text": "Count",
+   "conf": 0.95
+  },
+  {
+   "text": "7",
+   "conf": 0.95
+  },
+  {
+   "text": "Change",
+   "conf": 0.95
+  },
+  {
+   "text": "Amt",
+   "conf": 0.95
+  },
+  {
+   "text": "0.10",
+   "conf": 0.56
+  },
+  {
+   "text": ".",
+   "conf": 0.0
+  },
+  {
+   "text": "Invoice",
+   "conf": 0.75
+  },
+  {
+   "text": "No:",
+   "conf": 0.93
+  },
+  {
+   "text": "2018052710100070177",
+   "conf": 0.9
+  },
+  {
+   "text": "GST",
+   "conf": 0.95
+  },
+  {
+   "text": "Summary",
+   "conf": 0.95
+  },
+  {
+   "text": "Amount",
+   "conf": 0.96
+  },
+  {
+   "text": "Tax",
+   "conf": 0.96
+  },
+  {
+   "text": "SR",
+   "conf": 0.73
+  },
+  {
+   "text": "@",
+   "conf": 0.8
+  },
+  {
+   "text": "6%",
+   "conf": 0.94
+  },
+  {
+   "text": "89,92",
+   "conf": 0.85
+  },
+  {
+   "text": "5,39",
+   "conf": 0.81
+  },
+  {
+   "text": "ZR",
+   "conf": 0.86
+  },
+  {
+   "text": "@",
+   "conf": 0.86
+  },
+  {
+   "text": "O%",
+   "conf": 0.85
+  },
+  {
+   "text": "4.59",
+   "conf": 0.75
+  },
+  {
+   "text": "0.00",
+   "conf": 0.87
+  },
+  {
+   "text": "Tota]",
+   "conf": 0.94
+  },
+  {
+   "text": "94",
+   "conf": 0.85
+  },
+  {
+   "text": "5]",
+   "conf": 0.61
+  },
+  {
+   "text": "5,39",
+   "conf": 0.68
+  },
+  {
+   "text": "27/05/2018",
+   "conf": 0.59
+  },
+  {
+   "text": "13:48",
+   "conf": 0.95
+  },
+  {
+   "text": "1010",
+   "conf": 0.96
+  },
+  {
+   "text": "007",
+   "conf": 0.95
+  },
+  {
+   "text": "0070177",
+   "conf": 0.95
+  },
+  {
+   "text": "0300892",
+   "conf": 0.93
+  },
+  {
+   "text": "PJ",
+   "conf": 0.8
+  },
+  {
+   "text": "HANIF",
+   "conf": 0.95
+  },
+  {
+   "text": "|",
+   "conf": 0.45
+  },
+  {
+   "text": "REGULAR",
+   "conf": 0.93
+  },
+  {
+   "text": "STAMP(S)",
+   "conf": 0.89
+  },
+  {
+   "text": ":",
+   "conf": 0.59
+  },
+  {
+   "text": "3",
+   "conf": 0.63
+  },
+  {
+   "text": "|",
+   "conf": 0.82
+  },
+  {
+   "text": "|",
+   "conf": 0.3
+  },
+  {
+   "text": ":",
+   "conf": 0.32
+  },
+  {
+   "text": "|",
+   "conf": 0.44
+  },
+  {
+   "text": "BONUS",
+   "conf": 0.92
+  },
+  {
+   "text": "STAMP(S)",
+   "conf": 0.81
+  },
+  {
+   "text": ":",
+   "conf": 0.65
+  },
+  {
+   "text": "0.",
+   "conf": 0.25
+  },
+  {
+   "text": "|",
+   "conf": 0.88
+  },
+  {
+   "text": ",",
+   "conf": 0.13
+  },
+  {
+   "text": "a",
+   "conf": 0.0
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.92
+  },
+  {
+   "text": "STAMP(S)",
+   "conf": 0.79
+  },
+  {
+   "text": ":",
+   "conf": 0.67
+  },
+  {
+   "text": "3",
+   "conf": 0.91
+  },
+  {
+   "text": "|",
+   "conf": 0.95
+  },
+  {
+   "text": ",",
+   "conf": 0.0
+  },
+  {
+   "text": ")",
+   "conf": 0.18
+  }
+ ],
+ "mean_conf": 0.6991,
+ "low_conf_share": 0.2165,
+ "latency_ms": 2214,
+ "fields": {
+  "company": "AFON CO BHD",
+  "date": "2018-05-27",
+  "total": 4.59
+ },
+ "rule_reasons": [
+  "total_no_keyword_fallback_max"
+ ],
+ "total_candidates": [
+  0.1,
+  4.59,
+  0.0
+ ],
+ "key": "X51006913007"
+}

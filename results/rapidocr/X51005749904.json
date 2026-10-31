@@ -1,0 +1,195 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "SWCENTERPRISE SDN RHD",
+  "(1125830-V)",
+  "28-G,Ground Floor",
+  "Jalan Dinar A U3/A",
+  "Tmn Subang Perdana, 40150",
+  "Shah Alam,Selangor.",
+  "TAX INVOICE",
+  "(GST ID No.:002017B08384)",
+  "06/03/2018 Cashier:123",
+  "20:05:56 No:0100122617",
+  "Item/Desc. 人 Price Amt.",
+  "TM621 1.5\"B/CAT NYLON",
+  "OLS23 B621-1 1 2.00 2.00",
+  "OPPTAPE1.5",
+  "OPPTAPE 1.5\" 1 2.00 2.00",
+  "Total Qty 2",
+  "TOTALAMOUNT 4.00",
+  "CASH 4.00",
+  "GST@ ImcndedIm Total 0.22",
+  "Fhank You !Please Come Again",
+  "Goods Sold Only Exchangable",
+  "Within J Days!",
+  "ypy"
+ ],
+ "tokens": [
+  {
+   "text": "SWCENTERPRISE SDN RHD",
+   "conf": 0.9540692113694691
+  },
+  {
+   "text": "(1125830-V)",
+   "conf": 0.9300210042433306
+  },
+  {
+   "text": "28-G,Ground Floor",
+   "conf": 0.9271745085716248
+  },
+  {
+   "text": "Jalan Dinar A U3/A",
+   "conf": 0.9492518338892195
+  },
+  {
+   "text": "Tmn Subang Perdana, 40150",
+   "conf": 0.9356706428527832
+  },
+  {
+   "text": "Shah Alam,Selangor.",
+   "conf": 0.9544484458471599
+  },
+  {
+   "text": "TAX INVOICE",
+   "conf": 0.9034293510697105
+  },
+  {
+   "text": "(GST ID No.:002017B08384)",
+   "conf": 0.8902869415283203
+  },
+  {
+   "text": "06/03/2018",
+   "conf": 0.9945468544960022
+  },
+  {
+   "text": "Cashier:123",
+   "conf": 0.9012708067893982
+  },
+  {
+   "text": "20:05:56",
+   "conf": 0.9909761548042297
+  },
+  {
+   "text": "No:0100122617",
+   "conf": 0.9909196404310373
+  },
+  {
+   "text": "Item/Desc.",
+   "conf": 0.9311079204082489
+  },
+  {
+   "text": "人",
+   "conf": 0.596985936164856
+  },
+  {
+   "text": "Price",
+   "conf": 0.973666536808014
+  },
+  {
+   "text": "Amt.",
+   "conf": 0.9578798115253448
+  },
+  {
+   "text": "TM621 1.5\"B/CAT NYLON",
+   "conf": 0.9440512628782363
+  },
+  {
+   "text": "OLS23 B621-1",
+   "conf": 0.9223369359970093
+  },
+  {
+   "text": "1",
+   "conf": 0.5812857747077942
+  },
+  {
+   "text": "2.00",
+   "conf": 0.9972916841506958
+  },
+  {
+   "text": "2.00",
+   "conf": 0.9977502077817917
+  },
+  {
+   "text": "OPPTAPE1.5",
+   "conf": 0.9358448505401611
+  },
+  {
+   "text": "OPPTAPE 1.5\"",
+   "conf": 0.8871878857413927
+  },
+  {
+   "text": "1",
+   "conf": 0.8911839127540588
+  },
+  {
+   "text": "2.00",
+   "conf": 0.9940557926893234
+  },
+  {
+   "text": "2.00",
+   "conf": 0.9479566067457199
+  },
+  {
+   "text": "Total Qty",
+   "conf": 0.97199813524882
+  },
+  {
+   "text": "2",
+   "conf": 0.9979186654090881
+  },
+  {
+   "text": "TOTALAMOUNT",
+   "conf": 0.9495870579372753
+  },
+  {
+   "text": "4.00",
+   "conf": 0.9897808879613876
+  },
+  {
+   "text": "CASH",
+   "conf": 0.9779033362865448
+  },
+  {
+   "text": "4.00",
+   "conf": 0.9555653035640717
+  },
+  {
+   "text": "0.22",
+   "conf": 0.9913700968027115
+  },
+  {
+   "text": "GST@ ImcndedIm Total",
+   "conf": 0.7755322054028511
+  },
+  {
+   "text": "Fhank You !Please Come Again",
+   "conf": 0.9457071657691684
+  },
+  {
+   "text": "Goods Sold Only Exchangable",
+   "conf": 0.9705827214099743
+  },
+  {
+   "text": "Within J Days!",
+   "conf": 0.9054285202707563
+  },
+  {
+   "text": "ypy",
+   "conf": 0.8045857548713684
+  }
+ ],
+ "mean_conf": 0.9241,
+ "low_conf_share": 0.0,
+ "latency_ms": 4297,
+ "fields": {
+  "company": "SWCENTERPRISE SDN RHD",
+  "date": "2018-03-06",
+  "total": 4.0
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  4.0
+ ],
+ "key": "X51005749904"
+}

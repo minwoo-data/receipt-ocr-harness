@@ -1,0 +1,155 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "China Restaurant",
+  "Ostwind",
+  "Lindengasse 24,1070 Wien",
+  "0043-015234182",
+  "Tisch:4",
+  "Datum:29-09-2016 22:19",
+  "1XMO Voeslauer Dhne 2.40",
+  "1XGT Gruner Tee 2.40",
+  "1xD5 Ma La Huo Guo Fen 3.10",
+  "XG10 Shui Zhui Ji Pan 12.50",
+  "1XH24 Gan Bian Si Ji Dou 9.50",
+  "3×81 Gekochter Reis",
+  "3x1.30 3.90",
+  "SUMME(EUR): 33.80",
+  "Herzlichen Dank fur Ihren Besuch!"
+ ],
+ "tokens": [
+  {
+   "text": "China Restaurant",
+   "conf": 0.987577810883522
+  },
+  {
+   "text": "Ostwind",
+   "conf": 0.9306082470076424
+  },
+  {
+   "text": "Lindengasse 24,1070 Wien",
+   "conf": 0.9368918314576149
+  },
+  {
+   "text": "0043-015234182",
+   "conf": 0.9977504653590066
+  },
+  {
+   "text": "Tisch:4",
+   "conf": 0.9509647744042533
+  },
+  {
+   "text": "Datum:29-09-2016 22:19",
+   "conf": 0.9633028317581523
+  },
+  {
+   "text": "1XMO",
+   "conf": 0.7280309051275253
+  },
+  {
+   "text": "Voeslauer Dhne",
+   "conf": 0.9205950094120843
+  },
+  {
+   "text": "2.40",
+   "conf": 0.9934803396463394
+  },
+  {
+   "text": "1XGT",
+   "conf": 0.9077266156673431
+  },
+  {
+   "text": "Gruner Tee",
+   "conf": 0.9720853984355926
+  },
+  {
+   "text": "2.40",
+   "conf": 0.9924227893352509
+  },
+  {
+   "text": "1xD5",
+   "conf": 0.8413872718811035
+  },
+  {
+   "text": "Ma La Huo Guo Fen",
+   "conf": 0.9562984249171089
+  },
+  {
+   "text": "3.10",
+   "conf": 0.9943738132715225
+  },
+  {
+   "text": "XG10",
+   "conf": 0.9130015820264816
+  },
+  {
+   "text": "Shui Zhui Ji Pan",
+   "conf": 0.9534962065517902
+  },
+  {
+   "text": "12.50",
+   "conf": 0.9882572174072266
+  },
+  {
+   "text": "1XH24",
+   "conf": 0.8756218373775482
+  },
+  {
+   "text": "Gan Bian Si Ji Dou",
+   "conf": 0.9359030458662245
+  },
+  {
+   "text": "9.50",
+   "conf": 0.9966110438108444
+  },
+  {
+   "text": "3×81",
+   "conf": 0.8695862591266632
+  },
+  {
+   "text": "Gekochter Reis",
+   "conf": 0.9693107392106738
+  },
+  {
+   "text": "3x1.30",
+   "conf": 0.9185467660427094
+  },
+  {
+   "text": "3.90",
+   "conf": 0.9966612458229065
+  },
+  {
+   "text": "SUMME(EUR):",
+   "conf": 0.9119466976685957
+  },
+  {
+   "text": "33.80",
+   "conf": 0.993839430809021
+  },
+  {
+   "text": "Herzlichen Dank fur Ihren Besuch!",
+   "conf": 0.9520086971196261
+  }
+ ],
+ "mean_conf": 0.941,
+ "low_conf_share": 0.0,
+ "latency_ms": 3574,
+ "fields": {
+  "company": "CHINA RESTAURANT",
+  "date": "2016-09-29",
+  "total": 33.8
+ },
+ "rule_reasons": [
+  "total_no_keyword_fallback_max"
+ ],
+ "total_candidates": [
+  2.4,
+  3.1,
+  12.5,
+  9.5,
+  1.3,
+  3.9,
+  33.8
+ ],
+ "key": "W0090_ab3fb6983146"
+}

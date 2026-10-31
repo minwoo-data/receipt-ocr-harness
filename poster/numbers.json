@@ -1,0 +1,318 @@
+{
+ "T1": {
+  "engine": "rapidocr",
+  "n": 300,
+  "date_total": 0.725752508361204,
+  "latency_ms_median": 4672,
+  "usd_per_1k": 0.0,
+  "company": 0.6233,
+  "date": 0.8633,
+  "total": 0.8261
+ },
+ "T2": {
+  "engine": "qwen",
+  "n": 127,
+  "date_total": 0.8015873015873016,
+  "latency_ms_median": 33322,
+  "usd_per_1k": 0.0,
+  "company": 0.874,
+  "date": 0.9449,
+  "total": 0.8492
+ },
+ "T3": {
+  "engine": "gemini-lite",
+  "n": 300,
+  "date_total": 0.9732441471571907,
+  "latency_ms_median": 1811,
+  "usd_per_1k": 0.535,
+  "company": 0.9067,
+  "date": 0.9833,
+  "total": 0.99
+ },
+ "T4": {
+  "engine": "gemini",
+  "n": 300,
+  "date_total": 0.979933110367893,
+  "latency_ms_median": 1859,
+  "usd_per_1k": 1.423,
+  "company": 0.9267,
+  "date": 0.99,
+  "total": 0.99
+ },
+ "policies": {
+  "all_local": {
+   "policy": "all_local",
+   "tau": 0.9,
+   "n": 300,
+   "auto_accept_share": 1.0,
+   "review_share": 0.0,
+   "tier_share": {
+    "T1": 1.0,
+    "T2": 0.0,
+    "T3": 0.0,
+    "T4": 0.0
+   },
+   "cloud_share": 0.0,
+   "accepted_money_precision": 0.7267,
+   "accepted_all3_precision": 0.4933,
+   "leak_share": 0.2733,
+   "cost_usd_per_1k": 0.0,
+   "costed_receipts": 300,
+   "latency_ms_median": 4672
+  },
+  "all_qwen": {
+   "policy": "all_qwen",
+   "tau": 0.9,
+   "n": 300,
+   "auto_accept_share": 0.4233,
+   "review_share": 0.5767,
+   "tier_share": {
+    "T1": 0.0,
+    "T2": 0.4233,
+    "T3": 0.0,
+    "T4": 0.0
+   },
+   "cloud_share": 0.0,
+   "accepted_money_precision": 0.8031,
+   "accepted_all3_precision": 0.7087,
+   "leak_share": 0.0833,
+   "cost_usd_per_1k": 0.0,
+   "costed_receipts": 127,
+   "latency_ms_median": 33322
+  },
+  "all_lite": {
+   "policy": "all_lite",
+   "tau": 0.9,
+   "n": 300,
+   "auto_accept_share": 1.0,
+   "review_share": 0.0,
+   "tier_share": {
+    "T1": 0.0,
+    "T2": 0.0,
+    "T3": 1.0,
+    "T4": 0.0
+   },
+   "cloud_share": 1.0,
+   "accepted_money_precision": 0.9733,
+   "accepted_all3_precision": 0.8867,
+   "leak_share": 0.0267,
+   "cost_usd_per_1k": 0.535,
+   "costed_receipts": 300,
+   "latency_ms_median": 1811
+  },
+  "all_strong": {
+   "policy": "all_strong",
+   "tau": 0.9,
+   "n": 300,
+   "auto_accept_share": 1.0,
+   "review_share": 0.0,
+   "tier_share": {
+    "T1": 0.0,
+    "T2": 0.0,
+    "T3": 0.0,
+    "T4": 1.0
+   },
+   "cloud_share": 1.0,
+   "accepted_money_precision": 0.98,
+   "accepted_all3_precision": 0.9067,
+   "leak_share": 0.02,
+   "cost_usd_per_1k": 1.423,
+   "costed_receipts": 300,
+   "latency_ms_median": 1859
+  },
+  "oracle": {
+   "policy": "oracle",
+   "tau": 0.9,
+   "n": 300,
+   "auto_accept_share": 1.0,
+   "review_share": 0.0,
+   "tier_share": {
+    "T1": 0.7267,
+    "T2": 0.0,
+    "T3": 0.2733,
+    "T4": 0.0
+   },
+   "cloud_share": 0.2733,
+   "accepted_money_precision": 0.9867,
+   "accepted_all3_precision": 0.7167,
+   "leak_share": 0.0133,
+   "cost_usd_per_1k": 0.146,
+   "costed_receipts": 300,
+   "latency_ms_median": 5007
+  },
+  "router": {
+   "policy": "router",
+   "tau": 0.9,
+   "n": 300,
+   "auto_accept_share": 1.0,
+   "review_share": 0.0,
+   "tier_share": {
+    "T1": 0.4367,
+    "T2": 0.0,
+    "T3": 0.5633,
+    "T4": 0.0
+   },
+   "cloud_share": 0.5633,
+   "accepted_money_precision": 0.9567,
+   "accepted_all3_precision": 0.8,
+   "leak_share": 0.0433,
+   "cost_usd_per_1k": 0.301,
+   "costed_receipts": 300,
+   "latency_ms_median": 5914
+  },
+  "harness": {
+   "policy": "harness",
+   "tau": 0.9,
+   "n": 300,
+   "auto_accept_share": 0.9567,
+   "review_share": 0.0433,
+   "tier_share": {
+    "T1": 0.4367,
+    "T2": 0.0,
+    "T3": 0.5167,
+    "T4": 0.0033
+   },
+   "cloud_share": 0.52,
+   "accepted_money_precision": 0.9686,
+   "accepted_all3_precision": 0.8188,
+   "leak_share": 0.03,
+   "cost_usd_per_1k": 0.369,
+   "costed_receipts": 300,
+   "latency_ms_median": 6040
+  },
+  "harness_ladder": {
+   "policy": "harness_ladder",
+   "tau": 0.9,
+   "n": 300,
+   "auto_accept_share": 0.9633,
+   "review_share": 0.0367,
+   "tier_share": {
+    "T1": 0.4367,
+    "T2": 0.16,
+    "T3": 0.3633,
+    "T4": 0.0033
+   },
+   "cloud_share": 0.3667,
+   "accepted_money_precision": 0.955,
+   "accepted_all3_precision": 0.8097,
+   "leak_share": 0.0433,
+   "cost_usd_per_1k": 0.274,
+   "costed_receipts": 300,
+   "latency_ms_median": 6058
+  },
+  "router_solo": {
+   "policy": "router_solo",
+   "tau": 0.9,
+   "n": 300,
+   "auto_accept_share": 1.0,
+   "review_share": 0.0,
+   "tier_share": {
+    "T1": 0.72,
+    "T2": 0.0,
+    "T3": 0.28,
+    "T4": 0.0
+   },
+   "cloud_share": 0.28,
+   "accepted_money_precision": 0.91,
+   "accepted_all3_precision": 0.69,
+   "leak_share": 0.09,
+   "cost_usd_per_1k": 0.15,
+   "costed_receipts": 300,
+   "latency_ms_median": 5007
+  },
+  "harness_solo": {
+   "policy": "harness_solo",
+   "tau": 0.9,
+   "n": 300,
+   "auto_accept_share": 0.9633,
+   "review_share": 0.0367,
+   "tier_share": {
+    "T1": 0.72,
+    "T2": 0.0,
+    "T3": 0.2433,
+    "T4": 0.0
+   },
+   "cloud_share": 0.2433,
+   "accepted_money_precision": 0.917,
+   "accepted_all3_precision": 0.7024,
+   "leak_share": 0.08,
+   "cost_usd_per_1k": 0.203,
+   "costed_receipts": 300,
+   "latency_ms_median": 5041
+  },
+  "harness_ladder_solo": {
+   "policy": "harness_ladder_solo",
+   "tau": 0.9,
+   "n": 300,
+   "auto_accept_share": 0.97,
+   "review_share": 0.03,
+   "tier_share": {
+    "T1": 0.72,
+    "T2": 0.08,
+    "T3": 0.17,
+    "T4": 0.0
+   },
+   "cloud_share": 0.17,
+   "accepted_money_precision": 0.9038,
+   "accepted_all3_precision": 0.6907,
+   "leak_share": 0.0933,
+   "cost_usd_per_1k": 0.151,
+   "costed_receipts": 300,
+   "latency_ms_median": 5041
+  }
+ },
+ "synth": {
+  "Date traps": {
+   "n": 10,
+   "fooled": 0,
+   "expected_fired": 10,
+   "leaked": 0
+  },
+  "Arithmetic traps": {
+   "n": 11,
+   "fooled": 1,
+   "expected_fired": 11,
+   "leaked": 0
+  },
+  "Injection, blatant": {
+   "n": 6,
+   "fooled": 0,
+   "expected_fired": 6,
+   "leaked": 0
+  },
+  "Injection, disguised": {
+   "n": 10,
+   "fooled": 0,
+   "expected_fired": 10,
+   "leaked": 0
+  },
+  "Controls": {
+   "n": 6,
+   "fooled": 0,
+   "expected_fired": 6,
+   "leaked": 0
+  }
+ },
+ "retry": {
+  "engine": "gemini-lite",
+  "n_flagged": 20,
+  "blind": {
+   "n": 20,
+   "fixed": 0,
+   "broke": 1,
+   "unchanged_wrong": 5,
+   "kept_retry": 0,
+   "kept_ok": 15,
+   "flags_cleared": 0
+  },
+  "guided": {
+   "n": 20,
+   "fixed": 1,
+   "broke": 1,
+   "unchanged_wrong": 4,
+   "kept_retry": 4,
+   "kept_ok": 16,
+   "flags_cleared": 4
+  }
+ }
+}

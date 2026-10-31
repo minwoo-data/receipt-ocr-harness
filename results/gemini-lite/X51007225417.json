@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.1-flash-lite",
+ "provider": "gemini",
+ "raw_text": "{\n  \"vendor\": \"ENW Hardware Centre (M) Sdn. Bhd.\",\n  \"date\": \"2018-04-09\",\n  \"subtotal\": 48.10,\n  \"tax\": 2.90,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 51.00,\n  \"currency\": \"MYR\",\n  \"confidence\": 0.98,\n  \"notes\": null\n}",
+ "data": {
+  "vendor": "ENW Hardware Centre (M) Sdn. Bhd.",
+  "date": "2018-04-09",
+  "subtotal": 48.1,
+  "tax": 2.9,
+  "tip": null,
+  "discount": null,
+  "total": 51.0,
+  "currency": "MYR",
+  "confidence": 0.98,
+  "notes": null
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1469,
+  "output_tokens": 113,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.000537,
+ "latency_ms": 2000,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.1-flash-lite",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.1-flash-lite"
+ ],
+ "key": "X51007225417"
+}

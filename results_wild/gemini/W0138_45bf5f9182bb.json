@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.6-flash",
+ "provider": "gemini",
+ "raw_text": "{\"vendor\": \"The Westin Detroit Metropolitan Airport Reflections\", \"date\": \"2016-10-23\", \"subtotal\": 51.0, \"tax\": 3.06, \"tip\": null, \"discount\": null, \"total\": 54.06, \"currency\": \"USD\", \"confidence\": 0.95, \"notes\": null}",
+ "data": {
+  "vendor": "The Westin Detroit Metropolitan Airport Reflections",
+  "date": "2016-10-23",
+  "subtotal": 51.0,
+  "tax": 3.06,
+  "tip": null,
+  "discount": null,
+  "total": 54.06,
+  "currency": "USD",
+  "confidence": 0.95,
+  "notes": null
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1458,
+  "output_tokens": 86,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.001416,
+ "latency_ms": 1522,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.6-flash",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.6-flash"
+ ],
+ "key": "W0138_45bf5f9182bb"
+}

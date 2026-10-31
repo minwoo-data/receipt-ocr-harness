@@ -1,0 +1,194 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "Guardian Health And Heauty Sdn Bhd",
+  "Bandar Baru Rawang",
+  "No 15 Jalan Bandar Rawang 10",
+  "Bandar Baru Rawang",
+  "lel:03-60952052",
+  "Lompany Reg #101085-1",
+  "RM",
+  "121062680 100 HLUS 500ML 2.285",
+  "R7.'7",
+  "IUIAL （GSI INUL) 2.28",
+  "LASH 5.00",
+  "RUUNDING ADJUSIMENIS 0.02",
+  "LHANGE DUE 0.70",
+  "bSl-Rate HSIEXCI-GSIAmt",
+  "6% 2.15 0.15",
+  "lhank You For Shoppin9",
+  "At Guardian",
+  "ALl Amounts Are in RM",
+  "Goods sold are non-retundable",
+  "Dispensed medicines sold are",
+  "not returnable.",
+  "All exchanges and returns including",
+  "Guardian brand products must be made",
+  "Within Ydays with original receipts and",
+  "product in original condition.",
+  "St:8282Ltr21D:20551ax1nv:21777",
+  "17:45 18/05/18"
+ ],
+ "tokens": [
+  {
+   "text": "Guardian Health And Heauty Sdn Bhd",
+   "conf": 0.9205926551538355
+  },
+  {
+   "text": "Bandar Baru Rawang",
+   "conf": 0.9494845039314694
+  },
+  {
+   "text": "No 15 Jalan Bandar Rawang 10",
+   "conf": 0.9313113668135234
+  },
+  {
+   "text": "Bandar Baru Rawang",
+   "conf": 0.924070441060596
+  },
+  {
+   "text": "lel:03-60952052",
+   "conf": 0.924776021639506
+  },
+  {
+   "text": "Lompany Reg #101085-1",
+   "conf": 0.8224258621533712
+  },
+  {
+   "text": "RM",
+   "conf": 0.7586604654788971
+  },
+  {
+   "text": "121062680 100 HLUS 500ML",
+   "conf": 0.8936137470106283
+  },
+  {
+   "text": "2.285",
+   "conf": 0.8785179853439331
+  },
+  {
+   "text": "R7.'7",
+   "conf": 0.6519020974636078
+  },
+  {
+   "text": "IUIAL （GSI INUL)",
+   "conf": 0.7961066085845232
+  },
+  {
+   "text": "2.28",
+   "conf": 0.9812751859426498
+  },
+  {
+   "text": "LASH",
+   "conf": 0.9739951938390732
+  },
+  {
+   "text": "5.00",
+   "conf": 0.9294985830783844
+  },
+  {
+   "text": "RUUNDING ADJUSIMENIS",
+   "conf": 0.971676179766655
+  },
+  {
+   "text": "0.02",
+   "conf": 0.9975473284721375
+  },
+  {
+   "text": "LHANGE DUE",
+   "conf": 0.9115194857120514
+  },
+  {
+   "text": "0.70",
+   "conf": 0.9902826100587845
+  },
+  {
+   "text": "bSl-Rate",
+   "conf": 0.8230463080108166
+  },
+  {
+   "text": "HSIEXCI-GSIAmt",
+   "conf": 0.6788022901330676
+  },
+  {
+   "text": "6%",
+   "conf": 0.9750522673130035
+  },
+  {
+   "text": "2.15",
+   "conf": 0.9963969886302948
+  },
+  {
+   "text": "0.15",
+   "conf": 0.8906912803649902
+  },
+  {
+   "text": "lhank You For Shoppin9",
+   "conf": 0.8806060688062147
+  },
+  {
+   "text": "At Guardian",
+   "conf": 0.9002698009664362
+  },
+  {
+   "text": "ALl Amounts Are in RM",
+   "conf": 0.8776633597555614
+  },
+  {
+   "text": "Goods sold are non-retundable",
+   "conf": 0.9277769594356932
+  },
+  {
+   "text": "Dispensed medicines sold are",
+   "conf": 0.9437268504074642
+  },
+  {
+   "text": "not returnable.",
+   "conf": 0.962233591079712
+  },
+  {
+   "text": "All exchanges and returns including",
+   "conf": 0.9186481288501195
+  },
+  {
+   "text": "Guardian brand products must be made",
+   "conf": 0.9331411951118045
+  },
+  {
+   "text": "Within Ydays with original receipts and",
+   "conf": 0.9137911200523376
+  },
+  {
+   "text": "product in original condition.",
+   "conf": 0.9333102226257324
+  },
+  {
+   "text": "St:8282Ltr21D:20551ax1nv:21777",
+   "conf": 0.9021576503912608
+  },
+  {
+   "text": "17:45",
+   "conf": 0.9752390146255493
+  },
+  {
+   "text": "18/05/18",
+   "conf": 0.8812633231282234
+  }
+ ],
+ "mean_conf": 0.9034,
+ "low_conf_share": 0.0,
+ "latency_ms": 4820,
+ "fields": {
+  "company": "GUARDIAN HEALTH AND HEAUTY SDN BHD",
+  "date": "2018-05-18",
+  "total": 2.15
+ },
+ "rule_reasons": [
+  "total_no_keyword_fallback_max"
+ ],
+ "total_candidates": [
+  2.15,
+  0.15
+ ],
+ "key": "X51006867435"
+}

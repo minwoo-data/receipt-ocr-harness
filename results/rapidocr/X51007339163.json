@@ -1,0 +1,283 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "SANYUSTATIONERYSHOP",
+  "NO.31G&33G,JALAN SETIAINDAHX,U13/X",
+  "40170SETIAALAM",
+  "Mobile/Whatsapps:+6012-9187937",
+  "Tel:+603-33624137",
+  "GSTIDNo:001531760640 TAX INVOICE",
+  "Owned By:",
+  "SANYUSUPPLYSDNBHD(1135772-K)",
+  "CASHSALESCOUNTER",
+  "1.5000-0003 PHOTOCOPYNRIC-A4SIZE",
+  "DOUBLE SIDE",
+  "1X0.3000 0.30 SR",
+  "2.5000-0001 PHOTOCOPYSERVICES-A4",
+  "SIZE",
+  "101X0.0850 8.59 SR",
+  "3.9100-0007 CUTTINGCHARGES",
+  "1X2.0000 2.00 SR",
+  "Total SalesInclusiveGST@6% 10.89",
+  "Discount 0.00",
+  "Total 10.89",
+  "Round Adj 0.01",
+  "Final Total 10.90",
+  "CASH 20.00",
+  "CHANGE 9.10",
+  "GST Summary Amount(RM) Tax(RM)",
+  "SR @ 6% 10.27 0.62",
+  "INVNO:CS-SA-0126340 Date:23/11/2017",
+  "Goodssold arenotReturnable&Refundable",
+  "THANKYOUFORYOURPATRONAGE",
+  "PLEASECOMEAGAIN.",
+  "TERIMAKASIHSILADATANGLAGI",
+  "**PLEASEKEEPTHISRECEIPTFOR PROVE OF",
+  "PURCHASEDATEFORI.TPRODUCTWARRANTY",
+  "PURPOSE**",
+  "FollowusinFacebook:Sanyu.Stationery"
+ ],
+ "tokens": [
+  {
+   "text": "SANYUSTATIONERYSHOP",
+   "conf": 0.9900934602084913
+  },
+  {
+   "text": "NO.31G&33G,JALAN SETIAINDAHX,U13/X",
+   "conf": 0.9433744444566614
+  },
+  {
+   "text": "40170SETIAALAM",
+   "conf": 0.9878002958638328
+  },
+  {
+   "text": "Mobile/Whatsapps:+6012-9187937",
+   "conf": 0.9874101678530375
+  },
+  {
+   "text": "Tel:+603-33624137",
+   "conf": 0.9924922199810252
+  },
+  {
+   "text": "GSTIDNo:001531760640",
+   "conf": 0.986478278040886
+  },
+  {
+   "text": "TAX INVOICE",
+   "conf": 0.9817323305390098
+  },
+  {
+   "text": "Owned By:",
+   "conf": 0.9650846587287055
+  },
+  {
+   "text": "SANYUSUPPLYSDNBHD(1135772-K)",
+   "conf": 0.9706210110868726
+  },
+  {
+   "text": "CASHSALESCOUNTER",
+   "conf": 0.9912803322076797
+  },
+  {
+   "text": "1.5000-0003",
+   "conf": 0.9983996694738214
+  },
+  {
+   "text": "PHOTOCOPYNRIC-A4SIZE",
+   "conf": 0.9864076912403107
+  },
+  {
+   "text": "DOUBLE SIDE",
+   "conf": 0.9493917145512321
+  },
+  {
+   "text": "1X0.3000",
+   "conf": 0.9777885377407074
+  },
+  {
+   "text": "0.30",
+   "conf": 0.9991026669740677
+  },
+  {
+   "text": "SR",
+   "conf": 0.9950257539749146
+  },
+  {
+   "text": "2.5000-0001",
+   "conf": 0.9984577894210815
+  },
+  {
+   "text": "PHOTOCOPYSERVICES-A4",
+   "conf": 0.9919853150844574
+  },
+  {
+   "text": "SIZE",
+   "conf": 0.9950337260961533
+  },
+  {
+   "text": "101X0.0850",
+   "conf": 0.9758532702922821
+  },
+  {
+   "text": "8.59",
+   "conf": 0.9987800717353821
+  },
+  {
+   "text": "SR",
+   "conf": 0.9940505623817444
+  },
+  {
+   "text": "3.9100-0007",
+   "conf": 0.9975175694985823
+  },
+  {
+   "text": "CUTTINGCHARGES",
+   "conf": 0.9922189882823399
+  },
+  {
+   "text": "1X2.0000",
+   "conf": 0.9856587871909142
+  },
+  {
+   "text": "2.00",
+   "conf": 0.9991832226514816
+  },
+  {
+   "text": "SR",
+   "conf": 0.9929271936416626
+  },
+  {
+   "text": "Total SalesInclusiveGST@6%",
+   "conf": 0.9779369831085205
+  },
+  {
+   "text": "10.89",
+   "conf": 0.999009108543396
+  },
+  {
+   "text": "Discount",
+   "conf": 0.9952499121427536
+  },
+  {
+   "text": "0.00",
+   "conf": 0.999005138874054
+  },
+  {
+   "text": "Total",
+   "conf": 0.9950106739997864
+  },
+  {
+   "text": "10.89",
+   "conf": 0.9993899822235107
+  },
+  {
+   "text": "Round Adj",
+   "conf": 0.9908204939630296
+  },
+  {
+   "text": "0.01",
+   "conf": 0.9985424727201462
+  },
+  {
+   "text": "Final Total",
+   "conf": 0.9751749688928778
+  },
+  {
+   "text": "10.90",
+   "conf": 0.9993514776229858
+  },
+  {
+   "text": "CASH",
+   "conf": 0.9955726116895676
+  },
+  {
+   "text": "20.00",
+   "conf": 0.9996861100196839
+  },
+  {
+   "text": "CHANGE",
+   "conf": 0.9919898211956024
+  },
+  {
+   "text": "9.10",
+   "conf": 0.9992352724075317
+  },
+  {
+   "text": "GST Summary",
+   "conf": 0.9879779598929666
+  },
+  {
+   "text": "Amount(RM)",
+   "conf": 0.9871038734912873
+  },
+  {
+   "text": "Tax(RM)",
+   "conf": 0.9469565153121948
+  },
+  {
+   "text": "SR @ 6%",
+   "conf": 0.952839161668505
+  },
+  {
+   "text": "10.27",
+   "conf": 0.9989095807075501
+  },
+  {
+   "text": "0.62",
+   "conf": 0.9990373998880386
+  },
+  {
+   "text": "INVNO:CS-SA-0126340",
+   "conf": 0.9911097131277385
+  },
+  {
+   "text": "Date:23/11/2017",
+   "conf": 0.9894530653953553
+  },
+  {
+   "text": "Goodssold arenotReturnable&Refundable",
+   "conf": 0.9800032860523945
+  },
+  {
+   "text": "THANKYOUFORYOURPATRONAGE",
+   "conf": 0.9928127552072207
+  },
+  {
+   "text": "PLEASECOMEAGAIN.",
+   "conf": 0.9836343228816986
+  },
+  {
+   "text": "TERIMAKASIHSILADATANGLAGI",
+   "conf": 0.9678825211524963
+  },
+  {
+   "text": "**PLEASEKEEPTHISRECEIPTFOR PROVE OF",
+   "conf": 0.9318231190953936
+  },
+  {
+   "text": "PURCHASEDATEFORI.TPRODUCTWARRANTY",
+   "conf": 0.9797311461333073
+  },
+  {
+   "text": "PURPOSE**",
+   "conf": 0.9903319875399271
+  },
+  {
+   "text": "FollowusinFacebook:Sanyu.Stationery",
+   "conf": 0.9915684631892613
+  }
+ ],
+ "mean_conf": 0.9862,
+ "low_conf_share": 0.0,
+ "latency_ms": 4646,
+ "fields": {
+  "company": "SANYUSTATIONERYSHOP",
+  "date": "2017-11-23",
+  "total": 10.89
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  10.89
+ ],
+ "key": "X51007339163"
+}

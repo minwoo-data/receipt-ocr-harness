@@ -1,0 +1,168 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "pi “Philippine Pizza Thc. —",
+  "TAXED: TINH200-741-954-z03yaT",
+  "POSID: CYBFika100SoO22 ae",
+  "Type ests: 1 Tableal i",
+  "15 LENONATE 59.00 59.00",
+  "umber items ‘ o ae 00",
+  "Paid By. 2 CASH",
+  "is a ee a ‘"
+ ],
+ "tokens": [
+  {
+   "text": "pi",
+   "conf": 0.49
+  },
+  {
+   "text": "“Philippine",
+   "conf": 0.82
+  },
+  {
+   "text": "Pizza",
+   "conf": 0.78
+  },
+  {
+   "text": "Thc.",
+   "conf": 0.71
+  },
+  {
+   "text": "—",
+   "conf": 0.55
+  },
+  {
+   "text": "TAXED:",
+   "conf": 0.0
+  },
+  {
+   "text": "TINH200-741-954-z03yaT",
+   "conf": 0.18
+  },
+  {
+   "text": "POSID:",
+   "conf": 0.7
+  },
+  {
+   "text": "CYBFika100SoO22",
+   "conf": 0.0
+  },
+  {
+   "text": "ae",
+   "conf": 0.28
+  },
+  {
+   "text": "Type",
+   "conf": 0.79
+  },
+  {
+   "text": "ests:",
+   "conf": 0.83
+  },
+  {
+   "text": "1",
+   "conf": 0.85
+  },
+  {
+   "text": "Tableal",
+   "conf": 0.32
+  },
+  {
+   "text": "i",
+   "conf": 0.53
+  },
+  {
+   "text": "15",
+   "conf": 0.31
+  },
+  {
+   "text": "LENONATE",
+   "conf": 0.78
+  },
+  {
+   "text": "59.00",
+   "conf": 0.86
+  },
+  {
+   "text": "59.00",
+   "conf": 0.64
+  },
+  {
+   "text": "umber",
+   "conf": 0.0
+  },
+  {
+   "text": "items",
+   "conf": 0.26
+  },
+  {
+   "text": "‘",
+   "conf": 0.31
+  },
+  {
+   "text": "o",
+   "conf": 0.21
+  },
+  {
+   "text": "ae",
+   "conf": 0.28
+  },
+  {
+   "text": "00",
+   "conf": 0.31
+  },
+  {
+   "text": "Paid",
+   "conf": 0.59
+  },
+  {
+   "text": "By.",
+   "conf": 0.77
+  },
+  {
+   "text": "2",
+   "conf": 0.14
+  },
+  {
+   "text": "CASH",
+   "conf": 0.26
+  },
+  {
+   "text": "is",
+   "conf": 0.25
+  },
+  {
+   "text": "a",
+   "conf": 0.07
+  },
+  {
+   "text": "ee",
+   "conf": 0.12
+  },
+  {
+   "text": "a",
+   "conf": 0.05
+  },
+  {
+   "text": "‘",
+   "conf": 0.61
+  }
+ ],
+ "mean_conf": 0.4309,
+ "low_conf_share": 0.5588,
+ "latency_ms": 674,
+ "fields": {
+  "company": "PI PHILIPPINE PIZZA THC",
+  "date": null,
+  "total": 59.0
+ },
+ "rule_reasons": [
+  "date_not_found",
+  "total_no_keyword_fallback_max"
+ ],
+ "total_candidates": [
+  59.0,
+  59.0
+ ],
+ "key": "W0165_7e94ad8e6555"
+}

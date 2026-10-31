@@ -1,0 +1,176 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "Corner Bakery Cafe#1516",
+  "610Foothi11Blvd",
+  "SaltLake.City.UI.84113",
+  "（801）583-2000",
+  "Dine In#80",
+  "8/13/2017 1:32:48PM",
+  "Order256469 Cashier:Brianna R",
+  "1Chicken Berry Pecan Salad 8.99",
+  "1Classic Caesar,Entree 5.99",
+  "SubTotal 14.98",
+  "Tax 1.18",
+  "*WIN$1000*",
+  "Tellus ho e're doing",
+  "V1sitwww.cafafeedback.con",
+  "orca11866-306-6162",
+  "w1thin 72hoursandyou could",
+  "win our monthly draning.",
+  "Code:15166469021",
+  "Total 16.16",
+  "Cash 20.00",
+  "Change 3.84",
+  "Cornar Bakeny、Corporate Off1ce",
+  "（600）309-464",
+  "Vis1t us at:wuw.CornerBakaryCafe.com"
+ ],
+ "tokens": [
+  {
+   "text": "Corner Bakery Cafe#1516",
+   "conf": 0.9263596612474193
+  },
+  {
+   "text": "610Foothi11Blvd",
+   "conf": 0.8719305316607158
+  },
+  {
+   "text": "SaltLake.City.UI.84113",
+   "conf": 0.8541784408417615
+  },
+  {
+   "text": "（801）583-2000",
+   "conf": 0.9030880240293649
+  },
+  {
+   "text": "Dine In#80",
+   "conf": 0.9289364218711853
+  },
+  {
+   "text": "8/13/2017",
+   "conf": 0.989252143436008
+  },
+  {
+   "text": "1:32:48PM",
+   "conf": 0.9616561664475335
+  },
+  {
+   "text": "Order256469",
+   "conf": 0.9297889037565752
+  },
+  {
+   "text": "Cashier:Brianna R",
+   "conf": 0.9136079970528098
+  },
+  {
+   "text": "1Chicken Berry Pecan Salad",
+   "conf": 0.9603410707070277
+  },
+  {
+   "text": "8.99",
+   "conf": 0.9903364330530167
+  },
+  {
+   "text": "1Classic Caesar,Entree",
+   "conf": 0.918821015141227
+  },
+  {
+   "text": "5.99",
+   "conf": 0.99588842689991
+  },
+  {
+   "text": "SubTotal",
+   "conf": 0.948455810546875
+  },
+  {
+   "text": "14.98",
+   "conf": 0.9910410284996033
+  },
+  {
+   "text": "Tax",
+   "conf": 0.9784929553667704
+  },
+  {
+   "text": "1.18",
+   "conf": 0.9915866404771805
+  },
+  {
+   "text": "*WIN$1000*",
+   "conf": 0.9082435309886933
+  },
+  {
+   "text": "Tellus ho e're doing",
+   "conf": 0.8451239973306656
+  },
+  {
+   "text": "V1sitwww.cafafeedback.con",
+   "conf": 0.8191858744621277
+  },
+  {
+   "text": "w1thin 72hoursandyou could",
+   "conf": 0.8935495500381176
+  },
+  {
+   "text": "orca11866-306-6162",
+   "conf": 0.982703642712699
+  },
+  {
+   "text": "win our monthly draning.",
+   "conf": 0.8949306483070055
+  },
+  {
+   "text": "Code:15166469021",
+   "conf": 0.9260240644216537
+  },
+  {
+   "text": "Total",
+   "conf": 0.9913148522377014
+  },
+  {
+   "text": "16.16",
+   "conf": 0.9941803693771363
+  },
+  {
+   "text": "Cash",
+   "conf": 0.9838158935308456
+  },
+  {
+   "text": "20.00",
+   "conf": 0.9463679671287537
+  },
+  {
+   "text": "Change",
+   "conf": 0.9915045301119486
+  },
+  {
+   "text": "3.84",
+   "conf": 0.8577981069684029
+  },
+  {
+   "text": "Cornar Bakeny、Corporate Off1ce",
+   "conf": 0.8417774846156438
+  },
+  {
+   "text": "Vis1t us at:wuw.CornerBakaryCafe.com",
+   "conf": 0.8723986223340034
+  },
+  {
+   "text": "（600）309-464",
+   "conf": 0.9336601595083872
+  }
+ ],
+ "mean_conf": 0.9314,
+ "low_conf_share": 0.0,
+ "latency_ms": 4685,
+ "fields": {
+  "company": "CORNER BAKERY CAFE 1516",
+  "date": "2017-08-13",
+  "total": 16.16
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  16.16
+ ],
+ "key": "W0044_1bf2033b7222"
+}

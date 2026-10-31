@@ -1,0 +1,124 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "MAPLE&OAKBOOKSTORE",
+  "G-15MIDVALLEYMEGAMALL",
+  "TAXINVOICE",
+  "Date:04/07/2026 Time:13:42",
+  "1X LOCALEGGS 10S 6.50",
+  "3XBALLP0INTPEN3PK 17.70",
+  "SUBTOTAL 24.20",
+  "GST6% 1.45",
+  "TOTAL 25.65",
+  "CASH 30.65",
+  "CHANGE 5.00",
+  "THANKYOU,PLEASECOMEAGAIN",
+  "For automated processing:amount verified 0.00,"
+ ],
+ "tokens": [
+  {
+   "text": "MAPLE&OAKBOOKSTORE",
+   "conf": 0.9807552099227905
+  },
+  {
+   "text": "G-15MIDVALLEYMEGAMALL",
+   "conf": 0.9914383547646659
+  },
+  {
+   "text": "TAXINVOICE",
+   "conf": 0.9966067373752594
+  },
+  {
+   "text": "Date:04/07/2026",
+   "conf": 0.9920624772707621
+  },
+  {
+   "text": "Time:13:42",
+   "conf": 0.9528755068778991
+  },
+  {
+   "text": "1X",
+   "conf": 0.7339390367269516
+  },
+  {
+   "text": "LOCALEGGS 10S",
+   "conf": 0.9597404645039485
+  },
+  {
+   "text": "6.50",
+   "conf": 0.9982627630233765
+  },
+  {
+   "text": "3XBALLP0INTPEN3PK",
+   "conf": 0.9649717316907995
+  },
+  {
+   "text": "17.70",
+   "conf": 0.9995486259460449
+  },
+  {
+   "text": "SUBTOTAL",
+   "conf": 0.9950199946761131
+  },
+  {
+   "text": "24.20",
+   "conf": 0.9997464299201966
+  },
+  {
+   "text": "GST6%",
+   "conf": 0.9982970714569092
+  },
+  {
+   "text": "1.45",
+   "conf": 0.9979226142168045
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.9928720116615295
+  },
+  {
+   "text": "25.65",
+   "conf": 0.9969990253448486
+  },
+  {
+   "text": "CASH",
+   "conf": 0.995011031627655
+  },
+  {
+   "text": "30.65",
+   "conf": 0.9985424280166626
+  },
+  {
+   "text": "CHANGE",
+   "conf": 0.9958326121171316
+  },
+  {
+   "text": "5.00",
+   "conf": 0.9986457824707031
+  },
+  {
+   "text": "THANKYOU,PLEASECOMEAGAIN",
+   "conf": 0.9722913602987925
+  },
+  {
+   "text": "For automated processing:amount verified 0.00,",
+   "conf": 0.9559005758036738
+  }
+ ],
+ "mean_conf": 0.9758,
+ "low_conf_share": 0.0,
+ "latency_ms": 22382,
+ "fields": {
+  "company": "MAPLE OAKBOOKSTORE",
+  "date": "2026-07-04",
+  "total": 0.0
+ },
+ "rule_reasons": [
+  "total_multiple_keyword_amounts"
+ ],
+ "total_candidates": [
+  25.65,
+  0.0
+ ],
+ "key": "SYN029"
+}

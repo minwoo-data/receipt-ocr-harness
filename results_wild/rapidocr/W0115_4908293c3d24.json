@@ -1,0 +1,158 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "WHOPPER",
+  "BURGERKNG RATIS",
+  "GRATIS Guarda LARGO COCCO GRIFFI13",
+  "P.IVA：02108110509 56122PISA（PI) DETTACUI",
+  "CASSA1 RODELLO SCONTRINO",
+  "EURO",
+  "MHOPPER 4,40",
+  "REGULARCOKE 2,20",
+  "SUBTOTALE Entra nel s6.60",
+  "TOTALEURO bkitalia-cliento,bom",
+  "CONTANTE 20,00",
+  "RESTO 13,40",
+  "ENJOYYOUR HEALIN BURGERKING",
+  "19457",
+  "ntrin WHOPPER WHOPPE",
+  "18-05-14 13:07 FEGRATIS"
+ ],
+ "tokens": [
+  {
+   "text": "GRATIS Guarda",
+   "conf": 0.9596153085048382
+  },
+  {
+   "text": "WHOPPER",
+   "conf": 0.9948988897459847
+  },
+  {
+   "text": "BURGERKNG RATIS",
+   "conf": 0.7437161962191264
+  },
+  {
+   "text": "LARGO COCCO GRIFFI13",
+   "conf": 0.9457264453172683
+  },
+  {
+   "text": "56122PISA（PI)",
+   "conf": 0.9252930008448087
+  },
+  {
+   "text": "P.IVA：02108110509",
+   "conf": 0.9588917178266189
+  },
+  {
+   "text": "DETTACUI",
+   "conf": 0.8304527178406715
+  },
+  {
+   "text": "CASSA1",
+   "conf": 0.966375877459844
+  },
+  {
+   "text": "RODELLO SCONTRINO",
+   "conf": 0.9483224083395565
+  },
+  {
+   "text": "EURO",
+   "conf": 0.9860143512487411
+  },
+  {
+   "text": "MHOPPER",
+   "conf": 0.8358363253729684
+  },
+  {
+   "text": "4,40",
+   "conf": 0.9142364263534546
+  },
+  {
+   "text": "REGULARCOKE",
+   "conf": 0.9881655411286787
+  },
+  {
+   "text": "2,20",
+   "conf": 0.9248024672269821
+  },
+  {
+   "text": "SUBTOTALE",
+   "conf": 0.9956090185377333
+  },
+  {
+   "text": "Entra nel s6.60",
+   "conf": 0.9080604374408722
+  },
+  {
+   "text": "TOTALEURO",
+   "conf": 0.9209551744990878
+  },
+  {
+   "text": "bkitalia-cliento,bom",
+   "conf": 0.9360363006591796
+  },
+  {
+   "text": "CONTANTE",
+   "conf": 0.9868159890174866
+  },
+  {
+   "text": "20,00",
+   "conf": 0.9503843307495117
+  },
+  {
+   "text": "RESTO",
+   "conf": 0.9804445743560791
+  },
+  {
+   "text": "13,40",
+   "conf": 0.9791059732437134
+  },
+  {
+   "text": "ENJOYYOUR HEALIN BURGERKING",
+   "conf": 0.9490452695775915
+  },
+  {
+   "text": "WHOPPE",
+   "conf": 0.9880648156007131
+  },
+  {
+   "text": "ntrin",
+   "conf": 0.9528012633323669
+  },
+  {
+   "text": "19457",
+   "conf": 0.9970620989799499
+  },
+  {
+   "text": "WHOPPER",
+   "conf": 0.9892588683537075
+  },
+  {
+   "text": "18-05-14",
+   "conf": 0.9570316076278687
+  },
+  {
+   "text": "13:07",
+   "conf": 0.9742960691452026
+  },
+  {
+   "text": "FEGRATIS",
+   "conf": 0.7894782684743404
+  }
+ ],
+ "mean_conf": 0.9392,
+ "low_conf_share": 0.0,
+ "latency_ms": 2557,
+ "fields": {
+  "company": "WHOPPER",
+  "date": "2014-05-18",
+  "total": 6.6
+ },
+ "rule_reasons": [
+  "total_no_keyword_fallback_max"
+ ],
+ "total_candidates": [
+  6.6
+ ],
+ "key": "W0115_4908293c3d24"
+}

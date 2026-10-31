@@ -1,0 +1,147 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "Thai Thai Restaurant",
+  "2447 North Wickham Suite 128",
+  "Melourne,FL32935",
+  "(321)253-2353",
+  "Dine-In#",
+  "08/27/201708:13:26PM",
+  "Placed ByKyle",
+  "Table12",
+  "Server:Kyle",
+  "Numberof Guests:1",
+  "Yum Woon Sen 9.95",
+  "Brother Roll 10.95",
+  "Sashimi Dinner 22.95",
+  "Green Salad",
+  "Sapporo22oz 6.25",
+  "Chardonay 4.45",
+  "Subtotal: 54.55",
+  "Tax: 3.82",
+  "Total: 58.37"
+ ],
+ "tokens": [
+  {
+   "text": "Thai Thai Restaurant",
+   "conf": 0.9623930841684342
+  },
+  {
+   "text": "2447 North Wickham Suite 128",
+   "conf": 0.9668876294578824
+  },
+  {
+   "text": "Melourne,FL32935",
+   "conf": 0.9517694413661957
+  },
+  {
+   "text": "(321)253-2353",
+   "conf": 0.9703201238925641
+  },
+  {
+   "text": "Dine-In#",
+   "conf": 0.9124939367175102
+  },
+  {
+   "text": "08/27/201708:13:26PM",
+   "conf": 0.9828291803598403
+  },
+  {
+   "text": "Placed ByKyle",
+   "conf": 0.9381777048110962
+  },
+  {
+   "text": "Table12",
+   "conf": 0.9819445865494865
+  },
+  {
+   "text": "Server:Kyle",
+   "conf": 0.9659784923900258
+  },
+  {
+   "text": "Numberof Guests:1",
+   "conf": 0.9572761514607597
+  },
+  {
+   "text": "Yum Woon Sen",
+   "conf": 0.9372028857469559
+  },
+  {
+   "text": "9.95",
+   "conf": 0.9952866435050964
+  },
+  {
+   "text": "Brother Roll",
+   "conf": 0.9545393933852514
+  },
+  {
+   "text": "10.95",
+   "conf": 0.9984724402427674
+  },
+  {
+   "text": "Sashimi Dinner",
+   "conf": 0.962128724370684
+  },
+  {
+   "text": "22.95",
+   "conf": 0.9936349868774415
+  },
+  {
+   "text": "Green Salad",
+   "conf": 0.9435922015797008
+  },
+  {
+   "text": "Sapporo22oz",
+   "conf": 0.9768081144853071
+  },
+  {
+   "text": "6.25",
+   "conf": 0.9969385862350464
+  },
+  {
+   "text": "Chardonay",
+   "conf": 0.9935511019494798
+  },
+  {
+   "text": "4.45",
+   "conf": 0.9947101026773453
+  },
+  {
+   "text": "Subtotal:",
+   "conf": 0.9864524404207865
+  },
+  {
+   "text": "54.55",
+   "conf": 0.9949954748153687
+  },
+  {
+   "text": "Tax:",
+   "conf": 0.9802822470664978
+  },
+  {
+   "text": "3.82",
+   "conf": 0.9958741068840027
+  },
+  {
+   "text": "Total:",
+   "conf": 0.9851963818073273
+  },
+  {
+   "text": "58.37",
+   "conf": 0.9962349891662597
+  }
+ ],
+ "mean_conf": 0.9732,
+ "low_conf_share": 0.0,
+ "latency_ms": 3251,
+ "fields": {
+  "company": "THAI THAI RESTAURANT",
+  "date": "2017-08-27",
+  "total": 58.37
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  58.37
+ ],
+ "key": "W0100_520bc67f0f63"
+}

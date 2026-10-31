@@ -1,0 +1,125 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "GIOVANNI'S",
+  "WINE BAR & RISTORANTE",
+  "LONDONEC1Y2AA",
+  "TEL:02076381324",
+  "TableNo #19",
+  "BILMINERA 56.8",
+  "2x14.95 29.90",
+  "SETMENU2COURSE 2.45",
+  "ESPRESSO",
+  "Djsc.Servlce Chare",
+  "Total 40.84",
+  "2:47 PM23/06/2016 FRANCESC0 88",
+  "RECEIPT1",
+  "THANK YOU FOR CALLING",
+  "VATN0:830770046",
+  "emailsgiovannlscltyroad.com",
+  "www.glovanmiscltyroad.com"
+ ],
+ "tokens": [
+  {
+   "text": "WINE BAR & RISTORANTE",
+   "conf": 0.9468843142191569
+  },
+  {
+   "text": "GIOVANNI'S",
+   "conf": 0.9355321526527405
+  },
+  {
+   "text": "LONDONEC1Y2AA",
+   "conf": 0.943187035047091
+  },
+  {
+   "text": "TEL:02076381324",
+   "conf": 0.9739225427309672
+  },
+  {
+   "text": "TableNo #19",
+   "conf": 0.830572247505188
+  },
+  {
+   "text": "BILMINERA",
+   "conf": 0.7980385488933988
+  },
+  {
+   "text": "56.8",
+   "conf": 0.5378560200333595
+  },
+  {
+   "text": "2x14.95",
+   "conf": 0.9131483605929783
+  },
+  {
+   "text": "SETMENU2COURSE",
+   "conf": 0.9428513901574271
+  },
+  {
+   "text": "29.90",
+   "conf": 0.9884280323982239
+  },
+  {
+   "text": "ESPRESSO",
+   "conf": 0.972193069756031
+  },
+  {
+   "text": "2.45",
+   "conf": 0.9717793315649033
+  },
+  {
+   "text": "Djsc.Servlce Chare",
+   "conf": 0.775992547472318
+  },
+  {
+   "text": "Total",
+   "conf": 0.9906833887100219
+  },
+  {
+   "text": "40.84",
+   "conf": 0.9958806514739991
+  },
+  {
+   "text": "2:47 PM23/06/2016 FRANCESC0",
+   "conf": 0.9255948276431473
+  },
+  {
+   "text": "88",
+   "conf": 0.8344356715679169
+  },
+  {
+   "text": "RECEIPT1",
+   "conf": 0.9177438020706177
+  },
+  {
+   "text": "THANK YOU FOR CALLING",
+   "conf": 0.9455116277649289
+  },
+  {
+   "text": "VATN0:830770046",
+   "conf": 0.9724108537038167
+  },
+  {
+   "text": "emailsgiovannlscltyroad.com",
+   "conf": 0.8399131927225325
+  },
+  {
+   "text": "www.glovanmiscltyroad.com",
+   "conf": 0.8663882410526276
+  }
+ ],
+ "mean_conf": 0.9009,
+ "low_conf_share": 0.0,
+ "latency_ms": 3250,
+ "fields": {
+  "company": "GIOVANNI S",
+  "date": "2016-06-23",
+  "total": 40.84
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  40.84
+ ],
+ "key": "W0054_f97d2916ab52"
+}

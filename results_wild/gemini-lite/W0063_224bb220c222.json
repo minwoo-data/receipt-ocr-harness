@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.1-flash-lite",
+ "provider": "gemini",
+ "raw_text": "{\n  \"vendor\": \"FIREARMS UNKNOWN\",\n  \"date\": \"2016-12-17\",\n  \"subtotal\": 99.99,\n  \"tax\": 9.00,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 108.99,\n  \"currency\": \"USD\",\n  \"confidence\": 0.95,\n  \"notes\": null\n}",
+ "data": {
+  "vendor": "FIREARMS UNKNOWN",
+  "date": "2016-12-17",
+  "subtotal": 99.99,
+  "tax": 9.0,
+  "tip": null,
+  "discount": null,
+  "total": 108.99,
+  "currency": "USD",
+  "confidence": 0.95,
+  "notes": null
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1471,
+  "output_tokens": 108,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.00053,
+ "latency_ms": 2202,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.1-flash-lite",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.1-flash-lite"
+ ],
+ "key": "W0063_224bb220c222"
+}

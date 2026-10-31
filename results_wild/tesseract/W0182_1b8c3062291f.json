@@ -1,0 +1,225 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "Sage Gener.",
+  "2420 Jackson Ayer SEO rg",
+  "Uoneere S00 Avenue",
+  "Order 4526/1 O34.",
+  "| | ae",
+  "1. BLUE PLATE a",
+  "1. .CHAT LATTE io",
+  "Itens “Ye.00",
+  "Tax 1,60",
+  "Subtotal 19.60",
+  "ee",
+  "DL =e",
+  "XS A:85016P",
+  "ee wt 132 8.8",
+  "LAM, JASON J 5",
+  "Copy",
+  "gustomer",
+  "a"
+ ],
+ "tokens": [
+  {
+   "text": "Sage",
+   "conf": 0.95
+  },
+  {
+   "text": "Gener.",
+   "conf": 0.69
+  },
+  {
+   "text": "2420",
+   "conf": 0.4
+  },
+  {
+   "text": "Jackson",
+   "conf": 0.83
+  },
+  {
+   "text": "Ayer",
+   "conf": 0.53
+  },
+  {
+   "text": "SEO",
+   "conf": 0.46
+  },
+  {
+   "text": "rg",
+   "conf": 0.49
+  },
+  {
+   "text": "Uoneere",
+   "conf": 0.0
+  },
+  {
+   "text": "S00",
+   "conf": 0.62
+  },
+  {
+   "text": "Avenue",
+   "conf": 0.89
+  },
+  {
+   "text": "Order",
+   "conf": 0.96
+  },
+  {
+   "text": "4526/1",
+   "conf": 0.45
+  },
+  {
+   "text": "O34.",
+   "conf": 0.0
+  },
+  {
+   "text": "|",
+   "conf": 0.71
+  },
+  {
+   "text": "|",
+   "conf": 0.25
+  },
+  {
+   "text": "ae",
+   "conf": 0.4
+  },
+  {
+   "text": "1.",
+   "conf": 0.79
+  },
+  {
+   "text": "BLUE",
+   "conf": 0.69
+  },
+  {
+   "text": "PLATE",
+   "conf": 0.96
+  },
+  {
+   "text": "a",
+   "conf": 0.2
+  },
+  {
+   "text": "1.",
+   "conf": 0.73
+  },
+  {
+   "text": ".CHAT",
+   "conf": 0.59
+  },
+  {
+   "text": "LATTE",
+   "conf": 0.91
+  },
+  {
+   "text": "io",
+   "conf": 0.19
+  },
+  {
+   "text": "Itens",
+   "conf": 0.87
+  },
+  {
+   "text": "“Ye.00",
+   "conf": 0.0
+  },
+  {
+   "text": "Tax",
+   "conf": 0.96
+  },
+  {
+   "text": "1,60",
+   "conf": 0.9
+  },
+  {
+   "text": "Subtotal",
+   "conf": 0.83
+  },
+  {
+   "text": "19.60",
+   "conf": 0.78
+  },
+  {
+   "text": "ee",
+   "conf": 0.28
+  },
+  {
+   "text": "DL",
+   "conf": 0.13
+  },
+  {
+   "text": "=e",
+   "conf": 0.5
+  },
+  {
+   "text": "XS",
+   "conf": 0.51
+  },
+  {
+   "text": "A:85016P",
+   "conf": 0.25
+  },
+  {
+   "text": "ee",
+   "conf": 0.15
+  },
+  {
+   "text": "wt",
+   "conf": 0.18
+  },
+  {
+   "text": "132",
+   "conf": 0.5
+  },
+  {
+   "text": "8.8",
+   "conf": 0.37
+  },
+  {
+   "text": "LAM,",
+   "conf": 0.9
+  },
+  {
+   "text": "JASON",
+   "conf": 0.77
+  },
+  {
+   "text": "J",
+   "conf": 0.62
+  },
+  {
+   "text": "5",
+   "conf": 0.62
+  },
+  {
+   "text": "Copy",
+   "conf": 0.96
+  },
+  {
+   "text": "gustomer",
+   "conf": 0.36
+  },
+  {
+   "text": "a",
+   "conf": 0.22
+  }
+ ],
+ "mean_conf": 0.5511,
+ "low_conf_share": 0.413,
+ "latency_ms": 938,
+ "fields": {
+  "company": "SAGE GENER",
+  "date": null,
+  "total": 19.6
+ },
+ "rule_reasons": [
+  "date_not_found",
+  "total_no_keyword_fallback_max"
+ ],
+ "total_candidates": [
+  19.6
+ ],
+ "key": "W0182_1b8c3062291f"
+}

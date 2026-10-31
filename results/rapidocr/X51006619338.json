@@ -1,0 +1,139 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "99 SPEED MART S/B (519537-X)",
+  "LOT P.T.33198,BATU4",
+  "JALAN KRPRR, HUKIN KAPAR",
+  "42100 KLANG, SELANGOR",
+  "1320-TMN BATU",
+  "GSTI0.N0:000181747712",
+  "INV0ICE N0:17563/102/T0224",
+  "01:43PH 5S9843 31-01-16",
+  "2838 YONGCHUN LOKAN MANDARI RN262.20z",
+  "19 XRH 13.80",
+  "Total Sales (Inclusive GST)RK 262.20",
+  "CREDIT RM 262.20",
+  "CHANGE RM .00",
+  "GST Sumary Anount(RN) Tax(RH)",
+  "Z=O 262.20 .00",
+  "Thank You. Please come again",
+  "Keep the invoice for applicable returns"
+ ],
+ "tokens": [
+  {
+   "text": "99 SPEED MART S/B (519537-X)",
+   "conf": 0.8906044747148242
+  },
+  {
+   "text": "LOT P.T.33198,BATU4",
+   "conf": 0.9407792028627897
+  },
+  {
+   "text": "JALAN KRPRR, HUKIN KAPAR",
+   "conf": 0.8628739503522714
+  },
+  {
+   "text": "42100 KLANG, SELANGOR",
+   "conf": 0.9663583778199696
+  },
+  {
+   "text": "1320-TMN BATU",
+   "conf": 0.9608918290871841
+  },
+  {
+   "text": "GSTI0.N0:000181747712",
+   "conf": 0.9479518589519319
+  },
+  {
+   "text": "INV0ICE N0:17563/102/T0224",
+   "conf": 0.9554460965670072
+  },
+  {
+   "text": "01:43PH",
+   "conf": 0.9322553617613656
+  },
+  {
+   "text": "5S9843",
+   "conf": 0.9106235305468241
+  },
+  {
+   "text": "31-01-16",
+   "conf": 0.9942084103822708
+  },
+  {
+   "text": "2838 YONGCHUN LOKAN MANDARI",
+   "conf": 0.9552158051066928
+  },
+  {
+   "text": "RN262.20z",
+   "conf": 0.91921090748575
+  },
+  {
+   "text": "19 XRH 13.80",
+   "conf": 0.8675758813818296
+  },
+  {
+   "text": "Total Sales (Inclusive GST)RK 262.20",
+   "conf": 0.9341715458366606
+  },
+  {
+   "text": "CREDIT RM 262.20",
+   "conf": 0.9286690503358841
+  },
+  {
+   "text": "CHANGE RM",
+   "conf": 0.9065926836596595
+  },
+  {
+   "text": ".00",
+   "conf": 0.9879007538159689
+  },
+  {
+   "text": "GST Sumary",
+   "conf": 0.9318375647068023
+  },
+  {
+   "text": "Anount(RN)",
+   "conf": 0.8367942929267883
+  },
+  {
+   "text": "Tax(RH)",
+   "conf": 0.9014736924852643
+  },
+  {
+   "text": "Z=O",
+   "conf": 0.7849757472674052
+  },
+  {
+   "text": "262.20",
+   "conf": 0.9971664746602377
+  },
+  {
+   "text": ".00",
+   "conf": 0.9574540654818217
+  },
+  {
+   "text": "Thank You. Please come again",
+   "conf": 0.955773372735296
+  },
+  {
+   "text": "Keep the invoice for applicable returns",
+   "conf": 0.9750771812903576
+  }
+ ],
+ "mean_conf": 0.9281,
+ "low_conf_share": 0.0,
+ "latency_ms": 17116,
+ "fields": {
+  "company": null,
+  "date": "2016-01-31",
+  "total": 262.2
+ },
+ "rule_reasons": [
+  "company_not_found"
+ ],
+ "total_candidates": [
+  262.2
+ ],
+ "key": "X51006619338"
+}

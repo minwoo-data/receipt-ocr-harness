@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.1-flash-lite",
+ "provider": "gemini",
+ "raw_text": "{\n  \"vendor\": \"Car Spa 0017\",\n  \"date\": \"2015-05-28\",\n  \"subtotal\": 159.48,\n  \"tax\": 5.34,\n  \"tip\": null,\n  \"discount\": -25.99,\n  \"total\": 164.82,\n  \"currency\": \"USD\",\n  \"confidence\": 0.98,\n  \"notes\": \"Discount calculated as sum of Lube Wash Discount (-6.00) and 2 Detail Disc (-19.99).\"\n}",
+ "data": {
+  "vendor": "Car Spa 0017",
+  "date": "2015-05-28",
+  "subtotal": 159.48,
+  "tax": 5.34,
+  "tip": null,
+  "discount": -25.99,
+  "total": 164.82,
+  "currency": "USD",
+  "confidence": 0.98,
+  "notes": "Discount calculated as sum of Lube Wash Discount (-6.00) and 2 Detail Disc (-19.99)."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1433,
+  "output_tokens": 143,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.000573,
+ "latency_ms": 2050,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.1-flash-lite",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.1-flash-lite"
+ ],
+ "key": "W0178_bfb8d44ce3df"
+}

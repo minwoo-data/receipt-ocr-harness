@@ -1,0 +1,422 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "_ LTWO FLORIST & HANDICRAFT -",
+  "002062543-P",
+  "NO. 49, JALAN MAHAGON! 7/2, \\",
+  "SEKSYEN 4 BANDAR UTAMA,",
+  "44300 BATANG KALI, SELANGOR",
+  "TEL : 012-3216447 .",
+  "HSH",
+  "RECEIPT # CS00007203 DATE: 21/03/2018",
+  "SALESPERSON: 001 TIME 11:01:00",
+  "CASHIER) USER",
+  "(TEM ————SQTY. ~—sUIP_——sAMOUNT",
+  "NE3555 2 7.00 2.00",
+  "1 1/2\" SAFETY PIN ae",
+  "$B/01-3 1 7.00 7.00 |",
+  "SATIN BIAS TAPE 12MMXaY—(\" a",
+  "TOTAL QTY: 3 I 1 Bor",
+  "SUB-TOTAL : 9.00",
+  "DISC - 0.00 |",
+  "TAX 0.00 |",
+  "ROUNDING - 0.00 |",
+  "TOTAL 9.00 |",
+  "CASH 20.00",
+  "CHANGE 11.00",
+  "BARANG YANG DIJUAL TIDAK BOLEH",
+  "DITUKAR,",
+  "9 a"
+ ],
+ "tokens": [
+  {
+   "text": "_",
+   "conf": 0.55
+  },
+  {
+   "text": "LTWO",
+   "conf": 0.14
+  },
+  {
+   "text": "FLORIST",
+   "conf": 0.14
+  },
+  {
+   "text": "&",
+   "conf": 0.92
+  },
+  {
+   "text": "HANDICRAFT",
+   "conf": 0.68
+  },
+  {
+   "text": "-",
+   "conf": 0.5
+  },
+  {
+   "text": "002062543-P",
+   "conf": 0.78
+  },
+  {
+   "text": "NO.",
+   "conf": 0.94
+  },
+  {
+   "text": "49,",
+   "conf": 0.96
+  },
+  {
+   "text": "JALAN",
+   "conf": 0.93
+  },
+  {
+   "text": "MAHAGON!",
+   "conf": 0.57
+  },
+  {
+   "text": "7/2,",
+   "conf": 0.96
+  },
+  {
+   "text": "\\",
+   "conf": 0.0
+  },
+  {
+   "text": "SEKSYEN",
+   "conf": 0.92
+  },
+  {
+   "text": "4",
+   "conf": 0.93
+  },
+  {
+   "text": "BANDAR",
+   "conf": 0.88
+  },
+  {
+   "text": "UTAMA,",
+   "conf": 0.88
+  },
+  {
+   "text": "44300",
+   "conf": 0.93
+  },
+  {
+   "text": "BATANG",
+   "conf": 0.93
+  },
+  {
+   "text": "KALI,",
+   "conf": 0.94
+  },
+  {
+   "text": "SELANGOR",
+   "conf": 0.96
+  },
+  {
+   "text": "TEL",
+   "conf": 0.92
+  },
+  {
+   "text": ":",
+   "conf": 0.72
+  },
+  {
+   "text": "012-3216447",
+   "conf": 0.87
+  },
+  {
+   "text": ".",
+   "conf": 0.0
+  },
+  {
+   "text": "HSH",
+   "conf": 0.29
+  },
+  {
+   "text": "RECEIPT",
+   "conf": 0.1
+  },
+  {
+   "text": "#",
+   "conf": 0.1
+  },
+  {
+   "text": "CS00007203",
+   "conf": 0.82
+  },
+  {
+   "text": "DATE:",
+   "conf": 0.85
+  },
+  {
+   "text": "21/03/2018",
+   "conf": 0.88
+  },
+  {
+   "text": "SALESPERSON:",
+   "conf": 0.95
+  },
+  {
+   "text": "001",
+   "conf": 0.4
+  },
+  {
+   "text": "TIME",
+   "conf": 0.4
+  },
+  {
+   "text": "11:01:00",
+   "conf": 0.51
+  },
+  {
+   "text": "CASHIER)",
+   "conf": 0.53
+  },
+  {
+   "text": "USER",
+   "conf": 0.73
+  },
+  {
+   "text": "(TEM",
+   "conf": 0.26
+  },
+  {
+   "text": "————SQTY.",
+   "conf": 0.0
+  },
+  {
+   "text": "~—sUIP_——sAMOUNT",
+   "conf": 0.0
+  },
+  {
+   "text": "NE3555",
+   "conf": 0.68
+  },
+  {
+   "text": "2",
+   "conf": 0.96
+  },
+  {
+   "text": "7.00",
+   "conf": 0.76
+  },
+  {
+   "text": "2.00",
+   "conf": 0.88
+  },
+  {
+   "text": "1",
+   "conf": 0.75
+  },
+  {
+   "text": "1/2\"",
+   "conf": 0.75
+  },
+  {
+   "text": "SAFETY",
+   "conf": 0.95
+  },
+  {
+   "text": "PIN",
+   "conf": 0.96
+  },
+  {
+   "text": "ae",
+   "conf": 0.33
+  },
+  {
+   "text": "$B/01-3",
+   "conf": 0.39
+  },
+  {
+   "text": "1",
+   "conf": 0.86
+  },
+  {
+   "text": "7.00",
+   "conf": 0.85
+  },
+  {
+   "text": "7.00",
+   "conf": 0.9
+  },
+  {
+   "text": "|",
+   "conf": 0.89
+  },
+  {
+   "text": "SATIN",
+   "conf": 0.06
+  },
+  {
+   "text": "BIAS",
+   "conf": 0.83
+  },
+  {
+   "text": "TAPE",
+   "conf": 0.91
+  },
+  {
+   "text": "12MMXaY—(\"",
+   "conf": 0.0
+  },
+  {
+   "text": "a",
+   "conf": 0.25
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.96
+  },
+  {
+   "text": "QTY:",
+   "conf": 0.59
+  },
+  {
+   "text": "3",
+   "conf": 0.96
+  },
+  {
+   "text": "I",
+   "conf": 0.22
+  },
+  {
+   "text": "1",
+   "conf": 0.62
+  },
+  {
+   "text": "Bor",
+   "conf": 0.65
+  },
+  {
+   "text": "SUB-TOTAL",
+   "conf": 0.93
+  },
+  {
+   "text": ":",
+   "conf": 0.3
+  },
+  {
+   "text": "9.00",
+   "conf": 0.02
+  },
+  {
+   "text": "DISC",
+   "conf": 0.88
+  },
+  {
+   "text": "-",
+   "conf": 0.0
+  },
+  {
+   "text": "0.00",
+   "conf": 0.83
+  },
+  {
+   "text": "|",
+   "conf": 0.35
+  },
+  {
+   "text": "TAX",
+   "conf": 0.32
+  },
+  {
+   "text": "0.00",
+   "conf": 0.74
+  },
+  {
+   "text": "|",
+   "conf": 0.21
+  },
+  {
+   "text": "ROUNDING",
+   "conf": 0.92
+  },
+  {
+   "text": "-",
+   "conf": 0.32
+  },
+  {
+   "text": "0.00",
+   "conf": 0.85
+  },
+  {
+   "text": "|",
+   "conf": 0.86
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.95
+  },
+  {
+   "text": "9.00",
+   "conf": 0.94
+  },
+  {
+   "text": "|",
+   "conf": 0.88
+  },
+  {
+   "text": "CASH",
+   "conf": 0.96
+  },
+  {
+   "text": "20.00",
+   "conf": 0.96
+  },
+  {
+   "text": "CHANGE",
+   "conf": 0.96
+  },
+  {
+   "text": "11.00",
+   "conf": 0.96
+  },
+  {
+   "text": "BARANG",
+   "conf": 0.93
+  },
+  {
+   "text": "YANG",
+   "conf": 0.93
+  },
+  {
+   "text": "DIJUAL",
+   "conf": 0.88
+  },
+  {
+   "text": "TIDAK",
+   "conf": 0.92
+  },
+  {
+   "text": "BOLEH",
+   "conf": 0.93
+  },
+  {
+   "text": "DITUKAR,",
+   "conf": 0.87
+  },
+  {
+   "text": "9",
+   "conf": 0.27
+  },
+  {
+   "text": "a",
+   "conf": 0.32
+  }
+ ],
+ "mean_conf": 0.6587,
+ "low_conf_share": 0.2872,
+ "latency_ms": 2721,
+ "fields": {
+  "company": "LTWO FLORIST HANDICRAFT",
+  "date": "2018-03-21",
+  "total": 9.0
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  9.0
+ ],
+ "key": "X51005712039"
+}

@@ -1,0 +1,618 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "MR.D.I.Y(M)SDN BHD",
+  "Co-REG:860671-D",
+  "LOT 1851-A & 1851-B, JALAN KPB 6,",
+  "KAWASAN PERINDUSTRIAN BALAKONG,",
+  "43300 SERI KEMBANGAN, SELANGOR",
+  "(GST ID No :000306020352)",
+  "(ENDAH PARADE)",
+  "-TAX INVOICE-",
+  "TOILET BRUSH 47-2311 *§",
+  "HD03-04-06 - 5/40/160",
+  "9067860 1.% 2.70 - 2.70",
+  "CEMENT KN BLK-2 *§",
+  "KF12 - 12/240",
+  "9071872 1X 1,60 1.60",
+  "HSS TWIST DRILL 5.5% *§",
+  "KH22 - 10/500",
+  "6909906163102 1X 3.30 3.30",
+  "HSS TWIST DRILL 6*1 *5",
+  "KH12 - 10/500",
+  "6909906163103 1 %-.3590 | 73.90",
+  "CURTAIN STRAPS *§",
+  "CK11-22-31 - 10/400",
+  "8720019 2X °2.50 oes<00",
+  "Item(s) : 5 Qty(s) : 6",
+  "TOTAL INCL. GST@6% RM 15,90",
+  "CASH RM 50.00",
+  "CHANGE RM 34.10",
+  "GST Summary Amt(RM) = Tax(RM)",
+  "GST S@6% 15.00 0.90",
+  "Sse a oo eo ee sf",
+  "19-09-17 15:39 SHO! ZJ03 13 RO00100808",
+  "OPERATOR TSGC - KARKI DAMMAR BAHADUR",
+  "EXCHANGE ARE ALLOWED WITHIN",
+  "7 DAY WITH RECEIPT.",
+  "STRICTLY NO CASH REFUND,"
+ ],
+ "tokens": [
+  {
+   "text": "MR.D.I.Y(M)SDN",
+   "conf": 0.78
+  },
+  {
+   "text": "BHD",
+   "conf": 0.96
+  },
+  {
+   "text": "Co-REG:860671-D",
+   "conf": 0.88
+  },
+  {
+   "text": "LOT",
+   "conf": 0.91
+  },
+  {
+   "text": "1851-A",
+   "conf": 0.9
+  },
+  {
+   "text": "&",
+   "conf": 0.9
+  },
+  {
+   "text": "1851-B,",
+   "conf": 0.91
+  },
+  {
+   "text": "JALAN",
+   "conf": 0.93
+  },
+  {
+   "text": "KPB",
+   "conf": 0.93
+  },
+  {
+   "text": "6,",
+   "conf": 0.96
+  },
+  {
+   "text": "KAWASAN",
+   "conf": 0.92
+  },
+  {
+   "text": "PERINDUSTRIAN",
+   "conf": 0.91
+  },
+  {
+   "text": "BALAKONG,",
+   "conf": 0.9
+  },
+  {
+   "text": "43300",
+   "conf": 0.93
+  },
+  {
+   "text": "SERI",
+   "conf": 0.91
+  },
+  {
+   "text": "KEMBANGAN,",
+   "conf": 0.9
+  },
+  {
+   "text": "SELANGOR",
+   "conf": 0.96
+  },
+  {
+   "text": "(GST",
+   "conf": 0.87
+  },
+  {
+   "text": "ID",
+   "conf": 0.94
+  },
+  {
+   "text": "No",
+   "conf": 0.92
+  },
+  {
+   "text": ":000306020352)",
+   "conf": 0.91
+  },
+  {
+   "text": "(ENDAH",
+   "conf": 0.91
+  },
+  {
+   "text": "PARADE)",
+   "conf": 0.96
+  },
+  {
+   "text": "-TAX",
+   "conf": 0.51
+  },
+  {
+   "text": "INVOICE-",
+   "conf": 0.9
+  },
+  {
+   "text": "TOILET",
+   "conf": 0.96
+  },
+  {
+   "text": "BRUSH",
+   "conf": 0.96
+  },
+  {
+   "text": "47-2311",
+   "conf": 0.95
+  },
+  {
+   "text": "*§",
+   "conf": 0.49
+  },
+  {
+   "text": "HD03-04-06",
+   "conf": 0.43
+  },
+  {
+   "text": "-",
+   "conf": 0.92
+  },
+  {
+   "text": "5/40/160",
+   "conf": 0.9
+  },
+  {
+   "text": "9067860",
+   "conf": 0.95
+  },
+  {
+   "text": "1.%",
+   "conf": 0.37
+  },
+  {
+   "text": "2.70",
+   "conf": 0.53
+  },
+  {
+   "text": "-",
+   "conf": 0.77
+  },
+  {
+   "text": "2.70",
+   "conf": 0.75
+  },
+  {
+   "text": "CEMENT",
+   "conf": 0.96
+  },
+  {
+   "text": "KN",
+   "conf": 0.9
+  },
+  {
+   "text": "BLK-2",
+   "conf": 0.9
+  },
+  {
+   "text": "*§",
+   "conf": 0.51
+  },
+  {
+   "text": "KF12",
+   "conf": 0.87
+  },
+  {
+   "text": "-",
+   "conf": 0.87
+  },
+  {
+   "text": "12/240",
+   "conf": 0.96
+  },
+  {
+   "text": "9071872",
+   "conf": 0.96
+  },
+  {
+   "text": "1X",
+   "conf": 0.94
+  },
+  {
+   "text": "1,60",
+   "conf": 0.81
+  },
+  {
+   "text": "1.60",
+   "conf": 0.93
+  },
+  {
+   "text": "HSS",
+   "conf": 0.95
+  },
+  {
+   "text": "TWIST",
+   "conf": 0.95
+  },
+  {
+   "text": "DRILL",
+   "conf": 0.92
+  },
+  {
+   "text": "5.5%",
+   "conf": 0.0
+  },
+  {
+   "text": "*§",
+   "conf": 0.83
+  },
+  {
+   "text": "KH22",
+   "conf": 0.91
+  },
+  {
+   "text": "-",
+   "conf": 0.92
+  },
+  {
+   "text": "10/500",
+   "conf": 0.96
+  },
+  {
+   "text": "6909906163102",
+   "conf": 0.95
+  },
+  {
+   "text": "1X",
+   "conf": 0.96
+  },
+  {
+   "text": "3.30",
+   "conf": 0.95
+  },
+  {
+   "text": "3.30",
+   "conf": 0.95
+  },
+  {
+   "text": "HSS",
+   "conf": 0.9
+  },
+  {
+   "text": "TWIST",
+   "conf": 0.95
+  },
+  {
+   "text": "DRILL",
+   "conf": 0.86
+  },
+  {
+   "text": "6*1",
+   "conf": 0.54
+  },
+  {
+   "text": "*5",
+   "conf": 0.59
+  },
+  {
+   "text": "KH12",
+   "conf": 0.88
+  },
+  {
+   "text": "-",
+   "conf": 0.88
+  },
+  {
+   "text": "10/500",
+   "conf": 0.96
+  },
+  {
+   "text": "6909906163103",
+   "conf": 0.94
+  },
+  {
+   "text": "1",
+   "conf": 0.36
+  },
+  {
+   "text": "%-.3590",
+   "conf": 0.17
+  },
+  {
+   "text": "|",
+   "conf": 0.19
+  },
+  {
+   "text": "73.90",
+   "conf": 0.24
+  },
+  {
+   "text": "CURTAIN",
+   "conf": 0.96
+  },
+  {
+   "text": "STRAPS",
+   "conf": 0.96
+  },
+  {
+   "text": "*§",
+   "conf": 0.44
+  },
+  {
+   "text": "CK11-22-31",
+   "conf": 0.88
+  },
+  {
+   "text": "-",
+   "conf": 0.92
+  },
+  {
+   "text": "10/400",
+   "conf": 0.96
+  },
+  {
+   "text": "8720019",
+   "conf": 0.96
+  },
+  {
+   "text": "2X",
+   "conf": 0.17
+  },
+  {
+   "text": "°2.50",
+   "conf": 0.14
+  },
+  {
+   "text": "oes<00",
+   "conf": 0.0
+  },
+  {
+   "text": "Item(s)",
+   "conf": 0.46
+  },
+  {
+   "text": ":",
+   "conf": 0.59
+  },
+  {
+   "text": "5",
+   "conf": 0.95
+  },
+  {
+   "text": "Qty(s)",
+   "conf": 0.9
+  },
+  {
+   "text": ":",
+   "conf": 0.82
+  },
+  {
+   "text": "6",
+   "conf": 0.96
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.95
+  },
+  {
+   "text": "INCL.",
+   "conf": 0.0
+  },
+  {
+   "text": "GST@6%",
+   "conf": 0.0
+  },
+  {
+   "text": "RM",
+   "conf": 0.93
+  },
+  {
+   "text": "15,90",
+   "conf": 0.68
+  },
+  {
+   "text": "CASH",
+   "conf": 0.96
+  },
+  {
+   "text": "RM",
+   "conf": 0.94
+  },
+  {
+   "text": "50.00",
+   "conf": 0.87
+  },
+  {
+   "text": "CHANGE",
+   "conf": 0.96
+  },
+  {
+   "text": "RM",
+   "conf": 0.95
+  },
+  {
+   "text": "34.10",
+   "conf": 0.95
+  },
+  {
+   "text": "GST",
+   "conf": 0.95
+  },
+  {
+   "text": "Summary",
+   "conf": 0.95
+  },
+  {
+   "text": "Amt(RM)",
+   "conf": 0.91
+  },
+  {
+   "text": "=",
+   "conf": 0.39
+  },
+  {
+   "text": "Tax(RM)",
+   "conf": 0.52
+  },
+  {
+   "text": "GST",
+   "conf": 0.93
+  },
+  {
+   "text": "S@6%",
+   "conf": 0.86
+  },
+  {
+   "text": "15.00",
+   "conf": 0.93
+  },
+  {
+   "text": "0.90",
+   "conf": 0.93
+  },
+  {
+   "text": "Sse",
+   "conf": 0.02
+  },
+  {
+   "text": "a",
+   "conf": 0.27
+  },
+  {
+   "text": "oo",
+   "conf": 0.23
+  },
+  {
+   "text": "eo",
+   "conf": 0.24
+  },
+  {
+   "text": "ee",
+   "conf": 0.18
+  },
+  {
+   "text": "sf",
+   "conf": 0.38
+  },
+  {
+   "text": "19-09-17",
+   "conf": 0.94
+  },
+  {
+   "text": "15:39",
+   "conf": 0.95
+  },
+  {
+   "text": "SHO!",
+   "conf": 0.48
+  },
+  {
+   "text": "ZJ03",
+   "conf": 0.0
+  },
+  {
+   "text": "13",
+   "conf": 0.87
+  },
+  {
+   "text": "RO00100808",
+   "conf": 0.4
+  },
+  {
+   "text": "OPERATOR",
+   "conf": 0.92
+  },
+  {
+   "text": "TSGC",
+   "conf": 0.9
+  },
+  {
+   "text": "-",
+   "conf": 0.87
+  },
+  {
+   "text": "KARKI",
+   "conf": 0.91
+  },
+  {
+   "text": "DAMMAR",
+   "conf": 0.92
+  },
+  {
+   "text": "BAHADUR",
+   "conf": 0.96
+  },
+  {
+   "text": "EXCHANGE",
+   "conf": 0.96
+  },
+  {
+   "text": "ARE",
+   "conf": 0.96
+  },
+  {
+   "text": "ALLOWED",
+   "conf": 0.96
+  },
+  {
+   "text": "WITHIN",
+   "conf": 0.96
+  },
+  {
+   "text": "7",
+   "conf": 0.91
+  },
+  {
+   "text": "DAY",
+   "conf": 0.94
+  },
+  {
+   "text": "WITH",
+   "conf": 0.96
+  },
+  {
+   "text": "RECEIPT.",
+   "conf": 0.87
+  },
+  {
+   "text": "STRICTLY",
+   "conf": 0.96
+  },
+  {
+   "text": "NO",
+   "conf": 0.95
+  },
+  {
+   "text": "CASH",
+   "conf": 0.96
+  },
+  {
+   "text": "REFUND,",
+   "conf": 0.76
+  }
+ ],
+ "mean_conf": 0.7765,
+ "low_conf_share": 0.1799,
+ "latency_ms": 3106,
+ "fields": {
+  "company": "MR D I Y SDN BHD",
+  "date": "2006-04-03",
+  "total": 73.9
+ },
+ "rule_reasons": [
+  "total_no_keyword_fallback_max"
+ ],
+ "total_candidates": [
+  73.9,
+  2.5,
+  50.0,
+  34.1,
+  15.0,
+  0.9
+ ],
+ "key": "X51005568880"
+}

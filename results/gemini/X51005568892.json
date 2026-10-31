@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.6-flash",
+ "provider": "gemini",
+ "raw_text": "{\"vendor\": \"EVERGREEN LIGHT SDN BHD\", \"date\": \"2017-09-18\", \"subtotal\": 24.52, \"tax\": 1.47, \"tip\": null, \"discount\": null, \"total\": 26.00, \"currency\": \"MYR\", \"confidence\": 0.95, \"notes\": \"Rounding adjust of 0.01 added to subtotal+GST to reach 26.00 total.\"}",
+ "data": {
+  "vendor": "EVERGREEN LIGHT SDN BHD",
+  "date": "2017-09-18",
+  "subtotal": 24.52,
+  "tax": 1.47,
+  "tip": null,
+  "discount": null,
+  "total": 26.0,
+  "currency": "MYR",
+  "confidence": 0.95,
+  "notes": "Rounding adjust of 0.01 added to subtotal+GST to reach 26.00 total."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1425,
+  "output_tokens": 111,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.001485,
+ "latency_ms": 1771,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.6-flash",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.6-flash"
+ ],
+ "key": "X51005568892"
+}

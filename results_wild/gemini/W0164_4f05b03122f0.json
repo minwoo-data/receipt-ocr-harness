@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.6-flash",
+ "provider": "gemini",
+ "raw_text": "{\"vendor\": \"Berghotel Grosse Scheidegg\", \"date\": \"2007-07-30\", \"subtotal\": 54.5, \"tax\": 3.85, \"tip\": null, \"discount\": null, \"total\": 54.5, \"currency\": \"CHF\", \"confidence\": 0.98, \"notes\": null}",
+ "data": {
+  "vendor": "Berghotel Grosse Scheidegg",
+  "date": "2007-07-30",
+  "subtotal": 54.5,
+  "tax": 3.85,
+  "tip": null,
+  "discount": null,
+  "total": 54.5,
+  "currency": "CHF",
+  "confidence": 0.98,
+  "notes": null
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1433,
+  "output_tokens": 84,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.00139,
+ "latency_ms": 2253,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.6-flash",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.6-flash"
+ ],
+ "key": "W0164_4f05b03122f0"
+}

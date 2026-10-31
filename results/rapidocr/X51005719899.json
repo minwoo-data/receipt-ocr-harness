@@ -1,0 +1,195 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "NYONYACOLORS@1UTAMA",
+  "LITTLE CRAVINGS SDN BHD (562007-D)",
+  "HQ:7,J1nSS21/34,47400PJ",
+  "TEL-03 77282288 (GST ID 001382293504)",
+  "MC#01",
+  "REGCASHIER18-03-2018 11:23",
+  "TaxInvNo.1 #000001",
+  "KUIH KETAYAP RM2. 70 S",
+  "ONDEH ONDEH RM2.95 S",
+  "YELLOWLAKSA RM11.60 S",
+  "YELLOWLAKSA RM11.60 S",
+  "YELLOW LAKSA RM11.60 S",
+  "AIR SEJUK RJ.65S",
+  "CENDOL RM5.30 S",
+  "CHEE CHEONG FUN (SOS) RM7.20 S",
+  "8No",
+  "SUBTOTAL RM53.60",
+  "CASH RM100.00",
+  "CHANGE RM46.40",
+  "TAXABLEAMOUNT RM50.57",
+  "6%GST RM3.03",
+  "THANKYOU!!PLEASE COMEAGAIN"
+ ],
+ "tokens": [
+  {
+   "text": "NYONYACOLORS@1UTAMA",
+   "conf": 0.9834211029504475
+  },
+  {
+   "text": "LITTLE CRAVINGS SDN BHD (562007-D)",
+   "conf": 0.9376788191935596
+  },
+  {
+   "text": "HQ:7,J1nSS21/34,47400PJ",
+   "conf": 0.964429585830025
+  },
+  {
+   "text": "TEL-03 77282288 (GST ID 001382293504)",
+   "conf": 0.9433260753348067
+  },
+  {
+   "text": "MC#01",
+   "conf": 0.9906201362609863
+  },
+  {
+   "text": "REGCASHIER18-03-2018 11:23",
+   "conf": 0.9773275554180145
+  },
+  {
+   "text": "TaxInvNo.1",
+   "conf": 0.9905128479003906
+  },
+  {
+   "text": "#000001",
+   "conf": 0.9906578745160785
+  },
+  {
+   "text": "KUIH KETAYAP",
+   "conf": 0.9731253733237585
+  },
+  {
+   "text": "RM2. 70 S",
+   "conf": 0.934214452902476
+  },
+  {
+   "text": "ONDEH ONDEH",
+   "conf": 0.9818913665684786
+  },
+  {
+   "text": "RM2.95 S",
+   "conf": 0.9653476104140282
+  },
+  {
+   "text": "YELLOWLAKSA",
+   "conf": 0.9927765781229193
+  },
+  {
+   "text": "RM11.60 S",
+   "conf": 0.9596129059791565
+  },
+  {
+   "text": "YELLOWLAKSA",
+   "conf": 0.9898242571137168
+  },
+  {
+   "text": "RM11.60 S",
+   "conf": 0.9719478686650594
+  },
+  {
+   "text": "YELLOW LAKSA",
+   "conf": 0.9659148504336675
+  },
+  {
+   "text": "RM11.60 S",
+   "conf": 0.9513923459582858
+  },
+  {
+   "text": "AIR SEJUK",
+   "conf": 0.9533963468339708
+  },
+  {
+   "text": "RJ.65S",
+   "conf": 0.9075096150239309
+  },
+  {
+   "text": "CENDOL",
+   "conf": 0.9951630731423696
+  },
+  {
+   "text": "RM5.30 S",
+   "conf": 0.9424385651946068
+  },
+  {
+   "text": "CHEE CHEONG FUN (SOS)",
+   "conf": 0.9836435545058477
+  },
+  {
+   "text": "RM7.20 S",
+   "conf": 0.9674873724579811
+  },
+  {
+   "text": "8No",
+   "conf": 0.9837072690327963
+  },
+  {
+   "text": "SUBTOTAL",
+   "conf": 0.9916478767991066
+  },
+  {
+   "text": "RM53.60",
+   "conf": 0.9975043279784066
+  },
+  {
+   "text": "CASH",
+   "conf": 0.9957371652126312
+  },
+  {
+   "text": "RM100.00",
+   "conf": 0.9986305236816406
+  },
+  {
+   "text": "CHANGE",
+   "conf": 0.9892248610655466
+  },
+  {
+   "text": "RM46.40",
+   "conf": 0.9995743036270142
+  },
+  {
+   "text": "TAXABLEAMOUNT",
+   "conf": 0.9881043204894433
+  },
+  {
+   "text": "RM50.57",
+   "conf": 0.9993544050625393
+  },
+  {
+   "text": "6%GST",
+   "conf": 0.9996988773345947
+  },
+  {
+   "text": "RM3.03",
+   "conf": 0.9993964036305746
+  },
+  {
+   "text": "THANKYOU!!PLEASE COMEAGAIN",
+   "conf": 0.9687720514260806
+  }
+ ],
+ "mean_conf": 0.9757,
+ "low_conf_share": 0.0,
+ "latency_ms": 4140,
+ "fields": {
+  "company": "LITTLE CRAVINGS SDN BHD",
+  "date": "2018-03-18",
+  "total": 100.0
+ },
+ "rule_reasons": [
+  "total_no_keyword_fallback_max"
+ ],
+ "total_candidates": [
+  11.6,
+  5.3,
+  7.2,
+  53.6,
+  100.0,
+  46.4,
+  50.57,
+  3.03
+ ],
+ "key": "X51005719899"
+}

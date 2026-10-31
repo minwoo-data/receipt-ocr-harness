@@ -1,0 +1,134 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "SAFEWAYS",
+  "TM",
+  "STORE MGR JIM BROWN 480-755-1844",
+  "THANK YOU FOR SHOPPING WITH US!",
+  "MISCELLANEOUS",
+  "MR PROCESSING FEE 5.95",
+  "MR MASTERCARD1OO.OO 100.00",
+  "TAX .0OBAL 105.95",
+  "VF DEBIT CARD 105.95",
+  "CHANGE .00",
+  "7/21/1107:4515350700607469",
+  "YOUR CASHIER TODAY WAS BONNIE",
+  "DAN 3926"
+ ],
+ "tokens": [
+  {
+   "text": "SAFEWAYS",
+   "conf": 0.9195138514041901
+  },
+  {
+   "text": "TM",
+   "conf": 0.9576241075992584
+  },
+  {
+   "text": "STORE MGR JIM BROWN",
+   "conf": 0.946577178804498
+  },
+  {
+   "text": "480-755-1844",
+   "conf": 0.9898623377084732
+  },
+  {
+   "text": "THANK YOU FOR SHOPPING WITH US!",
+   "conf": 0.9551328093774857
+  },
+  {
+   "text": "MISCELLANEOUS",
+   "conf": 0.9066976859019353
+  },
+  {
+   "text": "5.95",
+   "conf": 0.9975243210792542
+  },
+  {
+   "text": "MR",
+   "conf": 0.9928806126117706
+  },
+  {
+   "text": "PROCESSING FEE",
+   "conf": 0.9574095393930163
+  },
+  {
+   "text": "100.00",
+   "conf": 0.998056580622991
+  },
+  {
+   "text": "MR",
+   "conf": 0.9925454258918762
+  },
+  {
+   "text": "MASTERCARD1OO.OO",
+   "conf": 0.8905534893274307
+  },
+  {
+   "text": ".0OBAL",
+   "conf": 0.8249986171722412
+  },
+  {
+   "text": "105.95",
+   "conf": 0.9980150560537974
+  },
+  {
+   "text": "TAX",
+   "conf": 0.9805703163146973
+  },
+  {
+   "text": "105.95",
+   "conf": 0.9983013967672983
+  },
+  {
+   "text": "VF",
+   "conf": 0.9765278995037079
+  },
+  {
+   "text": "DEBIT CARD",
+   "conf": 0.9689009785652161
+  },
+  {
+   "text": ".00",
+   "conf": 0.988135834534963
+  },
+  {
+   "text": "CHANGE",
+   "conf": 0.9789031346638998
+  },
+  {
+   "text": "7/21/1107:4515350700607469",
+   "conf": 0.9880770697043493
+  },
+  {
+   "text": "YOUR CASHIER TODAY WAS BONNIE",
+   "conf": 0.9715777800000948
+  },
+  {
+   "text": "3926",
+   "conf": 0.9980354607105255
+  },
+  {
+   "text": "DAN",
+   "conf": 0.9916915694872538
+  }
+ ],
+ "mean_conf": 0.9653,
+ "low_conf_share": 0.0,
+ "latency_ms": 5404,
+ "fields": {
+  "company": "STORE MGR JIM BROWN 480 755 1844",
+  "date": null,
+  "total": 105.95
+ },
+ "rule_reasons": [
+  "date_not_found",
+  "total_no_keyword_fallback_max"
+ ],
+ "total_candidates": [
+  100.0,
+  105.95,
+  105.95
+ ],
+ "key": "W0018_4377"
+}

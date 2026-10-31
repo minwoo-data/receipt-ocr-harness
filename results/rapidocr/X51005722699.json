@@ -1,0 +1,199 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "POPULAR BOOK",
+  "CO.(M) SDN BHD",
+  "(Co.No.113825-W)",
+  "(GST Reg No.001492992000)",
+  "No 8,Jalan 7/118B,Desa Tun Razak",
+  "560o0 Kuala Lumpur,Malaysia",
+  "AMPANG POINT CENTRE",
+  "Tel:03-42601064/66",
+  "11/02/1819:21 Slip No.: 6030098553",
+  "Mohd Nor Azmi Trans: 79369",
+  "Deseription Amount",
+  "PB D/S Tape12mm 1.90T",
+  "H/CA4400'S 9.90T",
+  "Total RM Incl. of GST 11.80",
+  "Cash -11.80",
+  "Item Count 2",
+  "GST Summary Amount（RM) Tax(RM)",
+  "T@6% 11.13 0.67",
+  "Total Savings 0.00",
+  "BE A POPULAR CARD MEMBER",
+  "AND ENJOY SPECIAL DISCOUNTS",
+  "THANK YOU.PLEASE COME AGAIN.",
+  "www.popular.com.my",
+  "Buy Chinese books online",
+  "www.popularonline.com.my"
+ ],
+ "tokens": [
+  {
+   "text": "POPULAR BOOK",
+   "conf": 0.9689383059740067
+  },
+  {
+   "text": "CO.(M) SDN BHD",
+   "conf": 0.9698570200375148
+  },
+  {
+   "text": "(Co.No.113825-W)",
+   "conf": 0.9707926698029041
+  },
+  {
+   "text": "(GST Reg No.001492992000)",
+   "conf": 0.9730987811088562
+  },
+  {
+   "text": "No 8,Jalan 7/118B,Desa Tun Razak",
+   "conf": 0.9337481912225485
+  },
+  {
+   "text": "560o0 Kuala Lumpur,Malaysia",
+   "conf": 0.929002770671138
+  },
+  {
+   "text": "AMPANG POINT CENTRE",
+   "conf": 0.9796119991101717
+  },
+  {
+   "text": "Tel:03-42601064/66",
+   "conf": 0.9748463299539354
+  },
+  {
+   "text": "11/02/1819:21",
+   "conf": 0.9941138625144958
+  },
+  {
+   "text": "Slip No.: 6030098553",
+   "conf": 0.9631270796060563
+  },
+  {
+   "text": "Mohd Nor Azmi",
+   "conf": 0.941039291711954
+  },
+  {
+   "text": "Trans: 79369",
+   "conf": 0.9791074047485987
+  },
+  {
+   "text": "Deseription",
+   "conf": 0.9659907492724332
+  },
+  {
+   "text": "Amount",
+   "conf": 0.9923463066418966
+  },
+  {
+   "text": "PB D/S Tape12mm",
+   "conf": 0.9555052598317464
+  },
+  {
+   "text": "1.90T",
+   "conf": 0.9966226577758789
+  },
+  {
+   "text": "H/CA4400'S",
+   "conf": 0.9776179134845734
+  },
+  {
+   "text": "9.90T",
+   "conf": 0.9981770753860474
+  },
+  {
+   "text": "Total RM Incl. of GST",
+   "conf": 0.9593855880555653
+  },
+  {
+   "text": "11.80",
+   "conf": 0.9979421138763428
+  },
+  {
+   "text": "Cash",
+   "conf": 0.9970506727695465
+  },
+  {
+   "text": "-11.80",
+   "conf": 0.9965616464614868
+  },
+  {
+   "text": "Item Count",
+   "conf": 0.9824296593666076
+  },
+  {
+   "text": "2",
+   "conf": 0.9991600513458252
+  },
+  {
+   "text": "GST Summary",
+   "conf": 0.9870090863921426
+  },
+  {
+   "text": "Amount（RM)",
+   "conf": 0.9249270975589752
+  },
+  {
+   "text": "Tax(RM)",
+   "conf": 0.9153549500874111
+  },
+  {
+   "text": "T@6%",
+   "conf": 0.9781087934970856
+  },
+  {
+   "text": "11.13",
+   "conf": 0.9976051330566407
+  },
+  {
+   "text": "0.67",
+   "conf": 0.9982674568891525
+  },
+  {
+   "text": "Total Savings",
+   "conf": 0.9720094158099248
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9993610829114914
+  },
+  {
+   "text": "BE A POPULAR CARD MEMBER",
+   "conf": 0.9691455264886221
+  },
+  {
+   "text": "AND ENJOY SPECIAL DISCOUNTS",
+   "conf": 0.9884269877716347
+  },
+  {
+   "text": "THANK YOU.PLEASE COME AGAIN.",
+   "conf": 0.9727894876684461
+  },
+  {
+   "text": "www.popular.com.my",
+   "conf": 0.991975810792711
+  },
+  {
+   "text": "Buy Chinese books online",
+   "conf": 0.9423180719216665
+  },
+  {
+   "text": "www.popularonline.com.my",
+   "conf": 0.9362975334127744
+  }
+ ],
+ "mean_conf": 0.9729,
+ "low_conf_share": 0.0,
+ "latency_ms": 4892,
+ "fields": {
+  "company": "POPULAR BOOK CO SDN BHD",
+  "date": null,
+  "total": 11.8
+ },
+ "rule_reasons": [
+  "date_not_found"
+ ],
+ "total_candidates": [
+  11.8
+ ],
+ "key": "X51005722699"
+}

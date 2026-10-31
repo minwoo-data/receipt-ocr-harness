@@ -1,0 +1,184 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "12/17/2016509PM SalesReceipt #19204",
+  "Store:CRP Workstation:1",
+  "FIREARMS UNKNOWN",
+  "Firearms Unknown",
+  "416National CityBvd.Unit B",
+  "NationalCity.CA91950",
+  "(619)507-3174",
+  "ReturmsAcceptedWithin 14Days",
+  "Store Credit Only.NoRefunds",
+  "Cashier.Grover",
+  "Item Name Qly Price ExtPrice",
+  "ACE Skeleton Stock 1 66665 S99.99N",
+  "Black Rifle D%20.01%",
+  "Subtotal: $99.99",
+  "GovtTheft AKA 9%Tax 00'6S+",
+  "CCEIPTTOTAL: $108.99",
+  "Cash:S108.99",
+  "Total Sales Discounts $25.01",
+  "Thanksforshopping with us!",
+  "19204"
+ ],
+ "tokens": [
+  {
+   "text": "12/17/2016509PM",
+   "conf": 0.9961250384648641
+  },
+  {
+   "text": "SalesReceipt #19204",
+   "conf": 0.9605787490543566
+  },
+  {
+   "text": "Store:CRP",
+   "conf": 0.9666718045870463
+  },
+  {
+   "text": "Workstation:1",
+   "conf": 0.9556219165141766
+  },
+  {
+   "text": "FIREARMS",
+   "conf": 0.9771575331687927
+  },
+  {
+   "text": "UNKNOWN",
+   "conf": 0.9831039990697589
+  },
+  {
+   "text": "Firearms Unknown",
+   "conf": 0.9671850390732288
+  },
+  {
+   "text": "416National CityBvd.Unit B",
+   "conf": 0.9466386850063617
+  },
+  {
+   "text": "NationalCity.CA91950",
+   "conf": 0.973692637681961
+  },
+  {
+   "text": "(619)507-3174",
+   "conf": 0.960095213009761
+  },
+  {
+   "text": "ReturmsAcceptedWithin 14Days",
+   "conf": 0.9400605027164731
+  },
+  {
+   "text": "Store Credit Only.NoRefunds",
+   "conf": 0.9348314470714993
+  },
+  {
+   "text": "Cashier.Grover",
+   "conf": 0.9698850640228817
+  },
+  {
+   "text": "Item Name",
+   "conf": 0.9090383715099759
+  },
+  {
+   "text": "Qly",
+   "conf": 0.8546322186787924
+  },
+  {
+   "text": "Price",
+   "conf": 0.9860311508178711
+  },
+  {
+   "text": "ExtPrice",
+   "conf": 0.9774839580059052
+  },
+  {
+   "text": "ACE Skeleton Stock",
+   "conf": 0.9530346095561981
+  },
+  {
+   "text": "1",
+   "conf": 0.9878354668617249
+  },
+  {
+   "text": "66665",
+   "conf": 0.8390400350093842
+  },
+  {
+   "text": "S99.99N",
+   "conf": 0.9590185880661011
+  },
+  {
+   "text": "Black",
+   "conf": 0.9792837142944336
+  },
+  {
+   "text": "Rifle",
+   "conf": 0.9292158484458923
+  },
+  {
+   "text": "D%20.01%",
+   "conf": 0.9396375045180321
+  },
+  {
+   "text": "Subtotal:",
+   "conf": 0.9495979481273227
+  },
+  {
+   "text": "$99.99",
+   "conf": 0.9826104243596395
+  },
+  {
+   "text": "GovtTheft AKA",
+   "conf": 0.9350559115409851
+  },
+  {
+   "text": "9%Tax",
+   "conf": 0.9753280401229858
+  },
+  {
+   "text": "00'6S+",
+   "conf": 0.7917749285697937
+  },
+  {
+   "text": "CCEIPTTOTAL:",
+   "conf": 0.9628016104300817
+  },
+  {
+   "text": "$108.99",
+   "conf": 0.9872158936091832
+  },
+  {
+   "text": "Cash:S108.99",
+   "conf": 0.9660929789145788
+  },
+  {
+   "text": "Total Sales Discounts",
+   "conf": 0.9629653209731692
+  },
+  {
+   "text": "$25.01",
+   "conf": 0.9337259829044342
+  },
+  {
+   "text": "Thanksforshopping with us!",
+   "conf": 0.9507573430354779
+  },
+  {
+   "text": "19204",
+   "conf": 0.997823703289032
+  }
+ ],
+ "mean_conf": 0.9512,
+ "low_conf_share": 0.0,
+ "latency_ms": 2494,
+ "fields": {
+  "company": "STORE CRP WORKSTATION 1",
+  "date": "2016-12-17",
+  "total": 25.01
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  25.01
+ ],
+ "key": "W0194_9b8fa37d3e44"
+}

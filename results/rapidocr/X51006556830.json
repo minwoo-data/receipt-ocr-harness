@@ -1,0 +1,301 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "PINGHWAITRADINGSDNBHD",
+  "(1211036-W)",
+  "NO.2,JALANMETROPERDANATIMUR11,",
+  "KEPONGENTERPRENUERSPARK",
+  "OFFJALANKEPONG,",
+  "52100KUALALUMPUR",
+  "TEL:0122648835 FAX:603-62592420",
+  "GSTID:001371123712",
+  "TAXINVOICE",
+  "DocNo. :CS00020001 Date:23/09/2017",
+  "Cashier :USER Time:12:11:00",
+  "Salesperson： Ref.:",
+  "(GST) (GST)",
+  "Item Qty S/Price S/Price Amount Tax",
+  "17007 65.00 15.50 15.50 1,007.50 ZRL",
+  "UDANGKERING",
+  "TotalQty: 65.00 1,007.50",
+  "TotalSales(ExcludingGST): 1,007.50",
+  "Discount: 0.00",
+  "TotalGST: 0.00",
+  "Rounding： 0.00",
+  "Total Sales(Inclusive ofGsT): 1,007.50",
+  "CASH: 1,100.00",
+  "Change: 92.50",
+  "GSTSUMMARY",
+  "TaxCode % Amt(RM) Tax(RM)",
+  "ZRL 0 1,007.50 0.00",
+  "Total: 1,007.50 0.00",
+  "GOODSSOLDARENOTRETURNABLE,THANKYOU."
+ ],
+ "tokens": [
+  {
+   "text": "PINGHWAITRADINGSDNBHD",
+   "conf": 0.9939792667116437
+  },
+  {
+   "text": "(1211036-W)",
+   "conf": 0.9606811620972373
+  },
+  {
+   "text": "NO.2,JALANMETROPERDANATIMUR11,",
+   "conf": 0.9600720703601837
+  },
+  {
+   "text": "KEPONGENTERPRENUERSPARK",
+   "conf": 0.9915168907331384
+  },
+  {
+   "text": "OFFJALANKEPONG,",
+   "conf": 0.9673885941505432
+  },
+  {
+   "text": "52100KUALALUMPUR",
+   "conf": 0.9912694506347179
+  },
+  {
+   "text": "TEL:0122648835",
+   "conf": 0.9817238535199847
+  },
+  {
+   "text": "FAX:603-62592420",
+   "conf": 0.9861086457967758
+  },
+  {
+   "text": "GSTID:001371123712",
+   "conf": 0.9855144752396477
+  },
+  {
+   "text": "TAXINVOICE",
+   "conf": 0.996487683057785
+  },
+  {
+   "text": "DocNo.",
+   "conf": 0.9880063931147257
+  },
+  {
+   "text": ":CS00020001",
+   "conf": 0.9481319758025083
+  },
+  {
+   "text": "Date:23/09/2017",
+   "conf": 0.9894080837567647
+  },
+  {
+   "text": "Cashier",
+   "conf": 0.9938952497073582
+  },
+  {
+   "text": ":USER",
+   "conf": 0.8917757511138916
+  },
+  {
+   "text": "Time:12:11:00",
+   "conf": 0.9669384222764236
+  },
+  {
+   "text": "Salesperson：",
+   "conf": 0.9516574641068777
+  },
+  {
+   "text": "Ref.:",
+   "conf": 0.916967248916626
+  },
+  {
+   "text": "(GST)",
+   "conf": 0.981434452533722
+  },
+  {
+   "text": "(GST)",
+   "conf": 0.9806841015815735
+  },
+  {
+   "text": "Item",
+   "conf": 0.8878191560506821
+  },
+  {
+   "text": "Qty",
+   "conf": 0.9965922236442566
+  },
+  {
+   "text": "S/Price",
+   "conf": 0.9479722806385585
+  },
+  {
+   "text": "S/Price",
+   "conf": 0.9725476247923714
+  },
+  {
+   "text": "Amount",
+   "conf": 0.9942032396793365
+  },
+  {
+   "text": "Tax",
+   "conf": 0.987443745136261
+  },
+  {
+   "text": "17007",
+   "conf": 0.9989646553993226
+  },
+  {
+   "text": "65.00",
+   "conf": 0.9986229777336121
+  },
+  {
+   "text": "15.50",
+   "conf": 0.9977018475532532
+  },
+  {
+   "text": "15.50",
+   "conf": 0.9972620248794556
+  },
+  {
+   "text": "1,007.50",
+   "conf": 0.9851246476173401
+  },
+  {
+   "text": "ZRL",
+   "conf": 0.9835261305173238
+  },
+  {
+   "text": "UDANGKERING",
+   "conf": 0.9914503639394586
+  },
+  {
+   "text": "TotalQty:",
+   "conf": 0.950528879960378
+  },
+  {
+   "text": "65.00",
+   "conf": 0.9985869526863098
+  },
+  {
+   "text": "1,007.50",
+   "conf": 0.986545667052269
+  },
+  {
+   "text": "TotalSales(ExcludingGST):",
+   "conf": 0.9405283665657044
+  },
+  {
+   "text": "1,007.50",
+   "conf": 0.9581916257739067
+  },
+  {
+   "text": "Discount:",
+   "conf": 0.942300902472602
+  },
+  {
+   "text": "0.00",
+   "conf": 0.998600035905838
+  },
+  {
+   "text": "TotalGST:",
+   "conf": 0.9434415698051453
+  },
+  {
+   "text": "0.00",
+   "conf": 0.998866617679596
+  },
+  {
+   "text": "Rounding：",
+   "conf": 0.9423064490159353
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9987556487321854
+  },
+  {
+   "text": "Total Sales(Inclusive ofGsT):",
+   "conf": 0.9283765780514684
+  },
+  {
+   "text": "1,007.50",
+   "conf": 0.9886272475123405
+  },
+  {
+   "text": "CASH:",
+   "conf": 0.9458949089050293
+  },
+  {
+   "text": "1,100.00",
+   "conf": 0.9821774885058403
+  },
+  {
+   "text": "Change:",
+   "conf": 0.9629503318241665
+  },
+  {
+   "text": "92.50",
+   "conf": 0.9989441633224487
+  },
+  {
+   "text": "GSTSUMMARY",
+   "conf": 0.992565655708313
+  },
+  {
+   "text": "TaxCode",
+   "conf": 0.9954293029648917
+  },
+  {
+   "text": "%",
+   "conf": 0.9770860075950623
+  },
+  {
+   "text": "Amt(RM)",
+   "conf": 0.9301943438393729
+  },
+  {
+   "text": "Tax(RM)",
+   "conf": 0.9132858514785767
+  },
+  {
+   "text": "ZRL",
+   "conf": 0.9746375679969788
+  },
+  {
+   "text": "0",
+   "conf": 0.911314070224762
+  },
+  {
+   "text": "1,007.50",
+   "conf": 0.9792981594800949
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9983928352594376
+  },
+  {
+   "text": "Total:",
+   "conf": 0.9890200694402059
+  },
+  {
+   "text": "1,007.50",
+   "conf": 0.9881225973367691
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9984884411096573
+  },
+  {
+   "text": "GOODSSOLDARENOTRETURNABLE,THANKYOU.",
+   "conf": 0.9682408911841256
+  }
+ ],
+ "mean_conf": 0.9721,
+ "low_conf_share": 0.0,
+ "latency_ms": 5598,
+ "fields": {
+  "company": "PINGHWAITRADINGSDNBHD",
+  "date": "2017-09-23",
+  "total": 1007.5
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  1007.5
+ ],
+ "key": "X51006556830"
+}

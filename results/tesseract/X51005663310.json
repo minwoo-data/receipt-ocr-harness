@@ -1,0 +1,458 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "© 31B 02° | 2°",
+  ";",
+  "LIM SENG THO HARDWARE FRADING",
+  "No 7, Simpang Off Batu Village",
+  "Jalan Ipoh Batu 5. 51200 Kuala Lumour",
+  "MALAYSIA",
+  "Tei & Fax Mo 03-6258 7191",
+  "03-6258 7191",
+  "Company Reg No. (002231061-T}",
+  "GST Reg No. 001269075968",
+  "TAX INVOICE",
+  "ace No CE 24388",
+  "Date 09/02/2018 10:05",
+  "Cashier # LST",
+  "RM Code",
+  "BEG GUNI",
+  "Subtotal : 840",
+  "Totai Incl of GST 8.40",
+  "Payment 8 40",
+  "Change Due ° 0.00",
+  "Total Item(s) > 12",
+  "GST Summary = Amount(RM) Tax(RM)",
+  "SR @ 6% 7.92 043",
+  "“**** PL EASE COME AGAIN **7\"\"",
+  "*COODS SOLD ARE NOT RETURNABLE“",
+  "Se ee ee ee ee"
+ ],
+ "tokens": [
+  {
+   "text": "©",
+   "conf": 0.7
+  },
+  {
+   "text": "31B",
+   "conf": 0.34
+  },
+  {
+   "text": "02°",
+   "conf": 0.31
+  },
+  {
+   "text": "|",
+   "conf": 0.35
+  },
+  {
+   "text": "2°",
+   "conf": 0.57
+  },
+  {
+   "text": ";",
+   "conf": 0.03
+  },
+  {
+   "text": "LIM",
+   "conf": 0.96
+  },
+  {
+   "text": "SENG",
+   "conf": 0.95
+  },
+  {
+   "text": "THO",
+   "conf": 0.96
+  },
+  {
+   "text": "HARDWARE",
+   "conf": 0.93
+  },
+  {
+   "text": "FRADING",
+   "conf": 0.25
+  },
+  {
+   "text": "No",
+   "conf": 0.96
+  },
+  {
+   "text": "7,",
+   "conf": 0.93
+  },
+  {
+   "text": "Simpang",
+   "conf": 0.89
+  },
+  {
+   "text": "Off",
+   "conf": 0.96
+  },
+  {
+   "text": "Batu",
+   "conf": 0.96
+  },
+  {
+   "text": "Village",
+   "conf": 0.96
+  },
+  {
+   "text": "Jalan",
+   "conf": 0.96
+  },
+  {
+   "text": "Ipoh",
+   "conf": 0.91
+  },
+  {
+   "text": "Batu",
+   "conf": 0.94
+  },
+  {
+   "text": "5.",
+   "conf": 0.89
+  },
+  {
+   "text": "51200",
+   "conf": 0.86
+  },
+  {
+   "text": "Kuala",
+   "conf": 0.92
+  },
+  {
+   "text": "Lumour",
+   "conf": 0.91
+  },
+  {
+   "text": "MALAYSIA",
+   "conf": 0.95
+  },
+  {
+   "text": "Tei",
+   "conf": 0.9
+  },
+  {
+   "text": "&",
+   "conf": 0.9
+  },
+  {
+   "text": "Fax",
+   "conf": 0.92
+  },
+  {
+   "text": "Mo",
+   "conf": 0.31
+  },
+  {
+   "text": "03-6258",
+   "conf": 0.81
+  },
+  {
+   "text": "7191",
+   "conf": 0.94
+  },
+  {
+   "text": "03-6258",
+   "conf": 0.95
+  },
+  {
+   "text": "7191",
+   "conf": 0.94
+  },
+  {
+   "text": "Company",
+   "conf": 0.96
+  },
+  {
+   "text": "Reg",
+   "conf": 0.96
+  },
+  {
+   "text": "No.",
+   "conf": 0.91
+  },
+  {
+   "text": "(002231061-T}",
+   "conf": 0.89
+  },
+  {
+   "text": "GST",
+   "conf": 0.96
+  },
+  {
+   "text": "Reg",
+   "conf": 0.95
+  },
+  {
+   "text": "No.",
+   "conf": 0.96
+  },
+  {
+   "text": "001269075968",
+   "conf": 0.0
+  },
+  {
+   "text": "TAX",
+   "conf": 0.95
+  },
+  {
+   "text": "INVOICE",
+   "conf": 0.95
+  },
+  {
+   "text": "ace",
+   "conf": 0.24
+  },
+  {
+   "text": "No",
+   "conf": 0.95
+  },
+  {
+   "text": "CE",
+   "conf": 0.84
+  },
+  {
+   "text": "24388",
+   "conf": 0.95
+  },
+  {
+   "text": "Date",
+   "conf": 0.95
+  },
+  {
+   "text": "09/02/2018",
+   "conf": 0.93
+  },
+  {
+   "text": "10:05",
+   "conf": 0.95
+  },
+  {
+   "text": "Cashier",
+   "conf": 0.89
+  },
+  {
+   "text": "#",
+   "conf": 0.89
+  },
+  {
+   "text": "LST",
+   "conf": 0.95
+  },
+  {
+   "text": "RM",
+   "conf": 0.96
+  },
+  {
+   "text": "Code",
+   "conf": 0.83
+  },
+  {
+   "text": "BEG",
+   "conf": 0.87
+  },
+  {
+   "text": "GUNI",
+   "conf": 0.82
+  },
+  {
+   "text": "Subtotal",
+   "conf": 0.91
+  },
+  {
+   "text": ":",
+   "conf": 0.81
+  },
+  {
+   "text": "840",
+   "conf": 0.83
+  },
+  {
+   "text": "Totai",
+   "conf": 0.92
+  },
+  {
+   "text": "Incl",
+   "conf": 0.86
+  },
+  {
+   "text": "of",
+   "conf": 0.94
+  },
+  {
+   "text": "GST",
+   "conf": 0.96
+  },
+  {
+   "text": "8.40",
+   "conf": 0.95
+  },
+  {
+   "text": "Payment",
+   "conf": 0.96
+  },
+  {
+   "text": "8",
+   "conf": 0.76
+  },
+  {
+   "text": "40",
+   "conf": 0.76
+  },
+  {
+   "text": "Change",
+   "conf": 0.96
+  },
+  {
+   "text": "Due",
+   "conf": 0.9
+  },
+  {
+   "text": "°",
+   "conf": 0.0
+  },
+  {
+   "text": "0.00",
+   "conf": 0.95
+  },
+  {
+   "text": "Total",
+   "conf": 0.93
+  },
+  {
+   "text": "Item(s)",
+   "conf": 0.58
+  },
+  {
+   "text": ">",
+   "conf": 0.31
+  },
+  {
+   "text": "12",
+   "conf": 0.92
+  },
+  {
+   "text": "GST",
+   "conf": 0.93
+  },
+  {
+   "text": "Summary",
+   "conf": 0.91
+  },
+  {
+   "text": "=",
+   "conf": 0.42
+  },
+  {
+   "text": "Amount(RM)",
+   "conf": 0.85
+  },
+  {
+   "text": "Tax(RM)",
+   "conf": 0.91
+  },
+  {
+   "text": "SR",
+   "conf": 0.95
+  },
+  {
+   "text": "@",
+   "conf": 0.93
+  },
+  {
+   "text": "6%",
+   "conf": 0.91
+  },
+  {
+   "text": "7.92",
+   "conf": 0.95
+  },
+  {
+   "text": "043",
+   "conf": 0.8
+  },
+  {
+   "text": "“****",
+   "conf": 0.11
+  },
+  {
+   "text": "PL",
+   "conf": 0.86
+  },
+  {
+   "text": "EASE",
+   "conf": 0.94
+  },
+  {
+   "text": "COME",
+   "conf": 0.95
+  },
+  {
+   "text": "AGAIN",
+   "conf": 0.92
+  },
+  {
+   "text": "**7\"\"",
+   "conf": 0.18
+  },
+  {
+   "text": "*COODS",
+   "conf": 0.31
+  },
+  {
+   "text": "SOLD",
+   "conf": 0.96
+  },
+  {
+   "text": "ARE",
+   "conf": 0.96
+  },
+  {
+   "text": "NOT",
+   "conf": 0.96
+  },
+  {
+   "text": "RETURNABLE“",
+   "conf": 0.0
+  },
+  {
+   "text": "Se",
+   "conf": 0.12
+  },
+  {
+   "text": "ee",
+   "conf": 0.16
+  },
+  {
+   "text": "ee",
+   "conf": 0.44
+  },
+  {
+   "text": "ee",
+   "conf": 0.23
+  },
+  {
+   "text": "ee",
+   "conf": 0.32
+  }
+ ],
+ "mean_conf": 0.7718,
+ "low_conf_share": 0.1961,
+ "latency_ms": 1723,
+ "fields": {
+  "company": "LIM SENG THO HARDWARE FRADING",
+  "date": "2018-02-09",
+  "total": 8.4
+ },
+ "rule_reasons": [
+  "total_no_keyword_fallback_max"
+ ],
+ "total_candidates": [
+  8.4,
+  0.0,
+  7.92
+ ],
+ "key": "X51005663310"
+}

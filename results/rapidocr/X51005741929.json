@@ -1,0 +1,223 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "MyMydin Subang Bestari 2300",
+  "MY MYDIN SDN BHD (257229-K)",
+  "No 13, 15, 17 & 19 Jalan Nova Q U5/Q,",
+  "Seksyen U5,Subang Bestari 40150 Shah Ala",
+  "Selangor Darul Ehsan",
+  "Tel: 03-78322935",
+  "GST 10 : 001400971264",
+  "RECEIPT",
+  "TERMINAl. : 1670",
+  "INVOICE NO. :1670327566",
+  "DATE : 15/01/2018 10:59: 13",
+  "CASHIER Azhar-928374",
+  "EVEREADY BAT S/H/D 1Z12BP4 AAAFA .S",
+  "9556500903668 1 *5.50 5.50",
+  "Item Count 1",
+  "Total 5.50 1",
+  "Rourding Adjustment 0.00",
+  "Total After Rounding 5.50",
+  "CASH 100.00",
+  "Change CASH 94.50",
+  "GSI Rate Amt Exc1 GST(RM) Tax(RI4)",
+  "S = 6% 5.19 0.31",
+  "Points earned in this trans. : 0",
+  "Receipt. No: 1670327566",
+  "Pr tot 0ate: 15/01/2018 10:59:23",
+  "Thiank You",
+  "Please Come Again"
+ ],
+ "tokens": [
+  {
+   "text": "MyMydin Subang Bestari 2300",
+   "conf": 0.9843836470886513
+  },
+  {
+   "text": "MY MYDIN SDN BHD (257229-K)",
+   "conf": 0.994424025217692
+  },
+  {
+   "text": "No 13, 15, 17 & 19 Jalan Nova Q U5/Q,",
+   "conf": 0.9484410543699522
+  },
+  {
+   "text": "Seksyen U5,Subang Bestari 40150 Shah Ala",
+   "conf": 0.993559741973877
+  },
+  {
+   "text": "Selangor Darul Ehsan",
+   "conf": 0.9729598879814148
+  },
+  {
+   "text": "Tel: 03-78322935",
+   "conf": 0.9673727676272392
+  },
+  {
+   "text": "GST 10 : 001400971264",
+   "conf": 0.9785538599604652
+  },
+  {
+   "text": "RECEIPT",
+   "conf": 0.9989783338138035
+  },
+  {
+   "text": "TERMINAl.",
+   "conf": 0.8835919035805596
+  },
+  {
+   "text": ": 1670",
+   "conf": 0.9279538790384928
+  },
+  {
+   "text": "INVOICE NO.",
+   "conf": 0.9460608417337592
+  },
+  {
+   "text": ":1670327566",
+   "conf": 0.974093729799444
+  },
+  {
+   "text": "DATE",
+   "conf": 0.8925055861473083
+  },
+  {
+   "text": ": 15/01/2018 10:59: 13",
+   "conf": 0.9772226891734384
+  },
+  {
+   "text": "CASHIER",
+   "conf": 0.9886888010161263
+  },
+  {
+   "text": "Azhar-928374",
+   "conf": 0.9724393089612325
+  },
+  {
+   "text": ".S",
+   "conf": 0.9292088150978088
+  },
+  {
+   "text": "EVEREADY BAT S/H/D 1Z12BP4 AAAFA",
+   "conf": 0.8888303088024259
+  },
+  {
+   "text": "1 *5.50",
+   "conf": 0.934245126588004
+  },
+  {
+   "text": "5.50",
+   "conf": 0.999972015619278
+  },
+  {
+   "text": "9556500903668",
+   "conf": 0.9993197046793424
+  },
+  {
+   "text": "Item Count",
+   "conf": 0.9852831065654755
+  },
+  {
+   "text": "1",
+   "conf": 0.968257486820221
+  },
+  {
+   "text": "5.50 1",
+   "conf": 0.9289125005404154
+  },
+  {
+   "text": "Total",
+   "conf": 0.8681171059608459
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9986871033906937
+  },
+  {
+   "text": "Rourding Adjustment",
+   "conf": 0.959847607110676
+  },
+  {
+   "text": "Total After Rounding",
+   "conf": 0.9445098668336869
+  },
+  {
+   "text": "5.50",
+   "conf": 0.9999619722366333
+  },
+  {
+   "text": "CASH",
+   "conf": 0.9975232630968094
+  },
+  {
+   "text": "100.00",
+   "conf": 0.9997514386971792
+  },
+  {
+   "text": "Change CASH",
+   "conf": 0.9857210516929626
+  },
+  {
+   "text": "94.50",
+   "conf": 0.9999830961227417
+  },
+  {
+   "text": "GSI Rate",
+   "conf": 0.9360193908214569
+  },
+  {
+   "text": "Amt Exc1 GST(RM)",
+   "conf": 0.8976710699498653
+  },
+  {
+   "text": "Tax(RI4)",
+   "conf": 0.904195986688137
+  },
+  {
+   "text": "S = 6%",
+   "conf": 0.926772932211558
+  },
+  {
+   "text": "5.19",
+   "conf": 0.9998296499252319
+  },
+  {
+   "text": "0.31",
+   "conf": 0.9988434612751007
+  },
+  {
+   "text": "Points earned in this trans. : 0",
+   "conf": 0.9860203340649605
+  },
+  {
+   "text": "Receipt. No: 1670327566",
+   "conf": 0.906888538080713
+  },
+  {
+   "text": "Pr tot 0ate: 15/01/2018 10:59:23",
+   "conf": 0.9461286002770066
+  },
+  {
+   "text": "Thiank You",
+   "conf": 0.8713059723377228
+  },
+  {
+   "text": "Please Come Again",
+   "conf": 0.9712395983583787
+  }
+ ],
+ "mean_conf": 0.9576,
+ "low_conf_share": 0.0,
+ "latency_ms": 4536,
+ "fields": {
+  "company": "MY MYDIN SDN BHD",
+  "date": "2018-01-15",
+  "total": 5.5
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  5.5
+ ],
+ "key": "X51005741929"
+}

@@ -1,0 +1,433 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  ": -— EE",
+  "TQ FOR SHOPPING WITH myNEWS.com",
+  "PUSAT DAGANGAN PHILEO DAMANSARA",
+  "UNIT 105, BLOCK A,PUSAT DAGANGAN PHiLEO DAMANSARA,",
+  "| NO. 9, JALAN 16/11,,46350,PETALING JAYA,SELANGOR",
+  "myNEWScareline : 1800 88 1231",
+  "myNEWScareline@mynews.com.my",
+  "MYNEWS RETAIL SB(306295-X) FKA BISON STORES SB",
+  "TAX REG |D CBP 000709361664",
+  "‘ary PRICE ois AMT",
+  "GP GREENCELL EXTRA HEAVY DUTY AAA 442",
+  "1 6.00 0.00 6.00 SR",
+  "SUB TOTAL 6.00",
+  "GRAND TOTAL 6.00",
+  "CASH 50.00 MYR 50.00",
+  "CHANGE DUE 44.00",
+  "TOTAL QTY 1",
+  "SR : 0% Goobs ; 6.00 TAX: 0.00",
+  "28/06/2018 3:11:35 PM",
+  "BILL 1856 - 608 - 9161 - 2806180322",
+  "PRICE iS GST INCLUSIVE"
+ ],
+ "tokens": [
+  {
+   "text": ":",
+   "conf": 0.0
+  },
+  {
+   "text": "-—",
+   "conf": 0.12
+  },
+  {
+   "text": "EE",
+   "conf": 0.28
+  },
+  {
+   "text": "TQ",
+   "conf": 0.75
+  },
+  {
+   "text": "FOR",
+   "conf": 0.75
+  },
+  {
+   "text": "SHOPPING",
+   "conf": 0.92
+  },
+  {
+   "text": "WITH",
+   "conf": 0.93
+  },
+  {
+   "text": "myNEWS.com",
+   "conf": 0.9
+  },
+  {
+   "text": "PUSAT",
+   "conf": 0.92
+  },
+  {
+   "text": "DAGANGAN",
+   "conf": 0.92
+  },
+  {
+   "text": "PHILEO",
+   "conf": 0.64
+  },
+  {
+   "text": "DAMANSARA",
+   "conf": 0.9
+  },
+  {
+   "text": "UNIT",
+   "conf": 0.95
+  },
+  {
+   "text": "105,",
+   "conf": 0.95
+  },
+  {
+   "text": "BLOCK",
+   "conf": 0.93
+  },
+  {
+   "text": "A,PUSAT",
+   "conf": 0.92
+  },
+  {
+   "text": "DAGANGAN",
+   "conf": 0.92
+  },
+  {
+   "text": "PHiLEO",
+   "conf": 0.08
+  },
+  {
+   "text": "DAMANSARA,",
+   "conf": 0.87
+  },
+  {
+   "text": "|",
+   "conf": 0.86
+  },
+  {
+   "text": "NO.",
+   "conf": 0.91
+  },
+  {
+   "text": "9,",
+   "conf": 0.9
+  },
+  {
+   "text": "JALAN",
+   "conf": 0.93
+  },
+  {
+   "text": "16/11,,46350,PETALING",
+   "conf": 0.88
+  },
+  {
+   "text": "JAYA,SELANGOR",
+   "conf": 0.91
+  },
+  {
+   "text": "myNEWScareline",
+   "conf": 0.89
+  },
+  {
+   "text": ":",
+   "conf": 0.65
+  },
+  {
+   "text": "1800",
+   "conf": 0.96
+  },
+  {
+   "text": "88",
+   "conf": 0.95
+  },
+  {
+   "text": "1231",
+   "conf": 0.96
+  },
+  {
+   "text": "myNEWScareline@mynews.com.my",
+   "conf": 0.25
+  },
+  {
+   "text": "MYNEWS",
+   "conf": 0.92
+  },
+  {
+   "text": "RETAIL",
+   "conf": 0.93
+  },
+  {
+   "text": "SB(306295-X)",
+   "conf": 0.46
+  },
+  {
+   "text": "FKA",
+   "conf": 0.57
+  },
+  {
+   "text": "BISON",
+   "conf": 0.96
+  },
+  {
+   "text": "STORES",
+   "conf": 0.96
+  },
+  {
+   "text": "SB",
+   "conf": 0.91
+  },
+  {
+   "text": "TAX",
+   "conf": 0.96
+  },
+  {
+   "text": "REG",
+   "conf": 0.93
+  },
+  {
+   "text": "|D",
+   "conf": 0.67
+  },
+  {
+   "text": "CBP",
+   "conf": 0.96
+  },
+  {
+   "text": "000709361664",
+   "conf": 0.96
+  },
+  {
+   "text": "‘ary",
+   "conf": 0.41
+  },
+  {
+   "text": "PRICE",
+   "conf": 0.5
+  },
+  {
+   "text": "ois",
+   "conf": 0.07
+  },
+  {
+   "text": "AMT",
+   "conf": 0.96
+  },
+  {
+   "text": "GP",
+   "conf": 0.91
+  },
+  {
+   "text": "GREENCELL",
+   "conf": 0.91
+  },
+  {
+   "text": "EXTRA",
+   "conf": 0.95
+  },
+  {
+   "text": "HEAVY",
+   "conf": 0.95
+  },
+  {
+   "text": "DUTY",
+   "conf": 0.95
+  },
+  {
+   "text": "AAA",
+   "conf": 0.95
+  },
+  {
+   "text": "442",
+   "conf": 0.92
+  },
+  {
+   "text": "1",
+   "conf": 0.95
+  },
+  {
+   "text": "6.00",
+   "conf": 0.94
+  },
+  {
+   "text": "0.00",
+   "conf": 0.83
+  },
+  {
+   "text": "6.00",
+   "conf": 0.78
+  },
+  {
+   "text": "SR",
+   "conf": 0.78
+  },
+  {
+   "text": "SUB",
+   "conf": 0.87
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.92
+  },
+  {
+   "text": "6.00",
+   "conf": 0.96
+  },
+  {
+   "text": "GRAND",
+   "conf": 0.96
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.95
+  },
+  {
+   "text": "6.00",
+   "conf": 0.93
+  },
+  {
+   "text": "CASH",
+   "conf": 0.96
+  },
+  {
+   "text": "50.00",
+   "conf": 0.95
+  },
+  {
+   "text": "MYR",
+   "conf": 0.96
+  },
+  {
+   "text": "50.00",
+   "conf": 0.96
+  },
+  {
+   "text": "CHANGE",
+   "conf": 0.96
+  },
+  {
+   "text": "DUE",
+   "conf": 0.93
+  },
+  {
+   "text": "44.00",
+   "conf": 0.95
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.96
+  },
+  {
+   "text": "QTY",
+   "conf": 0.89
+  },
+  {
+   "text": "1",
+   "conf": 0.96
+  },
+  {
+   "text": "SR",
+   "conf": 0.78
+  },
+  {
+   "text": ":",
+   "conf": 0.8
+  },
+  {
+   "text": "0%",
+   "conf": 0.94
+  },
+  {
+   "text": "Goobs",
+   "conf": 0.32
+  },
+  {
+   "text": ";",
+   "conf": 0.57
+  },
+  {
+   "text": "6.00",
+   "conf": 0.89
+  },
+  {
+   "text": "TAX:",
+   "conf": 0.94
+  },
+  {
+   "text": "0.00",
+   "conf": 0.93
+  },
+  {
+   "text": "28/06/2018",
+   "conf": 0.95
+  },
+  {
+   "text": "3:11:35",
+   "conf": 0.95
+  },
+  {
+   "text": "PM",
+   "conf": 0.96
+  },
+  {
+   "text": "BILL",
+   "conf": 0.94
+  },
+  {
+   "text": "1856",
+   "conf": 0.93
+  },
+  {
+   "text": "-",
+   "conf": 0.92
+  },
+  {
+   "text": "608",
+   "conf": 0.87
+  },
+  {
+   "text": "-",
+   "conf": 0.92
+  },
+  {
+   "text": "9161",
+   "conf": 0.92
+  },
+  {
+   "text": "-",
+   "conf": 0.91
+  },
+  {
+   "text": "2806180322",
+   "conf": 0.96
+  },
+  {
+   "text": "PRICE",
+   "conf": 0.96
+  },
+  {
+   "text": "iS",
+   "conf": 0.72
+  },
+  {
+   "text": "GST",
+   "conf": 0.96
+  },
+  {
+   "text": "INCLUSIVE",
+   "conf": 0.96
+  }
+ ],
+ "mean_conf": 0.8339,
+ "low_conf_share": 0.0918,
+ "latency_ms": 1286,
+ "fields": {
+  "company": "TQ FOR SHOPPING WITH MYNEWS COM",
+  "date": "2018-06-28",
+  "total": 6.0
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  6.0
+ ],
+ "key": "X51007419197"
+}

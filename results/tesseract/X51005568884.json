@@ -1,0 +1,439 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "MR. D.I.Y. SDN BHD",
+  "(CO.REG :704427-T )",
+  "LOT 1651-A & 1851-B, JALAN KPB 6,",
+  "KAWASAN PERINDUSTRIAN BALAKONG,",
+  "43300 SERI KEMBANGAN, SELANGOR",
+  "(GST ID No :001092886528)",
+  "(CHERAS LEISURE MALL)",
+  "TAX INVOICE-",
+  "BATTERY .hU3-4B fAA 4 PCS *§",
+  "XC12 - 12/144",
+  "9021937 1X 3.90 3,90",
+  "Item(s) : 1 Qty(s) : 1",
+  "Total Incl. GST@6% RM 3.90",
+  "CASH RM 4,00",
+  "CHANGE RM 0.10",
+  "GST Summary Amt(RM) = Tax(RM)",
+  "GST S@6% 3.68 0.22",
+  "i mt se ns oe eet a ee ce",
+  "24-11-17 13:11 SHO1 ZT09 T2 ROO0011248",
+  "OPERATOR TRAINEE CASHIER",
+  "EXCHANGE ARE ALLOWED WITHIN",
+  "7 DAYS WITH RECEIPT.",
+  "STRICTLY NO CASH REFUND."
+ ],
+ "tokens": [
+  {
+   "text": "MR.",
+   "conf": 0.92
+  },
+  {
+   "text": "D.I.Y.",
+   "conf": 0.32
+  },
+  {
+   "text": "SDN",
+   "conf": 0.78
+  },
+  {
+   "text": "BHD",
+   "conf": 0.82
+  },
+  {
+   "text": "(CO.REG",
+   "conf": 0.9
+  },
+  {
+   "text": ":704427-T",
+   "conf": 0.92
+  },
+  {
+   "text": ")",
+   "conf": 0.89
+  },
+  {
+   "text": "LOT",
+   "conf": 0.92
+  },
+  {
+   "text": "1651-A",
+   "conf": 0.2
+  },
+  {
+   "text": "&",
+   "conf": 0.92
+  },
+  {
+   "text": "1851-B,",
+   "conf": 0.91
+  },
+  {
+   "text": "JALAN",
+   "conf": 0.93
+  },
+  {
+   "text": "KPB",
+   "conf": 0.91
+  },
+  {
+   "text": "6,",
+   "conf": 0.96
+  },
+  {
+   "text": "KAWASAN",
+   "conf": 0.92
+  },
+  {
+   "text": "PERINDUSTRIAN",
+   "conf": 0.91
+  },
+  {
+   "text": "BALAKONG,",
+   "conf": 0.9
+  },
+  {
+   "text": "43300",
+   "conf": 0.89
+  },
+  {
+   "text": "SERI",
+   "conf": 0.92
+  },
+  {
+   "text": "KEMBANGAN,",
+   "conf": 0.91
+  },
+  {
+   "text": "SELANGOR",
+   "conf": 0.96
+  },
+  {
+   "text": "(GST",
+   "conf": 0.7
+  },
+  {
+   "text": "ID",
+   "conf": 0.94
+  },
+  {
+   "text": "No",
+   "conf": 0.93
+  },
+  {
+   "text": ":001092886528)",
+   "conf": 0.87
+  },
+  {
+   "text": "(CHERAS",
+   "conf": 0.92
+  },
+  {
+   "text": "LEISURE",
+   "conf": 0.95
+  },
+  {
+   "text": "MALL)",
+   "conf": 0.96
+  },
+  {
+   "text": "TAX",
+   "conf": 0.9
+  },
+  {
+   "text": "INVOICE-",
+   "conf": 0.9
+  },
+  {
+   "text": "BATTERY",
+   "conf": 0.93
+  },
+  {
+   "text": ".hU3-4B",
+   "conf": 0.0
+  },
+  {
+   "text": "fAA",
+   "conf": 0.18
+  },
+  {
+   "text": "4",
+   "conf": 0.96
+  },
+  {
+   "text": "PCS",
+   "conf": 0.96
+  },
+  {
+   "text": "*§",
+   "conf": 0.85
+  },
+  {
+   "text": "XC12",
+   "conf": 0.85
+  },
+  {
+   "text": "-",
+   "conf": 0.62
+  },
+  {
+   "text": "12/144",
+   "conf": 0.83
+  },
+  {
+   "text": "9021937",
+   "conf": 0.46
+  },
+  {
+   "text": "1X",
+   "conf": 0.93
+  },
+  {
+   "text": "3.90",
+   "conf": 0.94
+  },
+  {
+   "text": "3,90",
+   "conf": 0.94
+  },
+  {
+   "text": "Item(s)",
+   "conf": 0.92
+  },
+  {
+   "text": ":",
+   "conf": 0.85
+  },
+  {
+   "text": "1",
+   "conf": 0.96
+  },
+  {
+   "text": "Qty(s)",
+   "conf": 0.89
+  },
+  {
+   "text": ":",
+   "conf": 0.89
+  },
+  {
+   "text": "1",
+   "conf": 0.94
+  },
+  {
+   "text": "Total",
+   "conf": 0.96
+  },
+  {
+   "text": "Incl.",
+   "conf": 0.92
+  },
+  {
+   "text": "GST@6%",
+   "conf": 0.89
+  },
+  {
+   "text": "RM",
+   "conf": 0.94
+  },
+  {
+   "text": "3.90",
+   "conf": 0.94
+  },
+  {
+   "text": "CASH",
+   "conf": 0.96
+  },
+  {
+   "text": "RM",
+   "conf": 0.94
+  },
+  {
+   "text": "4,00",
+   "conf": 0.9
+  },
+  {
+   "text": "CHANGE",
+   "conf": 0.96
+  },
+  {
+   "text": "RM",
+   "conf": 0.94
+  },
+  {
+   "text": "0.10",
+   "conf": 0.78
+  },
+  {
+   "text": "GST",
+   "conf": 0.95
+  },
+  {
+   "text": "Summary",
+   "conf": 0.95
+  },
+  {
+   "text": "Amt(RM)",
+   "conf": 0.91
+  },
+  {
+   "text": "=",
+   "conf": 0.48
+  },
+  {
+   "text": "Tax(RM)",
+   "conf": 0.48
+  },
+  {
+   "text": "GST",
+   "conf": 0.93
+  },
+  {
+   "text": "S@6%",
+   "conf": 0.85
+  },
+  {
+   "text": "3.68",
+   "conf": 0.79
+  },
+  {
+   "text": "0.22",
+   "conf": 0.95
+  },
+  {
+   "text": "i",
+   "conf": 0.32
+  },
+  {
+   "text": "mt",
+   "conf": 0.35
+  },
+  {
+   "text": "se",
+   "conf": 0.12
+  },
+  {
+   "text": "ns",
+   "conf": 0.1
+  },
+  {
+   "text": "oe",
+   "conf": 0.18
+  },
+  {
+   "text": "eet",
+   "conf": 0.37
+  },
+  {
+   "text": "a",
+   "conf": 0.48
+  },
+  {
+   "text": "ee",
+   "conf": 0.48
+  },
+  {
+   "text": "ce",
+   "conf": 0.15
+  },
+  {
+   "text": "24-11-17",
+   "conf": 0.95
+  },
+  {
+   "text": "13:11",
+   "conf": 0.92
+  },
+  {
+   "text": "SHO1",
+   "conf": 0.7
+  },
+  {
+   "text": "ZT09",
+   "conf": 0.7
+  },
+  {
+   "text": "T2",
+   "conf": 0.7
+  },
+  {
+   "text": "ROO0011248",
+   "conf": 0.53
+  },
+  {
+   "text": "OPERATOR",
+   "conf": 0.84
+  },
+  {
+   "text": "TRAINEE",
+   "conf": 0.95
+  },
+  {
+   "text": "CASHIER",
+   "conf": 0.96
+  },
+  {
+   "text": "EXCHANGE",
+   "conf": 0.96
+  },
+  {
+   "text": "ARE",
+   "conf": 0.96
+  },
+  {
+   "text": "ALLOWED",
+   "conf": 0.95
+  },
+  {
+   "text": "WITHIN",
+   "conf": 0.95
+  },
+  {
+   "text": "7",
+   "conf": 0.94
+  },
+  {
+   "text": "DAYS",
+   "conf": 0.94
+  },
+  {
+   "text": "WITH",
+   "conf": 0.96
+  },
+  {
+   "text": "RECEIPT.",
+   "conf": 0.91
+  },
+  {
+   "text": "STRICTLY",
+   "conf": 0.96
+  },
+  {
+   "text": "NO",
+   "conf": 0.96
+  },
+  {
+   "text": "CASH",
+   "conf": 0.95
+  },
+  {
+   "text": "REFUND.",
+   "conf": 0.93
+  }
+ ],
+ "mean_conf": 0.8007,
+ "low_conf_share": 0.1616,
+ "latency_ms": 1368,
+ "fields": {
+  "company": "MR D I Y SDN BHD",
+  "date": "2017-11-24",
+  "total": 3.9
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  3.9
+ ],
+ "key": "X51005568884"
+}

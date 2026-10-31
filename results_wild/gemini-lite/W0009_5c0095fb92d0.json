@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.1-flash-lite",
+ "provider": "gemini",
+ "raw_text": "{\n  \"vendor\": \"Walgreens\",\n  \"date\": \"2014-01-24\",\n  \"subtotal\": 9.72,\n  \"tax\": 0.79,\n  \"tip\": null,\n  \"discount\": -2.0,\n  \"total\": 10.51,\n  \"currency\": \"USD\",\n  \"confidence\": 0.98,\n  \"notes\": \"Rewards redemption of 5.00 was applied to the total.\"\n}",
+ "data": {
+  "vendor": "Walgreens",
+  "date": "2014-01-24",
+  "subtotal": 9.72,
+  "tax": 0.79,
+  "tip": null,
+  "discount": -2.0,
+  "total": 10.51,
+  "currency": "USD",
+  "confidence": 0.98,
+  "notes": "Rewards redemption of 5.00 was applied to the total."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1425,
+  "output_tokens": 122,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.000539,
+ "latency_ms": 1647,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.1-flash-lite",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.1-flash-lite"
+ ],
+ "key": "W0009_5c0095fb92d0"
+}

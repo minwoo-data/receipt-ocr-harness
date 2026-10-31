@@ -1,0 +1,147 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "99SPEED NART 5/8(519537-X)",
+  "LOTP.T.33198,BATU4",
+  "JALAN KAPAR,MUKIM KAPAR",
+  "42100 KLANG, SELANGOR",
+  "1320-TMN BATU",
+  "GST ID.N0:000181747712",
+  "INV01CE N0:17566/102/T0280",
+  "08:25PM 559843 03-02-16",
+  "2838 YONGCHUN LOKAM MANDART RM82.80Z",
+  "6XRM13.80",
+  "Total Sales (Inclusive GST) RM 82.80",
+  "CREDIT RM 82.80",
+  "CHANGE RM .00",
+  "GST Summary Amount(RM) Tax(RM)",
+  "Z=0% 82.80 .00",
+  "Thank You.Please cowe again",
+  "Keep the invoice for applicable returns"
+ ],
+ "tokens": [
+  {
+   "text": "99SPEED NART 5/8(519537-X)",
+   "conf": 0.8867980299087671
+  },
+  {
+   "text": "LOTP.T.33198,BATU4",
+   "conf": 0.910834433303939
+  },
+  {
+   "text": "JALAN KAPAR,MUKIM KAPAR",
+   "conf": 0.940947413444519
+  },
+  {
+   "text": "42100 KLANG, SELANGOR",
+   "conf": 0.9462948015757969
+  },
+  {
+   "text": "1320-TMN BATU",
+   "conf": 0.9471940765014062
+  },
+  {
+   "text": "GST ID.N0:000181747712",
+   "conf": 0.9169865088029341
+  },
+  {
+   "text": "INV01CE N0:17566/102/T0280",
+   "conf": 0.9468425122591165
+  },
+  {
+   "text": "08:25PM",
+   "conf": 0.9501877852848598
+  },
+  {
+   "text": "559843",
+   "conf": 0.995190441608429
+  },
+  {
+   "text": "03-02-16",
+   "conf": 0.9935693517327309
+  },
+  {
+   "text": "2838 YONGCHUN LOKAM MANDART",
+   "conf": 0.9297391463209081
+  },
+  {
+   "text": "RM82.80Z",
+   "conf": 0.9026531875133514
+  },
+  {
+   "text": "6XRM13.80",
+   "conf": 0.9435565935240852
+  },
+  {
+   "text": "Total Sales (Inclusive GST) RM",
+   "conf": 0.8909324725468953
+  },
+  {
+   "text": "82.80",
+   "conf": 0.9890912532806396
+  },
+  {
+   "text": "CREDIT RM",
+   "conf": 0.9561983148256937
+  },
+  {
+   "text": "82.80",
+   "conf": 0.9739447474479676
+  },
+  {
+   "text": "CHANGE RM",
+   "conf": 0.9474722941716512
+  },
+  {
+   "text": ".00",
+   "conf": 0.8677511811256409
+  },
+  {
+   "text": "GST Summary",
+   "conf": 0.8388177210634405
+  },
+  {
+   "text": "Amount(RM)",
+   "conf": 0.8245550453662872
+  },
+  {
+   "text": "Tax(RM)",
+   "conf": 0.8322573815073285
+  },
+  {
+   "text": "Z=0%",
+   "conf": 0.7214852422475815
+  },
+  {
+   "text": "82.80",
+   "conf": 0.9791152119636536
+  },
+  {
+   "text": ".00",
+   "conf": 0.9352473417917887
+  },
+  {
+   "text": "Thank You.Please cowe again",
+   "conf": 0.9332312908437517
+  },
+  {
+   "text": "Keep the invoice for applicable returns",
+   "conf": 0.9533356871360388
+  }
+ ],
+ "mean_conf": 0.9205,
+ "low_conf_share": 0.0,
+ "latency_ms": 5169,
+ "fields": {
+  "company": null,
+  "date": "2016-02-03",
+  "total": 82.8
+ },
+ "rule_reasons": [
+  "company_not_found"
+ ],
+ "total_candidates": [
+  82.8
+ ],
+ "key": "X51006619696"
+}

@@ -1,0 +1,416 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "Sunshine POS",
+  "Sold To: Samples",
+  "SAMPLES/#14107 - August 07, 2001",
+  "Bedwetting (1 FL. Oz.) $8.50",
+  "C, VITAMIN-CITRUS Biof lav/500 $10.95",
+  "ALJ (2 FL. 02) $9.50",
+  "HSN-H (KSP~STRUCTURAL, T-10) $11.25",
+  "ACIDOPHILUS-FLORA Force (90) $14.25,",
+  "Oregon Grape (2 FL. Oz.) $11.95",
+  "SUBTOTAL: $66.40",
+  "SALES TAX: $0.00",
+  "TOTAL: $66.40",
+  "PAYMENTS: $66.40",
+  "BALANCE DUE: $783.95",
+  "You Saved: $30.80",
+  "Total number of items: 6",
+  "Volumes: Invoice PVs Gx",
+  "NSP NC 225 205",
+  "¥Paid Invoices for Current Month Only",
+  "Cash: $66.40",
+  "Thank you for your order.",
+  "Please contact us with any",
+  "questions or problens you have,",
+  "iw. Sunshinesupport .com"
+ ],
+ "tokens": [
+  {
+   "text": "Sunshine",
+   "conf": 0.96
+  },
+  {
+   "text": "POS",
+   "conf": 0.94
+  },
+  {
+   "text": "Sold",
+   "conf": 0.96
+  },
+  {
+   "text": "To:",
+   "conf": 0.94
+  },
+  {
+   "text": "Samples",
+   "conf": 0.95
+  },
+  {
+   "text": "SAMPLES/#14107",
+   "conf": 0.79
+  },
+  {
+   "text": "-",
+   "conf": 0.83
+  },
+  {
+   "text": "August",
+   "conf": 0.94
+  },
+  {
+   "text": "07,",
+   "conf": 0.95
+  },
+  {
+   "text": "2001",
+   "conf": 0.92
+  },
+  {
+   "text": "Bedwetting",
+   "conf": 0.9
+  },
+  {
+   "text": "(1",
+   "conf": 0.87
+  },
+  {
+   "text": "FL.",
+   "conf": 0.87
+  },
+  {
+   "text": "Oz.)",
+   "conf": 0.91
+  },
+  {
+   "text": "$8.50",
+   "conf": 0.96
+  },
+  {
+   "text": "C,",
+   "conf": 0.87
+  },
+  {
+   "text": "VITAMIN-CITRUS",
+   "conf": 0.71
+  },
+  {
+   "text": "Biof",
+   "conf": 0.63
+  },
+  {
+   "text": "lav/500",
+   "conf": 0.63
+  },
+  {
+   "text": "$10.95",
+   "conf": 0.76
+  },
+  {
+   "text": "ALJ",
+   "conf": 0.89
+  },
+  {
+   "text": "(2",
+   "conf": 0.88
+  },
+  {
+   "text": "FL.",
+   "conf": 0.88
+  },
+  {
+   "text": "02)",
+   "conf": 0.88
+  },
+  {
+   "text": "$9.50",
+   "conf": 0.93
+  },
+  {
+   "text": "HSN-H",
+   "conf": 0.36
+  },
+  {
+   "text": "(KSP~STRUCTURAL,",
+   "conf": 0.12
+  },
+  {
+   "text": "T-10)",
+   "conf": 0.91
+  },
+  {
+   "text": "$11.25",
+   "conf": 0.52
+  },
+  {
+   "text": "ACIDOPHILUS-FLORA",
+   "conf": 0.66
+  },
+  {
+   "text": "Force",
+   "conf": 0.91
+  },
+  {
+   "text": "(90)",
+   "conf": 0.91
+  },
+  {
+   "text": "$14.25,",
+   "conf": 0.73
+  },
+  {
+   "text": "Oregon",
+   "conf": 0.91
+  },
+  {
+   "text": "Grape",
+   "conf": 0.95
+  },
+  {
+   "text": "(2",
+   "conf": 0.95
+  },
+  {
+   "text": "FL.",
+   "conf": 0.95
+  },
+  {
+   "text": "Oz.)",
+   "conf": 0.86
+  },
+  {
+   "text": "$11.95",
+   "conf": 0.71
+  },
+  {
+   "text": "SUBTOTAL:",
+   "conf": 0.86
+  },
+  {
+   "text": "$66.40",
+   "conf": 0.46
+  },
+  {
+   "text": "SALES",
+   "conf": 0.78
+  },
+  {
+   "text": "TAX:",
+   "conf": 0.95
+  },
+  {
+   "text": "$0.00",
+   "conf": 0.85
+  },
+  {
+   "text": "TOTAL:",
+   "conf": 0.6
+  },
+  {
+   "text": "$66.40",
+   "conf": 0.38
+  },
+  {
+   "text": "PAYMENTS:",
+   "conf": 0.88
+  },
+  {
+   "text": "$66.40",
+   "conf": 0.6
+  },
+  {
+   "text": "BALANCE",
+   "conf": 0.93
+  },
+  {
+   "text": "DUE:",
+   "conf": 0.44
+  },
+  {
+   "text": "$783.95",
+   "conf": 0.6
+  },
+  {
+   "text": "You",
+   "conf": 0.96
+  },
+  {
+   "text": "Saved:",
+   "conf": 0.96
+  },
+  {
+   "text": "$30.80",
+   "conf": 0.72
+  },
+  {
+   "text": "Total",
+   "conf": 0.95
+  },
+  {
+   "text": "number",
+   "conf": 0.95
+  },
+  {
+   "text": "of",
+   "conf": 0.95
+  },
+  {
+   "text": "items:",
+   "conf": 0.95
+  },
+  {
+   "text": "6",
+   "conf": 0.9
+  },
+  {
+   "text": "Volumes:",
+   "conf": 0.31
+  },
+  {
+   "text": "Invoice",
+   "conf": 0.42
+  },
+  {
+   "text": "PVs",
+   "conf": 0.42
+  },
+  {
+   "text": "Gx",
+   "conf": 0.0
+  },
+  {
+   "text": "NSP",
+   "conf": 0.95
+  },
+  {
+   "text": "NC",
+   "conf": 0.34
+  },
+  {
+   "text": "225",
+   "conf": 0.63
+  },
+  {
+   "text": "205",
+   "conf": 0.63
+  },
+  {
+   "text": "¥Paid",
+   "conf": 0.22
+  },
+  {
+   "text": "Invoices",
+   "conf": 0.96
+  },
+  {
+   "text": "for",
+   "conf": 0.96
+  },
+  {
+   "text": "Current",
+   "conf": 0.94
+  },
+  {
+   "text": "Month",
+   "conf": 0.95
+  },
+  {
+   "text": "Only",
+   "conf": 0.96
+  },
+  {
+   "text": "Cash:",
+   "conf": 0.73
+  },
+  {
+   "text": "$66.40",
+   "conf": 0.47
+  },
+  {
+   "text": "Thank",
+   "conf": 0.96
+  },
+  {
+   "text": "you",
+   "conf": 0.96
+  },
+  {
+   "text": "for",
+   "conf": 0.92
+  },
+  {
+   "text": "your",
+   "conf": 0.92
+  },
+  {
+   "text": "order.",
+   "conf": 0.82
+  },
+  {
+   "text": "Please",
+   "conf": 0.96
+  },
+  {
+   "text": "contact",
+   "conf": 0.94
+  },
+  {
+   "text": "us",
+   "conf": 0.94
+  },
+  {
+   "text": "with",
+   "conf": 0.96
+  },
+  {
+   "text": "any",
+   "conf": 0.96
+  },
+  {
+   "text": "questions",
+   "conf": 0.8
+  },
+  {
+   "text": "or",
+   "conf": 0.93
+  },
+  {
+   "text": "problens",
+   "conf": 0.91
+  },
+  {
+   "text": "you",
+   "conf": 0.86
+  },
+  {
+   "text": "have,",
+   "conf": 0.86
+  },
+  {
+   "text": "iw.",
+   "conf": 0.42
+  },
+  {
+   "text": "Sunshinesupport",
+   "conf": 0.54
+  },
+  {
+   "text": ".com",
+   "conf": 0.86
+  }
+ ],
+ "mean_conf": 0.788,
+ "low_conf_share": 0.1398,
+ "latency_ms": 1222,
+ "fields": {
+  "company": "SUNSHINE POS",
+  "date": "2007-08-07",
+  "total": 66.4
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  66.4
+ ],
+ "key": "W0052_8625ec7f4bdf"
+}

@@ -1,0 +1,486 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "buardian Health And Beauty Son Bhd",
+  "Bandar baru Ravana",
+  "No 15 Jalan Handar Kawang 10",
+  "Bandar Haru Rawang",
+  "lel:05-609S2057-",
+  "Lowpany Kea HT010H5-|",
+  "bb} Keg #000RYU74U16",
+  "Kit",
+  "121062680 100 PLUS SOOML 24 $",
+  "SUBIUTAL 2.20",
+  "IUIAL (bS! INUL) 2.28",
+  "LASH 4 5.00",
+  "RUUNDING ALJUSIMENTS 0.02",
+  "UHANbE DUE 0.70",
+  "bb! - Rate ———-G5! kxcl — bo! Ant",
+  "5 bh 215 0.15",
+  "nank You For Shopping",
+  "At buardian",
+  "ALL Amounts Are un Ri",
+  "boods sold are non-retundable. |",
+  "DISPENSE MedLCINES sold are",
+  "not returnable.",
+  "ALL exchanges and returns includina",
+  "buardian brand products gust be made",
+  "within ‘days with orloinal receipts and",
+  "product in original condition,",
+  "Stbee2 bord ibe20b5 laxiny:Z 1777",
+  "1/245 18/05/18"
+ ],
+ "tokens": [
+  {
+   "text": "buardian",
+   "conf": 0.73
+  },
+  {
+   "text": "Health",
+   "conf": 0.95
+  },
+  {
+   "text": "And",
+   "conf": 0.92
+  },
+  {
+   "text": "Beauty",
+   "conf": 0.5
+  },
+  {
+   "text": "Son",
+   "conf": 0.81
+  },
+  {
+   "text": "Bhd",
+   "conf": 0.62
+  },
+  {
+   "text": "Bandar",
+   "conf": 0.72
+  },
+  {
+   "text": "baru",
+   "conf": 0.46
+  },
+  {
+   "text": "Ravana",
+   "conf": 0.0
+  },
+  {
+   "text": "No",
+   "conf": 0.91
+  },
+  {
+   "text": "15",
+   "conf": 0.8
+  },
+  {
+   "text": "Jalan",
+   "conf": 0.86
+  },
+  {
+   "text": "Handar",
+   "conf": 0.23
+  },
+  {
+   "text": "Kawang",
+   "conf": 0.5
+  },
+  {
+   "text": "10",
+   "conf": 0.95
+  },
+  {
+   "text": "Bandar",
+   "conf": 0.14
+  },
+  {
+   "text": "Haru",
+   "conf": 0.91
+  },
+  {
+   "text": "Rawang",
+   "conf": 0.23
+  },
+  {
+   "text": "lel:05-609S2057-",
+   "conf": 0.13
+  },
+  {
+   "text": "Lowpany",
+   "conf": 0.37
+  },
+  {
+   "text": "Kea",
+   "conf": 0.74
+  },
+  {
+   "text": "HT010H5-|",
+   "conf": 0.0
+  },
+  {
+   "text": "bb}",
+   "conf": 0.54
+  },
+  {
+   "text": "Keg",
+   "conf": 0.64
+  },
+  {
+   "text": "#000RYU74U16",
+   "conf": 0.0
+  },
+  {
+   "text": "Kit",
+   "conf": 0.61
+  },
+  {
+   "text": "121062680",
+   "conf": 0.78
+  },
+  {
+   "text": "100",
+   "conf": 0.92
+  },
+  {
+   "text": "PLUS",
+   "conf": 0.41
+  },
+  {
+   "text": "SOOML",
+   "conf": 0.65
+  },
+  {
+   "text": "24",
+   "conf": 0.52
+  },
+  {
+   "text": "$",
+   "conf": 0.1
+  },
+  {
+   "text": "SUBIUTAL",
+   "conf": 0.47
+  },
+  {
+   "text": "2.20",
+   "conf": 0.64
+  },
+  {
+   "text": "IUIAL",
+   "conf": 0.46
+  },
+  {
+   "text": "(bS!",
+   "conf": 0.26
+  },
+  {
+   "text": "INUL)",
+   "conf": 0.75
+  },
+  {
+   "text": "2.28",
+   "conf": 0.61
+  },
+  {
+   "text": "LASH",
+   "conf": 0.5
+  },
+  {
+   "text": "4",
+   "conf": 0.79
+  },
+  {
+   "text": "5.00",
+   "conf": 0.81
+  },
+  {
+   "text": "RUUNDING",
+   "conf": 0.84
+  },
+  {
+   "text": "ALJUSIMENTS",
+   "conf": 0.28
+  },
+  {
+   "text": "0.02",
+   "conf": 0.61
+  },
+  {
+   "text": "UHANbE",
+   "conf": 0.08
+  },
+  {
+   "text": "DUE",
+   "conf": 0.42
+  },
+  {
+   "text": "0.70",
+   "conf": 0.78
+  },
+  {
+   "text": "bb!",
+   "conf": 0.6
+  },
+  {
+   "text": "-",
+   "conf": 0.88
+  },
+  {
+   "text": "Rate",
+   "conf": 0.92
+  },
+  {
+   "text": "———-G5!",
+   "conf": 0.0
+  },
+  {
+   "text": "kxcl",
+   "conf": 0.0
+  },
+  {
+   "text": "—",
+   "conf": 0.66
+  },
+  {
+   "text": "bo!",
+   "conf": 0.79
+  },
+  {
+   "text": "Ant",
+   "conf": 0.7
+  },
+  {
+   "text": "5",
+   "conf": 0.31
+  },
+  {
+   "text": "bh",
+   "conf": 0.19
+  },
+  {
+   "text": "215",
+   "conf": 0.72
+  },
+  {
+   "text": "0.15",
+   "conf": 0.94
+  },
+  {
+   "text": "nank",
+   "conf": 0.0
+  },
+  {
+   "text": "You",
+   "conf": 0.96
+  },
+  {
+   "text": "For",
+   "conf": 0.84
+  },
+  {
+   "text": "Shopping",
+   "conf": 0.27
+  },
+  {
+   "text": "At",
+   "conf": 0.84
+  },
+  {
+   "text": "buardian",
+   "conf": 0.77
+  },
+  {
+   "text": "ALL",
+   "conf": 0.96
+  },
+  {
+   "text": "Amounts",
+   "conf": 0.73
+  },
+  {
+   "text": "Are",
+   "conf": 0.95
+  },
+  {
+   "text": "un",
+   "conf": 0.16
+  },
+  {
+   "text": "Ri",
+   "conf": 0.71
+  },
+  {
+   "text": "boods",
+   "conf": 0.0
+  },
+  {
+   "text": "sold",
+   "conf": 0.93
+  },
+  {
+   "text": "are",
+   "conf": 0.93
+  },
+  {
+   "text": "non-retundable.",
+   "conf": 0.55
+  },
+  {
+   "text": "|",
+   "conf": 0.86
+  },
+  {
+   "text": "DISPENSE",
+   "conf": 0.06
+  },
+  {
+   "text": "MedLCINES",
+   "conf": 0.51
+  },
+  {
+   "text": "sold",
+   "conf": 0.84
+  },
+  {
+   "text": "are",
+   "conf": 0.94
+  },
+  {
+   "text": "not",
+   "conf": 0.96
+  },
+  {
+   "text": "returnable.",
+   "conf": 0.54
+  },
+  {
+   "text": "ALL",
+   "conf": 0.92
+  },
+  {
+   "text": "exchanges",
+   "conf": 0.8
+  },
+  {
+   "text": "and",
+   "conf": 0.95
+  },
+  {
+   "text": "returns",
+   "conf": 0.84
+  },
+  {
+   "text": "includina",
+   "conf": 0.68
+  },
+  {
+   "text": "buardian",
+   "conf": 0.0
+  },
+  {
+   "text": "brand",
+   "conf": 0.94
+  },
+  {
+   "text": "products",
+   "conf": 0.95
+  },
+  {
+   "text": "gust",
+   "conf": 0.92
+  },
+  {
+   "text": "be",
+   "conf": 0.74
+  },
+  {
+   "text": "made",
+   "conf": 0.46
+  },
+  {
+   "text": "within",
+   "conf": 0.96
+  },
+  {
+   "text": "‘days",
+   "conf": 0.0
+  },
+  {
+   "text": "with",
+   "conf": 0.93
+  },
+  {
+   "text": "orloinal",
+   "conf": 0.46
+  },
+  {
+   "text": "receipts",
+   "conf": 0.69
+  },
+  {
+   "text": "and",
+   "conf": 0.96
+  },
+  {
+   "text": "product",
+   "conf": 0.92
+  },
+  {
+   "text": "in",
+   "conf": 0.74
+  },
+  {
+   "text": "original",
+   "conf": 0.41
+  },
+  {
+   "text": "condition,",
+   "conf": 0.64
+  },
+  {
+   "text": "Stbee2",
+   "conf": 0.0
+  },
+  {
+   "text": "bord",
+   "conf": 0.63
+  },
+  {
+   "text": "ibe20b5",
+   "conf": 0.07
+  },
+  {
+   "text": "laxiny:Z",
+   "conf": 0.0
+  },
+  {
+   "text": "1777",
+   "conf": 0.0
+  },
+  {
+   "text": "1/245",
+   "conf": 0.1
+  },
+  {
+   "text": "18/05/18",
+   "conf": 0.69
+  }
+ ],
+ "mean_conf": 0.5814,
+ "low_conf_share": 0.3303,
+ "latency_ms": 1558,
+ "fields": {
+  "company": "BUARDIAN HEALTH AND BEAUTY SON BHD",
+  "date": "2018-05-18",
+  "total": 0.15
+ },
+ "rule_reasons": [
+  "total_no_keyword_fallback_max"
+ ],
+ "total_candidates": [
+  0.15
+ ],
+ "key": "X51006867435"
+}

@@ -1,0 +1,624 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "RESTORAN HWA MUI SUTERA SDN BHD |",
+  "50,JALAN SUTERA TANJUNG 5/4 , } ,",
+  ") TAMAN SUTERA UTAMA,",
+  "oo. 81300 SKUDAI JOHOR . -",
+  "TEL: 607-662 55413",
+  "[GST ID: 001 177063424 ] : |",
+  "TAX INVOICE | Tae |",
+  "InvNo: 74865 | “",
+  "Cashier : waiter-Waiter",
+  "Date: 29/04/2018 - 1:65:30 PM",
+  ": Gly Peseription ee. Fetal (RM) Tax",
+  ", 1 BLACK PEPPER 18.90 SR ' |",
+  "1 CHEESY CHICKEN CHOP 20.90 SR",
+  "| 1 GRILLED BLACK PEPPER 20,90 8R",
+  ": KEN CHOP |",
+  ". 1 FRIED KUEY TEOW 9.00 8R",
+  "1 BUTTER & KAYA TOAST 2.40 SR",
+  "1 TEA (B) 3.30 SR ;",
+  "1 APPLE JUICE (ICE) 8.80 SR :",
+  "1 SOURSOP SMOOTHIES 7.30 SR",
+  "TotalAmtinc, @GST6%: 94.80",
+  "Rounding Adjustment 0.00 )",
+  "TOTAL 91.50",
+  "CASH 101.50",
+  "Change Returned 10.006- .",
+  "ltam Count: 8",
+  "GsT Summary Arnount (RM) Tax (RM) ‘",
+  "SR G% 86.32 5.18"
+ ],
+ "tokens": [
+  {
+   "text": "RESTORAN",
+   "conf": 0.96
+  },
+  {
+   "text": "HWA",
+   "conf": 0.96
+  },
+  {
+   "text": "MUI",
+   "conf": 0.91
+  },
+  {
+   "text": "SUTERA",
+   "conf": 0.91
+  },
+  {
+   "text": "SDN",
+   "conf": 0.95
+  },
+  {
+   "text": "BHD",
+   "conf": 0.96
+  },
+  {
+   "text": "|",
+   "conf": 0.46
+  },
+  {
+   "text": "50,JALAN",
+   "conf": 0.72
+  },
+  {
+   "text": "SUTERA",
+   "conf": 0.91
+  },
+  {
+   "text": "TANJUNG",
+   "conf": 0.91
+  },
+  {
+   "text": "5/4",
+   "conf": 0.62
+  },
+  {
+   "text": ",",
+   "conf": 0.18
+  },
+  {
+   "text": "}",
+   "conf": 0.0
+  },
+  {
+   "text": ",",
+   "conf": 0.0
+  },
+  {
+   "text": ")",
+   "conf": 0.02
+  },
+  {
+   "text": "TAMAN",
+   "conf": 0.92
+  },
+  {
+   "text": "SUTERA",
+   "conf": 0.91
+  },
+  {
+   "text": "UTAMA,",
+   "conf": 0.91
+  },
+  {
+   "text": "oo.",
+   "conf": 0.01
+  },
+  {
+   "text": "81300",
+   "conf": 0.92
+  },
+  {
+   "text": "SKUDAI",
+   "conf": 0.89
+  },
+  {
+   "text": "JOHOR",
+   "conf": 0.95
+  },
+  {
+   "text": ".",
+   "conf": 0.22
+  },
+  {
+   "text": "-",
+   "conf": 0.52
+  },
+  {
+   "text": "TEL:",
+   "conf": 0.95
+  },
+  {
+   "text": "607-662",
+   "conf": 0.73
+  },
+  {
+   "text": "55413",
+   "conf": 0.66
+  },
+  {
+   "text": "[GST",
+   "conf": 0.42
+  },
+  {
+   "text": "ID:",
+   "conf": 0.0
+  },
+  {
+   "text": "001",
+   "conf": 0.0
+  },
+  {
+   "text": "177063424",
+   "conf": 0.87
+  },
+  {
+   "text": "]",
+   "conf": 0.69
+  },
+  {
+   "text": ":",
+   "conf": 0.31
+  },
+  {
+   "text": "|",
+   "conf": 0.44
+  },
+  {
+   "text": "TAX",
+   "conf": 0.94
+  },
+  {
+   "text": "INVOICE",
+   "conf": 0.94
+  },
+  {
+   "text": "|",
+   "conf": 0.38
+  },
+  {
+   "text": "Tae",
+   "conf": 0.4
+  },
+  {
+   "text": "|",
+   "conf": 0.52
+  },
+  {
+   "text": "InvNo:",
+   "conf": 0.82
+  },
+  {
+   "text": "74865",
+   "conf": 0.95
+  },
+  {
+   "text": "|",
+   "conf": 0.26
+  },
+  {
+   "text": "“",
+   "conf": 0.0
+  },
+  {
+   "text": "Cashier",
+   "conf": 0.77
+  },
+  {
+   "text": ":",
+   "conf": 0.64
+  },
+  {
+   "text": "waiter-Waiter",
+   "conf": 0.87
+  },
+  {
+   "text": "Date:",
+   "conf": 0.79
+  },
+  {
+   "text": "29/04/2018",
+   "conf": 0.7
+  },
+  {
+   "text": "-",
+   "conf": 0.58
+  },
+  {
+   "text": "1:65:30",
+   "conf": 0.91
+  },
+  {
+   "text": "PM",
+   "conf": 0.96
+  },
+  {
+   "text": ":",
+   "conf": 0.48
+  },
+  {
+   "text": "Gly",
+   "conf": 0.47
+  },
+  {
+   "text": "Peseription",
+   "conf": 0.63
+  },
+  {
+   "text": "ee.",
+   "conf": 0.19
+  },
+  {
+   "text": "Fetal",
+   "conf": 0.47
+  },
+  {
+   "text": "(RM)",
+   "conf": 0.13
+  },
+  {
+   "text": "Tax",
+   "conf": 0.13
+  },
+  {
+   "text": ",",
+   "conf": 0.0
+  },
+  {
+   "text": "1",
+   "conf": 0.9
+  },
+  {
+   "text": "BLACK",
+   "conf": 0.96
+  },
+  {
+   "text": "PEPPER",
+   "conf": 0.95
+  },
+  {
+   "text": "18.90",
+   "conf": 0.0
+  },
+  {
+   "text": "SR",
+   "conf": 0.0
+  },
+  {
+   "text": "'",
+   "conf": 0.14
+  },
+  {
+   "text": "|",
+   "conf": 0.5
+  },
+  {
+   "text": "1",
+   "conf": 0.94
+  },
+  {
+   "text": "CHEESY",
+   "conf": 0.94
+  },
+  {
+   "text": "CHICKEN",
+   "conf": 0.96
+  },
+  {
+   "text": "CHOP",
+   "conf": 0.95
+  },
+  {
+   "text": "20.90",
+   "conf": 0.95
+  },
+  {
+   "text": "SR",
+   "conf": 0.94
+  },
+  {
+   "text": "|",
+   "conf": 0.54
+  },
+  {
+   "text": "1",
+   "conf": 0.92
+  },
+  {
+   "text": "GRILLED",
+   "conf": 0.92
+  },
+  {
+   "text": "BLACK",
+   "conf": 0.96
+  },
+  {
+   "text": "PEPPER",
+   "conf": 0.96
+  },
+  {
+   "text": "20,90",
+   "conf": 0.0
+  },
+  {
+   "text": "8R",
+   "conf": 0.0
+  },
+  {
+   "text": ":",
+   "conf": 0.0
+  },
+  {
+   "text": "KEN",
+   "conf": 0.95
+  },
+  {
+   "text": "CHOP",
+   "conf": 0.95
+  },
+  {
+   "text": "|",
+   "conf": 0.57
+  },
+  {
+   "text": ".",
+   "conf": 0.29
+  },
+  {
+   "text": "1",
+   "conf": 0.77
+  },
+  {
+   "text": "FRIED",
+   "conf": 0.83
+  },
+  {
+   "text": "KUEY",
+   "conf": 0.83
+  },
+  {
+   "text": "TEOW",
+   "conf": 0.9
+  },
+  {
+   "text": "9.00",
+   "conf": 0.85
+  },
+  {
+   "text": "8R",
+   "conf": 0.85
+  },
+  {
+   "text": "1",
+   "conf": 0.95
+  },
+  {
+   "text": "BUTTER",
+   "conf": 0.91
+  },
+  {
+   "text": "&",
+   "conf": 0.91
+  },
+  {
+   "text": "KAYA",
+   "conf": 0.94
+  },
+  {
+   "text": "TOAST",
+   "conf": 0.66
+  },
+  {
+   "text": "2.40",
+   "conf": 0.66
+  },
+  {
+   "text": "SR",
+   "conf": 0.66
+  },
+  {
+   "text": "1",
+   "conf": 0.91
+  },
+  {
+   "text": "TEA",
+   "conf": 0.92
+  },
+  {
+   "text": "(B)",
+   "conf": 0.92
+  },
+  {
+   "text": "3.30",
+   "conf": 0.57
+  },
+  {
+   "text": "SR",
+   "conf": 0.57
+  },
+  {
+   "text": ";",
+   "conf": 0.28
+  },
+  {
+   "text": "1",
+   "conf": 0.91
+  },
+  {
+   "text": "APPLE",
+   "conf": 0.93
+  },
+  {
+   "text": "JUICE",
+   "conf": 0.95
+  },
+  {
+   "text": "(ICE)",
+   "conf": 0.96
+  },
+  {
+   "text": "8.80",
+   "conf": 0.7
+  },
+  {
+   "text": "SR",
+   "conf": 0.7
+  },
+  {
+   "text": ":",
+   "conf": 0.26
+  },
+  {
+   "text": "1",
+   "conf": 0.91
+  },
+  {
+   "text": "SOURSOP",
+   "conf": 0.76
+  },
+  {
+   "text": "SMOOTHIES",
+   "conf": 0.89
+  },
+  {
+   "text": "7.30",
+   "conf": 0.33
+  },
+  {
+   "text": "SR",
+   "conf": 0.33
+  },
+  {
+   "text": "TotalAmtinc,",
+   "conf": 0.05
+  },
+  {
+   "text": "@GST6%:",
+   "conf": 0.82
+  },
+  {
+   "text": "94.80",
+   "conf": 0.16
+  },
+  {
+   "text": "Rounding",
+   "conf": 0.93
+  },
+  {
+   "text": "Adjustment",
+   "conf": 0.94
+  },
+  {
+   "text": "0.00",
+   "conf": 0.95
+  },
+  {
+   "text": ")",
+   "conf": 0.01
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.95
+  },
+  {
+   "text": "91.50",
+   "conf": 0.91
+  },
+  {
+   "text": "CASH",
+   "conf": 0.95
+  },
+  {
+   "text": "101.50",
+   "conf": 0.95
+  },
+  {
+   "text": "Change",
+   "conf": 0.95
+  },
+  {
+   "text": "Returned",
+   "conf": 0.96
+  },
+  {
+   "text": "10.006-",
+   "conf": 0.42
+  },
+  {
+   "text": ".",
+   "conf": 0.02
+  },
+  {
+   "text": "ltam",
+   "conf": 0.79
+  },
+  {
+   "text": "Count:",
+   "conf": 0.45
+  },
+  {
+   "text": "8",
+   "conf": 0.92
+  },
+  {
+   "text": "GsT",
+   "conf": 0.52
+  },
+  {
+   "text": "Summary",
+   "conf": 0.96
+  },
+  {
+   "text": "Arnount",
+   "conf": 0.76
+  },
+  {
+   "text": "(RM)",
+   "conf": 0.95
+  },
+  {
+   "text": "Tax",
+   "conf": 0.95
+  },
+  {
+   "text": "(RM)",
+   "conf": 0.95
+  },
+  {
+   "text": "‘",
+   "conf": 0.26
+  },
+  {
+   "text": "SR",
+   "conf": 0.8
+  },
+  {
+   "text": "G%",
+   "conf": 0.51
+  },
+  {
+   "text": "86.32",
+   "conf": 0.94
+  },
+  {
+   "text": "5.18",
+   "conf": 0.78
+  }
+ ],
+ "mean_conf": 0.6593,
+ "low_conf_share": 0.2847,
+ "latency_ms": 3140,
+ "fields": {
+  "company": "RESTORAN HWA MUI SUTERA SDN BHD",
+  "date": "2018-04-29",
+  "total": 91.5
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  91.5
+ ],
+ "key": "X51006414708"
+}

@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.6-flash",
+ "provider": "gemini",
+ "raw_text": "{\"vendor\":\"TACO SHOP\",\"date\":\"2015-02-16\",\"subtotal\":7.5,\"tax\":0.6,\"tip\":null,\"discount\":null,\"total\":8.1,\"currency\":\"USD\",\"confidence\":0.9,\"notes\":null}",
+ "data": {
+  "vendor": "TACO SHOP",
+  "date": "2015-02-16",
+  "subtotal": 7.5,
+  "tax": 0.6,
+  "tip": null,
+  "discount": null,
+  "total": 8.1,
+  "currency": "USD",
+  "confidence": 0.9,
+  "notes": null
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1458,
+  "output_tokens": 61,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.001322,
+ "latency_ms": 1771,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.6-flash",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.6-flash"
+ ],
+ "key": "W0019_2306"
+}

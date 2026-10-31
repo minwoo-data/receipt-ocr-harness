@@ -1,0 +1,172 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "WELCOME TO",
+  "VINELAND SHELL",
+  "SHELL 57542995501",
+  "8783VINELAND RO S1E0733",
+  "ORLANDO FL32821",
+  "Descr. qty amount",
+  "<CUSTOMER COPY>",
+  "UNLDCR07 4.2516 25.50",
+  "SELF5.999/G",
+  "Sub Total 25.50",
+  "Tax 0.00",
+  "TOTAL 25.50",
+  "CREDIT $ 25.50",
+  "xxxXxXxxxxxX7231 DISCOVER",
+  "INVOICE:444547 AUTH#:021698",
+  "THANKS,COMEAGAIN",
+  "REG#0002 CSH#012DR#01TRAN#26966",
+  "03/21/1619:43:54 ST#VINE1"
+ ],
+ "tokens": [
+  {
+   "text": "WELCOME TO",
+   "conf": 0.9846611320972443
+  },
+  {
+   "text": "VINELAND SHELL",
+   "conf": 0.9513249269553593
+  },
+  {
+   "text": "SHELL",
+   "conf": 0.9862521409988403
+  },
+  {
+   "text": "57542995501",
+   "conf": 0.9980568127198652
+  },
+  {
+   "text": "8783VINELAND RO",
+   "conf": 0.897320810953776
+  },
+  {
+   "text": "S1E0733",
+   "conf": 0.9618989314351764
+  },
+  {
+   "text": "ORLANDO",
+   "conf": 0.9830200501850673
+  },
+  {
+   "text": "FL32821",
+   "conf": 0.9934778639248439
+  },
+  {
+   "text": "Descr.",
+   "conf": 0.9836267828941345
+  },
+  {
+   "text": "qty",
+   "conf": 0.8838475545247396
+  },
+  {
+   "text": "amount",
+   "conf": 0.9503710468610128
+  },
+  {
+   "text": "<CUSTOMER COPY>",
+   "conf": 0.961646560827891
+  },
+  {
+   "text": "UNLDCR07",
+   "conf": 0.9649845063686371
+  },
+  {
+   "text": "4.2516",
+   "conf": 0.9422103663285574
+  },
+  {
+   "text": "25.50",
+   "conf": 0.9927407741546631
+  },
+  {
+   "text": "SELF5.999/G",
+   "conf": 0.9466301690448414
+  },
+  {
+   "text": "Sub Total",
+   "conf": 0.9648754199345907
+  },
+  {
+   "text": "25.50",
+   "conf": 0.9953741908073426
+  },
+  {
+   "text": "Tax",
+   "conf": 0.9329755902290344
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9965250045061111
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.9939107418060302
+  },
+  {
+   "text": "25.50",
+   "conf": 0.9966266512870788
+  },
+  {
+   "text": "CREDIT",
+   "conf": 0.9866331418355306
+  },
+  {
+   "text": "$",
+   "conf": 0.959989070892334
+  },
+  {
+   "text": "25.50",
+   "conf": 0.9955692291259766
+  },
+  {
+   "text": "xxxXxXxxxxxX7231",
+   "conf": 0.7002060003578663
+  },
+  {
+   "text": "DISCOVER",
+   "conf": 0.9916024878621101
+  },
+  {
+   "text": "INVOICE:444547",
+   "conf": 0.9666558802127838
+  },
+  {
+   "text": "AUTH#:021698",
+   "conf": 0.910637100537618
+  },
+  {
+   "text": "THANKS,COMEAGAIN",
+   "conf": 0.9578903559595346
+  },
+  {
+   "text": "REG#0002 CSH#012DR#01TRAN#26966",
+   "conf": 0.9411600059078585
+  },
+  {
+   "text": "03/21/1619:43:54",
+   "conf": 0.9815543331205845
+  },
+  {
+   "text": "ST#VINE1",
+   "conf": 0.9079004302620888
+  }
+ ],
+ "mean_conf": 0.9564,
+ "low_conf_share": 0.0,
+ "latency_ms": 2148,
+ "fields": {
+  "company": "VINELAND SHELL",
+  "date": null,
+  "total": 25.5
+ },
+ "rule_reasons": [
+  "date_not_found"
+ ],
+ "total_candidates": [
+  25.5
+ ],
+ "key": "W0124_2099f8b82dfd"
+}

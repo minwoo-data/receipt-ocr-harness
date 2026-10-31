@@ -1,0 +1,247 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "tan woon yann",
+  "MRD.I.Y.（JOHOR)SDN BHD",
+  "（CO.REG:933109-X)",
+  "L0T1851-A&1851-B,JALANKPB6,",
+  "KAWASAN PERINDUSTRIAN BALAKONG,",
+  "43300 SERI KEMBANGAN,SELANGOR",
+  "(MR DIY TESCO TERBAU)",
+  "-INVOICE-",
+  "CH0PPINGB0ARD 35.5X25.5CM803M#",
+  "EZ10HD05-24",
+  "8970669 1X19.0019.00",
+  "AIR PRESSURE SPRAYER SX-575-11.5L",
+  "HC03-7-15",
+  "9066468 1X8.02 8.02",
+  "WAXCO WINDSHILED CLEANER 12OML",
+  "WA14-3A-48",
+  "9557031100236 1X3.02 3.02",
+  "BOPP TAPE48MM*100MCLEAR",
+  "FZ-04-36",
+  "6935818350846 1X3.88 3.88",
+  "Item(s）:4 Qty（s）:4",
+  "TOTAL RM33.92",
+  "ROUNDING ADJUSTMEX -RM0.02",
+  "TOTAL ROUNDED ?3-90 RM33.90",
+  "CASH RM50.00",
+  "CHANGE RM16.10",
+  "*- 一*",
+  "12-01-19 21:13SH01ZK09 T4 R000027830",
+  "OPERATOR TRAINEECASHIER",
+  "EXCHANGE ARE ALLOWED WITHIN",
+  "7DAYS WITH RECEIPT.",
+  "STRICTLY NO CASH REFUND."
+ ],
+ "tokens": [
+  {
+   "text": "tan woon yann",
+   "conf": 0.9916931849259597
+  },
+  {
+   "text": "MRD.I.Y.（JOHOR)SDN BHD",
+   "conf": 0.9329815642400221
+  },
+  {
+   "text": "（CO.REG:933109-X)",
+   "conf": 0.8933810346266803
+  },
+  {
+   "text": "L0T1851-A&1851-B,JALANKPB6,",
+   "conf": 0.9501279062694974
+  },
+  {
+   "text": "KAWASAN PERINDUSTRIAN BALAKONG,",
+   "conf": 0.9617569004335711
+  },
+  {
+   "text": "43300 SERI KEMBANGAN,SELANGOR",
+   "conf": 0.9515079979238839
+  },
+  {
+   "text": "(MR DIY TESCO TERBAU)",
+   "conf": 0.9143911798795065
+  },
+  {
+   "text": "-INVOICE-",
+   "conf": 0.9705517623159621
+  },
+  {
+   "text": "CH0PPINGB0ARD 35.5X25.5CM803M#",
+   "conf": 0.9415055632591247
+  },
+  {
+   "text": "EZ10HD05-24",
+   "conf": 0.9907523122700778
+  },
+  {
+   "text": "8970669",
+   "conf": 0.9988185933658055
+  },
+  {
+   "text": "1X19.0019.00",
+   "conf": 0.9870554457108179
+  },
+  {
+   "text": "AIR PRESSURE SPRAYER SX-575-11.5L",
+   "conf": 0.9583948543577483
+  },
+  {
+   "text": "HC03-7-15",
+   "conf": 0.9892184270752801
+  },
+  {
+   "text": "9066468",
+   "conf": 0.9987746902874538
+  },
+  {
+   "text": "1X8.02",
+   "conf": 0.9811845024426779
+  },
+  {
+   "text": "8.02",
+   "conf": 0.8975752592086792
+  },
+  {
+   "text": "WAXCO WINDSHILED CLEANER 12OML",
+   "conf": 0.9421213388442993
+  },
+  {
+   "text": "WA14-3A-48",
+   "conf": 0.9949848830699921
+  },
+  {
+   "text": "9557031100236",
+   "conf": 0.9986867629564725
+  },
+  {
+   "text": "1X3.02",
+   "conf": 0.9604928294817606
+  },
+  {
+   "text": "3.02",
+   "conf": 0.9975446611642838
+  },
+  {
+   "text": "BOPP TAPE48MM*100MCLEAR",
+   "conf": 0.9621903118879899
+  },
+  {
+   "text": "FZ-04-36",
+   "conf": 0.9937495067715645
+  },
+  {
+   "text": "6935818350846",
+   "conf": 0.99838420519462
+  },
+  {
+   "text": "1X3.88",
+   "conf": 0.9397562841574351
+  },
+  {
+   "text": "3.88",
+   "conf": 0.9968431890010834
+  },
+  {
+   "text": "Item(s）:4",
+   "conf": 0.8672621548175812
+  },
+  {
+   "text": "Qty（s）:4",
+   "conf": 0.8426452986896038
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.9871023297309875
+  },
+  {
+   "text": "RM33.92",
+   "conf": 0.9969002178737095
+  },
+  {
+   "text": "ROUNDING ADJUSTMEX",
+   "conf": 0.9458690385023752
+  },
+  {
+   "text": "-RM0.02",
+   "conf": 0.9924956049237933
+  },
+  {
+   "text": "TOTAL ROUNDED",
+   "conf": 0.9757034090849069
+  },
+  {
+   "text": "?3-90",
+   "conf": 0.6109818607568741
+  },
+  {
+   "text": "RM33.90",
+   "conf": 0.9949176737240383
+  },
+  {
+   "text": "CASH",
+   "conf": 0.9960059076547623
+  },
+  {
+   "text": "RM50.00",
+   "conf": 0.9968993238040379
+  },
+  {
+   "text": "CHANGE",
+   "conf": 0.9949081142743429
+  },
+  {
+   "text": "RM16.10",
+   "conf": 0.9974156447819301
+  },
+  {
+   "text": "*-",
+   "conf": 0.664600670337677
+  },
+  {
+   "text": "一*",
+   "conf": 0.6516064703464508
+  },
+  {
+   "text": "12-01-19 21:13SH01ZK09",
+   "conf": 0.9771365144036033
+  },
+  {
+   "text": "T4 R000027830",
+   "conf": 0.9628896300609295
+  },
+  {
+   "text": "OPERATOR TRAINEECASHIER",
+   "conf": 0.961405855158101
+  },
+  {
+   "text": "EXCHANGE ARE ALLOWED WITHIN",
+   "conf": 0.9643841253386604
+  },
+  {
+   "text": "7DAYS WITH RECEIPT.",
+   "conf": 0.9525043117372614
+  },
+  {
+   "text": "STRICTLY NO CASH REFUND.",
+   "conf": 0.9463346675038338
+  }
+ ],
+ "mean_conf": 0.9453,
+ "low_conf_share": 0.0,
+ "latency_ms": 4518,
+ "fields": {
+  "company": "TAN WOON YANN MRD I Y JOHOR SDN BHD",
+  "date": "2015-07-03",
+  "total": 33.9
+ },
+ "rule_reasons": [
+  "total_multiple_keyword_amounts"
+ ],
+ "total_candidates": [
+  33.92,
+  33.9
+ ],
+ "key": "X00016469620"
+}

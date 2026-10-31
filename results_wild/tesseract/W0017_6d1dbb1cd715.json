@@ -1,0 +1,367 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "Reso art. entro 30 a con scontrine",
+  "LIDL ITALIA SRL Rone (RMD",
+  "Vio Delle Rustica, 133 00155",
+  "PLOZ276030233 RAKE £108020000001777",
+  "USA B:30-21",
+  "euro",
+  "GRAWA PADAND GRATT 2.39",
+  "Riee CAPPELLETTE PRO $,50",
+  "Cod 2.75 Pz. 2",
+  "© Pee CUR DOLCE AEF a",
+  "CRERA tor tdiane wag",
+  "Pena Of CUCINA 2.69",
+  "_SPLE FIND 0.17",
+  "OVA ALL TERRA, 1.28",
+  "© SU50 Penop.saste 0.99",
+  "CASERECCIO AFFEITATO 0.39",
+  "TOTRE ERO Wt",
+  "PAGAMENTO CONTANTE 17.50",
+  "“RESTO 0.14",
+  "Aro 653602 2ivvasi2z8",
+  "QTE 12-28, ce",
+  "FET $2011203"
+ ],
+ "tokens": [
+  {
+   "text": "Reso",
+   "conf": 0.93
+  },
+  {
+   "text": "art.",
+   "conf": 0.88
+  },
+  {
+   "text": "entro",
+   "conf": 0.89
+  },
+  {
+   "text": "30",
+   "conf": 0.82
+  },
+  {
+   "text": "a",
+   "conf": 0.29
+  },
+  {
+   "text": "con",
+   "conf": 0.92
+  },
+  {
+   "text": "scontrine",
+   "conf": 0.83
+  },
+  {
+   "text": "LIDL",
+   "conf": 0.85
+  },
+  {
+   "text": "ITALIA",
+   "conf": 0.73
+  },
+  {
+   "text": "SRL",
+   "conf": 0.73
+  },
+  {
+   "text": "Rone",
+   "conf": 0.57
+  },
+  {
+   "text": "(RMD",
+   "conf": 0.36
+  },
+  {
+   "text": "Vio",
+   "conf": 0.82
+  },
+  {
+   "text": "Delle",
+   "conf": 0.79
+  },
+  {
+   "text": "Rustica,",
+   "conf": 0.58
+  },
+  {
+   "text": "133",
+   "conf": 0.81
+  },
+  {
+   "text": "00155",
+   "conf": 0.88
+  },
+  {
+   "text": "PLOZ276030233",
+   "conf": 0.37
+  },
+  {
+   "text": "RAKE",
+   "conf": 0.17
+  },
+  {
+   "text": "£108020000001777",
+   "conf": 0.38
+  },
+  {
+   "text": "USA",
+   "conf": 0.37
+  },
+  {
+   "text": "B:30-21",
+   "conf": 0.46
+  },
+  {
+   "text": "euro",
+   "conf": 0.82
+  },
+  {
+   "text": "GRAWA",
+   "conf": 0.38
+  },
+  {
+   "text": "PADAND",
+   "conf": 0.38
+  },
+  {
+   "text": "GRATT",
+   "conf": 0.71
+  },
+  {
+   "text": "2.39",
+   "conf": 0.62
+  },
+  {
+   "text": "Riee",
+   "conf": 0.0
+  },
+  {
+   "text": "CAPPELLETTE",
+   "conf": 0.27
+  },
+  {
+   "text": "PRO",
+   "conf": 0.96
+  },
+  {
+   "text": "$,50",
+   "conf": 0.65
+  },
+  {
+   "text": "Cod",
+   "conf": 0.85
+  },
+  {
+   "text": "2.75",
+   "conf": 0.88
+  },
+  {
+   "text": "Pz.",
+   "conf": 0.82
+  },
+  {
+   "text": "2",
+   "conf": 0.94
+  },
+  {
+   "text": "©",
+   "conf": 0.45
+  },
+  {
+   "text": "Pee",
+   "conf": 0.36
+  },
+  {
+   "text": "CUR",
+   "conf": 0.37
+  },
+  {
+   "text": "DOLCE",
+   "conf": 0.18
+  },
+  {
+   "text": "AEF",
+   "conf": 0.18
+  },
+  {
+   "text": "a",
+   "conf": 0.41
+  },
+  {
+   "text": "CRERA",
+   "conf": 0.68
+  },
+  {
+   "text": "tor",
+   "conf": 0.45
+  },
+  {
+   "text": "tdiane",
+   "conf": 0.0
+  },
+  {
+   "text": "wag",
+   "conf": 0.37
+  },
+  {
+   "text": "Pena",
+   "conf": 0.0
+  },
+  {
+   "text": "Of",
+   "conf": 0.6
+  },
+  {
+   "text": "CUCINA",
+   "conf": 0.77
+  },
+  {
+   "text": "2.69",
+   "conf": 0.85
+  },
+  {
+   "text": "_SPLE",
+   "conf": 0.0
+  },
+  {
+   "text": "FIND",
+   "conf": 0.63
+  },
+  {
+   "text": "0.17",
+   "conf": 0.59
+  },
+  {
+   "text": "OVA",
+   "conf": 0.48
+  },
+  {
+   "text": "ALL",
+   "conf": 0.85
+  },
+  {
+   "text": "TERRA,",
+   "conf": 0.7
+  },
+  {
+   "text": "1.28",
+   "conf": 0.73
+  },
+  {
+   "text": "©",
+   "conf": 0.21
+  },
+  {
+   "text": "SU50",
+   "conf": 0.21
+  },
+  {
+   "text": "Penop.saste",
+   "conf": 0.0
+  },
+  {
+   "text": "0.99",
+   "conf": 0.91
+  },
+  {
+   "text": "CASERECCIO",
+   "conf": 0.79
+  },
+  {
+   "text": "AFFEITATO",
+   "conf": 0.0
+  },
+  {
+   "text": "0.39",
+   "conf": 0.52
+  },
+  {
+   "text": "TOTRE",
+   "conf": 0.48
+  },
+  {
+   "text": "ERO",
+   "conf": 0.0
+  },
+  {
+   "text": "Wt",
+   "conf": 0.0
+  },
+  {
+   "text": "PAGAMENTO",
+   "conf": 0.58
+  },
+  {
+   "text": "CONTANTE",
+   "conf": 0.05
+  },
+  {
+   "text": "17.50",
+   "conf": 0.69
+  },
+  {
+   "text": "“RESTO",
+   "conf": 0.59
+  },
+  {
+   "text": "0.14",
+   "conf": 0.84
+  },
+  {
+   "text": "Aro",
+   "conf": 0.0
+  },
+  {
+   "text": "653602",
+   "conf": 0.25
+  },
+  {
+   "text": "2ivvasi2z8",
+   "conf": 0.0
+  },
+  {
+   "text": "QTE",
+   "conf": 0.0
+  },
+  {
+   "text": "12-28,",
+   "conf": 0.39
+  },
+  {
+   "text": "ce",
+   "conf": 0.1
+  },
+  {
+   "text": "FET",
+   "conf": 0.25
+  },
+  {
+   "text": "$2011203",
+   "conf": 0.43
+  }
+ ],
+ "mean_conf": 0.5019,
+ "low_conf_share": 0.4937,
+ "latency_ms": 735,
+ "fields": {
+  "company": "RESO ART ENTRO 30 A CON SCONTRINE",
+  "date": null,
+  "total": 17.5
+ },
+ "rule_reasons": [
+  "date_not_found",
+  "total_no_keyword_fallback_max"
+ ],
+ "total_candidates": [
+  2.69,
+  0.17,
+  1.28,
+  0.99,
+  0.39,
+  17.5,
+  0.14
+ ],
+ "key": "W0017_6d1dbb1cd715"
+}

@@ -1,0 +1,209 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "WED JULY 20.2011",
+  "CHECK#263908-1",
+  "TABLE#19",
+  "MODE2",
+  "116OZ NUT BROWN $2.00",
+  "113oz SUMMERWIT $2.00",
+  "MODE3",
+  "1=>HOUSE SAL SM $0.00",
+  "Appetizer",
+  "1CRAB CAKE APPTZER $12.00",
+  "Main course",
+  "1BLUE BURGER $10.00",
+  "1SALMON FILET $19.00",
+  "$45.00",
+  "COUPON REST.COM $25.00-",
+  "$20.00",
+  "FOOD TAX $1.28",
+  "LIQUOR TAX $0.12",
+  "SUB-TOTAL $21.40",
+  "GRATUITY $8.10",
+  "TOTAL $29.50",
+  "Time:17:52 2CUSTOMERS",
+  "THANK YOU FOR",
+  "YOUR PATRONAGE!",
+  "YOU HAVE BEEN SERVED",
+  "BY:JaneaF",
+  "Thank"
+ ],
+ "tokens": [
+  {
+   "text": "WED JULY 20.2011",
+   "conf": 0.9375502020120621
+  },
+  {
+   "text": "CHECK#263908-1",
+   "conf": 0.98268894638334
+  },
+  {
+   "text": "TABLE#19",
+   "conf": 0.9371504560112953
+  },
+  {
+   "text": "MODE2",
+   "conf": 0.9722425937652588
+  },
+  {
+   "text": "116OZ NUT BROWN",
+   "conf": 0.9048352619012197
+  },
+  {
+   "text": "$2.00",
+   "conf": 0.9972958445549012
+  },
+  {
+   "text": "113oz SUMMERWIT",
+   "conf": 0.9383911053339641
+  },
+  {
+   "text": "$2.00",
+   "conf": 0.9976720571517944
+  },
+  {
+   "text": "MODE3",
+   "conf": 0.9632675290107727
+  },
+  {
+   "text": "1=>HOUSE SAL SM",
+   "conf": 0.953671145439148
+  },
+  {
+   "text": "$0.00",
+   "conf": 0.9970693111419677
+  },
+  {
+   "text": "Appetizer",
+   "conf": 0.9903764062457614
+  },
+  {
+   "text": "1CRAB CAKE APPTZER",
+   "conf": 0.9616276754273309
+  },
+  {
+   "text": "$12.00",
+   "conf": 0.9974491397539774
+  },
+  {
+   "text": "Main course",
+   "conf": 0.9856132052161477
+  },
+  {
+   "text": "1BLUE BURGER",
+   "conf": 0.9623666654030482
+  },
+  {
+   "text": "$10.00",
+   "conf": 0.9974234104156494
+  },
+  {
+   "text": "1SALMON FILET",
+   "conf": 0.98181885939378
+  },
+  {
+   "text": "$19.00",
+   "conf": 0.9964388608932495
+  },
+  {
+   "text": "$45.00",
+   "conf": 0.9974558254082998
+  },
+  {
+   "text": "COUPON REST.COM",
+   "conf": 0.9832853158315022
+  },
+  {
+   "text": "$25.00-",
+   "conf": 0.9865885972976685
+  },
+  {
+   "text": "$20.00",
+   "conf": 0.9969097673892975
+  },
+  {
+   "text": "FOOD TAX",
+   "conf": 0.9436968192458153
+  },
+  {
+   "text": "$1.28",
+   "conf": 0.9930809378623963
+  },
+  {
+   "text": "LIQUOR TAX",
+   "conf": 0.9662017047405242
+  },
+  {
+   "text": "$0.12",
+   "conf": 0.9959674596786499
+  },
+  {
+   "text": "SUB-TOTAL",
+   "conf": 0.9843163092931112
+  },
+  {
+   "text": "$21.40",
+   "conf": 0.9941902657349905
+  },
+  {
+   "text": "GRATUITY",
+   "conf": 0.9819576740264893
+  },
+  {
+   "text": "$8.10",
+   "conf": 0.9962921857833862
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.9905790090560913
+  },
+  {
+   "text": "$29.50",
+   "conf": 0.9944530924161276
+  },
+  {
+   "text": "Time:17:52",
+   "conf": 0.9745802700519561
+  },
+  {
+   "text": "2CUSTOMERS",
+   "conf": 0.9821515142917633
+  },
+  {
+   "text": "THANK YOU FOR",
+   "conf": 0.9651036858558655
+  },
+  {
+   "text": "YOUR PATRONAGE!",
+   "conf": 0.9656821370124817
+  },
+  {
+   "text": "YOU HAVE BEEN SERVED",
+   "conf": 0.9697829127311707
+  },
+  {
+   "text": "BY:JaneaF",
+   "conf": 0.9492065442932976
+  },
+  {
+   "text": "Thank",
+   "conf": 0.9859614729881286
+  }
+ ],
+ "mean_conf": 0.9763,
+ "low_conf_share": 0.0,
+ "latency_ms": 3695,
+ "fields": {
+  "company": "TABLE 19",
+  "date": null,
+  "total": 29.5
+ },
+ "rule_reasons": [
+  "date_not_found"
+ ],
+ "total_candidates": [
+  29.5
+ ],
+ "key": "W0181_2273c0c8cdd4"
+}

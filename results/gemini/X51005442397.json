@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.6-flash",
+ "provider": "gemini",
+ "raw_text": "{\"vendor\": \"Triple Six Point Enterprise 666\", \"date\": \"2018-03-25\", \"subtotal\": 8.6, \"tax\": null, \"tip\": null, \"discount\": -1.0, \"total\": 7.6, \"currency\": \"MYR\", \"confidence\": 0.95, \"notes\": null}",
+ "data": {
+  "vendor": "Triple Six Point Enterprise 666",
+  "date": "2018-03-25",
+  "subtotal": 8.6,
+  "tax": null,
+  "tip": null,
+  "discount": -1.0,
+  "total": 7.6,
+  "currency": "MYR",
+  "confidence": 0.95,
+  "notes": null
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1461,
+  "output_tokens": 84,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.001411,
+ "latency_ms": 1843,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.6-flash",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.6-flash"
+ ],
+ "key": "X51005442397"
+}

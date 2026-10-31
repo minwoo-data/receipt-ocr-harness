@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.1-flash-lite",
+ "provider": "gemini",
+ "raw_text": "{\n  \"vendor\": \"CROSS CHANNEL NETWORK SDN. BHD.\",\n  \"date\": \"2017-12-31\",\n  \"subtotal\": 7.50,\n  \"tax\": 0.45,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 7.95,\n  \"currency\": \"MYR\",\n  \"confidence\": 0.98,\n  \"notes\": null\n}",
+ "data": {
+  "vendor": "CROSS CHANNEL NETWORK SDN. BHD.",
+  "date": "2017-12-31",
+  "subtotal": 7.5,
+  "tax": 0.45,
+  "tip": null,
+  "discount": null,
+  "total": 7.95,
+  "currency": "MYR",
+  "confidence": 0.98,
+  "notes": null
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1461,
+  "output_tokens": 108,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.000527,
+ "latency_ms": 1519,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.1-flash-lite",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.1-flash-lite"
+ ],
+ "key": "X51005230657"
+}

@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.1-flash-lite",
+ "provider": "gemini",
+ "raw_text": "{\n  \"vendor\": \"WINNER'S BAMBOUS\",\n  \"date\": \"2011-07-30\",\n  \"subtotal\": 1056.13,\n  \"tax\": 99.63,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 1056.13,\n  \"currency\": \"MUR\",\n  \"confidence\": 0.98,\n  \"notes\": null\n}",
+ "data": {
+  "vendor": "WINNER'S BAMBOUS",
+  "date": "2011-07-30",
+  "subtotal": 1056.13,
+  "tax": 99.63,
+  "tip": null,
+  "discount": null,
+  "total": 1056.13,
+  "currency": "MUR",
+  "confidence": 0.98,
+  "notes": null
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1469,
+  "output_tokens": 114,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.000538,
+ "latency_ms": 2233,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.1-flash-lite",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.1-flash-lite"
+ ],
+ "key": "W0172_b6524af33497"
+}

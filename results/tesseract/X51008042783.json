@@ -1,0 +1,459 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "|",
+  "Gerbang Alaf Restaurants Sdn Bhd",
+  "(85351-M)",
+  "\"Licensee of MeDonald’s",
+  "Level 5, Bangunan TH, Damansara Uptown3",
+  "No.3, Jalan $$21/39,47490 Petaling Jaya",
+  "Selangor",
+  "(GST ID No: 900504854064)",
+  "McDonald’s Shel] Mahkota Cheras D7 (436",
+  "Tel No. 03-9010-9849",
+  "TAX INVOECE",
+  "MFY Side t",
+  "INV# 003621800031356",
+  "ORD #58 -REG #19- 14/05/2018 20:22:58",
+  "QTY 1TEM TOTAL",
+  "TL Methicken 11.10",
+  "Ti Coe |",
+  "1L Fries",
+  "| BNuggets 7.80",
+  "1 French Cheese Sauce",
+  "TakeQut Total (inc) 6ST) 18.90",
+  "Total Rounded 18.90",
+  "Cash Tendered 50.09",
+  "— Change 31.18",
+  "TOTAL INCLUDES 6% GST 1,07",
+  "Thank You end Please Come Again.",
+  "Guest Relations Center : 1300-13-1306",
+  "Gas tae oe - re cn"
+ ],
+ "tokens": [
+  {
+   "text": "|",
+   "conf": 0.77
+  },
+  {
+   "text": "Gerbang",
+   "conf": 0.92
+  },
+  {
+   "text": "Alaf",
+   "conf": 0.92
+  },
+  {
+   "text": "Restaurants",
+   "conf": 0.95
+  },
+  {
+   "text": "Sdn",
+   "conf": 0.87
+  },
+  {
+   "text": "Bhd",
+   "conf": 0.93
+  },
+  {
+   "text": "(85351-M)",
+   "conf": 0.47
+  },
+  {
+   "text": "\"Licensee",
+   "conf": 0.44
+  },
+  {
+   "text": "of",
+   "conf": 0.89
+  },
+  {
+   "text": "MeDonald’s",
+   "conf": 0.75
+  },
+  {
+   "text": "Level",
+   "conf": 0.96
+  },
+  {
+   "text": "5,",
+   "conf": 0.77
+  },
+  {
+   "text": "Bangunan",
+   "conf": 0.92
+  },
+  {
+   "text": "TH,",
+   "conf": 0.95
+  },
+  {
+   "text": "Damansara",
+   "conf": 0.93
+  },
+  {
+   "text": "Uptown3",
+   "conf": 0.68
+  },
+  {
+   "text": "No.3,",
+   "conf": 0.95
+  },
+  {
+   "text": "Jalan",
+   "conf": 0.92
+  },
+  {
+   "text": "$$21/39,47490",
+   "conf": 0.39
+  },
+  {
+   "text": "Petaling",
+   "conf": 0.96
+  },
+  {
+   "text": "Jaya",
+   "conf": 0.96
+  },
+  {
+   "text": "Selangor",
+   "conf": 0.78
+  },
+  {
+   "text": "(GST",
+   "conf": 0.95
+  },
+  {
+   "text": "ID",
+   "conf": 0.94
+  },
+  {
+   "text": "No:",
+   "conf": 0.94
+  },
+  {
+   "text": "900504854064)",
+   "conf": 0.65
+  },
+  {
+   "text": "McDonald’s",
+   "conf": 0.76
+  },
+  {
+   "text": "Shel]",
+   "conf": 0.87
+  },
+  {
+   "text": "Mahkota",
+   "conf": 0.35
+  },
+  {
+   "text": "Cheras",
+   "conf": 0.9
+  },
+  {
+   "text": "D7",
+   "conf": 0.43
+  },
+  {
+   "text": "(436",
+   "conf": 0.74
+  },
+  {
+   "text": "Tel",
+   "conf": 0.93
+  },
+  {
+   "text": "No.",
+   "conf": 0.83
+  },
+  {
+   "text": "03-9010-9849",
+   "conf": 0.28
+  },
+  {
+   "text": "TAX",
+   "conf": 0.87
+  },
+  {
+   "text": "INVOECE",
+   "conf": 0.44
+  },
+  {
+   "text": "MFY",
+   "conf": 0.88
+  },
+  {
+   "text": "Side",
+   "conf": 0.92
+  },
+  {
+   "text": "t",
+   "conf": 0.0
+  },
+  {
+   "text": "INV#",
+   "conf": 0.64
+  },
+  {
+   "text": "003621800031356",
+   "conf": 0.09
+  },
+  {
+   "text": "ORD",
+   "conf": 0.93
+  },
+  {
+   "text": "#58",
+   "conf": 0.88
+  },
+  {
+   "text": "-REG",
+   "conf": 0.9
+  },
+  {
+   "text": "#19-",
+   "conf": 0.53
+  },
+  {
+   "text": "14/05/2018",
+   "conf": 0.73
+  },
+  {
+   "text": "20:22:58",
+   "conf": 0.84
+  },
+  {
+   "text": "QTY",
+   "conf": 0.93
+  },
+  {
+   "text": "1TEM",
+   "conf": 0.0
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.96
+  },
+  {
+   "text": "TL",
+   "conf": 0.59
+  },
+  {
+   "text": "Methicken",
+   "conf": 0.06
+  },
+  {
+   "text": "11.10",
+   "conf": 0.77
+  },
+  {
+   "text": "Ti",
+   "conf": 0.54
+  },
+  {
+   "text": "Coe",
+   "conf": 0.34
+  },
+  {
+   "text": "|",
+   "conf": 0.62
+  },
+  {
+   "text": "1L",
+   "conf": 0.69
+  },
+  {
+   "text": "Fries",
+   "conf": 0.96
+  },
+  {
+   "text": "|",
+   "conf": 0.4
+  },
+  {
+   "text": "BNuggets",
+   "conf": 0.59
+  },
+  {
+   "text": "7.80",
+   "conf": 0.89
+  },
+  {
+   "text": "1",
+   "conf": 0.86
+  },
+  {
+   "text": "French",
+   "conf": 0.9
+  },
+  {
+   "text": "Cheese",
+   "conf": 0.96
+  },
+  {
+   "text": "Sauce",
+   "conf": 0.91
+  },
+  {
+   "text": "TakeQut",
+   "conf": 0.63
+  },
+  {
+   "text": "Total",
+   "conf": 0.96
+  },
+  {
+   "text": "(inc)",
+   "conf": 0.76
+  },
+  {
+   "text": "6ST)",
+   "conf": 0.88
+  },
+  {
+   "text": "18.90",
+   "conf": 0.95
+  },
+  {
+   "text": "Total",
+   "conf": 0.96
+  },
+  {
+   "text": "Rounded",
+   "conf": 0.9
+  },
+  {
+   "text": "18.90",
+   "conf": 0.79
+  },
+  {
+   "text": "Cash",
+   "conf": 0.92
+  },
+  {
+   "text": "Tendered",
+   "conf": 0.9
+  },
+  {
+   "text": "50.09",
+   "conf": 0.64
+  },
+  {
+   "text": "—",
+   "conf": 0.0
+  },
+  {
+   "text": "Change",
+   "conf": 0.63
+  },
+  {
+   "text": "31.18",
+   "conf": 0.8
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.63
+  },
+  {
+   "text": "INCLUDES",
+   "conf": 0.95
+  },
+  {
+   "text": "6%",
+   "conf": 0.96
+  },
+  {
+   "text": "GST",
+   "conf": 0.73
+  },
+  {
+   "text": "1,07",
+   "conf": 0.93
+  },
+  {
+   "text": "Thank",
+   "conf": 0.96
+  },
+  {
+   "text": "You",
+   "conf": 0.95
+  },
+  {
+   "text": "end",
+   "conf": 0.95
+  },
+  {
+   "text": "Please",
+   "conf": 0.95
+  },
+  {
+   "text": "Come",
+   "conf": 0.96
+  },
+  {
+   "text": "Again.",
+   "conf": 0.75
+  },
+  {
+   "text": "Guest",
+   "conf": 0.79
+  },
+  {
+   "text": "Relations",
+   "conf": 0.96
+  },
+  {
+   "text": "Center",
+   "conf": 0.92
+  },
+  {
+   "text": ":",
+   "conf": 0.43
+  },
+  {
+   "text": "1300-13-1306",
+   "conf": 0.57
+  },
+  {
+   "text": "Gas",
+   "conf": 0.34
+  },
+  {
+   "text": "tae",
+   "conf": 0.24
+  },
+  {
+   "text": "oe",
+   "conf": 0.0
+  },
+  {
+   "text": "-",
+   "conf": 0.0
+  },
+  {
+   "text": "re",
+   "conf": 0.18
+  },
+  {
+   "text": "cn",
+   "conf": 0.13
+  }
+ ],
+ "mean_conf": 0.7183,
+ "low_conf_share": 0.2059,
+ "latency_ms": 2258,
+ "fields": {
+  "company": "GERBANG ALAF RESTAURANTS SDN BHD",
+  "date": null,
+  "total": 18.9
+ },
+ "rule_reasons": [
+  "date_not_found"
+ ],
+ "total_candidates": [
+  18.9,
+  18.9
+ ],
+ "key": "X51008042783"
+}

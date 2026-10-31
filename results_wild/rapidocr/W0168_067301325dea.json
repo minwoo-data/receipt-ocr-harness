@@ -1,0 +1,215 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "ANADIANTIRE235",
+  "11200 BOUL.CAVENDISH",
+  "Ville St-Laurent -H4R 2J7",
+  "Magasin 337-4862 Service 337-0906",
+  "Gestions Daniel Picard Inc",
+  "IPS:878172311RT0003 TVQ:1212380080TQ0004",
+  "CANADIAN TIRE235",
+  "11200 BOUL.CAVENDISH",
+  "Ville St-Laurent -H4R 2J7",
+  "Magasin 337-4862 Service 337-0906",
+  "Gestions Daniel Picard Inc",
+  "IPS:878172311RT0003 TVQ:1212380080TQ0004",
+  "CAISSE:81 06/22/2014 09:14:27 #TRANS:1",
+  "# OPERATEUR:81 EncaiSSe:001",
+  "028-9438-2 MOBIL1SYN OW20$ 33.79",
+  "（RABAIS $18.20）",
+  "198-3252-2 RAB.10$ MOBIL1$ 0.00",
+  "SOUSTOTAL 33.79",
+  "T.P.S.5% 好的的 1.69",
+  "T.V.Q.9.975% 3.37",
+  "TOTAL 38.85",
+  "COUPON FOURNISS 10.00",
+  "AM9:33JUN/22/2014 COMPTANT RECU. 20.00",
+  "COMPTANT RECU. 20.00",
+  "MONNATE 11.15",
+  "ARG.CT DE BASE 0.10",
+  "JI VOUS EPARGNEZ"
+ ],
+ "tokens": [
+  {
+   "text": "ANADIANTIRE235",
+   "conf": 0.9404997229576111
+  },
+  {
+   "text": "11200 BOUL.CAVENDISH",
+   "conf": 0.9667289078235626
+  },
+  {
+   "text": "Ville St-Laurent -H4R 2J7",
+   "conf": 0.9409652781486512
+  },
+  {
+   "text": "Magasin 337-4862 Service 337-0906",
+   "conf": 0.9671640468366218
+  },
+  {
+   "text": "Gestions Daniel Picard Inc",
+   "conf": 0.9545596127326672
+  },
+  {
+   "text": "IPS:878172311RT0003 TVQ:1212380080TQ0004",
+   "conf": 0.9747491464018821
+  },
+  {
+   "text": "CANADIAN TIRE235",
+   "conf": 0.9448504559695721
+  },
+  {
+   "text": "11200 BOUL.CAVENDISH",
+   "conf": 0.9268173575401306
+  },
+  {
+   "text": "Ville St-Laurent -H4R 2J7",
+   "conf": 0.9413437366485595
+  },
+  {
+   "text": "Magasin 337-4862 Service 337-0906",
+   "conf": 0.9663638472557068
+  },
+  {
+   "text": "Gestions Daniel Picard Inc",
+   "conf": 0.9644711086383233
+  },
+  {
+   "text": "IPS:878172311RT0003 TVQ:1212380080TQ0004",
+   "conf": 0.972809074819088
+  },
+  {
+   "text": "CAISSE:81 06/22/2014 09:14:27 #TRANS:1",
+   "conf": 0.952361872321681
+  },
+  {
+   "text": "# OPERATEUR:81 EncaiSSe:001",
+   "conf": 0.8845024815312138
+  },
+  {
+   "text": "028-9438-2",
+   "conf": 0.9941218674182892
+  },
+  {
+   "text": "MOBIL1SYN OW20$",
+   "conf": 0.9492091536521912
+  },
+  {
+   "text": "33.79",
+   "conf": 0.9929782152175903
+  },
+  {
+   "text": "（RABAIS $18.20）",
+   "conf": 0.910956060886383
+  },
+  {
+   "text": "198-3252-2",
+   "conf": 0.9931400358676911
+  },
+  {
+   "text": "RAB.10$ MOBIL1$",
+   "conf": 0.9225863734881083
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9971721023321152
+  },
+  {
+   "text": "SOUSTOTAL",
+   "conf": 0.9819885359870063
+  },
+  {
+   "text": "好的的",
+   "conf": 0.5187427798906962
+  },
+  {
+   "text": "33.79",
+   "conf": 0.9927326321601868
+  },
+  {
+   "text": "T.P.S.5%",
+   "conf": 0.9739621803164482
+  },
+  {
+   "text": "1.69",
+   "conf": 0.9917992651462555
+  },
+  {
+   "text": "T.V.Q.9.975%",
+   "conf": 0.9667654285828272
+  },
+  {
+   "text": "3.37",
+   "conf": 0.9941169768571854
+  },
+  {
+   "text": "AM9:33JUN/22/2014",
+   "conf": 0.9872729112120235
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.9783289074897766
+  },
+  {
+   "text": "38.85",
+   "conf": 0.9956284046173096
+  },
+  {
+   "text": "10.00",
+   "conf": 0.9949910759925842
+  },
+  {
+   "text": "COUPON FOURNISS",
+   "conf": 0.9686275005340577
+  },
+  {
+   "text": "20.00",
+   "conf": 0.9954521298408509
+  },
+  {
+   "text": "COMPTANT RECU.",
+   "conf": 0.9730649590492249
+  },
+  {
+   "text": "20.00",
+   "conf": 0.9962920069694519
+  },
+  {
+   "text": "COMPTANT RECU.",
+   "conf": 0.9446283493723188
+  },
+  {
+   "text": "11.15",
+   "conf": 0.994629967212677
+  },
+  {
+   "text": "MONNATE",
+   "conf": 0.9311755129269191
+  },
+  {
+   "text": "0.10",
+   "conf": 0.9960170537233353
+  },
+  {
+   "text": "ARG.CT DE BASE",
+   "conf": 0.9146571670259748
+  },
+  {
+   "text": "JI VOUS EPARGNEZ",
+   "conf": 0.9338297247886658
+  }
+ ],
+ "mean_conf": 0.9544,
+ "low_conf_share": 0.0,
+ "latency_ms": 5899,
+ "fields": {
+  "company": "GESTIONS DANIEL PICARD INC",
+  "date": "2014-06-22",
+  "total": 38.85
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  38.85
+ ],
+ "key": "W0168_067301325dea"
+}

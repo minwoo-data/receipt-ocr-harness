@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.1-flash-lite",
+ "provider": "gemini",
+ "raw_text": "{\n  \"vendor\": \"MR. D.I.Y. (M) SDN BHD\",\n  \"date\": \"2018-04-11\",\n  \"subtotal\": 8.49,\n  \"tax\": 0.51,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 9.00,\n  \"currency\": \"MYR\",\n  \"confidence\": 0.98,\n  \"notes\": \"Subtotal calculated as total minus tax.\"\n}",
+ "data": {
+  "vendor": "MR. D.I.Y. (M) SDN BHD",
+  "date": "2018-04-11",
+  "subtotal": 8.49,
+  "tax": 0.51,
+  "tip": null,
+  "discount": null,
+  "total": 9.0,
+  "currency": "MYR",
+  "confidence": 0.98,
+  "notes": "Subtotal calculated as total minus tax."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1461,
+  "output_tokens": 123,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.00055,
+ "latency_ms": 1672,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.1-flash-lite",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.1-flash-lite"
+ ],
+ "key": "X51007103599"
+}

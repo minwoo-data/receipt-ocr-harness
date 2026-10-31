@@ -1,0 +1,343 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "E WOOLORTH2280",
+  "4200 BLUERIDGE BLVDBLUERIDGE HALL",
+  "KANSASCITYHO64133",
+  "REGULAR SALE",
+  "09/20/9714:100002280002002506859",
+  "CASHIER....:000001631 THERESA",
+  "04818862759 SESAME STREET R 4.79%",
+  "04818862759 SESAME STREETR 4.79",
+  "09060500102 <W>SALINE 1.18",
+  "04711368701 AODISC 3.58",
+  "04818862759 SESAME STREETR -4.79V",
+  "07046254250 SWEDISH RED FIS 0.30",
+  "07046254250 SWEDISH RED FIS 0.30*",
+  "76487840900 SINGLE CANDOLIE 0.95",
+  "DISCOUNT8(CODE1)PROHOTIONAL",
+  "ON1ITEMS -0.29",
+  "30PERCENT OFF",
+  "76487840550 10OULLITE SET 4.79",
+  "DISCDUNT8(CODE1)PROMOTIONAL",
+  "ON1ITENS -1,44",
+  "30PERCENT OFF",
+  "38137000768 SHOWER/SHW80Z 1.74",
+  "07103116720 <W>PERF THED 1.00",
+  "0344400 REESE'SP.B.CUP 0.35",
+  "04000002103 JMUSKETEERS 10 0.89",
+  "SUBTOTAL 18.14",
+  "6.60%TAX 1.20",
+  "TOTALBALANCEDUE 19.34",
+  "AMOUNTTENDERED IN PAYMENT",
+  "PAYMENT BY:CASH 20.00",
+  "CHANGE 0.66",
+  "ALL SALES FINAL",
+  "NO RETURNS OR EXCHANGES",
+  "THANK YOU"
+ ],
+ "tokens": [
+  {
+   "text": "E WOOLORTH2280",
+   "conf": 0.883508277790887
+  },
+  {
+   "text": "4200 BLUERIDGE BLVDBLUERIDGE HALL",
+   "conf": 0.927141066753503
+  },
+  {
+   "text": "KANSASCITYHO64133",
+   "conf": 0.9482843174653894
+  },
+  {
+   "text": "REGULAR SALE",
+   "conf": 0.9783373574415842
+  },
+  {
+   "text": "09/20/9714:100002280002002506859",
+   "conf": 0.9897816218435764
+  },
+  {
+   "text": "CASHIER....:000001631",
+   "conf": 0.9502208828926086
+  },
+  {
+   "text": "THERESA",
+   "conf": 0.9883336169379098
+  },
+  {
+   "text": "04818862759",
+   "conf": 0.9978104125369679
+  },
+  {
+   "text": "SESAME STREET R",
+   "conf": 0.9097885648409526
+  },
+  {
+   "text": "4.79%",
+   "conf": 0.8996492147445678
+  },
+  {
+   "text": "04818862759",
+   "conf": 0.9978136745366183
+  },
+  {
+   "text": "SESAME STREETR",
+   "conf": 0.9669024092810494
+  },
+  {
+   "text": "4.79",
+   "conf": 0.9850057661533356
+  },
+  {
+   "text": "09060500102",
+   "conf": 0.9950640418312766
+  },
+  {
+   "text": "<W>SALINE",
+   "conf": 0.9546248647901747
+  },
+  {
+   "text": "1.18",
+   "conf": 0.9877595454454422
+  },
+  {
+   "text": "04711368701",
+   "conf": 0.9964677691459656
+  },
+  {
+   "text": "AODISC",
+   "conf": 0.9376205106576284
+  },
+  {
+   "text": "3.58",
+   "conf": 0.9608674794435501
+  },
+  {
+   "text": "04818862759",
+   "conf": 0.9961822412230752
+  },
+  {
+   "text": "SESAME STREETR",
+   "conf": 0.9596850446292332
+  },
+  {
+   "text": "-4.79V",
+   "conf": 0.8260214527448019
+  },
+  {
+   "text": "07046254250",
+   "conf": 0.9983448332006281
+  },
+  {
+   "text": "SWEDISH RED FIS",
+   "conf": 0.9630529085795084
+  },
+  {
+   "text": "0.30",
+   "conf": 0.9766588062047958
+  },
+  {
+   "text": "07046254250",
+   "conf": 0.9983049576932733
+  },
+  {
+   "text": "SWEDISH RED FIS",
+   "conf": 0.9735632061958313
+  },
+  {
+   "text": "0.30*",
+   "conf": 0.8641330301761627
+  },
+  {
+   "text": "76487840900",
+   "conf": 0.9965877478772943
+  },
+  {
+   "text": "SINGLE CANDOLIE",
+   "conf": 0.9745103081067403
+  },
+  {
+   "text": "0.95",
+   "conf": 0.9926821738481522
+  },
+  {
+   "text": "DISCOUNT8(CODE1)PROHOTIONAL",
+   "conf": 0.9405085311995612
+  },
+  {
+   "text": "ON1ITEMS",
+   "conf": 0.9302657246589661
+  },
+  {
+   "text": "-0.29",
+   "conf": 0.973449957370758
+  },
+  {
+   "text": "30PERCENT OFF",
+   "conf": 0.9598518426601703
+  },
+  {
+   "text": "76487840550",
+   "conf": 0.9924816164103422
+  },
+  {
+   "text": "10OULLITE SET",
+   "conf": 0.9216360449790955
+  },
+  {
+   "text": "4.79",
+   "conf": 0.9865387380123138
+  },
+  {
+   "text": "DISCDUNT8(CODE1)PROMOTIONAL",
+   "conf": 0.9274285788889285
+  },
+  {
+   "text": "ON1ITENS",
+   "conf": 0.9277914389967918
+  },
+  {
+   "text": "-1,44",
+   "conf": 0.908012306690216
+  },
+  {
+   "text": "30PERCENT OFF",
+   "conf": 0.9210287791032058
+  },
+  {
+   "text": "38137000768",
+   "conf": 0.9945845712314952
+  },
+  {
+   "text": "SHOWER/SHW80Z",
+   "conf": 0.9426838709757879
+  },
+  {
+   "text": "1.74",
+   "conf": 0.9867746233940125
+  },
+  {
+   "text": "07103116720",
+   "conf": 0.9970521926879883
+  },
+  {
+   "text": "<W>PERF THED",
+   "conf": 0.9383125851551691
+  },
+  {
+   "text": "1.00",
+   "conf": 0.9679859280586243
+  },
+  {
+   "text": "0344400",
+   "conf": 0.9957978299685887
+  },
+  {
+   "text": "REESE'SP.B.CUP",
+   "conf": 0.9187940912587302
+  },
+  {
+   "text": "0.35",
+   "conf": 0.9813990443944931
+  },
+  {
+   "text": "04000002103",
+   "conf": 0.996041325005618
+  },
+  {
+   "text": "JMUSKETEERS 10",
+   "conf": 0.9245180572782244
+  },
+  {
+   "text": "0.89",
+   "conf": 0.9849306493997574
+  },
+  {
+   "text": "SUBTOTAL",
+   "conf": 0.9746620059013367
+  },
+  {
+   "text": "18.14",
+   "conf": 0.9943784713745117
+  },
+  {
+   "text": "6.60%TAX",
+   "conf": 0.9343129023909569
+  },
+  {
+   "text": "1.20",
+   "conf": 0.9759069234132767
+  },
+  {
+   "text": "TOTALBALANCEDUE",
+   "conf": 0.9929665366808573
+  },
+  {
+   "text": "19.34",
+   "conf": 0.98911452293396
+  },
+  {
+   "text": "AMOUNTTENDERED IN PAYMENT",
+   "conf": 0.9593711876869202
+  },
+  {
+   "text": "PAYMENT BY:CASH",
+   "conf": 0.9454871813456217
+  },
+  {
+   "text": "20.00",
+   "conf": 0.9913995623588562
+  },
+  {
+   "text": "CHANGE",
+   "conf": 0.9937306841214498
+  },
+  {
+   "text": "0.66",
+   "conf": 0.9484148919582367
+  },
+  {
+   "text": "ALL SALES FINAL",
+   "conf": 0.9553303798039754
+  },
+  {
+   "text": "NO RETURNS OR EXCHANGES",
+   "conf": 0.9623333008392997
+  },
+  {
+   "text": "THANK",
+   "conf": 0.9880431652069092
+  },
+  {
+   "text": "YOU",
+   "conf": 0.9774463375409445
+  }
+ ],
+ "mean_conf": 0.962,
+ "low_conf_share": 0.0,
+ "latency_ms": 5528,
+ "fields": {
+  "company": "E WOOLORTH2280",
+  "date": null,
+  "total": 20.0
+ },
+ "rule_reasons": [
+  "date_not_found",
+  "total_no_keyword_fallback_max"
+ ],
+ "total_candidates": [
+  4.79,
+  1.74,
+  1.0,
+  0.35,
+  0.89,
+  18.14,
+  6.6,
+  1.2,
+  19.34,
+  20.0,
+  0.66
+ ],
+ "key": "W0005_9f913b5d2994"
+}

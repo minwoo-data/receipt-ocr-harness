@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.1-flash-lite",
+ "provider": "gemini",
+ "raw_text": "{\n  \"vendor\": \"FIVE GUYS\",\n  \"date\": \"2017-07-22\",\n  \"subtotal\": -2.87,\n  \"tax\": -0.26,\n  \"tip\": null,\n  \"discount\": -0.32,\n  \"total\": -3.13,\n  \"currency\": \"USD\",\n  \"confidence\": 0.98,\n  \"notes\": \"This is a refund receipt.\"\n}",
+ "data": {
+  "vendor": "FIVE GUYS",
+  "date": "2017-07-22",
+  "subtotal": -2.87,
+  "tax": -0.26,
+  "tip": null,
+  "discount": -0.32,
+  "total": -3.13,
+  "currency": "USD",
+  "confidence": 0.98,
+  "notes": "This is a refund receipt."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1433,
+  "output_tokens": 113,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.000528,
+ "latency_ms": 1444,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.1-flash-lite",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.1-flash-lite"
+ ],
+ "key": "W0077_b1feb6ff61e5"
+}

@@ -1,0 +1,402 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "PORTUGAL WINE BAR & GRILL",
+  "15 Palm Harbor Village Hay #4",
+  "Palm Coast, FL 92137",
+  "(386), 447-2872",
+  "Table: 9",
+  "Server: JASON GOMES",
+  "Table opened 11/27/2016 16:06:57",
+  "GRILL CHIOKEN BREAST 18 14.95",
+  "CALAMARI (ARROZ)RICE STE 1 @ 16.95",
+  "COD FISH (BRAS) STYLE 1 @ 14.95",
+  "SERRADURA 1 8 4.95",
+  "FLAN 1 @ 5.00",
+  "EXPRESSO 1 @ 1.50",
+  "Sub Total: 57.30",
+  "Tax 4.03",
+  "TOTAL 61.33",
+  "PRINT 1",
+  "TIPS NOT INCLUDED",
+  "Suagested tips anounts 15% - $ 8.59",
+  "are provided for your 18% ~ $10.31",
+  "conventence 208 = $11.46",
+  "ice MyPOSG2 11/27/2016 16:02:36"
+ ],
+ "tokens": [
+  {
+   "text": "PORTUGAL",
+   "conf": 0.94
+  },
+  {
+   "text": "WINE",
+   "conf": 0.94
+  },
+  {
+   "text": "BAR",
+   "conf": 0.78
+  },
+  {
+   "text": "&",
+   "conf": 0.78
+  },
+  {
+   "text": "GRILL",
+   "conf": 0.91
+  },
+  {
+   "text": "15",
+   "conf": 0.85
+  },
+  {
+   "text": "Palm",
+   "conf": 0.89
+  },
+  {
+   "text": "Harbor",
+   "conf": 0.95
+  },
+  {
+   "text": "Village",
+   "conf": 0.82
+  },
+  {
+   "text": "Hay",
+   "conf": 0.73
+  },
+  {
+   "text": "#4",
+   "conf": 0.55
+  },
+  {
+   "text": "Palm",
+   "conf": 0.67
+  },
+  {
+   "text": "Coast,",
+   "conf": 0.95
+  },
+  {
+   "text": "FL",
+   "conf": 0.77
+  },
+  {
+   "text": "92137",
+   "conf": 0.77
+  },
+  {
+   "text": "(386),",
+   "conf": 0.31
+  },
+  {
+   "text": "447-2872",
+   "conf": 0.73
+  },
+  {
+   "text": "Table:",
+   "conf": 0.77
+  },
+  {
+   "text": "9",
+   "conf": 0.92
+  },
+  {
+   "text": "Server:",
+   "conf": 0.87
+  },
+  {
+   "text": "JASON",
+   "conf": 0.87
+  },
+  {
+   "text": "GOMES",
+   "conf": 0.82
+  },
+  {
+   "text": "Table",
+   "conf": 0.94
+  },
+  {
+   "text": "opened",
+   "conf": 0.94
+  },
+  {
+   "text": "11/27/2016",
+   "conf": 0.89
+  },
+  {
+   "text": "16:06:57",
+   "conf": 0.81
+  },
+  {
+   "text": "GRILL",
+   "conf": 0.87
+  },
+  {
+   "text": "CHIOKEN",
+   "conf": 0.87
+  },
+  {
+   "text": "BREAST",
+   "conf": 0.66
+  },
+  {
+   "text": "18",
+   "conf": 0.54
+  },
+  {
+   "text": "14.95",
+   "conf": 0.73
+  },
+  {
+   "text": "CALAMARI",
+   "conf": 0.0
+  },
+  {
+   "text": "(ARROZ)RICE",
+   "conf": 0.0
+  },
+  {
+   "text": "STE",
+   "conf": 0.43
+  },
+  {
+   "text": "1",
+   "conf": 0.43
+  },
+  {
+   "text": "@",
+   "conf": 0.64
+  },
+  {
+   "text": "16.95",
+   "conf": 0.64
+  },
+  {
+   "text": "COD",
+   "conf": 0.77
+  },
+  {
+   "text": "FISH",
+   "conf": 0.84
+  },
+  {
+   "text": "(BRAS)",
+   "conf": 0.94
+  },
+  {
+   "text": "STYLE",
+   "conf": 0.41
+  },
+  {
+   "text": "1",
+   "conf": 0.22
+  },
+  {
+   "text": "@",
+   "conf": 0.58
+  },
+  {
+   "text": "14.95",
+   "conf": 0.87
+  },
+  {
+   "text": "SERRADURA",
+   "conf": 0.33
+  },
+  {
+   "text": "1",
+   "conf": 0.63
+  },
+  {
+   "text": "8",
+   "conf": 0.62
+  },
+  {
+   "text": "4.95",
+   "conf": 0.62
+  },
+  {
+   "text": "FLAN",
+   "conf": 0.95
+  },
+  {
+   "text": "1",
+   "conf": 0.64
+  },
+  {
+   "text": "@",
+   "conf": 0.64
+  },
+  {
+   "text": "5.00",
+   "conf": 0.85
+  },
+  {
+   "text": "EXPRESSO",
+   "conf": 0.81
+  },
+  {
+   "text": "1",
+   "conf": 0.75
+  },
+  {
+   "text": "@",
+   "conf": 0.75
+  },
+  {
+   "text": "1.50",
+   "conf": 0.83
+  },
+  {
+   "text": "Sub",
+   "conf": 0.76
+  },
+  {
+   "text": "Total:",
+   "conf": 0.63
+  },
+  {
+   "text": "57.30",
+   "conf": 0.28
+  },
+  {
+   "text": "Tax",
+   "conf": 0.62
+  },
+  {
+   "text": "4.03",
+   "conf": 0.89
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.7
+  },
+  {
+   "text": "61.33",
+   "conf": 0.91
+  },
+  {
+   "text": "PRINT",
+   "conf": 0.77
+  },
+  {
+   "text": "1",
+   "conf": 0.84
+  },
+  {
+   "text": "TIPS",
+   "conf": 0.94
+  },
+  {
+   "text": "NOT",
+   "conf": 0.95
+  },
+  {
+   "text": "INCLUDED",
+   "conf": 0.93
+  },
+  {
+   "text": "Suagested",
+   "conf": 0.43
+  },
+  {
+   "text": "tips",
+   "conf": 0.92
+  },
+  {
+   "text": "anounts",
+   "conf": 0.88
+  },
+  {
+   "text": "15%",
+   "conf": 0.8
+  },
+  {
+   "text": "-",
+   "conf": 0.75
+  },
+  {
+   "text": "$",
+   "conf": 0.82
+  },
+  {
+   "text": "8.59",
+   "conf": 0.9
+  },
+  {
+   "text": "are",
+   "conf": 0.95
+  },
+  {
+   "text": "provided",
+   "conf": 0.96
+  },
+  {
+   "text": "for",
+   "conf": 0.88
+  },
+  {
+   "text": "your",
+   "conf": 0.76
+  },
+  {
+   "text": "18%",
+   "conf": 0.47
+  },
+  {
+   "text": "~",
+   "conf": 0.42
+  },
+  {
+   "text": "$10.31",
+   "conf": 0.94
+  },
+  {
+   "text": "conventence",
+   "conf": 0.27
+  },
+  {
+   "text": "208",
+   "conf": 0.62
+  },
+  {
+   "text": "=",
+   "conf": 0.83
+  },
+  {
+   "text": "$11.46",
+   "conf": 0.71
+  },
+  {
+   "text": "ice",
+   "conf": 0.71
+  },
+  {
+   "text": "MyPOSG2",
+   "conf": 0.29
+  },
+  {
+   "text": "11/27/2016",
+   "conf": 0.66
+  },
+  {
+   "text": "16:02:36",
+   "conf": 0.8
+  }
+ ],
+ "mean_conf": 0.7224,
+ "low_conf_share": 0.1556,
+ "latency_ms": 345,
+ "fields": {
+  "company": "PORTUGAL WINE BAR GRILL",
+  "date": "2016-11-27",
+  "total": 61.33
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  61.33
+ ],
+ "key": "W0011_29278b4f3236"
+}

@@ -1,0 +1,704 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "r . we . . f",
+  "SEMBOYAN TEGAS SDN BHD y,",
+  "No.5 & 7 . Jalan TS) a.",
+  "Taman Subang Jasa",
+  "Kg. Baru Subang, YOIS0 Shah Alam °",
+  "Selangor Darul Ehsan",
+  "Te) 03-7846 1113) Fax. 03-7832 1368",
+  "Hp: Ole-396 168 Ole-353 7738",
+  "www.semboyan com",
+  "Email’ semboyantegas@gmai | com",
+  "(GST Reg No °§ G01938965504)",
+  "Tax Invoice",
+  "Check #° SY914B Pax(s). 5",
+  "Date : 06-03-2018 07: 24.06",
+  "Cashier. CASHIER 4",
+  "Description Qty U.price Total TAX",
+  "| taucu kisar",
+  "| ex 6.50 13.00 SR",
+  "Teh wangi ros 180g",
+  "ex 4.20 840 ZR",
+  "ASAM JAWA 1KG",
+  "Ix 4.60 480 ZAL",
+  "Total (Excluding GST) cb co",
+  "GST Payable: 0.78",
+  "Total (Inclusive of GST): 26 4B",
+  "Rounding Adj: 0.02",
+  "TOTAL: 27 | > 87 00K",
+  "Closed’ 06-03-2018 O7:e4.4y4",
+  "CASH .- 52.00",
+  "CHANGE : eS go",
+  "GST Summary Amourit (AM) = Tax(AM)",
+  "SA (@ 6%) 13,00 0 78 J",
+  "ZA (@ %) BW 0.00",
+  "ZAL (@ 0%) 4 8G 0.00",
+  "«ees Thank You **+4",
+  "Please Come Again"
+ ],
+ "tokens": [
+  {
+   "text": "r",
+   "conf": 0.0
+  },
+  {
+   "text": ".",
+   "conf": 0.33
+  },
+  {
+   "text": "we",
+   "conf": 0.25
+  },
+  {
+   "text": ".",
+   "conf": 0.0
+  },
+  {
+   "text": ".",
+   "conf": 0.85
+  },
+  {
+   "text": "f",
+   "conf": 0.34
+  },
+  {
+   "text": "SEMBOYAN",
+   "conf": 0.81
+  },
+  {
+   "text": "TEGAS",
+   "conf": 0.92
+  },
+  {
+   "text": "SDN",
+   "conf": 0.96
+  },
+  {
+   "text": "BHD",
+   "conf": 0.87
+  },
+  {
+   "text": "y,",
+   "conf": 0.01
+  },
+  {
+   "text": "No.5",
+   "conf": 0.9
+  },
+  {
+   "text": "&",
+   "conf": 0.9
+  },
+  {
+   "text": "7",
+   "conf": 0.84
+  },
+  {
+   "text": ".",
+   "conf": 0.68
+  },
+  {
+   "text": "Jalan",
+   "conf": 0.72
+  },
+  {
+   "text": "TS)",
+   "conf": 0.84
+  },
+  {
+   "text": "a.",
+   "conf": 0.85
+  },
+  {
+   "text": "Taman",
+   "conf": 0.96
+  },
+  {
+   "text": "Subang",
+   "conf": 0.93
+  },
+  {
+   "text": "Jasa",
+   "conf": 0.91
+  },
+  {
+   "text": "Kg.",
+   "conf": 0.96
+  },
+  {
+   "text": "Baru",
+   "conf": 0.83
+  },
+  {
+   "text": "Subang,",
+   "conf": 0.54
+  },
+  {
+   "text": "YOIS0",
+   "conf": 0.39
+  },
+  {
+   "text": "Shah",
+   "conf": 0.57
+  },
+  {
+   "text": "Alam",
+   "conf": 0.93
+  },
+  {
+   "text": "°",
+   "conf": 0.0
+  },
+  {
+   "text": "Selangor",
+   "conf": 0.92
+  },
+  {
+   "text": "Darul",
+   "conf": 0.65
+  },
+  {
+   "text": "Ehsan",
+   "conf": 0.59
+  },
+  {
+   "text": "Te)",
+   "conf": 0.33
+  },
+  {
+   "text": "03-7846",
+   "conf": 0.66
+  },
+  {
+   "text": "1113)",
+   "conf": 0.36
+  },
+  {
+   "text": "Fax.",
+   "conf": 0.91
+  },
+  {
+   "text": "03-7832",
+   "conf": 0.89
+  },
+  {
+   "text": "1368",
+   "conf": 0.93
+  },
+  {
+   "text": "Hp:",
+   "conf": 0.91
+  },
+  {
+   "text": "Ole-396",
+   "conf": 0.72
+  },
+  {
+   "text": "168",
+   "conf": 0.46
+  },
+  {
+   "text": "Ole-353",
+   "conf": 0.48
+  },
+  {
+   "text": "7738",
+   "conf": 0.72
+  },
+  {
+   "text": "www.semboyan",
+   "conf": 0.72
+  },
+  {
+   "text": "com",
+   "conf": 0.95
+  },
+  {
+   "text": "Email’",
+   "conf": 0.87
+  },
+  {
+   "text": "semboyantegas@gmai",
+   "conf": 0.68
+  },
+  {
+   "text": "|",
+   "conf": 0.86
+  },
+  {
+   "text": "com",
+   "conf": 0.96
+  },
+  {
+   "text": "(GST",
+   "conf": 0.96
+  },
+  {
+   "text": "Reg",
+   "conf": 0.95
+  },
+  {
+   "text": "No",
+   "conf": 0.79
+  },
+  {
+   "text": "°§",
+   "conf": 0.0
+  },
+  {
+   "text": "G01938965504)",
+   "conf": 0.31
+  },
+  {
+   "text": "Tax",
+   "conf": 0.94
+  },
+  {
+   "text": "Invoice",
+   "conf": 0.95
+  },
+  {
+   "text": "Check",
+   "conf": 0.92
+  },
+  {
+   "text": "#°",
+   "conf": 0.65
+  },
+  {
+   "text": "SY914B",
+   "conf": 0.13
+  },
+  {
+   "text": "Pax(s).",
+   "conf": 0.14
+  },
+  {
+   "text": "5",
+   "conf": 0.93
+  },
+  {
+   "text": "Date",
+   "conf": 0.96
+  },
+  {
+   "text": ":",
+   "conf": 0.0
+  },
+  {
+   "text": "06-03-2018",
+   "conf": 0.91
+  },
+  {
+   "text": "07:",
+   "conf": 0.03
+  },
+  {
+   "text": "24.06",
+   "conf": 0.03
+  },
+  {
+   "text": "Cashier.",
+   "conf": 0.79
+  },
+  {
+   "text": "CASHIER",
+   "conf": 0.95
+  },
+  {
+   "text": "4",
+   "conf": 0.63
+  },
+  {
+   "text": "Description",
+   "conf": 0.96
+  },
+  {
+   "text": "Qty",
+   "conf": 0.96
+  },
+  {
+   "text": "U.price",
+   "conf": 0.9
+  },
+  {
+   "text": "Total",
+   "conf": 0.96
+  },
+  {
+   "text": "TAX",
+   "conf": 0.96
+  },
+  {
+   "text": "|",
+   "conf": 0.87
+  },
+  {
+   "text": "taucu",
+   "conf": 0.92
+  },
+  {
+   "text": "kisar",
+   "conf": 0.91
+  },
+  {
+   "text": "|",
+   "conf": 0.93
+  },
+  {
+   "text": "ex",
+   "conf": 0.66
+  },
+  {
+   "text": "6.50",
+   "conf": 0.91
+  },
+  {
+   "text": "13.00",
+   "conf": 0.83
+  },
+  {
+   "text": "SR",
+   "conf": 0.85
+  },
+  {
+   "text": "Teh",
+   "conf": 0.92
+  },
+  {
+   "text": "wangi",
+   "conf": 0.9
+  },
+  {
+   "text": "ros",
+   "conf": 0.95
+  },
+  {
+   "text": "180g",
+   "conf": 0.9
+  },
+  {
+   "text": "ex",
+   "conf": 0.75
+  },
+  {
+   "text": "4.20",
+   "conf": 0.91
+  },
+  {
+   "text": "840",
+   "conf": 0.86
+  },
+  {
+   "text": "ZR",
+   "conf": 0.76
+  },
+  {
+   "text": "ASAM",
+   "conf": 0.9
+  },
+  {
+   "text": "JAWA",
+   "conf": 0.87
+  },
+  {
+   "text": "1KG",
+   "conf": 0.72
+  },
+  {
+   "text": "Ix",
+   "conf": 0.33
+  },
+  {
+   "text": "4.60",
+   "conf": 0.69
+  },
+  {
+   "text": "480",
+   "conf": 0.39
+  },
+  {
+   "text": "ZAL",
+   "conf": 0.6
+  },
+  {
+   "text": "Total",
+   "conf": 0.95
+  },
+  {
+   "text": "(Excluding",
+   "conf": 0.95
+  },
+  {
+   "text": "GST)",
+   "conf": 0.96
+  },
+  {
+   "text": "cb",
+   "conf": 0.12
+  },
+  {
+   "text": "co",
+   "conf": 0.68
+  },
+  {
+   "text": "GST",
+   "conf": 0.96
+  },
+  {
+   "text": "Payable:",
+   "conf": 0.96
+  },
+  {
+   "text": "0.78",
+   "conf": 0.9
+  },
+  {
+   "text": "Total",
+   "conf": 0.94
+  },
+  {
+   "text": "(Inclusive",
+   "conf": 0.94
+  },
+  {
+   "text": "of",
+   "conf": 0.96
+  },
+  {
+   "text": "GST):",
+   "conf": 0.04
+  },
+  {
+   "text": "26",
+   "conf": 0.46
+  },
+  {
+   "text": "4B",
+   "conf": 0.58
+  },
+  {
+   "text": "Rounding",
+   "conf": 0.75
+  },
+  {
+   "text": "Adj:",
+   "conf": 0.9
+  },
+  {
+   "text": "0.02",
+   "conf": 0.9
+  },
+  {
+   "text": "TOTAL:",
+   "conf": 0.5
+  },
+  {
+   "text": "27",
+   "conf": 0.49
+  },
+  {
+   "text": "|",
+   "conf": 0.69
+  },
+  {
+   "text": ">",
+   "conf": 0.51
+  },
+  {
+   "text": "87",
+   "conf": 0.56
+  },
+  {
+   "text": "00K",
+   "conf": 0.63
+  },
+  {
+   "text": "Closed’",
+   "conf": 0.65
+  },
+  {
+   "text": "06-03-2018",
+   "conf": 0.43
+  },
+  {
+   "text": "O7:e4.4y4",
+   "conf": 0.42
+  },
+  {
+   "text": "CASH",
+   "conf": 0.92
+  },
+  {
+   "text": ".-",
+   "conf": 0.18
+  },
+  {
+   "text": "52.00",
+   "conf": 0.35
+  },
+  {
+   "text": "CHANGE",
+   "conf": 0.85
+  },
+  {
+   "text": ":",
+   "conf": 0.87
+  },
+  {
+   "text": "eS",
+   "conf": 0.8
+  },
+  {
+   "text": "go",
+   "conf": 0.37
+  },
+  {
+   "text": "GST",
+   "conf": 0.95
+  },
+  {
+   "text": "Summary",
+   "conf": 0.49
+  },
+  {
+   "text": "Amourit",
+   "conf": 0.88
+  },
+  {
+   "text": "(AM)",
+   "conf": 0.79
+  },
+  {
+   "text": "=",
+   "conf": 0.49
+  },
+  {
+   "text": "Tax(AM)",
+   "conf": 0.65
+  },
+  {
+   "text": "SA",
+   "conf": 0.89
+  },
+  {
+   "text": "(@",
+   "conf": 0.81
+  },
+  {
+   "text": "6%)",
+   "conf": 0.76
+  },
+  {
+   "text": "13,00",
+   "conf": 0.61
+  },
+  {
+   "text": "0",
+   "conf": 0.69
+  },
+  {
+   "text": "78",
+   "conf": 0.81
+  },
+  {
+   "text": "J",
+   "conf": 0.46
+  },
+  {
+   "text": "ZA",
+   "conf": 0.9
+  },
+  {
+   "text": "(@",
+   "conf": 0.85
+  },
+  {
+   "text": "%)",
+   "conf": 0.85
+  },
+  {
+   "text": "BW",
+   "conf": 0.6
+  },
+  {
+   "text": "0.00",
+   "conf": 0.93
+  },
+  {
+   "text": "ZAL",
+   "conf": 0.88
+  },
+  {
+   "text": "(@",
+   "conf": 0.93
+  },
+  {
+   "text": "0%)",
+   "conf": 0.73
+  },
+  {
+   "text": "4",
+   "conf": 0.74
+  },
+  {
+   "text": "8G",
+   "conf": 0.71
+  },
+  {
+   "text": "0.00",
+   "conf": 0.89
+  },
+  {
+   "text": "«ees",
+   "conf": 0.43
+  },
+  {
+   "text": "Thank",
+   "conf": 0.95
+  },
+  {
+   "text": "You",
+   "conf": 0.91
+  },
+  {
+   "text": "**+4",
+   "conf": 0.29
+  },
+  {
+   "text": "Please",
+   "conf": 0.95
+  },
+  {
+   "text": "Come",
+   "conf": 0.93
+  },
+  {
+   "text": "Again",
+   "conf": 0.96
+  }
+ ],
+ "mean_conf": 0.7099,
+ "low_conf_share": 0.2188,
+ "latency_ms": 1857,
+ "fields": {
+  "company": "SEMBOYAN TEGAS SDN BHD Y",
+  "date": "2018-03-06",
+  "total": 52.0
+ },
+ "rule_reasons": [
+  "total_no_keyword_fallback_max"
+ ],
+ "total_candidates": [
+  4.2,
+  4.6,
+  0.78,
+  0.02,
+  52.0,
+  0.0,
+  0.0
+ ],
+ "key": "X51006329183"
+}

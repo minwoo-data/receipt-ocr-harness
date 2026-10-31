@@ -1,0 +1,154 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "GREENLEAFGROCERSDNBHD",
+  "12 JALAN TUN RAZAK,50400 KUALA LUMPUR",
+  "TAX INVOICE",
+  "Date:13/05/2026 Time:13:42",
+  "3x A4PAPER80GSM 44.70",
+  "1 X DISH S0AP900ML 7.40",
+  "X USB CABLE1M 19.90",
+  "1XGARDENSALAD 15.50",
+  "SUBTOTAL 87.50",
+  "GST6% 5.25",
+  "TOTAL 92.75",
+  "CASH 97.75",
+  "CHANGE 5.00",
+  "THANKYOU,PLEASECOMEAGAIN"
+ ],
+ "tokens": [
+  {
+   "text": "GREENLEAFGROCERSDNBHD",
+   "conf": 0.9933619016692752
+  },
+  {
+   "text": "12 JALAN TUN RAZAK,50400 KUALA LUMPUR",
+   "conf": 0.9161546971346881
+  },
+  {
+   "text": "TAX INVOICE",
+   "conf": 0.9657125039534136
+  },
+  {
+   "text": "Date:13/05/2026",
+   "conf": 0.9883622328440348
+  },
+  {
+   "text": "Time:13:42",
+   "conf": 0.9576631546020508
+  },
+  {
+   "text": "3x",
+   "conf": 0.8313704133033752
+  },
+  {
+   "text": "A4PAPER80GSM",
+   "conf": 0.9950095613797506
+  },
+  {
+   "text": "44.70",
+   "conf": 0.9993570685386658
+  },
+  {
+   "text": "1",
+   "conf": 0.991209864616394
+  },
+  {
+   "text": "DISH",
+   "conf": 0.994412899017334
+  },
+  {
+   "text": "S0AP900ML",
+   "conf": 0.9712684684329562
+  },
+  {
+   "text": "7.40",
+   "conf": 0.9996476322412491
+  },
+  {
+   "text": "X",
+   "conf": 0.5775435566902161
+  },
+  {
+   "text": "USB",
+   "conf": 0.9967778921127319
+  },
+  {
+   "text": "CABLE1M",
+   "conf": 0.9948464121137347
+  },
+  {
+   "text": "19.90",
+   "conf": 0.9994556903839111
+  },
+  {
+   "text": "X",
+   "conf": 0.5518852472305298
+  },
+  {
+   "text": "1XGARDENSALAD",
+   "conf": 0.9733807169474088
+  },
+  {
+   "text": "15.50",
+   "conf": 0.9996033310890198
+  },
+  {
+   "text": "SUBTOTAL",
+   "conf": 0.9961656928062439
+  },
+  {
+   "text": "87.50",
+   "conf": 0.9997636437416076
+  },
+  {
+   "text": "GST6%",
+   "conf": 0.9982770562171936
+  },
+  {
+   "text": "5.25",
+   "conf": 0.9994550198316574
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.9941873550415039
+  },
+  {
+   "text": "92.75",
+   "conf": 0.9989499926567078
+  },
+  {
+   "text": "CASH",
+   "conf": 0.9981226176023483
+  },
+  {
+   "text": "97.75",
+   "conf": 0.9997759103775025
+  },
+  {
+   "text": "CHANGE",
+   "conf": 0.9966811239719391
+  },
+  {
+   "text": "5.00",
+   "conf": 0.9993730336427689
+  },
+  {
+   "text": "THANKYOU,PLEASECOMEAGAIN",
+   "conf": 0.9762728015581766
+  }
+ ],
+ "mean_conf": 0.9551,
+ "low_conf_share": 0.0,
+ "latency_ms": 17549,
+ "fields": {
+  "company": "GREENLEAFGROCERSDNBHD",
+  "date": "2026-05-13",
+  "total": 92.75
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  92.75
+ ],
+ "key": "SYN010"
+}

@@ -1,0 +1,605 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "| ALK HUAT HARDUARE",
+  "ENTERPRISE (SETITA",
+  "ALAM) Son BHO.",
+  "| Le SDORTEX a",
+  "NO. 17-0) ALAN BETIA INDAH",
+  "(1) WIS, SETA BL,",
+  "SEKSYEN U1, 40170 SHAH LAH,",
+  "TEL: 012 - SS5178S FAN: 03 - 33gds608",
+  "BST NG: OOsRSZa7E3",
+  "SAPLIPIED TA THNDUEE",
+  "ASH ee e",
+  "ECEIPY #: COPOGOROGS TIE: 2a/ag/ealy",
+  "PLESPERSON > AHOO2 TINEr {5:10:00",
+  "TEM Cy Uh BROW",
+  "fRN) {RY",
+  "879567600004 as 14,00 14 ues",
+  "77HL WE SG ANTI-RUST. LUBRICANT :",
+  "TAL QUANTITY ‘ ee",
+  "SUE-TOTAL-(GST) 14.00",
+  "Sec On",
+  "nee ROUNDING 8.0",
+  "TOTAL 14.06",
+  "CASH 1a GG",
+  "CHANGE alo5",
+  "MOST @ 6% INCLUDED Iu TOTAL z",
+  "See GST SUMMARY :",
+  "ee ee",
+  "CODE. «7 AMOUNT TAR /ANT",
+  "Pe he BPI Hy",
+  "es THANE YOU FOR CHOOSING UB: 7 2",
+  "PES PROVIDE ORIGINED BITE ROR GODS",
+  "GOODS MUST BESIN ORTGINAL STATE TOBE :",
+  "BNGITLED POR BECHENGE | 6"
+ ],
+ "tokens": [
+  {
+   "text": "|",
+   "conf": 0.65
+  },
+  {
+   "text": "ALK",
+   "conf": 0.44
+  },
+  {
+   "text": "HUAT",
+   "conf": 0.89
+  },
+  {
+   "text": "HARDUARE",
+   "conf": 0.32
+  },
+  {
+   "text": "ENTERPRISE",
+   "conf": 0.73
+  },
+  {
+   "text": "(SETITA",
+   "conf": 0.26
+  },
+  {
+   "text": "ALAM)",
+   "conf": 0.65
+  },
+  {
+   "text": "Son",
+   "conf": 0.14
+  },
+  {
+   "text": "BHO.",
+   "conf": 0.54
+  },
+  {
+   "text": "|",
+   "conf": 0.49
+  },
+  {
+   "text": "Le",
+   "conf": 0.26
+  },
+  {
+   "text": "SDORTEX",
+   "conf": 0.0
+  },
+  {
+   "text": "a",
+   "conf": 0.31
+  },
+  {
+   "text": "NO.",
+   "conf": 0.81
+  },
+  {
+   "text": "17-0)",
+   "conf": 0.5
+  },
+  {
+   "text": "ALAN",
+   "conf": 0.56
+  },
+  {
+   "text": "BETIA",
+   "conf": 0.29
+  },
+  {
+   "text": "INDAH",
+   "conf": 0.33
+  },
+  {
+   "text": "(1)",
+   "conf": 0.61
+  },
+  {
+   "text": "WIS,",
+   "conf": 0.46
+  },
+  {
+   "text": "SETA",
+   "conf": 0.0
+  },
+  {
+   "text": "BL,",
+   "conf": 0.4
+  },
+  {
+   "text": "SEKSYEN",
+   "conf": 0.24
+  },
+  {
+   "text": "U1,",
+   "conf": 0.0
+  },
+  {
+   "text": "40170",
+   "conf": 0.65
+  },
+  {
+   "text": "SHAH",
+   "conf": 0.7
+  },
+  {
+   "text": "LAH,",
+   "conf": 0.41
+  },
+  {
+   "text": "TEL:",
+   "conf": 0.5
+  },
+  {
+   "text": "012",
+   "conf": 0.77
+  },
+  {
+   "text": "-",
+   "conf": 0.5
+  },
+  {
+   "text": "SS5178S",
+   "conf": 0.0
+  },
+  {
+   "text": "FAN:",
+   "conf": 0.62
+  },
+  {
+   "text": "03",
+   "conf": 0.53
+  },
+  {
+   "text": "-",
+   "conf": 0.83
+  },
+  {
+   "text": "33gds608",
+   "conf": 0.0
+  },
+  {
+   "text": "BST",
+   "conf": 0.9
+  },
+  {
+   "text": "NG:",
+   "conf": 0.73
+  },
+  {
+   "text": "OOsRSZa7E3",
+   "conf": 0.0
+  },
+  {
+   "text": "SAPLIPIED",
+   "conf": 0.02
+  },
+  {
+   "text": "TA",
+   "conf": 0.57
+  },
+  {
+   "text": "THNDUEE",
+   "conf": 0.0
+  },
+  {
+   "text": "ASH",
+   "conf": 0.57
+  },
+  {
+   "text": "ee",
+   "conf": 0.07
+  },
+  {
+   "text": "e",
+   "conf": 0.0
+  },
+  {
+   "text": "ECEIPY",
+   "conf": 0.68
+  },
+  {
+   "text": "#:",
+   "conf": 0.54
+  },
+  {
+   "text": "COPOGOROGS",
+   "conf": 0.11
+  },
+  {
+   "text": "TIE:",
+   "conf": 0.25
+  },
+  {
+   "text": "2a/ag/ealy",
+   "conf": 0.0
+  },
+  {
+   "text": "PLESPERSON",
+   "conf": 0.19
+  },
+  {
+   "text": ">",
+   "conf": 0.5
+  },
+  {
+   "text": "AHOO2",
+   "conf": 0.23
+  },
+  {
+   "text": "TINEr",
+   "conf": 0.28
+  },
+  {
+   "text": "{5:10:00",
+   "conf": 0.36
+  },
+  {
+   "text": "TEM",
+   "conf": 0.43
+  },
+  {
+   "text": "Cy",
+   "conf": 0.49
+  },
+  {
+   "text": "Uh",
+   "conf": 0.32
+  },
+  {
+   "text": "BROW",
+   "conf": 0.21
+  },
+  {
+   "text": "fRN)",
+   "conf": 0.0
+  },
+  {
+   "text": "{RY",
+   "conf": 0.3
+  },
+  {
+   "text": "879567600004",
+   "conf": 0.5
+  },
+  {
+   "text": "as",
+   "conf": 0.41
+  },
+  {
+   "text": "14,00",
+   "conf": 0.75
+  },
+  {
+   "text": "14",
+   "conf": 0.0
+  },
+  {
+   "text": "ues",
+   "conf": 0.0
+  },
+  {
+   "text": "77HL",
+   "conf": 0.23
+  },
+  {
+   "text": "WE",
+   "conf": 0.55
+  },
+  {
+   "text": "SG",
+   "conf": 0.55
+  },
+  {
+   "text": "ANTI-RUST.",
+   "conf": 0.08
+  },
+  {
+   "text": "LUBRICANT",
+   "conf": 0.96
+  },
+  {
+   "text": ":",
+   "conf": 0.76
+  },
+  {
+   "text": "TAL",
+   "conf": 0.09
+  },
+  {
+   "text": "QUANTITY",
+   "conf": 0.71
+  },
+  {
+   "text": "‘",
+   "conf": 0.32
+  },
+  {
+   "text": "ee",
+   "conf": 0.09
+  },
+  {
+   "text": "SUE-TOTAL-(GST)",
+   "conf": 0.1
+  },
+  {
+   "text": "14.00",
+   "conf": 0.44
+  },
+  {
+   "text": "Sec",
+   "conf": 0.0
+  },
+  {
+   "text": "On",
+   "conf": 0.32
+  },
+  {
+   "text": "nee",
+   "conf": 0.16
+  },
+  {
+   "text": "ROUNDING",
+   "conf": 0.85
+  },
+  {
+   "text": "8.0",
+   "conf": 0.33
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.94
+  },
+  {
+   "text": "14.06",
+   "conf": 0.77
+  },
+  {
+   "text": "CASH",
+   "conf": 0.95
+  },
+  {
+   "text": "1a",
+   "conf": 0.4
+  },
+  {
+   "text": "GG",
+   "conf": 0.15
+  },
+  {
+   "text": "CHANGE",
+   "conf": 0.0
+  },
+  {
+   "text": "alo5",
+   "conf": 0.04
+  },
+  {
+   "text": "MOST",
+   "conf": 0.27
+  },
+  {
+   "text": "@",
+   "conf": 0.77
+  },
+  {
+   "text": "6%",
+   "conf": 0.77
+  },
+  {
+   "text": "INCLUDED",
+   "conf": 0.91
+  },
+  {
+   "text": "Iu",
+   "conf": 0.22
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.9
+  },
+  {
+   "text": "z",
+   "conf": 0.0
+  },
+  {
+   "text": "See",
+   "conf": 0.28
+  },
+  {
+   "text": "GST",
+   "conf": 0.43
+  },
+  {
+   "text": "SUMMARY",
+   "conf": 0.35
+  },
+  {
+   "text": ":",
+   "conf": 0.1
+  },
+  {
+   "text": "ee",
+   "conf": 0.37
+  },
+  {
+   "text": "ee",
+   "conf": 0.31
+  },
+  {
+   "text": "CODE.",
+   "conf": 0.39
+  },
+  {
+   "text": "«7",
+   "conf": 0.3
+  },
+  {
+   "text": "AMOUNT",
+   "conf": 0.0
+  },
+  {
+   "text": "TAR",
+   "conf": 0.16
+  },
+  {
+   "text": "/ANT",
+   "conf": 0.0
+  },
+  {
+   "text": "Pe",
+   "conf": 0.37
+  },
+  {
+   "text": "he",
+   "conf": 0.12
+  },
+  {
+   "text": "BPI",
+   "conf": 0.32
+  },
+  {
+   "text": "Hy",
+   "conf": 0.25
+  },
+  {
+   "text": "es",
+   "conf": 0.19
+  },
+  {
+   "text": "THANE",
+   "conf": 0.9
+  },
+  {
+   "text": "YOU",
+   "conf": 0.71
+  },
+  {
+   "text": "FOR",
+   "conf": 0.79
+  },
+  {
+   "text": "CHOOSING",
+   "conf": 0.73
+  },
+  {
+   "text": "UB:",
+   "conf": 0.18
+  },
+  {
+   "text": "7",
+   "conf": 0.28
+  },
+  {
+   "text": "2",
+   "conf": 0.08
+  },
+  {
+   "text": "PES",
+   "conf": 0.78
+  },
+  {
+   "text": "PROVIDE",
+   "conf": 0.62
+  },
+  {
+   "text": "ORIGINED",
+   "conf": 0.29
+  },
+  {
+   "text": "BITE",
+   "conf": 0.65
+  },
+  {
+   "text": "ROR",
+   "conf": 0.77
+  },
+  {
+   "text": "GODS",
+   "conf": 0.0
+  },
+  {
+   "text": "GOODS",
+   "conf": 0.67
+  },
+  {
+   "text": "MUST",
+   "conf": 0.62
+  },
+  {
+   "text": "BESIN",
+   "conf": 0.18
+  },
+  {
+   "text": "ORTGINAL",
+   "conf": 0.84
+  },
+  {
+   "text": "STATE",
+   "conf": 0.91
+  },
+  {
+   "text": "TOBE",
+   "conf": 0.76
+  },
+  {
+   "text": ":",
+   "conf": 0.0
+  },
+  {
+   "text": "BNGITLED",
+   "conf": 0.0
+  },
+  {
+   "text": "POR",
+   "conf": 0.84
+  },
+  {
+   "text": "BECHENGE",
+   "conf": 0.0
+  },
+  {
+   "text": "|",
+   "conf": 0.0
+  },
+  {
+   "text": "6",
+   "conf": 0.01
+  }
+ ],
+ "mean_conf": 0.394,
+ "low_conf_share": 0.6131,
+ "latency_ms": 2803,
+ "fields": {
+  "company": "ALK HUAT HARDUARE ENTERPRISE SETITA",
+  "date": null,
+  "total": 14.06
+ },
+ "rule_reasons": [
+  "date_not_found",
+  "total_multiple_keyword_amounts"
+ ],
+ "total_candidates": [
+  14.0,
+  14.06
+ ],
+ "key": "X51007339642"
+}

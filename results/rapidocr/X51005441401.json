@@ -1,0 +1,202 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "HREESTOOGES",
+  "BISTRO&CAFE",
+  "109,SS21/1A,",
+  "DAMANSARAUTAMA",
+  "GSTID:001661886464",
+  "TABLE:BAR7",
+  "ORDER:00012916",
+  "BIZDATE:12/03/2018",
+  "CASHIER:CASHIER",
+  "BTLLDT:12/03/2018 10:25:49PM RM",
+  "QTYITEM AMOUNT",
+  "1 HH GUINESS 12GLASSES 150.00",
+  "1 HH TIGER 12 GLASSES 145.00",
+  "2 SUB TOTAL 295.00",
+  "SERVICECHARGE10% 29.50",
+  "%91S5 19.47",
+  "ROUNDING ADJ -0.02",
+  "NET TOTAL 343.95",
+  "mmar Amount Tax",
+  "SVCERVICL CHARGE1O 295.00 0",
+  "SRGS6% 324.50",
+  "Thank meAgal"
+ ],
+ "tokens": [
+  {
+   "text": "HREESTOOGES",
+   "conf": 0.9905770746144381
+  },
+  {
+   "text": "BISTRO&CAFE",
+   "conf": 0.9845341173085299
+  },
+  {
+   "text": "109,SS21/1A,",
+   "conf": 0.9386504342158636
+  },
+  {
+   "text": "DAMANSARAUTAMA",
+   "conf": 0.9876517738614764
+  },
+  {
+   "text": "GSTID:001661886464",
+   "conf": 0.9847948385609521
+  },
+  {
+   "text": "TABLE:BAR7",
+   "conf": 0.9356687843799592
+  },
+  {
+   "text": "ORDER:00012916",
+   "conf": 0.9521743272032056
+  },
+  {
+   "text": "BIZDATE:12/03/2018",
+   "conf": 0.9877648949623108
+  },
+  {
+   "text": "CASHIER:CASHIER",
+   "conf": 0.9910098989804585
+  },
+  {
+   "text": "BTLLDT:12/03/2018 10:25:49PM",
+   "conf": 0.9482927364962441
+  },
+  {
+   "text": "RM",
+   "conf": 0.9919069111347198
+  },
+  {
+   "text": "QTYITEM",
+   "conf": 0.9927865181650434
+  },
+  {
+   "text": "AMOUNT",
+   "conf": 0.9894140164057413
+  },
+  {
+   "text": "1",
+   "conf": 0.9940424561500549
+  },
+  {
+   "text": "HH GUINESS 12GLASSES",
+   "conf": 0.9598733961582184
+  },
+  {
+   "text": "150.00",
+   "conf": 0.9982347587744395
+  },
+  {
+   "text": "1",
+   "conf": 0.9102941155433655
+  },
+  {
+   "text": "HH TIGER 12 GLASSES",
+   "conf": 0.9386893102997228
+  },
+  {
+   "text": "145.00",
+   "conf": 0.9991275469462076
+  },
+  {
+   "text": "2",
+   "conf": 0.9993343949317932
+  },
+  {
+   "text": "SUB TOTAL",
+   "conf": 0.9473319782151116
+  },
+  {
+   "text": "295.00",
+   "conf": 0.9992825190226237
+  },
+  {
+   "text": "SERVICECHARGE10%",
+   "conf": 0.9954989179968834
+  },
+  {
+   "text": "29.50",
+   "conf": 0.9990268349647522
+  },
+  {
+   "text": "%91S5",
+   "conf": 0.6262405693531037
+  },
+  {
+   "text": "19.47",
+   "conf": 0.9981086492538452
+  },
+  {
+   "text": "ROUNDING ADJ",
+   "conf": 0.9596527914206187
+  },
+  {
+   "text": "-0.02",
+   "conf": 0.9954004883766174
+  },
+  {
+   "text": "343.95",
+   "conf": 0.9980103969573975
+  },
+  {
+   "text": "NET TOTAL",
+   "conf": 0.9127819140752157
+  },
+  {
+   "text": "mmar",
+   "conf": 0.7907290533185005
+  },
+  {
+   "text": "Amount",
+   "conf": 0.9944431285063425
+  },
+  {
+   "text": "Tax",
+   "conf": 0.9732406536738077
+  },
+  {
+   "text": "SVCERVICL CHARGE1O",
+   "conf": 0.878682608405749
+  },
+  {
+   "text": "295.00",
+   "conf": 0.9992468953132629
+  },
+  {
+   "text": "0",
+   "conf": 0.9552668333053589
+  },
+  {
+   "text": "SRGS6%",
+   "conf": 0.9966990451018015
+  },
+  {
+   "text": "324.50",
+   "conf": 0.998019794623057
+  },
+  {
+   "text": "Thank",
+   "conf": 0.9932149887084961
+  },
+  {
+   "text": "meAgal",
+   "conf": 0.9233360389868418
+  }
+ ],
+ "mean_conf": 0.9602,
+ "low_conf_share": 0.0,
+ "latency_ms": 2669,
+ "fields": {
+  "company": "HREESTOOGES BISTRO CAFE",
+  "date": "2018-03-12",
+  "total": 343.95
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  343.95
+ ],
+ "key": "X51005441401"
+}

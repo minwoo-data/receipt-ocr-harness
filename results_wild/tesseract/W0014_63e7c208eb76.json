@@ -1,0 +1,325 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "iddin11s3 dd-3ed",
+  "ON’ Sd30u0 ASNOH",
+  "#3330 HON 3h",
+  "ix¥l+ 66°$ ATNO",
+  "$313 080d Tah i MOM",
+  "NB OIL CO INC #1",
+  "17966 BROOKHURST",
+  "FOUNTAIN VALLEY",
+  "SHELL",
+  "17966 BROOKHURST",
+  "FOUNTAIN VALL CA",
+  "RT# 93002654548",
+  "02/18/07 oe",
+  "Debit Acct#",
+  "XXXXXXXXKKX XR",
+  "RCPT# 24-0059",
+  "Inv# 480756",
+  "Auth? Si",
+  "PIN USED",
+  "PUMPH 22",
+  "regular 8.3526",
+  "SELF",
+  "PRICE/GAL $2. 499",
+  "FUEL TOTAL $20.87",
+  "TOTAL $20.87",
+  "THANK YOU FOR",
+  "SHOPPING WITH US",
+  "PLEASE COME AGAIN!"
+ ],
+ "tokens": [
+  {
+   "text": "iddin11s3",
+   "conf": 0.0
+  },
+  {
+   "text": "dd-3ed",
+   "conf": 0.05
+  },
+  {
+   "text": "ON’",
+   "conf": 0.35
+  },
+  {
+   "text": "Sd30u0",
+   "conf": 0.0
+  },
+  {
+   "text": "ASNOH",
+   "conf": 0.75
+  },
+  {
+   "text": "#3330",
+   "conf": 0.0
+  },
+  {
+   "text": "HON",
+   "conf": 0.92
+  },
+  {
+   "text": "3h",
+   "conf": 0.4
+  },
+  {
+   "text": "ix¥l+",
+   "conf": 0.32
+  },
+  {
+   "text": "66°$",
+   "conf": 0.07
+  },
+  {
+   "text": "ATNO",
+   "conf": 0.33
+  },
+  {
+   "text": "$313",
+   "conf": 0.5
+  },
+  {
+   "text": "080d",
+   "conf": 0.01
+  },
+  {
+   "text": "Tah",
+   "conf": 0.0
+  },
+  {
+   "text": "i",
+   "conf": 0.42
+  },
+  {
+   "text": "MOM",
+   "conf": 0.42
+  },
+  {
+   "text": "NB",
+   "conf": 0.95
+  },
+  {
+   "text": "OIL",
+   "conf": 0.93
+  },
+  {
+   "text": "CO",
+   "conf": 0.93
+  },
+  {
+   "text": "INC",
+   "conf": 0.94
+  },
+  {
+   "text": "#1",
+   "conf": 0.94
+  },
+  {
+   "text": "17966",
+   "conf": 0.93
+  },
+  {
+   "text": "BROOKHURST",
+   "conf": 0.91
+  },
+  {
+   "text": "FOUNTAIN",
+   "conf": 0.96
+  },
+  {
+   "text": "VALLEY",
+   "conf": 0.96
+  },
+  {
+   "text": "SHELL",
+   "conf": 0.96
+  },
+  {
+   "text": "17966",
+   "conf": 0.91
+  },
+  {
+   "text": "BROOKHURST",
+   "conf": 0.91
+  },
+  {
+   "text": "FOUNTAIN",
+   "conf": 0.93
+  },
+  {
+   "text": "VALL",
+   "conf": 0.92
+  },
+  {
+   "text": "CA",
+   "conf": 0.94
+  },
+  {
+   "text": "RT#",
+   "conf": 0.89
+  },
+  {
+   "text": "93002654548",
+   "conf": 0.95
+  },
+  {
+   "text": "02/18/07",
+   "conf": 0.02
+  },
+  {
+   "text": "oe",
+   "conf": 0.35
+  },
+  {
+   "text": "Debit",
+   "conf": 0.95
+  },
+  {
+   "text": "Acct#",
+   "conf": 0.84
+  },
+  {
+   "text": "XXXXXXXXKKX",
+   "conf": 0.39
+  },
+  {
+   "text": "XR",
+   "conf": 0.23
+  },
+  {
+   "text": "RCPT#",
+   "conf": 0.73
+  },
+  {
+   "text": "24-0059",
+   "conf": 0.95
+  },
+  {
+   "text": "Inv#",
+   "conf": 0.87
+  },
+  {
+   "text": "480756",
+   "conf": 0.96
+  },
+  {
+   "text": "Auth?",
+   "conf": 0.32
+  },
+  {
+   "text": "Si",
+   "conf": 0.37
+  },
+  {
+   "text": "PIN",
+   "conf": 0.96
+  },
+  {
+   "text": "USED",
+   "conf": 0.96
+  },
+  {
+   "text": "PUMPH",
+   "conf": 0.7
+  },
+  {
+   "text": "22",
+   "conf": 0.96
+  },
+  {
+   "text": "regular",
+   "conf": 0.95
+  },
+  {
+   "text": "8.3526",
+   "conf": 0.88
+  },
+  {
+   "text": "SELF",
+   "conf": 0.96
+  },
+  {
+   "text": "PRICE/GAL",
+   "conf": 0.89
+  },
+  {
+   "text": "$2.",
+   "conf": 0.31
+  },
+  {
+   "text": "499",
+   "conf": 0.31
+  },
+  {
+   "text": "FUEL",
+   "conf": 0.93
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.93
+  },
+  {
+   "text": "$20.87",
+   "conf": 0.92
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.96
+  },
+  {
+   "text": "$20.87",
+   "conf": 0.94
+  },
+  {
+   "text": "THANK",
+   "conf": 0.96
+  },
+  {
+   "text": "YOU",
+   "conf": 0.95
+  },
+  {
+   "text": "FOR",
+   "conf": 0.95
+  },
+  {
+   "text": "SHOPPING",
+   "conf": 0.95
+  },
+  {
+   "text": "WITH",
+   "conf": 0.96
+  },
+  {
+   "text": "US",
+   "conf": 0.96
+  },
+  {
+   "text": "PLEASE",
+   "conf": 0.96
+  },
+  {
+   "text": "COME",
+   "conf": 0.93
+  },
+  {
+   "text": "AGAIN!",
+   "conf": 0.95
+  }
+ ],
+ "mean_conf": 0.703,
+ "low_conf_share": 0.3043,
+ "latency_ms": 1423,
+ "fields": {
+  "company": "NB OIL CO INC 1",
+  "date": "2007-02-18",
+  "total": 20.87
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  20.87,
+  20.87
+ ],
+ "key": "W0014_63e7c208eb76"
+}

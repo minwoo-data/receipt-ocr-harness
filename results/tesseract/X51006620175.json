@@ -1,0 +1,514 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "MR. D.0.¥. (4) SUN BHD",
+  "Co-REG:860671-1",
+  "LOT 1851-8 & 1831-8, JALAN KPB 4,",
+  "KAUASAN PERINDUSTRIAN BALAKONG,",
+  "45300 SERT KEMBANGAN, SELANGOR",
+  "{GST Th No sQO0306020352 )",
+  "(SELAYANG MALI}",
+  "-TAX TRVOICE-",
+  "WASH MITT 402 *§",
+  "3062/35 - 6/240",
+  "90464038 1X 4.30 4,30",
+  "STICKER WS-SB a5",
+  "PR21 - 20/800",
+  "9013039 1 x S.3ee Giae",
+  "EMERGENCY LIGHT LENTI6 x5",
+  "NES1/2/3 - 60",
+  "SF 390204401 64 1X 16.90 16.96",
+  "| Ttemfs} : 3 Qty({s) : 3",
+  "TOFAL INCL. GST@4Z RM 26.70",
+  "CASH RM 50.00",
+  "CHANGE RM 23.30",
+  "GS} @4% included in tutal RM 1.51",
+  "| 06-05-16 17:11 SHOY ZIO8 TT? ROO0602051",
+  "OPERATOR SLC - EALIL ARAST",
+  "| EXCHANGE ARE ALLOUEL WITHIN",
+  "3 GAY WITH RECEIPT.",
+  "; STRICTLY NO CASH REFUNID,"
+ ],
+ "tokens": [
+  {
+   "text": "MR.",
+   "conf": 0.69
+  },
+  {
+   "text": "D.0.¥.",
+   "conf": 0.0
+  },
+  {
+   "text": "(4)",
+   "conf": 0.26
+  },
+  {
+   "text": "SUN",
+   "conf": 0.64
+  },
+  {
+   "text": "BHD",
+   "conf": 0.64
+  },
+  {
+   "text": "Co-REG:860671-1",
+   "conf": 0.12
+  },
+  {
+   "text": "LOT",
+   "conf": 0.95
+  },
+  {
+   "text": "1851-8",
+   "conf": 0.66
+  },
+  {
+   "text": "&",
+   "conf": 0.91
+  },
+  {
+   "text": "1831-8,",
+   "conf": 0.01
+  },
+  {
+   "text": "JALAN",
+   "conf": 0.93
+  },
+  {
+   "text": "KPB",
+   "conf": 0.85
+  },
+  {
+   "text": "4,",
+   "conf": 0.61
+  },
+  {
+   "text": "KAUASAN",
+   "conf": 0.85
+  },
+  {
+   "text": "PERINDUSTRIAN",
+   "conf": 0.8
+  },
+  {
+   "text": "BALAKONG,",
+   "conf": 0.86
+  },
+  {
+   "text": "45300",
+   "conf": 0.69
+  },
+  {
+   "text": "SERT",
+   "conf": 0.78
+  },
+  {
+   "text": "KEMBANGAN,",
+   "conf": 0.71
+  },
+  {
+   "text": "SELANGOR",
+   "conf": 0.95
+  },
+  {
+   "text": "{GST",
+   "conf": 0.66
+  },
+  {
+   "text": "Th",
+   "conf": 0.61
+  },
+  {
+   "text": "No",
+   "conf": 0.84
+  },
+  {
+   "text": "sQO0306020352",
+   "conf": 0.18
+  },
+  {
+   "text": ")",
+   "conf": 0.62
+  },
+  {
+   "text": "(SELAYANG",
+   "conf": 0.3
+  },
+  {
+   "text": "MALI}",
+   "conf": 0.71
+  },
+  {
+   "text": "-TAX",
+   "conf": 0.41
+  },
+  {
+   "text": "TRVOICE-",
+   "conf": 0.55
+  },
+  {
+   "text": "WASH",
+   "conf": 0.94
+  },
+  {
+   "text": "MITT",
+   "conf": 0.73
+  },
+  {
+   "text": "402",
+   "conf": 0.93
+  },
+  {
+   "text": "*§",
+   "conf": 0.27
+  },
+  {
+   "text": "3062/35",
+   "conf": 0.37
+  },
+  {
+   "text": "-",
+   "conf": 0.91
+  },
+  {
+   "text": "6/240",
+   "conf": 0.96
+  },
+  {
+   "text": "90464038",
+   "conf": 0.8
+  },
+  {
+   "text": "1X",
+   "conf": 0.93
+  },
+  {
+   "text": "4.30",
+   "conf": 0.68
+  },
+  {
+   "text": "4,30",
+   "conf": 0.89
+  },
+  {
+   "text": "STICKER",
+   "conf": 0.93
+  },
+  {
+   "text": "WS-SB",
+   "conf": 0.77
+  },
+  {
+   "text": "a5",
+   "conf": 0.51
+  },
+  {
+   "text": "PR21",
+   "conf": 0.77
+  },
+  {
+   "text": "-",
+   "conf": 0.8
+  },
+  {
+   "text": "20/800",
+   "conf": 0.95
+  },
+  {
+   "text": "9013039",
+   "conf": 0.73
+  },
+  {
+   "text": "1",
+   "conf": 0.8
+  },
+  {
+   "text": "x",
+   "conf": 0.4
+  },
+  {
+   "text": "S.3ee",
+   "conf": 0.0
+  },
+  {
+   "text": "Giae",
+   "conf": 0.0
+  },
+  {
+   "text": "EMERGENCY",
+   "conf": 0.94
+  },
+  {
+   "text": "LIGHT",
+   "conf": 0.92
+  },
+  {
+   "text": "LENTI6",
+   "conf": 0.45
+  },
+  {
+   "text": "x5",
+   "conf": 0.72
+  },
+  {
+   "text": "NES1/2/3",
+   "conf": 0.87
+  },
+  {
+   "text": "-",
+   "conf": 0.92
+  },
+  {
+   "text": "60",
+   "conf": 0.93
+  },
+  {
+   "text": "SF",
+   "conf": 0.35
+  },
+  {
+   "text": "390204401",
+   "conf": 0.43
+  },
+  {
+   "text": "64",
+   "conf": 0.45
+  },
+  {
+   "text": "1X",
+   "conf": 0.87
+  },
+  {
+   "text": "16.90",
+   "conf": 0.87
+  },
+  {
+   "text": "16.96",
+   "conf": 0.92
+  },
+  {
+   "text": "|",
+   "conf": 0.67
+  },
+  {
+   "text": "Ttemfs}",
+   "conf": 0.37
+  },
+  {
+   "text": ":",
+   "conf": 0.55
+  },
+  {
+   "text": "3",
+   "conf": 0.84
+  },
+  {
+   "text": "Qty({s)",
+   "conf": 0.3
+  },
+  {
+   "text": ":",
+   "conf": 0.83
+  },
+  {
+   "text": "3",
+   "conf": 0.96
+  },
+  {
+   "text": "TOFAL",
+   "conf": 0.28
+  },
+  {
+   "text": "INCL.",
+   "conf": 0.93
+  },
+  {
+   "text": "GST@4Z",
+   "conf": 0.58
+  },
+  {
+   "text": "RM",
+   "conf": 0.92
+  },
+  {
+   "text": "26.70",
+   "conf": 0.89
+  },
+  {
+   "text": "CASH",
+   "conf": 0.96
+  },
+  {
+   "text": "RM",
+   "conf": 0.48
+  },
+  {
+   "text": "50.00",
+   "conf": 0.91
+  },
+  {
+   "text": "CHANGE",
+   "conf": 0.96
+  },
+  {
+   "text": "RM",
+   "conf": 0.92
+  },
+  {
+   "text": "23.30",
+   "conf": 0.93
+  },
+  {
+   "text": "GS}",
+   "conf": 0.76
+  },
+  {
+   "text": "@4%",
+   "conf": 0.18
+  },
+  {
+   "text": "included",
+   "conf": 0.95
+  },
+  {
+   "text": "in",
+   "conf": 0.93
+  },
+  {
+   "text": "tutal",
+   "conf": 0.89
+  },
+  {
+   "text": "RM",
+   "conf": 0.77
+  },
+  {
+   "text": "1.51",
+   "conf": 0.77
+  },
+  {
+   "text": "|",
+   "conf": 0.61
+  },
+  {
+   "text": "06-05-16",
+   "conf": 0.61
+  },
+  {
+   "text": "17:11",
+   "conf": 0.73
+  },
+  {
+   "text": "SHOY",
+   "conf": 0.46
+  },
+  {
+   "text": "ZIO8",
+   "conf": 0.38
+  },
+  {
+   "text": "TT?",
+   "conf": 0.24
+  },
+  {
+   "text": "ROO0602051",
+   "conf": 0.0
+  },
+  {
+   "text": "OPERATOR",
+   "conf": 0.53
+  },
+  {
+   "text": "SLC",
+   "conf": 0.88
+  },
+  {
+   "text": "-",
+   "conf": 0.88
+  },
+  {
+   "text": "EALIL",
+   "conf": 0.79
+  },
+  {
+   "text": "ARAST",
+   "conf": 0.52
+  },
+  {
+   "text": "|",
+   "conf": 0.66
+  },
+  {
+   "text": "EXCHANGE",
+   "conf": 0.95
+  },
+  {
+   "text": "ARE",
+   "conf": 0.93
+  },
+  {
+   "text": "ALLOUEL",
+   "conf": 0.15
+  },
+  {
+   "text": "WITHIN",
+   "conf": 0.96
+  },
+  {
+   "text": "3",
+   "conf": 0.78
+  },
+  {
+   "text": "GAY",
+   "conf": 0.78
+  },
+  {
+   "text": "WITH",
+   "conf": 0.82
+  },
+  {
+   "text": "RECEIPT.",
+   "conf": 0.91
+  },
+  {
+   "text": ";",
+   "conf": 0.16
+  },
+  {
+   "text": "STRICTLY",
+   "conf": 0.95
+  },
+  {
+   "text": "NO",
+   "conf": 0.73
+  },
+  {
+   "text": "CASH",
+   "conf": 0.93
+  },
+  {
+   "text": "REFUNID,",
+   "conf": 0.0
+  }
+ ],
+ "mean_conf": 0.6728,
+ "low_conf_share": 0.2435,
+ "latency_ms": 2473,
+ "fields": {
+  "company": "MR D 0 SUN BHD",
+  "date": "2016-05-06",
+  "total": 50.0
+ },
+ "rule_reasons": [
+  "total_no_keyword_fallback_max"
+ ],
+ "total_candidates": [
+  16.9,
+  16.96,
+  26.7,
+  50.0,
+  23.3,
+  1.51
+ ],
+ "key": "X51006620175"
+}

@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.6-flash",
+ "provider": "gemini",
+ "raw_text": "{\"vendor\": \"YIN MA (M) SDN. BHD.\", \"date\": \"2016-06-03\", \"subtotal\": 30.84, \"tax\": 1.86, \"tip\": null, \"discount\": null, \"total\": 32.70, \"currency\": \"MYR\", \"confidence\": 0.95, \"notes\": null}",
+ "data": {
+  "vendor": "YIN MA (M) SDN. BHD.",
+  "date": "2016-06-03",
+  "subtotal": 30.84,
+  "tax": 1.86,
+  "tip": null,
+  "discount": null,
+  "total": 32.7,
+  "currency": "MYR",
+  "confidence": 0.95,
+  "notes": null
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1450,
+  "output_tokens": 91,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.001429,
+ "latency_ms": 2078,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.6-flash",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.6-flash"
+ ],
+ "key": "X51006619842"
+}

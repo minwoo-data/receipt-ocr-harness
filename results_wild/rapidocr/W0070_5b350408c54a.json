@@ -1,0 +1,128 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "Ramen Keisuke ToriKing",
+  "#03-15 100AM,100TraS St",
+  "singap0re 079027",
+  "Te1:+6566046861",
+  "R0C:200922210C",
+  "TABLE:34 DINE-IN",
+  "SERVER:Admin U 3 GUESTS",
+  "Ramen Soectal 15.90",
+  "Pamen /Eag 13.90",
+  "Ramen /Seaweed 12.90",
+  "SUBTOTAL 42.69",
+  "SC 4.27",
+  "GST 3.29",
+  "PAY THIS AMOUNT:$50.25",
+  "ORDERNUMBER IS:263G7",
+  "2013/05/21"
+ ],
+ "tokens": [
+  {
+   "text": "Ramen Keisuke ToriKing",
+   "conf": 0.948057009415193
+  },
+  {
+   "text": "#03-15 100AM,100TraS St",
+   "conf": 0.9146227940269138
+  },
+  {
+   "text": "singap0re 079027",
+   "conf": 0.916665468364954
+  },
+  {
+   "text": "Te1:+6566046861",
+   "conf": 0.9858205238978068
+  },
+  {
+   "text": "R0C:200922210C",
+   "conf": 0.9776640662125179
+  },
+  {
+   "text": "TABLE:34",
+   "conf": 0.9798638299107552
+  },
+  {
+   "text": "DINE-IN",
+   "conf": 0.9946549960545131
+  },
+  {
+   "text": "SERVER:Admin U 3 GUESTS",
+   "conf": 0.944836569869
+  },
+  {
+   "text": "Ramen Soectal",
+   "conf": 0.8991131599132831
+  },
+  {
+   "text": "15.90",
+   "conf": 0.9963382005691528
+  },
+  {
+   "text": "Pamen /Eag",
+   "conf": 0.8217964202165604
+  },
+  {
+   "text": "13.90",
+   "conf": 0.9899595737457275
+  },
+  {
+   "text": "Ramen /Seaweed",
+   "conf": 0.8671522289514542
+  },
+  {
+   "text": "12.90",
+   "conf": 0.9866068959236145
+  },
+  {
+   "text": "SUBTOTAL",
+   "conf": 0.9967693388462067
+  },
+  {
+   "text": "42.69",
+   "conf": 0.9968614935874939
+  },
+  {
+   "text": "SC",
+   "conf": 0.922113835811615
+  },
+  {
+   "text": "4.27",
+   "conf": 0.9818746894598007
+  },
+  {
+   "text": "GST",
+   "conf": 0.9969168702761332
+  },
+  {
+   "text": "3.29",
+   "conf": 0.9918978661298752
+  },
+  {
+   "text": "PAY THIS AMOUNT:$50.25",
+   "conf": 0.9161202745004133
+  },
+  {
+   "text": "ORDERNUMBER IS:263G7",
+   "conf": 0.8797495484352111
+  },
+  {
+   "text": "2013/05/21",
+   "conf": 0.9427182257175446
+  }
+ ],
+ "mean_conf": 0.9499,
+ "low_conf_share": 0.0,
+ "latency_ms": 3682,
+ "fields": {
+  "company": "RAMEN KEISUKE TORIKING",
+  "date": "2013-05-21",
+  "total": 50.25
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  50.25
+ ],
+ "key": "W0070_5b350408c54a"
+}

@@ -1,0 +1,250 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "HERO DISTRIBUTION SDN BHD",
+  "(Sutang lasa) 666770-0",
+  "GS1Reg:001627654144",
+  "4243,CompleksPerniagaanSr!Gaya,",
+  "JIn Tmn Subang Jasa 3, POSTED",
+  "40150Selangor",
+  "Tax1nolce:S1P03201705170016 17/05/17",
+  "Cashier:SITANI 08:48:09",
+  "CAPHAKMURMIYAKPACKETIKG",
+  "9555845400009 2.50'3 7.50Z",
+  "H/GRASSK/DELLYF/POWS'BERRY2SOG·1",
+  "9555124301089 .009 18.00S",
+  "SAGRAINYSIITH1O'S(PKT)",
+  "515474 7.992 15.98Z",
+  "Ibem3 TotalwithGST@6% 41.48",
+  "Qry Rounding 0.02",
+  "Total Saving 000 Total 4150",
+  "Tender",
+  "aster5148App:83650 41.50",
+  "Change 0.00",
+  "GSTAnalysis Goods TaxAmount",
+  "S=6/% 16.98 1.02",
+  "2=0% 23.48 0.00",
+  "emberNum:80148970",
+  "WONGTAI CHIN",
+  "Thank you for shopping with us.Please come again:"
+ ],
+ "tokens": [
+  {
+   "text": "HERO DISTRIBUTION SDN BHD",
+   "conf": 0.9307182955741883
+  },
+  {
+   "text": "(Sutang lasa)",
+   "conf": 0.9336276971376859
+  },
+  {
+   "text": "666770-0",
+   "conf": 0.9362674057483673
+  },
+  {
+   "text": "GS1Reg:001627654144",
+   "conf": 0.9326873076589484
+  },
+  {
+   "text": "4243,CompleksPerniagaanSr!Gaya,",
+   "conf": 0.9398353811233274
+  },
+  {
+   "text": "POSTED",
+   "conf": 0.9741582175095876
+  },
+  {
+   "text": "JIn Tmn Subang Jasa 3,",
+   "conf": 0.8802852251312949
+  },
+  {
+   "text": "40150Selangor",
+   "conf": 0.9643300313215989
+  },
+  {
+   "text": "Tax1nolce:S1P03201705170016",
+   "conf": 0.8583677333814127
+  },
+  {
+   "text": "17/05/17",
+   "conf": 0.9918438270688057
+  },
+  {
+   "text": "Cashier:SITANI",
+   "conf": 0.7866113292319434
+  },
+  {
+   "text": "08:48:09",
+   "conf": 0.9320447593927383
+  },
+  {
+   "text": "CAPHAKMURMIYAKPACKETIKG",
+   "conf": 0.9254862743875255
+  },
+  {
+   "text": "9555845400009",
+   "conf": 0.9943850315534152
+  },
+  {
+   "text": "2.50'3",
+   "conf": 0.9007049550612768
+  },
+  {
+   "text": "7.50Z",
+   "conf": 0.9247576594352722
+  },
+  {
+   "text": "H/GRASSK/DELLYF/POWS'BERRY2SOG·1",
+   "conf": 0.8690702673047781
+  },
+  {
+   "text": "9555124301089",
+   "conf": 0.9973074427017798
+  },
+  {
+   "text": ".009",
+   "conf": 0.9675824046134949
+  },
+  {
+   "text": "18.00S",
+   "conf": 0.9240763783454895
+  },
+  {
+   "text": "SAGRAINYSIITH1O'S(PKT)",
+   "conf": 0.8472359668124806
+  },
+  {
+   "text": "515474",
+   "conf": 0.9872263669967651
+  },
+  {
+   "text": "7.992",
+   "conf": 0.9277418255805969
+  },
+  {
+   "text": "15.98Z",
+   "conf": 0.9166834950447083
+  },
+  {
+   "text": "Ibem3",
+   "conf": 0.8957941412925721
+  },
+  {
+   "text": "TotalwithGST@6%",
+   "conf": 0.9121305306752523
+  },
+  {
+   "text": "41.48",
+   "conf": 0.9886501550674438
+  },
+  {
+   "text": "Qry",
+   "conf": 0.8754587372144064
+  },
+  {
+   "text": "Rounding",
+   "conf": 0.9909301847219467
+  },
+  {
+   "text": "0.02",
+   "conf": 0.9964235574007034
+  },
+  {
+   "text": "Total Saving",
+   "conf": 0.9503904283046722
+  },
+  {
+   "text": "000",
+   "conf": 0.9979466795921326
+  },
+  {
+   "text": "Total",
+   "conf": 0.9818671941757202
+  },
+  {
+   "text": "4150",
+   "conf": 0.989233523607254
+  },
+  {
+   "text": "Tender",
+   "conf": 0.9859923422336578
+  },
+  {
+   "text": "aster5148App:83650",
+   "conf": 0.9569979641172621
+  },
+  {
+   "text": "41.50",
+   "conf": 0.9899359345436096
+  },
+  {
+   "text": "Change",
+   "conf": 0.985294500986735
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9965535700321198
+  },
+  {
+   "text": "GSTAnalysis",
+   "conf": 0.9565687287937511
+  },
+  {
+   "text": "Goods",
+   "conf": 0.986147153377533
+  },
+  {
+   "text": "TaxAmount",
+   "conf": 0.9700117309888204
+  },
+  {
+   "text": "S=6/%",
+   "conf": 0.7476750075817108
+  },
+  {
+   "text": "16.98",
+   "conf": 0.99331613779068
+  },
+  {
+   "text": "1.02",
+   "conf": 0.994757279753685
+  },
+  {
+   "text": "2=0%",
+   "conf": 0.9101446121931076
+  },
+  {
+   "text": "23.48",
+   "conf": 0.9888617277145386
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9956001490354538
+  },
+  {
+   "text": "emberNum:80148970",
+   "conf": 0.9533934908754685
+  },
+  {
+   "text": "WONGTAI CHIN",
+   "conf": 0.949907918771108
+  },
+  {
+   "text": "Thank you for shopping with us.Please come again:",
+   "conf": 0.9204776536445228
+  }
+ ],
+ "mean_conf": 0.9432,
+ "low_conf_share": 0.0,
+ "latency_ms": 5527,
+ "fields": {
+  "company": "HERO DISTRIBUTION SDN BHD",
+  "date": "2017-05-17",
+  "total": 41.48
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  41.48
+ ],
+ "key": "X51006388066"
+}

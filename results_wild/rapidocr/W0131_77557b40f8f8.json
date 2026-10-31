@@ -1,0 +1,159 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "Bollyuood",
+  "Indian Restaurant",
+  "Lange Leidsedwarsstraat 10B",
+  "1017 NN AmSterdam",
+  "Tafel#14",
+  "1xLassi 3,50",
+  "1xGoaCT 1xJupiler Large 5.50 8,50",
+  "1xChicken Vindaloo 17,00",
+  "1xFish Madras 18,00",
+  "1xNaan 2,50",
+  "Totaal 55,00",
+  "Btw laag 2,32",
+  "Btw hoog 2,43",
+  "Contant 55,00",
+  "20:1322/03/171Bo11yw00d 5",
+  "assa1",
+  "Bedankt en tot ziens",
+  "U bent geholpen door Bollywood"
+ ],
+ "tokens": [
+  {
+   "text": "Bollyuood",
+   "conf": 0.9280998243225945
+  },
+  {
+   "text": "Indian Restaurant",
+   "conf": 0.9887750639634973
+  },
+  {
+   "text": "Lange Leidsedwarsstraat 10B",
+   "conf": 0.9139553540282779
+  },
+  {
+   "text": "1017 NN AmSterdam",
+   "conf": 0.9184927063829759
+  },
+  {
+   "text": "Tafel#14",
+   "conf": 0.9657939895987511
+  },
+  {
+   "text": "1xLassi",
+   "conf": 0.9279787540435791
+  },
+  {
+   "text": "1xJupiler Large",
+   "conf": 0.9310595830281575
+  },
+  {
+   "text": "3,50",
+   "conf": 0.9795396775007248
+  },
+  {
+   "text": "1xGoaCT",
+   "conf": 0.9238680941717965
+  },
+  {
+   "text": "5.50",
+   "conf": 0.9218149185180664
+  },
+  {
+   "text": "1xChicken Vindaloo",
+   "conf": 0.9299761586719089
+  },
+  {
+   "text": "8,50",
+   "conf": 0.9262649714946747
+  },
+  {
+   "text": "1xFish Madras",
+   "conf": 0.9553688260225149
+  },
+  {
+   "text": "17,00",
+   "conf": 0.9846179246902466
+  },
+  {
+   "text": "1xNaan",
+   "conf": 0.9522888859113058
+  },
+  {
+   "text": "18,00",
+   "conf": 0.9622081875801086
+  },
+  {
+   "text": "2,50",
+   "conf": 0.9755302518606186
+  },
+  {
+   "text": "Totaal",
+   "conf": 0.9916260242462158
+  },
+  {
+   "text": "55,00",
+   "conf": 0.9816184878349304
+  },
+  {
+   "text": "Btw laag",
+   "conf": 0.9384964108467102
+  },
+  {
+   "text": "2,32",
+   "conf": 0.963104635477066
+  },
+  {
+   "text": "Btw hoog",
+   "conf": 0.954429380595684
+  },
+  {
+   "text": "2,43",
+   "conf": 0.9762094616889954
+  },
+  {
+   "text": "Contant",
+   "conf": 0.9914039203098842
+  },
+  {
+   "text": "55,00",
+   "conf": 0.9691075086593628
+  },
+  {
+   "text": "20:1322/03/171Bo11yw00d",
+   "conf": 0.94960450866948
+  },
+  {
+   "text": "5",
+   "conf": 0.99722820520401
+  },
+  {
+   "text": "assa1",
+   "conf": 0.9877581119537353
+  },
+  {
+   "text": "Bedankt en tot ziens",
+   "conf": 0.928449809551239
+  },
+  {
+   "text": "U bent geholpen door Bollywood",
+   "conf": 0.9467317422231039
+  }
+ ],
+ "mean_conf": 0.9554,
+ "low_conf_share": 0.0,
+ "latency_ms": 2902,
+ "fields": {
+  "company": "BOLLYUOOD INDIAN RESTAURANT",
+  "date": null,
+  "total": null
+ },
+ "rule_reasons": [
+  "date_not_found",
+  "total_not_found"
+ ],
+ "total_candidates": [],
+ "key": "W0131_77557b40f8f8"
+}

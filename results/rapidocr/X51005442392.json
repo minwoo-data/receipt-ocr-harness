@@ -1,0 +1,172 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "UNIHAKKAINTERNATIONALSDNBHD",
+  "29Mar201818:19",
+  "(867388-U)",
+  "12.Jalan Tampoi 7/4,KawasanPerindustrian",
+  "Tampoi,81200JohorBahru,Johor",
+  "TAXINVOICE",
+  "Invoice#:OR18032902170347",
+  "tem Qty",
+  "SR I0010000035-1 Meat+3Vege",
+  "$7.10 1 $7.10",
+  "TotalAmount:$7.10",
+  "GST@6%:$0.40",
+  "Nett Totai:$7.10",
+  "Payment Mode",
+  "CASH $7.10",
+  "Change $0.00",
+  "GSTSummary Amouints)",
+  "3R=QST@% 6.70 0.40",
+  "GSTREG#000658195584",
+  "BARWANG RICE@PERMASJAYA",
+  "(Prica Inciusive Of GST)",
+  "ThankYou&ComeAgain!",
+  "Like andFollow UsonFacebook!",
+  "Facebook.com/BarWangRice"
+ ],
+ "tokens": [
+  {
+   "text": "UNIHAKKAINTERNATIONALSDNBHD",
+   "conf": 0.9925906967233729
+  },
+  {
+   "text": "29Mar201818:19",
+   "conf": 0.9761506021022797
+  },
+  {
+   "text": "(867388-U)",
+   "conf": 0.9304406344890594
+  },
+  {
+   "text": "12.Jalan Tampoi 7/4,KawasanPerindustrian",
+   "conf": 0.9332780584692955
+  },
+  {
+   "text": "Tampoi,81200JohorBahru,Johor",
+   "conf": 0.9248962295906884
+  },
+  {
+   "text": "TAXINVOICE",
+   "conf": 0.9917466461658477
+  },
+  {
+   "text": "Invoice#:OR18032902170347",
+   "conf": 0.9579057598114014
+  },
+  {
+   "text": "tem",
+   "conf": 0.8598971764246622
+  },
+  {
+   "text": "Qty",
+   "conf": 0.9812301993370056
+  },
+  {
+   "text": "SR I0010000035-1 Meat+3Vege",
+   "conf": 0.9233149643297549
+  },
+  {
+   "text": "$7.10",
+   "conf": 0.9945391178131103
+  },
+  {
+   "text": "1",
+   "conf": 0.9527232050895691
+  },
+  {
+   "text": "$7.10",
+   "conf": 0.9941829442977905
+  },
+  {
+   "text": "TotalAmount:$7.10",
+   "conf": 0.9801118759547963
+  },
+  {
+   "text": "GST@6%:$0.40",
+   "conf": 0.9196600119272867
+  },
+  {
+   "text": "Nett Totai:$7.10",
+   "conf": 0.9271923489868641
+  },
+  {
+   "text": "Payment Mode",
+   "conf": 0.9669332752625147
+  },
+  {
+   "text": "CASH",
+   "conf": 0.9897759854793549
+  },
+  {
+   "text": "$7.10",
+   "conf": 0.9958419799804688
+  },
+  {
+   "text": "Change",
+   "conf": 0.9945771793524424
+  },
+  {
+   "text": "$0.00",
+   "conf": 0.9929908394813538
+  },
+  {
+   "text": "GSTSummary",
+   "conf": 0.9877869367599488
+  },
+  {
+   "text": "Amouints)",
+   "conf": 0.8027126656638252
+  },
+  {
+   "text": "3R=QST@%",
+   "conf": 0.8258958905935287
+  },
+  {
+   "text": "6.70",
+   "conf": 0.9908962994813919
+  },
+  {
+   "text": "0.40",
+   "conf": 0.9933983832597733
+  },
+  {
+   "text": "GSTREG#000658195584",
+   "conf": 0.9722072356625607
+  },
+  {
+   "text": "BARWANG RICE@PERMASJAYA",
+   "conf": 0.9588864471601404
+  },
+  {
+   "text": "(Prica Inciusive Of GST)",
+   "conf": 0.9160718694329262
+  },
+  {
+   "text": "ThankYou&ComeAgain!",
+   "conf": 0.9797883002381576
+  },
+  {
+   "text": "Like andFollow UsonFacebook!",
+   "conf": 0.954705719436918
+  },
+  {
+   "text": "Facebook.com/BarWangRice",
+   "conf": 0.948770763973395
+  }
+ ],
+ "mean_conf": 0.9535,
+ "low_conf_share": 0.0,
+ "latency_ms": 4445,
+ "fields": {
+  "company": "UNIHAKKAINTERNATIONALSDNBHD",
+  "date": "2018-03-29",
+  "total": 7.1
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  7.1
+ ],
+ "key": "X51005442392"
+}

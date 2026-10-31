@@ -1,0 +1,451 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "Cash Sale a",
+  "KT WONG TRADING (001904043-H)",
+  "22, Jalan Perindustrian Hijau 5,",
+  "Taman Perindustrian Hijau,",
+  "Phone: +603-6093 9078",
+  "G57 Registration No.: 000613294080",
+  "Co. ument No. : «TWo31475. SS ta",
+  "Date : 09/06/2018 12:17:20 PM",
+  "DESC PRICE Disc AMOUNT TAX",
+  "QTY CODE",
+  "BERAS ASAS 10KG?** - i",
+  "15*\"BAG * 24.90% 373.50 SR",
+  "SUN SOS TIRAM 6KG",
+  ") 4BOTOL* 15.95 ¥ 63.80 SR",
+  "COKE 24 X 325ML",
+  "2PETI * 26.00 X 52.00 SR",
+  "| “Sub Total Inclusive GST : 489.30",
+  "Rounding Adj. : 0.00",
+  "Rounded Total (RM): 489.30",
+  ": ‘GST ‘Summary : Amount Tax",
+  "SR @ 0% 489.30 0.00",
+  "Peyment Detail",
+  "03/06/2018 Cash 489.30"
+ ],
+ "tokens": [
+  {
+   "text": "Cash",
+   "conf": 0.96
+  },
+  {
+   "text": "Sale",
+   "conf": 0.96
+  },
+  {
+   "text": "a",
+   "conf": 0.2
+  },
+  {
+   "text": "KT",
+   "conf": 0.96
+  },
+  {
+   "text": "WONG",
+   "conf": 0.96
+  },
+  {
+   "text": "TRADING",
+   "conf": 0.93
+  },
+  {
+   "text": "(001904043-H)",
+   "conf": 0.93
+  },
+  {
+   "text": "22,",
+   "conf": 0.96
+  },
+  {
+   "text": "Jalan",
+   "conf": 0.92
+  },
+  {
+   "text": "Perindustrian",
+   "conf": 0.92
+  },
+  {
+   "text": "Hijau",
+   "conf": 0.95
+  },
+  {
+   "text": "5,",
+   "conf": 0.96
+  },
+  {
+   "text": "Taman",
+   "conf": 0.91
+  },
+  {
+   "text": "Perindustrian",
+   "conf": 0.91
+  },
+  {
+   "text": "Hijau,",
+   "conf": 0.94
+  },
+  {
+   "text": "Phone:",
+   "conf": 0.9
+  },
+  {
+   "text": "+603-6093",
+   "conf": 0.92
+  },
+  {
+   "text": "9078",
+   "conf": 0.96
+  },
+  {
+   "text": "G57",
+   "conf": 0.53
+  },
+  {
+   "text": "Registration",
+   "conf": 0.92
+  },
+  {
+   "text": "No.:",
+   "conf": 0.72
+  },
+  {
+   "text": "000613294080",
+   "conf": 0.61
+  },
+  {
+   "text": "Co.",
+   "conf": 0.7
+  },
+  {
+   "text": "ument",
+   "conf": 0.52
+  },
+  {
+   "text": "No.",
+   "conf": 0.96
+  },
+  {
+   "text": ":",
+   "conf": 0.13
+  },
+  {
+   "text": "«TWo31475.",
+   "conf": 0.0
+  },
+  {
+   "text": "SS",
+   "conf": 0.48
+  },
+  {
+   "text": "ta",
+   "conf": 0.27
+  },
+  {
+   "text": "Date",
+   "conf": 0.84
+  },
+  {
+   "text": ":",
+   "conf": 0.84
+  },
+  {
+   "text": "09/06/2018",
+   "conf": 0.96
+  },
+  {
+   "text": "12:17:20",
+   "conf": 0.96
+  },
+  {
+   "text": "PM",
+   "conf": 0.95
+  },
+  {
+   "text": "DESC",
+   "conf": 0.96
+  },
+  {
+   "text": "PRICE",
+   "conf": 0.96
+  },
+  {
+   "text": "Disc",
+   "conf": 0.79
+  },
+  {
+   "text": "AMOUNT",
+   "conf": 0.75
+  },
+  {
+   "text": "TAX",
+   "conf": 0.75
+  },
+  {
+   "text": "QTY",
+   "conf": 0.94
+  },
+  {
+   "text": "CODE",
+   "conf": 0.95
+  },
+  {
+   "text": "BERAS",
+   "conf": 0.92
+  },
+  {
+   "text": "ASAS",
+   "conf": 0.88
+  },
+  {
+   "text": "10KG?**",
+   "conf": 0.14
+  },
+  {
+   "text": "-",
+   "conf": 0.0
+  },
+  {
+   "text": "i",
+   "conf": 0.0
+  },
+  {
+   "text": "15*\"BAG",
+   "conf": 0.42
+  },
+  {
+   "text": "*",
+   "conf": 0.9
+  },
+  {
+   "text": "24.90%",
+   "conf": 0.72
+  },
+  {
+   "text": "373.50",
+   "conf": 0.91
+  },
+  {
+   "text": "SR",
+   "conf": 0.95
+  },
+  {
+   "text": "SUN",
+   "conf": 0.96
+  },
+  {
+   "text": "SOS",
+   "conf": 0.93
+  },
+  {
+   "text": "TIRAM",
+   "conf": 0.9
+  },
+  {
+   "text": "6KG",
+   "conf": 0.92
+  },
+  {
+   "text": ")",
+   "conf": 0.0
+  },
+  {
+   "text": "4BOTOL*",
+   "conf": 0.53
+  },
+  {
+   "text": "15.95",
+   "conf": 0.92
+  },
+  {
+   "text": "¥",
+   "conf": 0.91
+  },
+  {
+   "text": "63.80",
+   "conf": 0.7
+  },
+  {
+   "text": "SR",
+   "conf": 0.95
+  },
+  {
+   "text": "COKE",
+   "conf": 0.96
+  },
+  {
+   "text": "24",
+   "conf": 0.9
+  },
+  {
+   "text": "X",
+   "conf": 0.89
+  },
+  {
+   "text": "325ML",
+   "conf": 0.89
+  },
+  {
+   "text": "2PETI",
+   "conf": 0.45
+  },
+  {
+   "text": "*",
+   "conf": 0.45
+  },
+  {
+   "text": "26.00",
+   "conf": 0.92
+  },
+  {
+   "text": "X",
+   "conf": 0.87
+  },
+  {
+   "text": "52.00",
+   "conf": 0.92
+  },
+  {
+   "text": "SR",
+   "conf": 0.92
+  },
+  {
+   "text": "|",
+   "conf": 0.58
+  },
+  {
+   "text": "“Sub",
+   "conf": 0.54
+  },
+  {
+   "text": "Total",
+   "conf": 0.92
+  },
+  {
+   "text": "Inclusive",
+   "conf": 0.95
+  },
+  {
+   "text": "GST",
+   "conf": 0.93
+  },
+  {
+   "text": ":",
+   "conf": 0.9
+  },
+  {
+   "text": "489.30",
+   "conf": 0.78
+  },
+  {
+   "text": "Rounding",
+   "conf": 0.96
+  },
+  {
+   "text": "Adj.",
+   "conf": 0.75
+  },
+  {
+   "text": ":",
+   "conf": 0.9
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9
+  },
+  {
+   "text": "Rounded",
+   "conf": 0.96
+  },
+  {
+   "text": "Total",
+   "conf": 0.96
+  },
+  {
+   "text": "(RM):",
+   "conf": 0.96
+  },
+  {
+   "text": "489.30",
+   "conf": 0.95
+  },
+  {
+   "text": ":",
+   "conf": 0.63
+  },
+  {
+   "text": "‘GST",
+   "conf": 0.65
+  },
+  {
+   "text": "‘Summary",
+   "conf": 0.83
+  },
+  {
+   "text": ":",
+   "conf": 0.11
+  },
+  {
+   "text": "Amount",
+   "conf": 0.96
+  },
+  {
+   "text": "Tax",
+   "conf": 0.96
+  },
+  {
+   "text": "SR",
+   "conf": 0.84
+  },
+  {
+   "text": "@",
+   "conf": 0.84
+  },
+  {
+   "text": "0%",
+   "conf": 0.95
+  },
+  {
+   "text": "489.30",
+   "conf": 0.81
+  },
+  {
+   "text": "0.00",
+   "conf": 0.96
+  },
+  {
+   "text": "Peyment",
+   "conf": 0.91
+  },
+  {
+   "text": "Detail",
+   "conf": 0.95
+  },
+  {
+   "text": "03/06/2018",
+   "conf": 0.79
+  },
+  {
+   "text": "Cash",
+   "conf": 0.79
+  },
+  {
+   "text": "489.30",
+   "conf": 0.79
+  }
+ ],
+ "mean_conf": 0.7851,
+ "low_conf_share": 0.1275,
+ "latency_ms": 1440,
+ "fields": {
+  "company": "KT WONG TRADING",
+  "date": "2018-06-09",
+  "total": 489.3
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  489.3
+ ],
+ "key": "X51008145505"
+}

@@ -1,0 +1,542 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "¥woaLuoRTat #2280",
+  "AANGAS CITY HO 64133",
+  "REGULAR SALE",
+  "99/20/97 14:10 0002280 002 002°50 4859",
+  "CASHIER. .: 000001651 THERESA",
+  "04819062759 SESAME STREET @ 4.798",
+  "04818242759 SESAME STREET R 4,778",
+  "09910500102 <A> SALINE 1.4186",
+  "ca7ii36e701 AD DISC 3.5",
+  "04818562759 SESAME STREET. -4,799",
+  "07046254250 SWEDISH RED FI30,308",
+  "07046254250 SWEDISH RED FIS 0.30\"",
+  "76487840900 SINGLE CANDOLIE 0,95",
+  "DISCOUNT #8 (CODE 1) PROMOTIONAL",
+  "ON 1 ITEMS ---------» —-9,29,",
+  "“SOPERCENT OFF",
+  "‘7o487840550 — }00UL LITE SET ATR",
+  "‘DISCOUNT #2 (CODE 1) PROMOTIONAL",
+  "ON 1 ITENS ---------> -1,449",
+  "SOPERCENT OFF",
+  "36137000788 SHOWER/WWeDZ, 1,748",
+  "O7W03116720 Cup PERE TRED. 11008",
+  "0344400 REESE'S P.B.CUP (0.358",
+  "04000002103 J MUSKETEERS 10 0.89%",
+  "S60 RT cee 1,20",
+  "TOTAL BALANCE DUE ———---—=-> 19.34",
+  "“SOPAIMENT BY: ASH 20.00",
+  "yo nevis ot Exouaes",
+  "eRe NAM OY TUG alk"
+ ],
+ "tokens": [
+  {
+   "text": "¥woaLuoRTat",
+   "conf": 0.0
+  },
+  {
+   "text": "#2280",
+   "conf": 0.5
+  },
+  {
+   "text": "AANGAS",
+   "conf": 0.14
+  },
+  {
+   "text": "CITY",
+   "conf": 0.74
+  },
+  {
+   "text": "HO",
+   "conf": 0.61
+  },
+  {
+   "text": "64133",
+   "conf": 0.61
+  },
+  {
+   "text": "REGULAR",
+   "conf": 0.85
+  },
+  {
+   "text": "SALE",
+   "conf": 0.96
+  },
+  {
+   "text": "99/20/97",
+   "conf": 0.46
+  },
+  {
+   "text": "14:10",
+   "conf": 0.79
+  },
+  {
+   "text": "0002280",
+   "conf": 0.84
+  },
+  {
+   "text": "002",
+   "conf": 0.9
+  },
+  {
+   "text": "002°50",
+   "conf": 0.4
+  },
+  {
+   "text": "4859",
+   "conf": 0.69
+  },
+  {
+   "text": "CASHIER.",
+   "conf": 0.11
+  },
+  {
+   "text": ".:",
+   "conf": 0.0
+  },
+  {
+   "text": "000001651",
+   "conf": 0.57
+  },
+  {
+   "text": "THERESA",
+   "conf": 0.52
+  },
+  {
+   "text": "04819062759",
+   "conf": 0.19
+  },
+  {
+   "text": "SESAME",
+   "conf": 0.43
+  },
+  {
+   "text": "STREET",
+   "conf": 0.87
+  },
+  {
+   "text": "@",
+   "conf": 0.31
+  },
+  {
+   "text": "4.798",
+   "conf": 0.63
+  },
+  {
+   "text": "04818242759",
+   "conf": 0.24
+  },
+  {
+   "text": "SESAME",
+   "conf": 0.6
+  },
+  {
+   "text": "STREET",
+   "conf": 0.86
+  },
+  {
+   "text": "R",
+   "conf": 0.81
+  },
+  {
+   "text": "4,778",
+   "conf": 0.64
+  },
+  {
+   "text": "09910500102",
+   "conf": 0.52
+  },
+  {
+   "text": "<A>",
+   "conf": 0.43
+  },
+  {
+   "text": "SALINE",
+   "conf": 0.88
+  },
+  {
+   "text": "1.4186",
+   "conf": 0.31
+  },
+  {
+   "text": "ca7ii36e701",
+   "conf": 0.0
+  },
+  {
+   "text": "AD",
+   "conf": 0.31
+  },
+  {
+   "text": "DISC",
+   "conf": 0.86
+  },
+  {
+   "text": "3.5",
+   "conf": 0.29
+  },
+  {
+   "text": "04818562759",
+   "conf": 0.48
+  },
+  {
+   "text": "SESAME",
+   "conf": 0.23
+  },
+  {
+   "text": "STREET.",
+   "conf": 0.37
+  },
+  {
+   "text": "-4,799",
+   "conf": 0.35
+  },
+  {
+   "text": "07046254250",
+   "conf": 0.61
+  },
+  {
+   "text": "SWEDISH",
+   "conf": 0.44
+  },
+  {
+   "text": "RED",
+   "conf": 0.88
+  },
+  {
+   "text": "FI30,308",
+   "conf": 0.12
+  },
+  {
+   "text": "07046254250",
+   "conf": 0.7
+  },
+  {
+   "text": "SWEDISH",
+   "conf": 0.73
+  },
+  {
+   "text": "RED",
+   "conf": 0.52
+  },
+  {
+   "text": "FIS",
+   "conf": 0.52
+  },
+  {
+   "text": "0.30\"",
+   "conf": 0.6
+  },
+  {
+   "text": "76487840900",
+   "conf": 0.68
+  },
+  {
+   "text": "SINGLE",
+   "conf": 0.69
+  },
+  {
+   "text": "CANDOLIE",
+   "conf": 0.91
+  },
+  {
+   "text": "0,95",
+   "conf": 0.47
+  },
+  {
+   "text": "DISCOUNT",
+   "conf": 0.35
+  },
+  {
+   "text": "#8",
+   "conf": 0.9
+  },
+  {
+   "text": "(CODE",
+   "conf": 0.9
+  },
+  {
+   "text": "1)",
+   "conf": 0.94
+  },
+  {
+   "text": "PROMOTIONAL",
+   "conf": 0.58
+  },
+  {
+   "text": "ON",
+   "conf": 0.7
+  },
+  {
+   "text": "1",
+   "conf": 0.69
+  },
+  {
+   "text": "ITEMS",
+   "conf": 0.16
+  },
+  {
+   "text": "---------»",
+   "conf": 0.37
+  },
+  {
+   "text": "—-9,29,",
+   "conf": 0.0
+  },
+  {
+   "text": "“SOPERCENT",
+   "conf": 0.83
+  },
+  {
+   "text": "OFF",
+   "conf": 0.94
+  },
+  {
+   "text": "‘7o487840550",
+   "conf": 0.03
+  },
+  {
+   "text": "—",
+   "conf": 0.17
+  },
+  {
+   "text": "}00UL",
+   "conf": 0.04
+  },
+  {
+   "text": "LITE",
+   "conf": 0.94
+  },
+  {
+   "text": "SET",
+   "conf": 0.96
+  },
+  {
+   "text": "ATR",
+   "conf": 0.09
+  },
+  {
+   "text": "‘DISCOUNT",
+   "conf": 0.62
+  },
+  {
+   "text": "#2",
+   "conf": 0.89
+  },
+  {
+   "text": "(CODE",
+   "conf": 0.91
+  },
+  {
+   "text": "1)",
+   "conf": 0.96
+  },
+  {
+   "text": "PROMOTIONAL",
+   "conf": 0.8
+  },
+  {
+   "text": "ON",
+   "conf": 0.71
+  },
+  {
+   "text": "1",
+   "conf": 0.34
+  },
+  {
+   "text": "ITENS",
+   "conf": 0.34
+  },
+  {
+   "text": "--------->",
+   "conf": 0.14
+  },
+  {
+   "text": "-1,449",
+   "conf": 0.14
+  },
+  {
+   "text": "SOPERCENT",
+   "conf": 0.14
+  },
+  {
+   "text": "OFF",
+   "conf": 0.9
+  },
+  {
+   "text": "36137000788",
+   "conf": 0.61
+  },
+  {
+   "text": "SHOWER/WWeDZ,",
+   "conf": 0.0
+  },
+  {
+   "text": "1,748",
+   "conf": 0.46
+  },
+  {
+   "text": "O7W03116720",
+   "conf": 0.0
+  },
+  {
+   "text": "Cup",
+   "conf": 0.0
+  },
+  {
+   "text": "PERE",
+   "conf": 0.88
+  },
+  {
+   "text": "TRED.",
+   "conf": 0.35
+  },
+  {
+   "text": "11008",
+   "conf": 0.57
+  },
+  {
+   "text": "0344400",
+   "conf": 0.68
+  },
+  {
+   "text": "REESE'S",
+   "conf": 0.76
+  },
+  {
+   "text": "P.B.CUP",
+   "conf": 0.37
+  },
+  {
+   "text": "(0.358",
+   "conf": 0.53
+  },
+  {
+   "text": "04000002103",
+   "conf": 0.65
+  },
+  {
+   "text": "J",
+   "conf": 0.56
+  },
+  {
+   "text": "MUSKETEERS",
+   "conf": 0.56
+  },
+  {
+   "text": "10",
+   "conf": 0.77
+  },
+  {
+   "text": "0.89%",
+   "conf": 0.63
+  },
+  {
+   "text": "S60",
+   "conf": 0.0
+  },
+  {
+   "text": "RT",
+   "conf": 0.0
+  },
+  {
+   "text": "cee",
+   "conf": 0.25
+  },
+  {
+   "text": "1,20",
+   "conf": 0.36
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.71
+  },
+  {
+   "text": "BALANCE",
+   "conf": 0.0
+  },
+  {
+   "text": "DUE",
+   "conf": 0.79
+  },
+  {
+   "text": "———---—=->",
+   "conf": 0.0
+  },
+  {
+   "text": "19.34",
+   "conf": 0.52
+  },
+  {
+   "text": "“SOPAIMENT",
+   "conf": 0.0
+  },
+  {
+   "text": "BY:",
+   "conf": 0.79
+  },
+  {
+   "text": "ASH",
+   "conf": 0.63
+  },
+  {
+   "text": "20.00",
+   "conf": 0.87
+  },
+  {
+   "text": "yo",
+   "conf": 0.44
+  },
+  {
+   "text": "nevis",
+   "conf": 0.0
+  },
+  {
+   "text": "ot",
+   "conf": 0.42
+  },
+  {
+   "text": "Exouaes",
+   "conf": 0.0
+  },
+  {
+   "text": "eRe",
+   "conf": 0.07
+  },
+  {
+   "text": "NAM",
+   "conf": 0.13
+  },
+  {
+   "text": "OY",
+   "conf": 0.26
+  },
+  {
+   "text": "TUG",
+   "conf": 0.04
+  },
+  {
+   "text": "alk",
+   "conf": 0.3
+  }
+ ],
+ "mean_conf": 0.4886,
+ "low_conf_share": 0.4672,
+ "latency_ms": 469,
+ "fields": {
+  "company": "WOALUORTAT 2280",
+  "date": null,
+  "total": 20.0
+ },
+ "rule_reasons": [
+  "date_not_found",
+  "total_no_keyword_fallback_max"
+ ],
+ "total_candidates": [
+  0.89,
+  19.34,
+  20.0
+ ],
+ "key": "W0005_9f913b5d2994"
+}

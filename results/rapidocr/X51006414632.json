@@ -1,0 +1,221 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "UNIHAKKA INTERNATIONAL SDN BHD",
+  "17Apr 2018 18:44",
+  "(867388-U)",
+  "12, Jalan Tampoi 7/4,Kawasan Perindustrian",
+  "Tampoi,81200 Johor Bahru,Johor",
+  "TAXINVOICE",
+  "Invoice#:OR18041702170490",
+  "Item Qty Total",
+  "SR100100000001-Chicken",
+  "$2.70 2 $5.40",
+  "SR 100100000015-Vegetable",
+  "$1.10 2 $2.20",
+  "SR I00100000057-Fried Noodle(L)",
+  "$3.00 1 $3.00",
+  "·Total Amount:$10.60",
+  "GST @6%:$0.60",
+  "Nett Total:$10.60",
+  "Payment Mode Amount",
+  "CASH $10.60",
+  "Change $0.00",
+  "GSTSummary (s)unou Tax($)",
+  "SR= GST @6% 10.00 0.60",
+  "GSTREG#000656195584",
+  "BARWANGRICE@PERMASJAYA",
+  "(Price Inclusive OfGST)",
+  "Thank You & Come Again!",
+  "Like and FollowUs on Facebook!",
+  "Facebook.com/BarWangRice"
+ ],
+ "tokens": [
+  {
+   "text": "UNIHAKKA INTERNATIONAL SDN BHD",
+   "conf": 0.9719505866368612
+  },
+  {
+   "text": "17Apr 2018 18:44",
+   "conf": 0.9422411136329174
+  },
+  {
+   "text": "(867388-U)",
+   "conf": 0.9992062628269196
+  },
+  {
+   "text": "12, Jalan Tampoi 7/4,Kawasan Perindustrian",
+   "conf": 0.9717846271537599
+  },
+  {
+   "text": "Tampoi,81200 Johor Bahru,Johor",
+   "conf": 0.9700658122698466
+  },
+  {
+   "text": "TAXINVOICE",
+   "conf": 0.9973513543605804
+  },
+  {
+   "text": "Invoice#:OR18041702170490",
+   "conf": 0.9835376524925232
+  },
+  {
+   "text": "Item",
+   "conf": 0.9732291549444199
+  },
+  {
+   "text": "Qty",
+   "conf": 0.9954879482587179
+  },
+  {
+   "text": "Total",
+   "conf": 0.9990863919258117
+  },
+  {
+   "text": "SR100100000001-Chicken",
+   "conf": 0.9857516695152629
+  },
+  {
+   "text": "$2.70",
+   "conf": 0.9996737837791443
+  },
+  {
+   "text": "2",
+   "conf": 0.9735147356987
+  },
+  {
+   "text": "$5.40",
+   "conf": 0.9998417854309082
+  },
+  {
+   "text": "SR 100100000015-Vegetable",
+   "conf": 0.9707145488262177
+  },
+  {
+   "text": "$1.10",
+   "conf": 0.9998501420021058
+  },
+  {
+   "text": "2",
+   "conf": 0.9982544779777527
+  },
+  {
+   "text": "$2.20",
+   "conf": 0.9998029589653015
+  },
+  {
+   "text": "SR I00100000057-Fried Noodle(L)",
+   "conf": 0.962236096782069
+  },
+  {
+   "text": "$3.00",
+   "conf": 0.9994924902915955
+  },
+  {
+   "text": "1",
+   "conf": 0.9958093166351318
+  },
+  {
+   "text": "$3.00",
+   "conf": 0.9992214560508728
+  },
+  {
+   "text": "·Total Amount:$10.60",
+   "conf": 0.9507691159844398
+  },
+  {
+   "text": "GST @6%:$0.60",
+   "conf": 0.9662412129915677
+  },
+  {
+   "text": "Nett Total:$10.60",
+   "conf": 0.9745352233157438
+  },
+  {
+   "text": "Payment Mode",
+   "conf": 0.9582465589046478
+  },
+  {
+   "text": "Amount",
+   "conf": 0.9976283311843872
+  },
+  {
+   "text": "CASH",
+   "conf": 0.9957944005727768
+  },
+  {
+   "text": "$10.60",
+   "conf": 0.999283363421758
+  },
+  {
+   "text": "Change",
+   "conf": 0.9990285833676656
+  },
+  {
+   "text": "$0.00",
+   "conf": 0.9293919563293457
+  },
+  {
+   "text": "GSTSummary",
+   "conf": 0.9750794112682343
+  },
+  {
+   "text": "(s)unou",
+   "conf": 0.5377164142472404
+  },
+  {
+   "text": "Tax($)",
+   "conf": 0.9754487971464793
+  },
+  {
+   "text": "SR= GST @6%",
+   "conf": 0.9402787793766368
+  },
+  {
+   "text": "10.00",
+   "conf": 0.9994833111763001
+  },
+  {
+   "text": "0.60",
+   "conf": 0.9994049668312073
+  },
+  {
+   "text": "GSTREG#000656195584",
+   "conf": 0.9978386351936742
+  },
+  {
+   "text": "BARWANGRICE@PERMASJAYA",
+   "conf": 0.9924474954605103
+  },
+  {
+   "text": "(Price Inclusive OfGST)",
+   "conf": 0.9616889409396959
+  },
+  {
+   "text": "Thank You & Come Again!",
+   "conf": 0.979493146357329
+  },
+  {
+   "text": "Like and FollowUs on Facebook!",
+   "conf": 0.97258935769399
+  },
+  {
+   "text": "Facebook.com/BarWangRice",
+   "conf": 0.9974816590547562
+  }
+ ],
+ "mean_conf": 0.9718,
+ "low_conf_share": 0.0,
+ "latency_ms": 15221,
+ "fields": {
+  "company": "UNIHAKKA INTERNATIONAL SDN BHD",
+  "date": "2018-04-17",
+  "total": 10.6
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  10.6,
+  10.6
+ ],
+ "key": "X51006414632"
+}

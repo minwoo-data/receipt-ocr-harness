@@ -1,0 +1,210 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "Welcome to Dunkin Donuts",
+  "Store #338063",
+  "200 Seaport Blvd, Boston",
+  "8/15/201212:38:19PM",
+  "Eat In",
+  "Order Number:3 328",
+  "Register:1 Tran Seq No:569328",
+  "Cashier:Gilbert K.",
+  "1Donut 0.95",
+  "Sub.Total: $0.95",
+  "Tax: $0.07",
+  "Total: $1.02",
+  "Discount Total: $0.00",
+  "Change $4.00",
+  "Cash $5.02",
+  "HEY AMERICA!",
+  "WANTAFREE DONUT WHEN YOU PURCHASEA",
+  "MEDIUMORLARGER BEVERAGE?",
+  "Go to www.telldunkin.comonyour",
+  "computeror mobile device in thenext",
+  "3 days and tell us about your visit.",
+  "Te invitamos a participar en",
+  "nuestra encuesta.",
+  "Survey Code: 32801-38063-1208-1524",
+  "Enter Validation Code:",
+  "Bring receipt with code to redeem offer.",
+  "Visit DunkinDonuts.com for",
+  "redemption restrictions.",
+  "Franchisee:Please use PLU #201",
+  "Thank You Come Back Again"
+ ],
+ "tokens": [
+  {
+   "text": "Welcome to Dunkin Donuts",
+   "conf": 0.9267124235630035
+  },
+  {
+   "text": "Store #338063",
+   "conf": 0.9716334939002991
+  },
+  {
+   "text": "200 Seaport Blvd, Boston",
+   "conf": 0.9132504885395368
+  },
+  {
+   "text": "8/15/201212:38:19PM",
+   "conf": 0.983745298887554
+  },
+  {
+   "text": "Eat In",
+   "conf": 0.9711553057034811
+  },
+  {
+   "text": "Order Number:3",
+   "conf": 0.9453861202512469
+  },
+  {
+   "text": "328",
+   "conf": 0.9990726312001547
+  },
+  {
+   "text": "Register:1",
+   "conf": 0.9770143628120422
+  },
+  {
+   "text": "Tran Seq No:569328",
+   "conf": 0.9401603804694282
+  },
+  {
+   "text": "Cashier:Gilbert K.",
+   "conf": 0.9138505525059171
+  },
+  {
+   "text": "1Donut",
+   "conf": 0.9900653759638468
+  },
+  {
+   "text": "0.95",
+   "conf": 0.9961290955543518
+  },
+  {
+   "text": "Sub.Total:",
+   "conf": 0.9437129497528076
+  },
+  {
+   "text": "$0.95",
+   "conf": 0.985788631439209
+  },
+  {
+   "text": "Tax:",
+   "conf": 0.9738468080759048
+  },
+  {
+   "text": "$0.07",
+   "conf": 0.9930855393409729
+  },
+  {
+   "text": "Total:",
+   "conf": 0.9835054079691569
+  },
+  {
+   "text": "$1.02",
+   "conf": 0.9927861094474792
+  },
+  {
+   "text": "Discount Total:",
+   "conf": 0.9686972141265869
+  },
+  {
+   "text": "$0.00",
+   "conf": 0.9934455633163453
+  },
+  {
+   "text": "Change",
+   "conf": 0.9827893674373627
+  },
+  {
+   "text": "$4.00",
+   "conf": 0.9933446764945983
+  },
+  {
+   "text": "Cash",
+   "conf": 0.9895897805690765
+  },
+  {
+   "text": "$5.02",
+   "conf": 0.9957747340202332
+  },
+  {
+   "text": "HEY AMERICA!",
+   "conf": 0.9515615155299505
+  },
+  {
+   "text": "WANTAFREE DONUT WHEN YOU PURCHASEA",
+   "conf": 0.9478548221728381
+  },
+  {
+   "text": "MEDIUMORLARGER BEVERAGE?",
+   "conf": 0.9568667759497961
+  },
+  {
+   "text": "Go to www.telldunkin.comonyour",
+   "conf": 0.9133163352807363
+  },
+  {
+   "text": "computeror mobile device in thenext",
+   "conf": 0.9219599774905614
+  },
+  {
+   "text": "3 days and tell us about your visit.",
+   "conf": 0.9355119466781616
+  },
+  {
+   "text": "Te invitamos a participar en",
+   "conf": 0.9437743936266217
+  },
+  {
+   "text": "nuestra encuesta.",
+   "conf": 0.9659571226905374
+  },
+  {
+   "text": "Survey Code:",
+   "conf": 0.9623164534568787
+  },
+  {
+   "text": "32801-38063-1208-1524",
+   "conf": 0.9913016727992466
+  },
+  {
+   "text": "Enter Validation Code:",
+   "conf": 0.9574018716812134
+  },
+  {
+   "text": "Bring receipt with code to redeem offer.",
+   "conf": 0.9271749123930931
+  },
+  {
+   "text": "Visit DunkinDonuts.com for",
+   "conf": 0.9368654099794534
+  },
+  {
+   "text": "redemption restrictions.",
+   "conf": 0.9491641571124395
+  },
+  {
+   "text": "Franchisee:Please use PLU #201",
+   "conf": 0.9312280654907227
+  },
+  {
+   "text": "Thank You Come Back Again",
+   "conf": 0.9503599762916565
+  }
+ ],
+ "mean_conf": 0.9617,
+ "low_conf_share": 0.0,
+ "latency_ms": 3346,
+ "fields": {
+  "company": "STORE",
+  "date": "2012-08-15",
+  "total": 0.0
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  0.0
+ ],
+ "key": "W0042_fdf94fd7668b"
+}

@@ -1,0 +1,208 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "SANG KEECHERASRESTAURANT",
+  "(001910559-U)",
+  "69,JALANTEMENGGUNG3/9",
+  "BANDARMAHKOTACHERAS",
+  "43200CHERAS",
+  "SELANGOR",
+  "(NO.IDGST001226018816)",
+  "TAXINVOICE",
+  "NO.:74285",
+  "666 0101 03/05/201820:24",
+  "BCODE QTY U/PRICE AMT",
+  "9556570105139 1 2.50 2.50s",
+  "ALLSOITDFINKCAN",
+  "SUB-TCITAL 2.50",
+  "Total GsT(l) 0.14",
+  "Total Items)",
+  "Total Quanity ：1",
+  "RM",
+  "Total Incl GsT 2.50",
+  "Pay Cash 2.50",
+  "Change 0.00",
+  "THANKYOUFLEASECOMEAGAIN",
+  "GST TaxabieAmt GSTAmt",
+  "S-SR()-6% 2.36 0.14"
+ ],
+ "tokens": [
+  {
+   "text": "SANG KEECHERASRESTAURANT",
+   "conf": 0.9687496076027552
+  },
+  {
+   "text": "(001910559-U)",
+   "conf": 0.9532648004018344
+  },
+  {
+   "text": "69,JALANTEMENGGUNG3/9",
+   "conf": 0.9585896247909182
+  },
+  {
+   "text": "BANDARMAHKOTACHERAS",
+   "conf": 0.9910773823135778
+  },
+  {
+   "text": "43200CHERAS",
+   "conf": 0.9901898449117487
+  },
+  {
+   "text": "SELANGOR",
+   "conf": 0.9950500652194023
+  },
+  {
+   "text": "(NO.IDGST001226018816)",
+   "conf": 0.9001656892624769
+  },
+  {
+   "text": "TAXINVOICE",
+   "conf": 0.9890184283256531
+  },
+  {
+   "text": "NO.:74285",
+   "conf": 0.9719748364554511
+  },
+  {
+   "text": "666",
+   "conf": 0.8271852731704712
+  },
+  {
+   "text": "0101",
+   "conf": 0.9904060810804367
+  },
+  {
+   "text": "03/05/201820:24",
+   "conf": 0.9919585267702739
+  },
+  {
+   "text": "BCODE",
+   "conf": 0.9104305267333984
+  },
+  {
+   "text": "QTY",
+   "conf": 0.9926872253417969
+  },
+  {
+   "text": "U/PRICE",
+   "conf": 0.9853646159172058
+  },
+  {
+   "text": "AMT",
+   "conf": 0.9937653342882792
+  },
+  {
+   "text": "9556570105139",
+   "conf": 0.9847522744765649
+  },
+  {
+   "text": "1",
+   "conf": 0.9947236776351929
+  },
+  {
+   "text": "2.50",
+   "conf": 0.9974205046892166
+  },
+  {
+   "text": "2.50s",
+   "conf": 0.994444465637207
+  },
+  {
+   "text": "ALLSOITDFINKCAN",
+   "conf": 0.9314297914505005
+  },
+  {
+   "text": "SUB-TCITAL",
+   "conf": 0.9066023677587509
+  },
+  {
+   "text": "2.50",
+   "conf": 0.9982020556926727
+  },
+  {
+   "text": "Total GsT(l)",
+   "conf": 0.8395206183195114
+  },
+  {
+   "text": "0.14",
+   "conf": 0.9980293363332748
+  },
+  {
+   "text": "Total Items)",
+   "conf": 0.8469830080866814
+  },
+  {
+   "text": "Total Quanity",
+   "conf": 0.9186096649903518
+  },
+  {
+   "text": "：1",
+   "conf": 0.8051106929779053
+  },
+  {
+   "text": "RM",
+   "conf": 0.9925956726074219
+  },
+  {
+   "text": "Total Incl GsT",
+   "conf": 0.8674563808100564
+  },
+  {
+   "text": "2.50",
+   "conf": 0.9995395690202713
+  },
+  {
+   "text": "Pay Cash",
+   "conf": 0.9932133182883263
+  },
+  {
+   "text": "2.50",
+   "conf": 0.9992848634719849
+  },
+  {
+   "text": "Change",
+   "conf": 0.9701876739660898
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9993160665035248
+  },
+  {
+   "text": "THANKYOUFLEASECOMEAGAIN",
+   "conf": 0.9696061015129089
+  },
+  {
+   "text": "GST",
+   "conf": 0.9691171844800314
+  },
+  {
+   "text": "TaxabieAmt GSTAmt",
+   "conf": 0.899244380347869
+  },
+  {
+   "text": "S-SR()-6%",
+   "conf": 0.796394106414583
+  },
+  {
+   "text": "2.36",
+   "conf": 0.9932358264923096
+  },
+  {
+   "text": "0.14",
+   "conf": 0.998076468706131
+  }
+ ],
+ "mean_conf": 0.953,
+ "low_conf_share": 0.0,
+ "latency_ms": 3799,
+ "fields": {
+  "company": "SANG KEECHERASRESTAURANT",
+  "date": "2018-05-03",
+  "total": 2.5
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  2.5
+ ],
+ "key": "X51008042793"
+}

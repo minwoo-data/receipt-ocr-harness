@@ -1,0 +1,196 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "HOMEDELIVERY",
+  "QTY ITEM NAME AMOUNT",
+  "1 XO Chicken 40.00",
+  "1 Tom Yum Soup 26.00",
+  "1 Prawns 8.00",
+  "1 Salt and Pepper 26.00",
+  "1 Chicken Wings",
+  "1 Chicken Spring Roll 24.00",
+  "GROSS AMT: 124.00",
+  "DATE :28-dJun-2015 05:30 PM",
+  "FRESH FAST FANTASTIC"
+ ],
+ "tokens": [
+  {
+   "text": "HOMEDELIVERY",
+   "conf": 0.91
+  },
+  {
+   "text": "QTY",
+   "conf": 0.96
+  },
+  {
+   "text": "ITEM",
+   "conf": 0.95
+  },
+  {
+   "text": "NAME",
+   "conf": 0.95
+  },
+  {
+   "text": "AMOUNT",
+   "conf": 0.96
+  },
+  {
+   "text": "1",
+   "conf": 0.84
+  },
+  {
+   "text": "XO",
+   "conf": 0.89
+  },
+  {
+   "text": "Chicken",
+   "conf": 0.96
+  },
+  {
+   "text": "40.00",
+   "conf": 0.95
+  },
+  {
+   "text": "1",
+   "conf": 0.92
+  },
+  {
+   "text": "Tom",
+   "conf": 0.93
+  },
+  {
+   "text": "Yum",
+   "conf": 0.95
+  },
+  {
+   "text": "Soup",
+   "conf": 0.77
+  },
+  {
+   "text": "26.00",
+   "conf": 0.95
+  },
+  {
+   "text": "1",
+   "conf": 0.9
+  },
+  {
+   "text": "Prawns",
+   "conf": 0.95
+  },
+  {
+   "text": "8.00",
+   "conf": 0.95
+  },
+  {
+   "text": "1",
+   "conf": 0.9
+  },
+  {
+   "text": "Salt",
+   "conf": 0.8
+  },
+  {
+   "text": "and",
+   "conf": 0.95
+  },
+  {
+   "text": "Pepper",
+   "conf": 0.95
+  },
+  {
+   "text": "26.00",
+   "conf": 0.91
+  },
+  {
+   "text": "1",
+   "conf": 0.93
+  },
+  {
+   "text": "Chicken",
+   "conf": 0.75
+  },
+  {
+   "text": "Wings",
+   "conf": 0.9
+  },
+  {
+   "text": "1",
+   "conf": 0.94
+  },
+  {
+   "text": "Chicken",
+   "conf": 0.66
+  },
+  {
+   "text": "Spring",
+   "conf": 0.88
+  },
+  {
+   "text": "Roll",
+   "conf": 0.9
+  },
+  {
+   "text": "24.00",
+   "conf": 0.95
+  },
+  {
+   "text": "GROSS",
+   "conf": 0.95
+  },
+  {
+   "text": "AMT:",
+   "conf": 0.96
+  },
+  {
+   "text": "124.00",
+   "conf": 0.96
+  },
+  {
+   "text": "DATE",
+   "conf": 0.9
+  },
+  {
+   "text": ":28-dJun-2015",
+   "conf": 0.38
+  },
+  {
+   "text": "05:30",
+   "conf": 0.96
+  },
+  {
+   "text": "PM",
+   "conf": 0.72
+  },
+  {
+   "text": "FRESH",
+   "conf": 0.96
+  },
+  {
+   "text": "FAST",
+   "conf": 0.96
+  },
+  {
+   "text": "FANTASTIC",
+   "conf": 0.96
+  }
+ ],
+ "mean_conf": 0.8955,
+ "low_conf_share": 0.025,
+ "latency_ms": 316,
+ "fields": {
+  "company": "HOMEDELIVERY",
+  "date": null,
+  "total": 124.0
+ },
+ "rule_reasons": [
+  "date_not_found",
+  "total_no_keyword_fallback_max"
+ ],
+ "total_candidates": [
+  26.0,
+  24.0,
+  124.0
+ ],
+ "key": "W0146_2c6512feaa25"
+}

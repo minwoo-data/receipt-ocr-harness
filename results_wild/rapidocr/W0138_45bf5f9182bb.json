@@ -1,0 +1,138 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "TheregoesmyN24,300...andI'mnotevenfull",
+  "The Westin Detroit",
+  "Metropolitan Airport",
+  "Reflectlons",
+  "2501 Worldgateway Place",
+  "Detroit,MI 48242",
+  "734-229-6782",
+  "914150028M1les",
+  "CHK24207 TBL14/1 GST1",
+  "10/23/20168:57PM",
+  "1Tomatoe Bisque 9.00",
+  "1Seafood Ciopino 42.00",
+  "Subtotal $51.00",
+  "Taxes $3.06",
+  "Total Due $54.06",
+  "GRATUITY:",
+  "TOTAL:",
+  "ROOM"
+ ],
+ "tokens": [
+  {
+   "text": "TheregoesmyN24,300...andI'mnotevenfull",
+   "conf": 0.9356529422496495
+  },
+  {
+   "text": "The Westin Detroit",
+   "conf": 0.9132287551959356
+  },
+  {
+   "text": "Metropolitan Airport",
+   "conf": 0.9503779828548431
+  },
+  {
+   "text": "Reflectlons",
+   "conf": 0.9318091490051963
+  },
+  {
+   "text": "2501 Worldgateway Place",
+   "conf": 0.9158590539642002
+  },
+  {
+   "text": "Detroit,MI 48242",
+   "conf": 0.9197949133813381
+  },
+  {
+   "text": "734-229-6782",
+   "conf": 0.9944773217042288
+  },
+  {
+   "text": "914150028M1les",
+   "conf": 0.9389029230390277
+  },
+  {
+   "text": "CHK24207",
+   "conf": 0.9958678260445595
+  },
+  {
+   "text": "TBL14/1",
+   "conf": 0.9899799227714539
+  },
+  {
+   "text": "GST1",
+   "conf": 0.991123840212822
+  },
+  {
+   "text": "10/23/20168:57PM",
+   "conf": 0.9886107668280602
+  },
+  {
+   "text": "1Tomatoe Bisque",
+   "conf": 0.9741749803225199
+  },
+  {
+   "text": "9.00",
+   "conf": 0.9886498004198074
+  },
+  {
+   "text": "1Seafood Ciopino",
+   "conf": 0.9605434648692608
+  },
+  {
+   "text": "42.00",
+   "conf": 0.9949557542800903
+  },
+  {
+   "text": "Subtotal",
+   "conf": 0.9943103045225143
+  },
+  {
+   "text": "$51.00",
+   "conf": 0.9967445135116577
+  },
+  {
+   "text": "Taxes",
+   "conf": 0.9928707480430603
+  },
+  {
+   "text": "$3.06",
+   "conf": 0.9962477684020996
+  },
+  {
+   "text": "Total Due",
+   "conf": 0.9484226041369967
+  },
+  {
+   "text": "$54.06",
+   "conf": 0.9981748263041178
+  },
+  {
+   "text": "GRATUITY:",
+   "conf": 0.986198623975118
+  },
+  {
+   "text": "TOTAL:",
+   "conf": 0.988265464703242
+  },
+  {
+   "text": "ROOM",
+   "conf": 0.9583395272493362
+  }
+ ],
+ "mean_conf": 0.9697,
+ "low_conf_share": 0.0,
+ "latency_ms": 2760,
+ "fields": {
+  "company": "THEREGOESMYN24 300 ANDI MNOTEVENFULL",
+  "date": "2016-10-23",
+  "total": 54.06
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  54.06
+ ],
+ "key": "W0138_45bf5f9182bb"
+}

@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.6-flash",
+ "provider": "gemini",
+ "raw_text": "{\"vendor\": \"Built Burger\", \"date\": \"2015-07-28\", \"subtotal\": 28.65, \"tax\": 2.58, \"tip\": null, \"discount\": null, \"total\": 31.23, \"currency\": \"USD\", \"confidence\": 0.98, \"notes\": null}",
+ "data": {
+  "vendor": "Built Burger",
+  "date": "2015-07-28",
+  "subtotal": 28.65,
+  "tax": 2.58,
+  "tip": null,
+  "discount": null,
+  "total": 31.23,
+  "currency": "USD",
+  "confidence": 0.98,
+  "notes": null
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1433,
+  "output_tokens": 82,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.001382,
+ "latency_ms": 1356,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.6-flash",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.6-flash"
+ ],
+ "key": "W0120_296f92a5407b"
+}

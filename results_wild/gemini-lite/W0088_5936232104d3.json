@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.1-flash-lite",
+ "provider": "gemini",
+ "raw_text": "{\n  \"vendor\": \"CARNATIC CAFE\",\n  \"date\": \"2014-02-27\",\n  \"subtotal\": 885.00,\n  \"tax\": 154.00,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 1039.00,\n  \"currency\": \"INR\",\n  \"confidence\": 0.98,\n  \"notes\": \"Tax is the sum of VAT (110.63) and Service Tax (43.37).\"\n}",
+ "data": {
+  "vendor": "CARNATIC CAFE",
+  "date": "2014-02-27",
+  "subtotal": 885.0,
+  "tax": 154.0,
+  "tip": null,
+  "discount": null,
+  "total": 1039.0,
+  "currency": "INR",
+  "confidence": 0.98,
+  "notes": "Tax is the sum of VAT (110.63) and Service Tax (43.37)."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1433,
+  "output_tokens": 136,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.000562,
+ "latency_ms": 1992,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.1-flash-lite",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.1-flash-lite"
+ ],
+ "key": "W0088_5936232104d3"
+}

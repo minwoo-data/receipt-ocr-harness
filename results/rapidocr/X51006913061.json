@@ -1,0 +1,208 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "H05/02",
+  "UNIHAKKAINTERNATIONALSDNBHD",
+  "23 May 2018 18:33",
+  "(867388-U)",
+  "12,JalanTampoi 7/4,KawasanPerindustrian",
+  "Tampoi,81200 Johor Bahru,Johor",
+  "TAXINVOICE",
+  "Invoice #:OR18052302160264",
+  "Item Qty Total",
+  "SR I00100000031-3Vege",
+  "$4.40 1 $4.40",
+  "SR I00100000009- Seaf0od (M)",
+  "$4.80 1 $4.80",
+  "Total Amount: $9.20",
+  "GST @6%: $0.52",
+  "Nett Total: $9.20",
+  "Payment Mode Amount",
+  "CASH $9.20",
+  "Change $0.00",
+  "GSTSummary Amount($) Tax($)",
+  "SR = GST @6% 8.68 0.52",
+  "GSTREG#000656195584",
+  "BARWANGRICE@PERMASJAYA",
+  "(Price Inclusive Of GST)",
+  "Thank You & Come Again!",
+  "Like and Follow Us on Facebook!",
+  "Facebook.com/BarWangRice"
+ ],
+ "tokens": [
+  {
+   "text": "H05/02",
+   "conf": 0.853827178478241
+  },
+  {
+   "text": "UNIHAKKAINTERNATIONALSDNBHD",
+   "conf": 0.9935549718362314
+  },
+  {
+   "text": "23 May 2018 18:33",
+   "conf": 0.960321331725401
+  },
+  {
+   "text": "(867388-U)",
+   "conf": 0.9956938326358795
+  },
+  {
+   "text": "12,JalanTampoi 7/4,KawasanPerindustrian",
+   "conf": 0.9813405382327545
+  },
+  {
+   "text": "Tampoi,81200 Johor Bahru,Johor",
+   "conf": 0.9933138867219289
+  },
+  {
+   "text": "TAXINVOICE",
+   "conf": 0.9975201964378357
+  },
+  {
+   "text": "Invoice #:OR18052302160264",
+   "conf": 0.968539854654899
+  },
+  {
+   "text": "Item",
+   "conf": 0.977591872215271
+  },
+  {
+   "text": "Qty",
+   "conf": 0.998203178246816
+  },
+  {
+   "text": "Total",
+   "conf": 0.9975936770439148
+  },
+  {
+   "text": "SR I00100000031-3Vege",
+   "conf": 0.9363991405282702
+  },
+  {
+   "text": "$4.40",
+   "conf": 0.9994141936302186
+  },
+  {
+   "text": "1",
+   "conf": 0.9970115423202515
+  },
+  {
+   "text": "$4.40",
+   "conf": 0.9997347235679627
+  },
+  {
+   "text": "SR I00100000009- Seaf0od (M)",
+   "conf": 0.9458563604525158
+  },
+  {
+   "text": "$4.80",
+   "conf": 0.9998050689697265
+  },
+  {
+   "text": "1",
+   "conf": 0.9989577531814575
+  },
+  {
+   "text": "$4.80",
+   "conf": 0.9997947096824646
+  },
+  {
+   "text": "Total Amount: $9.20",
+   "conf": 0.9871818674238104
+  },
+  {
+   "text": "GST @6%: $0.52",
+   "conf": 0.965796926191875
+  },
+  {
+   "text": "Nett Total: $9.20",
+   "conf": 0.9956451654434204
+  },
+  {
+   "text": "Payment Mode",
+   "conf": 0.9985886563857397
+  },
+  {
+   "text": "Amount",
+   "conf": 0.9977139035860697
+  },
+  {
+   "text": "CASH",
+   "conf": 0.9947805255651474
+  },
+  {
+   "text": "$9.20",
+   "conf": 0.9995916247367859
+  },
+  {
+   "text": "Change",
+   "conf": 0.9986917475859324
+  },
+  {
+   "text": "$0.00",
+   "conf": 0.9910451292991638
+  },
+  {
+   "text": "GSTSummary",
+   "conf": 0.984449702501297
+  },
+  {
+   "text": "Amount($)",
+   "conf": 0.9556059108840095
+  },
+  {
+   "text": "Tax($)",
+   "conf": 0.9870422879854838
+  },
+  {
+   "text": "SR = GST @6%",
+   "conf": 0.9826271037260691
+  },
+  {
+   "text": "8.68",
+   "conf": 0.9987650960683823
+  },
+  {
+   "text": "0.52",
+   "conf": 0.9907670468091965
+  },
+  {
+   "text": "GSTREG#000656195584",
+   "conf": 0.992807548297079
+  },
+  {
+   "text": "BARWANGRICE@PERMASJAYA",
+   "conf": 0.9930741001259197
+  },
+  {
+   "text": "(Price Inclusive Of GST)",
+   "conf": 0.9885861873626709
+  },
+  {
+   "text": "Thank You & Come Again!",
+   "conf": 0.9523262355638586
+  },
+  {
+   "text": "Like and Follow Us on Facebook!",
+   "conf": 0.9793267288515645
+  },
+  {
+   "text": "Facebook.com/BarWangRice",
+   "conf": 0.9961176191767057
+  }
+ ],
+ "mean_conf": 0.9831,
+ "low_conf_share": 0.0,
+ "latency_ms": 4342,
+ "fields": {
+  "company": "UNIHAKKAINTERNATIONALSDNBHD",
+  "date": "2018-05-23",
+  "total": 9.2
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  9.2,
+  9.2
+ ],
+ "key": "X51006913061"
+}

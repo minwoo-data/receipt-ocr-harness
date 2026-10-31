@@ -1,0 +1,491 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "YY VoOoRUCKERS",
+  "Wor ld‘s Gr peel te oer",
+  "< i oO4 59",
+  ": S ¥ & 3 ‘",
+  "oe a ny ck! 38° 7240p 07/27/44",
+  "ee NACHOS, loa Jed ch",
+  "_— . add 173 parte “nx nachos,",
+  "i ts ae NAME , JIM B.a9",
+  "eae Sub Total: 8.49",
+  "— Oe Pip TOTAL: 9.19",
+  "5 P pa EL LUA Id eee",
+  "mM PYELTILIELYVIL LAY ee",
+  "f FUDDS PRIME",
+  "; 3 find out more at",
+  "; ; www. Fuddspr ime.com",
+  "PEELE LIPYVILTU Lili lea",
+  "lllillillillii hea",
+  "HEPA B BEBO H CCC OOO IAS SAT A SRR 2",
+  "\" i wm 7X s fal",
+  "Une Winner Every Month 1!) ae",
+  "Follow These Simple Steps: 5"
+ ],
+ "tokens": [
+  {
+   "text": "YY",
+   "conf": 0.0
+  },
+  {
+   "text": "VoOoRUCKERS",
+   "conf": 0.0
+  },
+  {
+   "text": "Wor",
+   "conf": 0.89
+  },
+  {
+   "text": "ld‘s",
+   "conf": 0.53
+  },
+  {
+   "text": "Gr",
+   "conf": 0.96
+  },
+  {
+   "text": "peel",
+   "conf": 0.36
+  },
+  {
+   "text": "te",
+   "conf": 0.4
+  },
+  {
+   "text": "oer",
+   "conf": 0.28
+  },
+  {
+   "text": "<",
+   "conf": 0.36
+  },
+  {
+   "text": "i",
+   "conf": 0.35
+  },
+  {
+   "text": "oO4",
+   "conf": 0.14
+  },
+  {
+   "text": "59",
+   "conf": 0.79
+  },
+  {
+   "text": ":",
+   "conf": 0.28
+  },
+  {
+   "text": "S",
+   "conf": 0.75
+  },
+  {
+   "text": "¥",
+   "conf": 0.66
+  },
+  {
+   "text": "&",
+   "conf": 0.33
+  },
+  {
+   "text": "3",
+   "conf": 0.8
+  },
+  {
+   "text": "‘",
+   "conf": 0.73
+  },
+  {
+   "text": "oe",
+   "conf": 0.08
+  },
+  {
+   "text": "a",
+   "conf": 0.0
+  },
+  {
+   "text": "ny",
+   "conf": 0.29
+  },
+  {
+   "text": "ck!",
+   "conf": 0.53
+  },
+  {
+   "text": "38°",
+   "conf": 0.48
+  },
+  {
+   "text": "7240p",
+   "conf": 0.36
+  },
+  {
+   "text": "07/27/44",
+   "conf": 0.68
+  },
+  {
+   "text": "ee",
+   "conf": 0.2
+  },
+  {
+   "text": "NACHOS,",
+   "conf": 0.93
+  },
+  {
+   "text": "loa",
+   "conf": 0.9
+  },
+  {
+   "text": "Jed",
+   "conf": 0.82
+  },
+  {
+   "text": "ch",
+   "conf": 0.94
+  },
+  {
+   "text": "_—",
+   "conf": 0.17
+  },
+  {
+   "text": ".",
+   "conf": 0.35
+  },
+  {
+   "text": "add",
+   "conf": 0.96
+  },
+  {
+   "text": "173",
+   "conf": 0.76
+  },
+  {
+   "text": "parte",
+   "conf": 0.53
+  },
+  {
+   "text": "“nx",
+   "conf": 0.29
+  },
+  {
+   "text": "nachos,",
+   "conf": 0.85
+  },
+  {
+   "text": "i",
+   "conf": 0.27
+  },
+  {
+   "text": "ts",
+   "conf": 0.22
+  },
+  {
+   "text": "ae",
+   "conf": 0.4
+  },
+  {
+   "text": "NAME",
+   "conf": 0.86
+  },
+  {
+   "text": ",",
+   "conf": 0.86
+  },
+  {
+   "text": "JIM",
+   "conf": 0.82
+  },
+  {
+   "text": "B.a9",
+   "conf": 0.37
+  },
+  {
+   "text": "eae",
+   "conf": 0.28
+  },
+  {
+   "text": "Sub",
+   "conf": 0.96
+  },
+  {
+   "text": "Total:",
+   "conf": 0.93
+  },
+  {
+   "text": "8.49",
+   "conf": 0.7
+  },
+  {
+   "text": "—",
+   "conf": 0.42
+  },
+  {
+   "text": "Oe",
+   "conf": 0.0
+  },
+  {
+   "text": "Pip",
+   "conf": 0.2
+  },
+  {
+   "text": "TOTAL:",
+   "conf": 0.2
+  },
+  {
+   "text": "9.19",
+   "conf": 0.94
+  },
+  {
+   "text": "5",
+   "conf": 0.5
+  },
+  {
+   "text": "P",
+   "conf": 0.0
+  },
+  {
+   "text": "pa",
+   "conf": 0.0
+  },
+  {
+   "text": "EL",
+   "conf": 0.06
+  },
+  {
+   "text": "LUA",
+   "conf": 0.0
+  },
+  {
+   "text": "Id",
+   "conf": 0.0
+  },
+  {
+   "text": "eee",
+   "conf": 0.27
+  },
+  {
+   "text": "mM",
+   "conf": 0.09
+  },
+  {
+   "text": "PYELTILIELYVIL",
+   "conf": 0.0
+  },
+  {
+   "text": "LAY",
+   "conf": 0.0
+  },
+  {
+   "text": "ee",
+   "conf": 0.37
+  },
+  {
+   "text": "f",
+   "conf": 0.0
+  },
+  {
+   "text": "FUDDS",
+   "conf": 0.88
+  },
+  {
+   "text": "PRIME",
+   "conf": 0.94
+  },
+  {
+   "text": ";",
+   "conf": 0.25
+  },
+  {
+   "text": "3",
+   "conf": 0.84
+  },
+  {
+   "text": "find",
+   "conf": 0.96
+  },
+  {
+   "text": "out",
+   "conf": 0.95
+  },
+  {
+   "text": "more",
+   "conf": 0.96
+  },
+  {
+   "text": "at",
+   "conf": 0.96
+  },
+  {
+   "text": ";",
+   "conf": 0.08
+  },
+  {
+   "text": ";",
+   "conf": 0.52
+  },
+  {
+   "text": "www.",
+   "conf": 0.83
+  },
+  {
+   "text": "Fuddspr",
+   "conf": 0.81
+  },
+  {
+   "text": "ime.com",
+   "conf": 0.79
+  },
+  {
+   "text": "PEELE",
+   "conf": 0.0
+  },
+  {
+   "text": "LIPYVILTU",
+   "conf": 0.0
+  },
+  {
+   "text": "Lili",
+   "conf": 0.0
+  },
+  {
+   "text": "lea",
+   "conf": 0.0
+  },
+  {
+   "text": "lllillillillii",
+   "conf": 0.06
+  },
+  {
+   "text": "hea",
+   "conf": 0.35
+  },
+  {
+   "text": "HEPA",
+   "conf": 0.0
+  },
+  {
+   "text": "B",
+   "conf": 0.0
+  },
+  {
+   "text": "BEBO",
+   "conf": 0.11
+  },
+  {
+   "text": "H",
+   "conf": 0.0
+  },
+  {
+   "text": "CCC",
+   "conf": 0.08
+  },
+  {
+   "text": "OOO",
+   "conf": 0.17
+  },
+  {
+   "text": "IAS",
+   "conf": 0.25
+  },
+  {
+   "text": "SAT",
+   "conf": 0.39
+  },
+  {
+   "text": "A",
+   "conf": 0.32
+  },
+  {
+   "text": "SRR",
+   "conf": 0.03
+  },
+  {
+   "text": "2",
+   "conf": 0.45
+  },
+  {
+   "text": "\"",
+   "conf": 0.0
+  },
+  {
+   "text": "i",
+   "conf": 0.33
+  },
+  {
+   "text": "wm",
+   "conf": 0.03
+  },
+  {
+   "text": "7X",
+   "conf": 0.32
+  },
+  {
+   "text": "s",
+   "conf": 0.09
+  },
+  {
+   "text": "fal",
+   "conf": 0.2
+  },
+  {
+   "text": "Une",
+   "conf": 0.96
+  },
+  {
+   "text": "Winner",
+   "conf": 0.96
+  },
+  {
+   "text": "Every",
+   "conf": 0.96
+  },
+  {
+   "text": "Month",
+   "conf": 0.95
+  },
+  {
+   "text": "1!)",
+   "conf": 0.4
+  },
+  {
+   "text": "ae",
+   "conf": 0.19
+  },
+  {
+   "text": "Follow",
+   "conf": 0.95
+  },
+  {
+   "text": "These",
+   "conf": 0.96
+  },
+  {
+   "text": "Simple",
+   "conf": 0.96
+  },
+  {
+   "text": "Steps:",
+   "conf": 0.68
+  },
+  {
+   "text": "5",
+   "conf": 0.62
+  }
+ ],
+ "mean_conf": 0.4463,
+ "low_conf_share": 0.5893,
+ "latency_ms": 1571,
+ "fields": {
+  "company": "YY VOOORUCKERS",
+  "date": null,
+  "total": 9.19
+ },
+ "rule_reasons": [
+  "date_not_found"
+ ],
+ "total_candidates": [
+  9.19
+ ],
+ "key": "W0032_4308"
+}

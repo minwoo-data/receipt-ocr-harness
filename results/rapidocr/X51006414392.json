@@ -1,0 +1,242 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "DIHUANYARESTAURANT",
+  "Company Reg.No: JM0681589-W",
+  "5,JALAN PERMAS 10/5,",
+  "BANDARBARUPERMASJAYA,",
+  "81750JOHORBAHRU.JOHOR",
+  "TEL/FAX:07-3886322",
+  "[GST ID : 001914093568]",
+  "Table",
+  "TAX INVOICE",
+  "Inv No:199977 TA3",
+  "Cashier: c001-",
+  "Date: 07/04/2018 - 18.10:59",
+  "Qty Description Total (RM) Tax",
+  "106 33.00 SR",
+  "#TAKEAWAY#",
+  "ROASTEDDUCKWITHCHINESE",
+  "HERB (HALF)",
+  "Total SalesAmount 33.00",
+  "GST 6% 1.98",
+  "Rounding Adjustment 0.02",
+  "TOTAL 35.00",
+  "CASH 55.00",
+  "Change Returned 20.00-",
+  "Item Count:1",
+  "GST Summary Amount (RM) Tax(RM)",
+  "SR = 6% 33.00 1.98",
+  "Thank You!",
+  "Please Come Again",
+  "Goods Sold Are Not Returnable!",
+  "Closed by -- c001- 07/04/2018-18:11:05",
+  "\"- [POSWAY - MYTH POS SOLUTION ] ---"
+ ],
+ "tokens": [
+  {
+   "text": "DIHUANYARESTAURANT",
+   "conf": 0.9916190074549781
+  },
+  {
+   "text": "Company Reg.No: JM0681589-W",
+   "conf": 0.9766504212662026
+  },
+  {
+   "text": "5,JALAN PERMAS 10/5,",
+   "conf": 0.9592728853225708
+  },
+  {
+   "text": "BANDARBARUPERMASJAYA,",
+   "conf": 0.9612476996013096
+  },
+  {
+   "text": "81750JOHORBAHRU.JOHOR",
+   "conf": 0.9757926265398661
+  },
+  {
+   "text": "TEL/FAX:07-3886322",
+   "conf": 0.9859341515435113
+  },
+  {
+   "text": "[GST ID : 001914093568]",
+   "conf": 0.9564276026642841
+  },
+  {
+   "text": "Table",
+   "conf": 0.9978760242462158
+  },
+  {
+   "text": "TAX INVOICE",
+   "conf": 0.9761626124382019
+  },
+  {
+   "text": "TA3",
+   "conf": 0.9960891008377075
+  },
+  {
+   "text": "Inv No:199977",
+   "conf": 0.9459017331783588
+  },
+  {
+   "text": "Cashier: c001-",
+   "conf": 0.9991164122309003
+  },
+  {
+   "text": "Date:",
+   "conf": 0.9659477710723877
+  },
+  {
+   "text": "07/04/2018 - 18.10:59",
+   "conf": 0.971039803255172
+  },
+  {
+   "text": "Qty",
+   "conf": 0.8534745971361796
+  },
+  {
+   "text": "Description",
+   "conf": 0.9700590426271612
+  },
+  {
+   "text": "Total (RM) Tax",
+   "conf": 0.9440856490816388
+  },
+  {
+   "text": "106",
+   "conf": 0.9981636206309
+  },
+  {
+   "text": "33.00 SR",
+   "conf": 0.998246431350708
+  },
+  {
+   "text": "#TAKEAWAY#",
+   "conf": 0.9951766431331635
+  },
+  {
+   "text": "ROASTEDDUCKWITHCHINESE",
+   "conf": 0.9963102069768038
+  },
+  {
+   "text": "HERB (HALF)",
+   "conf": 0.9993914799256758
+  },
+  {
+   "text": "Total SalesAmount",
+   "conf": 0.9716257102349225
+  },
+  {
+   "text": "33.00",
+   "conf": 0.9997917175292969
+  },
+  {
+   "text": "GST 6%",
+   "conf": 0.8774013618628184
+  },
+  {
+   "text": "1.98",
+   "conf": 0.9998305141925812
+  },
+  {
+   "text": "Rounding Adjustment",
+   "conf": 0.9792471339828089
+  },
+  {
+   "text": "0.02",
+   "conf": 0.9995602071285248
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.9952697396278382
+  },
+  {
+   "text": "35.00",
+   "conf": 0.999832272529602
+  },
+  {
+   "text": "CASH",
+   "conf": 0.9990495890378952
+  },
+  {
+   "text": "55.00",
+   "conf": 0.9983379125595093
+  },
+  {
+   "text": "Change Returned",
+   "conf": 0.9942079782485962
+  },
+  {
+   "text": "20.00-",
+   "conf": 0.9963913063208262
+  },
+  {
+   "text": "Item Count:1",
+   "conf": 0.9760823845863342
+  },
+  {
+   "text": "GST Summary",
+   "conf": 0.9794278957627036
+  },
+  {
+   "text": "Amount (RM)",
+   "conf": 0.9839640909975226
+  },
+  {
+   "text": "Tax(RM)",
+   "conf": 0.9685073409761701
+  },
+  {
+   "text": "SR = 6%",
+   "conf": 0.9613975541932243
+  },
+  {
+   "text": "33.00",
+   "conf": 0.9997649192810059
+  },
+  {
+   "text": "1.98",
+   "conf": 0.9998887628316879
+  },
+  {
+   "text": "Thank You!",
+   "conf": 0.9896878719329834
+  },
+  {
+   "text": "Please Come Again",
+   "conf": 0.9745713752858779
+  },
+  {
+   "text": "Goods Sold Are Not Returnable!",
+   "conf": 0.9527684171994527
+  },
+  {
+   "text": "Closed by -- c001-",
+   "conf": 0.9639331052700678
+  },
+  {
+   "text": "07/04/2018-18:11:05",
+   "conf": 0.9886448163735239
+  },
+  {
+   "text": "\"- [POSWAY - MYTH POS SOLUTION ] ---",
+   "conf": 0.8096547499299049
+  }
+ ],
+ "mean_conf": 0.9739,
+ "low_conf_share": 0.0,
+ "latency_ms": 4349,
+ "fields": {
+  "company": "DIHUANYARESTAURANT",
+  "date": "2018-04-07",
+  "total": 35.0
+ },
+ "rule_reasons": [
+  "total_multiple_keyword_amounts"
+ ],
+ "total_candidates": [
+  33.0,
+  35.0
+ ],
+ "key": "X51006414392"
+}

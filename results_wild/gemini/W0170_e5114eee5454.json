@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.6-flash",
+ "provider": "gemini",
+ "raw_text": "{\"vendor\": \"The Cheesecake Factory\", \"date\": \"2016-08-24\", \"subtotal\": 60.3, \"tax\": 5.09, \"tip\": null, \"discount\": -7.95, \"total\": 65.39, \"currency\": \"USD\", \"confidence\": 0.95, \"notes\": null}",
+ "data": {
+  "vendor": "The Cheesecake Factory",
+  "date": "2016-08-24",
+  "subtotal": 60.3,
+  "tax": 5.09,
+  "tip": null,
+  "discount": -7.95,
+  "total": 65.39,
+  "currency": "USD",
+  "confidence": 0.95,
+  "notes": null
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1469,
+  "output_tokens": 86,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.001424,
+ "latency_ms": 1590,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.6-flash",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.6-flash"
+ ],
+ "key": "W0170_e5114eee5454"
+}

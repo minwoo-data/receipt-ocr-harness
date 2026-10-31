@@ -1,0 +1,242 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "(481500-M)",
+  "C W KHOO HARDWARE SDN BHD",
+  "NO.50 , JALAN PBS 14/11 ,",
+  "KAWASANPERINDUSTRIANBUKITSERDANG,",
+  "Tel:03-89410243 Fax:03-89410243",
+  "GST Reg No. : 000549584896",
+  "Tax Invoice",
+  "Invoice No. : CR 1804/1627",
+  "Date :26/04/201812:16:15PM",
+  "Cashier No. :tee",
+  "Counter No. :c2",
+  "Printed Date : 26/04/2018 12:14:49PM",
+  "Item Name Qty. Unit Price Amount",
+  "50MM X3PCSTAKKA'K.A PADLOCK @ SET",
+  "1 80.00 80.00 SR",
+  "1  Item(s) Total (MYR) : 80.00",
+  "GST @ 6% : 4.80",
+  "Net Total (MYR) : 84.80",
+  "Rounding Adj. : 0.00",
+  "Net Total Rounded (MYR) : 84.80",
+  "Cash 84.80",
+  "Change 0.00",
+  "GSTSummary Item Amount(MYR) GST(MYR)",
+  "SR @ 6% 1 80.00 4.80",
+  "Thank You. Please Come Again!"
+ ],
+ "tokens": [
+  {
+   "text": "(481500-M)",
+   "conf": 0.9989057600498199
+  },
+  {
+   "text": "C W KHOO HARDWARE SDN BHD",
+   "conf": 0.9396423029899598
+  },
+  {
+   "text": "NO.50 , JALAN PBS 14/11 ,",
+   "conf": 0.9616513967514038
+  },
+  {
+   "text": "KAWASANPERINDUSTRIANBUKITSERDANG,",
+   "conf": 0.9800645510355631
+  },
+  {
+   "text": "Tel:03-89410243",
+   "conf": 0.9964342077573141
+  },
+  {
+   "text": "Fax:03-89410243",
+   "conf": 0.9922179897626241
+  },
+  {
+   "text": "GST Reg No. : 000549584896",
+   "conf": 0.9600071494395916
+  },
+  {
+   "text": "Tax Invoice",
+   "conf": 0.9735045703974637
+  },
+  {
+   "text": "Invoice No.",
+   "conf": 0.9973376935178583
+  },
+  {
+   "text": ": CR 1804/1627",
+   "conf": 0.9293720935072217
+  },
+  {
+   "text": "Date",
+   "conf": 0.9975891411304474
+  },
+  {
+   "text": ":26/04/201812:16:15PM",
+   "conf": 0.9771522879600525
+  },
+  {
+   "text": "Cashier No.",
+   "conf": 0.9906662106513977
+  },
+  {
+   "text": ":tee",
+   "conf": 0.8883991986513138
+  },
+  {
+   "text": "Counter No.",
+   "conf": 0.9980844909494574
+  },
+  {
+   "text": ":c2",
+   "conf": 0.8513980309168497
+  },
+  {
+   "text": "Printed Date",
+   "conf": 0.9767133990923563
+  },
+  {
+   "text": ": 26/04/2018 12:14:49PM",
+   "conf": 0.9604779274567313
+  },
+  {
+   "text": "Item Name",
+   "conf": 0.9879069526990255
+  },
+  {
+   "text": "Qty.",
+   "conf": 0.9761014133691788
+  },
+  {
+   "text": "Unit Price",
+   "conf": 0.9959066987037659
+  },
+  {
+   "text": "Amount",
+   "conf": 0.9968404769897461
+  },
+  {
+   "text": "50MM X3PCSTAKKA'K.A PADLOCK @ SET",
+   "conf": 0.9207803047064579
+  },
+  {
+   "text": "1",
+   "conf": 0.99775630235672
+  },
+  {
+   "text": "80.00",
+   "conf": 0.9996236085891723
+  },
+  {
+   "text": "80.00 SR",
+   "conf": 0.9967382252216339
+  },
+  {
+   "text": "1  Item(s)",
+   "conf": 0.9460823237895966
+  },
+  {
+   "text": "Total (MYR) :",
+   "conf": 0.95844638806123
+  },
+  {
+   "text": "80.00",
+   "conf": 0.9995892405509949
+  },
+  {
+   "text": "GST @ 6% :",
+   "conf": 0.9473991870880127
+  },
+  {
+   "text": "4.80",
+   "conf": 0.9999082684516907
+  },
+  {
+   "text": "Net Total (MYR) :",
+   "conf": 0.996836921747993
+  },
+  {
+   "text": "84.80",
+   "conf": 0.9998653292655945
+  },
+  {
+   "text": "Rounding Adj. :",
+   "conf": 0.9780352751413981
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9992148876190186
+  },
+  {
+   "text": "Net Total Rounded (MYR) :",
+   "conf": 0.9879674386978149
+  },
+  {
+   "text": "84.80",
+   "conf": 0.9996598482131958
+  },
+  {
+   "text": "Cash",
+   "conf": 0.9990798532962799
+  },
+  {
+   "text": "84.80",
+   "conf": 0.9998592257499694
+  },
+  {
+   "text": "Change",
+   "conf": 0.9972099562486013
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9988795965909958
+  },
+  {
+   "text": "GSTSummary",
+   "conf": 0.9968985199928284
+  },
+  {
+   "text": "Item Amount(MYR)",
+   "conf": 0.9545414000749588
+  },
+  {
+   "text": "GST(MYR)",
+   "conf": 0.9642231613397598
+  },
+  {
+   "text": "SR @ 6%",
+   "conf": 0.9795456954411098
+  },
+  {
+   "text": "1",
+   "conf": 0.9942717552185059
+  },
+  {
+   "text": "80.00",
+   "conf": 0.9993574738502502
+  },
+  {
+   "text": "4.80",
+   "conf": 0.9995762258768082
+  },
+  {
+   "text": "Thank You. Please Come Again!",
+   "conf": 0.9596286148860537
+  }
+ ],
+ "mean_conf": 0.9775,
+ "low_conf_share": 0.0,
+ "latency_ms": 5464,
+ "fields": {
+  "company": "C W KHOO HARDWARE SDN BHD",
+  "date": "2018-04-26",
+  "total": 84.8
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  84.8,
+  84.8
+ ],
+ "key": "X51006349081"
+}

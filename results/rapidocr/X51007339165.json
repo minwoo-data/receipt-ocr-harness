@@ -1,0 +1,281 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "OUALeR",
+  "SANYU STATIONERY SHOP",
+  "NO.31G&33G,JALANSETIAINDAHX,U13/X",
+  "40170SETIAALAM",
+  "Mobile /Whatsapps : +6012-918 7937",
+  "Tel:+603-33624137",
+  "GSTIDNo:001531760640 TAX INVOICE",
+  "Owned By:",
+  "SANYU SUPPLY SDN BHD(1135772-K)",
+  "CASHSALESCOUNTER",
+  "1.5002-0080 WIREO(3:1)DOUBLEWIREA4",
+  "34LOOPS-6.4MM(WHITE)",
+  "6X4.0000 24.00SR",
+  "2.5002-0004 PVC-RIGID SHEETBINDINGCC",
+  "A4",
+  "12X0.8000 9.60 SR",
+  "Total Sales Inclusive GST @6% 33.60",
+  "Discount 0.00",
+  "Total 33.60",
+  "Round Adj 0.00",
+  "Final Total 33.60",
+  "CASH 50.00",
+  "CHANGE 16.40",
+  "GSTSummary Amount(RM) Tax(RM)",
+  "SR @ 6% 31.70 1.90",
+  "INVNO:CS-SA-0127449",
+  "Date: 29/11/2017",
+  "Total Qty: 18",
+  "PrintTime:Wednesday,29November,20174:18:55",
+  "GoodssoldarenotReturnable&Refundable",
+  "THANKYOUFORYOURPATRONAGE",
+  "PLEASECOMEAGAIN.",
+  "TERIMAKASIHSILADATANGLAGI",
+  "**PLEASEKEEPTHISRECEIPTFORPROVEOF",
+  "PURCHASEDATEFORI.TPRODUCTWARRANTY",
+  "PURPOSE **",
+  "Follow usin Facebook:Sanyu.Stationery"
+ ],
+ "tokens": [
+  {
+   "text": "OUALeR",
+   "conf": 0.6727100114027659
+  },
+  {
+   "text": "SANYU STATIONERY SHOP",
+   "conf": 0.9776631764003209
+  },
+  {
+   "text": "NO.31G&33G,JALANSETIAINDAHX,U13/X",
+   "conf": 0.9435827316659869
+  },
+  {
+   "text": "40170SETIAALAM",
+   "conf": 0.9886614211968013
+  },
+  {
+   "text": "Mobile /Whatsapps : +6012-918 7937",
+   "conf": 0.9724200508173775
+  },
+  {
+   "text": "Tel:+603-33624137",
+   "conf": 0.9935958175098195
+  },
+  {
+   "text": "GSTIDNo:001531760640",
+   "conf": 0.9868448376655579
+  },
+  {
+   "text": "TAX INVOICE",
+   "conf": 0.9480678059838035
+  },
+  {
+   "text": "Owned By:",
+   "conf": 0.9348485006226434
+  },
+  {
+   "text": "SANYU SUPPLY SDN BHD(1135772-K)",
+   "conf": 0.9304211658816184
+  },
+  {
+   "text": "CASHSALESCOUNTER",
+   "conf": 0.9871883057057858
+  },
+  {
+   "text": "1.5002-0080",
+   "conf": 0.9984458901665427
+  },
+  {
+   "text": "WIREO(3:1)DOUBLEWIREA4",
+   "conf": 0.9336690252477472
+  },
+  {
+   "text": "34LOOPS-6.4MM(WHITE)",
+   "conf": 0.9360818028450012
+  },
+  {
+   "text": "6X4.0000",
+   "conf": 0.9690357819199562
+  },
+  {
+   "text": "24.00SR",
+   "conf": 0.9990903735160828
+  },
+  {
+   "text": "2.5002-0004",
+   "conf": 0.998706042766571
+  },
+  {
+   "text": "PVC-RIGID SHEETBINDINGCC",
+   "conf": 0.9758835881948471
+  },
+  {
+   "text": "A4",
+   "conf": 0.9981829524040222
+  },
+  {
+   "text": "12X0.8000",
+   "conf": 0.9694859517945184
+  },
+  {
+   "text": "9.60",
+   "conf": 0.9989080876111984
+  },
+  {
+   "text": "SR",
+   "conf": 0.9908562302589417
+  },
+  {
+   "text": "Total Sales Inclusive GST @6%",
+   "conf": 0.9463865962521784
+  },
+  {
+   "text": "33.60",
+   "conf": 0.997928011417389
+  },
+  {
+   "text": "Discount",
+   "conf": 0.9937637746334076
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9990288615226746
+  },
+  {
+   "text": "Total",
+   "conf": 0.9918107032775879
+  },
+  {
+   "text": "33.60",
+   "conf": 0.999439799785614
+  },
+  {
+   "text": "Round Adj",
+   "conf": 0.9539914263619317
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9985951483249664
+  },
+  {
+   "text": "Final Total",
+   "conf": 0.9722123904661699
+  },
+  {
+   "text": "33.60",
+   "conf": 0.9995675921440125
+  },
+  {
+   "text": "CASH",
+   "conf": 0.9922908991575241
+  },
+  {
+   "text": "50.00",
+   "conf": 0.9997369647026062
+  },
+  {
+   "text": "CHANGE",
+   "conf": 0.9883100589116415
+  },
+  {
+   "text": "16.40",
+   "conf": 0.998816704750061
+  },
+  {
+   "text": "GSTSummary",
+   "conf": 0.9928472101688385
+  },
+  {
+   "text": "Amount(RM)",
+   "conf": 0.9886847198009491
+  },
+  {
+   "text": "Tax(RM)",
+   "conf": 0.9512612393924168
+  },
+  {
+   "text": "SR @ 6%",
+   "conf": 0.9506709745952061
+  },
+  {
+   "text": "31.70",
+   "conf": 0.9992157816886902
+  },
+  {
+   "text": "1.90",
+   "conf": 0.9993408769369125
+  },
+  {
+   "text": "INVNO:CS-SA-0127449",
+   "conf": 0.9933354760471144
+  },
+  {
+   "text": "Date:",
+   "conf": 0.9925540924072266
+  },
+  {
+   "text": "29/11/2017",
+   "conf": 0.9996709048748016
+  },
+  {
+   "text": "Total Qty:",
+   "conf": 0.9866569221019745
+  },
+  {
+   "text": "18",
+   "conf": 0.997793972492218
+  },
+  {
+   "text": "PrintTime:Wednesday,29November,20174:18:55",
+   "conf": 0.966758994829087
+  },
+  {
+   "text": "GoodssoldarenotReturnable&Refundable",
+   "conf": 0.990085502465566
+  },
+  {
+   "text": "THANKYOUFORYOURPATRONAGE",
+   "conf": 0.9920691127578417
+  },
+  {
+   "text": "PLEASECOMEAGAIN.",
+   "conf": 0.9814494103193283
+  },
+  {
+   "text": "TERIMAKASIHSILADATANGLAGI",
+   "conf": 0.9767505931854248
+  },
+  {
+   "text": "**PLEASEKEEPTHISRECEIPTFORPROVEOF",
+   "conf": 0.9692282098712344
+  },
+  {
+   "text": "PURCHASEDATEFORI.TPRODUCTWARRANTY",
+   "conf": 0.9846053755644596
+  },
+  {
+   "text": "PURPOSE **",
+   "conf": 0.9511918008327485
+  },
+  {
+   "text": "Follow usin Facebook:Sanyu.Stationery",
+   "conf": 0.9805442046474766
+  }
+ ],
+ "mean_conf": 0.9747,
+ "low_conf_share": 0.0,
+ "latency_ms": 5558,
+ "fields": {
+  "company": "OUALER",
+  "date": "2017-11-29",
+  "total": 33.6
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  33.6
+ ],
+ "key": "X51007339165"
+}

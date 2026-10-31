@@ -1,0 +1,278 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "TEO HENG STATIONERY & BOOKS",
+  "(001451637-M)",
+  "NO.53,JALAN BESAR,45600BATANGBERJUNTAI",
+  "SELANGORDARULEHSAN",
+  "TEL:03-32719872FAX:03-32719481",
+  "GSTNo.:000689913856",
+  "SIMPLIFIEDTAXINVOICE",
+  "CASH",
+  "Receipt No.:CS1801/26821 Date:17/01/2018",
+  "ITEM QTY U/P DISC% AMOUNT (RM)",
+  "9555017370017 28. 7.14 26.00*",
+  "LIONFILE220*307 LAMINATINGFILM",
+  "Total Qty.: 1 26.00",
+  "SUB-TOTAL(EX) 26.00",
+  "TOTALTAX 1.56",
+  "ROUNDING -0.01",
+  "TOTAL 27.55",
+  "CASH AI 127.55",
+  "CHANGE 17JAN2018 0.00",
+  "GSTSUMMARY",
+  "TAXCODE % AMOUNT (RM) (RM) TAX",
+  "SR 6.00 26.00 1.56",
+  "TOTAL: 26.00 1.56",
+  "Note:()Indicated The ItemSold HasBeenRelated",
+  "ToGST(Goods&ServicesTax).",
+  "GOODSSOLDARENOTRETURNABLE",
+  "THANKYOU."
+ ],
+ "tokens": [
+  {
+   "text": "TEO HENG STATIONERY & BOOKS",
+   "conf": 0.9165222998018618
+  },
+  {
+   "text": "(001451637-M)",
+   "conf": 0.9629043569931617
+  },
+  {
+   "text": "NO.53,JALAN BESAR,45600BATANGBERJUNTAI",
+   "conf": 0.902897458327444
+  },
+  {
+   "text": "SELANGORDARULEHSAN",
+   "conf": 0.9911794231997596
+  },
+  {
+   "text": "TEL:03-32719872FAX:03-32719481",
+   "conf": 0.9755282481511434
+  },
+  {
+   "text": "GSTNo.:000689913856",
+   "conf": 0.9816476043901945
+  },
+  {
+   "text": "SIMPLIFIEDTAXINVOICE",
+   "conf": 0.9884655952453614
+  },
+  {
+   "text": "CASH",
+   "conf": 0.9948883205652237
+  },
+  {
+   "text": "Receipt No.:CS1801/26821",
+   "conf": 0.9766793797413508
+  },
+  {
+   "text": "Date:17/01/2018",
+   "conf": 0.9900995135307312
+  },
+  {
+   "text": "ITEM",
+   "conf": 0.9933798015117645
+  },
+  {
+   "text": "QTY",
+   "conf": 0.9812596241633097
+  },
+  {
+   "text": "DISC%",
+   "conf": 0.991814374923706
+  },
+  {
+   "text": "AMOUNT",
+   "conf": 0.9968897501627604
+  },
+  {
+   "text": "U/P",
+   "conf": 0.9879412651062012
+  },
+  {
+   "text": "(RM)",
+   "conf": 0.9689584374427795
+  },
+  {
+   "text": "9555017370017",
+   "conf": 0.9984589035694416
+  },
+  {
+   "text": "28.",
+   "conf": 0.9524234731992086
+  },
+  {
+   "text": "7.14",
+   "conf": 0.993942990899086
+  },
+  {
+   "text": "26.00*",
+   "conf": 0.9336918989817301
+  },
+  {
+   "text": "LIONFILE220*307",
+   "conf": 0.9880957166353862
+  },
+  {
+   "text": "LAMINATINGFILM",
+   "conf": 0.9919944192681994
+  },
+  {
+   "text": "Total Qty.:",
+   "conf": 0.9415256001732566
+  },
+  {
+   "text": "1",
+   "conf": 0.986825168132782
+  },
+  {
+   "text": "26.00",
+   "conf": 0.9989075541496277
+  },
+  {
+   "text": "SUB-TOTAL(EX)",
+   "conf": 0.9778225697003878
+  },
+  {
+   "text": "26.00",
+   "conf": 0.9983304858207702
+  },
+  {
+   "text": "TOTALTAX",
+   "conf": 0.9961683079600334
+  },
+  {
+   "text": "1.56",
+   "conf": 0.9970584213733673
+  },
+  {
+   "text": "ROUNDING",
+   "conf": 0.9923072755336761
+  },
+  {
+   "text": "-0.01",
+   "conf": 0.9896427750587463
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.9958728194236756
+  },
+  {
+   "text": "AI",
+   "conf": 0.8580963611602783
+  },
+  {
+   "text": "27.55",
+   "conf": 0.9993804454803467
+  },
+  {
+   "text": "CASH",
+   "conf": 0.9945085197687149
+  },
+  {
+   "text": "127.55",
+   "conf": 0.9285153249899546
+  },
+  {
+   "text": "CHANGE",
+   "conf": 0.9960444072882334
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9970671236515045
+  },
+  {
+   "text": "17JAN2018",
+   "conf": 0.9488948649830289
+  },
+  {
+   "text": "GSTSUMMARY",
+   "conf": 0.9725357353687286
+  },
+  {
+   "text": "AMOUNT",
+   "conf": 0.996187170346578
+  },
+  {
+   "text": "TAX",
+   "conf": 0.9938260515530905
+  },
+  {
+   "text": "TAXCODE",
+   "conf": 0.9943283455712455
+  },
+  {
+   "text": "%",
+   "conf": 0.6205641627311707
+  },
+  {
+   "text": "(RM)",
+   "conf": 0.9801522940397263
+  },
+  {
+   "text": "(RM)",
+   "conf": 0.9864614307880402
+  },
+  {
+   "text": "SR",
+   "conf": 0.9965202212333679
+  },
+  {
+   "text": "6.00",
+   "conf": 0.9987922608852386
+  },
+  {
+   "text": "26.00",
+   "conf": 0.9992398262023926
+  },
+  {
+   "text": "1.56",
+   "conf": 0.9969792068004608
+  },
+  {
+   "text": "TOTAL:",
+   "conf": 0.9893916845321655
+  },
+  {
+   "text": "26.00",
+   "conf": 0.999159300327301
+  },
+  {
+   "text": "1.56",
+   "conf": 0.9980364739894867
+  },
+  {
+   "text": "Note:()Indicated The ItemSold HasBeenRelated",
+   "conf": 0.9297386543317274
+  },
+  {
+   "text": "ToGST(Goods&ServicesTax).",
+   "conf": 0.9551604461669921
+  },
+  {
+   "text": "GOODSSOLDARENOTRETURNABLE",
+   "conf": 0.9876723766326905
+  },
+  {
+   "text": "THANKYOU.",
+   "conf": 0.9819370839330885
+  }
+ ],
+ "mean_conf": 0.9725,
+ "low_conf_share": 0.0,
+ "latency_ms": 4511,
+ "fields": {
+  "company": "TEO HENG STATIONERY BOOKS",
+  "date": "2018-01-17",
+  "total": 1.56
+ },
+ "rule_reasons": [
+  "total_multiple_keyword_amounts"
+ ],
+ "total_candidates": [
+  27.55,
+  1.56
+ ],
+ "key": "X51005361897"
+}

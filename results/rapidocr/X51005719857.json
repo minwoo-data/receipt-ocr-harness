@@ -1,0 +1,243 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "Salon Du Chocolat",
+  "ALI BABA INTERNATI0NAL SDN BHD(955950-H)",
+  "Publika Shopping Gallery",
+  "Lot 26-27,Leve1 G2.J1n Dutamas 1,",
+  "Solaris Dutamas,50480 KL,",
+  "Tel:+60362112300",
+  "（GST Reg.No:000895864832）",
+  "GUEST CHECK",
+  "Table 11",
+  "Check#:186242 Pax(s):3",
+  "Date ：19-02-201814:19:38",
+  "Cashier:CASHIER",
+  "Description Qty U.price Total TAX",
+  "Mineral Water",
+  "1x 2.50 2.50 SR",
+  "Chocolate Waffle-Half Moon",
+  "1x 17.90 17.90 SR",
+  "Total (Excluding GST): 20.40",
+  "Serv.Charge（10%): 2.04",
+  "GST Payable: 1.35",
+  "Total （Inclusive of GST): 23.79",
+  "Rounding Adj: 0.01",
+  "TOTAL: 23.80",
+  "Closed: 19-02-2018",
+  "Server:CASHIER",
+  "GST Summary Amount(RM) Tax(RM)",
+  "********",
+  "Please Come Again"
+ ],
+ "tokens": [
+  {
+   "text": "Salon Du Chocolat",
+   "conf": 0.9764529501690584
+  },
+  {
+   "text": "ALI BABA INTERNATI0NAL SDN BHD(955950-H)",
+   "conf": 0.9351298034191131
+  },
+  {
+   "text": "Publika Shopping Gallery",
+   "conf": 0.9533782949050268
+  },
+  {
+   "text": "Lot 26-27,Leve1 G2.J1n Dutamas 1,",
+   "conf": 0.9243291688687874
+  },
+  {
+   "text": "Solaris Dutamas,50480 KL,",
+   "conf": 0.9212429308891297
+  },
+  {
+   "text": "Tel:+60362112300",
+   "conf": 0.9909562207758427
+  },
+  {
+   "text": "（GST Reg.No:000895864832）",
+   "conf": 0.9361219120025634
+  },
+  {
+   "text": "GUEST CHECK",
+   "conf": 0.9682961485602639
+  },
+  {
+   "text": "Table 11",
+   "conf": 0.943321943283081
+  },
+  {
+   "text": "Check#:186242",
+   "conf": 0.9683048816827627
+  },
+  {
+   "text": "Pax(s):3",
+   "conf": 0.9252197369933128
+  },
+  {
+   "text": "Date",
+   "conf": 0.9937940537929535
+  },
+  {
+   "text": "：19-02-201814:19:38",
+   "conf": 0.9323752255816209
+  },
+  {
+   "text": "Cashier:CASHIER",
+   "conf": 0.9900895873705546
+  },
+  {
+   "text": "Description",
+   "conf": 0.9954794320193204
+  },
+  {
+   "text": "Qty",
+   "conf": 0.9990843137105306
+  },
+  {
+   "text": "U.price",
+   "conf": 0.9944048694201878
+  },
+  {
+   "text": "Total TAX",
+   "conf": 0.9397446579403348
+  },
+  {
+   "text": "Mineral Water",
+   "conf": 0.9596043137403635
+  },
+  {
+   "text": "1x",
+   "conf": 0.7894656360149384
+  },
+  {
+   "text": "2.50",
+   "conf": 0.9987766444683075
+  },
+  {
+   "text": "2.50",
+   "conf": 0.9993116557598114
+  },
+  {
+   "text": "SR",
+   "conf": 0.9963122010231018
+  },
+  {
+   "text": "Chocolate Waffle-Half Moon",
+   "conf": 0.9435617900811709
+  },
+  {
+   "text": "1x",
+   "conf": 0.7574339210987091
+  },
+  {
+   "text": "17.90",
+   "conf": 0.9998033523559571
+  },
+  {
+   "text": "17.90",
+   "conf": 0.9990800857543946
+  },
+  {
+   "text": "SR",
+   "conf": 0.9965601861476898
+  },
+  {
+   "text": "Total (Excluding GST):",
+   "conf": 0.9318268895149231
+  },
+  {
+   "text": "20.40",
+   "conf": 0.9996381402015686
+  },
+  {
+   "text": "Serv.Charge（10%):",
+   "conf": 0.9340781569480896
+  },
+  {
+   "text": "2.04",
+   "conf": 0.9697909653186798
+  },
+  {
+   "text": "GST Payable:",
+   "conf": 0.9354304571946462
+  },
+  {
+   "text": "1.35",
+   "conf": 0.9976527541875839
+  },
+  {
+   "text": "Total （Inclusive of GST):",
+   "conf": 0.9121997046470642
+  },
+  {
+   "text": "23.79",
+   "conf": 0.9987000584602356
+  },
+  {
+   "text": "Rounding Adj:",
+   "conf": 0.9673484609677241
+  },
+  {
+   "text": "0.01",
+   "conf": 0.9994706064462662
+  },
+  {
+   "text": "TOTAL:",
+   "conf": 0.994930773973465
+  },
+  {
+   "text": "23.80",
+   "conf": 0.9997878551483155
+  },
+  {
+   "text": "Closed:",
+   "conf": 0.9909527131489345
+  },
+  {
+   "text": "19-02-2018",
+   "conf": 0.9968078851699829
+  },
+  {
+   "text": "Server:CASHIER",
+   "conf": 0.9770713533673968
+  },
+  {
+   "text": "GST Summary",
+   "conf": 0.9797374226830222
+  },
+  {
+   "text": "Amount(RM)",
+   "conf": 0.969161081314087
+  },
+  {
+   "text": "Tax(RM)",
+   "conf": 0.9614565372467041
+  },
+  {
+   "text": "********",
+   "conf": 0.8881478905677795
+  },
+  {
+   "text": "Please Come Again",
+   "conf": 0.9501815823947682
+  }
+ ],
+ "mean_conf": 0.96,
+ "low_conf_share": 0.0,
+ "latency_ms": 4154,
+ "fields": {
+  "company": "ALI BABA INTERNATI0NAL SDN BHD",
+  "date": "2018-02-19",
+  "total": 23.8
+ },
+ "rule_reasons": [
+  "total_multiple_keyword_amounts"
+ ],
+ "total_candidates": [
+  23.79,
+  23.8
+ ],
+ "key": "X51005719857"
+}

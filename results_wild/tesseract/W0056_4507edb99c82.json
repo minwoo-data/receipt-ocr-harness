@@ -1,0 +1,778 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "y",
+  "El Borracho",
+  "Harborne Court",
+  "68-67 Harborne Road",
+  "Edgbaston, BIS 3BU",
+  "Tel: 0121 454 6368",
+  "1x CocaconTomate £ 0.00",
+  "1x Coca del Mossen... £ 0.00",
+  "1x Alcachofas a la. 3 6.95",
+  "1x Berenjenas con Miel £ 7,00",
+  "14x Croquetasde Pulpo £ 5.50",
+  "1x Espinacas ala £ 7.50",
+  "1x Fideua Mixta £ 17.00",
+  "1x Chocolate con. £ 5.50",
+  "14x Coulantde Cocolate £ 6.50",
+  "2x Tartade Santiago £ 11.00",
+  "2x 175m Castillo £ 11,00",
+  "1x River Wild Wh. £ 22.00",
+  "1x 330mi Coke £ 2.95",
+  "1x 330ml Sprite CS 2.95",
+  "2x Estrella Galicia 0.0... £ 7.00",
+  "> 1x Half Pint Estrella. £ 2.75",
+  "NS 1x Maeloc Fresa £ 4.25",
+  "3x Pint EstrellaGalicia £ 14.85",
+  "1x Americano £ 2.25",
+  "2x 2Tapasfor£7.50.. £ 15.00",
+  "Item Total £ 161.95",
+  "Discount £) AS:00\" .",
+  "Discount By.",
+  "SORRY",
+  "Total £ 136.95",
+  "_——————————",
+  "Total Paid £ 136.95",
+  "Total Due £ 0.00",
+  "————————",
+  "12:44 Friday 2 Mar 2018",
+  "Table: 8",
+  "‘Order Number: 44076",
+  "Incl of VAT (20.00%) £ 2282",
+  "All tips go to the staff who work here.",
+  "VAT Number:219 0038 37",
+  "Please send us your feedback to"
+ ],
+ "tokens": [
+  {
+   "text": "y",
+   "conf": 0.06
+  },
+  {
+   "text": "El",
+   "conf": 0.61
+  },
+  {
+   "text": "Borracho",
+   "conf": 0.96
+  },
+  {
+   "text": "Harborne",
+   "conf": 0.96
+  },
+  {
+   "text": "Court",
+   "conf": 0.95
+  },
+  {
+   "text": "68-67",
+   "conf": 0.74
+  },
+  {
+   "text": "Harborne",
+   "conf": 0.96
+  },
+  {
+   "text": "Road",
+   "conf": 0.96
+  },
+  {
+   "text": "Edgbaston,",
+   "conf": 0.95
+  },
+  {
+   "text": "BIS",
+   "conf": 0.84
+  },
+  {
+   "text": "3BU",
+   "conf": 0.86
+  },
+  {
+   "text": "Tel:",
+   "conf": 0.82
+  },
+  {
+   "text": "0121",
+   "conf": 0.82
+  },
+  {
+   "text": "454",
+   "conf": 0.94
+  },
+  {
+   "text": "6368",
+   "conf": 0.86
+  },
+  {
+   "text": "1x",
+   "conf": 0.63
+  },
+  {
+   "text": "CocaconTomate",
+   "conf": 0.89
+  },
+  {
+   "text": "£",
+   "conf": 0.92
+  },
+  {
+   "text": "0.00",
+   "conf": 0.96
+  },
+  {
+   "text": "1x",
+   "conf": 0.75
+  },
+  {
+   "text": "Coca",
+   "conf": 0.93
+  },
+  {
+   "text": "del",
+   "conf": 0.93
+  },
+  {
+   "text": "Mossen...",
+   "conf": 0.76
+  },
+  {
+   "text": "£",
+   "conf": 0.92
+  },
+  {
+   "text": "0.00",
+   "conf": 0.96
+  },
+  {
+   "text": "1x",
+   "conf": 0.55
+  },
+  {
+   "text": "Alcachofas",
+   "conf": 0.55
+  },
+  {
+   "text": "a",
+   "conf": 0.92
+  },
+  {
+   "text": "la.",
+   "conf": 0.8
+  },
+  {
+   "text": "3",
+   "conf": 0.48
+  },
+  {
+   "text": "6.95",
+   "conf": 0.95
+  },
+  {
+   "text": "1x",
+   "conf": 0.62
+  },
+  {
+   "text": "Berenjenas",
+   "conf": 0.62
+  },
+  {
+   "text": "con",
+   "conf": 0.93
+  },
+  {
+   "text": "Miel",
+   "conf": 0.91
+  },
+  {
+   "text": "£",
+   "conf": 0.92
+  },
+  {
+   "text": "7,00",
+   "conf": 0.77
+  },
+  {
+   "text": "14x",
+   "conf": 0.83
+  },
+  {
+   "text": "Croquetasde",
+   "conf": 0.84
+  },
+  {
+   "text": "Pulpo",
+   "conf": 0.84
+  },
+  {
+   "text": "£",
+   "conf": 0.88
+  },
+  {
+   "text": "5.50",
+   "conf": 0.83
+  },
+  {
+   "text": "1x",
+   "conf": 0.63
+  },
+  {
+   "text": "Espinacas",
+   "conf": 0.63
+  },
+  {
+   "text": "ala",
+   "conf": 0.8
+  },
+  {
+   "text": "£",
+   "conf": 0.36
+  },
+  {
+   "text": "7.50",
+   "conf": 0.7
+  },
+  {
+   "text": "1x",
+   "conf": 0.68
+  },
+  {
+   "text": "Fideua",
+   "conf": 0.68
+  },
+  {
+   "text": "Mixta",
+   "conf": 0.92
+  },
+  {
+   "text": "£",
+   "conf": 0.93
+  },
+  {
+   "text": "17.00",
+   "conf": 0.96
+  },
+  {
+   "text": "1x",
+   "conf": 0.82
+  },
+  {
+   "text": "Chocolate",
+   "conf": 0.82
+  },
+  {
+   "text": "con.",
+   "conf": 0.95
+  },
+  {
+   "text": "£",
+   "conf": 0.78
+  },
+  {
+   "text": "5.50",
+   "conf": 0.75
+  },
+  {
+   "text": "14x",
+   "conf": 0.74
+  },
+  {
+   "text": "Coulantde",
+   "conf": 0.59
+  },
+  {
+   "text": "Cocolate",
+   "conf": 0.59
+  },
+  {
+   "text": "£",
+   "conf": 0.63
+  },
+  {
+   "text": "6.50",
+   "conf": 0.66
+  },
+  {
+   "text": "2x",
+   "conf": 0.89
+  },
+  {
+   "text": "Tartade",
+   "conf": 0.89
+  },
+  {
+   "text": "Santiago",
+   "conf": 0.87
+  },
+  {
+   "text": "£",
+   "conf": 0.87
+  },
+  {
+   "text": "11.00",
+   "conf": 0.94
+  },
+  {
+   "text": "2x",
+   "conf": 0.75
+  },
+  {
+   "text": "175m",
+   "conf": 0.0
+  },
+  {
+   "text": "Castillo",
+   "conf": 0.95
+  },
+  {
+   "text": "£",
+   "conf": 0.91
+  },
+  {
+   "text": "11,00",
+   "conf": 0.9
+  },
+  {
+   "text": "1x",
+   "conf": 0.56
+  },
+  {
+   "text": "River",
+   "conf": 0.56
+  },
+  {
+   "text": "Wild",
+   "conf": 0.95
+  },
+  {
+   "text": "Wh.",
+   "conf": 0.93
+  },
+  {
+   "text": "£",
+   "conf": 0.91
+  },
+  {
+   "text": "22.00",
+   "conf": 0.87
+  },
+  {
+   "text": "1x",
+   "conf": 0.66
+  },
+  {
+   "text": "330mi",
+   "conf": 0.63
+  },
+  {
+   "text": "Coke",
+   "conf": 0.96
+  },
+  {
+   "text": "£",
+   "conf": 0.89
+  },
+  {
+   "text": "2.95",
+   "conf": 0.94
+  },
+  {
+   "text": "1x",
+   "conf": 0.85
+  },
+  {
+   "text": "330ml",
+   "conf": 0.72
+  },
+  {
+   "text": "Sprite",
+   "conf": 0.96
+  },
+  {
+   "text": "CS",
+   "conf": 0.21
+  },
+  {
+   "text": "2.95",
+   "conf": 0.82
+  },
+  {
+   "text": "2x",
+   "conf": 0.85
+  },
+  {
+   "text": "Estrella",
+   "conf": 0.85
+  },
+  {
+   "text": "Galicia",
+   "conf": 0.9
+  },
+  {
+   "text": "0.0...",
+   "conf": 0.9
+  },
+  {
+   "text": "£",
+   "conf": 0.8
+  },
+  {
+   "text": "7.00",
+   "conf": 0.93
+  },
+  {
+   "text": ">",
+   "conf": 0.71
+  },
+  {
+   "text": "1x",
+   "conf": 0.48
+  },
+  {
+   "text": "Half",
+   "conf": 0.7
+  },
+  {
+   "text": "Pint",
+   "conf": 0.96
+  },
+  {
+   "text": "Estrella.",
+   "conf": 0.7
+  },
+  {
+   "text": "£",
+   "conf": 0.85
+  },
+  {
+   "text": "2.75",
+   "conf": 0.89
+  },
+  {
+   "text": "NS",
+   "conf": 0.07
+  },
+  {
+   "text": "1x",
+   "conf": 0.64
+  },
+  {
+   "text": "Maeloc",
+   "conf": 0.63
+  },
+  {
+   "text": "Fresa",
+   "conf": 0.9
+  },
+  {
+   "text": "£",
+   "conf": 0.61
+  },
+  {
+   "text": "4.25",
+   "conf": 0.92
+  },
+  {
+   "text": "3x",
+   "conf": 0.87
+  },
+  {
+   "text": "Pint",
+   "conf": 0.87
+  },
+  {
+   "text": "EstrellaGalicia",
+   "conf": 0.88
+  },
+  {
+   "text": "£",
+   "conf": 0.88
+  },
+  {
+   "text": "14.85",
+   "conf": 0.75
+  },
+  {
+   "text": "1x",
+   "conf": 0.72
+  },
+  {
+   "text": "Americano",
+   "conf": 0.8
+  },
+  {
+   "text": "£",
+   "conf": 0.9
+  },
+  {
+   "text": "2.25",
+   "conf": 0.93
+  },
+  {
+   "text": "2x",
+   "conf": 0.9
+  },
+  {
+   "text": "2Tapasfor£7.50..",
+   "conf": 0.79
+  },
+  {
+   "text": "£",
+   "conf": 0.87
+  },
+  {
+   "text": "15.00",
+   "conf": 0.93
+  },
+  {
+   "text": "Item",
+   "conf": 0.75
+  },
+  {
+   "text": "Total",
+   "conf": 0.95
+  },
+  {
+   "text": "£",
+   "conf": 0.87
+  },
+  {
+   "text": "161.95",
+   "conf": 0.77
+  },
+  {
+   "text": "Discount",
+   "conf": 0.96
+  },
+  {
+   "text": "£)",
+   "conf": 0.2
+  },
+  {
+   "text": "AS:00\"",
+   "conf": 0.0
+  },
+  {
+   "text": ".",
+   "conf": 0.0
+  },
+  {
+   "text": "Discount",
+   "conf": 0.95
+  },
+  {
+   "text": "By.",
+   "conf": 0.91
+  },
+  {
+   "text": "SORRY",
+   "conf": 0.95
+  },
+  {
+   "text": "Total",
+   "conf": 0.96
+  },
+  {
+   "text": "£",
+   "conf": 0.78
+  },
+  {
+   "text": "136.95",
+   "conf": 0.94
+  },
+  {
+   "text": "_——————————",
+   "conf": 0.02
+  },
+  {
+   "text": "Total",
+   "conf": 0.96
+  },
+  {
+   "text": "Paid",
+   "conf": 0.96
+  },
+  {
+   "text": "£",
+   "conf": 0.92
+  },
+  {
+   "text": "136.95",
+   "conf": 0.95
+  },
+  {
+   "text": "Total",
+   "conf": 0.96
+  },
+  {
+   "text": "Due",
+   "conf": 0.95
+  },
+  {
+   "text": "£",
+   "conf": 0.92
+  },
+  {
+   "text": "0.00",
+   "conf": 0.94
+  },
+  {
+   "text": "————————",
+   "conf": 0.18
+  },
+  {
+   "text": "12:44",
+   "conf": 0.93
+  },
+  {
+   "text": "Friday",
+   "conf": 0.94
+  },
+  {
+   "text": "2",
+   "conf": 0.67
+  },
+  {
+   "text": "Mar",
+   "conf": 0.67
+  },
+  {
+   "text": "2018",
+   "conf": 0.89
+  },
+  {
+   "text": "Table:",
+   "conf": 0.82
+  },
+  {
+   "text": "8",
+   "conf": 0.54
+  },
+  {
+   "text": "‘Order",
+   "conf": 0.83
+  },
+  {
+   "text": "Number:",
+   "conf": 0.95
+  },
+  {
+   "text": "44076",
+   "conf": 0.88
+  },
+  {
+   "text": "Incl",
+   "conf": 0.93
+  },
+  {
+   "text": "of",
+   "conf": 0.93
+  },
+  {
+   "text": "VAT",
+   "conf": 0.96
+  },
+  {
+   "text": "(20.00%)",
+   "conf": 0.86
+  },
+  {
+   "text": "£",
+   "conf": 0.8
+  },
+  {
+   "text": "2282",
+   "conf": 0.76
+  },
+  {
+   "text": "All",
+   "conf": 0.56
+  },
+  {
+   "text": "tips",
+   "conf": 0.56
+  },
+  {
+   "text": "go",
+   "conf": 0.96
+  },
+  {
+   "text": "to",
+   "conf": 0.93
+  },
+  {
+   "text": "the",
+   "conf": 0.96
+  },
+  {
+   "text": "staff",
+   "conf": 0.91
+  },
+  {
+   "text": "who",
+   "conf": 0.96
+  },
+  {
+   "text": "work",
+   "conf": 0.94
+  },
+  {
+   "text": "here.",
+   "conf": 0.93
+  },
+  {
+   "text": "VAT",
+   "conf": 0.93
+  },
+  {
+   "text": "Number:219",
+   "conf": 0.45
+  },
+  {
+   "text": "0038",
+   "conf": 0.88
+  },
+  {
+   "text": "37",
+   "conf": 0.96
+  },
+  {
+   "text": "Please",
+   "conf": 0.95
+  },
+  {
+   "text": "send",
+   "conf": 0.96
+  },
+  {
+   "text": "us",
+   "conf": 0.96
+  },
+  {
+   "text": "your",
+   "conf": 0.96
+  },
+  {
+   "text": "feedback",
+   "conf": 0.94
+  },
+  {
+   "text": "to",
+   "conf": 0.96
+  }
+ ],
+ "mean_conf": 0.7952,
+ "low_conf_share": 0.0726,
+ "latency_ms": 2419,
+ "fields": {
+  "company": "EL BORRACHO",
+  "date": "2018-03-02",
+  "total": 0.0
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  0.0
+ ],
+ "key": "W0056_4507edb99c82"
+}

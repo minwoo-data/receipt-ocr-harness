@@ -1,0 +1,213 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "Car Spa 0017",
+  "3690 Beltline Road",
+  "(972)243-2932",
+  "17-TOUCH2, 05/28/15,06:50 PM",
+  "Shift 1, Empl 6508, Sale #41623648004",
+  "1Mobi11Pk-TX 0.00",
+  "1Spa Supreme-Tx 0.00",
+  "1Spa Sup.Labor-Tx 13.24",
+  "1Spa Sup.Parts-TX 6.75",
+  "1Mobil 1Synth 48.00",
+  "1 Supreme Inspection",
+  "1 Waste Fee 2.00",
+  "1Lube Wash Discount -6.00",
+  "5.80 Mobile 1 0w40 Bt1 10.00",
+  "1PRGD0F:P0F5581 0.00",
+  "1Exp Carpet Clean 39.99",
+  "1 Exp Seat Treat 39.99",
+  "12 Detail Disc -19.99",
+  "1Emissions-OBD 25.50",
+  "1Sticker-ODB 0.00",
+  "Subtotal 159.48",
+  "Sales Tax 5.34",
+  "Total 164.82"
+ ],
+ "tokens": [
+  {
+   "text": "Car Spa 0017",
+   "conf": 0.9595158596833547
+  },
+  {
+   "text": "3690 Beltline Road",
+   "conf": 0.9612951709164513
+  },
+  {
+   "text": "(972)243-2932",
+   "conf": 0.9476264990293063
+  },
+  {
+   "text": "17-TOUCH2,",
+   "conf": 0.9204279780387878
+  },
+  {
+   "text": "05/28/15,06:50 PM",
+   "conf": 0.9574875551111558
+  },
+  {
+   "text": "Shift 1, Empl 6508,",
+   "conf": 0.9241256462900262
+  },
+  {
+   "text": "Sale #41623648004",
+   "conf": 0.9713263476596159
+  },
+  {
+   "text": "1Mobi11Pk-TX",
+   "conf": 0.9409084667762121
+  },
+  {
+   "text": "0.00",
+   "conf": 0.997103214263916
+  },
+  {
+   "text": "1Spa Supreme-Tx",
+   "conf": 0.9514881412188212
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9981054067611694
+  },
+  {
+   "text": "1Spa Sup.Labor-Tx",
+   "conf": 0.9511449056513169
+  },
+  {
+   "text": "13.24",
+   "conf": 0.9968676328659057
+  },
+  {
+   "text": "1Spa Sup.Parts-TX",
+   "conf": 0.9609576113083783
+  },
+  {
+   "text": "6.75",
+   "conf": 0.9974982738494873
+  },
+  {
+   "text": "1Mobil 1Synth",
+   "conf": 0.9398439755806556
+  },
+  {
+   "text": "48.00",
+   "conf": 0.9973385572433472
+  },
+  {
+   "text": "1 Supreme Inspection",
+   "conf": 0.9666676163673401
+  },
+  {
+   "text": "1 Waste Fee",
+   "conf": 0.9368606155568903
+  },
+  {
+   "text": "2.00",
+   "conf": 0.9952239096164703
+  },
+  {
+   "text": "1Lube Wash Discount",
+   "conf": 0.967967594924726
+  },
+  {
+   "text": "-6.00",
+   "conf": 0.990057647228241
+  },
+  {
+   "text": "5.80 Mobile 1 0w40 Bt1",
+   "conf": 0.9040268361568451
+  },
+  {
+   "text": "10.00",
+   "conf": 0.9966375470161438
+  },
+  {
+   "text": "1PRGD0F:P0F5581",
+   "conf": 0.9398196736971537
+  },
+  {
+   "text": "0.00",
+   "conf": 0.997826561331749
+  },
+  {
+   "text": "1Exp Carpet Clean",
+   "conf": 0.9421751429052914
+  },
+  {
+   "text": "39.99",
+   "conf": 0.9982197284698486
+  },
+  {
+   "text": "1 Exp Seat Treat",
+   "conf": 0.9295940175652504
+  },
+  {
+   "text": "39.99",
+   "conf": 0.9978151082992553
+  },
+  {
+   "text": "12 Detail Disc",
+   "conf": 0.9484070496899741
+  },
+  {
+   "text": "-19.99",
+   "conf": 0.9840057293574015
+  },
+  {
+   "text": "1Emissions-OBD",
+   "conf": 0.9574261009693146
+  },
+  {
+   "text": "25.50",
+   "conf": 0.998661458492279
+  },
+  {
+   "text": "1Sticker-ODB",
+   "conf": 0.9686989486217499
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9981553852558136
+  },
+  {
+   "text": "Subtotal",
+   "conf": 0.9935931861400604
+  },
+  {
+   "text": "159.48",
+   "conf": 0.9955925047397614
+  },
+  {
+   "text": "Sales Tax",
+   "conf": 0.9810551471180387
+  },
+  {
+   "text": "5.34",
+   "conf": 0.9970422685146332
+  },
+  {
+   "text": "Total",
+   "conf": 0.9936448097229004
+  },
+  {
+   "text": "164.82",
+   "conf": 0.9975525041421255
+  }
+ ],
+ "mean_conf": 0.9702,
+ "low_conf_share": 0.0,
+ "latency_ms": 3019,
+ "fields": {
+  "company": null,
+  "date": "2015-05-28",
+  "total": 164.82
+ },
+ "rule_reasons": [
+  "company_not_found"
+ ],
+ "total_candidates": [
+  164.82
+ ],
+ "key": "W0178_bfb8d44ce3df"
+}

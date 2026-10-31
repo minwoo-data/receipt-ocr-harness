@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.6-flash",
+ "provider": "gemini",
+ "raw_text": "{\"vendor\":\"SYARIKAT PERNIAGAAN GIN KEE\",\"date\":\"2018-01-27\",\"subtotal\":21.00,\"tax\":1.26,\"tip\":null,\"discount\":0.00,\"total\":22.26,\"currency\":\"MYR\",\"confidence\":0.98,\"notes\":null}",
+ "data": {
+  "vendor": "SYARIKAT PERNIAGAAN GIN KEE",
+  "date": "2018-01-27",
+  "subtotal": 21.0,
+  "tax": 1.26,
+  "tip": null,
+  "discount": 0.0,
+  "total": 22.26,
+  "currency": "MYR",
+  "confidence": 0.98,
+  "notes": null
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1450,
+  "output_tokens": 80,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.001388,
+ "latency_ms": 1710,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.6-flash",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.6-flash"
+ ],
+ "key": "X51005677336"
+}

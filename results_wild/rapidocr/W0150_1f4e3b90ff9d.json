@@ -1,0 +1,209 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "Caltex CentralMyrtleford",
+  "158Myrtle St.",
+  "*Indicates GST fnclusive item",
+  "ABN80122660833",
+  ">>>>>>>>>>>>>Taxinvice<<<<<<<<<<<<<",
+  "01VORTEX9848.421@1.599$77.43*",
+  "Total includes GST 77.43",
+  "Anex $ 77.43",
+  "10.00%GST $ 7.04",
+  "PAN 376763......002",
+  "Account Type CREDIT",
+  "CAIC 811000123362260",
+  "TerainalID 03622600",
+  "Trans Type PURCHASE TRANSACTION",
+  "EFT Trans No 044844",
+  "24/01/2012 17:53",
+  "AUTHORISATION ID 000015",
+  "PURCHASE AU$77.43",
+  "TOTAL AUS77.43",
+  "SIGNATURE ACCEPTED",
+  "AMEXCARD",
+  "Date TimeNunPOS CNo PSNo",
+  "24/01/1217:5374705010007351",
+  "Thank you for shopping at CaTtex",
+  "Pleasecallagain"
+ ],
+ "tokens": [
+  {
+   "text": "Caltex CentralMyrtleford",
+   "conf": 0.9616275603572527
+  },
+  {
+   "text": "158Myrtle St.",
+   "conf": 0.9625585262592022
+  },
+  {
+   "text": "*Indicates GST fnclusive item",
+   "conf": 0.9199736837683052
+  },
+  {
+   "text": "ABN80122660833",
+   "conf": 0.9977788840021405
+  },
+  {
+   "text": ">>>>>>>>>>>>>Taxinvice<<<<<<<<<<<<<",
+   "conf": 0.8044010775429862
+  },
+  {
+   "text": "01VORTEX9848.421@1.599$77.43*",
+   "conf": 0.9180797564572302
+  },
+  {
+   "text": "Total includes GST",
+   "conf": 0.9097674853271909
+  },
+  {
+   "text": "77.43",
+   "conf": 0.9949115991592408
+  },
+  {
+   "text": "Anex",
+   "conf": 0.9179313778877258
+  },
+  {
+   "text": "$",
+   "conf": 0.9449911713600159
+  },
+  {
+   "text": "77.43",
+   "conf": 0.9945863962173462
+  },
+  {
+   "text": "10.00%GST",
+   "conf": 0.9553642339176602
+  },
+  {
+   "text": "$",
+   "conf": 0.5923652052879333
+  },
+  {
+   "text": "7.04",
+   "conf": 0.9865967929363251
+  },
+  {
+   "text": "PAN",
+   "conf": 0.9935708045959473
+  },
+  {
+   "text": "376763......002",
+   "conf": 0.8574395418167114
+  },
+  {
+   "text": "Account Type",
+   "conf": 0.9481505354245504
+  },
+  {
+   "text": "CREDIT",
+   "conf": 0.9852229356765747
+  },
+  {
+   "text": "CAIC",
+   "conf": 0.988231435418129
+  },
+  {
+   "text": "811000123362260",
+   "conf": 0.9756715456644695
+  },
+  {
+   "text": "TerainalID",
+   "conf": 0.8744885444641113
+  },
+  {
+   "text": "03622600",
+   "conf": 0.9921782314777374
+  },
+  {
+   "text": "Trans Type",
+   "conf": 0.9459880113601684
+  },
+  {
+   "text": "PURCHASE TRANSACTION",
+   "conf": 0.974140864610672
+  },
+  {
+   "text": "EFT Trans No",
+   "conf": 0.9274347126483917
+  },
+  {
+   "text": "044844",
+   "conf": 0.9953021804491679
+  },
+  {
+   "text": "24/01/2012",
+   "conf": 0.9980457246303558
+  },
+  {
+   "text": "17:53",
+   "conf": 0.9808131575584411
+  },
+  {
+   "text": "AUTHORISATION ID",
+   "conf": 0.9881966672837734
+  },
+  {
+   "text": "000015",
+   "conf": 0.9977372586727142
+  },
+  {
+   "text": "PURCHASE",
+   "conf": 0.9113987572491169
+  },
+  {
+   "text": "AU$77.43",
+   "conf": 0.8824004903435707
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.9929218411445617
+  },
+  {
+   "text": "AUS77.43",
+   "conf": 0.92315474152565
+  },
+  {
+   "text": "SIGNATURE ACCEPTED",
+   "conf": 0.9820937580532498
+  },
+  {
+   "text": "AMEXCARD",
+   "conf": 0.9792112186551094
+  },
+  {
+   "text": "Date",
+   "conf": 0.9900962859392166
+  },
+  {
+   "text": "TimeNunPOS CNo PSNo",
+   "conf": 0.8834542287023444
+  },
+  {
+   "text": "24/01/1217:5374705010007351",
+   "conf": 0.995057068489216
+  },
+  {
+   "text": "Thank you for shopping at CaTtex",
+   "conf": 0.9172361120581627
+  },
+  {
+   "text": "Pleasecallagain",
+   "conf": 0.9323779781659444
+  }
+ ],
+ "mean_conf": 0.9432,
+ "low_conf_share": 0.0,
+ "latency_ms": 3854,
+ "fields": {
+  "company": "CALTEX CENTRALMYRTLEFORD",
+  "date": "2012-01-24",
+  "total": 77.43
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  77.43
+ ],
+ "key": "W0150_1f4e3b90ff9d"
+}

@@ -1,0 +1,121 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "<P !",
+  "Kar",
+  "OBNTRAL",
+  "10%",
+  "TL +297.00",
+  "CASH 297.00",
+  "DUDAILY OPENING HouRS",
+  "iii 3PH | Gem - 11M",
+  "PHANK You",
+  "SOME AGATN"
+ ],
+ "tokens": [
+  {
+   "text": "<P",
+   "conf": 0.25
+  },
+  {
+   "text": "!",
+   "conf": 0.0
+  },
+  {
+   "text": "Kar",
+   "conf": 0.36
+  },
+  {
+   "text": "OBNTRAL",
+   "conf": 0.11
+  },
+  {
+   "text": "10%",
+   "conf": 0.76
+  },
+  {
+   "text": "TL",
+   "conf": 0.42
+  },
+  {
+   "text": "+297.00",
+   "conf": 0.05
+  },
+  {
+   "text": "CASH",
+   "conf": 0.22
+  },
+  {
+   "text": "297.00",
+   "conf": 0.69
+  },
+  {
+   "text": "DUDAILY",
+   "conf": 0.0
+  },
+  {
+   "text": "OPENING",
+   "conf": 0.83
+  },
+  {
+   "text": "HouRS",
+   "conf": 0.59
+  },
+  {
+   "text": "iii",
+   "conf": 0.14
+  },
+  {
+   "text": "3PH",
+   "conf": 0.0
+  },
+  {
+   "text": "|",
+   "conf": 0.52
+  },
+  {
+   "text": "Gem",
+   "conf": 0.27
+  },
+  {
+   "text": "-",
+   "conf": 0.08
+  },
+  {
+   "text": "11M",
+   "conf": 0.35
+  },
+  {
+   "text": "PHANK",
+   "conf": 0.67
+  },
+  {
+   "text": "You",
+   "conf": 0.94
+  },
+  {
+   "text": "SOME",
+   "conf": 0.38
+  },
+  {
+   "text": "AGATN",
+   "conf": 0.82
+  }
+ ],
+ "mean_conf": 0.3841,
+ "low_conf_share": 0.6364,
+ "latency_ms": 392,
+ "fields": {
+  "company": "KAR",
+  "date": null,
+  "total": 297.0
+ },
+ "rule_reasons": [
+  "date_not_found",
+  "total_no_keyword_fallback_max"
+ ],
+ "total_candidates": [
+  297.0
+ ],
+ "key": "W0013_2018"
+}

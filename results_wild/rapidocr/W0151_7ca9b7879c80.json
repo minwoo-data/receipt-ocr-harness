@@ -1,0 +1,106 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "Mobilestop",
+  "City Square Mall",
+  "180 Kitchener Road #04-30",
+  "Singapore 208539",
+  "Receipt No:00023194",
+  "Mono MFI Cable 28.00",
+  "SUBTOTAL 28.00",
+  "TOTAL 28.00",
+  "NETS SG$ 28.00",
+  "Item Qty:1 Svc Qty:0",
+  "Term:1 No:0000005 Cs:1",
+  "Date:Ju1~28-2015 12:58 PM"
+ ],
+ "tokens": [
+  {
+   "text": "Mobilestop",
+   "conf": 0.9512104034423828
+  },
+  {
+   "text": "City Square Mall",
+   "conf": 0.9512407407164574
+  },
+  {
+   "text": "180 Kitchener Road #04-30",
+   "conf": 0.9453704667091369
+  },
+  {
+   "text": "Singapore 208539",
+   "conf": 0.9671105146408081
+  },
+  {
+   "text": "Receipt No:00023194",
+   "conf": 0.9663762638443395
+  },
+  {
+   "text": "28.00",
+   "conf": 0.999695086479187
+  },
+  {
+   "text": "Mono MFI Cable",
+   "conf": 0.9760400397436959
+  },
+  {
+   "text": "28.00",
+   "conf": 0.9995968580245972
+  },
+  {
+   "text": "SUBTOTAL",
+   "conf": 0.983661063015461
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.9957244873046875
+  },
+  {
+   "text": "28.00",
+   "conf": 0.9974541664123535
+  },
+  {
+   "text": "28.00",
+   "conf": 0.9997352123260498
+  },
+  {
+   "text": "NETS SG$",
+   "conf": 0.9751675352454185
+  },
+  {
+   "text": "Svc Qty:0",
+   "conf": 0.9546897411346436
+  },
+  {
+   "text": "Item Qty:1",
+   "conf": 0.9709367036819458
+  },
+  {
+   "text": "Cs:1",
+   "conf": 0.9803676903247833
+  },
+  {
+   "text": "Term:1 No:0000005",
+   "conf": 0.9766634141697603
+  },
+  {
+   "text": "Date:Ju1~28-2015 12:58 PM",
+   "conf": 0.9243251287937164
+  }
+ ],
+ "mean_conf": 0.9731,
+ "low_conf_share": 0.0,
+ "latency_ms": 2878,
+ "fields": {
+  "company": "MOBILESTOP",
+  "date": null,
+  "total": 28.0
+ },
+ "rule_reasons": [
+  "date_not_found"
+ ],
+ "total_candidates": [
+  28.0
+ ],
+ "key": "W0151_7ca9b7879c80"
+}

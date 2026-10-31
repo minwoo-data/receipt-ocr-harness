@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.6-flash",
+ "provider": "gemini",
+ "raw_text": "{\"vendor\": \"DI HUAN YA RESTAURANT\", \"date\": \"2018-04-07\", \"subtotal\": 33.0, \"tax\": 1.98, \"tip\": null, \"discount\": null, \"total\": 35.0, \"currency\": \"MYR\", \"confidence\": 0.95, \"notes\": \"Rounding adjustment of 0.02 applied to total.\"}",
+ "data": {
+  "vendor": "DI HUAN YA RESTAURANT",
+  "date": "2018-04-07",
+  "subtotal": 33.0,
+  "tax": 1.98,
+  "tip": null,
+  "discount": null,
+  "total": 35.0,
+  "currency": "MYR",
+  "confidence": 0.95,
+  "notes": "Rounding adjustment of 0.02 applied to total."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1461,
+  "output_tokens": 98,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.001463,
+ "latency_ms": 2193,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.6-flash",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.6-flash"
+ ],
+ "key": "X51006414392"
+}

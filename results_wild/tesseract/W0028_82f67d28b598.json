@@ -1,0 +1,261 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "WH PANG gaNDWICH SHOP",
+  "at bs 12 St, NeW ORE ny 10003",
+  "per s(2t2y250-32\"1",
+  "xre og/t9/2012 Tue TINE 10:24",
+  "ATETSH SANDWICH $9.00",
+  "BELLY $8.70",
+  "TAKE OUT 30.00",
+  "vor ae :",
+  "TAKE OUT",
+  "TOTAL sr",
+  "CASH Ho",
+  "CHANGE ys",
+  "ee ORDERS 0011 $# B",
+  "ye. CAN CATER YOUR NEXT PARTY",
+  "INQUIRE WITHIN :",
+  "ys AT HiAMMeeGNYC COM"
+ ],
+ "tokens": [
+  {
+   "text": "WH",
+   "conf": 0.52
+  },
+  {
+   "text": "PANG",
+   "conf": 0.9
+  },
+  {
+   "text": "gaNDWICH",
+   "conf": 0.08
+  },
+  {
+   "text": "SHOP",
+   "conf": 0.71
+  },
+  {
+   "text": "at",
+   "conf": 0.32
+  },
+  {
+   "text": "bs",
+   "conf": 0.35
+  },
+  {
+   "text": "12",
+   "conf": 0.55
+  },
+  {
+   "text": "St,",
+   "conf": 0.62
+  },
+  {
+   "text": "NeW",
+   "conf": 0.28
+  },
+  {
+   "text": "ORE",
+   "conf": 0.39
+  },
+  {
+   "text": "ny",
+   "conf": 0.56
+  },
+  {
+   "text": "10003",
+   "conf": 0.72
+  },
+  {
+   "text": "per",
+   "conf": 0.34
+  },
+  {
+   "text": "s(2t2y250-32\"1",
+   "conf": 0.0
+  },
+  {
+   "text": "xre",
+   "conf": 0.15
+  },
+  {
+   "text": "og/t9/2012",
+   "conf": 0.0
+  },
+  {
+   "text": "Tue",
+   "conf": 0.41
+  },
+  {
+   "text": "TINE",
+   "conf": 0.41
+  },
+  {
+   "text": "10:24",
+   "conf": 0.91
+  },
+  {
+   "text": "ATETSH",
+   "conf": 0.08
+  },
+  {
+   "text": "SANDWICH",
+   "conf": 0.32
+  },
+  {
+   "text": "$9.00",
+   "conf": 0.84
+  },
+  {
+   "text": "BELLY",
+   "conf": 0.77
+  },
+  {
+   "text": "$8.70",
+   "conf": 0.69
+  },
+  {
+   "text": "TAKE",
+   "conf": 0.61
+  },
+  {
+   "text": "OUT",
+   "conf": 0.94
+  },
+  {
+   "text": "30.00",
+   "conf": 0.79
+  },
+  {
+   "text": "vor",
+   "conf": 0.0
+  },
+  {
+   "text": "ae",
+   "conf": 0.15
+  },
+  {
+   "text": ":",
+   "conf": 0.0
+  },
+  {
+   "text": "TAKE",
+   "conf": 0.51
+  },
+  {
+   "text": "OUT",
+   "conf": 0.95
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.84
+  },
+  {
+   "text": "sr",
+   "conf": 0.05
+  },
+  {
+   "text": "CASH",
+   "conf": 0.37
+  },
+  {
+   "text": "Ho",
+   "conf": 0.27
+  },
+  {
+   "text": "CHANGE",
+   "conf": 0.77
+  },
+  {
+   "text": "ys",
+   "conf": 0.34
+  },
+  {
+   "text": "ee",
+   "conf": 0.54
+  },
+  {
+   "text": "ORDERS",
+   "conf": 0.41
+  },
+  {
+   "text": "0011",
+   "conf": 0.78
+  },
+  {
+   "text": "$#",
+   "conf": 0.02
+  },
+  {
+   "text": "B",
+   "conf": 0.0
+  },
+  {
+   "text": "ye.",
+   "conf": 0.4
+  },
+  {
+   "text": "CAN",
+   "conf": 0.66
+  },
+  {
+   "text": "CATER",
+   "conf": 0.66
+  },
+  {
+   "text": "YOUR",
+   "conf": 0.88
+  },
+  {
+   "text": "NEXT",
+   "conf": 0.67
+  },
+  {
+   "text": "PARTY",
+   "conf": 0.67
+  },
+  {
+   "text": "INQUIRE",
+   "conf": 0.5
+  },
+  {
+   "text": "WITHIN",
+   "conf": 0.88
+  },
+  {
+   "text": ":",
+   "conf": 0.69
+  },
+  {
+   "text": "ys",
+   "conf": 0.38
+  },
+  {
+   "text": "AT",
+   "conf": 0.65
+  },
+  {
+   "text": "HiAMMeeGNYC",
+   "conf": 0.0
+  },
+  {
+   "text": "COM",
+   "conf": 0.52
+  }
+ ],
+ "mean_conf": 0.4789,
+ "low_conf_share": 0.4643,
+ "latency_ms": 301,
+ "fields": {
+  "company": "WH PANG GANDWICH SHOP",
+  "date": null,
+  "total": null
+ },
+ "rule_reasons": [
+  "date_not_found",
+  "total_not_found"
+ ],
+ "total_candidates": [],
+ "key": "W0028_82f67d28b598"
+}

@@ -1,0 +1,239 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "CuriousPalette",
+  "GSTRegNo:201135411E",
+  "64Prinsep Street",
+  "Singapore 188667",
+  "TABLE:18",
+  "Pax:8 OP:Wynna Wynna",
+  "POS Title:Cashier POS:POS001",
+  "Rcpt#:A16000001705 16/01/201615:29",
+  "Flat White $4.90",
+  "Pina Colada Sangria Tea Tea $7.50 $7.50",
+  "Iced Mocha 069$",
+  "Ricotta Hotcake $14.90",
+  "Lavender Manjari 0085",
+  "Matcha Azuki $8.50",
+  "Spam Fries $11.90",
+  "Iced Mocha $6.90",
+  "Cafe Mocha $5.50",
+  "1Nachos Con Carne $12.90",
+  "SUBTOTAL $95.40",
+  "10%SvrChrg 6",
+  "7%GST $7.35",
+  "TOTAL $112.29",
+  "Thankyou",
+  "See you again!",
+  "家家家家家家寒",
+  "PreSettlement Bill Copy:",
+  "16/01/201617:17"
+ ],
+ "tokens": [
+  {
+   "text": "CuriousPalette",
+   "conf": 0.993393429688045
+  },
+  {
+   "text": "GSTRegNo:201135411E",
+   "conf": 0.9641740259371305
+  },
+  {
+   "text": "64Prinsep Street",
+   "conf": 0.967197097837925
+  },
+  {
+   "text": "Singapore 188667",
+   "conf": 0.9664936438202858
+  },
+  {
+   "text": "TABLE:18",
+   "conf": 0.9712097123265266
+  },
+  {
+   "text": "Pax:8",
+   "conf": 0.9572088122367859
+  },
+  {
+   "text": "OP:Wynna",
+   "conf": 0.9579428508877754
+  },
+  {
+   "text": "Wynna",
+   "conf": 0.9516584396362304
+  },
+  {
+   "text": "POS Title:Cashier",
+   "conf": 0.9543722201796139
+  },
+  {
+   "text": "POS:POS001",
+   "conf": 0.9625588119029999
+  },
+  {
+   "text": "Rcpt#:A16000001705",
+   "conf": 0.9804378383689456
+  },
+  {
+   "text": "16/01/201615:29",
+   "conf": 0.9882681409517924
+  },
+  {
+   "text": "Flat White",
+   "conf": 0.9513259649276733
+  },
+  {
+   "text": "$4.90",
+   "conf": 0.9956532955169678
+  },
+  {
+   "text": "Pina Colada",
+   "conf": 0.9654948169534857
+  },
+  {
+   "text": "Tea",
+   "conf": 0.9899087349573771
+  },
+  {
+   "text": "$7.50",
+   "conf": 0.9974741578102112
+  },
+  {
+   "text": "Sangria Tea",
+   "conf": 0.9414871335029602
+  },
+  {
+   "text": "$7.50",
+   "conf": 0.9972272753715515
+  },
+  {
+   "text": "Iced Mocha",
+   "conf": 0.971943199634552
+  },
+  {
+   "text": "069$",
+   "conf": 0.8117292895913124
+  },
+  {
+   "text": "Ricotta Hotcake",
+   "conf": 0.9908990462621053
+  },
+  {
+   "text": "$14.90",
+   "conf": 0.9956288039684296
+  },
+  {
+   "text": "Lavender Manjari",
+   "conf": 0.9688594192266464
+  },
+  {
+   "text": "0085",
+   "conf": 0.7989059537649155
+  },
+  {
+   "text": "Matcha Azuki",
+   "conf": 0.9711259007453918
+  },
+  {
+   "text": "$8.50",
+   "conf": 0.9967508435249328
+  },
+  {
+   "text": "Spam Fries",
+   "conf": 0.9532338380813599
+  },
+  {
+   "text": "$11.90",
+   "conf": 0.9962142705917358
+  },
+  {
+   "text": "Iced Mocha",
+   "conf": 0.9566554009914399
+  },
+  {
+   "text": "$6.90",
+   "conf": 0.9937628626823425
+  },
+  {
+   "text": "Cafe Mocha",
+   "conf": 0.9630054235458374
+  },
+  {
+   "text": "$5.50",
+   "conf": 0.9893308877944946
+  },
+  {
+   "text": "1Nachos Con Carne",
+   "conf": 0.9685558711781221
+  },
+  {
+   "text": "$12.90",
+   "conf": 0.99738077322642
+  },
+  {
+   "text": "SUBTOTAL",
+   "conf": 0.9934112504124641
+  },
+  {
+   "text": "$95.40",
+   "conf": 0.998209128777186
+  },
+  {
+   "text": "10%SvrChrg",
+   "conf": 0.9917072653770447
+  },
+  {
+   "text": "6",
+   "conf": 0.754131555557251
+  },
+  {
+   "text": "7%GST",
+   "conf": 0.9964921832084656
+  },
+  {
+   "text": "$7.35",
+   "conf": 0.9962586879730224
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.9954941272735596
+  },
+  {
+   "text": "$112.29",
+   "conf": 0.998222359589168
+  },
+  {
+   "text": "Thankyou",
+   "conf": 0.9950268566608429
+  },
+  {
+   "text": "See you again!",
+   "conf": 0.9216526448726654
+  },
+  {
+   "text": "家家家家家家寒",
+   "conf": 0.552937239408493
+  },
+  {
+   "text": "PreSettlement Bill Copy:",
+   "conf": 0.9426482245326042
+  },
+  {
+   "text": "16/01/201617:17",
+   "conf": 0.976400891939799
+  }
+ ],
+ "mean_conf": 0.956,
+ "low_conf_share": 0.0,
+ "latency_ms": 3092,
+ "fields": {
+  "company": "CURIOUSPALETTE",
+  "date": "2016-01-16",
+  "total": 112.29
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  112.29
+ ],
+ "key": "W0062_5ceff02beae5"
+}

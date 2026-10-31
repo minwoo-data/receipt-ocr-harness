@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.1-flash-lite",
+ "provider": "gemini",
+ "raw_text": "{\n  \"vendor\": \"IKANO HANDEL SDN BHD\",\n  \"date\": \"2018-04-25\",\n  \"subtotal\": 20.75,\n  \"tax\": 1.25,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 22.00,\n  \"currency\": \"MYR\",\n  \"confidence\": 0.98,\n  \"notes\": null\n}",
+ "data": {
+  "vendor": "IKANO HANDEL SDN BHD",
+  "date": "2018-04-25",
+  "subtotal": 20.75,
+  "tax": 1.25,
+  "tip": null,
+  "discount": null,
+  "total": 22.0,
+  "currency": "MYR",
+  "confidence": 0.98,
+  "notes": null
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1447,
+  "output_tokens": 110,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.000527,
+ "latency_ms": 2884,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.1-flash-lite",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.1-flash-lite"
+ ],
+ "key": "X51005889296"
+}

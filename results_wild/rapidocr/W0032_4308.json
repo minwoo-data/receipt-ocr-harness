@@ -1,0 +1,137 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "UDDRUCKERS",
+  "DINE ASHLEY G 0459 IN SvrCk: 39 7:40p07/27/11",
+  "COUNTER-",
+  "NACHos,loaded chx nachos, add 1/3patty",
+  "NAME,JIM 8.49",
+  "Sub Total: 8.49",
+  "Tax 0.70",
+  "07/277:41pTOTAL: 9.19",
+  "FUDDS PRIME",
+  "find out more at",
+  "www.fuddsprime.com",
+  "****************************************",
+  "Win a $loo Gift Card!",
+  "One Winner Every Month !!!",
+  "Follow These Simple Steps:"
+ ],
+ "tokens": [
+  {
+   "text": "UDDRUCKERS",
+   "conf": 0.9560520887374878
+  },
+  {
+   "text": "0459",
+   "conf": 0.997970387339592
+  },
+  {
+   "text": "ASHLEY G",
+   "conf": 0.9393368884921074
+  },
+  {
+   "text": "SvrCk: 39",
+   "conf": 0.84348597129186
+  },
+  {
+   "text": "7:40p07/27/11",
+   "conf": 0.9713719808138334
+  },
+  {
+   "text": "DINE",
+   "conf": 0.9840002954006195
+  },
+  {
+   "text": "IN",
+   "conf": 0.9650827944278717
+  },
+  {
+   "text": "COUNTER-",
+   "conf": 0.978240579366684
+  },
+  {
+   "text": "NACHos,loaded chx nachos,",
+   "conf": 0.8914487934112549
+  },
+  {
+   "text": "add 1/3patty",
+   "conf": 0.9495315551757812
+  },
+  {
+   "text": "NAME,JIM",
+   "conf": 0.9465849176049232
+  },
+  {
+   "text": "8.49",
+   "conf": 0.9954181611537933
+  },
+  {
+   "text": "Sub Total:",
+   "conf": 0.9754721641540527
+  },
+  {
+   "text": "8.49",
+   "conf": 0.9969867914915085
+  },
+  {
+   "text": "Tax",
+   "conf": 0.9796561797459921
+  },
+  {
+   "text": "0.70",
+   "conf": 0.9988443851470947
+  },
+  {
+   "text": "07/277:41pTOTAL:",
+   "conf": 0.934625705704093
+  },
+  {
+   "text": "9.19",
+   "conf": 0.9980807453393936
+  },
+  {
+   "text": "FUDDS PRIME",
+   "conf": 0.9685427275570956
+  },
+  {
+   "text": "find out more at",
+   "conf": 0.955528762191534
+  },
+  {
+   "text": "www.fuddsprime.com",
+   "conf": 0.9476230707433488
+  },
+  {
+   "text": "****************************************",
+   "conf": 0.9426430210471153
+  },
+  {
+   "text": "Win a $loo Gift Card!",
+   "conf": 0.8564970223676591
+  },
+  {
+   "text": "One Winner Every Month !!!",
+   "conf": 0.9347634017467499
+  },
+  {
+   "text": "Follow These Simple Steps:",
+   "conf": 0.9638062532131488
+  }
+ ],
+ "mean_conf": 0.9549,
+ "low_conf_share": 0.0,
+ "latency_ms": 4645,
+ "fields": {
+  "company": "UDDRUCKERS",
+  "date": "2011-07-27",
+  "total": 9.19
+ },
+ "rule_reasons": [
+  "total_no_keyword_fallback_max"
+ ],
+ "total_candidates": [
+  9.19
+ ],
+ "key": "W0032_4308"
+}

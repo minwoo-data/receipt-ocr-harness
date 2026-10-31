@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.1-flash-lite",
+ "provider": "gemini",
+ "raw_text": "{\n  \"vendor\": \"CANADIAN TIRE\",\n  \"date\": \"2014-06-22\",\n  \"subtotal\": 33.79,\n  \"tax\": 5.06,\n  \"tip\": null,\n  \"discount\": -18.20,\n  \"total\": 38.85,\n  \"currency\": \"CAD\",\n  \"confidence\": 0.98,\n  \"notes\": \"The discount of 18.20 is listed as (RABAIS $ 18.20).\"\n}",
+ "data": {
+  "vendor": "CANADIAN TIRE",
+  "date": "2014-06-22",
+  "subtotal": 33.79,
+  "tax": 5.06,
+  "tip": null,
+  "discount": -18.2,
+  "total": 38.85,
+  "currency": "CAD",
+  "confidence": 0.98,
+  "notes": "The discount of 18.20 is listed as (RABAIS $ 18.20)."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1433,
+  "output_tokens": 135,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.000561,
+ "latency_ms": 2684,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.1-flash-lite",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.1-flash-lite"
+ ],
+ "key": "W0168_067301325dea"
+}

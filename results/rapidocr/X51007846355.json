@@ -1,0 +1,242 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "AEON C0.(M) BHD (126926-H)",
+  "3RD FLR，AEON TAMAN MALURI SC",
+  "JLN JEJAKA,TAMAN MALURI",
+  "CHERAS,55100KUALA LUMPUR",
+  "GST ID : 002017394688",
+  "SHOPPING HOURS",
+  "SUN-THU:1000 HRS- 2200 HRS",
+  "FRI-SAT:1000 HRS~2300HRS",
+  "1x 000000416405 2.83SR",
+  "SAKURA WALNUT B",
+  "1x 000000416993 6.13SR",
+  "GRAIN&SEEDSB",
+  "Sub-total 8.96",
+  "Total Sales Incl GST 8.96",
+  "Rounding Adj -0.01",
+  "Total After Adj Incl GST 8.95",
+  "CASH 50.00",
+  "Item Count 2 Change Amt 41.05",
+  "Invoice No:2018061710130220258",
+  "GST Summary Amount Tax",
+  "SR @ 0% 8.96 0.00",
+  "Total 8.96 0.00",
+  "17/06/2018 18:35 1013 022 0220258",
+  "0305103 NORSUHAILA BINTI ABD RASHID",
+  "AEON Stamps Loyalty Program\"Product(s)\"",
+  "sold areneitherexchangeablenor",
+  "refundable",
+  "AEON TEBRAU CITY",
+  "TEL1-300-80-AE0N(2366)",
+  "THANK YOUFORYOURPATRONAGE",
+  "PLEASE COME AGAIN"
+ ],
+ "tokens": [
+  {
+   "text": "AEON C0.(M) BHD (126926-H)",
+   "conf": 0.914425416634633
+  },
+  {
+   "text": "3RD FLR，AEON TAMAN MALURI SC",
+   "conf": 0.948630656514849
+  },
+  {
+   "text": "JLN JEJAKA,TAMAN MALURI",
+   "conf": 0.9664811025495115
+  },
+  {
+   "text": "CHERAS,55100KUALA LUMPUR",
+   "conf": 0.956956297159195
+  },
+  {
+   "text": "GST ID : 002017394688",
+   "conf": 0.9553154621805463
+  },
+  {
+   "text": "SHOPPING HOURS",
+   "conf": 0.9907127703939166
+  },
+  {
+   "text": "SUN-THU:1000 HRS- 2200 HRS",
+   "conf": 0.9589581764661349
+  },
+  {
+   "text": "FRI-SAT:1000 HRS~2300HRS",
+   "conf": 0.9630760053793589
+  },
+  {
+   "text": "1x 000000416405",
+   "conf": 0.9671299298604329
+  },
+  {
+   "text": "2.83SR",
+   "conf": 0.9991574188073477
+  },
+  {
+   "text": "SAKURA WALNUT B",
+   "conf": 0.9387033621470133
+  },
+  {
+   "text": "1x 000000416993",
+   "conf": 0.959026300907135
+  },
+  {
+   "text": "6.13SR",
+   "conf": 0.9987916350364685
+  },
+  {
+   "text": "GRAIN&SEEDSB",
+   "conf": 0.9867273767789205
+  },
+  {
+   "text": "Sub-total",
+   "conf": 0.9977843165397644
+  },
+  {
+   "text": "8.96",
+   "conf": 0.9997598230838776
+  },
+  {
+   "text": "Total Sales Incl GST",
+   "conf": 0.9864955633878708
+  },
+  {
+   "text": "8.96",
+   "conf": 0.9996423870325089
+  },
+  {
+   "text": "Rounding Adj",
+   "conf": 0.9824141760667165
+  },
+  {
+   "text": "-0.01",
+   "conf": 0.9831879138946533
+  },
+  {
+   "text": "Total After Adj Incl GST",
+   "conf": 0.964056300620238
+  },
+  {
+   "text": "8.95",
+   "conf": 0.9998090714216232
+  },
+  {
+   "text": "CASH",
+   "conf": 0.9993912130594254
+  },
+  {
+   "text": "50.00",
+   "conf": 0.9999282836914063
+  },
+  {
+   "text": "Item Count 2",
+   "conf": 0.9403166770935059
+  },
+  {
+   "text": "Change Amt",
+   "conf": 0.9816882014274597
+  },
+  {
+   "text": "41.05",
+   "conf": 0.9996230602264404
+  },
+  {
+   "text": "Invoice No:2018061710130220258",
+   "conf": 0.9802475015322367
+  },
+  {
+   "text": "GST Summary",
+   "conf": 0.9335083365440369
+  },
+  {
+   "text": "Amount",
+   "conf": 0.9855740964412689
+  },
+  {
+   "text": "Tax",
+   "conf": 0.9918431043624878
+  },
+  {
+   "text": "SR @ 0%",
+   "conf": 0.9321080361093793
+  },
+  {
+   "text": "8.96",
+   "conf": 0.9995304495096207
+  },
+  {
+   "text": "0.00",
+   "conf": 0.998775914311409
+  },
+  {
+   "text": "Total",
+   "conf": 0.9990553617477417
+  },
+  {
+   "text": "8.96",
+   "conf": 0.9981316030025482
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9961250424385071
+  },
+  {
+   "text": "17/06/2018 18:35",
+   "conf": 0.9768209345638752
+  },
+  {
+   "text": "1013 022 0220258",
+   "conf": 0.9592796117067337
+  },
+  {
+   "text": "0305103 NORSUHAILA BINTI ABD RASHID",
+   "conf": 0.9590033497129168
+  },
+  {
+   "text": "AEON Stamps Loyalty Program\"Product(s)\"",
+   "conf": 0.954219536903577
+  },
+  {
+   "text": "sold areneitherexchangeablenor",
+   "conf": 0.980972429116567
+  },
+  {
+   "text": "refundable",
+   "conf": 0.9946569263935089
+  },
+  {
+   "text": "AEON TEBRAU CITY",
+   "conf": 0.9575247392058372
+  },
+  {
+   "text": "TEL1-300-80-AE0N(2366)",
+   "conf": 0.9582232318141244
+  },
+  {
+   "text": "THANK YOUFORYOURPATRONAGE",
+   "conf": 0.9839127206802368
+  },
+  {
+   "text": "PLEASE COME AGAIN",
+   "conf": 0.9706308491089765
+  }
+ ],
+ "mean_conf": 0.9755,
+ "low_conf_share": 0.0,
+ "latency_ms": 4325,
+ "fields": {
+  "company": "AEON C0 BHD",
+  "date": "2018-06-17",
+  "total": 8.95
+ },
+ "rule_reasons": [
+  "total_multiple_strong_amounts"
+ ],
+ "total_candidates": [
+  8.96,
+  8.95
+ ],
+ "key": "X51007846355"
+}

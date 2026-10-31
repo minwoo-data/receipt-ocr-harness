@@ -1,0 +1,285 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "3180301",
+  "SECURE PARKING",
+  "CORPORATION S/B",
+  "Riverwalk Village",
+  "Batu 3, Jalan Ipoh",
+  "51200 KL.",
+  "GSTNo. 000296652800",
+  "TEL No: 1300881698",
+  "RECEIPT C\\3",
+  "Receipt Number:",
+  "KO1318002356097",
+  "ENTRY TIME:",
+  "23.03.18 14:59",
+  "EXIT fIME:",
+  "23.03.18 19227",
+  "PARK-OUR.: D:HH:MM",
+  "0:00:28",
+  "KIND Of PAYMENT:",
+  "CASH",
+  "Parking Fee RM",
+  "0.94",
+  "Add GS] RM",
+  "0.06",
+  "*AMT RM",
+  "1.00",
+  "*Rate incl. 6% GST",
+  "THANK YUU FUR YOUR",
+  "VISIT"
+ ],
+ "tokens": [
+  {
+   "text": "3180301",
+   "conf": 0.96
+  },
+  {
+   "text": "SECURE",
+   "conf": 0.95
+  },
+  {
+   "text": "PARKING",
+   "conf": 0.95
+  },
+  {
+   "text": "CORPORATION",
+   "conf": 0.93
+  },
+  {
+   "text": "S/B",
+   "conf": 0.92
+  },
+  {
+   "text": "Riverwalk",
+   "conf": 0.96
+  },
+  {
+   "text": "Village",
+   "conf": 0.96
+  },
+  {
+   "text": "Batu",
+   "conf": 0.96
+  },
+  {
+   "text": "3,",
+   "conf": 0.94
+  },
+  {
+   "text": "Jalan",
+   "conf": 0.95
+  },
+  {
+   "text": "Ipoh",
+   "conf": 0.87
+  },
+  {
+   "text": "51200",
+   "conf": 0.94
+  },
+  {
+   "text": "KL.",
+   "conf": 0.88
+  },
+  {
+   "text": "GSTNo.",
+   "conf": 0.81
+  },
+  {
+   "text": "000296652800",
+   "conf": 0.73
+  },
+  {
+   "text": "TEL",
+   "conf": 0.96
+  },
+  {
+   "text": "No:",
+   "conf": 0.94
+  },
+  {
+   "text": "1300881698",
+   "conf": 0.94
+  },
+  {
+   "text": "RECEIPT",
+   "conf": 0.96
+  },
+  {
+   "text": "C\\3",
+   "conf": 0.2
+  },
+  {
+   "text": "Receipt",
+   "conf": 0.96
+  },
+  {
+   "text": "Number:",
+   "conf": 0.95
+  },
+  {
+   "text": "KO1318002356097",
+   "conf": 0.52
+  },
+  {
+   "text": "ENTRY",
+   "conf": 0.93
+  },
+  {
+   "text": "TIME:",
+   "conf": 0.44
+  },
+  {
+   "text": "23.03.18",
+   "conf": 0.93
+  },
+  {
+   "text": "14:59",
+   "conf": 0.95
+  },
+  {
+   "text": "EXIT",
+   "conf": 0.92
+  },
+  {
+   "text": "fIME:",
+   "conf": 0.21
+  },
+  {
+   "text": "23.03.18",
+   "conf": 0.8
+  },
+  {
+   "text": "19227",
+   "conf": 0.73
+  },
+  {
+   "text": "PARK-OUR.:",
+   "conf": 0.63
+  },
+  {
+   "text": "D:HH:MM",
+   "conf": 0.32
+  },
+  {
+   "text": "0:00:28",
+   "conf": 0.57
+  },
+  {
+   "text": "KIND",
+   "conf": 0.93
+  },
+  {
+   "text": "Of",
+   "conf": 0.79
+  },
+  {
+   "text": "PAYMENT:",
+   "conf": 0.33
+  },
+  {
+   "text": "CASH",
+   "conf": 0.96
+  },
+  {
+   "text": "Parking",
+   "conf": 0.96
+  },
+  {
+   "text": "Fee",
+   "conf": 0.96
+  },
+  {
+   "text": "RM",
+   "conf": 0.94
+  },
+  {
+   "text": "0.94",
+   "conf": 0.91
+  },
+  {
+   "text": "Add",
+   "conf": 0.96
+  },
+  {
+   "text": "GS]",
+   "conf": 0.65
+  },
+  {
+   "text": "RM",
+   "conf": 0.96
+  },
+  {
+   "text": "0.06",
+   "conf": 0.91
+  },
+  {
+   "text": "*AMT",
+   "conf": 0.84
+  },
+  {
+   "text": "RM",
+   "conf": 0.96
+  },
+  {
+   "text": "1.00",
+   "conf": 0.51
+  },
+  {
+   "text": "*Rate",
+   "conf": 0.91
+  },
+  {
+   "text": "incl.",
+   "conf": 0.93
+  },
+  {
+   "text": "6%",
+   "conf": 0.96
+  },
+  {
+   "text": "GST",
+   "conf": 0.96
+  },
+  {
+   "text": "THANK",
+   "conf": 0.93
+  },
+  {
+   "text": "YUU",
+   "conf": 0.95
+  },
+  {
+   "text": "FUR",
+   "conf": 0.57
+  },
+  {
+   "text": "YOUR",
+   "conf": 0.67
+  },
+  {
+   "text": "VISIT",
+   "conf": 0.96
+  }
+ ],
+ "mean_conf": 0.8272,
+ "low_conf_share": 0.0862,
+ "latency_ms": 1254,
+ "fields": {
+  "company": "SECURE PARKING CORPORATION S B",
+  "date": "2018-03-23",
+  "total": 23.03
+ },
+ "rule_reasons": [
+  "total_no_keyword_fallback_max"
+ ],
+ "total_candidates": [
+  23.03,
+  0.94,
+  0.06,
+  1.0
+ ],
+ "key": "X51005288570"
+}

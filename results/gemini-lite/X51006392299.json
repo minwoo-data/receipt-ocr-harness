@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.1-flash-lite",
+ "provider": "gemini",
+ "raw_text": "{\n  \"vendor\": \"BEMED (SP) SDN. BHD.\",\n  \"date\": \"2017-06-14\",\n  \"subtotal\": 165.00,\n  \"tax\": 9.34,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 165.00,\n  \"currency\": \"MYR\",\n  \"confidence\": 0.98,\n  \"notes\": null\n}",
+ "data": {
+  "vendor": "BEMED (SP) SDN. BHD.",
+  "date": "2017-06-14",
+  "subtotal": 165.0,
+  "tax": 9.34,
+  "tip": null,
+  "discount": null,
+  "total": 165.0,
+  "currency": "MYR",
+  "confidence": 0.98,
+  "notes": null
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1449,
+  "output_tokens": 115,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.000535,
+ "latency_ms": 1501,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.1-flash-lite",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.1-flash-lite"
+ ],
+ "key": "X51006392299"
+}

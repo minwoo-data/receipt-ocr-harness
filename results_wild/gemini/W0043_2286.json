@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.6-flash",
+ "provider": "gemini",
+ "raw_text": "{\"vendor\":\"BEST BUY #478\",\"date\":\"2003-03-21\",\"subtotal\":26.98,\"tax\":2.23,\"tip\":null,\"discount\":null,\"total\":29.21,\"currency\":\"USD\",\"confidence\":0.95,\"notes\":null}",
+ "data": {
+  "vendor": "BEST BUY #478",
+  "date": "2003-03-21",
+  "subtotal": 26.98,
+  "tax": 2.23,
+  "tip": null,
+  "discount": null,
+  "total": 29.21,
+  "currency": "USD",
+  "confidence": 0.95,
+  "notes": null
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1431,
+  "output_tokens": 70,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.001336,
+ "latency_ms": 2173,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.6-flash",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.6-flash"
+ ],
+ "key": "W0043_2286"
+}

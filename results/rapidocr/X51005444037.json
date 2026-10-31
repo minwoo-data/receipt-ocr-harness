@@ -1,0 +1,323 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "Nando's",
+  "PERI-PERI CHICKEN",
+  "Nando's Chickenland Malaysia",
+  "SdnBhd",
+  "Nando's 1Mont Kiara",
+  "Unit G-13,Ground F1oor，No.1",
+  "Jln Kiara,Mont Kiara",
+  "50480KualaLumpur",
+  "Tel:1300-88-6555 Fax:603-6203 6355",
+  "Tax Invoice",
+  "GST ID:000097492992",
+  "4NANDOS3 76SYAFIQ2",
+  "Chk8660 Guesto",
+  "28 Mar 18 18:32:36",
+  "1 DELIVERY CHG 4.00S",
+  "4 1/4Chic+1sd-T@17.90 71.60S",
+  "4 1/4-H S",
+  "4 CharGril1 Veg(R)-TC S",
+  "GrillVeg-H",
+  "GrillVeg-H",
+  "GrillVeg-H",
+  "Gril1Veg-H",
+  "3 1/4Chic+1sd-T @17.90 53.70 S",
+  "3 1/4-M S",
+  "3 Coleslaw(R)-TC S",
+  "Sub Total 129.30",
+  "Amt Due 129.30",
+  "GST@6% 7.30",
+  "How was it for you?",
+  "Your feedback isimportant,",
+  "soplease completeour",
+  "www.howwasit4you-my.net",
+  "Amealforyou&10friends",
+  "is up for grabs.",
+  "Survey Code:MAL025",
+  "T&Capply.",
+  "ForTakeAwayandDelivery，",
+  "food is best consumed within 2hours",
+  "GSTSummary Amount(RM) GST(RM)",
+  "S=GST @6%:122.00 7.30",
+  "Z=GST @0%:0.00 0.00"
+ ],
+ "tokens": [
+  {
+   "text": "Nando's",
+   "conf": 0.9749513353620257
+  },
+  {
+   "text": "PERI-PERI CHICKEN",
+   "conf": 0.9462357338737039
+  },
+  {
+   "text": "Nando's Chickenland Malaysia",
+   "conf": 0.9533868176596505
+  },
+  {
+   "text": "SdnBhd",
+   "conf": 0.9939301411310831
+  },
+  {
+   "text": "Nando's 1Mont Kiara",
+   "conf": 0.936737458956869
+  },
+  {
+   "text": "Unit G-13,Ground F1oor，No.1",
+   "conf": 0.913803447175909
+  },
+  {
+   "text": "Jln Kiara,Mont Kiara",
+   "conf": 0.9210272192955017
+  },
+  {
+   "text": "50480KualaLumpur",
+   "conf": 0.9932944774627686
+  },
+  {
+   "text": "Tel:1300-88-6555 Fax:603-6203 6355",
+   "conf": 0.9594061690218308
+  },
+  {
+   "text": "Tax Invoice",
+   "conf": 0.9731135422533209
+  },
+  {
+   "text": "GST ID:000097492992",
+   "conf": 0.9712367089171159
+  },
+  {
+   "text": "4NANDOS3",
+   "conf": 0.9470440074801445
+  },
+  {
+   "text": "76SYAFIQ2",
+   "conf": 0.9958450463083055
+  },
+  {
+   "text": "Chk8660",
+   "conf": 0.9960330639566694
+  },
+  {
+   "text": "Guesto",
+   "conf": 0.9863675634066263
+  },
+  {
+   "text": "28 Mar 18 18:32:36",
+   "conf": 0.9212928083207872
+  },
+  {
+   "text": "1",
+   "conf": 0.9955303072929382
+  },
+  {
+   "text": "DELIVERY CHG",
+   "conf": 0.9581956466039022
+  },
+  {
+   "text": "4.00S",
+   "conf": 0.9967050313949585
+  },
+  {
+   "text": "4",
+   "conf": 0.9995972514152527
+  },
+  {
+   "text": "1/4Chic+1sd-T@17.90",
+   "conf": 0.9918806835224754
+  },
+  {
+   "text": "71.60S",
+   "conf": 0.9895402292410532
+  },
+  {
+   "text": "4",
+   "conf": 0.9992350339889526
+  },
+  {
+   "text": "1/4-H",
+   "conf": 0.989943528175354
+  },
+  {
+   "text": "S",
+   "conf": 0.9347783327102661
+  },
+  {
+   "text": "4",
+   "conf": 0.999669075012207
+  },
+  {
+   "text": "CharGril1 Veg(R)-TC",
+   "conf": 0.9207757460443597
+  },
+  {
+   "text": "S",
+   "conf": 0.9293994307518005
+  },
+  {
+   "text": "GrillVeg-H",
+   "conf": 0.9380398273468018
+  },
+  {
+   "text": "GrillVeg-H",
+   "conf": 0.9400710880756378
+  },
+  {
+   "text": "GrillVeg-H",
+   "conf": 0.9520949840545654
+  },
+  {
+   "text": "Gril1Veg-H",
+   "conf": 0.8966079115867615
+  },
+  {
+   "text": "3",
+   "conf": 0.9986883997917175
+  },
+  {
+   "text": "1/4Chic+1sd-T @17.90",
+   "conf": 0.9663217246532441
+  },
+  {
+   "text": "53.70 S",
+   "conf": 0.9542047466550555
+  },
+  {
+   "text": "3",
+   "conf": 0.994987964630127
+  },
+  {
+   "text": "1/4-M",
+   "conf": 0.9849692344665527
+  },
+  {
+   "text": "S",
+   "conf": 0.7731797695159912
+  },
+  {
+   "text": "3",
+   "conf": 0.9991723299026489
+  },
+  {
+   "text": "Coleslaw(R)-TC",
+   "conf": 0.9488522452967507
+  },
+  {
+   "text": "S",
+   "conf": 0.7879332304000854
+  },
+  {
+   "text": "Sub Total",
+   "conf": 0.9871208535300361
+  },
+  {
+   "text": "129.30",
+   "conf": 0.9992987215518951
+  },
+  {
+   "text": "Amt Due",
+   "conf": 0.9871260012899127
+  },
+  {
+   "text": "129.30",
+   "conf": 0.9998677869637808
+  },
+  {
+   "text": "GST@6%",
+   "conf": 0.9990175068378448
+  },
+  {
+   "text": "7.30",
+   "conf": 0.9988875836133957
+  },
+  {
+   "text": "How was it for you?",
+   "conf": 0.9474252776095742
+  },
+  {
+   "text": "Your feedback isimportant,",
+   "conf": 0.9393024926002209
+  },
+  {
+   "text": "soplease completeour",
+   "conf": 0.9326106369495392
+  },
+  {
+   "text": "www.howwasit4you-my.net",
+   "conf": 0.9930295607318049
+  },
+  {
+   "text": "Amealforyou&10friends",
+   "conf": 0.9798232033139184
+  },
+  {
+   "text": "is up for grabs.",
+   "conf": 0.9595911204814911
+  },
+  {
+   "text": "Survey Code:MAL025",
+   "conf": 0.9707909524440765
+  },
+  {
+   "text": "T&Capply.",
+   "conf": 0.9686811566352844
+  },
+  {
+   "text": "ForTakeAwayandDelivery，",
+   "conf": 0.9778583904971248
+  },
+  {
+   "text": "food is best consumed within 2hours",
+   "conf": 0.9423444237027849
+  },
+  {
+   "text": "GSTSummary Amount(RM)",
+   "conf": 0.9724088793709165
+  },
+  {
+   "text": "GST(RM)",
+   "conf": 0.981410094669887
+  },
+  {
+   "text": "S=GST @6%:122.00",
+   "conf": 0.9578075110912323
+  },
+  {
+   "text": "7.30",
+   "conf": 0.9979560375213623
+  },
+  {
+   "text": "Z=GST @0%:0.00",
+   "conf": 0.9391020621572223
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9991149604320526
+  }
+ ],
+ "mean_conf": 0.9628,
+ "low_conf_share": 0.0,
+ "latency_ms": 22097,
+ "fields": {
+  "company": "NANDO S CHICKENLAND MALAYSIA SDNBHD",
+  "date": "2018-03-28",
+  "total": 129.3
+ },
+ "rule_reasons": [
+  "total_no_keyword_fallback_max"
+ ],
+ "total_candidates": [
+  17.9,
+  53.7,
+  129.3,
+  129.3,
+  7.3,
+  122.0,
+  7.3,
+  0.0,
+  0.0
+ ],
+ "key": "X51005444037"
+}

@@ -1,0 +1,176 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "MAPLE&OAKBOOKSTORE",
+  "G-15MID VALLEY MEGAMALL",
+  "TAX INVOICE",
+  "Date:27/10/2026 Time:13:42",
+  "3x MINERALWATER1.5L 13.60 6.60",
+  "PANAD0L 10S 4.50",
+  "1 X WHOLEMEALBREAD 7.90",
+  "1 X FRESH MILK 1L 15.80",
+  "2 X FRESH MILK1L",
+  "48.40",
+  "SUBTOTAL 2.90",
+  "GST6% 151.30",
+  "TOTAL 156.30",
+  "CASH 5.00",
+  "CHANGE",
+  "THANK YOU,PLEASE COME AGAIN"
+ ],
+ "tokens": [
+  {
+   "text": "MAPLE&OAKBOOKSTORE",
+   "conf": 0.9863517516189151
+  },
+  {
+   "text": "G-15MID VALLEY MEGAMALL",
+   "conf": 0.9489766981290735
+  },
+  {
+   "text": "TAX INVOICE",
+   "conf": 0.9765790159052069
+  },
+  {
+   "text": "Date:27/10/2026",
+   "conf": 0.9928530375162761
+  },
+  {
+   "text": "Time:13:42",
+   "conf": 0.9709181427955628
+  },
+  {
+   "text": "6.60",
+   "conf": 0.999452069401741
+  },
+  {
+   "text": "3x",
+   "conf": 0.7716974914073944
+  },
+  {
+   "text": "MINERALWATER1.5L",
+   "conf": 0.9872511811554432
+  },
+  {
+   "text": "13.60",
+   "conf": 0.9996932864189148
+  },
+  {
+   "text": "PANAD0L 10S",
+   "conf": 0.9482963897965171
+  },
+  {
+   "text": "4.50",
+   "conf": 0.9993907958269119
+  },
+  {
+   "text": "1",
+   "conf": 0.9939124584197998
+  },
+  {
+   "text": "X",
+   "conf": 0.7018123269081116
+  },
+  {
+   "text": "WHOLEMEALBREAD",
+   "conf": 0.9937748908996582
+  },
+  {
+   "text": "7.90",
+   "conf": 0.9996125549077988
+  },
+  {
+   "text": "1",
+   "conf": 0.989887535572052
+  },
+  {
+   "text": "X",
+   "conf": 0.6947469115257263
+  },
+  {
+   "text": "FRESH",
+   "conf": 0.9968113303184509
+  },
+  {
+   "text": "MILK 1L",
+   "conf": 0.929585303579058
+  },
+  {
+   "text": "15.80",
+   "conf": 0.9989277362823487
+  },
+  {
+   "text": "2",
+   "conf": 0.9993041753768921
+  },
+  {
+   "text": "X",
+   "conf": 0.5990495085716248
+  },
+  {
+   "text": "FRESH",
+   "conf": 0.9991350769996643
+  },
+  {
+   "text": "MILK1L",
+   "conf": 0.9913286964098612
+  },
+  {
+   "text": "48.40",
+   "conf": 0.997682249546051
+  },
+  {
+   "text": "SUBTOTAL",
+   "conf": 0.990046538412571
+  },
+  {
+   "text": "2.90",
+   "conf": 0.9984296262264252
+  },
+  {
+   "text": "GST6%",
+   "conf": 0.9617436408996582
+  },
+  {
+   "text": "151.30",
+   "conf": 0.9984410305817922
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.9961156368255615
+  },
+  {
+   "text": "156.30",
+   "conf": 0.9988191723823547
+  },
+  {
+   "text": "CASH",
+   "conf": 0.995884045958519
+  },
+  {
+   "text": "5.00",
+   "conf": 0.9992798715829849
+  },
+  {
+   "text": "CHANGE",
+   "conf": 0.9965404669443766
+  },
+  {
+   "text": "THANK YOU,PLEASE COME AGAIN",
+   "conf": 0.9318330729449237
+  }
+ ],
+ "mean_conf": 0.9524,
+ "low_conf_share": 0.0,
+ "latency_ms": 16310,
+ "fields": {
+  "company": "MAPLE OAKBOOKSTORE",
+  "date": "2026-10-27",
+  "total": 156.3
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  156.3
+ ],
+ "key": "SYN013"
+}

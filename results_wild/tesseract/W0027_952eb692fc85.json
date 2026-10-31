@@ -1,0 +1,425 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "LoD ieee eet Gert ceo i ee",
+  "as Beninsates (FO9)",
+  "TacI0 + 0105542019730",
+  "FOS iD : eorooso0020ae35",
+  "Toe Invivo: $1327",
+  "Date 2016.03.51 Time: 21:16:51",
+  "Tran No : 201803310140",
+  "Table: AOS cover: 1",
+  "“by ieseription Amount 1)",
+  "1 SUSHI SET 220.00",
+  "1 IKA MARU YAKI SET 200.00",
+  "1 GESO KARAAGE 90.00",
+  "1 YAKI GYOZA (6 pes) 90.00",
+  "1 BACON ENOKI ROLL 130.00",
+  "1 SAKE OZEKI 180 ml 180.00",
+  "1 ASAHI BEER (LARGE) 180.00",
+  "Sub Total : 1090.00",
+  "Service Charge 10% : 109.00",
+  "Total: 1,199.00",
+  "Pee VAT ICIISEC. cesses ssssene",
+  "VAT(7.00%) : 78.44",
+  "Cash 2000.00",
+  "Change: 801.00"
+ ],
+ "tokens": [
+  {
+   "text": "LoD",
+   "conf": 0.3
+  },
+  {
+   "text": "ieee",
+   "conf": 0.15
+  },
+  {
+   "text": "eet",
+   "conf": 0.11
+  },
+  {
+   "text": "Gert",
+   "conf": 0.44
+  },
+  {
+   "text": "ceo",
+   "conf": 0.16
+  },
+  {
+   "text": "i",
+   "conf": 0.33
+  },
+  {
+   "text": "ee",
+   "conf": 0.13
+  },
+  {
+   "text": "as",
+   "conf": 0.29
+  },
+  {
+   "text": "Beninsates",
+   "conf": 0.0
+  },
+  {
+   "text": "(FO9)",
+   "conf": 0.35
+  },
+  {
+   "text": "TacI0",
+   "conf": 0.17
+  },
+  {
+   "text": "+",
+   "conf": 0.23
+  },
+  {
+   "text": "0105542019730",
+   "conf": 0.84
+  },
+  {
+   "text": "FOS",
+   "conf": 0.51
+  },
+  {
+   "text": "iD",
+   "conf": 0.38
+  },
+  {
+   "text": ":",
+   "conf": 0.22
+  },
+  {
+   "text": "eorooso0020ae35",
+   "conf": 0.0
+  },
+  {
+   "text": "Toe",
+   "conf": 0.66
+  },
+  {
+   "text": "Invivo:",
+   "conf": 0.08
+  },
+  {
+   "text": "$1327",
+   "conf": 0.72
+  },
+  {
+   "text": "Date",
+   "conf": 0.63
+  },
+  {
+   "text": "2016.03.51",
+   "conf": 0.39
+  },
+  {
+   "text": "Time:",
+   "conf": 0.62
+  },
+  {
+   "text": "21:16:51",
+   "conf": 0.9
+  },
+  {
+   "text": "Tran",
+   "conf": 0.92
+  },
+  {
+   "text": "No",
+   "conf": 0.82
+  },
+  {
+   "text": ":",
+   "conf": 0.57
+  },
+  {
+   "text": "201803310140",
+   "conf": 0.86
+  },
+  {
+   "text": "Table:",
+   "conf": 0.25
+  },
+  {
+   "text": "AOS",
+   "conf": 0.72
+  },
+  {
+   "text": "cover:",
+   "conf": 0.73
+  },
+  {
+   "text": "1",
+   "conf": 0.86
+  },
+  {
+   "text": "“by",
+   "conf": 0.08
+  },
+  {
+   "text": "ieseription",
+   "conf": 0.0
+  },
+  {
+   "text": "Amount",
+   "conf": 0.18
+  },
+  {
+   "text": "1)",
+   "conf": 0.19
+  },
+  {
+   "text": "1",
+   "conf": 0.71
+  },
+  {
+   "text": "SUSHI",
+   "conf": 0.86
+  },
+  {
+   "text": "SET",
+   "conf": 0.96
+  },
+  {
+   "text": "220.00",
+   "conf": 0.92
+  },
+  {
+   "text": "1",
+   "conf": 0.6
+  },
+  {
+   "text": "IKA",
+   "conf": 0.43
+  },
+  {
+   "text": "MARU",
+   "conf": 0.43
+  },
+  {
+   "text": "YAKI",
+   "conf": 0.91
+  },
+  {
+   "text": "SET",
+   "conf": 0.88
+  },
+  {
+   "text": "200.00",
+   "conf": 0.73
+  },
+  {
+   "text": "1",
+   "conf": 0.45
+  },
+  {
+   "text": "GESO",
+   "conf": 0.54
+  },
+  {
+   "text": "KARAAGE",
+   "conf": 0.91
+  },
+  {
+   "text": "90.00",
+   "conf": 0.87
+  },
+  {
+   "text": "1",
+   "conf": 0.65
+  },
+  {
+   "text": "YAKI",
+   "conf": 0.78
+  },
+  {
+   "text": "GYOZA",
+   "conf": 0.9
+  },
+  {
+   "text": "(6",
+   "conf": 0.95
+  },
+  {
+   "text": "pes)",
+   "conf": 0.82
+  },
+  {
+   "text": "90.00",
+   "conf": 0.88
+  },
+  {
+   "text": "1",
+   "conf": 0.49
+  },
+  {
+   "text": "BACON",
+   "conf": 0.81
+  },
+  {
+   "text": "ENOKI",
+   "conf": 0.88
+  },
+  {
+   "text": "ROLL",
+   "conf": 0.95
+  },
+  {
+   "text": "130.00",
+   "conf": 0.64
+  },
+  {
+   "text": "1",
+   "conf": 0.46
+  },
+  {
+   "text": "SAKE",
+   "conf": 0.84
+  },
+  {
+   "text": "OZEKI",
+   "conf": 0.92
+  },
+  {
+   "text": "180",
+   "conf": 0.96
+  },
+  {
+   "text": "ml",
+   "conf": 0.86
+  },
+  {
+   "text": "180.00",
+   "conf": 0.93
+  },
+  {
+   "text": "1",
+   "conf": 0.65
+  },
+  {
+   "text": "ASAHI",
+   "conf": 0.81
+  },
+  {
+   "text": "BEER",
+   "conf": 0.96
+  },
+  {
+   "text": "(LARGE)",
+   "conf": 0.96
+  },
+  {
+   "text": "180.00",
+   "conf": 0.84
+  },
+  {
+   "text": "Sub",
+   "conf": 0.96
+  },
+  {
+   "text": "Total",
+   "conf": 0.89
+  },
+  {
+   "text": ":",
+   "conf": 0.66
+  },
+  {
+   "text": "1090.00",
+   "conf": 0.95
+  },
+  {
+   "text": "Service",
+   "conf": 0.96
+  },
+  {
+   "text": "Charge",
+   "conf": 0.96
+  },
+  {
+   "text": "10%",
+   "conf": 0.93
+  },
+  {
+   "text": ":",
+   "conf": 0.82
+  },
+  {
+   "text": "109.00",
+   "conf": 0.93
+  },
+  {
+   "text": "Total:",
+   "conf": 0.93
+  },
+  {
+   "text": "1,199.00",
+   "conf": 0.91
+  },
+  {
+   "text": "Pee",
+   "conf": 0.16
+  },
+  {
+   "text": "VAT",
+   "conf": 0.54
+  },
+  {
+   "text": "ICIISEC.",
+   "conf": 0.0
+  },
+  {
+   "text": "cesses",
+   "conf": 0.04
+  },
+  {
+   "text": "ssssene",
+   "conf": 0.0
+  },
+  {
+   "text": "VAT(7.00%)",
+   "conf": 0.73
+  },
+  {
+   "text": ":",
+   "conf": 0.88
+  },
+  {
+   "text": "78.44",
+   "conf": 0.49
+  },
+  {
+   "text": "Cash",
+   "conf": 0.9
+  },
+  {
+   "text": "2000.00",
+   "conf": 0.91
+  },
+  {
+   "text": "Change:",
+   "conf": 0.95
+  },
+  {
+   "text": "801.00",
+   "conf": 0.95
+  }
+ ],
+ "mean_conf": 0.6251,
+ "low_conf_share": 0.3368,
+ "latency_ms": 385,
+ "fields": {
+  "company": "LOD IEEE EET GERT CEO I EE",
+  "date": null,
+  "total": 1199.0
+ },
+ "rule_reasons": [
+  "date_not_found"
+ ],
+ "total_candidates": [
+  1199.0
+ ],
+ "key": "W0027_952eb692fc85"
+}

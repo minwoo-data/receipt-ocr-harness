@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.1-flash-lite",
+ "provider": "gemini",
+ "raw_text": "{\n  \"vendor\": \"FamilyMart\",\n  \"date\": \"2018-04-10\",\n  \"subtotal\": 5.47,\n  \"tax\": 0.33,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 5.80,\n  \"currency\": \"MYR\",\n  \"confidence\": 0.95,\n  \"notes\": null\n}",
+ "data": {
+  "vendor": "FamilyMart",
+  "date": "2018-04-10",
+  "subtotal": 5.47,
+  "tax": 0.33,
+  "tip": null,
+  "discount": null,
+  "total": 5.8,
+  "currency": "MYR",
+  "confidence": 0.95,
+  "notes": null
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1452,
+  "output_tokens": 103,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.000517,
+ "latency_ms": 1482,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.1-flash-lite",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.1-flash-lite"
+ ],
+ "key": "X51006502534"
+}

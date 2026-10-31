@@ -1,0 +1,216 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "AEON C0.(M) BHD (126926-H)",
+  "3RD FLR, AEON TAMAN MALURI SC",
+  "JLN JEJAKA, TAMAN MALURI",
+  "CHERAS，55100 KUALA LUMPUR",
+  "GST ID :002017394688",
+  "SHOPPING HOURS",
+  "SUN-THU:1000 HRS -2200 HRS",
+  "FRI-SAT:1000 HRS - 2300 HRS",
+  "VALUED CUST0MER:1170086176",
+  "1x 000000811101 2.50SR",
+  "TAMAGO (S)",
+  "DISC 30% @1.75 -0.75",
+  "Sub-total 1.75",
+  "Total Sales Incl GST 1.75",
+  "Total After Adj Incl GST 1.75",
+  "CASH 1.80",
+  "Item Count 1 Change Amt 0.05",
+  "Invoice No:2018041810090010447",
+  "GST Summary Amount Tax",
+  "SR @ 6% 1.65 0.10",
+  "Total 1.65 0.10",
+  "18/04/2018 20:27 1009 001 0010447",
+  "0306654 PAVITHRA",
+  "AEON TAMAN UNIVERSITI",
+  "TEL 1-300-80-AE0N (2366)",
+  "THANKYOU FORYOURPATRONAGE",
+  "PLEASE COME AGAIN"
+ ],
+ "tokens": [
+  {
+   "text": "AEON C0.(M) BHD (126926-H)",
+   "conf": 0.9439731354896839
+  },
+  {
+   "text": "3RD FLR, AEON TAMAN MALURI SC",
+   "conf": 0.9542077389256708
+  },
+  {
+   "text": "JLN JEJAKA, TAMAN MALURI",
+   "conf": 0.9527638778090477
+  },
+  {
+   "text": "CHERAS，55100 KUALA LUMPUR",
+   "conf": 0.9715052652359009
+  },
+  {
+   "text": "GST ID :002017394688",
+   "conf": 0.9188543289899826
+  },
+  {
+   "text": "SHOPPING HOURS",
+   "conf": 0.9761572224753243
+  },
+  {
+   "text": "SUN-THU:1000 HRS -2200 HRS",
+   "conf": 0.9453871800349309
+  },
+  {
+   "text": "FRI-SAT:1000 HRS - 2300 HRS",
+   "conf": 0.9733513902734827
+  },
+  {
+   "text": "VALUED CUST0MER:1170086176",
+   "conf": 0.989402711391449
+  },
+  {
+   "text": "1x 000000811101",
+   "conf": 0.9843124747276306
+  },
+  {
+   "text": "2.50SR",
+   "conf": 0.9995965858300527
+  },
+  {
+   "text": "TAMAGO (S)",
+   "conf": 0.9942295730113984
+  },
+  {
+   "text": "DISC 30% @1.75",
+   "conf": 0.992211116211755
+  },
+  {
+   "text": "-0.75",
+   "conf": 0.8969133138656616
+  },
+  {
+   "text": "Sub-total",
+   "conf": 0.994173526763916
+  },
+  {
+   "text": "1.75",
+   "conf": 0.9998050034046173
+  },
+  {
+   "text": "Total Sales Incl GST",
+   "conf": 0.9951135158538819
+  },
+  {
+   "text": "1.75",
+   "conf": 0.999616414308548
+  },
+  {
+   "text": "Total After Adj Incl GST",
+   "conf": 0.9666358207662901
+  },
+  {
+   "text": "1.75",
+   "conf": 0.999766394495964
+  },
+  {
+   "text": "CASH",
+   "conf": 0.9986169189214706
+  },
+  {
+   "text": "1.80",
+   "conf": 0.9997983872890472
+  },
+  {
+   "text": "Item Count 1",
+   "conf": 0.9967615902423859
+  },
+  {
+   "text": "Change Amt",
+   "conf": 0.99332515001297
+  },
+  {
+   "text": "0.05",
+   "conf": 0.9998230636119843
+  },
+  {
+   "text": "Invoice No:2018041810090010447",
+   "conf": 0.987251325448354
+  },
+  {
+   "text": "GST Summary",
+   "conf": 0.9846401431343772
+  },
+  {
+   "text": "Amount",
+   "conf": 0.9478770196437836
+  },
+  {
+   "text": "Tax",
+   "conf": 0.997803787390391
+  },
+  {
+   "text": "SR @ 6%",
+   "conf": 0.9143393295151847
+  },
+  {
+   "text": "1.65",
+   "conf": 0.9999322295188904
+  },
+  {
+   "text": "0.10",
+   "conf": 0.9997837394475937
+  },
+  {
+   "text": "Total",
+   "conf": 0.9971750974655151
+  },
+  {
+   "text": "1.65",
+   "conf": 0.9995458275079727
+  },
+  {
+   "text": "0.10",
+   "conf": 0.9995669424533844
+  },
+  {
+   "text": "18/04/2018 20:27",
+   "conf": 0.9874182119965553
+  },
+  {
+   "text": "1009 001 0010447",
+   "conf": 0.9611908830702305
+  },
+  {
+   "text": "0306654 PAVITHRA",
+   "conf": 0.9155293796211481
+  },
+  {
+   "text": "AEON TAMAN UNIVERSITI",
+   "conf": 0.9600596910431272
+  },
+  {
+   "text": "TEL 1-300-80-AE0N (2366)",
+   "conf": 0.9672974248727163
+  },
+  {
+   "text": "THANKYOU FORYOURPATRONAGE",
+   "conf": 0.9726389718055725
+  },
+  {
+   "text": "PLEASE COME AGAIN",
+   "conf": 0.9478273637154523
+  }
+ ],
+ "mean_conf": 0.9756,
+ "low_conf_share": 0.0,
+ "latency_ms": 3702,
+ "fields": {
+  "company": "AEON C0 BHD",
+  "date": "2018-04-18",
+  "total": 1.75
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  1.75,
+  1.75
+ ],
+ "key": "X51006414680"
+}

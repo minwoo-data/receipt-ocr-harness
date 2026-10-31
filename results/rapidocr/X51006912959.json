@@ -1,0 +1,247 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "**Royaltea**",
+  "(1199794-K)",
+  "No.23, Jalan Sutera Tanjung 8/3,",
+  "Taman Sutera Utama",
+  "81300 Skudai",
+  "Johor,Malaysia.",
+  "GSTID：000344043520",
+  "Wi-Fi:01134229888",
+  "TAX INVOICE",
+  "Invoice No : STU001/59572",
+  "Date ：09/05/2018#1 12:22 PM",
+  "Cashier :Yu Jie",
+  "Ref No : 50TA",
+  "PRN ON :09/05/2018 12:23 PM",
+  "QTY ITEM RM",
+  "*** Retail/Takeaway ***",
+  "Royal Milk Tea 10.90 SR",
+  "Black Tea",
+  "Cold",
+  "Pearl",
+  "Less Ice",
+  "1 50%Sugar",
+  "1 SubTotal 10.90",
+  "Net Total 10.90",
+  "Cash 11.00",
+  "CHANGE 0.10",
+  "***09/05/2018 12:23 PM ***",
+  "Tax Summary Amount Tax",
+  "SR:Inclusive of GST @6% 10.28 0.62",
+  "THANK YOU,PLEASE COME AGAIN",
+  "Goods Sold Are Non Refundable"
+ ],
+ "tokens": [
+  {
+   "text": "**Royaltea**",
+   "conf": 0.9908855805794398
+  },
+  {
+   "text": "(1199794-K)",
+   "conf": 0.9908170808445323
+  },
+  {
+   "text": "No.23, Jalan Sutera Tanjung 8/3,",
+   "conf": 0.9767738450318575
+  },
+  {
+   "text": "Taman Sutera Utama",
+   "conf": 0.9946530494425032
+  },
+  {
+   "text": "81300 Skudai",
+   "conf": 0.996822660168012
+  },
+  {
+   "text": "Johor,Malaysia.",
+   "conf": 0.9971264600753784
+  },
+  {
+   "text": "GSTID：000344043520",
+   "conf": 0.9691986938317617
+  },
+  {
+   "text": "Wi-Fi:01134229888",
+   "conf": 0.9825599719496334
+  },
+  {
+   "text": "TAX INVOICE",
+   "conf": 0.9810080636631359
+  },
+  {
+   "text": "Invoice No : STU001/59572",
+   "conf": 0.9631070184707642
+  },
+  {
+   "text": "Date",
+   "conf": 0.9989977180957794
+  },
+  {
+   "text": "：09/05/2018#1",
+   "conf": 0.9731430823986347
+  },
+  {
+   "text": "12:22 PM",
+   "conf": 0.9970240294933319
+  },
+  {
+   "text": "Cashier",
+   "conf": 0.9994653633662632
+  },
+  {
+   "text": ":Yu Jie",
+   "conf": 0.9513408371380397
+  },
+  {
+   "text": "Ref No",
+   "conf": 0.9242396553357443
+  },
+  {
+   "text": ": 50TA",
+   "conf": 0.9825158218542734
+  },
+  {
+   "text": "PRN ON",
+   "conf": 0.954058031241099
+  },
+  {
+   "text": ":09/05/2018 12:23 PM",
+   "conf": 0.9423886179924011
+  },
+  {
+   "text": "QTY ITEM",
+   "conf": 0.9792319238185883
+  },
+  {
+   "text": "RM",
+   "conf": 0.9987172186374664
+  },
+  {
+   "text": "*** Retail/Takeaway ***",
+   "conf": 0.9726968925932179
+  },
+  {
+   "text": "Royal Milk Tea",
+   "conf": 0.9805982325758252
+  },
+  {
+   "text": "10.90 SR",
+   "conf": 0.9944558441638947
+  },
+  {
+   "text": "Black Tea",
+   "conf": 0.962342381477356
+  },
+  {
+   "text": "Cold",
+   "conf": 0.9900927543640137
+  },
+  {
+   "text": "Pearl",
+   "conf": 0.970803415775299
+  },
+  {
+   "text": "Less Ice",
+   "conf": 0.9699955731630325
+  },
+  {
+   "text": "1",
+   "conf": 0.9987657070159912
+  },
+  {
+   "text": "50%Sugar",
+   "conf": 0.9994741752743721
+  },
+  {
+   "text": "1",
+   "conf": 0.9888225793838501
+  },
+  {
+   "text": "SubTotal",
+   "conf": 0.9946277514100075
+  },
+  {
+   "text": "10.90",
+   "conf": 0.9998278021812439
+  },
+  {
+   "text": "Net",
+   "conf": 0.9998015761375427
+  },
+  {
+   "text": "Total",
+   "conf": 0.9973819255828857
+  },
+  {
+   "text": "10.90",
+   "conf": 0.9433250904083252
+  },
+  {
+   "text": "Cash",
+   "conf": 0.9982409626245499
+  },
+  {
+   "text": "11.00",
+   "conf": 0.9998772978782654
+  },
+  {
+   "text": "CHANGE",
+   "conf": 0.9989426732063293
+  },
+  {
+   "text": "0.10",
+   "conf": 0.9995942413806915
+  },
+  {
+   "text": "***09/05/2018 12:23 PM ***",
+   "conf": 0.9549813568592072
+  },
+  {
+   "text": "Tax Summary",
+   "conf": 0.980723267251795
+  },
+  {
+   "text": "Amount",
+   "conf": 0.9899187485376993
+  },
+  {
+   "text": "Tax",
+   "conf": 0.9936419526735941
+  },
+  {
+   "text": "SR:Inclusive of GST @6%",
+   "conf": 0.9828816159911777
+  },
+  {
+   "text": "10.28",
+   "conf": 0.9997310280799866
+  },
+  {
+   "text": "0.62",
+   "conf": 0.9998917579650879
+  },
+  {
+   "text": "THANK YOU,PLEASE COME AGAIN",
+   "conf": 0.9695964135505535
+  },
+  {
+   "text": "Goods Sold Are Non Refundable",
+   "conf": 0.9551122620187956
+  }
+ ],
+ "mean_conf": 0.9822,
+ "low_conf_share": 0.0,
+ "latency_ms": 4936,
+ "fields": {
+  "company": "ROYALTEA",
+  "date": "2018-05-09",
+  "total": 10.9
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  10.9
+ ],
+ "key": "X51006912959"
+}

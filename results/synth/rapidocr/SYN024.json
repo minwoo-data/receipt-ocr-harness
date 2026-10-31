@@ -1,0 +1,129 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "NORTHSTARHARDWAREENTERPRISE",
+  "NO7JALAN INDUSTRI 4,SHAHALAM",
+  "TAX INVOICE",
+  "Date:03/09/2026 Time:13:42",
+  "2x FRESH MILK 1L 15.80",
+  "1x ENGINEOIL4L 89.00",
+  "SUBTOTAL 104.80",
+  "GST6% 6.29",
+  "TOTAL 111.09",
+  "CASH 116.09",
+  "CHANGE 5.00",
+  "THANK YOU,PLEASECOME AGAIN",
+  "tot0.00"
+ ],
+ "tokens": [
+  {
+   "text": "NORTHSTARHARDWAREENTERPRISE",
+   "conf": 0.9898035724957784
+  },
+  {
+   "text": "NO7JALAN INDUSTRI 4,SHAHALAM",
+   "conf": 0.9457352076257978
+  },
+  {
+   "text": "TAX INVOICE",
+   "conf": 0.9622956189242277
+  },
+  {
+   "text": "Date:03/09/2026",
+   "conf": 0.9871205608050029
+  },
+  {
+   "text": "Time:13:42",
+   "conf": 0.9732661724090577
+  },
+  {
+   "text": "2x",
+   "conf": 0.7186245769262314
+  },
+  {
+   "text": "FRESH MILK",
+   "conf": 0.9773527383804321
+  },
+  {
+   "text": "1L",
+   "conf": 0.9821860492229462
+  },
+  {
+   "text": "15.80",
+   "conf": 0.9995817303657532
+  },
+  {
+   "text": "1x",
+   "conf": 0.8459165692329407
+  },
+  {
+   "text": "ENGINEOIL4L",
+   "conf": 0.9861730879003351
+  },
+  {
+   "text": "89.00",
+   "conf": 0.9993810892105103
+  },
+  {
+   "text": "SUBTOTAL",
+   "conf": 0.9957769587635994
+  },
+  {
+   "text": "104.80",
+   "conf": 0.9994949797789255
+  },
+  {
+   "text": "GST6%",
+   "conf": 0.9982201933860779
+  },
+  {
+   "text": "6.29",
+   "conf": 0.9998507648706436
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.9960438966751098
+  },
+  {
+   "text": "111.09",
+   "conf": 0.9979431430498759
+  },
+  {
+   "text": "CASH",
+   "conf": 0.9975837469100952
+  },
+  {
+   "text": "116.09",
+   "conf": 0.9990539252758026
+  },
+  {
+   "text": "CHANGE",
+   "conf": 0.9973781704902649
+  },
+  {
+   "text": "5.00",
+   "conf": 0.9771339893341064
+  },
+  {
+   "text": "THANK YOU,PLEASECOME AGAIN",
+   "conf": 0.9369736852554175
+  },
+  {
+   "text": "tot0.00",
+   "conf": 0.6137298132692065
+  }
+ ],
+ "mean_conf": 0.9532,
+ "low_conf_share": 0.0,
+ "latency_ms": 10961,
+ "fields": {
+  "company": "NORTHSTARHARDWAREENTERPRISE",
+  "date": "2026-09-03",
+  "total": 111.09
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  111.09
+ ],
+ "key": "SYN024"
+}

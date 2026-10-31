@@ -1,0 +1,731 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "Fo. STAY 15 [’ iv",
+  "q cs Possibilities, Get Your ff ‘i",
+  "| S155 On asion bod ik",
+  "Keep your receipt ce",
+  "Vol +: 1091-s808-sssi-a4n)",
+  "0994 042 7212 08/20/16 3:06 — rap",
+  "SALES",
+  "10872412 neve f",
+  "i ‘NES oo O2EF 249.99",
+  ": 0196797 \"ne EMF one a",
+  ": BC EHE HOHE A/V a",
+  "4 SUBTOTAL 252.49",
+  "=. Ea ae",
+  "a. Transaction Record sale r",
+  "a Approved 800778 ante",
+  "a Tenn 994 O4P",
+  "a ca 10: 9498015",
+  "fe Seem ACI/1S0 000/000",
+  "Ree 2/20/2016 13:06:15",
+  "ee ita: sov000002801b90y",
+  "APN AHERICAN ENPRESS?",
+  "TW 00008000",
+  "Tt oso",
+  "ND STONRTURE REQUIRED",
+  "GST Rea. R13866s738",
+  "2",
+  "Shor BestBuy.ca 8 sel FREE Shippina",
+  "fon orders over $25 or FREE Pick Up",
+  "freeiore vith 20 ain",
+  "YOUR CUSTOMER SERVICE 4-PART-KEY IS",
+  "0994 042 7212 oR2016",
+  "IN a $1000 BEST BUY SIET GARD!",
+  "TAKE OUR SHORT 5 MIN NOTHE",
+  "NEXT 30 DAYS AND BE ENTERED TO WINy",
+  "To enter and for full contest rules/ay",
+  "use the following codes:",
+  "Group A ZT",
+  "B 9212 an",
+  "Grour m. G4B1668RTL00"
+ ],
+ "tokens": [
+  {
+   "text": "Fo.",
+   "conf": 0.27
+  },
+  {
+   "text": "STAY",
+   "conf": 0.47
+  },
+  {
+   "text": "15",
+   "conf": 0.71
+  },
+  {
+   "text": "[’",
+   "conf": 0.03
+  },
+  {
+   "text": "iv",
+   "conf": 0.08
+  },
+  {
+   "text": "q",
+   "conf": 0.74
+  },
+  {
+   "text": "cs",
+   "conf": 0.33
+  },
+  {
+   "text": "Possibilities,",
+   "conf": 0.96
+  },
+  {
+   "text": "Get",
+   "conf": 0.96
+  },
+  {
+   "text": "Your",
+   "conf": 0.96
+  },
+  {
+   "text": "ff",
+   "conf": 0.75
+  },
+  {
+   "text": "‘i",
+   "conf": 0.02
+  },
+  {
+   "text": "|",
+   "conf": 0.43
+  },
+  {
+   "text": "S155",
+   "conf": 0.43
+  },
+  {
+   "text": "On",
+   "conf": 0.19
+  },
+  {
+   "text": "asion",
+   "conf": 0.0
+  },
+  {
+   "text": "bod",
+   "conf": 0.37
+  },
+  {
+   "text": "ik",
+   "conf": 0.03
+  },
+  {
+   "text": "Keep",
+   "conf": 0.95
+  },
+  {
+   "text": "your",
+   "conf": 0.95
+  },
+  {
+   "text": "receipt",
+   "conf": 0.93
+  },
+  {
+   "text": "ce",
+   "conf": 0.43
+  },
+  {
+   "text": "Vol",
+   "conf": 0.64
+  },
+  {
+   "text": "+:",
+   "conf": 0.32
+  },
+  {
+   "text": "1091-s808-sssi-a4n)",
+   "conf": 0.0
+  },
+  {
+   "text": "0994",
+   "conf": 0.82
+  },
+  {
+   "text": "042",
+   "conf": 0.82
+  },
+  {
+   "text": "7212",
+   "conf": 0.67
+  },
+  {
+   "text": "08/20/16",
+   "conf": 0.67
+  },
+  {
+   "text": "3:06",
+   "conf": 0.52
+  },
+  {
+   "text": "—",
+   "conf": 0.34
+  },
+  {
+   "text": "rap",
+   "conf": 0.57
+  },
+  {
+   "text": "SALES",
+   "conf": 0.96
+  },
+  {
+   "text": "10872412",
+   "conf": 0.0
+  },
+  {
+   "text": "neve",
+   "conf": 0.0
+  },
+  {
+   "text": "f",
+   "conf": 0.0
+  },
+  {
+   "text": "i",
+   "conf": 0.22
+  },
+  {
+   "text": "‘NES",
+   "conf": 0.28
+  },
+  {
+   "text": "oo",
+   "conf": 0.39
+  },
+  {
+   "text": "O2EF",
+   "conf": 0.37
+  },
+  {
+   "text": "249.99",
+   "conf": 0.83
+  },
+  {
+   "text": ":",
+   "conf": 0.0
+  },
+  {
+   "text": "0196797",
+   "conf": 0.35
+  },
+  {
+   "text": "\"ne",
+   "conf": 0.28
+  },
+  {
+   "text": "EMF",
+   "conf": 0.25
+  },
+  {
+   "text": "one",
+   "conf": 0.53
+  },
+  {
+   "text": "a",
+   "conf": 0.04
+  },
+  {
+   "text": ":",
+   "conf": 0.0
+  },
+  {
+   "text": "BC",
+   "conf": 0.51
+  },
+  {
+   "text": "EHE",
+   "conf": 0.83
+  },
+  {
+   "text": "HOHE",
+   "conf": 0.68
+  },
+  {
+   "text": "A/V",
+   "conf": 0.77
+  },
+  {
+   "text": "a",
+   "conf": 0.0
+  },
+  {
+   "text": "4",
+   "conf": 0.55
+  },
+  {
+   "text": "SUBTOTAL",
+   "conf": 0.61
+  },
+  {
+   "text": "252.49",
+   "conf": 0.4
+  },
+  {
+   "text": "=.",
+   "conf": 0.34
+  },
+  {
+   "text": "Ea",
+   "conf": 0.31
+  },
+  {
+   "text": "ae",
+   "conf": 0.21
+  },
+  {
+   "text": "a.",
+   "conf": 0.29
+  },
+  {
+   "text": "Transaction",
+   "conf": 0.79
+  },
+  {
+   "text": "Record",
+   "conf": 0.88
+  },
+  {
+   "text": "sale",
+   "conf": 0.71
+  },
+  {
+   "text": "r",
+   "conf": 0.0
+  },
+  {
+   "text": "a",
+   "conf": 0.34
+  },
+  {
+   "text": "Approved",
+   "conf": 0.91
+  },
+  {
+   "text": "800778",
+   "conf": 0.6
+  },
+  {
+   "text": "ante",
+   "conf": 0.0
+  },
+  {
+   "text": "a",
+   "conf": 0.12
+  },
+  {
+   "text": "Tenn",
+   "conf": 0.07
+  },
+  {
+   "text": "994",
+   "conf": 0.66
+  },
+  {
+   "text": "O4P",
+   "conf": 0.0
+  },
+  {
+   "text": "a",
+   "conf": 0.22
+  },
+  {
+   "text": "ca",
+   "conf": 0.14
+  },
+  {
+   "text": "10:",
+   "conf": 0.32
+  },
+  {
+   "text": "9498015",
+   "conf": 0.23
+  },
+  {
+   "text": "fe",
+   "conf": 0.03
+  },
+  {
+   "text": "Seem",
+   "conf": 0.09
+  },
+  {
+   "text": "ACI/1S0",
+   "conf": 0.26
+  },
+  {
+   "text": "000/000",
+   "conf": 0.85
+  },
+  {
+   "text": "Ree",
+   "conf": 0.15
+  },
+  {
+   "text": "2/20/2016",
+   "conf": 0.3
+  },
+  {
+   "text": "13:06:15",
+   "conf": 0.76
+  },
+  {
+   "text": "ee",
+   "conf": 0.14
+  },
+  {
+   "text": "ita:",
+   "conf": 0.08
+  },
+  {
+   "text": "sov000002801b90y",
+   "conf": 0.0
+  },
+  {
+   "text": "APN",
+   "conf": 0.76
+  },
+  {
+   "text": "AHERICAN",
+   "conf": 0.0
+  },
+  {
+   "text": "ENPRESS?",
+   "conf": 0.0
+  },
+  {
+   "text": "TW",
+   "conf": 0.56
+  },
+  {
+   "text": "00008000",
+   "conf": 0.11
+  },
+  {
+   "text": "Tt",
+   "conf": 0.0
+  },
+  {
+   "text": "oso",
+   "conf": 0.23
+  },
+  {
+   "text": "ND",
+   "conf": 0.65
+  },
+  {
+   "text": "STONRTURE",
+   "conf": 0.58
+  },
+  {
+   "text": "REQUIRED",
+   "conf": 0.79
+  },
+  {
+   "text": "GST",
+   "conf": 0.92
+  },
+  {
+   "text": "Rea.",
+   "conf": 0.4
+  },
+  {
+   "text": "R13866s738",
+   "conf": 0.0
+  },
+  {
+   "text": "2",
+   "conf": 0.15
+  },
+  {
+   "text": "Shor",
+   "conf": 0.8
+  },
+  {
+   "text": "BestBuy.ca",
+   "conf": 0.88
+  },
+  {
+   "text": "8",
+   "conf": 0.1
+  },
+  {
+   "text": "sel",
+   "conf": 0.51
+  },
+  {
+   "text": "FREE",
+   "conf": 0.93
+  },
+  {
+   "text": "Shippina",
+   "conf": 0.75
+  },
+  {
+   "text": "fon",
+   "conf": 0.7
+  },
+  {
+   "text": "orders",
+   "conf": 0.91
+  },
+  {
+   "text": "over",
+   "conf": 0.88
+  },
+  {
+   "text": "$25",
+   "conf": 0.94
+  },
+  {
+   "text": "or",
+   "conf": 0.94
+  },
+  {
+   "text": "FREE",
+   "conf": 0.85
+  },
+  {
+   "text": "Pick",
+   "conf": 0.95
+  },
+  {
+   "text": "Up",
+   "conf": 0.93
+  },
+  {
+   "text": "freeiore",
+   "conf": 0.0
+  },
+  {
+   "text": "vith",
+   "conf": 0.32
+  },
+  {
+   "text": "20",
+   "conf": 0.77
+  },
+  {
+   "text": "ain",
+   "conf": 0.0
+  },
+  {
+   "text": "YOUR",
+   "conf": 0.95
+  },
+  {
+   "text": "CUSTOMER",
+   "conf": 0.96
+  },
+  {
+   "text": "SERVICE",
+   "conf": 0.93
+  },
+  {
+   "text": "4-PART-KEY",
+   "conf": 0.89
+  },
+  {
+   "text": "IS",
+   "conf": 0.96
+  },
+  {
+   "text": "0994",
+   "conf": 0.87
+  },
+  {
+   "text": "042",
+   "conf": 0.94
+  },
+  {
+   "text": "7212",
+   "conf": 0.9
+  },
+  {
+   "text": "oR2016",
+   "conf": 0.17
+  },
+  {
+   "text": "IN",
+   "conf": 0.03
+  },
+  {
+   "text": "a",
+   "conf": 0.44
+  },
+  {
+   "text": "$1000",
+   "conf": 0.44
+  },
+  {
+   "text": "BEST",
+   "conf": 0.74
+  },
+  {
+   "text": "BUY",
+   "conf": 0.76
+  },
+  {
+   "text": "SIET",
+   "conf": 0.27
+  },
+  {
+   "text": "GARD!",
+   "conf": 0.16
+  },
+  {
+   "text": "TAKE",
+   "conf": 0.8
+  },
+  {
+   "text": "OUR",
+   "conf": 0.79
+  },
+  {
+   "text": "SHORT",
+   "conf": 0.95
+  },
+  {
+   "text": "5",
+   "conf": 0.93
+  },
+  {
+   "text": "MIN",
+   "conf": 0.89
+  },
+  {
+   "text": "NOTHE",
+   "conf": 0.0
+  },
+  {
+   "text": "NEXT",
+   "conf": 0.87
+  },
+  {
+   "text": "30",
+   "conf": 0.87
+  },
+  {
+   "text": "DAYS",
+   "conf": 0.92
+  },
+  {
+   "text": "AND",
+   "conf": 0.71
+  },
+  {
+   "text": "BE",
+   "conf": 0.71
+  },
+  {
+   "text": "ENTERED",
+   "conf": 0.94
+  },
+  {
+   "text": "TO",
+   "conf": 0.73
+  },
+  {
+   "text": "WINy",
+   "conf": 0.3
+  },
+  {
+   "text": "To",
+   "conf": 0.92
+  },
+  {
+   "text": "enter",
+   "conf": 0.75
+  },
+  {
+   "text": "and",
+   "conf": 0.94
+  },
+  {
+   "text": "for",
+   "conf": 0.87
+  },
+  {
+   "text": "full",
+   "conf": 0.87
+  },
+  {
+   "text": "contest",
+   "conf": 0.92
+  },
+  {
+   "text": "rules/ay",
+   "conf": 0.0
+  },
+  {
+   "text": "use",
+   "conf": 0.88
+  },
+  {
+   "text": "the",
+   "conf": 0.93
+  },
+  {
+   "text": "following",
+   "conf": 0.91
+  },
+  {
+   "text": "codes:",
+   "conf": 0.73
+  },
+  {
+   "text": "Group",
+   "conf": 0.96
+  },
+  {
+   "text": "A",
+   "conf": 0.77
+  },
+  {
+   "text": "ZT",
+   "conf": 0.15
+  },
+  {
+   "text": "B",
+   "conf": 0.91
+  },
+  {
+   "text": "9212",
+   "conf": 0.49
+  },
+  {
+   "text": "an",
+   "conf": 0.34
+  },
+  {
+   "text": "Grour",
+   "conf": 0.28
+  },
+  {
+   "text": "m.",
+   "conf": 0.0
+  },
+  {
+   "text": "G4B1668RTL00",
+   "conf": 0.0
+  }
+ ],
+ "mean_conf": 0.5105,
+ "low_conf_share": 0.4762,
+ "latency_ms": 2664,
+ "fields": {
+  "company": "SALES",
+  "date": "2016-08-20",
+  "total": null
+ },
+ "rule_reasons": [
+  "total_not_found"
+ ],
+ "total_candidates": [],
+ "key": "W0101_f7354af6e1d9"
+}

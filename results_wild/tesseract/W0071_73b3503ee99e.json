@@ -1,0 +1,361 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "fey Aur & Anne’s |",
+  "ih Lot CC.1 | Au Sentral, i",
+  "ae Kuala L ipur Sentral, 4",
+  "ie 50470 ala Lumpur. ‘",
+  "ay Chrisna Jeni Sdn ahd (383083-H)",
+  "Ye) Bill No.: oor-3e 04 ——Take Out a",
+  "ie, Date: 2014/09/08 9:43:13 bs",
+  "ag Cinnamon Sugar 1 RM3.80 i",
+  "ad and Total RNG. 80 bs",
+  "ay (Included Tax : 10,22) 3",
+  "“h CASH RM20 .00 :",
+  "as Change RM16.20 E",
+  "m =©=—Thank You. ease cone again. :",
+  "lents/ quiry, email to °"
+ ],
+ "tokens": [
+  {
+   "text": "fey",
+   "conf": 0.44
+  },
+  {
+   "text": "Aur",
+   "conf": 0.96
+  },
+  {
+   "text": "&",
+   "conf": 0.31
+  },
+  {
+   "text": "Anne’s",
+   "conf": 0.9
+  },
+  {
+   "text": "|",
+   "conf": 0.62
+  },
+  {
+   "text": "ih",
+   "conf": 0.12
+  },
+  {
+   "text": "Lot",
+   "conf": 0.82
+  },
+  {
+   "text": "CC.1",
+   "conf": 0.82
+  },
+  {
+   "text": "|",
+   "conf": 0.33
+  },
+  {
+   "text": "Au",
+   "conf": 0.79
+  },
+  {
+   "text": "Sentral,",
+   "conf": 0.94
+  },
+  {
+   "text": "i",
+   "conf": 0.51
+  },
+  {
+   "text": "ae",
+   "conf": 0.31
+  },
+  {
+   "text": "Kuala",
+   "conf": 0.89
+  },
+  {
+   "text": "L",
+   "conf": 0.12
+  },
+  {
+   "text": "ipur",
+   "conf": 0.08
+  },
+  {
+   "text": "Sentral,",
+   "conf": 0.84
+  },
+  {
+   "text": "4",
+   "conf": 0.39
+  },
+  {
+   "text": "ie",
+   "conf": 0.48
+  },
+  {
+   "text": "50470",
+   "conf": 0.49
+  },
+  {
+   "text": "ala",
+   "conf": 0.23
+  },
+  {
+   "text": "Lumpur.",
+   "conf": 0.81
+  },
+  {
+   "text": "‘",
+   "conf": 0.0
+  },
+  {
+   "text": "ay",
+   "conf": 0.23
+  },
+  {
+   "text": "Chrisna",
+   "conf": 0.89
+  },
+  {
+   "text": "Jeni",
+   "conf": 0.76
+  },
+  {
+   "text": "Sdn",
+   "conf": 0.72
+  },
+  {
+   "text": "ahd",
+   "conf": 0.71
+  },
+  {
+   "text": "(383083-H)",
+   "conf": 0.65
+  },
+  {
+   "text": "Ye)",
+   "conf": 0.22
+  },
+  {
+   "text": "Bill",
+   "conf": 0.6
+  },
+  {
+   "text": "No.:",
+   "conf": 0.76
+  },
+  {
+   "text": "oor-3e",
+   "conf": 0.24
+  },
+  {
+   "text": "04",
+   "conf": 0.24
+  },
+  {
+   "text": "——Take",
+   "conf": 0.0
+  },
+  {
+   "text": "Out",
+   "conf": 0.91
+  },
+  {
+   "text": "a",
+   "conf": 0.27
+  },
+  {
+   "text": "ie,",
+   "conf": 0.2
+  },
+  {
+   "text": "Date:",
+   "conf": 0.87
+  },
+  {
+   "text": "2014/09/08",
+   "conf": 0.42
+  },
+  {
+   "text": "9:43:13",
+   "conf": 0.91
+  },
+  {
+   "text": "bs",
+   "conf": 0.25
+  },
+  {
+   "text": "ag",
+   "conf": 0.4
+  },
+  {
+   "text": "Cinnamon",
+   "conf": 0.8
+  },
+  {
+   "text": "Sugar",
+   "conf": 0.96
+  },
+  {
+   "text": "1",
+   "conf": 0.35
+  },
+  {
+   "text": "RM3.80",
+   "conf": 0.35
+  },
+  {
+   "text": "i",
+   "conf": 0.23
+  },
+  {
+   "text": "ad",
+   "conf": 0.54
+  },
+  {
+   "text": "and",
+   "conf": 0.88
+  },
+  {
+   "text": "Total",
+   "conf": 0.53
+  },
+  {
+   "text": "RNG.",
+   "conf": 0.4
+  },
+  {
+   "text": "80",
+   "conf": 0.4
+  },
+  {
+   "text": "bs",
+   "conf": 0.12
+  },
+  {
+   "text": "ay",
+   "conf": 0.23
+  },
+  {
+   "text": "(Included",
+   "conf": 0.96
+  },
+  {
+   "text": "Tax",
+   "conf": 0.85
+  },
+  {
+   "text": ":",
+   "conf": 0.73
+  },
+  {
+   "text": "10,22)",
+   "conf": 0.56
+  },
+  {
+   "text": "3",
+   "conf": 0.51
+  },
+  {
+   "text": "“h",
+   "conf": 0.0
+  },
+  {
+   "text": "CASH",
+   "conf": 0.96
+  },
+  {
+   "text": "RM20",
+   "conf": 0.3
+  },
+  {
+   "text": ".00",
+   "conf": 0.3
+  },
+  {
+   "text": ":",
+   "conf": 0.51
+  },
+  {
+   "text": "as",
+   "conf": 0.3
+  },
+  {
+   "text": "Change",
+   "conf": 0.96
+  },
+  {
+   "text": "RM16.20",
+   "conf": 0.34
+  },
+  {
+   "text": "E",
+   "conf": 0.0
+  },
+  {
+   "text": "m",
+   "conf": 0.0
+  },
+  {
+   "text": "=©=—Thank",
+   "conf": 0.0
+  },
+  {
+   "text": "You.",
+   "conf": 0.9
+  },
+  {
+   "text": "ease",
+   "conf": 0.12
+  },
+  {
+   "text": "cone",
+   "conf": 0.86
+  },
+  {
+   "text": "again.",
+   "conf": 0.94
+  },
+  {
+   "text": ":",
+   "conf": 0.0
+  },
+  {
+   "text": "lents/",
+   "conf": 0.81
+  },
+  {
+   "text": "quiry,",
+   "conf": 0.82
+  },
+  {
+   "text": "email",
+   "conf": 0.47
+  },
+  {
+   "text": "to",
+   "conf": 0.96
+  },
+  {
+   "text": "°",
+   "conf": 0.0
+  }
+ ],
+ "mean_conf": 0.5111,
+ "low_conf_share": 0.5062,
+ "latency_ms": 438,
+ "fields": {
+  "company": "FEY AUR ANNE S",
+  "date": "2014-09-08",
+  "total": 16.2
+ },
+ "rule_reasons": [
+  "total_no_keyword_fallback_max"
+ ],
+ "total_candidates": [
+  3.8,
+  16.2
+ ],
+ "key": "W0071_73b3503ee99e"
+}

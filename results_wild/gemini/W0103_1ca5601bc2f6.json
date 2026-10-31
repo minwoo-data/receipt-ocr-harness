@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.6-flash",
+ "provider": "gemini",
+ "raw_text": "{\"vendor\": \"Sanaa Restaurant\", \"date\": \"2016-07-14\", \"subtotal\": 30.0, \"tax\": null, \"tip\": null, \"discount\": 0.0, \"total\": 30.0, \"currency\": \"QAR\", \"confidence\": 0.95, \"notes\": \"Currency inferred as QAR based on location Souk Waqif.\"}",
+ "data": {
+  "vendor": "Sanaa Restaurant",
+  "date": "2016-07-14",
+  "subtotal": 30.0,
+  "tax": null,
+  "tip": null,
+  "discount": 0.0,
+  "total": 30.0,
+  "currency": "QAR",
+  "confidence": 0.95,
+  "notes": "Currency inferred as QAR based on location Souk Waqif."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1471,
+  "output_tokens": 94,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.001456,
+ "latency_ms": 1696,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.6-flash",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.6-flash"
+ ],
+ "key": "W0103_1ca5601bc2f6"
+}

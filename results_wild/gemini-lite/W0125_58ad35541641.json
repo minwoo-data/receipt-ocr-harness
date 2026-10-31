@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.1-flash-lite",
+ "provider": "gemini",
+ "raw_text": "{\n  \"vendor\": \"India Palace\",\n  \"date\": \"2016-03-26\",\n  \"subtotal\": 33.00,\n  \"tax\": null,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 33.00,\n  \"currency\": \"AED\",\n  \"confidence\": 0.98,\n  \"notes\": null\n}",
+ "data": {
+  "vendor": "India Palace",
+  "date": "2016-03-26",
+  "subtotal": 33.0,
+  "tax": null,
+  "tip": null,
+  "discount": null,
+  "total": 33.0,
+  "currency": "AED",
+  "confidence": 0.98,
+  "notes": null
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1471,
+  "output_tokens": 100,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.000518,
+ "latency_ms": 1485,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.1-flash-lite",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.1-flash-lite"
+ ],
+ "key": "W0125_58ad35541641"
+}

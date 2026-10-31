@@ -1,0 +1,518 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "3180303",
+  "‘",
+  "7 UAN HING STATIONERY SDN BHD",
+  "(162761-M)",
+  "NO.32 & 33, JALAN SR 19 SEKSYEN 9.",
+  "TAMAN SERDANG RAYA,",
+  "43300 SERI KEMBANGAN. SELANGOR",
+  "DARUL EHSAN",
+  "GST ID - 002139201536",
+  "Tax Invoice",
+  "pene 1/5 17): Se LSS)",
+  "Qty Tax RM",
+  "Dursfile H399 (110 x 95mm) 100 SR 5830",
+  "Name Badge (Hj (@ 0.5500",
+  "309 Metal Name Badge Clip 1 SR 21.20",
+  "- 100's @ 20 0000",
+  "Total Amt Incl. GST @ 6% : 7350,/",
+  "Rounding Adjustment",
+  "Total Amt Payable 79.50 vA",
+  "Paid Amount 100.00",
+  "Change : 20.50",
+  "Total Qry Tender » 101",
+  "{GST Summary Amount — Tax!",
+  ": (RM) (RM) i",
+  "PSR @AL 18.00. 450;",
+  "! Total 75.00 450:",
+  "THANK YOU",
+  "For anv anduiry nlease contact us"
+ ],
+ "tokens": [
+  {
+   "text": "3180303",
+   "conf": 0.96
+  },
+  {
+   "text": "‘",
+   "conf": 0.08
+  },
+  {
+   "text": "7",
+   "conf": 0.33
+  },
+  {
+   "text": "UAN",
+   "conf": 0.88
+  },
+  {
+   "text": "HING",
+   "conf": 0.9
+  },
+  {
+   "text": "STATIONERY",
+   "conf": 0.96
+  },
+  {
+   "text": "SDN",
+   "conf": 0.95
+  },
+  {
+   "text": "BHD",
+   "conf": 0.96
+  },
+  {
+   "text": "(162761-M)",
+   "conf": 0.9
+  },
+  {
+   "text": "NO.32",
+   "conf": 0.55
+  },
+  {
+   "text": "&",
+   "conf": 0.88
+  },
+  {
+   "text": "33,",
+   "conf": 0.94
+  },
+  {
+   "text": "JALAN",
+   "conf": 0.96
+  },
+  {
+   "text": "SR",
+   "conf": 0.83
+  },
+  {
+   "text": "19",
+   "conf": 0.7
+  },
+  {
+   "text": "SEKSYEN",
+   "conf": 0.71
+  },
+  {
+   "text": "9.",
+   "conf": 0.9
+  },
+  {
+   "text": "TAMAN",
+   "conf": 0.92
+  },
+  {
+   "text": "SERDANG",
+   "conf": 0.91
+  },
+  {
+   "text": "RAYA,",
+   "conf": 0.96
+  },
+  {
+   "text": "43300",
+   "conf": 0.93
+  },
+  {
+   "text": "SERI",
+   "conf": 0.89
+  },
+  {
+   "text": "KEMBANGAN.",
+   "conf": 0.77
+  },
+  {
+   "text": "SELANGOR",
+   "conf": 0.96
+  },
+  {
+   "text": "DARUL",
+   "conf": 0.89
+  },
+  {
+   "text": "EHSAN",
+   "conf": 0.96
+  },
+  {
+   "text": "GST",
+   "conf": 0.41
+  },
+  {
+   "text": "ID",
+   "conf": 0.41
+  },
+  {
+   "text": "-",
+   "conf": 0.01
+  },
+  {
+   "text": "002139201536",
+   "conf": 0.93
+  },
+  {
+   "text": "Tax",
+   "conf": 0.96
+  },
+  {
+   "text": "Invoice",
+   "conf": 0.89
+  },
+  {
+   "text": "pene",
+   "conf": 0.09
+  },
+  {
+   "text": "1/5",
+   "conf": 0.0
+  },
+  {
+   "text": "17):",
+   "conf": 0.0
+  },
+  {
+   "text": "Se",
+   "conf": 0.24
+  },
+  {
+   "text": "LSS)",
+   "conf": 0.0
+  },
+  {
+   "text": "Qty",
+   "conf": 0.85
+  },
+  {
+   "text": "Tax",
+   "conf": 0.96
+  },
+  {
+   "text": "RM",
+   "conf": 0.96
+  },
+  {
+   "text": "Dursfile",
+   "conf": 0.91
+  },
+  {
+   "text": "H399",
+   "conf": 0.91
+  },
+  {
+   "text": "(110",
+   "conf": 0.66
+  },
+  {
+   "text": "x",
+   "conf": 0.38
+  },
+  {
+   "text": "95mm)",
+   "conf": 0.38
+  },
+  {
+   "text": "100",
+   "conf": 0.75
+  },
+  {
+   "text": "SR",
+   "conf": 0.76
+  },
+  {
+   "text": "5830",
+   "conf": 0.65
+  },
+  {
+   "text": "Name",
+   "conf": 0.93
+  },
+  {
+   "text": "Badge",
+   "conf": 0.95
+  },
+  {
+   "text": "(Hj",
+   "conf": 0.86
+  },
+  {
+   "text": "(@",
+   "conf": 0.44
+  },
+  {
+   "text": "0.5500",
+   "conf": 0.92
+  },
+  {
+   "text": "309",
+   "conf": 0.83
+  },
+  {
+   "text": "Metal",
+   "conf": 0.96
+  },
+  {
+   "text": "Name",
+   "conf": 0.79
+  },
+  {
+   "text": "Badge",
+   "conf": 0.96
+  },
+  {
+   "text": "Clip",
+   "conf": 0.95
+  },
+  {
+   "text": "1",
+   "conf": 0.68
+  },
+  {
+   "text": "SR",
+   "conf": 0.35
+  },
+  {
+   "text": "21.20",
+   "conf": 0.67
+  },
+  {
+   "text": "-",
+   "conf": 0.75
+  },
+  {
+   "text": "100's",
+   "conf": 0.75
+  },
+  {
+   "text": "@",
+   "conf": 0.92
+  },
+  {
+   "text": "20",
+   "conf": 0.57
+  },
+  {
+   "text": "0000",
+   "conf": 0.57
+  },
+  {
+   "text": "Total",
+   "conf": 0.95
+  },
+  {
+   "text": "Amt",
+   "conf": 0.9
+  },
+  {
+   "text": "Incl.",
+   "conf": 0.34
+  },
+  {
+   "text": "GST",
+   "conf": 0.87
+  },
+  {
+   "text": "@",
+   "conf": 0.87
+  },
+  {
+   "text": "6%",
+   "conf": 0.93
+  },
+  {
+   "text": ":",
+   "conf": 0.69
+  },
+  {
+   "text": "7350,/",
+   "conf": 0.19
+  },
+  {
+   "text": "Rounding",
+   "conf": 0.95
+  },
+  {
+   "text": "Adjustment",
+   "conf": 0.95
+  },
+  {
+   "text": "Total",
+   "conf": 0.93
+  },
+  {
+   "text": "Amt",
+   "conf": 0.79
+  },
+  {
+   "text": "Payable",
+   "conf": 0.92
+  },
+  {
+   "text": "79.50",
+   "conf": 0.83
+  },
+  {
+   "text": "vA",
+   "conf": 0.49
+  },
+  {
+   "text": "Paid",
+   "conf": 0.96
+  },
+  {
+   "text": "Amount",
+   "conf": 0.96
+  },
+  {
+   "text": "100.00",
+   "conf": 0.96
+  },
+  {
+   "text": "Change",
+   "conf": 0.92
+  },
+  {
+   "text": ":",
+   "conf": 0.75
+  },
+  {
+   "text": "20.50",
+   "conf": 0.91
+  },
+  {
+   "text": "Total",
+   "conf": 0.93
+  },
+  {
+   "text": "Qry",
+   "conf": 0.72
+  },
+  {
+   "text": "Tender",
+   "conf": 0.88
+  },
+  {
+   "text": "»",
+   "conf": 0.0
+  },
+  {
+   "text": "101",
+   "conf": 0.96
+  },
+  {
+   "text": "{GST",
+   "conf": 0.58
+  },
+  {
+   "text": "Summary",
+   "conf": 0.58
+  },
+  {
+   "text": "Amount",
+   "conf": 0.71
+  },
+  {
+   "text": "—",
+   "conf": 0.65
+  },
+  {
+   "text": "Tax!",
+   "conf": 0.52
+  },
+  {
+   "text": ":",
+   "conf": 0.25
+  },
+  {
+   "text": "(RM)",
+   "conf": 0.96
+  },
+  {
+   "text": "(RM)",
+   "conf": 0.96
+  },
+  {
+   "text": "i",
+   "conf": 0.72
+  },
+  {
+   "text": "PSR",
+   "conf": 0.23
+  },
+  {
+   "text": "@AL",
+   "conf": 0.23
+  },
+  {
+   "text": "18.00.",
+   "conf": 0.4
+  },
+  {
+   "text": "450;",
+   "conf": 0.45
+  },
+  {
+   "text": "!",
+   "conf": 0.0
+  },
+  {
+   "text": "Total",
+   "conf": 0.96
+  },
+  {
+   "text": "75.00",
+   "conf": 0.96
+  },
+  {
+   "text": "450:",
+   "conf": 0.9
+  },
+  {
+   "text": "THANK",
+   "conf": 0.94
+  },
+  {
+   "text": "YOU",
+   "conf": 0.94
+  },
+  {
+   "text": "For",
+   "conf": 0.88
+  },
+  {
+   "text": "anv",
+   "conf": 0.8
+  },
+  {
+   "text": "anduiry",
+   "conf": 0.62
+  },
+  {
+   "text": "nlease",
+   "conf": 0.63
+  },
+  {
+   "text": "contact",
+   "conf": 0.47
+  },
+  {
+   "text": "us",
+   "conf": 0.72
+  }
+ ],
+ "mean_conf": 0.7192,
+ "low_conf_share": 0.2137,
+ "latency_ms": 716,
+ "fields": {
+  "company": "DARUL EHSAN",
+  "date": null,
+  "total": 79.5
+ },
+ "rule_reasons": [
+  "date_not_found"
+ ],
+ "total_candidates": [
+  79.5
+ ],
+ "key": "X51009453729"
+}

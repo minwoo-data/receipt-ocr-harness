@@ -1,0 +1,393 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "GARDENIABAKERIES(KLLSDNBHD(139386X)",
+  "Lot 3,Jalan Peiabur 23/1,",
+  "40300 Shah Alam,Selangor.",
+  "Tel:03-55423228Fax:03-55423213",
+  "GST1D:000381399040",
+  "TAX INVOICE/ADJUSTMENT NOTE",
+  "Cash Inv No.: 7912F710",
+  "VE0514 Date:12/09/2017",
+  "MAKASSAR FRESH MARKET SDN BHD",
+  "GROUND FLOOR,NO.4&6,",
+  "JALANSS15/4B,",
+  "475OO SUBANG JAYA,SELANGOR",
+  "VE05:Ridzuan(11900)",
+  "DD:12/09/2017 11:58",
+  "Description U.P Iss ExC D Anit(R)",
+  "O.C.WHITE 2.13 8 3 5 10.65",
+  "WHOL.EMEAL 2.78 3 1 0 2 5.56",
+  "O.CJUMBO 2.97 4 0 11.88",
+  "Total 0% supplies: 28.09",
+  "DELICIA-R/BERRY3.72 2 2 7.44",
+  "CR-CORN 0.72 20 20 14.40",
+  "WF-F.EGG.V 1.03 8 0 8 8.24",
+  "KAYA-PANDN 2.40 4 4 9.60",
+  "HAZEL CHOC 6.90 2 13.80",
+  "Total 6% supplies (excl. GST): 53.48",
+  "GST: 3.21",
+  "Total 6% supplies （Inc. GST): 56.69",
+  "Total 0% supplies: 28.09",
+  "Total Payable: 84.78",
+  "E.&.O.E.",
+  "Received above goods in good order condition.",
+  "TherecipientofGardenia's productsis",
+  "requiredtomakenecessaryadjustmentstoits",
+  "input tax claims,on the basic ofthe",
+  "adjustments showninthis TaxInvoice/",
+  "Adjustnent Note",
+  "CUSTOMER'SCOPY"
+ ],
+ "tokens": [
+  {
+   "text": "GARDENIABAKERIES(KLLSDNBHD(139386X)",
+   "conf": 0.955404543876648
+  },
+  {
+   "text": "Lot 3,Jalan Peiabur 23/1,",
+   "conf": 0.8966087675094605
+  },
+  {
+   "text": "40300 Shah Alam,Selangor.",
+   "conf": 0.9394700789451599
+  },
+  {
+   "text": "Tel:03-55423228Fax:03-55423213",
+   "conf": 0.9743781248728435
+  },
+  {
+   "text": "GST1D:000381399040",
+   "conf": 0.9599201083183289
+  },
+  {
+   "text": "TAX INVOICE/ADJUSTMENT NOTE",
+   "conf": 0.9632862497259069
+  },
+  {
+   "text": "Cash Inv No.: 7912F710",
+   "conf": 0.9567981199784712
+  },
+  {
+   "text": "VE0514",
+   "conf": 0.9600357909997305
+  },
+  {
+   "text": "Date:12/09/2017",
+   "conf": 0.9816385587056478
+  },
+  {
+   "text": "MAKASSAR FRESH MARKET SDN BHD",
+   "conf": 0.9178907470456485
+  },
+  {
+   "text": "GROUND FLOOR,NO.4&6,",
+   "conf": 0.8786320388317108
+  },
+  {
+   "text": "JALANSS15/4B,",
+   "conf": 0.9089162899897649
+  },
+  {
+   "text": "475OO SUBANG JAYA,SELANGOR",
+   "conf": 0.909627059331307
+  },
+  {
+   "text": "VE05:Ridzuan(11900)",
+   "conf": 0.8906092047691345
+  },
+  {
+   "text": "DD:12/09/2017",
+   "conf": 0.9880113876782931
+  },
+  {
+   "text": "11:58",
+   "conf": 0.9480204820632935
+  },
+  {
+   "text": "Description",
+   "conf": 0.9879259033636614
+  },
+  {
+   "text": "U.P",
+   "conf": 0.963397741317749
+  },
+  {
+   "text": "Iss",
+   "conf": 0.9637412428855896
+  },
+  {
+   "text": "ExC",
+   "conf": 0.8326610128084818
+  },
+  {
+   "text": "D",
+   "conf": 0.9926522374153137
+  },
+  {
+   "text": "Anit(R)",
+   "conf": 0.8188074401446751
+  },
+  {
+   "text": "O.C.WHITE",
+   "conf": 0.8899163007736206
+  },
+  {
+   "text": "2.13",
+   "conf": 0.9656498730182648
+  },
+  {
+   "text": "8",
+   "conf": 0.9162472486495972
+  },
+  {
+   "text": "3",
+   "conf": 0.9823663234710693
+  },
+  {
+   "text": "5",
+   "conf": 0.9978845715522766
+  },
+  {
+   "text": "10.65",
+   "conf": 0.9924184322357178
+  },
+  {
+   "text": "WHOL.EMEAL",
+   "conf": 0.917425537109375
+  },
+  {
+   "text": "2.78",
+   "conf": 0.976754367351532
+  },
+  {
+   "text": "3",
+   "conf": 0.9720430374145508
+  },
+  {
+   "text": "1",
+   "conf": 0.9615718722343445
+  },
+  {
+   "text": "0",
+   "conf": 0.5478227138519287
+  },
+  {
+   "text": "2",
+   "conf": 0.9964250922203064
+  },
+  {
+   "text": "5.56",
+   "conf": 0.997060552239418
+  },
+  {
+   "text": "O.CJUMBO",
+   "conf": 0.9644643217325211
+  },
+  {
+   "text": "2.97",
+   "conf": 0.9962043315172195
+  },
+  {
+   "text": "4",
+   "conf": 0.9948815107345581
+  },
+  {
+   "text": "0",
+   "conf": 0.8397002220153809
+  },
+  {
+   "text": "11.88",
+   "conf": 0.9529144525527954
+  },
+  {
+   "text": "Total 0% supplies:",
+   "conf": 0.9398634119166268
+  },
+  {
+   "text": "28.09",
+   "conf": 0.9952925205230713
+  },
+  {
+   "text": "DELICIA-R/BERRY3.72",
+   "conf": 0.9702540447837428
+  },
+  {
+   "text": "2",
+   "conf": 0.9969629645347595
+  },
+  {
+   "text": "2",
+   "conf": 0.9983943104743958
+  },
+  {
+   "text": "7.44",
+   "conf": 0.9810223132371902
+  },
+  {
+   "text": "CR-CORN",
+   "conf": 0.9850544248308454
+  },
+  {
+   "text": "0.72",
+   "conf": 0.9959270805120468
+  },
+  {
+   "text": "20",
+   "conf": 0.9929400384426117
+  },
+  {
+   "text": "20",
+   "conf": 0.9981167912483215
+  },
+  {
+   "text": "14.40",
+   "conf": 0.9939637541770935
+  },
+  {
+   "text": "WF-F.EGG.V",
+   "conf": 0.9789669692516327
+  },
+  {
+   "text": "1.03",
+   "conf": 0.9940256625413895
+  },
+  {
+   "text": "8",
+   "conf": 0.9948959946632385
+  },
+  {
+   "text": "0",
+   "conf": 0.7291250824928284
+  },
+  {
+   "text": "8",
+   "conf": 0.9544391632080078
+  },
+  {
+   "text": "8.24",
+   "conf": 0.9681331813335419
+  },
+  {
+   "text": "KAYA-PANDN",
+   "conf": 0.9437556385993957
+  },
+  {
+   "text": "2.40",
+   "conf": 0.9914839863777161
+  },
+  {
+   "text": "4",
+   "conf": 0.9985243678092957
+  },
+  {
+   "text": "4",
+   "conf": 0.9940186738967896
+  },
+  {
+   "text": "9.60",
+   "conf": 0.9942445307970047
+  },
+  {
+   "text": "HAZEL CHOC",
+   "conf": 0.9705670118331909
+  },
+  {
+   "text": "6.90",
+   "conf": 0.9442742764949799
+  },
+  {
+   "text": "2",
+   "conf": 0.6737972497940063
+  },
+  {
+   "text": "13.80",
+   "conf": 0.9894421458244324
+  },
+  {
+   "text": "Total 6% supplies (excl. GST):",
+   "conf": 0.9204392850399017
+  },
+  {
+   "text": "53.48",
+   "conf": 0.9948730945587159
+  },
+  {
+   "text": "GST:",
+   "conf": 0.9762092083692551
+  },
+  {
+   "text": "3.21",
+   "conf": 0.9978412687778473
+  },
+  {
+   "text": "Total 6% supplies （Inc. GST):",
+   "conf": 0.9157564146765347
+  },
+  {
+   "text": "56.69",
+   "conf": 0.9974981307983398
+  },
+  {
+   "text": "Total 0% supplies:",
+   "conf": 0.9214973648389181
+  },
+  {
+   "text": "28.09",
+   "conf": 0.9862711310386658
+  },
+  {
+   "text": "Total Payable:",
+   "conf": 0.9813062974384853
+  },
+  {
+   "text": "84.78",
+   "conf": 0.9984449863433837
+  },
+  {
+   "text": "E.&.O.E.",
+   "conf": 0.8953205570578575
+  },
+  {
+   "text": "Received above goods in good order condition.",
+   "conf": 0.9465679340892368
+  },
+  {
+   "text": "TherecipientofGardenia's productsis",
+   "conf": 0.9634458320481437
+  },
+  {
+   "text": "requiredtomakenecessaryadjustmentstoits",
+   "conf": 0.9763851181054727
+  },
+  {
+   "text": "input tax claims,on the basic ofthe",
+   "conf": 0.8975420440946307
+  },
+  {
+   "text": "adjustments showninthis TaxInvoice/",
+   "conf": 0.935253187588283
+  },
+  {
+   "text": "Adjustnent Note",
+   "conf": 0.9458847443262736
+  },
+  {
+   "text": "CUSTOMER'SCOPY",
+   "conf": 0.9702163594109672
+  }
+ ],
+ "mean_conf": 0.9481,
+ "low_conf_share": 0.0,
+ "latency_ms": 5634,
+ "fields": {
+  "company": "GARDENIABAKERIES",
+  "date": "2017-09-12",
+  "total": 84.78
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  84.78
+ ],
+ "key": "X51006556851"
+}

@@ -1,0 +1,156 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "99SPEED MART S/B (519537-X)",
+  "LOT P.T.2811,JALAN ANGSA",
+  "TAMAN BERKELEY",
+  "41150 KLANG,SELANGOR",
+  "1225-DENGKIL",
+  "GST ID.N0:000181747712",
+  "INV0ICE N0:18291/102/T0163",
+  "11:59AM 567640 28-01-18",
+  "973 COKE LIGHT 500ML RM4.405",
+  "2XRM2.20",
+  "SS81 SPRITZER MINERAL WATER RM23.50s",
+  "Total Sales (Inclusive GST) RM 27.90",
+  "CASH RM 28.00",
+  "CHANGE RM 10",
+  "GST Summary Amount(RM) Tax(RM)",
+  "S=6% 26.33 1.57",
+  "Thank You. Please come again",
+  "Keep the invoice for applicable returns"
+ ],
+ "tokens": [
+  {
+   "text": "99SPEED MART S/B (519537-X)",
+   "conf": 0.9144108759032356
+  },
+  {
+   "text": "LOT P.T.2811,JALAN ANGSA",
+   "conf": 0.9345881715416908
+  },
+  {
+   "text": "TAMAN BERKELEY",
+   "conf": 0.9774598181247711
+  },
+  {
+   "text": "41150 KLANG,SELANGOR",
+   "conf": 0.9643830746412277
+  },
+  {
+   "text": "1225-DENGKIL",
+   "conf": 0.9876027305920919
+  },
+  {
+   "text": "GST ID.N0:000181747712",
+   "conf": 0.9464024549180811
+  },
+  {
+   "text": "INV0ICE N0:18291/102/T0163",
+   "conf": 0.9571894269723159
+  },
+  {
+   "text": "11:59AM",
+   "conf": 0.9691887157303947
+  },
+  {
+   "text": "567640",
+   "conf": 0.995328684647878
+  },
+  {
+   "text": "28-01-18",
+   "conf": 0.994949534535408
+  },
+  {
+   "text": "973 COKE LIGHT 500ML",
+   "conf": 0.924608051776886
+  },
+  {
+   "text": "RM4.405",
+   "conf": 0.8837766604764121
+  },
+  {
+   "text": "2XRM2.20",
+   "conf": 0.9480403363704681
+  },
+  {
+   "text": "SS81 SPRITZER MINERAL WATER",
+   "conf": 0.9378928166848642
+  },
+  {
+   "text": "RM23.50s",
+   "conf": 0.9380535408854485
+  },
+  {
+   "text": "Total Sales (Inclusive GST) RM",
+   "conf": 0.928213361899058
+  },
+  {
+   "text": "27.90",
+   "conf": 0.9942525863647461
+  },
+  {
+   "text": "CASH RM",
+   "conf": 0.9361508233206612
+  },
+  {
+   "text": "28.00",
+   "conf": 0.9912335634231567
+  },
+  {
+   "text": "CHANGE RM",
+   "conf": 0.9418864183955722
+  },
+  {
+   "text": "10",
+   "conf": 0.9978653490543365
+  },
+  {
+   "text": "GST Summary",
+   "conf": 0.9240823117169467
+  },
+  {
+   "text": "Amount(RM)",
+   "conf": 0.8378931641578674
+  },
+  {
+   "text": "Tax(RM)",
+   "conf": 0.9376358730452401
+  },
+  {
+   "text": "S=6%",
+   "conf": 0.6913409158587456
+  },
+  {
+   "text": "26.33",
+   "conf": 0.9963231921195984
+  },
+  {
+   "text": "1.57",
+   "conf": 0.9923628568649292
+  },
+  {
+   "text": "Thank You. Please come again",
+   "conf": 0.9520064230476107
+  },
+  {
+   "text": "Keep the invoice for applicable returns",
+   "conf": 0.9804839797509022
+  }
+ ],
+ "mean_conf": 0.944,
+ "low_conf_share": 0.0,
+ "latency_ms": 3007,
+ "fields": {
+  "company": null,
+  "date": "2018-01-28",
+  "total": 27.9
+ },
+ "rule_reasons": [
+  "company_not_found"
+ ],
+ "total_candidates": [
+  27.9
+ ],
+ "key": "X51008142038"
+}

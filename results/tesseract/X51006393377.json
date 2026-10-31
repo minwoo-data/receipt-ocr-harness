@@ -1,0 +1,744 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "31705509",
+  "oh aio!",
+  "ve",
+  "99 SPEED MART 5/8 {549S37-X) i",
+  "| LOT P.T, 2811, JALAN ANGSA,",
+  "} TAMAN BERKELEY",
+  "| $1156 KLANG, SELANGOR",
+  "1422-THH DESA JAVA",
+  "GST 1B, NO > OQO0L91747712",
+  "INVOICE NOs 18025/103/T036?",
+  "| Oi:57P# 563478 16-05-17",
+  "2174 AGW SARSAPARILLA 1,51 RH2.95 $",
+  "2502 COKE ZERO 1.25. STOP RM2.50 s",
+  "262 HELANG MINYSK MASAK SKG = -R24.40 z",
+  "325 CINTAN MI PERISA ASLI S RN3.45 s",
+  "Sil MAHEE EXPRESS MI CMAN RHL,27 s",
+  "» $425 MAGGI HOT CUP MEE TOM RM3.50",
+  "| @2 % RH 1.75",
+  "| 066 MILO FUZE SINI ORIGINAL = -RNLI.45 s",
+  "$821 JULIES SUGAR CRACKERS BME. 70 s",
+  "| #2 X RM 3.35",
+  "6059 S88 TWISTIES COOKIES 4 RH2.30 s",
+  "SP BIN BIN RICE CRACKER 15 RNLL.99 s",
+  "£2 X 84 5.95",
+  "Total Sales (Inclusive 957) RN 72,74",
+  "Rounding Adjustment RH 203",
+  "Rounding RN = 72,75",
+  "CHANGE RM 27.25",
+  "GS} Summary Amount (RH) Taxt RH)",
+  "s = 6) $5,480 2,74",
+  "z= & 24,40 OG",
+  "é Thank You. Please come again",
+  "Keep the inyoice for applicable returns"
+ ],
+ "tokens": [
+  {
+   "text": "31705509",
+   "conf": 0.96
+  },
+  {
+   "text": "oh",
+   "conf": 0.0
+  },
+  {
+   "text": "aio!",
+   "conf": 0.3
+  },
+  {
+   "text": "ve",
+   "conf": 0.22
+  },
+  {
+   "text": "99",
+   "conf": 0.89
+  },
+  {
+   "text": "SPEED",
+   "conf": 0.86
+  },
+  {
+   "text": "MART",
+   "conf": 0.94
+  },
+  {
+   "text": "5/8",
+   "conf": 0.63
+  },
+  {
+   "text": "{549S37-X)",
+   "conf": 0.32
+  },
+  {
+   "text": "i",
+   "conf": 0.39
+  },
+  {
+   "text": "|",
+   "conf": 0.4
+  },
+  {
+   "text": "LOT",
+   "conf": 0.73
+  },
+  {
+   "text": "P.T,",
+   "conf": 0.24
+  },
+  {
+   "text": "2811,",
+   "conf": 0.7
+  },
+  {
+   "text": "JALAN",
+   "conf": 0.92
+  },
+  {
+   "text": "ANGSA,",
+   "conf": 0.83
+  },
+  {
+   "text": "}",
+   "conf": 0.3
+  },
+  {
+   "text": "TAMAN",
+   "conf": 0.87
+  },
+  {
+   "text": "BERKELEY",
+   "conf": 0.95
+  },
+  {
+   "text": "|",
+   "conf": 0.28
+  },
+  {
+   "text": "$1156",
+   "conf": 0.51
+  },
+  {
+   "text": "KLANG,",
+   "conf": 0.95
+  },
+  {
+   "text": "SELANGOR",
+   "conf": 0.95
+  },
+  {
+   "text": "1422-THH",
+   "conf": 0.66
+  },
+  {
+   "text": "DESA",
+   "conf": 0.5
+  },
+  {
+   "text": "JAVA",
+   "conf": 0.88
+  },
+  {
+   "text": "GST",
+   "conf": 0.95
+  },
+  {
+   "text": "1B,",
+   "conf": 0.7
+  },
+  {
+   "text": "NO",
+   "conf": 0.61
+  },
+  {
+   "text": ">",
+   "conf": 0.44
+  },
+  {
+   "text": "OQO0L91747712",
+   "conf": 0.2
+  },
+  {
+   "text": "INVOICE",
+   "conf": 0.94
+  },
+  {
+   "text": "NOs",
+   "conf": 0.47
+  },
+  {
+   "text": "18025/103/T036?",
+   "conf": 0.04
+  },
+  {
+   "text": "|",
+   "conf": 0.25
+  },
+  {
+   "text": "Oi:57P#",
+   "conf": 0.0
+  },
+  {
+   "text": "563478",
+   "conf": 0.73
+  },
+  {
+   "text": "16-05-17",
+   "conf": 0.47
+  },
+  {
+   "text": "2174",
+   "conf": 0.94
+  },
+  {
+   "text": "AGW",
+   "conf": 0.69
+  },
+  {
+   "text": "SARSAPARILLA",
+   "conf": 0.89
+  },
+  {
+   "text": "1,51",
+   "conf": 0.62
+  },
+  {
+   "text": "RH2.95",
+   "conf": 0.53
+  },
+  {
+   "text": "$",
+   "conf": 0.69
+  },
+  {
+   "text": "2502",
+   "conf": 0.96
+  },
+  {
+   "text": "COKE",
+   "conf": 0.96
+  },
+  {
+   "text": "ZERO",
+   "conf": 0.95
+  },
+  {
+   "text": "1.25.",
+   "conf": 0.47
+  },
+  {
+   "text": "STOP",
+   "conf": 0.9
+  },
+  {
+   "text": "RM2.50",
+   "conf": 0.49
+  },
+  {
+   "text": "s",
+   "conf": 0.82
+  },
+  {
+   "text": "262",
+   "conf": 0.53
+  },
+  {
+   "text": "HELANG",
+   "conf": 0.91
+  },
+  {
+   "text": "MINYSK",
+   "conf": 0.74
+  },
+  {
+   "text": "MASAK",
+   "conf": 0.68
+  },
+  {
+   "text": "SKG",
+   "conf": 0.87
+  },
+  {
+   "text": "=",
+   "conf": 0.39
+  },
+  {
+   "text": "-R24.40",
+   "conf": 0.2
+  },
+  {
+   "text": "z",
+   "conf": 0.73
+  },
+  {
+   "text": "325",
+   "conf": 0.79
+  },
+  {
+   "text": "CINTAN",
+   "conf": 0.78
+  },
+  {
+   "text": "MI",
+   "conf": 0.87
+  },
+  {
+   "text": "PERISA",
+   "conf": 0.87
+  },
+  {
+   "text": "ASLI",
+   "conf": 0.55
+  },
+  {
+   "text": "S",
+   "conf": 0.55
+  },
+  {
+   "text": "RN3.45",
+   "conf": 0.34
+  },
+  {
+   "text": "s",
+   "conf": 0.8
+  },
+  {
+   "text": "Sil",
+   "conf": 0.74
+  },
+  {
+   "text": "MAHEE",
+   "conf": 0.43
+  },
+  {
+   "text": "EXPRESS",
+   "conf": 0.95
+  },
+  {
+   "text": "MI",
+   "conf": 0.8
+  },
+  {
+   "text": "CMAN",
+   "conf": 0.43
+  },
+  {
+   "text": "RHL,27",
+   "conf": 0.0
+  },
+  {
+   "text": "s",
+   "conf": 0.88
+  },
+  {
+   "text": "»",
+   "conf": 0.0
+  },
+  {
+   "text": "$425",
+   "conf": 0.82
+  },
+  {
+   "text": "MAGGI",
+   "conf": 0.92
+  },
+  {
+   "text": "HOT",
+   "conf": 0.95
+  },
+  {
+   "text": "CUP",
+   "conf": 0.94
+  },
+  {
+   "text": "MEE",
+   "conf": 0.94
+  },
+  {
+   "text": "TOM",
+   "conf": 0.3
+  },
+  {
+   "text": "RM3.50",
+   "conf": 0.05
+  },
+  {
+   "text": "|",
+   "conf": 0.63
+  },
+  {
+   "text": "@2",
+   "conf": 0.37
+  },
+  {
+   "text": "%",
+   "conf": 0.34
+  },
+  {
+   "text": "RH",
+   "conf": 0.55
+  },
+  {
+   "text": "1.75",
+   "conf": 0.55
+  },
+  {
+   "text": "|",
+   "conf": 0.57
+  },
+  {
+   "text": "066",
+   "conf": 0.72
+  },
+  {
+   "text": "MILO",
+   "conf": 0.82
+  },
+  {
+   "text": "FUZE",
+   "conf": 0.82
+  },
+  {
+   "text": "SINI",
+   "conf": 0.0
+  },
+  {
+   "text": "ORIGINAL",
+   "conf": 0.8
+  },
+  {
+   "text": "=",
+   "conf": 0.35
+  },
+  {
+   "text": "-RNLI.45",
+   "conf": 0.38
+  },
+  {
+   "text": "s",
+   "conf": 0.76
+  },
+  {
+   "text": "$821",
+   "conf": 0.67
+  },
+  {
+   "text": "JULIES",
+   "conf": 0.8
+  },
+  {
+   "text": "SUGAR",
+   "conf": 0.96
+  },
+  {
+   "text": "CRACKERS",
+   "conf": 0.94
+  },
+  {
+   "text": "BME.",
+   "conf": 0.04
+  },
+  {
+   "text": "70",
+   "conf": 0.04
+  },
+  {
+   "text": "s",
+   "conf": 0.2
+  },
+  {
+   "text": "|",
+   "conf": 0.96
+  },
+  {
+   "text": "#2",
+   "conf": 0.63
+  },
+  {
+   "text": "X",
+   "conf": 0.65
+  },
+  {
+   "text": "RM",
+   "conf": 0.57
+  },
+  {
+   "text": "3.35",
+   "conf": 0.62
+  },
+  {
+   "text": "6059",
+   "conf": 0.88
+  },
+  {
+   "text": "S88",
+   "conf": 0.73
+  },
+  {
+   "text": "TWISTIES",
+   "conf": 0.79
+  },
+  {
+   "text": "COOKIES",
+   "conf": 0.79
+  },
+  {
+   "text": "4",
+   "conf": 0.48
+  },
+  {
+   "text": "RH2.30",
+   "conf": 0.66
+  },
+  {
+   "text": "s",
+   "conf": 0.75
+  },
+  {
+   "text": "SP",
+   "conf": 0.0
+  },
+  {
+   "text": "BIN",
+   "conf": 0.88
+  },
+  {
+   "text": "BIN",
+   "conf": 0.88
+  },
+  {
+   "text": "RICE",
+   "conf": 0.88
+  },
+  {
+   "text": "CRACKER",
+   "conf": 0.96
+  },
+  {
+   "text": "15",
+   "conf": 0.44
+  },
+  {
+   "text": "RNLL.99",
+   "conf": 0.06
+  },
+  {
+   "text": "s",
+   "conf": 0.7
+  },
+  {
+   "text": "£2",
+   "conf": 0.47
+  },
+  {
+   "text": "X",
+   "conf": 0.77
+  },
+  {
+   "text": "84",
+   "conf": 0.74
+  },
+  {
+   "text": "5.95",
+   "conf": 0.74
+  },
+  {
+   "text": "Total",
+   "conf": 0.3
+  },
+  {
+   "text": "Sales",
+   "conf": 0.95
+  },
+  {
+   "text": "(Inclusive",
+   "conf": 0.79
+  },
+  {
+   "text": "957)",
+   "conf": 0.83
+  },
+  {
+   "text": "RN",
+   "conf": 0.48
+  },
+  {
+   "text": "72,74",
+   "conf": 0.48
+  },
+  {
+   "text": "Rounding",
+   "conf": 0.92
+  },
+  {
+   "text": "Adjustment",
+   "conf": 0.86
+  },
+  {
+   "text": "RH",
+   "conf": 0.46
+  },
+  {
+   "text": "203",
+   "conf": 0.16
+  },
+  {
+   "text": "Rounding",
+   "conf": 0.95
+  },
+  {
+   "text": "RN",
+   "conf": 0.61
+  },
+  {
+   "text": "=",
+   "conf": 0.36
+  },
+  {
+   "text": "72,75",
+   "conf": 0.44
+  },
+  {
+   "text": "CHANGE",
+   "conf": 0.91
+  },
+  {
+   "text": "RM",
+   "conf": 0.54
+  },
+  {
+   "text": "27.25",
+   "conf": 0.36
+  },
+  {
+   "text": "GS}",
+   "conf": 0.55
+  },
+  {
+   "text": "Summary",
+   "conf": 0.77
+  },
+  {
+   "text": "Amount",
+   "conf": 0.29
+  },
+  {
+   "text": "(RH)",
+   "conf": 0.39
+  },
+  {
+   "text": "Taxt",
+   "conf": 0.0
+  },
+  {
+   "text": "RH)",
+   "conf": 0.0
+  },
+  {
+   "text": "s",
+   "conf": 0.73
+  },
+  {
+   "text": "=",
+   "conf": 0.64
+  },
+  {
+   "text": "6)",
+   "conf": 0.56
+  },
+  {
+   "text": "$5,480",
+   "conf": 0.49
+  },
+  {
+   "text": "2,74",
+   "conf": 0.31
+  },
+  {
+   "text": "z=",
+   "conf": 0.75
+  },
+  {
+   "text": "&",
+   "conf": 0.57
+  },
+  {
+   "text": "24,40",
+   "conf": 0.73
+  },
+  {
+   "text": "OG",
+   "conf": 0.45
+  },
+  {
+   "text": "é",
+   "conf": 0.39
+  },
+  {
+   "text": "Thank",
+   "conf": 0.75
+  },
+  {
+   "text": "You.",
+   "conf": 0.85
+  },
+  {
+   "text": "Please",
+   "conf": 0.96
+  },
+  {
+   "text": "come",
+   "conf": 0.96
+  },
+  {
+   "text": "again",
+   "conf": 0.96
+  },
+  {
+   "text": "Keep",
+   "conf": 0.94
+  },
+  {
+   "text": "the",
+   "conf": 0.93
+  },
+  {
+   "text": "inyoice",
+   "conf": 0.91
+  },
+  {
+   "text": "for",
+   "conf": 0.93
+  },
+  {
+   "text": "applicable",
+   "conf": 0.96
+  },
+  {
+   "text": "returns",
+   "conf": 0.94
+  }
+ ],
+ "mean_conf": 0.6263,
+ "low_conf_share": 0.3275,
+ "latency_ms": 619,
+ "fields": {
+  "company": "OH AIO",
+  "date": "2017-05-16",
+  "total": 27.25
+ },
+ "rule_reasons": [
+  "total_no_keyword_fallback_max"
+ ],
+ "total_candidates": [
+  3.5,
+  1.75,
+  3.35,
+  2.3,
+  5.95,
+  27.25
+ ],
+ "key": "X51006393377"
+}

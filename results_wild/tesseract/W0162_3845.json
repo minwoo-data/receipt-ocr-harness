@@ -1,0 +1,291 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "j BORDER a",
+  "roadway",
+  "2 th 01906",
+  "(781), 233-5308",
+  "9334 Table 24 #arty 3",
+  "JENNIFER J “svrcke 14 3:44 04/19/14",
+  "2 Beverage 3.96",
+  "2 Water 9.00",
+  "1 Sh/Cr Quest, add quac 9.88",
+  "1 BIk Salmon Sal 8.98",
+  "1 Chkn Quesa¥E, add guac 8.93",
+  "Sub Total: 31.75",
+  "ST/Local Tax: 2.22",
+  "4/19 4:1707TOTAL : 33.97",
+  "GIVE THE GIFT OF gooD EATS",
+  "GIFT CERTIFICATES AVAILABLE"
+ ],
+ "tokens": [
+  {
+   "text": "j",
+   "conf": 0.0
+  },
+  {
+   "text": "BORDER",
+   "conf": 0.93
+  },
+  {
+   "text": "a",
+   "conf": 0.36
+  },
+  {
+   "text": "roadway",
+   "conf": 0.94
+  },
+  {
+   "text": "2",
+   "conf": 0.3
+  },
+  {
+   "text": "th",
+   "conf": 0.21
+  },
+  {
+   "text": "01906",
+   "conf": 0.83
+  },
+  {
+   "text": "(781),",
+   "conf": 0.87
+  },
+  {
+   "text": "233-5308",
+   "conf": 0.92
+  },
+  {
+   "text": "9334",
+   "conf": 0.85
+  },
+  {
+   "text": "Table",
+   "conf": 0.9
+  },
+  {
+   "text": "24",
+   "conf": 0.85
+  },
+  {
+   "text": "#arty",
+   "conf": 0.62
+  },
+  {
+   "text": "3",
+   "conf": 0.95
+  },
+  {
+   "text": "JENNIFER",
+   "conf": 0.89
+  },
+  {
+   "text": "J",
+   "conf": 0.89
+  },
+  {
+   "text": "“svrcke",
+   "conf": 0.19
+  },
+  {
+   "text": "14",
+   "conf": 0.84
+  },
+  {
+   "text": "3:44",
+   "conf": 0.64
+  },
+  {
+   "text": "04/19/14",
+   "conf": 0.93
+  },
+  {
+   "text": "2",
+   "conf": 0.96
+  },
+  {
+   "text": "Beverage",
+   "conf": 0.96
+  },
+  {
+   "text": "3.96",
+   "conf": 0.76
+  },
+  {
+   "text": "2",
+   "conf": 0.96
+  },
+  {
+   "text": "Water",
+   "conf": 0.96
+  },
+  {
+   "text": "9.00",
+   "conf": 0.82
+  },
+  {
+   "text": "1",
+   "conf": 0.88
+  },
+  {
+   "text": "Sh/Cr",
+   "conf": 0.88
+  },
+  {
+   "text": "Quest,",
+   "conf": 0.4
+  },
+  {
+   "text": "add",
+   "conf": 0.91
+  },
+  {
+   "text": "quac",
+   "conf": 0.56
+  },
+  {
+   "text": "9.88",
+   "conf": 0.75
+  },
+  {
+   "text": "1",
+   "conf": 0.74
+  },
+  {
+   "text": "BIk",
+   "conf": 0.38
+  },
+  {
+   "text": "Salmon",
+   "conf": 0.89
+  },
+  {
+   "text": "Sal",
+   "conf": 0.37
+  },
+  {
+   "text": "8.98",
+   "conf": 0.8
+  },
+  {
+   "text": "1",
+   "conf": 0.9
+  },
+  {
+   "text": "Chkn",
+   "conf": 0.89
+  },
+  {
+   "text": "Quesa¥E,",
+   "conf": 0.28
+  },
+  {
+   "text": "add",
+   "conf": 0.91
+  },
+  {
+   "text": "guac",
+   "conf": 0.91
+  },
+  {
+   "text": "8.93",
+   "conf": 0.94
+  },
+  {
+   "text": "Sub",
+   "conf": 0.96
+  },
+  {
+   "text": "Total:",
+   "conf": 0.86
+  },
+  {
+   "text": "31.75",
+   "conf": 0.75
+  },
+  {
+   "text": "ST/Local",
+   "conf": 0.82
+  },
+  {
+   "text": "Tax:",
+   "conf": 0.87
+  },
+  {
+   "text": "2.22",
+   "conf": 0.52
+  },
+  {
+   "text": "4/19",
+   "conf": 0.56
+  },
+  {
+   "text": "4:1707TOTAL",
+   "conf": 0.0
+  },
+  {
+   "text": ":",
+   "conf": 0.89
+  },
+  {
+   "text": "33.97",
+   "conf": 0.71
+  },
+  {
+   "text": "GIVE",
+   "conf": 0.96
+  },
+  {
+   "text": "THE",
+   "conf": 0.96
+  },
+  {
+   "text": "GIFT",
+   "conf": 0.93
+  },
+  {
+   "text": "OF",
+   "conf": 0.93
+  },
+  {
+   "text": "gooD",
+   "conf": 0.65
+  },
+  {
+   "text": "EATS",
+   "conf": 0.59
+  },
+  {
+   "text": "GIFT",
+   "conf": 0.94
+  },
+  {
+   "text": "CERTIFICATES",
+   "conf": 0.94
+  },
+  {
+   "text": "AVAILABLE",
+   "conf": 0.11
+  }
+ ],
+ "mean_conf": 0.7366,
+ "low_conf_share": 0.1774,
+ "latency_ms": 923,
+ "fields": {
+  "company": "J BORDER A",
+  "date": "2014-04-19",
+  "total": 33.97
+ },
+ "rule_reasons": [
+  "total_no_keyword_fallback_max"
+ ],
+ "total_candidates": [
+  9.88,
+  8.98,
+  8.93,
+  31.75,
+  2.22,
+  33.97
+ ],
+ "key": "W0162_3845"
+}

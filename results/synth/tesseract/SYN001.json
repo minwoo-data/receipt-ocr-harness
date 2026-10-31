@@ -1,0 +1,204 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "BLUE HARBOUR CAFE",
+  "LOT 3-21 PAVILION MALL, BUKIT BINTANG",
+  "TAX INVOICE",
+  "Date: 02/11/2028 Time: 13:42",
+  "1 x ENGINE OIL 4L 89.00",
+  "1 x DISH SOAP 900ML 7.40",
+  "SUBTOTAL 96.40",
+  "GST 6% 5.78",
+  "TOTAL 102.18",
+  "CASH 107.18",
+  "CHANGE 5.00",
+  "THANK YOU, PLEASE COME AGAIN"
+ ],
+ "tokens": [
+  {
+   "text": "BLUE",
+   "conf": 0.95
+  },
+  {
+   "text": "HARBOUR",
+   "conf": 0.96
+  },
+  {
+   "text": "CAFE",
+   "conf": 0.96
+  },
+  {
+   "text": "LOT",
+   "conf": 0.94
+  },
+  {
+   "text": "3-21",
+   "conf": 0.96
+  },
+  {
+   "text": "PAVILION",
+   "conf": 0.96
+  },
+  {
+   "text": "MALL,",
+   "conf": 0.96
+  },
+  {
+   "text": "BUKIT",
+   "conf": 0.91
+  },
+  {
+   "text": "BINTANG",
+   "conf": 0.91
+  },
+  {
+   "text": "TAX",
+   "conf": 0.96
+  },
+  {
+   "text": "INVOICE",
+   "conf": 0.96
+  },
+  {
+   "text": "Date:",
+   "conf": 0.96
+  },
+  {
+   "text": "02/11/2028",
+   "conf": 0.95
+  },
+  {
+   "text": "Time:",
+   "conf": 0.96
+  },
+  {
+   "text": "13:42",
+   "conf": 0.96
+  },
+  {
+   "text": "1",
+   "conf": 0.85
+  },
+  {
+   "text": "x",
+   "conf": 0.85
+  },
+  {
+   "text": "ENGINE",
+   "conf": 0.96
+  },
+  {
+   "text": "OIL",
+   "conf": 0.9
+  },
+  {
+   "text": "4L",
+   "conf": 0.89
+  },
+  {
+   "text": "89.00",
+   "conf": 0.95
+  },
+  {
+   "text": "1",
+   "conf": 0.82
+  },
+  {
+   "text": "x",
+   "conf": 0.82
+  },
+  {
+   "text": "DISH",
+   "conf": 0.96
+  },
+  {
+   "text": "SOAP",
+   "conf": 0.92
+  },
+  {
+   "text": "900ML",
+   "conf": 0.74
+  },
+  {
+   "text": "7.40",
+   "conf": 0.93
+  },
+  {
+   "text": "SUBTOTAL",
+   "conf": 0.96
+  },
+  {
+   "text": "96.40",
+   "conf": 0.95
+  },
+  {
+   "text": "GST",
+   "conf": 0.96
+  },
+  {
+   "text": "6%",
+   "conf": 0.96
+  },
+  {
+   "text": "5.78",
+   "conf": 0.96
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.96
+  },
+  {
+   "text": "102.18",
+   "conf": 0.96
+  },
+  {
+   "text": "CASH",
+   "conf": 0.95
+  },
+  {
+   "text": "107.18",
+   "conf": 0.96
+  },
+  {
+   "text": "CHANGE",
+   "conf": 0.96
+  },
+  {
+   "text": "5.00",
+   "conf": 0.96
+  },
+  {
+   "text": "THANK",
+   "conf": 0.96
+  },
+  {
+   "text": "YOU,",
+   "conf": 0.96
+  },
+  {
+   "text": "PLEASE",
+   "conf": 0.96
+  },
+  {
+   "text": "COME",
+   "conf": 0.96
+  },
+  {
+   "text": "AGAIN",
+   "conf": 0.96
+  }
+ ],
+ "mean_conf": 0.9347,
+ "low_conf_share": 0.0,
+ "latency_ms": 2310,
+ "fields": {
+  "company": "BLUE HARBOUR CAFE",
+  "date": "2028-11-02",
+  "total": 102.18
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  102.18
+ ],
+ "key": "SYN001"
+}

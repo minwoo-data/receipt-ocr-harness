@@ -1,0 +1,120 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "BLUEHARBOURCAFE",
+  "LOT 3-21PAVILIONMALL，BUKITBINTANG",
+  "TAXINVOICE",
+  "Date:02/11/2028 Time:13:42",
+  "1x ENGINE OIL4L 89.00",
+  "1x DISH S0AP 900ML 7.40",
+  "SUBTOTAL 96.40",
+  "GST6% 5.78",
+  "TOTAL 102.18",
+  "CASH 107.18",
+  "CHANGE 5.00",
+  "THANKYOU,PLEASECOMEAGAIN"
+ ],
+ "tokens": [
+  {
+   "text": "BLUEHARBOURCAFE",
+   "conf": 0.9954232414563496
+  },
+  {
+   "text": "LOT 3-21PAVILIONMALL，BUKITBINTANG",
+   "conf": 0.9435076054298517
+  },
+  {
+   "text": "TAXINVOICE",
+   "conf": 0.9940949141979217
+  },
+  {
+   "text": "Date:02/11/2028",
+   "conf": 0.9848919630050659
+  },
+  {
+   "text": "Time:13:42",
+   "conf": 0.9743332803249359
+  },
+  {
+   "text": "1x",
+   "conf": 0.8003380298614502
+  },
+  {
+   "text": "ENGINE OIL4L",
+   "conf": 0.9614740858475367
+  },
+  {
+   "text": "89.00",
+   "conf": 0.9993859529495239
+  },
+  {
+   "text": "1x",
+   "conf": 0.818105548620224
+  },
+  {
+   "text": "DISH S0AP 900ML",
+   "conf": 0.960125474135081
+  },
+  {
+   "text": "7.40",
+   "conf": 0.9937925487756729
+  },
+  {
+   "text": "SUBTOTAL",
+   "conf": 0.9951108545064926
+  },
+  {
+   "text": "96.40",
+   "conf": 0.999856686592102
+  },
+  {
+   "text": "GST6%",
+   "conf": 0.9985762000083923
+  },
+  {
+   "text": "5.78",
+   "conf": 0.9996179491281509
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.9974539160728455
+  },
+  {
+   "text": "102.18",
+   "conf": 0.9994970858097076
+  },
+  {
+   "text": "CASH",
+   "conf": 0.9961777925491333
+  },
+  {
+   "text": "107.18",
+   "conf": 0.9995440244674683
+  },
+  {
+   "text": "CHANGE",
+   "conf": 0.9957091212272644
+  },
+  {
+   "text": "5.00",
+   "conf": 0.9993136525154114
+  },
+  {
+   "text": "THANKYOU,PLEASECOMEAGAIN",
+   "conf": 0.9804780607422193
+  }
+ ],
+ "mean_conf": 0.9721,
+ "low_conf_share": 0.0,
+ "latency_ms": 23330,
+ "fields": {
+  "company": "BLUEHARBOURCAFE",
+  "date": "2028-11-02",
+  "total": 102.18
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  102.18
+ ],
+ "key": "SYN001"
+}

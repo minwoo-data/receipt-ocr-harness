@@ -1,0 +1,179 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "4/21/2018 11:36",
+  "Lobby Gift Shop",
+  "Check:3010261",
+  "Server:Steven",
+  "Terminal:301",
+  "RETAIL",
+  "Reta1l",
+  "1P1lvrHd SXL 48.95",
+  "2010300663",
+  "0 Open Discx -12.24",
+  "PROMD",
+  "Gross Sales 48.95",
+  "-12.24",
+  "Subtotal 36.71",
+  "XP1 2.57",
+  "Total 39.28",
+  "Cash 40.00",
+  "Change 0.72",
+  "GRAND TOTAL 39.28",
+  "Receive a free gift with a",
+  "$50purchase on your next visit",
+  "to Gur Margaritaville Stores!",
+  "2010300663"
+ ],
+ "tokens": [
+  {
+   "text": "4/21/2018",
+   "conf": 0.9884949922561646
+  },
+  {
+   "text": "11:36",
+   "conf": 0.9690633893013001
+  },
+  {
+   "text": "Lobby Gift Shop",
+   "conf": 0.9578753272692363
+  },
+  {
+   "text": "Check:3010261",
+   "conf": 0.9598679267443143
+  },
+  {
+   "text": "Server:Steven",
+   "conf": 0.9828980565071106
+  },
+  {
+   "text": "Terminal:301",
+   "conf": 0.9203555087248484
+  },
+  {
+   "text": "RETAIL",
+   "conf": 0.9454176127910614
+  },
+  {
+   "text": "Reta1l",
+   "conf": 0.8984919389088949
+  },
+  {
+   "text": "1P1lvrHd SXL",
+   "conf": 0.817661794523398
+  },
+  {
+   "text": "48.95",
+   "conf": 0.9841355204582214
+  },
+  {
+   "text": "2010300663",
+   "conf": 0.9971622467041016
+  },
+  {
+   "text": "0",
+   "conf": 0.8174139261245728
+  },
+  {
+   "text": "Open Discx",
+   "conf": 0.8911346316337585
+  },
+  {
+   "text": "-12.24",
+   "conf": 0.9759049316247305
+  },
+  {
+   "text": "PROMD",
+   "conf": 0.9511054396629334
+  },
+  {
+   "text": "Gross Sales",
+   "conf": 0.9159741184928201
+  },
+  {
+   "text": "48.95",
+   "conf": 0.9801175475120545
+  },
+  {
+   "text": "-12.24",
+   "conf": 0.9869491954644521
+  },
+  {
+   "text": "Subtotal",
+   "conf": 0.9736603125929832
+  },
+  {
+   "text": "36.71",
+   "conf": 0.9945455074310303
+  },
+  {
+   "text": "XP1",
+   "conf": 0.5556439359982809
+  },
+  {
+   "text": "2.57",
+   "conf": 0.9919486790895462
+  },
+  {
+   "text": "Total",
+   "conf": 0.9771712183952331
+  },
+  {
+   "text": "39.28",
+   "conf": 0.9005475401878357
+  },
+  {
+   "text": "Cash",
+   "conf": 0.9731793701648712
+  },
+  {
+   "text": "40.00",
+   "conf": 0.9909887552261353
+  },
+  {
+   "text": "Change",
+   "conf": 0.9491019447644552
+  },
+  {
+   "text": "0.72",
+   "conf": 0.9915754199028015
+  },
+  {
+   "text": "GRAND TOTAL",
+   "conf": 0.9550795229998502
+  },
+  {
+   "text": "39.28",
+   "conf": 0.9906190276145935
+  },
+  {
+   "text": "Receive a free gift with a",
+   "conf": 0.9002715349197388
+  },
+  {
+   "text": "$50purchase on your next visit",
+   "conf": 0.9112321476141612
+  },
+  {
+   "text": "to Gur Margaritaville Stores!",
+   "conf": 0.9195259110680942
+  },
+  {
+   "text": "2010300663",
+   "conf": 0.9985319793224334
+  }
+ ],
+ "mean_conf": 0.9386,
+ "low_conf_share": 0.0,
+ "latency_ms": 3365,
+ "fields": {
+  "company": "LOBBY GIFT SHOP",
+  "date": "2018-04-21",
+  "total": 39.28
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  39.28
+ ],
+ "key": "W0184_32abb05dc239"
+}

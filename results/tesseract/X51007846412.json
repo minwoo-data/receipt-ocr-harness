@@ -1,0 +1,964 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "so uuu 2! ck Dey ra . ,",
+  "LAVENDER CONFECTSONERY & BAKERY $/B:",
+  "COMPARY NO: 459702-V",
+  "LOT G29. & G30, AEON Mall TEBRAU CITY, | ,",
+  "NO. 1, JALAN GESA TEBRAU, | )",
+  "TAMAN DESA “ERRAU, 81100 JOHOR BAHRU. . ‘",
+  "TEL + 07-364 3785 . |",
+  "GST ID NO: 001872378904",
+  "Tax TNVOTCE",
+  "17/08/2018 The BOoOBaSBOS",
+  "— Gty) = Descriptions Amount",
+  ". 1 HOWcY SQFT POAST 3,30 T",
+  "Z XTAC GE GE 5.40 7",
+  "1 PARMESAN CHEDCAR CHEES 4.457",
+  "1 TOFFEE GANTSH 5.45 7 .",
+  "2 EGG TART 5.10 T ,",
+  "1 OTAK SHEESE BUN 3.10 7 ;",
+  "8 TOTAL 7.50",
+  "CASH ? 50.00 :",
+  "Chae, Aili E: 23.50",
+  "GST Suminary Amount Tax |",
+  "T: GST 26 50 0,00 }",
+  "Z: Zero Rates 0.00 0,00 ,",
+  "a 1s |",
+  "iW. lavender COM, My .",
+  "THANK YOU. .",
+  "1. All sales are final. Goods sold |",
+  "are not refundaple nor exchangeable.",
+  "2, Our predusts eooatain no added",
+  ": preservatives, alease consume within .",
+  ": a day or keep agcerding to",
+  "| . : | recommendations on packaging.",
+  ", 3. For feedback, please retain this",
+  "Tax Invoice. Geak store manager |",
+  "assistance CR drop us an email.",
+  "4, Tax Invoige can only be issued - .",
+  ". on the purchase date. Amendment is",
+  "7 not allowsd ones issued. |",
+  "CshiC1337 LEE FING TING , |",
+  "PoS:TO12 Shf 201805171"
+ ],
+ "tokens": [
+  {
+   "text": "so",
+   "conf": 0.0
+  },
+  {
+   "text": "uuu",
+   "conf": 0.0
+  },
+  {
+   "text": "2!",
+   "conf": 0.32
+  },
+  {
+   "text": "ck",
+   "conf": 0.0
+  },
+  {
+   "text": "Dey",
+   "conf": 0.64
+  },
+  {
+   "text": "ra",
+   "conf": 0.24
+  },
+  {
+   "text": ".",
+   "conf": 0.01
+  },
+  {
+   "text": ",",
+   "conf": 0.0
+  },
+  {
+   "text": "LAVENDER",
+   "conf": 0.9
+  },
+  {
+   "text": "CONFECTSONERY",
+   "conf": 0.49
+  },
+  {
+   "text": "&",
+   "conf": 0.92
+  },
+  {
+   "text": "BAKERY",
+   "conf": 0.91
+  },
+  {
+   "text": "$/B:",
+   "conf": 0.19
+  },
+  {
+   "text": "COMPARY",
+   "conf": 0.81
+  },
+  {
+   "text": "NO:",
+   "conf": 0.68
+  },
+  {
+   "text": "459702-V",
+   "conf": 0.53
+  },
+  {
+   "text": "LOT",
+   "conf": 0.38
+  },
+  {
+   "text": "G29.",
+   "conf": 0.18
+  },
+  {
+   "text": "&",
+   "conf": 0.18
+  },
+  {
+   "text": "G30,",
+   "conf": 0.91
+  },
+  {
+   "text": "AEON",
+   "conf": 0.71
+  },
+  {
+   "text": "Mall",
+   "conf": 0.89
+  },
+  {
+   "text": "TEBRAU",
+   "conf": 0.91
+  },
+  {
+   "text": "CITY,",
+   "conf": 0.3
+  },
+  {
+   "text": "|",
+   "conf": 0.58
+  },
+  {
+   "text": ",",
+   "conf": 0.0
+  },
+  {
+   "text": "NO.",
+   "conf": 0.87
+  },
+  {
+   "text": "1,",
+   "conf": 0.91
+  },
+  {
+   "text": "JALAN",
+   "conf": 0.91
+  },
+  {
+   "text": "GESA",
+   "conf": 0.72
+  },
+  {
+   "text": "TEBRAU,",
+   "conf": 0.76
+  },
+  {
+   "text": "|",
+   "conf": 0.56
+  },
+  {
+   "text": ")",
+   "conf": 0.0
+  },
+  {
+   "text": "TAMAN",
+   "conf": 0.91
+  },
+  {
+   "text": "DESA",
+   "conf": 0.89
+  },
+  {
+   "text": "“ERRAU,",
+   "conf": 0.81
+  },
+  {
+   "text": "81100",
+   "conf": 0.85
+  },
+  {
+   "text": "JOHOR",
+   "conf": 0.29
+  },
+  {
+   "text": "BAHRU.",
+   "conf": 0.0
+  },
+  {
+   "text": ".",
+   "conf": 0.22
+  },
+  {
+   "text": "‘",
+   "conf": 0.0
+  },
+  {
+   "text": "TEL",
+   "conf": 0.86
+  },
+  {
+   "text": "+",
+   "conf": 0.52
+  },
+  {
+   "text": "07-364",
+   "conf": 0.44
+  },
+  {
+   "text": "3785",
+   "conf": 0.92
+  },
+  {
+   "text": ".",
+   "conf": 0.53
+  },
+  {
+   "text": "|",
+   "conf": 0.58
+  },
+  {
+   "text": "GST",
+   "conf": 0.88
+  },
+  {
+   "text": "ID",
+   "conf": 0.89
+  },
+  {
+   "text": "NO:",
+   "conf": 0.73
+  },
+  {
+   "text": "001872378904",
+   "conf": 0.7
+  },
+  {
+   "text": "Tax",
+   "conf": 0.57
+  },
+  {
+   "text": "TNVOTCE",
+   "conf": 0.14
+  },
+  {
+   "text": "17/08/2018",
+   "conf": 0.24
+  },
+  {
+   "text": "The",
+   "conf": 0.15
+  },
+  {
+   "text": "BOoOBaSBOS",
+   "conf": 0.0
+  },
+  {
+   "text": "—",
+   "conf": 0.07
+  },
+  {
+   "text": "Gty)",
+   "conf": 0.0
+  },
+  {
+   "text": "=",
+   "conf": 0.27
+  },
+  {
+   "text": "Descriptions",
+   "conf": 0.56
+  },
+  {
+   "text": "Amount",
+   "conf": 0.96
+  },
+  {
+   "text": ".",
+   "conf": 0.0
+  },
+  {
+   "text": "1",
+   "conf": 0.81
+  },
+  {
+   "text": "HOWcY",
+   "conf": 0.07
+  },
+  {
+   "text": "SQFT",
+   "conf": 0.44
+  },
+  {
+   "text": "POAST",
+   "conf": 0.0
+  },
+  {
+   "text": "3,30",
+   "conf": 0.89
+  },
+  {
+   "text": "T",
+   "conf": 0.9
+  },
+  {
+   "text": "Z",
+   "conf": 0.52
+  },
+  {
+   "text": "XTAC",
+   "conf": 0.68
+  },
+  {
+   "text": "GE",
+   "conf": 0.91
+  },
+  {
+   "text": "GE",
+   "conf": 0.91
+  },
+  {
+   "text": "5.40",
+   "conf": 0.89
+  },
+  {
+   "text": "7",
+   "conf": 0.84
+  },
+  {
+   "text": "1",
+   "conf": 0.92
+  },
+  {
+   "text": "PARMESAN",
+   "conf": 0.89
+  },
+  {
+   "text": "CHEDCAR",
+   "conf": 0.56
+  },
+  {
+   "text": "CHEES",
+   "conf": 0.91
+  },
+  {
+   "text": "4.457",
+   "conf": 0.68
+  },
+  {
+   "text": "1",
+   "conf": 0.87
+  },
+  {
+   "text": "TOFFEE",
+   "conf": 0.89
+  },
+  {
+   "text": "GANTSH",
+   "conf": 0.21
+  },
+  {
+   "text": "5.45",
+   "conf": 0.62
+  },
+  {
+   "text": "7",
+   "conf": 0.83
+  },
+  {
+   "text": ".",
+   "conf": 0.37
+  },
+  {
+   "text": "2",
+   "conf": 0.94
+  },
+  {
+   "text": "EGG",
+   "conf": 0.48
+  },
+  {
+   "text": "TART",
+   "conf": 0.71
+  },
+  {
+   "text": "5.10",
+   "conf": 0.87
+  },
+  {
+   "text": "T",
+   "conf": 0.87
+  },
+  {
+   "text": ",",
+   "conf": 0.0
+  },
+  {
+   "text": "1",
+   "conf": 0.91
+  },
+  {
+   "text": "OTAK",
+   "conf": 0.63
+  },
+  {
+   "text": "SHEESE",
+   "conf": 0.85
+  },
+  {
+   "text": "BUN",
+   "conf": 0.95
+  },
+  {
+   "text": "3.10",
+   "conf": 0.93
+  },
+  {
+   "text": "7",
+   "conf": 0.59
+  },
+  {
+   "text": ";",
+   "conf": 0.21
+  },
+  {
+   "text": "8",
+   "conf": 0.81
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.93
+  },
+  {
+   "text": "7.50",
+   "conf": 0.0
+  },
+  {
+   "text": "CASH",
+   "conf": 0.96
+  },
+  {
+   "text": "?",
+   "conf": 0.0
+  },
+  {
+   "text": "50.00",
+   "conf": 0.93
+  },
+  {
+   "text": ":",
+   "conf": 0.14
+  },
+  {
+   "text": "Chae,",
+   "conf": 0.27
+  },
+  {
+   "text": "Aili",
+   "conf": 0.28
+  },
+  {
+   "text": "E:",
+   "conf": 0.54
+  },
+  {
+   "text": "23.50",
+   "conf": 0.79
+  },
+  {
+   "text": "GST",
+   "conf": 0.87
+  },
+  {
+   "text": "Suminary",
+   "conf": 0.64
+  },
+  {
+   "text": "Amount",
+   "conf": 0.89
+  },
+  {
+   "text": "Tax",
+   "conf": 0.96
+  },
+  {
+   "text": "|",
+   "conf": 0.55
+  },
+  {
+   "text": "T:",
+   "conf": 0.89
+  },
+  {
+   "text": "GST",
+   "conf": 0.95
+  },
+  {
+   "text": "26",
+   "conf": 0.94
+  },
+  {
+   "text": "50",
+   "conf": 0.41
+  },
+  {
+   "text": "0,00",
+   "conf": 0.69
+  },
+  {
+   "text": "}",
+   "conf": 0.0
+  },
+  {
+   "text": "Z:",
+   "conf": 0.88
+  },
+  {
+   "text": "Zero",
+   "conf": 0.96
+  },
+  {
+   "text": "Rates",
+   "conf": 0.68
+  },
+  {
+   "text": "0.00",
+   "conf": 0.88
+  },
+  {
+   "text": "0,00",
+   "conf": 0.91
+  },
+  {
+   "text": ",",
+   "conf": 0.0
+  },
+  {
+   "text": "a",
+   "conf": 0.06
+  },
+  {
+   "text": "1s",
+   "conf": 0.06
+  },
+  {
+   "text": "|",
+   "conf": 0.42
+  },
+  {
+   "text": "iW.",
+   "conf": 0.01
+  },
+  {
+   "text": "lavender",
+   "conf": 0.44
+  },
+  {
+   "text": "COM,",
+   "conf": 0.29
+  },
+  {
+   "text": "My",
+   "conf": 0.69
+  },
+  {
+   "text": ".",
+   "conf": 0.0
+  },
+  {
+   "text": "THANK",
+   "conf": 0.91
+  },
+  {
+   "text": "YOU.",
+   "conf": 0.7
+  },
+  {
+   "text": ".",
+   "conf": 0.29
+  },
+  {
+   "text": "1.",
+   "conf": 0.8
+  },
+  {
+   "text": "All",
+   "conf": 0.95
+  },
+  {
+   "text": "sales",
+   "conf": 0.95
+  },
+  {
+   "text": "are",
+   "conf": 0.66
+  },
+  {
+   "text": "final.",
+   "conf": 0.75
+  },
+  {
+   "text": "Goods",
+   "conf": 0.84
+  },
+  {
+   "text": "sold",
+   "conf": 0.94
+  },
+  {
+   "text": "|",
+   "conf": 0.42
+  },
+  {
+   "text": "are",
+   "conf": 0.94
+  },
+  {
+   "text": "not",
+   "conf": 0.91
+  },
+  {
+   "text": "refundaple",
+   "conf": 0.34
+  },
+  {
+   "text": "nor",
+   "conf": 0.68
+  },
+  {
+   "text": "exchangeable.",
+   "conf": 0.86
+  },
+  {
+   "text": "2,",
+   "conf": 0.73
+  },
+  {
+   "text": "Our",
+   "conf": 0.88
+  },
+  {
+   "text": "predusts",
+   "conf": 0.15
+  },
+  {
+   "text": "eooatain",
+   "conf": 0.16
+  },
+  {
+   "text": "no",
+   "conf": 0.95
+  },
+  {
+   "text": "added",
+   "conf": 0.57
+  },
+  {
+   "text": ":",
+   "conf": 0.01
+  },
+  {
+   "text": "preservatives,",
+   "conf": 0.74
+  },
+  {
+   "text": "alease",
+   "conf": 0.4
+  },
+  {
+   "text": "consume",
+   "conf": 0.96
+  },
+  {
+   "text": "within",
+   "conf": 0.95
+  },
+  {
+   "text": ".",
+   "conf": 0.29
+  },
+  {
+   "text": ":",
+   "conf": 0.15
+  },
+  {
+   "text": "a",
+   "conf": 0.92
+  },
+  {
+   "text": "day",
+   "conf": 0.92
+  },
+  {
+   "text": "or",
+   "conf": 0.95
+  },
+  {
+   "text": "keep",
+   "conf": 0.37
+  },
+  {
+   "text": "agcerding",
+   "conf": 0.23
+  },
+  {
+   "text": "to",
+   "conf": 0.93
+  },
+  {
+   "text": "|",
+   "conf": 0.43
+  },
+  {
+   "text": ".",
+   "conf": 0.12
+  },
+  {
+   "text": ":",
+   "conf": 0.0
+  },
+  {
+   "text": "|",
+   "conf": 0.56
+  },
+  {
+   "text": "recommendations",
+   "conf": 0.88
+  },
+  {
+   "text": "on",
+   "conf": 0.96
+  },
+  {
+   "text": "packaging.",
+   "conf": 0.77
+  },
+  {
+   "text": ",",
+   "conf": 0.0
+  },
+  {
+   "text": "3.",
+   "conf": 0.88
+  },
+  {
+   "text": "For",
+   "conf": 0.95
+  },
+  {
+   "text": "feedback,",
+   "conf": 0.53
+  },
+  {
+   "text": "please",
+   "conf": 0.92
+  },
+  {
+   "text": "retain",
+   "conf": 0.96
+  },
+  {
+   "text": "this",
+   "conf": 0.96
+  },
+  {
+   "text": "Tax",
+   "conf": 0.94
+  },
+  {
+   "text": "Invoice.",
+   "conf": 0.15
+  },
+  {
+   "text": "Geak",
+   "conf": 0.87
+  },
+  {
+   "text": "store",
+   "conf": 0.95
+  },
+  {
+   "text": "manager",
+   "conf": 0.95
+  },
+  {
+   "text": "|",
+   "conf": 0.6
+  },
+  {
+   "text": "assistance",
+   "conf": 0.94
+  },
+  {
+   "text": "CR",
+   "conf": 0.87
+  },
+  {
+   "text": "drop",
+   "conf": 0.94
+  },
+  {
+   "text": "us",
+   "conf": 0.95
+  },
+  {
+   "text": "an",
+   "conf": 0.95
+  },
+  {
+   "text": "email.",
+   "conf": 0.63
+  },
+  {
+   "text": "4,",
+   "conf": 0.89
+  },
+  {
+   "text": "Tax",
+   "conf": 0.93
+  },
+  {
+   "text": "Invoige",
+   "conf": 0.62
+  },
+  {
+   "text": "can",
+   "conf": 0.95
+  },
+  {
+   "text": "only",
+   "conf": 0.95
+  },
+  {
+   "text": "be",
+   "conf": 0.96
+  },
+  {
+   "text": "issued",
+   "conf": 0.91
+  },
+  {
+   "text": "-",
+   "conf": 0.0
+  },
+  {
+   "text": ".",
+   "conf": 0.33
+  },
+  {
+   "text": ".",
+   "conf": 0.26
+  },
+  {
+   "text": "on",
+   "conf": 0.96
+  },
+  {
+   "text": "the",
+   "conf": 0.95
+  },
+  {
+   "text": "purchase",
+   "conf": 0.65
+  },
+  {
+   "text": "date.",
+   "conf": 0.95
+  },
+  {
+   "text": "Amendment",
+   "conf": 0.94
+  },
+  {
+   "text": "is",
+   "conf": 0.96
+  },
+  {
+   "text": "7",
+   "conf": 0.0
+  },
+  {
+   "text": "not",
+   "conf": 0.92
+  },
+  {
+   "text": "allowsd",
+   "conf": 0.91
+  },
+  {
+   "text": "ones",
+   "conf": 0.49
+  },
+  {
+   "text": "issued.",
+   "conf": 0.79
+  },
+  {
+   "text": "|",
+   "conf": 0.64
+  },
+  {
+   "text": "CshiC1337",
+   "conf": 0.37
+  },
+  {
+   "text": "LEE",
+   "conf": 0.76
+  },
+  {
+   "text": "FING",
+   "conf": 0.93
+  },
+  {
+   "text": "TING",
+   "conf": 0.95
+  },
+  {
+   "text": ",",
+   "conf": 0.0
+  },
+  {
+   "text": "|",
+   "conf": 0.37
+  },
+  {
+   "text": "PoS:TO12",
+   "conf": 0.0
+  },
+  {
+   "text": "Shf",
+   "conf": 0.33
+  },
+  {
+   "text": "201805171",
+   "conf": 0.44
+  }
+ ],
+ "mean_conf": 0.6046,
+ "low_conf_share": 0.3451,
+ "latency_ms": 2439,
+ "fields": {
+  "company": "SO UUU 2 CK DEY RA",
+  "date": "2018-08-17",
+  "total": 7.5
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  7.5
+ ],
+ "key": "X51007846412"
+}

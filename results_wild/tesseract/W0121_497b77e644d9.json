@@ -1,0 +1,288 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "HMSHOST",
+  "CALIFORNIA PIZZA KITCHEN",
+  "QAKLAND INTL AIRPORT",
+  "287724 Brittney",
+  "CHK 2900 GST 1",
+  "DEC23'14 2:52PM",
+  "TO GO",
+  "1 PIZ MARGHTA 11.49",
+  "1 WTR ARTC SOL M 2,99",
+  "SUBTOTAL 14.48",
+  "EE BENFT SURCHRG 0/29",
+  "TAX 138",
+  "AMOUNT PAID TS 10",
+  "CASH 20.00",
+  "CHANGE 3.90",
+  "--287724 Closed DEC23 02:52PM---",
+  "THANK YOU FOR YOUR BUSINESS!",
+  "TELL US ABOUT YOUR EXPERIENCE",
+  "GILBERT SILVA",
+  "GILBERT.SILVA@HMSHOST .COM"
+ ],
+ "tokens": [
+  {
+   "text": "HMSHOST",
+   "conf": 0.89
+  },
+  {
+   "text": "CALIFORNIA",
+   "conf": 0.95
+  },
+  {
+   "text": "PIZZA",
+   "conf": 0.95
+  },
+  {
+   "text": "KITCHEN",
+   "conf": 0.95
+  },
+  {
+   "text": "QAKLAND",
+   "conf": 0.54
+  },
+  {
+   "text": "INTL",
+   "conf": 0.94
+  },
+  {
+   "text": "AIRPORT",
+   "conf": 0.03
+  },
+  {
+   "text": "287724",
+   "conf": 0.96
+  },
+  {
+   "text": "Brittney",
+   "conf": 0.95
+  },
+  {
+   "text": "CHK",
+   "conf": 0.95
+  },
+  {
+   "text": "2900",
+   "conf": 0.96
+  },
+  {
+   "text": "GST",
+   "conf": 0.93
+  },
+  {
+   "text": "1",
+   "conf": 0.93
+  },
+  {
+   "text": "DEC23'14",
+   "conf": 0.77
+  },
+  {
+   "text": "2:52PM",
+   "conf": 0.82
+  },
+  {
+   "text": "TO",
+   "conf": 0.71
+  },
+  {
+   "text": "GO",
+   "conf": 0.9
+  },
+  {
+   "text": "1",
+   "conf": 0.89
+  },
+  {
+   "text": "PIZ",
+   "conf": 0.88
+  },
+  {
+   "text": "MARGHTA",
+   "conf": 0.9
+  },
+  {
+   "text": "11.49",
+   "conf": 0.74
+  },
+  {
+   "text": "1",
+   "conf": 0.91
+  },
+  {
+   "text": "WTR",
+   "conf": 0.67
+  },
+  {
+   "text": "ARTC",
+   "conf": 0.9
+  },
+  {
+   "text": "SOL",
+   "conf": 0.93
+  },
+  {
+   "text": "M",
+   "conf": 0.92
+  },
+  {
+   "text": "2,99",
+   "conf": 0.85
+  },
+  {
+   "text": "SUBTOTAL",
+   "conf": 0.96
+  },
+  {
+   "text": "14.48",
+   "conf": 0.78
+  },
+  {
+   "text": "EE",
+   "conf": 0.93
+  },
+  {
+   "text": "BENFT",
+   "conf": 0.91
+  },
+  {
+   "text": "SURCHRG",
+   "conf": 0.92
+  },
+  {
+   "text": "0/29",
+   "conf": 0.21
+  },
+  {
+   "text": "TAX",
+   "conf": 0.96
+  },
+  {
+   "text": "138",
+   "conf": 0.4
+  },
+  {
+   "text": "AMOUNT",
+   "conf": 0.96
+  },
+  {
+   "text": "PAID",
+   "conf": 0.96
+  },
+  {
+   "text": "TS",
+   "conf": 0.34
+  },
+  {
+   "text": "10",
+   "conf": 0.55
+  },
+  {
+   "text": "CASH",
+   "conf": 0.96
+  },
+  {
+   "text": "20.00",
+   "conf": 0.96
+  },
+  {
+   "text": "CHANGE",
+   "conf": 0.96
+  },
+  {
+   "text": "3.90",
+   "conf": 0.95
+  },
+  {
+   "text": "--287724",
+   "conf": 0.92
+  },
+  {
+   "text": "Closed",
+   "conf": 0.92
+  },
+  {
+   "text": "DEC23",
+   "conf": 0.9
+  },
+  {
+   "text": "02:52PM---",
+   "conf": 0.9
+  },
+  {
+   "text": "THANK",
+   "conf": 0.96
+  },
+  {
+   "text": "YOU",
+   "conf": 0.96
+  },
+  {
+   "text": "FOR",
+   "conf": 0.96
+  },
+  {
+   "text": "YOUR",
+   "conf": 0.96
+  },
+  {
+   "text": "BUSINESS!",
+   "conf": 0.96
+  },
+  {
+   "text": "TELL",
+   "conf": 0.96
+  },
+  {
+   "text": "US",
+   "conf": 0.96
+  },
+  {
+   "text": "ABOUT",
+   "conf": 0.96
+  },
+  {
+   "text": "YOUR",
+   "conf": 0.96
+  },
+  {
+   "text": "EXPERIENCE",
+   "conf": 0.96
+  },
+  {
+   "text": "GILBERT",
+   "conf": 0.96
+  },
+  {
+   "text": "SILVA",
+   "conf": 0.96
+  },
+  {
+   "text": "GILBERT.SILVA@HMSHOST",
+   "conf": 0.33
+  },
+  {
+   "text": ".COM",
+   "conf": 0.33
+  }
+ ],
+ "mean_conf": 0.8402,
+ "low_conf_share": 0.0984,
+ "latency_ms": 1946,
+ "fields": {
+  "company": "HMSHOST",
+  "date": null,
+  "total": 20.0
+ },
+ "rule_reasons": [
+  "date_not_found",
+  "total_no_keyword_fallback_max"
+ ],
+ "total_candidates": [
+  20.0,
+  3.9
+ ],
+ "key": "W0121_497b77e644d9"
+}

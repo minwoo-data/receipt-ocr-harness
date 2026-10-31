@@ -1,0 +1,346 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "‘ Ke",
+  "B & BEST RESTAURANT",
+  "(001619235-P)",
+  "r ) GS} NG. : 001800839168",
+  "HO.12, Jb AN SS40/5,PETALING JAYA",
+  "SE -ANGOR DARUL EHSAN",
+  "TEL : 012-2060 778",
+  "HETAX INVOICE+4",
+  "BILL NO: 00133863 / POSO1",
+  "BIZDATE: 19/04/2017",
+  "CASHIER: Manager",
+  "PRINTED: 19/04/2617 12:44:57 PM RM",
+  "2 FISHBALL NOODLE @7.00 14.00",
+  "2 SUB TOTA 14.00",
+  "GST 6% _/ 0.84",
+  "ROUNDING AGJ > 0.01",
+  ". Pleas ATVs",
+  "htt ebook ,com/B-! Restaurant",
+  "; w il) Be Charges GST",
+  "Pw § ook"
+ ],
+ "tokens": [
+  {
+   "text": "‘",
+   "conf": 0.23
+  },
+  {
+   "text": "Ke",
+   "conf": 0.2
+  },
+  {
+   "text": "B",
+   "conf": 0.81
+  },
+  {
+   "text": "&",
+   "conf": 0.86
+  },
+  {
+   "text": "BEST",
+   "conf": 0.96
+  },
+  {
+   "text": "RESTAURANT",
+   "conf": 0.95
+  },
+  {
+   "text": "(001619235-P)",
+   "conf": 0.9
+  },
+  {
+   "text": "r",
+   "conf": 0.06
+  },
+  {
+   "text": ")",
+   "conf": 0.58
+  },
+  {
+   "text": "GS}",
+   "conf": 0.4
+  },
+  {
+   "text": "NG.",
+   "conf": 0.68
+  },
+  {
+   "text": ":",
+   "conf": 0.67
+  },
+  {
+   "text": "001800839168",
+   "conf": 0.96
+  },
+  {
+   "text": "HO.12,",
+   "conf": 0.0
+  },
+  {
+   "text": "Jb",
+   "conf": 0.26
+  },
+  {
+   "text": "AN",
+   "conf": 0.73
+  },
+  {
+   "text": "SS40/5,PETALING",
+   "conf": 0.77
+  },
+  {
+   "text": "JAYA",
+   "conf": 0.92
+  },
+  {
+   "text": "SE",
+   "conf": 0.7
+  },
+  {
+   "text": "-ANGOR",
+   "conf": 0.64
+  },
+  {
+   "text": "DARUL",
+   "conf": 0.92
+  },
+  {
+   "text": "EHSAN",
+   "conf": 0.96
+  },
+  {
+   "text": "TEL",
+   "conf": 0.67
+  },
+  {
+   "text": ":",
+   "conf": 0.33
+  },
+  {
+   "text": "012-2060",
+   "conf": 0.69
+  },
+  {
+   "text": "778",
+   "conf": 0.96
+  },
+  {
+   "text": "HETAX",
+   "conf": 0.0
+  },
+  {
+   "text": "INVOICE+4",
+   "conf": 0.0
+  },
+  {
+   "text": "BILL",
+   "conf": 0.71
+  },
+  {
+   "text": "NO:",
+   "conf": 0.88
+  },
+  {
+   "text": "00133863",
+   "conf": 0.79
+  },
+  {
+   "text": "/",
+   "conf": 0.92
+  },
+  {
+   "text": "POSO1",
+   "conf": 0.75
+  },
+  {
+   "text": "BIZDATE:",
+   "conf": 0.84
+  },
+  {
+   "text": "19/04/2017",
+   "conf": 0.93
+  },
+  {
+   "text": "CASHIER:",
+   "conf": 0.95
+  },
+  {
+   "text": "Manager",
+   "conf": 0.95
+  },
+  {
+   "text": "PRINTED:",
+   "conf": 0.94
+  },
+  {
+   "text": "19/04/2617",
+   "conf": 0.66
+  },
+  {
+   "text": "12:44:57",
+   "conf": 0.82
+  },
+  {
+   "text": "PM",
+   "conf": 0.94
+  },
+  {
+   "text": "RM",
+   "conf": 0.96
+  },
+  {
+   "text": "2",
+   "conf": 0.96
+  },
+  {
+   "text": "FISHBALL",
+   "conf": 0.46
+  },
+  {
+   "text": "NOODLE",
+   "conf": 0.68
+  },
+  {
+   "text": "@7.00",
+   "conf": 0.84
+  },
+  {
+   "text": "14.00",
+   "conf": 0.65
+  },
+  {
+   "text": "2",
+   "conf": 0.81
+  },
+  {
+   "text": "SUB",
+   "conf": 0.81
+  },
+  {
+   "text": "TOTA",
+   "conf": 0.89
+  },
+  {
+   "text": "14.00",
+   "conf": 0.87
+  },
+  {
+   "text": "GST",
+   "conf": 0.95
+  },
+  {
+   "text": "6%",
+   "conf": 0.95
+  },
+  {
+   "text": "_/",
+   "conf": 0.47
+  },
+  {
+   "text": "0.84",
+   "conf": 0.94
+  },
+  {
+   "text": "ROUNDING",
+   "conf": 0.82
+  },
+  {
+   "text": "AGJ",
+   "conf": 0.36
+  },
+  {
+   "text": ">",
+   "conf": 0.36
+  },
+  {
+   "text": "0.01",
+   "conf": 0.91
+  },
+  {
+   "text": ".",
+   "conf": 0.6
+  },
+  {
+   "text": "Pleas",
+   "conf": 0.2
+  },
+  {
+   "text": "ATVs",
+   "conf": 0.0
+  },
+  {
+   "text": "htt",
+   "conf": 0.7
+  },
+  {
+   "text": "ebook",
+   "conf": 0.87
+  },
+  {
+   "text": ",com/B-!",
+   "conf": 0.31
+  },
+  {
+   "text": "Restaurant",
+   "conf": 0.95
+  },
+  {
+   "text": ";",
+   "conf": 0.23
+  },
+  {
+   "text": "w",
+   "conf": 0.5
+  },
+  {
+   "text": "il)",
+   "conf": 0.18
+  },
+  {
+   "text": "Be",
+   "conf": 0.95
+  },
+  {
+   "text": "Charges",
+   "conf": 0.93
+  },
+  {
+   "text": "GST",
+   "conf": 0.9
+  },
+  {
+   "text": "Pw",
+   "conf": 0.02
+  },
+  {
+   "text": "§",
+   "conf": 0.8
+  },
+  {
+   "text": "ook",
+   "conf": 0.0
+  }
+ ],
+ "mean_conf": 0.6629,
+ "low_conf_share": 0.2667,
+ "latency_ms": 895,
+ "fields": {
+  "company": "B BEST RESTAURANT",
+  "date": "2017-04-19",
+  "total": 14.0
+ },
+ "rule_reasons": [
+  "total_no_keyword_fallback_max"
+ ],
+ "total_candidates": [
+  7.0,
+  14.0,
+  14.0,
+  0.84,
+  0.01
+ ],
+ "key": "X51006401977"
+}

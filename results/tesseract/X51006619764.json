@@ -1,0 +1,175 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "ee we eS SS ee eee ee",
+  "[ j",
+  "ii he k ABANGLAN 7 INigLI",
+  "iNIy",
+  "l i",
+  "RAT b 1088 4",
+  "« “fi",
+  "hh 4 Hi",
+  "i ,",
+  "~as£4 LAA MAAR AA AAA Sh DAA,"
+ ],
+ "tokens": [
+  {
+   "text": "ee",
+   "conf": 0.3
+  },
+  {
+   "text": "we",
+   "conf": 0.26
+  },
+  {
+   "text": "eS",
+   "conf": 0.46
+  },
+  {
+   "text": "SS",
+   "conf": 0.09
+  },
+  {
+   "text": "ee",
+   "conf": 0.34
+  },
+  {
+   "text": "eee",
+   "conf": 0.17
+  },
+  {
+   "text": "ee",
+   "conf": 0.1
+  },
+  {
+   "text": "[",
+   "conf": 0.0
+  },
+  {
+   "text": "j",
+   "conf": 0.89
+  },
+  {
+   "text": "ii",
+   "conf": 0.7
+  },
+  {
+   "text": "he",
+   "conf": 0.36
+  },
+  {
+   "text": "k",
+   "conf": 0.0
+  },
+  {
+   "text": "ABANGLAN",
+   "conf": 0.39
+  },
+  {
+   "text": "7",
+   "conf": 0.2
+  },
+  {
+   "text": "INigLI",
+   "conf": 0.0
+  },
+  {
+   "text": "iNIy",
+   "conf": 0.18
+  },
+  {
+   "text": "l",
+   "conf": 0.72
+  },
+  {
+   "text": "i",
+   "conf": 0.88
+  },
+  {
+   "text": "RAT",
+   "conf": 0.71
+  },
+  {
+   "text": "b",
+   "conf": 0.26
+  },
+  {
+   "text": "1088",
+   "conf": 0.63
+  },
+  {
+   "text": "4",
+   "conf": 0.89
+  },
+  {
+   "text": "«",
+   "conf": 0.7
+  },
+  {
+   "text": "“fi",
+   "conf": 0.4
+  },
+  {
+   "text": "hh",
+   "conf": 0.6
+  },
+  {
+   "text": "4",
+   "conf": 0.5
+  },
+  {
+   "text": "Hi",
+   "conf": 0.37
+  },
+  {
+   "text": "i",
+   "conf": 0.23
+  },
+  {
+   "text": ",",
+   "conf": 0.0
+  },
+  {
+   "text": "~as£4",
+   "conf": 0.0
+  },
+  {
+   "text": "LAA",
+   "conf": 0.38
+  },
+  {
+   "text": "MAAR",
+   "conf": 0.0
+  },
+  {
+   "text": "AA",
+   "conf": 0.0
+  },
+  {
+   "text": "AAA",
+   "conf": 0.52
+  },
+  {
+   "text": "Sh",
+   "conf": 0.19
+  },
+  {
+   "text": "DAA,",
+   "conf": 0.3
+  }
+ ],
+ "mean_conf": 0.3533,
+ "low_conf_share": 0.6944,
+ "latency_ms": 1239,
+ "fields": {
+  "company": "EE WE ES SS EE EEE EE",
+  "date": null,
+  "total": null
+ },
+ "rule_reasons": [
+  "date_not_found",
+  "total_not_found"
+ ],
+ "total_candidates": [],
+ "key": "X51006619764"
+}

@@ -1,0 +1,694 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  ":",
+  ". Ud |",
+  "Nando:",
+  "- LNQNAOS. |",
+  "PERi-PERI CHICKEN",
+  "Nando's Chickenland Malaysia",
+  "Sdn Bhd",
+  "Nando's 1 Mont Kiara",
+  "Unit G-13, Ground Floor, No.1",
+  "Jin Kiara, Mont Kiara",
+  "50480 Kuala Lumpur",
+  "Tel: 1300-88-6555 Fax: 603-6203 6355 ,",
+  "Tax Invoice",
+  "~ GST ID:000097492992",
+  "4 NANDOS3 76 SYAFIQ 2",
+  "Chk 8660 Guest0",
+  "28 Mar 18 18:32:36",
+  "1 DELIVERY CHG 4.00 $",
+  "4 1/4 Chictisd-T @17.90 71.60 §",
+  "4 1/4-H §",
+  "4 CharGrill Veg(R)-TC §",
+  "GrillVeg-H",
+  "GrillVeg-H",
+  "GrillVeg-H",
+  "GrillVeg-H |",
+  "3. 1/4 Chictisd-T @17.90 53.70 §",
+  "3. 1/4-M 5 |",
+  "3. Coleslaw(R)-TC §",
+  "Sub Total 129,30",
+  "Amt Due 129.30",
+  "GST @6% 7.30",
+  "How was it for you?",
+  "Your feedback is important,",
+  "_80 please complete our",
+  "wow. howwasit4you-my .net",
+  "A meal for you & 10 friends",
+  "is up for grabs.",
+  "Survey Code:MAL025",
+  "T&C apply.",
+  "For Take Away and Delivery, |",
+  "food is best consumed within 2 hours",
+  "GSTSummary Amount(RM) GST(RM)",
+  "S=GST @6%: 122.00 7.30",
+  "Z=GST @0%: 0.00 0.00",
+  ")"
+ ],
+ "tokens": [
+  {
+   "text": ":",
+   "conf": 0.4
+  },
+  {
+   "text": ".",
+   "conf": 0.0
+  },
+  {
+   "text": "Ud",
+   "conf": 0.07
+  },
+  {
+   "text": "|",
+   "conf": 0.54
+  },
+  {
+   "text": "Nando:",
+   "conf": 0.96
+  },
+  {
+   "text": "-",
+   "conf": 0.45
+  },
+  {
+   "text": "LNQNAOS.",
+   "conf": 0.62
+  },
+  {
+   "text": "|",
+   "conf": 0.66
+  },
+  {
+   "text": "PERi-PERI",
+   "conf": 0.8
+  },
+  {
+   "text": "CHICKEN",
+   "conf": 0.96
+  },
+  {
+   "text": "Nando's",
+   "conf": 0.69
+  },
+  {
+   "text": "Chickenland",
+   "conf": 0.92
+  },
+  {
+   "text": "Malaysia",
+   "conf": 0.96
+  },
+  {
+   "text": "Sdn",
+   "conf": 0.8
+  },
+  {
+   "text": "Bhd",
+   "conf": 0.8
+  },
+  {
+   "text": "Nando's",
+   "conf": 0.89
+  },
+  {
+   "text": "1",
+   "conf": 0.95
+  },
+  {
+   "text": "Mont",
+   "conf": 0.95
+  },
+  {
+   "text": "Kiara",
+   "conf": 0.96
+  },
+  {
+   "text": "Unit",
+   "conf": 0.91
+  },
+  {
+   "text": "G-13,",
+   "conf": 0.9
+  },
+  {
+   "text": "Ground",
+   "conf": 0.95
+  },
+  {
+   "text": "Floor,",
+   "conf": 0.96
+  },
+  {
+   "text": "No.1",
+   "conf": 0.93
+  },
+  {
+   "text": "Jin",
+   "conf": 0.87
+  },
+  {
+   "text": "Kiara,",
+   "conf": 0.96
+  },
+  {
+   "text": "Mont",
+   "conf": 0.96
+  },
+  {
+   "text": "Kiara",
+   "conf": 0.96
+  },
+  {
+   "text": "50480",
+   "conf": 0.96
+  },
+  {
+   "text": "Kuala",
+   "conf": 0.95
+  },
+  {
+   "text": "Lumpur",
+   "conf": 0.95
+  },
+  {
+   "text": "Tel:",
+   "conf": 0.93
+  },
+  {
+   "text": "1300-88-6555",
+   "conf": 0.89
+  },
+  {
+   "text": "Fax:",
+   "conf": 0.96
+  },
+  {
+   "text": "603-6203",
+   "conf": 0.72
+  },
+  {
+   "text": "6355",
+   "conf": 0.96
+  },
+  {
+   "text": ",",
+   "conf": 0.0
+  },
+  {
+   "text": "Tax",
+   "conf": 0.96
+  },
+  {
+   "text": "Invoice",
+   "conf": 0.96
+  },
+  {
+   "text": "~",
+   "conf": 0.27
+  },
+  {
+   "text": "GST",
+   "conf": 0.9
+  },
+  {
+   "text": "ID:000097492992",
+   "conf": 0.57
+  },
+  {
+   "text": "4",
+   "conf": 0.92
+  },
+  {
+   "text": "NANDOS3",
+   "conf": 0.9
+  },
+  {
+   "text": "76",
+   "conf": 0.91
+  },
+  {
+   "text": "SYAFIQ",
+   "conf": 0.9
+  },
+  {
+   "text": "2",
+   "conf": 0.97
+  },
+  {
+   "text": "Chk",
+   "conf": 0.95
+  },
+  {
+   "text": "8660",
+   "conf": 0.96
+  },
+  {
+   "text": "Guest0",
+   "conf": 0.75
+  },
+  {
+   "text": "28",
+   "conf": 0.96
+  },
+  {
+   "text": "Mar",
+   "conf": 0.96
+  },
+  {
+   "text": "18",
+   "conf": 0.96
+  },
+  {
+   "text": "18:32:36",
+   "conf": 0.92
+  },
+  {
+   "text": "1",
+   "conf": 0.77
+  },
+  {
+   "text": "DELIVERY",
+   "conf": 0.88
+  },
+  {
+   "text": "CHG",
+   "conf": 0.96
+  },
+  {
+   "text": "4.00",
+   "conf": 0.72
+  },
+  {
+   "text": "$",
+   "conf": 0.66
+  },
+  {
+   "text": "4",
+   "conf": 0.72
+  },
+  {
+   "text": "1/4",
+   "conf": 0.72
+  },
+  {
+   "text": "Chictisd-T",
+   "conf": 0.26
+  },
+  {
+   "text": "@17.90",
+   "conf": 0.9
+  },
+  {
+   "text": "71.60",
+   "conf": 0.92
+  },
+  {
+   "text": "§",
+   "conf": 0.84
+  },
+  {
+   "text": "4",
+   "conf": 0.41
+  },
+  {
+   "text": "1/4-H",
+   "conf": 0.41
+  },
+  {
+   "text": "§",
+   "conf": 0.3
+  },
+  {
+   "text": "4",
+   "conf": 0.26
+  },
+  {
+   "text": "CharGrill",
+   "conf": 0.68
+  },
+  {
+   "text": "Veg(R)-TC",
+   "conf": 0.79
+  },
+  {
+   "text": "§",
+   "conf": 0.81
+  },
+  {
+   "text": "GrillVeg-H",
+   "conf": 0.51
+  },
+  {
+   "text": "GrillVeg-H",
+   "conf": 0.44
+  },
+  {
+   "text": "GrillVeg-H",
+   "conf": 0.58
+  },
+  {
+   "text": "GrillVeg-H",
+   "conf": 0.13
+  },
+  {
+   "text": "|",
+   "conf": 0.67
+  },
+  {
+   "text": "3.",
+   "conf": 0.56
+  },
+  {
+   "text": "1/4",
+   "conf": 0.7
+  },
+  {
+   "text": "Chictisd-T",
+   "conf": 0.78
+  },
+  {
+   "text": "@17.90",
+   "conf": 0.64
+  },
+  {
+   "text": "53.70",
+   "conf": 0.9
+  },
+  {
+   "text": "§",
+   "conf": 0.14
+  },
+  {
+   "text": "3.",
+   "conf": 0.65
+  },
+  {
+   "text": "1/4-M",
+   "conf": 0.06
+  },
+  {
+   "text": "5",
+   "conf": 0.54
+  },
+  {
+   "text": "|",
+   "conf": 0.93
+  },
+  {
+   "text": "3.",
+   "conf": 0.55
+  },
+  {
+   "text": "Coleslaw(R)-TC",
+   "conf": 0.57
+  },
+  {
+   "text": "§",
+   "conf": 0.21
+  },
+  {
+   "text": "Sub",
+   "conf": 0.96
+  },
+  {
+   "text": "Total",
+   "conf": 0.92
+  },
+  {
+   "text": "129,30",
+   "conf": 0.5
+  },
+  {
+   "text": "Amt",
+   "conf": 0.96
+  },
+  {
+   "text": "Due",
+   "conf": 0.81
+  },
+  {
+   "text": "129.30",
+   "conf": 0.81
+  },
+  {
+   "text": "GST",
+   "conf": 0.91
+  },
+  {
+   "text": "@6%",
+   "conf": 0.91
+  },
+  {
+   "text": "7.30",
+   "conf": 0.93
+  },
+  {
+   "text": "How",
+   "conf": 0.95
+  },
+  {
+   "text": "was",
+   "conf": 0.95
+  },
+  {
+   "text": "it",
+   "conf": 0.96
+  },
+  {
+   "text": "for",
+   "conf": 0.96
+  },
+  {
+   "text": "you?",
+   "conf": 0.96
+  },
+  {
+   "text": "Your",
+   "conf": 0.96
+  },
+  {
+   "text": "feedback",
+   "conf": 0.96
+  },
+  {
+   "text": "is",
+   "conf": 0.96
+  },
+  {
+   "text": "important,",
+   "conf": 0.96
+  },
+  {
+   "text": "_80",
+   "conf": 0.48
+  },
+  {
+   "text": "please",
+   "conf": 0.96
+  },
+  {
+   "text": "complete",
+   "conf": 0.96
+  },
+  {
+   "text": "our",
+   "conf": 0.96
+  },
+  {
+   "text": "wow.",
+   "conf": 0.39
+  },
+  {
+   "text": "howwasit4you-my",
+   "conf": 0.56
+  },
+  {
+   "text": ".net",
+   "conf": 0.73
+  },
+  {
+   "text": "A",
+   "conf": 0.9
+  },
+  {
+   "text": "meal",
+   "conf": 0.9
+  },
+  {
+   "text": "for",
+   "conf": 0.96
+  },
+  {
+   "text": "you",
+   "conf": 0.93
+  },
+  {
+   "text": "&",
+   "conf": 0.93
+  },
+  {
+   "text": "10",
+   "conf": 0.96
+  },
+  {
+   "text": "friends",
+   "conf": 0.96
+  },
+  {
+   "text": "is",
+   "conf": 0.96
+  },
+  {
+   "text": "up",
+   "conf": 0.95
+  },
+  {
+   "text": "for",
+   "conf": 0.96
+  },
+  {
+   "text": "grabs.",
+   "conf": 0.94
+  },
+  {
+   "text": "Survey",
+   "conf": 0.93
+  },
+  {
+   "text": "Code:MAL025",
+   "conf": 0.48
+  },
+  {
+   "text": "T&C",
+   "conf": 0.5
+  },
+  {
+   "text": "apply.",
+   "conf": 0.94
+  },
+  {
+   "text": "For",
+   "conf": 0.96
+  },
+  {
+   "text": "Take",
+   "conf": 0.96
+  },
+  {
+   "text": "Away",
+   "conf": 0.96
+  },
+  {
+   "text": "and",
+   "conf": 0.96
+  },
+  {
+   "text": "Delivery,",
+   "conf": 0.96
+  },
+  {
+   "text": "|",
+   "conf": 0.95
+  },
+  {
+   "text": "food",
+   "conf": 0.96
+  },
+  {
+   "text": "is",
+   "conf": 0.96
+  },
+  {
+   "text": "best",
+   "conf": 0.96
+  },
+  {
+   "text": "consumed",
+   "conf": 0.96
+  },
+  {
+   "text": "within",
+   "conf": 0.96
+  },
+  {
+   "text": "2",
+   "conf": 0.96
+  },
+  {
+   "text": "hours",
+   "conf": 0.96
+  },
+  {
+   "text": "GSTSummary",
+   "conf": 0.89
+  },
+  {
+   "text": "Amount(RM)",
+   "conf": 0.65
+  },
+  {
+   "text": "GST(RM)",
+   "conf": 0.85
+  },
+  {
+   "text": "S=GST",
+   "conf": 0.89
+  },
+  {
+   "text": "@6%:",
+   "conf": 0.89
+  },
+  {
+   "text": "122.00",
+   "conf": 0.88
+  },
+  {
+   "text": "7.30",
+   "conf": 0.91
+  },
+  {
+   "text": "Z=GST",
+   "conf": 0.87
+  },
+  {
+   "text": "@0%:",
+   "conf": 0.82
+  },
+  {
+   "text": "0.00",
+   "conf": 0.95
+  },
+  {
+   "text": "0.00",
+   "conf": 0.87
+  },
+  {
+   "text": ")",
+   "conf": 0.04
+  }
+ ],
+ "mean_conf": 0.7867,
+ "low_conf_share": 0.129,
+ "latency_ms": 2790,
+ "fields": {
+  "company": "NANDO S CHICKENLAND MALAYSIA SDN BHD",
+  "date": "2018-03-28",
+  "total": 129.3
+ },
+ "rule_reasons": [
+  "total_no_keyword_fallback_max"
+ ],
+ "total_candidates": [
+  17.9,
+  53.7,
+  129.3,
+  7.3,
+  122.0,
+  7.3,
+  0.0,
+  0.0
+ ],
+ "key": "X51005444037"
+}

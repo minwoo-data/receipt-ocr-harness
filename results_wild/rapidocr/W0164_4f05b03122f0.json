@@ -1,0 +1,178 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "Ber ghotel",
+  "Grosse Scheidegg",
+  "3818 Grindelwald",
+  "Fami lie R. Mul ler",
+  "Rech.Nr. 4572 30.07.2007/13:29: 17",
+  "Bar Tisch    7/01",
+  "2xlatte Macchiato a  4.50 CHF 9.00",
+  "1xGloki a  5.00 CHF 5.00",
+  "1xSchweinschnitzel   a 22.00 CHF 22.00",
+  "1xChasspatzli a 18.50 CHF 18.50",
+  "Total : CHF 54.50",
+  "Incl. 7.6% MwSt 54.50 CHF: 3.85",
+  "Entspricht in Euro  36.33 EUR",
+  "Es bediente Sie: Ursula",
+  "MwSt Nr.: 430 234",
+  "Tel. : 033 853 67 16",
+  "Fax. : 033 853 67 19",
+  "E-mail: grossescheidegg@bluewin.ch"
+ ],
+ "tokens": [
+  {
+   "text": "Ber ghotel",
+   "conf": 0.9686083137989044
+  },
+  {
+   "text": "Grosse Scheidegg",
+   "conf": 0.9951831139624119
+  },
+  {
+   "text": "3818 Grindelwald",
+   "conf": 0.980773575603962
+  },
+  {
+   "text": "Fami lie R. Mul ler",
+   "conf": 0.9351414002870259
+  },
+  {
+   "text": "Rech.Nr. 4572",
+   "conf": 0.989400538114401
+  },
+  {
+   "text": "30.07.2007/13:29: 17",
+   "conf": 0.9977808922529221
+  },
+  {
+   "text": "Bar",
+   "conf": 0.9982361197471619
+  },
+  {
+   "text": "Tisch    7/01",
+   "conf": 0.9265923270812402
+  },
+  {
+   "text": "2xlatte Macchiato",
+   "conf": 0.9921604570220498
+  },
+  {
+   "text": "a  4.50 CHF",
+   "conf": 0.9180417115038092
+  },
+  {
+   "text": "9.00",
+   "conf": 0.9998298585414886
+  },
+  {
+   "text": "1xGloki",
+   "conf": 0.9496517947741917
+  },
+  {
+   "text": "a  5.00",
+   "conf": 0.773117163351604
+  },
+  {
+   "text": "CHF",
+   "conf": 0.9988910555839539
+  },
+  {
+   "text": "5.00",
+   "conf": 0.999765083193779
+  },
+  {
+   "text": "1xSchweinschnitzel   a",
+   "conf": 0.9304196523583453
+  },
+  {
+   "text": "22.00",
+   "conf": 0.9998950958251953
+  },
+  {
+   "text": "CHF",
+   "conf": 0.9988925258318583
+  },
+  {
+   "text": "22.00",
+   "conf": 0.9998926997184754
+  },
+  {
+   "text": "1xChasspatzli",
+   "conf": 0.9731038717123178
+  },
+  {
+   "text": "a 18.50",
+   "conf": 0.947319643838065
+  },
+  {
+   "text": "CHF",
+   "conf": 0.9954710404078165
+  },
+  {
+   "text": "18.50",
+   "conf": 0.9996854186058044
+  },
+  {
+   "text": "Total :",
+   "conf": 0.9755716547369957
+  },
+  {
+   "text": "CHF",
+   "conf": 0.9945457180341085
+  },
+  {
+   "text": "54.50",
+   "conf": 0.9999175786972045
+  },
+  {
+   "text": "Incl. 7.6% MwSt",
+   "conf": 0.978148365020752
+  },
+  {
+   "text": "54.50 CHF:",
+   "conf": 0.9861132681369782
+  },
+  {
+   "text": "3.85",
+   "conf": 0.9994294345378876
+  },
+  {
+   "text": "Entspricht in Euro  36.33 EUR",
+   "conf": 0.9754495887920774
+  },
+  {
+   "text": "Es bediente Sie: Ursula",
+   "conf": 0.9921081791753354
+  },
+  {
+   "text": "MwSt Nr.: 430 234",
+   "conf": 0.9894819014212665
+  },
+  {
+   "text": "Tel. : 033 853 67 16",
+   "conf": 0.9725742161273956
+  },
+  {
+   "text": "Fax. : 033 853 67 19",
+   "conf": 0.9905366063117981
+  },
+  {
+   "text": "E-mail: grossescheidegg@bluewin.ch",
+   "conf": 0.9956204400343054
+  }
+ ],
+ "mean_conf": 0.9748,
+ "low_conf_share": 0.0,
+ "latency_ms": 4090,
+ "fields": {
+  "company": "BER GHOTEL",
+  "date": "2007-07-30",
+  "total": 54.5
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  54.5
+ ],
+ "key": "W0164_4f05b03122f0"
+}

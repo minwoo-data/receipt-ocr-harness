@@ -1,0 +1,164 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "AMANO MALAYSIA SON BHD (682288-V )",
+  "12JALAN PENGACARA U1/48",
+  "TEMASYAINDUSTRIALPARK",
+  "40150SHAHALAMSELANGOR",
+  "TEL:03-55695002/5003",
+  "(GST1D: 001137704960)",
+  "TAX INVOICE",
+  "P/S #O2AINW-No.0002300417000134",
+  "T/D#11 TicketNo.09622",
+  "30/04/2017（9n)21:45",
+  "Paid Time 30/04/2017(Sn) 22:49",
+  "ParkingTine 1:04",
+  "Type RateA RM1.00",
+  "ParkingFee FMO.94",
+  "GST(Included) 6.00% PMD.06/",
+  "Total PM1.00",
+  "Paid RM1.00",
+  "change RM0.00",
+  "ThankYou",
+  "Inclusive6%GST"
+ ],
+ "tokens": [
+  {
+   "text": "AMANO MALAYSIA SON BHD (682288-V )",
+   "conf": 0.9712463862755719
+  },
+  {
+   "text": "12JALAN PENGACARA U1/48",
+   "conf": 0.955735066662664
+  },
+  {
+   "text": "TEMASYAINDUSTRIALPARK",
+   "conf": 0.9749568275042942
+  },
+  {
+   "text": "40150SHAHALAMSELANGOR",
+   "conf": 0.9815685067858014
+  },
+  {
+   "text": "TEL:03-55695002/5003",
+   "conf": 0.9810745894908905
+  },
+  {
+   "text": "(GST1D: 001137704960)",
+   "conf": 0.9286707668077379
+  },
+  {
+   "text": "TAX INVOICE",
+   "conf": 0.9218067472631281
+  },
+  {
+   "text": "P/S #O2AINW-No.0002300417000134",
+   "conf": 0.9556350188870584
+  },
+  {
+   "text": "T/D#11",
+   "conf": 0.9599232375621796
+  },
+  {
+   "text": "TicketNo.09622",
+   "conf": 0.9123841524124146
+  },
+  {
+   "text": "30/04/2017（9n)21:45",
+   "conf": 0.9515622666007594
+  },
+  {
+   "text": "Paid Time",
+   "conf": 0.9796288477049934
+  },
+  {
+   "text": "30/04/2017(Sn) 22:49",
+   "conf": 0.92038514316082
+  },
+  {
+   "text": "ParkingTine",
+   "conf": 0.9632107236168601
+  },
+  {
+   "text": "1:04",
+   "conf": 0.981504812836647
+  },
+  {
+   "text": "Type",
+   "conf": 0.9966350942850113
+  },
+  {
+   "text": "RateA",
+   "conf": 0.991697883605957
+  },
+  {
+   "text": "RM1.00",
+   "conf": 0.9842914243539175
+  },
+  {
+   "text": "ParkingFee",
+   "conf": 0.9780579686164856
+  },
+  {
+   "text": "FMO.94",
+   "conf": 0.9198404649893442
+  },
+  {
+   "text": "GST(Included)",
+   "conf": 0.8540421701394595
+  },
+  {
+   "text": "6.00%",
+   "conf": 0.9518717646598815
+  },
+  {
+   "text": "PMD.06/",
+   "conf": 0.8152538112231663
+  },
+  {
+   "text": "Total",
+   "conf": 0.9935300469398498
+  },
+  {
+   "text": "PM1.00",
+   "conf": 0.873412236571312
+  },
+  {
+   "text": "Paid",
+   "conf": 0.989516481757164
+  },
+  {
+   "text": "RM1.00",
+   "conf": 0.9075676103432974
+  },
+  {
+   "text": "change",
+   "conf": 0.9220206141471863
+  },
+  {
+   "text": "RM0.00",
+   "conf": 0.9006713330745697
+  },
+  {
+   "text": "ThankYou",
+   "conf": 0.9322246238589287
+  },
+  {
+   "text": "Inclusive6%GST",
+   "conf": 0.95328175170081
+  }
+ ],
+ "mean_conf": 0.9453,
+ "low_conf_share": 0.0,
+ "latency_ms": 3984,
+ "fields": {
+  "company": "AMANO MALAYSIA SON BHD",
+  "date": "2017-04-30",
+  "total": 1.0
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  1.0
+ ],
+ "key": "X51006387950"
+}

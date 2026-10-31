@@ -1,0 +1,273 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "KING'S CONFECTIONERY S/B 273500-U (KSB)",
+  "NO.41,JALAN SERI BINTANG 2",
+  "TAMAN SRI BINTANG.",
+  "52100 KUALA LUMPUR",
+  "TELN0:-012-6028832",
+  "（GSTID：000294060032)",
+  "Tax ImVOICE",
+  "Inv No:KSB80051978 Date:11/03/1821:30",
+  "Cashier:FT8303 Ctr02",
+  "Code Desc Qty RMD% Amt",
+  "201D19 KAYA PUFF 4 1.60 0 6.40S",
+  "231027 Slice Cak1 8.70 0 8.70S",
+  "101110 Cheese Le1 3.5030 2.45S",
+  "251030 Cheese Ta 1 3.40 0 3.40S",
+  "171153 D/R BUTTE1 4.20 0 4.209",
+  "Qty 8 25.15",
+  "Rounding Adj- 0.00",
+  "ana 25.15",
+  "Pay 25.15",
+  "Change 0.00",
+  "（Tota1IncludedGST06%1.42)",
+  "GOODS SOLD NOT RETURNABLE/EXCHANGEABLE!",
+  "THANK YOU PLEASE COME AGAIN!!",
+  "TASTY BAKING HEALTHY NATION!!",
+  "==Visit us online at www.kings.com.ay=="
+ ],
+ "tokens": [
+  {
+   "text": "KING'S CONFECTIONERY S/B 273500-U (KSB)",
+   "conf": 0.908892578803576
+  },
+  {
+   "text": "NO.41,JALAN SERI BINTANG 2",
+   "conf": 0.9237443953752518
+  },
+  {
+   "text": "TAMAN SRI BINTANG.",
+   "conf": 0.9570659465259976
+  },
+  {
+   "text": "52100 KUALA LUMPUR",
+   "conf": 0.9204002618789673
+  },
+  {
+   "text": "TELN0:-012-6028832",
+   "conf": 0.9585741841130786
+  },
+  {
+   "text": "（GSTID：000294060032)",
+   "conf": 0.9259727895259857
+  },
+  {
+   "text": "Tax",
+   "conf": 0.7702258229255676
+  },
+  {
+   "text": "ImVOICE",
+   "conf": 0.5720849931240082
+  },
+  {
+   "text": "Inv No:KSB80051978",
+   "conf": 0.9195794065793356
+  },
+  {
+   "text": "Date:11/03/1821:30",
+   "conf": 0.9809978074497647
+  },
+  {
+   "text": "Cashier:FT8303",
+   "conf": 0.9700037283556802
+  },
+  {
+   "text": "Ctr02",
+   "conf": 0.975314199924469
+  },
+  {
+   "text": "Code",
+   "conf": 0.987963542342186
+  },
+  {
+   "text": "Desc",
+   "conf": 0.9484433531761169
+  },
+  {
+   "text": "Qty",
+   "conf": 0.9923579692840576
+  },
+  {
+   "text": "RMD%",
+   "conf": 0.8737535923719406
+  },
+  {
+   "text": "Amt",
+   "conf": 0.9114700158437093
+  },
+  {
+   "text": "201D19 KAYA PUFF",
+   "conf": 0.9438058100640774
+  },
+  {
+   "text": "4",
+   "conf": 0.9986905455589294
+  },
+  {
+   "text": "1.60",
+   "conf": 0.8821220099925995
+  },
+  {
+   "text": "0",
+   "conf": 0.9586589336395264
+  },
+  {
+   "text": "6.40S",
+   "conf": 0.8902143716812134
+  },
+  {
+   "text": "231027 Slice Cak1",
+   "conf": 0.9641007044736076
+  },
+  {
+   "text": "8.70",
+   "conf": 0.9846596568822861
+  },
+  {
+   "text": "0",
+   "conf": 0.8599657416343689
+  },
+  {
+   "text": "8.70S",
+   "conf": 0.8961696863174439
+  },
+  {
+   "text": "101110 Cheese Le1",
+   "conf": 0.9401688715990852
+  },
+  {
+   "text": "3.5030",
+   "conf": 0.9989008009433746
+  },
+  {
+   "text": "2.45S",
+   "conf": 0.9659778356552124
+  },
+  {
+   "text": "251030 Cheese Ta",
+   "conf": 0.9630914740264416
+  },
+  {
+   "text": "1",
+   "conf": 0.954373836517334
+  },
+  {
+   "text": "3.40",
+   "conf": 0.9774967432022095
+  },
+  {
+   "text": "0",
+   "conf": 0.9039686918258667
+  },
+  {
+   "text": "3.40S",
+   "conf": 0.9344534277915955
+  },
+  {
+   "text": "171153 D/R BUTTE1",
+   "conf": 0.9436109732179081
+  },
+  {
+   "text": "4.20",
+   "conf": 0.9876562803983688
+  },
+  {
+   "text": "0",
+   "conf": 0.8747841715812683
+  },
+  {
+   "text": "4.209",
+   "conf": 0.9297733664512634
+  },
+  {
+   "text": "Qty",
+   "conf": 0.995303233464559
+  },
+  {
+   "text": "8",
+   "conf": 0.9950297474861145
+  },
+  {
+   "text": "25.15",
+   "conf": 0.9985795021057129
+  },
+  {
+   "text": "Rounding Adj-",
+   "conf": 0.9662821843073919
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9845351427793503
+  },
+  {
+   "text": "ana",
+   "conf": 0.674879252910614
+  },
+  {
+   "text": "25.15",
+   "conf": 0.9933708310127258
+  },
+  {
+   "text": "Pay",
+   "conf": 0.8829164107640585
+  },
+  {
+   "text": "25.15",
+   "conf": 0.998497486114502
+  },
+  {
+   "text": "Change",
+   "conf": 0.9940051337083181
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9971719831228256
+  },
+  {
+   "text": "（Tota1IncludedGST06%1.42)",
+   "conf": 0.9178555798530579
+  },
+  {
+   "text": "GOODS SOLD NOT RETURNABLE/EXCHANGEABLE!",
+   "conf": 0.9606546148275718
+  },
+  {
+   "text": "THANK YOU PLEASE COME AGAIN!!",
+   "conf": 0.9218272011855553
+  },
+  {
+   "text": "TASTY BAKING HEALTHY NATION!!",
+   "conf": 0.962746077570422
+  },
+  {
+   "text": "==Visit us online at www.kings.com.ay==",
+   "conf": 0.8866822612591279
+  }
+ ],
+ "mean_conf": 0.933,
+ "low_conf_share": 0.0,
+ "latency_ms": 4714,
+ "fields": {
+  "company": "KING S CONFECTIONERY S B",
+  "date": null,
+  "total": 25.15
+ },
+ "rule_reasons": [
+  "date_not_found",
+  "total_no_keyword_fallback_max"
+ ],
+ "total_candidates": [
+  2.45,
+  3.4,
+  3.4,
+  4.2,
+  25.15,
+  0.0,
+  25.15,
+  25.15,
+  0.0,
+  1.42
+ ],
+ "key": "X51005719902"
+}

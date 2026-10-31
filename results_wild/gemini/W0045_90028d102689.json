@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.6-flash",
+ "provider": "gemini",
+ "raw_text": "{\"vendor\":\"EXPRESS PAY\",\"date\":\"2011-02-05\",\"subtotal\":null,\"tax\":null,\"tip\":null,\"discount\":null,\"total\":3.57,\"currency\":\"USD\",\"confidence\":0.85,\"notes\":null}",
+ "data": {
+  "vendor": "EXPRESS PAY",
+  "date": "2011-02-05",
+  "subtotal": null,
+  "tax": null,
+  "tip": null,
+  "discount": null,
+  "total": 3.57,
+  "currency": "USD",
+  "confidence": 0.85,
+  "notes": null
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1450,
+  "output_tokens": 59,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.001309,
+ "latency_ms": 1116,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.6-flash",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.6-flash"
+ ],
+ "key": "W0045_90028d102689"
+}

@@ -1,0 +1,187 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "158",
+  "Gerbang Alaf Restaurants Sdn Bhd",
+  "(65351-M)",
+  "Licensee of McDonald's",
+  "Leve1 6,Bangunan TH,Damansara Uptown3",
+  "No.3,Ja1anSS21/39,47400Peta1ing Jaya",
+  "Selangor",
+  "（GST ID No:000504664064)",
+  "McDonald's Shell Mahkota Cneras DT(#36",
+  "TelNo.03-9010-9849",
+  "TAX INVOICE",
+  "MFY Side1",
+  "INV# 003621900031366",
+  "ORD#58-REG#19-11/05/201820:22:56",
+  "QTYITEM TOTAL.",
+  "1L.McChicken 11.10",
+  "1LCoke",
+  "1L.Fries",
+  "16Nuggets 7.80",
+  "1French Cheese Sauce",
+  "TakeOut Total（inclCST) 18.90",
+  "Total Rounded 18.90",
+  "Cash Tendered 50.00",
+  "Change 31.10",
+  "TOTAL INCLJDES 6% GST 1.07",
+  "Thank You and Please Come Again.",
+  "Guest Relat1ons Center:1300-13-1300"
+ ],
+ "tokens": [
+  {
+   "text": "158",
+   "conf": 0.9989252885182699
+  },
+  {
+   "text": "Gerbang Alaf Restaurants Sdn Bhd",
+   "conf": 0.9556753057986498
+  },
+  {
+   "text": "(65351-M)",
+   "conf": 0.9524349371592203
+  },
+  {
+   "text": "Licensee of McDonald's",
+   "conf": 0.9103354947133497
+  },
+  {
+   "text": "Leve1 6,Bangunan TH,Damansara Uptown3",
+   "conf": 0.9306172680210423
+  },
+  {
+   "text": "No.3,Ja1anSS21/39,47400Peta1ing Jaya",
+   "conf": 0.9355306194888221
+  },
+  {
+   "text": "Selangor",
+   "conf": 0.9373209923505783
+  },
+  {
+   "text": "（GST ID No:000504664064)",
+   "conf": 0.9156064316630363
+  },
+  {
+   "text": "McDonald's Shell Mahkota Cneras DT(#36",
+   "conf": 0.8798318599399767
+  },
+  {
+   "text": "TelNo.03-9010-9849",
+   "conf": 0.9685766696929932
+  },
+  {
+   "text": "TAX INVOICE",
+   "conf": 0.9777061234820973
+  },
+  {
+   "text": "MFY Side1",
+   "conf": 0.8813399208916558
+  },
+  {
+   "text": "INV# 003621900031366",
+   "conf": 0.9452551394701004
+  },
+  {
+   "text": "ORD#58-REG#19-11/05/201820:22:56",
+   "conf": 0.9716616217046976
+  },
+  {
+   "text": "QTYITEM",
+   "conf": 0.9306191972323826
+  },
+  {
+   "text": "TOTAL.",
+   "conf": 0.9719258348147074
+  },
+  {
+   "text": "1L.McChicken",
+   "conf": 0.9201353887716929
+  },
+  {
+   "text": "11.10",
+   "conf": 0.9983310699462891
+  },
+  {
+   "text": "1LCoke",
+   "conf": 0.9692526757717133
+  },
+  {
+   "text": "1L.Fries",
+   "conf": 0.9479725807905197
+  },
+  {
+   "text": "16Nuggets",
+   "conf": 0.9900875488917033
+  },
+  {
+   "text": "7.80",
+   "conf": 0.9989206194877625
+  },
+  {
+   "text": "1French Cheese Sauce",
+   "conf": 0.9520197004079819
+  },
+  {
+   "text": "TakeOut Total（inclCST)",
+   "conf": 0.7996261025016959
+  },
+  {
+   "text": "18.90",
+   "conf": 0.998338520526886
+  },
+  {
+   "text": "Total Rounded",
+   "conf": 0.9463038123570956
+  },
+  {
+   "text": "18.90",
+   "conf": 0.9969363331794738
+  },
+  {
+   "text": "Cash Tendered",
+   "conf": 0.9756172299385071
+  },
+  {
+   "text": "50.00",
+   "conf": 0.9937546730041504
+  },
+  {
+   "text": "Change",
+   "conf": 0.9942880670229594
+  },
+  {
+   "text": "31.10",
+   "conf": 0.9818340182304383
+  },
+  {
+   "text": "TOTAL INCLJDES 6% GST",
+   "conf": 0.8967406891641163
+  },
+  {
+   "text": "1.07",
+   "conf": 0.8460534065961838
+  },
+  {
+   "text": "Thank You and Please Come Again.",
+   "conf": 0.9256892371922731
+  },
+  {
+   "text": "Guest Relat1ons Center:1300-13-1300",
+   "conf": 0.9540122440883092
+  }
+ ],
+ "mean_conf": 0.9471,
+ "low_conf_share": 0.0,
+ "latency_ms": 4074,
+ "fields": {
+  "company": "GERBANG ALAF RESTAURANTS SDN BHD",
+  "date": "2005-11-19",
+  "total": 1.07
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  1.07
+ ],
+ "key": "X51008042783"
+}

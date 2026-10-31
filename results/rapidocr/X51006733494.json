@@ -1,0 +1,229 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "Kedai Uhat Dan Runcit CHONG HWA",
+  "3Jalan Perdana 5,Taman Indah Perdana,",
+  "Kepong, 52100 KL.",
+  "Telephone No,03-62801198",
+  "GST No.001379917824",
+  "Receipt: 33037",
+  "Date; 0ct 3.2016 12:16:25 PM",
+  "Terminal: CW01",
+  "Served by: Employee",
+  "Item Price Qty Value",
+  "Liquid Medicine RM33.90 X1 RM33.90",
+  "Items count:1",
+  "Total Sales Incl, GST 0 6% RM33.90",
+  "Cash",
+  "Tendered: RM100.00",
+  "Change: RM66.10",
+  "Nett of Tax: RM31.98",
+  "GST6% RM1.92",
+  "SR RM31.98 RM1.92",
+  "Standard Rated Tax RMO.00 RMO.00",
+  "ZR RMO.00 RMO.00",
+  "Zero Rated Tax （ZR RMO.00 RMO.00",
+  "Thank You"
+ ],
+ "tokens": [
+  {
+   "text": "Kedai Uhat Dan Runcit CHONG HWA",
+   "conf": 0.952802344675987
+  },
+  {
+   "text": "3Jalan Perdana 5,Taman Indah Perdana,",
+   "conf": 0.9272061119208465
+  },
+  {
+   "text": "Kepong, 52100 KL.",
+   "conf": 0.9055349967058968
+  },
+  {
+   "text": "Telephone No,03-62801198",
+   "conf": 0.964088574051857
+  },
+  {
+   "text": "GST No.001379917824",
+   "conf": 0.9678542990433542
+  },
+  {
+   "text": "Receipt:",
+   "conf": 0.9796917885541916
+  },
+  {
+   "text": "33037",
+   "conf": 0.9985302209854126
+  },
+  {
+   "text": "Date;",
+   "conf": 0.9595025658607483
+  },
+  {
+   "text": "0ct 3.2016 12:16:25 PM",
+   "conf": 0.929171930659901
+  },
+  {
+   "text": "Terminal:",
+   "conf": 0.9641774892807007
+  },
+  {
+   "text": "CW01",
+   "conf": 0.8739405423402786
+  },
+  {
+   "text": "Served by:",
+   "conf": 0.9586134493350983
+  },
+  {
+   "text": "Employee",
+   "conf": 0.9693864732980728
+  },
+  {
+   "text": "Item",
+   "conf": 0.9696048647165298
+  },
+  {
+   "text": "Price",
+   "conf": 0.9816665649414062
+  },
+  {
+   "text": "Qty",
+   "conf": 0.9960238536198934
+  },
+  {
+   "text": "Value",
+   "conf": 0.8856277108192444
+  },
+  {
+   "text": "Liquid Medicine",
+   "conf": 0.9734881758689881
+  },
+  {
+   "text": "RM33.90",
+   "conf": 0.9983073983873639
+  },
+  {
+   "text": "X1",
+   "conf": 0.7985139489173889
+  },
+  {
+   "text": "RM33.90",
+   "conf": 0.9803165963717869
+  },
+  {
+   "text": "Items count:1",
+   "conf": 0.9684070807236892
+  },
+  {
+   "text": "RM33.90",
+   "conf": 0.9247516989707947
+  },
+  {
+   "text": "Total Sales Incl, GST 0 6%",
+   "conf": 0.9309547772774329
+  },
+  {
+   "text": "Cash",
+   "conf": 0.9951354563236237
+  },
+  {
+   "text": "Tendered:",
+   "conf": 0.9802066087722778
+  },
+  {
+   "text": "RM100.00",
+   "conf": 0.9964130073785782
+  },
+  {
+   "text": "Change:",
+   "conf": 0.9909905365535191
+  },
+  {
+   "text": "RM66.10",
+   "conf": 0.9954756157738822
+  },
+  {
+   "text": "Nett of Tax:",
+   "conf": 0.9302242795626322
+  },
+  {
+   "text": "RM31.98",
+   "conf": 0.9960458023207528
+  },
+  {
+   "text": "GST6%",
+   "conf": 0.9549613952636719
+  },
+  {
+   "text": "RM1.92",
+   "conf": 0.9967855711778005
+  },
+  {
+   "text": "SR",
+   "conf": 0.9908396601676941
+  },
+  {
+   "text": "RM31.98",
+   "conf": 0.9882503322192601
+  },
+  {
+   "text": "RM1.92",
+   "conf": 0.9973496596018473
+  },
+  {
+   "text": "Standard Rated Tax",
+   "conf": 0.9424369600084093
+  },
+  {
+   "text": "RMO.00",
+   "conf": 0.9463114142417908
+  },
+  {
+   "text": "RMO.00",
+   "conf": 0.952112744251887
+  },
+  {
+   "text": "ZR",
+   "conf": 0.9822432994842529
+  },
+  {
+   "text": "RMO.00",
+   "conf": 0.9488838414351145
+  },
+  {
+   "text": "RMO.00",
+   "conf": 0.9571084280808767
+  },
+  {
+   "text": "Zero Rated Tax （ZR",
+   "conf": 0.915271477566825
+  },
+  {
+   "text": "RMO.00",
+   "conf": 0.9616324404875437
+  },
+  {
+   "text": "RMO.00",
+   "conf": 0.9700728058815002
+  },
+  {
+   "text": "Thank You",
+   "conf": 0.9487191703584459
+  }
+ ],
+ "mean_conf": 0.9586,
+ "low_conf_share": 0.0,
+ "latency_ms": 5022,
+ "fields": {
+  "company": "KEDAI UHAT DAN RUNCIT CHONG HWA",
+  "date": null,
+  "total": 33.9
+ },
+ "rule_reasons": [
+  "date_not_found"
+ ],
+ "total_candidates": [
+  33.9
+ ],
+ "key": "X51006733494"
+}

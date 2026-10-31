@@ -1,0 +1,417 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "403/29",
+  "CARREFOUR RESTAURANT",
+  "JMO725766-U",
+  "18,JALAN PERMAS 10/7",
+  "BANDAR BARU PERMAS JAYA,",
+  "MASAI,JOHOR ;",
+  ". GST ID: 00N493614848 TEL: 07-3822612_",
+  "TABLE : 9",
+  "CASH",
+  "MEMBERPOINTS:0.00",
+  "RECEIPT — C800018751 DATE: 20/0a/20%",
+  "SALESPERSON TIME: 12:42:00",
+  "OASHIER: BADHE",
+  ": JTEM QTY UIP DISC% AMOUNT",
+  "Ph eee TD",
+  "238 4 10.00 10.00",
+  "Bye s",
+  "1033 43.00 3.00",
+  "TOTAL QTY: 2",
+  "TOTAL POINTS: 0.00",
+  "SUB-TOTAL : 13.00",
+  "bisc : 0,00 7",
+  "SERVICE CHARGE : 0.00",
+  "GOV TAX : 0.78",
+  "ROUNDING : 0.02",
+  "TOTAL 13.80",
+  "GASH 13.80",
+  "CHANGE 0.00",
+  "‘GOODS SOLD ARE NOT RETURNABLE, °",
+  "THANK YOU.",
+  "Ny"
+ ],
+ "tokens": [
+  {
+   "text": "403/29",
+   "conf": 0.35
+  },
+  {
+   "text": "CARREFOUR",
+   "conf": 0.52
+  },
+  {
+   "text": "RESTAURANT",
+   "conf": 0.96
+  },
+  {
+   "text": "JMO725766-U",
+   "conf": 0.44
+  },
+  {
+   "text": "18,JALAN",
+   "conf": 0.82
+  },
+  {
+   "text": "PERMAS",
+   "conf": 0.92
+  },
+  {
+   "text": "10/7",
+   "conf": 0.96
+  },
+  {
+   "text": "BANDAR",
+   "conf": 0.93
+  },
+  {
+   "text": "BARU",
+   "conf": 0.92
+  },
+  {
+   "text": "PERMAS",
+   "conf": 0.91
+  },
+  {
+   "text": "JAYA,",
+   "conf": 0.92
+  },
+  {
+   "text": "MASAI,JOHOR",
+   "conf": 0.67
+  },
+  {
+   "text": ";",
+   "conf": 0.0
+  },
+  {
+   "text": ".",
+   "conf": 0.33
+  },
+  {
+   "text": "GST",
+   "conf": 0.15
+  },
+  {
+   "text": "ID:",
+   "conf": 0.15
+  },
+  {
+   "text": "00N493614848",
+   "conf": 0.06
+  },
+  {
+   "text": "TEL:",
+   "conf": 0.62
+  },
+  {
+   "text": "07-3822612_",
+   "conf": 0.48
+  },
+  {
+   "text": "TABLE",
+   "conf": 0.91
+  },
+  {
+   "text": ":",
+   "conf": 0.68
+  },
+  {
+   "text": "9",
+   "conf": 0.86
+  },
+  {
+   "text": "CASH",
+   "conf": 0.94
+  },
+  {
+   "text": "MEMBERPOINTS:0.00",
+   "conf": 0.43
+  },
+  {
+   "text": "RECEIPT",
+   "conf": 0.87
+  },
+  {
+   "text": "—",
+   "conf": 0.45
+  },
+  {
+   "text": "C800018751",
+   "conf": 0.45
+  },
+  {
+   "text": "DATE:",
+   "conf": 0.89
+  },
+  {
+   "text": "20/0a/20%",
+   "conf": 0.49
+  },
+  {
+   "text": "SALESPERSON",
+   "conf": 0.96
+  },
+  {
+   "text": "TIME:",
+   "conf": 0.73
+  },
+  {
+   "text": "12:42:00",
+   "conf": 0.73
+  },
+  {
+   "text": "OASHIER:",
+   "conf": 0.03
+  },
+  {
+   "text": "BADHE",
+   "conf": 0.01
+  },
+  {
+   "text": ":",
+   "conf": 0.0
+  },
+  {
+   "text": "JTEM",
+   "conf": 0.14
+  },
+  {
+   "text": "QTY",
+   "conf": 0.19
+  },
+  {
+   "text": "UIP",
+   "conf": 0.0
+  },
+  {
+   "text": "DISC%",
+   "conf": 0.43
+  },
+  {
+   "text": "AMOUNT",
+   "conf": 0.65
+  },
+  {
+   "text": "Ph",
+   "conf": 0.19
+  },
+  {
+   "text": "eee",
+   "conf": 0.24
+  },
+  {
+   "text": "TD",
+   "conf": 0.38
+  },
+  {
+   "text": "238",
+   "conf": 0.77
+  },
+  {
+   "text": "4",
+   "conf": 0.53
+  },
+  {
+   "text": "10.00",
+   "conf": 0.76
+  },
+  {
+   "text": "10.00",
+   "conf": 0.71
+  },
+  {
+   "text": "Bye",
+   "conf": 0.48
+  },
+  {
+   "text": "s",
+   "conf": 0.06
+  },
+  {
+   "text": "1033",
+   "conf": 0.29
+  },
+  {
+   "text": "43.00",
+   "conf": 0.66
+  },
+  {
+   "text": "3.00",
+   "conf": 0.0
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.96
+  },
+  {
+   "text": "QTY:",
+   "conf": 0.34
+  },
+  {
+   "text": "2",
+   "conf": 0.96
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.94
+  },
+  {
+   "text": "POINTS:",
+   "conf": 0.94
+  },
+  {
+   "text": "0.00",
+   "conf": 0.95
+  },
+  {
+   "text": "SUB-TOTAL",
+   "conf": 0.89
+  },
+  {
+   "text": ":",
+   "conf": 0.89
+  },
+  {
+   "text": "13.00",
+   "conf": 0.78
+  },
+  {
+   "text": "bisc",
+   "conf": 0.42
+  },
+  {
+   "text": ":",
+   "conf": 0.71
+  },
+  {
+   "text": "0,00",
+   "conf": 0.93
+  },
+  {
+   "text": "7",
+   "conf": 0.38
+  },
+  {
+   "text": "SERVICE",
+   "conf": 0.93
+  },
+  {
+   "text": "CHARGE",
+   "conf": 0.93
+  },
+  {
+   "text": ":",
+   "conf": 0.92
+  },
+  {
+   "text": "0.00",
+   "conf": 0.87
+  },
+  {
+   "text": "GOV",
+   "conf": 0.46
+  },
+  {
+   "text": "TAX",
+   "conf": 0.46
+  },
+  {
+   "text": ":",
+   "conf": 0.85
+  },
+  {
+   "text": "0.78",
+   "conf": 0.94
+  },
+  {
+   "text": "ROUNDING",
+   "conf": 0.93
+  },
+  {
+   "text": ":",
+   "conf": 0.44
+  },
+  {
+   "text": "0.02",
+   "conf": 0.89
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.95
+  },
+  {
+   "text": "13.80",
+   "conf": 0.88
+  },
+  {
+   "text": "GASH",
+   "conf": 0.9
+  },
+  {
+   "text": "13.80",
+   "conf": 0.76
+  },
+  {
+   "text": "CHANGE",
+   "conf": 0.95
+  },
+  {
+   "text": "0.00",
+   "conf": 0.96
+  },
+  {
+   "text": "‘GOODS",
+   "conf": 0.61
+  },
+  {
+   "text": "SOLD",
+   "conf": 0.96
+  },
+  {
+   "text": "ARE",
+   "conf": 0.85
+  },
+  {
+   "text": "NOT",
+   "conf": 0.85
+  },
+  {
+   "text": "RETURNABLE,",
+   "conf": 0.88
+  },
+  {
+   "text": "°",
+   "conf": 0.67
+  },
+  {
+   "text": "THANK",
+   "conf": 0.91
+  },
+  {
+   "text": "YOU.",
+   "conf": 0.79
+  },
+  {
+   "text": "Ny",
+   "conf": 0.14
+  }
+ ],
+ "mean_conf": 0.6351,
+ "low_conf_share": 0.3626,
+ "latency_ms": 1634,
+ "fields": {
+  "company": "CARREFOUR RESTAURANT",
+  "date": null,
+  "total": 13.8
+ },
+ "rule_reasons": [
+  "date_not_found"
+ ],
+ "total_candidates": [
+  13.8
+ ],
+ "key": "X51005442383"
+}

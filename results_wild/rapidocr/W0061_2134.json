@@ -1,0 +1,134 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "### COPY",
+  "Pizze Hut Restaurants Sdn Bh",
+  "d PH Far1is",
+  "22R Linteng Angsena Rir Hita1",
+  "019-6000350",
+  "DELIUERY #10",
+  "07-27-2009 TRKES: 6:23 PM",
+  "Estinate 6:53 PM)",
+  "1HOT PAR 1",
+  "1REG PAK CHICKEN SUPRENE",
+  "1REG PAN MEDITERRRNERN",
+  "1CHILLI SAUCE",
+  "1SERUIETTES",
+  "1BRING CHANGE FOR RM50",
+  "SUB TOTAL 39.00",
+  "DELIUERY CHRGE 2.00",
+  "SALESTAX 1.95",
+  "TOTAL 42.95"
+ ],
+ "tokens": [
+  {
+   "text": "### COPY",
+   "conf": 0.7319379486143589
+  },
+  {
+   "text": "Pizze Hut Restaurants Sdn Bh",
+   "conf": 0.9532828330993652
+  },
+  {
+   "text": "d",
+   "conf": 0.9791049361228943
+  },
+  {
+   "text": "PH Far1is",
+   "conf": 0.902142369084888
+  },
+  {
+   "text": "22R Linteng Angsena Rir Hita1",
+   "conf": 0.9139572114780031
+  },
+  {
+   "text": "019-6000350",
+   "conf": 0.8951096588915045
+  },
+  {
+   "text": "DELIUERY #10",
+   "conf": 0.9358828812837601
+  },
+  {
+   "text": "07-27-2009",
+   "conf": 0.9558403670787812
+  },
+  {
+   "text": "TRKES: 6:23 PM",
+   "conf": 0.7818425840565136
+  },
+  {
+   "text": "Estinate 6:53 PM)",
+   "conf": 0.8819840287461
+  },
+  {
+   "text": "1HOT PAR 1",
+   "conf": 0.787794703245163
+  },
+  {
+   "text": "1REG PAK CHICKEN SUPRENE",
+   "conf": 0.8814732059836388
+  },
+  {
+   "text": "1REG PAN MEDITERRRNERN",
+   "conf": 0.8840389481999658
+  },
+  {
+   "text": "1CHILLI SAUCE",
+   "conf": 0.933430974300091
+  },
+  {
+   "text": "1SERUIETTES",
+   "conf": 0.9292232285846364
+  },
+  {
+   "text": "1BRING CHANGE FOR RM50",
+   "conf": 0.9108194912021811
+  },
+  {
+   "text": "SUB TOTAL",
+   "conf": 0.9303372701009115
+  },
+  {
+   "text": "39.00",
+   "conf": 0.985507357120514
+  },
+  {
+   "text": "DELIUERY CHRGE",
+   "conf": 0.9384323401110513
+  },
+  {
+   "text": "2.00",
+   "conf": 0.997204601764679
+  },
+  {
+   "text": "SALESTAX",
+   "conf": 0.9895368367433548
+  },
+  {
+   "text": "1.95",
+   "conf": 0.9896756261587143
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.9857202887535095
+  },
+  {
+   "text": "42.95",
+   "conf": 0.9978695273399353
+  }
+ ],
+ "mean_conf": 0.9197,
+ "low_conf_share": 0.0,
+ "latency_ms": 2832,
+ "fields": {
+  "company": "PIZZE HUT RESTAURANTS SDN BH",
+  "date": "2009-07-27",
+  "total": 42.95
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  42.95
+ ],
+ "key": "W0061_2134"
+}

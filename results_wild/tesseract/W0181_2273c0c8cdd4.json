@@ -1,0 +1,364 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "pee ny",
+  ". WED JULY 20,2011",
+  ". CHECK #263908~—1",
+  "TABLE #19",
+  "MODE 2",
+  "1 160z NUT BROWN $2.00",
+  "1 1302 SUMMER WIT $2. 01",
+  "MODE 3",
+  "1 =>HOUSE SAL SM $0 .00",
+  "Appetizer",
+  "1 CRAB CAKE APPTZER $12.06",
+  "Main course",
+  "1 BLUE BURGER $10.(",
+  "1 SALMON FILET $19.06",
+  "COUPON REST.COM : $25,",
+  "FOOD TAX $1.28",
+  "LIQUOR TAX $0.13",
+  "GRATUITY $8 1",
+  "TOTAI $79 .50",
+  "Time: 17:5) ; | OMEt",
+  "YOUR PATRONA",
+  "YOU HAVE BEEN SERVED",
+  "BY : Janea F"
+ ],
+ "tokens": [
+  {
+   "text": "pee",
+   "conf": 0.41
+  },
+  {
+   "text": "ny",
+   "conf": 0.48
+  },
+  {
+   "text": ".",
+   "conf": 0.0
+  },
+  {
+   "text": "WED",
+   "conf": 0.94
+  },
+  {
+   "text": "JULY",
+   "conf": 0.94
+  },
+  {
+   "text": "20,2011",
+   "conf": 0.96
+  },
+  {
+   "text": ".",
+   "conf": 0.09
+  },
+  {
+   "text": "CHECK",
+   "conf": 0.93
+  },
+  {
+   "text": "#263908~—1",
+   "conf": 0.12
+  },
+  {
+   "text": "TABLE",
+   "conf": 0.95
+  },
+  {
+   "text": "#19",
+   "conf": 0.95
+  },
+  {
+   "text": "MODE",
+   "conf": 0.96
+  },
+  {
+   "text": "2",
+   "conf": 0.96
+  },
+  {
+   "text": "1",
+   "conf": 0.67
+  },
+  {
+   "text": "160z",
+   "conf": 0.64
+  },
+  {
+   "text": "NUT",
+   "conf": 0.96
+  },
+  {
+   "text": "BROWN",
+   "conf": 0.96
+  },
+  {
+   "text": "$2.00",
+   "conf": 0.7
+  },
+  {
+   "text": "1",
+   "conf": 0.84
+  },
+  {
+   "text": "1302",
+   "conf": 0.93
+  },
+  {
+   "text": "SUMMER",
+   "conf": 0.96
+  },
+  {
+   "text": "WIT",
+   "conf": 0.96
+  },
+  {
+   "text": "$2.",
+   "conf": 0.57
+  },
+  {
+   "text": "01",
+   "conf": 0.7
+  },
+  {
+   "text": "MODE",
+   "conf": 0.95
+  },
+  {
+   "text": "3",
+   "conf": 0.96
+  },
+  {
+   "text": "1",
+   "conf": 0.75
+  },
+  {
+   "text": "=>HOUSE",
+   "conf": 0.85
+  },
+  {
+   "text": "SAL",
+   "conf": 0.96
+  },
+  {
+   "text": "SM",
+   "conf": 0.96
+  },
+  {
+   "text": "$0",
+   "conf": 0.79
+  },
+  {
+   "text": ".00",
+   "conf": 0.79
+  },
+  {
+   "text": "Appetizer",
+   "conf": 0.93
+  },
+  {
+   "text": "1",
+   "conf": 0.85
+  },
+  {
+   "text": "CRAB",
+   "conf": 0.96
+  },
+  {
+   "text": "CAKE",
+   "conf": 0.93
+  },
+  {
+   "text": "APPTZER",
+   "conf": 0.91
+  },
+  {
+   "text": "$12.06",
+   "conf": 0.61
+  },
+  {
+   "text": "Main",
+   "conf": 0.95
+  },
+  {
+   "text": "course",
+   "conf": 0.96
+  },
+  {
+   "text": "1",
+   "conf": 0.67
+  },
+  {
+   "text": "BLUE",
+   "conf": 0.96
+  },
+  {
+   "text": "BURGER",
+   "conf": 0.96
+  },
+  {
+   "text": "$10.(",
+   "conf": 0.66
+  },
+  {
+   "text": "1",
+   "conf": 0.78
+  },
+  {
+   "text": "SALMON",
+   "conf": 0.96
+  },
+  {
+   "text": "FILET",
+   "conf": 0.96
+  },
+  {
+   "text": "$19.06",
+   "conf": 0.84
+  },
+  {
+   "text": "COUPON",
+   "conf": 0.92
+  },
+  {
+   "text": "REST.COM",
+   "conf": 0.89
+  },
+  {
+   "text": ":",
+   "conf": 0.53
+  },
+  {
+   "text": "$25,",
+   "conf": 0.63
+  },
+  {
+   "text": "FOOD",
+   "conf": 0.93
+  },
+  {
+   "text": "TAX",
+   "conf": 0.63
+  },
+  {
+   "text": "$1.28",
+   "conf": 0.94
+  },
+  {
+   "text": "LIQUOR",
+   "conf": 0.95
+  },
+  {
+   "text": "TAX",
+   "conf": 0.81
+  },
+  {
+   "text": "$0.13",
+   "conf": 0.37
+  },
+  {
+   "text": "GRATUITY",
+   "conf": 0.94
+  },
+  {
+   "text": "$8",
+   "conf": 0.37
+  },
+  {
+   "text": "1",
+   "conf": 0.24
+  },
+  {
+   "text": "TOTAI",
+   "conf": 0.86
+  },
+  {
+   "text": "$79",
+   "conf": 0.86
+  },
+  {
+   "text": ".50",
+   "conf": 0.72
+  },
+  {
+   "text": "Time:",
+   "conf": 0.85
+  },
+  {
+   "text": "17:5)",
+   "conf": 0.4
+  },
+  {
+   "text": ";",
+   "conf": 0.0
+  },
+  {
+   "text": "|",
+   "conf": 0.48
+  },
+  {
+   "text": "OMEt",
+   "conf": 0.0
+  },
+  {
+   "text": "YOUR",
+   "conf": 0.92
+  },
+  {
+   "text": "PATRONA",
+   "conf": 0.92
+  },
+  {
+   "text": "YOU",
+   "conf": 0.96
+  },
+  {
+   "text": "HAVE",
+   "conf": 0.96
+  },
+  {
+   "text": "BEEN",
+   "conf": 0.95
+  },
+  {
+   "text": "SERVED",
+   "conf": 0.96
+  },
+  {
+   "text": "BY",
+   "conf": 0.92
+  },
+  {
+   "text": ":",
+   "conf": 0.72
+  },
+  {
+   "text": "Janea",
+   "conf": 0.92
+  },
+  {
+   "text": "F",
+   "conf": 0.92
+  }
+ ],
+ "mean_conf": 0.7715,
+ "low_conf_share": 0.1519,
+ "latency_ms": 1591,
+ "fields": {
+  "company": "PEE NY",
+  "date": null,
+  "total": 19.06
+ },
+ "rule_reasons": [
+  "date_not_found",
+  "total_no_keyword_fallback_max"
+ ],
+ "total_candidates": [
+  19.06,
+  1.28,
+  0.13
+ ],
+ "key": "W0181_2273c0c8cdd4"
+}

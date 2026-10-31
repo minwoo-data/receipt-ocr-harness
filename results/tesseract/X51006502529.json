@@ -1,0 +1,402 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "Welcome to the Family",
+  "FamilyMart",
+  "Haxincone Resources Sdn Bhd (383322-D)",
+  "16A, Jalan Astaka U8/83, Bukit Jelutong",
+  "40150 Shah Alan, Selangor D.E.",
+  "GST ID: 000468594688",
+  "#0020 The Sunnit USJ",
+  "Tax Invoice",
+  "20/04/2018 19:15 41000000163",
+  "POS: 02",
+  "Staff: ZUHAIRAWATI",
+  "Desc Ant (RH)",
+  "Spritzer H/Vater 1.51 ea 3.70 $",
+  "TOTAL 3.70",
+  "Cash 10.00",
+  "CHANGE 6.30",
+  "# ITEHS SOLD 1",
+  "Tax Code Ant(RH) — GST(RH)",
+  "$ 6% 3.49 0.21",
+  "THANK YOU & PLEASE COME AGAIN",
+  "xxx",
+  "BE A PART OF OUR FAHILY TODAY!",
+  "FACEBOOK: FanilyHarthY",
+  "uuu. fanilynart con. ny",
+  "IRA AC AA",
+  "*1/000000163*"
+ ],
+ "tokens": [
+  {
+   "text": "Welcome",
+   "conf": 0.96
+  },
+  {
+   "text": "to",
+   "conf": 0.96
+  },
+  {
+   "text": "the",
+   "conf": 0.96
+  },
+  {
+   "text": "Family",
+   "conf": 0.96
+  },
+  {
+   "text": "FamilyMart",
+   "conf": 0.9
+  },
+  {
+   "text": "Haxincone",
+   "conf": 0.92
+  },
+  {
+   "text": "Resources",
+   "conf": 0.96
+  },
+  {
+   "text": "Sdn",
+   "conf": 0.93
+  },
+  {
+   "text": "Bhd",
+   "conf": 0.91
+  },
+  {
+   "text": "(383322-D)",
+   "conf": 0.65
+  },
+  {
+   "text": "16A,",
+   "conf": 0.89
+  },
+  {
+   "text": "Jalan",
+   "conf": 0.93
+  },
+  {
+   "text": "Astaka",
+   "conf": 0.92
+  },
+  {
+   "text": "U8/83,",
+   "conf": 0.86
+  },
+  {
+   "text": "Bukit",
+   "conf": 0.93
+  },
+  {
+   "text": "Jelutong",
+   "conf": 0.91
+  },
+  {
+   "text": "40150",
+   "conf": 0.96
+  },
+  {
+   "text": "Shah",
+   "conf": 0.95
+  },
+  {
+   "text": "Alan,",
+   "conf": 0.96
+  },
+  {
+   "text": "Selangor",
+   "conf": 0.93
+  },
+  {
+   "text": "D.E.",
+   "conf": 0.87
+  },
+  {
+   "text": "GST",
+   "conf": 0.94
+  },
+  {
+   "text": "ID:",
+   "conf": 0.89
+  },
+  {
+   "text": "000468594688",
+   "conf": 0.94
+  },
+  {
+   "text": "#0020",
+   "conf": 0.94
+  },
+  {
+   "text": "The",
+   "conf": 0.92
+  },
+  {
+   "text": "Sunnit",
+   "conf": 0.9
+  },
+  {
+   "text": "USJ",
+   "conf": 0.92
+  },
+  {
+   "text": "Tax",
+   "conf": 0.96
+  },
+  {
+   "text": "Invoice",
+   "conf": 0.93
+  },
+  {
+   "text": "20/04/2018",
+   "conf": 0.94
+  },
+  {
+   "text": "19:15",
+   "conf": 0.91
+  },
+  {
+   "text": "41000000163",
+   "conf": 0.23
+  },
+  {
+   "text": "POS:",
+   "conf": 0.91
+  },
+  {
+   "text": "02",
+   "conf": 0.91
+  },
+  {
+   "text": "Staff:",
+   "conf": 0.92
+  },
+  {
+   "text": "ZUHAIRAWATI",
+   "conf": 0.54
+  },
+  {
+   "text": "Desc",
+   "conf": 0.89
+  },
+  {
+   "text": "Ant",
+   "conf": 0.0
+  },
+  {
+   "text": "(RH)",
+   "conf": 0.0
+  },
+  {
+   "text": "Spritzer",
+   "conf": 0.93
+  },
+  {
+   "text": "H/Vater",
+   "conf": 0.66
+  },
+  {
+   "text": "1.51",
+   "conf": 0.88
+  },
+  {
+   "text": "ea",
+   "conf": 0.85
+  },
+  {
+   "text": "3.70",
+   "conf": 0.72
+  },
+  {
+   "text": "$",
+   "conf": 0.37
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.96
+  },
+  {
+   "text": "3.70",
+   "conf": 0.96
+  },
+  {
+   "text": "Cash",
+   "conf": 0.96
+  },
+  {
+   "text": "10.00",
+   "conf": 0.16
+  },
+  {
+   "text": "CHANGE",
+   "conf": 0.95
+  },
+  {
+   "text": "6.30",
+   "conf": 0.95
+  },
+  {
+   "text": "#",
+   "conf": 0.78
+  },
+  {
+   "text": "ITEHS",
+   "conf": 0.69
+  },
+  {
+   "text": "SOLD",
+   "conf": 0.96
+  },
+  {
+   "text": "1",
+   "conf": 0.82
+  },
+  {
+   "text": "Tax",
+   "conf": 0.95
+  },
+  {
+   "text": "Code",
+   "conf": 0.68
+  },
+  {
+   "text": "Ant(RH)",
+   "conf": 0.68
+  },
+  {
+   "text": "—",
+   "conf": 0.0
+  },
+  {
+   "text": "GST(RH)",
+   "conf": 0.0
+  },
+  {
+   "text": "$",
+   "conf": 0.61
+  },
+  {
+   "text": "6%",
+   "conf": 0.58
+  },
+  {
+   "text": "3.49",
+   "conf": 0.91
+  },
+  {
+   "text": "0.21",
+   "conf": 0.95
+  },
+  {
+   "text": "THANK",
+   "conf": 0.96
+  },
+  {
+   "text": "YOU",
+   "conf": 0.88
+  },
+  {
+   "text": "&",
+   "conf": 0.88
+  },
+  {
+   "text": "PLEASE",
+   "conf": 0.96
+  },
+  {
+   "text": "COME",
+   "conf": 0.8
+  },
+  {
+   "text": "AGAIN",
+   "conf": 0.96
+  },
+  {
+   "text": "xxx",
+   "conf": 0.94
+  },
+  {
+   "text": "BE",
+   "conf": 0.83
+  },
+  {
+   "text": "A",
+   "conf": 0.83
+  },
+  {
+   "text": "PART",
+   "conf": 0.92
+  },
+  {
+   "text": "OF",
+   "conf": 0.96
+  },
+  {
+   "text": "OUR",
+   "conf": 0.93
+  },
+  {
+   "text": "FAHILY",
+   "conf": 0.9
+  },
+  {
+   "text": "TODAY!",
+   "conf": 0.92
+  },
+  {
+   "text": "FACEBOOK:",
+   "conf": 0.92
+  },
+  {
+   "text": "FanilyHarthY",
+   "conf": 0.48
+  },
+  {
+   "text": "uuu.",
+   "conf": 0.76
+  },
+  {
+   "text": "fanilynart",
+   "conf": 0.43
+  },
+  {
+   "text": "con.",
+   "conf": 0.36
+  },
+  {
+   "text": "ny",
+   "conf": 0.36
+  },
+  {
+   "text": "IRA",
+   "conf": 0.0
+  },
+  {
+   "text": "AC",
+   "conf": 0.47
+  },
+  {
+   "text": "AA",
+   "conf": 0.37
+  },
+  {
+   "text": "*1/000000163*",
+   "conf": 0.17
+  }
+ ],
+ "mean_conf": 0.7726,
+ "low_conf_share": 0.1685,
+ "latency_ms": 1601,
+ "fields": {
+  "company": "HAXINCONE RESOURCES SDN BHD",
+  "date": "2018-04-20",
+  "total": 3.7
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  3.7
+ ],
+ "key": "X51006502529"
+}

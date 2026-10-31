@@ -1,0 +1,185 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "LO SPAZIO",
+  "7/EHenry Hose",
+  "42Yun Png Road,Cauay Bay",
+  "T1:27789877 Hong Kong",
+  "Table:24",
+  "Drder.No. NoofGuest:2 18007",
+  "Start Tfne:2017/06/19 19:42 Staff :Sian",
+  "2SET DINNER 376.00",
+  "2Da1ly Soup 000",
+  "1Set Salmon Skever 0.00",
+  "1Set Mussels 0.00",
+  "1Set Pork Chop 00:99",
+  "1Set Bistecca 75.00",
+  "1Set Dessert 0.00",
+  "1Set Molten Cheesecake 35.00",
+  "Subtotal 551.00",
+  "Service Chg.10% 55.00",
+  "606.00",
+  "Total",
+  "***ThankYou ***",
+  "2017/06/1921:038007S1T1Jce"
+ ],
+ "tokens": [
+  {
+   "text": "LO SPAZIO",
+   "conf": 0.8836689856317308
+  },
+  {
+   "text": "42Yun Png Road,Cauay Bay",
+   "conf": 0.7433801392714182
+  },
+  {
+   "text": "7/EHenry Hose",
+   "conf": 0.8085715908270615
+  },
+  {
+   "text": "T1:27789877",
+   "conf": 0.8744916644963351
+  },
+  {
+   "text": "Hong Kong",
+   "conf": 0.9121065338452657
+  },
+  {
+   "text": "Table:24",
+   "conf": 0.9282559007406235
+  },
+  {
+   "text": "NoofGuest:2",
+   "conf": 0.7723043317144568
+  },
+  {
+   "text": "Staff",
+   "conf": 0.9514306306838989
+  },
+  {
+   "text": "Drder.No.",
+   "conf": 0.8709511491987441
+  },
+  {
+   "text": "18007",
+   "conf": 0.8846457123756408
+  },
+  {
+   "text": "Start Tfne:2017/06/19 19:42",
+   "conf": 0.8837011953194936
+  },
+  {
+   "text": ":Sian",
+   "conf": 0.7573466062545776
+  },
+  {
+   "text": "2SET DINNER",
+   "conf": 0.936089732430198
+  },
+  {
+   "text": "376.00",
+   "conf": 0.9685726165771484
+  },
+  {
+   "text": "2Da1ly Soup",
+   "conf": 0.906201649795879
+  },
+  {
+   "text": "000",
+   "conf": 0.9705080191294352
+  },
+  {
+   "text": "1Set Salmon Skever",
+   "conf": 0.8571091294288635
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9851835668087006
+  },
+  {
+   "text": "1Set Mussels",
+   "conf": 0.9597438275814056
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9298834055662155
+  },
+  {
+   "text": "1Set Pork Chop",
+   "conf": 0.9210264640195029
+  },
+  {
+   "text": "00:99",
+   "conf": 0.7140057504177093
+  },
+  {
+   "text": "1Set Bistecca",
+   "conf": 0.916963503910945
+  },
+  {
+   "text": "75.00",
+   "conf": 0.994263231754303
+  },
+  {
+   "text": "1Set Dessert",
+   "conf": 0.9478565603494644
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9920765459537506
+  },
+  {
+   "text": "1Set Molten Cheesecake",
+   "conf": 0.9461125433444977
+  },
+  {
+   "text": "35.00",
+   "conf": 0.9945859909057617
+  },
+  {
+   "text": "Subtotal",
+   "conf": 0.9775008857250214
+  },
+  {
+   "text": "551.00",
+   "conf": 0.9914804995059967
+  },
+  {
+   "text": "Service Chg.10%",
+   "conf": 0.960825522740682
+  },
+  {
+   "text": "55.00",
+   "conf": 0.9935803294181824
+  },
+  {
+   "text": "606.00",
+   "conf": 0.9985099037488302
+  },
+  {
+   "text": "Total",
+   "conf": 0.9869221806526184
+  },
+  {
+   "text": "***ThankYou ***",
+   "conf": 0.9082678715387981
+  },
+  {
+   "text": "2017/06/1921:038007S1T1Jce",
+   "conf": 0.9444820846502597
+  }
+ ],
+ "mean_conf": 0.9159,
+ "low_conf_share": 0.0,
+ "latency_ms": 2652,
+ "fields": {
+  "company": "LO SPAZIO",
+  "date": "2017-06-19",
+  "total": 606.0
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  606.0
+ ],
+ "key": "W0073_7207b8ed4199"
+}

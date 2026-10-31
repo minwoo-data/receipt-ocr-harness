@@ -1,0 +1,447 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "i@OSS",
+  "DRESS FOR LESS",
+  "SAN DIEGO, CA",
+  "Phone: 858-560-0071",
+  "Gift Card 100.00 N",
+  "Card No. 610899617984XXXX <K>",
+  "| Balance: 100.00",
+  "Auth No. 010244",
+  "Redeemable for Merchandise only",
+  "= Subtotal $100.00",
+  "= Jlotal $100.00",
+  "2 Sold: 1 Returned: 0 Deleted: 0",
+  "FSCO it $100.00",
+  "JZZZz Card No. XXXXXXXXXXXX7515",
+  "ZZ 8062080136 100542400",
+  "zZ 2 Auth. No. 531732",
+  "dé Ref. No. $-000008354-0000000000000-XXXAX",
+  "y Cardholder",
+  "Please Retain for Your Recards",
+  ": Receipt #: 1361-05-4374-6207-7",
+  "— 4ift Card Issue 00",
+  ". 000",
+  "ee ETL TH | | hi",
+  "Nank you for shopping a: 200523",
+  "| , WWW rose Ping at Ross!",
+  "| ™# FOSSSTOres com"
+ ],
+ "tokens": [
+  {
+   "text": "i@OSS",
+   "conf": 0.16
+  },
+  {
+   "text": "DRESS",
+   "conf": 0.46
+  },
+  {
+   "text": "FOR",
+   "conf": 0.95
+  },
+  {
+   "text": "LESS",
+   "conf": 0.95
+  },
+  {
+   "text": "SAN",
+   "conf": 0.96
+  },
+  {
+   "text": "DIEGO,",
+   "conf": 0.96
+  },
+  {
+   "text": "CA",
+   "conf": 0.96
+  },
+  {
+   "text": "Phone:",
+   "conf": 0.93
+  },
+  {
+   "text": "858-560-0071",
+   "conf": 0.92
+  },
+  {
+   "text": "Gift",
+   "conf": 0.96
+  },
+  {
+   "text": "Card",
+   "conf": 0.96
+  },
+  {
+   "text": "100.00",
+   "conf": 0.91
+  },
+  {
+   "text": "N",
+   "conf": 0.91
+  },
+  {
+   "text": "Card",
+   "conf": 0.96
+  },
+  {
+   "text": "No.",
+   "conf": 0.93
+  },
+  {
+   "text": "610899617984XXXX",
+   "conf": 0.86
+  },
+  {
+   "text": "<K>",
+   "conf": 0.87
+  },
+  {
+   "text": "|",
+   "conf": 0.75
+  },
+  {
+   "text": "Balance:",
+   "conf": 0.96
+  },
+  {
+   "text": "100.00",
+   "conf": 0.96
+  },
+  {
+   "text": "Auth",
+   "conf": 0.95
+  },
+  {
+   "text": "No.",
+   "conf": 0.89
+  },
+  {
+   "text": "010244",
+   "conf": 0.96
+  },
+  {
+   "text": "Redeemable",
+   "conf": 0.9
+  },
+  {
+   "text": "for",
+   "conf": 0.96
+  },
+  {
+   "text": "Merchandise",
+   "conf": 0.96
+  },
+  {
+   "text": "only",
+   "conf": 0.96
+  },
+  {
+   "text": "=",
+   "conf": 0.59
+  },
+  {
+   "text": "Subtotal",
+   "conf": 0.92
+  },
+  {
+   "text": "$100.00",
+   "conf": 0.94
+  },
+  {
+   "text": "=",
+   "conf": 0.41
+  },
+  {
+   "text": "Jlotal",
+   "conf": 0.0
+  },
+  {
+   "text": "$100.00",
+   "conf": 0.79
+  },
+  {
+   "text": "2",
+   "conf": 0.12
+  },
+  {
+   "text": "Sold:",
+   "conf": 0.96
+  },
+  {
+   "text": "1",
+   "conf": 0.76
+  },
+  {
+   "text": "Returned:",
+   "conf": 0.94
+  },
+  {
+   "text": "0",
+   "conf": 0.95
+  },
+  {
+   "text": "Deleted:",
+   "conf": 0.96
+  },
+  {
+   "text": "0",
+   "conf": 0.95
+  },
+  {
+   "text": "FSCO",
+   "conf": 0.33
+  },
+  {
+   "text": "it",
+   "conf": 0.43
+  },
+  {
+   "text": "$100.00",
+   "conf": 0.88
+  },
+  {
+   "text": "JZZZz",
+   "conf": 0.0
+  },
+  {
+   "text": "Card",
+   "conf": 0.96
+  },
+  {
+   "text": "No.",
+   "conf": 0.93
+  },
+  {
+   "text": "XXXXXXXXXXXX7515",
+   "conf": 0.91
+  },
+  {
+   "text": "ZZ",
+   "conf": 0.2
+  },
+  {
+   "text": "8062080136",
+   "conf": 0.78
+  },
+  {
+   "text": "100542400",
+   "conf": 0.78
+  },
+  {
+   "text": "zZ",
+   "conf": 0.25
+  },
+  {
+   "text": "2",
+   "conf": 0.34
+  },
+  {
+   "text": "Auth.",
+   "conf": 0.94
+  },
+  {
+   "text": "No.",
+   "conf": 0.94
+  },
+  {
+   "text": "531732",
+   "conf": 0.96
+  },
+  {
+   "text": "dé",
+   "conf": 0.53
+  },
+  {
+   "text": "Ref.",
+   "conf": 0.93
+  },
+  {
+   "text": "No.",
+   "conf": 0.93
+  },
+  {
+   "text": "$-000008354-0000000000000-XXXAX",
+   "conf": 0.75
+  },
+  {
+   "text": "y",
+   "conf": 0.63
+  },
+  {
+   "text": "Cardholder",
+   "conf": 0.95
+  },
+  {
+   "text": "Please",
+   "conf": 0.96
+  },
+  {
+   "text": "Retain",
+   "conf": 0.96
+  },
+  {
+   "text": "for",
+   "conf": 0.95
+  },
+  {
+   "text": "Your",
+   "conf": 0.92
+  },
+  {
+   "text": "Recards",
+   "conf": 0.91
+  },
+  {
+   "text": ":",
+   "conf": 0.25
+  },
+  {
+   "text": "Receipt",
+   "conf": 0.93
+  },
+  {
+   "text": "#:",
+   "conf": 0.89
+  },
+  {
+   "text": "1361-05-4374-6207-7",
+   "conf": 0.78
+  },
+  {
+   "text": "—",
+   "conf": 0.54
+  },
+  {
+   "text": "4ift",
+   "conf": 0.39
+  },
+  {
+   "text": "Card",
+   "conf": 0.97
+  },
+  {
+   "text": "Issue",
+   "conf": 0.96
+  },
+  {
+   "text": "00",
+   "conf": 0.96
+  },
+  {
+   "text": ".",
+   "conf": 0.04
+  },
+  {
+   "text": "000",
+   "conf": 0.31
+  },
+  {
+   "text": "ee",
+   "conf": 0.11
+  },
+  {
+   "text": "ETL",
+   "conf": 0.2
+  },
+  {
+   "text": "TH",
+   "conf": 0.11
+  },
+  {
+   "text": "|",
+   "conf": 0.87
+  },
+  {
+   "text": "|",
+   "conf": 0.93
+  },
+  {
+   "text": "hi",
+   "conf": 0.59
+  },
+  {
+   "text": "Nank",
+   "conf": 0.31
+  },
+  {
+   "text": "you",
+   "conf": 0.91
+  },
+  {
+   "text": "for",
+   "conf": 0.96
+  },
+  {
+   "text": "shopping",
+   "conf": 0.93
+  },
+  {
+   "text": "a:",
+   "conf": 0.91
+  },
+  {
+   "text": "200523",
+   "conf": 0.49
+  },
+  {
+   "text": "|",
+   "conf": 0.57
+  },
+  {
+   "text": ",",
+   "conf": 0.0
+  },
+  {
+   "text": "WWW",
+   "conf": 0.8
+  },
+  {
+   "text": "rose",
+   "conf": 0.75
+  },
+  {
+   "text": "Ping",
+   "conf": 0.46
+  },
+  {
+   "text": "at",
+   "conf": 0.93
+  },
+  {
+   "text": "Ross!",
+   "conf": 0.94
+  },
+  {
+   "text": "|",
+   "conf": 0.57
+  },
+  {
+   "text": "™#",
+   "conf": 0.35
+  },
+  {
+   "text": "FOSSSTOres",
+   "conf": 0.12
+  },
+  {
+   "text": "com",
+   "conf": 0.4
+  }
+ ],
+ "mean_conf": 0.7243,
+ "low_conf_share": 0.25,
+ "latency_ms": 2016,
+ "fields": {
+  "company": "I OSS",
+  "date": null,
+  "total": null
+ },
+ "rule_reasons": [
+  "date_not_found",
+  "total_not_found"
+ ],
+ "total_candidates": [],
+ "key": "W0136_0df88ba3783c"
+}

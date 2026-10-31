@@ -1,0 +1,248 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "oye tee",
+  "a So tee",
+  "‘Epstton",
+  "as",
+  "‘Server: Kirinis Das.",
+  "Cashier: Tonta",
+  "Table 204/1 3:53",
+  "Guests: 4 yoo",
+  "Big Bt! Mineral 1L (2 69.50! 1.",
+  "Goat Cheese Salad nse",
+  "Tuna Loin Salad (2 813.50) ae",
+  "‘Subtotal \"",
+  "vat 163.08",
+  "3.27",
+  "Total 5",
+  "Balance Du ¢ 1",
+  "VAT Detail:",
+  "100% + 103.03 ="
+ ],
+ "tokens": [
+  {
+   "text": "oye",
+   "conf": 0.25
+  },
+  {
+   "text": "tee",
+   "conf": 0.25
+  },
+  {
+   "text": "a",
+   "conf": 0.46
+  },
+  {
+   "text": "So",
+   "conf": 0.27
+  },
+  {
+   "text": "tee",
+   "conf": 0.37
+  },
+  {
+   "text": "‘Epstton",
+   "conf": 0.4
+  },
+  {
+   "text": "as",
+   "conf": 0.26
+  },
+  {
+   "text": "‘Server:",
+   "conf": 0.83
+  },
+  {
+   "text": "Kirinis",
+   "conf": 0.73
+  },
+  {
+   "text": "Das.",
+   "conf": 0.27
+  },
+  {
+   "text": "Cashier:",
+   "conf": 0.85
+  },
+  {
+   "text": "Tonta",
+   "conf": 0.82
+  },
+  {
+   "text": "Table",
+   "conf": 0.73
+  },
+  {
+   "text": "204/1",
+   "conf": 0.85
+  },
+  {
+   "text": "3:53",
+   "conf": 0.17
+  },
+  {
+   "text": "Guests:",
+   "conf": 0.88
+  },
+  {
+   "text": "4",
+   "conf": 0.95
+  },
+  {
+   "text": "yoo",
+   "conf": 0.0
+  },
+  {
+   "text": "Big",
+   "conf": 0.87
+  },
+  {
+   "text": "Bt!",
+   "conf": 0.48
+  },
+  {
+   "text": "Mineral",
+   "conf": 0.9
+  },
+  {
+   "text": "1L",
+   "conf": 0.72
+  },
+  {
+   "text": "(2",
+   "conf": 0.96
+  },
+  {
+   "text": "69.50!",
+   "conf": 0.67
+  },
+  {
+   "text": "1.",
+   "conf": 0.53
+  },
+  {
+   "text": "Goat",
+   "conf": 0.9
+  },
+  {
+   "text": "Cheese",
+   "conf": 0.88
+  },
+  {
+   "text": "Salad",
+   "conf": 0.54
+  },
+  {
+   "text": "nse",
+   "conf": 0.42
+  },
+  {
+   "text": "Tuna",
+   "conf": 0.62
+  },
+  {
+   "text": "Loin",
+   "conf": 0.84
+  },
+  {
+   "text": "Salad",
+   "conf": 0.92
+  },
+  {
+   "text": "(2",
+   "conf": 0.82
+  },
+  {
+   "text": "813.50)",
+   "conf": 0.6
+  },
+  {
+   "text": "ae",
+   "conf": 0.31
+  },
+  {
+   "text": "‘Subtotal",
+   "conf": 0.89
+  },
+  {
+   "text": "\"",
+   "conf": 0.0
+  },
+  {
+   "text": "vat",
+   "conf": 0.54
+  },
+  {
+   "text": "163.08",
+   "conf": 0.71
+  },
+  {
+   "text": "3.27",
+   "conf": 0.49
+  },
+  {
+   "text": "Total",
+   "conf": 0.89
+  },
+  {
+   "text": "5",
+   "conf": 0.41
+  },
+  {
+   "text": "Balance",
+   "conf": 0.96
+  },
+  {
+   "text": "Du",
+   "conf": 0.7
+  },
+  {
+   "text": "¢",
+   "conf": 0.73
+  },
+  {
+   "text": "1",
+   "conf": 0.34
+  },
+  {
+   "text": "VAT",
+   "conf": 0.36
+  },
+  {
+   "text": "Detail:",
+   "conf": 0.55
+  },
+  {
+   "text": "100%",
+   "conf": 0.49
+  },
+  {
+   "text": "+",
+   "conf": 0.48
+  },
+  {
+   "text": "103.03",
+   "conf": 0.47
+  },
+  {
+   "text": "=",
+   "conf": 0.47
+  }
+ ],
+ "mean_conf": 0.5923,
+ "low_conf_share": 0.4231,
+ "latency_ms": 1372,
+ "fields": {
+  "company": "OYE TEE",
+  "date": null,
+  "total": 3.27
+ },
+ "rule_reasons": [
+  "date_not_found"
+ ],
+ "total_candidates": [
+  3.27
+ ],
+ "key": "W0106_5f60b0876ca6"
+}

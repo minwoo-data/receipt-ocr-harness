@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.6-flash",
+ "provider": "gemini",
+ "raw_text": "{\"vendor\": \"MR. D.I.Y. (M) SDN BHD\", \"date\": \"2018-05-03\", \"subtotal\": 65.28, \"tax\": 3.92, \"tip\": null, \"discount\": null, \"total\": 69.20, \"currency\": \"MYR\", \"confidence\": 0.98, \"notes\": null}",
+ "data": {
+  "vendor": "MR. D.I.Y. (M) SDN BHD",
+  "date": "2018-05-03",
+  "subtotal": 65.28,
+  "tax": 3.92,
+  "tip": null,
+  "discount": null,
+  "total": 69.2,
+  "currency": "MYR",
+  "confidence": 0.98,
+  "notes": null
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1429,
+  "output_tokens": 95,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.001428,
+ "latency_ms": 1495,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.6-flash",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.6-flash"
+ ],
+ "key": "X51008064061"
+}

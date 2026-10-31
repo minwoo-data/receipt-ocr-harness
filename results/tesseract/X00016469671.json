@@ -1,0 +1,404 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "tan chay yee",
+  "OJC MARKETING SDN BHD",
+  "ROC NO: 538358-H",
+  "NO 2 & 4, JALAN BAYU 4,",
+  "BANDAR SERI ALAM,",
+  "81750 MASAI, JOHOR",
+  "Tel:07-388 2218 Fax:07-388 8218",
+  "Email: ng@ojegroup.com",
+  "Cash Bill",
+  "Date 02/01/2019 2:47:14 PM",
+  "Cashier : RHYS TAN",
+  "Sales Persor : FATIN",
+  "000000111 1 170,00 170,00",
+  "KINGS SAFETY PO0O4",
+  "SHOES KWD 805",
+  "“Gey T Total Tem Biscount! G60",
+  "Total Amount: 170.00",
+  "seeoesveccoescess ound Amt... 0.00",
+  "TOTAL: 170.00",
+  "VISA CARD 170.00",
+  "2000000000004 3 18",
+  "Approval Code:123 [30 U0",
+  "Goods Sold Are Not Returnable & Refundable",
+  "““*Thank You. Please Come Again.****"
+ ],
+ "tokens": [
+  {
+   "text": "tan",
+   "conf": 0.93
+  },
+  {
+   "text": "chay",
+   "conf": 0.92
+  },
+  {
+   "text": "yee",
+   "conf": 0.96
+  },
+  {
+   "text": "OJC",
+   "conf": 0.88
+  },
+  {
+   "text": "MARKETING",
+   "conf": 0.96
+  },
+  {
+   "text": "SDN",
+   "conf": 0.95
+  },
+  {
+   "text": "BHD",
+   "conf": 0.96
+  },
+  {
+   "text": "ROC",
+   "conf": 0.95
+  },
+  {
+   "text": "NO:",
+   "conf": 0.92
+  },
+  {
+   "text": "538358-H",
+   "conf": 0.89
+  },
+  {
+   "text": "NO",
+   "conf": 0.94
+  },
+  {
+   "text": "2",
+   "conf": 0.85
+  },
+  {
+   "text": "&",
+   "conf": 0.85
+  },
+  {
+   "text": "4,",
+   "conf": 0.96
+  },
+  {
+   "text": "JALAN",
+   "conf": 0.93
+  },
+  {
+   "text": "BAYU",
+   "conf": 0.93
+  },
+  {
+   "text": "4,",
+   "conf": 0.96
+  },
+  {
+   "text": "BANDAR",
+   "conf": 0.91
+  },
+  {
+   "text": "SERI",
+   "conf": 0.91
+  },
+  {
+   "text": "ALAM,",
+   "conf": 0.96
+  },
+  {
+   "text": "81750",
+   "conf": 0.92
+  },
+  {
+   "text": "MASAI,",
+   "conf": 0.96
+  },
+  {
+   "text": "JOHOR",
+   "conf": 0.96
+  },
+  {
+   "text": "Tel:07-388",
+   "conf": 0.73
+  },
+  {
+   "text": "2218",
+   "conf": 0.93
+  },
+  {
+   "text": "Fax:07-388",
+   "conf": 0.88
+  },
+  {
+   "text": "8218",
+   "conf": 0.96
+  },
+  {
+   "text": "Email:",
+   "conf": 0.93
+  },
+  {
+   "text": "ng@ojegroup.com",
+   "conf": 0.82
+  },
+  {
+   "text": "Cash",
+   "conf": 0.96
+  },
+  {
+   "text": "Bill",
+   "conf": 0.96
+  },
+  {
+   "text": "Date",
+   "conf": 0.96
+  },
+  {
+   "text": "02/01/2019",
+   "conf": 0.95
+  },
+  {
+   "text": "2:47:14",
+   "conf": 0.96
+  },
+  {
+   "text": "PM",
+   "conf": 0.96
+  },
+  {
+   "text": "Cashier",
+   "conf": 0.96
+  },
+  {
+   "text": ":",
+   "conf": 0.55
+  },
+  {
+   "text": "RHYS",
+   "conf": 0.89
+  },
+  {
+   "text": "TAN",
+   "conf": 0.94
+  },
+  {
+   "text": "Sales",
+   "conf": 0.93
+  },
+  {
+   "text": "Persor",
+   "conf": 0.82
+  },
+  {
+   "text": ":",
+   "conf": 0.68
+  },
+  {
+   "text": "FATIN",
+   "conf": 0.79
+  },
+  {
+   "text": "000000111",
+   "conf": 0.92
+  },
+  {
+   "text": "1",
+   "conf": 0.76
+  },
+  {
+   "text": "170,00",
+   "conf": 0.76
+  },
+  {
+   "text": "170,00",
+   "conf": 0.65
+  },
+  {
+   "text": "KINGS",
+   "conf": 0.96
+  },
+  {
+   "text": "SAFETY",
+   "conf": 0.96
+  },
+  {
+   "text": "PO0O4",
+   "conf": 0.33
+  },
+  {
+   "text": "SHOES",
+   "conf": 0.93
+  },
+  {
+   "text": "KWD",
+   "conf": 0.7
+  },
+  {
+   "text": "805",
+   "conf": 0.96
+  },
+  {
+   "text": "“Gey",
+   "conf": 0.34
+  },
+  {
+   "text": "T",
+   "conf": 0.34
+  },
+  {
+   "text": "Total",
+   "conf": 0.75
+  },
+  {
+   "text": "Tem",
+   "conf": 0.42
+  },
+  {
+   "text": "Biscount!",
+   "conf": 0.0
+  },
+  {
+   "text": "G60",
+   "conf": 0.56
+  },
+  {
+   "text": "Total",
+   "conf": 0.96
+  },
+  {
+   "text": "Amount:",
+   "conf": 0.96
+  },
+  {
+   "text": "170.00",
+   "conf": 0.88
+  },
+  {
+   "text": "seeoesveccoescess",
+   "conf": 0.0
+  },
+  {
+   "text": "ound",
+   "conf": 0.0
+  },
+  {
+   "text": "Amt...",
+   "conf": 0.0
+  },
+  {
+   "text": "0.00",
+   "conf": 0.0
+  },
+  {
+   "text": "TOTAL:",
+   "conf": 0.96
+  },
+  {
+   "text": "170.00",
+   "conf": 0.96
+  },
+  {
+   "text": "VISA",
+   "conf": 0.94
+  },
+  {
+   "text": "CARD",
+   "conf": 0.94
+  },
+  {
+   "text": "170.00",
+   "conf": 0.95
+  },
+  {
+   "text": "2000000000004",
+   "conf": 0.38
+  },
+  {
+   "text": "3",
+   "conf": 0.38
+  },
+  {
+   "text": "18",
+   "conf": 0.53
+  },
+  {
+   "text": "Approval",
+   "conf": 0.93
+  },
+  {
+   "text": "Code:123",
+   "conf": 0.85
+  },
+  {
+   "text": "[30",
+   "conf": 0.34
+  },
+  {
+   "text": "U0",
+   "conf": 0.41
+  },
+  {
+   "text": "Goods",
+   "conf": 0.81
+  },
+  {
+   "text": "Sold",
+   "conf": 0.96
+  },
+  {
+   "text": "Are",
+   "conf": 0.96
+  },
+  {
+   "text": "Not",
+   "conf": 0.93
+  },
+  {
+   "text": "Returnable",
+   "conf": 0.93
+  },
+  {
+   "text": "&",
+   "conf": 0.93
+  },
+  {
+   "text": "Refundable",
+   "conf": 0.97
+  },
+  {
+   "text": "““*Thank",
+   "conf": 0.22
+  },
+  {
+   "text": "You.",
+   "conf": 0.88
+  },
+  {
+   "text": "Please",
+   "conf": 0.88
+  },
+  {
+   "text": "Come",
+   "conf": 0.93
+  },
+  {
+   "text": "Again.****",
+   "conf": 0.89
+  }
+ ],
+ "mean_conf": 0.788,
+ "low_conf_share": 0.1556,
+ "latency_ms": 1077,
+ "fields": {
+  "company": "OJC MARKETING SDN BHD",
+  "date": "2019-01-02",
+  "total": 170.0
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  170.0
+ ],
+ "key": "X00016469671"
+}

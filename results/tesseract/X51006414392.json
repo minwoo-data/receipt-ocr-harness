@@ -1,0 +1,629 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "DI HUAN YA RESTAURANT",
+  "Company Reg.No: JM06815&9-VV |",
+  "; 5 JALAN FERMAS 104, .",
+  "BANDAR BARU PERMAS JAYA,",
+  "81750 JOHOR BAHRU JOHOR |",
+  "TEL/FAX:07-3886322",
+  "i GST ID : 001914093568 |",
+  ", TAX INVOICE , tae |",
+  ". Inv No: 199977",
+  "Cashier: cO01-",
+  "Date : 07/04/2018 ~ 18.10:59",
+  "Qty Description Total (RM) Tax :",
+  "1 106 33.00 SR",
+  "| FTAKE AWAY#! .",
+  "ROASTED DUCK WITH CHINESE .",
+  "HERES (HALF)",
+  "Total Sales Amount 33.00",
+  "GST 6% 1.98",
+  "Rounding Adjustment 0.02 | . .",
+  "TOTAL , 35.00 |",
+  "CASH 95.00 , —",
+  "Changeé Returned 20. 00- :",
+  "tem Count: 1",
+  "GST Summary Amount (RM) Tax (RM)",
+  "SR = 6% 33.00 1.98",
+  "| Thank ‘You!",
+  "Please Come Again ae",
+  "| | Goods Sold Are Not Returnable! Cok oe ,",
+  "Closed by - c001- 07/04/2018-18:11:05 : oe -",
+  "~-» [ POSWAY - MYTH POS SCLUTION J --- me a"
+ ],
+ "tokens": [
+  {
+   "text": "DI",
+   "conf": 0.64
+  },
+  {
+   "text": "HUAN",
+   "conf": 0.64
+  },
+  {
+   "text": "YA",
+   "conf": 0.95
+  },
+  {
+   "text": "RESTAURANT",
+   "conf": 0.95
+  },
+  {
+   "text": "Company",
+   "conf": 0.31
+  },
+  {
+   "text": "Reg.No:",
+   "conf": 0.89
+  },
+  {
+   "text": "JM06815&9-VV",
+   "conf": 0.32
+  },
+  {
+   "text": "|",
+   "conf": 0.61
+  },
+  {
+   "text": ";",
+   "conf": 0.24
+  },
+  {
+   "text": "5",
+   "conf": 0.63
+  },
+  {
+   "text": "JALAN",
+   "conf": 0.91
+  },
+  {
+   "text": "FERMAS",
+   "conf": 0.88
+  },
+  {
+   "text": "104,",
+   "conf": 0.93
+  },
+  {
+   "text": ".",
+   "conf": 0.26
+  },
+  {
+   "text": "BANDAR",
+   "conf": 0.91
+  },
+  {
+   "text": "BARU",
+   "conf": 0.88
+  },
+  {
+   "text": "PERMAS",
+   "conf": 0.88
+  },
+  {
+   "text": "JAYA,",
+   "conf": 0.91
+  },
+  {
+   "text": "81750",
+   "conf": 0.93
+  },
+  {
+   "text": "JOHOR",
+   "conf": 0.93
+  },
+  {
+   "text": "BAHRU",
+   "conf": 0.65
+  },
+  {
+   "text": "JOHOR",
+   "conf": 0.95
+  },
+  {
+   "text": "|",
+   "conf": 0.57
+  },
+  {
+   "text": "TEL/FAX:07-3886322",
+   "conf": 0.59
+  },
+  {
+   "text": "i",
+   "conf": 0.59
+  },
+  {
+   "text": "GST",
+   "conf": 0.83
+  },
+  {
+   "text": "ID",
+   "conf": 0.87
+  },
+  {
+   "text": ":",
+   "conf": 0.78
+  },
+  {
+   "text": "001914093568",
+   "conf": 0.86
+  },
+  {
+   "text": "|",
+   "conf": 0.44
+  },
+  {
+   "text": ",",
+   "conf": 0.0
+  },
+  {
+   "text": "TAX",
+   "conf": 0.96
+  },
+  {
+   "text": "INVOICE",
+   "conf": 0.84
+  },
+  {
+   "text": ",",
+   "conf": 0.0
+  },
+  {
+   "text": "tae",
+   "conf": 0.45
+  },
+  {
+   "text": "|",
+   "conf": 0.66
+  },
+  {
+   "text": ".",
+   "conf": 0.17
+  },
+  {
+   "text": "Inv",
+   "conf": 0.0
+  },
+  {
+   "text": "No:",
+   "conf": 0.0
+  },
+  {
+   "text": "199977",
+   "conf": 0.94
+  },
+  {
+   "text": "Cashier:",
+   "conf": 0.49
+  },
+  {
+   "text": "cO01-",
+   "conf": 0.0
+  },
+  {
+   "text": "Date",
+   "conf": 0.92
+  },
+  {
+   "text": ":",
+   "conf": 0.16
+  },
+  {
+   "text": "07/04/2018",
+   "conf": 0.86
+  },
+  {
+   "text": "~",
+   "conf": 0.63
+  },
+  {
+   "text": "18.10:59",
+   "conf": 0.9
+  },
+  {
+   "text": "Qty",
+   "conf": 0.76
+  },
+  {
+   "text": "Description",
+   "conf": 0.57
+  },
+  {
+   "text": "Total",
+   "conf": 0.96
+  },
+  {
+   "text": "(RM)",
+   "conf": 0.94
+  },
+  {
+   "text": "Tax",
+   "conf": 0.96
+  },
+  {
+   "text": ":",
+   "conf": 0.0
+  },
+  {
+   "text": "1",
+   "conf": 0.94
+  },
+  {
+   "text": "106",
+   "conf": 0.94
+  },
+  {
+   "text": "33.00",
+   "conf": 0.95
+  },
+  {
+   "text": "SR",
+   "conf": 0.95
+  },
+  {
+   "text": "|",
+   "conf": 0.56
+  },
+  {
+   "text": "FTAKE",
+   "conf": 0.45
+  },
+  {
+   "text": "AWAY#!",
+   "conf": 0.39
+  },
+  {
+   "text": ".",
+   "conf": 0.29
+  },
+  {
+   "text": "ROASTED",
+   "conf": 0.95
+  },
+  {
+   "text": "DUCK",
+   "conf": 0.95
+  },
+  {
+   "text": "WITH",
+   "conf": 0.95
+  },
+  {
+   "text": "CHINESE",
+   "conf": 0.95
+  },
+  {
+   "text": ".",
+   "conf": 0.16
+  },
+  {
+   "text": "HERES",
+   "conf": 0.76
+  },
+  {
+   "text": "(HALF)",
+   "conf": 0.94
+  },
+  {
+   "text": "Total",
+   "conf": 0.83
+  },
+  {
+   "text": "Sales",
+   "conf": 0.83
+  },
+  {
+   "text": "Amount",
+   "conf": 0.61
+  },
+  {
+   "text": "33.00",
+   "conf": 0.2
+  },
+  {
+   "text": "GST",
+   "conf": 0.93
+  },
+  {
+   "text": "6%",
+   "conf": 0.67
+  },
+  {
+   "text": "1.98",
+   "conf": 0.95
+  },
+  {
+   "text": "Rounding",
+   "conf": 0.96
+  },
+  {
+   "text": "Adjustment",
+   "conf": 0.96
+  },
+  {
+   "text": "0.02",
+   "conf": 0.94
+  },
+  {
+   "text": "|",
+   "conf": 0.65
+  },
+  {
+   "text": ".",
+   "conf": 0.43
+  },
+  {
+   "text": ".",
+   "conf": 0.17
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.96
+  },
+  {
+   "text": ",",
+   "conf": 0.0
+  },
+  {
+   "text": "35.00",
+   "conf": 0.91
+  },
+  {
+   "text": "|",
+   "conf": 0.47
+  },
+  {
+   "text": "CASH",
+   "conf": 0.96
+  },
+  {
+   "text": "95.00",
+   "conf": 0.7
+  },
+  {
+   "text": ",",
+   "conf": 0.0
+  },
+  {
+   "text": "—",
+   "conf": 0.35
+  },
+  {
+   "text": "Changeé",
+   "conf": 0.51
+  },
+  {
+   "text": "Returned",
+   "conf": 0.93
+  },
+  {
+   "text": "20.",
+   "conf": 0.5
+  },
+  {
+   "text": "00-",
+   "conf": 0.5
+  },
+  {
+   "text": ":",
+   "conf": 0.0
+  },
+  {
+   "text": "tem",
+   "conf": 0.0
+  },
+  {
+   "text": "Count:",
+   "conf": 0.73
+  },
+  {
+   "text": "1",
+   "conf": 0.73
+  },
+  {
+   "text": "GST",
+   "conf": 0.95
+  },
+  {
+   "text": "Summary",
+   "conf": 0.83
+  },
+  {
+   "text": "Amount",
+   "conf": 0.91
+  },
+  {
+   "text": "(RM)",
+   "conf": 0.96
+  },
+  {
+   "text": "Tax",
+   "conf": 0.94
+  },
+  {
+   "text": "(RM)",
+   "conf": 0.94
+  },
+  {
+   "text": "SR",
+   "conf": 0.79
+  },
+  {
+   "text": "=",
+   "conf": 0.79
+  },
+  {
+   "text": "6%",
+   "conf": 0.92
+  },
+  {
+   "text": "33.00",
+   "conf": 0.82
+  },
+  {
+   "text": "1.98",
+   "conf": 0.95
+  },
+  {
+   "text": "|",
+   "conf": 0.62
+  },
+  {
+   "text": "Thank",
+   "conf": 0.96
+  },
+  {
+   "text": "‘You!",
+   "conf": 0.54
+  },
+  {
+   "text": "Please",
+   "conf": 0.96
+  },
+  {
+   "text": "Come",
+   "conf": 0.95
+  },
+  {
+   "text": "Again",
+   "conf": 0.91
+  },
+  {
+   "text": "ae",
+   "conf": 0.19
+  },
+  {
+   "text": "|",
+   "conf": 0.47
+  },
+  {
+   "text": "|",
+   "conf": 0.51
+  },
+  {
+   "text": "Goods",
+   "conf": 0.96
+  },
+  {
+   "text": "Sold",
+   "conf": 0.94
+  },
+  {
+   "text": "Are",
+   "conf": 0.95
+  },
+  {
+   "text": "Not",
+   "conf": 0.93
+  },
+  {
+   "text": "Returnable!",
+   "conf": 0.92
+  },
+  {
+   "text": "Cok",
+   "conf": 0.06
+  },
+  {
+   "text": "oe",
+   "conf": 0.28
+  },
+  {
+   "text": ",",
+   "conf": 0.0
+  },
+  {
+   "text": "Closed",
+   "conf": 0.96
+  },
+  {
+   "text": "by",
+   "conf": 0.92
+  },
+  {
+   "text": "-",
+   "conf": 0.72
+  },
+  {
+   "text": "c001-",
+   "conf": 0.86
+  },
+  {
+   "text": "07/04/2018-18:11:05",
+   "conf": 0.83
+  },
+  {
+   "text": ":",
+   "conf": 0.39
+  },
+  {
+   "text": "oe",
+   "conf": 0.02
+  },
+  {
+   "text": "-",
+   "conf": 0.0
+  },
+  {
+   "text": "~-»",
+   "conf": 0.17
+  },
+  {
+   "text": "[",
+   "conf": 0.89
+  },
+  {
+   "text": "POSWAY",
+   "conf": 0.66
+  },
+  {
+   "text": "-",
+   "conf": 0.84
+  },
+  {
+   "text": "MYTH",
+   "conf": 0.96
+  },
+  {
+   "text": "POS",
+   "conf": 0.9
+  },
+  {
+   "text": "SCLUTION",
+   "conf": 0.9
+  },
+  {
+   "text": "J",
+   "conf": 0.69
+  },
+  {
+   "text": "---",
+   "conf": 0.87
+  },
+  {
+   "text": "me",
+   "conf": 0.0
+  },
+  {
+   "text": "a",
+   "conf": 0.14
+  }
+ ],
+ "mean_conf": 0.6603,
+ "low_conf_share": 0.2708,
+ "latency_ms": 6339,
+ "fields": {
+  "company": "DI HUAN YA RESTAURANT",
+  "date": "2018-04-07",
+  "total": 35.0
+ },
+ "rule_reasons": [
+  "total_multiple_keyword_amounts"
+ ],
+ "total_candidates": [
+  33.0,
+  35.0
+ ],
+ "key": "X51006414392"
+}

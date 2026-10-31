@@ -1,0 +1,287 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "Thal Thai Restaurant",
+  "2447 North Wickham Suite 128",
+  "Melourne, FL 32935",
+  "(321) 253-2363 .",
+  "Dine-in #0",
+  "06/27/2017 08:13:26 PM",
+  "Placed By Kyle",
+  "Table 12",
+  "Server: Kyle :",
+  "‘Number of Guests: 1",
+  "1 Yum Woon Sen 9.95",
+  "1 Brother Roll 10.95",
+  "1 Sashimi Dinner 22.95",
+  "Green Salad",
+  "1 Sapporo 22 oz. 625",
+  "1 Chardonay 4.45",
+  "“a 54.55",
+  "i 3.82",
+  "z 98.37"
+ ],
+ "tokens": [
+  {
+   "text": "Thal",
+   "conf": 0.86
+  },
+  {
+   "text": "Thai",
+   "conf": 0.73
+  },
+  {
+   "text": "Restaurant",
+   "conf": 0.96
+  },
+  {
+   "text": "2447",
+   "conf": 0.48
+  },
+  {
+   "text": "North",
+   "conf": 0.96
+  },
+  {
+   "text": "Wickham",
+   "conf": 0.96
+  },
+  {
+   "text": "Suite",
+   "conf": 0.94
+  },
+  {
+   "text": "128",
+   "conf": 0.92
+  },
+  {
+   "text": "Melourne,",
+   "conf": 0.89
+  },
+  {
+   "text": "FL",
+   "conf": 0.69
+  },
+  {
+   "text": "32935",
+   "conf": 0.69
+  },
+  {
+   "text": "(321)",
+   "conf": 0.83
+  },
+  {
+   "text": "253-2363",
+   "conf": 0.73
+  },
+  {
+   "text": ".",
+   "conf": 0.0
+  },
+  {
+   "text": "Dine-in",
+   "conf": 0.73
+  },
+  {
+   "text": "#0",
+   "conf": 0.93
+  },
+  {
+   "text": "06/27/2017",
+   "conf": 0.77
+  },
+  {
+   "text": "08:13:26",
+   "conf": 0.95
+  },
+  {
+   "text": "PM",
+   "conf": 0.69
+  },
+  {
+   "text": "Placed",
+   "conf": 0.94
+  },
+  {
+   "text": "By",
+   "conf": 0.96
+  },
+  {
+   "text": "Kyle",
+   "conf": 0.96
+  },
+  {
+   "text": "Table",
+   "conf": 0.83
+  },
+  {
+   "text": "12",
+   "conf": 0.83
+  },
+  {
+   "text": "Server:",
+   "conf": 0.94
+  },
+  {
+   "text": "Kyle",
+   "conf": 0.89
+  },
+  {
+   "text": ":",
+   "conf": 0.0
+  },
+  {
+   "text": "‘Number",
+   "conf": 0.61
+  },
+  {
+   "text": "of",
+   "conf": 0.96
+  },
+  {
+   "text": "Guests:",
+   "conf": 0.96
+  },
+  {
+   "text": "1",
+   "conf": 0.92
+  },
+  {
+   "text": "1",
+   "conf": 0.73
+  },
+  {
+   "text": "Yum",
+   "conf": 0.73
+  },
+  {
+   "text": "Woon",
+   "conf": 0.96
+  },
+  {
+   "text": "Sen",
+   "conf": 0.92
+  },
+  {
+   "text": "9.95",
+   "conf": 0.86
+  },
+  {
+   "text": "1",
+   "conf": 0.66
+  },
+  {
+   "text": "Brother",
+   "conf": 0.89
+  },
+  {
+   "text": "Roll",
+   "conf": 0.34
+  },
+  {
+   "text": "10.95",
+   "conf": 0.82
+  },
+  {
+   "text": "1",
+   "conf": 0.48
+  },
+  {
+   "text": "Sashimi",
+   "conf": 0.84
+  },
+  {
+   "text": "Dinner",
+   "conf": 0.93
+  },
+  {
+   "text": "22.95",
+   "conf": 0.75
+  },
+  {
+   "text": "Green",
+   "conf": 0.96
+  },
+  {
+   "text": "Salad",
+   "conf": 0.95
+  },
+  {
+   "text": "1",
+   "conf": 0.75
+  },
+  {
+   "text": "Sapporo",
+   "conf": 0.85
+  },
+  {
+   "text": "22",
+   "conf": 0.89
+  },
+  {
+   "text": "oz.",
+   "conf": 0.69
+  },
+  {
+   "text": "625",
+   "conf": 0.74
+  },
+  {
+   "text": "1",
+   "conf": 0.58
+  },
+  {
+   "text": "Chardonay",
+   "conf": 0.85
+  },
+  {
+   "text": "4.45",
+   "conf": 0.75
+  },
+  {
+   "text": "“a",
+   "conf": 0.21
+  },
+  {
+   "text": "54.55",
+   "conf": 0.83
+  },
+  {
+   "text": "i",
+   "conf": 0.29
+  },
+  {
+   "text": "3.82",
+   "conf": 0.68
+  },
+  {
+   "text": "z",
+   "conf": 0.0
+  },
+  {
+   "text": "98.37",
+   "conf": 0.56
+  }
+ ],
+ "mean_conf": 0.75,
+ "low_conf_share": 0.1333,
+ "latency_ms": 1202,
+ "fields": {
+  "company": "THAL THAI RESTAURANT",
+  "date": "2017-06-27",
+  "total": 98.37
+ },
+ "rule_reasons": [
+  "total_no_keyword_fallback_max"
+ ],
+ "total_candidates": [
+  9.95,
+  10.95,
+  22.95,
+  4.45,
+  54.55,
+  3.82,
+  98.37
+ ],
+ "key": "W0100_520bc67f0f63"
+}

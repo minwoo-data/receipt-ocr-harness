@@ -1,0 +1,159 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "STORE#NY-1104",
+  "CENTRAL TERMINAL BUILDING, SPACE WF2",
+  "LAGUARDIA AIRPORT",
+  "FLUSHING,NY 11371",
+  "（P)718-505-0565",
+  "7/22/20172:14:21PM",
+  "FIVE GUYS",
+  "Order Number: 868604",
+  "*****REFUND***** 3.19",
+  "-110%Airport/Ma11 -1LTLFRY (0.32)",
+  "Sub. Total: （$2.87)",
+  "Tax: （$0.26)",
+  "Total: ($3.13)",
+  "Discount Total: $0.32",
+  "Visa: ($3.13)",
+  "Change $0.00",
+  "Register:2 Tran Seq No:868604",
+  "Cashier:Fabiola C.",
+  "Visa"
+ ],
+ "tokens": [
+  {
+   "text": "STORE#NY-1104",
+   "conf": 0.9892058326647832
+  },
+  {
+   "text": "CENTRAL TERMINAL BUILDING, SPACE WF2",
+   "conf": 0.9460565696159998
+  },
+  {
+   "text": "LAGUARDIA AIRPORT",
+   "conf": 0.9797470850103042
+  },
+  {
+   "text": "FLUSHING,NY 11371",
+   "conf": 0.9640002951902502
+  },
+  {
+   "text": "（P)718-505-0565",
+   "conf": 0.9490288654963176
+  },
+  {
+   "text": "7/22/20172:14:21PM",
+   "conf": 0.9865755140781403
+  },
+  {
+   "text": "FIVE GUYS",
+   "conf": 0.9508233732647366
+  },
+  {
+   "text": "868604",
+   "conf": 0.9975357949733734
+  },
+  {
+   "text": "Order Number:",
+   "conf": 0.9412496135785029
+  },
+  {
+   "text": "*****REFUND*****",
+   "conf": 0.9966490752995014
+  },
+  {
+   "text": "3.19",
+   "conf": 0.9949854016304016
+  },
+  {
+   "text": "-1LTLFRY",
+   "conf": 0.9807367473840714
+  },
+  {
+   "text": "(0.32)",
+   "conf": 0.889171818892161
+  },
+  {
+   "text": "-110%Airport/Ma11",
+   "conf": 0.9344998598098755
+  },
+  {
+   "text": "（$2.87)",
+   "conf": 0.8843279225485665
+  },
+  {
+   "text": "Sub. Total:",
+   "conf": 0.9382356784560464
+  },
+  {
+   "text": "（$0.26)",
+   "conf": 0.8791250160762242
+  },
+  {
+   "text": "Tax:",
+   "conf": 0.9733186066150665
+  },
+  {
+   "text": "($3.13)",
+   "conf": 0.8891715662819999
+  },
+  {
+   "text": "Total:",
+   "conf": 0.9875970979531606
+  },
+  {
+   "text": "$0.32",
+   "conf": 0.9952208399772644
+  },
+  {
+   "text": "Discount Total:",
+   "conf": 0.9710690418879191
+  },
+  {
+   "text": "Visa:",
+   "conf": 0.971384584903717
+  },
+  {
+   "text": "($3.13)",
+   "conf": 0.8798792021615165
+  },
+  {
+   "text": "Change",
+   "conf": 0.9938458899656931
+  },
+  {
+   "text": "$0.00",
+   "conf": 0.9938066601753235
+  },
+  {
+   "text": "Register:2",
+   "conf": 0.9893584907054901
+  },
+  {
+   "text": "Tran Seq No:868604",
+   "conf": 0.9613494210773044
+  },
+  {
+   "text": "Cashier:Fabiola C.",
+   "conf": 0.9671418733066983
+  },
+  {
+   "text": "Visa",
+   "conf": 0.9763951152563095
+  }
+ ],
+ "mean_conf": 0.9584,
+ "low_conf_share": 0.0,
+ "latency_ms": 2672,
+ "fields": {
+  "company": "STORE NY 1104",
+  "date": "2017-07-22",
+  "total": 0.32
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  0.32
+ ],
+ "key": "W0077_b1feb6ff61e5"
+}

@@ -1,0 +1,184 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "TQFORSHOPPINGWITHmyNEWS.cOm",
+  "PUSATDAGANGANPHILEODAMANSARA",
+  "UNIT105,BLOCKA,PUSATDAGANGANPHILEODAMANSARA",
+  "NO.9,JALAN16/11,46350,PETALINGJAYA,SELANGOR",
+  "myNEWScareline:1800881231",
+  "myNEwScareline@mynews.com.my",
+  "MYNEWSRETAILSB(306295-X)FKABISONSTORESSB",
+  "TAXREGIDCBP000709361664",
+  "QTY PRICE DISC AMT",
+  "GPGREENCELLEXTRAHEAVYDUTYAAA4+2",
+  "1 6.00 0.00 6.00 SR",
+  "SUBTOTAL 6.00",
+  "GRAND TOTAL 6.00",
+  "CASH50.00 MYR 50.00",
+  "CHANGEDUE 44.00",
+  "TOTALQTY 1",
+  "SR:0% GOODS: 6.00 TAX: 0.00",
+  "28/06/20183:11:35PM",
+  "BILL1856-608-9161·2806180322",
+  "PRICEISGSTINCLUSIVE"
+ ],
+ "tokens": [
+  {
+   "text": "TQFORSHOPPINGWITHmyNEWS.cOm",
+   "conf": 0.9323087003495958
+  },
+  {
+   "text": "PUSATDAGANGANPHILEODAMANSARA",
+   "conf": 0.9866366897310529
+  },
+  {
+   "text": "UNIT105,BLOCKA,PUSATDAGANGANPHILEODAMANSARA",
+   "conf": 0.9193479169246762
+  },
+  {
+   "text": "NO.9,JALAN16/11,46350,PETALINGJAYA,SELANGOR",
+   "conf": 0.9176139332527338
+  },
+  {
+   "text": "myNEWScareline:1800881231",
+   "conf": 0.9852638173103333
+  },
+  {
+   "text": "myNEwScareline@mynews.com.my",
+   "conf": 0.9701636391026633
+  },
+  {
+   "text": "MYNEWSRETAILSB(306295-X)FKABISONSTORESSB",
+   "conf": 0.9832738399505615
+  },
+  {
+   "text": "TAXREGIDCBP000709361664",
+   "conf": 0.9922530314196711
+  },
+  {
+   "text": "QTY",
+   "conf": 0.9894341627756754
+  },
+  {
+   "text": "PRICE",
+   "conf": 0.9916361570358276
+  },
+  {
+   "text": "DISC",
+   "conf": 0.9646947532892227
+  },
+  {
+   "text": "AMT",
+   "conf": 0.9947061141331991
+  },
+  {
+   "text": "GPGREENCELLEXTRAHEAVYDUTYAAA4+2",
+   "conf": 0.9837902188301086
+  },
+  {
+   "text": "1",
+   "conf": 0.9958866238594055
+  },
+  {
+   "text": "6.00",
+   "conf": 0.9986919164657593
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9975970536470413
+  },
+  {
+   "text": "6.00",
+   "conf": 0.9969609826803207
+  },
+  {
+   "text": "SR",
+   "conf": 0.9389739632606506
+  },
+  {
+   "text": "SUBTOTAL",
+   "conf": 0.9918788895010948
+  },
+  {
+   "text": "6.00",
+   "conf": 0.9980276674032211
+  },
+  {
+   "text": "GRAND TOTAL",
+   "conf": 0.9625834334980358
+  },
+  {
+   "text": "6.00",
+   "conf": 0.9978993386030197
+  },
+  {
+   "text": "CASH50.00 MYR",
+   "conf": 0.9516279834967393
+  },
+  {
+   "text": "50.00",
+   "conf": 0.9982239127159118
+  },
+  {
+   "text": "CHANGEDUE",
+   "conf": 0.9960966772503324
+  },
+  {
+   "text": "44.00",
+   "conf": 0.996510648727417
+  },
+  {
+   "text": "TOTALQTY",
+   "conf": 0.9916139841079712
+  },
+  {
+   "text": "1",
+   "conf": 0.9894261360168457
+  },
+  {
+   "text": "SR:0%",
+   "conf": 0.9153343200683594
+  },
+  {
+   "text": "GOODS:",
+   "conf": 0.9626007477442423
+  },
+  {
+   "text": "6.00",
+   "conf": 0.9986951053142548
+  },
+  {
+   "text": "TAX:",
+   "conf": 0.9418375790119171
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9969558119773865
+  },
+  {
+   "text": "28/06/20183:11:35PM",
+   "conf": 0.9882638705404181
+  },
+  {
+   "text": "BILL1856-608-9161·2806180322",
+   "conf": 0.972944404397692
+  },
+  {
+   "text": "PRICEISGSTINCLUSIVE",
+   "conf": 0.994293959517228
+  }
+ ],
+ "mean_conf": 0.9773,
+ "low_conf_share": 0.0,
+ "latency_ms": 4879,
+ "fields": {
+  "company": "TQFORSHOPPINGWITHMYNEWS COM",
+  "date": "2018-06-28",
+  "total": 6.0
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  6.0
+ ],
+ "key": "X51007419197"
+}

@@ -1,0 +1,210 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "BEMED (SP) SDN.BHZ.",
+  "No.49,Jalan Dinar G U3/G,",
+  "Subang Perdana,",
+  "40150 ShahAlam,Selangor D.E",
+  "03-78458155",
+  "GST Reg:001734164480",
+  "CASHRECEIPT",
+  "CB：78283158333 14/um/201708:34:22",
+  "Cashler:puterl O",
+  "Qty Cade&Desc Price Total",
+  "ALPHA LIPID LIFELINE SR",
+  "1184810 165.00 165.00",
+  "1 Typre: 1",
+  "SubTatal: 165.00",
+  "Raunding Adj: 0.00",
+  "Total Inclusive GST: 165.00",
+  "VISA 165.00",
+  "GST Summary: Amount Tax",
+  "(MYR) (MYR)",
+  "SR 156.66 9.34",
+  "ONGGUATCHYE",
+  "Points:1,460",
+  "Thank you.",
+  "Please come again."
+ ],
+ "tokens": [
+  {
+   "text": "BEMED (SP) SDN.BHZ.",
+   "conf": 0.9095989230432009
+  },
+  {
+   "text": "No.49,Jalan Dinar G U3/G,",
+   "conf": 0.9231074953079224
+  },
+  {
+   "text": "Subang Perdana,",
+   "conf": 0.9085062404473623
+  },
+  {
+   "text": "40150 ShahAlam,Selangor D.E",
+   "conf": 0.9452957952464068
+  },
+  {
+   "text": "03-78458155",
+   "conf": 0.9961250695315275
+  },
+  {
+   "text": "GST Reg:001734164480",
+   "conf": 0.9613812565803528
+  },
+  {
+   "text": "CASHRECEIPT",
+   "conf": 0.9907226020639593
+  },
+  {
+   "text": "CB：78283158333",
+   "conf": 0.9531198271683284
+  },
+  {
+   "text": "14/um/201708:34:22",
+   "conf": 0.9228229853841994
+  },
+  {
+   "text": "Cashler:puterl O",
+   "conf": 0.8986179158091545
+  },
+  {
+   "text": "Qty Cade&Desc",
+   "conf": 0.8793285810030423
+  },
+  {
+   "text": "Price",
+   "conf": 0.9836218953132629
+  },
+  {
+   "text": "Total",
+   "conf": 0.9362409591674805
+  },
+  {
+   "text": "ALPHA LIPID LIFELINE",
+   "conf": 0.9446875900030136
+  },
+  {
+   "text": "SR",
+   "conf": 0.9829042553901672
+  },
+  {
+   "text": "1184810",
+   "conf": 0.9932735732623509
+  },
+  {
+   "text": "165.00",
+   "conf": 0.9979699949423472
+  },
+  {
+   "text": "165.00",
+   "conf": 0.9971919655799866
+  },
+  {
+   "text": "1",
+   "conf": 0.8201977610588074
+  },
+  {
+   "text": "Typre:",
+   "conf": 0.8981695026159286
+  },
+  {
+   "text": "1",
+   "conf": 0.6416836977005005
+  },
+  {
+   "text": "SubTatal:",
+   "conf": 0.93311874071757
+  },
+  {
+   "text": "165.00",
+   "conf": 0.9968733092149099
+  },
+  {
+   "text": "Raunding Adj:",
+   "conf": 0.9461674644396856
+  },
+  {
+   "text": "0.00",
+   "conf": 0.986767590045929
+  },
+  {
+   "text": "Total Inclusive GST:",
+   "conf": 0.9287304818630219
+  },
+  {
+   "text": "165.00",
+   "conf": 0.9988833765188853
+  },
+  {
+   "text": "VISA",
+   "conf": 0.9755283147096634
+  },
+  {
+   "text": "165.00",
+   "conf": 0.9981633226076762
+  },
+  {
+   "text": "GST Summary:",
+   "conf": 0.917649989326795
+  },
+  {
+   "text": "Amount",
+   "conf": 0.9820405741532644
+  },
+  {
+   "text": "Tax",
+   "conf": 0.9213622609774271
+  },
+  {
+   "text": "(MYR)",
+   "conf": 0.9863522410392761
+  },
+  {
+   "text": "(MYR)",
+   "conf": 0.9866194486618042
+  },
+  {
+   "text": "SR",
+   "conf": 0.976983904838562
+  },
+  {
+   "text": "156.66",
+   "conf": 0.9603517452875773
+  },
+  {
+   "text": "9.34",
+   "conf": 0.9290936440229416
+  },
+  {
+   "text": "ONGGUATCHYE",
+   "conf": 0.9906745769760825
+  },
+  {
+   "text": "Points:1,460",
+   "conf": 0.8999773114919662
+  },
+  {
+   "text": "Thank you.",
+   "conf": 0.9588912665843964
+  },
+  {
+   "text": "Please come again.",
+   "conf": 0.976954718430837
+  }
+ ],
+ "mean_conf": 0.9448,
+ "low_conf_share": 0.0,
+ "latency_ms": 4057,
+ "fields": {
+  "company": "BEMED SDN BHZ",
+  "date": null,
+  "total": 165.0
+ },
+ "rule_reasons": [
+  "date_not_found"
+ ],
+ "total_candidates": [
+  165.0
+ ],
+ "key": "X51006392299"
+}

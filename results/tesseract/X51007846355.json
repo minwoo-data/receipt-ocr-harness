@@ -1,0 +1,697 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "Ko bow a",
+  "AEON CO. (M) BHD (126926-H)",
+  "3RD FLR, AEON TAMAN MALURI SC | : ,",
+  "7 , JLN JEJAKA, TAMAN MALURI ,",
+  "Oo CHERAS, 55100 KUALA LUMPUR ;",
+  "GST ID : 002017394688 |",
+  "SHOPPING HOURS :",
+  "SUN-THUs 1000 HRS ~ 2200 HRS",
+  "FRI-SAT: 1000 HRS ~ 2300 HRS :",
+  "1x 000000416405 2 .835R :",
+  "SAKURA WALNUT B | .",
+  "Ix 000000416993 6, 135R ,",
+  "GRAIN & SEEDS B |",
+  "— Sub-total 8.96",
+  "‘ ~ Total Sales Inc] GST 8,96",
+  ". Rounding Adj -0,01",
+  "| Total After Adj Incl GST 8.95",
+  "CASH 50.00",
+  "Item Count 2 Change Amt 41.05 .",
+  "| Invoice No: 2018061710130220258",
+  "GST Summary Amount Tax",
+  "SR @ Of 8,96 0,00 |",
+  "Total 8,96 0,00 | .",
+  "17/06/2018 18:35 1013 022 0220258",
+  "0305103 NORSUHAILA BINTI ABD RASHID",
+  "AEON Stamps Loyalty Program ‘“Product(s)”",
+  "sold are neither exchangeable nor :",
+  "refundable ,",
+  "AEON TEBRAU CITY |",
+  "TEL 1-300-80-AEON (2366) .",
+  "THANK YOU FOR YOUR PATRONAGE",
+  "PLEASE COME AGAIN",
+  "CA a"
+ ],
+ "tokens": [
+  {
+   "text": "Ko",
+   "conf": 0.43
+  },
+  {
+   "text": "bow",
+   "conf": 0.42
+  },
+  {
+   "text": "a",
+   "conf": 0.0
+  },
+  {
+   "text": "AEON",
+   "conf": 0.75
+  },
+  {
+   "text": "CO.",
+   "conf": 0.92
+  },
+  {
+   "text": "(M)",
+   "conf": 0.7
+  },
+  {
+   "text": "BHD",
+   "conf": 0.93
+  },
+  {
+   "text": "(126926-H)",
+   "conf": 0.89
+  },
+  {
+   "text": "3RD",
+   "conf": 0.78
+  },
+  {
+   "text": "FLR,",
+   "conf": 0.9
+  },
+  {
+   "text": "AEON",
+   "conf": 0.91
+  },
+  {
+   "text": "TAMAN",
+   "conf": 0.92
+  },
+  {
+   "text": "MALURI",
+   "conf": 0.79
+  },
+  {
+   "text": "SC",
+   "conf": 0.96
+  },
+  {
+   "text": "|",
+   "conf": 0.3
+  },
+  {
+   "text": ":",
+   "conf": 0.46
+  },
+  {
+   "text": ",",
+   "conf": 0.0
+  },
+  {
+   "text": "7",
+   "conf": 0.33
+  },
+  {
+   "text": ",",
+   "conf": 0.39
+  },
+  {
+   "text": "JLN",
+   "conf": 0.91
+  },
+  {
+   "text": "JEJAKA,",
+   "conf": 0.91
+  },
+  {
+   "text": "TAMAN",
+   "conf": 0.92
+  },
+  {
+   "text": "MALURI",
+   "conf": 0.58
+  },
+  {
+   "text": ",",
+   "conf": 0.0
+  },
+  {
+   "text": "Oo",
+   "conf": 0.0
+  },
+  {
+   "text": "CHERAS,",
+   "conf": 0.92
+  },
+  {
+   "text": "55100",
+   "conf": 0.93
+  },
+  {
+   "text": "KUALA",
+   "conf": 0.96
+  },
+  {
+   "text": "LUMPUR",
+   "conf": 0.96
+  },
+  {
+   "text": ";",
+   "conf": 0.0
+  },
+  {
+   "text": "GST",
+   "conf": 0.9
+  },
+  {
+   "text": "ID",
+   "conf": 0.91
+  },
+  {
+   "text": ":",
+   "conf": 0.64
+  },
+  {
+   "text": "002017394688",
+   "conf": 0.96
+  },
+  {
+   "text": "|",
+   "conf": 0.58
+  },
+  {
+   "text": "SHOPPING",
+   "conf": 0.95
+  },
+  {
+   "text": "HOURS",
+   "conf": 0.96
+  },
+  {
+   "text": ":",
+   "conf": 0.43
+  },
+  {
+   "text": "SUN-THUs",
+   "conf": 0.26
+  },
+  {
+   "text": "1000",
+   "conf": 0.26
+  },
+  {
+   "text": "HRS",
+   "conf": 0.91
+  },
+  {
+   "text": "~",
+   "conf": 0.88
+  },
+  {
+   "text": "2200",
+   "conf": 0.96
+  },
+  {
+   "text": "HRS",
+   "conf": 0.86
+  },
+  {
+   "text": "FRI-SAT:",
+   "conf": 0.58
+  },
+  {
+   "text": "1000",
+   "conf": 0.58
+  },
+  {
+   "text": "HRS",
+   "conf": 0.92
+  },
+  {
+   "text": "~",
+   "conf": 0.92
+  },
+  {
+   "text": "2300",
+   "conf": 0.96
+  },
+  {
+   "text": "HRS",
+   "conf": 0.96
+  },
+  {
+   "text": ":",
+   "conf": 0.14
+  },
+  {
+   "text": "1x",
+   "conf": 0.91
+  },
+  {
+   "text": "000000416405",
+   "conf": 0.95
+  },
+  {
+   "text": "2",
+   "conf": 0.54
+  },
+  {
+   "text": ".835R",
+   "conf": 0.37
+  },
+  {
+   "text": ":",
+   "conf": 0.07
+  },
+  {
+   "text": "SAKURA",
+   "conf": 0.96
+  },
+  {
+   "text": "WALNUT",
+   "conf": 0.9
+  },
+  {
+   "text": "B",
+   "conf": 0.9
+  },
+  {
+   "text": "|",
+   "conf": 0.35
+  },
+  {
+   "text": ".",
+   "conf": 0.46
+  },
+  {
+   "text": "Ix",
+   "conf": 0.78
+  },
+  {
+   "text": "000000416993",
+   "conf": 0.95
+  },
+  {
+   "text": "6,",
+   "conf": 0.63
+  },
+  {
+   "text": "135R",
+   "conf": 0.63
+  },
+  {
+   "text": ",",
+   "conf": 0.0
+  },
+  {
+   "text": "GRAIN",
+   "conf": 0.93
+  },
+  {
+   "text": "&",
+   "conf": 0.92
+  },
+  {
+   "text": "SEEDS",
+   "conf": 0.93
+  },
+  {
+   "text": "B",
+   "conf": 0.92
+  },
+  {
+   "text": "|",
+   "conf": 0.62
+  },
+  {
+   "text": "—",
+   "conf": 0.11
+  },
+  {
+   "text": "Sub-total",
+   "conf": 0.87
+  },
+  {
+   "text": "8.96",
+   "conf": 0.61
+  },
+  {
+   "text": "‘",
+   "conf": 0.02
+  },
+  {
+   "text": "~",
+   "conf": 0.47
+  },
+  {
+   "text": "Total",
+   "conf": 0.53
+  },
+  {
+   "text": "Sales",
+   "conf": 0.96
+  },
+  {
+   "text": "Inc]",
+   "conf": 0.75
+  },
+  {
+   "text": "GST",
+   "conf": 0.85
+  },
+  {
+   "text": "8,96",
+   "conf": 0.87
+  },
+  {
+   "text": ".",
+   "conf": 0.33
+  },
+  {
+   "text": "Rounding",
+   "conf": 0.81
+  },
+  {
+   "text": "Adj",
+   "conf": 0.95
+  },
+  {
+   "text": "-0,01",
+   "conf": 0.31
+  },
+  {
+   "text": "|",
+   "conf": 0.32
+  },
+  {
+   "text": "Total",
+   "conf": 0.79
+  },
+  {
+   "text": "After",
+   "conf": 0.96
+  },
+  {
+   "text": "Adj",
+   "conf": 0.95
+  },
+  {
+   "text": "Incl",
+   "conf": 0.96
+  },
+  {
+   "text": "GST",
+   "conf": 0.96
+  },
+  {
+   "text": "8.95",
+   "conf": 0.36
+  },
+  {
+   "text": "CASH",
+   "conf": 0.96
+  },
+  {
+   "text": "50.00",
+   "conf": 0.7
+  },
+  {
+   "text": "Item",
+   "conf": 0.96
+  },
+  {
+   "text": "Count",
+   "conf": 0.95
+  },
+  {
+   "text": "2",
+   "conf": 0.76
+  },
+  {
+   "text": "Change",
+   "conf": 0.96
+  },
+  {
+   "text": "Amt",
+   "conf": 0.96
+  },
+  {
+   "text": "41.05",
+   "conf": 0.72
+  },
+  {
+   "text": ".",
+   "conf": 0.41
+  },
+  {
+   "text": "|",
+   "conf": 0.5
+  },
+  {
+   "text": "Invoice",
+   "conf": 0.96
+  },
+  {
+   "text": "No:",
+   "conf": 0.92
+  },
+  {
+   "text": "2018061710130220258",
+   "conf": 0.91
+  },
+  {
+   "text": "GST",
+   "conf": 0.94
+  },
+  {
+   "text": "Summary",
+   "conf": 0.86
+  },
+  {
+   "text": "Amount",
+   "conf": 0.95
+  },
+  {
+   "text": "Tax",
+   "conf": 0.93
+  },
+  {
+   "text": "SR",
+   "conf": 0.84
+  },
+  {
+   "text": "@",
+   "conf": 0.84
+  },
+  {
+   "text": "Of",
+   "conf": 0.56
+  },
+  {
+   "text": "8,96",
+   "conf": 0.9
+  },
+  {
+   "text": "0,00",
+   "conf": 0.73
+  },
+  {
+   "text": "|",
+   "conf": 0.37
+  },
+  {
+   "text": "Total",
+   "conf": 0.8
+  },
+  {
+   "text": "8,96",
+   "conf": 0.88
+  },
+  {
+   "text": "0,00",
+   "conf": 0.88
+  },
+  {
+   "text": "|",
+   "conf": 0.16
+  },
+  {
+   "text": ".",
+   "conf": 0.43
+  },
+  {
+   "text": "17/06/2018",
+   "conf": 0.95
+  },
+  {
+   "text": "18:35",
+   "conf": 0.9
+  },
+  {
+   "text": "1013",
+   "conf": 0.95
+  },
+  {
+   "text": "022",
+   "conf": 0.95
+  },
+  {
+   "text": "0220258",
+   "conf": 0.96
+  },
+  {
+   "text": "0305103",
+   "conf": 0.93
+  },
+  {
+   "text": "NORSUHAILA",
+   "conf": 0.9
+  },
+  {
+   "text": "BINTI",
+   "conf": 0.86
+  },
+  {
+   "text": "ABD",
+   "conf": 0.96
+  },
+  {
+   "text": "RASHID",
+   "conf": 0.96
+  },
+  {
+   "text": "AEON",
+   "conf": 0.89
+  },
+  {
+   "text": "Stamps",
+   "conf": 0.95
+  },
+  {
+   "text": "Loyalty",
+   "conf": 0.96
+  },
+  {
+   "text": "Program",
+   "conf": 0.91
+  },
+  {
+   "text": "‘“Product(s)”",
+   "conf": 0.3
+  },
+  {
+   "text": "sold",
+   "conf": 0.96
+  },
+  {
+   "text": "are",
+   "conf": 0.95
+  },
+  {
+   "text": "neither",
+   "conf": 0.96
+  },
+  {
+   "text": "exchangeable",
+   "conf": 0.96
+  },
+  {
+   "text": "nor",
+   "conf": 0.96
+  },
+  {
+   "text": ":",
+   "conf": 0.17
+  },
+  {
+   "text": "refundable",
+   "conf": 0.96
+  },
+  {
+   "text": ",",
+   "conf": 0.0
+  },
+  {
+   "text": "AEON",
+   "conf": 0.66
+  },
+  {
+   "text": "TEBRAU",
+   "conf": 0.91
+  },
+  {
+   "text": "CITY",
+   "conf": 0.96
+  },
+  {
+   "text": "|",
+   "conf": 0.55
+  },
+  {
+   "text": "TEL",
+   "conf": 0.92
+  },
+  {
+   "text": "1-300-80-AEON",
+   "conf": 0.52
+  },
+  {
+   "text": "(2366)",
+   "conf": 0.95
+  },
+  {
+   "text": ".",
+   "conf": 0.0
+  },
+  {
+   "text": "THANK",
+   "conf": 0.94
+  },
+  {
+   "text": "YOU",
+   "conf": 0.75
+  },
+  {
+   "text": "FOR",
+   "conf": 0.95
+  },
+  {
+   "text": "YOUR",
+   "conf": 0.96
+  },
+  {
+   "text": "PATRONAGE",
+   "conf": 0.96
+  },
+  {
+   "text": "PLEASE",
+   "conf": 0.95
+  },
+  {
+   "text": "COME",
+   "conf": 0.95
+  },
+  {
+   "text": "AGAIN",
+   "conf": 0.96
+  },
+  {
+   "text": "CA",
+   "conf": 0.2
+  },
+  {
+   "text": "a",
+   "conf": 0.0
+  }
+ ],
+ "mean_conf": 0.7201,
+ "low_conf_share": 0.2298,
+ "latency_ms": 7268,
+ "fields": {
+  "company": "AEON CO BHD",
+  "date": "2018-06-17",
+  "total": 8.95
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  8.95
+ ],
+ "key": "X51007846355"
+}

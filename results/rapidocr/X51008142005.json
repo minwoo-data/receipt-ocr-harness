@@ -1,0 +1,283 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "ONE ONE THREE SEAFOOD RESTAURANT SDN BH",
+  "(1120908-M)",
+  "NO.1,TAMAN SRI DENGKILJALAN AIR HITAM",
+  "43800 DENGKIL,SELANGOR.",
+  "（GSTReg.No:000670224384)",
+  "Tax Invoice",
+  "Tab1e40",
+  "Bi11#:V001-536988 Order#:137088",
+  "Date ：28-04-201820:10:51",
+  "Cashier:113 CASHIER Pax(s): 0",
+  "Qty Description TotalTAX",
+  "1 D 20.00 SR",
+  "Chicken Item",
+  "1 D 15.00SR",
+  "Vege item",
+  "1 D 22.00SR",
+  "Sausage Fried Rice (L)",
+  "1 D 5.00SR",
+  "Beverage",
+  "Total (Excluding GST): 62.00",
+  "GST Payable: 3.72",
+  "Total(Inclusiveof GST): 65.72",
+  "Rounding Adj -0.02",
+  "TOTAL: 65.70",
+  "Closed:1 28-04-2018 21:08:20",
+  "Server:113 CASHIER",
+  "CASH: 65.70",
+  "GST Summary Amount(RM) Tax(RM)",
+  "SR (@6%) 62.00 3.72",
+  "****ThankYou ****",
+  "Please Come Again"
+ ],
+ "tokens": [
+  {
+   "text": "ONE ONE THREE SEAFOOD RESTAURANT SDN BH",
+   "conf": 0.9372548216428512
+  },
+  {
+   "text": "(1120908-M)",
+   "conf": 0.9423000324856151
+  },
+  {
+   "text": "NO.1,TAMAN SRI DENGKILJALAN AIR HITAM",
+   "conf": 0.9501725773553591
+  },
+  {
+   "text": "43800 DENGKIL,SELANGOR.",
+   "conf": 0.9343075752258301
+  },
+  {
+   "text": "（GSTReg.No:000670224384)",
+   "conf": 0.9479540015260378
+  },
+  {
+   "text": "Tax Invoice",
+   "conf": 0.9577549316666343
+  },
+  {
+   "text": "Tab1e40",
+   "conf": 0.9479014277458191
+  },
+  {
+   "text": "Bi11#:V001-536988",
+   "conf": 0.9696086855495677
+  },
+  {
+   "text": "Order#:137088",
+   "conf": 0.9511664876571069
+  },
+  {
+   "text": "Date",
+   "conf": 0.9952594041824341
+  },
+  {
+   "text": "：28-04-201820:10:51",
+   "conf": 0.961098994079389
+  },
+  {
+   "text": "Cashier:113 CASHIER",
+   "conf": 0.9780154792886031
+  },
+  {
+   "text": "Pax(s):",
+   "conf": 0.9256808161735535
+  },
+  {
+   "text": "0",
+   "conf": 0.9863874912261963
+  },
+  {
+   "text": "Qty",
+   "conf": 0.9620636900266012
+  },
+  {
+   "text": "Description",
+   "conf": 0.9924719171090559
+  },
+  {
+   "text": "TotalTAX",
+   "conf": 0.9589654803276062
+  },
+  {
+   "text": "1",
+   "conf": 0.9757846593856812
+  },
+  {
+   "text": "D",
+   "conf": 0.9921476244926453
+  },
+  {
+   "text": "20.00 SR",
+   "conf": 0.9314539581537247
+  },
+  {
+   "text": "Chicken Item",
+   "conf": 0.9796729038159052
+  },
+  {
+   "text": "1",
+   "conf": 0.9834172129631042
+  },
+  {
+   "text": "D",
+   "conf": 0.9933679699897766
+  },
+  {
+   "text": "15.00SR",
+   "conf": 0.9863291382789612
+  },
+  {
+   "text": "Vege item",
+   "conf": 0.9486331078741286
+  },
+  {
+   "text": "1",
+   "conf": 0.9578675031661987
+  },
+  {
+   "text": "D",
+   "conf": 0.9937999844551086
+  },
+  {
+   "text": "22.00SR",
+   "conf": 0.9834888236863273
+  },
+  {
+   "text": "Sausage Fried Rice (L)",
+   "conf": 0.9106141084974463
+  },
+  {
+   "text": "1",
+   "conf": 0.9460012912750244
+  },
+  {
+   "text": "D",
+   "conf": 0.9967484474182129
+  },
+  {
+   "text": "5.00SR",
+   "conf": 0.9959472715854645
+  },
+  {
+   "text": "Beverage",
+   "conf": 0.9953221827745438
+  },
+  {
+   "text": "Total (Excluding GST):",
+   "conf": 0.9245981655337594
+  },
+  {
+   "text": "62.00",
+   "conf": 0.9974198698997497
+  },
+  {
+   "text": "GST Payable:",
+   "conf": 0.9373554438352585
+  },
+  {
+   "text": "3.72",
+   "conf": 0.9940949231386185
+  },
+  {
+   "text": "Total(Inclusiveof GST):",
+   "conf": 0.9144050945406375
+  },
+  {
+   "text": "65.72",
+   "conf": 0.9968367099761963
+  },
+  {
+   "text": "Rounding Adj",
+   "conf": 0.9817945808172226
+  },
+  {
+   "text": "-0.02",
+   "conf": 0.9830758810043335
+  },
+  {
+   "text": "TOTAL:",
+   "conf": 0.9781117737293243
+  },
+  {
+   "text": "65.70",
+   "conf": 0.9986141085624695
+  },
+  {
+   "text": "Closed:1",
+   "conf": 0.9439326077699661
+  },
+  {
+   "text": "28-04-2018",
+   "conf": 0.9976923942565918
+  },
+  {
+   "text": "21:08:20",
+   "conf": 0.9841803088784218
+  },
+  {
+   "text": "Server:113 CASHIER",
+   "conf": 0.9658254153198667
+  },
+  {
+   "text": "CASH:",
+   "conf": 0.931080424785614
+  },
+  {
+   "text": "65.70",
+   "conf": 0.9990463733673096
+  },
+  {
+   "text": "GST Summary",
+   "conf": 0.9701911807060242
+  },
+  {
+   "text": "Amount(RM)",
+   "conf": 0.9471373677253723
+  },
+  {
+   "text": "Tax(RM)",
+   "conf": 0.9406612004552569
+  },
+  {
+   "text": "SR",
+   "conf": 0.9887861609458923
+  },
+  {
+   "text": "(@6%)",
+   "conf": 0.8657757043838501
+  },
+  {
+   "text": "62.00",
+   "conf": 0.9984432935714722
+  },
+  {
+   "text": "3.72",
+   "conf": 0.9373475164175034
+  },
+  {
+   "text": "****ThankYou ****",
+   "conf": 0.9755728069473716
+  },
+  {
+   "text": "Please Come Again",
+   "conf": 0.9695225112578448
+  }
+ ],
+ "mean_conf": 0.9654,
+ "low_conf_share": 0.0,
+ "latency_ms": 4367,
+ "fields": {
+  "company": "ONE ONE THREE SEAFOOD RESTAURANT SDN BH",
+  "date": "2018-04-28",
+  "total": 65.72
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  65.72
+ ],
+ "key": "X51008142005"
+}

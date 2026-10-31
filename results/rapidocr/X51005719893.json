@@ -1,0 +1,202 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "Mr.Dakgalbi Solaris",
+  "BRN GST No. 000417619968 President: Kang",
+  "No.J-G-02,Soho KI,Solaris Mont Kiera,50",
+  "480KL",
+  "GST No.",
+  "TEL)0362065567",
+  "[Sales]2018-01-05 22:55:25 PosNo :86",
+  "Description qty Price",
+  "Fried Rice 3 Pax 71.00(S)",
+  "1 Item (Inclusive of GST) 71.00",
+  "Round Amt 0.00",
+  "TOTAL 71.00",
+  "Cash 71.00",
+  "Cash Received 101.00",
+  "Change 30.00",
+  "GST@6% 4.02",
+  "GSTSummary Amount(RM) GST(RM)",
+  "S=GST@6%: 66.98 4.02",
+  "Z=GST@0%: 0.00 0.00",
+  "Receipt No:18010500047",
+  "Person :S-Admin",
+  "Table No: [Ha11]-9"
+ ],
+ "tokens": [
+  {
+   "text": "Mr.Dakgalbi Solaris",
+   "conf": 0.9514741615245217
+  },
+  {
+   "text": "BRN GST No. 000417619968 President: Kang",
+   "conf": 0.9702710390090943
+  },
+  {
+   "text": "No.J-G-02,Soho KI,Solaris Mont Kiera,50",
+   "conf": 0.9436862025505457
+  },
+  {
+   "text": "480KL",
+   "conf": 0.9964046597480773
+  },
+  {
+   "text": "GST No.",
+   "conf": 0.9827290007046291
+  },
+  {
+   "text": "TEL)0362065567",
+   "conf": 0.985202146427972
+  },
+  {
+   "text": "[Sales]2018-01-05 22:55:25",
+   "conf": 0.9480111793829844
+  },
+  {
+   "text": "PosNo :86",
+   "conf": 0.9140295253859626
+  },
+  {
+   "text": "Description",
+   "conf": 0.9959611567583951
+  },
+  {
+   "text": "qty",
+   "conf": 0.9663960138956705
+  },
+  {
+   "text": "Price",
+   "conf": 0.9892358422279358
+  },
+  {
+   "text": "Fried Rice 3 Pax",
+   "conf": 0.9256225302815437
+  },
+  {
+   "text": "71.00(S)",
+   "conf": 0.9854305610060692
+  },
+  {
+   "text": "1 Item (Inclusive of GST)",
+   "conf": 0.9184624838829041
+  },
+  {
+   "text": "71.00",
+   "conf": 0.9996291756629944
+  },
+  {
+   "text": "Round Amt",
+   "conf": 0.9610137144724528
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9996636360883713
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.9980690598487854
+  },
+  {
+   "text": "71.00",
+   "conf": 0.9770188212394715
+  },
+  {
+   "text": "Cash",
+   "conf": 0.9961109906435013
+  },
+  {
+   "text": "71.00",
+   "conf": 0.9991905212402343
+  },
+  {
+   "text": "Cash Received",
+   "conf": 0.9799030744112455
+  },
+  {
+   "text": "101.00",
+   "conf": 0.9992853403091431
+  },
+  {
+   "text": "Change",
+   "conf": 0.9961773057778677
+  },
+  {
+   "text": "30.00",
+   "conf": 0.9995800971984863
+  },
+  {
+   "text": "GST@6%",
+   "conf": 0.9989230632781982
+  },
+  {
+   "text": "4.02",
+   "conf": 0.9993036091327667
+  },
+  {
+   "text": "GSTSummary",
+   "conf": 0.980809235572815
+  },
+  {
+   "text": "Amount(RM)",
+   "conf": 0.9769958436489106
+  },
+  {
+   "text": "GST(RM)",
+   "conf": 0.9887394394193377
+  },
+  {
+   "text": "S=GST@6%:",
+   "conf": 0.9822254379590353
+  },
+  {
+   "text": "66.98",
+   "conf": 0.9994916915893555
+  },
+  {
+   "text": "4.02",
+   "conf": 0.998605266213417
+  },
+  {
+   "text": "Z=GST@0%:",
+   "conf": 0.9374965031941732
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9903602004051208
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9995997846126556
+  },
+  {
+   "text": "Receipt No:18010500047",
+   "conf": 0.9953723820773038
+  },
+  {
+   "text": "Person",
+   "conf": 0.9901317755381266
+  },
+  {
+   "text": ":S-Admin",
+   "conf": 0.8923898674547672
+  },
+  {
+   "text": "Table No: [Ha11]-9",
+   "conf": 0.9365570346514384
+  }
+ ],
+ "mean_conf": 0.9761,
+ "low_conf_share": 0.0,
+ "latency_ms": 4920,
+ "fields": {
+  "company": "SALES 2018 01 05 22 55 25 POSNO 86",
+  "date": "2018-01-05",
+  "total": 71.0
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  71.0
+ ],
+ "key": "X51005719893"
+}

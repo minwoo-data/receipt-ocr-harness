@@ -1,0 +1,282 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "31812012",
+  "SYARIKAT PERNIAGAAN GIN KEE",
+  "(81109-A)",
+  "NO 290, JALAN AIR PANAS,",
+  "SETAPAK,",
+  "53200, KUALA LUMPUR.",
+  "TEL:03-40210276",
+  "GSTID:000750673920",
+  "SIMPLIFIED TAX INVOICE",
+  "CASH",
+  "Doc No. CS00011926 Date:02/12/2017",
+  "Cashier :USER Time: 08:44:00",
+  "Salesperson : Ref.:",
+  "Item 3122 Qty 1 S/Price 29.68 Amount 29.68 Tax SR",
+  "(W33) 105MM/4'CUTTINGDISC",
+  "Total Qty: 1 29.68",
+  "Total Sales (Excluding GST) : 28.00",
+  "Discount : 0:00",
+  "Total GST : 1.68",
+  "Rounding : 0.00",
+  "Total Sales (lnclusive of GsT) : 29.68",
+  "CASH : 29.68",
+  "Change : 0.00",
+  "GST SUMMARY",
+  "Iax Code SR % 6 Amt (RM) 28.00 Tax (RM) 1.68",
+  "Total : 28.00 1.68"
+ ],
+ "tokens": [
+  {
+   "text": "31812012",
+   "conf": 0.942530483007431
+  },
+  {
+   "text": "SYARIKAT PERNIAGAAN GIN KEE",
+   "conf": 0.9662185708681742
+  },
+  {
+   "text": "(81109-A)",
+   "conf": 0.9994635780652364
+  },
+  {
+   "text": "NO 290, JALAN AIR PANAS,",
+   "conf": 0.9728517358501753
+  },
+  {
+   "text": "SETAPAK,",
+   "conf": 0.9398814663290977
+  },
+  {
+   "text": "53200, KUALA LUMPUR.",
+   "conf": 0.9733803778886795
+  },
+  {
+   "text": "TEL:03-40210276",
+   "conf": 0.9907589356104533
+  },
+  {
+   "text": "GSTID:000750673920",
+   "conf": 0.9912983874479929
+  },
+  {
+   "text": "SIMPLIFIED TAX INVOICE",
+   "conf": 0.9603225453333422
+  },
+  {
+   "text": "CASH",
+   "conf": 0.9796049743890762
+  },
+  {
+   "text": "CS00011926",
+   "conf": 0.9824496924877166
+  },
+  {
+   "text": "Date:02/12/2017",
+   "conf": 0.9917372941970826
+  },
+  {
+   "text": "Doc No.",
+   "conf": 0.9995047705514091
+  },
+  {
+   "text": "Time: 08:44:00",
+   "conf": 0.9389984139374324
+  },
+  {
+   "text": "Cashier",
+   "conf": 0.99516932453428
+  },
+  {
+   "text": ":USER",
+   "conf": 0.9139176487922669
+  },
+  {
+   "text": "Ref.:",
+   "conf": 0.991992449760437
+  },
+  {
+   "text": "Salesperson :",
+   "conf": 0.9742834843122042
+  },
+  {
+   "text": "Qty",
+   "conf": 0.9971710840861002
+  },
+  {
+   "text": "S/Price",
+   "conf": 0.9647223438535418
+  },
+  {
+   "text": "Amount",
+   "conf": 0.9942067762215933
+  },
+  {
+   "text": "Tax",
+   "conf": 0.9915590683619181
+  },
+  {
+   "text": "Item",
+   "conf": 0.7764113694429398
+  },
+  {
+   "text": "29.68",
+   "conf": 0.998853611946106
+  },
+  {
+   "text": "29.68",
+   "conf": 0.9963756442070008
+  },
+  {
+   "text": "SR",
+   "conf": 0.9758740663528442
+  },
+  {
+   "text": "3122",
+   "conf": 0.9983049631118774
+  },
+  {
+   "text": "1",
+   "conf": 0.9891268610954285
+  },
+  {
+   "text": "(W33) 105MM/4'CUTTINGDISC",
+   "conf": 0.9526934051513671
+  },
+  {
+   "text": "29.68",
+   "conf": 0.9993151664733887
+  },
+  {
+   "text": "Total Qty:",
+   "conf": 0.9674191236495971
+  },
+  {
+   "text": "1",
+   "conf": 0.9968944787979126
+  },
+  {
+   "text": "28.00",
+   "conf": 0.9997462272644043
+  },
+  {
+   "text": "Total Sales (Excluding GST) :",
+   "conf": 0.9731399786883387
+  },
+  {
+   "text": "Discount :",
+   "conf": 0.9872651100158691
+  },
+  {
+   "text": "0:00",
+   "conf": 0.8531477451324463
+  },
+  {
+   "text": "Total GST :",
+   "conf": 0.964967050335624
+  },
+  {
+   "text": "1.68",
+   "conf": 0.9972378462553024
+  },
+  {
+   "text": "Rounding :",
+   "conf": 0.9715756237506866
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9977453500032425
+  },
+  {
+   "text": "29.68",
+   "conf": 0.9985063791275024
+  },
+  {
+   "text": "Total Sales (lnclusive of GsT) :",
+   "conf": 0.9797007571905851
+  },
+  {
+   "text": "CASH :",
+   "conf": 0.981395810842514
+  },
+  {
+   "text": "29.68",
+   "conf": 0.9986433148384094
+  },
+  {
+   "text": "Change :",
+   "conf": 0.9815808460116386
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9988093376159668
+  },
+  {
+   "text": "GST SUMMARY",
+   "conf": 0.956267849965529
+  },
+  {
+   "text": "%",
+   "conf": 0.9554949998855591
+  },
+  {
+   "text": "Amt (RM)",
+   "conf": 0.9964402467012405
+  },
+  {
+   "text": "Tax (RM)",
+   "conf": 0.9359774887561798
+  },
+  {
+   "text": "Iax Code",
+   "conf": 0.9458664581179619
+  },
+  {
+   "text": "6",
+   "conf": 0.9727415442466736
+  },
+  {
+   "text": "28.00",
+   "conf": 0.998811936378479
+  },
+  {
+   "text": "1.68",
+   "conf": 0.9991485923528671
+  },
+  {
+   "text": "SR",
+   "conf": 0.9895423352718353
+  },
+  {
+   "text": "28.00",
+   "conf": 0.9996054410934448
+  },
+  {
+   "text": "1.68",
+   "conf": 0.9986457377672195
+  },
+  {
+   "text": "Total :",
+   "conf": 0.9722873823983329
+  }
+ ],
+ "mean_conf": 0.9743,
+ "low_conf_share": 0.0,
+ "latency_ms": 4405,
+ "fields": {
+  "company": "SYARIKAT PERNIAGAAN GIN KEE",
+  "date": "2017-12-02",
+  "total": 1.68
+ },
+ "rule_reasons": [
+  "total_multiple_keyword_amounts"
+ ],
+ "total_candidates": [
+  29.68,
+  29.68,
+  1.68
+ ],
+ "key": "X51005663277"
+}

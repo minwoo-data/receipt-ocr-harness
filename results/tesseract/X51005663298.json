@@ -1,0 +1,602 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "98 o301y",
+  "| AL MENDIS-1HE MINES",
+  "ZAWTAJAYA FOOD N BEVERAGE SDN BHD",
+  "(1168272-U)",
+  "(06-107, LEVEL 1 THE MINES MALL SERDANG",
+  "SRI KEMBANGAN, 43300",
+  "SELANGOR DARUL EHSAN.",
+  "(GST Reg. No ; 001685499904)",
+  "Tax Invoice",
+  "L",
+  "Table 23",
+  "Order #: 116455",
+  "Billi: VOO1- 515592 Pax(s): 2",
+  "Date : 21-03-2018 13:29:51",
+  "Cashier: TAMEEM",
+  "EMS Ref:",
+  "1803211429600 _515597_ijcb691918+365",
+  "Description Qty U.price Total TAX",
+  "Maghgout Lamb w 1S",
+  "1x 22,50 22.50 SR",
+  "Garden Salad (S)",
+  "1 x 5,90 5.90 SR",
+  "TEA POT BIG",
+  "1x 12.90 12.90 SR",
+  "Total (Excluding GST): 41.30",
+  "Serv. Charge (10%): 4,13",
+  "GST Payable: 2.13",
+  "total (Inclusive of GST): 48.16",
+  "Rounding Ad): -0.01",
+  "Closed: 011 21-03-2018 = 14:29:00",
+  "Server: TEMP STAFF",
+  "CASH : 50.00",
+  "CHANGE : 1.85",
+  "GST Summary Amount(RM) = Tax(RM}",
+  "SR (@ 6%) 45.43 2.13 /",
+  "we Thank You #4",
+  "Piease Come Again",
+  "POWERED BY STSPQS.COM.MY"
+ ],
+ "tokens": [
+  {
+   "text": "98",
+   "conf": 0.57
+  },
+  {
+   "text": "o301y",
+   "conf": 0.07
+  },
+  {
+   "text": "|",
+   "conf": 0.75
+  },
+  {
+   "text": "AL",
+   "conf": 0.92
+  },
+  {
+   "text": "MENDIS-1HE",
+   "conf": 0.37
+  },
+  {
+   "text": "MINES",
+   "conf": 0.96
+  },
+  {
+   "text": "ZAWTAJAYA",
+   "conf": 0.17
+  },
+  {
+   "text": "FOOD",
+   "conf": 0.87
+  },
+  {
+   "text": "N",
+   "conf": 0.92
+  },
+  {
+   "text": "BEVERAGE",
+   "conf": 0.8
+  },
+  {
+   "text": "SDN",
+   "conf": 0.95
+  },
+  {
+   "text": "BHD",
+   "conf": 0.95
+  },
+  {
+   "text": "(1168272-U)",
+   "conf": 0.86
+  },
+  {
+   "text": "(06-107,",
+   "conf": 0.13
+  },
+  {
+   "text": "LEVEL",
+   "conf": 0.94
+  },
+  {
+   "text": "1",
+   "conf": 0.94
+  },
+  {
+   "text": "THE",
+   "conf": 0.94
+  },
+  {
+   "text": "MINES",
+   "conf": 0.96
+  },
+  {
+   "text": "MALL",
+   "conf": 0.92
+  },
+  {
+   "text": "SERDANG",
+   "conf": 0.91
+  },
+  {
+   "text": "SRI",
+   "conf": 0.87
+  },
+  {
+   "text": "KEMBANGAN,",
+   "conf": 0.87
+  },
+  {
+   "text": "43300",
+   "conf": 0.96
+  },
+  {
+   "text": "SELANGOR",
+   "conf": 0.93
+  },
+  {
+   "text": "DARUL",
+   "conf": 0.91
+  },
+  {
+   "text": "EHSAN.",
+   "conf": 0.93
+  },
+  {
+   "text": "(GST",
+   "conf": 0.96
+  },
+  {
+   "text": "Reg.",
+   "conf": 0.95
+  },
+  {
+   "text": "No",
+   "conf": 0.91
+  },
+  {
+   "text": ";",
+   "conf": 0.47
+  },
+  {
+   "text": "001685499904)",
+   "conf": 0.79
+  },
+  {
+   "text": "Tax",
+   "conf": 0.67
+  },
+  {
+   "text": "Invoice",
+   "conf": 0.93
+  },
+  {
+   "text": "L",
+   "conf": 0.56
+  },
+  {
+   "text": "Table",
+   "conf": 0.95
+  },
+  {
+   "text": "23",
+   "conf": 0.95
+  },
+  {
+   "text": "Order",
+   "conf": 0.23
+  },
+  {
+   "text": "#:",
+   "conf": 0.23
+  },
+  {
+   "text": "116455",
+   "conf": 0.96
+  },
+  {
+   "text": "Billi:",
+   "conf": 0.0
+  },
+  {
+   "text": "VOO1-",
+   "conf": 0.38
+  },
+  {
+   "text": "515592",
+   "conf": 0.95
+  },
+  {
+   "text": "Pax(s):",
+   "conf": 0.91
+  },
+  {
+   "text": "2",
+   "conf": 0.96
+  },
+  {
+   "text": "Date",
+   "conf": 0.52
+  },
+  {
+   "text": ":",
+   "conf": 0.36
+  },
+  {
+   "text": "21-03-2018",
+   "conf": 0.92
+  },
+  {
+   "text": "13:29:51",
+   "conf": 0.93
+  },
+  {
+   "text": "Cashier:",
+   "conf": 0.93
+  },
+  {
+   "text": "TAMEEM",
+   "conf": 0.92
+  },
+  {
+   "text": "EMS",
+   "conf": 0.95
+  },
+  {
+   "text": "Ref:",
+   "conf": 0.75
+  },
+  {
+   "text": "1803211429600",
+   "conf": 0.62
+  },
+  {
+   "text": "_515597_ijcb691918+365",
+   "conf": 0.0
+  },
+  {
+   "text": "Description",
+   "conf": 0.93
+  },
+  {
+   "text": "Qty",
+   "conf": 0.87
+  },
+  {
+   "text": "U.price",
+   "conf": 0.85
+  },
+  {
+   "text": "Total",
+   "conf": 0.96
+  },
+  {
+   "text": "TAX",
+   "conf": 0.94
+  },
+  {
+   "text": "Maghgout",
+   "conf": 0.91
+  },
+  {
+   "text": "Lamb",
+   "conf": 0.89
+  },
+  {
+   "text": "w",
+   "conf": 0.89
+  },
+  {
+   "text": "1S",
+   "conf": 0.73
+  },
+  {
+   "text": "1x",
+   "conf": 0.81
+  },
+  {
+   "text": "22,50",
+   "conf": 0.84
+  },
+  {
+   "text": "22.50",
+   "conf": 0.88
+  },
+  {
+   "text": "SR",
+   "conf": 0.88
+  },
+  {
+   "text": "Garden",
+   "conf": 0.96
+  },
+  {
+   "text": "Salad",
+   "conf": 0.93
+  },
+  {
+   "text": "(S)",
+   "conf": 0.92
+  },
+  {
+   "text": "1",
+   "conf": 0.84
+  },
+  {
+   "text": "x",
+   "conf": 0.84
+  },
+  {
+   "text": "5,90",
+   "conf": 0.61
+  },
+  {
+   "text": "5.90",
+   "conf": 0.81
+  },
+  {
+   "text": "SR",
+   "conf": 0.87
+  },
+  {
+   "text": "TEA",
+   "conf": 0.96
+  },
+  {
+   "text": "POT",
+   "conf": 0.95
+  },
+  {
+   "text": "BIG",
+   "conf": 0.91
+  },
+  {
+   "text": "1x",
+   "conf": 0.81
+  },
+  {
+   "text": "12.90",
+   "conf": 0.89
+  },
+  {
+   "text": "12.90",
+   "conf": 0.85
+  },
+  {
+   "text": "SR",
+   "conf": 0.85
+  },
+  {
+   "text": "Total",
+   "conf": 0.96
+  },
+  {
+   "text": "(Excluding",
+   "conf": 0.94
+  },
+  {
+   "text": "GST):",
+   "conf": 0.94
+  },
+  {
+   "text": "41.30",
+   "conf": 0.84
+  },
+  {
+   "text": "Serv.",
+   "conf": 0.95
+  },
+  {
+   "text": "Charge",
+   "conf": 0.96
+  },
+  {
+   "text": "(10%):",
+   "conf": 0.94
+  },
+  {
+   "text": "4,13",
+   "conf": 0.6
+  },
+  {
+   "text": "GST",
+   "conf": 0.91
+  },
+  {
+   "text": "Payable:",
+   "conf": 0.96
+  },
+  {
+   "text": "2.13",
+   "conf": 0.9
+  },
+  {
+   "text": "total",
+   "conf": 0.6
+  },
+  {
+   "text": "(Inclusive",
+   "conf": 0.96
+  },
+  {
+   "text": "of",
+   "conf": 0.96
+  },
+  {
+   "text": "GST):",
+   "conf": 0.94
+  },
+  {
+   "text": "48.16",
+   "conf": 0.77
+  },
+  {
+   "text": "Rounding",
+   "conf": 0.95
+  },
+  {
+   "text": "Ad):",
+   "conf": 0.62
+  },
+  {
+   "text": "-0.01",
+   "conf": 0.75
+  },
+  {
+   "text": "Closed:",
+   "conf": 0.92
+  },
+  {
+   "text": "011",
+   "conf": 0.91
+  },
+  {
+   "text": "21-03-2018",
+   "conf": 0.88
+  },
+  {
+   "text": "=",
+   "conf": 0.32
+  },
+  {
+   "text": "14:29:00",
+   "conf": 0.79
+  },
+  {
+   "text": "Server:",
+   "conf": 0.96
+  },
+  {
+   "text": "TEMP",
+   "conf": 0.95
+  },
+  {
+   "text": "STAFF",
+   "conf": 0.96
+  },
+  {
+   "text": "CASH",
+   "conf": 0.91
+  },
+  {
+   "text": ":",
+   "conf": 0.91
+  },
+  {
+   "text": "50.00",
+   "conf": 0.87
+  },
+  {
+   "text": "CHANGE",
+   "conf": 0.66
+  },
+  {
+   "text": ":",
+   "conf": 0.72
+  },
+  {
+   "text": "1.85",
+   "conf": 0.89
+  },
+  {
+   "text": "GST",
+   "conf": 0.95
+  },
+  {
+   "text": "Summary",
+   "conf": 0.95
+  },
+  {
+   "text": "Amount(RM)",
+   "conf": 0.87
+  },
+  {
+   "text": "=",
+   "conf": 0.26
+  },
+  {
+   "text": "Tax(RM}",
+   "conf": 0.56
+  },
+  {
+   "text": "SR",
+   "conf": 0.86
+  },
+  {
+   "text": "(@",
+   "conf": 0.91
+  },
+  {
+   "text": "6%)",
+   "conf": 0.83
+  },
+  {
+   "text": "45.43",
+   "conf": 0.59
+  },
+  {
+   "text": "2.13",
+   "conf": 0.59
+  },
+  {
+   "text": "/",
+   "conf": 0.61
+  },
+  {
+   "text": "we",
+   "conf": 0.14
+  },
+  {
+   "text": "Thank",
+   "conf": 0.9
+  },
+  {
+   "text": "You",
+   "conf": 0.85
+  },
+  {
+   "text": "#4",
+   "conf": 0.41
+  },
+  {
+   "text": "Piease",
+   "conf": 0.79
+  },
+  {
+   "text": "Come",
+   "conf": 0.96
+  },
+  {
+   "text": "Again",
+   "conf": 0.95
+  },
+  {
+   "text": "POWERED",
+   "conf": 0.77
+  },
+  {
+   "text": "BY",
+   "conf": 0.91
+  },
+  {
+   "text": "STSPQS.COM.MY",
+   "conf": 0.39
+  }
+ ],
+ "mean_conf": 0.7909,
+ "low_conf_share": 0.1176,
+ "latency_ms": 1264,
+ "fields": {
+  "company": "ZAWTAJAYA FOOD N BEVERAGE SDN BHD",
+  "date": "2018-03-21",
+  "total": 48.16
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  48.16
+ ],
+ "key": "X51005663298"
+}

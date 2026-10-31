@@ -1,0 +1,500 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "Ags BE",
+  "UNIHAKKA INTERNATIONAL SDN BHD )",
+  "30 May 2018 18:24 7",
+  "(867388-U) ;",
+  "42, Jalan Tampoi 7/4,Kawasan Perindustrian",
+  "Tampoi,81200 Johor Bahru, Johor",
+  "TAX INVOICE",
+  "Invoice # ; OR18053002160412 |",
+  "Item Qty Total",
+  "° SR 1001000001 70- Imported Veggies",
+  ". $1.60 1 $1.60 |",
+  "SR 100100000035- 1 Meat + 3 Vege",
+  "$7.10 1 $7.10",
+  ". Total Amount: $8.70 ;",
+  "GST @6%: $0.49 )",
+  "| Nett Total: $8.70",
+  "Payment Mode Amount",
+  "CASH $8.70 .",
+  "Change $0.00 ,",
+  "GST Summaly Amount($) Tax($)",
+  "SR = GST @6% 8.21 0.49",
+  "GST REG #000656195584 . .",
+  "BAR WANG RICE@PERMAS JAYA",
+  "(Price Inclusive Of GST)",
+  "Thank You & Come Again! .",
+  "Like and Follow Us on Facebook! .",
+  "Facebook.com/BarWangRice"
+ ],
+ "tokens": [
+  {
+   "text": "Ags",
+   "conf": 0.35
+  },
+  {
+   "text": "BE",
+   "conf": 0.54
+  },
+  {
+   "text": "UNIHAKKA",
+   "conf": 0.91
+  },
+  {
+   "text": "INTERNATIONAL",
+   "conf": 0.95
+  },
+  {
+   "text": "SDN",
+   "conf": 0.96
+  },
+  {
+   "text": "BHD",
+   "conf": 0.95
+  },
+  {
+   "text": ")",
+   "conf": 0.1
+  },
+  {
+   "text": "30",
+   "conf": 0.95
+  },
+  {
+   "text": "May",
+   "conf": 0.96
+  },
+  {
+   "text": "2018",
+   "conf": 0.96
+  },
+  {
+   "text": "18:24",
+   "conf": 0.96
+  },
+  {
+   "text": "7",
+   "conf": 0.18
+  },
+  {
+   "text": "(867388-U)",
+   "conf": 0.91
+  },
+  {
+   "text": ";",
+   "conf": 0.09
+  },
+  {
+   "text": "42,",
+   "conf": 0.87
+  },
+  {
+   "text": "Jalan",
+   "conf": 0.93
+  },
+  {
+   "text": "Tampoi",
+   "conf": 0.86
+  },
+  {
+   "text": "7/4,Kawasan",
+   "conf": 0.88
+  },
+  {
+   "text": "Perindustrian",
+   "conf": 0.92
+  },
+  {
+   "text": "Tampoi,81200",
+   "conf": 0.91
+  },
+  {
+   "text": "Johor",
+   "conf": 0.96
+  },
+  {
+   "text": "Bahru,",
+   "conf": 0.96
+  },
+  {
+   "text": "Johor",
+   "conf": 0.96
+  },
+  {
+   "text": "TAX",
+   "conf": 0.92
+  },
+  {
+   "text": "INVOICE",
+   "conf": 0.92
+  },
+  {
+   "text": "Invoice",
+   "conf": 0.75
+  },
+  {
+   "text": "#",
+   "conf": 0.84
+  },
+  {
+   "text": ";",
+   "conf": 0.66
+  },
+  {
+   "text": "OR18053002160412",
+   "conf": 0.91
+  },
+  {
+   "text": "|",
+   "conf": 0.24
+  },
+  {
+   "text": "Item",
+   "conf": 0.39
+  },
+  {
+   "text": "Qty",
+   "conf": 0.96
+  },
+  {
+   "text": "Total",
+   "conf": 0.96
+  },
+  {
+   "text": "°",
+   "conf": 0.37
+  },
+  {
+   "text": "SR",
+   "conf": 0.96
+  },
+  {
+   "text": "1001000001",
+   "conf": 0.61
+  },
+  {
+   "text": "70-",
+   "conf": 0.61
+  },
+  {
+   "text": "Imported",
+   "conf": 0.95
+  },
+  {
+   "text": "Veggies",
+   "conf": 0.96
+  },
+  {
+   "text": ".",
+   "conf": 0.0
+  },
+  {
+   "text": "$1.60",
+   "conf": 0.95
+  },
+  {
+   "text": "1",
+   "conf": 0.6
+  },
+  {
+   "text": "$1.60",
+   "conf": 0.96
+  },
+  {
+   "text": "|",
+   "conf": 0.63
+  },
+  {
+   "text": "SR",
+   "conf": 0.89
+  },
+  {
+   "text": "100100000035-",
+   "conf": 0.89
+  },
+  {
+   "text": "1",
+   "conf": 0.96
+  },
+  {
+   "text": "Meat",
+   "conf": 0.96
+  },
+  {
+   "text": "+",
+   "conf": 0.87
+  },
+  {
+   "text": "3",
+   "conf": 0.87
+  },
+  {
+   "text": "Vege",
+   "conf": 0.94
+  },
+  {
+   "text": "$7.10",
+   "conf": 0.95
+  },
+  {
+   "text": "1",
+   "conf": 0.89
+  },
+  {
+   "text": "$7.10",
+   "conf": 0.96
+  },
+  {
+   "text": ".",
+   "conf": 0.26
+  },
+  {
+   "text": "Total",
+   "conf": 0.96
+  },
+  {
+   "text": "Amount:",
+   "conf": 0.96
+  },
+  {
+   "text": "$8.70",
+   "conf": 0.96
+  },
+  {
+   "text": ";",
+   "conf": 0.21
+  },
+  {
+   "text": "GST",
+   "conf": 0.91
+  },
+  {
+   "text": "@6%:",
+   "conf": 0.8
+  },
+  {
+   "text": "$0.49",
+   "conf": 0.96
+  },
+  {
+   "text": ")",
+   "conf": 0.15
+  },
+  {
+   "text": "|",
+   "conf": 0.42
+  },
+  {
+   "text": "Nett",
+   "conf": 0.96
+  },
+  {
+   "text": "Total:",
+   "conf": 0.95
+  },
+  {
+   "text": "$8.70",
+   "conf": 0.94
+  },
+  {
+   "text": "Payment",
+   "conf": 0.3
+  },
+  {
+   "text": "Mode",
+   "conf": 0.96
+  },
+  {
+   "text": "Amount",
+   "conf": 0.95
+  },
+  {
+   "text": "CASH",
+   "conf": 0.96
+  },
+  {
+   "text": "$8.70",
+   "conf": 0.96
+  },
+  {
+   "text": ".",
+   "conf": 0.26
+  },
+  {
+   "text": "Change",
+   "conf": 0.96
+  },
+  {
+   "text": "$0.00",
+   "conf": 0.96
+  },
+  {
+   "text": ",",
+   "conf": 0.07
+  },
+  {
+   "text": "GST",
+   "conf": 0.88
+  },
+  {
+   "text": "Summaly",
+   "conf": 0.88
+  },
+  {
+   "text": "Amount($)",
+   "conf": 0.91
+  },
+  {
+   "text": "Tax($)",
+   "conf": 0.92
+  },
+  {
+   "text": "SR",
+   "conf": 0.83
+  },
+  {
+   "text": "=",
+   "conf": 0.9
+  },
+  {
+   "text": "GST",
+   "conf": 0.81
+  },
+  {
+   "text": "@6%",
+   "conf": 0.81
+  },
+  {
+   "text": "8.21",
+   "conf": 0.83
+  },
+  {
+   "text": "0.49",
+   "conf": 0.96
+  },
+  {
+   "text": "GST",
+   "conf": 0.96
+  },
+  {
+   "text": "REG",
+   "conf": 0.93
+  },
+  {
+   "text": "#000656195584",
+   "conf": 0.9
+  },
+  {
+   "text": ".",
+   "conf": 0.38
+  },
+  {
+   "text": ".",
+   "conf": 0.27
+  },
+  {
+   "text": "BAR",
+   "conf": 0.93
+  },
+  {
+   "text": "WANG",
+   "conf": 0.83
+  },
+  {
+   "text": "RICE@PERMAS",
+   "conf": 0.85
+  },
+  {
+   "text": "JAYA",
+   "conf": 0.91
+  },
+  {
+   "text": "(Price",
+   "conf": 0.96
+  },
+  {
+   "text": "Inclusive",
+   "conf": 0.96
+  },
+  {
+   "text": "Of",
+   "conf": 0.96
+  },
+  {
+   "text": "GST)",
+   "conf": 0.94
+  },
+  {
+   "text": "Thank",
+   "conf": 0.95
+  },
+  {
+   "text": "You",
+   "conf": 0.92
+  },
+  {
+   "text": "&",
+   "conf": 0.92
+  },
+  {
+   "text": "Come",
+   "conf": 0.96
+  },
+  {
+   "text": "Again!",
+   "conf": 0.96
+  },
+  {
+   "text": ".",
+   "conf": 0.27
+  },
+  {
+   "text": "Like",
+   "conf": 0.96
+  },
+  {
+   "text": "and",
+   "conf": 0.96
+  },
+  {
+   "text": "Follow",
+   "conf": 0.96
+  },
+  {
+   "text": "Us",
+   "conf": 0.96
+  },
+  {
+   "text": "on",
+   "conf": 0.96
+  },
+  {
+   "text": "Facebook!",
+   "conf": 0.96
+  },
+  {
+   "text": ".",
+   "conf": 0.0
+  },
+  {
+   "text": "Facebook.com/BarWangRice",
+   "conf": 0.91
+  }
+ ],
+ "mean_conf": 0.7905,
+ "low_conf_share": 0.1681,
+ "latency_ms": 5101,
+ "fields": {
+  "company": "UNIHAKKA INTERNATIONAL SDN BHD",
+  "date": "2018-05-30",
+  "total": 8.7
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  8.7,
+  8.7
+ ],
+ "key": "X51006912974"
+}

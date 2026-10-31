@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.1-flash-lite",
+ "provider": "gemini",
+ "raw_text": "{\n  \"vendor\": \"Khansama Tandoori Restaurant\",\n  \"date\": \"2016-05-30\",\n  \"subtotal\": 104.0,\n  \"tax\": 7.28,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 111.3,\n  \"currency\": \"SGD\",\n  \"confidence\": 0.98,\n  \"notes\": \"Round adjust of 0.02 is included in the total calculation.\"\n}",
+ "data": {
+  "vendor": "Khansama Tandoori Restaurant",
+  "date": "2016-05-30",
+  "subtotal": 104.0,
+  "tax": 7.28,
+  "tip": null,
+  "discount": null,
+  "total": 111.3,
+  "currency": "SGD",
+  "confidence": 0.98,
+  "notes": "Round adjust of 0.02 is included in the total calculation."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1433,
+  "output_tokens": 124,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.000544,
+ "latency_ms": 1602,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.1-flash-lite",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.1-flash-lite"
+ ],
+ "key": "W0123_e13738438a5c"
+}

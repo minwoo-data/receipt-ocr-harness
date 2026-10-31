@@ -1,0 +1,305 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "ASO ELECTRICAL TRADING SDN BHD",
+  "1000131-K",
+  "NO 31G, JALAN SEPADU C 25/C,",
+  "SECTION 26, TAMAN INDUSTRIES,",
+  "AXIS 40400 SHAH ALAM, SELANGOR.",
+  "TEL:03-51221701,51313091 FAX:03-51215716",
+  "GST NO:000683900928",
+  "TAX INVOICE",
+  "Bill To:",
+  "Date:04/12/2017",
+  "Receipt #: CS00093091 Time: 11:29:00",
+  "Salesperson:",
+  "Cashier: USER (GST) (GST)",
+  "Iteri 102749 Qty 1 44.40 RSP 47.06 RSP Amounr 47.06",
+  "SR:FUJI CONTACTOR, SC-03,240VAC 1 49.00 51.94 51.94",
+  "106766 SR: ANLY FLOATLESS RELAY 240V.AFS-1 0066",
+  "TOTQTY: 2 93.40",
+  "(Excluded GST) Sub Total : 0.00",
+  "Discount :",
+  "Total GST : 5.60",
+  "Rounding : 0.00",
+  "Total : 99.00",
+  "CASH : 100.00",
+  "Change : 1.01)",
+  "GST SUMMARY GST",
+  "Tax Code SR %。 6 Arnount 93.40 93.40 5.65 5.60",
+  "Total:",
+  "GOODS SOLD ARE NOT RETURNABLE,",
+  "THANK YOU."
+ ],
+ "tokens": [
+  {
+   "text": "ASO ELECTRICAL TRADING SDN BHD",
+   "conf": 0.9671524206797282
+  },
+  {
+   "text": "1000131-K",
+   "conf": 0.9947317375077142
+  },
+  {
+   "text": "NO 31G, JALAN SEPADU C 25/C,",
+   "conf": 0.9176867412669318
+  },
+  {
+   "text": "SECTION 26, TAMAN INDUSTRIES,",
+   "conf": 0.9305330946527678
+  },
+  {
+   "text": "AXIS 40400 SHAH ALAM, SELANGOR.",
+   "conf": 0.9468380693466433
+  },
+  {
+   "text": "TEL:03-51221701,51313091 FAX:03-51215716",
+   "conf": 0.9681214362382888
+  },
+  {
+   "text": "GST NO:000683900928",
+   "conf": 0.975186266397175
+  },
+  {
+   "text": "TAX INVOICE",
+   "conf": 0.9716321880167181
+  },
+  {
+   "text": "Bill To:",
+   "conf": 0.903312161564827
+  },
+  {
+   "text": "Date:04/12/2017",
+   "conf": 0.9942180991172791
+  },
+  {
+   "text": "Receipt #: CS00093091",
+   "conf": 0.9691579568953741
+  },
+  {
+   "text": "Time: 11:29:00",
+   "conf": 0.9603031873703003
+  },
+  {
+   "text": "Salesperson:",
+   "conf": 0.9967824518680573
+  },
+  {
+   "text": "Cashier: USER",
+   "conf": 0.9489235602892362
+  },
+  {
+   "text": "(GST)",
+   "conf": 0.9946817994117737
+  },
+  {
+   "text": "(GST)",
+   "conf": 0.9927793264389038
+  },
+  {
+   "text": "RSP",
+   "conf": 0.9477224747339884
+  },
+  {
+   "text": "Amounr",
+   "conf": 0.9215340813000997
+  },
+  {
+   "text": "Qty",
+   "conf": 0.9616345167160034
+  },
+  {
+   "text": "RSP",
+   "conf": 0.9471081097920736
+  },
+  {
+   "text": "47.06",
+   "conf": 0.9996691584587097
+  },
+  {
+   "text": "Iteri",
+   "conf": 0.8610943913459778
+  },
+  {
+   "text": "47.06",
+   "conf": 0.9997912406921386
+  },
+  {
+   "text": "1",
+   "conf": 0.9201678037643433
+  },
+  {
+   "text": "44.40",
+   "conf": 0.9999144673347473
+  },
+  {
+   "text": "102749",
+   "conf": 0.9997501373291016
+  },
+  {
+   "text": "51.94",
+   "conf": 0.9913713693618774
+  },
+  {
+   "text": "SR:FUJI CONTACTOR, SC-03,240VAC",
+   "conf": 0.9581005246408524
+  },
+  {
+   "text": "51.94",
+   "conf": 0.9988103389739991
+  },
+  {
+   "text": "1",
+   "conf": 0.9782946705818176
+  },
+  {
+   "text": "49.00",
+   "conf": 0.9988280177116394
+  },
+  {
+   "text": "106766",
+   "conf": 0.9987442195415497
+  },
+  {
+   "text": "0066",
+   "conf": 0.899063378572464
+  },
+  {
+   "text": "SR: ANLY FLOATLESS RELAY 240V.AFS-1",
+   "conf": 0.924085509777069
+  },
+  {
+   "text": "2",
+   "conf": 0.9992843270301819
+  },
+  {
+   "text": "TOTQTY:",
+   "conf": 0.9802275725773403
+  },
+  {
+   "text": "93.40",
+   "conf": 0.9994330048561096
+  },
+  {
+   "text": "(Excluded GST) Sub Total :",
+   "conf": 0.9564993702448331
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9983867853879929
+  },
+  {
+   "text": "Discount :",
+   "conf": 0.9667905151844025
+  },
+  {
+   "text": "5.60",
+   "conf": 0.9989996254444122
+  },
+  {
+   "text": "Total GST :",
+   "conf": 0.9492705626921221
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9927816689014435
+  },
+  {
+   "text": "Rounding :",
+   "conf": 0.9880901992321014
+  },
+  {
+   "text": "99.00",
+   "conf": 0.9990815877914428
+  },
+  {
+   "text": "Total :",
+   "conf": 0.9506219029426575
+  },
+  {
+   "text": "100.00",
+   "conf": 0.9989087482293447
+  },
+  {
+   "text": "CASH :",
+   "conf": 0.9962522486845652
+  },
+  {
+   "text": "1.01)",
+   "conf": 0.8635708570480347
+  },
+  {
+   "text": "Change :",
+   "conf": 0.997604250907898
+  },
+  {
+   "text": "GST SUMMARY",
+   "conf": 0.9607123190706427
+  },
+  {
+   "text": "GST",
+   "conf": 0.9688610831896464
+  },
+  {
+   "text": "%。",
+   "conf": 0.7244096249341965
+  },
+  {
+   "text": "Arnount",
+   "conf": 0.9952062368392944
+  },
+  {
+   "text": "5.65",
+   "conf": 0.9732607007026672
+  },
+  {
+   "text": "Tax Code",
+   "conf": 0.9921967014670372
+  },
+  {
+   "text": "93.40",
+   "conf": 0.9914223432540894
+  },
+  {
+   "text": "6",
+   "conf": 0.9865676164627075
+  },
+  {
+   "text": "SR",
+   "conf": 0.992671012878418
+  },
+  {
+   "text": "5.60",
+   "conf": 0.9978506714105606
+  },
+  {
+   "text": "93.40",
+   "conf": 0.9994894862174988
+  },
+  {
+   "text": "Total:",
+   "conf": 0.9909817377726237
+  },
+  {
+   "text": "GOODS SOLD ARE NOT RETURNABLE,",
+   "conf": 0.9251197139422099
+  },
+  {
+   "text": "THANK YOU.",
+   "conf": 0.9713271200656891
+  }
+ ],
+ "mean_conf": 0.9663,
+ "low_conf_share": 0.0,
+ "latency_ms": 5199,
+ "fields": {
+  "company": "ASO ELECTRICAL TRADING SDN BHD",
+  "date": "2017-12-04",
+  "total": 99.0
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  99.0
+ ],
+ "key": "X51005705804"
+}

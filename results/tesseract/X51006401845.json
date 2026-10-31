@@ -1,0 +1,333 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "‘eet ae Shi*s. ae ~ ae",
+  ": 3 >",
+  "‘Buy Sell Trade Sdn. Blut.",
+  "G04412-¥",
+  "Tax Invoice",
+  "_ GST ID; 001969250560",
+  "2 & 2A, Jalan Kasuarina 1/KS 7,",
+  "oe Randar Botanik,",
+  "‘ 41200 Klang, SELANGOR",
+  "CS No.: 0007/0112423 04/02/2017 07:14PM",
+  "Sold To: CASH",
+  "Nascription AmouNE CRM)",
+  "TNLE4S/VO7OF/COOKING POT",
+  "SR ak 26.90 26,90",
+  "Total Qty: 1",
+  "Total Sales Inclusive G9Y 26.90",
+  "Cash 27,00",
+  "Youcher 6.90",
+  "Cheque 9.00",
+  "GST Simmary Amount. CRED TaxcRM>",
+  "Cashier: 435007"
+ ],
+ "tokens": [
+  {
+   "text": "‘eet",
+   "conf": 0.23
+  },
+  {
+   "text": "ae",
+   "conf": 0.5
+  },
+  {
+   "text": "Shi*s.",
+   "conf": 0.0
+  },
+  {
+   "text": "ae",
+   "conf": 0.29
+  },
+  {
+   "text": "~",
+   "conf": 0.27
+  },
+  {
+   "text": "ae",
+   "conf": 0.28
+  },
+  {
+   "text": ":",
+   "conf": 0.31
+  },
+  {
+   "text": "3",
+   "conf": 0.12
+  },
+  {
+   "text": ">",
+   "conf": 0.51
+  },
+  {
+   "text": "‘Buy",
+   "conf": 0.91
+  },
+  {
+   "text": "Sell",
+   "conf": 0.53
+  },
+  {
+   "text": "Trade",
+   "conf": 0.96
+  },
+  {
+   "text": "Sdn.",
+   "conf": 0.65
+  },
+  {
+   "text": "Blut.",
+   "conf": 0.49
+  },
+  {
+   "text": "G04412-¥",
+   "conf": 0.25
+  },
+  {
+   "text": "Tax",
+   "conf": 0.96
+  },
+  {
+   "text": "Invoice",
+   "conf": 0.96
+  },
+  {
+   "text": "_",
+   "conf": 0.62
+  },
+  {
+   "text": "GST",
+   "conf": 0.88
+  },
+  {
+   "text": "ID;",
+   "conf": 0.81
+  },
+  {
+   "text": "001969250560",
+   "conf": 0.63
+  },
+  {
+   "text": "2",
+   "conf": 0.68
+  },
+  {
+   "text": "&",
+   "conf": 0.68
+  },
+  {
+   "text": "2A,",
+   "conf": 0.95
+  },
+  {
+   "text": "Jalan",
+   "conf": 0.93
+  },
+  {
+   "text": "Kasuarina",
+   "conf": 0.87
+  },
+  {
+   "text": "1/KS",
+   "conf": 0.65
+  },
+  {
+   "text": "7,",
+   "conf": 0.96
+  },
+  {
+   "text": "oe",
+   "conf": 0.25
+  },
+  {
+   "text": "Randar",
+   "conf": 0.88
+  },
+  {
+   "text": "Botanik,",
+   "conf": 0.9
+  },
+  {
+   "text": "‘",
+   "conf": 0.0
+  },
+  {
+   "text": "41200",
+   "conf": 0.92
+  },
+  {
+   "text": "Klang,",
+   "conf": 0.74
+  },
+  {
+   "text": "SELANGOR",
+   "conf": 0.95
+  },
+  {
+   "text": "CS",
+   "conf": 0.46
+  },
+  {
+   "text": "No.:",
+   "conf": 0.54
+  },
+  {
+   "text": "0007/0112423",
+   "conf": 0.88
+  },
+  {
+   "text": "04/02/2017",
+   "conf": 0.95
+  },
+  {
+   "text": "07:14PM",
+   "conf": 0.93
+  },
+  {
+   "text": "Sold",
+   "conf": 0.92
+  },
+  {
+   "text": "To:",
+   "conf": 0.9
+  },
+  {
+   "text": "CASH",
+   "conf": 0.95
+  },
+  {
+   "text": "Nascription",
+   "conf": 0.46
+  },
+  {
+   "text": "AmouNE",
+   "conf": 0.33
+  },
+  {
+   "text": "CRM)",
+   "conf": 0.15
+  },
+  {
+   "text": "TNLE4S/VO7OF/COOKING",
+   "conf": 0.0
+  },
+  {
+   "text": "POT",
+   "conf": 0.96
+  },
+  {
+   "text": "SR",
+   "conf": 0.92
+  },
+  {
+   "text": "ak",
+   "conf": 0.4
+  },
+  {
+   "text": "26.90",
+   "conf": 0.6
+  },
+  {
+   "text": "26,90",
+   "conf": 0.83
+  },
+  {
+   "text": "Total",
+   "conf": 0.94
+  },
+  {
+   "text": "Qty:",
+   "conf": 0.95
+  },
+  {
+   "text": "1",
+   "conf": 0.95
+  },
+  {
+   "text": "Total",
+   "conf": 0.95
+  },
+  {
+   "text": "Sales",
+   "conf": 0.91
+  },
+  {
+   "text": "Inclusive",
+   "conf": 0.76
+  },
+  {
+   "text": "G9Y",
+   "conf": 0.16
+  },
+  {
+   "text": "26.90",
+   "conf": 0.86
+  },
+  {
+   "text": "Cash",
+   "conf": 0.82
+  },
+  {
+   "text": "27,00",
+   "conf": 0.82
+  },
+  {
+   "text": "Youcher",
+   "conf": 0.81
+  },
+  {
+   "text": "6.90",
+   "conf": 0.65
+  },
+  {
+   "text": "Cheque",
+   "conf": 0.96
+  },
+  {
+   "text": "9.00",
+   "conf": 0.88
+  },
+  {
+   "text": "GST",
+   "conf": 0.92
+  },
+  {
+   "text": "Simmary",
+   "conf": 0.85
+  },
+  {
+   "text": "Amount.",
+   "conf": 0.73
+  },
+  {
+   "text": "CRED",
+   "conf": 0.31
+  },
+  {
+   "text": "TaxcRM>",
+   "conf": 0.39
+  },
+  {
+   "text": "Cashier:",
+   "conf": 0.82
+  },
+  {
+   "text": "435007",
+   "conf": 0.93
+  }
+ ],
+ "mean_conf": 0.6722,
+ "low_conf_share": 0.274,
+ "latency_ms": 1064,
+ "fields": {
+  "company": "EET AE SHI S AE AE",
+  "date": "2017-02-04",
+  "total": 26.9
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  26.9
+ ],
+ "key": "X51006401845"
+}

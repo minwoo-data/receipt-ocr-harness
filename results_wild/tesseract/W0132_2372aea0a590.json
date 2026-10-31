@@ -1,0 +1,308 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "BREIZH CAFE",
+  "109 RUE VIELE DU TEMPLE",
+  "75003 PARTS",
+  "TEL:01.42.72.13.77",
+  "SIRET 492764 253 00018",
+  "MERCI DE VOTRE VISITE",
+  "16/07/2014 - ~~",
+  "Table n°",
+  "1 6 HUITRES 16,00",
+  "1 COMPLETE OGNON 9.50",
+  "1 COMPLETE MIROIR 8.50",
+  "1 NORDIQUE 12:50",
+  "1 SALADE VERTE 3.80",
+  "2 VERRE MUSCADET 10.00",
+  "1 CARAFFE: MISCADET 18.00",
+  "eoeeesss «",
+  "ey,",
+  "ih 10.00% ( ).73) 4.57",
+  "i x .33) me",
+  "er: 7.30. ER"
+ ],
+ "tokens": [
+  {
+   "text": "BREIZH",
+   "conf": 0.75
+  },
+  {
+   "text": "CAFE",
+   "conf": 0.94
+  },
+  {
+   "text": "109",
+   "conf": 0.93
+  },
+  {
+   "text": "RUE",
+   "conf": 0.85
+  },
+  {
+   "text": "VIELE",
+   "conf": 0.64
+  },
+  {
+   "text": "DU",
+   "conf": 0.88
+  },
+  {
+   "text": "TEMPLE",
+   "conf": 0.88
+  },
+  {
+   "text": "75003",
+   "conf": 0.73
+  },
+  {
+   "text": "PARTS",
+   "conf": 0.91
+  },
+  {
+   "text": "TEL:01.42.72.13.77",
+   "conf": 0.78
+  },
+  {
+   "text": "SIRET",
+   "conf": 0.88
+  },
+  {
+   "text": "492764",
+   "conf": 0.88
+  },
+  {
+   "text": "253",
+   "conf": 0.94
+  },
+  {
+   "text": "00018",
+   "conf": 0.86
+  },
+  {
+   "text": "MERCI",
+   "conf": 0.71
+  },
+  {
+   "text": "DE",
+   "conf": 0.83
+  },
+  {
+   "text": "VOTRE",
+   "conf": 0.92
+  },
+  {
+   "text": "VISITE",
+   "conf": 0.96
+  },
+  {
+   "text": "16/07/2014",
+   "conf": 0.82
+  },
+  {
+   "text": "-",
+   "conf": 0.8
+  },
+  {
+   "text": "~~",
+   "conf": 0.69
+  },
+  {
+   "text": "Table",
+   "conf": 0.96
+  },
+  {
+   "text": "n°",
+   "conf": 0.52
+  },
+  {
+   "text": "1",
+   "conf": 0.62
+  },
+  {
+   "text": "6",
+   "conf": 0.62
+  },
+  {
+   "text": "HUITRES",
+   "conf": 0.71
+  },
+  {
+   "text": "16,00",
+   "conf": 0.75
+  },
+  {
+   "text": "1",
+   "conf": 0.87
+  },
+  {
+   "text": "COMPLETE",
+   "conf": 0.88
+  },
+  {
+   "text": "OGNON",
+   "conf": 0.51
+  },
+  {
+   "text": "9.50",
+   "conf": 0.69
+  },
+  {
+   "text": "1",
+   "conf": 0.78
+  },
+  {
+   "text": "COMPLETE",
+   "conf": 0.76
+  },
+  {
+   "text": "MIROIR",
+   "conf": 0.83
+  },
+  {
+   "text": "8.50",
+   "conf": 0.92
+  },
+  {
+   "text": "1",
+   "conf": 0.63
+  },
+  {
+   "text": "NORDIQUE",
+   "conf": 0.42
+  },
+  {
+   "text": "12:50",
+   "conf": 0.51
+  },
+  {
+   "text": "1",
+   "conf": 0.55
+  },
+  {
+   "text": "SALADE",
+   "conf": 0.74
+  },
+  {
+   "text": "VERTE",
+   "conf": 0.92
+  },
+  {
+   "text": "3.80",
+   "conf": 0.88
+  },
+  {
+   "text": "2",
+   "conf": 0.54
+  },
+  {
+   "text": "VERRE",
+   "conf": 0.73
+  },
+  {
+   "text": "MUSCADET",
+   "conf": 0.41
+  },
+  {
+   "text": "10.00",
+   "conf": 0.94
+  },
+  {
+   "text": "1",
+   "conf": 0.78
+  },
+  {
+   "text": "CARAFFE:",
+   "conf": 0.11
+  },
+  {
+   "text": "MISCADET",
+   "conf": 0.32
+  },
+  {
+   "text": "18.00",
+   "conf": 0.93
+  },
+  {
+   "text": "eoeeesss",
+   "conf": 0.0
+  },
+  {
+   "text": "«",
+   "conf": 0.27
+  },
+  {
+   "text": "ey,",
+   "conf": 0.26
+  },
+  {
+   "text": "ih",
+   "conf": 0.51
+  },
+  {
+   "text": "10.00%",
+   "conf": 0.57
+  },
+  {
+   "text": "(",
+   "conf": 0.88
+  },
+  {
+   "text": ").73)",
+   "conf": 0.24
+  },
+  {
+   "text": "4.57",
+   "conf": 0.78
+  },
+  {
+   "text": "i",
+   "conf": 0.53
+  },
+  {
+   "text": "x",
+   "conf": 0.66
+  },
+  {
+   "text": ".33)",
+   "conf": 0.57
+  },
+  {
+   "text": "me",
+   "conf": 0.3
+  },
+  {
+   "text": "er:",
+   "conf": 0.4
+  },
+  {
+   "text": "7.30.",
+   "conf": 0.63
+  },
+  {
+   "text": "ER",
+   "conf": 0.56
+  }
+ ],
+ "mean_conf": 0.6857,
+ "low_conf_share": 0.1538,
+ "latency_ms": 1064,
+ "fields": {
+  "company": "BREIZH CAFE",
+  "date": "2014-07-16",
+  "total": 18.0
+ },
+ "rule_reasons": [
+  "total_no_keyword_fallback_max"
+ ],
+ "total_candidates": [
+  8.5,
+  3.8,
+  10.0,
+  18.0,
+  10.0,
+  4.57,
+  7.3
+ ],
+ "key": "W0132_2372aea0a590"
+}

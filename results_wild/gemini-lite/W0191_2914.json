@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.1-flash-lite",
+ "provider": "gemini",
+ "raw_text": "{\n  \"vendor\": \"PIZZA HUT\",\n  \"date\": \"2009-09-27\",\n  \"subtotal\": 25.5,\n  \"tax\": 1.25,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 29.25,\n  \"currency\": \"MYR\",\n  \"confidence\": 0.95,\n  \"notes\": \"The receipt includes a service charge of 2.50.\"\n}",
+ "data": {
+  "vendor": "PIZZA HUT",
+  "date": "2009-09-27",
+  "subtotal": 25.5,
+  "tax": 1.25,
+  "tip": null,
+  "discount": null,
+  "total": 29.25,
+  "currency": "MYR",
+  "confidence": 0.95,
+  "notes": "The receipt includes a service charge of 2.50."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1433,
+  "output_tokens": 119,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.000537,
+ "latency_ms": 1799,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.1-flash-lite",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.1-flash-lite"
+ ],
+ "key": "W0191_2914"
+}

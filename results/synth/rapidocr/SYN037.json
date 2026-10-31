@@ -1,0 +1,172 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "BLUEHARBOURCAFE",
+  "LOT 3-21 PAVILION MALL,BUKIT BINTANG",
+  "TAX INVOICE",
+  "Date:19/08/2025 Time:13:42",
+  "2x LOCAL EGGS 10S 13.00",
+  "3 X USB CABLE1M 59.70",
+  "X USB CABLE 1M 19.90",
+  "1x PANAD0L 10S 6.80",
+  "2X GARDEN SALAD 31.00",
+  "SUBTOTAL 130.40",
+  "GST.6% 7.82",
+  "TOTAL 138.22",
+  "CASH 143.22",
+  "CHANGE 5.00",
+  "THANK YOU,PLEASE COME AGAIN",
+  "0.0"
+ ],
+ "tokens": [
+  {
+   "text": "BLUEHARBOURCAFE",
+   "conf": 0.9922854940096537
+  },
+  {
+   "text": "LOT 3-21 PAVILION MALL,BUKIT BINTANG",
+   "conf": 0.9260077095694013
+  },
+  {
+   "text": "TAX INVOICE",
+   "conf": 0.9626582102342085
+  },
+  {
+   "text": "Date:19/08/2025",
+   "conf": 0.9890638192494711
+  },
+  {
+   "text": "Time:13:42",
+   "conf": 0.9550320625305175
+  },
+  {
+   "text": "2x",
+   "conf": 0.8324017524719238
+  },
+  {
+   "text": "LOCAL EGGS 10S",
+   "conf": 0.9372821492808205
+  },
+  {
+   "text": "13.00",
+   "conf": 0.9995314478874207
+  },
+  {
+   "text": "3",
+   "conf": 0.9990554451942444
+  },
+  {
+   "text": "X",
+   "conf": 0.5483224391937256
+  },
+  {
+   "text": "USB",
+   "conf": 0.9966687560081482
+  },
+  {
+   "text": "CABLE1M",
+   "conf": 0.9928840058190482
+  },
+  {
+   "text": "59.70",
+   "conf": 0.9993831276893616
+  },
+  {
+   "text": "X",
+   "conf": 0.7036014199256897
+  },
+  {
+   "text": "USB",
+   "conf": 0.9984753926595052
+  },
+  {
+   "text": "CABLE 1M",
+   "conf": 0.9446302577853203
+  },
+  {
+   "text": "19.90",
+   "conf": 0.9994673132896423
+  },
+  {
+   "text": "1x",
+   "conf": 0.8271208703517914
+  },
+  {
+   "text": "PANAD0L 10S",
+   "conf": 0.9594683484597639
+  },
+  {
+   "text": "6.80",
+   "conf": 0.9995505511760712
+  },
+  {
+   "text": "2X GARDEN SALAD",
+   "conf": 0.9172161062558492
+  },
+  {
+   "text": "31.00",
+   "conf": 0.999494993686676
+  },
+  {
+   "text": "SUBTOTAL",
+   "conf": 0.9913761392235756
+  },
+  {
+   "text": "130.40",
+   "conf": 0.9987454017003378
+  },
+  {
+   "text": "GST.6%",
+   "conf": 0.9339507420857748
+  },
+  {
+   "text": "7.82",
+   "conf": 0.9995786547660828
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.9962432861328125
+  },
+  {
+   "text": "138.22",
+   "conf": 0.9977964659531912
+  },
+  {
+   "text": "CASH",
+   "conf": 0.9979468882083893
+  },
+  {
+   "text": "143.22",
+   "conf": 0.9981425305207571
+  },
+  {
+   "text": "CHANGE",
+   "conf": 0.9925664861996969
+  },
+  {
+   "text": "5.00",
+   "conf": 0.9992153197526932
+  },
+  {
+   "text": "THANK YOU,PLEASE COME AGAIN",
+   "conf": 0.9336619178454081
+  },
+  {
+   "text": "0.0",
+   "conf": 0.784688413143158
+  }
+ ],
+ "mean_conf": 0.9442,
+ "low_conf_share": 0.0,
+ "latency_ms": 25822,
+ "fields": {
+  "company": "BLUEHARBOURCAFE",
+  "date": "2025-08-19",
+  "total": 138.22
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  138.22
+ ],
+ "key": "SYN037"
+}

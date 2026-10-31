@@ -1,0 +1,178 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "NORTHSTARHARDWAREENTERPRISE",
+  "NO7JALAN INDUSTRI4,SHAH ALAM",
+  "TAX INVOICE",
+  "Date:20/03/2026 Time:13:42",
+  "96.00",
+  "2x STEAMED FISH 6.80",
+  "1 X PANAD0L 10S 19.50",
+  "3 X LOCAL EGGS10S 13.60",
+  "2 PANAD0L 10S 25.80",
+  "CHICKEN RICESET",
+  "161.70",
+  "SUBTOTAL 9.70",
+  "GST 6% 48.51",
+  "TOTALSAVINGS 171.40",
+  "TOTAL 176.40",
+  "CASH 5.00",
+  "CHANGE",
+  "THANK YOU，PLEASECOMEAGAIN"
+ ],
+ "tokens": [
+  {
+   "text": "NORTHSTARHARDWAREENTERPRISE",
+   "conf": 0.9903262809470847
+  },
+  {
+   "text": "NO7JALAN INDUSTRI4,SHAH ALAM",
+   "conf": 0.9476504325866699
+  },
+  {
+   "text": "TAX INVOICE",
+   "conf": 0.986345339905132
+  },
+  {
+   "text": "Date:20/03/2026",
+   "conf": 0.9894694646199544
+  },
+  {
+   "text": "Time:13:42",
+   "conf": 0.972905558347702
+  },
+  {
+   "text": "96.00",
+   "conf": 0.9994831442832947
+  },
+  {
+   "text": "2x",
+   "conf": 0.8382999300956726
+  },
+  {
+   "text": "STEAMED FISH",
+   "conf": 0.951326310634613
+  },
+  {
+   "text": "6.80",
+   "conf": 0.9996587932109833
+  },
+  {
+   "text": "1",
+   "conf": 0.9849799275398254
+  },
+  {
+   "text": "X",
+   "conf": 0.5495170950889587
+  },
+  {
+   "text": "PANAD0L 10S",
+   "conf": 0.9491698796098883
+  },
+  {
+   "text": "19.50",
+   "conf": 0.9991541147232056
+  },
+  {
+   "text": "3",
+   "conf": 0.999136745929718
+  },
+  {
+   "text": "X",
+   "conf": 0.5168082118034363
+  },
+  {
+   "text": "LOCAL",
+   "conf": 0.9931731939315795
+  },
+  {
+   "text": "EGGS10S",
+   "conf": 0.9955736654145377
+  },
+  {
+   "text": "13.60",
+   "conf": 0.9994421124458313
+  },
+  {
+   "text": "2",
+   "conf": 0.9995689988136292
+  },
+  {
+   "text": "PANAD0L 10S",
+   "conf": 0.9446104981682517
+  },
+  {
+   "text": "25.80",
+   "conf": 0.998857843875885
+  },
+  {
+   "text": "CHICKEN RICESET",
+   "conf": 0.9629942297935485
+  },
+  {
+   "text": "161.70",
+   "conf": 0.9990412791570028
+  },
+  {
+   "text": "SUBTOTAL",
+   "conf": 0.993297889828682
+  },
+  {
+   "text": "9.70",
+   "conf": 0.9988972097635269
+  },
+  {
+   "text": "GST 6%",
+   "conf": 0.9569116433461508
+  },
+  {
+   "text": "48.51",
+   "conf": 0.9989134073257446
+  },
+  {
+   "text": "TOTALSAVINGS",
+   "conf": 0.9940194835265478
+  },
+  {
+   "text": "171.40",
+   "conf": 0.9994169274965922
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.9944576978683471
+  },
+  {
+   "text": "176.40",
+   "conf": 0.999648521343867
+  },
+  {
+   "text": "CASH",
+   "conf": 0.9952098280191422
+  },
+  {
+   "text": "5.00",
+   "conf": 0.9988692998886108
+  },
+  {
+   "text": "CHANGE",
+   "conf": 0.9945209920406342
+  },
+  {
+   "text": "THANK YOU，PLEASECOMEAGAIN",
+   "conf": 0.9537383103370667
+  }
+ ],
+ "mean_conf": 0.9556,
+ "low_conf_share": 0.0,
+ "latency_ms": 15716,
+ "fields": {
+  "company": "NORTHSTARHARDWAREENTERPRISE",
+  "date": "2026-03-20",
+  "total": 176.4
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  176.4
+ ],
+ "key": "SYN019"
+}

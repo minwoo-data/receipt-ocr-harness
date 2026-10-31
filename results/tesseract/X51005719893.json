@@ -1,0 +1,416 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "Hr Dakgal Solaris",
+  "BRN GST No. 000417619968 President: Kang",
+  "No.J-G-02, Soho KI, Solaris Mont Kiera, 50",
+  "480 KL",
+  "GST No.",
+  "TEL)03 6206 5567",
+  "[Sales]2018-01-05 22:55:25 PosNo:86",
+  "Description qty Price",
+  "Fried Rice 3 Pax | 71.00(S)",
+  "1 Item (Inclusive of GST) 71.00",
+  "Round Amt 0.00",
+  "TOTAL 00",
+  "Cash 71.00",
+  "Cash Received 101,00",
+  "Change 30.00",
+  "GST @6% 4,02",
+  "GSTSummary Amount (RM) GST (RM)",
+  "S=GST @ 6%: 66.98 4,02",
+  "Z=GST @ Ch: , (.00 9.90",
+  "Receipt No: 18010500047",
+  "Person : S-Admin",
+  "POP dl bee wn ane nen n en eee ew nena",
+  "Table No: [Hal]]-9"
+ ],
+ "tokens": [
+  {
+   "text": "Hr",
+   "conf": 0.44
+  },
+  {
+   "text": "Dakgal",
+   "conf": 0.2
+  },
+  {
+   "text": "Solaris",
+   "conf": 0.92
+  },
+  {
+   "text": "BRN",
+   "conf": 0.94
+  },
+  {
+   "text": "GST",
+   "conf": 0.94
+  },
+  {
+   "text": "No.",
+   "conf": 0.96
+  },
+  {
+   "text": "000417619968",
+   "conf": 0.95
+  },
+  {
+   "text": "President:",
+   "conf": 0.95
+  },
+  {
+   "text": "Kang",
+   "conf": 0.96
+  },
+  {
+   "text": "No.J-G-02,",
+   "conf": 0.9
+  },
+  {
+   "text": "Soho",
+   "conf": 0.96
+  },
+  {
+   "text": "KI,",
+   "conf": 0.96
+  },
+  {
+   "text": "Solaris",
+   "conf": 0.96
+  },
+  {
+   "text": "Mont",
+   "conf": 0.96
+  },
+  {
+   "text": "Kiera,",
+   "conf": 0.96
+  },
+  {
+   "text": "50",
+   "conf": 0.96
+  },
+  {
+   "text": "480",
+   "conf": 0.93
+  },
+  {
+   "text": "KL",
+   "conf": 0.93
+  },
+  {
+   "text": "GST",
+   "conf": 0.96
+  },
+  {
+   "text": "No.",
+   "conf": 0.78
+  },
+  {
+   "text": "TEL)03",
+   "conf": 0.74
+  },
+  {
+   "text": "6206",
+   "conf": 0.94
+  },
+  {
+   "text": "5567",
+   "conf": 0.96
+  },
+  {
+   "text": "[Sales]2018-01-05",
+   "conf": 0.85
+  },
+  {
+   "text": "22:55:25",
+   "conf": 0.95
+  },
+  {
+   "text": "PosNo:86",
+   "conf": 0.9
+  },
+  {
+   "text": "Description",
+   "conf": 0.95
+  },
+  {
+   "text": "qty",
+   "conf": 0.96
+  },
+  {
+   "text": "Price",
+   "conf": 0.96
+  },
+  {
+   "text": "Fried",
+   "conf": 0.96
+  },
+  {
+   "text": "Rice",
+   "conf": 0.96
+  },
+  {
+   "text": "3",
+   "conf": 0.96
+  },
+  {
+   "text": "Pax",
+   "conf": 0.96
+  },
+  {
+   "text": "|",
+   "conf": 0.62
+  },
+  {
+   "text": "71.00(S)",
+   "conf": 0.89
+  },
+  {
+   "text": "1",
+   "conf": 0.79
+  },
+  {
+   "text": "Item",
+   "conf": 0.94
+  },
+  {
+   "text": "(Inclusive",
+   "conf": 0.96
+  },
+  {
+   "text": "of",
+   "conf": 0.96
+  },
+  {
+   "text": "GST)",
+   "conf": 0.96
+  },
+  {
+   "text": "71.00",
+   "conf": 0.95
+  },
+  {
+   "text": "Round",
+   "conf": 0.96
+  },
+  {
+   "text": "Amt",
+   "conf": 0.96
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.71
+  },
+  {
+   "text": "00",
+   "conf": 0.36
+  },
+  {
+   "text": "Cash",
+   "conf": 0.96
+  },
+  {
+   "text": "71.00",
+   "conf": 0.88
+  },
+  {
+   "text": "Cash",
+   "conf": 0.96
+  },
+  {
+   "text": "Received",
+   "conf": 0.95
+  },
+  {
+   "text": "101,00",
+   "conf": 0.95
+  },
+  {
+   "text": "Change",
+   "conf": 0.96
+  },
+  {
+   "text": "30.00",
+   "conf": 0.89
+  },
+  {
+   "text": "GST",
+   "conf": 0.92
+  },
+  {
+   "text": "@6%",
+   "conf": 0.9
+  },
+  {
+   "text": "4,02",
+   "conf": 0.77
+  },
+  {
+   "text": "GSTSummary",
+   "conf": 0.89
+  },
+  {
+   "text": "Amount",
+   "conf": 0.96
+  },
+  {
+   "text": "(RM)",
+   "conf": 0.94
+  },
+  {
+   "text": "GST",
+   "conf": 0.0
+  },
+  {
+   "text": "(RM)",
+   "conf": 0.0
+  },
+  {
+   "text": "S=GST",
+   "conf": 0.78
+  },
+  {
+   "text": "@",
+   "conf": 0.88
+  },
+  {
+   "text": "6%:",
+   "conf": 0.44
+  },
+  {
+   "text": "66.98",
+   "conf": 0.53
+  },
+  {
+   "text": "4,02",
+   "conf": 0.91
+  },
+  {
+   "text": "Z=GST",
+   "conf": 0.64
+  },
+  {
+   "text": "@",
+   "conf": 0.92
+  },
+  {
+   "text": "Ch:",
+   "conf": 0.8
+  },
+  {
+   "text": ",",
+   "conf": 0.12
+  },
+  {
+   "text": "(.00",
+   "conf": 0.34
+  },
+  {
+   "text": "9.90",
+   "conf": 0.53
+  },
+  {
+   "text": "Receipt",
+   "conf": 0.96
+  },
+  {
+   "text": "No:",
+   "conf": 0.83
+  },
+  {
+   "text": "18010500047",
+   "conf": 0.96
+  },
+  {
+   "text": "Person",
+   "conf": 0.96
+  },
+  {
+   "text": ":",
+   "conf": 0.79
+  },
+  {
+   "text": "S-Admin",
+   "conf": 0.9
+  },
+  {
+   "text": "POP",
+   "conf": 0.19
+  },
+  {
+   "text": "dl",
+   "conf": 0.22
+  },
+  {
+   "text": "bee",
+   "conf": 0.09
+  },
+  {
+   "text": "wn",
+   "conf": 0.0
+  },
+  {
+   "text": "ane",
+   "conf": 0.36
+  },
+  {
+   "text": "nen",
+   "conf": 0.0
+  },
+  {
+   "text": "n",
+   "conf": 0.0
+  },
+  {
+   "text": "en",
+   "conf": 0.27
+  },
+  {
+   "text": "eee",
+   "conf": 0.05
+  },
+  {
+   "text": "ew",
+   "conf": 0.0
+  },
+  {
+   "text": "nena",
+   "conf": 0.0
+  },
+  {
+   "text": "Table",
+   "conf": 0.94
+  },
+  {
+   "text": "No:",
+   "conf": 0.6
+  },
+  {
+   "text": "[Hal]]-9",
+   "conf": 0.11
+  }
+ ],
+ "mean_conf": 0.7346,
+ "low_conf_share": 0.2174,
+ "latency_ms": 753,
+ "fields": {
+  "company": "SALES 2018 01 05 22 55 25 POSNO 86",
+  "date": "2018-01-05",
+  "total": 71.0
+ },
+ "rule_reasons": [
+  "total_no_keyword_fallback_max"
+ ],
+ "total_candidates": [
+  71.0,
+  30.0,
+  66.98,
+  9.9
+ ],
+ "key": "X51005719893"
+}

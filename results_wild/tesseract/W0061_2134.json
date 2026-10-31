@@ -1,0 +1,101 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "1 somers",
+  "1 ns cna Fo so",
+  "a Tne sto",
+  "CTE cme 200",
+  "SES Ta 18",
+  "rota 42.95"
+ ],
+ "tokens": [
+  {
+   "text": "1",
+   "conf": 0.42
+  },
+  {
+   "text": "somers",
+   "conf": 0.22
+  },
+  {
+   "text": "1",
+   "conf": 0.62
+  },
+  {
+   "text": "ns",
+   "conf": 0.44
+  },
+  {
+   "text": "cna",
+   "conf": 0.41
+  },
+  {
+   "text": "Fo",
+   "conf": 0.63
+  },
+  {
+   "text": "so",
+   "conf": 0.49
+  },
+  {
+   "text": "a",
+   "conf": 0.66
+  },
+  {
+   "text": "Tne",
+   "conf": 0.03
+  },
+  {
+   "text": "sto",
+   "conf": 0.0
+  },
+  {
+   "text": "CTE",
+   "conf": 0.35
+  },
+  {
+   "text": "cme",
+   "conf": 0.39
+  },
+  {
+   "text": "200",
+   "conf": 0.6
+  },
+  {
+   "text": "SES",
+   "conf": 0.49
+  },
+  {
+   "text": "Ta",
+   "conf": 0.59
+  },
+  {
+   "text": "18",
+   "conf": 0.4
+  },
+  {
+   "text": "rota",
+   "conf": 0.08
+  },
+  {
+   "text": "42.95",
+   "conf": 0.77
+  }
+ ],
+ "mean_conf": 0.4217,
+ "low_conf_share": 0.6667,
+ "latency_ms": 304,
+ "fields": {
+  "company": "A TNE STO",
+  "date": null,
+  "total": 42.95
+ },
+ "rule_reasons": [
+  "date_not_found",
+  "total_no_keyword_fallback_max"
+ ],
+ "total_candidates": [
+  42.95
+ ],
+ "key": "W0061_2134"
+}

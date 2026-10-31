@@ -1,0 +1,214 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "Fatboy’s",
+  "The Burger Bar",
+  "465 Joo Chiat Road",
+  "Tel: 6246 6081",
+  "22/02/2013 12:44 TOO1 201302221",
+  "Table: 87 4041721",
+  "2 Chocolate Malt Shake 14.00",
+  "1 Line Juice 3.50",
+  "1 Stiffee 13.50",
+  "1 Wimpy Beet 14.50",
+  "1 Royale with Cheese 12.00",
+  "TOTAL 57.50",
+  "eal 100.00",
+  "CHANGE 42.50"
+ ],
+ "tokens": [
+  {
+   "text": "Fatboy’s",
+   "conf": 0.86
+  },
+  {
+   "text": "The",
+   "conf": 0.96
+  },
+  {
+   "text": "Burger",
+   "conf": 0.96
+  },
+  {
+   "text": "Bar",
+   "conf": 0.96
+  },
+  {
+   "text": "465",
+   "conf": 0.79
+  },
+  {
+   "text": "Joo",
+   "conf": 0.9
+  },
+  {
+   "text": "Chiat",
+   "conf": 0.94
+  },
+  {
+   "text": "Road",
+   "conf": 0.95
+  },
+  {
+   "text": "Tel:",
+   "conf": 0.89
+  },
+  {
+   "text": "6246",
+   "conf": 0.75
+  },
+  {
+   "text": "6081",
+   "conf": 0.73
+  },
+  {
+   "text": "22/02/2013",
+   "conf": 0.56
+  },
+  {
+   "text": "12:44",
+   "conf": 0.76
+  },
+  {
+   "text": "TOO1",
+   "conf": 0.65
+  },
+  {
+   "text": "201302221",
+   "conf": 0.87
+  },
+  {
+   "text": "Table:",
+   "conf": 0.95
+  },
+  {
+   "text": "87",
+   "conf": 0.87
+  },
+  {
+   "text": "4041721",
+   "conf": 0.7
+  },
+  {
+   "text": "2",
+   "conf": 0.72
+  },
+  {
+   "text": "Chocolate",
+   "conf": 0.87
+  },
+  {
+   "text": "Malt",
+   "conf": 0.92
+  },
+  {
+   "text": "Shake",
+   "conf": 0.83
+  },
+  {
+   "text": "14.00",
+   "conf": 0.82
+  },
+  {
+   "text": "1",
+   "conf": 0.78
+  },
+  {
+   "text": "Line",
+   "conf": 0.78
+  },
+  {
+   "text": "Juice",
+   "conf": 0.96
+  },
+  {
+   "text": "3.50",
+   "conf": 0.89
+  },
+  {
+   "text": "1",
+   "conf": 0.73
+  },
+  {
+   "text": "Stiffee",
+   "conf": 0.73
+  },
+  {
+   "text": "13.50",
+   "conf": 0.86
+  },
+  {
+   "text": "1",
+   "conf": 0.69
+  },
+  {
+   "text": "Wimpy",
+   "conf": 0.57
+  },
+  {
+   "text": "Beet",
+   "conf": 0.73
+  },
+  {
+   "text": "14.50",
+   "conf": 0.84
+  },
+  {
+   "text": "1",
+   "conf": 0.79
+  },
+  {
+   "text": "Royale",
+   "conf": 0.91
+  },
+  {
+   "text": "with",
+   "conf": 0.96
+  },
+  {
+   "text": "Cheese",
+   "conf": 0.96
+  },
+  {
+   "text": "12.00",
+   "conf": 0.88
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.95
+  },
+  {
+   "text": "57.50",
+   "conf": 0.74
+  },
+  {
+   "text": "eal",
+   "conf": 0.2
+  },
+  {
+   "text": "100.00",
+   "conf": 0.89
+  },
+  {
+   "text": "CHANGE",
+   "conf": 0.96
+  },
+  {
+   "text": "42.50",
+   "conf": 0.65
+  }
+ ],
+ "mean_conf": 0.8147,
+ "low_conf_share": 0.0222,
+ "latency_ms": 339,
+ "fields": {
+  "company": "FATBOY S",
+  "date": "2013-02-22",
+  "total": 57.5
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  57.5
+ ],
+ "key": "W0006_1952"
+}

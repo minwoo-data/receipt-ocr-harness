@@ -1,0 +1,414 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "KING'S CONFECTIONERY $/B 273500-U (JJ)",
+  "3425, Gr. Floor Jin Theater,",
+  "Jinjang Utara",
+  "52i00 K.L.",
+  "TEL :09-67311233",
+  "(G57 ID : 000294060032)",
+  "Tax Invoice",
+  "Inv No :37302759852 Date:i0/10/17 20:58",
+  "Cashier :FTiL822 Ctr :01",
+  "Code Desc Qty RA 0% Amt",
+  "491023 ICE-CREAN 1 58.00 0 58.00 5",
+  "211010 Portugues 4 2.00 0 12.008",
+  "ty 7 70.80",
+  "> Rounding adj - 9.00",
+  "fue 70.00",
+  "Pay 100.00",
+  "Change 30.00",
+  "(Total Included 6ST @€ 4% : 3.963",
+  "GOONS SOLD NOT RETURNABLE/EXCHANGEABLE!",
+  "THANK YOU PLEASE COME AGAIN: |",
+  "TASTY BAKING HEALTHY NATION! !",
+  "==Visit us online at www.kings.com.mys="
+ ],
+ "tokens": [
+  {
+   "text": "KING'S",
+   "conf": 0.4
+  },
+  {
+   "text": "CONFECTIONERY",
+   "conf": 0.92
+  },
+  {
+   "text": "$/B",
+   "conf": 0.41
+  },
+  {
+   "text": "273500-U",
+   "conf": 0.1
+  },
+  {
+   "text": "(JJ)",
+   "conf": 0.07
+  },
+  {
+   "text": "3425,",
+   "conf": 0.93
+  },
+  {
+   "text": "Gr.",
+   "conf": 0.95
+  },
+  {
+   "text": "Floor",
+   "conf": 0.95
+  },
+  {
+   "text": "Jin",
+   "conf": 0.93
+  },
+  {
+   "text": "Theater,",
+   "conf": 0.79
+  },
+  {
+   "text": "Jinjang",
+   "conf": 0.61
+  },
+  {
+   "text": "Utara",
+   "conf": 0.96
+  },
+  {
+   "text": "52i00",
+   "conf": 0.38
+  },
+  {
+   "text": "K.L.",
+   "conf": 0.81
+  },
+  {
+   "text": "TEL",
+   "conf": 0.75
+  },
+  {
+   "text": ":09-67311233",
+   "conf": 0.07
+  },
+  {
+   "text": "(G57",
+   "conf": 0.29
+  },
+  {
+   "text": "ID",
+   "conf": 0.89
+  },
+  {
+   "text": ":",
+   "conf": 0.73
+  },
+  {
+   "text": "000294060032)",
+   "conf": 0.19
+  },
+  {
+   "text": "Tax",
+   "conf": 0.87
+  },
+  {
+   "text": "Invoice",
+   "conf": 0.36
+  },
+  {
+   "text": "Inv",
+   "conf": 0.8
+  },
+  {
+   "text": "No",
+   "conf": 0.83
+  },
+  {
+   "text": ":37302759852",
+   "conf": 0.4
+  },
+  {
+   "text": "Date:i0/10/17",
+   "conf": 0.4
+  },
+  {
+   "text": "20:58",
+   "conf": 0.77
+  },
+  {
+   "text": "Cashier",
+   "conf": 0.25
+  },
+  {
+   "text": ":FTiL822",
+   "conf": 0.09
+  },
+  {
+   "text": "Ctr",
+   "conf": 0.91
+  },
+  {
+   "text": ":01",
+   "conf": 0.22
+  },
+  {
+   "text": "Code",
+   "conf": 0.95
+  },
+  {
+   "text": "Desc",
+   "conf": 0.55
+  },
+  {
+   "text": "Qty",
+   "conf": 0.81
+  },
+  {
+   "text": "RA",
+   "conf": 0.76
+  },
+  {
+   "text": "0%",
+   "conf": 0.54
+  },
+  {
+   "text": "Amt",
+   "conf": 0.79
+  },
+  {
+   "text": "491023",
+   "conf": 0.27
+  },
+  {
+   "text": "ICE-CREAN",
+   "conf": 0.89
+  },
+  {
+   "text": "1",
+   "conf": 0.81
+  },
+  {
+   "text": "58.00",
+   "conf": 0.74
+  },
+  {
+   "text": "0",
+   "conf": 0.86
+  },
+  {
+   "text": "58.00",
+   "conf": 0.83
+  },
+  {
+   "text": "5",
+   "conf": 0.83
+  },
+  {
+   "text": "211010",
+   "conf": 0.63
+  },
+  {
+   "text": "Portugues",
+   "conf": 0.32
+  },
+  {
+   "text": "4",
+   "conf": 0.81
+  },
+  {
+   "text": "2.00",
+   "conf": 0.92
+  },
+  {
+   "text": "0",
+   "conf": 0.86
+  },
+  {
+   "text": "12.008",
+   "conf": 0.0
+  },
+  {
+   "text": "ty",
+   "conf": 0.0
+  },
+  {
+   "text": "7",
+   "conf": 0.93
+  },
+  {
+   "text": "70.80",
+   "conf": 0.81
+  },
+  {
+   "text": ">",
+   "conf": 0.9
+  },
+  {
+   "text": "Rounding",
+   "conf": 0.95
+  },
+  {
+   "text": "adj",
+   "conf": 0.78
+  },
+  {
+   "text": "-",
+   "conf": 0.87
+  },
+  {
+   "text": "9.00",
+   "conf": 0.87
+  },
+  {
+   "text": "fue",
+   "conf": 0.82
+  },
+  {
+   "text": "70.00",
+   "conf": 0.9
+  },
+  {
+   "text": "Pay",
+   "conf": 0.96
+  },
+  {
+   "text": "100.00",
+   "conf": 0.87
+  },
+  {
+   "text": "Change",
+   "conf": 0.84
+  },
+  {
+   "text": "30.00",
+   "conf": 0.69
+  },
+  {
+   "text": "(Total",
+   "conf": 0.73
+  },
+  {
+   "text": "Included",
+   "conf": 0.96
+  },
+  {
+   "text": "6ST",
+   "conf": 0.49
+  },
+  {
+   "text": "@€",
+   "conf": 0.39
+  },
+  {
+   "text": "4%",
+   "conf": 0.81
+  },
+  {
+   "text": ":",
+   "conf": 0.81
+  },
+  {
+   "text": "3.963",
+   "conf": 0.6
+  },
+  {
+   "text": "GOONS",
+   "conf": 0.76
+  },
+  {
+   "text": "SOLD",
+   "conf": 0.95
+  },
+  {
+   "text": "NOT",
+   "conf": 0.92
+  },
+  {
+   "text": "RETURNABLE/EXCHANGEABLE!",
+   "conf": 0.75
+  },
+  {
+   "text": "THANK",
+   "conf": 0.96
+  },
+  {
+   "text": "YOU",
+   "conf": 0.95
+  },
+  {
+   "text": "PLEASE",
+   "conf": 0.94
+  },
+  {
+   "text": "COME",
+   "conf": 0.95
+  },
+  {
+   "text": "AGAIN:",
+   "conf": 0.9
+  },
+  {
+   "text": "|",
+   "conf": 0.61
+  },
+  {
+   "text": "TASTY",
+   "conf": 0.96
+  },
+  {
+   "text": "BAKING",
+   "conf": 0.92
+  },
+  {
+   "text": "HEALTHY",
+   "conf": 0.95
+  },
+  {
+   "text": "NATION!",
+   "conf": 0.75
+  },
+  {
+   "text": "!",
+   "conf": 0.71
+  },
+  {
+   "text": "==Visit",
+   "conf": 0.42
+  },
+  {
+   "text": "us",
+   "conf": 0.95
+  },
+  {
+   "text": "online",
+   "conf": 0.94
+  },
+  {
+   "text": "at",
+   "conf": 0.9
+  },
+  {
+   "text": "www.kings.com.mys=",
+   "conf": 0.33
+  }
+ ],
+ "mean_conf": 0.7,
+ "low_conf_share": 0.2418,
+ "latency_ms": 1779,
+ "fields": {
+  "company": "KING S CONFECTIONERY B",
+  "date": null,
+  "total": 100.0
+ },
+ "rule_reasons": [
+  "date_not_found",
+  "total_no_keyword_fallback_max"
+ ],
+ "total_candidates": [
+  2.0,
+  70.8,
+  9.0,
+  70.0,
+  100.0,
+  30.0
+ ],
+ "key": "X51006389894"
+}

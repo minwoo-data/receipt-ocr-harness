@@ -1,0 +1,553 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  ", , Royos",
+  "HASHA PETROKIOSE",
+  "Company No: JNG632986-¥ .",
+  "Lot PTD 198718 Inn Sierra P",
+  "84750 Masai Johor .",
+  "Site: 2991 .",
+  "Telephone: 0730900190",
+  "GST ho: 000908345344",
+  ". svo>>>> Receipt <<<<<<s",
+  "Tnvoice nunber’ b0GOR43TTa2 |",
+  "; 99.79 litre Punp # U2",
+  "EyelSave 95 py 6.0.00 C",
+  "- 9 200 RM / litre",
+  "Total RN =... 00",
+  "Cash RN =. 0. 00",
+  "Relief GST C RM 0.00",
+  "Total Gross C RM 50.00",
+  "9018-04-06 17:36:35 .",
+  "Customer Copy",
+  "Terminal ID: 84259112",
+  "TD/STAN: 974961/ 000000 |",
+  "Entry Mode: HSR/4",
+  ". Card: Attendant Tag Card ;",
+  "Y¥XXXKXXXOOSS",
+  "Attendant:",
+  "MRifan",
+  "Date Tine Nun OPT",
+  "06/04/18 17:36 41766 02",
+  "Diesel & Petrol RON9S °",
+  "given Relief under Section",
+  "56 (3) (b) GST Act 2014",
+  "Thank you 3",
+  "| Please come again"
+ ],
+ "tokens": [
+  {
+   "text": ",",
+   "conf": 0.11
+  },
+  {
+   "text": ",",
+   "conf": 0.0
+  },
+  {
+   "text": "Royos",
+   "conf": 0.12
+  },
+  {
+   "text": "HASHA",
+   "conf": 0.81
+  },
+  {
+   "text": "PETROKIOSE",
+   "conf": 0.55
+  },
+  {
+   "text": "Company",
+   "conf": 0.62
+  },
+  {
+   "text": "No:",
+   "conf": 0.9
+  },
+  {
+   "text": "JNG632986-¥",
+   "conf": 0.45
+  },
+  {
+   "text": ".",
+   "conf": 0.0
+  },
+  {
+   "text": "Lot",
+   "conf": 0.87
+  },
+  {
+   "text": "PTD",
+   "conf": 0.89
+  },
+  {
+   "text": "198718",
+   "conf": 0.93
+  },
+  {
+   "text": "Inn",
+   "conf": 0.45
+  },
+  {
+   "text": "Sierra",
+   "conf": 0.93
+  },
+  {
+   "text": "P",
+   "conf": 0.93
+  },
+  {
+   "text": "84750",
+   "conf": 0.77
+  },
+  {
+   "text": "Masai",
+   "conf": 0.91
+  },
+  {
+   "text": "Johor",
+   "conf": 0.96
+  },
+  {
+   "text": ".",
+   "conf": 0.4
+  },
+  {
+   "text": "Site:",
+   "conf": 0.72
+  },
+  {
+   "text": "2991",
+   "conf": 0.72
+  },
+  {
+   "text": ".",
+   "conf": 0.35
+  },
+  {
+   "text": "Telephone:",
+   "conf": 0.96
+  },
+  {
+   "text": "0730900190",
+   "conf": 0.76
+  },
+  {
+   "text": "GST",
+   "conf": 0.93
+  },
+  {
+   "text": "ho:",
+   "conf": 0.42
+  },
+  {
+   "text": "000908345344",
+   "conf": 0.79
+  },
+  {
+   "text": ".",
+   "conf": 0.23
+  },
+  {
+   "text": "svo>>>>",
+   "conf": 0.0
+  },
+  {
+   "text": "Receipt",
+   "conf": 0.91
+  },
+  {
+   "text": "<<<<<<s",
+   "conf": 0.31
+  },
+  {
+   "text": "Tnvoice",
+   "conf": 0.24
+  },
+  {
+   "text": "nunber’",
+   "conf": 0.44
+  },
+  {
+   "text": "b0GOR43TTa2",
+   "conf": 0.0
+  },
+  {
+   "text": "|",
+   "conf": 0.56
+  },
+  {
+   "text": ";",
+   "conf": 0.4
+  },
+  {
+   "text": "99.79",
+   "conf": 0.83
+  },
+  {
+   "text": "litre",
+   "conf": 0.9
+  },
+  {
+   "text": "Punp",
+   "conf": 0.87
+  },
+  {
+   "text": "#",
+   "conf": 0.91
+  },
+  {
+   "text": "U2",
+   "conf": 0.64
+  },
+  {
+   "text": "EyelSave",
+   "conf": 0.65
+  },
+  {
+   "text": "95",
+   "conf": 0.74
+  },
+  {
+   "text": "py",
+   "conf": 0.62
+  },
+  {
+   "text": "6.0.00",
+   "conf": 0.25
+  },
+  {
+   "text": "C",
+   "conf": 0.87
+  },
+  {
+   "text": "-",
+   "conf": 0.0
+  },
+  {
+   "text": "9",
+   "conf": 0.55
+  },
+  {
+   "text": "200",
+   "conf": 0.72
+  },
+  {
+   "text": "RM",
+   "conf": 0.91
+  },
+  {
+   "text": "/",
+   "conf": 0.9
+  },
+  {
+   "text": "litre",
+   "conf": 0.73
+  },
+  {
+   "text": "Total",
+   "conf": 0.96
+  },
+  {
+   "text": "RN",
+   "conf": 0.5
+  },
+  {
+   "text": "=...",
+   "conf": 0.0
+  },
+  {
+   "text": "00",
+   "conf": 0.87
+  },
+  {
+   "text": "Cash",
+   "conf": 0.76
+  },
+  {
+   "text": "RN",
+   "conf": 0.67
+  },
+  {
+   "text": "=.",
+   "conf": 0.03
+  },
+  {
+   "text": "0.",
+   "conf": 0.41
+  },
+  {
+   "text": "00",
+   "conf": 0.92
+  },
+  {
+   "text": "Relief",
+   "conf": 0.83
+  },
+  {
+   "text": "GST",
+   "conf": 0.76
+  },
+  {
+   "text": "C",
+   "conf": 0.76
+  },
+  {
+   "text": "RM",
+   "conf": 0.71
+  },
+  {
+   "text": "0.00",
+   "conf": 0.86
+  },
+  {
+   "text": "Total",
+   "conf": 0.96
+  },
+  {
+   "text": "Gross",
+   "conf": 0.9
+  },
+  {
+   "text": "C",
+   "conf": 0.9
+  },
+  {
+   "text": "RM",
+   "conf": 0.93
+  },
+  {
+   "text": "50.00",
+   "conf": 0.91
+  },
+  {
+   "text": "9018-04-06",
+   "conf": 0.64
+  },
+  {
+   "text": "17:36:35",
+   "conf": 0.84
+  },
+  {
+   "text": ".",
+   "conf": 0.02
+  },
+  {
+   "text": "Customer",
+   "conf": 0.26
+  },
+  {
+   "text": "Copy",
+   "conf": 0.96
+  },
+  {
+   "text": "Terminal",
+   "conf": 0.86
+  },
+  {
+   "text": "ID:",
+   "conf": 0.95
+  },
+  {
+   "text": "84259112",
+   "conf": 0.87
+  },
+  {
+   "text": "TD/STAN:",
+   "conf": 0.5
+  },
+  {
+   "text": "974961/",
+   "conf": 0.0
+  },
+  {
+   "text": "000000",
+   "conf": 0.0
+  },
+  {
+   "text": "|",
+   "conf": 0.53
+  },
+  {
+   "text": "Entry",
+   "conf": 0.92
+  },
+  {
+   "text": "Mode:",
+   "conf": 0.9
+  },
+  {
+   "text": "HSR/4",
+   "conf": 0.55
+  },
+  {
+   "text": ".",
+   "conf": 0.26
+  },
+  {
+   "text": "Card:",
+   "conf": 0.95
+  },
+  {
+   "text": "Attendant",
+   "conf": 0.95
+  },
+  {
+   "text": "Tag",
+   "conf": 0.96
+  },
+  {
+   "text": "Card",
+   "conf": 0.96
+  },
+  {
+   "text": ";",
+   "conf": 0.0
+  },
+  {
+   "text": "Y¥XXXKXXXOOSS",
+   "conf": 0.35
+  },
+  {
+   "text": "Attendant:",
+   "conf": 0.94
+  },
+  {
+   "text": "MRifan",
+   "conf": 0.64
+  },
+  {
+   "text": "Date",
+   "conf": 0.96
+  },
+  {
+   "text": "Tine",
+   "conf": 0.92
+  },
+  {
+   "text": "Nun",
+   "conf": 0.62
+  },
+  {
+   "text": "OPT",
+   "conf": 0.95
+  },
+  {
+   "text": "06/04/18",
+   "conf": 0.9
+  },
+  {
+   "text": "17:36",
+   "conf": 0.93
+  },
+  {
+   "text": "41766",
+   "conf": 0.82
+  },
+  {
+   "text": "02",
+   "conf": 0.32
+  },
+  {
+   "text": "Diesel",
+   "conf": 0.77
+  },
+  {
+   "text": "&",
+   "conf": 0.89
+  },
+  {
+   "text": "Petrol",
+   "conf": 0.95
+  },
+  {
+   "text": "RON9S",
+   "conf": 0.29
+  },
+  {
+   "text": "°",
+   "conf": 0.42
+  },
+  {
+   "text": "given",
+   "conf": 0.96
+  },
+  {
+   "text": "Relief",
+   "conf": 0.66
+  },
+  {
+   "text": "under",
+   "conf": 0.96
+  },
+  {
+   "text": "Section",
+   "conf": 0.96
+  },
+  {
+   "text": "56",
+   "conf": 0.44
+  },
+  {
+   "text": "(3)",
+   "conf": 0.9
+  },
+  {
+   "text": "(b)",
+   "conf": 0.89
+  },
+  {
+   "text": "GST",
+   "conf": 0.9
+  },
+  {
+   "text": "Act",
+   "conf": 0.94
+  },
+  {
+   "text": "2014",
+   "conf": 0.93
+  },
+  {
+   "text": "Thank",
+   "conf": 0.96
+  },
+  {
+   "text": "you",
+   "conf": 0.96
+  },
+  {
+   "text": "3",
+   "conf": 0.32
+  },
+  {
+   "text": "|",
+   "conf": 0.33
+  },
+  {
+   "text": "Please",
+   "conf": 0.96
+  },
+  {
+   "text": "come",
+   "conf": 0.88
+  },
+  {
+   "text": "again",
+   "conf": 0.96
+  }
+ ],
+ "mean_conf": 0.6682,
+ "low_conf_share": 0.272,
+ "latency_ms": 6644,
+ "fields": {
+  "company": "ROYOS",
+  "date": "2018-04-06",
+  "total": 50.0
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  50.0
+ ],
+ "key": "X51006414519"
+}

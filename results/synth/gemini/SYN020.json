@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.6-flash",
+ "provider": "gemini",
+ "raw_text": "{\"vendor\": \"SUNRISE PHARMACY SDN BHD\", \"date\": \"2024-03-05\", \"subtotal\": 213.2, \"tax\": 12.79, \"tip\": null, \"discount\": -11.8, \"total\": 225.99, \"currency\": \"MYR\", \"confidence\": 0.98, \"notes\": null}",
+ "data": {
+  "vendor": "SUNRISE PHARMACY SDN BHD",
+  "date": "2024-03-05",
+  "subtotal": 213.2,
+  "tax": 12.79,
+  "tip": null,
+  "discount": -11.8,
+  "total": 225.99,
+  "currency": "MYR",
+  "confidence": 0.98,
+  "notes": null
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1457,
+  "output_tokens": 97,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.001456,
+ "latency_ms": 1614,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.6-flash",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.6-flash"
+ ],
+ "key": "SYN020"
+}

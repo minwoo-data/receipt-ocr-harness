@@ -1,0 +1,217 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "Guardian Health.end Beauty Sdn Bhd",
+  "G-19 LevelG",
+  "Brem Mall",
+  "Tel:03-62584088",
+  "Company Reg #1101083-T",
+  "RM",
+  "121095079 GDN MC H/ ENC ROM 5.90S",
+  "121095079 GDN MCH/U ENC ROM 5.908",
+  "121095081GDN MCH/WN/DREAM 5.908",
+  "121095081GDN MCH/W N/DREAM 5.908",
+  "P3 KDPG HJ 4012 11.60-",
+  "SUBTOTAL 12.00",
+  "TOTAL(GST INCL) 12.00",
+  "12.00",
+  "YOUR SAUINGS FOR TODAY 11.60",
+  "GST-Rate GSTExClGSTAmt",
+  "8 6% 11.32 0.68",
+  "Thank You For Shopping",
+  "At Guardian",
+  "All Amounts Are in RM",
+  "Goods sold are non-refundable",
+  "Dispensed medicines sold are",
+  "not returnahle.",
+  "All exchanges and returns including",
+  "Guardian brand products must be made",
+  "jithin 7days with original receipts and",
+  "Product in original condition.",
+  "St:0 Ctr1 ID:9658 TaxInv:41336",
+  "16:14 04/03/18"
+ ],
+ "tokens": [
+  {
+   "text": "Guardian Health.end Beauty Sdn Bhd",
+   "conf": 0.9250056480660158
+  },
+  {
+   "text": "G-19 LevelG",
+   "conf": 0.9351368871602145
+  },
+  {
+   "text": "Brem Mall",
+   "conf": 0.947379363907708
+  },
+  {
+   "text": "Tel:03-62584088",
+   "conf": 0.9870833635330201
+  },
+  {
+   "text": "Company Reg #1101083-T",
+   "conf": 0.934496752240441
+  },
+  {
+   "text": "RM",
+   "conf": 0.9477331340312958
+  },
+  {
+   "text": "121095079 GDN MC H/ ENC ROM",
+   "conf": 0.9569783343209161
+  },
+  {
+   "text": "5.90S",
+   "conf": 0.9618903398513794
+  },
+  {
+   "text": "121095079 GDN MCH/U ENC ROM",
+   "conf": 0.9147987454025833
+  },
+  {
+   "text": "5.908",
+   "conf": 0.895672082901001
+  },
+  {
+   "text": "121095081GDN MCH/WN/DREAM",
+   "conf": 0.9394763445854187
+  },
+  {
+   "text": "5.908",
+   "conf": 0.9700611114501954
+  },
+  {
+   "text": "121095081GDN MCH/W N/DREAM",
+   "conf": 0.9297490532581623
+  },
+  {
+   "text": "5.908",
+   "conf": 0.9833418011665345
+  },
+  {
+   "text": "P3 KDPG HJ 4012",
+   "conf": 0.8660009066263835
+  },
+  {
+   "text": "11.60-",
+   "conf": 0.9869955877463022
+  },
+  {
+   "text": "SUBTOTAL",
+   "conf": 0.9923137500882149
+  },
+  {
+   "text": "12.00",
+   "conf": 0.9982265710830689
+  },
+  {
+   "text": "TOTAL(GST INCL)",
+   "conf": 0.9003301858901978
+  },
+  {
+   "text": "12.00",
+   "conf": 0.998314368724823
+  },
+  {
+   "text": "12.00",
+   "conf": 0.9911691665649414
+  },
+  {
+   "text": "YOUR SAUINGS FOR TODAY",
+   "conf": 0.9658041190017354
+  },
+  {
+   "text": "11.60",
+   "conf": 0.9892977595329284
+  },
+  {
+   "text": "GST-Rate",
+   "conf": 0.9536797627806664
+  },
+  {
+   "text": "GSTExClGSTAmt",
+   "conf": 0.8227764413906977
+  },
+  {
+   "text": "8",
+   "conf": 0.5437515377998352
+  },
+  {
+   "text": "6%",
+   "conf": 0.9813866019248962
+  },
+  {
+   "text": "11.32",
+   "conf": 0.9980646967887878
+  },
+  {
+   "text": "0.68",
+   "conf": 0.9908678382635117
+  },
+  {
+   "text": "Thank You For Shopping",
+   "conf": 0.9541253230788491
+  },
+  {
+   "text": "At Guardian",
+   "conf": 0.9783047546039928
+  },
+  {
+   "text": "All Amounts Are in RM",
+   "conf": 0.8317732754207793
+  },
+  {
+   "text": "Goods sold are non-refundable",
+   "conf": 0.9471313419013188
+  },
+  {
+   "text": "Dispensed medicines sold are",
+   "conf": 0.9755621829203197
+  },
+  {
+   "text": "not returnahle.",
+   "conf": 0.922144764661789
+  },
+  {
+   "text": "All exchanges and returns including",
+   "conf": 0.9560228041240147
+  },
+  {
+   "text": "Guardian brand products must be made",
+   "conf": 0.9570862303177515
+  },
+  {
+   "text": "jithin 7days with original receipts and",
+   "conf": 0.9346293180416791
+  },
+  {
+   "text": "Product in original condition.",
+   "conf": 0.9722310682137807
+  },
+  {
+   "text": "St:0 Ctr1 ID:9658 TaxInv:41336",
+   "conf": 0.8967839976151785
+  },
+  {
+   "text": "16:14",
+   "conf": 0.9814787745475769
+  },
+  {
+   "text": "04/03/18",
+   "conf": 0.9943657070398331
+  }
+ ],
+ "mean_conf": 0.9407,
+ "low_conf_share": 0.0,
+ "latency_ms": 5878,
+ "fields": {
+  "company": "GUARDIAN HEALTH END BEAUTY SDN BHD",
+  "date": "2018-03-04",
+  "total": 12.0
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  12.0
+ ],
+ "key": "X51005719912"
+}

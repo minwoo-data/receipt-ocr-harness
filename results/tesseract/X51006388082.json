@@ -1,0 +1,447 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "vee ts",
+  "Broadview Marketing Sdn Bhd (72826444)",
+  "No, 9-G, Jalan Dinar 6 U3/D",
+  "Taman Subang Perdana, Sek,U3,",
+  "40150 Sheh Alam Selangor OLE,",
+  "03-78459183",
+  "GST Req Ne: OGOZ03587584 ry",
+  "Tax Invoicd 2 ee",
+  "“BilNa : BM-159572,—~C*~*~* aS",
+  "Date > 45/05/2017 10:49:40 AM",
+  "Cashier : Merlin",
+  "Descriptian exty Price $ Amount",
+  "TY Spe Bae ioe 450 °0~d",
+  "16 (£009m)",
+  "Se. as ee",
+  "Total Iter Discount: 6.00",
+  "Total Ssiec Inclusive GST : eae",
+  "Cech Received : 4.70",
+  "aN",
+  "OC",
+  "Tar Code % Tazable mount GST",
+  "SR 5.00 #43 033",
+  "GST: 0.27",
+  "* GST Include Itern \\p- 1 2",
+  "Thank You. Please Came Again."
+ ],
+ "tokens": [
+  {
+   "text": "vee",
+   "conf": 0.06
+  },
+  {
+   "text": "ts",
+   "conf": 0.31
+  },
+  {
+   "text": "Broadview",
+   "conf": 0.92
+  },
+  {
+   "text": "Marketing",
+   "conf": 0.96
+  },
+  {
+   "text": "Sdn",
+   "conf": 0.92
+  },
+  {
+   "text": "Bhd",
+   "conf": 0.92
+  },
+  {
+   "text": "(72826444)",
+   "conf": 0.78
+  },
+  {
+   "text": "No,",
+   "conf": 0.86
+  },
+  {
+   "text": "9-G,",
+   "conf": 0.77
+  },
+  {
+   "text": "Jalan",
+   "conf": 0.96
+  },
+  {
+   "text": "Dinar",
+   "conf": 0.65
+  },
+  {
+   "text": "6",
+   "conf": 0.4
+  },
+  {
+   "text": "U3/D",
+   "conf": 0.05
+  },
+  {
+   "text": "Taman",
+   "conf": 0.96
+  },
+  {
+   "text": "Subang",
+   "conf": 0.96
+  },
+  {
+   "text": "Perdana,",
+   "conf": 0.92
+  },
+  {
+   "text": "Sek,U3,",
+   "conf": 0.5
+  },
+  {
+   "text": "40150",
+   "conf": 0.72
+  },
+  {
+   "text": "Sheh",
+   "conf": 0.85
+  },
+  {
+   "text": "Alam",
+   "conf": 0.58
+  },
+  {
+   "text": "Selangor",
+   "conf": 0.51
+  },
+  {
+   "text": "OLE,",
+   "conf": 0.29
+  },
+  {
+   "text": "03-78459183",
+   "conf": 0.33
+  },
+  {
+   "text": "GST",
+   "conf": 0.75
+  },
+  {
+   "text": "Req",
+   "conf": 0.92
+  },
+  {
+   "text": "Ne:",
+   "conf": 0.61
+  },
+  {
+   "text": "OGOZ03587584",
+   "conf": 0.25
+  },
+  {
+   "text": "ry",
+   "conf": 0.67
+  },
+  {
+   "text": "Tax",
+   "conf": 0.78
+  },
+  {
+   "text": "Invoicd",
+   "conf": 0.16
+  },
+  {
+   "text": "2",
+   "conf": 0.23
+  },
+  {
+   "text": "ee",
+   "conf": 0.3
+  },
+  {
+   "text": "“BilNa",
+   "conf": 0.13
+  },
+  {
+   "text": ":",
+   "conf": 0.1
+  },
+  {
+   "text": "BM-159572,—~C*~*~*",
+   "conf": 0.0
+  },
+  {
+   "text": "aS",
+   "conf": 0.17
+  },
+  {
+   "text": "Date",
+   "conf": 0.45
+  },
+  {
+   "text": ">",
+   "conf": 0.69
+  },
+  {
+   "text": "45/05/2017",
+   "conf": 0.72
+  },
+  {
+   "text": "10:49:40",
+   "conf": 0.95
+  },
+  {
+   "text": "AM",
+   "conf": 0.96
+  },
+  {
+   "text": "Cashier",
+   "conf": 0.46
+  },
+  {
+   "text": ":",
+   "conf": 0.64
+  },
+  {
+   "text": "Merlin",
+   "conf": 0.95
+  },
+  {
+   "text": "Descriptian",
+   "conf": 0.73
+  },
+  {
+   "text": "exty",
+   "conf": 0.49
+  },
+  {
+   "text": "Price",
+   "conf": 0.79
+  },
+  {
+   "text": "$",
+   "conf": 0.0
+  },
+  {
+   "text": "Amount",
+   "conf": 0.0
+  },
+  {
+   "text": "TY",
+   "conf": 0.54
+  },
+  {
+   "text": "Spe",
+   "conf": 0.31
+  },
+  {
+   "text": "Bae",
+   "conf": 0.14
+  },
+  {
+   "text": "ioe",
+   "conf": 0.31
+  },
+  {
+   "text": "450",
+   "conf": 0.0
+  },
+  {
+   "text": "°0~d",
+   "conf": 0.0
+  },
+  {
+   "text": "16",
+   "conf": 0.83
+  },
+  {
+   "text": "(£009m)",
+   "conf": 0.19
+  },
+  {
+   "text": "Se.",
+   "conf": 0.29
+  },
+  {
+   "text": "as",
+   "conf": 0.41
+  },
+  {
+   "text": "ee",
+   "conf": 0.23
+  },
+  {
+   "text": "Total",
+   "conf": 0.94
+  },
+  {
+   "text": "Iter",
+   "conf": 0.51
+  },
+  {
+   "text": "Discount:",
+   "conf": 0.0
+  },
+  {
+   "text": "6.00",
+   "conf": 0.66
+  },
+  {
+   "text": "Total",
+   "conf": 0.92
+  },
+  {
+   "text": "Ssiec",
+   "conf": 0.74
+  },
+  {
+   "text": "Inclusive",
+   "conf": 0.8
+  },
+  {
+   "text": "GST",
+   "conf": 0.84
+  },
+  {
+   "text": ":",
+   "conf": 0.84
+  },
+  {
+   "text": "eae",
+   "conf": 0.2
+  },
+  {
+   "text": "Cech",
+   "conf": 0.51
+  },
+  {
+   "text": "Received",
+   "conf": 0.82
+  },
+  {
+   "text": ":",
+   "conf": 0.91
+  },
+  {
+   "text": "4.70",
+   "conf": 0.61
+  },
+  {
+   "text": "aN",
+   "conf": 0.61
+  },
+  {
+   "text": "OC",
+   "conf": 0.38
+  },
+  {
+   "text": "Tar",
+   "conf": 0.7
+  },
+  {
+   "text": "Code",
+   "conf": 0.66
+  },
+  {
+   "text": "%",
+   "conf": 0.03
+  },
+  {
+   "text": "Tazable",
+   "conf": 0.71
+  },
+  {
+   "text": "mount",
+   "conf": 0.65
+  },
+  {
+   "text": "GST",
+   "conf": 0.52
+  },
+  {
+   "text": "SR",
+   "conf": 0.77
+  },
+  {
+   "text": "5.00",
+   "conf": 0.82
+  },
+  {
+   "text": "#43",
+   "conf": 0.62
+  },
+  {
+   "text": "033",
+   "conf": 0.36
+  },
+  {
+   "text": "GST:",
+   "conf": 0.89
+  },
+  {
+   "text": "0.27",
+   "conf": 0.83
+  },
+  {
+   "text": "*",
+   "conf": 0.87
+  },
+  {
+   "text": "GST",
+   "conf": 0.94
+  },
+  {
+   "text": "Include",
+   "conf": 0.93
+  },
+  {
+   "text": "Itern",
+   "conf": 0.57
+  },
+  {
+   "text": "\\p-",
+   "conf": 0.34
+  },
+  {
+   "text": "1",
+   "conf": 0.79
+  },
+  {
+   "text": "2",
+   "conf": 0.55
+  },
+  {
+   "text": "Thank",
+   "conf": 0.95
+  },
+  {
+   "text": "You.",
+   "conf": 0.83
+  },
+  {
+   "text": "Please",
+   "conf": 0.76
+  },
+  {
+   "text": "Came",
+   "conf": 0.96
+  },
+  {
+   "text": "Again.",
+   "conf": 0.84
+  }
+ ],
+ "mean_conf": 0.5851,
+ "low_conf_share": 0.34,
+ "latency_ms": 1004,
+ "fields": {
+  "company": "BROADVIEW MARKETING SDN BHD",
+  "date": null,
+  "total": 6.0
+ },
+ "rule_reasons": [
+  "date_not_found"
+ ],
+ "total_candidates": [
+  6.0
+ ],
+ "key": "X51006388082"
+}

@@ -1,0 +1,368 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "Cash Sale",
+  "SINNATHAMBY HOLDINGS",
+  "SDN. BHD.",
+  "249336-T",
+  "NO.17, 18 & 41, JALAN BESAR,",
+  "39100 BRINCHANG,",
+  "CAMERON HIGHLANDS,",
+  "PAHANG",
+  "GST Reg.: 002120876032",
+  "Document No. :T03-18/199913",
+  "Date : 06/02/2018 07:11:54 PM",
+  "DESC ; PRICE Disc AMOUNT TAX",
+  "QTY RM RM CODE",
+  "ROYAL GOLD LUXURIOUS KITCHEN TOWEL",
+  "6R*60",
+  "1UNIT * 13.50 0.00 13.50 SR",
+  "Total Qty: 1 :",
+  "Total Inclusive GST 6% : 13.50",
+  "Rounding Adjustment: 0.00",
+  "Rounded Total (RM):",
+  "Cash \"So asso",
+  "GSTSummary Amount(RM) Tax(RM)",
+  "SR @6% 12.74 0.76",
+  "weve Thanks You ane"
+ ],
+ "tokens": [
+  {
+   "text": "Cash",
+   "conf": 0.96
+  },
+  {
+   "text": "Sale",
+   "conf": 0.96
+  },
+  {
+   "text": "SINNATHAMBY",
+   "conf": 0.89
+  },
+  {
+   "text": "HOLDINGS",
+   "conf": 0.96
+  },
+  {
+   "text": "SDN.",
+   "conf": 0.96
+  },
+  {
+   "text": "BHD.",
+   "conf": 0.96
+  },
+  {
+   "text": "249336-T",
+   "conf": 0.91
+  },
+  {
+   "text": "NO.17,",
+   "conf": 0.89
+  },
+  {
+   "text": "18",
+   "conf": 0.93
+  },
+  {
+   "text": "&",
+   "conf": 0.93
+  },
+  {
+   "text": "41,",
+   "conf": 0.95
+  },
+  {
+   "text": "JALAN",
+   "conf": 0.93
+  },
+  {
+   "text": "BESAR,",
+   "conf": 0.91
+  },
+  {
+   "text": "39100",
+   "conf": 0.92
+  },
+  {
+   "text": "BRINCHANG,",
+   "conf": 0.92
+  },
+  {
+   "text": "CAMERON",
+   "conf": 0.96
+  },
+  {
+   "text": "HIGHLANDS,",
+   "conf": 0.96
+  },
+  {
+   "text": "PAHANG",
+   "conf": 0.95
+  },
+  {
+   "text": "GST",
+   "conf": 0.92
+  },
+  {
+   "text": "Reg.:",
+   "conf": 0.84
+  },
+  {
+   "text": "002120876032",
+   "conf": 0.96
+  },
+  {
+   "text": "Document",
+   "conf": 0.88
+  },
+  {
+   "text": "No.",
+   "conf": 0.85
+  },
+  {
+   "text": ":T03-18/199913",
+   "conf": 0.3
+  },
+  {
+   "text": "Date",
+   "conf": 0.96
+  },
+  {
+   "text": ":",
+   "conf": 0.56
+  },
+  {
+   "text": "06/02/2018",
+   "conf": 0.84
+  },
+  {
+   "text": "07:11:54",
+   "conf": 0.95
+  },
+  {
+   "text": "PM",
+   "conf": 0.96
+  },
+  {
+   "text": "DESC",
+   "conf": 0.96
+  },
+  {
+   "text": ";",
+   "conf": 0.0
+  },
+  {
+   "text": "PRICE",
+   "conf": 0.94
+  },
+  {
+   "text": "Disc",
+   "conf": 0.8
+  },
+  {
+   "text": "AMOUNT",
+   "conf": 0.96
+  },
+  {
+   "text": "TAX",
+   "conf": 0.96
+  },
+  {
+   "text": "QTY",
+   "conf": 0.96
+  },
+  {
+   "text": "RM",
+   "conf": 0.96
+  },
+  {
+   "text": "RM",
+   "conf": 0.94
+  },
+  {
+   "text": "CODE",
+   "conf": 0.96
+  },
+  {
+   "text": "ROYAL",
+   "conf": 0.92
+  },
+  {
+   "text": "GOLD",
+   "conf": 0.92
+  },
+  {
+   "text": "LUXURIOUS",
+   "conf": 0.95
+  },
+  {
+   "text": "KITCHEN",
+   "conf": 0.95
+  },
+  {
+   "text": "TOWEL",
+   "conf": 0.58
+  },
+  {
+   "text": "6R*60",
+   "conf": 0.9
+  },
+  {
+   "text": "1UNIT",
+   "conf": 0.82
+  },
+  {
+   "text": "*",
+   "conf": 0.82
+  },
+  {
+   "text": "13.50",
+   "conf": 0.74
+  },
+  {
+   "text": "0.00",
+   "conf": 0.74
+  },
+  {
+   "text": "13.50",
+   "conf": 0.96
+  },
+  {
+   "text": "SR",
+   "conf": 0.96
+  },
+  {
+   "text": "Total",
+   "conf": 0.96
+  },
+  {
+   "text": "Qty:",
+   "conf": 0.88
+  },
+  {
+   "text": "1",
+   "conf": 0.88
+  },
+  {
+   "text": ":",
+   "conf": 0.63
+  },
+  {
+   "text": "Total",
+   "conf": 0.96
+  },
+  {
+   "text": "Inclusive",
+   "conf": 0.96
+  },
+  {
+   "text": "GST",
+   "conf": 0.94
+  },
+  {
+   "text": "6%",
+   "conf": 0.92
+  },
+  {
+   "text": ":",
+   "conf": 0.92
+  },
+  {
+   "text": "13.50",
+   "conf": 0.95
+  },
+  {
+   "text": "Rounding",
+   "conf": 0.96
+  },
+  {
+   "text": "Adjustment:",
+   "conf": 0.69
+  },
+  {
+   "text": "0.00",
+   "conf": 0.94
+  },
+  {
+   "text": "Rounded",
+   "conf": 0.95
+  },
+  {
+   "text": "Total",
+   "conf": 0.96
+  },
+  {
+   "text": "(RM):",
+   "conf": 0.95
+  },
+  {
+   "text": "Cash",
+   "conf": 0.96
+  },
+  {
+   "text": "\"So",
+   "conf": 0.15
+  },
+  {
+   "text": "asso",
+   "conf": 0.0
+  },
+  {
+   "text": "GSTSummary",
+   "conf": 0.91
+  },
+  {
+   "text": "Amount(RM)",
+   "conf": 0.69
+  },
+  {
+   "text": "Tax(RM)",
+   "conf": 0.91
+  },
+  {
+   "text": "SR",
+   "conf": 0.84
+  },
+  {
+   "text": "@6%",
+   "conf": 0.84
+  },
+  {
+   "text": "12.74",
+   "conf": 0.95
+  },
+  {
+   "text": "0.76",
+   "conf": 0.96
+  },
+  {
+   "text": "weve",
+   "conf": 0.2
+  },
+  {
+   "text": "Thanks",
+   "conf": 0.96
+  },
+  {
+   "text": "You",
+   "conf": 0.96
+  },
+  {
+   "text": "ane",
+   "conf": 0.75
+  }
+ ],
+ "mean_conf": 0.8531,
+ "low_conf_share": 0.0617,
+ "latency_ms": 2587,
+ "fields": {
+  "company": "CASH SALE SINNATHAMBY HOLDINGS",
+  "date": "2018-02-06",
+  "total": 13.5
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  13.5
+ ],
+ "key": "X51005806702"
+}

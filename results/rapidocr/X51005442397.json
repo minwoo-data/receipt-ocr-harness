@@ -1,0 +1,153 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "Triple SixPoint Enterprise 666",
+  "No 14&16jalan Permas 4/3Bandar BaruPemasJay",
+  "Tel:016-7574666",
+  "Receiptno:REC-0015016",
+  "Date:25-03-201809:42:19AM",
+  "Payment Type: Cash",
+  "Receipt",
+  "(Receipt No.: REC.0015016)",
+  "QTY ITEM PRICE TOTAL",
+  "(RM) (RM)",
+  "2xHey Song 4.30 7.60",
+  "Camellia green",
+  "tea 580ml",
+  "(Disc: 1.0000)",
+  "Discount 1.00",
+  "TotaiAmount 7.60",
+  "Tendered 10.00",
+  "Change 2.40"
+ ],
+ "tokens": [
+  {
+   "text": "Triple SixPoint Enterprise 666",
+   "conf": 0.9457109630107879
+  },
+  {
+   "text": "No 14&16jalan Permas 4/3Bandar BaruPemasJay",
+   "conf": 0.9395086196965949
+  },
+  {
+   "text": "Tel:016-7574666",
+   "conf": 0.9875264008839925
+  },
+  {
+   "text": "Receiptno:REC-0015016",
+   "conf": 0.9443351654779344
+  },
+  {
+   "text": "Date:25-03-201809:42:19AM",
+   "conf": 0.9783683228492737
+  },
+  {
+   "text": "Payment Type: Cash",
+   "conf": 0.9723217189311981
+  },
+  {
+   "text": "Receipt",
+   "conf": 0.9906607270240784
+  },
+  {
+   "text": "(Receipt No.: REC.0015016)",
+   "conf": 0.8700212297531275
+  },
+  {
+   "text": "QTY ITEM",
+   "conf": 0.9595532044768333
+  },
+  {
+   "text": "PRICE",
+   "conf": 0.9731948018074036
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.9944934010505676
+  },
+  {
+   "text": "(RM)",
+   "conf": 0.9289219379425049
+  },
+  {
+   "text": "(RM)",
+   "conf": 0.9376306533813477
+  },
+  {
+   "text": "2xHey Song",
+   "conf": 0.955705714225769
+  },
+  {
+   "text": "4.30",
+   "conf": 0.9979429990053177
+  },
+  {
+   "text": "7.60",
+   "conf": 0.9984768629074097
+  },
+  {
+   "text": "Camellia green",
+   "conf": 0.9725908424173083
+  },
+  {
+   "text": "tea 580ml",
+   "conf": 0.9672634138001336
+  },
+  {
+   "text": "(Disc: 1.0000)",
+   "conf": 0.9705657660961151
+  },
+  {
+   "text": "Discount",
+   "conf": 0.9886205196380615
+  },
+  {
+   "text": "1.00",
+   "conf": 0.9985253363847733
+  },
+  {
+   "text": "TotaiAmount",
+   "conf": 0.9395295977592468
+  },
+  {
+   "text": "7.60",
+   "conf": 0.9986194372177124
+  },
+  {
+   "text": "Tendered",
+   "conf": 0.9955324232578278
+  },
+  {
+   "text": "10.00",
+   "conf": 0.9989368438720703
+  },
+  {
+   "text": "Change",
+   "conf": 0.9951609869798025
+  },
+  {
+   "text": "2.40",
+   "conf": 0.9990893602371216
+  }
+ ],
+ "mean_conf": 0.9703,
+ "low_conf_share": 0.0,
+ "latency_ms": 3403,
+ "fields": {
+  "company": "TRIPLE SIXPOINT ENTERPRISE 666",
+  "date": "2018-03-25",
+  "total": 10.0
+ },
+ "rule_reasons": [
+  "total_no_keyword_fallback_max"
+ ],
+ "total_candidates": [
+  4.3,
+  7.6,
+  1.0,
+  7.6,
+  10.0,
+  2.4
+ ],
+ "key": "X51005442397"
+}

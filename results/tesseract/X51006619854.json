@@ -1,0 +1,361 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "7 ‘",
+  "| 99 SPEED NART 5/B (S19S37-X)",
+  "LOT P.T, 33198, BATU 4",
+  "TALON KAPAK, MUKIN KAPAR",
+  "| $2100 KLANG, SELANGOR",
+  "LI74-PERNATA NAGNA",
+  "GST 10, NO: OONIGL74E77172",
+  "INVOICE WO: 17498/303/70184",
+  "09: DBP $6083 1 04-06-16",
+  "| F178 GARDENIA SQUIGGLES CHO RN2.30",
+  "@2 ¥ RH 1G",
+  "Total Sales (Inclusive G57) RN = 2,18",
+  "CASH RM G.48",
+  "CHANGE RN 3,00",
+  "6ST Summary Amount (RM) Tax(RN)",
+  "& > 67 1.98 he",
+  "Thank You, Please come again _",
+  "Keep the inveice for applicable returns"
+ ],
+ "tokens": [
+  {
+   "text": "7",
+   "conf": 0.48
+  },
+  {
+   "text": "‘",
+   "conf": 0.57
+  },
+  {
+   "text": "|",
+   "conf": 0.77
+  },
+  {
+   "text": "99",
+   "conf": 0.85
+  },
+  {
+   "text": "SPEED",
+   "conf": 0.91
+  },
+  {
+   "text": "NART",
+   "conf": 0.84
+  },
+  {
+   "text": "5/B",
+   "conf": 0.09
+  },
+  {
+   "text": "(S19S37-X)",
+   "conf": 0.61
+  },
+  {
+   "text": "LOT",
+   "conf": 0.8
+  },
+  {
+   "text": "P.T,",
+   "conf": 0.29
+  },
+  {
+   "text": "33198,",
+   "conf": 0.87
+  },
+  {
+   "text": "BATU",
+   "conf": 0.95
+  },
+  {
+   "text": "4",
+   "conf": 0.95
+  },
+  {
+   "text": "TALON",
+   "conf": 0.4
+  },
+  {
+   "text": "KAPAK,",
+   "conf": 0.83
+  },
+  {
+   "text": "MUKIN",
+   "conf": 0.2
+  },
+  {
+   "text": "KAPAR",
+   "conf": 0.89
+  },
+  {
+   "text": "|",
+   "conf": 0.75
+  },
+  {
+   "text": "$2100",
+   "conf": 0.92
+  },
+  {
+   "text": "KLANG,",
+   "conf": 0.94
+  },
+  {
+   "text": "SELANGOR",
+   "conf": 0.95
+  },
+  {
+   "text": "LI74-PERNATA",
+   "conf": 0.6
+  },
+  {
+   "text": "NAGNA",
+   "conf": 0.41
+  },
+  {
+   "text": "GST",
+   "conf": 0.74
+  },
+  {
+   "text": "10,",
+   "conf": 0.82
+  },
+  {
+   "text": "NO:",
+   "conf": 0.43
+  },
+  {
+   "text": "OONIGL74E77172",
+   "conf": 0.0
+  },
+  {
+   "text": "INVOICE",
+   "conf": 0.84
+  },
+  {
+   "text": "WO:",
+   "conf": 0.36
+  },
+  {
+   "text": "17498/303/70184",
+   "conf": 0.13
+  },
+  {
+   "text": "09:",
+   "conf": 0.42
+  },
+  {
+   "text": "DBP",
+   "conf": 0.2
+  },
+  {
+   "text": "$6083",
+   "conf": 0.26
+  },
+  {
+   "text": "1",
+   "conf": 0.26
+  },
+  {
+   "text": "04-06-16",
+   "conf": 0.71
+  },
+  {
+   "text": "|",
+   "conf": 0.63
+  },
+  {
+   "text": "F178",
+   "conf": 0.62
+  },
+  {
+   "text": "GARDENIA",
+   "conf": 0.23
+  },
+  {
+   "text": "SQUIGGLES",
+   "conf": 0.36
+  },
+  {
+   "text": "CHO",
+   "conf": 0.78
+  },
+  {
+   "text": "RN2.30",
+   "conf": 0.35
+  },
+  {
+   "text": "@2",
+   "conf": 0.61
+  },
+  {
+   "text": "¥",
+   "conf": 0.18
+  },
+  {
+   "text": "RH",
+   "conf": 0.47
+  },
+  {
+   "text": "1G",
+   "conf": 0.36
+  },
+  {
+   "text": "Total",
+   "conf": 0.95
+  },
+  {
+   "text": "Sales",
+   "conf": 0.92
+  },
+  {
+   "text": "(Inclusive",
+   "conf": 0.91
+  },
+  {
+   "text": "G57)",
+   "conf": 0.44
+  },
+  {
+   "text": "RN",
+   "conf": 0.71
+  },
+  {
+   "text": "=",
+   "conf": 0.36
+  },
+  {
+   "text": "2,18",
+   "conf": 0.36
+  },
+  {
+   "text": "CASH",
+   "conf": 0.94
+  },
+  {
+   "text": "RM",
+   "conf": 0.17
+  },
+  {
+   "text": "G.48",
+   "conf": 0.0
+  },
+  {
+   "text": "CHANGE",
+   "conf": 0.95
+  },
+  {
+   "text": "RN",
+   "conf": 0.36
+  },
+  {
+   "text": "3,00",
+   "conf": 0.32
+  },
+  {
+   "text": "6ST",
+   "conf": 0.66
+  },
+  {
+   "text": "Summary",
+   "conf": 0.81
+  },
+  {
+   "text": "Amount",
+   "conf": 0.81
+  },
+  {
+   "text": "(RM)",
+   "conf": 0.79
+  },
+  {
+   "text": "Tax(RN)",
+   "conf": 0.25
+  },
+  {
+   "text": "&",
+   "conf": 0.3
+  },
+  {
+   "text": ">",
+   "conf": 0.76
+  },
+  {
+   "text": "67",
+   "conf": 0.62
+  },
+  {
+   "text": "1.98",
+   "conf": 0.75
+  },
+  {
+   "text": "he",
+   "conf": 0.54
+  },
+  {
+   "text": "Thank",
+   "conf": 0.95
+  },
+  {
+   "text": "You,",
+   "conf": 0.96
+  },
+  {
+   "text": "Please",
+   "conf": 0.92
+  },
+  {
+   "text": "come",
+   "conf": 0.94
+  },
+  {
+   "text": "again",
+   "conf": 0.7
+  },
+  {
+   "text": "_",
+   "conf": 0.34
+  },
+  {
+   "text": "Keep",
+   "conf": 0.79
+  },
+  {
+   "text": "the",
+   "conf": 0.93
+  },
+  {
+   "text": "inveice",
+   "conf": 0.72
+  },
+  {
+   "text": "for",
+   "conf": 0.96
+  },
+  {
+   "text": "applicable",
+   "conf": 0.89
+  },
+  {
+   "text": "returns",
+   "conf": 0.84
+  }
+ ],
+ "mean_conf": 0.6156,
+ "low_conf_share": 0.375,
+ "latency_ms": 1177,
+ "fields": {
+  "company": "TALON KAPAK MUKIN KAPAR",
+  "date": "2016-06-04",
+  "total": 2.3
+ },
+ "rule_reasons": [
+  "total_no_keyword_fallback_max"
+ ],
+ "total_candidates": [
+  2.3,
+  1.98
+ ],
+ "key": "X51006619854"
+}

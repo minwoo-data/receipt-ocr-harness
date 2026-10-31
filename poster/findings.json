@@ -1,0 +1,8 @@
+{
+  "_note": "2026-10-31 04:00. Local VLM numbers still partial (n=127); refresh after the Qwen chain finishes.",
+  "bullets": [
+    "<b>Cheap readers get far, not far enough.</b> On 300 scans, local OCR + rules reads date and total right 73% of the time at $0, a local 3B vision model 80%, Flash-Lite 97% at $0.54 per 1,000, 3.6 Flash 98% at $1.42. On 200 phone photos: local 55%, cloud 87%.",
+    "<b>Routing is cheap; the escalation signal is the bottleneck.</b> An oracle sends 27% of receipts to the cloud for 98.7% at $0.15 per 1,000. The real router (two readers agree, confidence &ge; 0.9) sends 56% for 95.7%; adding the code checks lifts accepted answers to 96.9% at a 4% review load.",
+    "<b>Code catches what the model cannot see about itself.</b> With no answer key, the checks caught 5 of Flash-Lite's 8 wrong answers and 18 of the local model's 25. On 43 adversarial receipts the models ignored all 16 injections, every date and arithmetic trap tripped a gate, and nothing leaked. One targeted re-read fixed 0 to 1 of 20 flagged receipts and broke 1: retries do not replace review."
+  ]
+}

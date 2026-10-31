@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.6-flash",
+ "provider": "gemini",
+ "raw_text": "{\"vendor\": \"GANESH FINE INDIAN CUISINE\", \"date\": \"2015-09-14\", \"subtotal\": 309000.0, \"tax\": null, \"tip\": null, \"discount\": null, \"total\": 309000.0, \"currency\": \"VND\", \"confidence\": 0.95, \"notes\": null}",
+ "data": {
+  "vendor": "GANESH FINE INDIAN CUISINE",
+  "date": "2015-09-14",
+  "subtotal": 309000.0,
+  "tax": null,
+  "tip": null,
+  "discount": null,
+  "total": 309000.0,
+  "currency": "VND",
+  "confidence": 0.95,
+  "notes": null
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1471,
+  "output_tokens": 90,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.001441,
+ "latency_ms": 1190,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.6-flash",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.6-flash"
+ ],
+ "key": "W0129_8ef56728735a"
+}

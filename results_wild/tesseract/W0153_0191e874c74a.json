@@ -1,0 +1,408 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "GREY GOOSE Bap |",
+  "24 FREDMAN DRIVE",
+  "SANDTON TEL: 011 783 2200 P",
+  "Tax Details",
+  "Tax Inv No: 1",
+  "Covers > 4",
+  "STAFF: Blade",
+  "Table 100",
+  "29 November 2017 15:23",
+  "4 Ace Gold @R11200.00 R44800 .00",
+  "7 Dom P Blanc @R5700.00 R39900 .00",
+  "5 Moet Nectar M @R3800.00 R19000.00",
+  "2 Cristal Blan @R11200.00 R22400.00",
+  "7 BIL Ciroc @R1650.00 R11550.00",
+  "10 Luc Belaire R @R1500.00 R15000.00",
+  "4 BTL Johnnie B @R9000.00 R36000.00",
+  "5 Veuve Rich @R2500.00 R12500 00",
+  "Total : R201150.00",
+  "R24 702.63 Output Tax",
+  "R176 447.38 Total Exel",
+  "GRATUITY a. ns"
+ ],
+ "tokens": [
+  {
+   "text": "GREY",
+   "conf": 0.92
+  },
+  {
+   "text": "GOOSE",
+   "conf": 0.88
+  },
+  {
+   "text": "Bap",
+   "conf": 0.74
+  },
+  {
+   "text": "|",
+   "conf": 0.93
+  },
+  {
+   "text": "24",
+   "conf": 0.9
+  },
+  {
+   "text": "FREDMAN",
+   "conf": 0.87
+  },
+  {
+   "text": "DRIVE",
+   "conf": 0.95
+  },
+  {
+   "text": "SANDTON",
+   "conf": 0.93
+  },
+  {
+   "text": "TEL:",
+   "conf": 0.76
+  },
+  {
+   "text": "011",
+   "conf": 0.56
+  },
+  {
+   "text": "783",
+   "conf": 0.87
+  },
+  {
+   "text": "2200",
+   "conf": 0.95
+  },
+  {
+   "text": "P",
+   "conf": 0.54
+  },
+  {
+   "text": "Tax",
+   "conf": 0.96
+  },
+  {
+   "text": "Details",
+   "conf": 0.95
+  },
+  {
+   "text": "Tax",
+   "conf": 0.96
+  },
+  {
+   "text": "Inv",
+   "conf": 0.94
+  },
+  {
+   "text": "No:",
+   "conf": 0.77
+  },
+  {
+   "text": "1",
+   "conf": 0.82
+  },
+  {
+   "text": "Covers",
+   "conf": 0.9
+  },
+  {
+   "text": ">",
+   "conf": 0.47
+  },
+  {
+   "text": "4",
+   "conf": 0.54
+  },
+  {
+   "text": "STAFF:",
+   "conf": 0.59
+  },
+  {
+   "text": "Blade",
+   "conf": 0.91
+  },
+  {
+   "text": "Table",
+   "conf": 0.96
+  },
+  {
+   "text": "100",
+   "conf": 0.96
+  },
+  {
+   "text": "29",
+   "conf": 0.88
+  },
+  {
+   "text": "November",
+   "conf": 0.96
+  },
+  {
+   "text": "2017",
+   "conf": 0.96
+  },
+  {
+   "text": "15:23",
+   "conf": 0.94
+  },
+  {
+   "text": "4",
+   "conf": 0.96
+  },
+  {
+   "text": "Ace",
+   "conf": 0.96
+  },
+  {
+   "text": "Gold",
+   "conf": 0.93
+  },
+  {
+   "text": "@R11200.00",
+   "conf": 0.91
+  },
+  {
+   "text": "R44800",
+   "conf": 0.79
+  },
+  {
+   "text": ".00",
+   "conf": 0.79
+  },
+  {
+   "text": "7",
+   "conf": 0.95
+  },
+  {
+   "text": "Dom",
+   "conf": 0.93
+  },
+  {
+   "text": "P",
+   "conf": 0.92
+  },
+  {
+   "text": "Blanc",
+   "conf": 0.92
+  },
+  {
+   "text": "@R5700.00",
+   "conf": 0.88
+  },
+  {
+   "text": "R39900",
+   "conf": 0.44
+  },
+  {
+   "text": ".00",
+   "conf": 0.44
+  },
+  {
+   "text": "5",
+   "conf": 0.96
+  },
+  {
+   "text": "Moet",
+   "conf": 0.96
+  },
+  {
+   "text": "Nectar",
+   "conf": 0.93
+  },
+  {
+   "text": "M",
+   "conf": 0.92
+  },
+  {
+   "text": "@R3800.00",
+   "conf": 0.63
+  },
+  {
+   "text": "R19000.00",
+   "conf": 0.64
+  },
+  {
+   "text": "2",
+   "conf": 0.96
+  },
+  {
+   "text": "Cristal",
+   "conf": 0.92
+  },
+  {
+   "text": "Blan",
+   "conf": 0.92
+  },
+  {
+   "text": "@R11200.00",
+   "conf": 0.86
+  },
+  {
+   "text": "R22400.00",
+   "conf": 0.63
+  },
+  {
+   "text": "7",
+   "conf": 0.96
+  },
+  {
+   "text": "BIL",
+   "conf": 0.91
+  },
+  {
+   "text": "Ciroc",
+   "conf": 0.91
+  },
+  {
+   "text": "@R1650.00",
+   "conf": 0.9
+  },
+  {
+   "text": "R11550.00",
+   "conf": 0.83
+  },
+  {
+   "text": "10",
+   "conf": 0.95
+  },
+  {
+   "text": "Luc",
+   "conf": 0.93
+  },
+  {
+   "text": "Belaire",
+   "conf": 0.92
+  },
+  {
+   "text": "R",
+   "conf": 0.92
+  },
+  {
+   "text": "@R1500.00",
+   "conf": 0.61
+  },
+  {
+   "text": "R15000.00",
+   "conf": 0.61
+  },
+  {
+   "text": "4",
+   "conf": 0.92
+  },
+  {
+   "text": "BTL",
+   "conf": 0.92
+  },
+  {
+   "text": "Johnnie",
+   "conf": 0.93
+  },
+  {
+   "text": "B",
+   "conf": 0.92
+  },
+  {
+   "text": "@R9000.00",
+   "conf": 0.81
+  },
+  {
+   "text": "R36000.00",
+   "conf": 0.68
+  },
+  {
+   "text": "5",
+   "conf": 0.96
+  },
+  {
+   "text": "Veuve",
+   "conf": 0.96
+  },
+  {
+   "text": "Rich",
+   "conf": 0.93
+  },
+  {
+   "text": "@R2500.00",
+   "conf": 0.9
+  },
+  {
+   "text": "R12500",
+   "conf": 0.83
+  },
+  {
+   "text": "00",
+   "conf": 0.54
+  },
+  {
+   "text": "Total",
+   "conf": 0.9
+  },
+  {
+   "text": ":",
+   "conf": 0.9
+  },
+  {
+   "text": "R201150.00",
+   "conf": 0.9
+  },
+  {
+   "text": "R24",
+   "conf": 0.95
+  },
+  {
+   "text": "702.63",
+   "conf": 0.95
+  },
+  {
+   "text": "Output",
+   "conf": 0.65
+  },
+  {
+   "text": "Tax",
+   "conf": 0.96
+  },
+  {
+   "text": "R176",
+   "conf": 0.92
+  },
+  {
+   "text": "447.38",
+   "conf": 0.71
+  },
+  {
+   "text": "Total",
+   "conf": 0.96
+  },
+  {
+   "text": "Exel",
+   "conf": 0.96
+  },
+  {
+   "text": "GRATUITY",
+   "conf": 0.89
+  },
+  {
+   "text": "a.",
+   "conf": 0.19
+  },
+  {
+   "text": "ns",
+   "conf": 0.31
+  }
+ ],
+ "mean_conf": 0.8387,
+ "low_conf_share": 0.0549,
+ "latency_ms": 921,
+ "fields": {
+  "company": "GREY GOOSE BAP",
+  "date": "2017-11-29",
+  "total": 447.38
+ },
+ "rule_reasons": [
+  "total_multiple_keyword_amounts"
+ ],
+ "total_candidates": [
+  201.0,
+  447.38
+ ],
+ "key": "W0153_0191e874c74a"
+}

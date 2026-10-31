@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.6-flash",
+ "provider": "gemini",
+ "raw_text": "{\"vendor\": \"QSR STORES SDN. BHD.\", \"date\": \"2018-09-21\", \"subtotal\": 43.85, \"tax\": 2.63, \"tip\": null, \"discount\": null, \"total\": 46.5, \"currency\": \"MYR\", \"confidence\": 0.98, \"notes\": null}",
+ "data": {
+  "vendor": "QSR STORES SDN. BHD.",
+  "date": "2018-09-21",
+  "subtotal": 43.85,
+  "tax": 2.63,
+  "tip": null,
+  "discount": null,
+  "total": 46.5,
+  "currency": "MYR",
+  "confidence": 0.98,
+  "notes": null
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1469,
+  "output_tokens": 88,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.001432,
+ "latency_ms": 1672,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.6-flash",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.6-flash"
+ ],
+ "key": "W0089_d06b2e3863ba"
+}

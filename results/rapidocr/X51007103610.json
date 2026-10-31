@@ -1,0 +1,165 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "SUNWA 28062-8.",
+  "3(80407",
+  "MR.D.I.Y.(M)SDN BHD",
+  "(C0.REG:860671-D)",
+  "10T1851-A&1851-B,JALAN KPB6,",
+  "KAWASAN PERINDUSTRIAN BALAKONG,",
+  "43300 SERI KEMBANGAN,SELANGOR",
+  "(GSTIDN0:000306020352)",
+  "(IOI PUCHONG)",
+  "-IAX INVOICE-",
+  "MEN SOCKS *S",
+  "JC11/2-12/360 9033392 2X2.50 5.00",
+  "Item(s):1 Qty(s):2",
+  "Total Incl.GSI@6% RM5.00 RM 5.00",
+  "CASH",
+  "GST @6% included in total RM 0.28",
+  "14-04-1817:49SH01ZJ86 T1 R000117052",
+  "OPERATOR IRAINEE CASHIER",
+  "EXCHANGE ARE ALLOWED WITHIN",
+  "7DAY WITH RECEIPT.",
+  "STRICTLY NO CA REFUND."
+ ],
+ "tokens": [
+  {
+   "text": "SUNWA",
+   "conf": 0.9818877220153809
+  },
+  {
+   "text": "28062-8.",
+   "conf": 0.7844828851521015
+  },
+  {
+   "text": "3(80407",
+   "conf": 0.9474768894059318
+  },
+  {
+   "text": "MR.D.I.Y.(M)SDN BHD",
+   "conf": 0.9323009628998605
+  },
+  {
+   "text": "(C0.REG:860671-D)",
+   "conf": 0.9472515933653888
+  },
+  {
+   "text": "10T1851-A&1851-B,JALAN KPB6,",
+   "conf": 0.91780957366739
+  },
+  {
+   "text": "KAWASAN PERINDUSTRIAN BALAKONG,",
+   "conf": 0.9287148194928323
+  },
+  {
+   "text": "43300 SERI KEMBANGAN,SELANGOR",
+   "conf": 0.9403906300150114
+  },
+  {
+   "text": "(GSTIDN0:000306020352)",
+   "conf": 0.9437795687805522
+  },
+  {
+   "text": "(IOI PUCHONG)",
+   "conf": 0.9577581469829266
+  },
+  {
+   "text": "-IAX INVOICE-",
+   "conf": 0.9350082736748916
+  },
+  {
+   "text": "*S",
+   "conf": 0.9871937334537506
+  },
+  {
+   "text": "MEN SOCKS",
+   "conf": 0.9673374229007297
+  },
+  {
+   "text": "JC11/2-12/360",
+   "conf": 0.9735207099180955
+  },
+  {
+   "text": "2X2.50",
+   "conf": 0.9601437548796335
+  },
+  {
+   "text": "5.00",
+   "conf": 0.9995346963405609
+  },
+  {
+   "text": "9033392",
+   "conf": 0.9974632433482579
+  },
+  {
+   "text": "Qty(s):2",
+   "conf": 0.8510406017303467
+  },
+  {
+   "text": "Item(s):1",
+   "conf": 0.8688760797182719
+  },
+  {
+   "text": "RM5.00",
+   "conf": 0.9971683422724406
+  },
+  {
+   "text": "Total Incl.GSI@6%",
+   "conf": 0.9169166754273808
+  },
+  {
+   "text": "RM 5.00",
+   "conf": 0.9629230669566563
+  },
+  {
+   "text": "CASH",
+   "conf": 0.9893106371164322
+  },
+  {
+   "text": "RM 0.28",
+   "conf": 0.9572446090834481
+  },
+  {
+   "text": "GST @6% included in total",
+   "conf": 0.9144503426551819
+  },
+  {
+   "text": "T1 R000117052",
+   "conf": 0.9570137812541082
+  },
+  {
+   "text": "14-04-1817:49SH01ZJ86",
+   "conf": 0.9887897939909072
+  },
+  {
+   "text": "OPERATOR IRAINEE CASHIER",
+   "conf": 0.9427241459488869
+  },
+  {
+   "text": "EXCHANGE ARE ALLOWED WITHIN",
+   "conf": 0.9506288833088345
+  },
+  {
+   "text": "7DAY WITH RECEIPT.",
+   "conf": 0.9031648437182108
+  },
+  {
+   "text": "STRICTLY NO CA REFUND.",
+   "conf": 0.8871864933859218
+  }
+ ],
+ "mean_conf": 0.9416,
+ "low_conf_share": 0.0,
+ "latency_ms": 4814,
+ "fields": {
+  "company": "MR D I Y SDN BHD",
+  "date": "2012-02-11",
+  "total": 5.0
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  5.0
+ ],
+ "key": "X51007103610"
+}

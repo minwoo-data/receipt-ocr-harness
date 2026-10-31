@@ -1,0 +1,317 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "KEDAIPAPANYEWCHUAN",
+  "(0005583085-K)",
+  "LOT276JALANBANTING",
+  "43800DENGKIL,SELANGOR",
+  "TEL:03-87686092 FAX.03-87686092",
+  "GSTID:000781500416",
+  "TAXINVOICE",
+  "Bill To:",
+  "SUCIALAM JAYA TRANSPORT",
+  "NO1JALANAMAN2",
+  "TAMANDESA43800",
+  "DENGKILSELANGOR",
+  "017-6057770",
+  "DocNo CS00012013 Date:20/04/2018",
+  "Cashier :USER Time:16:03:00",
+  "Salesperson: Ref.:",
+  "(GST) (GST)",
+  "Item Qty S/Price S/Price Amount Tax",
+  "101756 5 16.50 17.49 87.45 SR",
+  "SIMEN",
+  "Total Qty: 87.45",
+  "Total Sales(ExcludingGST) 82.50",
+  "Discount: 0.00",
+  "Total GST: 4.95",
+  "Rounding 0.00",
+  "Total Sales(Inclusive of GsT): 87.45",
+  "CASH: 87.45",
+  "Change: 0.00",
+  "GSTSUMMARY",
+  "Tax Code % Amt(RM) Tax(RM)",
+  "SR 6 82.50 4.95",
+  "Total: 82.50 4.95",
+  "GOODSSOLD ARENOT RETURNABLE.THANKYOU"
+ ],
+ "tokens": [
+  {
+   "text": "KEDAIPAPANYEWCHUAN",
+   "conf": 0.9906391402085623
+  },
+  {
+   "text": "(0005583085-K)",
+   "conf": 0.9666217948709216
+  },
+  {
+   "text": "LOT276JALANBANTING",
+   "conf": 0.9917645222610898
+  },
+  {
+   "text": "43800DENGKIL,SELANGOR",
+   "conf": 0.9605082358632769
+  },
+  {
+   "text": "TEL:03-87686092",
+   "conf": 0.9911567012468974
+  },
+  {
+   "text": "FAX.03-87686092",
+   "conf": 0.9880047082901001
+  },
+  {
+   "text": "GSTID:000781500416",
+   "conf": 0.9732130567232767
+  },
+  {
+   "text": "TAXINVOICE",
+   "conf": 0.9944703936576843
+  },
+  {
+   "text": "Bill To:",
+   "conf": 0.9214910939335823
+  },
+  {
+   "text": "SUCIALAM JAYA TRANSPORT",
+   "conf": 0.955637962921806
+  },
+  {
+   "text": "NO1JALANAMAN2",
+   "conf": 0.9905143196766193
+  },
+  {
+   "text": "TAMANDESA43800",
+   "conf": 0.9913017536912646
+  },
+  {
+   "text": "DENGKILSELANGOR",
+   "conf": 0.9950231154759724
+  },
+  {
+   "text": "017-6057770",
+   "conf": 0.9980801831592213
+  },
+  {
+   "text": "DocNo",
+   "conf": 0.9892555236816406
+  },
+  {
+   "text": "CS00012013",
+   "conf": 0.9967498898506164
+  },
+  {
+   "text": "Date:20/04/2018",
+   "conf": 0.9882824301719666
+  },
+  {
+   "text": "Cashier",
+   "conf": 0.9939895612852914
+  },
+  {
+   "text": ":USER",
+   "conf": 0.8812234163284302
+  },
+  {
+   "text": "Time:16:03:00",
+   "conf": 0.9694672502004184
+  },
+  {
+   "text": "Salesperson:",
+   "conf": 0.966986874739329
+  },
+  {
+   "text": "Ref.:",
+   "conf": 0.892858362197876
+  },
+  {
+   "text": "(GST)",
+   "conf": 0.9880648374557495
+  },
+  {
+   "text": "(GST)",
+   "conf": 0.983191442489624
+  },
+  {
+   "text": "Item",
+   "conf": 0.9092203974723816
+  },
+  {
+   "text": "Qty",
+   "conf": 0.8819130659103394
+  },
+  {
+   "text": "S/Price",
+   "conf": 0.9579211643763951
+  },
+  {
+   "text": "S/Price",
+   "conf": 0.9624427301543099
+  },
+  {
+   "text": "Amount",
+   "conf": 0.9774129092693329
+  },
+  {
+   "text": "Tax",
+   "conf": 0.9840326507886251
+  },
+  {
+   "text": "101756",
+   "conf": 0.9988876978556315
+  },
+  {
+   "text": "5",
+   "conf": 0.9992189407348633
+  },
+  {
+   "text": "16.50",
+   "conf": 0.9618167638778686
+  },
+  {
+   "text": "17.49",
+   "conf": 0.9965774893760682
+  },
+  {
+   "text": "87.45",
+   "conf": 0.9978937983512879
+  },
+  {
+   "text": "SR",
+   "conf": 0.9899498224258423
+  },
+  {
+   "text": "SIMEN",
+   "conf": 0.986689031124115
+  },
+  {
+   "text": "Total Qty:",
+   "conf": 0.9358904778957366
+  },
+  {
+   "text": "87.45",
+   "conf": 0.998590064048767
+  },
+  {
+   "text": "Total Sales(ExcludingGST)",
+   "conf": 0.9527805089950562
+  },
+  {
+   "text": "82.50",
+   "conf": 0.9846636533737183
+  },
+  {
+   "text": "Discount:",
+   "conf": 0.9707000785403781
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9982193112373352
+  },
+  {
+   "text": "Total GST:",
+   "conf": 0.8931925565004348
+  },
+  {
+   "text": "4.95",
+   "conf": 0.9968194961547852
+  },
+  {
+   "text": "Rounding",
+   "conf": 0.9973204806447029
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9979501366615295
+  },
+  {
+   "text": "Total Sales(Inclusive of GsT):",
+   "conf": 0.9204076955715815
+  },
+  {
+   "text": "87.45",
+   "conf": 0.9992462754249573
+  },
+  {
+   "text": "CASH:",
+   "conf": 0.9549480080604553
+  },
+  {
+   "text": "87.45",
+   "conf": 0.9977273106575012
+  },
+  {
+   "text": "Change:",
+   "conf": 0.9822766355105809
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9979698359966278
+  },
+  {
+   "text": "GSTSUMMARY",
+   "conf": 0.9872177898883819
+  },
+  {
+   "text": "Tax Code",
+   "conf": 0.939220741391182
+  },
+  {
+   "text": "%",
+   "conf": 0.9259865283966064
+  },
+  {
+   "text": "Amt(RM)",
+   "conf": 0.9355502554348537
+  },
+  {
+   "text": "Tax(RM)",
+   "conf": 0.942165059702737
+  },
+  {
+   "text": "SR",
+   "conf": 0.9921970069408417
+  },
+  {
+   "text": "6",
+   "conf": 0.9940432906150818
+  },
+  {
+   "text": "82.50",
+   "conf": 0.9936345100402832
+  },
+  {
+   "text": "4.95",
+   "conf": 0.9982199370861053
+  },
+  {
+   "text": "Total:",
+   "conf": 0.9922597706317902
+  },
+  {
+   "text": "82.50",
+   "conf": 0.9986198782920838
+  },
+  {
+   "text": "4.95",
+   "conf": 0.9985046088695526
+  },
+  {
+   "text": "GOODSSOLD ARENOT RETURNABLE.THANKYOU",
+   "conf": 0.9482108097937372
+  }
+ ],
+ "mean_conf": 0.9725,
+ "low_conf_share": 0.0,
+ "latency_ms": 15446,
+ "fields": {
+  "company": "KEDAIPAPANYEWCHUAN",
+  "date": "2018-04-20",
+  "total": 87.45
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  87.45
+ ],
+ "key": "X51008142058"
+}

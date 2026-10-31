@@ -1,0 +1,227 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "HOME MASTER HARDWARE&",
+  "ELECTRICAL",
+  "NO.113G & 115G, JALAN SETIA GEMBILANG",
+  "U13/EG BANDAR SETIA ALAM,",
+  "40170BANDARSETIAALAM,",
+  "SELANGOR.",
+  "Company Reg No. :SA037115S1-P",
+  "GST Reg No. :001637511168",
+  "TAX LVOICE",
+  "Involce No.: CS67832",
+  "Date: 22/12/201714:03",
+  "Cashler#： CASHIER",
+  "RM Code",
+  "24MMX7Y M.ONE TAPE",
+  "1.00 15.90 15.90 SR",
+  "Gubtotal: 15.90",
+  "Total Excl.of GST 15.00",
+  "Totai Incl.of GST 15.90",
+  "Total Amt Rounded 15.90",
+  "Payment: 50.00",
+  "Change Due : 34.10",
+  "Total ltem(6): 1",
+  "G Amouni(RM) Tax (RM)",
+  "SR @6% 15.00 0.90",
+  "THANK YOU",
+  "ANY GOOOSRETURNPLEASEDO WTHIN",
+  "7OAYSWTH ORIGINALRECEIPT TQM"
+ ],
+ "tokens": [
+  {
+   "text": "HOME MASTER HARDWARE&",
+   "conf": 0.9493173020226615
+  },
+  {
+   "text": "ELECTRICAL",
+   "conf": 0.991318941116333
+  },
+  {
+   "text": "NO.113G & 115G, JALAN SETIA GEMBILANG",
+   "conf": 0.9482734477197802
+  },
+  {
+   "text": "U13/EG BANDAR SETIA ALAM,",
+   "conf": 0.8967647886276245
+  },
+  {
+   "text": "40170BANDARSETIAALAM,",
+   "conf": 0.9434088809149606
+  },
+  {
+   "text": "SELANGOR.",
+   "conf": 0.9579885668224759
+  },
+  {
+   "text": "Company Reg No. :SA037115S1-P",
+   "conf": 0.9378680771794813
+  },
+  {
+   "text": "GST Reg No. :001637511168",
+   "conf": 0.9538470458984375
+  },
+  {
+   "text": "TAX LVOICE",
+   "conf": 0.8805332601070404
+  },
+  {
+   "text": "Involce No.:",
+   "conf": 0.9587273349364599
+  },
+  {
+   "text": "CS67832",
+   "conf": 0.8752653513635907
+  },
+  {
+   "text": "Date:",
+   "conf": 0.9720929741859436
+  },
+  {
+   "text": "22/12/201714:03",
+   "conf": 0.9847158988316854
+  },
+  {
+   "text": "Cashler#：",
+   "conf": 0.8907948401239183
+  },
+  {
+   "text": "CASHIER",
+   "conf": 0.975294189793723
+  },
+  {
+   "text": "RM",
+   "conf": 0.9870410859584808
+  },
+  {
+   "text": "Code",
+   "conf": 0.9743117094039917
+  },
+  {
+   "text": "24MMX7Y M.ONE TAPE",
+   "conf": 0.9445662299791971
+  },
+  {
+   "text": "1.00",
+   "conf": 0.9968424141407013
+  },
+  {
+   "text": "15.90",
+   "conf": 0.9966641664505005
+  },
+  {
+   "text": "15.90",
+   "conf": 0.9973610401153564
+  },
+  {
+   "text": "SR",
+   "conf": 0.7863328456878662
+  },
+  {
+   "text": "Gubtotal:",
+   "conf": 0.9511306219630771
+  },
+  {
+   "text": "15.90",
+   "conf": 0.9974421262741089
+  },
+  {
+   "text": "Total Excl.of GST",
+   "conf": 0.9164831427966847
+  },
+  {
+   "text": "15.00",
+   "conf": 0.9948550820350647
+  },
+  {
+   "text": "Totai Incl.of GST",
+   "conf": 0.8884400585118462
+  },
+  {
+   "text": "15.90",
+   "conf": 0.9939151406288147
+  },
+  {
+   "text": "Total Amt Rounded",
+   "conf": 0.934282660484314
+  },
+  {
+   "text": "15.90",
+   "conf": 0.9964546799659729
+  },
+  {
+   "text": "Payment:",
+   "conf": 0.977748267352581
+  },
+  {
+   "text": "50.00",
+   "conf": 0.9976161241531372
+  },
+  {
+   "text": "Change Due :",
+   "conf": 0.9092598954836527
+  },
+  {
+   "text": "34.10",
+   "conf": 0.9910878539085388
+  },
+  {
+   "text": "Total ltem(6): 1",
+   "conf": 0.8636493198573589
+  },
+  {
+   "text": "G",
+   "conf": 0.9695901274681091
+  },
+  {
+   "text": "Amouni(RM)",
+   "conf": 0.8817768633365631
+  },
+  {
+   "text": "Tax (RM)",
+   "conf": 0.9063545316457748
+  },
+  {
+   "text": "SR",
+   "conf": 0.9428211152553558
+  },
+  {
+   "text": "@6%",
+   "conf": 0.9872893293698629
+  },
+  {
+   "text": "15.00",
+   "conf": 0.9843200325965882
+  },
+  {
+   "text": "0.90",
+   "conf": 0.9970659017562866
+  },
+  {
+   "text": "THANK YOU",
+   "conf": 0.9398634831110636
+  },
+  {
+   "text": "ANY GOOOSRETURNPLEASEDO WTHIN",
+   "conf": 0.9421011086167961
+  },
+  {
+   "text": "7OAYSWTH ORIGINALRECEIPT TQM",
+   "conf": 0.9055908705507006
+  }
+ ],
+ "mean_conf": 0.9482,
+ "low_conf_share": 0.0,
+ "latency_ms": 4655,
+ "fields": {
+  "company": "HOME MASTER HARDWARE",
+  "date": "2017-12-22",
+  "total": 15.9
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  15.9
+ ],
+ "key": "X51005301659"
+}

@@ -1,0 +1,502 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "PASAR RAYA MEGA MAJU",
+  "(SEMENYIH) SDN BHD",
+  "(767840-W)",
+  "NO 24, 25 & 26,",
+  "JALAN PUSAT PERNIAGAAN BUNGA RAYA 4,",
+  "PUSAT PERNIAGAAN BUNGA RAYA,",
+  "TEL: FAX:",
+  "coveeeveneanaree tT Reg No: 000746659840",
+  "| Invoice No: 01-283886",
+  "Date : 03/07/2018 5:22:43 PM",
+  "Cashier : SITI",
+  "| TAX INVOICE",
+  "| Description Qty Price Amount",
+  "— \"FSRO 9555544201075 gS BAT QO",
+  "PRO BALANCE 400GM - BEFF",
+  "| 2 SRO 9555544201198 3 = 4.38 13.05",
+  "PRO BALANCE LAMB 400GM",
+  "Discount 0.00",
+  "Total Sales inclusive GST @0.00%: = ~~ ~~ 3045",
+  "Cash Received ee 90-50",
+  "Change 005",
+  "mary % Amourit(RM) Tax(RM)",
+  "Si 0.00 30.45 00",
+  "Thank You. Please Coms Again",
+  "Terirna Kasi i Datang",
+  "Go id Are Not Refuna \\nu iable"
+ ],
+ "tokens": [
+  {
+   "text": "PASAR",
+   "conf": 0.9
+  },
+  {
+   "text": "RAYA",
+   "conf": 0.96
+  },
+  {
+   "text": "MEGA",
+   "conf": 0.91
+  },
+  {
+   "text": "MAJU",
+   "conf": 0.89
+  },
+  {
+   "text": "(SEMENYIH)",
+   "conf": 0.9
+  },
+  {
+   "text": "SDN",
+   "conf": 0.96
+  },
+  {
+   "text": "BHD",
+   "conf": 0.96
+  },
+  {
+   "text": "(767840-W)",
+   "conf": 0.92
+  },
+  {
+   "text": "NO",
+   "conf": 0.95
+  },
+  {
+   "text": "24,",
+   "conf": 0.95
+  },
+  {
+   "text": "25",
+   "conf": 0.93
+  },
+  {
+   "text": "&",
+   "conf": 0.92
+  },
+  {
+   "text": "26,",
+   "conf": 0.96
+  },
+  {
+   "text": "JALAN",
+   "conf": 0.92
+  },
+  {
+   "text": "PUSAT",
+   "conf": 0.92
+  },
+  {
+   "text": "PERNIAGAAN",
+   "conf": 0.91
+  },
+  {
+   "text": "BUNGA",
+   "conf": 0.93
+  },
+  {
+   "text": "RAYA",
+   "conf": 0.95
+  },
+  {
+   "text": "4,",
+   "conf": 0.95
+  },
+  {
+   "text": "PUSAT",
+   "conf": 0.92
+  },
+  {
+   "text": "PERNIAGAAN",
+   "conf": 0.91
+  },
+  {
+   "text": "BUNGA",
+   "conf": 0.88
+  },
+  {
+   "text": "RAYA,",
+   "conf": 0.96
+  },
+  {
+   "text": "TEL:",
+   "conf": 0.79
+  },
+  {
+   "text": "FAX:",
+   "conf": 0.96
+  },
+  {
+   "text": "coveeeveneanaree",
+   "conf": 0.0
+  },
+  {
+   "text": "tT",
+   "conf": 0.04
+  },
+  {
+   "text": "Reg",
+   "conf": 0.04
+  },
+  {
+   "text": "No:",
+   "conf": 0.92
+  },
+  {
+   "text": "000746659840",
+   "conf": 0.63
+  },
+  {
+   "text": "|",
+   "conf": 0.88
+  },
+  {
+   "text": "Invoice",
+   "conf": 0.51
+  },
+  {
+   "text": "No:",
+   "conf": 0.42
+  },
+  {
+   "text": "01-283886",
+   "conf": 0.89
+  },
+  {
+   "text": "Date",
+   "conf": 0.97
+  },
+  {
+   "text": ":",
+   "conf": 0.64
+  },
+  {
+   "text": "03/07/2018",
+   "conf": 0.96
+  },
+  {
+   "text": "5:22:43",
+   "conf": 0.96
+  },
+  {
+   "text": "PM",
+   "conf": 0.96
+  },
+  {
+   "text": "Cashier",
+   "conf": 0.96
+  },
+  {
+   "text": ":",
+   "conf": 0.85
+  },
+  {
+   "text": "SITI",
+   "conf": 0.91
+  },
+  {
+   "text": "|",
+   "conf": 0.58
+  },
+  {
+   "text": "TAX",
+   "conf": 0.96
+  },
+  {
+   "text": "INVOICE",
+   "conf": 0.96
+  },
+  {
+   "text": "|",
+   "conf": 0.67
+  },
+  {
+   "text": "Description",
+   "conf": 0.83
+  },
+  {
+   "text": "Qty",
+   "conf": 0.94
+  },
+  {
+   "text": "Price",
+   "conf": 0.85
+  },
+  {
+   "text": "Amount",
+   "conf": 0.88
+  },
+  {
+   "text": "—",
+   "conf": 0.1
+  },
+  {
+   "text": "\"FSRO",
+   "conf": 0.0
+  },
+  {
+   "text": "9555544201075",
+   "conf": 0.8
+  },
+  {
+   "text": "gS",
+   "conf": 0.41
+  },
+  {
+   "text": "BAT",
+   "conf": 0.47
+  },
+  {
+   "text": "QO",
+   "conf": 0.43
+  },
+  {
+   "text": "PRO",
+   "conf": 0.96
+  },
+  {
+   "text": "BALANCE",
+   "conf": 0.93
+  },
+  {
+   "text": "400GM",
+   "conf": 0.9
+  },
+  {
+   "text": "-",
+   "conf": 0.9
+  },
+  {
+   "text": "BEFF",
+   "conf": 0.9
+  },
+  {
+   "text": "|",
+   "conf": 0.64
+  },
+  {
+   "text": "2",
+   "conf": 0.31
+  },
+  {
+   "text": "SRO",
+   "conf": 0.31
+  },
+  {
+   "text": "9555544201198",
+   "conf": 0.71
+  },
+  {
+   "text": "3",
+   "conf": 0.33
+  },
+  {
+   "text": "=",
+   "conf": 0.24
+  },
+  {
+   "text": "4.38",
+   "conf": 0.24
+  },
+  {
+   "text": "13.05",
+   "conf": 0.95
+  },
+  {
+   "text": "PRO",
+   "conf": 0.96
+  },
+  {
+   "text": "BALANCE",
+   "conf": 0.96
+  },
+  {
+   "text": "LAMB",
+   "conf": 0.92
+  },
+  {
+   "text": "400GM",
+   "conf": 0.91
+  },
+  {
+   "text": "Discount",
+   "conf": 0.96
+  },
+  {
+   "text": "0.00",
+   "conf": 0.96
+  },
+  {
+   "text": "Total",
+   "conf": 0.96
+  },
+  {
+   "text": "Sales",
+   "conf": 0.94
+  },
+  {
+   "text": "inclusive",
+   "conf": 0.74
+  },
+  {
+   "text": "GST",
+   "conf": 0.24
+  },
+  {
+   "text": "@0.00%:",
+   "conf": 0.24
+  },
+  {
+   "text": "=",
+   "conf": 0.49
+  },
+  {
+   "text": "~~",
+   "conf": 0.47
+  },
+  {
+   "text": "~~",
+   "conf": 0.33
+  },
+  {
+   "text": "3045",
+   "conf": 0.33
+  },
+  {
+   "text": "Cash",
+   "conf": 0.96
+  },
+  {
+   "text": "Received",
+   "conf": 0.96
+  },
+  {
+   "text": "ee",
+   "conf": 0.29
+  },
+  {
+   "text": "90-50",
+   "conf": 0.54
+  },
+  {
+   "text": "Change",
+   "conf": 0.96
+  },
+  {
+   "text": "005",
+   "conf": 0.74
+  },
+  {
+   "text": "mary",
+   "conf": 0.48
+  },
+  {
+   "text": "%",
+   "conf": 0.89
+  },
+  {
+   "text": "Amourit(RM)",
+   "conf": 0.63
+  },
+  {
+   "text": "Tax(RM)",
+   "conf": 0.4
+  },
+  {
+   "text": "Si",
+   "conf": 0.65
+  },
+  {
+   "text": "0.00",
+   "conf": 0.96
+  },
+  {
+   "text": "30.45",
+   "conf": 0.95
+  },
+  {
+   "text": "00",
+   "conf": 0.95
+  },
+  {
+   "text": "Thank",
+   "conf": 0.85
+  },
+  {
+   "text": "You.",
+   "conf": 0.95
+  },
+  {
+   "text": "Please",
+   "conf": 0.52
+  },
+  {
+   "text": "Coms",
+   "conf": 0.42
+  },
+  {
+   "text": "Again",
+   "conf": 0.96
+  },
+  {
+   "text": "Terirna",
+   "conf": 0.53
+  },
+  {
+   "text": "Kasi",
+   "conf": 0.0
+  },
+  {
+   "text": "i",
+   "conf": 0.57
+  },
+  {
+   "text": "Datang",
+   "conf": 0.91
+  },
+  {
+   "text": "Go",
+   "conf": 0.96
+  },
+  {
+   "text": "id",
+   "conf": 0.5
+  },
+  {
+   "text": "Are",
+   "conf": 0.95
+  },
+  {
+   "text": "Not",
+   "conf": 0.93
+  },
+  {
+   "text": "Refuna",
+   "conf": 0.87
+  },
+  {
+   "text": "\\nu",
+   "conf": 0.74
+  },
+  {
+   "text": "iable",
+   "conf": 0.47
+  }
+ ],
+ "mean_conf": 0.7346,
+ "low_conf_share": 0.2281,
+ "latency_ms": 952,
+ "fields": {
+  "company": "PASAR RAYA MEGA MAJU SDN BHD",
+  "date": "2018-07-03",
+  "total": 0.0
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  0.0
+ ],
+ "key": "X51008164525"
+}

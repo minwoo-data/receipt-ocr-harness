@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.6-flash",
+ "provider": "gemini",
+ "raw_text": "{\"vendor\":\"MEI LET RESTAURANT\",\"date\":\"2017-01-12\",\"subtotal\":56.0,\"tax\":3.36,\"tip\":null,\"discount\":-0.01,\"total\":59.35,\"currency\":\"MYR\",\"confidence\":0.95,\"notes\":\"Rounding adjustment of -0.01 was included as discount to match final net total.\"}",
+ "data": {
+  "vendor": "MEI LET RESTAURANT",
+  "date": "2017-01-12",
+  "subtotal": 56.0,
+  "tax": 3.36,
+  "tip": null,
+  "discount": -0.01,
+  "total": 59.35,
+  "currency": "MYR",
+  "confidence": 0.95,
+  "notes": "Rounding adjustment of -0.01 was included as discount to match final net total."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1447,
+  "output_tokens": 91,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.001427,
+ "latency_ms": 1621,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.6-flash",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.6-flash"
+ ],
+ "key": "X51006334766"
+}

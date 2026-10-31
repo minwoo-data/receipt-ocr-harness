@@ -1,0 +1,201 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "LAX-Terminal2 200 World Way",
+  "Los Angeles, CA 90045",
+  "(310)301-8070",
+  "1005 KarenP",
+  "Chk 6327 RON",
+  "Ju128′1507:28AM Gst1",
+  "2 Eggs/Chz Built Burger",
+  "Add Bacon BFast 18.80",
+  "Add Sausage 1.00",
+  "Coffee Shoestring 1.00 4.40",
+  "Cash 40.00 3.45",
+  "Subtotal 28.65",
+  "Tax 2.58",
+  "Payment 31.23",
+  "Change Due 8.77",
+  "1003 Check Closed",
+  "-Ju128'1507:35AM",
+  "Thank You!!!",
+  "Like us on Yelp",
+  "Crews1972.com",
+  "WeCarelax@crews1972.com"
+ ],
+ "tokens": [
+  {
+   "text": "LAX-Terminal2",
+   "conf": 0.9290026265841264
+  },
+  {
+   "text": "200 World Way",
+   "conf": 0.9046231508255005
+  },
+  {
+   "text": "Los Angeles, CA 90045",
+   "conf": 0.9165488197689965
+  },
+  {
+   "text": "(310)301-8070",
+   "conf": 0.9440237788053659
+  },
+  {
+   "text": "1005 KarenP",
+   "conf": 0.9314038103277033
+  },
+  {
+   "text": "Chk 6327",
+   "conf": 0.956841304898262
+  },
+  {
+   "text": "RON",
+   "conf": 0.992647647857666
+  },
+  {
+   "text": "Ju128′1507:28AM",
+   "conf": 0.9440710385640462
+  },
+  {
+   "text": "Gst1",
+   "conf": 0.9395081251859665
+  },
+  {
+   "text": "Built",
+   "conf": 0.9359597444534302
+  },
+  {
+   "text": "Burger",
+   "conf": 0.993404338757197
+  },
+  {
+   "text": "Eggs/Chz",
+   "conf": 0.9726593047380447
+  },
+  {
+   "text": "2",
+   "conf": 0.6972437500953674
+  },
+  {
+   "text": "Add Bacon BFast",
+   "conf": 0.9506654977798462
+  },
+  {
+   "text": "18.80",
+   "conf": 0.9975059270858765
+  },
+  {
+   "text": "Add Sausage",
+   "conf": 0.988015662540089
+  },
+  {
+   "text": "1.00",
+   "conf": 0.9968156814575195
+  },
+  {
+   "text": "Shoestring",
+   "conf": 0.9940271019935608
+  },
+  {
+   "text": "1.00",
+   "conf": 0.994660958647728
+  },
+  {
+   "text": "Coffee",
+   "conf": 0.9911118547121683
+  },
+  {
+   "text": "4.40",
+   "conf": 0.9922257959842682
+  },
+  {
+   "text": "3.45",
+   "conf": 0.9931275695562363
+  },
+  {
+   "text": "Cash",
+   "conf": 0.9931900352239609
+  },
+  {
+   "text": "40.00",
+   "conf": 0.9970358967781067
+  },
+  {
+   "text": "Subtotal",
+   "conf": 0.9947280362248421
+  },
+  {
+   "text": "28.65",
+   "conf": 0.9631454586982727
+  },
+  {
+   "text": "Tax",
+   "conf": 0.9818037947018942
+  },
+  {
+   "text": "2.58",
+   "conf": 0.9957677274942398
+  },
+  {
+   "text": "Payment",
+   "conf": 0.9929260611534119
+  },
+  {
+   "text": "31.23",
+   "conf": 0.9916555643081665
+  },
+  {
+   "text": "Change Due",
+   "conf": 0.9493611633777619
+  },
+  {
+   "text": "8.77",
+   "conf": 0.998526319861412
+  },
+  {
+   "text": "1003 Check Closed",
+   "conf": 0.9657330898677602
+  },
+  {
+   "text": "-Ju128'1507:35AM",
+   "conf": 0.9306593760848045
+  },
+  {
+   "text": "Thank You!!!",
+   "conf": 0.9104516754547755
+  },
+  {
+   "text": "Like us on Yelp",
+   "conf": 0.9581491629282634
+  },
+  {
+   "text": "Crews1972.com",
+   "conf": 0.9864443082075852
+  },
+  {
+   "text": "WeCarelax@crews1972.com",
+   "conf": 0.9640299651933752
+  }
+ ],
+ "mean_conf": 0.9613,
+ "low_conf_share": 0.0,
+ "latency_ms": 2683,
+ "fields": {
+  "company": "LAX TERMINAL2 200 WORLD WAY",
+  "date": null,
+  "total": 40.0
+ },
+ "rule_reasons": [
+  "date_not_found",
+  "total_no_keyword_fallback_max"
+ ],
+ "total_candidates": [
+  40.0,
+  3.45,
+  28.65,
+  2.58,
+  31.23,
+  8.77
+ ],
+ "key": "W0120_296f92a5407b"
+}

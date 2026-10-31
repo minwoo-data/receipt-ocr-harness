@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.1-flash-lite",
+ "provider": "gemini",
+ "raw_text": "{\n  \"vendor\": \"Auntie Anne's\",\n  \"date\": \"2014-09-05\",\n  \"subtotal\": 3.58,\n  \"tax\": 0.22,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 3.80,\n  \"currency\": \"MYR\",\n  \"confidence\": 0.95,\n  \"notes\": \"The vendor name is partially obscured but identifiable as Auntie Anne's.\"\n}",
+ "data": {
+  "vendor": "Auntie Anne's",
+  "date": "2014-09-05",
+  "subtotal": 3.58,
+  "tax": 0.22,
+  "tip": null,
+  "discount": null,
+  "total": 3.8,
+  "currency": "MYR",
+  "confidence": 0.95,
+  "notes": "The vendor name is partially obscured but identifiable as Auntie Anne's."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1433,
+  "output_tokens": 122,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.000541,
+ "latency_ms": 1627,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.1-flash-lite",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.1-flash-lite"
+ ],
+ "key": "W0071_73b3503ee99e"
+}

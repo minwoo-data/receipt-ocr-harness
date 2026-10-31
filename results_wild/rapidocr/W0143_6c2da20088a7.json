@@ -1,0 +1,219 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "Gaucho Grill",
+  "One North Broadway",
+  "Whlte Plains NY 10601",
+  "Tel.(914)437-9966",
+  "Order84017",
+  "10/16/159:32PHCheck81055",
+  "Table 10Cust.3Server7Facundo",
+  "1TUNA CEVICHE 16.00",
+  "1Caesar Salad 10.00",
+  "1Surf and Turf 46.00",
+  "1Churrasco 32.00",
+  "1Parrillada 38.00",
+  "1Side Asparagus 9.00",
+  "1Potato Hedges 7.00",
+  "1POLENTA SP 14.00",
+  "1Creme Brulee 8.00",
+  "1Sorbets 00'8",
+  "2IcedTea 8.00",
+  "1Saratoga Flat 6.00",
+  "2CABSAUV GL 24.00",
+  "2Dirty Gaucho 24.00",
+  "Taxable: 250.00",
+  "Sub-total: 250.00",
+  "Tax: 20.94",
+  "TotalDue: 270.94"
+ ],
+ "tokens": [
+  {
+   "text": "Gaucho Grill",
+   "conf": 0.9452042430639267
+  },
+  {
+   "text": "One North Broadway",
+   "conf": 0.914017551475101
+  },
+  {
+   "text": "Whlte Plains NY 10601",
+   "conf": 0.8852018344969976
+  },
+  {
+   "text": "Tel.(914)437-9966",
+   "conf": 0.9340984505765578
+  },
+  {
+   "text": "Order84017",
+   "conf": 0.9528020441532135
+  },
+  {
+   "text": "10/16/159:32PHCheck81055",
+   "conf": 0.9472023099660873
+  },
+  {
+   "text": "Table 10Cust.3Server7Facundo",
+   "conf": 0.9687067078692573
+  },
+  {
+   "text": "1TUNA CEVICHE",
+   "conf": 0.9526820870546194
+  },
+  {
+   "text": "16.00",
+   "conf": 0.9933487057685852
+  },
+  {
+   "text": "1Caesar Salad",
+   "conf": 0.9748841615823599
+  },
+  {
+   "text": "10.00",
+   "conf": 0.9915356278419495
+  },
+  {
+   "text": "1Surf and Turf",
+   "conf": 0.9460985958576202
+  },
+  {
+   "text": "46.00",
+   "conf": 0.983551824092865
+  },
+  {
+   "text": "1Churrasco",
+   "conf": 0.9827554404735566
+  },
+  {
+   "text": "32.00",
+   "conf": 0.9941797256469727
+  },
+  {
+   "text": "1Parrillada",
+   "conf": 0.9358847791498358
+  },
+  {
+   "text": "38.00",
+   "conf": 0.9945330381393432
+  },
+  {
+   "text": "1Side Asparagus",
+   "conf": 0.9269986550013224
+  },
+  {
+   "text": "9.00",
+   "conf": 0.9940254539251328
+  },
+  {
+   "text": "1Potato Hedges",
+   "conf": 0.9299078072820391
+  },
+  {
+   "text": "7.00",
+   "conf": 0.9906629770994186
+  },
+  {
+   "text": "1POLENTA SP",
+   "conf": 0.9566158164631237
+  },
+  {
+   "text": "14.00",
+   "conf": 0.9948777198791504
+  },
+  {
+   "text": "1Creme Brulee",
+   "conf": 0.9553833603858948
+  },
+  {
+   "text": "8.00",
+   "conf": 0.9928973466157913
+  },
+  {
+   "text": "1Sorbets",
+   "conf": 0.9886574000120163
+  },
+  {
+   "text": "00'8",
+   "conf": 0.8169098421931267
+  },
+  {
+   "text": "2IcedTea",
+   "conf": 0.9726958349347115
+  },
+  {
+   "text": "8.00",
+   "conf": 0.9943545907735825
+  },
+  {
+   "text": "1Saratoga Flat",
+   "conf": 0.9692152738571167
+  },
+  {
+   "text": "6.00",
+   "conf": 0.9896061271429062
+  },
+  {
+   "text": "2CABSAUV GL",
+   "conf": 0.9549755508249457
+  },
+  {
+   "text": "24.00",
+   "conf": 0.990628981590271
+  },
+  {
+   "text": "2Dirty Gaucho",
+   "conf": 0.9352162296955402
+  },
+  {
+   "text": "24.00",
+   "conf": 0.9951125979423523
+  },
+  {
+   "text": "Taxable:",
+   "conf": 0.9848924949765205
+  },
+  {
+   "text": "250.00",
+   "conf": 0.9944952328999838
+  },
+  {
+   "text": "Sub-total:",
+   "conf": 0.9901249647140503
+  },
+  {
+   "text": "250.00",
+   "conf": 0.9927970667680105
+  },
+  {
+   "text": "Tax:",
+   "conf": 0.9827506840229034
+  },
+  {
+   "text": "20.94",
+   "conf": 0.9944745421409606
+  },
+  {
+   "text": "TotalDue:",
+   "conf": 0.9482995933956571
+  },
+  {
+   "text": "270.94",
+   "conf": 0.9984094599882761
+  }
+ ],
+ "mean_conf": 0.9659,
+ "low_conf_share": 0.0,
+ "latency_ms": 3143,
+ "fields": {
+  "company": "GAUCHO GRILL",
+  "date": null,
+  "total": 270.94
+ },
+ "rule_reasons": [
+  "date_not_found"
+ ],
+ "total_candidates": [
+  270.94
+ ],
+ "key": "W0143_6c2da20088a7"
+}

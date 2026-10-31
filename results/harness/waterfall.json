@@ -1,0 +1,56 @@
+[
+ {
+  "tier": "t2",
+  "n": 127,
+  "model_errors": 25,
+  "flagged": 37,
+  "errors_caught": 18,
+  "errors_leaked": 7,
+  "false_flags": 19,
+  "verifier_recall": 0.72,
+  "verifier_precision": 0.4865,
+  "flag_counts": {
+   "G_ARITH": 24,
+   "G_AGREE_TOTAL": 11,
+   "G_AGREE_DATE": 5,
+   "G_RANGE": 1,
+   "G_MISSING": 1,
+   "G_DATE": 1
+  }
+ },
+ {
+  "tier": "t3",
+  "n": 300,
+  "model_errors": 8,
+  "flagged": 20,
+  "errors_caught": 5,
+  "errors_leaked": 3,
+  "false_flags": 15,
+  "verifier_recall": 0.625,
+  "verifier_precision": 0.25,
+  "flag_counts": {
+   "G_ARITH": 9,
+   "G_AGREE_DATE": 6,
+   "G_AGREE_TOTAL": 3,
+   "G_DATE": 1,
+   "G_RANGE": 1
+  }
+ },
+ {
+  "tier": "t4",
+  "n": 300,
+  "model_errors": 6,
+  "flagged": 22,
+  "errors_caught": 4,
+  "errors_leaked": 2,
+  "false_flags": 18,
+  "verifier_recall": 0.6667,
+  "verifier_precision": 0.1818,
+  "flag_counts": {
+   "G_ARITH": 12,
+   "G_AGREE_DATE": 7,
+   "G_AGREE_TOTAL": 3,
+   "G_RANGE": 2
+  }
+ }
+]

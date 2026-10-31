@@ -1,0 +1,208 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "Pizza Hut",
+  "SMMasinag",
+  "Complete survey",
+  "atpizzahutfeedback.com.ph",
+  "put valid code on receipt",
+  "to ciaim FREE BANANA SPLIT",
+  "OFFICIAL RECEIPT",
+  "Philippine Pizza Inc.",
+  "TAXID:TIN#200-741-954-303VAT",
+  "POSID:CYBF1KA10050022",
+  "TAX-INV#: 171145",
+  "Order Paid!!!!",
+  "OR..07/257201420:40",
+  "... Dine In Guests: l Table:A1",
+  "Store.... SMnasinag 47284 joanB",
+  "Paid..... 21:08",
+  "1 CAJUN FISHRICE 149.00 149.00",
+  "1S LEMONADE 59.00 00.69",
+  "208.00",
+  "18.60",
+  "Total.......... 226.60",
+  "12% VAT Included",
+  "2",
+  "Number Items 250.00",
+  "Paid By CASH P 23.40",
+  "Change"
+ ],
+ "tokens": [
+  {
+   "text": "Pizza Hut",
+   "conf": 0.9459607270028856
+  },
+  {
+   "text": "SMMasinag",
+   "conf": 0.9146413273281522
+  },
+  {
+   "text": "Complete survey",
+   "conf": 0.9554874499638876
+  },
+  {
+   "text": "atpizzahutfeedback.com.ph",
+   "conf": 0.9814699721336365
+  },
+  {
+   "text": "put valid code on receipt",
+   "conf": 0.9639839696884155
+  },
+  {
+   "text": "to ciaim FREE BANANA SPLIT",
+   "conf": 0.870934403859652
+  },
+  {
+   "text": "OFFICIAL RECEIPT",
+   "conf": 0.9698026590049267
+  },
+  {
+   "text": "Philippine Pizza Inc.",
+   "conf": 0.954047870068323
+  },
+  {
+   "text": "TAXID:TIN#200-741-954-303VAT",
+   "conf": 0.9418447869164603
+  },
+  {
+   "text": "POSID:CYBF1KA10050022",
+   "conf": 0.9845713944662184
+  },
+  {
+   "text": "TAX-INV#:",
+   "conf": 0.8483336203628116
+  },
+  {
+   "text": "171145",
+   "conf": 0.9950995345910391
+  },
+  {
+   "text": "Order Paid!!!!",
+   "conf": 0.9302101262978145
+  },
+  {
+   "text": "OR..07/257201420:40",
+   "conf": 0.8729310804291776
+  },
+  {
+   "text": "...",
+   "conf": 0.5449583828449249
+  },
+  {
+   "text": "Dine In Guests: l Table:A1",
+   "conf": 0.8890487918486962
+  },
+  {
+   "text": "47284 joanB",
+   "conf": 0.9712228883396495
+  },
+  {
+   "text": "Store....",
+   "conf": 0.9748393230968051
+  },
+  {
+   "text": "SMnasinag",
+   "conf": 0.8881973458660973
+  },
+  {
+   "text": "Paid.....",
+   "conf": 0.9261964294645522
+  },
+  {
+   "text": "21:08",
+   "conf": 0.9490448832511902
+  },
+  {
+   "text": "1",
+   "conf": 0.9813791513442993
+  },
+  {
+   "text": "CAJUN FISHRICE 149.00 149.00",
+   "conf": 0.9166650090898786
+  },
+  {
+   "text": "59.00",
+   "conf": 0.9946577072143554
+  },
+  {
+   "text": "00.69",
+   "conf": 0.5753360986709595
+  },
+  {
+   "text": "1S",
+   "conf": 0.6150599122047424
+  },
+  {
+   "text": "LEMONADE",
+   "conf": 0.9889049530029297
+  },
+  {
+   "text": "208.00",
+   "conf": 0.992270032564799
+  },
+  {
+   "text": "18.60",
+   "conf": 0.9774751901626587
+  },
+  {
+   "text": "226.60",
+   "conf": 0.9866785705089569
+  },
+  {
+   "text": "Total..........",
+   "conf": 0.9125006159146627
+  },
+  {
+   "text": "12% VAT Included",
+   "conf": 0.9484440833330154
+  },
+  {
+   "text": "2",
+   "conf": 0.9989084005355835
+  },
+  {
+   "text": "Number Items",
+   "conf": 0.9652774582306544
+  },
+  {
+   "text": "250.00",
+   "conf": 0.9942214588324229
+  },
+  {
+   "text": "CASH",
+   "conf": 0.9841398149728775
+  },
+  {
+   "text": "Paid By",
+   "conf": 0.9447828701564244
+  },
+  {
+   "text": "23.40",
+   "conf": 0.9861735463142395
+  },
+  {
+   "text": "P",
+   "conf": 0.9079725742340088
+  },
+  {
+   "text": "Change",
+   "conf": 0.9944023589293162
+  }
+ ],
+ "mean_conf": 0.9235,
+ "low_conf_share": 0.0,
+ "latency_ms": 3669,
+ "fields": {
+  "company": "OFFICIAL RECEIPT PHILIPPINE PIZZA INC",
+  "date": null,
+  "total": 226.6
+ },
+ "rule_reasons": [
+  "date_not_found"
+ ],
+ "total_candidates": [
+  226.6
+ ],
+ "key": "W0165_7e94ad8e6555"
+}

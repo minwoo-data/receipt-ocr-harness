@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.1-flash-lite",
+ "provider": "gemini",
+ "raw_text": "{\n  \"vendor\": \"Nando's Chickenland Malaysia Sdn. Bhd.\",\n  \"date\": \"2015-05-17\",\n  \"subtotal\": 55.00,\n  \"tax\": 3.63,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 64.15,\n  \"currency\": \"MYR\",\n  \"confidence\": 0.95,\n  \"notes\": \"The receipt includes a service charge of 5.50 and a rounding adjustment of 0.02.\"\n}",
+ "data": {
+  "vendor": "Nando's Chickenland Malaysia Sdn. Bhd.",
+  "date": "2015-05-17",
+  "subtotal": 55.0,
+  "tax": 3.63,
+  "tip": null,
+  "discount": null,
+  "total": 64.15,
+  "currency": "MYR",
+  "confidence": 0.95,
+  "notes": "The receipt includes a service charge of 5.50 and a rounding adjustment of 0.02."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1469,
+  "output_tokens": 136,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.000571,
+ "latency_ms": 7564,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.1-flash-lite",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.1-flash-lite"
+ ],
+ "key": "W0003_a43852905f43"
+}

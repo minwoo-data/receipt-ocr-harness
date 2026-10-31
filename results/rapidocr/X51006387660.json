@@ -1,0 +1,227 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "TANJONGHAS BOOKCENTRE (PJ) SIN BHD",
+  "CO.N0.373665-A",
+  "LOT F15,GIANT BANIAR PUTERI",
+  "JALAN PUTERI I/I,BDR FUTERI",
+  "47166 PUCHONG,SELANGOR",
+  "03-8060 4233",
+  "(NO.1D GST:002147033088)",
+  "TAXINVOICE",
+  "BILL:29631",
+  "CASH1 #18-02 02/04/201721:20",
+  "B.CODE &DESC. QTY U/FRICE AMT",
+  "9555078906927 1 2.30 2.305",
+  "INK CHINESE KIN'S ASTAR",
+  "9556939330165 1 2.08 2.00s",
+  "DOLFHIN PURE GOAT CHINESE",
+  "SUR-TOTAL 4.36",
+  "Total GST(I) 0.24",
+  "TOTAL ITEM(S):2",
+  "TOTAL QUANTITY(S):2",
+  "TOTAL INCL GST RM 4.30",
+  "PAY CASH 5.00",
+  "CHANGE RM 020",
+  "THANK YOU.PLEASE COME AGAIN",
+  "GOODS SOLD ARE NOT RETURNABLE.",
+  "GST Taxable Ant GST Ant",
+  "S-SR(1)-6% 4.86 0.24",
+  "4.30"
+ ],
+ "tokens": [
+  {
+   "text": "TANJONGHAS BOOKCENTRE (PJ) SIN BHD",
+   "conf": 0.9371951695750741
+  },
+  {
+   "text": "CO.N0.373665-A",
+   "conf": 0.9764548369816372
+  },
+  {
+   "text": "LOT F15,GIANT BANIAR PUTERI",
+   "conf": 0.9042720198631287
+  },
+  {
+   "text": "JALAN PUTERI I/I,BDR FUTERI",
+   "conf": 0.8969789014922248
+  },
+  {
+   "text": "47166 PUCHONG,SELANGOR",
+   "conf": 0.9207005676898089
+  },
+  {
+   "text": "03-8060 4233",
+   "conf": 0.9691903789838155
+  },
+  {
+   "text": "(NO.1D GST:002147033088)",
+   "conf": 0.8704779172937075
+  },
+  {
+   "text": "TAXINVOICE",
+   "conf": 0.9446542859077454
+  },
+  {
+   "text": "BILL:29631",
+   "conf": 0.9947766125202179
+  },
+  {
+   "text": "CASH1 #18-02",
+   "conf": 0.9506623397270838
+  },
+  {
+   "text": "02/04/201721:20",
+   "conf": 0.9614311059316
+  },
+  {
+   "text": "B.CODE &DESC.",
+   "conf": 0.9611164239736704
+  },
+  {
+   "text": "QTY U/FRICE",
+   "conf": 0.9370504671877081
+  },
+  {
+   "text": "AMT",
+   "conf": 0.8967072367668152
+  },
+  {
+   "text": "9555078906927",
+   "conf": 0.9917428126701942
+  },
+  {
+   "text": "1",
+   "conf": 0.9969107508659363
+  },
+  {
+   "text": "2.30",
+   "conf": 0.9952744543552399
+  },
+  {
+   "text": "2.305",
+   "conf": 0.9028723001480102
+  },
+  {
+   "text": "INK CHINESE KIN'S ASTAR",
+   "conf": 0.962521133215531
+  },
+  {
+   "text": "9556939330165",
+   "conf": 0.9957800920193012
+  },
+  {
+   "text": "1",
+   "conf": 0.9878270030021667
+  },
+  {
+   "text": "2.08",
+   "conf": 0.8731249496340752
+  },
+  {
+   "text": "2.00s",
+   "conf": 0.9911722660064697
+  },
+  {
+   "text": "DOLFHIN PURE GOAT CHINESE",
+   "conf": 0.9796872735023499
+  },
+  {
+   "text": "SUR-TOTAL",
+   "conf": 0.9615495536062453
+  },
+  {
+   "text": "4.36",
+   "conf": 0.9042225033044815
+  },
+  {
+   "text": "Total GST(I)",
+   "conf": 0.9495168526967367
+  },
+  {
+   "text": "0.24",
+   "conf": 0.9870487004518509
+  },
+  {
+   "text": "TOTAL ITEM(S):2",
+   "conf": 0.8984395543734233
+  },
+  {
+   "text": "TOTAL QUANTITY(S):2",
+   "conf": 0.9365891563264948
+  },
+  {
+   "text": "TOTAL INCL GST RM",
+   "conf": 0.9281904662356657
+  },
+  {
+   "text": "4.30",
+   "conf": 0.8843474239110947
+  },
+  {
+   "text": "PAY CASH",
+   "conf": 0.9283807426691055
+  },
+  {
+   "text": "5.00",
+   "conf": 0.8609499782323837
+  },
+  {
+   "text": "CHANGE",
+   "conf": 0.9976757764816284
+  },
+  {
+   "text": "RM",
+   "conf": 0.7612794637680054
+  },
+  {
+   "text": "020",
+   "conf": 0.5365298191706339
+  },
+  {
+   "text": "THANK YOU.PLEASE COME AGAIN",
+   "conf": 0.9494432144694858
+  },
+  {
+   "text": "GOODS SOLD ARE NOT RETURNABLE.",
+   "conf": 0.9257920026779175
+  },
+  {
+   "text": "GST",
+   "conf": 0.9901663859685262
+  },
+  {
+   "text": "Taxable Ant GST Ant",
+   "conf": 0.8775775307103207
+  },
+  {
+   "text": "S-SR(1)-6%",
+   "conf": 0.8743169337511063
+  },
+  {
+   "text": "4.86",
+   "conf": 0.8551799282431602
+  },
+  {
+   "text": "0.24",
+   "conf": 0.992644652724266
+  },
+  {
+   "text": "4.30",
+   "conf": 0.941258892416954
+  }
+ ],
+ "mean_conf": 0.9275,
+ "low_conf_share": 0.0,
+ "latency_ms": 4882,
+ "fields": {
+  "company": "TANJONGHAS BOOKCENTRE SIN BHD",
+  "date": "2017-04-02",
+  "total": 4.3
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  4.3
+ ],
+ "key": "X51006387660"
+}

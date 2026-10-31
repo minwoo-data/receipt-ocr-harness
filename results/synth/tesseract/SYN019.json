@@ -1,0 +1,284 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "NORTHSTAR HARDWARE ENTERPRISE",
+  "NO 7 JALAN INDUSTRI 4, SHAH ALAM",
+  "TAX INVOICE",
+  "Date: 20/03/2026 Time: 13:42",
+  "2 x STEAMED FISH 96.00",
+  "1 x PANADOL 10S 6.80",
+  "3 x LOCAL EGGS 10S 19.50",
+  "2 x PANADOL 10S 13.60",
+  "2 x CHICKEN RICE SET 25.80",
+  "SUBTOTAL 161.70",
+  "GST 6% 9.70",
+  "TOTAL SAVINGS 48.51",
+  "TOTAL 171.40",
+  "CASH 176.40",
+  "CHANGE 5.00",
+  "THANK YOU, PLEASE COME AGAIN"
+ ],
+ "tokens": [
+  {
+   "text": "NORTHSTAR",
+   "conf": 0.96
+  },
+  {
+   "text": "HARDWARE",
+   "conf": 0.96
+  },
+  {
+   "text": "ENTERPRISE",
+   "conf": 0.96
+  },
+  {
+   "text": "NO",
+   "conf": 0.91
+  },
+  {
+   "text": "7",
+   "conf": 0.95
+  },
+  {
+   "text": "JALAN",
+   "conf": 0.96
+  },
+  {
+   "text": "INDUSTRI",
+   "conf": 0.96
+  },
+  {
+   "text": "4,",
+   "conf": 0.96
+  },
+  {
+   "text": "SHAH",
+   "conf": 0.96
+  },
+  {
+   "text": "ALAM",
+   "conf": 0.96
+  },
+  {
+   "text": "TAX",
+   "conf": 0.95
+  },
+  {
+   "text": "INVOICE",
+   "conf": 0.95
+  },
+  {
+   "text": "Date:",
+   "conf": 0.96
+  },
+  {
+   "text": "20/03/2026",
+   "conf": 0.95
+  },
+  {
+   "text": "Time:",
+   "conf": 0.95
+  },
+  {
+   "text": "13:42",
+   "conf": 0.94
+  },
+  {
+   "text": "2",
+   "conf": 0.96
+  },
+  {
+   "text": "x",
+   "conf": 0.96
+  },
+  {
+   "text": "STEAMED",
+   "conf": 0.96
+  },
+  {
+   "text": "FISH",
+   "conf": 0.96
+  },
+  {
+   "text": "96.00",
+   "conf": 0.95
+  },
+  {
+   "text": "1",
+   "conf": 0.8
+  },
+  {
+   "text": "x",
+   "conf": 0.8
+  },
+  {
+   "text": "PANADOL",
+   "conf": 0.96
+  },
+  {
+   "text": "10S",
+   "conf": 0.96
+  },
+  {
+   "text": "6.80",
+   "conf": 0.95
+  },
+  {
+   "text": "3",
+   "conf": 0.9
+  },
+  {
+   "text": "x",
+   "conf": 0.9
+  },
+  {
+   "text": "LOCAL",
+   "conf": 0.96
+  },
+  {
+   "text": "EGGS",
+   "conf": 0.96
+  },
+  {
+   "text": "10S",
+   "conf": 0.96
+  },
+  {
+   "text": "19.50",
+   "conf": 0.95
+  },
+  {
+   "text": "2",
+   "conf": 0.93
+  },
+  {
+   "text": "x",
+   "conf": 0.93
+  },
+  {
+   "text": "PANADOL",
+   "conf": 0.96
+  },
+  {
+   "text": "10S",
+   "conf": 0.88
+  },
+  {
+   "text": "13.60",
+   "conf": 0.94
+  },
+  {
+   "text": "2",
+   "conf": 0.91
+  },
+  {
+   "text": "x",
+   "conf": 0.91
+  },
+  {
+   "text": "CHICKEN",
+   "conf": 0.96
+  },
+  {
+   "text": "RICE",
+   "conf": 0.96
+  },
+  {
+   "text": "SET",
+   "conf": 0.96
+  },
+  {
+   "text": "25.80",
+   "conf": 0.94
+  },
+  {
+   "text": "SUBTOTAL",
+   "conf": 0.96
+  },
+  {
+   "text": "161.70",
+   "conf": 0.96
+  },
+  {
+   "text": "GST",
+   "conf": 0.94
+  },
+  {
+   "text": "6%",
+   "conf": 0.96
+  },
+  {
+   "text": "9.70",
+   "conf": 0.95
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.96
+  },
+  {
+   "text": "SAVINGS",
+   "conf": 0.96
+  },
+  {
+   "text": "48.51",
+   "conf": 0.95
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.96
+  },
+  {
+   "text": "171.40",
+   "conf": 0.94
+  },
+  {
+   "text": "CASH",
+   "conf": 0.96
+  },
+  {
+   "text": "176.40",
+   "conf": 0.94
+  },
+  {
+   "text": "CHANGE",
+   "conf": 0.96
+  },
+  {
+   "text": "5.00",
+   "conf": 0.95
+  },
+  {
+   "text": "THANK",
+   "conf": 0.96
+  },
+  {
+   "text": "YOU,",
+   "conf": 0.96
+  },
+  {
+   "text": "PLEASE",
+   "conf": 0.96
+  },
+  {
+   "text": "COME",
+   "conf": 0.96
+  },
+  {
+   "text": "AGAIN",
+   "conf": 0.96
+  }
+ ],
+ "mean_conf": 0.9445,
+ "low_conf_share": 0.0,
+ "latency_ms": 2327,
+ "fields": {
+  "company": "NORTHSTAR HARDWARE ENTERPRISE",
+  "date": "2026-03-20",
+  "total": 171.4
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  171.4
+ ],
+ "key": "SYN019"
+}

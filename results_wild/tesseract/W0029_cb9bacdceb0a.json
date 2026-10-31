@@ -1,0 +1,453 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "SM eGUTTRRALL ipa MeAL BT, ACM ANEA aA",
+  "LAS PINA® Gry 1780",
+  "VAT-RED TI Oe Tee ONE # (On) SO0-4ET TO O8 tT aoe acs",
+  "MACHINE SERIAL NUMBER: 410DH364",
+  "¢",
+  "“ PHP",
+  "2060388767283 9,950.00 vA",
+  "LACOSTE STAINLESS 006 -LUCI",
+  "10% CLASS DISCOUNT 996 .00-VA",
+  "TOTAL 8,965.00",
+  "CASH 9,000, 00",
+  "CHANGE 45.00",
+  "Grp Net 2 VAT Gross",
+  "VATABLE 7,995.54 \\959. 46 8, 955,00",
+  "VAT EXEMPT 0.00 0.00 0,00",
+  ", ZERO RATED 0.00 O. 00 0.00",
+  "LOYALTY CARD BB80R 77086458595",
+  "CUSTOMER NAME MAC EXPRESS 7085458595",
+  "mp. 68 «Of. = = \\ ATORE NO. 0940073",
+  "YW, 2013 Tuesday",
+  "90511",
+  "; oh OTC oR",
+  "‘0 STANDARD"
+ ],
+ "tokens": [
+  {
+   "text": "SM",
+   "conf": 0.87
+  },
+  {
+   "text": "eGUTTRRALL",
+   "conf": 0.0
+  },
+  {
+   "text": "ipa",
+   "conf": 0.2
+  },
+  {
+   "text": "MeAL",
+   "conf": 0.0
+  },
+  {
+   "text": "BT,",
+   "conf": 0.59
+  },
+  {
+   "text": "ACM",
+   "conf": 0.83
+  },
+  {
+   "text": "ANEA",
+   "conf": 0.64
+  },
+  {
+   "text": "aA",
+   "conf": 0.32
+  },
+  {
+   "text": "LAS",
+   "conf": 0.9
+  },
+  {
+   "text": "PINA®",
+   "conf": 0.75
+  },
+  {
+   "text": "Gry",
+   "conf": 0.4
+  },
+  {
+   "text": "1780",
+   "conf": 0.83
+  },
+  {
+   "text": "VAT-RED",
+   "conf": 0.03
+  },
+  {
+   "text": "TI",
+   "conf": 0.22
+  },
+  {
+   "text": "Oe",
+   "conf": 0.09
+  },
+  {
+   "text": "Tee",
+   "conf": 0.05
+  },
+  {
+   "text": "ONE",
+   "conf": 0.16
+  },
+  {
+   "text": "#",
+   "conf": 0.31
+  },
+  {
+   "text": "(On)",
+   "conf": 0.61
+  },
+  {
+   "text": "SO0-4ET",
+   "conf": 0.0
+  },
+  {
+   "text": "TO",
+   "conf": 0.87
+  },
+  {
+   "text": "O8",
+   "conf": 0.0
+  },
+  {
+   "text": "tT",
+   "conf": 0.22
+  },
+  {
+   "text": "aoe",
+   "conf": 0.12
+  },
+  {
+   "text": "acs",
+   "conf": 0.3
+  },
+  {
+   "text": "MACHINE",
+   "conf": 0.96
+  },
+  {
+   "text": "SERIAL",
+   "conf": 0.52
+  },
+  {
+   "text": "NUMBER:",
+   "conf": 0.86
+  },
+  {
+   "text": "410DH364",
+   "conf": 0.49
+  },
+  {
+   "text": "¢",
+   "conf": 0.38
+  },
+  {
+   "text": "“",
+   "conf": 0.47
+  },
+  {
+   "text": "PHP",
+   "conf": 0.95
+  },
+  {
+   "text": "2060388767283",
+   "conf": 0.96
+  },
+  {
+   "text": "9,950.00",
+   "conf": 0.83
+  },
+  {
+   "text": "vA",
+   "conf": 0.88
+  },
+  {
+   "text": "LACOSTE",
+   "conf": 0.96
+  },
+  {
+   "text": "STAINLESS",
+   "conf": 0.85
+  },
+  {
+   "text": "006",
+   "conf": 0.7
+  },
+  {
+   "text": "-LUCI",
+   "conf": 0.81
+  },
+  {
+   "text": "10%",
+   "conf": 0.96
+  },
+  {
+   "text": "CLASS",
+   "conf": 0.96
+  },
+  {
+   "text": "DISCOUNT",
+   "conf": 0.96
+  },
+  {
+   "text": "996",
+   "conf": 0.87
+  },
+  {
+   "text": ".00-VA",
+   "conf": 0.58
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.95
+  },
+  {
+   "text": "8,965.00",
+   "conf": 0.87
+  },
+  {
+   "text": "CASH",
+   "conf": 0.96
+  },
+  {
+   "text": "9,000,",
+   "conf": 0.0
+  },
+  {
+   "text": "00",
+   "conf": 0.0
+  },
+  {
+   "text": "CHANGE",
+   "conf": 0.96
+  },
+  {
+   "text": "45.00",
+   "conf": 0.52
+  },
+  {
+   "text": "Grp",
+   "conf": 0.95
+  },
+  {
+   "text": "Net",
+   "conf": 0.33
+  },
+  {
+   "text": "2",
+   "conf": 0.13
+  },
+  {
+   "text": "VAT",
+   "conf": 0.96
+  },
+  {
+   "text": "Gross",
+   "conf": 0.96
+  },
+  {
+   "text": "VATABLE",
+   "conf": 0.92
+  },
+  {
+   "text": "7,995.54",
+   "conf": 0.57
+  },
+  {
+   "text": "\\959.",
+   "conf": 0.35
+  },
+  {
+   "text": "46",
+   "conf": 0.95
+  },
+  {
+   "text": "8,",
+   "conf": 0.72
+  },
+  {
+   "text": "955,00",
+   "conf": 0.54
+  },
+  {
+   "text": "VAT",
+   "conf": 0.96
+  },
+  {
+   "text": "EXEMPT",
+   "conf": 0.96
+  },
+  {
+   "text": "0.00",
+   "conf": 0.94
+  },
+  {
+   "text": "0.00",
+   "conf": 0.87
+  },
+  {
+   "text": "0,00",
+   "conf": 0.95
+  },
+  {
+   "text": ",",
+   "conf": 0.32
+  },
+  {
+   "text": "ZERO",
+   "conf": 0.95
+  },
+  {
+   "text": "RATED",
+   "conf": 0.96
+  },
+  {
+   "text": "0.00",
+   "conf": 0.74
+  },
+  {
+   "text": "O.",
+   "conf": 0.52
+  },
+  {
+   "text": "00",
+   "conf": 0.96
+  },
+  {
+   "text": "0.00",
+   "conf": 0.95
+  },
+  {
+   "text": "LOYALTY",
+   "conf": 0.94
+  },
+  {
+   "text": "CARD",
+   "conf": 0.94
+  },
+  {
+   "text": "BB80R",
+   "conf": 0.38
+  },
+  {
+   "text": "77086458595",
+   "conf": 0.2
+  },
+  {
+   "text": "CUSTOMER",
+   "conf": 0.96
+  },
+  {
+   "text": "NAME",
+   "conf": 0.03
+  },
+  {
+   "text": "MAC",
+   "conf": 0.85
+  },
+  {
+   "text": "EXPRESS",
+   "conf": 0.89
+  },
+  {
+   "text": "7085458595",
+   "conf": 0.88
+  },
+  {
+   "text": "mp.",
+   "conf": 0.45
+  },
+  {
+   "text": "68",
+   "conf": 0.61
+  },
+  {
+   "text": "«Of.",
+   "conf": 0.26
+  },
+  {
+   "text": "=",
+   "conf": 0.43
+  },
+  {
+   "text": "=",
+   "conf": 0.16
+  },
+  {
+   "text": "\\",
+   "conf": 0.25
+  },
+  {
+   "text": "ATORE",
+   "conf": 0.56
+  },
+  {
+   "text": "NO.",
+   "conf": 0.63
+  },
+  {
+   "text": "0940073",
+   "conf": 0.91
+  },
+  {
+   "text": "YW,",
+   "conf": 0.79
+  },
+  {
+   "text": "2013",
+   "conf": 0.94
+  },
+  {
+   "text": "Tuesday",
+   "conf": 0.95
+  },
+  {
+   "text": "90511",
+   "conf": 0.89
+  },
+  {
+   "text": ";",
+   "conf": 0.23
+  },
+  {
+   "text": "oh",
+   "conf": 0.18
+  },
+  {
+   "text": "OTC",
+   "conf": 0.22
+  },
+  {
+   "text": "oR",
+   "conf": 0.91
+  },
+  {
+   "text": "‘0",
+   "conf": 0.23
+  },
+  {
+   "text": "STANDARD",
+   "conf": 0.93
+  }
+ ],
+ "mean_conf": 0.6135,
+ "low_conf_share": 0.3627,
+ "latency_ms": 623,
+ "fields": {
+  "company": "SM EGUTTRRALL IPA MEAL BT ACM ANEA AA",
+  "date": null,
+  "total": 8965.0
+ },
+ "rule_reasons": [
+  "date_not_found"
+ ],
+ "total_candidates": [
+  8965.0
+ ],
+ "key": "W0029_cb9bacdceb0a"
+}

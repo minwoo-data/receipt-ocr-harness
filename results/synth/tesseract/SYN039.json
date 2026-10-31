@@ -1,0 +1,250 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "PEARL RIVER SEAFOOD RESTAURANT",
+  "19 JALAN SULTAN ISMAIL, KUALA LUMPUR",
+  "TAX INVOICE",
+  "Date: 15/03/2024 Time: 13:42",
+  "3 x GARDEN SALAD 46.50",
+  "2 x PANADOL 10S 13.60",
+  "2 x LOCAL EGGS 10S 13.00",
+  "3 x DISH SOAP 900ML 22.20",
+  "SUBTOTAL 95.30",
+  "GST 6% Sue",
+  "TOTAL 101.02",
+  "CASH 106.02",
+  "CHANGE 5.00",
+  "THANK YOU, PLEASE COME AGAIN"
+ ],
+ "tokens": [
+  {
+   "text": "PEARL",
+   "conf": 0.96
+  },
+  {
+   "text": "RIVER",
+   "conf": 0.96
+  },
+  {
+   "text": "SEAFOOD",
+   "conf": 0.96
+  },
+  {
+   "text": "RESTAURANT",
+   "conf": 0.96
+  },
+  {
+   "text": "19",
+   "conf": 0.96
+  },
+  {
+   "text": "JALAN",
+   "conf": 0.96
+  },
+  {
+   "text": "SULTAN",
+   "conf": 0.96
+  },
+  {
+   "text": "ISMAIL,",
+   "conf": 0.96
+  },
+  {
+   "text": "KUALA",
+   "conf": 0.96
+  },
+  {
+   "text": "LUMPUR",
+   "conf": 0.96
+  },
+  {
+   "text": "TAX",
+   "conf": 0.96
+  },
+  {
+   "text": "INVOICE",
+   "conf": 0.95
+  },
+  {
+   "text": "Date:",
+   "conf": 0.96
+  },
+  {
+   "text": "15/03/2024",
+   "conf": 0.96
+  },
+  {
+   "text": "Time:",
+   "conf": 0.96
+  },
+  {
+   "text": "13:42",
+   "conf": 0.96
+  },
+  {
+   "text": "3",
+   "conf": 0.91
+  },
+  {
+   "text": "x",
+   "conf": 0.91
+  },
+  {
+   "text": "GARDEN",
+   "conf": 0.96
+  },
+  {
+   "text": "SALAD",
+   "conf": 0.96
+  },
+  {
+   "text": "46.50",
+   "conf": 0.91
+  },
+  {
+   "text": "2",
+   "conf": 0.9
+  },
+  {
+   "text": "x",
+   "conf": 0.9
+  },
+  {
+   "text": "PANADOL",
+   "conf": 0.96
+  },
+  {
+   "text": "10S",
+   "conf": 0.96
+  },
+  {
+   "text": "13.60",
+   "conf": 0.95
+  },
+  {
+   "text": "2",
+   "conf": 0.94
+  },
+  {
+   "text": "x",
+   "conf": 0.94
+  },
+  {
+   "text": "LOCAL",
+   "conf": 0.96
+  },
+  {
+   "text": "EGGS",
+   "conf": 0.96
+  },
+  {
+   "text": "10S",
+   "conf": 0.96
+  },
+  {
+   "text": "13.00",
+   "conf": 0.94
+  },
+  {
+   "text": "3",
+   "conf": 0.94
+  },
+  {
+   "text": "x",
+   "conf": 0.94
+  },
+  {
+   "text": "DISH",
+   "conf": 0.96
+  },
+  {
+   "text": "SOAP",
+   "conf": 0.93
+  },
+  {
+   "text": "900ML",
+   "conf": 0.88
+  },
+  {
+   "text": "22.20",
+   "conf": 0.96
+  },
+  {
+   "text": "SUBTOTAL",
+   "conf": 0.96
+  },
+  {
+   "text": "95.30",
+   "conf": 0.95
+  },
+  {
+   "text": "GST",
+   "conf": 0.95
+  },
+  {
+   "text": "6%",
+   "conf": 0.94
+  },
+  {
+   "text": "Sue",
+   "conf": 0.23
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.96
+  },
+  {
+   "text": "101.02",
+   "conf": 0.94
+  },
+  {
+   "text": "CASH",
+   "conf": 0.96
+  },
+  {
+   "text": "106.02",
+   "conf": 0.83
+  },
+  {
+   "text": "CHANGE",
+   "conf": 0.96
+  },
+  {
+   "text": "5.00",
+   "conf": 0.95
+  },
+  {
+   "text": "THANK",
+   "conf": 0.95
+  },
+  {
+   "text": "YOU,",
+   "conf": 0.95
+  },
+  {
+   "text": "PLEASE",
+   "conf": 0.96
+  },
+  {
+   "text": "COME",
+   "conf": 0.96
+  },
+  {
+   "text": "AGAIN",
+   "conf": 0.96
+  }
+ ],
+ "mean_conf": 0.9331,
+ "low_conf_share": 0.0185,
+ "latency_ms": 545,
+ "fields": {
+  "company": "PEARL RIVER SEAFOOD RESTAURANT",
+  "date": "2024-03-15",
+  "total": 101.02
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  101.02
+ ],
+ "key": "SYN039"
+}

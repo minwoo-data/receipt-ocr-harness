@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.1-flash-lite",
+ "provider": "gemini",
+ "raw_text": "{\n  \"vendor\": \"Jollibee\",\n  \"date\": \"2014-02-18\",\n  \"subtotal\": 3.70,\n  \"tax\": null,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 3.70,\n  \"currency\": null,\n  \"confidence\": 0.95,\n  \"notes\": null\n}",
+ "data": {
+  "vendor": "Jollibee",
+  "date": "2014-02-18",
+  "subtotal": 3.7,
+  "tax": null,
+  "tip": null,
+  "discount": null,
+  "total": 3.7,
+  "currency": null,
+  "confidence": 0.95,
+  "notes": null
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1471,
+  "output_tokens": 99,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.000516,
+ "latency_ms": 1512,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.1-flash-lite",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.1-flash-lite"
+ ],
+ "key": "W0154_6cdc7ec61f74"
+}

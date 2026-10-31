@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.6-flash",
+ "provider": "gemini",
+ "raw_text": "{\"vendor\": \"SUE'S HALLMARK\", \"date\": \"2017-04-28\", \"subtotal\": 29.95, \"tax\": 3.07, \"tip\": null, \"discount\": null, \"total\": 33.02, \"currency\": \"USD\", \"confidence\": 0.98, \"notes\": null}",
+ "data": {
+  "vendor": "SUE'S HALLMARK",
+  "date": "2017-04-28",
+  "subtotal": 29.95,
+  "tax": 3.07,
+  "tip": null,
+  "discount": null,
+  "total": 33.02,
+  "currency": "USD",
+  "confidence": 0.98,
+  "notes": null
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1433,
+  "output_tokens": 86,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.001397,
+ "latency_ms": 1634,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.6-flash",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.6-flash"
+ ],
+ "key": "W0111_e5c18ca23b3d"
+}

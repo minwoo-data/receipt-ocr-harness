@@ -1,0 +1,281 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "More saving",
+  "More doing.",
+  "10850PLUMDRIVE",
+  "URBANDALE,IA 50322（515)2515819",
+  "21150000491142 08/14/1301:57PM",
+  "CASHIER JIM-JEB702",
+  "0904891247174X4-8#2PT<A 7.57",
+  "4X4-8FT#2PT",
+  "8111870178246.5INPLIERSA",
+  "HDX1PC6.5INLONG NOSELOCKING PLIE 203.49 869",
+  "030699140817SCREWEYE<A> 0.98",
+  "030699140718 SCREWEYEA> #4ZINC SCREWEYE 0.98",
+  "731919020017GL0VESA> #2ZINCSCREWEYE 666",
+  "731919020043GL0VESA> FIRM GRIPALLPURPOSE-SMALL 666",
+  "FIRM GRIP ALLPURPOSE-XLARGE",
+  "SUBTOTAL 36.49",
+  "SALES TAX 2.19",
+  "TOTAL $38.68",
+  "38.68",
+  "AUTHC0DE34 80411S TA",
+  "A THE HOMEDEPOTRESERVES THE RIGHTTO POLICYID RETURN POLICY DEFINITIONS 1 06 DAYS POLICYEXPIRES ON 11/12/2013",
+  "LIMIT/DENYRETURNS.PLEASESEETHE",
+  "RETURN POLICY SIGN IN STORES FOR",
+  "DETAILS.",
+  "BUY ONLINEPICK-UP IN STORE",
+  "AVAILABLENOWONHOMEDEPOT.COM",
+  "CONVENIENTEASYAND MOST ORDERS",
+  "READY INLESS THAN 2 HOURS!",
+  "X**********X***********X****X******XX**",
+  "ENTERFOR ACHANCE",
+  "TOWINA$5.OOO",
+  "HOMEDEPOTGIFT",
+  "CARD!"
+ ],
+ "tokens": [
+  {
+   "text": "More saving",
+   "conf": 0.9588063034144315
+  },
+  {
+   "text": "More doing.",
+   "conf": 0.9209695512598212
+  },
+  {
+   "text": "10850PLUMDRIVE",
+   "conf": 0.9845767915248871
+  },
+  {
+   "text": "URBANDALE,IA 50322（515)2515819",
+   "conf": 0.9305947264035542
+  },
+  {
+   "text": "21150000491142",
+   "conf": 0.9976646431854793
+  },
+  {
+   "text": "08/14/1301:57PM",
+   "conf": 0.9879729270935058
+  },
+  {
+   "text": "CASHIER JIM-JEB702",
+   "conf": 0.9687489767869314
+  },
+  {
+   "text": "0904891247174X4-8#2PT<A",
+   "conf": 0.962465719036434
+  },
+  {
+   "text": "7.57",
+   "conf": 0.9804898947477341
+  },
+  {
+   "text": "4X4-8FT#2PT",
+   "conf": 0.9614354534582659
+  },
+  {
+   "text": "8111870178246.5INPLIERSA",
+   "conf": 0.9919495855768522
+  },
+  {
+   "text": "HDX1PC6.5INLONG NOSELOCKING PLIE",
+   "conf": 0.9270494654774666
+  },
+  {
+   "text": "203.49",
+   "conf": 0.8771744122107824
+  },
+  {
+   "text": "869",
+   "conf": 0.9448274572690328
+  },
+  {
+   "text": "030699140817SCREWEYE<A>",
+   "conf": 0.9705498555432195
+  },
+  {
+   "text": "0.98",
+   "conf": 0.9909505844116211
+  },
+  {
+   "text": "#4ZINC SCREWEYE",
+   "conf": 0.9499143123626709
+  },
+  {
+   "text": "030699140718 SCREWEYEA>",
+   "conf": 0.9572661648625913
+  },
+  {
+   "text": "0.98",
+   "conf": 0.9945991039276123
+  },
+  {
+   "text": "#2ZINCSCREWEYE",
+   "conf": 0.966430881193706
+  },
+  {
+   "text": "731919020017GL0VESA>",
+   "conf": 0.9917890220880509
+  },
+  {
+   "text": "666",
+   "conf": 0.9689909815788269
+  },
+  {
+   "text": "FIRM GRIPALLPURPOSE-SMALL",
+   "conf": 0.9639126229286193
+  },
+  {
+   "text": "731919020043GL0VESA>",
+   "conf": 0.9906856119632721
+  },
+  {
+   "text": "666",
+   "conf": 0.9699424902598063
+  },
+  {
+   "text": "FIRM GRIP ALLPURPOSE-XLARGE",
+   "conf": 0.9689530509489553
+  },
+  {
+   "text": "SUBTOTAL",
+   "conf": 0.992309108376503
+  },
+  {
+   "text": "36.49",
+   "conf": 0.9933377027511596
+  },
+  {
+   "text": "SALES TAX",
+   "conf": 0.9328317708439298
+  },
+  {
+   "text": "2.19",
+   "conf": 0.975137859582901
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.9823133111000061
+  },
+  {
+   "text": "$38.68",
+   "conf": 0.9918056726455688
+  },
+  {
+   "text": "38.68",
+   "conf": 0.9897833108901978
+  },
+  {
+   "text": "AUTHC0DE34",
+   "conf": 0.9448774814605713
+  },
+  {
+   "text": "80411S",
+   "conf": 0.649324451883634
+  },
+  {
+   "text": "TA",
+   "conf": 0.9956177473068237
+  },
+  {
+   "text": "RETURN POLICY DEFINITIONS",
+   "conf": 0.9700541782379151
+  },
+  {
+   "text": "POLICYID",
+   "conf": 0.930666483938694
+  },
+  {
+   "text": "DAYS",
+   "conf": 0.9823649227619171
+  },
+  {
+   "text": "POLICYEXPIRES ON",
+   "conf": 0.965854350477457
+  },
+  {
+   "text": "A",
+   "conf": 0.511741578578949
+  },
+  {
+   "text": "1",
+   "conf": 0.9581579566001892
+  },
+  {
+   "text": "06",
+   "conf": 0.9978925585746765
+  },
+  {
+   "text": "11/12/2013",
+   "conf": 0.9979538857936859
+  },
+  {
+   "text": "THE HOMEDEPOTRESERVES THE RIGHTTO",
+   "conf": 0.9511727853254839
+  },
+  {
+   "text": "LIMIT/DENYRETURNS.PLEASESEETHE",
+   "conf": 0.9851140479246775
+  },
+  {
+   "text": "RETURN POLICY SIGN IN STORES FOR",
+   "conf": 0.9491932205855846
+  },
+  {
+   "text": "DETAILS.",
+   "conf": 0.9845714345574379
+  },
+  {
+   "text": "BUY ONLINEPICK-UP IN STORE",
+   "conf": 0.9407804791743939
+  },
+  {
+   "text": "AVAILABLENOWONHOMEDEPOT.COM",
+   "conf": 0.9800692046130145
+  },
+  {
+   "text": "CONVENIENTEASYAND MOST ORDERS",
+   "conf": 0.9691601991653442
+  },
+  {
+   "text": "READY INLESS THAN 2 HOURS!",
+   "conf": 0.9294617244830499
+  },
+  {
+   "text": "X**********X***********X****X******XX**",
+   "conf": 0.7883947438154465
+  },
+  {
+   "text": "ENTERFOR ACHANCE",
+   "conf": 0.9669850766658783
+  },
+  {
+   "text": "TOWINA$5.OOO",
+   "conf": 0.9546458522478739
+  },
+  {
+   "text": "HOMEDEPOTGIFT",
+   "conf": 0.9903703240247873
+  },
+  {
+   "text": "CARD!",
+   "conf": 0.8084150612354278
+  }
+ ],
+ "mean_conf": 0.9481,
+ "low_conf_share": 0.0,
+ "latency_ms": 7366,
+ "fields": {
+  "company": "MORE SAVING",
+  "date": "2013-11-12",
+  "total": 38.68
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  38.68
+ ],
+ "key": "W0200_2a92c61dd5c0"
+}

@@ -87,10 +87,13 @@ def local_signal(rapid: dict | None, tess: dict | None, day_first: bool = True) 
     return {"agree": bool(agree), "conf": float(rapid.get("mean_conf") or 0.0), "complete": bool(complete)}
 
 
+ERA = {"today": TODAY, "min_year": None}     # set from the manifest's ground-truth years in main()
+
+
 def vlm_flags(rec: dict | None, ocr_lines: list[str] | None) -> list[str]:
     if rec is None:
         return ["UNAVAILABLE"]
-    return [f.name for f in verify.verify(rec, ocr_lines, today=TODAY)]
+    return [f.name for f in verify.verify(rec, ocr_lines, today=ERA["today"], min_year=ERA["min_year"])]
 
 
 # ---------------------------------------------------------------------------
@@ -239,6 +242,12 @@ def main() -> None:
     manifest = load_manifest(ROOT / args.manifest)
     global ROOT_RESULTS
     ROOT_RESULTS = ROOT / args.results
+    # Date plausibility window = the era of the dataset (max GT year end, min GT year).
+    years = sorted(int(it["gt"]["date"][:4]) for it in manifest if it.get("gt", {}).get("date"))
+    if years:
+        ERA["today"] = date(years[-1], 12, 31)
+        ERA["min_year"] = years[0]
+    print("date window:", ERA)
     R = {k: load_dir(v) for k, v in (("t1", args.t1), ("t1b", args.t1b), ("t2", args.t2), ("t3", args.t3), ("t4", args.t4))}
     print({k: len(v) for k, v in R.items()})
 

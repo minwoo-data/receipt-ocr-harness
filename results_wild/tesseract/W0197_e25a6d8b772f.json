@@ -1,0 +1,68 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "at rant",
+  "16",
+  "4",
+  "Se e3.90 |",
+  "is : 3"
+ ],
+ "tokens": [
+  {
+   "text": "at",
+   "conf": 0.34
+  },
+  {
+   "text": "rant",
+   "conf": 0.93
+  },
+  {
+   "text": "16",
+   "conf": 0.92
+  },
+  {
+   "text": "4",
+   "conf": 0.16
+  },
+  {
+   "text": "Se",
+   "conf": 0.0
+  },
+  {
+   "text": "e3.90",
+   "conf": 0.0
+  },
+  {
+   "text": "|",
+   "conf": 0.87
+  },
+  {
+   "text": "is",
+   "conf": 0.39
+  },
+  {
+   "text": ":",
+   "conf": 0.26
+  },
+  {
+   "text": "3",
+   "conf": 0.0
+  }
+ ],
+ "mean_conf": 0.387,
+ "low_conf_share": 0.7,
+ "latency_ms": 218,
+ "fields": {
+  "company": "AT RANT",
+  "date": null,
+  "total": 3.9
+ },
+ "rule_reasons": [
+  "date_not_found",
+  "total_no_keyword_fallback_max"
+ ],
+ "total_candidates": [
+  3.9
+ ],
+ "key": "W0197_e25a6d8b772f"
+}

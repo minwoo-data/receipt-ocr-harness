@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.6-flash",
+ "provider": "gemini",
+ "raw_text": "{\"vendor\": \"CBLUEM RESTAURANTS LTD\", \"date\": \"2015-12-27\", \"subtotal\": 103.03, \"tax\": 9.27, \"tip\": null, \"discount\": null, \"total\": 112.3, \"currency\": \"EUR\", \"confidence\": 0.98, \"notes\": null}",
+ "data": {
+  "vendor": "CBLUEM RESTAURANTS LTD",
+  "date": "2015-12-27",
+  "subtotal": 103.03,
+  "tax": 9.27,
+  "tip": null,
+  "discount": null,
+  "total": 112.3,
+  "currency": "EUR",
+  "confidence": 0.98,
+  "notes": null
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1469,
+  "output_tokens": 89,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.001435,
+ "latency_ms": 1411,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.6-flash",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.6-flash"
+ ],
+ "key": "W0106_5f60b0876ca6"
+}

@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.6-flash",
+ "provider": "gemini",
+ "raw_text": "{\"vendor\": \"GREENLEAF GROCER SDN BHD\", \"date\": \"2024-04-07\", \"subtotal\": 38.1, \"tax\": 2.29, \"tip\": null, \"discount\": null, \"total\": 140.39, \"currency\": \"MYR\", \"confidence\": 0.85, \"notes\": \"Discrepancy observed between printed items total/subtotal (38.10) and printed final total (140.39).\"}",
+ "data": {
+  "vendor": "GREENLEAF GROCER SDN BHD",
+  "date": "2024-04-07",
+  "subtotal": 38.1,
+  "tax": 2.29,
+  "tip": null,
+  "discount": null,
+  "total": 140.39,
+  "currency": "MYR",
+  "confidence": 0.85,
+  "notes": "Discrepancy observed between printed items total/subtotal (38.10) and printed final total (140.39)."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1454,
+  "output_tokens": 120,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.00154,
+ "latency_ms": 2250,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.6-flash",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.6-flash"
+ ],
+ "key": "SYN014"
+}

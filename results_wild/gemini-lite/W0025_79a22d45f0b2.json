@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.1-flash-lite",
+ "provider": "gemini",
+ "raw_text": "{\n  \"vendor\": \"GEETHA RESTAURANT\",\n  \"date\": \"2017-04-27\",\n  \"subtotal\": 590,\n  \"tax\": null,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 590,\n  \"currency\": \"INR\",\n  \"confidence\": 0.98,\n  \"notes\": null\n}",
+ "data": {
+  "vendor": "GEETHA RESTAURANT",
+  "date": "2017-04-27",
+  "subtotal": 590,
+  "tax": null,
+  "tip": null,
+  "discount": null,
+  "total": 590,
+  "currency": "INR",
+  "confidence": 0.98,
+  "notes": null
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1471,
+  "output_tokens": 100,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.000518,
+ "latency_ms": 2351,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.1-flash-lite",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.1-flash-lite"
+ ],
+ "key": "W0025_79a22d45f0b2"
+}

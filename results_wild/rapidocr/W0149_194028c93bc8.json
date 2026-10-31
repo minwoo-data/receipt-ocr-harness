@@ -1,0 +1,129 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "McDonald's Pioneer Mall",
+  "BLK 638,#01-01/02，",
+  "Jurong West St 61",
+  "Singapore 640638",
+  "Tel:67958902",
+  "GST REGN NO:M2-0023981-4",
+  "TAX INVOICE",
+  "#ORD 59 -REG 17-26/03/2011 16:05:02",
+  "QTY ITEM TOTAL",
+  "1Latte Himalayan Tea 3.90",
+  "Eat-In Total （incl GST) 3.90",
+  "Cash Tendered 4.00",
+  "Change 0.10",
+  "TOTAL INCLUDES GST OF 0.26",
+  "Transaction ID :EFFASQ",
+  "Thank You & Have A Nice Day",
+  "Thank You & Have A Nice Day"
+ ],
+ "tokens": [
+  {
+   "text": "McDonald's Pioneer Mall",
+   "conf": 0.9146106670732084
+  },
+  {
+   "text": "BLK 638,#01-01/02，",
+   "conf": 0.9210223356882731
+  },
+  {
+   "text": "Jurong West St 61",
+   "conf": 0.9656574480673846
+  },
+  {
+   "text": "Singapore 640638",
+   "conf": 0.9772818796336651
+  },
+  {
+   "text": "Tel:67958902",
+   "conf": 0.9815637618303299
+  },
+  {
+   "text": "GST REGN NO:M2-0023981-4",
+   "conf": 0.9588636259237925
+  },
+  {
+   "text": "TAX INVOICE",
+   "conf": 0.971170961856842
+  },
+  {
+   "text": "#ORD 59 -REG 17-26/03/2011 16:05:02",
+   "conf": 0.9445269567625864
+  },
+  {
+   "text": "QTY ITEM",
+   "conf": 0.9364390000700951
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.9895200252532959
+  },
+  {
+   "text": "1Latte Himalayan Tea",
+   "conf": 0.9692790925502777
+  },
+  {
+   "text": "3.90",
+   "conf": 0.9975086897611618
+  },
+  {
+   "text": "Eat-In Total （incl GST)",
+   "conf": 0.928453460983608
+  },
+  {
+   "text": "3.90",
+   "conf": 0.99659663438797
+  },
+  {
+   "text": "Cash Tendered",
+   "conf": 0.9848254185456496
+  },
+  {
+   "text": "4.00",
+   "conf": 0.9959831237792969
+  },
+  {
+   "text": "Change",
+   "conf": 0.991676410039266
+  },
+  {
+   "text": "0.10",
+   "conf": 0.9971045404672623
+  },
+  {
+   "text": "TOTAL INCLUDES GST OF",
+   "conf": 0.9782446849913824
+  },
+  {
+   "text": "0.26",
+   "conf": 0.9968637824058533
+  },
+  {
+   "text": "Transaction ID :EFFASQ",
+   "conf": 0.9724756912751631
+  },
+  {
+   "text": "Thank You & Have A Nice Day",
+   "conf": 0.9568425085809495
+  },
+  {
+   "text": "Thank You & Have A Nice Day",
+   "conf": 0.9376246951244496
+  }
+ ],
+ "mean_conf": 0.968,
+ "low_conf_share": 0.0,
+ "latency_ms": 3970,
+ "fields": {
+  "company": "MCDONALD S PIONEER MALL",
+  "date": "2002-01-01",
+  "total": 0.26
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  0.26
+ ],
+ "key": "W0149_194028c93bc8"
+}

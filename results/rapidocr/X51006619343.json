@@ -1,0 +1,228 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "MR.D.I.Y.(KUCHAI) SDN BHD",
+  "L0T1851-A&1851-BJALANKPB6",
+  "KAWASAN PERINDUSTRIAN BALAKONG",
+  "43300 SERI KEMBANGAN.SELANGOR",
+  "(GST IDNo :000473792512）",
+  "(SG WANG)",
+  "PARTITI0N 1072 10CM",
+  "IC12-12/72",
+  "4947989310729 1X7.30 7.30",
+  "TELESC0PIC R0D 2PCS 4065#*VS S",
+  "MD22-12/96",
+  "9067903 1X4.80 4.80",
+  "CURTAIN BAR-70CM *S",
+  "JD32-100",
+  "9063983 3X.3.10 9.30",
+  "D/S TAPE1.8*15M S",
+  "RH42-88",
+  "9080456 1X1.50 1.50",
+  "Item（s):4 Qty（s)6",
+  "Total Incl.GST@6% RM22.90",
+  "CASH RM23.00",
+  "CHANGE RM0.10",
+  "GST @6% included in total RM1.30",
+  "17-04-16 14:01 SH01 B019 T3 R000034324",
+  "OPERATOR CHC JIVAN",
+  "EXCHANGE ARE ALLOWED WITHIN",
+  "3 DAY WITH RECEIPT",
+  "STRICTLY NO CASH REFUND"
+ ],
+ "tokens": [
+  {
+   "text": "MR.D.I.Y.(KUCHAI) SDN BHD",
+   "conf": 0.8923425030708313
+  },
+  {
+   "text": "L0T1851-A&1851-BJALANKPB6",
+   "conf": 0.9652003312110901
+  },
+  {
+   "text": "KAWASAN PERINDUSTRIAN BALAKONG",
+   "conf": 0.9769435664017995
+  },
+  {
+   "text": "43300 SERI KEMBANGAN.SELANGOR",
+   "conf": 0.9491197466850281
+  },
+  {
+   "text": "(GST IDNo :000473792512）",
+   "conf": 0.8937531287471453
+  },
+  {
+   "text": "(SG WANG)",
+   "conf": 0.9298928711149428
+  },
+  {
+   "text": "PARTITI0N 1072 10CM",
+   "conf": 0.9384241919768485
+  },
+  {
+   "text": "IC12-12/72",
+   "conf": 0.9628229975700379
+  },
+  {
+   "text": "4947989310729",
+   "conf": 0.9974930194708017
+  },
+  {
+   "text": "1X7.30",
+   "conf": 0.9597106774648031
+  },
+  {
+   "text": "7.30",
+   "conf": 0.993298277258873
+  },
+  {
+   "text": "TELESC0PIC R0D 2PCS 4065#*VS",
+   "conf": 0.9602569405521665
+  },
+  {
+   "text": "S",
+   "conf": 0.8805242776870728
+  },
+  {
+   "text": "MD22-12/96",
+   "conf": 0.9884403645992279
+  },
+  {
+   "text": "9067903",
+   "conf": 0.9976028970309666
+  },
+  {
+   "text": "1X4.80",
+   "conf": 0.9584793349107107
+  },
+  {
+   "text": "4.80",
+   "conf": 0.9889324903488159
+  },
+  {
+   "text": "CURTAIN BAR-70CM",
+   "conf": 0.9599083848297596
+  },
+  {
+   "text": "*S",
+   "conf": 0.9010899364948273
+  },
+  {
+   "text": "JD32-100",
+   "conf": 0.9906220138072968
+  },
+  {
+   "text": "9063983",
+   "conf": 0.9979267120361328
+  },
+  {
+   "text": "3X.3.10",
+   "conf": 0.9054869157927377
+  },
+  {
+   "text": "9.30",
+   "conf": 0.9944923669099808
+  },
+  {
+   "text": "D/S TAPE1.8*15M",
+   "conf": 0.8999269147713979
+  },
+  {
+   "text": "S",
+   "conf": 0.9495366811752319
+  },
+  {
+   "text": "RH42-88",
+   "conf": 0.9906647460801261
+  },
+  {
+   "text": "9080456",
+   "conf": 0.9986745885440281
+  },
+  {
+   "text": "1X1.50",
+   "conf": 0.9757906496524811
+  },
+  {
+   "text": "1.50",
+   "conf": 0.9956807643175125
+  },
+  {
+   "text": "Item（s):4",
+   "conf": 0.8131624261538187
+  },
+  {
+   "text": "Qty（s)6",
+   "conf": 0.8454447558947972
+  },
+  {
+   "text": "Total Incl.GST@6%",
+   "conf": 0.9186269675984102
+  },
+  {
+   "text": "RM22.90",
+   "conf": 0.9658034443855286
+  },
+  {
+   "text": "CASH",
+   "conf": 0.9929489940404892
+  },
+  {
+   "text": "RM23.00",
+   "conf": 0.9752515809876579
+  },
+  {
+   "text": "CHANGE",
+   "conf": 0.9875506659348806
+  },
+  {
+   "text": "RM0.10",
+   "conf": 0.9660660624504089
+  },
+  {
+   "text": "GST @6% included in total",
+   "conf": 0.9597991561889648
+  },
+  {
+   "text": "RM1.30",
+   "conf": 0.9688391188780466
+  },
+  {
+   "text": "17-04-16 14:01 SH01 B019",
+   "conf": 0.9371208821733793
+  },
+  {
+   "text": "T3 R000034324",
+   "conf": 0.9696194667082566
+  },
+  {
+   "text": "OPERATOR CHC JIVAN",
+   "conf": 0.9561871356434293
+  },
+  {
+   "text": "EXCHANGE ARE ALLOWED WITHIN",
+   "conf": 0.9678623874982198
+  },
+  {
+   "text": "3 DAY WITH RECEIPT",
+   "conf": 0.9417072898811765
+  },
+  {
+   "text": "STRICTLY NO CASH REFUND",
+   "conf": 0.972270112970601
+  }
+ ],
+ "mean_conf": 0.954,
+ "low_conf_share": 0.0,
+ "latency_ms": 5528,
+ "fields": {
+  "company": "MR D I Y SDN BHD",
+  "date": "2016-04-17",
+  "total": 22.9
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  22.9
+ ],
+ "key": "X51006619343"
+}

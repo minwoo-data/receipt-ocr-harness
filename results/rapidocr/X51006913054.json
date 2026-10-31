@@ -1,0 +1,262 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "DE LUXE CIRCLE FRESH MART SDN BHD",
+  "(Mutiara Rini 16)",
+  "Co Reg No:797887-WGST No:001507647488",
+  "No.89&91, Jalan Utama,",
+  "Taman Mutia Rini, 81300 Skudai, Johor.",
+  "Tel:016-7780546",
+  "MT161201805120055 12/05/18 312:12:57pm",
+  "Cashier: Chu Peck 12/05/18 312:13:1.7 prn",
+  "Heaven &EarthAyataka Green Tea 1.5L",
+  "8888002119454 5.00*1 5.00 S",
+  "Konnyaku 10g",
+  "8888338001119 3.50*2 00 S",
+  "ITEM:2 TotalwithGST@6% 12.00",
+  "QTY: 3 ROUNDING 0.00",
+  "TOTAL SAVING: 0.00 'TOTAL. 12.00",
+  "TENDER",
+  "Cash 50.00",
+  "CHANGE 38.00",
+  "GST Analysis Goods TaxAmount",
+  "5 = 6% 11.32 0.68",
+  "2 = 0% 0.00 0.00",
+  "MEMBER0000036581 Paints Earned:11",
+  "Member:WONGSHOOYUEN",
+  "*ThankYou.See You Again !!",
+  "*Customer Care Line:012-7092889",
+  "*customerservice@deluxegroups.com"
+ ],
+ "tokens": [
+  {
+   "text": "DE LUXE CIRCLE FRESH MART SDN BHD",
+   "conf": 0.9650963472597527
+  },
+  {
+   "text": "(Mutiara Rini 16)",
+   "conf": 0.9399672711596769
+  },
+  {
+   "text": "Co Reg No:797887-WGST No:001507647488",
+   "conf": 0.9769601773571324
+  },
+  {
+   "text": "No.89&91, Jalan Utama,",
+   "conf": 0.9536513794552196
+  },
+  {
+   "text": "Taman Mutia Rini, 81300 Skudai, Johor.",
+   "conf": 0.9458772320496408
+  },
+  {
+   "text": "Tel:016-7780546",
+   "conf": 0.9977083126703898
+  },
+  {
+   "text": "MT161201805120055",
+   "conf": 0.9868863330167883
+  },
+  {
+   "text": "12/05/18",
+   "conf": 0.998543307185173
+  },
+  {
+   "text": "312:12:57pm",
+   "conf": 0.9519663236357949
+  },
+  {
+   "text": "Cashier:",
+   "conf": 0.99233378469944
+  },
+  {
+   "text": "Chu Peck",
+   "conf": 0.9575805589556694
+  },
+  {
+   "text": "12/05/18",
+   "conf": 0.9974681735038757
+  },
+  {
+   "text": "312:13:1.7 prn",
+   "conf": 0.8604952245950699
+  },
+  {
+   "text": "Heaven &EarthAyataka Green Tea 1.5L",
+   "conf": 0.9397064753941127
+  },
+  {
+   "text": "8888002119454",
+   "conf": 0.9993070180599506
+  },
+  {
+   "text": "5.00*1",
+   "conf": 0.9970117410024008
+  },
+  {
+   "text": "5.00",
+   "conf": 0.999443992972374
+  },
+  {
+   "text": "S",
+   "conf": 0.9094266891479492
+  },
+  {
+   "text": "Konnyaku 10g",
+   "conf": 0.9730249991019567
+  },
+  {
+   "text": "8888338001119",
+   "conf": 0.9991006300999568
+  },
+  {
+   "text": "3.50*2",
+   "conf": 0.9887873431046804
+  },
+  {
+   "text": "00",
+   "conf": 0.8048277497291565
+  },
+  {
+   "text": "S",
+   "conf": 0.7831326127052307
+  },
+  {
+   "text": "ITEM:2",
+   "conf": 0.975981205701828
+  },
+  {
+   "text": "TotalwithGST@6%",
+   "conf": 0.9836952567100525
+  },
+  {
+   "text": "12.00",
+   "conf": 0.9990780115127563
+  },
+  {
+   "text": "QTY:",
+   "conf": 0.959571897983551
+  },
+  {
+   "text": "3",
+   "conf": 0.9977471232414246
+  },
+  {
+   "text": "ROUNDING",
+   "conf": 0.9968948885798454
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9989985972642899
+  },
+  {
+   "text": "TOTAL SAVING:",
+   "conf": 0.9517939549226028
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9977263361215591
+  },
+  {
+   "text": "'TOTAL.",
+   "conf": 0.8811221037592206
+  },
+  {
+   "text": "12.00",
+   "conf": 0.9644403457641602
+  },
+  {
+   "text": "TENDER",
+   "conf": 0.9955603778362274
+  },
+  {
+   "text": "Cash",
+   "conf": 0.9982781559228897
+  },
+  {
+   "text": "50.00",
+   "conf": 0.9994271993637085
+  },
+  {
+   "text": "CHANGE",
+   "conf": 0.9901307423909506
+  },
+  {
+   "text": "38.00",
+   "conf": 0.9972049832344055
+  },
+  {
+   "text": "GST Analysis",
+   "conf": 0.9647757162650427
+  },
+  {
+   "text": "Goods",
+   "conf": 0.9958817005157471
+  },
+  {
+   "text": "TaxAmount",
+   "conf": 0.9929270413186815
+  },
+  {
+   "text": "5 = 6%",
+   "conf": 0.8948065141836802
+  },
+  {
+   "text": "11.32",
+   "conf": 0.9986705303192138
+  },
+  {
+   "text": "0.68",
+   "conf": 0.9962327182292938
+  },
+  {
+   "text": "2 = 0%",
+   "conf": 0.9276448885599772
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9817977845668793
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9980865120887756
+  },
+  {
+   "text": "MEMBER0000036581",
+   "conf": 0.9931717179715633
+  },
+  {
+   "text": "Paints Earned:11",
+   "conf": 0.9183003306388855
+  },
+  {
+   "text": "Member:WONGSHOOYUEN",
+   "conf": 0.9820324747185958
+  },
+  {
+   "text": "*ThankYou.See You Again !!",
+   "conf": 0.9485034759228046
+  },
+  {
+   "text": "*Customer Care Line:012-7092889",
+   "conf": 0.9631795883178711
+  },
+  {
+   "text": "*customerservice@deluxegroups.com",
+   "conf": 0.9807691953398965
+  }
+ ],
+ "mean_conf": 0.9656,
+ "low_conf_share": 0.0,
+ "latency_ms": 3970,
+ "fields": {
+  "company": "DE LUXE CIRCLE FRESH MART SDN BHD",
+  "date": "2018-05-12",
+  "total": 12.0
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  12.0
+ ],
+ "key": "X51006913054"
+}

@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.1-flash-lite",
+ "provider": "gemini",
+ "raw_text": "{\n  \"vendor\": \"ANNAM VEG RESTAURANT\",\n  \"date\": \"2017-05-23\",\n  \"subtotal\": 365.00,\n  \"tax\": 27.74,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 393.00,\n  \"currency\": \"INR\",\n  \"confidence\": 0.98,\n  \"notes\": \"Tax is the sum of Ser.Tax 5.6% (20.44) and VAT 2% (7.30).\"\n}",
+ "data": {
+  "vendor": "ANNAM VEG RESTAURANT",
+  "date": "2017-05-23",
+  "subtotal": 365.0,
+  "tax": 27.74,
+  "tip": null,
+  "discount": null,
+  "total": 393.0,
+  "currency": "INR",
+  "confidence": 0.98,
+  "notes": "Tax is the sum of Ser.Tax 5.6% (20.44) and VAT 2% (7.30)."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1444,
+  "output_tokens": 143,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.000575,
+ "latency_ms": 2659,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.1-flash-lite",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.1-flash-lite"
+ ],
+ "key": "W0198_60cdf6017800"
+}

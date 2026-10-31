@@ -1,0 +1,121 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "GREENLEAFGROCERSDNBHD",
+  "12 JALAN TUN RAZAK,50400 KUALA LUMPUR",
+  "TAXINVOICE",
+  "Date:15/07/2024Time:13:42",
+  "2x CHICKEN RICESET 25.80",
+  "3x CHICKENRICESET 38.70",
+  "SUBTOTAL 64.50",
+  "GST6% 3.87",
+  "TOTAL 68.37",
+  "CASH 73.37",
+  "CHANGE 5.00",
+  "THANKYOU,PLEASECOMEAGAIN",
+  "：0.0"
+ ],
+ "tokens": [
+  {
+   "text": "GREENLEAFGROCERSDNBHD",
+   "conf": 0.9956068027587164
+  },
+  {
+   "text": "12 JALAN TUN RAZAK,50400 KUALA LUMPUR",
+   "conf": 0.9178646432386862
+  },
+  {
+   "text": "TAXINVOICE",
+   "conf": 0.9932356119155884
+  },
+  {
+   "text": "Date:15/07/2024Time:13:42",
+   "conf": 0.9884732460975647
+  },
+  {
+   "text": "25.80",
+   "conf": 0.9035054326057435
+  },
+  {
+   "text": "2x",
+   "conf": 0.72447469830513
+  },
+  {
+   "text": "CHICKEN RICESET",
+   "conf": 0.9702909191449484
+  },
+  {
+   "text": "38.70",
+   "conf": 0.9983055472373963
+  },
+  {
+   "text": "3x",
+   "conf": 0.7820910513401031
+  },
+  {
+   "text": "CHICKENRICESET",
+   "conf": 0.9958657664912087
+  },
+  {
+   "text": "64.50",
+   "conf": 0.9991335391998291
+  },
+  {
+   "text": "SUBTOTAL",
+   "conf": 0.9953402504324913
+  },
+  {
+   "text": "3.87",
+   "conf": 0.9994467794895172
+  },
+  {
+   "text": "GST6%",
+   "conf": 0.998558521270752
+  },
+  {
+   "text": "68.37",
+   "conf": 0.9995729207992554
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.9968355655670166
+  },
+  {
+   "text": "73.37",
+   "conf": 0.9993611216545105
+  },
+  {
+   "text": "CASH",
+   "conf": 0.9958004504442215
+  },
+  {
+   "text": "5.00",
+   "conf": 0.9992272257804871
+  },
+  {
+   "text": "CHANGE",
+   "conf": 0.9967447022596995
+  },
+  {
+   "text": "THANKYOU,PLEASECOMEAGAIN",
+   "conf": 0.9689520547787348
+  },
+  {
+   "text": "：0.0",
+   "conf": 0.5999341383576393
+  }
+ ],
+ "mean_conf": 0.9463,
+ "low_conf_share": 0.0,
+ "latency_ms": 17475,
+ "fields": {
+  "company": "GREENLEAFGROCERSDNBHD",
+  "date": "2024-07-15",
+  "total": 68.37
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  68.37
+ ],
+ "key": "SYN036"
+}

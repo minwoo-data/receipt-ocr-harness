@@ -1,0 +1,599 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "STAR GROCER SDN BHD (1171881-W)",
+  "No 4, Desa Pandan, Off kampong Pandan,",
+  "55100 Kuala Lumpur",
+  "(GST REG NO: 000915943424)",
+  "Tax Invoices",
+  "Tax Invoice : DSPO5201803250022 25/03/18",
+  "Cashiér : Raja Nur 13:43:11",
+  "CARROT S/M 500GM CH (PKT)",
+  "1800001501 1.59*8 12.72 2",
+  "JAMBU BATU (GUAVA SEEDLESS/ MUTIARA) KG",
+  "200033100148002149 6.92*0.214 148 2",
+  "MANGO HONEY (SUSU) (KG)",
+  "200010800259005280 4.91*0.528 2.59 2",
+  "PINEAPPLE LOCAL 1S",
+  "1810064501 8.60*2 17.20 Z",
+  "TIMUN JEPUN (JAPANESE CUCUMBER) KG",
+  "2000 17100108008367 1.29*0.837 1.08 2",
+  "US GREEN APPLE (175) 10S",
+  "1810078202 MSOF L 7.50 2",
+  "VALENCIA SA (105) 8S",
+  "1810061602 5.9074 23.60 Z",
+  "Item 7 Total with GST @ 5% 66.17",
+  "Qty ‘18 Rounding -0,02",
+  "| Total Saving 0.00 Total 66.15",
+  "7 Tender",
+  "Cash 67. GO",
+  "Change 0.85",
+  "GST Analysis Goods Tax Amount",
+  "| S = 6% 0.00 0.00",
+  "Z = 0% 66.17 0.00",
+  "Consider PTS: 66"
+ ],
+ "tokens": [
+  {
+   "text": "STAR",
+   "conf": 0.95
+  },
+  {
+   "text": "GROCER",
+   "conf": 0.95
+  },
+  {
+   "text": "SDN",
+   "conf": 0.95
+  },
+  {
+   "text": "BHD",
+   "conf": 0.92
+  },
+  {
+   "text": "(1171881-W)",
+   "conf": 0.91
+  },
+  {
+   "text": "No",
+   "conf": 0.96
+  },
+  {
+   "text": "4,",
+   "conf": 0.96
+  },
+  {
+   "text": "Desa",
+   "conf": 0.96
+  },
+  {
+   "text": "Pandan,",
+   "conf": 0.96
+  },
+  {
+   "text": "Off",
+   "conf": 0.93
+  },
+  {
+   "text": "kampong",
+   "conf": 0.91
+  },
+  {
+   "text": "Pandan,",
+   "conf": 0.95
+  },
+  {
+   "text": "55100",
+   "conf": 0.96
+  },
+  {
+   "text": "Kuala",
+   "conf": 0.96
+  },
+  {
+   "text": "Lumpur",
+   "conf": 0.96
+  },
+  {
+   "text": "(GST",
+   "conf": 0.96
+  },
+  {
+   "text": "REG",
+   "conf": 0.96
+  },
+  {
+   "text": "NO:",
+   "conf": 0.92
+  },
+  {
+   "text": "000915943424)",
+   "conf": 0.96
+  },
+  {
+   "text": "Tax",
+   "conf": 0.96
+  },
+  {
+   "text": "Invoices",
+   "conf": 0.96
+  },
+  {
+   "text": "Tax",
+   "conf": 0.94
+  },
+  {
+   "text": "Invoice",
+   "conf": 0.91
+  },
+  {
+   "text": ":",
+   "conf": 0.29
+  },
+  {
+   "text": "DSPO5201803250022",
+   "conf": 0.55
+  },
+  {
+   "text": "25/03/18",
+   "conf": 0.96
+  },
+  {
+   "text": "Cashiér",
+   "conf": 0.27
+  },
+  {
+   "text": ":",
+   "conf": 0.27
+  },
+  {
+   "text": "Raja",
+   "conf": 0.96
+  },
+  {
+   "text": "Nur",
+   "conf": 0.96
+  },
+  {
+   "text": "13:43:11",
+   "conf": 0.65
+  },
+  {
+   "text": "CARROT",
+   "conf": 0.91
+  },
+  {
+   "text": "S/M",
+   "conf": 0.91
+  },
+  {
+   "text": "500GM",
+   "conf": 0.83
+  },
+  {
+   "text": "CH",
+   "conf": 0.91
+  },
+  {
+   "text": "(PKT)",
+   "conf": 0.91
+  },
+  {
+   "text": "1800001501",
+   "conf": 0.96
+  },
+  {
+   "text": "1.59*8",
+   "conf": 0.3
+  },
+  {
+   "text": "12.72",
+   "conf": 0.85
+  },
+  {
+   "text": "2",
+   "conf": 0.93
+  },
+  {
+   "text": "JAMBU",
+   "conf": 0.92
+  },
+  {
+   "text": "BATU",
+   "conf": 0.91
+  },
+  {
+   "text": "(GUAVA",
+   "conf": 0.91
+  },
+  {
+   "text": "SEEDLESS/",
+   "conf": 0.9
+  },
+  {
+   "text": "MUTIARA)",
+   "conf": 0.9
+  },
+  {
+   "text": "KG",
+   "conf": 0.95
+  },
+  {
+   "text": "200033100148002149",
+   "conf": 0.92
+  },
+  {
+   "text": "6.92*0.214",
+   "conf": 0.36
+  },
+  {
+   "text": "148",
+   "conf": 0.82
+  },
+  {
+   "text": "2",
+   "conf": 0.73
+  },
+  {
+   "text": "MANGO",
+   "conf": 0.96
+  },
+  {
+   "text": "HONEY",
+   "conf": 0.96
+  },
+  {
+   "text": "(SUSU)",
+   "conf": 0.87
+  },
+  {
+   "text": "(KG)",
+   "conf": 0.96
+  },
+  {
+   "text": "200010800259005280",
+   "conf": 0.64
+  },
+  {
+   "text": "4.91*0.528",
+   "conf": 0.4
+  },
+  {
+   "text": "2.59",
+   "conf": 0.85
+  },
+  {
+   "text": "2",
+   "conf": 0.71
+  },
+  {
+   "text": "PINEAPPLE",
+   "conf": 0.96
+  },
+  {
+   "text": "LOCAL",
+   "conf": 0.96
+  },
+  {
+   "text": "1S",
+   "conf": 0.95
+  },
+  {
+   "text": "1810064501",
+   "conf": 0.96
+  },
+  {
+   "text": "8.60*2",
+   "conf": 0.91
+  },
+  {
+   "text": "17.20",
+   "conf": 0.91
+  },
+  {
+   "text": "Z",
+   "conf": 0.88
+  },
+  {
+   "text": "TIMUN",
+   "conf": 0.9
+  },
+  {
+   "text": "JEPUN",
+   "conf": 0.9
+  },
+  {
+   "text": "(JAPANESE",
+   "conf": 0.96
+  },
+  {
+   "text": "CUCUMBER)",
+   "conf": 0.96
+  },
+  {
+   "text": "KG",
+   "conf": 0.96
+  },
+  {
+   "text": "2000",
+   "conf": 0.47
+  },
+  {
+   "text": "17100108008367",
+   "conf": 0.47
+  },
+  {
+   "text": "1.29*0.837",
+   "conf": 0.28
+  },
+  {
+   "text": "1.08",
+   "conf": 0.95
+  },
+  {
+   "text": "2",
+   "conf": 0.82
+  },
+  {
+   "text": "US",
+   "conf": 0.96
+  },
+  {
+   "text": "GREEN",
+   "conf": 0.96
+  },
+  {
+   "text": "APPLE",
+   "conf": 0.95
+  },
+  {
+   "text": "(175)",
+   "conf": 0.95
+  },
+  {
+   "text": "10S",
+   "conf": 0.93
+  },
+  {
+   "text": "1810078202",
+   "conf": 0.96
+  },
+  {
+   "text": "MSOF",
+   "conf": 0.0
+  },
+  {
+   "text": "L",
+   "conf": 0.0
+  },
+  {
+   "text": "7.50",
+   "conf": 0.78
+  },
+  {
+   "text": "2",
+   "conf": 0.35
+  },
+  {
+   "text": "VALENCIA",
+   "conf": 0.96
+  },
+  {
+   "text": "SA",
+   "conf": 0.96
+  },
+  {
+   "text": "(105)",
+   "conf": 0.95
+  },
+  {
+   "text": "8S",
+   "conf": 0.94
+  },
+  {
+   "text": "1810061602",
+   "conf": 0.95
+  },
+  {
+   "text": "5.9074",
+   "conf": 0.25
+  },
+  {
+   "text": "23.60",
+   "conf": 0.91
+  },
+  {
+   "text": "Z",
+   "conf": 0.91
+  },
+  {
+   "text": "Item",
+   "conf": 0.96
+  },
+  {
+   "text": "7",
+   "conf": 0.96
+  },
+  {
+   "text": "Total",
+   "conf": 0.96
+  },
+  {
+   "text": "with",
+   "conf": 0.96
+  },
+  {
+   "text": "GST",
+   "conf": 0.93
+  },
+  {
+   "text": "@",
+   "conf": 0.93
+  },
+  {
+   "text": "5%",
+   "conf": 0.73
+  },
+  {
+   "text": "66.17",
+   "conf": 0.96
+  },
+  {
+   "text": "Qty",
+   "conf": 0.96
+  },
+  {
+   "text": "‘18",
+   "conf": 0.68
+  },
+  {
+   "text": "Rounding",
+   "conf": 0.96
+  },
+  {
+   "text": "-0,02",
+   "conf": 0.88
+  },
+  {
+   "text": "|",
+   "conf": 0.54
+  },
+  {
+   "text": "Total",
+   "conf": 0.95
+  },
+  {
+   "text": "Saving",
+   "conf": 0.81
+  },
+  {
+   "text": "0.00",
+   "conf": 0.81
+  },
+  {
+   "text": "Total",
+   "conf": 0.96
+  },
+  {
+   "text": "66.15",
+   "conf": 0.95
+  },
+  {
+   "text": "7",
+   "conf": 0.29
+  },
+  {
+   "text": "Tender",
+   "conf": 0.96
+  },
+  {
+   "text": "Cash",
+   "conf": 0.96
+  },
+  {
+   "text": "67.",
+   "conf": 0.53
+  },
+  {
+   "text": "GO",
+   "conf": 0.53
+  },
+  {
+   "text": "Change",
+   "conf": 0.96
+  },
+  {
+   "text": "0.85",
+   "conf": 0.74
+  },
+  {
+   "text": "GST",
+   "conf": 0.96
+  },
+  {
+   "text": "Analysis",
+   "conf": 0.96
+  },
+  {
+   "text": "Goods",
+   "conf": 0.79
+  },
+  {
+   "text": "Tax",
+   "conf": 0.79
+  },
+  {
+   "text": "Amount",
+   "conf": 0.96
+  },
+  {
+   "text": "|",
+   "conf": 0.42
+  },
+  {
+   "text": "S",
+   "conf": 0.89
+  },
+  {
+   "text": "=",
+   "conf": 0.94
+  },
+  {
+   "text": "6%",
+   "conf": 0.94
+  },
+  {
+   "text": "0.00",
+   "conf": 0.96
+  },
+  {
+   "text": "0.00",
+   "conf": 0.95
+  },
+  {
+   "text": "Z",
+   "conf": 0.92
+  },
+  {
+   "text": "=",
+   "conf": 0.89
+  },
+  {
+   "text": "0%",
+   "conf": 0.87
+  },
+  {
+   "text": "66.17",
+   "conf": 0.91
+  },
+  {
+   "text": "0.00",
+   "conf": 0.88
+  },
+  {
+   "text": "Consider",
+   "conf": 0.96
+  },
+  {
+   "text": "PTS:",
+   "conf": 0.94
+  },
+  {
+   "text": "66",
+   "conf": 0.96
+  }
+ ],
+ "mean_conf": 0.8355,
+ "low_conf_share": 0.1095,
+ "latency_ms": 2512,
+ "fields": {
+  "company": "STAR GROCER SDN BHD",
+  "date": "2018-03-25",
+  "total": 66.17
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  66.17
+ ],
+ "key": "X51005444046"
+}

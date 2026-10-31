@@ -1,0 +1,209 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "GLHAMDICRAFT& TAILCRING",
+  "19,JALANKANGIL,",
+  "OFFJALANPUDU",
+  "551OOKUALALLUMPLR",
+  "MALAYSIA",
+  "company Reg No. :75495-W",
+  "GST Re9 No. :001948532736",
+  "TAXINVOICE",
+  "Involce No.: CG 10217",
+  "Dale: 09/04/201810:52",
+  "Cashler苏： 01",
+  "Code",
+  "NONA MACRYIGYARN",
+  "8.00 PKTS 13.00 104.00 SR",
+  "Subtotal: 104.00",
+  "Total Exol.or GST 98.11",
+  "15501502101- 104.00",
+  "Totai Amt Rounded 104.00",
+  "Payment: 0040",
+  "Change Due : 0.00",
+  "Toial tem(a) : 8",
+  "GST Summary Amouni(RM) (WN)E1",
+  "@6% 96.11 5.69",
+  "THANKYOU*.",
+  "*PLEASE COMEAGAI"
+ ],
+ "tokens": [
+  {
+   "text": "GLHAMDICRAFT& TAILCRING",
+   "conf": 0.9252419704976289
+  },
+  {
+   "text": "19,JALANKANGIL,",
+   "conf": 0.8773355623086293
+  },
+  {
+   "text": "OFFJALANPUDU",
+   "conf": 0.9518742263317108
+  },
+  {
+   "text": "551OOKUALALLUMPLR",
+   "conf": 0.8353023458929623
+  },
+  {
+   "text": "MALAYSIA",
+   "conf": 0.9873324111104012
+  },
+  {
+   "text": "company Reg No. :75495-W",
+   "conf": 0.9131398623188337
+  },
+  {
+   "text": "GST Re9 No. :001948532736",
+   "conf": 0.9495486640930175
+  },
+  {
+   "text": "TAXINVOICE",
+   "conf": 0.9480135381221771
+  },
+  {
+   "text": "Involce No.:",
+   "conf": 0.9327635566393534
+  },
+  {
+   "text": "CG 10217",
+   "conf": 0.9274862036108971
+  },
+  {
+   "text": "Dale:",
+   "conf": 0.8674540519714355
+  },
+  {
+   "text": "09/04/201810:52",
+   "conf": 0.9884186148643493
+  },
+  {
+   "text": "Cashler苏：",
+   "conf": 0.7984040213955773
+  },
+  {
+   "text": "01",
+   "conf": 0.9917872250080109
+  },
+  {
+   "text": "Code",
+   "conf": 0.9070277214050293
+  },
+  {
+   "text": "NONA MACRYIGYARN",
+   "conf": 0.9389878548681736
+  },
+  {
+   "text": "8.00 PKTS",
+   "conf": 0.9059411817126803
+  },
+  {
+   "text": "13.00",
+   "conf": 0.9972763895988465
+  },
+  {
+   "text": "104.00",
+   "conf": 0.9932961563269297
+  },
+  {
+   "text": "SR",
+   "conf": 0.9119553565979004
+  },
+  {
+   "text": "Subtotal:",
+   "conf": 0.974539577960968
+  },
+  {
+   "text": "104.00",
+   "conf": 0.9890613555908203
+  },
+  {
+   "text": "Total Exol.or GST",
+   "conf": 0.8426070423687205
+  },
+  {
+   "text": "98.11",
+   "conf": 0.9844637274742126
+  },
+  {
+   "text": "15501502101-",
+   "conf": 0.627681074043115
+  },
+  {
+   "text": "104.00",
+   "conf": 0.992627481619517
+  },
+  {
+   "text": "Totai Amt Rounded",
+   "conf": 0.9056999613257015
+  },
+  {
+   "text": "104.00",
+   "conf": 0.9884210228919983
+  },
+  {
+   "text": "Payment:",
+   "conf": 0.9906868860125542
+  },
+  {
+   "text": "0040",
+   "conf": 0.5036649033427238
+  },
+  {
+   "text": "Change Due :",
+   "conf": 0.9817070066928864
+  },
+  {
+   "text": "0.00",
+   "conf": 0.999663844704628
+  },
+  {
+   "text": "Toial tem(a) : 8",
+   "conf": 0.7987840007990599
+  },
+  {
+   "text": "GST Summary",
+   "conf": 0.8762135993350636
+  },
+  {
+   "text": "Amouni(RM)",
+   "conf": 0.9329266756772995
+  },
+  {
+   "text": "(WN)E1",
+   "conf": 0.5040926237901052
+  },
+  {
+   "text": "@6%",
+   "conf": 0.993208110332489
+  },
+  {
+   "text": "96.11",
+   "conf": 0.9828914642333985
+  },
+  {
+   "text": "5.69",
+   "conf": 0.9728446006774902
+  },
+  {
+   "text": "THANKYOU*.",
+   "conf": 0.7854182988405227
+  },
+  {
+   "text": "*PLEASE COMEAGAI",
+   "conf": 0.931421559303999
+  }
+ ],
+ "mean_conf": 0.9051,
+ "low_conf_share": 0.0,
+ "latency_ms": 3910,
+ "fields": {
+  "company": "GLHAMDICRAFT TAILCRING",
+  "date": "2018-04-09",
+  "total": 98.11
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  98.11
+ ],
+ "key": "X51006350763"
+}

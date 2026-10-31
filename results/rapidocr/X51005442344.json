@@ -1,0 +1,337 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "YONG TAT HARDWARE TRADING",
+  "(JM0292487-D)",
+  "NO4,JALANPERJIRANAN10,",
+  "TAMANAIRBIRU.",
+  "81700PASIRGUDANG,",
+  "JOHOR.",
+  "TEL:07-2614733FAX:07-2514733",
+  "YONGTAT99@YAHOO.COM.MY",
+  "GSTID:001570349056",
+  "TAXINVOICE",
+  "DocNo. ：CS00035863 Date:13/03/2018",
+  "Cashier ：USER Time:12:49:00",
+  "Salesperson Ref.:",
+  "Itern 2687 1.00PCS Gty S/Price 48.00 S/Price (GST) 50.88 Anoumi (GST) 50.88 Tax SR",
+  "10WINGCOMPASS 681801",
+  "5736 1.00SET 47.17 00:09 50.00 SR",
+  "118-3/412PCSHOLLOWPUNCHSET 6",
+  "Total Qty. 2 100.88",
+  "Total Sales(Excluding GST): 95.17",
+  "Discount 0.00",
+  "Total GST: 5.71",
+  "Roundlng 0.02",
+  "Total Sales (Inclusive of GST): 100.90",
+  "CASH: 101.00",
+  "Change: 0.10",
+  "GSTSUMMARY",
+  "IaxCoda SR % G Amt(RM) 95.17 Tax(RM) 6.71",
+  "Total: 95.17 5.71",
+  "GOODS SOLIARENOT RETURNABLE,THANKYOU"
+ ],
+ "tokens": [
+  {
+   "text": "YONG TAT HARDWARE TRADING",
+   "conf": 0.9390671467781067
+  },
+  {
+   "text": "(JM0292487-D)",
+   "conf": 0.9692293451382563
+  },
+  {
+   "text": "NO4,JALANPERJIRANAN10,",
+   "conf": 0.9391772543842142
+  },
+  {
+   "text": "TAMANAIRBIRU.",
+   "conf": 0.9594861498245826
+  },
+  {
+   "text": "81700PASIRGUDANG,",
+   "conf": 0.9635572784087237
+  },
+  {
+   "text": "JOHOR.",
+   "conf": 0.9862231413523356
+  },
+  {
+   "text": "TEL:07-2614733FAX:07-2514733",
+   "conf": 0.9831272512674332
+  },
+  {
+   "text": "YONGTAT99@YAHOO.COM.MY",
+   "conf": 0.9647201110016216
+  },
+  {
+   "text": "GSTID:001570349056",
+   "conf": 0.9820931951204935
+  },
+  {
+   "text": "TAXINVOICE",
+   "conf": 0.8935321182012558
+  },
+  {
+   "text": "DocNo.",
+   "conf": 0.8339705417553583
+  },
+  {
+   "text": "：CS00035863",
+   "conf": 0.9519917260516774
+  },
+  {
+   "text": "Date:13/03/2018",
+   "conf": 0.9806631167729696
+  },
+  {
+   "text": "：USER",
+   "conf": 0.8843144297599792
+  },
+  {
+   "text": "Time:12:49:00",
+   "conf": 0.9606546805455134
+  },
+  {
+   "text": "Cashier",
+   "conf": 0.968944787979126
+  },
+  {
+   "text": "Ref.:",
+   "conf": 0.8986559987068177
+  },
+  {
+   "text": "Salesperson",
+   "conf": 0.9922005317427895
+  },
+  {
+   "text": "(GST)",
+   "conf": 0.9799534797668457
+  },
+  {
+   "text": "(GST)",
+   "conf": 0.9663312673568726
+  },
+  {
+   "text": "S/Price",
+   "conf": 0.8105966108185905
+  },
+  {
+   "text": "S/Price",
+   "conf": 0.9063692688941956
+  },
+  {
+   "text": "Anoumi",
+   "conf": 0.6859702418247858
+  },
+  {
+   "text": "Tax",
+   "conf": 0.9750237663586935
+  },
+  {
+   "text": "Itern",
+   "conf": 0.8396270632743835
+  },
+  {
+   "text": "Gty",
+   "conf": 0.6429014305273691
+  },
+  {
+   "text": "48.00",
+   "conf": 0.9780272006988525
+  },
+  {
+   "text": "50.88",
+   "conf": 0.9952342867851257
+  },
+  {
+   "text": "50.88",
+   "conf": 0.953723132610321
+  },
+  {
+   "text": "SR",
+   "conf": 0.9900660812854767
+  },
+  {
+   "text": "2687",
+   "conf": 0.8754457384347916
+  },
+  {
+   "text": "1.00PCS",
+   "conf": 0.992421533380236
+  },
+  {
+   "text": "10WINGCOMPASS",
+   "conf": 0.9902050403448251
+  },
+  {
+   "text": "681801",
+   "conf": 0.7332712014516195
+  },
+  {
+   "text": "1.00SET",
+   "conf": 0.9591426849365234
+  },
+  {
+   "text": "47.17",
+   "conf": 0.994645869731903
+  },
+  {
+   "text": "00:09",
+   "conf": 0.8454198598861694
+  },
+  {
+   "text": "50.00",
+   "conf": 0.9992159605026245
+  },
+  {
+   "text": "SR",
+   "conf": 0.9952040612697601
+  },
+  {
+   "text": "5736",
+   "conf": 0.9379258006811142
+  },
+  {
+   "text": "6",
+   "conf": 0.69676673412323
+  },
+  {
+   "text": "118-3/412PCSHOLLOWPUNCHSET",
+   "conf": 0.9311838837770315
+  },
+  {
+   "text": "100.88",
+   "conf": 0.9316903154055277
+  },
+  {
+   "text": "Total Qty.",
+   "conf": 0.8929350942373275
+  },
+  {
+   "text": "2",
+   "conf": 0.9975699782371521
+  },
+  {
+   "text": "95.17",
+   "conf": 0.9973142981529236
+  },
+  {
+   "text": "Total Sales(Excluding GST):",
+   "conf": 0.9388767856138723
+  },
+  {
+   "text": "Discount",
+   "conf": 0.9870904088020325
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9779163300991058
+  },
+  {
+   "text": "Total GST:",
+   "conf": 0.9070540487766265
+  },
+  {
+   "text": "5.71",
+   "conf": 0.9970947206020355
+  },
+  {
+   "text": "Roundlng",
+   "conf": 0.8979966789484024
+  },
+  {
+   "text": "0.02",
+   "conf": 0.9974368810653687
+  },
+  {
+   "text": "Total Sales (Inclusive of GST):",
+   "conf": 0.8877830466916484
+  },
+  {
+   "text": "100.90",
+   "conf": 0.9915052056312561
+  },
+  {
+   "text": "CASH:",
+   "conf": 0.9426236748695374
+  },
+  {
+   "text": "101.00",
+   "conf": 0.9986537396907806
+  },
+  {
+   "text": "Change:",
+   "conf": 0.9721631492887225
+  },
+  {
+   "text": "0.10",
+   "conf": 0.9958734214305878
+  },
+  {
+   "text": "GSTSUMMARY",
+   "conf": 0.9786181449890137
+  },
+  {
+   "text": "%",
+   "conf": 0.9171791672706604
+  },
+  {
+   "text": "Amt(RM)",
+   "conf": 0.9423413021223885
+  },
+  {
+   "text": "Tax(RM)",
+   "conf": 0.8661703297070095
+  },
+  {
+   "text": "IaxCoda",
+   "conf": 0.8733826109341213
+  },
+  {
+   "text": "G",
+   "conf": 0.5187487006187439
+  },
+  {
+   "text": "95.17",
+   "conf": 0.9679166555404664
+  },
+  {
+   "text": "6.71",
+   "conf": 0.9358662813901901
+  },
+  {
+   "text": "SR",
+   "conf": 0.9894462525844574
+  },
+  {
+   "text": "Total:",
+   "conf": 0.9704013764858246
+  },
+  {
+   "text": "95.17",
+   "conf": 0.9983380198478699
+  },
+  {
+   "text": "5.71",
+   "conf": 0.9908422082662582
+  },
+  {
+   "text": "GOODS SOLIARENOT RETURNABLE,THANKYOU",
+   "conf": 0.9333633714252048
+  }
+ ],
+ "mean_conf": 0.9295,
+ "low_conf_share": 0.0,
+ "latency_ms": 4959,
+ "fields": {
+  "company": "YONG TAT HARDWARE TRADING",
+  "date": "2018-03-13",
+  "total": 100.9
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  100.9
+ ],
+ "key": "X51005442344"
+}

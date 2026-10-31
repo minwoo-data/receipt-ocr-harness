@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.1-flash-lite",
+ "provider": "gemini",
+ "raw_text": "{\n  \"vendor\": \"Din Tai Fung Restaurant\",\n  \"date\": \"2016-11-02\",\n  \"subtotal\": 117.0,\n  \"tax\": null,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 117.0,\n  \"currency\": \"AED\",\n  \"confidence\": 1.0,\n  \"notes\": null\n}",
+ "data": {
+  "vendor": "Din Tai Fung Restaurant",
+  "date": "2016-11-02",
+  "subtotal": 117.0,
+  "tax": null,
+  "tip": null,
+  "discount": null,
+  "total": 117.0,
+  "currency": "AED",
+  "confidence": 1.0,
+  "notes": null
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1471,
+  "output_tokens": 102,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.000521,
+ "latency_ms": 1881,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.1-flash-lite",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.1-flash-lite"
+ ],
+ "key": "W0135_3f915c4fd0e6"
+}

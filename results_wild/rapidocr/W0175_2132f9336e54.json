@@ -1,0 +1,179 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "Cornerstone Cafe",
+  "17AvenueB",
+  "New York,NY 10009",
+  "212.228.1260",
+  "Check #:6178 8/16/17",
+  "Server: Rubi. 11:04AM",
+  "TO GO:Ching Chong",
+  "Customer Name: Ching Chong",
+  "=2nd Course",
+  "1Steak&Eggs 16.00",
+  "Sub-total 16.00",
+  "SalesTax 1.42",
+  "TOTAL 17.42",
+  "Cash Payment PAYMENTS 20.00",
+  "CHANGE 2.58",
+  "TOTAL PAYMENTS 17.42",
+  "TOTALTIPS 0.00",
+  "Balance Due 0.00",
+  "Suggested Tips:",
+  "18%=2.88",
+  "20%=3.20",
+  "22%=3.52"
+ ],
+ "tokens": [
+  {
+   "text": "Cornerstone Cafe",
+   "conf": 0.9558973759412766
+  },
+  {
+   "text": "17AvenueB",
+   "conf": 0.9851283364825778
+  },
+  {
+   "text": "New York,NY 10009",
+   "conf": 0.9470965406473946
+  },
+  {
+   "text": "212.228.1260",
+   "conf": 0.9862570762634277
+  },
+  {
+   "text": "Check #:6178",
+   "conf": 0.9430886457363764
+  },
+  {
+   "text": "8/16/17",
+   "conf": 0.9948357513972691
+  },
+  {
+   "text": "Server: Rubi.",
+   "conf": 0.9253113774152902
+  },
+  {
+   "text": "11:04AM",
+   "conf": 0.9897185904639108
+  },
+  {
+   "text": "TO GO:Ching Chong",
+   "conf": 0.9249653255238253
+  },
+  {
+   "text": "Customer Name: Ching Chong",
+   "conf": 0.9652496553384341
+  },
+  {
+   "text": "=2nd Course",
+   "conf": 0.8988515436649323
+  },
+  {
+   "text": "1Steak&Eggs",
+   "conf": 0.9603938406163995
+  },
+  {
+   "text": "16.00",
+   "conf": 0.9961546778678894
+  },
+  {
+   "text": "Sub-total",
+   "conf": 0.9895539416207207
+  },
+  {
+   "text": "16.00",
+   "conf": 0.995129919052124
+  },
+  {
+   "text": "SalesTax",
+   "conf": 0.9875189140439034
+  },
+  {
+   "text": "1.42",
+   "conf": 0.9879350811243057
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.9932451009750366
+  },
+  {
+   "text": "17.42",
+   "conf": 0.9953973412513732
+  },
+  {
+   "text": "PAYMENTS",
+   "conf": 0.9886421412229538
+  },
+  {
+   "text": "Cash Payment",
+   "conf": 0.9850830137729645
+  },
+  {
+   "text": "20.00",
+   "conf": 0.998108172416687
+  },
+  {
+   "text": "CHANGE",
+   "conf": 0.9954396684964498
+  },
+  {
+   "text": "2.58",
+   "conf": 0.9954963624477386
+  },
+  {
+   "text": "17.42",
+   "conf": 0.994853138923645
+  },
+  {
+   "text": "TOTAL PAYMENTS",
+   "conf": 0.9603508497987475
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9953597635030746
+  },
+  {
+   "text": "TOTALTIPS",
+   "conf": 0.9924993713696798
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9971890151500702
+  },
+  {
+   "text": "Balance Due",
+   "conf": 0.952757943760265
+  },
+  {
+   "text": "Suggested Tips:",
+   "conf": 0.9515940348307291
+  },
+  {
+   "text": "18%=2.88",
+   "conf": 0.9954626634716988
+  },
+  {
+   "text": "20%=3.20",
+   "conf": 0.9948202520608902
+  },
+  {
+   "text": "22%=3.52",
+   "conf": 0.9934196472167969
+  }
+ ],
+ "mean_conf": 0.9768,
+ "low_conf_share": 0.0,
+ "latency_ms": 3022,
+ "fields": {
+  "company": "CORNERSTONE CAFE",
+  "date": "2017-08-16",
+  "total": 17.42
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  17.42,
+  17.42
+ ],
+ "key": "W0175_2132f9336e54"
+}

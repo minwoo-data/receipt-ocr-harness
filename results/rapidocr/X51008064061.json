@@ -1,0 +1,217 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "MR.D.I.Y.（M) SDN BHD",
+  "（C0REG:860871-D)",
+  "L0T 1851-A&1851-B,JALANKPB6,",
+  "KAWASANPERINDUSTRIANBALAKONG,",
+  "43300 SERI KEMBANGAN,SELANGOR",
+  "（GSTIDN0:000306020352)",
+  "(MELAWATI MALL)",
+  "-TAX INVOICE-",
+  "ARTLINE WHITEBOARD MAKER PEN 5OOA （R",
+  "WA25-24/288",
+  "4974052854583 1X3.10 3.10",
+  "ARTLINE WHITEBOARD MAKER PEN 5OOA（B*S",
+  "WA26-24/288",
+  "4974052854569 1X3.10 3.10",
+  "MAGNETICWHITEB0ARDLD001#120*90CM *S",
+  "HC07-08-6",
+  "9087397 1X63.00 63.00",
+  "Item(s):3 Qty(s):3",
+  "Total Incl.GST@6% RM 69.20",
+  "CASH RM69.20",
+  "GST Summary Amt(RM) Tax(RM)",
+  "GSTS@6% 65.28 3.92",
+  "03-05-1814:12SH02ZJ94 T1 R000090406",
+  "OPERATOR MLWC-SITIAISHAH",
+  "EXCHANGE ARE ALLOWED WITHIN",
+  "7DAYSWITHRECEIPT.",
+  "STRICTLYNO CASH REFUND."
+ ],
+ "tokens": [
+  {
+   "text": "MR.D.I.Y.（M) SDN BHD",
+   "conf": 0.92029899507761
+  },
+  {
+   "text": "（C0REG:860871-D)",
+   "conf": 0.9254270829260349
+  },
+  {
+   "text": "L0T 1851-A&1851-B,JALANKPB6,",
+   "conf": 0.9454490521124431
+  },
+  {
+   "text": "KAWASANPERINDUSTRIANBALAKONG,",
+   "conf": 0.9722622859066931
+  },
+  {
+   "text": "43300 SERI KEMBANGAN,SELANGOR",
+   "conf": 0.9209152110691728
+  },
+  {
+   "text": "（GSTIDN0:000306020352)",
+   "conf": 0.9323586604811929
+  },
+  {
+   "text": "(MELAWATI MALL)",
+   "conf": 0.9419779221216837
+  },
+  {
+   "text": "-TAX INVOICE-",
+   "conf": 0.9728250182591952
+  },
+  {
+   "text": "ARTLINE WHITEBOARD MAKER PEN 5OOA （R",
+   "conf": 0.9206758770677779
+  },
+  {
+   "text": "WA25-24/288",
+   "conf": 0.9961077841845426
+  },
+  {
+   "text": "4974052854583",
+   "conf": 0.9989966704295232
+  },
+  {
+   "text": "1X3.10",
+   "conf": 0.9326302309830984
+  },
+  {
+   "text": "3.10",
+   "conf": 0.997430607676506
+  },
+  {
+   "text": "ARTLINE WHITEBOARD MAKER PEN 5OOA（B*S",
+   "conf": 0.9348673772167515
+  },
+  {
+   "text": "WA26-24/288",
+   "conf": 0.9947369640523737
+  },
+  {
+   "text": "4974052854569",
+   "conf": 0.9985434688054599
+  },
+  {
+   "text": "1X3.10",
+   "conf": 0.941517194112142
+  },
+  {
+   "text": "3.10",
+   "conf": 0.9994797557592392
+  },
+  {
+   "text": "MAGNETICWHITEB0ARDLD001#120*90CM",
+   "conf": 0.972674336284399
+  },
+  {
+   "text": "*S",
+   "conf": 0.8885427713394165
+  },
+  {
+   "text": "HC07-08-6",
+   "conf": 0.9924892319573296
+  },
+  {
+   "text": "9087397",
+   "conf": 0.9983463883399963
+  },
+  {
+   "text": "1X63.00",
+   "conf": 0.9628292662756783
+  },
+  {
+   "text": "63.00",
+   "conf": 0.9987242579460144
+  },
+  {
+   "text": "Item(s):3",
+   "conf": 0.8649023506376479
+  },
+  {
+   "text": "Qty(s):3",
+   "conf": 0.8902910128235817
+  },
+  {
+   "text": "Total Incl.GST@6%",
+   "conf": 0.9702703777481528
+  },
+  {
+   "text": "RM 69.20",
+   "conf": 0.9664021730422974
+  },
+  {
+   "text": "CASH",
+   "conf": 0.9972998946905136
+  },
+  {
+   "text": "RM69.20",
+   "conf": 0.9977389744349888
+  },
+  {
+   "text": "GST Summary",
+   "conf": 0.9490179365331476
+  },
+  {
+   "text": "Amt(RM)",
+   "conf": 0.9073504975863865
+  },
+  {
+   "text": "Tax(RM)",
+   "conf": 0.9356322969709124
+  },
+  {
+   "text": "GSTS@6%",
+   "conf": 0.9950582981109619
+  },
+  {
+   "text": "65.28",
+   "conf": 0.9992204666137695
+  },
+  {
+   "text": "3.92",
+   "conf": 0.9991950690746307
+  },
+  {
+   "text": "03-05-1814:12SH02ZJ94",
+   "conf": 0.9922726580074855
+  },
+  {
+   "text": "T1 R000090406",
+   "conf": 0.9661891322869521
+  },
+  {
+   "text": "OPERATOR MLWC-SITIAISHAH",
+   "conf": 0.9740746021270752
+  },
+  {
+   "text": "EXCHANGE ARE ALLOWED WITHIN",
+   "conf": 0.9517373310195075
+  },
+  {
+   "text": "7DAYSWITHRECEIPT.",
+   "conf": 0.9770979495609508
+  },
+  {
+   "text": "STRICTLYNO CASH REFUND.",
+   "conf": 0.9429478075193323
+  }
+ ],
+ "mean_conf": 0.9604,
+ "low_conf_share": 0.0,
+ "latency_ms": 5545,
+ "fields": {
+  "company": "MR D I Y M SDN BHD",
+  "date": null,
+  "total": 69.2
+ },
+ "rule_reasons": [
+  "date_not_found"
+ ],
+ "total_candidates": [
+  69.2
+ ],
+ "key": "X51008064061"
+}

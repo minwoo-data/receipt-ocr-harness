@@ -1,0 +1,139 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "HOMEDELIVERY",
+  "QTY ITEM NAME AMOUNT",
+  "1 xo chicken 40.00",
+  "1 dnos mx mo 26.00",
+  "1 Prawns 8.00",
+  "1 Salt and Pepper 26.00",
+  "1 Chicken Wings",
+  "1 Chicken Spring Roll 24.00",
+  "GROSS AMT: 124.00",
+  "DATE :28-Jun-201505:30PM",
+  "FRESH FAST FANTASTIC"
+ ],
+ "tokens": [
+  {
+   "text": "HOMEDELIVERY",
+   "conf": 0.9952761431535085
+  },
+  {
+   "text": "QTY",
+   "conf": 0.9773865540822347
+  },
+  {
+   "text": "ITEM NAME",
+   "conf": 0.9843599398930868
+  },
+  {
+   "text": "AMOUNT",
+   "conf": 0.9959158400694529
+  },
+  {
+   "text": "1",
+   "conf": 0.7787332534790039
+  },
+  {
+   "text": "xo chicken",
+   "conf": 0.9002849876880645
+  },
+  {
+   "text": "40.00",
+   "conf": 0.9977586269378662
+  },
+  {
+   "text": "1",
+   "conf": 0.9573114514350891
+  },
+  {
+   "text": "dnos mx mo",
+   "conf": 0.685264091193676
+  },
+  {
+   "text": "26.00",
+   "conf": 0.9941560864448548
+  },
+  {
+   "text": "1",
+   "conf": 0.9637754559516907
+  },
+  {
+   "text": "Prawns",
+   "conf": 0.9942442576090494
+  },
+  {
+   "text": "8.00",
+   "conf": 0.9984664171934128
+  },
+  {
+   "text": "1",
+   "conf": 0.9474276900291443
+  },
+  {
+   "text": "Salt and Pepper",
+   "conf": 0.9382300257682801
+  },
+  {
+   "text": "26.00",
+   "conf": 0.9983813405036926
+  },
+  {
+   "text": "1",
+   "conf": 0.899372935295105
+  },
+  {
+   "text": "Chicken Wings",
+   "conf": 0.981045988889841
+  },
+  {
+   "text": "1",
+   "conf": 0.9888472557067871
+  },
+  {
+   "text": "Chicken Spring Roll",
+   "conf": 0.9615596250483864
+  },
+  {
+   "text": "24.00",
+   "conf": 0.9983460783958436
+  },
+  {
+   "text": "GROSS AMT:",
+   "conf": 0.9292394578456878
+  },
+  {
+   "text": "124.00",
+   "conf": 0.9992024898529053
+  },
+  {
+   "text": "DATE",
+   "conf": 0.9943448454141617
+  },
+  {
+   "text": ":28-Jun-201505:30PM",
+   "conf": 0.9689143801990309
+  },
+  {
+   "text": "FRESH FAST FANTASTIC",
+   "conf": 0.969066196680069
+  }
+ ],
+ "mean_conf": 0.9537,
+ "low_conf_share": 0.0,
+ "latency_ms": 2788,
+ "fields": {
+  "company": "HOMEDELIVERY",
+  "date": "2015-06-28",
+  "total": 124.0
+ },
+ "rule_reasons": [
+  "total_no_keyword_fallback_max"
+ ],
+ "total_candidates": [
+  26.0,
+  24.0,
+  124.0
+ ],
+ "key": "W0146_2c6512feaa25"
+}

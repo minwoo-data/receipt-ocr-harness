@@ -1,0 +1,265 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "HASHA PETROKIOSK",
+  "Company No:_JM0632980-V",
+  "LotPT0 198718Tnn SierraP",
+  "81750_Masai Johor",
+  "Site:2591",
+  "Telephone:073000190",
+  "GST No:000908345344",
+  ">>>>>>>Receipt<<<<<<<",
+  "Invoice nunber:60000437782",
+  "FuelSave 95 22.73 litre Punp # 02 RM 50.00C",
+  "Cash Relief GST Total Total Gross 2.200 RM C C /litre RM RM RM RM 50.00 50.00 50.00 0.00",
+  "2018-04-06 17:36:35",
+  "Terminal ID: Customer Copy 84259112",
+  "Entry Mode: ID/STAN: 274961/000000 MSR/1",
+  "Card: Attendant Tag Card xxXxxxxxx0053",
+  "Response:- ★************************** 000 APPROVED",
+  "Attendant:",
+  "MRifan",
+  "Date Tire Nun OPT",
+  "06/04/1817:364176602",
+  "Diesel & Petrol R0N95",
+  "givenRelief underSection",
+  "56（3)(b)GST Act 2014",
+  "Thank you",
+  "Please cone again"
+ ],
+ "tokens": [
+  {
+   "text": "HASHA PETROKIOSK",
+   "conf": 0.9537591151893139
+  },
+  {
+   "text": "Company No:_JM0632980-V",
+   "conf": 0.9495630756668423
+  },
+  {
+   "text": "LotPT0 198718Tnn SierraP",
+   "conf": 0.9004044483105341
+  },
+  {
+   "text": "81750_Masai Johor",
+   "conf": 0.9582931329222286
+  },
+  {
+   "text": "Site:2591",
+   "conf": 0.9753198954794142
+  },
+  {
+   "text": "Telephone:073000190",
+   "conf": 0.9850386381149292
+  },
+  {
+   "text": "GST No:000908345344",
+   "conf": 0.9810226622380709
+  },
+  {
+   "text": ">>>>>>>Receipt<<<<<<<",
+   "conf": 0.9317779824847267
+  },
+  {
+   "text": "Invoice nunber:60000437782",
+   "conf": 0.9586568612318772
+  },
+  {
+   "text": "22.73 litre Punp # 02",
+   "conf": 0.9457892179489136
+  },
+  {
+   "text": "FuelSave 95",
+   "conf": 0.9558905037966642
+  },
+  {
+   "text": "RM",
+   "conf": 0.99591925740242
+  },
+  {
+   "text": "50.00C",
+   "conf": 0.9873514572779337
+  },
+  {
+   "text": "2.200",
+   "conf": 0.9996693849563598
+  },
+  {
+   "text": "RM",
+   "conf": 0.9774970412254333
+  },
+  {
+   "text": "/litre",
+   "conf": 0.9267473916212717
+  },
+  {
+   "text": "RM",
+   "conf": 0.9965652227401733
+  },
+  {
+   "text": "50.00",
+   "conf": 0.999212920665741
+  },
+  {
+   "text": "Total",
+   "conf": 0.9974567770957947
+  },
+  {
+   "text": "RM",
+   "conf": 0.9983599483966827
+  },
+  {
+   "text": "50.00",
+   "conf": 0.9998043179512024
+  },
+  {
+   "text": "Cash",
+   "conf": 0.9912379086017609
+  },
+  {
+   "text": "C",
+   "conf": 0.9892182350158691
+  },
+  {
+   "text": "RM",
+   "conf": 0.9964370429515839
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9986174404621124
+  },
+  {
+   "text": "Relief GST",
+   "conf": 0.9598576664924622
+  },
+  {
+   "text": "C",
+   "conf": 0.9697098731994629
+  },
+  {
+   "text": "RM",
+   "conf": 0.9961753487586975
+  },
+  {
+   "text": "50.00",
+   "conf": 0.9995634436607361
+  },
+  {
+   "text": "Total Gross",
+   "conf": 0.9179116108200767
+  },
+  {
+   "text": "2018-04-06 17:36:35",
+   "conf": 0.9805821713648344
+  },
+  {
+   "text": "Customer Copy",
+   "conf": 0.9474584276859577
+  },
+  {
+   "text": "84259112",
+   "conf": 0.9981535151600838
+  },
+  {
+   "text": "Terminal ID:",
+   "conf": 0.9452840189139048
+  },
+  {
+   "text": "ID/STAN:",
+   "conf": 0.942101925611496
+  },
+  {
+   "text": "274961/000000",
+   "conf": 0.9977929683832022
+  },
+  {
+   "text": "MSR/1",
+   "conf": 0.981584656238556
+  },
+  {
+   "text": "Entry Mode:",
+   "conf": 0.9567156650803306
+  },
+  {
+   "text": "Card:",
+   "conf": 0.9962533593177796
+  },
+  {
+   "text": "Attendant Tag Card",
+   "conf": 0.9562914139694638
+  },
+  {
+   "text": "xxXxxxxxx0053",
+   "conf": 0.7245289866740887
+  },
+  {
+   "text": "Response:-",
+   "conf": 0.9832071900367737
+  },
+  {
+   "text": "000 APPROVED",
+   "conf": 0.9155457566181818
+  },
+  {
+   "text": "★**************************",
+   "conf": 0.893326066158436
+  },
+  {
+   "text": "Attendant:",
+   "conf": 0.9893270373344422
+  },
+  {
+   "text": "MRifan",
+   "conf": 0.9986939032872518
+  },
+  {
+   "text": "Tire Nun",
+   "conf": 0.8377531729638577
+  },
+  {
+   "text": "OPT",
+   "conf": 0.9797717531522115
+  },
+  {
+   "text": "Date",
+   "conf": 0.9912232905626297
+  },
+  {
+   "text": "06/04/1817:364176602",
+   "conf": 0.9961315900087356
+  },
+  {
+   "text": "Diesel & Petrol R0N95",
+   "conf": 0.9341110331671578
+  },
+  {
+   "text": "givenRelief underSection",
+   "conf": 0.9721391648054123
+  },
+  {
+   "text": "56（3)(b)GST Act 2014",
+   "conf": 0.8916891664266586
+  },
+  {
+   "text": "Thank you",
+   "conf": 0.9559044374359978
+  },
+  {
+   "text": "Please cone again",
+   "conf": 0.9368824503001045
+  }
+ ],
+ "mean_conf": 0.9617,
+ "low_conf_share": 0.0,
+ "latency_ms": 4048,
+ "fields": {
+  "company": "HASHA PETROKIOSK",
+  "date": "2018-04-06",
+  "total": null
+ },
+ "rule_reasons": [
+  "total_not_found"
+ ],
+ "total_candidates": [],
+ "key": "X51006414519"
+}

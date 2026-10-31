@@ -1,0 +1,133 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "PEARLRIVERSEAFOODRESTAURANT",
+  "19 JALAN SULTAN ISMAIL,KUALA LUMPUR",
+  "TAX INVOICE",
+  "Date:24/07/28 Time:13:42",
+  "3X DISHS0AP900ML 22.20",
+  "1x ENGINEOIL4L 89.00",
+  "3x DISHS0AP900ML 22.20",
+  "SUBTOTAL 133.40",
+  "GST6% 8.00",
+  "TOTAL 141.40",
+  "CASH 146.40",
+  "CHANGE 5.00",
+  "THANK YOU,PLEASE COME AGAIN"
+ ],
+ "tokens": [
+  {
+   "text": "PEARLRIVERSEAFOODRESTAURANT",
+   "conf": 0.9875181957527444
+  },
+  {
+   "text": "19 JALAN SULTAN ISMAIL,KUALA LUMPUR",
+   "conf": 0.934574899503163
+  },
+  {
+   "text": "TAX INVOICE",
+   "conf": 0.9630556323311545
+  },
+  {
+   "text": "Date:24/07/28",
+   "conf": 0.9890490495241605
+  },
+  {
+   "text": "Time:13:42",
+   "conf": 0.985132372379303
+  },
+  {
+   "text": "22.20",
+   "conf": 0.9989846825599671
+  },
+  {
+   "text": "3X",
+   "conf": 0.7315310537815094
+  },
+  {
+   "text": "DISHS0AP900ML",
+   "conf": 0.9618375759858352
+  },
+  {
+   "text": "89.00",
+   "conf": 0.9992790699005127
+  },
+  {
+   "text": "1x",
+   "conf": 0.7766256928443909
+  },
+  {
+   "text": "ENGINEOIL4L",
+   "conf": 0.9757444641806863
+  },
+  {
+   "text": "22.20",
+   "conf": 0.9988874077796936
+  },
+  {
+   "text": "3x",
+   "conf": 0.7344175726175308
+  },
+  {
+   "text": "DISHS0AP900ML",
+   "conf": 0.9558314360105075
+  },
+  {
+   "text": "133.40",
+   "conf": 0.9987895886103312
+  },
+  {
+   "text": "SUBTOTAL",
+   "conf": 0.9956111237406731
+  },
+  {
+   "text": "8.00",
+   "conf": 0.9994095861911774
+  },
+  {
+   "text": "GST6%",
+   "conf": 0.9993211269378662
+  },
+  {
+   "text": "141.40",
+   "conf": 0.9993134538332621
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.9949693441390991
+  },
+  {
+   "text": "146.40",
+   "conf": 0.9996417065461477
+  },
+  {
+   "text": "CASH",
+   "conf": 0.9970509111881256
+  },
+  {
+   "text": "5.00",
+   "conf": 0.999628335237503
+  },
+  {
+   "text": "CHANGE",
+   "conf": 0.9942460358142853
+  },
+  {
+   "text": "THANK YOU,PLEASE COME AGAIN",
+   "conf": 0.9323865594687285
+  }
+ ],
+ "mean_conf": 0.9561,
+ "low_conf_share": 0.0,
+ "latency_ms": 17413,
+ "fields": {
+  "company": "PEARLRIVERSEAFOODRESTAURANT",
+  "date": "2028-07-24",
+  "total": 141.4
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  141.4
+ ],
+ "key": "SYN008"
+}

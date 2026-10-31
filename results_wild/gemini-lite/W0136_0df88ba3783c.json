@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.1-flash-lite",
+ "provider": "gemini",
+ "raw_text": "{\n  \"vendor\": \"ROSS\",\n  \"date\": \"2016-07-25\",\n  \"subtotal\": 100.0,\n  \"tax\": null,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 100.0,\n  \"currency\": \"USD\",\n  \"confidence\": 0.95,\n  \"notes\": \"This is a receipt for a gift card purchase.\"\n}",
+ "data": {
+  "vendor": "ROSS",
+  "date": "2016-07-25",
+  "subtotal": 100.0,
+  "tax": null,
+  "tip": null,
+  "discount": null,
+  "total": 100.0,
+  "currency": "USD",
+  "confidence": 0.95,
+  "notes": "This is a receipt for a gift card purchase."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1433,
+  "output_tokens": 109,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.000522,
+ "latency_ms": 1756,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.1-flash-lite",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.1-flash-lite"
+ ],
+ "key": "W0136_0df88ba3783c"
+}

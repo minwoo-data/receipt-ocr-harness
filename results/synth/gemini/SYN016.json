@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.6-flash",
+ "provider": "gemini",
+ "raw_text": "{\"vendor\":\"RAPID WHEELS AUTO SERVICE\",\"date\":\"2024-09-24\",\"subtotal\":57.7,\"tax\":3.46,\"tip\":null,\"discount\":null,\"total\":61.66,\"currency\":\"MYR\",\"confidence\":0.95,\"notes\":\"Location Jalan Klang Lama and GST 6% indicates Malaysian currency (MYR).\"}",
+ "data": {
+  "vendor": "RAPID WHEELS AUTO SERVICE",
+  "date": "2024-09-24",
+  "subtotal": 57.7,
+  "tax": 3.46,
+  "tip": null,
+  "discount": null,
+  "total": 61.66,
+  "currency": "MYR",
+  "confidence": 0.95,
+  "notes": "Location Jalan Klang Lama and GST 6% indicates Malaysian currency (MYR)."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1457,
+  "output_tokens": 85,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.001411,
+ "latency_ms": 1658,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.6-flash",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.6-flash"
+ ],
+ "key": "SYN016"
+}

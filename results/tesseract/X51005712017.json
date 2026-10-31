@@ -1,0 +1,445 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "\"",
+  "Gerbang Alaf Restaurants Sdn Bhd",
+  "(65351-M)",
+  "Licensee of McDonald's",
+  "Level’6, Bangunan TH, Damansara Uptown3",
+  "No.3, Jalan $S21/39,47400 Petaling Jaya",
+  ", Selangor",
+  "(GST ID No: 000504664064)",
+  "McDonald's Rawang DT(#188)",
+  "Tel No. 03-6092-1968",
+  "! TAX INVOICE",
+  "MFY Side 1",
+  "INV# 001881904580783",
+  "ORD #70 -REG #19- 18/03/2018 23:02:16",
+  "GTY ITEM TOTAL",
+  "1 L McChicken 11.10",
+  "“ — 1-L Coke",
+  "1L Fries",
+  "~ 2 Smal] Cone 2.00",
+  "TakeQut Total (incl GST) 13.10",
+  "Total Rounded 13.10",
+  "Cash Tendered 20.00",
+  "Change 6.90",
+  "TCTAL INCLUDES 6% GST 0.74",
+  "ink You and Please Come Again.",
+  "Guest Relations Center : 1300-13-1300",
+  "Mee “ an yey we a"
+ ],
+ "tokens": [
+  {
+   "text": "\"",
+   "conf": 0.0
+  },
+  {
+   "text": "Gerbang",
+   "conf": 0.91
+  },
+  {
+   "text": "Alaf",
+   "conf": 0.92
+  },
+  {
+   "text": "Restaurants",
+   "conf": 0.96
+  },
+  {
+   "text": "Sdn",
+   "conf": 0.96
+  },
+  {
+   "text": "Bhd",
+   "conf": 0.96
+  },
+  {
+   "text": "(65351-M)",
+   "conf": 0.9
+  },
+  {
+   "text": "Licensee",
+   "conf": 0.96
+  },
+  {
+   "text": "of",
+   "conf": 0.81
+  },
+  {
+   "text": "McDonald's",
+   "conf": 0.51
+  },
+  {
+   "text": "Level’6,",
+   "conf": 0.91
+  },
+  {
+   "text": "Bangunan",
+   "conf": 0.87
+  },
+  {
+   "text": "TH,",
+   "conf": 0.96
+  },
+  {
+   "text": "Damansara",
+   "conf": 0.82
+  },
+  {
+   "text": "Uptown3",
+   "conf": 0.85
+  },
+  {
+   "text": "No.3,",
+   "conf": 0.96
+  },
+  {
+   "text": "Jalan",
+   "conf": 0.93
+  },
+  {
+   "text": "$S21/39,47400",
+   "conf": 0.52
+  },
+  {
+   "text": "Petaling",
+   "conf": 0.96
+  },
+  {
+   "text": "Jaya",
+   "conf": 0.96
+  },
+  {
+   "text": ",",
+   "conf": 0.0
+  },
+  {
+   "text": "Selangor",
+   "conf": 0.95
+  },
+  {
+   "text": "(GST",
+   "conf": 0.95
+  },
+  {
+   "text": "ID",
+   "conf": 0.95
+  },
+  {
+   "text": "No:",
+   "conf": 0.96
+  },
+  {
+   "text": "000504664064)",
+   "conf": 0.96
+  },
+  {
+   "text": "McDonald's",
+   "conf": 0.93
+  },
+  {
+   "text": "Rawang",
+   "conf": 0.92
+  },
+  {
+   "text": "DT(#188)",
+   "conf": 0.88
+  },
+  {
+   "text": "Tel",
+   "conf": 0.96
+  },
+  {
+   "text": "No.",
+   "conf": 0.91
+  },
+  {
+   "text": "03-6092-1968",
+   "conf": 0.89
+  },
+  {
+   "text": "!",
+   "conf": 0.3
+  },
+  {
+   "text": "TAX",
+   "conf": 0.96
+  },
+  {
+   "text": "INVOICE",
+   "conf": 0.96
+  },
+  {
+   "text": "MFY",
+   "conf": 0.93
+  },
+  {
+   "text": "Side",
+   "conf": 0.96
+  },
+  {
+   "text": "1",
+   "conf": 0.96
+  },
+  {
+   "text": "INV#",
+   "conf": 0.89
+  },
+  {
+   "text": "001881904580783",
+   "conf": 0.92
+  },
+  {
+   "text": "ORD",
+   "conf": 0.96
+  },
+  {
+   "text": "#70",
+   "conf": 0.91
+  },
+  {
+   "text": "-REG",
+   "conf": 0.91
+  },
+  {
+   "text": "#19-",
+   "conf": 0.92
+  },
+  {
+   "text": "18/03/2018",
+   "conf": 0.96
+  },
+  {
+   "text": "23:02:16",
+   "conf": 0.95
+  },
+  {
+   "text": "GTY",
+   "conf": 0.91
+  },
+  {
+   "text": "ITEM",
+   "conf": 0.96
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.96
+  },
+  {
+   "text": "1",
+   "conf": 0.71
+  },
+  {
+   "text": "L",
+   "conf": 0.71
+  },
+  {
+   "text": "McChicken",
+   "conf": 0.87
+  },
+  {
+   "text": "11.10",
+   "conf": 0.96
+  },
+  {
+   "text": "“",
+   "conf": 0.0
+  },
+  {
+   "text": "—",
+   "conf": 0.0
+  },
+  {
+   "text": "1-L",
+   "conf": 0.2
+  },
+  {
+   "text": "Coke",
+   "conf": 0.96
+  },
+  {
+   "text": "1L",
+   "conf": 0.81
+  },
+  {
+   "text": "Fries",
+   "conf": 0.95
+  },
+  {
+   "text": "~",
+   "conf": 0.81
+  },
+  {
+   "text": "2",
+   "conf": 0.96
+  },
+  {
+   "text": "Smal]",
+   "conf": 0.76
+  },
+  {
+   "text": "Cone",
+   "conf": 0.96
+  },
+  {
+   "text": "2.00",
+   "conf": 0.96
+  },
+  {
+   "text": "TakeQut",
+   "conf": 0.41
+  },
+  {
+   "text": "Total",
+   "conf": 0.96
+  },
+  {
+   "text": "(incl",
+   "conf": 0.79
+  },
+  {
+   "text": "GST)",
+   "conf": 0.96
+  },
+  {
+   "text": "13.10",
+   "conf": 0.94
+  },
+  {
+   "text": "Total",
+   "conf": 0.78
+  },
+  {
+   "text": "Rounded",
+   "conf": 0.96
+  },
+  {
+   "text": "13.10",
+   "conf": 0.96
+  },
+  {
+   "text": "Cash",
+   "conf": 0.93
+  },
+  {
+   "text": "Tendered",
+   "conf": 0.91
+  },
+  {
+   "text": "20.00",
+   "conf": 0.95
+  },
+  {
+   "text": "Change",
+   "conf": 0.96
+  },
+  {
+   "text": "6.90",
+   "conf": 0.93
+  },
+  {
+   "text": "TCTAL",
+   "conf": 0.92
+  },
+  {
+   "text": "INCLUDES",
+   "conf": 0.96
+  },
+  {
+   "text": "6%",
+   "conf": 0.96
+  },
+  {
+   "text": "GST",
+   "conf": 0.97
+  },
+  {
+   "text": "0.74",
+   "conf": 0.93
+  },
+  {
+   "text": "ink",
+   "conf": 0.95
+  },
+  {
+   "text": "You",
+   "conf": 0.87
+  },
+  {
+   "text": "and",
+   "conf": 0.96
+  },
+  {
+   "text": "Please",
+   "conf": 0.96
+  },
+  {
+   "text": "Come",
+   "conf": 0.96
+  },
+  {
+   "text": "Again.",
+   "conf": 0.95
+  },
+  {
+   "text": "Guest",
+   "conf": 0.96
+  },
+  {
+   "text": "Relations",
+   "conf": 0.96
+  },
+  {
+   "text": "Center",
+   "conf": 0.93
+  },
+  {
+   "text": ":",
+   "conf": 0.77
+  },
+  {
+   "text": "1300-13-1300",
+   "conf": 0.92
+  },
+  {
+   "text": "Mee",
+   "conf": 0.22
+  },
+  {
+   "text": "“",
+   "conf": 0.49
+  },
+  {
+   "text": "an",
+   "conf": 0.05
+  },
+  {
+   "text": "yey",
+   "conf": 0.31
+  },
+  {
+   "text": "we",
+   "conf": 0.34
+  },
+  {
+   "text": "a",
+   "conf": 0.03
+  }
+ ],
+ "mean_conf": 0.8145,
+ "low_conf_share": 0.1313,
+ "latency_ms": 1485,
+ "fields": {
+  "company": "GERBANG ALAF RESTAURANTS SDN BHD",
+  "date": null,
+  "total": 13.1
+ },
+ "rule_reasons": [
+  "date_not_found"
+ ],
+ "total_candidates": [
+  13.1
+ ],
+ "key": "X51005712017"
+}

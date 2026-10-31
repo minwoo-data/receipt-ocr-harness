@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.1-flash-lite",
+ "provider": "gemini",
+ "raw_text": "{\n  \"vendor\": \"THREE STOOGES BISTRO & CAFE\",\n  \"date\": \"2018-03-12\",\n  \"subtotal\": 295.0,\n  \"tax\": 48.97,\n  \"tip\": null,\n  \"discount\": -0.02,\n  \"total\": 343.95,\n  \"currency\": \"MYR\",\n  \"confidence\": 0.98,\n  \"notes\": \"Tax includes both service charge of 29.50 and GST of 19.47.\"\n}",
+ "data": {
+  "vendor": "THREE STOOGES BISTRO & CAFE",
+  "date": "2018-03-12",
+  "subtotal": 295.0,
+  "tax": 48.97,
+  "tip": null,
+  "discount": -0.02,
+  "total": 343.95,
+  "currency": "MYR",
+  "confidence": 0.98,
+  "notes": "Tax includes both service charge of 29.50 and GST of 19.47."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1603,
+  "output_tokens": 142,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.000614,
+ "latency_ms": 1466,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.1-flash-lite",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.1-flash-lite"
+ ],
+ "key": "X51005441401"
+}

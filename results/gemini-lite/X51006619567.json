@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.1-flash-lite",
+ "provider": "gemini",
+ "raw_text": "{\n  \"vendor\": \"KEDAI UBAT & RUNCIT HONG NING SDN. BHD.\",\n  \"date\": \"2016-02-02\",\n  \"subtotal\": 637.73,\n  \"tax\": 38.27,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 676.00,\n  \"currency\": \"MYR\",\n  \"confidence\": 0.98,\n  \"notes\": null\n}",
+ "data": {
+  "vendor": "KEDAI UBAT & RUNCIT HONG NING SDN. BHD.",
+  "date": "2016-02-02",
+  "subtotal": 637.73,
+  "tax": 38.27,
+  "tip": null,
+  "discount": null,
+  "total": 676.0,
+  "currency": "MYR",
+  "confidence": 0.98,
+  "notes": null
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1469,
+  "output_tokens": 123,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.000552,
+ "latency_ms": 2110,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.1-flash-lite",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.1-flash-lite"
+ ],
+ "key": "X51006619567"
+}

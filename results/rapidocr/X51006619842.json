@@ -1,0 +1,194 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "YIN MA（M)SDN.BHD.(974306-T)",
+  "NO.2,JALAN UDANG SIAR 2",
+  "TAMAN SRI SEGAMBUT",
+  "52000 KUALA LUMPUR,",
+  "GST REG N0.:000119906304",
+  "Invoice No 44795",
+  "：03 Jun 2016 12:26pm",
+  "Counter 401",
+  "9555112913331 ST0RAGE B0X(SM 10.90.9",
+  "9555112913331 ST0RAGE B0X(SM 10.90S",
+  "9555112913331 ST0RAGE B0X(SM 10.90S",
+  "No of items:3",
+  "Total Incl.GST:RM 32.70",
+  "CashaRM 50.00",
+  "Change:RM 17.30",
+  "Served by YINMA SEGAMBUT",
+  "************** GST SUBMaYY *************",
+  "GST Code Amount(RM)Tax(RM)",
+  "S06.0% 30.84 1:86",
+  "本***********************水***************",
+  "Ref No: 00500055998044795",
+  "EXCHANGE ARE ALLOWED WITHIN",
+  "3 DAY WITH RECEIPT.",
+  "STRICTLY NO CASH REFUND",
+  "THANK YOU.",
+  "WELCOME AGAIN"
+ ],
+ "tokens": [
+  {
+   "text": "YIN MA（M)SDN.BHD.(974306-T)",
+   "conf": 0.9097501525172481
+  },
+  {
+   "text": "NO.2,JALAN UDANG SIAR 2",
+   "conf": 0.9037883333537889
+  },
+  {
+   "text": "TAMAN SRI SEGAMBUT",
+   "conf": 0.963238818777932
+  },
+  {
+   "text": "52000 KUALA LUMPUR,",
+   "conf": 0.8819083210669065
+  },
+  {
+   "text": "GST REG N0.:000119906304",
+   "conf": 0.9602478245894114
+  },
+  {
+   "text": "Invoice No",
+   "conf": 0.9844922423362732
+  },
+  {
+   "text": "44795",
+   "conf": 0.9968031764030456
+  },
+  {
+   "text": "：03 Jun 2016 12:26pm",
+   "conf": 0.911345261335373
+  },
+  {
+   "text": "Counter",
+   "conf": 0.9914824025971549
+  },
+  {
+   "text": "401",
+   "conf": 0.99520476659139
+  },
+  {
+   "text": "9555112913331 ST0RAGE B0X(SM",
+   "conf": 0.9660959988832474
+  },
+  {
+   "text": "10.90.9",
+   "conf": 0.9774776867457798
+  },
+  {
+   "text": "9555112913331 ST0RAGE B0X(SM",
+   "conf": 0.9583618300301688
+  },
+  {
+   "text": "10.90S",
+   "conf": 0.918475071589152
+  },
+  {
+   "text": "9555112913331 ST0RAGE B0X(SM",
+   "conf": 0.9622881987265178
+  },
+  {
+   "text": "10.90S",
+   "conf": 0.9295647740364075
+  },
+  {
+   "text": "No of items:3",
+   "conf": 0.9013326878731067
+  },
+  {
+   "text": "Total Incl.GST:RM",
+   "conf": 0.9086501317865708
+  },
+  {
+   "text": "32.70",
+   "conf": 0.9941463112831116
+  },
+  {
+   "text": "CashaRM",
+   "conf": 0.9079151153564453
+  },
+  {
+   "text": "50.00",
+   "conf": 0.9943224430084229
+  },
+  {
+   "text": "Change:RM",
+   "conf": 0.9735890693134732
+  },
+  {
+   "text": "17.30",
+   "conf": 0.9970662474632264
+  },
+  {
+   "text": "Served by YINMA SEGAMBUT",
+   "conf": 0.9383064607779185
+  },
+  {
+   "text": "************** GST SUBMaYY *************",
+   "conf": 0.7307964790612459
+  },
+  {
+   "text": "GST Code",
+   "conf": 0.9657169803977013
+  },
+  {
+   "text": "Amount(RM)Tax(RM)",
+   "conf": 0.870477721971624
+  },
+  {
+   "text": "S06.0%",
+   "conf": 0.8749605715274811
+  },
+  {
+   "text": "30.84",
+   "conf": 0.9980940341949462
+  },
+  {
+   "text": "1:86",
+   "conf": 0.8264026567339897
+  },
+  {
+   "text": "本***********************水***************",
+   "conf": 0.8130914121866226
+  },
+  {
+   "text": "Ref No: 00500055998044795",
+   "conf": 0.9794892334938049
+  },
+  {
+   "text": "EXCHANGE ARE ALLOWED WITHIN",
+   "conf": 0.9619992287070663
+  },
+  {
+   "text": "3 DAY WITH RECEIPT.",
+   "conf": 0.9222177486670645
+  },
+  {
+   "text": "STRICTLY NO CASH REFUND",
+   "conf": 0.9714287830435712
+  },
+  {
+   "text": "THANK YOU.",
+   "conf": 0.95342116355896
+  },
+  {
+   "text": "WELCOME AGAIN",
+   "conf": 0.9784168601036072
+  }
+ ],
+ "mean_conf": 0.9371,
+ "low_conf_share": 0.0,
+ "latency_ms": 5350,
+ "fields": {
+  "company": "YIN MA M SDN BHD",
+  "date": "2016-06-03",
+  "total": 32.7
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  32.7
+ ],
+ "key": "X51006619842"
+}

@@ -1,0 +1,511 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "a",
+  "Gs",
+  "F ,",
+  "TANTONGHAS BODKCENTRE (FY) SIM BHD",
+  "CO. NO. S72465-A",
+  "LOT FiS, GIANT BANDAR FUTERT",
+  "JALAN FUTERT 1/1, BOR PUTERT",
+  "47166 PUCKONG, SELANGOR",
+  "BE-8868 4233",
+  "(NO. ID GST: GG2147052808 }",
+  "we eT TD)",
+  "TAK more see",
+  "BILL: 29631",
+  "CASHL 418-82 82/84/2817 21:28",
+  "B.CODE & DESC, QTY U/FRICE ANT",
+  "FS55078984927 t 2.38 2.385",
+  "INK CHINESE KIN?S ASTAR",
+  "9554939500165 1 7,98 2.885",
+  "DOLPHIN PURE GOAT CHINESE",
+  "SUB-TOTAL 4.36",
+  "Total BST(1) 3.24 ra",
+  "é",
+  "TOTAL ITEM(S): 2",
+  "TOTAL QUANTITY(S): 2",
+  "TOTAL INCL GST RM 4.238",
+  "FAY CASH 5.88",
+  "CHENSE RM a. 7a",
+  "THANK YOU. PLEASE COME AGAIN.",
+  "GOONS SLY ARE NOT RETUSNABLE.",
+  "GST Taxable Ant G57 Ant",
+  "s-SRi 1} - 4% 4.86 8,24",
+  "oe",
+  "to"
+ ],
+ "tokens": [
+  {
+   "text": "a",
+   "conf": 0.0
+  },
+  {
+   "text": "Gs",
+   "conf": 0.39
+  },
+  {
+   "text": "F",
+   "conf": 0.3
+  },
+  {
+   "text": ",",
+   "conf": 0.0
+  },
+  {
+   "text": "TANTONGHAS",
+   "conf": 0.84
+  },
+  {
+   "text": "BODKCENTRE",
+   "conf": 0.73
+  },
+  {
+   "text": "(FY)",
+   "conf": 0.41
+  },
+  {
+   "text": "SIM",
+   "conf": 0.64
+  },
+  {
+   "text": "BHD",
+   "conf": 0.6
+  },
+  {
+   "text": "CO.",
+   "conf": 0.69
+  },
+  {
+   "text": "NO.",
+   "conf": 0.9
+  },
+  {
+   "text": "S72465-A",
+   "conf": 0.57
+  },
+  {
+   "text": "LOT",
+   "conf": 0.87
+  },
+  {
+   "text": "FiS,",
+   "conf": 0.58
+  },
+  {
+   "text": "GIANT",
+   "conf": 0.91
+  },
+  {
+   "text": "BANDAR",
+   "conf": 0.32
+  },
+  {
+   "text": "FUTERT",
+   "conf": 0.9
+  },
+  {
+   "text": "JALAN",
+   "conf": 0.92
+  },
+  {
+   "text": "FUTERT",
+   "conf": 0.9
+  },
+  {
+   "text": "1/1,",
+   "conf": 0.42
+  },
+  {
+   "text": "BOR",
+   "conf": 0.25
+  },
+  {
+   "text": "PUTERT",
+   "conf": 0.52
+  },
+  {
+   "text": "47166",
+   "conf": 0.66
+  },
+  {
+   "text": "PUCKONG,",
+   "conf": 0.88
+  },
+  {
+   "text": "SELANGOR",
+   "conf": 0.96
+  },
+  {
+   "text": "BE-8868",
+   "conf": 0.09
+  },
+  {
+   "text": "4233",
+   "conf": 0.77
+  },
+  {
+   "text": "(NO.",
+   "conf": 0.58
+  },
+  {
+   "text": "ID",
+   "conf": 0.87
+  },
+  {
+   "text": "GST:",
+   "conf": 0.53
+  },
+  {
+   "text": "GG2147052808",
+   "conf": 0.13
+  },
+  {
+   "text": "}",
+   "conf": 0.82
+  },
+  {
+   "text": "we",
+   "conf": 0.4
+  },
+  {
+   "text": "eT",
+   "conf": 0.1
+  },
+  {
+   "text": "TD)",
+   "conf": 0.07
+  },
+  {
+   "text": "TAK",
+   "conf": 0.81
+  },
+  {
+   "text": "more",
+   "conf": 0.35
+  },
+  {
+   "text": "see",
+   "conf": 0.16
+  },
+  {
+   "text": "BILL:",
+   "conf": 0.74
+  },
+  {
+   "text": "29631",
+   "conf": 0.74
+  },
+  {
+   "text": "CASHL",
+   "conf": 0.29
+  },
+  {
+   "text": "418-82",
+   "conf": 0.0
+  },
+  {
+   "text": "82/84/2817",
+   "conf": 0.46
+  },
+  {
+   "text": "21:28",
+   "conf": 0.78
+  },
+  {
+   "text": "B.CODE",
+   "conf": 0.63
+  },
+  {
+   "text": "&",
+   "conf": 0.9
+  },
+  {
+   "text": "DESC,",
+   "conf": 0.74
+  },
+  {
+   "text": "QTY",
+   "conf": 0.69
+  },
+  {
+   "text": "U/FRICE",
+   "conf": 0.54
+  },
+  {
+   "text": "ANT",
+   "conf": 0.25
+  },
+  {
+   "text": "FS55078984927",
+   "conf": 0.04
+  },
+  {
+   "text": "t",
+   "conf": 0.63
+  },
+  {
+   "text": "2.38",
+   "conf": 0.59
+  },
+  {
+   "text": "2.385",
+   "conf": 0.39
+  },
+  {
+   "text": "INK",
+   "conf": 0.76
+  },
+  {
+   "text": "CHINESE",
+   "conf": 0.92
+  },
+  {
+   "text": "KIN?S",
+   "conf": 0.24
+  },
+  {
+   "text": "ASTAR",
+   "conf": 0.9
+  },
+  {
+   "text": "9554939500165",
+   "conf": 0.48
+  },
+  {
+   "text": "1",
+   "conf": 0.61
+  },
+  {
+   "text": "7,98",
+   "conf": 0.68
+  },
+  {
+   "text": "2.885",
+   "conf": 0.56
+  },
+  {
+   "text": "DOLPHIN",
+   "conf": 0.71
+  },
+  {
+   "text": "PURE",
+   "conf": 0.96
+  },
+  {
+   "text": "GOAT",
+   "conf": 0.95
+  },
+  {
+   "text": "CHINESE",
+   "conf": 0.96
+  },
+  {
+   "text": "SUB-TOTAL",
+   "conf": 0.74
+  },
+  {
+   "text": "4.36",
+   "conf": 0.65
+  },
+  {
+   "text": "Total",
+   "conf": 0.93
+  },
+  {
+   "text": "BST(1)",
+   "conf": 0.4
+  },
+  {
+   "text": "3.24",
+   "conf": 0.45
+  },
+  {
+   "text": "ra",
+   "conf": 0.19
+  },
+  {
+   "text": "é",
+   "conf": 0.89
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.96
+  },
+  {
+   "text": "ITEM(S):",
+   "conf": 0.84
+  },
+  {
+   "text": "2",
+   "conf": 0.89
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.92
+  },
+  {
+   "text": "QUANTITY(S):",
+   "conf": 0.53
+  },
+  {
+   "text": "2",
+   "conf": 0.96
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.96
+  },
+  {
+   "text": "INCL",
+   "conf": 0.95
+  },
+  {
+   "text": "GST",
+   "conf": 0.83
+  },
+  {
+   "text": "RM",
+   "conf": 0.83
+  },
+  {
+   "text": "4.238",
+   "conf": 0.66
+  },
+  {
+   "text": "FAY",
+   "conf": 0.83
+  },
+  {
+   "text": "CASH",
+   "conf": 0.95
+  },
+  {
+   "text": "5.88",
+   "conf": 0.89
+  },
+  {
+   "text": "CHENSE",
+   "conf": 0.52
+  },
+  {
+   "text": "RM",
+   "conf": 0.62
+  },
+  {
+   "text": "a.",
+   "conf": 0.0
+  },
+  {
+   "text": "7a",
+   "conf": 0.0
+  },
+  {
+   "text": "THANK",
+   "conf": 0.93
+  },
+  {
+   "text": "YOU.",
+   "conf": 0.69
+  },
+  {
+   "text": "PLEASE",
+   "conf": 0.71
+  },
+  {
+   "text": "COME",
+   "conf": 0.96
+  },
+  {
+   "text": "AGAIN.",
+   "conf": 0.78
+  },
+  {
+   "text": "GOONS",
+   "conf": 0.61
+  },
+  {
+   "text": "SLY",
+   "conf": 0.0
+  },
+  {
+   "text": "ARE",
+   "conf": 0.89
+  },
+  {
+   "text": "NOT",
+   "conf": 0.86
+  },
+  {
+   "text": "RETUSNABLE.",
+   "conf": 0.63
+  },
+  {
+   "text": "GST",
+   "conf": 0.95
+  },
+  {
+   "text": "Taxable",
+   "conf": 0.59
+  },
+  {
+   "text": "Ant",
+   "conf": 0.5
+  },
+  {
+   "text": "G57",
+   "conf": 0.59
+  },
+  {
+   "text": "Ant",
+   "conf": 0.63
+  },
+  {
+   "text": "s-SRi",
+   "conf": 0.22
+  },
+  {
+   "text": "1}",
+   "conf": 0.22
+  },
+  {
+   "text": "-",
+   "conf": 0.58
+  },
+  {
+   "text": "4%",
+   "conf": 0.84
+  },
+  {
+   "text": "4.86",
+   "conf": 0.69
+  },
+  {
+   "text": "8,24",
+   "conf": 0.46
+  },
+  {
+   "text": "oe",
+   "conf": 0.35
+  },
+  {
+   "text": "to",
+   "conf": 0.0
+  }
+ ],
+ "mean_conf": 0.6057,
+ "low_conf_share": 0.2982,
+ "latency_ms": 1361,
+ "fields": {
+  "company": "TANTONGHAS BODKCENTRE SIM BHD",
+  "date": null,
+  "total": 3.24
+ },
+ "rule_reasons": [
+  "date_not_found"
+ ],
+ "total_candidates": [
+  3.24
+ ],
+ "key": "X51006387660"
+}

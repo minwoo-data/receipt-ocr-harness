@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.1-flash-lite",
+ "provider": "gemini",
+ "raw_text": "{\n  \"vendor\": \"Tacirua Transport Co.Ltd\",\n  \"date\": \"2014-10-16\",\n  \"subtotal\": null,\n  \"tax\": null,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 2.00,\n  \"currency\": \"FJD\",\n  \"confidence\": 0.95,\n  \"notes\": \"Currency inferred as FJD based on the vendor name and context.\"\n}",
+ "data": {
+  "vendor": "Tacirua Transport Co.Ltd",
+  "date": "2014-10-16",
+  "subtotal": null,
+  "tax": null,
+  "tip": null,
+  "discount": null,
+  "total": 2.0,
+  "currency": "FJD",
+  "confidence": 0.95,
+  "notes": "Currency inferred as FJD based on the vendor name and context."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1471,
+  "output_tokens": 113,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.000537,
+ "latency_ms": 1666,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.1-flash-lite",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.1-flash-lite"
+ ],
+ "key": "W0059_a30390748717"
+}

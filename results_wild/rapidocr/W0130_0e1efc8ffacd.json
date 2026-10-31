@@ -1,0 +1,254 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "YOUR GUEST NUMBERIS 57",
+  "IN-N-OUT BURGER GRANTSPASS",
+  "328315483267",
+  "Check:57 Cashier: MACKENZIE HA",
+  "1Hamburger +Onion 2.40",
+  "1Cheesebrgr +Onion 2.70",
+  "1Db1-Db1 +Onion 3.85",
+  "1Med Soft Drink 1Fry 1.60 1.85",
+  "1Hot Cocoa 1.60",
+  "No Tax COUNTER-Eat In 14.00",
+  "Amount Due $14.00",
+  "Change Tender MasterCard $14.00",
+  "$.00",
+  "CHARGE DETAIL",
+  "SALE",
+  "Card Type: Account: Mastercard ************1418C",
+  "Auth Code: 741507",
+  "Trans#： 3267",
+  "Auth Ref: 1042793329",
+  "AUTH AMT: $14.00",
+  "Help us end Human Trafficking.",
+  "To donate please visit",
+  "www.sTave2nothing.org",
+  "THANK YOU!",
+  "Questions/Comments:Cal1 800-786-1000",
+  "2018-01-03 L1T3 7:28PM"
+ ],
+ "tokens": [
+  {
+   "text": "YOUR GUEST NUMBERIS",
+   "conf": 0.9644005549581427
+  },
+  {
+   "text": "57",
+   "conf": 0.9988242089748383
+  },
+  {
+   "text": "IN-N-OUT BURGER GRANTSPASS",
+   "conf": 0.9773773482212653
+  },
+  {
+   "text": "328315483267",
+   "conf": 0.9961700340112051
+  },
+  {
+   "text": "Cashier: MACKENZIE HA",
+   "conf": 0.9678796643302554
+  },
+  {
+   "text": "Check:57",
+   "conf": 0.9492654427886009
+  },
+  {
+   "text": "1Hamburger",
+   "conf": 0.992588746547699
+  },
+  {
+   "text": "+Onion",
+   "conf": 0.8873782157897949
+  },
+  {
+   "text": "2.40",
+   "conf": 0.992253303527832
+  },
+  {
+   "text": "1Cheesebrgr",
+   "conf": 0.9846289157867432
+  },
+  {
+   "text": "+Onion",
+   "conf": 0.8950551350911459
+  },
+  {
+   "text": "2.70",
+   "conf": 0.9949699640274048
+  },
+  {
+   "text": "1Db1-Db1",
+   "conf": 0.893073245882988
+  },
+  {
+   "text": "+Onion",
+   "conf": 0.911832461754481
+  },
+  {
+   "text": "3.85",
+   "conf": 0.9909332543611526
+  },
+  {
+   "text": "1Fry",
+   "conf": 0.9790376275777817
+  },
+  {
+   "text": "1Med Soft Drink",
+   "conf": 0.922564713160197
+  },
+  {
+   "text": "1.85",
+   "conf": 0.995844691991806
+  },
+  {
+   "text": "1Hot Cocoa",
+   "conf": 0.9630116820335388
+  },
+  {
+   "text": "1.60",
+   "conf": 0.9916698783636093
+  },
+  {
+   "text": "1.60",
+   "conf": 0.9901615679264069
+  },
+  {
+   "text": "COUNTER-Eat In",
+   "conf": 0.951424241065979
+  },
+  {
+   "text": "No Tax",
+   "conf": 0.9037331640720367
+  },
+  {
+   "text": "14.00",
+   "conf": 0.9969845771789551
+  },
+  {
+   "text": "Amount Due",
+   "conf": 0.9331622242927551
+  },
+  {
+   "text": "$14.00",
+   "conf": 0.986706962188085
+  },
+  {
+   "text": "Tender MasterCard",
+   "conf": 0.9687161585863899
+  },
+  {
+   "text": "Change",
+   "conf": 0.9938512543837229
+  },
+  {
+   "text": "$14.00",
+   "conf": 0.9949948589007059
+  },
+  {
+   "text": "$.00",
+   "conf": 0.9831954687833786
+  },
+  {
+   "text": "CHARGE DETAIL",
+   "conf": 0.9602735088421748
+  },
+  {
+   "text": "SALE",
+   "conf": 0.9925038814544678
+  },
+  {
+   "text": "Card Type:",
+   "conf": 0.961936742067337
+  },
+  {
+   "text": "Mastercard",
+   "conf": 0.9894483745098114
+  },
+  {
+   "text": "Account:",
+   "conf": 0.9874345362186432
+  },
+  {
+   "text": "************1418C",
+   "conf": 0.9263633840224322
+  },
+  {
+   "text": "Auth Code:",
+   "conf": 0.9710727095603943
+  },
+  {
+   "text": "741507",
+   "conf": 0.9992441534996033
+  },
+  {
+   "text": "Trans#：",
+   "conf": 0.9104964137077332
+  },
+  {
+   "text": "3267",
+   "conf": 0.9967804998159409
+  },
+  {
+   "text": "Auth Ref:",
+   "conf": 0.9554289115799798
+  },
+  {
+   "text": "1042793329",
+   "conf": 0.9500842392444611
+  },
+  {
+   "text": "AUTH AMT:",
+   "conf": 0.9258633587095473
+  },
+  {
+   "text": "$14.00",
+   "conf": 0.9972485701243082
+  },
+  {
+   "text": "Help us end Human Trafficking.",
+   "conf": 0.9400466501712799
+  },
+  {
+   "text": "To donate please visit",
+   "conf": 0.9715300066904589
+  },
+  {
+   "text": "www.sTave2nothing.org",
+   "conf": 0.9624022415706089
+  },
+  {
+   "text": "THANK YOU!",
+   "conf": 0.9594604730606079
+  },
+  {
+   "text": "Questions/Comments:Cal1 800-786-1000",
+   "conf": 0.971992755929629
+  },
+  {
+   "text": "L1T3",
+   "conf": 0.9575281143188477
+  },
+  {
+   "text": "7:28PM",
+   "conf": 0.9814957479635874
+  },
+  {
+   "text": "2018-01-03",
+   "conf": 0.9955384135246277
+  }
+ ],
+ "mean_conf": 0.9657,
+ "low_conf_share": 0.0,
+ "latency_ms": 2547,
+ "fields": {
+  "company": "YOUR GUEST NUMBERIS 57",
+  "date": "2018-01-03",
+  "total": 14.0
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  14.0
+ ],
+ "key": "W0130_0e1efc8ffacd"
+}

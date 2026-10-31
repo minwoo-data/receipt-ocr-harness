@@ -1,0 +1,325 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "The GeoVenture",
+  "(Freedom Optimum Sdn Bhd)",
+  "1122485-W",
+  "C1 Seafront,Berjaya Waterfront Complex,",
+  "88Jalan lbrahim Sultan,",
+  "Stulang Laut 80300,",
+  "Johor Bahru,Johor.",
+  "TEL:07-2213800",
+  "GST REG N0. 001699237888",
+  "SIMPLIFIEDTAXINVOICE",
+  "Invoice :246274 Cashier:RASHER",
+  "Table A6",
+  "Date : 6/4/2018 21:44:42",
+  "Pax:0",
+  "ITEM QTY U/P(RM) DISC (%) Amt(RM)",
+  "S Special BGB88 TG Tower 75.47 01 0+0 75.47",
+  "S Iced Cafe BNA22 Latte 8.58 0+0 8.58",
+  "Sub Total: RM 84.05 RM 8.41",
+  "S Service Charge: Total Sales(Excl.GST) RM 92.46",
+  "GST 6% onRM 92.46 Total Sales(Incl.GST 6%) RM 98.00 RM 5.54",
+  "Rounding Adjustment : RM 0.00",
+  "TOTAL RM 98. 00",
+  "CASH RM 100.00",
+  "CHANGE RM 2. 00",
+  "Main Item Count RM0.00 2",
+  "Total Discount",
+  "GST Summary Z S 0% 6% Amount (RM) 92.46 0.00 Tax(RM) 5.54 0.00"
+ ],
+ "tokens": [
+  {
+   "text": "The GeoVenture",
+   "conf": 0.9735863889966693
+  },
+  {
+   "text": "(Freedom Optimum Sdn Bhd)",
+   "conf": 0.9911968517303467
+  },
+  {
+   "text": "1122485-W",
+   "conf": 0.9993459516101413
+  },
+  {
+   "text": "C1 Seafront,Berjaya Waterfront Complex,",
+   "conf": 0.9445699315804702
+  },
+  {
+   "text": "88Jalan lbrahim Sultan,",
+   "conf": 0.9176697342292123
+  },
+  {
+   "text": "Stulang Laut 80300,",
+   "conf": 0.9805888376737896
+  },
+  {
+   "text": "Johor Bahru,Johor.",
+   "conf": 0.9672335882981619
+  },
+  {
+   "text": "TEL:07-2213800",
+   "conf": 0.9927450163023812
+  },
+  {
+   "text": "GST REG N0. 001699237888",
+   "conf": 0.9649283587932587
+  },
+  {
+   "text": "SIMPLIFIEDTAXINVOICE",
+   "conf": 0.9892140537500381
+  },
+  {
+   "text": "Invoice :246274",
+   "conf": 0.9683326601982116
+  },
+  {
+   "text": "Cashier:RASHER",
+   "conf": 0.9917448163032532
+  },
+  {
+   "text": "Table",
+   "conf": 0.9931245565414428
+  },
+  {
+   "text": "A6",
+   "conf": 0.9881213903427124
+  },
+  {
+   "text": "Date : 6/4/2018 21:44:42",
+   "conf": 0.9656777232885361
+  },
+  {
+   "text": "Pax:0",
+   "conf": 0.9932236433029175
+  },
+  {
+   "text": "U/P(RM)",
+   "conf": 0.9886510372161865
+  },
+  {
+   "text": "DISC (%)",
+   "conf": 0.9467907324433327
+  },
+  {
+   "text": "Amt(RM)",
+   "conf": 0.9770705699920654
+  },
+  {
+   "text": "ITEM",
+   "conf": 0.9641163796186447
+  },
+  {
+   "text": "QTY",
+   "conf": 0.9934865037600199
+  },
+  {
+   "text": "S Special",
+   "conf": 0.9900766677326627
+  },
+  {
+   "text": "TG",
+   "conf": 0.998518168926239
+  },
+  {
+   "text": "Tower",
+   "conf": 0.9967080593109131
+  },
+  {
+   "text": "01",
+   "conf": 0.9748759269714355
+  },
+  {
+   "text": "75.47",
+   "conf": 0.9999103307723999
+  },
+  {
+   "text": "0+0",
+   "conf": 0.9328886866569519
+  },
+  {
+   "text": "75.47",
+   "conf": 0.9999159336090088
+  },
+  {
+   "text": "BGB88",
+   "conf": 0.9978920578956604
+  },
+  {
+   "text": "S Iced Cafe",
+   "conf": 0.9021483605558221
+  },
+  {
+   "text": "Latte",
+   "conf": 0.9125628352165223
+  },
+  {
+   "text": "8.58",
+   "conf": 0.9997609108686447
+  },
+  {
+   "text": "0+0",
+   "conf": 0.9856871763865153
+  },
+  {
+   "text": "8.58",
+   "conf": 0.9996681809425354
+  },
+  {
+   "text": "BNA22",
+   "conf": 0.9974980592727661
+  },
+  {
+   "text": "RM 84.05",
+   "conf": 0.9717558920383453
+  },
+  {
+   "text": "Sub Total:",
+   "conf": 0.9838663160800933
+  },
+  {
+   "text": "RM 8.41",
+   "conf": 0.9778302907943726
+  },
+  {
+   "text": "S",
+   "conf": 0.9780412316322327
+  },
+  {
+   "text": "Service Charge:",
+   "conf": 0.9748817006746928
+  },
+  {
+   "text": "RM 92.46",
+   "conf": 0.9667329490184784
+  },
+  {
+   "text": "Total Sales(Excl.GST)",
+   "conf": 0.9665626571291969
+  },
+  {
+   "text": "RM 5.54",
+   "conf": 0.9630598425865173
+  },
+  {
+   "text": "GST 6% onRM 92.46",
+   "conf": 0.945534488734077
+  },
+  {
+   "text": "RM 98.00",
+   "conf": 0.9539822638034821
+  },
+  {
+   "text": "Total Sales(Incl.GST 6%)",
+   "conf": 0.9634364793697993
+  },
+  {
+   "text": "RM 0.00",
+   "conf": 0.9376637084143502
+  },
+  {
+   "text": "Rounding Adjustment :",
+   "conf": 0.9663197937465849
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.9913143157958985
+  },
+  {
+   "text": "RM 98. 00",
+   "conf": 0.9374444087346395
+  },
+  {
+   "text": "CASH",
+   "conf": 0.9963663965463638
+  },
+  {
+   "text": "RM 100.00",
+   "conf": 0.9958729280365838
+  },
+  {
+   "text": "RM 2. 00",
+   "conf": 0.9686179384589195
+  },
+  {
+   "text": "CHANGE",
+   "conf": 0.984405001004537
+  },
+  {
+   "text": "2",
+   "conf": 0.996542751789093
+  },
+  {
+   "text": "Main Item Count",
+   "conf": 0.9722868283589681
+  },
+  {
+   "text": "RM0.00",
+   "conf": 0.998632530371348
+  },
+  {
+   "text": "Total Discount",
+   "conf": 0.9666845798492432
+  },
+  {
+   "text": "Amount (RM)",
+   "conf": 0.9756025942889127
+  },
+  {
+   "text": "Tax(RM)",
+   "conf": 0.9826352085386004
+  },
+  {
+   "text": "GST Summary",
+   "conf": 0.9868162491104819
+  },
+  {
+   "text": "92.46",
+   "conf": 0.9998377680778503
+  },
+  {
+   "text": "5.54",
+   "conf": 0.999667227268219
+  },
+  {
+   "text": "S",
+   "conf": 0.8968133330345154
+  },
+  {
+   "text": "6%",
+   "conf": 0.9997147619724274
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9993769079446793
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9985055923461914
+  },
+  {
+   "text": "Z",
+   "conf": 0.7809712886810303
+  },
+  {
+   "text": "0%",
+   "conf": 0.9979820847511292
+  }
+ ],
+ "mean_conf": 0.9733,
+ "low_conf_share": 0.0,
+ "latency_ms": 15056,
+ "fields": {
+  "company": null,
+  "date": "2018-04-06",
+  "total": 5.54
+ },
+ "rule_reasons": [
+  "company_not_found"
+ ],
+ "total_candidates": [
+  5.54
+ ],
+ "key": "X51006414532"
+}

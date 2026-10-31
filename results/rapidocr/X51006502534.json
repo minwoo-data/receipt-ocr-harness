@@ -1,0 +1,190 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "WelcometotheFamily",
+  "FamilyMart",
+  "MaxincomeResouiTesSdnBhd(383322-D)",
+  "No16A,JalaAstakaU8/83.BukitJelutong",
+  "4015OShahAiam,Selangor,D.E.",
+  "GST1D:000468594688",
+  "#0004Gateway@KLIA2(L3-1",
+  "Tel No:",
+  "TAX INVOICE",
+  "10/04/2018 18:31 #000420693",
+  "POS:02 CSH:00004108",
+  "Staff:ECAH",
+  "Desc Amt(RM)",
+  "F/FriendS/FOriginal2 5.USP",
+  "SUB TOTAL （InC GST)",
+  "TOTAL 5.c",
+  "CASH 6.00",
+  "CHANGE U.20",
+  "#ITEMSSOLD1",
+  "Tax Code Amt(RM)Tax(RM)",
+  "SR(6%) 5.47 0.33",
+  "THANK YOU&PLEASE COME AGAIN",
+  "***",
+  "BEAPARTOF OURFAMILY TODAY!",
+  "FACEBOOK:FamilyMartMY",
+  "www.familymart.com.my"
+ ],
+ "tokens": [
+  {
+   "text": "WelcometotheFamily",
+   "conf": 0.9913879169358147
+  },
+  {
+   "text": "FamilyMart",
+   "conf": 0.9972681045532227
+  },
+  {
+   "text": "MaxincomeResouiTesSdnBhd(383322-D)",
+   "conf": 0.9077773953185362
+  },
+  {
+   "text": "No16A,JalaAstakaU8/83.BukitJelutong",
+   "conf": 0.9219804065568107
+  },
+  {
+   "text": "4015OShahAiam,Selangor,D.E.",
+   "conf": 0.8705971660437407
+  },
+  {
+   "text": "GST1D:000468594688",
+   "conf": 0.9298206832673814
+  },
+  {
+   "text": "#0004Gateway@KLIA2(L3-1",
+   "conf": 0.9190944368424623
+  },
+  {
+   "text": "Tel No:",
+   "conf": 0.9194753680910382
+  },
+  {
+   "text": "TAX INVOICE",
+   "conf": 0.9750206362117421
+  },
+  {
+   "text": "10/04/2018 18:31",
+   "conf": 0.9683338068425655
+  },
+  {
+   "text": "#000420693",
+   "conf": 0.9974019944667816
+  },
+  {
+   "text": "POS:02 CSH:00004108",
+   "conf": 0.9669435306599266
+  },
+  {
+   "text": "Staff:ECAH",
+   "conf": 0.9808105170726776
+  },
+  {
+   "text": "Desc",
+   "conf": 0.9797703772783279
+  },
+  {
+   "text": "Amt(RM)",
+   "conf": 0.900245223726545
+  },
+  {
+   "text": "F/FriendS/FOriginal2",
+   "conf": 0.9622739434242249
+  },
+  {
+   "text": "5.USP",
+   "conf": 0.7346542239189148
+  },
+  {
+   "text": "SUB TOTAL （InC GST)",
+   "conf": 0.8677244186401367
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.9969107866287231
+  },
+  {
+   "text": "5.c",
+   "conf": 0.9444707632064819
+  },
+  {
+   "text": "CASH",
+   "conf": 0.9984893202781677
+  },
+  {
+   "text": "6.00",
+   "conf": 0.9996659755706787
+  },
+  {
+   "text": "CHANGE",
+   "conf": 0.9933403631051382
+  },
+  {
+   "text": "U.20",
+   "conf": 0.9801976382732391
+  },
+  {
+   "text": "#ITEMSSOLD1",
+   "conf": 0.9755054224621166
+  },
+  {
+   "text": "Tax Code",
+   "conf": 0.9471950531005859
+  },
+  {
+   "text": "Amt(RM)Tax(RM)",
+   "conf": 0.9243934452533722
+  },
+  {
+   "text": "SR(6%)",
+   "conf": 0.9603449503580729
+  },
+  {
+   "text": "5.47",
+   "conf": 0.9976636171340942
+  },
+  {
+   "text": "0.33",
+   "conf": 0.9983696639537811
+  },
+  {
+   "text": "THANK YOU&PLEASE COME AGAIN",
+   "conf": 0.9446876424330252
+  },
+  {
+   "text": "***",
+   "conf": 0.9803546667098999
+  },
+  {
+   "text": "BEAPARTOF OURFAMILY TODAY!",
+   "conf": 0.9479112808520977
+  },
+  {
+   "text": "FACEBOOK:FamilyMartMY",
+   "conf": 0.9416189846538362
+  },
+  {
+   "text": "www.familymart.com.my",
+   "conf": 0.9629942207109361
+  }
+ ],
+ "mean_conf": 0.951,
+ "low_conf_share": 0.0,
+ "latency_ms": 3514,
+ "fields": {
+  "company": "FAMILYMART",
+  "date": "2018-04-10",
+  "total": 6.0
+ },
+ "rule_reasons": [
+  "total_no_keyword_fallback_max"
+ ],
+ "total_candidates": [
+  6.0,
+  5.47,
+  0.33
+ ],
+ "key": "X51006502534"
+}

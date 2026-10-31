@@ -1,0 +1,243 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "SCIENCE +",
+  "DERET MUSEUM |",
+  "9280 South Miaat AVE",
+  "tines, FL 28128",
+  "((305)646-4200",
+  "aiy 116 out",
+  "2 NOC ADULT Bw",
+  "TOTAL 2.20",
+  "‘SALES TAK 0,00",
+  "‘CASH TENDERED. 90.00",
+  "CHANGE 2.10",
+  "3:16 PM 07/74/2012 0023187235, 8 2",
+  "iv",
+  "NOT VALLO Be",
+  "FOR ADMISSION ig",
+  "Visit us at ww, miamise! org",
+  "ti aos"
+ ],
+ "tokens": [
+  {
+   "text": "SCIENCE",
+   "conf": 0.69
+  },
+  {
+   "text": "+",
+   "conf": 0.39
+  },
+  {
+   "text": "DERET",
+   "conf": 0.0
+  },
+  {
+   "text": "MUSEUM",
+   "conf": 0.89
+  },
+  {
+   "text": "|",
+   "conf": 0.61
+  },
+  {
+   "text": "9280",
+   "conf": 0.75
+  },
+  {
+   "text": "South",
+   "conf": 0.47
+  },
+  {
+   "text": "Miaat",
+   "conf": 0.27
+  },
+  {
+   "text": "AVE",
+   "conf": 0.73
+  },
+  {
+   "text": "tines,",
+   "conf": 0.13
+  },
+  {
+   "text": "FL",
+   "conf": 0.62
+  },
+  {
+   "text": "28128",
+   "conf": 0.58
+  },
+  {
+   "text": "((305)646-4200",
+   "conf": 0.09
+  },
+  {
+   "text": "aiy",
+   "conf": 0.33
+  },
+  {
+   "text": "116",
+   "conf": 0.43
+  },
+  {
+   "text": "out",
+   "conf": 0.0
+  },
+  {
+   "text": "2",
+   "conf": 0.44
+  },
+  {
+   "text": "NOC",
+   "conf": 0.44
+  },
+  {
+   "text": "ADULT",
+   "conf": 0.76
+  },
+  {
+   "text": "Bw",
+   "conf": 0.09
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.34
+  },
+  {
+   "text": "2.20",
+   "conf": 0.29
+  },
+  {
+   "text": "‘SALES",
+   "conf": 0.78
+  },
+  {
+   "text": "TAK",
+   "conf": 0.91
+  },
+  {
+   "text": "0,00",
+   "conf": 0.9
+  },
+  {
+   "text": "‘CASH",
+   "conf": 0.5
+  },
+  {
+   "text": "TENDERED.",
+   "conf": 0.23
+  },
+  {
+   "text": "90.00",
+   "conf": 0.73
+  },
+  {
+   "text": "CHANGE",
+   "conf": 0.57
+  },
+  {
+   "text": "2.10",
+   "conf": 0.49
+  },
+  {
+   "text": "3:16",
+   "conf": 0.69
+  },
+  {
+   "text": "PM",
+   "conf": 0.35
+  },
+  {
+   "text": "07/74/2012",
+   "conf": 0.35
+  },
+  {
+   "text": "0023187235,",
+   "conf": 0.5
+  },
+  {
+   "text": "8",
+   "conf": 0.31
+  },
+  {
+   "text": "2",
+   "conf": 0.05
+  },
+  {
+   "text": "iv",
+   "conf": 0.16
+  },
+  {
+   "text": "NOT",
+   "conf": 0.66
+  },
+  {
+   "text": "VALLO",
+   "conf": 0.61
+  },
+  {
+   "text": "Be",
+   "conf": 0.28
+  },
+  {
+   "text": "FOR",
+   "conf": 0.93
+  },
+  {
+   "text": "ADMISSION",
+   "conf": 0.92
+  },
+  {
+   "text": "ig",
+   "conf": 0.6
+  },
+  {
+   "text": "Visit",
+   "conf": 0.87
+  },
+  {
+   "text": "us",
+   "conf": 0.87
+  },
+  {
+   "text": "at",
+   "conf": 0.79
+  },
+  {
+   "text": "ww,",
+   "conf": 0.57
+  },
+  {
+   "text": "miamise!",
+   "conf": 0.0
+  },
+  {
+   "text": "org",
+   "conf": 0.65
+  },
+  {
+   "text": "ti",
+   "conf": 0.31
+  },
+  {
+   "text": "aos",
+   "conf": 0.23
+  }
+ ],
+ "mean_conf": 0.4931,
+ "low_conf_share": 0.4902,
+ "latency_ms": 932,
+ "fields": {
+  "company": "SCIENCE",
+  "date": null,
+  "total": 2.2
+ },
+ "rule_reasons": [
+  "date_not_found"
+ ],
+ "total_candidates": [
+  2.2
+ ],
+ "key": "W0156_e9c310f0b1fa"
+}

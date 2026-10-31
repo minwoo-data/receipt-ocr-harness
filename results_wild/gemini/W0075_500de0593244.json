@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.6-flash",
+ "provider": "gemini",
+ "raw_text": "{\"vendor\": \"ARTIE'S DELICATESSEN\", \"date\": \"2017-03-15\", \"subtotal\": 44.45, \"tax\": 3.95, \"tip\": 8.70, \"discount\": null, \"total\": 57.10, \"currency\": \"USD\", \"confidence\": 0.95, \"notes\": null}",
+ "data": {
+  "vendor": "ARTIE'S DELICATESSEN",
+  "date": "2017-03-15",
+  "subtotal": 44.45,
+  "tax": 3.95,
+  "tip": 8.7,
+  "discount": null,
+  "total": 57.1,
+  "currency": "USD",
+  "confidence": 0.95,
+  "notes": null
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1433,
+  "output_tokens": 93,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.001424,
+ "latency_ms": 2047,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.6-flash",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.6-flash"
+ ],
+ "key": "W0075_500de0593244"
+}

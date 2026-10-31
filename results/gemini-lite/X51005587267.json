@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.1-flash-lite",
+ "provider": "gemini",
+ "raw_text": "{\n  \"vendor\": \"MYDIN\",\n  \"date\": \"2017-02-04\",\n  \"subtotal\": 80.27,\n  \"tax\": 4.83,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 85.10,\n  \"currency\": \"MYR\",\n  \"confidence\": 0.98,\n  \"notes\": null\n}",
+ "data": {
+  "vendor": "MYDIN",
+  "date": "2017-02-04",
+  "subtotal": 80.27,
+  "tax": 4.83,
+  "tip": null,
+  "discount": null,
+  "total": 85.1,
+  "currency": "MYR",
+  "confidence": 0.98,
+  "notes": null
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1452,
+  "output_tokens": 106,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.000522,
+ "latency_ms": 1600,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.1-flash-lite",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.1-flash-lite"
+ ],
+ "key": "X51005587267"
+}

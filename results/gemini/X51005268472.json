@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.6-flash",
+ "provider": "gemini",
+ "raw_text": "{\"vendor\": \"ASIA MART\", \"date\": \"2017-12-22\", \"subtotal\": 31.03, \"tax\": 1.65, \"tip\": null, \"discount\": null, \"total\": 32.70, \"currency\": \"MYR\", \"confidence\": 0.95, \"notes\": \"Rounding of 0.02 applied to reach Total Sales (Inclusive of GST).\"}",
+ "data": {
+  "vendor": "ASIA MART",
+  "date": "2017-12-22",
+  "subtotal": 31.03,
+  "tax": 1.65,
+  "tip": null,
+  "discount": null,
+  "total": 32.7,
+  "currency": "MYR",
+  "confidence": 0.95,
+  "notes": "Rounding of 0.02 applied to reach Total Sales (Inclusive of GST)."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1449,
+  "output_tokens": 100,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.001462,
+ "latency_ms": 2018,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.6-flash",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.6-flash"
+ ],
+ "key": "X51005268472"
+}

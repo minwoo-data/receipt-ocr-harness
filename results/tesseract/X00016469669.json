@@ -1,0 +1,278 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "tan chay yee",
+  "ABC HO TRADING",
+  "No.284, JALAN HARMONT 3/2,",
+  "TAMAN DESA HARMONL",
+  "81100 JOHOR BAHRUJOHOR",
+  "07-355 2616",
+  "Cash Bill; 01-143008 Stole",
+  "Date; 09/01/2019 8:01:11 PM",
+  "Cashier: 01",
+  "Description Qty Price Amount",
+  "ie seem Tees a ON",
+  "Plastic 2 1650 34.00",
+  "Total Amount: 34.00\"",
+  "Cash Received 101.00",
+  "Change : 70.00",
+  "\"Goods Sold are non-refundabl",
+  "***Thank You\"**",
+  "“Please Come Again*** 3).00"
+ ],
+ "tokens": [
+  {
+   "text": "tan",
+   "conf": 0.93
+  },
+  {
+   "text": "chay",
+   "conf": 0.91
+  },
+  {
+   "text": "yee",
+   "conf": 0.96
+  },
+  {
+   "text": "ABC",
+   "conf": 0.93
+  },
+  {
+   "text": "HO",
+   "conf": 0.93
+  },
+  {
+   "text": "TRADING",
+   "conf": 0.95
+  },
+  {
+   "text": "No.284,",
+   "conf": 0.59
+  },
+  {
+   "text": "JALAN",
+   "conf": 0.59
+  },
+  {
+   "text": "HARMONT",
+   "conf": 0.88
+  },
+  {
+   "text": "3/2,",
+   "conf": 0.95
+  },
+  {
+   "text": "TAMAN",
+   "conf": 0.91
+  },
+  {
+   "text": "DESA",
+   "conf": 0.91
+  },
+  {
+   "text": "HARMONL",
+   "conf": 0.25
+  },
+  {
+   "text": "81100",
+   "conf": 0.95
+  },
+  {
+   "text": "JOHOR",
+   "conf": 0.93
+  },
+  {
+   "text": "BAHRUJOHOR",
+   "conf": 0.62
+  },
+  {
+   "text": "07-355",
+   "conf": 0.95
+  },
+  {
+   "text": "2616",
+   "conf": 0.95
+  },
+  {
+   "text": "Cash",
+   "conf": 0.96
+  },
+  {
+   "text": "Bill;",
+   "conf": 0.49
+  },
+  {
+   "text": "01-143008",
+   "conf": 0.0
+  },
+  {
+   "text": "Stole",
+   "conf": 0.0
+  },
+  {
+   "text": "Date;",
+   "conf": 0.45
+  },
+  {
+   "text": "09/01/2019",
+   "conf": 0.56
+  },
+  {
+   "text": "8:01:11",
+   "conf": 0.87
+  },
+  {
+   "text": "PM",
+   "conf": 0.95
+  },
+  {
+   "text": "Cashier:",
+   "conf": 0.63
+  },
+  {
+   "text": "01",
+   "conf": 0.63
+  },
+  {
+   "text": "Description",
+   "conf": 0.95
+  },
+  {
+   "text": "Qty",
+   "conf": 0.49
+  },
+  {
+   "text": "Price",
+   "conf": 0.47
+  },
+  {
+   "text": "Amount",
+   "conf": 0.89
+  },
+  {
+   "text": "ie",
+   "conf": 0.19
+  },
+  {
+   "text": "seem",
+   "conf": 0.02
+  },
+  {
+   "text": "Tees",
+   "conf": 0.11
+  },
+  {
+   "text": "a",
+   "conf": 0.26
+  },
+  {
+   "text": "ON",
+   "conf": 0.23
+  },
+  {
+   "text": "Plastic",
+   "conf": 0.64
+  },
+  {
+   "text": "2",
+   "conf": 0.92
+  },
+  {
+   "text": "1650",
+   "conf": 0.65
+  },
+  {
+   "text": "34.00",
+   "conf": 0.65
+  },
+  {
+   "text": "Total",
+   "conf": 0.8
+  },
+  {
+   "text": "Amount:",
+   "conf": 0.58
+  },
+  {
+   "text": "34.00\"",
+   "conf": 0.53
+  },
+  {
+   "text": "Cash",
+   "conf": 0.96
+  },
+  {
+   "text": "Received",
+   "conf": 0.96
+  },
+  {
+   "text": "101.00",
+   "conf": 0.53
+  },
+  {
+   "text": "Change",
+   "conf": 0.85
+  },
+  {
+   "text": ":",
+   "conf": 0.85
+  },
+  {
+   "text": "70.00",
+   "conf": 0.96
+  },
+  {
+   "text": "\"Goods",
+   "conf": 0.38
+  },
+  {
+   "text": "Sold",
+   "conf": 0.95
+  },
+  {
+   "text": "are",
+   "conf": 0.88
+  },
+  {
+   "text": "non-refundabl",
+   "conf": 0.57
+  },
+  {
+   "text": "***Thank",
+   "conf": 0.53
+  },
+  {
+   "text": "You\"**",
+   "conf": 0.0
+  },
+  {
+   "text": "“Please",
+   "conf": 0.16
+  },
+  {
+   "text": "Come",
+   "conf": 0.93
+  },
+  {
+   "text": "Again***",
+   "conf": 0.75
+  },
+  {
+   "text": "3).00",
+   "conf": 0.39
+  }
+ ],
+ "mean_conf": 0.661,
+ "low_conf_share": 0.2667,
+ "latency_ms": 1171,
+ "fields": {
+  "company": "TAN CHAY YEE ABC HO TRADING",
+  "date": "2019-01-09",
+  "total": 34.0
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  34.0
+ ],
+ "key": "X00016469669"
+}

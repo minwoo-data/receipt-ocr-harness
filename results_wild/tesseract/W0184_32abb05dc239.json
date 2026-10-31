@@ -1,0 +1,344 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "4f2v2018 Ms Zs =",
+  "«Lay Gift Shon |",
+  "heck: oleh",
+  "Server: Sieve",
+  "Terral: 31 —",
+  "can =",
+  "Retail S",
+  "iplyerss ma 8.55 sa",
+  "Zoe i",
+  "Wo tomdices 12.28",
+  "ae",
+  "Gress les 8.8",
+  "Dan 228",
+  "abc 3.71",
+  "Ta) 23)",
+  "i ee",
+  "ast ‘om -",
+  "thanwe aie fer",
+  "ND TOTAL on f",
+  "\"Receive 8 free gift with ee",
+  "res 0 you oat visit E",
+  "5 ir NaroarttariTTe Stores! i",
+  "wine #",
+  "@ | eemarce",
+  "ec) ="
+ ],
+ "tokens": [
+  {
+   "text": "4f2v2018",
+   "conf": 0.0
+  },
+  {
+   "text": "Ms",
+   "conf": 0.43
+  },
+  {
+   "text": "Zs",
+   "conf": 0.35
+  },
+  {
+   "text": "=",
+   "conf": 0.78
+  },
+  {
+   "text": "«Lay",
+   "conf": 0.08
+  },
+  {
+   "text": "Gift",
+   "conf": 0.8
+  },
+  {
+   "text": "Shon",
+   "conf": 0.4
+  },
+  {
+   "text": "|",
+   "conf": 0.48
+  },
+  {
+   "text": "heck:",
+   "conf": 0.63
+  },
+  {
+   "text": "oleh",
+   "conf": 0.31
+  },
+  {
+   "text": "Server:",
+   "conf": 0.59
+  },
+  {
+   "text": "Sieve",
+   "conf": 0.35
+  },
+  {
+   "text": "Terral:",
+   "conf": 0.17
+  },
+  {
+   "text": "31",
+   "conf": 0.62
+  },
+  {
+   "text": "—",
+   "conf": 0.44
+  },
+  {
+   "text": "can",
+   "conf": 0.32
+  },
+  {
+   "text": "=",
+   "conf": 0.52
+  },
+  {
+   "text": "Retail",
+   "conf": 0.39
+  },
+  {
+   "text": "S",
+   "conf": 0.42
+  },
+  {
+   "text": "iplyerss",
+   "conf": 0.0
+  },
+  {
+   "text": "ma",
+   "conf": 0.43
+  },
+  {
+   "text": "8.55",
+   "conf": 0.5
+  },
+  {
+   "text": "sa",
+   "conf": 0.28
+  },
+  {
+   "text": "Zoe",
+   "conf": 0.33
+  },
+  {
+   "text": "i",
+   "conf": 0.0
+  },
+  {
+   "text": "Wo",
+   "conf": 0.0
+  },
+  {
+   "text": "tomdices",
+   "conf": 0.0
+  },
+  {
+   "text": "12.28",
+   "conf": 0.42
+  },
+  {
+   "text": "ae",
+   "conf": 0.45
+  },
+  {
+   "text": "Gress",
+   "conf": 0.44
+  },
+  {
+   "text": "les",
+   "conf": 0.39
+  },
+  {
+   "text": "8.8",
+   "conf": 0.34
+  },
+  {
+   "text": "Dan",
+   "conf": 0.3
+  },
+  {
+   "text": "228",
+   "conf": 0.52
+  },
+  {
+   "text": "abc",
+   "conf": 0.0
+  },
+  {
+   "text": "3.71",
+   "conf": 0.31
+  },
+  {
+   "text": "Ta)",
+   "conf": 0.29
+  },
+  {
+   "text": "23)",
+   "conf": 0.29
+  },
+  {
+   "text": "i",
+   "conf": 0.37
+  },
+  {
+   "text": "ee",
+   "conf": 0.33
+  },
+  {
+   "text": "ast",
+   "conf": 0.28
+  },
+  {
+   "text": "‘om",
+   "conf": 0.16
+  },
+  {
+   "text": "-",
+   "conf": 0.2
+  },
+  {
+   "text": "thanwe",
+   "conf": 0.39
+  },
+  {
+   "text": "aie",
+   "conf": 0.72
+  },
+  {
+   "text": "fer",
+   "conf": 0.18
+  },
+  {
+   "text": "ND",
+   "conf": 0.42
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.81
+  },
+  {
+   "text": "on",
+   "conf": 0.29
+  },
+  {
+   "text": "f",
+   "conf": 0.03
+  },
+  {
+   "text": "\"Receive",
+   "conf": 0.19
+  },
+  {
+   "text": "8",
+   "conf": 0.4
+  },
+  {
+   "text": "free",
+   "conf": 0.91
+  },
+  {
+   "text": "gift",
+   "conf": 0.79
+  },
+  {
+   "text": "with",
+   "conf": 0.59
+  },
+  {
+   "text": "ee",
+   "conf": 0.42
+  },
+  {
+   "text": "res",
+   "conf": 0.56
+  },
+  {
+   "text": "0",
+   "conf": 0.57
+  },
+  {
+   "text": "you",
+   "conf": 0.67
+  },
+  {
+   "text": "oat",
+   "conf": 0.49
+  },
+  {
+   "text": "visit",
+   "conf": 0.61
+  },
+  {
+   "text": "E",
+   "conf": 0.61
+  },
+  {
+   "text": "5",
+   "conf": 0.0
+  },
+  {
+   "text": "ir",
+   "conf": 0.64
+  },
+  {
+   "text": "NaroarttariTTe",
+   "conf": 0.04
+  },
+  {
+   "text": "Stores!",
+   "conf": 0.21
+  },
+  {
+   "text": "i",
+   "conf": 0.17
+  },
+  {
+   "text": "wine",
+   "conf": 0.41
+  },
+  {
+   "text": "#",
+   "conf": 0.03
+  },
+  {
+   "text": "@",
+   "conf": 0.26
+  },
+  {
+   "text": "|",
+   "conf": 0.69
+  },
+  {
+   "text": "eemarce",
+   "conf": 0.0
+  },
+  {
+   "text": "ec)",
+   "conf": 0.27
+  },
+  {
+   "text": "=",
+   "conf": 0.69
+  }
+ ],
+ "mean_conf": 0.3753,
+ "low_conf_share": 0.7162,
+ "latency_ms": 1117,
+ "fields": {
+  "company": "LAY GIFT SHON",
+  "date": null,
+  "total": 3.71
+ },
+ "rule_reasons": [
+  "date_not_found",
+  "total_no_keyword_fallback_max"
+ ],
+ "total_candidates": [
+  3.71
+ ],
+ "key": "W0184_32abb05dc239"
+}

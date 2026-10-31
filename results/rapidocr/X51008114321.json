@@ -1,0 +1,203 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "FILL IN ENTERPRISE",
+  "CompanyNo:MA0057302-M",
+  "Lot 2407,JalanDua",
+  "52100 Kepong Baru,KL",
+  "Site:2076",
+  "Telephone:03-62587995",
+  "GSTNo:001229619200",
+  ">>>>Pre-Authorisation<<<<",
+  "Pre authcodeA01A1527956635",
+  "45.451itrePump#12",
+  "FuelSave95 RM 100.00C",
+  "2.200RM/1itre",
+  "Total RM 100.00",
+  "Cash RM 100.00",
+  "ReliefGST C RM 0.00",
+  "Total Gross C RM 100.00",
+  "Cashier:",
+  "BHasan",
+  "This isnot the final fiscal receipt",
+  "Date Time Num POS CNo Shift",
+  "03/06/1800:2334001015093868",
+  "Diesel&PetrolRoN95given Relief",
+  "under Section 56 (3)(b)GsT Act 2014",
+  "Thank You and Please Come Again"
+ ],
+ "tokens": [
+  {
+   "text": "FILL IN ENTERPRISE",
+   "conf": 0.952380034658644
+  },
+  {
+   "text": "CompanyNo:MA0057302-M",
+   "conf": 0.9888402734483991
+  },
+  {
+   "text": "Lot 2407,JalanDua",
+   "conf": 0.9394515402176801
+  },
+  {
+   "text": "52100 Kepong Baru,KL",
+   "conf": 0.9450471043586731
+  },
+  {
+   "text": "Site:2076",
+   "conf": 0.9803755548265245
+  },
+  {
+   "text": "Telephone:03-62587995",
+   "conf": 0.985653022925059
+  },
+  {
+   "text": "GSTNo:001229619200",
+   "conf": 0.9843386312325796
+  },
+  {
+   "text": ">>>>Pre-Authorisation<<<<",
+   "conf": 0.8860803961753845
+  },
+  {
+   "text": "Pre authcodeA01A1527956635",
+   "conf": 0.950115041090892
+  },
+  {
+   "text": "45.451itrePump#12",
+   "conf": 0.9756430282312281
+  },
+  {
+   "text": "FuelSave95",
+   "conf": 0.9812342345714569
+  },
+  {
+   "text": "RM",
+   "conf": 0.9948218762874603
+  },
+  {
+   "text": "100.00C",
+   "conf": 0.9700818998473031
+  },
+  {
+   "text": "2.200RM/1itre",
+   "conf": 0.8843163114327651
+  },
+  {
+   "text": "Total",
+   "conf": 0.993091094493866
+  },
+  {
+   "text": "RM",
+   "conf": 0.9929744005203247
+  },
+  {
+   "text": "100.00",
+   "conf": 0.9972066581249237
+  },
+  {
+   "text": "Cash",
+   "conf": 0.9828563779592514
+  },
+  {
+   "text": "RM",
+   "conf": 0.9953882694244385
+  },
+  {
+   "text": "100.00",
+   "conf": 0.9985908269882202
+  },
+  {
+   "text": "ReliefGST",
+   "conf": 0.9823980662557814
+  },
+  {
+   "text": "C",
+   "conf": 0.9564315676689148
+  },
+  {
+   "text": "RM",
+   "conf": 0.9931274652481079
+  },
+  {
+   "text": "0.00",
+   "conf": 0.997692346572876
+  },
+  {
+   "text": "Total Gross",
+   "conf": 0.9637010476805947
+  },
+  {
+   "text": "C",
+   "conf": 0.9585192799568176
+  },
+  {
+   "text": "RM",
+   "conf": 0.9949056208133698
+  },
+  {
+   "text": "100.00",
+   "conf": 0.9975958267847697
+  },
+  {
+   "text": "Cashier:",
+   "conf": 0.9896929711103439
+  },
+  {
+   "text": "BHasan",
+   "conf": 0.9928587178389231
+  },
+  {
+   "text": "This isnot the final fiscal receipt",
+   "conf": 0.9388009888785226
+  },
+  {
+   "text": "Date",
+   "conf": 0.9920539855957031
+  },
+  {
+   "text": "Time",
+   "conf": 0.984330803155899
+  },
+  {
+   "text": "Num",
+   "conf": 0.9758939345677694
+  },
+  {
+   "text": "POS CNo Shift",
+   "conf": 0.9801904650834891
+  },
+  {
+   "text": "03/06/1800:2334001015093868",
+   "conf": 0.9957332522780807
+  },
+  {
+   "text": "Diesel&PetrolRoN95given Relief",
+   "conf": 0.9343647321065267
+  },
+  {
+   "text": "under Section 56 (3)(b)GsT Act 2014",
+   "conf": 0.8988110150609697
+  },
+  {
+   "text": "Thank You and Please Come Again",
+   "conf": 0.9476742244535877
+  }
+ ],
+ "mean_conf": 0.9706,
+ "low_conf_share": 0.0,
+ "latency_ms": 5597,
+ "fields": {
+  "company": "FILL IN ENTERPRISE",
+  "date": null,
+  "total": 100.0
+ },
+ "rule_reasons": [
+  "date_not_found"
+ ],
+ "total_candidates": [
+  100.0,
+  100.0
+ ],
+ "key": "X51008114321"
+}

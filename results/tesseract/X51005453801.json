@@ -1,0 +1,430 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "3180303",
+  "GL HANDICRAFT & TAILORING",
+  "19, JALAN KANCIL,",
+  "OFF JALAN PUD,",
+  "59700 KUALA LUMPUR",
+  "MALAYSIA",
+  "Company Reg Mo. 75495",
+  "‘ GST Reg No. (001948932736",
+  "TAR INVOICE",
+  "invoice No. = GS 10072",
+  "Date: 20/03/2018 13:01",
+  "Cashier #: OF",
+  "RM Code",
+  "SAFETY PINS BUTTERFLY - 5",
+  "§.00HORS ¥ 17.00 102.00 SR",
+  "Subtotal : 102.00",
+  "TolalExcl. of GST CB",
+  "Total incl. of GST 102.00",
+  "Total Amt Rounded =——SS«(702.00",
+  "Payment : 102.00",
+  "Chance Que : 9.00",
+  "Total tema): 5",
+  "GST Summary Amount (RM) Tax (RM)",
+  "SR qd a% 96.23 6.77",
+  "seseeet THANIC YOU cnet",
+  "0\" FL EASE COME AGAIN *****"
+ ],
+ "tokens": [
+  {
+   "text": "3180303",
+   "conf": 0.96
+  },
+  {
+   "text": "GL",
+   "conf": 0.93
+  },
+  {
+   "text": "HANDICRAFT",
+   "conf": 0.93
+  },
+  {
+   "text": "&",
+   "conf": 0.91
+  },
+  {
+   "text": "TAILORING",
+   "conf": 0.95
+  },
+  {
+   "text": "19,",
+   "conf": 0.91
+  },
+  {
+   "text": "JALAN",
+   "conf": 0.83
+  },
+  {
+   "text": "KANCIL,",
+   "conf": 0.9
+  },
+  {
+   "text": "OFF",
+   "conf": 0.96
+  },
+  {
+   "text": "JALAN",
+   "conf": 0.95
+  },
+  {
+   "text": "PUD,",
+   "conf": 0.18
+  },
+  {
+   "text": "59700",
+   "conf": 0.82
+  },
+  {
+   "text": "KUALA",
+   "conf": 0.93
+  },
+  {
+   "text": "LUMPUR",
+   "conf": 0.82
+  },
+  {
+   "text": "MALAYSIA",
+   "conf": 0.96
+  },
+  {
+   "text": "Company",
+   "conf": 0.92
+  },
+  {
+   "text": "Reg",
+   "conf": 0.95
+  },
+  {
+   "text": "Mo.",
+   "conf": 0.82
+  },
+  {
+   "text": "75495",
+   "conf": 0.09
+  },
+  {
+   "text": "‘",
+   "conf": 0.33
+  },
+  {
+   "text": "GST",
+   "conf": 0.91
+  },
+  {
+   "text": "Reg",
+   "conf": 0.29
+  },
+  {
+   "text": "No.",
+   "conf": 0.9
+  },
+  {
+   "text": "(001948932736",
+   "conf": 0.39
+  },
+  {
+   "text": "TAR",
+   "conf": 0.6
+  },
+  {
+   "text": "INVOICE",
+   "conf": 0.6
+  },
+  {
+   "text": "invoice",
+   "conf": 0.8
+  },
+  {
+   "text": "No.",
+   "conf": 0.0
+  },
+  {
+   "text": "=",
+   "conf": 0.41
+  },
+  {
+   "text": "GS",
+   "conf": 0.62
+  },
+  {
+   "text": "10072",
+   "conf": 0.74
+  },
+  {
+   "text": "Date:",
+   "conf": 0.61
+  },
+  {
+   "text": "20/03/2018",
+   "conf": 0.86
+  },
+  {
+   "text": "13:01",
+   "conf": 0.89
+  },
+  {
+   "text": "Cashier",
+   "conf": 0.8
+  },
+  {
+   "text": "#:",
+   "conf": 0.8
+  },
+  {
+   "text": "OF",
+   "conf": 0.66
+  },
+  {
+   "text": "RM",
+   "conf": 0.64
+  },
+  {
+   "text": "Code",
+   "conf": 0.64
+  },
+  {
+   "text": "SAFETY",
+   "conf": 0.96
+  },
+  {
+   "text": "PINS",
+   "conf": 0.58
+  },
+  {
+   "text": "BUTTERFLY",
+   "conf": 0.86
+  },
+  {
+   "text": "-",
+   "conf": 0.89
+  },
+  {
+   "text": "5",
+   "conf": 0.71
+  },
+  {
+   "text": "§.00HORS",
+   "conf": 0.5
+  },
+  {
+   "text": "¥",
+   "conf": 0.75
+  },
+  {
+   "text": "17.00",
+   "conf": 0.91
+  },
+  {
+   "text": "102.00",
+   "conf": 0.93
+  },
+  {
+   "text": "SR",
+   "conf": 0.85
+  },
+  {
+   "text": "Subtotal",
+   "conf": 0.88
+  },
+  {
+   "text": ":",
+   "conf": 0.8
+  },
+  {
+   "text": "102.00",
+   "conf": 0.81
+  },
+  {
+   "text": "TolalExcl.",
+   "conf": 0.47
+  },
+  {
+   "text": "of",
+   "conf": 0.49
+  },
+  {
+   "text": "GST",
+   "conf": 0.49
+  },
+  {
+   "text": "CB",
+   "conf": 0.29
+  },
+  {
+   "text": "Total",
+   "conf": 0.96
+  },
+  {
+   "text": "incl.",
+   "conf": 0.81
+  },
+  {
+   "text": "of",
+   "conf": 0.94
+  },
+  {
+   "text": "GST",
+   "conf": 0.72
+  },
+  {
+   "text": "102.00",
+   "conf": 0.88
+  },
+  {
+   "text": "Total",
+   "conf": 0.45
+  },
+  {
+   "text": "Amt",
+   "conf": 0.37
+  },
+  {
+   "text": "Rounded",
+   "conf": 0.37
+  },
+  {
+   "text": "=——SS«(702.00",
+   "conf": 0.0
+  },
+  {
+   "text": "Payment",
+   "conf": 0.93
+  },
+  {
+   "text": ":",
+   "conf": 0.04
+  },
+  {
+   "text": "102.00",
+   "conf": 0.92
+  },
+  {
+   "text": "Chance",
+   "conf": 0.77
+  },
+  {
+   "text": "Que",
+   "conf": 0.54
+  },
+  {
+   "text": ":",
+   "conf": 0.45
+  },
+  {
+   "text": "9.00",
+   "conf": 0.61
+  },
+  {
+   "text": "Total",
+   "conf": 0.92
+  },
+  {
+   "text": "tema):",
+   "conf": 0.0
+  },
+  {
+   "text": "5",
+   "conf": 0.36
+  },
+  {
+   "text": "GST",
+   "conf": 0.88
+  },
+  {
+   "text": "Summary",
+   "conf": 0.81
+  },
+  {
+   "text": "Amount",
+   "conf": 0.46
+  },
+  {
+   "text": "(RM)",
+   "conf": 0.41
+  },
+  {
+   "text": "Tax",
+   "conf": 0.51
+  },
+  {
+   "text": "(RM)",
+   "conf": 0.18
+  },
+  {
+   "text": "SR",
+   "conf": 0.82
+  },
+  {
+   "text": "qd",
+   "conf": 0.0
+  },
+  {
+   "text": "a%",
+   "conf": 0.0
+  },
+  {
+   "text": "96.23",
+   "conf": 0.89
+  },
+  {
+   "text": "6.77",
+   "conf": 0.48
+  },
+  {
+   "text": "seseeet",
+   "conf": 0.0
+  },
+  {
+   "text": "THANIC",
+   "conf": 0.0
+  },
+  {
+   "text": "YOU",
+   "conf": 0.14
+  },
+  {
+   "text": "cnet",
+   "conf": 0.0
+  },
+  {
+   "text": "0\"",
+   "conf": 0.3
+  },
+  {
+   "text": "FL",
+   "conf": 0.31
+  },
+  {
+   "text": "EASE",
+   "conf": 0.73
+  },
+  {
+   "text": "COME",
+   "conf": 0.68
+  },
+  {
+   "text": "AGAIN",
+   "conf": 0.91
+  },
+  {
+   "text": "*****",
+   "conf": 0.53
+  }
+ ],
+ "mean_conf": 0.6298,
+ "low_conf_share": 0.3229,
+ "latency_ms": 577,
+ "fields": {
+  "company": "GL HANDICRAFT TAILORING",
+  "date": "2018-03-20",
+  "total": 102.0
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  102.0
+ ],
+ "key": "X51005453801"
+}

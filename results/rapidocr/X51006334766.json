@@ -1,0 +1,248 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "MEI LET RESTAURANT",
+  "NO 2JALAN BULAN BM U5/BM,SEKSYEN U5.",
+  "40150 SHAH ALAM,SELANGOR",
+  "TEL:03-7859:863",
+  "NO GST:0010 9273 4976",
+  "TAX INVOICE",
+  "TABLE:31",
+  "BILLN0:00014603/10P01",
+  "CASHIER: ADMINISTRATOR",
+  "BILL DT:12/01/2017 08:44:46PM RM",
+  "1 TALAPIA-JIU PAI STEAM (S) 25.00 SR",
+  "C01 (S)",
+  "STEAMED GINGER CHICKEN 15.00 SR",
+  "L05",
+  "BEAN CURD WITH FRIED EGG (S) 10.00 SR",
+  "M05 (S)",
+  "3 WATER/ TEA@O.50 1. 50 SR",
+  "3 RICE(L)1.50 4.50 SR",
+  "(L)",
+  "6 SUB TOIAL 56.00",
+  "GST6% 3.36",
+  "ROUNUIHG ADJ -0.01",
+  "NET TOTAL 59.35",
+  "Cash 100.00",
+  "CHANGE 40.65",
+  "Tax Summary Amount Tax",
+  "SRGST6% 56.00 3.36/",
+  "THANK YOU,PLEASE COME AGAIN"
+ ],
+ "tokens": [
+  {
+   "text": "MEI LET RESTAURANT",
+   "conf": 0.9833012057675256
+  },
+  {
+   "text": "NO 2JALAN BULAN BM U5/BM,SEKSYEN U5.",
+   "conf": 0.9315377341376411
+  },
+  {
+   "text": "40150 SHAH ALAM,SELANGOR",
+   "conf": 0.9662204881509145
+  },
+  {
+   "text": "TEL:03-7859:863",
+   "conf": 0.9967748085657756
+  },
+  {
+   "text": "NO GST:0010 9273 4976",
+   "conf": 0.9442688255082994
+  },
+  {
+   "text": "TAX INVOICE",
+   "conf": 0.9750657894394614
+  },
+  {
+   "text": "TABLE:31",
+   "conf": 0.9751281663775444
+  },
+  {
+   "text": "BILLN0:00014603/10P01",
+   "conf": 0.9729500583239964
+  },
+  {
+   "text": "CASHIER: ADMINISTRATOR",
+   "conf": 0.9475055905905637
+  },
+  {
+   "text": "BILL DT:12/01/2017 08:44:46PM",
+   "conf": 0.9469387490173866
+  },
+  {
+   "text": "RM",
+   "conf": 0.9957438111305237
+  },
+  {
+   "text": "TALAPIA-JIU PAI STEAM (S)",
+   "conf": 0.8836808514595031
+  },
+  {
+   "text": "25.00 SR",
+   "conf": 0.9984754100441933
+  },
+  {
+   "text": "1",
+   "conf": 0.9810463786125183
+  },
+  {
+   "text": "C01",
+   "conf": 0.9418739279111227
+  },
+  {
+   "text": "(S)",
+   "conf": 0.9662976463635763
+  },
+  {
+   "text": "STEAMED GINGER CHICKEN",
+   "conf": 0.9729335822842338
+  },
+  {
+   "text": "15.00 SR",
+   "conf": 0.9979635551571846
+  },
+  {
+   "text": "L05",
+   "conf": 0.9683180252710978
+  },
+  {
+   "text": "BEAN CURD WITH FRIED EGG (S)",
+   "conf": 0.9466952745403562
+  },
+  {
+   "text": "10.00 SR",
+   "conf": 0.9817912131547928
+  },
+  {
+   "text": "M05",
+   "conf": 0.981785237789154
+  },
+  {
+   "text": "(S)",
+   "conf": 0.980338454246521
+  },
+  {
+   "text": "3",
+   "conf": 0.9993342757225037
+  },
+  {
+   "text": "WATER/ TEA@O.50",
+   "conf": 0.922589119275411
+  },
+  {
+   "text": "1. 50 SR",
+   "conf": 0.8208626583218575
+  },
+  {
+   "text": "3",
+   "conf": 0.9994558691978455
+  },
+  {
+   "text": "RICE(L)1.50",
+   "conf": 0.8799942515113137
+  },
+  {
+   "text": "4.50 SR",
+   "conf": 0.9881359509059361
+  },
+  {
+   "text": "(L)",
+   "conf": 0.9854646722475687
+  },
+  {
+   "text": "6",
+   "conf": 0.9952587485313416
+  },
+  {
+   "text": "SUB TOIAL",
+   "conf": 0.9244594772656759
+  },
+  {
+   "text": "56.00",
+   "conf": 0.9999648332595825
+  },
+  {
+   "text": "GST6%",
+   "conf": 0.9966654300689697
+  },
+  {
+   "text": "3.36",
+   "conf": 0.9988320469856262
+  },
+  {
+   "text": "ROUNUIHG ADJ",
+   "conf": 0.874315045773983
+  },
+  {
+   "text": "-0.01",
+   "conf": 0.9978477239608765
+  },
+  {
+   "text": "59.35",
+   "conf": 0.998249626159668
+  },
+  {
+   "text": "NET TOTAL",
+   "conf": 0.9790098071098328
+  },
+  {
+   "text": "Cash",
+   "conf": 0.997966855764389
+  },
+  {
+   "text": "100.00",
+   "conf": 0.9997368554274241
+  },
+  {
+   "text": "40.65",
+   "conf": 0.8755231142044068
+  },
+  {
+   "text": "CHANGE",
+   "conf": 0.9915923178195953
+  },
+  {
+   "text": "Tax Summary",
+   "conf": 0.9539797902107239
+  },
+  {
+   "text": "Amount",
+   "conf": 0.9019547204176585
+  },
+  {
+   "text": "Tax",
+   "conf": 0.923350969950358
+  },
+  {
+   "text": "SRGST6%",
+   "conf": 0.9307471513748169
+  },
+  {
+   "text": "56.00",
+   "conf": 0.9996445417404175
+  },
+  {
+   "text": "3.36/",
+   "conf": 0.9246634364128112
+  },
+  {
+   "text": "THANK YOU,PLEASE COME AGAIN",
+   "conf": 0.9525203263318097
+  }
+ ],
+ "mean_conf": 0.961,
+ "low_conf_share": 0.0,
+ "latency_ms": 4661,
+ "fields": {
+  "company": "MEI LET RESTAURANT",
+  "date": "2017-01-12",
+  "total": 59.35
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  59.35
+ ],
+ "key": "X51006334766"
+}

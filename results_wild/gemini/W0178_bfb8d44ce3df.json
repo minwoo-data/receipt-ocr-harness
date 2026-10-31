@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.6-flash",
+ "provider": "gemini",
+ "raw_text": "{\"vendor\": \"Car Spa 0017\", \"date\": \"2015-05-28\", \"subtotal\": 159.48, \"tax\": 5.34, \"tip\": null, \"discount\": -25.99, \"total\": 164.82, \"currency\": \"USD\", \"confidence\": 0.98, \"notes\": null}",
+ "data": {
+  "vendor": "Car Spa 0017",
+  "date": "2015-05-28",
+  "subtotal": 159.48,
+  "tax": 5.34,
+  "tip": null,
+  "discount": -25.99,
+  "total": 164.82,
+  "currency": "USD",
+  "confidence": 0.98,
+  "notes": null
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1433,
+  "output_tokens": 94,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.001427,
+ "latency_ms": 1809,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.6-flash",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.6-flash"
+ ],
+ "key": "W0178_bfb8d44ce3df"
+}

@@ -1,0 +1,185 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "SUNRISEPHARMACYSDN BHD",
+  "88JALAN AMPANG，KUALA LUMPUR",
+  "TAX INVOICE",
+  "Date:05/03/2024 Time:13:42",
+  "2x1 ICED LATTE 19.00",
+  "3 X STEAMED FISH 144.00",
+  "2 X BALLP0INTPEN3PK 11.80",
+  "3 X PANAD0L 10S 20.40",
+  "2 X A4PAPER80GSM 29.80",
+  "1XRETURN-DAMAGED ITEM -11.80",
+  "SUBTOTAL",
+  "GST6% 213.20",
+  "TOTAL 12.79",
+  "CASH 225.99",
+  "CHANGE 230.99",
+  "5.00",
+  "THANK YOU,PLEASE COME AGAIN"
+ ],
+ "tokens": [
+  {
+   "text": "SUNRISEPHARMACYSDN BHD",
+   "conf": 0.9791743186387148
+  },
+  {
+   "text": "88JALAN AMPANG，KUALA LUMPUR",
+   "conf": 0.9435857401953803
+  },
+  {
+   "text": "TAX INVOICE",
+   "conf": 0.9821009961041537
+  },
+  {
+   "text": "Date:05/03/2024",
+   "conf": 0.9896910667419434
+  },
+  {
+   "text": "Time:13:42",
+   "conf": 0.9747756898403168
+  },
+  {
+   "text": "2x1",
+   "conf": 0.6925745904445648
+  },
+  {
+   "text": "ICED LATTE",
+   "conf": 0.9598311483860016
+  },
+  {
+   "text": "19.00",
+   "conf": 0.9991692900657654
+  },
+  {
+   "text": "3",
+   "conf": 0.9991662502288818
+  },
+  {
+   "text": "X",
+   "conf": 0.527738630771637
+  },
+  {
+   "text": "STEAMED FISH",
+   "conf": 0.9604646811882654
+  },
+  {
+   "text": "144.00",
+   "conf": 0.9989925920963287
+  },
+  {
+   "text": "2",
+   "conf": 0.9996665716171265
+  },
+  {
+   "text": "X",
+   "conf": 0.8239984512329102
+  },
+  {
+   "text": "BALLP0INTPEN3PK",
+   "conf": 0.9671327114105225
+  },
+  {
+   "text": "11.80",
+   "conf": 0.9989751219749451
+  },
+  {
+   "text": "3",
+   "conf": 0.9994434714317322
+  },
+  {
+   "text": "X",
+   "conf": 0.6346370577812195
+  },
+  {
+   "text": "PANAD0L 10S",
+   "conf": 0.9563750570470636
+  },
+  {
+   "text": "20.40",
+   "conf": 0.9994826912879944
+  },
+  {
+   "text": "2",
+   "conf": 0.9996052384376526
+  },
+  {
+   "text": "X",
+   "conf": 0.8300729990005493
+  },
+  {
+   "text": "A4PAPER80GSM",
+   "conf": 0.9938629964987437
+  },
+  {
+   "text": "29.80",
+   "conf": 0.9997334599494934
+  },
+  {
+   "text": "1XRETURN-DAMAGED ITEM",
+   "conf": 0.94547286487761
+  },
+  {
+   "text": "-11.80",
+   "conf": 0.9826578001181284
+  },
+  {
+   "text": "SUBTOTAL",
+   "conf": 0.9937511011958122
+  },
+  {
+   "text": "213.20",
+   "conf": 0.9995248516400655
+  },
+  {
+   "text": "GST6%",
+   "conf": 0.9810664892196655
+  },
+  {
+   "text": "12.79",
+   "conf": 0.9993446707725525
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.9967349886894226
+  },
+  {
+   "text": "225.99",
+   "conf": 0.997454563776652
+  },
+  {
+   "text": "CASH",
+   "conf": 0.9979186058044434
+  },
+  {
+   "text": "230.99",
+   "conf": 0.9995061655839285
+  },
+  {
+   "text": "CHANGE",
+   "conf": 0.9968846638997396
+  },
+  {
+   "text": "5.00",
+   "conf": 0.9991572946310043
+  },
+  {
+   "text": "THANK YOU,PLEASE COME AGAIN",
+   "conf": 0.9289513208247997
+  }
+ ],
+ "mean_conf": 0.9467,
+ "low_conf_share": 0.0,
+ "latency_ms": 20322,
+ "fields": {
+  "company": "SUNRISEPHARMACYSDN BHD",
+  "date": "2024-03-05",
+  "total": 12.79
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  12.79
+ ],
+ "key": "SYN020"
+}

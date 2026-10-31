@@ -1,0 +1,572 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "9 12 Of O14",
+  "SYARIKAT PERNIAGAAN GIN KEE",
+  "(81109-A)",
+  "NO 290, JALAN AIR PANAS,",
+  "SETAPAK,",
+  "53200, KUALA LUMPUR.",
+  "TEL : 03-40210276",
+  "GST ID : 000750673920",
+  "SIMPLIFIED TAX INVOICE",
+  "Doc No * CS00012507 Date: 02/01/2018",
+  "Cashier USER Time: 16:58:00",
+  "Salesperson Ref. :",
+  "ttem ss Qty, S/Price Amount Tax_",
+  "1811 1 13.57 1357 SR",
+  "8'2X3",
+  "1042 4 18.55 7420 SR",
+  "7' ¥ 354% CORRUGATED ROOFING SHEET",
+  "1921 1 5.30 530 SR",
+  "NAIL (PER/PACK) - RMS",
+  "~ JotalQty =—=6”:—~—<“‘i;™S™SCSZOC:C:~‘~:;*#",
+  "Total Sales (Excluding GST) : 87.80",
+  "Discount : 0.00",
+  "Total GST . 5.27",
+  "Rounding 0.00",
+  "Total Sales (Inclusive of GST) : 93.07",
+  "CASH : 93.07",
+  "Change : 0.00",
+  "[OST SUMMARY OO",
+  "Tax Code h Amt(RM) Tax(RM)",
+  "SR 6 87.80 5.27",
+  "Total : 87.80 5.27 |",
+  "GOONS SOLD ARE NOT RETURNABLE, THANK YOU d |"
+ ],
+ "tokens": [
+  {
+   "text": "9",
+   "conf": 0.71
+  },
+  {
+   "text": "12",
+   "conf": 0.21
+  },
+  {
+   "text": "Of",
+   "conf": 0.61
+  },
+  {
+   "text": "O14",
+   "conf": 0.87
+  },
+  {
+   "text": "SYARIKAT",
+   "conf": 0.91
+  },
+  {
+   "text": "PERNIAGAAN",
+   "conf": 0.91
+  },
+  {
+   "text": "GIN",
+   "conf": 0.96
+  },
+  {
+   "text": "KEE",
+   "conf": 0.96
+  },
+  {
+   "text": "(81109-A)",
+   "conf": 0.92
+  },
+  {
+   "text": "NO",
+   "conf": 0.96
+  },
+  {
+   "text": "290,",
+   "conf": 0.96
+  },
+  {
+   "text": "JALAN",
+   "conf": 0.95
+  },
+  {
+   "text": "AIR",
+   "conf": 0.93
+  },
+  {
+   "text": "PANAS,",
+   "conf": 0.91
+  },
+  {
+   "text": "SETAPAK,",
+   "conf": 0.91
+  },
+  {
+   "text": "53200,",
+   "conf": 0.81
+  },
+  {
+   "text": "KUALA",
+   "conf": 0.88
+  },
+  {
+   "text": "LUMPUR.",
+   "conf": 0.94
+  },
+  {
+   "text": "TEL",
+   "conf": 0.93
+  },
+  {
+   "text": ":",
+   "conf": 0.9
+  },
+  {
+   "text": "03-40210276",
+   "conf": 0.91
+  },
+  {
+   "text": "GST",
+   "conf": 0.93
+  },
+  {
+   "text": "ID",
+   "conf": 0.91
+  },
+  {
+   "text": ":",
+   "conf": 0.81
+  },
+  {
+   "text": "000750673920",
+   "conf": 0.96
+  },
+  {
+   "text": "SIMPLIFIED",
+   "conf": 0.95
+  },
+  {
+   "text": "TAX",
+   "conf": 0.95
+  },
+  {
+   "text": "INVOICE",
+   "conf": 0.95
+  },
+  {
+   "text": "Doc",
+   "conf": 0.95
+  },
+  {
+   "text": "No",
+   "conf": 0.96
+  },
+  {
+   "text": "*",
+   "conf": 0.11
+  },
+  {
+   "text": "CS00012507",
+   "conf": 0.56
+  },
+  {
+   "text": "Date:",
+   "conf": 0.93
+  },
+  {
+   "text": "02/01/2018",
+   "conf": 0.96
+  },
+  {
+   "text": "Cashier",
+   "conf": 0.95
+  },
+  {
+   "text": "USER",
+   "conf": 0.95
+  },
+  {
+   "text": "Time:",
+   "conf": 0.93
+  },
+  {
+   "text": "16:58:00",
+   "conf": 0.93
+  },
+  {
+   "text": "Salesperson",
+   "conf": 0.96
+  },
+  {
+   "text": "Ref.",
+   "conf": 0.91
+  },
+  {
+   "text": ":",
+   "conf": 0.47
+  },
+  {
+   "text": "ttem",
+   "conf": 0.24
+  },
+  {
+   "text": "ss",
+   "conf": 0.37
+  },
+  {
+   "text": "Qty,",
+   "conf": 0.25
+  },
+  {
+   "text": "S/Price",
+   "conf": 0.52
+  },
+  {
+   "text": "Amount",
+   "conf": 0.13
+  },
+  {
+   "text": "Tax_",
+   "conf": 0.76
+  },
+  {
+   "text": "1811",
+   "conf": 0.96
+  },
+  {
+   "text": "1",
+   "conf": 0.96
+  },
+  {
+   "text": "13.57",
+   "conf": 0.85
+  },
+  {
+   "text": "1357",
+   "conf": 0.92
+  },
+  {
+   "text": "SR",
+   "conf": 0.92
+  },
+  {
+   "text": "8'2X3",
+   "conf": 0.84
+  },
+  {
+   "text": "1042",
+   "conf": 0.96
+  },
+  {
+   "text": "4",
+   "conf": 0.96
+  },
+  {
+   "text": "18.55",
+   "conf": 0.93
+  },
+  {
+   "text": "7420",
+   "conf": 0.89
+  },
+  {
+   "text": "SR",
+   "conf": 0.89
+  },
+  {
+   "text": "7'",
+   "conf": 0.72
+  },
+  {
+   "text": "¥",
+   "conf": 0.72
+  },
+  {
+   "text": "354%",
+   "conf": 0.49
+  },
+  {
+   "text": "CORRUGATED",
+   "conf": 0.95
+  },
+  {
+   "text": "ROOFING",
+   "conf": 0.95
+  },
+  {
+   "text": "SHEET",
+   "conf": 0.96
+  },
+  {
+   "text": "1921",
+   "conf": 0.96
+  },
+  {
+   "text": "1",
+   "conf": 0.84
+  },
+  {
+   "text": "5.30",
+   "conf": 0.32
+  },
+  {
+   "text": "530",
+   "conf": 0.75
+  },
+  {
+   "text": "SR",
+   "conf": 0.96
+  },
+  {
+   "text": "NAIL",
+   "conf": 0.92
+  },
+  {
+   "text": "(PER/PACK)",
+   "conf": 0.9
+  },
+  {
+   "text": "-",
+   "conf": 0.89
+  },
+  {
+   "text": "RMS",
+   "conf": 0.24
+  },
+  {
+   "text": "~",
+   "conf": 0.28
+  },
+  {
+   "text": "JotalQty",
+   "conf": 0.23
+  },
+  {
+   "text": "=—=6”:—~—<“‘i;™S™SCSZOC:C:~‘~:;*#",
+   "conf": 0.0
+  },
+  {
+   "text": "Total",
+   "conf": 0.96
+  },
+  {
+   "text": "Sales",
+   "conf": 0.96
+  },
+  {
+   "text": "(Excluding",
+   "conf": 0.96
+  },
+  {
+   "text": "GST)",
+   "conf": 0.76
+  },
+  {
+   "text": ":",
+   "conf": 0.7
+  },
+  {
+   "text": "87.80",
+   "conf": 0.95
+  },
+  {
+   "text": "Discount",
+   "conf": 0.79
+  },
+  {
+   "text": ":",
+   "conf": 0.77
+  },
+  {
+   "text": "0.00",
+   "conf": 0.96
+  },
+  {
+   "text": "Total",
+   "conf": 0.44
+  },
+  {
+   "text": "GST",
+   "conf": 0.44
+  },
+  {
+   "text": ".",
+   "conf": 0.65
+  },
+  {
+   "text": "5.27",
+   "conf": 0.89
+  },
+  {
+   "text": "Rounding",
+   "conf": 0.96
+  },
+  {
+   "text": "0.00",
+   "conf": 0.96
+  },
+  {
+   "text": "Total",
+   "conf": 0.96
+  },
+  {
+   "text": "Sales",
+   "conf": 0.95
+  },
+  {
+   "text": "(Inclusive",
+   "conf": 0.95
+  },
+  {
+   "text": "of",
+   "conf": 0.96
+  },
+  {
+   "text": "GST)",
+   "conf": 0.92
+  },
+  {
+   "text": ":",
+   "conf": 0.92
+  },
+  {
+   "text": "93.07",
+   "conf": 0.96
+  },
+  {
+   "text": "CASH",
+   "conf": 0.92
+  },
+  {
+   "text": ":",
+   "conf": 0.92
+  },
+  {
+   "text": "93.07",
+   "conf": 0.96
+  },
+  {
+   "text": "Change",
+   "conf": 0.92
+  },
+  {
+   "text": ":",
+   "conf": 0.92
+  },
+  {
+   "text": "0.00",
+   "conf": 0.96
+  },
+  {
+   "text": "[OST",
+   "conf": 0.5
+  },
+  {
+   "text": "SUMMARY",
+   "conf": 0.78
+  },
+  {
+   "text": "OO",
+   "conf": 0.0
+  },
+  {
+   "text": "Tax",
+   "conf": 0.95
+  },
+  {
+   "text": "Code",
+   "conf": 0.96
+  },
+  {
+   "text": "h",
+   "conf": 0.01
+  },
+  {
+   "text": "Amt(RM)",
+   "conf": 0.5
+  },
+  {
+   "text": "Tax(RM)",
+   "conf": 0.5
+  },
+  {
+   "text": "SR",
+   "conf": 0.95
+  },
+  {
+   "text": "6",
+   "conf": 0.96
+  },
+  {
+   "text": "87.80",
+   "conf": 0.95
+  },
+  {
+   "text": "5.27",
+   "conf": 0.8
+  },
+  {
+   "text": "Total",
+   "conf": 0.92
+  },
+  {
+   "text": ":",
+   "conf": 0.92
+  },
+  {
+   "text": "87.80",
+   "conf": 0.96
+  },
+  {
+   "text": "5.27",
+   "conf": 0.96
+  },
+  {
+   "text": "|",
+   "conf": 0.76
+  },
+  {
+   "text": "GOONS",
+   "conf": 0.91
+  },
+  {
+   "text": "SOLD",
+   "conf": 0.96
+  },
+  {
+   "text": "ARE",
+   "conf": 0.96
+  },
+  {
+   "text": "NOT",
+   "conf": 0.95
+  },
+  {
+   "text": "RETURNABLE,",
+   "conf": 0.96
+  },
+  {
+   "text": "THANK",
+   "conf": 0.95
+  },
+  {
+   "text": "YOU",
+   "conf": 0.96
+  },
+  {
+   "text": "d",
+   "conf": 0.43
+  },
+  {
+   "text": "|",
+   "conf": 0.65
+  }
+ ],
+ "mean_conf": 0.7999,
+ "low_conf_share": 0.1385,
+ "latency_ms": 1565,
+ "fields": {
+  "company": "SYARIKAT PERNIAGAAN GIN KEE",
+  "date": "2018-01-02",
+  "total": 93.07
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  93.07
+ ],
+ "key": "X51005676536"
+}

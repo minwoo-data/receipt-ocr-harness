@@ -1,0 +1,530 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "3180404 Aefp rot",
+  "BERRY’S CARE HOUSE . .",
+  "(Co No. 315481-T) GST No. 001287233536",
+  "Not,",
+  "Tin Puteri 1/6,",
+  "Bandar Futeri,",
+  "47100 Puchong,",
+  "Selangor",
+  "Outlet:03-80626265 Careline: 03-56381998",
+  "18/04/2018 $:18:08 p Session: 11444",
+  "Userst . TAX Invoice Nori45S1 FOS?",
+  "Desc & Code Oty Price Amount",
+  "00014960 RAISIN ALMOND BREAD",
+  "1.00 4,55 4.55",
+  "00002493 CHEESE ROLL (4)",
+  "1.00 3.90 3.90",
+  "00002479 BUTTER ROLL 44)",
+  "1.00 2.80 2.80",
+  "Total Inclusive of Tax 11.25",
+  "Rounding Adjustment 0.00",
+  "SubTotal 41.25",
+  "RINGGIT M?SIA 20.00",
+  "Payment -20.00",
+  "Change 8.75",
+  "Item Court 3",
+  "Item Total 3",
+  "GST Summary Amount 6ST",
+  "GST G4 0.00 0.00",
+  "GST 47 10.61 0.64",
+  "Receipt/Trx No 14551/1582555",
+  "All Berry’s products are available",
+  "at Berry’s Outlet Only.",
+  "customerservicetberrys. com. my",
+  "waW. DEF rYs. COR. BY"
+ ],
+ "tokens": [
+  {
+   "text": "3180404",
+   "conf": 0.96
+  },
+  {
+   "text": "Aefp",
+   "conf": 0.38
+  },
+  {
+   "text": "rot",
+   "conf": 0.37
+  },
+  {
+   "text": "BERRY’S",
+   "conf": 0.74
+  },
+  {
+   "text": "CARE",
+   "conf": 0.94
+  },
+  {
+   "text": "HOUSE",
+   "conf": 0.59
+  },
+  {
+   "text": ".",
+   "conf": 0.66
+  },
+  {
+   "text": ".",
+   "conf": 0.37
+  },
+  {
+   "text": "(Co",
+   "conf": 0.94
+  },
+  {
+   "text": "No.",
+   "conf": 0.91
+  },
+  {
+   "text": "315481-T)",
+   "conf": 0.8
+  },
+  {
+   "text": "GST",
+   "conf": 0.95
+  },
+  {
+   "text": "No.",
+   "conf": 0.94
+  },
+  {
+   "text": "001287233536",
+   "conf": 0.93
+  },
+  {
+   "text": "Not,",
+   "conf": 0.52
+  },
+  {
+   "text": "Tin",
+   "conf": 0.2
+  },
+  {
+   "text": "Puteri",
+   "conf": 0.29
+  },
+  {
+   "text": "1/6,",
+   "conf": 0.8
+  },
+  {
+   "text": "Bandar",
+   "conf": 0.93
+  },
+  {
+   "text": "Futeri,",
+   "conf": 0.91
+  },
+  {
+   "text": "47100",
+   "conf": 0.96
+  },
+  {
+   "text": "Puchong,",
+   "conf": 0.31
+  },
+  {
+   "text": "Selangor",
+   "conf": 0.96
+  },
+  {
+   "text": "Outlet:03-80626265",
+   "conf": 0.66
+  },
+  {
+   "text": "Careline:",
+   "conf": 0.14
+  },
+  {
+   "text": "03-56381998",
+   "conf": 0.14
+  },
+  {
+   "text": "18/04/2018",
+   "conf": 0.92
+  },
+  {
+   "text": "$:18:08",
+   "conf": 0.0
+  },
+  {
+   "text": "p",
+   "conf": 0.91
+  },
+  {
+   "text": "Session:",
+   "conf": 0.85
+  },
+  {
+   "text": "11444",
+   "conf": 0.85
+  },
+  {
+   "text": "Userst",
+   "conf": 0.0
+  },
+  {
+   "text": ".",
+   "conf": 0.42
+  },
+  {
+   "text": "TAX",
+   "conf": 0.96
+  },
+  {
+   "text": "Invoice",
+   "conf": 0.89
+  },
+  {
+   "text": "Nori45S1",
+   "conf": 0.13
+  },
+  {
+   "text": "FOS?",
+   "conf": 0.0
+  },
+  {
+   "text": "Desc",
+   "conf": 0.91
+  },
+  {
+   "text": "&",
+   "conf": 0.92
+  },
+  {
+   "text": "Code",
+   "conf": 0.96
+  },
+  {
+   "text": "Oty",
+   "conf": 0.78
+  },
+  {
+   "text": "Price",
+   "conf": 0.89
+  },
+  {
+   "text": "Amount",
+   "conf": 0.13
+  },
+  {
+   "text": "00014960",
+   "conf": 0.51
+  },
+  {
+   "text": "RAISIN",
+   "conf": 0.96
+  },
+  {
+   "text": "ALMOND",
+   "conf": 0.79
+  },
+  {
+   "text": "BREAD",
+   "conf": 0.96
+  },
+  {
+   "text": "1.00",
+   "conf": 0.93
+  },
+  {
+   "text": "4,55",
+   "conf": 0.79
+  },
+  {
+   "text": "4.55",
+   "conf": 0.9
+  },
+  {
+   "text": "00002493",
+   "conf": 0.61
+  },
+  {
+   "text": "CHEESE",
+   "conf": 0.95
+  },
+  {
+   "text": "ROLL",
+   "conf": 0.96
+  },
+  {
+   "text": "(4)",
+   "conf": 0.94
+  },
+  {
+   "text": "1.00",
+   "conf": 0.92
+  },
+  {
+   "text": "3.90",
+   "conf": 0.82
+  },
+  {
+   "text": "3.90",
+   "conf": 0.81
+  },
+  {
+   "text": "00002479",
+   "conf": 0.83
+  },
+  {
+   "text": "BUTTER",
+   "conf": 0.94
+  },
+  {
+   "text": "ROLL",
+   "conf": 0.95
+  },
+  {
+   "text": "44)",
+   "conf": 0.59
+  },
+  {
+   "text": "1.00",
+   "conf": 0.91
+  },
+  {
+   "text": "2.80",
+   "conf": 0.77
+  },
+  {
+   "text": "2.80",
+   "conf": 0.86
+  },
+  {
+   "text": "Total",
+   "conf": 0.96
+  },
+  {
+   "text": "Inclusive",
+   "conf": 0.96
+  },
+  {
+   "text": "of",
+   "conf": 0.96
+  },
+  {
+   "text": "Tax",
+   "conf": 0.96
+  },
+  {
+   "text": "11.25",
+   "conf": 0.78
+  },
+  {
+   "text": "Rounding",
+   "conf": 0.96
+  },
+  {
+   "text": "Adjustment",
+   "conf": 0.96
+  },
+  {
+   "text": "0.00",
+   "conf": 0.63
+  },
+  {
+   "text": "SubTotal",
+   "conf": 0.96
+  },
+  {
+   "text": "41.25",
+   "conf": 0.7
+  },
+  {
+   "text": "RINGGIT",
+   "conf": 0.91
+  },
+  {
+   "text": "M?SIA",
+   "conf": 0.26
+  },
+  {
+   "text": "20.00",
+   "conf": 0.83
+  },
+  {
+   "text": "Payment",
+   "conf": 0.94
+  },
+  {
+   "text": "-20.00",
+   "conf": 0.22
+  },
+  {
+   "text": "Change",
+   "conf": 0.94
+  },
+  {
+   "text": "8.75",
+   "conf": 0.9
+  },
+  {
+   "text": "Item",
+   "conf": 0.93
+  },
+  {
+   "text": "Court",
+   "conf": 0.74
+  },
+  {
+   "text": "3",
+   "conf": 0.96
+  },
+  {
+   "text": "Item",
+   "conf": 0.78
+  },
+  {
+   "text": "Total",
+   "conf": 0.96
+  },
+  {
+   "text": "3",
+   "conf": 0.95
+  },
+  {
+   "text": "GST",
+   "conf": 0.92
+  },
+  {
+   "text": "Summary",
+   "conf": 0.93
+  },
+  {
+   "text": "Amount",
+   "conf": 0.88
+  },
+  {
+   "text": "6ST",
+   "conf": 0.77
+  },
+  {
+   "text": "GST",
+   "conf": 0.88
+  },
+  {
+   "text": "G4",
+   "conf": 0.18
+  },
+  {
+   "text": "0.00",
+   "conf": 0.48
+  },
+  {
+   "text": "0.00",
+   "conf": 0.63
+  },
+  {
+   "text": "GST",
+   "conf": 0.93
+  },
+  {
+   "text": "47",
+   "conf": 0.67
+  },
+  {
+   "text": "10.61",
+   "conf": 0.26
+  },
+  {
+   "text": "0.64",
+   "conf": 0.75
+  },
+  {
+   "text": "Receipt/Trx",
+   "conf": 0.86
+  },
+  {
+   "text": "No",
+   "conf": 0.96
+  },
+  {
+   "text": "14551/1582555",
+   "conf": 0.36
+  },
+  {
+   "text": "All",
+   "conf": 0.91
+  },
+  {
+   "text": "Berry’s",
+   "conf": 0.87
+  },
+  {
+   "text": "products",
+   "conf": 0.96
+  },
+  {
+   "text": "are",
+   "conf": 0.96
+  },
+  {
+   "text": "available",
+   "conf": 0.93
+  },
+  {
+   "text": "at",
+   "conf": 0.92
+  },
+  {
+   "text": "Berry’s",
+   "conf": 0.88
+  },
+  {
+   "text": "Outlet",
+   "conf": 0.26
+  },
+  {
+   "text": "Only.",
+   "conf": 0.9
+  },
+  {
+   "text": "customerservicetberrys.",
+   "conf": 0.41
+  },
+  {
+   "text": "com.",
+   "conf": 0.82
+  },
+  {
+   "text": "my",
+   "conf": 0.86
+  },
+  {
+   "text": "waW.",
+   "conf": 0.4
+  },
+  {
+   "text": "DEF",
+   "conf": 0.0
+  },
+  {
+   "text": "rYs.",
+   "conf": 0.0
+  },
+  {
+   "text": "COR.",
+   "conf": 0.59
+  },
+  {
+   "text": "BY",
+   "conf": 0.45
+  }
+ ],
+ "mean_conf": 0.7248,
+ "low_conf_share": 0.2185,
+ "latency_ms": 1128,
+ "fields": {
+  "company": "GST NO",
+  "date": "2018-04-18",
+  "total": 11.25
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  11.25
+ ],
+ "key": "X51006466056"
+}

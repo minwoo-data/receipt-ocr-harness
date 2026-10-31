@@ -1,0 +1,325 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "‘Sushi Garden Restaurant 5",
+  "4269 Lougheed Hwy",
+  "Burnaby, (604)204-0104",
+  "Order #134 T 22 : 7",
+  "Date: 08-Aug-2015 2:31.17 PM",
+  "1X Ala Roll $38, be,",
+  "1 X Sal Sashimi 1/2 ee",
+  "1X Chkn Teri Roll ee |",
+  "1X Chop Roll $ Py",
+  "1X Tuna Roll $18 |",
+  "1X Cali Roll 526 |",
+  "1X Ala Roll 2 |",
+  "‘SUB-TOTAL: $26.",
+  "GST(5%): $1.30",
+  "L Tax(10%) L 00.",
+  "TOTAL DUE: $2730",
+  "CASH: q",
+  "PAID:",
+  "CHANGE-"
+ ],
+ "tokens": [
+  {
+   "text": "‘Sushi",
+   "conf": 0.76
+  },
+  {
+   "text": "Garden",
+   "conf": 0.92
+  },
+  {
+   "text": "Restaurant",
+   "conf": 0.96
+  },
+  {
+   "text": "5",
+   "conf": 0.4
+  },
+  {
+   "text": "4269",
+   "conf": 0.88
+  },
+  {
+   "text": "Lougheed",
+   "conf": 0.73
+  },
+  {
+   "text": "Hwy",
+   "conf": 0.24
+  },
+  {
+   "text": "Burnaby,",
+   "conf": 0.71
+  },
+  {
+   "text": "(604)204-0104",
+   "conf": 0.63
+  },
+  {
+   "text": "Order",
+   "conf": 0.95
+  },
+  {
+   "text": "#134",
+   "conf": 0.78
+  },
+  {
+   "text": "T",
+   "conf": 0.78
+  },
+  {
+   "text": "22",
+   "conf": 0.96
+  },
+  {
+   "text": ":",
+   "conf": 0.3
+  },
+  {
+   "text": "7",
+   "conf": 0.59
+  },
+  {
+   "text": "Date:",
+   "conf": 0.66
+  },
+  {
+   "text": "08-Aug-2015",
+   "conf": 0.92
+  },
+  {
+   "text": "2:31.17",
+   "conf": 0.72
+  },
+  {
+   "text": "PM",
+   "conf": 0.93
+  },
+  {
+   "text": "1X",
+   "conf": 0.14
+  },
+  {
+   "text": "Ala",
+   "conf": 0.14
+  },
+  {
+   "text": "Roll",
+   "conf": 0.22
+  },
+  {
+   "text": "$38,",
+   "conf": 0.27
+  },
+  {
+   "text": "be,",
+   "conf": 0.35
+  },
+  {
+   "text": "1",
+   "conf": 0.77
+  },
+  {
+   "text": "X",
+   "conf": 0.77
+  },
+  {
+   "text": "Sal",
+   "conf": 0.96
+  },
+  {
+   "text": "Sashimi",
+   "conf": 0.96
+  },
+  {
+   "text": "1/2",
+   "conf": 0.96
+  },
+  {
+   "text": "ee",
+   "conf": 0.34
+  },
+  {
+   "text": "1X",
+   "conf": 0.44
+  },
+  {
+   "text": "Chkn",
+   "conf": 0.44
+  },
+  {
+   "text": "Teri",
+   "conf": 0.93
+  },
+  {
+   "text": "Roll",
+   "conf": 0.82
+  },
+  {
+   "text": "ee",
+   "conf": 0.23
+  },
+  {
+   "text": "|",
+   "conf": 0.72
+  },
+  {
+   "text": "1X",
+   "conf": 0.55
+  },
+  {
+   "text": "Chop",
+   "conf": 0.55
+  },
+  {
+   "text": "Roll",
+   "conf": 0.91
+  },
+  {
+   "text": "$",
+   "conf": 0.67
+  },
+  {
+   "text": "Py",
+   "conf": 0.32
+  },
+  {
+   "text": "1X",
+   "conf": 0.73
+  },
+  {
+   "text": "Tuna",
+   "conf": 0.83
+  },
+  {
+   "text": "Roll",
+   "conf": 0.95
+  },
+  {
+   "text": "$18",
+   "conf": 0.64
+  },
+  {
+   "text": "|",
+   "conf": 0.84
+  },
+  {
+   "text": "1X",
+   "conf": 0.6
+  },
+  {
+   "text": "Cali",
+   "conf": 0.6
+  },
+  {
+   "text": "Roll",
+   "conf": 0.95
+  },
+  {
+   "text": "526",
+   "conf": 0.68
+  },
+  {
+   "text": "|",
+   "conf": 0.91
+  },
+  {
+   "text": "1X",
+   "conf": 0.49
+  },
+  {
+   "text": "Ala",
+   "conf": 0.49
+  },
+  {
+   "text": "Roll",
+   "conf": 0.9
+  },
+  {
+   "text": "2",
+   "conf": 0.46
+  },
+  {
+   "text": "|",
+   "conf": 0.75
+  },
+  {
+   "text": "‘SUB-TOTAL:",
+   "conf": 0.7
+  },
+  {
+   "text": "$26.",
+   "conf": 0.62
+  },
+  {
+   "text": "GST(5%):",
+   "conf": 0.65
+  },
+  {
+   "text": "$1.30",
+   "conf": 0.04
+  },
+  {
+   "text": "L",
+   "conf": 0.82
+  },
+  {
+   "text": "Tax(10%)",
+   "conf": 0.32
+  },
+  {
+   "text": "L",
+   "conf": 0.0
+  },
+  {
+   "text": "00.",
+   "conf": 0.57
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.96
+  },
+  {
+   "text": "DUE:",
+   "conf": 0.96
+  },
+  {
+   "text": "$2730",
+   "conf": 0.47
+  },
+  {
+   "text": "CASH:",
+   "conf": 0.88
+  },
+  {
+   "text": "q",
+   "conf": 0.61
+  },
+  {
+   "text": "PAID:",
+   "conf": 0.89
+  },
+  {
+   "text": "CHANGE-",
+   "conf": 0.8
+  }
+ ],
+ "mean_conf": 0.6534,
+ "low_conf_share": 0.2817,
+ "latency_ms": 552,
+ "fields": {
+  "company": "SUSHI GARDEN RESTAURANT 5",
+  "date": "2015-08-08",
+  "total": 1.3
+ },
+ "rule_reasons": [
+  "total_no_keyword_fallback_max"
+ ],
+ "total_candidates": [
+  1.3
+ ],
+ "key": "W0034_dcd763c440c6"
+}

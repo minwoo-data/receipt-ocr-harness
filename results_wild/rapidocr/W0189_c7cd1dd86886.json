@@ -1,0 +1,158 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "BUY ONE GET ONE FREE QUARTER POUNDER",
+  "W/CHEESEOREGGMCMUFFIN",
+  "Go to www.mcdvoice.com withinT days",
+  "and tell us about your visit.",
+  "Validation Code:",
+  "Expires30 days after receipt date.",
+  "Valid at participating US McDonald's.",
+  "Survey code:",
+  "35687-03490-63017-12098-00023-4",
+  "McDonald's Restaurant #35687",
+  "HARTSFIE_DAIRPORT",
+  "ATLANTA,GA 30320",
+  "TEL#4047534125",
+  "KS#3 06/30/201712:09AM",
+  "Crder49",
+  "1L French Fries 2.19",
+  "Subtotal 2.19",
+  "Tax 0.15",
+  "Take-Out Total 2.34",
+  "Cashiless 2.34",
+  "Change 0.00",
+  "MER#148785"
+ ],
+ "tokens": [
+  {
+   "text": "BUY ONE GET ONE FREE QUARTER POUNDER",
+   "conf": 0.9442645493480895
+  },
+  {
+   "text": "W/CHEESEOREGGMCMUFFIN",
+   "conf": 0.9632398769969032
+  },
+  {
+   "text": "Go to www.mcdvoice.com withinT days",
+   "conf": 0.894343786580222
+  },
+  {
+   "text": "and tell us about your visit.",
+   "conf": 0.9425213665797793
+  },
+  {
+   "text": "Validation Code:",
+   "conf": 0.9443128854036331
+  },
+  {
+   "text": "Expires30 days after receipt date.",
+   "conf": 0.952780627152499
+  },
+  {
+   "text": "Valid at participating US McDonald's.",
+   "conf": 0.9238503494778195
+  },
+  {
+   "text": "Survey code:",
+   "conf": 0.9486115127801895
+  },
+  {
+   "text": "35687-03490-63017-12098-00023-4",
+   "conf": 0.9969786828564059
+  },
+  {
+   "text": "McDonald's Restaurant #35687",
+   "conf": 0.9463479327304023
+  },
+  {
+   "text": "HARTSFIE_DAIRPORT",
+   "conf": 0.9647730518789852
+  },
+  {
+   "text": "ATLANTA,GA 30320",
+   "conf": 0.9414651207625866
+  },
+  {
+   "text": "TEL#4047534125",
+   "conf": 0.9869368374347687
+  },
+  {
+   "text": "KS#3",
+   "conf": 0.9689916670322418
+  },
+  {
+   "text": "06/30/201712:09AM",
+   "conf": 0.994075151050792
+  },
+  {
+   "text": "Crder49",
+   "conf": 0.9484895808356149
+  },
+  {
+   "text": "1L French Fries",
+   "conf": 0.9505580067634583
+  },
+  {
+   "text": "2.19",
+   "conf": 0.9953826069831848
+  },
+  {
+   "text": "Subtotal",
+   "conf": 0.9922396466135979
+  },
+  {
+   "text": "2.19",
+   "conf": 0.9955371171236038
+  },
+  {
+   "text": "Tax",
+   "conf": 0.9817315141359965
+  },
+  {
+   "text": "0.15",
+   "conf": 0.9975418299436569
+  },
+  {
+   "text": "Take-Out Total",
+   "conf": 0.9515152871608734
+  },
+  {
+   "text": "2.34",
+   "conf": 0.9969098418951035
+  },
+  {
+   "text": "Cashiless",
+   "conf": 0.959752102692922
+  },
+  {
+   "text": "2.34",
+   "conf": 0.9954408258199692
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9983983784914017
+  },
+  {
+   "text": "Change",
+   "conf": 0.9953780869642893
+  },
+  {
+   "text": "MER#148785",
+   "conf": 0.9912791430950165
+  }
+ ],
+ "mean_conf": 0.9677,
+ "low_conf_share": 0.0,
+ "latency_ms": 2905,
+ "fields": {
+  "company": "BUY ONE GET ONE FREE QUARTER POUNDER",
+  "date": "2017-06-30",
+  "total": 2.34
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  2.34
+ ],
+ "key": "W0189_c7cd1dd86886"
+}

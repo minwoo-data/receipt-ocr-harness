@@ -1,0 +1,185 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "THEREAL",
+  "GREEK",
+  "TheRealGreek Hoxton",
+  "14-15HoxtonMarket",
+  "London N16HG",
+  "Tel:02077398212",
+  "Marzena T1111",
+  "21/10/200921:35 000057",
+  "Table: 13",
+  "covers: 2",
+  "Petit Papillon Rose 17.50",
+  "Flat Bread 2.00",
+  "Skewer Chicken 4.75",
+  "SkewerLamb 5.25",
+  "GrilledAsparagus 3.95",
+  "Halloumi Melitzano 3.95",
+  "Kalamari 5.75",
+  "Rice 2.95",
+  "Gourmet Society50% -14.30",
+  "8Items",
+  "TOTAL 31.80"
+ ],
+ "tokens": [
+  {
+   "text": "THEREAL",
+   "conf": 0.9502282823835101
+  },
+  {
+   "text": "GREEK",
+   "conf": 0.9231481552124023
+  },
+  {
+   "text": "TheRealGreek Hoxton",
+   "conf": 0.9689388965305529
+  },
+  {
+   "text": "14-15HoxtonMarket",
+   "conf": 0.995679497718811
+  },
+  {
+   "text": "London",
+   "conf": 0.9960318406422933
+  },
+  {
+   "text": "N16HG",
+   "conf": 0.9746734499931335
+  },
+  {
+   "text": "Tel:02077398212",
+   "conf": 0.9828591545422872
+  },
+  {
+   "text": "Marzena",
+   "conf": 0.9902669787406921
+  },
+  {
+   "text": "T1111",
+   "conf": 0.773824679851532
+  },
+  {
+   "text": "21/10/200921:35",
+   "conf": 0.9896645148595175
+  },
+  {
+   "text": "000057",
+   "conf": 0.9961217244466146
+  },
+  {
+   "text": "Table:",
+   "conf": 0.9688551425933838
+  },
+  {
+   "text": "13",
+   "conf": 0.997246652841568
+  },
+  {
+   "text": "covers:",
+   "conf": 0.9794192569596427
+  },
+  {
+   "text": "2",
+   "conf": 0.9985470175743103
+  },
+  {
+   "text": "Petit Papillon Rose",
+   "conf": 0.9471817863614935
+  },
+  {
+   "text": "17.50",
+   "conf": 0.9957679986953736
+  },
+  {
+   "text": "Flat Bread",
+   "conf": 0.9483110725879669
+  },
+  {
+   "text": "2.00",
+   "conf": 0.9961538165807724
+  },
+  {
+   "text": "Skewer Chicken",
+   "conf": 0.9296478841985975
+  },
+  {
+   "text": "4.75",
+   "conf": 0.9964499473571777
+  },
+  {
+   "text": "SkewerLamb",
+   "conf": 0.9825730144977569
+  },
+  {
+   "text": "5.25",
+   "conf": 0.9932649284601212
+  },
+  {
+   "text": "GrilledAsparagus",
+   "conf": 0.9882212691009045
+  },
+  {
+   "text": "3.95",
+   "conf": 0.9951594471931458
+  },
+  {
+   "text": "Halloumi Melitzano",
+   "conf": 0.9701711436112722
+  },
+  {
+   "text": "3.95",
+   "conf": 0.9947551488876343
+  },
+  {
+   "text": "Kalamari",
+   "conf": 0.9623192250728607
+  },
+  {
+   "text": "5.75",
+   "conf": 0.9965265244245529
+  },
+  {
+   "text": "Rice",
+   "conf": 0.9925978630781174
+  },
+  {
+   "text": "2.95",
+   "conf": 0.9968832284212112
+  },
+  {
+   "text": "-14.30",
+   "conf": 0.9896376232306162
+  },
+  {
+   "text": "Gourmet Society50%",
+   "conf": 0.9747546215852102
+  },
+  {
+   "text": "8Items",
+   "conf": 0.9633457859357198
+  },
+  {
+   "text": "31.80",
+   "conf": 0.990558123588562
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.9945940971374512
+  }
+ ],
+ "mean_conf": 0.9746,
+ "low_conf_share": 0.0,
+ "latency_ms": 2248,
+ "fields": {
+  "company": "THEREAL",
+  "date": "2009-10-21",
+  "total": 31.8
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  31.8
+ ],
+ "key": "W0133_fbb175082843"
+}

@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.6-flash",
+ "provider": "gemini",
+ "raw_text": "{\"vendor\":\"BADEMIYA\",\"date\":\"2017-01-27\",\"subtotal\":810.0,\"tax\":64.8,\"tip\":null,\"discount\":null,\"total\":875.0,\"currency\":\"INR\",\"confidence\":0.95,\"notes\":null}",
+ "data": {
+  "vendor": "BADEMIYA",
+  "date": "2017-01-27",
+  "subtotal": 810.0,
+  "tax": 64.8,
+  "tip": null,
+  "discount": null,
+  "total": 875.0,
+  "currency": "INR",
+  "confidence": 0.95,
+  "notes": null
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1469,
+  "output_tokens": 67,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.001353,
+ "latency_ms": 1500,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.6-flash",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.6-flash"
+ ],
+ "key": "W0144_2c9c08f42a06"
+}

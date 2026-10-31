@@ -1,0 +1,879 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "—",
+  "\\",
+  "; HOMER S BABOUS",
+  "foyal Road, Banbous",
+  "PICK & Buy LTO",
+  "VAT Reg. No: VATZ0032209",
+  "BRI: cOsoosb9",
+  "— Tol :452-5743/66 Fax:452-0202",
+  "SF LEGUMES FRAIS 4.908",
+  "| & FARTICLE MeNAGe 750k",
+  "2 R CANDIALLT-172(L 37.958",
+  "4 R COCA COLA 1.5. 31.95R",
+  "4 HIB.4256 5h",
+  "4 SUN. WH.KER. CORN 19.952",
+  "4> R S.REMOSOO-FETTU 37. 95R",
+  "2 R RAJAH IL BIL 5a.50R",
+  "> MAYIL-PIM.CONCA 12.50R",
+  "4> MAGNUM CLASSIC 80.008",
+  "4 R D.TOMATOES 4008 19.95R",
+  "4> HEINZ220 BEANTS 22.958",
+  "4> PRESTO 80G-POUL 6.508",
+  "4> PHOENIX 33 cL. 22,008",
+  "9 Consigne 6.00 6.00R",
+  "4 R GISLANO-S/LITE 154:95R",
+  "4> R PANDA MACARONI 15,508",
+  "> R- D.FRESH BASH. 2K 95.95R",
+  "9 TOMATE M. KG 34.038,",
+  "0.5670 x 60.00R",
+  "> R MAYILSO POT.FLA 17.50R",
+  "4 F.MOSQUITO X10 19.008",
+  "4 RVR SELECT CAPE 169.958",
+  "4 R D.D'ATHENES RS ‘79.95R",
+  "9 — Consigne 8.00 8.00R",
+  "4> HEINZ KETCHU200 23.95R",
+  "4 R DIEGO 1L-ExOTI. 28.95R",
+  "Q> WIN. TUNAI70-FLA 20.958",
+  "4 DORTTOSa5-FIERY 12.95R",
+  "4 R EAU VITAL 1.5L 13.958",
+  "Sous-Total (27) 1056. 13R",
+  "ESPECES 1200.08",
+  "xxx RENDU MONNATE -143.87R",
+  "Taux % TVA Hors TVA",
+  "2> 0,00 0.00 92.45",
+  "4>15.00 99.63 664.22",
+  "9> 0.00 0.00 199.83",
+  "(C)001. 210 Le 30/07/2011 a 16:43:59",
+  "| Magasin 00013 Numero Ticket ; 35494"
+ ],
+ "tokens": [
+  {
+   "text": "—",
+   "conf": 0.04
+  },
+  {
+   "text": "\\",
+   "conf": 0.0
+  },
+  {
+   "text": ";",
+   "conf": 0.0
+  },
+  {
+   "text": "HOMER",
+   "conf": 0.47
+  },
+  {
+   "text": "S",
+   "conf": 0.73
+  },
+  {
+   "text": "BABOUS",
+   "conf": 0.03
+  },
+  {
+   "text": "foyal",
+   "conf": 0.0
+  },
+  {
+   "text": "Road,",
+   "conf": 0.78
+  },
+  {
+   "text": "Banbous",
+   "conf": 0.31
+  },
+  {
+   "text": "PICK",
+   "conf": 0.87
+  },
+  {
+   "text": "&",
+   "conf": 0.77
+  },
+  {
+   "text": "Buy",
+   "conf": 0.34
+  },
+  {
+   "text": "LTO",
+   "conf": 0.47
+  },
+  {
+   "text": "VAT",
+   "conf": 0.94
+  },
+  {
+   "text": "Reg.",
+   "conf": 0.87
+  },
+  {
+   "text": "No:",
+   "conf": 0.23
+  },
+  {
+   "text": "VATZ0032209",
+   "conf": 0.6
+  },
+  {
+   "text": "BRI:",
+   "conf": 0.27
+  },
+  {
+   "text": "cOsoosb9",
+   "conf": 0.0
+  },
+  {
+   "text": "—",
+   "conf": 0.82
+  },
+  {
+   "text": "Tol",
+   "conf": 0.6
+  },
+  {
+   "text": ":452-5743/66",
+   "conf": 0.05
+  },
+  {
+   "text": "Fax:452-0202",
+   "conf": 0.05
+  },
+  {
+   "text": "SF",
+   "conf": 0.3
+  },
+  {
+   "text": "LEGUMES",
+   "conf": 0.57
+  },
+  {
+   "text": "FRAIS",
+   "conf": 0.8
+  },
+  {
+   "text": "4.908",
+   "conf": 0.71
+  },
+  {
+   "text": "|",
+   "conf": 0.52
+  },
+  {
+   "text": "&",
+   "conf": 0.5
+  },
+  {
+   "text": "FARTICLE",
+   "conf": 0.36
+  },
+  {
+   "text": "MeNAGe",
+   "conf": 0.45
+  },
+  {
+   "text": "750k",
+   "conf": 0.02
+  },
+  {
+   "text": "2",
+   "conf": 0.32
+  },
+  {
+   "text": "R",
+   "conf": 0.09
+  },
+  {
+   "text": "CANDIALLT-172(L",
+   "conf": 0.0
+  },
+  {
+   "text": "37.958",
+   "conf": 0.27
+  },
+  {
+   "text": "4",
+   "conf": 0.72
+  },
+  {
+   "text": "R",
+   "conf": 0.47
+  },
+  {
+   "text": "COCA",
+   "conf": 0.89
+  },
+  {
+   "text": "COLA",
+   "conf": 0.95
+  },
+  {
+   "text": "1.5.",
+   "conf": 0.88
+  },
+  {
+   "text": "31.95R",
+   "conf": 0.37
+  },
+  {
+   "text": "4",
+   "conf": 0.32
+  },
+  {
+   "text": "HIB.4256",
+   "conf": 0.2
+  },
+  {
+   "text": "5h",
+   "conf": 0.3
+  },
+  {
+   "text": "4",
+   "conf": 0.43
+  },
+  {
+   "text": "SUN.",
+   "conf": 0.0
+  },
+  {
+   "text": "WH.KER.",
+   "conf": 0.0
+  },
+  {
+   "text": "CORN",
+   "conf": 0.55
+  },
+  {
+   "text": "19.952",
+   "conf": 0.38
+  },
+  {
+   "text": "4>",
+   "conf": 0.18
+  },
+  {
+   "text": "R",
+   "conf": 0.0
+  },
+  {
+   "text": "S.REMOSOO-FETTU",
+   "conf": 0.44
+  },
+  {
+   "text": "37.",
+   "conf": 0.1
+  },
+  {
+   "text": "95R",
+   "conf": 0.1
+  },
+  {
+   "text": "2",
+   "conf": 0.18
+  },
+  {
+   "text": "R",
+   "conf": 0.21
+  },
+  {
+   "text": "RAJAH",
+   "conf": 0.21
+  },
+  {
+   "text": "IL",
+   "conf": 0.58
+  },
+  {
+   "text": "BIL",
+   "conf": 0.58
+  },
+  {
+   "text": "5a.50R",
+   "conf": 0.0
+  },
+  {
+   "text": ">",
+   "conf": 0.0
+  },
+  {
+   "text": "MAYIL-PIM.CONCA",
+   "conf": 0.0
+  },
+  {
+   "text": "12.50R",
+   "conf": 0.55
+  },
+  {
+   "text": "4>",
+   "conf": 0.43
+  },
+  {
+   "text": "MAGNUM",
+   "conf": 0.43
+  },
+  {
+   "text": "CLASSIC",
+   "conf": 0.81
+  },
+  {
+   "text": "80.008",
+   "conf": 0.64
+  },
+  {
+   "text": "4",
+   "conf": 0.0
+  },
+  {
+   "text": "R",
+   "conf": 0.0
+  },
+  {
+   "text": "D.TOMATOES",
+   "conf": 0.0
+  },
+  {
+   "text": "4008",
+   "conf": 0.64
+  },
+  {
+   "text": "19.95R",
+   "conf": 0.66
+  },
+  {
+   "text": "4>",
+   "conf": 0.0
+  },
+  {
+   "text": "HEINZ220",
+   "conf": 0.0
+  },
+  {
+   "text": "BEANTS",
+   "conf": 0.87
+  },
+  {
+   "text": "22.958",
+   "conf": 0.48
+  },
+  {
+   "text": "4>",
+   "conf": 0.75
+  },
+  {
+   "text": "PRESTO",
+   "conf": 0.0
+  },
+  {
+   "text": "80G-POUL",
+   "conf": 0.9
+  },
+  {
+   "text": "6.508",
+   "conf": 0.19
+  },
+  {
+   "text": "4>",
+   "conf": 0.87
+  },
+  {
+   "text": "PHOENIX",
+   "conf": 0.44
+  },
+  {
+   "text": "33",
+   "conf": 0.71
+  },
+  {
+   "text": "cL.",
+   "conf": 0.74
+  },
+  {
+   "text": "22,008",
+   "conf": 0.66
+  },
+  {
+   "text": "9",
+   "conf": 0.47
+  },
+  {
+   "text": "Consigne",
+   "conf": 0.78
+  },
+  {
+   "text": "6.00",
+   "conf": 0.94
+  },
+  {
+   "text": "6.00R",
+   "conf": 0.61
+  },
+  {
+   "text": "4",
+   "conf": 0.63
+  },
+  {
+   "text": "R",
+   "conf": 0.26
+  },
+  {
+   "text": "GISLANO-S/LITE",
+   "conf": 0.26
+  },
+  {
+   "text": "154:95R",
+   "conf": 0.22
+  },
+  {
+   "text": "4>",
+   "conf": 0.29
+  },
+  {
+   "text": "R",
+   "conf": 0.29
+  },
+  {
+   "text": "PANDA",
+   "conf": 0.54
+  },
+  {
+   "text": "MACARONI",
+   "conf": 0.83
+  },
+  {
+   "text": "15,508",
+   "conf": 0.21
+  },
+  {
+   "text": ">",
+   "conf": 0.23
+  },
+  {
+   "text": "R-",
+   "conf": 0.0
+  },
+  {
+   "text": "D.FRESH",
+   "conf": 0.47
+  },
+  {
+   "text": "BASH.",
+   "conf": 0.83
+  },
+  {
+   "text": "2K",
+   "conf": 0.8
+  },
+  {
+   "text": "95.95R",
+   "conf": 0.38
+  },
+  {
+   "text": "9",
+   "conf": 0.41
+  },
+  {
+   "text": "TOMATE",
+   "conf": 0.45
+  },
+  {
+   "text": "M.",
+   "conf": 0.75
+  },
+  {
+   "text": "KG",
+   "conf": 0.29
+  },
+  {
+   "text": "34.038,",
+   "conf": 0.44
+  },
+  {
+   "text": "0.5670",
+   "conf": 0.96
+  },
+  {
+   "text": "x",
+   "conf": 0.96
+  },
+  {
+   "text": "60.00R",
+   "conf": 0.86
+  },
+  {
+   "text": ">",
+   "conf": 0.0
+  },
+  {
+   "text": "R",
+   "conf": 0.05
+  },
+  {
+   "text": "MAYILSO",
+   "conf": 0.46
+  },
+  {
+   "text": "POT.FLA",
+   "conf": 0.81
+  },
+  {
+   "text": "17.50R",
+   "conf": 0.78
+  },
+  {
+   "text": "4",
+   "conf": 0.6
+  },
+  {
+   "text": "F.MOSQUITO",
+   "conf": 0.57
+  },
+  {
+   "text": "X10",
+   "conf": 0.88
+  },
+  {
+   "text": "19.008",
+   "conf": 0.71
+  },
+  {
+   "text": "4",
+   "conf": 0.03
+  },
+  {
+   "text": "RVR",
+   "conf": 0.6
+  },
+  {
+   "text": "SELECT",
+   "conf": 0.91
+  },
+  {
+   "text": "CAPE",
+   "conf": 0.91
+  },
+  {
+   "text": "169.958",
+   "conf": 0.0
+  },
+  {
+   "text": "4",
+   "conf": 0.12
+  },
+  {
+   "text": "R",
+   "conf": 0.05
+  },
+  {
+   "text": "D.D'ATHENES",
+   "conf": 0.33
+  },
+  {
+   "text": "RS",
+   "conf": 0.88
+  },
+  {
+   "text": "‘79.95R",
+   "conf": 0.09
+  },
+  {
+   "text": "9",
+   "conf": 0.64
+  },
+  {
+   "text": "—",
+   "conf": 0.31
+  },
+  {
+   "text": "Consigne",
+   "conf": 0.33
+  },
+  {
+   "text": "8.00",
+   "conf": 0.96
+  },
+  {
+   "text": "8.00R",
+   "conf": 0.35
+  },
+  {
+   "text": "4>",
+   "conf": 0.6
+  },
+  {
+   "text": "HEINZ",
+   "conf": 0.58
+  },
+  {
+   "text": "KETCHU200",
+   "conf": 0.69
+  },
+  {
+   "text": "23.95R",
+   "conf": 0.7
+  },
+  {
+   "text": "4",
+   "conf": 0.37
+  },
+  {
+   "text": "R",
+   "conf": 0.37
+  },
+  {
+   "text": "DIEGO",
+   "conf": 0.53
+  },
+  {
+   "text": "1L-ExOTI.",
+   "conf": 0.32
+  },
+  {
+   "text": "28.95R",
+   "conf": 0.59
+  },
+  {
+   "text": "Q>",
+   "conf": 0.37
+  },
+  {
+   "text": "WIN.",
+   "conf": 0.0
+  },
+  {
+   "text": "TUNAI70-FLA",
+   "conf": 0.31
+  },
+  {
+   "text": "20.958",
+   "conf": 0.69
+  },
+  {
+   "text": "4",
+   "conf": 0.0
+  },
+  {
+   "text": "DORTTOSa5-FIERY",
+   "conf": 0.32
+  },
+  {
+   "text": "12.95R",
+   "conf": 0.59
+  },
+  {
+   "text": "4",
+   "conf": 0.46
+  },
+  {
+   "text": "R",
+   "conf": 0.46
+  },
+  {
+   "text": "EAU",
+   "conf": 0.76
+  },
+  {
+   "text": "VITAL",
+   "conf": 0.76
+  },
+  {
+   "text": "1.5L",
+   "conf": 0.75
+  },
+  {
+   "text": "13.958",
+   "conf": 0.31
+  },
+  {
+   "text": "Sous-Total",
+   "conf": 0.81
+  },
+  {
+   "text": "(27)",
+   "conf": 0.51
+  },
+  {
+   "text": "1056.",
+   "conf": 0.69
+  },
+  {
+   "text": "13R",
+   "conf": 0.69
+  },
+  {
+   "text": "ESPECES",
+   "conf": 0.83
+  },
+  {
+   "text": "1200.08",
+   "conf": 0.19
+  },
+  {
+   "text": "xxx",
+   "conf": 0.55
+  },
+  {
+   "text": "RENDU",
+   "conf": 0.86
+  },
+  {
+   "text": "MONNATE",
+   "conf": 0.58
+  },
+  {
+   "text": "-143.87R",
+   "conf": 0.59
+  },
+  {
+   "text": "Taux",
+   "conf": 0.92
+  },
+  {
+   "text": "%",
+   "conf": 0.89
+  },
+  {
+   "text": "TVA",
+   "conf": 0.56
+  },
+  {
+   "text": "Hors",
+   "conf": 0.78
+  },
+  {
+   "text": "TVA",
+   "conf": 0.78
+  },
+  {
+   "text": "2>",
+   "conf": 0.87
+  },
+  {
+   "text": "0,00",
+   "conf": 0.86
+  },
+  {
+   "text": "0.00",
+   "conf": 0.87
+  },
+  {
+   "text": "92.45",
+   "conf": 0.94
+  },
+  {
+   "text": "4>15.00",
+   "conf": 0.72
+  },
+  {
+   "text": "99.63",
+   "conf": 0.86
+  },
+  {
+   "text": "664.22",
+   "conf": 0.65
+  },
+  {
+   "text": "9>",
+   "conf": 0.88
+  },
+  {
+   "text": "0.00",
+   "conf": 0.94
+  },
+  {
+   "text": "0.00",
+   "conf": 0.96
+  },
+  {
+   "text": "199.83",
+   "conf": 0.65
+  },
+  {
+   "text": "(C)001.",
+   "conf": 0.69
+  },
+  {
+   "text": "210",
+   "conf": 0.91
+  },
+  {
+   "text": "Le",
+   "conf": 0.91
+  },
+  {
+   "text": "30/07/2011",
+   "conf": 0.93
+  },
+  {
+   "text": "a",
+   "conf": 0.91
+  },
+  {
+   "text": "16:43:59",
+   "conf": 0.95
+  },
+  {
+   "text": "|",
+   "conf": 0.81
+  },
+  {
+   "text": "Magasin",
+   "conf": 0.26
+  },
+  {
+   "text": "00013",
+   "conf": 0.8
+  },
+  {
+   "text": "Numero",
+   "conf": 0.92
+  },
+  {
+   "text": "Ticket",
+   "conf": 0.84
+  },
+  {
+   "text": ";",
+   "conf": 0.7
+  },
+  {
+   "text": "35494",
+   "conf": 0.77
+  }
+ ],
+ "mean_conf": 0.5043,
+ "low_conf_share": 0.4697,
+ "latency_ms": 569,
+ "fields": {
+  "company": "HOMER S BABOUS",
+  "date": "2031-01-05",
+  "total": 664.22
+ },
+ "rule_reasons": [
+  "total_no_keyword_fallback_max"
+ ],
+ "total_candidates": [
+  95.95,
+  60.0,
+  17.5,
+  79.95,
+  8.0,
+  8.0,
+  23.95,
+  28.95,
+  12.95,
+  120.0,
+  -143.87,
+  0.0,
+  92.45,
+  15.0,
+  99.63,
+  664.22,
+  0.0,
+  0.0,
+  199.83
+ ],
+ "key": "W0172_b6524af33497"
+}

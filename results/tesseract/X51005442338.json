@@ -1,0 +1,563 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "Big poe",
+  "POS1EE",
+  "PAGAR NIKE JIN SENG",
+  "379, JALAN PERMAS SATU,",
+  "BANOAR BAR PERNAS JAVA",
+  "91750 PLENTONG, JOHOR.",
+  "TEL + 07-4874904",
+  "(00, NG, JMO195368-D)",
+  "(GST NO, 000150511616)",
+  "TAXINY :G02-1550040 18/03/1E",
+  "Eashier : CASHTER?",
+  "i VEGETABLES 2.20 2Rt",
+  "1 LYK OMEGA PLUS 1D G70 2RL",
+  "1 VEGETABLES 1,00 ZRL",
+  "i VEGETABLES 2.00 2RL",
+  "1 VEGETABLES 8.00 ZR",
+  "1 SEAFUOD 8.50 ZRi.",
+  "1 FISH BALL / CAKE 1,20 §R",
+  "Tten Count 7",
+  "SUBTOTAL: 28.60 .",
+  "\" 2) <,",
+  "TL: RM 28 .60",
+  "GR GST 0.07",
+  "woeeerenoe Payment Details -----~-~=",
+  "CASH 100.00",
+  "CASH CHANGE 71.40",
+  "18/03/18 (9:03 #902-15500408",
+  "CASHTER2",
+  "GST Summary Amount BM) Tax( RN) .",
+  "SR (863)) 1.20 0.07",
+  "IRL (80%) 27.40 0,09",
+  "‘Tack you",
+  "Please come again Y",
+  "BeOS, MAGEE:",
+  "GOODS SOUL ARE NOT REFUNDABLE ."
+ ],
+ "tokens": [
+  {
+   "text": "Big",
+   "conf": 0.3
+  },
+  {
+   "text": "poe",
+   "conf": 0.61
+  },
+  {
+   "text": "POS1EE",
+   "conf": 0.0
+  },
+  {
+   "text": "PAGAR",
+   "conf": 0.7
+  },
+  {
+   "text": "NIKE",
+   "conf": 0.6
+  },
+  {
+   "text": "JIN",
+   "conf": 0.54
+  },
+  {
+   "text": "SENG",
+   "conf": 0.91
+  },
+  {
+   "text": "379,",
+   "conf": 0.72
+  },
+  {
+   "text": "JALAN",
+   "conf": 0.9
+  },
+  {
+   "text": "PERMAS",
+   "conf": 0.9
+  },
+  {
+   "text": "SATU,",
+   "conf": 0.21
+  },
+  {
+   "text": "BANOAR",
+   "conf": 0.46
+  },
+  {
+   "text": "BAR",
+   "conf": 0.56
+  },
+  {
+   "text": "PERNAS",
+   "conf": 0.56
+  },
+  {
+   "text": "JAVA",
+   "conf": 0.35
+  },
+  {
+   "text": "91750",
+   "conf": 0.5
+  },
+  {
+   "text": "PLENTONG,",
+   "conf": 0.83
+  },
+  {
+   "text": "JOHOR.",
+   "conf": 0.78
+  },
+  {
+   "text": "TEL",
+   "conf": 0.91
+  },
+  {
+   "text": "+",
+   "conf": 0.34
+  },
+  {
+   "text": "07-4874904",
+   "conf": 0.06
+  },
+  {
+   "text": "(00,",
+   "conf": 0.56
+  },
+  {
+   "text": "NG,",
+   "conf": 0.73
+  },
+  {
+   "text": "JMO195368-D)",
+   "conf": 0.0
+  },
+  {
+   "text": "(GST",
+   "conf": 0.86
+  },
+  {
+   "text": "NO,",
+   "conf": 0.75
+  },
+  {
+   "text": "000150511616)",
+   "conf": 0.47
+  },
+  {
+   "text": "TAXINY",
+   "conf": 0.28
+  },
+  {
+   "text": ":G02-1550040",
+   "conf": 0.19
+  },
+  {
+   "text": "18/03/1E",
+   "conf": 0.62
+  },
+  {
+   "text": "Eashier",
+   "conf": 0.57
+  },
+  {
+   "text": ":",
+   "conf": 0.45
+  },
+  {
+   "text": "CASHTER?",
+   "conf": 0.88
+  },
+  {
+   "text": "i",
+   "conf": 0.64
+  },
+  {
+   "text": "VEGETABLES",
+   "conf": 0.73
+  },
+  {
+   "text": "2.20",
+   "conf": 0.77
+  },
+  {
+   "text": "2Rt",
+   "conf": 0.41
+  },
+  {
+   "text": "1",
+   "conf": 0.53
+  },
+  {
+   "text": "LYK",
+   "conf": 0.28
+  },
+  {
+   "text": "OMEGA",
+   "conf": 0.5
+  },
+  {
+   "text": "PLUS",
+   "conf": 0.74
+  },
+  {
+   "text": "1D",
+   "conf": 0.02
+  },
+  {
+   "text": "G70",
+   "conf": 0.27
+  },
+  {
+   "text": "2RL",
+   "conf": 0.46
+  },
+  {
+   "text": "1",
+   "conf": 0.82
+  },
+  {
+   "text": "VEGETABLES",
+   "conf": 0.92
+  },
+  {
+   "text": "1,00",
+   "conf": 0.9
+  },
+  {
+   "text": "ZRL",
+   "conf": 0.41
+  },
+  {
+   "text": "i",
+   "conf": 0.81
+  },
+  {
+   "text": "VEGETABLES",
+   "conf": 0.66
+  },
+  {
+   "text": "2.00",
+   "conf": 0.79
+  },
+  {
+   "text": "2RL",
+   "conf": 0.38
+  },
+  {
+   "text": "1",
+   "conf": 0.62
+  },
+  {
+   "text": "VEGETABLES",
+   "conf": 0.63
+  },
+  {
+   "text": "8.00",
+   "conf": 0.64
+  },
+  {
+   "text": "ZR",
+   "conf": 0.4
+  },
+  {
+   "text": "1",
+   "conf": 0.59
+  },
+  {
+   "text": "SEAFUOD",
+   "conf": 0.4
+  },
+  {
+   "text": "8.50",
+   "conf": 0.0
+  },
+  {
+   "text": "ZRi.",
+   "conf": 0.4
+  },
+  {
+   "text": "1",
+   "conf": 0.91
+  },
+  {
+   "text": "FISH",
+   "conf": 0.96
+  },
+  {
+   "text": "BALL",
+   "conf": 0.84
+  },
+  {
+   "text": "/",
+   "conf": 0.89
+  },
+  {
+   "text": "CAKE",
+   "conf": 0.47
+  },
+  {
+   "text": "1,20",
+   "conf": 0.59
+  },
+  {
+   "text": "§R",
+   "conf": 0.37
+  },
+  {
+   "text": "Tten",
+   "conf": 0.89
+  },
+  {
+   "text": "Count",
+   "conf": 0.86
+  },
+  {
+   "text": "7",
+   "conf": 0.71
+  },
+  {
+   "text": "SUBTOTAL:",
+   "conf": 0.92
+  },
+  {
+   "text": "28.60",
+   "conf": 0.73
+  },
+  {
+   "text": ".",
+   "conf": 0.01
+  },
+  {
+   "text": "\"",
+   "conf": 0.0
+  },
+  {
+   "text": "2)",
+   "conf": 0.26
+  },
+  {
+   "text": "<,",
+   "conf": 0.28
+  },
+  {
+   "text": "TL:",
+   "conf": 0.0
+  },
+  {
+   "text": "RM",
+   "conf": 0.0
+  },
+  {
+   "text": "28",
+   "conf": 0.81
+  },
+  {
+   "text": ".60",
+   "conf": 0.81
+  },
+  {
+   "text": "GR",
+   "conf": 0.67
+  },
+  {
+   "text": "GST",
+   "conf": 0.86
+  },
+  {
+   "text": "0.07",
+   "conf": 0.85
+  },
+  {
+   "text": "woeeerenoe",
+   "conf": 0.0
+  },
+  {
+   "text": "Payment",
+   "conf": 0.8
+  },
+  {
+   "text": "Details",
+   "conf": 0.66
+  },
+  {
+   "text": "-----~-~=",
+   "conf": 0.3
+  },
+  {
+   "text": "CASH",
+   "conf": 0.95
+  },
+  {
+   "text": "100.00",
+   "conf": 0.83
+  },
+  {
+   "text": "CASH",
+   "conf": 0.76
+  },
+  {
+   "text": "CHANGE",
+   "conf": 0.03
+  },
+  {
+   "text": "71.40",
+   "conf": 0.93
+  },
+  {
+   "text": "18/03/18",
+   "conf": 0.94
+  },
+  {
+   "text": "(9:03",
+   "conf": 0.71
+  },
+  {
+   "text": "#902-15500408",
+   "conf": 0.49
+  },
+  {
+   "text": "CASHTER2",
+   "conf": 0.2
+  },
+  {
+   "text": "GST",
+   "conf": 0.94
+  },
+  {
+   "text": "Summary",
+   "conf": 0.81
+  },
+  {
+   "text": "Amount",
+   "conf": 0.11
+  },
+  {
+   "text": "BM)",
+   "conf": 0.11
+  },
+  {
+   "text": "Tax(",
+   "conf": 0.8
+  },
+  {
+   "text": "RN)",
+   "conf": 0.64
+  },
+  {
+   "text": ".",
+   "conf": 0.0
+  },
+  {
+   "text": "SR",
+   "conf": 0.89
+  },
+  {
+   "text": "(863))",
+   "conf": 0.0
+  },
+  {
+   "text": "1.20",
+   "conf": 0.62
+  },
+  {
+   "text": "0.07",
+   "conf": 0.8
+  },
+  {
+   "text": "IRL",
+   "conf": 0.44
+  },
+  {
+   "text": "(80%)",
+   "conf": 0.74
+  },
+  {
+   "text": "27.40",
+   "conf": 0.49
+  },
+  {
+   "text": "0,09",
+   "conf": 0.79
+  },
+  {
+   "text": "‘Tack",
+   "conf": 0.04
+  },
+  {
+   "text": "you",
+   "conf": 0.95
+  },
+  {
+   "text": "Please",
+   "conf": 0.48
+  },
+  {
+   "text": "come",
+   "conf": 0.88
+  },
+  {
+   "text": "again",
+   "conf": 0.89
+  },
+  {
+   "text": "Y",
+   "conf": 0.0
+  },
+  {
+   "text": "BeOS,",
+   "conf": 0.32
+  },
+  {
+   "text": "MAGEE:",
+   "conf": 0.25
+  },
+  {
+   "text": "GOODS",
+   "conf": 0.49
+  },
+  {
+   "text": "SOUL",
+   "conf": 0.42
+  },
+  {
+   "text": "ARE",
+   "conf": 0.86
+  },
+  {
+   "text": "NOT",
+   "conf": 0.93
+  },
+  {
+   "text": "REFUNDABLE",
+   "conf": 0.45
+  },
+  {
+   "text": ".",
+   "conf": 0.08
+  }
+ ],
+ "mean_conf": 0.5546,
+ "low_conf_share": 0.408,
+ "latency_ms": 875,
+ "fields": {
+  "company": "BIG POE",
+  "date": "2018-03-18",
+  "total": 100.0
+ },
+ "rule_reasons": [
+  "total_no_keyword_fallback_max"
+ ],
+ "total_candidates": [
+  28.6,
+  0.07,
+  100.0,
+  71.4,
+  1.2,
+  0.07,
+  27.4
+ ],
+ "key": "X51005442338"
+}

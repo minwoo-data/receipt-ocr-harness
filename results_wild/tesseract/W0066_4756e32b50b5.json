@@ -1,0 +1,455 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "ae x",
+  "King of Prussi",
+  "350 Hall Blvd, #3002",
+  "King of Prussia PA 19406",
+  "tel (610) 337-4130 7",
+  "Trans #: 18645 Date: 6/26/17 20:15:0:",
+  "Store: 23012 Register: 2 i",
+  "ashen ee",
+  "ustoner: Tiffany SUN",
+  "Custoner 1D: 2301200204916",
+  "I ary. CE (OUNT USD",
+  "Bi toeaae 1 1 E40 bo - 1 abso",
+  "100 HANDBAGS —_86/ /BOR 421970KHNRN - 8698 - NA",
+  "Salesperson: 1050391 (Qunheuane)",
+  "Subtotal 1,590.00",
+  "Tax 95.40",
+  "Total (USD) 1,665.40",
+  "it Card UsD 1,550.00",
+  "aa ar TRANSACTION RECORD------~---",
+  "STORE #23012 REG #2",
+  "INVOICE # 884504",
+  "MERCHANT # 07325202",
+  "TERMINAL # 073252",
+  "ae UIKECT PAYHENT ¥*",
+  ": Sali",
+  "Desir: Uh INSERTED",
+  "US DERIT"
+ ],
+ "tokens": [
+  {
+   "text": "ae",
+   "conf": 0.32
+  },
+  {
+   "text": "x",
+   "conf": 0.3
+  },
+  {
+   "text": "King",
+   "conf": 0.93
+  },
+  {
+   "text": "of",
+   "conf": 0.93
+  },
+  {
+   "text": "Prussi",
+   "conf": 0.9
+  },
+  {
+   "text": "350",
+   "conf": 0.18
+  },
+  {
+   "text": "Hall",
+   "conf": 0.84
+  },
+  {
+   "text": "Blvd,",
+   "conf": 0.6
+  },
+  {
+   "text": "#3002",
+   "conf": 0.23
+  },
+  {
+   "text": "King",
+   "conf": 0.96
+  },
+  {
+   "text": "of",
+   "conf": 0.94
+  },
+  {
+   "text": "Prussia",
+   "conf": 0.75
+  },
+  {
+   "text": "PA",
+   "conf": 0.75
+  },
+  {
+   "text": "19406",
+   "conf": 0.93
+  },
+  {
+   "text": "tel",
+   "conf": 0.93
+  },
+  {
+   "text": "(610)",
+   "conf": 0.93
+  },
+  {
+   "text": "337-4130",
+   "conf": 0.8
+  },
+  {
+   "text": "7",
+   "conf": 0.91
+  },
+  {
+   "text": "Trans",
+   "conf": 0.91
+  },
+  {
+   "text": "#:",
+   "conf": 0.77
+  },
+  {
+   "text": "18645",
+   "conf": 0.72
+  },
+  {
+   "text": "Date:",
+   "conf": 0.91
+  },
+  {
+   "text": "6/26/17",
+   "conf": 0.8
+  },
+  {
+   "text": "20:15:0:",
+   "conf": 0.24
+  },
+  {
+   "text": "Store:",
+   "conf": 0.96
+  },
+  {
+   "text": "23012",
+   "conf": 0.96
+  },
+  {
+   "text": "Register:",
+   "conf": 0.85
+  },
+  {
+   "text": "2",
+   "conf": 0.96
+  },
+  {
+   "text": "i",
+   "conf": 0.21
+  },
+  {
+   "text": "ashen",
+   "conf": 0.0
+  },
+  {
+   "text": "ee",
+   "conf": 0.15
+  },
+  {
+   "text": "ustoner:",
+   "conf": 0.81
+  },
+  {
+   "text": "Tiffany",
+   "conf": 0.94
+  },
+  {
+   "text": "SUN",
+   "conf": 0.0
+  },
+  {
+   "text": "Custoner",
+   "conf": 0.91
+  },
+  {
+   "text": "1D:",
+   "conf": 0.84
+  },
+  {
+   "text": "2301200204916",
+   "conf": 0.42
+  },
+  {
+   "text": "I",
+   "conf": 0.32
+  },
+  {
+   "text": "ary.",
+   "conf": 0.54
+  },
+  {
+   "text": "CE",
+   "conf": 0.82
+  },
+  {
+   "text": "(OUNT",
+   "conf": 0.11
+  },
+  {
+   "text": "USD",
+   "conf": 0.89
+  },
+  {
+   "text": "Bi",
+   "conf": 0.0
+  },
+  {
+   "text": "toeaae",
+   "conf": 0.0
+  },
+  {
+   "text": "1",
+   "conf": 0.9
+  },
+  {
+   "text": "1",
+   "conf": 0.55
+  },
+  {
+   "text": "E40",
+   "conf": 0.22
+  },
+  {
+   "text": "bo",
+   "conf": 0.31
+  },
+  {
+   "text": "-",
+   "conf": 0.0
+  },
+  {
+   "text": "1",
+   "conf": 0.39
+  },
+  {
+   "text": "abso",
+   "conf": 0.18
+  },
+  {
+   "text": "100",
+   "conf": 0.9
+  },
+  {
+   "text": "HANDBAGS",
+   "conf": 0.88
+  },
+  {
+   "text": "—_86/",
+   "conf": 0.06
+  },
+  {
+   "text": "/BOR",
+   "conf": 0.91
+  },
+  {
+   "text": "421970KHNRN",
+   "conf": 0.68
+  },
+  {
+   "text": "-",
+   "conf": 0.84
+  },
+  {
+   "text": "8698",
+   "conf": 0.93
+  },
+  {
+   "text": "-",
+   "conf": 0.64
+  },
+  {
+   "text": "NA",
+   "conf": 0.95
+  },
+  {
+   "text": "Salesperson:",
+   "conf": 0.95
+  },
+  {
+   "text": "1050391",
+   "conf": 0.92
+  },
+  {
+   "text": "(Qunheuane)",
+   "conf": 0.9
+  },
+  {
+   "text": "Subtotal",
+   "conf": 0.88
+  },
+  {
+   "text": "1,590.00",
+   "conf": 0.95
+  },
+  {
+   "text": "Tax",
+   "conf": 0.94
+  },
+  {
+   "text": "95.40",
+   "conf": 0.93
+  },
+  {
+   "text": "Total",
+   "conf": 0.94
+  },
+  {
+   "text": "(USD)",
+   "conf": 0.9
+  },
+  {
+   "text": "1,665.40",
+   "conf": 0.9
+  },
+  {
+   "text": "it",
+   "conf": 0.95
+  },
+  {
+   "text": "Card",
+   "conf": 0.92
+  },
+  {
+   "text": "UsD",
+   "conf": 0.7
+  },
+  {
+   "text": "1,550.00",
+   "conf": 0.63
+  },
+  {
+   "text": "aa",
+   "conf": 0.02
+  },
+  {
+   "text": "ar",
+   "conf": 0.0
+  },
+  {
+   "text": "TRANSACTION",
+   "conf": 0.17
+  },
+  {
+   "text": "RECORD------~---",
+   "conf": 0.52
+  },
+  {
+   "text": "STORE",
+   "conf": 0.58
+  },
+  {
+   "text": "#23012",
+   "conf": 0.23
+  },
+  {
+   "text": "REG",
+   "conf": 0.84
+  },
+  {
+   "text": "#2",
+   "conf": 0.67
+  },
+  {
+   "text": "INVOICE",
+   "conf": 0.84
+  },
+  {
+   "text": "#",
+   "conf": 0.87
+  },
+  {
+   "text": "884504",
+   "conf": 0.76
+  },
+  {
+   "text": "MERCHANT",
+   "conf": 0.52
+  },
+  {
+   "text": "#",
+   "conf": 0.91
+  },
+  {
+   "text": "07325202",
+   "conf": 0.96
+  },
+  {
+   "text": "TERMINAL",
+   "conf": 0.36
+  },
+  {
+   "text": "#",
+   "conf": 0.92
+  },
+  {
+   "text": "073252",
+   "conf": 0.93
+  },
+  {
+   "text": "ae",
+   "conf": 0.54
+  },
+  {
+   "text": "UIKECT",
+   "conf": 0.23
+  },
+  {
+   "text": "PAYHENT",
+   "conf": 0.87
+  },
+  {
+   "text": "¥*",
+   "conf": 0.24
+  },
+  {
+   "text": ":",
+   "conf": 0.7
+  },
+  {
+   "text": "Sali",
+   "conf": 0.37
+  },
+  {
+   "text": "Desir:",
+   "conf": 0.17
+  },
+  {
+   "text": "Uh",
+   "conf": 0.25
+  },
+  {
+   "text": "INSERTED",
+   "conf": 0.59
+  },
+  {
+   "text": "US",
+   "conf": 0.51
+  },
+  {
+   "text": "DERIT",
+   "conf": 0.86
+  }
+ ],
+ "mean_conf": 0.6407,
+ "low_conf_share": 0.2941,
+ "latency_ms": 425,
+ "fields": {
+  "company": "STORE REGISTER 2 I",
+  "date": "2017-06-26",
+  "total": 1665.4
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  1665.4
+ ],
+ "key": "W0066_4756e32b50b5"
+}

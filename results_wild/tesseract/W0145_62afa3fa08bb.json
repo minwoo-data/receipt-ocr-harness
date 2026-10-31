@@ -1,0 +1,367 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "Khyen Chyen",
+  "7NK Foods & Beverages Pvt. Ltd.",
+  "G-19, DLF Cross Point",
+  "DLF Phase 4, Gurgaon",
+  "Contact : 0124 - 4231919",
+  "17/04/2015 21:17",
+  ": Terminal No:4",
+  "75041504 179224*",
+  "Invoice No: 111",
+  "= vee , Qty Unit Price",
+  "~~ ie (Only Me) 1 100.00 100.00",
+  "ae SUB TOTAL Rs 100.00",
+  "Vat@13. 13% Rs13.13",
+  "Service TAX 4.94% Rs4 .94",
+  "ROUNDUP AMOUNT Rs118 .00",
+  "Cash Rs118.07",
+  "—. mpl tems: Served by: E Tek",
+  "pee oy 7 TIN NUMBER APPLIED FOR",
+  "Thank You!!!",
+  "NAN"
+ ],
+ "tokens": [
+  {
+   "text": "Khyen",
+   "conf": 0.87
+  },
+  {
+   "text": "Chyen",
+   "conf": 0.89
+  },
+  {
+   "text": "7NK",
+   "conf": 0.91
+  },
+  {
+   "text": "Foods",
+   "conf": 0.93
+  },
+  {
+   "text": "&",
+   "conf": 0.93
+  },
+  {
+   "text": "Beverages",
+   "conf": 0.96
+  },
+  {
+   "text": "Pvt.",
+   "conf": 0.93
+  },
+  {
+   "text": "Ltd.",
+   "conf": 0.93
+  },
+  {
+   "text": "G-19,",
+   "conf": 0.68
+  },
+  {
+   "text": "DLF",
+   "conf": 0.93
+  },
+  {
+   "text": "Cross",
+   "conf": 0.95
+  },
+  {
+   "text": "Point",
+   "conf": 0.96
+  },
+  {
+   "text": "DLF",
+   "conf": 0.88
+  },
+  {
+   "text": "Phase",
+   "conf": 0.96
+  },
+  {
+   "text": "4,",
+   "conf": 0.96
+  },
+  {
+   "text": "Gurgaon",
+   "conf": 0.96
+  },
+  {
+   "text": "Contact",
+   "conf": 0.89
+  },
+  {
+   "text": ":",
+   "conf": 0.89
+  },
+  {
+   "text": "0124",
+   "conf": 0.89
+  },
+  {
+   "text": "-",
+   "conf": 0.89
+  },
+  {
+   "text": "4231919",
+   "conf": 0.95
+  },
+  {
+   "text": "17/04/2015",
+   "conf": 0.76
+  },
+  {
+   "text": "21:17",
+   "conf": 0.76
+  },
+  {
+   "text": ":",
+   "conf": 0.55
+  },
+  {
+   "text": "Terminal",
+   "conf": 0.93
+  },
+  {
+   "text": "No:4",
+   "conf": 0.62
+  },
+  {
+   "text": "75041504",
+   "conf": 0.24
+  },
+  {
+   "text": "179224*",
+   "conf": 0.24
+  },
+  {
+   "text": "Invoice",
+   "conf": 0.96
+  },
+  {
+   "text": "No:",
+   "conf": 0.95
+  },
+  {
+   "text": "111",
+   "conf": 0.8
+  },
+  {
+   "text": "=",
+   "conf": 0.58
+  },
+  {
+   "text": "vee",
+   "conf": 0.14
+  },
+  {
+   "text": ",",
+   "conf": 0.0
+  },
+  {
+   "text": "Qty",
+   "conf": 0.9
+  },
+  {
+   "text": "Unit",
+   "conf": 0.89
+  },
+  {
+   "text": "Price",
+   "conf": 0.95
+  },
+  {
+   "text": "~~",
+   "conf": 0.23
+  },
+  {
+   "text": "ie",
+   "conf": 0.42
+  },
+  {
+   "text": "(Only",
+   "conf": 0.69
+  },
+  {
+   "text": "Me)",
+   "conf": 0.96
+  },
+  {
+   "text": "1",
+   "conf": 0.89
+  },
+  {
+   "text": "100.00",
+   "conf": 0.91
+  },
+  {
+   "text": "100.00",
+   "conf": 0.96
+  },
+  {
+   "text": "ae",
+   "conf": 0.32
+  },
+  {
+   "text": "SUB",
+   "conf": 0.67
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.71
+  },
+  {
+   "text": "Rs",
+   "conf": 0.37
+  },
+  {
+   "text": "100.00",
+   "conf": 0.37
+  },
+  {
+   "text": "Vat@13.",
+   "conf": 0.86
+  },
+  {
+   "text": "13%",
+   "conf": 0.93
+  },
+  {
+   "text": "Rs13.13",
+   "conf": 0.85
+  },
+  {
+   "text": "Service",
+   "conf": 0.96
+  },
+  {
+   "text": "TAX",
+   "conf": 0.96
+  },
+  {
+   "text": "4.94%",
+   "conf": 0.94
+  },
+  {
+   "text": "Rs4",
+   "conf": 0.84
+  },
+  {
+   "text": ".94",
+   "conf": 0.84
+  },
+  {
+   "text": "ROUNDUP",
+   "conf": 0.95
+  },
+  {
+   "text": "AMOUNT",
+   "conf": 0.95
+  },
+  {
+   "text": "Rs118",
+   "conf": 0.2
+  },
+  {
+   "text": ".00",
+   "conf": 0.2
+  },
+  {
+   "text": "Cash",
+   "conf": 0.95
+  },
+  {
+   "text": "Rs118.07",
+   "conf": 0.81
+  },
+  {
+   "text": "—.",
+   "conf": 0.07
+  },
+  {
+   "text": "mpl",
+   "conf": 0.47
+  },
+  {
+   "text": "tems:",
+   "conf": 0.82
+  },
+  {
+   "text": "Served",
+   "conf": 0.96
+  },
+  {
+   "text": "by:",
+   "conf": 0.9
+  },
+  {
+   "text": "E",
+   "conf": 0.9
+  },
+  {
+   "text": "Tek",
+   "conf": 0.96
+  },
+  {
+   "text": "pee",
+   "conf": 0.3
+  },
+  {
+   "text": "oy",
+   "conf": 0.28
+  },
+  {
+   "text": "7",
+   "conf": 0.65
+  },
+  {
+   "text": "TIN",
+   "conf": 0.93
+  },
+  {
+   "text": "NUMBER",
+   "conf": 0.96
+  },
+  {
+   "text": "APPLIED",
+   "conf": 0.92
+  },
+  {
+   "text": "FOR",
+   "conf": 0.75
+  },
+  {
+   "text": "Thank",
+   "conf": 0.96
+  },
+  {
+   "text": "You!!!",
+   "conf": 0.89
+  },
+  {
+   "text": "NAN",
+   "conf": 0.02
+  }
+ ],
+ "mean_conf": 0.7486,
+ "low_conf_share": 0.2,
+ "latency_ms": 1234,
+ "fields": {
+  "company": "KHYEN CHYEN",
+  "date": "2015-04-17",
+  "total": 118.07
+ },
+ "rule_reasons": [
+  "total_no_keyword_fallback_max"
+ ],
+ "total_candidates": [
+  100.0,
+  100.0,
+  100.0,
+  13.13,
+  4.94,
+  118.07
+ ],
+ "key": "W0145_62afa3fa08bb"
+}

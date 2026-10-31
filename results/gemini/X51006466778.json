@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.6-flash",
+ "provider": "gemini",
+ "raw_text": "{\"vendor\": \"the Roti man bakery\", \"date\": \"2018-05-04\", \"subtotal\": 20.4, \"tax\": null, \"tip\": null, \"discount\": null, \"total\": 20.4, \"currency\": \"MYR\", \"confidence\": 0.95, \"notes\": \"Price includes 6% GST.\"}",
+ "data": {
+  "vendor": "the Roti man bakery",
+  "date": "2018-05-04",
+  "subtotal": 20.4,
+  "tax": null,
+  "tip": null,
+  "discount": null,
+  "total": 20.4,
+  "currency": "MYR",
+  "confidence": 0.95,
+  "notes": "Price includes 6% GST."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1476,
+  "output_tokens": 87,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.001433,
+ "latency_ms": 1484,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.6-flash",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.6-flash"
+ ],
+ "key": "X51006466778"
+}

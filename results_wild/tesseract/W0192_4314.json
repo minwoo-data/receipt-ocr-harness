@@ -1,0 +1,190 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "cmeorY caR0",
+  "omOER",
+  "eo7e",
+  "| Donjpo's Pizza",
+  "(258) 726-5564",
+  "ysi/2o14 6:00 PH",
+  "Orser 21288 server 1037",
+  "Carry",
+  "THOS JEFFERSON",
+  "(258) 365-052",
+  "5 astercara",
+  "pear co +",
+  "erste:",
+  "| apr cove ss",
+  "aT",
+  "Tie ss0.¢ ror,",
+  "Jp oF0 es"
+ ],
+ "tokens": [
+  {
+   "text": "cmeorY",
+   "conf": 0.0
+  },
+  {
+   "text": "caR0",
+   "conf": 0.0
+  },
+  {
+   "text": "omOER",
+   "conf": 0.0
+  },
+  {
+   "text": "eo7e",
+   "conf": 0.0
+  },
+  {
+   "text": "|",
+   "conf": 0.83
+  },
+  {
+   "text": "Donjpo's",
+   "conf": 0.0
+  },
+  {
+   "text": "Pizza",
+   "conf": 0.69
+  },
+  {
+   "text": "(258)",
+   "conf": 0.57
+  },
+  {
+   "text": "726-5564",
+   "conf": 0.57
+  },
+  {
+   "text": "ysi/2o14",
+   "conf": 0.0
+  },
+  {
+   "text": "6:00",
+   "conf": 0.72
+  },
+  {
+   "text": "PH",
+   "conf": 0.26
+  },
+  {
+   "text": "Orser",
+   "conf": 0.19
+  },
+  {
+   "text": "21288",
+   "conf": 0.69
+  },
+  {
+   "text": "server",
+   "conf": 0.81
+  },
+  {
+   "text": "1037",
+   "conf": 0.81
+  },
+  {
+   "text": "Carry",
+   "conf": 0.17
+  },
+  {
+   "text": "THOS",
+   "conf": 0.2
+  },
+  {
+   "text": "JEFFERSON",
+   "conf": 0.28
+  },
+  {
+   "text": "(258)",
+   "conf": 0.64
+  },
+  {
+   "text": "365-052",
+   "conf": 0.27
+  },
+  {
+   "text": "5",
+   "conf": 0.04
+  },
+  {
+   "text": "astercara",
+   "conf": 0.39
+  },
+  {
+   "text": "pear",
+   "conf": 0.39
+  },
+  {
+   "text": "co",
+   "conf": 0.34
+  },
+  {
+   "text": "+",
+   "conf": 0.86
+  },
+  {
+   "text": "erste:",
+   "conf": 0.0
+  },
+  {
+   "text": "|",
+   "conf": 0.54
+  },
+  {
+   "text": "apr",
+   "conf": 0.0
+  },
+  {
+   "text": "cove",
+   "conf": 0.5
+  },
+  {
+   "text": "ss",
+   "conf": 0.0
+  },
+  {
+   "text": "aT",
+   "conf": 0.38
+  },
+  {
+   "text": "Tie",
+   "conf": 0.39
+  },
+  {
+   "text": "ss0.¢",
+   "conf": 0.0
+  },
+  {
+   "text": "ror,",
+   "conf": 0.13
+  },
+  {
+   "text": "Jp",
+   "conf": 0.49
+  },
+  {
+   "text": "oF0",
+   "conf": 0.0
+  },
+  {
+   "text": "es",
+   "conf": 0.36
+  }
+ ],
+ "mean_conf": 0.3292,
+ "low_conf_share": 0.6842,
+ "latency_ms": 628,
+ "fields": {
+  "company": "CMEORY CAR0",
+  "date": null,
+  "total": null
+ },
+ "rule_reasons": [
+  "date_not_found",
+  "total_not_found"
+ ],
+ "total_candidates": [],
+ "key": "W0192_4314"
+}

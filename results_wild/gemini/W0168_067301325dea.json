@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.6-flash",
+ "provider": "gemini",
+ "raw_text": "{\"vendor\": \"CANADIAN TIRE 235\", \"date\": \"2014-06-22\", \"subtotal\": 33.79, \"tax\": 5.06, \"tip\": null, \"discount\": -18.2, \"total\": 38.85, \"currency\": \"CAD\", \"confidence\": 0.95, \"notes\": \"Tax contains T.P.S. (1.69) and T.V.Q. (3.37). Discount of 18.20 is indicated under item.\"}",
+ "data": {
+  "vendor": "CANADIAN TIRE 235",
+  "date": "2014-06-22",
+  "subtotal": 33.79,
+  "tax": 5.06,
+  "tip": null,
+  "discount": -18.2,
+  "total": 38.85,
+  "currency": "CAD",
+  "confidence": 0.95,
+  "notes": "Tax contains T.P.S. (1.69) and T.V.Q. (3.37). Discount of 18.20 is indicated under item."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1433,
+  "output_tokens": 132,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.00157,
+ "latency_ms": 2133,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.6-flash",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.6-flash"
+ ],
+ "key": "W0168_067301325dea"
+}

@@ -1,0 +1,150 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "Arizona Five Palms",
+  "3500 E.Sunrise Drive",
+  "Tucson,Arizona 85718",
+  "Server:Wyatt 03/24/2017",
+  "Table509/1 8:18PM",
+  "Guests:2",
+  "#50003",
+  "Reprint #:1",
+  "HH BOLOGNESE 8.00",
+  "46.00",
+  "LAMB LOLLIPOPS 16.00",
+  "HHCAB 5.00",
+  "HOUSE CABERNET(2(7.00） 14.00",
+  "Subtotal 89.00",
+  "Tax 5.43",
+  "Total 94.43",
+  "BalanceDue 94.43",
+  "See You Again Soon!"
+ ],
+ "tokens": [
+  {
+   "text": "Arizona Five Palms",
+   "conf": 0.931359675195482
+  },
+  {
+   "text": "3500 E.Sunrise Drive",
+   "conf": 0.9283959835767746
+  },
+  {
+   "text": "Tucson,Arizona 85718",
+   "conf": 0.9492529094219208
+  },
+  {
+   "text": "Server:Wyatt",
+   "conf": 0.9524970998366674
+  },
+  {
+   "text": "03/24/2017",
+   "conf": 0.9964301526546478
+  },
+  {
+   "text": "Table509/1",
+   "conf": 0.9888259172439575
+  },
+  {
+   "text": "8:18PM",
+   "conf": 0.9692433377106985
+  },
+  {
+   "text": "Guests:2",
+   "conf": 0.9611126780509949
+  },
+  {
+   "text": "#50003",
+   "conf": 0.9878837962945303
+  },
+  {
+   "text": "Reprint #:1",
+   "conf": 0.9067232554609125
+  },
+  {
+   "text": "HH BOLOGNESE",
+   "conf": 0.9512039969364802
+  },
+  {
+   "text": "8.00",
+   "conf": 0.9958669096231461
+  },
+  {
+   "text": "46.00",
+   "conf": 0.9927787899971008
+  },
+  {
+   "text": "LAMB LOLLIPOPS",
+   "conf": 0.9692371572766986
+  },
+  {
+   "text": "16.00",
+   "conf": 0.9965981602668762
+  },
+  {
+   "text": "HHCAB",
+   "conf": 0.9889591217041016
+  },
+  {
+   "text": "5.00",
+   "conf": 0.9978334605693817
+  },
+  {
+   "text": "HOUSE CABERNET(2(7.00）",
+   "conf": 0.8929312798109922
+  },
+  {
+   "text": "14.00",
+   "conf": 0.9945026159286499
+  },
+  {
+   "text": "Subtotal",
+   "conf": 0.9833957105875015
+  },
+  {
+   "text": "89.00",
+   "conf": 0.9965192437171936
+  },
+  {
+   "text": "Tax",
+   "conf": 0.9874463081359863
+  },
+  {
+   "text": "5.43",
+   "conf": 0.995529443025589
+  },
+  {
+   "text": "Total",
+   "conf": 0.9888761401176452
+  },
+  {
+   "text": "94.43",
+   "conf": 0.9867794275283813
+  },
+  {
+   "text": "BalanceDue",
+   "conf": 0.9914861559867859
+  },
+  {
+   "text": "94.43",
+   "conf": 0.9979483127593994
+  },
+  {
+   "text": "See You Again Soon!",
+   "conf": 0.9402308464050293
+  }
+ ],
+ "mean_conf": 0.9721,
+ "low_conf_share": 0.0,
+ "latency_ms": 3271,
+ "fields": {
+  "company": "ARIZONA FIVE PALMS",
+  "date": "2017-03-24",
+  "total": 94.43
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  94.43
+ ],
+ "key": "W0024_69c5643c613b"
+}

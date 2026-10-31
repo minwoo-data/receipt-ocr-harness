@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.6-flash",
+ "provider": "gemini",
+ "raw_text": "{\"vendor\":\"POPULAR BOOK CO. (M) SDN BHD\",\"date\":\"2018-03-05\",\"subtotal\":11.0,\"tax\":0.56,\"tip\":null,\"discount\":-1.1,\"total\":9.9,\"currency\":\"MYR\",\"confidence\":0.95,\"notes\":null}",
+ "data": {
+  "vendor": "POPULAR BOOK CO. (M) SDN BHD",
+  "date": "2018-03-05",
+  "subtotal": 11.0,
+  "tax": 0.56,
+  "tip": null,
+  "discount": -1.1,
+  "total": 9.9,
+  "currency": "MYR",
+  "confidence": 0.95,
+  "notes": null
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1461,
+  "output_tokens": 76,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.001381,
+ "latency_ms": 2051,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.6-flash",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.6-flash"
+ ],
+ "key": "X51006008091"
+}

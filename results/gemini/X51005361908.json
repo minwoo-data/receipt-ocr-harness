@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.6-flash",
+ "provider": "gemini",
+ "raw_text": "{\"vendor\": \"TEO HENG STATIONERY & BOOKS\", \"date\": \"2018-03-15\", \"subtotal\": 120.0, \"tax\": 7.2, \"tip\": null, \"discount\": null, \"total\": 127.2, \"currency\": \"MYR\", \"confidence\": 0.95, \"notes\": null}",
+ "data": {
+  "vendor": "TEO HENG STATIONERY & BOOKS",
+  "date": "2018-03-15",
+  "subtotal": 120.0,
+  "tax": 7.2,
+  "tip": null,
+  "discount": null,
+  "total": 127.2,
+  "currency": "MYR",
+  "confidence": 0.95,
+  "notes": null
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1461,
+  "output_tokens": 88,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.001426,
+ "latency_ms": 1969,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.6-flash",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.6-flash"
+ ],
+ "key": "X51005361908"
+}

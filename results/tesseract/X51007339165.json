@@ -1,0 +1,702 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "rot tS",
+  "SANYO STATIONERY SHOP",
+  "NO. 31G&33G, JALAN SETIA INDAH X ,U13/X",
+  "40170 SETIA ALAM",
+  "Mobile /Whatsapps : +6012-918 7937",
+  "Tel: +603-3362 4137",
+  "GST ID Ne: 001531760640 TAX INVOICE",
+  "Owned By:",
+  "SANYU SUPPLY SDN BHD (1135772-K)",
+  "CASH SALES COUNTER",
+  "“15002-0080” “WIRE 0 (3:1) DOUBLE WIRE Ad",
+  "34 LOOPS - 6.4MM (WHITE)",
+  "6 X 4.0000 5 24.00 SR",
+  "2. 5002-0004 PVC- RIGID SHEET BINDING CC",
+  "Ad",
+  "12 X 0.8000 0 9.60 SR",
+  "Total Sales Inclusive GST @6% — 33.60",
+  "Discount 0.00",
+  "Total 33.60",
+  "Round Adj 0.00",
+  "FinalTotal =——=S—SS*C«& 3.6]",
+  "CASH 50.00",
+  "CHANGE 16.40",
+  "‘GST Summary Amount(RM) Tax(RM)",
+  "SR @ 6% 31.70 1.90",
+  "INVINO:CS'SA:0127440)",
+  "Date: 29/11/2017",
+  "Total Qty: 18",
+  "Print Time : Wednesday, 29 November, 2017 4:18:55",
+  "Goods sold are not Returnable & Refundable",
+  "THANK YOU FOR YOUR PATRONAGE",
+  "PLEASE COME AGAIN.",
+  "TERIMA KASIH SILA DATANG LAGI",
+  "** PLEASE KEEP THIS RECEIPT FOR PROVE OF",
+  "PURCHASE DATE FOR I.T PRODUCT WARRANTY",
+  "PURPOSE ** ‘",
+  "Follow us in Facebook : Sanyu.Stationery”",
+  "aes Se eee"
+ ],
+ "tokens": [
+  {
+   "text": "rot",
+   "conf": 0.53
+  },
+  {
+   "text": "tS",
+   "conf": 0.34
+  },
+  {
+   "text": "SANYO",
+   "conf": 0.82
+  },
+  {
+   "text": "STATIONERY",
+   "conf": 0.94
+  },
+  {
+   "text": "SHOP",
+   "conf": 0.94
+  },
+  {
+   "text": "NO.",
+   "conf": 0.92
+  },
+  {
+   "text": "31G&33G,",
+   "conf": 0.79
+  },
+  {
+   "text": "JALAN",
+   "conf": 0.93
+  },
+  {
+   "text": "SETIA",
+   "conf": 0.93
+  },
+  {
+   "text": "INDAH",
+   "conf": 0.92
+  },
+  {
+   "text": "X",
+   "conf": 0.92
+  },
+  {
+   "text": ",U13/X",
+   "conf": 0.84
+  },
+  {
+   "text": "40170",
+   "conf": 0.93
+  },
+  {
+   "text": "SETIA",
+   "conf": 0.91
+  },
+  {
+   "text": "ALAM",
+   "conf": 0.96
+  },
+  {
+   "text": "Mobile",
+   "conf": 0.91
+  },
+  {
+   "text": "/Whatsapps",
+   "conf": 0.91
+  },
+  {
+   "text": ":",
+   "conf": 0.9
+  },
+  {
+   "text": "+6012-918",
+   "conf": 0.92
+  },
+  {
+   "text": "7937",
+   "conf": 0.96
+  },
+  {
+   "text": "Tel:",
+   "conf": 0.93
+  },
+  {
+   "text": "+603-3362",
+   "conf": 0.9
+  },
+  {
+   "text": "4137",
+   "conf": 0.96
+  },
+  {
+   "text": "GST",
+   "conf": 0.95
+  },
+  {
+   "text": "ID",
+   "conf": 0.95
+  },
+  {
+   "text": "Ne:",
+   "conf": 0.38
+  },
+  {
+   "text": "001531760640",
+   "conf": 0.96
+  },
+  {
+   "text": "TAX",
+   "conf": 0.96
+  },
+  {
+   "text": "INVOICE",
+   "conf": 0.95
+  },
+  {
+   "text": "Owned",
+   "conf": 0.96
+  },
+  {
+   "text": "By:",
+   "conf": 0.82
+  },
+  {
+   "text": "SANYU",
+   "conf": 0.92
+  },
+  {
+   "text": "SUPPLY",
+   "conf": 0.96
+  },
+  {
+   "text": "SDN",
+   "conf": 0.96
+  },
+  {
+   "text": "BHD",
+   "conf": 0.93
+  },
+  {
+   "text": "(1135772-K)",
+   "conf": 0.91
+  },
+  {
+   "text": "CASH",
+   "conf": 0.96
+  },
+  {
+   "text": "SALES",
+   "conf": 0.95
+  },
+  {
+   "text": "COUNTER",
+   "conf": 0.95
+  },
+  {
+   "text": "“15002-0080”",
+   "conf": 0.0
+  },
+  {
+   "text": "“WIRE",
+   "conf": 0.7
+  },
+  {
+   "text": "0",
+   "conf": 0.85
+  },
+  {
+   "text": "(3:1)",
+   "conf": 0.95
+  },
+  {
+   "text": "DOUBLE",
+   "conf": 0.96
+  },
+  {
+   "text": "WIRE",
+   "conf": 0.95
+  },
+  {
+   "text": "Ad",
+   "conf": 0.7
+  },
+  {
+   "text": "34",
+   "conf": 0.95
+  },
+  {
+   "text": "LOOPS",
+   "conf": 0.92
+  },
+  {
+   "text": "-",
+   "conf": 0.9
+  },
+  {
+   "text": "6.4MM",
+   "conf": 0.91
+  },
+  {
+   "text": "(WHITE)",
+   "conf": 0.96
+  },
+  {
+   "text": "6",
+   "conf": 0.84
+  },
+  {
+   "text": "X",
+   "conf": 0.92
+  },
+  {
+   "text": "4.0000",
+   "conf": 0.93
+  },
+  {
+   "text": "5",
+   "conf": 0.24
+  },
+  {
+   "text": "24.00",
+   "conf": 0.94
+  },
+  {
+   "text": "SR",
+   "conf": 0.91
+  },
+  {
+   "text": "2.",
+   "conf": 0.96
+  },
+  {
+   "text": "5002-0004",
+   "conf": 0.96
+  },
+  {
+   "text": "PVC-",
+   "conf": 0.91
+  },
+  {
+   "text": "RIGID",
+   "conf": 0.96
+  },
+  {
+   "text": "SHEET",
+   "conf": 0.96
+  },
+  {
+   "text": "BINDING",
+   "conf": 0.96
+  },
+  {
+   "text": "CC",
+   "conf": 0.87
+  },
+  {
+   "text": "Ad",
+   "conf": 0.49
+  },
+  {
+   "text": "12",
+   "conf": 0.92
+  },
+  {
+   "text": "X",
+   "conf": 0.91
+  },
+  {
+   "text": "0.8000",
+   "conf": 0.96
+  },
+  {
+   "text": "0",
+   "conf": 0.23
+  },
+  {
+   "text": "9.60",
+   "conf": 0.94
+  },
+  {
+   "text": "SR",
+   "conf": 0.94
+  },
+  {
+   "text": "Total",
+   "conf": 0.96
+  },
+  {
+   "text": "Sales",
+   "conf": 0.94
+  },
+  {
+   "text": "Inclusive",
+   "conf": 0.96
+  },
+  {
+   "text": "GST",
+   "conf": 0.87
+  },
+  {
+   "text": "@6%",
+   "conf": 0.87
+  },
+  {
+   "text": "—",
+   "conf": 0.24
+  },
+  {
+   "text": "33.60",
+   "conf": 0.69
+  },
+  {
+   "text": "Discount",
+   "conf": 0.96
+  },
+  {
+   "text": "0.00",
+   "conf": 0.94
+  },
+  {
+   "text": "Total",
+   "conf": 0.96
+  },
+  {
+   "text": "33.60",
+   "conf": 0.96
+  },
+  {
+   "text": "Round",
+   "conf": 0.96
+  },
+  {
+   "text": "Adj",
+   "conf": 0.96
+  },
+  {
+   "text": "0.00",
+   "conf": 0.94
+  },
+  {
+   "text": "FinalTotal",
+   "conf": 0.62
+  },
+  {
+   "text": "=——=S—SS*C«&",
+   "conf": 0.0
+  },
+  {
+   "text": "3.6]",
+   "conf": 0.37
+  },
+  {
+   "text": "CASH",
+   "conf": 0.96
+  },
+  {
+   "text": "50.00",
+   "conf": 0.96
+  },
+  {
+   "text": "CHANGE",
+   "conf": 0.96
+  },
+  {
+   "text": "16.40",
+   "conf": 0.96
+  },
+  {
+   "text": "‘GST",
+   "conf": 0.56
+  },
+  {
+   "text": "Summary",
+   "conf": 0.29
+  },
+  {
+   "text": "Amount(RM)",
+   "conf": 0.48
+  },
+  {
+   "text": "Tax(RM)",
+   "conf": 0.62
+  },
+  {
+   "text": "SR",
+   "conf": 0.82
+  },
+  {
+   "text": "@",
+   "conf": 0.82
+  },
+  {
+   "text": "6%",
+   "conf": 0.96
+  },
+  {
+   "text": "31.70",
+   "conf": 0.96
+  },
+  {
+   "text": "1.90",
+   "conf": 0.96
+  },
+  {
+   "text": "INVINO:CS'SA:0127440)",
+   "conf": 0.0
+  },
+  {
+   "text": "Date:",
+   "conf": 0.9
+  },
+  {
+   "text": "29/11/2017",
+   "conf": 0.96
+  },
+  {
+   "text": "Total",
+   "conf": 0.96
+  },
+  {
+   "text": "Qty:",
+   "conf": 0.96
+  },
+  {
+   "text": "18",
+   "conf": 0.96
+  },
+  {
+   "text": "Print",
+   "conf": 0.96
+  },
+  {
+   "text": "Time",
+   "conf": 0.82
+  },
+  {
+   "text": ":",
+   "conf": 0.82
+  },
+  {
+   "text": "Wednesday,",
+   "conf": 0.94
+  },
+  {
+   "text": "29",
+   "conf": 0.96
+  },
+  {
+   "text": "November,",
+   "conf": 0.96
+  },
+  {
+   "text": "2017",
+   "conf": 0.96
+  },
+  {
+   "text": "4:18:55",
+   "conf": 0.85
+  },
+  {
+   "text": "Goods",
+   "conf": 0.96
+  },
+  {
+   "text": "sold",
+   "conf": 0.93
+  },
+  {
+   "text": "are",
+   "conf": 0.93
+  },
+  {
+   "text": "not",
+   "conf": 0.93
+  },
+  {
+   "text": "Returnable",
+   "conf": 0.92
+  },
+  {
+   "text": "&",
+   "conf": 0.93
+  },
+  {
+   "text": "Refundable",
+   "conf": 0.96
+  },
+  {
+   "text": "THANK",
+   "conf": 0.96
+  },
+  {
+   "text": "YOU",
+   "conf": 0.96
+  },
+  {
+   "text": "FOR",
+   "conf": 0.95
+  },
+  {
+   "text": "YOUR",
+   "conf": 0.95
+  },
+  {
+   "text": "PATRONAGE",
+   "conf": 0.96
+  },
+  {
+   "text": "PLEASE",
+   "conf": 0.95
+  },
+  {
+   "text": "COME",
+   "conf": 0.92
+  },
+  {
+   "text": "AGAIN.",
+   "conf": 0.92
+  },
+  {
+   "text": "TERIMA",
+   "conf": 0.56
+  },
+  {
+   "text": "KASIH",
+   "conf": 0.56
+  },
+  {
+   "text": "SILA",
+   "conf": 0.92
+  },
+  {
+   "text": "DATANG",
+   "conf": 0.91
+  },
+  {
+   "text": "LAGI",
+   "conf": 0.96
+  },
+  {
+   "text": "**",
+   "conf": 0.91
+  },
+  {
+   "text": "PLEASE",
+   "conf": 0.96
+  },
+  {
+   "text": "KEEP",
+   "conf": 0.95
+  },
+  {
+   "text": "THIS",
+   "conf": 0.95
+  },
+  {
+   "text": "RECEIPT",
+   "conf": 0.95
+  },
+  {
+   "text": "FOR",
+   "conf": 0.91
+  },
+  {
+   "text": "PROVE",
+   "conf": 0.96
+  },
+  {
+   "text": "OF",
+   "conf": 0.95
+  },
+  {
+   "text": "PURCHASE",
+   "conf": 0.96
+  },
+  {
+   "text": "DATE",
+   "conf": 0.95
+  },
+  {
+   "text": "FOR",
+   "conf": 0.92
+  },
+  {
+   "text": "I.T",
+   "conf": 0.75
+  },
+  {
+   "text": "PRODUCT",
+   "conf": 0.95
+  },
+  {
+   "text": "WARRANTY",
+   "conf": 0.96
+  },
+  {
+   "text": "PURPOSE",
+   "conf": 0.93
+  },
+  {
+   "text": "**",
+   "conf": 0.9
+  },
+  {
+   "text": "‘",
+   "conf": 0.0
+  },
+  {
+   "text": "Follow",
+   "conf": 0.96
+  },
+  {
+   "text": "us",
+   "conf": 0.9
+  },
+  {
+   "text": "in",
+   "conf": 0.9
+  },
+  {
+   "text": "Facebook",
+   "conf": 0.92
+  },
+  {
+   "text": ":",
+   "conf": 0.91
+  },
+  {
+   "text": "Sanyu.Stationery”",
+   "conf": 0.0
+  },
+  {
+   "text": "aes",
+   "conf": 0.34
+  },
+  {
+   "text": "Se",
+   "conf": 0.36
+  },
+  {
+   "text": "eee",
+   "conf": 0.32
+  }
+ ],
+ "mean_conf": 0.8386,
+ "low_conf_share": 0.1056,
+ "latency_ms": 2455,
+ "fields": {
+  "company": "ROT TS",
+  "date": "2017-11-29",
+  "total": 33.6
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  33.6
+ ],
+ "key": "X51007339165"
+}

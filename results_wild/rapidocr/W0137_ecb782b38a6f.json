@@ -1,0 +1,137 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "Mitcheldean Garage",
+  "New Road",
+  "Mitcheldean",
+  "Glos",
+  "GL170BX",
+  "M***4558 ****2628",
+  "CUSTOMER COPY",
+  "This is not UAT receipt",
+  "Uisa",
+  "AID:A0000000031010",
+  "CA尺D：****4152",
+  "PANSeqNr:04",
+  "ICC SALE",
+  "TOTAL 15.25",
+  "Customer PIN verified",
+  "Please retain receipt",
+  "for your records",
+  "696600:80040",
+  "T019082",
+  "13/06/15 14:12R7961",
+  "ThankYou."
+ ],
+ "tokens": [
+  {
+   "text": "Mitcheldean Garage",
+   "conf": 0.977474076880349
+  },
+  {
+   "text": "New Road",
+   "conf": 0.9436563551425934
+  },
+  {
+   "text": "Mitcheldean",
+   "conf": 0.993652576749975
+  },
+  {
+   "text": "Glos",
+   "conf": 0.9710883349180222
+  },
+  {
+   "text": "GL170BX",
+   "conf": 0.941146833556039
+  },
+  {
+   "text": "M***4558",
+   "conf": 0.8614056259393692
+  },
+  {
+   "text": "****2628",
+   "conf": 0.8664370253682137
+  },
+  {
+   "text": "CUSTOMER COPY",
+   "conf": 0.97354656457901
+  },
+  {
+   "text": "This is not UAT receipt",
+   "conf": 0.8834243416786194
+  },
+  {
+   "text": "Uisa",
+   "conf": 0.972495973110199
+  },
+  {
+   "text": "AID:A0000000031010",
+   "conf": 0.9399519198470645
+  },
+  {
+   "text": "CA尺D：****4152",
+   "conf": 0.6714414977110349
+  },
+  {
+   "text": "PANSeqNr:04",
+   "conf": 0.8870285803621466
+  },
+  {
+   "text": "ICC SALE",
+   "conf": 0.967588983476162
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.991520082950592
+  },
+  {
+   "text": "15.25",
+   "conf": 0.996211302280426
+  },
+  {
+   "text": "Customer PIN verified",
+   "conf": 0.9352510628246126
+  },
+  {
+   "text": "Please retain receipt",
+   "conf": 0.9407461399123782
+  },
+  {
+   "text": "for your records",
+   "conf": 0.9445697888731956
+  },
+  {
+   "text": "696600:80040",
+   "conf": 0.7400425920883814
+  },
+  {
+   "text": "T019082",
+   "conf": 0.9850851978574481
+  },
+  {
+   "text": "13/06/15",
+   "conf": 0.9701793119311333
+  },
+  {
+   "text": "14:12R7961",
+   "conf": 0.9852015972137451
+  },
+  {
+   "text": "ThankYou.",
+   "conf": 0.923555400636461
+  }
+ ],
+ "mean_conf": 0.9276,
+ "low_conf_share": 0.0,
+ "latency_ms": 2710,
+ "fields": {
+  "company": "MITCHELDEAN GARAGE",
+  "date": "2015-06-13",
+  "total": 15.25
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  15.25
+ ],
+ "key": "W0137_ecb782b38a6f"
+}

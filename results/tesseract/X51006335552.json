@@ -1,0 +1,887 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "r.,",
+  "YONG SOON FATT S/B (81497-F}",
+  "LOT 1504, BATU @ 1/2, JALAN KLANG LANA,",
+  "46000 PETALING JAYA, SELANGOR.",
+  "TEL s O1é-20142N9",
+  "GST REG NO : OUO7aE25G424",
+  "BESC QTY PRICE ANGUNT © TAXCORE",
+  "(RH) (RH)",
+  "Q11100027 KEL SOK HOON SKG",
+  "LOTh SO 21.50 SR",
+  "o7gigo0o4 ~ RAYANG PUTIH",
+  "LkG J 37.50 37.80 ZRL",
+  "51199080 Ai BIHUN ISTIMERA 3KG",
+  "5 PRT U7 10.09 50.09 ZRL",
+  "BiOseCNS2 ABC TEPUNG URE KAYU 1KB",
+  "Lee A 27.00 27.00 ZRL",
+  "So1op010 LIMA GAIAH TEPUNG RERAS 500",
+  "LCIN YY 26.89 26,80 2RL",
+  "Di27O0087 ALISHAN YOUNG CORN 4259H",
+  "1 OTH 2-7 52.00 52.00 SR",
+  "1270100 NEW SUN BUTTON MUSHROOM 425",
+  "1 CTH —7 §8.00 59.00 SR",
+  "@u RAMBUTAN BERAS SST 5% 10KG",
+  "& PT 26,09 154.00 ZRL",
+  "\"ogg020 TARY CHAMP EUAP 390GH",
+  "{CIN 113.96 113.90 §&",
+  "DiO7G009G = LIFE 809 CILT 34063",
+  "LCT 63.60 63.40 SR",
+  "Mig7OG0se MAGGY SOS TOMATO 3256K",
+  "LOTH Z 62.20 42,20 SR",
+  "GIG7OOU31 LIFE SOS CILI soOGH",
+  "1fIN—~ 4.20 41.20 SR",
+  "QLO700057 MASEL SOS TOMATO 475%",
+  "1 cIn 39,99 37.00 SR",
+  "Total Inc. GST 6%: 758.70",
+  "Rounding Adjustment: 9.00",
+  "Final Total : 753.70",
+  "Cash : 760.99",
+  "Change ; 1.30",
+  "GST Susmary Amount (RH) Tax(RMj",
+  "SR 6 % 435.28 allies",
+  "ZRL Oz 297.30 9.09",
+  "COINlP279 6/2/2017 12242 PM",
+  "me 200e"
+ ],
+ "tokens": [
+  {
+   "text": "r.,",
+   "conf": 0.0
+  },
+  {
+   "text": "YONG",
+   "conf": 0.95
+  },
+  {
+   "text": "SOON",
+   "conf": 0.61
+  },
+  {
+   "text": "FATT",
+   "conf": 0.9
+  },
+  {
+   "text": "S/B",
+   "conf": 0.84
+  },
+  {
+   "text": "(81497-F}",
+   "conf": 0.36
+  },
+  {
+   "text": "LOT",
+   "conf": 0.96
+  },
+  {
+   "text": "1504,",
+   "conf": 0.9
+  },
+  {
+   "text": "BATU",
+   "conf": 0.76
+  },
+  {
+   "text": "@",
+   "conf": 0.76
+  },
+  {
+   "text": "1/2,",
+   "conf": 0.96
+  },
+  {
+   "text": "JALAN",
+   "conf": 0.93
+  },
+  {
+   "text": "KLANG",
+   "conf": 0.96
+  },
+  {
+   "text": "LANA,",
+   "conf": 0.93
+  },
+  {
+   "text": "46000",
+   "conf": 0.79
+  },
+  {
+   "text": "PETALING",
+   "conf": 0.9
+  },
+  {
+   "text": "JAYA,",
+   "conf": 0.73
+  },
+  {
+   "text": "SELANGOR.",
+   "conf": 0.79
+  },
+  {
+   "text": "TEL",
+   "conf": 0.89
+  },
+  {
+   "text": "s",
+   "conf": 0.5
+  },
+  {
+   "text": "O1é-20142N9",
+   "conf": 0.0
+  },
+  {
+   "text": "GST",
+   "conf": 0.93
+  },
+  {
+   "text": "REG",
+   "conf": 0.79
+  },
+  {
+   "text": "NO",
+   "conf": 0.79
+  },
+  {
+   "text": ":",
+   "conf": 0.79
+  },
+  {
+   "text": "OUO7aE25G424",
+   "conf": 0.0
+  },
+  {
+   "text": "BESC",
+   "conf": 0.83
+  },
+  {
+   "text": "QTY",
+   "conf": 0.82
+  },
+  {
+   "text": "PRICE",
+   "conf": 0.9
+  },
+  {
+   "text": "ANGUNT",
+   "conf": 0.88
+  },
+  {
+   "text": "©",
+   "conf": 0.34
+  },
+  {
+   "text": "TAXCORE",
+   "conf": 0.27
+  },
+  {
+   "text": "(RH)",
+   "conf": 0.0
+  },
+  {
+   "text": "(RH)",
+   "conf": 0.74
+  },
+  {
+   "text": "Q11100027",
+   "conf": 0.2
+  },
+  {
+   "text": "KEL",
+   "conf": 0.74
+  },
+  {
+   "text": "SOK",
+   "conf": 0.22
+  },
+  {
+   "text": "HOON",
+   "conf": 0.14
+  },
+  {
+   "text": "SKG",
+   "conf": 0.72
+  },
+  {
+   "text": "LOTh",
+   "conf": 0.0
+  },
+  {
+   "text": "SO",
+   "conf": 0.24
+  },
+  {
+   "text": "21.50",
+   "conf": 0.81
+  },
+  {
+   "text": "SR",
+   "conf": 0.84
+  },
+  {
+   "text": "o7gigo0o4",
+   "conf": 0.0
+  },
+  {
+   "text": "~",
+   "conf": 0.41
+  },
+  {
+   "text": "RAYANG",
+   "conf": 0.07
+  },
+  {
+   "text": "PUTIH",
+   "conf": 0.85
+  },
+  {
+   "text": "LkG",
+   "conf": 0.48
+  },
+  {
+   "text": "J",
+   "conf": 0.04
+  },
+  {
+   "text": "37.50",
+   "conf": 0.7
+  },
+  {
+   "text": "37.80",
+   "conf": 0.66
+  },
+  {
+   "text": "ZRL",
+   "conf": 0.78
+  },
+  {
+   "text": "51199080",
+   "conf": 0.67
+  },
+  {
+   "text": "Ai",
+   "conf": 0.82
+  },
+  {
+   "text": "BIHUN",
+   "conf": 0.76
+  },
+  {
+   "text": "ISTIMERA",
+   "conf": 0.07
+  },
+  {
+   "text": "3KG",
+   "conf": 0.83
+  },
+  {
+   "text": "5",
+   "conf": 0.56
+  },
+  {
+   "text": "PRT",
+   "conf": 0.56
+  },
+  {
+   "text": "U7",
+   "conf": 0.53
+  },
+  {
+   "text": "10.09",
+   "conf": 0.68
+  },
+  {
+   "text": "50.09",
+   "conf": 0.8
+  },
+  {
+   "text": "ZRL",
+   "conf": 0.75
+  },
+  {
+   "text": "BiOseCNS2",
+   "conf": 0.0
+  },
+  {
+   "text": "ABC",
+   "conf": 0.67
+  },
+  {
+   "text": "TEPUNG",
+   "conf": 0.79
+  },
+  {
+   "text": "URE",
+   "conf": 0.75
+  },
+  {
+   "text": "KAYU",
+   "conf": 0.76
+  },
+  {
+   "text": "1KB",
+   "conf": 0.0
+  },
+  {
+   "text": "Lee",
+   "conf": 0.15
+  },
+  {
+   "text": "A",
+   "conf": 0.52
+  },
+  {
+   "text": "27.00",
+   "conf": 0.47
+  },
+  {
+   "text": "27.00",
+   "conf": 0.73
+  },
+  {
+   "text": "ZRL",
+   "conf": 0.77
+  },
+  {
+   "text": "So1op010",
+   "conf": 0.0
+  },
+  {
+   "text": "LIMA",
+   "conf": 0.68
+  },
+  {
+   "text": "GAIAH",
+   "conf": 0.25
+  },
+  {
+   "text": "TEPUNG",
+   "conf": 0.66
+  },
+  {
+   "text": "RERAS",
+   "conf": 0.79
+  },
+  {
+   "text": "500",
+   "conf": 0.64
+  },
+  {
+   "text": "LCIN",
+   "conf": 0.72
+  },
+  {
+   "text": "YY",
+   "conf": 0.25
+  },
+  {
+   "text": "26.89",
+   "conf": 0.89
+  },
+  {
+   "text": "26,80",
+   "conf": 0.89
+  },
+  {
+   "text": "2RL",
+   "conf": 0.31
+  },
+  {
+   "text": "Di27O0087",
+   "conf": 0.1
+  },
+  {
+   "text": "ALISHAN",
+   "conf": 0.41
+  },
+  {
+   "text": "YOUNG",
+   "conf": 0.93
+  },
+  {
+   "text": "CORN",
+   "conf": 0.9
+  },
+  {
+   "text": "4259H",
+   "conf": 0.37
+  },
+  {
+   "text": "1",
+   "conf": 0.19
+  },
+  {
+   "text": "OTH",
+   "conf": 0.58
+  },
+  {
+   "text": "2-7",
+   "conf": 0.49
+  },
+  {
+   "text": "52.00",
+   "conf": 0.75
+  },
+  {
+   "text": "52.00",
+   "conf": 0.79
+  },
+  {
+   "text": "SR",
+   "conf": 0.78
+  },
+  {
+   "text": "1270100",
+   "conf": 0.0
+  },
+  {
+   "text": "NEW",
+   "conf": 0.89
+  },
+  {
+   "text": "SUN",
+   "conf": 0.89
+  },
+  {
+   "text": "BUTTON",
+   "conf": 0.71
+  },
+  {
+   "text": "MUSHROOM",
+   "conf": 0.02
+  },
+  {
+   "text": "425",
+   "conf": 0.93
+  },
+  {
+   "text": "1",
+   "conf": 0.18
+  },
+  {
+   "text": "CTH",
+   "conf": 0.18
+  },
+  {
+   "text": "—7",
+   "conf": 0.03
+  },
+  {
+   "text": "§8.00",
+   "conf": 0.0
+  },
+  {
+   "text": "59.00",
+   "conf": 0.79
+  },
+  {
+   "text": "SR",
+   "conf": 0.94
+  },
+  {
+   "text": "@u",
+   "conf": 0.13
+  },
+  {
+   "text": "RAMBUTAN",
+   "conf": 0.6
+  },
+  {
+   "text": "BERAS",
+   "conf": 0.16
+  },
+  {
+   "text": "SST",
+   "conf": 0.76
+  },
+  {
+   "text": "5%",
+   "conf": 0.77
+  },
+  {
+   "text": "10KG",
+   "conf": 0.84
+  },
+  {
+   "text": "&",
+   "conf": 0.89
+  },
+  {
+   "text": "PT",
+   "conf": 0.51
+  },
+  {
+   "text": "26,09",
+   "conf": 0.73
+  },
+  {
+   "text": "154.00",
+   "conf": 0.6
+  },
+  {
+   "text": "ZRL",
+   "conf": 0.9
+  },
+  {
+   "text": "\"ogg020",
+   "conf": 0.0
+  },
+  {
+   "text": "TARY",
+   "conf": 0.45
+  },
+  {
+   "text": "CHAMP",
+   "conf": 0.8
+  },
+  {
+   "text": "EUAP",
+   "conf": 0.71
+  },
+  {
+   "text": "390GH",
+   "conf": 0.25
+  },
+  {
+   "text": "{CIN",
+   "conf": 0.64
+  },
+  {
+   "text": "113.96",
+   "conf": 0.59
+  },
+  {
+   "text": "113.90",
+   "conf": 0.72
+  },
+  {
+   "text": "§&",
+   "conf": 0.05
+  },
+  {
+   "text": "DiO7G009G",
+   "conf": 0.3
+  },
+  {
+   "text": "=",
+   "conf": 0.4
+  },
+  {
+   "text": "LIFE",
+   "conf": 0.69
+  },
+  {
+   "text": "809",
+   "conf": 0.75
+  },
+  {
+   "text": "CILT",
+   "conf": 0.4
+  },
+  {
+   "text": "34063",
+   "conf": 0.0
+  },
+  {
+   "text": "LCT",
+   "conf": 0.28
+  },
+  {
+   "text": "63.60",
+   "conf": 0.77
+  },
+  {
+   "text": "63.40",
+   "conf": 0.65
+  },
+  {
+   "text": "SR",
+   "conf": 0.62
+  },
+  {
+   "text": "Mig7OG0se",
+   "conf": 0.0
+  },
+  {
+   "text": "MAGGY",
+   "conf": 0.47
+  },
+  {
+   "text": "SOS",
+   "conf": 0.71
+  },
+  {
+   "text": "TOMATO",
+   "conf": 0.66
+  },
+  {
+   "text": "3256K",
+   "conf": 0.26
+  },
+  {
+   "text": "LOTH",
+   "conf": 0.0
+  },
+  {
+   "text": "Z",
+   "conf": 0.0
+  },
+  {
+   "text": "62.20",
+   "conf": 0.88
+  },
+  {
+   "text": "42,20",
+   "conf": 0.85
+  },
+  {
+   "text": "SR",
+   "conf": 0.87
+  },
+  {
+   "text": "GIG7OOU31",
+   "conf": 0.0
+  },
+  {
+   "text": "LIFE",
+   "conf": 0.73
+  },
+  {
+   "text": "SOS",
+   "conf": 0.27
+  },
+  {
+   "text": "CILI",
+   "conf": 0.18
+  },
+  {
+   "text": "soOGH",
+   "conf": 0.0
+  },
+  {
+   "text": "1fIN—~",
+   "conf": 0.04
+  },
+  {
+   "text": "4.20",
+   "conf": 0.12
+  },
+  {
+   "text": "41.20",
+   "conf": 0.7
+  },
+  {
+   "text": "SR",
+   "conf": 0.64
+  },
+  {
+   "text": "QLO700057",
+   "conf": 0.51
+  },
+  {
+   "text": "MASEL",
+   "conf": 0.26
+  },
+  {
+   "text": "SOS",
+   "conf": 0.95
+  },
+  {
+   "text": "TOMATO",
+   "conf": 0.88
+  },
+  {
+   "text": "475%",
+   "conf": 0.0
+  },
+  {
+   "text": "1",
+   "conf": 0.5
+  },
+  {
+   "text": "cIn",
+   "conf": 0.14
+  },
+  {
+   "text": "39,99",
+   "conf": 0.86
+  },
+  {
+   "text": "37.00",
+   "conf": 0.7
+  },
+  {
+   "text": "SR",
+   "conf": 0.52
+  },
+  {
+   "text": "Total",
+   "conf": 0.94
+  },
+  {
+   "text": "Inc.",
+   "conf": 0.92
+  },
+  {
+   "text": "GST",
+   "conf": 0.84
+  },
+  {
+   "text": "6%:",
+   "conf": 0.4
+  },
+  {
+   "text": "758.70",
+   "conf": 0.86
+  },
+  {
+   "text": "Rounding",
+   "conf": 0.62
+  },
+  {
+   "text": "Adjustment:",
+   "conf": 0.86
+  },
+  {
+   "text": "9.00",
+   "conf": 0.77
+  },
+  {
+   "text": "Final",
+   "conf": 0.46
+  },
+  {
+   "text": "Total",
+   "conf": 0.96
+  },
+  {
+   "text": ":",
+   "conf": 0.19
+  },
+  {
+   "text": "753.70",
+   "conf": 0.71
+  },
+  {
+   "text": "Cash",
+   "conf": 0.95
+  },
+  {
+   "text": ":",
+   "conf": 0.8
+  },
+  {
+   "text": "760.99",
+   "conf": 0.71
+  },
+  {
+   "text": "Change",
+   "conf": 0.95
+  },
+  {
+   "text": ";",
+   "conf": 0.33
+  },
+  {
+   "text": "1.30",
+   "conf": 0.85
+  },
+  {
+   "text": "GST",
+   "conf": 0.86
+  },
+  {
+   "text": "Susmary",
+   "conf": 0.34
+  },
+  {
+   "text": "Amount",
+   "conf": 0.43
+  },
+  {
+   "text": "(RH)",
+   "conf": 0.12
+  },
+  {
+   "text": "Tax(RMj",
+   "conf": 0.13
+  },
+  {
+   "text": "SR",
+   "conf": 0.58
+  },
+  {
+   "text": "6",
+   "conf": 0.58
+  },
+  {
+   "text": "%",
+   "conf": 0.61
+  },
+  {
+   "text": "435.28",
+   "conf": 0.45
+  },
+  {
+   "text": "allies",
+   "conf": 0.0
+  },
+  {
+   "text": "ZRL",
+   "conf": 0.5
+  },
+  {
+   "text": "Oz",
+   "conf": 0.19
+  },
+  {
+   "text": "297.30",
+   "conf": 0.77
+  },
+  {
+   "text": "9.09",
+   "conf": 0.44
+  },
+  {
+   "text": "COINlP279",
+   "conf": 0.0
+  },
+  {
+   "text": "6/2/2017",
+   "conf": 0.51
+  },
+  {
+   "text": "12242",
+   "conf": 0.64
+  },
+  {
+   "text": "PM",
+   "conf": 0.5
+  },
+  {
+   "text": "me",
+   "conf": 0.07
+  },
+  {
+   "text": "200e",
+   "conf": 0.0
+  }
+ ],
+ "mean_conf": 0.5438,
+ "low_conf_share": 0.3756,
+ "latency_ms": 2566,
+ "fields": {
+  "company": "YONG SOON FATT S B",
+  "date": "2017-02-06",
+  "total": 753.7
+ },
+ "rule_reasons": [
+  "total_multiple_keyword_amounts"
+ ],
+ "total_candidates": [
+  758.7,
+  753.7
+ ],
+ "key": "X51006335552"
+}

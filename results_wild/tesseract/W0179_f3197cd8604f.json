@@ -1,0 +1,388 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "STAPLES 365 SAVINGS",
+  "Low prices. Every iten. Every day",
+  "He 1108 Price Watch Guarantee Tt.",
+  "345 Park avenue South # 26th Street",
+  "fen York, AY 10010",
+  "(212) 683-9257",
+  "SALE 141949 9.093 17311",
+  "011 07/24/02 11:11",
+  "OTy SKU ”. QUR PRECE",
+  "1100 Pack SPINDLE ¢",
+  "osreegea70¢5, 23.88",
+  "1 160 Pack sPINOLe",
+  "oaveeas27065 29.98",
+  "1 100 PACK SPINOLE &",
+  "og7eess2705 29.94",
+  "suaToTal 39.82",
+  "Standard Tax 8.258 Tat",
+  "Tota 397.23",
+  "cash 40.00",
+  "TOTAL 137.28",
+  "TOTAL ITEMS 3",
+  "Conpare and Save",
+  "with Staples-brand products.",
+  "THalie YOU FOR SHOPPING AT STAPLES!"
+ ],
+ "tokens": [
+  {
+   "text": "STAPLES",
+   "conf": 0.96
+  },
+  {
+   "text": "365",
+   "conf": 0.91
+  },
+  {
+   "text": "SAVINGS",
+   "conf": 0.96
+  },
+  {
+   "text": "Low",
+   "conf": 0.69
+  },
+  {
+   "text": "prices.",
+   "conf": 0.71
+  },
+  {
+   "text": "Every",
+   "conf": 0.86
+  },
+  {
+   "text": "iten.",
+   "conf": 0.5
+  },
+  {
+   "text": "Every",
+   "conf": 0.93
+  },
+  {
+   "text": "day",
+   "conf": 0.81
+  },
+  {
+   "text": "He",
+   "conf": 0.55
+  },
+  {
+   "text": "1108",
+   "conf": 0.82
+  },
+  {
+   "text": "Price",
+   "conf": 0.89
+  },
+  {
+   "text": "Watch",
+   "conf": 0.38
+  },
+  {
+   "text": "Guarantee",
+   "conf": 0.5
+  },
+  {
+   "text": "Tt.",
+   "conf": 0.32
+  },
+  {
+   "text": "345",
+   "conf": 0.78
+  },
+  {
+   "text": "Park",
+   "conf": 0.96
+  },
+  {
+   "text": "avenue",
+   "conf": 0.95
+  },
+  {
+   "text": "South",
+   "conf": 0.93
+  },
+  {
+   "text": "#",
+   "conf": 0.54
+  },
+  {
+   "text": "26th",
+   "conf": 0.95
+  },
+  {
+   "text": "Street",
+   "conf": 0.91
+  },
+  {
+   "text": "fen",
+   "conf": 0.26
+  },
+  {
+   "text": "York,",
+   "conf": 0.46
+  },
+  {
+   "text": "AY",
+   "conf": 0.25
+  },
+  {
+   "text": "10010",
+   "conf": 0.87
+  },
+  {
+   "text": "(212)",
+   "conf": 0.84
+  },
+  {
+   "text": "683-9257",
+   "conf": 0.7
+  },
+  {
+   "text": "SALE",
+   "conf": 0.61
+  },
+  {
+   "text": "141949",
+   "conf": 0.54
+  },
+  {
+   "text": "9.093",
+   "conf": 0.51
+  },
+  {
+   "text": "17311",
+   "conf": 0.51
+  },
+  {
+   "text": "011",
+   "conf": 0.0
+  },
+  {
+   "text": "07/24/02",
+   "conf": 0.7
+  },
+  {
+   "text": "11:11",
+   "conf": 0.74
+  },
+  {
+   "text": "OTy",
+   "conf": 0.32
+  },
+  {
+   "text": "SKU",
+   "conf": 0.53
+  },
+  {
+   "text": "”.",
+   "conf": 0.0
+  },
+  {
+   "text": "QUR",
+   "conf": 0.11
+  },
+  {
+   "text": "PRECE",
+   "conf": 0.73
+  },
+  {
+   "text": "1100",
+   "conf": 0.71
+  },
+  {
+   "text": "Pack",
+   "conf": 0.66
+  },
+  {
+   "text": "SPINDLE",
+   "conf": 0.72
+  },
+  {
+   "text": "¢",
+   "conf": 0.03
+  },
+  {
+   "text": "osreegea70¢5,",
+   "conf": 0.0
+  },
+  {
+   "text": "23.88",
+   "conf": 0.69
+  },
+  {
+   "text": "1",
+   "conf": 0.65
+  },
+  {
+   "text": "160",
+   "conf": 0.29
+  },
+  {
+   "text": "Pack",
+   "conf": 0.69
+  },
+  {
+   "text": "sPINOLe",
+   "conf": 0.0
+  },
+  {
+   "text": "oaveeas27065",
+   "conf": 0.0
+  },
+  {
+   "text": "29.98",
+   "conf": 0.79
+  },
+  {
+   "text": "1",
+   "conf": 0.54
+  },
+  {
+   "text": "100",
+   "conf": 0.54
+  },
+  {
+   "text": "PACK",
+   "conf": 0.0
+  },
+  {
+   "text": "SPINOLE",
+   "conf": 0.81
+  },
+  {
+   "text": "&",
+   "conf": 0.34
+  },
+  {
+   "text": "og7eess2705",
+   "conf": 0.0
+  },
+  {
+   "text": "29.94",
+   "conf": 0.83
+  },
+  {
+   "text": "suaToTal",
+   "conf": 0.0
+  },
+  {
+   "text": "39.82",
+   "conf": 0.76
+  },
+  {
+   "text": "Standard",
+   "conf": 0.62
+  },
+  {
+   "text": "Tax",
+   "conf": 0.92
+  },
+  {
+   "text": "8.258",
+   "conf": 0.73
+  },
+  {
+   "text": "Tat",
+   "conf": 0.66
+  },
+  {
+   "text": "Tota",
+   "conf": 0.65
+  },
+  {
+   "text": "397.23",
+   "conf": 0.45
+  },
+  {
+   "text": "cash",
+   "conf": 0.78
+  },
+  {
+   "text": "40.00",
+   "conf": 0.85
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.9
+  },
+  {
+   "text": "137.28",
+   "conf": 0.7
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.84
+  },
+  {
+   "text": "ITEMS",
+   "conf": 0.78
+  },
+  {
+   "text": "3",
+   "conf": 0.7
+  },
+  {
+   "text": "Conpare",
+   "conf": 0.36
+  },
+  {
+   "text": "and",
+   "conf": 0.79
+  },
+  {
+   "text": "Save",
+   "conf": 0.92
+  },
+  {
+   "text": "with",
+   "conf": 0.93
+  },
+  {
+   "text": "Staples-brand",
+   "conf": 0.79
+  },
+  {
+   "text": "products.",
+   "conf": 0.57
+  },
+  {
+   "text": "THalie",
+   "conf": 0.0
+  },
+  {
+   "text": "YOU",
+   "conf": 0.88
+  },
+  {
+   "text": "FOR",
+   "conf": 0.9
+  },
+  {
+   "text": "SHOPPING",
+   "conf": 0.89
+  },
+  {
+   "text": "AT",
+   "conf": 0.47
+  },
+  {
+   "text": "STAPLES!",
+   "conf": 0.47
+  }
+ ],
+ "mean_conf": 0.6057,
+ "low_conf_share": 0.2674,
+ "latency_ms": 804,
+ "fields": {
+  "company": "STAPLES 365 SAVINGS",
+  "date": "2002-07-24",
+  "total": 137.28
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  137.28
+ ],
+ "key": "W0179_f3197cd8604f"
+}

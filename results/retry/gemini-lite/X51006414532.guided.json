@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.1-flash-lite",
+ "provider": "gemini",
+ "raw_text": "{\n  \"vendor\": \"The GeoVenture (Freedom Optimum Sdn Bhd)\",\n  \"date\": \"2018-06-04\",\n  \"subtotal\": 84.05,\n  \"tax\": 5.54,\n  \"tip\": null,\n  \"discount\": 0.0,\n  \"total\": 98.0,\n  \"currency\": \"MYR\",\n  \"confidence\": 0.95,\n  \"notes\": \"The subtotal of 84.05 plus service charge of 8.41 and GST of 5.54 equals the total of 98.00.\"\n}",
+ "data": {
+  "vendor": "The GeoVenture (Freedom Optimum Sdn Bhd)",
+  "date": "2018-06-04",
+  "subtotal": 84.05,
+  "tax": 5.54,
+  "tip": null,
+  "discount": 0.0,
+  "total": 98.0,
+  "currency": "MYR",
+  "confidence": 0.95,
+  "notes": "The subtotal of 84.05 plus service charge of 8.41 and GST of 5.54 equals the total of 98.00."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1606,
+  "output_tokens": 152,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.000629,
+ "latency_ms": 1671,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.1-flash-lite",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.1-flash-lite"
+ ],
+ "key": "X51006414532"
+}

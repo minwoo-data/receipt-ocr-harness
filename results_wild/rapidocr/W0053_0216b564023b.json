@@ -1,0 +1,168 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "G1T90",
+  "ysem",
+  "QUEENS BLFILLNWA",
+  "36-20 QUEENSBLVD",
+  "LONG ISLAND CITY.NY",
+  "DEALER#:20800068 TernID:04",
+  "02/27/14 11:02:05",
+  "FULL SERVICE Description Qty Price 10.99 Rnount",
+  "PLATINUM 17.00",
+  "LAVA WAX 1 3.99",
+  "Sub Total 31.98",
+  "Totol Tax 31.98 0.00",
+  "Cash(USDs) 40.00",
+  "Change 8.02",
+  "SALE"
+ ],
+ "tokens": [
+  {
+   "text": "G1T90",
+   "conf": 0.7515224575996399
+  },
+  {
+   "text": "ysem",
+   "conf": 0.5554244071245193
+  },
+  {
+   "text": "QUEENS BLFILLNWA",
+   "conf": 0.9501968771219254
+  },
+  {
+   "text": "36-20 QUEENSBLVD",
+   "conf": 0.9645007662475109
+  },
+  {
+   "text": "LONG ISLAND CITY.NY",
+   "conf": 0.9631199146571913
+  },
+  {
+   "text": "DEALER#:20800068",
+   "conf": 0.9772939756512642
+  },
+  {
+   "text": "02/27/14",
+   "conf": 0.992937259376049
+  },
+  {
+   "text": "TernID:04",
+   "conf": 0.9220898813671536
+  },
+  {
+   "text": "11:02:05",
+   "conf": 0.9816227480769157
+  },
+  {
+   "text": "Description",
+   "conf": 0.9893547025593844
+  },
+  {
+   "text": "FULL SERVICE",
+   "conf": 0.9648847679297129
+  },
+  {
+   "text": "Qty",
+   "conf": 0.7835829854011536
+  },
+  {
+   "text": "Price",
+   "conf": 0.989489221572876
+  },
+  {
+   "text": "Rnount",
+   "conf": 0.919778048992157
+  },
+  {
+   "text": "PLATINUM",
+   "conf": 0.9673184603452682
+  },
+  {
+   "text": "10.99",
+   "conf": 0.9786513805389404
+  },
+  {
+   "text": "LAVA WAX",
+   "conf": 0.9193743988871574
+  },
+  {
+   "text": "17.00",
+   "conf": 0.988865602016449
+  },
+  {
+   "text": "1",
+   "conf": 0.9515959024429321
+  },
+  {
+   "text": "3.99",
+   "conf": 0.9331445097923279
+  },
+  {
+   "text": "Sub Total",
+   "conf": 0.9641901254653931
+  },
+  {
+   "text": "31.98",
+   "conf": 0.9799946308135986
+  },
+  {
+   "text": "Tax",
+   "conf": 0.9865736564000448
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9937408268451691
+  },
+  {
+   "text": "Totol",
+   "conf": 0.9755127787590027
+  },
+  {
+   "text": "31.98",
+   "conf": 0.9732110619544982
+  },
+  {
+   "text": "Cash(USDs)",
+   "conf": 0.9123108148574829
+  },
+  {
+   "text": "40.00",
+   "conf": 0.9792728066444397
+  },
+  {
+   "text": "Change",
+   "conf": 0.918690691391627
+  },
+  {
+   "text": "8.02",
+   "conf": 0.9908058792352676
+  },
+  {
+   "text": "SALE",
+   "conf": 0.9947206825017929
+  }
+ ],
+ "mean_conf": 0.9392,
+ "low_conf_share": 0.0,
+ "latency_ms": 2409,
+ "fields": {
+  "company": "YSEM",
+  "date": "2014-02-27",
+  "total": 40.0
+ },
+ "rule_reasons": [
+  "total_no_keyword_fallback_max"
+ ],
+ "total_candidates": [
+  10.99,
+  17.0,
+  3.99,
+  31.98,
+  31.98,
+  0.0,
+  40.0,
+  8.02
+ ],
+ "key": "W0053_0216b564023b"
+}

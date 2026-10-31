@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.1-flash-lite",
+ "provider": "gemini",
+ "raw_text": "{\n  \"vendor\": \"YONG SOON FATT S/B\",\n  \"date\": \"2017-02-06\",\n  \"subtotal\": 732.58,\n  \"tax\": 26.12,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 758.70,\n  \"currency\": \"MYR\",\n  \"confidence\": 0.98,\n  \"notes\": null\n}",
+ "data": {
+  "vendor": "YONG SOON FATT S/B",
+  "date": "2017-02-06",
+  "subtotal": 732.58,
+  "tax": 26.12,
+  "tip": null,
+  "discount": null,
+  "total": 758.7,
+  "currency": "MYR",
+  "confidence": 0.98,
+  "notes": null
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1423,
+  "output_tokens": 115,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.000528,
+ "latency_ms": 3270,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.1-flash-lite",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.1-flash-lite"
+ ],
+ "key": "X51006335552"
+}

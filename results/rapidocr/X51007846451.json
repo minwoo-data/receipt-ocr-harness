@@ -1,0 +1,277 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "1781904",
+  "PASIR EMAS HARDWARE SDN BHD",
+  "(801222-M)",
+  "(GST ID No : 000144596992)",
+  "NO 69,JALANPENGKALAN5,",
+  "TAMANPASIREMAS,",
+  "KG PASIR PUTIH,",
+  "81700PASIRGUDANG,JOHOR.",
+  "Te/Fax: 07-271 2406",
+  "Tax Invoice",
+  "Bill No ：POS/53796",
+  "Date ：23/06/1812:46:33PM",
+  "Cashier : ash",
+  "Payment t: Cash",
+  "Item Qty Price Amount",
+  "PLUGTOP 13A(BIASA-MK) @8.00",
+  "WAAN34 3 8.00 24.00 SRO",
+  "UMS 13A PLUG(SINGLE) @4.00",
+  "ST00014 3 4.00 12.00 SRO",
+  "Gross Amt : 36.00",
+  "GST (6%) : 0.00",
+  "Net Amt : 36.00",
+  "Received 36.00",
+  "Change : 0.00",
+  "Round Adj.: 0.00",
+  "GST Summary Amount(RM) Tax(RM)",
+  "SRO @ 0% 36.00 0.00",
+  "THANK YOU",
+  "PLEASE COMEAGAIN"
+ ],
+ "tokens": [
+  {
+   "text": "1781904",
+   "conf": 0.6081728913954326
+  },
+  {
+   "text": "PASIR EMAS HARDWARE SDN BHD",
+   "conf": 0.929356767071618
+  },
+  {
+   "text": "(801222-M)",
+   "conf": 0.9046363353729248
+  },
+  {
+   "text": "(GST ID No : 000144596992)",
+   "conf": 0.9699783669068263
+  },
+  {
+   "text": "NO 69,JALANPENGKALAN5,",
+   "conf": 0.9587889855558221
+  },
+  {
+   "text": "TAMANPASIREMAS,",
+   "conf": 0.9734903375307719
+  },
+  {
+   "text": "KG PASIR PUTIH,",
+   "conf": 0.9253221035003663
+  },
+  {
+   "text": "81700PASIRGUDANG,JOHOR.",
+   "conf": 0.9627945734106976
+  },
+  {
+   "text": "Te/Fax: 07-271 2406",
+   "conf": 0.9464343503901833
+  },
+  {
+   "text": "Tax Invoice",
+   "conf": 0.9796363657171075
+  },
+  {
+   "text": "Bill No",
+   "conf": 0.935675425188882
+  },
+  {
+   "text": "：POS/53796",
+   "conf": 0.9534753680229187
+  },
+  {
+   "text": "Date",
+   "conf": 0.9931268244981766
+  },
+  {
+   "text": "：23/06/1812:46:33PM",
+   "conf": 0.9652443810513145
+  },
+  {
+   "text": "Cashier : ash",
+   "conf": 0.9343344019009516
+  },
+  {
+   "text": "Payment",
+   "conf": 0.9977551443236214
+  },
+  {
+   "text": "t: Cash",
+   "conf": 0.9422980461801801
+  },
+  {
+   "text": "Item",
+   "conf": 0.960965096950531
+  },
+  {
+   "text": "Qty",
+   "conf": 0.9982903997103373
+  },
+  {
+   "text": "Price",
+   "conf": 0.9841993808746338
+  },
+  {
+   "text": "Amount",
+   "conf": 0.9971500436464945
+  },
+  {
+   "text": "PLUGTOP 13A(BIASA-MK) @8.00",
+   "conf": 0.9584097553182531
+  },
+  {
+   "text": "WAAN34",
+   "conf": 0.9969476262728373
+  },
+  {
+   "text": "3",
+   "conf": 0.9990072846412659
+  },
+  {
+   "text": "8.00",
+   "conf": 0.998639240860939
+  },
+  {
+   "text": "24.00",
+   "conf": 0.9995811700820922
+  },
+  {
+   "text": "SRO",
+   "conf": 0.9821634888648987
+  },
+  {
+   "text": "UMS 13A PLUG(SINGLE) @4.00",
+   "conf": 0.9510109493365655
+  },
+  {
+   "text": "ST00014",
+   "conf": 0.9859922443117414
+  },
+  {
+   "text": "3",
+   "conf": 0.9991394281387329
+  },
+  {
+   "text": "4.00",
+   "conf": 0.9994744211435318
+  },
+  {
+   "text": "12.00",
+   "conf": 0.9996313452720642
+  },
+  {
+   "text": "SRO",
+   "conf": 0.9878718455632528
+  },
+  {
+   "text": "Gross Amt :",
+   "conf": 0.9881093827160922
+  },
+  {
+   "text": "36.00",
+   "conf": 0.9997578501701355
+  },
+  {
+   "text": "GST (6%) :",
+   "conf": 0.982265043258667
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9986519515514374
+  },
+  {
+   "text": "Net Amt :",
+   "conf": 0.9982818696233962
+  },
+  {
+   "text": "36.00",
+   "conf": 0.9998265743255615
+  },
+  {
+   "text": "Received",
+   "conf": 0.994878962635994
+  },
+  {
+   "text": "36.00",
+   "conf": 0.9997186303138733
+  },
+  {
+   "text": "Change :",
+   "conf": 0.9933812767267227
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9988710284233093
+  },
+  {
+   "text": "Round Adj.:",
+   "conf": 0.941981933333657
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9989864677190781
+  },
+  {
+   "text": "GST Summary",
+   "conf": 0.9974694414572283
+  },
+  {
+   "text": "Amount(RM)",
+   "conf": 0.9388265669345855
+  },
+  {
+   "text": "Tax(RM)",
+   "conf": 0.9871400594711304
+  },
+  {
+   "text": "SRO @ 0%",
+   "conf": 0.9591128453612328
+  },
+  {
+   "text": "36.00",
+   "conf": 0.9998451948165894
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9990086406469345
+  },
+  {
+   "text": "THANK YOU",
+   "conf": 0.9617043402459886
+  },
+  {
+   "text": "PLEASE COMEAGAIN",
+   "conf": 0.9732449613511562
+  }
+ ],
+ "mean_conf": 0.9696,
+ "low_conf_share": 0.0,
+ "latency_ms": 13109,
+ "fields": {
+  "company": "PASIR EMAS HARDWARE SDN BHD",
+  "date": null,
+  "total": 36.0
+ },
+ "rule_reasons": [
+  "date_not_found",
+  "total_no_keyword_fallback_max"
+ ],
+ "total_candidates": [
+  8.0,
+  8.0,
+  24.0,
+  4.0,
+  4.0,
+  12.0,
+  36.0,
+  0.0,
+  36.0,
+  36.0,
+  0.0,
+  0.0,
+  36.0,
+  0.0
+ ],
+ "key": "X51007846451"
+}

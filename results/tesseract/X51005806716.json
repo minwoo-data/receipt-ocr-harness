@@ -1,0 +1,485 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  ".__ADVANCO COMPANY",
+  "Company Reg. No. : 7251 86-V",
+  "NO 1&3, Jalan Wangsa Delima 12;",
+  "Wangsa Link, Wangsa Maju,",
+  "53300 Kuala Lumpur",
+  "03-41318972",
+  "GST Reg: 001658445824",
+  "TAX INVOICE",
+  "CBH: 289720 171012018 4 2153",
+  "M# M2-6",
+  "Cashier: c2006- i",
+  "Qty Cescrinten Price Totai :",
+  "UNICORN-Z0CM HALE VHT ERULEF SR",
+  "1 A15961 c30 0.20",
+  "CBE-S217 CBE 7\" SCISSOR 3(2.0MM SR",
+  "1 A27269 #20 6.20 i",
+  "2 Type 2 “Total ae comm",
+  "Total Inclusive GST: 7.00",
+  "CASH 50.00",
+  "Change 43.00",
+  "GST Summary",
+  "Code % _ NetAmt __ GS7_—teisi",
+  "SA rg OE) OO m",
+  "“Total 660 ies 7.00",
+  "Thank you & Please come again.",
+  "Goods sold are not returnable for refund or",
+  "exchange !!"
+ ],
+ "tokens": [
+  {
+   "text": ".__ADVANCO",
+   "conf": 0.29
+  },
+  {
+   "text": "COMPANY",
+   "conf": 0.95
+  },
+  {
+   "text": "Company",
+   "conf": 0.96
+  },
+  {
+   "text": "Reg.",
+   "conf": 0.89
+  },
+  {
+   "text": "No.",
+   "conf": 0.92
+  },
+  {
+   "text": ":",
+   "conf": 0.9
+  },
+  {
+   "text": "7251",
+   "conf": 0.88
+  },
+  {
+   "text": "86-V",
+   "conf": 0.92
+  },
+  {
+   "text": "NO",
+   "conf": 0.95
+  },
+  {
+   "text": "1&3,",
+   "conf": 0.89
+  },
+  {
+   "text": "Jalan",
+   "conf": 0.95
+  },
+  {
+   "text": "Wangsa",
+   "conf": 0.92
+  },
+  {
+   "text": "Delima",
+   "conf": 0.91
+  },
+  {
+   "text": "12;",
+   "conf": 0.7
+  },
+  {
+   "text": "Wangsa",
+   "conf": 0.86
+  },
+  {
+   "text": "Link,",
+   "conf": 0.96
+  },
+  {
+   "text": "Wangsa",
+   "conf": 0.92
+  },
+  {
+   "text": "Maju,",
+   "conf": 0.85
+  },
+  {
+   "text": "53300",
+   "conf": 0.96
+  },
+  {
+   "text": "Kuala",
+   "conf": 0.95
+  },
+  {
+   "text": "Lumpur",
+   "conf": 0.95
+  },
+  {
+   "text": "03-41318972",
+   "conf": 0.89
+  },
+  {
+   "text": "GST",
+   "conf": 0.96
+  },
+  {
+   "text": "Reg:",
+   "conf": 0.94
+  },
+  {
+   "text": "001658445824",
+   "conf": 0.91
+  },
+  {
+   "text": "TAX",
+   "conf": 0.93
+  },
+  {
+   "text": "INVOICE",
+   "conf": 0.93
+  },
+  {
+   "text": "CBH:",
+   "conf": 0.45
+  },
+  {
+   "text": "289720",
+   "conf": 0.9
+  },
+  {
+   "text": "171012018",
+   "conf": 0.58
+  },
+  {
+   "text": "4",
+   "conf": 0.81
+  },
+  {
+   "text": "2153",
+   "conf": 0.7
+  },
+  {
+   "text": "M#",
+   "conf": 0.74
+  },
+  {
+   "text": "M2-6",
+   "conf": 0.74
+  },
+  {
+   "text": "Cashier:",
+   "conf": 0.72
+  },
+  {
+   "text": "c2006-",
+   "conf": 0.22
+  },
+  {
+   "text": "i",
+   "conf": 0.47
+  },
+  {
+   "text": "Qty",
+   "conf": 0.86
+  },
+  {
+   "text": "Cescrinten",
+   "conf": 0.84
+  },
+  {
+   "text": "Price",
+   "conf": 0.31
+  },
+  {
+   "text": "Totai",
+   "conf": 0.9
+  },
+  {
+   "text": ":",
+   "conf": 0.7
+  },
+  {
+   "text": "UNICORN-Z0CM",
+   "conf": 0.41
+  },
+  {
+   "text": "HALE",
+   "conf": 0.95
+  },
+  {
+   "text": "VHT",
+   "conf": 0.39
+  },
+  {
+   "text": "ERULEF",
+   "conf": 0.88
+  },
+  {
+   "text": "SR",
+   "conf": 0.95
+  },
+  {
+   "text": "1",
+   "conf": 0.84
+  },
+  {
+   "text": "A15961",
+   "conf": 0.84
+  },
+  {
+   "text": "c30",
+   "conf": 0.56
+  },
+  {
+   "text": "0.20",
+   "conf": 0.89
+  },
+  {
+   "text": "CBE-S217",
+   "conf": 0.92
+  },
+  {
+   "text": "CBE",
+   "conf": 0.8
+  },
+  {
+   "text": "7\"",
+   "conf": 0.8
+  },
+  {
+   "text": "SCISSOR",
+   "conf": 0.24
+  },
+  {
+   "text": "3(2.0MM",
+   "conf": 0.81
+  },
+  {
+   "text": "SR",
+   "conf": 0.95
+  },
+  {
+   "text": "1",
+   "conf": 0.86
+  },
+  {
+   "text": "A27269",
+   "conf": 0.86
+  },
+  {
+   "text": "#20",
+   "conf": 0.28
+  },
+  {
+   "text": "6.20",
+   "conf": 0.9
+  },
+  {
+   "text": "i",
+   "conf": 0.63
+  },
+  {
+   "text": "2",
+   "conf": 0.94
+  },
+  {
+   "text": "Type",
+   "conf": 0.8
+  },
+  {
+   "text": "2",
+   "conf": 0.55
+  },
+  {
+   "text": "“Total",
+   "conf": 0.51
+  },
+  {
+   "text": "ae",
+   "conf": 0.17
+  },
+  {
+   "text": "comm",
+   "conf": 0.44
+  },
+  {
+   "text": "Total",
+   "conf": 0.95
+  },
+  {
+   "text": "Inclusive",
+   "conf": 0.95
+  },
+  {
+   "text": "GST:",
+   "conf": 0.96
+  },
+  {
+   "text": "7.00",
+   "conf": 0.96
+  },
+  {
+   "text": "CASH",
+   "conf": 0.96
+  },
+  {
+   "text": "50.00",
+   "conf": 0.86
+  },
+  {
+   "text": "Change",
+   "conf": 0.96
+  },
+  {
+   "text": "43.00",
+   "conf": 0.96
+  },
+  {
+   "text": "GST",
+   "conf": 0.95
+  },
+  {
+   "text": "Summary",
+   "conf": 0.95
+  },
+  {
+   "text": "Code",
+   "conf": 0.62
+  },
+  {
+   "text": "%",
+   "conf": 0.52
+  },
+  {
+   "text": "_",
+   "conf": 0.27
+  },
+  {
+   "text": "NetAmt",
+   "conf": 0.27
+  },
+  {
+   "text": "__",
+   "conf": 0.17
+  },
+  {
+   "text": "GS7_—teisi",
+   "conf": 0.0
+  },
+  {
+   "text": "SA",
+   "conf": 0.3
+  },
+  {
+   "text": "rg",
+   "conf": 0.15
+  },
+  {
+   "text": "OE)",
+   "conf": 0.22
+  },
+  {
+   "text": "OO",
+   "conf": 0.06
+  },
+  {
+   "text": "m",
+   "conf": 0.0
+  },
+  {
+   "text": "“Total",
+   "conf": 0.29
+  },
+  {
+   "text": "660",
+   "conf": 0.84
+  },
+  {
+   "text": "ies",
+   "conf": 0.72
+  },
+  {
+   "text": "7.00",
+   "conf": 0.78
+  },
+  {
+   "text": "Thank",
+   "conf": 0.96
+  },
+  {
+   "text": "you",
+   "conf": 0.92
+  },
+  {
+   "text": "&",
+   "conf": 0.92
+  },
+  {
+   "text": "Please",
+   "conf": 0.96
+  },
+  {
+   "text": "come",
+   "conf": 0.96
+  },
+  {
+   "text": "again.",
+   "conf": 0.96
+  },
+  {
+   "text": "Goods",
+   "conf": 0.96
+  },
+  {
+   "text": "sold",
+   "conf": 0.96
+  },
+  {
+   "text": "are",
+   "conf": 0.96
+  },
+  {
+   "text": "not",
+   "conf": 0.96
+  },
+  {
+   "text": "returnable",
+   "conf": 0.45
+  },
+  {
+   "text": "for",
+   "conf": 0.96
+  },
+  {
+   "text": "refund",
+   "conf": 0.96
+  },
+  {
+   "text": "or",
+   "conf": 0.96
+  },
+  {
+   "text": "exchange",
+   "conf": 0.81
+  },
+  {
+   "text": "!!",
+   "conf": 0.9
+  }
+ ],
+ "mean_conf": 0.7466,
+ "low_conf_share": 0.2018,
+ "latency_ms": 2168,
+ "fields": {
+  "company": "ADVANCO COMPANY",
+  "date": null,
+  "total": 7.0
+ },
+ "rule_reasons": [
+  "date_not_found"
+ ],
+ "total_candidates": [
+  7.0
+ ],
+ "key": "X51005806716"
+}

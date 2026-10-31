@@ -1,0 +1,478 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "CARNATIC CAF &",
+  "¢ UNIT OF KRISHNARPAN>",
+  "LER. TAX» NO. AFXPU2Z7439HSDOO1",
+  "oe MASH BSCE",
+  "- ~.6«.CASH ak ige",
+  "+ TapLE 0006 KOTS 01 CUR Fe ee nts",
+  "a lL",
+  "DESCRIPTION QTY Alo! ietemeal",
+  "PADDU 1:00 120-00 120.00",
+  "RAVA IDLI 1-00°110-00 110-00",
+  "RICE OF THE DAY 1.00 130.00 130.00",
+  "RASAM W-PAPAD 2.00 g&00 130.00",
+  "BUTTER MILK 2.00 60-00 120-00",
+  "MALLESHWARAM 18 1:00 130-00 130-00",
+  "KESARI BATH 1:00 85.00 85.00",
+  "FILTER COFFEE 1-00 60-00 60-00",
+  "SUB_TOT ITM= 8 §=10-00 885-00",
+  "VAT @12.50% ON 885.00 110-63",
+  "SRV: TAX @ 4.90% ON 885.00 43.37",
+  "ere ¢ ROUNDED >",
+  "A 1039.",
+  "KOT-NO 8860 3-00",
+  "TEL :NO-011-41008629/20",
+  "C6 14:48:46 M/C NO. 0"
+ ],
+ "tokens": [
+  {
+   "text": "CARNATIC",
+   "conf": 0.06
+  },
+  {
+   "text": "CAF",
+   "conf": 0.79
+  },
+  {
+   "text": "&",
+   "conf": 0.28
+  },
+  {
+   "text": "¢",
+   "conf": 0.79
+  },
+  {
+   "text": "UNIT",
+   "conf": 0.95
+  },
+  {
+   "text": "OF",
+   "conf": 0.92
+  },
+  {
+   "text": "KRISHNARPAN>",
+   "conf": 0.57
+  },
+  {
+   "text": "LER.",
+   "conf": 0.57
+  },
+  {
+   "text": "TAX»",
+   "conf": 0.48
+  },
+  {
+   "text": "NO.",
+   "conf": 0.41
+  },
+  {
+   "text": "AFXPU2Z7439HSDOO1",
+   "conf": 0.27
+  },
+  {
+   "text": "oe",
+   "conf": 0.12
+  },
+  {
+   "text": "MASH",
+   "conf": 0.23
+  },
+  {
+   "text": "BSCE",
+   "conf": 0.23
+  },
+  {
+   "text": "-",
+   "conf": 0.46
+  },
+  {
+   "text": "~.6«.CASH",
+   "conf": 0.3
+  },
+  {
+   "text": "ak",
+   "conf": 0.29
+  },
+  {
+   "text": "ige",
+   "conf": 0.0
+  },
+  {
+   "text": "+",
+   "conf": 0.27
+  },
+  {
+   "text": "TapLE",
+   "conf": 0.31
+  },
+  {
+   "text": "0006",
+   "conf": 0.92
+  },
+  {
+   "text": "KOTS",
+   "conf": 0.92
+  },
+  {
+   "text": "01",
+   "conf": 0.62
+  },
+  {
+   "text": "CUR",
+   "conf": 0.72
+  },
+  {
+   "text": "Fe",
+   "conf": 0.0
+  },
+  {
+   "text": "ee",
+   "conf": 0.04
+  },
+  {
+   "text": "nts",
+   "conf": 0.45
+  },
+  {
+   "text": "a",
+   "conf": 0.46
+  },
+  {
+   "text": "lL",
+   "conf": 0.19
+  },
+  {
+   "text": "DESCRIPTION",
+   "conf": 0.95
+  },
+  {
+   "text": "QTY",
+   "conf": 0.96
+  },
+  {
+   "text": "Alo!",
+   "conf": 0.26
+  },
+  {
+   "text": "ietemeal",
+   "conf": 0.0
+  },
+  {
+   "text": "PADDU",
+   "conf": 0.38
+  },
+  {
+   "text": "1:00",
+   "conf": 0.79
+  },
+  {
+   "text": "120-00",
+   "conf": 0.54
+  },
+  {
+   "text": "120.00",
+   "conf": 0.71
+  },
+  {
+   "text": "RAVA",
+   "conf": 0.88
+  },
+  {
+   "text": "IDLI",
+   "conf": 0.75
+  },
+  {
+   "text": "1-00°110-00",
+   "conf": 0.43
+  },
+  {
+   "text": "110-00",
+   "conf": 0.82
+  },
+  {
+   "text": "RICE",
+   "conf": 0.96
+  },
+  {
+   "text": "OF",
+   "conf": 0.96
+  },
+  {
+   "text": "THE",
+   "conf": 0.96
+  },
+  {
+   "text": "DAY",
+   "conf": 0.96
+  },
+  {
+   "text": "1.00",
+   "conf": 0.87
+  },
+  {
+   "text": "130.00",
+   "conf": 0.07
+  },
+  {
+   "text": "130.00",
+   "conf": 0.9
+  },
+  {
+   "text": "RASAM",
+   "conf": 0.9
+  },
+  {
+   "text": "W-PAPAD",
+   "conf": 0.43
+  },
+  {
+   "text": "2.00",
+   "conf": 0.91
+  },
+  {
+   "text": "g&00",
+   "conf": 0.52
+  },
+  {
+   "text": "130.00",
+   "conf": 0.67
+  },
+  {
+   "text": "BUTTER",
+   "conf": 0.96
+  },
+  {
+   "text": "MILK",
+   "conf": 0.96
+  },
+  {
+   "text": "2.00",
+   "conf": 0.91
+  },
+  {
+   "text": "60-00",
+   "conf": 0.92
+  },
+  {
+   "text": "120-00",
+   "conf": 0.92
+  },
+  {
+   "text": "MALLESHWARAM",
+   "conf": 0.92
+  },
+  {
+   "text": "18",
+   "conf": 0.95
+  },
+  {
+   "text": "1:00",
+   "conf": 0.72
+  },
+  {
+   "text": "130-00",
+   "conf": 0.72
+  },
+  {
+   "text": "130-00",
+   "conf": 0.72
+  },
+  {
+   "text": "KESARI",
+   "conf": 0.92
+  },
+  {
+   "text": "BATH",
+   "conf": 0.96
+  },
+  {
+   "text": "1:00",
+   "conf": 0.92
+  },
+  {
+   "text": "85.00",
+   "conf": 0.93
+  },
+  {
+   "text": "85.00",
+   "conf": 0.56
+  },
+  {
+   "text": "FILTER",
+   "conf": 0.96
+  },
+  {
+   "text": "COFFEE",
+   "conf": 0.96
+  },
+  {
+   "text": "1-00",
+   "conf": 0.92
+  },
+  {
+   "text": "60-00",
+   "conf": 0.95
+  },
+  {
+   "text": "60-00",
+   "conf": 0.8
+  },
+  {
+   "text": "SUB_TOT",
+   "conf": 0.91
+  },
+  {
+   "text": "ITM=",
+   "conf": 0.85
+  },
+  {
+   "text": "8",
+   "conf": 0.95
+  },
+  {
+   "text": "§=10-00",
+   "conf": 0.37
+  },
+  {
+   "text": "885-00",
+   "conf": 0.74
+  },
+  {
+   "text": "VAT",
+   "conf": 0.91
+  },
+  {
+   "text": "@12.50%",
+   "conf": 0.81
+  },
+  {
+   "text": "ON",
+   "conf": 0.9
+  },
+  {
+   "text": "885.00",
+   "conf": 0.71
+  },
+  {
+   "text": "110-63",
+   "conf": 0.76
+  },
+  {
+   "text": "SRV:",
+   "conf": 0.5
+  },
+  {
+   "text": "TAX",
+   "conf": 0.96
+  },
+  {
+   "text": "@",
+   "conf": 0.88
+  },
+  {
+   "text": "4.90%",
+   "conf": 0.94
+  },
+  {
+   "text": "ON",
+   "conf": 0.68
+  },
+  {
+   "text": "885.00",
+   "conf": 0.55
+  },
+  {
+   "text": "43.37",
+   "conf": 0.94
+  },
+  {
+   "text": "ere",
+   "conf": 0.32
+  },
+  {
+   "text": "¢",
+   "conf": 0.0
+  },
+  {
+   "text": "ROUNDED",
+   "conf": 0.0
+  },
+  {
+   "text": ">",
+   "conf": 0.77
+  },
+  {
+   "text": "A",
+   "conf": 0.9
+  },
+  {
+   "text": "1039.",
+   "conf": 0.93
+  },
+  {
+   "text": "KOT-NO",
+   "conf": 0.92
+  },
+  {
+   "text": "8860",
+   "conf": 0.9
+  },
+  {
+   "text": "3-00",
+   "conf": 0.83
+  },
+  {
+   "text": "TEL",
+   "conf": 0.83
+  },
+  {
+   "text": ":NO-011-41008629/20",
+   "conf": 0.63
+  },
+  {
+   "text": "C6",
+   "conf": 0.86
+  },
+  {
+   "text": "14:48:46",
+   "conf": 0.94
+  },
+  {
+   "text": "M/C",
+   "conf": 0.88
+  },
+  {
+   "text": "NO.",
+   "conf": 0.94
+  },
+  {
+   "text": "0",
+   "conf": 0.76
+  }
+ ],
+ "mean_conf": 0.675,
+ "low_conf_share": 0.2736,
+ "latency_ms": 3205,
+ "fields": {
+  "company": "CARNATIC CAF",
+  "date": null,
+  "total": 885.0
+ },
+ "rule_reasons": [
+  "date_not_found",
+  "total_no_keyword_fallback_max"
+ ],
+ "total_candidates": [
+  2.0,
+  85.0,
+  85.0,
+  12.5,
+  885.0,
+  4.9,
+  885.0,
+  43.37
+ ],
+ "key": "W0088_5936232104d3"
+}

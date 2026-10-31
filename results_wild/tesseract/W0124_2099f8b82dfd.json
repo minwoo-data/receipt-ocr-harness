@@ -1,0 +1,292 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "WELCOME TO",
+  "VINELAND SHELL",
+  "SHELL 57 542 99550]",
+  "8783 VINELAND AO S1E0739",
+  "ORLANDO FL eat",
+  "Deser aty sant",
+  "<CUSTONER COPY>",
+  "NLD CR #07 4.2518 25.50",
+  "SELF 0 5.089/ 6",
+  "‘Sub Tote! 2.80",
+  "Tex 0.00",
+  "TOTAL, 25.50",
+  "cReOIT $25.50",
+  "x0 100K 00K 728 DISCOVER",
+  "INVOICE: 484847 AUTH #: 021698",
+  "THANKS .COME AGAIN",
+  "ReGE 0002 CSHE O12 ORE O1 TRANS 25966",
+  "03/2i/16 19:43:54 T@ VINE"
+ ],
+ "tokens": [
+  {
+   "text": "WELCOME",
+   "conf": 0.96
+  },
+  {
+   "text": "TO",
+   "conf": 0.95
+  },
+  {
+   "text": "VINELAND",
+   "conf": 0.95
+  },
+  {
+   "text": "SHELL",
+   "conf": 0.95
+  },
+  {
+   "text": "SHELL",
+   "conf": 0.95
+  },
+  {
+   "text": "57",
+   "conf": 0.77
+  },
+  {
+   "text": "542",
+   "conf": 0.58
+  },
+  {
+   "text": "99550]",
+   "conf": 0.87
+  },
+  {
+   "text": "8783",
+   "conf": 0.73
+  },
+  {
+   "text": "VINELAND",
+   "conf": 0.7
+  },
+  {
+   "text": "AO",
+   "conf": 0.56
+  },
+  {
+   "text": "S1E0739",
+   "conf": 0.02
+  },
+  {
+   "text": "ORLANDO",
+   "conf": 0.4
+  },
+  {
+   "text": "FL",
+   "conf": 0.39
+  },
+  {
+   "text": "eat",
+   "conf": 0.33
+  },
+  {
+   "text": "Deser",
+   "conf": 0.89
+  },
+  {
+   "text": "aty",
+   "conf": 0.81
+  },
+  {
+   "text": "sant",
+   "conf": 0.56
+  },
+  {
+   "text": "<CUSTONER",
+   "conf": 0.57
+  },
+  {
+   "text": "COPY>",
+   "conf": 0.55
+  },
+  {
+   "text": "NLD",
+   "conf": 0.09
+  },
+  {
+   "text": "CR",
+   "conf": 0.77
+  },
+  {
+   "text": "#07",
+   "conf": 0.59
+  },
+  {
+   "text": "4.2518",
+   "conf": 0.54
+  },
+  {
+   "text": "25.50",
+   "conf": 0.54
+  },
+  {
+   "text": "SELF",
+   "conf": 0.95
+  },
+  {
+   "text": "0",
+   "conf": 0.62
+  },
+  {
+   "text": "5.089/",
+   "conf": 0.52
+  },
+  {
+   "text": "6",
+   "conf": 0.87
+  },
+  {
+   "text": "‘Sub",
+   "conf": 0.78
+  },
+  {
+   "text": "Tote!",
+   "conf": 0.84
+  },
+  {
+   "text": "2.80",
+   "conf": 0.41
+  },
+  {
+   "text": "Tex",
+   "conf": 0.86
+  },
+  {
+   "text": "0.00",
+   "conf": 0.82
+  },
+  {
+   "text": "TOTAL,",
+   "conf": 0.9
+  },
+  {
+   "text": "25.50",
+   "conf": 0.94
+  },
+  {
+   "text": "cReOIT",
+   "conf": 0.26
+  },
+  {
+   "text": "$25.50",
+   "conf": 0.48
+  },
+  {
+   "text": "x0",
+   "conf": 0.37
+  },
+  {
+   "text": "100K",
+   "conf": 0.59
+  },
+  {
+   "text": "00K",
+   "conf": 0.15
+  },
+  {
+   "text": "728",
+   "conf": 0.6
+  },
+  {
+   "text": "DISCOVER",
+   "conf": 0.48
+  },
+  {
+   "text": "INVOICE:",
+   "conf": 0.75
+  },
+  {
+   "text": "484847",
+   "conf": 0.75
+  },
+  {
+   "text": "AUTH",
+   "conf": 0.51
+  },
+  {
+   "text": "#:",
+   "conf": 0.74
+  },
+  {
+   "text": "021698",
+   "conf": 0.9
+  },
+  {
+   "text": "THANKS",
+   "conf": 0.88
+  },
+  {
+   "text": ".COME",
+   "conf": 0.53
+  },
+  {
+   "text": "AGAIN",
+   "conf": 0.94
+  },
+  {
+   "text": "ReGE",
+   "conf": 0.0
+  },
+  {
+   "text": "0002",
+   "conf": 0.93
+  },
+  {
+   "text": "CSHE",
+   "conf": 0.72
+  },
+  {
+   "text": "O12",
+   "conf": 0.94
+  },
+  {
+   "text": "ORE",
+   "conf": 0.74
+  },
+  {
+   "text": "O1",
+   "conf": 0.83
+  },
+  {
+   "text": "TRANS",
+   "conf": 0.6
+  },
+  {
+   "text": "25966",
+   "conf": 0.68
+  },
+  {
+   "text": "03/2i/16",
+   "conf": 0.36
+  },
+  {
+   "text": "19:43:54",
+   "conf": 0.59
+  },
+  {
+   "text": "T@",
+   "conf": 0.54
+  },
+  {
+   "text": "VINE",
+   "conf": 0.08
+  }
+ ],
+ "mean_conf": 0.6424,
+ "low_conf_share": 0.2222,
+ "latency_ms": 1138,
+ "fields": {
+  "company": "VINELAND SHELL",
+  "date": null,
+  "total": 25.5
+ },
+ "rule_reasons": [
+  "date_not_found"
+ ],
+ "total_candidates": [
+  25.5
+ ],
+ "key": "W0124_2099f8b82dfd"
+}

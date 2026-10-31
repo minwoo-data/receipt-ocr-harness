@@ -1,0 +1,443 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "79-19 Roosevelt Ave.",
+  "Jackson Heights, NY 11372",
+  "(718) 478-1500",
+  "Server: BAR Station: 3",
+  "Order #: 3124 SALON",
+  "Table: 206 Guests: 1",
+  ">> SETTLED ««",
+  "1 PAN CACHO GDE. 2150",
+  "2 BUNUELOS 2.00",
+  "3 PAN DEBONO 3.00",
+  "2 PAN DE UVA 2.00",
+  "1 HAMBURGUES JAMON QUESO 6.75",
+  "++HELL DONE",
+  "| MARACUYA 3.50",
+  "++ LECHE",
+  "1 CALDO DE COSTILLA 6.45",
+  "ENSALAD DIA",
+  "ESPERE....",
+  "1 CAFE REGULAR Vo",
+  "1 EMPANADA 1.00",
+  "2 PAN QUESO PEQ. 2.00",
+  "Cash Tendered: 40.00",
+  "CHANGE: ‘ -9.55",
+  ">» Ticket #: 400 «",
+  "Created: 1/14/2012 2:17:44 PM",
+  "SETTLED: 1/14/2012 2:54:29 PM",
+  "THANK YOU!",
+  "|",
+  "| |"
+ ],
+ "tokens": [
+  {
+   "text": "79-19",
+   "conf": 0.94
+  },
+  {
+   "text": "Roosevelt",
+   "conf": 0.96
+  },
+  {
+   "text": "Ave.",
+   "conf": 0.94
+  },
+  {
+   "text": "Jackson",
+   "conf": 0.96
+  },
+  {
+   "text": "Heights,",
+   "conf": 0.96
+  },
+  {
+   "text": "NY",
+   "conf": 0.68
+  },
+  {
+   "text": "11372",
+   "conf": 0.96
+  },
+  {
+   "text": "(718)",
+   "conf": 0.95
+  },
+  {
+   "text": "478-1500",
+   "conf": 0.95
+  },
+  {
+   "text": "Server:",
+   "conf": 0.96
+  },
+  {
+   "text": "BAR",
+   "conf": 0.96
+  },
+  {
+   "text": "Station:",
+   "conf": 0.96
+  },
+  {
+   "text": "3",
+   "conf": 0.96
+  },
+  {
+   "text": "Order",
+   "conf": 0.93
+  },
+  {
+   "text": "#:",
+   "conf": 0.91
+  },
+  {
+   "text": "3124",
+   "conf": 0.96
+  },
+  {
+   "text": "SALON",
+   "conf": 0.96
+  },
+  {
+   "text": "Table:",
+   "conf": 0.96
+  },
+  {
+   "text": "206",
+   "conf": 0.96
+  },
+  {
+   "text": "Guests:",
+   "conf": 0.95
+  },
+  {
+   "text": "1",
+   "conf": 0.68
+  },
+  {
+   "text": ">>",
+   "conf": 0.77
+  },
+  {
+   "text": "SETTLED",
+   "conf": 0.89
+  },
+  {
+   "text": "««",
+   "conf": 0.55
+  },
+  {
+   "text": "1",
+   "conf": 0.7
+  },
+  {
+   "text": "PAN",
+   "conf": 0.91
+  },
+  {
+   "text": "CACHO",
+   "conf": 0.91
+  },
+  {
+   "text": "GDE.",
+   "conf": 0.91
+  },
+  {
+   "text": "2150",
+   "conf": 0.44
+  },
+  {
+   "text": "2",
+   "conf": 0.93
+  },
+  {
+   "text": "BUNUELOS",
+   "conf": 0.9
+  },
+  {
+   "text": "2.00",
+   "conf": 0.86
+  },
+  {
+   "text": "3",
+   "conf": 0.95
+  },
+  {
+   "text": "PAN",
+   "conf": 0.93
+  },
+  {
+   "text": "DEBONO",
+   "conf": 0.85
+  },
+  {
+   "text": "3.00",
+   "conf": 0.9
+  },
+  {
+   "text": "2",
+   "conf": 0.94
+  },
+  {
+   "text": "PAN",
+   "conf": 0.95
+  },
+  {
+   "text": "DE",
+   "conf": 0.93
+  },
+  {
+   "text": "UVA",
+   "conf": 0.92
+  },
+  {
+   "text": "2.00",
+   "conf": 0.92
+  },
+  {
+   "text": "1",
+   "conf": 0.81
+  },
+  {
+   "text": "HAMBURGUES",
+   "conf": 0.91
+  },
+  {
+   "text": "JAMON",
+   "conf": 0.92
+  },
+  {
+   "text": "QUESO",
+   "conf": 0.86
+  },
+  {
+   "text": "6.75",
+   "conf": 0.89
+  },
+  {
+   "text": "++HELL",
+   "conf": 0.84
+  },
+  {
+   "text": "DONE",
+   "conf": 0.96
+  },
+  {
+   "text": "|",
+   "conf": 0.58
+  },
+  {
+   "text": "MARACUYA",
+   "conf": 0.91
+  },
+  {
+   "text": "3.50",
+   "conf": 0.9
+  },
+  {
+   "text": "++",
+   "conf": 0.9
+  },
+  {
+   "text": "LECHE",
+   "conf": 0.9
+  },
+  {
+   "text": "1",
+   "conf": 0.61
+  },
+  {
+   "text": "CALDO",
+   "conf": 0.89
+  },
+  {
+   "text": "DE",
+   "conf": 0.91
+  },
+  {
+   "text": "COSTILLA",
+   "conf": 0.91
+  },
+  {
+   "text": "6.45",
+   "conf": 0.92
+  },
+  {
+   "text": "ENSALAD",
+   "conf": 0.92
+  },
+  {
+   "text": "DIA",
+   "conf": 0.96
+  },
+  {
+   "text": "ESPERE....",
+   "conf": 0.86
+  },
+  {
+   "text": "1",
+   "conf": 0.76
+  },
+  {
+   "text": "CAFE",
+   "conf": 0.95
+  },
+  {
+   "text": "REGULAR",
+   "conf": 0.96
+  },
+  {
+   "text": "Vo",
+   "conf": 0.32
+  },
+  {
+   "text": "1",
+   "conf": 0.84
+  },
+  {
+   "text": "EMPANADA",
+   "conf": 0.84
+  },
+  {
+   "text": "1.00",
+   "conf": 0.96
+  },
+  {
+   "text": "2",
+   "conf": 0.95
+  },
+  {
+   "text": "PAN",
+   "conf": 0.91
+  },
+  {
+   "text": "QUESO",
+   "conf": 0.86
+  },
+  {
+   "text": "PEQ.",
+   "conf": 0.84
+  },
+  {
+   "text": "2.00",
+   "conf": 0.89
+  },
+  {
+   "text": "Cash",
+   "conf": 0.93
+  },
+  {
+   "text": "Tendered:",
+   "conf": 0.91
+  },
+  {
+   "text": "40.00",
+   "conf": 0.67
+  },
+  {
+   "text": "CHANGE:",
+   "conf": 0.93
+  },
+  {
+   "text": "‘",
+   "conf": 0.0
+  },
+  {
+   "text": "-9.55",
+   "conf": 0.5
+  },
+  {
+   "text": ">»",
+   "conf": 0.31
+  },
+  {
+   "text": "Ticket",
+   "conf": 0.89
+  },
+  {
+   "text": "#:",
+   "conf": 0.86
+  },
+  {
+   "text": "400",
+   "conf": 0.91
+  },
+  {
+   "text": "«",
+   "conf": 0.47
+  },
+  {
+   "text": "Created:",
+   "conf": 0.96
+  },
+  {
+   "text": "1/14/2012",
+   "conf": 0.96
+  },
+  {
+   "text": "2:17:44",
+   "conf": 0.96
+  },
+  {
+   "text": "PM",
+   "conf": 0.96
+  },
+  {
+   "text": "SETTLED:",
+   "conf": 0.95
+  },
+  {
+   "text": "1/14/2012",
+   "conf": 0.96
+  },
+  {
+   "text": "2:54:29",
+   "conf": 0.96
+  },
+  {
+   "text": "PM",
+   "conf": 0.96
+  },
+  {
+   "text": "THANK",
+   "conf": 0.95
+  },
+  {
+   "text": "YOU!",
+   "conf": 0.96
+  },
+  {
+   "text": "|",
+   "conf": 0.85
+  },
+  {
+   "text": "|",
+   "conf": 0.63
+  },
+  {
+   "text": "|",
+   "conf": 0.69
+  }
+ ],
+ "mean_conf": 0.8565,
+ "low_conf_share": 0.0515,
+ "latency_ms": 1624,
+ "fields": {
+  "company": "JACKSON HEIGHTS NY",
+  "date": "2012-01-14",
+  "total": 40.0
+ },
+ "rule_reasons": [
+  "total_no_keyword_fallback_max"
+ ],
+ "total_candidates": [
+  6.45,
+  1.0,
+  2.0,
+  40.0,
+  -9.55
+ ],
+ "key": "W0022_4d728e1b8661"
+}

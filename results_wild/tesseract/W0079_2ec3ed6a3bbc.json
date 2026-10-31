@@ -1,0 +1,291 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "<California",
+  "California Pizza Kitchen(TkO)",
+  "‘Shop Untt F10, Popcorn,",
+  "9 Tong Yin Street, Tseung Kwan 0.,",
+  "ae",
+  "Tel :(852)3902-3675 Fax: (€52)3902-3433",
+  "Table i 9, A Cover 1",
+  "Ofek iter",
+  "309222 ae",
+  "ante MIB 1-004 Pay",
+  "Desertat ion Oty Anon m",
+  "Pcitreeme 1 an fl",
+  "eae ie",
+  "I satis St ori",
+  "ites 1 120,00",
+  "ae 1",
+  "= Spicy a",
+  "Se",
+  "el ee",
+  "tal :$124.60"
+ ],
+ "tokens": [
+  {
+   "text": "<California",
+   "conf": 0.84
+  },
+  {
+   "text": "California",
+   "conf": 0.87
+  },
+  {
+   "text": "Pizza",
+   "conf": 0.72
+  },
+  {
+   "text": "Kitchen(TkO)",
+   "conf": 0.38
+  },
+  {
+   "text": "‘Shop",
+   "conf": 0.86
+  },
+  {
+   "text": "Untt",
+   "conf": 0.71
+  },
+  {
+   "text": "F10,",
+   "conf": 0.81
+  },
+  {
+   "text": "Popcorn,",
+   "conf": 0.33
+  },
+  {
+   "text": "9",
+   "conf": 0.65
+  },
+  {
+   "text": "Tong",
+   "conf": 0.65
+  },
+  {
+   "text": "Yin",
+   "conf": 0.81
+  },
+  {
+   "text": "Street,",
+   "conf": 0.84
+  },
+  {
+   "text": "Tseung",
+   "conf": 0.84
+  },
+  {
+   "text": "Kwan",
+   "conf": 0.87
+  },
+  {
+   "text": "0.,",
+   "conf": 0.56
+  },
+  {
+   "text": "ae",
+   "conf": 0.39
+  },
+  {
+   "text": "Tel",
+   "conf": 0.75
+  },
+  {
+   "text": ":(852)3902-3675",
+   "conf": 0.38
+  },
+  {
+   "text": "Fax:",
+   "conf": 0.43
+  },
+  {
+   "text": "(€52)3902-3433",
+   "conf": 0.43
+  },
+  {
+   "text": "Table",
+   "conf": 0.85
+  },
+  {
+   "text": "i",
+   "conf": 0.76
+  },
+  {
+   "text": "9,",
+   "conf": 0.71
+  },
+  {
+   "text": "A",
+   "conf": 0.72
+  },
+  {
+   "text": "Cover",
+   "conf": 0.91
+  },
+  {
+   "text": "1",
+   "conf": 0.86
+  },
+  {
+   "text": "Ofek",
+   "conf": 0.22
+  },
+  {
+   "text": "iter",
+   "conf": 0.0
+  },
+  {
+   "text": "309222",
+   "conf": 0.94
+  },
+  {
+   "text": "ae",
+   "conf": 0.52
+  },
+  {
+   "text": "ante",
+   "conf": 0.1
+  },
+  {
+   "text": "MIB",
+   "conf": 0.17
+  },
+  {
+   "text": "1-004",
+   "conf": 0.28
+  },
+  {
+   "text": "Pay",
+   "conf": 0.2
+  },
+  {
+   "text": "Desertat",
+   "conf": 0.36
+  },
+  {
+   "text": "ion",
+   "conf": 0.59
+  },
+  {
+   "text": "Oty",
+   "conf": 0.58
+  },
+  {
+   "text": "Anon",
+   "conf": 0.0
+  },
+  {
+   "text": "m",
+   "conf": 0.0
+  },
+  {
+   "text": "Pcitreeme",
+   "conf": 0.0
+  },
+  {
+   "text": "1",
+   "conf": 0.35
+  },
+  {
+   "text": "an",
+   "conf": 0.28
+  },
+  {
+   "text": "fl",
+   "conf": 0.24
+  },
+  {
+   "text": "eae",
+   "conf": 0.29
+  },
+  {
+   "text": "ie",
+   "conf": 0.22
+  },
+  {
+   "text": "I",
+   "conf": 0.0
+  },
+  {
+   "text": "satis",
+   "conf": 0.17
+  },
+  {
+   "text": "St",
+   "conf": 0.17
+  },
+  {
+   "text": "ori",
+   "conf": 0.19
+  },
+  {
+   "text": "ites",
+   "conf": 0.63
+  },
+  {
+   "text": "1",
+   "conf": 0.78
+  },
+  {
+   "text": "120,00",
+   "conf": 0.89
+  },
+  {
+   "text": "ae",
+   "conf": 0.23
+  },
+  {
+   "text": "1",
+   "conf": 0.74
+  },
+  {
+   "text": "=",
+   "conf": 0.75
+  },
+  {
+   "text": "Spicy",
+   "conf": 0.78
+  },
+  {
+   "text": "a",
+   "conf": 0.31
+  },
+  {
+   "text": "Se",
+   "conf": 0.22
+  },
+  {
+   "text": "el",
+   "conf": 0.18
+  },
+  {
+   "text": "ee",
+   "conf": 0.3
+  },
+  {
+   "text": "tal",
+   "conf": 0.22
+  },
+  {
+   "text": ":$124.60",
+   "conf": 0.31
+  }
+ ],
+ "mean_conf": 0.4861,
+ "low_conf_share": 0.5161,
+ "latency_ms": 329,
+ "fields": {
+  "company": "CALIFORNIA",
+  "date": null,
+  "total": 124.6
+ },
+ "rule_reasons": [
+  "date_not_found",
+  "total_no_keyword_fallback_max"
+ ],
+ "total_candidates": [
+  124.6
+ ],
+ "key": "W0079_2ec3ed6a3bbc"
+}

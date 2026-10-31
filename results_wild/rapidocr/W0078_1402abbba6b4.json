@@ -1,0 +1,149 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "2Orchard Link",
+  "02-43 Scape",
+  "Singapore 237978",
+  "Tel:66349498",
+  "GST REGN NO:M2-0023981-4",
+  "TAX INVOICE",
+  "MFY Side 1/ DESSSide S",
+  "INV# 001570100090376",
+  "ORD #67-REG #1-13/06/201614:41:24",
+  "QTY ITEM TOTAL",
+  "1SuperRed Burger Upz 8.55",
+  "1Med Ice Lemon Tea 0.50",
+  "1Super Red Burger 6.10",
+  "1McFlurry LemonCustard 2.90",
+  "Subtotal 18.05",
+  "Take-Out Total (incl GST) 18.05",
+  "Cashless Visa 18.05",
+  "TOTAL INCLUDES GST OF 1.18"
+ ],
+ "tokens": [
+  {
+   "text": "2Orchard Link",
+   "conf": 0.9444970947045547
+  },
+  {
+   "text": "02-43 Scape",
+   "conf": 0.9519044811075384
+  },
+  {
+   "text": "Singapore 237978",
+   "conf": 0.9746734648942947
+  },
+  {
+   "text": "Tel:66349498",
+   "conf": 0.97978342572848
+  },
+  {
+   "text": "GST REGN NO:M2-0023981-4",
+   "conf": 0.9813220327099165
+  },
+  {
+   "text": "TAX INVOICE",
+   "conf": 0.9867752736265009
+  },
+  {
+   "text": "MFY Side 1/ DESSSide S",
+   "conf": 0.9132983820004896
+  },
+  {
+   "text": "INV# 001570100090376",
+   "conf": 0.9723067253828048
+  },
+  {
+   "text": "ORD #67-REG #1-13/06/201614:41:24",
+   "conf": 0.9633407087037058
+  },
+  {
+   "text": "QTY ITEM",
+   "conf": 0.9761161059141159
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.9869847297668457
+  },
+  {
+   "text": "1SuperRed Burger Upz",
+   "conf": 0.9632217049598694
+  },
+  {
+   "text": "8.55",
+   "conf": 0.9977917671203613
+  },
+  {
+   "text": "1Med Ice Lemon Tea",
+   "conf": 0.9652033613787757
+  },
+  {
+   "text": "0.50",
+   "conf": 0.9983421415090561
+  },
+  {
+   "text": "1Super Red Burger",
+   "conf": 0.9806147568366107
+  },
+  {
+   "text": "6.10",
+   "conf": 0.9970396757125854
+  },
+  {
+   "text": "1McFlurry LemonCustard",
+   "conf": 0.9720986404202201
+  },
+  {
+   "text": "2.90",
+   "conf": 0.9973417371511459
+  },
+  {
+   "text": "Subtotal",
+   "conf": 0.990149475634098
+  },
+  {
+   "text": "18.05",
+   "conf": 0.9938340067863465
+  },
+  {
+   "text": "Take-Out Total (incl GST)",
+   "conf": 0.9155558133125306
+  },
+  {
+   "text": "18.05",
+   "conf": 0.9967460632324219
+  },
+  {
+   "text": "Cashless Visa",
+   "conf": 0.9877170416025015
+  },
+  {
+   "text": "18.05",
+   "conf": 0.9969494700431824
+  },
+  {
+   "text": "TOTAL INCLUDES GST OF",
+   "conf": 0.9521975545656114
+  },
+  {
+   "text": "1.18",
+   "conf": 0.9949762523174286
+  }
+ ],
+ "mean_conf": 0.9752,
+ "low_conf_share": 0.0,
+ "latency_ms": 4041,
+ "fields": {
+  "company": "SINGAPORE",
+  "date": "2006-01-13",
+  "total": 1.18
+ },
+ "rule_reasons": [
+  "total_multiple_strong_amounts"
+ ],
+ "total_candidates": [
+  18.05,
+  1.18
+ ],
+ "key": "W0078_1402abbba6b4"
+}

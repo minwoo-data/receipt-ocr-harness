@@ -1,0 +1,124 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "Welcome to Dunkin\" Donuts",
+  "Eat In",
+  "Order Number: 328",
+  "1 Donut * 95",
+  "$0.0;",
+  "HEY AMERICA!",
+  "NAT A FREE DONUT WEN YOU PURIASE A"
+ ],
+ "tokens": [
+  {
+   "text": "Welcome",
+   "conf": 0.92
+  },
+  {
+   "text": "to",
+   "conf": 0.96
+  },
+  {
+   "text": "Dunkin\"",
+   "conf": 0.0
+  },
+  {
+   "text": "Donuts",
+   "conf": 0.0
+  },
+  {
+   "text": "Eat",
+   "conf": 0.96
+  },
+  {
+   "text": "In",
+   "conf": 0.96
+  },
+  {
+   "text": "Order",
+   "conf": 0.95
+  },
+  {
+   "text": "Number:",
+   "conf": 0.95
+  },
+  {
+   "text": "328",
+   "conf": 0.9
+  },
+  {
+   "text": "1",
+   "conf": 0.92
+  },
+  {
+   "text": "Donut",
+   "conf": 0.9
+  },
+  {
+   "text": "*",
+   "conf": 0.46
+  },
+  {
+   "text": "95",
+   "conf": 0.9
+  },
+  {
+   "text": "$0.0;",
+   "conf": 0.71
+  },
+  {
+   "text": "HEY",
+   "conf": 0.84
+  },
+  {
+   "text": "AMERICA!",
+   "conf": 0.81
+  },
+  {
+   "text": "NAT",
+   "conf": 0.31
+  },
+  {
+   "text": "A",
+   "conf": 0.67
+  },
+  {
+   "text": "FREE",
+   "conf": 0.67
+  },
+  {
+   "text": "DONUT",
+   "conf": 0.58
+  },
+  {
+   "text": "WEN",
+   "conf": 0.83
+  },
+  {
+   "text": "YOU",
+   "conf": 0.93
+  },
+  {
+   "text": "PURIASE",
+   "conf": 0.0
+  },
+  {
+   "text": "A",
+   "conf": 0.95
+  }
+ ],
+ "mean_conf": 0.7117,
+ "low_conf_share": 0.2083,
+ "latency_ms": 384,
+ "fields": {
+  "company": "EAT IN",
+  "date": null,
+  "total": null
+ },
+ "rule_reasons": [
+  "date_not_found",
+  "total_not_found"
+ ],
+ "total_candidates": [],
+ "key": "W0042_fdf94fd7668b"
+}

@@ -1,0 +1,435 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "f .",
+  "NYONYA COLORS @ 1 UTAMA",
+  "LITTLE CRAVINGS SDN BHD (562007-D)",
+  "HQ: 7, J1n SS21/34, 47400 PJ",
+  "TEL-03 77282288 (GST ID 001382293504)",
+  "MC #01",
+  "REG CASHIER 18-03-2018 11:23",
+  "TaxInvNo. 1 #OOO0001",
+  "KUIH KETAYAP RM2.70 S",
+  "ONDEH ONDEH RM2.95 §",
+  "YELLOW LAKSA RM11. 60 S",
+  "| YELLOW LAKSA RM11.60 S",
+  "YELLOW LAKSA RM11.60 S",
+  "AIR SEJUK Ri. 65 §",
+  "| CENDOL RM5. 30 S",
+  "CHEE CHEONG FUN (SOS) = RM7.20 $",
+  "8 No",
+  "SUBTOTAL RM53. 60",
+  "CASH RM100. 00",
+  "CHANGE RM46. 40",
+  "TAXABLE AMOUNT RM50. 57",
+  "| 6% GST RM3. 03",
+  "THANK YOU '! PLEASE COME AGAIN"
+ ],
+ "tokens": [
+  {
+   "text": "f",
+   "conf": 0.0
+  },
+  {
+   "text": ".",
+   "conf": 0.17
+  },
+  {
+   "text": "NYONYA",
+   "conf": 0.9
+  },
+  {
+   "text": "COLORS",
+   "conf": 0.91
+  },
+  {
+   "text": "@",
+   "conf": 0.91
+  },
+  {
+   "text": "1",
+   "conf": 0.93
+  },
+  {
+   "text": "UTAMA",
+   "conf": 0.91
+  },
+  {
+   "text": "LITTLE",
+   "conf": 0.95
+  },
+  {
+   "text": "CRAVINGS",
+   "conf": 0.95
+  },
+  {
+   "text": "SDN",
+   "conf": 0.96
+  },
+  {
+   "text": "BHD",
+   "conf": 0.93
+  },
+  {
+   "text": "(562007-D)",
+   "conf": 0.91
+  },
+  {
+   "text": "HQ:",
+   "conf": 0.94
+  },
+  {
+   "text": "7,",
+   "conf": 0.28
+  },
+  {
+   "text": "J1n",
+   "conf": 0.28
+  },
+  {
+   "text": "SS21/34,",
+   "conf": 0.81
+  },
+  {
+   "text": "47400",
+   "conf": 0.95
+  },
+  {
+   "text": "PJ",
+   "conf": 0.94
+  },
+  {
+   "text": "TEL-03",
+   "conf": 0.81
+  },
+  {
+   "text": "77282288",
+   "conf": 0.95
+  },
+  {
+   "text": "(GST",
+   "conf": 0.95
+  },
+  {
+   "text": "ID",
+   "conf": 0.96
+  },
+  {
+   "text": "001382293504)",
+   "conf": 0.96
+  },
+  {
+   "text": "MC",
+   "conf": 0.94
+  },
+  {
+   "text": "#01",
+   "conf": 0.9
+  },
+  {
+   "text": "REG",
+   "conf": 0.94
+  },
+  {
+   "text": "CASHIER",
+   "conf": 0.94
+  },
+  {
+   "text": "18-03-2018",
+   "conf": 0.95
+  },
+  {
+   "text": "11:23",
+   "conf": 0.96
+  },
+  {
+   "text": "TaxInvNo.",
+   "conf": 0.86
+  },
+  {
+   "text": "1",
+   "conf": 0.6
+  },
+  {
+   "text": "#OOO0001",
+   "conf": 0.5
+  },
+  {
+   "text": "KUIH",
+   "conf": 0.91
+  },
+  {
+   "text": "KETAYAP",
+   "conf": 0.91
+  },
+  {
+   "text": "RM2.70",
+   "conf": 0.82
+  },
+  {
+   "text": "S",
+   "conf": 0.85
+  },
+  {
+   "text": "ONDEH",
+   "conf": 0.91
+  },
+  {
+   "text": "ONDEH",
+   "conf": 0.91
+  },
+  {
+   "text": "RM2.95",
+   "conf": 0.86
+  },
+  {
+   "text": "§",
+   "conf": 0.32
+  },
+  {
+   "text": "YELLOW",
+   "conf": 0.93
+  },
+  {
+   "text": "LAKSA",
+   "conf": 0.92
+  },
+  {
+   "text": "RM11.",
+   "conf": 0.32
+  },
+  {
+   "text": "60",
+   "conf": 0.32
+  },
+  {
+   "text": "S",
+   "conf": 0.36
+  },
+  {
+   "text": "|",
+   "conf": 0.67
+  },
+  {
+   "text": "YELLOW",
+   "conf": 0.93
+  },
+  {
+   "text": "LAKSA",
+   "conf": 0.91
+  },
+  {
+   "text": "RM11.60",
+   "conf": 0.88
+  },
+  {
+   "text": "S",
+   "conf": 0.59
+  },
+  {
+   "text": "YELLOW",
+   "conf": 0.93
+  },
+  {
+   "text": "LAKSA",
+   "conf": 0.91
+  },
+  {
+   "text": "RM11.60",
+   "conf": 0.87
+  },
+  {
+   "text": "S",
+   "conf": 0.39
+  },
+  {
+   "text": "AIR",
+   "conf": 0.91
+  },
+  {
+   "text": "SEJUK",
+   "conf": 0.91
+  },
+  {
+   "text": "Ri.",
+   "conf": 0.27
+  },
+  {
+   "text": "65",
+   "conf": 0.8
+  },
+  {
+   "text": "§",
+   "conf": 0.67
+  },
+  {
+   "text": "|",
+   "conf": 0.64
+  },
+  {
+   "text": "CENDOL",
+   "conf": 0.91
+  },
+  {
+   "text": "RM5.",
+   "conf": 0.83
+  },
+  {
+   "text": "30",
+   "conf": 0.87
+  },
+  {
+   "text": "S",
+   "conf": 0.75
+  },
+  {
+   "text": "CHEE",
+   "conf": 0.93
+  },
+  {
+   "text": "CHEONG",
+   "conf": 0.9
+  },
+  {
+   "text": "FUN",
+   "conf": 0.95
+  },
+  {
+   "text": "(SOS)",
+   "conf": 0.75
+  },
+  {
+   "text": "=",
+   "conf": 0.48
+  },
+  {
+   "text": "RM7.20",
+   "conf": 0.12
+  },
+  {
+   "text": "$",
+   "conf": 0.33
+  },
+  {
+   "text": "8",
+   "conf": 0.95
+  },
+  {
+   "text": "No",
+   "conf": 0.95
+  },
+  {
+   "text": "SUBTOTAL",
+   "conf": 0.96
+  },
+  {
+   "text": "RM53.",
+   "conf": 0.9
+  },
+  {
+   "text": "60",
+   "conf": 0.96
+  },
+  {
+   "text": "CASH",
+   "conf": 0.96
+  },
+  {
+   "text": "RM100.",
+   "conf": 0.86
+  },
+  {
+   "text": "00",
+   "conf": 0.95
+  },
+  {
+   "text": "CHANGE",
+   "conf": 0.82
+  },
+  {
+   "text": "RM46.",
+   "conf": 0.9
+  },
+  {
+   "text": "40",
+   "conf": 0.96
+  },
+  {
+   "text": "TAXABLE",
+   "conf": 0.95
+  },
+  {
+   "text": "AMOUNT",
+   "conf": 0.95
+  },
+  {
+   "text": "RM50.",
+   "conf": 0.76
+  },
+  {
+   "text": "57",
+   "conf": 0.95
+  },
+  {
+   "text": "|",
+   "conf": 0.8
+  },
+  {
+   "text": "6%",
+   "conf": 0.96
+  },
+  {
+   "text": "GST",
+   "conf": 0.96
+  },
+  {
+   "text": "RM3.",
+   "conf": 0.89
+  },
+  {
+   "text": "03",
+   "conf": 0.96
+  },
+  {
+   "text": "THANK",
+   "conf": 0.96
+  },
+  {
+   "text": "YOU",
+   "conf": 0.92
+  },
+  {
+   "text": "'!",
+   "conf": 0.0
+  },
+  {
+   "text": "PLEASE",
+   "conf": 0.96
+  },
+  {
+   "text": "COME",
+   "conf": 0.96
+  },
+  {
+   "text": "AGAIN",
+   "conf": 0.96
+  }
+ ],
+ "mean_conf": 0.7979,
+ "low_conf_share": 0.1443,
+ "latency_ms": 1895,
+ "fields": {
+  "company": "LITTLE CRAVINGS SDN BHD",
+  "date": "2018-03-18",
+  "total": 11.6
+ },
+ "rule_reasons": [
+  "total_no_keyword_fallback_max"
+ ],
+ "total_candidates": [
+  11.6,
+  11.6,
+  7.2
+ ],
+ "key": "X51005719899"
+}

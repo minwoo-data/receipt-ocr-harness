@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.6-flash",
+ "provider": "gemini",
+ "raw_text": "{\"vendor\":\"F W WOOLWORTH #2280\",\"date\":\"1997-09-20\",\"subtotal\":18.14,\"tax\":1.2,\"tip\":null,\"discount\":-1.73,\"total\":19.34,\"currency\":\"USD\",\"confidence\":0.95,\"notes\":null}",
+ "data": {
+  "vendor": "F W WOOLWORTH #2280",
+  "date": "1997-09-20",
+  "subtotal": 18.14,
+  "tax": 1.2,
+  "tip": null,
+  "discount": -1.73,
+  "total": 19.34,
+  "currency": "USD",
+  "confidence": 0.95,
+  "notes": null
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1461,
+  "output_tokens": 77,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.001385,
+ "latency_ms": 1292,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.6-flash",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.6-flash"
+ ],
+ "key": "W0005_9f913b5d2994"
+}

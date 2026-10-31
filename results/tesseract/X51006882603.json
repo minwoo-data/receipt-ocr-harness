@@ -1,0 +1,645 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "TAX INVOICE",
+  "Eco-Shop Marketing Sdn Bhd",
+  "\"GST Reg. No: 000313901056",
+  "Company No: 734055-M",
+  "Lot F1-01, 6, Jalan 8/27A,",
+  "Seksyen 5 Wangsa Maju,",
+  "53300 Kuala Lumpur,",
+  "Wilayah Persekutuan Kuala",
+  "Lumpur, Malaysia.",
+  "INV No # : BWMCO2000047293",
+  "26/02/2018 17:31",
+  "CS : ROSSYAFIQAH ANIS BINTI",
+  "RAMLI [BWM0034",
+  "STK Qty RM",
+  "JT5501 - CHOPSTICK HOLDER",
+  "721",
+  "65045039@2. 33 1 2.33",
+  "PLIERS 6\" 110G 120PCS(PELAYAR",
+  "74020030@2. 33 1 a3",
+  "771-2 MULTI PURPOSE FOOD",
+  "TONGS",
+  "63065005@2.33 3 6.99",
+  "LS301 SCALESCRAPER -LARGE",
+  "360",
+  "63165004@2.33 1 2.33",
+  "PVC WALL PLUG 4'S 240/10-(PLUG",
+  "74065001@2. 33 1 2.33",
+  "Total : 216.38",
+  "Rounding Adj : -0.01",
+  "Balance Due: 16.30",
+  "Payment (Cash) : 17.00",
+  "Change (Cash) : 0.70",
+  "GST Summary",
+  "SR 6% 15.40 0.91",
+  "ZR 0% 0.00 0.00",
+  "U0 A A",
+  "Produce Bill for Exchange",
+  "Within 3 Days No Cash Refund",
+  "+100 Thank you 146454",
+  "1+9* Please Come Again 4 +++?",
+  "ae |. (4 tae a =63©|——™— (lCU"
+ ],
+ "tokens": [
+  {
+   "text": "TAX",
+   "conf": 0.95
+  },
+  {
+   "text": "INVOICE",
+   "conf": 0.95
+  },
+  {
+   "text": "Eco-Shop",
+   "conf": 0.91
+  },
+  {
+   "text": "Marketing",
+   "conf": 0.96
+  },
+  {
+   "text": "Sdn",
+   "conf": 0.78
+  },
+  {
+   "text": "Bhd",
+   "conf": 0.96
+  },
+  {
+   "text": "\"GST",
+   "conf": 0.37
+  },
+  {
+   "text": "Reg.",
+   "conf": 0.86
+  },
+  {
+   "text": "No:",
+   "conf": 0.65
+  },
+  {
+   "text": "000313901056",
+   "conf": 0.91
+  },
+  {
+   "text": "Company",
+   "conf": 0.96
+  },
+  {
+   "text": "No:",
+   "conf": 0.89
+  },
+  {
+   "text": "734055-M",
+   "conf": 0.92
+  },
+  {
+   "text": "Lot",
+   "conf": 0.91
+  },
+  {
+   "text": "F1-01,",
+   "conf": 0.84
+  },
+  {
+   "text": "6,",
+   "conf": 0.95
+  },
+  {
+   "text": "Jalan",
+   "conf": 0.92
+  },
+  {
+   "text": "8/27A,",
+   "conf": 0.88
+  },
+  {
+   "text": "Seksyen",
+   "conf": 0.92
+  },
+  {
+   "text": "5",
+   "conf": 0.93
+  },
+  {
+   "text": "Wangsa",
+   "conf": 0.91
+  },
+  {
+   "text": "Maju,",
+   "conf": 0.96
+  },
+  {
+   "text": "53300",
+   "conf": 0.95
+  },
+  {
+   "text": "Kuala",
+   "conf": 0.95
+  },
+  {
+   "text": "Lumpur,",
+   "conf": 0.96
+  },
+  {
+   "text": "Wilayah",
+   "conf": 0.91
+  },
+  {
+   "text": "Persekutuan",
+   "conf": 0.9
+  },
+  {
+   "text": "Kuala",
+   "conf": 0.96
+  },
+  {
+   "text": "Lumpur,",
+   "conf": 0.91
+  },
+  {
+   "text": "Malaysia.",
+   "conf": 0.93
+  },
+  {
+   "text": "INV",
+   "conf": 0.96
+  },
+  {
+   "text": "No",
+   "conf": 0.93
+  },
+  {
+   "text": "#",
+   "conf": 0.88
+  },
+  {
+   "text": ":",
+   "conf": 0.63
+  },
+  {
+   "text": "BWMCO2000047293",
+   "conf": 0.57
+  },
+  {
+   "text": "26/02/2018",
+   "conf": 0.96
+  },
+  {
+   "text": "17:31",
+   "conf": 0.96
+  },
+  {
+   "text": "CS",
+   "conf": 0.9
+  },
+  {
+   "text": ":",
+   "conf": 0.76
+  },
+  {
+   "text": "ROSSYAFIQAH",
+   "conf": 0.9
+  },
+  {
+   "text": "ANIS",
+   "conf": 0.82
+  },
+  {
+   "text": "BINTI",
+   "conf": 0.9
+  },
+  {
+   "text": "RAMLI",
+   "conf": 0.91
+  },
+  {
+   "text": "[BWM0034",
+   "conf": 0.77
+  },
+  {
+   "text": "STK",
+   "conf": 0.96
+  },
+  {
+   "text": "Qty",
+   "conf": 0.48
+  },
+  {
+   "text": "RM",
+   "conf": 0.96
+  },
+  {
+   "text": "JT5501",
+   "conf": 0.65
+  },
+  {
+   "text": "-",
+   "conf": 0.92
+  },
+  {
+   "text": "CHOPSTICK",
+   "conf": 0.92
+  },
+  {
+   "text": "HOLDER",
+   "conf": 0.96
+  },
+  {
+   "text": "721",
+   "conf": 0.58
+  },
+  {
+   "text": "65045039@2.",
+   "conf": 0.89
+  },
+  {
+   "text": "33",
+   "conf": 0.96
+  },
+  {
+   "text": "1",
+   "conf": 0.96
+  },
+  {
+   "text": "2.33",
+   "conf": 0.65
+  },
+  {
+   "text": "PLIERS",
+   "conf": 0.96
+  },
+  {
+   "text": "6\"",
+   "conf": 0.68
+  },
+  {
+   "text": "110G",
+   "conf": 0.68
+  },
+  {
+   "text": "120PCS(PELAYAR",
+   "conf": 0.9
+  },
+  {
+   "text": "74020030@2.",
+   "conf": 0.91
+  },
+  {
+   "text": "33",
+   "conf": 0.96
+  },
+  {
+   "text": "1",
+   "conf": 0.96
+  },
+  {
+   "text": "a3",
+   "conf": 0.53
+  },
+  {
+   "text": "771-2",
+   "conf": 0.88
+  },
+  {
+   "text": "MULTI",
+   "conf": 0.95
+  },
+  {
+   "text": "PURPOSE",
+   "conf": 0.95
+  },
+  {
+   "text": "FOOD",
+   "conf": 0.95
+  },
+  {
+   "text": "TONGS",
+   "conf": 0.95
+  },
+  {
+   "text": "63065005@2.33",
+   "conf": 0.8
+  },
+  {
+   "text": "3",
+   "conf": 0.96
+  },
+  {
+   "text": "6.99",
+   "conf": 0.96
+  },
+  {
+   "text": "LS301",
+   "conf": 0.9
+  },
+  {
+   "text": "SCALESCRAPER",
+   "conf": 0.9
+  },
+  {
+   "text": "-LARGE",
+   "conf": 0.91
+  },
+  {
+   "text": "360",
+   "conf": 0.96
+  },
+  {
+   "text": "63165004@2.33",
+   "conf": 0.9
+  },
+  {
+   "text": "1",
+   "conf": 0.96
+  },
+  {
+   "text": "2.33",
+   "conf": 0.96
+  },
+  {
+   "text": "PVC",
+   "conf": 0.96
+  },
+  {
+   "text": "WALL",
+   "conf": 0.75
+  },
+  {
+   "text": "PLUG",
+   "conf": 0.93
+  },
+  {
+   "text": "4'S",
+   "conf": 0.54
+  },
+  {
+   "text": "240/10-(PLUG",
+   "conf": 0.8
+  },
+  {
+   "text": "74065001@2.",
+   "conf": 0.35
+  },
+  {
+   "text": "33",
+   "conf": 0.35
+  },
+  {
+   "text": "1",
+   "conf": 0.96
+  },
+  {
+   "text": "2.33",
+   "conf": 0.69
+  },
+  {
+   "text": "Total",
+   "conf": 0.92
+  },
+  {
+   "text": ":",
+   "conf": 0.88
+  },
+  {
+   "text": "216.38",
+   "conf": 0.35
+  },
+  {
+   "text": "Rounding",
+   "conf": 0.96
+  },
+  {
+   "text": "Adj",
+   "conf": 0.82
+  },
+  {
+   "text": ":",
+   "conf": 0.79
+  },
+  {
+   "text": "-0.01",
+   "conf": 0.89
+  },
+  {
+   "text": "Balance",
+   "conf": 0.96
+  },
+  {
+   "text": "Due:",
+   "conf": 0.96
+  },
+  {
+   "text": "16.30",
+   "conf": 0.96
+  },
+  {
+   "text": "Payment",
+   "conf": 0.96
+  },
+  {
+   "text": "(Cash)",
+   "conf": 0.92
+  },
+  {
+   "text": ":",
+   "conf": 0.92
+  },
+  {
+   "text": "17.00",
+   "conf": 0.96
+  },
+  {
+   "text": "Change",
+   "conf": 0.96
+  },
+  {
+   "text": "(Cash)",
+   "conf": 0.9
+  },
+  {
+   "text": ":",
+   "conf": 0.9
+  },
+  {
+   "text": "0.70",
+   "conf": 0.95
+  },
+  {
+   "text": "GST",
+   "conf": 0.94
+  },
+  {
+   "text": "Summary",
+   "conf": 0.94
+  },
+  {
+   "text": "SR",
+   "conf": 0.91
+  },
+  {
+   "text": "6%",
+   "conf": 0.91
+  },
+  {
+   "text": "15.40",
+   "conf": 0.95
+  },
+  {
+   "text": "0.91",
+   "conf": 0.94
+  },
+  {
+   "text": "ZR",
+   "conf": 0.48
+  },
+  {
+   "text": "0%",
+   "conf": 0.71
+  },
+  {
+   "text": "0.00",
+   "conf": 0.91
+  },
+  {
+   "text": "0.00",
+   "conf": 0.96
+  },
+  {
+   "text": "U0",
+   "conf": 0.18
+  },
+  {
+   "text": "A",
+   "conf": 0.38
+  },
+  {
+   "text": "A",
+   "conf": 0.4
+  },
+  {
+   "text": "Produce",
+   "conf": 0.96
+  },
+  {
+   "text": "Bill",
+   "conf": 0.96
+  },
+  {
+   "text": "for",
+   "conf": 0.96
+  },
+  {
+   "text": "Exchange",
+   "conf": 0.96
+  },
+  {
+   "text": "Within",
+   "conf": 0.96
+  },
+  {
+   "text": "3",
+   "conf": 0.96
+  },
+  {
+   "text": "Days",
+   "conf": 0.96
+  },
+  {
+   "text": "No",
+   "conf": 0.96
+  },
+  {
+   "text": "Cash",
+   "conf": 0.96
+  },
+  {
+   "text": "Refund",
+   "conf": 0.96
+  },
+  {
+   "text": "+100",
+   "conf": 0.25
+  },
+  {
+   "text": "Thank",
+   "conf": 0.95
+  },
+  {
+   "text": "you",
+   "conf": 0.9
+  },
+  {
+   "text": "146454",
+   "conf": 0.05
+  },
+  {
+   "text": "1+9*",
+   "conf": 0.0
+  },
+  {
+   "text": "Please",
+   "conf": 0.94
+  },
+  {
+   "text": "Come",
+   "conf": 0.95
+  },
+  {
+   "text": "Again",
+   "conf": 0.77
+  },
+  {
+   "text": "4",
+   "conf": 0.29
+  },
+  {
+   "text": "+++?",
+   "conf": 0.0
+  },
+  {
+   "text": "ae",
+   "conf": 0.48
+  },
+  {
+   "text": "|.",
+   "conf": 0.48
+  },
+  {
+   "text": "(4",
+   "conf": 0.0
+  },
+  {
+   "text": "tae",
+   "conf": 0.43
+  },
+  {
+   "text": "a",
+   "conf": 0.43
+  },
+  {
+   "text": "=63©|——™—",
+   "conf": 0.0
+  },
+  {
+   "text": "(lCU",
+   "conf": 0.0
+  }
+ ],
+ "mean_conf": 0.804,
+ "low_conf_share": 0.1438,
+ "latency_ms": 2033,
+ "fields": {
+  "company": "ECO SHOP MARKETING SDN BHD",
+  "date": "2018-02-26",
+  "total": 216.38
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  216.38
+ ],
+ "key": "X51006882603"
+}

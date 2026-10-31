@@ -1,0 +1,185 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "WelcometotheFamily",
+  "FamilyMart",
+  "Haxincone Resources Sdn Bhd （383322-D)",
+  "16A,Jalan Astaka U8/83,Bukit Jelutong",
+  "40150 Shah Alan,Selangor D.E.",
+  "GSTID:000468594688",
+  "#0020 The Sunnit USJ",
+  "Tax Invoice",
+  "20/04/201819:15 #1000000163",
+  "POS:02",
+  "Staff:ZUHAIRAUATI",
+  "Desc Ant(RW)",
+  "SpritzerH/Vater1.51ea 3.70S",
+  "TOTAL 3.70",
+  "Cash -10.00",
+  "CHANGE 6.30",
+  "#ITEHSSOLD",
+  "Tax Code Ant(RH) GST(RH)",
+  "S68 3.49 0.21",
+  "THANK YOU&PLEASE COHE AGAIN",
+  "***",
+  "BEAPARTOFOURFAHILYTODAY!",
+  "FACEBOOK:FanilyHartHY",
+  "wuw.fanilynart.con.ny",
+  "*1000000163*"
+ ],
+ "tokens": [
+  {
+   "text": "WelcometotheFamily",
+   "conf": 0.9826773272620307
+  },
+  {
+   "text": "FamilyMart",
+   "conf": 0.9847931385040283
+  },
+  {
+   "text": "Haxincone Resources Sdn Bhd （383322-D)",
+   "conf": 0.9489110614124098
+  },
+  {
+   "text": "16A,Jalan Astaka U8/83,Bukit Jelutong",
+   "conf": 0.9308515126640732
+  },
+  {
+   "text": "40150 Shah Alan,Selangor D.E.",
+   "conf": 0.9271272153689943
+  },
+  {
+   "text": "GSTID:000468594688",
+   "conf": 0.9878936178154416
+  },
+  {
+   "text": "#0020 The Sunnit USJ",
+   "conf": 0.9565781891345978
+  },
+  {
+   "text": "Tax Invoice",
+   "conf": 0.959055093201724
+  },
+  {
+   "text": "20/04/201819:15",
+   "conf": 0.9932974735895793
+  },
+  {
+   "text": "#1000000163",
+   "conf": 0.990057809786363
+  },
+  {
+   "text": "POS:02",
+   "conf": 0.9666887521743774
+  },
+  {
+   "text": "Staff:ZUHAIRAUATI",
+   "conf": 0.9651462681153241
+  },
+  {
+   "text": "Desc",
+   "conf": 0.9786485880613327
+  },
+  {
+   "text": "Ant(RW)",
+   "conf": 0.8735120551926749
+  },
+  {
+   "text": "SpritzerH/Vater1.51ea",
+   "conf": 0.9336856873262496
+  },
+  {
+   "text": "3.70S",
+   "conf": 0.9734451055526734
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.9955912470817566
+  },
+  {
+   "text": "3.70",
+   "conf": 0.9998060762882233
+  },
+  {
+   "text": "Cash",
+   "conf": 0.9908968061208725
+  },
+  {
+   "text": "-10.00",
+   "conf": 0.9963011940320333
+  },
+  {
+   "text": "CHANGE",
+   "conf": 0.995251307884852
+  },
+  {
+   "text": "6.30",
+   "conf": 0.9976726025342941
+  },
+  {
+   "text": "#ITEHSSOLD",
+   "conf": 0.943951940536499
+  },
+  {
+   "text": "Tax Code",
+   "conf": 0.9387150704860687
+  },
+  {
+   "text": "Ant(RH)",
+   "conf": 0.9369016460009983
+  },
+  {
+   "text": "GST(RH)",
+   "conf": 0.9558725527354649
+  },
+  {
+   "text": "S68",
+   "conf": 0.8124396204948425
+  },
+  {
+   "text": "3.49",
+   "conf": 0.9973735809326172
+  },
+  {
+   "text": "0.21",
+   "conf": 0.9990393221378326
+  },
+  {
+   "text": "THANK YOU&PLEASE COHE AGAIN",
+   "conf": 0.9482948713832431
+  },
+  {
+   "text": "***",
+   "conf": 0.6920428971449534
+  },
+  {
+   "text": "BEAPARTOFOURFAHILYTODAY!",
+   "conf": 0.9715202177564303
+  },
+  {
+   "text": "FACEBOOK:FanilyHartHY",
+   "conf": 0.9267533080918449
+  },
+  {
+   "text": "wuw.fanilynart.con.ny",
+   "conf": 0.9612156379790533
+  },
+  {
+   "text": "*1000000163*",
+   "conf": 0.9908936321735382
+  }
+ ],
+ "mean_conf": 0.9544,
+ "low_conf_share": 0.0,
+ "latency_ms": 4526,
+ "fields": {
+  "company": "HAXINCONE RESOURCES SDN BHD",
+  "date": "2018-04-20",
+  "total": 3.7
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  3.7
+ ],
+ "key": "X51006502529"
+}

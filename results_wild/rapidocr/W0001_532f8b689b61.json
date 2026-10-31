@@ -1,0 +1,296 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "AUSTRALIA",
+  "Slacks Creek 4127",
+  "$",
+  "Economy (Air) 63.05",
+  "SWEDEN-Zone7",
+  "0vr 1.50-2.00（Scale)",
+  "Article ID:",
+  "UC168708395AU",
+  "Extra Cover Not Purchased",
+  "TOTAL $63.05",
+  "Payment Tendered Details :",
+  "Cash 50.00",
+  "EFTPOS 13.05",
+  "* LPO supplied, price includes GST.",
+  "GST on LPO Taxable Supply: 0.00",
+  "ABN:57 680 663768 TAX INVOICE",
+  "14/12/1601/311722/2 41402714:03",
+  "PROVIDE FEEDBACK ON TODAY'S VISIT AT",
+  "AUSPOST.COM.AU/MYVISIT",
+  "EFTPOS",
+  "517443######1098（T） CREDIT ACCOUNT",
+  "EFTPOS Tender 13.05",
+  "TOTAL EFTPOS 13.05",
+  "APPROVED 00",
+  "CBA Debit AID A0000000041010",
+  "RRN 016554140258",
+  "14/12/1614:02:5841402701/0165542",
+  "Provide feedback on today's",
+  "visit for your chance to win",
+  "$5,0oo worth of gift cards*",
+  "Phone 1800 443 930",
+  "or go online to",
+  "auspost.con.au/myvisit",
+  "The survey takes 4 minutes to complete",
+  "Outlet ID:414027",
+  "Receipt number: 0i3i172",
+  "Entry between 9am （AEDT) 26/09/16",
+  "&11:59pm（AEDT)28/12/16、",
+  "Draw:9am （AEDT) 04/01/17",
+  "Lv1 2,219 Cleveland St",
+  "Strawberry Hills, NSw.",
+  "See website for full conditions",
+  "including privacy statement",
+  "Call charges may apply from a",
+  "mobile phone. Retain receipt/s."
+ ],
+ "tokens": [
+  {
+   "text": "AUSTRALIA",
+   "conf": 0.9871890279981825
+  },
+  {
+   "text": "Slacks Creek",
+   "conf": 0.9789635837078094
+  },
+  {
+   "text": "4127",
+   "conf": 0.9984229654073715
+  },
+  {
+   "text": "$",
+   "conf": 0.9764865040779114
+  },
+  {
+   "text": "Economy (Air)",
+   "conf": 0.9377286892670852
+  },
+  {
+   "text": "63.05",
+   "conf": 0.992935061454773
+  },
+  {
+   "text": "SWEDEN-Zone7",
+   "conf": 0.9850968370834986
+  },
+  {
+   "text": "0vr 1.50-2.00（Scale)",
+   "conf": 0.9255243480205536
+  },
+  {
+   "text": "Article ID:",
+   "conf": 0.9474004290320657
+  },
+  {
+   "text": "UC168708395AU",
+   "conf": 0.9950911586101239
+  },
+  {
+   "text": "Extra Cover Not Purchased",
+   "conf": 0.9508886051177978
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.9905360221862793
+  },
+  {
+   "text": "$63.05",
+   "conf": 0.9977956314881643
+  },
+  {
+   "text": "Payment Tendered Details :",
+   "conf": 0.9604704746833215
+  },
+  {
+   "text": "Cash",
+   "conf": 0.9940022826194763
+  },
+  {
+   "text": "50.00",
+   "conf": 0.9978435516357422
+  },
+  {
+   "text": "EFTPOS",
+   "conf": 0.9898237784703573
+  },
+  {
+   "text": "13.05",
+   "conf": 0.9923049330711364
+  },
+  {
+   "text": "* LPO supplied, price includes GST.",
+   "conf": 0.9820673414639064
+  },
+  {
+   "text": "GST on LPO Taxable Supply:",
+   "conf": 0.9299546342629653
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9987637102603912
+  },
+  {
+   "text": "ABN:57 680 663768",
+   "conf": 0.9429048685466542
+  },
+  {
+   "text": "TAX INVOICE",
+   "conf": 0.985068369995464
+  },
+  {
+   "text": "14/12/1601/311722/2",
+   "conf": 0.9707862954390677
+  },
+  {
+   "text": "41402714:03",
+   "conf": 0.9906013662164862
+  },
+  {
+   "text": "PROVIDE FEEDBACK ON TODAY'S VISIT AT",
+   "conf": 0.9567443413866891
+  },
+  {
+   "text": "AUSPOST.COM.AU/MYVISIT",
+   "conf": 0.983027152039788
+  },
+  {
+   "text": "EFTPOS",
+   "conf": 0.9851146141688029
+  },
+  {
+   "text": "517443######1098（T）",
+   "conf": 0.902616162049143
+  },
+  {
+   "text": "CREDIT ACCOUNT",
+   "conf": 0.9510870150157383
+  },
+  {
+   "text": "EFTPOS Tender",
+   "conf": 0.9774513290478632
+  },
+  {
+   "text": "13.05",
+   "conf": 0.996747899055481
+  },
+  {
+   "text": "TOTAL EFTPOS",
+   "conf": 0.9597650219996771
+  },
+  {
+   "text": "13.05",
+   "conf": 0.9960005879402161
+  },
+  {
+   "text": "APPROVED 00",
+   "conf": 0.940919426354495
+  },
+  {
+   "text": "CBA Debit",
+   "conf": 0.9858589900864495
+  },
+  {
+   "text": "AID A0000000041010",
+   "conf": 0.9775012565983666
+  },
+  {
+   "text": "RRN 016554140258",
+   "conf": 0.974242091178894
+  },
+  {
+   "text": "14/12/1614:02:5841402701/0165542",
+   "conf": 0.9866288378834724
+  },
+  {
+   "text": "Provide feedback on today's",
+   "conf": 0.9480513378425881
+  },
+  {
+   "text": "visit for your chance to win",
+   "conf": 0.9566206548895154
+  },
+  {
+   "text": "$5,0oo worth of gift cards*",
+   "conf": 0.9311707086033292
+  },
+  {
+   "text": "Phone 1800 443 930",
+   "conf": 0.912232392364078
+  },
+  {
+   "text": "or go online to",
+   "conf": 0.9491857449213664
+  },
+  {
+   "text": "auspost.con.au/myvisit",
+   "conf": 0.9335438365286047
+  },
+  {
+   "text": "The survey takes 4 minutes to complete",
+   "conf": 0.9861431890412381
+  },
+  {
+   "text": "Outlet ID:414027",
+   "conf": 0.9442272521555424
+  },
+  {
+   "text": "Receipt number: 0i3i172",
+   "conf": 0.93608653286229
+  },
+  {
+   "text": "Entry between 9am （AEDT) 26/09/16",
+   "conf": 0.9395976355581572
+  },
+  {
+   "text": "&11:59pm（AEDT)28/12/16、",
+   "conf": 0.9164638946885648
+  },
+  {
+   "text": "Draw:9am （AEDT) 04/01/17",
+   "conf": 0.922181747853756
+  },
+  {
+   "text": "Lv1 2,219 Cleveland St",
+   "conf": 0.9153594781051982
+  },
+  {
+   "text": "Strawberry Hills, NSw.",
+   "conf": 0.9051717086271807
+  },
+  {
+   "text": "See website for full conditions",
+   "conf": 0.9830108400314085
+  },
+  {
+   "text": "including privacy statement",
+   "conf": 0.9767030852812307
+  },
+  {
+   "text": "Call charges may apply from a",
+   "conf": 0.9688030090825311
+  },
+  {
+   "text": "mobile phone. Retain receipt/s.",
+   "conf": 0.9556055511197736
+  }
+ ],
+ "mean_conf": 0.9641,
+ "low_conf_share": 0.0,
+ "latency_ms": 7233,
+ "fields": {
+  "company": "AUSTRALIA",
+  "date": "2016-09-26",
+  "total": 13.05
+ },
+ "rule_reasons": [
+  "total_multiple_keyword_amounts"
+ ],
+ "total_candidates": [
+  63.05,
+  13.05
+ ],
+ "key": "W0001_532f8b689b61"
+}

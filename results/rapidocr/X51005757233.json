@@ -1,0 +1,196 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "31803016",
+  "Guardian Health And BeautySdnfhd",
+  "10I Mall",
+  "631&632,.6rd F1r,101 Mal1",
+  "lamarPuchong Jaya",
+  "Tel:03-58829000",
+  "Company Reg a1101083-1",
+  "681R09 0000899874816",
+  "RH",
+  "121048373 G0N UR L9 100+20 9.95",
+  "SUBT0TAL. 9.95",
+  "TOTAL (GST INCL) 9.95",
+  "GASII 10.00",
+  "CHANGE DUE 0.05",
+  "691-Rate GST Exc1 -- 6ST Aat",
+  "S 6% 666 0.56",
+  "Thank You For Shorping",
+  "ft Guar dian",
+  "All Anonits Are in",
+  "Guods sold are ronrrefundable.",
+  "Dispersed melicines sold are",
+  "not returnable.",
+  "All exchanges and reburns including",
+  "Guardian brard products must be made",
+  "within 7days uith original receipts and",
+  "roduct in original codition.",
+  "St:8046 Ctr2 10:4986IaxInv:68089",
+  "18:17 09/03/18"
+ ],
+ "tokens": [
+  {
+   "text": "31803016",
+   "conf": 0.99659164249897
+  },
+  {
+   "text": "Guardian Health And BeautySdnfhd",
+   "conf": 0.8926447629928589
+  },
+  {
+   "text": "10I Mall",
+   "conf": 0.8513696938753128
+  },
+  {
+   "text": "631&632,.6rd F1r,101 Mal1",
+   "conf": 0.7656887888908386
+  },
+  {
+   "text": "lamarPuchong Jaya",
+   "conf": 0.8028322212836322
+  },
+  {
+   "text": "Tel:03-58829000",
+   "conf": 0.9224122206370036
+  },
+  {
+   "text": "Company Reg a1101083-1",
+   "conf": 0.8031824285333807
+  },
+  {
+   "text": "681R09 0000899874816",
+   "conf": 0.8363289415836335
+  },
+  {
+   "text": "RH",
+   "conf": 0.5172000676393509
+  },
+  {
+   "text": "121048373 G0N UR L9 100+20",
+   "conf": 0.8561987315232937
+  },
+  {
+   "text": "9.95",
+   "conf": 0.9986134171485901
+  },
+  {
+   "text": "SUBT0TAL.",
+   "conf": 0.9108334382375082
+  },
+  {
+   "text": "9.95",
+   "conf": 0.99934521317482
+  },
+  {
+   "text": "TOTAL (GST INCL)",
+   "conf": 0.8884891644120216
+  },
+  {
+   "text": "9.95",
+   "conf": 0.9986170381307602
+  },
+  {
+   "text": "GASII",
+   "conf": 0.7426050364971161
+  },
+  {
+   "text": "10.00",
+   "conf": 0.9995657324790954
+  },
+  {
+   "text": "CHANGE DUE",
+   "conf": 0.9650092661380768
+  },
+  {
+   "text": "0.05",
+   "conf": 0.9996146857738495
+  },
+  {
+   "text": "691-Rate",
+   "conf": 0.8906329572200775
+  },
+  {
+   "text": "GST Exc1 -- 6ST Aat",
+   "conf": 0.801604760320563
+  },
+  {
+   "text": "S 6%",
+   "conf": 0.7287749201059341
+  },
+  {
+   "text": "666",
+   "conf": 0.780535618464152
+  },
+  {
+   "text": "0.56",
+   "conf": 0.9993505030870438
+  },
+  {
+   "text": "Thank You For Shorping",
+   "conf": 0.9301578808914531
+  },
+  {
+   "text": "ft Guar dian",
+   "conf": 0.8820686837037405
+  },
+  {
+   "text": "All Anonits Are in",
+   "conf": 0.8361586959738481
+  },
+  {
+   "text": "Guods sold are ronrrefundable.",
+   "conf": 0.8710844020048777
+  },
+  {
+   "text": "Dispersed melicines sold are",
+   "conf": 0.9134603121450969
+  },
+  {
+   "text": "not returnable.",
+   "conf": 0.9287375926971435
+  },
+  {
+   "text": "All exchanges and reburns including",
+   "conf": 0.9335201621055603
+  },
+  {
+   "text": "Guardian brard products must be made",
+   "conf": 0.8747547186083264
+  },
+  {
+   "text": "within 7days uith original receipts and",
+   "conf": 0.8772474000087152
+  },
+  {
+   "text": "roduct in original codition.",
+   "conf": 0.9324079773255757
+  },
+  {
+   "text": "St:8046 Ctr2 10:4986IaxInv:68089",
+   "conf": 0.9131757225841284
+  },
+  {
+   "text": "18:17",
+   "conf": 0.9825809359550476
+  },
+  {
+   "text": "09/03/18",
+   "conf": 0.9985806867480278
+  }
+ ],
+ "mean_conf": 0.8871,
+ "low_conf_share": 0.0,
+ "latency_ms": 4770,
+ "fields": {
+  "company": "GUARDIAN HEALTH AND BEAUTYSDNFHD",
+  "date": "2018-03-09",
+  "total": 9.95
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  9.95
+ ],
+ "key": "X51005757233"
+}

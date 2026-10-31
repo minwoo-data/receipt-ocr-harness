@@ -1,0 +1,113 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "Old Fort Antique Mall, Inc.",
+  "2028 East Lee Hwy",
+  "SuiteA",
+  "Wytheville,VA24382",
+  "Phone1（276)228-4438",
+  "Receipt",
+  "Date 02/28/13 Time 12:30 JUDY",
+  "YJ Receipt # 129590",
+  "MILITARY PURPLE HEAR",
+  "1.0 4.9900 4.99",
+  "Te10l-qns 661",
+  "Tax 0.25",
+  "Net Due 5.24"
+ ],
+ "tokens": [
+  {
+   "text": "Old Fort Antique Mall, Inc.",
+   "conf": 0.9208444820510017
+  },
+  {
+   "text": "2028 East Lee Hwy",
+   "conf": 0.9536114545429454
+  },
+  {
+   "text": "SuiteA",
+   "conf": 0.9660961329936981
+  },
+  {
+   "text": "Wytheville,VA24382",
+   "conf": 0.9244376487202115
+  },
+  {
+   "text": "Phone1（276)228-4438",
+   "conf": 0.910890911754809
+  },
+  {
+   "text": "Receipt",
+   "conf": 0.9438572355679103
+  },
+  {
+   "text": "Date 02/28/13 Time 12:30 JUDY",
+   "conf": 0.9370657904394741
+  },
+  {
+   "text": "YJ",
+   "conf": 0.9204420745372772
+  },
+  {
+   "text": "Receipt # 129590",
+   "conf": 0.9351504743099213
+  },
+  {
+   "text": "MILITARY PURPLE HEAR",
+   "conf": 0.9419145733118057
+  },
+  {
+   "text": "1.0",
+   "conf": 0.9703899820645651
+  },
+  {
+   "text": "4.9900",
+   "conf": 0.9813050031661987
+  },
+  {
+   "text": "4.99",
+   "conf": 0.9921945929527283
+  },
+  {
+   "text": "Te10l-qns",
+   "conf": 0.5849573314189911
+  },
+  {
+   "text": "661",
+   "conf": 0.7210873514413834
+  },
+  {
+   "text": "Tax",
+   "conf": 0.978460689385732
+  },
+  {
+   "text": "0.25",
+   "conf": 0.7480213269591331
+  },
+  {
+   "text": "Net Due",
+   "conf": 0.9240387592996869
+  },
+  {
+   "text": "5.24",
+   "conf": 0.9740962833166122
+  }
+ ],
+ "mean_conf": 0.9068,
+ "low_conf_share": 0.0,
+ "latency_ms": 3605,
+ "fields": {
+  "company": "OLD FORT ANTIQUE MALL INC",
+  "date": "2013-02-28",
+  "total": 5.24
+ },
+ "rule_reasons": [
+  "total_no_keyword_fallback_max"
+ ],
+ "total_candidates": [
+  4.99,
+  0.25,
+  5.24
+ ],
+ "key": "W0041_7694f91296d6"
+}

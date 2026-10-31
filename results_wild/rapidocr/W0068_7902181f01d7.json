@@ -1,0 +1,133 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "Cactus Ashley Phosphate",
+  "2080 Ashley Phosphate Road",
+  "843-824-6363",
+  "WashCashierl 02/17/14,02:21 PH",
+  "1Deluxe Wash Pkg 19.95",
+  "Sales Tax Subtotal 19.95 0.00",
+  "Total 19.95",
+  "Visa x3483 19.95",
+  "（Sale Appr669092）",
+  "LP#GPA541-SC",
+  "Your Wash Service Advisor was #4264.",
+  "Thank you for choosing Cactus Car Wash",
+  "for all your car care needs!",
+  "If you have any questions,comments or",
+  "concerns please contact us at:",
+  "843-873-7579",
+  "or"
+ ],
+ "tokens": [
+  {
+   "text": "Cactus Ashley Phosphate",
+   "conf": 0.984125352424124
+  },
+  {
+   "text": "2080 Ashley Phosphate Road",
+   "conf": 0.932538614823268
+  },
+  {
+   "text": "843-824-6363",
+   "conf": 0.9933840284744898
+  },
+  {
+   "text": "WashCashierl",
+   "conf": 0.9160798092683157
+  },
+  {
+   "text": "02/17/14,02:21 PH",
+   "conf": 0.9372099287369672
+  },
+  {
+   "text": "1Deluxe Wash Pkg",
+   "conf": 0.9310376904904842
+  },
+  {
+   "text": "19.95",
+   "conf": 0.9934987306594849
+  },
+  {
+   "text": "Subtotal",
+   "conf": 0.9732647314667702
+  },
+  {
+   "text": "19.95",
+   "conf": 0.9899430394172668
+  },
+  {
+   "text": "Sales Tax",
+   "conf": 0.9516840775807699
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9968035221099854
+  },
+  {
+   "text": "Total",
+   "conf": 0.9747911334037781
+  },
+  {
+   "text": "19.95",
+   "conf": 0.9950343489646911
+  },
+  {
+   "text": "Visa x3483",
+   "conf": 0.9372535586357117
+  },
+  {
+   "text": "19.95",
+   "conf": 0.9952077627182007
+  },
+  {
+   "text": "（Sale Appr669092）",
+   "conf": 0.9237857706406537
+  },
+  {
+   "text": "LP#GPA541-SC",
+   "conf": 0.9634566704432169
+  },
+  {
+   "text": "Your Wash Service Advisor was #4264.",
+   "conf": 0.9256354437934028
+  },
+  {
+   "text": "Thank you for choosing Cactus Car Wash",
+   "conf": 0.9575382173061371
+  },
+  {
+   "text": "for all your car care needs!",
+   "conf": 0.9178480803966522
+  },
+  {
+   "text": "If you have any questions,comments or",
+   "conf": 0.9453724671054531
+  },
+  {
+   "text": "concerns please contact us at:",
+   "conf": 0.9405959963798523
+  },
+  {
+   "text": "843-873-7579",
+   "conf": 0.9946856697400411
+  },
+  {
+   "text": "or",
+   "conf": 0.966008335351944
+  }
+ ],
+ "mean_conf": 0.9599,
+ "low_conf_share": 0.0,
+ "latency_ms": 2138,
+ "fields": {
+  "company": "SALES TAX SUBTOTAL 19 95 0 00",
+  "date": "2014-02-17",
+  "total": 19.95
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  19.95
+ ],
+ "key": "W0068_7902181f01d7"
+}

@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.6-flash",
+ "provider": "gemini",
+ "raw_text": "{\"vendor\": \"UNIHAKKA INTERNATIONAL SDN BHD\", \"date\": \"2018-05-23\", \"subtotal\": 9.2, \"tax\": 0.52, \"tip\": null, \"discount\": null, \"total\": 9.2, \"currency\": \"MYR\", \"confidence\": 0.95, \"notes\": \"Currency inferred from Johor Bahru address (Malaysia, MYR) despite the use of $ symbol on receipt.\"}",
+ "data": {
+  "vendor": "UNIHAKKA INTERNATIONAL SDN BHD",
+  "date": "2018-05-23",
+  "subtotal": 9.2,
+  "tax": 0.52,
+  "tip": null,
+  "discount": null,
+  "total": 9.2,
+  "currency": "MYR",
+  "confidence": 0.95,
+  "notes": "Currency inferred from Johor Bahru address (Malaysia, MYR) despite the use of $ symbol on receipt."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1461,
+  "output_tokens": 107,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.001497,
+ "latency_ms": 2335,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.6-flash",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.6-flash"
+ ],
+ "key": "X51006913061"
+}

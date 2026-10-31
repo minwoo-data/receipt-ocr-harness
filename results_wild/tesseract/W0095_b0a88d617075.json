@@ -1,0 +1,460 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "ALWAYS LOW PRICES ALWAYS WAL-MART 2",
+  "WE SELL FOR LESS",
+  "WANAGGR TIM STRYCZEK",
+  "( 630) 213 - 7000",
+  "STH 1420 OP# 00000533 TE# 10 TRH 09139",
+  "GA TORADE 005200033831 F 2.07",
+  "CANOY 004000006002 F 4.36 K",
+  "LISTERINE X 031254742855 4.46 K",
+  "ODOR EATER 001150900446 4.10 €",
+  "GEL SOLE 001101731405 097 ©",
+  "SUBTOTAL 24,64",
+  "Tax 1 6,250 % 0.99",
+  "Tax 3 2,000 % 0, 49",
+  "ToraL 26.12",
+  "VISA TEND 2.12",
+  "approvar #04562",
+  "TRANS 10 -001304 99852",
+  "VALLOATION ~DPTT",
+  "PAYMENT SERVICE €",
+  "CHANGE DUE 0.00",
+  "TC# 5288 i) 9579 2887 9704",
+  "NEED A MONEY ORDER? WAL-MART HAS LT!",
+  "02/14/03 09: 46-31",
+  "sae CUSTOMER COPYe sa"
+ ],
+ "tokens": [
+  {
+   "text": "ALWAYS",
+   "conf": 0.96
+  },
+  {
+   "text": "LOW",
+   "conf": 0.96
+  },
+  {
+   "text": "PRICES",
+   "conf": 0.94
+  },
+  {
+   "text": "ALWAYS",
+   "conf": 0.96
+  },
+  {
+   "text": "WAL-MART",
+   "conf": 0.96
+  },
+  {
+   "text": "2",
+   "conf": 0.86
+  },
+  {
+   "text": "WE",
+   "conf": 0.95
+  },
+  {
+   "text": "SELL",
+   "conf": 0.86
+  },
+  {
+   "text": "FOR",
+   "conf": 0.94
+  },
+  {
+   "text": "LESS",
+   "conf": 0.93
+  },
+  {
+   "text": "WANAGGR",
+   "conf": 0.43
+  },
+  {
+   "text": "TIM",
+   "conf": 0.57
+  },
+  {
+   "text": "STRYCZEK",
+   "conf": 0.91
+  },
+  {
+   "text": "(",
+   "conf": 0.9
+  },
+  {
+   "text": "630)",
+   "conf": 0.86
+  },
+  {
+   "text": "213",
+   "conf": 0.72
+  },
+  {
+   "text": "-",
+   "conf": 0.72
+  },
+  {
+   "text": "7000",
+   "conf": 0.96
+  },
+  {
+   "text": "STH",
+   "conf": 0.77
+  },
+  {
+   "text": "1420",
+   "conf": 0.93
+  },
+  {
+   "text": "OP#",
+   "conf": 0.47
+  },
+  {
+   "text": "00000533",
+   "conf": 0.91
+  },
+  {
+   "text": "TE#",
+   "conf": 0.81
+  },
+  {
+   "text": "10",
+   "conf": 0.95
+  },
+  {
+   "text": "TRH",
+   "conf": 0.35
+  },
+  {
+   "text": "09139",
+   "conf": 0.95
+  },
+  {
+   "text": "GA",
+   "conf": 0.52
+  },
+  {
+   "text": "TORADE",
+   "conf": 0.52
+  },
+  {
+   "text": "005200033831",
+   "conf": 0.84
+  },
+  {
+   "text": "F",
+   "conf": 0.84
+  },
+  {
+   "text": "2.07",
+   "conf": 0.38
+  },
+  {
+   "text": "CANOY",
+   "conf": 0.9
+  },
+  {
+   "text": "004000006002",
+   "conf": 0.93
+  },
+  {
+   "text": "F",
+   "conf": 0.93
+  },
+  {
+   "text": "4.36",
+   "conf": 0.59
+  },
+  {
+   "text": "K",
+   "conf": 0.59
+  },
+  {
+   "text": "LISTERINE",
+   "conf": 0.9
+  },
+  {
+   "text": "X",
+   "conf": 0.89
+  },
+  {
+   "text": "031254742855",
+   "conf": 0.95
+  },
+  {
+   "text": "4.46",
+   "conf": 0.81
+  },
+  {
+   "text": "K",
+   "conf": 0.82
+  },
+  {
+   "text": "ODOR",
+   "conf": 0.92
+  },
+  {
+   "text": "EATER",
+   "conf": 0.9
+  },
+  {
+   "text": "001150900446",
+   "conf": 0.74
+  },
+  {
+   "text": "4.10",
+   "conf": 0.41
+  },
+  {
+   "text": "€",
+   "conf": 0.41
+  },
+  {
+   "text": "GEL",
+   "conf": 0.76
+  },
+  {
+   "text": "SOLE",
+   "conf": 0.95
+  },
+  {
+   "text": "001101731405",
+   "conf": 0.94
+  },
+  {
+   "text": "097",
+   "conf": 0.32
+  },
+  {
+   "text": "©",
+   "conf": 0.74
+  },
+  {
+   "text": "SUBTOTAL",
+   "conf": 0.96
+  },
+  {
+   "text": "24,64",
+   "conf": 0.93
+  },
+  {
+   "text": "Tax",
+   "conf": 0.53
+  },
+  {
+   "text": "1",
+   "conf": 0.53
+  },
+  {
+   "text": "6,250",
+   "conf": 0.61
+  },
+  {
+   "text": "%",
+   "conf": 0.62
+  },
+  {
+   "text": "0.99",
+   "conf": 0.95
+  },
+  {
+   "text": "Tax",
+   "conf": 0.56
+  },
+  {
+   "text": "3",
+   "conf": 0.52
+  },
+  {
+   "text": "2,000",
+   "conf": 0.48
+  },
+  {
+   "text": "%",
+   "conf": 0.91
+  },
+  {
+   "text": "0,",
+   "conf": 0.86
+  },
+  {
+   "text": "49",
+   "conf": 0.95
+  },
+  {
+   "text": "ToraL",
+   "conf": 0.71
+  },
+  {
+   "text": "26.12",
+   "conf": 0.93
+  },
+  {
+   "text": "VISA",
+   "conf": 0.67
+  },
+  {
+   "text": "TEND",
+   "conf": 0.79
+  },
+  {
+   "text": "2.12",
+   "conf": 0.58
+  },
+  {
+   "text": "approvar",
+   "conf": 0.34
+  },
+  {
+   "text": "#04562",
+   "conf": 0.82
+  },
+  {
+   "text": "TRANS",
+   "conf": 0.96
+  },
+  {
+   "text": "10",
+   "conf": 0.92
+  },
+  {
+   "text": "-001304",
+   "conf": 0.89
+  },
+  {
+   "text": "99852",
+   "conf": 0.88
+  },
+  {
+   "text": "VALLOATION",
+   "conf": 0.88
+  },
+  {
+   "text": "~DPTT",
+   "conf": 0.53
+  },
+  {
+   "text": "PAYMENT",
+   "conf": 0.96
+  },
+  {
+   "text": "SERVICE",
+   "conf": 0.71
+  },
+  {
+   "text": "€",
+   "conf": 0.36
+  },
+  {
+   "text": "CHANGE",
+   "conf": 0.95
+  },
+  {
+   "text": "DUE",
+   "conf": 0.96
+  },
+  {
+   "text": "0.00",
+   "conf": 0.92
+  },
+  {
+   "text": "TC#",
+   "conf": 0.61
+  },
+  {
+   "text": "5288",
+   "conf": 0.66
+  },
+  {
+   "text": "i)",
+   "conf": 0.67
+  },
+  {
+   "text": "9579",
+   "conf": 0.91
+  },
+  {
+   "text": "2887",
+   "conf": 0.11
+  },
+  {
+   "text": "9704",
+   "conf": 0.93
+  },
+  {
+   "text": "NEED",
+   "conf": 0.94
+  },
+  {
+   "text": "A",
+   "conf": 0.94
+  },
+  {
+   "text": "MONEY",
+   "conf": 0.91
+  },
+  {
+   "text": "ORDER?",
+   "conf": 0.96
+  },
+  {
+   "text": "WAL-MART",
+   "conf": 0.95
+  },
+  {
+   "text": "HAS",
+   "conf": 0.95
+  },
+  {
+   "text": "LT!",
+   "conf": 0.68
+  },
+  {
+   "text": "02/14/03",
+   "conf": 0.94
+  },
+  {
+   "text": "09:",
+   "conf": 0.84
+  },
+  {
+   "text": "46-31",
+   "conf": 0.84
+  },
+  {
+   "text": "sae",
+   "conf": 0.0
+  },
+  {
+   "text": "CUSTOMER",
+   "conf": 0.0
+  },
+  {
+   "text": "COPYe",
+   "conf": 0.79
+  },
+  {
+   "text": "sa",
+   "conf": 0.73
+  }
+ ],
+ "mean_conf": 0.7627,
+ "low_conf_share": 0.1262,
+ "latency_ms": 1057,
+ "fields": {
+  "company": "ALWAYS LOW PRICES ALWAYS WAL MART 2",
+  "date": "2003-02-14",
+  "total": 26.12
+ },
+ "rule_reasons": [
+  "total_no_keyword_fallback_max"
+ ],
+ "total_candidates": [
+  26.12,
+  2.12,
+  0.0
+ ],
+ "key": "W0095_b0a88d617075"
+}

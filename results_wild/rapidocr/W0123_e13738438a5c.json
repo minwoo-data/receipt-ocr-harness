@@ -1,0 +1,245 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "khansama Tandoori",
+  "Restaurant",
+  "166 Serangoon Road",
+  "Junction of Norris Road",
+  "Singapore 218050",
+  "GST Reg No :52942959D",
+  "Te1:62990300",
+  "website:www.khansama.net",
+  "Email:khansama@pacific.net.sg",
+  "Receipt No.:00037136",
+  "Table:A13 Guest:3",
+  "Date&t1me:30-05-1622:00",
+  "Cashier:ordering",
+  "mN Tandoori Roti Garlic Naan 6.00 7.00",
+  "Ch.Tikka4 pc 12.50",
+  "Haryali Tikka 4pcs 12.50",
+  "Mutton Bhuna 12.50",
+  "1-111111 Daal Makhni Chicken Komma 10.50 7.50",
+  "Sweet Lassi 4.00",
+  "Lime Soda 5.00",
+  "Chivas 12Yrs Large 14.00",
+  "1 Kadahi Prawns 12.50",
+  "Sub-Total 104.00",
+  "7%GST 7.28",
+  "Round Adjust 0.02",
+  "22:55 TOTAL 111.30",
+  "VISA 111.30"
+ ],
+ "tokens": [
+  {
+   "text": "khansama Tandoori",
+   "conf": 0.9570249354138094
+  },
+  {
+   "text": "Restaurant",
+   "conf": 0.9965352952480316
+  },
+  {
+   "text": "166 Serangoon Road",
+   "conf": 0.9581120908260345
+  },
+  {
+   "text": "Junction of Norris Road",
+   "conf": 0.9663823065550431
+  },
+  {
+   "text": "GST Reg No :52942959D",
+   "conf": 0.9042789169720241
+  },
+  {
+   "text": "Singapore 218050",
+   "conf": 0.9279922842979431
+  },
+  {
+   "text": "Te1:62990300",
+   "conf": 0.9558318654696146
+  },
+  {
+   "text": "website:www.khansama.net",
+   "conf": 0.9504841715097427
+  },
+  {
+   "text": "Email:khansama@pacific.net.sg",
+   "conf": 0.9641177140433213
+  },
+  {
+   "text": "Receipt No.:00037136",
+   "conf": 0.9785996943712234
+  },
+  {
+   "text": "Table:A13 Guest:3",
+   "conf": 0.947284014785991
+  },
+  {
+   "text": "Date&t1me:30-05-1622:00",
+   "conf": 0.9546464603880177
+  },
+  {
+   "text": "Cashier:ordering",
+   "conf": 0.9725117012858391
+  },
+  {
+   "text": "mN",
+   "conf": 0.7614753842353821
+  },
+  {
+   "text": "Tandoori Roti",
+   "conf": 0.9807851727192218
+  },
+  {
+   "text": "6.00",
+   "conf": 0.9827151298522949
+  },
+  {
+   "text": "Garlic Naan",
+   "conf": 0.9294270927255804
+  },
+  {
+   "text": "7.00",
+   "conf": 0.9926304221153259
+  },
+  {
+   "text": "1-111111",
+   "conf": 0.7268085852265358
+  },
+  {
+   "text": "Ch.Tikka4 pc",
+   "conf": 0.9146682967742285
+  },
+  {
+   "text": "12.50",
+   "conf": 0.9945982336997986
+  },
+  {
+   "text": "Haryali Tikka 4pcs",
+   "conf": 0.9049011021852493
+  },
+  {
+   "text": "12.50",
+   "conf": 0.9880858778953552
+  },
+  {
+   "text": "Mutton Bhuna",
+   "conf": 0.9816114803155264
+  },
+  {
+   "text": "12.50",
+   "conf": 0.9956346392631531
+  },
+  {
+   "text": "Chicken Komma",
+   "conf": 0.9015175241690415
+  },
+  {
+   "text": "10.50",
+   "conf": 0.9939295887947083
+  },
+  {
+   "text": "Daal Makhni",
+   "conf": 0.9279120564460754
+  },
+  {
+   "text": "7.50",
+   "conf": 0.9945077300071716
+  },
+  {
+   "text": "Sweet Lassi",
+   "conf": 0.9575462666424838
+  },
+  {
+   "text": "4.00",
+   "conf": 0.9883526563644409
+  },
+  {
+   "text": "Lime Soda",
+   "conf": 0.9847451514667935
+  },
+  {
+   "text": "5.00",
+   "conf": 0.993259072303772
+  },
+  {
+   "text": "Chivas 12Yrs Large",
+   "conf": 0.9293475879563226
+  },
+  {
+   "text": "14.00",
+   "conf": 0.9945762038230896
+  },
+  {
+   "text": "1",
+   "conf": 0.7756336331367493
+  },
+  {
+   "text": "Kadahi Prawns",
+   "conf": 0.9767113786477309
+  },
+  {
+   "text": "12.50",
+   "conf": 0.995550000667572
+  },
+  {
+   "text": "Sub-Total",
+   "conf": 0.9547766182157729
+  },
+  {
+   "text": "104.00",
+   "conf": 0.9957046707471212
+  },
+  {
+   "text": "7%GST",
+   "conf": 0.9954310655593872
+  },
+  {
+   "text": "7.28",
+   "conf": 0.9942430257797241
+  },
+  {
+   "text": "Round Adjust",
+   "conf": 0.9709317833185196
+  },
+  {
+   "text": "0.02",
+   "conf": 0.993704304099083
+  },
+  {
+   "text": "22:55",
+   "conf": 0.9743723154067994
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.993285882472992
+  },
+  {
+   "text": "111.30",
+   "conf": 0.9980356196562449
+  },
+  {
+   "text": "VISA",
+   "conf": 0.9908654093742371
+  },
+  {
+   "text": "111.30",
+   "conf": 0.9981862803300222
+  }
+ ],
+ "mean_conf": 0.9563,
+ "low_conf_share": 0.0,
+ "latency_ms": 4031,
+ "fields": {
+  "company": "KHANSAMA TANDOORI RESTAURANT",
+  "date": null,
+  "total": 111.3
+ },
+ "rule_reasons": [
+  "date_not_found"
+ ],
+ "total_candidates": [
+  111.3
+ ],
+ "key": "W0123_e13738438a5c"
+}

@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.6-flash",
+ "provider": "gemini",
+ "raw_text": "{\"vendor\": \"VOLUME ONE BOOKS INC\", \"date\": \"2015-12-25\", \"subtotal\": 15.00, \"tax\": 0.90, \"tip\": null, \"discount\": null, \"total\": 15.90, \"currency\": \"USD\", \"confidence\": 0.95, \"notes\": null}",
+ "data": {
+  "vendor": "VOLUME ONE BOOKS INC",
+  "date": "2015-12-25",
+  "subtotal": 15.0,
+  "tax": 0.9,
+  "tip": null,
+  "discount": null,
+  "total": 15.9,
+  "currency": "USD",
+  "confidence": 0.95,
+  "notes": null
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1433,
+  "output_tokens": 84,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.00139,
+ "latency_ms": 1678,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.6-flash",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.6-flash"
+ ],
+ "key": "W0031_0cb17ebabf8d"
+}

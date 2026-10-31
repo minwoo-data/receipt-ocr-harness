@@ -1,0 +1,260 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "Geoventure",
+  "TasteOfTheWorIdSdnBhd",
+  "965857-A",
+  "Lot38.39101Boulevard",
+  "JalanKenari5.Bandar PuchongJaya",
+  "47170 Puchong.Selangor",
+  "TEL:03-80790255",
+  "GSTREGN0:000136577024",
+  "RESERVAT10NN0:0107745055",
+  "SIMPLIFIED TAX INVOICE",
+  "Invoice581355 Cashier NiNI",
+  "POSNo:1 Pax",
+  "Date:5/3/2018 22:52:33",
+  "TableNo:C38",
+  "ITEM QTY U.P（RM）DISC（5）AmL+GST（RM）",
+  "S Tiger Bucket",
+  "GTG02 1 55.00 0+0 58.30",
+  "S ServiceChrg（lncl GST 6%) RM5.83",
+  "Total Sales(lncl.GSI6%) RM6413",
+  "RoundingAdjustment RM0.02",
+  "TOTAL RM64.15",
+  "CASH RM100.00",
+  "CHANGE RM35.85",
+  "MainItemCount 1",
+  "TotalDiscount RM000",
+  "GSTSummary Amount(RM) Tax(RM)",
+  "S 6% 60.50 3.63",
+  "2 0% 0.00 0.00"
+ ],
+ "tokens": [
+  {
+   "text": "Geoventure",
+   "conf": 0.9951533496379852
+  },
+  {
+   "text": "TasteOfTheWorIdSdnBhd",
+   "conf": 0.9700336342766172
+  },
+  {
+   "text": "965857-A",
+   "conf": 0.9964680448174477
+  },
+  {
+   "text": "Lot38.39101Boulevard",
+   "conf": 0.9628793269395828
+  },
+  {
+   "text": "JalanKenari5.Bandar PuchongJaya",
+   "conf": 0.9688436965788564
+  },
+  {
+   "text": "47170 Puchong.Selangor",
+   "conf": 0.9537889334288511
+  },
+  {
+   "text": "TEL:03-80790255",
+   "conf": 0.9875408768653869
+  },
+  {
+   "text": "GSTREGN0:000136577024",
+   "conf": 0.9882771117346627
+  },
+  {
+   "text": "RESERVAT10NN0:0107745055",
+   "conf": 0.9515589301784834
+  },
+  {
+   "text": "SIMPLIFIED TAX INVOICE",
+   "conf": 0.9533352011984045
+  },
+  {
+   "text": "Invoice581355",
+   "conf": 0.9730390539536109
+  },
+  {
+   "text": "Cashier NiNI",
+   "conf": 0.9356096386909485
+  },
+  {
+   "text": "POSNo:1",
+   "conf": 0.9718449541500637
+  },
+  {
+   "text": "Pax",
+   "conf": 0.9860900441805521
+  },
+  {
+   "text": "Date:5/3/2018 22:52:33",
+   "conf": 0.9533035565506328
+  },
+  {
+   "text": "TableNo:C38",
+   "conf": 0.9793391173536127
+  },
+  {
+   "text": "ITEM",
+   "conf": 0.9630627036094666
+  },
+  {
+   "text": "QTY",
+   "conf": 0.9901077349980673
+  },
+  {
+   "text": "U.P（RM）DISC（5）AmL+GST（RM）",
+   "conf": 0.8074294447898864
+  },
+  {
+   "text": "S Tiger Bucket",
+   "conf": 0.9441358361925397
+  },
+  {
+   "text": "GTG02",
+   "conf": 0.981571626663208
+  },
+  {
+   "text": "1",
+   "conf": 0.9927680492401123
+  },
+  {
+   "text": "55.00",
+   "conf": 0.9991567254066467
+  },
+  {
+   "text": "0+0",
+   "conf": 0.9807626008987427
+  },
+  {
+   "text": "58.30",
+   "conf": 0.9952754735946655
+  },
+  {
+   "text": "S",
+   "conf": 0.931094229221344
+  },
+  {
+   "text": "ServiceChrg（lncl GST 6%)",
+   "conf": 0.8756934789319833
+  },
+  {
+   "text": "RM5.83",
+   "conf": 0.9972472786903381
+  },
+  {
+   "text": "Total Sales(lncl.GSI6%)",
+   "conf": 0.877511660689893
+  },
+  {
+   "text": "RM6413",
+   "conf": 0.9977033535639445
+  },
+  {
+   "text": "RoundingAdjustment",
+   "conf": 0.9929318130016327
+  },
+  {
+   "text": "RM0.02",
+   "conf": 0.9918416142463684
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.9924359083175659
+  },
+  {
+   "text": "RM64.15",
+   "conf": 0.9988012739590236
+  },
+  {
+   "text": "CASH",
+   "conf": 0.9940222948789597
+  },
+  {
+   "text": "RM100.00",
+   "conf": 0.9964316114783287
+  },
+  {
+   "text": "CHANGE",
+   "conf": 0.9779963890711466
+  },
+  {
+   "text": "RM35.85",
+   "conf": 0.9987288458006722
+  },
+  {
+   "text": "MainItemCount",
+   "conf": 0.9615230514453008
+  },
+  {
+   "text": "1",
+   "conf": 0.9929393529891968
+  },
+  {
+   "text": "TotalDiscount",
+   "conf": 0.9863536999775813
+  },
+  {
+   "text": "RM000",
+   "conf": 0.9468923211097717
+  },
+  {
+   "text": "GSTSummary",
+   "conf": 0.9886489450931549
+  },
+  {
+   "text": "Amount(RM)",
+   "conf": 0.9029879212379456
+  },
+  {
+   "text": "Tax(RM)",
+   "conf": 0.9013713427952358
+  },
+  {
+   "text": "S",
+   "conf": 0.9223987460136414
+  },
+  {
+   "text": "6%",
+   "conf": 0.9905019998550415
+  },
+  {
+   "text": "60.50",
+   "conf": 0.9989873886108398
+  },
+  {
+   "text": "3.63",
+   "conf": 0.9973551630973816
+  },
+  {
+   "text": "2",
+   "conf": 0.8273864388465881
+  },
+  {
+   "text": "0%",
+   "conf": 0.9582314789295197
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9472533762454987
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9986020773649216
+  }
+ ],
+ "mean_conf": 0.9646,
+ "low_conf_share": 0.0,
+ "latency_ms": 6833,
+ "fields": {
+  "company": "GEOVENTURE",
+  "date": "2018-03-05",
+  "total": 64.15
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  64.15
+ ],
+ "key": "X51005441407"
+}

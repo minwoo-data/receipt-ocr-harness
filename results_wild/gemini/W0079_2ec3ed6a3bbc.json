@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.6-flash",
+ "provider": "gemini",
+ "raw_text": "{\"vendor\": \"California Pizza Kitchen(TKO)\", \"date\": \"2016-09-09\", \"subtotal\": 120.0, \"tax\": 22.6, \"tip\": null, \"discount\": -18.0, \"total\": 124.6, \"currency\": \"HKD\", \"confidence\": 0.95, \"notes\": \"Currency inferred from Hong Kong address context (+852 phone code); service charge treated as tax.\"}",
+ "data": {
+  "vendor": "California Pizza Kitchen(TKO)",
+  "date": "2016-09-09",
+  "subtotal": 120.0,
+  "tax": 22.6,
+  "tip": null,
+  "discount": -18.0,
+  "total": 124.6,
+  "currency": "HKD",
+  "confidence": 0.95,
+  "notes": "Currency inferred from Hong Kong address context (+852 phone code); service charge treated as tax."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1471,
+  "output_tokens": 111,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.00152,
+ "latency_ms": 1448,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.6-flash",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.6-flash"
+ ],
+ "key": "W0079_2ec3ed6a3bbc"
+}

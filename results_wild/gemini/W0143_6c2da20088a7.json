@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.6-flash",
+ "provider": "gemini",
+ "raw_text": "{\"vendor\": \"Gaucho Grill\", \"date\": \"2015-10-16\", \"subtotal\": 250.0, \"tax\": 20.94, \"tip\": null, \"discount\": null, \"total\": 270.94, \"currency\": \"USD\", \"confidence\": 0.98, \"notes\": null}",
+ "data": {
+  "vendor": "Gaucho Grill",
+  "date": "2015-10-16",
+  "subtotal": 250.0,
+  "tax": 20.94,
+  "tip": null,
+  "discount": null,
+  "total": 270.94,
+  "currency": "USD",
+  "confidence": 0.98,
+  "notes": null
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1471,
+  "output_tokens": 86,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.001426,
+ "latency_ms": 1606,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.6-flash",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.6-flash"
+ ],
+ "key": "W0143_6c2da20088a7"
+}

@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.6-flash",
+ "provider": "gemini",
+ "raw_text": "{\"vendor\": \"Shangri-La's Samba\", \"date\": \"2009-10-22\", \"subtotal\": 28.6, \"tax\": 4.86, \"tip\": null, \"discount\": null, \"total\": 33.46, \"currency\": \"OMR\", \"confidence\": 0.92, \"notes\": \"Tax includes Srv Charge (2.290), M.Tax (1.430), and T.Levy (1.140).\"}",
+ "data": {
+  "vendor": "Shangri-La's Samba",
+  "date": "2009-10-22",
+  "subtotal": 28.6,
+  "tax": 4.86,
+  "tip": null,
+  "discount": null,
+  "total": 33.46,
+  "currency": "OMR",
+  "confidence": 0.92,
+  "notes": "Tax includes Srv Charge (2.290), M.Tax (1.430), and T.Levy (1.140)."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1433,
+  "output_tokens": 121,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.001528,
+ "latency_ms": 1602,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.6-flash",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.6-flash"
+ ],
+ "key": "W0127_338a3e168f6f"
+}

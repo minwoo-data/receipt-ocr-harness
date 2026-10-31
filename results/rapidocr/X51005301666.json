@@ -1,0 +1,421 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "LIGHTROOM GALLERY SDN BHD",
+  "No: 28, JALAN ASTANA 1C,",
+  "BANDAR BUKIT RAJA, 41050",
+  "KLANG SELANGOR D.E, MALAYSIA",
+  "ROC No. : (1072825-A)",
+  "GST No. : 000584089600",
+  "Tel:03-3362 4395 Fax:03-3362 4395",
+  "CREDIT NOTE",
+  "Station: CASHIER C/N No: LCN00212",
+  "Cashier: ANGELA (over : 1",
+  "Bill Date : 20/11/2017",
+  "Bill Start: 20/11/2017 03:57:01 PM",
+  "Code ：300-E0009",
+  "Name ESWARAN 012-6369400",
+  "Address ：",
+  "GST No. ：",
+  "YT51129 SR",
+  "YE36 BK 12W WW LED TRACK LIGHT",
+  "2 * RM 45.29 UNI ( 5.43)=RM 90.57",
+  "YT52683 SR",
+  "YE44 35WWWBK TRACK HOLDER",
+  "1 * RM 155.66 UNI（ 9.34)=RM 155.66",
+  "CH50688 SR",
+  "1METER TRACK-BK",
+  "1 *RM16.99UNI（ 1.01)=RM 16.79",
+  "SR",
+  "RM39.80 CONTRA W LCN00211",
+  "0 * UNIT",
+  "Sub Total RM 263.02",
+  "Item Discount RM 0:20",
+  "Service Charge RM 0.00",
+  "GST/TAX6% RM 15.78",
+  "TOT' RM 278.80",
+  "CASI. RM 278.80",
+  "CHANGE: RM 0.00",
+  "Item Count:4",
+  "Qty Count : 4.0",
+  "Closed Bi11: 20/11/2017 04:01:23 PM",
+  "Thank You, Please come again.",
+  "Goods Sold are not refundable, returnable",
+  "BANK ACC MBB 5128 4851 2118",
+  "BANK ACC MBB 5626 4732 1744",
+  "BANK ACC AMBANK 888 100 123 3706",
+  "GST Summary Amount (RM) Tax (RM)",
+  "SR @ 6% 263.02 15.78",
+  "ZR/OS/EZ 0.00 0.00"
+ ],
+ "tokens": [
+  {
+   "text": "LIGHTROOM GALLERY SDN BHD",
+   "conf": 0.9745829153060913
+  },
+  {
+   "text": "No: 28, JALAN ASTANA 1C,",
+   "conf": 0.996698593099912
+  },
+  {
+   "text": "BANDAR BUKIT RAJA, 41050",
+   "conf": 0.9565539707740148
+  },
+  {
+   "text": "KLANG SELANGOR D.E, MALAYSIA",
+   "conf": 0.9871664238827569
+  },
+  {
+   "text": "ROC No. : (1072825-A)",
+   "conf": 0.9801179681505475
+  },
+  {
+   "text": "GST No. : 000584089600",
+   "conf": 0.9956908903338693
+  },
+  {
+   "text": "Tel:03-3362 4395 Fax:03-3362 4395",
+   "conf": 0.9992109735806783
+  },
+  {
+   "text": "CREDIT NOTE",
+   "conf": 0.9976810054345564
+  },
+  {
+   "text": "Station: CASHIER",
+   "conf": 0.999563205987215
+  },
+  {
+   "text": "C/N No: LCN00212",
+   "conf": 0.9876566454768181
+  },
+  {
+   "text": "Cashier: ANGELA",
+   "conf": 0.9980680187543233
+  },
+  {
+   "text": "(over : 1",
+   "conf": 0.8761908743116591
+  },
+  {
+   "text": "Bill Date : 20/11/2017",
+   "conf": 0.9941761629147963
+  },
+  {
+   "text": "Bill Start: 20/11/2017 03:57:01 PM",
+   "conf": 0.9734064498368431
+  },
+  {
+   "text": "Code",
+   "conf": 0.9995928853750229
+  },
+  {
+   "text": "：300-E0009",
+   "conf": 0.9610802888870239
+  },
+  {
+   "text": "Name",
+   "conf": 0.9938440918922424
+  },
+  {
+   "text": "ESWARAN 012-6369400",
+   "conf": 0.98133406199907
+  },
+  {
+   "text": "Address",
+   "conf": 0.9959056888307843
+  },
+  {
+   "text": "：",
+   "conf": 0.7136678099632263
+  },
+  {
+   "text": "GST No.",
+   "conf": 0.9982964737074715
+  },
+  {
+   "text": "：",
+   "conf": 0.6438342332839966
+  },
+  {
+   "text": "YT51129",
+   "conf": 0.9985121062823704
+  },
+  {
+   "text": "SR",
+   "conf": 0.9954274296760559
+  },
+  {
+   "text": "YE36 BK 12W WW LED TRACK LIGHT",
+   "conf": 0.9654140611489613
+  },
+  {
+   "text": "2 * RM 45.29 UNI (",
+   "conf": 0.9017240736219618
+  },
+  {
+   "text": "5.43)=RM",
+   "conf": 0.9649700149893761
+  },
+  {
+   "text": "90.57",
+   "conf": 0.9995490074157715
+  },
+  {
+   "text": "YT52683",
+   "conf": 0.9980930515698024
+  },
+  {
+   "text": "SR",
+   "conf": 0.9922292232513428
+  },
+  {
+   "text": "YE44 35WWWBK TRACK HOLDER",
+   "conf": 0.9383905100822448
+  },
+  {
+   "text": "1",
+   "conf": 0.9670559763908386
+  },
+  {
+   "text": "* RM 155.66 UNI（",
+   "conf": 0.9210109524428844
+  },
+  {
+   "text": "9.34)=RM",
+   "conf": 0.9726254045963287
+  },
+  {
+   "text": "155.66",
+   "conf": 0.9987884064515432
+  },
+  {
+   "text": "CH50688",
+   "conf": 0.9991380572319031
+  },
+  {
+   "text": "SR",
+   "conf": 0.9936315715312958
+  },
+  {
+   "text": "1METER TRACK-BK",
+   "conf": 0.9791396816571554
+  },
+  {
+   "text": "1",
+   "conf": 0.9943517446517944
+  },
+  {
+   "text": "*RM16.99UNI（",
+   "conf": 0.960485557715098
+  },
+  {
+   "text": "1.01)=RM",
+   "conf": 0.9764903709292412
+  },
+  {
+   "text": "16.79",
+   "conf": 0.9986419558525086
+  },
+  {
+   "text": "SR",
+   "conf": 0.9890583157539368
+  },
+  {
+   "text": "RM39.80 CONTRA W LCN00211",
+   "conf": 0.9415261697769165
+  },
+  {
+   "text": "0",
+   "conf": 0.9470192193984985
+  },
+  {
+   "text": "*",
+   "conf": 0.8393917083740234
+  },
+  {
+   "text": "UNIT",
+   "conf": 0.9956457763910294
+  },
+  {
+   "text": "Sub Total",
+   "conf": 0.9945726129743788
+  },
+  {
+   "text": "RM",
+   "conf": 0.9931642413139343
+  },
+  {
+   "text": "263.02",
+   "conf": 0.9997287094593048
+  },
+  {
+   "text": "Item Discount",
+   "conf": 0.98086240199896
+  },
+  {
+   "text": "RM",
+   "conf": 0.9929713904857635
+  },
+  {
+   "text": "0:20",
+   "conf": 0.9575169682502747
+  },
+  {
+   "text": "Service Charge",
+   "conf": 0.9853066376277378
+  },
+  {
+   "text": "RM",
+   "conf": 0.9953285753726959
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9991946667432785
+  },
+  {
+   "text": "GST/TAX6%",
+   "conf": 0.9979883763525221
+  },
+  {
+   "text": "RM",
+   "conf": 0.9941827356815338
+  },
+  {
+   "text": "15.78",
+   "conf": 0.9983355641365051
+  },
+  {
+   "text": "TOT'",
+   "conf": 0.9207555651664734
+  },
+  {
+   "text": "RM",
+   "conf": 0.9949970543384552
+  },
+  {
+   "text": "278.80",
+   "conf": 0.9999492367108663
+  },
+  {
+   "text": "CASI.",
+   "conf": 0.7867248117923736
+  },
+  {
+   "text": "RM",
+   "conf": 0.9896844923496246
+  },
+  {
+   "text": "278.80",
+   "conf": 0.9997429152329763
+  },
+  {
+   "text": "CHANGE:",
+   "conf": 0.9934927991458348
+  },
+  {
+   "text": "RM",
+   "conf": 0.9912692606449127
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9995488226413727
+  },
+  {
+   "text": "Item Count:4",
+   "conf": 0.958272988597552
+  },
+  {
+   "text": "Qty Count : 4.0",
+   "conf": 0.9489768942197164
+  },
+  {
+   "text": "Closed Bi11: 20/11/2017 04:01:23 PM",
+   "conf": 0.9796348146029881
+  },
+  {
+   "text": "Thank You, Please come again.",
+   "conf": 0.9819018738023166
+  },
+  {
+   "text": "Goods Sold are not refundable, returnable",
+   "conf": 0.9867091978468546
+  },
+  {
+   "text": "BANK ACC MBB 5128 4851 2118",
+   "conf": 0.929626809226142
+  },
+  {
+   "text": "BANK ACC MBB 5626 4732 1744",
+   "conf": 0.9362260059074119
+  },
+  {
+   "text": "BANK ACC AMBANK 888 100 123 3706",
+   "conf": 0.9798821900039911
+  },
+  {
+   "text": "Amount (RM)",
+   "conf": 0.952202016657049
+  },
+  {
+   "text": "Tax (RM)",
+   "conf": 0.9770755395293236
+  },
+  {
+   "text": "GST Summary",
+   "conf": 0.9671374938704751
+  },
+  {
+   "text": "263.02",
+   "conf": 0.9996479352315267
+  },
+  {
+   "text": "15.78",
+   "conf": 0.998848831653595
+  },
+  {
+   "text": "SR @ 6%",
+   "conf": 0.9859037484441485
+  },
+  {
+   "text": "0.00",
+   "conf": 0.999110758304596
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9986468106508255
+  },
+  {
+   "text": "ZR/OS/EZ",
+   "conf": 0.9829810336232185
+  }
+ ],
+ "mean_conf": 0.9689,
+ "low_conf_share": 0.0,
+ "latency_ms": 6379,
+ "fields": {
+  "company": "LIGHTROOM GALLERY SDN BHD",
+  "date": "2017-11-20",
+  "total": 278.8
+ },
+ "rule_reasons": [
+  "total_no_keyword_fallback_max"
+ ],
+ "total_candidates": [
+  16.99,
+  1.01,
+  16.79,
+  39.8,
+  263.02,
+  0.0,
+  15.78,
+  278.8,
+  278.8,
+  0.0,
+  263.02,
+  15.78,
+  0.0,
+  0.0
+ ],
+ "key": "X51005301666"
+}

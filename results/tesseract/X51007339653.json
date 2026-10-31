@@ -1,0 +1,538 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "ATK HUAT HARDWARE",
+  "ENTERPRISE ({SETIA",
+  "ALSM) SDN BHD",
+  ": : 822737-X",
+  "NO. 17-G, JALAN SETIA INDAH",
+  "(X) UI3/X, SETIA ALAN",
+  "SEKSYEN U13, 40170 SHAH ALAM",
+  "TEL: O12 ~ 4651783 FAY: 03 - 44623603",
+  "GST NG: 000394528768",
+  "APY % 2 AH",
+  "STPLIELED TH INE",
+  "CASH",
+  "RECEIPT #: CSPO4GG159 DATE: 15/09/2017",
+  "SALESPERSON = AHOOG2 TIME: 17:57:00",
+  "TTEH TY W/E AMUUNT",
+  "{Ri i)",
+  "p200g 0000040 3 “ib zn 3",
+  "40HH OX/BELLE PADLOCK 22",
+  "TOTAL QUANTITY 3",
+  "SUB-TOTAL (GST) 24,00",
+  "DISC (00",
+  "ROUNDING 0.09",
+  "TOTAL 24.00",
+  "CASH So .00",
+  "CHANGE - 24.00",
+  "KGST @ GZ INCLUDED IN TOTAL",
+  "GST SUMMARY",
+  "CODE AMOUNT %_TAX/ANT",
+  "SR 22.44 é 1.6",
+  ") GQODS SOLD &RE NOT Baas",
+  ". THANE YOU FOR.",
+  "PLS PROVIDE ORID:",
+  "BRCHANGE WITHT,",
+  "GOODS HUST fa"
+ ],
+ "tokens": [
+  {
+   "text": "ATK",
+   "conf": 0.89
+  },
+  {
+   "text": "HUAT",
+   "conf": 0.89
+  },
+  {
+   "text": "HARDWARE",
+   "conf": 0.4
+  },
+  {
+   "text": "ENTERPRISE",
+   "conf": 0.93
+  },
+  {
+   "text": "({SETIA",
+   "conf": 0.43
+  },
+  {
+   "text": "ALSM)",
+   "conf": 0.88
+  },
+  {
+   "text": "SDN",
+   "conf": 0.44
+  },
+  {
+   "text": "BHD",
+   "conf": 0.67
+  },
+  {
+   "text": ":",
+   "conf": 0.81
+  },
+  {
+   "text": ":",
+   "conf": 0.64
+  },
+  {
+   "text": "822737-X",
+   "conf": 0.77
+  },
+  {
+   "text": "NO.",
+   "conf": 0.6
+  },
+  {
+   "text": "17-G,",
+   "conf": 0.6
+  },
+  {
+   "text": "JALAN",
+   "conf": 0.86
+  },
+  {
+   "text": "SETIA",
+   "conf": 0.83
+  },
+  {
+   "text": "INDAH",
+   "conf": 0.0
+  },
+  {
+   "text": "(X)",
+   "conf": 0.42
+  },
+  {
+   "text": "UI3/X,",
+   "conf": 0.28
+  },
+  {
+   "text": "SETIA",
+   "conf": 0.76
+  },
+  {
+   "text": "ALAN",
+   "conf": 0.68
+  },
+  {
+   "text": "SEKSYEN",
+   "conf": 0.89
+  },
+  {
+   "text": "U13,",
+   "conf": 0.0
+  },
+  {
+   "text": "40170",
+   "conf": 0.82
+  },
+  {
+   "text": "SHAH",
+   "conf": 0.88
+  },
+  {
+   "text": "ALAM",
+   "conf": 0.73
+  },
+  {
+   "text": "TEL:",
+   "conf": 0.91
+  },
+  {
+   "text": "O12",
+   "conf": 0.6
+  },
+  {
+   "text": "~",
+   "conf": 0.71
+  },
+  {
+   "text": "4651783",
+   "conf": 0.16
+  },
+  {
+   "text": "FAY:",
+   "conf": 0.68
+  },
+  {
+   "text": "03",
+   "conf": 0.35
+  },
+  {
+   "text": "-",
+   "conf": 0.89
+  },
+  {
+   "text": "44623603",
+   "conf": 0.36
+  },
+  {
+   "text": "GST",
+   "conf": 0.83
+  },
+  {
+   "text": "NG:",
+   "conf": 0.88
+  },
+  {
+   "text": "000394528768",
+   "conf": 0.77
+  },
+  {
+   "text": "APY",
+   "conf": 0.52
+  },
+  {
+   "text": "%",
+   "conf": 0.27
+  },
+  {
+   "text": "2",
+   "conf": 0.69
+  },
+  {
+   "text": "AH",
+   "conf": 0.41
+  },
+  {
+   "text": "STPLIELED",
+   "conf": 0.08
+  },
+  {
+   "text": "TH",
+   "conf": 0.59
+  },
+  {
+   "text": "INE",
+   "conf": 0.57
+  },
+  {
+   "text": "CASH",
+   "conf": 0.87
+  },
+  {
+   "text": "RECEIPT",
+   "conf": 0.92
+  },
+  {
+   "text": "#:",
+   "conf": 0.42
+  },
+  {
+   "text": "CSPO4GG159",
+   "conf": 0.29
+  },
+  {
+   "text": "DATE:",
+   "conf": 0.95
+  },
+  {
+   "text": "15/09/2017",
+   "conf": 0.94
+  },
+  {
+   "text": "SALESPERSON",
+   "conf": 0.95
+  },
+  {
+   "text": "=",
+   "conf": 0.31
+  },
+  {
+   "text": "AHOOG2",
+   "conf": 0.1
+  },
+  {
+   "text": "TIME:",
+   "conf": 0.61
+  },
+  {
+   "text": "17:57:00",
+   "conf": 0.61
+  },
+  {
+   "text": "TTEH",
+   "conf": 0.24
+  },
+  {
+   "text": "TY",
+   "conf": 0.0
+  },
+  {
+   "text": "W/E",
+   "conf": 0.35
+  },
+  {
+   "text": "AMUUNT",
+   "conf": 0.56
+  },
+  {
+   "text": "{Ri",
+   "conf": 0.45
+  },
+  {
+   "text": "i)",
+   "conf": 0.4
+  },
+  {
+   "text": "p200g",
+   "conf": 0.0
+  },
+  {
+   "text": "0000040",
+   "conf": 0.44
+  },
+  {
+   "text": "3",
+   "conf": 0.19
+  },
+  {
+   "text": "“ib",
+   "conf": 0.41
+  },
+  {
+   "text": "zn",
+   "conf": 0.0
+  },
+  {
+   "text": "3",
+   "conf": 0.52
+  },
+  {
+   "text": "40HH",
+   "conf": 0.46
+  },
+  {
+   "text": "OX/BELLE",
+   "conf": 0.46
+  },
+  {
+   "text": "PADLOCK",
+   "conf": 0.88
+  },
+  {
+   "text": "22",
+   "conf": 0.77
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.96
+  },
+  {
+   "text": "QUANTITY",
+   "conf": 0.96
+  },
+  {
+   "text": "3",
+   "conf": 0.95
+  },
+  {
+   "text": "SUB-TOTAL",
+   "conf": 0.87
+  },
+  {
+   "text": "(GST)",
+   "conf": 0.84
+  },
+  {
+   "text": "24,00",
+   "conf": 0.69
+  },
+  {
+   "text": "DISC",
+   "conf": 0.73
+  },
+  {
+   "text": "(00",
+   "conf": 0.5
+  },
+  {
+   "text": "ROUNDING",
+   "conf": 0.89
+  },
+  {
+   "text": "0.09",
+   "conf": 0.64
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.91
+  },
+  {
+   "text": "24.00",
+   "conf": 0.0
+  },
+  {
+   "text": "CASH",
+   "conf": 0.78
+  },
+  {
+   "text": "So",
+   "conf": 0.13
+  },
+  {
+   "text": ".00",
+   "conf": 0.13
+  },
+  {
+   "text": "CHANGE",
+   "conf": 0.87
+  },
+  {
+   "text": "-",
+   "conf": 0.37
+  },
+  {
+   "text": "24.00",
+   "conf": 0.65
+  },
+  {
+   "text": "KGST",
+   "conf": 0.66
+  },
+  {
+   "text": "@",
+   "conf": 0.89
+  },
+  {
+   "text": "GZ",
+   "conf": 0.68
+  },
+  {
+   "text": "INCLUDED",
+   "conf": 0.68
+  },
+  {
+   "text": "IN",
+   "conf": 0.87
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.87
+  },
+  {
+   "text": "GST",
+   "conf": 0.93
+  },
+  {
+   "text": "SUMMARY",
+   "conf": 0.53
+  },
+  {
+   "text": "CODE",
+   "conf": 0.68
+  },
+  {
+   "text": "AMOUNT",
+   "conf": 0.28
+  },
+  {
+   "text": "%_TAX/ANT",
+   "conf": 0.05
+  },
+  {
+   "text": "SR",
+   "conf": 0.89
+  },
+  {
+   "text": "22.44",
+   "conf": 0.77
+  },
+  {
+   "text": "é",
+   "conf": 0.87
+  },
+  {
+   "text": "1.6",
+   "conf": 0.34
+  },
+  {
+   "text": ")",
+   "conf": 0.0
+  },
+  {
+   "text": "GQODS",
+   "conf": 0.69
+  },
+  {
+   "text": "SOLD",
+   "conf": 0.87
+  },
+  {
+   "text": "&RE",
+   "conf": 0.73
+  },
+  {
+   "text": "NOT",
+   "conf": 0.95
+  },
+  {
+   "text": "Baas",
+   "conf": 0.3
+  },
+  {
+   "text": ".",
+   "conf": 0.0
+  },
+  {
+   "text": "THANE",
+   "conf": 0.92
+  },
+  {
+   "text": "YOU",
+   "conf": 0.92
+  },
+  {
+   "text": "FOR.",
+   "conf": 0.4
+  },
+  {
+   "text": "PLS",
+   "conf": 0.6
+  },
+  {
+   "text": "PROVIDE",
+   "conf": 0.48
+  },
+  {
+   "text": "ORID:",
+   "conf": 0.27
+  },
+  {
+   "text": "BRCHANGE",
+   "conf": 0.52
+  },
+  {
+   "text": "WITHT,",
+   "conf": 0.0
+  },
+  {
+   "text": "GOODS",
+   "conf": 0.44
+  },
+  {
+   "text": "HUST",
+   "conf": 0.54
+  },
+  {
+   "text": "fa",
+   "conf": 0.22
+  }
+ ],
+ "mean_conf": 0.58,
+ "low_conf_share": 0.3719,
+ "latency_ms": 1787,
+ "fields": {
+  "company": "ATK HUAT HARDWARE",
+  "date": "2017-09-15",
+  "total": 24.0
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  24.0
+ ],
+ "key": "X51007339653"
+}

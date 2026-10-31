@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.1-flash-lite",
+ "provider": "gemini",
+ "raw_text": "{\n  \"vendor\": \"WAL-MART\",\n  \"date\": \"2003-02-14\",\n  \"subtotal\": 24.64,\n  \"tax\": 1.48,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 26.12,\n  \"currency\": \"USD\",\n  \"confidence\": 0.98,\n  \"notes\": null\n}",
+ "data": {
+  "vendor": "WAL-MART",
+  "date": "2003-02-14",
+  "subtotal": 24.64,
+  "tax": 1.48,
+  "tip": null,
+  "discount": null,
+  "total": 26.12,
+  "currency": "USD",
+  "confidence": 0.98,
+  "notes": null
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1435,
+  "output_tokens": 106,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.000518,
+ "latency_ms": 1923,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.1-flash-lite",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.1-flash-lite"
+ ],
+ "key": "W0095_b0a88d617075"
+}

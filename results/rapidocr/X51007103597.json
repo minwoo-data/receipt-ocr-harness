@@ -1,0 +1,185 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "31804070",
+  "GOLDEN KEY MAKER",
+  "(000760274-K)",
+  "No 5,JalanKenari2,",
+  "BandarPuchong Jaya,",
+  "47100Puchong,Selangor",
+  "TEL:03-58919941",
+  "FAX:03-58919941",
+  "E-Mail:goldenkeymaker@gmail.com",
+  "Website:www.goidenkeymaker.com",
+  "S/P:onn Inv No:CS-0014464",
+  "11-Apr-201803:12:06PM",
+  "-INVOICE",
+  "No.Desc/Code Qty Price Disc% Amount",
+  "1 33101 NORMAL KEY LONG 2 5.00 00.00 10.00",
+  "Total Qty: 2 Sub-Total : 10.00",
+  "Discount : 0.00",
+  "Net Total : 10.00",
+  "Cash Received : 10.00",
+  "Change : 0.00",
+  "GOODS SOLD ARE NOT RETURNABLE/REFUNDABLE"
+ ],
+ "tokens": [
+  {
+   "text": "31804070",
+   "conf": 0.9097752720117569
+  },
+  {
+   "text": "GOLDEN KEY MAKER",
+   "conf": 0.9489993192255497
+  },
+  {
+   "text": "(000760274-K)",
+   "conf": 0.9738832528774555
+  },
+  {
+   "text": "No 5,JalanKenari2,",
+   "conf": 0.9186763266722361
+  },
+  {
+   "text": "BandarPuchong Jaya,",
+   "conf": 0.9378461508374465
+  },
+  {
+   "text": "47100Puchong,Selangor",
+   "conf": 0.9724708852313814
+  },
+  {
+   "text": "TEL:03-58919941",
+   "conf": 0.9904445370038351
+  },
+  {
+   "text": "FAX:03-58919941",
+   "conf": 0.9882261792818705
+  },
+  {
+   "text": "E-Mail:goldenkeymaker@gmail.com",
+   "conf": 0.9832897417006954
+  },
+  {
+   "text": "Website:www.goidenkeymaker.com",
+   "conf": 0.9735546092192332
+  },
+  {
+   "text": "Inv No:CS-0014464",
+   "conf": 0.9622152412638945
+  },
+  {
+   "text": "S/P:onn",
+   "conf": 0.9746011325291225
+  },
+  {
+   "text": "11-Apr-201803:12:06PM",
+   "conf": 0.975855895451137
+  },
+  {
+   "text": "-INVOICE",
+   "conf": 0.965164303779602
+  },
+  {
+   "text": "Price Disc%",
+   "conf": 0.9616728641770103
+  },
+  {
+   "text": "Amount",
+   "conf": 0.9803441067536672
+  },
+  {
+   "text": "No.Desc/Code Qty",
+   "conf": 0.972310159355402
+  },
+  {
+   "text": "1",
+   "conf": 0.9494168758392334
+  },
+  {
+   "text": "NORMAL KEY LONG",
+   "conf": 0.9735799431800842
+  },
+  {
+   "text": "5.00",
+   "conf": 0.9995018392801285
+  },
+  {
+   "text": "00.00",
+   "conf": 0.9962508678436279
+  },
+  {
+   "text": "10.00",
+   "conf": 0.9995124697685241
+  },
+  {
+   "text": "33101",
+   "conf": 0.9988982200622558
+  },
+  {
+   "text": "2",
+   "conf": 0.9984983205795288
+  },
+  {
+   "text": "Sub-Total :",
+   "conf": 0.9514678608287465
+  },
+  {
+   "text": "10.00",
+   "conf": 0.9997122168540955
+  },
+  {
+   "text": "Total Qty: 2",
+   "conf": 0.9201002866029739
+  },
+  {
+   "text": "0.00",
+   "conf": 0.999587282538414
+  },
+  {
+   "text": "Discount :",
+   "conf": 0.9691537976264953
+  },
+  {
+   "text": "Net Total :",
+   "conf": 0.9454024975950067
+  },
+  {
+   "text": "10.00",
+   "conf": 0.9996239423751831
+  },
+  {
+   "text": "Cash Received :",
+   "conf": 0.9958638350168864
+  },
+  {
+   "text": "10.00",
+   "conf": 0.9996459484100342
+  },
+  {
+   "text": "Change :",
+   "conf": 0.9617712050676346
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9995967298746109
+  },
+  {
+   "text": "GOODS SOLD ARE NOT RETURNABLE/REFUNDABLE",
+   "conf": 0.9548639193177223
+  }
+ ],
+ "mean_conf": 0.9723,
+ "low_conf_share": 0.0,
+ "latency_ms": 4300,
+ "fields": {
+  "company": "GOLDEN KEY MAKER",
+  "date": "2018-04-11",
+  "total": 10.0
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  10.0
+ ],
+ "key": "X51007103597"
+}

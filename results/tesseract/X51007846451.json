@@ -1,0 +1,545 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "PASIR EMAS HARDWARE SDN BHD .",
+  "(801222-M)",
+  "(GST ID No : 000144596992) ‘ee",
+  "NO 69,JALAN PENGKALAN 5,",
+  "TAMAN PASIR EMAS, .",
+  "KG PASIR PUTIH, .",
+  "81700 PASIR GUDANG JOHOR.",
+  "Tel/Fax: 07-271 2406 ,",
+  "Tax Invoice |",
+  "! Bill No : POS/53796",
+  "Date : 23/06/18 12:46:33 PM",
+  "- Cashier : ash",
+  "Payment : Cash",
+  "PLUG TOP 13A(BIASA-MK) @8.00 :",
+  "WAAN34 3 8.00 24.00 SRO ,",
+  "UMS 13A PLUG(SINGLE) @4.00",
+  "ST00014 3 4.00 12.00 SRO |",
+  "Gross Amt: 36.00. | :",
+  "CST (6%) : 0.00 :",
+  "Net Amt : 36.00",
+  "Received 36.00",
+  "Change : - Q.00 !",
+  "Round Adj. : 0.00 , | :",
+  "GST Summary Amount(RM) Tax(RM) )",
+  "SRO @ 0% 36.00 0.00 .",
+  "THANK YOU | ?",
+  "PLEASE COME AGAIN |"
+ ],
+ "tokens": [
+  {
+   "text": "PASIR",
+   "conf": 0.9
+  },
+  {
+   "text": "EMAS",
+   "conf": 0.91
+  },
+  {
+   "text": "HARDWARE",
+   "conf": 0.96
+  },
+  {
+   "text": "SDN",
+   "conf": 0.96
+  },
+  {
+   "text": "BHD",
+   "conf": 0.96
+  },
+  {
+   "text": ".",
+   "conf": 0.31
+  },
+  {
+   "text": "(801222-M)",
+   "conf": 0.89
+  },
+  {
+   "text": "(GST",
+   "conf": 0.95
+  },
+  {
+   "text": "ID",
+   "conf": 0.95
+  },
+  {
+   "text": "No",
+   "conf": 0.87
+  },
+  {
+   "text": ":",
+   "conf": 0.74
+  },
+  {
+   "text": "000144596992)",
+   "conf": 0.94
+  },
+  {
+   "text": "‘ee",
+   "conf": 0.5
+  },
+  {
+   "text": "NO",
+   "conf": 0.88
+  },
+  {
+   "text": "69,JALAN",
+   "conf": 0.88
+  },
+  {
+   "text": "PENGKALAN",
+   "conf": 0.92
+  },
+  {
+   "text": "5,",
+   "conf": 0.91
+  },
+  {
+   "text": "TAMAN",
+   "conf": 0.92
+  },
+  {
+   "text": "PASIR",
+   "conf": 0.91
+  },
+  {
+   "text": "EMAS,",
+   "conf": 0.9
+  },
+  {
+   "text": ".",
+   "conf": 0.18
+  },
+  {
+   "text": "KG",
+   "conf": 0.92
+  },
+  {
+   "text": "PASIR",
+   "conf": 0.9
+  },
+  {
+   "text": "PUTIH,",
+   "conf": 0.91
+  },
+  {
+   "text": ".",
+   "conf": 0.25
+  },
+  {
+   "text": "81700",
+   "conf": 0.93
+  },
+  {
+   "text": "PASIR",
+   "conf": 0.91
+  },
+  {
+   "text": "GUDANG",
+   "conf": 0.91
+  },
+  {
+   "text": "JOHOR.",
+   "conf": 0.95
+  },
+  {
+   "text": "Tel/Fax:",
+   "conf": 0.6
+  },
+  {
+   "text": "07-271",
+   "conf": 0.76
+  },
+  {
+   "text": "2406",
+   "conf": 0.96
+  },
+  {
+   "text": ",",
+   "conf": 0.0
+  },
+  {
+   "text": "Tax",
+   "conf": 0.96
+  },
+  {
+   "text": "Invoice",
+   "conf": 0.95
+  },
+  {
+   "text": "|",
+   "conf": 0.26
+  },
+  {
+   "text": "!",
+   "conf": 0.13
+  },
+  {
+   "text": "Bill",
+   "conf": 0.96
+  },
+  {
+   "text": "No",
+   "conf": 0.96
+  },
+  {
+   "text": ":",
+   "conf": 0.22
+  },
+  {
+   "text": "POS/53796",
+   "conf": 0.89
+  },
+  {
+   "text": "Date",
+   "conf": 0.96
+  },
+  {
+   "text": ":",
+   "conf": 0.0
+  },
+  {
+   "text": "23/06/18",
+   "conf": 0.93
+  },
+  {
+   "text": "12:46:33",
+   "conf": 0.95
+  },
+  {
+   "text": "PM",
+   "conf": 0.96
+  },
+  {
+   "text": "-",
+   "conf": 0.0
+  },
+  {
+   "text": "Cashier",
+   "conf": 0.81
+  },
+  {
+   "text": ":",
+   "conf": 0.3
+  },
+  {
+   "text": "ash",
+   "conf": 0.96
+  },
+  {
+   "text": "Payment",
+   "conf": 0.92
+  },
+  {
+   "text": ":",
+   "conf": 0.8
+  },
+  {
+   "text": "Cash",
+   "conf": 0.95
+  },
+  {
+   "text": "PLUG",
+   "conf": 0.94
+  },
+  {
+   "text": "TOP",
+   "conf": 0.92
+  },
+  {
+   "text": "13A(BIASA-MK)",
+   "conf": 0.89
+  },
+  {
+   "text": "@8.00",
+   "conf": 0.88
+  },
+  {
+   "text": ":",
+   "conf": 0.23
+  },
+  {
+   "text": "WAAN34",
+   "conf": 0.91
+  },
+  {
+   "text": "3",
+   "conf": 0.49
+  },
+  {
+   "text": "8.00",
+   "conf": 0.95
+  },
+  {
+   "text": "24.00",
+   "conf": 0.95
+  },
+  {
+   "text": "SRO",
+   "conf": 0.96
+  },
+  {
+   "text": ",",
+   "conf": 0.0
+  },
+  {
+   "text": "UMS",
+   "conf": 0.91
+  },
+  {
+   "text": "13A",
+   "conf": 0.91
+  },
+  {
+   "text": "PLUG(SINGLE)",
+   "conf": 0.91
+  },
+  {
+   "text": "@4.00",
+   "conf": 0.92
+  },
+  {
+   "text": "ST00014",
+   "conf": 0.55
+  },
+  {
+   "text": "3",
+   "conf": 0.96
+  },
+  {
+   "text": "4.00",
+   "conf": 0.92
+  },
+  {
+   "text": "12.00",
+   "conf": 0.94
+  },
+  {
+   "text": "SRO",
+   "conf": 0.96
+  },
+  {
+   "text": "|",
+   "conf": 0.34
+  },
+  {
+   "text": "Gross",
+   "conf": 0.0
+  },
+  {
+   "text": "Amt:",
+   "conf": 0.0
+  },
+  {
+   "text": "36.00.",
+   "conf": 0.01
+  },
+  {
+   "text": "|",
+   "conf": 0.53
+  },
+  {
+   "text": ":",
+   "conf": 0.14
+  },
+  {
+   "text": "CST",
+   "conf": 0.55
+  },
+  {
+   "text": "(6%)",
+   "conf": 0.92
+  },
+  {
+   "text": ":",
+   "conf": 0.85
+  },
+  {
+   "text": "0.00",
+   "conf": 0.96
+  },
+  {
+   "text": ":",
+   "conf": 0.21
+  },
+  {
+   "text": "Net",
+   "conf": 0.94
+  },
+  {
+   "text": "Amt",
+   "conf": 0.64
+  },
+  {
+   "text": ":",
+   "conf": 0.64
+  },
+  {
+   "text": "36.00",
+   "conf": 0.95
+  },
+  {
+   "text": "Received",
+   "conf": 0.95
+  },
+  {
+   "text": "36.00",
+   "conf": 0.96
+  },
+  {
+   "text": "Change",
+   "conf": 0.92
+  },
+  {
+   "text": ":",
+   "conf": 0.91
+  },
+  {
+   "text": "-",
+   "conf": 0.71
+  },
+  {
+   "text": "Q.00",
+   "conf": 0.68
+  },
+  {
+   "text": "!",
+   "conf": 0.63
+  },
+  {
+   "text": "Round",
+   "conf": 0.96
+  },
+  {
+   "text": "Adj.",
+   "conf": 0.66
+  },
+  {
+   "text": ":",
+   "conf": 0.9
+  },
+  {
+   "text": "0.00",
+   "conf": 0.96
+  },
+  {
+   "text": ",",
+   "conf": 0.0
+  },
+  {
+   "text": "|",
+   "conf": 0.52
+  },
+  {
+   "text": ":",
+   "conf": 0.0
+  },
+  {
+   "text": "GST",
+   "conf": 0.91
+  },
+  {
+   "text": "Summary",
+   "conf": 0.74
+  },
+  {
+   "text": "Amount(RM)",
+   "conf": 0.65
+  },
+  {
+   "text": "Tax(RM)",
+   "conf": 0.17
+  },
+  {
+   "text": ")",
+   "conf": 0.0
+  },
+  {
+   "text": "SRO",
+   "conf": 0.89
+  },
+  {
+   "text": "@",
+   "conf": 0.91
+  },
+  {
+   "text": "0%",
+   "conf": 0.96
+  },
+  {
+   "text": "36.00",
+   "conf": 0.94
+  },
+  {
+   "text": "0.00",
+   "conf": 0.95
+  },
+  {
+   "text": ".",
+   "conf": 0.35
+  },
+  {
+   "text": "THANK",
+   "conf": 0.95
+  },
+  {
+   "text": "YOU",
+   "conf": 0.95
+  },
+  {
+   "text": "|",
+   "conf": 0.39
+  },
+  {
+   "text": "?",
+   "conf": 0.41
+  },
+  {
+   "text": "PLEASE",
+   "conf": 0.96
+  },
+  {
+   "text": "COME",
+   "conf": 0.95
+  },
+  {
+   "text": "AGAIN",
+   "conf": 0.95
+  },
+  {
+   "text": "|",
+   "conf": 0.45
+  }
+ ],
+ "mean_conf": 0.7209,
+ "low_conf_share": 0.2231,
+ "latency_ms": 2120,
+ "fields": {
+  "company": "PASIR EMAS HARDWARE SDN BHD",
+  "date": "2018-06-23",
+  "total": 36.0
+ },
+ "rule_reasons": [
+  "total_no_keyword_fallback_max"
+ ],
+ "total_candidates": [
+  8.0,
+  8.0,
+  24.0,
+  4.0,
+  4.0,
+  12.0,
+  36.0,
+  0.0,
+  36.0,
+  36.0,
+  0.0,
+  36.0,
+  0.0
+ ],
+ "key": "X51007846451"
+}

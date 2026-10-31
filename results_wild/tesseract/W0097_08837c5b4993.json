@@ -1,0 +1,280 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "Bugenvila",
+  "BLUE - MOUITO sone",
+  "PLAVI — MOJITO SORBET",
+  "1.00% 20,0 &. 20,00",
+  "BLUE ~ Sraancnn On seasass",
+  "1,000 x 125,00. G 126,00",
+  "ALE OOTOPUS TERRINE",
+  "PLANT — TERINA 0D HoboTNIcE",
+  "1,000x 10,00 10,00",
+  "AED ~ FOREST FRUIT ICE CREAN",
+  "CFVENT = SLADOLED OD WMSKOG VOKA",
+  "1,000x 15,00 & 15,00",
+  "AED ~ TOMATO. GASPACHO",
+  "1,000 20,00 & 20,00",
+  "UKUPNO kn 29"
+ ],
+ "tokens": [
+  {
+   "text": "Bugenvila",
+   "conf": 0.89
+  },
+  {
+   "text": "BLUE",
+   "conf": 0.77
+  },
+  {
+   "text": "-",
+   "conf": 0.38
+  },
+  {
+   "text": "MOUITO",
+   "conf": 0.23
+  },
+  {
+   "text": "sone",
+   "conf": 0.0
+  },
+  {
+   "text": "PLAVI",
+   "conf": 0.38
+  },
+  {
+   "text": "—",
+   "conf": 0.29
+  },
+  {
+   "text": "MOJITO",
+   "conf": 0.82
+  },
+  {
+   "text": "SORBET",
+   "conf": 0.92
+  },
+  {
+   "text": "1.00%",
+   "conf": 0.58
+  },
+  {
+   "text": "20,0",
+   "conf": 0.58
+  },
+  {
+   "text": "&.",
+   "conf": 0.28
+  },
+  {
+   "text": "20,00",
+   "conf": 0.82
+  },
+  {
+   "text": "BLUE",
+   "conf": 0.59
+  },
+  {
+   "text": "~",
+   "conf": 0.9
+  },
+  {
+   "text": "Sraancnn",
+   "conf": 0.11
+  },
+  {
+   "text": "On",
+   "conf": 0.4
+  },
+  {
+   "text": "seasass",
+   "conf": 0.0
+  },
+  {
+   "text": "1,000",
+   "conf": 0.48
+  },
+  {
+   "text": "x",
+   "conf": 0.48
+  },
+  {
+   "text": "125,00.",
+   "conf": 0.41
+  },
+  {
+   "text": "G",
+   "conf": 0.41
+  },
+  {
+   "text": "126,00",
+   "conf": 0.64
+  },
+  {
+   "text": "ALE",
+   "conf": 0.63
+  },
+  {
+   "text": "OOTOPUS",
+   "conf": 0.17
+  },
+  {
+   "text": "TERRINE",
+   "conf": 0.81
+  },
+  {
+   "text": "PLANT",
+   "conf": 0.67
+  },
+  {
+   "text": "—",
+   "conf": 0.52
+  },
+  {
+   "text": "TERINA",
+   "conf": 0.79
+  },
+  {
+   "text": "0D",
+   "conf": 0.69
+  },
+  {
+   "text": "HoboTNIcE",
+   "conf": 0.0
+  },
+  {
+   "text": "1,000x",
+   "conf": 0.57
+  },
+  {
+   "text": "10,00",
+   "conf": 0.69
+  },
+  {
+   "text": "10,00",
+   "conf": 0.79
+  },
+  {
+   "text": "AED",
+   "conf": 0.73
+  },
+  {
+   "text": "~",
+   "conf": 0.61
+  },
+  {
+   "text": "FOREST",
+   "conf": 0.92
+  },
+  {
+   "text": "FRUIT",
+   "conf": 0.69
+  },
+  {
+   "text": "ICE",
+   "conf": 0.69
+  },
+  {
+   "text": "CREAN",
+   "conf": 0.58
+  },
+  {
+   "text": "CFVENT",
+   "conf": 0.31
+  },
+  {
+   "text": "=",
+   "conf": 0.82
+  },
+  {
+   "text": "SLADOLED",
+   "conf": 0.89
+  },
+  {
+   "text": "OD",
+   "conf": 0.72
+  },
+  {
+   "text": "WMSKOG",
+   "conf": 0.0
+  },
+  {
+   "text": "VOKA",
+   "conf": 0.65
+  },
+  {
+   "text": "1,000x",
+   "conf": 0.8
+  },
+  {
+   "text": "15,00",
+   "conf": 0.69
+  },
+  {
+   "text": "&",
+   "conf": 0.75
+  },
+  {
+   "text": "15,00",
+   "conf": 0.71
+  },
+  {
+   "text": "AED",
+   "conf": 0.62
+  },
+  {
+   "text": "~",
+   "conf": 0.87
+  },
+  {
+   "text": "TOMATO.",
+   "conf": 0.68
+  },
+  {
+   "text": "GASPACHO",
+   "conf": 0.68
+  },
+  {
+   "text": "1,000",
+   "conf": 0.25
+  },
+  {
+   "text": "20,00",
+   "conf": 0.52
+  },
+  {
+   "text": "&",
+   "conf": 0.62
+  },
+  {
+   "text": "20,00",
+   "conf": 0.8
+  },
+  {
+   "text": "UKUPNO",
+   "conf": 0.92
+  },
+  {
+   "text": "kn",
+   "conf": 0.93
+  },
+  {
+   "text": "29",
+   "conf": 0.68
+  }
+ ],
+ "mean_conf": 0.5872,
+ "low_conf_share": 0.2951,
+ "latency_ms": 576,
+ "fields": {
+  "company": "BUGENVILA",
+  "date": null,
+  "total": null
+ },
+ "rule_reasons": [
+  "date_not_found",
+  "total_not_found"
+ ],
+ "total_candidates": [],
+ "key": "W0097_08837c5b4993"
+}

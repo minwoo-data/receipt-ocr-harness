@@ -1,0 +1,242 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "MAPLE & OAK BOOKSTORE",
+  "G-15 MID VALLEY MEGAMALL",
+  "TAX INVOICE",
+  "Date: 19/05/2026 Time: 13:42",
+  "1 x LOCAL EGGS los 6.50",
+  "2 x STEAMED FISH 96.00",
+  "3 x ENGINE OIL 4L 267.00",
+  "2 x WHOLEMEAL BREAD 9.00",
+  "SUBTOTAL 378.50",
+  "GST 6% ARTA,",
+  "TOTAL 401.21",
+  "CASH 406.21",
+  "CHANGE 5.00",
+  "THANK YOU, PLEASE COME AGAIN"
+ ],
+ "tokens": [
+  {
+   "text": "MAPLE",
+   "conf": 0.93
+  },
+  {
+   "text": "&",
+   "conf": 0.93
+  },
+  {
+   "text": "OAK",
+   "conf": 0.96
+  },
+  {
+   "text": "BOOKSTORE",
+   "conf": 0.96
+  },
+  {
+   "text": "G-15",
+   "conf": 0.89
+  },
+  {
+   "text": "MID",
+   "conf": 0.96
+  },
+  {
+   "text": "VALLEY",
+   "conf": 0.93
+  },
+  {
+   "text": "MEGAMALL",
+   "conf": 0.92
+  },
+  {
+   "text": "TAX",
+   "conf": 0.94
+  },
+  {
+   "text": "INVOICE",
+   "conf": 0.94
+  },
+  {
+   "text": "Date:",
+   "conf": 0.96
+  },
+  {
+   "text": "19/05/2026",
+   "conf": 0.96
+  },
+  {
+   "text": "Time:",
+   "conf": 0.95
+  },
+  {
+   "text": "13:42",
+   "conf": 0.95
+  },
+  {
+   "text": "1",
+   "conf": 0.92
+  },
+  {
+   "text": "x",
+   "conf": 0.92
+  },
+  {
+   "text": "LOCAL",
+   "conf": 0.95
+  },
+  {
+   "text": "EGGS",
+   "conf": 0.96
+  },
+  {
+   "text": "los",
+   "conf": 0.42
+  },
+  {
+   "text": "6.50",
+   "conf": 0.96
+  },
+  {
+   "text": "2",
+   "conf": 0.83
+  },
+  {
+   "text": "x",
+   "conf": 0.83
+  },
+  {
+   "text": "STEAMED",
+   "conf": 0.96
+  },
+  {
+   "text": "FISH",
+   "conf": 0.96
+  },
+  {
+   "text": "96.00",
+   "conf": 0.96
+  },
+  {
+   "text": "3",
+   "conf": 0.76
+  },
+  {
+   "text": "x",
+   "conf": 0.76
+  },
+  {
+   "text": "ENGINE",
+   "conf": 0.96
+  },
+  {
+   "text": "OIL",
+   "conf": 0.93
+  },
+  {
+   "text": "4L",
+   "conf": 0.43
+  },
+  {
+   "text": "267.00",
+   "conf": 0.96
+  },
+  {
+   "text": "2",
+   "conf": 0.93
+  },
+  {
+   "text": "x",
+   "conf": 0.93
+  },
+  {
+   "text": "WHOLEMEAL",
+   "conf": 0.9
+  },
+  {
+   "text": "BREAD",
+   "conf": 0.96
+  },
+  {
+   "text": "9.00",
+   "conf": 0.96
+  },
+  {
+   "text": "SUBTOTAL",
+   "conf": 0.95
+  },
+  {
+   "text": "378.50",
+   "conf": 0.93
+  },
+  {
+   "text": "GST",
+   "conf": 0.96
+  },
+  {
+   "text": "6%",
+   "conf": 0.96
+  },
+  {
+   "text": "ARTA,",
+   "conf": 0.23
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.97
+  },
+  {
+   "text": "401.21",
+   "conf": 0.94
+  },
+  {
+   "text": "CASH",
+   "conf": 0.96
+  },
+  {
+   "text": "406.21",
+   "conf": 0.93
+  },
+  {
+   "text": "CHANGE",
+   "conf": 0.96
+  },
+  {
+   "text": "5.00",
+   "conf": 0.96
+  },
+  {
+   "text": "THANK",
+   "conf": 0.96
+  },
+  {
+   "text": "YOU,",
+   "conf": 0.96
+  },
+  {
+   "text": "PLEASE",
+   "conf": 0.96
+  },
+  {
+   "text": "COME",
+   "conf": 0.96
+  },
+  {
+   "text": "AGAIN",
+   "conf": 0.96
+  }
+ ],
+ "mean_conf": 0.9015,
+ "low_conf_share": 0.0577,
+ "latency_ms": 1005,
+ "fields": {
+  "company": "MAPLE OAK BOOKSTORE",
+  "date": "2026-05-19",
+  "total": 401.21
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  401.21
+ ],
+ "key": "SYN040"
+}

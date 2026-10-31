@@ -1,0 +1,284 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "#09800 1, MIPLARD FARMER IND BLVD",
+  "NEWNAN, GA 30263",
+  "110-251-6778",
+  "200 €200 0021 06/16/2017 2:48 PM",
+  "AMAZON GIFT CARD Ne",
+  "621987 1884888973 250.00",
+  "Ga 20:00",
+  "CHANGE 00",
+  "YOU FOR SHOPPING AT WALGREENS",
+  "Is oe BN aes",
+  "SEE OUR WEEKLY AD FOR MORE",
+  "MIION. ITEMS CHANGE WEEKLY.",
+  "ICTIONS APPLY. FOR TERMS AND",
+  "JITIONS, VISIT WALGREENS.COM/BALANCE..",
+  "RENS 0986-0218, 2005-1708. 160",
+  "VAI TOD UN HT"
+ ],
+ "tokens": [
+  {
+   "text": "#09800",
+   "conf": 0.82
+  },
+  {
+   "text": "1,",
+   "conf": 0.66
+  },
+  {
+   "text": "MIPLARD",
+   "conf": 0.5
+  },
+  {
+   "text": "FARMER",
+   "conf": 0.94
+  },
+  {
+   "text": "IND",
+   "conf": 0.95
+  },
+  {
+   "text": "BLVD",
+   "conf": 0.39
+  },
+  {
+   "text": "NEWNAN,",
+   "conf": 0.72
+  },
+  {
+   "text": "GA",
+   "conf": 0.87
+  },
+  {
+   "text": "30263",
+   "conf": 0.87
+  },
+  {
+   "text": "110-251-6778",
+   "conf": 0.67
+  },
+  {
+   "text": "200",
+   "conf": 0.83
+  },
+  {
+   "text": "€200",
+   "conf": 0.72
+  },
+  {
+   "text": "0021",
+   "conf": 0.55
+  },
+  {
+   "text": "06/16/2017",
+   "conf": 0.55
+  },
+  {
+   "text": "2:48",
+   "conf": 0.95
+  },
+  {
+   "text": "PM",
+   "conf": 0.96
+  },
+  {
+   "text": "AMAZON",
+   "conf": 0.95
+  },
+  {
+   "text": "GIFT",
+   "conf": 0.94
+  },
+  {
+   "text": "CARD",
+   "conf": 0.9
+  },
+  {
+   "text": "Ne",
+   "conf": 0.42
+  },
+  {
+   "text": "621987",
+   "conf": 0.72
+  },
+  {
+   "text": "1884888973",
+   "conf": 0.87
+  },
+  {
+   "text": "250.00",
+   "conf": 0.95
+  },
+  {
+   "text": "Ga",
+   "conf": 0.2
+  },
+  {
+   "text": "20:00",
+   "conf": 0.45
+  },
+  {
+   "text": "CHANGE",
+   "conf": 0.86
+  },
+  {
+   "text": "00",
+   "conf": 0.8
+  },
+  {
+   "text": "YOU",
+   "conf": 0.89
+  },
+  {
+   "text": "FOR",
+   "conf": 0.96
+  },
+  {
+   "text": "SHOPPING",
+   "conf": 0.96
+  },
+  {
+   "text": "AT",
+   "conf": 0.96
+  },
+  {
+   "text": "WALGREENS",
+   "conf": 0.85
+  },
+  {
+   "text": "Is",
+   "conf": 0.09
+  },
+  {
+   "text": "oe",
+   "conf": 0.0
+  },
+  {
+   "text": "BN",
+   "conf": 0.32
+  },
+  {
+   "text": "aes",
+   "conf": 0.25
+  },
+  {
+   "text": "SEE",
+   "conf": 0.73
+  },
+  {
+   "text": "OUR",
+   "conf": 0.88
+  },
+  {
+   "text": "WEEKLY",
+   "conf": 0.95
+  },
+  {
+   "text": "AD",
+   "conf": 0.95
+  },
+  {
+   "text": "FOR",
+   "conf": 0.95
+  },
+  {
+   "text": "MORE",
+   "conf": 0.95
+  },
+  {
+   "text": "MIION.",
+   "conf": 0.26
+  },
+  {
+   "text": "ITEMS",
+   "conf": 0.95
+  },
+  {
+   "text": "CHANGE",
+   "conf": 0.96
+  },
+  {
+   "text": "WEEKLY.",
+   "conf": 0.58
+  },
+  {
+   "text": "ICTIONS",
+   "conf": 0.4
+  },
+  {
+   "text": "APPLY.",
+   "conf": 0.93
+  },
+  {
+   "text": "FOR",
+   "conf": 0.94
+  },
+  {
+   "text": "TERMS",
+   "conf": 0.94
+  },
+  {
+   "text": "AND",
+   "conf": 0.94
+  },
+  {
+   "text": "JITIONS,",
+   "conf": 0.25
+  },
+  {
+   "text": "VISIT",
+   "conf": 0.93
+  },
+  {
+   "text": "WALGREENS.COM/BALANCE..",
+   "conf": 0.32
+  },
+  {
+   "text": "RENS",
+   "conf": 0.34
+  },
+  {
+   "text": "0986-0218,",
+   "conf": 0.48
+  },
+  {
+   "text": "2005-1708.",
+   "conf": 0.63
+  },
+  {
+   "text": "160",
+   "conf": 0.49
+  },
+  {
+   "text": "VAI",
+   "conf": 0.34
+  },
+  {
+   "text": "TOD",
+   "conf": 0.22
+  },
+  {
+   "text": "UN",
+   "conf": 0.17
+  },
+  {
+   "text": "HT",
+   "conf": 0.17
+  }
+ ],
+ "mean_conf": 0.6765,
+ "low_conf_share": 0.3065,
+ "latency_ms": 1023,
+ "fields": {
+  "company": "1 MIPLARD FARMER IND BLVD",
+  "date": "2017-06-16",
+  "total": null
+ },
+ "rule_reasons": [
+  "total_not_found"
+ ],
+ "total_candidates": [],
+ "key": "W0128_51d4b79aa2f3"
+}

@@ -1,0 +1,324 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "TAX INVOICE",
+  "DOMINO'S PIZZA",
+  "GST REF NO :001694261248",
+  "DOMINO'S PIZZA PERMAS JAYA",
+  "No.12, Jalan Permas Jaya 10,",
+  "Bandar Baru Permas Jaya, 81750 Masai",
+  "Johor",
+  "CARRY OUT NOW Pay By: CASH",
+  "Order ：7163 By :5533",
+  "Order Time:17:57:32 Date :27/04/18",
+  "5",
+  "Pickup Time:18:12:32",
+  "Qty Menu Desc Coupon Diso Price",
+  "1 6\"HT (KB) P50C-PSI 15.60",
+  "8.40 15.60",
+  "Total Items",
+  "Sub-Total 15.60",
+  "Coupon Discount 8.40",
+  "Grand Total 7.20",
+  "Payment 10.00",
+  "Change Due ： 02.80",
+  "*6% GST Included ： 0.41",
+  "SUPPORT OUR SMILE CAMPAIGN",
+  "Did we smile at you?",
+  "Let us know at",
+  "www.dominos.com.ny/smile and",
+  "receive a 30% off side item e-coupon",
+  "upon survey submission",
+  "Survey Code: CBD271560716357",
+  "Thank you for visiting Domino's.",
+  "Please Come Again!",
+  "1-300-888-333",
+  "www.dominos.com.my",
+  "We are compliant to the PDPA 2010.",
+  "Visit www.dominos.com.my/terms",
+  "to view our Personal Data",
+  "Protection Policy.",
+  "Owned by",
+  "Dommal Food Services Sdn Bhd",
+  "Co.No.419060-A"
+ ],
+ "tokens": [
+  {
+   "text": "TAX INVOICE",
+   "conf": 0.9824002818627791
+  },
+  {
+   "text": "DOMINO'S PIZZA",
+   "conf": 0.9643133538109916
+  },
+  {
+   "text": "GST REF NO :001694261248",
+   "conf": 0.926016703248024
+  },
+  {
+   "text": "DOMINO'S PIZZA PERMAS JAYA",
+   "conf": 0.96704939695505
+  },
+  {
+   "text": "No.12, Jalan Permas Jaya 10,",
+   "conf": 0.9558223379509789
+  },
+  {
+   "text": "Bandar Baru Permas Jaya, 81750 Masai",
+   "conf": 0.9491696622636583
+  },
+  {
+   "text": "Johor",
+   "conf": 0.9956404447555542
+  },
+  {
+   "text": "CARRY OUT NOW",
+   "conf": 0.9816354971665603
+  },
+  {
+   "text": "Pay By: CASH",
+   "conf": 0.9884285827477773
+  },
+  {
+   "text": "Order",
+   "conf": 0.9817024946212769
+  },
+  {
+   "text": "：7163",
+   "conf": 0.909318995475769
+  },
+  {
+   "text": "By",
+   "conf": 0.8898725509643555
+  },
+  {
+   "text": ":5533",
+   "conf": 0.910270893573761
+  },
+  {
+   "text": "Order Time:17:57:32",
+   "conf": 0.9657192324337206
+  },
+  {
+   "text": "Date",
+   "conf": 0.9970892071723938
+  },
+  {
+   "text": ":27/04/18",
+   "conf": 0.9931647843784757
+  },
+  {
+   "text": "5",
+   "conf": 0.518801266948382
+  },
+  {
+   "text": "Pickup",
+   "conf": 0.9748408794403076
+  },
+  {
+   "text": "Time:18:12:32",
+   "conf": 0.952724658525907
+  },
+  {
+   "text": "Qty",
+   "conf": 0.8777084549268087
+  },
+  {
+   "text": "Menu",
+   "conf": 0.997824177145958
+  },
+  {
+   "text": "Desc",
+   "conf": 0.9186054021120071
+  },
+  {
+   "text": "Coupon",
+   "conf": 0.9672435621420542
+  },
+  {
+   "text": "Diso",
+   "conf": 0.8615501746535301
+  },
+  {
+   "text": "Price",
+   "conf": 0.9873778939247131
+  },
+  {
+   "text": "1",
+   "conf": 0.9963591694831848
+  },
+  {
+   "text": "6\"HT",
+   "conf": 0.9580582827329636
+  },
+  {
+   "text": "(KB)",
+   "conf": 0.9227875024080276
+  },
+  {
+   "text": "P50C-PSI",
+   "conf": 0.9131131619215012
+  },
+  {
+   "text": "15.60",
+   "conf": 0.9986319541931152
+  },
+  {
+   "text": "8.40",
+   "conf": 0.9995561689138412
+  },
+  {
+   "text": "15.60",
+   "conf": 0.9992979049682618
+  },
+  {
+   "text": "Total Items",
+   "conf": 0.9871758981184526
+  },
+  {
+   "text": "Sub-Total",
+   "conf": 0.9976915650897555
+  },
+  {
+   "text": "15.60",
+   "conf": 0.9997615694999695
+  },
+  {
+   "text": "Coupon Discount",
+   "conf": 0.9983261307080586
+  },
+  {
+   "text": "8.40",
+   "conf": 0.9991972148418427
+  },
+  {
+   "text": "Grand Total",
+   "conf": 0.9905928048220548
+  },
+  {
+   "text": "7.20",
+   "conf": 0.9994336664676666
+  },
+  {
+   "text": "Payment",
+   "conf": 0.9985028760773795
+  },
+  {
+   "text": "10.00",
+   "conf": 0.9989602923393249
+  },
+  {
+   "text": "Change Due",
+   "conf": 0.9565821349620819
+  },
+  {
+   "text": "：",
+   "conf": 0.5763919353485107
+  },
+  {
+   "text": "02.80",
+   "conf": 0.9984457731246948
+  },
+  {
+   "text": "*6% GST Included",
+   "conf": 0.938335869461298
+  },
+  {
+   "text": "：",
+   "conf": 0.7780308723449707
+  },
+  {
+   "text": "0.41",
+   "conf": 0.9985322207212448
+  },
+  {
+   "text": "SUPPORT OUR SMILE",
+   "conf": 0.982852066264433
+  },
+  {
+   "text": "CAMPAIGN",
+   "conf": 0.9938376769423485
+  },
+  {
+   "text": "Did we smile at you?",
+   "conf": 0.9487907499074936
+  },
+  {
+   "text": "Let us know at",
+   "conf": 0.9545906356402806
+  },
+  {
+   "text": "www.dominos.com.ny/smile and",
+   "conf": 0.9943995369332177
+  },
+  {
+   "text": "receive a 30% off side item e-coupon",
+   "conf": 0.9818654225932227
+  },
+  {
+   "text": "upon survey submission",
+   "conf": 0.9785126772793856
+  },
+  {
+   "text": "Survey Code: CBD271560716357",
+   "conf": 0.948757854955537
+  },
+  {
+   "text": "Thank you for visiting Domino's.",
+   "conf": 0.9774550963193178
+  },
+  {
+   "text": "Please Come Again!",
+   "conf": 0.9799481961462233
+  },
+  {
+   "text": "1-300-888-333",
+   "conf": 0.9947234667264498
+  },
+  {
+   "text": "www.dominos.com.my",
+   "conf": 0.9973244071006775
+  },
+  {
+   "text": "We are compliant to the PDPA 2010.",
+   "conf": 0.9756121021859786
+  },
+  {
+   "text": "Visit www.dominos.com.my/terms",
+   "conf": 0.9713034272193909
+  },
+  {
+   "text": "to view our Personal Data",
+   "conf": 0.9571469926834106
+  },
+  {
+   "text": "Protection Policy.",
+   "conf": 0.9846749537520938
+  },
+  {
+   "text": "Owned by",
+   "conf": 0.9851554930210114
+  },
+  {
+   "text": "Dommal Food Services Sdn Bhd",
+   "conf": 0.9427941931145531
+  },
+  {
+   "text": "Co.No.419060-A",
+   "conf": 0.9924027494021824
+  }
+ ],
+ "mean_conf": 0.9539,
+ "low_conf_share": 0.0,
+ "latency_ms": 4527,
+ "fields": {
+  "company": "DOMINO S PIZZA",
+  "date": "2018-04-27",
+  "total": 7.2
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  7.2
+ ],
+ "key": "X51006414721"
+}

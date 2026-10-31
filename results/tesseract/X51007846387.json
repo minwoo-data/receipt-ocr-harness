@@ -1,0 +1,773 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "Joba? > | oO",
+  "é | ,",
+  "BOOK TALK (MUTIARA RINI) SDN BHD | Se",
+  "| 1203399-T |",
+  ". : NO. 53 & 55, JALAN UTAMA 34, | . ,",
+  ") MUTIARA RINI, | :",
+  "SKUDAL, | |",
+  ". JOHOR. !",
+  "GST Reg.: 000445296640 | |",
+  "TL :",
+  "Document No. MR-T01105105 | |",
+  "Date: 21/6/2018 9:14:08 PM !",
+  "Cashier : CASHIER J}",
+  "Member : |",
+  "' | TAX INVOICE |",
+  "> CODE/DESC PRICE Disc AMOUNT TAX |",
+  "ory RM RM CODE |",
+  "De Be a ee ee",
+  "9555047308127 C812 XTRA DOCUMENT CASE Ad |",
+  "_ 2UNIT * 4.650000 - 0.00 930 SR | |",
+  ": |",
+  "Totai Inclusive GST 0% : 9.30 ! . ,",
+  ": Rounding Adjustment : 0.00",
+  "- Rounded Total (RM): 9.30 |",
+  "CHANGE 1.00 |",
+  "GST Summary Armount(RM) Tax(RM) , :",
+  "SR @ 0% , 9.30 0.00 |",
+  "' GOODS SOLD ARE NOT RETURNABLE OR |",
+  ", EXCHANGEABLE |",
+  ": ACPO EE), BRAS Rae a he |",
+  "SATE, SSR. ett ! | |",
+  "| THANK YOU ,",
+  "| , , PLEASE COME AGAIN ! | |"
+ ],
+ "tokens": [
+  {
+   "text": "Joba?",
+   "conf": 0.0
+  },
+  {
+   "text": ">",
+   "conf": 0.0
+  },
+  {
+   "text": "|",
+   "conf": 0.83
+  },
+  {
+   "text": "oO",
+   "conf": 0.0
+  },
+  {
+   "text": "é",
+   "conf": 0.85
+  },
+  {
+   "text": "|",
+   "conf": 0.76
+  },
+  {
+   "text": ",",
+   "conf": 0.19
+  },
+  {
+   "text": "BOOK",
+   "conf": 0.96
+  },
+  {
+   "text": "TALK",
+   "conf": 0.88
+  },
+  {
+   "text": "(MUTIARA",
+   "conf": 0.88
+  },
+  {
+   "text": "RINI)",
+   "conf": 0.92
+  },
+  {
+   "text": "SDN",
+   "conf": 0.96
+  },
+  {
+   "text": "BHD",
+   "conf": 0.96
+  },
+  {
+   "text": "|",
+   "conf": 0.57
+  },
+  {
+   "text": "Se",
+   "conf": 0.0
+  },
+  {
+   "text": "|",
+   "conf": 0.52
+  },
+  {
+   "text": "1203399-T",
+   "conf": 0.91
+  },
+  {
+   "text": "|",
+   "conf": 0.93
+  },
+  {
+   "text": ".",
+   "conf": 0.27
+  },
+  {
+   "text": ":",
+   "conf": 0.34
+  },
+  {
+   "text": "NO.",
+   "conf": 0.92
+  },
+  {
+   "text": "53",
+   "conf": 0.83
+  },
+  {
+   "text": "&",
+   "conf": 0.9
+  },
+  {
+   "text": "55,",
+   "conf": 0.96
+  },
+  {
+   "text": "JALAN",
+   "conf": 0.92
+  },
+  {
+   "text": "UTAMA",
+   "conf": 0.92
+  },
+  {
+   "text": "34,",
+   "conf": 0.96
+  },
+  {
+   "text": "|",
+   "conf": 0.91
+  },
+  {
+   "text": ".",
+   "conf": 0.28
+  },
+  {
+   "text": ",",
+   "conf": 0.0
+  },
+  {
+   "text": ")",
+   "conf": 0.21
+  },
+  {
+   "text": "MUTIARA",
+   "conf": 0.91
+  },
+  {
+   "text": "RINI,",
+   "conf": 0.9
+  },
+  {
+   "text": "|",
+   "conf": 0.91
+  },
+  {
+   "text": ":",
+   "conf": 0.0
+  },
+  {
+   "text": "SKUDAL,",
+   "conf": 0.59
+  },
+  {
+   "text": "|",
+   "conf": 0.94
+  },
+  {
+   "text": "|",
+   "conf": 0.6
+  },
+  {
+   "text": ".",
+   "conf": 0.0
+  },
+  {
+   "text": "JOHOR.",
+   "conf": 0.94
+  },
+  {
+   "text": "!",
+   "conf": 0.53
+  },
+  {
+   "text": "GST",
+   "conf": 0.93
+  },
+  {
+   "text": "Reg.:",
+   "conf": 0.89
+  },
+  {
+   "text": "000445296640",
+   "conf": 0.96
+  },
+  {
+   "text": "|",
+   "conf": 0.93
+  },
+  {
+   "text": "|",
+   "conf": 0.45
+  },
+  {
+   "text": "TL",
+   "conf": 0.08
+  },
+  {
+   "text": ":",
+   "conf": 0.02
+  },
+  {
+   "text": "Document",
+   "conf": 0.94
+  },
+  {
+   "text": "No.",
+   "conf": 0.1
+  },
+  {
+   "text": "MR-T01105105",
+   "conf": 0.81
+  },
+  {
+   "text": "|",
+   "conf": 0.95
+  },
+  {
+   "text": "|",
+   "conf": 0.29
+  },
+  {
+   "text": "Date:",
+   "conf": 0.4
+  },
+  {
+   "text": "21/6/2018",
+   "conf": 0.96
+  },
+  {
+   "text": "9:14:08",
+   "conf": 0.96
+  },
+  {
+   "text": "PM",
+   "conf": 0.96
+  },
+  {
+   "text": "!",
+   "conf": 0.57
+  },
+  {
+   "text": "Cashier",
+   "conf": 0.78
+  },
+  {
+   "text": ":",
+   "conf": 0.74
+  },
+  {
+   "text": "CASHIER",
+   "conf": 0.02
+  },
+  {
+   "text": "J}",
+   "conf": 0.0
+  },
+  {
+   "text": "Member",
+   "conf": 0.93
+  },
+  {
+   "text": ":",
+   "conf": 0.81
+  },
+  {
+   "text": "|",
+   "conf": 0.87
+  },
+  {
+   "text": "'",
+   "conf": 0.0
+  },
+  {
+   "text": "|",
+   "conf": 0.51
+  },
+  {
+   "text": "TAX",
+   "conf": 0.96
+  },
+  {
+   "text": "INVOICE",
+   "conf": 0.96
+  },
+  {
+   "text": "|",
+   "conf": 0.93
+  },
+  {
+   "text": ">",
+   "conf": 0.47
+  },
+  {
+   "text": "CODE/DESC",
+   "conf": 0.91
+  },
+  {
+   "text": "PRICE",
+   "conf": 0.94
+  },
+  {
+   "text": "Disc",
+   "conf": 0.82
+  },
+  {
+   "text": "AMOUNT",
+   "conf": 0.87
+  },
+  {
+   "text": "TAX",
+   "conf": 0.95
+  },
+  {
+   "text": "|",
+   "conf": 0.94
+  },
+  {
+   "text": "ory",
+   "conf": 0.46
+  },
+  {
+   "text": "RM",
+   "conf": 0.96
+  },
+  {
+   "text": "RM",
+   "conf": 0.94
+  },
+  {
+   "text": "CODE",
+   "conf": 0.75
+  },
+  {
+   "text": "|",
+   "conf": 0.75
+  },
+  {
+   "text": "De",
+   "conf": 0.15
+  },
+  {
+   "text": "Be",
+   "conf": 0.01
+  },
+  {
+   "text": "a",
+   "conf": 0.32
+  },
+  {
+   "text": "ee",
+   "conf": 0.16
+  },
+  {
+   "text": "ee",
+   "conf": 0.39
+  },
+  {
+   "text": "9555047308127",
+   "conf": 0.05
+  },
+  {
+   "text": "C812",
+   "conf": 0.53
+  },
+  {
+   "text": "XTRA",
+   "conf": 0.94
+  },
+  {
+   "text": "DOCUMENT",
+   "conf": 0.96
+  },
+  {
+   "text": "CASE",
+   "conf": 0.95
+  },
+  {
+   "text": "Ad",
+   "conf": 0.77
+  },
+  {
+   "text": "|",
+   "conf": 0.88
+  },
+  {
+   "text": "_",
+   "conf": 0.1
+  },
+  {
+   "text": "2UNIT",
+   "conf": 0.79
+  },
+  {
+   "text": "*",
+   "conf": 0.92
+  },
+  {
+   "text": "4.650000",
+   "conf": 0.93
+  },
+  {
+   "text": "-",
+   "conf": 0.84
+  },
+  {
+   "text": "0.00",
+   "conf": 0.96
+  },
+  {
+   "text": "930",
+   "conf": 0.91
+  },
+  {
+   "text": "SR",
+   "conf": 0.67
+  },
+  {
+   "text": "|",
+   "conf": 0.67
+  },
+  {
+   "text": "|",
+   "conf": 0.32
+  },
+  {
+   "text": ":",
+   "conf": 0.05
+  },
+  {
+   "text": "|",
+   "conf": 0.86
+  },
+  {
+   "text": "Totai",
+   "conf": 0.89
+  },
+  {
+   "text": "Inclusive",
+   "conf": 0.96
+  },
+  {
+   "text": "GST",
+   "conf": 0.94
+  },
+  {
+   "text": "0%",
+   "conf": 0.93
+  },
+  {
+   "text": ":",
+   "conf": 0.73
+  },
+  {
+   "text": "9.30",
+   "conf": 0.93
+  },
+  {
+   "text": "!",
+   "conf": 0.79
+  },
+  {
+   "text": ".",
+   "conf": 0.35
+  },
+  {
+   "text": ",",
+   "conf": 0.06
+  },
+  {
+   "text": ":",
+   "conf": 0.06
+  },
+  {
+   "text": "Rounding",
+   "conf": 0.96
+  },
+  {
+   "text": "Adjustment",
+   "conf": 0.92
+  },
+  {
+   "text": ":",
+   "conf": 0.07
+  },
+  {
+   "text": "0.00",
+   "conf": 0.59
+  },
+  {
+   "text": "-",
+   "conf": 0.0
+  },
+  {
+   "text": "Rounded",
+   "conf": 0.96
+  },
+  {
+   "text": "Total",
+   "conf": 0.5
+  },
+  {
+   "text": "(RM):",
+   "conf": 0.5
+  },
+  {
+   "text": "9.30",
+   "conf": 0.9
+  },
+  {
+   "text": "|",
+   "conf": 0.62
+  },
+  {
+   "text": "CHANGE",
+   "conf": 0.96
+  },
+  {
+   "text": "1.00",
+   "conf": 0.49
+  },
+  {
+   "text": "|",
+   "conf": 0.55
+  },
+  {
+   "text": "GST",
+   "conf": 0.94
+  },
+  {
+   "text": "Summary",
+   "conf": 0.94
+  },
+  {
+   "text": "Armount(RM)",
+   "conf": 0.3
+  },
+  {
+   "text": "Tax(RM)",
+   "conf": 0.91
+  },
+  {
+   "text": ",",
+   "conf": 0.0
+  },
+  {
+   "text": ":",
+   "conf": 0.26
+  },
+  {
+   "text": "SR",
+   "conf": 0.87
+  },
+  {
+   "text": "@",
+   "conf": 0.87
+  },
+  {
+   "text": "0%",
+   "conf": 0.91
+  },
+  {
+   "text": ",",
+   "conf": 0.0
+  },
+  {
+   "text": "9.30",
+   "conf": 0.81
+  },
+  {
+   "text": "0.00",
+   "conf": 0.96
+  },
+  {
+   "text": "|",
+   "conf": 0.77
+  },
+  {
+   "text": "'",
+   "conf": 0.0
+  },
+  {
+   "text": "GOODS",
+   "conf": 0.96
+  },
+  {
+   "text": "SOLD",
+   "conf": 0.96
+  },
+  {
+   "text": "ARE",
+   "conf": 0.96
+  },
+  {
+   "text": "NOT",
+   "conf": 0.96
+  },
+  {
+   "text": "RETURNABLE",
+   "conf": 0.96
+  },
+  {
+   "text": "OR",
+   "conf": 0.96
+  },
+  {
+   "text": "|",
+   "conf": 0.93
+  },
+  {
+   "text": ",",
+   "conf": 0.0
+  },
+  {
+   "text": "EXCHANGEABLE",
+   "conf": 0.96
+  },
+  {
+   "text": "|",
+   "conf": 0.92
+  },
+  {
+   "text": ":",
+   "conf": 0.52
+  },
+  {
+   "text": "ACPO",
+   "conf": 0.14
+  },
+  {
+   "text": "EE),",
+   "conf": 0.14
+  },
+  {
+   "text": "BRAS",
+   "conf": 0.53
+  },
+  {
+   "text": "Rae",
+   "conf": 0.25
+  },
+  {
+   "text": "a",
+   "conf": 0.32
+  },
+  {
+   "text": "he",
+   "conf": 0.3
+  },
+  {
+   "text": "|",
+   "conf": 0.95
+  },
+  {
+   "text": "SATE,",
+   "conf": 0.37
+  },
+  {
+   "text": "SSR.",
+   "conf": 0.27
+  },
+  {
+   "text": "ett",
+   "conf": 0.27
+  },
+  {
+   "text": "!",
+   "conf": 0.73
+  },
+  {
+   "text": "|",
+   "conf": 0.84
+  },
+  {
+   "text": "|",
+   "conf": 0.21
+  },
+  {
+   "text": "|",
+   "conf": 0.42
+  },
+  {
+   "text": "THANK",
+   "conf": 0.94
+  },
+  {
+   "text": "YOU",
+   "conf": 0.94
+  },
+  {
+   "text": ",",
+   "conf": 0.0
+  },
+  {
+   "text": "|",
+   "conf": 0.55
+  },
+  {
+   "text": ",",
+   "conf": 0.04
+  },
+  {
+   "text": ",",
+   "conf": 0.0
+  },
+  {
+   "text": "PLEASE",
+   "conf": 0.96
+  },
+  {
+   "text": "COME",
+   "conf": 0.96
+  },
+  {
+   "text": "AGAIN",
+   "conf": 0.93
+  },
+  {
+   "text": "!",
+   "conf": 0.86
+  },
+  {
+   "text": "|",
+   "conf": 0.5
+  },
+  {
+   "text": "|",
+   "conf": 0.9
+  }
+ ],
+ "mean_conf": 0.6337,
+ "low_conf_share": 0.3167,
+ "latency_ms": 8454,
+ "fields": {
+  "company": "BOOK TALK SDN BHD SE",
+  "date": "2018-06-21",
+  "total": 9.3
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  9.3
+ ],
+ "key": "X51007846387"
+}

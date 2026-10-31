@@ -1,0 +1,209 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "MR.D.I.Y.(M) SIN BHD",
+  "Co-REG:860671-D",
+  "LOT 1851-A& 1851-B,JALAN KPB6",
+  "KAMASAN PERINDUSTRIAN BALAKONG,",
+  "4330O SERI KEHBANGAN,SELANGOR",
+  "(GSTIDNo:000306020352）",
+  "(SELAYANG MALL)",
+  "-TAX INVOICE-",
+  "WASH NITT 402 *S",
+  "J062/3-6/240",
+  "1X4.30 4.30",
+  "STICKER WS-SB S",
+  "PB21-20/800",
+  "9013039 1X5.50 5.50",
+  "EMERGENCY LIGHT LE0716 *S",
+  "NE51/2/3-60",
+  "6939020440166 1X16.9016.90",
+  "Item(s)=3 Qty(s)：3",
+  "TOTAL INCL.GST06% RM26.70",
+  "CASH RN50.00",
+  "CHANGE RM23.30",
+  "GS1 @6% included in tutal RM1.51",
+  "06-05-1617:11SH01ZJ08 T2 R000602051",
+  "OPERATOR SLC-EALIL ARASI",
+  "EXCHANGE ARE ALLOMEI WITHIN",
+  "3 DAY WITH RECEIPT.",
+  "STRICTLY NO CASH REFUNI."
+ ],
+ "tokens": [
+  {
+   "text": "MR.D.I.Y.(M) SIN BHD",
+   "conf": 0.8038984596729278
+  },
+  {
+   "text": "Co-REG:860671-D",
+   "conf": 0.9458552122116088
+  },
+  {
+   "text": "LOT 1851-A& 1851-B,JALAN KPB6",
+   "conf": 0.8990841281825098
+  },
+  {
+   "text": "KAMASAN PERINDUSTRIAN BALAKONG,",
+   "conf": 0.9408285752419503
+  },
+  {
+   "text": "4330O SERI KEHBANGAN,SELANGOR",
+   "conf": 0.9229673917951255
+  },
+  {
+   "text": "(GSTIDNo:000306020352）",
+   "conf": 0.8835563497109846
+  },
+  {
+   "text": "(SELAYANG MALL)",
+   "conf": 0.9373106996218363
+  },
+  {
+   "text": "-TAX INVOICE-",
+   "conf": 0.9689472592793978
+  },
+  {
+   "text": "WASH NITT 402",
+   "conf": 0.913575468155054
+  },
+  {
+   "text": "*S",
+   "conf": 0.6221884489059448
+  },
+  {
+   "text": "J062/3-6/240",
+   "conf": 0.9438896626234055
+  },
+  {
+   "text": "1X4.30",
+   "conf": 0.9773538410663605
+  },
+  {
+   "text": "4.30",
+   "conf": 0.996795654296875
+  },
+  {
+   "text": "STICKER WS-SB",
+   "conf": 0.9591099940813504
+  },
+  {
+   "text": "S",
+   "conf": 0.7110574841499329
+  },
+  {
+   "text": "PB21-20/800",
+   "conf": 0.9883910092440519
+  },
+  {
+   "text": "9013039",
+   "conf": 0.998220077582768
+  },
+  {
+   "text": "1X5.50",
+   "conf": 0.976982831954956
+  },
+  {
+   "text": "5.50",
+   "conf": 0.9976542443037033
+  },
+  {
+   "text": "EMERGENCY LIGHT LE0716",
+   "conf": 0.9417012171311812
+  },
+  {
+   "text": "*S",
+   "conf": 0.5751316696405411
+  },
+  {
+   "text": "NE51/2/3-60",
+   "conf": 0.9915136965838346
+  },
+  {
+   "text": "6939020440166",
+   "conf": 0.9977086599056537
+  },
+  {
+   "text": "1X16.9016.90",
+   "conf": 0.9875985433657964
+  },
+  {
+   "text": "Item(s)=3",
+   "conf": 0.7641478677590688
+  },
+  {
+   "text": "Qty(s)：3",
+   "conf": 0.8245841041207314
+  },
+  {
+   "text": "TOTAL INCL.GST06%",
+   "conf": 0.9162182737799252
+  },
+  {
+   "text": "RM26.70",
+   "conf": 0.9059223660400936
+  },
+  {
+   "text": "CASH",
+   "conf": 0.9951874911785126
+  },
+  {
+   "text": "RN50.00",
+   "conf": 0.9375979219164167
+  },
+  {
+   "text": "CHANGE",
+   "conf": 0.9934950272242228
+  },
+  {
+   "text": "RM23.30",
+   "conf": 0.9738737089293343
+  },
+  {
+   "text": "GS1 @6% included in tutal",
+   "conf": 0.9094772243499756
+  },
+  {
+   "text": "RM1.51",
+   "conf": 0.9628754158814748
+  },
+  {
+   "text": "06-05-1617:11SH01ZJ08",
+   "conf": 0.9894130996295384
+  },
+  {
+   "text": "T2 R000602051",
+   "conf": 0.9824683116032527
+  },
+  {
+   "text": "OPERATOR SLC-EALIL ARASI",
+   "conf": 0.953119233250618
+  },
+  {
+   "text": "EXCHANGE ARE ALLOMEI WITHIN",
+   "conf": 0.915556064358464
+  },
+  {
+   "text": "3 DAY WITH RECEIPT.",
+   "conf": 0.9253796182180706
+  },
+  {
+   "text": "STRICTLY NO CASH REFUNI.",
+   "conf": 0.9471994911630949
+  }
+ ],
+ "mean_conf": 0.9194,
+ "low_conf_share": 0.0,
+ "latency_ms": 5012,
+ "fields": {
+  "company": "MR D I Y SIN BHD",
+  "date": null,
+  "total": 26.7
+ },
+ "rule_reasons": [
+  "date_not_found"
+ ],
+ "total_candidates": [
+  26.7
+ ],
+ "key": "X51006620175"
+}

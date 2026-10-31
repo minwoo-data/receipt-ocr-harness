@@ -1,0 +1,147 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "99 SPEED MART S/B(519537-X)",
+  "LOT P.T. 2811,JALAN ANGSA,",
+  "TAMAN BERKELEY",
+  "41150 KLANG,SELANGOR",
+  "1SS8-TMN PUSAT KEPONG",
+  "GST 1D.N0:000181747712",
+  "INV0ICEN0:17872/102/T0476",
+  "08:53PM 561781 05-12-16",
+  "5386 STAR BRAND GARBAGE BAG RM15.90S",
+  "3XRM5.30",
+  "Total Sales (Inclusive GST) RM 15.90",
+  "CASH RM 51.00",
+  "CHANGE RM 35.10",
+  "GST Summary Amount(RM) Tax(RM)",
+  "S=6% 15.00 .90",
+  "Thank You. Please come again",
+  "Keep the invoice for applicable returris"
+ ],
+ "tokens": [
+  {
+   "text": "99 SPEED MART S/B(519537-X)",
+   "conf": 0.9279543271771183
+  },
+  {
+   "text": "LOT P.T. 2811,JALAN ANGSA,",
+   "conf": 0.9082667690057021
+  },
+  {
+   "text": "TAMAN BERKELEY",
+   "conf": 0.973132882799421
+  },
+  {
+   "text": "41150 KLANG,SELANGOR",
+   "conf": 0.9645613998174667
+  },
+  {
+   "text": "1SS8-TMN PUSAT KEPONG",
+   "conf": 0.9337745195343381
+  },
+  {
+   "text": "GST 1D.N0:000181747712",
+   "conf": 0.9394160780039701
+  },
+  {
+   "text": "INV0ICEN0:17872/102/T0476",
+   "conf": 0.9598626112937927
+  },
+  {
+   "text": "08:53PM",
+   "conf": 0.9486249940735954
+  },
+  {
+   "text": "561781",
+   "conf": 0.9981268048286438
+  },
+  {
+   "text": "05-12-16",
+   "conf": 0.9970280975103378
+  },
+  {
+   "text": "5386 STAR BRAND GARBAGE BAG",
+   "conf": 0.9543850267374957
+  },
+  {
+   "text": "RM15.90S",
+   "conf": 0.9176965355873108
+  },
+  {
+   "text": "3XRM5.30",
+   "conf": 0.9071483612060547
+  },
+  {
+   "text": "Total Sales (Inclusive GST) RM",
+   "conf": 0.9275944630304972
+  },
+  {
+   "text": "15.90",
+   "conf": 0.9967614412307739
+  },
+  {
+   "text": "CASH RM",
+   "conf": 0.9449443135942731
+  },
+  {
+   "text": "51.00",
+   "conf": 0.9974836945533753
+  },
+  {
+   "text": "CHANGE RM",
+   "conf": 0.9555397232373556
+  },
+  {
+   "text": "35.10",
+   "conf": 0.9916525721549988
+  },
+  {
+   "text": "GST Summary",
+   "conf": 0.9539483839815314
+  },
+  {
+   "text": "Amount(RM)",
+   "conf": 0.8246141612529755
+  },
+  {
+   "text": "Tax(RM)",
+   "conf": 0.9253697054726737
+  },
+  {
+   "text": "S=6%",
+   "conf": 0.8304884731769562
+  },
+  {
+   "text": "15.00",
+   "conf": 0.9918765187263489
+  },
+  {
+   "text": ".90",
+   "conf": 0.9574947953224182
+  },
+  {
+   "text": "Thank You. Please come again",
+   "conf": 0.962346402662141
+  },
+  {
+   "text": "Keep the invoice for applicable returris",
+   "conf": 0.9534123197197915
+  }
+ ],
+ "mean_conf": 0.9461,
+ "low_conf_share": 0.0,
+ "latency_ms": 3456,
+ "fields": {
+  "company": null,
+  "date": "2016-12-05",
+  "total": 15.9
+ },
+ "rule_reasons": [
+  "company_not_found"
+ ],
+ "total_candidates": [
+  15.9
+ ],
+ "key": "X51006619566"
+}

@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.6-flash",
+ "provider": "gemini",
+ "raw_text": "{\"vendor\":\"Bachmann Japanese Restaurant\",\"date\":\"2011-09-26\",\"subtotal\":36.5,\"tax\":2.81,\"tip\":null,\"discount\":null,\"total\":42.95,\"currency\":\"SGD\",\"confidence\":0.95,\"notes\":null}",
+ "data": {
+  "vendor": "Bachmann Japanese Restaurant",
+  "date": "2011-09-26",
+  "subtotal": 36.5,
+  "tax": 2.81,
+  "tip": null,
+  "discount": null,
+  "total": 42.95,
+  "currency": "SGD",
+  "confidence": 0.95,
+  "notes": null
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1433,
+  "output_tokens": 67,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.001326,
+ "latency_ms": 2023,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.6-flash",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.6-flash"
+ ],
+ "key": "W0197_e25a6d8b772f"
+}

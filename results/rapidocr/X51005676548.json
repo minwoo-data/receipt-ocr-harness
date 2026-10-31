@@ -1,0 +1,307 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "t01.08.1",
+  "SYARIKAT PERNIAGAAN GIN KEE",
+  "(81109-A)",
+  "NO290.JALANAIRPANAS",
+  "SETAPAK,",
+  "53200.KUALALUMPUR",
+  "TEL:03-40210276",
+  "GST1D:000750673920",
+  "SIMPLIFIEDTAXINVOICE",
+  "CASH",
+  "Doc No. CS00012751 Date:15/01/2018",
+  "Cashier USER Time:14:24:00",
+  "Salesperson Ref.:",
+  "Item Qty S/Price Amount Tax",
+  "2876 3 1.06 3.18 SR",
+  "HOESPIN",
+  "1937 1 7.95 7.95 SR",
+  "4'HOESHANDLE",
+  "Tota! Qty 11.13",
+  "Totai Sales(Excluding GST) 10.50",
+  "Discount: 0.00",
+  "Total GST 0.63",
+  "Rounding 0.00",
+  "Total Sales(Inclusive of GsT) 11.13",
+  "CASH: 11.13",
+  "Change : 0.00",
+  "GSTSUMMARY",
+  "Tax Code % Amt(RM) Tax(RM)",
+  "SR 6 10.50 0.63",
+  "Total: 10.50 0.63",
+  "GOODSSOLD ARENOTRETURNABLE,THANKYOU"
+ ],
+ "tokens": [
+  {
+   "text": "t01.08.1",
+   "conf": 0.8584406226873398
+  },
+  {
+   "text": "SYARIKAT PERNIAGAAN GIN KEE",
+   "conf": 0.9423115231372692
+  },
+  {
+   "text": "(81109-A)",
+   "conf": 0.9852989713350931
+  },
+  {
+   "text": "NO290.JALANAIRPANAS",
+   "conf": 0.954751337829389
+  },
+  {
+   "text": "SETAPAK,",
+   "conf": 0.9649789929389954
+  },
+  {
+   "text": "53200.KUALALUMPUR",
+   "conf": 0.9761741511961993
+  },
+  {
+   "text": "TEL:03-40210276",
+   "conf": 0.9901073853174845
+  },
+  {
+   "text": "GST1D:000750673920",
+   "conf": 0.9652683569325341
+  },
+  {
+   "text": "SIMPLIFIEDTAXINVOICE",
+   "conf": 0.9897089123725891
+  },
+  {
+   "text": "CASH",
+   "conf": 0.9899199604988098
+  },
+  {
+   "text": "Doc No.",
+   "conf": 0.9175104413713727
+  },
+  {
+   "text": "CS00012751",
+   "conf": 0.9967928528785706
+  },
+  {
+   "text": "Date:15/01/2018",
+   "conf": 0.988722848892212
+  },
+  {
+   "text": "Cashier",
+   "conf": 0.9950692227908543
+  },
+  {
+   "text": "USER",
+   "conf": 0.9889250844717026
+  },
+  {
+   "text": "Time:14:24:00",
+   "conf": 0.9664237866034875
+  },
+  {
+   "text": "Salesperson",
+   "conf": 0.9968222758986733
+  },
+  {
+   "text": "Ref.:",
+   "conf": 0.9499594569206238
+  },
+  {
+   "text": "Item",
+   "conf": 0.9365456402301788
+  },
+  {
+   "text": "Qty",
+   "conf": 0.9960711201032003
+  },
+  {
+   "text": "S/Price",
+   "conf": 0.9868060009820121
+  },
+  {
+   "text": "Amount",
+   "conf": 0.9946426649888357
+  },
+  {
+   "text": "Tax",
+   "conf": 0.9946379065513611
+  },
+  {
+   "text": "2876",
+   "conf": 0.9984414279460907
+  },
+  {
+   "text": "3",
+   "conf": 0.9979557991027832
+  },
+  {
+   "text": "1.06",
+   "conf": 0.9985422939062119
+  },
+  {
+   "text": "3.18",
+   "conf": 0.9953525811433792
+  },
+  {
+   "text": "SR",
+   "conf": 0.9919359683990479
+  },
+  {
+   "text": "HOESPIN",
+   "conf": 0.9957997288022723
+  },
+  {
+   "text": "1937",
+   "conf": 0.9986985623836517
+  },
+  {
+   "text": "1",
+   "conf": 0.9947100877761841
+  },
+  {
+   "text": "7.95",
+   "conf": 0.9996721595525742
+  },
+  {
+   "text": "7.95",
+   "conf": 0.9928622245788574
+  },
+  {
+   "text": "SR",
+   "conf": 0.9932182729244232
+  },
+  {
+   "text": "4'HOESHANDLE",
+   "conf": 0.9620348066091537
+  },
+  {
+   "text": "Tota! Qty",
+   "conf": 0.8828712304433187
+  },
+  {
+   "text": "11.13",
+   "conf": 0.9968373298645019
+  },
+  {
+   "text": "Totai Sales(Excluding GST)",
+   "conf": 0.9729834084327404
+  },
+  {
+   "text": "10.50",
+   "conf": 0.9930880427360534
+  },
+  {
+   "text": "Discount:",
+   "conf": 0.9594203432401022
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9989403933286667
+  },
+  {
+   "text": "Total GST",
+   "conf": 0.979015953010983
+  },
+  {
+   "text": "0.63",
+   "conf": 0.9921323955059052
+  },
+  {
+   "text": "Rounding",
+   "conf": 0.9992433339357376
+  },
+  {
+   "text": "0.00",
+   "conf": 0.998760536313057
+  },
+  {
+   "text": "Total Sales(Inclusive of GsT)",
+   "conf": 0.9072940883965328
+  },
+  {
+   "text": "11.13",
+   "conf": 0.9988279938697815
+  },
+  {
+   "text": "CASH:",
+   "conf": 0.957543408870697
+  },
+  {
+   "text": "11.13",
+   "conf": 0.9983356118202209
+  },
+  {
+   "text": "Change :",
+   "conf": 0.9770352765917778
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9982501268386841
+  },
+  {
+   "text": "GSTSUMMARY",
+   "conf": 0.9864350616931915
+  },
+  {
+   "text": "Tax Code",
+   "conf": 0.9568187668919563
+  },
+  {
+   "text": "%",
+   "conf": 0.9879555702209473
+  },
+  {
+   "text": "Amt(RM)",
+   "conf": 0.9814142159053257
+  },
+  {
+   "text": "Tax(RM)",
+   "conf": 0.9661275744438171
+  },
+  {
+   "text": "SR",
+   "conf": 0.9938051998615265
+  },
+  {
+   "text": "6",
+   "conf": 0.9845798015594482
+  },
+  {
+   "text": "10.50",
+   "conf": 0.9991697311401367
+  },
+  {
+   "text": "0.63",
+   "conf": 0.9991371184587479
+  },
+  {
+   "text": "Total:",
+   "conf": 0.9959417680899302
+  },
+  {
+   "text": "10.50",
+   "conf": 0.9992840170860291
+  },
+  {
+   "text": "0.63",
+   "conf": 0.9975692182779312
+  },
+  {
+   "text": "GOODSSOLD ARENOTRETURNABLE,THANKYOU",
+   "conf": 0.9626791834831238
+  }
+ ],
+ "mean_conf": 0.9792,
+ "low_conf_share": 0.0,
+ "latency_ms": 5903,
+ "fields": {
+  "company": "SYARIKAT PERNIAGAAN GIN KEE",
+  "date": "2018-01-15",
+  "total": 11.13
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  11.13
+ ],
+ "key": "X51005676548"
+}

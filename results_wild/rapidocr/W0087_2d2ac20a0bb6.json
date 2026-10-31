@@ -1,0 +1,206 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "6006",
+  "KFCOLDBURY",
+  "Orion Gate,Gulldford Road",
+  "Woking,GU227NJ",
+  "01215441819",
+  "2015-06-18 05656 11:36AM",
+  "56566426006",
+  "Cashier:730018 Sophie",
+  "TRANS#6006",
+  "3PCALCO/R 3.79",
+  "0.63",
+  "DRIVE THRU 3.79",
+  "CASH5GBP 5.00",
+  "Change 1.21",
+  "VATNUMBER:414021513",
+  "KENTUCKY FRIED CHICKEN(GREAT BRITAIN)LTD",
+  "********************",
+  "Complete our brief survey and receive",
+  "20%off your next purchase",
+  "（5.00min spend required toredeem",
+  "offer)",
+  "********************",
+  "1.Visit ww.YourKFC.co.uk anytime",
+  "within thenext3days",
+  "2.Complete the survey and receive",
+  "your validation code.",
+  "3,Write your validation code here",
+  "Hand in thisreceipt&redeem in store!",
+  "Offermustberedeemed within14days",
+  "of the original receipt.",
+  "Customersmay only take the survey",
+  "once every 30 days."
+ ],
+ "tokens": [
+  {
+   "text": "6006",
+   "conf": 0.997030034661293
+  },
+  {
+   "text": "KFCOLDBURY",
+   "conf": 0.9800831556320191
+  },
+  {
+   "text": "Orion Gate,Gulldford Road",
+   "conf": 0.9196322774887085
+  },
+  {
+   "text": "Woking,GU227NJ",
+   "conf": 0.9663457529885429
+  },
+  {
+   "text": "01215441819",
+   "conf": 0.9625957879153165
+  },
+  {
+   "text": "05656",
+   "conf": 0.9988368272781372
+  },
+  {
+   "text": "2015-06-18",
+   "conf": 0.9962333500385284
+  },
+  {
+   "text": "11:36AM",
+   "conf": 0.9804991653987339
+  },
+  {
+   "text": "56566426006",
+   "conf": 0.9965035590258512
+  },
+  {
+   "text": "Cashier:730018 Sophie",
+   "conf": 0.9537908888998485
+  },
+  {
+   "text": "TRANS#6006",
+   "conf": 0.9731828212738037
+  },
+  {
+   "text": "3PCALCO/R",
+   "conf": 0.9422366751564873
+  },
+  {
+   "text": "3.79",
+   "conf": 0.9943073093891144
+  },
+  {
+   "text": "0.63",
+   "conf": 0.996672660112381
+  },
+  {
+   "text": "DRIVE THRU",
+   "conf": 0.9072603344917297
+  },
+  {
+   "text": "3.79",
+   "conf": 0.9899976700544357
+  },
+  {
+   "text": "CASH5GBP",
+   "conf": 0.9866623729467392
+  },
+  {
+   "text": "5.00",
+   "conf": 0.9942559450864792
+  },
+  {
+   "text": "Change",
+   "conf": 0.9904934962590536
+  },
+  {
+   "text": "1.21",
+   "conf": 0.9266409277915955
+  },
+  {
+   "text": "VATNUMBER:414021513",
+   "conf": 0.9914933537182055
+  },
+  {
+   "text": "KENTUCKY FRIED CHICKEN(GREAT BRITAIN)LTD",
+   "conf": 0.9592681258916855
+  },
+  {
+   "text": "********************",
+   "conf": 0.9962517768144608
+  },
+  {
+   "text": "Complete our brief survey and receive",
+   "conf": 0.9527490251773113
+  },
+  {
+   "text": "20%off your next purchase",
+   "conf": 0.9562017869949341
+  },
+  {
+   "text": "（5.00min spend required toredeem",
+   "conf": 0.9533691890537739
+  },
+  {
+   "text": "offer)",
+   "conf": 0.9892299075921377
+  },
+  {
+   "text": "********************",
+   "conf": 0.9930076479911805
+  },
+  {
+   "text": "1.Visit ww.YourKFC.co.uk anytime",
+   "conf": 0.9329630024731159
+  },
+  {
+   "text": "within thenext3days",
+   "conf": 0.9710193276405334
+  },
+  {
+   "text": "2.Complete the survey and receive",
+   "conf": 0.9621538555983341
+  },
+  {
+   "text": "your validation code.",
+   "conf": 0.9698711207934788
+  },
+  {
+   "text": "3,Write your validation code here",
+   "conf": 0.9496099271557548
+  },
+  {
+   "text": "Hand in thisreceipt&redeem in store!",
+   "conf": 0.930579848587513
+  },
+  {
+   "text": "Offermustberedeemed within14days",
+   "conf": 0.9524894841015339
+  },
+  {
+   "text": "of the original receipt.",
+   "conf": 0.9507335424423218
+  },
+  {
+   "text": "Customersmay only take the survey",
+   "conf": 0.9615526903759349
+  },
+  {
+   "text": "once every 30 days.",
+   "conf": 0.9415156151119032
+  }
+ ],
+ "mean_conf": 0.9676,
+ "low_conf_share": 0.0,
+ "latency_ms": 4561,
+ "fields": {
+  "company": "KFCOLDBURY",
+  "date": "2015-06-18",
+  "total": 5.0
+ },
+ "rule_reasons": [
+  "total_no_keyword_fallback_max"
+ ],
+ "total_candidates": [
+  5.0
+ ],
+ "key": "W0087_2d2ac20a0bb6"
+}

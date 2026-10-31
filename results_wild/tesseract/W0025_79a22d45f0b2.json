@@ -1,0 +1,110 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "ji Q)",
+  "Centng 0, sueETHA RESTAURANT “>",
+  "NET TOTAL fs, 58)",
+  "E. 4&0. €. Thanks... Welcome Again...",
+  "Gat 'SoftTech,Surat Phone :[0261-2472799)"
+ ],
+ "tokens": [
+  {
+   "text": "ji",
+   "conf": 0.47
+  },
+  {
+   "text": "Q)",
+   "conf": 0.45
+  },
+  {
+   "text": "Centng",
+   "conf": 0.0
+  },
+  {
+   "text": "0,",
+   "conf": 0.44
+  },
+  {
+   "text": "sueETHA",
+   "conf": 0.0
+  },
+  {
+   "text": "RESTAURANT",
+   "conf": 0.47
+  },
+  {
+   "text": "“>",
+   "conf": 0.19
+  },
+  {
+   "text": "NET",
+   "conf": 0.68
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.65
+  },
+  {
+   "text": "fs,",
+   "conf": 0.34
+  },
+  {
+   "text": "58)",
+   "conf": 0.65
+  },
+  {
+   "text": "E.",
+   "conf": 0.48
+  },
+  {
+   "text": "4&0.",
+   "conf": 0.37
+  },
+  {
+   "text": "€.",
+   "conf": 0.32
+  },
+  {
+   "text": "Thanks...",
+   "conf": 0.74
+  },
+  {
+   "text": "Welcome",
+   "conf": 0.0
+  },
+  {
+   "text": "Again...",
+   "conf": 0.58
+  },
+  {
+   "text": "Gat",
+   "conf": 0.66
+  },
+  {
+   "text": "'SoftTech,Surat",
+   "conf": 0.08
+  },
+  {
+   "text": "Phone",
+   "conf": 0.55
+  },
+  {
+   "text": ":[0261-2472799)",
+   "conf": 0.61
+  }
+ ],
+ "mean_conf": 0.4157,
+ "low_conf_share": 0.619,
+ "latency_ms": 334,
+ "fields": {
+  "company": "CENTNG 0 SUEETHA RESTAURANT",
+  "date": null,
+  "total": null
+ },
+ "rule_reasons": [
+  "date_not_found",
+  "total_not_found"
+ ],
+ "total_candidates": [],
+ "key": "W0025_79a22d45f0b2"
+}

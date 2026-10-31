@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.1-flash-lite",
+ "provider": "gemini",
+ "raw_text": "{\n  \"vendor\": \"Dream Arts\",\n  \"date\": \"2018-03-29\",\n  \"subtotal\": 14.15,\n  \"tax\": 0.85,\n  \"tip\": null,\n  \"discount\": 0.0,\n  \"total\": 15.0,\n  \"currency\": \"MYR\",\n  \"confidence\": 1.0,\n  \"notes\": null\n}",
+ "data": {
+  "vendor": "Dream Arts",
+  "date": "2018-03-29",
+  "subtotal": 14.15,
+  "tax": 0.85,
+  "tip": null,
+  "discount": 0.0,
+  "total": 15.0,
+  "currency": "MYR",
+  "confidence": 1.0,
+  "notes": null
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1473,
+  "output_tokens": 106,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.000527,
+ "latency_ms": 1673,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.1-flash-lite",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.1-flash-lite"
+ ],
+ "key": "X51006248253"
+}

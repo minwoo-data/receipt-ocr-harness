@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.6-flash",
+ "provider": "gemini",
+ "raw_text": "{\"vendor\": \"BEST BUY\", \"date\": \"2014-07-25\", \"subtotal\": 44.99, \"tax\": 5.85, \"tip\": null, \"discount\": -10.0, \"total\": 50.84, \"currency\": \"CAD\", \"confidence\": 0.95, \"notes\": \"Location is in St. Johns, Newfoundland (Canada), currency is CAD. HST applied, and a $10 RZ CERT discount was used.\"}",
+ "data": {
+  "vendor": "BEST BUY",
+  "date": "2014-07-25",
+  "subtotal": 44.99,
+  "tax": 5.85,
+  "tip": null,
+  "discount": -10.0,
+  "total": 50.84,
+  "currency": "CAD",
+  "confidence": 0.95,
+  "notes": "Location is in St. Johns, Newfoundland (Canada), currency is CAD. HST applied, and a $10 RZ CERT discount was used."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1433,
+  "output_tokens": 116,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.00151,
+ "latency_ms": 1728,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.6-flash",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.6-flash"
+ ],
+ "key": "W0036_7d7af605dcd6"
+}

@@ -1,0 +1,140 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "DAIKO",
+  "203-392-3626",
+  "400DERBY AVEWEST HAVEN CT.",
+  "04/15/17 19:38-NIC-1No.42",
+  "TABLE:A1 1 [2]1",
+  "Edamame 4.00",
+  "Wasabi Shumai 5.00",
+  "Sp Tuna+Avo Salad 9.50",
+  "Fresh Scallop SA,2PC 7.50",
+  "R Double Daiker 14.95",
+  "RSpider 14.50",
+  "SubTOTAL: 55.43",
+  "Tax: 3.52",
+  "TOTAL:58.95",
+  "THANK YOU",
+  "COME AGAIN!"
+ ],
+ "tokens": [
+  {
+   "text": "203-392-3626",
+   "conf": 0.9968483696381251
+  },
+  {
+   "text": "DAIKO",
+   "conf": 0.9879528045654297
+  },
+  {
+   "text": "400DERBY AVEWEST HAVEN CT.",
+   "conf": 0.9435260800214914
+  },
+  {
+   "text": "04/15/17 19:38-NIC-1No.42",
+   "conf": 0.9765017414093018
+  },
+  {
+   "text": "TABLE:A1",
+   "conf": 0.966462753713131
+  },
+  {
+   "text": "1",
+   "conf": 0.9787992238998413
+  },
+  {
+   "text": "[2]1",
+   "conf": 0.9475971162319183
+  },
+  {
+   "text": "Edamame",
+   "conf": 0.986458556992667
+  },
+  {
+   "text": "4.00",
+   "conf": 0.9955397695302963
+  },
+  {
+   "text": "Wasabi Shumai",
+   "conf": 0.9471322481448834
+  },
+  {
+   "text": "5.00",
+   "conf": 0.9976278245449066
+  },
+  {
+   "text": "Sp Tuna+Avo Salad",
+   "conf": 0.9339859766118667
+  },
+  {
+   "text": "9.50",
+   "conf": 0.9964913874864578
+  },
+  {
+   "text": "Fresh Scallop SA,2PC",
+   "conf": 0.8933165848255158
+  },
+  {
+   "text": "7.50",
+   "conf": 0.9971186220645905
+  },
+  {
+   "text": "R Double Daiker",
+   "conf": 0.9538551688194274
+  },
+  {
+   "text": "14.95",
+   "conf": 0.9975948095321655
+  },
+  {
+   "text": "RSpider",
+   "conf": 0.989950452532087
+  },
+  {
+   "text": "14.50",
+   "conf": 0.9955485224723816
+  },
+  {
+   "text": "SubTOTAL:",
+   "conf": 0.9726135002242194
+  },
+  {
+   "text": "55.43",
+   "conf": 0.9940844058990479
+  },
+  {
+   "text": "Tax:",
+   "conf": 0.976474404335022
+  },
+  {
+   "text": "3.52",
+   "conf": 0.9952681213617325
+  },
+  {
+   "text": "TOTAL:58.95",
+   "conf": 0.9679250066930597
+  },
+  {
+   "text": "THANK YOU",
+   "conf": 0.9720768597390916
+  },
+  {
+   "text": "COME AGAIN!",
+   "conf": 0.9486945813352411
+  }
+ ],
+ "mean_conf": 0.9734,
+ "low_conf_share": 0.0,
+ "latency_ms": 2869,
+ "fields": {
+  "company": "DAIKO",
+  "date": "2017-04-15",
+  "total": 58.95
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  58.95
+ ],
+ "key": "W0109_296f42bfafc1"
+}

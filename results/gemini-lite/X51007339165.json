@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.1-flash-lite",
+ "provider": "gemini",
+ "raw_text": "{\n  \"vendor\": \"SANYU STATIONERY SHOP\",\n  \"date\": \"2017-11-29\",\n  \"subtotal\": 31.7,\n  \"tax\": 1.9,\n  \"tip\": null,\n  \"discount\": 0.0,\n  \"total\": 33.6,\n  \"currency\": \"MYR\",\n  \"confidence\": 0.98,\n  \"notes\": null\n}",
+ "data": {
+  "vendor": "SANYU STATIONERY SHOP",
+  "date": "2017-11-29",
+  "subtotal": 31.7,
+  "tax": 1.9,
+  "tip": null,
+  "discount": 0.0,
+  "total": 33.6,
+  "currency": "MYR",
+  "confidence": 0.98,
+  "notes": null
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1429,
+  "output_tokens": 109,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.000521,
+ "latency_ms": 1650,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.1-flash-lite",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.1-flash-lite"
+ ],
+ "key": "X51007339165"
+}

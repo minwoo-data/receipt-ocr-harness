@@ -1,0 +1,154 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "Jollibee:",
+  "Entrek(B)Sdn.Bhd.",
+  "JollibeeYayasanComplexB06",
+  "22328902232891",
+  "**************************************",
+  "2POS2 2Hjh Joy",
+  "Chk No:20052",
+  "18Feb1413:04:18",
+  "DINE IN",
+  "C1CI 3.70",
+  "UMSDR",
+  "CASH 10.00",
+  "Total item sold: 2",
+  "Subtotal: 3.70",
+  "Total: 3.70",
+  "Payment: 10.00",
+  "Change Due: 6.30",
+  "-2CL0SED18Feb1413:04:49",
+  "Official Receipt",
+  "Terima Kasih! Sila Datang Lagi!"
+ ],
+ "tokens": [
+  {
+   "text": "Jollibee:",
+   "conf": 0.9172563519742754
+  },
+  {
+   "text": "Entrek(B)Sdn.Bhd.",
+   "conf": 0.9491034711108488
+  },
+  {
+   "text": "JollibeeYayasanComplexB06",
+   "conf": 0.9554075264930725
+  },
+  {
+   "text": "22328902232891",
+   "conf": 0.9990356138774327
+  },
+  {
+   "text": "**************************************",
+   "conf": 0.9981540174860704
+  },
+  {
+   "text": "2POS2",
+   "conf": 0.9336444139480591
+  },
+  {
+   "text": "2Hjh Joy",
+   "conf": 0.9126697555184364
+  },
+  {
+   "text": "Chk No:20052",
+   "conf": 0.9577680677175522
+  },
+  {
+   "text": "18Feb1413:04:18",
+   "conf": 0.9779686649640401
+  },
+  {
+   "text": "DINE IN",
+   "conf": 0.9319306782313755
+  },
+  {
+   "text": "C1CI",
+   "conf": 0.9371787011623383
+  },
+  {
+   "text": "3.70",
+   "conf": 0.9973665028810501
+  },
+  {
+   "text": "UMSDR",
+   "conf": 0.9896099448204041
+  },
+  {
+   "text": "CASH",
+   "conf": 0.9776487499475479
+  },
+  {
+   "text": "10.00",
+   "conf": 0.998003113269806
+  },
+  {
+   "text": "Total item sold:",
+   "conf": 0.9162611179053783
+  },
+  {
+   "text": "2",
+   "conf": 0.9995607733726501
+  },
+  {
+   "text": "Subtotal:",
+   "conf": 0.9920388393931918
+  },
+  {
+   "text": "3.70",
+   "conf": 0.9969712346792221
+  },
+  {
+   "text": "Total:",
+   "conf": 0.9864813188711802
+  },
+  {
+   "text": "3.70",
+   "conf": 0.9967777580022812
+  },
+  {
+   "text": "Payment:",
+   "conf": 0.988604411482811
+  },
+  {
+   "text": "10.00",
+   "conf": 0.9982079863548279
+  },
+  {
+   "text": "Change Due:",
+   "conf": 0.972989640452645
+  },
+  {
+   "text": "6.30",
+   "conf": 0.9968558102846146
+  },
+  {
+   "text": "-2CL0SED18Feb1413:04:49",
+   "conf": 0.9578838607539302
+  },
+  {
+   "text": "Official Receipt",
+   "conf": 0.9800013117492199
+  },
+  {
+   "text": "Terima Kasih! Sila Datang Lagi!",
+   "conf": 0.9225023504226438
+  }
+ ],
+ "mean_conf": 0.9692,
+ "low_conf_share": 0.0,
+ "latency_ms": 3473,
+ "fields": {
+  "company": "JOLLIBEE ENTREK SDN BHD",
+  "date": null,
+  "total": 3.7
+ },
+ "rule_reasons": [
+  "date_not_found"
+ ],
+ "total_candidates": [
+  3.7
+ ],
+ "key": "W0154_6cdc7ec61f74"
+}

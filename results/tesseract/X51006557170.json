@@ -1,0 +1,732 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "GARDENIA BAKERIES (KL) SDN BILD (139386 X)",
+  "Lot 3, Jalan Pelabur 23/1,",
+  "40300 Shah Alam, Selangor.",
+  "Tel: 03- $5423228 Fax:03- 55423213",
+  "GST TD: 000381399040",
+  "TAX INVOICE / ADJUSTMENT NOTE",
+  "A Cash Inv No.: 7029F711",
+  "vl b Date: 29/10/2017",
+  "HAKASSAR FRESH MARKET SDN BHD",
+  "GROUND FLOOR, NO. 4 & 6,",
+  "JALAN SS 15/4B,",
+  "4750@ SUBANG JAYA, SELANGOR",
+  "VEOS: Ridzuan (11900)",
+  "a DD: 29/10/2017 11:39",
+  "Descripti 1 U.P Iss Exc D Sale Amt(RM)",
+  "0.c. WHIIE 2.15 9 6 @ 9 19.17",
+  "WHOL EMEAL 2.78 8 2 0 6 16.68",
+  "0.C JUMBO 2.97 3 oo 3 8.91",
+  "Total @% supplies: 44.76",
+  "TWIG-CHOC 1.33 10 6 @ 10 13.30",
+  "Total G% supplies (excl. GST): 13.30",
+  "GST: 0.80",
+  "Total 6% supplies (Inc. GST): 14.10 |",
+  "Total 0% supplies: 44.76 |",
+  ") Total Payable: 58.86 |",
+  "Received above goods in good order condition. |",
+  "The recipient of Gardenia's products is",
+  "required to make necessary adjustments to its",
+  "input tax claims, on the basic of the",
+  "adjustments shown in this Tax Invoice /",
+  "ROSES NO",
+  "CUSTOMER'S COPY"
+ ],
+ "tokens": [
+  {
+   "text": "GARDENIA",
+   "conf": 0.95
+  },
+  {
+   "text": "BAKERIES",
+   "conf": 0.95
+  },
+  {
+   "text": "(KL)",
+   "conf": 0.93
+  },
+  {
+   "text": "SDN",
+   "conf": 0.96
+  },
+  {
+   "text": "BILD",
+   "conf": 0.44
+  },
+  {
+   "text": "(139386",
+   "conf": 0.94
+  },
+  {
+   "text": "X)",
+   "conf": 0.92
+  },
+  {
+   "text": "Lot",
+   "conf": 0.95
+  },
+  {
+   "text": "3,",
+   "conf": 0.95
+  },
+  {
+   "text": "Jalan",
+   "conf": 0.93
+  },
+  {
+   "text": "Pelabur",
+   "conf": 0.92
+  },
+  {
+   "text": "23/1,",
+   "conf": 0.96
+  },
+  {
+   "text": "40300",
+   "conf": 0.96
+  },
+  {
+   "text": "Shah",
+   "conf": 0.96
+  },
+  {
+   "text": "Alam,",
+   "conf": 0.95
+  },
+  {
+   "text": "Selangor.",
+   "conf": 0.94
+  },
+  {
+   "text": "Tel:",
+   "conf": 0.92
+  },
+  {
+   "text": "03-",
+   "conf": 0.86
+  },
+  {
+   "text": "$5423228",
+   "conf": 0.56
+  },
+  {
+   "text": "Fax:03-",
+   "conf": 0.86
+  },
+  {
+   "text": "55423213",
+   "conf": 0.95
+  },
+  {
+   "text": "GST",
+   "conf": 0.96
+  },
+  {
+   "text": "TD:",
+   "conf": 0.74
+  },
+  {
+   "text": "000381399040",
+   "conf": 0.91
+  },
+  {
+   "text": "TAX",
+   "conf": 0.93
+  },
+  {
+   "text": "INVOICE",
+   "conf": 0.92
+  },
+  {
+   "text": "/",
+   "conf": 0.92
+  },
+  {
+   "text": "ADJUSTMENT",
+   "conf": 0.63
+  },
+  {
+   "text": "NOTE",
+   "conf": 0.96
+  },
+  {
+   "text": "A",
+   "conf": 0.38
+  },
+  {
+   "text": "Cash",
+   "conf": 0.89
+  },
+  {
+   "text": "Inv",
+   "conf": 0.86
+  },
+  {
+   "text": "No.:",
+   "conf": 0.44
+  },
+  {
+   "text": "7029F711",
+   "conf": 0.68
+  },
+  {
+   "text": "vl",
+   "conf": 0.47
+  },
+  {
+   "text": "b",
+   "conf": 0.0
+  },
+  {
+   "text": "Date:",
+   "conf": 0.95
+  },
+  {
+   "text": "29/10/2017",
+   "conf": 0.86
+  },
+  {
+   "text": "HAKASSAR",
+   "conf": 0.78
+  },
+  {
+   "text": "FRESH",
+   "conf": 0.96
+  },
+  {
+   "text": "MARKET",
+   "conf": 0.96
+  },
+  {
+   "text": "SDN",
+   "conf": 0.91
+  },
+  {
+   "text": "BHD",
+   "conf": 0.77
+  },
+  {
+   "text": "GROUND",
+   "conf": 0.96
+  },
+  {
+   "text": "FLOOR,",
+   "conf": 0.96
+  },
+  {
+   "text": "NO.",
+   "conf": 0.95
+  },
+  {
+   "text": "4",
+   "conf": 0.74
+  },
+  {
+   "text": "&",
+   "conf": 0.74
+  },
+  {
+   "text": "6,",
+   "conf": 0.96
+  },
+  {
+   "text": "JALAN",
+   "conf": 0.95
+  },
+  {
+   "text": "SS",
+   "conf": 0.91
+  },
+  {
+   "text": "15/4B,",
+   "conf": 0.91
+  },
+  {
+   "text": "4750@",
+   "conf": 0.84
+  },
+  {
+   "text": "SUBANG",
+   "conf": 0.91
+  },
+  {
+   "text": "JAYA,",
+   "conf": 0.91
+  },
+  {
+   "text": "SELANGOR",
+   "conf": 0.96
+  },
+  {
+   "text": "VEOS:",
+   "conf": 0.45
+  },
+  {
+   "text": "Ridzuan",
+   "conf": 0.91
+  },
+  {
+   "text": "(11900)",
+   "conf": 0.96
+  },
+  {
+   "text": "a",
+   "conf": 0.25
+  },
+  {
+   "text": "DD:",
+   "conf": 0.95
+  },
+  {
+   "text": "29/10/2017",
+   "conf": 0.73
+  },
+  {
+   "text": "11:39",
+   "conf": 0.37
+  },
+  {
+   "text": "Descripti",
+   "conf": 0.47
+  },
+  {
+   "text": "1",
+   "conf": 0.42
+  },
+  {
+   "text": "U.P",
+   "conf": 0.69
+  },
+  {
+   "text": "Iss",
+   "conf": 0.69
+  },
+  {
+   "text": "Exc",
+   "conf": 0.54
+  },
+  {
+   "text": "D",
+   "conf": 0.54
+  },
+  {
+   "text": "Sale",
+   "conf": 0.58
+  },
+  {
+   "text": "Amt(RM)",
+   "conf": 0.52
+  },
+  {
+   "text": "0.c.",
+   "conf": 0.7
+  },
+  {
+   "text": "WHIIE",
+   "conf": 0.68
+  },
+  {
+   "text": "2.15",
+   "conf": 0.86
+  },
+  {
+   "text": "9",
+   "conf": 0.94
+  },
+  {
+   "text": "6",
+   "conf": 0.55
+  },
+  {
+   "text": "@",
+   "conf": 0.85
+  },
+  {
+   "text": "9",
+   "conf": 0.95
+  },
+  {
+   "text": "19.17",
+   "conf": 0.95
+  },
+  {
+   "text": "WHOL",
+   "conf": 0.72
+  },
+  {
+   "text": "EMEAL",
+   "conf": 0.72
+  },
+  {
+   "text": "2.78",
+   "conf": 0.95
+  },
+  {
+   "text": "8",
+   "conf": 0.91
+  },
+  {
+   "text": "2",
+   "conf": 0.73
+  },
+  {
+   "text": "0",
+   "conf": 0.73
+  },
+  {
+   "text": "6",
+   "conf": 0.94
+  },
+  {
+   "text": "16.68",
+   "conf": 0.9
+  },
+  {
+   "text": "0.C",
+   "conf": 0.77
+  },
+  {
+   "text": "JUMBO",
+   "conf": 0.96
+  },
+  {
+   "text": "2.97",
+   "conf": 0.93
+  },
+  {
+   "text": "3",
+   "conf": 0.96
+  },
+  {
+   "text": "oo",
+   "conf": 0.6
+  },
+  {
+   "text": "3",
+   "conf": 0.96
+  },
+  {
+   "text": "8.91",
+   "conf": 0.94
+  },
+  {
+   "text": "Total",
+   "conf": 0.93
+  },
+  {
+   "text": "@%",
+   "conf": 0.63
+  },
+  {
+   "text": "supplies:",
+   "conf": 0.92
+  },
+  {
+   "text": "44.76",
+   "conf": 0.66
+  },
+  {
+   "text": "TWIG-CHOC",
+   "conf": 0.42
+  },
+  {
+   "text": "1.33",
+   "conf": 0.95
+  },
+  {
+   "text": "10",
+   "conf": 0.91
+  },
+  {
+   "text": "6",
+   "conf": 0.78
+  },
+  {
+   "text": "@",
+   "conf": 0.78
+  },
+  {
+   "text": "10",
+   "conf": 0.86
+  },
+  {
+   "text": "13.30",
+   "conf": 0.86
+  },
+  {
+   "text": "Total",
+   "conf": 0.92
+  },
+  {
+   "text": "G%",
+   "conf": 0.23
+  },
+  {
+   "text": "supplies",
+   "conf": 0.91
+  },
+  {
+   "text": "(excl.",
+   "conf": 0.91
+  },
+  {
+   "text": "GST):",
+   "conf": 0.89
+  },
+  {
+   "text": "13.30",
+   "conf": 0.58
+  },
+  {
+   "text": "GST:",
+   "conf": 0.66
+  },
+  {
+   "text": "0.80",
+   "conf": 0.38
+  },
+  {
+   "text": "Total",
+   "conf": 0.94
+  },
+  {
+   "text": "6%",
+   "conf": 0.94
+  },
+  {
+   "text": "supplies",
+   "conf": 0.87
+  },
+  {
+   "text": "(Inc.",
+   "conf": 0.89
+  },
+  {
+   "text": "GST):",
+   "conf": 0.86
+  },
+  {
+   "text": "14.10",
+   "conf": 0.74
+  },
+  {
+   "text": "|",
+   "conf": 0.19
+  },
+  {
+   "text": "Total",
+   "conf": 0.96
+  },
+  {
+   "text": "0%",
+   "conf": 0.44
+  },
+  {
+   "text": "supplies:",
+   "conf": 0.91
+  },
+  {
+   "text": "44.76",
+   "conf": 0.59
+  },
+  {
+   "text": "|",
+   "conf": 0.94
+  },
+  {
+   "text": ")",
+   "conf": 0.21
+  },
+  {
+   "text": "Total",
+   "conf": 0.95
+  },
+  {
+   "text": "Payable:",
+   "conf": 0.95
+  },
+  {
+   "text": "58.86",
+   "conf": 0.54
+  },
+  {
+   "text": "|",
+   "conf": 0.58
+  },
+  {
+   "text": "Received",
+   "conf": 0.96
+  },
+  {
+   "text": "above",
+   "conf": 0.96
+  },
+  {
+   "text": "goods",
+   "conf": 0.96
+  },
+  {
+   "text": "in",
+   "conf": 0.96
+  },
+  {
+   "text": "good",
+   "conf": 0.96
+  },
+  {
+   "text": "order",
+   "conf": 0.96
+  },
+  {
+   "text": "condition.",
+   "conf": 0.95
+  },
+  {
+   "text": "|",
+   "conf": 0.85
+  },
+  {
+   "text": "The",
+   "conf": 0.96
+  },
+  {
+   "text": "recipient",
+   "conf": 0.67
+  },
+  {
+   "text": "of",
+   "conf": 0.92
+  },
+  {
+   "text": "Gardenia's",
+   "conf": 0.9
+  },
+  {
+   "text": "products",
+   "conf": 0.96
+  },
+  {
+   "text": "is",
+   "conf": 0.96
+  },
+  {
+   "text": "required",
+   "conf": 0.96
+  },
+  {
+   "text": "to",
+   "conf": 0.96
+  },
+  {
+   "text": "make",
+   "conf": 0.96
+  },
+  {
+   "text": "necessary",
+   "conf": 0.96
+  },
+  {
+   "text": "adjustments",
+   "conf": 0.95
+  },
+  {
+   "text": "to",
+   "conf": 0.96
+  },
+  {
+   "text": "its",
+   "conf": 0.96
+  },
+  {
+   "text": "input",
+   "conf": 0.94
+  },
+  {
+   "text": "tax",
+   "conf": 0.95
+  },
+  {
+   "text": "claims,",
+   "conf": 0.96
+  },
+  {
+   "text": "on",
+   "conf": 0.96
+  },
+  {
+   "text": "the",
+   "conf": 0.96
+  },
+  {
+   "text": "basic",
+   "conf": 0.96
+  },
+  {
+   "text": "of",
+   "conf": 0.96
+  },
+  {
+   "text": "the",
+   "conf": 0.96
+  },
+  {
+   "text": "adjustments",
+   "conf": 0.91
+  },
+  {
+   "text": "shown",
+   "conf": 0.95
+  },
+  {
+   "text": "in",
+   "conf": 0.92
+  },
+  {
+   "text": "this",
+   "conf": 0.95
+  },
+  {
+   "text": "Tax",
+   "conf": 0.96
+  },
+  {
+   "text": "Invoice",
+   "conf": 0.93
+  },
+  {
+   "text": "/",
+   "conf": 0.93
+  },
+  {
+   "text": "ROSES",
+   "conf": 0.0
+  },
+  {
+   "text": "NO",
+   "conf": 0.32
+  },
+  {
+   "text": "CUSTOMER'S",
+   "conf": 0.96
+  },
+  {
+   "text": "COPY",
+   "conf": 0.95
+  }
+ ],
+ "mean_conf": 0.8139,
+ "low_conf_share": 0.1059,
+ "latency_ms": 2295,
+ "fields": {
+  "company": "GARDENIA BAKERIES SDN BILD",
+  "date": "2017-10-29",
+  "total": 58.86
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  58.86
+ ],
+ "key": "X51006557170"
+}

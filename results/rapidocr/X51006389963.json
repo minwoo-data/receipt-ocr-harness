@@ -1,0 +1,465 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "ELKEN",
+  "SERVICE",
+  "ELKEN SERVICE SDNBHD(310184-X)",
+  "No2-1Jalan3/137BBatu5",
+  "JalanKelangLama58000KualaLumpur",
+  "Tel:603-79859377Faxno:03-79807585",
+  "Email:elkenservice@elken.com.my",
+  "GST Reg No:000154042368",
+  "TAXINVOICE",
+  "DATE :10 0CT 2017 TUE",
+  "S/0NO ：SS3511032318",
+  "JOB TYPE :MAINTENANCE",
+  "INVOICE NO:ESS447-004439",
+  "BILL TO WONG PEI HAR",
+  "ADDRESS :2920/1，JALAN JINJANG INDAH 1,",
+  "JINJANG UTARA,",
+  "52000 KEPONG，KUALA LUMPUR.",
+  "：0122536936",
+  "IYPEOF UNIT",
+  "DESCRIPTION SUPPLY PRICE QTY TOTAL",
+  "RM RM",
+  "VALUEPACKA-BPSERSR 235.85 1 235.85",
+  "-CARBON FILTER-BPSERIES 1",
+  "-SEDIMENIFILTER-BPSERIES 1",
+  "SUBTOTAL 235.85",
+  "DISCOUNT",
+  "SUBTOTAI(FXCiUDING GST) 235.85",
+  "GST(6%) 14.15",
+  "TOTALAMOUNTDUE 250.00",
+  "PAYMENT MODE:CASH 250.00",
+  "GST SUMMARY: AMOUNT GST AMOUNT",
+  "EXCLUSIVE INCLUSIVE",
+  "RM RM RM",
+  "0%ZRL:Zerorate 0.00 0.00 0.00",
+  "6%SR :Standardrate 235.85 14.15 250.00",
+  "0%RS :ReliefSupply 0.00 0.00 0.00",
+  "TOTALAMOUNT 235.85 14.15 250.00",
+  "CHECKLIST",
+  "-Feedwaterpressure(psi) 20",
+  "-FeedwaterTDS 006",
+  "BeforeserviceROTDS 000",
+  "AfterserviceROTDS 000",
+  "REMARK",
+  "BP37613 chg 12",
+  "CustomerAcceptanceof AttendedBy",
+  "Product&Service FONG MUNLOONG",
+  "ingoodorder Tech ID:ESS447",
+  "01:55:59PM",
+  "merSignature",
+  "ThankYou"
+ ],
+ "tokens": [
+  {
+   "text": "ELKEN",
+   "conf": 0.9988866806030273
+  },
+  {
+   "text": "SERVICE",
+   "conf": 0.9982717122350421
+  },
+  {
+   "text": "ELKEN SERVICE SDNBHD(310184-X)",
+   "conf": 0.9628599186738332
+  },
+  {
+   "text": "No2-1Jalan3/137BBatu5",
+   "conf": 0.9910969138145447
+  },
+  {
+   "text": "JalanKelangLama58000KualaLumpur",
+   "conf": 0.9900234879985932
+  },
+  {
+   "text": "Tel:603-79859377Faxno:03-79807585",
+   "conf": 0.9786171407410593
+  },
+  {
+   "text": "Email:elkenservice@elken.com.my",
+   "conf": 0.9749772164129442
+  },
+  {
+   "text": "GST Reg No:000154042368",
+   "conf": 0.9363341772038004
+  },
+  {
+   "text": "TAXINVOICE",
+   "conf": 0.9933200955390931
+  },
+  {
+   "text": "DATE",
+   "conf": 0.9972260445356369
+  },
+  {
+   "text": ":10 0CT 2017 TUE",
+   "conf": 0.9018622972071171
+  },
+  {
+   "text": "S/0NO",
+   "conf": 0.9321790337562561
+  },
+  {
+   "text": "：SS3511032318",
+   "conf": 0.9858666658401489
+  },
+  {
+   "text": "JOB TYPE",
+   "conf": 0.9359700679779053
+  },
+  {
+   "text": ":MAINTENANCE",
+   "conf": 0.9447304631272951
+  },
+  {
+   "text": "INVOICE NO:ESS447-004439",
+   "conf": 0.9484822625915209
+  },
+  {
+   "text": "BILL TO",
+   "conf": 0.9504896061761039
+  },
+  {
+   "text": "WONG PEI HAR",
+   "conf": 0.9651952236890793
+  },
+  {
+   "text": "ADDRESS",
+   "conf": 0.9952856983457293
+  },
+  {
+   "text": ":2920/1，JALAN JINJANG INDAH 1,",
+   "conf": 0.9191131472587586
+  },
+  {
+   "text": "JINJANG UTARA,",
+   "conf": 0.940615849835532
+  },
+  {
+   "text": "52000 KEPONG，KUALA LUMPUR.",
+   "conf": 0.9283413256590183
+  },
+  {
+   "text": "：0122536936",
+   "conf": 0.983501976186579
+  },
+  {
+   "text": "IYPEOF",
+   "conf": 0.9774973293145498
+  },
+  {
+   "text": "UNIT",
+   "conf": 0.9654449224472046
+  },
+  {
+   "text": "DESCRIPTION",
+   "conf": 0.9901207306168296
+  },
+  {
+   "text": "SUPPLY",
+   "conf": 0.9920746286710104
+  },
+  {
+   "text": "PRICE",
+   "conf": 0.9961167454719544
+  },
+  {
+   "text": "QTY",
+   "conf": 0.9673634171485901
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.9900241613388061
+  },
+  {
+   "text": "RM",
+   "conf": 0.9970738291740417
+  },
+  {
+   "text": "RM",
+   "conf": 0.996147483587265
+  },
+  {
+   "text": "VALUEPACKA-BPSERSR",
+   "conf": 0.9964875744448768
+  },
+  {
+   "text": "235.85",
+   "conf": 0.9998396337032318
+  },
+  {
+   "text": "1",
+   "conf": 0.9903607368469238
+  },
+  {
+   "text": "235.85",
+   "conf": 0.9994789163271586
+  },
+  {
+   "text": "-CARBON FILTER-BPSERIES",
+   "conf": 0.9709078177161838
+  },
+  {
+   "text": "1",
+   "conf": 0.9926453828811646
+  },
+  {
+   "text": "-SEDIMENIFILTER-BPSERIES",
+   "conf": 0.97312464316686
+  },
+  {
+   "text": "1",
+   "conf": 0.9927791953086853
+  },
+  {
+   "text": "SUBTOTAL",
+   "conf": 0.9864493310451508
+  },
+  {
+   "text": "235.85",
+   "conf": 0.9998961289723715
+  },
+  {
+   "text": "DISCOUNT",
+   "conf": 0.9852436035871506
+  },
+  {
+   "text": "SUBTOTAI(FXCiUDING GST)",
+   "conf": 0.8882385155429011
+  },
+  {
+   "text": "235.85",
+   "conf": 0.9998798668384552
+  },
+  {
+   "text": "GST(6%)",
+   "conf": 0.9555209449359349
+  },
+  {
+   "text": "14.15",
+   "conf": 0.9928803443908691
+  },
+  {
+   "text": "TOTALAMOUNTDUE",
+   "conf": 0.9714425929955074
+  },
+  {
+   "text": "250.00",
+   "conf": 0.9999118248621622
+  },
+  {
+   "text": "PAYMENT MODE:CASH",
+   "conf": 0.9590749635415918
+  },
+  {
+   "text": "250.00",
+   "conf": 0.9996395111083984
+  },
+  {
+   "text": "GST SUMMARY:",
+   "conf": 0.9095284889141718
+  },
+  {
+   "text": "AMOUNT",
+   "conf": 0.9961207310358683
+  },
+  {
+   "text": "GST",
+   "conf": 0.9989217321077982
+  },
+  {
+   "text": "AMOUNT",
+   "conf": 0.9951740205287933
+  },
+  {
+   "text": "EXCLUSIVE",
+   "conf": 0.9870472417937385
+  },
+  {
+   "text": "INCLUSIVE",
+   "conf": 0.9909571078088548
+  },
+  {
+   "text": "RM",
+   "conf": 0.9982841312885284
+  },
+  {
+   "text": "RM",
+   "conf": 0.9986429512500763
+  },
+  {
+   "text": "RM",
+   "conf": 0.9981960654258728
+  },
+  {
+   "text": "0%ZRL:Zerorate",
+   "conf": 0.9645289650985173
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9997517764568329
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9997115731239319
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9993331581354141
+  },
+  {
+   "text": "6%SR",
+   "conf": 0.9994012415409088
+  },
+  {
+   "text": ":Standardrate",
+   "conf": 0.9697192173737746
+  },
+  {
+   "text": "235.85",
+   "conf": 0.999723881483078
+  },
+  {
+   "text": "14.15",
+   "conf": 0.9996971845626831
+  },
+  {
+   "text": "250.00",
+   "conf": 0.9998220503330231
+  },
+  {
+   "text": "0%RS",
+   "conf": 0.9962190538644791
+  },
+  {
+   "text": ":ReliefSupply",
+   "conf": 0.9642996742175176
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9996944516897202
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9996256828308105
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9996807873249054
+  },
+  {
+   "text": "TOTALAMOUNT",
+   "conf": 0.9937939047813416
+  },
+  {
+   "text": "235.85",
+   "conf": 0.9998791714509329
+  },
+  {
+   "text": "14.15",
+   "conf": 0.9995528936386109
+  },
+  {
+   "text": "250.00",
+   "conf": 0.9998721778392792
+  },
+  {
+   "text": "CHECKLIST",
+   "conf": 0.9819590515560574
+  },
+  {
+   "text": "-Feedwaterpressure(psi)",
+   "conf": 0.9761978102766949
+  },
+  {
+   "text": "20",
+   "conf": 0.9996722042560577
+  },
+  {
+   "text": "-FeedwaterTDS",
+   "conf": 0.9624623793822068
+  },
+  {
+   "text": "006",
+   "conf": 0.9985553026199341
+  },
+  {
+   "text": "BeforeserviceROTDS",
+   "conf": 0.9623780482345157
+  },
+  {
+   "text": "000",
+   "conf": 0.9990635514259338
+  },
+  {
+   "text": "AfterserviceROTDS",
+   "conf": 0.9702357229064492
+  },
+  {
+   "text": "000",
+   "conf": 0.9990361531575521
+  },
+  {
+   "text": "REMARK",
+   "conf": 0.992840975522995
+  },
+  {
+   "text": "BP37613 chg 12",
+   "conf": 0.9292531652109963
+  },
+  {
+   "text": "CustomerAcceptanceof",
+   "conf": 0.9970832169055939
+  },
+  {
+   "text": "AttendedBy",
+   "conf": 0.9972460150718689
+  },
+  {
+   "text": "Product&Service",
+   "conf": 0.9890423814455668
+  },
+  {
+   "text": "FONG MUNLOONG",
+   "conf": 0.9645785735203669
+  },
+  {
+   "text": "ingoodorder",
+   "conf": 0.9980305866761641
+  },
+  {
+   "text": "Tech ID:ESS447",
+   "conf": 0.9703379358564105
+  },
+  {
+   "text": "01:55:59PM",
+   "conf": 0.9830463230609894
+  },
+  {
+   "text": "merSignature",
+   "conf": 0.9923547854026159
+  },
+  {
+   "text": "ThankYou",
+   "conf": 0.9951065629720688
+  }
+ ],
+ "mean_conf": 0.9806,
+ "low_conf_share": 0.0,
+ "latency_ms": 6039,
+ "fields": {
+  "company": "SERVICE ELKEN SERVICE SDNBHD",
+  "date": null,
+  "total": 250.0
+ },
+ "rule_reasons": [
+  "date_not_found"
+ ],
+ "total_candidates": [
+  250.0,
+  250.0
+ ],
+ "key": "X51006389963"
+}

@@ -1,0 +1,162 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "PANDAHINDAHPULAU KETAM RESTAURANT",
+  "M4-A-8,JALANPANDAH INDAH 4/1A,",
+  "PANDAH INDAH,55100 KUALA LUMPUR.",
+  "TEL:012-2673122/010-2022293",
+  "* GUEST CHECK *",
+  "Table 6",
+  "Check#:113355 Pax(s): 0",
+  "Date :30-04-201819:50:14",
+  "Server:CASHIER",
+  "KUO POH（C)(2PAX） 6.00",
+  "乙 TEA EXTRA PERSON(1PAX) 2.00",
+  "TONG HOU 10.00",
+  "MUTTAN SLICE 15.00",
+  "SOUP 0.00",
+  "TOMYUM 0.00",
+  "3 NO.OF HEAD(2SET ABOVE) 60.00",
+  "Subtotal: 93.00",
+  "TOTAL: 93.00"
+ ],
+ "tokens": [
+  {
+   "text": "PANDAHINDAHPULAU KETAM RESTAURANT",
+   "conf": 0.9618582888083025
+  },
+  {
+   "text": "M4-A-8,JALANPANDAH INDAH 4/1A,",
+   "conf": 0.9439778486887614
+  },
+  {
+   "text": "PANDAH INDAH,55100 KUALA LUMPUR.",
+   "conf": 0.9534786995500326
+  },
+  {
+   "text": "TEL:012-2673122/010-2022293",
+   "conf": 0.9951128385685108
+  },
+  {
+   "text": "* GUEST CHECK *",
+   "conf": 0.9708430051803589
+  },
+  {
+   "text": "Table 6",
+   "conf": 0.9410360285214016
+  },
+  {
+   "text": "Check#:113355",
+   "conf": 0.9699377921911386
+  },
+  {
+   "text": "Pax(s): 0",
+   "conf": 0.9426614840825399
+  },
+  {
+   "text": "Date",
+   "conf": 0.9934389591217041
+  },
+  {
+   "text": ":30-04-201819:50:14",
+   "conf": 0.9466547024877447
+  },
+  {
+   "text": "Server:CASHIER",
+   "conf": 0.9590498421873365
+  },
+  {
+   "text": "KUO POH（C)(2PAX）",
+   "conf": 0.841868095099926
+  },
+  {
+   "text": "6.00",
+   "conf": 0.9996582418680191
+  },
+  {
+   "text": "乙",
+   "conf": 0.5086938738822937
+  },
+  {
+   "text": "TEA EXTRA PERSON(1PAX)",
+   "conf": 0.9278516633944078
+  },
+  {
+   "text": "2.00",
+   "conf": 0.9984756112098694
+  },
+  {
+   "text": "TONG HOU",
+   "conf": 0.9478680714964867
+  },
+  {
+   "text": "10.00",
+   "conf": 0.9990624070167542
+  },
+  {
+   "text": "MUTTAN SLICE",
+   "conf": 0.9699675242106119
+  },
+  {
+   "text": "15.00",
+   "conf": 0.997786021232605
+  },
+  {
+   "text": "SOUP",
+   "conf": 0.9797795116901398
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9995672255754471
+  },
+  {
+   "text": "TOMYUM",
+   "conf": 0.9924879769484202
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9973008632659912
+  },
+  {
+   "text": "3",
+   "conf": 0.9994183778762817
+  },
+  {
+   "text": "NO.OF HEAD(2SET ABOVE)",
+   "conf": 0.9162606976249001
+  },
+  {
+   "text": "60.00",
+   "conf": 0.9992497801780701
+  },
+  {
+   "text": "Subtotal:",
+   "conf": 0.9907777773009406
+  },
+  {
+   "text": "93.00",
+   "conf": 0.9987598776817321
+  },
+  {
+   "text": "TOTAL:",
+   "conf": 0.9913746019204458
+  },
+  {
+   "text": "93.00",
+   "conf": 0.9998845219612121
+  }
+ ],
+ "mean_conf": 0.9559,
+ "low_conf_share": 0.0,
+ "latency_ms": 3217,
+ "fields": {
+  "company": "PANDAHINDAHPULAU KETAM RESTAURANT",
+  "date": "2018-04-30",
+  "total": 93.0
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  93.0
+ ],
+ "key": "X51008128052"
+}

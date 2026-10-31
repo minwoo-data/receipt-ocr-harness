@@ -1,0 +1,449 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "el ane",
+  "| Sainsbury's Eos",
+  "ae YORK BOOTHAM LOCAL ese",
+  "oT Sainsbury's Supermarkets Ltd rane",
+  "eg 33 Holborn London EC1IN 2HT eure",
+  "ere www. sainsburys .co.uk yon",
+  "oooH Vat Number : 660 4548 36 BS",
+  "~ BANANA SINGLE £0.20 eo",
+  "| 1 BALANCE DUE £0.20 es.",
+  "a CASH £0.20 Bae",
+  "oe ene:",
+  "2) CHANGE £0.00 Ee",
+  "a 09062 #0272 22:42:33 += 16AUG2015 ae",
+  "ee 304930 R062 eee.",
+  "[ee Based on price perception data, you can ae >",
+  "Bas live well for less than you thought at eee",
+  "=| Sainsbury's. For more information go to ele",
+  "2 ae sainsburys .co.uk/| ivewell forless Pp"
+ ],
+ "tokens": [
+  {
+   "text": "el",
+   "conf": 0.19
+  },
+  {
+   "text": "ane",
+   "conf": 0.01
+  },
+  {
+   "text": "|",
+   "conf": 0.19
+  },
+  {
+   "text": "Sainsbury's",
+   "conf": 0.15
+  },
+  {
+   "text": "Eos",
+   "conf": 0.38
+  },
+  {
+   "text": "ae",
+   "conf": 0.05
+  },
+  {
+   "text": "YORK",
+   "conf": 0.92
+  },
+  {
+   "text": "BOOTHAM",
+   "conf": 0.91
+  },
+  {
+   "text": "LOCAL",
+   "conf": 0.96
+  },
+  {
+   "text": "ese",
+   "conf": 0.23
+  },
+  {
+   "text": "oT",
+   "conf": 0.0
+  },
+  {
+   "text": "Sainsbury's",
+   "conf": 0.92
+  },
+  {
+   "text": "Supermarkets",
+   "conf": 0.96
+  },
+  {
+   "text": "Ltd",
+   "conf": 0.96
+  },
+  {
+   "text": "rane",
+   "conf": 0.26
+  },
+  {
+   "text": "eg",
+   "conf": 0.53
+  },
+  {
+   "text": "33",
+   "conf": 0.94
+  },
+  {
+   "text": "Holborn",
+   "conf": 0.94
+  },
+  {
+   "text": "London",
+   "conf": 0.93
+  },
+  {
+   "text": "EC1IN",
+   "conf": 0.43
+  },
+  {
+   "text": "2HT",
+   "conf": 0.91
+  },
+  {
+   "text": "eure",
+   "conf": 0.22
+  },
+  {
+   "text": "ere",
+   "conf": 0.27
+  },
+  {
+   "text": "www.",
+   "conf": 0.86
+  },
+  {
+   "text": "sainsburys",
+   "conf": 0.42
+  },
+  {
+   "text": ".co.uk",
+   "conf": 0.42
+  },
+  {
+   "text": "yon",
+   "conf": 0.18
+  },
+  {
+   "text": "oooH",
+   "conf": 0.0
+  },
+  {
+   "text": "Vat",
+   "conf": 0.96
+  },
+  {
+   "text": "Number",
+   "conf": 0.88
+  },
+  {
+   "text": ":",
+   "conf": 0.85
+  },
+  {
+   "text": "660",
+   "conf": 0.95
+  },
+  {
+   "text": "4548",
+   "conf": 0.91
+  },
+  {
+   "text": "36",
+   "conf": 0.91
+  },
+  {
+   "text": "BS",
+   "conf": 0.04
+  },
+  {
+   "text": "~",
+   "conf": 0.0
+  },
+  {
+   "text": "BANANA",
+   "conf": 0.9
+  },
+  {
+   "text": "SINGLE",
+   "conf": 0.9
+  },
+  {
+   "text": "£0.20",
+   "conf": 0.94
+  },
+  {
+   "text": "eo",
+   "conf": 0.28
+  },
+  {
+   "text": "|",
+   "conf": 0.51
+  },
+  {
+   "text": "1",
+   "conf": 0.7
+  },
+  {
+   "text": "BALANCE",
+   "conf": 0.91
+  },
+  {
+   "text": "DUE",
+   "conf": 0.48
+  },
+  {
+   "text": "£0.20",
+   "conf": 0.96
+  },
+  {
+   "text": "es.",
+   "conf": 0.2
+  },
+  {
+   "text": "a",
+   "conf": 0.35
+  },
+  {
+   "text": "CASH",
+   "conf": 0.27
+  },
+  {
+   "text": "£0.20",
+   "conf": 0.92
+  },
+  {
+   "text": "Bae",
+   "conf": 0.36
+  },
+  {
+   "text": "oe",
+   "conf": 0.22
+  },
+  {
+   "text": "ene:",
+   "conf": 0.06
+  },
+  {
+   "text": "2)",
+   "conf": 0.05
+  },
+  {
+   "text": "CHANGE",
+   "conf": 0.72
+  },
+  {
+   "text": "£0.00",
+   "conf": 0.91
+  },
+  {
+   "text": "Ee",
+   "conf": 0.45
+  },
+  {
+   "text": "a",
+   "conf": 0.35
+  },
+  {
+   "text": "09062",
+   "conf": 0.4
+  },
+  {
+   "text": "#0272",
+   "conf": 0.63
+  },
+  {
+   "text": "22:42:33",
+   "conf": 0.32
+  },
+  {
+   "text": "+=",
+   "conf": 0.22
+  },
+  {
+   "text": "16AUG2015",
+   "conf": 0.36
+  },
+  {
+   "text": "ae",
+   "conf": 0.29
+  },
+  {
+   "text": "ee",
+   "conf": 0.18
+  },
+  {
+   "text": "304930",
+   "conf": 0.53
+  },
+  {
+   "text": "R062",
+   "conf": 0.53
+  },
+  {
+   "text": "eee.",
+   "conf": 0.19
+  },
+  {
+   "text": "[ee",
+   "conf": 0.38
+  },
+  {
+   "text": "Based",
+   "conf": 0.84
+  },
+  {
+   "text": "on",
+   "conf": 0.96
+  },
+  {
+   "text": "price",
+   "conf": 0.96
+  },
+  {
+   "text": "perception",
+   "conf": 0.96
+  },
+  {
+   "text": "data,",
+   "conf": 0.96
+  },
+  {
+   "text": "you",
+   "conf": 0.96
+  },
+  {
+   "text": "can",
+   "conf": 0.96
+  },
+  {
+   "text": "ae",
+   "conf": 0.65
+  },
+  {
+   "text": ">",
+   "conf": 0.06
+  },
+  {
+   "text": "Bas",
+   "conf": 0.32
+  },
+  {
+   "text": "live",
+   "conf": 0.7
+  },
+  {
+   "text": "well",
+   "conf": 0.96
+  },
+  {
+   "text": "for",
+   "conf": 0.96
+  },
+  {
+   "text": "less",
+   "conf": 0.89
+  },
+  {
+   "text": "than",
+   "conf": 0.95
+  },
+  {
+   "text": "you",
+   "conf": 0.95
+  },
+  {
+   "text": "thought",
+   "conf": 0.96
+  },
+  {
+   "text": "at",
+   "conf": 0.96
+  },
+  {
+   "text": "eee",
+   "conf": 0.27
+  },
+  {
+   "text": "=|",
+   "conf": 0.1
+  },
+  {
+   "text": "Sainsbury's.",
+   "conf": 0.6
+  },
+  {
+   "text": "For",
+   "conf": 0.96
+  },
+  {
+   "text": "more",
+   "conf": 0.95
+  },
+  {
+   "text": "information",
+   "conf": 0.96
+  },
+  {
+   "text": "go",
+   "conf": 0.95
+  },
+  {
+   "text": "to",
+   "conf": 0.95
+  },
+  {
+   "text": "ele",
+   "conf": 0.14
+  },
+  {
+   "text": "2",
+   "conf": 0.18
+  },
+  {
+   "text": "ae",
+   "conf": 0.33
+  },
+  {
+   "text": "sainsburys",
+   "conf": 0.0
+  },
+  {
+   "text": ".co.uk/|",
+   "conf": 0.0
+  },
+  {
+   "text": "ivewell",
+   "conf": 0.17
+  },
+  {
+   "text": "forless",
+   "conf": 0.44
+  },
+  {
+   "text": "Pp",
+   "conf": 0.22
+  }
+ ],
+ "mean_conf": 0.5617,
+ "low_conf_share": 0.4804,
+ "latency_ms": 1464,
+ "fields": {
+  "company": "OT SAINSBURY S SUPERMARKETS LTD RANE",
+  "date": "2015-08-16",
+  "total": 0.2
+ },
+ "rule_reasons": [
+  "total_no_keyword_fallback_max"
+ ],
+ "total_candidates": [
+  0.2,
+  0.0
+ ],
+ "key": "W0021_c62899025130"
+}

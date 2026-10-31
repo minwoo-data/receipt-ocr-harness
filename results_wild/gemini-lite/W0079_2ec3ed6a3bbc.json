@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.1-flash-lite",
+ "provider": "gemini",
+ "raw_text": "{\n  \"vendor\": \"California Pizza Kitchen\",\n  \"date\": \"2016-09-09\",\n  \"subtotal\": 120.0,\n  \"tax\": null,\n  \"tip\": null,\n  \"discount\": -18.0,\n  \"total\": 124.6,\n  \"currency\": \"HKD\",\n  \"confidence\": 0.98,\n  \"notes\": \"The currency is inferred as HKD based on the location in Tseung Kwan O, Hong Kong.\"\n}",
+ "data": {
+  "vendor": "California Pizza Kitchen",
+  "date": "2016-09-09",
+  "subtotal": 120.0,
+  "tax": null,
+  "tip": null,
+  "discount": -18.0,
+  "total": 124.6,
+  "currency": "HKD",
+  "confidence": 0.98,
+  "notes": "The currency is inferred as HKD based on the location in Tseung Kwan O, Hong Kong."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1471,
+  "output_tokens": 126,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.000557,
+ "latency_ms": 1359,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.1-flash-lite",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.1-flash-lite"
+ ],
+ "key": "W0079_2ec3ed6a3bbc"
+}

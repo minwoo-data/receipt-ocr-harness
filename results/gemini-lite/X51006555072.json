@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.1-flash-lite",
+ "provider": "gemini",
+ "raw_text": "{\n  \"vendor\": \"DIGI TELECOMMUNICATIONS SDN BHD\",\n  \"date\": \"2017-10-13\",\n  \"subtotal\": 234.40,\n  \"tax\": null,\n  \"tip\": 0.0,\n  \"discount\": 0.0,\n  \"total\": 234.40,\n  \"currency\": \"MYR\",\n  \"confidence\": 0.95,\n  \"notes\": null\n}",
+ "data": {
+  "vendor": "DIGI TELECOMMUNICATIONS SDN BHD",
+  "date": "2017-10-13",
+  "subtotal": 234.4,
+  "tax": null,
+  "tip": 0.0,
+  "discount": 0.0,
+  "total": 234.4,
+  "currency": "MYR",
+  "confidence": 0.95,
+  "notes": null
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1444,
+  "output_tokens": 115,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.000534,
+ "latency_ms": 1369,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.1-flash-lite",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.1-flash-lite"
+ ],
+ "key": "X51006555072"
+}

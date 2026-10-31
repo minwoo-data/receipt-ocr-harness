@@ -1,0 +1,296 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "PRINT EXPERT SDN BHD",
+  "(989625-A)",
+  "NO 18,20,22,JALANBUNGA TANJONG2/16",
+  "400OOSHAHALAM,SELANGOR",
+  "TEL03-55250588",
+  "GSTID·000886677504",
+  "TAX INVOICE",
+  "Receipt# CS00489817 Table: 13",
+  "Staff. ELYN Date' 12/01/2018",
+  "Cashier USER Time 16.5700",
+  "Doscription Qty Prico Amt Tax",
+  "A4CIRCOPY 8 053 4.24 SR",
+  "Tolai 8 4.24",
+  "Ictal Sales(Excluding GST) 4.00",
+  "Discount 0.00",
+  "Service Charge 0.00",
+  "TolalGST 024",
+  "Rounding 0.01",
+  "Total Sales (inclusive of GsT) 4.25",
+  "CASH 4.30",
+  "CHANGE 0.05",
+  "GSTSUMMARY",
+  "Tax Code %Am(RM) Tax(RM)",
+  "SR 6 4.00 0.24",
+  "Total: 4.00 0.24",
+  "#indicalea this tax codg beiong to service",
+  "charges.",
+  "GOODS SOLDARENOT RETURNABLE,ITEM NOT"
+ ],
+ "tokens": [
+  {
+   "text": "PRINT EXPERT SDN BHD",
+   "conf": 0.9557971358299255
+  },
+  {
+   "text": "(989625-A)",
+   "conf": 0.9793008744716645
+  },
+  {
+   "text": "NO 18,20,22,JALANBUNGA TANJONG2/16",
+   "conf": 0.9330105062793282
+  },
+  {
+   "text": "400OOSHAHALAM,SELANGOR",
+   "conf": 0.925110250711441
+  },
+  {
+   "text": "TEL03-55250588",
+   "conf": 0.9889143449919564
+  },
+  {
+   "text": "GSTID·000886677504",
+   "conf": 0.949214948548211
+  },
+  {
+   "text": "TAX INVOICE",
+   "conf": 0.9421247189695184
+  },
+  {
+   "text": "Receipt#",
+   "conf": 0.9691577777266502
+  },
+  {
+   "text": "CS00489817",
+   "conf": 0.9972280442714692
+  },
+  {
+   "text": "Table:",
+   "conf": 0.8666981408993403
+  },
+  {
+   "text": "13",
+   "conf": 0.9963703453540802
+  },
+  {
+   "text": "Staff.",
+   "conf": 0.8909877240657806
+  },
+  {
+   "text": "ELYN",
+   "conf": 0.9933017194271088
+  },
+  {
+   "text": "Date'",
+   "conf": 0.8454406261444092
+  },
+  {
+   "text": "12/01/2018",
+   "conf": 0.993063235282898
+  },
+  {
+   "text": "Cashier",
+   "conf": 0.9916810478482928
+  },
+  {
+   "text": "USER",
+   "conf": 0.9921726584434509
+  },
+  {
+   "text": "Time",
+   "conf": 0.9818333834409714
+  },
+  {
+   "text": "16.5700",
+   "conf": 0.9876505647386823
+  },
+  {
+   "text": "Doscription",
+   "conf": 0.9647323868491433
+  },
+  {
+   "text": "Qty",
+   "conf": 0.8811265031496683
+  },
+  {
+   "text": "Prico",
+   "conf": 0.9548852682113648
+  },
+  {
+   "text": "Amt",
+   "conf": 0.9769588708877563
+  },
+  {
+   "text": "Tax",
+   "conf": 0.9878112276395162
+  },
+  {
+   "text": "A4CIRCOPY",
+   "conf": 0.8816801044676039
+  },
+  {
+   "text": "8",
+   "conf": 0.9993394017219543
+  },
+  {
+   "text": "053",
+   "conf": 0.9722537398338318
+  },
+  {
+   "text": "4.24",
+   "conf": 0.8771276473999023
+  },
+  {
+   "text": "SR",
+   "conf": 0.9883474111557007
+  },
+  {
+   "text": "Tolai",
+   "conf": 0.854081678390503
+  },
+  {
+   "text": "8",
+   "conf": 0.9942775368690491
+  },
+  {
+   "text": "4.24",
+   "conf": 0.9236070066690445
+  },
+  {
+   "text": "Ictal Sales(Excluding GST)",
+   "conf": 0.8678175233877622
+  },
+  {
+   "text": "4.00",
+   "conf": 0.9904226511716843
+  },
+  {
+   "text": "Discount",
+   "conf": 0.9757498428225517
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9897286891937256
+  },
+  {
+   "text": "Service Charge",
+   "conf": 0.9801534073693412
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9975011497735977
+  },
+  {
+   "text": "TolalGST",
+   "conf": 0.8136944770812988
+  },
+  {
+   "text": "024",
+   "conf": 0.9644084572792053
+  },
+  {
+   "text": "Rounding",
+   "conf": 0.9582093060016632
+  },
+  {
+   "text": "0.01",
+   "conf": 0.9957399815320969
+  },
+  {
+   "text": "Total Sales (inclusive of GsT)",
+   "conf": 0.9210289398829142
+  },
+  {
+   "text": "4.25",
+   "conf": 0.9982988387346268
+  },
+  {
+   "text": "CASH",
+   "conf": 0.9836517870426178
+  },
+  {
+   "text": "4.30",
+   "conf": 0.9984191954135895
+  },
+  {
+   "text": "CHANGE",
+   "conf": 0.9927258193492889
+  },
+  {
+   "text": "0.05",
+   "conf": 0.998021274805069
+  },
+  {
+   "text": "GSTSUMMARY",
+   "conf": 0.9781855463981628
+  },
+  {
+   "text": "Tax Code",
+   "conf": 0.9025979116559029
+  },
+  {
+   "text": "%Am(RM)",
+   "conf": 0.9444094215120588
+  },
+  {
+   "text": "Tax(RM)",
+   "conf": 0.9104015742029462
+  },
+  {
+   "text": "SR",
+   "conf": 0.9915781617164612
+  },
+  {
+   "text": "6",
+   "conf": 0.9530704617500305
+  },
+  {
+   "text": "4.00",
+   "conf": 0.9955929070711136
+  },
+  {
+   "text": "0.24",
+   "conf": 0.9880027174949646
+  },
+  {
+   "text": "Total:",
+   "conf": 0.9713858763376871
+  },
+  {
+   "text": "4.00",
+   "conf": 0.9223978817462921
+  },
+  {
+   "text": "0.24",
+   "conf": 0.9971118420362473
+  },
+  {
+   "text": "#indicalea this tax codg beiong to service",
+   "conf": 0.894558004680134
+  },
+  {
+   "text": "charges.",
+   "conf": 0.9926325380802155
+  },
+  {
+   "text": "GOODS SOLDARENOT RETURNABLE,ITEM NOT",
+   "conf": 0.9296066446436776
+  }
+ ],
+ "mean_conf": 0.9554,
+ "low_conf_share": 0.0,
+ "latency_ms": 4078,
+ "fields": {
+  "company": "PRINT EXPERT SDN BHD",
+  "date": "2018-01-12",
+  "total": 4.25
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  4.25
+ ],
+ "key": "X51006008074"
+}

@@ -1,0 +1,520 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "Se, DS, “oS “Oo HW. Gan © C Be” ete",
+  "OS 4,4 Sts, ee 8",
+  "TR, Ve eS, a “",
+  "(yo 070 “ein % “4% %, &",
+  "EC",
+  "GOLDEN KEY MAKER “eu %,% ©,",
+  "Se, 7 .",
+  "(000760274-K) ee",
+  "No 5, Jalan Kenari 2, <=.",
+  "Bandar Puchong Jaya",
+  "47100 Puchong, Selangor",
+  "TEL: 03-58919941",
+  "FAX; 03-58919941",
+  "E-Mail: goldenkeymakerégmat | .com",
+  "Website: www.goldenkeymaker .com",
+  "S/P : onn Inv No : CS-0014464",
+  "11-Apr-2018 03:12:08 PM",
+  "sence ee VOICE",
+  "No.Desc/Code Qty Price Disc’ Amount",
+  "1 NORMAL KEY LONG",
+  "33101 2 5,00 0.00 10.00",
+  "Total Qty : 2 Sub-Total : 10.00",
+  "Discount : 0.00",
+  "Net Total : 10.00",
+  "Cash Received : 10.00",
+  "Change : 0.00",
+  "GOODS SOLD ARE NOT RETURNABLE/REFUNDABLE",
+  "%. is is"
+ ],
+ "tokens": [
+  {
+   "text": "Se,",
+   "conf": 0.36
+  },
+  {
+   "text": "DS,",
+   "conf": 0.12
+  },
+  {
+   "text": "“oS",
+   "conf": 0.35
+  },
+  {
+   "text": "“Oo",
+   "conf": 0.22
+  },
+  {
+   "text": "HW.",
+   "conf": 0.0
+  },
+  {
+   "text": "Gan",
+   "conf": 0.49
+  },
+  {
+   "text": "©",
+   "conf": 0.55
+  },
+  {
+   "text": "C",
+   "conf": 0.7
+  },
+  {
+   "text": "Be”",
+   "conf": 0.06
+  },
+  {
+   "text": "ete",
+   "conf": 0.32
+  },
+  {
+   "text": "OS",
+   "conf": 0.07
+  },
+  {
+   "text": "4,4",
+   "conf": 0.0
+  },
+  {
+   "text": "Sts,",
+   "conf": 0.4
+  },
+  {
+   "text": "ee",
+   "conf": 0.25
+  },
+  {
+   "text": "8",
+   "conf": 0.37
+  },
+  {
+   "text": "TR,",
+   "conf": 0.31
+  },
+  {
+   "text": "Ve",
+   "conf": 0.42
+  },
+  {
+   "text": "eS,",
+   "conf": 0.16
+  },
+  {
+   "text": "a",
+   "conf": 0.54
+  },
+  {
+   "text": "“",
+   "conf": 0.0
+  },
+  {
+   "text": "(yo",
+   "conf": 0.0
+  },
+  {
+   "text": "070",
+   "conf": 0.62
+  },
+  {
+   "text": "“ein",
+   "conf": 0.05
+  },
+  {
+   "text": "%",
+   "conf": 0.05
+  },
+  {
+   "text": "“4%",
+   "conf": 0.25
+  },
+  {
+   "text": "%,",
+   "conf": 0.59
+  },
+  {
+   "text": "&",
+   "conf": 0.37
+  },
+  {
+   "text": "EC",
+   "conf": 0.37
+  },
+  {
+   "text": "GOLDEN",
+   "conf": 0.94
+  },
+  {
+   "text": "KEY",
+   "conf": 0.93
+  },
+  {
+   "text": "MAKER",
+   "conf": 0.88
+  },
+  {
+   "text": "“eu",
+   "conf": 0.28
+  },
+  {
+   "text": "%,%",
+   "conf": 0.36
+  },
+  {
+   "text": "©,",
+   "conf": 0.59
+  },
+  {
+   "text": "Se,",
+   "conf": 0.35
+  },
+  {
+   "text": "7",
+   "conf": 0.39
+  },
+  {
+   "text": ".",
+   "conf": 0.18
+  },
+  {
+   "text": "(000760274-K)",
+   "conf": 0.63
+  },
+  {
+   "text": "ee",
+   "conf": 0.0
+  },
+  {
+   "text": "No",
+   "conf": 0.95
+  },
+  {
+   "text": "5,",
+   "conf": 0.95
+  },
+  {
+   "text": "Jalan",
+   "conf": 0.93
+  },
+  {
+   "text": "Kenari",
+   "conf": 0.76
+  },
+  {
+   "text": "2,",
+   "conf": 0.96
+  },
+  {
+   "text": "<=.",
+   "conf": 0.16
+  },
+  {
+   "text": "Bandar",
+   "conf": 0.96
+  },
+  {
+   "text": "Puchong",
+   "conf": 0.96
+  },
+  {
+   "text": "Jaya",
+   "conf": 0.96
+  },
+  {
+   "text": "47100",
+   "conf": 0.95
+  },
+  {
+   "text": "Puchong,",
+   "conf": 0.96
+  },
+  {
+   "text": "Selangor",
+   "conf": 0.91
+  },
+  {
+   "text": "TEL:",
+   "conf": 0.49
+  },
+  {
+   "text": "03-58919941",
+   "conf": 0.9
+  },
+  {
+   "text": "FAX;",
+   "conf": 0.92
+  },
+  {
+   "text": "03-58919941",
+   "conf": 0.91
+  },
+  {
+   "text": "E-Mail:",
+   "conf": 0.7
+  },
+  {
+   "text": "goldenkeymakerégmat",
+   "conf": 0.23
+  },
+  {
+   "text": "|",
+   "conf": 0.52
+  },
+  {
+   "text": ".com",
+   "conf": 0.77
+  },
+  {
+   "text": "Website:",
+   "conf": 0.68
+  },
+  {
+   "text": "www.goldenkeymaker",
+   "conf": 0.81
+  },
+  {
+   "text": ".com",
+   "conf": 0.84
+  },
+  {
+   "text": "S/P",
+   "conf": 0.54
+  },
+  {
+   "text": ":",
+   "conf": 0.54
+  },
+  {
+   "text": "onn",
+   "conf": 0.86
+  },
+  {
+   "text": "Inv",
+   "conf": 0.96
+  },
+  {
+   "text": "No",
+   "conf": 0.85
+  },
+  {
+   "text": ":",
+   "conf": 0.85
+  },
+  {
+   "text": "CS-0014464",
+   "conf": 0.88
+  },
+  {
+   "text": "11-Apr-2018",
+   "conf": 0.85
+  },
+  {
+   "text": "03:12:08",
+   "conf": 0.7
+  },
+  {
+   "text": "PM",
+   "conf": 0.96
+  },
+  {
+   "text": "sence",
+   "conf": 0.18
+  },
+  {
+   "text": "ee",
+   "conf": 0.23
+  },
+  {
+   "text": "VOICE",
+   "conf": 0.28
+  },
+  {
+   "text": "No.Desc/Code",
+   "conf": 0.92
+  },
+  {
+   "text": "Qty",
+   "conf": 0.91
+  },
+  {
+   "text": "Price",
+   "conf": 0.88
+  },
+  {
+   "text": "Disc’",
+   "conf": 0.16
+  },
+  {
+   "text": "Amount",
+   "conf": 0.67
+  },
+  {
+   "text": "1",
+   "conf": 0.75
+  },
+  {
+   "text": "NORMAL",
+   "conf": 0.89
+  },
+  {
+   "text": "KEY",
+   "conf": 0.96
+  },
+  {
+   "text": "LONG",
+   "conf": 0.96
+  },
+  {
+   "text": "33101",
+   "conf": 0.95
+  },
+  {
+   "text": "2",
+   "conf": 0.83
+  },
+  {
+   "text": "5,00",
+   "conf": 0.77
+  },
+  {
+   "text": "0.00",
+   "conf": 0.92
+  },
+  {
+   "text": "10.00",
+   "conf": 0.91
+  },
+  {
+   "text": "Total",
+   "conf": 0.95
+  },
+  {
+   "text": "Qty",
+   "conf": 0.86
+  },
+  {
+   "text": ":",
+   "conf": 0.71
+  },
+  {
+   "text": "2",
+   "conf": 0.97
+  },
+  {
+   "text": "Sub-Total",
+   "conf": 0.91
+  },
+  {
+   "text": ":",
+   "conf": 0.91
+  },
+  {
+   "text": "10.00",
+   "conf": 0.96
+  },
+  {
+   "text": "Discount",
+   "conf": 0.91
+  },
+  {
+   "text": ":",
+   "conf": 0.91
+  },
+  {
+   "text": "0.00",
+   "conf": 0.91
+  },
+  {
+   "text": "Net",
+   "conf": 0.96
+  },
+  {
+   "text": "Total",
+   "conf": 0.92
+  },
+  {
+   "text": ":",
+   "conf": 0.91
+  },
+  {
+   "text": "10.00",
+   "conf": 0.88
+  },
+  {
+   "text": "Cash",
+   "conf": 0.96
+  },
+  {
+   "text": "Received",
+   "conf": 0.93
+  },
+  {
+   "text": ":",
+   "conf": 0.93
+  },
+  {
+   "text": "10.00",
+   "conf": 0.96
+  },
+  {
+   "text": "Change",
+   "conf": 0.92
+  },
+  {
+   "text": ":",
+   "conf": 0.9
+  },
+  {
+   "text": "0.00",
+   "conf": 0.94
+  },
+  {
+   "text": "GOODS",
+   "conf": 0.93
+  },
+  {
+   "text": "SOLD",
+   "conf": 0.96
+  },
+  {
+   "text": "ARE",
+   "conf": 0.96
+  },
+  {
+   "text": "NOT",
+   "conf": 0.96
+  },
+  {
+   "text": "RETURNABLE/REFUNDABLE",
+   "conf": 0.92
+  },
+  {
+   "text": "%.",
+   "conf": 0.0
+  },
+  {
+   "text": "is",
+   "conf": 0.53
+  },
+  {
+   "text": "is",
+   "conf": 0.4
+  }
+ ],
+ "mean_conf": 0.6503,
+ "low_conf_share": 0.322,
+ "latency_ms": 3016,
+ "fields": {
+  "company": "SE DS OS OO HW GAN C BE ETE",
+  "date": "2018-04-11",
+  "total": 10.0
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  10.0
+ ],
+ "key": "X51007103597"
+}

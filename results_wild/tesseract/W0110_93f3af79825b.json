@@ -1,0 +1,505 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "Ae Faden: Pe",
+  "estaurant Pte",
+  "GST Reg No: 201114510R be 26",
+  "TABLE: 3 oe",
+  "Pax 2 OP: Sam Sam oe",
+  "5 POS Title:Cashier2 POS: POS002 =",
+  "Rept :A12000007477 21/10/2012 19:42 : ES",
+  "1 Asparagi grigliati $14.00 fi",
+  "en 1 Bava ContrabasBarolo $165. 00 ie",
+  "ae 1 Bruschetta Pomodoro $18. 00 Ey",
+  "wh 1 Costata $178. 00 eds",
+  ": 1 Limoncello $13.00 ;ieam",
+  "ae 1 Panzanella $25.00 otal",
+  "oi 1 Pure di patate $10.00 «= ae",
+  "ty 1 Single Scoope $6.00 ae",
+  "EX SUBTOTAL $437.00 ae",
+  "3 10% Svr Chrg $43.70 ae",
+  "See ee $33. 65 is",
+  "25 Mohamed Sultan Rd $ (238969)",
+  "a Tel: 6735 6739 : Bn",
+  "PreSettlement Bill er",
+  "21/10/2012 21:07 Ne"
+ ],
+ "tokens": [
+  {
+   "text": "Ae",
+   "conf": 0.45
+  },
+  {
+   "text": "Faden:",
+   "conf": 0.0
+  },
+  {
+   "text": "Pe",
+   "conf": 0.0
+  },
+  {
+   "text": "estaurant",
+   "conf": 0.89
+  },
+  {
+   "text": "Pte",
+   "conf": 0.96
+  },
+  {
+   "text": "GST",
+   "conf": 0.94
+  },
+  {
+   "text": "Reg",
+   "conf": 0.94
+  },
+  {
+   "text": "No:",
+   "conf": 0.81
+  },
+  {
+   "text": "201114510R",
+   "conf": 0.36
+  },
+  {
+   "text": "be",
+   "conf": 0.58
+  },
+  {
+   "text": "26",
+   "conf": 0.31
+  },
+  {
+   "text": "TABLE:",
+   "conf": 0.64
+  },
+  {
+   "text": "3",
+   "conf": 0.64
+  },
+  {
+   "text": "oe",
+   "conf": 0.19
+  },
+  {
+   "text": "Pax",
+   "conf": 0.0
+  },
+  {
+   "text": "2",
+   "conf": 0.0
+  },
+  {
+   "text": "OP:",
+   "conf": 0.22
+  },
+  {
+   "text": "Sam",
+   "conf": 0.22
+  },
+  {
+   "text": "Sam",
+   "conf": 0.96
+  },
+  {
+   "text": "oe",
+   "conf": 0.41
+  },
+  {
+   "text": "5",
+   "conf": 0.63
+  },
+  {
+   "text": "POS",
+   "conf": 0.59
+  },
+  {
+   "text": "Title:Cashier2",
+   "conf": 0.9
+  },
+  {
+   "text": "POS:",
+   "conf": 0.27
+  },
+  {
+   "text": "POS002",
+   "conf": 0.27
+  },
+  {
+   "text": "=",
+   "conf": 0.47
+  },
+  {
+   "text": "Rept",
+   "conf": 0.15
+  },
+  {
+   "text": ":A12000007477",
+   "conf": 0.26
+  },
+  {
+   "text": "21/10/2012",
+   "conf": 0.95
+  },
+  {
+   "text": "19:42",
+   "conf": 0.96
+  },
+  {
+   "text": ":",
+   "conf": 0.24
+  },
+  {
+   "text": "ES",
+   "conf": 0.24
+  },
+  {
+   "text": "1",
+   "conf": 0.8
+  },
+  {
+   "text": "Asparagi",
+   "conf": 0.79
+  },
+  {
+   "text": "grigliati",
+   "conf": 0.53
+  },
+  {
+   "text": "$14.00",
+   "conf": 0.76
+  },
+  {
+   "text": "fi",
+   "conf": 0.31
+  },
+  {
+   "text": "en",
+   "conf": 0.33
+  },
+  {
+   "text": "1",
+   "conf": 0.83
+  },
+  {
+   "text": "Bava",
+   "conf": 0.93
+  },
+  {
+   "text": "ContrabasBarolo",
+   "conf": 0.91
+  },
+  {
+   "text": "$165.",
+   "conf": 0.96
+  },
+  {
+   "text": "00",
+   "conf": 0.96
+  },
+  {
+   "text": "ie",
+   "conf": 0.12
+  },
+  {
+   "text": "ae",
+   "conf": 0.22
+  },
+  {
+   "text": "1",
+   "conf": 0.74
+  },
+  {
+   "text": "Bruschetta",
+   "conf": 0.95
+  },
+  {
+   "text": "Pomodoro",
+   "conf": 0.96
+  },
+  {
+   "text": "$18.",
+   "conf": 0.94
+  },
+  {
+   "text": "00",
+   "conf": 0.94
+  },
+  {
+   "text": "Ey",
+   "conf": 0.0
+  },
+  {
+   "text": "wh",
+   "conf": 0.17
+  },
+  {
+   "text": "1",
+   "conf": 0.38
+  },
+  {
+   "text": "Costata",
+   "conf": 0.92
+  },
+  {
+   "text": "$178.",
+   "conf": 0.91
+  },
+  {
+   "text": "00",
+   "conf": 0.91
+  },
+  {
+   "text": "eds",
+   "conf": 0.12
+  },
+  {
+   "text": ":",
+   "conf": 0.0
+  },
+  {
+   "text": "1",
+   "conf": 0.9
+  },
+  {
+   "text": "Limoncello",
+   "conf": 0.23
+  },
+  {
+   "text": "$13.00",
+   "conf": 0.7
+  },
+  {
+   "text": ";ieam",
+   "conf": 0.0
+  },
+  {
+   "text": "ae",
+   "conf": 0.34
+  },
+  {
+   "text": "1",
+   "conf": 0.89
+  },
+  {
+   "text": "Panzanella",
+   "conf": 0.84
+  },
+  {
+   "text": "$25.00",
+   "conf": 0.8
+  },
+  {
+   "text": "otal",
+   "conf": 0.47
+  },
+  {
+   "text": "oi",
+   "conf": 0.11
+  },
+  {
+   "text": "1",
+   "conf": 0.77
+  },
+  {
+   "text": "Pure",
+   "conf": 0.92
+  },
+  {
+   "text": "di",
+   "conf": 0.74
+  },
+  {
+   "text": "patate",
+   "conf": 0.78
+  },
+  {
+   "text": "$10.00",
+   "conf": 0.54
+  },
+  {
+   "text": "«=",
+   "conf": 0.4
+  },
+  {
+   "text": "ae",
+   "conf": 0.37
+  },
+  {
+   "text": "ty",
+   "conf": 0.57
+  },
+  {
+   "text": "1",
+   "conf": 0.95
+  },
+  {
+   "text": "Single",
+   "conf": 0.93
+  },
+  {
+   "text": "Scoope",
+   "conf": 0.93
+  },
+  {
+   "text": "$6.00",
+   "conf": 0.9
+  },
+  {
+   "text": "ae",
+   "conf": 0.38
+  },
+  {
+   "text": "EX",
+   "conf": 0.6
+  },
+  {
+   "text": "SUBTOTAL",
+   "conf": 0.95
+  },
+  {
+   "text": "$437.00",
+   "conf": 0.63
+  },
+  {
+   "text": "ae",
+   "conf": 0.31
+  },
+  {
+   "text": "3",
+   "conf": 0.47
+  },
+  {
+   "text": "10%",
+   "conf": 0.9
+  },
+  {
+   "text": "Svr",
+   "conf": 0.84
+  },
+  {
+   "text": "Chrg",
+   "conf": 0.84
+  },
+  {
+   "text": "$43.70",
+   "conf": 0.67
+  },
+  {
+   "text": "ae",
+   "conf": 0.18
+  },
+  {
+   "text": "See",
+   "conf": 0.0
+  },
+  {
+   "text": "ee",
+   "conf": 0.25
+  },
+  {
+   "text": "$33.",
+   "conf": 0.65
+  },
+  {
+   "text": "65",
+   "conf": 0.65
+  },
+  {
+   "text": "is",
+   "conf": 0.56
+  },
+  {
+   "text": "25",
+   "conf": 0.92
+  },
+  {
+   "text": "Mohamed",
+   "conf": 0.71
+  },
+  {
+   "text": "Sultan",
+   "conf": 0.95
+  },
+  {
+   "text": "Rd",
+   "conf": 0.78
+  },
+  {
+   "text": "$",
+   "conf": 0.83
+  },
+  {
+   "text": "(238969)",
+   "conf": 0.5
+  },
+  {
+   "text": "a",
+   "conf": 0.47
+  },
+  {
+   "text": "Tel:",
+   "conf": 0.91
+  },
+  {
+   "text": "6735",
+   "conf": 0.96
+  },
+  {
+   "text": "6739",
+   "conf": 0.96
+  },
+  {
+   "text": ":",
+   "conf": 0.44
+  },
+  {
+   "text": "Bn",
+   "conf": 0.28
+  },
+  {
+   "text": "PreSettlement",
+   "conf": 0.9
+  },
+  {
+   "text": "Bill",
+   "conf": 0.94
+  },
+  {
+   "text": "er",
+   "conf": 0.3
+  },
+  {
+   "text": "21/10/2012",
+   "conf": 0.94
+  },
+  {
+   "text": "21:07",
+   "conf": 0.94
+  },
+  {
+   "text": "Ne",
+   "conf": 0.35
+  }
+ ],
+ "mean_conf": 0.5954,
+ "low_conf_share": 0.3947,
+ "latency_ms": 1212,
+ "fields": {
+  "company": "AE FADEN PE",
+  "date": "2012-10-21",
+  "total": 437.0
+ },
+ "rule_reasons": [
+  "total_no_keyword_fallback_max"
+ ],
+ "total_candidates": [
+  13.0,
+  25.0,
+  10.0,
+  6.0,
+  437.0,
+  43.7
+ ],
+ "key": "W0110_93f3af79825b"
+}

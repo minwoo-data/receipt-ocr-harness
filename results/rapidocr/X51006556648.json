@@ -1,0 +1,330 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "GARDENIA BAKERIES(KL)SDN BHD(139386X)",
+  "Lot3,JalanPelabur 23/1,",
+  "40300ShahAlam,Selangor.",
+  "Tel:03-55423228 Fax:03-55423213",
+  "GSTID:000381399040",
+  "TAX INVOICE/ADJUSTMENTNOTE",
+  "Cash Inv No.:7820F713",
+  "VE0514 Date:20/08/2017",
+  "MAKASSAR FRESH MARKETSDN BHD",
+  "GROUND FLOOR,NO.4&6,",
+  "JALANSS 15/4B,",
+  "47SOO SUBANG JAYA,SELANGOR",
+  "VE05:Ridzuan(11900)",
+  "DD:20/08/2017 10:54",
+  "Description U.P Iss ExC D Sale Amt(RM)",
+  "O.C.WHITE 2.13 5 1 8.52",
+  "WHOLEMEAL 2.78 5 1 + 11.12",
+  "O.CJUMBO 2.97 4 11.88",
+  "Total 0% supplies: 31.52",
+  "CR-CHOCLT 0.72 6 C -6 -4.32",
+  "TWIG-CHOC 1.33 20 20 26.60",
+  "Total 6% supplies (excl. GST): 22.28",
+  "GST: 1.34",
+  "Total 6% supplies (Inc. GST): 23.62",
+  "Total 0% supplies: 31.52",
+  "Total Payable: 55.14",
+  "E.&.O.E.",
+  "Receivedabove goodsingoodordercondition.",
+  "The recipient ofGardenia's productsis",
+  "required to make necessary adjustments to its",
+  "input tax clains,on the basicofthe",
+  "adjustments shown in this Tax Invoice/",
+  "Adjustment Note",
+  "CUSTOMER'SCOPY"
+ ],
+ "tokens": [
+  {
+   "text": "GARDENIA BAKERIES(KL)SDN BHD(139386X)",
+   "conf": 0.943283190598359
+  },
+  {
+   "text": "Lot3,JalanPelabur 23/1,",
+   "conf": 0.9253192777219026
+  },
+  {
+   "text": "40300ShahAlam,Selangor.",
+   "conf": 0.9772136885186901
+  },
+  {
+   "text": "Tel:03-55423228 Fax:03-55423213",
+   "conf": 0.9740836601103505
+  },
+  {
+   "text": "GSTID:000381399040",
+   "conf": 0.9831560717688667
+  },
+  {
+   "text": "TAX INVOICE/ADJUSTMENTNOTE",
+   "conf": 0.9803423262559451
+  },
+  {
+   "text": "Cash Inv No.:7820F713",
+   "conf": 0.9571819589251563
+  },
+  {
+   "text": "VE0514",
+   "conf": 0.9898633360862732
+  },
+  {
+   "text": "Date:20/08/2017",
+   "conf": 0.988807229200999
+  },
+  {
+   "text": "MAKASSAR FRESH MARKETSDN BHD",
+   "conf": 0.944959500006267
+  },
+  {
+   "text": "GROUND FLOOR,NO.4&6,",
+   "conf": 0.9000124424695969
+  },
+  {
+   "text": "JALANSS 15/4B,",
+   "conf": 0.9285447512354169
+  },
+  {
+   "text": "47SOO SUBANG JAYA,SELANGOR",
+   "conf": 0.9367616933125716
+  },
+  {
+   "text": "VE05:Ridzuan(11900)",
+   "conf": 0.93313635179871
+  },
+  {
+   "text": "DD:20/08/2017",
+   "conf": 0.9861458219014682
+  },
+  {
+   "text": "10:54",
+   "conf": 0.9755364298820496
+  },
+  {
+   "text": "Description",
+   "conf": 0.9932804541154341
+  },
+  {
+   "text": "U.P",
+   "conf": 0.976137121518453
+  },
+  {
+   "text": "Iss",
+   "conf": 0.9443807403246561
+  },
+  {
+   "text": "ExC",
+   "conf": 0.8017100294431051
+  },
+  {
+   "text": "D",
+   "conf": 0.9919248223304749
+  },
+  {
+   "text": "Sale",
+   "conf": 0.9712779372930527
+  },
+  {
+   "text": "Amt(RM)",
+   "conf": 0.859239229134151
+  },
+  {
+   "text": "O.C.WHITE",
+   "conf": 0.9451566537221273
+  },
+  {
+   "text": "2.13",
+   "conf": 0.9964168965816498
+  },
+  {
+   "text": "5",
+   "conf": 0.9916634559631348
+  },
+  {
+   "text": "1",
+   "conf": 0.9921513795852661
+  },
+  {
+   "text": "8.52",
+   "conf": 0.9946525394916534
+  },
+  {
+   "text": "WHOLEMEAL",
+   "conf": 0.990654985109965
+  },
+  {
+   "text": "2.78",
+   "conf": 0.9967321306467056
+  },
+  {
+   "text": "5",
+   "conf": 0.9978986978530884
+  },
+  {
+   "text": "1",
+   "conf": 0.9772495031356812
+  },
+  {
+   "text": "+",
+   "conf": 0.5776709318161011
+  },
+  {
+   "text": "11.12",
+   "conf": 0.9977162837982178
+  },
+  {
+   "text": "O.CJUMBO",
+   "conf": 0.9280728027224541
+  },
+  {
+   "text": "2.97",
+   "conf": 0.9972675293684006
+  },
+  {
+   "text": "4",
+   "conf": 0.9985467791557312
+  },
+  {
+   "text": "11.88",
+   "conf": 0.9870563626289368
+  },
+  {
+   "text": "Total 0% supplies:",
+   "conf": 0.9697440200381808
+  },
+  {
+   "text": "31.52",
+   "conf": 0.9934198260307312
+  },
+  {
+   "text": "CR-CHOCLT",
+   "conf": 0.9867036607530382
+  },
+  {
+   "text": "0.72",
+   "conf": 0.9799231439828873
+  },
+  {
+   "text": "6",
+   "conf": 0.9981616139411926
+  },
+  {
+   "text": "C",
+   "conf": 0.5318597555160522
+  },
+  {
+   "text": "-6",
+   "conf": 0.7063308954238892
+  },
+  {
+   "text": "-4.32",
+   "conf": 0.9909578084945678
+  },
+  {
+   "text": "TWIG-CHOC",
+   "conf": 0.9878838790787591
+  },
+  {
+   "text": "1.33",
+   "conf": 0.9972786158323288
+  },
+  {
+   "text": "20",
+   "conf": 0.9686058461666107
+  },
+  {
+   "text": "20",
+   "conf": 0.9957574307918549
+  },
+  {
+   "text": "26.60",
+   "conf": 0.997620952129364
+  },
+  {
+   "text": "Total 6% supplies (excl. GST):",
+   "conf": 0.9769080360730489
+  },
+  {
+   "text": "22.28",
+   "conf": 0.9625771641731262
+  },
+  {
+   "text": "GST:",
+   "conf": 0.9937426745891571
+  },
+  {
+   "text": "1.34",
+   "conf": 0.997301384806633
+  },
+  {
+   "text": "Total 6% supplies (Inc. GST):",
+   "conf": 0.9490814126771072
+  },
+  {
+   "text": "23.62",
+   "conf": 0.9966262459754944
+  },
+  {
+   "text": "Total 0% supplies:",
+   "conf": 0.9329029520352682
+  },
+  {
+   "text": "31.52",
+   "conf": 0.9958617091178894
+  },
+  {
+   "text": "Total Payable:",
+   "conf": 0.9515223205089569
+  },
+  {
+   "text": "55.14",
+   "conf": 0.9618912816047669
+  },
+  {
+   "text": "E.&.O.E.",
+   "conf": 0.9097064211964607
+  },
+  {
+   "text": "Receivedabove goodsingoodordercondition.",
+   "conf": 0.9823766276240349
+  },
+  {
+   "text": "The recipient ofGardenia's productsis",
+   "conf": 0.9428462321693832
+  },
+  {
+   "text": "required to make necessary adjustments to its",
+   "conf": 0.9488106224271986
+  },
+  {
+   "text": "input tax clains,on the basicofthe",
+   "conf": 0.9164398172322441
+  },
+  {
+   "text": "adjustments shown in this Tax Invoice/",
+   "conf": 0.9350228121406153
+  },
+  {
+   "text": "Adjustment Note",
+   "conf": 0.9524473667144775
+  },
+  {
+   "text": "CUSTOMER'SCOPY",
+   "conf": 0.9900136590003967
+  }
+ ],
+ "mean_conf": 0.9512,
+ "low_conf_share": 0.0,
+ "latency_ms": 4833,
+ "fields": {
+  "company": "GARDENIA BAKERIES SDN BHD",
+  "date": "2017-08-20",
+  "total": 55.14
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  55.14
+ ],
+ "key": "X51006556648"
+}

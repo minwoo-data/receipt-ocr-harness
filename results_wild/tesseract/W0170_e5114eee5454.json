@@ -1,0 +1,431 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  ". hitadetonta",
+  "O33 1a Tele 6 warty 3",
+  "ASHLEY S$” Syetk: 6 19:25 08/24/16",
+  "Hefneken Botte 6.50",
+  "Pineapple dutes 2:85",
+  "Bar Ginger Ale 30",
+  "Asian Lettuce rap Tacos 750",
+  "Skinny fanburger 1135",
+  "Bast Tonato Flatbread 6.93",
+  "Greek $3133, x add salmon 18",
+  "Heineken Bottle 6.50",
+  "Lesoncelle Crean Torte 1:33",
+  "ono Food/Drink 1%",
+  "Bar Ginger Ale 3100",
+  "Sib Total: 60.30",
+  "Tar: “5.03",
+  "Sub Total: 65.33",
+  "08/24 20:19 TOTAL: 65.398",
+  "Gratuity Not Included",
+  "Suggested Gratuity",
+  "2 139",
+  "2% 13:08",
+  "1% 7",
+  "we bt",
+  "Get out the door quer",
+  "‘itn gi eu ahet ay",
+  "Goa Ear fem CakePay app."
+ ],
+ "tokens": [
+  {
+   "text": ".",
+   "conf": 0.0
+  },
+  {
+   "text": "hitadetonta",
+   "conf": 0.03
+  },
+  {
+   "text": "O33",
+   "conf": 0.07
+  },
+  {
+   "text": "1a",
+   "conf": 0.07
+  },
+  {
+   "text": "Tele",
+   "conf": 0.42
+  },
+  {
+   "text": "6",
+   "conf": 0.13
+  },
+  {
+   "text": "warty",
+   "conf": 0.44
+  },
+  {
+   "text": "3",
+   "conf": 0.88
+  },
+  {
+   "text": "ASHLEY",
+   "conf": 0.7
+  },
+  {
+   "text": "S$”",
+   "conf": 0.0
+  },
+  {
+   "text": "Syetk:",
+   "conf": 0.24
+  },
+  {
+   "text": "6",
+   "conf": 0.73
+  },
+  {
+   "text": "19:25",
+   "conf": 0.79
+  },
+  {
+   "text": "08/24/16",
+   "conf": 0.64
+  },
+  {
+   "text": "Hefneken",
+   "conf": 0.6
+  },
+  {
+   "text": "Botte",
+   "conf": 0.0
+  },
+  {
+   "text": "6.50",
+   "conf": 0.92
+  },
+  {
+   "text": "Pineapple",
+   "conf": 0.84
+  },
+  {
+   "text": "dutes",
+   "conf": 0.47
+  },
+  {
+   "text": "2:85",
+   "conf": 0.52
+  },
+  {
+   "text": "Bar",
+   "conf": 0.94
+  },
+  {
+   "text": "Ginger",
+   "conf": 0.78
+  },
+  {
+   "text": "Ale",
+   "conf": 0.75
+  },
+  {
+   "text": "30",
+   "conf": 0.61
+  },
+  {
+   "text": "Asian",
+   "conf": 0.91
+  },
+  {
+   "text": "Lettuce",
+   "conf": 0.67
+  },
+  {
+   "text": "rap",
+   "conf": 0.67
+  },
+  {
+   "text": "Tacos",
+   "conf": 0.76
+  },
+  {
+   "text": "750",
+   "conf": 0.81
+  },
+  {
+   "text": "Skinny",
+   "conf": 0.81
+  },
+  {
+   "text": "fanburger",
+   "conf": 0.0
+  },
+  {
+   "text": "1135",
+   "conf": 0.49
+  },
+  {
+   "text": "Bast",
+   "conf": 0.67
+  },
+  {
+   "text": "Tonato",
+   "conf": 0.72
+  },
+  {
+   "text": "Flatbread",
+   "conf": 0.33
+  },
+  {
+   "text": "6.93",
+   "conf": 0.68
+  },
+  {
+   "text": "Greek",
+   "conf": 0.83
+  },
+  {
+   "text": "$3133,",
+   "conf": 0.49
+  },
+  {
+   "text": "x",
+   "conf": 0.85
+  },
+  {
+   "text": "add",
+   "conf": 0.58
+  },
+  {
+   "text": "salmon",
+   "conf": 0.22
+  },
+  {
+   "text": "18",
+   "conf": 0.55
+  },
+  {
+   "text": "Heineken",
+   "conf": 0.85
+  },
+  {
+   "text": "Bottle",
+   "conf": 0.59
+  },
+  {
+   "text": "6.50",
+   "conf": 0.53
+  },
+  {
+   "text": "Lesoncelle",
+   "conf": 0.26
+  },
+  {
+   "text": "Crean",
+   "conf": 0.64
+  },
+  {
+   "text": "Torte",
+   "conf": 0.89
+  },
+  {
+   "text": "1:33",
+   "conf": 0.6
+  },
+  {
+   "text": "ono",
+   "conf": 0.32
+  },
+  {
+   "text": "Food/Drink",
+   "conf": 0.51
+  },
+  {
+   "text": "1%",
+   "conf": 0.58
+  },
+  {
+   "text": "Bar",
+   "conf": 0.95
+  },
+  {
+   "text": "Ginger",
+   "conf": 0.95
+  },
+  {
+   "text": "Ale",
+   "conf": 0.88
+  },
+  {
+   "text": "3100",
+   "conf": 0.64
+  },
+  {
+   "text": "Sib",
+   "conf": 0.61
+  },
+  {
+   "text": "Total:",
+   "conf": 0.82
+  },
+  {
+   "text": "60.30",
+   "conf": 0.69
+  },
+  {
+   "text": "Tar:",
+   "conf": 0.56
+  },
+  {
+   "text": "“5.03",
+   "conf": 0.16
+  },
+  {
+   "text": "Sub",
+   "conf": 0.71
+  },
+  {
+   "text": "Total:",
+   "conf": 0.61
+  },
+  {
+   "text": "65.33",
+   "conf": 0.62
+  },
+  {
+   "text": "08/24",
+   "conf": 0.45
+  },
+  {
+   "text": "20:19",
+   "conf": 0.45
+  },
+  {
+   "text": "TOTAL:",
+   "conf": 0.76
+  },
+  {
+   "text": "65.398",
+   "conf": 0.37
+  },
+  {
+   "text": "Gratuity",
+   "conf": 0.89
+  },
+  {
+   "text": "Not",
+   "conf": 0.91
+  },
+  {
+   "text": "Included",
+   "conf": 0.88
+  },
+  {
+   "text": "Suggested",
+   "conf": 0.78
+  },
+  {
+   "text": "Gratuity",
+   "conf": 0.9
+  },
+  {
+   "text": "2",
+   "conf": 0.24
+  },
+  {
+   "text": "139",
+   "conf": 0.45
+  },
+  {
+   "text": "2%",
+   "conf": 0.68
+  },
+  {
+   "text": "13:08",
+   "conf": 0.49
+  },
+  {
+   "text": "1%",
+   "conf": 0.47
+  },
+  {
+   "text": "7",
+   "conf": 0.17
+  },
+  {
+   "text": "we",
+   "conf": 0.48
+  },
+  {
+   "text": "bt",
+   "conf": 0.28
+  },
+  {
+   "text": "Get",
+   "conf": 0.71
+  },
+  {
+   "text": "out",
+   "conf": 0.68
+  },
+  {
+   "text": "the",
+   "conf": 0.68
+  },
+  {
+   "text": "door",
+   "conf": 0.73
+  },
+  {
+   "text": "quer",
+   "conf": 0.58
+  },
+  {
+   "text": "‘itn",
+   "conf": 0.22
+  },
+  {
+   "text": "gi",
+   "conf": 0.42
+  },
+  {
+   "text": "eu",
+   "conf": 0.3
+  },
+  {
+   "text": "ahet",
+   "conf": 0.0
+  },
+  {
+   "text": "ay",
+   "conf": 0.0
+  },
+  {
+   "text": "Goa",
+   "conf": 0.15
+  },
+  {
+   "text": "Ear",
+   "conf": 0.22
+  },
+  {
+   "text": "fem",
+   "conf": 0.24
+  },
+  {
+   "text": "CakePay",
+   "conf": 0.62
+  },
+  {
+   "text": "app.",
+   "conf": 0.49
+  }
+ ],
+ "mean_conf": 0.5445,
+ "low_conf_share": 0.3958,
+ "latency_ms": 347,
+ "fields": {
+  "company": "HITADETONTA",
+  "date": "2016-08-24",
+  "total": 60.3
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  60.3
+ ],
+ "key": "W0170_e5114eee5454"
+}

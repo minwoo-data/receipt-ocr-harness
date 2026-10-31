@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.6-flash",
+ "provider": "gemini",
+ "raw_text": "{\"vendor\": \"BOOK TALK (TAMAN DAYA) SDN BHD\", \"date\": \"2018-12-25\", \"subtotal\": 9.0, \"tax\": null, \"tip\": null, \"discount\": null, \"total\": 9.0, \"currency\": \"MYR\", \"confidence\": 0.95, \"notes\": null}",
+ "data": {
+  "vendor": "BOOK TALK (TAMAN DAYA) SDN BHD",
+  "date": "2018-12-25",
+  "subtotal": 9.0,
+  "tax": null,
+  "tip": null,
+  "discount": null,
+  "total": 9.0,
+  "currency": "MYR",
+  "confidence": 0.95,
+  "notes": null
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1447,
+  "output_tokens": 85,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.001404,
+ "latency_ms": 1868,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.6-flash",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.6-flash"
+ ],
+ "key": "X00016469612"
+}

@@ -1,0 +1,637 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "(Co. No. 113825-W)",
+  "(GST Reg No. 001492992000)",
+  "No 8, Jalan 7/118B, Desa Tun Razak",
+  "56000 Kuala Lumpur, Malaysia",
+  "AEON SHAH ALAM",
+  "Tel : 03-55235214",
+  "06/03/18 18:01 Slip No.: 8010180429",
+  "Supervisor Trans: 196796",
+  "Member Card No: 1001016668849",
+  "Card Expiry: 31/05/18",
+  "| abeoce steed ee",
+  "| Description Anount",
+  "No Plastic Bag Campai 0.20 T",
+  "70g P.Copy 450'S 13.69 T",
+  "Stat-Great Saving ~1.20",
+  "PB O/TAPE 48X40X45BX3",
+  "2pc @ 7.99 15.98 T",
+  "Stat-Buy 2eRM 12 -3. 98",
+  "PB S/Tape 18x40 4IN1 5.99 T",
+  "Total RM Incl. of UST 30.88",
+  "Rounding Adj 0. 02",
+  "Total RM 30. 70",
+  "Cash -30. 70",
+  "Item Count 5",
+  "GST Summary Amount (RM) Tax (RM)",
+  "T @ 6% 28.94 1.74",
+  "Total Savings -5. 18",
+  "BE A POPULAR CARD MEMBER",
+  "AND ENJOY SPECIAL DISCOUNTS",
+  "THANK YOU. PLEASE COME AGAIN.",
+  "www. popular. com, my",
+  "Buy Ghinese books online",
+  "| www. popularon] ine. com. my",
+  "|",
+  "Ne ae"
+ ],
+ "tokens": [
+  {
+   "text": "(Co.",
+   "conf": 0.95
+  },
+  {
+   "text": "No.",
+   "conf": 0.92
+  },
+  {
+   "text": "113825-W)",
+   "conf": 0.91
+  },
+  {
+   "text": "(GST",
+   "conf": 0.96
+  },
+  {
+   "text": "Reg",
+   "conf": 0.95
+  },
+  {
+   "text": "No.",
+   "conf": 0.95
+  },
+  {
+   "text": "001492992000)",
+   "conf": 0.96
+  },
+  {
+   "text": "No",
+   "conf": 0.95
+  },
+  {
+   "text": "8,",
+   "conf": 0.96
+  },
+  {
+   "text": "Jalan",
+   "conf": 0.92
+  },
+  {
+   "text": "7/118B,",
+   "conf": 0.89
+  },
+  {
+   "text": "Desa",
+   "conf": 0.96
+  },
+  {
+   "text": "Tun",
+   "conf": 0.96
+  },
+  {
+   "text": "Razak",
+   "conf": 0.96
+  },
+  {
+   "text": "56000",
+   "conf": 0.96
+  },
+  {
+   "text": "Kuala",
+   "conf": 0.95
+  },
+  {
+   "text": "Lumpur,",
+   "conf": 0.95
+  },
+  {
+   "text": "Malaysia",
+   "conf": 0.96
+  },
+  {
+   "text": "AEON",
+   "conf": 0.91
+  },
+  {
+   "text": "SHAH",
+   "conf": 0.95
+  },
+  {
+   "text": "ALAM",
+   "conf": 0.96
+  },
+  {
+   "text": "Tel",
+   "conf": 0.91
+  },
+  {
+   "text": ":",
+   "conf": 0.9
+  },
+  {
+   "text": "03-55235214",
+   "conf": 0.89
+  },
+  {
+   "text": "06/03/18",
+   "conf": 0.95
+  },
+  {
+   "text": "18:01",
+   "conf": 0.92
+  },
+  {
+   "text": "Slip",
+   "conf": 0.92
+  },
+  {
+   "text": "No.:",
+   "conf": 0.86
+  },
+  {
+   "text": "8010180429",
+   "conf": 0.88
+  },
+  {
+   "text": "Supervisor",
+   "conf": 0.96
+  },
+  {
+   "text": "Trans:",
+   "conf": 0.95
+  },
+  {
+   "text": "196796",
+   "conf": 0.96
+  },
+  {
+   "text": "Member",
+   "conf": 0.95
+  },
+  {
+   "text": "Card",
+   "conf": 0.96
+  },
+  {
+   "text": "No:",
+   "conf": 0.95
+  },
+  {
+   "text": "1001016668849",
+   "conf": 0.95
+  },
+  {
+   "text": "Card",
+   "conf": 0.96
+  },
+  {
+   "text": "Expiry:",
+   "conf": 0.96
+  },
+  {
+   "text": "31/05/18",
+   "conf": 0.95
+  },
+  {
+   "text": "|",
+   "conf": 0.75
+  },
+  {
+   "text": "abeoce",
+   "conf": 0.0
+  },
+  {
+   "text": "steed",
+   "conf": 0.0
+  },
+  {
+   "text": "ee",
+   "conf": 0.09
+  },
+  {
+   "text": "|",
+   "conf": 0.81
+  },
+  {
+   "text": "Description",
+   "conf": 0.95
+  },
+  {
+   "text": "Anount",
+   "conf": 0.44
+  },
+  {
+   "text": "No",
+   "conf": 0.96
+  },
+  {
+   "text": "Plastic",
+   "conf": 0.96
+  },
+  {
+   "text": "Bag",
+   "conf": 0.93
+  },
+  {
+   "text": "Campai",
+   "conf": 0.91
+  },
+  {
+   "text": "0.20",
+   "conf": 0.92
+  },
+  {
+   "text": "T",
+   "conf": 0.92
+  },
+  {
+   "text": "70g",
+   "conf": 0.62
+  },
+  {
+   "text": "P.Copy",
+   "conf": 0.87
+  },
+  {
+   "text": "450'S",
+   "conf": 0.82
+  },
+  {
+   "text": "13.69",
+   "conf": 0.92
+  },
+  {
+   "text": "T",
+   "conf": 0.92
+  },
+  {
+   "text": "Stat-Great",
+   "conf": 0.91
+  },
+  {
+   "text": "Saving",
+   "conf": 0.96
+  },
+  {
+   "text": "~1.20",
+   "conf": 0.82
+  },
+  {
+   "text": "PB",
+   "conf": 0.87
+  },
+  {
+   "text": "O/TAPE",
+   "conf": 0.87
+  },
+  {
+   "text": "48X40X45BX3",
+   "conf": 0.83
+  },
+  {
+   "text": "2pc",
+   "conf": 0.58
+  },
+  {
+   "text": "@",
+   "conf": 0.91
+  },
+  {
+   "text": "7.99",
+   "conf": 0.77
+  },
+  {
+   "text": "15.98",
+   "conf": 0.92
+  },
+  {
+   "text": "T",
+   "conf": 0.91
+  },
+  {
+   "text": "Stat-Buy",
+   "conf": 0.34
+  },
+  {
+   "text": "2eRM",
+   "conf": 0.87
+  },
+  {
+   "text": "12",
+   "conf": 0.96
+  },
+  {
+   "text": "-3.",
+   "conf": 0.85
+  },
+  {
+   "text": "98",
+   "conf": 0.96
+  },
+  {
+   "text": "PB",
+   "conf": 0.91
+  },
+  {
+   "text": "S/Tape",
+   "conf": 0.89
+  },
+  {
+   "text": "18x40",
+   "conf": 0.93
+  },
+  {
+   "text": "4IN1",
+   "conf": 0.18
+  },
+  {
+   "text": "5.99",
+   "conf": 0.92
+  },
+  {
+   "text": "T",
+   "conf": 0.91
+  },
+  {
+   "text": "Total",
+   "conf": 0.96
+  },
+  {
+   "text": "RM",
+   "conf": 0.95
+  },
+  {
+   "text": "Incl.",
+   "conf": 0.96
+  },
+  {
+   "text": "of",
+   "conf": 0.96
+  },
+  {
+   "text": "UST",
+   "conf": 0.94
+  },
+  {
+   "text": "30.88",
+   "conf": 0.78
+  },
+  {
+   "text": "Rounding",
+   "conf": 0.96
+  },
+  {
+   "text": "Adj",
+   "conf": 0.17
+  },
+  {
+   "text": "0.",
+   "conf": 0.8
+  },
+  {
+   "text": "02",
+   "conf": 0.8
+  },
+  {
+   "text": "Total",
+   "conf": 0.94
+  },
+  {
+   "text": "RM",
+   "conf": 0.95
+  },
+  {
+   "text": "30.",
+   "conf": 0.94
+  },
+  {
+   "text": "70",
+   "conf": 0.94
+  },
+  {
+   "text": "Cash",
+   "conf": 0.97
+  },
+  {
+   "text": "-30.",
+   "conf": 0.92
+  },
+  {
+   "text": "70",
+   "conf": 0.96
+  },
+  {
+   "text": "Item",
+   "conf": 0.96
+  },
+  {
+   "text": "Count",
+   "conf": 0.96
+  },
+  {
+   "text": "5",
+   "conf": 0.95
+  },
+  {
+   "text": "GST",
+   "conf": 0.95
+  },
+  {
+   "text": "Summary",
+   "conf": 0.94
+  },
+  {
+   "text": "Amount",
+   "conf": 0.94
+  },
+  {
+   "text": "(RM)",
+   "conf": 0.76
+  },
+  {
+   "text": "Tax",
+   "conf": 0.76
+  },
+  {
+   "text": "(RM)",
+   "conf": 0.95
+  },
+  {
+   "text": "T",
+   "conf": 0.87
+  },
+  {
+   "text": "@",
+   "conf": 0.89
+  },
+  {
+   "text": "6%",
+   "conf": 0.9
+  },
+  {
+   "text": "28.94",
+   "conf": 0.85
+  },
+  {
+   "text": "1.74",
+   "conf": 0.77
+  },
+  {
+   "text": "Total",
+   "conf": 0.96
+  },
+  {
+   "text": "Savings",
+   "conf": 0.96
+  },
+  {
+   "text": "-5.",
+   "conf": 0.86
+  },
+  {
+   "text": "18",
+   "conf": 0.95
+  },
+  {
+   "text": "BE",
+   "conf": 0.96
+  },
+  {
+   "text": "A",
+   "conf": 0.96
+  },
+  {
+   "text": "POPULAR",
+   "conf": 0.96
+  },
+  {
+   "text": "CARD",
+   "conf": 0.96
+  },
+  {
+   "text": "MEMBER",
+   "conf": 0.96
+  },
+  {
+   "text": "AND",
+   "conf": 0.96
+  },
+  {
+   "text": "ENJOY",
+   "conf": 0.96
+  },
+  {
+   "text": "SPECIAL",
+   "conf": 0.94
+  },
+  {
+   "text": "DISCOUNTS",
+   "conf": 0.96
+  },
+  {
+   "text": "THANK",
+   "conf": 0.96
+  },
+  {
+   "text": "YOU.",
+   "conf": 0.94
+  },
+  {
+   "text": "PLEASE",
+   "conf": 0.89
+  },
+  {
+   "text": "COME",
+   "conf": 0.95
+  },
+  {
+   "text": "AGAIN.",
+   "conf": 0.82
+  },
+  {
+   "text": "www.",
+   "conf": 0.52
+  },
+  {
+   "text": "popular.",
+   "conf": 0.74
+  },
+  {
+   "text": "com,",
+   "conf": 0.76
+  },
+  {
+   "text": "my",
+   "conf": 0.96
+  },
+  {
+   "text": "Buy",
+   "conf": 0.93
+  },
+  {
+   "text": "Ghinese",
+   "conf": 0.73
+  },
+  {
+   "text": "books",
+   "conf": 0.96
+  },
+  {
+   "text": "online",
+   "conf": 0.96
+  },
+  {
+   "text": "|",
+   "conf": 0.78
+  },
+  {
+   "text": "www.",
+   "conf": 0.92
+  },
+  {
+   "text": "popularon]",
+   "conf": 0.15
+  },
+  {
+   "text": "ine.",
+   "conf": 0.6
+  },
+  {
+   "text": "com.",
+   "conf": 0.89
+  },
+  {
+   "text": "my",
+   "conf": 0.95
+  },
+  {
+   "text": "|",
+   "conf": 0.81
+  },
+  {
+   "text": "Ne",
+   "conf": 0.33
+  },
+  {
+   "text": "ae",
+   "conf": 0.13
+  }
+ ],
+ "mean_conf": 0.8542,
+ "low_conf_share": 0.069,
+ "latency_ms": 3221,
+ "fields": {
+  "company": null,
+  "date": "2018-03-06",
+  "total": 30.88
+ },
+ "rule_reasons": [
+  "company_not_found"
+ ],
+ "total_candidates": [
+  30.88
+ ],
+ "key": "X51006008092"
+}

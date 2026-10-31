@@ -1,0 +1,332 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "SYARIKAT PERNIAGAAN GIN KEE",
+  "(81109-A)",
+  "NO 290,JALAN AIR PANAS",
+  "SETAPAK,",
+  "53200.KUALALUMPUR",
+  "TEL:03-40210276",
+  "GST1D:000750673920",
+  "SIMPLIFIEDTAXINVOICE",
+  "CASH",
+  "DocNo CS00012507 Date:02/01/2018",
+  "Cashier USER Time:16:58:00",
+  "Salesperson Ref.:",
+  "Item Qty S/Price Amount Tax",
+  "1811 1 13.57 13.57 SR",
+  "8'2X3",
+  "1042 4 18.55 74.20 SR",
+  "7'X35#CORRUGATEDROOFINGSHEET",
+  "1921 1 5.30 5.30 SR",
+  "NAIL(PER/PACK)-RM5",
+  "Total Qty: 6 93.07",
+  "Total Sales(Excluding GST): 87.80",
+  "Discount: 0.00",
+  "Total GST : 5.27",
+  "Rounding : 0.00",
+  "Total Sales(Inclusive of Gst): 93.07",
+  "CASH : 93.07",
+  "Change : 0.00",
+  "GST SUMMARY",
+  "Tax Code % Amt(RM) Tax(RM)",
+  "SR 6 87.80 5.27",
+  "Total: 87.80 5.27",
+  "GOODSSOLDARENOTRETURNABLE,THANKYOU"
+ ],
+ "tokens": [
+  {
+   "text": "SYARIKAT PERNIAGAAN GIN KEE",
+   "conf": 0.9377423613159744
+  },
+  {
+   "text": "(81109-A)",
+   "conf": 0.9970515105459425
+  },
+  {
+   "text": "NO 290,JALAN AIR PANAS",
+   "conf": 0.9323837621645494
+  },
+  {
+   "text": "SETAPAK,",
+   "conf": 0.966783307492733
+  },
+  {
+   "text": "53200.KUALALUMPUR",
+   "conf": 0.9591236745609957
+  },
+  {
+   "text": "TEL:03-40210276",
+   "conf": 0.9951352794965108
+  },
+  {
+   "text": "GST1D:000750673920",
+   "conf": 0.9776276813613044
+  },
+  {
+   "text": "SIMPLIFIEDTAXINVOICE",
+   "conf": 0.9939645320177078
+  },
+  {
+   "text": "CASH",
+   "conf": 0.9936658442020416
+  },
+  {
+   "text": "DocNo",
+   "conf": 0.9942075252532959
+  },
+  {
+   "text": "CS00012507",
+   "conf": 0.9976405382156373
+  },
+  {
+   "text": "Date:02/01/2018",
+   "conf": 0.9954539616902669
+  },
+  {
+   "text": "Cashier",
+   "conf": 0.995278537273407
+  },
+  {
+   "text": "USER",
+   "conf": 0.9867666214704514
+  },
+  {
+   "text": "Time:16:58:00",
+   "conf": 0.9553071352151724
+  },
+  {
+   "text": "Salesperson",
+   "conf": 0.9947970672087236
+  },
+  {
+   "text": "Ref.:",
+   "conf": 0.9897563457489014
+  },
+  {
+   "text": "Item",
+   "conf": 0.9476392567157745
+  },
+  {
+   "text": "Qty",
+   "conf": 0.9985350370407104
+  },
+  {
+   "text": "S/Price",
+   "conf": 0.9915790557861328
+  },
+  {
+   "text": "Amount",
+   "conf": 0.995077004035314
+  },
+  {
+   "text": "Tax",
+   "conf": 0.9926947752634684
+  },
+  {
+   "text": "1811",
+   "conf": 0.997704416513443
+  },
+  {
+   "text": "1",
+   "conf": 0.9924613833427429
+  },
+  {
+   "text": "13.57",
+   "conf": 0.9981420278549195
+  },
+  {
+   "text": "13.57",
+   "conf": 0.9954520344734192
+  },
+  {
+   "text": "SR",
+   "conf": 0.99245885014534
+  },
+  {
+   "text": "8'2X3",
+   "conf": 0.8671539425849915
+  },
+  {
+   "text": "1042",
+   "conf": 0.9986889958381653
+  },
+  {
+   "text": "4",
+   "conf": 0.9994082450866699
+  },
+  {
+   "text": "18.55",
+   "conf": 0.9978206157684326
+  },
+  {
+   "text": "74.20",
+   "conf": 0.9994967937469482
+  },
+  {
+   "text": "SR",
+   "conf": 0.9897911846637726
+  },
+  {
+   "text": "7'X35#CORRUGATEDROOFINGSHEET",
+   "conf": 0.9699886568955013
+  },
+  {
+   "text": "1921",
+   "conf": 0.9988092482089996
+  },
+  {
+   "text": "1",
+   "conf": 0.9944842457771301
+  },
+  {
+   "text": "5.30",
+   "conf": 0.9984307438135147
+  },
+  {
+   "text": "5.30",
+   "conf": 0.9949731677770615
+  },
+  {
+   "text": "SR",
+   "conf": 0.9916909635066986
+  },
+  {
+   "text": "NAIL(PER/PACK)-RM5",
+   "conf": 0.9600985083315108
+  },
+  {
+   "text": "Total Qty:",
+   "conf": 0.9208351671695709
+  },
+  {
+   "text": "6",
+   "conf": 0.991527259349823
+  },
+  {
+   "text": "93.07",
+   "conf": 0.9990139126777648
+  },
+  {
+   "text": "Total Sales(Excluding GST):",
+   "conf": 0.965481111296901
+  },
+  {
+   "text": "87.80",
+   "conf": 0.9993074178695679
+  },
+  {
+   "text": "Discount:",
+   "conf": 0.987914244333903
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9992143213748932
+  },
+  {
+   "text": "Total GST :",
+   "conf": 0.9342256676067006
+  },
+  {
+   "text": "5.27",
+   "conf": 0.9992848038673401
+  },
+  {
+   "text": "Rounding :",
+   "conf": 0.9133693903684617
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9995547980070114
+  },
+  {
+   "text": "Total Sales(Inclusive of Gst):",
+   "conf": 0.8991311510403951
+  },
+  {
+   "text": "93.07",
+   "conf": 0.9993960499763489
+  },
+  {
+   "text": "CASH :",
+   "conf": 0.975208173195521
+  },
+  {
+   "text": "93.07",
+   "conf": 0.9992049694061279
+  },
+  {
+   "text": "Change :",
+   "conf": 0.9485628753900528
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9988381862640381
+  },
+  {
+   "text": "GST SUMMARY",
+   "conf": 0.9519151720133695
+  },
+  {
+   "text": "Tax Code",
+   "conf": 0.9572956711053848
+  },
+  {
+   "text": "%",
+   "conf": 0.9685196280479431
+  },
+  {
+   "text": "Amt(RM)",
+   "conf": 0.9799345476286752
+  },
+  {
+   "text": "Tax(RM)",
+   "conf": 0.9359776292528424
+  },
+  {
+   "text": "SR",
+   "conf": 0.9972297847270966
+  },
+  {
+   "text": "6",
+   "conf": 0.977560818195343
+  },
+  {
+   "text": "87.80",
+   "conf": 0.9998322248458862
+  },
+  {
+   "text": "5.27",
+   "conf": 0.9990277141332626
+  },
+  {
+   "text": "Total:",
+   "conf": 0.9946196377277374
+  },
+  {
+   "text": "87.80",
+   "conf": 0.999541974067688
+  },
+  {
+   "text": "5.27",
+   "conf": 0.9992266297340393
+  },
+  {
+   "text": "GOODSSOLDARENOTRETURNABLE,THANKYOU",
+   "conf": 0.9718981823500465
+  }
+ ],
+ "mean_conf": 0.9798,
+ "low_conf_share": 0.0,
+ "latency_ms": 4989,
+ "fields": {
+  "company": "SYARIKAT PERNIAGAAN GIN KEE",
+  "date": "2018-01-02",
+  "total": 93.07
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  93.07
+ ],
+ "key": "X51005676536"
+}

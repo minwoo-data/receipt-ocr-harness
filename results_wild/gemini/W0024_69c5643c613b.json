@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.6-flash",
+ "provider": "gemini",
+ "raw_text": "{\"vendor\": \"Arizona Five Palms\", \"date\": \"2017-03-24\", \"subtotal\": 89.0, \"tax\": 5.43, \"tip\": null, \"discount\": null, \"total\": 94.43, \"currency\": \"USD\", \"confidence\": 0.98, \"notes\": null}",
+ "data": {
+  "vendor": "Arizona Five Palms",
+  "date": "2017-03-24",
+  "subtotal": 89.0,
+  "tax": 5.43,
+  "tip": null,
+  "discount": null,
+  "total": 94.43,
+  "currency": "USD",
+  "confidence": 0.98,
+  "notes": null
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1471,
+  "output_tokens": 82,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.001411,
+ "latency_ms": 1821,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.6-flash",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.6-flash"
+ ],
+ "key": "W0024_69c5643c613b"
+}

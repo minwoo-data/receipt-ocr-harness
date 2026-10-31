@@ -1,0 +1,176 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "SWC ENTERPRISE SDN BHD",
+  "(1125830-V)",
+  "NO.5-7,Jalan Mahagoni 7/1,",
+  "Sekysen 4,Bandar Utama, 44300",
+  "Batang Kali, Selangor.",
+  "Tel:03-60571377",
+  "（GST ID No.:002017808384)",
+  "08/01/2018 Cashier:123",
+  "11:07:06 No:0100080332",
+  "Item/Desc. Qty Price Ant.",
+  "20X30 BEG 1KG91X30)",
+  "20X301KG 1 8.00 8.00",
+  "Total Qty: 1",
+  "TOTALAMOUNT 8.00",
+  "CASH 10.00",
+  "CHANGE 2.00",
+  "G Po% Inciuded In Tetel 0.45",
+  "Thank You ! Please Come Again",
+  "Goods Sold Only Exchangable",
+  "Within 3 Days!"
+ ],
+ "tokens": [
+  {
+   "text": "SWC ENTERPRISE SDN BHD",
+   "conf": 0.9453332424163818
+  },
+  {
+   "text": "(1125830-V)",
+   "conf": 0.9399410052732988
+  },
+  {
+   "text": "NO.5-7,Jalan Mahagoni 7/1,",
+   "conf": 0.8851239131047175
+  },
+  {
+   "text": "Sekysen 4,Bandar Utama, 44300",
+   "conf": 0.9350735935671576
+  },
+  {
+   "text": "Batang Kali, Selangor.",
+   "conf": 0.906196575273167
+  },
+  {
+   "text": "Tel:03-60571377",
+   "conf": 0.9620994687080383
+  },
+  {
+   "text": "（GST ID No.:002017808384)",
+   "conf": 0.9134411978721618
+  },
+  {
+   "text": "08/01/2018",
+   "conf": 0.9934352993965149
+  },
+  {
+   "text": "Cashier:123",
+   "conf": 0.9838630665432323
+  },
+  {
+   "text": "11:07:06",
+   "conf": 0.9872278496623039
+  },
+  {
+   "text": "No:0100080332",
+   "conf": 0.9776735076537499
+  },
+  {
+   "text": "Item/Desc.",
+   "conf": 0.9739411652088166
+  },
+  {
+   "text": "Qty",
+   "conf": 0.9905610283215841
+  },
+  {
+   "text": "Price",
+   "conf": 0.988692307472229
+  },
+  {
+   "text": "Ant.",
+   "conf": 0.869463324546814
+  },
+  {
+   "text": "20X30 BEG 1KG91X30)",
+   "conf": 0.9495922421154223
+  },
+  {
+   "text": "20X301KG",
+   "conf": 0.984453096985817
+  },
+  {
+   "text": "1",
+   "conf": 0.9849541187286377
+  },
+  {
+   "text": "8.00",
+   "conf": 0.9951200038194656
+  },
+  {
+   "text": "8.00",
+   "conf": 0.9827571511268616
+  },
+  {
+   "text": "Total Qty:",
+   "conf": 0.9210656821727753
+  },
+  {
+   "text": "1",
+   "conf": 0.9934096336364746
+  },
+  {
+   "text": "TOTALAMOUNT",
+   "conf": 0.9898371154611761
+  },
+  {
+   "text": "8.00",
+   "conf": 0.978969395160675
+  },
+  {
+   "text": "CASH",
+   "conf": 0.9893556237220764
+  },
+  {
+   "text": "10.00",
+   "conf": 0.9959508538246155
+  },
+  {
+   "text": "CHANGE",
+   "conf": 0.9796697199344635
+  },
+  {
+   "text": "2.00",
+   "conf": 0.9933131635189056
+  },
+  {
+   "text": "G",
+   "conf": 0.9724287390708923
+  },
+  {
+   "text": "Po% Inciuded In Tetel",
+   "conf": 0.7149621035371508
+  },
+  {
+   "text": "0.45",
+   "conf": 0.9829413592815399
+  },
+  {
+   "text": "Thank You ! Please Come Again",
+   "conf": 0.9374004972392115
+  },
+  {
+   "text": "Goods Sold Only Exchangable",
+   "conf": 0.9706231443970291
+  },
+  {
+   "text": "Within 3 Days!",
+   "conf": 0.9366827479430607
+  }
+ ],
+ "mean_conf": 0.956,
+ "low_conf_share": 0.0,
+ "latency_ms": 11419,
+ "fields": {
+  "company": "SWC ENTERPRISE SDN BHD",
+  "date": "2018-01-08",
+  "total": 8.0
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  8.0
+ ],
+ "key": "X51005230659"
+}

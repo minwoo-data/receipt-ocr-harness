@@ -1,0 +1,431 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "Dream Arts",
+  "L 2-047, LEVEL 2, VIVACITY MEGAMALL,",
+  "JALAN WAN ALWI, 93350 KUCHING",
+  "GST Reg.: 000168861696",
+  "Document No. : T02035040",
+  "Date : 29/03/2018 07:35:38 PM",
+  "Terminal : TO2",
+  "_--Garhier : CASHIERO1",
+  "DESC U.PRICE Disc AMOUNT",
+  "QTY RM RM",
+  "L123 ANDROID USB CABLE (CODE15) :",
+  "1 UNIT 15.00 0.00 15.00",
+  "Sub Total (Exclusive GST) : CG",
+  "GST 6% : 0.85",
+  "Rounding Adjustment : 0.00",
+  "Rounded Total (RM): 15.00",
+  "Cash 15.00",
+  "GST Summary Amount(RM) Tax(R™)",
+  "SR @ 6% 14.15 0.85",
+  "THANK YOU AND PLEASE COME AGAIN",
+  "Goods sold cannot be retumed & payment not",
+  "refundable.",
+  "Happy Shopping with us."
+ ],
+ "tokens": [
+  {
+   "text": "Dream",
+   "conf": 0.96
+  },
+  {
+   "text": "Arts",
+   "conf": 0.96
+  },
+  {
+   "text": "L",
+   "conf": 0.92
+  },
+  {
+   "text": "2-047,",
+   "conf": 0.96
+  },
+  {
+   "text": "LEVEL",
+   "conf": 0.96
+  },
+  {
+   "text": "2,",
+   "conf": 0.93
+  },
+  {
+   "text": "VIVACITY",
+   "conf": 0.92
+  },
+  {
+   "text": "MEGAMALL,",
+   "conf": 0.91
+  },
+  {
+   "text": "JALAN",
+   "conf": 0.95
+  },
+  {
+   "text": "WAN",
+   "conf": 0.91
+  },
+  {
+   "text": "ALWI,",
+   "conf": 0.72
+  },
+  {
+   "text": "93350",
+   "conf": 0.95
+  },
+  {
+   "text": "KUCHING",
+   "conf": 0.96
+  },
+  {
+   "text": "GST",
+   "conf": 0.93
+  },
+  {
+   "text": "Reg.:",
+   "conf": 0.92
+  },
+  {
+   "text": "000168861696",
+   "conf": 0.96
+  },
+  {
+   "text": "Document",
+   "conf": 0.96
+  },
+  {
+   "text": "No.",
+   "conf": 0.92
+  },
+  {
+   "text": ":",
+   "conf": 0.85
+  },
+  {
+   "text": "T02035040",
+   "conf": 0.85
+  },
+  {
+   "text": "Date",
+   "conf": 0.71
+  },
+  {
+   "text": ":",
+   "conf": 0.71
+  },
+  {
+   "text": "29/03/2018",
+   "conf": 0.96
+  },
+  {
+   "text": "07:35:38",
+   "conf": 0.96
+  },
+  {
+   "text": "PM",
+   "conf": 0.96
+  },
+  {
+   "text": "Terminal",
+   "conf": 0.92
+  },
+  {
+   "text": ":",
+   "conf": 0.91
+  },
+  {
+   "text": "TO2",
+   "conf": 0.24
+  },
+  {
+   "text": "_--Garhier",
+   "conf": 0.16
+  },
+  {
+   "text": ":",
+   "conf": 0.89
+  },
+  {
+   "text": "CASHIERO1",
+   "conf": 0.91
+  },
+  {
+   "text": "DESC",
+   "conf": 0.96
+  },
+  {
+   "text": "U.PRICE",
+   "conf": 0.7
+  },
+  {
+   "text": "Disc",
+   "conf": 0.62
+  },
+  {
+   "text": "AMOUNT",
+   "conf": 0.69
+  },
+  {
+   "text": "QTY",
+   "conf": 0.96
+  },
+  {
+   "text": "RM",
+   "conf": 0.96
+  },
+  {
+   "text": "RM",
+   "conf": 0.96
+  },
+  {
+   "text": "L123",
+   "conf": 0.93
+  },
+  {
+   "text": "ANDROID",
+   "conf": 0.96
+  },
+  {
+   "text": "USB",
+   "conf": 0.96
+  },
+  {
+   "text": "CABLE",
+   "conf": 0.93
+  },
+  {
+   "text": "(CODE15)",
+   "conf": 0.9
+  },
+  {
+   "text": ":",
+   "conf": 0.46
+  },
+  {
+   "text": "1",
+   "conf": 0.96
+  },
+  {
+   "text": "UNIT",
+   "conf": 0.1
+  },
+  {
+   "text": "15.00",
+   "conf": 0.89
+  },
+  {
+   "text": "0.00",
+   "conf": 0.89
+  },
+  {
+   "text": "15.00",
+   "conf": 0.96
+  },
+  {
+   "text": "Sub",
+   "conf": 0.96
+  },
+  {
+   "text": "Total",
+   "conf": 0.96
+  },
+  {
+   "text": "(Exclusive",
+   "conf": 0.96
+  },
+  {
+   "text": "GST)",
+   "conf": 0.92
+  },
+  {
+   "text": ":",
+   "conf": 0.69
+  },
+  {
+   "text": "CG",
+   "conf": 0.24
+  },
+  {
+   "text": "GST",
+   "conf": 0.95
+  },
+  {
+   "text": "6%",
+   "conf": 0.78
+  },
+  {
+   "text": ":",
+   "conf": 0.78
+  },
+  {
+   "text": "0.85",
+   "conf": 0.95
+  },
+  {
+   "text": "Rounding",
+   "conf": 0.96
+  },
+  {
+   "text": "Adjustment",
+   "conf": 0.93
+  },
+  {
+   "text": ":",
+   "conf": 0.93
+  },
+  {
+   "text": "0.00",
+   "conf": 0.96
+  },
+  {
+   "text": "Rounded",
+   "conf": 0.96
+  },
+  {
+   "text": "Total",
+   "conf": 0.94
+  },
+  {
+   "text": "(RM):",
+   "conf": 0.94
+  },
+  {
+   "text": "15.00",
+   "conf": 0.96
+  },
+  {
+   "text": "Cash",
+   "conf": 0.96
+  },
+  {
+   "text": "15.00",
+   "conf": 0.96
+  },
+  {
+   "text": "GST",
+   "conf": 0.96
+  },
+  {
+   "text": "Summary",
+   "conf": 0.96
+  },
+  {
+   "text": "Amount(RM)",
+   "conf": 0.91
+  },
+  {
+   "text": "Tax(R™)",
+   "conf": 0.32
+  },
+  {
+   "text": "SR",
+   "conf": 0.9
+  },
+  {
+   "text": "@",
+   "conf": 0.9
+  },
+  {
+   "text": "6%",
+   "conf": 0.96
+  },
+  {
+   "text": "14.15",
+   "conf": 0.96
+  },
+  {
+   "text": "0.85",
+   "conf": 0.96
+  },
+  {
+   "text": "THANK",
+   "conf": 0.96
+  },
+  {
+   "text": "YOU",
+   "conf": 0.96
+  },
+  {
+   "text": "AND",
+   "conf": 0.96
+  },
+  {
+   "text": "PLEASE",
+   "conf": 0.96
+  },
+  {
+   "text": "COME",
+   "conf": 0.96
+  },
+  {
+   "text": "AGAIN",
+   "conf": 0.95
+  },
+  {
+   "text": "Goods",
+   "conf": 0.96
+  },
+  {
+   "text": "sold",
+   "conf": 0.96
+  },
+  {
+   "text": "cannot",
+   "conf": 0.96
+  },
+  {
+   "text": "be",
+   "conf": 0.93
+  },
+  {
+   "text": "retumed",
+   "conf": 0.91
+  },
+  {
+   "text": "&",
+   "conf": 0.92
+  },
+  {
+   "text": "payment",
+   "conf": 0.96
+  },
+  {
+   "text": "not",
+   "conf": 0.96
+  },
+  {
+   "text": "refundable.",
+   "conf": 0.96
+  },
+  {
+   "text": "Happy",
+   "conf": 0.95
+  },
+  {
+   "text": "Shopping",
+   "conf": 0.95
+  },
+  {
+   "text": "with",
+   "conf": 0.95
+  },
+  {
+   "text": "us.",
+   "conf": 0.96
+  }
+ ],
+ "mean_conf": 0.8775,
+ "low_conf_share": 0.0619,
+ "latency_ms": 1572,
+ "fields": {
+  "company": "DREAM ARTS",
+  "date": "2018-03-29",
+  "total": 15.0
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  15.0
+ ],
+ "key": "X51006248253"
+}

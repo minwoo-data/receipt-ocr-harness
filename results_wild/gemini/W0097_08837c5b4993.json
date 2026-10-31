@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.6-flash",
+ "provider": "gemini",
+ "raw_text": "{\"vendor\": \"Bugenvila\", \"date\": \"2014-09-19\", \"subtotal\": 290.0, \"tax\": null, \"tip\": null, \"discount\": null, \"total\": 290.0, \"currency\": \"HRK\", \"confidence\": 0.95, \"notes\": null}",
+ "data": {
+  "vendor": "Bugenvila",
+  "date": "2014-09-19",
+  "subtotal": 290.0,
+  "tax": null,
+  "tip": null,
+  "discount": null,
+  "total": 290.0,
+  "currency": "HRK",
+  "confidence": 0.95,
+  "notes": null
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1471,
+  "output_tokens": 80,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.001403,
+ "latency_ms": 1669,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.6-flash",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.6-flash"
+ ],
+ "key": "W0097_08837c5b4993"
+}

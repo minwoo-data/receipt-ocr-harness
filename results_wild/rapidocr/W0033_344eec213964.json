@@ -1,0 +1,216 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "#Waka1（10)",
+  "Charcoal Grill Diner",
+  "ZAKKUSHI",
+  "823DenmanStreet",
+  "Vancouver,BC,V6G2L7",
+  "Tel/Fax:(604)685-1136",
+  "Order#ZK0000044172",
+  "6/20/2007 1:39:10PM",
+  "2 Roll Set (ROLL SET) 17.80",
+  "Tori Soboro Don(SOBORO) 6.80",
+  "Zaru Soba(ZA-SOBA) 4.80",
+  "2 Tsukemono 4.00",
+  "Umezuke(UMEZUKE) 3.80",
+  "Pork Ginger Tei (P-G-T) 8.50",
+  "1 Salad Udon(S-UDON) 5.80",
+  "Curry Udon(CURYUDON) 17.40",
+  "Gomaae (GOMA) 3.50",
+  "3 Lunch Pop,Tea(L-POP) 4.50",
+  "TakoWasa(TAKOWASA) 3.50",
+  "Subtotal 80.40",
+  "GST 4.82",
+  "Total 85.22",
+  "THANKYOU",
+  "GST #869335000 RT0001"
+ ],
+ "tokens": [
+  {
+   "text": "#Waka1（10)",
+   "conf": 0.9244017243385315
+  },
+  {
+   "text": "Charcoal Grill Diner",
+   "conf": 0.9847533345222473
+  },
+  {
+   "text": "ZAKKUSHI",
+   "conf": 0.993306428194046
+  },
+  {
+   "text": "823DenmanStreet",
+   "conf": 0.9932336966196696
+  },
+  {
+   "text": "Vancouver,BC,V6G2L7",
+   "conf": 0.7994228570084823
+  },
+  {
+   "text": "Tel/Fax:(604)685-1136",
+   "conf": 0.9772780083474659
+  },
+  {
+   "text": "Order#ZK0000044172",
+   "conf": 0.9846313960022397
+  },
+  {
+   "text": "6/20/2007",
+   "conf": 0.9946499268213908
+  },
+  {
+   "text": "1:39:10PM",
+   "conf": 0.972657733493381
+  },
+  {
+   "text": "2",
+   "conf": 0.999321460723877
+  },
+  {
+   "text": "Roll Set (ROLL SET)",
+   "conf": 0.8976824032632928
+  },
+  {
+   "text": "17.80",
+   "conf": 0.9984505653381348
+  },
+  {
+   "text": "Tori Soboro Don(SOBORO)",
+   "conf": 0.9233566263447637
+  },
+  {
+   "text": "6.80",
+   "conf": 0.9984017461538315
+  },
+  {
+   "text": "Zaru Soba(ZA-SOBA)",
+   "conf": 0.9494679007265303
+  },
+  {
+   "text": "4.80",
+   "conf": 0.9086780250072479
+  },
+  {
+   "text": "2",
+   "conf": 0.9994674324989319
+  },
+  {
+   "text": "Tsukemono",
+   "conf": 0.9906149771478441
+  },
+  {
+   "text": "4.00",
+   "conf": 0.995280310511589
+  },
+  {
+   "text": "Umezuke(UMEZUKE)",
+   "conf": 0.9503674693405628
+  },
+  {
+   "text": "3.80",
+   "conf": 0.99752177298069
+  },
+  {
+   "text": "Pork Ginger Tei (P-G-T)",
+   "conf": 0.9366986829301586
+  },
+  {
+   "text": "8.50",
+   "conf": 0.9971851110458374
+  },
+  {
+   "text": "1",
+   "conf": 0.9945687055587769
+  },
+  {
+   "text": "Salad Udon(S-UDON)",
+   "conf": 0.9522436989678277
+  },
+  {
+   "text": "5.80",
+   "conf": 0.9984961003065109
+  },
+  {
+   "text": "Curry Udon(CURYUDON)",
+   "conf": 0.9301922291517257
+  },
+  {
+   "text": "17.40",
+   "conf": 0.9977495789527893
+  },
+  {
+   "text": "Gomaae (GOMA)",
+   "conf": 0.9074453298862164
+  },
+  {
+   "text": "3.50",
+   "conf": 0.997679814696312
+  },
+  {
+   "text": "3",
+   "conf": 0.9907156229019165
+  },
+  {
+   "text": "Lunch Pop,Tea(L-POP)",
+   "conf": 0.9352339476346969
+  },
+  {
+   "text": "4.50",
+   "conf": 0.99648118019104
+  },
+  {
+   "text": "TakoWasa(TAKOWASA)",
+   "conf": 0.9372756977876028
+  },
+  {
+   "text": "3.50",
+   "conf": 0.9975147694349289
+  },
+  {
+   "text": "Subtotal",
+   "conf": 0.9892474710941315
+  },
+  {
+   "text": "80.40",
+   "conf": 0.9987630128860474
+  },
+  {
+   "text": "GST",
+   "conf": 0.9913733005523682
+  },
+  {
+   "text": "4.82",
+   "conf": 0.9977186322212219
+  },
+  {
+   "text": "Total",
+   "conf": 0.9924384951591492
+  },
+  {
+   "text": "85.22",
+   "conf": 0.9982231378555297
+  },
+  {
+   "text": "THANKYOU",
+   "conf": 0.9909435957670212
+  },
+  {
+   "text": "GST #869335000 RT0001",
+   "conf": 0.9605596008754912
+  }
+ ],
+ "mean_conf": 0.9703,
+ "low_conf_share": 0.0,
+ "latency_ms": 3800,
+ "fields": {
+  "company": "CHARCOAL GRILL DINER",
+  "date": "2007-06-20",
+  "total": 85.22
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  85.22
+ ],
+ "key": "W0033_344eec213964"
+}

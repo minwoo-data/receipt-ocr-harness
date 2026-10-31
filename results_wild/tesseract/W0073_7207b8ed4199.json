@@ -1,0 +1,43 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "jE LP 8",
+  "Table 24"
+ ],
+ "tokens": [
+  {
+   "text": "jE",
+   "conf": 0.17
+  },
+  {
+   "text": "LP",
+   "conf": 0.48
+  },
+  {
+   "text": "8",
+   "conf": 0.16
+  },
+  {
+   "text": "Table",
+   "conf": 0.96
+  },
+  {
+   "text": "24",
+   "conf": 0.95
+  }
+ ],
+ "mean_conf": 0.544,
+ "low_conf_share": 0.6,
+ "latency_ms": 190,
+ "fields": {
+  "company": "JE LP 8",
+  "date": null,
+  "total": null
+ },
+ "rule_reasons": [
+  "date_not_found",
+  "total_not_found"
+ ],
+ "total_candidates": [],
+ "key": "W0073_7207b8ed4199"
+}

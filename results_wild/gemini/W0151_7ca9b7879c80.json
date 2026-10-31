@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.6-flash",
+ "provider": "gemini",
+ "raw_text": "{\"vendor\": \"Mobilestop\", \"date\": \"2015-07-28\", \"subtotal\": 28.0, \"tax\": null, \"tip\": null, \"discount\": null, \"total\": 28.0, \"currency\": \"SGD\", \"confidence\": 0.98, \"notes\": null}",
+ "data": {
+  "vendor": "Mobilestop",
+  "date": "2015-07-28",
+  "subtotal": 28.0,
+  "tax": null,
+  "tip": null,
+  "discount": null,
+  "total": 28.0,
+  "currency": "SGD",
+  "confidence": 0.98,
+  "notes": null
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1433,
+  "output_tokens": 77,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.001363,
+ "latency_ms": 2371,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.6-flash",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.6-flash"
+ ],
+ "key": "W0151_7ca9b7879c80"
+}

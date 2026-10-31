@@ -1,0 +1,284 @@
+{
+ "engine": "rapidocr",
+ "lines": [
+  "QOAter",
+  "AIKHUATHARDHARE",
+  "ENTERPRISESETIA",
+  "ALAHSUNBHD",
+  "822737-X",
+  "NO.17-G,3ALAN SEIIA IN0AH",
+  "(X)U13/X,SETIA ALAN",
+  "SEKSYEN U13.40170 SHAH ALAM",
+  "TEL:012-6651783FAX:03-33623608",
+  "GST N0:000394528768",
+  "SIMPLIFIED TAX INVOICE",
+  "CASH",
+  "RECEIPT#:CSP0405591 DATE:12/09/2017",
+  "SALESFERSON :AH019 TIE:15:22:00",
+  "ITEM QTY U/P AMOUNT",
+  "(RM) (RM)",
+  "9555783202031 30.00 30.009",
+  "7001CZLEVER RSINK TYPE SINK TAP",
+  "TOTAL QUANTITY 1",
+  "SUB-TOTAL(GST) 30.00",
+  "DISC 0.00",
+  "ROUNDING 0.00",
+  "TOTAL 30.00",
+  "CASH 30.00",
+  "CHANGE 0.00",
+  "*GST @ 6% INCLUDEI IN TOTAL",
+  "GST SUMMARY",
+  "CODE % TAX/AMT",
+  "SR 28.30 6 1.70",
+  "TAX TOTAL: 1.70",
+  "GOODS SOLD ARE NOT RERUNDABLE",
+  "THANE YOU FOR CHOOSING US",
+  "PLS FROVTDE ORIGINAL BILL FOK GOODS",
+  "EXCHANGE WITHIN I WEEK FROM TRANSACTION",
+  "GOODS MUST BE IN ORIGINALSIATETO BE",
+  "ENTITLED FOR EXCHANGE"
+ ],
+ "tokens": [
+  {
+   "text": "QOAter",
+   "conf": 0.6018718779087067
+  },
+  {
+   "text": "AIKHUATHARDHARE",
+   "conf": 0.898317672808965
+  },
+  {
+   "text": "ENTERPRISESETIA",
+   "conf": 0.9238296429316203
+  },
+  {
+   "text": "ALAHSUNBHD",
+   "conf": 0.8522124290466309
+  },
+  {
+   "text": "822737-X",
+   "conf": 0.9844405874609947
+  },
+  {
+   "text": "NO.17-G,3ALAN SEIIA IN0AH",
+   "conf": 0.9030371451377869
+  },
+  {
+   "text": "(X)U13/X,SETIA ALAN",
+   "conf": 0.8899116814136505
+  },
+  {
+   "text": "SEKSYEN U13.40170 SHAH ALAM",
+   "conf": 0.905384533935123
+  },
+  {
+   "text": "TEL:012-6651783FAX:03-33623608",
+   "conf": 0.9838057219982147
+  },
+  {
+   "text": "GST N0:000394528768",
+   "conf": 0.967968319591723
+  },
+  {
+   "text": "SIMPLIFIED TAX INVOICE",
+   "conf": 0.9304730865088376
+  },
+  {
+   "text": "CASH",
+   "conf": 0.9934334754943848
+  },
+  {
+   "text": "RECEIPT#:CSP0405591 DATE:12/09/2017",
+   "conf": 0.9615049651690892
+  },
+  {
+   "text": "SALESFERSON :AH019",
+   "conf": 0.9040983253055148
+  },
+  {
+   "text": "TIE:15:22:00",
+   "conf": 0.8787704184651375
+  },
+  {
+   "text": "ITEM",
+   "conf": 0.9171277731657028
+  },
+  {
+   "text": "QTY",
+   "conf": 0.9857891798019409
+  },
+  {
+   "text": "U/P",
+   "conf": 0.929220457871755
+  },
+  {
+   "text": "AMOUNT",
+   "conf": 0.9918785889943441
+  },
+  {
+   "text": "(RM)",
+   "conf": 0.841059222817421
+  },
+  {
+   "text": "(RM)",
+   "conf": 0.9427991509437561
+  },
+  {
+   "text": "9555783202031",
+   "conf": 0.998572459587684
+  },
+  {
+   "text": "30.00",
+   "conf": 0.9846455812454223
+  },
+  {
+   "text": "30.009",
+   "conf": 0.8988599330186844
+  },
+  {
+   "text": "7001CZLEVER",
+   "conf": 0.9903635436838324
+  },
+  {
+   "text": "RSINK TYPE SINK TAP",
+   "conf": 0.9291678761181078
+  },
+  {
+   "text": "TOTAL QUANTITY",
+   "conf": 0.9752162780080523
+  },
+  {
+   "text": "1",
+   "conf": 0.9658896923065186
+  },
+  {
+   "text": "SUB-TOTAL(GST)",
+   "conf": 0.9649321479456765
+  },
+  {
+   "text": "30.00",
+   "conf": 0.9805171847343445
+  },
+  {
+   "text": "DISC",
+   "conf": 0.9401595145463943
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9812970906496048
+  },
+  {
+   "text": "ROUNDING",
+   "conf": 0.9863703697919846
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9939927756786346
+  },
+  {
+   "text": "TOTAL",
+   "conf": 0.9935679078102112
+  },
+  {
+   "text": "30.00",
+   "conf": 0.9044971585273742
+  },
+  {
+   "text": "CASH",
+   "conf": 0.9953373670578003
+  },
+  {
+   "text": "30.00",
+   "conf": 0.9897097826004029
+  },
+  {
+   "text": "CHANGE",
+   "conf": 0.9969517687956492
+  },
+  {
+   "text": "0.00",
+   "conf": 0.9742573350667953
+  },
+  {
+   "text": "*GST @ 6% INCLUDEI IN TOTAL",
+   "conf": 0.8897543130097566
+  },
+  {
+   "text": "GST SUMMARY",
+   "conf": 0.9266606623476202
+  },
+  {
+   "text": "CODE",
+   "conf": 0.9543944001197815
+  },
+  {
+   "text": "%",
+   "conf": 0.752781093120575
+  },
+  {
+   "text": "TAX/AMT",
+   "conf": 0.9785698481968471
+  },
+  {
+   "text": "SR",
+   "conf": 0.9899280071258545
+  },
+  {
+   "text": "28.30",
+   "conf": 0.9946109056472778
+  },
+  {
+   "text": "6",
+   "conf": 0.5177052021026611
+  },
+  {
+   "text": "1.70",
+   "conf": 0.996632307767868
+  },
+  {
+   "text": "TAX TOTAL:",
+   "conf": 0.9452654123306274
+  },
+  {
+   "text": "1.70",
+   "conf": 0.9951318800449371
+  },
+  {
+   "text": "GOODS SOLD ARE NOT RERUNDABLE",
+   "conf": 0.9161596349601088
+  },
+  {
+   "text": "THANE YOU FOR CHOOSING US",
+   "conf": 0.9313446903228759
+  },
+  {
+   "text": "PLS FROVTDE ORIGINAL BILL FOK GOODS",
+   "conf": 0.8635288212980543
+  },
+  {
+   "text": "EXCHANGE WITHIN I WEEK FROM TRANSACTION",
+   "conf": 0.8546209342968769
+  },
+  {
+   "text": "GOODS MUST BE IN ORIGINALSIATETO BE",
+   "conf": 0.9027540053640093
+  },
+  {
+   "text": "ENTITLED FOR EXCHANGE",
+   "conf": 0.8613854902131217
+  }
+ ],
+ "mean_conf": 0.9281,
+ "low_conf_share": 0.0,
+ "latency_ms": 5414,
+ "fields": {
+  "company": "QOATER",
+  "date": "2017-09-12",
+  "total": 30.0
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  30.0
+ ],
+ "key": "X51007339648"
+}

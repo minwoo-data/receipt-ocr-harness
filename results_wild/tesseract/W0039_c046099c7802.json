@@ -1,0 +1,27 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "a"
+ ],
+ "tokens": [
+  {
+   "text": "a",
+   "conf": 0.9
+  }
+ ],
+ "mean_conf": 0.9,
+ "low_conf_share": 0.0,
+ "latency_ms": 187,
+ "fields": {
+  "company": null,
+  "date": null,
+  "total": null
+ },
+ "rule_reasons": [
+  "company_not_found",
+  "date_not_found",
+  "total_not_found"
+ ],
+ "total_candidates": [],
+ "key": "W0039_c046099c7802"
+}

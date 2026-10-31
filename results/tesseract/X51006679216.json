@@ -1,0 +1,621 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "FACE TO FACE NOODLE HOUSE",
+  "FTOF NOODLE HOUSE",
+  "(002049088-U)",
+  "No.25, Jalan Metro Perdana Barat 2,",
+  "Taman Usahawan Kepong, Kepong Utara,",
+  "52100 Kuala Lumpur.",
+  "Tel: 016-680 8777",
+  "(GST ID: 001927782400)",
+  "Date: 21/05/2018Time: 11:12:56AM",
+  "INV No: 443181",
+  "Table: .",
+  "12-Dine In",
+  "Counter: Ci",
+  "Steff: T.Y. / JAMES LELE",
+  "Unit: (aM ee Amount Cale",
+  "711-Omega Half Boiled Egg",
+  "RM 3.20 1 0,00 RM3.205R",
+  "706-Toasted Bread (Homemade Kaya)",
+  "RM 4.30 1 0.00 RM4,30SR",
+  "837-Honey Lemon (Hot)",
+  "RM 3.90 1 6.00 RIM3.90SR",
+  "838-Honey Lemon (Cold)",
+  "RM 4.20 1 0.00 RM4.20SR",
+  "2022-House Specialty Hot & Spicy",
+  "Pan Mee (Dry) (b)",
+  "RM 8.50 1 ¢.00 RM8.00SR",
+  "202 1-House Specialty Hot & Spicy",
+  "Pan Mee (Dry) (a)",
+  "RM 8.00 1 9.00 RM8.00SR",
+  "“Oh: —*G Total Amount: RM31.60",
+  "Discount: RMO.00",
+  "After Discount: RM31.60",
+  "Cent Rounding: RMO.00",
+  "Total Sales: RM31.60",
+  "\\00",
+  "[ost sunman Excl Amount(RM) ——Tax(RM)",
+  "SR = 6% 29.81 1.79"
+ ],
+ "tokens": [
+  {
+   "text": "FACE",
+   "conf": 0.96
+  },
+  {
+   "text": "TO",
+   "conf": 0.95
+  },
+  {
+   "text": "FACE",
+   "conf": 0.95
+  },
+  {
+   "text": "NOODLE",
+   "conf": 0.96
+  },
+  {
+   "text": "HOUSE",
+   "conf": 0.96
+  },
+  {
+   "text": "FTOF",
+   "conf": 0.92
+  },
+  {
+   "text": "NOODLE",
+   "conf": 0.96
+  },
+  {
+   "text": "HOUSE",
+   "conf": 0.96
+  },
+  {
+   "text": "(002049088-U)",
+   "conf": 0.91
+  },
+  {
+   "text": "No.25,",
+   "conf": 0.85
+  },
+  {
+   "text": "Jalan",
+   "conf": 0.95
+  },
+  {
+   "text": "Metro",
+   "conf": 0.96
+  },
+  {
+   "text": "Perdana",
+   "conf": 0.96
+  },
+  {
+   "text": "Barat",
+   "conf": 0.96
+  },
+  {
+   "text": "2,",
+   "conf": 0.96
+  },
+  {
+   "text": "Taman",
+   "conf": 0.93
+  },
+  {
+   "text": "Usahawan",
+   "conf": 0.92
+  },
+  {
+   "text": "Kepong,",
+   "conf": 0.9
+  },
+  {
+   "text": "Kepong",
+   "conf": 0.92
+  },
+  {
+   "text": "Utara,",
+   "conf": 0.96
+  },
+  {
+   "text": "52100",
+   "conf": 0.96
+  },
+  {
+   "text": "Kuala",
+   "conf": 0.96
+  },
+  {
+   "text": "Lumpur.",
+   "conf": 0.93
+  },
+  {
+   "text": "Tel:",
+   "conf": 0.95
+  },
+  {
+   "text": "016-680",
+   "conf": 0.96
+  },
+  {
+   "text": "8777",
+   "conf": 0.96
+  },
+  {
+   "text": "(GST",
+   "conf": 0.95
+  },
+  {
+   "text": "ID:",
+   "conf": 0.95
+  },
+  {
+   "text": "001927782400)",
+   "conf": 0.94
+  },
+  {
+   "text": "Date:",
+   "conf": 0.96
+  },
+  {
+   "text": "21/05/2018Time:",
+   "conf": 0.91
+  },
+  {
+   "text": "11:12:56AM",
+   "conf": 0.79
+  },
+  {
+   "text": "INV",
+   "conf": 0.96
+  },
+  {
+   "text": "No:",
+   "conf": 0.96
+  },
+  {
+   "text": "443181",
+   "conf": 0.96
+  },
+  {
+   "text": "Table:",
+   "conf": 0.96
+  },
+  {
+   "text": ".",
+   "conf": 0.17
+  },
+  {
+   "text": "12-Dine",
+   "conf": 0.92
+  },
+  {
+   "text": "In",
+   "conf": 0.96
+  },
+  {
+   "text": "Counter:",
+   "conf": 0.77
+  },
+  {
+   "text": "Ci",
+   "conf": 0.94
+  },
+  {
+   "text": "Steff:",
+   "conf": 0.79
+  },
+  {
+   "text": "T.Y.",
+   "conf": 0.78
+  },
+  {
+   "text": "/",
+   "conf": 0.71
+  },
+  {
+   "text": "JAMES",
+   "conf": 0.93
+  },
+  {
+   "text": "LELE",
+   "conf": 0.92
+  },
+  {
+   "text": "Unit:",
+   "conf": 0.56
+  },
+  {
+   "text": "(aM",
+   "conf": 0.19
+  },
+  {
+   "text": "ee",
+   "conf": 0.2
+  },
+  {
+   "text": "Amount",
+   "conf": 0.95
+  },
+  {
+   "text": "Cale",
+   "conf": 0.36
+  },
+  {
+   "text": "711-Omega",
+   "conf": 0.91
+  },
+  {
+   "text": "Half",
+   "conf": 0.96
+  },
+  {
+   "text": "Boiled",
+   "conf": 0.95
+  },
+  {
+   "text": "Egg",
+   "conf": 0.96
+  },
+  {
+   "text": "RM",
+   "conf": 0.96
+  },
+  {
+   "text": "3.20",
+   "conf": 0.94
+  },
+  {
+   "text": "1",
+   "conf": 0.77
+  },
+  {
+   "text": "0,00",
+   "conf": 0.77
+  },
+  {
+   "text": "RM3.205R",
+   "conf": 0.74
+  },
+  {
+   "text": "706-Toasted",
+   "conf": 0.92
+  },
+  {
+   "text": "Bread",
+   "conf": 0.96
+  },
+  {
+   "text": "(Homemade",
+   "conf": 0.96
+  },
+  {
+   "text": "Kaya)",
+   "conf": 0.96
+  },
+  {
+   "text": "RM",
+   "conf": 0.95
+  },
+  {
+   "text": "4.30",
+   "conf": 0.82
+  },
+  {
+   "text": "1",
+   "conf": 0.78
+  },
+  {
+   "text": "0.00",
+   "conf": 0.78
+  },
+  {
+   "text": "RM4,30SR",
+   "conf": 0.49
+  },
+  {
+   "text": "837-Honey",
+   "conf": 0.87
+  },
+  {
+   "text": "Lemon",
+   "conf": 0.96
+  },
+  {
+   "text": "(Hot)",
+   "conf": 0.95
+  },
+  {
+   "text": "RM",
+   "conf": 0.95
+  },
+  {
+   "text": "3.90",
+   "conf": 0.95
+  },
+  {
+   "text": "1",
+   "conf": 0.83
+  },
+  {
+   "text": "6.00",
+   "conf": 0.69
+  },
+  {
+   "text": "RIM3.90SR",
+   "conf": 0.16
+  },
+  {
+   "text": "838-Honey",
+   "conf": 0.92
+  },
+  {
+   "text": "Lemon",
+   "conf": 0.47
+  },
+  {
+   "text": "(Cold)",
+   "conf": 0.96
+  },
+  {
+   "text": "RM",
+   "conf": 0.96
+  },
+  {
+   "text": "4.20",
+   "conf": 0.96
+  },
+  {
+   "text": "1",
+   "conf": 0.92
+  },
+  {
+   "text": "0.00",
+   "conf": 0.11
+  },
+  {
+   "text": "RM4.20SR",
+   "conf": 0.81
+  },
+  {
+   "text": "2022-House",
+   "conf": 0.89
+  },
+  {
+   "text": "Specialty",
+   "conf": 0.96
+  },
+  {
+   "text": "Hot",
+   "conf": 0.93
+  },
+  {
+   "text": "&",
+   "conf": 0.93
+  },
+  {
+   "text": "Spicy",
+   "conf": 0.96
+  },
+  {
+   "text": "Pan",
+   "conf": 0.96
+  },
+  {
+   "text": "Mee",
+   "conf": 0.96
+  },
+  {
+   "text": "(Dry)",
+   "conf": 0.93
+  },
+  {
+   "text": "(b)",
+   "conf": 0.9
+  },
+  {
+   "text": "RM",
+   "conf": 0.95
+  },
+  {
+   "text": "8.50",
+   "conf": 0.67
+  },
+  {
+   "text": "1",
+   "conf": 0.5
+  },
+  {
+   "text": "¢.00",
+   "conf": 0.55
+  },
+  {
+   "text": "RM8.00SR",
+   "conf": 0.56
+  },
+  {
+   "text": "202",
+   "conf": 0.38
+  },
+  {
+   "text": "1-House",
+   "conf": 0.38
+  },
+  {
+   "text": "Specialty",
+   "conf": 0.9
+  },
+  {
+   "text": "Hot",
+   "conf": 0.92
+  },
+  {
+   "text": "&",
+   "conf": 0.92
+  },
+  {
+   "text": "Spicy",
+   "conf": 0.96
+  },
+  {
+   "text": "Pan",
+   "conf": 0.96
+  },
+  {
+   "text": "Mee",
+   "conf": 0.96
+  },
+  {
+   "text": "(Dry)",
+   "conf": 0.96
+  },
+  {
+   "text": "(a)",
+   "conf": 0.94
+  },
+  {
+   "text": "RM",
+   "conf": 0.94
+  },
+  {
+   "text": "8.00",
+   "conf": 0.95
+  },
+  {
+   "text": "1",
+   "conf": 0.84
+  },
+  {
+   "text": "9.00",
+   "conf": 0.84
+  },
+  {
+   "text": "RM8.00SR",
+   "conf": 0.5
+  },
+  {
+   "text": "“Oh:",
+   "conf": 0.45
+  },
+  {
+   "text": "—*G",
+   "conf": 0.0
+  },
+  {
+   "text": "Total",
+   "conf": 0.96
+  },
+  {
+   "text": "Amount:",
+   "conf": 0.96
+  },
+  {
+   "text": "RM31.60",
+   "conf": 0.62
+  },
+  {
+   "text": "Discount:",
+   "conf": 0.94
+  },
+  {
+   "text": "RMO.00",
+   "conf": 0.56
+  },
+  {
+   "text": "After",
+   "conf": 0.96
+  },
+  {
+   "text": "Discount:",
+   "conf": 0.96
+  },
+  {
+   "text": "RM31.60",
+   "conf": 0.77
+  },
+  {
+   "text": "Cent",
+   "conf": 0.96
+  },
+  {
+   "text": "Rounding:",
+   "conf": 0.93
+  },
+  {
+   "text": "RMO.00",
+   "conf": 0.73
+  },
+  {
+   "text": "Total",
+   "conf": 0.96
+  },
+  {
+   "text": "Sales:",
+   "conf": 0.96
+  },
+  {
+   "text": "RM31.60",
+   "conf": 0.91
+  },
+  {
+   "text": "\\00",
+   "conf": 0.7
+  },
+  {
+   "text": "[ost",
+   "conf": 0.53
+  },
+  {
+   "text": "sunman",
+   "conf": 0.72
+  },
+  {
+   "text": "Excl",
+   "conf": 0.85
+  },
+  {
+   "text": "Amount(RM)",
+   "conf": 0.65
+  },
+  {
+   "text": "——Tax(RM)",
+   "conf": 0.09
+  },
+  {
+   "text": "SR",
+   "conf": 0.88
+  },
+  {
+   "text": "=",
+   "conf": 0.88
+  },
+  {
+   "text": "6%",
+   "conf": 0.89
+  },
+  {
+   "text": "29.81",
+   "conf": 0.86
+  },
+  {
+   "text": "1.79",
+   "conf": 0.84
+  }
+ ],
+ "mean_conf": 0.8268,
+ "low_conf_share": 0.0922,
+ "latency_ms": 1847,
+ "fields": {
+  "company": "FACE TO FACE NOODLE HOUSE",
+  "date": "2018-05-21",
+  "total": 31.6
+ },
+ "rule_reasons": [],
+ "total_candidates": [
+  31.6
+ ],
+ "key": "X51006679216"
+}

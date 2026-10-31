@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.1-flash-lite",
+ "provider": "gemini",
+ "raw_text": "{\n  \"vendor\": \"Shangri-La's\",\n  \"date\": \"2009-10-22\",\n  \"subtotal\": 28.6,\n  \"tax\": 1.43,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 33.46,\n  \"currency\": \"OMR\",\n  \"confidence\": 0.98,\n  \"notes\": \"Currency inferred as OMR based on location (Sultanate of Oman).\"\n}",
+ "data": {
+  "vendor": "Shangri-La's",
+  "date": "2009-10-22",
+  "subtotal": 28.6,
+  "tax": 1.43,
+  "tip": null,
+  "discount": null,
+  "total": 33.46,
+  "currency": "OMR",
+  "confidence": 0.98,
+  "notes": "Currency inferred as OMR based on location (Sultanate of Oman)."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1433,
+  "output_tokens": 123,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.000543,
+ "latency_ms": 1662,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.1-flash-lite",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.1-flash-lite"
+ ],
+ "key": "W0127_338a3e168f6f"
+}

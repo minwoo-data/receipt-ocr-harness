@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.1-flash-lite",
+ "provider": "gemini",
+ "raw_text": "{\n  \"vendor\": \"Salon Du Chocolat\",\n  \"date\": \"2018-02-19\",\n  \"subtotal\": 20.4,\n  \"tax\": 1.35,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 23.8,\n  \"currency\": \"MYR\",\n  \"confidence\": 0.98,\n  \"notes\": \"Service charge of 2.04 is listed separately from tax.\"\n}",
+ "data": {
+  "vendor": "Salon Du Chocolat",
+  "date": "2018-02-19",
+  "subtotal": 20.4,
+  "tax": 1.35,
+  "tip": null,
+  "discount": null,
+  "total": 23.8,
+  "currency": "MYR",
+  "confidence": 0.98,
+  "notes": "Service charge of 2.04 is listed separately from tax."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1440,
+  "output_tokens": 119,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.000539,
+ "latency_ms": 25050,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.1-flash-lite",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.1-flash-lite"
+ ],
+ "key": "X51005719857"
+}

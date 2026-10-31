@@ -1,0 +1,760 @@
+{
+ "engine": "tesseract",
+ "lines": [
+  "2 a ‘",
+  "€ e : 1 i",
+  "BEYOND BROTHERS HARDWARE",
+  "(872981-V)",
+  "LOT 1-0-2, JLM 1/80,",
+  "DIAMOND SQUARE,",
+  "OFF JLN GOMBAK",
+  "53000 KUALA LUMPUR",
+  "TEL. : 03-40211233 FAX : 03-40223233",
+  "IVAN_KONG12@HOTMAIL COM",
+  "GST ID : 001921974272",
+  "Speer ocr TAXIINVOICE |",
+  "Doc No. > GS00059502 Cate 10/1°/2017",
+  "Cashier > USER Time: 18.43:00",
+  "Salesperson : Ref.",
+  "(GST) (GST)",
+  "jtem____Gity__SiPrice__$/Price__Amount__Tax_",
+  "1765 1 5.00 §.30 §.3G SR",
+  "PENTENS PUTTY FILLER 500G",
+  "1914 1 2.00 2.12 21% SR",
+  "PAPAN CAT",
+  "3801 1 8.00 8.43 &4& SR",
+  "TUPAI ROLLER 7\" :SET)",
+  "4184 | 37.00 39 22 3922 SR",
+  "MAXILITE 7'L 14138",
+  "4630 1 800 15 &4¢ SR",
+  "ARROW TALI TAPE 7 SM (OFFER ©,",
+  "4488 1 4 00 424 4.24 SR",
+  "SCAFPER BIASA 3'",
+  "~~ Total Qry. iS) 67.84",
+  "Total Sates (Escluding CST) 64.90",
+  "Discount 0.00",
+  "Total GST ; 3.84",
+  "Rounding : 0.01",
+  "Total Sales (Inclusive of GST) : 67.88",
+  "CASH : 70.00",
+  "Change : 2.18",
+  "GSTSUMMARY ~~~",
+  "{ax Code ; Amt(RM) = Tax (RM)",
+  "SR € 64.00 384",
+  "a MOS A S08",
+  "GOODS SOLD ARE NO} RETURNABLE, THANK YOu."
+ ],
+ "tokens": [
+  {
+   "text": "2",
+   "conf": 0.88
+  },
+  {
+   "text": "a",
+   "conf": 0.47
+  },
+  {
+   "text": "‘",
+   "conf": 0.0
+  },
+  {
+   "text": "€",
+   "conf": 0.52
+  },
+  {
+   "text": "e",
+   "conf": 0.63
+  },
+  {
+   "text": ":",
+   "conf": 0.48
+  },
+  {
+   "text": "1",
+   "conf": 0.72
+  },
+  {
+   "text": "i",
+   "conf": 0.61
+  },
+  {
+   "text": "BEYOND",
+   "conf": 0.96
+  },
+  {
+   "text": "BROTHERS",
+   "conf": 0.96
+  },
+  {
+   "text": "HARDWARE",
+   "conf": 0.96
+  },
+  {
+   "text": "(872981-V)",
+   "conf": 0.88
+  },
+  {
+   "text": "LOT",
+   "conf": 0.63
+  },
+  {
+   "text": "1-0-2,",
+   "conf": 0.92
+  },
+  {
+   "text": "JLM",
+   "conf": 0.83
+  },
+  {
+   "text": "1/80,",
+   "conf": 0.59
+  },
+  {
+   "text": "DIAMOND",
+   "conf": 0.96
+  },
+  {
+   "text": "SQUARE,",
+   "conf": 0.95
+  },
+  {
+   "text": "OFF",
+   "conf": 0.93
+  },
+  {
+   "text": "JLN",
+   "conf": 0.85
+  },
+  {
+   "text": "GOMBAK",
+   "conf": 0.92
+  },
+  {
+   "text": "53000",
+   "conf": 0.89
+  },
+  {
+   "text": "KUALA",
+   "conf": 0.96
+  },
+  {
+   "text": "LUMPUR",
+   "conf": 0.96
+  },
+  {
+   "text": "TEL.",
+   "conf": 0.85
+  },
+  {
+   "text": ":",
+   "conf": 0.79
+  },
+  {
+   "text": "03-40211233",
+   "conf": 0.86
+  },
+  {
+   "text": "FAX",
+   "conf": 0.88
+  },
+  {
+   "text": ":",
+   "conf": 0.8
+  },
+  {
+   "text": "03-40223233",
+   "conf": 0.7
+  },
+  {
+   "text": "IVAN_KONG12@HOTMAIL",
+   "conf": 0.75
+  },
+  {
+   "text": "COM",
+   "conf": 0.96
+  },
+  {
+   "text": "GST",
+   "conf": 0.94
+  },
+  {
+   "text": "ID",
+   "conf": 0.91
+  },
+  {
+   "text": ":",
+   "conf": 0.67
+  },
+  {
+   "text": "001921974272",
+   "conf": 0.96
+  },
+  {
+   "text": "Speer",
+   "conf": 0.0
+  },
+  {
+   "text": "ocr",
+   "conf": 0.21
+  },
+  {
+   "text": "TAXIINVOICE",
+   "conf": 0.2
+  },
+  {
+   "text": "|",
+   "conf": 0.37
+  },
+  {
+   "text": "Doc",
+   "conf": 0.96
+  },
+  {
+   "text": "No.",
+   "conf": 0.96
+  },
+  {
+   "text": ">",
+   "conf": 0.67
+  },
+  {
+   "text": "GS00059502",
+   "conf": 0.89
+  },
+  {
+   "text": "Cate",
+   "conf": 0.79
+  },
+  {
+   "text": "10/1°/2017",
+   "conf": 0.79
+  },
+  {
+   "text": "Cashier",
+   "conf": 0.95
+  },
+  {
+   "text": ">",
+   "conf": 0.18
+  },
+  {
+   "text": "USER",
+   "conf": 0.96
+  },
+  {
+   "text": "Time:",
+   "conf": 0.63
+  },
+  {
+   "text": "18.43:00",
+   "conf": 0.36
+  },
+  {
+   "text": "Salesperson",
+   "conf": 0.92
+  },
+  {
+   "text": ":",
+   "conf": 0.55
+  },
+  {
+   "text": "Ref.",
+   "conf": 0.93
+  },
+  {
+   "text": "(GST)",
+   "conf": 0.94
+  },
+  {
+   "text": "(GST)",
+   "conf": 0.71
+  },
+  {
+   "text": "jtem____Gity__SiPrice__$/Price__Amount__Tax_",
+   "conf": 0.14
+  },
+  {
+   "text": "1765",
+   "conf": 0.94
+  },
+  {
+   "text": "1",
+   "conf": 0.96
+  },
+  {
+   "text": "5.00",
+   "conf": 0.95
+  },
+  {
+   "text": "§.30",
+   "conf": 0.85
+  },
+  {
+   "text": "§.3G",
+   "conf": 0.69
+  },
+  {
+   "text": "SR",
+   "conf": 0.95
+  },
+  {
+   "text": "PENTENS",
+   "conf": 0.92
+  },
+  {
+   "text": "PUTTY",
+   "conf": 0.96
+  },
+  {
+   "text": "FILLER",
+   "conf": 0.93
+  },
+  {
+   "text": "500G",
+   "conf": 0.89
+  },
+  {
+   "text": "1914",
+   "conf": 0.96
+  },
+  {
+   "text": "1",
+   "conf": 0.96
+  },
+  {
+   "text": "2.00",
+   "conf": 0.96
+  },
+  {
+   "text": "2.12",
+   "conf": 0.83
+  },
+  {
+   "text": "21%",
+   "conf": 0.22
+  },
+  {
+   "text": "SR",
+   "conf": 0.78
+  },
+  {
+   "text": "PAPAN",
+   "conf": 0.92
+  },
+  {
+   "text": "CAT",
+   "conf": 0.96
+  },
+  {
+   "text": "3801",
+   "conf": 0.96
+  },
+  {
+   "text": "1",
+   "conf": 0.96
+  },
+  {
+   "text": "8.00",
+   "conf": 0.86
+  },
+  {
+   "text": "8.43",
+   "conf": 0.85
+  },
+  {
+   "text": "&4&",
+   "conf": 0.79
+  },
+  {
+   "text": "SR",
+   "conf": 0.84
+  },
+  {
+   "text": "TUPAI",
+   "conf": 0.88
+  },
+  {
+   "text": "ROLLER",
+   "conf": 0.96
+  },
+  {
+   "text": "7\"",
+   "conf": 0.66
+  },
+  {
+   "text": ":SET)",
+   "conf": 0.0
+  },
+  {
+   "text": "4184",
+   "conf": 0.88
+  },
+  {
+   "text": "|",
+   "conf": 0.7
+  },
+  {
+   "text": "37.00",
+   "conf": 0.96
+  },
+  {
+   "text": "39",
+   "conf": 0.82
+  },
+  {
+   "text": "22",
+   "conf": 0.82
+  },
+  {
+   "text": "3922",
+   "conf": 0.55
+  },
+  {
+   "text": "SR",
+   "conf": 0.88
+  },
+  {
+   "text": "MAXILITE",
+   "conf": 0.92
+  },
+  {
+   "text": "7'L",
+   "conf": 0.18
+  },
+  {
+   "text": "14138",
+   "conf": 0.6
+  },
+  {
+   "text": "4630",
+   "conf": 0.71
+  },
+  {
+   "text": "1",
+   "conf": 0.96
+  },
+  {
+   "text": "800",
+   "conf": 0.82
+  },
+  {
+   "text": "15",
+   "conf": 0.57
+  },
+  {
+   "text": "&4¢",
+   "conf": 0.34
+  },
+  {
+   "text": "SR",
+   "conf": 0.86
+  },
+  {
+   "text": "ARROW",
+   "conf": 0.96
+  },
+  {
+   "text": "TALI",
+   "conf": 0.86
+  },
+  {
+   "text": "TAPE",
+   "conf": 0.28
+  },
+  {
+   "text": "7",
+   "conf": 0.9
+  },
+  {
+   "text": "SM",
+   "conf": 0.56
+  },
+  {
+   "text": "(OFFER",
+   "conf": 0.56
+  },
+  {
+   "text": "©,",
+   "conf": 0.3
+  },
+  {
+   "text": "4488",
+   "conf": 0.6
+  },
+  {
+   "text": "1",
+   "conf": 0.96
+  },
+  {
+   "text": "4",
+   "conf": 0.68
+  },
+  {
+   "text": "00",
+   "conf": 0.68
+  },
+  {
+   "text": "424",
+   "conf": 0.82
+  },
+  {
+   "text": "4.24",
+   "conf": 0.77
+  },
+  {
+   "text": "SR",
+   "conf": 0.77
+  },
+  {
+   "text": "SCAFPER",
+   "conf": 0.92
+  },
+  {
+   "text": "BIASA",
+   "conf": 0.92
+  },
+  {
+   "text": "3'",
+   "conf": 0.86
+  },
+  {
+   "text": "~~",
+   "conf": 0.57
+  },
+  {
+   "text": "Total",
+   "conf": 0.3
+  },
+  {
+   "text": "Qry.",
+   "conf": 0.0
+  },
+  {
+   "text": "iS)",
+   "conf": 0.08
+  },
+  {
+   "text": "67.84",
+   "conf": 0.52
+  },
+  {
+   "text": "Total",
+   "conf": 0.96
+  },
+  {
+   "text": "Sates",
+   "conf": 0.69
+  },
+  {
+   "text": "(Escluding",
+   "conf": 0.07
+  },
+  {
+   "text": "CST)",
+   "conf": 0.8
+  },
+  {
+   "text": "64.90",
+   "conf": 0.77
+  },
+  {
+   "text": "Discount",
+   "conf": 0.95
+  },
+  {
+   "text": "0.00",
+   "conf": 0.69
+  },
+  {
+   "text": "Total",
+   "conf": 0.79
+  },
+  {
+   "text": "GST",
+   "conf": 0.79
+  },
+  {
+   "text": ";",
+   "conf": 0.66
+  },
+  {
+   "text": "3.84",
+   "conf": 0.92
+  },
+  {
+   "text": "Rounding",
+   "conf": 0.65
+  },
+  {
+   "text": ":",
+   "conf": 0.65
+  },
+  {
+   "text": "0.01",
+   "conf": 0.74
+  },
+  {
+   "text": "Total",
+   "conf": 0.96
+  },
+  {
+   "text": "Sales",
+   "conf": 0.96
+  },
+  {
+   "text": "(Inclusive",
+   "conf": 0.96
+  },
+  {
+   "text": "of",
+   "conf": 0.96
+  },
+  {
+   "text": "GST)",
+   "conf": 0.92
+  },
+  {
+   "text": ":",
+   "conf": 0.85
+  },
+  {
+   "text": "67.88",
+   "conf": 0.7
+  },
+  {
+   "text": "CASH",
+   "conf": 0.93
+  },
+  {
+   "text": ":",
+   "conf": 0.92
+  },
+  {
+   "text": "70.00",
+   "conf": 0.93
+  },
+  {
+   "text": "Change",
+   "conf": 0.92
+  },
+  {
+   "text": ":",
+   "conf": 0.91
+  },
+  {
+   "text": "2.18",
+   "conf": 0.83
+  },
+  {
+   "text": "GSTSUMMARY",
+   "conf": 0.72
+  },
+  {
+   "text": "~~~",
+   "conf": 0.41
+  },
+  {
+   "text": "{ax",
+   "conf": 0.53
+  },
+  {
+   "text": "Code",
+   "conf": 0.96
+  },
+  {
+   "text": ";",
+   "conf": 0.14
+  },
+  {
+   "text": "Amt(RM)",
+   "conf": 0.92
+  },
+  {
+   "text": "=",
+   "conf": 0.43
+  },
+  {
+   "text": "Tax",
+   "conf": 0.66
+  },
+  {
+   "text": "(RM)",
+   "conf": 0.88
+  },
+  {
+   "text": "SR",
+   "conf": 0.88
+  },
+  {
+   "text": "€",
+   "conf": 0.8
+  },
+  {
+   "text": "64.00",
+   "conf": 0.88
+  },
+  {
+   "text": "384",
+   "conf": 0.79
+  },
+  {
+   "text": "a",
+   "conf": 0.0
+  },
+  {
+   "text": "MOS",
+   "conf": 0.21
+  },
+  {
+   "text": "A",
+   "conf": 0.07
+  },
+  {
+   "text": "S08",
+   "conf": 0.2
+  },
+  {
+   "text": "GOODS",
+   "conf": 0.9
+  },
+  {
+   "text": "SOLD",
+   "conf": 0.95
+  },
+  {
+   "text": "ARE",
+   "conf": 0.94
+  },
+  {
+   "text": "NO}",
+   "conf": 0.45
+  },
+  {
+   "text": "RETURNABLE,",
+   "conf": 0.94
+  },
+  {
+   "text": "THANK",
+   "conf": 0.96
+  },
+  {
+   "text": "YOu.",
+   "conf": 0.91
+  }
+ ],
+ "mean_conf": 0.7349,
+ "low_conf_share": 0.1609,
+ "latency_ms": 3109,
+ "fields": {
+  "company": "BEYOND BROTHERS HARDWARE",
+  "date": null,
+  "total": 67.88
+ },
+ "rule_reasons": [
+  "date_not_found"
+ ],
+ "total_candidates": [
+  67.88
+ ],
+ "key": "X51005675914"
+}
