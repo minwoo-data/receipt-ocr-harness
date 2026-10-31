@@ -75,8 +75,8 @@ CSS = """
  .lad .rd{border:.12em solid;border-radius:.3em;padding:.25em .55em} .lad .ck{background:#fff;border:1px dashed #898781;border-radius:.3em;padding:.25em .55em}
  .lad .ar{color:#52514e;white-space:nowrap} .lad .dn{color:#52514e;padding:0 0 0 1.8em;font-size:.9em;line-height:1.25}
  .lad .pill{display:inline-block;border:.12em solid #898781;border-radius:999px;padding:.12em .75em;background:#fff;font-size:.9em;white-space:nowrap;justify-self:start}
- .lad .acc{background:#e3f6e3;border-color:#0ca30c} .lad .rev{background:#fae0e0;border-color:#d03b3b}
- .lad .t1{background:#dce9fa;border-color:#2a78d6} .lad .t2{background:#fde3d6;border-color:#eb6834} .lad .t3{background:#d9f3e9;border-color:#1baf7a} .lad .t4{background:#fbefcf;border-color:#eda100}
+ .lad .acc{background:#e6efe8;border-color:#2f6b3a} .lad .rev{background:#f0f1f2;border-color:#6b7079}
+ .lad .t1{background:#e3e9f1;border-color:#1f3a5f} .lad .t2{background:#eef2f8;border-color:#7d9cc6} .lad .t3{background:#f4e4e6;border-color:#8c2f39} .lad .t4{background:#f9eff0;border-color:#d39aa0}
  .lad .ft{color:#52514e;font-size:.85em;margin-top:.4em}
  .q.full{position:fixed;inset:.6rem;z-index:10;font-size:1.3rem;box-shadow:0 .3rem 1.6rem rgba(0,0,0,.25)}
  @media (max-width:700px){

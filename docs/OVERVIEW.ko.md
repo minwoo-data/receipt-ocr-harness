@@ -34,7 +34,7 @@ flowchart TD
 2. **리더 4종 실행.** 같은 prompt 와 JSON schema 를 로컬 VLM 과 클라우드에 동일 적용(공정 비교). 비용은 응답의 token usage × 공식 단가.
 3. **검증 게이트.** 모델 출력은 untrusted input 으로 취급. NFKC normalization 후 EN/KO/JA/ZH injection pattern 검사, field whitelist 와 type/range, subtotal + tax + tip + discount = total(허용오차 0.05, 결측은 0이 아님, tax-inclusive 변형), 날짜 타당성(데이터셋 시대 기준), two-reader agreement(LLM 의 총액·날짜가 독립 OCR 텍스트에 있는가). 모델 confidence 는 기록만 한다.
 4. **정책 재생(replay).** 저장된 결과로 모든 라우팅 정책을 오프라인 재생. all_local / all_cloud / oracle / rule router / harness / local_only / hedge. **oracle** 은 정답을 아는 가상의 라우터로, 로컬이 틀릴 것만 정확히 올려 보내는 상한선. 실제 라우터와의 차이가 **oracle gap**.
-5. **학습된 신호(A).** T1 에서 추론 시점에 얻을 수 있는 13개 feature(OCR confidence, rule reasons, 두 리더 일치, 줄 수 등)로 "T1 이 틀릴 확률"을 logistic regression 으로 학습. 5-fold cross-validation, 예측은 전부 out-of-fold. **AUC** = ROC curve 아래 면적으로, 무작위로 고른 "틀린" 영수증이 "맞은" 영수증보다 높은 점수를 받을 확률. 0.885 로 분별력은 있지만, 임계값을 훑어도 같은 정밀도(95.7%)에서 클라우드 비율이 61% 로 규칙 라우터(56%)보다 못했다 → 표면 신호로는 격차가 안 닫힘.
+5. **학습된 신호(A).** T1 에서 추론 시점에 얻을 수 있는 14개 feature(OCR confidence, rule reasons, 두 리더 일치, 줄 수 등)로 "T1 이 틀릴 확률"을 logistic regression 으로 학습. 5-fold cross-validation, 예측은 전부 out-of-fold. **AUC** = ROC curve 아래 면적으로, 무작위로 고른 "틀린" 영수증이 "맞은" 영수증보다 높은 점수를 받을 확률. 0.885 로 분별력은 있지만, 임계값을 훑어도 같은 정밀도(95.7%)에서 클라우드 비율이 61% 로 규칙 라우터(56%)보다 못했다 → 표면 신호로는 격차가 안 닫힘.
 6. **누출 분류(C).** 검증을 통과한 오답 18건 중 16건은 다른 인쇄 금액(cash tendered, subtotal)을 집은 것. 읽기 오류가 아니라 **의미 선택 오류** → 다음 신호는 layout(총액 라벨과의 거리).
 7. **재시도.** 걸린 20장에 blind / guided 재독. 고친 것 0~1건, 망친 것 1건 → 재시도는 review 의 대체가 아님.
 
@@ -55,7 +55,7 @@ Oracle 27% cloud → 98.7% ($0.15/1k). Rule router 56% → 95.7%. Harness 96.9%,
 
 | 질문 | 이 실험이 주는 답 | 추가로 확인할 것 |
 |---|---|---|
-| 로컬만으로 어디까지 되나 | local_only 정책: 스캔 93.4% 자동승인 정확도, 검토 19%, 비용 0. 사진 89.0%, 검토 31.5% | 현장 영수증 분포(통화·언어·사진 비율)로 같은 재생을 다시 돌릴 것 |
+| 로컬만으로 어디까지 되나 | local_only 정책: 스캔 93.4% 자동승인 정확도, 검토 19%, 비용 0. 사진 89.1%, 검토 31.5% | 현장 영수증 분포(통화·언어·사진 비율)로 같은 재생을 다시 돌릴 것 |
 | 검토 인력은 얼마나 필요한가 | T1 임계값 tau 가 다이얼. tau 0.97 이면 91.8% / 검토 23% | 검토 1건당 비용과 오류 1건당 비용을 넣어 tau 를 정함 |
 | 지연은 감당되나 | 로컬 VLM 28 s(RTX 2050, Vulkan). CUDA-class GPU 면 약 4배 빠름(가정) | 실제 서버 GPU 에서 latency 재측정; 배치 처리면 지연은 문제 아님 |
 | 모델 오류를 정답 없이 잡을 수 있나 | 코드 검증이 로컬 VLM 오류 51건 중 38건 적발, 오탐 49건 | 오탐은 서비스차지 누락·증인 OCR 오독 → 증인 품질 개선이 우선 |

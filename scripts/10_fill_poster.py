@@ -43,6 +43,18 @@ def main() -> None:
     html = TEMPLATE.read_text(encoding="utf-8")
     numbers: dict = {}
 
+    # {{key}} placeholders: one number source shared with the workflow and landing pages.
+    import re
+    import sys
+    sys.path.insert(0, str(ROOT / "src"))
+    from harness.report_numbers import numbers as report_numbers
+    V = report_numbers()
+    numbers["report"] = V
+    def _fill(m):
+        assert m.group(1) in V, f"poster placeholder {{{{{m.group(1)}}}}} has no value in report_numbers"
+        return str(V[m.group(1)])
+    html = re.sub(r"\{\{(\w+)\}\}", _fill, html)
+
     scores = {s["engine"]: s for s in (jload(ROOT / "results" / "scores" / "summary.json") or [])}
     tier_map = {"T1": "rapidocr", "T2": "qwen", "T3": "gemini-lite", "T4": "gemini"}
     for tier, eng in tier_map.items():

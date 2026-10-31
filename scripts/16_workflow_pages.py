@@ -19,36 +19,12 @@ import json
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
-P = {p["policy"]: p for p in json.loads((ROOT / "results/harness/policies.json").read_text(encoding="utf-8"))}
-PW = {p["policy"]: p for p in json.loads((ROOT / "results_wild/harness/policies.json").read_text(encoding="utf-8"))}
-W = {w["tier"]: w for w in json.loads((ROOT / "results/harness/waterfall.json").read_text(encoding="utf-8"))}
+import sys
+sys.path.insert(0, str(ROOT / "src"))
+from harness.report_numbers import numbers  # noqa: E402  (one number source with the poster and landing page)
 
-def pct(x): return f"{x * 100:.1f}%"
-def sec(ms): return f"{ms / 1000:.1f}" if ms < 10000 else f"{ms / 1000:.0f}"
-h, lo = P["harness"], P["local_only"]
-N = h["n"]
-t1 = h["tier_share"]["T1"]
-sentA = h["cloud_sent_share"]                    # image reached a cloud tier (T3, and T4 after it)
-t3acc, t4acc, revA = h["tier_share"]["T3"], h["tier_share"]["T4"], h["review_share"]
-toT4 = t4acc + revA
-t2acc, revB = lo["tier_share"]["T2"], lo["review_share"]
-assert abs(sentA - (t3acc + toT4)) < 0.002 and abs(sentA - (t2acc + revB)) < 0.002, "tier shares do not add up"
-assert abs(lo["tier_share"]["T1"] - t1) < 1e-9 and abs(sentA - (1 - t1)) < 0.002 and lo["cloud_sent_share"] == 0
-alone = {k: P[v] for k, v in (("T1", "all_local"), ("T2", "all_qwen"), ("T3", "all_lite"), ("T4", "all_strong"))}
-def stat(k):
-    a = alone[k]; return pct(a["accepted_money_precision"]), sec(a["latency_ms_median"]), a["cost_usd_per_1k"], a["latency_ms_median"]
-V = dict(t1=pct(t1), sent=pct(sentA), t3=pct(t3acc), t4=pct(t4acc), toT4=pct(toT4), revA=pct(revA), t2=pct(t2acc), revB=pct(revB),
-         accA=pct(h["auto_accept_share"]), accB=pct(lo["auto_accept_share"]), nrevA=round(revA * N), nrevB=round(revB * N), n=N,
-         precA=pct(h["accepted_money_precision"]), precB=pct(lo["accepted_money_precision"]), costA=f"{h['cost_usd_per_1k']:.2f}",
-         latA=sec(h["latency_ms_median"]), latB=sec(lo["latency_ms_median"]),
-         oracle_cloud=pct(P["oracle"]["cloud_sent_share"]), oracle_prec=pct(P["oracle"]["accepted_money_precision"]),
-         router_cloud=pct(P["router"]["cloud_sent_share"]), router_prec=pct(P["router"]["accepted_money_precision"]),
-         wA=pct(PW["harness"]["accepted_money_precision"]), wArev=pct(PW["harness"]["review_share"]),
-         wB=pct(PW["local_only"]["accepted_money_precision"]), wBrev=pct(PW["local_only"]["review_share"]),
-         c2=W["t2"]["errors_caught"], e2=W["t2"]["model_errors"], c3=W["t3"]["errors_caught"], e3=W["t3"]["model_errors"],
-         c4=W["t4"]["errors_caught"], e4=W["t4"]["model_errors"])
-for k in ("T1", "T2", "T3", "T4"):
-    a, s, c, ms = stat(k); V[f"a{k}"], V[f"s{k}"], V[f"c{k}"], V[f"ms{k}"] = a, s, f"{c:.2f}", f"{ms / 1000:.1f}"
+V = numbers()
+N = V["n"]
 
 T = {
  "en": dict(
@@ -132,7 +108,7 @@ T = {
 }
 
 # ---------- SVG architecture ----------
-COL = {"T1": "#2a78d6", "T2": "#eb6834", "T3": "#1baf7a", "T4": "#eda100", "ok": "#0ca30c", "bad": "#d03b3b", "ink": "#0b0b0b",
+COL = {"T1": "#1f3a5f", "T2": "#7d9cc6", "T3": "#8c2f39", "T4": "#d39aa0", "ok": "#2f6b3a", "bad": "#6b7079", "ink": "#0b0b0b",
        "ink2": "#52514e", "mut": "#898781", "line": "#c9c8c2"}
 def tw(s, size):                                  # rough text width for Arial / Malgun Gothic
     return sum(size * (1.0 if ord(c) > 0x1100 else 0.56) for c in s)
@@ -170,7 +146,7 @@ def architecture(t):
         cx += w + 7
     parts = [
       boundary(160, 16, 670, 568, t["bLocal"], "#52514e", "#fafaf7", False),
-      boundary(866, 16, 280, 356, t["bGem"], "#1baf7a", "#f3faf7", True),
+      boundary(866, 16, 280, 356, t["bGem"], "#8c2f39", "#faf3f4", True),
       boundary(866, 404, 280, 180, t["bAnt"], "#898781", "#f6f6f4", True),
       box(14, 250, 128, 100, COL["ink"], t["img"][0], t["img"][1]),
       box(190, 64, 250, 100, COL["T1"], *t["T1"]),
@@ -188,8 +164,8 @@ def architecture(t):
       line(355, 234, 318, 166, both=True), badge(337, 200, "2"), label(354, 205, "100%"),
       line(625, 234, 652, 166, both=True, color=COL["T2"], dash=True, mk="ahB"), badge(638, 200, "B", COL["T2"]),
       label(656, 205, V["sent"], "lbB"), label(656, 221, L["local"], "lbs"),
-      line(682, 268, 884, 118, both=True, color="#1baf7a", mk="ahG"), badge(739, 224, "4"), label(744, 250, V["sent"]), label(744, 265, L["leaves"], "lbs"),
-      line(682, 330, 884, 288, both=True, color="#1baf7a", mk="ahG"), badge(739, 318, "5"), label(752, 348, V["toT4"]),
+      line(682, 268, 884, 118, both=True, color="#8c2f39", mk="ahG"), badge(739, 224, "4"), label(744, 250, V["sent"]), label(744, 265, L["leaves"], "lbs"),
+      line(682, 330, 884, 288, both=True, color="#8c2f39", mk="ahG"), badge(739, 318, "5"), label(752, 348, V["toT4"]),
       line(1008, 374, 1008, 454, color=COL["mut"], dash=True), label(1018, 394, L["fb"], "lbs"),
       line(395, 370, 320, 474, color=COL["ok"], mk="ahK"), label(366, 432, L["ok"], "lbs", "end"),
       line(585, 370, 650, 474, color=COL["bad"], mk="ahR"), badge(617, 420, "6"), label(634, 440, L["still"], "lbs"),
@@ -197,7 +173,7 @@ def architecture(t):
     ]
     defs = "".join(f'<marker id="{i}" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">'
                    f'<path d="M0,0 L10,5 L0,10 z" fill="{c}"/></marker>'
-                   for i, c in (("ah", "#52514e"), ("ahB", COL["T2"]), ("ahG", "#1baf7a"), ("ahK", COL["ok"]), ("ahR", COL["bad"])))
+                   for i, c in (("ah", "#52514e"), ("ahB", COL["T2"]), ("ahG", "#8c2f39"), ("ahK", COL["ok"]), ("ahR", COL["bad"])))
     return (f'<svg class="arch" viewBox="0 0 1160 600" role="img" aria-label="{esc(t["s1"])}"><defs>{defs}</defs>'
             + "".join(parts) + "</svg>")
 
@@ -230,12 +206,12 @@ def mermaid(t, lane):
     return head + body + '''
   class T1 t1
   class R rev
-  classDef t1 fill:#dce9fa,stroke:#2a78d6
-  classDef t2 fill:#fde3d6,stroke:#eb6834
-  classDef t3 fill:#d9f3e9,stroke:#1baf7a
-  classDef t4 fill:#fbefcf,stroke:#eda100
-  classDef acc fill:#e3f6e3,stroke:#0ca30c
-  classDef rev fill:#fae0e0,stroke:#d03b3b'''
+  classDef t1 fill:#e3e9f1,stroke:#1f3a5f
+  classDef t2 fill:#eef2f8,stroke:#7d9cc6
+  classDef t3 fill:#f4e4e6,stroke:#8c2f39
+  classDef t4 fill:#f9eff0,stroke:#d39aa0
+  classDef acc fill:#e6efe8,stroke:#2f6b3a
+  classDef rev fill:#f0f1f2,stroke:#6b7079'''
 
 CSS = """
 :root{--ink:#0b0b0b;--ink2:#52514e;--mut:#898781;--grid:#e1e0d9;--band:#f6f5f1}
@@ -248,16 +224,16 @@ svg.arch{width:100%;height:auto;display:block}
 svg .bt{font-size:15px;font-weight:bold;fill:#0b0b0b} svg .bs{font-size:13px;fill:#0b0b0b} svg .bsb{font-size:14px;font-weight:bold;fill:#0b0b0b}
 svg .ba{font-size:11.5px;fill:#6b6a66} svg .bc{font-size:12px;fill:#0b0b0b} svg .bl{font-size:13px;font-weight:bold;fill:#fff}
 svg .bn{font-size:13px;font-weight:bold;fill:#fff;text-anchor:middle}
-svg .lb,svg .lbB{font-size:15px;font-weight:bold;fill:#0b0b0b;paint-order:stroke;stroke:#fff;stroke-width:4px} svg .lbB{fill:#c4501f}
+svg .lb,svg .lbB{font-size:15px;font-weight:bold;fill:#0b0b0b;paint-order:stroke;stroke:#fff;stroke-width:4px} svg .lbB{fill:#4d6f9e}
 svg .lbs{font-size:11.5px;fill:#6b6a66;paint-order:stroke;stroke:#fff;stroke-width:3px}
 ol.steps{list-style:none;margin:0;padding:0}
 ol.steps li{display:grid;grid-template-columns:28px 1fr;gap:2px 8px;padding:7px 0;border-bottom:1px solid var(--grid)}
 ol.steps .n{grid-row:span 2;width:24px;height:24px;border-radius:50%;background:var(--ink);color:#fff;font-weight:bold;font-size:13px;display:flex;align-items:center;justify-content:center}
-ol.steps .n.b{background:#eb6834} ol.steps .n.f{background:var(--mut)}
+ol.steps .n.b{background:#7d9cc6} ol.steps .n.f{background:var(--mut)}
 ol.steps .m{font-size:15px;font-weight:bold} ol.steps .a{font-size:12.5px;color:#6b6a66}
 .kpi{display:grid;grid-template-columns:1fr 1fr;gap:14px;margin-top:14px}
 .kpi .c{border:1.5px solid var(--grid);border-left:6px solid var(--ink);border-radius:10px;padding:10px 14px}
-.kpi .c.b{border-left-color:#eb6834} .kpi .t{font-size:14.5px;font-weight:bold;margin-bottom:6px}
+.kpi .c.b{border-left-color:#7d9cc6} .kpi .t{font-size:14.5px;font-weight:bold;margin-bottom:6px}
 .kpi .row{display:grid;grid-template-columns:repeat(5,1fr);gap:8px} .kpi .v{font-size:26px;font-weight:bold;line-height:1.1} .kpi .cap{font-size:12px;color:#6b6a66}
 .flows{display:grid;gap:12px} .flow{border:1.5px solid var(--grid);border-radius:10px;padding:8px 12px}
 .flow h3{margin:0 0 4px;font-size:14.5px} .mermaid .edgeLabel{font-weight:bold}

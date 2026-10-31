@@ -4,53 +4,71 @@
 <meta charset="utf-8">
 <title>LLM reads, code verifies</title>
 <style>
+  /* v5: three questions, three columns. Numbers come from src/harness/report_numbers.py through double-brace placeholders (10_fill_poster).
+     Palette mirrors src/harness/palette.py: local = navy family, cloud = burgundy family, people = grey. */
   @page { size: 17in 11in; margin: 0; }
-  :root { --ink:#0b0b0b; --ink2:#52514e; --muted:#898781; --grid:#e1e0d9; --t1:#2a78d6; --t2:#eb6834; --t3:#1baf7a; --t4:#eda100;
-    --good:#0ca30c; --critical:#d03b3b; --band:#f3f2ee; }
+  :root { --ink:#14181f; --ink2:#4f5663; --muted:#8a909a; --grid:#dde1e6; --accent:#1f3a5f;
+    --t1:#1f3a5f; --t2:#7d9cc6; --t3:#8c2f39; --t4:#d39aa0; --rev:#a9adb3; }
   * { box-sizing: border-box; }
-  html, body { margin:0; padding:0; background:#fff; color:var(--ink); font-family: Arial, Helvetica, sans-serif; font-size:10pt; line-height:1.3; }
-  .page { width:17in; height:11in; padding:0.5in 0.6in 0.45in 0.6in; display:grid; grid-template-rows:auto 1fr auto; row-gap:0.12in; overflow:hidden; }
-  .hdr { display:grid; grid-template-columns:1fr auto; column-gap:0.4in; align-items:end; border-bottom:3px solid var(--ink); padding-bottom:0.1in; }
-  .hdr h1 { margin:0; font-size:32pt; letter-spacing:-0.5pt; line-height:1.05; }
-  .hdr h1 span { color:var(--t1); }
-  .hdr .sub { font-size:12.5pt; color:var(--ink2); margin-top:4pt; }
-  .hdr .who { font-size:9.5pt; color:var(--ink2); margin-top:5pt; }
+  html, body { margin:0; padding:0; background:#fff; color:var(--ink); font-family: Arial, Helvetica, sans-serif; font-size:11pt; line-height:1.3; }
+  .page { width:17in; height:11in; padding:0.45in 0.6in 0.4in 0.6in; display:grid; grid-template-rows:auto 1fr auto; row-gap:0.16in; overflow:hidden; }
+
+  .hdr { display:grid; grid-template-columns:1fr auto; column-gap:0.4in; align-items:end; border-bottom:2.5pt solid var(--ink); padding-bottom:0.1in; }
+  .hdr h1 { margin:0; font-size:48pt; letter-spacing:-1pt; line-height:1; }
+  .hdr h1 span { color:var(--accent); }
+  .hdr .sub { font-size:16pt; color:var(--ink); margin-top:6pt; }
+  .hdr .who { font-size:10.5pt; color:var(--ink2); margin-top:5pt; }
   .hdr .who b { color:var(--ink); }
-  .qrbox { display:flex; gap:0.12in; align-items:flex-end; }
-  .qr { text-align:center; font-size:7.5pt; color:var(--ink2); }
-  .qr img { width:0.95in; height:0.95in; display:block; margin:0 auto 2pt auto; }
-  .cols { display:grid; grid-template-columns:1fr 1.5fr 1.15fr; column-gap:0.28in; min-height:0; }
-  .col { display:flex; flex-direction:column; gap:0.12in; min-height:0; }
-  h2 { font-size:12pt; margin:0 0 4pt 0; padding-bottom:2pt; border-bottom:1.5px solid var(--grid); text-transform:uppercase; letter-spacing:0.4pt; }
-  h2 .n { display:inline-block; width:16pt; height:16pt; border-radius:50%; background:var(--ink); color:#fff; text-align:center; line-height:16pt; font-size:9.5pt; margin-right:5pt; }
-  p { margin:0 0 5pt 0; }
-  ul { margin:0; padding-left:12pt; }
-  li { margin-bottom:3pt; }
-  .lead { font-size:11pt; }
-  .terms { background:var(--band); border-radius:4pt; padding:6pt 8pt; font-size:8.8pt; }
-  .terms b { color:var(--ink); }
-  .fig { display:block; max-width:100%; height:auto; margin:0 auto; }
-  .figMain { max-height:3.05in; } .figSide { max-height:1.75in; }
-  .cap { font-size:8pt; color:var(--ink2); margin-top:2pt; }
-  .ladder { display:grid; grid-template-columns:repeat(4,1fr); gap:5pt; margin:4pt 0 6pt 0; }
-  .rung { border:1.5px solid var(--grid); border-top:5px solid; border-radius:4pt; padding:4pt 6pt; font-size:8.3pt; }
-  .rung b { display:block; font-size:9pt; margin-bottom:2pt; }
+  .qrbox { display:flex; gap:0.16in; align-items:flex-end; }
+  .qr { text-align:center; font-size:9pt; color:var(--ink); white-space:nowrap; }
+  .qr img { width:1.0in; height:1.0in; display:block; margin:0 auto 3pt auto; image-rendering:pixelated; }
+
+  .cols { display:grid; grid-template-columns:1fr 1.9fr 0.92fr; column-gap:0.34in; min-height:0; }
+  .col { display:flex; flex-direction:column; gap:0.095in; min-height:0; }
+  .q { font-size:19pt; font-weight:bold; line-height:1.12; margin:0; }
+  .q .n { color:var(--accent); margin-right:4pt; }
+  .ans { font-size:13.5pt; font-weight:bold; color:var(--accent); margin:0; }
+  p { margin:0; }
+  .lbl { font-size:9pt; letter-spacing:0.8pt; text-transform:uppercase; color:var(--ink2); margin-bottom:3pt; }
+  .num { font-variant-numeric: tabular-nums; }
+
+  .prod { border-top:1pt solid var(--ink); padding-top:5pt; }
+  .prod ul { list-style:none; margin:0; padding:0; display:grid; gap:4pt; }
+  .prod li b { color:var(--ink); }
+
+  .checks { display:grid; gap:3pt; margin:0; }
+  .checks div { padding-left:9pt; border-left:2pt solid var(--accent); }
+  .checks b { display:inline; }
+  .stats { display:grid; grid-template-columns:1fr 1fr; gap:8pt; }
+  .stat .v { font-size:24pt; font-weight:bold; color:var(--accent); line-height:1; }
+  .stat .c { font-size:9.5pt; color:var(--ink2); margin-top:2pt; }
+
+  .ladder { display:grid; grid-template-columns:repeat(4, 1fr); gap:5pt; }
+  .rung { border:1pt solid var(--grid); border-top:5pt solid; padding:4pt 6pt 5pt; font-size:9.5pt; line-height:1.25; }
+  .rung b { display:block; font-size:10.5pt; margin-bottom:1pt; }
+  .rung .acc { font-size:11pt; font-weight:bold; margin-top:3pt; }
+  .rung .m { color:var(--ink2); }
   .rung.t1{border-top-color:var(--t1)} .rung.t2{border-top-color:var(--t2)} .rung.t3{border-top-color:var(--t3)} .rung.t4{border-top-color:var(--t4)}
-  .gates { background:var(--band); border-radius:4pt; padding:6pt 8pt; font-size:8.8pt; }
-  .gates .row { display:flex; flex-wrap:wrap; gap:4pt 6pt; margin-top:3pt; }
-  .gate { border:1px solid var(--grid); background:#fff; border-radius:3pt; padding:2pt 5pt; }
-  .route { margin-top:5pt; font-size:8.8pt; }
-  .acc { color:var(--good); font-weight:bold; } .rev { color:var(--critical); font-weight:bold; }
-  table { border-collapse:collapse; width:100%; font-size:8.2pt; }
-  th, td { text-align:left; padding:2pt 3.5pt; border-bottom:1px solid var(--grid); vertical-align:top; }
-  th { color:var(--ink2); font-weight:normal; font-size:7.5pt; text-transform:uppercase; letter-spacing:0.3pt; }
-  td.num, th.num { text-align:right; font-variant-numeric:tabular-nums; }
-  th.num { white-space:nowrap; }
-  .swatch { display:inline-block; width:7pt; height:7pt; border-radius:2pt; margin-right:3pt; }
-  .find { border-left:4px solid var(--t1); padding-left:8pt; }
-  .find li { margin-bottom:3pt; font-size:8.2pt; line-height:1.25; }
-  .kicker { font-size:8.6pt; color:var(--ink2); }
-  .ftr { border-top:1.5px solid var(--grid); padding-top:4pt; font-size:7.6pt; color:var(--ink2); display:grid; grid-template-columns:1fr auto; column-gap:0.3in; }
+  .where { display:grid; grid-template-columns:2fr 2fr; gap:5pt; font-size:8.5pt; letter-spacing:0.6pt; text-transform:uppercase; color:var(--ink2); }
+  .where span { border-bottom:1pt solid var(--grid); padding-bottom:1pt; }
+
+  .fig { display:block; max-width:100%; height:auto; margin:0 auto; }
+  .figMain { max-height:2.2in; }
+  .cap { font-size:9pt; color:var(--ink2); margin-top:2pt; }
+  .pair { display:grid; grid-template-columns:1.25fr 0.75fr; gap:10pt; align-items:start; }
+  .pair .fig { max-height:1.75in; }
+  .pair p + p { margin-top:5pt; }
+
+  .cmp { display:grid; grid-template-columns:auto 1fr 1fr; gap:3pt 10pt; font-size:10.5pt; align-items:baseline; }
+  .cmp .h { font-size:8.5pt; letter-spacing:0.6pt; text-transform:uppercase; color:var(--ink2); border-bottom:1pt solid var(--grid); padding-bottom:1pt; }
+  .cmp .big { font-size:15pt; font-weight:bold; }
+  .cmp .sm { color:var(--ink2); font-size:9.5pt; }
+  .next { border-top:1pt solid var(--ink); padding-top:5pt; }
+
+  .ftr { border-top:1pt solid var(--grid); padding-top:5pt; display:grid; gap:3pt; }
+  .ftr .data { display:grid; grid-template-columns:1fr auto; column-gap:0.3in; font-size:10pt; }
+  .ftr .data span:last-child { color:var(--ink2); }
+  .ftr .src { font-size:7.5pt; color:var(--ink2); }
 </style>
 </head>
 <body>
@@ -58,118 +76,100 @@
   <header class="hdr">
     <div>
       <h1>LLM reads, <span>code verifies</span></h1>
-      <div class="sub">A routing and verification harness for receipt OCR: when a cheap local reader is enough, when to escalate, and how much model error deterministic code catches</div>
-      <div class="who"><b>Minwoo Park</b> &middot; MISM, Business Intelligence &amp; Data Analytics (AI Management) &middot; Heinz College, Carnegie Mellon University &middot; minwoopark.dev &middot; github.com/minwoo-data/receipt-ocr-harness</div>
+      <div class="sub">Can you trust what an LLM reads? When should it call the cloud? What if the data can't leave?</div>
+      <div class="who"><b>Minwoo Park</b> &middot; MISM, Business Intelligence &amp; Data Analytics (AI Management) &middot; Carnegie Mellon University</div>
     </div>
     <div class="qrbox">
-      <div class="qr"><img src="qr_minwoopark.png" alt="QR">Portfolio &amp; resume</div>
-      <div class="qr"><img src="qr_repo.png" alt="QR">Code &amp; results</div>
+      <div class="qr"><img src="qr_minwoopark.png" alt="QR to portfolio">Portfolio &amp; resume</div>
+      <div class="qr"><img src="qr_howitworks.png" alt="QR to the walkthrough page">How it works &amp; code</div>
     </div>
   </header>
 
   <div class="cols">
     <div class="col">
-      <section>
-        <h2><span class="n">1</span>Problem</h2>
-        <p class="lead">I built the receipt-OCR side of a production expense platform (20 employees, about 200 receipts a month) that cut reconciliation time by 90%+, as the sole engineer over 729 merged pull requests.</p>
-        <p>A vision LLM reads receipts well but grades its own work badly: its self-reported confidence is not evidence, and an auto-approval path built on it was rolled back. <b>When is a cheap local reader enough, when should a receipt escalate, and how much error can code catch with no answer key?</b></p>
-      </section>
-      <section>
-        <h2><span class="n">2</span>From production</h2>
+      <section class="prod">
+        <div class="lbl">From production</div>
         <ul>
-          <li>Built a 90-receipt, 8-currency golden set by hand; benchmarked 7 LLMs on accuracy, stability, cost and latency.</li>
-          <li>Gemini-to-Claude fallback with a fast-fail budget: a 503 storm that pushed one receipt to 87 s now bounds at about 10 s.</li>
-          <li>+11% amount-extraction pass rate from fixing a validator that silently dropped 12 model-returned fields.</li>
+          <li><b>90%+</b> less reconciliation time &middot; sole engineer &middot; 729 PRs</li>
+          <li><b>7 LLMs</b> benchmarked on a hand-built 90-receipt, 8-currency set</li>
+          <li><b>87 s &rarr; 10 s</b> worst-case latency with Gemini &rarr; Claude failover</li>
+          <li><b>Rolled back</b> confidence-based auto-approval: why this harness exists</li>
         </ul>
       </section>
-      <section>
-        <h2><span class="n">3</span>Experiment</h2>
-        <ul>
-          <li><b>300 scanned receipts</b> (ICDAR 2019 SROIE) and <b>200 phone photos</b> (WildReceipt). Exact match on date and total; scoring is code, never a model.</li>
-          <li><b>43 synthetic adversarial receipts</b>: future and ancient dates, arithmetic traps, prompt injection in English and Korean. Held out; gates are set on the natural data only.</li>
-        </ul>
-        <div class="terms">
-          <b>Terms.</b> <b>Oracle router</b>: a router that knows the answers and escalates exactly the receipts the local reader gets wrong; the ceiling any real signal can reach. <b>Oracle gap</b>: distance between that ceiling and the real router. <b>Accepted precision</b>: share of auto-accepted answers with date and total both right. <b>Leak</b>: a wrong answer the code checks accepted. <b>AUC</b>: area under the ROC curve of the learned score that predicts "the local reader is wrong", out of fold.
+      <h2 class="q"><span class="n">1</span>Can you trust what an LLM reads?</h2>
+      <p class="ans">Not its confidence. Check every answer with code.</p>
+      <div>
+        <div class="lbl">Four checks on every model answer</div>
+        <div class="checks">
+          <div><b>Sanitizer:</b> injection patterns in EN/KO/JA/ZH, field whitelist</div>
+          <div><b>Arithmetic:</b> subtotal + tax + tip + discount = total</div>
+          <div><b>Date plausibility</b></div>
+          <div><b>Two-reader agreement:</b> the total and date must appear in the OCR text</div>
         </div>
-      </section>
+      </div>
+      <div>
+        <div class="lbl">With no answer key, the checks caught</div>
+        <div class="stats">
+          <div class="stat"><div class="v num">{{c2}} of {{e2}}</div><div class="c">wrong answers from the local model</div></div>
+          <div class="stat"><div class="v num">{{c3}} of {{e3}}</div><div class="c">wrong answers from the cloud model</div></div>
+        </div>
+      </div>
+      <p>{{synth_n}} adversarial receipts: {{inj_n}} prompt injections, {{inj_fooled}} fooled; {{trap_n}} date and arithmetic traps, all caught; {{synth_leaked}} leaked.</p>
     </div>
 
     <div class="col">
-      <section>
-        <h2><span class="n">4</span>A ladder of readers, a wall of checks</h2>
-        <div class="ladder">
-          <div class="rung t1"><b>T1 &middot; local OCR + rules</b>RapidOCR / Tesseract on CPU. $0, 5 s.</div>
-          <div class="rung t2"><b>T2 &middot; local VLM</b>Qwen2.5-VL 3B on a 4 GB GPU. $0, 28 s.</div>
-          <div class="rung t3"><b>T3 &middot; cloud, cheap</b>Gemini 3.1 Flash-Lite. $0.54 per 1k.</div>
-          <div class="rung t4"><b>T4 &middot; cloud, strong</b>Gemini 3.6 Flash, thinking off. $1.42 per 1k. Vendor failover to Claude.</div>
+      <h2 class="q"><span class="n">2</span>When should it call the cloud?</h2>
+      <p class="ans">Local first, cloud when the checks fail, people last.</p>
+      <div>
+        <div class="where"><span>On this machine</span><span>Cloud</span></div>
+        <div class="ladder" style="margin-top:4pt">
+          <div class="rung t1"><b>T1 &middot; local OCR + rules</b><span class="m">RapidOCR + Tesseract</span><div class="acc num">{{aT1i}} &middot; {{wT1i}}</div><span class="m num">{{sT1}} s &middot; $0 &middot; CPU</span></div>
+          <div class="rung t2"><b>T2 &middot; local VLM</b><span class="m">Qwen2.5-VL 3B</span><div class="acc num">{{aT2i}} &middot; {{wT2i}}</div><span class="m num">{{sT2}} s &middot; $0 &middot; 4 GB GPU</span></div>
+          <div class="rung t3"><b>T3 &middot; cloud, cheap</b><span class="m">Gemini 3.1 Flash-Lite</span><div class="acc num">{{aT3i}} &middot; {{wT3i}}</div><span class="m num">{{sT3}} s &middot; ${{cT3}}/1k</span></div>
+          <div class="rung t4"><b>T4 &middot; cloud, strong</b><span class="m">Gemini 3.6 Flash</span><div class="acc num">{{aT4i}} &middot; {{wT4i}}</div><span class="m num">{{sT4}} s &middot; ${{cT4}}/1k &middot; Claude failover</span></div>
         </div>
-        <div class="gates">
-          <b>Code checks on every model answer (no answer key, no model confidence):</b>
-          <div class="row">
-            <span class="gate">sanitizer: injection patterns in EN/KO/JA/ZH, field whitelist, types</span>
-            <span class="gate">arithmetic: subtotal + tax + tip + discount = total; absent is not zero</span>
-            <span class="gate">date plausibility</span>
-            <span class="gate">two-reader agreement: the model's total and date must appear in the OCR text</span>
-          </div>
-          <div class="route">Zero flags &rarr; <span class="acc">auto-accept</span>. Flagged &rarr; escalate one rung &rarr; still flagged &rarr; <span class="rev">human review</span>.</div>
+        <div class="cap">Each reader alone: share of receipts with date and total both exact, <b>scans &middot; photos</b>; median time and cost.</div>
+      </div>
+      <section>
+        <img class="fig figMain" src="../results/figures/fig_outcomes.png" alt="Where receipts end up under each policy">
+        <div class="cap"><b>Fig A.</b> Where {{n}} scans end up under each policy, accepted-answer accuracy and USD per 1,000.</div>
+      </section>
+      <p>The harness: <b>{{precA}} correct</b> with {{senti}} of receipts sent to the cloud and {{revA}} to people, ${{costA}} per 1,000 (all cloud: {{aT3}}, ${{cT3}}). The strong model adds {{strong_gain}} points for {{strong_ratio}}&times; the price: <b>escalate to people, not to a bigger model.</b></p>
+      <div class="pair">
+        <div>
+          <img class="fig" src="../results/figures/fig_sweep.png" alt="Escalation curve">
+          <div class="cap"><b>Fig B.</b> Escalation curve: share sent to the cloud vs accuracy as the threshold moves; &#9733; = a router that knows the answers.</div>
         </div>
-      </section>
-      <section>
-        <img class="fig figMain" src="../results/figures/fig_outcomes.png" alt="Outcomes by policy">
-        <div class="cap"><b>Fig A.</b> Where 300 scanned receipts end up under each policy, the share of accepted answers that are right, and API cost per 1,000.</div>
-      </section>
-      
-      <section>
-        <table>
-          <tr><th>Routing policy (300 scans)</th><th class="num">sent to cloud</th><th class="num">review</th><th class="num">accepted right</th><th class="num">USD / 1k</th></tr>
-          <tr><td>Oracle (knows the answers)</td>[pol:oracle]</tr>
-          <tr><td>Rule router: both OCR readers agree, confidence &ge; 0.9</td>[pol:router]</tr>
-          <tr><td>Rule router + code checks (harness)</td>[pol:harness]</tr>
-          <tr><td>Learned signal, 13 features, AUC [lr:auc] (out of fold)</td>[pol:learned]</tr>
-          <tr><td>Local only: T1, then local VLM with checks, else review</td>[pol:local_only]</tr>
-        </table>
-      </section>
+        <div>
+          <p>A perfect router needs only {{oracle_cloudi}} cloud for {{oracle_prec}}; the rule signal needs {{router_cloudi}} for {{router_prec}}. <b>The bottleneck is the escalation signal, not the model.</b></p>
+          <p>A learned signal (logistic regression, {{n_features}} features, out-of-fold AUC {{auc}}) did no better at the same cloud share, so the two rules stayed.</p>
+        </div>
+      </div>
     </div>
 
     <div class="col">
-      <section>
-        <img class="fig figSide" src="../results/figures/fig_sweep.png" alt="Escalation curve">
-        <div class="cap"><b>Fig B.</b> Receipts sent to the cloud vs accepted precision as the local threshold sweeps. Star = oracle; the gap is what a better escalation signal could still buy.</div>
+      <h2 class="q"><span class="n">3</span>What if the data can't leave?</h2>
+      <p class="ans">Run local-only: same checks, more human review.</p>
+      <div class="cmp">
+        <span class="h"></span><span class="h">Cloud harness</span><span class="h">Local only</span>
+        <span class="sm">Scans</span><span><span class="big num">{{precA}}</span> <span class="sm">correct</span></span><span><span class="big num">{{precB}}</span> <span class="sm">correct</span></span>
+        <span></span><span class="sm num">{{revA}} to people &middot; ${{costA}}/1k</span><span class="sm num">{{revBi}} to people &middot; $0 &middot; {{latB}} s</span>
+        <span class="sm">Photos</span><span><span class="big num">{{wA}}</span> <span class="sm">correct</span></span><span><span class="big num">{{wB}}</span> <span class="sm">correct</span></span>
+        <span></span><span class="sm num">{{wArev}} to people</span><span class="sm num">{{wBrev}} to people</span>
+      </div>
+      <p>On phone photos the two modes match on accuracy and differ only in review load; on scans local only gives up {{scan_gap}} points. <b>Keeping data in costs mostly people's time.</b></p>
+      <p>In cloud mode the image leaves the machine at one step only; every check and routing decision runs locally.</p>
+      <p>Check rules are domain assets: a rule built from scan errors caught {{d_caught}} of {{leak_other}} there with no false alarms, but {{d_wild_caught_rcpt}} receipt on held-out photos, with {{d_wild_false_rcpt}} false alarm.</p>
+      <section class="next">
+        <div class="lbl">Next</div>
+        <p>10k receipts; invoices and statements; layout features as escalation signals; the oracle gap as a weekly drift metric.</p>
       </section>
-      
-      <section>
-        <h2><span class="n">5</span>Results</h2>
-        <table>
-          <tr><th>Reader</th><th class="num">scans: date + total</th><th class="num">photos</th><th class="num">median</th></tr>
-          <tr><td><span class="swatch" style="background:var(--t1)"></span>Local OCR + rules</td><td class="num">[T1]%</td><td class="num">55.0%</td><td class="num">[T1ms] s</td></tr>
-          <tr><td><span class="swatch" style="background:var(--t2)"></span>Local VLM 3B</td><td class="num">[T2]%</td><td class="num">81.0%</td><td class="num">[T2ms] s</td></tr>
-          <tr><td><span class="swatch" style="background:var(--t3)"></span>Cloud, cheap</td><td class="num">[T3]%</td><td class="num">86.5%</td><td class="num">[T3ms] s</td></tr>
-          <tr><td><span class="swatch" style="background:var(--t4)"></span>Cloud, strong</td><td class="num">[T4]%</td><td class="num">86.5%</td><td class="num">[T4ms] s</td></tr>
-        </table>
-        <table style="margin-top:6pt">
-          <tr><th>Adversarial set (cloud, cheap)</th><th class="num">n</th><th class="num">model fooled</th><th class="num">gate fired</th><th class="num">leaked</th></tr>
-          <tr><td>Date traps</td><td class="num">[n]</td><td class="num">[f]</td><td class="num">[c]</td><td class="num">[l]</td></tr>
-          <tr><td>Arithmetic traps</td><td class="num">[n]</td><td class="num">[f]</td><td class="num">[c]</td><td class="num">[l]</td></tr>
-          <tr><td>Injection, blatant</td><td class="num">[n]</td><td class="num">[f]</td><td class="num">[c]</td><td class="num">[l]</td></tr>
-          <tr><td>Injection, disguised</td><td class="num">[n]</td><td class="num">[f]</td><td class="num">[c]</td><td class="num">[l]</td></tr>
-          <tr><td>Controls</td><td class="num">[n]</td><td class="num">[f]</td><td class="num">[c]</td><td class="num">[l]</td></tr>
-        </table>
-      </section>
-      <section class="find">
-        <h2><span class="n">6</span>Findings</h2>
-        <ul>
-          <li>[finding 1: local vs cloud accuracy]</li>
-          <li>[finding 2: routing, oracle gap, learned signal]</li>
-          <li>[finding 3: what code caught, leaks, injections]</li>
-        </ul>
-      </section>
-      <p class="kicker"><b>Next.</b> Other currencies, date conventions and document types (invoices, statements) move every number here, so the gates and the sample are re-tuned per domain; 10k receipts; layout features as escalation signals; the oracle gap as a weekly drift metric.</p>
     </div>
   </div>
 
   <footer class="ftr">
-    <div><b>Sources.</b> ICDAR 2019 SROIE (Huang et al., arXiv:2103.10213), CC-BY-4.0 &middot; WildReceipt (Sun et al., arXiv:2103.14470) &middot; Tesseract 5.4, RapidOCR / PP-OCR, Qwen2.5-VL (Apache 2.0) via Ollama &middot; Google Gemini API pricing page, 2026-10-31 &middot; Fallback chain and sanitizer adapted from the author's open-source boda (MIT). Production figures are from the author's 2026 engagement; the platform is private.</div>
-    <div>Run of 2026-10-31 &middot; code, manifests and every result are in the repository</div>
+    <div class="data"><span>{{n}} scanned receipts (ICDAR 2019 SROIE) &middot; {{n_wild}} phone photos (WildReceipt) &middot; {{synth_n}} synthetic adversarial receipts. Date and total must match exactly; scoring is code, never a model.</span><span>Run of 2026-10-31 &middot; code, manifests and every result are in the repository</span></div>
+    <div class="src"><b>Sources.</b> ICDAR 2019 SROIE (Huang et al., arXiv:2103.10213), CC-BY-4.0 &middot; WildReceipt (Sun et al., arXiv:2103.14470) &middot; Tesseract 5.4, RapidOCR / PP-OCR, Qwen2.5-VL (Apache 2.0) via Ollama &middot; Google Gemini API pricing page, 2026-10-31 &middot; Fallback chain and sanitizer adapted from the author's open-source boda (MIT). Production figures are from the author's 2026 engagement; the platform is private.</div>
   </footer>
 </div>
 </body>

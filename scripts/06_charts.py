@@ -15,6 +15,7 @@ order; review in muted ink). Poster fonts are sans-serif (Arial).
 from __future__ import annotations
 
 import json
+import sys
 from pathlib import Path
 
 import matplotlib
@@ -25,10 +26,12 @@ ROOT = Path(__file__).resolve().parents[1]
 H = ROOT / "results" / "harness"
 FIG = ROOT / "results" / "figures"
 
-# Reference palette slots (light surface)
-C = {"T1": "#2a78d6", "T2": "#eb6834", "T3": "#1baf7a", "T4": "#eda100", "review": "#898781",
-     "ink": "#0b0b0b", "ink2": "#52514e", "muted": "#898781", "grid": "#e1e0d9", "surface": "#fcfcfb",
-     "critical": "#d03b3b", "good": "#0ca30c"}
+sys.path.insert(0, str(ROOT / "src"))
+from harness import palette as PAL  # noqa: E402
+
+# One palette for poster, charts and pages: local = navy family, cloud = burgundy family, review = grey.
+C = {**PAL.TIER, "ink": PAL.INK, "ink2": PAL.INK2, "muted": PAL.MUTED, "grid": PAL.GRID, "surface": "#ffffff",
+     "critical": PAL.BAD, "good": PAL.GOOD}
 LABEL = {"T1": "Local OCR + rules", "T2": "Local VLM (Qwen2.5-VL 3B)", "T3": "Cloud, cheap (Gemini 3.1 Flash-Lite)",
          "T4": "Cloud, strong (Gemini 3.6 Flash)", "review": "Human review"}
 POLICY_LABEL = {"all_local": "All local", "all_qwen": "All local VLM", "all_lite": "All cloud (cheap)",
@@ -65,21 +68,21 @@ def fig_outcomes(policies: list[dict]) -> None:
     for yi, p in zip(y, rows):
         prec, cost = p["accepted_money_precision"], p.get("cost_usd_per_1k")
         if prec is not None:
-            ax.text(xp, yi, f"{prec*100:.1f}%", va="center", ha="left", fontsize=10, color=C["ink"], fontweight="bold", clip_on=False)
+            ax.text(xp, yi, f"{prec*100:.1f}%", va="center", ha="left", fontsize=11, color=C["ink"], fontweight="bold", clip_on=False)
         if cost is not None:
-            ax.text(xc, yi, f"${cost:.2f}", va="center", ha="left", fontsize=10, color=C["ink2"], clip_on=False)
+            ax.text(xc, yi, f"${cost:.2f}", va="center", ha="left", fontsize=11, color=C["ink2"], clip_on=False)
     top = max(y) + 0.62
     ax.text(xp, top, "accepted\ncorrect", va="bottom", ha="left", fontsize=8, color=C["ink2"], clip_on=False, linespacing=1.0)
     ax.text(xc, top, "USD\n/ 1k", va="bottom", ha="left", fontsize=8, color=C["ink2"], clip_on=False, linespacing=1.0)
     ax.set_yticks(y)
-    ax.set_yticklabels([POLICY_LABEL[p["policy"]] for p in rows], fontsize=10, color=C["ink"])
+    ax.set_yticklabels([POLICY_LABEL[p["policy"]] for p in rows], fontsize=11, color=C["ink"])
     ax.set_xlim(0, 100)
     ax.set_xticks([0, 25, 50, 75, 100])
-    ax.tick_params(axis="x", labelsize=8.5)
-    ax.set_xlabel("share of 300 receipts (%)", fontsize=9)
+    ax.tick_params(axis="x", labelsize=9.5)
+    ax.set_xlabel("share of 300 receipts (%)", fontsize=10)
     ax.xaxis.grid(True, color=C["grid"], linewidth=0.6)
     ax.set_axisbelow(True)
-    ax.legend(loc="upper center", bbox_to_anchor=(0.55, -0.2), ncol=5, frameon=False, fontsize=8.5,
+    ax.legend(loc="upper center", bbox_to_anchor=(0.55, -0.21), ncol=5, frameon=False, fontsize=9.5,
               handlelength=1.1, handletextpad=0.4, columnspacing=1.0)
     fig.subplots_adjust(left=0.24, right=0.80, bottom=0.24, top=0.9)
     fig.savefig(FIG / "fig_outcomes.png", bbox_inches="tight")
@@ -91,7 +94,7 @@ def fig_sweep(sweep: list[dict], policies: list[dict]) -> None:
     fig, ax = plt.subplots(figsize=(5.0, 2.2), dpi=300)                 # wide and short: fits a poster side column
     import os
     variant = os.environ.get("SWEEP_VARIANT", "")          # "" (agree) or "_solo"
-    for pol, color, name in ((f"router{variant}", C["T3"], "Router, no checks"), (f"harness{variant}", C["T1"], "Harness, code checks")):
+    for pol, color, name in ((f"router{variant}", C["muted"], "Router, no checks"), (f"harness{variant}", C["T1"], "Harness, code checks")):
         pts = sorted({(round(s["cloud_sent_share"] * 100, 2), round(s["accepted_money_precision"] * 100, 2), s["tau"]) for s in sweep
                       if s["policy"] == pol and s["accepted_money_precision"] is not None})
         ax.plot([p[0] for p in pts], [p[1] for p in pts], color=color, linewidth=2.2, marker="o", markersize=4.5, label=name)
@@ -109,7 +112,7 @@ def fig_sweep(sweep: list[dict], policies: list[dict]) -> None:
     if lr.exists():
         pts = sorted({(round(q["cloud_share"] * 100, 2), round(q["accepted_precision"] * 100, 2))
                       for q in json.loads(lr.read_text(encoding="utf-8"))["points"]})
-        ax.plot([q[0] for q in pts], [q[1] for q in pts], color=C["T2"], linewidth=1.6, linestyle="--",
+        ax.plot([q[0] for q in pts], [q[1] for q in pts], color=C["T3"], linewidth=1.6, linestyle="--",
                 label="Learned signal (out of fold)")
     by = {p["policy"]: p for p in policies}
     for key, marker, name in (("oracle", "*", "Oracle router"), ("all_lite", "s", "All cloud (cheap)"), ("all_local", "D", "All local")):

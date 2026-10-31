@@ -6,6 +6,8 @@ photos (WildReceipt) and 43 synthetic adversarial receipts. Built for the
 Heinz College Reverse Career Fair poster, Nov 4, 2026. Poster PDF:
 `poster/Park_Minwoo_MISM_ReceiptOCR.pdf`.
 
+Walkthrough page (the poster's "How it works & code" QR): https://minwoo-data.github.io/receipt-ocr-harness/
+
 ## Question
 
 A vision LLM reads receipts well but grades its own work badly: its
@@ -82,7 +84,7 @@ Printed values and truth are stored separately in `data/synthetic/specs.json`.
 
 ## Follow-up analyses (A-C plan: `docs/plan-abc.md`, triad-reviewed; D pre-registered by commit)
 
-**A. Learned escalation signal** (`scripts/14_learned_router.py`, `src/harness/features.py`). Logistic regression on 13 tier-1 signals (OCR confidence, rule reasons, two-reader agreement, line counts), 5-fold out of fold on SROIE, then fit on SROIE and scored on Wild.
+**A. Learned escalation signal** (`scripts/14_learned_router.py`, `src/harness/features.py`). Logistic regression on 14 tier-1 signals (OCR confidence, rule reasons, two-reader agreement, line counts), 5-fold out of fold on SROIE, then fit on SROIE and scored on Wild.
 
 | set | AUC | rule router | learned at the router's cloud share | cloud share for the router's precision | verdict |
 |---|---|---|---|---|---|
@@ -107,7 +109,7 @@ The oracle gap (27% vs 56% cloud on SROIE) is not closed by these features; rich
 | set | leaks caught, verdicts (receipts) | new false flags, verdicts (receipts) | harness: accepted correct | harness: review | local only: accepted correct | local only: review |
 |---|---|---|---|---|---|---|
 | SROIE 300 (dev, gate designed here) | 10 (9) | 0 (0) | 96.9% -> 97.2% | 4.3% -> 4.7% | 93.4% -> 95.4% | 19.0% -> 20.7% |
-| Wild 200 (held-out) | 2 (1) | 3 (1) | 88.5% -> 89.0% | 21.5% -> 22.5% | 89.0% -> 89.6% | 31.5% -> 32.5% |
+| Wild 200 (held-out) | 2 (1) | 3 (1) | 88.5% -> 89.0% | 21.5% -> 22.5% | 89.1% -> 89.6% | 31.5% -> 32.5% |
 
 Reading: a gate written from one dataset's failures transfers only partly. The SROIE leaks are Malaysian 0.05 rounding and cash tendered; the Wild leaks are mostly dates, and the one false flag is a Tesseract artifact (`TOTAL: 65.398` read as 65.40). Ignoring three-decimal tokens is the obvious v2, but it was found on the held-out set, so it would need a fresh held-out set to be scored fairly. Leak analysis has to be redone per domain.
 

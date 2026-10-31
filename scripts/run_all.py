@@ -15,6 +15,9 @@ steps = [
     [PY, "scripts/06_charts.py"],
     [PY, "scripts/10_fill_poster.py"],
     [PY, "scripts/09_render_poster.py"],
+    [PY, "scripts/15_companion.py"],
+    [PY, "scripts/16_workflow_pages.py"],
+    [PY, "scripts/18_landing.py"],      # copies the PDF, so after 09
 ]
 for cmd in steps:
     print(">>", " ".join(cmd[1:]))
