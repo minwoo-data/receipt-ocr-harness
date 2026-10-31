@@ -90,6 +90,7 @@ def run_rapidocr(image_path: str | Path, max_side: int = RAPID_MAX_SIDE) -> dict
     result, _elapse = _rapid_engine(arr)
     tokens: list[dict] = []
     rows: list[tuple[float, float, str]] = []
+    heights: list[float] = []
     for box, text, score in (result or []):
         text = (text or "").strip()
         if not text:
@@ -97,9 +98,14 @@ def run_rapidocr(image_path: str | Path, max_side: int = RAPID_MAX_SIDE) -> dict
         ys = [p[1] for p in box]
         xs = [p[0] for p in box]
         rows.append((sum(ys) / 4.0, min(xs), text))
+        heights.append(max(ys) - min(ys))
         tokens.append({"text": text, "conf": float(score)})
     # Group detections into lines by vertical proximity, then order left to right.
-    line_tol = max(8.0, img.size[1] / 180.0)
+    # Tolerance scales with the text height: a right-aligned amount sits in the
+    # same row as its label when their centres differ by less than ~60% of a
+    # text line. (A fixed pixel tolerance split "Total ... :" from its amount.)
+    med_h = sorted(heights)[len(heights) // 2] if heights else 20.0
+    line_tol = max(6.0, 0.6 * med_h)
     rows.sort()
     lines: list[str] = []
     current: list[tuple[float, str]] = []

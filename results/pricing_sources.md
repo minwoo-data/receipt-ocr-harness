@@ -6,8 +6,10 @@ API fees; their CPU/GPU time is reported as latency instead.
 
 | Model | Input | Output | Source | Note |
 |---|---|---|---|---|
-| gemini-3.8-flash | 0.75 | 3.75 | ai.google.dev/gemini-api/docs/pricing | Rate through 2026-12-31; 1.50 / 7.50 from 2027-01-01. Output price includes thinking tokens, so thinking is forced to minimal. |
-| gemini-3.1-flash-lite | 0.25 | 1.50 | ai.google.dev/gemini-api/docs/pricing | Text/image input. |
+| gemini-3.6-flash | 0.75 | 3.75 | ai.google.dev/gemini-api/docs/pricing | Rate through 2026-12-31; 1.50 / 7.50 from 2027-01-01. Output price includes thinking tokens, so thinking_budget is forced to 0. Used as the "strong cloud" tier. |
+| gemini-3.8-flash | 0.75 | 3.75 | ai.google.dev/gemini-api/docs/pricing | Same rate schedule as 3.6. Returned 503 (high demand) and 504 (deadline) for every call on the evening of 2026-10-31, so it was not used. |
+| gemini-3.1-flash-lite | 0.25 | 1.50 | ai.google.dev/gemini-api/docs/pricing | Text/image input. Used as the "cheap cloud" tier; accepts no thinking config. |
+| gemini-3.5-flash-lite | 0.30 | 2.50 | ai.google.dev/gemini-api/docs/pricing | Available (about 1 s per receipt) but pricier than 3.1 Flash-Lite; not used. |
 | claude-haiku-5-5 | 0.10 | 0.50 | Anthropic model table (claude-api skill, cached 2026-10-06) | Prompts up to 100K tokens. |
 | qwen3-vl:2b (Ollama) | 0 | 0 | local | RTX 2050 GPU runner crashed (driver 545 / CUDA 12.3 vs Ollama 0.40 CUDA build); measured on CPU. |
 | RapidOCR, Tesseract 5.4 | 0 | 0 | local | CPU only. |

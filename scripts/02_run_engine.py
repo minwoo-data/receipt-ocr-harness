@@ -31,12 +31,15 @@ from harness import rules  # noqa: E402
 from harness.engines import traditional  # noqa: E402
 
 VLM_ENGINES = {
-    "qwen": dict(kind="ollama"),
-    "gemini": dict(kind="cloud", chain=(("gemini", "gemini-3.8-flash"),)),
+    "qwen": dict(kind="ollama", model="qwen2.5vl:3b"),
+    "qwen3": dict(kind="ollama", model="qwen3-vl:2b"),
+    "gemini": dict(kind="cloud", chain=(("gemini", "gemini-3.6-flash"),)),
+    "gemini-38": dict(kind="cloud", chain=(("gemini", "gemini-3.8-flash"),)),
     "gemini-lite": dict(kind="cloud", chain=(("gemini", "gemini-3.1-flash-lite"),)),
+    "gemini-lite35": dict(kind="cloud", chain=(("gemini", "gemini-3.5-flash-lite"),)),
     "claude": dict(kind="cloud", chain=(("claude", "claude-haiku-5-5"),)),
     "chain": dict(kind="cloud", chain=(("gemini", "gemini-3.1-flash-lite"),
-                                       ("gemini", "gemini-3.8-flash"),
+                                       ("gemini", "gemini-3.6-flash"),
                                        ("claude", "claude-haiku-5-5"))),
 }
 
@@ -59,7 +62,7 @@ def run_vlm(engine: str, item: dict) -> dict:
     from harness.engines import vlm
     spec = VLM_ENGINES[engine]
     if spec["kind"] == "ollama":
-        return vlm.run_ollama(ROOT / item["image"])
+        return vlm.run_ollama(ROOT / item["image"], model=spec["model"])
     res = vlm.run_cloud_chain(ROOT / item["image"], chain=spec["chain"])
     if res.get("provider") == "none":
         # Infrastructure failure (no provider returned text): do not cache it as a

@@ -20,16 +20,28 @@ _MONTHS = {
 }
 
 _COMPANY_DROP = re.compile(r"[^A-Z0-9 ]+")
+_PARENS = re.compile(r"\([^)]*\)|（[^）]*）")
+_REG_CODE = re.compile(r"\b\d{5,}\s*-?\s*[A-Z]?\b")      # Malaysian company registration numbers
 _SPACES = re.compile(r"\s+")
 
 
 def norm_company(value) -> str | None:
+    """Uppercase, parentheses and registration codes removed, punctuation to
+    spaces, whitespace collapsed. Compare with company_key() so that OCR word
+    merging ("SDNBHD" vs "SDN BHD") is not counted as a reading error."""
     if value is None:
         return None
     s = str(value).upper()
+    s = _PARENS.sub(" ", s)
     s = _COMPANY_DROP.sub(" ", s)
+    s = _REG_CODE.sub(" ", s)
     s = _SPACES.sub(" ", s).strip()
     return s or None
+
+
+def company_key(value) -> str | None:
+    s = norm_company(value)
+    return s.replace(" ", "") if s else None
 
 
 def _year(y: str) -> int:

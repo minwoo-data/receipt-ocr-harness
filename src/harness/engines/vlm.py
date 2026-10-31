@@ -39,13 +39,15 @@ from ..vendor_boda.sanitizer import validate_ai_response
 # page 2026-10-31 (see results/pricing_sources.md).
 PRICES_PER_1M = {
     "gemini-3.8-flash": (0.75, 3.75),        # through 2026-12-31; doubles 2027-01-01
+    "gemini-3.6-flash": (0.75, 3.75),        # through 2026-12-31; doubles 2027-01-01
+    "gemini-3.5-flash-lite": (0.30, 2.50),
     "gemini-3.1-flash-lite": (0.25, 1.50),
     "claude-haiku-5-5": (0.10, 0.50),        # Anthropic model table, cached 2026-10-06
 }
 
 OLLAMA_URL = "http://localhost:11434/api/chat"
-OLLAMA_MODEL = "qwen3-vl:2b"
-GEMINI_MODEL = "gemini-3.8-flash"
+OLLAMA_MODEL = "qwen2.5vl:3b"                # no thinking mode; qwen3-vl:2b thinks past the token cap
+GEMINI_MODEL = "gemini-3.6-flash"            # 3.8-flash returned 503/504 all evening on 2026-10-31
 GEMINI_LITE_MODEL = "gemini-3.1-flash-lite"
 CLAUDE_MODEL = "claude-haiku-5-5"
 
@@ -167,10 +169,12 @@ def _gemini_configs(types):
     Gemini 3 'thinking_level' knob, then the 2.x 'thinking_budget', then none."""
     base = dict(temperature=0.0, max_output_tokens=2048, response_mime_type="application/json")
     variants = []
+    # Order learned on 2026-10-31: budget=0 works on 3.5/3.6 Flash, the Lite
+    # models accept only "none", and 3.8 Flash rejects level "minimal".
     for thinking in (
-        lambda: types.ThinkingConfig(thinking_level="minimal"),
         lambda: types.ThinkingConfig(thinking_budget=0),
         lambda: None,
+        lambda: types.ThinkingConfig(thinking_level="low"),
     ):
         try:
             tc = thinking()
@@ -217,8 +221,8 @@ def _call_gemini(image_path: Path, prompt: str, model: str, max_attempts: int) -
             err = redact_provider_error(exc)
             attempts.append({"provider": "gemini", "model": model, "ok": False, "error": err,
                              "attempt": attempt, "config": cfg_idx})
-            if "400" in err and "thinking" in err.lower() and cfg_idx < len(configs) - 1:
-                cfg_idx += 1          # this model rejects that thinking knob: try the next variant, same attempt budget
+            if "400" in err and cfg_idx < len(configs) - 1:
+                cfg_idx += 1          # this model rejects that config (usually the thinking knob): next variant, same attempt budget
                 continue
             if "403" in err or "404" in err or "PERMISSION_DENIED" in err or "UNAUTHENTICATED" in err:
                 break

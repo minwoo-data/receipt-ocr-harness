@@ -67,6 +67,8 @@ EXPECTED_FIELDS = {
     "tax": (int, float),
     "tip": (int, float),
     "total": (int, float),
+    "discount": (int, float),   # harness: added; boda whitelist silently dropped it
+    "currency": str,            # harness: added
     "payment_method": str,
     "card_last_4": str,
     "category": str,
@@ -76,10 +78,10 @@ EXPECTED_FIELDS = {
 
 MAX_FIELD_LENGTHS = {
     "vendor": 200, "location": 200, "state": 2, "payment_method": 30,
-    "card_last_4": 4, "category": 50, "date": 10, "notes": 500,
+    "card_last_4": 4, "category": 50, "date": 24, "notes": 500, "currency": 8,  # harness: date 10->24 (free-form dates like "13 MAY 2018" were truncated)
 }
 
-_MONETARY_FIELDS = ("subtotal", "tax", "tip", "total")
+_MONETARY_FIELDS = ("subtotal", "tax", "tip", "total", "discount")  # harness: + discount
 _MONETARY_CEILING = 1_000_000_000.0
 _REGEX_INPUT_CEILING = 10_000  # cap a string before regex-scanning it
 
