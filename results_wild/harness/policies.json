@@ -16,7 +16,8 @@
    "T3": 0.0,
    "T4": 0.0
   },
-  "cloud_share": 0.0,
+  "cloud_sent_share": 0.0,
+  "cloud_accepted_share": 0.0,
   "accepted_money_precision": 0.55,
   "accepted_all3_precision": 0.275,
   "leak_share": 0.45,
@@ -41,7 +42,8 @@
    "T3": 0.0,
    "T4": 0.0
   },
-  "cloud_share": 0.0,
+  "cloud_sent_share": 0.0,
+  "cloud_accepted_share": 0.0,
   "accepted_money_precision": 0.81,
   "accepted_all3_precision": 0.535,
   "leak_share": 0.19,
@@ -66,7 +68,8 @@
    "T3": 1.0,
    "T4": 0.0
   },
-  "cloud_share": 1.0,
+  "cloud_sent_share": 1.0,
+  "cloud_accepted_share": 1.0,
   "accepted_money_precision": 0.865,
   "accepted_all3_precision": 0.52,
   "leak_share": 0.135,
@@ -91,7 +94,8 @@
    "T3": 0.0,
    "T4": 1.0
   },
-  "cloud_share": 1.0,
+  "cloud_sent_share": 1.0,
+  "cloud_accepted_share": 1.0,
   "accepted_money_precision": 0.865,
   "accepted_all3_precision": 0.56,
   "leak_share": 0.135,
@@ -116,7 +120,8 @@
    "T3": 0.45,
    "T4": 0.0
   },
-  "cloud_share": 0.45,
+  "cloud_sent_share": 0.45,
+  "cloud_accepted_share": 0.45,
   "accepted_money_precision": 0.9,
   "accepted_all3_precision": 0.47,
   "leak_share": 0.1,
@@ -141,7 +146,8 @@
    "T3": 0.84,
    "T4": 0.0
   },
-  "cloud_share": 0.84,
+  "cloud_sent_share": 0.84,
+  "cloud_accepted_share": 0.84,
   "accepted_money_precision": 0.87,
   "accepted_all3_precision": 0.51,
   "leak_share": 0.13,
@@ -166,7 +172,8 @@
    "T3": 0.59,
    "T4": 0.035
   },
-  "cloud_share": 0.625,
+  "cloud_sent_share": 0.84,
+  "cloud_accepted_share": 0.625,
   "accepted_money_precision": 0.8854,
   "accepted_all3_precision": 0.5287,
   "leak_share": 0.09,
@@ -191,7 +198,8 @@
    "T3": 0.12,
    "T4": 0.01
   },
-  "cloud_share": 0.13,
+  "cloud_sent_share": 0.315,
+  "cloud_accepted_share": 0.13,
   "accepted_money_precision": 0.8834,
   "accepted_all3_precision": 0.5337,
   "leak_share": 0.095,
@@ -216,7 +224,8 @@
    "T3": 0.46,
    "T4": 0.0
   },
-  "cloud_share": 0.46,
+  "cloud_sent_share": 0.46,
+  "cloud_accepted_share": 0.46,
   "accepted_money_precision": 0.83,
   "accepted_all3_precision": 0.465,
   "leak_share": 0.17,
@@ -241,7 +250,8 @@
    "T3": 0.32,
    "T4": 0.025
   },
-  "cloud_share": 0.345,
+  "cloud_sent_share": 0.46,
+  "cloud_accepted_share": 0.345,
   "accepted_money_precision": 0.8362,
   "accepted_all3_precision": 0.4689,
   "leak_share": 0.145,
@@ -266,7 +276,8 @@
    "T3": 0.05,
    "T4": 0.01
   },
-  "cloud_share": 0.06,
+  "cloud_sent_share": 0.16,
+  "cloud_accepted_share": 0.06,
   "accepted_money_precision": 0.8333,
   "accepted_all3_precision": 0.4611,
   "leak_share": 0.15,
@@ -291,7 +302,8 @@
    "T3": 0.0,
    "T4": 0.0
   },
-  "cloud_share": 0.0,
+  "cloud_sent_share": 0.0,
+  "cloud_accepted_share": 0.0,
   "accepted_money_precision": 0.8905,
   "accepted_all3_precision": 0.5547,
   "leak_share": 0.075,
@@ -316,7 +328,8 @@
    "T3": 0.0,
    "T4": 0.0
   },
-  "cloud_share": 0.0,
+  "cloud_sent_share": 0.0,
+  "cloud_accepted_share": 0.0,
   "accepted_money_precision": 0.8333,
   "accepted_all3_precision": 0.4583,
   "leak_share": 0.14,

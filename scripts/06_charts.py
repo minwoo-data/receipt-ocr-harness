@@ -83,7 +83,7 @@ def fig_sweep(sweep: list[dict], policies: list[dict]) -> None:
     import os
     variant = os.environ.get("SWEEP_VARIANT", "")          # "" (agree) or "_solo"
     for pol, color, name in ((f"router{variant}", C["T3"], "Router (no code checks)"), (f"harness{variant}", C["T1"], "Harness (code checks)")):
-        pts = sorted({(round(s["cloud_share"] * 100, 2), round(s["accepted_money_precision"] * 100, 2), s["tau"]) for s in sweep
+        pts = sorted({(round(s["cloud_sent_share"] * 100, 2), round(s["accepted_money_precision"] * 100, 2), s["tau"]) for s in sweep
                       if s["policy"] == pol and s["accepted_money_precision"] is not None})
         ax.plot([p[0] for p in pts], [p[1] for p in pts], color=color, linewidth=2, marker="o", markersize=4, label=name)
         if pts:
@@ -106,7 +106,7 @@ def fig_sweep(sweep: list[dict], policies: list[dict]) -> None:
     for key, marker, name in (("oracle", "*", "Oracle router"), ("all_lite", "s", "All cloud (cheap)"), ("all_local", "D", "All local")):
         p = by.get(key)
         if p and p["accepted_money_precision"] is not None:
-            ax.scatter([p["cloud_share"] * 100], [p["accepted_money_precision"] * 100], marker=marker, s=48,
+            ax.scatter([p["cloud_sent_share"] * 100], [p["accepted_money_precision"] * 100], marker=marker, s=48,
                        color=C["ink"], zorder=5, label=name)
     ax.set_xlabel("receipts sent to the cloud (%)")
     ax.set_ylabel("accepted receipts with correct date + total (%)")

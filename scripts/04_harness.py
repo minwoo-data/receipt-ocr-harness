@@ -208,6 +208,7 @@ def summarize(rows: list[dict], policy: str, params: dict | float) -> dict:
     leaked = 0
     review = 0
     cloud_fired = 0
+    sent = 0              # receipts whose image reached a cloud tier (accepted there or not)
     tiers = {"T1": 0, "T2": 0, "T3": 0, "T4": 0}
     cost = 0.0
     costed = 0            # receipts whose whole decision path had results (cost is averaged over these only)
@@ -215,6 +216,7 @@ def summarize(rows: list[dict], policy: str, params: dict | float) -> dict:
     for row in rows:
         d = decide(row, policy, params)
         cloud_fired += 1 if d.get("cloud_fired") else 0
+        sent += 1 if any(t in ("T3", "T4") for t in d["path"]) else 0
         if all(row[t.lower()]["available"] for t in d["path"]):
             cost += d["cost"]
             costed += 1
@@ -238,7 +240,8 @@ def summarize(rows: list[dict], policy: str, params: dict | float) -> dict:
         "auto_accept_share": round(accepted / n, 4),
         "review_share": round(review / n, 4),
         "tier_share": {k: round(v / n, 4) for k, v in tiers.items()},
-        "cloud_share": round((tiers["T3"] + tiers["T4"]) / n, 4),
+        "cloud_sent_share": round(sent / n, 4),                              # image left the machine
+        "cloud_accepted_share": round((tiers["T3"] + tiers["T4"]) / n, 4),   # answer accepted from a cloud tier
         "accepted_money_precision": round(acc_money_ok / accepted, 4) if accepted else None,
         "accepted_all3_precision": round(acc_all_ok / accepted, 4) if accepted else None,
         "leak_share": round(leaked / n, 4),                 # wrong date/total that reached auto-accept
@@ -355,11 +358,12 @@ def main() -> None:
     (hedge_out / "summary.md").write_text("\n".join(hl) + "\n", encoding="utf-8")
 
     lines = [f"# Routing policies (tau = {args.tau}; date+total exact match)", "",
-             "| policy | auto-accept | review | T1 | T2 | T3 | T4 | accepted precision (date+total) | leak | USD / 1k | latency med (ms) |",
-             "|---|---|---|---|---|---|---|---|---|---|---|"]
+             "Tier columns = where the receipt was accepted. Sent to cloud = the image reached a cloud tier (accepted there or not).", "",
+             "| policy | auto-accept | review | sent to cloud | T1 | T2 | T3 | T4 | accepted precision (date+total) | leak | USD / 1k | latency med (ms) |",
+             "|---|---|---|---|---|---|---|---|---|---|---|---|"]
     for s in policies:
         ts = s["tier_share"]
-        lines.append(f"| {s['policy']} | {pct(s['auto_accept_share'])} | {pct(s['review_share'])} | {pct(ts['T1'])} | {pct(ts['T2'])} | "
+        lines.append(f"| {s['policy']} | {pct(s['auto_accept_share'])} | {pct(s['review_share'])} | {pct(s['cloud_sent_share'])} | {pct(ts['T1'])} | {pct(ts['T2'])} | "
                      f"{pct(ts['T3'])} | {pct(ts['T4'])} | {pct(s['accepted_money_precision'])} | {pct(s['leak_share'])} | "
                      f"{s['cost_usd_per_1k']} | {s['latency_ms_median']} |")
     lines += ["", "# Verification waterfall (per VLM tier)", "",

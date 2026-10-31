@@ -28,7 +28,7 @@ def load(root: Path):
     schema = json.loads((root / "harness" / "per_receipt.schema.json").read_text(encoding="utf-8"))
     assert schema["schema_version"] == 1
     rows = [json.loads(l) for l in (root / "harness" / "per_receipt.jsonl").open(encoding="utf-8") if l.strip()]
-    X, y, t3ok, keys = [], [], [], []
+    X, y, t3ok, t3cost, keys = [], [], [], [], []
     for r in rows:
         if r["t1"]["money_ok"] is None or r["t3"]["money_ok"] is None:
             continue
@@ -38,28 +38,32 @@ def load(root: Path):
         X.append([features(rapid, tess, r["signal"])[k] for k in FEATURE_NAMES])
         y.append(0 if r["t1"]["money_ok"] else 1)          # 1 = tier 1 wrong -> should escalate
         t3ok.append(bool(r["t3"]["money_ok"]))
+        t3cost.append(float(r["t3"].get("cost") or 0.0))
         keys.append(r["key"])
-    return np.array(X), np.array(y), np.array(t3ok), keys
+    return np.array(X), np.array(y), np.array(t3ok), np.array(t3cost), keys
 
 
-def curve(scores, y, t3ok):
-    """Replay rule: score >= thr -> T3 recorded correctness (blind); else T1. Every distinct score is a threshold."""
+def curve(scores, y, t3ok, t3cost):
+    """Replay rule: score >= thr -> T3 recorded correctness (blind); else T1. Every distinct score is a threshold.
+    No review step, so the share sent to the cloud equals the share answered by the cloud."""
     pts = []
     t1ok = (y == 0)
     for thr in sorted(set(scores.tolist()) | {float("inf")}):
         esc = scores >= thr
         ok = np.where(esc, t3ok, t1ok)
         pts.append({"threshold": None if thr == float("inf") else float(thr), "cloud_share": float(esc.mean()),
-                    "accepted_precision": float(ok.mean())})
+                    "accepted_precision": float(ok.mean()), "cost_usd_per_1k": round(float((esc * t3cost).mean()) * 1000, 3)})
     return pts
 
 
 def headline(pts, router):
-    share, prec = router["cloud_share"], router["accepted_money_precision"]
+    share, prec = router["cloud_sent_share"], router["accepted_money_precision"]
     at_share = max((p for p in pts if p["cloud_share"] <= share), key=lambda p: p["cloud_share"], default=None)
     reach = min((p["cloud_share"] for p in pts if p["accepted_precision"] >= prec), default=None)
     return {"router_cloud_share": share, "router_precision": prec,
             "precision_at_router_share": at_share["accepted_precision"] if at_share else None,
+            "share_at_router_share": at_share["cloud_share"] if at_share else None,
+            "cost_at_router_share": at_share["cost_usd_per_1k"] if at_share else None,
             "cloud_share_at_router_precision": reach if reach is not None else "not reached",
             "win_precision": bool(at_share and at_share["accepted_precision"] > prec),
             "win_share": bool(reach is not None and reach < share)}
@@ -71,10 +75,10 @@ def main() -> None:
     ap.add_argument("--fit-from", default=None, help="fit on this root and score --results (transfer)")
     args = ap.parse_args()
     root = ROOT / args.results
-    X, y, t3ok, keys = load(root)
+    X, y, t3ok, t3cost, keys = load(root)
     model = make_pipeline(StandardScaler(), LogisticRegression(max_iter=1000))
     if args.fit_from:
-        Xf, yf, _, _ = load(ROOT / args.fit_from)
+        Xf, yf, _, _, _ = load(ROOT / args.fit_from)
         model.fit(Xf, yf)
         scores = model.predict_proba(X)[:, 1]
         mode = f"fit on {args.fit_from}, scored on {args.results}"
@@ -85,10 +89,10 @@ def main() -> None:
             scores[te] = m.predict_proba(X[te])[:, 1]
         model.fit(X, y)
         mode = "5-fold out-of-fold"
-    pts = curve(scores, y, t3ok)
+    pts = curve(scores, y, t3ok, t3cost)
     policies = {p["policy"]: p for p in json.loads((root / "harness" / "policies.json").read_text(encoding="utf-8"))}
     head = headline(pts, policies["router"])
-    head["oracle_cloud_share"], head["oracle_precision"] = policies["oracle"]["cloud_share"], policies["oracle"]["accepted_money_precision"]
+    head["oracle_cloud_share"], head["oracle_precision"] = policies["oracle"]["cloud_sent_share"], policies["oracle"]["accepted_money_precision"]
     head["auc"] = float(roc_auc_score(y, scores)) if len(set(y.tolist())) > 1 else None
     head["n"], head["mode"] = int(len(y)), mode
     out = root / "learned_router"

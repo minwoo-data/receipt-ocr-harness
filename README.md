@@ -28,15 +28,18 @@ not a reading error.
 
 ## Routing policies (SROIE 300, tau = 0.9)
 
-| Policy | Auto-accept | Review | Cloud share | Accepted answers correct | USD per 1k |
+"Sent to cloud" counts every receipt whose image reached a cloud tier, including those that were then flagged and sent to review (`cloud_sent_share`; the share accepted from a cloud tier is `cloud_accepted_share`).
+
+| Policy | Auto-accept | Review | Sent to cloud | Accepted answers correct | USD per 1k |
 |---|---|---|---|---|---|
 | All local (tier 1) | 100% | 0% | 0% | 72.7% | 0.00 |
 | All cloud, cheap | 100% | 0% | 100% | 97.3% | 0.54 |
 | All cloud, strong | 100% | 0% | 100% | 98.0% | 1.42 |
 | Oracle router (escalates exactly the local misses) | 100% | 0% | 27% | 98.7% | 0.15 |
 | Router: both OCR readers agree and confidence >= 0.9, else cloud | 100% | 0% | 56% | 95.7% | 0.30 |
-| Harness: router + code checks, flagged answers escalate, then review | 95.7% | 4.3% | 52% | 96.9% | 0.37 |
-| Harness with local VLM rung | 96.3% | 3.7% | 15% | 94.5% | 0.16 |
+| Harness: router + code checks, flagged answers escalate, then review | 95.7% | 4.3% | 56% | 96.9% | 0.37 |
+| Harness with local VLM rung | 96.3% | 3.7% | 19% | 94.5% | 0.15 |
+| Local only: T1, then local VLM with code checks, else review (no cloud) | 81.0% | 19.0% | 0% | 93.4% | 0.00 |
 
 Full tables, the tau sweep and per-receipt decisions: `results/harness/`,
 `results_wild/harness/`.

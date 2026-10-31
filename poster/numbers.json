@@ -57,7 +57,8 @@
     "T3": 0.0,
     "T4": 0.0
    },
-   "cloud_share": 0.0,
+   "cloud_sent_share": 0.0,
+   "cloud_accepted_share": 0.0,
    "accepted_money_precision": 0.7267,
    "accepted_all3_precision": 0.4933,
    "leak_share": 0.2733,
@@ -82,7 +83,8 @@
     "T3": 0.0,
     "T4": 0.0
    },
-   "cloud_share": 0.0,
+   "cloud_sent_share": 0.0,
+   "cloud_accepted_share": 0.0,
    "accepted_money_precision": 0.83,
    "accepted_all3_precision": 0.7333,
    "leak_share": 0.17,
@@ -107,7 +109,8 @@
     "T3": 1.0,
     "T4": 0.0
    },
-   "cloud_share": 1.0,
+   "cloud_sent_share": 1.0,
+   "cloud_accepted_share": 1.0,
    "accepted_money_precision": 0.9733,
    "accepted_all3_precision": 0.8867,
    "leak_share": 0.0267,
@@ -132,7 +135,8 @@
     "T3": 0.0,
     "T4": 1.0
    },
-   "cloud_share": 1.0,
+   "cloud_sent_share": 1.0,
+   "cloud_accepted_share": 1.0,
    "accepted_money_precision": 0.98,
    "accepted_all3_precision": 0.9067,
    "leak_share": 0.02,
@@ -157,7 +161,8 @@
     "T3": 0.2733,
     "T4": 0.0
    },
-   "cloud_share": 0.2733,
+   "cloud_sent_share": 0.2733,
+   "cloud_accepted_share": 0.2733,
    "accepted_money_precision": 0.9867,
    "accepted_all3_precision": 0.7167,
    "leak_share": 0.0133,
@@ -182,7 +187,8 @@
     "T3": 0.5633,
     "T4": 0.0
    },
-   "cloud_share": 0.5633,
+   "cloud_sent_share": 0.5633,
+   "cloud_accepted_share": 0.5633,
    "accepted_money_precision": 0.9567,
    "accepted_all3_precision": 0.8,
    "leak_share": 0.0433,
@@ -207,7 +213,8 @@
     "T3": 0.5167,
     "T4": 0.0033
    },
-   "cloud_share": 0.52,
+   "cloud_sent_share": 0.5633,
+   "cloud_accepted_share": 0.52,
    "accepted_money_precision": 0.9686,
    "accepted_all3_precision": 0.8188,
    "leak_share": 0.03,
@@ -232,7 +239,8 @@
     "T3": 0.1533,
     "T4": 0.0
    },
-   "cloud_share": 0.1533,
+   "cloud_sent_share": 0.19,
+   "cloud_accepted_share": 0.1533,
    "accepted_money_precision": 0.9446,
    "accepted_all3_precision": 0.7855,
    "leak_share": 0.0533,
@@ -257,7 +265,8 @@
     "T3": 0.28,
     "T4": 0.0
    },
-   "cloud_share": 0.28,
+   "cloud_sent_share": 0.28,
+   "cloud_accepted_share": 0.28,
    "accepted_money_precision": 0.91,
    "accepted_all3_precision": 0.69,
    "leak_share": 0.09,
@@ -282,7 +291,8 @@
     "T3": 0.2433,
     "T4": 0.0
    },
-   "cloud_share": 0.2433,
+   "cloud_sent_share": 0.28,
+   "cloud_accepted_share": 0.2433,
    "accepted_money_precision": 0.917,
    "accepted_all3_precision": 0.7024,
    "leak_share": 0.08,
@@ -307,7 +317,8 @@
     "T3": 0.0667,
     "T4": 0.0
    },
-   "cloud_share": 0.0667,
+   "cloud_sent_share": 0.0967,
+   "cloud_accepted_share": 0.0667,
    "accepted_money_precision": 0.8969,
    "accepted_all3_precision": 0.6804,
    "leak_share": 0.1,
@@ -332,7 +343,8 @@
     "T3": 0.0,
     "T4": 0.0
    },
-   "cloud_share": 0.0,
+   "cloud_sent_share": 0.0,
+   "cloud_accepted_share": 0.0,
    "accepted_money_precision": 0.9342,
    "accepted_all3_precision": 0.7654,
    "leak_share": 0.0533,
@@ -357,7 +369,8 @@
     "T3": 0.0,
     "T4": 0.0
    },
-   "cloud_share": 0.0,
+   "cloud_sent_share": 0.0,
+   "cloud_accepted_share": 0.0,
    "accepted_money_precision": 0.8893,
    "accepted_all3_precision": 0.6642,
    "leak_share": 0.1,
@@ -365,6 +378,21 @@
    "costed_receipts": 300,
    "latency_ms_median": 5081
   }
+ },
+ "learned": {
+  "router_cloud_share": 0.5633,
+  "router_precision": 0.9567,
+  "precision_at_router_share": 0.9566666666666667,
+  "share_at_router_share": 0.56,
+  "cost_at_router_share": 0.3,
+  "cloud_share_at_router_precision": 0.61,
+  "win_precision": false,
+  "win_share": false,
+  "oracle_cloud_share": 0.2733,
+  "oracle_precision": 0.9867,
+  "auc": 0.8854329827701947,
+  "n": 300,
+  "mode": "5-fold out-of-fold"
  },
  "synth": {
   "Date traps": {

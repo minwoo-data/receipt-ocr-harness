@@ -64,6 +64,19 @@ def main() -> None:
 
     policies = {p["policy"]: p for p in (jload(ROOT / "results" / "harness" / "policies.json") or [])}
     numbers["policies"] = policies
+    # Routing table: sent to cloud | review | accepted right | USD / 1k, every cell from JSON.
+    def cells(sent, review, prec, usd):
+        usd_txt = "0" if not usd else f"{usd:.2f}"
+        return "".join(f'<td class="num">{v}</td>' for v in (f"{sent*100:.0f}%", f"{review*100:.0f}%", f"{prec*100:.1f}%", usd_txt))
+    for name in ("oracle", "router", "harness", "local_only"):
+        p = policies.get(name)
+        if p:
+            html = html.replace(f"[pol:{name}]", cells(p["cloud_sent_share"], p["review_share"], p["accepted_money_precision"], p["cost_usd_per_1k"]))
+    lr = jload(ROOT / "results" / "learned_router" / "curve.json")
+    if lr:
+        hd = lr["headline"]; numbers["learned"] = hd
+        html = html.replace("[pol:learned]", cells(hd["share_at_router_share"], 0.0, hd["precision_at_router_share"], hd["cost_at_router_share"]))
+        html = html.replace("[lr:auc]", f"{hd['auc']:.2f}")
 
     synth = jload(ROOT / "results" / "synth" / f"eval_{args.cloud}.json")
     if synth:
@@ -106,7 +119,7 @@ def main() -> None:
 
     POSTER.write_text(html, encoding="utf-8")
     (ROOT / "poster" / "numbers.json").write_text(json.dumps(numbers, indent=1, ensure_ascii=False), encoding="utf-8")
-    left = [tok for tok in ("[T1]", "[T2]", "[T3]", "[T4]", "[n]", "[b1]", "[g1]", "[finding") if tok in html]
+    left = [tok for tok in ("[T1]", "[T2]", "[T3]", "[T4]", "[n]", "[b1]", "[g1]", "[finding", "[pol:", "[lr:") if tok in html]
     print("placeholders still unfilled:", left or "none")
 
 

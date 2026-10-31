@@ -28,12 +28,12 @@ def sec(ms): return f"{ms / 1000:.1f}" if ms < 10000 else f"{ms / 1000:.0f}"
 h, lo = P["harness"], P["local_only"]
 N = h["n"]
 t1 = h["tier_share"]["T1"]
-sentA = 1 - t1                                   # receipts the harness sends past T1 (to T3, or to T2 in local-only)
+sentA = h["cloud_sent_share"]                    # image reached a cloud tier (T3, and T4 after it)
 t3acc, t4acc, revA = h["tier_share"]["T3"], h["tier_share"]["T4"], h["review_share"]
 toT4 = t4acc + revA
 t2acc, revB = lo["tier_share"]["T2"], lo["review_share"]
 assert abs(sentA - (t3acc + toT4)) < 0.002 and abs(sentA - (t2acc + revB)) < 0.002, "tier shares do not add up"
-assert abs(lo["tier_share"]["T1"] - t1) < 1e-9
+assert abs(lo["tier_share"]["T1"] - t1) < 1e-9 and abs(sentA - (1 - t1)) < 0.002 and lo["cloud_sent_share"] == 0
 alone = {k: P[v] for k, v in (("T1", "all_local"), ("T2", "all_qwen"), ("T3", "all_lite"), ("T4", "all_strong"))}
 def stat(k):
     a = alone[k]; return pct(a["accepted_money_precision"]), sec(a["latency_ms_median"]), a["cost_usd_per_1k"], a["latency_ms_median"]
@@ -41,8 +41,8 @@ V = dict(t1=pct(t1), sent=pct(sentA), t3=pct(t3acc), t4=pct(t4acc), toT4=pct(toT
          accA=pct(h["auto_accept_share"]), accB=pct(lo["auto_accept_share"]), nrevA=round(revA * N), nrevB=round(revB * N), n=N,
          precA=pct(h["accepted_money_precision"]), precB=pct(lo["accepted_money_precision"]), costA=f"{h['cost_usd_per_1k']:.2f}",
          latA=sec(h["latency_ms_median"]), latB=sec(lo["latency_ms_median"]),
-         oracle_cloud=pct(P["oracle"]["cloud_share"]), oracle_prec=pct(P["oracle"]["accepted_money_precision"]),
-         router_cloud=pct(P["router"]["cloud_share"]), router_prec=pct(P["router"]["accepted_money_precision"]),
+         oracle_cloud=pct(P["oracle"]["cloud_sent_share"]), oracle_prec=pct(P["oracle"]["accepted_money_precision"]),
+         router_cloud=pct(P["router"]["cloud_sent_share"]), router_prec=pct(P["router"]["accepted_money_precision"]),
          wA=pct(PW["harness"]["accepted_money_precision"]), wArev=pct(PW["harness"]["review_share"]),
          wB=pct(PW["local_only"]["accepted_money_precision"]), wBrev=pct(PW["local_only"]["review_share"]),
          c2=W["t2"]["errors_caught"], e2=W["t2"]["model_errors"], c3=W["t3"]["errors_caught"], e3=W["t3"]["model_errors"],

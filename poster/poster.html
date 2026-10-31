@@ -45,6 +45,7 @@
   th, td { text-align:left; padding:2pt 3.5pt; border-bottom:1px solid var(--grid); vertical-align:top; }
   th { color:var(--ink2); font-weight:normal; font-size:7.5pt; text-transform:uppercase; letter-spacing:0.3pt; }
   td.num, th.num { text-align:right; font-variant-numeric:tabular-nums; }
+  th.num { white-space:nowrap; }
   .swatch { display:inline-block; width:7pt; height:7pt; border-radius:2pt; margin-right:3pt; }
   .find { border-left:4px solid var(--t1); padding-left:8pt; }
   .find li { margin-bottom:3pt; font-size:8.2pt; line-height:1.25; }
@@ -120,11 +121,11 @@
       
       <section>
         <table>
-          <tr><th>Routing policy (300 scans)</th><th class="num">cloud</th><th class="num">review</th><th class="num">accepted right</th><th class="num">USD / 1k</th></tr>
+          <tr><th>Routing policy (300 scans)</th><th class="num">sent to cloud</th><th class="num">review</th><th class="num">accepted right</th><th class="num">USD / 1k</th></tr>
           <tr><td>Oracle (knows the answers)</td><td class="num">27%</td><td class="num">0%</td><td class="num">98.7%</td><td class="num">0.15</td></tr>
           <tr><td>Rule router: both OCR readers agree, confidence &ge; 0.9</td><td class="num">56%</td><td class="num">0%</td><td class="num">95.7%</td><td class="num">0.30</td></tr>
-          <tr><td>Rule router + code checks (harness)</td><td class="num">52%</td><td class="num">4%</td><td class="num">96.9%</td><td class="num">0.37</td></tr>
-          <tr><td>Learned signal, 13 features, AUC 0.89 (out of fold)</td><td class="num">61%</td><td class="num">0%</td><td class="num">95.7%</td><td class="num">0.33</td></tr>
+          <tr><td>Rule router + code checks (harness)</td><td class="num">56%</td><td class="num">4%</td><td class="num">96.9%</td><td class="num">0.37</td></tr>
+          <tr><td>Learned signal, 13 features, AUC 0.89 (out of fold)</td><td class="num">56%</td><td class="num">0%</td><td class="num">95.7%</td><td class="num">0.30</td></tr>
           <tr><td>Local only: T1, then local VLM with checks, else review</td><td class="num">0%</td><td class="num">19%</td><td class="num">93.4%</td><td class="num">0</td></tr>
         </table>
       </section>
