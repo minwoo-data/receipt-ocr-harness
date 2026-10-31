@@ -37,3 +37,5 @@ T1 72.7% / T2 83.0% (28 s) / T3 97.3% ($0.54 per 1k) / T4 98.0% ($1.42). Oracle 
 A/B/C done and committed (poster v3). Remaining: user review -> "공개해" -> repo public -> user uploads PDF -> hub done.
 
 ## 13:10 ET: added policy local_only (T1 self-signal -> local VLM with checks -> review, no cloud). SROIE 93.4% precision / 19% review / $0; Wild 89.0% / 31.5%. Not yet on the poster (README candidate).
+
+## 13:50 ET: poster v4 (simplified: terms box with oracle/AUC, routing summary table incl. local-only; retry table and Fig C dropped). docs/OVERVIEW.ko.md = Korean narrative + mermaid flow + data-residency checklist.
