@@ -80,11 +80,16 @@ def numbers() -> dict:
         auc=f"{LR['auc']:.2f}", n_features=len(FEATURE_NAMES), lr_share=pct(LR["share_at_router_share"], 0),
         lr_prec=pct(LR["precision_at_router_share"]),
     )
-    V["scan_gap"] = f"{(h['accepted_money_precision'] - lo['accepted_money_precision']) * 100:.1f}"
-    # strong vs cheap cloud tier: accuracy gain in points and price ratio, from unrounded values
-    lite, strong = P["all_lite"], P["all_strong"]
-    V["strong_gain"] = f"{(strong['accepted_money_precision'] - lite['accepted_money_precision']) * 100:.1f}"
-    V["strong_ratio"] = f"{strong['cost_usd_per_1k'] / lite['cost_usd_per_1k']:.1f}"
+    # Differences and ratios are computed from the printed (rounded) values, so a reader's own arithmetic matches.
+    f = lambda key: float(V[key].rstrip("%"))
+    V["scan_gap"] = f"{f('precA') - f('precB'):.1f}"
+    V["cloud_gap"] = f"{f('aT3') - f('precA'):.1f}"
+    V["cost_cut"] = pct(1 - float(V["costA"]) / float(V["cT3"]), 0)
+    V["t1i"] = pct(t1, 0)
+    V["leakA"], V["leakB"] = round(h["leak_share"] * n), round(lo["leak_share"] * n)
+    # strong vs cheap cloud tier: accuracy gain in points and price ratio, from the printed values
+    V["strong_gain"] = f"{f('aT4') - f('aT3'):.1f}"
+    V["strong_ratio"] = f"{float(V['cT4']) / float(V['cT3']):.1f}"
     # adversarial set (cloud, cheap)
     cat = lambda *ks: {f: sum(SY[k][f] for k in ks) for f in ("n", "fooled", "expected_fired", "leaked")}
     inj, trap = cat("inject_blatant", "inject_subtle"), cat("date_blatant", "date_subtle", "amount_blatant", "amount_subtle")

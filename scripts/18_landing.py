@@ -61,7 +61,7 @@ steps = [
     ("1", "Receipt image arrives", "file check, resized (1,600 px for the cloud, 1,024 px for the local VLM)"),
     ("2", "T1 reads every receipt, locally", "RapidOCR text, Tesseract as a second witness, rules pull vendor / date / total"),
     ("3", f"T1 sure → auto-accept · {V['t1']}", "both OCR readers agree on date and total AND OCR confidence ≥ 0.9"),
-    ("4", f"Not sure → T3 Gemini Flash-Lite · {V['sent']}", f"the only step where the image leaves the machine; checks pass → auto-accept ({V['t3']})"),
+    ("4", f"Not sure → T3 Gemini Flash-Lite · {V['sent']}", f"the image leaves the machine only for the cloud readers (steps 4 and 5); checks pass → auto-accept ({V['t3']})"),
     ("5", f"Checks flag T3 → T4 Gemini Flash · {V['toT4']}", f"zero flags → auto-accept ({V['t4']})"),
     ("6", f"Still flagged → human review · {V['revA']}", f"{V['nrevA']} of {V['n']} receipts"),
     ("B", f"Local only: step 4 goes to T2 Qwen2.5-VL · {V['sent']}", f"zero flags → auto-accept ({V['t2']}); flagged → human review ({V['revB']})"),
@@ -144,7 +144,7 @@ page = f"""<!doctype html>
 <header>
   <h1>LLM reads, <span>code verifies</span></h1>
   <p class="lead">A routing and verification harness for receipt OCR: local readers first, cloud models when code checks fail, people last.</p>
-  <p class="who"><b>Minwoo Park</b> · MISM, Business Intelligence &amp; Data Analytics (AI Management) · Carnegie Mellon University</p>
+  <p class="who"><b>Minwoo Park</b> · MISM, Business Intelligence &amp; Data Analytics (AI Management) · Carnegie Mellon University · <b>Seeking a Summer 2027 ML/AI engineering internship</b></p>
   <div class="links">
     <a class="primary" href="{REPO}">Code on GitHub</a>
     <a href="{REPO}#readme">Full results</a>
@@ -174,8 +174,8 @@ page = f"""<!doctype html>
 </div>
 <div class="lbl">With no answer key, the checks caught</div>
 <div class="stats">
-  <div class="stat"><div class="v">{V['c2']} of {V['e2']}</div><div class="c">wrong answers from the local model</div></div>
-  <div class="stat"><div class="v">{V['c3']} of {V['e3']}</div><div class="c">wrong answers from the cloud model</div></div>
+  <div class="stat"><div class="v">{V['c2']} of {V['e2']}</div><div class="c">wrong answers from the local VLM (scans)</div></div>
+  <div class="stat"><div class="v">{V['c3']} of {V['e3']}</div><div class="c">wrong answers from Flash-Lite (scans)</div></div>
 </div>
 <p>{V['synth_n']} adversarial receipts: {V['inj_n']} prompt injections, {V['inj_fooled']} fooled; {V['trap_n']} date and arithmetic traps, all caught; {V['synth_leaked']} leaked.</p>
 
@@ -183,10 +183,10 @@ page = f"""<!doctype html>
 <p class="ans">Local first, cloud when the checks fail, people last.</p>
 <figure><div class="img"><a href="assets/fig_outcomes.png" aria-label="Open the full-size chart"><img src="assets/fig_outcomes.png" alt="Stacked bars: where {V['n']} scanned receipts end up under each routing policy, with accepted-answer accuracy and cost per 1,000"></a></div>
 <figcaption>Tap a chart to open it full size. Where {V['n']} scans end up under each policy, accepted-answer accuracy and USD per 1,000.</figcaption></figure>
-<p>The harness: <b>{V['precA']} correct</b> with {V['senti']} of receipts sent to the cloud and {V['revA']} to people, ${V['costA']} per 1,000 (all cloud: {V['aT3']}, ${V['cT3']}). The strong model adds {V['strong_gain']} points for {V['strong_ratio']}× the price: <b>escalate to people, not to a bigger model.</b></p>
+<p><b>Harness (router + 4 checks): within {V['cloud_gap']} points of all-cloud at {V['cost_cut']} lower cost, and {V['t1i']} of receipts never leave the machine.</b> <b>{V['precA']} correct</b> with {V['senti']} of receipts sent to the cloud and {V['revA']} to people, ${V['costA']} per 1,000 (all cloud: {V['aT3']}, ${V['cT3']}). At 2026-10 prices the strong model adds {V['strong_gain']} points for {V['strong_ratio']}× the price: <b>escalate to people, not to a bigger model.</b></p>
 <figure><div class="img"><a href="assets/fig_sweep.png" aria-label="Open the full-size chart"><img src="assets/fig_sweep.png" alt="Escalation curve: share of receipts sent to the cloud against accepted-answer accuracy, with the oracle router marked"></a></div>
 <figcaption>Share of receipts sent to the cloud vs accuracy as the hand-off threshold moves; ★ = a router that knew the answers.</figcaption></figure>
-<p>A router that knew the answers would send only {V['oracle_cloudi']} to the cloud for {V['oracle_prec']}; the simple rules send {V['router_cloudi']} for {V['router_prec']}. <b>The hard part is knowing when to call the cloud, not the model.</b> A learned &ldquo;call the cloud?&rdquo; score (logistic regression, {V['n_features']} features, out-of-fold AUC {V['auc']}) did no better at the same cloud share, so the two simple rules stayed.</p>
+<p>A router that knew the answers would send only {V['oracle_cloudi']} to the cloud for {V['oracle_prec']}; the router (agree + confidence rule, no checks) sends {V['router_cloudi']} for {V['router_prec']}. <b>The hard part is knowing when to call the cloud, not the model.</b> A learned &ldquo;call the cloud?&rdquo; score (logistic regression, {V['n_features']} features, out-of-fold AUC {V['auc']}) was no better than the router at the same cloud share, so the rule stayed.</p>
 
 <h2 id="local"><span class="n">3</span>What if the data can't leave?</h2>
 <p class="ans">Run local-only: same checks, more human review.</p>
@@ -197,7 +197,7 @@ page = f"""<!doctype html>
 </table></div>
 <p>On phone photos the two modes match on accuracy and differ only in review load; on scans local only gives up {V['scan_gap']} points. <b>Keeping data in costs mostly people's time.</b></p>
 <p>In cloud mode the image leaves the machine at one step only; every check and routing decision runs locally.</p>
-<p>Check rules are domain assets: a rule built from scan errors caught {V['d_caught']} of {V['leak_other']} there with no false alarms, but {V['d_wild_caught_rcpt']} receipt on held-out photos, with {V['d_wild_false_rcpt']} false alarm.</p>
+<p>Check rules are per domain: a check tuned on scan errors caught {V['d_caught']} of {V['leak_other']} there with no false alarms, but {V['d_wild_caught_rcpt']} receipt on held-out photos, with {V['d_wild_false_rcpt']} false alarm.</p>
 <div class="lbl">Next</div>
 <p>10k receipts; invoices and statements; layout features for the hand-off decision; a weekly drift metric.</p>
 

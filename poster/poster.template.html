@@ -60,11 +60,12 @@
   th, td { text-align:left; padding:2pt 4pt; border-bottom:1pt solid var(--grid); vertical-align:top; }
   th { color:var(--ink2); font-weight:normal; font-size:9pt; }
   td.num, th.num { text-align:right; font-variant-numeric:tabular-nums; } th.num { white-space:nowrap; }
+  .col:first-child table th, .col:first-child table td { padding:1.6pt 4pt; }
   .sw { display:inline-block; width:8pt; height:8pt; margin-right:4pt; vertical-align:-0.5pt; }
   table.q3 th, table.q3 td { padding:2.5pt 5pt; } table.q3 td b { font-size:11.5pt; }
 
   .fig { display:block; max-width:100%; height:auto; margin:0 auto; }
-  .figA { max-height:4.0in; } .figB { max-height:2.75in; }
+  .figA { max-height:3.33in; } .figB { max-height:2.75in; }
 
   .cmp { display:grid; grid-template-columns:auto 1fr 1fr; gap:2pt 8pt; align-items:baseline; }
   .cmp .h { font-size:9pt; color:var(--ink2); border-bottom:1pt solid var(--grid); }
@@ -82,8 +83,8 @@
   <header class="hdr">
     <div>
       <h1>LLM reads, <span>code verifies</span></h1>
-      <div class="sub">Can you trust what an LLM reads? When should it call the cloud? What if the data can't leave?</div>
-      <div class="who"><b>Minwoo Park</b> &middot; MISM, Business Intelligence &amp; Data Analytics (AI Management) &middot; Carnegie Mellon University</div>
+      <div class="sub">Receipt date and total: code checks, not model confidence, decide accept, cloud or person.</div>
+      <div class="who"><b>Minwoo Park</b> &middot; MISM, Business Intelligence &amp; Data Analytics (AI Management) &middot; Carnegie Mellon University &middot; <b>Seeking a Summer 2027 ML/AI engineering internship</b></div>
     </div>
     <div class="qrbox">
       <div class="qr"><img src="qr_minwoopark.png" alt="QR to portfolio">Portfolio &amp; resume</div>
@@ -94,12 +95,12 @@
   <div class="cols">
     <div class="col">
       <section class="blk">
-        <h2>From production</h2>
+        <h2>From production <span style="font-size:10pt;font-weight:normal;color:var(--ink2)">(a private expense platform)</span></h2>
         <ul>
+          <li><b>Rolled back</b> confidence-based auto-approval: why this harness exists</li>
           <li><b>90%+</b> less reconciliation time &middot; sole engineer &middot; 729 PRs</li>
           <li><b>7 LLMs</b> benchmarked on a hand-built 90-receipt, 8-currency set</li>
           <li><b>87 s &rarr; 10 s</b> worst-case latency with Gemini &rarr; Claude failover</li>
-          <li><b>Rolled back</b> confidence-based auto-approval: why this harness exists</li>
         </ul>
       </section>
       <section class="blk">
@@ -107,7 +108,7 @@
         <p class="ans">Not its confidence. Check every answer with code.</p>
       </section>
       <div class="gates">
-        <b>Four checks on every model answer (no answer key, no model confidence)</b>
+        <b>Four checks on every model answer</b>
         <div class="row">
           <span class="gate"><b>Sanitizer:</b> injection patterns in EN/KO/JA/ZH, field whitelist</span>
           <span class="gate"><b>Arithmetic:</b> subtotal + tax + tip + discount = total</span>
@@ -115,16 +116,17 @@
           <span class="gate"><b>Two-reader:</b> the total and date must appear in the OCR text</span>
         </div>
         <div class="route">Zero flags &rarr; <span class="acc">auto-accept</span>. Flagged &rarr; escalate one rung &rarr; still flagged &rarr; <span class="rev">human review</span>.</div>
+        <div><b>Misses pass</b> ({{leakA}} of {{n}} in cloud mode); backstops: an audit sample, card-statement matching.</div>
       </div>
       <section class="blk">
         <b>With no answer key, the checks caught</b>
         <div class="stats">
-          <div class="stat"><div class="v num">{{c2}} of {{e2}}</div><div class="c">wrong answers from the local model</div></div>
-          <div class="stat"><div class="v num">{{c3}} of {{e3}}</div><div class="c">wrong answers from the cloud model</div></div>
+          <div class="stat"><div class="v num">{{c2}} of {{e2}}</div><div class="c">wrong answers from the local VLM (scans)</div></div>
+          <div class="stat"><div class="v num">{{c3}} of {{e3}}</div><div class="c">wrong answers from Flash-Lite (scans)</div></div>
         </div>
       </section>
       <table>
-        <tr><th>Adversarial set (cloud, cheap)</th><th class="num">n</th><th class="num">model fooled</th><th class="num">gate fired</th><th class="num">leaked</th></tr>
+        <tr><th>Adversarial set (cloud, cheap)</th><th class="num">n</th><th class="num">model fooled</th><th class="num">as expected</th><th class="num">leaked</th></tr>
         <tr><td>Date traps</td><td class="num">[n]</td><td class="num">[f]</td><td class="num">[c]</td><td class="num">[l]</td></tr>
         <tr><td>Arithmetic traps</td><td class="num">[n]</td><td class="num">[f]</td><td class="num">[c]</td><td class="num">[l]</td></tr>
         <tr><td>Injection, blatant</td><td class="num">[n]</td><td class="num">[f]</td><td class="num">[c]</td><td class="num">[l]</td></tr>
@@ -144,8 +146,9 @@
           <div class="rung t1"><b>T1 &middot; OCR + rules</b><span>RapidOCR + Tesseract &middot; CPU &middot; $0</span></div>
           <div class="rung t2"><b>T2 &middot; local VLM</b><span>Qwen2.5-VL 3B &middot; 4 GB GPU &middot; $0</span></div>
           <div class="rung t3"><b>T3 &middot; cloud, cheap</b><span>Gemini 3.1 Flash-Lite &middot; ${{cT3}} per 1k</span></div>
-          <div class="rung t4"><b>T4 &middot; cloud, strong</b><span>Gemini 3.6 Flash &middot; ${{cT4}} per 1k</span><span>Claude failover</span></div>
+          <div class="rung t4"><b>T4 &middot; cloud, strong</b><span>Gemini 3.6 Flash &middot; ${{cT4}} per 1k</span></div>
         </div>
+        <div class="cap"><b>Cloud mode:</b> T1 &rarr; T3 &rarr; T4 &rarr; people &middot; <b>Local only:</b> T1 &rarr; T2 &rarr; people</div>
       </section>
       <table>
         <tr><th>Each reader alone</th><th class="num">scans: date + total</th><th class="num">phone photos</th><th class="num">median</th></tr>
@@ -158,30 +161,30 @@
         <img class="fig figA" src="../results/figures/fig_outcomes.png" alt="Where receipts end up under each policy">
         <div class="cap"><b>Fig A.</b> Where {{n}} scans end up under each policy, accepted-answer accuracy and USD per 1,000.</div>
       </section>
-      <p>The harness: <b>{{precA}} correct</b> with {{senti}} of receipts sent to the cloud and {{revA}} to people, ${{costA}} per 1,000 (all cloud: {{aT3}}, ${{cT3}}). The strong model adds {{strong_gain}} points for {{strong_ratio}}&times; the price: <b>escalate to people, not to a bigger model.</b></p>
+      <p><b>Harness (router + 4 checks): within {{cloud_gap}} points of all-cloud at {{cost_cut}} lower cost, and {{t1i}} of receipts never leave the machine.</b> {{precA}} correct, {{revA}} to people, ${{costA}} per 1,000 (all cloud {{aT3}}, ${{cT3}}). At 2026-10 prices the strong model adds {{strong_gain}} points for {{strong_ratio}}&times; the price: <b>escalate to people, not to a bigger model.</b></p>
     </div>
 
     <div class="col">
       <section class="blk">
         <img class="fig figB" src="../results/figures/fig_sweep.png" alt="Escalation curve">
         <div class="cap"><b>Fig B.</b> Share of receipts sent to the cloud vs accuracy as the hand-off threshold moves; &#9733; = a router that knew the answers.</div>
-        <p>A router that knew the answers would send only {{oracle_cloudi}} to the cloud for {{oracle_prec}}; the simple rules send {{router_cloudi}} for {{router_prec}}. <b>The hard part is knowing when to call the cloud, not the model.</b> A learned &ldquo;call the cloud?&rdquo; score ({{n_features}} features, out-of-fold AUC {{auc}}) did no better, so the two simple rules stayed.</p>
+        <p>A router that knew the answers would send only {{oracle_cloudi}} to the cloud for {{oracle_prec}}; the router (agree + confidence rule, no checks) sends {{router_cloudi}} for {{router_prec}}. <b>The hard part is knowing when to call the cloud, not the model.</b> A learned &ldquo;call the cloud?&rdquo; score ({{n_features}} features, out-of-fold AUC {{auc}}) was no better than the router, so the rule stayed.</p>
       </section>
       <section class="blk">
         <h2><span class="n">3</span>What if the data can't leave?</h2>
         <p class="ans">Run local-only: same checks, more human review.</p>
       </section>
       <table class="q3">
-        <tr><th></th><th class="num">Cloud harness</th><th class="num">Local only</th></tr>
+        <tr><th></th><th class="num">Cloud mode</th><th class="num">Local only</th></tr>
         <tr><td>Scans: correct</td><td class="num"><b>{{precA}}</b></td><td class="num"><b>{{precB}}</b></td></tr>
         <tr><td>Scans: to people</td><td class="num">{{revA}}</td><td class="num">{{revB}}</td></tr>
-        <tr><td>Scans: USD per 1k</td><td class="num">${{costA}}</td><td class="num">$0</td></tr>
+        <tr><td>Scans: USD per 1k, people time not priced</td><td class="num">${{costA}}</td><td class="num">$0</td></tr>
         <tr><td>Photos: correct</td><td class="num"><b>{{wA}}</b></td><td class="num"><b>{{wB}}</b></td></tr>
         <tr><td>Photos: to people</td><td class="num">{{wArev}}</td><td class="num">{{wBrev}}</td></tr>
       </table>
       <section class="blk" style="gap:7pt">
-        <p>Photos: same accuracy, more review; scans: {{scan_gap}} points lower. <b>Keeping data in costs mostly people's time.</b> In cloud mode only step 4 sends the image out; checks and routing stay local.</p>
-        <p>Check rules are domain assets: one built from scan errors caught {{d_caught}} of {{leak_other}} there, but {{d_wild_caught_rcpt}} receipt on held-out photos, with {{d_wild_false_rcpt}} false alarm.</p>
+        <p>Photos: same accuracy, more review; scans: {{scan_gap}} points lower. <b>Keeping data in costs mostly people's time.</b> Only the cloud readers (T3, T4) see the image; checks and routing stay local.</p>
+        <p>Check rules are per domain: a check tuned on scan errors caught {{d_caught}} of {{leak_other}} on scans, but {{d_wild_caught_rcpt}} receipt on held-out photos, with {{d_wild_false_rcpt}} false alarm.</p>
         <p><b>Next:</b> 10k receipts; invoices and statements; layout features for the hand-off decision; a weekly drift metric.</p>
       </section>
     </div>
