@@ -1,0 +1,37 @@
+<!doctype html><html lang="kr"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>영수증 OCR 하네스: 영수증 한 장의 처리 흐름</title>
+<style>body{margin:0;background:#fff;color:#0b0b0b;font-family:Arial,"Malgun Gothic",sans-serif;line-height:1.4} .wrap{max-width:1700px;margin:0 auto;padding:16px 22px}
+h1{font-size:24px;margin:0 0 4px} .sub{color:#52514e;font-size:14px;margin-bottom:10px} h2{font-size:16px;margin:14px 0 6px}
+.lane{border:1.5px solid #e1e0d9;border-radius:12px;padding:8px 12px;margin-bottom:12px} .mermaid{font-size:13px} .note{font-size:13px;color:#52514e;margin-top:8px}</style>
+<script src="https://cdn.jsdelivr.net/npm/mermaid@11.4.1/dist/mermaid.min.js"></script></head>
+<body><div class="wrap"><h1>영수증 OCR 하네스: 영수증 한 장의 처리 흐름</h1><div class="sub">화살표 숫자 = SROIE 스캔 300장 중 그 길을 지난 비율(2026-10-31 실행). 모델의 self-reported confidence 는 어디서도 승인에 쓰지 않습니다.</div>
+<section class="lane"><h2>A. 클라우드 가능: 자동승인 정확도 96.9%, 사람 검토 4.3%, 클라우드 호출 52%, $0.37 / 1k, 중앙 6초</h2><pre class="mermaid">flowchart LR
+  IN([영수증 이미지]) --> T1[T1 로컬 OCR + 규칙<br/>RapidOCR 텍스트 + Tesseract 증인<br/>규칙으로 vendor / date / total<br/>단독 72.7%, 4.7초, $0]
+  T1 --> SIG{T1 자기 신호<br/>두 OCR 의 날짜·총액 일치<br/>AND OCR confidence >= 0.9?}
+  SIG -- 예 43.7% --> ACC1([자동승인])
+  SIG -- 아니오 56.3% --> T3[T3 Gemini 3.1 Flash-Lite<br/>같은 prompt + JSON schema<br/>단독 97.3%, 1.8초, $0.54 / 1k]
+  T3 -. 429 / 503 .-> FB[Vendor fallback<br/>Gemini 429/503 -> fast-fail 1회 -> Claude Haiku<br/>연속 3회 실패 시 circuit breaker 60초]
+  FB -.-> G3
+  T3 --> G3{코드 검증 (정답 없이)<br/>1 sanitizer: NFKC, EN/KO/JA/ZH injection 패턴, 화이트리스트, 타입<br/>2 arithmetic: subtotal+tax+tip+discount = total (0.05, 결측은 0 아님)<br/>3 날짜 타당성<br/>4 two-reader: 모델의 총액·날짜가 OCR 텍스트에 있는가}
+  G3 -- 플래그 0개 51.7% --> ACC2([자동승인])
+  G3 -- 플래그 1개 이상 4.6% --> T4[T4 Gemini 3.6 Flash, thinking off<br/>단독 98.0%, 1.9초, $1.42 / 1k]
+  T4 --> G4{코드 검증 (정답 없이)<br/>1 sanitizer: NFKC, EN/KO/JA/ZH injection 패턴, 화이트리스트, 타입<br/>2 arithmetic: subtotal+tax+tip+discount = total (0.05, 결측은 0 아님)<br/>3 날짜 타당성<br/>4 two-reader: 모델의 총액·날짜가 OCR 텍스트에 있는가}
+  G4 -- 플래그 0개 0.3% --> ACC3([자동승인])
+  G4 -- 플래그 1개 이상 4.3% --> REV([사람 검토])
+  classDef t1 fill:#dce9fa,stroke:#2a78d6; classDef t3 fill:#d9f3e9,stroke:#1baf7a; classDef t4 fill:#fbefcf,stroke:#eda100;
+  classDef acc fill:#e3f6e3,stroke:#0ca30c; classDef rev fill:#fae0e0,stroke:#d03b3b; classDef fb fill:#f3f2ee,stroke:#898781;
+  class T1 t1; class T3 t3; class T4 t4; class ACC1,ACC2,ACC3 acc; class REV rev; class FB fb;</pre></section>
+<section class="lane"><h2>B. 로컬 전용(데이터 반출 없음): 자동승인 정확도 93.4%, 사람 검토 19%, $0, 중앙 27초</h2><pre class="mermaid">flowchart LR
+  IN([영수증 이미지]) --> T1[T1 로컬 OCR + 규칙<br/>RapidOCR 텍스트 + Tesseract 증인<br/>규칙으로 vendor / date / total<br/>단독 72.7%, 4.7초, $0]
+  T1 --> SIG{T1 자기 신호<br/>두 OCR 의 날짜·총액 일치<br/>AND OCR confidence >= 0.9?}
+  SIG -- 예 43.7% --> ACC1([자동승인])
+  SIG -- 아니오 56.3% --> T2[T2 로컬 VLM Qwen2.5-VL 3B (Ollama)<br/>같은 prompt + JSON schema<br/>단독 83.0%, RTX 2050 에서 28초, $0]
+  T2 --> G2{코드 검증 (정답 없이)<br/>1 sanitizer: NFKC, EN/KO/JA/ZH injection 패턴, 화이트리스트, 타입<br/>2 arithmetic: subtotal+tax+tip+discount = total (0.05, 결측은 0 아님)<br/>3 날짜 타당성<br/>4 two-reader: 모델의 총액·날짜가 OCR 텍스트에 있는가}
+  G2 -- 플래그 0개 37.3% --> ACC2([자동승인])
+  G2 -- 플래그 1개 이상 19.0% --> REV([사람 검토])
+  classDef t1 fill:#dce9fa,stroke:#2a78d6; classDef t2 fill:#fde3d6,stroke:#eb6834;
+  classDef acc fill:#e3f6e3,stroke:#0ca30c; classDef rev fill:#fae0e0,stroke:#d03b3b;
+  class T1 t1; class T2 t2; class ACC1,ACC2 acc; class REV rev;</pre></section>
+<div class="note">읽는 법: A 레인에서 43.7%는 T1 에서, 51.7%는 T3 에서, 0.3%는 T4 에서 자동승인되고 4.3%가 사람에게 갑니다. 코드 검증은 Flash-Lite 오류 8건 중 5건, 로컬 VLM 오류 51건 중 38건을 잡았습니다. 정답을 아는 오라클은 27%만 클라우드로 보내고 98.7%: 병목은 모델이 아니라 승격 신호입니다.</div>
+<div class="note">Sources: ICDAR 2019 SROIE (CC-BY-4.0), WildReceipt, Tesseract 5.4, RapidOCR, Qwen2.5-VL via Ollama, Google Gemini API pricing 2026-10-31. github.com/minwoo-data/receipt-ocr-harness</div></div>
+<script>mermaid.initialize({startOnLoad:true, theme:'neutral', flowchart:{curve:'basis', nodeSpacing:30, rankSpacing:40}});</script></body></html>
