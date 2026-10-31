@@ -1,0 +1,28 @@
+# receipt-ocr-harness: map for AI assistants
+
+Read first: `docs/CONTEXT.md` (working state, decisions, remaining steps), then `README.md` (results tables), then `docs/plan-abc.md` (analysis plan, triad-reviewed).
+
+## What this repository is
+A routing and verification harness for receipt OCR, measured on SROIE 300 (scans), WildReceipt 200 (photos) and 43 synthetic adversarial receipts, built for a poster (Heinz Reverse Career Fair, 2026-11-04). The model reads; deterministic code verifies and routes (auto-accept / escalate / human review). Model self-confidence is never used to approve.
+
+## Layout (do not move without updating the paths below)
+| Path | Role |
+|---|---|
+| `src/harness/` | library: `normalize.py` (canonical forms), `rules.py` (tier-1 field extraction), `verify.py` (code checks), `scoring.py`, `features.py` (learned-signal features), `engines/` (traditional OCR, VLM clients), `keys.py` (key resolution; never prints keys), `vendor_boda/` (adapted from the author's boda project) |
+| `scripts/01..15` | pipeline in numeric order; `run_all.py` runs 04 -> 12 -> 14 -> 06 -> 10 -> 09 |
+| `data/manifest/*.jsonl` | the only ground-truth files (`sroie300`, `wild200`, synthetic in `data/synthetic/manifest.jsonl`); `day_first` per manifest |
+| `data/raw/` | downloaded images, git-ignored |
+| `results/` | SROIE 300: `<engine>/<key>.json` raw reads, `scores/`, `harness/` (policies, tau_sweep, waterfall, per_receipt.jsonl = single input contract), `hedge/`, `learned_router/`, `leaks/`, `synth/`, `retry/`, `figures/`, `spend_ledger.json` |
+| `results_wild/` | same structure for WildReceipt 200 |
+| `poster/` | `poster.template.html` + `findings.json` are the sources; `poster.html` and the PDF are generated (10_fill_poster, 09_render_poster) |
+| `docs/` | `OVERVIEW.ko.md` (Korean narrative), `companion.html` (tablet board), `workflow.html` (two-lane process view), `plan-abc.md`, `discussion/` (triad records), `CONTEXT.md` |
+
+## Conventions
+- Numbers in prose carry the run date; machine-readable truth lives in `results*/harness/*.json` and `results*/scores/summary.json`.
+- Every engine output is cached per receipt; runners are resumable; infrastructure failures are not cached.
+- Keys: environment or `~/.config/boda/config.json`; never read, print or commit key values; `.githooks/pre-commit` blocks key-shaped strings; `HARNESS_SPEND_CAP_USD` (default 5) stops paid calls.
+- Heavy local jobs (Ollama, RapidOCR) run one at a time: the machine has 16 GB RAM.
+- Tests: `python -m pytest -q tests` (normalize, rules, verify gates, hedge policy).
+
+## Planned restructure (after the poster is submitted, not before)
+`results/` -> `results/sroie300/`, `results_wild/` -> `results/wild200/`, `poster/` -> `docs/poster/`; introduce `src/harness/paths.py` as the single place for these roots and update scripts 02-15 and the poster image paths (`../results/figures/`).
