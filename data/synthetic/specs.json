@@ -5,7 +5,7 @@
   "variant": "future_2y",
   "printed": {
    "vendor": "BLUE HARBOUR CAFE",
-   "date_printed": "02/11/2026",
+   "date_printed": "02/11/2028",
    "subtotal": 96.4,
    "tax": 5.78,
    "total": 102.18,
@@ -15,7 +15,7 @@
   },
   "truth": {
    "company": "BLUE HARBOUR CAFE",
-   "date": "2026-11-02",
+   "date": "2028-11-02",
    "total": 102.18,
    "expect_flag": "G_DATE",
    "note": "future_2y"

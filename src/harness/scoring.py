@@ -9,22 +9,25 @@ from .normalize import company_key, norm_company, norm_date, norm_total
 FIELDS = ("company", "date", "total")
 
 
-def predicted_fields(rec: dict | None) -> dict:
+def predicted_fields(rec: dict | None, day_first: bool = True) -> dict:
+    """day_first is the receipt's printed date convention (True for SROIE /
+    Malaysia, False for the WildReceipt sample); it only matters for
+    all-numeric dates where both parts are <= 12."""
     if not rec:
         return {"company": None, "date": None, "total": None}
     if "lines" in rec:                         # tier 1: re-run the CURRENT rules on the stored OCR text
-        rr = rules.extract(rec["lines"] or [])
+        rr = rules.extract(rec["lines"] or [], day_first=day_first)
         return {"company": norm_company(rr.company),
-                "date": norm_date(rr.date, day_first=True),
+                "date": norm_date(rr.date, day_first=day_first),
                 "total": norm_total(rr.total)}
     if "fields" in rec:
         f = rec["fields"] or {}
         return {"company": norm_company(f.get("company")),
-                "date": norm_date(f.get("date"), day_first=True),
+                "date": norm_date(f.get("date"), day_first=day_first),
                 "total": norm_total(f.get("total"))}
     data = rec.get("data") or {}              # VLM tiers
     return {"company": norm_company(data.get("vendor")),
-            "date": norm_date(data.get("date"), day_first=True),
+            "date": norm_date(data.get("date"), day_first=day_first),
             "total": norm_total(data.get("total"))}
 
 

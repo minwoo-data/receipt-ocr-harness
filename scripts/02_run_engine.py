@@ -51,7 +51,7 @@ def load_manifest(path: Path) -> list[dict]:
 
 def run_traditional(engine: str, item: dict) -> dict:
     out = traditional.ENGINES[engine](ROOT / item["image"])
-    rr = rules.extract(out["lines"])
+    rr = rules.extract(out["lines"], day_first=item.get("day_first", True))
     out["fields"] = {"company": rr.company, "date": rr.date, "total": rr.total}
     out["rule_reasons"] = rr.reasons
     out["total_candidates"] = rr.total_candidates

@@ -61,7 +61,9 @@ def fig_outcomes(policies: list[dict]) -> None:
     for yi, p in zip(y, rows):
         prec = p["accepted_money_precision"]
         txt = f"{prec*100:.1f}% correct of accepted" if prec is not None else ""
-        ax.text(101, yi, f"{txt}   ${p['cost_usd_per_1k']:.2f}/1k", va="center", ha="left", fontsize=7.5, color=C["ink2"])
+        cost = p.get("cost_usd_per_1k")
+        cost_txt = f"${cost:.2f}/1k" if cost is not None else ""
+        ax.text(101, yi, f"{txt}   {cost_txt}", va="center", ha="left", fontsize=7.5, color=C["ink2"])
     ax.set_yticks(y)
     ax.set_yticklabels([POLICY_LABEL[p["policy"]] for p in rows], fontsize=8.5, color=C["ink"])
     ax.set_xlim(0, 100)
@@ -78,13 +80,16 @@ def fig_outcomes(policies: list[dict]) -> None:
 
 def fig_sweep(sweep: list[dict], policies: list[dict]) -> None:
     fig, ax = plt.subplots(figsize=(4.2, 3.0), dpi=300)
-    for pol, color, name in (("router", C["T3"], "Router (no code checks)"), ("harness", C["T1"], "Harness (code checks)")):
-        pts = sorted([(s["cloud_share"] * 100, s["accepted_money_precision"] * 100, s["tau"]) for s in sweep
-                      if s["policy"] == pol and s["accepted_money_precision"] is not None])
+    import os
+    variant = os.environ.get("SWEEP_VARIANT", "")          # "" (agree) or "_solo"
+    for pol, color, name in ((f"router{variant}", C["T3"], "Router (no code checks)"), (f"harness{variant}", C["T1"], "Harness (code checks)")):
+        pts = sorted({(round(s["cloud_share"] * 100, 2), round(s["accepted_money_precision"] * 100, 2), s["tau"]) for s in sweep
+                      if s["policy"] == pol and s["accepted_money_precision"] is not None})
         ax.plot([p[0] for p in pts], [p[1] for p in pts], color=color, linewidth=2, marker="o", markersize=4, label=name)
-        for x, yv, tau in pts:
-            if tau in (0.0, 0.9, 0.97):
-                ax.annotate(f"τ={tau}", (x, yv), textcoords="offset points", xytext=(4, 4), fontsize=6.5, color=C["ink2"])
+        if pts:
+            for x, yv, tau in (pts[0], pts[-1]):
+                ax.annotate(f"τ={tau:g}", (x, yv), textcoords="offset points", xytext=(4, -9 if pol.startswith("router") else 5),
+                            fontsize=6.5, color=C["ink2"])
     by = {p["policy"]: p for p in policies}
     for key, marker, name in (("oracle", "*", "Oracle router"), ("all_lite", "s", "All cloud (cheap)"), ("all_local", "D", "All local")):
         p = by.get(key)
@@ -105,7 +110,7 @@ def fig_sweep(sweep: list[dict], policies: list[dict]) -> None:
 
 def fig_waterfall(falls: list[dict]) -> None:
     tiers = [w for w in falls if w["n"]]
-    fig, axes = plt.subplots(1, len(tiers), figsize=(1.9 * len(tiers) + 0.6, 2.8), dpi=300, sharey=False)
+    fig, axes = plt.subplots(1, len(tiers), figsize=(1.75 * len(tiers) + 0.4, 1.9), dpi=300, sharey=False)
     if len(tiers) == 1:
         axes = [axes]
     for ax, w in zip(axes, tiers):

@@ -47,17 +47,22 @@ def predicted_fields(rec: dict) -> dict:
             "total": norm_total(data.get("total"))}
 
 
+RESULTS = ROOT / "results"
+
+
 def score_engine(engine: str, manifest: dict[str, dict], out_dir: Path) -> dict | None:
-    res_dir = ROOT / "results" / engine
+    res_dir = RESULTS / engine
     files = sorted(res_dir.glob("*.json"))
     if not files:
         return None
     rows = []
     for f in files:
         rec = json.loads(f.read_text(encoding="utf-8"))
+        if not isinstance(rec, dict) or (rec.get("key") or f.stem) not in manifest:
+            continue
         key = rec.get("key") or f.stem
         gt = manifest[key]["gt"]
-        pred = predicted_fields(rec)
+        pred = predicted_fields(rec, day_first=manifest[key].get("day_first", True))
         correct = {}
         for fld in FIELDS:
             if gt[fld] is None:
@@ -108,11 +113,14 @@ def main() -> None:
     ap = argparse.ArgumentParser()
     ap.add_argument("--manifest", default="data/manifest/sroie300.jsonl")
     ap.add_argument("--engines", nargs="*", default=None)
+    ap.add_argument("--results", default="results", help="results root, e.g. results_wild")
     args = ap.parse_args()
+    global RESULTS
+    RESULTS = ROOT / args.results
     manifest = load_manifest(ROOT / args.manifest)
-    out_dir = ROOT / "results" / "scores"
-    engines = args.engines or sorted(p.name for p in (ROOT / "results").iterdir()
-                                     if p.is_dir() and p.name not in ("scores", "figures", "raw_responses"))
+    out_dir = RESULTS / "scores"
+    skip = {"scores", "figures", "raw_responses", "harness", "synth", "retry"}
+    engines = args.engines or sorted(p.name for p in RESULTS.iterdir() if p.is_dir() and p.name not in skip)
     summaries = [s for s in (score_engine(e, manifest, out_dir) for e in engines) if s]
 
     lines = ["# Engine scores (exact match after normalization)", "",

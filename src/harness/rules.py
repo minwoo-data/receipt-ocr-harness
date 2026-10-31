@@ -95,11 +95,11 @@ def extract_company(lines: list[str]) -> str | None:
     return None
 
 
-def extract_date(lines: list[str]) -> str | None:
+def extract_date(lines: list[str], day_first: bool = True) -> str | None:
     for l in lines:
         m = _DATE_HINT.search(l)
         if m:
-            iso = norm_date(m.group(0), day_first=True)
+            iso = norm_date(m.group(0), day_first=day_first)
             if iso and 2000 <= int(iso[:4]) <= 2035:
                 return iso
     return None
@@ -152,12 +152,12 @@ def extract_total(lines: list[str]) -> tuple[float | None, list[float], str | No
     return None, [], "total_not_found"
 
 
-def extract(lines: list[str]) -> RuleResult:
+def extract(lines: list[str], day_first: bool = True) -> RuleResult:
     r = RuleResult()
     r.company = extract_company(lines)
     if r.company is None:
         r.reasons.append("company_not_found")
-    r.date = extract_date(lines)
+    r.date = extract_date(lines, day_first=day_first)
     if r.date is None:
         r.reasons.append("date_not_found")
     r.total, r.total_candidates, reason = extract_total(lines)

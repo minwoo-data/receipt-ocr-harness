@@ -94,7 +94,8 @@ def apply_trap(r: dict, category: str, variant: str, rng: random.Random) -> dict
     y, m, d = (int(x) for x in r["date_iso"].split("-"))
     if category == "date_blatant":
         if variant == "future_2y":
-            r["date_printed"] = f"{d:02d}/{m:02d}/{y + 2:04d}"; truth["date"] = f"{y + 2:04d}-{m:02d}-{d:02d}"
+            fy = 2028                                       # two years past the experiment date
+            r["date_printed"] = f"{d:02d}/{m:02d}/{fy:04d}"; truth["date"] = f"{fy:04d}-{m:02d}-{d:02d}"
         else:  # past_2009
             r["date_printed"] = f"{d:02d}/{m:02d}/2009"; truth["date"] = f"2009-{m:02d}-{d:02d}"
         truth["expect_flag"] = "G_DATE"

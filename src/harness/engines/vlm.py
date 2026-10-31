@@ -65,6 +65,47 @@ _circuits: dict[str, CircuitBreaker] = {}
 _gemini_client = None
 _claude_client = None
 
+# ---------------------------------------------------------------------------
+# Local spend cap (code-enforced; Google Cloud budgets only alert, they do not
+# stop traffic). Every paid call is appended to results/spend_ledger.json and
+# no paid call is made once the running total reaches HARNESS_SPEND_CAP_USD.
+# ---------------------------------------------------------------------------
+import json as _json
+import os as _os
+import threading as _threading
+
+SPEND_CAP_USD = float(_os.environ.get("HARNESS_SPEND_CAP_USD", "5"))
+_LEDGER = Path(__file__).resolve().parents[3] / "results" / "spend_ledger.json"
+_ledger_lock = _threading.Lock()
+
+
+def spend_total() -> float:
+    try:
+        return float(_json.loads(_LEDGER.read_text(encoding="utf-8")).get("total_usd", 0.0))
+    except (OSError, ValueError):
+        return 0.0
+
+
+def _check_cap() -> None:
+    total = spend_total()
+    if total >= SPEND_CAP_USD:
+        raise RuntimeError(f"spend cap reached: ${total:.2f} >= ${SPEND_CAP_USD:.2f} (HARNESS_SPEND_CAP_USD)")
+
+
+def _record_spend(model: str, cost: float | None) -> None:
+    if not cost:
+        return
+    with _ledger_lock:
+        try:
+            led = _json.loads(_LEDGER.read_text(encoding="utf-8"))
+        except (OSError, ValueError):
+            led = {"total_usd": 0.0, "calls": 0, "by_model": {}}
+        led["total_usd"] = round(led.get("total_usd", 0.0) + cost, 6)
+        led["calls"] = led.get("calls", 0) + 1
+        led.setdefault("by_model", {})[model] = round(led["by_model"].get(model, 0.0) + cost, 6)
+        _LEDGER.parent.mkdir(parents=True, exist_ok=True)
+        _LEDGER.write_text(_json.dumps(led, indent=1), encoding="utf-8")
+
 
 def _circuit(key: str) -> CircuitBreaker:
     if key not in _circuits:
@@ -104,6 +145,10 @@ def _finish(engine: str, provider: str, raw_text: str | None, usage: dict,
         sanitizer = {"is_safe": bool(is_safe), "warnings": list(warnings)}
     else:
         data = None
+    cost = 0.0 if provider in ("ollama", "none") else _cost(engine, usage.get("input_tokens", 0),
+                                                            usage.get("output_tokens", 0))
+    if provider not in ("ollama", "none"):
+        _record_spend(engine, cost)
     return {
         "engine": engine,
         "provider": provider,
@@ -111,8 +156,7 @@ def _finish(engine: str, provider: str, raw_text: str | None, usage: dict,
         "data": data,
         "sanitizer": sanitizer,
         "usage": usage,
-        "cost_usd": 0.0 if provider == "ollama" else _cost(engine, usage.get("input_tokens", 0),
-                                                           usage.get("output_tokens", 0)),
+        "cost_usd": cost,
         "latency_ms": int((time.perf_counter() - t0) * 1000),
         "attempts": attempts,
         "chain": chain,
@@ -195,6 +239,7 @@ def _call_gemini(image_path: Path, prompt: str, model: str, max_attempts: int) -
     from google import genai
     from google.genai import types
 
+    _check_cap()
     if _gemini_client is None:
         _gemini_client = genai.Client(api_key=require_key("GEMINI_API_KEY"),
                                       http_options={"timeout": CLOUD_TIMEOUT_S * 1000})
@@ -236,6 +281,7 @@ def _call_claude(image_path: Path, prompt: str, model: str, max_attempts: int) -
     global _claude_client
     import anthropic
 
+    _check_cap()
     if _claude_client is None:
         _claude_client = anthropic.Anthropic(api_key=require_key("ANTHROPIC_API_KEY"),
                                              max_retries=0, timeout=float(CLOUD_TIMEOUT_S))
