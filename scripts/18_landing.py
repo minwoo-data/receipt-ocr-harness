@@ -185,8 +185,8 @@ page = f"""<!doctype html>
 <figcaption>Tap a chart to open it full size. Where {V['n']} scans end up under each policy, accepted-answer accuracy and USD per 1,000.</figcaption></figure>
 <p>The harness: <b>{V['precA']} correct</b> with {V['senti']} of receipts sent to the cloud and {V['revA']} to people, ${V['costA']} per 1,000 (all cloud: {V['aT3']}, ${V['cT3']}). The strong model adds {V['strong_gain']} points for {V['strong_ratio']}× the price: <b>escalate to people, not to a bigger model.</b></p>
 <figure><div class="img"><a href="assets/fig_sweep.png" aria-label="Open the full-size chart"><img src="assets/fig_sweep.png" alt="Escalation curve: share of receipts sent to the cloud against accepted-answer accuracy, with the oracle router marked"></a></div>
-<figcaption>Escalation curve: share sent to the cloud vs accuracy as the threshold moves; ★ = a router that knows the answers.</figcaption></figure>
-<p>A perfect router needs only {V['oracle_cloudi']} cloud for {V['oracle_prec']}; the rule signal needs {V['router_cloudi']} for {V['router_prec']}. <b>The bottleneck is the escalation signal, not the model.</b> A learned signal (logistic regression, {V['n_features']} features, out-of-fold AUC {V['auc']}) did no better at the same cloud share, so the two rules stayed.</p>
+<figcaption>Share of receipts sent to the cloud vs accuracy as the hand-off threshold moves; ★ = a router that knew the answers.</figcaption></figure>
+<p>A router that knew the answers would send only {V['oracle_cloudi']} to the cloud for {V['oracle_prec']}; the simple rules send {V['router_cloudi']} for {V['router_prec']}. <b>The hard part is knowing when to call the cloud, not the model.</b> A learned &ldquo;call the cloud?&rdquo; score (logistic regression, {V['n_features']} features, out-of-fold AUC {V['auc']}) did no better at the same cloud share, so the two simple rules stayed.</p>
 
 <h2 id="local"><span class="n">3</span>What if the data can't leave?</h2>
 <p class="ans">Run local-only: same checks, more human review.</p>
@@ -199,7 +199,7 @@ page = f"""<!doctype html>
 <p>In cloud mode the image leaves the machine at one step only; every check and routing decision runs locally.</p>
 <p>Check rules are domain assets: a rule built from scan errors caught {V['d_caught']} of {V['leak_other']} there with no false alarms, but {V['d_wild_caught_rcpt']} receipt on held-out photos, with {V['d_wild_false_rcpt']} false alarm.</p>
 <div class="lbl">Next</div>
-<p>10k receipts; invoices and statements; layout features as escalation signals; the oracle gap as a weekly drift metric.</p>
+<p>10k receipts; invoices and statements; layout features to decide when to call the cloud; the gap to a perfect router as a weekly drift metric.</p>
 
 <footer>
   <div>{V['n']} scanned receipts (ICDAR 2019 SROIE) · {V['n_wild']} phone photos (WildReceipt) · {V['synth_n']} synthetic adversarial receipts. Date and total must match exactly; scoring is code, never a model. Run of 2026-10-31.</div>

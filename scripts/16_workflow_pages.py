@@ -63,7 +63,7 @@ T = {
    notes=[
      ("Code checks 1-4 (no answer key)", "<ol><li>sanitizer: NFKC, EN/KO/JA/ZH injection patterns, field whitelist, types</li><li>arithmetic: subtotal + tax + tip + discount = total (tolerance 0.05; absent is not zero)</li><li>date plausible for the dataset era</li><li>two-reader: the model's total and date must appear in the OCR text</li></ol>"),
      ("What the checks caught", f"Each reader run alone on all {N}: the checks flagged {V['c3']} of Flash-Lite's {V['e3']} wrong answers, {V['c4']} of Flash's {V['e4']}, and {V['c2']} of the local VLM's {V['e2']}."),
-     ("The bottleneck is the signal", f"An oracle that knows the answers sends {V['oracle_cloud']} to the cloud for {V['oracle_prec']}. The rule signal sends {V['router_cloud']} for {V['router_prec']} (no checks)."),
+     ("The hard part is knowing when to call the cloud", f"An oracle that knows the answers sends {V['oracle_cloud']} to the cloud for {V['oracle_prec']}. The rule signal sends {V['router_cloud']} for {V['router_prec']} (no checks)."),
      ("Phone photos (WildReceipt 200)", f"Cloud harness {V['wA']} with {V['wArev']} review; local only {V['wB']} with {V['wBrev']} review. Same accuracy, different review load."),
    ]),
  "kr": dict(

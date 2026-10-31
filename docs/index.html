@@ -136,8 +136,8 @@ a:focus-visible { outline:2px solid var(--accent); outline-offset:2px; }
 <figcaption>Tap a chart to open it full size. Where 300 scans end up under each policy, accepted-answer accuracy and USD per 1,000.</figcaption></figure>
 <p>The harness: <b>96.9% correct</b> with 56% of receipts sent to the cloud and 4.3% to people, $0.37 per 1,000 (all cloud: 97.3%, $0.54). The strong model adds 0.7 points for 2.7× the price: <b>escalate to people, not to a bigger model.</b></p>
 <figure><div class="img"><a href="assets/fig_sweep.png" aria-label="Open the full-size chart"><img src="assets/fig_sweep.png" alt="Escalation curve: share of receipts sent to the cloud against accepted-answer accuracy, with the oracle router marked"></a></div>
-<figcaption>Escalation curve: share sent to the cloud vs accuracy as the threshold moves; ★ = a router that knows the answers.</figcaption></figure>
-<p>A perfect router needs only 27% cloud for 98.7%; the rule signal needs 56% for 95.7%. <b>The bottleneck is the escalation signal, not the model.</b> A learned signal (logistic regression, 14 features, out-of-fold AUC 0.89) did no better at the same cloud share, so the two rules stayed.</p>
+<figcaption>Share of receipts sent to the cloud vs accuracy as the hand-off threshold moves; ★ = a router that knew the answers.</figcaption></figure>
+<p>A router that knew the answers would send only 27% to the cloud for 98.7%; the simple rules send 56% for 95.7%. <b>The hard part is knowing when to call the cloud, not the model.</b> A learned &ldquo;call the cloud?&rdquo; score (logistic regression, 14 features, out-of-fold AUC 0.89) did no better at the same cloud share, so the two simple rules stayed.</p>
 
 <h2 id="local"><span class="n">3</span>What if the data can't leave?</h2>
 <p class="ans">Run local-only: same checks, more human review.</p>
@@ -150,7 +150,7 @@ a:focus-visible { outline:2px solid var(--accent); outline-offset:2px; }
 <p>In cloud mode the image leaves the machine at one step only; every check and routing decision runs locally.</p>
 <p>Check rules are domain assets: a rule built from scan errors caught 10 of 16 there with no false alarms, but 1 receipt on held-out photos, with 1 false alarm.</p>
 <div class="lbl">Next</div>
-<p>10k receipts; invoices and statements; layout features as escalation signals; the oracle gap as a weekly drift metric.</p>
+<p>10k receipts; invoices and statements; layout features to decide when to call the cloud; the gap to a perfect router as a weekly drift metric.</p>
 
 <footer>
   <div>300 scanned receipts (ICDAR 2019 SROIE) · 200 phone photos (WildReceipt) · 43 synthetic adversarial receipts. Date and total must match exactly; scoring is code, never a model. Run of 2026-10-31.</div>

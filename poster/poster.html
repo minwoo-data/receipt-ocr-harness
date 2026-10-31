@@ -37,7 +37,7 @@
   .small, .cap { font-size:9pt; color:var(--ink2); }
 
   .gates { background:var(--band); padding:6pt 8pt; display:grid; gap:4pt; }
-  .gates .row { display:flex; flex-wrap:wrap; gap:4pt 5pt; }
+  .gates .row { display:grid; gap:3pt; }
   .gate { background:#fff; border:1pt solid var(--grid); padding:2pt 5pt; }
   .route .acc { color:#0a8a0a; font-weight:bold; } .route .rev { color:var(--ink2); font-weight:bold; }
 
@@ -59,9 +59,10 @@
   th { color:var(--ink2); font-weight:normal; font-size:9pt; }
   td.num, th.num { text-align:right; font-variant-numeric:tabular-nums; } th.num { white-space:nowrap; }
   .sw { display:inline-block; width:8pt; height:8pt; margin-right:4pt; vertical-align:-0.5pt; }
+  table.q3 th, table.q3 td { padding:4pt 5pt; } table.q3 td { font-size:11.5pt; } table.q3 td b { font-size:13pt; }
 
   .fig { display:block; max-width:100%; height:auto; margin:0 auto; }
-  .figA { max-height:2.75in; } .figB { max-height:2.1in; }
+  .figA { max-height:3.6in; } .figB { max-height:2.1in; }
 
   .cmp { display:grid; grid-template-columns:auto 1fr 1fr; gap:2pt 8pt; align-items:baseline; }
   .cmp .h { font-size:9pt; color:var(--ink2); border-bottom:1pt solid var(--grid); }
@@ -106,10 +107,10 @@
       <div class="gates">
         <b>Four checks on every model answer (no answer key, no model confidence)</b>
         <div class="row">
-          <span class="gate">sanitizer: injection patterns in EN/KO/JA/ZH, field whitelist</span>
-          <span class="gate">arithmetic: subtotal + tax + tip + discount = total</span>
-          <span class="gate">date plausibility</span>
-          <span class="gate">two-reader: the total and date must appear in the OCR text</span>
+          <span class="gate"><b>Sanitizer:</b> injection patterns in EN/KO/JA/ZH, field whitelist</span>
+          <span class="gate"><b>Arithmetic:</b> subtotal + tax + tip + discount = total</span>
+          <span class="gate"><b>Date plausibility:</b> a real date in the receipts' era</span>
+          <span class="gate"><b>Two-reader:</b> the total and date must appear in the OCR text</span>
         </div>
         <div class="route">Zero flags &rarr; <span class="acc">auto-accept</span>. Flagged &rarr; escalate one rung &rarr; still flagged &rarr; <span class="rev">human review</span>.</div>
       </div>
@@ -138,7 +139,7 @@
       <section class="blk">
         <div class="where"><span>On this machine</span><span>Cloud</span></div>
         <div class="ladder">
-          <div class="rung t1"><b>T1 &middot; local OCR + rules</b><span>RapidOCR + Tesseract &middot; CPU &middot; $0</span></div>
+          <div class="rung t1"><b>T1 &middot; OCR + rules</b><span>RapidOCR + Tesseract &middot; CPU &middot; $0</span></div>
           <div class="rung t2"><b>T2 &middot; local VLM</b><span>Qwen2.5-VL 3B &middot; 4 GB GPU &middot; $0</span></div>
           <div class="rung t3"><b>T3 &middot; cloud, cheap</b><span>Gemini 3.1 Flash-Lite &middot; $0.54 per 1k</span></div>
           <div class="rung t4"><b>T4 &middot; cloud, strong</b><span>Gemini 3.6 Flash &middot; $1.42 per 1k &middot; Claude failover</span></div>
@@ -161,23 +162,24 @@
     <div class="col">
       <section class="blk">
         <img class="fig figB" src="../results/figures/fig_sweep.png" alt="Escalation curve">
-        <div class="cap"><b>Fig B.</b> Share sent to the cloud vs accuracy as the threshold moves; &#9733; = a router that knows the answers.</div>
-        <p>A perfect router needs only 27% cloud for 98.7%; the rule signal needs 56% for 95.7%. <b>The bottleneck is the escalation signal, not the model.</b> A learned signal (14 features, out-of-fold AUC 0.89) did no better, so the two rules stayed.</p>
+        <div class="cap"><b>Fig B.</b> Share of receipts sent to the cloud vs accuracy as the hand-off threshold moves; &#9733; = a router that knew the answers.</div>
+        <p>A router that knew the answers would send only 27% to the cloud for 98.7%; the simple rules send 56% for 95.7%. <b>The hard part is knowing when to call the cloud, not the model.</b> A learned &ldquo;call the cloud?&rdquo; score (14 features, out-of-fold AUC 0.89) did no better, so the two simple rules stayed.</p>
       </section>
       <section class="blk">
         <h2><span class="n">3</span>What if the data can't leave?</h2>
         <p class="ans">Run local-only: same checks, more human review.</p>
       </section>
-      <div class="cmp">
-        <span class="h"></span><span class="h">Cloud harness</span><span class="h">Local only</span>
-        <span class="sm">Scans</span><span><span class="big num">96.9%</span> <span class="sm">correct</span></span><span><span class="big num">93.4%</span> <span class="sm">correct</span></span>
-        <span></span><span class="sm num">4.3% to people &middot; $0.37/1k</span><span class="sm num">19% to people &middot; $0</span>
-        <span class="sm">Photos</span><span><span class="big num">88.5%</span> <span class="sm">correct</span></span><span><span class="big num">89.1%</span> <span class="sm">correct</span></span>
-        <span></span><span class="sm num">21.5% to people</span><span class="sm num">31.5% to people</span>
-      </div>
+      <table class="q3">
+        <tr><th></th><th class="num">Cloud harness</th><th class="num">Local only</th></tr>
+        <tr><td>Scans: correct</td><td class="num"><b>96.9%</b></td><td class="num"><b>93.4%</b></td></tr>
+        <tr><td>Scans: to people</td><td class="num">4.3%</td><td class="num">19.0%</td></tr>
+        <tr><td>Scans: USD per 1k</td><td class="num">$0.37</td><td class="num">$0</td></tr>
+        <tr><td>Photos: correct</td><td class="num"><b>88.5%</b></td><td class="num"><b>89.1%</b></td></tr>
+        <tr><td>Photos: to people</td><td class="num">21.5%</td><td class="num">31.5%</td></tr>
+      </table>
       <p>Photos: same accuracy, more review. Scans: local only gives up 3.4 points. <b>Keeping data in costs mostly people's time.</b> In cloud mode the image leaves the machine at one step only; every check and routing decision runs locally.</p>
       <p>Check rules are domain assets: a rule built from scan errors caught 10 of 16 there with no false alarms, but 1 receipt on held-out photos, with 1 false alarm.</p>
-      <p><b>Next:</b> 10k receipts; invoices and statements; layout features as escalation signals; the oracle gap as a weekly drift metric.</p>
+      <p><b>Next:</b> 10k receipts; invoices and statements; layout features to decide when to call the cloud; the gap to a perfect router as a weekly drift metric.</p>
     </div>
   </div>
 
