@@ -199,7 +199,7 @@ page = f"""<!doctype html>
 <p>In cloud mode the image leaves the machine at one step only; every check and routing decision runs locally.</p>
 <p>Check rules are domain assets: a rule built from scan errors caught {V['d_caught']} of {V['leak_other']} there with no false alarms, but {V['d_wild_caught_rcpt']} receipt on held-out photos, with {V['d_wild_false_rcpt']} false alarm.</p>
 <div class="lbl">Next</div>
-<p>10k receipts; invoices and statements; layout features to decide when to call the cloud; the gap to a perfect router as a weekly drift metric.</p>
+<p>10k receipts; invoices and statements; layout features for the hand-off decision; a weekly drift metric.</p>
 
 <footer>
   <div>{V['n']} scanned receipts (ICDAR 2019 SROIE) · {V['n_wild']} phone photos (WildReceipt) · {V['synth_n']} synthetic adversarial receipts. Date and total must match exactly; scoring is code, never a model. Run of 2026-10-31.</div>
