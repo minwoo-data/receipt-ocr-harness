@@ -260,7 +260,7 @@ def page(lang, t):
     notes = "".join(f"<div><b>{esc(a)}</b>{b}</div>" for a, b in t["notes"])
     return f"""<!doctype html><html lang="{lang}"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
 <title>{esc(t['title'])}</title><style>{CSS}</style>
-<script src="https://cdn.jsdelivr.net/npm/mermaid@11.4.1/dist/mermaid.min.js"></script></head>
+<script src="https://cdn.jsdelivr.net/npm/mermaid@11.4.1/dist/mermaid.min.js" integrity="sha384-rbtjAdnIQE/aQJGEgXrVUlMibdfTSa4PQju4HDhN3sR2PmaKFzhEafuePsl9H/9I" crossorigin="anonymous"></script></head>
 <body><div class="wrap"><h1>{esc(t['title'])}</h1><div class="sub">{esc(t['sub'])}</div>
 <h2 class="s">{esc(t['s1'])}</h2>
 <div class="top">{architecture(t)}<ol class="steps">{steps}</ol></div>

@@ -92,7 +92,7 @@ CSS = """
 html = f"""<!doctype html><html lang="ko"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
 <title>receipt-ocr-harness companion</title>
 <style>{CSS}</style>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/marked/12.0.2/marked.min.js"></script></head>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/marked/12.0.2/marked.min.js" integrity="sha384-C:/Program Files/Git/TQbtLCAerC3jgaim+N78RZSDYV7ryeoBCVqTuzRrFec2akfBkHS7ACQ3PQhvMVi" crossorigin="anonymous"></script></head>
 <body><div class="board">
  <section class="q"><h2><span class="n">1</span>요약과 결과</h2><div class="md" data-src="q1"></div></section>
  <section class="q"><h2><span class="n">2</span>영수증 한 장의 흐름</h2>{ladder()}<div class="md" data-src="q2"></div></section>

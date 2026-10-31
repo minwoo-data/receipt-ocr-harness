@@ -135,6 +135,8 @@ every run in this repository: about $1.
 
 ## Data and attribution
 
+Per-receipt outputs under `results*/` are derived from SROIE (CC-BY-4.0) and WildReceipt (research use) and follow those datasets' licenses; dataset images are not redistributed here. The MIT license covers the code.
+
 - ICDAR 2019 SROIE (Huang et al., arXiv:2103.10213), `jsdnrs/ICDAR2019-SROIE`
   mirror, CC-BY-4.0. Images downloaded by script, not committed.
 - WildReceipt (Sun et al., arXiv:2103.14470), OpenMMLab distribution. Research

@@ -21,3 +21,12 @@ poster/*.pptx~
 # superseded run kept locally only
 results/rapidocr_v1_oldgrouping/
 results_v2/
+
+# personal and working notes: kept on this machine, never published
+docs/CONTEXT.md
+docs/discussion/
+CLAUDE.md
+notes/
+poster/archive/
+docs/*_preview.png
+results/spend_ledger.json

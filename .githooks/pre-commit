@@ -17,7 +17,11 @@ done < <(git diff --cached --name-only --diff-filter=ACM)
 # 2. Key-shaped strings inside staged content (added lines only).
 #    Gemini keys start with AIza + 35 chars; Anthropic keys start with sk-ant-.
 #    OpenAI keys start with sk- followed by 20+ chars.
-pattern='AIza[0-9A-Za-z_-]{35}|sk-ant-[0-9A-Za-z_-]{20,}|sk-[0-9A-Za-z]{20,}|ghp_[0-9A-Za-z]{30,}'
+pattern='AIza[0-9A-Za-z_-]{35}|sk-ant-[0-9A-Za-z_-]{20,}|sk-[0-9A-Za-z]{20,}|ghp_[0-9A-Za-z]{30,}|github_pat_[0-9A-Za-z_]{30,}|AKIA[0-9A-Z]{16}|ya29[.][0-9A-Za-z_-]{20,}|-----BEGIN [A-Z ]*PRIVATE KEY'
+if git diff --cached --name-only | grep -Eq '(^|/)(credentials[.]json|config[.]json|[^/]*[.]pem|[.]env)$'; then
+  echo "[pre-commit] blocked: a credential-like file is staged (credentials.json, config.json, *.pem, .env)" >&2
+  exit 1
+fi
 if git diff --cached -U0 | grep -E '^\+' | grep -Ev '^\+\+\+' | grep -Eq "$pattern"; then
   echo "[pre-commit] refusing to commit: staged content contains a key-shaped string" >&2
   echo "[pre-commit] (pattern: Gemini AIza..., Anthropic sk-ant-..., OpenAI sk-..., GitHub ghp_...)" >&2
