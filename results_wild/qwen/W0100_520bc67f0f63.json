@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"Thai Thai Restaurant\",\n  \"date\": \"2017-08-27\",\n  \"subtotal\": 54.55,\n  \"tax\": 3.82,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 58.37,\n  \"currency\": \"USD\",\n  \"confidence\": 0.95,\n  \"notes\": \"Receipt from a Thai restaurant in Melbourne, FL.\"\n}",
+ "data": {
+  "vendor": "Thai Thai Restaurant",
+  "date": "2017-08-27",
+  "subtotal": 54.55,
+  "tax": 3.82,
+  "tip": null,
+  "discount": null,
+  "total": 58.37,
+  "currency": "USD",
+  "confidence": 0.95,
+  "notes": "Receipt from a Thai restaurant in Melbourne, FL."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1413,
+  "output_tokens": 104,
+  "model_total_duration_ms": 28070
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 30127,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "W0100_520bc67f0f63"
+}

@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"TARGET\",\n  \"date\": \"2011-11-25\",\n  \"subtotal\": 123.32,\n  \"tax\": 7.44,\n  \"tip\": null,\n  \"discount\": -6.17,\n  \"total\": 124.59,\n  \"currency\": \"USD\",\n  \"confidence\": 0.95,\n  \"notes\": \"The receipt is from Target, a retail store in the United States.\"\n}",
+ "data": {
+  "vendor": "TARGET",
+  "date": "2011-11-25",
+  "subtotal": 123.32,
+  "tax": 7.44,
+  "tip": null,
+  "discount": -6.17,
+  "total": 124.59,
+  "currency": "USD",
+  "confidence": 0.95,
+  "notes": "The receipt is from Target, a retail store in the United States."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1413,
+  "output_tokens": 112,
+  "model_total_duration_ms": 24043
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 26098,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "W0148_499edd655772"
+}

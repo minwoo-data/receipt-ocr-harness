@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"TABOO GREY GOOSE BAR\",\n  \"date\": \"2017-11-29\",\n  \"subtotal\": 201150,\n  \"tax\": 702.63,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 201150,\n  \"currency\": \"R\",\n  \"confidence\": 0.95,\n  \"notes\": \"The receipt is from a Grey Goose Bar located at 24 Fredman Drive, Sandton, with a phone number of 011 783 2200. The tax details indicate that the tax invoice number is 1, covering 1 item, and the staff member is Blade. The total amount charged is R201150.00, including an output tax of R24.702.63 and a gratuity of R176.447.38.\"\n}",
+ "data": {
+  "vendor": "TABOO GREY GOOSE BAR",
+  "date": "2017-11-29",
+  "subtotal": 201150,
+  "tax": 702.63,
+  "tip": null,
+  "discount": null,
+  "total": 201150,
+  "currency": "R",
+  "confidence": 0.95,
+  "notes": "The receipt is from a Grey Goose Bar located at 24 Fredman Drive, Sandton, with a phone number of 011 783 2200. The tax details indicate that the tax invoice number is 1, covering 1 item, and the staff member is Blade. The total amount charged is R201150.00, including an output tax of R24.702.63 and a gratuity of R176.447.38."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1409,
+  "output_tokens": 214,
+  "model_total_duration_ms": 43264
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 45321,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "W0153_0191e874c74a"
+}

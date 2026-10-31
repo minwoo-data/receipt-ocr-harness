@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"GARDENIA BAKERIES (KL) SDN BHD\",\n  \"date\": \"23/07/2017\",\n  \"subtotal\": 31.39,\n  \"tax\": -0.27,\n  \"tip\": 26.58,\n  \"discount\": null,\n  \"total\": 26.58,\n  \"currency\": \"RM\",\n  \"confidence\": 0.95,\n  \"notes\": \"Received above goods in good order condition. The recipient of Gardenia's products is required to make necessary adjustments to its input tax claims, on the basis of the adjustments shown in this Tax Invoice / Adjustment Note.\"\n}",
+ "data": {
+  "vendor": "GARDENIA BAKERIES (KL) SDN BHD",
+  "date": "23/07/2017",
+  "subtotal": 31.39,
+  "tax": -0.27,
+  "tip": 26.58,
+  "discount": null,
+  "total": 26.58,
+  "currency": "RM",
+  "confidence": 0.95,
+  "notes": "Received above goods in good order condition. The recipient of Gardenia's products is required to make necessary adjustments to its input tax claims, on the basis of the adjustments shown in this Tax Invoice / Adjustment Note."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1412,
+  "output_tokens": 153,
+  "model_total_duration_ms": 48198
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 50245,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "X51006555819"
+}

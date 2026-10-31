@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"GL HANDICRAFT & TAILORING\",\n  \"date\": \"20/03/2018\",\n  \"subtotal\": 102.00,\n  \"tax\": 5.77,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 102.00,\n  \"currency\": \"RM\",\n  \"confidence\": 0.95,\n  \"notes\": \"SAFETY PINS BUTTERFLY - S\"\n}",
+ "data": {
+  "vendor": "GL HANDICRAFT & TAILORING",
+  "date": "20/03/2018",
+  "subtotal": 102.0,
+  "tax": 5.77,
+  "tip": null,
+  "discount": null,
+  "total": 102.0,
+  "currency": "RM",
+  "confidence": 0.95,
+  "notes": "SAFETY PINS BUTTERFLY - S"
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1433,
+  "output_tokens": 114,
+  "model_total_duration_ms": 23606
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 25649,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "X51005453801"
+}

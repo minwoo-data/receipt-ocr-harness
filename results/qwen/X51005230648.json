@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"CROSS CHANNEL NETWORK SDN. BHD.\",\n  \"date\": \"29/01/2018\",\n  \"subtotal\": 6.36,\n  \"tax\": 0.36,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 6.36,\n  \"currency\": \"RM\",\n  \"confidence\": 0.95,\n  \"notes\": \"Goods sold are not refundable nor exchangeable. For any enquiry, please e-mail us: gowa9688@gmail.com\"\n}",
+ "data": {
+  "vendor": "CROSS CHANNEL NETWORK SDN. BHD.",
+  "date": "29/01/2018",
+  "subtotal": 6.36,
+  "tax": 0.36,
+  "tip": null,
+  "discount": null,
+  "total": 6.36,
+  "currency": "RM",
+  "confidence": 0.95,
+  "notes": "Goods sold are not refundable nor exchangeable. For any enquiry, please e-mail us: gowa9688@gmail.com"
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1430,
+  "output_tokens": 126,
+  "model_total_duration_ms": 24937
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 26986,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "X51005230648"
+}

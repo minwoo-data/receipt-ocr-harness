@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"RESTAURANT\",\n  \"date\": \"2014-12-26\",\n  \"subtotal\": 49.00,\n  \"tax\": 3.97,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 52.97,\n  \"currency\": \"USD\",\n  \"confidence\": 0.95,\n  \"notes\": \"10069 Ada Z.\"\n}",
+ "data": {
+  "vendor": "RESTAURANT",
+  "date": "2014-12-26",
+  "subtotal": 49.0,
+  "tax": 3.97,
+  "tip": null,
+  "discount": null,
+  "total": 52.97,
+  "currency": "USD",
+  "confidence": 0.95,
+  "notes": "10069 Ada Z."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1413,
+  "output_tokens": 103,
+  "model_total_duration_ms": 21113
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 23155,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "W0108_65e1cf5bf549"
+}

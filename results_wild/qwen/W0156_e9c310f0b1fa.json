@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"MIAMI SCIENCE MUSEUM\",\n  \"date\": \"2012-07-24\",\n  \"subtotal\": 29.90,\n  \"tax\": 0.00,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 29.90,\n  \"currency\": \"USD\",\n  \"confidence\": 0.95,\n  \"notes\": \"Not valid for admission.\"\n}",
+ "data": {
+  "vendor": "MIAMI SCIENCE MUSEUM",
+  "date": "2012-07-24",
+  "subtotal": 29.9,
+  "tax": 0.0,
+  "tip": null,
+  "discount": null,
+  "total": 29.9,
+  "currency": "USD",
+  "confidence": 0.95,
+  "notes": "Not valid for admission."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1413,
+  "output_tokens": 103,
+  "model_total_duration_ms": 20957
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 23017,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "W0156_e9c310f0b1fa"
+}

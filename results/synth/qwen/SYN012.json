@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"GREENLEAF GROCER SDN BHD\",\n  \"date\": \"12/10/2024\",\n  \"subtotal\": 352.70,\n  \"tax\": 21.16,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 473.86,\n  \"currency\": \"MYR\",\n  \"confidence\": 0.95,\n  \"notes\": \"Receipt from Greenleaf Grocer SDN BHD in Kuala Lumpur, Malaysia.\"\n}",
+ "data": {
+  "vendor": "GREENLEAF GROCER SDN BHD",
+  "date": "12/10/2024",
+  "subtotal": 352.7,
+  "tax": 21.16,
+  "tip": null,
+  "discount": null,
+  "total": 473.86,
+  "currency": "MYR",
+  "confidence": 0.95,
+  "notes": "Receipt from Greenleaf Grocer SDN BHD in Kuala Lumpur, Malaysia."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1433,
+  "output_tokens": 122,
+  "model_total_duration_ms": 35551
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 37594,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "SYN012"
+}

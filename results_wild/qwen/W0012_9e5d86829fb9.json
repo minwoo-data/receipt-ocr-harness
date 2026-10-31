@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"Vasanta Bhavan\",\n  \"date\": \"2017-02-25\",\n  \"subtotal\": 1365,\n  \"tax\": 0,\n  \"tip\": 0,\n  \"discount\": 0,\n  \"total\": 1365,\n  \"currency\": \"LKR\",\n  \"confidence\": 0.95,\n  \"notes\": \"The receipt is partially obscured and some details are not fully visible.\"\n}",
+ "data": {
+  "vendor": "Vasanta Bhavan",
+  "date": "2017-02-25",
+  "subtotal": 1365,
+  "tax": 0,
+  "tip": 0,
+  "discount": 0,
+  "total": 1365,
+  "currency": "LKR",
+  "confidence": 0.95,
+  "notes": "The receipt is partially obscured and some details are not fully visible."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1413,
+  "output_tokens": 107,
+  "model_total_duration_ms": 23155
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 25204,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "W0012_9e5d86829fb9"
+}

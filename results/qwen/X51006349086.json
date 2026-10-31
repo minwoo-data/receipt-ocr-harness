@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"First City Parking Sdn Bhd\",\n  \"date\": \"2018-04-16\",\n  \"subtotal\": 16.60,\n  \"tax\": 10.40,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 7.00,\n  \"currency\": \"RM\",\n  \"confidence\": 0.95,\n  \"notes\": \"Ampang 210\"\n}",
+ "data": {
+  "vendor": "First City Parking Sdn Bhd",
+  "date": "2018-04-16",
+  "subtotal": 16.6,
+  "tax": 10.4,
+  "tip": null,
+  "discount": null,
+  "total": 7.0,
+  "currency": "RM",
+  "confidence": 0.95,
+  "notes": "Ampang 210"
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1433,
+  "output_tokens": 108,
+  "model_total_duration_ms": 22340
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 24398,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "X51006349086"
+}

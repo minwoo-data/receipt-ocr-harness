@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"Subway\",\n  \"date\": \"2016-03-21\",\n  \"subtotal\": 5.25,\n  \"tax\": 1.75,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 5.39,\n  \"currency\": \"USD\",\n  \"confidence\": 0.95,\n  \"notes\": \"Manager Meal 100% Off Menu\"\n}",
+ "data": {
+  "vendor": "Subway",
+  "date": "2016-03-21",
+  "subtotal": 5.25,
+  "tax": 1.75,
+  "tip": null,
+  "discount": null,
+  "total": 5.39,
+  "currency": "USD",
+  "confidence": 0.95,
+  "notes": "Manager Meal 100% Off Menu"
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1401,
+  "output_tokens": 101,
+  "model_total_duration_ms": 19803
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 21864,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "W0055_7ac80d7cb36f"
+}

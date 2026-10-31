@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"ANJAPPAR AUTHENTIC CHETTINAAD RESTAURANT\",\n  \"date\": \"2013-05-23\",\n  \"subtotal\": 48.30,\n  \"tax\": 3.72,\n  \"tip\": 4.83,\n  \"discount\": null,\n  \"total\": 56.85,\n  \"currency\": \"SGD\",\n  \"confidence\": 0.95,\n  \"notes\": \"Free home delivery number: 67776777.\"\n}",
+ "data": {
+  "vendor": "ANJAPPAR AUTHENTIC CHETTINAAD RESTAURANT",
+  "date": "2013-05-23",
+  "subtotal": 48.3,
+  "tax": 3.72,
+  "tip": 4.83,
+  "discount": null,
+  "total": 56.85,
+  "currency": "SGD",
+  "confidence": 0.95,
+  "notes": "Free home delivery number: 67776777."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1403,
+  "output_tokens": 128,
+  "model_total_duration_ms": 19455
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 21521,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "W0186_a228b1751c7e"
+}

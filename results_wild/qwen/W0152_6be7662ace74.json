@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"PAUL MAISON DE QUALITÉ\",\n  \"date\": \"2021-01-21\",\n  \"subtotal\": 37.00,\n  \"tax\": 1.00,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 37.00,\n  \"currency\": \"EUR\",\n  \"confidence\": 0.95,\n  \"notes\": \"The receipt is from Paul, a restaurant in Dubai Airport Concourse B, and the total amount is 37.00 EUR.\"\n}",
+ "data": {
+  "vendor": "PAUL MAISON DE QUALITÉ",
+  "date": "2021-01-21",
+  "subtotal": 37.0,
+  "tax": 1.0,
+  "tip": null,
+  "discount": null,
+  "total": 37.0,
+  "currency": "EUR",
+  "confidence": 0.95,
+  "notes": "The receipt is from Paul, a restaurant in Dubai Airport Concourse B, and the total amount is 37.00 EUR."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1413,
+  "output_tokens": 127,
+  "model_total_duration_ms": 23287
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 25362,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "W0152_6be7662ace74"
+}

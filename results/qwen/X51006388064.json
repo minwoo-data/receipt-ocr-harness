@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"BEMED (SP) SDN. BHD.\",\n  \"date\": \"2017-05-14\",\n  \"subtotal\": 191.22,\n  \"tax\": 10.14,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 191.20,\n  \"currency\": \"MYR\",\n  \"confidence\": 0.95,\n  \"notes\": \"Receipt from a Malaysian pharmacy.\"\n}",
+ "data": {
+  "vendor": "BEMED (SP) SDN. BHD.",
+  "date": "2017-05-14",
+  "subtotal": 191.22,
+  "tax": 10.14,
+  "tip": null,
+  "discount": null,
+  "total": 191.2,
+  "currency": "MYR",
+  "confidence": 0.95,
+  "notes": "Receipt from a Malaysian pharmacy."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1427,
+  "output_tokens": 113,
+  "model_total_duration_ms": 23002
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 25061,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "X51006388064"
+}

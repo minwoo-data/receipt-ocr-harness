@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"SANTA FE MEXICAN\",\n  \"date\": \"2018-07-24\",\n  \"subtotal\": 93.5,\n  \"tax\": 6.33,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 99.83,\n  \"currency\": \"USD\",\n  \"confidence\": 0.95,\n  \"notes\": \"The receipt is from Santa Fe Mexican restaurant in Greensboro, NC.\"\n}",
+ "data": {
+  "vendor": "SANTA FE MEXICAN",
+  "date": "2018-07-24",
+  "subtotal": 93.5,
+  "tax": 6.33,
+  "tip": null,
+  "discount": null,
+  "total": 99.83,
+  "currency": "USD",
+  "confidence": 0.95,
+  "notes": "The receipt is from Santa Fe Mexican restaurant in Greensboro, NC."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1401,
+  "output_tokens": 111,
+  "model_total_duration_ms": 21909
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 23942,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "W0010_4904bfb4212c"
+}

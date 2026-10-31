@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"THE TOAST F&D SDN BHD\",\n  \"date\": \"08/04/2018\",\n  \"subtotal\": 18.9,\n  \"tax\": null,\n  \"tip\": null,\n  \"discount\": 0,\n  \"total\": 18.9,\n  \"currency\": \"S\",\n  \"confidence\": 0.95,\n  \"notes\": \"Please Come Again!\"\n}",
+ "data": {
+  "vendor": "THE TOAST F&D SDN BHD",
+  "date": "08/04/2018",
+  "subtotal": 18.9,
+  "tax": null,
+  "tip": null,
+  "discount": 0,
+  "total": 18.9,
+  "currency": "S",
+  "confidence": 0.95,
+  "notes": "Please Come Again!"
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1430,
+  "output_tokens": 102,
+  "model_total_duration_ms": 34808
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 36861,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "X51006414714"
+}

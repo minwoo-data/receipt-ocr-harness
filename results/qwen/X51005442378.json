@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"TQ FOR SHOPPING WITH myNEWS.com\",\n  \"date\": \"23/03/2018\",\n  \"subtotal\": 10.00,\n  \"tax\": 0.00,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 10.00,\n  \"currency\": \"MYR\",\n  \"confidence\": 0.95,\n  \"notes\": \"Price is GST inclusive.\"\n}",
+ "data": {
+  "vendor": "TQ FOR SHOPPING WITH myNEWS.com",
+  "date": "23/03/2018",
+  "subtotal": 10.0,
+  "tax": 0.0,
+  "tip": null,
+  "discount": null,
+  "total": 10.0,
+  "currency": "MYR",
+  "confidence": 0.95,
+  "notes": "Price is GST inclusive."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1430,
+  "output_tokens": 106,
+  "model_total_duration_ms": 15464
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 17538,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "X51005442378"
+}

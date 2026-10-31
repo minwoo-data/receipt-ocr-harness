@@ -1,0 +1,43 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"Shangri-La's Barr Al Jissah Resort & Spa\",\n  \"date\": \"2009-10-22\",\n  \"subtotal\": 28.60,\n  \"tax\": 1.43,\n  \"tip\": 1.14,\n  \"discount\": null,\n  \"total\": 33.46,\n  \"currency\": \"Omani Rial\",\n  \"confidence\": 0.95,\n  \"notes\": \"The receipt is from a restaurant in Oman.\"\n}",
+ "data": {
+  "vendor": "Shangri-La's Barr Al Jissah Resort & Spa",
+  "date": "2009-10-22",
+  "subtotal": 28.6,
+  "tax": 1.43,
+  "tip": 1.14,
+  "discount": null,
+  "total": 33.46,
+  "currency": "Omani Ri",
+  "confidence": 0.95,
+  "notes": "The receipt is from a restaurant in Oman."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": [
+   "Truncated 'currency'"
+  ]
+ },
+ "usage": {
+  "input_tokens": 1413,
+  "output_tokens": 122,
+  "model_total_duration_ms": 23220
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 25261,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "W0127_338a3e168f6f"
+}

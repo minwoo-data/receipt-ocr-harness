@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"ROSS DRESS FOR LESS\",\n  \"date\": \"07/25/16\",\n  \"subtotal\": 100,\n  \"tax\": null,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 100,\n  \"currency\": \"N\",\n  \"confidence\": 1.0,\n  \"notes\": \"Gift Card Redeemable for Merchandise only\"\n}",
+ "data": {
+  "vendor": "ROSS DRESS FOR LESS",
+  "date": "07/25/16",
+  "subtotal": 100,
+  "tax": null,
+  "tip": null,
+  "discount": null,
+  "total": 100,
+  "currency": "N",
+  "confidence": 1.0,
+  "notes": "Gift Card Redeemable for Merchandise only"
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1413,
+  "output_tokens": 99,
+  "model_total_duration_ms": 27720
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 29753,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "W0136_0df88ba3783c"
+}

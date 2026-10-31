@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"Bollywood Indian Restaurant\",\n  \"date\": \"2017-03-22\",\n  \"subtotal\": 55,\n  \"tax\": 2.32,\n  \"tip\": 2.43,\n  \"discount\": null,\n  \"total\": 55,\n  \"currency\": \"NLG\",\n  \"confidence\": 0.95,\n  \"notes\": \"Bedankt en tot ziens U bent geholpen door Bollywood\"\n}",
+ "data": {
+  "vendor": "Bollywood Indian Restaurant",
+  "date": "2017-03-22",
+  "subtotal": 55,
+  "tax": 2.32,
+  "tip": 2.43,
+  "discount": null,
+  "total": 55,
+  "currency": "NLG",
+  "confidence": 0.95,
+  "notes": "Bedankt en tot ziens U bent geholpen door Bollywood"
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1413,
+  "output_tokens": 109,
+  "model_total_duration_ms": 33419
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 35487,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "W0131_77557b40f8f8"
+}

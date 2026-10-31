@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"PINNACLES RESTAURANT\",\n  \"date\": \"2015-03-14\",\n  \"subtotal\": 13.9,\n  \"tax\": null,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 13.9,\n  \"currency\": \"GBP\",\n  \"confidence\": 0.95,\n  \"notes\": \"COD/HADD CHIPS\"\n}",
+ "data": {
+  "vendor": "PINNACLES RESTAURANT",
+  "date": "2015-03-14",
+  "subtotal": 13.9,
+  "tax": null,
+  "tip": null,
+  "discount": null,
+  "total": 13.9,
+  "currency": "GBP",
+  "confidence": 0.95,
+  "notes": "COD/HADD CHIPS"
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1413,
+  "output_tokens": 99,
+  "model_total_duration_ms": 22648
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 24721,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "W0051_7c5a9ac13899"
+}

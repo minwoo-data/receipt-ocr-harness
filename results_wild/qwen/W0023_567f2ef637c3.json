@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"Panda Express\",\n  \"date\": \"2014-10-28\",\n  \"subtotal\": 8.68,\n  \"tax\": 0.61,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 9.29,\n  \"currency\": \"USD\",\n  \"confidence\": 0.95,\n  \"notes\": \"Server: Xiaoyu C\"\n}",
+ "data": {
+  "vendor": "Panda Express",
+  "date": "2014-10-28",
+  "subtotal": 8.68,
+  "tax": 0.61,
+  "tip": null,
+  "discount": null,
+  "total": 9.29,
+  "currency": "USD",
+  "confidence": 0.95,
+  "notes": "Server: Xiaoyu C"
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1401,
+  "output_tokens": 100,
+  "model_total_duration_ms": 24338
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 26389,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "W0023_567f2ef637c3"
+}

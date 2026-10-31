@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"BOOK TA .K (TAMAN DAYA) SDN BHD\",\n  \"date\": \"25/12/2018\",\n  \"subtotal\": 9.00,\n  \"tax\": null,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 9.00,\n  \"currency\": \"RM\",\n  \"confidence\": 0.95,\n  \"notes\": \"Goods sold are not returnable or exchangeable.\"\n}",
+ "data": {
+  "vendor": "BOOK TA .K (TAMAN DAYA) SDN BHD",
+  "date": "25/12/2018",
+  "subtotal": 9.0,
+  "tax": null,
+  "tip": null,
+  "discount": null,
+  "total": 9.0,
+  "currency": "RM",
+  "confidence": 0.95,
+  "notes": "Goods sold are not returnable or exchangeable."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1433,
+  "output_tokens": 110,
+  "model_total_duration_ms": 16826
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 18882,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "X00016469612"
+}

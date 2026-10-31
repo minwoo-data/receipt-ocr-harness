@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"C W KHOO HARDWARE SDN BHD\",\n  \"date\": \"2018-06-11\",\n  \"subtotal\": 48.00,\n  \"tax\": null,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 48.00,\n  \"currency\": \"MYR\",\n  \"confidence\": 1.0,\n  \"notes\": \"Image does not appear to be a receipt.\"\n}",
+ "data": {
+  "vendor": "C W KHOO HARDWARE SDN BHD",
+  "date": "2018-06-11",
+  "subtotal": 48.0,
+  "tax": null,
+  "tip": null,
+  "discount": null,
+  "total": 48.0,
+  "currency": "MYR",
+  "confidence": 1.0,
+  "notes": "Image does not appear to be a receipt."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1427,
+  "output_tokens": 106,
+  "model_total_duration_ms": 23798
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 25873,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "X51008123451"
+}

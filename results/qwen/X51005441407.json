@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"Geoventure Taste Of The World Sdn Bhd\",\n  \"date\": \"2018-03-05\",\n  \"subtotal\": 64.15,\n  \"tax\": 3.63,\n  \"tip\": 35.85,\n  \"discount\": null,\n  \"total\": 64.15,\n  \"currency\": \"RM\",\n  \"confidence\": 1.0,\n  \"notes\": \"Image does not appear to be a receipt.\"\n}",
+ "data": {
+  "vendor": "Geoventure Taste Of The World Sdn Bhd",
+  "date": "2018-03-05",
+  "subtotal": 64.15,
+  "tax": 3.63,
+  "tip": 35.85,
+  "discount": null,
+  "total": 64.15,
+  "currency": "RM",
+  "confidence": 1.0,
+  "notes": "Image does not appear to be a receipt."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1412,
+  "output_tokens": 114,
+  "model_total_duration_ms": 47618
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 49726,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "X51005441407"
+}

@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"ROYALTEA\",\n  \"date\": \"2018-05-09\",\n  \"subtotal\": 10.90,\n  \"tax\": 0.62,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 11.52,\n  \"currency\": \"RM\",\n  \"confidence\": 0.95,\n  \"notes\": \"Goods Sold Are Non Refundable\"\n}",
+ "data": {
+  "vendor": "ROYALTEA",
+  "date": "2018-05-09",
+  "subtotal": 10.9,
+  "tax": 0.62,
+  "tip": null,
+  "discount": null,
+  "total": 11.52,
+  "currency": "RM",
+  "confidence": 0.95,
+  "notes": "Goods Sold Are Non Refundable"
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1430,
+  "output_tokens": 103,
+  "model_total_duration_ms": 37806
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 39877,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "X51006912959"
+}

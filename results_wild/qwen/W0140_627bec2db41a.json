@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"Le Louis Philippe\",\n  \"date\": \"2017-05-19\",\n  \"subtotal\": 12.5,\n  \"tax\": 1.14,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 12.5,\n  \"currency\": \"Euro\",\n  \"confidence\": 0.95,\n  \"notes\": \"Note: 1 PLAT SEUL *12.50\\nSous total *12.50\\nH.T. 10.00%\\nTVA 10.00%\\nTOTAL TTC 10.00%\\nTOTAL EURO *12.50\\nNous vous remercions de votre visite et vous souhaitons une bonne journée\"\n}",
+ "data": {
+  "vendor": "Le Louis Philippe",
+  "date": "2017-05-19",
+  "subtotal": 12.5,
+  "tax": 1.14,
+  "tip": null,
+  "discount": null,
+  "total": 12.5,
+  "currency": "Euro",
+  "confidence": 0.95,
+  "notes": "Note: 1 PLAT SEUL *12.50\nSous total *12.50\nH.T. 10.00%\nTVA 10.00%\nTOTAL TTC 10.00%\nTOTAL EURO *12.50\nNous vous remercions de votre visite et vous souhaitons une bonne journée"
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1413,
+  "output_tokens": 174,
+  "model_total_duration_ms": 27339
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 29407,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "W0140_627bec2db41a"
+}

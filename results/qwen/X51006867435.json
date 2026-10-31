@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"Guardian Health And Beauty Sdn Bhd\",\n  \"date\": \"18/05/18\",\n  \"subtotal\": 2.28,\n  \"tax\": 0.13,\n  \"tip\": 0.70,\n  \"discount\": null,\n  \"total\": 2.28,\n  \"currency\": \"RM\",\n  \"confidence\": 0.95,\n  \"notes\": \"Thank You For Shopping At Guardian All Amounts Are In RM Goods sold are non-refundable. Dispensed medicines sold are not returnable. All exchanges and returns including Guardian brand products must be made within 7 days with original receipts and product in original condition.\"\n}",
+ "data": {
+  "vendor": "Guardian Health And Beauty Sdn Bhd",
+  "date": "18/05/18",
+  "subtotal": 2.28,
+  "tax": 0.13,
+  "tip": 0.7,
+  "discount": null,
+  "total": 2.28,
+  "currency": "RM",
+  "confidence": 0.95,
+  "notes": "Thank You For Shopping At Guardian All Amounts Are In RM Goods sold are non-refundable. Dispensed medicines sold are not returnable. All exchanges and returns including Guardian brand products must be made within 7 days with original receipts and product in original condition."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1448,
+  "output_tokens": 154,
+  "model_total_duration_ms": 29177
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 31266,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "X51006867435"
+}

@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"TANJONGMAS BOOKCENTRE (PJ) SDN BHD\",\n  \"date\": \"2017-04-02\",\n  \"subtotal\": 4.30,\n  \"tax\": 0.24,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 4.54,\n  \"currency\": \"RM\",\n  \"confidence\": 0.95,\n  \"notes\": \"Goods sold are not returnable.\"\n}",
+ "data": {
+  "vendor": "TANJONGMAS BOOKCENTRE (PJ) SDN BHD",
+  "date": "2017-04-02",
+  "subtotal": 4.3,
+  "tax": 0.24,
+  "tip": null,
+  "discount": null,
+  "total": 4.54,
+  "currency": "RM",
+  "confidence": 0.95,
+  "notes": "Goods sold are not returnable."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1448,
+  "output_tokens": 111,
+  "model_total_duration_ms": 22811
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 24882,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "X51006387660"
+}

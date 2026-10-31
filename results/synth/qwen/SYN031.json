@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"RAPID WHEELS AUTO SERVICE\",\n  \"date\": \"2024-05-25\",\n  \"subtotal\": 82.30,\n  \"tax\": 4.94,\n  \"tip\": 0,\n  \"discount\": 0,\n  \"total\": 87.24,\n  \"currency\": \"MYR\",\n  \"confidence\": 0.95,\n  \"notes\": \"The receipt is from Rapid Wheels Auto Service located at Lot 1182 Jalan Klang Lama.\"\n}",
+ "data": {
+  "vendor": "RAPID WHEELS AUTO SERVICE",
+  "date": "2024-05-25",
+  "subtotal": 82.3,
+  "tax": 4.94,
+  "tip": 0,
+  "discount": 0,
+  "total": 87.24,
+  "currency": "MYR",
+  "confidence": 0.95,
+  "notes": "The receipt is from Rapid Wheels Auto Service located at Lot 1182 Jalan Klang Lama."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1433,
+  "output_tokens": 124,
+  "model_total_duration_ms": 25664
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 27700,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "SYN031"
+}

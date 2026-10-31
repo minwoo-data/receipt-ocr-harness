@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"BEST BUY #478\",\n  \"date\": \"03/21/03\",\n  \"subtotal\": 26.98,\n  \"tax\": 2.23,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 29.21,\n  \"currency\": \"USD\",\n  \"confidence\": 0.95,\n  \"notes\": \"I HAVE READ AND AGREED TO ALL RETURN AND REFUND POLICIES PRINTED ON THE BACK OF THIS RECEIPT AND POSTED IN THE STORE. I HAVE RECEIVED GOODS AND/OR SERVICES IN THE AMOUNT SHOWN ABOVE.\"\n}",
+ "data": {
+  "vendor": "BEST BUY #478",
+  "date": "03/21/03",
+  "subtotal": 26.98,
+  "tax": 2.23,
+  "tip": null,
+  "discount": null,
+  "total": 29.21,
+  "currency": "USD",
+  "confidence": 0.95,
+  "notes": "I HAVE READ AND AGREED TO ALL RETURN AND REFUND POLICIES PRINTED ON THE BACK OF THIS RECEIPT AND POSTED IN THE STORE. I HAVE RECEIVED GOODS AND/OR SERVICES IN THE AMOUNT SHOWN ABOVE."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1421,
+  "output_tokens": 143,
+  "model_total_duration_ms": 27010
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 29058,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "W0043_2286"
+}

@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"The Fifty Six Bar & Lounge The Loft Restaurant\",\n  \"date\": \"2011-11-11\",\n  \"subtotal\": 66.49,\n  \"tax\": null,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 66.49,\n  \"currency\": \"EUR\",\n  \"confidence\": 0.95,\n  \"notes\": \"The amount is rounded to the nearest cent.\"\n}",
+ "data": {
+  "vendor": "The Fifty Six Bar & Lounge The Loft Restaurant",
+  "date": "2011-11-11",
+  "subtotal": 66.49,
+  "tax": null,
+  "tip": null,
+  "discount": null,
+  "total": 66.49,
+  "currency": "EUR",
+  "confidence": 0.95,
+  "notes": "The amount is rounded to the nearest cent."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1441,
+  "output_tokens": 105,
+  "model_total_duration_ms": 26235
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 28291,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "W0142_756d2b05655f"
+}

@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"YIH Aeon Tebrau City\",\n  \"date\": \"17/04/2018\",\n  \"subtotal\": 81.8,\n  \"tax\": 4.62,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 81.8,\n  \"currency\": \"MYR\",\n  \"confidence\": 1.0,\n  \"notes\": \"Image does not appear to be a receipt.\"\n}",
+ "data": {
+  "vendor": "YIH Aeon Tebrau City",
+  "date": "17/04/2018",
+  "subtotal": 81.8,
+  "tax": 4.62,
+  "tip": null,
+  "discount": null,
+  "total": 81.8,
+  "currency": "MYR",
+  "confidence": 1.0,
+  "notes": "Image does not appear to be a receipt."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1430,
+  "output_tokens": 106,
+  "model_total_duration_ms": 25508
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 27562,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "X51006414713"
+}

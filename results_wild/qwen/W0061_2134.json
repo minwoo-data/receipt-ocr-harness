@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"Pizza Hut Restaurants Sdn Bhd\",\n  \"date\": \"07-27-2009\",\n  \"subtotal\": 39.00,\n  \"tax\": 1.95,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 42.95,\n  \"currency\": \"RM\",\n  \"confidence\": 0.95,\n  \"notes\": \"Delivery #10\"\n}",
+ "data": {
+  "vendor": "Pizza Hut Restaurants Sdn Bhd",
+  "date": "07-27-2009",
+  "subtotal": 39.0,
+  "tax": 1.95,
+  "tip": null,
+  "discount": null,
+  "total": 42.95,
+  "currency": "RM",
+  "confidence": 0.95,
+  "notes": "Delivery #10"
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1413,
+  "output_tokens": 103,
+  "model_total_duration_ms": 21502
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 23541,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "W0061_2134"
+}

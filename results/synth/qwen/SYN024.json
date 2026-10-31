@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"NORTHSTAR HARDWARE ENTERPRISE\",\n  \"date\": \"2026-09-03\",\n  \"subtotal\": 104.80,\n  \"tax\": 6.29,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 111.09,\n  \"currency\": \"MYR\",\n  \"confidence\": 0.95,\n  \"notes\": \"Total is 0.00\"\n}",
+ "data": {
+  "vendor": "NORTHSTAR HARDWARE ENTERPRISE",
+  "date": "2026-09-03",
+  "subtotal": 104.8,
+  "tax": 6.29,
+  "tip": null,
+  "discount": null,
+  "total": 111.09,
+  "currency": "MYR",
+  "confidence": 0.95,
+  "notes": "Total is 0.00"
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1431,
+  "output_tokens": 111,
+  "model_total_duration_ms": 35536
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 37622,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "SYN024"
+}

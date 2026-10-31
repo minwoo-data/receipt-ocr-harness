@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"Walgreens\",\n  \"date\": \"2014-01-24\",\n  \"subtotal\": 9.72,\n  \"tax\": 0.79,\n  \"tip\": null,\n  \"discount\": -2.75,\n  \"total\": 10.51,\n  \"currency\": \"USD\",\n  \"confidence\": 0.95,\n  \"notes\": \"The total amount charged is 10.51, but the cash tendered is 10.01, so the change is 0.50.\"\n}",
+ "data": {
+  "vendor": "Walgreens",
+  "date": "2014-01-24",
+  "subtotal": 9.72,
+  "tax": 0.79,
+  "tip": null,
+  "discount": -2.75,
+  "total": 10.51,
+  "currency": "USD",
+  "confidence": 0.95,
+  "notes": "The total amount charged is 10.51, but the cash tendered is 10.01, so the change is 0.50."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1409,
+  "output_tokens": 131,
+  "model_total_duration_ms": 27870
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 29928,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "W0009_5c0095fb92d0"
+}

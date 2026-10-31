@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"CBLUEM RESTAURANTS LTD\",\n  \"date\": \"2015-12-27\",\n  \"subtotal\": 103.03,\n  \"tax\": 9.27,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 112.30,\n  \"currency\": \"C\",\n  \"confidence\": 0.95,\n  \"notes\": \"Receipt from CBluem Restaurants Ltd in Limassol, Cyprus.\"\n}",
+ "data": {
+  "vendor": "CBLUEM RESTAURANTS LTD",
+  "date": "2015-12-27",
+  "subtotal": 103.03,
+  "tax": 9.27,
+  "tip": null,
+  "discount": null,
+  "total": 112.3,
+  "currency": "C",
+  "confidence": 0.95,
+  "notes": "Receipt from CBluem Restaurants Ltd in Limassol, Cyprus."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1409,
+  "output_tokens": 115,
+  "model_total_duration_ms": 31292
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 33352,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "W0106_5f60b0876ca6"
+}

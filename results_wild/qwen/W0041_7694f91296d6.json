@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"Old Fort Antique Mall, Inc.\",\n  \"date\": \"02/28/13\",\n  \"subtotal\": 4.99,\n  \"tax\": 0.25,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 5.24,\n  \"currency\": \"USD\",\n  \"confidence\": 0.95,\n  \"notes\": \"The receipt is partially obscured and some details are not fully visible.\"\n}",
+ "data": {
+  "vendor": "Old Fort Antique Mall, Inc.",
+  "date": "02/28/13",
+  "subtotal": 4.99,
+  "tax": 0.25,
+  "tip": null,
+  "discount": null,
+  "total": 5.24,
+  "currency": "USD",
+  "confidence": 0.95,
+  "notes": "The receipt is partially obscured and some details are not fully visible."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1433,
+  "output_tokens": 107,
+  "model_total_duration_ms": 32388
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 34448,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "W0041_7694f91296d6"
+}

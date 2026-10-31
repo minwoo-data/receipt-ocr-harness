@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"Maxincome Resources Sdn Bhd\",\n  \"date\": \"2018-04-10\",\n  \"subtotal\": null,\n  \"tax\": null,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 5.33,\n  \"currency\": \"RM\",\n  \"confidence\": 0.95,\n  \"notes\": \"The receipt is from FamilyMart, a convenience store chain in Malaysia.\"\n}",
+ "data": {
+  "vendor": "Maxincome Resources Sdn Bhd",
+  "date": "2018-04-10",
+  "subtotal": null,
+  "tax": null,
+  "tip": null,
+  "discount": null,
+  "total": 5.33,
+  "currency": "RM",
+  "confidence": 0.95,
+  "notes": "The receipt is from FamilyMart, a convenience store chain in Malaysia."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1422,
+  "output_tokens": 103,
+  "model_total_duration_ms": 21623
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 23672,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "X51006502534"
+}

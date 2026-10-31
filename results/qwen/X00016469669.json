@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"ABC HO TRADING\",\n  \"date\": \"09/01/2019\",\n  \"subtotal\": 31.00,\n  \"tax\": null,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 31.00,\n  \"currency\": \"RM\",\n  \"confidence\": 0.95,\n  \"notes\": \"Goods Sold are non-refundable\"\n}",
+ "data": {
+  "vendor": "ABC HO TRADING",
+  "date": "09/01/2019",
+  "subtotal": 31.0,
+  "tax": null,
+  "tip": null,
+  "discount": null,
+  "total": 31.0,
+  "currency": "RM",
+  "confidence": 0.95,
+  "notes": "Goods Sold are non-refundable"
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1413,
+  "output_tokens": 99,
+  "model_total_duration_ms": 21129
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 23210,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "X00016469669"
+}

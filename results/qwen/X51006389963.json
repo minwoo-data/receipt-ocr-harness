@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"ELKEN SERVICE SDN BHD\",\n  \"date\": \"2017-10-10\",\n  \"subtotal\": 235.85,\n  \"tax\": 14.15,\n  \"tip\": 250.00,\n  \"discount\": null,\n  \"total\": 250.00,\n  \"currency\": \"RM\",\n  \"confidence\": 0.95,\n  \"notes\": \"Image does not appear to be a receipt.\"\n}",
+ "data": {
+  "vendor": "ELKEN SERVICE SDN BHD",
+  "date": "2017-10-10",
+  "subtotal": 235.85,
+  "tax": 14.15,
+  "tip": 250.0,
+  "discount": null,
+  "total": 250.0,
+  "currency": "RM",
+  "confidence": 0.95,
+  "notes": "Image does not appear to be a receipt."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1475,
+  "output_tokens": 119,
+  "model_total_duration_ms": 27314
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 29398,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "X51006389963"
+}

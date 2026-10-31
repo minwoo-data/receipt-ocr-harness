@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"ANNAM VEG RESTAURANT\",\n  \"date\": \"2017-05-23\",\n  \"subtotal\": 365.00,\n  \"tax\": 27.74,\n  \"tip\": 0.26,\n  \"discount\": null,\n  \"total\": 393.00,\n  \"currency\": \"INR\",\n  \"confidence\": 0.95,\n  \"notes\": \"Image does not appear to be a receipt.\"\n}",
+ "data": {
+  "vendor": "ANNAM VEG RESTAURANT",
+  "date": "2017-05-23",
+  "subtotal": 365.0,
+  "tax": 27.74,
+  "tip": 0.26,
+  "discount": null,
+  "total": 393.0,
+  "currency": "INR",
+  "confidence": 0.95,
+  "notes": "Image does not appear to be a receipt."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1427,
+  "output_tokens": 116,
+  "model_total_duration_ms": 18423
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 20460,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "W0198_60cdf6017800"
+}

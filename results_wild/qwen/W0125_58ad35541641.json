@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"India Palace\",\n  \"date\": \"2016-03-28\",\n  \"subtotal\": 28.00,\n  \"tax\": null,\n  \"tip\": 5.00,\n  \"discount\": null,\n  \"total\": 33.00,\n  \"currency\": \"AED\",\n  \"confidence\": 0.95,\n  \"notes\": \"CASH\"\n}",
+ "data": {
+  "vendor": "India Palace",
+  "date": "2016-03-28",
+  "subtotal": 28.0,
+  "tax": null,
+  "tip": 5.0,
+  "discount": null,
+  "total": 33.0,
+  "currency": "AED",
+  "confidence": 0.95,
+  "notes": "CASH"
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1413,
+  "output_tokens": 97,
+  "model_total_duration_ms": 22453
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 24493,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "W0125_58ad35541641"
+}

@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"BEST RESTAURANT\",\n  \"date\": \"20/03/2017\",\n  \"subtotal\": 14.00,\n  \"tax\": 0.84,\n  \"tip\": 0.01,\n  \"discount\": null,\n  \"total\": 14.85,\n  \"currency\": \"RM\",\n  \"confidence\": 0.95,\n  \"notes\": \"All Item Will Be Charges GST\"\n}",
+ "data": {
+  "vendor": "BEST RESTAURANT",
+  "date": "20/03/2017",
+  "subtotal": 14.0,
+  "tax": 0.84,
+  "tip": 0.01,
+  "discount": null,
+  "total": 14.85,
+  "currency": "RM",
+  "confidence": 0.95,
+  "notes": "All Item Will Be Charges GST"
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1412,
+  "output_tokens": 107,
+  "model_total_duration_ms": 21946
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 24017,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "X51006328920"
+}

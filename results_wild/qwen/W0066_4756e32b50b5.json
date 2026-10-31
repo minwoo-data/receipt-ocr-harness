@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"GUCCI\",\n  \"date\": \"2017-06-26\",\n  \"subtotal\": 1590.00,\n  \"tax\": 95.40,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 1685.40,\n  \"currency\": \"USD\",\n  \"confidence\": 0.95,\n  \"notes\": \"Receipt from GUCCI store in King of Prussia, PA.\"\n}",
+ "data": {
+  "vendor": "GUCCI",
+  "date": "2017-06-26",
+  "subtotal": 1590.0,
+  "tax": 95.4,
+  "tip": null,
+  "discount": null,
+  "total": 1685.4,
+  "currency": "USD",
+  "confidence": 0.95,
+  "notes": "Receipt from GUCCI store in King of Prussia, PA."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1427,
+  "output_tokens": 111,
+  "model_total_duration_ms": 21567
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 23608,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "W0066_4756e32b50b5"
+}

@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"Carl's Jr\",\n  \"date\": \"09/29/15\",\n  \"subtotal\": 16.37,\n  \"tax\": 1.16,\n  \"tip\": null,\n  \"discount\": -3.54,\n  \"total\": 13.99,\n  \"currency\": \"USD\",\n  \"confidence\": 0.95,\n  \"notes\": \"Store#818-998-0188 DM#480-232-8092\"\n}",
+ "data": {
+  "vendor": "Carl's Jr",
+  "date": "09/29/15",
+  "subtotal": 16.37,
+  "tax": 1.16,
+  "tip": null,
+  "discount": -3.54,
+  "total": 13.99,
+  "currency": "USD",
+  "confidence": 0.95,
+  "notes": "Store#818-998-0188 DM#480-232-8092"
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1413,
+  "output_tokens": 125,
+  "model_total_duration_ms": 24634
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 26710,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "W0074_8cbcc76af6e2"
+}

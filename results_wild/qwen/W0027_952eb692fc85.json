@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"Fujii\",\n  \"date\": \"2018-03-31\",\n  \"subtotal\": 1090,\n  \"tax\": null,\n  \"tip\": 109,\n  \"discount\": null,\n  \"total\": 1199,\n  \"currency\": \"THB\",\n  \"confidence\": 0.95,\n  \"notes\": \"The receipt is in Thai and includes a tax invoice (ABB)/receipt.\"\n}",
+ "data": {
+  "vendor": "Fujii",
+  "date": "2018-03-31",
+  "subtotal": 1090,
+  "tax": null,
+  "tip": 109,
+  "discount": null,
+  "total": 1199,
+  "currency": "THB",
+  "confidence": 0.95,
+  "notes": "The receipt is in Thai and includes a tax invoice (ABB)/receipt."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1401,
+  "output_tokens": 107,
+  "model_total_duration_ms": 20889
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 22946,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "W0027_952eb692fc85"
+}

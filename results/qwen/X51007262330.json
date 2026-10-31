@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"SWC ENTERPRISE SDN BHD\",\n  \"date\": \"2018-03-23\",\n  \"subtotal\": 41.2,\n  \"tax\": 2.34,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 41.2,\n  \"currency\": \"RM\",\n  \"confidence\": 0.95,\n  \"notes\": \"Goods sold only exchangeable within 3 days. Goods sold are not refundable. Thank you for your kind support. Please come again.\"\n}",
+ "data": {
+  "vendor": "SWC ENTERPRISE SDN BHD",
+  "date": "2018-03-23",
+  "subtotal": 41.2,
+  "tax": 2.34,
+  "tip": null,
+  "discount": null,
+  "total": 41.2,
+  "currency": "RM",
+  "confidence": 0.95,
+  "notes": "Goods sold only exchangeable within 3 days. Goods sold are not refundable. Thank you for your kind support. Please come again."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1427,
+  "output_tokens": 128,
+  "model_total_duration_ms": 16643
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 18705,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "X51007262330"
+}

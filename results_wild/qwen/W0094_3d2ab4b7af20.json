@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"Trendz Restaurant and Wine Bar\",\n  \"date\": \"2014-09-27\",\n  \"subtotal\": 13.00,\n  \"tax\": 1.95,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 14.95,\n  \"currency\": \"CAD\",\n  \"confidence\": 0.95,\n  \"notes\": \"Receipt from Trendz Restaurant and Wine Bar, Best Western Dartmouth, 15 Spectacle Lake.\"\n}",
+ "data": {
+  "vendor": "Trendz Restaurant and Wine Bar",
+  "date": "2014-09-27",
+  "subtotal": 13.0,
+  "tax": 1.95,
+  "tip": null,
+  "discount": null,
+  "total": 14.95,
+  "currency": "CAD",
+  "confidence": 0.95,
+  "notes": "Receipt from Trendz Restaurant and Wine Bar, Best Western Dartmouth, 15 Spectacle Lake."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1413,
+  "output_tokens": 119,
+  "model_total_duration_ms": 31997
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 34027,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "W0094_3d2ab4b7af20"
+}

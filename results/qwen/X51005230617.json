@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"Gerbang Alaf Restaurants Sdn Bhd\",\n  \"date\": \"18/01/2018\",\n  \"subtotal\": 26.6,\n  \"tax\": null,\n  \"tip\": 1.51,\n  \"discount\": null,\n  \"total\": 26.6,\n  \"currency\": \"MYR\",\n  \"confidence\": 0.95,\n  \"notes\": \"We'd love to hear your feedback! sit www.mcdfeedback.com. OR Download My McD Feedback from Google Play/App Store to share your experience. Thank You and Please Come Again. Customer Service Hotline : 03-2726-5600\"\n}",
+ "data": {
+  "vendor": "Gerbang Alaf Restaurants Sdn Bhd",
+  "date": "18/01/2018",
+  "subtotal": 26.6,
+  "tax": null,
+  "tip": 1.51,
+  "discount": null,
+  "total": 26.6,
+  "currency": "MYR",
+  "confidence": 0.95,
+  "notes": "We'd love to hear your feedback! sit www.mcdfeedback.com. OR Download My McD Feedback from Google Play/App Store to share your experience. Thank You and Please Come Again. Customer Service Hotline : 03-2726-5600"
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1403,
+  "output_tokens": 155,
+  "model_total_duration_ms": 25250
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 27303,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "X51005230617"
+}

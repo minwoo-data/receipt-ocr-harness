@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"Aur e Anne's\",\n  \"date\": \"2014-09-05\",\n  \"subtotal\": 3.80,\n  \"tax\": 0.22,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 3.80,\n  \"currency\": \"RM\",\n  \"confidence\": 0.95,\n  \"notes\": \"The receipt is partially obscured and some text is difficult to read.\"\n}",
+ "data": {
+  "vendor": "Aur e Anne's",
+  "date": "2014-09-05",
+  "subtotal": 3.8,
+  "tax": 0.22,
+  "tip": null,
+  "discount": null,
+  "total": 3.8,
+  "currency": "RM",
+  "confidence": 0.95,
+  "notes": "The receipt is partially obscured and some text is difficult to read."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1413,
+  "output_tokens": 107,
+  "model_total_duration_ms": 31559
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 33595,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "W0071_73b3503ee99e"
+}

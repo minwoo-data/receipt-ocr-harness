@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"99 SPEED MART S/B\",\n  \"date\": \"04-06-16\",\n  \"subtotal\": 2.10,\n  \"tax\": 1.12,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 2.10,\n  \"currency\": \"RM\",\n  \"confidence\": 0.95,\n  \"notes\": \"Gardenia Squiggles Ch0\"\n}",
+ "data": {
+  "vendor": "99 SPEED MART S/B",
+  "date": "04-06-16",
+  "subtotal": 2.1,
+  "tax": 1.12,
+  "tip": null,
+  "discount": null,
+  "total": 2.1,
+  "currency": "RM",
+  "confidence": 0.95,
+  "notes": "Gardenia Squiggles Ch0"
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1433,
+  "output_tokens": 104,
+  "model_total_duration_ms": 19441
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 21496,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "X51006619854"
+}

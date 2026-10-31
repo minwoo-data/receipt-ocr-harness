@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"DE LUXE CIRCLE FRESH MART SDN BHD\",\n  \"date\": \"12/05/18\",\n  \"subtotal\": 12.00,\n  \"tax\": 0.68,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 12.00,\n  \"currency\": \"S$\",\n  \"confidence\": 1.0,\n  \"notes\": \"Image does not appear to be a receipt.\"\n}",
+ "data": {
+  "vendor": "DE LUXE CIRCLE FRESH MART SDN BHD",
+  "date": "12/05/18",
+  "subtotal": 12.0,
+  "tax": 0.68,
+  "tip": null,
+  "discount": null,
+  "total": 12.0,
+  "currency": "S$",
+  "confidence": 1.0,
+  "notes": "Image does not appear to be a receipt."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1441,
+  "output_tokens": 111,
+  "model_total_duration_ms": 29281
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 31355,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "X51006913054"
+}

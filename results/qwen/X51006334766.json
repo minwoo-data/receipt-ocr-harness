@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"MEI LET RESTAURANT\",\n  \"date\": \"12/01/2017\",\n  \"subtotal\": 56.00,\n  \"tax\": 3.36,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 59.35,\n  \"currency\": \"SR\",\n  \"confidence\": 0.95,\n  \"notes\": \"Image does not appear to be a receipt.\"\n}",
+ "data": {
+  "vendor": "MEI LET RESTAURANT",
+  "date": "12/01/2017",
+  "subtotal": 56.0,
+  "tax": 3.36,
+  "tip": null,
+  "discount": null,
+  "total": 59.35,
+  "currency": "SR",
+  "confidence": 0.95,
+  "notes": "Image does not appear to be a receipt."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1433,
+  "output_tokens": 107,
+  "model_total_duration_ms": 22549
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 24621,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "X51006334766"
+}

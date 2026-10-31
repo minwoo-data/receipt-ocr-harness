@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"Sainsbury's\",\n  \"date\": \"16AUG2015\",\n  \"subtotal\": 0.2,\n  \"tax\": 0,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 0.2,\n  \"currency\": \"GBP\",\n  \"confidence\": 0.95,\n  \"notes\": \"Based on price perception data, you can live well for less than you thought at Sainsbury's. For more information go to sainsburys.co.uk/livewellforless\"\n}",
+ "data": {
+  "vendor": "Sainsbury's",
+  "date": "16AUG2015",
+  "subtotal": 0.2,
+  "tax": 0,
+  "tip": null,
+  "discount": null,
+  "total": 0.2,
+  "currency": "GBP",
+  "confidence": 0.95,
+  "notes": "Based on price perception data, you can live well for less than you thought at Sainsbury's. For more information go to sainsburys.co.uk/livewellforless"
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1430,
+  "output_tokens": 125,
+  "model_total_duration_ms": 24578
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 26639,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "W0021_c62899025130"
+}

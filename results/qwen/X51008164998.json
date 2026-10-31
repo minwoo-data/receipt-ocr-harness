@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"ONE ONE THREE SEAFOOD RESTAURANT SDN BHD\",\n  \"date\": \"20-06-2018\",\n  \"subtotal\": 38.00,\n  \"tax\": 0.00,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 38.00,\n  \"currency\": \"SR\",\n  \"confidence\": 1.0,\n  \"notes\": \"closed: 1\"\n}",
+ "data": {
+  "vendor": "ONE ONE THREE SEAFOOD RESTAURANT SDN BHD",
+  "date": "20-06-2018",
+  "subtotal": 38.0,
+  "tax": 0.0,
+  "tip": null,
+  "discount": null,
+  "total": 38.0,
+  "currency": "SR",
+  "confidence": 1.0,
+  "notes": "closed: 1"
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1435,
+  "output_tokens": 109,
+  "model_total_duration_ms": 21933
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 23986,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "X51008164998"
+}

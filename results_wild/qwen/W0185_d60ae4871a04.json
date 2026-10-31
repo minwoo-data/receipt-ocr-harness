@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"Five Below - Waldorf\",\n  \"date\": \"2013-09-15\",\n  \"subtotal\": 3.00,\n  \"tax\": 0.18,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 3.18,\n  \"currency\": \"USD\",\n  \"confidence\": 0.95,\n  \"notes\": \"The receipt is partially obscured and some details are not fully visible.\"\n}",
+ "data": {
+  "vendor": "Five Below - Waldorf",
+  "date": "2013-09-15",
+  "subtotal": 3.0,
+  "tax": 0.18,
+  "tip": null,
+  "discount": null,
+  "total": 3.18,
+  "currency": "USD",
+  "confidence": 0.95,
+  "notes": "The receipt is partially obscured and some details are not fully visible."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1561,
+  "output_tokens": 108,
+  "model_total_duration_ms": 18932
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 20995,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "W0185_d60ae4871a04"
+}

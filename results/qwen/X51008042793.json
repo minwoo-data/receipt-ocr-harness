@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"SANG KEE CHERAS RESTAURANT\",\n  \"date\": \"03/05/2018\",\n  \"subtotal\": 2.5,\n  \"tax\": 0.14,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 2.5,\n  \"currency\": \"RM\",\n  \"confidence\": 0.95,\n  \"notes\": \"Image does not appear to be a receipt.\"\n}",
+ "data": {
+  "vendor": "SANG KEE CHERAS RESTAURANT",
+  "date": "03/05/2018",
+  "subtotal": 2.5,
+  "tax": 0.14,
+  "tip": null,
+  "discount": null,
+  "total": 2.5,
+  "currency": "RM",
+  "confidence": 0.95,
+  "notes": "Image does not appear to be a receipt."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1427,
+  "output_tokens": 107,
+  "model_total_duration_ms": 33673
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 35728,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "X51008042793"
+}

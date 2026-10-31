@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"ENW Hardware Centre (M) Sdn. Bhd.\",\n  \"date\": \"09/04/2018\",\n  \"subtotal\": 51,\n  \"tax\": null,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 51,\n  \"currency\": \"SR\",\n  \"confidence\": 0.95,\n  \"notes\": \"Goods sold are not returnable\"\n}",
+ "data": {
+  "vendor": "ENW Hardware Centre (M) Sdn. Bhd.",
+  "date": "09/04/2018",
+  "subtotal": 51,
+  "tax": null,
+  "tip": null,
+  "discount": null,
+  "total": 51,
+  "currency": "SR",
+  "confidence": 0.95,
+  "notes": "Goods sold are not returnable"
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1455,
+  "output_tokens": 101,
+  "model_total_duration_ms": 35890
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 37968,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "X51007225417"
+}

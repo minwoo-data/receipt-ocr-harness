@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"TEO HENG STATIONERY & BOOKS\",\n  \"date\": \"17/01/2018\",\n  \"subtotal\": 26.00,\n  \"tax\": 1.56,\n  \"tip\": 0.00,\n  \"discount\": -7.14,\n  \"total\": 27.55,\n  \"currency\": \"RM\",\n  \"confidence\": 0.95,\n  \"notes\": \"GOODS SOLD ARE NOT RETURNABLE, THANK YOU.\"\n}",
+ "data": {
+  "vendor": "TEO HENG STATIONERY & BOOKS",
+  "date": "17/01/2018",
+  "subtotal": 26.0,
+  "tax": 1.56,
+  "tip": 0.0,
+  "discount": -7.14,
+  "total": 27.55,
+  "currency": "RM",
+  "confidence": 0.95,
+  "notes": "GOODS SOLD ARE NOT RETURNABLE, THANK YOU."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1430,
+  "output_tokens": 121,
+  "model_total_duration_ms": 27991
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 30052,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "X51005361897"
+}

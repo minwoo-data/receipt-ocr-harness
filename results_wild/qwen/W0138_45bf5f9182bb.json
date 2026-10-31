@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"The Westin Detroit Metropolitan Airport Reflections\",\n  \"date\": \"2016-10-23\",\n  \"subtotal\": 51.00,\n  \"tax\": 3.06,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 54.06,\n  \"currency\": \"NGN\",\n  \"confidence\": 0.95,\n  \"notes\": \"Receipt from The Westin Detroit Metropolitan Airport Reflections.\"\n}",
+ "data": {
+  "vendor": "The Westin Detroit Metropolitan Airport Reflections",
+  "date": "2016-10-23",
+  "subtotal": 51.0,
+  "tax": 3.06,
+  "tip": null,
+  "discount": null,
+  "total": 54.06,
+  "currency": "NGN",
+  "confidence": 0.95,
+  "notes": "Receipt from The Westin Detroit Metropolitan Airport Reflections."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1433,
+  "output_tokens": 111,
+  "model_total_duration_ms": 23306
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 25365,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "W0138_45bf5f9182bb"
+}

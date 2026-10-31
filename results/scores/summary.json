@@ -29,16 +29,16 @@
  },
  {
   "engine": "qwen",
-  "n": 127,
+  "n": 300,
   "acc": {
-   "company": 0.874,
-   "date": 0.9449,
-   "total": 0.8492
+   "company": 0.8867,
+   "date": 0.9567,
+   "total": 0.8696
   },
-  "all_three": 0.7087,
+  "all_three": 0.7333,
   "parsed_share": 1.0,
-  "latency_ms_median": 33322,
-  "latency_ms_p90": 49726,
+  "latency_ms_median": 28293,
+  "latency_ms_p90": 44750,
   "cost_usd_per_1k": 0.0
  },
  {

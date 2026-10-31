@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"FILL IN ENTERPRISE\",\n  \"date\": \"03/06/18\",\n  \"subtotal\": 100.00,\n  \"tax\": 0.00,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 100.00,\n  \"currency\": \"RM\",\n  \"confidence\": 0.95,\n  \"notes\": \"Diesel & Petrol RON95 given Relief under Section 56 (3) (b) GST Act 2014\"\n}",
+ "data": {
+  "vendor": "FILL IN ENTERPRISE",
+  "date": "03/06/18",
+  "subtotal": 100.0,
+  "tax": 0.0,
+  "tip": null,
+  "discount": null,
+  "total": 100.0,
+  "currency": "RM",
+  "confidence": 0.95,
+  "notes": "Diesel & Petrol RON95 given Relief under Section 56 (3) (b) GST Act 2014"
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1433,
+  "output_tokens": 129,
+  "model_total_duration_ms": 50675
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 52772,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "X51008114321"
+}

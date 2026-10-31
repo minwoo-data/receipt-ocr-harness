@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"GREAT ZONE HOUSEHOLD CENTRE SDN BHD\",\n  \"date\": \"2018-02-18\",\n  \"subtotal\": 346.51,\n  \"tax\": 20.79,\n  \"tip\": 0,\n  \"discount\": null,\n  \"total\": 367.30,\n  \"currency\": \"RM\",\n  \"confidence\": 0.95,\n  \"notes\": \"Image does not appear to be a receipt.\"\n}",
+ "data": {
+  "vendor": "GREAT ZONE HOUSEHOLD CENTRE SDN BHD",
+  "date": "2018-02-18",
+  "subtotal": 346.51,
+  "tax": 20.79,
+  "tip": 0,
+  "discount": null,
+  "total": 367.3,
+  "currency": "RM",
+  "confidence": 0.95,
+  "notes": "Image does not appear to be a receipt."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1422,
+  "output_tokens": 118,
+  "model_total_duration_ms": 28788
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 30847,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "X51005806692"
+}

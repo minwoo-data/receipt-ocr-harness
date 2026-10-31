@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"maze GRILL GORDON RAMSAY\",\n  \"date\": \"2013-04-24\",\n  \"subtotal\": 24.5,\n  \"tax\": 3.66,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 24.5,\n  \"currency\": \"GBP\",\n  \"confidence\": 0.95,\n  \"notes\": \"Receipt from Maze Grill restaurant in London, UK.\"\n}",
+ "data": {
+  "vendor": "maze GRILL GORDON RAMSAY",
+  "date": "2013-04-24",
+  "subtotal": 24.5,
+  "tax": 3.66,
+  "tip": null,
+  "discount": null,
+  "total": 24.5,
+  "currency": "GBP",
+  "confidence": 0.95,
+  "notes": "Receipt from Maze Grill restaurant in London, UK."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1413,
+  "output_tokens": 108,
+  "model_total_duration_ms": 21755
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 23821,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "W0037_1178"
+}

@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"IN-N-OUT BURGER GRANTS PASS\",\n  \"date\": \"2018-01-03\",\n  \"subtotal\": null,\n  \"tax\": null,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 14,\n  \"currency\": \"USD\",\n  \"confidence\": 0.95,\n  \"notes\": \"The receipt is from a fast food restaurant and includes a donation request to end human trafficking.\"\n}",
+ "data": {
+  "vendor": "IN-N-OUT BURGER GRANTS PASS",
+  "date": "2018-01-03",
+  "subtotal": null,
+  "tax": null,
+  "tip": null,
+  "discount": null,
+  "total": 14,
+  "currency": "USD",
+  "confidence": 0.95,
+  "notes": "The receipt is from a fast food restaurant and includes a donation request to end human trafficking."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1413,
+  "output_tokens": 107,
+  "model_total_duration_ms": 25627
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 27656,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "W0130_0e1efc8ffacd"
+}

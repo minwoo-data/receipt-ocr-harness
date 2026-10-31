@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"VISIGI HOTSHINE CAR WASH & LUBE CENTERS\",\n  \"date\": \"2016-02-20\",\n  \"subtotal\": 46.00,\n  \"tax\": 0.00,\n  \"tip\": null,\n  \"discount\": -13.99,\n  \"total\": 46.00,\n  \"currency\": \"USD\",\n  \"confidence\": 0.95,\n  \"notes\": \"The receipt is partially obscured and some details are not fully visible.\"\n}",
+ "data": {
+  "vendor": "VISIGI HOTSHINE CAR WASH & LUBE CENTERS",
+  "date": "2016-02-20",
+  "subtotal": 46.0,
+  "tax": 0.0,
+  "tip": null,
+  "discount": -13.99,
+  "total": 46.0,
+  "currency": "USD",
+  "confidence": 0.95,
+  "notes": "The receipt is partially obscured and some details are not fully visible."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1409,
+  "output_tokens": 123,
+  "model_total_duration_ms": 26495
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 28546,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "W0082_a23d9edd1676"
+}

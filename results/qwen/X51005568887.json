@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"HON HWA HARDWARE TRADING\",\n  \"date\": \"20/04/2017\",\n  \"subtotal\": 7.20,\n  \"tax\": 0.41,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 7.20,\n  \"currency\": \"SR\",\n  \"confidence\": 0.95,\n  \"notes\": \"Goods sold are not refundable for refund or exchange\"\n}",
+ "data": {
+  "vendor": "HON HWA HARDWARE TRADING",
+  "date": "20/04/2017",
+  "subtotal": 7.2,
+  "tax": 0.41,
+  "tip": null,
+  "discount": null,
+  "total": 7.2,
+  "currency": "SR",
+  "confidence": 0.95,
+  "notes": "Goods sold are not refundable for refund or exchange"
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1433,
+  "output_tokens": 108,
+  "model_total_duration_ms": 20006
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 22098,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "X51005568887"
+}

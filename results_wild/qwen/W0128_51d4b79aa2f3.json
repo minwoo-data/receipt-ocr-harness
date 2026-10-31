@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"Walgreens\",\n  \"date\": \"2017-06-16\",\n  \"subtotal\": 250,\n  \"tax\": null,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 250,\n  \"currency\": \"USD\",\n  \"confidence\": 0.95,\n  \"notes\": \"Amazon Gift Card purchase.\"\n}",
+ "data": {
+  "vendor": "Walgreens",
+  "date": "2017-06-16",
+  "subtotal": 250,
+  "tax": null,
+  "tip": null,
+  "discount": null,
+  "total": 250,
+  "currency": "USD",
+  "confidence": 0.95,
+  "notes": "Amazon Gift Card purchase."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1413,
+  "output_tokens": 90,
+  "model_total_duration_ms": 19429
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 21462,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "W0128_51d4b79aa2f3"
+}

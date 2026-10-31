@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"KFC OLDBURY\",\n  \"date\": \"2015-06-18\",\n  \"subtotal\": 3.79,\n  \"tax\": 0.63,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 4.42,\n  \"currency\": \"GBP\",\n  \"confidence\": 0.95,\n  \"notes\": \"KFC OLDBURY Orion Gate, Guildford Road Woking, GU22 7NJ 0121 544 1819 05656\"\n}",
+ "data": {
+  "vendor": "KFC OLDBURY",
+  "date": "2015-06-18",
+  "subtotal": 3.79,
+  "tax": 0.63,
+  "tip": null,
+  "discount": null,
+  "total": 4.42,
+  "currency": "GBP",
+  "confidence": 0.95,
+  "notes": "KFC OLDBURY Orion Gate, Guildford Road Woking, GU22 7NJ 0121 544 1819 05656"
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1413,
+  "output_tokens": 135,
+  "model_total_duration_ms": 28948
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 31009,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "W0087_2d2ac20a0bb6"
+}

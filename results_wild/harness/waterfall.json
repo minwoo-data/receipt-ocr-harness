@@ -1,15 +1,21 @@
 [
  {
   "tier": "t2",
-  "n": 0,
-  "model_errors": 0,
-  "flagged": 0,
-  "errors_caught": 0,
-  "errors_leaked": 0,
-  "false_flags": 0,
-  "verifier_recall": null,
-  "verifier_precision": null,
-  "flag_counts": {}
+  "n": 200,
+  "model_errors": 38,
+  "flagged": 70,
+  "errors_caught": 26,
+  "errors_leaked": 12,
+  "false_flags": 44,
+  "verifier_recall": 0.6842,
+  "verifier_precision": 0.3714,
+  "flag_counts": {
+   "G_ARITH": 37,
+   "G_AGREE_DATE": 28,
+   "G_AGREE_TOTAL": 13,
+   "G_RANGE": 3,
+   "G_DATE": 1
+  }
  },
  {
   "tier": "t3",

@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"KOPITIAM SERI MELAKA\",\n  \"date\": \"2026-10-02\",\n  \"subtotal\": 29.70,\n  \"tax\": 1.78,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 31.48,\n  \"currency\": \"MYR\",\n  \"confidence\": 0.95,\n  \"notes\": \"The receipt is from a Malaysian store and the date format is DD/MM/YYYY.\"\n}",
+ "data": {
+  "vendor": "KOPITIAM SERI MELAKA",
+  "date": "2026-10-02",
+  "subtotal": 29.7,
+  "tax": 1.78,
+  "tip": null,
+  "discount": null,
+  "total": 31.48,
+  "currency": "MYR",
+  "confidence": 0.95,
+  "notes": "The receipt is from a Malaysian store and the date format is DD/MM/YYYY."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1431,
+  "output_tokens": 119,
+  "model_total_duration_ms": 26930
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 28964,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "SYN030"
+}

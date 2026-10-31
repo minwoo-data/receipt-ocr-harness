@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"Sage General Store\",\n  \"date\": \"2013-02-17\",\n  \"subtotal\": 18.00,\n  \"tax\": 1.60,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 19.60,\n  \"currency\": \"USD\",\n  \"confidence\": 0.95,\n  \"notes\": \"The receipt is partially obscured and some details are not fully visible.\"\n}",
+ "data": {
+  "vendor": "Sage General Store",
+  "date": "2013-02-17",
+  "subtotal": 18.0,
+  "tax": 1.6,
+  "tip": null,
+  "discount": null,
+  "total": 19.6,
+  "currency": "USD",
+  "confidence": 0.95,
+  "notes": "The receipt is partially obscured and some details are not fully visible."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1413,
+  "output_tokens": 108,
+  "model_total_duration_ms": 17641
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 19717,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "W0182_1b8c3062291f"
+}

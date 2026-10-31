@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"ARRANGE STATIONERS & PRINT SDN BHD\",\n  \"date\": \"10/04/2017\",\n  \"subtotal\": 14.53,\n  \"tax\": 0.87,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 15.4,\n  \"currency\": \"RM\",\n  \"confidence\": 0.95,\n  \"notes\": \"Goods sold are not returnable. Thank you.\"\n}",
+ "data": {
+  "vendor": "ARRANGE STATIONERS & PRINT SDN BHD",
+  "date": "10/04/2017",
+  "subtotal": 14.53,
+  "tax": 0.87,
+  "tip": null,
+  "discount": null,
+  "total": 15.4,
+  "currency": "RM",
+  "confidence": 0.95,
+  "notes": "Goods sold are not returnable. Thank you."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1435,
+  "output_tokens": 111,
+  "model_total_duration_ms": 26456
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 28553,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "X51006401940"
+}

@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"KING'S CONFECTIONERY S/B\",\n  \"date\": \"2017-05-21\",\n  \"subtotal\": 27.50,\n  \"tax\": null,\n  \"tip\": 3.00,\n  \"discount\": null,\n  \"total\": 27.50,\n  \"currency\": \"RM\",\n  \"confidence\": 0.95,\n  \"notes\": \"Goods sold not returnable/exchangeable!\"\n}",
+ "data": {
+  "vendor": "KING'S CONFECTIONERY S/B",
+  "date": "2017-05-21",
+  "subtotal": 27.5,
+  "tax": null,
+  "tip": 3.0,
+  "discount": null,
+  "total": 27.5,
+  "currency": "RM",
+  "confidence": 0.95,
+  "notes": "Goods sold not returnable/exchangeable!"
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1433,
+  "output_tokens": 109,
+  "model_total_duration_ms": 23579
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 25641,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "X51006388081"
+}

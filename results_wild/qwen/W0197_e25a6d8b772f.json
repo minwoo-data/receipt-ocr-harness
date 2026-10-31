@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"Bachmann Japanese Restaurant\",\n  \"date\": \"26/09/2011\",\n  \"subtotal\": 36.5,\n  \"tax\": 2.81,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 42.95,\n  \"currency\": \"USD\",\n  \"confidence\": 0.95,\n  \"notes\": \"Closed Bill\"\n}",
+ "data": {
+  "vendor": "Bachmann Japanese Restaurant",
+  "date": "26/09/2011",
+  "subtotal": 36.5,
+  "tax": 2.81,
+  "tip": null,
+  "discount": null,
+  "total": 42.95,
+  "currency": "USD",
+  "confidence": 0.95,
+  "notes": "Closed Bill"
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1413,
+  "output_tokens": 100,
+  "model_total_duration_ms": 19266
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 21332,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "W0197_e25a6d8b772f"
+}

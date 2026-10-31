@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"KOPITIAM SERI MELAKA\",\n  \"date\": \"10/09/2025\",\n  \"subtotal\": 83.60,\n  \"tax\": 5.02,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 188.62,\n  \"currency\": \"MYR\",\n  \"confidence\": 0.95,\n  \"notes\": \"Receipt from a Malaysian supermarket.\"\n}",
+ "data": {
+  "vendor": "KOPITIAM SERI MELAKA",
+  "date": "10/09/2025",
+  "subtotal": 83.6,
+  "tax": 5.02,
+  "tip": null,
+  "discount": null,
+  "total": 188.62,
+  "currency": "MYR",
+  "confidence": 0.95,
+  "notes": "Receipt from a Malaysian supermarket."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1433,
+  "output_tokens": 110,
+  "model_total_duration_ms": 29342
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 31438,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "SYN011"
+}

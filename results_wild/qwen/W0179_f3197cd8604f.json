@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"STAPLES\",\n  \"date\": \"2002-07-24\",\n  \"subtotal\": 89.82,\n  \"tax\": 7.41,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 97.23,\n  \"currency\": \"USD\",\n  \"confidence\": 0.95,\n  \"notes\": \"Low prices. Every item. Every day. We 110% Price Match Guarantee It.\"\n}",
+ "data": {
+  "vendor": "STAPLES",
+  "date": "2002-07-24",
+  "subtotal": 89.82,
+  "tax": 7.41,
+  "tip": null,
+  "discount": null,
+  "total": 97.23,
+  "currency": "USD",
+  "confidence": 0.95,
+  "notes": "Low prices. Every item. Every day. We 110% Price Match Guarantee It."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1433,
+  "output_tokens": 114,
+  "model_total_duration_ms": 22856
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 24927,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "W0179_f3197cd8604f"
+}

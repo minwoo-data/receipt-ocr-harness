@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"ADVANCO COMPANY\",\n  \"date\": \"2018-03-23\",\n  \"subtotal\": 83.00,\n  \"tax\": 4.70,\n  \"tip\": null,\n  \"discount\": -1.00,\n  \"total\": 83.00,\n  \"currency\": \"SR\",\n  \"confidence\": 0.95,\n  \"notes\": \"Goods sold are not returnable for refund or exchange!\"\n}",
+ "data": {
+  "vendor": "ADVANCO COMPANY",
+  "date": "2018-03-23",
+  "subtotal": 83.0,
+  "tax": 4.7,
+  "tip": null,
+  "discount": -1.0,
+  "total": 83.0,
+  "currency": "SR",
+  "confidence": 0.95,
+  "notes": "Goods sold are not returnable for refund or exchange!"
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1452,
+  "output_tokens": 110,
+  "model_total_duration_ms": 24058
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 26094,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "X51005605284"
+}

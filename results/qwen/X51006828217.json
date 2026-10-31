@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"99 SPEED MART S/B\",\n  \"date\": \"14-08-17\",\n  \"subtotal\": 14.38,\n  \"tax\": 0.82,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 14.4,\n  \"currency\": \"RM\",\n  \"confidence\": 0.95,\n  \"notes\": \"Image does not appear to be a receipt.\"\n}",
+ "data": {
+  "vendor": "99 SPEED MART S/B",
+  "date": "14-08-17",
+  "subtotal": 14.38,
+  "tax": 0.82,
+  "tip": null,
+  "discount": null,
+  "total": 14.4,
+  "currency": "RM",
+  "confidence": 0.95,
+  "notes": "Image does not appear to be a receipt."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1458,
+  "output_tokens": 103,
+  "model_total_duration_ms": 47154
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 49261,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "X51006828217"
+}

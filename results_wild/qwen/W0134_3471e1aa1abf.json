@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"ZANOTTO'S MARKET\",\n  \"date\": \"07/18/10\",\n  \"subtotal\": 2.96,\n  \"tax\": null,\n  \"tip\": null,\n  \"discount\": -2.0,\n  \"total\": 0.96,\n  \"currency\": \"USD\",\n  \"confidence\": 0.95,\n  \"notes\": \"date: ISO format YYYY-MM-DD. Receipts outside the US usually print day first (DD/MM/YYYY); use the printed order and the country context to decide. If the year has 2 digits, expand it (18 -> 2018).\"\n}",
+ "data": {
+  "vendor": "ZANOTTO'S MARKET",
+  "date": "07/18/10",
+  "subtotal": 2.96,
+  "tax": null,
+  "tip": null,
+  "discount": -2.0,
+  "total": 0.96,
+  "currency": "USD",
+  "confidence": 0.95,
+  "notes": "date: ISO format YYYY-MM-DD. Receipts outside the US usually print day first (DD/MM/YYYY); use the printed order and the country context to decide. If the year has 2 digits, expand it (18 -> 2018)."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1598,
+  "output_tokens": 147,
+  "model_total_duration_ms": 28906
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 30989,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "W0134_3471e1aa1abf"
+}

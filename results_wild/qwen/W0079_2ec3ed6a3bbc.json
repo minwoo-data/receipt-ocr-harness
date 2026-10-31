@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"California Pizza Kitchen(TKO)\",\n  \"date\": \"2016-09-09\",\n  \"subtotal\": 120.00,\n  \"tax\": null,\n  \"tip\": null,\n  \"discount\": -18.00,\n  \"total\": 124.60,\n  \"currency\": \"HKD\",\n  \"confidence\": 0.95,\n  \"notes\": \"Date printed in ISO format, day first.\"\n}",
+ "data": {
+  "vendor": "California Pizza Kitchen(TKO)",
+  "date": "2016-09-09",
+  "subtotal": 120.0,
+  "tax": null,
+  "tip": null,
+  "discount": -18.0,
+  "total": 124.6,
+  "currency": "HKD",
+  "confidence": 0.95,
+  "notes": "Date printed in ISO format, day first."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1413,
+  "output_tokens": 109,
+  "model_total_duration_ms": 21810
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 23884,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "W0079_2ec3ed6a3bbc"
+}

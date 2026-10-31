@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"KOHLS\",\n  \"date\": \"07-24-11\",\n  \"subtotal\": 57.39,\n  \"tax\": 3.79,\n  \"tip\": 11.48,\n  \"discount\": -192.08,\n  \"total\": 49.70,\n  \"currency\": \"USD\",\n  \"confidence\": 0.95,\n  \"notes\": \"VISA DEBIT XXXXXXXXXXXX1428 PAYMENT FROM PRIMARY ACCOUNT APPROVED 000000\"\n}",
+ "data": {
+  "vendor": "KOHLS",
+  "date": "07-24-11",
+  "subtotal": 57.39,
+  "tax": 3.79,
+  "tip": 11.48,
+  "discount": -192.08,
+  "total": 49.7,
+  "currency": "USD",
+  "confidence": 0.95,
+  "notes": "VISA DEBIT XXXXXXXXXXXX1428 PAYMENT FROM PRIMARY ACCOUNT APPROVED 000000"
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1413,
+  "output_tokens": 130,
+  "model_total_duration_ms": 29151
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 31209,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "W0046_da701a794164"
+}

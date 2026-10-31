@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"KFC KL CENTRAL\",\n  \"date\": \"2018-09-21\",\n  \"subtotal\": 43.85,\n  \"tax\": 2.63,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 46.48,\n  \"currency\": \"MYR\",\n  \"confidence\": 0.95,\n  \"notes\": \"Purchase one A'la carte 3pcs chicken (Original or Spicy) at 10% discount on next visit to any KFC restaurant.\"\n}",
+ "data": {
+  "vendor": "KFC KL CENTRAL",
+  "date": "2018-09-21",
+  "subtotal": 43.85,
+  "tax": 2.63,
+  "tip": null,
+  "discount": null,
+  "total": 46.48,
+  "currency": "MYR",
+  "confidence": 0.95,
+  "notes": "Purchase one A'la carte 3pcs chicken (Original or Spicy) at 10% discount on next visit to any KFC restaurant."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1452,
+  "output_tokens": 130,
+  "model_total_duration_ms": 28112
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 30173,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "W0089_d06b2e3863ba"
+}

@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"Drips Bakery Cafe\",\n  \"date\": \"20/08/12\",\n  \"subtotal\": 39.9,\n  \"tax\": null,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 39.9,\n  \"currency\": \"SGD\",\n  \"confidence\": 0.95,\n  \"notes\": \"The receipt is from Drips Bakery Cafe in Singapore, with a total amount of $39.90 charged for 5 items.\"\n}",
+ "data": {
+  "vendor": "Drips Bakery Cafe",
+  "date": "20/08/12",
+  "subtotal": 39.9,
+  "tax": null,
+  "tip": null,
+  "discount": null,
+  "total": 39.9,
+  "currency": "SGD",
+  "confidence": 0.95,
+  "notes": "The receipt is from Drips Bakery Cafe in Singapore, with a total amount of $39.90 charged for 5 items."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1441,
+  "output_tokens": 116,
+  "model_total_duration_ms": 34376
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 36438,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "W0030_d3759910dd53"
+}

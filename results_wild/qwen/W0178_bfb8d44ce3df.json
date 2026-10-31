@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"Car Spa 0017\",\n  \"date\": \"05/28/15\",\n  \"subtotal\": 159.48,\n  \"tax\": 5.34,\n  \"tip\": null,\n  \"discount\": -19.99,\n  \"total\": 164.82,\n  \"currency\": \"USD\",\n  \"confidence\": 0.95,\n  \"notes\": \"The receipt is for a car service at Car Spa 0017 located at 3690 Beltline Road.\"\n}",
+ "data": {
+  "vendor": "Car Spa 0017",
+  "date": "05/28/15",
+  "subtotal": 159.48,
+  "tax": 5.34,
+  "tip": null,
+  "discount": -19.99,
+  "total": 164.82,
+  "currency": "USD",
+  "confidence": 0.95,
+  "notes": "The receipt is for a car service at Car Spa 0017 located at 3690 Beltline Road."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1413,
+  "output_tokens": 129,
+  "model_total_duration_ms": 33889
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 35949,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "W0178_bfb8d44ce3df"
+}

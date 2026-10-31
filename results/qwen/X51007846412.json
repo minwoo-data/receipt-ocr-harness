@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"LAVENDER CONFECTIONERY & BAKERY S/B\",\n  \"date\": \"17/06/2018\",\n  \"subtotal\": 26.5,\n  \"tax\": 0,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 26.5,\n  \"currency\": \"T\",\n  \"confidence\": 0.95,\n  \"notes\": \"All sales are final. Goods sold are not refundable nor exchangeable.\"\n}",
+ "data": {
+  "vendor": "LAVENDER CONFECTIONERY & BAKERY S/B",
+  "date": "17/06/2018",
+  "subtotal": 26.5,
+  "tax": 0,
+  "tip": null,
+  "discount": null,
+  "total": 26.5,
+  "currency": "T",
+  "confidence": 0.95,
+  "notes": "All sales are final. Goods sold are not refundable nor exchangeable."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1430,
+  "output_tokens": 114,
+  "model_total_duration_ms": 26393
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 28582,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "X51007846412"
+}

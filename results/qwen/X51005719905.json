@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"SAINT HEART PASTRY\",\n  \"date\": \"25/03/2018\",\n  \"subtotal\": 8.20,\n  \"tax\": 0.46,\n  \"tip\": 0.00,\n  \"discount\": 0.00,\n  \"total\": 8.20,\n  \"currency\": \"RM\",\n  \"confidence\": 1.0,\n  \"notes\": \"GOODS SOLD ARE NOT RETURNABLE, THANK YOU.\"\n}",
+ "data": {
+  "vendor": "SAINT HEART PASTRY",
+  "date": "25/03/2018",
+  "subtotal": 8.2,
+  "tax": 0.46,
+  "tip": 0.0,
+  "discount": 0.0,
+  "total": 8.2,
+  "currency": "RM",
+  "confidence": 1.0,
+  "notes": "GOODS SOLD ARE NOT RETURNABLE, THANK YOU."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1433,
+  "output_tokens": 114,
+  "model_total_duration_ms": 25074
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 27124,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "X51005719905"
+}

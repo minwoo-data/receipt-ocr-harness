@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"TOKYO KITCHEN (CITTA MALL) TOKYO KITCHEN SDN BHD\",\n  \"date\": \"23-04-2017\",\n  \"subtotal\": 97.6,\n  \"tax\": 6.44,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 113.8,\n  \"currency\": \"SR\",\n  \"confidence\": 0.95,\n  \"notes\": \"Image does not appear to be a receipt.\"\n}",
+ "data": {
+  "vendor": "TOKYO KITCHEN (CITTA MALL) TOKYO KITCHEN SDN BHD",
+  "date": "23-04-2017",
+  "subtotal": 97.6,
+  "tax": 6.44,
+  "tip": null,
+  "discount": null,
+  "total": 113.8,
+  "currency": "SR",
+  "confidence": 0.95,
+  "notes": "Image does not appear to be a receipt."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1439,
+  "output_tokens": 122,
+  "model_total_duration_ms": 35371
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 37410,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "X51006387813"
+}

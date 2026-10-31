@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"DIGI TELECOMMUNICATIONS SDN BHD\",\n  \"date\": \"13/10/2017\",\n  \"subtotal\": 234.40,\n  \"tax\": null,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 234.40,\n  \"currency\": \"MYR\",\n  \"confidence\": 0.95,\n  \"notes\": \"Image does not appear to be a receipt.\"\n}",
+ "data": {
+  "vendor": "DIGI TELECOMMUNICATIONS SDN BHD",
+  "date": "13/10/2017",
+  "subtotal": 234.4,
+  "tax": null,
+  "tip": null,
+  "discount": null,
+  "total": 234.4,
+  "currency": "MYR",
+  "confidence": 0.95,
+  "notes": "Image does not appear to be a receipt."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1427,
+  "output_tokens": 109,
+  "model_total_duration_ms": 21632
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 23703,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "X51006555072"
+}

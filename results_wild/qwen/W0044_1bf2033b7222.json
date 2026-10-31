@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"Corner Bakery Cafe # 1516\",\n  \"date\": \"2017-08-13\",\n  \"subtotal\": 14.98,\n  \"tax\": 1.18,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 16.16,\n  \"currency\": \"USD\",\n  \"confidence\": 0.95,\n  \"notes\": \"Dine In # 80\"\n}",
+ "data": {
+  "vendor": "Corner Bakery Cafe # 1516",
+  "date": "2017-08-13",
+  "subtotal": 14.98,
+  "tax": 1.18,
+  "tip": null,
+  "discount": null,
+  "total": 16.16,
+  "currency": "USD",
+  "confidence": 0.95,
+  "notes": "Dine In # 80"
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1433,
+  "output_tokens": 108,
+  "model_total_duration_ms": 22384
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 24459,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "W0044_1bf2033b7222"
+}

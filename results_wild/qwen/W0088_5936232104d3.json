@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"CARNATIC CAFE\",\n  \"date\": \"2014-02-27\",\n  \"subtotal\": 885.00,\n  \"tax\": 43.37,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 1039.00,\n  \"currency\": \"INR\",\n  \"confidence\": 0.95,\n  \"notes\": \"Image does not appear to be a receipt.\"\n}",
+ "data": {
+  "vendor": "CARNATIC CAFE",
+  "date": "2014-02-27",
+  "subtotal": 885.0,
+  "tax": 43.37,
+  "tip": null,
+  "discount": null,
+  "total": 1039.0,
+  "currency": "INR",
+  "confidence": 0.95,
+  "notes": "Image does not appear to be a receipt."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1413,
+  "output_tokens": 110,
+  "model_total_duration_ms": 30506
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 32575,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "W0088_5936232104d3"
+}

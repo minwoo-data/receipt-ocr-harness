@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"Tacirua Transport Co. Ltd\",\n  \"date\": \"2014-10-16\",\n  \"subtotal\": 2.00,\n  \"tax\": null,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 2.00,\n  \"currency\": \"USD\",\n  \"confidence\": 0.95,\n  \"notes\": \"Receipt for a bus ride on October 16, 2014.\"\n}",
+ "data": {
+  "vendor": "Tacirua Transport Co. Ltd",
+  "date": "2014-10-16",
+  "subtotal": 2.0,
+  "tax": null,
+  "tip": null,
+  "discount": null,
+  "total": 2.0,
+  "currency": "USD",
+  "confidence": 0.95,
+  "notes": "Receipt for a bus ride on October 16, 2014."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1413,
+  "output_tokens": 109,
+  "model_total_duration_ms": 30446
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 32508,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "W0059_a30390748717"
+}

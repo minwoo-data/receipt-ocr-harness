@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"RELAIS TOTAL OULMES\",\n  \"date\": \"2018-03-30\",\n  \"subtotal\": 24.00,\n  \"tax\": null,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 56.00,\n  \"currency\": \"DH\",\n  \"confidence\": 0.95,\n  \"notes\": \"The receipt is in French and appears to be for a coffee shop or café.\"\n}",
+ "data": {
+  "vendor": "RELAIS TOTAL OULMES",
+  "date": "2018-03-30",
+  "subtotal": 24.0,
+  "tax": null,
+  "tip": null,
+  "discount": null,
+  "total": 56.0,
+  "currency": "DH",
+  "confidence": 0.95,
+  "notes": "The receipt is in French and appears to be for a coffee shop or café."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1433,
+  "output_tokens": 110,
+  "model_total_duration_ms": 26255
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 28330,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "X51006008197"
+}

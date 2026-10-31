@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"GRANDMA HOMES RESTAURANT\",\n  \"date\": \"13/06/2018\",\n  \"subtotal\": 473.30,\n  \"tax\": 0.00,\n  \"tip\": null,\n  \"discount\": 0.00,\n  \"total\": 473.30,\n  \"currency\": \"RM\",\n  \"confidence\": 1.0,\n  \"notes\": \"Goods sold are not returnable, thank you.\"\n}",
+ "data": {
+  "vendor": "GRANDMA HOMES RESTAURANT",
+  "date": "13/06/2018",
+  "subtotal": 473.3,
+  "tax": 0.0,
+  "tip": null,
+  "discount": 0.0,
+  "total": 473.3,
+  "currency": "RM",
+  "confidence": 1.0,
+  "notes": "Goods sold are not returnable, thank you."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1430,
+  "output_tokens": 116,
+  "model_total_duration_ms": 32328
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 34388,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "X51007846368"
+}

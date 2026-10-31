@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"Maxincome Resources Sdn Bhd\",\n  \"date\": \"16/04/2018\",\n  \"subtotal\": 18.80,\n  \"tax\": 1.06,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 18.80,\n  \"currency\": \"RM\",\n  \"confidence\": 0.95,\n  \"notes\": \"Image does not appear to be a receipt.\"\n}",
+ "data": {
+  "vendor": "Maxincome Resources Sdn Bhd",
+  "date": "16/04/2018",
+  "subtotal": 18.8,
+  "tax": 1.06,
+  "tip": null,
+  "discount": null,
+  "total": 18.8,
+  "currency": "RM",
+  "confidence": 0.95,
+  "notes": "Image does not appear to be a receipt."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1441,
+  "output_tokens": 107,
+  "model_total_duration_ms": 26325
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 28398,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "X51006502531"
+}

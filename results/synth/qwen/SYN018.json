@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"SUNRISE PHARMACY SDN BHD\",\n  \"date\": \"2024-10-21\",\n  \"subtotal\": 55.40,\n  \"tax\": 3.32,\n  \"tip\": 16.62,\n  \"discount\": null,\n  \"total\": 58.72,\n  \"currency\": \"MYR\",\n  \"confidence\": 0.95,\n  \"notes\": \"The receipt is from a pharmacy in Kuala Lumpur, Malaysia.\"\n}",
+ "data": {
+  "vendor": "SUNRISE PHARMACY SDN BHD",
+  "date": "2024-10-21",
+  "subtotal": 55.4,
+  "tax": 3.32,
+  "tip": 16.62,
+  "discount": null,
+  "total": 58.72,
+  "currency": "MYR",
+  "confidence": 0.95,
+  "notes": "The receipt is from a pharmacy in Kuala Lumpur, Malaysia."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1433,
+  "output_tokens": 121,
+  "model_total_duration_ms": 37168
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 39215,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "SYN018"
+}

@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"BREIZH CAFE\",\n  \"date\": \"2014-07-16\",\n  \"subtotal\": 69.06,\n  \"tax\": 4.67,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 78.3,\n  \"currency\": \"EUR\",\n  \"confidence\": 0.95,\n  \"notes\": \"Image does not appear to be a receipt.\"\n}",
+ "data": {
+  "vendor": "BREIZH CAFE",
+  "date": "2014-07-16",
+  "subtotal": 69.06,
+  "tax": 4.67,
+  "tip": null,
+  "discount": null,
+  "total": 78.3,
+  "currency": "EUR",
+  "confidence": 0.95,
+  "notes": "Image does not appear to be a receipt."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1413,
+  "output_tokens": 105,
+  "model_total_duration_ms": 22682
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 24758,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "W0132_2372aea0a590"
+}

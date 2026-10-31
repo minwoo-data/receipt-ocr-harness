@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"BORDER CAFE\",\n  \"date\": \"04/19\",\n  \"subtotal\": 31.75,\n  \"tax\": 2.22,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 33.97,\n  \"currency\": \"USD\",\n  \"confidence\": 0.95,\n  \"notes\": \"The receipt is from a restaurant in the United States.\"\n}",
+ "data": {
+  "vendor": "BORDER CAFE",
+  "date": "04/19",
+  "subtotal": 31.75,
+  "tax": 2.22,
+  "tip": null,
+  "discount": null,
+  "total": 33.97,
+  "currency": "USD",
+  "confidence": 0.95,
+  "notes": "The receipt is from a restaurant in the United States."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1413,
+  "output_tokens": 101,
+  "model_total_duration_ms": 20577
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 22613,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "W0162_3845"
+}

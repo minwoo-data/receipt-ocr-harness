@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"EXPRESS PAY WELCOME\",\n  \"date\": \"02/05/11\",\n  \"subtotal\": 3.57,\n  \"tax\": null,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 3.57,\n  \"currency\": \"USD\",\n  \"confidence\": 0.95,\n  \"notes\": \"Image does not appear to be a receipt.\"\n}",
+ "data": {
+  "vendor": "EXPRESS PAY WELCOME",
+  "date": "02/05/11",
+  "subtotal": 3.57,
+  "tax": null,
+  "tip": null,
+  "discount": null,
+  "total": 3.57,
+  "currency": "USD",
+  "confidence": 0.95,
+  "notes": "Image does not appear to be a receipt."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1435,
+  "output_tokens": 97,
+  "model_total_duration_ms": 22258
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 24320,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "W0045_90028d102689"
+}

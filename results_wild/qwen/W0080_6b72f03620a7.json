@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"Dreamland Aqua Park\",\n  \"date\": \"2014-04-24\",\n  \"subtotal\": 85.00,\n  \"tax\": null,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 85.00,\n  \"currency\": \"AED\",\n  \"confidence\": 0.95,\n  \"notes\": \"Receipt from Dreamland Aqua Park in Umm Al-Qwain, United Arab Emirates.\"\n}",
+ "data": {
+  "vendor": "Dreamland Aqua Park",
+  "date": "2014-04-24",
+  "subtotal": 85.0,
+  "tax": null,
+  "tip": null,
+  "discount": null,
+  "total": 85.0,
+  "currency": "AED",
+  "confidence": 0.95,
+  "notes": "Receipt from Dreamland Aqua Park in Umm Al-Qwain, United Arab Emirates."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1413,
+  "output_tokens": 110,
+  "model_total_duration_ms": 21011
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 23066,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "W0080_6b72f03620a7"
+}

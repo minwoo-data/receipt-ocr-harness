@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"St.George Apartmanház Kft.\",\n  \"date\": \"2017.01.17\",\n  \"subtotal\": 36450,\n  \"tax\": 400,\n  \"tip\": 33,\n  \"discount\": null,\n  \"total\": 36850,\n  \"currency\": \"Ft\",\n  \"confidence\": 0.95,\n  \"notes\": \"Receipt from St. George Apartmanház Kft. in Budapest, Hungary.\"\n}",
+ "data": {
+  "vendor": "St.George Apartmanház Kft.",
+  "date": "2017.01.17",
+  "subtotal": 36450,
+  "tax": 400,
+  "tip": 33,
+  "discount": null,
+  "total": 36850,
+  "currency": "Ft",
+  "confidence": 0.95,
+  "notes": "Receipt from St. George Apartmanház Kft. in Budapest, Hungary."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1413,
+  "output_tokens": 119,
+  "model_total_duration_ms": 29228
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 31282,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "W0040_6ca1076f448a"
+}

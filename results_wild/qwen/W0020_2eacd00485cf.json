@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"Vapiano Disney\",\n  \"date\": \"2016-12-25\",\n  \"subtotal\": 15.20,\n  \"tax\": 1.38,\n  \"tip\": 4.80,\n  \"discount\": null,\n  \"total\": 15.20,\n  \"currency\": \"EUR\",\n  \"confidence\": 0.95,\n  \"notes\": \"Receipt from Vapiano Disney in Disneyland Paris.\"\n}",
+ "data": {
+  "vendor": "Vapiano Disney",
+  "date": "2016-12-25",
+  "subtotal": 15.2,
+  "tax": 1.38,
+  "tip": 4.8,
+  "discount": null,
+  "total": 15.2,
+  "currency": "EUR",
+  "confidence": 0.95,
+  "notes": "Receipt from Vapiano Disney in Disneyland Paris."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1413,
+  "output_tokens": 109,
+  "model_total_duration_ms": 21196
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 23247,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "W0020_2eacd00485cf"
+}

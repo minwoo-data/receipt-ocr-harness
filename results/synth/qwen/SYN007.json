@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"MAPLE & OAK BOOKSTORE\",\n  \"date\": \"09/09/28\",\n  \"subtotal\": 252.6,\n  \"tax\": 15.16,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 267.76,\n  \"currency\": \"MYR\",\n  \"confidence\": 0.95,\n  \"notes\": \"G-15 MID VALLEY MEGAMALL\"\n}",
+ "data": {
+  "vendor": "MAPLE & OAK BOOKSTORE",
+  "date": "09/09/28",
+  "subtotal": 252.6,
+  "tax": 15.16,
+  "tip": null,
+  "discount": null,
+  "total": 267.76,
+  "currency": "MYR",
+  "confidence": 0.95,
+  "notes": "G-15 MID VALLEY MEGAMALL"
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1433,
+  "output_tokens": 112,
+  "model_total_duration_ms": 27390
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 29454,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "SYN007"
+}

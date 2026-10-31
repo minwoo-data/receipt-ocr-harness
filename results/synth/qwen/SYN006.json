@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"MAPLE & OAK BOOKSTORE\",\n  \"date\": \"2026-11-15\",\n  \"subtotal\": 274.00,\n  \"tax\": 16.44,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 290.44,\n  \"currency\": \"MYR\",\n  \"confidence\": 0.95,\n  \"notes\": \"The receipt is from a bookstore, not a retail store.\"\n}",
+ "data": {
+  "vendor": "MAPLE & OAK BOOKSTORE",
+  "date": "2026-11-15",
+  "subtotal": 274.0,
+  "tax": 16.44,
+  "tip": null,
+  "discount": null,
+  "total": 290.44,
+  "currency": "MYR",
+  "confidence": 0.95,
+  "notes": "The receipt is from a bookstore, not a retail store."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1427,
+  "output_tokens": 115,
+  "model_total_duration_ms": 30566
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 32613,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "SYN006"
+}

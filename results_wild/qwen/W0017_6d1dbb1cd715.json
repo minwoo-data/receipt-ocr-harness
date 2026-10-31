@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"LIDL ITALIA SRL Roma (RM)\",\n  \"date\": \"21/11/13\",\n  \"subtotal\": 17.36,\n  \"tax\": null,\n  \"tip\": 0.14,\n  \"discount\": null,\n  \"total\": 17.5,\n  \"currency\": \"EUR\",\n  \"confidence\": 0.95,\n  \"notes\": \"Image does not appear to be a receipt.\"\n}",
+ "data": {
+  "vendor": "LIDL ITALIA SRL Roma (RM)",
+  "date": "21/11/13",
+  "subtotal": 17.36,
+  "tax": null,
+  "tip": 0.14,
+  "discount": null,
+  "total": 17.5,
+  "currency": "EUR",
+  "confidence": 0.95,
+  "notes": "Image does not appear to be a receipt."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1452,
+  "output_tokens": 107,
+  "model_total_duration_ms": 27184
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 29228,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "W0017_6d1dbb1cd715"
+}

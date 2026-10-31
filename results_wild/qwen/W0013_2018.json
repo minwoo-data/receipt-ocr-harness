@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"CENTRAL\",\n  \"date\": \"2014-09-22\",\n  \"subtotal\": 270.00,\n  \"tax\": 27.00,\n  \"tip\": 27.00,\n  \"discount\": null,\n  \"total\": 297.00,\n  \"currency\": \"HKD\",\n  \"confidence\": 0.95,\n  \"notes\": \"Daily opening hours: 11AM - 3PM, 6PM - 11PM. Thank you for coming again.\"\n}",
+ "data": {
+  "vendor": "CENTRAL",
+  "date": "2014-09-22",
+  "subtotal": 270.0,
+  "tax": 27.0,
+  "tip": 27.0,
+  "discount": null,
+  "total": 297.0,
+  "currency": "HKD",
+  "confidence": 0.95,
+  "notes": "Daily opening hours: 11AM - 3PM, 6PM - 11PM. Thank you for coming again."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1413,
+  "output_tokens": 130,
+  "model_total_duration_ms": 33098
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 35140,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "W0013_2018"
+}

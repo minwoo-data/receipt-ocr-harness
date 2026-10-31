@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"Guardian Health And Beauty Sdn Bhd\",\n  \"date\": \"04/03/18\",\n  \"subtotal\": 12.00,\n  \"tax\": 0.68,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 12.68,\n  \"currency\": \"RM\",\n  \"confidence\": 1.0,\n  \"notes\": \"All amounts are in RM. Goods sold are non-refundable. Dispersed medicines sold are not returnable.\"\n}",
+ "data": {
+  "vendor": "Guardian Health And Beauty Sdn Bhd",
+  "date": "04/03/18",
+  "subtotal": 12.0,
+  "tax": 0.68,
+  "tip": null,
+  "discount": null,
+  "total": 12.68,
+  "currency": "RM",
+  "confidence": 1.0,
+  "notes": "All amounts are in RM. Goods sold are non-refundable. Dispersed medicines sold are not returnable."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1437,
+  "output_tokens": 121,
+  "model_total_duration_ms": 49245
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 51486,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "X51005719912"
+}

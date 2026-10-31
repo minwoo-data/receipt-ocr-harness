@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"GASTROBAR EL GALLO AZUL\",\n  \"date\": \"2013-11-14\",\n  \"subtotal\": 20.9,\n  \"tax\": null,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 20.9,\n  \"currency\": \"ES\",\n  \"confidence\": 0.95,\n  \"notes\": \"Image does not appear to be a receipt.\"\n}",
+ "data": {
+  "vendor": "GASTROBAR EL GALLO AZUL",
+  "date": "2013-11-14",
+  "subtotal": 20.9,
+  "tax": null,
+  "tip": null,
+  "discount": null,
+  "total": 20.9,
+  "currency": "ES",
+  "confidence": 0.95,
+  "notes": "Image does not appear to be a receipt."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1413,
+  "output_tokens": 103,
+  "model_total_duration_ms": 22235
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 24285,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "W0069_3823"
+}

@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"BHPetrol Permas Jaya 2\",\n  \"date\": \"10-04-2018\",\n  \"subtotal\": null,\n  \"tax\": null,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 50,\n  \"currency\": \"RM\",\n  \"confidence\": 0.95,\n  \"notes\": \"This is not a receipt. A Tax Invoice will be issued upon the completion of the sale transaction.\"\n}",
+ "data": {
+  "vendor": "BHPetrol Permas Jaya 2",
+  "date": "10-04-2018",
+  "subtotal": null,
+  "tax": null,
+  "tip": null,
+  "discount": null,
+  "total": 50,
+  "currency": "RM",
+  "confidence": 0.95,
+  "notes": "This is not a receipt. A Tax Invoice will be issued upon the completion of the sale transaction."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1430,
+  "output_tokens": 109,
+  "model_total_duration_ms": 21655
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 23718,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "X51006414533"
+}

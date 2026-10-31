@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"AEON CO. (M) BHD\",\n  \"date\": \"22/04/2018\",\n  \"subtotal\": 10.20,\n  \"tax\": 0.58,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 10.20,\n  \"currency\": \"SR\",\n  \"confidence\": 0.95,\n  \"notes\": \"AEON PERMAS JAYA\"\n}",
+ "data": {
+  "vendor": "AEON CO. (M) BHD",
+  "date": "22/04/2018",
+  "subtotal": 10.2,
+  "tax": 0.58,
+  "tip": null,
+  "discount": null,
+  "total": 10.2,
+  "currency": "SR",
+  "confidence": 0.95,
+  "notes": "AEON PERMAS JAYA"
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1430,
+  "output_tokens": 109,
+  "model_total_duration_ms": 37166
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 39231,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "X51006414700"
+}

@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"MR. D.I.Y. (KUCHAI) SDN BHD\",\n  \"date\": \"05-01-16\",\n  \"subtotal\": 34.4,\n  \"tax\": 1.95,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 34.4,\n  \"currency\": \"RM\",\n  \"confidence\": 0.95,\n  \"notes\": \"EXCHANGE ARE ALLOWED WITHIN 3 DAY WITH RECEIPT. STRICTly NO CASH REFUND.\"\n}",
+ "data": {
+  "vendor": "MR. D.I.Y. (KUCHAI) SDN BHD",
+  "date": "05-01-16",
+  "subtotal": 34.4,
+  "tax": 1.95,
+  "tip": null,
+  "discount": null,
+  "total": 34.4,
+  "currency": "RM",
+  "confidence": 0.95,
+  "notes": "EXCHANGE ARE ALLOWED WITHIN 3 DAY WITH RECEIPT. STRICTly NO CASH REFUND."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1417,
+  "output_tokens": 127,
+  "model_total_duration_ms": 12778
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 14818,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "X51006619764"
+}

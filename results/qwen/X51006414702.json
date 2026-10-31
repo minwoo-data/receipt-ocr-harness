@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"Triple Six Point Enterprise 666\",\n  \"date\": \"2018-03-24\",\n  \"subtotal\": 157.90,\n  \"tax\": null,\n  \"tip\": 210,\n  \"discount\": -7.20,\n  \"total\": 157.90,\n  \"currency\": \"RM\",\n  \"confidence\": 0.95,\n  \"notes\": \"Image does not appear to be a receipt.\"\n}",
+ "data": {
+  "vendor": "Triple Six Point Enterprise 666",
+  "date": "2018-03-24",
+  "subtotal": 157.9,
+  "tax": null,
+  "tip": 210,
+  "discount": -7.2,
+  "total": 157.9,
+  "currency": "RM",
+  "confidence": 0.95,
+  "notes": "Image does not appear to be a receipt."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1430,
+  "output_tokens": 113,
+  "model_total_duration_ms": 25335
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 27392,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "X51006414702"
+}

@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"Bugenvila\",\n  \"date\": \"2014-09-19\",\n  \"subtotal\": 290,\n  \"tax\": null,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 290,\n  \"currency\": \"kn\",\n  \"confidence\": 0.95,\n  \"notes\": \"Receipt from Bugenvila restaurant in Cavtat, Croatia.\"\n}",
+ "data": {
+  "vendor": "Bugenvila",
+  "date": "2014-09-19",
+  "subtotal": 290,
+  "tax": null,
+  "tip": null,
+  "discount": null,
+  "total": 290,
+  "currency": "kn",
+  "confidence": 0.95,
+  "notes": "Receipt from Bugenvila restaurant in Cavtat, Croatia."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1413,
+  "output_tokens": 98,
+  "model_total_duration_ms": 19912
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 21950,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "W0097_08837c5b4993"
+}

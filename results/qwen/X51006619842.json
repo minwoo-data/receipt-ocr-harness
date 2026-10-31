@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"YIN MA (M) SDN.BHD.\",\n  \"date\": \"03 Jun 2016\",\n  \"subtotal\": 32.70,\n  \"tax\": 1.86,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 32.70,\n  \"currency\": \"RM\",\n  \"confidence\": 0.95,\n  \"notes\": \"EXCHANGE ARE ALLOWED WITHIN 3 DAY WITH RECEIPT. STRICTly NO CASH REFUND. THANK YOU. WELCOME AGAIN.\"\n}",
+ "data": {
+  "vendor": "YIN MA (M) SDN.BHD.",
+  "date": "03 Jun 2016",
+  "subtotal": 32.7,
+  "tax": 1.86,
+  "tip": null,
+  "discount": null,
+  "total": 32.7,
+  "currency": "RM",
+  "confidence": 0.95,
+  "notes": "EXCHANGE ARE ALLOWED WITHIN 3 DAY WITH RECEIPT. STRICTly NO CASH REFUND. THANK YOU. WELCOME AGAIN."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1435,
+  "output_tokens": 131,
+  "model_total_duration_ms": 42468
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 44563,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "X51006619842"
+}

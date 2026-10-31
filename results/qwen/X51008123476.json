@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"Dian Realties Sdn Bhd\",\n  \"date\": \"25/06/18\",\n  \"subtotal\": 5.00,\n  \"tax\": 0.00,\n  \"tip\": 5.00,\n  \"discount\": null,\n  \"total\": 10.00,\n  \"currency\": \"RM\",\n  \"confidence\": 0.95,\n  \"notes\": \"Date format is DD/MM/YYYY.\"\n}",
+ "data": {
+  "vendor": "Dian Realties Sdn Bhd",
+  "date": "25/06/18",
+  "subtotal": 5.0,
+  "tax": 0.0,
+  "tip": 5.0,
+  "discount": null,
+  "total": 10.0,
+  "currency": "RM",
+  "confidence": 0.95,
+  "notes": "Date format is DD/MM/YYYY."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1427,
+  "output_tokens": 107,
+  "model_total_duration_ms": 37934
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 40087,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "X51008123476"
+}

@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"ALI BABA INTERNATIONAL SDN BHD\",\n  \"date\": \"19-02-2018\",\n  \"subtotal\": 20.4,\n  \"tax\": 2.04,\n  \"tip\": 1.35,\n  \"discount\": null,\n  \"total\": 23.8,\n  \"currency\": \"RM\",\n  \"confidence\": 0.95,\n  \"notes\": \"Guest Check\"\n}",
+ "data": {
+  "vendor": "ALI BABA INTERNATIONAL SDN BHD",
+  "date": "19-02-2018",
+  "subtotal": 20.4,
+  "tax": 2.04,
+  "tip": 1.35,
+  "discount": null,
+  "total": 23.8,
+  "currency": "RM",
+  "confidence": 0.95,
+  "notes": "Guest Check"
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1427,
+  "output_tokens": 106,
+  "model_total_duration_ms": 11708
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 13796,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "X51005719857"
+}

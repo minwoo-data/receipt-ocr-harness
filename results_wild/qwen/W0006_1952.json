@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"Fatboy's The Burger Bar\",\n  \"date\": \"2013-02-22\",\n  \"subtotal\": 57.5,\n  \"tax\": null,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 57.5,\n  \"currency\": \"SGD\",\n  \"confidence\": 0.95,\n  \"notes\": \"Receipt from Fatboy's The Burger Bar on 22/02/2013.\"\n}",
+ "data": {
+  "vendor": "Fatboy's The Burger Bar",
+  "date": "2013-02-22",
+  "subtotal": 57.5,
+  "tax": null,
+  "tip": null,
+  "discount": null,
+  "total": 57.5,
+  "currency": "SGD",
+  "confidence": 0.95,
+  "notes": "Receipt from Fatboy's The Burger Bar on 22/02/2013."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1401,
+  "output_tokens": 113,
+  "model_total_duration_ms": 22352
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 24441,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "W0006_1952"
+}

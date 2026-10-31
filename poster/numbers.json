@@ -11,13 +11,13 @@
  },
  "T2": {
   "engine": "qwen",
-  "n": 127,
-  "date_total": 0.8015873015873016,
-  "latency_ms_median": 33322,
+  "n": 300,
+  "date_total": 0.8294314381270903,
+  "latency_ms_median": 28293,
   "usd_per_1k": 0.0,
-  "company": 0.874,
-  "date": 0.9449,
-  "total": 0.8492
+  "company": 0.8867,
+  "date": 0.9567,
+  "total": 0.8696
  },
  "T3": {
   "engine": "gemini-lite",
@@ -64,21 +64,21 @@
    "policy": "all_qwen",
    "tau": 0.9,
    "n": 300,
-   "auto_accept_share": 0.4233,
-   "review_share": 0.5767,
+   "auto_accept_share": 1.0,
+   "review_share": 0.0,
    "tier_share": {
     "T1": 0.0,
-    "T2": 0.4233,
+    "T2": 1.0,
     "T3": 0.0,
     "T4": 0.0
    },
    "cloud_share": 0.0,
-   "accepted_money_precision": 0.8031,
-   "accepted_all3_precision": 0.7087,
-   "leak_share": 0.0833,
+   "accepted_money_precision": 0.83,
+   "accepted_all3_precision": 0.7333,
+   "leak_share": 0.17,
    "cost_usd_per_1k": 0.0,
-   "costed_receipts": 127,
-   "latency_ms_median": 33322
+   "costed_receipts": 300,
+   "latency_ms_median": 28293
   },
   "all_lite": {
    "policy": "all_lite",
@@ -188,17 +188,17 @@
    "review_share": 0.0367,
    "tier_share": {
     "T1": 0.4367,
-    "T2": 0.16,
-    "T3": 0.3633,
-    "T4": 0.0033
+    "T2": 0.3733,
+    "T3": 0.1533,
+    "T4": 0.0
    },
-   "cloud_share": 0.3667,
-   "accepted_money_precision": 0.955,
-   "accepted_all3_precision": 0.8097,
-   "leak_share": 0.0433,
-   "cost_usd_per_1k": 0.274,
+   "cloud_share": 0.1533,
+   "accepted_money_precision": 0.9446,
+   "accepted_all3_precision": 0.7855,
+   "leak_share": 0.0533,
+   "cost_usd_per_1k": 0.155,
    "costed_receipts": 300,
-   "latency_ms_median": 6058
+   "latency_ms_median": 27114
   },
   "router_solo": {
    "policy": "router_solo",
@@ -248,17 +248,17 @@
    "review_share": 0.03,
    "tier_share": {
     "T1": 0.72,
-    "T2": 0.08,
-    "T3": 0.17,
+    "T2": 0.1833,
+    "T3": 0.0667,
     "T4": 0.0
    },
-   "cloud_share": 0.17,
-   "accepted_money_precision": 0.9038,
-   "accepted_all3_precision": 0.6907,
-   "leak_share": 0.0933,
-   "cost_usd_per_1k": 0.151,
+   "cloud_share": 0.0667,
+   "accepted_money_precision": 0.8969,
+   "accepted_all3_precision": 0.6804,
+   "leak_share": 0.1,
+   "cost_usd_per_1k": 0.095,
    "costed_receipts": 300,
-   "latency_ms_median": 5041
+   "latency_ms_median": 5081
   }
  },
  "synth": {

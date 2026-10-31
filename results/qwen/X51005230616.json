@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"Gerbang Alaf Restaurants Sdn Bhd\",\n  \"date\": \"2018-01-18\",\n  \"subtotal\": 38.90,\n  \"tax\": 2.20,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 38.90,\n  \"currency\": \"MYR\",\n  \"confidence\": 0.95,\n  \"notes\": \"Golden Arches Restaurants Sdn Bhd Licensee of McDonald's\"\n}",
+ "data": {
+  "vendor": "Gerbang Alaf Restaurants Sdn Bhd",
+  "date": "2018-01-18",
+  "subtotal": 38.9,
+  "tax": 2.2,
+  "tip": null,
+  "discount": null,
+  "total": 38.9,
+  "currency": "MYR",
+  "confidence": 0.95,
+  "notes": "Golden Arches Restaurants Sdn Bhd Licensee of McDonald's"
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1441,
+  "output_tokens": 115,
+  "model_total_duration_ms": 40621
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 42662,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "X51005230616"
+}

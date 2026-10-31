@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"Mr. Lucky's\",\n  \"date\": \"2013-06-18\",\n  \"subtotal\": 21.52,\n  \"tax\": 1.74,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 23.26,\n  \"currency\": \"USD\",\n  \"confidence\": 0.95,\n  \"notes\": \"The receipt is clear and all necessary information is present.\"\n}",
+ "data": {
+  "vendor": "Mr. Lucky's",
+  "date": "2013-06-18",
+  "subtotal": 21.52,
+  "tax": 1.74,
+  "tip": null,
+  "discount": null,
+  "total": 23.26,
+  "currency": "USD",
+  "confidence": 0.95,
+  "notes": "The receipt is clear and all necessary information is present."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1413,
+  "output_tokens": 106,
+  "model_total_duration_ms": 22749
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 24819,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "W0039_c046099c7802"
+}

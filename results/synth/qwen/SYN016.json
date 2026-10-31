@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"RAPID WHEELS AUTO SERVICE\",\n  \"date\": \"24/09/2024\",\n  \"subtotal\": 57.70,\n  \"tax\": 3.46,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 61.66,\n  \"currency\": \"MYR\",\n  \"confidence\": 0.95,\n  \"notes\": \"The receipt is from a Malaysian store, as indicated by the date format and the currency symbol.\"\n}",
+ "data": {
+  "vendor": "RAPID WHEELS AUTO SERVICE",
+  "date": "24/09/2024",
+  "subtotal": 57.7,
+  "tax": 3.46,
+  "tip": null,
+  "discount": null,
+  "total": 61.66,
+  "currency": "MYR",
+  "confidence": 0.95,
+  "notes": "The receipt is from a Malaysian store, as indicated by the date format and the currency symbol."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1433,
+  "output_tokens": 119,
+  "model_total_duration_ms": 24370
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 26457,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "SYN016"
+}

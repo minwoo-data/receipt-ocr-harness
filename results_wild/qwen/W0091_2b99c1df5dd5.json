@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"MARINA SHELL\",\n  \"date\": \"2016-01-17\",\n  \"subtotal\": 9.00,\n  \"tax\": 0.00,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 9.00,\n  \"currency\": \"USD\",\n  \"confidence\": 0.95,\n  \"notes\": \"The receipt is from a car wash service, not a gas station.\"\n}",
+ "data": {
+  "vendor": "MARINA SHELL",
+  "date": "2016-01-17",
+  "subtotal": 9.0,
+  "tax": 0.0,
+  "tip": null,
+  "discount": null,
+  "total": 9.0,
+  "currency": "USD",
+  "confidence": 0.95,
+  "notes": "The receipt is from a car wash service, not a gas station."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1401,
+  "output_tokens": 107,
+  "model_total_duration_ms": 21276
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 23322,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "W0091_2b99c1df5dd5"
+}

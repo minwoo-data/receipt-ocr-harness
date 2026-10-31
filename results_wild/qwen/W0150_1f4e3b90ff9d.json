@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"Caltex Central Myrtleford\",\n  \"date\": \"24/01/2012\",\n  \"subtotal\": 77.43,\n  \"tax\": 7.04,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 77.43,\n  \"currency\": \"AUD\",\n  \"confidence\": 0.95,\n  \"notes\": \"Receipt from Caltex Central Myrtleford, including GST and Amex card transaction.\"\n}",
+ "data": {
+  "vendor": "Caltex Central Myrtleford",
+  "date": "24/01/2012",
+  "subtotal": 77.43,
+  "tax": 7.04,
+  "tip": null,
+  "discount": null,
+  "total": 77.43,
+  "currency": "AUD",
+  "confidence": 0.95,
+  "notes": "Receipt from Caltex Central Myrtleford, including GST and Amex card transaction."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1413,
+  "output_tokens": 116,
+  "model_total_duration_ms": 28524
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 30567,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "W0150_1f4e3b90ff9d"
+}

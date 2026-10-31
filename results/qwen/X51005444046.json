@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"STAR GROCER SDN BHD\",\n  \"date\": \"25/03/18\",\n  \"subtotal\": 66.15,\n  \"tax\": 0.00,\n  \"tip\": 0.85,\n  \"discount\": null,\n  \"total\": 66.15,\n  \"currency\": \"Z\",\n  \"confidence\": 1.0,\n  \"notes\": \"Image does not appear to be a receipt.\"\n}",
+ "data": {
+  "vendor": "STAR GROCER SDN BHD",
+  "date": "25/03/18",
+  "subtotal": 66.15,
+  "tax": 0.0,
+  "tip": 0.85,
+  "discount": null,
+  "total": 66.15,
+  "currency": "Z",
+  "confidence": 1.0,
+  "notes": "Image does not appear to be a receipt."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1435,
+  "output_tokens": 109,
+  "model_total_duration_ms": 44972
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 47096,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "X51005444046"
+}

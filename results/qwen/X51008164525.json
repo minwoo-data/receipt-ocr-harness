@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"PASAR RAYA MEGA MAJU (SEMENYIH) SDN BHD\",\n  \"date\": \"03/07/2018\",\n  \"subtotal\": 30.45,\n  \"tax\": 0.00,\n  \"tip\": null,\n  \"discount\": 0.00,\n  \"total\": 30.45,\n  \"currency\": \"RM\",\n  \"confidence\": 0.95,\n  \"notes\": \"Image does not appear to be a receipt.\"\n}",
+ "data": {
+  "vendor": "PASAR RAYA MEGA MAJU (SEMENYIH) SDN BHD",
+  "date": "03/07/2018",
+  "subtotal": 30.45,
+  "tax": 0.0,
+  "tip": null,
+  "discount": 0.0,
+  "total": 30.45,
+  "currency": "RM",
+  "confidence": 0.95,
+  "notes": "Image does not appear to be a receipt."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1409,
+  "output_tokens": 125,
+  "model_total_duration_ms": 26158
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 28222,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "X51008164525"
+}

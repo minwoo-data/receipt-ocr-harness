@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"UNIHAKKA INTERNATIONAL SDN BHD\",\n  \"date\": \"05 Apr 2018\",\n  \"subtotal\": 6.9,\n  \"tax\": 0.39,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 6.9,\n  \"currency\": \"SGD\",\n  \"confidence\": 0.95,\n  \"notes\": \"Image does not appear to be a receipt.\"\n}",
+ "data": {
+  "vendor": "UNIHAKKA INTERNATIONAL SDN BHD",
+  "date": "05 Apr 2018",
+  "subtotal": 6.9,
+  "tax": 0.39,
+  "tip": null,
+  "discount": null,
+  "total": 6.9,
+  "currency": "SGD",
+  "confidence": 0.95,
+  "notes": "Image does not appear to be a receipt."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1430,
+  "output_tokens": 104,
+  "model_total_duration_ms": 31694
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 33725,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "X51006414425"
+}

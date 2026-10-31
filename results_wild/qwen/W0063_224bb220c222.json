@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"Firearms Unknown\",\n  \"date\": \"2016-12-17\",\n  \"subtotal\": 99.99,\n  \"tax\": 9.00,\n  \"tip\": null,\n  \"discount\": -25.01,\n  \"total\": 108.99,\n  \"currency\": \"USD\",\n  \"confidence\": 0.95,\n  \"notes\": \"The receipt shows a subtotal of $99.99, tax of $9.00, and a total of $108.99. The discount applied is $25.01, which is a negative value indicating a discount. The receipt is from Firearms Unknown, a gun store located at 416 National City Blvd., Unit B, National City, CA 91950.\"\n}",
+ "data": {
+  "vendor": "Firearms Unknown",
+  "date": "2016-12-17",
+  "subtotal": 99.99,
+  "tax": 9.0,
+  "tip": null,
+  "discount": -25.01,
+  "total": 108.99,
+  "currency": "USD",
+  "confidence": 0.95,
+  "notes": "The receipt shows a subtotal of $99.99, tax of $9.00, and a total of $108.99. The discount applied is $25.01, which is a negative value indicating a discount. The receipt is from Firearms Unknown, a gun store located at 416 National City Blvd., Unit B, National City, CA 91950."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1413,
+  "output_tokens": 187,
+  "model_total_duration_ms": 34469
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 36518,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "W0063_224bb220c222"
+}

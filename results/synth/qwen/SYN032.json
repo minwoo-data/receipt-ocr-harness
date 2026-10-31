@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"MAPLE & OAK BOOKSTORE\",\n  \"date\": \"2025-09-26\",\n  \"subtotal\": 85.80,\n  \"tax\": 5.15,\n  \"tip\": 90.95,\n  \"discount\": null,\n  \"total\": 90.95,\n  \"currency\": \"SGD\",\n  \"confidence\": 0.95,\n  \"notes\": \"The receipt is from a bookstore and includes items such as a ballpoint pen, iced lattes, garden salads, and Panadol tablets.\"\n}",
+ "data": {
+  "vendor": "MAPLE & OAK BOOKSTORE",
+  "date": "2025-09-26",
+  "subtotal": 85.8,
+  "tax": 5.15,
+  "tip": 90.95,
+  "discount": null,
+  "total": 90.95,
+  "currency": "SGD",
+  "confidence": 0.95,
+  "notes": "The receipt is from a bookstore and includes items such as a ballpoint pen, iced lattes, garden salads, and Panadol tablets."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1401,
+  "output_tokens": 135,
+  "model_total_duration_ms": 26542
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 28611,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "SYN032"
+}

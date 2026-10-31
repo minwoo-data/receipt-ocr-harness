@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"MAPLE & OAK BOOKSTORE\",\n  \"date\": \"19/05/2026\",\n  \"subtotal\": 378.50,\n  \"tax\": 22.71,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 401.21,\n  \"currency\": \"SGD\",\n  \"confidence\": 0.95,\n  \"notes\": \"The receipt is from a bookstore and includes items such as eggs, steamed fish, engine oil, and wholemeal bread.\"\n}",
+ "data": {
+  "vendor": "MAPLE & OAK BOOKSTORE",
+  "date": "19/05/2026",
+  "subtotal": 378.5,
+  "tax": 22.71,
+  "tip": null,
+  "discount": null,
+  "total": 401.21,
+  "currency": "SGD",
+  "confidence": 0.95,
+  "notes": "The receipt is from a bookstore and includes items such as eggs, steamed fish, engine oil, and wholemeal bread."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1433,
+  "output_tokens": 128,
+  "model_total_duration_ms": 39004
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 41076,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "SYN040"
+}

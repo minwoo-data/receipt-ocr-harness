@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"HERO DISTRIBUTION SDN BHD\",\n  \"date\": \"17/05/17\",\n  \"subtotal\": 41.48,\n  \"tax\": 1.02,\n  \"tip\": 0.00,\n  \"discount\": null,\n  \"total\": 41.50,\n  \"currency\": \"MYR\",\n  \"confidence\": 0.95,\n  \"notes\": \"Image does not appear to be a receipt.\"\n}",
+ "data": {
+  "vendor": "HERO DISTRIBUTION SDN BHD",
+  "date": "17/05/17",
+  "subtotal": 41.48,
+  "tax": 1.02,
+  "tip": 0.0,
+  "discount": null,
+  "total": 41.5,
+  "currency": "MYR",
+  "confidence": 0.95,
+  "notes": "Image does not appear to be a receipt."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1427,
+  "output_tokens": 111,
+  "model_total_duration_ms": 22163
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 24222,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "X51006388066"
+}

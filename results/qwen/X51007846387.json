@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n    \"vendor\": \"BOOK TALK (MUTIARA RINI) SDN BHD\",\n    \"date\": \"21/6/2018\",\n    \"subtotal\": null,\n    \"tax\": null,\n    \"tip\": null,\n    \"discount\": null,\n    \"total\": 9.3,\n    \"currency\": \"RM\",\n    \"confidence\": 1.0,\n    \"notes\": \"GOODS SOLD ARE NOT RETURNABLE OR EXCHANGEABLE。出物出门，恕不退还或更换。如有不便，敬请原谅。谢谢！\"\n}",
+ "data": {
+  "vendor": "BOOK TALK (MUTIARA RINI) SDN BHD",
+  "date": "21/6/2018",
+  "subtotal": null,
+  "tax": null,
+  "tip": null,
+  "discount": null,
+  "total": 9.3,
+  "currency": "RM",
+  "confidence": 1.0,
+  "notes": "GOODS SOLD ARE NOT RETURNABLE OR EXCHANGEABLE。出物出门，恕不退还或更换。如有不便，敬请原谅。谢谢！"
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1430,
+  "output_tokens": 127,
+  "model_total_duration_ms": 34350
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 36414,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "X51007846387"
+}

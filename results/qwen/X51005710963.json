@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"TS TOOLS HARDWARE & MACHINERY SDN BHD\",\n  \"date\": \"21/03/2018\",\n  \"subtotal\": 7.00,\n  \"tax\": 0.00,\n  \"tip\": 0.60,\n  \"discount\": 0.00,\n  \"total\": 7.40,\n  \"currency\": \"RM\",\n  \"confidence\": 0.95,\n  \"notes\": \"GOODS SOLD ARE NOT RETURNABLE, THANK YOU.\"\n}",
+ "data": {
+  "vendor": "TS TOOLS HARDWARE & MACHINERY SDN BHD",
+  "date": "21/03/2018",
+  "subtotal": 7.0,
+  "tax": 0.0,
+  "tip": 0.6,
+  "discount": 0.0,
+  "total": 7.4,
+  "currency": "RM",
+  "confidence": 0.95,
+  "notes": "GOODS SOLD ARE NOT RETURNABLE, THANK YOU."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1422,
+  "output_tokens": 123,
+  "model_total_duration_ms": 30248
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 32304,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "X51005710963"
+}

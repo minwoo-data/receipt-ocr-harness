@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"Casey's General Store\",\n  \"date\": \"2015-01-16\",\n  \"subtotal\": 4.68,\n  \"tax\": null,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 4.68,\n  \"currency\": \"USD\",\n  \"confidence\": 0.95,\n  \"notes\": \"SALE - Card Swiped\"\n}",
+ "data": {
+  "vendor": "Casey's General Store",
+  "date": "2015-01-16",
+  "subtotal": 4.68,
+  "tax": null,
+  "tip": null,
+  "discount": null,
+  "total": 4.68,
+  "currency": "USD",
+  "confidence": 0.95,
+  "notes": "SALE - Card Swiped"
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1413,
+  "output_tokens": 97,
+  "model_total_duration_ms": 24994
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 27029,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "W0117_84d2de82bf37"
+}

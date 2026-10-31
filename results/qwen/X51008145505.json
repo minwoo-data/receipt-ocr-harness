@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"KT WONG TRADING\",\n  \"date\": \"2018-06-09\",\n  \"subtotal\": 489.30,\n  \"tax\": 0.00,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 489.30,\n  \"currency\": \"RM\",\n  \"confidence\": 0.95,\n  \"notes\": \"Receipt from KT WONG TRADING, 22, Jalan Perindustrian Hijau 5, Taman Perindustrian Hijau, with a total amount of RM489.30.\"\n}",
+ "data": {
+  "vendor": "KT WONG TRADING",
+  "date": "2018-06-09",
+  "subtotal": 489.3,
+  "tax": 0.0,
+  "tip": null,
+  "discount": null,
+  "total": 489.3,
+  "currency": "RM",
+  "confidence": 0.95,
+  "notes": "Receipt from KT WONG TRADING, 22, Jalan Perindustrian Hijau 5, Taman Perindustrian Hijau, with a total amount of RM489.30."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1412,
+  "output_tokens": 144,
+  "model_total_duration_ms": 42496
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 44519,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "X51008145505"
+}

@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"Bikerowave Cooperative Inc\",\n  \"date\": \"2013-07-21\",\n  \"subtotal\": 10,\n  \"tax\": 0.27,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 10.27,\n  \"currency\": \"USD\",\n  \"confidence\": 0.95,\n  \"notes\": \"The receipt is partially crumpled and some text is difficult to read.\"\n}",
+ "data": {
+  "vendor": "Bikerowave Cooperative Inc",
+  "date": "2013-07-21",
+  "subtotal": 10,
+  "tax": 0.27,
+  "tip": null,
+  "discount": null,
+  "total": 10.27,
+  "currency": "USD",
+  "confidence": 0.95,
+  "notes": "The receipt is partially crumpled and some text is difficult to read."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1413,
+  "output_tokens": 109,
+  "model_total_duration_ms": 23740
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 25795,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "W0155_2451ec436040"
+}

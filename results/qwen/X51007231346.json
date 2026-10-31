@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"Jin Permast 9/5, Bdr Permast Jaya\",\n  \"date\": \"02/05/18\",\n  \"subtotal\": 60.00,\n  \"tax\": 0.00,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 60.00,\n  \"currency\": \"RM\",\n  \"confidence\": 0.95,\n  \"notes\": \"Diesel & Petrol RON95 given Relief under Section 56 (3) (B) GST Act 2014\"\n}",
+ "data": {
+  "vendor": "Jin Permast 9/5, Bdr Permast Jaya",
+  "date": "02/05/18",
+  "subtotal": 60.0,
+  "tax": 0.0,
+  "tip": null,
+  "discount": null,
+  "total": 60.0,
+  "currency": "RM",
+  "confidence": 0.95,
+  "notes": "Diesel & Petrol RON95 given Relief under Section 56 (3) (B) GST Act 2014"
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1430,
+  "output_tokens": 136,
+  "model_total_duration_ms": 27479
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 29521,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "X51007231346"
+}

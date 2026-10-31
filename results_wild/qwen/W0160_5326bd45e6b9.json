@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"Pattappa's Thaligai\",\n  \"date\": \"2016-06-19\",\n  \"subtotal\": 314.00,\n  \"tax\": 6.28,\n  \"tip\": 18.84,\n  \"discount\": null,\n  \"total\": 339.00,\n  \"currency\": \"INR\",\n  \"confidence\": 0.95,\n  \"notes\": \"vegetarian.handpicked.unlimited no:60 luz church road mylapore chennai - 600004 ph:9791272888\"\n}",
+ "data": {
+  "vendor": "Pattappa's Thaligai",
+  "date": "2016-06-19",
+  "subtotal": 314.0,
+  "tax": 6.28,
+  "tip": 18.84,
+  "discount": null,
+  "total": 339.0,
+  "currency": "INR",
+  "confidence": 0.95,
+  "notes": "vegetarian.handpicked.unlimited no:60 luz church road mylapore chennai - 600004 ph:9791272888"
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1409,
+  "output_tokens": 146,
+  "model_total_duration_ms": 38695
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 40780,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "W0160_5326bd45e6b9"
+}

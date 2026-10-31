@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"Restaurant McDonald's Versailles Manege\",\n  \"date\": \"2015-04-27\",\n  \"subtotal\": 20,\n  \"tax\": 1.82,\n  \"tip\": 30,\n  \"discount\": null,\n  \"total\": 50,\n  \"currency\": \"€\",\n  \"confidence\": 0.95,\n  \"notes\": \"Code Porte Toilettes: For the washing room: A7836B\"\n}",
+ "data": {
+  "vendor": "Restaurant McDonald's Versailles Manege",
+  "date": "2015-04-27",
+  "subtotal": 20,
+  "tax": 1.82,
+  "tip": 30,
+  "discount": null,
+  "total": 50,
+  "currency": "€",
+  "confidence": 0.95,
+  "notes": "Code Porte Toilettes: For the washing room: A7836B"
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1413,
+  "output_tokens": 112,
+  "model_total_duration_ms": 26837
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 28928,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "W0058_8c4de5cfce67"
+}

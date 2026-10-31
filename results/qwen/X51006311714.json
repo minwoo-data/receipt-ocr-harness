@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"GUARDIAN HEALTH AND BEAUTY SDN BHD\",\n  \"date\": \"18/01/18\",\n  \"subtotal\": 22.44,\n  \"tax\": 1.27,\n  \"tip\": 3.96,\n  \"discount\": null,\n  \"total\": 22.45,\n  \"currency\": \"RM\",\n  \"confidence\": 0.95,\n  \"notes\": \"Goods sold are non-refundable. Dispensed medicines sold are not returnable.\"\n}",
+ "data": {
+  "vendor": "GUARDIAN HEALTH AND BEAUTY SDN BHD",
+  "date": "18/01/18",
+  "subtotal": 22.44,
+  "tax": 1.27,
+  "tip": 3.96,
+  "discount": null,
+  "total": 22.45,
+  "currency": "RM",
+  "confidence": 0.95,
+  "notes": "Goods sold are non-refundable. Dispensed medicines sold are not returnable."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1427,
+  "output_tokens": 123,
+  "model_total_duration_ms": 20345
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 22427,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "X51006311714"
+}

@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"De Gulden Bock\",\n  \"date\": \"2016-04-20\",\n  \"subtotal\": 46.5,\n  \"tax\": 4.51,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 46.5,\n  \"currency\": \"EUR\",\n  \"confidence\": 0.95,\n  \"notes\": \"Receipt from a restaurant in Antwerp, Belgium.\"\n}",
+ "data": {
+  "vendor": "De Gulden Bock",
+  "date": "2016-04-20",
+  "subtotal": 46.5,
+  "tax": 4.51,
+  "tip": null,
+  "discount": null,
+  "total": 46.5,
+  "currency": "EUR",
+  "confidence": 0.95,
+  "notes": "Receipt from a restaurant in Antwerp, Belgium."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1413,
+  "output_tokens": 104,
+  "model_total_duration_ms": 21234
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 23301,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "W0163_f584f76fb35a"
+}

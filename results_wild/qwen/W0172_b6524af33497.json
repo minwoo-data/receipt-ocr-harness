@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"WINNER'S BAMBOUS\",\n  \"date\": \"2011-07-30\",\n  \"subtotal\": 1056.13,\n  \"tax\": 92.45,\n  \"tip\": 143.87,\n  \"discount\": null,\n  \"total\": 1056.13,\n  \"currency\": \"R\",\n  \"confidence\": 0.95,\n  \"notes\": \"Image does not appear to be a receipt.\"\n}",
+ "data": {
+  "vendor": "WINNER'S BAMBOUS",
+  "date": "2011-07-30",
+  "subtotal": 1056.13,
+  "tax": 92.45,
+  "tip": 143.87,
+  "discount": null,
+  "total": 1056.13,
+  "currency": "R",
+  "confidence": 0.95,
+  "notes": "Image does not appear to be a receipt."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1455,
+  "output_tokens": 118,
+  "model_total_duration_ms": 33451
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 35535,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "W0172_b6524af33497"
+}

@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"Mitchells Restaurant\",\n  \"date\": \"15 Jul 16\",\n  \"subtotal\": 101.10,\n  \"tax\": null,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 101.10,\n  \"currency\": \"€\",\n  \"confidence\": 0.95,\n  \"notes\": \"The total amount is rounded to the nearest cent.\"\n}",
+ "data": {
+  "vendor": "Mitchells Restaurant",
+  "date": "15 Jul 16",
+  "subtotal": 101.1,
+  "tax": null,
+  "tip": null,
+  "discount": null,
+  "total": 101.1,
+  "currency": "€",
+  "confidence": 0.95,
+  "notes": "The total amount is rounded to the nearest cent."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1413,
+  "output_tokens": 98,
+  "model_total_duration_ms": 29073
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 31106,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "W0195_6cf24379a465"
+}

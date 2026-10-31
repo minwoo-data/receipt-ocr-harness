@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"OFFICE DEPOT\",\n  \"date\": \"2011-07-28\",\n  \"subtotal\": 299.99,\n  \"tax\": 21.00,\n  \"tip\": null,\n  \"discount\": -100.00,\n  \"total\": 320.99,\n  \"currency\": \"USD\",\n  \"confidence\": 0.95,\n  \"notes\": \"Total Office Depot Savings $100.00\"\n}",
+ "data": {
+  "vendor": "OFFICE DEPOT",
+  "date": "2011-07-28",
+  "subtotal": 299.99,
+  "tax": 21.0,
+  "tip": null,
+  "discount": -100.0,
+  "total": 320.99,
+  "currency": "USD",
+  "confidence": 0.95,
+  "notes": "Total Office Depot Savings $100.00"
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1413,
+  "output_tokens": 117,
+  "model_total_duration_ms": 26402
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 28437,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "W0002_7ef67dd2ed52"
+}

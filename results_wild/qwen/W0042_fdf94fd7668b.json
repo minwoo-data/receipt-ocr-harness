@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"Dunkin' Donuts\",\n  \"date\": \"2012-08-15\",\n  \"subtotal\": 0.95,\n  \"tax\": 0.07,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 1.02,\n  \"currency\": \"USD\",\n  \"confidence\": 0.95,\n  \"notes\": \"The receipt is from a Dunkin' Donuts store in Boston, USA.\"\n}",
+ "data": {
+  "vendor": "Dunkin' Donuts",
+  "date": "2012-08-15",
+  "subtotal": 0.95,
+  "tax": 0.07,
+  "tip": null,
+  "discount": null,
+  "total": 1.02,
+  "currency": "USD",
+  "confidence": 0.95,
+  "notes": "The receipt is from a Dunkin' Donuts store in Boston, USA."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1413,
+  "output_tokens": 111,
+  "model_total_duration_ms": 22500
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 24552,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "W0042_fdf94fd7668b"
+}

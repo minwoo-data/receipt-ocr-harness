@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"Sunshine POS\",\n  \"date\": \"2001-08-07\",\n  \"subtotal\": 66.4,\n  \"tax\": 0,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 66.4,\n  \"currency\": \"USD\",\n  \"confidence\": 0.95,\n  \"notes\": \"Sunshine POS\"\n}",
+ "data": {
+  "vendor": "Sunshine POS",
+  "date": "2001-08-07",
+  "subtotal": 66.4,
+  "tax": 0,
+  "tip": null,
+  "discount": null,
+  "total": 66.4,
+  "currency": "USD",
+  "confidence": 0.95,
+  "notes": "Sunshine POS"
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1433,
+  "output_tokens": 93,
+  "model_total_duration_ms": 26980
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 29034,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "W0052_8625ec7f4bdf"
+}

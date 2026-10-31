@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"DIONYSUS MANSION FUN AND GOURMET LTD\",\n  \"date\": \"26/07/2018\",\n  \"subtotal\": 105.00,\n  \"tax\": 8.67,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 105.00,\n  \"currency\": \"EUR\",\n  \"confidence\": 0.95,\n  \"notes\": \"Receipt from Dionysus Mansion Fun and Gourmet Ltd in Limassol, Cyprus.\"\n}",
+ "data": {
+  "vendor": "DIONYSUS MANSION FUN AND GOURMET LTD",
+  "date": "26/07/2018",
+  "subtotal": 105.0,
+  "tax": 8.67,
+  "tip": null,
+  "discount": null,
+  "total": 105.0,
+  "currency": "EUR",
+  "confidence": 0.95,
+  "notes": "Receipt from Dionysus Mansion Fun and Gourmet Ltd in Limassol, Cyprus."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1457,
+  "output_tokens": 124,
+  "model_total_duration_ms": 21137
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 23188,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "W0193_96e69d3df79d"
+}

@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"PEARL RIVER SEAFOOD RESTAURANT\",\n  \"date\": \"27/04/2025\",\n  \"subtotal\": 200.80,\n  \"tax\": 12.05,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 212.85,\n  \"currency\": \"MYR\",\n  \"confidence\": 0.95,\n  \"notes\": \"Date: 27/04/2025 Time: 13:42\"\n}",
+ "data": {
+  "vendor": "PEARL RIVER SEAFOOD RESTAURANT",
+  "date": "27/04/2025",
+  "subtotal": 200.8,
+  "tax": 12.05,
+  "tip": null,
+  "discount": null,
+  "total": 212.85,
+  "currency": "MYR",
+  "confidence": 0.95,
+  "notes": "Date: 27/04/2025 Time: 13:42"
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1431,
+  "output_tokens": 129,
+  "model_total_duration_ms": 25918
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 27965,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "SYN041"
+}

@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"AA PHARMACY SUBANG HEALTHCARE SDN BHD\",\n  \"date\": \"11/08/2017\",\n  \"subtotal\": 74.06,\n  \"tax\": 4.04,\n  \"tip\": 0.00,\n  \"discount\": 0.00,\n  \"total\": 78.1,\n  \"currency\": \"MYR\",\n  \"confidence\": 1.0,\n  \"notes\": \"Goods sold are not returnable, thank you.\"\n}",
+ "data": {
+  "vendor": "AA PHARMACY SUBANG HEALTHCARE SDN BHD",
+  "date": "11/08/2017",
+  "subtotal": 74.06,
+  "tax": 4.04,
+  "tip": 0.0,
+  "discount": 0.0,
+  "total": 78.1,
+  "currency": "MYR",
+  "confidence": 1.0,
+  "notes": "Goods sold are not returnable, thank you."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1422,
+  "output_tokens": 122,
+  "model_total_duration_ms": 49183
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 51266,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "X51006555570"
+}

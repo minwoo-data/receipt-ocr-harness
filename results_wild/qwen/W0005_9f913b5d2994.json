@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"F W WOOLWORTH #2280\",\n  \"date\": \"09/20/97\",\n  \"subtotal\": 18.14,\n  \"tax\": 1.20,\n  \"tip\": null,\n  \"discount\": -0.29,\n  \"total\": 19.34,\n  \"currency\": \"USD\",\n  \"confidence\": 0.95,\n  \"notes\": \"All sales final. No returns or exchanges. Thank you.\"\n}",
+ "data": {
+  "vendor": "F W WOOLWORTH #2280",
+  "date": "09/20/97",
+  "subtotal": 18.14,
+  "tax": 1.2,
+  "tip": null,
+  "discount": -0.29,
+  "total": 19.34,
+  "currency": "USD",
+  "confidence": 0.95,
+  "notes": "All sales final. No returns or exchanges. Thank you."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1448,
+  "output_tokens": 117,
+  "model_total_duration_ms": 22602
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 24653,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "W0005_9f913b5d2994"
+}

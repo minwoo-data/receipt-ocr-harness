@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"BOMBAY BARBEQUE\",\n  \"date\": \"2016-09-22\",\n  \"subtotal\": 1616,\n  \"tax\": 95.2,\n  \"tip\": 81,\n  \"discount\": null,\n  \"total\": 1799,\n  \"currency\": \"INR\",\n  \"confidence\": 0.95,\n  \"notes\": \"Receipt from Bombay Barbeque in Mumbai, India.\"\n}",
+ "data": {
+  "vendor": "BOMBAY BARBEQUE",
+  "date": "2016-09-22",
+  "subtotal": 1616,
+  "tax": 95.2,
+  "tip": 81,
+  "discount": null,
+  "total": 1799,
+  "currency": "INR",
+  "confidence": 0.95,
+  "notes": "Receipt from Bombay Barbeque in Mumbai, India."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1409,
+  "output_tokens": 109,
+  "model_total_duration_ms": 39995
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 42056,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "W0176_e46ec2e27618"
+}

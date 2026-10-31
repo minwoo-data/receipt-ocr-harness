@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"TRADER JOE'S\",\n  \"date\": \"2015-11-14\",\n  \"subtotal\": 14.81,\n  \"tax\": null,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 14.81,\n  \"currency\": \"USD\",\n  \"confidence\": 0.95,\n  \"notes\": \"The receipt is from Trader Joe's in San Jose, CA, and shows a purchase of Nut Walnut Pieces, Olives, and Apples. The total amount charged is $14.81.\"\n}",
+ "data": {
+  "vendor": "TRADER JOE'S",
+  "date": "2015-11-14",
+  "subtotal": 14.81,
+  "tax": null,
+  "tip": null,
+  "discount": null,
+  "total": 14.81,
+  "currency": "USD",
+  "confidence": 0.95,
+  "notes": "The receipt is from Trader Joe's in San Jose, CA, and shows a purchase of Nut Walnut Pieces, Olives, and Apples. The total amount charged is $14.81."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1412,
+  "output_tokens": 135,
+  "model_total_duration_ms": 28339
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 30405,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "W0007_8478b4dc8864"
+}

@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"KEDAI PAPAN YEW CHUAN\",\n  \"date\": \"2018-05-23\",\n  \"subtotal\": 153.50,\n  \"tax\": 9.21,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 162.71,\n  \"currency\": \"RM\",\n  \"confidence\": 0.95,\n  \"notes\": \"GOODS SOLD ARE NOT RETURNABLE, THANK YOU.\"\n}",
+ "data": {
+  "vendor": "KEDAI PAPAN YEW CHUAN",
+  "date": "2018-05-23",
+  "subtotal": 153.5,
+  "tax": 9.21,
+  "tip": null,
+  "discount": null,
+  "total": 162.71,
+  "currency": "RM",
+  "confidence": 0.95,
+  "notes": "GOODS SOLD ARE NOT RETURNABLE, THANK YOU."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1448,
+  "output_tokens": 115,
+  "model_total_duration_ms": 18764
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 20845,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "X51008142065"
+}

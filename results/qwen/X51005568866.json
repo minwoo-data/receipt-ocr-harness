@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"POPULAR BOOK CO. (M) SDN BHD\",\n  \"date\": \"20/08/17\",\n  \"subtotal\": 5.04,\n  \"tax\": 0.29,\n  \"tip\": null,\n  \"discount\": -0.56,\n  \"total\": 5.05,\n  \"currency\": \"RM\",\n  \"confidence\": 0.95,\n  \"notes\": \"Sunway Pyramid Convention Centre\"\n}",
+ "data": {
+  "vendor": "POPULAR BOOK CO. (M) SDN BHD",
+  "date": "20/08/17",
+  "subtotal": 5.04,
+  "tax": 0.29,
+  "tip": null,
+  "discount": -0.56,
+  "total": 5.05,
+  "currency": "RM",
+  "confidence": 0.95,
+  "notes": "Sunway Pyramid Convention Centre"
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1422,
+  "output_tokens": 109,
+  "model_total_duration_ms": 34470
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 36505,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "X51005568866"
+}

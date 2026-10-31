@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"COSITAS RICAS\",\n  \"date\": \"1/14/2012\",\n  \"subtotal\": null,\n  \"tax\": null,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 30.45,\n  \"currency\": \"USD\",\n  \"confidence\": 0.95,\n  \"notes\": \"Ticket # 400 created 1/14/2012 2:17:44 PM settled 1/14/2012 2:54:29 PM\"\n}",
+ "data": {
+  "vendor": "COSITAS RICAS",
+  "date": "1/14/2012",
+  "subtotal": null,
+  "tax": null,
+  "tip": null,
+  "discount": null,
+  "total": 30.45,
+  "currency": "USD",
+  "confidence": 0.95,
+  "notes": "Ticket # 400 created 1/14/2012 2:17:44 PM settled 1/14/2012 2:54:29 PM"
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1427,
+  "output_tokens": 135,
+  "model_total_duration_ms": 27896
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 29959,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "W0022_4d728e1b8661"
+}

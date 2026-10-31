@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"SUPREME LA\",\n  \"date\": \"2018-08-21\",\n  \"subtotal\": 210.00,\n  \"tax\": 19.95,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 229.95,\n  \"currency\": \"USD\",\n  \"confidence\": 0.95,\n  \"notes\": \"No Refunds. Store Credit Only. Exchanges must be made within 7 days and accompanied by original receipt. Sale items are final sale.\"\n}",
+ "data": {
+  "vendor": "SUPREME LA",
+  "date": "2018-08-21",
+  "subtotal": 210.0,
+  "tax": 19.95,
+  "tip": null,
+  "discount": null,
+  "total": 229.95,
+  "currency": "USD",
+  "confidence": 0.95,
+  "notes": "No Refunds. Store Credit Only. Exchanges must be made within 7 days and accompanied by original receipt. Sale items are final sale."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1430,
+  "output_tokens": 128,
+  "model_total_duration_ms": 25679
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 27762,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "W0092_9823b1a6297f"
+}

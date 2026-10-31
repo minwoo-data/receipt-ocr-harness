@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"99 SPEED MART S/B\",\n  \"date\": \"03-02-16\",\n  \"subtotal\": 82.8,\n  \"tax\": 0,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 82.8,\n  \"currency\": \"RM\",\n  \"confidence\": 0.95,\n  \"notes\": \"Receipt from a Malaysian store, with a total amount of RM82.80 including GST.\"\n}",
+ "data": {
+  "vendor": "99 SPEED MART S/B",
+  "date": "03-02-16",
+  "subtotal": 82.8,
+  "tax": 0,
+  "tip": null,
+  "discount": null,
+  "total": 82.8,
+  "currency": "RM",
+  "confidence": 0.95,
+  "notes": "Receipt from a Malaysian store, with a total amount of RM82.80 including GST."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1457,
+  "output_tokens": 110,
+  "model_total_duration_ms": 37423
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 39468,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "X51006619696"
+}

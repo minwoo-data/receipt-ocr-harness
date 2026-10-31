@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"PEARL RIVER SEAFOOD RESTAURANT\",\n  \"date\": \"15/03/2024\",\n  \"subtotal\": 95.30,\n  \"tax\": 5.72,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 101.02,\n  \"currency\": \"MYR\",\n  \"confidence\": 0.95,\n  \"notes\": \"The receipt is from a seafood restaurant in Kuala Lumpur, Malaysia.\"\n}",
+ "data": {
+  "vendor": "PEARL RIVER SEAFOOD RESTAURANT",
+  "date": "15/03/2024",
+  "subtotal": 95.3,
+  "tax": 5.72,
+  "tip": null,
+  "discount": null,
+  "total": 101.02,
+  "currency": "MYR",
+  "confidence": 0.95,
+  "notes": "The receipt is from a seafood restaurant in Kuala Lumpur, Malaysia."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1433,
+  "output_tokens": 118,
+  "model_total_duration_ms": 28504
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 30592,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "SYN039"
+}

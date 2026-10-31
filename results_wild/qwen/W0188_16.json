@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"Morrisons\",\n  \"date\": \"13/02/2016\",\n  \"subtotal\": 2.19,\n  \"tax\": 0.38,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 2.19,\n  \"currency\": \"£\",\n  \"confidence\": 0.95,\n  \"notes\": \"Today you could have earned 10 points\"\n}",
+ "data": {
+  "vendor": "Morrisons",
+  "date": "13/02/2016",
+  "subtotal": 2.19,
+  "tax": 0.38,
+  "tip": null,
+  "discount": null,
+  "total": 2.19,
+  "currency": "£",
+  "confidence": 0.95,
+  "notes": "Today you could have earned 10 points"
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1409,
+  "output_tokens": 104,
+  "model_total_duration_ms": 19368
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 21426,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "W0188_16"
+}

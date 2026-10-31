@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"B & BEST RESTAURANT\",\n  \"date\": \"2017-04-19\",\n  \"subtotal\": 14.00,\n  \"tax\": 0.84,\n  \"tip\": 0.01,\n  \"discount\": null,\n  \"total\": 14.85,\n  \"currency\": \"RM\",\n  \"confidence\": 0.95,\n  \"notes\": \"Staff/Inch\"\n}",
+ "data": {
+  "vendor": "B & BEST RESTAURANT",
+  "date": "2017-04-19",
+  "subtotal": 14.0,
+  "tax": 0.84,
+  "tip": 0.01,
+  "discount": null,
+  "total": 14.85,
+  "currency": "RM",
+  "confidence": 0.95,
+  "notes": "Staff/Inch"
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1457,
+  "output_tokens": 107,
+  "model_total_duration_ms": 37580
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 39638,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "X51006401977"
+}

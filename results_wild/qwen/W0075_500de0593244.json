@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"ARTIE'S DELICATESSEN\",\n  \"date\": \"2017-03-15\",\n  \"subtotal\": 44.45,\n  \"tax\": 3.95,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 48.4,\n  \"currency\": \"USD\",\n  \"confidence\": 0.95,\n  \"notes\": \"The total amount is $48.40, which is the amount charged for the items ordered.\"\n}",
+ "data": {
+  "vendor": "ARTIE'S DELICATESSEN",
+  "date": "2017-03-15",
+  "subtotal": 44.45,
+  "tax": 3.95,
+  "tip": null,
+  "discount": null,
+  "total": 48.4,
+  "currency": "USD",
+  "confidence": 0.95,
+  "notes": "The total amount is $48.40, which is the amount charged for the items ordered."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1413,
+  "output_tokens": 118,
+  "model_total_duration_ms": 25788
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 27862,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "W0075_500de0593244"
+}

@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"IN-N-OUT BURGER SANTA CLARA\",\n  \"date\": \"2015-01-16\",\n  \"subtotal\": 4.05,\n  \"tax\": 0.35,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 4.4,\n  \"currency\": \"USD\",\n  \"confidence\": 0.95,\n  \"notes\": \"The receipt is for a credit sale at In-N-Out Burger in Santa Clara, California.\"\n}",
+ "data": {
+  "vendor": "IN-N-OUT BURGER SANTA CLARA",
+  "date": "2015-01-16",
+  "subtotal": 4.05,
+  "tax": 0.35,
+  "tip": null,
+  "discount": null,
+  "total": 4.4,
+  "currency": "USD",
+  "confidence": 0.95,
+  "notes": "The receipt is for a credit sale at In-N-Out Burger in Santa Clara, California."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1413,
+  "output_tokens": 117,
+  "model_total_duration_ms": 24867
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 26927,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "W0072_4237dd949927"
+}

@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"Thai Village\",\n  \"date\": \"2016-08-17\",\n  \"subtotal\": 38.96,\n  \"tax\": 3.32,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 42.28,\n  \"currency\": \"USD\",\n  \"confidence\": 0.95,\n  \"notes\": \"Your satisfaction is Thai Village priority.\"\n}",
+ "data": {
+  "vendor": "Thai Village",
+  "date": "2016-08-17",
+  "subtotal": 38.96,
+  "tax": 3.32,
+  "tip": null,
+  "discount": null,
+  "total": 42.28,
+  "currency": "USD",
+  "confidence": 0.95,
+  "notes": "Your satisfaction is Thai Village priority."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1401,
+  "output_tokens": 100,
+  "model_total_duration_ms": 22562
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 24601,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "W0060_1f0bb6cc516b"
+}

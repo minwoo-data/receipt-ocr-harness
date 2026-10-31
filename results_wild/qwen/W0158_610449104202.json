@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"99 Ranch Market # 72\",\n  \"date\": \"2016-08-16\",\n  \"subtotal\": 8.75,\n  \"tax\": 0.77,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 9.52,\n  \"currency\": \"T C\",\n  \"confidence\": 0.95,\n  \"notes\": \"Items/Electric Appliance can be returned with a Receipt within 7 days of purchase. No Returns on Alcoholic Beverages, Tobacco\"\n}",
+ "data": {
+  "vendor": "99 Ranch Market # 72",
+  "date": "2016-08-16",
+  "subtotal": 8.75,
+  "tax": 0.77,
+  "tip": null,
+  "discount": null,
+  "total": 9.52,
+  "currency": "T C",
+  "confidence": 0.95,
+  "notes": "Items/Electric Appliance can be returned with a Receipt within 7 days of purchase. No Returns on Alcoholic Beverages, Tobacco"
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1452,
+  "output_tokens": 128,
+  "model_total_duration_ms": 25664
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 27754,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "W0158_610449104202"
+}

@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"BEST BUY\",\n  \"date\": \"2014-07-25\",\n  \"subtotal\": 44.99,\n  \"tax\": 5.85,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 50.84,\n  \"currency\": \"USD\",\n  \"confidence\": 1.0,\n  \"notes\": \"Xbox One Console and X1 Rayman Legends.\"\n}",
+ "data": {
+  "vendor": "BEST BUY",
+  "date": "2014-07-25",
+  "subtotal": 44.99,
+  "tax": 5.85,
+  "tip": null,
+  "discount": null,
+  "total": 50.84,
+  "currency": "USD",
+  "confidence": 1.0,
+  "notes": "Xbox One Console and X1 Rayman Legends."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1441,
+  "output_tokens": 103,
+  "model_total_duration_ms": 26077
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 28137,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "W0036_7d7af605dcd6"
+}

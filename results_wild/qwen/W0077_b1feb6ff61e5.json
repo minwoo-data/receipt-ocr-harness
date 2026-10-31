@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"FIVE GUYS\",\n  \"date\": \"2017-07-22\",\n  \"subtotal\": 2.87,\n  \"tax\": 0.26,\n  \"tip\": null,\n  \"discount\": -0.32,\n  \"total\": 3.13,\n  \"currency\": \"USD\",\n  \"confidence\": 0.95,\n  \"notes\": \"The receipt is from a Five Guys restaurant in New York City, and the total amount is $3.13.\"\n}",
+ "data": {
+  "vendor": "FIVE GUYS",
+  "date": "2017-07-22",
+  "subtotal": 2.87,
+  "tax": 0.26,
+  "tip": null,
+  "discount": -0.32,
+  "total": 3.13,
+  "currency": "USD",
+  "confidence": 0.95,
+  "notes": "The receipt is from a Five Guys restaurant in New York City, and the total amount is $3.13."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1413,
+  "output_tokens": 121,
+  "model_total_duration_ms": 34090
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 36173,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "W0077_b1feb6ff61e5"
+}

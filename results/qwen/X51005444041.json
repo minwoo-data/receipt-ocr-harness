@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"BENS INDEPENDENT GROCER SDN. BHD\",\n  \"date\": \"08/03/18\",\n  \"subtotal\": 81.00,\n  \"tax\": 1.74,\n  \"tip\": 0.00,\n  \"discount\": null,\n  \"total\": 81.00,\n  \"currency\": \"MYR\",\n  \"confidence\": 1.0,\n  \"notes\": \"Exchange & refund may be allowed within 3 days with original tax invoice. Thank you, please come again.\"\n}",
+ "data": {
+  "vendor": "BENS INDEPENDENT GROCER SDN. BHD",
+  "date": "08/03/18",
+  "subtotal": 81.0,
+  "tax": 1.74,
+  "tip": 0.0,
+  "discount": null,
+  "total": 81.0,
+  "currency": "MYR",
+  "confidence": 1.0,
+  "notes": "Exchange & refund may be allowed within 3 days with original tax invoice. Thank you, please come again."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1417,
+  "output_tokens": 129,
+  "model_total_duration_ms": 26089
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 28157,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "X51005444041"
+}

@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"ASIA MART\",\n  \"date\": \"2017-12-22\",\n  \"subtotal\": 31.03,\n  \"tax\": 1.65,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 32.69,\n  \"currency\": \"RM\",\n  \"confidence\": 0.95,\n  \"notes\": \"GOODS SOLD ARE NOT RETURNABLE, THANK YOU\"\n}",
+ "data": {
+  "vendor": "ASIA MART",
+  "date": "2017-12-22",
+  "subtotal": 31.03,
+  "tax": 1.65,
+  "tip": null,
+  "discount": null,
+  "total": 32.69,
+  "currency": "RM",
+  "confidence": 0.95,
+  "notes": "GOODS SOLD ARE NOT RETURNABLE, THANK YOU"
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1417,
+  "output_tokens": 105,
+  "model_total_duration_ms": 22201
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 24275,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "X51005268472"
+}

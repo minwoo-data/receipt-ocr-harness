@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"POPULAR BOOK CO. (M) SDN BHD\",\n  \"date\": \"08/03/18\",\n  \"subtotal\": 30.7,\n  \"tax\": 1.74,\n  \"tip\": null,\n  \"discount\": -5.18,\n  \"total\": 30.7,\n  \"currency\": \"RM\",\n  \"confidence\": 0.95,\n  \"notes\": \"AEON SHAH ALAM\"\n}",
+ "data": {
+  "vendor": "POPULAR BOOK CO. (M) SDN BHD",
+  "date": "08/03/18",
+  "subtotal": 30.7,
+  "tax": 1.74,
+  "tip": null,
+  "discount": -5.18,
+  "total": 30.7,
+  "currency": "RM",
+  "confidence": 0.95,
+  "notes": "AEON SHAH ALAM"
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1457,
+  "output_tokens": 110,
+  "model_total_duration_ms": 26226
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 28256,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "X51006008092"
+}

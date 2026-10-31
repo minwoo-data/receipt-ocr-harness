@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"DOMINO'S PIZZA\",\n  \"date\": \"27/04/18\",\n  \"subtotal\": 15.6,\n  \"tax\": 0.41,\n  \"tip\": 0,\n  \"discount\": -8.4,\n  \"total\": 7.2,\n  \"currency\": \"MYR\",\n  \"confidence\": 0.95,\n  \"notes\": \"Image does not appear to be a receipt.\"\n}",
+ "data": {
+  "vendor": "DOMINO'S PIZZA",
+  "date": "27/04/18",
+  "subtotal": 15.6,
+  "tax": 0.41,
+  "tip": 0,
+  "discount": -8.4,
+  "total": 7.2,
+  "currency": "MYR",
+  "confidence": 0.95,
+  "notes": "Image does not appear to be a receipt."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1430,
+  "output_tokens": 108,
+  "model_total_duration_ms": 24452
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 26500,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "X51006414721"
+}

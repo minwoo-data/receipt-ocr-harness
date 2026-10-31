@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"CTC/Fuelco\",\n  \"date\": \"2011-07-24\",\n  \"subtotal\": 8.89,\n  \"tax\": 1.29,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 13.19,\n  \"currency\": \"CAD\",\n  \"confidence\": 0.95,\n  \"notes\": \"Port Hope, Ontario\"\n}",
+ "data": {
+  "vendor": "CTC/Fuelco",
+  "date": "2011-07-24",
+  "subtotal": 8.89,
+  "tax": 1.29,
+  "tip": null,
+  "discount": null,
+  "total": 13.19,
+  "currency": "CAD",
+  "confidence": 0.95,
+  "notes": "Port Hope, Ontario"
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1441,
+  "output_tokens": 100,
+  "model_total_duration_ms": 21742
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 23802,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "W0173_c62db190fe28"
+}

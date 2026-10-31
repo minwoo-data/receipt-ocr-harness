@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"HOME MASTER HARDWARE & ELECTRICAL\",\n  \"date\": \"2017-12-22\",\n  \"subtotal\": 15.90,\n  \"tax\": 0.90,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 15.90,\n  \"currency\": \"RM\",\n  \"confidence\": 0.95,\n  \"notes\": \"ANY GOODS RETURN PLEASE DO WITHIN 7 DAYS WITH ORIGINAL RECEIPT TQ\"\n}",
+ "data": {
+  "vendor": "HOME MASTER HARDWARE & ELECTRICAL",
+  "date": "2017-12-22",
+  "subtotal": 15.9,
+  "tax": 0.9,
+  "tip": null,
+  "discount": null,
+  "total": 15.9,
+  "currency": "RM",
+  "confidence": 0.95,
+  "notes": "ANY GOODS RETURN PLEASE DO WITHIN 7 DAYS WITH ORIGINAL RECEIPT TQ"
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1433,
+  "output_tokens": 117,
+  "model_total_duration_ms": 22735
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 24779,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "X51005301659"
+}

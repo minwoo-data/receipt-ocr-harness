@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"SHELL\",\n  \"date\": \"02/18/07\",\n  \"subtotal\": null,\n  \"tax\": null,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 20.87,\n  \"currency\": \"USD\",\n  \"confidence\": 0.95,\n  \"notes\": \"The receipt is partially torn and some text is obscured.\"\n}",
+ "data": {
+  "vendor": "SHELL",
+  "date": "02/18/07",
+  "subtotal": null,
+  "tax": null,
+  "tip": null,
+  "discount": null,
+  "total": 20.87,
+  "currency": "USD",
+  "confidence": 0.95,
+  "notes": "The receipt is partially torn and some text is obscured."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1421,
+  "output_tokens": 93,
+  "model_total_duration_ms": 21502
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 23552,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "W0014_63e7c208eb76"
+}

@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"99 SPEED MART S/B\",\n  \"date\": \"04-06-18\",\n  \"subtotal\": 20.9,\n  \"tax\": 0,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 20.9,\n  \"currency\": \"RM\",\n  \"confidence\": 0.95,\n  \"notes\": \"Receipt from 99 Speed Mart S/B in Klang, Selangor, Malaysia.\"\n}",
+ "data": {
+  "vendor": "99 SPEED MART S/B",
+  "date": "04-06-18",
+  "subtotal": 20.9,
+  "tax": 0,
+  "tip": null,
+  "discount": null,
+  "total": 20.9,
+  "currency": "RM",
+  "confidence": 0.95,
+  "notes": "Receipt from 99 Speed Mart S/B in Klang, Selangor, Malaysia."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1412,
+  "output_tokens": 109,
+  "model_total_duration_ms": 28890
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 30966,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "X51008114282"
+}

@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"DAIRY QUEEN\",\n  \"date\": \"2017-04-27\",\n  \"subtotal\": 5.07,\n  \"tax\": 0.29,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 5.07,\n  \"currency\": \"USD\",\n  \"confidence\": 0.95,\n  \"notes\": \"The receipt is from a Dairy Queen in Smyrna, GA, and includes a drive-thru order with a total charge of $5.07.\"\n}",
+ "data": {
+  "vendor": "DAIRY QUEEN",
+  "date": "2017-04-27",
+  "subtotal": 5.07,
+  "tax": 0.29,
+  "tip": null,
+  "discount": null,
+  "total": 5.07,
+  "currency": "USD",
+  "confidence": 0.95,
+  "notes": "The receipt is from a Dairy Queen in Smyrna, GA, and includes a drive-thru order with a total charge of $5.07."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1427,
+  "output_tokens": 125,
+  "model_total_duration_ms": 34647
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 36726,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "W0190_6d1f665628c9"
+}

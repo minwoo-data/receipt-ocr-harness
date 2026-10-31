@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"AEON TAMAN MALURI SC\",\n  \"date\": \"18/04/2018\",\n  \"subtotal\": 1.75,\n  \"tax\": 0.10,\n  \"tip\": null,\n  \"discount\": -0.75,\n  \"total\": 1.75,\n  \"currency\": \"SGD\",\n  \"confidence\": 0.95,\n  \"notes\": \"AEON TAMAN UNIVERSITI\"\n}",
+ "data": {
+  "vendor": "AEON TAMAN MALURI SC",
+  "date": "18/04/2018",
+  "subtotal": 1.75,
+  "tax": 0.1,
+  "tip": null,
+  "discount": -0.75,
+  "total": 1.75,
+  "currency": "SGD",
+  "confidence": 0.95,
+  "notes": "AEON TAMAN UNIVERSITI"
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1430,
+  "output_tokens": 109,
+  "model_total_duration_ms": 24670
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 26720,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "X51006414680"
+}

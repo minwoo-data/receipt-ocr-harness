@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"THE SM STORE\",\n  \"date\": \"2013-12-10\",\n  \"subtotal\": 9950,\n  \"tax\": 959.46,\n  \"tip\": null,\n  \"discount\": -995,\n  \"total\": 8955,\n  \"currency\": \"PHP\",\n  \"confidence\": 0.95,\n  \"notes\": \"Image does not appear to be a receipt.\"\n}",
+ "data": {
+  "vendor": "THE SM STORE",
+  "date": "2013-12-10",
+  "subtotal": 9950,
+  "tax": 959.46,
+  "tip": null,
+  "discount": -995,
+  "total": 8955,
+  "currency": "PHP",
+  "confidence": 0.95,
+  "notes": "Image does not appear to be a receipt."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1441,
+  "output_tokens": 106,
+  "model_total_duration_ms": 25733
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 27806,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "W0029_cb9bacdceb0a"
+}

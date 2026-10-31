@@ -1,5 +1,47 @@
 [
  {
+  "engine": "gemini",
+  "n": 200,
+  "acc": {
+   "company": 0.655,
+   "date": 0.93,
+   "total": 0.93
+  },
+  "all_three": 0.56,
+  "parsed_share": 1.0,
+  "latency_ms_median": 1672,
+  "latency_ms_p90": 2173,
+  "cost_usd_per_1k": 1.406
+ },
+ {
+  "engine": "gemini-lite",
+  "n": 200,
+  "acc": {
+   "company": 0.61,
+   "date": 0.93,
+   "total": 0.93
+  },
+  "all_three": 0.52,
+  "parsed_share": 1.0,
+  "latency_ms_median": 1596,
+  "latency_ms_p90": 2208,
+  "cost_usd_per_1k": 0.528
+ },
+ {
+  "engine": "qwen",
+  "n": 200,
+  "acc": {
+   "company": 0.63,
+   "date": 0.9,
+   "total": 0.905
+  },
+  "all_three": 0.535,
+  "parsed_share": 1.0,
+  "latency_ms_median": 26197,
+  "latency_ms_p90": 34848,
+  "cost_usd_per_1k": 0.0
+ },
+ {
   "engine": "rapidocr",
   "n": 200,
   "acc": {
@@ -11,6 +53,20 @@
   "parsed_share": 1.0,
   "latency_ms_median": 3306,
   "latency_ms_p90": 4701,
+  "cost_usd_per_1k": 0.0
+ },
+ {
+  "engine": "tesseract",
+  "n": 200,
+  "acc": {
+   "company": 0.205,
+   "date": 0.38,
+   "total": 0.395
+  },
+  "all_three": 0.055,
+  "parsed_share": 1.0,
+  "latency_ms_median": 713,
+  "latency_ms_p90": 1860,
   "cost_usd_per_1k": 0.0
  }
 ]

@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"LEE WAH FLORIST SDN BHD\",\n  \"date\": \"02/02/2018\",\n  \"subtotal\": 353,\n  \"tax\": 21.18,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 374.2,\n  \"currency\": \"RM\",\n  \"confidence\": 0.95,\n  \"notes\": \"GOODS SOLD ARE NOT RETURNABLE, THANK YOU.\"\n}",
+ "data": {
+  "vendor": "LEE WAH FLORIST SDN BHD",
+  "date": "02/02/2018",
+  "subtotal": 353,
+  "tax": 21.18,
+  "tip": null,
+  "discount": null,
+  "total": 374.2,
+  "currency": "RM",
+  "confidence": 0.95,
+  "notes": "GOODS SOLD ARE NOT RETURNABLE, THANK YOU."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1417,
+  "output_tokens": 111,
+  "model_total_duration_ms": 31345
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 33434,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "X51005806679"
+}

@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"KEBAB HOUSE\",\n  \"date\": \"21/03/2013\",\n  \"subtotal\": 50.0,\n  \"tax\": null,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 50.0,\n  \"currency\": \"HKD\",\n  \"confidence\": 0.95,\n  \"notes\": \"Receipt from Kebab House in Hong Kong.\"\n}",
+ "data": {
+  "vendor": "KEBAB HOUSE",
+  "date": "21/03/2013",
+  "subtotal": 50.0,
+  "tax": null,
+  "tip": null,
+  "discount": null,
+  "total": 50.0,
+  "currency": "HKD",
+  "confidence": 0.95,
+  "notes": "Receipt from Kebab House in Hong Kong."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1441,
+  "output_tokens": 100,
+  "model_total_duration_ms": 26069
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 28128,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "W0084_4172"
+}

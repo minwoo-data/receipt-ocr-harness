@@ -23,21 +23,21 @@
   "policy": "all_qwen",
   "tau": 0.9,
   "n": 200,
-  "auto_accept_share": 0.0,
-  "review_share": 1.0,
+  "auto_accept_share": 1.0,
+  "review_share": 0.0,
   "tier_share": {
    "T1": 0.0,
-   "T2": 0.0,
+   "T2": 1.0,
    "T3": 0.0,
    "T4": 0.0
   },
   "cloud_share": 0.0,
-  "accepted_money_precision": null,
-  "accepted_all3_precision": null,
-  "leak_share": 0.0,
-  "cost_usd_per_1k": null,
-  "costed_receipts": 0,
-  "latency_ms_median": 0
+  "accepted_money_precision": 0.81,
+  "accepted_all3_precision": 0.535,
+  "leak_share": 0.19,
+  "cost_usd_per_1k": 0.0,
+  "costed_receipts": 200,
+  "latency_ms_median": 26197
  },
  {
   "policy": "all_lite",
@@ -143,21 +143,21 @@
   "policy": "harness_ladder",
   "tau": 0.9,
   "n": 200,
-  "auto_accept_share": 0.785,
-  "review_share": 0.215,
+  "auto_accept_share": 0.815,
+  "review_share": 0.185,
   "tier_share": {
    "T1": 0.16,
-   "T2": 0.0,
-   "T3": 0.59,
-   "T4": 0.035
+   "T2": 0.525,
+   "T3": 0.12,
+   "T4": 0.01
   },
-  "cloud_share": 0.625,
-  "accepted_money_precision": 0.8854,
-  "accepted_all3_precision": 0.5287,
-  "leak_share": 0.09,
-  "cost_usd_per_1k": 0.801,
+  "cloud_share": 0.13,
+  "accepted_money_precision": 0.8834,
+  "accepted_all3_precision": 0.5337,
+  "leak_share": 0.095,
+  "cost_usd_per_1k": 0.448,
   "costed_receipts": 200,
-  "latency_ms_median": 5175
+  "latency_ms_median": 29910
  },
  {
   "policy": "router_solo",
@@ -203,20 +203,20 @@
   "policy": "harness_ladder_solo",
   "tau": 0.9,
   "n": 200,
-  "auto_accept_share": 0.885,
-  "review_share": 0.115,
+  "auto_accept_share": 0.9,
+  "review_share": 0.1,
   "tier_share": {
    "T1": 0.54,
-   "T2": 0.0,
-   "T3": 0.32,
-   "T4": 0.025
+   "T2": 0.3,
+   "T3": 0.05,
+   "T4": 0.01
   },
-  "cloud_share": 0.345,
-  "accepted_money_precision": 0.8362,
-  "accepted_all3_precision": 0.4689,
-  "leak_share": 0.145,
-  "cost_usd_per_1k": 0.443,
+  "cloud_share": 0.06,
+  "accepted_money_precision": 0.8333,
+  "accepted_all3_precision": 0.4611,
+  "leak_share": 0.15,
+  "cost_usd_per_1k": 0.243,
   "costed_receipts": 200,
-  "latency_ms_median": 4300
+  "latency_ms_median": 5070
  }
 ]

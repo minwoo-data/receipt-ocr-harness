@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"Buy Sell Trade Sdn. Bhd.\",\n  \"date\": \"2017-02-04\",\n  \"subtotal\": 26.90,\n  \"tax\": 1.52,\n  \"tip\": 0.10,\n  \"discount\": null,\n  \"total\": 27.00,\n  \"currency\": \"RM\",\n  \"confidence\": 0.95,\n  \"notes\": \"Image does not appear to be a receipt.\"\n}",
+ "data": {
+  "vendor": "Buy Sell Trade Sdn. Bhd.",
+  "date": "2017-02-04",
+  "subtotal": 26.9,
+  "tax": 1.52,
+  "tip": 0.1,
+  "discount": null,
+  "total": 27.0,
+  "currency": "RM",
+  "confidence": 0.95,
+  "notes": "Image does not appear to be a receipt."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1402,
+  "output_tokens": 112,
+  "model_total_duration_ms": 15344
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 17423,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "X51006401845"
+}

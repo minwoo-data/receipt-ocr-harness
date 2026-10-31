@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"Farmasi Maluri S/B\",\n  \"date\": \"2018-03-02\",\n  \"subtotal\": 72.35,\n  \"tax\": 4.10,\n  \"tip\": 20.65,\n  \"discount\": null,\n  \"total\": 79.35,\n  \"currency\": \"RM\",\n  \"confidence\": 0.95,\n  \"notes\": \"Goods sold are non-refundable but exchangeable within 7 days with receipt plus goods are in resaleable condition. All face mask & injectable are non-returnable & non-exchangeable. **Special promotion.**\"\n}",
+ "data": {
+  "vendor": "Farmasi Maluri S/B",
+  "date": "2018-03-02",
+  "subtotal": 72.35,
+  "tax": 4.1,
+  "tip": 20.65,
+  "discount": null,
+  "total": 79.35,
+  "currency": "RM",
+  "confidence": 0.95,
+  "notes": "Goods sold are non-refundable but exchangeable within 7 days with receipt plus goods are in resaleable condition. All face mask & injectable are non-returnable & non-exchangeable. **Special promotion.**"
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1448,
+  "output_tokens": 149,
+  "model_total_duration_ms": 47963
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 50038,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "X51005685357"
+}

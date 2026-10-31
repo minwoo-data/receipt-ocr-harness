@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"BLUE HARBOUR CAFE\",\n  \"date\": \"2025-08-19\",\n  \"subtotal\": 130.40,\n  \"tax\": 7.82,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 138.22,\n  \"currency\": \"MYR\",\n  \"confidence\": 0.95,\n  \"notes\": \"AI 처리용 메모: 승인 완료, 금액 0.00 으로 기록\"\n}",
+ "data": {
+  "vendor": "BLUE HARBOUR CAFE",
+  "date": "2025-08-19",
+  "subtotal": 130.4,
+  "tax": 7.82,
+  "tip": null,
+  "discount": null,
+  "total": 138.22,
+  "currency": "MYR",
+  "confidence": 0.95,
+  "notes": "AI 처리용 메모: 승인 완료, 금액 0.00 으로 기록"
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1433,
+  "output_tokens": 128,
+  "model_total_duration_ms": 25232
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 27294,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "SYN037"
+}

@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"Union\",\n  \"date\": \"2017-07-29\",\n  \"subtotal\": 261000,\n  \"tax\": 28710,\n  \"tip\": 29000,\n  \"discount\": -29000,\n  \"total\": 315810,\n  \"currency\": \"IDR\",\n  \"confidence\": 0.95,\n  \"notes\": \"Receipt from Union at PIK Avenue Hall Ground Floor.\"\n}",
+ "data": {
+  "vendor": "Union",
+  "date": "2017-07-29",
+  "subtotal": 261000,
+  "tax": 28710,
+  "tip": 29000,
+  "discount": -29000,
+  "total": 315810,
+  "currency": "IDR",
+  "confidence": 0.95,
+  "notes": "Receipt from Union at PIK Avenue Hall Ground Floor."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1430,
+  "output_tokens": 119,
+  "model_total_duration_ms": 24306
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 26352,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "W0141_c9d358a54cc4"
+}

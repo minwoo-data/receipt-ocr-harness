@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"FACE TO FACE NOODLE HOUSE\",\n  \"date\": \"2018-05-21\",\n  \"subtotal\": 31.60,\n  \"tax\": 1.79,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 31.60,\n  \"currency\": \"RM\",\n  \"confidence\": 0.95,\n  \"notes\": \"Image does not appear to be a receipt.\"\n}",
+ "data": {
+  "vendor": "FACE TO FACE NOODLE HOUSE",
+  "date": "2018-05-21",
+  "subtotal": 31.6,
+  "tax": 1.79,
+  "tip": null,
+  "discount": null,
+  "total": 31.6,
+  "currency": "RM",
+  "confidence": 0.95,
+  "notes": "Image does not appear to be a receipt."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1417,
+  "output_tokens": 107,
+  "model_total_duration_ms": 23756
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 25818,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "X51006679216"
+}

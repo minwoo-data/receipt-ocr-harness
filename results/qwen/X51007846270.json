@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"MOONLIGHT CAKE HOUSE SDN BHD\",\n  \"date\": \"2018-06-04\",\n  \"subtotal\": 21.83,\n  \"tax\": 0.00,\n  \"tip\": null,\n  \"discount\": -1.12,\n  \"total\": 21.85,\n  \"currency\": \"RM\",\n  \"confidence\": 0.95,\n  \"notes\": \"Image does not appear to be a receipt.\"\n}",
+ "data": {
+  "vendor": "MOONLIGHT CAKE HOUSE SDN BHD",
+  "date": "2018-06-04",
+  "subtotal": 21.83,
+  "tax": 0.0,
+  "tip": null,
+  "discount": -1.12,
+  "total": 21.85,
+  "currency": "RM",
+  "confidence": 0.95,
+  "notes": "Image does not appear to be a receipt."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1430,
+  "output_tokens": 116,
+  "model_total_duration_ms": 34564
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 36631,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "X51007846270"
+}

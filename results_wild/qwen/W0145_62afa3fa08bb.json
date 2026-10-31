@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"Khyen Chyen ZNK Foods & Beverages Pvt. Ltd.\",\n  \"date\": \"2015-04-17\",\n  \"subtotal\": 100.00,\n  \"tax\": 13.13,\n  \"tip\": 4.94,\n  \"discount\": null,\n  \"total\": 118.07,\n  \"currency\": \"Rs\",\n  \"confidence\": 0.95,\n  \"notes\": \"Image does not appear to be a receipt.\"\n}",
+ "data": {
+  "vendor": "Khyen Chyen ZNK Foods & Beverages Pvt. Ltd.",
+  "date": "2015-04-17",
+  "subtotal": 100.0,
+  "tax": 13.13,
+  "tip": 4.94,
+  "discount": null,
+  "total": 118.07,
+  "currency": "Rs",
+  "confidence": 0.95,
+  "notes": "Image does not appear to be a receipt."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1413,
+  "output_tokens": 121,
+  "model_total_duration_ms": 24186
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 26226,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "W0145_62afa3fa08bb"
+}

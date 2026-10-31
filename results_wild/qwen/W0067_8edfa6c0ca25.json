@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"FLYING J TRAVEL PLAZA\",\n  \"date\": \"2009-06-18\",\n  \"subtotal\": 37.01,\n  \"tax\": null,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 37.01,\n  \"currency\": \"USD\",\n  \"confidence\": 0.95,\n  \"notes\": \"Receipt from a gas station in Troutdale, OR.\"\n}",
+ "data": {
+  "vendor": "FLYING J TRAVEL PLAZA",
+  "date": "2009-06-18",
+  "subtotal": 37.01,
+  "tax": null,
+  "tip": null,
+  "discount": null,
+  "total": 37.01,
+  "currency": "USD",
+  "confidence": 0.95,
+  "notes": "Receipt from a gas station in Troutdale, OR."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1450,
+  "output_tokens": 108,
+  "model_total_duration_ms": 21602
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 23646,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "W0067_8edfa6c0ca25"
+}

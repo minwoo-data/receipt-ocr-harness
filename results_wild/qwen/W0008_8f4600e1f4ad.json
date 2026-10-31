@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"Häagen-Dazs\",\n  \"date\": \"2009-02-24\",\n  \"subtotal\": 131.20,\n  \"tax\": 16.40,\n  \"tip\": null,\n  \"discount\": -32.80,\n  \"total\": 147.60,\n  \"currency\": \"HK$\",\n  \"confidence\": 0.95,\n  \"notes\": \"Image does not appear to be a receipt.\"\n}",
+ "data": {
+  "vendor": "Häagen-Dazs",
+  "date": "2009-02-24",
+  "subtotal": 131.2,
+  "tax": 16.4,
+  "tip": null,
+  "discount": -32.8,
+  "total": 147.6,
+  "currency": "HK$",
+  "confidence": 0.95,
+  "notes": "Image does not appear to be a receipt."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1413,
+  "output_tokens": 115,
+  "model_total_duration_ms": 32347
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 34419,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "W0008_8f4600e1f4ad"
+}

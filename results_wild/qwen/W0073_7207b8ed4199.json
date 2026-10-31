@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"LO SPAZIO\",\n  \"date\": \"2017-06-19\",\n  \"subtotal\": 551,\n  \"tax\": null,\n  \"tip\": 55,\n  \"discount\": null,\n  \"total\": 606,\n  \"currency\": \"HKD\",\n  \"confidence\": 0.95,\n  \"notes\": \"2 SET DINNER 376.00 2 Daily Soup 0.00 1 Set Salmon Skewer 0.00 1 Set Mussels 0.00 1 Set Pork Chop 65.00 1 Set Bistecca 75.00 1 Set Dessert 0.00 1 Set Molten Cheesecake 35.00\"\n}",
+ "data": {
+  "vendor": "LO SPAZIO",
+  "date": "2017-06-19",
+  "subtotal": 551,
+  "tax": null,
+  "tip": 55,
+  "discount": null,
+  "total": 606,
+  "currency": "HKD",
+  "confidence": 0.95,
+  "notes": "2 SET DINNER 376.00 2 Daily Soup 0.00 1 Set Salmon Skewer 0.00 1 Set Mussels 0.00 1 Set Pork Chop 65.00 1 Set Bistecca 75.00 1 Set Dessert 0.00 1 Set Molten Cheesecake 35.00"
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1413,
+  "output_tokens": 180,
+  "model_total_duration_ms": 31626
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 33719,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "W0073_7207b8ed4199"
+}

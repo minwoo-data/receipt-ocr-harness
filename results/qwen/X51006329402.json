@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"Segi Cash & Carry Sdn. Bhd.\",\n  \"date\": \"06/04/17\",\n  \"subtotal\": 50.45,\n  \"tax\": 2.85,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 50.45,\n  \"currency\": \"RM\",\n  \"confidence\": 0.95,\n  \"notes\": \"Image does not appear to be a receipt.\"\n}",
+ "data": {
+  "vendor": "Segi Cash & Carry Sdn. Bhd.",
+  "date": "06/04/17",
+  "subtotal": 50.45,
+  "tax": 2.85,
+  "tip": null,
+  "discount": null,
+  "total": 50.45,
+  "currency": "RM",
+  "confidence": 0.95,
+  "notes": "Image does not appear to be a receipt."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1435,
+  "output_tokens": 108,
+  "model_total_duration_ms": 24292
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 26330,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "X51006329402"
+}

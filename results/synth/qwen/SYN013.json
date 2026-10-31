@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"MAPLE & OAK BOOKSTORE\",\n  \"date\": \"2026-10-27\",\n  \"subtotal\": 48.40,\n  \"tax\": 2.90,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 156.30,\n  \"currency\": \"MYR\",\n  \"confidence\": 0.95,\n  \"notes\": \"The receipt is from a bookstore and includes items such as mineral water, Panadol, wholemeal bread, and fresh milk.\"\n}",
+ "data": {
+  "vendor": "MAPLE & OAK BOOKSTORE",
+  "date": "2026-10-27",
+  "subtotal": 48.4,
+  "tax": 2.9,
+  "tip": null,
+  "discount": null,
+  "total": 156.3,
+  "currency": "MYR",
+  "confidence": 0.95,
+  "notes": "The receipt is from a bookstore and includes items such as mineral water, Panadol, wholemeal bread, and fresh milk."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1401,
+  "output_tokens": 126,
+  "model_total_duration_ms": 25409
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 27469,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "SYN013"
+}

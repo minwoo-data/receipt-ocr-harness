@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"CARREFOUR RESTAURANT\",\n  \"date\": \"20/03/2017\",\n  \"subtotal\": 13.00,\n  \"tax\": 0.76,\n  \"tip\": 0.00,\n  \"discount\": null,\n  \"total\": 13.80,\n  \"currency\": \"RM\",\n  \"confidence\": 1.0,\n  \"notes\": \"GOODS SOLD ARE NOT RETURNABLE, THANK YOU.\"\n}",
+ "data": {
+  "vendor": "CARREFOUR RESTAURANT",
+  "date": "20/03/2017",
+  "subtotal": 13.0,
+  "tax": 0.76,
+  "tip": 0.0,
+  "discount": null,
+  "total": 13.8,
+  "currency": "RM",
+  "confidence": 1.0,
+  "notes": "GOODS SOLD ARE NOT RETURNABLE, THANK YOU."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1430,
+  "output_tokens": 113,
+  "model_total_duration_ms": 17831
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 19897,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "X51005442383"
+}

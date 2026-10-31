@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"Gestions Daniel Picard Inc\",\n  \"date\": \"2014-06-22\",\n  \"subtotal\": 33.79,\n  \"tax\": 1.69,\n  \"tip\": null,\n  \"discount\": -18.2,\n  \"total\": 38.85,\n  \"currency\": \"CAD\",\n  \"confidence\": 0.95,\n  \"notes\": \"Image does not appear to be a receipt.\"\n}",
+ "data": {
+  "vendor": "Gestions Daniel Picard Inc",
+  "date": "2014-06-22",
+  "subtotal": 33.79,
+  "tax": 1.69,
+  "tip": null,
+  "discount": -18.2,
+  "total": 38.85,
+  "currency": "CAD",
+  "confidence": 0.95,
+  "notes": "Image does not appear to be a receipt."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1413,
+  "output_tokens": 111,
+  "model_total_duration_ms": 24396
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 26441,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "W0168_067301325dea"
+}

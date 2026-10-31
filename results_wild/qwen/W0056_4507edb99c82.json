@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"El Borracho\",\n  \"date\": \"2018-03-02\",\n  \"subtotal\": 151.95,\n  \"tax\": 22.82,\n  \"tip\": 0,\n  \"discount\": -15.00,\n  \"total\": 136.95,\n  \"currency\": \"GBP\",\n  \"confidence\": 0.95,\n  \"notes\": \"All tips go to the staff who work here.\"\n}",
+ "data": {
+  "vendor": "El Borracho",
+  "date": "2018-03-02",
+  "subtotal": 151.95,
+  "tax": 22.82,
+  "tip": 0,
+  "discount": -15.0,
+  "total": 136.95,
+  "currency": "GBP",
+  "confidence": 0.95,
+  "notes": "All tips go to the staff who work here."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1452,
+  "output_tokens": 114,
+  "model_total_duration_ms": 23913
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 25965,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "W0056_4507edb99c82"
+}

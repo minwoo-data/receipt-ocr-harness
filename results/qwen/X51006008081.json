@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"PRINT EXPERT SDN BHD\",\n  \"date\": \"19/03/2018\",\n  \"subtotal\": 213.78,\n  \"tax\": 12.83,\n  \"tip\": 0.01,\n  \"discount\": 0.00,\n  \"total\": 226.60,\n  \"currency\": \"MYR\",\n  \"confidence\": 0.95,\n  \"notes\": \"Image does not appear to be a receipt.\"\n}",
+ "data": {
+  "vendor": "PRINT EXPERT SDN BHD",
+  "date": "19/03/2018",
+  "subtotal": 213.78,
+  "tax": 12.83,
+  "tip": 0.01,
+  "discount": 0.0,
+  "total": 226.6,
+  "currency": "MYR",
+  "confidence": 0.95,
+  "notes": "Image does not appear to be a receipt."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1427,
+  "output_tokens": 119,
+  "model_total_duration_ms": 28988
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 31073,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "X51006008081"
+}

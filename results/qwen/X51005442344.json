@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"YONG TAT HARDWARE TRADING\",\n  \"date\": \"2018-03-13\",\n  \"subtotal\": 95.17,\n  \"tax\": 5.71,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 100.88,\n  \"currency\": \"RM\",\n  \"confidence\": 1.0,\n  \"notes\": \"GOODS SOLD ARE NOT RETURNABLE, THANK YOU\"\n}",
+ "data": {
+  "vendor": "YONG TAT HARDWARE TRADING",
+  "date": "2018-03-13",
+  "subtotal": 95.17,
+  "tax": 5.71,
+  "tip": null,
+  "discount": null,
+  "total": 100.88,
+  "currency": "RM",
+  "confidence": 1.0,
+  "notes": "GOODS SOLD ARE NOT RETURNABLE, THANK YOU"
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1430,
+  "output_tokens": 110,
+  "model_total_duration_ms": 23147
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 25220,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "X51005442344"
+}

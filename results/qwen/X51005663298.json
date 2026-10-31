@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"AL MENDIS-THE MINES ZAVIAJAYA FOOD N BEVERAGE SDN BHD\",\n  \"date\": \"21-03-2018\",\n  \"subtotal\": 41.3,\n  \"tax\": 2.73,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 48.15,\n  \"currency\": \"SR\",\n  \"confidence\": 0.95,\n  \"notes\": \"Image does not appear to be a receipt.\"\n}",
+ "data": {
+  "vendor": "AL MENDIS-THE MINES ZAVIAJAYA FOOD N BEVERAGE SDN BHD",
+  "date": "21-03-2018",
+  "subtotal": 41.3,
+  "tax": 2.73,
+  "tip": null,
+  "discount": null,
+  "total": 48.15,
+  "currency": "SR",
+  "confidence": 0.95,
+  "notes": "Image does not appear to be a receipt."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1422,
+  "output_tokens": 124,
+  "model_total_duration_ms": 26714
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 28782,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "X51005663298"
+}

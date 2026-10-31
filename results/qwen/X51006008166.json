@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"FLORISM DE ART\",\n  \"date\": \"2018-01-14\",\n  \"subtotal\": 707.55,\n  \"tax\": 42.45,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 750.00,\n  \"currency\": \"RM\",\n  \"confidence\": 0.95,\n  \"notes\": \"Image does not appear to be a receipt.\"\n}",
+ "data": {
+  "vendor": "FLORISM DE ART",
+  "date": "2018-01-14",
+  "subtotal": 707.55,
+  "tax": 42.45,
+  "tip": null,
+  "discount": null,
+  "total": 750.0,
+  "currency": "RM",
+  "confidence": 0.95,
+  "notes": "Image does not appear to be a receipt."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1433,
+  "output_tokens": 108,
+  "model_total_duration_ms": 18755
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 20790,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "X51006008166"
+}

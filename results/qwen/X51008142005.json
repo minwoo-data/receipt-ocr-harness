@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"ONE ONE THREE SEAFOOD RESTAURANT SDN BHD\",\n  \"date\": \"28-04-2018\",\n  \"subtotal\": 62.00,\n  \"tax\": 3.72,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 65.72,\n  \"currency\": \"SR\",\n  \"confidence\": 1.0,\n  \"notes\": \"Closed: 1 28-04-2018 21:08:20 Server: 113 CASHIER CASH : 65.70\"\n}",
+ "data": {
+  "vendor": "ONE ONE THREE SEAFOOD RESTAURANT SDN BHD",
+  "date": "28-04-2018",
+  "subtotal": 62.0,
+  "tax": 3.72,
+  "tip": null,
+  "discount": null,
+  "total": 65.72,
+  "currency": "SR",
+  "confidence": 1.0,
+  "notes": "Closed: 1 28-04-2018 21:08:20 Server: 113 CASHIER CASH : 65.70"
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1455,
+  "output_tokens": 150,
+  "model_total_duration_ms": 29579
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 31630,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "X51008142005"
+}

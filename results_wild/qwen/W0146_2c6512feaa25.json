@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"FRESH FAST FANTASTIC\",\n  \"date\": \"2015-06-28\",\n  \"subtotal\": 124.00,\n  \"tax\": null,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 124.00,\n  \"currency\": \"IDR\",\n  \"confidence\": 0.95,\n  \"notes\": \"Receipt for home delivery of various food items.\"\n}",
+ "data": {
+  "vendor": "FRESH FAST FANTASTIC",
+  "date": "2015-06-28",
+  "subtotal": 124.0,
+  "tax": null,
+  "tip": null,
+  "discount": null,
+  "total": 124.0,
+  "currency": "IDR",
+  "confidence": 0.95,
+  "notes": "Receipt for home delivery of various food items."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1413,
+  "output_tokens": 106,
+  "model_total_duration_ms": 21373
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 23425,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "W0146_2c6512feaa25"
+}

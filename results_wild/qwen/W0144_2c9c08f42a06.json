@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"BADEMIYA Restaurant\",\n  \"date\": \"27/01/17\",\n  \"subtotal\": 610,\n  \"tax\": 64.8,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 875,\n  \"currency\": \"INR\",\n  \"confidence\": 0.95,\n  \"notes\": \"Receipt from a restaurant in Mumbai, India.\"\n}",
+ "data": {
+  "vendor": "BADEMIYA Restaurant",
+  "date": "27/01/17",
+  "subtotal": 610,
+  "tax": 64.8,
+  "tip": null,
+  "discount": null,
+  "total": 875,
+  "currency": "INR",
+  "confidence": 0.95,
+  "notes": "Receipt from a restaurant in Mumbai, India."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1409,
+  "output_tokens": 100,
+  "model_total_duration_ms": 21591
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 23662,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "W0144_2c9c08f42a06"
+}

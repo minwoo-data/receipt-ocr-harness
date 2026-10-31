@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"DOMINO'S PIZZA TAMAN UNIVERSITI\",\n  \"date\": \"28/04/18\",\n  \"subtotal\": 57.0,\n  \"tax\": 2.24,\n  \"tip\": 0,\n  \"discount\": -17.4,\n  \"total\": 39.6,\n  \"currency\": \"RM\",\n  \"confidence\": 0.95,\n  \"notes\": \"SUPPORT OUR SMILE CAMPAIGN :)\"\n}",
+ "data": {
+  "vendor": "DOMINO'S PIZZA TAMAN UNIVERSITI",
+  "date": "28/04/18",
+  "subtotal": 57.0,
+  "tax": 2.24,
+  "tip": 0,
+  "discount": -17.4,
+  "total": 39.6,
+  "currency": "RM",
+  "confidence": 0.95,
+  "notes": "SUPPORT OUR SMILE CAMPAIGN :)"
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1430,
+  "output_tokens": 113,
+  "model_total_duration_ms": 34395
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 36418,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "X51006414712"
+}

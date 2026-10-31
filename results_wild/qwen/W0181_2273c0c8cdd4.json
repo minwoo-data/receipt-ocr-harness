@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"ONION PUB & BREWERY\",\n  \"date\": \"WED JULY 20, 2011\",\n  \"subtotal\": 21.4,\n  \"tax\": 2.0,\n  \"tip\": 8.1,\n  \"discount\": -25,\n  \"total\": 29.5,\n  \"currency\": \"USD\",\n  \"confidence\": 0.95,\n  \"notes\": \"2 CUSTOMERS\"\n}",
+ "data": {
+  "vendor": "ONION PUB & BREWERY",
+  "date": "WED JULY 20, 2011",
+  "subtotal": 21.4,
+  "tax": 2.0,
+  "tip": 8.1,
+  "discount": -25,
+  "total": 29.5,
+  "currency": "USD",
+  "confidence": 0.95,
+  "notes": "2 CUSTOMERS"
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1441,
+  "output_tokens": 107,
+  "model_total_duration_ms": 32725
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 34774,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "W0181_2273c0c8cdd4"
+}

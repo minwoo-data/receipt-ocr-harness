@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"HMSHOST CALIFORNIA PIZZA KITCHEN OAKLAND INTL AIRPORT\",\n  \"date\": \"2014-12-23\",\n  \"subtotal\": 14.48,\n  \"tax\": 1.33,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 16.10,\n  \"currency\": \"USD\",\n  \"confidence\": 0.95,\n  \"notes\": \"The receipt is from a pizza restaurant in Oakland International Airport.\"\n}",
+ "data": {
+  "vendor": "HMSHOST CALIFORNIA PIZZA KITCHEN OAKLAND INTL AIRPORT",
+  "date": "2014-12-23",
+  "subtotal": 14.48,
+  "tax": 1.33,
+  "tip": null,
+  "discount": null,
+  "total": 16.1,
+  "currency": "USD",
+  "confidence": 0.95,
+  "notes": "The receipt is from a pizza restaurant in Oakland International Airport."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1452,
+  "output_tokens": 123,
+  "model_total_duration_ms": 23464
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 25521,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "W0121_497b77e644d9"
+}

@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"COTTON:ON\",\n  \"date\": \"2017-08-26\",\n  \"subtotal\": 10.0,\n  \"tax\": 0.7,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 10.7,\n  \"currency\": \"USD\",\n  \"confidence\": 0.95,\n  \"notes\": \"The receipt is partially obscured and some details are not fully visible.\"\n}",
+ "data": {
+  "vendor": "COTTON:ON",
+  "date": "2017-08-26",
+  "subtotal": 10.0,
+  "tax": 0.7,
+  "tip": null,
+  "discount": null,
+  "total": 10.7,
+  "currency": "USD",
+  "confidence": 0.95,
+  "notes": "The receipt is partially obscured and some details are not fully visible."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1413,
+  "output_tokens": 106,
+  "model_total_duration_ms": 22490
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 24559,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "W0098_c6e5ea8e90fc"
+}

@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"HOME'S HARMONY @ 1 UTAMA SHOPPING CENTRE\",\n  \"date\": \"12/06/2016\",\n  \"subtotal\": 23.20,\n  \"tax\": 1.31,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 24.51,\n  \"currency\": \"MYR\",\n  \"confidence\": 0.95,\n  \"notes\": \"Goods sold are not refundable.\"\n}",
+ "data": {
+  "vendor": "HOME'S HARMONY @ 1 UTAMA SHOPPING CENTRE",
+  "date": "12/06/2016",
+  "subtotal": 23.2,
+  "tax": 1.31,
+  "tip": null,
+  "discount": null,
+  "total": 24.51,
+  "currency": "MYR",
+  "confidence": 0.95,
+  "notes": "Goods sold are not refundable."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1455,
+  "output_tokens": 114,
+  "model_total_duration_ms": 22461
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 24515,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "X51006619869"
+}

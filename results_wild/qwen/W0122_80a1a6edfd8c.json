@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"Tent Jumeirah Restaurant\",\n  \"date\": \"2017-09-19\",\n  \"subtotal\": 105,\n  \"tax\": null,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 105,\n  \"currency\": \"AED\",\n  \"confidence\": 0.95,\n  \"notes\": \"Receipt from Jumeirah 5 restaurant in Umm Suqeim, showing a total of AED 105.00 for two items: 1 dallah moroccan tea and 1 2kunafa.\"\n}",
+ "data": {
+  "vendor": "Tent Jumeirah Restaurant",
+  "date": "2017-09-19",
+  "subtotal": 105,
+  "tax": null,
+  "tip": null,
+  "discount": null,
+  "total": 105,
+  "currency": "AED",
+  "confidence": 0.95,
+  "notes": "Receipt from Jumeirah 5 restaurant in Umm Suqeim, showing a total of AED 105.00 for two items: 1 dallah moroccan tea and 1 2kunafa."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1413,
+  "output_tokens": 140,
+  "model_total_duration_ms": 31473
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 33524,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "W0122_80a1a6edfd8c"
+}

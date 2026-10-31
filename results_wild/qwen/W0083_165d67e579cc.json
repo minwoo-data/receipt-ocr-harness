@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"TARGET\",\n  \"date\": \"2010-06-17\",\n  \"subtotal\": 374.68,\n  \"tax\": 22.65,\n  \"tip\": null,\n  \"discount\": -22.65,\n  \"total\": 399.99,\n  \"currency\": \"USD\",\n  \"confidence\": 0.95,\n  \"notes\": \"VISA CHARGE $399.99\"\n}",
+ "data": {
+  "vendor": "TARGET",
+  "date": "2010-06-17",
+  "subtotal": 374.68,
+  "tax": 22.65,
+  "tip": null,
+  "discount": -22.65,
+  "total": 399.99,
+  "currency": "USD",
+  "confidence": 0.95,
+  "notes": "VISA CHARGE $399.99"
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1433,
+  "output_tokens": 112,
+  "model_total_duration_ms": 29424
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 31477,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "W0083_165d67e579cc"
+}

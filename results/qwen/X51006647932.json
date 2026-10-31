@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"UROKO JAPANESE CUISINE SDN BHD\",\n  \"date\": \"2018-05-14\",\n  \"subtotal\": 74.68,\n  \"tax\": 4.93,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 87.10,\n  \"currency\": \"SR\",\n  \"confidence\": 0.95,\n  \"notes\": \"The receipt is from a Japanese restaurant in Malaysia.\"\n}",
+ "data": {
+  "vendor": "UROKO JAPANESE CUISINE SDN BHD",
+  "date": "2018-05-14",
+  "subtotal": 74.68,
+  "tax": 4.93,
+  "tip": null,
+  "discount": null,
+  "total": 87.1,
+  "currency": "SR",
+  "confidence": 0.95,
+  "notes": "The receipt is from a Japanese restaurant in Malaysia."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1452,
+  "output_tokens": 115,
+  "model_total_duration_ms": 37042
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 39072,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "X51006647932"
+}

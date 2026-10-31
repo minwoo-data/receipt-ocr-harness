@@ -1,0 +1,43 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"BERRY'S CAKE HOUSE\",\n  \"date\": \"2018-04-18\",\n  \"subtotal\": 11.25,\n  \"tax\": 0.00,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 11.25,\n  \"currency\": \"RINGGIT M'SIA\",\n  \"confidence\": 0.95,\n  \"notes\": \"All Berry's products are available at Berry's Outlet Only.\"\n}",
+ "data": {
+  "vendor": "BERRY'S CAKE HOUSE",
+  "date": "2018-04-18",
+  "subtotal": 11.25,
+  "tax": 0.0,
+  "tip": null,
+  "discount": null,
+  "total": 11.25,
+  "currency": "RINGGIT ",
+  "confidence": 0.95,
+  "notes": "All Berry's products are available at Berry's Outlet Only."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": [
+   "Truncated 'currency'"
+  ]
+ },
+ "usage": {
+  "input_tokens": 1448,
+  "output_tokens": 113,
+  "model_total_duration_ms": 42476
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 44614,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "X51006466056"
+}

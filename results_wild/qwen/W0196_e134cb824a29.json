@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"APPLEBEE'S NEIGHBORHOOD GRILL & BAR\",\n  \"date\": \"2016-01-30\",\n  \"subtotal\": 33.49,\n  \"tax\": 2.68,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 36.17,\n  \"currency\": \"USD\",\n  \"confidence\": 0.95,\n  \"notes\": \"Short on time? Order Online! order.applebees.com\"\n}",
+ "data": {
+  "vendor": "APPLEBEE'S NEIGHBORHOOD GRILL & BAR",
+  "date": "2016-01-30",
+  "subtotal": 33.49,
+  "tax": 2.68,
+  "tip": null,
+  "discount": null,
+  "total": 36.17,
+  "currency": "USD",
+  "confidence": 0.95,
+  "notes": "Short on time? Order Online! order.applebees.com"
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1409,
+  "output_tokens": 117,
+  "model_total_duration_ms": 24277
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 26317,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "W0196_e134cb824a29"
+}

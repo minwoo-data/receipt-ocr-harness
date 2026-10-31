@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"MYDIN\",\n  \"date\": \"2017-08-10\",\n  \"subtotal\": 21.40,\n  \"tax\": 1.21,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 21.40,\n  \"currency\": \"RM\",\n  \"confidence\": 1.0,\n  \"notes\": \"Print Date: 10/08/2017 03:26:22PM\"\n}",
+ "data": {
+  "vendor": "MYDIN",
+  "date": "2017-08-10",
+  "subtotal": 21.4,
+  "tax": 1.21,
+  "tip": null,
+  "discount": null,
+  "total": 21.4,
+  "currency": "RM",
+  "confidence": 1.0,
+  "notes": "Print Date: 10/08/2017 03:26:22PM"
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1421,
+  "output_tokens": 120,
+  "model_total_duration_ms": 24402
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 26436,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "X51005705760"
+}

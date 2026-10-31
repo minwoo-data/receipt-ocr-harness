@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"SHELL RINCON\",\n  \"date\": \"03/22/18\",\n  \"subtotal\": 22.00,\n  \"tax\": 0.00,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 22.00,\n  \"currency\": \"USD\",\n  \"confidence\": 0.95,\n  \"notes\": \"Image does not appear to be a receipt.\"\n}",
+ "data": {
+  "vendor": "SHELL RINCON",
+  "date": "03/22/18",
+  "subtotal": 22.0,
+  "tax": 0.0,
+  "tip": null,
+  "discount": null,
+  "total": 22.0,
+  "currency": "USD",
+  "confidence": 0.95,
+  "notes": "Image does not appear to be a receipt."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1401,
+  "output_tokens": 103,
+  "model_total_duration_ms": 17018
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 19085,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "W0183_d1019d13377e"
+}

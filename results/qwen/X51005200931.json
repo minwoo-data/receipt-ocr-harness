@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"GOGIANT ENGINEERING (M) SDN BHD\",\n  \"date\": \"09/02/2018\",\n  \"subtotal\": 411.50,\n  \"tax\": 24.69,\n  \"tip\": null,\n  \"discount\": 0,\n  \"total\": 436.20,\n  \"currency\": \"RM\",\n  \"confidence\": 0.95,\n  \"notes\": \"GOODS SOLD ARE NOT RETURNABLE. THANK YOU.\"\n}",
+ "data": {
+  "vendor": "GOGIANT ENGINEERING (M) SDN BHD",
+  "date": "09/02/2018",
+  "subtotal": 411.5,
+  "tax": 24.69,
+  "tip": null,
+  "discount": 0,
+  "total": 436.2,
+  "currency": "RM",
+  "confidence": 0.95,
+  "notes": "GOODS SOLD ARE NOT RETURNABLE. THANK YOU."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1430,
+  "output_tokens": 119,
+  "model_total_duration_ms": 24609
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 26652,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "X51005200931"
+}

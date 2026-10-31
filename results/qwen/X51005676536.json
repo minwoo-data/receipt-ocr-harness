@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"SYARIKAT PERNIAGAAN GIN KEE\",\n  \"date\": \"02/01/2018\",\n  \"subtotal\": 87.80,\n  \"tax\": 5.27,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 93.07,\n  \"currency\": \"RM\",\n  \"confidence\": 0.95,\n  \"notes\": \"Goods sold are not returnable. Thank you.\"\n}",
+ "data": {
+  "vendor": "SYARIKAT PERNIAGAAN GIN KEE",
+  "date": "02/01/2018",
+  "subtotal": 87.8,
+  "tax": 5.27,
+  "tip": null,
+  "discount": null,
+  "total": 93.07,
+  "currency": "RM",
+  "confidence": 0.95,
+  "notes": "Goods sold are not returnable. Thank you."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1433,
+  "output_tokens": 115,
+  "model_total_duration_ms": 27394
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 29453,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "X51005676536"
+}

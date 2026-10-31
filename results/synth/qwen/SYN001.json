@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"BLUE HARBOUR CAFE\",\n  \"date\": \"02/11/2028\",\n  \"subtotal\": 96.40,\n  \"tax\": 5.78,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 102.18,\n  \"currency\": \"MYR\",\n  \"confidence\": 0.95,\n  \"notes\": \"Receipt from Blue Harbour Cafe in Malaysia.\"\n}",
+ "data": {
+  "vendor": "BLUE HARBOUR CAFE",
+  "date": "02/11/2028",
+  "subtotal": 96.4,
+  "tax": 5.78,
+  "tip": null,
+  "discount": null,
+  "total": 102.18,
+  "currency": "MYR",
+  "confidence": 0.95,
+  "notes": "Receipt from Blue Harbour Cafe in Malaysia."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1427,
+  "output_tokens": 108,
+  "model_total_duration_ms": 30091
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 32174,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "SYN001"
+}

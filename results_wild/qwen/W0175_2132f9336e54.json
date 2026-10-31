@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"cornerstone cafe\",\n  \"date\": \"2017-08-16\",\n  \"subtotal\": 16.00,\n  \"tax\": 1.42,\n  \"tip\": 0.00,\n  \"discount\": null,\n  \"total\": 17.42,\n  \"currency\": \"USD\",\n  \"confidence\": 0.95,\n  \"notes\": \"The customer's name appears twice on the receipt.\"\n}",
+ "data": {
+  "vendor": "cornerstone cafe",
+  "date": "2017-08-16",
+  "subtotal": 16.0,
+  "tax": 1.42,
+  "tip": 0.0,
+  "discount": null,
+  "total": 17.42,
+  "currency": "USD",
+  "confidence": 0.95,
+  "notes": "The customer's name appears twice on the receipt."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1441,
+  "output_tokens": 108,
+  "model_total_duration_ms": 32996
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 35073,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "W0175_2132f9336e54"
+}

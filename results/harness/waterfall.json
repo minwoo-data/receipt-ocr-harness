@@ -1,21 +1,21 @@
 [
  {
   "tier": "t2",
-  "n": 127,
-  "model_errors": 25,
-  "flagged": 37,
-  "errors_caught": 18,
-  "errors_leaked": 7,
-  "false_flags": 19,
-  "verifier_recall": 0.72,
-  "verifier_precision": 0.4865,
+  "n": 300,
+  "model_errors": 51,
+  "flagged": 87,
+  "errors_caught": 38,
+  "errors_leaked": 13,
+  "false_flags": 49,
+  "verifier_recall": 0.7451,
+  "verifier_precision": 0.4368,
   "flag_counts": {
-   "G_ARITH": 24,
-   "G_AGREE_TOTAL": 11,
-   "G_AGREE_DATE": 5,
+   "G_ARITH": 57,
+   "G_AGREE_TOTAL": 24,
+   "G_AGREE_DATE": 12,
+   "G_DATE": 4,
    "G_RANGE": 1,
-   "G_MISSING": 1,
-   "G_DATE": 1
+   "G_MISSING": 1
   }
  },
  {

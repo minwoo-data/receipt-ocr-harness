@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"FUDDRUCKERS World's Greatest Hamburgers\",\n  \"date\": \"07/27/11\",\n  \"subtotal\": 8.49,\n  \"tax\": 0.70,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 9.19,\n  \"currency\": \"USD\",\n  \"confidence\": 0.95,\n  \"notes\": \"NACHOS, loaded chx nachos, add 1/3 patty\"\n}",
+ "data": {
+  "vendor": "FUDDRUCKERS World's Greatest Hamburgers",
+  "date": "07/27/11",
+  "subtotal": 8.49,
+  "tax": 0.7,
+  "tip": null,
+  "discount": null,
+  "total": 9.19,
+  "currency": "USD",
+  "confidence": 0.95,
+  "notes": "NACHOS, loaded chx nachos, add 1/3 patty"
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1413,
+  "output_tokens": 115,
+  "model_total_duration_ms": 22032
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 24092,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "W0032_4308"
+}

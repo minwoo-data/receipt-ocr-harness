@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"SIN THYE & COMPANY\",\n  \"date\": \"28/02/2016\",\n  \"subtotal\": 103.77,\n  \"tax\": 0.00,\n  \"tip\": 0.00,\n  \"discount\": 0.00,\n  \"total\": 110.00,\n  \"currency\": \"RM\",\n  \"confidence\": 0.95,\n  \"notes\": \"Goods sold are not returnable, thank you.\"\n}",
+ "data": {
+  "vendor": "SIN THYE & COMPANY",
+  "date": "28/02/2016",
+  "subtotal": 103.77,
+  "tax": 0.0,
+  "tip": 0.0,
+  "discount": 0.0,
+  "total": 110.0,
+  "currency": "RM",
+  "confidence": 0.95,
+  "notes": "Goods sold are not returnable, thank you."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1437,
+  "output_tokens": 118,
+  "model_total_duration_ms": 24231
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 26303,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "X51006620161"
+}

@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"GREEN LANE PHARMACY SDN BHD\",\n  \"date\": \"2018-08-01\",\n  \"subtotal\": 34.80,\n  \"tax\": 0.51,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 34.80,\n  \"currency\": \"RM\",\n  \"confidence\": 1.0,\n  \"notes\": \"FARMASI ALPHA.COM GOODS SOLD ARE NOT RETURNABLE WHATSAPP NO: 0103768122\"\n}",
+ "data": {
+  "vendor": "GREEN LANE PHARMACY SDN BHD",
+  "date": "2018-08-01",
+  "subtotal": 34.8,
+  "tax": 0.51,
+  "tip": null,
+  "discount": null,
+  "total": 34.8,
+  "currency": "RM",
+  "confidence": 1.0,
+  "notes": "FARMASI ALPHA.COM GOODS SOLD ARE NOT RETURNABLE WHATSAPP NO: 0103768122"
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1441,
+  "output_tokens": 128,
+  "model_total_duration_ms": 25366
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 27409,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "X51005719895"
+}

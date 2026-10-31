@@ -167,7 +167,7 @@
         <table id="tiers">
           <tr><th>Reader</th><th class="num">date + total</th><th class="num">median latency</th><th class="num">USD / 1k</th></tr>
           <tr><td><span class="swatch" style="background:var(--t1)"></span>Local OCR + rules</td><td class="num">72.6%</td><td class="num">4.7 s</td><td class="num">0</td></tr>
-          <tr><td><span class="swatch" style="background:var(--t2)"></span>Local VLM 3B</td><td class="num">80.2%</td><td class="num">33.3 s</td><td class="num">0</td></tr>
+          <tr><td><span class="swatch" style="background:var(--t2)"></span>Local VLM 3B</td><td class="num">82.9%</td><td class="num">28.3 s</td><td class="num">0</td></tr>
           <tr><td><span class="swatch" style="background:var(--t3)"></span>Cloud, cheap</td><td class="num">97.3%</td><td class="num">1.8 s</td><td class="num">0.54</td></tr>
           <tr><td><span class="swatch" style="background:var(--t4)"></span>Cloud, strong</td><td class="num">98.0%</td><td class="num">1.9 s</td><td class="num">1.42</td></tr>
         </table>
@@ -189,9 +189,9 @@
       <section class="find">
         <h2><span class="n">6</span>Findings</h2>
         <ul>
-          <li><b>Cheap readers get far, not far enough.</b> On 300 scans, local OCR + rules reads date and total right 73% of the time at $0, a local 3B vision model 80%, Flash-Lite 97% at $0.54 per 1,000, 3.6 Flash 98% at $1.42. On 200 phone photos: local 55%, cloud 87%.</li>
-          <li><b>Routing is cheap; the escalation signal is the bottleneck.</b> An oracle sends 27% of receipts to the cloud for 98.7% at $0.15 per 1,000. The real router (two readers agree, confidence &ge; 0.9) sends 56% for 95.7%; adding the code checks lifts accepted answers to 96.9% at a 4% review load.</li>
-          <li><b>Code catches what the model cannot see about itself.</b> With no answer key, the checks caught 5 of Flash-Lite's 8 wrong answers and 18 of the local model's 25. On 43 adversarial receipts the models ignored all 16 injections, every date and arithmetic trap tripped a gate, and nothing leaked. One targeted re-read fixed 0 to 1 of 20 flagged receipts and broke 1: retries do not replace review.</li>
+          <li><b>Cheap readers get far, not far enough.</b> On 300 scans, local OCR + rules reads date and total right 73% of the time at $0, a local 3B vision model 83% (28 s on a 4 GB laptop GPU), Flash-Lite 97% at $0.54 per 1,000, 3.6 Flash 98% at $1.42. On 200 phone photos: local OCR 55%, local VLM 81%, cloud 87%.</li>
+          <li><b>Routing is cheap; the escalation signal is the bottleneck.</b> An oracle sends 27% of receipts to the cloud for 98.7% at $0.15 per 1,000. The real router (two readers agree, confidence &ge; 0.9) sends 56% for 95.7%; adding the code checks lifts accepted answers to 96.9% at a 4% review load. The strong cloud tier adds 0.7 points for 2.6x the price: escalate to people, not to a bigger model.</li>
+          <li><b>Code catches what the model cannot see about itself.</b> With no answer key, the checks caught 5 of Flash-Lite's 8 wrong answers and 38 of the local model's 51. On 43 adversarial receipts all three models ignored all 16 injections, every date and arithmetic trap tripped a gate, and nothing leaked. One targeted re-read fixed 0 to 1 of 20 flagged receipts and broke 1: retries do not replace review.</li>
         </ul>
       </section>
 

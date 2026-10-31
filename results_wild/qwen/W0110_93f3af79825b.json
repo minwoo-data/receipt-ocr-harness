@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"Bistecca Restaurant Pte Ltd\",\n  \"date\": \"2012-10-21\",\n  \"subtotal\": 437,\n  \"tax\": 33.65,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 514.35,\n  \"currency\": \"USD\",\n  \"confidence\": 0.95,\n  \"notes\": \"Receipt from Bistecca Restaurant Pte Ltd on 2012-10-21.\"\n}",
+ "data": {
+  "vendor": "Bistecca Restaurant Pte Ltd",
+  "date": "2012-10-21",
+  "subtotal": 437,
+  "tax": 33.65,
+  "tip": null,
+  "discount": null,
+  "total": 514.35,
+  "currency": "USD",
+  "confidence": 0.95,
+  "notes": "Receipt from Bistecca Restaurant Pte Ltd on 2012-10-21."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1413,
+  "output_tokens": 122,
+  "model_total_duration_ms": 24529
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 26612,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "W0110_93f3af79825b"
+}

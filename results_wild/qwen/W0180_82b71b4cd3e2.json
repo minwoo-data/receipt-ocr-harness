@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"TIP TOP MEATS\",\n  \"date\": \"06/29/2014\",\n  \"subtotal\": null,\n  \"tax\": null,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 76.59,\n  \"currency\": \"USD\",\n  \"confidence\": 0.95,\n  \"notes\": \"The date is printed in the format DD/MM/YYYY.\"\n}",
+ "data": {
+  "vendor": "TIP TOP MEATS",
+  "date": "06/29/2014",
+  "subtotal": null,
+  "tax": null,
+  "tip": null,
+  "discount": null,
+  "total": 76.59,
+  "currency": "USD",
+  "confidence": 0.95,
+  "notes": "The date is printed in the format DD/MM/YYYY."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1433,
+  "output_tokens": 100,
+  "model_total_duration_ms": 22484
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 24524,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "W0180_82b71b4cd3e2"
+}

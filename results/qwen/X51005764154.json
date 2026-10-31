@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"PANA JAYA ENTERPRISE\",\n  \"date\": \"25-01-2018\",\n  \"subtotal\": 193.87,\n  \"tax\": 11.63,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 205.5,\n  \"currency\": \"RM\",\n  \"confidence\": 0.95,\n  \"notes\": \"Goods Sold Are Not Refundable\"\n}",
+ "data": {
+  "vendor": "PANA JAYA ENTERPRISE",
+  "date": "25-01-2018",
+  "subtotal": 193.87,
+  "tax": 11.63,
+  "tip": null,
+  "discount": null,
+  "total": 205.5,
+  "currency": "RM",
+  "confidence": 0.95,
+  "notes": "Goods Sold Are Not Refundable"
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1427,
+  "output_tokens": 110,
+  "model_total_duration_ms": 20439
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 22491,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "X51005764154"
+}

@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"BALENCIAGA\",\n  \"date\": \"2017-09-16\",\n  \"subtotal\": 412.50,\n  \"tax\": 82.50,\n  \"tip\": 495.00,\n  \"discount\": null,\n  \"total\": 495.00,\n  \"currency\": \"EUR\",\n  \"confidence\": 0.95,\n  \"notes\": \"Les Echanges ou Avoir sont possibles dans les 30 jours sur présentation du justificatif d'achat original et de l'article dans son état d'origine.\"\n}",
+ "data": {
+  "vendor": "BALENCIAGA",
+  "date": "2017-09-16",
+  "subtotal": 412.5,
+  "tax": 82.5,
+  "tip": 495.0,
+  "discount": null,
+  "total": 495.0,
+  "currency": "EUR",
+  "confidence": 0.95,
+  "notes": "Les Echanges ou Avoir sont possibles dans les 30 jours sur présentation du justificatif d'achat original et de l'article dans son état d'origine."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1413,
+  "output_tokens": 146,
+  "model_total_duration_ms": 30789
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 32851,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "W0105_3925c8adb2cf"
+}

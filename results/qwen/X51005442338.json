@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"PASAR MINI JIN SENG\",\n  \"date\": \"18/03/18\",\n  \"subtotal\": 28.6,\n  \"tax\": 0.07,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 28.6,\n  \"currency\": \"RM\",\n  \"confidence\": 1.0,\n  \"notes\": \"GOODS SOLD ARE NOT REFUNDABLE\"\n}",
+ "data": {
+  "vendor": "PASAR MINI JIN SENG",
+  "date": "18/03/18",
+  "subtotal": 28.6,
+  "tax": 0.07,
+  "tip": null,
+  "discount": null,
+  "total": 28.6,
+  "currency": "RM",
+  "confidence": 1.0,
+  "notes": "GOODS SOLD ARE NOT REFUNDABLE"
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1430,
+  "output_tokens": 104,
+  "model_total_duration_ms": 28214
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 30265,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "X51005442338"
+}

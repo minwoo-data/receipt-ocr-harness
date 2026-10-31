@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"Saizeriya\",\n  \"date\": \"2014-11-21\",\n  \"subtotal\": 13.8,\n  \"tax\": 0.9,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 13.8,\n  \"currency\": \"SGD\",\n  \"confidence\": 0.95,\n  \"notes\": \"Image does not appear to be a receipt.\"\n}",
+ "data": {
+  "vendor": "Saizeriya",
+  "date": "2014-11-21",
+  "subtotal": 13.8,
+  "tax": 0.9,
+  "tip": null,
+  "discount": null,
+  "total": 13.8,
+  "currency": "SGD",
+  "confidence": 0.95,
+  "notes": "Image does not appear to be a receipt."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1462,
+  "output_tokens": 101,
+  "model_total_duration_ms": 22830
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 24875,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "W0119_619818644ad5"
+}

@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"Eco-Shop Marketing Sdn Bhd\",\n  \"date\": \"26/02/2018\",\n  \"subtotal\": 16.31,\n  \"tax\": 0.91,\n  \"tip\": 0.7,\n  \"discount\": null,\n  \"total\": 16.3,\n  \"currency\": \"RM\",\n  \"confidence\": 0.95,\n  \"notes\": \"Purchase of kitchen utensils and tools.\"\n}",
+ "data": {
+  "vendor": "Eco-Shop Marketing Sdn Bhd",
+  "date": "26/02/2018",
+  "subtotal": 16.31,
+  "tax": 0.91,
+  "tip": 0.7,
+  "discount": null,
+  "total": 16.3,
+  "currency": "RM",
+  "confidence": 0.95,
+  "notes": "Purchase of kitchen utensils and tools."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1457,
+  "output_tokens": 110,
+  "model_total_duration_ms": 15723
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 17783,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "X51006882603"
+}

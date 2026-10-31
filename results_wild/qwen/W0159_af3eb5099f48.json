@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"Hog Island Oyster Co.\",\n  \"date\": \"2015-01-24\",\n  \"subtotal\": 117.00,\n  \"tax\": 10.55,\n  \"tip\": 3.53,\n  \"discount\": null,\n  \"total\": 131.08,\n  \"currency\": \"USD\",\n  \"confidence\": 0.95,\n  \"notes\": \"Balance Due 131.08\"\n}",
+ "data": {
+  "vendor": "Hog Island Oyster Co.",
+  "date": "2015-01-24",
+  "subtotal": 117.0,
+  "tax": 10.55,
+  "tip": 3.53,
+  "discount": null,
+  "total": 131.08,
+  "currency": "USD",
+  "confidence": 0.95,
+  "notes": "Balance Due 131.08"
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1413,
+  "output_tokens": 114,
+  "model_total_duration_ms": 26554
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 28614,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "W0159_af3eb5099f48"
+}

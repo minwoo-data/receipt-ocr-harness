@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"PIZZA HUT\",\n  \"date\": \"2009-09-27\",\n  \"subtotal\": 25.5,\n  \"tax\": 1.25,\n  \"tip\": 0.5,\n  \"discount\": -0.5,\n  \"total\": 29.25,\n  \"currency\": \"MYR\",\n  \"confidence\": 0.9,\n  \"notes\": \"WHUNGER DONATION E (no tax & sc) E\"\n}",
+ "data": {
+  "vendor": "PIZZA HUT",
+  "date": "2009-09-27",
+  "subtotal": 25.5,
+  "tax": 1.25,
+  "tip": 0.5,
+  "discount": -0.5,
+  "total": 29.25,
+  "currency": "MYR",
+  "confidence": 0.9,
+  "notes": "WHUNGER DONATION E (no tax & sc) E"
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1413,
+  "output_tokens": 115,
+  "model_total_duration_ms": 21379
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 23499,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "W0191_2914"
+}

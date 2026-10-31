@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"TONY ROMA'S AEON TERRAU CITY\",\n  \"date\": \"03 Mar 18\",\n  \"subtotal\": 231.06,\n  \"tax\": 15.25,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 269.4,\n  \"currency\": \"RM\",\n  \"confidence\": 1.0,\n  \"notes\": \"NH 10 OFF FOR A MINIMUM OF RM 50 SPENT ON YOUR NEXT VISIT TO TONY ROMA'S !! GO TO :WWW.TONYCARES.COM PLEASE TELL US HOW WE ARE DOING Store # 0217\"\n}",
+ "data": {
+  "vendor": "TONY ROMA'S AEON TERRAU CITY",
+  "date": "03 Mar 18",
+  "subtotal": 231.06,
+  "tax": 15.25,
+  "tip": null,
+  "discount": null,
+  "total": 269.4,
+  "currency": "RM",
+  "confidence": 1.0,
+  "notes": "NH 10 OFF FOR A MINIMUM OF RM 50 SPENT ON YOUR NEXT VISIT TO TONY ROMA'S !! GO TO :WWW.TONYCARES.COM PLEASE TELL US HOW WE ARE DOING Store # 0217"
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1430,
+  "output_tokens": 154,
+  "model_total_duration_ms": 23782
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 25845,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "X51005442322"
+}

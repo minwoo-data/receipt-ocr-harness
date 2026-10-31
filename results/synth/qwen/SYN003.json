@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"BLUE HARBOUR CAFE\",\n  \"date\": \"2009-05-22\",\n  \"subtotal\": 126.60,\n  \"tax\": 7.60,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 134.20,\n  \"currency\": \"MYR\",\n  \"confidence\": 0.95,\n  \"notes\": \"Receipt from Blue Harbour Cafe in Lot 3-21 Pavilion Mall, Bukit Bintang.\"\n}",
+ "data": {
+  "vendor": "BLUE HARBOUR CAFE",
+  "date": "2009-05-22",
+  "subtotal": 126.6,
+  "tax": 7.6,
+  "tip": null,
+  "discount": null,
+  "total": 134.2,
+  "currency": "MYR",
+  "confidence": 0.95,
+  "notes": "Receipt from Blue Harbour Cafe in Lot 3-21 Pavilion Mall, Bukit Bintang."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1401,
+  "output_tokens": 122,
+  "model_total_duration_ms": 22698
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 24750,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "SYN003"
+}

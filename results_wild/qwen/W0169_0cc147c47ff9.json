@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"POPPIES\",\n  \"date\": \"2016-07-31\",\n  \"subtotal\": 22,\n  \"tax\": null,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 22,\n  \"currency\": \"GBP\",\n  \"confidence\": 0.95,\n  \"notes\": \"The receipt is partially obscured and some details are not fully visible.\"\n}",
+ "data": {
+  "vendor": "POPPIES",
+  "date": "2016-07-31",
+  "subtotal": 22,
+  "tax": null,
+  "tip": null,
+  "discount": null,
+  "total": 22,
+  "currency": "GBP",
+  "confidence": 0.95,
+  "notes": "The receipt is partially obscured and some details are not fully visible."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1413,
+  "output_tokens": 97,
+  "model_total_duration_ms": 24560
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 26623,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "W0169_0cc147c47ff9"
+}

@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"Sanjung Realiti Sdn. Bhd.\",\n  \"date\": \"27/06/18\",\n  \"subtotal\": 1.50,\n  \"tax\": 0.00,\n  \"tip\": 0.50,\n  \"discount\": null,\n  \"total\": 2.00,\n  \"currency\": \"RM\",\n  \"confidence\": 0.95,\n  \"notes\": \"Lebuhraya SPRINT, PJU6A, 47400 Petaling Jaya, Selangor\"\n}",
+ "data": {
+  "vendor": "Sanjung Realiti Sdn. Bhd.",
+  "date": "27/06/18",
+  "subtotal": 1.5,
+  "tax": 0.0,
+  "tip": 0.5,
+  "discount": null,
+  "total": 2.0,
+  "currency": "RM",
+  "confidence": 0.95,
+  "notes": "Lebuhraya SPRINT, PJU6A, 47400 Petaling Jaya, Selangor"
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1406,
+  "output_tokens": 128,
+  "model_total_duration_ms": 40644
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 42697,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "X51008123450"
+}

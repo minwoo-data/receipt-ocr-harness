@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"ASO ELECTRICAL TRADING SDN BHD\",\n  \"date\": \"2017-12-04\",\n  \"subtotal\": 93.40,\n  \"tax\": 5.60,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 99.00,\n  \"currency\": \"MYR\",\n  \"confidence\": 1.0,\n  \"notes\": \"GOODS SOLD ARE NOT RETURNABLE. THANK YOU.\"\n}",
+ "data": {
+  "vendor": "ASO ELECTRICAL TRADING SDN BHD",
+  "date": "2017-12-04",
+  "subtotal": 93.4,
+  "tax": 5.6,
+  "tip": null,
+  "discount": null,
+  "total": 99.0,
+  "currency": "MYR",
+  "confidence": 1.0,
+  "notes": "GOODS SOLD ARE NOT RETURNABLE. THANK YOU."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1427,
+  "output_tokens": 113,
+  "model_total_duration_ms": 42816
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 44876,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "X51005705804"
+}

@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"PUSAT DAGANGAN PHILEO DAMANSARA\",\n  \"date\": \"28/06/2018\",\n  \"subtotal\": 6.00,\n  \"tax\": 0.00,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 6.00,\n  \"currency\": \"MYR\",\n  \"confidence\": 0.95,\n  \"notes\": \"Receipt from myNEWS.com, Pusat Dagangan Phileo Damansara, Unit 105, Block A, Petaling Jaya, Selangor.\"\n}",
+ "data": {
+  "vendor": "PUSAT DAGANGAN PHILEO DAMANSARA",
+  "date": "28/06/2018",
+  "subtotal": 6.0,
+  "tax": 0.0,
+  "tip": null,
+  "discount": null,
+  "total": 6.0,
+  "currency": "MYR",
+  "confidence": 0.95,
+  "notes": "Receipt from myNEWS.com, Pusat Dagangan Phileo Damansara, Unit 105, Block A, Petaling Jaya, Selangor."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1443,
+  "output_tokens": 136,
+  "model_total_duration_ms": 42474
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 44527,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "X51007419197"
+}

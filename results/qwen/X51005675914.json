@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"BEYOND BROTHERS HARDWARE\",\n  \"date\": \"10/1/2017\",\n  \"subtotal\": 64.00,\n  \"tax\": 3.84,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 67.84,\n  \"currency\": \"RM\",\n  \"confidence\": 0.95,\n  \"notes\": \"GOODS SOLD ARE NOT RETURNABLE. THANK YOU.\"\n}",
+ "data": {
+  "vendor": "BEYOND BROTHERS HARDWARE",
+  "date": "10/1/2017",
+  "subtotal": 64.0,
+  "tax": 3.84,
+  "tip": null,
+  "discount": null,
+  "total": 67.84,
+  "currency": "RM",
+  "confidence": 0.95,
+  "notes": "GOODS SOLD ARE NOT RETURNABLE. THANK YOU."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1448,
+  "output_tokens": 110,
+  "model_total_duration_ms": 13542
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 15607,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "X51005675914"
+}

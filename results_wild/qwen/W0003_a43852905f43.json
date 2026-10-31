@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"Nando's\",\n  \"date\": \"17/05/2015\",\n  \"subtotal\": 55.00,\n  \"tax\": 3.63,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 64.13,\n  \"currency\": \"MYR\",\n  \"confidence\": 0.95,\n  \"notes\": \"CIBAI CUSTOMER INSTRUCTION\"\n}",
+ "data": {
+  "vendor": "Nando's",
+  "date": "17/05/2015",
+  "subtotal": 55.0,
+  "tax": 3.63,
+  "tip": null,
+  "discount": null,
+  "total": 64.13,
+  "currency": "MYR",
+  "confidence": 0.95,
+  "notes": "CIBAI CUSTOMER INSTRUCTION"
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1409,
+  "output_tokens": 103,
+  "model_total_duration_ms": 31645
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 33699,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "W0003_a43852905f43"
+}

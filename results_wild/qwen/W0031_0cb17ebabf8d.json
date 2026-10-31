@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"VOLUME ONE BOOKS INC\",\n  \"date\": \"2015-12-25\",\n  \"subtotal\": 15.00,\n  \"tax\": 0.90,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 15.90,\n  \"currency\": \"USD\",\n  \"confidence\": 0.95,\n  \"notes\": \"The total amount is rounded to the nearest cent.\"\n}",
+ "data": {
+  "vendor": "VOLUME ONE BOOKS INC",
+  "date": "2015-12-25",
+  "subtotal": 15.0,
+  "tax": 0.9,
+  "tip": null,
+  "discount": null,
+  "total": 15.9,
+  "currency": "USD",
+  "confidence": 0.95,
+  "notes": "The total amount is rounded to the nearest cent."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1413,
+  "output_tokens": 107,
+  "model_total_duration_ms": 23305
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 25340,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "W0031_0cb17ebabf8d"
+}

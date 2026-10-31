@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"Shell Canada\",\n  \"date\": \"2016-05-04\",\n  \"subtotal\": 33.00,\n  \"tax\": 1.57,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 33.00,\n  \"currency\": \"CAD\",\n  \"confidence\": 0.95,\n  \"notes\": \"Pump No. 03\"\n}",
+ "data": {
+  "vendor": "Shell Canada",
+  "date": "2016-05-04",
+  "subtotal": 33.0,
+  "tax": 1.57,
+  "tip": null,
+  "discount": null,
+  "total": 33.0,
+  "currency": "CAD",
+  "confidence": 0.95,
+  "notes": "Pump No. 03"
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1401,
+  "output_tokens": 101,
+  "model_total_duration_ms": 18522
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 20562,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "W0187_73292c845fd0"
+}

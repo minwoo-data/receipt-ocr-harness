@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"SANYU STATIONERY SHOP\",\n  \"date\": \"19/07/2017\",\n  \"subtotal\": 5.00,\n  \"tax\": 0.28,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 5.00,\n  \"currency\": \"RM\",\n  \"confidence\": 0.95,\n  \"notes\": \"Goods sold are not Returnable & Refundable\"\n}",
+ "data": {
+  "vendor": "SANYU STATIONERY SHOP",
+  "date": "19/07/2017",
+  "subtotal": 5.0,
+  "tax": 0.28,
+  "tip": null,
+  "discount": null,
+  "total": 5.0,
+  "currency": "RM",
+  "confidence": 0.95,
+  "notes": "Goods sold are not Returnable & Refundable"
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1427,
+  "output_tokens": 107,
+  "model_total_duration_ms": 37168
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 39206,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "X51007339157"
+}

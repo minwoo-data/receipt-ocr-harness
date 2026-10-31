@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"Gaucho Grill\",\n  \"date\": \"2015-10-16\",\n  \"subtotal\": 250.00,\n  \"tax\": 20.94,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 270.94,\n  \"currency\": \"USD\",\n  \"confidence\": 0.95,\n  \"notes\": \"Receipt from Gaucho Grill in White Plains, NY.\"\n}",
+ "data": {
+  "vendor": "Gaucho Grill",
+  "date": "2015-10-16",
+  "subtotal": 250.0,
+  "tax": 20.94,
+  "tip": null,
+  "discount": null,
+  "total": 270.94,
+  "currency": "USD",
+  "confidence": 0.95,
+  "notes": "Receipt from Gaucho Grill in White Plains, NY."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1413,
+  "output_tokens": 110,
+  "model_total_duration_ms": 33155
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 35212,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "W0143_6c2da20088a7"
+}

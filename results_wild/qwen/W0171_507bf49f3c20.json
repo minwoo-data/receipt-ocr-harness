@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"HAPPY LIQUOR\",\n  \"date\": \"2016-12-30\",\n  \"subtotal\": 10.75,\n  \"tax\": 5.99,\n  \"tip\": 0.10,\n  \"discount\": null,\n  \"total\": 17.41,\n  \"currency\": \"USD\",\n  \"confidence\": 0.9,\n  \"notes\": \"The receipt is from a liquor store in Long Beach, California.\"\n}",
+ "data": {
+  "vendor": "HAPPY LIQUOR",
+  "date": "2016-12-30",
+  "subtotal": 10.75,
+  "tax": 5.99,
+  "tip": 0.1,
+  "discount": null,
+  "total": 17.41,
+  "currency": "USD",
+  "confidence": 0.9,
+  "notes": "The receipt is from a liquor store in Long Beach, California."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1401,
+  "output_tokens": 113,
+  "model_total_duration_ms": 37841
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 39901,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "W0171_507bf49f3c20"
+}

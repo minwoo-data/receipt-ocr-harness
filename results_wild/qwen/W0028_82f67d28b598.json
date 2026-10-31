@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"NUM PANG SANDWICH SHOP\",\n  \"date\": \"2012-09-18\",\n  \"subtotal\": 17.7,\n  \"tax\": null,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 20,\n  \"currency\": \"USD\",\n  \"confidence\": 0.95,\n  \"notes\": \"The receipt is clear and readable.\"\n}",
+ "data": {
+  "vendor": "NUM PANG SANDWICH SHOP",
+  "date": "2012-09-18",
+  "subtotal": 17.7,
+  "tax": null,
+  "tip": null,
+  "discount": null,
+  "total": 20,
+  "currency": "USD",
+  "confidence": 0.95,
+  "notes": "The receipt is clear and readable."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1441,
+  "output_tokens": 97,
+  "model_total_duration_ms": 21838
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 23912,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "W0028_82f67d28b598"
+}

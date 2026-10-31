@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"Domino's Pizza\",\n  \"date\": \"2014-07-31\",\n  \"subtotal\": null,\n  \"tax\": null,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 16.28,\n  \"currency\": \"USD\",\n  \"confidence\": 0.95,\n  \"notes\": \"The total amount is $16.28, but the tip field is blank.\"\n}",
+ "data": {
+  "vendor": "Domino's Pizza",
+  "date": "2014-07-31",
+  "subtotal": null,
+  "tax": null,
+  "tip": null,
+  "discount": null,
+  "total": 16.28,
+  "currency": "USD",
+  "confidence": 0.95,
+  "notes": "The total amount is $16.28, but the tip field is blank."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1441,
+  "output_tokens": 104,
+  "model_total_duration_ms": 18859
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 20915,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "W0192_4314"
+}

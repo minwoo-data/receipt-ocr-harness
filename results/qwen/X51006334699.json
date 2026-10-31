@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"SEGI CASH & CARRY SDN. BHD\",\n  \"date\": \"05 Jan 2017\",\n  \"subtotal\": 12.61,\n  \"tax\": 0.71,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 12.60,\n  \"currency\": \"RM\",\n  \"confidence\": 0.95,\n  \"notes\": \"GST Summary: 11.90\"\n}",
+ "data": {
+  "vendor": "SEGI CASH & CARRY SDN. BHD",
+  "date": "05 Jan 2017",
+  "subtotal": 12.61,
+  "tax": 0.71,
+  "tip": null,
+  "discount": null,
+  "total": 12.6,
+  "currency": "RM",
+  "confidence": 0.95,
+  "notes": "GST Summary: 11.90"
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1421,
+  "output_tokens": 111,
+  "model_total_duration_ms": 36939
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 38996,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "X51006334699"
+}

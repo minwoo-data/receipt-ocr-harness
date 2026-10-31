@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"CORAL BEACH HTL & RESORTS\",\n  \"date\": \"2017-04-17\",\n  \"subtotal\": 3.95,\n  \"tax\": 1.45,\n  \"tip\": null,\n  \"discount\": -2.37,\n  \"total\": 1.58,\n  \"currency\": \"EUR\",\n  \"confidence\": 0.95,\n  \"notes\": \"Image does not appear to be a receipt.\"\n}",
+ "data": {
+  "vendor": "CORAL BEACH HTL & RESORTS",
+  "date": "2017-04-17",
+  "subtotal": 3.95,
+  "tax": 1.45,
+  "tip": null,
+  "discount": -2.37,
+  "total": 1.58,
+  "currency": "EUR",
+  "confidence": 0.95,
+  "notes": "Image does not appear to be a receipt."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1413,
+  "output_tokens": 112,
+  "model_total_duration_ms": 22267
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 24302,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "W0026_11a34f262852"
+}

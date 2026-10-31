@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"Firearms Unknown\",\n  \"date\": \"2016-12-17\",\n  \"subtotal\": 99.99,\n  \"tax\": 9.00,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 108.99,\n  \"currency\": \"USD\",\n  \"confidence\": 0.95,\n  \"notes\": \"The term 'Gov't Theft AKA' is likely a misspelling or a humorous or satirical term, not an official tax designation.\"\n}",
+ "data": {
+  "vendor": "Firearms Unknown",
+  "date": "2016-12-17",
+  "subtotal": 99.99,
+  "tax": 9.0,
+  "tip": null,
+  "discount": null,
+  "total": 108.99,
+  "currency": "USD",
+  "confidence": 0.95,
+  "notes": "The term 'Gov't Theft AKA' is likely a misspelling or a humorous or satirical term, not an official tax designation."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1413,
+  "output_tokens": 124,
+  "model_total_duration_ms": 28140
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 30201,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "W0194_9b8fa37d3e44"
+}

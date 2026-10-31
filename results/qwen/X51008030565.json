@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"RESTORAN WAN SHENG\",\n  \"date\": \"04-04-2018\",\n  \"subtotal\": 7.37,\n  \"tax\": 0.43,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 7.8,\n  \"currency\": \"SR\",\n  \"confidence\": 0.95,\n  \"notes\": \"Image does not appear to be a receipt.\"\n}",
+ "data": {
+  "vendor": "RESTORAN WAN SHENG",
+  "date": "04-04-2018",
+  "subtotal": 7.37,
+  "tax": 0.43,
+  "tip": null,
+  "discount": null,
+  "total": 7.8,
+  "currency": "SR",
+  "confidence": 0.95,
+  "notes": "Image does not appear to be a receipt."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1435,
+  "output_tokens": 104,
+  "model_total_duration_ms": 22493
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 24539,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "X51008030565"
+}

@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"THE HOME DEPOT\",\n  \"date\": \"2013-08-14\",\n  \"subtotal\": 36.49,\n  \"tax\": 2.19,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 38.68,\n  \"currency\": \"USD\",\n  \"confidence\": 0.95,\n  \"notes\": \"The Home Depot reserves the right to limit/deny returns.\"\n}",
+ "data": {
+  "vendor": "THE HOME DEPOT",
+  "date": "2013-08-14",
+  "subtotal": 36.49,
+  "tax": 2.19,
+  "tip": null,
+  "discount": null,
+  "total": 38.68,
+  "currency": "USD",
+  "confidence": 0.95,
+  "notes": "The Home Depot reserves the right to limit/deny returns."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1406,
+  "output_tokens": 108,
+  "model_total_duration_ms": 7562
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 9621,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "W0200_2a92c61dd5c0"
+}

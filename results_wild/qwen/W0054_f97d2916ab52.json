@@ -1,0 +1,41 @@
+{
+ "engine": "qwen2.5vl:3b",
+ "provider": "ollama",
+ "raw_text": "{\n  \"vendor\": \"GIOVANNI'S WINE BAR & RISTORANTE\",\n  \"date\": \"23/06/2016\",\n  \"subtotal\": 29.90,\n  \"tax\": 4.54,\n  \"tip\": 40.84,\n  \"discount\": null,\n  \"total\": 40.84,\n  \"currency\": \"GBP\",\n  \"confidence\": 0.95,\n  \"notes\": \"The receipt is from a restaurant in London, UK.\"\n}",
+ "data": {
+  "vendor": "GIOVANNI'S WINE BAR & RISTORANTE",
+  "date": "23/06/2016",
+  "subtotal": 29.9,
+  "tax": 4.54,
+  "tip": 40.84,
+  "discount": null,
+  "total": 40.84,
+  "currency": "GBP",
+  "confidence": 0.95,
+  "notes": "The receipt is from a restaurant in London, UK."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1409,
+  "output_tokens": 121,
+  "model_total_duration_ms": 23969
+ },
+ "cost_usd": 0.0,
+ "latency_ms": 26021,
+ "attempts": [
+  {
+   "provider": "ollama",
+   "model": "qwen2.5vl:3b",
+   "ok": true,
+   "error": null,
+   "format": "schema"
+  }
+ ],
+ "chain": [
+  "qwen2.5vl:3b"
+ ],
+ "key": "W0054_f97d2916ab52"
+}
