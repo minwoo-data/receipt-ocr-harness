@@ -15,6 +15,10 @@ q1 = pick("한 문단 요약") + "\n\n" + sec.get("읽는 순서 제안", "")
 q2 = pick("영수증 한 장이 들어오면 (flow)")
 q3 = pick("결과 핵심 (스캔 300장, date + total exact)", "프로덕션에서 했던 40장 prompt 실험 (2026-04, Accuver)")
 q4_md = pick("데이터 반출 제약이 있을 때 확인할 것", "10k 로 갈 때")
+def fence(t):
+    return re.sub(r"```mermaid\n(.*?)```", lambda m: '<pre class="mermaid">' + m.group(1) + "</pre>", t, flags=re.S)
+q1, q2, q3, q4_md = fence(q1), fence(q2), fence(q3), fence(q4_md)
+
 def img(name):
     f = ROOT / "results" / "figures" / name
     return f'<img src="data:image/png;base64,{base64.b64encode(f.read_bytes()).decode()}" alt="{name}">' if f.exists() else ""
@@ -48,7 +52,7 @@ html = f"""<!doctype html><html lang="ko"><head><meta charset="utf-8"><meta name
 const S = {json.dumps({"q1": q1, "q2": q2, "q3": q3, "q4": q4_md}, ensure_ascii=False)};
 for (const el of document.querySelectorAll('.md')) {{
   const src = S[el.dataset.src].replace(/^## .*$/m, '');
-  el.innerHTML = marked.parse(src.replace(/```mermaid\n([\s\S]*?)```/g, (m, g) => '<pre class="mermaid">' + g + '</pre>'));
+  el.innerHTML = marked.parse(src);
 }}
 mermaid.initialize({{startOnLoad:false, theme:'neutral'}}); mermaid.run({{querySelector:'.mermaid'}});
 </script></body></html>"""
