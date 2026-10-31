@@ -44,12 +44,12 @@
     "after": 0.0467
    },
    "cloud_sent_share": {
-    "before": 0.5633,
-    "after": 0.5633
+    "before": 0.55,
+    "after": 0.55
    },
    "cost_usd_per_1k": {
-    "before": 0.369,
-    "after": 0.374
+    "before": 0.362,
+    "after": 0.366
    },
    "leak_share": {
     "before": 0.03,
@@ -62,12 +62,12 @@
   },
   "local_only": {
    "accepted_money_precision": {
-    "before": 0.9342,
-    "after": 0.9538
+    "before": 0.9347,
+    "after": 0.9542
    },
    "review_share": {
-    "before": 0.19,
-    "after": 0.2067
+    "before": 0.1833,
+    "after": 0.2
    },
    "cloud_sent_share": {
     "before": 0.0,
@@ -82,8 +82,8 @@
     "after": 0.0367
    },
    "auto_accept_share": {
-    "before": 0.81,
-    "after": 0.7933
+    "before": 0.8167,
+    "after": 0.8
    }
   },
   "harness_ladder": {
@@ -96,12 +96,12 @@
     "after": 0.04
    },
    "cloud_sent_share": {
-    "before": 0.19,
-    "after": 0.2067
+    "before": 0.1833,
+    "after": 0.2
    },
    "cost_usd_per_1k": {
-    "before": 0.155,
-    "after": 0.169
+    "before": 0.151,
+    "after": 0.165
    },
    "leak_share": {
     "before": 0.0533,

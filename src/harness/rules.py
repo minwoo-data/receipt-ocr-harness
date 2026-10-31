@@ -164,3 +164,14 @@ def extract(lines: list[str], day_first: bool = True) -> RuleResult:
     if reason:
         r.reasons.append(reason)
     return r
+
+
+def refresh(rec: dict | None, day_first: bool = True) -> dict | None:
+    """A cached tier-1 record whose fields, rule_reasons and total_candidates are re-derived from its
+    stored OCR lines by the current rules, so a rules or normalizer fix reaches cached reads without
+    re-running OCR (the self-signal and the learned features then agree with the scored prediction)."""
+    if not rec or "lines" not in rec:
+        return rec
+    rr = extract(rec["lines"] or [], day_first=day_first)
+    return {**rec, "fields": {"company": rr.company, "date": rr.date, "total": rr.total},
+            "rule_reasons": rr.reasons, "total_candidates": rr.total_candidates}

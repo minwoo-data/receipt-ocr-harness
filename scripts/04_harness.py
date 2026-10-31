@@ -21,7 +21,16 @@ Policies:
                      to T4; a flagged T4 answer goes to human review. Auto-accept
                      only with zero flags. Model confidence is never consulted.
     harness_ladder   adds T2 between T1 and T3 (local VLM before any cloud call)
+    local_only       T1, then T2 with the code checks, then review; never calls the cloud
     oracle           escalates exactly the receipts T1 gets wrong (upper bound)
+
+The policies with code checks (harness, harness_ladder, local_only and their _solo variants) also
+require T1's date to pass the date plausibility check before T1 is accepted (signal.date_ok, added
+2026-10-31 after the poster: a T1 that is sure about a receipt dated in the future used to skip every
+check). The router stays check-free by definition.
+
+Tier-1 records are refreshed with the current rules (rules.refresh) when loaded, so a rules or
+normalizer fix reaches the cached OCR reads.
 
 Outputs: results/harness/policies.md, policies.json, tau_sweep.json,
          waterfall.json, per_receipt.jsonl
@@ -38,7 +47,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT / "src"))
-from harness import verify  # noqa: E402
+from harness import rules, verify  # noqa: E402
 from harness.scoring import all_fields_ok, correct_fields, money_fields_ok, predicted_fields  # noqa: E402
 
 TODAY = date(2026, 10, 31)
@@ -89,6 +98,12 @@ def local_signal(rapid: dict | None, tess: dict | None, day_first: bool = True) 
 
 ERA = {"today": TODAY, "min_year": None}     # set from the manifest's ground-truth years in main()
 GATES: tuple[str, ...] = ()                  # optional verify gates, from --gates
+
+
+def t1_date_ok(rapid: dict | None, day_first: bool = True) -> bool:
+    """T1's own date through the same plausibility window as the VLM answers (no ground truth)."""
+    d = predicted_fields(rapid, day_first=day_first)["date"] if rapid else None
+    return d is not None and not verify.check_date({"date": d}, today=ERA["today"], min_year=ERA["min_year"])
 
 
 def vlm_flags(rec: dict | None, ocr_lines: list[str] | None) -> list[str]:
@@ -156,6 +171,8 @@ def decide(row: dict, policy: str, params: dict | float) -> dict:
     solo = policy.endswith("_solo")
     policy = policy[:-5] if solo else policy
     local_ok = (sig["complete"] if solo else sig["agree"]) and sig["conf"] >= tau
+    if policy in ("harness", "harness_ladder", "local_only"):
+        local_ok = local_ok and sig.get("date_ok", True)       # policies with checks also check T1's date
     if policy == "oracle":
         take("T1", t1)
         if t1["money_ok"]:
@@ -307,19 +324,20 @@ def main() -> None:
     rows = []
     for item in manifest:
         key, gt = item["key"], item["gt"]
-        rapid, tess = R["t1"].get(key), R["t1b"].get(key)
+        df = item.get("day_first", True)
+        rapid, tess = rules.refresh(R["t1"].get(key), df), rules.refresh(R["t1b"].get(key), df)
         # Independent witness text = union of both traditional readers' lines.
         ocr_lines = ((rapid or {}).get("lines") or []) + ((tess or {}).get("lines") or [])
         ocr_lines = ocr_lines or None
-        df = item.get("day_first", True)
         row = {
             "key": key,
+            "day_first": df,
             "t1": tier_eval(rapid, gt, df),
             "t1b": tier_eval(tess, gt, df),
             "t2": tier_eval(R["t2"].get(key), gt, df),
             "t3": tier_eval(R["t3"].get(key), gt, df),
             "t4": tier_eval(R["t4"].get(key), gt, df),
-            "signal": local_signal(rapid, tess, df),
+            "signal": {**local_signal(rapid, tess, df), "date_ok": t1_date_ok(rapid, df)},
             "flags": {t: vlm_flags(R[t].get(key), ocr_lines) for t in ("t2", "t3", "t4")},
         }
         rows.append(row)
@@ -344,8 +362,9 @@ def main() -> None:
     (out / "per_receipt.schema.json").write_text(json.dumps({
         "schema_version": 1,
         "required_row_keys": ["key", "t1", "t1b", "t2", "t3", "t4", "signal", "flags"],
+        "optional_row_keys": ["day_first"],
         "tier_keys": ["pred", "correct", "money_ok", "all_ok", "cost", "latency_ms", "available"],
-        "signal_keys": ["agree", "conf", "complete"],
+        "signal_keys": ["agree", "conf", "complete", "date_ok"],
     }, indent=1), encoding="utf-8")
 
     # Plan §B: latency-aware hedging, D seconds x local latency scale.

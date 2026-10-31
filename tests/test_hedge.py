@@ -39,3 +39,20 @@ def test_fast_local_wins_when_under_budget_and_scale_applies():
 def test_both_flagged_is_review_and_cost_counts_every_fired_call():
     d = h.decide(row(t2_flags=["G_ARITH"], t3_flags=["G_AGREE_TOTAL"]), "hedge", {"D": 5.0, "scale": 1.0})
     assert d["tier"] == "review" and d["cloud_fired"] is True and abs(d["cost"] - 0.0005) < 1e-9
+
+
+def test_t1_date_check_blocks_a_sure_t1_in_checked_policies_only():
+    r = row()
+    r["signal"]["date_ok"] = False            # both OCR readers agree on a date outside the era window
+    assert h.decide(r, "local_only", {"tau": 0.9})["tier"] == "T2"
+    assert h.decide(r, "harness", {"tau": 0.9})["tier"] == "T3"
+    assert h.decide(r, "router", {"tau": 0.9})["tier"] == "T1"          # the router has no checks by definition
+    r["signal"]["date_ok"] = True
+    assert h.decide(r, "local_only", {"tau": 0.9})["tier"] == "T1"
+
+
+def test_refresh_rederives_tier1_fields_from_lines():
+    from harness.rules import refresh
+    rec = {"lines": ["TOTAL 1039.00", "Date: 25/09/2017"], "fields": {"total": 103.0}, "rule_reasons": ["stale"]}
+    out = refresh(rec, day_first=True)
+    assert out["fields"]["total"] == 1039.0 and "stale" not in out["rule_reasons"] and rec["fields"]["total"] == 103.0

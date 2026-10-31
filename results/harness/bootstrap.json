@@ -1,0 +1,117 @@
+{
+ "n": 300,
+ "B": 10000,
+ "seed": 20261031,
+ "tau": 0.9,
+ "method": "percentile, paired resampling of receipts",
+ "policies": {
+  "all_lite": {
+   "accepted_money_precision": {
+    "point": 0.9733,
+    "ci95": [
+     0.9533,
+     0.99
+    ]
+   },
+   "review_share": {
+    "point": 0.0,
+    "ci95": [
+     0.0,
+     0.0
+    ]
+   },
+   "cloud_sent_share": {
+    "point": 1.0,
+    "ci95": [
+     1.0,
+     1.0
+    ]
+   },
+   "cost_usd_per_1k": {
+    "point": 0.5349,
+    "ci95": [
+     0.5336,
+     0.5361
+    ]
+   }
+  },
+  "harness": {
+   "accepted_money_precision": {
+    "point": 0.9686,
+    "ci95": [
+     0.9472,
+     0.9863
+    ]
+   },
+   "review_share": {
+    "point": 0.0433,
+    "ci95": [
+     0.0233,
+     0.0667
+    ]
+   },
+   "cloud_sent_share": {
+    "point": 0.55,
+    "ci95": [
+     0.4933,
+     0.6067
+    ]
+   },
+   "cost_usd_per_1k": {
+    "point": 0.3616,
+    "ci95": [
+     0.3141,
+     0.4117
+    ]
+   }
+  },
+  "local_only": {
+   "accepted_money_precision": {
+    "point": 0.9347,
+    "ci95": [
+     0.902,
+     0.9634
+    ]
+   },
+   "review_share": {
+    "point": 0.1833,
+    "ci95": [
+     0.14,
+     0.2267
+    ]
+   },
+   "cloud_sent_share": {
+    "point": 0.0,
+    "ci95": [
+     0.0,
+     0.0
+    ]
+   },
+   "cost_usd_per_1k": {
+    "point": 0.0,
+    "ci95": [
+     0.0,
+     0.0
+    ]
+   }
+  }
+ },
+ "differences": {
+  "all_lite_minus_harness_points": {
+   "point": 0.47,
+   "ci95": [
+    -1.9,
+    2.9
+   ],
+   "share_of_resamples_above_0": 0.6679
+  },
+  "harness_minus_local_only_points": {
+   "point": 3.39,
+   "ci95": [
+    1.22,
+    5.89
+   ],
+   "share_of_resamples_above_0": 0.9991
+  }
+ }
+}

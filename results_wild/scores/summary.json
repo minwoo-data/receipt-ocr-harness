@@ -4,10 +4,10 @@
   "n": 200,
   "acc": {
    "company": 0.655,
-   "date": 0.93,
-   "total": 0.93
+   "date": 0.965,
+   "total": 0.97
   },
-  "all_three": 0.56,
+  "all_three": 0.61,
   "parsed_share": 1.0,
   "latency_ms_median": 1672,
   "latency_ms_p90": 2173,
@@ -18,10 +18,10 @@
   "n": 200,
   "acc": {
    "company": 0.61,
-   "date": 0.93,
-   "total": 0.93
+   "date": 0.965,
+   "total": 0.97
   },
-  "all_three": 0.52,
+  "all_three": 0.57,
   "parsed_share": 1.0,
   "latency_ms_median": 1596,
   "latency_ms_p90": 2208,
@@ -32,10 +32,10 @@
   "n": 200,
   "acc": {
    "company": 0.63,
-   "date": 0.9,
-   "total": 0.905
+   "date": 0.925,
+   "total": 0.94
   },
-  "all_three": 0.535,
+  "all_three": 0.565,
   "parsed_share": 1.0,
   "latency_ms_median": 26197,
   "latency_ms_p90": 34848,
@@ -46,10 +46,10 @@
   "n": 200,
   "acc": {
    "company": 0.45,
-   "date": 0.695,
-   "total": 0.755
+   "date": 0.775,
+   "total": 0.78
   },
-  "all_three": 0.275,
+  "all_three": 0.31,
   "parsed_share": 1.0,
   "latency_ms_median": 3306,
   "latency_ms_p90": 4701,
@@ -60,8 +60,8 @@
   "n": 200,
   "acc": {
    "company": 0.205,
-   "date": 0.38,
-   "total": 0.395
+   "date": 0.385,
+   "total": 0.4
   },
   "all_three": 0.055,
   "parsed_share": 1.0,

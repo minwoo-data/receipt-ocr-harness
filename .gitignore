@@ -33,3 +33,7 @@ results/spend_ledger.json
 
 # submission copy (same bytes as Park_Minwoo_MISM_ReceiptOCR.pdf)
 poster/Park_Minwoo_MISM_ReceiptOCRHarness.pdf
+
+# booth demo: shows SROIE images (not redistributed); regenerate with scripts/21_demo.py
+demo/
+poster/Park_Minwoo_*_ReceiptOCRHarness.pdf

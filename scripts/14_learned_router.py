@@ -22,6 +22,7 @@ from sklearn.preprocessing import StandardScaler
 ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT / "src"))
 from harness.features import FEATURE_NAMES, SCHEMA_VERSION, features  # noqa: E402
+from harness.rules import refresh  # noqa: E402
 
 
 def load(root: Path):
@@ -35,6 +36,8 @@ def load(root: Path):
         rapid = json.loads((root / "rapidocr" / f"{r['key']}.json").read_text(encoding="utf-8")) if (root / "rapidocr" / f"{r['key']}.json").exists() else None
         tf = root / "tesseract" / f"{r['key']}.json"
         tess = json.loads(tf.read_text(encoding="utf-8")) if tf.exists() else None
+        # same current-rules view of the tier-1 records as 04_harness.py
+        rapid, tess = refresh(rapid, r.get("day_first", True)), refresh(tess, r.get("day_first", True))
         X.append([features(rapid, tess, r["signal"])[k] for k in FEATURE_NAMES])
         y.append(0 if r["t1"]["money_ok"] else 1)          # 1 = tier 1 wrong -> should escalate
         t3ok.append(bool(r["t3"]["money_ok"]))

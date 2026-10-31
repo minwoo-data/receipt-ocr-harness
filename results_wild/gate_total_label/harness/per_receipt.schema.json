@@ -10,6 +10,9 @@
   "signal",
   "flags"
  ],
+ "optional_row_keys": [
+  "day_first"
+ ],
  "tier_keys": [
   "pred",
   "correct",
@@ -22,6 +25,7 @@
  "signal_keys": [
   "agree",
   "conf",
-  "complete"
+  "complete",
+  "date_ok"
  ]
 }

@@ -6,38 +6,38 @@
  "n": 200,
  "tiers": {
   "t2": {
-   "model_errors": 38,
-   "caught_before": 26,
-   "caught_after": 27,
-   "leaked_before": 12,
-   "leaked_after": 11,
-   "false_flags_before": 44,
-   "false_flags_after": 45
+   "model_errors": 27,
+   "caught_before": 20,
+   "caught_after": 21,
+   "leaked_before": 7,
+   "leaked_after": 6,
+   "false_flags_before": 51,
+   "false_flags_after": 52
   },
   "t3": {
-   "model_errors": 27,
-   "caught_before": 10,
-   "caught_after": 11,
-   "leaked_before": 17,
-   "leaked_after": 16,
-   "false_flags_before": 47,
-   "false_flags_after": 48
+   "model_errors": 13,
+   "caught_before": 6,
+   "caught_after": 7,
+   "leaked_before": 7,
+   "leaked_after": 6,
+   "false_flags_before": 51,
+   "false_flags_after": 52
   },
   "t4": {
-   "model_errors": 27,
-   "caught_before": 11,
-   "caught_after": 11,
-   "leaked_before": 16,
-   "leaked_after": 16,
-   "false_flags_before": 43,
-   "false_flags_after": 44
+   "model_errors": 13,
+   "caught_before": 7,
+   "caught_after": 7,
+   "leaked_before": 6,
+   "leaked_after": 6,
+   "false_flags_before": 47,
+   "false_flags_after": 48
   }
  },
  "policies": {
   "harness": {
    "accepted_money_precision": {
-    "before": 0.8854,
-    "after": 0.8903
+    "before": 0.949,
+    "after": 0.9548
    },
    "review_share": {
     "before": 0.215,
@@ -52,8 +52,8 @@
     "after": 0.816
    },
    "leak_share": {
-    "before": 0.09,
-    "after": 0.085
+    "before": 0.04,
+    "after": 0.035
    },
    "auto_accept_share": {
     "before": 0.785,
@@ -62,12 +62,12 @@
   },
   "local_only": {
    "accepted_money_precision": {
-    "before": 0.8905,
-    "after": 0.8963
+    "before": 0.9338,
+    "after": 0.9403
    },
    "review_share": {
-    "before": 0.315,
-    "after": 0.325
+    "before": 0.32,
+    "after": 0.33
    },
    "cloud_sent_share": {
     "before": 0.0,
@@ -78,34 +78,34 @@
     "after": 0.0
    },
    "leak_share": {
-    "before": 0.075,
-    "after": 0.07
+    "before": 0.045,
+    "after": 0.04
    },
    "auto_accept_share": {
-    "before": 0.685,
-    "after": 0.675
+    "before": 0.68,
+    "after": 0.67
    }
   },
   "harness_ladder": {
    "accepted_money_precision": {
-    "before": 0.8834,
-    "after": 0.8882
+    "before": 0.9387,
+    "after": 0.9441
    },
    "review_share": {
     "before": 0.185,
     "after": 0.195
    },
    "cloud_sent_share": {
-    "before": 0.315,
-    "after": 0.325
+    "before": 0.32,
+    "after": 0.33
    },
    "cost_usd_per_1k": {
-    "before": 0.448,
-    "after": 0.468
+    "before": 0.45,
+    "after": 0.47
    },
    "leak_share": {
-    "before": 0.095,
-    "after": 0.09
+    "before": 0.05,
+    "after": 0.045
    },
    "auto_accept_share": {
     "before": 0.815,

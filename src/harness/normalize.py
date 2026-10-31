@@ -65,6 +65,8 @@ def norm_date(value, day_first: bool = True) -> str | None:
     m = re.search(r"(\d{1,4})\s*[/\-.]\s*(\d{1,2})\s*[/\-.]\s*(\d{1,4})", s)
     if m:
         a, b, c = m.groups()
+        if len(c) == 4 and not 1900 <= int(c) <= 2099:
+            c = c[:2]                             # 2-digit year glued to a time: 02/14/0309:46:31
         try:
             if len(a) == 4:                       # y/m/d
                 return date(int(a), int(b), int(c)).isoformat()
@@ -80,25 +82,23 @@ def norm_date(value, day_first: bool = True) -> str | None:
         except ValueError:
             pass
 
-    # 2. textual month: 25 DEC 2018 / DEC 25 2018 / 25-Dec-18
-    m = re.search(r"(\d{1,2})\s*[-/ ]?\s*([A-Za-z]{3,9})\s*[-/ ]?\s*(\d{2,4})", s)
-    if m:
-        d, mon, y = m.groups()
+    # 2. textual month: 25 DEC 2018 / DEC 25 2018 / 25-Dec-18 / Jul28'15. Both orders are tried and the
+    #    earliest match wins, so a repeated string (Dec282013 Dec282013) is not read across the gap.
+    found = []
+    for pat, order in ((r"(\d{1,2})\s*[-/ ']?\s*([A-Za-z]{3,9})\s*[-/ ']?\s*(\d{2,4})", "dmy"),
+                       (r"([A-Za-z]{3,9})\s*[-/ ']?\s*(\d{1,2})\s*[-/ ']?\s*(\d{2,4})", "mdy")):
+        m = re.search(pat, s)
+        if not m:
+            continue
+        d, mon, y = m.groups() if order == "dmy" else (m.group(2), m.group(1), m.group(3))
         mth = _MONTHS.get(mon.lower()[:4]) or _MONTHS.get(mon.lower()[:3])
         if mth:
             try:
-                return date(_year(y), mth, int(d)).isoformat()
+                found.append((m.start(), date(_year(y), mth, int(d)).isoformat()))
             except ValueError:
                 pass
-    m = re.search(r"([A-Za-z]{3,9})\s*[-/ ]?\s*(\d{1,2})\s*[-/ ]?\s*(\d{2,4})", s)
-    if m:
-        mon, d, y = m.groups()
-        mth = _MONTHS.get(mon.lower()[:4]) or _MONTHS.get(mon.lower()[:3])
-        if mth:
-            try:
-                return date(_year(y), mth, int(d)).isoformat()
-            except ValueError:
-                pass
+    if found:
+        return min(found)[1]
 
     # 3. compact 8 digits: 20181225 or 25122018
     m = re.search(r"(?<!\d)(\d{8})(?!\d)", s)
@@ -112,7 +112,9 @@ def norm_date(value, day_first: bool = True) -> str | None:
     return None
 
 
-_AMOUNT = re.compile(r"-?\d{1,3}(?:[,\s]\d{3})*(?:\.\d{1,2})?|-?\d+(?:\.\d{1,2})?")
+# Thousands groups need at least one separator, otherwise 1039.00 would be read as 103.
+_AMOUNT = re.compile(r"-?\d{1,3}(?:[,\s]\d{3})+(?:\.\d{1,2})?(?!\d)|-?\d+(?:\.\d{1,2})?")
+_DECIMAL_COMMA = re.compile(r"(?<![\d.,])(-?\d+),(\d{2})(?![\d,])")
 
 
 def norm_total(value) -> float | None:
@@ -121,6 +123,9 @@ def norm_total(value) -> float | None:
     if isinstance(value, (int, float)):
         return round(float(value), 2)
     s = str(value).strip().replace("RM", "").replace("$", "")
+    m = _DECIMAL_COMMA.search(s)
+    if m and not re.search(r"\d\.\d", s):      # 6,60 or 15,20EUR: comma as the decimal mark
+        return round(float(f"{m.group(1)}.{m.group(2)}"), 2)
     m = _AMOUNT.search(s)
     if not m:
         return None

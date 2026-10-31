@@ -1,0 +1,152 @@
+{
+ "n": 200,
+ "tau": 0.9,
+ "modes": {
+  "cloud": {
+   "policy": "harness",
+   "accepted": 157,
+   "leaks": 8,
+   "leaks_by_tier": {
+    "T1": 4,
+    "T3": 4
+   },
+   "random_audit": [
+    {
+     "p": 0.02,
+     "audited": 3,
+     "audited_per_1k": 15.0,
+     "expected_leaks_caught": 0.15,
+     "share_of_leaks_caught": 0.0191,
+     "p_find_at_least_one": 0.1461
+    },
+    {
+     "p": 0.05,
+     "audited": 8,
+     "audited_per_1k": 40.0,
+     "expected_leaks_caught": 0.41,
+     "share_of_leaks_caught": 0.051,
+     "p_find_at_least_one": 0.3484
+    },
+    {
+     "p": 0.1,
+     "audited": 16,
+     "audited_per_1k": 80.0,
+     "expected_leaks_caught": 0.82,
+     "share_of_leaks_caught": 0.1019,
+     "p_find_at_least_one": 0.5856
+    }
+   ],
+   "misstated_total": 279.97,
+   "leaks_under_10_cents": 1,
+   "amount_recheck_t4": [
+    {
+     "x": 0.05,
+     "considered": 8,
+     "rechecked": 8,
+     "leaks_caught": 0,
+     "leaks_total": 8,
+     "false_flags": 0,
+     "extra_review_per_1k": 0.0,
+     "extra_usd_per_1k": 0.058,
+     "extra_cloud_sent_share": 0.0,
+     "misstated_total": 279.97,
+     "misstated_covered_share": 0.0,
+     "leaks_in_top_accepted_at_T4": 0
+    },
+    {
+     "x": 0.1,
+     "considered": 16,
+     "rechecked": 15,
+     "leaks_caught": 0,
+     "leaks_total": 8,
+     "false_flags": 0,
+     "extra_review_per_1k": 0.0,
+     "extra_usd_per_1k": 0.107,
+     "extra_cloud_sent_share": 0.005,
+     "misstated_total": 279.97,
+     "misstated_covered_share": 0.0,
+     "leaks_in_top_accepted_at_T4": 0
+    },
+    {
+     "x": 0.2,
+     "considered": 31,
+     "rechecked": 28,
+     "leaks_caught": 1,
+     "leaks_total": 8,
+     "false_flags": 0,
+     "extra_review_per_1k": 5.0,
+     "extra_usd_per_1k": 0.199,
+     "extra_cloud_sent_share": 0.005,
+     "misstated_total": 279.97,
+     "misstated_covered_share": 0.0003,
+     "leaks_in_top_accepted_at_T4": 0
+    },
+    {
+     "x": 0.3,
+     "considered": 47,
+     "rechecked": 43,
+     "leaks_caught": 1,
+     "leaks_total": 8,
+     "false_flags": 1,
+     "extra_review_per_1k": 10.0,
+     "extra_usd_per_1k": 0.304,
+     "extra_cloud_sent_share": 0.025,
+     "misstated_total": 279.97,
+     "misstated_covered_share": 0.0003,
+     "leaks_in_top_accepted_at_T4": 0
+    },
+    {
+     "x": 1.0,
+     "considered": 157,
+     "rechecked": 150,
+     "leaks_caught": 5,
+     "leaks_total": 8,
+     "false_flags": 3,
+     "extra_review_per_1k": 40.0,
+     "extra_usd_per_1k": 1.049,
+     "extra_cloud_sent_share": 0.16,
+     "misstated_total": 279.97,
+     "misstated_covered_share": 1.0,
+     "leaks_in_top_accepted_at_T4": 0
+    }
+   ]
+  },
+  "local_only": {
+   "policy": "local_only",
+   "accepted": 136,
+   "leaks": 9,
+   "leaks_by_tier": {
+    "T1": 4,
+    "T2": 5
+   },
+   "random_audit": [
+    {
+     "p": 0.02,
+     "audited": 3,
+     "audited_per_1k": 15.0,
+     "expected_leaks_caught": 0.2,
+     "share_of_leaks_caught": 0.0221,
+     "p_find_at_least_one": 0.187
+    },
+    {
+     "p": 0.05,
+     "audited": 7,
+     "audited_per_1k": 35.0,
+     "expected_leaks_caught": 0.46,
+     "share_of_leaks_caught": 0.0515,
+     "p_find_at_least_one": 0.3877
+    },
+    {
+     "p": 0.1,
+     "audited": 14,
+     "audited_per_1k": 70.0,
+     "expected_leaks_caught": 0.93,
+     "share_of_leaks_caught": 0.1029,
+     "p_find_at_least_one": 0.6356
+    }
+   ],
+   "misstated_total": 280.11,
+   "leaks_under_10_cents": 1
+  }
+ }
+}

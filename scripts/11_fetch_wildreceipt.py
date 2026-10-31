@@ -63,12 +63,41 @@ def field_text(ann: list[dict], label: int) -> str | None:
     return " ".join(w[2] for w in words)
 
 
+def renormalize(path: Path) -> None:
+    """Re-derive gt from gt_raw with the current normalizer for the receipts already in the manifest.
+    The sample is not redrawn: the held-out set stays the same 200 receipts."""
+    rows = [json.loads(l) for l in path.read_text(encoding="utf-8").splitlines() if l.strip()]
+    changed = []
+    for r in rows:
+        raw, df = r["gt_raw"], r.get("day_first", False)
+        new = {"company": norm_company(raw["company"]), "date": norm_date(raw["date"], day_first=df), "total": norm_total(raw["total"])}
+        for k in ("company", "date", "total"):
+            if new[k] != r["gt"].get(k):
+                changed.append((r["key"], k, r["gt"].get(k), new[k], raw[k]))
+        r["gt"] = new
+    path.write_text("".join(json.dumps(r, ensure_ascii=False) + "\n" for r in rows), encoding="utf-8")
+    if changed:      # keep a record of every label that moved (read by report_numbers.py)
+        from datetime import date as _date
+        with path.with_name(path.stem + "_gt_corrections.jsonl").open("a", encoding="utf-8") as fh:
+            for key, k, was, now, printed in changed:
+                fh.write(json.dumps({"key": key, "field": k, "was": was, "now": now, "printed": printed,
+                                     "date": _date.today().isoformat(), "cause": "normalizer change"}, ensure_ascii=False) + "\n")
+    print(f"{path.name}: {len(changed)} ground-truth values changed")
+    for c in changed:
+        print("  {} {}: {!r} -> {!r} (printed {!r})".format(*c))
+
+
 def main() -> None:
     ap = argparse.ArgumentParser()
     ap.add_argument("--n", type=int, default=200)
+    ap.add_argument("--renormalize", action="store_true",
+                    help="only re-derive gt from gt_raw in the existing manifest (same receipts)")
     ap.add_argument("--seed", type=int, default=20261101)
     ap.add_argument("--name", default="wild200")
     args = ap.parse_args()
+    if args.renormalize:
+        renormalize(MANIFEST_DIR / f"{args.name}.jsonl")
+        return
 
     rows = []
     for split in ("train", "test"):

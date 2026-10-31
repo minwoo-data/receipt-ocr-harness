@@ -14,9 +14,10 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT / "src"))
 from harness import palette as PAL  # noqa: E402
-from harness.report_numbers import numbers  # noqa: E402
+from harness.report_numbers import corrections, numbers  # noqa: E402
 
 V = numbers()
+CORR = corrections(V)
 REPO = "https://github.com/minwoo-data/receipt-ocr-harness"
 ASSETS = ROOT / "docs" / "assets"
 ASSETS.mkdir(parents=True, exist_ok=True)
@@ -130,6 +131,11 @@ figcaption {{ font-size:14px; color:var(--fg2); margin-top:6px; }}
 .cmp th {{ font-size:12px; letter-spacing:0.06em; text-transform:uppercase; color:var(--fg2); font-weight:normal; }}
 .cmp td b {{ font-size:20px; }} .cmp td span {{ display:block; color:var(--fg2); font-size:14px; }}
 .tablewrap {{ overflow-x:auto; }}
+.notice {{ border-left:4px solid var(--t3); padding:6px 10px; margin:14px 0 0; font-size:15px; background:var(--zone-cloud); max-width:68ch; }}
+.notice a {{ color:var(--fg); font-weight:bold; }}
+h3 {{ font-size:18px; margin:22px 0 6px; }}
+.cmp.small td, .cmp.small th {{ padding:6px 6px; font-size:15px; }}
+details {{ margin:8px 0 12px; }} summary {{ cursor:pointer; font-weight:bold; }}
 footer {{ margin-top:44px; padding-top:12px; border-top:1px solid var(--rule); font-size:13px; color:var(--fg2); display:grid; gap:8px; }}
 footer a, p a {{ color:var(--accent); }}
 a:focus-visible {{ outline:2px solid var(--accent); outline-offset:2px; }}
@@ -155,7 +161,9 @@ page = f"""<!doctype html>
     <a href="#trust"><span>1</span>Can you trust what an LLM reads?</a>
     <a href="#cloud"><span>2</span>When should it call the cloud?</a>
     <a href="#local"><span>3</span>What if the data can't leave?</a>
+    <a href="#after"><span>+</span>After the poster: error bars, people's time, misses</a>
   </nav>
+  {f'<p class="notice">Numbers on this page were corrected after the poster was printed (a date and amount parsing fix, mostly on the phone photos). <a href="#correction">What changed</a></p>' if CORR else ''}
 </header>
 
 <h2 id="how">How it works</h2>
@@ -195,11 +203,44 @@ page = f"""<!doctype html>
   <tr><td>Scans</td><td><b>{V['precA']}</b><span>{V['revA']} to people · ${V['costA']}/1k</span></td><td><b>{V['precB']}</b><span>{V['revBi']} to people · $0 · {V['latB']} s</span></td></tr>
   <tr><td>Photos</td><td><b>{V['wA']}</b><span>{V['wArev']} to people</span></td><td><b>{V['wB']}</b><span>{V['wBrev']} to people</span></td></tr>
 </table></div>
-<p>On phone photos the two modes match on accuracy and differ only in review load; on scans local only gives up {V['scan_gap']} points. <b>Keeping data in costs mostly people's time.</b></p>
+<p>On phone photos the two modes are within sampling noise of each other ({V['wgapB']} points, 95% interval {V['wgapB_ci']}) and differ in review load; on scans local only gives up {V['scan_gap']} points. <b>Keeping data in costs mostly people's time.</b></p>
 <p>In cloud mode the image leaves the machine at one step only; every check and routing decision runs locally.</p>
 <p>Check rules are per domain: a check tuned on scan errors caught {V['d_caught']} of {V['leak_other']} there with no false alarms, but {V['d_wild_caught_rcpt']} receipt on held-out photos, with {V['d_wild_false_rcpt']} false alarm.</p>
 <div class="lbl">Next</div>
-<p>10k receipts; invoices and statements; layout features for the hand-off decision; a weekly drift metric.</p>
+<p>10k receipts; invoices and statements; layout features for the hand-off decision; a weekly drift metric; masking personal data before the cloud step.</p>
+
+<h2 id="after"><span class="n">+</span>After the poster</h2>
+<p class="ans">Error bars, people's time, and the misses.</p>
+
+<h3>How sure are these numbers?</h3>
+<p>One run, so the measurable uncertainty is which receipts were sampled: 95% bootstrap intervals, {V['boot_B']} resamples, policies compared on the same resample.</p>
+<div class="tablewrap"><table class="cmp small">
+  <tr><th></th><th>Harness</th><th>All cloud</th><th>Local only</th></tr>
+  <tr><td>Scans</td><td><b>{V['precA']}</b><span>{V['ciA']}</span></td><td><b>{V['aT3']}</b><span>{V['ciT3']}</span></td><td><b>{V['precB']}</b><span>{V['ciB']}</span></td></tr>
+  <tr><td>Photos</td><td><b>{V['wA']}</b><span>{V['wciA']}</span></td><td><b>{V['wT3']}</b><span>{V['wciT3']}</span></td><td><b>{V['wB']}</b><span>{V['wciB']}</span></td></tr>
+</table></div>
+<p>On scans the {V['cloud_gap']}-point gap to all-cloud is {'inside the noise' if V['gapA_zero'] else 'outside the noise'} (interval {V['gapA_ci']} points); the {V['scan_gap']}-point gap to local only is {'inside the noise' if V['gapB_zero'] else 'real'} ({V['gapB_ci']}). <b>The harness matches all-cloud accuracy; it does not beat it.</b></p>
+
+<h3>Counting people's time</h3>
+<p>Assumption, not measurement: {V['review_min']} min per reviewed receipt at ${V['review_wage']}/h (${V['review_usd']} per review). Per 1,000 scanned receipts:</p>
+<div class="tablewrap"><table class="cmp small">
+  <tr><th></th><th>API</th><th>People</th><th>Total</th></tr>
+  <tr><td>All cloud, cheap</td><td>${V['cT3']}</td><td>$0.00</td><td><b>${V['totT3']}</b></td></tr>
+  <tr><td>Harness</td><td>${V['costA']}</td><td>${V['peopleA']}</td><td><b>${V['totA']}</b></td></tr>
+  <tr><td>Local only</td><td>$0.00</td><td>${V['peopleB']}</td><td><b>${V['totB']}</b></td></tr>
+</table></div>
+<p>The API saving is real but small: a review would have to cost under ${V['breakeven_usd']} ({V['breakeven_s']} s of a person's time) for the harness to be cheaper overall. <b>Its case is where the images go ({V['t1i']} stay on the machine), not price.</b></p>
+
+<h3>What catches the misses?</h3>
+<p>In cloud mode {V['bs_leaksA']} of {V['n']} scans are wrong yet pass every check; {V['bs_small']} are off by under 0.10. A random 5% audit catches about 5% of them; its job is to measure the miss rate (in this run it finds at least one with probability {V['bs_audit'][1]['p_find']}). Re-reading the top 20% by amount with the strong model finds {V['bs_recheck'][2]['caught']}; re-reading everything finds {V['bs_recheck'][-1]['caught']} of {V['bs_recheck'][-1]['of']} for ${V['bs_recheck'][-1]['usd_1k']} more per 1,000.</p>
+
+<h3 id="correction">Corrected after printing</h3>
+<p>The parser that turns printed text into dates and amounts misread four-digit totals without a comma (<code>1039.00</code> as 103), decimal commas, <code>Jul28'15</code> years and dates glued to a time. It fixed {V['wild_fixed_values']} answer-key labels on {V['wild_fixed_receipts']} phone photos (scans: none) and T1's reading of dates. T1's own date is now also checked before it is accepted. The poster PDF is unchanged.</p>
+<details{' open' if len(CORR) <= 6 else ''}><summary>{len(CORR)} printed numbers that moved</summary>
+<div class="tablewrap"><table class="cmp small">
+  <tr><th>Number</th><th>Printed</th><th>Now</th></tr>
+  {''.join(f'<tr><td>{e(r["label"])}</td><td>{e(r["printed"])}</td><td><b>{e(r["now"])}</b></td></tr>' for r in CORR)}
+</table></div></details>
 
 <footer>
   <div>{V['n']} scanned receipts (ICDAR 2019 SROIE) · {V['n_wild']} phone photos (WildReceipt) · {V['synth_n']} synthetic adversarial receipts. Date and total must match exactly; scoring is code, never a model. Run of 2026-10-31.</div>

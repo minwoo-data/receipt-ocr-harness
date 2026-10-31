@@ -64,6 +64,11 @@ figcaption { font-size:14px; color:var(--fg2); margin-top:6px; }
 .cmp th { font-size:12px; letter-spacing:0.06em; text-transform:uppercase; color:var(--fg2); font-weight:normal; }
 .cmp td b { font-size:20px; } .cmp td span { display:block; color:var(--fg2); font-size:14px; }
 .tablewrap { overflow-x:auto; }
+.notice { border-left:4px solid var(--t3); padding:6px 10px; margin:14px 0 0; font-size:15px; background:var(--zone-cloud); max-width:68ch; }
+.notice a { color:var(--fg); font-weight:bold; }
+h3 { font-size:18px; margin:22px 0 6px; }
+.cmp.small td, .cmp.small th { padding:6px 6px; font-size:15px; }
+details { margin:8px 0 12px; } summary { cursor:pointer; font-weight:bold; }
 footer { margin-top:44px; padding-top:12px; border-top:1px solid var(--rule); font-size:13px; color:var(--fg2); display:grid; gap:8px; }
 footer a, p a { color:var(--accent); }
 a:focus-visible { outline:2px solid var(--accent); outline-offset:2px; }
@@ -83,7 +88,9 @@ a:focus-visible { outline:2px solid var(--accent); outline-offset:2px; }
     <a href="#trust"><span>1</span>Can you trust what an LLM reads?</a>
     <a href="#cloud"><span>2</span>When should it call the cloud?</a>
     <a href="#local"><span>3</span>What if the data can't leave?</a>
+    <a href="#after"><span>+</span>After the poster: error bars, people's time, misses</a>
   </nav>
+  <p class="notice">Numbers on this page were corrected after the poster was printed (a date and amount parsing fix, mostly on the phone photos). <a href="#correction">What changed</a></p>
 </header>
 
 <h2 id="how">How it works</h2>
@@ -93,17 +100,17 @@ a:focus-visible { outline:2px solid var(--accent); outline-offset:2px; }
   <div class="zone local">
     <div class="zl">On this machine · receipts and checks stay here</div>
     <div class="node in"><span class="step ">1</span><b>Receipt image</b><span>file check, resized for the readers</span></div>
-    <div class="node t1"><span class="step ">2</span><b>T1 · Local OCR + rules</b><span>RapidOCR + Tesseract witness</span><span>alone 72.7% · 4.7 s · $0</span></div>
+    <div class="node t1"><span class="step ">2</span><b>T1 · Local OCR + rules</b><span>RapidOCR + Tesseract witness</span><span>alone 77.3% · 4.7 s · $0</span></div>
     <div class="node har"><span class="step ">3</span><b>Harness: router + code checks</b><span>sanitizer · arithmetic · date · two-reader</span><span>model self-confidence never approves</span></div>
     <div class="node t2"><span class="step b">B</span><b>T2 · Local VLM</b><span>Qwen2.5-VL 3B on a 4 GB GPU</span><span>alone 83.0% · 28 s · $0</span><span>local-only mode uses this instead of the cloud</span></div>
     <div class="outs">
-      <div class="node acc nostep"><b>Auto-accept</b><span>cloud mode 95.7% · local only 81.0%</span></div>
-      <div class="node rev"><span class="step ">6</span><b>Human review</b><span>cloud mode 4.3% · local only 19.0%</span></div>
+      <div class="node acc nostep"><b>Auto-accept</b><span>cloud mode 95.7% · local only 81.7%</span></div>
+      <div class="node rev"><span class="step ">6</span><b>Human review</b><span>cloud mode 4.3% · local only 18.3%</span></div>
     </div>
   </div>
   <div class="zone cloud">
     <div class="zl">Google Gemini API · cloud</div>
-    <p class="leave">56.3% of images leave the machine, at step 4 only</p>
+    <p class="leave">55.0% of images leave the machine, at step 4 only</p>
     <div class="node t3"><span class="step ">4</span><b>T3 · Cloud, cheap</b><span>Gemini 3.1 Flash-Lite</span><span>alone 97.3% · 1.8 s · $0.54/1k</span></div>
     <div class="node t4"><span class="step ">5</span><b>T4 · Cloud, strong</b><span>Gemini 3.6 Flash, thinking off</span><span>alone 98.0% · 1.9 s · $1.42/1k</span></div>
     <div class="zone fb">
@@ -112,7 +119,7 @@ a:focus-visible { outline:2px solid var(--accent); outline-offset:2px; }
     </div>
   </div>
 </div>
-<ol class="steps"><li><span class="sn">1</span><span class="sm">Receipt image arrives</span><span class="sa">file check, resized (1,600 px for the cloud, 1,024 px for the local VLM)</span></li><li><span class="sn">2</span><span class="sm">T1 reads every receipt, locally</span><span class="sa">RapidOCR text, Tesseract as a second witness, rules pull vendor / date / total</span></li><li><span class="sn">3</span><span class="sm">T1 sure → auto-accept · 43.7%</span><span class="sa">both OCR readers agree on date and total AND OCR confidence ≥ 0.9</span></li><li><span class="sn">4</span><span class="sm">Not sure → T3 Gemini Flash-Lite · 56.3%</span><span class="sa">the image leaves the machine only for the cloud readers (steps 4 and 5); checks pass → auto-accept (51.7%)</span></li><li><span class="sn">5</span><span class="sm">Checks flag T3 → T4 Gemini Flash · 4.7%</span><span class="sa">zero flags → auto-accept (0.3%)</span></li><li><span class="sn">6</span><span class="sm">Still flagged → human review · 4.3%</span><span class="sa">13 of 300 receipts</span></li><li><span class="sn b">B</span><span class="sm">Local only: step 4 goes to T2 Qwen2.5-VL · 56.3%</span><span class="sa">zero flags → auto-accept (37.3%); flagged → human review (19.0%)</span></li></ol>
+<ol class="steps"><li><span class="sn">1</span><span class="sm">Receipt image arrives</span><span class="sa">file check, resized (1,600 px for the cloud, 1,024 px for the local VLM)</span></li><li><span class="sn">2</span><span class="sm">T1 reads every receipt, locally</span><span class="sa">RapidOCR text, Tesseract as a second witness, rules pull vendor / date / total</span></li><li><span class="sn">3</span><span class="sm">T1 sure → auto-accept · 45.0%</span><span class="sa">both OCR readers agree on date and total AND OCR confidence ≥ 0.9</span></li><li><span class="sn">4</span><span class="sm">Not sure → T3 Gemini Flash-Lite · 55.0%</span><span class="sa">the image leaves the machine only for the cloud readers (steps 4 and 5); checks pass → auto-accept (50.3%)</span></li><li><span class="sn">5</span><span class="sm">Checks flag T3 → T4 Gemini Flash · 4.7%</span><span class="sa">zero flags → auto-accept (0.3%)</span></li><li><span class="sn">6</span><span class="sm">Still flagged → human review · 4.3%</span><span class="sa">13 of 300 receipts</span></li><li><span class="sn b">B</span><span class="sm">Local only: step 4 goes to T2 Qwen2.5-VL · 55.0%</span><span class="sa">zero flags → auto-accept (36.7%); flagged → human review (18.3%)</span></li></ol>
 
 <h2 id="trust"><span class="n">1</span>Can you trust what an LLM reads?</h2>
 <p class="ans">Not its confidence. Check every answer with code.</p>
@@ -134,23 +141,56 @@ a:focus-visible { outline:2px solid var(--accent); outline-offset:2px; }
 <p class="ans">Local first, cloud when the checks fail, people last.</p>
 <figure><div class="img"><a href="assets/fig_outcomes.png" aria-label="Open the full-size chart"><img src="assets/fig_outcomes.png" alt="Stacked bars: where 300 scanned receipts end up under each routing policy, with accepted-answer accuracy and cost per 1,000"></a></div>
 <figcaption>Tap a chart to open it full size. Where 300 scans end up under each policy, accepted-answer accuracy and USD per 1,000.</figcaption></figure>
-<p><b>Harness (router + 4 checks): within 0.4 points of all-cloud at 31% lower cost, and 44% of receipts never leave the machine.</b> <b>96.9% correct</b> with 56% of receipts sent to the cloud and 4.3% to people, $0.37 per 1,000 (all cloud: 97.3%, $0.54). At 2026-10 prices the strong model adds 0.7 points for 2.6× the price: <b>escalate to people, not to a bigger model.</b></p>
+<p><b>Harness (router + 4 checks): within 0.4 points of all-cloud at 33% lower cost, and 45% of receipts never leave the machine.</b> <b>96.9% correct</b> with 55% of receipts sent to the cloud and 4.3% to people, $0.36 per 1,000 (all cloud: 97.3%, $0.54). At 2026-10 prices the strong model adds 0.7 points for 2.6× the price: <b>escalate to people, not to a bigger model.</b></p>
 <figure><div class="img"><a href="assets/fig_sweep.png" aria-label="Open the full-size chart"><img src="assets/fig_sweep.png" alt="Escalation curve: share of receipts sent to the cloud against accepted-answer accuracy, with the oracle router marked"></a></div>
 <figcaption>Share of receipts sent to the cloud vs accuracy as the hand-off threshold moves; ★ = a router that knew the answers.</figcaption></figure>
-<p>A router that knew the answers would send only 27% to the cloud for 98.7%; the router (agree + confidence rule, no checks) sends 56% for 95.7%. <b>The hard part is knowing when to call the cloud, not the model.</b> A learned &ldquo;call the cloud?&rdquo; score (logistic regression, 14 features, out-of-fold AUC 0.89) was no better than the router at the same cloud share, so the rule stayed.</p>
+<p>A router that knew the answers would send only 23% to the cloud for 98.7%; the router (agree + confidence rule, no checks) sends 55% for 95.7%. <b>The hard part is knowing when to call the cloud, not the model.</b> A learned &ldquo;call the cloud?&rdquo; score (logistic regression, 14 features, out-of-fold AUC 0.84) was no better than the router at the same cloud share, so the rule stayed.</p>
 
 <h2 id="local"><span class="n">3</span>What if the data can't leave?</h2>
 <p class="ans">Run local-only: same checks, more human review.</p>
 <div class="tablewrap"><table class="cmp">
   <tr><th></th><th>Cloud harness</th><th>Local only</th></tr>
-  <tr><td>Scans</td><td><b>96.9%</b><span>4.3% to people · $0.37/1k</span></td><td><b>93.4%</b><span>19% to people · $0 · 27 s</span></td></tr>
-  <tr><td>Photos</td><td><b>88.5%</b><span>21.5% to people</span></td><td><b>89.1%</b><span>31.5% to people</span></td></tr>
+  <tr><td>Scans</td><td><b>96.9%</b><span>4.3% to people · $0.36/1k</span></td><td><b>93.5%</b><span>18% to people · $0 · 25 s</span></td></tr>
+  <tr><td>Photos</td><td><b>94.9%</b><span>21.5% to people</span></td><td><b>93.4%</b><span>32.0% to people</span></td></tr>
 </table></div>
-<p>On phone photos the two modes match on accuracy and differ only in review load; on scans local only gives up 3.5 points. <b>Keeping data in costs mostly people's time.</b></p>
+<p>On phone photos the two modes are within sampling noise of each other (+1.5 points, 95% interval −0.7 to +4.1) and differ in review load; on scans local only gives up 3.4 points. <b>Keeping data in costs mostly people's time.</b></p>
 <p>In cloud mode the image leaves the machine at one step only; every check and routing decision runs locally.</p>
 <p>Check rules are per domain: a check tuned on scan errors caught 10 of 16 there with no false alarms, but 1 receipt on held-out photos, with 1 false alarm.</p>
 <div class="lbl">Next</div>
-<p>10k receipts; invoices and statements; layout features for the hand-off decision; a weekly drift metric.</p>
+<p>10k receipts; invoices and statements; layout features for the hand-off decision; a weekly drift metric; masking personal data before the cloud step.</p>
+
+<h2 id="after"><span class="n">+</span>After the poster</h2>
+<p class="ans">Error bars, people's time, and the misses.</p>
+
+<h3>How sure are these numbers?</h3>
+<p>One run, so the measurable uncertainty is which receipts were sampled: 95% bootstrap intervals, 10,000 resamples, policies compared on the same resample.</p>
+<div class="tablewrap"><table class="cmp small">
+  <tr><th></th><th>Harness</th><th>All cloud</th><th>Local only</th></tr>
+  <tr><td>Scans</td><td><b>96.9%</b><span>94.7–98.6%</span></td><td><b>97.3%</b><span>95.3–99.0%</span></td><td><b>93.5%</b><span>90.2–96.3%</span></td></tr>
+  <tr><td>Photos</td><td><b>94.9%</b><span>91.3–98.1%</span></td><td><b>93.5%</b><span>90.0–96.5%</span></td><td><b>93.4%</b><span>88.9–97.1%</span></td></tr>
+</table></div>
+<p>On scans the 0.4-point gap to all-cloud is inside the noise (interval −1.9 to +2.9 points); the 3.4-point gap to local only is real (+1.2 to +5.9). <b>The harness matches all-cloud accuracy; it does not beat it.</b></p>
+
+<h3>Counting people's time</h3>
+<p>Assumption, not measurement: 1 min per reviewed receipt at $20/h ($0.33 per review). Per 1,000 scanned receipts:</p>
+<div class="tablewrap"><table class="cmp small">
+  <tr><th></th><th>API</th><th>People</th><th>Total</th></tr>
+  <tr><td>All cloud, cheap</td><td>$0.54</td><td>$0.00</td><td><b>$0.54</b></td></tr>
+  <tr><td>Harness</td><td>$0.36</td><td>$14.43</td><td><b>$14.80</b></td></tr>
+  <tr><td>Local only</td><td>$0.00</td><td>$61.10</td><td><b>$61.10</b></td></tr>
+</table></div>
+<p>The API saving is real but small: a review would have to cost under $0.004 (0.7 s of a person's time) for the harness to be cheaper overall. <b>Its case is where the images go (45% stay on the machine), not price.</b></p>
+
+<h3>What catches the misses?</h3>
+<p>In cloud mode 9 of 300 scans are wrong yet pass every check; 7 are off by under 0.10. A random 5% audit catches about 5% of them; its job is to measure the miss rate (in this run it finds at least one with probability 37%). Re-reading the top 20% by amount with the strong model finds 0; re-reading everything finds 7 of 9 for $1.35 more per 1,000.</p>
+
+<h3 id="correction">Corrected after printing</h3>
+<p>The parser that turns printed text into dates and amounts misread four-digit totals without a comma (<code>1039.00</code> as 103), decimal commas, <code>Jul28'15</code> years and dates glued to a time. It fixed 15 answer-key labels on 14 phone photos (scans: none) and T1's reading of dates. T1's own date is now also checked before it is accepted. The poster PDF is unchanged.</p>
+<details><summary>19 printed numbers that moved</summary>
+<div class="tablewrap"><table class="cmp small">
+  <tr><th>Number</th><th>Printed</th><th>Now</th></tr>
+  <tr><td>T1 alone (RapidOCR + rules), scans</td><td>72.7%</td><td><b>77.3%</b></td></tr><tr><td>Harness: accepted at T1, never left the machine, scans</td><td>43.7%</td><td><b>45.0%</b></td></tr><tr><td>Harness: sent to the cloud, scans</td><td>56.3%</td><td><b>55.0%</b></td></tr><tr><td>Harness: USD per 1,000, scans</td><td>0.37</td><td><b>0.36</b></td></tr><tr><td>Harness: cost below all-cloud, scans</td><td>31%</td><td><b>33%</b></td></tr><tr><td>Oracle router: sent to the cloud, scans</td><td>27.3%</td><td><b>22.7%</b></td></tr><tr><td>Router: sent to the cloud, scans</td><td>56.3%</td><td><b>55.0%</b></td></tr><tr><td>Local only: accepted answers correct, scans</td><td>93.4%</td><td><b>93.5%</b></td></tr><tr><td>Local only: sent to people, scans</td><td>19.0%</td><td><b>18.3%</b></td></tr><tr><td>Local only below the harness, scans (points)</td><td>3.5</td><td><b>3.4</b></td></tr><tr><td>T1 alone, photos</td><td>55.0%</td><td><b>63.0%</b></td></tr><tr><td>Local VLM alone, photos</td><td>81.0%</td><td><b>86.5%</b></td></tr><tr><td>Flash-Lite alone, photos</td><td>86.5%</td><td><b>93.5%</b></td></tr><tr><td>3.6 Flash alone, photos</td><td>86.5%</td><td><b>93.5%</b></td></tr><tr><td>Harness: accepted answers correct, photos</td><td>88.5%</td><td><b>94.9%</b></td></tr><tr><td>Local only: accepted answers correct, photos</td><td>89.1%</td><td><b>93.4%</b></td></tr><tr><td>Local only: sent to people, photos</td><td>31.5%</td><td><b>32.0%</b></td></tr><tr><td>Learned hand-off score, AUC (scans, out of fold)</td><td>0.89</td><td><b>0.84</b></td></tr><tr><td>Learned score at the router&#x27;s cloud share, scans</td><td>95.7%</td><td><b>94.7%</b></td></tr>
+</table></div></details>
 
 <footer>
   <div>300 scanned receipts (ICDAR 2019 SROIE) · 200 phone photos (WildReceipt) · 43 synthetic adversarial receipts. Date and total must match exactly; scoring is code, never a model. Run of 2026-10-31.</div>

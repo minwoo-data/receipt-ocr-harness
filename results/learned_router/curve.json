@@ -1,1824 +1,1824 @@
 {
  "headline": {
-  "router_cloud_share": 0.5633,
+  "router_cloud_share": 0.55,
   "router_precision": 0.9567,
-  "precision_at_router_share": 0.9566666666666667,
-  "share_at_router_share": 0.56,
-  "cost_at_router_share": 0.3,
-  "cloud_share_at_router_precision": 0.61,
+  "precision_at_router_share": 0.9466666666666667,
+  "share_at_router_share": 0.55,
+  "cost_at_router_share": 0.294,
+  "cloud_share_at_router_precision": 0.6633333333333333,
   "win_precision": false,
   "win_share": false,
-  "oracle_cloud_share": 0.2733,
+  "oracle_cloud_share": 0.2267,
   "oracle_precision": 0.9867,
-  "auc": 0.8854329827701947,
+  "auc": 0.8424822515212981,
   "n": 300,
   "mode": "5-fold out-of-fold"
  },
  "points": [
   {
-   "threshold": 0.004667464358042622,
+   "threshold": 0.009398091060186835,
    "cloud_share": 1.0,
    "accepted_precision": 0.9733333333333334,
    "cost_usd_per_1k": 0.535
   },
   {
-   "threshold": 0.009598382742494117,
+   "threshold": 0.01181433443833522,
    "cloud_share": 0.9966666666666667,
    "accepted_precision": 0.9733333333333334,
    "cost_usd_per_1k": 0.533
   },
   {
-   "threshold": 0.010418850067914261,
+   "threshold": 0.013048374523945219,
    "cloud_share": 0.9933333333333333,
    "accepted_precision": 0.9733333333333334,
    "cost_usd_per_1k": 0.531
   },
   {
-   "threshold": 0.01121679269249122,
+   "threshold": 0.013493033836557384,
    "cloud_share": 0.99,
    "accepted_precision": 0.9733333333333334,
-   "cost_usd_per_1k": 0.53
+   "cost_usd_per_1k": 0.529
   },
   {
-   "threshold": 0.012802324495946165,
+   "threshold": 0.013901351570789951,
    "cloud_share": 0.9866666666666667,
    "accepted_precision": 0.9733333333333334,
    "cost_usd_per_1k": 0.528
   },
   {
-   "threshold": 0.013867089513237285,
+   "threshold": 0.014760518175710302,
    "cloud_share": 0.9833333333333333,
    "accepted_precision": 0.9733333333333334,
    "cost_usd_per_1k": 0.526
   },
   {
-   "threshold": 0.01665973266043106,
+   "threshold": 0.014961313765886502,
    "cloud_share": 0.98,
-   "accepted_precision": 0.9733333333333334,
+   "accepted_precision": 0.97,
    "cost_usd_per_1k": 0.524
   },
   {
-   "threshold": 0.017152956658027796,
+   "threshold": 0.015323524891408761,
    "cloud_share": 0.9766666666666667,
    "accepted_precision": 0.97,
    "cost_usd_per_1k": 0.522
   },
   {
-   "threshold": 0.01769268276293894,
+   "threshold": 0.015685844624995667,
    "cloud_share": 0.9733333333333334,
    "accepted_precision": 0.97,
    "cost_usd_per_1k": 0.521
   },
   {
-   "threshold": 0.018152030346023324,
+   "threshold": 0.016743856905113184,
    "cloud_share": 0.97,
    "accepted_precision": 0.97,
    "cost_usd_per_1k": 0.519
   },
   {
-   "threshold": 0.018504875126905154,
+   "threshold": 0.016976367762376956,
    "cloud_share": 0.9666666666666667,
    "accepted_precision": 0.97,
    "cost_usd_per_1k": 0.517
   },
   {
-   "threshold": 0.018598370431678533,
+   "threshold": 0.017584165037995453,
    "cloud_share": 0.9633333333333334,
    "accepted_precision": 0.97,
    "cost_usd_per_1k": 0.515
   },
   {
-   "threshold": 0.018819943663218985,
+   "threshold": 0.01761336193006856,
    "cloud_share": 0.96,
-   "accepted_precision": 0.97,
-   "cost_usd_per_1k": 0.514
+   "accepted_precision": 0.9666666666666667,
+   "cost_usd_per_1k": 0.513
   },
   {
-   "threshold": 0.01896000149069359,
+   "threshold": 0.01762049449389661,
    "cloud_share": 0.9566666666666667,
-   "accepted_precision": 0.97,
+   "accepted_precision": 0.9666666666666667,
    "cost_usd_per_1k": 0.512
   },
   {
-   "threshold": 0.019120598513295083,
+   "threshold": 0.017642452157069805,
    "cloud_share": 0.9533333333333334,
-   "accepted_precision": 0.97,
+   "accepted_precision": 0.9666666666666667,
    "cost_usd_per_1k": 0.51
   },
   {
-   "threshold": 0.02047850268830395,
+   "threshold": 0.0178365552828618,
    "cloud_share": 0.95,
-   "accepted_precision": 0.97,
+   "accepted_precision": 0.9666666666666667,
    "cost_usd_per_1k": 0.508
   },
   {
-   "threshold": 0.020760041469086186,
+   "threshold": 0.01835240559397401,
    "cloud_share": 0.9466666666666667,
-   "accepted_precision": 0.97,
-   "cost_usd_per_1k": 0.507
+   "accepted_precision": 0.9666666666666667,
+   "cost_usd_per_1k": 0.506
   },
   {
-   "threshold": 0.02115022653435721,
+   "threshold": 0.01874470117125966,
    "cloud_share": 0.9433333333333334,
-   "accepted_precision": 0.97,
-   "cost_usd_per_1k": 0.505
+   "accepted_precision": 0.9666666666666667,
+   "cost_usd_per_1k": 0.504
   },
   {
-   "threshold": 0.02287643711120537,
+   "threshold": 0.0190095787904929,
    "cloud_share": 0.94,
-   "accepted_precision": 0.97,
+   "accepted_precision": 0.9666666666666667,
    "cost_usd_per_1k": 0.503
   },
   {
-   "threshold": 0.022923885274489537,
+   "threshold": 0.019063769820168785,
    "cloud_share": 0.9366666666666666,
-   "accepted_precision": 0.97,
+   "accepted_precision": 0.9666666666666667,
    "cost_usd_per_1k": 0.501
   },
   {
-   "threshold": 0.023399348627172994,
+   "threshold": 0.019177041586829792,
    "cloud_share": 0.9333333333333333,
-   "accepted_precision": 0.97,
-   "cost_usd_per_1k": 0.5
+   "accepted_precision": 0.9666666666666667,
+   "cost_usd_per_1k": 0.499
   },
   {
-   "threshold": 0.02341272688365743,
+   "threshold": 0.019783971427137104,
    "cloud_share": 0.93,
-   "accepted_precision": 0.97,
-   "cost_usd_per_1k": 0.498
+   "accepted_precision": 0.9666666666666667,
+   "cost_usd_per_1k": 0.497
   },
   {
-   "threshold": 0.023805267014133193,
+   "threshold": 0.019978165292350126,
    "cloud_share": 0.9266666666666666,
-   "accepted_precision": 0.97,
-   "cost_usd_per_1k": 0.496
+   "accepted_precision": 0.9666666666666667,
+   "cost_usd_per_1k": 0.495
   },
   {
-   "threshold": 0.023807907162229337,
+   "threshold": 0.020551050864700757,
    "cloud_share": 0.9233333333333333,
-   "accepted_precision": 0.97,
+   "accepted_precision": 0.9666666666666667,
    "cost_usd_per_1k": 0.494
   },
   {
-   "threshold": 0.023866377021699994,
+   "threshold": 0.020716164308277378,
    "cloud_share": 0.92,
-   "accepted_precision": 0.97,
+   "accepted_precision": 0.9666666666666667,
    "cost_usd_per_1k": 0.492
   },
   {
-   "threshold": 0.024806675023157056,
+   "threshold": 0.021403539114805727,
    "cloud_share": 0.9166666666666666,
-   "accepted_precision": 0.97,
-   "cost_usd_per_1k": 0.491
+   "accepted_precision": 0.9666666666666667,
+   "cost_usd_per_1k": 0.49
   },
   {
-   "threshold": 0.025885890379290663,
+   "threshold": 0.022833574335809778,
    "cloud_share": 0.9133333333333333,
-   "accepted_precision": 0.97,
-   "cost_usd_per_1k": 0.489
+   "accepted_precision": 0.9666666666666667,
+   "cost_usd_per_1k": 0.488
   },
   {
-   "threshold": 0.0267361367869636,
+   "threshold": 0.024861542257716827,
    "cloud_share": 0.91,
-   "accepted_precision": 0.97,
+   "accepted_precision": 0.9666666666666667,
    "cost_usd_per_1k": 0.487
   },
   {
-   "threshold": 0.027242134387561186,
+   "threshold": 0.025105839903357265,
    "cloud_share": 0.9066666666666666,
-   "accepted_precision": 0.97,
+   "accepted_precision": 0.9666666666666667,
    "cost_usd_per_1k": 0.485
   },
   {
-   "threshold": 0.027413400886871917,
+   "threshold": 0.0254432711222751,
    "cloud_share": 0.9033333333333333,
-   "accepted_precision": 0.97,
-   "cost_usd_per_1k": 0.484
+   "accepted_precision": 0.9666666666666667,
+   "cost_usd_per_1k": 0.483
   },
   {
-   "threshold": 0.027436454049128724,
+   "threshold": 0.025602879858102553,
    "cloud_share": 0.9,
-   "accepted_precision": 0.97,
-   "cost_usd_per_1k": 0.482
+   "accepted_precision": 0.9666666666666667,
+   "cost_usd_per_1k": 0.481
   },
   {
-   "threshold": 0.02789272793497644,
+   "threshold": 0.025846502424884326,
    "cloud_share": 0.8966666666666666,
-   "accepted_precision": 0.97,
-   "cost_usd_per_1k": 0.48
+   "accepted_precision": 0.9666666666666667,
+   "cost_usd_per_1k": 0.479
   },
   {
-   "threshold": 0.02797013150193795,
+   "threshold": 0.02610728590697918,
    "cloud_share": 0.8933333333333333,
-   "accepted_precision": 0.97,
+   "accepted_precision": 0.9666666666666667,
    "cost_usd_per_1k": 0.478
   },
   {
-   "threshold": 0.028555654231650716,
+   "threshold": 0.026523363550190037,
    "cloud_share": 0.89,
-   "accepted_precision": 0.97,
+   "accepted_precision": 0.9666666666666667,
    "cost_usd_per_1k": 0.476
   },
   {
-   "threshold": 0.028752702244973165,
+   "threshold": 0.027423180443801796,
    "cloud_share": 0.8866666666666667,
-   "accepted_precision": 0.97,
-   "cost_usd_per_1k": 0.475
+   "accepted_precision": 0.9666666666666667,
+   "cost_usd_per_1k": 0.474
   },
   {
-   "threshold": 0.029422697723577487,
+   "threshold": 0.027581555722371535,
    "cloud_share": 0.8833333333333333,
-   "accepted_precision": 0.97,
-   "cost_usd_per_1k": 0.473
+   "accepted_precision": 0.9666666666666667,
+   "cost_usd_per_1k": 0.472
   },
   {
-   "threshold": 0.029553044847709996,
+   "threshold": 0.028242504235152868,
    "cloud_share": 0.88,
-   "accepted_precision": 0.97,
+   "accepted_precision": 0.9666666666666667,
    "cost_usd_per_1k": 0.471
   },
   {
-   "threshold": 0.030017148918053817,
+   "threshold": 0.028300186570570093,
    "cloud_share": 0.8766666666666667,
-   "accepted_precision": 0.97,
+   "accepted_precision": 0.9666666666666667,
    "cost_usd_per_1k": 0.469
   },
   {
-   "threshold": 0.030070904617999866,
+   "threshold": 0.02887621562762898,
    "cloud_share": 0.8733333333333333,
-   "accepted_precision": 0.97,
-   "cost_usd_per_1k": 0.468
+   "accepted_precision": 0.9666666666666667,
+   "cost_usd_per_1k": 0.467
   },
   {
-   "threshold": 0.03074185146354288,
+   "threshold": 0.029286586694904256,
    "cloud_share": 0.87,
-   "accepted_precision": 0.97,
-   "cost_usd_per_1k": 0.466
+   "accepted_precision": 0.9666666666666667,
+   "cost_usd_per_1k": 0.465
   },
   {
-   "threshold": 0.030995398657809235,
+   "threshold": 0.029696708517120023,
    "cloud_share": 0.8666666666666667,
-   "accepted_precision": 0.97,
+   "accepted_precision": 0.9666666666666667,
    "cost_usd_per_1k": 0.464
   },
   {
-   "threshold": 0.03111701650795884,
+   "threshold": 0.029913865554079745,
    "cloud_share": 0.8633333333333333,
-   "accepted_precision": 0.97,
+   "accepted_precision": 0.9666666666666667,
    "cost_usd_per_1k": 0.462
   },
   {
-   "threshold": 0.03177393329001551,
+   "threshold": 0.029967790941305857,
    "cloud_share": 0.86,
-   "accepted_precision": 0.97,
+   "accepted_precision": 0.9666666666666667,
    "cost_usd_per_1k": 0.46
   },
   {
-   "threshold": 0.03216231684874192,
+   "threshold": 0.03055494207201844,
    "cloud_share": 0.8566666666666667,
    "accepted_precision": 0.9666666666666667,
-   "cost_usd_per_1k": 0.459
+   "cost_usd_per_1k": 0.458
   },
   {
-   "threshold": 0.03263884712275161,
+   "threshold": 0.030870056895418652,
    "cloud_share": 0.8533333333333334,
    "accepted_precision": 0.9666666666666667,
-   "cost_usd_per_1k": 0.457
+   "cost_usd_per_1k": 0.456
   },
   {
-   "threshold": 0.03285014000934142,
+   "threshold": 0.030926504256021708,
    "cloud_share": 0.85,
    "accepted_precision": 0.9666666666666667,
    "cost_usd_per_1k": 0.455
   },
   {
-   "threshold": 0.03288146449447332,
+   "threshold": 0.03129528095756716,
    "cloud_share": 0.8466666666666667,
    "accepted_precision": 0.9666666666666667,
    "cost_usd_per_1k": 0.453
   },
   {
-   "threshold": 0.033051674689874355,
+   "threshold": 0.03135268019003574,
    "cloud_share": 0.8433333333333334,
    "accepted_precision": 0.9666666666666667,
    "cost_usd_per_1k": 0.451
   },
   {
-   "threshold": 0.03452726821630517,
+   "threshold": 0.031361013379441326,
    "cloud_share": 0.84,
-   "accepted_precision": 0.9633333333333334,
-   "cost_usd_per_1k": 0.45
+   "accepted_precision": 0.9666666666666667,
+   "cost_usd_per_1k": 0.449
   },
   {
-   "threshold": 0.03456369369928607,
+   "threshold": 0.03214794968050906,
    "cloud_share": 0.8366666666666667,
-   "accepted_precision": 0.9633333333333334,
+   "accepted_precision": 0.9666666666666667,
    "cost_usd_per_1k": 0.448
   },
   {
-   "threshold": 0.034578287574603545,
+   "threshold": 0.032384432040710516,
    "cloud_share": 0.8333333333333334,
-   "accepted_precision": 0.9633333333333334,
+   "accepted_precision": 0.9666666666666667,
    "cost_usd_per_1k": 0.446
   },
   {
-   "threshold": 0.03495378620484837,
+   "threshold": 0.03325999527700579,
    "cloud_share": 0.83,
-   "accepted_precision": 0.9633333333333334,
+   "accepted_precision": 0.9666666666666667,
    "cost_usd_per_1k": 0.444
   },
   {
-   "threshold": 0.035928057083898686,
+   "threshold": 0.03326736420180141,
    "cloud_share": 0.8266666666666667,
-   "accepted_precision": 0.9633333333333334,
+   "accepted_precision": 0.9666666666666667,
    "cost_usd_per_1k": 0.442
   },
   {
-   "threshold": 0.037424242660637326,
+   "threshold": 0.0333682065226886,
    "cloud_share": 0.8233333333333334,
-   "accepted_precision": 0.9633333333333334,
+   "accepted_precision": 0.9666666666666667,
    "cost_usd_per_1k": 0.441
   },
   {
-   "threshold": 0.037437324765880714,
+   "threshold": 0.03382545904985301,
    "cloud_share": 0.82,
-   "accepted_precision": 0.96,
+   "accepted_precision": 0.9666666666666667,
    "cost_usd_per_1k": 0.439
   },
   {
-   "threshold": 0.037804290201453754,
+   "threshold": 0.03457158911973004,
    "cloud_share": 0.8166666666666667,
-   "accepted_precision": 0.9566666666666667,
+   "accepted_precision": 0.9666666666666667,
    "cost_usd_per_1k": 0.437
   },
   {
-   "threshold": 0.0389110075800634,
+   "threshold": 0.03534902452456795,
    "cloud_share": 0.8133333333333334,
-   "accepted_precision": 0.9566666666666667,
+   "accepted_precision": 0.9666666666666667,
    "cost_usd_per_1k": 0.435
   },
   {
-   "threshold": 0.03918840230087195,
+   "threshold": 0.03537788372733771,
    "cloud_share": 0.81,
-   "accepted_precision": 0.9566666666666667,
-   "cost_usd_per_1k": 0.434
+   "accepted_precision": 0.9666666666666667,
+   "cost_usd_per_1k": 0.433
   },
   {
-   "threshold": 0.03958350784695347,
+   "threshold": 0.035618185471785566,
    "cloud_share": 0.8066666666666666,
-   "accepted_precision": 0.9566666666666667,
+   "accepted_precision": 0.9666666666666667,
    "cost_usd_per_1k": 0.432
   },
   {
-   "threshold": 0.040288938720467515,
+   "threshold": 0.03609561284321934,
    "cloud_share": 0.8033333333333333,
-   "accepted_precision": 0.9566666666666667,
+   "accepted_precision": 0.9666666666666667,
    "cost_usd_per_1k": 0.43
   },
   {
-   "threshold": 0.04029543978565501,
+   "threshold": 0.03633089713395476,
    "cloud_share": 0.8,
-   "accepted_precision": 0.9566666666666667,
+   "accepted_precision": 0.9666666666666667,
    "cost_usd_per_1k": 0.428
   },
   {
-   "threshold": 0.04034667414516407,
+   "threshold": 0.03641205931338237,
    "cloud_share": 0.7966666666666666,
-   "accepted_precision": 0.9566666666666667,
+   "accepted_precision": 0.9666666666666667,
    "cost_usd_per_1k": 0.426
   },
   {
-   "threshold": 0.040942673519948625,
+   "threshold": 0.03672737085674246,
    "cloud_share": 0.7933333333333333,
-   "accepted_precision": 0.9566666666666667,
-   "cost_usd_per_1k": 0.425
+   "accepted_precision": 0.9666666666666667,
+   "cost_usd_per_1k": 0.424
   },
   {
-   "threshold": 0.041195737071590986,
+   "threshold": 0.036756483521920215,
    "cloud_share": 0.79,
-   "accepted_precision": 0.9566666666666667,
+   "accepted_precision": 0.9666666666666667,
    "cost_usd_per_1k": 0.423
   },
   {
-   "threshold": 0.04129519179787474,
+   "threshold": 0.03682806136998571,
    "cloud_share": 0.7866666666666666,
-   "accepted_precision": 0.9566666666666667,
+   "accepted_precision": 0.9666666666666667,
    "cost_usd_per_1k": 0.421
   },
   {
-   "threshold": 0.04143306087133255,
+   "threshold": 0.037218130589010884,
    "cloud_share": 0.7833333333333333,
-   "accepted_precision": 0.9566666666666667,
+   "accepted_precision": 0.9633333333333334,
    "cost_usd_per_1k": 0.419
   },
   {
-   "threshold": 0.04164761319121079,
+   "threshold": 0.037280207993556136,
    "cloud_share": 0.78,
-   "accepted_precision": 0.9566666666666667,
+   "accepted_precision": 0.9633333333333334,
    "cost_usd_per_1k": 0.417
   },
   {
-   "threshold": 0.041902153426518145,
+   "threshold": 0.03736085177593224,
    "cloud_share": 0.7766666666666666,
-   "accepted_precision": 0.9566666666666667,
-   "cost_usd_per_1k": 0.416
+   "accepted_precision": 0.9633333333333334,
+   "cost_usd_per_1k": 0.415
   },
   {
-   "threshold": 0.04208571618623281,
+   "threshold": 0.03739829263586677,
    "cloud_share": 0.7733333333333333,
-   "accepted_precision": 0.9566666666666667,
+   "accepted_precision": 0.96,
    "cost_usd_per_1k": 0.414
   },
   {
-   "threshold": 0.04212031932183164,
+   "threshold": 0.03754624934974308,
    "cloud_share": 0.77,
-   "accepted_precision": 0.9566666666666667,
+   "accepted_precision": 0.9633333333333334,
    "cost_usd_per_1k": 0.412
   },
   {
-   "threshold": 0.04259200966212786,
+   "threshold": 0.03759121126996365,
    "cloud_share": 0.7666666666666667,
-   "accepted_precision": 0.9566666666666667,
+   "accepted_precision": 0.9633333333333334,
    "cost_usd_per_1k": 0.41
   },
   {
-   "threshold": 0.043502000600299955,
+   "threshold": 0.038221375537973626,
    "cloud_share": 0.7633333333333333,
-   "accepted_precision": 0.9566666666666667,
-   "cost_usd_per_1k": 0.409
+   "accepted_precision": 0.9633333333333334,
+   "cost_usd_per_1k": 0.408
   },
   {
-   "threshold": 0.04420502513289766,
+   "threshold": 0.03825419368817383,
    "cloud_share": 0.76,
-   "accepted_precision": 0.9566666666666667,
+   "accepted_precision": 0.9633333333333334,
    "cost_usd_per_1k": 0.407
   },
   {
-   "threshold": 0.045698844748377765,
+   "threshold": 0.038698594390568546,
    "cloud_share": 0.7566666666666667,
    "accepted_precision": 0.96,
    "cost_usd_per_1k": 0.405
   },
   {
-   "threshold": 0.04586008943253935,
+   "threshold": 0.03888163438682532,
    "cloud_share": 0.7533333333333333,
    "accepted_precision": 0.96,
    "cost_usd_per_1k": 0.403
   },
   {
-   "threshold": 0.04600295686813045,
+   "threshold": 0.03938099631859103,
    "cloud_share": 0.75,
    "accepted_precision": 0.96,
    "cost_usd_per_1k": 0.401
   },
   {
-   "threshold": 0.04619240890357776,
+   "threshold": 0.039454936664890576,
    "cloud_share": 0.7466666666666667,
-   "accepted_precision": 0.9633333333333334,
-   "cost_usd_per_1k": 0.4
+   "accepted_precision": 0.96,
+   "cost_usd_per_1k": 0.399
   },
   {
-   "threshold": 0.04623750765816306,
+   "threshold": 0.03947521794390877,
    "cloud_share": 0.7433333333333333,
    "accepted_precision": 0.96,
    "cost_usd_per_1k": 0.398
   },
   {
-   "threshold": 0.046310389481837584,
+   "threshold": 0.039475648677412836,
    "cloud_share": 0.74,
    "accepted_precision": 0.96,
    "cost_usd_per_1k": 0.396
   },
   {
-   "threshold": 0.046330039218435745,
+   "threshold": 0.039593549989265925,
    "cloud_share": 0.7366666666666667,
    "accepted_precision": 0.96,
    "cost_usd_per_1k": 0.394
   },
   {
-   "threshold": 0.04641806450732064,
+   "threshold": 0.03971670915988596,
    "cloud_share": 0.7333333333333333,
-   "accepted_precision": 0.96,
+   "accepted_precision": 0.9633333333333334,
    "cost_usd_per_1k": 0.392
   },
   {
-   "threshold": 0.04662194981346749,
+   "threshold": 0.03978227521019164,
    "cloud_share": 0.73,
-   "accepted_precision": 0.96,
+   "accepted_precision": 0.9633333333333334,
    "cost_usd_per_1k": 0.391
   },
   {
-   "threshold": 0.04703531575037228,
+   "threshold": 0.04031753105459319,
    "cloud_share": 0.7266666666666667,
-   "accepted_precision": 0.96,
+   "accepted_precision": 0.9633333333333334,
    "cost_usd_per_1k": 0.389
   },
   {
-   "threshold": 0.04787251771880622,
+   "threshold": 0.04048599298746985,
    "cloud_share": 0.7233333333333334,
-   "accepted_precision": 0.9566666666666667,
+   "accepted_precision": 0.96,
    "cost_usd_per_1k": 0.387
   },
   {
-   "threshold": 0.04838610963594196,
+   "threshold": 0.04050626028057648,
    "cloud_share": 0.72,
-   "accepted_precision": 0.9566666666666667,
+   "accepted_precision": 0.96,
    "cost_usd_per_1k": 0.385
   },
   {
-   "threshold": 0.04848794661290911,
+   "threshold": 0.040626684626143175,
    "cloud_share": 0.7166666666666667,
-   "accepted_precision": 0.9566666666666667,
+   "accepted_precision": 0.96,
    "cost_usd_per_1k": 0.383
   },
   {
-   "threshold": 0.04884923203012199,
+   "threshold": 0.04069253875312893,
    "cloud_share": 0.7133333333333334,
-   "accepted_precision": 0.9566666666666667,
-   "cost_usd_per_1k": 0.382
+   "accepted_precision": 0.96,
+   "cost_usd_per_1k": 0.381
   },
   {
-   "threshold": 0.049183784847270456,
+   "threshold": 0.04086981902142393,
    "cloud_share": 0.71,
-   "accepted_precision": 0.9566666666666667,
+   "accepted_precision": 0.96,
    "cost_usd_per_1k": 0.38
   },
   {
-   "threshold": 0.04951737457866743,
+   "threshold": 0.041830973687280955,
    "cloud_share": 0.7066666666666667,
-   "accepted_precision": 0.9566666666666667,
+   "accepted_precision": 0.96,
    "cost_usd_per_1k": 0.378
   },
   {
-   "threshold": 0.049943459885487075,
+   "threshold": 0.042061220395224364,
    "cloud_share": 0.7033333333333334,
-   "accepted_precision": 0.9566666666666667,
+   "accepted_precision": 0.96,
    "cost_usd_per_1k": 0.376
   },
   {
-   "threshold": 0.05096782140740591,
+   "threshold": 0.042885494548603575,
    "cloud_share": 0.7,
-   "accepted_precision": 0.9566666666666667,
+   "accepted_precision": 0.96,
    "cost_usd_per_1k": 0.374
   },
   {
-   "threshold": 0.05133515541515649,
+   "threshold": 0.04310687038294024,
    "cloud_share": 0.6966666666666667,
-   "accepted_precision": 0.9566666666666667,
+   "accepted_precision": 0.96,
    "cost_usd_per_1k": 0.373
   },
   {
-   "threshold": 0.05214583976580322,
+   "threshold": 0.04336907764772172,
    "cloud_share": 0.6933333333333334,
-   "accepted_precision": 0.9566666666666667,
+   "accepted_precision": 0.96,
    "cost_usd_per_1k": 0.371
   },
   {
-   "threshold": 0.052964992789395836,
+   "threshold": 0.04337636379392278,
    "cloud_share": 0.69,
-   "accepted_precision": 0.9566666666666667,
+   "accepted_precision": 0.96,
    "cost_usd_per_1k": 0.369
   },
   {
-   "threshold": 0.05329107237184795,
+   "threshold": 0.04367035562352139,
    "cloud_share": 0.6866666666666666,
-   "accepted_precision": 0.9566666666666667,
+   "accepted_precision": 0.96,
    "cost_usd_per_1k": 0.367
   },
   {
-   "threshold": 0.054499635935448515,
+   "threshold": 0.04423391217942446,
    "cloud_share": 0.6833333333333333,
-   "accepted_precision": 0.9566666666666667,
+   "accepted_precision": 0.96,
    "cost_usd_per_1k": 0.366
   },
   {
-   "threshold": 0.05516406212111462,
+   "threshold": 0.04586299639069462,
    "cloud_share": 0.68,
-   "accepted_precision": 0.9566666666666667,
+   "accepted_precision": 0.96,
    "cost_usd_per_1k": 0.364
   },
   {
-   "threshold": 0.055281745696703626,
+   "threshold": 0.04669867524962207,
    "cloud_share": 0.6766666666666666,
-   "accepted_precision": 0.9566666666666667,
+   "accepted_precision": 0.96,
    "cost_usd_per_1k": 0.362
   },
   {
-   "threshold": 0.055725415079926434,
+   "threshold": 0.047262265582168846,
    "cloud_share": 0.6733333333333333,
-   "accepted_precision": 0.9566666666666667,
+   "accepted_precision": 0.96,
    "cost_usd_per_1k": 0.36
   },
   {
-   "threshold": 0.05645544228878523,
+   "threshold": 0.04758113381705375,
    "cloud_share": 0.67,
-   "accepted_precision": 0.9566666666666667,
+   "accepted_precision": 0.96,
    "cost_usd_per_1k": 0.358
   },
   {
-   "threshold": 0.05787263860771452,
+   "threshold": 0.04772739676479109,
    "cloud_share": 0.6666666666666666,
-   "accepted_precision": 0.9566666666666667,
+   "accepted_precision": 0.96,
    "cost_usd_per_1k": 0.357
   },
   {
-   "threshold": 0.058832796264595,
+   "threshold": 0.04822858216351549,
    "cloud_share": 0.6633333333333333,
-   "accepted_precision": 0.9566666666666667,
+   "accepted_precision": 0.96,
    "cost_usd_per_1k": 0.355
   },
   {
-   "threshold": 0.059916292493793676,
+   "threshold": 0.04862131488177075,
    "cloud_share": 0.66,
    "accepted_precision": 0.9566666666666667,
    "cost_usd_per_1k": 0.353
   },
   {
-   "threshold": 0.06007087920814269,
+   "threshold": 0.048724197421691026,
    "cloud_share": 0.6566666666666666,
    "accepted_precision": 0.9566666666666667,
    "cost_usd_per_1k": 0.351
   },
   {
-   "threshold": 0.06194860428353349,
+   "threshold": 0.04898244141943671,
    "cloud_share": 0.6533333333333333,
    "accepted_precision": 0.9566666666666667,
-   "cost_usd_per_1k": 0.349
+   "cost_usd_per_1k": 0.35
   },
   {
-   "threshold": 0.061995087517406164,
+   "threshold": 0.04912813842732561,
    "cloud_share": 0.65,
    "accepted_precision": 0.9566666666666667,
    "cost_usd_per_1k": 0.348
   },
   {
-   "threshold": 0.06264587610609153,
+   "threshold": 0.04914182317318403,
    "cloud_share": 0.6466666666666666,
-   "accepted_precision": 0.9566666666666667,
+   "accepted_precision": 0.9533333333333334,
    "cost_usd_per_1k": 0.346
   },
   {
-   "threshold": 0.0627594455637215,
+   "threshold": 0.04971550754241253,
    "cloud_share": 0.6433333333333333,
-   "accepted_precision": 0.9566666666666667,
+   "accepted_precision": 0.9533333333333334,
    "cost_usd_per_1k": 0.344
   },
   {
-   "threshold": 0.06293816360048823,
+   "threshold": 0.050491582760441536,
    "cloud_share": 0.64,
-   "accepted_precision": 0.9566666666666667,
+   "accepted_precision": 0.9533333333333334,
    "cost_usd_per_1k": 0.342
   },
   {
-   "threshold": 0.06443237992375432,
+   "threshold": 0.050936210545629065,
    "cloud_share": 0.6366666666666667,
-   "accepted_precision": 0.96,
+   "accepted_precision": 0.9533333333333334,
    "cost_usd_per_1k": 0.341
   },
   {
-   "threshold": 0.06553402690962334,
+   "threshold": 0.05137967451956351,
    "cloud_share": 0.6333333333333333,
-   "accepted_precision": 0.96,
+   "accepted_precision": 0.95,
    "cost_usd_per_1k": 0.339
   },
   {
-   "threshold": 0.0656115572870903,
+   "threshold": 0.05150947166448964,
    "cloud_share": 0.63,
-   "accepted_precision": 0.96,
+   "accepted_precision": 0.95,
    "cost_usd_per_1k": 0.337
   },
   {
-   "threshold": 0.06581869252184248,
+   "threshold": 0.05170785274427971,
    "cloud_share": 0.6266666666666667,
-   "accepted_precision": 0.96,
+   "accepted_precision": 0.95,
    "cost_usd_per_1k": 0.335
   },
   {
-   "threshold": 0.06641012073197863,
+   "threshold": 0.052373900716140134,
    "cloud_share": 0.6233333333333333,
-   "accepted_precision": 0.96,
-   "cost_usd_per_1k": 0.334
+   "accepted_precision": 0.9466666666666667,
+   "cost_usd_per_1k": 0.333
   },
   {
-   "threshold": 0.0665559135666189,
+   "threshold": 0.05326858068207821,
    "cloud_share": 0.62,
-   "accepted_precision": 0.96,
-   "cost_usd_per_1k": 0.332
+   "accepted_precision": 0.9466666666666667,
+   "cost_usd_per_1k": 0.331
   },
   {
-   "threshold": 0.06706528224437082,
+   "threshold": 0.05378896245410589,
    "cloud_share": 0.6166666666666667,
-   "accepted_precision": 0.96,
+   "accepted_precision": 0.9466666666666667,
    "cost_usd_per_1k": 0.33
   },
   {
-   "threshold": 0.06708595076338368,
+   "threshold": 0.0538505582258382,
    "cloud_share": 0.6133333333333333,
-   "accepted_precision": 0.96,
+   "accepted_precision": 0.9466666666666667,
    "cost_usd_per_1k": 0.328
   },
   {
-   "threshold": 0.06883044876507725,
+   "threshold": 0.05468596800310727,
    "cloud_share": 0.61,
-   "accepted_precision": 0.96,
+   "accepted_precision": 0.9466666666666667,
    "cost_usd_per_1k": 0.326
   },
   {
-   "threshold": 0.06940091652926889,
+   "threshold": 0.05575241093874637,
    "cloud_share": 0.6066666666666667,
-   "accepted_precision": 0.9566666666666667,
-   "cost_usd_per_1k": 0.325
+   "accepted_precision": 0.9466666666666667,
+   "cost_usd_per_1k": 0.324
   },
   {
-   "threshold": 0.0697158660519687,
+   "threshold": 0.05599298292572047,
    "cloud_share": 0.6033333333333334,
-   "accepted_precision": 0.9566666666666667,
-   "cost_usd_per_1k": 0.323
+   "accepted_precision": 0.9466666666666667,
+   "cost_usd_per_1k": 0.322
   },
   {
-   "threshold": 0.07068659937690505,
+   "threshold": 0.05611090680802365,
    "cloud_share": 0.6,
-   "accepted_precision": 0.9566666666666667,
+   "accepted_precision": 0.9466666666666667,
    "cost_usd_per_1k": 0.321
   },
   {
-   "threshold": 0.07281527056232878,
+   "threshold": 0.05659823820088211,
    "cloud_share": 0.5966666666666667,
-   "accepted_precision": 0.9566666666666667,
+   "accepted_precision": 0.9466666666666667,
    "cost_usd_per_1k": 0.319
   },
   {
-   "threshold": 0.07283988622369758,
+   "threshold": 0.05728556050595036,
    "cloud_share": 0.5933333333333334,
-   "accepted_precision": 0.9566666666666667,
+   "accepted_precision": 0.9466666666666667,
    "cost_usd_per_1k": 0.317
   },
   {
-   "threshold": 0.07294235924918979,
+   "threshold": 0.05774412414318852,
    "cloud_share": 0.59,
-   "accepted_precision": 0.9566666666666667,
-   "cost_usd_per_1k": 0.316
+   "accepted_precision": 0.9466666666666667,
+   "cost_usd_per_1k": 0.315
   },
   {
-   "threshold": 0.07336173843221737,
+   "threshold": 0.05870751790972731,
    "cloud_share": 0.5866666666666667,
-   "accepted_precision": 0.9566666666666667,
-   "cost_usd_per_1k": 0.314
+   "accepted_precision": 0.9466666666666667,
+   "cost_usd_per_1k": 0.313
   },
   {
-   "threshold": 0.07633018045743484,
+   "threshold": 0.059914751043509996,
    "cloud_share": 0.5833333333333334,
-   "accepted_precision": 0.9566666666666667,
+   "accepted_precision": 0.9466666666666667,
    "cost_usd_per_1k": 0.312
   },
   {
-   "threshold": 0.07664397914504849,
+   "threshold": 0.060083761012935125,
    "cloud_share": 0.58,
-   "accepted_precision": 0.9566666666666667,
+   "accepted_precision": 0.9466666666666667,
    "cost_usd_per_1k": 0.31
   },
   {
-   "threshold": 0.07768227285106334,
+   "threshold": 0.06035636238425136,
    "cloud_share": 0.5766666666666667,
-   "accepted_precision": 0.9566666666666667,
+   "accepted_precision": 0.9466666666666667,
    "cost_usd_per_1k": 0.308
   },
   {
-   "threshold": 0.07864550573537825,
+   "threshold": 0.06062163785185278,
    "cloud_share": 0.5733333333333334,
-   "accepted_precision": 0.9566666666666667,
-   "cost_usd_per_1k": 0.307
+   "accepted_precision": 0.9466666666666667,
+   "cost_usd_per_1k": 0.306
   },
   {
-   "threshold": 0.07869600125186967,
+   "threshold": 0.06067229439024854,
    "cloud_share": 0.57,
-   "accepted_precision": 0.9566666666666667,
-   "cost_usd_per_1k": 0.305
+   "accepted_precision": 0.9466666666666667,
+   "cost_usd_per_1k": 0.304
   },
   {
-   "threshold": 0.08138377329229317,
+   "threshold": 0.060693795990717614,
    "cloud_share": 0.5666666666666667,
-   "accepted_precision": 0.9566666666666667,
+   "accepted_precision": 0.9466666666666667,
    "cost_usd_per_1k": 0.303
   },
   {
-   "threshold": 0.08160585192391848,
+   "threshold": 0.06097560009588223,
    "cloud_share": 0.5633333333333334,
-   "accepted_precision": 0.9566666666666667,
+   "accepted_precision": 0.9466666666666667,
    "cost_usd_per_1k": 0.301
   },
   {
-   "threshold": 0.08233200872805094,
+   "threshold": 0.06310950353479695,
    "cloud_share": 0.56,
-   "accepted_precision": 0.9566666666666667,
-   "cost_usd_per_1k": 0.3
+   "accepted_precision": 0.9466666666666667,
+   "cost_usd_per_1k": 0.299
   },
   {
-   "threshold": 0.08239147131461907,
+   "threshold": 0.06349826944718201,
    "cloud_share": 0.5566666666666666,
-   "accepted_precision": 0.9566666666666667,
-   "cost_usd_per_1k": 0.298
+   "accepted_precision": 0.9466666666666667,
+   "cost_usd_per_1k": 0.297
   },
   {
-   "threshold": 0.08403798476433068,
+   "threshold": 0.06381794562274606,
    "cloud_share": 0.5533333333333333,
-   "accepted_precision": 0.9566666666666667,
-   "cost_usd_per_1k": 0.296
+   "accepted_precision": 0.9466666666666667,
+   "cost_usd_per_1k": 0.295
   },
   {
-   "threshold": 0.08431079898583675,
+   "threshold": 0.0639870291591873,
    "cloud_share": 0.55,
-   "accepted_precision": 0.9566666666666667,
+   "accepted_precision": 0.9466666666666667,
    "cost_usd_per_1k": 0.294
   },
   {
-   "threshold": 0.08464343629103493,
+   "threshold": 0.0646050020133108,
    "cloud_share": 0.5466666666666666,
-   "accepted_precision": 0.9566666666666667,
+   "accepted_precision": 0.95,
    "cost_usd_per_1k": 0.292
   },
   {
-   "threshold": 0.08552231164825712,
+   "threshold": 0.06510476459454,
    "cloud_share": 0.5433333333333333,
-   "accepted_precision": 0.9566666666666667,
-   "cost_usd_per_1k": 0.291
+   "accepted_precision": 0.95,
+   "cost_usd_per_1k": 0.29
   },
   {
-   "threshold": 0.0875796436837979,
+   "threshold": 0.06597022370359186,
    "cloud_share": 0.54,
-   "accepted_precision": 0.9566666666666667,
-   "cost_usd_per_1k": 0.289
+   "accepted_precision": 0.95,
+   "cost_usd_per_1k": 0.288
   },
   {
-   "threshold": 0.08778972615355302,
+   "threshold": 0.06647420953979805,
    "cloud_share": 0.5366666666666666,
-   "accepted_precision": 0.9566666666666667,
+   "accepted_precision": 0.95,
    "cost_usd_per_1k": 0.287
   },
   {
-   "threshold": 0.08801481642742591,
+   "threshold": 0.06714142093972292,
    "cloud_share": 0.5333333333333333,
-   "accepted_precision": 0.9566666666666667,
+   "accepted_precision": 0.9466666666666667,
    "cost_usd_per_1k": 0.285
   },
   {
-   "threshold": 0.08823302629862861,
+   "threshold": 0.06762718060490212,
    "cloud_share": 0.53,
-   "accepted_precision": 0.9566666666666667,
-   "cost_usd_per_1k": 0.284
+   "accepted_precision": 0.9466666666666667,
+   "cost_usd_per_1k": 0.283
   },
   {
-   "threshold": 0.08946684113621019,
+   "threshold": 0.06782649947005104,
    "cloud_share": 0.5266666666666666,
-   "accepted_precision": 0.9566666666666667,
-   "cost_usd_per_1k": 0.282
+   "accepted_precision": 0.9466666666666667,
+   "cost_usd_per_1k": 0.281
   },
   {
-   "threshold": 0.09043977061871412,
+   "threshold": 0.06881781262709794,
    "cloud_share": 0.5233333333333333,
-   "accepted_precision": 0.9566666666666667,
-   "cost_usd_per_1k": 0.28
+   "accepted_precision": 0.9466666666666667,
+   "cost_usd_per_1k": 0.279
   },
   {
-   "threshold": 0.0936678783978539,
+   "threshold": 0.06891106789626088,
    "cloud_share": 0.52,
-   "accepted_precision": 0.9566666666666667,
+   "accepted_precision": 0.9466666666666667,
    "cost_usd_per_1k": 0.278
   },
   {
-   "threshold": 0.09412325731948079,
+   "threshold": 0.0689417996650628,
    "cloud_share": 0.5166666666666667,
-   "accepted_precision": 0.9533333333333334,
+   "accepted_precision": 0.9466666666666667,
    "cost_usd_per_1k": 0.276
   },
   {
-   "threshold": 0.09467138424857097,
+   "threshold": 0.0694679571443819,
    "cloud_share": 0.5133333333333333,
-   "accepted_precision": 0.9533333333333334,
-   "cost_usd_per_1k": 0.275
+   "accepted_precision": 0.9466666666666667,
+   "cost_usd_per_1k": 0.274
   },
   {
-   "threshold": 0.09516190432991044,
+   "threshold": 0.07015387122780761,
    "cloud_share": 0.51,
-   "accepted_precision": 0.9533333333333334,
-   "cost_usd_per_1k": 0.273
+   "accepted_precision": 0.9466666666666667,
+   "cost_usd_per_1k": 0.272
   },
   {
-   "threshold": 0.09517403346660142,
+   "threshold": 0.07027651542091749,
    "cloud_share": 0.5066666666666667,
-   "accepted_precision": 0.9533333333333334,
+   "accepted_precision": 0.9466666666666667,
    "cost_usd_per_1k": 0.271
   },
   {
-   "threshold": 0.09664798770950422,
+   "threshold": 0.07036968994944195,
    "cloud_share": 0.5033333333333333,
-   "accepted_precision": 0.95,
+   "accepted_precision": 0.9466666666666667,
    "cost_usd_per_1k": 0.269
   },
   {
-   "threshold": 0.09688422895566955,
+   "threshold": 0.07099514377009349,
    "cloud_share": 0.5,
-   "accepted_precision": 0.95,
+   "accepted_precision": 0.9466666666666667,
    "cost_usd_per_1k": 0.267
   },
   {
-   "threshold": 0.0970531003923796,
+   "threshold": 0.07111286430615237,
    "cloud_share": 0.49666666666666665,
-   "accepted_precision": 0.95,
-   "cost_usd_per_1k": 0.266
+   "accepted_precision": 0.9466666666666667,
+   "cost_usd_per_1k": 0.265
   },
   {
-   "threshold": 0.09762431335423369,
+   "threshold": 0.07184788055026095,
    "cloud_share": 0.49333333333333335,
-   "accepted_precision": 0.95,
-   "cost_usd_per_1k": 0.264
+   "accepted_precision": 0.9466666666666667,
+   "cost_usd_per_1k": 0.263
   },
   {
-   "threshold": 0.09844421008172202,
+   "threshold": 0.07281096765665365,
    "cloud_share": 0.49,
-   "accepted_precision": 0.95,
+   "accepted_precision": 0.9466666666666667,
    "cost_usd_per_1k": 0.262
   },
   {
-   "threshold": 0.09891650370230684,
+   "threshold": 0.07376739205858787,
    "cloud_share": 0.4866666666666667,
-   "accepted_precision": 0.95,
+   "accepted_precision": 0.9466666666666667,
    "cost_usd_per_1k": 0.26
   },
   {
-   "threshold": 0.09961690524246616,
+   "threshold": 0.074258521517501,
    "cloud_share": 0.48333333333333334,
-   "accepted_precision": 0.95,
-   "cost_usd_per_1k": 0.259
+   "accepted_precision": 0.9466666666666667,
+   "cost_usd_per_1k": 0.258
   },
   {
-   "threshold": 0.10116715442572141,
+   "threshold": 0.07450855676044132,
    "cloud_share": 0.48,
-   "accepted_precision": 0.95,
-   "cost_usd_per_1k": 0.257
+   "accepted_precision": 0.9466666666666667,
+   "cost_usd_per_1k": 0.256
   },
   {
-   "threshold": 0.10127112610388575,
+   "threshold": 0.07528347505280167,
    "cloud_share": 0.4766666666666667,
-   "accepted_precision": 0.95,
+   "accepted_precision": 0.9466666666666667,
    "cost_usd_per_1k": 0.255
   },
   {
-   "threshold": 0.10193192018809594,
+   "threshold": 0.07698715673419106,
    "cloud_share": 0.47333333333333333,
    "accepted_precision": 0.9466666666666667,
    "cost_usd_per_1k": 0.253
   },
   {
-   "threshold": 0.10519308556288191,
+   "threshold": 0.07931689360968025,
    "cloud_share": 0.47,
    "accepted_precision": 0.9466666666666667,
    "cost_usd_per_1k": 0.251
   },
   {
-   "threshold": 0.10707666317961605,
+   "threshold": 0.08269061474410107,
    "cloud_share": 0.4666666666666667,
    "accepted_precision": 0.9466666666666667,
-   "cost_usd_per_1k": 0.25
+   "cost_usd_per_1k": 0.249
   },
   {
-   "threshold": 0.10776905865316859,
+   "threshold": 0.08289533099221584,
    "cloud_share": 0.4633333333333333,
    "accepted_precision": 0.9466666666666667,
-   "cost_usd_per_1k": 0.248
+   "cost_usd_per_1k": 0.247
   },
   {
-   "threshold": 0.11232284875581344,
+   "threshold": 0.083768963666399,
    "cloud_share": 0.46,
    "accepted_precision": 0.9466666666666667,
    "cost_usd_per_1k": 0.246
   },
   {
-   "threshold": 0.11278089433225108,
+   "threshold": 0.08450758623265081,
    "cloud_share": 0.45666666666666667,
    "accepted_precision": 0.9466666666666667,
    "cost_usd_per_1k": 0.244
   },
   {
-   "threshold": 0.11307846642226127,
+   "threshold": 0.08494576641344485,
    "cloud_share": 0.4533333333333333,
    "accepted_precision": 0.9466666666666667,
    "cost_usd_per_1k": 0.242
   },
   {
-   "threshold": 0.11324452383545011,
+   "threshold": 0.08816636990018077,
    "cloud_share": 0.45,
    "accepted_precision": 0.9466666666666667,
-   "cost_usd_per_1k": 0.241
+   "cost_usd_per_1k": 0.24
   },
   {
-   "threshold": 0.11411418598768032,
+   "threshold": 0.08903146937471075,
    "cloud_share": 0.44666666666666666,
    "accepted_precision": 0.9466666666666667,
    "cost_usd_per_1k": 0.239
   },
   {
-   "threshold": 0.11427690761968926,
+   "threshold": 0.08910604395913838,
    "cloud_share": 0.44333333333333336,
    "accepted_precision": 0.9466666666666667,
    "cost_usd_per_1k": 0.237
   },
   {
-   "threshold": 0.1163664127335189,
+   "threshold": 0.08952516221615366,
    "cloud_share": 0.44,
    "accepted_precision": 0.9466666666666667,
    "cost_usd_per_1k": 0.235
   },
   {
-   "threshold": 0.12016008739216703,
+   "threshold": 0.08953374066553692,
    "cloud_share": 0.43666666666666665,
    "accepted_precision": 0.9466666666666667,
-   "cost_usd_per_1k": 0.234
+   "cost_usd_per_1k": 0.233
   },
   {
-   "threshold": 0.12173552076211269,
+   "threshold": 0.08970919494185166,
    "cloud_share": 0.43333333333333335,
    "accepted_precision": 0.9466666666666667,
    "cost_usd_per_1k": 0.232
   },
   {
-   "threshold": 0.12284063355172724,
+   "threshold": 0.08992257063939989,
    "cloud_share": 0.43,
    "accepted_precision": 0.9466666666666667,
    "cost_usd_per_1k": 0.23
   },
   {
-   "threshold": 0.13283699446662692,
+   "threshold": 0.08997971105605189,
    "cloud_share": 0.4266666666666667,
-   "accepted_precision": 0.9466666666666667,
+   "accepted_precision": 0.9433333333333334,
    "cost_usd_per_1k": 0.228
   },
   {
-   "threshold": 0.1339004987170623,
+   "threshold": 0.09055897199958807,
    "cloud_share": 0.42333333333333334,
-   "accepted_precision": 0.9466666666666667,
-   "cost_usd_per_1k": 0.227
+   "accepted_precision": 0.9433333333333334,
+   "cost_usd_per_1k": 0.226
   },
   {
-   "threshold": 0.1382868607492294,
+   "threshold": 0.09123739953407023,
    "cloud_share": 0.42,
-   "accepted_precision": 0.9466666666666667,
-   "cost_usd_per_1k": 0.225
+   "accepted_precision": 0.9433333333333334,
+   "cost_usd_per_1k": 0.224
   },
   {
-   "threshold": 0.14305127803873147,
+   "threshold": 0.09263827164004255,
    "cloud_share": 0.4166666666666667,
-   "accepted_precision": 0.9466666666666667,
+   "accepted_precision": 0.9433333333333334,
    "cost_usd_per_1k": 0.223
   },
   {
-   "threshold": 0.14500245812837925,
+   "threshold": 0.09410528073165997,
    "cloud_share": 0.41333333333333333,
-   "accepted_precision": 0.9466666666666667,
+   "accepted_precision": 0.9433333333333334,
    "cost_usd_per_1k": 0.221
   },
   {
-   "threshold": 0.14673661137493385,
+   "threshold": 0.09450447796111669,
    "cloud_share": 0.41,
-   "accepted_precision": 0.9466666666666667,
+   "accepted_precision": 0.9433333333333334,
    "cost_usd_per_1k": 0.219
   },
   {
-   "threshold": 0.14916074196817483,
+   "threshold": 0.09535900302837783,
    "cloud_share": 0.4066666666666667,
-   "accepted_precision": 0.9466666666666667,
-   "cost_usd_per_1k": 0.218
+   "accepted_precision": 0.9433333333333334,
+   "cost_usd_per_1k": 0.217
   },
   {
-   "threshold": 0.149320327063513,
+   "threshold": 0.09542982437796765,
    "cloud_share": 0.4033333333333333,
-   "accepted_precision": 0.9466666666666667,
+   "accepted_precision": 0.9433333333333334,
    "cost_usd_per_1k": 0.216
   },
   {
-   "threshold": 0.15040093798166285,
+   "threshold": 0.09959099808126118,
    "cloud_share": 0.4,
-   "accepted_precision": 0.9466666666666667,
+   "accepted_precision": 0.9433333333333334,
    "cost_usd_per_1k": 0.214
   },
   {
-   "threshold": 0.16076674250937445,
+   "threshold": 0.10213358552134602,
    "cloud_share": 0.39666666666666667,
-   "accepted_precision": 0.9466666666666667,
+   "accepted_precision": 0.9433333333333334,
    "cost_usd_per_1k": 0.212
   },
   {
-   "threshold": 0.16162835568907666,
+   "threshold": 0.10944728354634549,
    "cloud_share": 0.3933333333333333,
-   "accepted_precision": 0.9466666666666667,
-   "cost_usd_per_1k": 0.211
+   "accepted_precision": 0.9433333333333334,
+   "cost_usd_per_1k": 0.21
   },
   {
-   "threshold": 0.16193305930662763,
+   "threshold": 0.11615134291029158,
    "cloud_share": 0.39,
-   "accepted_precision": 0.9466666666666667,
-   "cost_usd_per_1k": 0.209
+   "accepted_precision": 0.9433333333333334,
+   "cost_usd_per_1k": 0.208
   },
   {
-   "threshold": 0.16538918807359057,
+   "threshold": 0.11805336094774042,
    "cloud_share": 0.38666666666666666,
-   "accepted_precision": 0.9466666666666667,
+   "accepted_precision": 0.9433333333333334,
    "cost_usd_per_1k": 0.207
   },
   {
-   "threshold": 0.17051746657466624,
+   "threshold": 0.11839358224872074,
    "cloud_share": 0.38333333333333336,
-   "accepted_precision": 0.9466666666666667,
+   "accepted_precision": 0.9433333333333334,
    "cost_usd_per_1k": 0.205
   },
   {
-   "threshold": 0.17068955833302585,
+   "threshold": 0.1291661265911686,
    "cloud_share": 0.38,
-   "accepted_precision": 0.9466666666666667,
+   "accepted_precision": 0.9433333333333334,
    "cost_usd_per_1k": 0.203
   },
   {
-   "threshold": 0.17161623375979482,
+   "threshold": 0.1292973491394488,
    "cloud_share": 0.37666666666666665,
-   "accepted_precision": 0.9466666666666667,
-   "cost_usd_per_1k": 0.202
+   "accepted_precision": 0.9433333333333334,
+   "cost_usd_per_1k": 0.201
   },
   {
-   "threshold": 0.17429834959996515,
+   "threshold": 0.14133902690233174,
    "cloud_share": 0.37333333333333335,
    "accepted_precision": 0.9433333333333334,
-   "cost_usd_per_1k": 0.2
+   "cost_usd_per_1k": 0.199
   },
   {
-   "threshold": 0.17784732230026606,
+   "threshold": 0.1415722806247361,
    "cloud_share": 0.37,
    "accepted_precision": 0.9433333333333334,
    "cost_usd_per_1k": 0.198
   },
   {
-   "threshold": 0.17868786465505945,
+   "threshold": 0.14300856724709052,
    "cloud_share": 0.36666666666666664,
    "accepted_precision": 0.9433333333333334,
    "cost_usd_per_1k": 0.196
   },
   {
-   "threshold": 0.1797216374027585,
+   "threshold": 0.1431720629030206,
    "cloud_share": 0.36333333333333334,
    "accepted_precision": 0.9433333333333334,
    "cost_usd_per_1k": 0.194
   },
   {
-   "threshold": 0.1983458884584026,
+   "threshold": 0.14434628040378972,
    "cloud_share": 0.36,
    "accepted_precision": 0.9433333333333334,
-   "cost_usd_per_1k": 0.193
+   "cost_usd_per_1k": 0.192
   },
   {
-   "threshold": 0.20089047331166504,
+   "threshold": 0.1444361326867027,
    "cloud_share": 0.3566666666666667,
    "accepted_precision": 0.9433333333333334,
    "cost_usd_per_1k": 0.191
   },
   {
-   "threshold": 0.21011518316925754,
+   "threshold": 0.1448700509541941,
    "cloud_share": 0.35333333333333333,
-   "accepted_precision": 0.94,
+   "accepted_precision": 0.9433333333333334,
    "cost_usd_per_1k": 0.189
   },
   {
-   "threshold": 0.21091528954839342,
+   "threshold": 0.14785279792428782,
    "cloud_share": 0.35,
-   "accepted_precision": 0.94,
+   "accepted_precision": 0.9433333333333334,
    "cost_usd_per_1k": 0.187
   },
   {
-   "threshold": 0.21747003795165004,
+   "threshold": 0.14816068689602788,
    "cloud_share": 0.3466666666666667,
-   "accepted_precision": 0.94,
+   "accepted_precision": 0.9433333333333334,
    "cost_usd_per_1k": 0.185
   },
   {
-   "threshold": 0.21931752377424185,
+   "threshold": 0.15039053557177093,
    "cloud_share": 0.3433333333333333,
-   "accepted_precision": 0.94,
-   "cost_usd_per_1k": 0.184
+   "accepted_precision": 0.9433333333333334,
+   "cost_usd_per_1k": 0.183
   },
   {
-   "threshold": 0.21991677673794263,
+   "threshold": 0.15690807902600726,
    "cloud_share": 0.34,
-   "accepted_precision": 0.9366666666666666,
+   "accepted_precision": 0.9433333333333334,
    "cost_usd_per_1k": 0.182
   },
   {
-   "threshold": 0.22048897615690694,
+   "threshold": 0.1587810496963704,
    "cloud_share": 0.33666666666666667,
-   "accepted_precision": 0.9366666666666666,
+   "accepted_precision": 0.9433333333333334,
    "cost_usd_per_1k": 0.18
   },
   {
-   "threshold": 0.22900773236470112,
+   "threshold": 0.16740046929183075,
    "cloud_share": 0.3333333333333333,
-   "accepted_precision": 0.9366666666666666,
+   "accepted_precision": 0.94,
    "cost_usd_per_1k": 0.178
   },
   {
-   "threshold": 0.2296887084573449,
+   "threshold": 0.1683040666150369,
    "cloud_share": 0.33,
-   "accepted_precision": 0.9366666666666666,
-   "cost_usd_per_1k": 0.177
+   "accepted_precision": 0.94,
+   "cost_usd_per_1k": 0.176
   },
   {
-   "threshold": 0.23076281309840027,
+   "threshold": 0.1704616976040154,
    "cloud_share": 0.32666666666666666,
-   "accepted_precision": 0.9366666666666666,
+   "accepted_precision": 0.94,
    "cost_usd_per_1k": 0.175
   },
   {
-   "threshold": 0.23149734804809965,
+   "threshold": 0.17125239589485206,
    "cloud_share": 0.3233333333333333,
-   "accepted_precision": 0.9366666666666666,
+   "accepted_precision": 0.94,
    "cost_usd_per_1k": 0.173
   },
   {
-   "threshold": 0.25895654563432396,
+   "threshold": 0.171928882954873,
    "cloud_share": 0.32,
-   "accepted_precision": 0.9333333333333333,
+   "accepted_precision": 0.94,
    "cost_usd_per_1k": 0.171
   },
   {
-   "threshold": 0.2646980379159163,
+   "threshold": 0.1729500189571362,
    "cloud_share": 0.31666666666666665,
-   "accepted_precision": 0.9333333333333333,
+   "accepted_precision": 0.94,
    "cost_usd_per_1k": 0.169
   },
   {
-   "threshold": 0.27417119842947046,
+   "threshold": 0.18088418187749547,
    "cloud_share": 0.31333333333333335,
-   "accepted_precision": 0.9333333333333333,
-   "cost_usd_per_1k": 0.168
+   "accepted_precision": 0.94,
+   "cost_usd_per_1k": 0.167
   },
   {
-   "threshold": 0.2761521538067846,
+   "threshold": 0.20386637354981405,
    "cloud_share": 0.31,
-   "accepted_precision": 0.9333333333333333,
+   "accepted_precision": 0.94,
    "cost_usd_per_1k": 0.166
   },
   {
-   "threshold": 0.2805822551754215,
+   "threshold": 0.20402518432379937,
    "cloud_share": 0.30666666666666664,
-   "accepted_precision": 0.9333333333333333,
+   "accepted_precision": 0.94,
    "cost_usd_per_1k": 0.164
   },
   {
-   "threshold": 0.28121303803847264,
+   "threshold": 0.20990073207592858,
    "cloud_share": 0.30333333333333334,
-   "accepted_precision": 0.93,
+   "accepted_precision": 0.94,
    "cost_usd_per_1k": 0.162
   },
   {
-   "threshold": 0.3065691092385406,
+   "threshold": 0.21504819196887062,
    "cloud_share": 0.3,
-   "accepted_precision": 0.93,
+   "accepted_precision": 0.94,
    "cost_usd_per_1k": 0.16
   },
   {
-   "threshold": 0.3083594475599233,
+   "threshold": 0.2325856924612985,
    "cloud_share": 0.2966666666666667,
-   "accepted_precision": 0.93,
+   "accepted_precision": 0.94,
    "cost_usd_per_1k": 0.159
   },
   {
-   "threshold": 0.3110357760203559,
+   "threshold": 0.2343487712584051,
    "cloud_share": 0.29333333333333333,
-   "accepted_precision": 0.93,
+   "accepted_precision": 0.94,
    "cost_usd_per_1k": 0.157
   },
   {
-   "threshold": 0.3216746207411947,
+   "threshold": 0.24132018251009227,
    "cloud_share": 0.29,
-   "accepted_precision": 0.93,
+   "accepted_precision": 0.94,
    "cost_usd_per_1k": 0.155
   },
   {
-   "threshold": 0.3254444603089767,
+   "threshold": 0.24187975513091162,
    "cloud_share": 0.2866666666666667,
-   "accepted_precision": 0.93,
+   "accepted_precision": 0.94,
    "cost_usd_per_1k": 0.153
   },
   {
-   "threshold": 0.34270640055428336,
+   "threshold": 0.24652715958924154,
    "cloud_share": 0.2833333333333333,
-   "accepted_precision": 0.93,
-   "cost_usd_per_1k": 0.152
+   "accepted_precision": 0.94,
+   "cost_usd_per_1k": 0.151
   },
   {
-   "threshold": 0.34898803764534,
+   "threshold": 0.26063331158461106,
    "cloud_share": 0.28,
-   "accepted_precision": 0.9266666666666666,
+   "accepted_precision": 0.9366666666666666,
    "cost_usd_per_1k": 0.15
   },
   {
-   "threshold": 0.35389739461250386,
+   "threshold": 0.2803939455452634,
    "cloud_share": 0.27666666666666667,
-   "accepted_precision": 0.9233333333333333,
+   "accepted_precision": 0.9366666666666666,
    "cost_usd_per_1k": 0.148
   },
   {
-   "threshold": 0.3570520194123249,
+   "threshold": 0.2971061730399385,
    "cloud_share": 0.2733333333333333,
-   "accepted_precision": 0.9233333333333333,
+   "accepted_precision": 0.9366666666666666,
    "cost_usd_per_1k": 0.146
   },
   {
-   "threshold": 0.36699333563333963,
+   "threshold": 0.2978398421797113,
    "cloud_share": 0.27,
-   "accepted_precision": 0.92,
+   "accepted_precision": 0.9333333333333333,
    "cost_usd_per_1k": 0.144
   },
   {
-   "threshold": 0.37994920866767257,
+   "threshold": 0.29840781138208405,
    "cloud_share": 0.26666666666666666,
-   "accepted_precision": 0.92,
+   "accepted_precision": 0.93,
    "cost_usd_per_1k": 0.143
   },
   {
-   "threshold": 0.3815432314384822,
+   "threshold": 0.31740540590774774,
    "cloud_share": 0.2633333333333333,
-   "accepted_precision": 0.92,
+   "accepted_precision": 0.93,
    "cost_usd_per_1k": 0.141
   },
   {
-   "threshold": 0.41781537699114535,
+   "threshold": 0.32714714755654384,
    "cloud_share": 0.26,
-   "accepted_precision": 0.92,
+   "accepted_precision": 0.93,
    "cost_usd_per_1k": 0.139
   },
   {
-   "threshold": 0.42697461809004705,
+   "threshold": 0.330631337317048,
    "cloud_share": 0.25666666666666665,
-   "accepted_precision": 0.9166666666666666,
+   "accepted_precision": 0.9266666666666666,
    "cost_usd_per_1k": 0.137
   },
   {
-   "threshold": 0.4381505710911928,
+   "threshold": 0.3412839978713551,
    "cloud_share": 0.25333333333333335,
-   "accepted_precision": 0.9133333333333333,
-   "cost_usd_per_1k": 0.136
+   "accepted_precision": 0.9266666666666666,
+   "cost_usd_per_1k": 0.135
   },
   {
-   "threshold": 0.452656105353749,
+   "threshold": 0.35227177575694374,
    "cloud_share": 0.25,
-   "accepted_precision": 0.9133333333333333,
+   "accepted_precision": 0.9233333333333333,
    "cost_usd_per_1k": 0.134
   },
   {
-   "threshold": 0.45703668837316147,
+   "threshold": 0.3530145054069215,
    "cloud_share": 0.24666666666666667,
-   "accepted_precision": 0.9133333333333333,
+   "accepted_precision": 0.9233333333333333,
    "cost_usd_per_1k": 0.132
   },
   {
-   "threshold": 0.46072170899908754,
+   "threshold": 0.3560082076944291,
    "cloud_share": 0.24333333333333335,
-   "accepted_precision": 0.91,
+   "accepted_precision": 0.9233333333333333,
    "cost_usd_per_1k": 0.13
   },
   {
-   "threshold": 0.4799950212146959,
+   "threshold": 0.37262971743161427,
    "cloud_share": 0.24,
-   "accepted_precision": 0.91,
+   "accepted_precision": 0.92,
    "cost_usd_per_1k": 0.128
   },
   {
-   "threshold": 0.48809004311913357,
+   "threshold": 0.38079898912075916,
    "cloud_share": 0.23666666666666666,
-   "accepted_precision": 0.9066666666666666,
+   "accepted_precision": 0.92,
    "cost_usd_per_1k": 0.127
   },
   {
-   "threshold": 0.4901450430814209,
+   "threshold": 0.3911554820939843,
    "cloud_share": 0.23333333333333334,
-   "accepted_precision": 0.9033333333333333,
+   "accepted_precision": 0.92,
    "cost_usd_per_1k": 0.125
   },
   {
-   "threshold": 0.49837617935960954,
+   "threshold": 0.3914593766774507,
    "cloud_share": 0.23,
-   "accepted_precision": 0.9033333333333333,
+   "accepted_precision": 0.92,
    "cost_usd_per_1k": 0.123
   },
   {
-   "threshold": 0.5078478747122357,
+   "threshold": 0.4044620302934497,
    "cloud_share": 0.22666666666666666,
-   "accepted_precision": 0.9,
+   "accepted_precision": 0.9166666666666666,
    "cost_usd_per_1k": 0.121
   },
   {
-   "threshold": 0.5168581989457457,
+   "threshold": 0.40471656308724707,
    "cloud_share": 0.22333333333333333,
-   "accepted_precision": 0.8966666666666666,
+   "accepted_precision": 0.9133333333333333,
    "cost_usd_per_1k": 0.119
   },
   {
-   "threshold": 0.5302210271783077,
+   "threshold": 0.4060777649409994,
    "cloud_share": 0.22,
-   "accepted_precision": 0.8933333333333333,
+   "accepted_precision": 0.91,
    "cost_usd_per_1k": 0.118
   },
   {
-   "threshold": 0.5356014627729327,
+   "threshold": 0.40911419777483815,
    "cloud_share": 0.21666666666666667,
-   "accepted_precision": 0.8933333333333333,
+   "accepted_precision": 0.91,
    "cost_usd_per_1k": 0.116
   },
   {
-   "threshold": 0.5465758844098594,
+   "threshold": 0.42773729148837913,
    "cloud_share": 0.21333333333333335,
-   "accepted_precision": 0.89,
+   "accepted_precision": 0.9066666666666666,
    "cost_usd_per_1k": 0.114
   },
   {
-   "threshold": 0.551067856644047,
+   "threshold": 0.4279361594744742,
    "cloud_share": 0.21,
-   "accepted_precision": 0.8866666666666667,
+   "accepted_precision": 0.9033333333333333,
    "cost_usd_per_1k": 0.112
   },
   {
-   "threshold": 0.5538857945152682,
+   "threshold": 0.42922346602142697,
    "cloud_share": 0.20666666666666667,
-   "accepted_precision": 0.8833333333333333,
+   "accepted_precision": 0.9033333333333333,
    "cost_usd_per_1k": 0.11
   },
   {
-   "threshold": 0.5717337894373763,
+   "threshold": 0.44091747303720386,
    "cloud_share": 0.20333333333333334,
-   "accepted_precision": 0.8833333333333333,
+   "accepted_precision": 0.9033333333333333,
    "cost_usd_per_1k": 0.109
   },
   {
-   "threshold": 0.5871413192924032,
+   "threshold": 0.4528419646363452,
    "cloud_share": 0.2,
-   "accepted_precision": 0.8833333333333333,
+   "accepted_precision": 0.9,
    "cost_usd_per_1k": 0.107
   },
   {
-   "threshold": 0.5970314995854926,
+   "threshold": 0.46912367612144096,
    "cloud_share": 0.19666666666666666,
-   "accepted_precision": 0.8866666666666667,
+   "accepted_precision": 0.9,
    "cost_usd_per_1k": 0.105
   },
   {
-   "threshold": 0.597464761130952,
+   "threshold": 0.4694120690442477,
    "cloud_share": 0.19333333333333333,
-   "accepted_precision": 0.8833333333333333,
+   "accepted_precision": 0.8966666666666666,
    "cost_usd_per_1k": 0.103
   },
   {
-   "threshold": 0.6143197940044617,
+   "threshold": 0.478251002294222,
    "cloud_share": 0.19,
-   "accepted_precision": 0.8833333333333333,
-   "cost_usd_per_1k": 0.101
+   "accepted_precision": 0.8933333333333333,
+   "cost_usd_per_1k": 0.102
   },
   {
-   "threshold": 0.6174143740591244,
+   "threshold": 0.47940174475781894,
    "cloud_share": 0.18666666666666668,
-   "accepted_precision": 0.88,
+   "accepted_precision": 0.89,
    "cost_usd_per_1k": 0.1
   },
   {
-   "threshold": 0.6183819838029366,
+   "threshold": 0.5046356016433684,
    "cloud_share": 0.18333333333333332,
-   "accepted_precision": 0.88,
+   "accepted_precision": 0.89,
    "cost_usd_per_1k": 0.098
   },
   {
-   "threshold": 0.6235218419493377,
+   "threshold": 0.5177000036301624,
    "cloud_share": 0.18,
-   "accepted_precision": 0.88,
+   "accepted_precision": 0.8866666666666667,
    "cost_usd_per_1k": 0.096
   },
   {
-   "threshold": 0.6282504771312559,
+   "threshold": 0.5351301190261729,
    "cloud_share": 0.17666666666666667,
-   "accepted_precision": 0.88,
+   "accepted_precision": 0.8866666666666667,
    "cost_usd_per_1k": 0.094
   },
   {
-   "threshold": 0.6391582008509756,
+   "threshold": 0.5436948037336953,
    "cloud_share": 0.17333333333333334,
-   "accepted_precision": 0.8766666666666667,
+   "accepted_precision": 0.8833333333333333,
    "cost_usd_per_1k": 0.093
   },
   {
-   "threshold": 0.6469817823183928,
+   "threshold": 0.5449384034862952,
    "cloud_share": 0.17,
-   "accepted_precision": 0.8766666666666667,
+   "accepted_precision": 0.8833333333333333,
    "cost_usd_per_1k": 0.091
   },
   {
-   "threshold": 0.6609317931201825,
+   "threshold": 0.5473457526782892,
    "cloud_share": 0.16666666666666666,
-   "accepted_precision": 0.8766666666666667,
+   "accepted_precision": 0.8833333333333333,
    "cost_usd_per_1k": 0.089
   },
   {
-   "threshold": 0.6814060783317181,
+   "threshold": 0.5713617741811378,
    "cloud_share": 0.16333333333333333,
-   "accepted_precision": 0.8733333333333333,
+   "accepted_precision": 0.8833333333333333,
    "cost_usd_per_1k": 0.087
   },
   {
-   "threshold": 0.6968699603914184,
+   "threshold": 0.5754721220557787,
    "cloud_share": 0.16,
-   "accepted_precision": 0.8733333333333333,
+   "accepted_precision": 0.88,
    "cost_usd_per_1k": 0.086
   },
   {
-   "threshold": 0.717017258566674,
+   "threshold": 0.577771938257271,
    "cloud_share": 0.15666666666666668,
-   "accepted_precision": 0.87,
+   "accepted_precision": 0.8766666666666667,
    "cost_usd_per_1k": 0.084
   },
   {
-   "threshold": 0.7286279797307508,
+   "threshold": 0.5801551412808789,
    "cloud_share": 0.15333333333333332,
-   "accepted_precision": 0.87,
+   "accepted_precision": 0.8733333333333333,
    "cost_usd_per_1k": 0.082
   },
   {
-   "threshold": 0.7286874142764451,
+   "threshold": 0.6020020173883258,
    "cloud_share": 0.15,
-   "accepted_precision": 0.8666666666666667,
+   "accepted_precision": 0.8733333333333333,
    "cost_usd_per_1k": 0.08
   },
   {
-   "threshold": 0.7353827951033245,
+   "threshold": 0.6051755537422123,
    "cloud_share": 0.14666666666666667,
-   "accepted_precision": 0.8633333333333333,
+   "accepted_precision": 0.8733333333333333,
    "cost_usd_per_1k": 0.078
   },
   {
-   "threshold": 0.7697264170655398,
+   "threshold": 0.6157945951473568,
    "cloud_share": 0.14333333333333334,
-   "accepted_precision": 0.86,
+   "accepted_precision": 0.8733333333333333,
    "cost_usd_per_1k": 0.077
   },
   {
-   "threshold": 0.7724920834642255,
+   "threshold": 0.6201692222412974,
    "cloud_share": 0.14,
-   "accepted_precision": 0.8566666666666667,
+   "accepted_precision": 0.8733333333333333,
    "cost_usd_per_1k": 0.075
   },
   {
-   "threshold": 0.7786970976014294,
+   "threshold": 0.6286972676357385,
    "cloud_share": 0.13666666666666666,
-   "accepted_precision": 0.8566666666666667,
+   "accepted_precision": 0.8733333333333333,
    "cost_usd_per_1k": 0.073
   },
   {
-   "threshold": 0.7926929482790348,
+   "threshold": 0.635337105771958,
    "cloud_share": 0.13333333333333333,
-   "accepted_precision": 0.8533333333333334,
+   "accepted_precision": 0.87,
    "cost_usd_per_1k": 0.071
   },
   {
-   "threshold": 0.7994893457482163,
+   "threshold": 0.6458198362282391,
    "cloud_share": 0.13,
-   "accepted_precision": 0.85,
+   "accepted_precision": 0.8666666666666667,
    "cost_usd_per_1k": 0.07
   },
   {
-   "threshold": 0.8282648706139852,
+   "threshold": 0.6593888471188578,
    "cloud_share": 0.12666666666666668,
-   "accepted_precision": 0.8466666666666667,
+   "accepted_precision": 0.87,
    "cost_usd_per_1k": 0.068
   },
   {
-   "threshold": 0.874908653286,
+   "threshold": 0.6688701535043606,
    "cloud_share": 0.12333333333333334,
-   "accepted_precision": 0.8466666666666667,
+   "accepted_precision": 0.8666666666666667,
    "cost_usd_per_1k": 0.066
   },
   {
-   "threshold": 0.8827698765178584,
+   "threshold": 0.6715213907866558,
    "cloud_share": 0.12,
-   "accepted_precision": 0.8433333333333334,
+   "accepted_precision": 0.8633333333333333,
    "cost_usd_per_1k": 0.064
   },
   {
-   "threshold": 0.8873587915796745,
+   "threshold": 0.6796869654069378,
    "cloud_share": 0.11666666666666667,
-   "accepted_precision": 0.84,
+   "accepted_precision": 0.86,
    "cost_usd_per_1k": 0.062
   },
   {
-   "threshold": 0.9117887723450877,
+   "threshold": 0.6845035863719008,
    "cloud_share": 0.11333333333333333,
-   "accepted_precision": 0.8366666666666667,
+   "accepted_precision": 0.86,
    "cost_usd_per_1k": 0.061
   },
   {
-   "threshold": 0.9697198650388644,
+   "threshold": 0.6921860019981243,
    "cloud_share": 0.11,
-   "accepted_precision": 0.8333333333333334,
+   "accepted_precision": 0.8566666666666667,
    "cost_usd_per_1k": 0.059
   },
   {
-   "threshold": 0.9699132065992455,
+   "threshold": 0.6922044216587825,
    "cloud_share": 0.10666666666666667,
-   "accepted_precision": 0.83,
+   "accepted_precision": 0.8533333333333334,
    "cost_usd_per_1k": 0.057
   },
   {
-   "threshold": 0.971908754271583,
+   "threshold": 0.7162889726795961,
    "cloud_share": 0.10333333333333333,
-   "accepted_precision": 0.8266666666666667,
+   "accepted_precision": 0.85,
    "cost_usd_per_1k": 0.055
   },
   {
-   "threshold": 0.9720852375517672,
+   "threshold": 0.7352487091191997,
    "cloud_share": 0.1,
-   "accepted_precision": 0.8233333333333334,
+   "accepted_precision": 0.8466666666666667,
    "cost_usd_per_1k": 0.054
   },
   {
-   "threshold": 0.9724287361869942,
+   "threshold": 0.7402313291752962,
    "cloud_share": 0.09666666666666666,
-   "accepted_precision": 0.82,
+   "accepted_precision": 0.8466666666666667,
    "cost_usd_per_1k": 0.052
   },
   {
-   "threshold": 0.9739957876050801,
+   "threshold": 0.7434628994586492,
    "cloud_share": 0.09333333333333334,
-   "accepted_precision": 0.82,
+   "accepted_precision": 0.8466666666666667,
    "cost_usd_per_1k": 0.05
   },
   {
-   "threshold": 0.9759059883646749,
+   "threshold": 0.758400188987665,
    "cloud_share": 0.09,
-   "accepted_precision": 0.8166666666666667,
+   "accepted_precision": 0.8466666666666667,
    "cost_usd_per_1k": 0.048
   },
   {
-   "threshold": 0.9773297599987862,
+   "threshold": 0.7601858514006261,
    "cloud_share": 0.08666666666666667,
-   "accepted_precision": 0.8133333333333334,
-   "cost_usd_per_1k": 0.046
+   "accepted_precision": 0.8433333333333334,
+   "cost_usd_per_1k": 0.047
   },
   {
-   "threshold": 0.977911219906179,
+   "threshold": 0.8034618161114586,
    "cloud_share": 0.08333333333333333,
-   "accepted_precision": 0.81,
+   "accepted_precision": 0.8433333333333334,
    "cost_usd_per_1k": 0.045
   },
   {
-   "threshold": 0.9781337065135287,
+   "threshold": 0.8098666607480476,
    "cloud_share": 0.08,
-   "accepted_precision": 0.8066666666666666,
+   "accepted_precision": 0.84,
    "cost_usd_per_1k": 0.043
   },
   {
-   "threshold": 0.979361030787801,
+   "threshold": 0.8161326841493425,
    "cloud_share": 0.07666666666666666,
-   "accepted_precision": 0.8033333333333333,
+   "accepted_precision": 0.84,
    "cost_usd_per_1k": 0.041
   },
   {
-   "threshold": 0.9805137540513797,
+   "threshold": 0.8615453024928625,
    "cloud_share": 0.07333333333333333,
-   "accepted_precision": 0.8,
+   "accepted_precision": 0.84,
    "cost_usd_per_1k": 0.039
   },
   {
-   "threshold": 0.9807458556727172,
+   "threshold": 0.8659924438090584,
    "cloud_share": 0.07,
-   "accepted_precision": 0.7966666666666666,
-   "cost_usd_per_1k": 0.037
+   "accepted_precision": 0.8366666666666667,
+   "cost_usd_per_1k": 0.038
   },
   {
-   "threshold": 0.9809771418170046,
+   "threshold": 0.8725443271664669,
    "cloud_share": 0.06666666666666667,
-   "accepted_precision": 0.7933333333333333,
+   "accepted_precision": 0.8366666666666667,
    "cost_usd_per_1k": 0.036
   },
   {
-   "threshold": 0.98235969462025,
+   "threshold": 0.8737365704222809,
    "cloud_share": 0.06333333333333334,
-   "accepted_precision": 0.79,
+   "accepted_precision": 0.8333333333333334,
    "cost_usd_per_1k": 0.034
   },
   {
-   "threshold": 0.9851396123218435,
+   "threshold": 0.9141195535447663,
    "cloud_share": 0.06,
-   "accepted_precision": 0.7866666666666666,
+   "accepted_precision": 0.83,
    "cost_usd_per_1k": 0.032
   },
   {
-   "threshold": 0.9859569525852587,
+   "threshold": 0.9289566216065074,
    "cloud_share": 0.056666666666666664,
-   "accepted_precision": 0.7833333333333333,
+   "accepted_precision": 0.8266666666666667,
    "cost_usd_per_1k": 0.03
   },
   {
-   "threshold": 0.9873566076150467,
+   "threshold": 0.9394002982700439,
    "cloud_share": 0.05333333333333334,
-   "accepted_precision": 0.78,
-   "cost_usd_per_1k": 0.028
+   "accepted_precision": 0.8233333333333334,
+   "cost_usd_per_1k": 0.029
   },
   {
-   "threshold": 0.9881854597398236,
+   "threshold": 0.9624684841140755,
    "cloud_share": 0.05,
-   "accepted_precision": 0.7766666666666666,
+   "accepted_precision": 0.82,
    "cost_usd_per_1k": 0.027
   },
   {
-   "threshold": 0.9894239979480084,
+   "threshold": 0.9631179495712854,
    "cloud_share": 0.04666666666666667,
-   "accepted_precision": 0.7733333333333333,
+   "accepted_precision": 0.8166666666666667,
    "cost_usd_per_1k": 0.025
   },
   {
-   "threshold": 0.9899305569035897,
+   "threshold": 0.9632120406551732,
    "cloud_share": 0.043333333333333335,
-   "accepted_precision": 0.77,
+   "accepted_precision": 0.8166666666666667,
    "cost_usd_per_1k": 0.023
   },
   {
-   "threshold": 0.9908772680506993,
+   "threshold": 0.9658016018629536,
    "cloud_share": 0.04,
-   "accepted_precision": 0.7666666666666667,
-   "cost_usd_per_1k": 0.021
+   "accepted_precision": 0.8133333333333334,
+   "cost_usd_per_1k": 0.022
   },
   {
-   "threshold": 0.9915777994904619,
+   "threshold": 0.967953302754435,
    "cloud_share": 0.03666666666666667,
-   "accepted_precision": 0.7633333333333333,
+   "accepted_precision": 0.81,
    "cost_usd_per_1k": 0.02
   },
   {
-   "threshold": 0.9922127341374423,
+   "threshold": 0.9778561203195196,
    "cloud_share": 0.03333333333333333,
-   "accepted_precision": 0.76,
+   "accepted_precision": 0.8066666666666666,
    "cost_usd_per_1k": 0.018
   },
   {
-   "threshold": 0.9932460268070866,
+   "threshold": 0.9841535249344404,
    "cloud_share": 0.03,
-   "accepted_precision": 0.7566666666666667,
+   "accepted_precision": 0.8033333333333333,
    "cost_usd_per_1k": 0.016
   },
   {
-   "threshold": 0.9943131151958539,
+   "threshold": 0.985740660768832,
    "cloud_share": 0.02666666666666667,
-   "accepted_precision": 0.7533333333333333,
+   "accepted_precision": 0.8,
    "cost_usd_per_1k": 0.014
   },
   {
-   "threshold": 0.9958632537361116,
+   "threshold": 0.9882077886101794,
    "cloud_share": 0.023333333333333334,
-   "accepted_precision": 0.75,
+   "accepted_precision": 0.7966666666666666,
    "cost_usd_per_1k": 0.012
   },
   {
-   "threshold": 0.9961641957067118,
+   "threshold": 0.9886115998928369,
    "cloud_share": 0.02,
-   "accepted_precision": 0.7466666666666667,
+   "accepted_precision": 0.7933333333333333,
    "cost_usd_per_1k": 0.011
   },
   {
-   "threshold": 0.9970739886453169,
+   "threshold": 0.9939045126311968,
    "cloud_share": 0.016666666666666666,
-   "accepted_precision": 0.7433333333333333,
+   "accepted_precision": 0.79,
    "cost_usd_per_1k": 0.009
   },
   {
-   "threshold": 0.997328636939217,
+   "threshold": 0.9970323470757059,
    "cloud_share": 0.013333333333333334,
-   "accepted_precision": 0.74,
+   "accepted_precision": 0.7866666666666666,
    "cost_usd_per_1k": 0.007
   },
   {
-   "threshold": 0.9977001932901794,
+   "threshold": 0.9973323663667711,
    "cloud_share": 0.01,
-   "accepted_precision": 0.7366666666666667,
+   "accepted_precision": 0.7833333333333333,
    "cost_usd_per_1k": 0.005
   },
   {
-   "threshold": 0.9982164567035933,
+   "threshold": 0.9980653758858903,
    "cloud_share": 0.006666666666666667,
-   "accepted_precision": 0.7333333333333333,
+   "accepted_precision": 0.78,
    "cost_usd_per_1k": 0.004
   },
   {
-   "threshold": 0.9995076675670299,
+   "threshold": 0.9994415134263387,
    "cloud_share": 0.0033333333333333335,
-   "accepted_precision": 0.73,
+   "accepted_precision": 0.7766666666666666,
    "cost_usd_per_1k": 0.002
   },
   {
    "threshold": null,
    "cloud_share": 0.0,
-   "accepted_precision": 0.7266666666666667,
+   "accepted_precision": 0.7733333333333333,
    "cost_usd_per_1k": 0.0
   }
  ]
