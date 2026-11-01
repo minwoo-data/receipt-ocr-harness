@@ -165,15 +165,19 @@ BLOCKS = {"pii": block_pii, "correction": block_correction, "ladder": block_ladd
 
 
 def main() -> None:
-    path = ROOT / "README.md"
-    s = path.read_text(encoding="utf-8")
-    for name, fn in BLOCKS.items():
-        pat = re.compile(rf"(<!-- gen:{name} -->\n)(.*?)(<!-- /gen:{name} -->)", re.S)
-        if not pat.search(s):
-            sys.exit(f"README.md: marker gen:{name} missing")
-        s = pat.sub(lambda m: m.group(1) + fn() + "\n" + m.group(3), s, count=1)
-    path.write_text(s, encoding="utf-8")
-    print("README.md: filled", ", ".join(BLOCKS))
+    """Fill the same blocks in the English README and the Korean one (README.ko.md), so both carry identical
+    numbers from report_numbers; a missing marker in either file stops the run."""
+    texts = {name: fn() for name, fn in BLOCKS.items()}
+    for fname in ("README.md", "README.ko.md"):
+        path = ROOT / fname
+        s = path.read_text(encoding="utf-8")
+        for name, text in texts.items():
+            pat = re.compile(rf"(<!-- gen:{name} -->\n)(.*?)(<!-- /gen:{name} -->)", re.S)
+            if not pat.search(s):
+                sys.exit(f"{fname}: marker gen:{name} missing")
+            s = pat.sub(lambda m: m.group(1) + text + "\n" + m.group(3), s, count=1)
+        path.write_text(s, encoding="utf-8", newline="\n")
+        print(f"{fname}: filled", ", ".join(BLOCKS))
 
 
 if __name__ == "__main__":

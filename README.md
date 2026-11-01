@@ -1,5 +1,7 @@
 # receipt-ocr-harness
 
+**English** | [한국어](README.ko.md)
+
 [![The poster as submitted, click for the PDF](docs/assets/poster.png)](docs/assets/Park_Minwoo_MISM_ReceiptOCR.pdf)
 
 *The poster as submitted on 2026-10-31 (click for the PDF). Some of its numbers moved after printing, when a normalizer bug was fixed; the current numbers are in [Correction after printing](#correction-after-printing) and the tables below.*
@@ -257,7 +259,7 @@ Keys: `GEMINI_API_KEY` / `ANTHROPIC_API_KEY` from the environment or
 `~/.config/boda/config.json`. No key file exists inside this repository; a
 pre-commit hook blocks key-shaped strings; a local spend cap
 (`HARNESS_SPEND_CAP_USD`, default 5) stops paid calls. Total API spend for
-every run in this repository: about $1.
+every run in this repository: about $1.25 (the masking experiment added about $0.25).
 
 ## Data and attribution
 
