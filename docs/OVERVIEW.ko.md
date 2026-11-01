@@ -1,6 +1,6 @@
 # receipt-ocr-harness 전체 줄거리 (한국어 요약)
 
-기술 용어·모델명·기법은 영어 그대로 둡니다. 숫자는 2026-10-31 실행 기준이며 원본은 `results/`, `results_wild/`, `README.md` 에 있습니다.
+기술 용어·모델명·기법은 영어 그대로 둡니다. 숫자는 2026-10-31 포스터 인쇄 기준으로 손으로 옮겨 적은 것입니다. 인쇄 뒤 정규화 버그를 고쳐 일부가 바뀌었으니 (특히 WildReceipt), 최신 숫자는 `README.md` 의 생성 블록("Correction after printing" 표 포함)을 보세요. 원본은 `results/`, `results_wild/` 에 있습니다.
 
 ## 한 문단 요약
 
@@ -89,4 +89,4 @@ Oracle 27% cloud → 98.7% ($0.15/1k). Rule router 56% → 95.7%. Harness 96.9%,
 
 ## 파일 지도
 
-`docs/plan-abc.md`(분석 계획, triad 리뷰 기록은 `docs/discussion/plan-abc/`), `scripts/run_all.py`(재실행 한 줄), `src/harness/verify.py`(게이트), `scripts/04_harness.py`(정책 재생: oracle / router / harness / local_only / hedge), `scripts/14_learned_router.py`(학습 신호), `scripts/12_leaks.py`(누출 분류), `poster/`(포스터 소스와 PDF).
+`docs/plan-abc.md`(분석 계획, triad 리뷰 반영), `scripts/run_all.py`(재실행 한 줄), `src/harness/verify.py`(게이트), `scripts/04_harness.py`(정책 재생: oracle / router / harness / local_only / hedge), `scripts/14_learned_router.py`(학습 신호), `scripts/12_leaks.py`(누출 분류), `poster/`(포스터 소스와 PDF).

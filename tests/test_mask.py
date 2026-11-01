@@ -45,9 +45,9 @@ def test_unmasked_control_has_no_tags():
 
 def test_group_lines_assigns_each_detection_its_line():
     # (centre_y, min_x, text) in detection order; a right-aligned amount shares its label's row
-    rows = [(100.0, 400.0, "26.50"), (10.0, 0.0, "SHOP"), (101.0, 0.0, "TOTAL"), (55.0, 0.0, "Cashier:RASHER")]
+    rows = [(100.0, 400.0, "26.50"), (10.0, 0.0, "SHOP"), (101.0, 0.0, "TOTAL"), (55.0, 0.0, "Cashier:ALEX")]  # invented name
     lines, line_of = group_lines(rows, [20.0] * 4)
-    assert lines == ["SHOP", "Cashier:RASHER", "TOTAL 26.50"]
+    assert lines == ["SHOP", "Cashier:ALEX", "TOTAL 26.50"]
     assert line_of == [2, 0, 2, 1]
 
 

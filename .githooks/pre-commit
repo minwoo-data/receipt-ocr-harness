@@ -5,7 +5,20 @@ set -u
 
 blocked=0
 
-# 1. Files that must never be committed, whatever they contain.
+# Local-only paths, one source for this hook and tests/test_public_boundary.py.
+private_list="$(git rev-parse --show-toplevel)/.githooks/private-paths"
+if [ ! -f "$private_list" ]; then
+  echo "[pre-commit] .githooks/private-paths is missing; refusing to commit until it is restored" >&2
+  exit 1
+fi
+patterns=()
+while IFS= read -r p || [ -n "$p" ]; do
+  p="${p%$'\r'}"
+  case "$p" in ''|'#'*) continue ;; esac
+  case "$p" in */) patterns+=("$p*") ;; *) patterns+=("$p") ;; esac
+done < "$private_list"
+
+# 1. Files that must never be committed, whatever they contain (renames included).
 while IFS= read -r f; do
   case "$f" in
     config.json|.env|*.key|*/config.json|*/.env)
@@ -16,7 +29,16 @@ while IFS= read -r f; do
       echo "[pre-commit] refusing to commit a local-only masking file: $f" >&2
       blocked=1 ;;
   esac
-done < <(git diff --cached --name-only --diff-filter=ACM)
+  for pat in "${patterns[@]}"; do
+    # shellcheck disable=SC2254  # the pattern is meant to glob
+    case "$f" in
+      $pat)
+        echo "[pre-commit] refusing to commit a local-only file: $f (listed in .githooks/private-paths)" >&2
+        blocked=1
+        break ;;
+    esac
+  done
+done < <(git diff --cached --name-only --diff-filter=ACMR)
 
 # 2. Key-shaped strings inside staged content (added lines only).
 #    Gemini keys start with AIza + 35 chars; Anthropic keys start with sk-ant-.

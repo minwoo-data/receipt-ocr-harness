@@ -22,7 +22,10 @@ poster/*.pptx~
 results/rapidocr_v1_oldgrouping/
 results_v2/
 
-# personal and working notes: kept on this machine, never published
+# personal and working notes: kept on this machine, never published.
+# Every local-only path is also listed in .githooks/private-paths, which the pre-commit hook enforces
+# (even after `git add -f`); tests/test_public_boundary.py keeps the two lists in step.
+# docs/ is the public Pages folder: personal notes go in notes/, not docs/.
 docs/CONTEXT.md
 docs/discussion/
 CLAUDE.md

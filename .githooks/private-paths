@@ -1,0 +1,23 @@
+# Paths that stay on this machine and are never published (GitHub or Pages).
+# One pattern per line: "dir/" = everything under it, otherwise a file name or a glob.
+# .githooks/pre-commit refuses to commit anything matching a line, even after `git add -f`;
+# tests/test_public_boundary.py checks that .gitignore covers every line and that nothing here is tracked.
+# Rule: docs/ is the public folder; personal notes live in notes/. docs/discussion/ is the one
+# exception, because the triad review skills write there by convention.
+
+# personal and working notes
+notes/
+docs/discussion/
+docs/CONTEXT.md
+CLAUDE.md
+
+# old posters and screenshots of the generated pages
+poster/archive/
+docs/*_preview.png
+
+# receipt images, the masking experiment's local files, the booth demo (shows SROIE images)
+data/raw/
+demo/
+
+# API spend ledger
+results/spend_ledger.json
