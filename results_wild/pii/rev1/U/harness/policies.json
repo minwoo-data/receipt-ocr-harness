@@ -1,0 +1,28 @@
+[
+ {
+  "policy": "harness",
+  "tau": 0.9,
+  "params": {
+   "tau": 0.9
+  },
+  "n": 30,
+  "cloud_fired_share": null,
+  "latency_kind": "sequential_sum",
+  "auto_accept_share": 0.7,
+  "review_share": 0.3,
+  "tier_share": {
+   "T1": 0.0,
+   "T2": 0.0,
+   "T3": 0.7,
+   "T4": 0.0
+  },
+  "cloud_sent_share": 1.0,
+  "cloud_accepted_share": 0.7,
+  "accepted_money_precision": 0.9524,
+  "accepted_all3_precision": 0.5714,
+  "leak_share": 0.0333,
+  "cost_usd_per_1k": 0.532,
+  "costed_receipts": 21,
+  "latency_ms_median": 4992
+ }
+]

@@ -269,3 +269,31 @@ def test_provenance_lists_the_frozen_modules_from_a_fresh_interpreter():
     assert mask.provenance_modules() == mods
     prov = mask.code_provenance([ROOT / "data" / "manifest" / "sroie300.mask.json"], modules=mods)
     assert prov["new_modules"] == [] and all(prov["modules"].values())
+
+
+# ---- rev1: allowlist mode -----------------------------------------------------------------------------------
+def test_allowlist_hides_a_name_without_a_label_word_and_keeps_date_amounts_total():
+    r = rec(["ALEX"], ["APPLE", "1.00"], ["TOTAL", "26.50"], ["CASH 50.00"])
+    p = mask.plan_mask(r, SIDE, True, "M1", mode="allowlist")
+    by = {d["id"]: d["text"] for d in r["tokens"]}
+    hidden = {by[i] for i in p.hide}
+    assert "ALEX" in hidden and "APPLE" in hidden and "Date:" in hidden
+    assert {"25/03/2018", "1.00", "TOTAL", "26.50", "CASH 50.00"}.isdisjoint(hidden)
+    assert p.refuse is None
+
+
+def test_allowlist_still_refuses_personal_data_in_a_kept_detection():
+    p = mask.plan_mask(rec(["REG CASHIER 09-16-2015"]), SIDE, True, "M1", mode="allowlist")
+    assert p.refuse == "label_value_protected"
+
+
+def test_allowlist_drops_compare_values_printed_in_kept_text():
+    r = rec(["CASH"], ["CASH 50.00"])
+    p = mask.plan_mask(r, SIDE, True, "M1", mode="allowlist")
+    cash = next(d["id"] for d in r["tokens"] if d["text"] == "CASH")
+    assert cash in p.hide and p.compare[cash] == ""
+
+
+def test_labels_mode_is_the_default_and_unchanged():
+    r = rec(["Cashier:ALEX"])
+    assert mask.plan_mask(r, SIDE, True, "M1").hide == mask.plan_mask(r, SIDE, True, "M1", mode="labels").hide

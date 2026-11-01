@@ -1,0 +1,35 @@
+{
+ "dataset": "sroie300",
+ "format_version": 1,
+ "frozen": "2026-11-01",
+ "plan": "docs/plan-pii-mask.md",
+ "provenance": {
+  "modules": {
+   "src/harness/__init__.py": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "src/harness/bootstrap.py": "4d0b52c7033627072e08fd5e54d207918b0a5bd018eb6d2ea25e4d5da5c4515e",
+   "src/harness/engines/__init__.py": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "src/harness/engines/traditional.py": "f76cf6c6fde7c1d18c7bdb2009c662b0de25e0e5b6c9d339b9610ec32ab78ea5",
+   "src/harness/engines/vlm.py": "72d40fc452abbca3945ef98ca9f9ebe0adbcc2bf6579abccc48641a986d90e49",
+   "src/harness/keys.py": "43ce9bb31ae96d2d7e62e1c0bd8148419f88248aa280720e2083d0fb5d3e3a99",
+   "src/harness/mask.py": "bd6229596ed7e6b4311bf8360f47ef58f01550bd7f2d8eb8273a5ff4ac9b1c17",
+   "src/harness/normalize.py": "92b31bf57f281f834c1828be349cb2b5d9a4ef9b2379a272a859494a507547ec",
+   "src/harness/pii_run.py": "909b1cbb248aaffed8db4b63b026a183a5afb98c7e7c9e6c0ffde140e71bc17b",
+   "src/harness/rules.py": "2f34432e171c1fda123dcf212ba28c93f6e947707e4701e2ee389c5b62560f0f",
+   "src/harness/schema.py": "a590db3443c4cf791ab6ada8d330b215abafe08f716284b4228338016960fbd0",
+   "src/harness/scoring.py": "71c86e2017afc0f4278dedf7c334aaea42ddeaf24326e335223efe9552975a29",
+   "src/harness/vendor_boda/__init__.py": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "src/harness/vendor_boda/providers.py": "f61781de832f6995566127dcc63c8ddfec62b02a63cde5062bf902a5cc895f58",
+   "src/harness/vendor_boda/sanitizer.py": "23ba5724715a1a32ddfd4d1d228da3f744d29eade7fb5b850ad612c82571d68c",
+   "src/harness/verify.py": "9fbe871a3a6da9f24d71e6bab313ec5fab2bde610815a04c60c3262150abe3e0"
+  },
+  "new_modules": [],
+  "sidecars": {
+   "data/manifest/sroie300.mask.json": "a154b84886b1424ffde720ae7fd6be20635376aaca94add67969ea0da39478e2"
+  },
+  "versions": {
+   "Pillow": "13.0.0",
+   "rapidocr_onnxruntime": "1.4.4"
+  }
+ },
+ "run": "rev1"
+}

@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.1-flash-lite",
+ "provider": "gemini",
+ "raw_text": "{\n  \"vendor\": \"HEERING\",\n  \"date\": \"2015-07-31\",\n  \"subtotal\": 1177.00,\n  \"tax\": 235.40,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 1177.00,\n  \"currency\": \"DKK\",\n  \"confidence\": 0.98,\n  \"notes\": \"The total amount printed at the bottom is 1177.00, which matches the subtotal.\"\n}",
+ "data": {
+  "vendor": "HEERING",
+  "date": "2015-07-31",
+  "subtotal": 1177.0,
+  "tax": 235.4,
+  "tip": null,
+  "discount": null,
+  "total": 1177.0,
+  "currency": "DKK",
+  "confidence": 0.98,
+  "notes": "The total amount printed at the bottom is 1177.00, which matches the subtotal."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1471,
+  "output_tokens": 134,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.000569,
+ "latency_ms": 1772,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.1-flash-lite",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.1-flash-lite"
+ ],
+ "key": "W0096_54a6a3cfa629"
+}

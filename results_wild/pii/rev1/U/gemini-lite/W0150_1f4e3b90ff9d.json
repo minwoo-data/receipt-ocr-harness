@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.1-flash-lite",
+ "provider": "gemini",
+ "raw_text": "{\n  \"vendor\": \"Caltex Central Myrtleford\",\n  \"date\": \"2012-01-24\",\n  \"subtotal\": 70.39,\n  \"tax\": 7.04,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 77.43,\n  \"currency\": \"AUD\",\n  \"confidence\": 0.98,\n  \"notes\": \"Subtotal calculated by subtracting tax from total.\"\n}",
+ "data": {
+  "vendor": "Caltex Central Myrtleford",
+  "date": "2012-01-24",
+  "subtotal": 70.39,
+  "tax": 7.04,
+  "tip": null,
+  "discount": null,
+  "total": 77.43,
+  "currency": "AUD",
+  "confidence": 0.98,
+  "notes": "Subtotal calculated by subtracting tax from total."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1433,
+  "output_tokens": 116,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.000532,
+ "latency_ms": 1784,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.1-flash-lite",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.1-flash-lite"
+ ],
+ "key": "W0150_1f4e3b90ff9d"
+}

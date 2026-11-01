@@ -1,0 +1,32 @@
+{
+ "schema_version": 1,
+ "required_row_keys": [
+  "key",
+  "t1",
+  "t1b",
+  "t2",
+  "t3",
+  "t4",
+  "signal",
+  "flags"
+ ],
+ "optional_row_keys": [
+  "day_first",
+  "refused"
+ ],
+ "tier_keys": [
+  "pred",
+  "correct",
+  "money_ok",
+  "all_ok",
+  "cost",
+  "latency_ms",
+  "available"
+ ],
+ "signal_keys": [
+  "agree",
+  "conf",
+  "complete",
+  "date_ok"
+ ]
+}

@@ -295,11 +295,19 @@ def _pattern_hits(text_n: str, phone_allowed: bool) -> list[tuple[str, str]]:
     return hits
 
 
-def plan_mask(record: dict, sidecar: dict, day_first: bool = True, variant: str = "M1") -> MaskPlan:
+MODES = ("labels", "allowlist")
+
+
+def plan_mask(record: dict, sidecar: dict, day_first: bool = True, variant: str = "M1", mode: str = "labels") -> MaskPlan:
     """Rules 1-4 of the plan on one run_rapidocr record with id/box/line on every token.
-    U: nothing hidden, no Gate. M1: personal data. M2: M1 plus the shop block and item names."""
+    U: nothing hidden, no Gate. M1: personal data. M2: M1 plus the shop block and item names.
+    mode "labels" (r0): hide what the label and pattern rules find. mode "allowlist" (rev1): keep only the
+    detections needed to read date and total (protected, holding an amount, or holding a total keyword) and
+    hide every other one; the label and pattern rules still refuse when personal data sits in a kept one."""
     if variant not in VARIANTS:
         raise ValueError(variant)
+    if mode not in MODES:
+        raise ValueError(mode)
     dets = reading_order(record["tokens"])
     for d in dets:
         if "id" not in d or "line" not in d or "box" not in d:
@@ -383,6 +391,25 @@ def plan_mask(record: dict, sidecar: dict, day_first: bool = True, variant: str 
                 hide(d, "m2:shop", "m2_shop", d["text"])
             elif _has_amount(line_text[d["line"]]) and not re.search(r"\d", d["text"]):
                 hide(d, "m2:item", "m2_item", d["text"])
+
+    if mode == "allowlist":
+        # Keep only what reading date and total needs; hide the rest. The fill avoids every kept quad (they are
+        # the protected set for render), so no overlap refusal: the post-mask check is the safety net. A compare
+        # value that is also printed in a kept detection is dropped (it stays readable there, nothing leaks).
+        kept = {d["id"] for d in dets if d["id"] in protected or _has_amount(d["text"]) or rules.has_total_keyword(d["text"])}
+        kept_text = [squash(d["text"]) for d in dets if d["id"] in kept]
+        plan.rule, plan.category, plan.compare = {}, {}, {}
+        for d in dets:
+            if d["id"] not in kept:
+                c = squash(d["text"])
+                plan.rule[d["id"]] = "allowlist"
+                plan.category[d["id"]] = "allowlist"
+                plan.compare[d["id"]] = "" if any(c and c in t for t in kept_text) else c
+        plan.protected = sorted(kept)
+        order = [d["id"] for d in dets if d["id"] in plan.rule]
+        plan.hide = order
+        plan.tags = {i: f"[P{k}]" for k, i in enumerate(order, start=1)}
+        return plan
 
     # Rule 4 (geometry part): a hidden detection may not touch a protected one.
     pro = [_quad(d) for d in dets if d["id"] in protected]

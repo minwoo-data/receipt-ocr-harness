@@ -167,9 +167,14 @@ def mask_maps(P: dict, variant: str) -> dict:
     return out
 
 
+def run_variants(P: dict) -> tuple:
+    """r0 runs U, M1, M2; a revision runs U (reused from r0) and M1 only."""
+    return mask.VARIANTS if P["run"] == "r0" else ("U", "M1")
+
+
 def refresh_views(P: dict, table: pii_run.JobTable) -> None:
     keys = sample_keys(P)
-    for v in mask.VARIANTS:
+    for v in run_variants(P):
         mm = mask_maps(P, v)
         pii_run.write_jobs_view(P, v, keys, table, {k: m["n_tags"] for k, m in mm.items()},
                                 {k for k, m in mm.items() if m["refuse"]})
@@ -178,6 +183,7 @@ def refresh_views(P: dict, table: pii_run.JobTable) -> None:
 def cmd_mask(P: dict, args) -> None:
     require_frozen(P)
     side = mask.load_sidecar(P["sidecar"])
+    mode = side.get("modes", {}).get(P["run"], "labels")
     man = manifest_map(P)
     table = pii_run.JobTable(P["job_table"])
     reasons: dict = {}
@@ -185,11 +191,11 @@ def cmd_mask(P: dict, args) -> None:
     for i, k in enumerate(sample_keys(P), 1):
         rec = json.loads((P["boxes"] / f"{k}.json").read_text(encoding="utf-8"))
         df = man[k].get("day_first", True)
-        for v in mask.VARIANTS:
+        for v in run_variants(P):
             mf = P["mask_maps"] / f"{k}.{v}.json"
             if mf.exists():
                 continue
-            plan = mask.plan_mask(rec, side, df, v)
+            plan = mask.plan_mask(rec, side, df, v, mode=mode)
             payload_sha, post = None, None
             if plan.refuse is None:
                 img, fill = mask.render(ROOT / man[k]["image"], plan, rec, side)
@@ -222,7 +228,7 @@ def cmd_mask(P: dict, args) -> None:
                     unknown.append(k)
         print(f"[{i}/30] {k}", flush=True)
     refresh_views(P, table)
-    print(f"{P['dataset']} {P['run']}: Gate refusals {reasons or 0}")
+    print(f"{P['dataset']} {P['run']} (mode {mode}): Gate refusals {reasons or 0}")
     print(f"  M1 receipts where the ground truth could not be located (hand check, step 4b): {len(unknown)} {unknown}")
 
 
@@ -241,7 +247,7 @@ def cmd_read(P: dict, args, tier: str = "t3") -> None:
         todo = t4_selection(P, table)
     else:
         todo = []
-        for v in mask.VARIANTS:
+        for v in run_variants(P):
             for k in keys:
                 last = table.latest(P["run"], P["dataset"], k, v, "t3")
                 if last and last["status"] == "planned" and not (P["variant"][v]["reads_t3"] / f"{k}.json").exists():
@@ -251,6 +257,14 @@ def cmd_read(P: dict, args, tier: str = "t3") -> None:
     for k, v, job in todo:
         img = P["images"] / f"{k}.{v}.png"
         out = P["variant"][v]["reads_t3" if tier == "t3" else "reads_t4"] / f"{k}.json"
+        reuse = table.reusable(P["dataset"], k, "U", tier, job["payload_sha256"]) if v == "U" and P["run"] != "r0" else None
+        if reuse:   # a revision reuses r0's U read of the same bytes: no call
+            out.parent.mkdir(parents=True, exist_ok=True)
+            out.write_bytes((ROOT / reuse["read_path"]).read_bytes())
+            table.mark(job, "done", read_path=out.relative_to(ROOT).as_posix(), reason=f"reused {reuse['run']}")
+            stats.setdefault("reused", 0)
+            stats["reused"] += 1
+            continue
         n = 0
         while True:
             n += 1

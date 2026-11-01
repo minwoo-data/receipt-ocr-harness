@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.1-flash-lite",
+ "provider": "gemini",
+ "raw_text": "{\n  \"vendor\": null,\n  \"date\": null,\n  \"subtotal\": 165.00,\n  \"tax\": 9.34,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 155.00,\n  \"currency\": null,\n  \"confidence\": 0.6,\n  \"notes\": \"The receipt is heavily redacted with placeholders and lacks a vendor name or date.\"\n}",
+ "data": {
+  "vendor": null,
+  "date": null,
+  "subtotal": 165.0,
+  "tax": 9.34,
+  "tip": null,
+  "discount": null,
+  "total": 155.0,
+  "currency": null,
+  "confidence": 0.6,
+  "notes": "The receipt is heavily redacted with placeholders and lacks a vendor name or date."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1473,
+  "output_tokens": 107,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.000529,
+ "latency_ms": 1791,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.1-flash-lite",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.1-flash-lite"
+ ],
+ "key": "X51006329388"
+}

@@ -1,6 +1,6 @@
 {
  "version": 1,
- "note": "Masking word lists for one dataset (docs/plan-pii-mask.md, Masker). Written from dev-set OCR only. ADDRESS was added because a dev receipt prints a customer address after 'ADDRESS :'; BILL TO is not a label word because 'BILL TOTAL' would match it (letters may follow a label) and refuse the receipt.",
+ "note": "Masking word lists for one dataset (docs/plan-pii-mask.md, Masker). Written from dev-set OCR only. ADDRESS was added because a dev receipt prints a customer address after 'ADDRESS :'; BILL TO is not a label word because 'BILL TOTAL' would match it (letters may follow a label) and refuse the receipt. modes: r0 = label and pattern rules; rev1 = allowlist (keep date, amount and total-keyword detections, hide the rest), the revision after r0 missed most names.",
  "label_words": {
   "CASHIER": "staff_name",
   "SERVED BY": "staff_name",
@@ -27,5 +27,9 @@
   "frac_of_height": 0.1,
   "min_px": 2
  },
- "publish_reads": "full"
+ "publish_reads": "full",
+ "modes": {
+  "r0": "labels",
+  "rev1": "allowlist"
+ }
 }
