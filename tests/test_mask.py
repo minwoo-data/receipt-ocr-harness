@@ -18,11 +18,18 @@ def names(flags):
 
 def test_pii_paths_split_public_and_local():
     P = pii_paths(ROOT / "results_wild", "data/manifest/wild200.jsonl")
-    assert P["dataset"] == "wild200"
+    assert P["dataset"] == "wild200" and P["run"] == "r0"
     assert P["sample"] == ROOT / "results_wild" / "pii" / "sample.json"
-    for k in ("boxes", "jobs", "labels", "mask_maps", "images", "manifests", "post_ocr"):
+    assert P["freeze"] == ROOT / "results_wild" / "pii" / "r0" / "freeze.json"
+    for k in ("boxes", "job_table", "labels", "mask_maps", "images", "post_ocr", "gt_checks", "budget"):
         assert LOCAL_ROOT in P[k].parents and "pii_local" in str(P[k]), k
+    for k in ("images", "mask_maps", "post_ocr", "gt_checks"):         # rule-dependent: per run
+        assert P["run_local"] in P[k].parents or P[k].parent == P["run_local"], k
+    assert P["variant"]["M1"]["jobs_json"] == ROOT / "results_wild" / "pii" / "r0" / "M1" / "jobs.json"
+    assert "manifests" not in P and "jobs" not in P
     assert str(LOCAL_ROOT.relative_to(ROOT)).replace("\\", "/").startswith("data/raw/")   # git-ignored root
+    rev = pii_paths(ROOT / "results_wild", "data/manifest/wild200.jsonl", run="rev1")
+    assert rev["mask_maps"] != P["mask_maps"] and rev["boxes"] == P["boxes"] and rev["labels"] == P["labels"]
 
 
 def test_tags_issued_pass_unissued_and_broken_flag():

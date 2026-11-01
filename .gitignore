@@ -12,6 +12,8 @@ __pycache__/
 
 # raw datasets (downloaded by scripts/01_fetch_sroie.py; licensed separately)
 data/raw/
+# masking experiment: OCR text, labels, mask maps and request IDs stay on this machine, wherever they are
+*pii_local*
 
 # large or regenerable outputs
 results/raw_responses/

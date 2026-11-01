@@ -45,6 +45,13 @@ _EXCLUDE = re.compile(
     re.IGNORECASE,
 )
 _MONEY = re.compile(r"(?<![\d.])-?\d{1,3}(?:,\d{3})*\.\d{2}(?![\d])|(?<![\d.])-?\d+\.\d{2}(?![\d])")
+MONEY = _MONEY     # public name for other modules (mask.py); same pattern, no behaviour change
+
+
+def has_total_keyword(line: str) -> bool:
+    """True when a line carries a total keyword (strong or medium), ignoring the exclude list, so
+    'Total Savings -0.56' counts too. Public for mask.py's protection rule (the cautious side)."""
+    return bool(_STRONG.search(line) or _MEDIUM.search(line))
 _LONE_AMOUNT = re.compile(r"^\s*(?:RM|MYR|\$)?\s*-?\d{1,3}(?:,\d{3})*\.\d{2}\s*$|^\s*(?:RM|MYR|\$)?\s*-?\d+\.\d{2}\s*$",
                           re.IGNORECASE)
 _DATE_HINT = re.compile(

@@ -33,8 +33,12 @@ Tier-1 records are refreshed with the current rules (rules.refresh) when loaded,
 normalizer fix reaches the cached OCR reads.
 
 Masking experiment (docs/plan-pii-mask.md): masking is a swap of the T3/T4 read folders, not a new
-policy, e.g. --t3 pii/M1/gemini-lite --t4 pii/M1/gemini --keys results/pii/sample.json
---gates tags --jobs results/pii/M1/jobs.json --out results/pii/M1/harness.
+policy. Run it through `25_pii_mask.py replay --results ... --manifest ... --run r0 --variant M1`, which
+builds the arguments from mask.pii_paths (--t3 pii/r0/M1/gemini-lite --t4 pii/r0/M1/gemini --keys
+results/pii/sample.json --gates tags --jobs results/pii/r0/M1/jobs.json --out results/pii/r0/M1/harness).
+With --jobs (format_version 1) the run checks the view against the read folders in both directions, stops
+on a `t3: pending` receipt or a stale T4 selection, routes a `refused` receipt to review right after T1,
+and writes only the harness policy (per_receipt.jsonl, policies.json, per_receipt.schema.json).
 
 Outputs: results/harness/policies.md, policies.json, tau_sweep.json,
          waterfall.json, per_receipt.jsonl
@@ -215,6 +219,8 @@ def decide(row: dict, policy: str, params: dict | float) -> dict:
             take("T2", t2)
             if not row["flags"]["t2"]:
                 return {"tier": "T2", "path": path, "cost": cost, "latency_ms": lat}
+        if row.get("refused"):      # masking experiment: the Gate refused this receipt, no cloud request at any tier
+            return {"tier": "review", "path": path, "cost": cost, "latency_ms": lat}
         take("T3", t3)
         if t3["available"] and not row["flags"]["t3"]:
             return {"tier": "T3", "path": path, "cost": cost, "latency_ms": lat}
@@ -319,13 +325,22 @@ def main() -> None:
                     help="JSON with a 'keys' list (e.g. results/pii/sample.json): replay only these receipts; "
                          "the date window still comes from the full manifest")
     ap.add_argument("--jobs", default=None,
-                    help="masking experiment jobs.json ({'receipts': {key: {'status', 'n_tags'}}}); "
-                         "gives the tags gate its n_tags and checks refused receipts have no cloud read")
+                    help="masking experiment jobs.json ({'format_version': 1, 'receipts': {key: {'n_tags', 't3', 't4'}}}); "
+                         "gives the tags gate its n_tags, checks it against the read folders, routes refused "
+                         "receipts to review and writes only the harness policy")
     args = ap.parse_args()
     global GATES
     GATES = tuple(g for g in args.gates.split(",") if g)
     keys = set(json.loads((ROOT / args.keys).read_text(encoding="utf-8"))["keys"]) if args.keys else None
-    jobs = json.loads((ROOT / args.jobs).read_text(encoding="utf-8"))["receipts"] if args.jobs else {}
+    jobs: dict = {}
+    if args.jobs:
+        view = json.loads((ROOT / args.jobs).read_text(encoding="utf-8"))
+        if view.get("format_version") != 1:
+            raise SystemExit(f"--jobs {args.jobs}: format_version {view.get('format_version')}, expected 1")
+        jobs = view["receipts"]
+        pending = sorted(k for k, j in jobs.items() if j["t3"] == "pending")
+        if pending:
+            raise SystemExit(f"--jobs: {len(pending)} receipts are still t3 pending (run 25_pii_mask.py read): {pending[:3]}")
 
     manifest = load_manifest(ROOT / args.manifest)
     global ROOT_RESULTS
@@ -343,9 +358,15 @@ def main() -> None:
         assert not missing, f"--keys holds receipts not in {args.manifest}: {sorted(missing)[:5]}"
         manifest = [it for it in manifest if it["key"] in keys]
         print(f"--keys: replaying {len(manifest)} receipts")
-    for k, j in jobs.items():
-        if j.get("status") == "refused":
-            assert k not in R["t3"] and k not in R["t4"], f"{k} was refused by the masker but has a cloud read"
+    if args.jobs:
+        for item in manifest:
+            k = item["key"]
+            if k not in jobs:
+                raise SystemExit(f"--jobs: {k} is replayed but not in {args.jobs}")
+            for t in ("t3", "t4"):
+                if (jobs[k][t] == "read") != (k in R[t]):
+                    raise SystemExit(f"--jobs: {k} {t} is '{jobs[k][t]}' in {args.jobs} but the read file "
+                                     f"{'is missing' if k not in R[t] else 'exists'}")
 
     rows = []
     for item in manifest:
@@ -367,6 +388,13 @@ def main() -> None:
             "flags": {t: vlm_flags(R[t].get(key), ocr_lines, None if t == "t2" else jobs.get(key, {}).get("n_tags"))
                       for t in ("t2", "t3", "t4")},
         }
+        if args.jobs:
+            j = jobs[key]
+            if j["t3"] == "refused":
+                row["refused"] = True
+            real_t3_flags = [f for f in row["flags"]["t3"] if f != "UNAVAILABLE"]
+            if j["t3"] == "read" and real_t3_flags and j["t4"] == "not_needed":
+                raise SystemExit(f"--jobs: T4 selection stale for {key} (T3 now flagged {real_t3_flags}): rerun 25_pii_mask.py t4")
         rows.append(row)
 
     out = Path(args.out) if args.out else ROOT_RESULTS / "harness"
@@ -374,6 +402,22 @@ def main() -> None:
     with (out / "per_receipt.jsonl").open("w", encoding="utf-8") as fh:
         for r in rows:
             fh.write(json.dumps(r, ensure_ascii=False) + "\n")
+
+    if args.jobs:
+        # Masked reads: publish only the harness policy (no other policy's numbers for masked images).
+        pol = [summarize(rows, "harness", {"tau": args.tau})]
+        (out / "policies.json").write_text(json.dumps(pol, indent=1), encoding="utf-8")
+        (out / "per_receipt.schema.json").write_text(json.dumps({
+            "schema_version": 1,
+            "required_row_keys": ["key", "t1", "t1b", "t2", "t3", "t4", "signal", "flags"],
+            "optional_row_keys": ["day_first", "refused"],
+            "tier_keys": ["pred", "correct", "money_ok", "all_ok", "cost", "latency_ms", "available"],
+            "signal_keys": ["agree", "conf", "complete", "date_ok"],
+        }, indent=1), encoding="utf-8")
+        s = pol[0]
+        print(f"harness on {len(rows)} receipts: review {s['review_share']}, sent {s['cloud_sent_share']}, "
+              f"accepted precision {s['accepted_money_precision']}")
+        return
 
     policies = [summarize(rows, p, {"tau": args.tau}) for p in
                 ("all_local", "all_qwen", "all_lite", "all_strong", "oracle", "router", "harness", "harness_ladder",

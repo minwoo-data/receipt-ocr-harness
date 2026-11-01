@@ -1,0 +1,31 @@
+{
+ "version": 1,
+ "note": "Masking word lists for one dataset (docs/plan-pii-mask.md, Masker). Written from dev-set OCR only. ADDRESS was added because a dev receipt prints a customer address after 'ADDRESS :'; BILL TO is not a label word because 'BILL TOTAL' would match it (letters may follow a label) and refuse the receipt.",
+ "label_words": {
+  "CASHIER": "staff_name",
+  "SERVED BY": "staff_name",
+  "STAFF": "staff_name",
+  "OPERATOR": "staff_name",
+  "SALESPERSON": "staff_name",
+  "MEMBER": "member_no",
+  "MEMBER NO": "member_no",
+  "CARD NO": "card_fragment",
+  "A/C": "card_fragment",
+  "CUSTOMER": "customer_name",
+  "NAME": "customer_name",
+  "ATTN": "customer_name",
+  "ADDRESS": "customer_address"
+ },
+ "exclude_words": [
+  "DISCOUNT",
+  "POINTS",
+  "COPY",
+  "SERVICE",
+  "THANK"
+ ],
+ "pad": {
+  "frac_of_height": 0.1,
+  "min_px": 2
+ },
+ "publish_reads": "full"
+}

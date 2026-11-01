@@ -56,15 +56,30 @@ def main() -> None:
     pool, n_all = cloud_bound(results)
     if P["sample"].exists():
         sample = json.loads(P["sample"].read_text(encoding="utf-8"))
-        assert sample["seed"] == SEED and sample["n"] == args.n and sample["pool"] == len(pool), "sample.json is from another draw"
+        assert sample["seed"] == SEED and sample["n"] == args.n, "sample.json is from another draw"
         pick = sample["keys"]
+        if "pool_keys" not in sample:
+            # Step 2 of the plan: record the pool and the dev set (pool minus sample) once, so later rule or
+            # normalizer fixes that move a receipt in or out of the cloud-bound pool cannot change the dev set.
+            assert sample["pool"] == len(pool) and set(pick) <= set(pool), \
+                "the current cloud-bound pool is not the one the sample was drawn from; record it by hand"
+            sample["pool_keys"] = pool
+            sample["dev_keys"] = sorted(set(pool) - set(pick))
+            P["sample"].write_text(json.dumps(sample, indent=1), encoding="utf-8")
+        else:
+            gone, new = sorted(set(sample["pool_keys"]) - set(pool)), sorted(set(pool) - set(sample["pool_keys"]))
+            if gone or new:
+                print(f"note: the cloud-bound pool moved since the draw: {len(gone)} left, {len(new)} joined "
+                      f"(sample and dev_keys stay as recorded)", flush=True)
     else:
         pick = sorted(random.Random(SEED).sample(pool, args.n))
         sample = {"seed": SEED, "n": args.n, "policy": "harness", "tau": TAU,
                   "drawn_from": "receipts whose image reached T3 or T4 under the harness policy",
-                  "pool": len(pool), "receipts": n_all, "keys": pick}
+                  "pool": len(pool), "receipts": n_all, "keys": pick,
+                  "pool_keys": pool, "dev_keys": sorted(set(pool) - set(pick))}
         P["sample"].write_text(json.dumps(sample, indent=1), encoding="utf-8")
-    print(f"{args.results}: {len(pool)} of {n_all} receipts go to the cloud; sample {len(pick)}", flush=True)
+    print(f"{args.results}: {len(pool)} of {n_all} receipts go to the cloud; sample {len(pick)}; "
+          f"dev set {len(sample['dev_keys'])}", flush=True)
 
     with open(ROOT / args.manifest, encoding="utf-8") as fh:
         manifest = {m["key"]: m for m in (json.loads(l) for l in fh if l.strip())}

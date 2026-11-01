@@ -17,6 +17,7 @@ docs/*_preview.png
 
 # receipt images, the masking experiment's local files, the booth demo (shows SROIE images)
 data/raw/
+*pii_local*
 demo/
 
 # API spend ledger

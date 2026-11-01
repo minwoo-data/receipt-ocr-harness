@@ -59,6 +59,15 @@ def test_docs_holds_no_unlisted_ignored_file():
     assert not bad, f"ignored files in docs/ that are not in private-paths (move them to notes/): {bad}"
 
 
+def test_masking_local_root_is_listed():
+    import sys
+    sys.path.insert(0, str(ROOT / "src"))
+    from harness.mask import LOCAL_ROOT
+    rel = LOCAL_ROOT.relative_to(ROOT).as_posix() + "/sroie300/jobs.jsonl"
+    assert any(matches(rel, p) for p in patterns()), f"{rel} is not covered by .githooks/private-paths"
+    assert any(matches("results/pii_local/x.json", p) for p in patterns()), "a pii_local folder anywhere is private"
+
+
 def test_hook_refuses_private_paths_even_when_forced(tmp_path):
     repo = tmp_path / "repo"
     (repo / ".githooks").mkdir(parents=True)

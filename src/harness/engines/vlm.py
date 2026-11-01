@@ -55,6 +55,15 @@ CLAUDE_MODEL = "claude-haiku-5-5"
 # then the stronger Gemini, then a different vendor.
 DEFAULT_CHAIN = (("gemini", GEMINI_LITE_MODEL), ("gemini", GEMINI_MODEL), ("claude", CLAUDE_MODEL))
 
+# One model per name, for callers that must not fall through to another model or vendor (the masking
+# experiment). scripts/02_run_engine.py keeps its own table; tests/test_pii_run.py checks they agree.
+ENGINE_CHAINS = {
+    "gemini-lite": (("gemini", GEMINI_LITE_MODEL),),
+    "gemini": (("gemini", GEMINI_MODEL),),
+}
+
+MAX_OUTPUT_TOKENS = 2048     # the output cap sent with every Gemini request
+
 # Max long side sent to each tier. SROIE scans are ~5000x7000 px; vision
 # models tile or resize internally, so sending that is pure upload cost.
 MAX_SIDE_CLOUD = 1600
@@ -152,6 +161,15 @@ def _cost(model: str, inp: int, out: int) -> float | None:
     return round((inp * pi + out * po) / 1_000_000, 6)
 
 
+def max_request_usd(model: str, input_tokens: int) -> float:
+    """The most one request to `model` can cost: `input_tokens` in plus MAX_OUTPUT_TOKENS out.
+    Unknown model -> ValueError (a budget must not treat an unpriced model as free)."""
+    cost = _cost(model, int(input_tokens), MAX_OUTPUT_TOKENS)
+    if cost is None:
+        raise ValueError(f"no price for {model}")
+    return cost
+
+
 def _finish(engine: str, provider: str, raw_text: str | None, usage: dict,
             t0: float, attempts: list[dict], chain: list[str], validate=None) -> dict:
     data = parse_response(raw_text) if raw_text else None
@@ -231,7 +249,7 @@ def _gemini_configs(types, schema: dict | None = None):
     Gemini 3 'thinking_level' knob, then the 2.x 'thinking_budget', then none.
     schema: the response JSON schema; default RECEIPT_JSON_SCHEMA."""
     schema = RECEIPT_JSON_SCHEMA if schema is None else schema
-    base = dict(temperature=0.0, max_output_tokens=2048, response_mime_type="application/json")
+    base = dict(temperature=0.0, max_output_tokens=MAX_OUTPUT_TOKENS, response_mime_type="application/json")
     variants = []
     # Order learned on 2026-10-31: budget=0 works on 3.5/3.6 Flash, the Lite
     # models accept only "none", and 3.8 Flash rejects level "minimal".
@@ -345,7 +363,8 @@ def _call_claude(image_path: Path, prompt: str, model: str, max_attempts: int) -
 
 
 def run_cloud_chain(image_path: str | Path, chain=DEFAULT_CHAIN, prompt: str | None = None,
-                    fast_fail: bool = True, schema: dict | None = None, validate=None) -> dict:
+                    fast_fail: bool = True, schema: dict | None = None, validate=None,
+                    max_attempts: int | None = None) -> dict:
     """Walk a (provider, model) chain. With fast_fail (ADR-0012 pattern) every
     non-last link gets 1 attempt and only the last link gets 3; a single-link
     chain therefore gets 3 attempts, which is the right setting for measuring
@@ -353,7 +372,9 @@ def run_cloud_chain(image_path: str | Path, chain=DEFAULT_CHAIN, prompt: str | N
     a row until its cooldown passes. A missing key skips the link, never fatal;
     the spend cap is fatal (SpendCapReached propagates).
     schema / validate: response schema for Gemini and the (is_safe, data, warnings) validator that
-    replaces the receipt sanitizer; defaults are the receipt extraction's. Claude links ignore schema."""
+    replaces the receipt sanitizer; defaults are the receipt extraction's. Claude links ignore schema.
+    max_attempts: when given, every link gets exactly that many attempts (1 = at most one billed request
+    per call, so a caller can reserve budget per request and retry on its own); None = the rule above."""
     image_path = Path(image_path)
     prompt = prompt or extraction_prompt()
     chain = list(chain)
@@ -362,7 +383,7 @@ def run_cloud_chain(image_path: str | Path, chain=DEFAULT_CHAIN, prompt: str | N
     models = [m for _, m in chain]
     for i, (provider, model) in enumerate(chain):
         is_last = i == len(chain) - 1
-        budget = 3 if (is_last or not fast_fail) else 1
+        budget = max_attempts if max_attempts is not None else (3 if (is_last or not fast_fail) else 1)
         circuit = _circuit(f"{provider}:{model}")
         if circuit.is_open():
             all_attempts.append({"provider": provider, "model": model, "ok": False, "error": "circuit_open"})
