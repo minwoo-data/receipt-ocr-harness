@@ -32,6 +32,10 @@ check). The router stays check-free by definition.
 Tier-1 records are refreshed with the current rules (rules.refresh) when loaded, so a rules or
 normalizer fix reaches the cached OCR reads.
 
+Masking experiment (docs/plan-pii-mask.md): masking is a swap of the T3/T4 read folders, not a new
+policy, e.g. --t3 pii/M1/gemini-lite --t4 pii/M1/gemini --keys results/pii/sample.json
+--gates tags --jobs results/pii/M1/jobs.json --out results/pii/M1/harness.
+
 Outputs: results/harness/policies.md, policies.json, tau_sweep.json,
          waterfall.json, per_receipt.jsonl
 """
@@ -97,7 +101,7 @@ def local_signal(rapid: dict | None, tess: dict | None, day_first: bool = True) 
 
 
 ERA = {"today": TODAY, "min_year": None}     # set from the manifest's ground-truth years in main()
-GATES: tuple[str, ...] = ()                  # optional verify gates, from --gates
+GATES: tuple[str, ...] = ()                  # optional gates, from --gates ("total_label" in verify.py, "tags" in mask.py)
 
 
 def t1_date_ok(rapid: dict | None, day_first: bool = True) -> bool:
@@ -106,10 +110,16 @@ def t1_date_ok(rapid: dict | None, day_first: bool = True) -> bool:
     return d is not None and not verify.check_date({"date": d}, today=ERA["today"], min_year=ERA["min_year"])
 
 
-def vlm_flags(rec: dict | None, ocr_lines: list[str] | None) -> list[str]:
+def vlm_flags(rec: dict | None, ocr_lines: list[str] | None, n_tags: int | None = None) -> list[str]:
+    """n_tags: tags issued for this receipt's masked image (masking experiment); used only with --gates tags."""
     if rec is None:
         return ["UNAVAILABLE"]
-    return [f.name for f in verify.verify(rec, ocr_lines, today=ERA["today"], min_year=ERA["min_year"], gates=GATES)]
+    flags = verify.verify(rec, ocr_lines, today=ERA["today"], min_year=ERA["min_year"],
+                          gates=tuple(g for g in GATES if g != "tags"))
+    if "tags" in GATES:
+        from harness.mask import check_tags
+        flags += check_tags(rec, n_tags)
+    return [f.name for f in flags]
 
 
 # ---------------------------------------------------------------------------
@@ -304,10 +314,18 @@ def main() -> None:
     ap.add_argument("--tau", type=float, default=0.9)
     ap.add_argument("--results", default="results", help="results root (e.g. results_wild for the WildReceipt run)")
     ap.add_argument("--out", default=None, help="output folder; default <results>/harness")
-    ap.add_argument("--gates", default="", help="optional verify gates, comma separated (e.g. total_label)")
+    ap.add_argument("--gates", default="", help="optional gates, comma separated (total_label, tags)")
+    ap.add_argument("--keys", default=None,
+                    help="JSON with a 'keys' list (e.g. results/pii/sample.json): replay only these receipts; "
+                         "the date window still comes from the full manifest")
+    ap.add_argument("--jobs", default=None,
+                    help="masking experiment jobs.json ({'receipts': {key: {'status', 'n_tags'}}}); "
+                         "gives the tags gate its n_tags and checks refused receipts have no cloud read")
     args = ap.parse_args()
     global GATES
     GATES = tuple(g for g in args.gates.split(",") if g)
+    keys = set(json.loads((ROOT / args.keys).read_text(encoding="utf-8"))["keys"]) if args.keys else None
+    jobs = json.loads((ROOT / args.jobs).read_text(encoding="utf-8"))["receipts"] if args.jobs else {}
 
     manifest = load_manifest(ROOT / args.manifest)
     global ROOT_RESULTS
@@ -320,6 +338,14 @@ def main() -> None:
     print("date window:", ERA)
     R = {k: load_dir(v) for k, v in (("t1", args.t1), ("t1b", args.t1b), ("t2", args.t2), ("t3", args.t3), ("t4", args.t4))}
     print({k: len(v) for k, v in R.items()})
+    if keys is not None:
+        missing = keys - {it["key"] for it in manifest}
+        assert not missing, f"--keys holds receipts not in {args.manifest}: {sorted(missing)[:5]}"
+        manifest = [it for it in manifest if it["key"] in keys]
+        print(f"--keys: replaying {len(manifest)} receipts")
+    for k, j in jobs.items():
+        if j.get("status") == "refused":
+            assert k not in R["t3"] and k not in R["t4"], f"{k} was refused by the masker but has a cloud read"
 
     rows = []
     for item in manifest:
@@ -338,7 +364,8 @@ def main() -> None:
             "t3": tier_eval(R["t3"].get(key), gt, df),
             "t4": tier_eval(R["t4"].get(key), gt, df),
             "signal": {**local_signal(rapid, tess, df), "date_ok": t1_date_ok(rapid, df)},
-            "flags": {t: vlm_flags(R[t].get(key), ocr_lines) for t in ("t2", "t3", "t4")},
+            "flags": {t: vlm_flags(R[t].get(key), ocr_lines, None if t == "t2" else jobs.get(key, {}).get("n_tags"))
+                      for t in ("t2", "t3", "t4")},
         }
         rows.append(row)
 

@@ -74,9 +74,18 @@ import json as _json
 import os as _os
 import threading as _threading
 
-SPEND_CAP_USD = float(_os.environ.get("HARNESS_SPEND_CAP_USD", "5"))
+SPEND_CAP_USD = 5.0          # default; HARNESS_SPEND_CAP_USD overrides it, read at every paid call
 _LEDGER = Path(__file__).resolve().parents[3] / "results" / "spend_ledger.json"
 _ledger_lock = _threading.Lock()
+
+
+class SpendCapReached(RuntimeError):
+    """The ledger total reached the cap. Raised through run_cloud_chain, never turned into a 'none' record,
+    so a runner can tell 'stopped by the cap' from 'the provider failed' and never caches it."""
+
+
+def spend_cap() -> float:
+    return float(_os.environ.get("HARNESS_SPEND_CAP_USD", SPEND_CAP_USD))
 
 
 def spend_total() -> float:
@@ -87,9 +96,9 @@ def spend_total() -> float:
 
 
 def _check_cap() -> None:
-    total = spend_total()
-    if total >= SPEND_CAP_USD:
-        raise RuntimeError(f"spend cap reached: ${total:.2f} >= ${SPEND_CAP_USD:.2f} (HARNESS_SPEND_CAP_USD)")
+    total, cap = spend_total(), spend_cap()
+    if total >= cap:
+        raise SpendCapReached(f"spend cap reached: ${total:.2f} >= ${cap:.2f} (HARNESS_SPEND_CAP_USD)")
 
 
 def _record_spend(model: str, cost: float | None) -> None:
@@ -113,18 +122,27 @@ def _circuit(key: str) -> CircuitBreaker:
     return _circuits[key]
 
 
-def _image_payload(image_path: Path, max_side: int) -> tuple[str, str]:
-    """Return (base64, mime) of the image downscaled to max_side (JPEG)."""
+def payload_bytes(image_path: str | Path, max_side: int = None) -> tuple[bytes, str]:
+    """The exact image bytes and mime a cloud call sends: downscaled to max_side as JPEG q90 when the long
+    side is larger, else the file as it is. Public so a caller can hash or re-read what leaves the machine."""
     from PIL import Image
 
+    image_path = Path(image_path)
+    max_side = MAX_SIDE_CLOUD if max_side is None else max_side
     img = Image.open(image_path).convert("RGB")
     if max(img.size) > max_side:
         img.thumbnail((max_side, max_side))
         buf = io.BytesIO()
         img.save(buf, "JPEG", quality=90)
-        return base64.b64encode(buf.getvalue()).decode("ascii"), "image/jpeg"
+        return buf.getvalue(), "image/jpeg"
     mime = mimetypes.guess_type(str(image_path))[0] or "image/jpeg"
-    return base64.b64encode(image_path.read_bytes()).decode("ascii"), mime
+    return image_path.read_bytes(), mime
+
+
+def _image_payload(image_path: Path, max_side: int) -> tuple[str, str]:
+    """Return (base64, mime) of payload_bytes."""
+    data, mime = payload_bytes(image_path, max_side)
+    return base64.b64encode(data).decode("ascii"), mime
 
 
 def _cost(model: str, inp: int, out: int) -> float | None:
@@ -135,13 +153,13 @@ def _cost(model: str, inp: int, out: int) -> float | None:
 
 
 def _finish(engine: str, provider: str, raw_text: str | None, usage: dict,
-            t0: float, attempts: list[dict], chain: list[str]) -> dict:
+            t0: float, attempts: list[dict], chain: list[str], validate=None) -> dict:
     data = parse_response(raw_text) if raw_text else None
     if isinstance(data, list):
         data = data[0] if data and isinstance(data[0], dict) else None
     sanitizer = {"is_safe": None, "warnings": []}
     if isinstance(data, dict):
-        is_safe, data, warnings = validate_ai_response(dict(data))
+        is_safe, data, warnings = (validate or validate_ai_response)(dict(data))
         sanitizer = {"is_safe": bool(is_safe), "warnings": list(warnings)}
     else:
         data = None
@@ -207,10 +225,12 @@ def run_ollama(image_path: str | Path, model: str = OLLAMA_MODEL,
 # ---------------------------------------------------------------------------
 # Tier 3: cloud providers
 # ---------------------------------------------------------------------------
-def _gemini_configs(types):
+def _gemini_configs(types, schema: dict | None = None):
     """Thinking is forced to the minimum (ADR-0011 pattern): receipts need
     reading, not reasoning, and thinking tokens are billed as output. Try the
-    Gemini 3 'thinking_level' knob, then the 2.x 'thinking_budget', then none."""
+    Gemini 3 'thinking_level' knob, then the 2.x 'thinking_budget', then none.
+    schema: the response JSON schema; default RECEIPT_JSON_SCHEMA."""
+    schema = RECEIPT_JSON_SCHEMA if schema is None else schema
     base = dict(temperature=0.0, max_output_tokens=2048, response_mime_type="application/json")
     variants = []
     # Order learned on 2026-10-31: budget=0 works on 3.5/3.6 Flash, the Lite
@@ -228,13 +248,14 @@ def _gemini_configs(types):
         if tc is not None:
             kwargs["thinking_config"] = tc
         try:
-            variants.append(types.GenerateContentConfig(response_json_schema=RECEIPT_JSON_SCHEMA, **kwargs))
+            variants.append(types.GenerateContentConfig(response_json_schema=schema, **kwargs))
         except (TypeError, ValueError):
             variants.append(types.GenerateContentConfig(**kwargs))
     return variants
 
 
-def _call_gemini(image_path: Path, prompt: str, model: str, max_attempts: int) -> tuple[str | None, dict, list[dict]]:
+def _call_gemini(image_path: Path, prompt: str, model: str, max_attempts: int,
+                 schema: dict | None = None) -> tuple[str | None, dict, list[dict]]:
     global _gemini_client
     from google import genai
     from google.genai import types
@@ -243,9 +264,9 @@ def _call_gemini(image_path: Path, prompt: str, model: str, max_attempts: int) -
     if _gemini_client is None:
         _gemini_client = genai.Client(api_key=require_key("GEMINI_API_KEY"),
                                       http_options={"timeout": CLOUD_TIMEOUT_S * 1000})
-    b64, mime = _image_payload(image_path, MAX_SIDE_CLOUD)
-    part = types.Part.from_bytes(data=base64.b64decode(b64), mime_type=mime)
-    configs = _gemini_configs(types)
+    data, mime = payload_bytes(image_path, MAX_SIDE_CLOUD)
+    part = types.Part.from_bytes(data=data, mime_type=mime)
+    configs = _gemini_configs(types, schema)
     cfg_idx = 0
     attempts: list[dict] = []
     attempt = 1
@@ -324,12 +345,15 @@ def _call_claude(image_path: Path, prompt: str, model: str, max_attempts: int) -
 
 
 def run_cloud_chain(image_path: str | Path, chain=DEFAULT_CHAIN, prompt: str | None = None,
-                    fast_fail: bool = True) -> dict:
+                    fast_fail: bool = True, schema: dict | None = None, validate=None) -> dict:
     """Walk a (provider, model) chain. With fast_fail (ADR-0012 pattern) every
     non-last link gets 1 attempt and only the last link gets 3; a single-link
     chain therefore gets 3 attempts, which is the right setting for measuring
     one model on its own. Circuit breakers skip a link that failed 3 times in
-    a row until its cooldown passes. A missing key skips the link, never fatal."""
+    a row until its cooldown passes. A missing key skips the link, never fatal;
+    the spend cap is fatal (SpendCapReached propagates).
+    schema / validate: response schema for Gemini and the (is_safe, data, warnings) validator that
+    replaces the receipt sanitizer; defaults are the receipt extraction's. Claude links ignore schema."""
     image_path = Path(image_path)
     prompt = prompt or extraction_prompt()
     chain = list(chain)
@@ -345,17 +369,19 @@ def run_cloud_chain(image_path: str | Path, chain=DEFAULT_CHAIN, prompt: str | N
             continue
         try:
             if provider == "gemini":
-                text, usage, attempts = _call_gemini(image_path, prompt, model, budget)
+                text, usage, attempts = _call_gemini(image_path, prompt, model, budget, schema)
             elif provider == "claude":
                 text, usage, attempts = _call_claude(image_path, prompt, model, budget)
             else:
                 raise ValueError(f"unknown provider {provider}")
+        except SpendCapReached:
+            raise
         except RuntimeError as exc:   # missing key for this provider
             all_attempts.append({"provider": provider, "model": model, "ok": False, "error": str(exc)[:120]})
             continue
         all_attempts.extend(attempts)
         if text:
             circuit.record_success()
-            return _finish(model, provider, text, usage, t0, all_attempts, models)
+            return _finish(model, provider, text, usage, t0, all_attempts, models, validate)
         circuit.record_failure()
-    return _finish("none", "none", None, {"input_tokens": 0, "output_tokens": 0}, t0, all_attempts, models)
+    return _finish("none", "none", None, {"input_tokens": 0, "output_tokens": 0}, t0, all_attempts, models, validate)

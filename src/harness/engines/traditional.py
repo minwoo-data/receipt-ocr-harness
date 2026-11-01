@@ -7,6 +7,10 @@ agreement check do not care which engine produced the text:
       "engine": "tesseract" | "rapidocr",
       "lines": [str, ...],              # top-to-bottom text lines
       "tokens": [{"text": str, "conf": float}, ...],   # conf in [0, 1]
+                                         # rapidocr tokens also carry "box" (four [x, y]
+                                         # corners, original-image pixels), "id" (index)
+                                         # and "line" (index into lines); added
+                                         # 2026-10-31, caches written before lack them
       "mean_conf": float,                # mean token confidence
       "low_conf_share": float,           # share of tokens below 0.5
       "latency_ms": int,
@@ -84,8 +88,10 @@ def run_rapidocr(image_path: str | Path, max_side: int = RAPID_MAX_SIDE) -> dict
         _rapid_engine = RapidOCR()
     t0 = time.perf_counter()
     img = Image.open(image_path).convert("RGB")
+    orig_w, orig_h = img.size
     if max(img.size) > max_side:
         img.thumbnail((max_side, max_side))
+    sx, sy = orig_w / img.size[0], orig_h / img.size[1]   # detector pixels -> original pixels
     arr = np.asarray(img)[:, :, ::-1].copy()          # RGB -> BGR as OpenCV expects
     result, _elapse = _rapid_engine(arr)
     tokens: list[dict] = []
@@ -99,27 +105,42 @@ def run_rapidocr(image_path: str | Path, max_side: int = RAPID_MAX_SIDE) -> dict
         xs = [p[0] for p in box]
         rows.append((sum(ys) / 4.0, min(xs), text))
         heights.append(max(ys) - min(ys))
-        tokens.append({"text": text, "conf": float(score)})
-    # Group detections into lines by vertical proximity, then order left to right.
-    # Tolerance scales with the text height: a right-aligned amount sits in the
-    # same row as its label when their centres differ by less than ~60% of a
-    # text line. (A fixed pixel tolerance split "Total ... :" from its amount.)
+        tokens.append({"text": text, "conf": float(score),
+                       "box": [[round(p[0] * sx), round(p[1] * sy)] for p in box]})
+    lines, line_of = group_lines(rows, heights)
+    for i, tok in enumerate(tokens):
+        tok["id"] = i
+        tok["line"] = line_of[i]
+    return _summarize("rapidocr", lines, tokens, t0)
+
+
+def group_lines(rows: list[tuple[float, float, str]], heights: list[float]) -> tuple[list[str], list[int]]:
+    """Group detections into lines by vertical proximity, then order left to right.
+
+    rows: (centre_y, min_x, text) per detection, detector pixels, in detection order.
+    Returns the line strings top to bottom and, per detection, the index of its line.
+    Tolerance scales with the text height: a right-aligned amount sits in the
+    same row as its label when their centres differ by less than ~60% of a
+    text line. (A fixed pixel tolerance split "Total ... :" from its amount.)
+    """
     med_h = sorted(heights)[len(heights) // 2] if heights else 20.0
     line_tol = max(6.0, 0.6 * med_h)
-    rows.sort()
     lines: list[str] = []
-    current: list[tuple[float, str]] = []
+    line_of = [0] * len(rows)
+    current: list[tuple[float, str, int]] = []
     anchor_y: float | None = None
-    for y, x, text in rows:
+    for i in sorted(range(len(rows)), key=lambda j: rows[j]):
+        y, x, text = rows[i]
         if anchor_y is not None and abs(y - anchor_y) > line_tol:
-            lines.append(" ".join(t for _, t in sorted(current)))
+            lines.append(" ".join(t for _, t, _ in sorted(current)))
             current = []
             anchor_y = None
-        current.append((x, text))
+        current.append((x, text, i))
+        line_of[i] = len(lines)
         anchor_y = y if anchor_y is None else (anchor_y + y) / 2.0
     if current:
-        lines.append(" ".join(t for _, t in sorted(current)))
-    return _summarize("rapidocr", lines, tokens, t0)
+        lines.append(" ".join(t for _, t, _ in sorted(current)))
+    return lines, line_of
 
 
 ENGINES = {"tesseract": run_tesseract, "rapidocr": run_rapidocr}

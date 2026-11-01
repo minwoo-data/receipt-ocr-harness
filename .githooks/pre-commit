@@ -11,6 +11,10 @@ while IFS= read -r f; do
     config.json|.env|*.key|*/config.json|*/.env)
       echo "[pre-commit] refusing to commit secret-bearing file: $f" >&2
       blocked=1 ;;
+    *pii_local*)
+      # masking experiment: OCR text, labels, mask maps and request IDs stay on this machine
+      echo "[pre-commit] refusing to commit a local-only masking file: $f" >&2
+      blocked=1 ;;
   esac
 done < <(git diff --cached --name-only --diff-filter=ACM)
 
