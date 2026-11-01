@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.1-flash-lite",
+ "provider": "gemini",
+ "raw_text": "{\n  \"vendor\": \"GARDENIA BAKERIES (KL) SDN BHD\",\n  \"date\": \"2017-08-07\",\n  \"subtotal\": 59.08,\n  \"tax\": 1.18,\n  \"tip\": null,\n  \"discount\": -0.84,\n  \"total\": 60.26,\n  \"currency\": \"MYR\",\n  \"confidence\": 0.98,\n  \"notes\": \"The discount is represented by the negative value for BUN-SBILIS.\"\n}",
+ "data": {
+  "vendor": "GARDENIA BAKERIES (KL) SDN BHD",
+  "date": "2017-08-07",
+  "subtotal": 59.08,
+  "tax": 1.18,
+  "tip": null,
+  "discount": -0.84,
+  "total": 60.26,
+  "currency": "MYR",
+  "confidence": 0.98,
+  "notes": "The discount is represented by the negative value for BUN-SBILIS."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1450,
+  "output_tokens": 135,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.000565,
+ "latency_ms": 2602,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.1-flash-lite",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.1-flash-lite"
+ ],
+ "key": "X51006556728"
+}

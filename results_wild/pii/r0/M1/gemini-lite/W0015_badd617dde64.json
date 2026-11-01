@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.1-flash-lite",
+ "provider": "gemini",
+ "raw_text": "{\n  \"vendor\": \"BUDDHA BAR LONDON\",\n  \"date\": \"2014-08-29\",\n  \"subtotal\": 98.1,\n  \"tax\": 16.18,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 111.21,\n  \"currency\": \"GBP\",\n  \"confidence\": 0.98,\n  \"notes\": \"Service charge of 13.11 is listed separately from tax.\"\n}",
+ "data": {
+  "vendor": "BUDDHA BAR LONDON",
+  "date": "2014-08-29",
+  "subtotal": 98.1,
+  "tax": 16.18,
+  "tip": null,
+  "discount": null,
+  "total": 111.21,
+  "currency": "GBP",
+  "confidence": 0.98,
+  "notes": "Service charge of 13.11 is listed separately from tax."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1471,
+  "output_tokens": 123,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.000552,
+ "latency_ms": 1996,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.1-flash-lite",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.1-flash-lite"
+ ],
+ "key": "W0015_badd617dde64"
+}

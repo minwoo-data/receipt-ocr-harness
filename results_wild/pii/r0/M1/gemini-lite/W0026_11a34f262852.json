@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.1-flash-lite",
+ "provider": "gemini",
+ "raw_text": "{\n  \"vendor\": \"CORAL BEACH HTL & RESORTS POOL BAR\",\n  \"date\": \"2017-04-17\",\n  \"subtotal\": 3.95,\n  \"tax\": 0.13,\n  \"tip\": null,\n  \"discount\": -2.37,\n  \"total\": 1.58,\n  \"currency\": \"EUR\",\n  \"confidence\": 0.98,\n  \"notes\": \"Room number 3302 is handwritten on the receipt.\"\n}",
+ "data": {
+  "vendor": "CORAL BEACH HTL & RESORTS POOL BAR",
+  "date": "2017-04-17",
+  "subtotal": 3.95,
+  "tax": 0.13,
+  "tip": null,
+  "discount": -2.37,
+  "total": 1.58,
+  "currency": "EUR",
+  "confidence": 0.98,
+  "notes": "Room number 3302 is handwritten on the receipt."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1471,
+  "output_tokens": 128,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.00056,
+ "latency_ms": 1740,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.1-flash-lite",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.1-flash-lite"
+ ],
+ "key": "W0026_11a34f262852"
+}

@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.1-flash-lite",
+ "provider": "gemini",
+ "raw_text": "{\n  \"vendor\": \"Milano Restaurant\",\n  \"date\": \"2016-11-28\",\n  \"subtotal\": 900.00,\n  \"tax\": 90.00,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 990.00,\n  \"currency\": null,\n  \"confidence\": 0.98,\n  \"notes\": \"Service charge of 10% is listed as tax.\"\n}",
+ "data": {
+  "vendor": "Milano Restaurant",
+  "date": "2016-11-28",
+  "subtotal": 900.0,
+  "tax": 90.0,
+  "tip": null,
+  "discount": null,
+  "total": 990.0,
+  "currency": null,
+  "confidence": 0.98,
+  "notes": "Service charge of 10% is listed as tax."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1471,
+  "output_tokens": 119,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.000546,
+ "latency_ms": 1841,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.1-flash-lite",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.1-flash-lite"
+ ],
+ "key": "W0085_a52808866316"
+}

@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.1-flash-lite",
+ "provider": "gemini",
+ "raw_text": "{\n  \"vendor\": \"TANJONGMAS BOOKCENTRE (PJ) SDN BHD\",\n  \"date\": \"2017-04-02\",\n  \"subtotal\": 4.30,\n  \"tax\": 0.24,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 4.30,\n  \"currency\": \"MYR\",\n  \"confidence\": 0.98,\n  \"notes\": null\n}",
+ "data": {
+  "vendor": "TANJONGMAS BOOKCENTRE (PJ) SDN BHD",
+  "date": "2017-04-02",
+  "subtotal": 4.3,
+  "tax": 0.24,
+  "tip": null,
+  "discount": null,
+  "total": 4.3,
+  "currency": "MYR",
+  "confidence": 0.98,
+  "notes": null
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1461,
+  "output_tokens": 114,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.000536,
+ "latency_ms": 1495,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.1-flash-lite",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.1-flash-lite"
+ ],
+ "key": "X51006387660"
+}

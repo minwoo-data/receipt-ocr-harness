@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.6-flash",
+ "provider": "gemini",
+ "raw_text": "{\"vendor\": \"ALI BABA INTERNATIONAL SDN BHD\", \"date\": \"2018-02-19\", \"subtotal\": 20.4, \"tax\": 1.35, \"tip\": null, \"discount\": null, \"total\": 23.8, \"currency\": \"MYR\", \"confidence\": 0.98, \"notes\": \"Subtotal is printed as total excluding GST. A service charge of 2.04 and rounding adjustment of 0.01 are included.\"}",
+ "data": {
+  "vendor": "ALI BABA INTERNATIONAL SDN BHD",
+  "date": "2018-02-19",
+  "subtotal": 20.4,
+  "tax": 1.35,
+  "tip": null,
+  "discount": null,
+  "total": 23.8,
+  "currency": "MYR",
+  "confidence": 0.98,
+  "notes": "Subtotal is printed as total excluding GST. A service charge of 2.04 and rounding adjustment of 0.01 are included."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1440,
+  "output_tokens": 116,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.001515,
+ "latency_ms": 7324,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.6-flash",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.6-flash"
+ ],
+ "key": "X51005719857"
+}

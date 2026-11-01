@@ -7,10 +7,18 @@ the repository root. Steps add their subcommands as they are built:
     freeze   (step 2)  record the code provenance of mask.py and pii_run.py in results*/pii/<run>/freeze.json
     label    (step 3)  Gemini 3.1 Flash-Lite labels the personal data on each sampled receipt (paid calls;
                        local labels under data/raw/pii_local/<dataset>/labels/); --dry-run sends nothing
+    mask     (step 4)  U, M1, M2 images, mask maps, post-mask check, the Gate; plans the T3 jobs; lists the
+                       M1 receipts whose ground truth could not be located (hand check, step 4b)
+    read     (step 5)  Flash-Lite reads every planned U, M1, M2 image (paid calls)
+    replay   (step 6a, 6c)  04_harness.py on one variant, arguments from pii_paths
+    t4       (step 6b) 3.6 Flash reads the U and M1 images whose T3 answer the replay flagged (paid calls)
+    summary  (step 7)  criteria, metrics and the verdict into results*/harness/pii.json (--replay-only: the
+                       committed-files part, for run_all.py)
 
     python scripts/25_pii_mask.py freeze --results results --manifest data/manifest/sroie300.jsonl
     python scripts/25_pii_mask.py label --results results --manifest data/manifest/sroie300.jsonl --dry-run
     python scripts/25_pii_mask.py label --results results_wild --manifest data/manifest/wild200.jsonl [--limit 1]
+    python scripts/25_pii_mask.py replay --results results --manifest data/manifest/sroie300.jsonl --variant M1
 
 A frozen run is never re-frozen with different code: a change after the freeze is a revision (--run rev1).
 Paid subcommands refuse to run unless the run is frozen with the current code.
@@ -143,6 +151,212 @@ def cmd_label(P: dict, args) -> None:
     print(f"  done: {stats}; campaign spent ${b.spent():.4f}, reserved ${b.state()['reserved_usd']:.4f}")
 
 
+# ---------------------------------------------------------------------------
+# Steps 4-7
+# ---------------------------------------------------------------------------
+def sample_keys(P: dict) -> list[str]:
+    return json.loads(P["sample"].read_text(encoding="utf-8"))["keys"]
+
+
+def mask_maps(P: dict, variant: str) -> dict:
+    out = {}
+    for k in sample_keys(P):
+        f = P["mask_maps"] / f"{k}.{variant}.json"
+        if f.exists():
+            out[k] = json.loads(f.read_text(encoding="utf-8"))
+    return out
+
+
+def refresh_views(P: dict, table: pii_run.JobTable) -> None:
+    keys = sample_keys(P)
+    for v in mask.VARIANTS:
+        mm = mask_maps(P, v)
+        pii_run.write_jobs_view(P, v, keys, table, {k: m["n_tags"] for k, m in mm.items()},
+                                {k for k, m in mm.items() if m["refuse"]})
+
+
+def cmd_mask(P: dict, args) -> None:
+    require_frozen(P)
+    side = mask.load_sidecar(P["sidecar"])
+    man = manifest_map(P)
+    table = pii_run.JobTable(P["job_table"])
+    reasons: dict = {}
+    unknown = []
+    for i, k in enumerate(sample_keys(P), 1):
+        rec = json.loads((P["boxes"] / f"{k}.json").read_text(encoding="utf-8"))
+        df = man[k].get("day_first", True)
+        for v in mask.VARIANTS:
+            mf = P["mask_maps"] / f"{k}.{v}.json"
+            if mf.exists():
+                continue
+            plan = mask.plan_mask(rec, side, df, v)
+            payload_sha, post = None, None
+            if plan.refuse is None:
+                img, fill = mask.render(ROOT / man[k]["image"], plan, rec, side)
+                path = mask.save_image(img, P["images"] / f"{k}.{v}.png")
+                data, mime = vlm.payload_bytes(path)
+                payload_sha = hashlib.sha256(data).hexdigest()
+                if v != "U":                            # U hides nothing: nothing to look for
+                    po = P["post_ocr"] / f"{k}.{v}.{'jpg' if mime == 'image/jpeg' else 'png'}"
+                    po.parent.mkdir(parents=True, exist_ok=True)
+                    po.write_bytes(data)
+                    post = mask.post_check(po, plan)
+                    if not post["ok"]:
+                        plan.refuse = "post_check"
+                        path.unlink()
+                        payload_sha = None
+            else:
+                fill = {"polygons": {}, "sha256": None}
+            mm = mask.mask_map(plan, rec, fill, P["run"], k, payload_sha)
+            mm["post_check"] = post
+            mf.parent.mkdir(parents=True, exist_ok=True)
+            mf.write_text(json.dumps(mm, ensure_ascii=False, indent=1), encoding="utf-8")
+            job = table.new_attempt(P["run"], P["dataset"], k, v, "t3", payload_sha)
+            if plan.refuse:
+                table.mark(job, "refused", reason=plan.refuse)
+                reasons.setdefault(v, {}).setdefault(plan.refuse, 0)
+                reasons[v][plan.refuse] += 1
+            if v == "M1" and plan.refuse is None:
+                loc = mask.locate_gt(rec["tokens"], man[k]["gt"])
+                if any(loc[f] == [] for f in ("date", "total")):
+                    unknown.append(k)
+        print(f"[{i}/30] {k}", flush=True)
+    refresh_views(P, table)
+    print(f"{P['dataset']} {P['run']}: Gate refusals {reasons or 0}")
+    print(f"  M1 receipts where the ground truth could not be located (hand check, step 4b): {len(unknown)} {unknown}")
+
+
+def cmd_read(P: dict, args, tier: str = "t3") -> None:
+    require_frozen(P)
+    table = pii_run.JobTable(P["job_table"])
+    if table.recover():
+        print("  recovered interrupted jobs as failed")
+    engine = "gemini-lite" if tier == "t3" else "gemini"
+    prompt = vlm.extraction_prompt()
+    bound = pii_run.input_bound(P["results"], engine, prompt)
+    b = pii_run.Budget(P["budget"])
+    b.open(P["run"])
+    keys = sample_keys(P)
+    if tier == "t4":
+        todo = t4_selection(P, table)
+    else:
+        todo = []
+        for v in mask.VARIANTS:
+            for k in keys:
+                last = table.latest(P["run"], P["dataset"], k, v, "t3")
+                if last and last["status"] == "planned" and not (P["variant"][v]["reads_t3"] / f"{k}.json").exists():
+                    todo.append((k, v, last))
+    print(f"{P['dataset']} {P['run']} {tier}: {len(todo)} reads to send; campaign spent ${b.spent():.4f}")
+    stats = {"read": 0, "failed": 0}
+    for k, v, job in todo:
+        img = P["images"] / f"{k}.{v}.png"
+        out = P["variant"][v]["reads_t3" if tier == "t3" else "reads_t4"] / f"{k}.json"
+        n = 0
+        while True:
+            n += 1
+
+            def store(r, k=k, out=out):
+                out.parent.mkdir(parents=True, exist_ok=True)
+                out.write_text(json.dumps({**r, "key": k}, ensure_ascii=False, indent=1), encoding="utf-8")
+                return out.relative_to(ROOT).as_posix()
+            try:
+                r = pii_run.send(table, job, img, engine, b, bound, store)
+            except (pii_run.NotSendable, pii_run.BudgetExceeded, vlm.SpendCapReached) as exc:
+                print(f"  stop at {k} {v}: {type(exc).__name__}: {exc}")
+                refresh_views(P, table)
+                return
+            if r is not None or n >= 2:
+                break
+            job = table.new_attempt(P["run"], P["dataset"], k, v, tier, job["payload_sha256"])
+        stats["read" if r is not None else "failed"] += 1
+    refresh_views(P, table)
+    print(f"  done: {stats}; campaign spent ${b.spent():.4f}, reserved ${b.state()['reserved_usd']:.4f}")
+
+
+def t4_selection(P: dict, table: pii_run.JobTable) -> list:
+    """6b: U and M1 receipts whose T3 read exists and whose replay flags are real; the others get not_needed."""
+    todo = []
+    for v in ("U", "M1"):
+        view = json.loads(P["variant"][v]["jobs_json"].read_text(encoding="utf-8"))["receipts"]
+        rows = {}
+        with (P["variant"][v]["harness"] / "per_receipt.jsonl").open(encoding="utf-8") as fh:
+            for l in fh:
+                if l.strip():
+                    r = json.loads(l)
+                    rows[r["key"]] = r
+        for k, j in sorted(view.items()):
+            if j["t3"] != "read" or j["t4"] in ("read", "not_needed"):
+                continue
+            flags = [f for f in rows[k]["flags"]["t3"] if f != "UNAVAILABLE"]
+            t3job = table.latest(P["run"], P["dataset"], k, v, "t3")
+            if flags:
+                last = table.latest(P["run"], P["dataset"], k, v, "t4")
+                job = last if last and last["status"] == "planned" else \
+                    table.new_attempt(P["run"], P["dataset"], k, v, "t4", t3job["payload_sha256"])
+                todo.append((k, v, job))
+            else:
+                table.mark(table.new_attempt(P["run"], P["dataset"], k, v, "t4", t3job["payload_sha256"]), "not_needed")
+    refresh_views(P, table)
+    return todo
+
+
+def cmd_t4(P: dict, args) -> None:
+    cmd_read(P, args, tier="t4")
+
+
+def cmd_replay(P: dict, args) -> None:
+    import subprocess
+    variants = [args.variant] if args.variant else ["U", "M1"]
+    for v in variants:
+        cmd = [sys.executable, str(ROOT / "scripts" / "04_harness.py")] + pii_run.replay_args(P, v)
+        out = subprocess.run(cmd, cwd=ROOT, capture_output=True, text=True)
+        if out.returncode != 0:
+            raise SystemExit(f"replay {v} failed:\n{out.stdout[-800:]}\n{out.stderr[-800:]}")
+        print(f"{P['dataset']} {P['run']} replay {v}: {out.stdout.strip().splitlines()[-1]}")
+
+
+def _provenance_now(P: dict) -> dict:
+    frozen = json.loads(P["freeze"].read_text(encoding="utf-8"))["provenance"]
+    now = mask.code_provenance([P["sidecar"]], modules=list(frozen["modules"]))
+    return {"frozen": frozen, "current": now,
+            "revised": now["modules"] != frozen["modules"] or now["sidecars"] != frozen["sidecars"]}
+
+
+def replay_part(P: dict, man: dict) -> dict:
+    keys = sample_keys(P)
+    cmd_replay(P, argparse.Namespace(variant=None))
+    files = [P["manifest"] if P["manifest"].is_absolute() else ROOT / P["manifest"]]
+    for v in mask.VARIANTS:
+        vv = P["variant"][v]
+        files.append(vv["jobs_json"])
+        files += [vv["reads_t3"] / f"{k}.json" for k in keys] + [vv["reads_t4"] / f"{k}.json" for k in keys]
+    files += [P["results"] / e / f"{k}.json" for e in ("rapidocr", "tesseract") for k in keys]
+    prov = _provenance_now(P)
+    prov["routing"] = {f: pii_run.sha256_file(ROOT / f) for f in ("scripts/04_harness.py",)}
+    return {"provenance": prov, "inputs": pii_run.inputs_sha256(files),
+            "models": {"t3": vlm.ENGINE_CHAINS["gemini-lite"][0][1], "t4": vlm.ENGINE_CHAINS["gemini"][0][1]},
+            P["dataset"]: pii_run.metrics_replay(P, keys, man)}
+
+
+def cmd_summary(P: dict, args) -> None:
+    man = manifest_map(P)
+    keys = sample_keys(P)
+    rep = replay_part(P, man)
+    pii_run.write_pii_json(P, P["run"], "replay", rep)
+    print(json.dumps(rep[P["dataset"]], indent=1)[:1500])
+    if args.replay_only:
+        return
+    files = [P["boxes"] / f"{k}.json" for k in keys] + [P["labels"] / f"{k}.json" for k in keys]
+    files += [P["mask_maps"] / f"{k}.{v}.json" for k in keys for v in mask.VARIANTS] + [P["job_table"], P["gt_checks"]]
+    loc = pii_run.metrics_local(P, keys, man)
+    loc["verdict"] = pii_run.verdict(rep[P["dataset"]], loc)
+    prov = _provenance_now(P)
+    part = {"provenance": prov, "inputs": {k: v for k, v in pii_run.inputs_sha256(files).items()},
+            "inputs_checked": True, "revised": prov["revised"], P["dataset"]: loc}
+    pii_run.write_pii_json(P, P["run"], "local", part)
+    print(json.dumps(loc, indent=1)[:2500])
+
+
 def cmd_freeze(P: dict, args) -> None:
     prov = mask.code_provenance([P["sidecar"]])
     if prov["new_modules"]:
@@ -167,7 +381,9 @@ def cmd_freeze(P: dict, args) -> None:
 def main() -> None:
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     sub = ap.add_subparsers(dest="cmd", required=True)
-    for name in ("freeze", "label"):
+    cmds = {"freeze": cmd_freeze, "label": cmd_label, "mask": cmd_mask, "read": cmd_read, "replay": cmd_replay,
+            "t4": cmd_t4, "summary": cmd_summary}
+    for name in cmds:
         s = sub.add_parser(name)
         s.add_argument("--results", required=True)
         s.add_argument("--manifest", required=True)
@@ -175,9 +391,13 @@ def main() -> None:
         if name == "label":
             s.add_argument("--dry-run", action="store_true", help="list what would be sent and the cost; send nothing")
             s.add_argument("--limit", type=int, default=0, help="send at most this many receipts")
+        if name == "replay":
+            s.add_argument("--variant", choices=["U", "M1"], default=None, help="default: both")
+        if name == "summary":
+            s.add_argument("--replay-only", action="store_true", help="only the part computed from committed files")
     args = ap.parse_args()
     P = mask.pii_paths(ROOT / args.results, ROOT / args.manifest, run=args.run)
-    {"freeze": cmd_freeze, "label": cmd_label}[args.cmd](P, args)
+    cmds[args.cmd](P, args)
 
 
 if __name__ == "__main__":

@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.1-flash-lite",
+ "provider": "gemini",
+ "raw_text": "{\n  \"vendor\": \"POPULAR BOOK CO. (M) SDN BHD\",\n  \"date\": \"2018-01-24\",\n  \"subtotal\": 28.39,\n  \"tax\": 1.71,\n  \"tip\": null,\n  \"discount\": -2.98,\n  \"total\": 30.10,\n  \"currency\": \"MYR\",\n  \"confidence\": 0.98,\n  \"notes\": null\n}",
+ "data": {
+  "vendor": "POPULAR BOOK CO. (M) SDN BHD",
+  "date": "2018-01-24",
+  "subtotal": 28.39,
+  "tax": 1.71,
+  "tip": null,
+  "discount": -2.98,
+  "total": 30.1,
+  "currency": "MYR",
+  "confidence": 0.98,
+  "notes": null
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1461,
+  "output_tokens": 118,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.000542,
+ "latency_ms": 1852,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.1-flash-lite",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.1-flash-lite"
+ ],
+ "key": "X51006008086"
+}

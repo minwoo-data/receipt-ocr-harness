@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.1-flash-lite",
+ "provider": "gemini",
+ "raw_text": "{\n  \"vendor\": \"Carl's Jr\",\n  \"date\": \"2015-09-29\",\n  \"subtotal\": 16.37,\n  \"tax\": 1.16,\n  \"tip\": null,\n  \"discount\": -3.54,\n  \"total\": 13.99,\n  \"currency\": \"USD\",\n  \"confidence\": 0.98,\n  \"notes\": \"The receipt is marked as a voided re-printed check.\"\n}",
+ "data": {
+  "vendor": "Carl's Jr",
+  "date": "2015-09-29",
+  "subtotal": 16.37,
+  "tax": 1.16,
+  "tip": null,
+  "discount": -3.54,
+  "total": 13.99,
+  "currency": "USD",
+  "confidence": 0.98,
+  "notes": "The receipt is marked as a voided re-printed check."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1433,
+  "output_tokens": 123,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.000543,
+ "latency_ms": 2239,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.1-flash-lite",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.1-flash-lite"
+ ],
+ "key": "W0074_8cbcc76af6e2"
+}

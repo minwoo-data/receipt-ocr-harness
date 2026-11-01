@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.6-flash",
+ "provider": "gemini",
+ "raw_text": "{\"vendor\": \"Ramen Keisuke Tori King\", \"date\": \"2013-05-21\", \"subtotal\": 42.69, \"tax\": 3.29, \"tip\": null, \"discount\": null, \"total\": 50.25, \"currency\": \"SGD\", \"confidence\": 0.95, \"notes\": \"Tax includes 7% GST ($3.29) and Service Charge SC ($4.27).\"}",
+ "data": {
+  "vendor": "Ramen Keisuke Tori King",
+  "date": "2013-05-21",
+  "subtotal": 42.69,
+  "tax": 3.29,
+  "tip": null,
+  "discount": null,
+  "total": 50.25,
+  "currency": "SGD",
+  "confidence": 0.95,
+  "notes": "Tax includes 7% GST ($3.29) and Service Charge SC ($4.27)."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1461,
+  "output_tokens": 109,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.001504,
+ "latency_ms": 1636,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.6-flash",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.6-flash"
+ ],
+ "key": "W0070_5b350408c54a"
+}

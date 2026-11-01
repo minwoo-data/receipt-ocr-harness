@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.1-flash-lite",
+ "provider": "gemini",
+ "raw_text": "{\n  \"vendor\": null,\n  \"date\": \"2018-04-04\",\n  \"subtotal\": 7.37,\n  \"tax\": 0.43,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 7.80,\n  \"currency\": \"MYR\",\n  \"confidence\": 0.95,\n  \"notes\": \"Vendor name is not visible on the receipt.\"\n}",
+ "data": {
+  "vendor": null,
+  "date": "2018-04-04",
+  "subtotal": 7.37,
+  "tax": 0.43,
+  "tip": null,
+  "discount": null,
+  "total": 7.8,
+  "currency": "MYR",
+  "confidence": 0.95,
+  "notes": "Vendor name is not visible on the receipt."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1450,
+  "output_tokens": 110,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.000527,
+ "latency_ms": 1795,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.1-flash-lite",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.1-flash-lite"
+ ],
+ "key": "X51008030565"
+}

@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.1-flash-lite",
+ "provider": "gemini",
+ "raw_text": "{\n  \"vendor\": \"PANA JAYA ENTERPRISE\",\n  \"date\": \"2018-03-21\",\n  \"subtotal\": 99.06,\n  \"tax\": 5.94,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 105.00,\n  \"currency\": \"MYR\",\n  \"confidence\": 0.98,\n  \"notes\": null\n}",
+ "data": {
+  "vendor": "PANA JAYA ENTERPRISE",
+  "date": "2018-03-21",
+  "subtotal": 99.06,
+  "tax": 5.94,
+  "tip": null,
+  "discount": null,
+  "total": 105.0,
+  "currency": "MYR",
+  "confidence": 0.98,
+  "notes": null
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1440,
+  "output_tokens": 111,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.000526,
+ "latency_ms": 1501,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.1-flash-lite",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.1-flash-lite"
+ ],
+ "key": "X51005746206"
+}
