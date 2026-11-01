@@ -1,5 +1,9 @@
 # receipt-ocr-harness
 
+[![The poster as submitted, click for the PDF](docs/assets/poster.png)](docs/assets/Park_Minwoo_MISM_ReceiptOCR.pdf)
+
+*The poster as submitted on 2026-10-31 (click for the PDF). Some of its numbers moved after printing, when a normalizer bug was fixed; the current numbers are in [Correction after printing](#correction-after-printing) and the tables below.*
+
 **The model reads, the code re-checks.** A routing and verification harness for
 receipt OCR, measured on 300 scanned receipts (ICDAR 2019 SROIE), 200 phone
 photos (WildReceipt) and 43 synthetic adversarial receipts. Built for the
