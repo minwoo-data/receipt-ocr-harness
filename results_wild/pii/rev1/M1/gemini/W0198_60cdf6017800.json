@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.6-flash",
+ "provider": "gemini",
+ "raw_text": "{\"vendor\": null, \"date\": \"2017-05-23\", \"subtotal\": 365.0, \"tax\": 20.44, \"tip\": null, \"discount\": null, \"total\": 393.0, \"currency\": null, \"confidence\": 0.85, \"notes\": \"Vendor name is redacted.\"}",
+ "data": {
+  "vendor": null,
+  "date": "2017-05-23",
+  "subtotal": 365.0,
+  "tax": 20.44,
+  "tip": null,
+  "discount": null,
+  "total": 393.0,
+  "currency": null,
+  "confidence": 0.85,
+  "notes": "Vendor name is redacted."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1444,
+  "output_tokens": 85,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.001402,
+ "latency_ms": 1791,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.6-flash",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.6-flash"
+ ],
+ "key": "W0198_60cdf6017800"
+}

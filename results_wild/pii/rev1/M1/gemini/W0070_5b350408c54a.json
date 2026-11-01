@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.6-flash",
+ "provider": "gemini",
+ "raw_text": "{\"vendor\": null, \"date\": \"2013-05-21\", \"subtotal\": 42.69, \"tax\": 4.27, \"tip\": null, \"discount\": null, \"total\": 50.25, \"currency\": \"USD\", \"confidence\": 0.85, \"notes\": \"Vendor name is redacted in the image. Total (50.25) includes subtotal (42.69), tax (4.27), and an additional line item/charge of 3.29.\"}",
+ "data": {
+  "vendor": null,
+  "date": "2013-05-21",
+  "subtotal": 42.69,
+  "tax": 4.27,
+  "tip": null,
+  "discount": null,
+  "total": 50.25,
+  "currency": "USD",
+  "confidence": 0.85,
+  "notes": "Vendor name is redacted in the image. Total (50.25) includes subtotal (42.69), tax (4.27), and an additional line item/charge of 3.29."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1461,
+  "output_tokens": 127,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.001572,
+ "latency_ms": 1570,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.6-flash",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.6-flash"
+ ],
+ "key": "W0070_5b350408c54a"
+}

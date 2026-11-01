@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.1-flash-lite",
+ "provider": "gemini",
+ "raw_text": "{\n  \"vendor\": \"Bollywood\",\n  \"date\": \"2017-03-22\",\n  \"subtotal\": null,\n  \"tax\": null,\n  \"tip\": null,\n  \"discount\": null,\n  \"total\": 5.50,\n  \"currency\": null,\n  \"confidence\": 0.85,\n  \"notes\": \"The receipt is heavily redacted and only shows a single item price and the date.\"\n}",
+ "data": {
+  "vendor": "Bollywood",
+  "date": "2017-03-22",
+  "subtotal": null,
+  "tax": null,
+  "tip": null,
+  "discount": null,
+  "total": 5.5,
+  "currency": null,
+  "confidence": 0.85,
+  "notes": "The receipt is heavily redacted and only shows a single item price and the date."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1471,
+  "output_tokens": 108,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.00053,
+ "latency_ms": 1710,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.1-flash-lite",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.1-flash-lite"
+ ],
+ "key": "W0131_77557b40f8f8"
+}

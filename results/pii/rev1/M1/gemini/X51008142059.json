@@ -1,0 +1,42 @@
+{
+ "engine": "gemini-3.6-flash",
+ "provider": "gemini",
+ "raw_text": "{\"vendor\": null, \"date\": \"2018-04-17\", \"subtotal\": 180.0, \"tax\": 10.8, \"tip\": null, \"discount\": null, \"total\": 190.8, \"currency\": null, \"confidence\": 0.7, \"notes\": \"Vendor name is covered/masked; GST tax of 10.80 applied on 180.00 subtotal.\"}",
+ "data": {
+  "vendor": null,
+  "date": "2018-04-17",
+  "subtotal": 180.0,
+  "tax": 10.8,
+  "tip": null,
+  "discount": null,
+  "total": 190.8,
+  "currency": null,
+  "confidence": 0.7,
+  "notes": "Vendor name is covered/masked; GST tax of 10.80 applied on 180.00 subtotal."
+ },
+ "sanitizer": {
+  "is_safe": true,
+  "warnings": []
+ },
+ "usage": {
+  "input_tokens": 1440,
+  "output_tokens": 106,
+  "thinking_tokens": 0
+ },
+ "cost_usd": 0.001478,
+ "latency_ms": 2072,
+ "attempts": [
+  {
+   "provider": "gemini",
+   "model": "gemini-3.6-flash",
+   "ok": true,
+   "error": null,
+   "attempt": 1,
+   "config": 0
+  }
+ ],
+ "chain": [
+  "gemini-3.6-flash"
+ ],
+ "key": "X51008142059"
+}
