@@ -145,6 +145,23 @@ Amount-ranked re-read: the top X% of auto-accepted receipts by accepted total (n
 Reading: an audit fixes only its own share of the leaks; its job is to measure the leak rate. Ranking by amount finds 0 of 9 in the top 20%: on scans the leaks sit on mid-sized receipts and are mostly cents. Re-reading every accepted receipt with T4 catches 7 of 9, but the API bill becomes $1.71 per 1,000, above sending every receipt to T4 ($1.42, 98.0% correct). On photos there are 8 leaks and the full re-read catches 5, with 3 correct answers sent to people. Card-statement matching, the other planned backstop, needs data this benchmark does not have.
 <!-- /gen:backstop -->
 
+## Hiding personal data before the cloud call (after the poster)
+
+<!-- gen:pii -->
+The idea: when the local reader fails, hide the personal data on the image on this machine, then let the cloud read it. Tested on the cloud-bound receipts (30 per dataset), each read by Flash-Lite twice: the original (U) and the masked image (M1); differences are M1 minus U on the same receipts, in points.
+
+| Set | Masking | Refused before sending | Personal items hidden | Date + total read correctly, points (95% interval) | Sent to people, points | Verdict |
+|---|---|---|---|---|---|---|
+| Scans (SROIE) | label and pattern rules (r0) | 17% | 36% | 0.0 (0.0 to 0.0) | +13.3 | fails criterion 1, 4 |
+| Scans (SROIE) | allowlist (rev1) | 0% | 100% | −16.7 (−30.0 to −3.3) | +93.3 | fails criterion 3, 4 |
+| Photos (WildReceipt) | label and pattern rules (r0) | 13% | 15% | 0.0 (0.0 to 0.0) | +10.0 | fails criterion 1, 2, 4 |
+| Photos (WildReceipt) | allowlist (rev1) | 7% | 93% | −14.3 (−28.6 to −3.6) | +63.3 | fails criterion 1, 2, 3, 4 |
+
+**Field rules missed most names; hiding everything except dates and amounts cost about 15 points of accuracy and sent almost every receipt to people.** Names are often printed without a label word, and hiding the shop name makes the missing-field check flag every answer. Where receipts may not leave the company, local-only mode stays the answer; a local name detector would be the next step.
+
+Read with care: labels are model-labeled (Gemini 3.1 Flash-Lite), so recall is relative to what it found; 30 receipts per dataset show only whether a large loss was seen; the rules were frozen and committed before any label (`results*/pii/r0/freeze.json`), and the allowlist run (rev1) is a disclosed revision after r0, for which the experiment's spending limit was raised once; known misses: names without a label word and values printed on the line below their label; reviewers of the plan saw sample text in rounds 1 and 4; whether the fill covered the date or total is not decidable on receipts whose date is printed with the time glued to it (the frozen locator does not find it), and no hand check was made. Per-receipt reads and replays: `results*/pii/`.
+<!-- /gen:pii -->
+
 ## Adversarial set (43 synthetic receipts, `scripts/07_synth.py`)
 
 Each model's answer checked directly (the routed system adds T1 in front; see the correction above for the date check on T1).

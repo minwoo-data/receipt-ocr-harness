@@ -438,7 +438,7 @@
        "src/harness/engines/traditional.py": "f76cf6c6fde7c1d18c7bdb2009c662b0de25e0e5b6c9d339b9610ec32ab78ea5",
        "src/harness/engines/vlm.py": "72d40fc452abbca3945ef98ca9f9ebe0adbcc2bf6579abccc48641a986d90e49",
        "src/harness/keys.py": "43ce9bb31ae96d2d7e62e1c0bd8148419f88248aa280720e2083d0fb5d3e3a99",
-       "src/harness/mask.py": "561e743a7ed415e791e2cd00ac0123191513716cdb49035a5221f02e8ba381df",
+       "src/harness/mask.py": "bd6229596ed7e6b4311bf8360f47ef58f01550bd7f2d8eb8273a5ff4ac9b1c17",
        "src/harness/normalize.py": "92b31bf57f281f834c1828be349cb2b5d9a4ef9b2379a272a859494a507547ec",
        "src/harness/pii_run.py": "909b1cbb248aaffed8db4b63b026a183a5afb98c7e7c9e6c0ffde140e71bc17b",
        "src/harness/rules.py": "2f34432e171c1fda123dcf212ba28c93f6e947707e4701e2ee389c5b62560f0f",
@@ -451,7 +451,7 @@
       },
       "new_modules": [],
       "sidecars": {
-       "data/manifest/wild200.mask.json": "98a3e017dc8f36d59442aa97f4e38dbc2666ef69e5bf068592d41f7719eda1dd"
+       "data/manifest/wild200.mask.json": "a154b84886b1424ffde720ae7fd6be20635376aaca94add67969ea0da39478e2"
       },
       "versions": {
        "Pillow": "13.0.0",
@@ -486,7 +486,7 @@
        "rapidocr_onnxruntime": "1.4.4"
       }
      },
-     "revised": false,
+     "revised": true,
      "routing": {
       "scripts/04_harness.py": "28e6827ab3c6bae4376da5e9289ea5713de951d9cc33fa73d1c57c7b6a49822f"
      }

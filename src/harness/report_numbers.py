@@ -139,7 +139,39 @@ def numbers() -> dict:
     V["leak_other"] = sum(1 for l in (ROOT / "results/leaks/leaks.jsonl").read_text(encoding="utf-8").splitlines()
                           if l.strip() and json.loads(l)["class"] == "total_other_printed_amount")
     V.update(_after_poster(P, PW))
+    V.update(_pii())
     return V
+
+
+def _pii() -> dict:
+    """Masking experiment (docs/plan-pii-mask.md), from results*/harness/pii.json: per dataset (tag '' scans,
+    'w' photos) and run (r0 = label and pattern rules, rev1 = allowlist), the M1 numbers against U."""
+    X: dict = {"pii_runs": []}
+    sg = lambda v: f"{'+' if v > 0 else MINUS if v < 0 else ''}{abs(v):.1f}"  # noqa: E731
+    for tag, rel, ds in (("", "results", "sroie300"), ("w", "results_wild", "wild200")):
+        f = ROOT / rel / "harness" / "pii.json"
+        if not f.exists():
+            continue
+        runs = json.loads(f.read_text(encoding="utf-8"))["runs"]
+        for run in ("r0", "rev1"):
+            if run not in runs or "local" not in runs[run] or "replay" not in runs[run]:
+                continue
+            loc, rep = runs[run]["local"][ds], runs[run]["replay"][ds]
+            c3, c4 = rep["criterion_3"], rep["criterion_4"]
+            k = f"{tag}pii_{run}"
+            X[f"{k}_gate"] = pct(loc["gate_cost"]["M1"], 0)
+            X[f"{k}_hidden"] = pct(loc["end_to_end_recall"], 0)
+            X[f"{k}_items"] = loc["labeled_items"]
+            X[f"{k}_c1_receipts"] = len(loc["criterion_1"].get("receipts", []))
+            X[f"{k}_t3"] = sg(c3["point"])
+            X[f"{k}_t3ci"] = pts(*c3["ci95"])
+            X[f"{k}_pairs"] = c3["n_pairs"]
+            X[f"{k}_review"] = sg(c4["points"])
+            X[f"{k}_c2"] = loc["criterion_2"]["status"]
+            X[f"{k}_c2_n"] = len(loc["criterion_2"].get("receipts", []))
+            X[f"{k}_verdict"] = loc["verdict"]
+            X["pii_runs"].append({"set": "Scans (SROIE)" if not tag else "Photos (WildReceipt)", "run": run, "key": k})
+    return X
 
 
 def _after_poster(P: dict, PW: dict) -> dict:

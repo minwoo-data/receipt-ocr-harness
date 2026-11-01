@@ -37,6 +37,11 @@ steps = [
     [PY, "scripts/06_charts.py"],
     [PY, "scripts/15_companion.py"],
     [PY, "scripts/16_workflow_pages.py"],
+    # masking experiment: check the recorded inputs, then recompute the part of pii.json made from committed files
+    [PY, "scripts/25_pii_mask.py", "summary", "--replay-only", "--results", "results", "--manifest", "data/manifest/sroie300.jsonl", "--run", "r0"],
+    [PY, "scripts/25_pii_mask.py", "summary", "--replay-only", "--results", "results", "--manifest", "data/manifest/sroie300.jsonl", "--run", "rev1"],
+    [PY, "scripts/25_pii_mask.py", "summary", "--replay-only", "--results", "results_wild", "--manifest", "data/manifest/wild200.jsonl", "--run", "r0"],
+    [PY, "scripts/25_pii_mask.py", "summary", "--replay-only", "--results", "results_wild", "--manifest", "data/manifest/wild200.jsonl", "--run", "rev1"],
     [PY, "scripts/22_readme.py"],
     [PY, "scripts/18_landing.py"],      # copies the submitted PDF into docs/assets
     [PY, "scripts/21_demo.py"],         # demo/index.html, git-ignored

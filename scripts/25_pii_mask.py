@@ -352,9 +352,29 @@ def replay_part(P: dict, man: dict) -> dict:
             P["dataset"]: pii_run.metrics_replay(P, keys, man)}
 
 
+def check_inputs(P: dict, part: str) -> None:
+    """Stop, changing nothing, when a file this part of pii.json was computed from has changed (stale aggregate).
+    Committed files are compared with CRLF read as LF; files absent here (local-only on a clone) are skipped."""
+    if not P["pii_json"].exists():
+        return
+    runs = json.loads(P["pii_json"].read_text(encoding="utf-8"))["runs"]
+    rec = ((runs.get(P["run"]) or {}).get(part) or {}).get("inputs") or {}
+    bad = []
+    for rel, sha in rec.items():
+        f = ROOT / rel
+        if f.exists():
+            b = f.read_bytes()
+            if sha not in (hashlib.sha256(b).hexdigest(), hashlib.sha256(b.replace(b"\r\n", b"\n")).hexdigest()):
+                bad.append(rel)
+    if bad:
+        raise SystemExit(f"pii.json {P['run']} {part} is stale: {len(bad)} inputs changed ({bad[:3]}); rerun 25 summary")
+
+
 def cmd_summary(P: dict, args) -> None:
     man = manifest_map(P)
     keys = sample_keys(P)
+    if args.replay_only:
+        check_inputs(P, "replay")
     rep = replay_part(P, man)
     pii_run.write_pii_json(P, P["run"], "replay", rep)
     print(json.dumps(rep[P["dataset"]], indent=1)[:1500])

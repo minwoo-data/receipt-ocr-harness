@@ -207,7 +207,7 @@ page = f"""<!doctype html>
 <p>In cloud mode the image leaves the machine at one step only; every check and routing decision runs locally.</p>
 <p>Check rules are per domain: a check tuned on scan errors caught {V['d_caught']} of {V['leak_other']} there with no false alarms, but {V['d_wild_caught_rcpt']} receipt on held-out photos, with {V['d_wild_false_rcpt']} false alarm.</p>
 <div class="lbl">Next</div>
-<p>10k receipts; invoices and statements; layout features for the hand-off decision; a weekly drift metric; masking personal data before the cloud step.</p>
+<p>10k receipts; invoices and statements; layout features for the hand-off decision; a weekly drift metric; a local name detector before any cloud step (masking by rules was tested after the poster, below).</p>
 
 <h2 id="after"><span class="n">+</span>After the poster</h2>
 <p class="ans">Error bars, people's time, and the misses.</p>
@@ -230,6 +230,17 @@ page = f"""<!doctype html>
   <tr><td>Local only</td><td>$0.00</td><td>${V['peopleB']}</td><td><b>${V['totB']}</b></td></tr>
 </table></div>
 <p>The API saving is real but small: a review would have to cost under ${V['breakeven_usd']} ({V['breakeven_s']} s of a person's time) for the harness to be cheaper overall. <b>Its case is where the images go ({V['t1i']} stay on the machine), not price.</b></p>
+
+<h3>Hiding personal data before the cloud call</h3>
+<p>When the local reader fails, hide the personal data on this machine, then let the cloud read the masked image. 30 cloud-bound receipts per dataset, each read as the original and as the masked image by the same model; differences in points, masked minus original.</p>
+<div class="tablewrap"><table class="cmp small">
+  <tr><th></th><th>Personal items hidden</th><th>Date + total, points</th><th>To people, points</th></tr>
+  <tr><td>Field rules, scans</td><td><b>{V['pii_r0_hidden']}</b></td><td>{V['pii_r0_t3']}</td><td>{V['pii_r0_review']}</td></tr>
+  <tr><td>Allowlist, scans</td><td><b>{V['pii_rev1_hidden']}</b></td><td>{V['pii_rev1_t3']}</td><td>{V['pii_rev1_review']}</td></tr>
+  <tr><td>Field rules, photos</td><td><b>{V['wpii_r0_hidden']}</b></td><td>{V['wpii_r0_t3']}</td><td>{V['wpii_r0_review']}</td></tr>
+  <tr><td>Allowlist, photos</td><td><b>{V['wpii_rev1_hidden']}</b></td><td>{V['wpii_rev1_t3']}</td><td>{V['wpii_rev1_review']}</td></tr>
+</table></div>
+<p><b>Field rules missed most names; hiding everything but dates and amounts cost accuracy and sent almost every receipt to people.</b> Local-only stays the answer when data cannot leave. Model-labeled (Gemini 3.1 Flash-Lite), 30 receipts per dataset, rules frozen before any label; details and caveats in the README.</p>
 
 <h3>What catches the misses?</h3>
 <p>In cloud mode {V['bs_leaksA']} of {V['n']} scans are wrong yet pass every check; {V['bs_small']} are off by under 0.10. A random 5% audit catches about 5% of them; its job is to measure the miss rate (in this run it finds at least one with probability {V['bs_audit'][1]['p_find']}). Re-reading the top 20% by amount with the strong model finds {V['bs_recheck'][2]['caught']}; re-reading everything finds {V['bs_recheck'][-1]['caught']} of {V['bs_recheck'][-1]['of']} for ${V['bs_recheck'][-1]['usd_1k']} more per 1,000.</p>
