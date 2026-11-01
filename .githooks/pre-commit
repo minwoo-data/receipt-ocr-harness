@@ -55,7 +55,7 @@ if git diff --cached -U0 | grep -E '^\+' | grep -Ev '^\+\+\+' | grep -Eq "$patte
 fi
 
 if [ "$blocked" -ne 0 ]; then
-  echo "[pre-commit] commit blocked. Remove the secret, then commit again." >&2
+  echo "[pre-commit] commit blocked. Unstage the listed files (git reset <file>) or remove the secret, then commit again." >&2
   exit 1
 fi
 exit 0
